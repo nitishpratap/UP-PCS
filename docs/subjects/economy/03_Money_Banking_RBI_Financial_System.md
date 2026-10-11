@@ -1,385 +1,151 @@
-# Economy Topic 3 — Money, Banking, RBI and Financial System
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥26)
+# Economy Topic 3 — Money, Banking, RBI and the Financial System
+### ★ UPPCS Revision Sheet — Standard Textbook & High-Yield Analysis
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Money and monetary aggregates | Banking structure | PSBs, RRBs, cooperatives | Payments / Small Finance Banks | NABARD and rural credit | Bank nationalisation | NPA and PSL | Digital banking / UPI / FinTech | RBI functions | MPC and monetary tools | Financial inclusion (banking angle)
+Concepts of money and monetary aggregates (M0, M1, M2, M3, M4) | Commercial banking structure in India | Scheduled Commercial Banks (Public, Private, Foreign, RRBs, SFBs, Payments Banks) | Priority Sector Lending (PSL) & Non-Performing Assets (NPAs) | Reserve Bank of India (RBI) origin, functions, and autonomy | Monetary Policy Framework and instruments (Repo, Reverse Repo, SDF, CRR, SLR, MSF, Bank Rate, OMO) | Monetary Policy Committee (MPC) architecture | Rural credit architecture (Lead Bank Scheme, RRBs, NABARD, SHG-Bank Linkage, KCC) | Landmark banking reform committees (Narasimham, Raghuram Rajan, Nachiket Mor) | Financial inclusion initiatives (PMJDY, Swabhimaan, UPI) | Financial regulators (RBI, SEBI, FSDC)
 
 </details>
 
-> **Sources baked in:** NCERT Class 12 Macroeconomics (money and banking), RBI monetary-policy framework notes, standard banking coaching maps, UPPCS Prelims PYQs, UKPCS Prelims; Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand)
-> **Weight:** ★★★ High — RBI issue function, financial-inclusion steps, Lead Bank Scheme, and rural-credit chronology decide stems
-> **Last verified:** September 2026
+> **Core References:** NCERT Class 12 Macroeconomics (Money and Banking), Reserve Bank of India Act, 1934, Banking Regulation Act, 1949, RBI Annual Reports, and UPPCS/UKPCS/UPSC Prelims archives.
+> **Significance:** ★★★ High — Core functions of RBI, monetary policy tools (Repo vs SDF vs CRR/SLR), inflation-targeting framework (4% ± 2%), rural credit chronology (RRB 1975 → NABARD 1982 → SHG 1992 → KCC 1998), and commercial banking reforms.
+> **Last verified:** Academic Year 2026
 
-Budget / tax / FC stay in Economy Topic 2. CPI / WPI inflation depth and capital-market products deepen in Topic 4. External value of the rupee deepens in Topic 9. This chapter owns money, bank types, RBI toolkit and banking-side inclusion.
+*Note:* Foundation macroeconomics and planning are covered in **Topic 1**. Public finance, budgets, and taxes are detailed in **Topic 2**. Inflation metrics (CPI/WPI) are examined in **Topic 4**. External sector, balance of payments, and exchange-rate mechanics deepen in **Topic 9**. This chapter establishes the institutional framework of money, central banking, commercial credit, and rural finance.
 
 ---
 
-## Current Affairs
+## Current Affairs & Contemporary Highlights
 
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2025 (UKPCS)** | **One State, one RRB** wave: government announced merger of **26** RRBs (ten States / UTs), taking the national RRB count from **43 → 28**. | Merger arithmetic stem. |
-| **2024** | RBI’s standout Prelims function among distractors: **issue of currency notes** (not income tax, census, or foreign policy). | Simple function stem. |
-| **2024** | Financial inclusion steps keyed together: **bank nationalisation + RRBs + village adoption by branches**. | All three count. |
-| **MPC / FIT** | Flexible inflation targeting: headline **CPI 4% ± 2%**; **6-member MPC**; **RBI Governor** chairs (not Finance Minister). | Toolkit identity vs Topic 4 index depth. |
-| **SDF (2022)** | Standing Deposit Facility absorbs liquidity **without** collateral; sits with LAF corridor teaching. | Floor of the corridor story. |
+| Reference Year | Key Institutional & Banking Highlight | Conceptual Importance & Exam Relevance |
+|---|---|---|
+| **2025 (UKPCS / CA)** | Under the **"One State, One RRB"** structural consolidation roadmap, the Government of India initiated the merger of **26 Regional Rural Banks** across 10 States/UTs, reducing the total national RRB count from **43 to 28**. | Tests structural consolidation arithmetic and rural banking architecture. |
+| **2024 (UPPCS)** | Core statutory function of the Reserve Bank of India: **exclusive authority for banknote issuance** under Section 22 of the RBI Act, 1934 (distinguished from income tax collection, census, or foreign trade policy). | Emphasizes classical central banking prerogatives. |
+| **2024 (UPPCS)** | Coordinated historical milestones in Indian financial inclusion: **Commercial bank nationalization (1969 & 1980) + Establishment of Regional Rural Banks (1975) + Adoption of villages by bank branches (Lead Bank Scheme)**. | Comprehensive multi-pronged developmental approach to expanding rural credit access. |
+| **2022 onwards** | RBI operationalized the **Standing Deposit Facility (SDF)** under amended Section 17 of the RBI Act at an uncollateralized rate below the policy repo rate, replacing fixed-rate reverse repo as the primary liquidity absorption tool. | Modern liquidity adjustment facility operating without collateral securities. |
+| **Monetary Target** | Under Section 45ZA of the RBI Act, the Central Government, in consultation with RBI, notified the flexible inflation target as **4% CPI headline inflation with a tolerance band of ±2%** (upper tolerance 6%, lower tolerance 2%). | Anchors modern macroeconomic monetary policy deliberations in India. |
 
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
 <summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. **Money** is anything generally accepted as a medium of exchange, a unit of account, a store of value and a standard of deferred payment.
-2. **Narrow money (M1)** in Indian teaching centres on currency with the public + demand deposits + other deposits with RBI (classic list).
-3. **Broad money (M3)** adds time deposits of banks to the narrow base — the most-watched aggregate in school keys.
-4. **Commercial banks** accept deposits, give loans and create credit within reserve rules.
-5. India’s banking map: **public sector banks**, private banks, foreign banks, **cooperative banks**, **Regional Rural Banks**, **Small Finance Banks**, **Payments Banks**, and Local Area Banks in older lists.
-6. **Bank nationalisation**: **14** major banks on **19 July 1969**; **6** more in **1980** — directed credit, branch expansion and priority lending followed.
-7. **Regional Rural Banks (1975)** combine local feel with commercial-bank discipline for small / marginal farmers, artisans and rural labour.
-8. **NABARD (12 July 1982)** is the apex **refinance and development** bank for agriculture and rural credit — not the day-to-day retail lender of first resort in the usual key.
-9. Rural-credit chronology: **RRBs (1975) → NABARD (1982) → SHG–Bank Linkage (1992) → Kisan Credit Card (1998)**.
-10. **Lead Bank Scheme (1969)** assigns one bank lead responsibility for a **district** (area approach after Gadgil / Nariman teaching).
-11. **Priority Sector Lending (PSL)** steers bank credit to agriculture, MSME, education, housing, weaker sections and related notified categories.
-12. **NPA (Non-Performing Asset)**: a loan where interest / principal stays overdue beyond the prescribed period (90-day teaching for term loans). Gross vs net NPA and provisioning are supervision keys.
-13. **Payments Banks** take deposits (subject to limits), provide payments / remittance services and issue debit cards / prepaid instruments — they **cannot** give ordinary loans or issue credit cards in the classic licence design.
-14. **Small Finance Banks** are full banks with a mandate to lend mainly to unserved / underserved segments (SFB licence differs from payments banks).
-15. **Digital banking / UPI**: Unified Payments Interface enables real-time account-to-account payments on phones; FinTech rides on bank rails, NPCI systems and RBI authorisations.
-16. **PMJDY (2014)** and business-correspondent / BC models are modern inclusion instruments after the nationalisation–RRB–Lead Bank phase.
-17. **RBI** was set up on **1 April 1935** under the **RBI Act, 1934**, and nationalised on **1 January 1949**.
-18. Core RBI roles: **monetary authority**, **issuer of banknotes**, **banker and debt manager to government**, **bankers’ bank / lender of last resort**, **regulator / supervisor of banks**, **manager of foreign exchange** (FEMA lane).
-19. **Monetary Policy Committee (MPC)** — six members (three from RBI including the Governor as Chair; three external, appointed by the Central Government) — decides the **policy repo** and related policy stance.
-20. Flexible **inflation targeting**: headline CPI **4%** with a tolerance band of **±2%** (target notified by government in consultation with RBI).
-21. **Repo rate**: rate at which RBI lends short-term funds to banks against eligible collateral (injects liquidity when used).
-22. **Reverse repo / SDF**: rates at which RBI absorbs liquidity from banks; **SDF (2022)** does so without collateral securities.
-23. **CRR (Cash Reserve Ratio)**: share of NDTL kept as cash balance with RBI — earns **no** interest in the post-2007 teaching.
-24. **SLR (Statutory Liquidity Ratio)**: share of NDTL held in approved liquid assets (G-Secs, cash, gold teaching) by the bank itself.
-25. **MSF (Marginal Standing Facility)**: overnight borrowing window against G-Secs, including dipping into SLR within limits — a safety valve above the repo.
-26. **Open Market Operations (OMO)**: RBI buys / sells government securities to inject / absorb durable liquidity.
-27. **Financial inclusion** means affordable access to useful formal financial services for all, especially the underbanked.
-28. **Microfinance / SHG–bank linkage** brings group savings and credit into formal banking; NABARD pioneered the large SHG programme.
-29. **Basel norms** set capital adequacy and risk-management standards for banks under RBI supervision.
-30. **SBI** was created by nationalising the Imperial Bank (1955 teaching).
-31. Major bank nationalisation waves: **1969** (14 banks) and **1980** (6 banks).
-32. **RRBs** began in **1975** (Prathama Bank teaching) for rural credit reach.
-33. **NABARD (12 July 1982)** refinances rural credit on the Sivaraman Committee line.
-34. **SHG–Bank Linkage** (NABARD, 1992 teaching) scaled group-based microcredit.
-35. **KCC (1998)** followed the R.V. Gupta Committee for flexible farm credit.
-36. **SHG–Bank Linkage** was pioneered by **NABARD** (pilot **1992–93**), not by SBI alone; RRBs and Scheduled Commercial Banks are key financing partners.
-37. **Bhandari Committee (1994)** recommended restructuring of **Regional Rural Banks**.
-38. **Narasimham Committee** (CFS **1991**; Banking Sector Reforms **1998**) drove financial / banking structure reforms; it suggested reducing **SLR and CRR**.
-39. **Raghuram Rajan Committee (2007–08)** proposed the next generation of **financial sector reforms** (Planning Commission).
-40. **Financial Stability and Development Council (FSDC, Dec 2010)** is chaired by the **Union Finance Minister** — not an organ of NITI Aayog; it monitors macroprudential supervision and inter-regulator coordination.
-41. **Swabhimaan (10 Feb 2011)** is a financial-inclusion campaign to take basic banking to unbanked villages (population >2000 teaching).
-42. **Kisan Credit Card (1998)** covers both **consumption and investment** credit for farm households; implemented by commercial banks, RRBs, SFBs and cooperatives.
-43. **Banking Ombudsman** is appointed by **RBI**; service is free; NRIs with Indian accounts may complain; Ombudsman orders are **not** final and binding without further remedy.
-44. Credit rating agencies in India are regulated by **SEBI** (not RBI). **CRISIL (1987) → ICRA (1991) → CARE (1993)** chronology.
-45. **‘Plastic money’ / ‘Smart money’** teaching tags point to **credit cards** (and related card instruments).
-46. **UPI** = **Unified Payments Interface** (NPCI); PIN = **Personal Identification Number**.
-47. **Sovereign Gold Bond** and **Gold Monetisation Scheme (2015)** aim to mobilise idle household gold and cut gold-import dependence — **not** primarily to promote FDI in jewellery.
-48. **₹1 note / coin** sits with the Government of India in teaching; other banknotes are issued by RBI.
-49. **M0 (Reserve Money)** = currency in circulation + bankers’ deposits with RBI + other deposits with RBI (teaching identity).
-50. **Fiat money** has value by legal tender / trust, not by intrinsic metal content. **Commodity money** and **representative money** are older teaching types.
+1. **Money** performs four classical macroeconomic functions: a **medium of exchange**, a **unit of account**, a **store of value**, and a **standard of deferred payment**.
+2. **Fiat money** possesses value by virtue of government decree and legal tender status, rather than intrinsic commodity value (such as gold or silver coins). All circulating currency notes and coins in India are fiat money.
+3. In Indian monetary economics, **M1 (Narrow Money)** is defined as: $\text{M1} = \text{Currency with the Public} + \text{Demand Deposits with Banking System} + \text{Other Deposits with RBI}$. It represents the most liquid monetary aggregate.
+4. **M3 (Broad Money)** is the most widely cited measure of aggregate money supply, defined as: $\text{M3} = \text{M1} + \text{Time Deposits (Fixed Deposits) with the Banking System}$.
+5. **Reserve Money (M0 or High-Powered Money)** represents central bank liabilities: $\text{M0} = \text{Currency in Circulation} + \text{Bankers' Deposits with RBI} + \text{Other Deposits with RBI}$.
+6. The **Money Multiplier ($m$)** measures the ratio of broad money supply to reserve money: $m = \frac{\text{M3}}{\text{M0}}$. It reflects the capacity of commercial banks to generate credit and secondary deposits from their primary cash reserves.
+7. Under Section 42(6) of the RBI Act, 1934, **Scheduled Commercial Banks (SCBs)** are banks that satisfy minimum paid-up capital requirements (at least ₹5 lakh historically) and are listed in the **Second Schedule of the Reserve Bank of India Act, 1934**.
+8. India's commercial banking architecture comprises **Public Sector Banks (PSBs)**, **Private Sector Banks**, **Foreign Banks**, **Regional Rural Banks (RRBs)**, and specialized differentiated banks (**Small Finance Banks** and **Payments Banks**).
+9. Under RBI guidelines, **Priority Sector Lending (PSL)** mandates that domestic Scheduled Commercial Banks allocate at least **40% of their Adjusted Net Bank Credit (ANBC)** or credit equivalent of off-balance sheet exposure to designated priority sectors (including Agriculture, Micro/Small Enterprises, Education, Housing, Export Credit, Social Infrastructure, and Renewable Energy). Foreign banks with 20 or more branches carry the identical 40% PSL mandate.
+10. A **Non-Performing Asset (NPA)** is defined as a loan or advance where interest and/or installment of principal remains **overdue for a period exceeding 90 days** in the case of a term loan.
+11. **Gross NPA** reflects the total quantum of bad loans on a bank's balance sheet, while **Net NPA** deducts cumulative provisioning (funds set aside out of profits to absorb anticipated losses) from Gross NPA: $\text{Net NPA} = \text{Gross NPA} - \text{Provisions}$.
+12. **Payments Banks** (instituted on recommendations of the Nachiket Mor Committee) are permitted to accept demand deposits (currently capped at ₹2 lakh per individual customer), facilitate digital payments and remittances, and issue ATM/debit cards. They are **strictly prohibited from issuing credit cards or granting loans**.
+13. **Small Finance Banks (SFBs)** are full-fledged niche commercial banks mandated to deliver savings and credit vehicles to unserved and underserved segments, including micro-enterprises and marginal farmers. They must maintain a higher PSL target of **75% of ANBC**.
+14. The **Unified Payments Interface (UPI)** was developed by the **National Payments Corporation of India (NPCI)** and launched in 2016, enabling instant, real-time account-to-account mobile fund transfers.
+15. The **Pradhan Mantri Jan Dhan Yojana (PMJDY)**, launched on **28 August 2014**, represents the world's largest financial inclusion program, providing universal access to basic banking accounts (Basic Savings Bank Deposit Account - BSBDA) with zero minimum balance, RuPay debit cards, and accident insurance coverage.
+16. The **Reserve Bank of India (RBI)** was established on **1 April 1935** in Calcutta (later moved permanently to Mumbai in 1937) under the **Reserve Bank of India Act, 1934**, based on the recommendations of the **Royal Commission on Indian Currency and Finance (Hilton Young Commission, 1926)**.
+17. The RBI was originally founded as a private shareholders' bank and was formally nationalized on **1 January 1949** under the *Reserve Bank (Transfer to Public Ownership) Act, 1948*.
+18. Core statutory functions of the RBI include: functioning as the **Monetary Authority**; **Sole Issuer of Banknotes** (Section 22); **Banker and Public Debt Manager to the Central and State Governments**; **Bankers' Bank and Lender of Last Resort**; **Regulator and Supervisor of the Banking System** (under Banking Regulation Act, 1949); and **Custodian and Manager of Foreign Exchange Reserves** (under Foreign Exchange Management Act, 1999).
+19. Under Section 22 of the RBI Act, the RBI possesses the exclusive right to issue banknotes in India of denominations from ₹2 to ₹10,000. **One Rupee notes and all metallic coins are issued by the Ministry of Finance (Government of India)**, and One Rupee notes bear the signature of the **Finance Secretary**, not the RBI Governor.
+20. The **Monetary Policy Committee (MPC)** was institutionalized in 2016 under Section 45ZB of the amended RBI Act. It comprises **six members**: three from RBI (including the Governor as ex-officio Chairperson, Deputy Governor in charge of monetary policy, and one RBI official) and three external experts appointed by the Central Government. The Governor exercises a casting vote in the event of a tie.
+21. The statutory monetary policy objective is **flexible inflation targeting**: anchoring headline Consumer Price Index (CPI) inflation at **4% with a tolerance band of ±2%** (between 2% and 6%).
+22. The **Policy Repo Rate** is the benchmark interest rate at which the RBI provides overnight liquidity to commercial banks against the collateral of eligible government securities under the Liquidity Adjustment Facility (LAF).
+23. The **Standing Deposit Facility (SDF)**, introduced in April 2022, serves as the operational floor of the LAF corridor, allowing the RBI to absorb surplus liquidity from commercial banks without requiring the provision of government securities as collateral.
+24. The **Cash Reserve Ratio (CRR)** represents the specified fraction of Net Demand and Time Liabilities (NDTL) that commercial banks must maintain in liquid cash balances with the Reserve Bank of India. Under the RBI Act (post-2007 amendment), the RBI **pays no interest** on cash balances held under CRR.
+25. The **Statutory Liquidity Ratio (SLR)** mandates that commercial banks maintain a specified percentage of their NDTL in approved, unencumbered liquid assets (chiefly Government Securities / Treasury Bills, cash, and gold) within the bank itself before deploying credit.
+26. The **Marginal Standing Facility (MSF)** is an emergency penal borrowing window introduced in 2011, enabling scheduled commercial banks to borrow overnight funds from RBI by dipping into their mandatory SLR quota up to an approved limit at an interest rate pegged above the repo rate.
+27. **Open Market Operations (OMOs)** involve the outright sale or purchase of government securities in the secondary market by the RBI to absorb or inject durable liquidity into the banking system.
+28. **Financial inclusion** denotes the delivery of formal banking, credit, insurance, and payment services at affordable terms to vulnerable, low-income, and marginalized segments of society.
+29. The **Lead Bank Scheme (LBS)** was initiated by the RBI in **1969** following recommendations of the Gadgil Study Group and Nariman Committee, assigning each district to a designated commercial bank (the "Lead Bank") to coordinate district-wide credit deployment.
+30. The first major wave of commercial bank nationalization occurred on **19 July 1969**, when **14 major private commercial banks** (with deposit bases of ₹50 crore or more) were nationalized under the Indira Gandhi administration.
+31. The second wave of commercial bank nationalization took place on **15 April 1980**, nationalizing **6 additional commercial banks** (with deposit bases of ₹200 crore or more).
+32. **Regional Rural Banks (RRBs)** were inaugurated on **2 October 1975** (formalized by the RRB Act, 1976) following the recommendations of the Narasimham Working Group. The first RRB established was **Prathama Bank** (headquartered in Moradabad, Uttar Pradesh, sponsored by Syndicate Bank). The equity capital of RRBs is held in the ratio: **50% Central Government, 15% State Government, and 35% Sponsor Bank**.
+33. The **National Bank for Agriculture and Rural Development (NABARD)** was established on **12 July 1982** under the *NABARD Act, 1981*, based on the recommendations of the **Committee to Review Arrangements for Institutional Credit for Agriculture and Rural Development (CRAFICARD / B. Sivaraman Committee)**, replacing the Agricultural Refinance and Development Corporation (ARDC).
+34. The **Self-Help Group (SHG) – Bank Linkage Programme** was piloted by **NABARD in 1992–93**, linking informal women's thrift groups with commercial banks, transforming rural micro-finance into a mainstream banking vehicle.
+35. The **Kisan Credit Card (KCC)** scheme was formulated by NABARD in **1998** on the recommendations of the **R.V. Gupta Committee**, providing flexible, single-window short-term credit to farmers for crop cultivation, post-harvest expenses, and farm asset maintenance.
+36. The **Bhandari Committee (1994)** was appointed by the Government of India to recommend structural reorganization, financial restructuring, and recapitalization of Regional Rural Banks.
+37. The **Narasimham Committee on Financial System (1991 - Committee I)** recommended systemic deregulation: lowering mandatory CRR and SLR, phasing out directed lending, introducing prudential accounting norms (NPA classification and Capital Adequacy), and permitting entry of new private sector banks.
+38. The **Narasimham Committee on Banking Sector Reforms (1998 - Committee II)** recommended bank mergers to create strong international institutions, asset reconstruction companies, and autonomy in public sector bank management.
+39. The **High-Level Committee on Financial Sector Reforms (2008)**, chaired by **Dr. Raghuram Rajan**, recommended a shift toward principle-based regulation, electronic inclusion, and institutional development of corporate bond markets.
+40. The **Financial Stability and Development Council (FSDC)** was established in **December 2010** on the recommendation of the Raghuram Rajan Committee. It is chaired by the **Union Finance Minister** and includes heads of all financial regulators (RBI, SEBI, IRDAI, PFRDA, IFSCA); it is not an organ of NITI Aayog.
+41. Project **Swabhimaan** was launched on **10 February 2011** by the Ministry of Finance and Indian Banks' Association as a nationwide financial inclusion drive to provide banking services to unbanked villages having a population exceeding 2,000.
+42. Credit Rating Agencies in India (CRISIL, ICRA, CARE) are legally regulated by the **Securities and Exchange Board of India (SEBI)** under the SEBI (Credit Rating Agencies) Regulations, 1999, not by the RBI. Historical inception: **CRISIL (1987) → ICRA (1991) → CARE (1993)**.
+43. The **Banking Ombudsman Scheme** was instituted by the RBI under Section 35A of the Banking Regulation Act, 1949, providing a free, expeditious grievance redressal forum for bank customers; decisions of the Ombudsman can be appealed to the Appellate Authority (Deputy Governor, RBI).
+44. In financial terminology, **"Plastic Money"** refers to payment cards (credit cards and debit cards) that replace conventional paper currency notes in retail transactions.
+45. Under Section 45ZB of the RBI Act, each member of the Monetary Policy Committee has one vote; in the event of an equality of votes, the **Governor of the Reserve Bank of India has a second or casting vote**.
+46. The **State Bank of India (SBI)** was established on **1 July 1955** under the *State Bank of India Act, 1955*, nationalizing the erstwhile **Imperial Bank of India** (which had been created in 1921 through the merger of the three Presidency Banks of Bengal, Bombay, and Madras), based on recommendations of the **All India Rural Credit Survey Committee (A.D. Gorwala Committee)**.
+47. **Basel Accords** are global prudential regulatory standards formulated by the Basel Committee on Banking Supervision (BCBS) setting Capital to Risk-Weighted Assets Ratios (CRAR) to shield banks against solvency crises. Under RBI norms, commercial banks must maintain a minimum CRAR of **9%** (higher than the international Basel III requirement of 8%).
+48. A bank is described as providing **"Lender of Last Resort"** facilities when the central bank provides emergency liquidity credit to solvent financial institutions facing temporary, panic-driven liquidity shortfalls.
+49. **Currency Appreciation** occurs in a floating exchange-rate system when the market value of the domestic currency increases relative to a foreign currency, making imports cheaper and exports relatively more expensive.
+50. In the banking sector, the term **NIM (Net Interest Margin)** represents the difference between the interest income generated by banks on loans/advances and the interest amount paid out to depositors, expressed as a percentage of total interest-earning assets.
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-confused" markdown="1">
 <summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **M1** | **M3** | Narrow vs broad (adds time deposits) |
-| **Repo** | **Reverse repo / SDF** | RBI lends to banks vs absorbs liquidity |
-| **CRR** | **SLR** | Cash with RBI vs liquid assets with bank |
-| **Bank rate** | **Repo rate** | Older / penal signal vs LAF overnight policy rate |
-| **Payments Bank** | **Small Finance Bank** | No ordinary loans vs full bank with inclusion mandate |
-| **NABARD** | **RRB / commercial bank** | Apex refinance vs retail rural lending |
-| **RBI issues notes** | **Govt ₹1 note** | RBI banknotes vs government ₹1 |
-| **MPC Chair = Governor** | **Chair = Finance Minister** | Statutory MPC design |
-| **Lead Bank Scheme** | **Loan Banking Scheme** | Official LBS expansion |
-| **Nationalisation 1969** | **1980 second round** | 14 banks vs 6 more |
-| **Appreciation** | **Depreciation** | Currency rises vs falls vs another |
-| **NPA** | **PSL** | Bad loan classification vs mandated lending sectors |
-| **Narasimham** | **Raghuram Rajan FSR** | 1991/98 banking reforms vs 2008 next-gen financial reforms |
-| **FSDC Chair = FM** | **NITI organ** | Finance Minister apex council — not NITI |
-| **CRA regulator = SEBI** | **RBI regulates CRAs** | SEBI (Credit Rating Agencies) Regulations |
-| **SHG pioneer = NABARD** | **SHG pioneer = SBI alone** | NABARD designed SHG–BLP; banks finance |
-| **Plastic / smart money** | **Paper currency** | Credit/debit cards vs notes |
-| **KCC consumption + investment** | **Only investment credit** | Both farm household needs covered |
+| Concept A | Concept B | Conceptual Distinction & Mechanics | Key Memorization Anchor |
+|---|---|---|---|
+| **M1 (Narrow Money)** | **M3 (Broad Money)** | M1 comprises currency and demand deposits (highly liquid); M3 adds time/fixed deposits with commercial banks. | M1 = Currency + Demand; M3 = M1 + Time Deposits |
+| **Repo Rate** | **Reverse Repo / SDF** | Repo is the rate at which RBI lends funds to banks; Reverse Repo / SDF is the rate at which RBI absorbs surplus liquidity. | Repo = Injects liquidity; SDF/Reverse = Absorbs liquidity |
+| **Cash Reserve Ratio (CRR)** | **Statutory Liquidity Ratio (SLR)** | CRR must be kept as unremunerated cash with RBI; SLR is kept within the commercial bank itself in approved liquid assets (G-Secs, gold). | CRR = Cash with RBI; SLR = Liquid G-Secs with bank |
+| **Bank Rate** | **Repo Rate** | Bank Rate is an older long-term rediscounting/penal rate without collateral repurchase; Repo is the short-term policy rate under LAF. | Bank Rate = Penal/rediscount; Repo = Key overnight policy rate |
+| **Payments Bank** | **Small Finance Bank (SFB)** | Payments Banks cannot lend or issue credit cards; SFBs are full commercial banks with an inclusion mandate (75% PSL target). | Payments = No lending; SFB = Full bank for small loans |
+| **NABARD** | **Commercial Banks / RRBs** | NABARD is an apex refinance and supervisory institution; RRBs and commercial banks engage in direct retail lending to citizens. | NABARD = Apex refinance; Banks = Direct retail loans |
+| **Banknote Issuance** | **One Rupee Note & Metallic Coins** | RBI issues banknotes of ₹2 and higher; Ministry of Finance (Govt of India) issues One Rupee notes (signed by Finance Secretary) and coins. | ₹1 note = Finance Secretary; ₹2+ = RBI Governor |
+| **MPC Chairperson** | **Union Finance Minister** | The Governor of the RBI is the statutory ex-officio Chairperson of the MPC; the Finance Minister holds no seat on the committee. | RBI Governor chairs the MPC |
+| **Bank Nationalization 1969** | **Bank Nationalization 1980** | 1969 wave nationalized 14 major commercial banks; 1980 wave nationalized 6 additional commercial banks. | 1969 = 14 banks; 1980 = 6 banks |
+| **Gross NPA** | **Net NPA** | Gross NPA is the total value of delinquent loans; Net NPA subtracts cumulative bad-debt provisions set aside by the bank. | Net NPA = Gross NPA − Provisions |
+| **FSDC Chairperson** | **NITI Aayog Organs** | FSDC is an inter-regulatory apex body chaired by the **Union Finance Minister**, completely distinct from NITI Aayog. | FSDC = Chaired by Union Finance Minister |
+| **Credit Rating Agency Regulator** | **RBI vs SEBI** | Credit Rating Agencies (CRISIL, ICRA, CARE) are legally regulated by **SEBI**, not by the Reserve Bank of India. | SEBI regulates CRAs |
+| **SHG-Bank Linkage Pioneer** | **NABARD vs SBI Alone** | NABARD conceptualized and piloted the nationwide SHG-Bank Linkage Programme in 1992; commercial banks acted as financing partners. | NABARD pioneered SHG Linkage |
+| **Currency Appreciation** | **Currency Depreciation** | Appreciation is market-driven strengthening of currency; Depreciation is market-driven weakening against foreign currencies. | Appreciation = Currency strengthens |
+| **Prathama Bank (1975)** | **Imperial Bank (1921)** | Prathama Bank was the first Regional Rural Bank; Imperial Bank was the predecessor transformed into State Bank of India in 1955. | Prathama = First RRB; Imperial = Predecessor to SBI |
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-must-score" markdown="1">
-<summary><strong>📋 Must-score drill — RBI tools and rural credit</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>📋 Must-Score Drill — Institutional Chronology & Regulatory Levers</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| Item | Tag |
+| Financial Institution or Regulatory Tool | Core Conceptual Anchor / Chronological Date |
 |---|---|
-| RBI start / nationalisation | 1935 / 1949 |
-| Note issue | RBI (except ₹1 Govt) |
-| MPC | 6 members; Governor chairs; CPI 4% ± 2% |
-| Repo / CRR / SLR / MSF / OMO | Inject-tighten map |
-| Nationalisation | 1969 (14) + 1980 (6) |
-| RRBs | 1975 |
-| NABARD | 1982; apex agri refinance |
-| Chronology | RRB → NABARD → SHG (1992) → KCC (1998) |
-| Lead Bank Scheme | 1969; district lead bank |
-| Payments Bank | Deposits + payments; no loans / credit cards |
-| UPI | Unified Payments Interface; real-time rail |
-| Narasimham | Banking / financial reforms; cut SLR & CRR |
-| Bhandari | RRB restructuring (1994) |
-| FSDC | Finance Minister chairs; 2010 |
-| Swabhimaan | Rural banking inclusion (2011) |
-| CRA regulator | SEBI (CRISIL → ICRA → CARE) |
-| Plastic / smart money | Credit card teaching tag |
+| **RBI Inception & Nationalization** | Established 1 April 1935 (Hilton Young Commission); Nationalized 1 January 1949 |
+| **Note Issuing Authority** | Section 22 of RBI Act, 1934; ₹1 note issued by Ministry of Finance |
+| **Monetary Policy Committee (MPC)** | Section 45ZB of RBI Act; 6 members; Governor chairs with casting vote |
+| **Inflation Target Benchmark** | 4% CPI headline inflation with a tolerance band of ±2% (2% to 6%) |
+| **Imperial Bank to SBI Transition** | State Bank of India Act, 1955 (Gorwala Committee); effective 1 July 1955 |
+| **First Commercial Bank Nationalization** | 19 July 1969; 14 major private commercial banks |
+| **Lead Bank Scheme** | Introduced 1969 on Gadgil Study Group and Nariman Committee advice |
+| **First Regional Rural Bank (RRB)** | Prathama Bank (Moradabad, UP); 2 October 1975 (Narasimham Working Group) |
+| **NABARD Inception** | 12 July 1982 under Act 61 of 1981 (CRAFICARD / B. Sivaraman Committee) |
+| **SHG-Bank Linkage Programme** | Formulated and piloted by NABARD in 1992–93 |
+| **Kisan Credit Card (KCC) Launch** | 1998; model formulated by NABARD (R.V. Gupta Committee) |
+| **Standing Deposit Facility (SDF)** | Introduced April 2022 as uncollateralized liquidity absorption floor |
+| **Cash Reserve Ratio (CRR)** | Kept with RBI as liquid cash; earns zero interest under RBI Act |
+| **Statutory Liquidity Ratio (SLR)** | Maintained by banks in approved G-Secs, cash, and gold |
+| **Marginal Standing Facility (MSF)** | Introduced 2011; overnight penal emergency window dipping into SLR |
+| **Priority Sector Lending (PSL) Target** | 40% of ANBC for domestic Scheduled Commercial Banks |
+| **Small Finance Banks PSL Mandate** | 75% of ANBC allocated to priority sectors |
+| **Payments Bank Deposit Ceiling** | ₹2 lakh per individual; cannot advance loans or issue credit cards |
+| **Narasimham Committee I & II** | 1991 (financial deregulation) and 1998 (banking structural consolidation) |
+| **Financial Stability Council (FSDC)** | December 2010; chaired by Union Finance Minister |
+| **Credit Rating Agency Regulator** | SEBI (Securities and Exchange Board of India) |
+| **Bhandari Committee (1994)** | Restructuring and capital rehabilitation of Regional Rural Banks |
+| **Swabhimaan Campaign** | 10 February 2011; banking in villages with population >2,000 |
+| **"One State, One RRB" Consolidation** | Merger of 26 RRBs, reducing national count from 43 to 28 |
 
 </details>
 
 ---
-
-## 3.1 Money — functions and aggregates
-
-**Money** is anything widely accepted as payment for goods, services and debts.
-
-- Classic functions: **medium of exchange**, **unit of account**, **store of value**, and **standard of deferred payment**.
-- Without a medium of exchange, trade falls back toward barter and the double coincidence of wants.
-- As a unit of account, money lets prices and debts be stated in a common measure.
-- As a store of value, money carries purchasing power across time — inflation erodes this function.
-- As a standard of deferred payment, money denominates future contracts and loans.
-
-### Monetary aggregates (Indian teaching)
-
-- **M1 (narrow money)** includes currency with the public plus demand deposits and other highly liquid components in the RBI teaching map.
-- **M3 (broad money)** adds time deposits and related less-liquid deposits to the narrow base in school presentation.
-- Liquidity ranking puts **currency** ahead of demand deposits; **time deposits** are less liquid than demand deposits.
-- Growth of M3 is watched as a broad liquidity signal; the MPC still targets inflation, not a rigid money-growth rule, in modern teaching.
-
----
-
-## 3.2 Banking structure, nationalisation, NPA, digital rails
-
-**India’s banking map** includes public sector banks, private banks, foreign banks, cooperative banks, Regional Rural Banks, Small Finance Banks, Payments Banks and older Local Area Bank lists.
-
-- **Public sector banks** dominate branch reach and priority-sector outreach in historical teaching.
-- **Regional Rural Banks (RRBs)** were created to serve rural credit needs with a local focus.
-- **Cooperative banks** serve members; regulation mixes RBI and State roles.
-- **Payments Banks** may take deposits and offer payments but cannot give loans or issue credit cards in the classic teaching rule.
-- **Small Finance Banks** lend mainly to underserved segments under a differentiated licence.
-
-### Nationalisation and inclusion
-
-- Major bank nationalisation waves in teaching: **1969** (14 banks) and **1980** (6 banks).
-- Nationalisation aimed to expand credit to priority sectors and unserved regions.
-- The **Lead Bank Scheme (1969)** assigns a lead bank at district level for credit planning and inclusion outreach.
-- Village adoption by bank branches is treated as an inclusion step alongside nationalisation and RRBs in keyed stems.
-- **Narasimham Committee** reports (**1991** and **1998**) steered banking / financial-sector reforms and recommended lower **SLR** and **CRR**.
-- **Bhandari Committee (1994)** identified RRBs for comprehensive restructuring and more board autonomy.
-- **Raghuram Rajan Committee (2007–08)** proposed next-generation financial-sector reforms.
-- **Bimal Jalan Panel** scrutinised new bank-licence applications for RBI.
-- **FSDC (2010)** is chaired by the **Finance Minister** and coordinates regulators for financial stability — it is **not** a NITI organ.
-- **Swabhimaan (2011)** pushed basic banking into unbanked villages; **Business Correspondents** enable deposits, withdrawals and benefit drawals without a full branch.
-- **KCC (1998)** supplies timely farm credit covering both **consumption and investment** needs.
-- **Banking Ombudsman** (RBI-appointed, free) resolves customer complaints; its order is **not** the last word without further challenge.
-- Credit rating agencies (**CRISIL, ICRA, CARE, Brickwork**) are regulated by **SEBI**, not RBI.
-- **UPI** = Unified Payments Interface; **plastic / smart money** teaching tags usually mean **credit cards**.
-- **SGB** and **Gold Monetisation** aim to bring idle gold into formal use and reduce import dependence.
-
-### NPA and digital rails
-
-- A **Non-Performing Asset (NPA)** is a loan where interest or principal stays overdue beyond the regulatory norm (90 days teaching for term loans).
-- High NPAs weaken bank capital and constrain fresh lending.
-- **Priority Sector Lending (PSL)** directs credit to agriculture, MSME, education, housing and weaker sections in teaching.
-- **UPI** is India’s real-time retail payments rail linking bank accounts through a common interface.
-- FinTech and digital banking expand access but raise cyber-risk and consumer-protection questions.
-
-**Q-EC1. UPPCS (Pre) 2024**
-
-With reference to India, consider the following events:
-
-1. Nationalisation of Banks
-2. Formation of Regional Rural Banks
-3. Adoption of villages by Bank Branches
-
-Which of the above events can be considered as steps taken to achieve "financial inclusion in India"?
-
-A. Only 2 and 3
-B. 1, 2 and 3
-C. Only 1 and 2
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** All three pushed formal banking toward unserved people and places — ownership / branch expansion (1969–80), rural specialty banks (1975), and village service / adoption under Lead Bank–style practice — 1, 2 and 3
-
-**Ans: B.** 1, 2 and 3
-</details>
-
-**Q-EC2. UPPCS (Pre) 2022**
-
-L.B.S. is one of the economic measures taken by the Government of India for financial inclusion. What is L.B.S. in this context?
-
-A. Lead Banking Scheme
-B. Loan Banking Scheme
-C. Lead Breaking System
-D. Loan Banking System
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** “Loan Banking” wordings are distractors.
-
-**Ans: A.** Official expansion is Lead Bank / Lead Banking Scheme — district lead-bank area approach.
-
-</details>
-
----
-
-## 3.3 NABARD and rural credit chronology
-
-**NABARD (National Bank for Agriculture and Rural Development)** is India’s apex bank for agricultural refinance and rural development finance.
-
-- NABARD was established in **1982**.
-- It refinances commercial banks, RRBs and cooperatives for farm and rural lending.
-- It is **not** the central bank (that is RBI) and **not** a commercial bank like SBI.
-- Land Development Banks (LDBs) are specialised long-term farm-credit institutions — not the apex refinance body.
-
-### Rural credit chronology (must order)
-
-- **Regional Rural Banks** were established in **1975**.
-- **NABARD** followed in **1982**.
-- The **SHG–Bank Linkage Programme** began in **1992** under **NABARD** (not SBI as the original initiator).
-- In an SHG, members share **collective responsibility** for loans; RRBs and Scheduled Commercial Banks are key financing institutions.
-- The **Kisan Credit Card (KCC)** plan began in **1998** and covers both consumption and investment credit.
-- Keyed order: RRB → NABARD → SHG linkage → KCC (**4, 1, 2, 3** in the UPPCS stem numbering).
-- “One State, one RRB” consolidation is CA-sensitive; March 2025 teaching keyed a wave merging **26** RRBs.
-
-**Q-EC3. UKPCS (Pre) 2016**
-
-The Apex bank for providing Agricultural Refinance in India is
-
-A. RBI
-B. NABARD
-C. LDB
-D. SBI
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** RBI is the central bank; SBI is a commercial bank.
-
-**Ans: B.** NABARD is the apex agri / rural refinance and development bank.
-
-</details>
-
-**Q-EC4. UPPCS (Pre) 2020**
-
-Consider the following events and arrange them in chronological order:
-
-1. Establishment of NABARD
-2. Self Help Group Bank Linkage Programme
-3. Kisan Credit Card Plan
-4. Establishment of Regional Rural Bank
-
-Select the correct answer from the codes given below:
-
-A. 4, 1, 2, 3
-B. 4, 2, 3, 1
-C. 1, 2, 3, 4
-D. 4, 3, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Code 4-1-2-3.
-
-**Ans: A.** RRBs 1975 → NABARD 1982 → SHG–Bank Linkage 1992 → KCC 1998.
-
-</details>
-
-**Q-EC5. UKPCS (Pre) 2025**
-
-In March 2025, the Indian Government announced the merger of how many Regional Rural Banks (RRBs) under the 'one state, one RRB' initiative?
-
-A. 16
-B. 21
-C. 26
-D. 30
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Coverage keyed 26 RRBs in the announced wave (43 → 28 national count teaching) — 26
-
-**Ans: C.** 26
-</details>
-
----
-
-## 3.4 RBI and monetary policy toolkit
-
-**The Reserve Bank of India** is India’s central bank and monetary authority.
-
-- RBI was established in **1935** and nationalised in **1949** in teaching.
-- Core functions: issue of currency notes, banker to the government, banker to banks, custodian of forex reserves, and monetary-policy conduct.
-- RBI does **not** collect income tax, conduct the population census, or formulate foreign policy.
-- Only the **₹1** note / coin lane is a Finance Ministry exception in classic note-issue teaching; higher denominations are RBI-issued.
-
-### Monetary Policy Committee and tools
-
-- The **Monetary Policy Committee (MPC)** sets the policy repo rate under a flexible inflation-targeting frame.
-- India’s retail inflation target is **4% CPI** with a **±2%** tolerance band in teaching.
-- **Repo rate** is the rate at which RBI lends to banks against collateral — the policy rate spine.
-- **Reverse repo** is the rate RBI pays when banks park funds with it.
-- **CRR (Cash Reserve Ratio)** is the share of deposits banks must keep as cash reserves with RBI.
-- **SLR (Statutory Liquidity Ratio)** is the share banks must hold in approved liquid securities.
-- **Bank Rate / MSF** and open-market operations fine-tune liquidity in teaching.
-- Raising repo / CRR / SLR tightens liquidity; cutting them eases it.
-
-**Q-EC6. UPPCS (Pre) 2024**
-
-Which of the following functions is performed by the Reserve Bank of India?
-
-A. Collection of income tax
-B. Issue of currency notes
-C. Conducting population census
-D. Foreign policy formulation
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tax collection, census and foreign policy belong elsewhere.
-
-**Ans: B.** Note issue is a core RBI function.
-
-</details>
-
-MPC sets the policy repo under flexible inflation targeting (CPI 4% ± 2%). Repo, reverse repo / SDF, CRR, SLR, MSF and OMO move bank reserves and lending conditions. Raising the repo or reserve ratios tightens; cutting them eases.
-
----
-
-## Teaching expansion — additional theory (beyond Consolidated spine)
-
-These points sit in teaching theory (not the Consolidated spine).
-
-- **LAF (Liquidity Adjustment Facility)** is the daily repo / reverse-repo (and related) corridor for short-term liquidity.
-- **MCLR / external-benchmark lending rates** improve transparency of how banks price loans — a reforms tag, not a money-supply aggregate.
-- **Scheduled banks** are listed in the RBI Act’s Second Schedule and enjoy certain facilities (e.g. LAF access teaching).
-- **Money multiplier** ≈ M3 / M0; it links reserve money to broad money.
-- RBI was established on **1 April 1935**; nationalised in **1949**.
-- **PCA framework** constrains weak banks on capital, asset quality and profitability triggers.
-- **SMA-0 / SMA-1 / SMA-2** are special mention accounts tracking early stress before NPA classification.
-- **IBC 2016** is the insolvency resolution code for corporate distress.
-- **Payment Banks** cannot give loans; **Small Finance Banks** can lend with a priority-sector focus.
-- **Base Rate / MCLR / external benchmark** are successive loan-pricing regimes in teaching chronology.
-- **Bimal Jalan Panel** (RBI) scrutinised applications for **new bank licences** (report Feb 2014).
-- **Business Correspondents (Bank Saathi)** enable rural deposits, withdrawals and benefit drawals in branchless areas.
-- **CRISIL / CARE / ICRA / Brickwork** evaluate creditworthiness; ICRA is a listed public limited company.
-- **Disinvestment Commission** first Chairman: **G.V. Ramakrishna (1996)**; **Rangarajan Committee (1993)** on disinvestment of government shares.
 
 ## Complete PYQ Bank (UPPCS)
 
 **Q1. UPPCS (Pre) 2024**
+
+Which of the following is a primary function of the Reserve Bank of India?
 
 A. Collection of income tax
 B. Issue of currency notes
@@ -396,6 +162,14 @@ D. Foreign policy formulation
 
 **Q2. UPPCS (Pre) 2024**
 
+Which of the following steps have been taken in India to promote financial inclusion?
+
+1. Nationalisation of commercial banks
+2. Establishment of Regional Rural Banks
+3. Adoption of villages by bank branches
+
+Select the correct answer from the codes given below:
+
 A. Only 2 and 3
 B. 1, 2 and 3
 C. Only 1 and 2
@@ -411,6 +185,8 @@ D. Only 3
 
 **Q3. UPPCS (Pre) 2022**
 
+Under which scheme was a designated commercial bank assigned the primary responsibility for coordinating district-level credit deployment in India?
+
 A. Lead Banking Scheme
 B. Loan Banking Scheme
 C. Lead Breaking System
@@ -425,6 +201,15 @@ D. Loan Banking System
 </details>
 
 **Q4. UPPCS (Pre) 2020**
+
+Arrange the following rural credit and institutional initiatives in chronological order of their inception:
+
+1. NABARD
+2. SHG-Bank Linkage Programme
+3. Kisan Credit Card (KCC)
+4. Regional Rural Banks (RRBs)
+
+Select the correct answer using the codes given below:
 
 A. 4, 1, 2, 3
 B. 4, 2, 3, 1
@@ -1521,6 +1306,8 @@ D. DICGC — deposit insurance
 </details>
 
 **Q22.**
+
+The concept of 'Lender of Last Resort' in the Indian financial system refers to:
 
 A. NITI Aayog granting Plan funds
 B. RBI providing emergency liquidity support to banks
@@ -4032,6 +3819,8 @@ D. Narasimham Committee
 ## UKPCS Prelims Bank
 **Q1. UKPCS (Pre) 2016**
 
+Which of the following is the apex refinance institution for agriculture and rural development in India?
+
 A. RBI
 B. NABARD
 C. LDB
@@ -4046,6 +3835,8 @@ D. SBI
 </details>
 
 **Q2. UKPCS (Pre) 2021**
+
+An increase in the value of one currency relative to another in foreign exchange markets is called:
 
 A. A weakening of a currency
 B. A depreciation of a currency
@@ -4062,6 +3853,8 @@ D. A debasement of a currency
 </details>
 
 **Q3. UKPCS (Pre) 2025**
+
+Under the 'One State, One RRB' consolidation phase announced by the Government of India, how many Regional Rural Banks were proposed to be merged?
 
 A. 16
 B. 21
@@ -4622,18 +4415,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Ans: A.** Contrast pair, not a causal explanation of A.
 </details>
 
-## Common Traps
+## Common Traps & High-Yield Conceptual Clarifications
 
-* RBI issues notes (not tax, census, foreign policy); ₹1 is the government exception.
-* MPC = **6** members, **Governor** chairs, CPI **4% ± 2%** — not Finance Minister as Chair.
-* Repo injects; reverse repo / SDF absorbs; CRR = cash with RBI (no interest); SLR = liquid assets with bank.
-* Payments Banks ≠ loan banks; Small Finance Banks can lend.
-* Inclusion: nationalisation + RRBs + village adoption; LBS = **Lead Banking Scheme** (not Loan Banking…).
-* Rural chronology: **RRB 1975 → NABARD 1982 → SHG 1992 → KCC 1998**.
-* SHG pioneer = **NABARD**; group shares repayment burden; RRBs + SCBs finance.
-* Narasimham = banking reforms (cut SLR/CRR); Bhandari = RRB restructuring; Rajan 2008 = next-gen FSR.
-* FSDC Chair = **Finance Minister** — not NITI; CRA regulator = **SEBI**.
-* Plastic / smart money ≈ **credit card**; UPI = Unified Payments Interface.
-* KCC = consumption **and** investment credit; Ombudsman orders are **not** final without further remedy.
-* NABARD = apex refinance — not “RBI is the agri refinance apex” in the UKPCS key.
-* Appreciation ≠ depreciation; exchange-rate regimes deepen in Topic 4/9 as needed.
+* **Banknote Issuing Authority:** Under Section 22 of the RBI Act, 1934, the **RBI issues all banknotes of denomination ₹2 and above**. **One Rupee notes and all metallic coins are issued by the Ministry of Finance**, and One Rupee notes bear the signature of the **Finance Secretary**, not the RBI Governor.
+* **Monetary Policy Committee Leadership:** The **Governor of the Reserve Bank of India** is the ex-officio Chairperson of the MPC; the Union Finance Minister has no seat on the committee.
+* **Inflation Target Structure:** Flexible inflation targeting benchmarks **headline Consumer Price Index (CPI) at 4% with a tolerance band of ±2%** (between 2% and 6%).
+* **Payments Banks vs Small Finance Banks:** Payments Banks can accept demand deposits (up to ₹2 lakh) and issue ATM/debit cards, but are **strictly prohibited from lending loans or issuing credit cards**. In contrast, Small Finance Banks are full banks authorized to grant credit.
+* **Commercial Bank Nationalization Dates:** The **first wave (1969)** nationalized 14 banks (deposit threshold ₹50 crore); the **second wave (1980)** nationalized 6 additional banks (deposit threshold ₹200 crore).
+* **Rural Credit Milestone Sequence:**
+  1. **Lead Bank Scheme:** 1969 (Gadgil/Nariman)
+  2. **Regional Rural Banks (RRBs):** 1975 (Prathama Bank, Moradabad)
+  3. **NABARD:** 1982 (B. Sivaraman Committee)
+  4. **SHG-Bank Linkage:** 1992 (NABARD pilot)
+  5. **Kisan Credit Card (KCC):** 1998 (R.V. Gupta Committee)
+* **Equity Structure of RRBs:** Held strictly in the proportion **50% Central Government, 15% State Government, and 35% Sponsor Bank**.
+* **CRR Interest Ban:** The RBI pays **no interest** on cash reserve balances maintained by banks under the Cash Reserve Ratio.
+* **Standing Deposit Facility (SDF):** Unlike the traditional reverse repo rate, the SDF absorbs liquidity **without requiring government securities as collateral**.
+* **Apex Rural Refinance Agency:** **NABARD** is an apex refinance and regulatory oversight agency, not a retail commercial bank advancing individual retail loans.
+* **Credit Rating Agency Oversight:** Credit Rating Agencies (CRISIL, ICRA, CARE) are regulated by **SEBI**, not by the Reserve Bank of India.
+* **Financial Stability Council (FSDC):** Chaired by the **Union Finance Minister**, not by the RBI Governor or NITI Aayog.

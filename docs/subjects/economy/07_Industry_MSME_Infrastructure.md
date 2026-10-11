@@ -1,393 +1,158 @@
 # Economy Topic 7 — Industry, Manufacturing, MSME and Infrastructure
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥26)
+### ★ UPPCS Revision Sheet — Standard Textbook & High-Yield Analysis
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Industrialisation and industrial policy | MSME / cottage / SSI | Make in India, Startup India | PSU, disinvestment, privatisation | FDI (industry angle) | Industrial corridors / SEZ | Major industries | Roads, rail, ports, airports, power, digital infra | PM Gati Shakti
+Industrialisation patterns and National Industrial Policies (1948, 1956, 1991) | Micro, Small and Medium Enterprises (MSME) composite classification criteria | Small Scale Industries (SSI) committees chronology (Karve, Nayak, Abid Hussain, Kohli) | Make in India and Startup India missions | Public Sector Enterprises (CPSEs), Maharatna/Navratna/Miniratna framework, and Disinvestment | Foreign Direct Investment (FDI) sector patterns | Index of Eight Core Industries & Index of Industrial Production (IIP) | Major Indian industrial sectors (textiles, steel, cement, electronics, pharmaceuticals) | Economic infrastructure: PM Gati Shakti National Master Plan, National Infrastructure Pipeline (NIP), Bharatmala, Sagarmala, and Dedicated Freight Corridors
 
 </details>
 
-> **Sources baked in:** NCERT Class 11–12 industry / infrastructure basics, MSME Gazette 2020, Make in India / Gati Shakti notes, UPPCS Prelims PYQs, UKPCS Prelims
-> **Weight:** ★★★ High — Make in India 2014, Gati Shakti date vs seven engines, MSME 2020 classification, and SSI committee order decide stems
-> **Last verified:** September 2026 — Lucent remodel (History/Polity section order); Extra Drill rebuilt from mixed stems
+> **Core References:** NCERT Class 11 (Indian Economic Development), Ministry of MSME Notifications, DPIIT Annual Reports, Economic Survey, and UPPCS/UKPCS/UPSC Prelims archives.
+> **Significance:** ★★★ High — Make in India launch (2014), PM Gati Shakti seven engines and launch date (13 October 2021), composite MSME criteria (2020 & 2025 updates), Eight Core Industries weights, and SSI committee chronology.
+> **Last verified:** Academic Year 2026
 
-Full BoP / FPI depth stays in **Topic 9**. Regulator name-lists deepen in **Topic 11**. This chapter owns manufacturing policy, MSME, PSUs / disinvestment, major industries and economic infrastructure.
+*Note:* External sector, balance of payments, and foreign portfolio investment (FPI) mechanics are detailed in **Topic 9**. Statutory corporate governance and regulatory bodies are consolidated in **Topic 11**. Historical labor legislation and economic acts are detailed in **Topic 12**. This chapter anchors industrial policy, MSME development, public enterprise reforms, manufacturing, and national infrastructure.
 
 ---
 
-## Current Affairs
+## Current Affairs & Contemporary Highlights
 
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2024** | **Singapore** as top FDI source in 2023–24 teaching; **India–Mauritius tax treaty** change shifted routing away from Mauritius. | A true + R explains A. |
-| **2023** | **PM Gati Shakti** seven engines correct; launch year is **2021**, not 2022. | Date trap. |
-| **2022** | **Make in India** launched **2014**; aims to encourage manufacturing in India and facilitate investment. | Both statements. |
-| **2021 (UKPCS)** | Latest MSME classification revision effective **2020** (1 July 2020). | Composite investment + turnover. |
-| **2025** | MSME investment / turnover ceilings raised again (**w.e.f. 1 April 2025**) — 2.5× investment and 2× turnover over the 2020 bands. | Stem year decides which ceiling set. |
-| **SSI committees** | Keyed order **Karve → Abid Hussain → Nayak → Kohli** (IV, II, I, III) — middle pair is contested vs some date lists; carry Karve first / Kohli last as safe anchors. | Chronology stem. |
-| **CSR / companies** | CSR statute depth lives in **Topic 11**; labour codes / Act chronology deepen in **Topic 12**. | Topic border. |
+| Reference Year | Key Industrial & Infrastructure Milestone | Conceptual Importance & Exam Relevance |
+|---|---|---|
+| **2024 (UPPCS)** | **Singapore** maintained its position as the largest source of Foreign Direct Investment (FDI) equity flows into India, following amendments to the **India–Mauritius Double Taxation Avoidance Agreement (DTAA)** that eliminated treaty-shopping via shell entities. | Explains the shift in foreign investment routing from Mauritius toward Singapore. |
+| **2023 (UPPCS)** | The **PM Gati Shakti National Master Plan** was officially launched on **13 October 2021** (not in 2022) to integrate infrastructure development across **seven institutional engines**. | Critical launch year and structural component question. |
+| **2022 (UPPCS)** | The **Make in India** program was inaugurated on **25 September 2014** with the primary objective of transforming India into a global manufacturing hub and facilitating domestic and foreign investment. | Tests inaugural timeline, primary objectives, and policy pillars. |
+| **2021 (UKPCS)** | The revised **composite classification criteria for MSMEs** (combining both investment in plant/machinery and annual turnover) came into legal effect on **1 July 2020**, eliminating the former distinction between manufacturing and services. | Landmark statutory classification framework. |
+| **2025 Revision** | Effective **1 April 2025**, the Government of India revised MSME thresholds upward: Micro (Investment ≤ ₹2.5 cr / Turnover ≤ ₹10 cr); Small (Investment ≤ ₹25 cr / Turnover ≤ ₹100 cr); Medium (Investment ≤ ₹125 cr / Turnover ≤ ₹500 cr). | Highlights contemporary ceiling adjustments across enterprise categories. |
+| **Committee Chronology** | Chronological succession of Small Scale Industry (SSI) committees: **Karve Committee (1955) → Nayak Committee (1991) → Abid Hussain Committee (1997) → S.S. Kohli Committee (2000)**. | High-frequency chronological ordering question in state civil service exams. |
 
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 47 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. The **secondary sector** covers manufacturing, electricity, gas, water and construction in national-accounts teaching.
-2. **Industrialisation** raises manufacturing’s share of output and employment and deepens capital goods capacity.
-3. India’s industrial policy moved from Licence–Permit controls toward liberalisation after **1991**, with later missions for manufacturing and startups.
-4. **Large-scale industry** uses heavy capital and organised labour; **SSI / MSME** and **cottage** units are smaller, more labour-intensive and dispersed.
-5. **Cottage industries** are household / artisan-based with little separation of dwelling and workplace.
-6. **MSME** classification (from **1 July 2020**) uses a **composite** investment + turnover criterion for manufacturing and services together — no separate mfg/services formula.
-7. **2020 bands** (still keyed in many stems): Micro ≤ **₹1 crore** / ≤ **₹5 crore**; Small ≤ **₹10 crore** / ≤ **₹50 crore**; Medium ≤ **₹50 crore** / ≤ **₹250 crore**.
-8. **From 1 April 2025**: Micro ≤ **₹2.5 crore** / ≤ **₹10 crore**; Small ≤ **₹25 crore** / ≤ **₹100 crore**; Medium ≤ **₹125 crore** / ≤ **₹500 crore** — read the stem year before picking a ceiling.
-9. MSMEs dominate enterprise count and a large share of manufacturing employment and exports in teaching; all bank loans to MSMEs (meeting PSL conditions) qualify as **priority-sector** lending.
-10. **Karve Committee (1955)** is the early Village and Small-Scale Industries committee of the plan era.
-11. Later SSI / MSME committees in the liberalisation decades include **Nayak**, **Abid Hussain** and **S.S. Kohli** (sick-unit rehabilitation teaching).
-12. **Make in India (25 September 2014)** encourages companies to manufacture in India and facilitates investment; logo is a **lion** of cogs.
-13. **Startup India** eases compliance and funding; start-ups raise capital via **angel investors, venture capital and crowdfunding**.
-14. **Stand-Up India** (5 April 2016) facilitates bank loans (₹10 lakh–₹1 crore teaching) to **SC/ST and women** greenfield entrepreneurs; SIDBI refinance / connect centres.
-15. **PMMY / MUDRA** (8 April 2015, Ministry of Finance / DFS): Shishu ≤₹50,000; Kishore ₹50,001–₹5 lakh; Tarun ₹5–10 lakh; **Tarun Plus** up to **₹20 lakh** (from Oct 2024 teaching).
-16. **Industrial corridors** (e.g. **DMIC with Japan**) and **SEZs** aim to cluster infrastructure, logistics and export-oriented production; Asia’s first EPZ was **Kandla (1965)**.
-17. **Public Sector Undertakings (PSUs)** are government-owned enterprises in strategic and commercial fields.
-18. **Navratna / Maharatna / Miniratna** tags grant operational and investment autonomy tiers to eligible CPSE (Maharatna count is CA-sensitive — ~14 in recent teaching).
-19. **Disinvestment** sells government equity in PSUs; **privatisation / strategic sale** transfers control; proceeds route via **National Investment Fund** teaching.
-20. **FDI** is lasting foreign investment with control / lasting interest; **FPI** is portfolio investment (Topic 9 depth).
-21. **Services** have long been a top sector for FDI equity flows in India teaching; Singapore has recently led as a source country.
-22. **IIP** tracks industrial volume of **Mining + Manufacturing + Electricity** — **construction / gas–water supply are not** in IIP; publisher NSO (earlier CSO).
-23. **Eight Core Industries** (~**40.27%** of IIP weight): coal, crude oil, natural gas, refinery products, fertilisers, steel, cement, electricity — **chemicals / textiles not** in the eight.
-24. Among Core weights, **refinery products** are heaviest overall; among common option sets **electricity** often ranks highest.
-25. Major industry lanes: **textiles, steel, cement, automobiles, electronics, pharmaceuticals, petrochemicals, food processing, defence manufacturing**.
-26. **Textile** is the largest industrial employer after agriculture; **powerloom** leads cotton-cloth quantity; Gujarat leads mill-made cotton cloth teaching.
-27. Public-sector steel collaboration map: **Bhilai–USSR/Russia**; **Rourkela–Germany**; **Durgapur–UK**; **Bokaro–USSR**.
-28. **IT / electronics** and **pharma** are high-value strengths; India is about the **second-largest mobile-phone producer** after China in recent ICA teaching.
-29. **Infrastructure** is the enabling capital stock — transport, energy, telecom, logistics and digital rails.
-30. **PM Gati Shakti** launched **13 October 2021** — seven engines: roads, railways, airports, ports, mass transport, waterways, logistics infrastructure.
-31. **National Infrastructure Pipeline (NIP)** covers roughly **FY 2019–25** (not “2020–30”); objective includes equitable infrastructure access; NIP projects align with Gati Shakti.
-32. **Bharatmala** = roads/highways; **Sagarmala** = ports/coastal; Deepak Parekh and Vijay Kelkar committees = infrastructure financing / PPP revitalisation.
-33. **NIIF** (2015) is India’s infrastructure investment fund under Finance Ministry — **not** an organ of NITI Aayog; proposed corpus teaching ≈ **₹40,000 crore** (not ₹4 lakh crore).
-34. **National Manufacturing Policy (4 November 2011)**: raise manufacturing share toward **25%** of GDP, create **100 million** jobs, growth **12–14%**; tools include **NIMZs**, single-window clearance, Technology Acquisition Fund.
-35. First NIMZ teaching often keys **Andhra Pradesh (Prakasam)**.
-36. **PLI** rewards incremental domestic manufacturing; terms (incentive %, years, applicant categories) are scheme- and tranche-sensitive.
-37. **PNGRB (2006)** promotes competitive markets for petroleum/gas; appeals go to the **Appellate Tribunal for Electricity**; it is **not** India’s first regulatory body.
-38. **PCRA** = Petroleum Conservation Research Association.
-39. **CGTMSE** = Credit Guarantee Fund Trust for Micro and Small Enterprises (GoI + SIDBI).
-40. **Digital India** is a digital-empowerment mission — **not** primarily an industrial-development initiative (unlike Make in India / Startup India / EoDB).
-41. Industrial Policy landmarks: **1948** first free-India policy; **1956** joint-sector vision; **IDR Act 1951** licensing power; **1991** liberalisation / delicensing of most industries.
-42. Act chronology teaching: **Minimum Wages Act 1948 → Industries (D&R) Act 1951 → MRTP 1969 → FERA 1973**.
-43. **Abid Hussain Committee** recommended abolition of SSI product reservation; **Nayak Committee** examined SSI finance.
-44. **Reliance Industries** — first Indian private firm on Fortune Global 500 teaching (2006); long-time Fortune India #1; first Indian firm above **USD 200 bn** market cap.
-45. Railway teaching: near-**100% broad-gauge electrification** push; **net-zero carbon** network target by **2030**.
-46. India–**Japan** collaboration: **Delhi–Mumbai Industrial Corridor (DMIC)**.
-47. Topic border: CSR / Kotak governance → **Topic 11**; labour codes / Code on Wages → **Topic 12**; poverty from industry → Topic 8; FDI stock tables → Topic 9.
+1. In national income accounting, the **secondary sector** comprises manufacturing, electricity, gas, water supply, and construction.
+2. **Industrialisation** represents the structural transition of an economy characterized by an expanding share of manufacturing in aggregate Gross Value Added (GVA) and total employment, fostering technological accumulation and domestic capital goods production.
+3. India's industrial policy evolved through distinct historical phases: the **Industrial Policy Resolution (IPR) of 1948** (first policy of independent India establishing a mixed economy); the **IPR of 1956** (the "Economic Constitution of India" prioritizing state-led heavy industry); and the **New Industrial Policy of 24 July 1991** (dismantling the License-Permit-Quota Raj).
+4. Enterprises are structurally differentiated: **large-scale industries** employ organized labor and heavy capital equipment, whereas **Micro, Small and Medium Enterprises (MSMEs)** and **cottage industries** are more labor-absorptive, decentralized, and capital-light.
+5. **Cottage industries** are household-based, artisan-operated productive activities utilizing traditional indigenous tools, where workplace and domestic dwelling are largely identical.
+6. The landmark MSME definition implemented on **1 July 2020** introduced a **composite criterion combining investment and annual turnover**, completely erasing the historical dichotomy between manufacturing and service enterprises.
+7. **2020 Composite MSME Classification:**
+   - **Micro Enterprise:** Investment in Plant & Machinery/Equipment $\le$ **₹1 crore** and Annual Turnover $\le$ **₹5 crore**.
+   - **Small Enterprise:** Investment $\le$ **₹10 crore** and Annual Turnover $\le$ **₹50 crore**.
+   - **Medium Enterprise:** Investment $\le$ **₹50 crore** and Annual Turnover $\le$ **₹250 crore**.
+8. **Revised Thresholds (Effective 1 April 2025):** The Union Government revised thresholds upward by 2.5x for investment and 2x for turnover:
+   - **Micro:** Investment $\le$ **₹2.5 crore** and Turnover $\le$ **₹10 crore**.
+   - **Small:** Investment $\le$ **₹25 crore** and Turnover $\le$ **₹100 crore**.
+   - **Medium:** Investment $\le$ **₹125 crore** and Turnover $\le$ **₹500 crore**.
+9. MSMEs contribute approximately **30% of India's GDP**, over **45% of total manufacturing output**, and nearly **40% of national merchandise exports**, employing over 110 million citizens. All bank lending to eligible MSMEs counts toward **Priority Sector Lending (PSL)** targets.
+10. The **Karve Committee (Village and Small-Scale Industries Committee, 1955)** was appointed during the Second Five-Year Plan to assess the developmental potential of small industries in absorbing surplus rural labour.
+11. The **Nayak Committee (1991)** examined institutional credit bottlenecks facing small-scale industries and recommended that working capital credit should represent at least 20% of projected annual turnover.
+12. The **Abid Hussain Committee (1997)** recommended the phased dismantling and abolition of policy reservations that restricted specific product manufacturing exclusively to the small-scale sector.
+13. The **S.S. Kohli Committee (2000)** was constituted by the Reserve Bank of India to formulate rehabilitation parameters for sick small-scale industrial units.
+14. The **Make in India** initiative was launched on **25 September 2014** by Prime Minister Narendra Modi to facilitate foreign investment, foster innovation, enhance skill development, and transform India into a global manufacturing hub. Its iconic symbol is a **lion made of mechanical cogs**.
+15. The **Startup India** initiative was launched on **16 January 2016** to nurture an entrepreneurship ecosystem through simplified regulatory compliance, tax exemptions, and institutional venture capital funding.
+16. The **Stand-Up India Scheme** was launched on **5 April 2016** to facilitate bank loans between **₹10 lakh and ₹1 crore** to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and at least one woman borrower per bank branch for setting up greenfield (new) enterprises in manufacturing, services, or trading.
+17. The **Pradhan Mantri Mudra Yojana (PMMY)** was launched on **8 April 2015** to provide non-corporate, non-farm micro-enterprises with collateral-free loans up to ₹10 lakh across three categories: **Shishu** (up to ₹50,000), **Kishore** (₹50,001 to ₹5 lakh), and **Tarun** (₹5 lakh to ₹10 lakh). In October 2024, the government expanded the framework to include **Tarun Plus** (up to **₹20 lakh**) for borrowers who successfully repaid earlier Tarun loans.
+18. Special Economic Zones (SEZs) provide duty-free enclaves treated as foreign territory for tariff purposes to boost exports and attract foreign direct investment. Asia's first Export Processing Zone (EPZ) was established at **Kandla, Gujarat in 1965**.
+19. Central Public Sector Enterprises (CPSEs) are granted graded operational, financial, and investment autonomy:
+   - **Maharatna:** CPSEs with average annual net profit over ₹5,000 crore, net worth of ₹15,000 crore, and turnover of ₹25,000 crore over three years (authorized to make equity investments up to ₹5,000 crore without prior government sanction).
+   - **Navratna:** Authorized to invest up to ₹1,000 crore without prior central approval.
+   - **Miniratna (Category I & II):** Graded investment powers up to ₹500 crore.
+20. **Disinvestment** involves the partial sale of government equity holdings in public sector enterprises without relinquishing operational management control. In contrast, **Strategic Disinvestment / Privatization** entails transferring at least 50% equity along with management control to a private strategic buyer.
+21. Disinvestment proceeds flow into the **National Investment Fund (NIF)**, instituted in 2005, where capital is deployed to capitalize social sector projects and revive viable CPSEs.
+22. **Foreign Direct Investment (FDI)** involves cross-border investment wherein an overseas investor acquires a lasting management interest (statutorily defined in India as 10% or more of the equity share capital) in an Indian enterprise.
+23. The **Services Sector** (encompassing financial, banking, insurance, IT, and outsourcing activities) represents the single largest cumulative recipient of FDI equity inflows into India.
+24. **Singapore** and **Mauritius** historically represent the top source countries for foreign direct investment into India.
+25. The **Index of Industrial Production (IIP)** measures short-term volume growth in industrial production; it comprises three broad categories: **Manufacturing (weight 77.63%)**, **Mining (14.37%)**, and **Electricity (7.99%)**. Construction, agriculture, gas, and water supply are **not included** in the IIP.
+26. The **Eight Core Industries** represent foundational infrastructure sectors comprising **40.27% of the total weight of the IIP**.
+27. The Eight Core Industries and their approximate weights are:
+   1. **Refinery Products** (28.04% - highest weight)
+   2. **Electricity** (19.85%)
+   3. **Steel** (17.92%)
+   4. **Coal** (10.33%)
+   5. **Crude Oil** (8.98%)
+   6. **Natural Gas** (6.88%)
+   7. **Cement** (5.37%)
+   8. **Fertilizers** (2.63% - lowest weight)
+   *(Note: Chemicals, textiles, and automobiles are NOT among the Eight Core Industries).*
+28. The **Textile Industry** is India's oldest organized manufacturing industry and the second-largest employment provider after agriculture. Within cloth production, the **powerloom sector** produces the vast majority of fabric, far surpassing organized mill-made and handloom production.
+29. The modern Indian cotton textile mill industry originated in **1854** when Cowasjee Nanabhoy Davar established the Bombay Spinning and Weaving Mill (following an earlier unsuccessful venture at Fort Gloster, Bengal in 1818).
+30. The Second Five-Year Plan established landmark integrated public-sector steel plants through bilateral foreign technical collaborations:
+   - **Bhilai Steel Plant (Chhattisgarh):** Collaboration with the **USSR** (1955)
+   - **Rourkela Steel Plant (Odisha):** Collaboration with **West Germany** (Krupp and Demag, 1959)
+   - **Durgapur Steel Plant (West Bengal):** Collaboration with the **United Kingdom** (1959)
+   - **Bokaro Steel Plant (Jharkhand, Third Plan):** Collaboration with the **USSR** (1964)
+31. India is the **second-largest crude steel producer** in the world, surpassed only by China.
+32. India is the **second-largest cement producer** in the world, following China, with cement manufacturing concentrated near extensive limestone belts in Andhra Pradesh, Rajasthan, and Madhya Pradesh.
+33. India's **pharmaceutical industry** is globally ranked **3rd by volume** and 14th by value, earning recognition as the "Pharmacy of the World" due to its dominant share in affordable generic formulations and global vaccine supply.
+34. India has emerged as the **second-largest manufacturer of mobile phones** globally in volume terms, driven by phased manufacturing programs and production-linked incentives.
+35. The **National Manufacturing Policy (NMP)** was notified on **4 November 2011**, establishing the ambitious objective of raising manufacturing's share of GDP to **25%** and creating **100 million additional jobs** through large-scale **National Investment and Manufacturing Zones (NIMZs)**.
+36. The **Production Linked Incentive (PLI) Schemes** provide financial incentives on incremental domestic sales over a base year to attract large-scale capital investments across 14 designated strategic sectors (including electronics, pharmaceuticals, telecom, automobiles, and advanced chemistry cell batteries).
+37. **PM Gati Shakti – National Master Plan for Multi-modal Connectivity** was launched on **13 October 2021** by Prime Minister Narendra Modi. It is a GIS-enabled digital platform that synchronizes multi-modal project execution across 16 infrastructure ministries to eliminate bureaucratic silos and lower national logistics costs.
+38. PM Gati Shakti is driven by **Seven Strategic Engines**: **Roads, Railways, Airports, Ports, Mass Transport, Waterways, and Logistics Infrastructure**.
+39. The **National Infrastructure Pipeline (NIP)** covers a planned capital investment horizon of **FY 2020–2025** across economic and social infrastructure projects, with funding shared in the ratio: **39% Centre, 39% States, and 22% Private Sector**.
+40. **Bharatmala Pariyojana** is an umbrella highway development program launched by the Ministry of Road Transport and Highways to optimize economic corridors, border connectivity, coastal roads, and multi-modal logistics parks.
+41. **Sagarmala Programme** is a flagship initiative of the Ministry of Ports, Shipping and Waterways aimed at port-led industrialization, coastal community development, port modernization, and coastal shipping connectivity.
+42. The **Dedicated Freight Corridor (DFC)** project comprises dedicated railway corridors—the **Western DFC** (Dadri, UP to JNPT, Mumbai) and the **Eastern DFC** (Ludhiana, Punjab to Dankuni, West Bengal)—engineered exclusively for heavy freight transit.
+43. The **National Investment and Infrastructure Fund (NIIF)** was established in **2015** as a sovereign-linked alternative asset management platform under the Department of Economic Affairs, Ministry of Finance, with an initial targeted corpus of **₹40,000 crore**. It is not an attached organ of NITI Aayog.
+44. The **Deepak Parekh Committee** submitted recommendations on infrastructure financing, while the **Dr. Vijay Kelkar Committee (2015)** formulated policy blueprints for revitalizing and restructuring Public-Private Partnership (PPP) infrastructure contracts.
+45. Indian Railways has committed to achieving **100% broad-gauge rail electrification** and attaining the target of becoming a **Net Zero Carbon Emitter by 2030**.
+46. The **Delhi–Mumbai Industrial Corridor (DMIC)** is India's premier greenfield industrial corridor, developed along the Western Dedicated Freight Corridor in technical and financial collaboration with the Government of **Japan**.
+47. **CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises)** was established jointly by the Ministry of MSME and the **Small Industries Development Bank of India (SIDBI)** to provide collateral-free credit guarantees to financial institutions lending to MSMEs.
+48. The **Petroleum and Natural Gas Regulatory Board (PNGRB)** was constituted under the *PNGRB Act, 2006* to regulate downstream refining, transportation, distribution, and marketing of petroleum and natural gas; legal appeals against PNGRB orders lie before the **Appellate Tribunal for Electricity (APTEL)**.
+49. **Petroleum Conservation Research Association (PCRA)** is a registered society under the Ministry of Petroleum and Natural Gas engaged in promoting fuel efficiency and conservation practices.
+50. **Reliance Industries Limited (RIL)** was the first private-sector Indian commercial enterprise to feature on the global *Fortune Global 500* ranking (in 2006) and the first Indian corporation to surpass USD 200 billion in market capitalization.
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-confused" markdown="1">
 <summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **Make in India 2014** | **Gati Shakti 2021** | Manufacturing mission vs infra master plan |
-| **Gati Shakti 2021** | **“Launched 2022” trap** | Oct 2021 correct |
-| **MSME 2020 composite** | **Old plant & machinery-only split** | Investment + turnover; mfg = services |
-| **MSME 2020 ceilings** | **MSME Apr 2025 ceilings** | Stem year picks the band |
-| **FDI** | **FPI** | Lasting control interest vs portfolio |
-| **Disinvestment** | **Privatisation / strategic sale** | Equity sale vs control transfer |
-| **Cottage** | **MSME factory unit** | Household artisan vs enterprise thresholds |
-| **IIP (mining–mfg–electricity)** | **Construction / gas–water in IIP** | Construction is NOT in IIP |
-| **Eight Core Industries** | **Chemical / textile as “core”** | Chemical & textile not in the eight |
-| **Bharatmala** | **Sagarmala** | Roads vs ports/coastal |
-| **NIP FY 2019–25** | **“NIP 2020–30” trap** | Period in A is wrong in UPPCS 2020 key |
-| **NIIF** | **NITI Aayog organ** | Finance Ministry infra fund — not NITI |
-| **Make in India / Startup / EoDB** | **Digital India** | Industrial facilitation vs digital society |
-| **PNGRB** | **“First Indian regulator”** | 2006 board; older regulators exist |
-| **Stand-Up India (SC/ST/women)** | **MUDRA (micro enterprise credit)** | Identity-targeted greenfield vs micro loan bands |
-| **Karve (1955)** | **Kohli (latest of four)** | Oldest vs newest in the set |
-| **Singapore FDI source** | **Mauritius historic routing** | Recent top source vs treaty-shift story |
-| **Seven engines** | **Sixteen ministries on GIS** | Engine list vs portal integration count |
-| **Bhilai–Russia** | **Rourkela–Germany** | Steel collaboration countries |
+| Concept A | Concept B | Conceptual Distinction & Mechanics | Key Memorization Anchor |
+|---|---|---|---|
+| **Make in India Launch (2014)** | **PM Gati Shakti Launch (2021)** | Make in India launched 25 September 2014 for manufacturing; Gati Shakti launched 13 October 2021 for infrastructure. | Make in India = 2014; Gati Shakti = 2021 |
+| **Gati Shakti Launch Year** | **2021 vs 2022 Trap** | Official launch date was 13 October 2021 (frequently misstated as 2022 in exam distractors). | Launch year: 2021 |
+| **MSME 2020 Classification** | **Pre-2020 Historical Split** | 2020 criteria combine Investment + Turnover and treat manufacturing and services identically. | 2020 = Composite Investment + Turnover |
+| **MSME 2020 Ceilings** | **MSME 2025 Revised Ceilings** | 2020: Micro ₹1cr/₹5cr; 2025: Micro ₹2.5cr/₹10cr. Check question year benchmark. | 2020 = 1/10/50 cr; 2025 = 2.5/25/125 cr |
+| **Foreign Direct Investment (FDI)** | **Foreign Portfolio Investment (FPI)** | FDI entails lasting management control ($\ge$10% equity); FPI is passive portfolio investment in traded stocks. | FDI = Management control; FPI = Passive market trading |
+| **Disinvestment** | **Strategic Disinvestment / Privatization** | Disinvestment sells minority equity; Strategic disinvestment transfers majority ownership ($\ge$50%) and management control. | Disinvestment = Minority shares; Strategic = Management transfer |
+| **Cottage Industry** | **Small Scale Enterprise** | Cottage units are home-based artisan activities; Small scale units utilize power machinery in distinct premises. | Cottage = Household artisans; Small = Power machinery factory |
+| **Index of Industrial Production** | **Construction & Utilities in IIP** | IIP measures Mining, Manufacturing, and Electricity; Construction, gas, and water supply are NOT in IIP. | Construction is NOT in IIP |
+| **Eight Core Industries** | **Chemicals & Textiles** | Eight Core Industries comprise Refineries, Electricity, Steel, Coal, Crude, Gas, Cement, Fertilizers (No Chemicals or Textiles). | Chemicals & Textiles are NOT Core Industries |
+| **Bharatmala Pariyojana** | **Sagarmala Programme** | Bharatmala develops highways, economic corridors, and logistics parks; Sagarmala develops ports and coastal trade. | Bharatmala = Roads/highways; Sagarmala = Ports/shipping |
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-must-score" markdown="1">
-<summary><strong>📋 Must-score drill — missions and MSME</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>📋 Must-Score Drill — Manufacturing, MSME, and Infrastructure</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| Item | Tag |
+| Industrial Policy or Infrastructure Program | Core Milestone / Structural Fact |
 |---|---|
-| Make in India | 25 Sep 2014; lion logo; manufacture + investment |
-| Gati Shakti | 13 Oct 2021; seven engines |
-| MSME new definition | 1 July 2020; ceilings revised 1 Apr 2025 |
-| Micro / Small / Medium (2020) | 1&5 / 10&50 / 50&250 (₹ crore) |
-| MUDRA bands | Shishu / Kishore / Tarun / Tarun Plus (to ₹20 lakh) |
-| Stand-Up India | SC/ST + women; ₹10 lakh–₹1 crore |
-| NMP | 4 Nov 2011; 25% GDP / 100 mn jobs |
-| Eight Core | Coal–oil–gas–refinery–fertiliser–steel–cement–electricity |
-| IIP sectors | Mining, manufacturing, electricity only |
-| NIIF | Not NITI; ~₹40,000 crore corpus teaching |
-| Bharatmala | Road infrastructure |
-| DMIC partner | Japan |
-| Top FDI sector (classic) | Services |
-| SSI chronology key | Karve → Abid Hussain → Nayak → Kohli |
-| SIDBI | MSME apex DFI |
-| IIP | Industrial production index |
-| Disinvestment | Govt sells PSU equity |
-
-</details>
-
----
-
-## 7.1 Industrial structure and MSME
-
-**Industry** covers mining, manufacturing and electricity in the secondary-sector teaching map; manufacturing is the core policy focus of industrialisation.
-
-- Large industry, medium industry and MSMEs differ by scale, capital and employment intensity.
-- **MSMEs** dominate employment share in manufacturing and services micro-enterprise teaching.
-- The revised composite MSME definition took effect from **1 July 2020** — investment and turnover criteria together.
-- Older MSME definitions used plant-and-machinery investment alone; 2020 is the keyed “latest classification” year for older stems.
-- From **1 April 2025**, investment and turnover ceilings were raised again (about 2.5× and 2× over the 2020 bands) — always match the stem year.
-- **MSMED Act** was passed in **2006**; manufacturing and services now share one composite formula.
-- All qualifying bank loans to MSMEs sit under **priority-sector lending**.
-- **CGTMSE** (Credit Guarantee Fund Trust for Micro and Small Enterprises) backs collateral-light MSE credit (GoI + SIDBI).
-- Cottage and small-scale industry policy has a long committee history in Indian planning.
-- SSI / MSME problems teaching: capital, marketing, raw materials — **strikes and lockouts** are not the classic SSI problem set.
-- Preferential treatment for small firms rests on higher employment per unit capital and regional dispersion — not a claim that they always out-export large firms.
-
-### SSI / MSME committee chronology (keyed order)
-
-- The **Karve Committee** is the earliest classic anchor (**1955** teaching) for village and small industries.
-- The **Abid Hussain Committee** reviewed small-scale industry policy in the reform era.
-- The **Nayak Committee** examined small-industry credit and related issues.
-- The **S.S. Kohli Committee** sits last in the keyed UPPCS chronological code.
-- Official key order for the stem: **Karve → Abid Hussain → Nayak → Kohli** (IV, II, I, III).
-- **Abid Hussain Committee** recommended abolition of SSI product reservation.
-- **Nayak Committee** (RBI, early 1990s) examined SSI financing difficulties.
-
-### IIP and Eight Core Industries
-
-- **IIP** measures short-term volume change in **Mining, Manufacturing and Electricity**.
-- **Construction** and **gas / water supply** are **not** included in IIP.
-- NSO (after CSO–NSSO merger) releases IIP monthly; base year teaching is **2011–12** (moving to **2022–23** with national accounts).
-- **Eight Core Industries** (Office of the Economic Adviser, DPIIT) together weigh about **40.27%** of IIP: coal, crude oil, natural gas, refinery products, fertilisers, steel, cement, electricity.
-- **Chemicals** and **textiles** are not in the eight-core list.
-- Heaviest Core weight overall is **refinery products**; among common three-way options, **electricity** often carries the highest weight.
-
-**Q-EC1. UKPCS (Pre) 2021**
-
-In which of the following year, the latest classification of MSME was done?
-
-A. 2012
-B. 2014
-C. 2018
-D. 2020
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Revised composite MSME definition took effect from 1 July 2020 — 2020
-
-**Ans: D.** 2020
-</details>
-
-**Q-EC2. UPPCS (Pre) 2019**
-
-Arrange the following Committees formed for small scale sector in a chronological order and select the correct answer from the codes given below.
-
-I. Nayak Committee
-II. Abid Hussain Committee
-III. S.S. Kohli Committee
-IV. Karve Committee
-
-A. I, II, IV, III
-B. III, II, I, IV
-C. IV, II, I, III
-D. I, II, III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Some date lists put Nayak before Abid Hussain; for this stem follow the keyed code and remember Karve (1955) as the earliest anchor.
-
-**Ans: C.** Official key marks **IV, II, I, III** — Karve first, Kohli last.
-
-</details>
-
----
-
-## 7.2 Industrial policy — Make in India, startups, corridors
-
-**Industrial policy** steers manufacturing capacity, investment climate and spatial clusters.
-
-### Make in India and startups
-
-- **Make in India** was launched on **25 September 2014**.
-- It aims to encourage companies to manufacture in India and to facilitate investment.
-- The logo is a **lion** silhouette made of **cogs** (manufacturing symbol).
-- Ease of doing business, FDI opening and sector champions were part of the programme narrative.
-- **Startup India** supports new ventures through recognition, funding access and compliance easing in teaching.
-- Start-up capital teaching: **angel investors, venture capital and crowdfunding** (and related new-age finance).
-- **Stand-Up India** (launched **5 April 2016**) promotes entrepreneurship among **SC/ST and women** with greenfield loans of about **₹10 lakh to ₹1 crore** per eligible borrower per bank branch; SIDBI/NABARD connect centres appear in refinance teaching.
-- **Pradhan Mantri MUDRA Yojana** (8 April 2015) brings non-corporate micro enterprises into formal credit — **Shishu / Kishore / Tarun**, plus **Tarun Plus** up to **₹20 lakh** in recent teaching; administered under **Ministry of Finance (DFS)**.
-- **Digital India** is **not** an industrial-development initiative in the keyed sense — it is a digital-society / e-governance mission.
-- Startup recognition and DPIIT facilitation sit beside industrial policy, not as a substitute for MSME classification (Section 7.1).
-
-### National Manufacturing Policy, PLI and corridors
-
-- **National Manufacturing Policy** was released on **4 November 2011**.
-- Objectives teaching: manufacturing growth **12–14%**, about **100 million** additional jobs, manufacturing share toward **25%** of GDP, and global competitiveness — export-growth-at-25%-p.a. is the distractor often dropped.
-- Policy tools: **National Investment and Manufacturing Zones (NIMZs)**, **single-window clearance**, and a **Technology Acquisition and Development Fund**.
-- First NIMZ teaching commonly keys **Andhra Pradesh** (Prakasam).
-- **PLI** schemes pay incentives on incremental sales of notified goods — rates, years and applicant categories (global / domestic / hybrid) differ by scheme tranche; do not mix Large Electronics Manufacturing with IT Hardware 2.0 numbers.
-- Industrial corridors (for example **Delhi–Mumbai Industrial Corridor with Japan**) link manufacturing hubs with logistics spines.
-- Corridors lower logistics cost when they connect ports, rail and industrial nodes.
-- **SEZs** offer duty and procedural benefits; Asia’s first EPZ was at **Kandla (1965)**.
-- SEZ benefits are location- and procedure-bound — they are not a blank tax holiday for every firm.
-- Industrial Policy landmarks: **1948** first free-India policy; **1956** joint-sector vision; **Industries (Development and Regulation) Act, 1951** as the licensing power; **1991** liberalisation delicensed most industries (only a short residual list remains).
-
-> **Logic:** Make in India ≠ Digital India. NMP 2011 ≠ Make in India 2014. PLI numbers are tranche-specific.
-
-**Q-EC3. UPPCS (Pre) 2022**
-
-Which of the following statement(s) is/are correct about the 'Make in India' Programme?
-
-1. The 'Make in India' Programme was launched in the year 2014.
-2. It aims at encouraging companies for manufacturing in India and facilitating investment.
-
-Select the correct answer from the codes given below:
-
-A. Both 1 and 2
-B. Only 1
-C. Neither 1 nor 2
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (Official 2022 booklet places “Both” as option A.)
-
-**Ans: A.** Both statements are true — launched September 2014; manufacturing + investment facilitation is the programme purpose.
-
-</details>
-
----
-
-## 7.3 PSU, disinvestment and FDI (industry angle)
-
-**Public Sector Undertakings (PSUs)** are government-owned enterprises in strategic and commercial sectors.
-
-- PSUs were central to the Nehruvian industrialisation model in commanding-heights teaching.
-- Functions teaching: public utilities, social/economic overhead capital, balanced regional growth, egalitarian goals — **not all PSUs are profit-oriented**.
-- **Disinvestment** means selling government equity in PSUs without necessarily giving up control in every case.
-- **Privatisation** in teaching means transfer of management / majority control to private hands; the most complete mode is ownership-and-management transfer to the private sector.
-- Strategic sale versus minority stake sale are different disinvestment modes.
-- Disinvestment proceeds have been channelled through the **National Investment Fund** (professionally managed; social-sector / infrastructure uses in teaching).
-- **Maharatna / Navratna / Miniratna** grades raise investment autonomy; Miniratna-I financial autonomy teaching often keys up to **₹500 crore**.
-- **TISCO / Tata Steel** is private — not a CPSE; **BSNL** is a fully GoI-owned CPSE in many keys.
-- **ONGC** was set up in **1956** (statutory body later; then corporation); **OIL** is an exploration & production company.
-- **PNGRB (2006)** protects consumers/entities and promotes competitive petroleum/gas markets; appeals lie to the **Appellate Tribunal for Electricity**; it is **not** India’s first regulator.
-- **PCRA** = Petroleum Conservation Research Association (MoPNG aegis).
-- **NIIF (2015)** maximises infrastructure investment impact — **not** a NITI Aayog organ; corpus teaching ≈ **₹40,000 crore**, not ₹4,00,000 crore.
-- **FDI** is lasting foreign investment with control / lasting interest; **FPI** is portfolio investment (Topic 9 depth).
-- Services have long led classic FDI equity-flow rankings in India.
-- **Singapore** emerged as the largest FDI source in 2023–24 teaching.
-- The **India–Mauritius tax treaty** amendment shifted routing away from Mauritius and helps explain the source-country change.
-- Automatic and government approval routes plus sectoral caps govern FDI entry.
-- Corporate rankings CA: **Reliance Industries** was the first Indian private company on Fortune Global 500 teaching (2006) and has topped Fortune India 500 in recent years; it was the first Indian firm to cross **USD 200 billion** market capitalisation.
-
-### Major industries — quick map
-
-- **Textiles** employ the largest industrial workforce after agriculture; **powerloom** leads cotton-cloth quantity; **Gujarat** leads mill-made cotton cloth; **Tamil Nadu** leads mill count teaching.
-- Cotton textiles are India’s oldest large-scale modern industry (Bombay Spinning & Weaving, **1854** teaching after an earlier Fort Gloster failure).
-- Steel collaboration: **Bhilai–USSR/Russia**, **Rourkela–Germany**, **Durgapur–UK**, **Bokaro–USSR**; Bhilai is **not** riverside-sited in the keyed trap.
-- Cement plants cluster near limestone; India is the world’s **second-largest** cement producer after China.
-- Fertiliser plants often use **natural gas** feedstock (e.g. Hazira KRIBHCO teaching); India is not fully self-reliant in chemicals/potash.
-
-**Q-EC4. UPPCS (Pre) 2024**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): During 2023-24, Singapore emerged as the largest source of FDI to India.
-
-Reason (R): The India-Mauritius Tax Treaty amendment has brought a major shift in countries as major sources of FDI to India.
-
-Select the correct answer from the codes given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-B. (A) is false, but (R) is true.
-C. Both (A) and (R) are true and (R) is the correct explanation of (A).
-D. (A) is true, but (R) is false.
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
-
-**Ans: C.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q-EC5. UKPCS (Pre) 2016**
-
-Which sector in India attracts the highest FDI equity flow?
-
-A. Construction sector
-B. Energy sector
-C. Service sector
-D. Automobile sector
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Service sector.
-
-**Ans: C.** Services lead the cumulative / classic FDI equity-flow ranking in Indian teaching.
-
-</details>
-
----
-
-## 7.4 Infrastructure and PM Gati Shakti
-
-**Economic infrastructure** connects production and markets — transport, energy, logistics, digital and social infrastructure.
-
-- Roads, railways, ports, airports, inland waterways and warehousing form the logistics spine.
-- Power generation, transmission and distribution decide industrial competitiveness.
-- Digital public infrastructure (UPI, Aadhaar-linked rails teaching) lowers transaction costs.
-- Ports and coastal shipping cut logistics cost for bulk cargo; airports support high-value and passenger flows.
-
-### PM Gati Shakti
-
-- **PM Gati Shakti National Master Plan** integrates multi-modal infrastructure planning on a common GIS platform.
-- It was launched on **13 October 2021** — stems that print **2022** as the launch year are wrong.
-- It integrates engines including roads, railways, airports, ports, mass transport, waterways and logistics infrastructure.
-- The aim is coordinated project planning to cut delays and logistics cost.
-- **National Infrastructure Pipeline (NIP)** aims at equitable access to infrastructure; the Task Force horizon is roughly **FY 2019–25** — stems saying “NIP for 2020–30” fail the Assertion.
-- NIP projects pertaining to the seven engines are aligned with the Gati Shakti framework.
-- **Bharatmala** is a **road / highways** umbrella programme; **Sagarmala** is port-led.
-- **Deepak Parekh Committee** suggested measures for financing infrastructure; **Vijay Kelkar Committee** revisited / revitalised the **PPP** model of infrastructure development.
-- Railway teaching: Mission **100% electrification** of broad-gauge; **net-zero carbon** network target by **2030**.
-- **Nashik Metro Neo** teaching: India’s first rubber-tyred metro clearance story.
-- Sagarmala, Bharatmala and dedicated freight corridors are neighbouring logistics programmes in teaching.
-
-**Q-EC6. UPPCS (Pre) 2023**
-
-With reference to PM Gati Shakti Scheme, which of the following statements is/are correct?
-
-1. PM Gati Shakti National Master Plan was launched in 2022.
-2. It integrates seven engines including roads, railways, airports, ports, mass transport, waterways and logistics infrastructure.
-
-Select the correct answer from the codes given below:
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Launch year is **2021** (13 October), not 2022 — so only statement 2 stands.
-
-**Ans: B.** Seven engines statement is correct.
+| **Make in India Launch Date** | 25 September 2014; symbol is a lion made of cogs |
+| **PM Gati Shakti Launch Date & Engines** | 13 October 2021; seven strategic transport and logistics engines |
+| **First Export Processing Zone (EPZ)** | Kandla, Gujarat (1965); Asia's first EPZ |
+| **Micro Enterprise Criteria (2020)** | Investment $\le$ ₹1 crore and Turnover $\le$ ₹5 crore |
+| **Small Enterprise Criteria (2020)** | Investment $\le$ ₹10 crore and Turnover $\le$ ₹50 crore |
+| **Medium Enterprise Criteria (2020)** | Investment $\le$ ₹50 crore and Turnover $\le$ ₹250 crore |
+| **Karve Committee Year & Domain** | 1955; Village and Small-Scale Industries |
+| **Nayak Committee Year & Domain** | 1991; Credit bottlenecks and working capital for SSIs |
+| **Abid Hussain Committee Year & Domain** | 1997; Recommended abolition of SSI product reservation |
+| **S.S. Kohli Committee Year & Domain** | 2000; Rehabilitation of sick SSI units |
+| **Top FDI Source Country (2023–24)** | Singapore |
+| **Top Sector for FDI Inflows** | Services Sector (financial, banking, IT, business services) |
+| **IIP Sectors & Weights** | Manufacturing (77.63%), Mining (14.37%), Electricity (7.99%) |
+| **Heaviest Core Industry by Weight** | Petroleum Refinery Products (28.04% of Eight Core Industries) |
+| **Bhilai Steel Plant Partner** | USSR / Russia (1955) |
+| **Rourkela Steel Plant Partner** | West Germany (Krupp and Demag, 1959) |
+| **Durgapur Steel Plant Partner** | United Kingdom (1959) |
+| **Bokaro Steel Plant Partner** | USSR / Russia (1964) |
+| **National Manufacturing Policy Goal** | 2011; Target 25% GDP share and 100 million manufacturing jobs |
+| **National Infrastructure Pipeline (NIP)** | FY 2020–2025; Funding ratio 39% Centre, 39% States, 22% Private |
+| **NIIF Corpus & Setup Year** | 2015; Initial corpus ₹40,000 crore under Department of Economic Affairs |
+| **Indian Railways Net Zero Target** | Target year 2030; 100% electrification of broad-gauge network |
+| **Delhi–Mumbai Industrial Corridor (DMIC)** | Technical and financial collaboration with Japan |
 
 </details>
 
@@ -1904,17 +1669,25 @@ D. Mandatory private venture capital debt subscriptions
 
 ---
 
-## Common Traps
+## Common Traps & High-Yield Conceptual Clarifications
 
-* **Make in India = 2014** (lion logo); **Gati Shakti = 2021** (not 2022) + **seven engines**.
-* MSME **2020** composite — then **Apr 2025** ceiling hike; stem year wins.
-* SSI chronology keyed **Karve → Abid Hussain → Nayak → Kohli**.
-* IIP = mining + manufacturing + electricity — **not** construction.
-* Eight Core ≠ chemicals/textiles; heaviest weight = **refinery products**.
-* NIP period ≠ “2020–30”; NIIF ≠ NITI organ; corpus ≠ ₹4 lakh crore.
-* Bharatmala = **roads**; DMIC partner = **Japan**.
-* Stand-Up India = SC/ST + women; MUDRA max now **₹20 lakh** teaching.
-* Digital India ≠ industrial initiative; PNGRB ≠ first regulator.
-* FDI ≠ FPI; Services = classic top sector; Singapore = recent top **source**.
-* Steel map: Bhilai–Russia, Rourkela–Germany, Durgapur–UK, Bokaro–USSR.
-* CSR / Kotak governance → Topic 11; labour codes → Topic 12.
+* **Launch Dates Distinctions:** **Make in India was launched on 25 September 2014**; **PM Gati Shakti was launched on 13 October 2021** (frequently misstated as 2022).
+* **PM Gati Shakti Seven Engines:** Comprises **Roads, Railways, Airports, Ports, Mass Transport, Waterways, and Logistics Infrastructure**. Digital infrastructure and housing are not counted among the seven transport engines.
+* **MSME Composite Criterion:** From 1 July 2020, MSME status is determined by **both investment and annual turnover**. Furthermore, **manufacturing and service enterprises are governed by identical thresholds**.
+* **Eight Core Industries Exclusion:** The Eight Core Industries are Petroleum Refineries, Electricity, Steel, Coal, Crude Oil, Natural Gas, Cement, and Fertilizers. **Chemicals, textiles, and automobiles are not part of the Core Eight**.
+* **Heaviest Core Industry:** **Refinery Products** carries the single highest weight (28.04%) in the Index of Eight Core Industries; **Fertilizers** carries the lowest weight (2.63%).
+* **IIP Sector Coverage:** The IIP tracks **Mining, Manufacturing, and Electricity**. **Construction, agriculture, and gas/water supply are not included in IIP**.
+* **SSI Committee Chronological Order:**
+  1. **Karve Committee:** 1955
+  2. **Nayak Committee:** 1991
+  3. **Abid Hussain Committee:** 1997
+  4. **S.S. Kohli Committee:** 2000
+* **Foreign Steel Plant Collaborations:**
+  - Bhilai = USSR (1955)
+  - Rourkela = Germany (1959)
+  - Durgapur = United Kingdom (1959)
+  - Bokaro = USSR (1964)
+* **First Export Processing Zone (EPZ):** Asia's first EPZ was established at **Kandla, Gujarat in 1965**.
+* **NIIF Administrative Placement:** The National Investment and Infrastructure Fund is established under the **Ministry of Finance (DEA)**, not under NITI Aayog. Its targeted corpus was ₹40,000 crore.
+* **National Infrastructure Pipeline Horizon:** Covers the planned horizon of **FY 2020–2025** (not 2020–2030).
+* **Leading FDI Destination Sector:** The **Services Sector** accounts for the highest cumulative foreign direct investment equity flows into India.

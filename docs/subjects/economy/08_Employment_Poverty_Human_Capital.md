@@ -1,320 +1,264 @@
 # Economy Topic 8 — Employment, Poverty, Human Capital and Social Economy
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥26)
+### Comprehensive Study & Revision Notes
 
 <details>
-<summary><strong>Covers syllabus</strong> (click to expand)</summary>
+<summary><strong>Syllabus Coverage</strong> (click to expand)</summary>
 
-Poverty line and MPI | Poverty programmes | Unemployment types | LFPR / informal / gig | Human capital | HDI | Demographic dividend | Inequality and inclusive growth | Social security | Employment & welfare schemes (health, nutrition, skill, women, rural infrastructure lineage)
+Poverty line estimation & committees | Multidimensional Poverty Index (MPI) | Poverty alleviation programmes | Types of unemployment | Labour force metrics (LFPR, WPR, UR) | Informal and gig economy | Human capital formation | Human Development Index (HDI) & related indices | Demographic dividend & Census trends | Inclusive growth & social security | National welfare & employment schemes (health, nutrition, skill, rural livelihoods, sanitation, housing, social assistance)
 
 </details>
 
-> **Sources baked in:** NCERT Class 11 Indian Economic Development (poverty, human capital), UNDP HDI/MPI notes, PLFS labour concepts, UPPCS Prelims PYQs, UKPCS Prelims
-> **Weight:** ★★★ High — HDI trio, MPI 2010, Alagh nutrition line, demographic dividend 15–59, and “size of house” trap decide stems
-> **Last verified:** September 2026 — Lucent remodel (History/Polity section order); Extra Drill rebuilt from mixed stems
-
-Banking-side financial inclusion stays in **Topic 3**. Industry / MSME desks stay in **Topic 7**. This chapter owns poverty measurement, labour, human capital, HDI/MPI, inclusive growth, and the **employment & welfare schemes** teaching desk (health assurance, nutrition, skill, women/maternity, rural employment lineage, and overlapping infrastructure missions asked with welfare stems).
+> **Key Reference Framework:** NCERT Class 11 Indian Economic Development (Poverty, Human Capital), UNDP Human Development Reports, NITI Aayog National MPI, MoSPI Periodic Labour Force Survey (PLFS), Census of India, and State Public Service Commission Examination archives.
+> **Exam Weightage:** Very High — Repeatedly tested on poverty lines (Alagh, Tendulkar, Rangarajan), MPI dimensions, HDI formulation, demographic dividend age group (15–59), and core national welfare flagship schemes.
 
 ---
 
-## Current Affairs
+## Current Affairs & Key Indicators
 
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2025 (HDR)** | India’s HDI rank **130** (2023, HDR 2025); life expectancy rose from **58.6** (1990) to **72** (2023). | Rank / LE update stems. |
-| **2026 (WHR)** | World Happiness Report 2026: India ≈ **116th** (improving vs mid-120s earlier). | Happiness ≠ HDI; do not mix ranks. |
-| **2025** | MPI introduced **2010**; it is **not** the $1/day money line. | Income poverty ≠ MPI. |
-| **2025** | Social indicators of poverty include illiteracy, water, jobs — **not size of house**. | Quality of dwelling ≠ floor area. |
-| **2025** | First HDR/HDI **1990** (Mahbub ul Haq); “Haq + S. Priesner” team tag fails. | Sen/capability circle, not Priesner. |
-| **2025** | Human-capital investment yields future returns because education and health raise productivity. | A/R both true, R explains A. |
-| **2024** | HDI uses **income, education, life expectancy** — not environment condition. | Three-pillar trap. |
-| **2022** | Demographic dividend keyed to working-age **15–59** (Indian convention). | Not 60+, 0–6, or 14–50. |
-| **UKPCS 2025** | **Dadabhai Naoroji** used **jail cost of living** for an early poverty-line estimate. | Pre-Independence estimate tag. |
+| Year / Index | Key Development & Metric | Core Analytical & Policy Significance |
+|---|---|---|
+| **Human Development Report (HDR 2025)** | India ranked **130th** (HDI value ≈ 0.644); life expectancy at birth reached **72.0 years** (up from 58.6 years in 1990). | Reflects long-term gains in child survival and longevity; knowledge and income components remain areas for policy intervention. |
+| **World Happiness Report 2026** | India ranked approximately **116th** globally in subjective well-being. | Evaluates subjective well-being and social support; distinct from the composite capability framework of the HDI. |
+| **Multidimensional Poverty Index (MPI)** | Introduced in **2010** by UNDP and OPHI, replacing the Human Poverty Index (HPI, 1997). | Measures acute non-monetary deprivations across health, education, and living standards; does not use income poverty lines. |
+| **Poverty Social Indicators** | Core indicators encompass illiteracy, lack of drinking water, sanitation, and joblessness. | Evaluates capability deprivations; dwelling floor area or size of house is not treated as a social indicator of poverty. |
+| **Inaugural HDR (1990)** | Led by Pakistani economist **Mahbub ul Haq** with conceptual support from **Amartya Sen**. | Shifted the development paradigm from national income accounting to people-centric human capability expansion. |
+| **Human Capital Returns** | Public and private investment in education and healthcare enhances human capital. | Directly elevates labor productivity, technological adoption, and lifetime earning capacity. |
+| **HDI Dimensions** | Computed from three core dimensions: **health, education, and standard of living**. | Measures life expectancy, schooling years, and GNI per capita; environmental quality is not an included indicator. |
+| **Demographic Dividend** | Defined by a high share of working-age population (**15–59 years** in Indian planning convention). | Represents a transitory window of economic growth potential requiring investments in health, skills, and employment. |
+| **Historical Poverty Line** | **Dadabhai Naoroji** formulated the earliest poverty line using the **jail cost of living**. | Estimated subsistence consumption requirements in pre-Independence India (*Poverty and Un-British Rule in India*). |
 
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
 <summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. **Poverty** is the inability to meet a minimum standard of living — measured by income/consumption lines or by multidimensional deprivations.
-2. India’s official poverty estimation has mainly used **household consumption** surveys, not per capita income alone.
-3. **Alagh Committee (1979)** recommended a poverty line based on **nutritional / calorie requirements** exclusively in the classic key.
-4. Later lines: **Lakdawala**, **Tendulkar**, **Rangarajan** — each revised basket, prices and methodology.
-5. **Head Count Ratio** is the share of people below the poverty line.
-6. **Dadabhai Naoroji** used the **jail cost of living** to sketch an early subsistence poverty estimate for India.
-7. **Social indicators of poverty** include illiteracy, malnutrition, lack of safe drinking water / sanitation, and lack of employment opportunities.
-8. **Size of house (floor area)** is **not** the standard social indicator — housing quality (materials) matters in MPI living-standard measures.
-9. **Multidimensional Poverty Index (MPI)** was introduced in the **Human Development Report 2010**, replacing the **Human Poverty Index (HPI)** of **1997**.
-10. Global MPI dimensions: **Health, Education, Standard of Living** (ten indicators beneath).
-11. MPI is a **non-money** deprivation index — it does **not** count people by the World Bank $1/day line.
-12. NITI Aayog publishes India’s **National MPI** using NFHS-based indicators.
-13. **MGNREGA** guarantees rural wage employment (100 days teaching) and builds local assets — a demand-side safety net.
-14. **Unemployment** means willing workers cannot find work at the going wage / conditions.
-15. **Disguised unemployment**: surplus labour with near-zero marginal product (classic farm surplus-labour teaching).
-16. **Seasonal unemployment** follows agricultural / tourism seasons.
-17. **Structural unemployment** comes from skill / sector mismatch as the economy’s structure changes.
-18. **Frictional unemployment** is short job-search / transition unemployment.
-19. **Cyclical unemployment** rises in demand slowdowns.
-20. **Labour-force participation rate (LFPR)** is labour force as a share of population in the reference age group.
-21. **Informal sector** dominates employment share — low social security, high flexibility.
-22. **Human capital** is the stock of skills, knowledge and health embodied in people.
-23. Investment in education and health yields **future returns** by raising productivity.
-24. **Human Development Index (HDI)** (UNDP, first HDR **1990**) combines **long and healthy life**, **knowledge**, and **decent standard of living**.
-25. HDI indicators teaching: **life expectancy**, **education** (mean / expected years of schooling), **GNI per capita (PPP)** — not environmental quality.
-26. **Mahbub ul Haq** led the first Human Development Report; Amartya Sen’s capabilities approach underpins the philosophy.
-27. **Demographic dividend**: growth opportunity when the share of **working-age population (15–59 in Indian keys)** is high relative to dependents.
-28. **Inclusive growth** spreads benefits across regions, castes, genders and income groups — growth plus equity.
-29. UNDP also publishes **Inequality-adjusted HDI** and **Gender Inequality Index (GII)** — GII appeared in later HDR editions (2010 teaching for GII introduction in many keys).
-30. Extreme money poverty ($/day lines) and MPI answer different questions — do not merge them in stems.
-31. **Sustainable development** = present needs without compromising future generations (**Brundtland / Our Common Future, 1987**).
-32. Term appeared in **IUCN World Conservation Strategy (1980)**; **Agenda 21** at Rio **1992** (not 1995).
-33. **Social capital** = mutual trust and harmony; **human capital** = skills/knowledge/health; **physical capital** = machines/buildings.
-34. **Irrigation** does **not** directly form human capital; skill programmes do.
-35. **Auguste Comte** propounded the **three stages** of social development (theological → metaphysical → positive/scientific).
-36. Development chronology of measures: **Per-capita Income → PQLI → HDI**.
-37. **Physical Quality of Life Index (PQLI)** was developed by **Morris D. Morris** (mid-1970s): average of literacy, infant mortality, and life expectancy at age one.
-38. **Amartya Sen’s Capability Approach** focuses on what people can do and be — poverty as capability deprivation; development as capability expansion.
-39. Life Expectancy Index teaching bounds: maximum **85** years, minimum **20** years (post-2010 method; older keys used 85 and 25).
-40. Before 2010, HDI living standard used **GDP per capita (PPP)**; since 2010 it uses **GNI per capita (PPP)**.
-41. **Gender Inequality Index (GII)** was introduced in HDR **2010** (health, empowerment, labour-market dimensions).
-42. **Bhutan** measures progress by **Gross National Happiness (GNH)**, not GNP alone — four pillars include sustainable development, culture, environment and good governance.
-43. **World Happiness Report** ranks countries on subjective well-being; India’s recent ranks sit in the mid-100s (≈126 in 2023 report; ≈116 in 2026 report teaching).
-44. First State Human Development Report in India: **Madhya Pradesh (1995)**.
-45. Among Indian States, **Kerala** has long topped HDI; **Bihar** is typically at the bottom in older national HDR tables (e.g. Bihar HDI ≈ **0.574** in 2019 teaching).
-46. Economic Survey **Bare Necessities Index (BNI)** uses **26 indicators** across **five** dimensions (water, sanitation, housing, micro-environment, other facilities) for 2012 and 2018 — not six dimensions / 2018-only.
-47. Positive HDI–SDG State ranking correlation rests on shared education and health dimensions.
-48. SD is intertwined with **carrying capacity**; many keys treat the **environmental approach** as its base.
-49. Poverty causes: low productivity, unemployment / underemployment, inequality, social exclusion, shocks (health, climate, debt).
-50. Alleviation mix: growth, targeted programmes, food security (Topic 6), employment guarantees, human-capital investment.
+1. **Poverty** is defined as the inability of an individual or household to secure a socially acceptable minimum standard of living, measured through consumption expenditure lines or multidimensional deprivations.
+2. Official poverty estimation in India has historically relied on **household consumer expenditure surveys (CES)** conducted by the NSSO/NSO, rather than reported per capita income.
+3. The **Alagh Committee (Task Force, 1979)** established India's first official nutritional poverty line based strictly on minimum daily calorie requirements.
+4. The calorie benchmarks established by the Alagh Task Force were **2,400 kcal per person per day in rural areas** and **2,100 kcal per person per day in urban areas**.
+5. Subsequent official committees on poverty estimation include the **Lakdawala Committee (1993)**, **Tendulkar Committee (2009)**, and **Rangarajan Committee (2014)**.
+6. The **Head Count Ratio (HCR)** measures the proportion or percentage of the total population living below the designated poverty line.
+7. **Dadabhai Naoroji** computed the first historical poverty line in India by calculating the **jail cost of living** for prisoners and adjusting for children and women.
+8. Core social indicators of poverty include **illiteracy, infant malnutrition, lack of access to safe drinking water, poor sanitation, and absence of gainful employment**.
+9. **Size of house (floor area)** is not a recognized social indicator of poverty; poverty assessments evaluate structural housing quality and roofing/flooring materials rather than square footage.
+10. The **Multidimensional Poverty Index (MPI)** was launched in the **2010 Human Development Report** by UNDP and OPHI, superseding the **Human Poverty Index (HPI)** introduced in 1997.
+11. The global MPI evaluates deprivations across three equally weighted dimensions: **Health**, **Education**, and **Standard of Living**, assessed through ten indicators.
+12. The MPI is a **non-monetary** deprivation metric; it does not measure monetary poverty such as the World Bank's international extreme poverty line ($2.15/day).
+13. **NITI Aayog** publishes the **National Multidimensional Poverty Index (National MPI)** using National Family Health Survey (NFHS) data, adding antenatal care and bank accounts as Indian indicators.
+14. **MGNREGA (2005)** provides a statutory legal guarantee of **100 days of wage employment per financial year to every rural household** whose adult members volunteer for unskilled manual work.
+15. **Unemployment** occurs when individuals who are able and willing to work at the prevailing wage rate are unable to find gainful employment.
+16. **Disguised unemployment** refers to a situation where more workers are engaged in an activity than necessary, such that the marginal productivity of surplus labor is zero or near zero (prevalent in Indian agriculture).
+17. **Seasonal unemployment** occurs when workers remain unemployed during specific periods of the year when agricultural or tourism activity ceases.
+18. **Structural unemployment** arises from a fundamental mismatch between the skills possessed by available workers and the skills demanded by emerging economic sectors.
+19. **Frictional unemployment** is temporary, transitional unemployment occurring while workers search for or transition between jobs.
+20. **Cyclical unemployment** results from general economic downturns and inadequate aggregate demand in the business cycle.
+21. The **Labour Force Participation Rate (LFPR)** measures the percentage of the working-age population that is either employed or actively seeking employment.
+22. The **informal sector** accounts for over 80% of total employment in India, characterized by lack of social security benefits, written contracts, and job security.
+23. **Human capital** represents the aggregate stock of knowledge, skills, competencies, and physical health embodied in an economy's workforce.
+24. Investments in education, vocational training, and public healthcare generate compounding economic returns by raising labor productivity and driving technological adoption.
+25. The **Human Development Index (HDI)**, published annually by the UNDP since **1990**, evaluates human progress across three fundamental dimensions: a long and healthy life, knowledge, and a decent standard of living.
+26. The specific indicators utilized in computing the HDI are **life expectancy at birth**, **mean years of schooling**, **expected years of schooling**, and **Gross National Income (GNI) per capita (in PPP $)**.
+27. **Mahbub ul Haq** pioneered the design and publication of the Human Development Index, with intellectual foundation drawn from **Amartya Sen's Capability Approach**.
+28. The **demographic dividend** refers to the economic growth potential created when the proportion of the working-age population (**15–59 years** in Indian demographic classification) exceeds the dependent population (children and elderly).
+29. **Inclusive growth** ensures that economic expansion generates broad-based opportunities and equitable sharing of wealth across regions, social strata, and genders.
+30. The UNDP publishes complementary indices alongside HDI, including the **Inequality-adjusted HDI (IHDI)**, **Gender Development Index (GDI)**, and **Gender Inequality Index (GII)** (introduced in HDR 2010).
+31. The **Brundtland Commission Report (*Our Common Future*, 1987)** defined sustainable development as development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
+32. The concept of sustainable development first received international policy mention in the **IUCN World Conservation Strategy (1980)** and was formalized at the Rio Earth Summit via **Agenda 21 (1992)**.
+33. **Social capital** refers to mutual trust, civic networks, and shared norms that facilitate social cooperation; it is distinct from human capital (individual skills and health) and physical capital (machinery and infrastructure).
+34. Investments in irrigation, power grids, or roads create physical infrastructure, whereas investments in schools, universities, and hospitals directly form human capital.
+35. French sociologist **Auguste Comte** formulated the **Law of Three Stages** of social evolution: the theological stage, metaphysical stage, and positive or scientific stage.
+36. The historical evolution of development indicators progressed chronologically from **Per Capita Income (PCI) → Physical Quality of Life Index (PQLI, 1970s) → Human Development Index (HDI, 1990)**.
+37. The **Physical Quality of Life Index (PQLI)** was devised by **Morris D. Morris** in the mid-1970s, averaging three non-monetary indicators: basic literacy, infant mortality rate, and life expectancy at age one.
+38. **Amartya Sen's Capability Approach** conceptualizes poverty as the deprivation of basic capabilities and freedoms, viewing economic development as the expansion of human substantive choices.
+39. In the post-2010 HDI calculation methodology, the fixed goalposts for the Life Expectancy Index are set between a minimum of **20 years** and a maximum of **85 years**.
+40. In the pre-2010 HDI methodology, standard of living was measured by **GDP per capita (PPP $)**; since 2010, the UNDP utilizes **GNI per capita (PPP $)** to better capture cross-border income flows.
+41. The **Gender Inequality Index (GII)**, introduced in HDR 2010, evaluates gender disparities across three dimensions: reproductive health (MMR and adolescent birth rate), empowerment (parliamentary share and secondary education), and labor market participation.
+42. **Bhutan** introduced the concept of **Gross National Happiness (GNH)** in 1972, grounded in four pillars: sustainable socio-economic development, environmental conservation, preservation of culture, and good governance.
+43. The **World Happiness Report**, released by the UN Sustainable Development Solutions Network (SDSN), measures subjective life evaluations based on Gallup World Poll data, separate from the composite capability framework of the HDI.
+44. **Madhya Pradesh** was the first State in India to publish a State Human Development Report in **1995**.
+45. In national Human Development rankings, **Kerala** consistently ranks highest among Indian States, while **Bihar** and **Uttar Pradesh** have historically occupied lower tiers due to educational and health deficits.
+46. The **Bare Necessities Index (BNI)**, presented in the Economic Survey 2020–21, tracks basic living amenities across **26 indicators** grouped into **five dimensions**: water, sanitation, housing, micro-environment, and other facilities (for 2012 and 2018).
+47. Empirical correlation shows that States performing high on the NITI Aayog SDG India Index also achieve superior HDI scores, driven by improvements in public healthcare and schooling infrastructure.
+48. Sustainable development principles are rooted in environmental **carrying capacity**, requiring that economic resource extraction not exceed regeneration rates and waste discharge not exceed assimilative capacity.
+49. Structural causes of persistent poverty in India include low agricultural productivity, underemployment, unequal asset distribution, social stratification, and catastrophic out-of-pocket health expenditures.
+50. Effective poverty eradication requires a synergistic strategy combining sustained labor-intensive economic growth, targeted social protection nets, direct welfare transfers, and universal human capital development.
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-confused" markdown="1">
 <summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| A | B | Distinguishing fact |
+| Concept A | Concept B | Core Conceptual Distinction |
 |---|---|---|
-| **Income / consumption poverty** | **MPI** | Money line vs deprivation score |
-| **HPI (1997)** | **MPI (2010)** | Older UNDP poverty index vs household MPI |
-| **Alagh** | **Tendulkar / Rangarajan** | Nutrition-exclusive classic vs later revisions |
-| **HDI trio** | **Environment as HDI pillar** | Health–education–income; environment not in HDI |
-| **HDI** | **PQLI** | UNDP composite (1990+) vs Morris mid-1970s literacy–IMR–LE |
-| **PCI → PQLI → HDI** | **HDI first historically** | Correct chronology of measures |
-| **Capability Approach (Sen)** | **Basic Needs Approach** | Freedoms/capabilities vs minimum needs list |
-| **GNH (Bhutan)** | **GNP / GDP** | Happiness / well-being index vs income aggregate |
-| **World Happiness Rank** | **HDI Rank** | Subjective well-being survey vs UNDP composite |
-| **Kerala State HDI** | **Bihar State HDI** | Long-time top vs bottom among States |
-| **BNI five dimensions** | **Six dimensions / 2018-only** | Water–sanitation–housing–micro-environment–other; 2012 & 2018 |
-| **Demographic dividend 15–59** | **15–64 UN band / wrong ages** | Indian key vs distractors |
-| **Natural growth (CBR−CDR)** | **Migration / marriages** | Natural change excludes migration |
-| **Great Divide 1921** | **1951 demographic take-off** | Only negative decade vs post-Independence rise |
-| **Synchronous Census 1881** | **First effort ~1872** | Regular sync vs Mayo-era first attempt |
-| **Bihar densest (2011)** | **West Bengal densest (2001)** | Stem Census year wins |
-| **Nagaland negative growth (2011)** | **Kerala lowest growth forever** | Edition-bound lows |
-| **Most urbanized share (Goa)** | **Largest urban absolute (Maharashtra)** | % urban vs total urban headcount |
-| **Census Town criteria** | **Physical expansion / area size** | 5,000 + 75% non-agri males + 400/sq km |
-| **JNNURM (2005, ~7 yr)** | **10-year / electrification objective** | Duration and objective traps |
-| **World Population Day (11 July)** | **Other UN observance days** | Five Billion Day origin 11 July 1987 |
-| **UNFPA State of World Population** | **IMF / WHO / UNDP report swap** | Publisher trap |
-| **Asia densest continent** | **Africa highest growth** | Density vs growth rate |
-| **Disguised** | **Seasonal** | Surplus labour year-round vs season-linked |
-| **LFPR** | **Unemployment rate** | Participation vs joblessness among labour force |
-| **House size** | **Housing quality** | Floor area ≠ MPI living-standard materials |
-| **Naoroji jail-cost line** | **Tendulkar line** | Early nationalist estimate vs modern NSS line |
-| **Human capital** | **Physical capital** | Skills/health in people vs machines/buildings |
-| **Social capital** | **Human capital** | Trust/harmony vs skills/knowledge/health |
-| **Brundtland Report** | **Limits to Growth** | Our Common Future 1987 vs Club of Rome 1972 |
-| **Inclusive growth** | **High NI growth alone** | Broad opportunity vs aggregate GDP rise |
-| **Irrigation** | **Education / health / training** | Not direct HC vs direct HC levers |
-| **Agenda 21 (1992)** | **Agenda 21 in 1995** | Rio Earth Summit year trap |
-| **ADP (Jan 2018)** | **ABP (Jan 2023)** | 112 districts / 49 KPIs vs 500 blocks |
-| **PM-JAY ₹5 lakh / family** | **₹5 lakh / person** | Family cover trap |
-| **PMKVY (MSDE)** | **Ministry of Labour flagship** | Skill ministry ownership |
-| **NRHM 2005 / Tenth Plan** | **Eleventh Plan launch** | Plan-period trap |
-| **RSBY (unorganised)** | **Organised-sector only** | Worker-category trap |
-| **Swadhar (difficult circumstances)** | **Swayam Siddha (SHG empowerment)** | Labels often reversed in stems |
-| **Bharat Nirman six components** | **Sanitation / SSA / hospitals as BN** | Infrastructure set only |
-| **STRIVE / SANKALP / SHREYAS** | **STRIDE (UGC)** | Skill vs research scheme |
-| **PAHAL (LPG DBT)** | **Any other DBT as Guinness largest** | PAHAL is the keyed world-record DBT |
-| **SGSY (1999)** | **NRLM (2011) / DAY-NRLM (2016)** | Self-employment restructure → SHG mission rename |
-| **MGNREGA 100 days / household** | **100 days / every adult** | Household guarantee trap |
-| **NREGA force Feb 2006** | **Rename Oct 2009** | Start vs MGNREGA nomenclature |
-| **SJSRY (urban)** | **Rural employment** | Urban poor wage/self-employment |
-| **APY spouse continuation** | **Only one family member can join** | Spouse true; exclusivity false |
-| **PM-SYM family pension = spouse** | **Spouse + unmarried daughters** | Spouse-only keyed family pension |
-| **SBM (sanitation / ODF)** | **Safe drinking water aim** | SBM ≠ JJM |
-| **NSAP pensions / Annapurna** | **Mahila Kisan Sashaktikaran** | NSAP set excludes MKSP |
-| **Community Development 1952** | **NES 1953** | Multi-purpose CDP vs extension coverage |
-| **Alagh 2400 / 2100 kcal** | **Any single all-India calorie** | Rural vs urban calorie norms |
-| **Tendulkar ₹26 / ₹32** | **Rangarajan ₹32 / ₹47** | Two different committee lines |
-| **Higher Gini** | **Lower inequality** | Higher Gini = more unequal |
-| **SVAMITVA (Panchayati Raj)** | **Ministry of Mines** | Drone Abadi mapping desk |
-| **CORS geodesy** | **Cross-Origin Resource Sharing** | Continuous Operating Referencing System |
-| **PMAY Housing for All 2022** | **IAY / RAY alone** | Current umbrella vs older rural / slum schemes |
-| **SSA (2001)** | **Samagra Shiksha (2018)** | Elementary mission vs SSA+RMSA+TE amalgam |
-| **Mid-day Meal 1995** | **PM POSHAN 2021 rename** | Launch vs rename |
+| **Monetary / Income Poverty** | **Multidimensional Poverty Index (MPI)** | Income poverty tracks consumption or income against an absolute monetary line ($2.15/day or ₹816/₹1000); MPI measures acute deprivations across health, education, and living standards. |
+| **Human Poverty Index (HPI, 1997)** | **Multidimensional Poverty Index (MPI, 2010)** | HPI used aggregate national-level deprivations; MPI evaluates simultaneous deprivations experienced at the individual household level. |
+| **Alagh Committee (1979)** | **Tendulkar (2009) & Rangarajan (2014)** | Alagh based the poverty line exclusively on minimum calorie intake; Tendulkar and Rangarajan incorporated broader expenditure baskets including health, education, and clothing. |
+| **Core HDI Dimensions** | **Environmental Quality** | HDI evaluates health, education, and income per capita; environmental sustainability is not an indicator within the standard HDI calculation. |
+| **Human Development Index (HDI)** | **Physical Quality of Life Index (PQLI)** | HDI (UNDP, 1990) incorporates income alongside health and schooling; PQLI (Morris, 1970s) was an exclusively non-monetary index combining literacy, IMR, and life expectancy at age one. |
+| **Chronological Evolution of Welfare Metrics** | **Historical Ordering** | Development metrics evolved sequentially: Per Capita Income (PCI) → Physical Quality of Life Index (PQLI, 1970s) → Human Development Index (HDI, 1990). |
+| **Amartya Sen's Capability Approach** | **Basic Needs Approach** | Basic Needs focuses on providing a predefined commodity basket; the Capability Approach focuses on expanding individuals' substantive freedoms and capabilities to lead lives they value. |
+| **Gross National Happiness (GNH)** | **Gross National Product (GNP)** | GNH (Bhutan) measures holistic qualitative well-being across cultural, environmental, and governance pillars; GNP measures total monetary output of a nation's citizens. |
+| **World Happiness Report Rank** | **Human Development Index Rank** | World Happiness ranks subjective life evaluations using survey data; HDI ranks objective composite capabilities (longevity, education, and GNI per capita). |
+| **Highest State HDI (Kerala)** | **Lowest State HDI (Bihar)** | Kerala ranks consistently at the top due to high literacy and public health investments; Bihar has historically registered the lowest scores on education and health indicators. |
+| **Bare Necessities Index (BNI)** | **Scope and Dimensions** | BNI utilizes 26 indicators across 5 dimensions (water, sanitation, housing, micro-environment, other facilities) across 2012 and 2018 data, rather than six dimensions. |
+| **Demographic Dividend (15–59)** | **UN Working-Age Classification (15–64)** | Indian demographic and planning literature historically designates 15–59 years as the productive working-age bracket; UN international standards frequently designate 15–64 years. |
+| **Natural Population Growth** | **Net Migration** | Natural growth is determined exclusively by Crude Birth Rate minus Crude Death Rate (CBR − CDR); total population growth includes net migration. |
+| **Demographic Great Divide (1921)** | **Demographic Take-off (1951)** | The decade 1911–1921 was the only Census period in modern Indian history showing negative decadal growth (−0.31%); post-1921 marked continuous, accelerating population growth. |
+| **First Synchronous Census (1881)** | **Initial Non-Synchronous Census (1872)** | Lord Mayo initiated the first non-synchronous Census across parts of India in 1872; Lord Ripon oversaw the first comprehensive, synchronous all-India Census in 1881. |
+| **Densest State in 2011 (Bihar)** | **Densest State in 2001 (West Bengal)** | Bihar recorded 1,106 persons/sq km in the 2011 Census to become the densest State, overtaking West Bengal (903 persons/sq km in 2001; 1,028 in 2011). |
+| **Negative Decadal Growth (Nagaland, 2011)** | **Lowest Positive Growth (Kerala)** | Nagaland was the sole State to record a negative decadal growth rate (−0.6%) in Census 2011; Kerala recorded the lowest positive decadal growth among major States (+4.9%). |
+| **Most Urbanized State by Share (Goa)** | **Largest Urban Population in Absolute Numbers (Maharashtra)** | Goa has the highest percentage of urban population (~62.2%); Maharashtra holds the largest absolute urban population in India. |
+| **Census Town Criteria** | **Physical Municipal Expansion** | A Census Town must meet: population ≥ 5,000, ≥ 75% of male main workforce in non-agricultural pursuits, and density ≥ 400 persons/sq km; geographic expansion alone does not qualify. |
+| **JNNURM (2005)** | **Programme Horizon & Scope** | JNNURM was a 7-year mission (2005–2012) targeting urban infrastructure and basic services to the urban poor; it was not a 10-year rural electrification scheme. |
+| **World Population Day (11 July)** | **Other UN Observances** | Established to commemorate Five Billion Day (11 July 1987), focusing on global population dynamics and reproductive rights. |
+| **UNFPA State of World Population** | **Other Multilateral Reports** | Published annually by the United Nations Population Fund (UNFPA); distinct from UNDP's Human Development Report or World Bank's World Development Report. |
+| **Densest Continent (Asia)** | **Fastest Growing Continent (Africa)** | Asia holds the highest overall population density; Africa records the highest annual population growth rate globally. |
+| **Disguised Unemployment** | **Seasonal Unemployment** | Disguised unemployment involves continuous surplus labor with zero marginal product; seasonal unemployment occurs cyclically during off-seasons. |
+| **Labour Force Participation Rate (LFPR)** | **Unemployment Rate (UR)** | LFPR measures the labor force (employed + job seekers) as a share of total population; UR measures the unemployed as a percentage of the labor force only. |
+| **Social Indicator: Housing Quality** | **Size of House (Floor Area)** | Housing quality refers to durable wall, roof, and flooring materials; floor area or room count is not considered a social indicator of poverty. |
+| **Dadabhai Naoroji's Estimate** | **Tendulkar Committee Line** | Naoroji calculated an early colonial subsistence line using prisoner diet costs; Tendulkar formulated a modern consumption basket based on NSSO mixed reference periods. |
+| **Human Capital** | **Physical Capital** | Human capital is embodied in human capabilities through education and health; physical capital consists of man-made physical tools, plants, and machinery. |
+| **Social Capital** | **Human Capital** | Social capital represents collective trust, social norms, and community networks; human capital represents individual productive skills and health status. |
+| **Brundtland Report (*Our Common Future*, 1987)** | ***The Limits to Growth* (Club of Rome, 1972)** | Brundtland formalized sustainable development as inter-generational equity; *Limits to Growth* modeled resource depletion and ecological overshoot using system dynamics. |
+| **Inclusive Growth** | **High GDP Growth Rate Alone** | Inclusive growth emphasizes broad-based participation, employment creation, and equitable income distribution, which aggregate GDP growth alone does not ensure. |
+| **Physical Infrastructure Investment** | **Direct Human Capital Formation** | Irrigation, power grids, and highways build physical capital; schooling, vocational training, and primary healthcare build human capital. |
+| **Agenda 21 Adoption Year** | **Earth Summit Milestone** | Adopted at the Rio United Nations Conference on Environment and Development (UNCED) in 1992, not 1995. |
+| **Aspirational Districts Programme (ADP, 2018)** | **Aspirational Blocks Programme (ABP, 2023)** | ADP covers 112 underdeveloped districts across 49 KPIs; ABP covers 500 underdeveloped administrative blocks. |
+| **PM-JAY Health Cover** | **Per-Family vs Per-Individual Basis** | PM-JAY provides financial coverage of ₹5 lakh per eligible family per year, rather than ₹5 lakh per person. |
+| **PMKVY Nodal Ministry** | **Ministry of Labour vs MSDE** | Pradhan Mantri Kaushal Vikas Yojana is the flagship scheme of the Ministry of Skill Development and Entrepreneurship (MSDE), not the Ministry of Labour. |
+| **NRHM Launch Year** | **Five-Year Plan Period** | Launched on 12 April 2005 during the Tenth Five-Year Plan (2002–2007), not the Eleventh Plan. |
+| **RSBY Target Beneficiaries** | **Unorganised vs Organised Sector** | Rashtriya Swasthya Bima Yojana provided health insurance to unorganised sector BPL families; subsequently subsumed under PM-JAY. |
+| **Swadhar Scheme** | **Swayam Siddha Scheme** | Swadhar provides shelter, food, and rehabilitation to women in difficult circumstances; Swayam Siddha focused on self-help group-based women empowerment. |
+| **Bharat Nirman Components** | **Six Infrastructure Components** | Bharat Nirman (2005) covered six specific rural infrastructure sectors: roads, water, housing, telephony, electricity, and irrigation; it excluded schools, sanitation, and hospitals. |
+| **Skill Schemes (STRIVE, SANKALP, SHREYAS)** | **STRIDE Scheme (UGC)** | STRIVE and SANKALP are skill initiatives under MSDE; STRIDE is a university research scheme administered by the University Grants Commission (UGC). |
+| **PAHAL Scheme** | **Direct Benefit Transfer World Record** | PAHAL (DBTL for LPG) holds the Guinness World Record as the world's largest cash-transfer direct benefit scheme. |
+| **SGSY (1999)** | **NRLM (2011) / DAY-NRLM (2016)** | Swarnajayanti Gram Swarozgar Yojana restructured IRDP into an SHG scheme; restructured into NRLM in 2011 and renamed DAY-NRLM in 2016. |
+| **MGNREGA Household Guarantee** | **Individual Entitlement** | MGNREGA legally guarantees 100 days of unskilled wage work per rural household per financial year, not 100 days per individual adult. |
+| **NREGA Notification vs MGNREGA Renaming** | **Legislative Timeline** | Enacted in 2005, brought into force on 2 February 2006; formally renamed Mahatma Gandhi NREGA on 2 October 2009. |
+| **SJSRY (Urban Focus)** | **Rural Employment Schemes** | Swarna Jayanti Shahari Rozgar Yojana (1997) was specifically designed for urban self-employment and wage employment, distinct from rural programs. |
+| **Atal Pension Yojana (APY)** | **Spouse Pension Entitlement** | In the event of the subscriber's demise, the pension continues automatically to the surviving spouse; family members are not excluded from benefits. |
+| **PM Shram Yogi Maan-dhan (PM-SYM)** | **Family Pension Beneficiary** | Upon the death of the pensioner, 50% family pension is payable exclusively to the surviving spouse; other dependents do not qualify. |
+| **Swachh Bharat Mission (SBM)** | **Jal Jeevan Mission (JJM)** | SBM focuses on sanitation, solid waste management, and Open Defecation Free (ODF) status; JJM focuses on functional piped household tap water. |
+| **National Social Assistance Programme (NSAP)** | **Target Social Groups** | NSAP (1995) administers national old-age, widow, and disability pensions; it does not include agricultural livelihood schemes like Mahila Kisan Sashaktikaran. |
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-must-score" markdown="1">
-<summary><strong>📋 Must-score drill — HDI, MPI, labour, sustainable development</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>📋 High-Yield Summary Table — Indices, Demography, and Welfare Missions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| Item | Tag |
+| Policy Concept / Mission | Key Milestone & Structural Dimension |
 |---|---|
-| First HDR / HDI | 1990; Mahbub ul Haq |
-| HDI pillars | Life expectancy, education, income (GNI PPP post-2010) |
-| PQLI | Morris D. Morris; literacy + IMR + LE at age 1 |
-| Measure order | PCI → PQLI → HDI |
-| Capability Approach | Amartya Sen |
-| GII | HDR 2010 |
-| GNH | Bhutan |
-| State HDI | Kerala top; Bihar bottom (classic) |
-| BNI | 26 indicators; 5 dimensions; ES 2020–21 |
-| HPI → MPI | 1997 → 2010 |
-| MPI dimensions | Health, education, living standard |
-| Alagh | Nutrition-based poverty line |
-| Demographic dividend | Working age 15–59 (UPPCS key) |
-| Disguised unemployment | Near-zero marginal product surplus labour |
-| Social indicator odd one | Size of house |
-| Naoroji | Jail cost of living |
-| Brundtland | Our Common Future, 1987 |
-| Limits to Growth | Club of Rome, 1972 |
-| Social capital | Mutual trust and harmony |
-| HCI 2020 top | Singapore |
-| Survey SD chapter | 2011–12 |
-| ADP | NITI; Jan 2018; 112 districts; 49 KPIs; 5 themes |
-| ABP | Jan 2023; 500 blocks |
-| PM-JAY | 23 Sep 2018, Ranchi; ₹5 lakh/family/year; NHA; 60:40 |
-| ABDM | Sep 2021; voluntary; national portability |
-| RSBY | Unorganised BPL; subsumed in PM-JAY |
-| NRHM | 12 Apr 2005; Tenth Plan; ASHA |
-| Mission Indradhanush | 25 Dec 2014; children + pregnant women |
-| POSHAN / Poshan Maah | NNM; September |
-| ICDS | 2 Oct 1975; six services; not family planning |
-| PMKVY | MSDE + NSDC; soft skills + NSQF |
-| AIM | NITI Aayog |
-| PMJDY | 28 Aug 2014; financial inclusion |
-| Ujjwala | 1 May 2016; Ballia (UP) |
-| Saubhagya | Sep 2017; Ministry of Power |
-| BBBP | 22 Jan 2015; Panipat |
-| JSY | Apr 2005; institutional delivery; replaces NMBS |
-| Bharat Nirman | 2005; six rural infra components |
-| JJM | Budget 2019–20 / launch 15 Aug 2019 |
-| AMRUT | Jun 2015; 500 cities; >60% urban population |
-| PMGSY | 25 Dec 2000; plain 500+ habitations |
-| SPM Rurban Mission | 2016 |
-| IRDP → SGSY → NRLM | Livelihood group lineage |
-| SGSY | 1999 |
-| NRLM / DAY-NRLM | June 2011; rename 29 Mar 2016 |
-| MGNREGA | Act 2005; force 2 Feb 2006 (200 districts); rename 2 Oct 2009; 100 days/household |
-| SJSRY | 1 Dec 1997; urban; not PMRY |
-| CDP | 2 Oct 1952; S.K. Dey |
-| NES | 1953 |
-| APY | 9 May 2015; unorganised; spouse continues |
-| PM-SYM | 18–40; ₹3,000 after 60; spouse family pension |
-| AABY | 2 Oct 2007; rural landless BPL |
-| PMSBY | 18–70; accident cover |
-| NSAP | From 15 Aug 1995; not MKSP |
-| SBM | 2 Oct 2014; ODF/Clean India by 2 Oct 2019 |
-| WaterCredit | Water.org microfinance — not WHO/World Bank |
-| MNP | Fifth Plan; investment in human resources |
-| SVAMITVA | Panchayati Raj; drones + CORS (~5 cm) |
-| DILRMP | 100% Central; cadastral digitisation; RoR transliteration |
-| PMAY | June 2015; Housing for All by 2022 (original) |
-| RAY | 2011; slum-free India |
-| SSA / Samagra | 2001 / SSA+RMSA+TE (2018) |
-| MDM → PM POSHAN | 15 Aug 1995 → rename 2021 |
-| Alagh kcal | 2400 rural / 2100 urban |
-| Lorenz / Gini | Distribution graph / inequality index |
-| Nurkse / Oscar Lewis | Vicious circle / culture of poverty |
+| **Inaugural Human Development Report** | Published in **1990** by UNDP; spearheaded by **Mahbub ul Haq**. |
+| **Core HDI Dimensions** | **Life expectancy at birth**, **mean & expected years of schooling**, and **GNI per capita (PPP $)**. |
+| **Physical Quality of Life Index (PQLI)** | Developed by **Morris D. Morris** (mid-1970s); composite of literacy, IMR, and life expectancy at age 1. |
+| **Development Metrics Chronology** | **Per Capita Income (PCI) → PQLI → Human Development Index (HDI)**. |
+| **Capability Approach** | Propounded by **Amartya Sen**; defines poverty as capability deprivation. |
+| **Gender Inequality Index (GII)** | Introduced in **HDR 2010**; covers reproductive health, empowerment, and labor participation. |
+| **Gross National Happiness (GNH)** | Formulated by **Bhutan (1972)** as an alternative to GDP-based growth metrics. |
+| **State Human Development Reports** | **Madhya Pradesh** published India's first State HDR in **1995**; **Kerala** leads in HDI values. |
+| **Bare Necessities Index (BNI)** | Economic Survey 2020–21; **26 indicators** across **5 dimensions** for 2012 and 2018. |
+| **Human Poverty Index to MPI** | **HPI (1997)** was replaced by the **Multidimensional Poverty Index (2010)**. |
+| **Global MPI Dimensions** | Three equally weighted dimensions: **Health**, **Education**, and **Standard of Living** (10 indicators). |
+| **Alagh Committee Poverty Line** | Recommended poverty line based strictly on calorie intake: **2,400 rural / 2,100 urban kcal/day**. |
+| **Demographic Dividend** | Defined in Indian planning as the productive working-age bracket of **15–59 years**. |
+| **Disguised Unemployment** | Surplus workforce with zero or near-zero marginal productivity, characteristic of Indian agriculture. |
+| **Social Indicator Exception** | **Size of house (floor area)** is not a social indicator of poverty. |
+| **Earliest Indian Poverty Line** | **Dadabhai Naoroji** utilized the **jail cost of living** in pre-Independence estimates. |
+| **Sustainable Development Definition** | Brundtland Commission (*Our Common Future*, **1987**); inter-generational equity. |
+| ***The Limits to Growth*** | Published by the **Club of Rome (1972)**, authored by Donella Meadows and team. |
+| **Social Capital** | The aggregate of mutual trust, collective norms, and social networks facilitating cooperation. |
+| **Human Capital Index (World Bank)** | **Singapore** ranked 1st in the 2020 index; India scored approximately 116th. |
+| **Aspirational Districts Programme (ADP)** | Launched by **NITI Aayog** in **January 2018**; monitors **112 districts** across **49 KPIs**. |
+| **Aspirational Blocks Programme (ABP)** | Launched in **January 2023** covering **500 underdeveloped blocks**. |
+| **Ayushman Bharat – PM-JAY** | Launched on **23 September 2018** at Ranchi; ₹5 lakh per family per year; implemented by **NHA**. |
+| **Ayushman Bharat Digital Mission (ABDM)** | Launched **September 2021**; voluntary participation; provides national health record portability. |
+| **Rashtriya Swasthya Bima Yojana (RSBY)** | Launched in **2008** for unorganised BPL workers; subsequently integrated into PM-JAY. |
+| **National Rural Health Mission (NRHM)** | Launched on **12 April 2005** during the Tenth Five-Year Plan; institutionalized ASHAs. |
+| **Mission Indradhanush** | Launched on **25 December 2014**; targets universal full immunization for children and pregnant women. |
+| **POSHAN Abhiyaan** | National Nutrition Mission; observed annually as **Rashtriya Poshan Maah** every **September**. |
+| **Integrated Child Development Services (ICDS)** | Launched on **2 October 1975**; delivers six core health, nutrition, and pre-school services. |
+| **Pradhan Mantri Kaushal Vikas Yojana (PMKVY)** | Flagship skill training program of the **Ministry of Skill Development & Entrepreneurship (MSDE)**. |
+| **Atal Innovation Mission (AIM)** | Flagship initiative under **NITI Aayog** fostering innovation and entrepreneurship. |
+| **Pradhan Mantri Jan Dhan Yojana (PMJDY)** | Launched on **28 August 2014**; comprehensive national mission for financial inclusion. |
+| **Pradhan Mantri Ujjwala Yojana (PMUY)** | Launched on **1 May 2016** from **Ballia (Uttar Pradesh)**; provides deposit-free LPG connections. |
+| **Saubhagya Scheme** | Launched on **25 September 2017** by the Ministry of Power for universal household electrification. |
+| **Beti Bachao Beti Padhao (BBBP)** | Launched on **22 January 2015** at **Panipat (Haryana)** to address adverse child sex ratio. |
+| **Janani Suraksha Yojana (JSY)** | Launched in **April 2005**; promotes institutional delivery through conditional cash transfers. |
+| **Bharat Nirman** | Launched in **2005**; six infrastructure components: roads, water, housing, telecom, power, irrigation. |
+| **Jal Jeevan Mission (JJM)** | Launched on **15 August 2019**; ensures functional household tap connections to all rural homes. |
+| **AMRUT Mission** | Launched in **June 2015**; targets urban transformation across **500 cities** (>60% urban population). |
+| **Pradhan Mantri Gram Sadak Yojana (PMGSY)** | Launched on **25 December 2000**; connects habitations with 500+ population (250+ in hill areas). |
+| **Shyama Prasad Mukherji Rurban Mission** | Launched in **2016**; develops 300 commercially viable rural growth clusters. |
+| **Rural Livelihood Lineage** | **IRDP (1980) → SGSY (1999) → NRLM (2011) → DAY-NRLM (2016)**. |
+| **MGNREGA Enactment & Rollout** | Enacted **2005**, effective **2 February 2006**, renamed **2 October 2009**; 100 days/household. |
+| **Swarna Jayanti Shahari Rozgar Yojana (SJSRY)** | Launched on **1 December 1997**; urban self-employment and wage employment program. |
+| **Community Development Programme (CDP)** | Launched on **2 October 1952** under the leadership of **S.K. Dey**. |
+| **Atal Pension Yojana (APY)** | Launched on **9 May 2015**; guaranteed monthly pension for unorganised sector workers; spouse pension. |
+| **PM Shram Yogi Maan-dhan (PM-SYM)** | Old-age pension for unorganised workers earning ≤ ₹15,000; entry age 18–40; ₹3,000/month post 60. |
+| **Swachh Bharat Mission (SBM)** | Launched on **2 October 2014**; achieved Open Defecation Free (ODF) target by 2 October 2019. |
+| **SVAMITVA Scheme** | Ministry of **Panchayati Raj**; drone mapping and CORS technology for rural property titles. |
+| **Pradhan Mantri Awas Yojana (PMAY)** | Launched in **June 2015**; targets Housing for All; includes Urban (PMAY-U) and Gramin (PMAY-G). |
 
 </details>
 
 ---
 
-## 8.1 Poverty — lines, MPI, indicators
+## 8.1 Poverty — Concepts, Poverty Lines, and Multidimensional Poverty
 
-**Poverty** is the inability to meet a minimum accepted standard of living.
+Poverty represents the inability of an individual or family to command sufficient economic resources to satisfy basic physical, nutritional, and social needs.
 
-- Absolute poverty compares living standards against a fixed poverty line (income or consumption).
-- Relative poverty compares a household with the living standards of others in the same society.
-- Indian official estimation has mainly used **household consumption** surveys, not income alone.
-- The **Head Count Ratio** is the share of people below the poverty line.
-- The **poverty gap** measures how far the poor lie below the line on average (depth teaching).
+* **Absolute Poverty:** A condition characterized by severe deprivation of basic human needs, measured against a fixed, real consumption or income threshold that does not change with rising living standards of society.
+* **Relative Poverty:** A condition where individuals experience economic disadvantage relative to the average living standard of their contemporary society, reflecting economic inequality and social exclusion.
+* **Primary Methodology:** Official poverty measurement in India is based on **household consumer expenditure surveys (CES)** conducted by the National Sample Survey Office (NSSO, now NSO), rather than direct income reporting.
+* **Head Count Ratio (HCR):** The proportion of the population falling below the officially designated poverty threshold.
+* **Poverty Gap Index:** Measures the depth of poverty by calculating the average shortfall of the poor population below the poverty line, expressed as a percentage of the poverty line itself.
 
-### Poverty-line committees
+### Key Committees on Poverty Estimation
 
-- **Dadabhai Naoroji** used the **jail cost of living** to sketch an early subsistence poverty estimate for India.
-- The **Alagh Committee (1979)** recommended a poverty line based on **nutritional / calorie requirements** exclusively in the classic key.
-- Alagh calorie norms teaching: **2400 kcal** rural and **2100 kcal** urban per person per day.
-- The **Lakdawala Committee (1993 report)** kept calorie-linked estimation with state-specific updating via CPI-AL (rural) and CPI-IW (urban).
-- The **Tendulkar Committee (2009)** moved away from calorie norms alone toward a broader basket (including health and education), used MRP estimates, and validated adequacy near the line.
-- Tendulkar all-India 2011–12 line teaching: about **₹816**/month rural and **₹1000**/month urban (≈ **₹26** / **₹32** per day).
-- Official poverty lines differ across States mainly because **price levels** differ.
-- The **Rangarajan Committee (2014)** raised daily lines to about **₹32** rural and **₹47** urban (2011–12 prices); the government did not adopt that report as the live official method.
-- Committee chronology filler: **Dandekar–Rath (1971)** → Lakdawala → Tendulkar → Rangarajan.
-- **NSSO / NSO** household consumption surveys underpin official poverty estimation; NITI Aayog is the present nodal desk after the Planning Commission.
-- Both **URP** and **MRP** distributions were used with 61st-round NSSO data for 2004–05 teaching.
+* **Dadabhai Naoroji (Pre-Independence):** In his treatise *Poverty and Un-British Rule in India*, Naoroji computed the earliest subsistence poverty line for India based on the **jail cost of living** for prisoners, adjusting prices for children and non-working dependents.
+* **National Planning Committee (1938):** Chaired by Jawaharlal Nehru, it established a subsistence living standard ranging from ₹15 to ₹25 per capita per month at pre-war prices.
+* **Dandekar and Rath (1971):** Formulated the first systematic calorie-based poverty estimation using NSS data (1960–61), establishing a daily intake benchmark of **2,250 calories per person** across both rural and urban areas.
+* **Alagh Task Force (1979):** Chaired by Y.K. Alagh, this Planning Commission task force recommended an official poverty line based exclusively on nutritional requirements: **2,400 kcal per day for rural areas** and **2,100 kcal per day for urban areas**.
+* **Lakdawala Committee (1993):** Chaired by D.T. Lakdawala, it retained the Alagh nutritional calorie benchmarks but recommended calculating State-specific poverty lines updated through the Consumer Price Index for Agricultural Labourers (CPI-AL) for rural areas and the Consumer Price Index for Industrial Workers (CPI-IW) for urban areas.
+* **Tendulkar Committee (2009):** Chaired by Suresh Tendulkar, it made major methodological revisions:
+  * Departed from anchoring poverty exclusively to calorie norms and adopted an expanded consumption basket that included private expenditures on health, education, clothing, and footwear.
+  * Formulated a uniform poverty line basket across all States anchored to the urban consumption basket.
+  * Utilized Mixed Reference Period (MRP) expenditure data from the NSS 61st Round (2004–05).
+  * For 2011–12, the Tendulkar poverty lines were determined at **₹816 per capita per month in rural areas** (approx. ₹26 per day) and **₹1,000 per capita per month in urban areas** (approx. ₹32 per day).
+  * Estimated India's overall poverty head count ratio at **21.9%** (25.7% rural, 13.7% urban) for 2011–12.
+* **Rangarajan Committee (2014):** Chaired by C. Rangarajan, it recommended returning to a nutritionally grounded consumption basket complemented by non-food expenditures (clothing, housing, education, and conveyance).
+  * Proposed daily per capita poverty thresholds of **₹32 in rural areas** (₹972/month) and **₹47 in urban areas** (₹1,407/month) at 2011–12 prices.
+  * Estimated the all-India poverty ratio at **29.5%** for 2011–12; the report was submitted to the Planning Commission but was not adopted as the live official series.
 
-### Inequality, poverty concepts and authors
+### Inequality and Structural Theories of Poverty
 
-- The **Lorenz curve** graphs cumulative income share against population share; sag below the 45° line shows inequality.
-- The **Gini coefficient** summarises inequality from the Lorenz curve — higher Gini means **higher** inequality (0 = equality).
-- **Oscar Lewis** gave the idea of a **culture of poverty**.
-- **Ragnar Nurkse** explained the **vicious circle of poverty** (low income → low saving / demand → low investment → low productivity).
-- **Cyclic / cyclical poor** (also called the cyclic poor) shuffle between poor and non-poor over short spells (business cycle / temporary shocks).
-- Absolute poverty was defined in UNO teaching in **1995** as severe deprivation of basic human needs.
-- Poverty types teaching set: absolute, relative and subjective — “functional poverty” is the odd distractor in some stems.
-- Liberalisation is **not** taught as a classic inequality-reduction measure beside MNP, taxation and land reforms.
+* **Lorenz Curve:** A graphical representation of the cumulative distribution of national income or wealth against the cumulative share of the population. The degree of deviation from the 45-degree line of perfect equality illustrates the extent of inequality.
+* **Gini Coefficient:** A mathematical index derived from the Lorenz curve measuring the ratio of the area between the 45-degree line of equality and the Lorenz curve to the total area beneath the equality line. It ranges from 0 (perfect equality) to 1 (maximal inequality).
+* **Vicious Circle of Poverty:** Formulated by economist **Ragnar Nurkse**, demonstrating that poverty is self-perpetuating on both supply and demand sides: low real income causes low savings and low purchasing power, which leads to low capital investment, generating low productivity, and culminating back in low income.
+* **Culture of Poverty:** Propounded by anthropologist **Oscar Lewis**, positing that prolonged poverty generates a distinct set of shared cultural norms, fatalistic attitudes, and survival behaviors transmitted across generations.
+* **Cyclical Poverty:** Refers to transient poverty where households fluctuate above and below the poverty line depending on macroeconomic business cycles or seasonal agricultural shocks.
 
-### Social indicators of poverty
+### Social Indicators and Deprivation Assessment
 
-- Social indicators include illiteracy, malnutrition, lack of safe drinking water, poor sanitation and lack of regular employment opportunities.
-- **Size of house (floor area)** is **not** the standard social indicator in the keyed UPPCS stem.
-- Housing **quality** (materials, flooring) appears in MPI living-standard indicators — that is not the same as “size of house.”
+* Comprehensive poverty evaluations examine broader socio-economic capability deprivations:
+  * Persistent adult and female illiteracy.
+  * Child malnutrition, stunting, and wasting.
+  * Lack of access to clean and treated drinking water.
+  * Inadequate sanitation and open defecation practices.
+  * Chronic lack of gainful, secure employment opportunities.
+* **Housing Quality vs Size:** Social deprivation metrics assess structural housing security (e.g., kuccha vs pucca structures, floor and roof materials), but do not consider dwelling floor area or "size of house" as an indicator of poverty.
 
 ### Multidimensional Poverty Index (MPI)
 
-- The **Human Poverty Index (HPI)** entered the Human Development Report in **1997**.
-- The **Multidimensional Poverty Index (MPI)** entered the HDR in **2010** and replaced HPI in UNDP teaching.
-- Global MPI was developed by **OPHI** with **UNDP**.
-- Global MPI uses three dimensions: **Health**, **Education** and **Standard of Living** — ten indicators beneath.
-- Education indicators include years of schooling / attendance; living-standard indicators include cooking fuel, sanitation, drinking water, electricity, housing and assets — **years of schooling is not a living-standard indicator**.
-- MPI is a **non-money** deprivation index — it does **not** count people by the World Bank $/day income line.
-- **NITI Aayog** publishes India’s **National MPI** using NFHS-based indicators.
-- Income poverty and MPI answer different questions; never merge them in a stem.
+* **Genesis:** Developed in 2010 by the Oxford Poverty and Human Development Initiative (OPHI) and the United Nations Development Programme (UNDP), formally replacing the earlier **Human Poverty Index (HPI)** introduced in 1997.
+* **Non-Monetary Framework:** The MPI evaluates deprivations experienced simultaneously at the household level across ten indicators grouped into three equally weighted dimensions:
+  1. **Health (Weight 1/3):** Nutrition, Child Mortality.
+  2. **Education (Weight 1/3):** Years of Schooling, School Attendance.
+  3. **Standard of Living (Weight 1/3):** Cooking Fuel, Sanitation, Drinking Water, Electricity, Housing, Assets.
+* **Deprivation Cut-off:** A household is categorized as multidimensionally poor if it is deprived in 33.3% or more of the weighted indicators.
+* **National MPI (NITI Aayog):** NITI Aayog developed India's official National Multidimensional Poverty Index based on NFHS microdata, expanding the global 10 indicators to 12 by incorporating **Maternal Health (Antenatal Care)** and **Bank Accounts**.
 
-### Causes and alleviation (teaching map)
-
-- Causes include low productivity, unemployment and underemployment, inequality, social exclusion, and shocks such as illness, climate stress or debt.
-- Alleviation mixes growth, targeted programmes, food security (Topic 6), employment guarantees and human-capital investment.
-- **MGNREGA** guarantees rural wage employment (100 days in teaching) and builds local assets as a demand-side safety net.
-- Older programme lineage teaching runs **IRDP → SGSY (1999) → NRLM (2011) → DAY-NRLM (2016)** toward SHG institutions and livelihood services.
-- **DRDAs** secure inter-departmental coordination and watch anti-poverty fund use — they are not substitute Panchayats in the keyed stem.
-- **Public Distribution System** began as price support and supplies essential commodities at subsidised prices for food security (full PDS depth lives with food-security teaching).
-
-### Minimum Needs and housing / land desks
-
-- The **Minimum Needs Programme** began in the **Fifth Plan (1974–78)** as an **investment in human resources** — elementary/adult education, rural health, roads, electrification, rural housing, urban-slum improvement and nutrition.
-- Social forestry is **not** under MNP in the keyed stem; liberalisation is **not** a classic inequality-reduction measure beside MNP.
-- **SVAMITVA** (Ministry of **Panchayati Raj**) maps rural Abadi parcels with drones and CORS (**Continuous Operating Referencing System**, ≈5 cm accuracy) — not Ministry of Mines; CORS ≠ Cross-Origin Resource Sharing.
-- **DILRMP** is a Central Sector scheme with **100%** Central funding (from April 2016), digitises cadastral maps, and supports transliteration of Records of Rights into Schedule VIII languages.
-- **PMAY** (“Housing for All”) launched **June 2015** with the original **2022** horizon; Urban and Rural components later received staged extensions (PMAY-U 2.0 teaching from **2024**).
-- **Indira Awas Yojana** (independent from **1996**; revamped as **PMAY-G** from 2016–17) began as housing aid for rural SC/ST and freed bonded labourers.
-- **Rajiv Awas Yojana (2011)** targeted a **slum-free India** and was later succeeded by PMAY-Urban.
-
-### Education, nutrition-in-school and related missions
-
-- **Sarva Shiksha Abhiyan** launched **2001** for universal elementary education (ages **6–14**) with a 2010 horizon teaching.
-- **Samagra Shiksha** (Budget 2018–19) amalgamates **SSA + RMSA + Teacher Education**.
-- **Mid-day Meal / NP-NSPE** launched **15 August 1995**; renamed **PM POSHAN** in **2021**; managed under the Education Ministry lane; contractors do not organise the scheme.
-- **RTE Act, 2009** made free and compulsory elementary education a right (effective **1 April 2010**).
-- **Saakshar Bharat** (2009) focuses on adult / female literacy; **Kasturba Gandhi Balika Vidyalaya** began **2004** for girls in educationally backward blocks.
-- **Operation Blackboard** (1987) provided minimum facilities in primary schools; **District Primary Education Programme** began **1994**.
-- **MPLADS** (1993) funds durable community assets; SC/ST area earmarks apply; funds are **non-lapsable**; district authority inspects at least **10%** of works.
-- **Saansad Adarsh Gram Yojana** launched **11 October 2014** (JP Narayan birth anniversary).
-- **Aadhaar** is the 12-digit resident identity number from UIDAI; first Aadhaar village teaching: **Tembhli (Nandurbar, Maharashtra, 2010)**.
-- **PURA** (Providing Urban Amenities to Rural Areas) was advocated by **A.P.J. Abdul Kalam**.
-- Bonded Labour System (Abolition) Act teaching year: **1976** (force from October 1975).
+---
 
 **Q-EC1. UPPCS (Pre) 2020**
 
@@ -328,9 +272,9 @@ D. Rangarajan Committee
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Alagh Committee.
+**Explanation:** The Task Force on Projections of Minimum Needs and Effective Consumption Demand (1979), chaired by Y.K. Alagh, established India's official poverty line anchored exclusively to nutritional requirements: 2,400 kcal per person per day for rural areas and 2,100 kcal per person per day for urban areas. Later committees (Tendulkar and Rangarajan) broadened the basket to incorporate expenditures on health, education, clothing, and shelter.
 
-**Ans: A.** Alagh (1979) is the classic nutrition / calorie-exclusive poverty-line committee in this key set.
+**Ans: A.** Alagh Committee
 
 </details>
 
@@ -346,9 +290,10 @@ D. 2015
 <details>
 <summary>Show answer</summary>
 
-**Logic:** MPI enters the HDR in 2010 and replaces HPI — 2010
+**Explanation:** The United Nations Development Programme (UNDP) published the Human Poverty Index (HPI) beginning in 1997, but formally replaced it with the Multidimensional Poverty Index (MPI) in the 2010 Human Development Report, developed in collaboration with the Oxford Poverty and Human Development Initiative (OPHI).
 
 **Ans: C.** 2010
+
 </details>
 
 **Q-EC3. UPPCS (Pre) 2025**
@@ -368,9 +313,9 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 2 confuses MPI with the World Bank money-metric extreme-poverty line — MPI is non-monetary.
+**Explanation:** Statement 1 is correct: The global MPI was developed by UNDP and OPHI and introduced in the 2010 Human Development Report. Statement 2 is incorrect: The MPI is a non-monetary index measuring acute overlapping deprivations across health, education, and living standards; the income metric of living on less than $1/day (now $2.15/day) is the World Bank's international monetary extreme poverty line.
 
-**Ans: D.** Statement 1 is true.
+**Ans: D.** Only 1
 
 </details>
 
@@ -392,9 +337,9 @@ D. i, ii and iii are correct
 <details>
 <summary>Show answer</summary>
 
-**Logic:** i, ii and iii are correct.
+**Explanation:** The Multidimensional Poverty Index (MPI) is structured around three equally weighted dimensions mirroring the Human Development Index: Health, Education, and Living Standard, assessed through ten specific indicators.
 
-**Ans: D.** All three dimensions are in the MPI.
+**Ans: D.** i, ii and iii are correct
 
 </details>
 
@@ -417,9 +362,9 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Floor-area “size of house” is the odd one out (MPI looks at housing materials, not size).
+**Explanation:** Standard social indicators of poverty assess social capabilities and deprivations such as illiteracy, lack of access to safe drinking water, malnutrition, and lack of employment opportunities. While housing quality (materials used for roof, walls, and flooring) is assessed in living standards, dwelling floor area or "size of house" is not considered a social indicator of poverty.
 
-**Ans: C.** Illiteracy, water access and jobs are social/deprivation indicators.
+**Ans: C.** Only 4
 
 </details>
 
@@ -435,49 +380,47 @@ D. Vallabh Bhai Patel
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dadabhai Naoroji.
+**Explanation:** In his seminal work *Poverty and Un-British Rule in India*, Dadabhai Naoroji computed the earliest subsistence poverty line for colonial India by calculating the "jail cost of living" (the cost of food and clothing necessary to keep an adult prisoner alive and functional) and making mathematical adjustments for children and women.
 
-**Ans: A.** Naoroji’s early subsistence estimate used jail cost of living.
+**Ans: A.** Dadabhai Naoroji
 
 </details>
 
 ---
 
-## 8.2 Employment and labour
+## 8.2 Employment, Labour Force Metrics, and Demographic Dividend
 
-**Unemployment** means willing workers cannot find work at the going wage and conditions.
+* **Unemployment:** Defined as a condition wherein individuals belonging to the working-age group, who are physically capable and actively seeking work at the going wage rate, cannot secure gainful employment.
 
-### Types of unemployment
+### Classification of Unemployment
 
-- **Disguised unemployment** means surplus labour with near-zero marginal product — classic farm surplus-labour teaching.
-- **Seasonal unemployment** follows agricultural seasons, tourism seasons or similar calendar patterns.
-- **Structural unemployment** comes from skill or sector mismatch as the economy’s structure changes.
-- **Frictional unemployment** is short job-search or transition unemployment between jobs.
-- **Cyclical unemployment** rises when aggregate demand slows in a downturn.
-- Do not swap disguised (year-round surplus labour) with seasonal (season-linked).
+* **Disguised Unemployment:** A structural phenomenon in which more labor is employed in an activity than is technically required, such that the marginal productivity of additional workers is zero or negative. Prevalent extensively in Indian peasant agriculture.
+* **Seasonal Unemployment:** Occurs when labor is rendered idle during specific seasonal intervals, widespread in agriculture, sugar milling, and tourism.
+* **Structural Unemployment:** Caused by fundamental long-term shifts in economic structure, technological obsolescence, or educational deficits creating an imbalance between market skill requirements and job seekers' qualifications.
+* **Frictional Unemployment:** Temporary joblessness experienced when workers are between jobs or re-entering the labor force to find better employment matches.
+* **Cyclical Unemployment:** Induced by deficient aggregate demand during macroeconomic recessions or economic slowdowns.
 
-### Indian labour-force measures
+### Indian Labour Force Concepts (PLFS Framework)
 
-- Indian statistics use **usual status**, **weekly status** and **daily status** reference periods (NSS / PLFS teaching).
-- The **labour force** includes the employed plus the unemployed who are seeking / available for work.
-- **Labour-force participation rate (LFPR)** is the labour force as a share of population in the reference age group.
-- The **unemployment rate** is unemployment among the labour force — not the same as LFPR.
-- Female LFPR in India has been a debated low / fluctuating series; education and income effects compete in A/R stems.
+* The National Sample Survey Office (NSO) measures labor force activity under three standard approaches:
+  1. **Usual Principal and Subsidiary Status (UPSS):** Assesses activity status over a 365-day reference period; captures chronic and long-term employment.
+  2. **Current Weekly Status (CWS):** Assesses activity over a 7-day reference period; an individual is considered employed if working for at least one hour on any day during the reference week.
+  3. **Current Daily Status (CDS):** Measures employment day-by-day (in half-day units), capturing short-term underemployment.
+* **Labour Force:** The sum of all employed persons plus all unemployed persons actively seeking or available for employment.
+* **Labour Force Participation Rate (LFPR):** The percentage of the working-age population that is part of the labour force:
+  $$\text{LFPR} = \frac{\text{Labour Force}}{\text{Total Working-Age Population}} \times 100$$
+* **Worker Population Ratio (WPR):** The percentage of employed persons relative to the total population.
+* **Unemployment Rate (UR):** The percentage of unemployed persons relative to the total labour force:
+  $$\text{UR} = \frac{\text{Unemployed Persons}}{\text{Labour Force}} \times 100$$
+* **Informal and Gig Employment:** The Indian economy features a high proportion of informal employment characterized by minimal social protection. Digital platform and gig work have introduced flexible labor arrangements, prompting social security frameworks under the Code on Social Security, 2020.
 
-### Informal work, gig and migration
+### The Demographic Dividend
 
-- The **informal sector** dominates employment share — low social security with high flexibility.
-- **Gig / platform work** is a growing flexible-work form with social-security design questions.
-- Rural–urban and inter-State migration reallocates labour but can leave social-protection gaps.
-- Topic 6 neighbour: One Nation One Ration Card helps food-entitlement portability for migrants.
+* **Conceptual Definition:** The transitory economic growth surge that occurs when a nation's dependency ratio drops due to a high proportion of the population falling into the productive working-age category relative to young and aged dependents.
+* **Working-Age Cohort:** In Indian demographic planning and official statistical conventions, the productive working-age population is classified as **15 to 59 years** (as compared to 15 to 64 years in broader UN classifications).
+* **Policy Imperative:** Realizing the demographic dividend requires substantial public investment in skill development, quality education, preventive healthcare, and industrial job creation; without these investments, demographic pressure risks manifesting as demographic liability.
 
-### Demographic dividend
-
-- The **demographic dividend** is the growth opportunity when the share of **working-age population** is high relative to dependents.
-- UPPCS keys the Indian working-age band as **15–59** for this stem set.
-- UN often uses 15–64 — that band is a distractor here, not the keyed answer.
-- Age structure alone is not enough; education, skills, health and jobs are needed to reap the dividend.
-- Youth unemployment wastes human capital just as education investments mature.
+---
 
 **Q-EC7. UPPCS (Pre) 2022**
 
@@ -491,83 +434,53 @@ D. Working population of 14 to 50 years
 <details>
 <summary>Show answer</summary>
 
-**Logic:** (UN often uses 15–64 — not printed here.)
+**Explanation:** The demographic dividend arises from a favorable age structure where the working-age population exceeds the dependent population. In Indian demographic classification and planning literature, the productive working-age cohort is officially categorized as 15 to 59 years.
 
-**Ans: B.** UPPCS keys the Indian working-age band **15–59** as the demographic-dividend population tag.
+**Ans: B.** Working population of 15 to 59 years
 
 </details>
 
 ---
 
-## 8.3 Human capital, HDI and inclusive growth
+## 8.3 Human Capital Formation, Human Development Index, and Inclusive Growth
 
-**Human capital** is the stock of skills, knowledge and health embodied in people.
-
-- Investment in education and health yields **future returns** by raising productivity.
-- Human capital differs from physical capital (machines and buildings).
-- Skill missions (for example PMKVY teaching) aim to cut structural unemployment by matching skills to demand.
+* **Human Capital:** The acquired knowledge, skills, technical competencies, and physical vitality embodied in the working population.
+* **Determinants of Human Capital:** Investment in primary and higher education, vocational skill training, preventive and curative public health, labor market information systems, and migration for employment opportunities.
+* **Economic Returns:** Education and healthcare enhance individual cognitive abilities, productivity, and resilience, generating higher lifetime earnings and driving aggregate economic output.
 
 ### Human Development Index (HDI)
 
-- The first **Human Development Report** with an HDI appeared in **1990** under UNDP.
-- **Mahbub ul Haq** led the first HDR; Amartya Sen’s capabilities approach underpins the philosophy.
-- A stem pairing Haq with “S. Priesner” as co-lead fails the keyed team tag.
-- HDI combines three pillars: a **long and healthy life**, **knowledge**, and a **decent standard of living**.
-- Teaching indicators: **life expectancy**, education (mean / expected years of schooling), and **GNI per capita (PPP)** since the **2010** method change.
-- Before 2010, living standard used **GDP per capita (PPP)**; after 2010 it uses **GNI per capita (PPP)**.
-- Life Expectancy Index bounds in current teaching: **85** (max) and **20** (min) years — older keys used 85 and 25.
-- **Condition of the environment is not an HDI pillar** — a recurring multi-statement trap.
-- Chronology of development measures: **Per-capita Income → Physical Quality of Life Index (PQLI) → HDI**.
-- **PQLI** (Morris D. Morris, mid-1970s) averages literacy, infant mortality and life expectancy at age one.
-- **Amartya Sen’s Capability Approach** treats poverty as capability deprivation and development as expanding what people can do and be.
-- UNDP’s **Capability Poverty Measure** (HDR **1996**) keys child malnutrition and female illiteracy for health and knowledge deprivation — male illiteracy and drinking water are not CPM indicators in the keyed stem.
-- HDR **1996** described distorted growth paths as **jobless, rootless, ruthless, voiceless and futureless**.
-- UNDP also publishes Inequality-adjusted HDI and the **Gender Inequality Index (GII)** — GII introduced in HDR **2010**.
-- **Bhutan** uses **Gross National Happiness (GNH)** as a well-being goal, distinct from GNP.
-- The **World Happiness Report** ranks subjective well-being separately from HDI — do not swap India’s happiness rank with its HDI rank.
-- First Indian State HDR: **Madhya Pradesh (1995)**. **Kerala** has long topped State HDI; **Bihar** is the usual bottom State in classic tables.
-- Economic Survey’s **Bare Necessities Index** summarises **26** indicators on **five** dimensions for 2012 and 2018 (not six dimensions; not 2018-only).
-- Universal Declaration of Human Rights teaching includes rights to education, equal access to public service, and adequate food / living standard.
-- **Auguste Comte**’s three stages of social development: theological → metaphysical → positive/scientific.
+* **Origins:** Inaugurated in 1990 by the United Nations Development Programme (UNDP) under the leadership of Pakistani economist **Mahbub ul Haq**, intellectually guided by **Amartya Sen's Capability Approach**.
+* **Three Core Dimensions and Indicators:**
+  1. **Long and Healthy Life:** Measured by **Life Expectancy at Birth** (fixed goalposts: minimum 20 years, maximum 85 years).
+  2. **Knowledge:** Measured as the arithmetic mean of:
+     * **Mean Years of Schooling** for adults aged 25 and older.
+     * **Expected Years of Schooling** for school-age children.
+  3. **Decent Standard of Living:** Measured by **Gross National Income (GNI) per capita (PPP $)**. (Note: Post-2010 replaced GDP per capita with GNI per capita to reflect net primary cross-border income).
+* **Aggregation Method:** Computed as the **geometric mean** of the three normalized dimension indices:
+  $$\text{HDI} = \left(I_{\text{Health}} \times I_{\text{Education}} \times I_{\text{Income}}\right)^{\frac{1}{3}}$$
+* **Distinguishing Boundaries:** Environmental quality, political freedoms, and subjective well-being are excluded from the HDI calculation.
 
-### Inclusive growth and social security
+### Alternative Welfare Measures and Indices
 
-- **Inclusive growth** spreads benefits across regions, castes, genders and income groups — growth plus equity.
-- Inclusive growth needs rural development, agriculture revival, infrastructure, education and health — **high national-income growth alone is not enough**.
-- Inclusive governance teaching: District Planning Committees, public-health spend and Mid-day Meal strength help; **NBFC banking permission is not** the keyed inclusive-governance lever.
-- SHGs, MSMEs and the Right to Education Act all aid inclusive growth.
-- Income and wealth inequality are tracked by Gini and related measures.
-- High inequality can blunt poverty reduction even when average income rises.
-- Social security / protection covers pensions, insurance, maternity, disability and employment guarantees.
-- Extreme money poverty ($/day lines) and MPI still answer different questions — keep them separate.
+* **Physical Quality of Life Index (PQLI):** Formulated in 1979 by **Morris D. Morris** for the Overseas Development Council, averaging three non-income indicators: Infant Mortality Rate, Life Expectancy at Age 1, and Basic Literacy Rate.
+* **Historical Chronology of Progress Metrics:**
+  $$\text{Per Capita Income (PCI)} \longrightarrow \text{Physical Quality of Life Index (PQLI)} \longrightarrow \text{Human Development Index (HDI)}$$
+* **Capability Approach:** Developed by Nobel laureate **Amartya Sen**, positing that economic development should be evaluated through the expansion of individuals' substantive capabilities (what people are actually able to do and be) rather than utility or commodity possession alone.
+* **Gender Inequality Index (GII):** Introduced in HDR 2010 to measure gender-based disparities across three dimensions: reproductive health (maternal mortality ratio and adolescent birth rate), empowerment (share of parliamentary seats and attainment of secondary education), and labor market participation.
+* **Gross National Happiness (GNH):** Coined in 1972 by Bhutan's Fourth King, Jigme Singye Wangchuck, measuring national progress through sustainable socio-economic development, cultural preservation, environmental protection, and good governance.
+* **World Happiness Report:** Published by the UN Sustainable Development Solutions Network (SDSN), ranking nations based on subjective evaluations of life satisfaction from the Gallup World Poll.
+* **State HDRs in India:** **Madhya Pradesh** became the first State in India to release a State Human Development Report in **1995**. In national comparative rankings, **Kerala** consistently achieves the highest HDI score, whereas **Bihar** and **Uttar Pradesh** rank in lower quartiles.
+* **Bare Necessities Index (BNI):** Designed in the Economic Survey 2020–21, tracking progress in basic necessities across **26 indicators** organized into **five dimensions** (water, sanitation, housing, micro-environment, and other facilities) using 2012 and 2018 data.
 
-### Social capital vs human capital vs physical capital
+### Sustainable Development Principles
 
-- **Social capital** is mutual trust, shared norms and harmony that make cooperation cheaper.
-- **Human capital** is skills, knowledge and health in people — built by education, training and medical care.
-- **Physical capital** is machines, buildings and infrastructure.
-- **Irrigation does not directly form human capital** — it is farm/physical capital.
-- Skill programmes (for example PMKVY) enhance **human capital**.
-- World Bank **Human Capital Index 2020**: **Singapore** topped; India ≈ **116th** in that update.
+* **Brundtland Report (*Our Common Future*, 1987):** Established the global benchmark definition: *"Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs."*
+* ***The Limits to Growth* (1972):** Authored by Donella Meadows and team for the Club of Rome, demonstrating using computer simulations that continued exponential population and industrial growth would encounter finite ecological resource boundaries within 100 years.
+* **Environmental Kuznets Curve (EKC):** An inverted-U-shaped hypothesis postulating that environmental degradation intensifies in early stages of economic development but stabilizes and declines once income passes a critical per capita threshold.
+* **Carrying Capacity:** The ecological threshold indicating the maximum population and resource extraction that an ecosystem can sustainably support without undergoing irreversible degradation.
 
-### Sustainable development — definition spine
-
-- **Sustainable development** meets the needs of the present without compromising future generations’ ability to meet their own needs (**Brundtland / Our Common Future, 1987**).
-- The phrase appeared as a global priority in the **IUCN World Conservation Strategy (1980)**; Rio **Agenda 21** was adopted in **1992** (not 1995).
-- Sustainable development is inherently tied to **carrying capacity** — the environment’s sustainable support limit.
-- The **environmental approach** is treated as the base of sustainable development in many State keys.
-- Inter-generational sensibility focuses on **natural resources**.
-- **Club of Rome** propounded **Limits to Growth** (Meadows et al., **1972**); that report is **not** the Brundtland Report.
-- Meadows (1972) warned that unchanged trends would hit planetary limits in about **100 years**.
-- **Environmental Kuznets Curve** relating per capita GDP to environmental degradation is **inverted-U** shaped.
-- **Paul R. Ehrlich** authored *The Population Bomb* (1968).
-- **Circular economy** cuts raw-material use and waste; both channels help cut greenhouse-gas emissions.
-- **Sustainable tourism** manages tourism with cultural integrity and ecological processes — not tourist headcount alone.
-- India–**Norway** Task Force on **Blue Economy** for Sustainable Development was launched in **January 2019**.
-- **Neemrana** (Rajasthan) is a classic sustainable-economic-development model town in older UP keys.
-- Economic Survey first carried a chapter on **sustainable development and climate change** in **2011–12**.
-
-> **Logic:** Brundtland ≠ Limits to Growth. Social capital ≠ literacy stock. Inclusive growth ≠ GDP growth alone.
+---
 
 **Q-EC8. UPPCS (Pre) 2025**
 
@@ -587,9 +500,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
+**Explanation:** Human capital refers to the acquired knowledge, skills, technical competencies, and physical health embodied in a workforce. Public and private expenditures on education and healthcare enhance individuals' cognitive faculties and productivity, which in turn generate compounding economic returns in the future. Therefore, both statements are correct, and Reason (R) correctly explains Assertion (A).
 
 **Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+
 </details>
 
 **Q-EC9. UPPCS (Pre) 2024**
@@ -611,9 +525,9 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Environment is not an HDI pillar.
+**Explanation:** The Human Development Index (HDI) is computed from three core dimensions: a long and healthy life (life expectancy at birth), knowledge (mean and expected years of schooling), and a decent standard of living (Gross National Income per capita PPP $). Environmental conditions and sustainability are not included in the HDI formula.
 
-**Ans: C.** HDI = income + education + life expectancy.
+**Ans: C.** Only 1, 2 and 4
 
 </details>
 
@@ -634,307 +548,153 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 2 fails — Haq led the first HDR; S.
+**Explanation:** Statement 1 is correct: The United Nations Development Programme (UNDP) released the first Human Development Report featuring the HDI in 1990. Statement 2 is incorrect: The team was conceived and led by Pakistani economist Mahbub ul Haq with major conceptual input from Amartya Sen, Keith Griffin, Sudhir Anand, and Meghnad Desai; S. Priesner was not a team leader of the 1990 report.
 
-**Ans: D.** Statement 1 is true.
+**Ans: D.** Only 1
 
 </details>
 
 ---
 
-## 8.4 Employment and welfare schemes
-
-**Welfare and employment schemes** are the programme layer of inclusive growth — they convert human-capital and poverty teaching into named missions, covers and launch tags.
-
-### NITI transformation desks and Atmanirbhar
-
-- The **Aspirational Districts Programme (ADP)** of **NITI Aayog** was launched in **January 2018** to transform **112** under-developed districts.
-- ADP ranks districts monthly on **49 Key Performance Indicators** under five themes: Health & Nutrition, Education, Agriculture & Water Resources, Financial Inclusion & Skill Development, and Infrastructure.
-- The **Aspirational Blocks Programme (ABP)** was launched in **January 2023** for **500** relatively underdeveloped blocks.
-- **Atmanirbhar Bharat** aims to raise domestic manufacturing capacity and make India a global supply-chain / export hub.
-- Atmanirbhar is **not** anti-FDI — it liberalises FDI in selected sectors so production facilities are set up **inside** India.
-
-### COVID-era livelihood and relief funds
-
-- **Garib Kalyan Rojgar Abhiyaan** (June **2020**) was an employment-cum-rural public-works campaign for returnee migrant workers after COVID-19.
-- It was flagged off from village **Telihar**, Beldaur block, district **Khagaria (Bihar)** on **20 June 2020**.
-- **PM CARES Fund** (March **2020**) is a public charitable trust for emergency / distress relief.
-- PM CARES rests entirely on **voluntary** contributions and gets **no budgetary support**.
-- The Prime Minister is ex-officio Chair; Defence, Home and Finance Ministers are ex-officio trustees; nominated trustees serve **pro bono**.
-
-### Health assurance — Ayushman Bharat family
-
-- **Ayushman Bharat – PM-JAY** launched **23 September 2018** at **Ranchi (Jharkhand)** under National Health Policy **2017**.
-- PM-JAY is taught as the world’s largest government-funded health assurance scheme: cover of **₹5 lakh per family per year** for secondary and tertiary hospitalisation (not ₹5 lakh per person).
-- Funding share teaching: Centre–State **60:40** (general States); **90:10** for North-Eastern and Himalayan States.
-- Implementing apex body: **National Health Authority (NHA)** — not WHO, NITI or IRDAI.
-- **Ayushman Bharat Digital Mission (ABDM)** launched **27 September 2021**; participation of citizens and facilities is **voluntary**.
-- ABDM aims at seamless national **portability** of digital health records through ABHA, HPR and HFR.
-- India’s public healthcare focus has largely been **curative**, with thinner preventive / promotive / rehabilitative care — AB Health and Wellness Centres try to widen the package.
-- States primarily organise health services because **public health** sits in the **State List**.
-
-### Older health insurance and State variants
-
-- **Rashtriya Swasthya Bima Yojana (RSBY)** covered **unorganised-sector** BPL workers; launched under Labour (2007 / operational **April 2008**), later moved to Health (2015), and was subsumed in **PM-JAY**.
-- **Rajiv Gandhi Shilpi Swasthya Bima Yojana** was a **Ministry of Textiles** handicraft-worker insurance scheme.
-- Rajasthan lineage teaching: Bhamashah → Ayushman Bharat Mahatma Gandhi Rajasthan Swasthaya Bima Yojana → **CM Chiranjeevi** (1 May **2021**) → later **Mukhyamantri Ayushman Aarogya Yojana**.
-- **Ayushman Sahakar** assists cooperatives in creating health infrastructure; formulated by **NCDC**; launched by Agriculture / now Cooperation desk — **not** Finance Ministry.
-
-### Immunisation, NRHM and National Health Policy
-
-- **Mission Indradhanush** (25 December **2014**) expands immunisation for children and pregnant women; Intensified Mission Indradhanush phases followed from **2017** onward.
-- **U-WIN** digitises Universal Immunisation Programme services, issues QR e-certificates, supports ABHA creation, and is available in **11** regional languages.
-- **National Rural Health Mission (NRHM)** launched **12 April 2005** (Tenth Plan), not the Eleventh Plan.
-- From **2013**, NRHM became a sub-mission under the overarching **National Health Mission** with **NUHM**.
-- Village interface worker under NRHM: **ASHA** — does not conduct deliveries as a standard job (escorts, pregnancy test kits, nutrition / immunisation information yes).
-- First National Health Policy: **1983**; NHP **2017** raises the public-health spend ambition toward **2.5% of GDP** by 2025.
-- NHP 2017’s seven environment-for-health priorities include Swachh Bharat, diets/exercise, tobacco/alcohol, **Yatri Suraksha**, **Nirbhaya Nari**, workplace safety, and air pollution — **not** Annapurna Scheme.
-
-### Nutrition, adolescents and ICDS
-
-- **POSHAN Abhiyaan / National Nutrition Mission** targets awareness and reduction of stunting, undernutrition, anaemia and low birth weight — millet/egg promotion is **not** a keyed NNM objective in the classic UPSC stem.
-- **Rashtriya Poshan Maah** is celebrated every **September**.
-- **Shabri Sankalp Abhiyan** (UP, **2017**) is linked to the National Nutrition Mission.
-- **Rashtriya Kishor Swasthya Karyakram (RKSK)** covers adolescents **10–19 years** (launched **7 January 2014**).
-- **ICDS** launched **2 October 1975** under Women and Child Development — six services include supplementary nutrition, preschool education, nutrition/health education, immunisation, health check-up and referral — **not** family planning or free school books/dress.
-
-### Skill, innovation and education missions
-
-- **PMKVY** is the flagship of **Ministry of Skill Development and Entrepreneurship** (not Labour), implemented via NSDC; soft skills / entrepreneurship / financial-digital literacy and NSQF alignment are in scope.
-- Skill-related set teaching: **STRIVE**, **SANKALP**, **SHREYAS** — **STRIDE** (UGC research) is **not** a skill scheme.
-- **Skill Development Initiative** (Labour) was operationalised in **May 2007**.
-- **Atal Innovation Mission** sits under **NITI Aayog**.
-- **NIDHI** (DST) nurtures student startups; teaching key supports **20** students for startup each year.
-- **SWAYAM** delivers free, quality online courses from Class 9 to postgraduate level.
-- **Unnat Bharat Abhiyan** connects higher-education institutions with rural communities for technology-based development solutions.
-- **Vidyanjali** strengthens government schools through community / private-sector volunteering — not foreign campus entry.
-- **MATES** is an India–Australia mobility pathway for early-career graduates (roughly **18–30**) for up to **two** years.
-- **YUVA / PM-YUVA** is an Education Ministry young-author mentorship scheme.
-
-### Financial inclusion, LPG, electricity and DBT
-
-- **PM Jan-Dhan Yojana** launched **28 August 2014** as the national financial-inclusion mission (RuPay accident cover teaching later enhanced for new accounts after 28.8.2018).
-- **PAHAL** is the LPG subsidy DBT scheme — Guinness-recognised as the world’s largest direct benefit cash-transfer programme and an early **JAM** use-case.
-- **PM Ujjwala Yojana** launched **1 May 2016** from **Ballia (Uttar Pradesh)** — deposit-free LPG connections in women’s names; later Ujjwala 2.0 and additional connection waves.
-- **Saubhagya** (PM Sahaj Bijli Har Ghar Yojana, **25 September 2017**, Ministry of **Power**) aimed at universal household electrification; REC was the nodal agency.
-
-### Women empowerment and maternity
-
-- **Beti Bachao Beti Padhao** announced **22 January 2015** at **Panipat (Haryana)** — tri-ministerial CSR / sex-ratio awareness campaign.
-- **Swadhar** supports women in difficult circumstances; **Swayam Siddha** emphasises SHG-based holistic empowerment — classic IAS stems reverse the two labels.
-- **DWCRA** (1982–83) uplifted rural women below poverty line and later merged into SGSY.
-- **Swawlamban** (older NORAD / Mahila training line) gave women skills for employment / self-employment.
-- **Maternity Benefit (Amendment) Act, 2017**: **26 weeks** paid leave for the first two children; reduced leave after two children; creche visits teaching is **four**, not six.
-- **Janani Suraksha Yojana** (April **2005**) replaced National Maternity Benefit Scheme — promotes institutional delivery and cash assistance; does **not** reimburse wage loss.
-- **Janani Shishu Suraksha Karyakram** (1 June **2011**) provides free care for pregnant women and sick newborns in government facilities.
-- **Pradhan Mantri Matru Vandana Yojana** supports appropriate care in pregnancy, delivery and lactation for mother–infant nutrition outcomes.
-- **Pradhan Mantri Surakshit Matritva Abhiyan** gives fixed-day quality antenatal care in the second and third trimesters; private specialists may volunteer at government facilities — it does **not** guarantee six months post-delivery care in the keyed stem.
-- **MAA (Mother’s Absolute Affection)** is the Health Ministry breastfeeding-promotion programme.
-
-### Rural livelihood lineage — SGSY to DAY-NRLM
-
-- **Swarnajayanti Gram Swarozgar Yojana (SGSY)** started in **1999** (1 April teaching) after restructuring IRDP and allied schemes.
-- **National Rural Livelihood Mission (NRLM)** launched **June 2011** by restructuring **SGSY**; it fully replaced SGSY from **1 April 2013**.
-- NRLM was renamed **DAY-NRLM (Deendayal Antyodaya Yojana – NRLM)** with effect from **29 March 2016**.
-- DAY-NRLM improves livelihoods mainly by **strengthening SHGs and skill development** — not by setting up large numbers of new factories or by free seed–fertiliser–pump-set kits.
-- Urban counterpart teaching: **Swarnajayanti Shahari Rozgar Yojana (SJSRY)** from **1 December 1997** for urban unemployed / underemployed poor.
-- SJSRY subsumed **Nehru Rozgar Yojana**, **Urban Basic Services for the Poor**, and **PM’s Integrated Urban Poverty Eradication Programme** — it did **not** subsume **PMRY**.
-- **Nehru Rozgar Yojana** (October **1989**, end of Seventh Plan) had three urban parts: Urban Micro Enterprises, Urban Wage Employment, and Housing and Shelter Upgradation.
-- SJSRY is an **employment** programme — not a social-security programme in the AABY / RSBY / UWSSA sense.
-
-### MGNREGA — legal rural wage guarantee
-
-- Parliament passed **NREGA** in **2005** (notified September 2005); it came into force on **2 February 2006** initially in **200** districts.
-- Expansion teaching: toward **330** districts in Budget **2007–08** steps; remaining districts from **1 April 2008**.
-- Renamed **MGNREGA** on **2 October 2009**.
-- Guarantee is **100 days** of unskilled wage employment **per rural household** in a financial year — **not** 100 days for every adult member separately.
-- Distinctive feature: it is not only a scheme but a **legal right** to employment, with transparency / accountability design.
-- Positive results teaching: higher rural wages / purchasing power and less distress migration; it raises (not reduces) labourer bargaining power.
-- Teaching note for newer editions: **VB-G RAM G Act, 2025** is framed as replacing MGNREGA with a modernised rural wage–infrastructure statute (guaranteed days raised to **125** in Ghat teaching).
-- Rajasthan’s **Indira Gandhi Urban Employment Guarantee Scheme** (2022; later Mukhyamantri Urban Employment Guarantee) guarantees urban employment days; employment after registration is keyed as **15 days**, not 30.
-
-### Community Development and early rural desks
-
-- **Community Development Programme** launched **2 October 1952** — multi-purpose rural development; India was an early starter with Ford Foundation support.
-- Architect teaching tag: **S.K. Dey**; CDP helped set the stage for **Panchayati Raj** organisation.
-- **National Extension Service (NES)** launched **1953** for wider coverage at lower cost after CDP fund limits.
-- **Key Village Scheme** (cattle development) began **August 1952**; **DRDA** professional district desk from **1980** (DRDA Administration Scheme from **1 April 1999**).
-- Chronology filler: CDP (**1952**) → DPAP (**1973–74**) → Food for Work (**1977–78**) → TRYSEM (**1979**).
-- **Antyodaya Programme** began first in **Rajasthan (1977–78)** for the poorest of the poor; later **Antyodaya Anna Yojana** foodgrain price tags appear in older welfare stems.
-
-### Pensions and social-security covers
-
-- **Atal Pension Yojana (APY)** (9 May **2015**) is a minimum-guaranteed pension mainly for **unorganised** workers; spouse continues the pension after the subscriber’s death — “only one family member” is **false**.
-- **National Pension System (NPS)** is regulated by **PFRDA**; States can notify joining for their employees after a cut-off date; Armed Forces are outside the classic Central NPS joining tag.
-- **PM Shram Yogi Maan-dhan (PM-SYM)**: entry age **18–40**, income ceiling teaching, age-specific contribution, minimum **₹3,000**/month after 60; family pension to **spouse only** (not unmarried daughters) in the keyed stem.
-- **PM Kisan Maan-dhan Yojana** launched **12 September 2019** at **Ranchi** for small/marginal farmers (land up to **2 ha**, age 18–40) with ₹3,000 pension teaching.
-- **Aam Aadmi Bima Yojana** launched **2 October 2007** for rural landless BPL households (head/earning member **18–59**, not 30–65); scholarship add-on for up to two children in classes 9–12; later converged with PMJJBY / PMSBY teaching.
-- **PMSBY** is personal accident cover for ages **18–70** (not 18–50); premium teaching moved from ₹12 to ₹20 per year in later keys.
-- **Employees’ State Insurance** covers eligible employees in hotels/restaurants, motor transport, newspaper establishments and private medical institutions among other establishments.
-- **Unorganised Workers’ Social Security Act** was passed in **2008**.
-- **National Social Assistance Programme (NSAP)** (from **15 August 1995**) covers IGNOAPS, IGNWPS, IGNDPS, National Family Benefit and Annapurna-type desks — **Mahila Kisan Sashaktikaran Pariyojana** is **not** an NSAP component.
-- **National Social Security Fund** is a social-security financing desk — not an employment-generation programme like MGNREGA / NRLM / SJSRY.
-
-### Sanitation missions and related tags
-
-- **Swachh Bharat Mission** launched **2 October 2014** aimed at Clean / ODF India by **2 October 2019** (Gandhi 150th birth anniversary teaching).
-- SBM is about sanitation behaviour and solid-waste management — **not** “safe drinking water” as its primary matched aim (JJM neighbour).
-- Phase II SBM-Grameen teaching focuses on sustaining ODF and solid/liquid waste management; Rural Sanitation Strategy **2019–2029** sits under Jal Shakti / DDWS.
-- **Nirmal Bharat Abhiyan** revitalised the Total Sanitation Campaign; **Nirmal Gram Puraskar** rewards ODF / fully sanitised Gram Panchayats.
-- **Rashtriya Garima Abhiyaan** targets ending **manual scavenging** and rehabilitating scavengers.
-- **WaterCredit** (Water.org) uses microfinance tools for water and sanitation and aims to reduce subsidy dependence — it is **not** a WHO/World Bank initiative.
-- **World Toilet Organization** is a global NGO (not a UN agency); World Toilet Day / Summit / College are its initiatives — fund-granting to end ODF is not its main keyed focus.
-
-### Rural infrastructure, housing water and employment lineage
-
-- **Bharat Nirman** (from **2005**) developed rural infrastructure across six components: irrigation, drinking water, electrification, roads, housing and rural telephony — **not** sanitation, agri-industry, SSA or hospitals as a sixth-plus component.
-- **National Rural Drinking Water Programme** was the drinking-water arm under Bharat Nirman lineage.
-- **Jal Jeevan Mission** (announced Budget **2019–20**; launched **15 August 2019**) aims at functional household tap connections in rural India.
-- **AMRUT** (June **2015**) revamps urban infrastructure — water, sewerage/septage, storm-water drains, public transport, parks — covering **500** cities and over **60%** of urban population (not 400 cities alone).
-- **PMGSY** (25 December **2000**) connects eligible habitations with all-weather roads — plain-area threshold **500+** population (250+ in hill / desert / tribal areas).
-- **Shyama Prasad Mukherji Rurban Mission** launched **2016** (not 2015) to make selected rural clusters socially, economically and physically sustainable.
-- **Sugamya Bharat Abhiyan** (Accessible India, **2015**) improves accessibility for persons with disabilities.
-- Older employment / livelihood lineage: **TRYSEM (1979)** → **RLEGP (1983)** → **JRY (1989, Seventh Plan)** → **SGSY (1999)** after merging IRDP and allied schemes → **NRLM / DAY-NRLM**.
-- **IRDP** (nationwide from **2 October 1980**) aimed to lift rural BPL households above the poverty line through income-generating assets and credit.
-- **RIDF** sits in **NABARD** — rural water, roads and electrification are eligible; **rural industries** are not a RIDF programme head in keyed stems.
-- **Vibrant Villages Programme-II** (Cabinet approval **April 2025**) focuses on comprehensive development of border villages.
-- **RMSA** is a secondary-education quality/access mission — **not** an employment programme (unlike MGNREGA, NRLM, STEP).
-
-> **Logic:** SGSY = **1999**; NRLM = **2011** → DAY-NRLM **2016**. MGNREGA = **household** 100 days + legal right; rename **2 Oct 2009**. CDP = **2 Oct 1952** / S.K. Dey. APY spouse continuation true; “one member only” false. SBM ≠ drinking-water aim.
-
-## 8.5 Demography — transition, Census and population map
-
-**Demography** links population change to development. This shelf holds transition stages, Census chronology and high-yield State / density / literacy tags — edition-bound numbers follow the stem’s Census year.
-
-### Natural change and demographic transition
-
-- **Natural growth** of population = **crude birth rate − crude death rate** (migration is not part of natural change).
-- Classical **demographic transition** order: **high birth + high death → high birth + low death → low birth + low death**.
-- A long-period shift in population growth pattern is called **demographic transition**.
-- Stable population structure teaching keys **constant birth and death rates** at controlled low levels.
-- India’s present phase is often keyed as **high growth with definite signs of slowing down**.
-- Main driver of India’s large population rise in mid-transition teaching: **fall in death rate** with persistently high birth rate.
-- **Standard of living is not** a demographic feature; density, sex-ratio, rural–urban split, literacy and age structure are.
-
-### Malthus
-
-- **T.R. Malthus** (*Essay on the Principle of Population*, **1798**) argued population tends to grow in **geometric** progression while food / subsistence grows in **arithmetic** progression.
-- Malthus favoured **preventive checks** such as moral restraint / birth control as the preferred remedy over war, misery or vice alone.
-- Theory-match glue: **Optimum population** → Edwin Cannan; **Social maladjustment** → Henry George; **Demographic transition** → Thompson; **Population–food** → Malthus.
-
-### Census chronology (India)
-
-- First modern / non-synchronous Census effort culminates around **1872** (Lord Mayo era teaching); first **synchronous** / regular Census = **1881** (Lord Ripon era).
-- Since 1881, Census has been taken roughly every **ten years**.
-- **1921** is the **Great Divide / Demographic Divide** — the only decade with **negative** decadal growth (−0.31%); after 1921, growth accelerates.
-- Highest decadal growth teaching: **1961–71** (~**24.80%**); highest average annual exponential growth often keyed to **1971–81** (~**2.22%**).
-- **2001–11** decadal growth ≈ **17.7%** (lowest among recent decades in many keys); provisional booklet figures may print **17.64%**.
-- Census 2011 motto: **Our Census, Our Future**.
-- Census work for **2021** was delayed; **Census 2027** teaching uses a two-phase plan (Houselisting **2026**; Population Enumeration **2027**) with caste enumeration in Phase II in current keys.
-
-### Size, States and density (Census 2011 spine)
-
-- India ≈ **121 crore** (2011); UP is the most populous State; Maharashtra second; Bihar third; West Bengal fourth among classic tops.
-- More than one-third of India’s population concentrates in **UP + Maharashtra + Bihar** in older keys.
-- Population density rose steadily; India **382**/sq km (2011); **Bihar (1106)** densest State; **Arunachal Pradesh (17)** sparsest.
-- Density descending classic: **Bihar > West Bengal > Kerala > Uttar Pradesh**.
-- Highest State decadal growth **2001–11**: **Meghalaya**; only State with **negative** growth: **Nagaland (−0.6%)**; Pauri Garhwal and Almora recorded negative growth in Uttarakhand.
-- Effective literacy uses population **aged 7 and above**; Kerala leads State literacy; Serchhip (Mizoram) leads district literacy in 2011 keys.
-
-> **Logic:** Natural growth ≠ migration. Great Divide = **1921**, not 1951. Density leader flipped **West Bengal (2001) → Bihar (2011)** — stem year wins.
-
-## 8.6 Urbanization — definitions, levels and city hierarchy
-
-**Urbanization** is the rise in the share and scale of urban population and urban centres. This shelf holds Census urban criteria, State ranks, million-city counts and urban-mission tags.
-
-### City vs village and causes
-
-- A city differs from a village in **social values, household composition, way of living and economic activities** — all four are correct in classic keys.
-- Rural community elements include we-feeling, territory and self-sufficiency; **cultural diversity** is an urban feature, not a rural one.
-- Urban life features competition, impersonal relations and loss of humanistic value; **informal ties** are not a classic urban feature.
-- Causes of urbanization: rural–urban migration, city educational institutions and industrialization — **high rural living standards** are **not** a cause (they reduce push migration).
-- Push–pull logic: rural distress pushes; city jobs, schools, hospitals and infrastructure pull.
-
-### Census urban definition and levels
-
-- Statutory towns (municipality / corporation / cantonment / notified area) **or** Census Towns meeting: population **≥5,000**, **≥75%** male workers in non-agriculture, density **≥400**/sq km — **physical expansion / fixed area size is not** a Census urban criterion.
-- India **2011** urban share ≈ **31.1%** (provisional keys often **31.16%**); rural ≈ **68.9%**.
-- Teaching level: **moderately low** urbanization — **not** over-urbanized; inadequate big-city infrastructure can still be true.
-- India’s urban population exceeds the **total** population of the USA in many keys, while the USA’s urbanization **rate** remains higher.
-- Largest decadal jump in urban population growth teaching: **1971–81**; moderate-urbanization era often keyed **1931–61**.
-- Urbanization and literacy both help **lower birth rates**; urbanization also associates with lower death rates via better health access.
-
-### State and city ranks (Census 2011 spine)
-
-- **Most urbanized State (share):** **Goa** (~62.2%); among large States often **Tamil Nadu** (~48.4%).
-- **Least urbanized State:** **Himachal Pradesh** (~10%); Bihar also very low (~11.3%).
-- **Largest urban population (absolute):** **Maharashtra**; **lowest absolute urban population among States:** **Sikkim**.
-- More than one-fourth of India’s urban population lives in **Maharashtra + Uttar Pradesh**.
-- **Million-plus / UA count:** **35** (2001) → **53** (2011 provisional teaching).
-- Class I cities hold the bulk of urban population (~**62%** in 2001; ~**70%** in 2011 keys).
-- Urban centres are classed in **six** population tiers; **Class IV–VI** = small towns (<20,000).
-- Most populous UA teaching: **Greater Mumbai**, then Delhi, Kolkata.
-- UP had **6** million cities in 2001 and **7** in 2011 teaching (Kanpur, Lucknow, Ghaziabad, Agra, Varanasi, Meerut, Allahabad/Prayagraj).
-- **Jains** show the highest urban share among major religious groups (~**80%**).
-
-### Missions and urban stress
-
-- **JNNURM** (Dec **2005**, ~7-year) upgrades urban infrastructure and basic services to the poor — **urban electrification is not** a classic objective; it is **not** a 10-year programme.
-- **Smart Cities Mission** targets core infrastructure and improved quality of life; water/sewerage finance teaching often keys **property tax**.
-- Rising urbanization without matching services raises slums, congestion and service stress; **Mumbai** keys the highest slum share among metros in many tables.
-- Inclusive-development focus in Survey teaching centres on marginal farmers, landless labour and SC/ST — **semi-urban residents as a class** are not the keyed inclusion segment.
-
-> **Logic:** Most urbanized **share** = Goa; largest **absolute** urban population = Maharashtra. Urban definition = size + density + occupation — not physical sprawl alone.
-
-## 8.7 World population and global urbanization
-
-**World demography** shelves UN population milestones, density/religion/fertility traps and global urbanisation ranks. Edition-bound numbers follow the stem’s report year.
-
-### Concepts and reports
-
-- **Demography** studies population size, density, distribution and vital statistics (births, marriages, deaths).
-- **Robert Redfield** developed the **Folk–Urban Continuum** from Mexican (Yucatán / Maya) community studies; with Singer, **primary urbanization** coordinates life to the **Great Tradition**.
-- **UNFPA** issues the *State of World Population* report (e.g. 2021 *My Body is My Own*).
-- **World Population Day** = **11 July** (inspired by Five Billion Day, **11 July 1987**); themes are year-bound (2017 = Family Planning: Empowering People, Developing Nations; 2015 = Vulnerable Populations in Emergencies).
-- Rough milestones: ~5 billion **1987**, ~6 billion **1999**, ~7 billion **2011**, ~8 billion **15 November 2022**; symbolic “Nth billionth babies” are not a single official UN birth.
-- ~**50%** of world population concentrates between **20°N and 40°N**.
-- India’s share of world population in 2011 teaching ≈ **17.5%**.
-- Asia holds ~**60%** of world population; **Africa** has the highest continental growth rate; **Asia** has the highest continental density.
-- **“New Population Bomb”** = rapidly growing urban population in the Third World.
-- Second stage of the urbanization curve = **acceleration** stage (S-shaped curve).
-
-### Country and density ranks (teaching spines)
-
-- Most populous countries teaching (2025 UNFPA spine): **India > China > USA > Indonesia > Pakistan**.
-- Largest Indian diaspora (Dec 2018 MoEA teaching): **UAE**.
-- Most populous Islamic country / Africa’s most populous: **Indonesia** / **Nigeria**.
-- Densest SAARC / South Asia teaching: **Maldives** (India densest among larger South Asian set in older keys).
-- Densest East Asia among China/Japan/Koreas teaching: **South Korea**; densest South America among listed set: **Ecuador**.
-- Low-density classic: **Canada** / **Mongolia** among listed sets; Nile Valley and Java density linked to **intensive agriculture**.
-- Ageing / low-fertility media set: **Italy, Japan, South Korea** (not Nigeria/South Africa).
-- World religion population order: **Christians > Muslims > Hindus > Buddhists**.
-- First official national family-planning programme in the world: **India, 1952**.
-
-### Global urbanization
-
-- Mid-2010s UN teaching: ~**55%** of world population urban (2018 WUP ≈55.3%); projected ~**68%** by **2050** in many keys (older stems used ~70%).
-- Fastest urbanization growth among major regions in recent decades: **Asia**.
-- Most urbanized continent teaching often keys **Australia / Oceania**; most urbanized country among classics: **Singapore** (100%).
-- Largest absolute urban population: **China**.
-- UN-Habitat promotes sustainable towns/cities and adequate shelter; partners are **not** governments/local authorities only.
-- City prosperity criteria include productivity, quality of life and equality — **optimum population is not** a UN-Habitat prosperity criterion.
-- Over-urbanization in Asian cities is keyed to growth outpacing economic development.
-
-> **Logic:** Highest growth continent = **Africa**; densest continent = **Asia**. World Population Day = **11 July**, not a religion or health-day swap.
-
-## Teaching expansion — additional theory (beyond Consolidated spine)
-
-These points sit in teaching theory (not the Consolidated spine).
-
-- Inclusive growth needs infrastructure, agri revival and social services — **high NI growth alone is not enough**.
-- Scheme launch chronology traps recur across PMJDY (**2014**), Make in India (**2014**), Swachh Bharat (**2014**), Mission Indradhanush (**2014**), BBBP (**2015**), PMKVY (**2015**), PMSBY / APY (**2015**), Ujjwala (**2016**), PMSBY neighbours, Saubhagya (**2017**), PM-JAY (**2018**), ADP (**2018**), JJM (**2019**), PM CARES / Garib Kalyan Rojgar (**2020**), ABDM (**2021**), ABP (**2023**).
-- Match-list years for blindness control (**1976**), ICDS (**1975**), leprosy eradication (**1983**) and NRHM (**2005**) are high-yield chronology fillers beside the health-mission cards above.
+## 8.4 Major National Welfare, Employment, and Social Security Schemes
 
+### Transformational Planning Frameworks
+
+* **Aspirational Districts Programme (ADP):** Launched by **NITI Aayog** in **January 2018** to rapidly transform **112** of the most underdeveloped districts in India, tracked through **49 Key Performance Indicators** across five focus areas: Health & Nutrition, Education, Agriculture & Water, Financial Inclusion & Skill, and Basic Infrastructure.
+* **Aspirational Blocks Programme (ABP):** Launched in **January 2023** covering **500 underdeveloped blocks** to accelerate grassroots saturation of welfare deliverables.
+
+### Comprehensive Healthcare and Nutrition Missions
+
+* **Ayushman Bharat – PM-JAY:** Launched on **23 September 2018** at **Ranchi (Jharkhand)**; provides comprehensive health insurance of **₹5 lakh per eligible family per year** for secondary and tertiary care hospitalization across public and empanelled private hospitals, implemented by the **National Health Authority (NHA)**.
+* **Ayushman Bharat Digital Mission (ABDM):** Launched in **September 2021** to create an interoperable digital health ecosystem through Ayushman Bharat Health Account (ABHA) IDs; citizen and provider participation is voluntary.
+* **National Rural Health Mission (NRHM):** Launched on **12 April 2005** during the Tenth Five-Year Plan, integrating public healthcare delivery and introducing the community-based **Accredited Social Health Activist (ASHA)** cadre.
+* **Mission Indradhanush:** Launched on **25 December 2014**; guarantees full immunization coverage for children up to 2 years and pregnant women against vaccine-preventable diseases.
+* **POSHAN Abhiyaan (National Nutrition Mission):** Launched in **March 2018** from Jhunjhunu (Rajasthan); targets the reduction of stunting, undernutrition, anemia, and low birth weight; observed through annual **Rashtriya Poshan Maah** every **September**.
+* **Integrated Child Development Services (ICDS):** Centrally sponsored scheme launched on **2 October 1975**, delivering six core services: supplementary nutrition, immunization, health check-ups, referral services, pre-school non-formal education, and nutrition/health education to children (0–6 years) and mothers.
+
+### National Skill Development and Livelihood Missions
+
+* **Pradhan Mantri Kaushal Vikas Yojana (PMKVY):** Flagship skill initiative of the **Ministry of Skill Development and Entrepreneurship (MSDE)**, executed by the National Skill Development Corporation (NSDC), providing short-term certified training aligned with the National Skills Qualifications Framework (NSQF).
+* **Skill Development Initiatives:** Includes schemes such as **STRIVE** (Skills Strengthening for Industrial Value Enhancement) and **SANKALP** (Skills Acquisition and Knowledge Awareness for Livelihood Promotion); in contrast, **STRIDE** is an academic research scheme under the University Grants Commission (UGC).
+* **Deendayal Antyodaya Yojana – NRLM (DAY-NRLM):**
+  * Historical lineage: Restructured from the **Integrated Rural Development Programme (IRDP, 1980)** into the **Swarnajayanti Gram Swarozgar Yojana (SGSY, 1999)**.
+  * Re-launched as the **National Rural Livelihoods Mission (NRLM)** in **June 2011**, becoming fully operational in April 2013, and formally renamed **DAY-NRLM** on **29 March 2016**.
+  * Operational core: Mobilizes rural poor women into Self-Help Groups (SHGs) and federations, promoting sustainable livelihood enhancements through microfinance and revolving community investment funds.
+* **Swarna Jayanti Shahari Rozgar Yojana (SJSRY):** Launched on **1 December 1997** to address urban unemployment and underemployment through self-employment micro-enterprises and wage employment; succeeded by the National Urban Livelihoods Mission (DAY-NULM) in 2013.
+
+### Statutory Rural Wage Guarantee — MGNREGA
+
+* **Legislative Framework:** Enacted by Parliament as the National Rural Employment Guarantee Act in **2005**, notified on 7 September 2005, and brought into force on **2 February 2006** across an initial 200 districts.
+* **Statutory Name:** Formally renamed the **Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)** on **2 October 2009**.
+* **Core Entitlement:** Provides a statutory legal entitlement of **100 days of guaranteed unskilled manual wage employment per financial year** to every rural household whose adult members volunteer for manual work.
+* **Work Application Guarantee:** If employment is not provided within **15 days** of application, the State is legally mandated to pay an unemployment allowance.
+* **Social Audit:** Mandates mandatory periodic social audits through Gram Sabhas to ensure operational transparency and prevent fund leakages.
+
+### Social Security, Old-Age Pensions, and Financial Inclusion
+
+* **Pradhan Mantri Jan Dhan Yojana (PMJDY):** Launched on **28 August 2014**; ensures universal access to basic banking accounts, overdraft facilities, and embedded RuPay accident insurance coverage.
+* **Atal Pension Yojana (APY):** Launched on **9 May 2015**; targeted primarily at unorganised sector workers aged 18 to 40; guarantees a fixed monthly pension of ₹1,000 to ₹5,000 after age 60; upon the subscriber's death, the pension continues uninterrupted to the surviving spouse.
+* **Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM):** Launched in **2019**; voluntary contributory pension scheme for unorganised workers with monthly income up to ₹15,000; provides a guaranteed minimum pension of **₹3,000 per month** after age 60, with a 50% family pension payable solely to the surviving spouse.
+* **National Social Assistance Programme (NSAP):** Operational since **15 August 1995**; administers Central financial assistance for the elderly (IGNOAPS), widows (IGNWPS), and persons with severe disabilities (IGNDPS) living below the poverty line.
+* **Employees' State Insurance (ESI) Act, 1948:** Provides comprehensive social security benefits (medical care, sickness, maternity, and disablement benefits) to organized and notified commercial establishments.
+
+### Basic Rural and Urban Infrastructure Missions
+
+* **Bharat Nirman (2005):** A targeted time-bound business plan for rural infrastructure comprising six components: **irrigation, drinking water, electrification, rural roads, rural housing, and rural telephony**.
+* **Pradhan Mantri Gram Sadak Yojana (PMGSY):** Launched on **25 December 2000** to provide all-weather road connectivity to unconnected rural habitations with a population of 500 or more in plains (250+ in hill, desert, and tribal areas).
+* **Jal Jeevan Mission (JJM):** Announced in August 2019 under the Ministry of Jal Shakti to provide functional household tap connections (FHTC) providing 55 litres of potable water per capita per day to every rural household.
+* **Swachh Bharat Mission (SBM):** Launched on **2 October 2014** to eliminate open defecation and achieve universal sanitation by 2 October 2019, commemorating Mahatma Gandhi's 150th birth anniversary. SBM-Gramin Phase II focuses on sustaining ODF status and managing solid/liquid waste.
+* **Pradhan Mantri Awas Yojana (PMAY):** Launched in **June 2015** with the goal of "Housing for All", covering urban housing (PMAY-U) and rural housing (PMAY-G, revamped from the earlier Indira Awas Yojana).
+* **SVAMITVA Scheme:** Launched in **2020** by the Ministry of Panchayati Raj; deploys drone technology and Continuously Operating Reference Stations (CORS) to survey inhabited rural land (Abadi) and issue legal property cards.
+
+---
+
+## 8.5 Demography — Transition Stages, Census Chronology, and Indian Demographic Trends
+
+Demography involves the systematic study of human populations, analyzing size, composition, spatial distribution, and dynamics driven by births, deaths, and migration.
+
+### Classical Demographic Transition Model
+
+The demographic transition model delineates the long-term historical evolution of population growth through distinct phases:
+1. **Stage 1 (High Stationary):** High birth rates and high death rates; population growth is low and fluctuates with epidemics and famines.
+2. **Stage 2 (Early Expanding):** High birth rates coupled with sharply declining death rates due to advances in medicine, food security, and sanitation; leads to a rapid population explosion.
+3. **Stage 3 (Late Expanding):** Falling birth rates alongside low death rates; population growth continues but at a decelerating rate.
+4. **Stage 4 (Low Stationary):** Low birth rates and low death rates; population stabilizes with low natural increase.
+5. **Stage 5 (Declining):** Birth rate falls below replacement level (Total Fertility Rate < 2.1), leading to an aging and contracting population.
+
+* **India's Demographic Phase:** India has transitioned through Stage 2 and is currently positioned in **Stage 3 (Late Expanding)**, characterized by declining fertility rates and slowing population growth.
+* **Natural Population Growth:** Calculated strictly as:
+  $$\text{Natural Growth Rate} = \text{Crude Birth Rate (CBR)} - \text{Crude Death Rate (CDR)}$$
+  *(Note: Natural growth excludes the effect of net international or domestic migration).*
+
+### Malthusian Theory of Population
+
+* **Thomas Robert Malthus** published his influential work *An Essay on the Principle of Population* in **1798**.
+* **Key Proposition:** Population, when unchecked, tends to grow in **geometric progression** ($1, 2, 4, 8, 16 \dots$), whereas food and agricultural production increases only in **arithmetic progression** ($1, 2, 3, 4, 5 \dots$).
+* **Checks on Population:**
+  * **Positive Checks:** Natural and violent correctives such as famines, wars, diseases, and epidemics that elevate the death rate.
+  * **Preventive Checks:** Voluntary human measures such as moral restraint, delayed marriage, and birth control to curb the birth rate.
+
+### Census Chronology in India
+
+* **Initial Census Efforts:** The first non-synchronous population census was initiated under **Lord Mayo** in **1872**.
+* **First Synchronous Census:** The first comprehensive, synchronous decennial Census of India was conducted under Viceroy **Lord Ripon** in **1881**.
+* **The "Year of the Great Divide" (1921):** The Census of 1921 is historically designated as the **Demographic Great Divide**, being the only decade (1911–1921) that recorded **negative decadal population growth (−0.31%)**, largely due to the 1918 influenza pandemic and widespread famine. Since 1921, India's population has registered continuous, uninterrupted expansion.
+* **Peak Growth Era:** The highest decadal growth rate in post-Independence India was recorded in **1961–1971 (24.80%)**.
+* **Census 2011 Overview:**
+  * Total population: **121.08 crore** (approximately 17.5% of the total world population).
+  * Decadal growth rate (2001–2011): **17.70%** (a significant decline from 21.54% in 1991–2001).
+  * Population density: **382 persons per square kilometre** (up from 325 in 2001).
+  * Overall sex ratio: **943 females per 1,000 males**; Child sex ratio (0–6 years): **919**.
+  * Effective literacy rate (population aged 7 and above): **73.0%** (Male: 80.9%, Female: 64.6%).
+
+### State-Level Population Metrics (Census 2011)
+
+* **Most Populous States:** Uttar Pradesh (19.98 crore) > Maharashtra (11.23 crore) > Bihar (10.40 crore) > West Bengal (9.12 crore).
+* **Population Density Ranking:** **Bihar (1,106 persons/sq km)** is the densest State, followed by West Bengal (1,028), Kerala (860), and Uttar Pradesh (829). **Arunachal Pradesh (17 persons/sq km)** has the lowest density.
+* **Decadal Growth Variations:** **Meghalaya (27.95%)** recorded the highest decadal growth rate among States, while **Nagaland (−0.58%)** was the only State to record negative population growth during 2001–2011.
+* **Literacy Leaders:** **Kerala (94.0%)** ranks first in literacy, followed by Mizoram (91.3%); **Bihar (61.8%)** registered the lowest literacy rate.
+
+---
+
+## 8.6 Urbanization — Concepts, Census Criteria, and Urban Dynamics
+
+Urbanization denotes the spatial reallocation of population from rural to urban areas, accompanied by structural shifts from agrarian employment to industrial and tertiary sectors.
+
+### Census of India Criteria for Urban Settlements
+
+The Census classifies settlements into two statutory categories:
+1. **Statutory Towns:** All places with a municipality, municipal corporation, cantonment board, or notified town area committee established by law.
+2. **Census Towns:** Settlements that satisfy all three of the following demographic criteria simultaneously:
+   * A minimum total population of **5,000 persons**.
+   * At least **75% of the male main working population** engaged in non-agricultural pursuits.
+   * A population density of at least **400 persons per square kilometre**.
+   *(Note: Geographic territorial expansion or urban sprawl alone does not satisfy the criteria for a Census Town).*
+
+### Urbanization Trends in India (Census 2011)
+
+* **National Urban Share:** India's urban population in 2011 stood at **31.16%** (approx. 37.7 crore persons), while the rural population accounted for **68.84%** (approx. 83.3 crore).
+* **Pace of Urbanization:** India exhibits a moderate level of urbanization globally; however, in absolute numbers, India's urban population surpasses the total national population of the United States.
+* **State Urbanization Rankings:**
+  * **Most Urbanized State by Proportion:** **Goa (62.17%)**, followed by Mizoram (52.11%) and Tamil Nadu (48.40% among larger States).
+  * **Least Urbanized State:** **Himachal Pradesh (10.03%)**, followed by Bihar (11.29%).
+  * **Largest Urban Population in Absolute Terms:** **Maharashtra (5.08 crore)**, followed by Uttar Pradesh (4.44 crore).
+* **Million-Plus Urban Agglomerations:** The number of cities with a population of one million or more increased from **35 in 2001** to **53 in 2011**.
+* **Top Urban Agglomerations:** Greater Mumbai, followed by Delhi and Kolkata.
+* **Uttar Pradesh Million-Plus Cities (2011):** Seven cities: Kanpur, Lucknow, Ghaziabad, Agra, Varanasi, Meerut, and Allahabad (Prayagraj).
+
+---
+
+## 8.7 Global Demography and World Urbanization Dynamics
+
+* **Global Population Milestones:** The world population crossed 5 billion in **1987**, 6 billion in **1999**, 7 billion in **2011**, and reached **8 billion on 15 November 2022**.
+* **World Population Day:** Celebrated annually on **11 July**, commemorating "Five Billion Day" on 11 July 1987 to focus international attention on population issues and reproductive rights.
+* **UN Population Publications:** The *State of World Population* report is issued annually by the **United Nations Population Fund (UNFPA)**.
+* **Global Geographic Distribution:** Over 50% of the world's population resides in the temperate latitudinal zone between **20°N and 40°N**.
+* **Continental Comparisons:** **Asia** accounts for approximately 60% of the global population and is the densest continent; **Africa** exhibits the fastest annual population growth rate.
+* **Global Urbanization Levels:** Approximately **55%** of the world population lives in urban areas (projected by the UN to reach 68% by 2050). The most urbanized regions include North America (82%) and Latin America (81%), with Oceania/Australia also recording very high urbanization proportions.
+
+---
 ## Complete PYQ Bank (UPPCS)
 
 **Q1. UPPCS (Pre) 2020**
@@ -9694,63 +9454,36 @@ D. Union Ministry of Finance direct tax buoyancy projections
 
 ## Common Traps
 
-* HDI = **life + education + income** — not environment; post-2010 living standard = **GNI PPP** (not GDP).
-* First HDR **1990** (Haq); Priesner co-lead tag fails.
-* Measure order: **PCI → PQLI (Morris) → HDI**; Capability Approach = **Sen**.
-* GNH = **Bhutan**; Happiness Report rank ≠ HDI rank.
-* Kerala tops State HDI; Bihar usually bottom; first State HDR = **Madhya Pradesh (1995)**.
-* BNI = **26** indicators, **five** dimensions, 2012 & 2018.
-* GII introduced HDR **2010**; LEI bounds **85 / 20** (current).
-* Social indicators: **not size of house**.
-* Alagh = nutrition-exclusive line; Naoroji = jail cost of living.
-* Demographic dividend = **15–59** in UPPCS key (not 0–6 / 60+ / 14–50).
-* Natural growth = **CBR − CDR** (not migration); Great Divide = **1921**; sync Census = **1881**.
-* Density 2011: **Bihar** highest, **Arunachal** lowest; 2001 densest State was **West Bengal**.
-* Decadal growth 2001–11 ≈ **17.7%**; Meghalaya highest State growth; **Nagaland** negative.
-* Malthus: population **geometric**, food **arithmetic**; preferred check = birth control / moral restraint.
-* Standard of living ≠ demographic feature.
-* Urban share 2011 ≈ **31.1%**; most urbanized State **Goa**; least **Himachal**; largest urban absolute **Maharashtra**.
-* Census urban = ≥5,000 + ≥75% male non-agri + density ≥400 — **not** physical expansion.
-* Million+ cities: **35 (2001) → 53 (2011)**; Class I holds most urban population.
-* Cultural diversity / informal ties swap: diversity = urban; informal ties ≠ urban feature.
-* High rural living standards are **not** a cause of urbanization.
-* JNNURM = Dec **2005**, ~**7** years — not electrification-centred / not 10-year.
-* World Population Day = **11 July**; ~8 billion ≈ **Nov 2022**; India’s world share 2011 ≈ **17.5%**.
-* UNFPA = State of World Population; densest continent **Asia**; fastest growth continent **Africa**.
-* New Population Bomb = Third World **urban** surge; Folk–Urban Continuum = **Redfield** (Mexico).
-* Most populous Islamic country = **Indonesia**; Africa most populous = **Nigeria**; India FP programme **1952**.
-* World urban share mid-2010s ≈ **55%**; Asia fastest recent urbanization growth among regions.
-* Disguised ≠ seasonal; LFPR ≠ unemployment rate.
-* Human capital returns via **productivity** (education + health).
-* **Brundtland ≠ Limits to Growth**; Agenda 21 = **1992**, not 1995.
-* Social capital = **trust/harmony**; irrigation ≠ human capital.
-* Inclusive growth ≠ high NI growth alone; NBFC banking ≠ inclusive governance.
-* EKC = **inverted U**; Meadows horizon ≈ **100 years**.
-* HCI 2020 top = **Singapore**; India ≈ **116**.
-* Circular economy: less raw material + less waste → lower GHG.
-* ADP = **Jan 2018** / 112 districts; ABP = **Jan 2023** / 500 blocks — do not swap.
-* PM-JAY = **₹5 lakh per family** (not per person); implementer = **NHA**; launch Ranchi **2018**.
-* ABDM participation is **voluntary**; portability statement is the true one in the classic stem.
-* RSBY = **unorganised** BPL; now under PM-JAY umbrella teaching.
-* NRHM = **12 April 2005** / **Tenth** Plan; ASHA does **not** conduct deliveries as a standard job.
-* PMKVY = **MSDE** (not Labour); STRIDE ≠ skill scheme.
-* Ujjwala launch desk = **Ballia**; Saubhagya = **Power** ministry.
-* Bharat Nirman ≠ rural sanitation / SSA / hospitals; JJM ≠ AMRUT (rural taps vs urban mission).
-* Swadhar ≠ Swayam Siddha labels; JSY ≠ wage-loss reimbursement.
-* SGSY = **1999**; restructured as **NRLM (June 2011)** → **DAY-NRLM (Mar 2016)**; SHGs + skills — not free farm kits / new factories.
-* MGNREGA = **100 days per household** + **legal right**; force **2 Feb 2006** / 200 districts; rename **2 Oct 2009**.
-* SJSRY = **urban** (1 Dec 1997); excludes PMRY; Nehru Rozgar = three urban schemes.
-* CDP = **2 Oct 1952** / **S.K. Dey**; NES = **1953**.
-* APY: unorganised + spouse continuation; “only one member” false.
-* PM-SYM / Kisan Maan-dhan: **₹3,000** after 60; PM-SYM family pension = **spouse only**.
-* AABY = **2 Oct 2007** / rural landless; age **18–59** (not 30–65).
-* SBM = sanitation/ODF (**2014→2019** target) — not drinking-water aim; WaterCredit ≠ WHO/World Bank.
-* NSAP ≠ Mahila Kisan Sashaktikaran; RMSA ≠ employment programme.
-* Alagh calories = **2400 rural / 2100 urban**; Tendulkar ≈ **₹26/₹32**; Rangarajan ≈ **₹32/₹47** (not adopted as live official line).
-* Higher **Gini** = higher inequality; Lorenz shows distribution; Nurkse = vicious circle; Oscar Lewis = culture of poverty.
-* SVAMITVA = **Panchayati Raj** + drones + CORS (not Mines; CORS ≠ web CORS).
-* PMAY = Housing for All from **2015** toward **2022**; RAY = **slum-free India**; IAY → PMAY-G.
-* SSA **2001** (6–14); Samagra = **SSA + RMSA + TE**; MDM **1995** → **PM POSHAN 2021**.
-* MPLADS funds are **non-lapsable**; inspect ≥**10%** works; SAGY = **11 Oct 2014**.
-* Aadhaar first village = **Tembhli**; PURA = **Abdul Kalam**.
-* MPI **2010** ≠ $1/day line; HPI **1997** → MPI **2010**.
+## Common Traps & High-Yield Exam Distinctions
+
+* **HDI Indicators:** The Human Development Index comprises life expectancy, schooling years, and GNI per capita; environmental quality and civil liberties are excluded from the HDI formula.
+* **Inaugural HDR Team:** The first Human Development Report (1990) was spearheaded by Mahbub ul Haq and Amartya Sen; S. Priesner was not a co-leader.
+* **Historical Metric Sequence:** Development metrics evolved chronologically: Per Capita Income (PCI) → Physical Quality of Life Index (PQLI, Morris, 1970s) → Human Development Index (HDI, 1990).
+* **Gross National Happiness vs HDI:** Gross National Happiness is Bhutan's distinct four-pillar governance philosophy; the World Happiness Report is a separate subjective well-being survey published by SDSN.
+* **State HDI Rankings:** Madhya Pradesh published India's first State HDR in 1995; Kerala consistently records the highest State HDI, while Bihar historically occupies the lowest tier.
+* **Bare Necessities Index (BNI):** Evaluates 26 indicators grouped across five dimensions (water, sanitation, housing, micro-environment, other facilities) using 2012 and 2018 data.
+* **Poverty Social Indicators:** Core social indicators include illiteracy, malnutrition, lack of drinking water, and lack of employment; "size of house" is not a social indicator of poverty.
+* **Early Indian Poverty Line:** Dadabhai Naoroji utilized the "jail cost of living" to formulate the earliest subsistence poverty line in pre-Independence India.
+* **Alagh Task Force Calorie Norms:** Established the official nutritional benchmark at 2,400 kcal/day for rural areas and 2,100 kcal/day for urban areas.
+* **Demographic Dividend Age Group:** In Indian economic and planning conventions, the working-age population driving the demographic dividend is 15 to 59 years (distinguished from the 15 to 64 years UN standard).
+* **Natural Population Growth:** Determined exclusively by Crude Birth Rate minus Crude Death Rate (CBR − CDR); migration is not an element of natural increase.
+* **Demographic Great Divide:** The 1921 Census is the Demographic Great Divide due to negative decadal growth (−0.31%); synchronous decennial censuses began in 1881 under Lord Ripon.
+* **Population Density Leader:** Bihar is the densest State in Census 2011 (1,106 persons/sq km); West Bengal was the densest in Census 2001.
+* **Decadal Population Growth (2001–2011):** National decadal growth was 17.70%; Meghalaya recorded the highest State growth, while Nagaland was the only State with negative growth (−0.58%).
+* **Malthusian Population Theory:** Population increases in geometric progression while food supply expands in arithmetic progression; Malthus advocated preventive checks (moral restraint, birth control) over positive checks (famines, disease).
+* **Census Town Criteria:** Requires a minimum population of 5,000, at least 75% male non-agricultural workers, and density of 400+ persons/sq km; spatial urban sprawl alone does not constitute a Census Town.
+* **Urban Hierarchy:** Goa has the highest urban proportion (~62%), while Maharashtra has the largest absolute urban population; Himachal Pradesh is the least urbanized State.
+* **JNNURM Mission Parameters:** Launched in December 2005 as a 7-year urban renewal mission; it was not a 10-year rural electrification program.
+* **World Population Day:** Observed on 11 July, commemorating Five Billion Day in 1987; the global population crossed 8 billion in November 2022.
+* **Unemployment Concepts:** Disguised unemployment involves surplus workers with zero marginal product; seasonal unemployment fluctuates with annual crop or tourism seasons.
+* **Human Capital Formation:** Public investment in education and healthcare builds human capital by directly augmenting labor productivity; physical infrastructure investments (e.g., irrigation canals) build physical capital.
+* **Sustainable Development Benchmarks:** Brundtland Commission (*Our Common Future*, 1987) established inter-generational equity; *The Limits to Growth* (Club of Rome, 1972) modeled ecological carrying capacity boundaries.
+* **Aspirational Districts vs Blocks:** The Aspirational Districts Programme (ADP) covers 112 districts (launched January 2018); the Aspirational Blocks Programme (ABP) covers 500 blocks (launched January 2023).
+* **Ayushman Bharat – PM-JAY Coverage:** Provides health assurance of ₹5 lakh per family per year (not per individual), implemented by the National Health Authority (NHA).
+* **National Rural Health Mission (NRHM):** Launched on 12 April 2005 during the Tenth Five-Year Plan; ASHAs facilitate maternal and child health linkages but do not conduct deliveries independently.
+* **Skill Development Flagships:** PMKVY is administered by the Ministry of Skill Development and Entrepreneurship (MSDE), not the Ministry of Labour; STRIDE is a university research scheme under the UGC.
+* **Rural Livelihood Lineage:** IRDP (1980) → SGSY (1999) → NRLM (2011) → DAY-NRLM (2016); operates through women's SHGs and skill development rather than distributing free agricultural machinery.
+* **MGNREGA Core Guarantee:** Guarantees 100 days of unskilled wage work per rural household per year as a legal entitlement; enacted in 2005, effective 2 February 2006, renamed 2 October 2009.
+* **Atal Pension Yojana (APY):** Targets unorganised sector workers; upon the subscriber's demise, the monthly pension continues automatically to the surviving spouse.
+* **Swachh Bharat Mission (SBM):** Focuses on universal sanitation, hygiene, and ODF status (launched 2 October 2014); distinct from the piped drinking water mandate of the Jal Jeevan Mission.
+* **Multidimensional Poverty Index (MPI):** Evaluates non-monetary deprivations across 10 indicators; distinct from the World Bank's monetary extreme poverty line ($2.15/day).

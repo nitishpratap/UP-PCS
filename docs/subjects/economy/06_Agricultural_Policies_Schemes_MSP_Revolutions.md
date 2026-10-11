@@ -595,6 +595,8 @@ D. Wool
 
 **Q12.**
 
+In India, the 'Pink Revolution' is associated with which of the following?
+
 A. Onion, Prawn, and Pharmaceutical production
 B. Rose flower floriculture only
 C. Strawberry farming only
@@ -754,6 +756,8 @@ D. Sunflower Seed
 
 **Q21.**
 
+In India, the 'Red Revolution' is associated with the increased production of:
+
 A. Tomato and Meat production
 B. Apple and Strawberry farming
 C. Red chilli and Spices only
@@ -769,6 +773,8 @@ D. Copper ore mining
 </details>
 
 **Q22.**
+
+Under Component-B of the PM-KUSUM Scheme, financial assistance is provided for which of the following activities?
 
 A. Installation of individual standalone solar-powered agriculture pumps
 B. Setting up 10,000 MW grid-connected renewable power plants

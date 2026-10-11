@@ -1,239 +1,240 @@
 # Economy Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥26)
+### ★ UPPCS Revision Sheet — Standard Textbook & High-Yield Analysis
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Public finance | Revenue and expenditure | Public debt | Subsidies | Budget and deficits | FRBM | Direct and indirect taxes | GST | Tax reforms | Finance Commission | Fiscal federalism | CAG financial accountability
+Principles of public finance | Revenue and capital receipts | Revenue and capital expenditure | Public debt management | Subsidies rationalisation | Union Budget concepts and deficits (Fiscal, Revenue, Primary, Effective Revenue) | FRBM Act architecture | Direct and indirect tax structures | Goods and Services Tax (GST) framework | Finance Commission (Article 280) | Principles of fiscal federalism | Comptroller and Auditor General (CAG) financial accountability
 
 </details>
 
-> **Sources baked in:** NCERT Class 12 Macroeconomics (government budget), standard public-finance coaching notes, Constitution Part XII finance articles, UPPCS Prelims PYQs, UKPCS Prelims; Ghatnachakra Fiscal Policy & Revenue (Purvalokan) absorbed into Extra Drill + Complete Bank
-> **Weight:** ★★★ High — FC composition / report path, GST 101st, deficit formulas, and fund articles decide stems
-> **Last verified:** September 2026
+> **Core References:** NCERT Class 12 Macroeconomics (Government Budget and the Economy), Constitution of India (Part XII - Finance, Property, Contracts and Suits), Union Budget documents, and UPPCS/UKPCS/UPSC Prelims archives.
+> **Significance:** ★★★ High — Finance Commission composition and mandates (Art. 280), 101st Constitutional Amendment (GST), deficit arithmetic, constitutional funds (Arts. 266, 267), and fiscal federalism.
+> **Last verified:** Academic Year 2026
 
-National income and planning stay in Economy Topic 1. Money and RBI deepen in Topic 3. Inflation indices deepen in Topic 4. This chapter owns budget arithmetic, tax design, GST, Finance Commission and fiscal federalism.
+*Note:* National income accounting and economic planning are treated in **Economy Topic 1**. Money, banking systems, and RBI monetary policy are developed in **Topic 3**. Inflation indices (CPI/WPI) are detailed in **Topic 4**. This chapter focuses on budgetary arithmetic, constitutional funds, direct/indirect taxation, GST, Finance Commission awards, and fiscal federalism.
 
 ---
 
-## Current Affairs
+## Current Affairs & Contemporary Highlights
 
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2025 (UPPCS)** | Match 11th–14th FC chairmen: **Khusro → Rangarajan → Kelkar → Y.V. Reddy**. | Rangarajan/Reddy swap is the trap. |
-| **2025 (CA)** | GST Council / Union path toward a simplified rate structure (merit / standard / demerit lanes) after multi-slab years. | Destination GST + Council process still the constitutional spine. |
-| **2024** | GST introduced by the **101st** Amendment (not 73rd / 86th / 91st). | Repeated Amendment stem. |
-| **2024** | CFI **266** · FC **280** · Financial Emergency **360** · CAG **148**. | Article-match table. |
-| **2023** | FC = Chair + **four** members; report goes to the **President**, not NITI. | Both “six members” and “NITI report” fail. |
-| **15th FC period** | Vertical devolution tagged **41%** for States (14th had raised share to **42%**). | Do not swap 42 / 41. |
-| **Budget process** | Annual Financial Statement is laid by the **Finance Minister on behalf of the President** (Art. 112) — not the Prime Minister. | IAS 2024 trap. |
-| **Gender Budget** | First introduced in Union Budget **2005–06**. | Year stem. |
-| **FRBM statements** | **Macro-Economic Framework Statement** is mandated by the **FRBM Act, 2003** (not Art. 112/110 alone). | IAS 2020. |
+| Reference Year | Key Institutional & Fiscal Fact | Conceptual Importance & Exam Relevance |
+|---|---|---|
+| **2025 (UPPCS)** | Chronological succession of Finance Commission Chairmen: **11th A.M. Khusro → 12th Dr. C. Rangarajan → 13th Dr. Vijay Kelkar → 14th Dr. Y.V. Reddy → 15th N.K. Singh**. | Prevents frequent confusion between Rangarajan (12th) and Y.V. Reddy (14th). |
+| **2025 (Fiscal Policy)** | GST Council initiated structured rate rationalization from multiple legacy slabs toward a simplified 3-tier structure (merit, standard, demerit). | Highlights GST's destination-based consumption framework and federal consensus mechanism under Article 279A. |
+| **2024 (UPPCS)** | The Goods and Services Tax (GST) was enacted via the **101st Constitutional Amendment Act, 2016** (effective 1 July 2017). | Distinguishes the 101st Amendment (GST) from the 73rd (Panchayats), 86th (Education), and 91st (Ministry size limit). |
+| **2024 (UPPCS)** | Key Constitutional Articles: Consolidated Fund & Public Account = **Article 266**; Finance Commission = **Article 280**; Financial Emergency = **Article 360**; CAG = **Article 148**. | Standard multi-article constitutional matching matrix in public administration and finance. |
+| **2023 (UPPCS)** | The Finance Commission consists of a Chairman and **four other members** (total 5); it submits its recommendations to the **President of India**, not to NITI Aayog. | Clarifies membership count and constitutional reporting line under Article 280 and Article 281. |
+| **15th FC Award** | Recommended vertical tax devolution of **41%** of the net divisible pool to States (adjusted from the 14th FC's **42%** to account for the newly formed Union Territories of Jammu & Kashmir and Ladakh). | Core benchmark for Union-to-State statutory tax sharing. |
+| **Budget Procedure** | The Annual Financial Statement is laid before Parliament by the **Finance Minister on behalf of the President of India** under **Article 112** (not on behalf of the Prime Minister). | Rigorous constitutional procedure governing executive financial presentation. |
+| **Gender Budgeting** | Formally institutionalized in the Union Budget from financial year **2005–06** as a targeted gender-disaggregated expenditure statement. | Tests landmark years in budgetary social reforms. |
+| **FRBM Documents** | The **Macro-Economic Framework Statement** is statutorily mandated by Section 3 of the **Fiscal Responsibility and Budget Management (FRBM) Act, 2003**. | Mandated statutory accountability document laid alongside the Annual Financial Statement. |
 
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
 <summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. **Public finance** studies how government raises revenue, spends, borrows and manages debt for public purposes.
-2. **Revenue receipts** are regular, non-debt receipts — tax and non-tax — that do not create a liability or reduce assets.
-3. **Capital receipts** include borrowings, disinvestment proceeds and recoveries of loans — they create a liability or reduce assets.
-4. **Revenue expenditure** maintains services and does not create lasting assets (salaries, interest, subsidies, maintenance).
-5. **Capital expenditure** creates assets or reduces liabilities (infrastructure, equity infusion, loan repayments as capital).
-6. **Tax revenue** includes income tax, corporation tax, GST, customs and residual Union excise where applicable.
-7. **Non-tax revenue** includes interest receipts, dividends / profits of PSUs, fees, fines and user charges.
-8. The Union **Annual Financial Statement** (Budget) is laid under **Article 112**. State budgets parallel under **Article 202**.
-9. Budget presents **Budget Estimates**, compares with **Revised Estimates**, and reports **Actuals** for the past year.
-10. **Vote on Account** authorises interim spending when the full budget cannot be passed before the new year; an **Interim Budget** is a fuller pre-election presentation without a full-year policy reset in teaching.
-11. Expenditure is **voted** (needs Lok Sabha grant) or **charged** on the Consolidated Fund (discussed but not voted item-wise in the same way — e.g. President’s emoluments, debt interest, CAG salary teaching).
-12. **Consolidated Fund of India** — **Article 266** — is the main treasury; appropriation needs parliamentary law.
-13. **Public Account of India** — also under **Article 266** — holds money where government is banker / trustee (PF, deposits), not ordinary revenue.
-14. **Contingency Fund of India** — **Article 267** — is an imprest at the President’s disposal for unforeseen spending, later recouped from the Consolidated Fund.
-15. **Revenue Deficit** = Revenue expenditure − Revenue receipts. It shows current income failing to cover current spending.
-16. **Fiscal Deficit** = Total expenditure − (Revenue receipts + Non-debt capital receipts). It is the government’s **net borrowing requirement**.
-17. **Primary Deficit** = Fiscal deficit − Interest payments. It strips the legacy interest burden from the fiscal gap.
-18. **Effective Revenue Deficit** = Revenue deficit − grants for creation of capital assets (teaching refinement used in Indian budget documents).
-19. **Budget Deficit** in older teaching = Total expenditure − Total receipts including borrowings; modern stress sits on fiscal / revenue / primary deficits.
-20. The **FRBM Act, 2003** institutionalises fiscal discipline, deficit / debt targets and mandatory fiscal-policy statements in Parliament.
-21. The **N.K. Singh FRBM Review Committee** pushed a debt-anchor approach (about **60%** general government debt-to-GDP teaching split Centre / States) alongside deficit glide paths.
-22. **Direct taxes** are levied on income / wealth of persons or companies (income tax, corporation tax, capital gains, etc.).
-23. **Indirect taxes** are levied on goods and services and can be shifted in price (GST, customs, older VAT / excise / service tax).
-24. A **progressive** tax raises the rate as the base rises. A **proportional** tax keeps a flat rate. A **regressive** tax hits lower incomes harder as a share of income.
-25. Indian school keys often call the overall income-tax design **degressive**: slabs rise at first, then behave more proportional at the top — UKPCS has keyed **Degressive** for “tax system in India”.
-26. **GST** is a destination-based, multi-stage value-added tax on supply of goods and services.
-27. GST needed the **101st Constitutional Amendment**; rollout from **1 July 2017**.
-28. Dual GST: **CGST + SGST / UTGST** on intra-State supply; **IGST** on inter-State supply and imports.
-29. GST subsumed State VAT, Central excise (large parts), service tax, entry tax, octroi and related cascading levies — **not** income tax, corporation tax or ordinary property tax.
-30. **GST Council (Article 279A)** is chaired by the **Union Finance Minister**. Centre weight **one-third**, States together **two-thirds**; decisions need **three-fourths** weighted majority; quorum is **half**.
-31. **Customs duty** remains at the border for imports / exports outside the GST subsumption story. Residual **Central excise** survives on a few products (e.g. petroleum / tobacco teaching lane).
-32. The proposed **Direct Tax Code** in Indian teaching maps to **Income Tax** reform — not sales / excise / service tax.
-33. **Tobin tax** is a proposed levy on **foreign-exchange transactions** to curb short-term speculative flows.
-34. **Finance Commission** — **Article 280** — is a **constitutional** body. The President constitutes it every fifth year or earlier.
-35. FC composition: **one Chairman + four other members** appointed by the President.
-36. **Parliament by law** fixes qualifications and selection manner (**Finance Commission (Miscellaneous Provisions) Act, 1951**). The President does **not** “determine qualifications”.
-37. The FC **recommends to the President** (Article 280(3)); the President causes the report to be laid in Parliament (**Article 281**). It does **not** report to NITI Aayog.
-38. Core FC duties: vertical / horizontal tax devolution; principles of **grants-in-aid** (Art. 275 lane); measures to augment State Consolidated Funds for local bodies on State FC advice; any other matter referred by the President.
-39. **First Finance Commission** — Chairman **K.C. Neogy** (constituted early 1950s teaching; first award period begins 1952–57 lane).
-40. Vertical devolution landmarks: **14th FC (Y.V. Reddy)** raised States’ share of the divisible pool to **42%**; **15th FC (N.K. Singh)** worked with **41%** after the J&K reorganisation adjustment teaching.
-41. FC chairmen spine: **11th A.M. Khusro** · **12th C. Rangarajan** · **13th Vijay Kelkar** · **14th Y.V. Reddy** · **15th N.K. Singh**.
-42. **State Finance Commissions** (Arts. **243-I / 243-Y**) review Panchayat / Municipality finances; Union FC uses their recommendations when suggesting local-body resource support.
-43. **Article 112** mandates the Annual Financial Statement (Union Budget) laid before Parliament each financial year.
-44. **Consolidated Fund of India (Art. 266(1))** holds all revenues, loans raised and repayments; withdrawals need appropriation.
-45. **Public Account (Art. 266(2))** holds provident funds, deposits and remittances — not subject to parliamentary appropriation like CFI.
-46. **Contingency Fund (Art. 267)** is an imprest for unforeseen expenditure, later recouped from the Consolidated Fund.
-47. **Revenue deficit** = revenue expenditure − revenue receipts; it shows living beyond current income.
-48. **Primary deficit** = fiscal deficit − interest payments; it shows the deficit excluding past debt-service burden.
-49. **Effective Revenue Deficit** adjusts revenue deficit for grants used for capital-asset creation.
-50. **FRBM Act 2003** sets fiscal-responsibility targets; **N.K. Singh Committee** reviewed the FRBM framework.
+1. **Public finance** is the branch of economics that examines government revenue generation, public expenditure, borrowing, and national debt management to accomplish economic stability and social equity.
+2. **Revenue receipts** are regular, recurring earnings of the government that **neither create a financial liability nor cause a reduction in government assets**. They comprise tax revenue and non-tax revenue.
+3. **Capital receipts** are receipts that **either create a financial liability** (e.g., market borrowings, external loans) **or reduce government assets** (e.g., disinvestment of PSU equity, recoveries of loans advanced to States).
+4. **Revenue expenditure** represents operational outlays incurred for the normal day-to-day running of government departments and administrative services (salaries, pensions, interest payments, subsidies) that **do not create physical or financial assets**.
+5. **Capital expenditure** consists of outlays that result in the **creation of durable physical/financial assets** (infrastructure, highways, schools, hospitals, equity investment) or a **reduction in financial liabilities** (repayment of public debt principal).
+6. **Tax revenue** is categorized into direct taxes (corporation tax, personal income tax, securities transaction tax) and indirect taxes (GST, basic customs duties, central excise on petroleum).
+7. **Non-tax revenue** includes interest receipts on loans advanced to States and public entities, dividends and profits from Public Sector Enterprises (PSUs) and the RBI, user fees, administrative penalties, and external cash grants.
+8. Under **Article 112** of the Constitution, the Union Budget is officially introduced as the **Annual Financial Statement**. At the State level, the corresponding budget is presented under **Article 202**.
+9. The budget documents present three distinct data sets: **Budget Estimates (BE)** for the upcoming financial year, **Revised Estimates (RE)** for the ongoing year, and **Actuals** (audited figures) for the preceding year.
+10. A **Vote on Account (Article 116(a))** is an interim parliamentary authorization allowing the executive to withdraw funds from the Consolidated Fund to cover essential expenditures for a fraction of the year (usually two months) pending passage of the full Appropriation Bill.
+11. Public expenditure is classified as either **voted** (requiring formal voting and approval by the Lok Sabha as Demands for Grants) or **charged upon the Consolidated Fund of India** (non-votable; discussed by Parliament but not voted upon, such as emoluments of the President, judges' salaries, and debt servicing).
+12. The **Consolidated Fund of India (Article 266(1))** is the premier public treasury into which all government revenues, loans raised, and loan recoveries flow; no money can be withdrawn from it without an **Appropriation Act** passed by Parliament.
+13. The **Public Account of India (Article 266(2))** accounts for moneys where the government acts as a trustee or banker (Provident Funds, postal small savings, court deposits); withdrawals do not require prior parliamentary appropriation.
+14. The **Contingency Fund of India (Article 267)** is an emergency imprest fund placed at the disposal of the **President of India** to meet unforeseen, urgent national expenditures pending subsequent parliamentary sanction and replenishment from the Consolidated Fund.
+15. **Revenue Deficit** is the excess of revenue expenditure over revenue receipts: $\text{Revenue Deficit} = \text{Revenue Expenditure} - \text{Revenue Receipts}$. It reflects government dissaving and borrowing to fund consumption.
+16. **Fiscal Deficit** represents the total excess of government expenditure over non-debt receipts: $\text{Fiscal Deficit} = \text{Total Expenditure} - (\text{Revenue Receipts} + \text{Non-Debt Capital Receipts})$. It precisely measures the government's **total net borrowing requirement** from all sources.
+17. **Primary Deficit** isolates current fiscal operations from past debt legacies: $\text{Primary Deficit} = \text{Fiscal Deficit} - \text{Interest Payments}$. A zero primary deficit indicates that all borrowings are utilized solely to service existing debt.
+18. **Effective Revenue Deficit (ERD)** is defined as Revenue Deficit minus grants-in-aid given to States for the creation of capital assets.
+19. In historical budget accounting, **Budget Deficit** represented the overall net gap ($Total \ Expenditure - Total \ Receipts$). In modern Indian macroeconomics, the Fiscal Deficit has replaced it as the definitive metric of budgetary shortfall.
+20. The **Fiscal Responsibility and Budget Management (FRBM) Act, 2003** mandates institutional fiscal discipline, setting statutory targets for deficit reduction and mandating key macroeconomic disclosure statements in Parliament.
+21. The **N.K. Singh FRBM Review Committee (2017)** recommended anchoring fiscal policy to a **general government debt ceiling of 60% of GDP** (40% for the Centre and 20% for the States), alongside a 3% fiscal deficit target.
+22. **Direct taxes** are levied directly on the income, wealth, or profits of individuals and corporate entities; the statutory incidence and real economic burden fall on the same entity (non-shiftable).
+23. **Indirect taxes** are levied on the manufacture, sale, or consumption of goods and services; the taxpayer shifts the tax incidence to the final consumer through market pricing.
+24. A **progressive tax** levies higher percentage tax rates as the income base increases. A **proportional tax** maintains an unchanging percentage rate across all income levels. A **regressive tax** consumes a larger percentage of income from low-income earners than from high-income earners.
+25. The Indian personal income tax system is structurally characterized as **degressive**: progressive across introductory and middle income slabs, but leveling into a proportional top marginal rate for upper income brackets.
+26. The **Goods and Services Tax (GST)** is a comprehensive, multi-stage, destination-based consumption tax levied on the supply of goods and services, eliminating cascading ("tax on tax") through seamless **Input Tax Credit (ITC)**.
+27. GST was introduced through the **101st Constitutional Amendment Act, 2016**, and rolled out nationally on **1 July 2017**.
+28. India operates a **Dual GST model**: **CGST** (Central GST) and **SGST / UTGST** (State/UT GST) are levied concurrently on intra-State supplies; **IGST** (Integrated GST) is levied on inter-State commerce and imports.
+29. GST subsumed 17 major central and state levies, including Central Excise Duty, Service Tax, State VAT, Entry Tax, Luxury Tax, and Entertainment Tax. Corporate tax, personal income tax, and basic customs duty were **not** subsumed.
+30. The **GST Council (Article 279A)** is a constitutional federal forum chaired by the **Union Finance Minister**. The Centre holds a **one-third** voting weight, all States combined hold a **two-thirds** weight, and decisions require a **three-fourths majority** of weighted votes present.
+31. **Basic Customs Duty** remains outside GST and continues as a border tariff. Residual **Central Excise** continues to be levied on select non-GST goods (petroleum crude, motor spirit, high-speed diesel, natural gas, aviation turbine fuel, and tobacco).
+32. The proposed **Direct Tax Code (DTC)** was conceptualized to overhaul and consolidate direct tax legislation, principally replacing the archaic **Income Tax Act, 1961**.
+33. The **Tobin Tax** is a theoretical levy proposed by Nobel laureate James Tobin on spot **foreign-exchange transactions** to discourage short-term volatile currency speculation.
+34. The **Finance Commission** is a constitutional body established under **Article 280** of the Constitution, constituted by the President of India every five years or earlier.
+35. The Finance Commission consists of a **Chairman and four other members** appointed by the President.
+36. Under Article 280(2), **Parliament by law determines the qualifications** and selection procedure of Commission members (**Finance Commission Act, 1951**); the President does not prescribe qualifications.
+37. Under Article 280(3), the Commission submits its recommendations to the **President of India**, who causes them, along with an explanatory memorandum, to be laid before Parliament under **Article 281**. It does **not report to NITI Aayog**.
+38. The statutory mandate of the Finance Commission comprises: recommending the distribution of the net divisible pool of taxes between the Union and States (vertical devolution); allocation among States (horizontal devolution); principles governing **grants-in-aid (Article 275)**; and measures to augment State Consolidated Funds to supplement local bodies.
+39. The **First Finance Commission** was instituted in 1951 under the chairmanship of **K.C. Neogy** (award period 1952–57).
+40. The **14th Finance Commission (Dr. Y.V. Reddy)** recommended an unprecedented increase in vertical devolution to States from 32% to **42%** of the divisible pool. The **15th Finance Commission (N.K. Singh)** adjusted this to **41%** following the conversion of Jammu & Kashmir into Union Territories.
+41. Historical Chairmen of Finance Commissions: **11th A.M. Khusro**, **12th Dr. C. Rangarajan**, **13th Dr. Vijay Kelkar**, **14th Dr. Y.V. Reddy**, and **15th N.K. Singh**.
+42. **State Finance Commissions (Articles 243-I and 243-Y)** are constituted by State Governors every five years to review the financial position of Panchayats and Municipalities.
+43. Under **Article 113(3)**, no Demand for Grant can be introduced in the Lok Sabha except on the **recommendation of the President of India**.
+44. **Cut Motions** in Lok Sabha: A **Policy Cut** reduces the demand amount to **₹1** (disapproval of policy); an **Economy Cut** reduces it by a specified lump sum; a **Token Cut** reduces it by **₹100** (ventilating a specific grievance).
+45. **Zero-Based Budgeting (ZBB)**, pioneered by Peter Pyhrr in the United States, requires every budget program to be justified from a zero base each financial year rather than incrementally building on historical allocations. India introduced ZBB experimentally in the Department of Science and Technology in the mid-1980s.
+46. The **2017–18 Union Budget** instituted three structural reforms: advanced budget presentation to **1 February**, merged the 92-year-old standalone **Railway Budget** with the General Budget, and abolished the traditional **Plan vs Non-Plan expenditure** distinction.
+47. **Interest payments** constitute the largest single component of revenue expenditure in the Union Budget, reflecting the accumulated public debt stock.
+48. **Project Saksham** is an integrated indirect tax IT modernization project approved in 2016 for CBEC (now CBIC) to support the digital rollout of GST and customs processing.
+49. The **Direct Taxes Committee** (Kelkar Task Force, 2002) laid the foundation for rationalized personal income tax slabs and recommended the conceptual design of GST.
+50. **Tax Buoyancy** measures the responsiveness of tax revenue growth relative to GDP growth: $\text{Tax Buoyancy} = \frac{\% \Delta \text{ Tax Revenue}}{\% \Delta \text{ GDP}}$. A buoyancy greater than 1 signifies that tax collections expand faster than the underlying national output.
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-confused" markdown="1">
 <summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **Revenue deficit** | **Fiscal deficit** | Current gap vs total borrowing need |
-| **Fiscal deficit** | **Primary deficit** | Includes interest vs strips interest |
-| **Art. 266 CFI / Public Account** | **Art. 267 Contingency Fund** | Main pools vs imprest for unforeseen spend |
-| **FC report → President** | **FC report → NITI** | Constitutional path vs wrong trap |
-| **Chair + 4** | **Chair + 6** | Five persons total vs inflated count |
-| **Qualifications by Parliament** | **Qualifications by President** | 1951 Act vs appointment power |
-| **14th FC 42%** | **15th FC 41%** | Peak devolution vs post-J&K adjusted share |
-| **GST 101st** | **73rd / 86th / 91st / 102nd+** | GST vehicle vs other amendments |
-| **GST Council Chair = FM** | **Chair = PM / President** | 279A design |
-| **Direct Tax Code** | **GST / VAT** | Income-tax reform lane vs indirect tax |
-| **Tobin tax** | **Income / property tax** | Forex transactions vs domestic bases |
-| **Progressive** | **Degressive (India key)** | Pure rising slabs vs PCS “degressive” label for India |
-| **Charged expenditure** | **Voted expenditure** | Charged on CFI vs needs grant vote |
-| **CGST + SGST** | **IGST** | Intra-State vs inter-State / import |
-| **AFS laid by FM for President** | **Laid for / by Prime Minister** | Art. 112 + Art. 113(3) demand recommendation |
-| **Macro-Economic Framework Statement** | **Annual Financial Statement** | FRBM Act mandate vs Art. 112 Budget document |
-| **Fiscal policy (MoF)** | **Monetary policy (RBI)** | Tax / spend / debt vs CRR / repo / bank rate |
-| **Policy Cut (₹1)** | **Token Cut (₹100)** | Disapproval of policy vs token protest |
-| **Vote on Account** | **Full Budget / Vote of Credit** | Interim appropriation vs full-year grant |
-| **Customs (outside GST)** | **VAT / Service tax (subsumed)** | Border levy stays; cascading domestic levies went |
-| **Gender Budget 2005–06** | **TEC India / Saptarishi themes** | First gender statement year vs later Budget slogans |
-| **ZBB origin USA** | **ZBB first India dept (DST 1980s)** | Country of origin vs Indian adoption |
-| **Marketism without exit** | **Socialism with limited entry** | Chakravyuha Survey key vs the starting regime |
+| Concept A | Concept B | Conceptual Distinction & Mechanics | Key Memorization Anchor |
+|---|---|---|---|
+| **Revenue Deficit** | **Fiscal Deficit** | Revenue deficit measures current operational dissaving; Fiscal deficit measures the total net borrowing requirement of the government. | Revenue = Consumption gap; Fiscal = Total borrowing need |
+| **Fiscal Deficit** | **Primary Deficit** | Fiscal deficit includes total debt servicing; Primary deficit strips out interest payments to assess current fiscal stance. | $\text{Primary} = \text{Fiscal} - \text{Interest}$ |
+| **Consolidated Fund (Art. 266(1))** | **Public Account (Art. 266(2))** | Consolidated Fund holds all revenues/loans and requires appropriation; Public Account holds trust funds (PF, deposits) without prior voting. | Consolidated = Appropriation required; Public Account = Banking/trust |
+| **Contingency Fund (Art. 267)** | **Consolidated Fund (Art. 266)** | Contingency Fund is an emergency imprest at the President's disposal; Consolidated Fund is the regular treasury. | Contingency = Emergency imprest; Consolidated = Main treasury |
+| **FC Report Submission** | **President vs NITI Aayog** | Under Article 280(3), the Finance Commission submits its report to the **President**, who lays it in Parliament; NITI receives no report. | Report goes to President |
+| **Finance Commission Strength** | **Chairman + 4 vs Chairman + 6** | Under Article 280(1), the Finance Commission comprises a Chairman and **four other members** (total five persons). | Total members = 5 (Chair + 4) |
+| **FC Member Qualifications** | **Determined by Parliament vs President** | Under Article 280(2), **Parliament by law** determines qualifications (1951 Act); the President merely appoints the qualified individuals. | Qualifications = Parliament by law |
+| **14th FC vs 15th FC Share** | **42% vs 41% Devolution** | 14th FC awarded 42%; 15th FC adjusted the vertical devolution to 41% to accommodate the UTs of J&K and Ladakh. | 14th = 42%; 15th = 41% |
+| **GST Constitutional Vehicle** | **101st vs Other Amendments** | 101st Amendment enacted GST; 73rd enacted Panchayats; 86th enacted Right to Education; 91st capped ministry size. | GST = 101st Amendment Act |
+| **GST Council Chair** | **Union Finance Minister vs PM** | Under Article 279A, the GST Council is chaired by the **Union Finance Minister**, with State Finance/Tax Ministers as members. | Union Finance Minister chairs GST Council |
+| **Direct Tax Code (DTC)** | **Goods and Services Tax (GST)** | DTC was an initiative to reform direct personal and corporate income taxes; GST overhauled multi-layered indirect commodity taxes. | DTC = Direct tax reform; GST = Indirect tax overhaul |
+| **Tobin Tax** | **Domestic Turnover Taxes** | Tobin tax specifically targets spot cross-border **foreign-exchange transactions**; STT targets domestic securities trading. | Tobin = Forex transaction levy |
+| **Progressive Tax** | **Degressive Tax** | Progressive taxes maintain rates that escalate continuously; Degressive systems rise across lower slabs before plateauing into a flat rate. | India income tax is structurally degressive |
+| **Charged Expenditure** | **Voted Expenditure** | Charged items are non-votable and settled automatically; Voted demands must receive positive majority approval in Lok Sabha. | Charged = Non-votable; Voted = Subject to Lok Sabha vote |
+| **CGST + SGST** | **IGST** | CGST and SGST are levied concurrently on intra-State transactions; IGST is levied on inter-State movement and international imports. | Intra-State = CGST+SGST; Inter-State = IGST |
+| **Annual Financial Statement** | **Presented on behalf of President** | Under Article 112, the Finance Minister presents the budget on behalf of the President, not on behalf of the Prime Minister. | Laid on behalf of President |
+| **Macroeconomic Framework** | **FRBM Act vs Article 112** | Mandated statutorily by Section 3 of the FRBM Act, 2003, rather than by constitutional budgetary articles alone. | Statutorily mandated by FRBM Act |
+| **Fiscal Policy** | **Monetary Policy** | Fiscal policy is managed by the Ministry of Finance (tax, spend, debt); Monetary policy is managed by the RBI (repo, CRR, liquidity). | MoF = Fiscal policy; RBI = Monetary policy |
+| **Policy Cut Motion** | **Token Cut Motion** | Policy Cut reduces demand to **₹1** (disapproval of policy); Token Cut reduces demand by **₹100** (ventilating grievance). | Policy Cut = ₹1; Token Cut = ₹100 |
+| **Vote on Account** | **Interim Budget** | Vote on Account is a 2-month expenditure sanction; Interim Budget includes comprehensive revenue/expenditure estimates before elections. | Vote on Account = Grant for spending; Interim = Full mini-budget |
+| **Customs Duty** | **VAT / Central Excise** | Basic customs duties remain independent border tariffs outside GST; State VAT and Central excise were largely subsumed into GST. | Customs = Outside GST; VAT/Excise = Subsumed |
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-must-score" markdown="1">
-<summary><strong>📋 Must-score drill — funds, deficits, FC, GST</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>📋 Must-Score Drill — Funds, Deficits, Taxes, and Commissions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| Item | Tag |
+| Public Finance Term or Institution | Core Constitutional / Economic Anchor |
 |---|---|
-| CFI / Public Account | Art. 266 |
-| Contingency Fund | Art. 267 |
-| Budget (Union) | Art. 112 |
-| FC | Art. 280; Chair + 4; report to President |
-| FC qualifications | Parliament / 1951 Act |
-| First FC Chair | K.C. Neogy |
-| 14th / 15th share | 42% / 41% |
-| GST Amendment | 101st; 1 July 2017 |
-| GST Council | Art. 279A; Union FM chairs |
-| Fiscal deficit | TE − (RR + NDCR) |
-| Primary deficit | FD − interest |
-| FRBM | 2003 |
-| DTC related to | Income Tax |
-| Tobin tax | Forex transactions |
-| AFS laid by | FM on behalf of President |
-| Demand for grant | President’s recommendation |
-| Macro Framework Statement | FRBM Act |
-| Gender Budget start | 2005–06 |
-| Fiscal vs monetary | MoF vs RBI |
-| Policy / Token Cut | ₹1 / ₹100 |
-| Interest payments | Largest revenue-exp item (usual) |
-| Railway + Plan/Non-Plan reform | Budget 2017–18 |
-| GST proposed by | Kelkar FRBM Task Force |
-| Outside GST | Customs; alcohol; electricity; petroleum (until notified) |
-| Saksham | CBIC indirect-tax network |
-| AIDC products (2021–22) | 29 |
-| Chakravyuha | Marketism without exit |
+| **Consolidated Fund of India** | Article 266(1); requires parliamentary Appropriation Act |
+| **Public Account of India** | Article 266(2); trust moneys, deposits, small savings |
+| **Contingency Fund of India** | Article 267; emergency imprest at President's disposal |
+| **Annual Financial Statement** | Article 112 (Union) and Article 202 (States) |
+| **No Taxation Without Law** | Article 265 |
+| **Finance Commission Mandate** | Article 280; Chairman + 4 members; reports to President |
+| **Finance Commission Qualifications** | Prescribed by Parliament under Finance Commission Act, 1951 |
+| **First Finance Commission Chairman** | K.C. Neogy (1952–57) |
+| **14th / 15th FC Vertical Devolution** | 42% (14th FC) and 41% (15th FC) |
+| **Goods and Services Tax Amendment** | 101st Constitutional Amendment Act, 2016 (rolled out 1 July 2017) |
+| **GST Council Composition** | Article 279A; chaired by Union Finance Minister; 3/4th weighted vote threshold |
+| **Fiscal Deficit Formula** | $\text{Total Expenditure} - (\text{Revenue Receipts} + \text{Non-Debt Capital Receipts})$ |
+| **Primary Deficit Formula** | $\text{Fiscal Deficit} - \text{Interest Payments}$ |
+| **Revenue Deficit Formula** | $\text{Revenue Expenditure} - \text{Revenue Receipts}$ |
+| **FRBM Act Year & Debt Anchor** | Enacted 2003; N.K. Singh Committee proposed 60% general government debt |
+| **Direct Tax Code Domain** | Reform and modernization of Income Tax and Wealth Tax legislation |
+| **Tobin Tax Target** | Spot foreign exchange transactions to penalize speculation |
+| **Demand for Grant Recommendation** | Article 113(3); requires recommendation of the President |
+| **Gender Budgeting Inception** | Union Budget 2005–06 |
+| **Policy Cut vs Token Cut** | Demand reduced to ₹1 (Policy Cut); Demand reduced by ₹100 (Token Cut) |
+| **Largest Revenue Expenditure Head** | Interest payments on accumulated public debt |
+| **Budget 2017–18 Triple Reforms** | 1 February presentation, Railway Budget merger, abolition of Plan/Non-Plan |
+| **Taxes Outside GST Domain** | Basic customs duties, alcohol for human consumption, stamp duties, petroleum (pending notification) |
+| **Project Saksham** | CBIC IT infrastructure network supporting digital GST implementation |
+| **Degressive Tax Definition** | Slabs rise progressively at first, then settle into a flat proportional rate |
 
 </details>
 
 ---
 
-## 2.1 Public finance — revenue, expenditure, debt, subsidies
+## 2.1 Public Finance: Receipts, Expenditures, Debt, and Subsidies
 
-**Public finance** studies how the government raises revenue, spends, borrows and manages debt for public purposes.
+**Public finance** examines how the government mobilizes financial resources, allocates expenditures across public priorities, manages debt obligations, and utilizes fiscal policy to ensure macroeconomic stability and equitable growth.
 
-### Receipts
+### Government Receipts
+Government receipts are divided into two fundamental accounting categories:
+1. **Revenue Receipts:** Recurring, non-debt receipts that **neither create a financial liability nor cause a reduction in government assets**. Revenue receipts are subdivided into:
+   - **Tax Revenue:** Mandatory financial levies imposed under legal authority without direct quid-pro-quo return. Comprises direct taxes (corporation tax, personal income tax, capital gains tax) and indirect taxes (GST, basic customs duties, central excise on petroleum).
+   - **Non-Tax Revenue:** Incomes earned by the government through public property and administrative services, including interest received on loans advanced to States and PSUs, dividend transfers and profits from PSUs and the Reserve Bank of India, administrative fees, spectrum auction proceeds, and external grants.
+2. **Capital Receipts:** Non-recurring receipts that **either create a financial liability or reduce government assets**.
+   - **Debt Capital Receipts:** Market borrowings through dated government securities, treasury bills, and loans raised from multilateral institutions.
+   - **Non-Debt Capital Receipts (NDCR):** Disinvestment proceeds from the sale of government equity in Public Sector Enterprises and recoveries of loans previously advanced to States and public corporations.
 
-- **Revenue receipts** are regular, non-debt receipts that do not create a liability or reduce assets.
-- Revenue receipts split into **tax revenue** and **non-tax revenue**.
-- Tax revenue includes income tax, corporation tax, GST, customs and residual Union excise where applicable.
-- Non-tax revenue includes interest receipts, dividends and profits of PSUs, fees, fines and user charges.
-- **Capital receipts** include borrowings, disinvestment proceeds and recoveries of loans.
-- Capital receipts create a liability or reduce assets — that is why borrowings sit here.
+### Government Expenditure
+1. **Revenue Expenditure:** Expenditures incurred for normal administrative operations and maintenance of public services that **do not result in the creation of durable physical or financial assets**. Major components include:
+   - Interest payments on accumulated internal and external public debt (the single largest component).
+   - Government salaries, administrative allowances, and employee pensions.
+   - Food, fertilizer, and fuel subsidies.
+   - Grants given to State Governments for general administrative purposes.
+2. **Capital Expenditure (Capex):** Outlays that **lead to the creation of durable capital assets or a reduction in financial liabilities**. Major components include:
+   - Capital investments in transport networks, highways, railways, power grids, and digital infrastructure.
+   - Acquisition of land, machinery, and defense capital equipment.
+   - Equity infusions into public financial institutions and PSUs.
+   - Loans and advances extended to State Governments.
+   - Repayment of public debt principal obligations.
 
-### Expenditure
-
-- **Revenue expenditure** maintains services and does not create lasting assets.
-- Salaries, interest payments, subsidies and maintenance are classic revenue-expenditure items.
-- **Capital expenditure** creates assets or reduces liabilities.
-- Infrastructure outlays, equity infusion into PSUs and loan repayments (capital side) belong here.
-- **Plan vs non-plan** language is older Budget vocabulary; modern documents stress revenue / capital and scheme classifications.
-
-### Public debt and subsidies
-
-- **Public debt** is the stock of government borrowings accumulated over time.
-- Deficits show the year’s **flow** gap; debt shows the **stock**.
-- Internal debt is owed to residents; external debt is owed to non-residents (external depth in Topic 9).
-- **Subsidies** support targeted prices or incomes — food, fertiliser and fuel are the classic teaching lanes.
-- **Rationalisation** means better targeting, Direct Benefit Transfer and cutting leakages.
-- Rationalisation does **not** mean abolishing every support overnight.
-- Food subsidy links to FCI / NFSA (Topic 6); fertiliser subsidy links to agri-input costs (Topic 5–6).
+### Public Debt and Subsidy Rationalization
+- **Public Debt:** Represents the total accumulated stock of government borrowings over time. While the annual fiscal deficit measures the single-year borrowing flow, public debt measures the cumulative debt stock.
+  - **Internal Debt:** Borrowings mobilized from domestic citizens and financial institutions within India (denominated in Indian Rupees).
+  - **External Debt:** Borrowings contracted from foreign governments, international capital markets, and multilateral agencies (denominated in foreign currencies).
+- **Subsidies:** Targeted financial assistance provided by the state to reduce consumer prices or production costs for essential goods. The three major Central subsidies are **food subsidy** (operationalized through FCI under the National Food Security Act), **fertilizer subsidy** (nutrient-based and urea concessions), and **petroleum/LPG subsidy**.
+- **Rationalization:** Modern fiscal reforms emphasize subsidy rationalization through Direct Benefit Transfer (DBT), Aadhaar-authenticated targeting, and the elimination of administrative leakages, preserving fiscal space for growth-enhancing capital expenditure.
 
 ---
 
-## 2.2 Budget and constitutional funds
+## 2.2 The Union Budget and Constitutional Funds
 
-**The Union Budget** is the Annual Financial Statement of estimated receipts and expenditure for the coming year.
+The **Union Budget** is the annual financial statement of estimated receipts and expenditure of the Government of India for the forthcoming financial year.
 
-- Article **112** requires the Union Annual Financial Statement to be laid in Parliament.
-- The **Finance Minister** presents it **on behalf of the President** — not on behalf of the Prime Minister.
-- At the Union level, **no demand for a grant** can be made except on the **recommendation of the President** (Art. 113(3)).
-- State budgets parallel under Article **202**.
-- The Budget presents **Budget Estimates**, compares them with **Revised Estimates**, and reports **Actuals** for the past year.
-- A **Vote on Account** authorises interim spending when the full budget cannot be passed before the new year.
-- **Cut motions** in Lok Sabha: a **Policy Cut** seeks to reduce a demand to **₹1**; an **Economy Cut** reduces it by a specified amount; a **Token Cut** reduces it by **₹100**.
-- **Gender budgeting** was first introduced in Union Budget **2005–06** as a gender-sensitive formulation and allocation statement.
-- Union Budget **2017–18** advanced presentation to **1 February**, **merged the Railway Budget** with the General Budget, and **removed Plan / Non-Plan** expenditure classification.
-- **Interest payments** are usually the **largest** single item of revenue expenditure in recent Union Budgets.
-- **Zero-based budgeting** started in the **United States**; India adopted the technique in the 1980s (Science and Technology teaching first).
-- Budget theme tags recur in stems: **TEC India** (2017–18 — Transform, Energise, Clean — **not** “Educate India”); **Saptarishi** priorities (2023–24); Viksit Bharat **nine priorities** in Budget 2024–25 (**Sustainable Development** was **not** one of those nine).
-- An **Interim Budget** is a fuller pre-election presentation without a full-year policy reset in teaching.
-- Expenditure is **voted** (needs Lok Sabha grant) or **charged** on the Consolidated Fund.
-- Charged items (President’s emoluments, debt interest, CAG salary teaching) are discussed but not voted item-wise in the same way.
+### Constitutional Architecture
+- **Article 112 (Annual Financial Statement):** Mandates that the President shall, in respect of every financial year, cause to be laid before both Houses of Parliament a statement of estimated receipts and expenditure of the Government of India. The budget is presented by the **Union Finance Minister on behalf of the President**.
+- **Article 113 (Procedure in Parliament with respect to Estimates):** Mandates that expenditure charged upon the Consolidated Fund shall not be submitted to the vote of Parliament, but may be discussed. Other expenditures are submitted in the form of **Demands for Grants** to the Lok Sabha. Under **Article 113(3)**, no demand for a grant shall be made except on the **recommendation of the President**.
+- **Article 114 (Appropriation Bills):** Provides that no money shall be withdrawn from the Consolidated Fund of India except under appropriation made by law passed by Parliament.
+- **Article 116 (Votes on Account, Votes of Credit):** Authorizes Parliament to make advance grants (Vote on Account) for estimated expenditure before the full budget is enacted.
+- **Article 202:** Corresponds at the State level to Article 112, governing the presentation of the State Annual Financial Statement by State Governments.
 
-### Three constitutional funds
+### Parliamentary Cut Motions
+During the discussion on Demands for Grants in the Lok Sabha, Members of Parliament may move Cut Motions to reduce budgetary allocations:
+1. **Disapproval of Policy Cut:** Demands that the amount of the demand be reduced to **₹1**. It signifies total disapproval of the underlying government policy and outlines an alternative policy.
+2. **Economy Cut:** Demands that the amount of the demand be reduced by a **specified amount**, arguing that economy can be effected without impairing administrative efficiency.
+3. **Token Cut:** Demands that the amount of the demand be reduced by **₹100**, ventilating a specific, articulated grievance within the administrative responsibility of the Government of India.
+*(Note: If a Cut Motion is passed in the Lok Sabha, it amounts to a vote of no-confidence, requiring the Council of Ministers to resign).*
 
-- The **Consolidated Fund of India** under Article **266** is the main treasury; appropriation needs parliamentary law.
-- The **Public Account of India** under Article **266** holds money where government is banker or trustee (provident funds, deposits).
-- Public Account money is not ordinary revenue of government in the same sense as Consolidated Fund receipts.
-- The **Contingency Fund of India** under Article **267** is an imprest at the President’s disposal for unforeseen spending.
-- Contingency Fund advances are later recouped from the Consolidated Fund.
-- Article **265** is “no tax without authority of law” — not a fund article.
-- Article **268** concerns duties collected by the Union but assigned to States in older / related teaching — not Contingency Fund.
+### The Three Constitutional Funds
+The Constitution of India establishes three distinct funds for public revenue and expenditure:
+1. **Consolidated Fund of India (Article 266(1)):**
+   - The primary treasury of the nation. All revenues received by the Government of India, all loans raised by the issue of treasury bills or dated securities, and all moneys received in repayment of loans flow into this fund.
+   - No money can be withdrawn from the Consolidated Fund without an **Appropriation Act enacted by Parliament**.
+2. **Public Account of India (Article 266(2)):**
+   - Accounts for public moneys received by or on behalf of the Government of India that do not belong to the Consolidated Fund, where the government functions as a banker or trustee (e.g., Provident Funds, Small Savings collections, judicial deposits, and remittances).
+   - Expenditures from the Public Account do not require prior parliamentary appropriation.
+3. **Contingency Fund of India (Article 267):**
+   - An emergency reserve fund established by Parliament under the *Contingency Fund of India Act, 1950*.
+   - Placed at the disposal of the **President of India**, enabling advances to be made to meet unforeseen expenditures pending formal authorization by Parliament under Article 115 or 116. Advances are subsequently recouped from the Consolidated Fund upon parliamentary approval.
 
 **Q-EC1. UPPCS (Pre) 2021**
 
 Which of the following Articles of the Indian Constitution is related to Contingency Fund?
 
-A. Article 265
-B. Article 266
-C. Article 267
-D. Article 268
+A. Article 265  
+B. Article 266  
+C. Article 267  
+D. Article 268  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches Article 267.
+**Explanation:**  
+- **Article 267** empowers Parliament (and State Legislatures for States) to establish a Contingency Fund in the nature of an imprest fund placed at the disposal of the President of India (or Governor) to meet unforeseen expenditures pending legislative sanction.  
+- Article 265 prohibits taxation without the authority of law; Article 266 establishes the Consolidated Fund and Public Account; Article 268 deals with duties levied by the Union but collected and appropriated by the States.  
 
-**Ans: C.** Article 267
+**Ans: C.** Article 267.
+
 </details>
 
 **Q-EC2. UPPCS (Pre) 2024**
@@ -249,111 +250,120 @@ Match List-I and List-II and choose the correct answer from the codes given belo
 
 Select the correct answer from the codes given below:
 
-A. 3 1 2 4
-B. 4 1 3 2
-C. 1 3 2 4
-D. 1 2 3 4
-
-*Row order is not the answer code.*
+A. A-3, B-1, C-2, D-4  
+B. A-4, B-1, C-3, D-2  
+C. A-1, B-3, C-2, D-4  
+D. A-1, B-2, C-3, D-4  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Code 1 3 2 4.
+**Explanation:**  
+- **Consolidated Fund of India:** Article 266 (A-1)  
+- **Finance Commission:** Article 280 (B-3)  
+- **Financial Emergency:** Article 360 (C-2)  
+- **Comptroller and Auditor General of India:** Article 148 (D-4)  
+- The correct matching sequence is A-1, B-3, C-2, D-4.  
 
-**Ans: C.** CFI → 266; FC → 280; Financial Emergency → 360; CAG → 148.
+**Ans: C.** A-1, B-3, C-2, D-4.
 
 </details>
 
 ---
 
-## 2.3 Deficits and FRBM
+## 2.3 Deficit Concepts and the FRBM Framework
 
-**Budget deficits** measure how far government spending exceeds available non-borrowed receipts in a year.
+Budgetary deficits measure the magnitude by which public expenditures exceed public revenues, defining government borrowing requirements and macroeconomic stability.
 
-- **Revenue Deficit** = Revenue expenditure − Revenue receipts.
-- Revenue deficit shows current income failing to cover current spending.
-- **Fiscal Deficit** = Total expenditure − (Revenue receipts + Non-debt capital receipts).
-- Fiscal deficit is the government’s **net borrowing requirement** for the year.
-- **Primary Deficit** = Fiscal deficit − Interest payments.
-- Primary deficit strips the legacy interest burden and shows whether non-interest operations still need fresh borrowing.
-- If primary deficit is zero, borrowing equals interest payments in the classic UKPCS-style teaching.
-- **Effective Revenue Deficit** = Revenue deficit − grants for creation of capital assets (Indian budget-document refinement).
-- Older **Budget Deficit** language compared total expenditure with total receipts including borrowings; modern stress sits on fiscal / revenue / primary deficits.
+### The Four Key Deficit Metrics
+1. **Revenue Deficit (RD):**
+   $$\text{Revenue Deficit} = \text{Revenue Expenditure} - \text{Revenue Receipts}$$
+   - Measures the extent to which the government's current operational consumption exceeds regular current earnings.
+   - A high revenue deficit indicates fiscal vulnerability, signifying that the government is borrowing simply to maintain day-to-day administrative machinery rather than building productive assets.
+2. **Fiscal Deficit (FD):**
+   $$\text{Fiscal Deficit} = \text{Total Expenditure} - (\text{Revenue Receipts} + \text{Non-Debt Capital Receipts})$$
+   - Equivalently: $\text{Fiscal Deficit} = \text{Total Budget Borrowings and Liabilities}$.
+   - The fiscal deficit is the definitive macroeconomic measure of government borrowing requirements from all internal and external sources.
+3. **Primary Deficit (PD):**
+   $$\text{Primary Deficit} = \text{Fiscal Deficit} - \text{Interest Payments}$$
+   - Strips out the burden of legacy debt interest payments contracted by past governments.
+   - Reflects the current fiscal policy stance; a zero primary deficit implies that the government is borrowing solely to service historical debt obligations.
+4. **Effective Revenue Deficit (ERD):**
+   $$\text{Effective Revenue Deficit} = \text{Revenue Deficit} - \text{Grants-in-aid for creation of capital assets}$$
+   - Adjusts for Central grants given to States which, while classified as revenue expenditure in Union accounts, are utilized by States to build physical infrastructure (highways, school buildings, rural water systems).
 
-### FRBM
-
-- The **FRBM Act, 2003** institutionalises fiscal discipline, deficit and debt targets, and mandatory fiscal-policy statements with the Budget.
-- The **Macro-Economic Framework Statement** presented with the Budget is mandated under the **FRBM Act** (not Article 112 alone).
-- The **N.K. Singh FRBM Review Committee** pushed a debt-anchor approach alongside deficit glide paths.
-- Teaching often cites about **60%** general government debt-to-GDP as a debt-anchor neighbourhood (Centre / States split in committee discussion).
-- Escape clauses and revised glide paths appear in stress years; the Act’s identity remains fiscal responsibility, not a one-year CA number.
-- Neither **tax revenue as % of GDP** nor **fiscal deficit as % of GDP** has risen **steadily every year** of the last decade — both series show ups and downs.
-
-### Fiscal policy — who, tools, stimulus
-
-- The **Ministry of Finance** formulates **fiscal policy**; the **Reserve Bank of India** conducts **monetary policy**.
-- Classic fiscal tools are **taxation**, **public expenditure** and **public debt / deficit financing** — not CRR, bank rate or the policy interest rate.
-- Fiscal-policy objectives teaching: growth, full employment, price stability and equitable distribution — **not** regulation of inter-State trade.
-- **J.M. Keynes** put expansionary fiscal policy at the centre of the response to the Great Depression.
-- A **fiscal stimulus** is an intense government package of tax cuts and/or higher spending to boost activity in a slowdown.
-- In a **recession**, the most likely fiscal step among standard options is **higher expenditure on public projects** (often with tax relief).
-- **V.P. Singh** announced India’s long-term fiscal policy in Budget **1985–86**.
-- **Department of Economic Affairs** is the nodal budget-preparation lane; the **Economic Survey** is published by the **Ministry of Finance**.
-- MoF teaching departments: Economic Affairs, Expenditure, Revenue, DIPAM, Financial Services and Public Enterprises — a standalone **“Banking Division”** is **not** keyed as an MoF department.
-- **Ad hoc Treasury Bills** used to monetise the Centre’s deficit were abolished on **31 March 1997** and replaced by **Ways and Means Advances**.
-- Creating **new money** to finance a budget deficit is the **most inflationary** financing mode among public borrowing options.
-- Economic Survey **2015–16** named the **Chakravyuha challenge**: the economy moved from socialism with limited entry to **marketism without exit**.
-- Survey **2022–23** fiscal response to aggravated supply shocks stressed **reducing taxes on fuel and certain imported products** (alongside higher food and fertiliser subsidies in the narrative — the keyed “only” lever in the UPPCS stem is the tax cut).
+### The FRBM Act, 2003 and N.K. Singh Review
+- **FRBM Act, 2003:** Enacted to institutionalize fiscal discipline, reduce fiscal deficits, eliminate revenue deficits, and ensure inter-generational equity in debt management.
+- **Mandatory Fiscal Documents:** Section 3 of the Act requires the Central Government to lay four fiscal policy statements before Parliament alongside the budget:
+  1. *Macro-Economic Framework Statement*
+  2. *Fiscal Policy Strategy Statement*
+  3. *Medium-Term Fiscal Policy Statement*
+  4. *Medium-Term Expenditure Framework Statement*
+- **N.K. Singh Committee (2017) Recommendations:**
+  - Recommended replacing annual deficit targeting with a **debt-to-GDP anchor**: general government debt should be brought down to **60% of GDP** (40% for the Centre and 20% for States) by 2022–23.
+  - Recommended targeting a Central fiscal deficit of **3.0% of GDP**.
+  - Proposed an **"Escape Clause"** permitting deviations from fiscal targets up to 0.5% of GDP under exceptional conditions (national security, war, severe agricultural drought, or structural economic collapse).
 
 ---
 
-## 2.4 Taxation structure
+## 2.4 Tax Architecture: Direct and Indirect Taxation
 
-**Taxes** are compulsory levies without a direct quid pro quo equal to the payment.
+A modern tax system is evaluated against the classical canons of taxation: equity, certainty, convenience, and economy.
 
-- **Direct taxes** are levied on income or wealth of persons or companies (income tax, corporation tax, capital gains).
-- **Indirect taxes** are levied on goods and services and can be shifted into price (GST, customs, older VAT / excise / service tax).
-- A **progressive** tax raises the rate as the base rises.
-- A **proportional** tax keeps a flat rate across the base.
-- A **regressive** tax hits lower incomes harder as a share of income.
-- Indian school keys often call the overall income-tax design **degressive**: slabs rise at first, then behave more proportional at the top.
-- UKPCS has keyed **Degressive** for “tax system in India.”
-- **Tobin tax** is a proposed levy on foreign-exchange transactions to curb short-term speculative flows.
-- The proposed **Direct Tax Code** in Indian teaching maps to **income-tax** reform — not sales / excise / service tax.
+### Direct vs Indirect Taxation
+- **Direct Taxes:** Taxes levied directly on the income, wealth, or corporate profits of legal entities. The statutory liability (impact) and ultimate economic burden (incidence) reside on the identical taxpayer. Direct taxes are non-shiftable (e.g., Personal Income Tax, Corporation Tax, Securities Transaction Tax).
+- **Indirect Taxes:** Taxes levied on the production, sale, or consumption of commodities and commercial services. The taxpayer legally liable to collect the tax (manufacturers, retailers) shifts the economic incidence to final consumers through price inclusion (e.g., GST, Basic Customs Duty, Central Excise on fuels).
+
+### Tax Progression Classifications
+1. **Progressive Taxation:** The marginal tax rate escalates as taxable income increases (e.g., income tax slabs). It promotes vertical equity by placing higher relative tax burdens on affluent brackets.
+2. **Proportional Taxation:** The tax rate remains flat and uniform across all income levels (e.g., a constant 15% rate irrespective of income magnitude).
+3. **Regressive Taxation:** The effective tax rate decreases as taxable income rises. Indirect consumption taxes often operate regressively because lower-income households spend a significantly larger fraction of their total earnings on basic consumable goods.
+4. **Degressive Taxation:** A hybrid tax architecture where rates rise progressively across initial income brackets, but then level off into a flat, uniform proportional rate for top income brackets. Exam taxonomy frequently classifies the **Indian income tax system as degressive**.
+
+### Specialized Tax Concepts
+- **Direct Tax Code (DTC):** An initiative aimed at consolidating and simplifying direct tax laws, designed to replace the archaic Income Tax Act, 1961.
+- **Tobin Tax:** A proposed transaction tax on spot foreign-currency conversions, conceptualized by Nobel laureate James Tobin to curb volatile, destabilizing short-term cross-border currency speculation.
+- **Pigovian Tax:** A tax levied on commercial activities that generate negative externalities (pollution, environmental degradation) to align private costs with social costs.
+- **Tax Buoyancy vs Tax Elasticity:**
+  - **Tax Buoyancy:** Measures the percentage change in tax revenues relative to the percentage change in GDP, reflecting both economic growth and discretionary tax rate changes.
+  - **Tax Elasticity:** Measures tax revenue growth resulting purely from natural economic expansion, excluding the impact of legislative changes in tax rates or exemptions.
+- **Laffer Curve:** An economic curve illustrating that tax revenues initially rise with higher tax rates, but beyond an optimal tipping point, excessively high tax rates discourage work and investment, ultimately reducing aggregate tax revenues.
 
 **Q-EC3. UKPCS (Pre) 2021**
 
 What kind of Tax System is found in India?
 
-A. Progressive
-B. Degressive
-C. Proportional
-D. Regressive
+A. Progressive  
+B. Degressive  
+C. Proportional  
+D. Regressive  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard PCS key treats India’s income-tax design as degressive — progressive at lower slabs, then more proportional at the top — Degressive
+**Explanation:**  
+- In formal economic taxonomy and competitive examination answer keys, the Indian personal income tax system is categorized as **degressive**. While rates escalate progressively through lower and middle income slabs, they flatten out into a proportional maximum marginal rate for higher income levels.  
 
-**Ans: B.** Degressive
+**Ans: B.** Degressive.
+
 </details>
 
 **Q-EC4. UKPCS (Pre) 2021**
 
 'Tobin Tax' is levied on:
 
-A. on bodies creating externalities
-B. on the basis of weight
-C. on foreign exchange transactions
-D. on the basis of value
+A. on bodies creating externalities  
+B. on the basis of weight  
+C. on foreign exchange transactions  
+D. on international air travel  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** on foreign exchange transactions.
+**Explanation:**  
+- Proposed by Nobel laureate James Tobin in 1972, the **Tobin Tax** is a theoretical levy imposed on spot international foreign exchange transactions to penalize volatile, short-term speculative currency flows while leaving long-term productive investments unaffected.  
 
-**Ans: C.** Tobin tax is the proposed levy on forex transactions.
+**Ans: C.** on foreign exchange transactions.
 
 </details>
 
@@ -361,57 +371,72 @@ D. on the basis of value
 
 Direct Tax Code in India is related to which of the following?
 
-A. Sales Tax
-B. Income Tax
-C. Excise Tax
-D. Service Tax
+A. Sales Tax  
+B. Income Tax  
+C. Excise Tax  
+D. Service Tax  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** DTC is the direct-tax / income-tax reform proposal lane — not an indirect-tax code — Income Tax
+**Explanation:**  
+- The **Direct Tax Code (DTC)** was formulated by the Government of India to consolidate, integrate, and modernize laws relating to direct taxes, specifically aiming to replace the Income Tax Act, 1961 and Wealth Tax Act. Sales tax, excise duty, and service tax are indirect taxes.  
 
-**Ans: B.** Income Tax
+**Ans: B.** Income Tax.
+
 </details>
 
 ---
 
-## 2.5 GST and tax reforms
+## 2.5 The Goods and Services Tax (GST) Architecture
 
-**GST (Goods and Services Tax)** is India’s destination-based, multi-stage value-added tax on the supply of goods and services.
+The **Goods and Services Tax (GST)** represents the most extensive indirect tax reform in independent India's history, replacing a fragmented system of Central and State indirect taxes with a unified, destination-based consumption levy.
 
-- GST needed the **101st Constitutional Amendment**.
-- Rollout from **1 July 2017**.
-- Dual GST: **CGST + SGST / UTGST** on intra-State supply; **IGST** on inter-State supply and imports.
-- GST subsumed State VAT, Central excise (large parts), service tax, entry tax, octroi and related cascading levies.
-- GST did **not** abolish **income tax**, **corporation tax** or ordinary **property tax**.
-- The **GST Council (Article 279A)** is chaired by the **Union Finance Minister**.
-- Centre weight **one-third**, States together **two-thirds**; decisions need a **three-fourths** weighted majority; quorum is **half**.
-- Customs duty remains at the border for imports / exports outside the GST subsumption story.
-- Residual Central excise survives on a few products (petroleum / tobacco teaching lane).
-- **Alcohol for human consumption**, **electricity** and **petroleum products** stay outside GST until the Council recommends a levy date; **ghee** is under GST.
-- A 2004 **Vijay Kelkar** FRBM Task Force recommended a comprehensive GST to replace cascading Central and State VATs (customs kept separate).
-- **Revenue Neutral Rate (RNR)** is a rate structure designed so GST collections match previous revenue.
-- **Input Tax Credit** credits tax paid on inputs used in taxable / zero-rated business supplies and thereby avoids cascading and double taxation.
-- Non-taxable, exempt and nil-rated supplies are **not** eligible for ITC in the standard teaching key; zero-rated exports / SEZ supplies **are**.
-- **Project Saksham** is CBIC’s integrated **indirect tax network** built to support GST and customs facilitation.
-- Budget **2021–22** proposed the **Agriculture Infrastructure and Development Cess (AIDC)** on **29** products.
+### Foundational Principles
+- **Destination-Based Consumption Tax:** GST is collected at the point of final consumption rather than at the point of origin or manufacture. Tax revenues accrue to the State where goods or services are actually consumed.
+- **Value-Added Principle & Input Tax Credit (ITC):** GST is levied at each stage of the supply chain, but businesses can claim an **Input Tax Credit** for taxes paid on input purchases, eliminating the cascading "tax on tax" effect.
+- **Dual GST Model:** Due to India's federal structure, both the Union and States administer GST concurrently:
+  - **CGST (Central GST):** Levied by the Centre on intra-State supplies.
+  - **SGST / UTGST (State / UT GST):** Levied by States / UTs on intra-State supplies.
+  - **IGST (Integrated GST):** Levied by the Centre under **Article 269A** on inter-State supplies and imports. Collected IGST is apportioned between the Union and the destination State based on GST Council formulas.
+
+### Constitutional Architecture
+- **101st Constitutional Amendment Act, 2016:**
+  - **Article 246A:** Grants special concurrent legislative power to Parliament and State Legislatures to enact laws regarding Goods and Services Tax.
+  - **Article 269A:** Provides for the levy and collection of IGST on inter-State trade and imports by the Government of India, with proceeds apportioned between the Centre and States.
+  - **Article 279A:** Mandates the establishment of the **GST Council**.
+- **The GST Council (Article 279A):**
+  - A constitutional federal body established to make recommendations on GST rates, exemptions, model laws, threshold limits, and special provisions for northeastern/hilly states.
+  - **Chairperson:** Union Finance Minister.
+  - **Members:** Union Minister of State for Finance and State Finance/Taxation Ministers.
+  - **Voting Framework:** Decisions require a weighted majority of at least **three-fourths (75%)** of votes present. The Central Government holds **one-third (33.3%)** of total weighted votes; all State Governments together hold **two-thirds (66.7%)**. Thus, neither the Centre nor the States can unilaterally pass decisions without mutual consensus.
+
+### Taxes Subsumed vs Taxes Outside GST
+- **Central Levies Subsumed:** Central Excise Duty, Additional Excise Duties, Service Tax, Additional Customs Duty (CVD), Special Additional Duty of Customs (SAD), and Central surcharges/cesses relating to goods and services.
+- **State Levies Subsumed:** State VAT/Sales Tax, Central Sales Tax (CST), Purchase Tax, Luxury Tax, Entry Tax / Octroi, Entertainment Tax (except when levied by local bodies), Taxes on lotteries/betting, and State surcharges/cesses.
+- **Taxes Kept Outside GST:**
+  1. **Basic Customs Duty (BCD):** Continues as an independent border import tariff.
+  2. **Alcohol for Human Consumption:** Specifically excluded by Article 366(12A); States retain exclusive excise and VAT jurisdiction.
+  3. **Five Petroleum Products:** Petroleum crude, high-speed diesel, motor spirit (petrol), natural gas, and aviation turbine fuel (ATF) are temporarily outside GST; they will enter GST on a date notified by the GST Council.
+  4. **Electricity Duty & Stamp Duty:** Retained by State Governments.
+  5. **Direct Taxes:** Personal Income Tax and Corporation Tax remain entirely outside GST.
 
 **Q-EC6. UPPCS (Pre) 2021**
 
 Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST (Goods and Service Tax) regime?
 
-A. 101st Amendment Act
-B. 102nd Amendment Act
-C. 103 rd Amendment Act
-D. 104 th Amendment Act
+A. 101st Amendment Act  
+B. 102nd Amendment Act  
+C. 103 rd Amendment Act  
+D. 104 th Amendment Act  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 102nd/103rd/104th are other subjects.
+**Explanation:**  
+- The **101st Constitutional Amendment Act, 2016** provided the constitutional framework for introducing GST in India, inserting Articles 246A, 269A, and 279A. (102nd gave constitutional status to NCBC; 103rd granted 10% EWS reservation; 104th extended SC/ST reservation in legislatures).  
 
-**Ans: A.** 101st Amendment is the GST vehicle.
+**Ans: A.** 101st Amendment Act.
 
 </details>
 
@@ -419,17 +444,18 @@ D. 104 th Amendment Act
 
 GST in India was introduced through which Constitutional Amendment Act?
 
-A. 101st Amendment
-B. 91st Amendment
-C. 86th Amendment
-D. 73rd Amendment
+A. 101st Amendment  
+B. 91st Amendment  
+C. 86th Amendment  
+D. 73rd Amendment  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 101st Amendment.
+**Explanation:**  
+- GST was introduced by the 101st Constitutional Amendment Act, 2016, coming into effect on 1 July 2017.  
 
-**Ans: A.** Same 101st key; 73rd is Panchayats, 86th education, 91st size of Council of Ministers teaching.
+**Ans: A.** 101st Amendment.
 
 </details>
 
@@ -437,58 +463,69 @@ D. 73rd Amendment
 
 Which of the following taxes are abolished by the Goods and Services Tax?
 
-A. Property Tax
-B. Corporation Tax
-C. Value Added Tax
-D. Income Tax
+A. Property Tax  
+B. Corporation Tax  
+C. Value Added Tax  
+D. Income Tax  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Income tax, corporation tax and ordinary property tax stayed outside.
+**Explanation:**  
+- GST subsumed indirect levies including State Value Added Tax (VAT), Central Excise Duty, and Service Tax. Direct taxes (Corporation Tax, Income Tax) and municipal property taxes remain outside GST.  
 
-**Ans: C.** GST subsumed VAT (and related indirect levies).
+**Ans: C.** Value Added Tax.
 
 </details>
 
 ---
 
-## 2.6 Finance Commission and fiscal federalism
+## 2.6 The Finance Commission and Fiscal Federalism
 
-**Fiscal federalism** shares tax proceeds and grants between the Union and the States under a constitutional design.
+**Fiscal federalism** establishes the structural mechanisms governing the division of revenue collection powers, expenditure responsibilities, and tax devolution between the Union and the States under the Constitution of India.
 
-### Finance Commission
+### The Finance Commission (Article 280)
+- **Constitutional Status:** The Finance Commission is an independent quasi-judicial body constituted by the **President of India under Article 280** every fifth year or earlier.
+- **Composition:** Under Article 280(1), the Commission consists of a **Chairman and four other members** appointed by the President.
+- **Qualifications:** Under Article 280(2), **Parliament by law determines the qualifications** of members (*Finance Commission (Miscellaneous Provisions) Act, 1951*):
+  - Chairman: A person having experience in public affairs.
+  - Members: Qualified as High Court judges; having specialized knowledge of government finances and accounts; wide administrative and financial experience; or special knowledge of economics.
+- **Core Functions (Article 280(3)):**
+  1. **Vertical Devolution:** Recommending the distribution between the Union and States of the net proceeds of divisible taxes.
+  2. **Horizontal Devolution:** Recommending the allocation among States of their respective shares of tax revenue.
+  3. **Grants-in-Aid:** Formulating the principles governing statutory grants-in-aid to State revenues under **Article 275**.
+  4. **Panchayat and Municipal Augmentation:** Suggesting measures to augment State Consolidated Funds to supplement local government resources based on recommendations of State Finance Commissions.
+- **Reporting Procedure (Article 281):** The Commission submits its report to the **President**, who causes it, along with an action-taken memorandum, to be laid before each House of Parliament. The Commission **does not report to NITI Aayog**.
 
-- The **Finance Commission** is a constitutional body under **Article 280**.
-- The President constitutes it roughly every **five years**.
-- Its **primary duty** is to recommend the distribution of the net proceeds of taxes between the Union and the States, and the allocation among States.
-- It also recommends principles for grants-in-aid and measures to augment State Consolidated Funds for local bodies (73rd / 74th follow-through).
-- It does **not** prepare the Union Budget — that is the Finance Ministry / Budget Division lane.
-- It does **not** allocate ministry-wise departmental funds day to day.
-- The **First Finance Commission** was chaired by **K.C. Neogy**.
-- Recent commissions (14th / 15th) raised States’ share of the divisible pool and set horizontal devolution formulae — year-sensitive in CA.
-
-### Related federal tools
-
-- **GST Council** manages GST rates and related decisions (Section 2.5).
-- Centrally Sponsored Schemes and Finance Commission grants together shape State finances.
-- Vertical devolution = Centre–States share; horizontal devolution = among States.
+### Devolution Benchmarks
+- **Vertical Devolution Milestones:**
+  - **13th Finance Commission (Dr. Vijay Kelkar):** Recommended a 32% share for States.
+  - **14th Finance Commission (Dr. Y.V. Reddy):** Raised the States' share substantially from 32% to **42%**, providing States with enhanced untied fiscal autonomy.
+  - **15th Finance Commission (N.K. Singh):** Maintained vertical devolution at **41%** (adjusting 1% to provide resources for the newly created Union Territories of Jammu & Kashmir and Ladakh).
+- **15th Finance Commission Horizontal Devolution Formula:**
+  - **Income Distance:** 45.0% (equity criterion rewarding poorer states).
+  - **Population (2011 Census):** 15.0%.
+  - **Area:** 15.0%.
+  - **Forest & Ecology:** 10.0%.
+  - **Demographic Performance:** 12.5% (incentivizing states that controlled Total Fertility Rate).
+  - **Tax & Fiscal Efforts:** 2.5%.
 
 **Q-EC9. UPPCS (Pre) 2021**
 
 The primary duty of the Finance Commission of India is
 
-A. To give the recommendations on distribution of tax revenue between the Union and States
-B. To prepare the Union Annual Budget
-C. To advise the President on financial matters
-D. To allocate funds to various Ministries/ Departments of the Union and State Governments
+A. To give the recommendations on distribution of tax revenue between the Union and States  
+B. To prepare the Union Annual Budget  
+C. To advise the President on financial matters  
+D. To allocate funds to various Ministries/ Departments of the Union and State Governments  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Budget preparation is the Finance Ministry / Budget Division lane.
+**Explanation:**  
+- Under Article 280(3)(a), the primary constitutional duty of the Finance Commission is to make recommendations to the President regarding the distribution between the Union and the States of the net proceeds of divisible taxes, and the allocation among the States of their respective shares. Budget preparation and departmental allocations are functions of the Ministry of Finance.  
 
-**Ans: A.** Core duty is recommending distribution of net tax proceeds between Union and States (plus related grant / local-body heads).
+**Ans: A.** To give the recommendations on distribution of tax revenue between the Union and States.
 
 </details>
 
@@ -496,40 +533,45 @@ D. To allocate funds to various Ministries/ Departments of the Union and State G
 
 Who among the following was the Chairman of the First Finance Commission of India?
 
-A. Shri. Santhanam
-B. Shri. K. C. Neogy
-C. Dr. Raj Mannar
-D. Shri. A. K. Chanda
+A. Shri. Santhanam  
+B. Shri. K. C. Neogy  
+C. Dr. Raj Mannar  
+D. Shri. A. K. Chanda  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First FC Chair is K.C — Shri
+**Explanation:**  
+- The First Finance Commission was appointed in 1951 under the chairmanship of **K.C. Neogy** (covering the award period 1952–57). K. Santhanam chaired the 2nd FC, A.K. Chanda the 3rd, and Dr. P.V. Rajamannar the 4th.  
 
-**Ans: B.** Shri.
+**Ans: B.** Shri. K. C. Neogy.
+
 </details>
 
 **Q-EC11. UPPCS (Pre) 2021**
 
 Given below are two statements one is labelled as Assertion (A) and other as Reason (R):
 
-**Assertion (A):** The President of India determines the qualifications of the Chairman and Members of the Finance Commission.
+Assertion (A): The President of India determines the qualifications of the Chairman and Members of the Finance Commission.
 
-**Reason (R):** Chairman and members are appointed by the President of India.
+Reason (R): Chairman and members are appointed by the President of India.
 
-Select the correct answer using the codes given below.
+Select the correct answer from the codes given below:
 
-A. Both (A) and (R) are true and (R) is correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A).  
+C. (A) is true, but (R) is false.  
+D. (A) is false, but (R) is true.  
 
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** is false, but (R) is true
+**Explanation:**  
+- **Assertion (A) is false:** Under Article 280(2) of the Constitution, **Parliament may by law determine the qualifications** of the Chairman and members of the Finance Commission. Parliament enacted the *Finance Commission (Miscellaneous Provisions) Act, 1951* for this purpose; the President does not prescribe qualifications.  
+- **Reason (R) is true:** Under Article 280(1), the Chairman and members are appointed by the President of India.  
 
-**Ans: D.** (A) is false, but (R) is true
+**Ans: D.** (A) is false, but (R) is true.
+
 </details>
 
 **Q-EC12. UPPCS (Pre) 2023**
@@ -541,17 +583,19 @@ With reference to the Union Finance Commission, which of the following statement
 
 Select the correct answer using the code given below:
 
-A. Only 2
-B. Both 1 and 2
-C. Only 1
-D. Neither 1 nor 2
+A. Only 2  
+B. Both 1 and 2  
+C. Only 1  
+D. Neither 1 nor 2  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Report goes to the President, not NITI.
+**Explanation:**  
+- **Statement 1 is incorrect:** Under Article 280(1), the Finance Commission consists of a Chairman and **four other members** (total five persons).  
+- **Statement 2 is incorrect:** Under Article 280(3) and Article 281, the Finance Commission submits its report to the **President of India**, who causes it to be laid before each House of Parliament, not to NITI Aayog.  
 
-**Ans: D.** Composition is Chair + four other members.
+**Ans: D.** Neither 1 nor 2.
 
 </details>
 
@@ -559,17 +603,18 @@ D. Neither 1 nor 2
 
 According to the 14th Finance Commission, the percentage share of States in the net proceeds of the shareable Central tax revenue should be
 
-A. 32 percent
-B. 35 percent
-C. 40 percent
-D. 42 percent
+A. 32 percent  
+B. 35 percent  
+C. 40 percent  
+D. 42 percent  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Reddy) raised the States’ share to 42%.
+**Explanation:**  
+- The 14th Finance Commission chaired by Dr. Y.V. Reddy recommended a record increase in vertical devolution from 32% to **42%** of the net divisible pool of Central taxes. (The 15th FC adjusted this to 41% after the reorganization of Jammu & Kashmir).  
 
-**Ans: D.** 14th FC (Y.V.
+**Ans: D.** 42 percent.
 
 </details>
 
@@ -580,50 +625,62 @@ Match List-I with List-II and select the correct answer using the code given bel
 | List-I (Finance Commission) | List-II (Chairman) |
 |---|---|
 | A. Eleventh Finance Commission | 1. Dr. C. Rangarajan |
-| B. Twelfth Finance Commission | 2. Dr. Y. V. Reddy |
-| C. Thirteenth Finance Commission | 3. Prof. A. M. Khusro |
-| D. Fourteenth Finance Commission | 4. Dr. Vijay L. Kelkar |
+| B. Twelfth Finance Commission | 2. A.M. Khusro |
+| C. Thirteenth Finance Commission | 3. Dr. Y.V. Reddy |
+| D. Fourteenth Finance Commission | 4. Dr. Vijay Kelkar |
 
-Select the correct answer from the code given below:
+Select the correct answer from the codes given below:
 
-A. 3 1 4 2
-B. 2 3 4 1
-C. 3 2 1 4
-D. 1 3 2 4
-
-*Row order is not the answer code.*
+A. A-2, B-1, C-4, D-3  
+B. A-1, B-2, C-3, D-4  
+C. A-2, B-4, C-1, D-3  
+D. A-3, B-1, C-4, D-2  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Code 3 1 4 2.
+**Explanation:**  
+- 11th Finance Commission = A.M. Khusro (A-2)  
+- 12th Finance Commission = Dr. C. Rangarajan (B-1)  
+- 13th Finance Commission = Dr. Vijay Kelkar (C-4)  
+- 14th Finance Commission = Dr. Y.V. Reddy (D-3)  
+- Correct matching: A-2, B-1, C-4, D-3.  
 
-**Ans: A.** 11th Khusro (3); 12th Rangarajan (1); 13th Kelkar (4); 14th Reddy (2).
+**Ans: A.** A-2, B-1, C-4, D-3.
 
 </details>
 
 ---
 
-## Teaching expansion — additional theory (beyond Consolidated spine)
+## Supplementary Concepts & High-Yield Theoretical Notes
 
-These points sit in teaching theory (not the Consolidated spine).
+### Institutional Departments under the Ministry of Finance
+The Union Ministry of Finance comprises six functional departments:
+1. **Department of Economic Affairs (DEA):** Prepares the Union Budget, formulates economic policy, and monitors capital markets.
+2. **Department of Expenditure:** Oversees central government spending, public financial management, and financial rules.
+3. **Department of Revenue:** Administers direct and indirect taxes through the Central Board of Direct Taxes (CBDT) and Central Board of Indirect Taxes and Customs (CBIC).
+4. **Department of Investment and Public Asset Management (DIPAM):** Manages disinvestment, asset monetization, and government equity in CPSEs.
+5. **Department of Financial Services (DFS):** Regulates public sector banks, financial institutions, insurance companies, and pension reforms. (Note: A standalone "Banking Division" is an internal wing within DFS, not an independent department).
+6. **Department of Public Enterprises (DPE):** Coordinates policy for Central Public Sector Enterprises (transferred to MoF in 2021).
 
-- **Finance Commission (Art. 280)** recommends tax devolution and grants; it is a constitutional body.
-- **CGST / SGST** apply on intra-state supplies; **IGST** on inter-state supplies.
-- **Laffer Curve** teaching: beyond a point, higher tax rates can reduce collections.
-- **Pigovian tax** corrects negative externalities by taxing the harmful activity.
-- **Guillotine** teaching: remaining demands are put to vote without full discussion at the session’s end.
-- **Input Tax Credit (ITC)** under GST prevents tax-on-tax by crediting tax paid on inputs.
-- **Tax buoyancy** measures responsiveness of tax revenue to GDP growth.
-- MoF departments teaching: Economic Affairs, Expenditure, Revenue, DIPAM, Financial Services, Public Enterprises — **“Banking Division” is not** a standalone MoF department in the keyed list.
-- In a recession, governments typically **raise public expenditure** and/or cut taxes (fiscal stimulus).
-- **Agriculture Infrastructure and Development Cess (AIDC)** in Budget 2021–22 was proposed on **29** products.
+### Key Budgetary Reforms & Terminology
+- **Guillotine in Parliament:** On the last day allocated for the discussion of Demands for Grants in Lok Sabha, the Speaker puts all remaining undiscovered demands to vote without further discussion to meet financial calendar deadlines.
+- **Zero-Based Budgeting (ZBB):** Requires every administrative program to be justified from ground zero each budget cycle, evaluating cost-benefit afresh rather than incrementally adjusting the previous year's baseline.
+- **Agriculture Infrastructure and Development Cess (AIDC):** Introduced in Budget 2021–22 on 29 specified imported and excise commodities (including fuels and agricultural imports) to finance rural infrastructure without increasing overall consumer tax burden.
+- **Economic Survey Terminology ("Chakravyuha Challenge"):** The Economic Survey 2015–16 highlighted India's transition from "socialism with limited entry" to "marketism without exit", emphasizing the administrative and legal impediments that prevent unviable, failing businesses from exiting the market.
+
+---
 
 ## Complete PYQ Bank (UPPCS)
 
 **Q1. UPPCS (Pre) 2023**
 
-Union Finance Commission: Chair + six members? Report to NITI?
+With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
+
+1. Finance Commission has a Chairman and six members.
+2. It submits its report to the NITI Aayog.
+
+Select the correct answer using the code given below:
 
 A. Only 2
 B. Both 1 and 2
@@ -641,6 +698,8 @@ D. Neither 1 nor 2
 
 **Q2. UPPCS (Pre) 2021**
 
+The primary duty of the Finance Commission of India is:
+
 A. Recommendations on distribution of tax revenue between Union and States
 B. Prepare the Union Annual Budget
 C. Advise the President on financial matters
@@ -656,10 +715,12 @@ D. Allocate funds to Ministries / Departments
 
 **Q3. UPPCS (Pre) 2021**
 
-A. Santhanam
-B. K. C. Neogy
-C. Raj Mannar
-D. A. K. Chanda
+Who among the following was the Chairman of the First Finance Commission of India?
+
+A. Shri. Santhanam
+B. Shri. K. C. Neogy
+C. Dr. Raj Mannar
+D. Shri. A. K. Chanda
 
 <details>
 <summary>Show answer</summary>
@@ -670,6 +731,14 @@ D. A. K. Chanda
 </details>
 
 **Q4. UPPCS (Pre) 2021**
+
+Given below are two statements, one is labelled as Assertion (A) and other as Reason (R):
+
+Assertion (A): The President of India determines the qualifications of the Chairman and Members of the Finance Commission.
+
+Reason (R): Chairman and members are appointed by the President of India.
+
+Select the correct answer from the codes given below:
 
 A. Both true and R explains A
 B. Both true but R does not explain A
@@ -686,10 +755,12 @@ D. A false, R true
 
 **Q5. UPPCS (Pre) 2021**
 
-A. 101st
-B. 102nd
-C. 103rd
-D. 104th
+Which of the following Constitution Amendment Acts made necessary provisions for the implementation of the GST (Goods and Services Tax) regime?
+
+A. 101st Amendment Act
+B. 102nd Amendment Act
+C. 103rd Amendment Act
+D. 104th Amendment Act
 
 <details>
 <summary>Show answer</summary>
@@ -701,10 +772,12 @@ D. 104th
 
 **Q6. UPPCS (Pre) 2024**
 
-A. 101st
-B. 91st
-C. 86th
-D. 73rd
+GST in India was introduced through which Constitutional Amendment Act?
+
+A. 101st Amendment
+B. 91st Amendment
+C. 86th Amendment
+D. 73rd Amendment
 
 <details>
 <summary>Show answer</summary>
@@ -733,6 +806,8 @@ D. 1 2 3 4
 
 **Q8. UPPCS (Pre) 2018**
 
+Direct Tax Code in India is related to which of the following?
+
 A. Sales Tax
 B. Income Tax
 C. Excise Tax
@@ -748,10 +823,12 @@ D. Service Tax
 
 **Q9. UPPCS (Pre) 2021**
 
-A. 265
-B. 266
-C. 267
-D. 268
+Which of the following Articles of the Indian Constitution is related to the Contingency Fund of India?
+
+A. Article 265
+B. Article 266
+C. Article 267
+D. Article 268
 
 <details>
 <summary>Show answer</summary>
@@ -856,6 +933,8 @@ D. Twenty years interest free loans to States
 </details>
 
 **Q15. UPPCS (Pre) 2017**
+
+Project 'Saksham' approved by the Government of India is related to:
 
 A. Skill development of SC and ST population
 B. A military unit for effective disaster management
@@ -1765,6 +1844,8 @@ Extra Drill: **full** Ghatnachakra Fiscal Policy & Revenue coverage — IAS, BPS
 
 **Q1. Extra Drill (Art. 112 / Budget)**
 
+Under Article 112 of the Constitution of India, the Union Budget is officially introduced as the:
+
 A. Contingency Fund
 B. Annual Financial Statement of the Union
 C. GST Council
@@ -1870,8 +1951,10 @@ D. 4 1 2 3
 
 **Q6. Extra Drill (Public Account)**
 
+The Public Account of India under Article 266(2) of the Constitution accounts for:
+
 A. Only income-tax collections of the year
-B. Moneys where government acts as banker / trustee (PF, deposits teaching)
+B. Moneys where government acts as banker / trustee (provident funds, small savings, judicial deposits)
 C. Only RBI’s foreign exchange reserves
 D. Only GST compensation cess forever outside accounts
 
@@ -4744,6 +4827,8 @@ D. Total expenditure - Disinvestment receipts
 ## UKPCS Prelims Bank
 **Q1. UKPCS (Pre) 2016**
 
+According to the 14th Finance Commission, the percentage share of States in the net proceeds of shareable Central tax revenue was recommended to be:
+
 A. 32%
 B. 35%
 C. 40%
@@ -4758,6 +4843,8 @@ D. 42%
 </details>
 
 **Q2. UKPCS (Pre) 2021**
+
+What kind of tax system is found in India?
 
 A. Progressive
 B. Degressive
@@ -4774,6 +4861,8 @@ D. Regressive
 
 **Q3. UKPCS (Pre) 2021**
 
+A 'Tobin Tax' is a proposed tax levied on:
+
 A. Externalities
 B. Weight basis
 C. Foreign exchange transactions
@@ -4788,6 +4877,8 @@ D. Value basis
 </details>
 
 **Q4. UKPCS (Pre) 2021**
+
+Which of the following taxes was abolished / subsumed by the Goods and Services Tax (GST)?
 
 A. Property Tax
 B. Corporation Tax
@@ -4849,6 +4940,8 @@ D. 2 and 3
 
 **Q2. Practice Zone (primary deficit)**
 
+Primary Deficit in the Union Budget is calculated as:
+
 A. Revenue deficit + fiscal deficit
 B. Fiscal deficit + interest payments
 C. Fiscal deficit − interest payments
@@ -4863,6 +4956,8 @@ D. Revenue receipts − capital receipts
 </details>
 
 **Q3. Practice Zone (revenue deficit)**
+
+Revenue Deficit in government accounts refers to the excess of:
 
 A. Revenue expenditure − revenue receipts
 B. Capital expenditure − capital receipts
@@ -5375,19 +5470,26 @@ D. 2 and 3
 **Ans: B.** 1 and 2
 </details>
 
-## Common Traps
+## Common Traps & High-Yield Conceptual Clarifications
 
-* FC = Chair + **four** (not six); report to **President** (not NITI); qualifications by **Parliament** (not President).
-* 14th FC **42%** vs 15th FC **41%**; do not swap Rangarajan (12th) and Reddy (14th).
-* GST = **101st** Amendment; Council chaired by **Union FM**; Centre weight **1/3**.
-* GST subsumed **VAT** and related indirect taxes — not income / corporation / ordinary property tax.
-* **Customs**, **alcohol for human consumption**, **electricity** and **petroleum** stay outside GST until notified.
-* Contingency Fund **267** ≠ Consolidated Fund / Public Account **266**.
-* Fiscal deficit = borrowing need; primary deficit strips interest; revenue deficit is the current gap.
-* DTC → **Income Tax**; Tobin → **forex**; India PCS key for tax-system type → **Degressive**.
-* FRBM (2003) disciplines deficits; Macro-Economic Framework Statement is an **FRBM** document — not Art. 112 alone.
-* AFS is laid by the **FM on behalf of the President** — not the Prime Minister; demands need the **President’s** recommendation.
-* Fiscal policy = **MoF** (tax / spend); monetary policy = **RBI** (rates / CRR).
-* Policy Cut = **₹1**; Token Cut = **₹100**; Vote on Account ≠ full-year grant.
-* Gender Budget start = **2005–06**; TEC India ≠ Educate India; Saptarishi = 2023–24; Viksit Bharat 2024–25 nine priorities exclude “Sustainable Development”.
-* Chakravyuha = **marketism without exit**; tax/GDP and FD/GDP have **not** risen steadily every year.
+* **Constitutional Funds:** Consolidated Fund of India and Public Account are established under **Article 266**; the Contingency Fund of India is established under **Article 267**. **Article 265** establishes that no tax shall be levied or collected except by authority of law.
+* **Annual Financial Statement Authority:** Under Article 112, the budget is presented by the **Finance Minister on behalf of the President of India**, not on behalf of the Prime Minister. Demands for grants require prior presidential recommendation (Article 113(3)).
+* **Finance Commission Structure:** Comprises a Chairman and **four other members** (total five). Qualifications are prescribed by **Parliament by law** (*1951 Act*), not by the President. The Commission submits its report to the **President of India** under Article 280(3), never to NITI Aayog.
+* **Vertical Devolution Percentages:** 14th Finance Commission recommended **42%** devolution to States; 15th Finance Commission adjusted this to **41%** to account for the newly carved Union Territories of Jammu & Kashmir and Ladakh.
+* **Deficit Formulas:**
+  - $\text{Revenue Deficit} = \text{Revenue Expenditure} - \text{Revenue Receipts}$
+  - $\text{Fiscal Deficit} = \text{Total Expenditure} - (\text{Revenue Receipts} + \text{Non-Debt Capital Receipts})$
+  - $\text{Primary Deficit} = \text{Fiscal Deficit} - \text{Interest Payments}$
+  - $\text{Effective Revenue Deficit} = \text{Revenue Deficit} - \text{Grants for Creation of Capital Assets}$
+* **GST Constitutional Framework:** Enacted by the **101st Constitutional Amendment Act, 2016** (effective 1 July 2017). Dual GST features CGST + SGST on intra-State supplies and IGST on inter-State supplies and imports.
+* **GST Council Voting:** Chaired by the **Union Finance Minister** under Article 279A. Central Government holds 1/3rd weighted vote; all States together hold 2/3rd weighted vote; decisions require a 3/4th (75%) weighted majority.
+* **Taxes Outside GST:** Basic Customs Duty, alcohol for human consumption, stamp duties, electricity duty, and five petroleum products (crude, petrol, diesel, aviation turbine fuel, natural gas) remain outside current GST collections.
+* **Direct Tax Code Focus:** DTC targets direct taxes (**Income Tax and Corporate Tax**), not indirect commodity taxes.
+* **Tobin Tax Target:** Specifically targets spot **foreign-exchange transactions** to penalize currency speculation; it is not an environmental or domestic wealth tax.
+* **Progressive vs Degressive:** The Indian income tax system is structurally **degressive** (progressive across lower and middle slabs, flattening into a proportional rate at the top).
+* **Charged vs Voted Expenditure:** Expenditure charged on the Consolidated Fund (e.g., President's emoluments, Supreme Court judges' salaries, debt interest) is discussed by Parliament but **not submitted to the vote of Lok Sabha**.
+* **FRBM Disclosures:** The Macro-Economic Framework Statement is mandated statutorily by the **FRBM Act, 2003**, not by Article 112 alone.
+* **Largest Expenditure Head:** **Interest payments** represent the largest single revenue expenditure outgo in the Union Budget.
+* **Cut Motions:** A Policy Cut reduces a demand to **₹1**; an Economy Cut reduces it by a specified amount; a Token Cut reduces it by **₹100**.
+* **Vote on Account:** An advance interim expenditure grant under **Article 116(a)**; an Interim Budget is a full budget presented prior to general elections.
+* **Project Saksham:** An indirect tax IT modernization project of CBIC supporting nationwide digital GST operations.

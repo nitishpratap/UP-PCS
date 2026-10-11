@@ -1,192 +1,192 @@
-﻿# Economy Topic 1 — Indian Economy: Basics, Evolution and Economic Planning
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
+# Economy Topic 1 — Indian Economy: Basics, Evolution and Economic Planning
+### ★ UPPCS Revision Sheet — Standard Textbook & High-Yield Analysis
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Features of Indian economy | Growth vs development | National income (GDP family) | Economic planning, Five-Year Plans, NITI Aayog | LPG reforms | Mixed economy | Business cycle
+Salient features of the Indian economy | Economic growth vs economic development | National income accounting (GDP, GNP, NDP, NNP, GVA) | History of economic planning, Five-Year Plans, and NITI Aayog | Economic reforms (1991 LPG model) | Nature of mixed economy | Business cycle dynamics
 
 </details>
 
-> **Sources baked in:** NCERT Class 11–12 Indian Economic Development / Macroeconomics basics, Ghatnachakra *Economic & Social Development* (Nature + NI + Planning), UPPCS / UKPCS / UPSC / BPSC / RAS / MPPSC / CGPSC stems
-> **Weight:** ★★★ High — mixed economy, NI identities, Concurrent-List planning, NDC/NITI/DMEO, FYP themes, Hindu rate, COR, and growth≠development decide stems
-> **Last verified:** September 2026
+> **Core References:** NCERT Class 11 (Indian Economic Development) & Class 12 (Macroeconomics), Ghatnachakra *Economic & Social Development*, Economic Survey, and UPPCS/UKPCS/UPSC Prelims archives.
+> **Significance:** ★★★ High — Mixed economy attributes, national income identities, Planning Commission vs NITI Aayog structures, Five-Year Plan themes, Hindu rate of growth, and Capital-Output Ratio (COR).
+> **Last verified:** Academic Year 2026
 
-Budget / tax deepens in Economy Topic 2. Money / banking deepens in Topic 3. Inflation indices deepen in Topic 4. Poverty and HDI deepen in Topic 8. This chapter owns structure, national income arithmetic, planning institutions and 1991-era reforms.
+*Note:* Public finance, budgeting, and taxation are detailed in **Economy Topic 2**. Money, banking, and RBI mechanisms are covered in **Topic 3**. Inflation indices are explored in **Topic 4**. Poverty, unemployment, and human development are detailed in **Topic 8**. This foundational chapter establishes structural characteristics, national income arithmetic, planning machinery, and post-reform transitions.
 
 ---
 
-## Current Affairs
+## Current Affairs & Contemporary Highlights
 
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2026 (MoSPI)** | New National Accounts series with base year **2022–23** (released **27 Feb 2026**); replaces **2011–12**. | Real GDP uses 2022–23 prices; do not quote 2011–12 as current base. |
-| **2025 (NITI FHI)** | **Fiscal Health Index 2025** (FY **2022–23**): **Odisha** topped major States; **Uttar Pradesh** scored **45.9** (7th). | NITI index ranking + UP score stems. |
-| **2025 (UKPCS)** | NITI set up by **Cabinet resolution**; date is **1 Jan 2015** (not 2014); Chairperson is the **Prime Minister** (not President). | Only the resolution statement stands. |
-| **2025 (UKPCS)** | **11th Plan** keyed for **inclusive growth**. | 12th adds sustainable; do not swap. |
-| **2024** | India = **underdeveloped / developing** (textbook structure) + **mixed economy**. Keynes ≠ “Father of Economics”. | Adam Smith is the classical father tag. |
-| **2024** | Development = living standards / welfare; **per capita income growth alone is not enough**. | Growth ≠ development A/R. |
-| **2023 (UPPCS)** | **Voluntary social service** is **not** an economic activity. | Farming / transport / service are. |
-| **2015+** | **DMEO** (18 Sep 2015) is an attached office of **NITI Aayog** (PEO + IEO merged). | Monitor/evaluate GoI programmes — not PMO / Cabinet Secretariat. |
+| Reference Year | Key Institutional & Macroeconomic Fact | Conceptual Importance & Exam Relevance |
+|---|---|---|
+| **2026 (MoSPI)** | Central Statistics Office released a new National Accounts series adopting base year **2022–23** (effective **27 February 2026**), replacing the previous **2011–12** series. | Real GDP and growth estimates are calculated using 2022–23 constant prices; 2011–12 is no longer the operational base. |
+| **2025 (NITI FHI)** | In NITI Aayog's **Fiscal Health Index 2025** (evaluating FY 2022–23), **Odisha** secured the 1st position among major States; **Uttar Pradesh** achieved a composite score of **45.9** (ranking 7th). | Highlights state rankings in public financial management indices and Uttar Pradesh's specific performance. |
+| **2025 (UKPCS / UPPCS)** | NITI Aayog was established via an **Executive Cabinet Resolution** on **1 January 2015** (not 2014); its ex-officio Chairperson is the **Prime Minister** (not the President). | Reinforces the non-statutory, extra-constitutional character of NITI Aayog and its executive lineage. |
+| **2025 (UKPCS)** | The **11th Five-Year Plan (2007–12)** adopted the targeted objective of **"Towards Faster and More Inclusive Growth"**. | Distinguished from the 12th Plan, which explicitly incorporated the keyword **"Sustainable"**. |
+| **2024 (UPPCS)** | India is structurally classified as a **developing / underdeveloped** economy characterized by a **mixed economy** framework; **Adam Smith** is the classical Father of Economics, whereas **J.M. Keynes** is the father of modern macroeconomics. | Core conceptual classification question distinguishing classical economic taxonomy from modern macroeconomic pioneers. |
+| **2024 (UPPCS)** | Economic development emphasizes multi-dimensional living standards and human welfare; **growth in per capita income alone is not a sufficient condition**. | Fundamental conceptual distinction between quantitative growth and qualitative socio-economic development. |
+| **2023 (UPPCS)** | **Voluntary social service** is categorized as a non-monetized, non-economic activity, whereas agriculture, manufacturing, transport, and commercial services are economic activities. | Clarifies the definition of economic activity based on monetary transaction and material gain. |
+| **2015 onwards** | The **Development Monitoring and Evaluation Office (DMEO)** was established on **18 September 2015** as an attached office under **NITI Aayog** (merging PEO and IEO). | Responsible for independent monitoring and evaluation of Government of India welfare schemes. |
 
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
 <summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. India is a **mixed economy** — public and private sectors coexist. The balance shifted toward markets after **1991**, but public enterprise did not vanish.
-2. Standard school texts still call India an **underdeveloped / developing** economy on structural grounds (low per capita income historically, large agri workforce share, poverty / underemployment, technology gaps) even while absolute GDP size is large.
-3. **Adam Smith** is commonly called the **Father of Economics**. **J.M. Keynes** is the father of modern **macroeconomics**, not the blanket “Father of Economics” tag.
-4. India is also keyed as a **labour-surplus** economy (large workforce at low wages) — not capital-surplus or trade-surplus.
-5. Underdeveloped traits that decide stems: **low per capita income** and **low capital formation**. **Low dependency ratio** and a **tertiary-heavy workforce** are developed-economy tags.
-6. **Voluntary social service** is **not** an economic activity; farming, transport and market services are.
-7. **Economic growth** is a rise in real output / real income. The best single sign among options is a **sustained rise in real per capita income**.
-8. **Economic development** is broader — living standards, welfare, health, education, inequality and poverty outcomes.
-9. Growth in **per capita income is not a sufficient measure of development**. Real GNP rise does **not** mean development if **poverty and unemployment** worsen.
-10. **Hindu rate of growth** (Prof. **Raj Krishna**) = stagnant **National Income / GDP** growth around **~3.5%** from the 1950s to early 1980s.
-11. **GDP** is the market value of all **final** goods and services produced **within the domestic territory** in a period.
-12. **GNP / GNI** adjusts domestic product for **net factor income from abroad** (NFIA): roughly GNP = GDP + NFIA.
-13. **NDP** = GDP − depreciation (never GDP + depreciation). **NNP** = GNP − depreciation. Also NNP = GDP + NFIA − depreciation.
-14. **National Income** in older Indian teaching is **NNP at factor cost** (NNPFC) = GNPMp − depreciation − indirect taxes + subsidies.
-15. **Real GDP** uses constant (base-year) prices. **Nominal GDP** uses **current** market prices.
-16. **Base year** = the year whose **prices** are used for **real** GDP. Current National Accounts base (from **Feb 2026**): **2022–23**. Previous major base: **2011–12** (from 2015).
-17. Three approaches to measuring national income: **product (value added)**, **income**, and **expenditure**. **Diminishing-cost method** is **not** a GDP method.
-18. Intermediate goods are excluded from GDP to avoid **double counting**. Only final goods (or value added) count.
-19. **NSO** (MoSPI) estimates / releases National Income. **CSO + NSSO** merged into NSO in **2019**. Older keys naming CSO are historically true.
-20. First NI estimate: **Dadabhai Naoroji** (1867–68; PCI about **Rs 20**). First **scientific** estimate: **V.K.R.V. Rao** (1931–32). **1949 National Income Committee** chaired by **P.C. Mahalanobis** (members Gadgil, V.K.R.V. Rao).
-21. **High capital–output ratio (COR)** explains low growth despite high savings. Slow PCI also tracks **high population growth**.
-22. **Household sector** dominates India’s gross domestic savings. Within household savings, **physical assets** usually outrank deposits / currency / shares.
-23. Largest State economy by NSDP: **Maharashtra**. Lowest State PCI: **Bihar**. Highest PCI end: **Sikkim** (Goa among the top States).
-24. **Economic and Social Planning** sits in the **Concurrent List (List-III)** of the Seventh Schedule — joint Centre–State domain.
-25. **Planning Commission** was set up by **Cabinet resolution** on **15 March 1950**. It was **non-constitutional** and **non-statutory** — an advisory / quasi-political body.
-26. **NITI Aayog** replaced the Planning Commission from **1 January 2015** by **Union Cabinet resolution**. It is a policy think tank — neither constitutional nor statutory.
-27. **Prime Minister** is Chairperson of NITI Aayog. NITI has a full-time **Vice-Chairperson**, not a full-time Chairman.
-28. First NITI Vice-Chairperson: **Arvind Panagariya** (Jan 2015–Aug 2017). First CEO: **Sindhushree Khullar**; Amitabh Kant followed; later CEO teaching tag includes **B.V.R. Subrahmanyam**.
-29. NITI promotes **cooperative and competitive federalism**. It does **not** allocate old Plan funds the way the Planning Commission did.
-30. NITI Governing Council includes the PM, Chief Ministers of States / UTs with legislatures, and Lt Governors of other UTs — **not State Governors** as a class.
-31. **NITI Aayog** is the **nodal institution** for implementing the **Sustainable Development Goals (SDGs)** in India.
-32. **DMEO** (Development Monitoring and Evaluation Office) was set up on **18 September 2015** as an **attached office of NITI Aayog** by merging **PEO** and **IEO**.
-33. **NDC (National Development Council)** was constituted on **6 August 1952**. The **Prime Minister** is its ex-officio Chairman.
-34. NDC’s keyed role was **approval / review of Five-Year Plans** — the final plan-approval authority in the Planning Commission era. It has had little work since NITI’s Governing Council, but no formal abolition resolution has closed it.
-35. **Finance Commission** is **constitutional (Art. 280)**; Planning Commission was **non-constitutional**. FC focuses on tax devolution / grants; Planning reviewed both capital and revenue plan needs of States.
-36. Five-Year Plans ran from the **First Plan (1951–56)** through the **Twelfth Plan (2012–17)** — the **last** FYP before NITI’s vision–strategy–action style.
-37. **First Plan** stressed agriculture, irrigation and power (**Harrod–Domar** influence teaching). Planned development model dates from **1 April 1951**.
-38. **Second Plan** (**Mahalanobis**) stressed heavy / capital-goods industry, public-sector industry and a **socialistic pattern of society** (IPR 1956).
-39. **Plan Holiday (1966–69)** meant three Annual Plans after war, drought and forex stress — not a Five-Year Plan.
-40. **Fifth Plan** twin goals: **Garibi Hatao** (poverty removal) and **self-reliance** (zero net foreign aid teaching). It was terminated early (1978) by the Janata government.
-41. **Eleventh Plan (2007–12)** — **Towards Faster and More Inclusive Growth**; GDP target **9%**; agri **4%**; industry ~**10–10.5%**; social sector largest combined expenditure share.
-42. **Twelfth Plan (2012–17)** — **Faster, More Inclusive and Sustainable Growth**; NDC finally approved **8%** GDP (Approach had floated 9%); agri/forestry/fisheries **4%**; social services largest allocation share; infra investment ~**USD 1 trillion** teaching.
-43. **Imperative planning** replaces the market with command hierarchy; **indicative planning** guides and improves the market — India’s later mixed-economy style.
-44. **LPG reforms (1991)** under **P.V. Narasimha Rao** (Finance Minister Manmohan Singh) — liberalisation, privatisation, globalisation response to BOP crisis.
-45. An earlier **first phase of liberalisation / delicensing** is often tagged to **Rajiv Gandhi** (mid-1980s). Do not erase 1991 as the systemic LPG break.
-46. **Rolling Plan (1978–80)** under the **Janata** government revised targets yearly. **Gunnar Myrdal** suggested Rolling Plans for backward countries; India used them as Annual Plans after rejecting the unfinished Fifth Plan.
-47. **National Planning Committee (1938)** was set up by Congress President **Subhash Chandra Bose** with **Jawaharlal Nehru** as chairman.
-48. **Bombay Plan (1944)** — industrialists including **J.R.D. Tata**, **G.D. Birla**, **Lala Shri Ram**, A. Dalal, Kasturbhai Lalbhai, A.D. Shroff, Purshottamdas Thakurdas, John Mathai. **Dhirubhai Ambani** was **not** among them.
-49. **Gandhian Plan (1944)** by **Sriman Narayan Agarwal** stressed decentralisation, villages and cottage industries. **Mahatma Gandhi** opposed centralised planned development among the keyed options.
-50. NITI full form: **National Institution for Transforming India**.
+1. India is classified as a **mixed economy**, where both the public and private sectors coexist, operate simultaneously, and complement each other under state regulation. Following the **1991 economic reforms**, market orientation expanded substantially while public enterprises retained strategic presence.
+2. Standard development economics categorizes India as a **developing or underdeveloped economy** on structural grounds (historically low per capita income, agrarian workforce concentration, disguised unemployment, and capital scarcity), despite possessing a large aggregate GDP.
+3. **Adam Smith** is universally acclaimed as the **"Father of Economics"** (author of *The Wealth of Nations*, 1776, outlining the market mechanism and division of labour). In contrast, **John Maynard Keynes (J.M. Keynes)** is recognized as the father of modern **macroeconomics** (*The General Theory of Employment, Interest and Money*, 1936), advocating government intervention during recessions.
+4. Structurally, India is defined as a **labour-surplus economy** (possessing an abundant workforce relative to capital availability at comparatively low wages), rather than a capital-surplus or trade-surplus nation.
+5. Primary structural indicators of an underdeveloped economy include **low per capita income**, **low rate of capital formation**, high dependence on primary agriculture, and technological dualism. Conversely, a **low dependency ratio** and a **tertiary-dominated employment structure** characterize advanced, developed economies.
+6. An economic activity involves production, exchange, or service delivery for monetary consideration (such as farming, industry, transport, or professional services). **Voluntary social service** is performed without profit or income motives and is categorized as a non-economic activity.
+7. **Economic growth** represents a quantitative, measurable expansion in an economy's real output of goods and services over time. The most dependable indicator of sustained economic growth is a continuous rise in **real per capita income**.
+8. **Economic development** is a broader, multi-dimensional qualitative concept that encompasses improvements in standard of living, reduction in poverty and inequality, access to healthcare and education, and overall enhancement in institutional welfare.
+9. An increase in **per capita income is necessary but not sufficient** for economic development. A rise in real national income fails to represent development if levels of poverty, unemployment, and socio-economic deprivation deteriorate simultaneously.
+10. The **"Hindu rate of growth"**, a concept formulated by renowned economist **Prof. Raj Krishna** in 1978, describes the stagnant annual growth rate of the Indian economy (averaging ~**3.5%** for GDP and ~1.3% for per capita income) between the 1950s and early 1980s, reflecting rigid bureaucratic controls rather than cultural characteristics.
+11. **Gross Domestic Product (GDP)** measures the total market value of all **final** goods and services produced within the geographic boundaries (domestic territory) of a country during a specified financial year.
+12. **Gross National Product (GNP / GNI)** incorporates cross-border earnings by residents, defined as GDP adjusted for **Net Factor Income from Abroad (NFIA)**: $\text{GNP} = \text{GDP} + \text{NFIA}$.
+13. **Net Domestic Product (NDP)** is calculated by deducting depreciation (consumption of fixed capital) from GDP: $\text{NDP} = \text{GDP} - \text{Depreciation}$. Similarly, **Net National Product (NNP)** equals $\text{GNP} - \text{Depreciation}$.
+14. In classical Indian national accounts methodology, **National Income (NI)** is formally defined as **Net National Product at factor cost (NNP_FC)**: $\text{NNP}_{\text{FC}} = \text{NNP}_{\text{MP}} - \text{Indirect Taxes} + \text{Subsidies}$.
+15. **Real GDP** evaluates output using constant (base-year) prices, thereby eliminating the distorting impact of inflation. In contrast, **Nominal GDP** is computed using **current prevailing market prices**.
+16. The **base year** designates the reference benchmark period whose prices are utilized to calculate constant-price real economic series. Effective **February 2026**, MoSPI revised the National Accounts base year to **2022–23** (replacing the former **2011–12** base year).
+17. The three standard macroeconomic methods for estimating national income are the **Production (Value Added) Method**, the **Income Method**, and the **Expenditure Method**. Methods such as the "diminishing-cost method" are fictitious distractors not recognized in national accounting.
+18. The value of intermediate consumption is excluded from GDP compilation to prevent the error of **double counting**; only final goods and services (or net value added at each productive stage) are included.
+19. In India, national income statistics are compiled and released by the **National Statistical Office (NSO)** under the Ministry of Statistics and Programme Implementation (MoSPI). The NSO was established in **2019** through the amalgamation of the Central Statistics Office (**CSO**) and the National Sample Survey Office (**NSSO**).
+20. The first historical estimate of India's national income was made by **Dadabhai Naoroji** in *Poverty and Un-British Rule in India* (for 1867–68, estimating per capita income at approximately **₹20**). The first **scientific** estimate was produced by **Dr. V.K.R.V. Rao** (1931–32). In 1949, the Government of India appointed the **National Income Committee** chaired by **Prof. P.C. Mahalanobis** (with D.R. Gadgil and V.K.R.V. Rao as members).
+21. A **high Capital–Output Ratio (COR)** or Incremental Capital–Output Ratio (ICOR) signifies capital inefficiency, explaining why an economy may experience sluggish GDP expansion despite sustaining high gross domestic savings. Rapid **population growth** additionally suppresses per capita income growth.
+22. The **household sector** constitutes the dominant contributor to India's gross domestic savings. Within household savings, **physical assets** (real estate, gold, durables) have historically accounted for a larger share than financial assets (bank deposits, currency, equities).
+23. In terms of aggregate State Domestic Product (GSDP), **Maharashtra** is the largest state economy in India. Conversely, **Bihar** records the lowest per capita income among major states, while **Goa** and **Sikkim** lead the country in per capita income.
+24. Under the Seventh Schedule of the Constitution of India, **"Economic and Social Planning"** is placed in the **Concurrent List (List III, Entry 20)**, establishing concurrent legislative and executive jurisdiction for both Union and State Governments.
+25. The **Planning Commission** was instituted on **15 March 1950** by a **Union Cabinet Resolution**. It was an **extra-constitutional, non-statutory**, advisory body that functioned as the central planner of resource allocation until its dissolution.
+26. **NITI Aayog** (National Institution for Transforming India) superseded the Planning Commission on **1 January 2015** via an executive resolution of the Union Cabinet. It operates as the premier policy think tank of the Government of India without executive allocation powers over plan funds.
+27. The **Prime Minister of India** serves as the ex-officio **Chairperson** of NITI Aayog. Day-to-day administrative and executive leadership is vested in a full-time **Vice-Chairperson** holding Cabinet Minister rank.
+28. The inaugural Vice-Chairperson of NITI Aayog was **Prof. Arvind Panagariya** (January 2015 – August 2017). The first Chief Executive Officer (CEO) was **Sindhushree Khullar**, subsequently followed by Amitabh Kant and **B.V.R. Subrahmanyam**.
+29. NITI Aayog is mandated to foster **cooperative federalism** (by providing structured institutional participation to States) and **competitive federalism** (by ranking State performances on developmental indices). Unlike the Planning Commission, it does **not allocate financial grants or plan funds**.
+30. The **Governing Council** of NITI Aayog comprises the Prime Minister, Chief Ministers of all States and Union Territories with legislative assemblies (Delhi, Puducherry, Jammu & Kashmir), and Lieutenant Governors of other Union Territories. **State Governors are not members** of the Governing Council.
+31. **NITI Aayog** functions as the designated **nodal institution** for coordinating, tracking, and implementing the United Nations **Sustainable Development Goals (SDGs)** across Indian States and Union Territories.
+32. The **Development Monitoring and Evaluation Office (DMEO)** was established on **18 September 2015** as an attached office of NITI Aayog, formed by merging the Programme Evaluation Organisation (**PEO**) and the Independent Evaluation Office (**IEO**).
+33. The **National Development Council (NDC)** was formed on **6 August 1952** under the chairmanship of the Prime Minister to coordinate development policy between the Centre and States.
+34. The primary constitutional function of the NDC was the **formal approval and review of Five-Year Plans**. Although its functions have been largely subsumed by NITI Aayog's Governing Council, no official government notification has formally abolished the council.
+35. The **Finance Commission** is a **constitutional body (Article 280)** appointed by the President every five years to recommend statutory tax devolution and grants-in-aid. In contrast, the former Planning Commission was a non-constitutional body that determined discretionary capital and developmental plan assistance.
+36. India's Five-Year Plans spanned from the **First Plan (1951–56)** to the **Twelfth Plan (2012–17)**. The 12th Plan was the final formal Five-Year Plan in Indian history before the adoption of NITI Aayog's 15-year Vision, 7-year Strategy, and 3-year Action Agenda.
+37. The **First Five-Year Plan (1951–56)** was built on the **Harrod–Domar growth model** and prioritized agriculture, river valley irrigation projects, and energy infrastructure to mitigate post-Independence food shortages. Planned economic development formally commenced on **1 April 1951**.
+38. The **Second Five-Year Plan (1956–61)** was formulated by **Prof. P.C. Mahalanobis** and prioritized heavy basic industries, public sector expansion, and the establishment of a **"Socialistic Pattern of Society"** under the Industrial Policy Resolution (IPR) of 1956.
+39. The period from **1966 to 1969** witnessed a **Plan Holiday**, during which three consecutive Annual Plans were formulated due to macroeconomic dislocations caused by the Indo-Pak War (1965), consecutive monsoon droughts, and foreign exchange crises.
+40. The **Fifth Five-Year Plan (1974–79)** established the twin objectives of **poverty alleviation ("Garibi Hatao")** and the attainment of **economic self-reliance** (achieving zero net foreign concessional aid). The plan was terminated a year early in 1978 by the Janata Party administration.
+41. The **Eleventh Five-Year Plan (2007–12)** adopted the core theme **"Towards Faster and More Inclusive Growth"**, setting an aggregate GDP target of **9%**, an agricultural growth target of **4%**, and an industrial growth target of **10–10.5%**.
+42. The **Twelfth Five-Year Plan (2012–17)** carried the vision **"Faster, More Inclusive and Sustainable Growth"**. The National Development Council approved an average GDP growth target of **8%** and prioritized environmental sustainability and massive infrastructure investment estimated at **USD 1 trillion**.
+43. **Imperative (Command) Planning** completely replaces market mechanisms with state central allocation and mandatory directives (as in the former USSR). In contrast, **Indicative Planning** guides, incentivizes, and supplements market forces—the framework adopted by India during its post-1991 mixed economy evolution.
+44. The landmark **LPG Reforms (1991)**—Liberalisation, Privatisation, and Globalisation—were introduced under Prime Minister **P.V. Narasimha Rao** and Finance Minister **Dr. Manmohan Singh** to resolve a severe Balance of Payments (BoP) foreign exchange crisis.
+45. An initial **first phase of deregulation and industrial delicensing** was initiated earlier in the mid-1980s under Prime Minister **Rajiv Gandhi**. However, comprehensive, systemic macroeconomic structural adjustment dates from July 1991.
+46. The **Rolling Plan (1978–80)** was introduced by the Janata Party government under Morarji Desai, based on development concepts articulated by Swedish Nobel laureate **Gunnar Myrdal** in *Asian Drama*, wherein annual performance was reviewed and targets rolled forward continuously.
+47. The pre-Independence **National Planning Committee (1938)** was established by Indian National Congress President **Netaji Subhash Chandra Bose**, with **Jawaharlal Nehru** serving as its Chairman.
+48. The **Bombay Plan (1944)** (*A Plan of Economic Development for India*) was drafted by leading private industrialists, including **J.R.D. Tata, G.D. Birla, Lala Shri Ram, Kasturbhai Lalbhai, A.D. Shroff, Purshottamdas Thakurdas, and John Mathai**. Prominent later figures like Dhirubhai Ambani were **not** associated with this document.
+49. The **Gandhian Plan (1944)**, authored by **Sriman Narayan Agarwal**, advocated economic decentralization, cottage crafts, rural self-sufficiency, and village swaraj. Mahatma Gandhi philosophically opposed centralized, top-down bureaucratic industrial planning.
+50. The official acronym **NITI** expands to the **National Institution for Transforming India**.
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-confused" markdown="1">
 <summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **Growth** | **Development** | Output / income rise vs broader welfare / living standards |
-| **GDP** | **GNP** | Domestic territory vs residents + NFIA |
-| **Nominal GDP** | **Real GDP** | Current prices vs constant prices |
-| **GDP deflator** | **CPI** | Output-price index vs retail consumer basket (Topic 4) |
-| **Planning Commission** | **NITI Aayog** | Plan allocation body vs think tank from 2015 |
-| **NITI Chairperson** | **President** | PM chairs NITI; President does not |
-| **NITI date 2015** | **2014** | 1 January 2015 correct |
-| **NITI full-time Chair** | **full-time Vice-Chair** | PM is ex-officio Chair; VC is the full-time head |
-| **Economic & Social Planning** | **Union / State List** | Concurrent List (List-III), not exclusive Union/State |
-| **NDC** | **NITI Governing Council** | 1952 Plan-approval apex vs post-2015 CM forum; NDC not formally abolished |
-| **DMEO** | **PMO / Cabinet Secretariat** | Attached office of **NITI** (18 Sep 2015) |
-| **Finance Commission** | **Planning Commission** | Constitutional (Art. 280) vs non-constitutional Plan body |
-| **Imperative planning** | **Indicative planning** | Command replaces market vs State guides the market |
-| **11th Plan inclusive** | **12th Plan sustainable+inclusive** | Inclusive slogan vs adds sustainable |
-| **Plan Holiday 1966–69** | **Rolling Plan 1978–80** | Three Annual Plans after Third vs Janata yearly revision |
-| **Garibi Hatao slogan (1971)** | **Fifth Plan objective** | Election slogan in Fourth-Plan years vs Plan twin goal in Fifth |
-| **Bombay Plan** | **Gandhian Plan** | Industrialists / state-led industry vs Agarwal / village–cottage |
-| **Adam Smith** | **Keynes** | Father of Economics vs father of modern macro |
-| **Mixed economy** | **Pure capitalist / socialist** | Both sectors present vs one-pole ideal types |
-| **Rajiv first-phase reforms** | **1991 LPG** | Mid-80s delicensing wave vs systemic crisis reforms |
-| **Governors in NITI GC** | **CMs / Lt Governors** | Governors not GC members; CMs and Lt Govs are |
-| **National Income** | **NNPmp** | NI = NNP at **factor cost**, not market price alone |
-| **Nominal GDP** | **Real GDP base year** | Current prices vs constant **2022–23** prices (from Feb 2026) |
-| **Hindu rate** | **Population growth** | Raj Krishna NI/GDP ~3.5% tag — not population |
-| **Real sector** | **Financial sector** | Crops/textiles vs bank lending / Masala bonds |
-| **Stabilisation** | **Structural adjustment** | Short-term demand vs long-term supply-side |
-| **Naoroji** | **V.K.R.V. Rao** | First NI estimate vs first scientific NI |
-| **High COR** | **Low COR** | High capital per output slows growth despite savings |
-| **Gadgil–Mukherjee** | **Finance Commission formula** | Plan assistance weights (pop. 60%) vs tax-devolution FC |
+| Concept A | Concept B | Conceptual Distinction & Mechanics | Key Memorization Anchor |
+|---|---|---|---|
+| **Economic Growth** | **Economic Development** | Growth is a quantitative increase in output (real GDP/PCI); Development is qualitative, measuring living standards, health, and welfare. | Growth = Output expansion; Development = Human well-being |
+| **Gross Domestic Product (GDP)** | **Gross National Product (GNP)** | GDP measures output within geographic borders; GNP measures output by citizens/residents globally ($\text{GNP} = \text{GDP} + \text{NFIA}$). | GDP = Location; GNP = Nationality |
+| **Nominal GDP** | **Real GDP** | Nominal evaluates goods at current prevailing prices; Real evaluates output at constant base-year prices to remove price distortion. | Nominal = Current prices; Real = Base-year constant prices |
+| **GDP Deflator** | **Consumer Price Index (CPI)** | Deflator reflects price changes across all domestically produced goods/services; CPI tracks prices of a fixed consumer basket. | Deflator = Comprehensive output; CPI = Retail household consumption |
+| **Planning Commission** | **NITI Aayog** | Planning Commission allocated plan funds directly to ministries and states; NITI Aayog is a policy think tank without financial allocation powers. | Planning = Allocation body (1950–2014); NITI = Think tank (2015+) |
+| **NITI Chairperson** | **President of India** | The Prime Minister is the ex-officio Chairperson of NITI Aayog; the President holds no official office within NITI. | Prime Minister chairs NITI Aayog |
+| **NITI Foundation Year** | **2014 vs 2015** | Cabinet resolution passed and implemented on **1 January 2015** (not during the initial transition year 2014). | Official launch date: 1 January 2015 |
+| **Full-time Vice-Chair** | **Full-time Chairperson** | The Prime Minister is the ex-officio part-time Chair; executive leadership rests with the full-time Vice-Chairperson. | Vice-Chair is the full-time working executive |
+| **Economic Planning List** | **Union vs Concurrent List** | "Economic and Social Planning" is Entry 20 of the **Concurrent List (List III)**, enabling both Centre and States to legislate. | Concurrent List (List III) |
+| **National Development Council** | **NITI Governing Council** | NDC approved Five-Year Plans in the pre-2015 era; NITI Governing Council is the regular federal discussion forum for CMs and Lt Govs. | NDC = Five-Year Plan approval; GC = Active federal council |
+| **Development Monitoring Office** | **PMO / Cabinet Secretariat** | DMEO is an attached office directly under **NITI Aayog**, formed by merging PEO and IEO on 18 September 2015. | DMEO = Attached office of NITI Aayog |
+| **Finance Commission** | **Planning Commission** | Finance Commission is a constitutional body (Art. 280) for tax sharing; Planning Commission was an extra-constitutional body. | FC = Constitutional; Planning = Non-constitutional |
+| **Imperative Planning** | **Indicative Planning** | Imperative planning dictates quotas by state fiat (Soviet command); Indicative planning incentivizes market agents toward public goals. | Imperative = Command system; Indicative = Market-friendly guidance |
+| **11th Plan Theme** | **12th Plan Theme** | 11th Plan: "Towards Faster and More Inclusive Growth"; 12th Plan: "Faster, More Inclusive and **Sustainable** Growth". | 12th Plan explicitly adds "Sustainable" |
+| **Plan Holiday (1966–69)** | **Rolling Plan (1978–80)** | Plan Holiday was 3 Annual Plans after war/drought; Rolling Plan was yearly target revisions introduced by the Janata government. | Holiday = Crisis gap; Rolling = Yearly revised strategy |
+| **Garibi Hatao (1971 Slogan)** | **Fifth Plan Objective (1974–79)** | Slogan introduced by Indira Gandhi in the 1971 general election; adopted as formal Five-Year Plan twin objective in the 5th Plan. | 1971 = Political campaign; 5th Plan = Formal policy objective |
+| **Bombay Plan (1944)** | **Gandhian Plan (1944)** | Bombay Plan authored by leading industrialists for heavy state infrastructure; Gandhian Plan by S.N. Agarwal for cottage self-reliance. | Bombay = Big industry; Gandhian = Decentralized rural crafts |
+| **Adam Smith** | **J.M. Keynes** | Adam Smith is the Father of Modern Economics (*Wealth of Nations*); Keynes is the Father of Modern Macroeconomics (*General Theory*). | Smith = General economics; Keynes = Macroeconomics |
+| **Mixed Economy** | **Pure Capitalist / Socialist** | Mixed economy combines public ownership with private private enterprise; pure systems rely entirely on markets or state commands. | Mixed = Public + Private coexistence |
+| **Rajiv Gandhi Deregulation** | **1991 Rao-Manmohan LPG** | Mid-1980s was early selective delicensing; July 1991 was systemic structural opening and crisis-driven liberalization. | 1980s = First phase delicensing; 1991 = Complete structural LPG |
+| **Governors in NITI Council** | **Chief Ministers & Lt Govs** | State Governors are excluded from NITI's Governing Council; only Chief Ministers and Union Territory administrators participate. | Governors are NOT members of NITI Governing Council |
+| **National Income Identity** | **NNP at Market Price** | National Income is officially NNP at **Factor Cost** ($NNP_{FC}$), which subtracts net indirect taxes from market value. | $NI = NNP_{FC}$, not $NNP_{MP}$ |
+| **Real GDP Base Year** | **2011–12 vs 2022–23** | Previous historical base was 2011–12; MoSPI revised the benchmark series to **2022–23** effective February 2026. | Current base year = 2022–23 |
+| **"Hindu Rate of Growth"** | **Demographic Growth Rate** | Coined by Prof. Raj Krishna for ~3.5% national output stagnation between 1950s–1980s; it does not measure population growth. | Refers to GDP stagnation (~3.5%), not demographics |
+| **Real Sector** | **Financial Sector** | Real sector involves physical production (agriculture, textiles, factories); financial sector covers intermediation (banks, credit, securities). | Real = Physical goods/services; Financial = Capital/banking |
+| **Stabilisation Program** | **Structural Adjustment** | Stabilisation is short-term demand reduction to contain inflation and BoP; Structural adjustment is long-term supply-side deregulation. | Stabilisation = Short-term demand; Structural = Long-term supply |
+| **Dadabhai Naoroji** | **Dr. V.K.R.V. Rao** | Naoroji made the first historical estimate of per capita income (1867–68); Rao produced the first rigorous scientific methodology (1931–32). | Naoroji = First estimate; Rao = First scientific methodology |
+| **Capital–Output Ratio (COR)** | **Capital Efficiency** | A higher COR indicates that more capital is required to generate one unit of output, reflecting lower capital productivity. | High COR = Lower capital efficiency |
+| **Gadgil–Mukherjee Formula** | **Finance Commission Shares** | Used for allocating Central Plan Assistance (population weighted highest at 60%); distinct from Finance Commission tax devolution. | Gadgil = Plan assistance; FC = Statutory tax devolution |
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-must-score" markdown="1">
-<summary><strong>📋 Must-score drill — plans and institutions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>📋 Must-Score Drill — Plans, Institutions and Core Milestones</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| Item | Tag |
+| Historical Item or Institution | Core Distinction / Key Milestone |
 |---|---|
-| Economic & Social Planning | Concurrent List (List-III) |
-| Planning Commission | Cabinet resolution, 15 Mar 1950; advisory / quasi-political |
-| Ashok Chandra tag | Planning Commission = Economic Cabinet |
-| NDC | 6 Aug 1952; PM Chair; final FYP approval |
-| NITI start | 1 Jan 2015; Cabinet resolution; PM Chair |
-| First NITI VC / CEO | Arvind Panagariya / Sindhushree Khullar |
-| DMEO | Attached to NITI; 18 Sep 2015 (PEO+IEO) |
-| SDG nodal | NITI Aayog |
-| AIM | NITI Aayog |
-| Imperative vs indicative | Command replaces market vs guides market |
-| Gadgil–Mukherjee | Population 60% highest weight |
-| 1st Plan | Agriculture / irrigation; Harrod–Domar |
-| 2nd Plan | Heavy industry / Mahalanobis / socialistic pattern |
-| Plan Holiday | 1966–69 |
-| Rolling Plan | 1978–80; Janata; Myrdal teaching |
-| 5th Plan | Garibi Hatao + self-reliance; ended early |
-| 7th Plan | Food, Work and Productivity |
-| 8th Plan | Human development core; infrastructure thrust |
-| 9th Plan | Growth with Social Justice and Equity; WCP |
-| 11th Plan | Inclusive growth; 2007–12 |
-| 12th Plan | Faster, more inclusive and sustainable; 2012–17 last FYP |
-| NPC 1938 | Bose sets up; Nehru chairs |
-| Bombay Plan 1944 | Tata, Birla, Shri Ram… — not Dhirubhai Ambani |
-| Gandhian Plan | Sriman Narayan Agarwal |
-| Sarvodaya Plan | Jayaprakash Narayan |
-| Vision 2020 | S.P. Gupta Committee |
-| Fiscal Health Index 2025 | Odisha top; UP 45.9 |
-| Innovation Index 2019 | Karnataka (major States) |
-| National Income (old key) | NNP at factor cost |
-| Mixed economy | Public + private |
-| Hindu rate | Raj Krishna; NI/GDP ~3.5% |
-| Base year (now) | 2022–23 (from Feb 2026) |
-| NI release | NSO (MoSPI) |
-| First NI / scientific NI | Naoroji / V.K.R.V. Rao |
-| Lowest State PCI | Bihar |
-| Largest State economy | Maharashtra |
+| **Economic & Social Planning** | Concurrent List (List III, Entry 20) under Seventh Schedule |
+| **Planning Commission Establishment** | Cabinet Resolution on 15 March 1950; advisory, non-constitutional, non-statutory |
+| **Ashok Chandra Characterization** | Described the Planning Commission as India's "Economic Cabinet" |
+| **National Development Council (NDC)** | Constituted 6 August 1952; chaired by Prime Minister; apex body for Five-Year Plan approval |
+| **NITI Aayog Launch** | 1 January 2015 by Union Cabinet Resolution; policy think tank replacing Planning Commission |
+| **First NITI Vice-Chair & CEO** | Arvind Panagariya (Vice-Chair) and Sindhushree Khullar (CEO) |
+| **DMEO Institutional Attachment** | Established 18 September 2015 under NITI Aayog by amalgamating PEO and IEO |
+| **SDG Nodal Agency** | NITI Aayog coordinates and monitors Sustainable Development Goals |
+| **Atal Innovation Mission (AIM)** | Flagship entrepreneurship and innovation initiative under NITI Aayog |
+| **Imperative vs Indicative Planning** | State command directives vs market-oriented guidance and incentives |
+| **Gadgil–Mukherjee Formula Weight** | Population assigned the highest weightage at 60% in plan assistance |
+| **First Five-Year Plan (1951–56)** | Harrod–Domar model; prioritized agriculture, irrigation, and power |
+| **Second Five-Year Plan (1956–61)** | Mahalanobis heavy-industry model; "Socialistic Pattern of Society" (IPR 1956) |
+| **Plan Holiday Period** | 1966–1969; three consecutive Annual Plans following war and drought |
+| **Rolling Plan Period** | 1978–1980; initiated by Janata Party government based on Gunnar Myrdal's model |
+| **Fifth Five-Year Plan (1974–79)** | "Garibi Hatao" and attainment of self-reliance; terminated early in 1978 |
+| **Seventh Five-Year Plan (1985–90)** | Slogan: "Food, Work and Productivity"; expansion of rural anti-poverty programs |
+| **Eighth Five-Year Plan (1992–97)** | Human resource development as core; post-reform infrastructure thrust (6.8% actual growth) |
+| **Ninth Five-Year Plan (1997–2002)** | Focus: "Growth with Social Justice and Equity"; Women's Component Plan |
+| **Eleventh Five-Year Plan (2007–12)** | Slogan: "Towards Faster and More Inclusive Growth" (target 9% GDP) |
+| **Twelfth Five-Year Plan (2012–17)** | Slogan: "Faster, More Inclusive and Sustainable Growth"; final Five-Year Plan (target 8%) |
+| **National Planning Committee (1938)** | Formed by Subhash Chandra Bose; chaired by Jawaharlal Nehru |
+| **Bombay Plan (1944)** | Authored by 8 leading industrialists (Tata, Birla, Shri Ram, Mathai, etc.) |
+| **Gandhian Plan (1944)** | Formulated by Sriman Narayan Agarwal emphasizing cottage industries |
+| **Sarvodaya Plan (1950)** | Conceptualized by Jayaprakash Narayan (JP) drawing on Gandhian ideals |
+| **India Vision 2020** | Drafted by the S.P. Gupta Committee under the Planning Commission |
+| **Fiscal Health Index 2025** | Odisha ranked 1st among major States; Uttar Pradesh scored 45.9 (7th) |
+| **India Innovation Index 2019–21** | Karnataka ranked 1st among major States |
+| **National Income Formal Definition** | Net National Product at Factor Cost ($NNP_{FC}$) |
+| **Mixed Economy Definition** | Simultaneous coexistence and coordination of public and private sectors |
+| **"Hindu Rate of Growth"** | Coined by Prof. Raj Krishna for ~3.5% GDP growth from 1950s to early 1980s |
+| **National Accounts Base Year** | Base year 2022–23 (notified February 2026, replacing 2011–12) |
+| **Official National Income Release** | National Statistical Office (NSO) under MoSPI |
+| **Pioneer National Income Estimates** | Dadabhai Naoroji (1867–68, ₹20) and Dr. V.K.R.V. Rao (scientific, 1931–32) |
+| **Lowest State Per Capita Income** | Bihar |
+| **Largest State Economy by GSDP** | Maharashtra |
 
 </details>
 
 ---
 
-## 1.1 Features of the Indian economy
+## 1.1 Structural Features of the Indian Economy
 
-**The Indian economy** is a large, diverse economy with structural dualism — a modern formal segment alongside a large traditional and informal segment.
+The **Indian economy** is a vast, structurally diverse emerging market that exhibits profound structural dualism: a highly advanced, modern formal industrial and digital services segment coexisting with an extensive traditional, unorganized, and informal agrarian sector.
 
-- Textbooks still classify India as a **developing / underdeveloped** economy on structural grounds (low per capita income historically, dualism, agrarian employment share).
-- India is a **mixed economy**: public and private sectors both produce and invest under a market-plus-regulation frame. Mixed economy does **not** mean small-plus-large industry or primary-plus-secondary alone.
-- India is also keyed as a **labour-surplus** economy — a large workforce available at low wages — not capital-surplus or trade-surplus.
-- Underdeveloped traits that decide stems: **low per capita income** and **low rate of capital formation**. Low dependency ratio and a tertiary-heavy workforce are developed-economy tags.
-- Developing-category indicators: mainly agricultural occupation, **disguised unemployment**, and poor human-capital quality — not high protein intake.
-- **Lack of natural resources** is **not** an Indian-economy characteristic; productivity, capital formation and labour quality are the lagging traits.
-- A large domestic market and demographic weight shape demand and labour supply.
-- Primary, secondary and tertiary shares have shifted toward **services in GDP** while agriculture still employs a large workforce share.
-- **Voluntary social service** is not an economic activity; farming, transport and market services are.
-- Non-economic elements in growth include **social behaviour**; natural resources, energy and capital are economic factors.
-- Regional imbalance, informal employment and infrastructure gaps remain structural features in teaching.
-- **Adam Smith** is the usual “Father of Economics” tag; **J.M. Keynes** is the face of modern macroeconomics — not the Father of Economics.
-- The Indian mixed-economy model is keyed as protecting interests of **State and person both**.
+### Foundational Characteristics
+- **Developing / Underdeveloped Classification:** Textbook developmental economics categorizes India as a **developing economy** due to historical per capita income levels, high demographic dependency on agriculture, persistent disguised unemployment, and lower physical/human capital indices, even while aggregate GDP makes India one of the largest economies globally.
+- **Mixed Economy Architecture:** India operates as a **mixed economy**, where the state (public sector) and private enterprise coexist. The public sector historically controlled strategic heavy industries and basic infrastructure, while the private sector handled agriculture, consumer goods, and trade. Following the **1991 economic reforms**, private enterprise was granted access to most sectors, but the state continues to manage strategic infrastructure and welfare interventions.
+- **Factor Endowment (Labour-Surplus):** Economically, India is classified as a **labour-surplus economy** (characterized by an abundance of labour relative to available physical capital and low equilibrium wages), rather than a capital-abundant or trade-surplus nation.
+- **Hallmarks of Underdevelopment:** The distinguishing criteria of an underdeveloped or developing economy are **low per capita income**, **low rate of capital formation**, high incidence of poverty, and widespread underemployment. In contrast, attributes like a **low dependency ratio** and a **tertiary-dominated workforce** represent high-income developed nations.
+- **Employment Structure and Disguised Unemployment:** Agriculture still engages roughly 45% of India's total labour force while contributing less than 18% to national Gross Value Added (GVA). This disproportion reflects substantial **disguised unemployment** (a scenario where marginal productivity of surplus labour is near zero).
+- **Natural Resource Endowment:** India is well-endowed with arable land, sunshine, water systems, and mineral wealth. Therefore, a "lack of natural resources" is **not** an impediment; rather, lagging capital formation, lower technological intensity, and labour productivity have historically constrained growth.
+- **Classification of Economic Activities:** Economic activities encompass actions undertaken for financial compensation or profit (e.g., farming, industrial fabrication, freight transit, and commercial services). In contrast, **voluntary social service** or altruistic domestic labour are performed without material exchange and are designated as non-economic activities.
+- **Determinants of Economic Growth:** Economic growth is governed by both **economic determinants** (capital stock, technological accumulation, natural resources, and infrastructure) and **non-economic determinants** (social institutions, political stability, legal integrity, and cultural attitudes).
+
+### Foundational Thinkers in Economics
+- **Adam Smith (Father of Modern Economics):** Scottish philosopher **Adam Smith** is celebrated as the **Father of Modern Economics**. In his seminal work, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), he expounded the principles of the free-market mechanism, specialization through the division of labour, and the concept of the "invisible hand."
+- **John Maynard Keynes (Father of Modern Macroeconomics):** British economist **John Maynard Keynes (J.M. Keynes)** revolutionized macroeconomic theory during the Great Depression. In his masterwork, *The General Theory of Employment, Interest and Money* (1936), he challenged classical laissez-faire doctrines by arguing that aggregate demand determines economic activity, advocating counter-cyclical government spending and fiscal intervention to restore full employment. While Keynes is the recognized founder of modern **macroeconomics**, he is not the father of general economics.
 
 **Q-EC1. UPPCS (Pre) 2024**
 
@@ -198,37 +198,40 @@ With reference to Economic Growth, which of the following statements is/are corr
 
 Select the correct answer from the codes given below:
 
-A. Only 1 and 2 are correct.
-B. Only 3 is correct.
-C. Only 1 is correct.
-D. Only 2 and 3 are correct.
+A. Only 1 and 2 are correct.  
+B. Only 3 is correct.  
+C. Only 1 is correct.  
+D. Only 2 and 3 are correct.  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 3 fails — Adam Smith is the usual Father of Economics tag; Keynes is modern macro.
+**Explanation:**  
+- **Statement 1 is correct:** In classical economic classification and developmental literature, the Indian economy is categorized as an underdeveloped / developing economy owing to its structural features (low per capita income, agrarian workforce dependency, disguised unemployment, and capital gaps).  
+- **Statement 2 is correct:** India is a mixed economy where public and private enterprises operate concurrently under state regulatory supervision.  
+- **Statement 3 is incorrect:** Adam Smith is universally recognized as the Father of Economics (*The Wealth of Nations*, 1776). J.M. Keynes is recognized specifically as the father of modern macroeconomics (*The General Theory*, 1936), not the general Father of Economics.  
 
-**Ans: A.** Statements 1 and 2 match standard textbook classification.
+**Ans: A.** Only 1 and 2 are correct.
 
 </details>
 
-## 1.2 Growth versus development
+---
 
-**Economic growth** is a rise in real output (usually real GDP or real per capita GDP).
+## 1.2 Economic Growth versus Economic Development
 
-- Growth is a **quantitative** expansion of income and production.
-- The best single sign among options is a **sustained increase in real per capita income** — not a one-year current-price NI rise alone.
-- **Economic development** is a broader improvement in living standards, health, education, equity and capabilities.
-- Per capita income growth is **necessary but not sufficient** for development.
-- Absolute and per capita real GNP can rise without development if **poverty and unemployment** worsen.
-- **Hindu rate of growth** (Prof. **Raj Krishna**) tags stagnant National Income / GDP growth around **~3.5%** from the 1950s to early 1980s.
-- **Amartya Sen** argued planning should be **people-oriented**, with economic security for the poorest — people over commodities.
-- Economic growth is usually coupled with **inflation** as incomes and demand rise.
-- Labour’s share in GNP falls when **wages lag behind prices**.
-- **High capital–output ratio** keeps growth low even with high savings; fast population growth also slows per capita income.
-- Inclusive growth spreads benefits across regions, castes, genders and income groups (Topic 8 neighbour).
-- Environmental sustainability enters development debate; it is not an HDI pillar (Topic 8 / 12).
-- World Bank financial-aid growth is **not** a usual measure when conceptualising economic growth.
+While frequently used interchangeably in popular discourse, modern economics maintains a sharp conceptual distinction between **economic growth** and **economic development**.
+
+### Conceptual Distinctions
+- **Economic Growth (Quantitative Expansion):** Economic growth represents a quantitative increase in the real value of goods and services produced by an economy over a specific duration (measured as percentage growth in real GDP or real GNP).
+  - The single most dependable indicator of sustained economic growth is a continuous, long-term rise in **real per capita income**.
+  - A temporary increase in nominal national income driven purely by inflationary price increases does not constitute genuine economic growth.
+- **Economic Development (Qualitative Transformation):** Economic development is a comprehensive, multi-dimensional process that combines quantitative output expansion with qualitative socio-economic improvements.
+  - It encompasses structural changes such as poverty alleviation, reduction in wealth inequality, universal access to basic healthcare and schooling, environmental sustainability, and expanded human freedoms (as articulated in **Amartya Sen's** capability approach).
+  - **Growth is Necessary but Not Sufficient:** A country can experience high real GNP growth without achieving economic development if the newly generated wealth remains concentrated, resulting in worsening unemployment, malnutrition, and poverty.
+- **The "Hindu Rate of Growth":** Formulated by prominent economist **Prof. Raj Krishna** at a 1978 conference, this phrase refers to the sluggish annual growth rate of the Indian economy—averaging approximately **3.5% for GDP** and **1.3% for per capita income**—between 1950 and 1980. The term drew attention to the structural inefficiencies of bureaucratic central planning and import substitution, and has no theological or demographic connotation.
+- **Capital–Output Ratio (COR):** The relationship between the volume of capital invested and the resulting economic output is measured by the Capital–Output Ratio. A high Capital–Output Ratio signifies that substantial capital investments yield relatively modest output increments, highlighting productive inefficiency.
+- **Inflationary Linkage:** Rapid economic growth is commonly accompanied by moderate **demand-pull inflation**, as rising incomes fuel aggregate purchasing power.
+- **Labour's Factor Share:** In situations where consumer price levels escalate faster than nominal wages, the real purchasing power of workers erodes, causing labour's proportional share in national income to decline relative to capital returns.
 
 **Q-EC2. UPPCS (Pre) 2024**
 
@@ -240,111 +243,144 @@ Reason (R): Growth in per capita income is not a sufficient measure of developme
 
 Select the correct answer from the codes given below:
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).
-B. (A) is false, but (R) is true.
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-D. (A) is true, but (R) is false.
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
+B. (A) is false, but (R) is true.  
+C. Both (A) and (R) are true, but (R) is not the correct explanation of (A).  
+D. (A) is true, but (R) is false.  
 
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
+**Explanation:**  
+- **Assertion (A) is true:** Modern economics defines economic development comprehensively in terms of enhancing human well-being, living standards, health, education, and institutional welfare rather than mere physical production.  
+- **Reason (R) is true:** An increase in per capita income fails to reflect distributional disparities; an economy may record rising per capita income while the majority of citizens suffer from escalating poverty, unemployment, or poor health infrastructure.  
+- Because per capita income growth alone is insufficient to capture multidimensional well-being, economists were compelled to redefine development around living standards and welfare. Therefore, (R) correctly explains (A).  
 
-**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
 </details>
 
-## 1.3 National income — GDP family
+---
 
-**National income** measures the money value of goods and services produced by an economy over a period.
+## 1.3 National Income Accounting — The GDP Family
 
-- **GDP (Gross Domestic Product)** is the value of final goods and services produced **within the domestic territory**.
-- **GNP (Gross National Product)** = GDP + **net factor income from abroad**.
-- **NDP** = GDP − depreciation (never GDP + depreciation). **NNP** = GNP − depreciation. Also NNP = GDP + NFIA − depreciation.
-- Older Indian teaching equates **National Income** with **NNP at factor cost**: GNPMp − depreciation − indirect taxes + subsidies.
-- Open-economy identity: **Y = C + I + G + (X − M)**.
-- **Nominal** figures use current market prices; **real** figures use constant (base-year) prices to track volume.
-- **Base year** = the year whose **prices** are used for real GDP. Current National Accounts base (from **Feb 2026**): **2022–23**. Previous major base: **2011–12** (from 2015, with **GVA at basic prices** under UNSNA 2008).
-- The **GDP deflator** = Nominal GDP / Real GDP × 100 in teaching.
-- Three methods: **production**, **income** and **expenditure** — they should reconcile in principle. **Diminishing-cost method** is not a GDP method.
-- **Personal Disposable Income** = Personal Income − personal tax − non-tax payments (fines etc.).
-- If both prices and money income double, **real income is unchanged**. Current-price PCI growth exceeds constant-price PCI growth because constant prices strip inflation.
-- Sectoral shares show primary / secondary / tertiary contribution to GDP.
-- A practical problem in India is the **unorganised / informal** sector and **non-monetised** consumption that money accounts struggle to capture.
-- Under-employment, inflation and low savings are real problems, but they are not the classic NI **measurement** difficulty keyed here.
-- **NSO** (MoSPI) releases National Income estimates. CSO + NSSO merged into NSO in **2019**. Older keys naming CSO are historically true.
-- First NI estimate: **Dadabhai Naoroji** (1867–68; PCI ~Rs 20). First scientific estimate: **V.K.R.V. Rao** (1931–32). **1949 National Income Committee** chaired by **P.C. Mahalanobis**.
-- Capital-formation data: **RBI + CSO/NSO** (K.N. Raj committee roles).
-- **Real sector** = crop harvest and textile fabrication; bank lending and overseas Rupee / Masala bonds are **financial-sector**.
-- Largest State economy by NSDP: **Maharashtra**. Lowest State PCI: **Bihar**. Highest PCI end: **Sikkim** / Goa cluster.
-- **Green GDP** adjusts conventional GDP for environmental degradation and resource depletion in teaching.
+**National income accounting** measures the monetary value of aggregate economic activity within a country over an accounting period (typically a financial year from 1 April to 31 March).
+
+### Core Aggregates and Formulas
+- **Gross Domestic Product (GDP):** Total market value of all final goods and services produced within the geographic boundaries (domestic territory) of a country in a year.
+  $$\text{GDP} = C + I + G + (X - M)$$
+  *(where $C$ = Private Consumption, $I$ = Gross Investment, $G$ = Government Spending, and $X - M$ = Net Exports).*
+- **Gross National Product (GNP):** Output produced by the permanent residents of a country, regardless of where production takes place. It adjusts GDP for **Net Factor Income from Abroad (NFIA)**:
+  $$\text{GNP} = \text{GDP} + \text{NFIA}$$
+- **Net Domestic Product (NDP) & Net National Product (NNP):** Fixed capital assets wear out during production. Subtracting depreciation (consumption of fixed capital) yields net aggregates:
+  $$\text{NDP} = \text{GDP} - \text{Depreciation}$$
+  $$\text{NNP} = \text{GNP} - \text{Depreciation}$$
+- **National Income (NI) Proper:** In Indian national accounting conventions, official National Income corresponds to **Net National Product at factor cost ($NNP_{FC}$)**:
+  $$\text{NNP}_{\text{FC}} = \text{NNP}_{\text{MP}} - \text{Net Indirect Taxes} = \text{NNP}_{\text{MP}} - \text{Indirect Taxes} + \text{Subsidies}$$
+- **Gross Value Added (GVA):** Reflects the net contribution of individual producer sectors (Agriculture, Industry, Services). Since the 2015 methodology revision, headline GDP is compiled as:
+  $$\text{GDP at Market Prices} = \text{GVA at Basic Prices} + \text{Product Taxes} - \text{Product Subsidies}$$
+- **Nominal GDP vs Real GDP:** Nominal GDP measures output at prevailing market prices, whereas Real GDP measures output at constant base-year prices.
+- **Base Year:** The reference period utilized to isolate real production volume from price inflation. Effective **February 2026**, MoSPI revised the benchmark base year to **2022–23** (replacing the previous 2011–12 series).
+- **GDP Deflator:** A broad price index reflecting the overall price level of all domestically produced goods and services:
+  $$\text{GDP Deflator} = \left( \frac{\text{Nominal GDP}}{\text{Real GDP}} \right) \times 100$$
+- **Personal Disposable Income (PDI):** Income actually available to households for consumption and saving:
+  $$\text{PDI} = \text{Personal Income} - \text{Direct Personal Taxes} - \text{Non-Tax Payments (fines/fees)}$$
+
+### Estimation Methods
+1. **Production (Value Added) Method:** Computes Gross Value Added by deducting intermediate consumption from total gross output across all producing enterprises.
+2. **Income Method:** Aggregates factor payments earned by factors of production: Compensation of Employees (wages/salaries) + Operating Surplus (rent, interest, profits) + Mixed Income of the self-employed.
+3. **Expenditure Method:** Sums all final expenditures on goods and services ($C + I + G + X - M$).
+
+### Measurement Dilemmas in India
+- **Large Informal / Unorganized Sector:** More than 80% of India's workforce operates in the informal economy, where record-keeping is minimal and transactions occur outside organized banking channels.
+- **Non-Monetized Transactions:** In rural communities, substantial subsistence agricultural output and barter-like local exchanges bypass formal markets, complicating national income computation.
+- **Exclusion of Non-Productive Transfers:** Transfer payments (old-age pensions, student scholarships, unemployment relief, gifts) are excluded from national income calculation because they involve income redistribution without corresponding current production.
+
+### Pioneers of Indian National Accounting
+- **Dadabhai Naoroji:** Conducted the earliest empirical estimation of India's national income for 1867–68 in *Poverty and Un-British Rule in India*, estimating annual per capita income at **₹20**.
+- **Dr. V.K.R.V. Rao:** Formulated the first statistically rigorous, scientific methodology in 1931–32 by segmenting the economy into agricultural and non-agricultural sectors.
+- **National Income Committee (1949):** Appointed by the Government of India under the chairmanship of **Prof. P.C. Mahalanobis**, with Prof. D.R. Gadgil and Dr. V.K.R.V. Rao as members, establishing the institutional foundation for the Central Statistical Organisation (CSO).
 
 **Q-EC3. UKPCS (Pre) 2016**
 
 One of the problems in calculating National Income in India is
 
-A. Under-employment
-B. Inflation
-C. Low level of savings
-D. Non-monetised consumption
+A. Under-employment  
+B. Inflation  
+C. Low level of savings  
+D. Non-monetised consumption  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Non-monetised consumption.
+**Explanation:**  
+- While underemployment, inflation, and low savings represent macroeconomic challenges in India, the primary statistical and methodological obstacle in **calculating** national income is the presence of a substantial non-monetized sector (subsistence farming, household services, barter transactions) and unorganized informal output that is not routed through formal market transactions.  
 
-**Ans: D.** Non-monetised / informal output is hard to capture in money NI accounts.
+**Ans: D.** Non-monetised consumption.
 
 </details>
 
-## 1.4 Planning Commission to NITI Aayog
+---
 
-**Economic planning** in India meant the State setting priorities, allocating investible resources and coordinating public investment through Five-Year Plans.
+## 1.4 Evolution of Economic Planning: Planning Commission to NITI Aayog
 
-- **Economic and Social Planning** is a **Concurrent List** subject under the Seventh Schedule — both Union and States may legislate.
-- The Constitution also expects **Panchayats** to prepare plans for **economic development and social justice**.
-- The **Planning Commission** was set up by a **Cabinet resolution** on **15 March 1950**. It was **non-constitutional** and **non-statutory** — an advisory body, often called **quasi-political**.
-- Ashok Chandra called the Planning Commission the **‘Economic Cabinet’** of India because its wide, undefined role overshadowed formal Cabinet channels.
-- The Prime Minister chaired the Planning Commission; a Deputy Chairman (Cabinet Minister rank) ran day-to-day work. There was **no fixed tenure or prescribed qualification** for members in teaching stems.
-- **P. Chidambaram** was never Deputy Chairman; **Manmohan Singh**, **Pranab Mukherjee** and **Montek Singh Ahluwalia** were.
-- **NITI Aayog** replaced the Planning Commission from **1 January 2015**.
-- NITI was created by a **Union Cabinet resolution**, not by a constitutional amendment. Full form: **National Institution for Transforming India**.
-- The **Prime Minister** is Chairperson of NITI Aayog — not the President. NITI has a full-time **Vice-Chairperson**, not a full-time Chairman.
-- **Arvind Panagariya** was the first Vice-Chairperson of NITI Aayog.
-- First CEO teaching tag: **Sindhushree Khullar**; Amitabh Kant followed; later CEO tag includes **B.V.R. Subrahmanyam**.
-- NITI promotes **cooperative and competitive federalism**; it does **not** allocate old-style Plan funds the way the Planning Commission did.
-- **NITI Aayog** is the **nodal institution** for **SDG** implementation in India.
-- The **Governing Council** includes Chief Ministers of States / UTs with legislatures and Lt Governors of other UTs.
-- **State Governors are not** part of the Governing Council — a repeated trap.
-- **Atal Innovation Mission (AIM)** is a NITI flagship for innovation and entrepreneurship.
-- **DMEO** (Development Monitoring and Evaluation Office) was constituted on **18 September 2015** as an **attached office of NITI Aayog** by merging the Programme Evaluation Organisation (**PEO**) and the Independent Evaluation Office (**IEO**).
-- **NDC** (National Development Council) was set up on **6 August 1952**. The **Prime Minister** is its ex-officio Chairman.
-- NDC’s keyed functions were to approve and **review** the National Plan and to mobilise national support for Plan aims. It was the **final authority** to approve Five-Year Plans.
-- NDC has been proposed for abolition, but **no resolution has formally abolished it**; since NITI’s Governing Council, it has had little assigned work.
-- Classic ‘associated with Planning’ map: **NDC** and **Parliament**. The **Finance Commission** is a separate constitutional body for tax devolution / grants — not a Plan-drafting organ.
-- **Finance Commission** is constitutional; Planning Commission was not. FC’s scope is mainly revenue-account arrangements; Planning reviewed both capital and revenue needs for development plans.
-- **Imperative planning** replaces the market with a command hierarchy. **Indicative planning** indicates directions and supports the market — the style suited to mixed economies.
-- Under **Gadgil–Mukherjee Formula**, the highest weight for Central Plan Assistance was **population (60%)**.
-- **India Vision 2020** was prepared by the **S.P. Gupta Committee** of the Planning Commission.
-- Pre-Independence timeline: **Visvesvaraya** (*Planned Economy for India*, 1934) → Congress **National Planning Committee** (**1938**, Bose sets up; Nehru chairs) → **Bombay Plan** and **Gandhian Plan** (**1944**) → **People’s Plan** (**1945**, M.N. Roy) → **Sarvodaya Plan** (**1950**, Jayaprakash Narayan).
-- **Bombay Plan** signatories included Tata, Birla, Lala Shri Ram and others — **not Dhirubhai Ambani**.
-- **Gandhian Plan** is by **Sriman Narayan Agarwal**. Among keyed names, **Mahatma Gandhi** opposed centralised planned development.
-- *Yojana* is published by the **Publications Division** (Ministry of I&B). **B.S. Minhas** wrote *Planning and the Poor*.
+Economic planning represents a systematic process wherein a central authority mobilizes, allocates, and coordinates national resources toward predetermined socio-economic priorities over fixed planning horizons.
+
+### Constitutional Framework
+- **Concurrent Jurisdiction:** In the Seventh Schedule of the Constitution of India, **"Economic and Social Planning"** is listed under the **Concurrent List (List III, Entry 20)**. Both Parliament and State Legislatures possess concurrent jurisdiction to enact developmental legislation.
+- **Decentralized Local Planning:** Under Articles 243-G and 243-W, Panchayats and Municipalities are constitutional entities entrusted with preparing plans for economic development and social justice.
+
+### The Planning Commission (1950–2014)
+- **Establishment:** Established on **15 March 1950** through an **Executive Resolution of the Union Cabinet**, based on recommendations of the Advisory Planning Board chaired by K.C. Neogy.
+- **Legal Status:** It was a **non-constitutional and non-statutory body** with an advisory mandate.
+- **Authority and Influence:** Over decades, it functioned as an influential quasi-political authority. Administrative analyst Ashok Chandra famously characterized it as India's **"Economic Cabinet"** because its resource allocations effectively dictated central ministry and state development expenditures.
+- **Leadership:** The Prime Minister served as the ex-officio Chairman. Operational governance was managed by a full-time Deputy Chairman enjoying the protocol rank of a Union Cabinet Minister.
+- **Distinguished Deputy Chairmen:** Dr. Manmohan Singh, Pranab Mukherjee, and Montek Singh Ahluwalia. P. Chidambaram never served as Deputy Chairman.
+
+### The National Development Council (NDC)
+- **Establishment:** Formed on **6 August 1952** by executive order to associate State Governments with the planning process.
+- **Composition:** Chaired by the Prime Minister, and comprised all Union Cabinet Ministers, Chief Ministers of all States, administrators of Union Territories, and members of the Planning Commission.
+- **Primary Mandate:** Served as the **apex approving authority** for Five-Year Plans. While largely supplanted by NITI Aayog's Governing Council, no formal government resolution has formally dissolved the council.
+
+### NITI Aayog (National Institution for Transforming India)
+- **Establishment:** Replaced the Planning Commission on **1 January 2015** through a Union Cabinet Resolution. Like its predecessor, NITI Aayog is a **non-constitutional, non-statutory** policy institution.
+- **Core Philosophy:** Designed to function as a strategic developmental think tank that promotes **cooperative federalism** (bottom-up engagement with States) and **competitive federalism** (evidence-based performance benchmarking).
+- **Absence of Financial Allocation Power:** NITI Aayog does **not** allocate budgetary grants or capital plan funds to States; financial transfers are governed by the Ministry of Finance and statutory Finance Commission awards.
+- **Organizational Hierarchy:**
+  - **Chairperson:** Prime Minister of India (ex-officio).
+  - **Vice-Chairperson:** Full-time executive head holding Cabinet Minister rank (First Vice-Chair: **Arvind Panagariya**).
+  - **Chief Executive Officer (CEO):** Senior bureaucrat holding Secretary rank (First CEO: **Sindhushree Khullar**; later CEOs include Amitabh Kant and **B.V.R. Subrahmanyam**).
+  - **Governing Council:** Comprises the Prime Minister, Chief Ministers of all States and Union Territories with legislatures, and Lieutenant Governors of other Union Territories. **State Governors are not members**.
+- **Attached Specialized Offices:** The **Development Monitoring and Evaluation Office (DMEO)** was established on **18 September 2015** under NITI Aayog by merging the Programme Evaluation Organisation (**PEO**) and Independent Evaluation Office (**IEO**) to assess central scheme efficacy.
+- **Key Initiatives:**
+  - **Atal Innovation Mission (AIM):** Fosters nationwide entrepreneurship and incubation infrastructure.
+  - **SDG India Index:** Nodal tracker measuring State-level implementation of UN Sustainable Development Goals.
+  - **Aspirational Districts Programme:** Catalyzes development across lagging rural districts through composite index tracking.
+
+### Pre-Independence Planning Milestones
+1. **Sir M. Visvesvaraya (1934):** Authored *Planned Economy for India*, proposing a 10-year developmental roadmap to double national income.
+2. **National Planning Committee (1938):** Established by Congress President **Subhash Chandra Bose** at Haripura, with **Jawaharlal Nehru** as Chairman.
+3. **The Bombay Plan (1944):** Drafted by eight prominent industrialists (**J.R.D. Tata, G.D. Birla, Lala Shri Ram, Kasturbhai Lalbhai, A.D. Shroff, Purshottamdas Thakurdas, John Mathai, and Ardeshir Dalal**), advocating state-led heavy industry investment.
+4. **The Gandhian Plan (1944):** Authored by **Sriman Narayan Agarwal**, emphasizing cottage industries, rural decentralization, and agricultural self-sufficiency.
+5. **The People's Plan (1945):** Formulated by radical humanist leader **M.N. Roy**, advocating socialistic agriculture and consumer goods production.
+6. **The Sarvodaya Plan (1950):** Drafted by **Jayaprakash Narayan**, integrating Gandhian rural reconstruction with socialist cooperative farming.
 
 **Q-EC4. UPPCS (Pre) 2018**
 
 Who was the first Vice-Chairman of the NITI Ayog?
 
-A. Arvind Panagariya
-B. Raghuram Rajan
-C. Chandrashekhara Subramanyam
-D. Rajiv Kumar
+A. Arvind Panagariya  
+B. Raghuram Rajan  
+C. Chandrashekhara Subramanyam  
+D. Rajiv Kumar  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rajiv Kumar came later.
+**Explanation:**  
+- Economist Prof. Arvind Panagariya was appointed as the first Vice-Chairperson of NITI Aayog in January 2015, serving until August 2017. He was succeeded by Dr. Rajiv Kumar and later Suman Bery.  
 
-**Ans: A.** Panagariya was the first Vice-Chairperson.
+**Ans: A.** Arvind Panagariya.
 
 </details>
 
@@ -352,120 +388,120 @@ D. Rajiv Kumar
 
 The Atal Innovation Mission (AIM) is a flagship initiative set up by
 
-A. Ministry of Human Resource Development
-B. NITI Aayog
-C. Ministry of Social Justice and Impowerment
-D. Ministry of Science and Technology
+A. Ministry of Human Resource Development  
+B. NITI Aayog  
+C. Ministry of Social Justice and Empowerment  
+D. Ministry of Science and Technology  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** AIM sits under NITI Aayog — NITI Aayog
+**Explanation:**  
+- The Atal Innovation Mission (AIM) is a flagship initiative launched by NITI Aayog to promote a culture of innovation and entrepreneurship through Atal Tinkering Labs (ATLs) in schools and Atal Incubation Centres (AICs) for startups.  
 
-**Ans: B.** NITI Aayog
+**Ans: B.** NITI Aayog.
+
 </details>
 
 **Q-EC6. UPPCS (Pre) 2020**
 
 The Development Monitoring and Evaluation Office, which monitors the progress of long-term policies, is an attached office under
 
-A. Prime Minister’s Office
-B. Ministry of Home Affairs
-C. Cabinet Secretariat
-D. NITI Aayog
+A. Prime Minister's Office  
+B. Ministry of Statistics and Programme Implementation  
+C. Cabinet Secretariat  
+D. NITI Aayog  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** DMEO (18 Sep 2015) is attached to NITI after merging PEO and IEO — not PMO or Cabinet Secretariat — NITI Aayog
+**Explanation:**  
+- The Development Monitoring and Evaluation Office (DMEO) was constituted on 18 September 2015 as an attached office under NITI Aayog by amalgamating the erstwhile Programme Evaluation Organisation (PEO) and Independent Evaluation Office (IEO).  
 
-**Ans: D.** NITI Aayog
+**Ans: D.** NITI Aayog.
+
 </details>
 
-**Q-EC7. UKPCS (Pre) 2025**
+**Q-EC7. UPPCS (Pre) 2021**
 
-With reference to NITI Aayog, consider the following statements:
+Who among the following was never a Deputy Chairman of the Planning Commission of India?
 
-1. It was established on January 1, 2014.
-2. It was created by a resolution of the Union Cabinet.
-3. The President of India is the Chairman of NITI Aayog.
-
-A. 1 and 3
-B. Only 1
-C. Only 2
-D. 2 and 3
+A. Shri Chidambaram  
+B. Shri Pranab Mukherjee  
+C. Shri Manmohan Singh  
+D. Shri Montek Singh Ahluwalia  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Date is 2015; Chairperson is the PM.
+**Explanation:**  
+- P. Chidambaram served in key ministerial portfolios (Finance, Home) but was never appointed Deputy Chairman of the Planning Commission. Dr. Manmohan Singh (1985–87), Pranab Mukherjee (1991–96), and Montek Singh Ahluwalia (2004–14) all served as Deputy Chairman.  
 
-**Ans: C.** Only statement 2 is true.
+**Ans: A.** Shri Chidambaram.
 
 </details>
 
-**Q-EC8. UKPCS (Pre) 2024**
+**Q-EC8. UPPCS (Pre) 2018**
 
-Which of the following is NOT a part of the Governing Council of NITI Aayog?
+Which of the following is NOT a member of the Governing Council of NITI Aayog?
 
-A. All Chief Ministers of the States
-B. Chief Ministers of Delhi and Puducherry
-C. Governors of States
-D. Lieutenant Governor of Andaman & Nicobar Islands
+A. Chief Ministers of all States  
+B. Chief Ministers of Delhi and Puducherry  
+C. Governors of States  
+D. Lieutenant Governor of Andaman & Nicobar Islands  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Governors of States.
+**Explanation:**  
+- NITI Aayog's Governing Council comprises the Prime Minister, Chief Ministers of all States and Union Territories with legislative assemblies, and Lieutenant Governors/Administrators of other UTs. State Governors are not members of the Governing Council.  
 
-**Ans: C.** GC has CMs and Lt Governors of UTs without legislatures — not State Governors.
+**Ans: C.** Governors of States.
 
 </details>
 
-## 1.5 Five-Year Plans — theme tags
+---
 
-**Five-Year Plans** were the Planning Commission’s medium-term investment and priority frameworks from the 1950s until Plan-era closure.
+## 1.5 The Five-Year Plans: Chronology, Models, and Thematic Focus
 
-- Planned development in the FYP sense began on **1 April 1951** with the First Plan.
-- Plan slogans are high-yield: match Plan number to theme, not the other way around.
-- Classical Plan goals include **growth, modernisation and self-reliance** (equity / inclusion deepen later). **Literature** is not a Plan goal.
-- The **First Plan (1951–56)** focused on agriculture, irrigation and community development after Partition scarcity. It drew on the **Harrod–Domar** model with modifications.
-- The **Second Plan (1956–61)** followed the **Mahalanobis** heavy-industry model and a **socialistic pattern of society** (IPR 1956). Industry got maximum emphasis.
-- The **Third Plan (1961–66)** faced drought and war stress; **S. Chakravarty** model teaching tag. After it ended came the **Plan Holiday (1966–69)** — three Annual Plans.
-- The **Fourth Plan (1969–74)** carried **growth with stability** and progressive self-reliance; **Ashok Rudra** model teaching; **Growth Centre Approach** for regional disparities.
-- The **Fifth Plan (1974–79)** twin goals were **Garibi Hatao** and **self-reliance** (zero net foreign aid teaching). Emergency / 20-Point Programme context matters; Janata terminated it early in **1978**.
-- **Garibi Hatao** as Indira Gandhi’s **1971 election slogan** falls in Fourth-Plan years; as a Plan twin objective it is keyed to the **Fifth Plan**.
-- **Rolling Plan (1978–80)** under the **Janata** government revised targets yearly. **Gunnar Myrdal** suggested Rolling Plans for backward countries.
-- The **Sixth Plan (1980–85)** restored the five-year rhythm; **IRDP** was extended to all blocks from **2 October 1980**.
-- The **Seventh Plan (1985–90)** slogan was **Food, Work and Productivity**; IRDP used a **total household approach**.
-- After political uncertainty, **1990–92** were Annual Plans; the **Eighth Plan (1992–97)** launched after reforms.
-- The **Eighth Plan** recognised **human development** as the core of developmental effort and shifted public investment toward **infrastructure**. Target growth **5.6%**; actual ~**6.8%**.
-- The **Ninth Plan (1997–2002)** focused on **Growth with Social Justice and Equity**. The **Women’s Component Plan** became a major strategy (≥30% earmarking teaching).
-- The **Tenth Plan (2002–07)** set an **8%** GDP target with monitorable human-development targets; energy had the highest outlay share among keyed sector tables.
-- The **Eleventh Plan (2007–12)** centres **Towards Faster and More Inclusive Growth**. Targets: GDP **9%**, agriculture **4%**, industry about **10–10.5%**. Social sector took the largest combined Central–State–UT expenditure share.
-- Inclusive growth includes poverty reduction, employment expansion and gender-gap reduction — **not** “strengthening the capital market” as a listed inclusive-growth head.
-- The **Twelfth Plan (2012–17)** slogan is **Faster, More Inclusive and Sustainable Growth** — the **last** Five-Year Plan.
-- NDC approved **8%** average GDP for the 12th Plan (Approach Paper had floated **9%**). Agriculture, forestry and fisheries target **4%**. Social services got the largest allocation share; infrastructure investment need was keyed around **USD 1 trillion**.
-- Do not swap 11th (inclusive) with 12th (adds sustainable explicitly in the keyed slogan).
-- About **seven** years till 2017 were not covered by any FYP: Plan Holiday, Rolling/Annual Plans 1978–80, and Annual Plans 1990–92.
-- **Core sector** means selected **basic industries** (power, steel, refining, crude, coal, cement, gas, fertilisers) — not agriculture or defence alone.
-- Plan-era allocation politics ended with NITI; Plan slogans still appear in Prelims stems.
+India implemented twelve Five-Year Plans alongside several interim Annual Plans between **1 April 1951** and **31 March 2017**.
+
+### Chronological Guide to Indian Plans
+
+| Plan & Duration | Theoretical Model & Architects | Priority Sectors & Distinctive Highlights | Growth Target vs Actual |
+|---|---|---|---|
+| **First Plan (1951–56)** | **Harrod–Domar Model** (adapted by K.N. Raj) | Agriculture, price stability, power, and major irrigation (Bhakra Nangal, Damodar Valley, Hirakud). Formally launched 1 April 1951. | Target: 2.1%  Actual: **3.6%** |
+| **Second Plan (1956–61)** | **P.C. Mahalanobis Model** (Heavy Industry Strategy) | Capital goods, heavy engineering, steel plants (Bhilai, Durgapur, Rourkela). Adopted the goal of a **"Socialistic Pattern of Society"** (IPR 1956). | Target: 4.5%  Actual: **4.27%** |
+| **Third Plan (1961–66)** | **John Sandy & S. Chakravarty Model** | Self-reliant agriculture and heavy industry. Disrupted by the Sino-Indian War (1962), Indo-Pak War (1965), and severe drought (1965–66). | Target: 5.6%  Actual: **2.84%** |
+| **Plan Holiday (1966–69)** | Three Annual Plans | Devaluation of the Rupee (1966), launch of the **Green Revolution** (High Yielding Varieties Program), and agricultural price support (creation of FCI & CACP). | Stabilized economy |
+| **Fourth Plan (1969–74)** | **Ashok Rudra & A.S. Manne Model** | Core objective: **"Growth with Stability and Progressive Self-Reliance"**. Nationalization of 14 major commercial banks (1969); Indo-Pak War (1971) and oil shock (1973). | Target: 5.7%  Actual: **3.3%** |
+| **Fifth Plan (1974–79)** | **D.D. Dhar Model** | Twin objectives: **"Garibi Hatao" (Poverty Removal)** and **"Attainment of Self-Reliance"** (zero net foreign aid). Launched 20-Point Program (1975). Terminated early in 1978. | Target: 4.4%  Actual: **4.8%** |
+| **Rolling Plan (1978–80)** | Proposed by **Gunnar Myrdal** | Formulated by the Janata Party government under Morarji Desai, revising targets annually. Discontinued when Congress returned to power in 1980. | Transitional Annual Plans |
+| **Sixth Plan (1980–85)** | Modernization & Technology Framework | Direct attack on poverty via family welfare; nationwide rollout of **IRDP (Integrated Rural Development Programme)** on 2 October 1980; establishment of **NABARD (1982)**. | Target: 5.2%  Actual: **5.66%** |
+| **Seventh Plan (1985–90)** | Focus on Food and Productivity | Slogan: **"Food, Work and Productivity"**. Introduction of Jawahar Rozgar Yojana (JRY, 1989); private sector investment outlays surpassed public sector for the first time. | Target: 5.0%  Actual: **6.01%** |
+| **Annual Plans (1990–92)** | Intermittent Annual Plans | Balance of Payments crisis, gold pledging, and launch of systemic economic reforms (July 1991). | Reform period |
+| **Eighth Plan (1992–97)** | **John W. Miller Model** | Designated **human development** as the core of economic planning. Focused on infrastructure and private enterprise encouragement following 1991 LPG reforms. | Target: 5.6%  Actual: **6.68%** |
+| **Ninth Plan (1997–2002)** | 50th Independence Anniversary Plan | Core objective: **"Growth with Social Justice and Equity"**. Institutionalized the **Women's Component Plan (WCP)**, earmarking at least 30% of scheme funds for women. | Target: 6.5%  Actual: **5.35%** |
+| **Tenth Plan (2002–07)** | Monitorable Target Framework | Ambitious 8% GDP target; set monitorable targets for poverty reduction, primary schooling, and gender parity; highest outlay allocation directed toward the **energy sector**. | Target: 8.0%  Actual: **7.7%** |
+| **Eleventh Plan (2007–12)** | C. Rangarajan Leadership | Slogan: **"Towards Faster and More Inclusive Growth"**. Substantial investments in education (Right to Education Act) and health (NRHM). | Target: 9.0%  Actual: **7.9%** |
+| **Twelfth Plan (2012–17)** | Final Five-Year Plan | Slogan: **"Faster, More Inclusive and Sustainable Growth"**. NDC approved an 8% growth target; prioritized infrastructure investment estimated at **USD 1 trillion**. | Final FYP before transition |
 
 **Q-EC9. UPPCS (Pre) 2018**
 
 In India which of the following Five Year Plans was launched with a focus on sustainable growth?
 
-A. 9th
-B. 10th
-C. 11th
-D. 12th
+A. 9th  
+B. 10th  
+C. 11th  
+D. 12th  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eleventh is the inclusive-growth slogan.
+**Explanation:**  
+- The Twelfth Five-Year Plan (2012–17) was specifically titled **"Faster, More Inclusive and Sustainable Growth"**. While the Eleventh Plan focused on "Faster and More Inclusive Growth", the Twelfth Plan explicitly incorporated environmental sustainability as a core dimension.  
 
-**Ans: D.** Twelfth Plan — Faster, More Inclusive and Sustainable Growth.
+**Ans: D.** 12th.
 
 </details>
 
@@ -473,81 +509,91 @@ D. 12th
 
 Which Five Year Plan was focused on inclusive growth?
 
-A. 9th
-B. 10th
-C. 8th
-D. 11th
+A. 9th  
+B. 10th  
+C. 8th  
+D. 11th  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eleventh Plan title centres inclusive growth — 11th
+**Explanation:**  
+- The Eleventh Five-Year Plan (2007–12) adopted the official title **"Towards Faster and More Inclusive Growth"**, placing structured emphasis on social sector outlays, rural employment, and regional parity.  
 
-**Ans: D.** 11th
-</details>
-
-## 1.6 Reforms and the cycle
-
-**Economic reforms** liberalise controls, open trade and investment, and reshape the public–private balance.
-
-### Reform chronology
-
-- Mid-**1980s** delicensing and technology import easing under **Rajiv Gandhi** is the usual “first phase of liberalisation” key.
-- The **1991 LPG package** under **P.V. Narasimha Rao** (with Manmohan Singh as Finance Minister) is the full structural break — crisis, IMF/World Bank engagement and systemic opening.
-- Liberalisation started with substantial changes in **industrial licensing** (New Industrial Policy, **24 July 1991**).
-- **Manmohan Singh** is keyed as the **pioneer of liberalisation** (as Finance Minister).
-- **Stabilisation** is short-term demand management (inflation, fiscal, BoP). **Structural adjustment** is the longer supply-side reform track (trade, industry, finance).
-- **Liberalisation** cut industrial licensing and controls; **privatisation / disinvestment** reduced public ownership in selected PSUs; **globalisation** deepened trade and capital openness.
-- Among “Second Generation of Economic Reforms” options, **Legal System Reforms** was the odd one out versus oil, PSU and government-institution reforms.
-- Occupational structure stayed agri-heavy partly because investment favoured **capital-intensive** industry over labour-absorbing units.
-- Later waves include tax reform, financial-sector opening, GST and labour / farm reform debates — year-sensitive CA.
-- Do not call 1991 the “first phase” when the stem asks for the mid-1980s wave.
-
-### Business cycle
-
-- Short-run output fluctuates in phases: **expansion / boom → peak → contraction / recession → trough / depression**, then recovery.
-- Expansion raises output, employment and investment; peaks mark high utilisation.
-- Contraction / recession cuts demand and employment; depression marks the deepest fall before revival.
-- **Meltdown** keys a steep fall in stock prices; recession is not a mere dip in the growth rate; slowdown is not simply “fall in GDP”.
-- Cycles move around the long-run growth path — they do not replace structural reform teaching.
-
-**Q-EC11. UKPCS (Pre) 2016**
-
-The first phase of liberalization was initiated in India under the regime of
-
-A. Rajiv Gandhi
-B. P. V. Narasimha Rao
-C. Atal Behari Vajpayee
-D. H. D. Deve Gowda
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 1991 under Narasimha Rao is the full LPG break.
-
-**Ans: A.** Mid-1980s delicensing / reform wave under Rajiv Gandhi is the usual “first phase” key.
+**Ans: D.** 11th.
 
 </details>
 
 ---
 
-## Teaching expansion — additional theory (beyond Consolidated spine)
+## 1.6 Economic Reforms and Business Cycle Dynamics
 
-These points sit in teaching theory (not the Consolidated spine).
+### The Paradigm Shift: 1991 LPG Reforms
+- **The Balance of Payments (BoP) Crisis:** In early 1991, India faced an acute balance of payments crisis triggered by the Gulf War (surging oil import costs and loss of remittances), fiscal deficits, and double-digit inflation. Foreign exchange reserves plummeted to approximately **USD 1.2 billion** (barely enough to finance two weeks of essential imports), compelling India to pledge physical gold to the Bank of England and Union Bank of Switzerland.
+- **Rao–Manmohan Model:** Under Prime Minister **P.V. Narasimha Rao** and Finance Minister **Dr. Manmohan Singh**, the Government of India launched a comprehensive structural adjustment and stabilization program based on the **LPG Framework** (Liberalisation, Privatisation, and Globalisation).
+  1. **Liberalisation:** Abolition of industrial licensing (the "License-Permit-Quota Raj") under the **New Industrial Policy of 24 July 1991**, dismantling of the Monopolies and Restrictive Trade Practices (MRTP) asset limits, and phased deregulation of domestic prices and financial markets.
+  2. **Privatisation:** Disinvestment of state equity in selected Public Sector Undertakings (PSUs), commercialization of state-owned monopolies, and opening formerly reserved sectors (telecom, aviation, mining) to private competition.
+  3. **Globalisation:** Reduction of quantitative import restrictions and tariff peaks, adoption of a market-determined exchange rate mechanism (LERS in 1992, unified floating exchange rate in 1993), and liberal automatic approval routes for Foreign Direct Investment (FDI).
+- **Stabilisation vs Structural Adjustment:**
+  - **Stabilisation (Demand Management):** Short-term emergency measures designed to curb runaway inflation, compress fiscal deficits, and restore balance of payments solvency.
+  - **Structural Adjustment (Supply Management):** Long-term, gradual institutional reforms designed to enhance international competitiveness, upgrade productivity, and liberalize foreign trade and investment regimes.
+- **Early Pre-1991 Reform Phase:** The initial phase of selective industrial delicensing, broadbanding of industrial capacity, and technological modernization was initiated in the mid-1980s under Prime Minister **Rajiv Gandhi**. However, the comprehensive, systemic break with socialist central planning occurred in **July 1991**.
 
-- Problems in measuring NI in India include a large **informal / unorganised** sector, **non-monetised** consumption, data gaps, double counting and black-money traps.
-- Current-price PCI growth exceeds constant-price PCI growth because constant prices strip out the **price-level** rise.
-- Classical FYP goals: **growth, modernisation, self-reliance** (and equity / inclusion in later Plans) — **literature** is not a Plan goal.
-- Transfer payments (pensions, scholarships, gifts) are **excluded** from GDP because they involve no productive contribution.
-- **People's Plan (1945)** is associated with **M.N. Roy**.
-- **Sarvodaya Plan (1950)** is linked with **Jayaprakash Narayan**.
-- Steel plants of the Second Plan teaching set: **Bhilai** (USSR), **Durgapur** (UK), **Rourkela** (West Germany).
-- 1991 crisis teaching: forex plunged to roughly **two weeks of imports**; gold was pledged abroad for emergency support.
-- **Counter-cyclical** fiscal policy expands spending / cuts taxes in a downturn; **pro-cyclical** moves with the boom.
-- NITI flagship indices teaching desk includes **SDG India Index**, **CWMI**, Aspirational Districts, **India Innovation Index** (**Karnataka** topped major States in 2019–21 editions), and **Fiscal Health Index**.
-- **Decade of jobless growth** teaching tag for organised manufacturing: **1991–2000**.
-- **Twenty Point Programme** was first launched in **1975**.
-- Planning Commission had **no fixed tenure / qualifications** prescribed for Deputy Chairman and members in teaching stems — and no Constitutional mention.
+### Business Cycle Dynamics
+Short-term economic fluctuations around the long-term trend path occur in recurring cyclical waves:
+- **Phases of the Business Cycle:**
+  1. **Expansion / Boom:** Rising aggregate demand, increasing industrial production, expanding employment, and buoyant business investment.
+  2. **Peak:** The cyclical crest where productive capacity and employment reach near-maximum utilization, often accompanied by escalating demand-pull inflation.
+  3. **Contraction / Recession:** Declining aggregate demand, reduction in factory output, accumulation of unsold inventories, and rising unemployment. Technically, a recession is defined as **two consecutive quarters of negative GDP growth**.
+  4. **Trough / Depression:** The deepest contractionary phase characterized by severe unemployment, business insolvencies, and excess capacity, persisting until replacement demand and recovery interventions trigger revival.
+- **Conceptual Distinctions:**
+  - **Recession:** A genuine contraction where aggregate output declines in absolute terms.
+  - **Slowdown:** A deceleration where GDP continues to grow, but at a visibly reduced percentage rate compared to previous years.
+  - **Financial Meltdown:** A sudden, steep collapse in financial asset prices, credit markets, and stock exchanges, rather than an immediate contraction in physical output.
+- **Fiscal Policy Countermeasures:**
+  - **Counter-Cyclical Fiscal Policy:** The government increases public spending and cuts taxes during an economic downturn to stimulate demand, while moderating spending and raising revenue during a boom.
+  - **Pro-Cyclical Fiscal Policy:** Public spending expands during booms and contracts during downturns, exacerbating the amplitude of the economic cycle.
+
+**Q-EC11. UKPCS (Pre) 2016**
+
+The first phase of liberalization was initiated in India under the regime of
+
+A. Rajiv Gandhi  
+B. P. V. Narasimha Rao  
+C. Atal Behari Vajpayee  
+D. H. D. Deve Gowda  
+
+<details>
+<summary>Show answer</summary>
+
+**Explanation:**  
+- The initial wave of industrial deregulation, computerization, and import delicensing commenced in the mid-1980s under Prime Minister Rajiv Gandhi. While the comprehensive, systemic macroeconomic LPG package was launched in July 1991 under P.V. Narasimha Rao, historical and exam classifications recognize the mid-1980s initiatives as the first phase of Indian economic liberalization.  
+
+**Ans: A.** Rajiv Gandhi.
+
+</details>
+
+---
+
+## Supplementary Concepts & High-Yield Theoretical Notes
+
+### Methodological Dilemmas in National Income Computation
+- **Double Counting:** A common error in national accounting where the value of intermediate goods (e.g., flour used by a baker) is counted alongside the value of the final product (bread). To eliminate double counting, only final product prices or the net value added ($Value \ of \ Output - Intermediate \ Consumption$) across stages are aggregated.
+- **Transfer Payments:** Outlays such as old-age pensions, unemployment benefits, scholarships, and family remittances do not reflect payments for productive services rendered in the current period. Consequently, all transfer payments are excluded from Gross Domestic Product and National Income.
+- **Price Distortion:** Current-price per capita income growth consistently exceeds constant-price per capita income growth during inflationary periods because current prices reflect both volume expansion and price inflation.
+
+### Landmark Pre-Independence Planning Concepts
+- **National Planning Committee (1938):** Initiated by Netaji Subhash Chandra Bose and presided over by Jawaharlal Nehru, this committee represented the first formal attempt by the Indian nationalist leadership to outline an all-India planned economic framework.
+- **The Bombay Plan (1944):** Titled *A Brief Memorandum Outlining a Plan of Economic Development for India*, this proposal by eight prominent industrialists recognized that post-Independence industrialization would require massive state investment in basic heavy industries, power generation, and transport infrastructure that private capital alone could not finance.
+- **The Gandhian Plan (1944):** Drafted by Sriman Narayan Agarwal, this blueprint emphasized village self-sufficiency, decentralized handicraft cooperatives, and moral economics, deliberately repudiating centralized, mechanized heavy industrialization.
+
+### NITI Aayog Performance Indices & Federal Tracking
+- **Sustainable Development Goals (SDG) India Index:** Comprehensive index ranking States and UTs on their progress across 16 United Nations Sustainable Development Goals.
+- **Composite Water Management Index (CWMI):** Benchmarks State performance in groundwater recharge, water management efficiency, and watershed development.
+- **Fiscal Health Index (2025):** Evaluates State financial sustainability and fiscal discipline; in the 2025 evaluation, **Odisha** ranked 1st among major States, with **Uttar Pradesh** scoring **45.9** (7th rank).
+- **India Innovation Index:** Measures innovation capacity across human capital, business environment, and patent generation; **Karnataka** has consistently topped the major States category.
+
+---
 
 ## Complete PYQ Bank (UPPCS)
 
@@ -571,7 +617,7 @@ D. Only 2 and 3 are correct.
 
 **Logic:** Only 1 and 2 are correct.
 
-**Ans: A.** Mixed + underdeveloped/developing textbook tags true; Keynes title false.
+**Ans: A.** Statements 1 and 2 are correct. India is a mixed developing economy. Statement 3 is incorrect because Adam Smith is the Father of Economics, while J.M. Keynes is the father of modern macroeconomics.
 
 </details>
 
@@ -593,7 +639,7 @@ D. (A) is true, but (R) is false.
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
+**Explanation:** Development focuses on qualitative welfare and living standards. Because per capita income growth alone cannot capture distributional equity, health, or education, income growth is not a sufficient measure. Reason (R) correctly explains Assertion (A).
 
 **Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
@@ -4523,34 +4569,32 @@ D. 1, 2 and 3
 **Ans: D.** 1, 2 and 3
 </details>
 
-## Common Traps
+## Common Traps & High-Yield Conceptual Clarifications
 
-* Mixed economy = public + private — not small/large industry or primary/secondary alone; Keynes ≠ Father of Economics (Adam Smith).
-* Labour-surplus ≠ capital-/trade-surplus; lack of natural resources is **not** an Indian-economy trait.
-* Underdeveloped: low PCI + low capital formation — **not** low dependency or tertiary-heavy workforce.
-* Voluntary social service ≠ economic activity.
-* Growth ≠ development; real GNP rise fails development if poverty/unemployment rise; best growth sign = sustained **real PCI**.
-* Hindu rate (Raj Krishna) = NI/GDP ~3.5% — not population/literacy.
-* NI = NNP at **factor cost**; NDP = GDP − Dep (never +); Y = C+I+G+(X−M).
-* Base year = prices for **real** GDP — current **2022–23** (from Feb 2026); 2015 change was base **and** method (GVA basic prices).
-* Unorganised sector / non-monetised output muddies NI; diminishing-cost is **not** a GDP method.
-* Real sector (crops/textiles) ≠ financial sector (bank lending / Masala bonds).
-* High COR → low growth despite high savings; household savings dominate; physical assets top household saving form.
-* Stabilisation (quick, demand) ≠ structural adjustment (gradual, supply); liberalisation pioneered by Manmohan Singh as FM; started with industrial licensing.
-* Meltdown ≠ recession ≠ slowdown definitions — only meltdown correctly = stock-price fall in the UPSC pair.
-* GDP (domestic) vs GNP (+ NFIA); real vs nominal; deflator ≠ CPI key.
-* NITI: 1 Jan **2015**, Cabinet resolution, **PM** Chair, first VC **Panagariya**; no old Plan-fund role; Governors ≠ GC; full-time VC not full-time Chair.
-* Economic & Social Planning = **Concurrent List** — not Union/State exclusive.
-* DMEO = attached office of **NITI** (18 Sep 2015) — not PMO / Cabinet Secretariat / Home.
-* NDC (6 Aug 1952, PM Chair) = final FYP approval — not formally abolished; little work after NITI GC.
-* Finance Commission (Art. 280) ≠ Planning Commission (non-constitutional Plan body).
-* Imperative = command replaces market; indicative = guides market.
-* Gadgil–Mukherjee: **population 60%** highest weight — not performance first.
-* 11th = inclusive; 12th = inclusive + sustainable; 12th is **last** FYP.
-* Plan Holiday **1966–69** ≠ Rolling Plan **1978–80** (Janata / Myrdal).
-* Garibi Hatao slogan (1971) vs Fifth Plan twin objective — read the stem carefully.
-* Bombay Plan ≠ Dhirubhai Ambani; Gandhian Plan = S.N. Agarwal; Sarvodaya = JP Narayan; NPC = Bose + Nehru.
-* Rajiv = early liberalisation phase; 1991 Rao = LPG package.
-* NITI ≠ Finance Commission (Art. 280).
-* Bihar lowest PCI; Maharashtra largest State economy; Naoroji first estimate / V.K.R.V. Rao scientific / Mahalanobis 1949 committee.
-* SDG nodal = **NITI**; Fiscal Health Index 2025 top = **Odisha**; UP FHI = **45.9**.
+* **Mixed Economy Definition:** A mixed economy denotes the institutional coexistence and cooperation of the **public and private sectors**; it does not mean a combination of small and large industries, or agriculture and service sectors alone.
+* **Classical vs Modern Macroeconomic Pioneers:** **Adam Smith** is celebrated as the Father of Modern Economics (*Wealth of Nations*, 1776). In contrast, **J.M. Keynes** is recognized as the father of modern macroeconomics (*General Theory*, 1936), not general economics.
+* **Factor Endowments:** India is structurally classified as a **labour-surplus economy** (abundant labour relative to capital endowments); it is not a capital-surplus or trade-surplus nation.
+* **Underdevelopment Indicators:** Key structural traits of underdeveloped economies are **low per capita income**, **low rate of capital formation**, and severe disguised unemployment. A low dependency ratio and a tertiary-dominated workforce are attributes of advanced, developed economies.
+* **Economic Activity Boundary:** Commercial activities (farming, manufacturing, transportation) undertaken for monetary remuneration constitute economic activities. Altruistic **voluntary social service** is non-monetized and classified as non-economic.
+* **Economic Growth vs Development:** Sustained growth in real per capita income is the most reliable single indicator of economic growth, but it is **not a sufficient condition** for development. If poverty, unemployment, and inequality worsen, economic development has failed despite real GNP growth.
+* **The "Hindu Rate of Growth":** Coined by economist Prof. Raj Krishna, the term denotes the ~**3.5% GDP stagnation** between the 1950s and early 1980s; it does not refer to demographic or population growth rates.
+* **Official National Income Definition:** National Income in standard Indian national accounting is formally defined as **Net National Product at factor cost ($NNP_{FC}$)**. Net Domestic Product equals GDP minus depreciation (never GDP plus depreciation).
+* **National Accounts Base Year:** Real GDP series isolate volume changes using constant base-year prices. Effective **February 2026**, MoSPI revised the benchmark base year to **2022–23** (replacing the previous 2011–12 series).
+* **Measurement Obstacles in National Income:** The predominant practical dilemma in computing Indian national income is the large **unorganized / informal sector** and **non-monetized subsistence transactions**, rather than underemployment or inflation per se.
+* **Real Sector vs Financial Sector:** The real sector encompasses physical production, crops, and manufacturing; the financial sector comprises credit intermediation, banking, and capital market securities.
+* **Capital–Output Ratio Dynamics:** A high Capital–Output Ratio (COR) signifies lower capital efficiency, explaining why GDP growth may lag despite high domestic savings rates. Household physical savings (real estate, gold) historically constitute the largest domestic saving component.
+* **Stabilisation vs Structural Adjustment:** Stabilisation involves short-term demand reduction to control inflation and foreign exchange depletion; Structural adjustment involves long-term supply-side market opening and industrial delicensing.
+* **Business Cycle Taxonomy:** A financial meltdown signifies a sharp fall in asset and stock prices; a recession requires an absolute contraction in GDP over at least two consecutive quarters; a slowdown denotes decelerating growth rates.
+* **NITI Aayog Architecture:** Established on **1 January 2015** via Union Cabinet Resolution; chaired by the **Prime Minister**; full-time executive leadership rests with the Vice-Chairperson; it does **not** allocate budgetary plan funds; **State Governors are not members** of the Governing Council.
+* **Constitutional Placement of Planning:** "Economic and Social Planning" resides in the **Concurrent List (List III, Entry 20)** of the Seventh Schedule, granting concurrent legislative authority to Parliament and State Legislatures.
+* **Attached Evaluation Offices:** The Development Monitoring and Evaluation Office (DMEO) was instituted on **18 September 2015** as an attached office under **NITI Aayog** (not under the PMO, Cabinet Secretariat, or MoSPI).
+* **National Development Council (NDC):** Chaired by the Prime Minister and formed on 6 August 1952, its primary mandate was the final approval of Five-Year Plans. It has never been formally dissolved by executive resolution.
+* **Finance Commission vs Planning Commission:** The Finance Commission is a statutory constitutional body (**Article 280**) governing tax devolution; the erstwhile Planning Commission was an extra-constitutional, non-statutory body determining developmental plan assistance.
+* **Gadgil–Mukherjee Formula:** Central Plan Assistance allocation assigned the single highest weightage to **population (60%)**, not financial performance.
+* **Five-Year Plan Theme Distinctions:** The 11th Plan theme was **"Towards Faster and More Inclusive Growth"**; the 12th Plan explicitly added **"Sustainable"** to its title (**"Faster, More Inclusive and Sustainable Growth"**).
+* **Plan Holiday vs Rolling Plan:** The Plan Holiday (**1966–69**) comprised three Annual Plans necessitated by war and drought; the Rolling Plan (**1978–80**) was a rolling strategy introduced by the Janata government based on Gunnar Myrdal's model.
+* **Garibi Hatao Timeline:** First popularized by Indira Gandhi as an election slogan during the **1971 elections**; formally adopted as a twin plan objective in the **Fifth Five-Year Plan (1974–79)**.
+* **Authors of Pre-Independence Plans:** Bombay Plan (1944) was drafted by 8 leading industrialists (not including Dhirubhai Ambani); Gandhian Plan (1944) by Sriman Narayan Agarwal; People's Plan (1945) by M.N. Roy; Sarvodaya Plan (1950) by Jayaprakash Narayan.
+* **Phases of Liberalization:** Early selective delicensing and capacity broadbanding began in the mid-1980s under Rajiv Gandhi; systemic, comprehensive structural reform began in July 1991 under P.V. Narasimha Rao and Dr. Manmohan Singh.
+* **State Economic Rankings:** Maharashtra possesses the largest State Gross Domestic Product (GSDP); Bihar records the lowest per capita income; Goa and Sikkim record the highest per capita incomes.
+* **Sustainable Development Goals Leader:** NITI Aayog is the nodal coordinating body for SDG implementation across Indian States. In the 2025 Fiscal Health Index, **Odisha** ranked 1st among major States, with **Uttar Pradesh** scoring **45.9**.

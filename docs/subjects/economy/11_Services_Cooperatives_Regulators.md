@@ -1,229 +1,199 @@
 # Economy Topic 11 — Service Sector, Cooperatives, Companies and Regulatory Institutions
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥26)
+### Comprehensive Study & Revision Notes
 
 <details>
-<summary><strong>Covers syllabus</strong> (click to expand)</summary>
+<summary><strong>Syllabus Coverage</strong> (click to expand)</summary>
 
-Tertiary / services map | IT–ITeS, tourism, transport, education, health, e-commerce | Cooperatives & Ministry of Cooperation | Companies / CSR / governance | Regulator list (RBI, SEBI, IRDAI, PFRDA, CCI, TRAI, IFSCA) | BIS / FSSAI / quality marks | Consumer protection / MRP
+Tertiary (Services) sector classification & structural transformation | Sub-sectors: IT-BPM, tourism, transport, logistics, healthcare, education, financial services | Cooperative movement & Ministry of Cooperation (97th Constitutional Amendment, Article 43B) | Corporate governance & Companies Act 2013 (Section 135 CSR mandate) | Statutory regulatory bodies (RBI, SEBI, IRDAI, PFRDA, CCI, TRAI, IFSCA) | Quality certifications & eco-labeling (BIS, FSSAI, AGMARK, ECOMARC, ISO 14001) | Consumer Protection Act 2019 & Maximum Retail Price (MRP) economics
 
 </details>
 
-> **Sources baked in:** NCERT Class 11 Indian Economic Development (structural change / services), Companies Act CSR notes, regulator factsheets, UPPCS Prelims PYQs, UKPCS Prelims
-> **Weight:** ★★ High — CSR Act year + 2% trap, MRP ceiling A/R, ECOMARC, and regulator–sector match lists decide stems
-> **Last verified:** September 2026 — Lucent remodel (History/Polity section order); Extra Drill rebuilt from mixed stems
-
-Banking depth stays in **Topic 3**; SEBI / mutual-fund / NPS **market** depth stays in **Topic 4**. This chapter owns the **services map**, **cooperatives / companies / CSR**, the **regulator name-list**, standards bodies and consumer-protection economics.
+> **Key Reference Framework:** Central Statistics Office (CSO/NSO) National Accounts Statistics, Ministry of Corporate Affairs (MCA) Compendium on CSR, Competition Commission of India (CCI) Act, Telecom Regulatory Authority of India (TRAI) Act, and State Public Service Commission Examination archives.
+> **Exam Weightage:** High — Consistently tested on sectoral GVA contributions, Corporate Social Responsibility parameters under the Companies Act 2013, Maximum Retail Price (MRP) consumer rights, ECOMARC eco-labeling specifications, and jurisdictional headquarters of national regulatory authorities.
 
 ---
 
-## Current Affairs
+## Current Affairs & Key Indicators
 
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2025–26 (S.A.E.)** | Services ≈ **54.35%** of GVA at current prices; Industry ≈ **27.8%**; Agriculture & allied ≈ **17.9%**. | Services > Industry > Agriculture. |
-| **2025** | Consumers may bargain **below MRP**; MRP is a **ceiling** (seller cannot charge above it). | A/R both true; R explains A. |
-| **2021** | **ECOMARC** marks environment-friendly products — not “best quality” alone. | Eco-label trap. |
-| **2019** | Mandatory CSR sits in **Companies Act, 2013** (not a 2014 Act) at **≥2%** of average net profits (not 1%). | Neither statement correct. |
-| **Still current** | **Ministry of Cooperation** (2021) owns the cooperative policy desk at the Centre. | New ministry vs older MoA tag. |
-| **Still current** | **IFSCA** regulates financial services in **GIFT IFSC** (Gujarat). | Not a second RBI for all India. |
-| **Still current** | **IRDAI** HQ **Hyderabad**; **SEBI** / many finance regulators often Mumbai-linked in teaching. | HQ match traps. |
+| Parameter / Institution | Key Metric & Institutional Development | Analytical & Policy Significance |
+|---|---|---|
+| **Macroeconomic GVA Composition** | In India's Gross Value Added (GVA) at current prices, **Services account for ~54.4%**, Industry ~27.8%, and Agriculture & allied sectors ~17.9%. | Illustrates the structural dominance of the tertiary sector in national output, even as agriculture retains a disproportionately large share of employment. |
+| **Maximum Retail Price (MRP) Dynamics** | MRP represents a statutory price ceiling; consumers possess the legal right to bargain and purchase **below the printed MRP**. | Retailers are legally prohibited from charging any amount exceeding the MRP, but nothing in law mandates selling exactly at that ceiling. |
+| **ECOMARC Environmental Label** | India's national eco-label administered by the Bureau of Indian Standards (BIS) for **environmentally friendly consumer products**. | Denotes compliance with environmental safety standards; it does not signify pure technical quality (ISI) or agricultural purity (AGMARK). |
+| **Mandatory CSR Architecture** | Enacted under **Section 135 of the Companies Act, 2013**, requiring qualifying firms to invest **at least 2% of three-year average net profits**. | India was the first country globally to mandate CSR spending by statute; there is no "Companies Act, 2014." |
+| **Ministry of Cooperation** | Carved out as an independent Union administrative ministry in **July 2021** under the vision *Sahakar se Samriddhi*. | Institutionalizes dedicated federal administrative oversight for multi-state cooperatives, distinct from the Ministry of Agriculture. |
+| **International Financial Services Centres Authority (IFSCA)** | Established under the IFSCA Act, 2019, headquartered at **GIFT City, Gandhinagar (Gujarat)**. | Serves as a unified regulator for financial products, financial services, and financial institutions in international financial centres. |
+| **Insurance Regulatory and Development Authority (IRDAI)** | Established under the IRDA Act, 1999; permanently headquartered in **Hyderabad, Telangana**. | Protects policyholders' interests and regulates the growth of life and general insurance industries. |
 
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
 <summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. The **tertiary (services) sector** covers trade, hotels, transport, communication, banking/finance, insurance, real estate, public administration & defence, education, entertainment and tourism.
-2. **Primary** = agriculture, forestry, fishing, dairy, mining / quarrying; **Secondary** = manufacturing and related industrial processing; **Tertiary** = services.
-3. **Forestry and fishing**, **mining and quarrying** are **not** tertiary — they are primary (mining support exploration is still primary-side in keyed NIC teaching).
-4. **Marketing**, transport, communication and commerce are tertiary; **weaving cloth** is secondary; **dairy farm** is primary.
-5. **Storage of agricultural produce** is a **tertiary** activity (with trade/transport/communication), not secondary.
-6. In India’s structural-change story, **services dominate GVA/GDP share** while agriculture still employs a large workforce share.
-7. Recent GVA share order (current prices teaching): **Services > Industry > Agriculture** — e.g. FY24 Survey ≈ **54.7 / 27.6 / 17.7**; 2025–26 S.A.E. ≈ **54.35 / 27.76 / 17.88**.
-8. Within services GVA (2025–26 S.A.E. teaching): **Financial, real estate & professional services** is the largest sub-block (~**27%** of total GVA), ahead of trade–hotels–transport–communication (~**14%**) and public administration & other services (~**13%**).
-9. **Construction** is part of **industry** in national accounts — **not** a services-sector component in GVA share stems.
-10. As the economy develops, the **share of the tertiary sector in GDP rises** (structural shift).
-11. Services are a major earner of **foreign exchange** through IT–ITeS, tourism and other invisibles (Topic 9 neighbour).
-12. **IT / ITeS** (software, BPO, digital services) is a flagship tradable services cluster.
-13. **Tourism** and hospitality convert natural / cultural assets into services income and jobs.
-14. **Transport and logistics** (road, rail, air, ports, warehousing) enable goods and people movement — Gati Shakti links Topic 7.
-15. **Education and healthcare** are social services with large private and public delivery mix.
-16. **E-commerce and digital services** reshape retail, payments and delivery — regulated across IT, consumer and competition lanes.
-17. Banking and insurance are **financial services**; full bank regulation → Topic 3; insurance regulator named here.
-18. A **cooperative** is a member-owned enterprise organised on voluntary membership, democratic control and mutual benefit.
-19. Constitutional teaching: **Article 43B** (DPSP) on promotion of cooperatives; **97th Amendment** strengthened the cooperative constitutional frame (Part IXB teaching — state-law nuances exist).
-20. **Ministry of Cooperation** was created in **2021** to give cooperatives a dedicated Central desk.
-21. Cooperative forms: credit societies, dairy / marketing cooperatives, multi-State cooperatives, cooperative banks.
-22. **Cooperative banks** sit under banking regulation with RBI / State roles (depth in Topic 3); policy identity also appears here.
-23. Dairy cooperative teaching links **Amul / NDDB / Kurien** (White Revolution — Topic 6).
-24. **Companies** are artificial legal persons; **public** and **private** companies differ on share offer / member limits teaching.
-25. **Companies Act, 2013** is the principal company-law statute (not a “Companies Act, 2014”).
-26. **CSR (Corporate Social Responsibility)** under Section 135 requires eligible companies to spend **at least 2%** of the **average net profits of the three preceding financial years** on Schedule VII activities.
-27. CSR eligibility thresholds teaching: net worth / turnover / net profit cut-offs (₹500 crore / ₹1,000 crore / ₹5 crore classic tags).
-28. Companies (CSR Policy) **Rules, 2014** notify machinery — do not rename the parent Act as 2014.
-29. CSR spend that **benefits employees exclusively** (or the company directly) is **not** eligible CSR.
-30. India was the **first country** to make CSR legally mandatory (from 1 April 2014 under the 2013 Act).
-31. **Uday Kotak Committee (SEBI, 2017)** — corporate governance; Chair and MD posts should be **separated** (not kept the same).
-32. **Corporate governance** covers board duties, disclosure, audit and minority protection under company and securities law.
-33. **RBI** — monetary authority and banking regulator (list tag here; full toolkit Topic 3).
-34. **SEBI** — securities market regulator (list tag here; markets depth Topic 4); statutory SEBI Act **1992**.
-35. **IRDAI** — insurance sector regulator (IRDA Act **1999**); HQ **Hyderabad**.
-36. **PFRDA** — pension sector / **NPS** regulator (PFRDA Act **2013** statutory frame).
-37. **CCI (Competition Commission of India)** — Competition Act **2002**; prevents anti-competitive agreements, abuse of dominance and regulates combinations.
-38. **TRAI** — telecom / broadcasting tariff and interconnection regulator; disputes go to **TDSAT** in teaching.
-39. **IFSCA (International Financial Services Centres Authority)** — unified regulator for financial products / services in IFSCs, notably **GIFT City**.
-40. **BIS (Bureau of Indian Standards)** — national standards body; ISI / standards marks for product quality.
-41. **FSSAI** — food safety regulator under Food Safety and Standards Act **2006**; Ministry of Health & Family Welfare lane.
-42. **ECOMARC** is India’s eco-label for environment-friendly products.
-43. **AGMARK** grades agricultural produce quality (agri neighbour); do not swap with ECOMARC.
-44. **Consumer Protection Act, 2019** modernises consumer rights, product liability and e-commerce duties (polity depth may sit in Acts notes).
-45. **MRP (Maximum Retail Price)** is a **legal ceiling** on packaged goods — seller **cannot charge above** MRP; selling / bargaining **below** MRP is allowed.
-46. MRP is **not** a mandatory exact price the seller “must” charge.
-47. Consumer rights teaching: safety, information, choice, redressal, consumer education.
-48. Quality certification and standards reduce information asymmetry between producers and buyers.
-49. Regulators are mostly **statutory** bodies — distinct from constitutional bodies (Election Commission, UPSC, etc.).
-50. Sector overlap traps: SEBI vs IRDAI on some hybrid products; TRAI vs CCI on telecom competition — coordination, not identity.
+1. The **tertiary sector (services sector)** encompasses intangible economic activities including wholesale and retail trade, hotels and restaurants, transport, storage, communication, banking, insurance, real estate, professional services, public administration, education, and healthcare.
+2. In macroeconomic three-sector classification: **Primary** exploits natural resources directly (agriculture, forestry, fishing, mining, quarrying); **Secondary** processes raw materials into manufactured goods; **Tertiary** supplies commercial and personal services.
+3. **Forestry, logging, and fishing**, alongside **mining and quarrying**, belong strictly to the **Primary sector**, not the tertiary sector.
+4. **Marketing**, transportation, advertising, and commercial merchandising are tertiary activities; **spinning and weaving textile cloth** is a secondary manufacturing activity; **dairy cattle farming** is a primary activity.
+5. The **storage and warehousing of agricultural produce** is classified as a **tertiary sector activity** (logistics and trade), rather than a secondary industrial activity.
+6. In India's structural development path, the economy skipped the classic manufacturing-intensive phase, transitioning directly from an agrarian economy to a **services-dominated output structure**.
+7. The relative contribution of sectors to India's Gross Value Added (GVA) at current prices ranks: **Services (~54%) > Industry (~28%) > Agriculture & Allied (~18%)**.
+8. Within the services sector, the sub-category of **financial, real estate, and professional services** constitutes the largest single component (contributing over 26% of total national GVA), followed by trade, hotels, transport, and communications.
+9. In national income accounting, **construction** is categorized under **Industry (Secondary sector)**, alongside manufacturing, mining, and electricity; it is not counted within the tertiary sector.
+10. Under Clark-Fisher structural change theory, as per capita income rises and an economy modernizes, the **proportionate share of the tertiary sector in national income expands steadily**.
+11. India's service sector is a crucial foreign exchange earner, driven by software services (IT-BPM), business process management, global capability centres (GCCs), and international tourism.
+12. The **IT-BPM sector** is India's flagship tradable service export, concentrated across major technological hubs such as Bengaluru, Hyderabad, Pune, Chennai, and the National Capital Region.
+13. **Tourism and hospitality** serve as vital labor-intensive service industries, generating substantial multiplier effects across transport, handicrafts, and cultural preservation.
+14. **Logistics and freight transportation** (rail, highway, civil aviation, coastal shipping, and inland waterways) represent critical backbone tertiary infrastructure, accelerated through PM Gati Shakti.
+15. **Education and healthcare** constitute essential social services that directly generate human capital formation, combining public universal provisioning with private delivery.
+16. The expansion of **e-commerce, digital payments, and fintech platforms** has fundamentally transformed retail trade, regulated concurrently under consumer protection, competition, and IT laws.
+17. Banking and insurance constitute core **financial intermediation services**, mobilizing domestic household savings into long-term industrial and infrastructure capital.
+18. A **cooperative society** is a voluntary association of individuals united democratically to satisfy their shared economic, cultural, and social needs through a jointly owned enterprise.
+19. Constitutional standing: **Article 43B** of the Directive Principles of State Policy directs the State to promote voluntary formation, autonomous functioning, democratic control, and professional management of cooperative societies.
+20. The **97th Constitutional Amendment Act, 2011** accorded constitutional protection to cooperatives by inserting Article 19(1)(c) (right to form cooperative societies), Article 43B, and Part IXB (The Co-operative Societies).
+21. The Union **Ministry of Cooperation** was established in **July 2021** to provide a dedicated institutional and legal architecture for realizing the vision of *Sahakar se Samriddhi*.
+22. Diverse cooperative structures operate in India: Primary Agricultural Credit Societies (PACS), District Central Cooperative Banks (DCCBs), marketing cooperatives, and dairy federations.
+23. Urban cooperative banks and multi-state cooperative banks are brought under the direct regulatory and supervisory purview of the **Reserve Bank of India (RBI)** to protect depositor savings.
+24. The **Amul model** (Kaira District Co-operative Milk Producers' Union) established the foundation for India's **Operation Flood (White Revolution)**, orchestrated through the National Dairy Development Board (NDDB) under Dr. Verghese Kurien.
+25. Under Indian jurisprudence, an incorporated **company** is an artificial legal person possessing perpetual succession, a common seal, and a distinct corporate entity separate from its shareholders.
+26. The **Companies Act, 2013** represents the principal statutory framework governing the incorporation, corporate governance, auditing, and dissolution of corporate entities in India.
+27. **Section 135 of the Companies Act, 2013** mandates that every qualifying company must allocate at least **2% of the average net profits made during the three immediately preceding financial years** toward Corporate Social Responsibility (CSR).
+28. A company is legally obligated to comply with CSR provisions if it satisfies any of three financial criteria during the immediately preceding financial year:
+    * Net worth of **₹500 crore or more**, or
+    * Turnover of **₹1,000 crore or more**, or
+    * Net profit of **₹5 crore or more**.
+29. The administrative machinery and operational procedures for corporate philanthropy are delineated in the **Companies (Corporate Social Responsibility Policy) Rules, 2014**.
+30. CSR expenditures must be directed exclusively toward activities listed in **Schedule VII** of the Companies Act, 2013, including poverty eradication, preventive healthcare, education, gender equality, environmental sustainability, and rural sports.
+31. Company expenditures that benefit **exclusively the company's own employees and their families** are expressly disqualified from counting toward mandatory CSR obligations.
+32. India holds the distinction of being the **first country in the world** to mandate corporate social responsibility by statutory legislation (operational from 1 April 2014).
+33. Qualifying companies are required to constitute a **CSR Committee of the Board of Directors**, comprising three or more directors, including at least one independent director.
+34. The **Uday Kotak Committee on Corporate Governance (SEBI, 2017)** recommended the progressive separation of the roles of Chairman of the Board and Managing Director/CEO, advocating that listed companies have a non-executive Chairperson.
+35. The **Reserve Bank of India (RBI)**, established under the RBI Act, 1934, acts as the central monetary authority and prudential regulator of commercial and cooperative banking institutions.
+36. The **Securities and Exchange Board of India (SEBI)**, established in 1988 and given statutory autonomy under the SEBI Act, 1992, regulates capital markets, stock exchanges, mutual funds, and investor protection.
+37. The **Insurance Regulatory and Development Authority of India (IRDAI)** is a statutory body established under the IRDA Act, 1999, headquartered in **Hyderabad, Telangana**.
+38. The **Pension Fund Regulatory and Development Authority (PFRDA)** was established under the PFRDA Act, 2013, to regulate the National Pension System (NPS) and the broader pension sector.
+39. The **Competition Commission of India (CCI)**, established under the Competition Act, 2002, is tasked with preventing anti-competitive agreements, prohibiting abuse of dominant position, and regulating corporate combinations (mergers and acquisitions).
+40. The **Telecom Regulatory Authority of India (TRAI)** was established on **20 February 1997** under the TRAI Act, 1997, to regulate telecommunication tariffs and interconnection; appellate jurisdiction is vested in the **Telecom Disputes Settlement and Appellate Tribunal (TDSAT)**.
+41. The **Universal Service Obligation Fund (USOF)**, statutory under the Indian Telegraph (Amendment) Act, 2003 (now the Telecommunications Act, 2023 / Digital Bharat Nidhi), subsidizes telecom connectivity and broadband infrastructure across rural and remote regions.
+42. **Project Arrow**, initiated by the Department of Posts in **April 2008**, is a national modernization initiative aimed at transforming traditional **post offices** through computerized operations, improved core banking, and citizen-friendly service delivery.
+43. The **International Financial Services Centres Authority (IFSCA)**, headquartered at GIFT City, Gandhinagar, serves as the unified statutory regulator for financial products, financial services, and institutions located in International Financial Services Centres (IFSCs).
+44. The **Bureau of Indian Standards (BIS)** is the National Standards Body of India established under the BIS Act, 2016, administering quality marks such as the **ISI mark** for industrial goods and **Hallmarking** for gold jewelry.
+45. The **Food Safety and Standards Authority of India (FSSAI)** is an autonomous statutory body established under the Food Safety and Standards Act, 2006, within the Ministry of Health and Family Welfare, regulating food manufacturing, storage, and hygiene standards.
+46. **ECOMARC** is India's national eco-label scheme launched in 1991, administered by BIS in coordination with the Ministry of Environment, Forest and Climate Change; it awards an **earthen pot logo** to consumer goods that meet stringent environmental standards alongside quality parameters.
+47. **AGMARK** is a certification mark for agricultural produce under the Agricultural Produce (Grading and Marking) Act, 1937, administered by the Directorate of Marketing and Inspection (DMI) under the Ministry of Agriculture and Farmers Welfare.
+48. Under the Legal Metrology (Packaged Commodities) Rules, the **Maximum Retail Price (MRP)** represents the statutory upper bound inclusive of all taxes; retailers may lawfully sell or discount **below the MRP**, but charging any amount above the printed MRP is a punishable offense.
+49. The **Consumer Protection Act, 2019** repealed the older 1986 statute, establishing the **Central Consumer Protection Authority (CCPA)** to protect consumer rights against false advertising, unfair trade practices, and defective goods, introducing statutory product liability.
+50. Consumer dispute redressal operates through a three-tier quasi-judicial forum structure: District Consumer Disputes Redressal Commissions, State Consumer Disputes Redressal Commissions, and the National Consumer Disputes Redressal Commission (NCDRC).
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-confused" markdown="1">
 <summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| A | B | Distinguishing fact |
+| Concept A | Concept B | Core Conceptual Distinction |
 |---|---|---|
-| **Tertiary / services** | **Primary (forestry, fishing, mining)** | Services vs resource extraction |
-| **Tertiary** | **Secondary (manufacturing / weaving)** | Services vs industry processing |
-| **Storage of agri produce** | **Secondary industry** | Storage = tertiary (trade/logistics family) |
-| **Construction in GVA** | **Services sector** | Construction sits in industry, not services |
-| **Services > Industry > Agri** | **Older agri-first GDP order** | Current GVA share order |
-| **Companies Act, 2013** | **CSR Rules, 2014** | Parent Act vs notified rules / force date |
-| **CSR 2%** | **CSR 1%** | Statutory floor is 2% of 3-year average profits |
-| **MRP ceiling** | **Must-charge price / MSP floor** | Upper limit vs compulsory exact / minimum price |
-| **ECOMARC** | **ISI / BIS mark** | Eco-label vs general product standards mark |
-| **ECOMARC** | **AGMARK** | Environment-friendly products vs agri produce grades |
-| **IRDAI** | **PFRDA** | Insurance vs pension / NPS |
-| **SEBI** | **RBI** | Securities market vs banking / monetary |
-| **CCI** | **TRAI** | Competition law vs telecom regulation |
-| **IFSCA** | **SEBI / RBI all-India** | IFSC (GIFT) unified regulator vs domestic sector regulators |
-| **FSSAI** | **BIS** | Food safety law vs general standards |
-| **Cooperative** | **Company** | Member mutuality vs share capital company form |
-| **Ministry of Cooperation** | **Ministry of Agriculture alone** | Dedicated 2021 desk vs older combined tags |
+| **Tertiary Sector Activities** | **Primary Resource Extraction** | Tertiary provides intangible services (trade, banking, transport); Primary extracts raw natural resources (agriculture, forestry, fishing, mining). |
+| **Agricultural Storage & Logistics** | **Secondary Industrial Manufacturing** | Warehousing and storing harvested crops is classified as tertiary logistics; processing raw crops in mills or factories is secondary manufacturing. |
+| **Construction in National Accounts** | **Services Sector Classification** | In official GVA accounting, construction is classified under the Secondary (Industry) sector alongside manufacturing and mining; it is not counted under Services. |
+| **Companies Act, 2013** | **Companies (CSR Policy) Rules, 2014** | The parent legislation mandating CSR is the Companies Act, 2013 (Section 135); the administrative rules governing compliance were notified in 2014. |
+| **CSR Spend Floor (2%)** | **Erroneous 1% Distractor** | The statutory minimum allocation is strictly 2% of the average net profits of the three preceding financial years; there is no 1% provision. |
+| **Maximum Retail Price (MRP)** | **Minimum Support Price (MSP)** | MRP is a statutory price ceiling protecting consumers from overcharging on packaged goods; MSP is an administrative price floor guaranteeing remunerative prices to farmers. |
+| **ECOMARC Environmental Label** | **ISI / BIS Quality Mark** | ECOMARC specifically certifies that a product is environmentally benign and safe for ecosystems; the ISI mark certifies compliance with general engineering and performance standards. |
+| **ECOMARC** | **AGMARK** | ECOMARC is an eco-label for manufactured consumer goods administered by BIS; AGMARK is a quality grading mark for raw agricultural produce issued by the Directorate of Marketing and Inspection. |
+| **Insurance Regulator (IRDAI)** | **Pension Regulator (PFRDA)** | IRDAI regulates life and general insurance companies (headquartered in Hyderabad); PFRDA regulates pension funds and the National Pension System (headquartered in New Delhi). |
+| **Telecom Regulator (TRAI)** | **Appellate Tribunal (TDSAT)** | TRAI formulates telecom regulations, tariffs, and interconnection terms; TDSAT adjudicates commercial and consumer disputes arising in the telecom and broadcasting sectors. |
+| **Ministry of Cooperation** | **Ministry of Agriculture** | Established in 2021 as a distinct Union ministry to oversee multi-state cooperatives and promote cooperative governance across all sectors, including but not limited to agriculture. |
+| **Project Arrow (Post Offices)** | **Other Modernization Schemes** | Project Arrow is specifically designed to transform and modernize India Post branches; it is not an aviation, highway, or railway initiative. |
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-must-score" markdown="1">
-<summary><strong>📋 Must-score drill — tertiary map, CSR, MRP, regulators</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>📋 High-Yield Summary Table — Services, Corporate Governance, and Regulators</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| Item | Tag |
+| Institution / Regulatory Framework | Governing Statute & Core Operational Focus |
 |---|---|
-| Tertiary includes | Trade, hotels, transport, finance, real estate, admin, education… |
-| Tertiary excludes | Forestry, fishing, mining, manufacturing |
-| GVA order (recent) | Services > Industry > Agriculture |
-| Storage of agri produce | Tertiary |
-| Marketing | Tertiary |
-| Construction in GVA | Industry (not services) |
-| CSR statute | Companies Act, **2013** |
-| CSR spend | **≥2%** of 3-year average net profits |
-| MRP | Ceiling — bargain below allowed |
-| ECOMARC | Environment-friendly products |
-| IRDAI | Insurance; HQ Hyderabad |
-| PFRDA | NPS / pensions |
-| CCI | Competition Act 2002 |
-| TRAI | Telecom |
-| IFSCA | GIFT IFSC |
-| FSSAI | Food Safety Act 2006 |
-| Ministry of Cooperation | 2021 |
+| **Dominant Sector in GVA** | **Services (~54.4%)**, followed by Industry (~27.8%) and Agriculture (~17.9%). |
+| **Storage of Agricultural Produce** | Classified as a **Tertiary sector** activity (logistics and warehousing). |
+| **Construction Sector Classification** | Categorized under **Industry (Secondary sector)**, not Services. |
+| **Mandatory CSR Legislation** | **Section 135 of the Companies Act, 2013** (operational from 1 April 2014). |
+| **Statutory CSR Spend Requirement** | **At least 2% of the average net profits** of the three preceding financial years. |
+| **Maximum Retail Price (MRP) Rule** | A legally enforceable price ceiling; consumers are legally permitted to bargain and pay **below the MRP**. |
+| **ECOMARC Certification** | Awarded to **environmentally friendly products**; logo depicts an earthen pot (*matka*). |
+| **AGMARK Certification** | Quality assurance for **agricultural produce** under the 1937 Act; issued by DMI. |
+| **IRDAI Permanent Seat** | Headquartered in **Hyderabad, Telangana** (established under the IRDA Act, 1999). |
+| **PFRDA Mandate** | Regulates the National Pension System (NPS) and private pension funds (Act 2013). |
+| **Competition Commission of India (CCI)** | Prevents anti-competitive cartels and abuse of dominance under the Competition Act, 2002. |
+| **Telecom Regulatory Authority of India (TRAI)** | Regulates telecom tariffs and spectrum interconnection (established 20 February 1997). |
+| **TDSAT Appellate Body** | Adjudicates disputes in telecom, broadcasting, and airport tariff matters. |
+| **Project Arrow Scope** | National scheme for comprehensive modernization and computerization of **Post Offices**. |
+| **Universal Service Obligation Fund (USOF)** | Subsidizes rural telecommunications and broadband infrastructure. |
+| **Ministry of Cooperation Inception** | Formed in **July 2021** to spearhead *Sahakar se Samriddhi*. |
+| **Constitutional Basis for Cooperatives** | **Article 43B** (DPSP) and **Part IXB**, inserted by the 97th Constitutional Amendment Act, 2011. |
 
 </details>
 
 ---
 
-## 11.1 Service sector — tertiary map
+## 11.1 The Service Sector — Structure, GVA Composition, and Transformation
 
-**The tertiary (services) sector** covers industries that provide services — trade, hotels, transport, communication, banking and finance, insurance, real estate, public administration and defence, education, entertainment and tourism.
+The service or tertiary sector encompasses all economic activities that produce intangible utility, expertise, facilitation, or customer support rather than tangible manufactured goods or extracted physical commodities.
 
-### Primary–secondary–tertiary identity
+### Sectoral Classification Boundaries
 
-- **Primary** exploits natural resources: agriculture, forestry, fishing, dairy, mining and quarrying.
-- **Secondary** transforms natural products through manufacturing (e.g. weaving cloth from cotton fibre).
-- **Tertiary** supplies services: marketing, transport, communication, commerce, finance, real estate, administration, education, health and tourism.
-- **Forestry and fishing** and **mining / quarrying** are **not** tertiary — a recurring multi-statement trap.
-- **Mineral exploration** support activities sit with mining (primary-side) in keyed NIC teaching — not tertiary.
-- **Storage of agricultural produce** belongs with trade / transport / communication — **tertiary**, not secondary.
-- **Construction** is counted under **industry** in GVA — do not park it inside the services share.
+* **Primary Sector:** Natural resource extraction activities: agriculture, livestock, forestry, logging, fishing, and mining/quarrying.
+* **Secondary Sector:** Industrial manufacturing and transformation: processing agricultural goods, textile weaving, chemical synthesis, capital goods fabrication, electricity, gas, water supply, and **construction**.
+* **Tertiary Sector:** Services enabling commerce and social welfare: trade, hotels, transport, warehousing and storage, communications, broadcasting, banking, insurance, real estate, software development, public administration, defense, education, and healthcare.
+* **Key Distinctions:**
+  * **Forestry and fishing**, and **mining and quarrying** belong strictly to the **Primary sector**.
+  * **Agricultural warehousing and storage** belongs to the **Tertiary sector**, categorized alongside transport and logistics.
+  * **Construction** is classified under the **Secondary sector (Industry)** in national income accounting, rather than Services.
 
-### Share and structural shift
+### Macroeconomic Contribution and Structural Shift
 
-- Services are the **largest source of national income / GVA** in India today.
-- Recent order at current prices: **Services > Industry > Agriculture & allied**.
-- Economic Survey 2023–24 teaching for FY24: about **17.7% / 27.6% / 54.7%** (agri / industry / services).
-- 2025–26 Second Advance Estimates teaching: services ≈ **54.35%**, industry ≈ **27.76%**, agriculture & allied ≈ **17.88%**.
-- Within services, **financial, real estate and professional services** is the largest sub-share of total GVA in recent S.A.E. teaching (~**27%**), ahead of trade–hotels–transport–communication (~**14%**).
-- As the economy develops, the **tertiary share of GDP rises**.
-- Services can lead GVA and still employ a smaller workforce share than agriculture — productivity and prices differ by sector.
-- A stem claiming services are “only about 25% of GDP” is false in the modern Indian map.
-
-### Services clusters
-
-- Tradable services (IT–ITeS, tourism, transport) earn foreign exchange on the current account (Topic 9 neighbour).
-- **IT / ITeS** (software, BPO, digital services) is a flagship tradable services cluster.
-- **Tourism** and hospitality convert natural and cultural assets into services income and jobs.
-- **Transport and logistics** (road, rail, air, ports, warehousing) move goods and people — Gati Shakti links Topic 7.
-- **Education and healthcare** mix public and private delivery; they are social services with large employment and human-capital effects.
-- **E-commerce and digital platforms** reshape retail, payments and delivery.
-- Banking and insurance are **financial services**; full bank regulation stays in Topic 3; insurance regulation is named here.
-- Services formalisation through GST and digital payments raises the measured services share and the tax base.
-- Startup and unicorn activity concentrates heavily in services and digital platforms (Startup India neighbour in Topic 7).
-- State GSVA composition is CA-sensitive (Delhi / Chandigarh often among the most services-heavy).
-
-> **Logic:** Tertiary = services. Forestry/fishing/mining ≠ services. Construction ≠ services in GVA. Storage of agri produce = tertiary.
+* **Structural Transformation:** Traditional economic development theory (Kuznets and Clark) posits a progression from agriculture to manufacturing, and subsequently to services. In India, the economy bypassed a prolonged manufacturing-led phase, transitioning directly from an agrarian base to a service-led growth paradigm.
+* **National Income Share:** The service sector contributes the dominant proportion of India's Gross Value Added (GVA) at current prices:
+  $$\text{Services (\approx 54.4\%)} > \text{Industry (\approx 27.8\%)} > \text{Agriculture \& Allied (\approx 17.9\%)}$$
+* **Sub-Sector Composition:** Within the service sector, the largest sub-segment is **financial, real estate, and professional services**, which alone generates over 26% of national GVA, followed by trade, repair, hotels, transport, and communication (approx. 14%).
+* **Employment-Output Asymmetry:** A defining structural characteristic of the Indian economy is the structural mismatch between output and employment: while services generate over half of GDP, they employ approximately 30% of the workforce, whereas agriculture generates under 18% of GDP while employing over 45% of the working population.
 
 ---
 
-## 11.2 Cooperatives
+## 11.2 The Cooperative Movement and Constitutional Architecture
 
-**A cooperative** is a member-owned enterprise organised on voluntary membership, democratic control and mutual benefit.
+A cooperative society is an autonomous, member-controlled association founded on the principle of self-help and mutual cooperation, where ownership and governance are distributed democratically on a "one member, one vote" basis.
 
-- Cooperatives organise producers or consumers for credit, dairy, marketing, housing and multi-State activity.
-- **Article 43B** (Directive Principles) directs the State to promote cooperative societies.
-- The **97th Constitutional Amendment** strengthened the cooperative constitutional frame (Part IXB teaching — state-law nuances exist).
-- Do not swap **Article 43A** (workers’ participation) with **Article 43B** (cooperatives).
-- The **Ministry of Cooperation** was created in **2021** to give cooperatives a dedicated Central desk.
-- Cooperative banks and credit societies intersect banking regulation with RBI and State roles (Topic 3 depth).
-- Dairy cooperatives carry the **White Revolution** memory — Verghese Kurien, NDDB and the Amul model (Topic 6).
-- Multi-State Cooperative Societies law and computerisation drives are CA-sensitive; keep voluntary, democratic and surplus-for-members principles as the stable core.
+### Constitutional Foundations
+
+* **Article 19(1)(c):** Guarantees all citizens the fundamental right to form associations, unions, or *cooperative societies*.
+* **Article 43B (Directive Principles of State Policy):** Directs the State to endeavor to promote the voluntary formation, autonomous functioning, democratic control, and professional management of cooperative societies.
+* **Part IXB (Articles 243ZH to 243ZT):** Added by the 97th Constitutional Amendment Act, 2011, establishing uniform standards for board size, term of office, independent auditing, and democratic conduct of cooperative elections.
+  *(Note: In Union of India v. Rajendra N. Shah (2021), the Supreme Court upheld Part IXB for Multi-State Cooperative Societies operating across multiple States, while striking it down for intra-State cooperatives due to lack of ratification by half the State legislatures, as cooperative societies remain in Entry 32 of the State List).*
+
+### Institutional Framework
+
+* **Union Ministry of Cooperation:** Formed in **July 2021** to provide a separate administrative, legal, and policy framework for strengthening cooperatives, promoting Primary Agricultural Credit Societies (PACS) computerization, and formulating national cooperative export and organic federations.
+* **Cooperative Banking:** Regulated under the Banking Regulation (Amendment) Act, 2020, granting the Reserve Bank of India regulatory authority over management, licensing, and audit of Urban Cooperative Banks (UCBs) and Multi-State Cooperative Banks.
 
 ---
 
-## 11.3 Companies, CSR and corporate governance
+## 11.3 Companies, Corporate Governance, and Corporate Social Responsibility (CSR)
 
-**The Companies Act, 2013** is the principal company-law statute in India.
+### Statutory Corporate Framework
 
-- A company is an artificial legal person with perpetual succession in teaching.
-- A **public company** may invite public subscription under conditions set by company and securities law.
-- A **private company** restricts share transfer and public offers in the classic teaching contrast.
-- There is **no** “Companies Act, 2014” as the parent statute’s short title.
-- The Companies (CSR Policy) **Rules, 2014** notify machinery after the 2013 Act — do not rename the Act as 2014.
+* The **Companies Act, 2013** serves as the omnibus corporate code in India, governing corporate formation, financial auditing, shareholder rights, and merger regulations.
+* Distinguishes between **private limited companies** (restrictions on share transfer, maximum 200 members) and **public limited companies** (freely transferable shares, minimum 7 members, access to public capital markets).
 
-### Corporate Social Responsibility (CSR)
+### Mandatory Corporate Social Responsibility (CSR)
 
-- Section **135** of the Companies Act, 2013 creates India’s statutory CSR spend mandate.
-- Eligibility thresholds in classic teaching: net worth ≥ ₹500 crore, or turnover ≥ ₹1,000 crore, or net profit ≥ ₹5 crore in the preceding year.
-- Eligible companies must spend at least **2%** of the **average net profits of the three preceding financial years**.
-- The floor is **not** 1% of a single year’s annual net profit.
-- Spend must go to activities drawn from **Schedule VII** (education, health, environment, heritage and related notified purposes).
-- Activities that **benefit the company directly or exclusively its employees** do **not** count as CSR.
-- CSR rules **do** specify a minimum spend (2%) — a stem saying “rules do not specify minimum spending” is false.
-- India was the **first country** to make CSR legally mandatory (force from **1 April 2014** under the 2013 Act).
-- A covered company must constitute a **CSR Committee** of the Board in the standard teaching map.
-- Unspent amounts follow transfer rules to specified funds / unspent CSR accounts under later amendments teaching.
+* **Section 135 Mandate:** Requires qualifying companies to allocate and spend in every financial year **at least 2% of the average net profits of the company made during the three immediately preceding financial years** in pursuance of its Corporate Social Responsibility Policy.
+* **Applicability Thresholds:** Enforceable on any company (including foreign branches in India) that in the immediately preceding financial year satisfies any of the following:
+  * Net worth of **₹500 crore or more**, or
+  * Turnover of **₹1,000 crore or more**, or
+  * Net profit of **₹5 crore or more**.
+* **Eligible Activities (Schedule VII):** Permitted expenditures encompass eradicating hunger, poverty, and malnutrition; promoting education and vocational skills; improving maternal and child health; ensuring environmental sustainability and ecological balance; and contributions to the Prime Minister's National Relief Fund or PM CARES Fund.
+* **Disqualified Activities:** Expenditures undertaken in the normal course of business, political contributions, and activities that benefit **exclusively the company's employees and their families** do not qualify as CSR.
+* **First Mandatory CSR Statute:** India is recognized as the first nation globally to institutionalize corporate social responsibility as a mandatory legal obligation under corporate statute.
 
-### Corporate governance
-
-- Corporate governance covers board duties, disclosure, audit and minority protection.
-- Tools include independent directors, audit committees, related-party disclosure and SEBI LODR norms for listed entities.
-- The aim is to align managers with accountability and protect shareholders and stakeholders.
-- **Uday Kotak Committee** (SEBI, **2017**) on corporate governance: minimum board strength, woman independent director, at least half independent directors at listed companies, and **separation of Chair and MD** (Chair as non-executive) — a stem saying Chair and MD “must remain the same” is the **incorrect** statement.
+---
 
 **Q-EC1. UPPCS (Pre) 2019**
 
@@ -237,73 +207,58 @@ Select the correct answer using the codes given below:
 A. 1 Only
 B. 2 Only
 C. Both 1 and 2
-D. Neither I nor 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The floor is **2%** of the average net profits of the three preceding financial years — not 1% of annual net profit.
+**Explanation:** Both statements are incorrect. Statement 1 is false because mandatory Corporate Social Responsibility was enacted under **Section 135 of the Companies Act, 2013** (not a 2014 Act), coming into effect on 1 April 2014. Statement 2 is false because qualifying companies are legally obligated to spend **at least two percent (2%)** of their average net profits over the three immediately preceding financial years, rather than one percent of annual net profit.
 
-**Ans: D.** Mandatory CSR comes from the **Companies Act, 2013** (Section 135), not a 2014 Act.
+**Ans: D.** Neither 1 nor 2
 
 </details>
 
 ---
 
-## 11.4 Regulatory institutions — match desk
+## 11.4 National Regulatory Authorities and Oversight Architecture
 
-**Regulators** are mostly **statutory** bodies created by Parliament — distinct from constitutional bodies such as the Election Commission or UPSC.
+Independent statutory regulators preserve competitive markets, protect consumer interests, and enforce prudential standards across key economic sectors:
 
-| Regulator | Sector / mandate | Teaching tag |
+| Regulatory Body | Year of Establishment & Statute | Headquarters & Primary Regulatory Domain |
 |---|---|---|
-| **RBI** | Banking, monetary policy, payment systems | Topic 3 depth |
-| **SEBI** | Securities markets, mutual funds | Topic 4 depth; SEBI Act 1992 |
-| **IRDAI** | Life / general insurance, intermediaries | HQ **Hyderabad**; IRDA Act 1999 |
-| **PFRDA** | NPS and pension products | PFRDA Act 2013 frame |
-| **CCI** | Anti-competitive agreements, abuse of dominance, combinations | Competition Act 2002 |
-| **TRAI** | Telecom / broadcasting tariffs and interconnection | Est. **20 Feb 1997** (TRAI Act); HQ **New Delhi**; disputes → **TDSAT** |
-| **IFSCA** | Financial products / services in IFSCs | **GIFT City** unified regulator |
-| **FSSAI** | Food safety standards | FSS Act 2006; Health ministry lane |
-| **BIS** | National product standards / certification | ISI marks teaching |
+| **Reserve Bank of India (RBI)** | 1935 (RBI Act, 1934) | **Mumbai** — Monetary policy, currency issuance, commercial banking, payment and settlement systems. |
+| **Securities and Exchange Board of India (SEBI)** | 1988; Statutory 1992 (SEBI Act, 1992) | **Mumbai** — Securities markets, stock exchanges, mutual funds, merchant banking, investor protection. |
+| **Insurance Regulatory and Development Authority of India (IRDAI)** | 1999 (IRDA Act, 1999) | **Hyderabad** — Licensing, solvency margins, and consumer protection across life and non-life insurance. |
+| **Pension Fund Regulatory and Development Authority (PFRDA)** | 2003; Statutory 2013 (PFRDA Act, 2013) | **New Delhi** — Prudential regulation of pension funds, central recordkeeping, and National Pension System (NPS). |
+| **Competition Commission of India (CCI)** | 2003 (Competition Act, 2002) | **New Delhi** — Eliminates anti-competitive agreements, cartels, abuse of dominant position, and reviews corporate combinations. |
+| **Telecom Regulatory Authority of India (TRAI)** | 20 February 1997 (TRAI Act, 1997) | **New Delhi** — Regulates telecommunications and broadcasting tariffs, interconnection terms, and service quality. |
+| **International Financial Services Centres Authority (IFSCA)** | 2020 (IFSCA Act, 2019) | **GIFT City (Gandhinagar)** — Unified statutory regulator for capital markets, banking, and insurance within IFSCs. |
+| **Bureau of Indian Standards (BIS)** | 1986; Revamped 2016 (BIS Act, 2016) | **New Delhi** — National standards body; administers ISI certification mark and compulsory hallmarking. |
+| **Food Safety and Standards Authority of India (FSSAI)** | 2008 (FSS Act, 2006) | **New Delhi** — Formulates science-based food standards, hygienic practices, and regulates food business operators. |
 
-- **IRDAI** protects policyholder interests and licenses insurers and intermediaries.
-- **PFRDA** oversees the National Pension System architecture — it is not SEBI and not IRDAI.
-- **CCI** draws power from the Competition Act, 2002 — not from the RBI Act.
-- **TRAI** is the telecom regulator; it is not the competition commission.
-- TRAI was established with effect from **20 February 1997** under the TRAI Act, **1997** — it is a **statutory** body; headquarters is **New Delhi** (not Mumbai).
-- TRAI regulates telecom services including fixation / revision of tariffs and interconnection.
-- **Universal Service Obligation Fund (USOF)** (from **1 April 2002**; statutory support under Indian Telegraph Amendment **2003**) subsidises telegraph / telecom services especially in rural and remote areas — it adjusts telecom-company USO liabilities, not oil price equalisation.
-- **BSNL** was formed / began operations around **2000** (not 1997) — do not swap with TRAI’s 1997 birth year.
-- India has **8** geographic PIN zones for States/UTs plus a **9th** for Army / Field Post Offices — keyed total often **8** State/UT zones or **9** including APO.
-- **Project Arrow** (launched **April 2008**) modernises **post offices** — not airports, roads or railways.
-- **IFSCA** regulates IFSC financial services; it is not a second all-India SEBI or RBI.
-- Neighbouring names in mixed lists: **NPPA** (drug prices), **CERC / SERCs** (power tariffs), **DGCA** (aviation), **RERA** (real estate — Topic 12).
-- Sector overlap can occur (for example SEBI–IRDAI on hybrid products); coordination is not identity.
+### Sectoral Communications and Modernization Initiatives
+
+* **Universal Service Obligation Fund (USOF):** Formulated under the Indian Telegraph (Amendment) Act, 2003, funded through a universal service levy on telecom service providers' adjusted gross revenue (AGR) to subsidize rural broadband infrastructure (BharatNet).
+* **Project Arrow (Department of Posts):** Launched in **April 2008** by India Post to achieve end-to-end modernization of post office infrastructure, core banking services, and computerized mail handling.
 
 ---
 
-## 11.5 Standards, quality marks and consumer protection
+## 11.5 Standards, Quality Marks, and Consumer Rights Architecture
 
-**Quality marks and standards** reduce information asymmetry between producers and buyers.
+Quality certification schemes overcome information asymmetry between manufacturers and consumers, verifying compliance with environmental and technical benchmarks.
 
-- **BIS (Bureau of Indian Standards)** is the national standards body; ISI / standards marks certify product conformity.
-- **FSSAI** polices food safety under the Food Safety and Standards Act, **2006**.
-- **FPO** mark is mandatory on processed fruit products sold in India under the FSS Act, 2006 lineage (Food Products Order tradition).
-- **AGMARK** grades agricultural produce quality (Directorate of Marketing & Inspection, MoA&FW under Agricultural Produce Grading and Marking Act, **1937**) — do not swap with ECOMARC; **not** issued by FAO or FCI.
-- **ECOMARC / Eco mark** is India’s eco-label for **environment-friendly** products, administered with **BIS**; logo teaching is an **earthen pot**.
-- **ISO 14001** certifies an organisation’s **environmental management / pollution-control** system — not a spy network and not a general product-quality tag.
-- ECOMARC is not a generic “best quality” mark, not an export tag and not an import tag.
-- **GI (Geographical Indication)** protection under the GI Act teaching: Nizamabad **black pottery** (Azamgarh, UP) carries a GI tag; many craft/food items (Lucknow Chikan, Banarasi saree, Darjeeling Tea, Allahabad Surkha Guava) also hold GI — do not invent “not protected” for those classics.
+* **ECOMARC:** Launched in **1991** by the Ministry of Environment, Forest and Climate Change in collaboration with the Bureau of Indian Standards (BIS). It is awarded to consumer products that satisfy quality standards while causing minimal ecological harm across manufacturing, consumption, and disposal. Its official logo is an **earthen pot (*matka*)**, symbolizing natural sustainability.
+* **AGMARK:** A legally backed quality certification mark issued under the **Agricultural Produce (Grading and Marking) Act, 1937**, administered by the Directorate of Marketing and Inspection (DMI) under the Ministry of Agriculture and Farmers Welfare. It grades unprocessed and semi-processed agricultural commodities (e.g., ghee, pulses, edible oils).
+* **ISO 14001:** An internationally recognized voluntary management standard published by the International Organization for Standardization (ISO) that specifies requirements for an effective **Environmental Management System (EMS)** within industrial and commercial organizations.
 
-### MRP and consumer rights
+### Maximum Retail Price (MRP) and Consumer Protection
 
-- **MRP (Maximum Retail Price)** on packaged commodities is a legal **ceiling**.
-- A seller **cannot charge above** the printed MRP.
-- Selling or bargaining **below** MRP is allowed because the mark is not a compulsory exact price.
-- MRP is **not** a must-charge price and is not the same as MSP (a farm price floor support).
-- Consumer rights teaching includes safety, information, choice, redressal and consumer education.
-- The **Consumer Protection Act, 2019** strengthens rights, product liability and e-commerce duties.
-- District, State and National commissions hear complaints; polity Acts notes may carry forum hierarchy depth.
+* **Economics of MRP:** Under the Legal Metrology (Packaged Commodities) Rules, every pre-packaged retail commodity must declare the Maximum Retail Price (MRP), inclusive of all taxes.
+* **Price Ceiling Rule:** MRP constitutes a **statutory price ceiling**, not an inflexible price floor. Retailers are strictly prohibited from charging any amount exceeding the MRP.
+* **Consumer Right to Bargain:** Because the MRP is legally an upper boundary, consumers retain the full legal right to bargain, negotiate, and purchase goods **below the marked MRP**.
+* **Consumer Protection Act, 2019:** Established the **Central Consumer Protection Authority (CCPA)** with powers to initiate class actions, order product recalls, and impose penalties on misleading advertisements.
+
+---
 
 **Q-EC2. UPPCS (Pre) 2021**
 
@@ -317,9 +272,9 @@ D. Imported goods
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Safe goods for environment.
+**Explanation:** The ECOMARC symbol is India's national eco-label administered by the Bureau of Indian Standards (BIS) in collaboration with the Ministry of Environment, Forest and Climate Change. It is awarded specifically to consumer products that meet established environmental safety benchmarks alongside basic quality standards, certifying that they are safe for the environment.
 
-**Ans: B.** ECOMARC is India’s eco-mark for environmentally friendly products — not a generic “best quality,” export, or import tag.
+**Ans: B.** Safe goods for environment
 
 </details>
 
@@ -341,17 +296,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
+**Explanation:** Under the Legal Metrology (Packaged Commodities) Rules, the Maximum Retail Price (MRP) printed on pre-packaged goods represents a statutory upper ceiling, inclusive of all taxes. Sellers are legally barred from charging any price higher than this declared ceiling. Because it is defined purely as an upper limit and not as a fixed mandatory price, sellers are legally permitted to offer discounts, and consumers have the legal right to bargain for prices below the marked MRP. Thus, both statements are true, and Reason (R) correctly explains Assertion (A).
 
 **Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
+
 </details>
 
-> **Note:** Some booklet series rephrase Reason as “MRP is a price a seller **must** charge.” That wording is **false**; with that variant, key **A true / R false**. Always read the printed Reason before picking the code.
-
-Consumer Protection Act, 2019 strengthens rights, product liability and e-commerce duties; district / state / national commissions hear complaints. Polity Acts notes may carry forum hierarchy depth.
-
 ---
-
 ## Complete PYQ Bank (UPPCS)
 
 **Q1. UPPCS (Pre) 2019**
@@ -1796,18 +1747,16 @@ D. Compile only CPI
 
 ## Common Traps
 
-* Tertiary = services; **forestry / fishing / mining ≠ tertiary**; **construction ≠ services** in GVA.
-* **Storage of agri produce** and **marketing** = tertiary; **weaving** = secondary; **dairy farm** = primary.
-* GVA order (recent): **Services > Industry > Agriculture** — “services only 25% of GDP” is false.
-* Within services, finance–real estate–professional is often the largest sub-share of total GVA.
-* CSR = **Companies Act, 2013** + **≥2%** of 3-year average profits — not Act 2014, not 1%.
-* Employee-only / company-direct benefits ≠ CSR; India = first mandatory CSR country.
-* Kotak Committee: separate Chair and MD — “must remain the same” is the wrong statement.
-* MRP = **ceiling** (bargain below OK; charge above unlawful) — not a must-charge price (read booklet Reason carefully).
-* ECOMARC = **environment-friendly** — not ISI “best quality,” not AGMARK, not export/import tag.
-* AGMARK = DMI agri grades (**1937** Act) — **not** FAO / FCI; FPO = processed fruit products; ISO 14001 = environmental management.
-* TRAI = **1997**, HQ **New Delhi**; BSNL ≈ **2000**; Project Arrow = **post offices (2008)**; USOF = rural telecom subsidy fund.
-* IRDAI ≠ PFRDA ≠ SEBI ≠ RBI; IFSCA ≠ all-India SEBI.
-* FSSAI = food; BIS = standards; CCI = competition; TRAI = telecom.
-* Ministry of Cooperation **2021**; Article **43B** cooperatives.
-* Services GDP share ≠ services employment share.
+## Common Traps & High-Yield Exam Distinctions
+
+* **Sectoral Classification of Activities:** The tertiary sector encompasses intangible services (trade, transport, finance); forestry, logging, fishing, and mining/quarrying belong to the Primary sector; construction belongs to Industry (Secondary sector) in national GVA accounts.
+* **Agricultural Warehousing:** Warehousing, storage, and commercial marketing of harvested agricultural crops are classified as Tertiary sector logistics activities, not secondary processing.
+* **GVA Sectoral Ranking:** In India's GVA at current prices, Services contribute the largest share (~54.4%), followed by Industry (~27.8%) and Agriculture & Allied (~17.9%); asserting that services generate only 25% of GDP is factually false.
+* **Mandatory CSR Statute & Year:** Corporate Social Responsibility is governed by Section 135 of the Companies Act, 2013 (operational from 1 April 2014); there is no "Companies Act, 2014."
+* **CSR Spending Parameters:** Mandates spending at least 2% of the average net profits of the three preceding financial years; spending that benefits exclusively company employees and their families does not qualify as CSR.
+* **Maximum Retail Price (MRP) Dynamics:** MRP is a statutory price ceiling protecting consumers; retailers cannot charge above it, but consumers are legally entitled to bargain and buy below the MRP.
+* **ECOMARC Environmental Eco-Label:** ECOMARC certifies that a product is environmentally benign (depicting an earthen pot logo); it is distinct from the ISI mark (general product safety) and AGMARK (agricultural produce quality grading).
+* **AGMARK Administrative Body:** Issued under the Agricultural Produce (Grading and Marking) Act, 1937, by the Directorate of Marketing and Inspection (DMI) under the Ministry of Agriculture, not by FAO or FCI.
+* **Regulatory Authorities Headquarters:** IRDAI is headquartered in Hyderabad, Telangana; SEBI and RBI are in Mumbai; PFRDA, CCI, and TRAI are in New Delhi; IFSCA is in GIFT City, Gandhinagar.
+* **Project Arrow:** A dedicated national scheme launched in 2008 by India Post for the modernization and computerization of Post Offices; it is not related to airports or railways.
+* **Constitutional Architecture of Cooperatives:** Governed by Article 43B (Directive Principles) and Part IXB, inserted by the 97th Constitutional Amendment Act, 2011; the Union Ministry of Cooperation was established in July 2021.

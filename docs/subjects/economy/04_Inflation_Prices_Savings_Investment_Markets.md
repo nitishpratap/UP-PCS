@@ -1,346 +1,141 @@
 # Economy Topic 4 — Inflation, Prices, Savings, Investment and Financial Markets
-### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥26)
+### ★ UPPCS Revision Sheet — Standard Textbook & High-Yield Analysis
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Inflation types | Causes and effects | CPI / WPI / core / headline | Control measures | Savings and capital formation | Money vs capital market | SEBI | Mutual funds | Insurance and NPS (market angle) | Financial literacy
+Concepts and taxonomy of inflation (Creeping, Walking, Galloping, Hyperinflation) | Demand-pull vs Cost-push vs Structural/Bottleneck inflation | Socio-economic impacts on debtors, creditors, and fixed-income earners | Price measurement indices: Consumer Price Index (CPI Combined, CPI-IW, CPI-AL/RL) vs Wholesale Price Index (WPI) | Core inflation vs Headline inflation | GDP Deflator vs Index of Industrial Production (IIP) | Domestic savings and Gross Capital Formation (GCF) | Structure of Indian financial markets: Money Market (T-bills, Call Money, CP, CD) vs Capital Market (Equity, Debt, Primary vs Secondary) | Securities and Exchange Board of India (SEBI) regulatory architecture | Mutual funds, Sovereign Gold Bonds (SGB), and Masala bonds
 
 </details>
 
-> **Sources baked in:** NCERT Class 12 Macroeconomics (inflation, savings–investment), MoSPI / DPIIT index notes, SEBI / market basics coaching maps, UPPCS Prelims PYQs, UKPCS Prelims; Extra Drill rebuilt from mixed RO/ARO–coaching stems (paste full Ghatnachakra Purvalokan later to expand)
-> **Weight:** ★★★ High — CPI vs WPI agency split, headline = Combined CPI, and debtor / bottleneck traps decide stems
-> **Last verified:** September 2026
+> **Core References:** NCERT Class 12 Macroeconomics (Inflation, Financial Markets), MoSPI National Accounts & Price Statistics, Office of Economic Adviser (DPIIT), SEBI Annual Reports, and UPPCS/UKPCS/UPSC Prelims archives.
+> **Significance:** ★★★ High — CPI vs WPI agency split and basket differences, Headline = Combined CPI, impact on debtors vs creditors, money market vs capital market instruments, and SEBI regulations.
+> **Last verified:** Academic Year 2026
 
-Monetary-policy tools (repo, CRR, MPC) stay in Economy Topic 3. External exchange-rate depth stays in Topic 9. Regulator name-lists deepen in Topic 11. This chapter owns price indices, inflation types, savings–investment and market products.
+*Note:* Central bank monetary policy instruments (Repo, CRR, SLR, MPC) are detailed in **Topic 3**. External exchange rate dynamics, currency depreciation, and Balance of Payments deepen in **Topic 9**. Financial regulatory bodies across sectors are consolidated in **Topic 11**. This chapter owns price indices, inflation taxonomy, savings-investment mechanics, and financial market instruments.
 
 ---
 
-## Current Affairs
+## Current Affairs & Contemporary Highlights
 
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **2024 (UPPCS)** | **Retail inflation** in India is measured by **CPI** (not WPI / IIP / GDP deflator). | Four-way index trap. |
-| **2024 (UKPCS)** | Inflation including food and energy = **headline**; stripping them = **core**. | Headline ≠ core. |
-| **2021** | **WPI** released by **Ministry of Commerce and Industry** (OEA / DPIIT). | Not RBI / Finance / Consumer Affairs. |
-| **2021** | **Headline inflation** keyed on **Combined CPI**. | Not WPI or CPI-IW alone. |
-| **FIT link** | RBI targets **CPI** (Combined) at **4% ± 2%** — toolkit detail in Topic 3. | Index choice vs instrument choice. |
+| Reference Year | Key Institutional & Market Highlight | Conceptual Importance & Exam Relevance |
+|---|---|---|
+| **2024 (UPPCS)** | In India, **retail inflation** is officially tracked and targeted using the **Consumer Price Index (Combined)**, compiled by the National Statistical Office (NSO) under MoSPI (not WPI, IIP, or GDP deflator). | Fundamental distinguishing question across national macroeconomic indices. |
+| **2024 (UKPCS)** | Inflation measured across the entire consumer basket including food and energy components is designated as **Headline Inflation**; stripping out volatile food and fuel prices yields **Core Inflation**. | Core conceptual taxonomy distinguishing headline from core inflation. |
+| **2021 (UPPCS)** | The **Wholesale Price Index (WPI)** is released by the **Office of the Economic Adviser (OEA)**, Department for Promotion of Industry and Internal Trade (DPIIT), **Ministry of Commerce and Industry** (not RBI or Finance Ministry). | Institutional provenance of primary wholesale economic statistics. |
+| **Monetary Target** | Under the statutory Monetary Policy Framework Agreement, the RBI targets **CPI (Combined)** inflation at **4% with a tolerance band of ±2%** (2% to 6%). | Policy anchor connecting retail price indices to RBI monetary policy. |
 
 ---
 
 <details class="st-chapter-toggle st-toggle-facts" markdown="1">
 <summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-1. **Inflation** is a sustained rise in the general price level, which cuts the purchasing power of money.
-2. **Deflation** is a sustained fall in the general price level.
-3. **Disinflation** is a fall in the **rate** of inflation (prices may still rise, but more slowly).
-4. **Stagflation** is high inflation together with stagnant growth / high unemployment — hard for simple demand tools.
-5. **Demand-pull inflation** rises when aggregate demand outruns supply at near-full capacity.
-6. **Cost-push inflation** rises when input costs (wages, fuel, imported inputs) push prices up.
-7. **Bottleneck / structural inflation** comes from supply bottlenecks and weak distribution — tough for demand management alone.
-8. **Headline inflation** covers the full basket, including food and energy.
-9. **Core inflation** excludes volatile food and fuel to show underlying pressure.
-10. In India, **retail / headline inflation** for policy is measured by the **Consumer Price Index (Combined)**.
-11. **CPI** is compiled by the **National Statistical Office (NSO)** under **MoSPI**.
-12. Segment CPIs in older teaching include CPI-IW, CPI-AL / RL (Labour Bureau lane) — Combined CPI is the all-India headline key.
-13. **WPI (Wholesale Price Index)** tracks wholesale / producer-level goods prices and **excludes services**.
-14. **WPI** is released by the **Office of the Economic Adviser**, DPIIT, **Ministry of Commerce and Industry** (base year teaching often **2011–12**).
-15. **GDP deflator** = (Nominal GDP / Real GDP) × 100 — a broad output-price measure, not the usual retail-inflation key.
-16. **IIP** measures industrial production volume — not an inflation index.
-17. Inflation **benefits debtors** (real burden of fixed debt falls) and hurts **creditors / bondholders / fixed-income** groups whose real receipts erode.
-18. Moderate inflation can coexist with growth; very high inflation damages savings, contracts and planning.
-19. Control mix: monetary tightening (Topic 3 tools), fiscal restraint, supply-side fixes (logistics, stocks, imports), and administrative measures on essentials.
-20. **Savings** = income not consumed. **Household financial savings** sit in deposits, shares, insurance, pensions and small savings.
-21. **Investment / capital formation** builds physical and related productive assets (machinery, structures, inventories teaching).
-22. **Gross capital formation** is the flow of investment in a period; **gross domestic savings** finance it from domestic sources (plus foreign saving).
-23. The **household sector** dominates India’s gross domestic savings; within household savings, **physical assets** usually lead deposits / currency / shares.
-24. **High capital–output ratio** can keep growth low even when savings and capital formation look high (Topic 1 neighbour).
-25. Capital-formation data: **RBI + CSO/NSO** (K.N. Raj committee roles).
-26. In a closed-economy identity teaching, **S = I** in equilibrium; open economy adds net foreign capital.
-27. **Financial markets** channel savings to investment through instruments and intermediaries.
-28. **Money market**: short-term funds (T-bills, commercial paper, call money, certificates of deposit teaching).
-29. **Capital market**: longer-term funds — **equity** (shares) and **debt** (bonds / debentures).
-30. **Primary market** issues new securities; **secondary market** trades existing ones (liquidity for investors).
-31. **SEBI** regulates the securities market — exchanges, brokers, mutual funds, listed companies (capital-market depth here; one-line in Topic 11).
-32. **Mutual funds** pool investors’ money into portfolios of securities under SEBI norms; NAV reflects portfolio value.
-33. **Insurance** products (life / general) are market savings / risk tools; **IRDAI** is the sector regulator (list depth in Topic 11).
-34. **NPS (National Pension System)** is a market-linked pension architecture under PFRDA supervision teaching.
-35. **Bonds** are debt instruments; rising inflation / rates typically hurt existing fixed-coupon bond prices.
-36. **Equity** offers residual ownership claims; returns are not contractually fixed like many bonds.
-37. **Financial literacy** is the ability to understand products, risk, inflation and compounding for better household decisions.
-38. **Real interest rate** ≈ nominal rate − inflation — when inflation exceeds the nominal rate, real returns turn negative.
-39. **Hyperinflation** is extremely rapid inflation that destroys money’s store-of-value role (rare teaching extreme).
-40. **Reflation** is policy aimed at raising prices / demand after a deflationary or weak spell.
-41. Imported inflation rises when foreign prices or a weaker rupee lift domestic costs of imports.
-42. Wage–price spiral teaching: wages chase prices and prices chase wages.
-43. Indexation (DA, some contracts) adjusts payments to inflation so real incomes / obligations stay closer to intended levels.
-44. **Creeping inflation** is a mild rise (often taught as under ~3%); it can coexist with growth.
-45. **Walking / trotting inflation** is the moderate warning band in school lists.
-46. **Running / galloping / hyperinflation** marks rapid to out-of-control price rises.
-47. **Demand-pull inflation** = too much money chasing too few goods at high capacity.
-48. **Cost-push inflation** = supply shocks (oil, wages, raw materials) raise unit costs.
-49. **Structural inflation** in India teaching stresses bottlenecks, storage and marketing rigidities.
-50. During inflation, **debtors gain** and **creditors lose** in real terms.
+1. **Inflation** is defined as a sustained, general increase in the price level of goods and services in an economy over a period of time, resulting in a persistent erosion in the purchasing power of money.
+2. **Deflation** is a persistent, general decline in the overall price level (negative inflation rate), often accompanied by economic contraction.
+3. **Disinflation** represents a deceleration in the **rate of inflation**; prices continue to rise, but at a visibly slower pace (e.g., inflation declining from 7% to 4%).
+4. **Stagflation** is an adverse macroeconomic condition characterized by the simultaneous persistence of high inflation, stagnant economic output, and high unemployment.
+5. **Demand-Pull Inflation** arises when aggregate demand for goods and services outpaces aggregate supply in an economy operating near full productive capacity ("too much money chasing too few goods").
+6. **Cost-Push Inflation** is triggered by supply-side disruptions or an increase in the costs of production (e.g., surging international crude oil prices, rising wages, or imported raw material costs) that push up unit output prices.
+7. **Structural or Bottleneck Inflation** arises from structural rigidities, inadequate physical infrastructure, poor storage facilities, and agricultural supply chain bottlenecks common in developing economies.
+8. **Headline Inflation** measures total inflation across the entire commodity basket, including volatile food and energy products.
+9. **Core Inflation** isolates the underlying, durable inflation trend by excluding volatile food and fuel prices from the headline basket.
+10. In India, **headline retail inflation** for monetary policy formulation is officially measured by the **Consumer Price Index (Combined)**.
+11. The **CPI (Combined)** is compiled and released monthly by the **National Statistical Office (NSO)** under the Ministry of Statistics and Programme Implementation (MoSPI).
+12. Sector-specific CPI indices—**CPI-IW (Industrial Workers)**, **CPI-AL (Agricultural Labourers)**, and **CPI-RL (Rural Labourers)**—are compiled by the **Labour Bureau** under the Ministry of Labour and Employment.
+13. The **Wholesale Price Index (WPI)** measures price changes at the wholesale transaction level; it covers only physical goods and **completely excludes services**.
+14. The **WPI** is compiled and published monthly by the **Office of the Economic Adviser (OEA)**, Department for Promotion of Industry and Internal Trade (DPIIT), **Ministry of Commerce and Industry** (base year 2011–12).
+15. In WPI, **Manufactured Products** hold the highest weight (64.2%), followed by **Primary Articles** (22.6%) and **Fuel & Power** (13.2%). In CPI Combined, **Food and Beverages** carry the largest weight (approximately 45.9%).
+16. The **GDP Deflator** is the ratio of Nominal GDP to Real GDP multiplied by 100: $\text{GDP Deflator} = \left( \frac{\text{Nominal GDP}}{\text{Real GDP}} \right) \times 100$. It is the most comprehensive measure of domestic output price levels.
+17. The **Index of Industrial Production (IIP)** measures the physical **volume of industrial production** across Mining, Manufacturing, and Electricity; it is a volume index, not a price index.
+18. During periods of unanticipated inflation, **debtors (borrowers) gain** in real terms because they repay loans in currency that has lost purchasing power. Conversely, **creditors (lenders), bondholders, and fixed-income earners lose** purchasing power.
+19. The **Real Interest Rate** approximates the nominal interest rate minus the rate of inflation (Fisher Equation): $\text{Real Interest Rate} \approx \text{Nominal Rate} - \text{Inflation}$. When inflation exceeds nominal returns, the real return turns negative.
+20. Macroeconomic measures to curb inflation include: monetary tightening (hiking repo rate, raising CRR/SLR), fiscal consolidation (reducing fiscal deficit and public spending), and supply-side interventions (releasing food buffer stocks, reducing import duties on essential commodities).
+21. **Savings** represents the portion of disposable national income that is not spent on current final consumption.
+22. In India, the **household sector** is the single largest contributor to gross domestic savings, followed by the private corporate sector and the public sector.
+23. Within Indian household savings, **physical assets** (real estate, gold, physical capital) historically account for a larger share than financial assets (bank deposits, shares, pensions).
+24. **Gross Capital Formation (GCF)** represents the net addition to the physical fixed capital stock of the economy (machinery, infrastructure, factories) plus changes in inventories during an accounting year.
+25. A **high Capital–Output Ratio (COR)** or Incremental Capital–Output Ratio (ICOR) signifies that substantial capital investments produce comparatively low output increments, indicating capital inefficiency.
+26. In macroeconomic equilibrium within a closed economy, aggregate savings equal aggregate investment ($S = I$). In an open economy, domestic investment equals domestic savings plus net capital inflows from abroad.
+27. **Financial markets** channel surplus financial resources from net savers (principally households) to productive borrowers and investors (corporations and government).
+28. The **Money Market** deals in short-term credit instruments with maturities of **up to one year** (364 days). Core instruments include Treasury Bills, Commercial Paper, Certificates of Deposit, Call Money, and Notice Money.
+29. The **Capital Market** deals in medium- and long-term funds (maturities exceeding one year). It comprises the **Equity Market** (shares providing ownership stakes) and the **Debt Market** (bonds and debentures providing fixed income).
+30. In the money market, **Call Money** refers to inter-bank borrowing for **one day (overnight)**; **Notice Money** refers to borrowing for **2 to 14 days**; and **Term Money** covers borrowing for periods beyond **14 days up to one year**.
+31. **Treasury Bills (T-Bills)** are short-term promissory notes issued by the RBI on behalf of the Government of India to finance temporary cash mismatches. They are issued at a discount and redeemed at face value, with standard maturities of **91 days, 182 days, and 364 days**. State Governments **do not issue T-bills**.
+32. **Commercial Paper (CP)** is an unsecured short-term promissory note issued by highly rated corporate entities to raise working capital directly from the market (maturities between 7 days and 1 year).
+33. **Certificates of Deposit (CDs)** are negotiable, dematerialized promissory notes issued by commercial banks and financial institutions against term deposits (minimum tenure 7 days for banks).
+34. The **Primary Market** is the segment of the capital market where new securities are issued for the very first time to raise fresh capital (Initial Public Offering - IPO, Follow-on Public Offering - FPO, Rights Issue).
+35. The **Secondary Market** (Stock Exchange) is the platform where existing, previously issued securities are traded among investors, providing continuous liquidity.
+36. The **Securities and Exchange Board of India (SEBI)** is the statutory apex regulator of securities and capital markets in India. Established on 12 April 1988 by executive resolution, it was granted **full statutory status on 30 January 1992** via the *SEBI Act, 1992*.
+37. **Mutual Funds** are investment vehicles that pool capital from multiple individual and institutional investors to purchase diversified portfolios of equities, debt, or money market securities under SEBI regulations.
+38. **Net Asset Value (NAV)** represents the market value per share/unit of a mutual fund portfolio: $\text{NAV} = \frac{\text{Total Assets} - \text{Liabilities}}{\text{Total Outstanding Units}}$.
+39. The **Bombay Stock Exchange (BSE)** is Asia's oldest stock exchange (established in 1875 as the Native Share and Stock Brokers' Association); its benchmark index is the **S&P BSE Sensex**, comprising **30 large, liquid, representative stocks**.
+40. The **National Stock Exchange (NSE)** was incorporated in 1992 and commenced operations in 1994; its flagship benchmark index is the **Nifty 50**, tracking **50 leading diversified companies**.
+41. Depository systems in India convert physical share certificates into electronic book entries (**dematerialization**). India has two national depositories: **National Securities Depository Limited (NSDL)**, established in **1996**, and **Central Depository Services Limited (CDSL)**, established in **1999**.
+42. **Masala Bonds** are Rupee-denominated debt instruments issued by Indian entities in overseas capital markets. Their primary economic advantage is that **currency exchange rate risk is borne by the overseas investor**, not the Indian borrower.
+43. **Sovereign Gold Bonds (SGBs)** are government securities denominated in grams of gold issued by the RBI on behalf of the Government of India to mobilize idle domestic gold demand into paper investments, paying a fixed annual coupon interest alongside capital appreciation linked to gold prices.
+44. **Creeping Inflation** represents a mild, gradual increase in prices (typically up to 3% annually), generally considered manageable and supportive of economic expansion.
+45. **Walking or Trotting Inflation** is moderate inflation (typically between 3% and 10% annually), signaling the need for active monetary intervention.
+46. **Running or Galloping Inflation** occurs when prices rise at a double- or triple-digit pace (10% to 100%+ annually), distorting price mechanisms and undermining long-term investments.
+47. **Hyperinflation** is an extreme economic crisis where prices escalate out of control (exceeding 50% monthly), rendering national paper currency virtually worthless.
+48. **Reflation** is an intentional macroeconomic stimulus policy enacted by monetary or fiscal authorities to raise prices and restore aggregate demand following a period of economic recession or deflation.
+49. **Imported Inflation** occurs when a country experiences domestic price inflation as a direct consequence of rising prices of imported essential commodities (such as crude oil, fertilizers, and edible oils) or the steep depreciation of the domestic currency.
+50. The **National Pension System (NPS)** is a voluntary, defined-contribution, market-linked pension framework regulated by the **Pension Fund Regulatory and Development Authority (PFRDA)**.
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-confused" markdown="1">
 <summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| A | B | Distinguishing fact |
-|---|---|---|
-| **Inflation** | **Disinflation** | Rising prices vs falling inflation *rate* |
-| **Deflation** | **Disinflation** | Falling price level vs slowing inflation |
-| **Headline** | **Core** | Full basket vs ex-food & fuel |
-| **CPI** | **WPI** | Retail (+ services) vs wholesale goods only |
-| **CPI agency (MoSPI/NSO)** | **WPI agency (Commerce / OEA)** | Different ministries |
-| **Retail inflation key** | **GDP deflator / IIP** | CPI vs output-price / production index |
-| **Debtors gain** | **Bondholders / fixed income lose** | Real debt burden falls vs real receipts erode |
-| **Money market** | **Capital market** | Short-term vs long-term |
-| **Primary market** | **Secondary market** | New issue vs trading existing securities |
-| **SEBI** | **RBI** | Securities market vs monetary / banking |
-| **Demand-pull** | **Bottleneck / cost-push** | Excess demand vs supply constraints / costs |
-| **Mutual fund** | **Direct equity only** | Pooled diversified portfolio vs single-stock DIY |
+| Concept A | Concept B | Conceptual Distinction & Mechanics | Key Memorization Anchor |
+|---|---|---|---|
+| **Inflation** | **Disinflation** | Inflation is rising price levels; Disinflation is a declining *rate* of inflation (prices continue rising, but more slowly). | Inflation = Price level rises; Disinflation = Inflation rate slows |
+| **Deflation** | **Disinflation** | Deflation is a sustained drop in the price level (negative inflation); Disinflation is positive inflation at a moderated pace. | Deflation = Negative inflation; Disinflation = Slowing positive inflation |
+| **Headline Inflation** | **Core Inflation** | Headline covers the comprehensive basket including food and energy; Core excludes volatile food and fuel to show baseline trend. | Headline = Entire basket; Core = Strips food & fuel |
+| **Consumer Price Index (CPI)** | **Wholesale Price Index (WPI)** | CPI measures retail prices faced by households and includes services; WPI measures wholesale trade and excludes services completely. | CPI = Retail + Services; WPI = Wholesale goods only |
+| **CPI Compiling Agency** | **WPI Compiling Agency** | CPI Combined is compiled by NSO (MoSPI); WPI is compiled by Office of Economic Adviser, DPIIT (Ministry of Commerce and Industry). | CPI = MoSPI; WPI = Ministry of Commerce |
+| **Retail Inflation Policy Anchor** | **GDP Deflator / IIP** | CPI Combined is the official anchor for RBI inflation targeting; GDP Deflator is a comprehensive national output index; IIP is a volume index. | Monetary policy targets CPI Combined |
+| **Impact on Debtors** | **Impact on Creditors** | Debtors gain from unanticipated inflation (repaying in cheaper currency); Creditors and fixed-income earners lose real purchasing power. | Debtors gain; Creditors lose |
+| **Money Market** | **Capital Market** | Money market handles short-term instruments (up to 1 year); Capital market handles long-term equity and debt (exceeding 1 year). | Money = Short-term (≤1 yr); Capital = Long-term (>1 yr) |
+| **Primary Market** | **Secondary Market** | Primary market issues brand new securities (IPOs); Secondary market facilitates trading of existing securities between investors. | Primary = New issuance; Secondary = Trading existing securities |
+| **Call Money** | **Notice Money** | Call money is borrowing for 1 day (overnight); Notice money is borrowing for 2 to 14 days. | Call = 1 day; Notice = 2 to 14 days |
+| **SEBI Regulatory Scope** | **RBI Regulatory Scope** | SEBI regulates securities exchanges, brokers, and mutual funds; RBI regulates money markets, government securities, and banks. | SEBI = Capital markets; RBI = Banking & money markets |
+| **BSE Sensex (30 stocks)** | **NSE Nifty (50 stocks)** | Sensex tracks 30 large-cap stocks on BSE; Nifty tracks 50 diversified stocks on NSE. | Sensex = 30; Nifty = 50 |
+| **Masala Bonds** | **Standard Foreign Currency Bonds** | Masala bonds are denominated in Indian Rupees (currency risk on foreign investor); Foreign currency bonds carry exchange risk for Indian borrower. | Masala = Rupee-denominated abroad |
 
 </details>
 
 <details class="st-chapter-toggle st-toggle-must-score" markdown="1">
-<summary><strong>📋 Must-score drill — indices and effects</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+<summary><strong>📋 Must-Score Drill — Price Indices, Market Levers & Regulators</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
-| Item | Tag |
+| Economic Concept or Market Instrument | Core Characteristic / Regulatory Authority |
 |---|---|
-| Retail / headline inflation | CPI (Combined) |
-| CPI publisher | NSO / MoSPI |
-| WPI publisher | MoC&I (OEA, DPIIT) |
-| Core inflation | Ex-food & fuel |
-| RBI target index | CPI |
-| Debtors vs creditors | Debtors gain; bondholders hurt |
-| Bottleneck inflation | Supply / distribution constraints |
-| Money vs capital market | Short vs long term |
-| SEBI | Securities regulator |
-| S = I teaching | Savings finance investment |
+| **Official Retail Inflation Index** | Consumer Price Index (CPI Combined) |
+| **CPI Compiling Organization** | National Statistical Office (NSO), MoSPI |
+| **WPI Compiling Organization** | Office of Economic Adviser (OEA), DPIIT, Ministry of Commerce and Industry |
+| **Services in Price Indices** | Included in CPI; completely excluded from WPI |
+| **Core Inflation Definition** | Headline inflation excluding volatile food and fuel components |
+| **RBI Inflation Targeting Mandate** | 4% CPI Combined with a tolerance band of ±2% (2% to 6%) |
+| **Winners in Inflation** | Debtors (borrowers) |
+| **Losers in Inflation** | Creditors (lenders), bondholders, pensioners, and fixed-income earners |
+| **Structural / Bottleneck Inflation** | Supply bottlenecks, transport delays, and storage deficits |
+| **Treasury Bills Issuer & Tenures** | RBI on behalf of GoI; 91-day, 182-day, and 364-day maturities |
+| **Inter-Bank Money Market Tenures** | Call Money (1 day), Notice Money (2–14 days), Term Money (>14 days) |
+| **Commercial Paper (CP)** | Short-term unsecured promissory note issued by corporates |
+| **SEBI Inception & Statutory Status** | Established 1988; granted statutory status on 30 January 1992 (SEBI Act, 1992) |
+| **Depository Institutions in India** | NSDL (1996) and CDSL (1999) |
+| **BSE Sensex vs NSE Nifty Count** | 30 companies (Sensex); 50 companies (Nifty) |
+| **Masala Bonds Currency Risk** | Rupee-denominated; currency risk borne by overseas investor |
+| **Pension Market Regulator** | PFRDA (Pension Fund Regulatory and Development Authority) |
 
 </details>
 
 ---
-
-## 4.1 Inflation — types, causes, effects
-
-**Inflation** is a sustained rise in the general price level that reduces the purchasing power of money.
-
-- **Creeping inflation** is a mild ongoing rise; **walking / trotting** and **galloping** describe successively faster rises in school typology.
-- **Hyperinflation** is extreme price explosion that destroys money’s store-of-value function.
-- **Headline inflation** includes food and fuel; **core inflation** strips volatile food and fuel in teaching.
-- **Demand-pull inflation** rises when aggregate demand outruns supply at near-full capacity.
-- **Cost-push inflation** rises when input costs (wages, oil, logistics) push prices up.
-- **Bottleneck / structural inflation** arises from supply bottlenecks and inefficient distribution — demand tools alone struggle.
-- **Stagflation** combines high inflation with stagnant output / high unemployment.
-- Inflation hurts fixed-income groups and creditors in real terms; debtors may gain in real-burden teaching.
-- Moderate inflation can coexist with growth; high and volatile inflation damages investment and the poor hardest.
-- Control tools mix monetary policy (Topic 3), fiscal restraint, supply management and buffer stocks for food.
-
-**Q-EC1. UPPCS (Pre) 2021**
-
-Given below are two statements one is labelled as Assertion (A) and other as Reason (R):
-
-**Assertion (A):** The government faces a tough time tackling the bottleneck inflation.
-
-**Reason (R):** The situation is due to deficiencies existing in the economy such as supply bottleneck and inefficient distribution.
-
-Select the correct answer using the codes given below.
-
-A. Both (A) and (R) are true and (R) is correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is correct explanation of (A).
-
-**Ans: A.** Both (A) and (R) are true and (R) is correct explanation of (A)
-</details>
-
-**Q-EC2. UKPCS (Pre) 2021**
-
-Which of the following statement is correct?
-
-A. Inflation benefits the bond holders.
-B. Inflation benefits the debtors.
-C. Inflation benefits the fixed income groups.
-D. None of these
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bondholders and fixed-income groups lose purchasing power on fixed receipts.
-
-**Ans: B.** Real debt burden falls for debtors.
-
-</details>
-
-**Q-EC3. UKPCS (Pre) 2024**
-
-A measure of the total inflation within an economy, including such factors as food and energy prices, is called
-
-A. Headline inflation
-B. Core inflation
-C. Refined core inflation
-D. None of these
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Headline inflation.
-
-**Ans: A.** Headline includes food and energy; core strips them.
-
-</details>
-
----
-
-## 4.2 Price indices — CPI, WPI, related measures
-
-**Price indices** turn a basket of goods and services into a single number that tracks inflation over time.
-
-### CPI — retail inflation
-
-- **CPI (Consumer Price Index)** measures retail price change for a consumer basket.
-- India’s **headline retail inflation** for monetary policy is the **Combined CPI** compiled by NSO / MoSPI.
-- Segment CPIs (Industrial Workers, Agricultural Labourers, Rural Labourers) serve wage and sector uses — they are not the MPC’s Combined headline by default.
-- **Core inflation** strips food and fuel; **headline** keeps the full basket including food and energy.
-
-### WPI — wholesale inflation
-
-- **WPI (Wholesale Price Index)** tracks wholesale prices of bulk transactions.
-- WPI is brought out by the **Office of the Economic Adviser** under DPIIT in the **Ministry of Commerce and Industry**.
-- WPI is **not** published by RBI, the Finance Ministry, or the Consumer Affairs Ministry in the keyed stem.
-- WPI weights are heavy in manufactured products, primary articles and fuel/power in teaching.
-
-### Other measures
-
-- **IIP (Index of Industrial Production)** measures industrial **volume**, not prices.
-- The **GDP deflator** is a broad output-price measure from national accounts — Nominal GDP / Real GDP.
-- Do not swap CPI (retail prices), WPI (wholesale prices), IIP (production) and GDP deflator (output prices).
-
-**Q-EC4. UPPCS (Pre) 2024**
-
-Which of the following indices is used to measure retail inflation in India?
-
-A. WPI
-B. CPI
-C. IIP
-D. GDP Deflator
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** WPI is wholesale; IIP is production; GDP deflator is output-price broad measure.
-
-**Ans: B.** Retail inflation = CPI.
-
-</details>
-
-**Q-EC5. UPPCS (Pre) 2021**
-
-Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India?
-
-A. The Reserve Bank of India
-B. The Ministry of Commerce and Industry
-C. The Ministry of Finance
-D. The Ministry of Consumer Affairs, Food and Public Distribution
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** WPI comes from the Office of the Economic Adviser under DPIIT in the Ministry of Commerce and Industry — The Ministry of Commerce and Industry
-
-**Ans: B.** The Ministry of Commerce and Industry
-</details>
-
-**Q-EC6. UPPCS (Pre) 2021**
-
-Headline inflation refers to the change in value of all goods on the basket. On which basis is the headline inflation measured?
-
-A. Wholesale Price Index
-B. Consumer Price Index for Industrial Worker
-C. Combined Consumer Price Index
-D. Urban Consumer Price Index
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Combined Consumer Price Index.
-
-**Ans: C.** India’s headline retail measure for policy is Combined CPI (NSO/MoSPI), not WPI or a single segment CPI.
-
-</details>
-
----
-
-## 4.3 Savings, investment and capital formation
-
-**Savings** are income not consumed; **investment** builds physical and productive capital.
-
-- Households, private corporations and government are the three savers in national-accounts teaching.
-- The **household sector** dominates India’s gross domestic savings share.
-- Within household savings, **physical assets** (housing, durables, gold teaching) usually outrank deposits, currency and shares.
-- **Gross capital formation** measures investment in fixed assets plus changes in stocks.
-- Capital formation needs both **savings** and effective **financial institutions**; investment is the essential link.
-- Capital-formation data in India are compiled by **RBI and CSO/NSO** (K.N. Raj committee split of roles).
-- Financial intermediaries and markets channel savings into investment.
-- The **real interest rate** ≈ nominal rate − inflation; negative real rates punish savers.
-- A savings–investment gap can show up as a current-account deficit when domestic saving falls short of investment (Topic 9 neighbour).
-- Capital formation raises future productive capacity; consumption-only growth does not.
-- **High capital–output ratio** means more capital is needed per unit of output — so high savings may still yield slow growth (Economy Topic 1 neighbour).
-
----
-
-## 4.4 Financial markets — money, capital, SEBI, funds, pensions
-
-**Financial markets** price and transfer funds between savers and users of capital.
-
-### Money market vs capital market
-
-- The **money market** deals in short-term instruments (call money, T-bills, commercial paper, certificates of deposit teaching).
-- The **capital market** funds long-term equity and debt (shares, bonds, debentures).
-- Money-market tenors are typically up to one year; capital-market tenors are longer.
-
-### SEBI, mutual funds, insurance, NPS
-
-- **SEBI** regulates the securities market — exchanges, brokers, mutual funds and listed-company disclosure (SEBI Act 1992).
-- SEBI is **not** RBI; RBI handles banking and monetary policy.
-- **Mutual funds** pool investors’ money into portfolios under SEBI norms; **NAV** reflects portfolio value per unit.
-- **Insurance** products (life / general) are long-horizon risk and savings tools; **IRDAI** is the sector regulator (Topic 11).
-- **NPS (National Pension System)** is a market-linked pension architecture supervised by **PFRDA** (Topic 11).
-- Primary markets issue new securities; secondary markets trade existing ones.
-
----
-
-## Teaching expansion — additional theory (beyond Consolidated spine)
-
-These points sit in teaching theory (not the Consolidated spine).
-
-- **Phillips Curve** teaches a short-run inverse link between inflation and unemployment.
-- **Misery Index** (Okun) = unemployment rate + inflation rate.
-- **WPI** is compiled by the Office of the Economic Adviser (DPIIT); base **2011–12**; goods only.
-- WPI manufactured products weight teaching ≈ **64.23%** — the largest group.
-- **CPI-Combined** is compiled by **NSO**; base **2012**; includes goods and services.
-- CPI food & beverages weight teaching ≈ **45.86%** — the largest CPI group.
-- RBI’s nominal anchor after Urjit Patel is **CPI-Combined**, not WPI.
-- **ICOR** is the incremental capital needed for one extra unit of output; lower ICOR means more efficient capital use.
-- Money market maturities are typically **≤ 1 year** and are RBI-regulated.
-- T-Bills teaching tenures: **91, 182, 364** days; issued at discount by the Centre.
-- **Call money** is overnight; **notice money** 2–14 days; **term money** beyond 14 days.
-- **BSE** Sensex is a **30**-stock index; **NSE** Nifty is a **50**-stock index.
-- **NSDL (1996)** and **CDSL (1999)** run the demat system.
-- **Masala bonds** are rupee-denominated bonds issued abroad — currency risk on the investor.
-- **SGB** pays a fixed coupon with gold-price linked principal teaching; capital gains relief tags appear in scheme FAQs.
 
 ## Complete PYQ Bank (UPPCS)
 
 **Q1. UPPCS (Pre) 2024**
+
+Which of the following indices is used to measure retail inflation in India?
 
 A. WPI
 B. CPI
@@ -357,6 +152,8 @@ D. GDP Deflator
 
 **Q2. UPPCS (Pre) 2021**
 
+Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India?
+
 A. RBI
 B. Ministry of Commerce and Industry
 C. Ministry of Finance
@@ -372,6 +169,8 @@ D. Ministry of Consumer Affairs, Food and Public Distribution
 
 **Q3. UPPCS (Pre) 2021**
 
+Headline retail inflation for the monetary policy framework in India is based on which of the following price indices?
+
 A. WPI
 B. CPI-IW
 C. Combined CPI
@@ -386,6 +185,14 @@ D. Urban CPI
 </details>
 
 **Q4. UPPCS (Pre) 2021**
+
+Given below are two statements, one is labelled as Assertion (A) and other as Reason (R):
+
+Assertion (A): The government faces a tough time tackling bottleneck inflation.
+
+Reason (R): The situation is due to deficiencies existing in the economy such as supply bottlenecks and inefficient distribution.
+
+Select the correct answer using the codes given below:
 
 A. Both true and R explains A
 B. Both true but R does not explain A
@@ -533,6 +340,8 @@ D. Only 1
 
 **Q20.**
 
+Imported inflation in an open economy like India typically arises when:
+
 A. Only domestic CRR falls by law with no price link
 B. Foreign prices or a weaker rupee lift import costs
 C. NABARD merges with SEBI
@@ -587,6 +396,8 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 </details>
 
 **Q23.**
+
+In macroeconomic accounting, gross capital formation refers to:
 
 A. Only interest on public debt
 B. Investment flow building capital stock in a period
@@ -730,6 +541,8 @@ D. None of these
 </details>
 
 **Q2. UKPCS (Pre) 2024**
+
+A measure of the total inflation within an economy, including such factors as food and energy prices, is called:
 
 A. Headline inflation
 B. Core inflation
@@ -1278,13 +1091,17 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Ans: A.** Parallel truths, not a causal link from R to A.
 </details>
 
-## Common Traps
+## Common Traps & High-Yield Conceptual Clarifications
 
-* **Retail / headline** = **CPI (Combined)**; **WPI** = Commerce & Industry, goods only, no services.
-* **Core** excludes food & energy; **headline** includes them.
-* **IIP** and **GDP deflator** are not the retail-inflation key.
-* Inflation helps **debtors**, hurts **bondholders / fixed income**.
-* **Bottleneck** inflation = supply / distribution — hard for demand tools alone.
-* **Disinflation** ≠ **deflation**; **stagflation** = inflation + stagnation.
-* Money market = short-term; capital market = long-term; SEBI ≠ RBI.
-* Repo / MPC instruments live in Topic 3 — this chapter owns the **index** and **market-product** side.
+* **Official Inflation Gauge:** The Reserve Bank of India benchmarks its flexible inflation-targeting monetary policy strictly against **CPI (Combined)**, compiled by the NSO (MoSPI), not against WPI, IIP, or the GDP Deflator.
+* **Services Exclusion in WPI:** The **Wholesale Price Index (WPI) completely excludes services**, tracking only manufactured products, primary articles, and fuel/power. CPI includes both goods and services.
+* **Compiling Ministries Split:** CPI Combined is compiled by the **Ministry of Statistics and Programme Implementation (MoSPI)**; WPI is compiled by the **Ministry of Commerce and Industry** (OEA/DPIIT). Sectoral indices (CPI-IW, CPI-AL) are compiled by the **Labour Bureau** (Ministry of Labour and Employment).
+* **Debtor vs Creditor Dynamics:** During unexpected inflation, **debtors gain** because the real value of their debt obligation decreases; **creditors, bondholders, and fixed-income earners lose** purchasing power.
+* **Core vs Headline Inflation:** **Headline inflation includes all commodities** in the consumer basket; **Core inflation explicitly strips out food and fuel** to assess underlying demand pressure.
+* **Money Market vs Capital Market Horizon:** Money market instruments have maturities of **up to one year** (364 days); Capital market instruments (equities, corporate bonds) have maturities **exceeding one year**.
+* **Treasury Bills Limitation:** Treasury Bills are issued exclusively by the **Central Government**; State Governments cannot issue T-bills (they issue State Development Loans - SDLs).
+* **Call vs Notice Money:** Call Money is inter-bank lending for **one day (overnight)**; Notice Money is for **2 to 14 days**.
+* **SEBI Statutory Date:** Formed in 1988, SEBI became a statutory body on **30 January 1992** under the *Securities and Exchange Board of India Act, 1992*.
+* **Stock Index Representation:** The **BSE Sensex comprises 30 stocks**; the **NSE Nifty comprises 50 stocks**.
+* **Masala Bonds Currency:** Masala bonds are denominated in **Indian Rupees** in overseas markets; the currency exchange risk is borne by the overseas investor, protecting the Indian issuer against Rupee depreciation.
+* **Index of Industrial Production (IIP):** The IIP is an industrial **volume index**, not an inflation or price index.
