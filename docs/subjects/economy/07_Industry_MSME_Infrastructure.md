@@ -162,6 +162,238 @@ Industrialisation patterns and National Industrial Policies (1948, 1956, 1991) |
 
 ---
 
+## 7.1 Evolution of Industrial Policy & Economic Reforms (1948, 1956, 1991)
+- **Foundations of Indian Industrialization**:
+  - In national income accounting, the **secondary sector** comprises manufacturing, electricity, gas, water supply, and construction.
+  - Industrialization fosters domestic capital accumulation, shifts employment from low-productivity subsistence agriculture to high-productivity manufacturing, and drives structural economic transformation.
+- **Industrial Policy Resolution (IPR) of 1948**:
+  - Announced on **6 April 1948** by Dr. Syama Prasad Mookerjee (Minister of Industry and Supply); India's first official industrial policy statement.
+  - Laid the institutional foundation for a **Mixed Economy** (coexistence of public and private sectors) divided into four strategic tiers:
+    1. *Exclusive State Monopoly*: Arms, ammunition, atomic energy, and railway transport.
+    2. *State-Controlled Development*: Six basic industries (coal, iron and steel, aircraft manufacture, shipbuilding, telephone/telegraph apparatus, mineral oils) where new undertakings were reserved for the State.
+    3. *Regulated Private Sector*: 18 basic industries of national importance subject to central government regulation.
+    4. *Open Private Sector*: All residual consumer and light manufacturing open to private enterprise.
+- **Industrial Policy Resolution (IPR) of 1956**:
+  - Known as the **"Economic Constitution of India"** or the Bible of State Capitalism.
+  - Formulated in tandem with the **Second Five-Year Plan (Mahalanobis Heavy Industry Strategy)**, assigning the public sector the **"commanding heights of the economy"**:
+    - *Schedule A (17 Industries)*: Exclusively owned and developed by the State (defense, atomic energy, iron and steel, heavy electrical machinery, coal, aircraft, railways, air transport, shipbuilding).
+    - *Schedule B (12 Industries)*: Progressively State-owned, with private enterprise playing a supplementary role (machine tools, aluminum, fertilizers, road transport).
+    - *Schedule C (Residual Industries)*: Remaining non-scheduled industries left open to private initiative, but strictly governed by the **Industries (Development and Regulation) Act (IDRA), 1951**.
+  - **The License-Permit-Quota Raj**: IDRA 1951 mandated industrial licenses for establishing new units, substantial expansions, and manufacturing new product lines. This created severe entry barriers, bureaucratic red tape, and protected domestic monopolies from foreign and domestic competition.
+- **Monopolies and Restrictive Trade Practices (MRTP) Act, 1969**:
+  - Recommended by the Subimal Dutt Committee (1969) to curb the concentration of economic power in private industrial conglomerates (assets $\ge ₹20\text{ crore}$, raised to ₹100 crore in 1985).
+  - Later repealed and replaced by modern competition law: the **Competition Act, 2002** (enforced by the **Competition Commission of India - CCI**).
+- **The Landmark New Industrial Policy (NIP) of 24 July 1991 (LPG Reforms)**:
+  - Announced by the P.V. Narasimha Rao government (Finance Minister Dr. Manmohan Singh) amidst a severe Balance of Payments crisis:
+  - **Five Structural Pillars of Deregulation**:
+    1. **Abolition of Industrial Licensing (Delicensing)**: Industrial licensing was abolished for all except 18 strategic industries; progressively dismantled until **only 4 industries require compulsory licensing today**:
+       - (i) Aerospace and defense equipment
+       - (ii) Industrial explosives (including detonators and fireworks)
+       - (iii) Specified hazardous chemicals
+       - (iv) Cigars and cigarettes of tobacco and manufactured tobacco substitutes
+    2. **De-reservation of Public Sector Monopolies**: The reserved public sector domain was compressed from 17 industries to **only 2 sectors today**:
+       - (i) **Atomic Energy** (production, separation, and enrichment of fissionable materials)
+       - (ii) **Railway Operations** (core track operation and train movement; railway infrastructure/construction is open to private participation/FDI)
+    3. **Dismantling of the MRTP Asset Ceilings**: Pre-entry investment clearances for large business houses were removed, allowing corporate mergers, acquisitions, and plant expansions without prior government sanction.
+    4. **Automatic Approval for Foreign Direct Investment (FDI)**: Automatic approval up to $51\%$ foreign equity was introduced for 34 high-priority industries, paving the way for progressive liberalization.
+    5. **Phased Disinvestment of CPSEs**: Introduced the sale of government equity in Public Sector Enterprises to inject market discipline and enhance public finances.
+
+---
+
+## 7.2 Micro, Small and Medium Enterprises (MSME) & Small-Scale Industry Architecture
+- **Macroeconomic Significance of the MSME Sector**:
+  - Known as the **"Engine of Economic Growth"** and catalyst for decentralized industrialization:
+    - Contributes approximately **30% of India's GDP**.
+    - Accounts for over **45% of total manufacturing output**.
+    - Accounts for nearly **40% of India's total merchandise exports**.
+    - Provides employment to over **110 million people** (the largest employer after agriculture).
+    - Promotes regional balance by preventing industrial hyper-concentration in metropolitan hubs.
+  - All commercial bank loans extended to eligible MSMEs count toward mandatory **Priority Sector Lending (PSL)** targets.
+- **Landmark SSI & MSME Policy Committees (High-Yield Chronology Drill)**:
+  | Committee & Year | Chairman | Core Policy Recommendations & Systemic Significance |
+  |---|---|---|
+  | **Karve Committee (1955)** | D.G. Karve | **Village and Small-Scale Industries Committee**; emphasized the labor-absorbing capacity of small-scale industries and recommended product reservations to protect them from large mill competition during the 2nd Five-Year Plan. |
+  | **Nayak Committee (1991)** | P.R. Nayak | Examined working capital and institutional credit bottlenecks; recommended that commercial banks ensure working capital finance of at least **20% of projected annual turnover** to SSI units. |
+  | **Abid Hussain Committee (1997)** | Abid Hussain | Recommended the phased **dismantling and complete de-reservation of products** reserved exclusively for manufacture by small-scale industries to foster technological upgrading and global competitiveness. |
+  | **S.S. Kohli Committee (2000)** | S.S. Kohli | Constituted by RBI to formulate diagnostic parameters and financial restructuring mechanisms for **rehabilitating sick small-scale industrial units**. |
+- **Statutory Evolution: MSMED Act 2006 vs 2020 Composite Criteria vs 2025 Upward Revision**:
+  - **Historical Pre-2020 Criteria (MSMED Act, 2006)**: Strict statutory bifurcation between *Manufacturing* (measured by Investment in Plant & Machinery) and *Services* (measured by Investment in Equipment).
+  - **Landmark 2020 Composite Criteria (Effective 1 July 2020)**:
+    - Completely erased the distinction between manufacturing and services enterprises.
+    - Introduced a **composite criterion combining both Investment in Plant & Machinery/Equipment AND Annual Turnover** (with export turnover excluded from calculation to incentivize global trade):
+      - **Micro Enterprise**: Investment $\le \mathbf{₹1\text{ crore}}$ AND Annual Turnover $\le \mathbf{₹5\text{ crore}}$.
+      - **Small Enterprise**: Investment $\le \mathbf{₹10\text{ crore}}$ AND Annual Turnover $\le \mathbf{₹50\text{ crore}}$.
+      - **Medium Enterprise**: Investment $\le \mathbf{₹50\text{ crore}}$ AND Annual Turnover $\le \mathbf{₹250\text{ crore}}$.
+  - **Revised Upward Ceilings (Effective 1 April 2025 Notification)**:
+    - Government scaled thresholds upward to prevent growing enterprises from losing MSME incentives:
+      - **Micro**: Investment $\le \mathbf{₹2.5\text{ crore}}$ AND Turnover $\le \mathbf{₹10\text{ crore}}$.
+      - **Small**: Investment $\le \mathbf{₹25\text{ crore}}$ AND Turnover $\le \mathbf{₹100\text{ crore}}$.
+      - **Medium**: Investment $\le \mathbf{₹125\text{ crore}}$ AND Turnover $\le \mathbf{₹500\text{ crore}}$.
+- **Institutional Ecosystem for MSME Promotion**:
+  - **SIDBI (Small Industries Development Bank of India)**: Established on **2 April 1990** under an Act of Parliament as the apex financial institution for promoting, financing, and developing MSMEs. Headquarters: **Lucknow, Uttar Pradesh**.
+  - **Udyam Registration Portal**: Launched 1 July 2020 as a fully digital, zero-paperwork, self-declaration portal linked with CBDT (PAN) and GST networks.
+  - **CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises)**: Joint initiative of the Ministry of MSME and SIDBI providing collateral-free credit guarantees to banks lending to micro and small enterprises.
+  - **TReDS (Trade Receivables Discounting System)**: An institutional electronic factoring platform regulated by the RBI facilitating the financing/discounting of trade receivables of MSMEs from corporate buyers, mitigating the chronic problem of delayed commercial payments.
+
+---
+
+## 7.3 Public Sector Enterprises, Disinvestment & Corporate Autonomy Framework
+- **Central Public Sector Enterprises (CPSEs) Autonomy Framework**:
+  - Administered by the **Department of Public Enterprises (DPE)**, Ministry of Finance, granting graded operational and financial autonomy to commercially competitive state enterprises:
+  - **1. Maharatna Status (Introduced 2010)**:
+    - *Eligibility Criteria*:
+      1. Must already hold **Navratna status**.
+      2. Listed on Indian stock exchange with prescribed public shareholding under SEBI regulations.
+      3. Average annual **net turnover of more than ₹25,000 crore** during the last 3 years.
+      4. Average annual **net worth exceeding ₹15,000 crore** during the last 3 years.
+      5. Average annual **net profit after tax exceeding ₹5,000 crore** during the last 3 years.
+      6. Significant global presence and international operations.
+    - *Financial Powers*: Authorized to make capital expenditure and equity investments up to **₹5,000 crore** (or $15\%$ of their net worth in a single project) without prior Cabinet approval.
+    - *Key Maharatna Enterprises*: ONGC, IOCL, SAIL, NTPC, CIL, BHEL, GAIL, BPCL, HPCL, Power Grid Corporation of India (PGCIL), Power Finance Corporation (PFC), REC Limited, Oil India Limited (OIL).
+  - **2. Navratna Status (Introduced 1997)**:
+    - *Eligibility Criteria*: Miniratna Category-I CPSE with 'Excellent' or 'Very Good' MoU rating in 3 of the last 5 years, scoring $\ge 60$ out of 100 across 6 financial performance indicators (net profit to net worth, manpower cost to total cost, PBDIT to capital employed, etc.).
+    - *Financial Powers*: Can invest up to **₹1,000 crore** (or $15\%$ of net worth on a single project, up to $30\%$ of net worth across all projects in a year) without prior central approval.
+    - *Key Navratna Enterprises*: BEL, HAL, NALCO, NMDC, NBCC, RITES, IRCTC, Mazagon Dock Shipbuilders, Rail Vikas Nigam Limited (RVNL), etc.
+  - **3. Miniratna Status (Introduced 1997)**:
+    - *Category-I*: Continuous profits in the last 3 years, pre-tax profit $\ge ₹30\text{ crore}$ in at least one of the 3 years, and positive net worth (can invest up to ₹500 crore or net worth).
+    - *Category-II*: Continuous profits for the last 3 years and positive net worth (can invest up to ₹300 crore or $50\%$ of net worth).
+- **Disinvestment & Privatization Architecture**:
+  - **Disinvestment**: The dilution or partial sale of the government's minority equity shareholding (below $50\%$) in a public sector enterprise through Offer for Sale (OFS), initial public offerings, or Exchange Traded Funds (CPSE-ETF, Bharat 22 ETF) without transferring day-to-day management control.
+  - **Strategic Disinvestment / Privatization**: Involves the sale of $50\%$ or more of government equity along with the transfer of operational **management control** to a private strategic partner (e.g., privatization of Air India to Tata Sons in 2022; Maruti Udyog; Modern Food Industries; VSNL).
+  - **DIPAM (Department of Investment and Public Asset Management)**: Attached department under the Ministry of Finance functioning as the nodal authority for managing government investments, public asset monetization, and capital restructuring of CPSEs.
+  - **National Investment Fund (NIF)**:
+    - Constituted in **November 2005** to receive capital proceeds realized from the disinvestment of Central Public Sector Enterprises.
+    - Institutional deployment: **75% of annual income** is utilized to finance social sector development schemes (education, health, employment), and **25%** is allocated for the capital infusion and revival of commercially viable CPSEs.
+
+---
+
+## 7.4 Manufacturing Architecture, Industrial Sectors & Indices (IIP & Eight Core Industries)
+- **Index of Industrial Production (IIP)**:
+  - Measures short-term volume growth in physical industrial production over time.
+  - **Crucial Characteristic**: IIP is a **VOLUME INDEX**, not a price index.
+  - Compiled and published monthly by the **National Statistical Office (NSO)**, Ministry of Statistics and Programme Implementation (**MoSPI**).
+  - Current base year: **2011–12 = 100**.
+  - **Sectoral Composition of IIP**:
+    1. **Manufacturing**: Weight = **77.63%** (overwhelmingly dominant component).
+    2. **Mining**: Weight = **14.37%**.
+    3. **Electricity**: Weight = **7.99%**.
+    *(Crucial Exam Trap: Agriculture, construction, transport, and utilities like gas/water supply are NOT part of the IIP)*.
+  - **Use-Based Classification**: Primary Goods ($34.05\%$), Intermediate Goods ($17.22\%$), Consumer Non-Durables ($15.33\%$), Consumer Durables ($12.84\%$), Infrastructure/Construction Goods ($12.34\%$), and Capital Goods ($8.22\%$).
+- **The Eight Core Industries (40.27% of IIP)**:
+  - Foundational infrastructure industries representing **40.27% of the total weight of the IIP**.
+  - Compiled monthly by the Office of the Economic Adviser, DPIIT, Ministry of Commerce and Industry.
+  - **Master Weight Table of Eight Core Industries (Descending Order)**:
+    | Rank | Core Industry | Weight (%) | Conceptual & Industrial Anchor |
+    |---|---|---|---|
+    | **1** | **Refinery Products** | **28.04%** | Highest weight; primary fuel and feedstock for transport, power, and chemicals |
+    | **2** | **Electricity** | **19.85%** | Base energy driving industrial motors, commercial grids, and transport |
+    | **3** | **Steel** | **17.92%** | Foundational structural metal; India is 2nd largest crude steel producer globally |
+    | **4** | **Coal** | **10.33%** | Primary energy source for thermal power plants and steel blast furnaces |
+    | **5** | **Crude Oil** | **8.98%** | Domestic petroleum extraction (ONGC, OIL, offshore Bombay High) |
+    | **6** | **Natural Gas** | **6.88%** | Clean fuel and feedstock for urea fertilizer plants and City Gas Distribution (CGD) |
+    | **7** | **Cement** | **5.37%** | Core civil construction binder; India is 2nd largest cement producer in the world |
+    | **8** | **Fertilizers** | **2.63%** | Lowest weight; agricultural nutrients (Urea, DAP, complex NPK) |
+    *(High-Frequency Exam Trap: Chemicals, textiles, paper, and automobiles are NOT among the Eight Core Industries)*.
+- **Major Manufacturing Sectors of India**:
+  - **Textile & Apparel Sector**:
+    - Oldest organized modern manufacturing industry in India; second-largest employment provider after agriculture ($> 45\text{ million}$ workers).
+    - Modern cotton textile mill industry originated in **1854 at Bombay** when Cowasjee Nanabhoy Davar established the *Bombay Spinning and Weaving Mill* (after an earlier attempt in 1818 at Fort Gloster near Calcutta).
+    - **Sectoral Cloth Production Share**: The decentralized **powerloom sector** produces over **60%** of total fabric, followed by hosiery and handlooms, while organized composite mills account for less than $5\%$ of total cloth output.
+  - **Iron & Steel Industry**:
+    - Landmark integrated public-sector steel plants established during the Second Five-Year Plan under foreign technical collaborations:
+      - **Bhilai Steel Plant (Chhattisgarh)**: Set up with technical collaboration from the **USSR** (1955).
+      - **Rourkela Steel Plant (Odisha)**: Set up with technical collaboration from **West Germany** (Krupp and Demag, 1959).
+      - **Durgapur Steel Plant (West Bengal)**: Set up with technical collaboration from the **United Kingdom** (1959).
+      - **Bokaro Steel Plant (Jharkhand)**: Set up during the Third Five-Year Plan with the **USSR** (1964).
+      - India ranks as the **second-largest crude steel producer in the world** (surpassed only by China).
+  - **Cement Industry**:
+    - First modern cement plant established in **1904 at Madras** (Chennai) by South India Industrials.
+    - India is the **second-largest cement producer in the world** (after China), with production clusters in Rajasthan, Andhra Pradesh, and Madhya Pradesh near limestone deposits.
+  - **Pharmaceutical Industry**:
+    - Known globally as the **"Pharmacy of the World"**; ranks **3rd globally by production volume** and 14th by value.
+    - World's largest provider of generic medicines (supplying $> 20\%$ of global generic volume and $> 60\%$ of global vaccines).
+
+---
+
+## 7.5 Flagship Industrial & Entrepreneurship Missions
+- **Make in India**:
+  - Launched on **25 September 2014** by Prime Minister Narendra Modi.
+  - **Core Objective**: Transform India into a premier global manufacturing and design hub, attract foreign capital, foster innovation, enhance skill development, and build best-in-class manufacturing infrastructure.
+  - **Iconic Symbol**: A **lion made of mechanical cogs and industrial gears**, symbolizing strength, national pride, and manufacturing prowess.
+  - Covers 27 economic sectors across manufacturing and service domains.
+- **Startup India Initiative**:
+  - Launched on **16 January 2016** under DPIIT (Ministry of Commerce and Industry).
+  - Core Pillars: Simplification and handholding (self-certification compliance), funding support via the **Fund of Funds for Startups (FFS)** managed by SIDBI (₹10,000 crore corpus), and tax exemptions under Section 80-IAC of the Income Tax Act for 3 consecutive years.
+- **Stand-Up India Scheme**:
+  - Launched on **5 April 2016** (extended through 2025).
+  - **Statutory Mandate**: Facilitates bank composite loans between **₹10 lakh and ₹1 crore** to at least **one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower** AND at least **one woman borrower per bank branch** across all Scheduled Commercial Banks.
+  - Exclusively for setting up **greenfield (first-time) enterprises** in manufacturing, services, agri-allied activities, or non-farm trading.
+- **Pradhan Mantri MUDRA Yojana (PMMY)**:
+  - Launched on **8 April 2015** to provide collateral-free institutional credit to non-corporate, non-farm small and micro-enterprises through banks, NBFCs, and MFIs:
+    1. **Shishu**: Loans up to **₹50,000** (for early-stage micro entrepreneurs).
+    2. **Kishore**: Loans from **₹50,001 to ₹5 lakh**.
+    3. **Tarun**: Loans from **₹5 lakh to ₹10 lakh**.
+    4. **Tarun Plus (Introduced 2024)**: Enhanced credit limit up to **₹20 lakh** for entrepreneurs who successfully repaid prior loans under the Tarun tier.
+- **Production Linked Incentive (PLI) Schemes**:
+  - Introduced in March 2020 and scaled up across **14 strategic manufacturing sectors** (mobile phone manufacturing, active pharmaceutical ingredients - APIs, medical devices, automobiles, specialty steel, telecom, solar PV modules, and advanced chemistry cell batteries).
+  - **Operating Mechanism**: Provides direct financial incentives of $4\%$ to $6\%$ on **incremental domestic sales** over a base year to eligible domestic and international companies to boost domestic value addition and create global supply chain champions.
+
+---
+
+## 7.6 National Economic Infrastructure: Corridors, Pipelines & Logistics
+- **PM Gati Shakti — National Master Plan for Multi-Modal Connectivity**:
+  - Launched on **13 October 2021** (Crucial exam trap: *Launched in 2021, NOT 2022*).
+  - A GIS-enabled digital platform developed by BISAG-N (Bhaskaracharya National Institute for Space Applications and Geo-informatics) that brings together **16 Central Infrastructure Ministries** onto a unified digital planning map.
+  - **Driven by Seven Strategic Engines of Economic Growth**:
+    1. **Roads**, 2. **Railways**, 3. **Airports**, 4. **Ports**, 5. **Mass Transport**, 6. **Waterways**, and 7. **Logistics Infrastructure**.
+  - **Core Objectives**: Eliminate inter-ministerial silos, synchronize project execution (preventing road digging after laying pipelines), lower national logistics costs from $\sim 14\%$ of GDP to global benchmarks ($\sim 8-9\%$), and accelerate industrial connectivity.
+- **National Infrastructure Pipeline (NIP)**:
+  - Formulated on the recommendations of the **Atanu Chakraborty Task Force (2019)** covering planned capital investments of over **₹111 lakh crore** across **FY 2020–2025**.
+  - **Funding Architecture**:
+    - **Central Government**: **39%**
+    - **State Governments**: **39%**
+    - **Private Sector**: **22%**
+  - Major Sectoral Outlays: Energy ($24\%$), Roads ($18\%$), Urban Infrastructure ($17\%$), and Railways ($12\%$).
+- **National Monetisation Pipeline (NMP)**:
+  - Launched in August 2021 by NITI Aayog to monetize brownfield core infrastructure assets (roads, railways, power transmission, gas pipelines, telecom towers) with an aggregate target of **₹6 lakh crore over 4 years (FY 2022–2025)** without transferring sovereign ownership rights.
+- **Bharatmala Pariyojana & Sagarmala Programme**:
+  - **Bharatmala Pariyojana (MoRTH)**: Umbrella highway development program optimizing the efficiency of national freight routes through Economic Corridors, Inter-corridors, Feeder routes, Coastal/port roads, Border roads, and Multi-Modal Logistics Parks (MMLPs).
+  - **Sagarmala Programme (Ministry of Ports, Shipping and Waterways)**: Flagship initiative aimed at port-led industrialization, coastal community development, port modernization, and multi-modal coastal shipping.
+- **Dedicated Freight Corridors (DFCs)**:
+  - Specialized railway tracks engineered exclusively for high-speed, heavy-haul freight transit by DFCCIL:
+    1. **Western DFC ($1506\text{ km}$)**: Connects **Dadri (Uttar Pradesh)** to **Jawaharlal Nehru Port Trust (JNPT, Navi Mumbai)**; funded in partnership with JICA (Japan).
+    2. **Eastern DFC ($1337\text{ km}$)**: Connects **Sahnewal / Ludhiana (Punjab)** to **Dankuni (West Bengal)**; traverses Uttar Pradesh via Khurja, Kanpur, Prayagraj, and Mughalsarai.
+- **Industrial Corridors & Global Partnerships**:
+  - **Delhi–Mumbai Industrial Corridor (DMIC)**: India's premier greenfield smart industrial corridor developing smart industrial cities (e.g., Dholera, Shendra-Bidkin, Greater Noida) along the Western DFC in financial and technical partnership with **Japan**.
+- **National Investment and Infrastructure Fund (NIIF)**:
+  - Established in **2015** under the Department of Economic Affairs, Ministry of Finance, as India's quasi-sovereign wealth platform with an initial targeted corpus of **₹40,000 crore** (Government holds $49\%$, with $51\%$ held by domestic and international institutional investors).
+
+---
+
+## Bilingual Terminology -- Industry, MSME & Infrastructure
+
+| English Term | Hindi Term | Key Conceptual Anchor |
+|---|---|---|
+| **Industrialisation** | औद्योगिकीकरण | Structural shift characterized by an expanding share of manufacturing in GVA and employment |
+| **Industrial Policy Resolution** | औद्योगिक नीति संकल्प | Foundational government policy declaration governing industrial regulation (1948, 1956, 1991) |
+| **Commanding Heights** | अर्थव्यवस्था के प्रमुख क्षेत्र | Core heavy industries (Schedule A of IPR 1956) reserved exclusively for State development |
+| **Delicensing** | लाइसेंस मुक्ति | Abolition of industrial licensing under New Industrial Policy 1991 (only 4 industries retained) |
+| **Cottage Industry** | कुटीर उद्योग | Household-based, artisan-run production using traditional manual tools |
+| **Micro Enterprise** | सूक्ष्म उद्यम | 2020: Investment $\le ₹1\text{ cr}$ & Turnover $\le ₹5\text{ cr}$; 2025: Investment $\le ₹2.5\text{ cr}$ & Turnover $\le ₹10\text{ cr}$ |
+| **Small Enterprise** | लघु उद्यम | 2020: Investment $\le ₹10\text{ cr}$ & Turnover $\le ₹50\text{ cr}$; 2025: Investment $\le ₹25\text{ cr}$ & Turnover $\le ₹100\text{ cr}$ |
+| **Medium Enterprise** | मध्यम उद्यम | 2020: Investment $\le ₹50\text{ cr}$ & Turnover $\le ₹250\text{ cr}$; 2025: Investment $\le ₹125\text{ cr}$ & Turnover $\le ₹500\text{ cr}$ |
+| **Priority Sector Lending** | प्राथमिकता प्राप्त क्षेत्र ऋण | Mandatory lending quota ($40\%$ for domestic SCBs) for MSMEs, agriculture, and export credit |
+| **Maharatna Status** | महारत्न दर्जा | Highest CPSE autonomy tier; net profit $> ₹5,000\text{ cr}$; can invest up to ₹5,000 crore without approval |
+| **Disinvestment** | विनिवेश | Partial sale of government equity holdings in CPSEs without relinquishing management control |
+| **Strategic Disinvestment** | रणनीतिक विनिवेश | Sale of majority equity ($\ge 50\%$) along with transfer of management control to a private buyer |
+| **Index of Industrial Production**| औद्योगिक उत्पादन सूचकांक | Monthly physical volume index covering Manufacturing ($77.63\%$), Mining, and Electricity; NSO |
+| **Eight Core Industries** | आठ प्रमुख उद्योग | Foundational infrastructure industries representing **40.27% of IIP**; Refinery Products is heaviest |
+| **Multi-Modal Connectivity** | बहु-मॉडल कनेक्टिविटी | Integration of roads, rail, ports, and air into a seamless digital logistics network (PM Gati Shakti) |
+| **Greenfield Enterprise** | ग्रीनफील्ड उद्यम | First-time commercial venture or new production facility (mandated under Stand-Up India) |
+| **Brownfield Asset** | ब्राउनफील्ड परिसंपत्ति | Pre-existing operational infrastructure asset targeted for monetization (National Monetisation Pipeline) |
+
+---
+
 ## Complete PYQ Bank (UPPCS)
 
 **Q1. UPPCS (Pre) 2022**
