@@ -21,9 +21,12 @@ Bretton Woods Institutions (IMF & World Bank Group: IBRD, IDA, IFC, MIGA, ICSID)
 | **BIMSTEC Membership** | Comprises seven littoral Bay of Bengal nations: Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, and Thailand. | **Indonesia is not a member** of BIMSTEC (it is an ASEAN member). Permanent Secretariat is located in **Dhaka, Bangladesh**. |
 | **India's G20 Presidency (2023)** | Official logo featured a sacred lotus with **seven petals**, symbolizing the **seven continents** and universal harmony. | Adopted the civilizational theme *Vasudhaiva Kutumbakam* ("One Earth, One Family, One Future"). The African Union was inducted as a permanent member. |
 | **G20 Host Cities in Uttar Pradesh** | Official G20 working group and ministerial meetings in UP were hosted across **Varanasi, Agra, Lucknow, and Greater Noida**. | **Kanpur** was not among the designated venue cities during India's G20 Presidency. |
-| **5th BIMSTEC Summit (2022)** | Hosted virtually on 30 March 2022 under the chairmanship of **Sri Lanka** (Colombo). | Addressed by Prime Minister Narendra Modi; Sri Lanka served as the official chair, not India. |
-| **BRICS Historic Expansion** | Welcomed Egypt, Ethiopia, Iran, and the United Arab Emirates as full members in 2024, followed by Indonesia in 2025. | The acronym was originally coined as "BRIC" by Goldman Sachs economist Jim O'Neill in 2001; South Africa joined in 2010. |
-| **Institutional Secretariats** | ASEAN Secretariat is in **Jakarta**; SAARC Secretariat is in **Kathmandu**; BIMSTEC Secretariat is in **Dhaka**; OECD is in **Paris**. | Critical match-list parameters frequently tested in State PSC Prelims examinations. |
+| **G20 Summit Chronology (2023–2026)** | 18th in **New Delhi (India, 2023)** → 19th in **Rio de Janeiro (Brazil, Nov 2024)** → 20th in **South Africa (2025)** → 21st in **United States (2026)**. | Demonstrates the historic Global South Troika (Indonesia → India → Brazil → South Africa). |
+| **BRICS Kazan Summit & Expansion** | 16th Summit held in **Kazan, Russia (October 2024)** under theme *"Strengthening Multilateralism for Just Global Development and Security"*; integrated Egypt, Ethiopia, Iran, UAE, and introduced **13 Partner Countries**. | 17th BRICS Summit hosted by **Brazil in 2025**. |
+| **SCO 10th Member & Astana Summit** | **Belarus** officially inducted as the **10th member state** at the Astana Summit (Kazakhstan, July 2024). | Follows Iran's admission as the 9th member in 2023 under India's virtual chairmanship. 25th Summit in China (2025). |
+| **WTO Ministerial Conferences (MC-13 & MC-14)** | MC-13 convened in **Abu Dhabi (UAE)** in Feb–Mar 2024; MC-14 officially scheduled for **Yaoundé, Cameroon in 2026**. | Cameroon is only the **second African nation** in WTO history to host a Ministerial Conference (following Kenya in 2015). Permanent HQ remains in Geneva. |
+| **5th & 6th BIMSTEC Summits** | 5th Summit hosted virtually by **Sri Lanka** (2022); 6th Summit convened in **Bangkok, Thailand (2024)**. | Addressed by Prime Minister Narendra Modi; Secretariat located in **Dhaka, Bangladesh**. |
+| **Institutional Secretariats** | ASEAN Secretariat in **Jakarta**; SAARC Secretariat in **Kathmandu**; BIMSTEC Secretariat in **Dhaka**; OECD in **Paris**. | Critical match-list parameters frequently tested in State PSC Prelims examinations. |
 
 ---
 
@@ -51,18 +54,18 @@ Bretton Woods Institutions (IMF & World Bank Group: IBRD, IDA, IFC, MIGA, ICSID)
 19. Unlike the quota-based voting of the IMF, the founding BRICS members originally held equal voting shares (20% each) in the New Development Bank.
 20. The **Group of Twenty (G20)** was founded in **1999** following the Asian financial crisis as a forum for finance ministers and central bank governors, and upgraded to a heads-of-state leaders' summit in **2008**.
 21. The G20 represents approximately 85% of global GDP, 75% of international trade, and two-thirds of the world's population.
-22. Under **India's G20 Presidency in 2023**, the **African Union (AU)** was formally inducted as a permanent member, expanding the forum's institutional voice.
+22. Under **India's G20 Presidency in 2023**, the **African Union (AU)** was formally inducted as a permanent member; subsequent summits follow a historic Global South Troika: **19th in Rio de Janeiro, Brazil (Nov 2024)**, **20th in South Africa (2025)**, followed by the **21st in the United States (2026)**.
 23. The official theme of India's 2023 G20 Presidency was drawn from the Maha Upanishad: ***Vasudhaiva Kutumbakam* — "One Earth, One Family, One Future"**.
 24. India's official G20 logo juxtaposed planet Earth with the national flower, the **lotus, bearing seven petals** that signify the **seven continents** and universal harmony.
 25. In Uttar Pradesh, official G20 meetings during India's Presidency were organized across four historic hubs: **Varanasi, Agra, Lucknow, and Greater Noida** (excluding Kanpur).
-26. The **Group of Seven (G7)** consists of advanced industrialized liberal democracies: **Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States**, alongside the European Union.
+26. The **Group of Seven (G7)** consists of advanced industrialized liberal democracies: **Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States**, alongside the European Union; recent summits include the 49th in Hiroshima, Japan (2023), 50th in Apulia, Italy (2024), and 51st in Kananaskis, Canada (2025).
 27. Russia was admitted to form the G8 in 1997, but its membership was suspended indefinitely in **2014** following the annexation of Crimea, reverting the grouping to the G7.
 28. The acronym **"BRIC"** was originally formulated by British economist **Jim O'Neill** in a Goldman Sachs global economics paper published in **2001**.
 29. The inaugural formal BRIC Leaders' Summit took place on **16 June 2009** at **Yekaterinburg, Russia**.
 30. **South Africa** was officially inducted into the grouping in **December 2010**, transforming the acronym into **BRICS** and attending its first summit at Sanya, China in 2011.
 31. The landmark **10th BRICS Summit** was hosted in **Johannesburg, South Africa** in **July 2018**.
 32. The BRICS institutional architecture is underpinned by two financial pillars: the **New Development Bank (NDB)** for infrastructure finance and the **Contingent Reserve Arrangement (CRA)** for short-term liquidity defense.
-33. BRICS underwent historic membership expansion, admitting **Egypt, Ethiopia, Iran, and the United Arab Emirates** on 1 January 2024, followed by **Indonesia** in 2025.
+33. BRICS underwent historic membership expansion, formally admitting **Egypt, Ethiopia, Iran, and the United Arab Emirates** on 1 January 2024; the landmark **16th BRICS Summit** was convened in **Kazan, Russia (October 2024)** introducing a new "Partner Country" category (13 partner nations), with the 17th Summit hosted by **Brazil in 2025**.
 34. The **Association of Southeast Asian Nations (ASEAN)** was established on **8 August 1967** via the Bangkok Declaration by Indonesia, Malaysia, the Philippines, Singapore, and Thailand; its Central Secretariat is located in **Jakarta, Indonesia**.
 35. ASEAN currently comprises **ten member nations**: Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam (with Timor-Leste admitted in principle).
 36. India became a Sectoral Dialogue Partner of ASEAN in 1992, a Full Dialogue Partner in 1995, and formalized the **ASEAN–India Strategic Partnership** with annual bilateral summits.
@@ -73,11 +76,11 @@ Bretton Woods Institutions (IMF & World Bank Group: IBRD, IDA, IFC, MIGA, ICSID)
 41. BIMSTEC unites seven littoral and adjacent countries of the Bay of Bengal: **five from South Asia (Bangladesh, Bhutan, India, Nepal, Sri Lanka)** and **two from Southeast Asia (Myanmar, Thailand)**.
 42. **Indonesia is not a member of BIMSTEC**; it belongs to ASEAN.
 43. The Permanent Secretariat of BIMSTEC was inaugurated in **Dhaka, Bangladesh** in **2014**.
-44. The **5th BIMSTEC Summit**, held virtually on **30 March 2022**, was hosted and chaired by **Sri Lanka** (Colombo), wherein leaders adopted the BIMSTEC Charter; Prime Minister Narendra Modi addressed the summit on behalf of India.
+44. The **5th BIMSTEC Summit**, held virtually on **30 March 2022**, was hosted and chaired by **Sri Lanka** (Colombo); the 6th Summit was convened in **Bangkok, Thailand (2024)**.
 45. The **Shanghai Cooperation Organisation (SCO)** is a Eurasian political, economic, and security alliance founded in **2001** in Shanghai; its Secretariat is located in **Beijing, China**, and its Regional Anti-Terrorist Structure (RATS) is based in **Tashkent, Uzbekistan**.
-46. India and Pakistan became full member states of the Shanghai Cooperation Organisation at the **Astana Summit in Kazakhstan in June 2017**.
+46. India and Pakistan became full members of the SCO at the **Astana Summit (2017)**; **Iran** joined as the 9th member in **2023** (under India's chairmanship), and **Belarus** was admitted as the **10th member** at the **Astana Summit in Kazakhstan (July 2024)**, with the 25th Summit scheduled for **China in 2025**.
 47. The **Organisation for Economic Co-operation and Development (OECD)** is an intergovernmental economic organization of 38 market-oriented democracies headquartered at the Château de la Muette in **Paris, France**.
-48. The **World Trade Organization (WTO)**, established in 1995 as the successor to GATT, has its permanent headquarters in **Geneva, Switzerland**; its Ministerial Conferences rotate globally (e.g., MC-13 in Abu Dhabi, 2024).
+48. The **World Trade Organization (WTO)**, established on 1 January 1995 (Marrakesh Agreement) with 166 members, has its permanent headquarters in **Geneva, Switzerland**; its supreme governing body, the Ministerial Conference, rotates globally (e.g., MC-12 Geneva 2022, **MC-13 Abu Dhabi 2024**, and **MC-14 Yaoundé, Cameroon 2026** — the 2nd MC hosted on African soil after Nairobi 2015).
 49. The **World Economic Forum (WEF)** is an independent international non-governmental organization based in **Cologny (Geneva), Switzerland**, renowned for convening the annual global business and political summit at **Davos**.
 50. Major international flagship reports and their publishing bodies include:
 
@@ -106,6 +109,8 @@ Bretton Woods Institutions (IMF & World Bank Group: IBRD, IDA, IFC, MIGA, ICSID)
 | **Indonesia** | **Thailand** | Thailand is a member of both ASEAN and BIMSTEC; Indonesia is a member of ASEAN but not a member of BIMSTEC. |
 | **G20 Summitry** | **G7 Summitry** | G20 represents 19 major advanced and emerging market economies, the European Union, and the African Union; G7 comprises seven advanced Western industrial economies. |
 | **G20 Lotus Motif (Seven Petals)** | **G20 Member Count** | The seven petals on the G20 logo symbolize the seven continents of the earth, not the number of member states in the forum. |
+| **WTO MC-13 (Abu Dhabi 2024)** | **WTO MC-14 (Yaoundé, Cameroon 2026)** | MC-13 was hosted in Abu Dhabi (UAE); MC-14 will be hosted in Cameroon in 2026 (2nd African host in WTO history after Kenya 2015). |
+| **SCO 9th Member (Iran 2023)** | **SCO 10th Member (Belarus 2024)** | Iran was admitted in 2023 under India's virtual chairmanship; Belarus was admitted in July 2024 at the Astana Summit in Kazakhstan. |
 
 </details>
 
@@ -128,17 +133,21 @@ Bretton Woods Institutions (IMF & World Bank Group: IBRD, IDA, IFC, MIGA, ICSID)
 | **First BRIC Leaders' Summit** | Convened in **2009** at **Yekaterinburg, Russia**. |
 | **BRICS Inclusion Year for South Africa** | **2010** (attended its first summit at Sanya in 2011). |
 | **10th BRICS Summit Venue** | Hosted in **Johannesburg, South Africa (2018)**. |
+| **16th BRICS Summit Venue (2024)** | Hosted in **Kazan, Russia** (integrated 4 new members; introduced 13 partner countries); 2025 host is **Brazil**. |
 | **G20 Iconography (India 2023)** | Sacred lotus featuring **seven petals** representing the **seven continents**. |
 | **UP G20 Host Hubs** | **Varanasi, Agra, Lucknow, Greater Noida** (Kanpur was excluded). |
 | **Permanent Member Added to G20 (2023)** | **African Union (AU)** admitted under India's Presidency. |
+| **G20 Summit Progression (2023–26)** | **New Delhi (2023)** → **Rio de Janeiro, Brazil (2024)** → **South Africa (2025)** → **United States (2026)**. |
+| **G7 Summit Progression (2023–25)** | **Hiroshima, Japan (2023)** → **Apulia, Italy (2024)** → **Kananaskis, Canada (2025)**. |
 | **ASEAN Central Secretariat** | Located in **Jakarta, Indonesia**. |
 | **SAARC Permanent Secretariat** | Located in **Kathmandu, Nepal** (established 1987). |
 | **First SAARC Summit in India** | Hosted in **Bangalore (1986)** (the second SAARC summit historically). |
 | **BIMSTEC Non-Member Distinction** | **Indonesia** is not a member; seven members are Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand. |
 | **BIMSTEC Permanent Secretariat** | Located in **Dhaka, Bangladesh** (inaugurated 2014). |
-| **5th BIMSTEC Summit Host (2022)** | Chaired and hosted virtually by **Sri Lanka** (Colombo). |
-| **Shanghai Cooperation Organisation (SCO)** | Secretariat in **Beijing, China**; India & Pakistan joined as full members in **2017**. |
+| **5th & 6th BIMSTEC Summits** | 5th Summit chaired by **Sri Lanka** (2022); 6th Summit in **Bangkok, Thailand (2024)**. |
+| **Shanghai Cooperation Organisation (SCO)** | Secretariat in **Beijing, China**; 10 members: founding 6 + India & Pakistan (2017) + **Iran (2023)** + **Belarus (2024)**. |
 | **Organisation for Economic Co-operation & Development** | Headquartered in **Paris, France**. |
+| **WTO 13th & 14th Ministerial Conferences** | MC-13 in **Abu Dhabi, UAE (2024)**; MC-14 in **Yaoundé, Cameroon (2026)** (2nd African host after Nairobi 2015). |
 | **World Economic Forum (WEF)** | Headquartered in **Cologny (Geneva), Switzerland**; hosts annual meeting at Davos. |
 | **Publisher of Global Competitiveness Report** | **World Economic Forum (WEF)**. |
 | **Publisher of World Economic Outlook** | **International Monetary Fund (IMF)**. |
@@ -240,6 +249,8 @@ D. It grants loan to the Central Bank of a country.
   1. **New Development Bank (NDB):** Multilateral lending bank with an initial authorized capital of USD 100 billion, headquartered in Shanghai.
   2. **Contingent Reserve Arrangement (CRA):** A USD 100 billion framework providing mutual short-term foreign exchange liquidity to members facing global financial shocks.
 * **Expansion Waves:** At the 15th Summit in Johannesburg (2023), BRICS approved membership invitations, formally admitting **Egypt, Ethiopia, Iran, and the United Arab Emirates** on 1 January 2024, followed by **Indonesia** in 2025.
+* **16th BRICS Summit (Kazan, Russia — 22–24 October 2024):** Held under the presidency of Russia with the theme *"Strengthening Multilateralism for Just Global Development and Security"*. Adopted the **Kazan Declaration**, welcomed the newly expanded members, and officially endorsed the creation of a **"Partner Country"** category with 13 partner nations (including Algeria, Belarus, Bolivia, Cuba, Indonesia, Kazakhstan, Malaysia, Nigeria, Thailand, Turkey, Uganda, Uzbekistan, and Vietnam).
+* **17th BRICS Summit:** Scheduled to be hosted under the rotating presidency of **Brazil in 2025**.
 
 ---
 
@@ -333,6 +344,16 @@ D. The first BRICS Summit was held in 2009 in Russia.
 
 * An informal bloc of advanced industrialized liberal democracies established in 1975: **Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States**.
 * Russia was admitted in 1997 forming the G8, but was suspended in 2014 following the annexation of Crimea.
+* **Recent & Upcoming G20 Leaders' Summits:**
+  * **18th Summit (2023):** New Delhi, India (Bharat Mandapam) — inducted the African Union.
+  * **19th Summit (18–19 November 2024):** **Rio de Janeiro, Brazil** (Presidency of President Lula da Silva; theme *"Building a Just World and a Sustainable Planet"*).
+  * **20th Summit (2025):** **South Africa** (first time hosted on the African continent).
+  * **21st Summit (2026):** **United States**.
+* **Recent & Upcoming G7 Summits:**
+  * **49th G7 Summit (May 2023):** Hiroshima, Japan.
+  * **50th G7 Summit (13–15 June 2024):** **Borgo Egnazia (Apulia), Italy** under Prime Minister Giorgia Meloni; addressed by PM Narendra Modi as an outreach guest.
+  * **51st G7 Summit (2025):** **Kananaskis, Alberta, Canada**.
+  * **52nd G7 Summit (2026):** **France**.
 
 ---
 
@@ -398,11 +419,17 @@ D. Greater Noida
 * Connects South Asia with Southeast Asia; **Indonesia is not a member**.
 * Permanent Secretariat was established in **Dhaka, Bangladesh** in **2014**.
 * The **5th BIMSTEC Summit (30 March 2022)** was hosted and chaired virtually by **Sri Lanka** (Colombo); Prime Minister Narendra Modi addressed the session.
+* The **6th BIMSTEC Summit (2024)** was held in **Bangkok, Thailand**.
 
 ### Shanghai Cooperation Organisation (SCO)
 
 * Established in **2001** in Shanghai; permanent Secretariat located in **Beijing, China**; Executive Committee of the Regional Anti-Terrorist Structure (RATS) located in **Tashkent, Uzbekistan**.
-* **India and Pakistan** joined as full members simultaneously at the **Astana Summit in Kazakhstan in June 2017**.
+* **Founding Members (Shanghai Five + Uzbekistan):** China, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, and Uzbekistan.
+* **Expansion Chronology:**
+  * **India and Pakistan** joined as full members simultaneously at the **Astana Summit in Kazakhstan in June 2017**.
+  * **Iran** was officially admitted as the **9th full member state** at the 23rd SCO Summit hosted virtually by India in **July 2023**.
+  * **Belarus** was officially admitted as the **10th full member state** at the 24th SCO Summit in **Astana, Kazakhstan in July 2024**.
+  * The **25th SCO Summit (2025)** is scheduled to be hosted under the rotating presidency of **China**.
 
 ---
 
@@ -492,8 +519,17 @@ D. Kathmandu
 
 ## 10.6 OECD, WTO Institutional Desk, and World Economic Forum
 
-* **Organisation for Economic Co-operation and Development (OECD):** Intergovernmental economic organization of 38 developed economies, headquartered in **Paris, France**. Sets international standards on corporate governance, anti-corruption, and Base Erosion and Profit Shifting (BEPS). India participates as a key partner nation.
-* **World Trade Organization (WTO):** Established on 1 January 1995; permanent headquarters located in **Geneva, Switzerland**. Decision-making is consensus-based through the General Council and biennial Ministerial Conferences.
+* **Organisation for Economic Co-operation and Development (OECD):** Intergovernmental economic organization of 38 developed economies, headquartered in **Paris, France** (Château de la Muette). Sets international standards on corporate governance, anti-corruption, and Base Erosion and Profit Shifting (BEPS). India participates as a key partner nation.
+* **World Trade Organization (WTO):**
+  * Established on **1 January 1995** under the Marrakesh Agreement, replacing GATT 1947; permanent headquarters located in **Geneva, Switzerland** (Centre William Rappard).
+  * Director-General: **Dr. Ngozi Okonjo-Iweala** (Nigeria; first woman and first African Director-General).
+  * Total Membership: **166 nations** (with **Comoros as 165th** and **Timor-Leste as 166th** formally admitted at MC-13 in 2024).
+  * Decision-making is consensus-based through the General Council and biennial Ministerial Conferences.
+  * **Ministerial Conferences Host Milestones:**
+    * MC-1 (1996): Singapore | MC-4 (2001): Doha, Qatar | MC-9 (2013): Bali, Indonesia (TFA & Peace Clause)
+    * MC-10 (2015): Nairobi, Kenya (first MC hosted on African soil) | MC-12 (2022): Geneva, Switzerland
+    * **MC-13 (Feb–Mar 2024):** **Abu Dhabi, UAE** (extended e-commerce customs moratorium; inducted Comoros & Timor-Leste).
+    * **MC-14 (2026):** **Yaoundé, Cameroon** (officially selected as the host; only the **second African nation** to host a WTO Ministerial in history).
 * **World Economic Forum (WEF):** Independent non-profit foundation based in **Cologny (Geneva), Switzerland**, best known for its annual meeting at the Alpine resort of **Davos**. Publishes the **Global Competitiveness Report (GCR)** and the **Global Risks Report**.
 
 ---

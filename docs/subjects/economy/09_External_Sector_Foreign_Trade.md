@@ -23,7 +23,8 @@ Foreign trade structure & Balance of Trade (BoT) | Balance of Payments (BoP) acc
 | **Foreign Direct Investment Inflows** | **Singapore** and the **United States** consistently rank among the top sources of FDI equity inflows into India. | Shifted away from legacy tax-haven routing (Mauritius) following the introduction of GAAR and Double Taxation Avoidance Agreement (DTAA) amendments. |
 | **FEMA Legislative Milestones** | The Foreign Exchange Management Act (FEMA) was enacted in **1999** and came into legal force on **1 June 2000**. | Replaced the penal, control-oriented Foreign Exchange Regulation Act (FERA, 1973) with a civil, trade-facilitation framework. |
 | **Regulatory Architecture of FERA** | FERA (1973) was formulated to conserve scarce foreign exchange reserves during balance of payments crises. | It was not an external-debt liability statute; contraventions under FERA were criminalized, whereas FEMA treats violations as civil offenses. |
-| **WTO 13th Ministerial Conference (MC-13)** | Convened in **Abu Dhabi (United Arab Emirates)** in February 2024. | While WTO headquarters is situated permanently in Geneva (Switzerland), Ministerial Conferences are hosted in rotating member nations. |
+| **WTO 13th Ministerial Conference (MC-13)** | Convened in **Abu Dhabi (United Arab Emirates)** from 26 February to 1 March 2024. | Extended the electronic transmission customs duty moratorium; formally admitted **Comoros (165th)** and **Timor-Leste (166th)** as new member states. |
+| **WTO 14th Ministerial Conference (MC-14)** | Formally decided to be hosted in **Yaoundé, Cameroon in 2026**. | **Second WTO Ministerial Conference in history to be hosted on African soil** (following MC-10 Nairobi in 2015). Permanent WTO HQ remains in Geneva (Switzerland). |
 
 ---
 
@@ -75,8 +76,8 @@ Foreign trade structure & Balance of Trade (BoT) | Balance of Payments (BoP) acc
 43. **Tariffs** are customs duties or taxes levied on physical goods when they cross international national frontiers, increasing the domestic price of imported products.
 44. **Non-Tariff Barriers (NTBs)** include regulatory trade restrictions such as import quotas, voluntary export restraints, licensing requirements, rules of origin, and stringent Sanitary and Phytosanitary (SPS) measures.
 45. The **World Trade Organization (WTO)** was established on **1 January 1995** under the Marrakesh Agreement, superseding the General Agreement on Tariffs and Trade (GATT, 1947).
-46. The WTO is headquartered in **Geneva, Switzerland**, and operates a legally binding **Dispute Settlement Body (DSB)** with panel and appellate review mechanisms.
-47. The WTO's supreme decision-making body is the **Ministerial Conference**, which convenes at least once every two years; recent conferences include MC-12 in Geneva (2022) and **MC-13 in Abu Dhabi (2024)**.
+46. The WTO is headquartered in **Geneva, Switzerland**; its current membership stands at **166 nations** (with Comoros and Timor-Leste joining in 2024), led by Director-General **Dr. Ngozi Okonjo-Iweala**; it operates a legally binding **Dispute Settlement Body (DSB)**.
+47. The WTO's supreme decision-making body is the **Ministerial Conference**, convening at least once every two years: landmark recent conferences include MC-12 in Geneva (2022), **MC-13 in Abu Dhabi, UAE (February 2024)**, and the upcoming **MC-14 in Yaoundé, Cameroon (2026)** — only the second WTO Ministerial Conference in history to be held on African soil (following Nairobi in 2015).
 48. India's **Foreign Trade Policy (FTP 2023)** replaced traditional incentive-driven export subsidy programs with remission-based frameworks (e.g., RoDTEP and RoSCTL), targeting **USD 2 trillion in total exports by 2030** (USD 1 trillion in merchandise and USD 1 trillion in services).
 49. The **Directorate General of Foreign Trade (DGFT)** under the Ministry of Commerce and Industry serves as the nodal statutory body responsible for formulating and administering India's Foreign Trade Policy.
 50. **Special Economic Zones (SEZs)**, institutionalized under the SEZ Act of 2005, operate as duty-free enclaves treated as foreign territory for trade operations, duties, and tariffs to promote export-led manufacturing and services.
@@ -97,7 +98,9 @@ Foreign trade structure & Balance of Trade (BoT) | Balance of Payments (BoP) acc
 | **FERA (1973)** | **FEMA (1999)** | FERA was a restrictive, criminal statute focused on conserving scarce foreign exchange; FEMA is a trade-facilitating civil statute governing orderly foreign exchange management. |
 | **FEMA Enactment Date (1999)** | **FEMA Enforcement Date (1 June 2000)** | FEMA received Presidential assent as Act 42 of 1999; the statute officially took legal effect and was operationalized on 1 June 2000. |
 | **Tariff Barriers** | **Non-Tariff Barriers (NTBs)** | Tariffs are direct ad-valorem or specific border customs duties; NTBs are non-tax regulatory hurdles including import quotas, import licenses, and technical standards. |
-| **WTO Permanent Headquarters (Geneva)** | **Ministerial Conference Venues (Rotating)** | The WTO Secretariat is permanently stationed in Geneva, Switzerland; Ministerial Conferences are hosted in rotating member states (e.g., MC-13 in Abu Dhabi, 2024). |
+| **WTO Permanent Headquarters (Geneva)** | **Ministerial Conference Venues (Rotating)** | The WTO Secretariat is permanently stationed in Geneva, Switzerland; Ministerial Conferences are hosted in rotating member states (e.g., MC-13 in Abu Dhabi 2024; MC-14 in Cameroon 2026). |
+| **WTO MC-13 (Abu Dhabi, UAE, 2024)** | **WTO MC-14 (Yaoundé, Cameroon, 2026)** | MC-13 was hosted in Abu Dhabi (Feb–Mar 2024); MC-14 was officially awarded to Cameroon to be hosted in 2026 as the 2nd African host nation after Kenya (2015). |
+| **First African WTO Ministerial (MC-10, 2015)** | **Second African WTO Ministerial (MC-14, 2026)** | MC-10 was hosted in Nairobi, Kenya (2015); MC-14 was designated for Yaoundé, Cameroon (2026) at the Abu Dhabi summit. |
 | **Private Inward Remittances** | **Foreign Direct Investment (FDI)** | Remittances are unrequited secondary income transfers on the Current Account; FDI represents foreign capital equity investments recorded on the Capital Account. |
 | **Nominal Effective Exchange Rate (NEER)** | **Real Effective Exchange Rate (REER)** | NEER measures the trade-weighted nominal value against partner currencies; REER adjusts NEER for inflation rate differentials, serving as the true measure of external competitiveness. |
 
@@ -117,8 +120,9 @@ Foreign trade structure & Balance of Trade (BoT) | Balance of Payments (BoP) acc
 | **FEMA Enactment Year** | **1999** (enacted by Parliament as Act 42 of 1999). |
 | **FEMA Date of Enforcement** | **1 June 2000** (officially replaced FERA 1973). |
 | **FERA Characterization Fallacy** | The assertion that FERA was primarily an external-debt liability law is false; it was a foreign exchange control statute. |
-| **WTO 13th Ministerial Conference (MC-13)** | Held in **Abu Dhabi, United Arab Emirates (UAE)** in February 2024. |
-| **WTO Permanent Seat** | Headquartered in **Geneva, Switzerland**. |
+| **WTO 13th Ministerial Conference (MC-13)** | Held in **Abu Dhabi, United Arab Emirates (UAE)** in February–March 2024; admitted Comoros & Timor-Leste. |
+| **WTO 14th Ministerial Conference (MC-14)** | Formally scheduled for **2026 in Yaoundé, Cameroon** (2nd MC hosted in Africa after Nairobi 2015). |
+| **WTO Permanent Seat** | Headquartered in **Geneva, Switzerland**; membership: 166 sovereign states and customs territories. |
 | **WTO Dispute Settlement** | Operates a legally binding Dispute Settlement Mechanism resolving international commercial disputes. |
 | **India's Current Account Convertibility** | Formally accepted under **Article VIII of the IMF in August 1994**. |
 | **Tarapore Committees on Full CAC** | Formed in **1997 and 2006** to outline fiscal and banking prerequisites for capital account convertibility. |
@@ -368,19 +372,65 @@ D. 1 2 3 4
   * **Sanitary and Phytosanitary (SPS) Measures:** Food safety, animal, and plant health standards designed to prevent pest and pathogen contamination.
   * **Technical Barriers to Trade (TBT):** Product technical specifications, testing procedures, packaging rules, and safety conformity standards.
 
-### World Trade Organization (WTO)
+### World Trade Organization (WTO) — Architecture, Agreements, and Summitry
 
-* **Establishment:** Founded on **1 January 1995** under the Marrakesh Agreement, replacing the General Agreement on Tariffs and Trade (GATT, 1947).
-* **Headquarters:** Permanently located in **Geneva, Switzerland**.
-* **Key Principles:** Most-Favoured-Nation (MFN) treatment, National Treatment, predictability through binding tariff commitments, and progressive trade liberalization.
-* **Dispute Settlement Mechanism:** Operates through the Dispute Settlement Body (DSB), which establishes panels and an Appellate Body to deliver legally binding rulings on international trade friction.
-* **Ministerial Conferences:** The supreme decision-making body of the WTO, convening every two years:
-  * MC-1: Singapore (1996)
-  * MC-4: Doha, Qatar (2001, launched Doha Development Agenda)
-  * MC-9: Bali, Indonesia (2013, Trade Facilitation Agreement)
-  * MC-10: Nairobi, Kenya (2015)
-  * MC-12: Geneva, Switzerland (2022)
-  * **MC-13: Abu Dhabi, United Arab Emirates (February 2024)**
+* **Historical Genesis:** 
+  * Originated from the General Agreement on Tariffs and Trade (GATT, 1947), negotiated during the Geneva Conference.
+  * The **Uruguay Round (1986–1994)** culminated in the draft submitted by Director-General Arthur Dunkel ("Dunkel Draft") and the signing of the historic **Marrakesh Agreement** on 15 April 1994 in Morocco.
+  * Officially established and operationalized on **1 January 1995**, superseding GATT 1947 as a permanent, formal international organization.
+* **Headquarters & Leadership:**
+  * Permanent Secretariat: Centre William Rappard, **Geneva, Switzerland**.
+  * Current Director-General: **Dr. Ngozi Okonjo-Iweala** (Nigeria; assumed office March 2021; first woman and first African to serve as WTO Director-General).
+  * Current Membership: **166 member states and customs territories** representing over 98% of global commerce. At the 13th Ministerial Conference (2024), **Comoros (165th)** and **Timor-Leste (166th)** were formally inducted into the WTO.
+* **Governance and Decision-Making:**
+  * Operates on a pure **consensus-based** principle (*One Member, One Vote*), in stark contrast to the weighted financial quota voting of the IMF and World Bank.
+  * **Ministerial Conference (MC):** The supreme decision-making body, mandated to convene at least once every two years, attended by trade and commerce ministers of all member states.
+  * **General Council:** Stationed permanently in Geneva, managing day-to-day operations between Ministerial Conferences; it convenes in two specialized executive avatars:
+    1. **Dispute Settlement Body (DSB):** Administers dispute panels and Appellate Body proceedings.
+    2. **Trade Policy Review Body (TPRB):** Conducts periodic reviews of member states' national trade policies.
+
+#### Core Non-Discrimination Principles
+1. **Most-Favoured-Nation (MFN) Rule (Article I of GATT 1994):** Any tariff concession, customs advantage, or commercial privilege granted to any country must be accorded immediately and unconditionally to all other WTO member nations. Key exceptions: Regional Trade Agreements (RTAs/FTAs under Article XXIV) and Generalized System of Preferences (GSP) for developing countries.
+2. **National Treatment Principle (Article III of GATT 1994):** Foreign imported goods, once they have cleared customs ports and paid applicable border tariffs, must receive equal treatment compared to domestically manufactured goods in internal taxes (e.g., GST), domestic logistics, and domestic market sales regulations.
+3. **General Prohibition of Quantitative Restrictions (Article XI):** Quotas and import/export bans are forbidden, requiring members to manage trade protection solely through transparent customs tariffs.
+
+#### Core Multilateral Agreements Architecture
+* **Multilateral Agreements on Trade in Goods (GATT 1994):** Encompasses agreements on customs valuation, anti-dumping duties, Subsidies and Countervailing Measures (SCM), Pre-shipment Inspection, and:
+  * **Agreement on Agriculture (AoA):** Classifies farm subsidies into **Green Box** (non-distorting, unrestricted), **Blue Box** (production-limiting, exempt), and **Amber Box** (trade-distorting, capped by *de-minimis* ceilings of 5% for developed nations and 10% for developing nations).
+  * **Trade Facilitation Agreement (TFA):** Adopted at the 2013 Bali Ministerial Conference; entered into legal force in February 2017 to streamline border customs clearance, speed transit of goods, and digitize port logistics.
+  * **Agreement on Fisheries Subsidies:** Adopted at MC-12 (Geneva, 2022); curbs harmful government subsidies to Illegal, Unreported, and Unregulated (IUU) marine fishing.
+* **General Agreement on Trade in Services (GATS):** Governs trade in invisible commercial services across four recognized modes of supply:
+  * **Mode 1 — Cross-Border Supply:** Service crosses the frontier while provider and consumer remain in their home countries (e.g., BPO IT software delivered electronically from India to clients in Europe or North America).
+  * **Mode 2 — Consumption Abroad:** Consumer travels to the territory of another member to consume the service (e.g., international tourism, medical value travel to India, overseas higher education).
+  * **Mode 3 — Commercial Presence:** A foreign service supplier establishes an incorporated business presence or commercial affiliate in the host country (e.g., a foreign multinational bank opening branches or a hospital chain investing in India).
+  * **Mode 4 — Presence of Natural Persons:** An individual provider travels abroad temporarily to deliver a professional service (e.g., Indian software consultants, corporate accountants, or doctors deployed on short-term overseas project contracts).
+* **Trade-Related Aspects of Intellectual Property Rights (TRIPS):** Sets binding minimum standards for intellectual property protection across 7 categories (Patents, Copyrights, Trademarks, Geographical Indications, Industrial Designs, Integrated Circuit Layouts, Undisclosed Information/Trade Secrets):
+  * **Patent Protection:** Mandates minimum **20-year patent protection** across all fields of technology for both product and process inventions.
+  * **Compulsory Licensing & Public Health:** Affirmed by the landmark **Doha Declaration on TRIPS and Public Health (2001)**, allowing sovereign governments to issue compulsory licenses to generic manufacturers during public health emergencies.
+  * **Anti-Evergreening:** Supported by domestic statutes such as Section 3(d) of the Indian Patents Act, which disallows patent extensions for minor molecular modifications lacking enhanced therapeutic efficacy.
+* **Trade-Related Investment Measures (TRIMS):** Restricts host-country investment regulations that distort trade in goods, expressly prohibiting domestic content requirements (mandating minimum use of locally produced materials) and trade-balancing conditions.
+* **Dispute Settlement Mechanism (DSM):** Provides legal arbitration through panels and a 7-member **Appellate Body**. Since December 2019, the Appellate Body has remained inoperative because the United States blocked appointments of new judges upon retirement, depriving it of the mandatory 3-judge quorum. To bypass this, the European Union, China, and partner states established the voluntary **Multi-Party Interim Appeal Arbitration Arrangement (MPIA)**.
+
+---
+
+#### Master Chronology of WTO Ministerial Conferences (MC-1 to MC-14)
+
+| Conference | Year | Host City & Nation | Key Policy Outcome & High-Yield Exam Takeaway |
+|:---|:---:|:---|:---|
+| **MC-1** | **1996** | **Singapore** | First Ministerial Conference; introduced the **Four Singapore Issues**: Investment, Competition Policy, Transparency in Government Procurement, and Trade Facilitation. |
+| **MC-2** | **1998** | **Geneva, Switzerland** | Marked the 50th anniversary of GATT 1947; adopted the landmark **Declaration on Global Electronic Commerce**, establishing a temporary customs duty moratorium on electronic transmissions. |
+| **MC-3** | **1999** | **Seattle, United States** | The "Battle of Seattle" — crippled by massive anti-globalization street demonstrations and deep North–South policy deadlocks; ended without a ministerial declaration. |
+| **MC-4** | **2001** | **Doha, Qatar** | Launched the **Doha Development Agenda (DDA)**; adopted the historic **Declaration on TRIPS and Public Health** (empowering compulsory licensing for public health); approved accessions of **China** and Chinese Taipei. |
+| **MC-5** | **2003** | **Cancún, Mexico** | Developing nations formed the **G20 coalition on agriculture** (led by India, Brazil, and China) resisting developed nations' farm subsidies; three controversial Singapore issues were officially dropped (only Trade Facilitation was retained). |
+| **MC-6** | **2005** | **Hong Kong** | Agreement reached to phase out all agricultural export subsidies by 2013; recognized the **Special Safeguard Mechanism (SSM)** for developing nations to defend domestic farmers against import surges. |
+| **MC-7** | **2009** | **Geneva, Switzerland** | First ministerial following the 2008 global financial crisis; focused on resisting rising protectionism. |
+| **MC-8** | **2011** | **Geneva, Switzerland** | Approved terms of accession for the **Russian Federation**, Samoa, and Montenegro. |
+| **MC-9** | **2013** | **Bali, Indonesia** | The landmark **Bali Package**: Adopted the **Trade Facilitation Agreement (TFA)**; negotiated the **Peace Clause** protecting developing nations' public stockholding of food grains for food security (NFSA) against WTO Amber Box penalties. |
+| **MC-10** | **2015** | **Nairobi, Kenya** | **First WTO Ministerial Conference held on African soil**; adopted the Nairobi Package, legally binding developed countries to immediately eliminate all agricultural export subsidies. |
+| **MC-11** | **2017** | **Buenos Aires, Argentina** | **First WTO Ministerial held in South America**; plurilateral Joint Statement Initiatives (JSIs) launched on e-commerce, investment facilitation, and MSMEs. |
+| **MC-12** | **2022** | **Geneva, Switzerland** | Postponed from Kazakhstan due to COVID-19. Adopted the **Geneva Package**: landmark Agreement on **Fisheries Subsidies** (curbing IUU fishing); partial TRIPS patent waiver for COVID-19 vaccines; World Food Programme (WFP) purchases exempted from food export bans. |
+| **MC-13** | **2024** | **Abu Dhabi, United Arab Emirates (UAE)** | Convened from 26 Feb to 1 Mar 2024, chaired by Dr. Thani bin Ahmed Al Zeyoudi. **Extended the moratorium on electronic transmissions** until MC-14; formally inducted **Comoros (165th)** and **Timor-Leste (166th)** as new WTO member states; **formally selected Cameroon to host the 14th Ministerial Conference**. |
+| **MC-14** | **2026** | **Yaoundé, Cameroon** | **Second WTO Ministerial Conference in history to be hosted on African soil** (following MC-10 Nairobi in 2015); formally awarded to Cameroon at MC-13 in Abu Dhabi. Core agenda: Comprehensive dispute settlement mechanism restoration, permanent solution for public stockholding for food security, and digital commerce rules. |
 
 ---
 
@@ -417,6 +467,24 @@ D. Bali
 **Explanation:** The 13th Ministerial Conference (MC-13) of the World Trade Organization was held in Abu Dhabi, United Arab Emirates, from 26 February to 1 March 2024. While the permanent headquarters of the WTO is in Geneva, its Ministerial Conferences rotate among member nations.
 
 **Ans: B.** Abu Dhabi
+
+</details>
+
+**Q-EC6B. High-Yield Forecast Practice Question — WTO MC-14 Host Nation**
+
+Which country was officially chosen at the 13th Ministerial Conference in Abu Dhabi to host the 14th WTO Ministerial Conference (MC-14) scheduled for 2026?
+
+A. Kenya  
+B. Cameroon  
+C. South Africa  
+D. Brazil  
+
+<details>
+<summary>Show answer</summary>
+
+**Explanation:** At the conclusion of the 13th Ministerial Conference (MC-13) held in Abu Dhabi (UAE) in March 2024, the WTO General Council and member nations accepted the offer of the Government of Cameroon to host the **14th WTO Ministerial Conference (MC-14) in Yaoundé, Cameroon in 2026**. Cameroon becomes only the second African country after Kenya (MC-10 in Nairobi, 2015) to host a WTO Ministerial Conference.
+
+**Ans: B.** Cameroon
 
 </details>
 
