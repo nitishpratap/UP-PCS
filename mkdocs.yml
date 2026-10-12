@@ -62,6 +62,7 @@ extra:
 
 extra_css:
   - assets/stylesheets/extra.css
+  - assets/stylesheets/spen-annotation.css
 
 extra_javascript:
   - assets/javascripts/mathjax.js
@@ -70,6 +71,7 @@ extra_javascript:
   - assets/javascripts/reading-mode.js
   - assets/javascripts/chapter-tracker.js
   - assets/javascripts/study-tracker.js
+  - assets/javascripts/spen-annotation.js
 
 markdown_extensions:
   - admonition
