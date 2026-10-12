@@ -864,6 +864,7 @@ D. ₹15,000
 **Q27.**
 
 Which of the following statements about PM-AASHA is/are correct?
+
 1. PSS is implemented mainly by NAFED/NCCF for pulses and oilseeds.
 2. PDPS pays the MSP–market price gap without always requiring physical procurement.
 3. PM-AASHA has only two components.
@@ -884,6 +885,7 @@ D. 1, 2 and 3
 **Q28.**
 
 Arrange chronologically:
+
 1. Establishment of FCI
 2. Launch of Operation Flood
 3. Launch of e-NAM
@@ -950,6 +952,7 @@ D. Equal to the international export parity price
 **Q1.**
 
 With reference to agricultural revolutions, consider the following statements:
+
 1. The Yellow Revolution is associated with oilseeds.
 2. The Golden Fibre Revolution is associated with cotton.
 3. The Round Revolution is associated with potato.
@@ -1025,6 +1028,7 @@ D. A-2, B-4, C-1, D-3
 **Q4.**
 
 With reference to CACP and MSP, which of the following is/are correct?
+
 1. CACP recommends MSP for 22 mandated crops.
 2. CACP has the final authority to notify MSP.
 3. Sugarcane receives FRP, not MSP.
@@ -1045,6 +1049,7 @@ D. 1, 2 and 3
 **Q5.**
 
 Consider the following statements regarding cost concepts:
+
 1. Cost A₂ includes unpaid family labour.
 2. Cost C₂ includes imputed rent of owned land.
 3. Current government MSP benchmark is stated as at least 1.5 × (A₂ + FL).
@@ -1086,6 +1091,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q7.**
 
 Arrange the following in chronological order of launch/establishment:
+
 1. NDDB establishment
 2. Operation Flood launch
 3. TPDS introduction
@@ -1107,6 +1113,7 @@ D. 1 – 2 – 4 – 3
 **Q8.**
 
 With reference to NFSA entitlements, consider the following statements:
+
 1. Priority Households receive 5 kg of foodgrains per person per month.
 2. AAY households receive 35 kg of foodgrains per person per month.
 3. The eldest woman aged 18 years or above is Head of the Household for ration cards.
@@ -1127,6 +1134,7 @@ D. 1, 2 and 3
 **Q9.**
 
 Which of the following is/are correct regarding PMGKAY and ONORC?
+
 1. Under PMGKAY integration, NFSA foodgrains have been made free of cost for covered beneficiaries through December 2028.
 2. ONORC enables portability of ration entitlement across Fair Price Shops in the country.
 3. ONORC abolishes the need for any biometric authentication.
@@ -1147,6 +1155,7 @@ D. Only 1
 **Q10.**
 
 With reference to FCI, which of the following statements is/are correct?
+
 1. FCI was established in 1965 under the Food Corporations Act, 1964.
 2. Economic cost includes MSP acquisition, procurement incidentals, and distribution cost.
 3. OMSS is a scheme for exporting basmati rice only.
@@ -1167,6 +1176,7 @@ D. 1, 2 and 3
 **Q11.**
 
 Consider the following statements about PM-KISAN:
+
 1. It provides ₹6,000 per year in three instalments of ₹2,000.
 2. Since June 2019 it is limited only to farmers holding less than 2 hectares.
 3. Transfer is through Direct Benefit Transfer.
@@ -1187,6 +1197,7 @@ D. 1, 2 and 3
 **Q12.**
 
 With reference to PMFBY, which of the following is/are correct?
+
 1. Farmer premium for Kharif food and oilseed crops is 2% of Sum Insured.
 2. Farmer premium for Rabi food and oilseed crops is 5% of Sum Insured.
 3. From Kharif 2020, enrolment is voluntary for all farmers.
@@ -1245,6 +1256,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q15.**
 
 With reference to PM-KUSUM components, consider the following statements:
+
 1. Component A targets grid-connected solar plants on barren/fallow land.
 2. Component B supports standalone solar agriculture pumps.
 3. Component C solarises grid-connected agriculture pumps.
@@ -1302,6 +1314,7 @@ D. A-3, B-1, C-4, D-2
 **Q17.**
 
 Which of the following statements about APMC reforms and e-NAM is/are correct?
+
 1. e-NAM creates a pan-India electronic trading portal networking existing mandis.
 2. e-NAM completely abolishes physical APMC mandis.
 3. The three farm laws of 2020 were repealed in 2021.
@@ -1322,6 +1335,7 @@ D. Only 3
 **Q18.**
 
 With reference to Price Stabilization Fund and Market Intervention Scheme, consider the following:
+
 1. PSF is maintained by the Department of Consumer Affairs.
 2. MIS is mainly for perishable commodities not covered under regular MSP when prices crash sharply.
 3. PSF is the same as FCI’s quarterly wheat–rice buffer norm mechanism.
@@ -1342,6 +1356,7 @@ D. 1, 2 and 3
 **Q19.**
 
 Consider the following statements regarding millets / Shree Anna:
+
 1. India proposed the International Year of Millets, declared by UNGA for 2023.
 2. Jowar, Bajra and Ragi are among the seven MSP cereals.
 3. Palm oil is one of the seven MSP oilseeds.
@@ -1362,6 +1377,7 @@ D. Only 1
 **Q20.**
 
 Which of the following is/are correct about rural credit tools?
+
 1. KCC was recommended in the late 1990s and provides revolving crop credit.
 2. With interest subvention and prompt repayment, effective farmer interest can fall to about 4%.
 3. Agriculture Priority Sector Lending target is 25% of ANBC.
@@ -1403,6 +1419,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q22.**
 
 With reference to FPO promotion, which of the following is/are correct?
+
 1. The 10,000 FPO scheme is a Central Sector scheme.
 2. Implementing agencies include SFAC, NABARD and NCDC.
 3. FPOs mainly help large corporate farms rather than small holders.
@@ -1440,6 +1457,7 @@ D. Rainbow Revolution — Only dairy cooperatives
 **Q24.**
 
 Consider the following statements about PM-AASHA:
+
 1. PSS involves physical procurement of notified oilseeds/pulses/copra at MSP.
 2. PDPS can compensate the MSP–market gap without physical procurement.
 3. PPSS is a pilot involving private procurement and stockists.
@@ -1460,6 +1478,7 @@ D. 1, 2 and 3
 **Q25.**
 
 With reference to SAP and FRP, which of the following is/are correct?
+
 1. FRP is announced under the Sugarcane (Control) Order, 1966.
 2. SAP is typically lower than FRP in major cane States.
 3. Uttar Pradesh is among India’s largest sugarcane producers.
@@ -1480,6 +1499,7 @@ D. Only 3
 **Q26.**
 
 Arrange the following schemes/events chronologically:
+
 1. Launch of PMFBY
 2. Launch of e-NAM
 3. Launch of PM-KISAN
@@ -1501,6 +1521,7 @@ D. 1 – 3 – 2 – 4
 **Q27.**
 
 Consider the following statements:
+
 1. Central Potato Research Institute is located at Kufri, Shimla.
 2. Round Revolution is associated with potato.
 3. Grey Revolution is associated with jute.

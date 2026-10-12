@@ -61,6 +61,7 @@ Key economic statutes & regulatory codes (IBC 2016, RERA 2016, PMLA 2002, Labour
 28. The **Global Innovation Index (GII)** is published by the **World Intellectual Property Organization (WIPO)** in partnership with Cornell University and INSEAD.
 29. **NITI Aayog** serves as the **nodal institutional body** responsible for coordinating, overseeing, and monitoring the localization of the Sustainable Development Goals (SDGs) across Indian States and Union Territories.
 30. The **SDG India Index**, developed by NITI Aayog, tracks progress across all States and UTs, classifying entities into four performance categories based on composite scores:
+
     * **Aspirant:** Score 0–49
     * **Performer:** Score 50–64
     * **Front-runner:** Score 65–99
@@ -70,6 +71,7 @@ Key economic statutes & regulatory codes (IBC 2016, RERA 2016, PMLA 2002, Labour
 33. **Uttar Pradesh** progressed from the **Performer** category (score 55 in 2019–20 and 60 in 2020–21) to the **Front-runner** category with a score of **67 in 2023–24**.
 34. In the global **Sustainable Development Report (SDSN)**, India's international ranking evolved over time: **110th in 2016, 116th in 2017, 112th in 2023, 109th in 2024, and 99th in 2025** (entering the top 100 for the first time).
 35. Mapping of high-yield Sustainable Development Goals:
+
     * **SDG 1:** No Poverty
     * **SDG 2:** Zero Hunger
     * **SDG 3:** Good Health and Well-being
@@ -89,6 +91,7 @@ Key economic statutes & regulatory codes (IBC 2016, RERA 2016, PMLA 2002, Labour
 43. Sociologist **Robert E. Park** introduced the concept of the **"Marginal Man"** (1928), analyzing individuals living on the cultural boundaries of two distinct social groups.
 44. Canadian media theorist **Marshall McLuhan** coined the term **"Global Village"**, conceptualizing how electronic telecommunications contract the globe into a single interconnected community.
 45. Key economic treatises and their authors:
+
     * *Wealth of Nations* (1776) → **Adam Smith**
     * *Principles of Political Economy and Taxation* (1817) → **David Ricardo**
     * *Das Kapital* (1867) → **Karl Marx**
@@ -99,7 +102,7 @@ Key economic statutes & regulatory codes (IBC 2016, RERA 2016, PMLA 2002, Labour
 47. The **MISHTI (Mangrove Initiative for Shoreline Habitats & Tangible Incomes)** scheme was announced in the Union Budget 2023–24 and launched on World Environment Day (5 June 2023) to facilitate mangrove afforestation along India's coastline and salt-pan lands.
 48. **Mission LiFE (Lifestyle for Environment)** was unveiled by Prime Minister Narendra Modi at the **COP26 World Leaders' Summit in Glasgow (November 2021)** as an international mass movement promoting mindful and deliberate resource utilization.
 49. The **National Clean Air Programme (NCAP)** was launched by the Ministry of Environment, Forest and Climate Change in **January 2019** as a targeted national framework to reduce particulate matter (PM2.5 and PM10) concentrations by 20–30% across designated non-attainment cities.
-50. The **National Education Policy (NEP) 2020**, approved by the Union Cabinet on **29 July 2020**, was drafted by a committee chaired by former ISRO chief **Dr. K. Kasturirangan**, replacing the previous National Policy on Education of **1986** (after an interval of 34 years) and introducing a $5+3+3+4$ pedagogical structure with vocational education starting from **Grade 6**.
+50. The **National Education Policy (NEP) 2020**, approved by the Union Cabinet on **29 July 2020**, was drafted by a committee chaired by former ISRO chief **Dr. K. Kasturirangan**, replacing the previous National Policy on Education of **1986** (after an interval of 34 years) and introducing a USD 5+3+3+4USD pedagogical structure with vocational education starting from **Grade 6**.
 
 </details>
 
@@ -485,7 +488,7 @@ D. 131
 
 * Approved by the Union Cabinet on **29 July 2020**, formulated by a committee chaired by **Dr. K. Kasturirangan**.
 * Replaces the previous **National Policy on Education, 1986**, after a gap of **34 years** (not 38 years).
-* Replaces the traditional $10+2$ structure with a foundational, preparatory, middle, and secondary **$5+3+3+4$** structure covering ages 3 to 18.
+* Replaces the traditional **10+2** structure with a foundational, preparatory, middle, and secondary **5+3+3+4** structure covering ages 3 to 18.
 * Integrates vocational education and skill development into mainstream schooling beginning from **Grade 6**, accompanied by 10-day bagless internships.
 
 ---
@@ -697,6 +700,7 @@ D. 1 2 3 4
 
 **Q13. UPPCS (Pre) 2024**
 Which measures are essential to achieve SDG Goal 4?
+
 1. Free and compulsory education
 2. Better school infrastructure and digital transformation
 3. Expansion of agricultural programmes
@@ -1549,6 +1553,7 @@ D. Tamil Nadu
 
 **Q10. Uttarakhand P.C.S. (Pre) 2025**
 According to NITI Aayog’s SDG India Index 2023–24, which State/States has the highest SDG index score?
+
 1. Kerala
 2. Uttarakhand
 3. Goa
@@ -1691,6 +1696,7 @@ D. 4 3 2 1
 
 **Q18. UPPCS (Pre) 2024**
 Which measures are essential to achieve Goal 4 of the Sustainable Development Targets, 2030?
+
 1. Making education free and compulsory
 2. Improving basic school infrastructure and embracing digital transformation
 3. Expansion of agricultural programmes
@@ -1726,6 +1732,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q20. U.P. P.C.S. (Pre) 2023**
 Consider the following statements about sustainable development:
+
 1. Based on the global indicator framework and data from National Statistical Systems, the UN Secretary-General presents an Annual Sustainable Development Goal Report.
 2. Global Sustainable Development Report is produced to inform the quadrennial SDG review at the UN General Assembly once every quarter.
 A. Only 1
@@ -1745,6 +1752,7 @@ D. Neither 1 nor 2
 
 **Q21. UPPCS (Pre) 2021**
 Which labour-related Acts were amalgamated into the Code on Wages, 2019?
+
 I. Minimum Wages Act
 II. Payment of Bonus Act
 III. The Contract Labour Act
@@ -3686,4 +3694,4 @@ D. Only Article 370
 * **Top States in SDG India Index 2023–24:** Kerala and Uttarakhand shared the 1st rank with a score of 79; Bihar recorded the lowest score (57); Uttar Pradesh is categorized as a Front-runner (score 67).
 * **Foundational Thinkers Distinction:** Adam Smith is the "Father of Modern Economics" (*The Wealth of Nations*, 1776); John Maynard Keynes is the father of modern macroeconomics (*The General Theory*, 1936); F.W. Taylor is the father of scientific management.
 * **Concept Origins:** "Missing women" was formulated by Amartya Sen (1990); "Marginal Man" was introduced by Robert E. Park (1928); "Global Village" was coined by Marshall McLuhan.
-* **National Education Policy 2020 Parameters:** Drafted by the Kasturirangan Committee; replaced the 1986 policy after 34 years; introduces vocational training from Grade 6 under the $5+3+3+4$ structure.
+* **National Education Policy 2020 Parameters:** Drafted by the Kasturirangan Committee; replaced the 1986 policy after 34 years; introduces vocational training from Grade 6 under the USD 5+3+3+4USD structure.

@@ -49,11 +49,11 @@ Principles of public finance | Revenue and capital receipts | Revenue and capita
 12. The **Consolidated Fund of India (Article 266(1))** is the premier public treasury into which all government revenues, loans raised, and loan recoveries flow; no money can be withdrawn from it without an **Appropriation Act** passed by Parliament.
 13. The **Public Account of India (Article 266(2))** accounts for moneys where the government acts as a trustee or banker (Provident Funds, postal small savings, court deposits); withdrawals do not require prior parliamentary appropriation.
 14. The **Contingency Fund of India (Article 267)** is an emergency imprest fund placed at the disposal of the **President of India** to meet unforeseen, urgent national expenditures pending subsequent parliamentary sanction and replenishment from the Consolidated Fund.
-15. **Revenue Deficit** is the excess of revenue expenditure over revenue receipts: $\text{Revenue Deficit} = \text{Revenue Expenditure} - \text{Revenue Receipts}$. It reflects government dissaving and borrowing to fund consumption.
-16. **Fiscal Deficit** represents the total excess of government expenditure over non-debt receipts: $\text{Fiscal Deficit} = \text{Total Expenditure} - (\text{Revenue Receipts} + \text{Non-Debt Capital Receipts})$. It precisely measures the government's **total net borrowing requirement** from all sources.
-17. **Primary Deficit** isolates current fiscal operations from past debt legacies: $\text{Primary Deficit} = \text{Fiscal Deficit} - \text{Interest Payments}$. A zero primary deficit indicates that all borrowings are utilized solely to service existing debt.
+15. **Revenue Deficit** is the excess of revenue expenditure over revenue receipts: **Revenue Deficit = Revenue Expenditure − Revenue Receipts**. It reflects government dissaving and borrowing to fund consumption.
+16. **Fiscal Deficit** represents the total excess of government expenditure over non-debt receipts: **Fiscal Deficit = Total Expenditure − (Revenue Receipts + Non-Debt Capital Receipts)**. It precisely measures the government's **total net borrowing requirement** from all sources.
+17. **Primary Deficit** isolates current fiscal operations from past debt legacies: **Primary Deficit = Fiscal Deficit − Interest Payments**. A zero primary deficit indicates that all borrowings are utilized solely to service existing debt.
 18. **Effective Revenue Deficit (ERD)** is defined as Revenue Deficit minus grants-in-aid given to States for the creation of capital assets.
-19. In historical budget accounting, **Budget Deficit** represented the overall net gap ($Total \ Expenditure - Total \ Receipts$). In modern Indian macroeconomics, the Fiscal Deficit has replaced it as the definitive metric of budgetary shortfall.
+19. In historical budget accounting, **Budget Deficit** represented the overall net gap (Total Expenditure − Total Receipts). In modern Indian macroeconomics, the Fiscal Deficit has replaced it as the definitive metric of budgetary shortfall.
 20. The **Fiscal Responsibility and Budget Management (FRBM) Act, 2003** mandates institutional fiscal discipline, setting statutory targets for deficit reduction and mandating key macroeconomic disclosure statements in Parliament.
 21. The **N.K. Singh FRBM Review Committee (2017)** recommended anchoring fiscal policy to a **general government debt ceiling of 60% of GDP** (40% for the Centre and 20% for the States), alongside a 3% fiscal deficit target.
 22. **Direct taxes** are levied directly on the income, wealth, or profits of individuals and corporate entities; the statutory incidence and real economic burden fall on the same entity (non-shiftable).
@@ -84,7 +84,7 @@ Principles of public finance | Revenue and capital receipts | Revenue and capita
 47. **Interest payments** constitute the largest single component of revenue expenditure in the Union Budget, reflecting the accumulated public debt stock.
 48. **Project Saksham** is an integrated indirect tax IT modernization project approved in 2016 for CBEC (now CBIC) to support the digital rollout of GST and customs processing.
 49. The **Direct Taxes Committee** (Kelkar Task Force, 2002) laid the foundation for rationalized personal income tax slabs and recommended the conceptual design of GST.
-50. **Tax Buoyancy** measures the responsiveness of tax revenue growth relative to GDP growth: $\text{Tax Buoyancy} = \frac{\% \Delta \text{ Tax Revenue}}{\% \Delta \text{ GDP}}$. A buoyancy greater than 1 signifies that tax collections expand faster than the underlying national output.
+50. **Tax Buoyancy** measures the responsiveness of tax revenue growth relative to GDP growth: **Tax Buoyancy = (% Change in Tax Revenue) / (% Change in GDP)**. A buoyancy greater than 1 signifies that tax collections expand faster than the underlying national output.
 
 </details>
 
@@ -94,7 +94,7 @@ Principles of public finance | Revenue and capital receipts | Revenue and capita
 | Concept A | Concept B | Conceptual Distinction & Mechanics | Key Memorization Anchor |
 |---|---|---|---|
 | **Revenue Deficit** | **Fiscal Deficit** | Revenue deficit measures current operational dissaving; Fiscal deficit measures the total net borrowing requirement of the government. | Revenue = Consumption gap; Fiscal = Total borrowing need |
-| **Fiscal Deficit** | **Primary Deficit** | Fiscal deficit includes total debt servicing; Primary deficit strips out interest payments to assess current fiscal stance. | $\text{Primary} = \text{Fiscal} - \text{Interest}$ |
+| **Fiscal Deficit** | **Primary Deficit** | Fiscal deficit includes total debt servicing; Primary deficit strips out interest payments to assess current fiscal stance. | Primary = Fiscal − Interest |
 | **Consolidated Fund (Art. 266(1))** | **Public Account (Art. 266(2))** | Consolidated Fund holds all revenues/loans and requires appropriation; Public Account holds trust funds (PF, deposits) without prior voting. | Consolidated = Appropriation required; Public Account = Banking/trust |
 | **Contingency Fund (Art. 267)** | **Consolidated Fund (Art. 266)** | Contingency Fund is an emergency imprest at the President's disposal; Consolidated Fund is the regular treasury. | Contingency = Emergency imprest; Consolidated = Main treasury |
 | **FC Report Submission** | **President vs NITI Aayog** | Under Article 280(3), the Finance Commission submits its report to the **President**, who lays it in Parliament; NITI receives no report. | Report goes to President |
@@ -133,9 +133,9 @@ Principles of public finance | Revenue and capital receipts | Revenue and capita
 | **14th / 15th FC Vertical Devolution** | 42% (14th FC) and 41% (15th FC) |
 | **Goods and Services Tax Amendment** | 101st Constitutional Amendment Act, 2016 (rolled out 1 July 2017) |
 | **GST Council Composition** | Article 279A; chaired by Union Finance Minister; 3/4th weighted vote threshold |
-| **Fiscal Deficit Formula** | $\text{Total Expenditure} - (\text{Revenue Receipts} + \text{Non-Debt Capital Receipts})$ |
-| **Primary Deficit Formula** | $\text{Fiscal Deficit} - \text{Interest Payments}$ |
-| **Revenue Deficit Formula** | $\text{Revenue Expenditure} - \text{Revenue Receipts}$ |
+| **Fiscal Deficit Formula** | Total Expenditure − (Revenue Receipts + Non-Debt Capital Receipts) |
+| **Primary Deficit Formula** | Fiscal Deficit − Interest Payments |
+| **Revenue Deficit Formula** | Revenue Expenditure − Revenue Receipts |
 | **FRBM Act Year & Debt Anchor** | Enacted 2003; N.K. Singh Committee proposed 60% general government debt |
 | **Direct Tax Code Domain** | Reform and modernization of Income Tax and Wealth Tax legislation |
 | **Tobin Tax Target** | Spot foreign exchange transactions to penalize speculation |
@@ -157,26 +157,41 @@ Principles of public finance | Revenue and capital receipts | Revenue and capita
 **Public finance** examines how the government mobilizes financial resources, allocates expenditures across public priorities, manages debt obligations, and utilizes fiscal policy to ensure macroeconomic stability and equitable growth.
 
 ### Government Receipts
+
 Government receipts are divided into two fundamental accounting categories:
-1. **Revenue Receipts:** Recurring, non-debt receipts that **neither create a financial liability nor cause a reduction in government assets**. Revenue receipts are subdivided into:
-   - **Tax Revenue:** Mandatory financial levies imposed under legal authority without direct quid-pro-quo return. Comprises direct taxes (corporation tax, personal income tax, capital gains tax) and indirect taxes (GST, basic customs duties, central excise on petroleum).
-   - **Non-Tax Revenue:** Incomes earned by the government through public property and administrative services, including interest received on loans advanced to States and PSUs, dividend transfers and profits from PSUs and the Reserve Bank of India, administrative fees, spectrum auction proceeds, and external grants.
-2. **Capital Receipts:** Non-recurring receipts that **either create a financial liability or reduce government assets**.
-   - **Debt Capital Receipts:** Market borrowings through dated government securities, treasury bills, and loans raised from multilateral institutions.
-   - **Non-Debt Capital Receipts (NDCR):** Disinvestment proceeds from the sale of government equity in Public Sector Enterprises and recoveries of loans previously advanced to States and public corporations.
+
+#### 1. Revenue Receipts
+Recurring, non-debt receipts that **neither create a financial liability nor cause a reduction in government assets**.
+
+* **Tax Revenue:** Mandatory financial levies imposed under legal authority without direct quid-pro-quo return. Comprises direct taxes (corporation tax, personal income tax, capital gains tax) and indirect taxes (GST, basic customs duties, central excise on petroleum).
+* **Non-Tax Revenue:** Incomes earned by the government through public property and administrative services, including interest received on loans advanced to States and PSUs, dividend transfers and profits from PSUs and the Reserve Bank of India, administrative fees, spectrum auction proceeds, and external grants.
+
+#### 2. Capital Receipts
+Non-recurring receipts that **either create a financial liability or reduce government assets**.
+
+* **Debt Capital Receipts:** Market borrowings through dated government securities, treasury bills, and loans raised from multilateral institutions.
+* **Non-Debt Capital Receipts (NDCR):** Disinvestment proceeds from the sale of government equity in Public Sector Enterprises and recoveries of loans previously advanced to States and public corporations.
 
 ### Government Expenditure
-1. **Revenue Expenditure:** Expenditures incurred for normal administrative operations and maintenance of public services that **do not result in the creation of durable physical or financial assets**. Major components include:
-   - Interest payments on accumulated internal and external public debt (the single largest component).
-   - Government salaries, administrative allowances, and employee pensions.
-   - Food, fertilizer, and fuel subsidies.
-   - Grants given to State Governments for general administrative purposes.
-2. **Capital Expenditure (Capex):** Outlays that **lead to the creation of durable capital assets or a reduction in financial liabilities**. Major components include:
-   - Capital investments in transport networks, highways, railways, power grids, and digital infrastructure.
-   - Acquisition of land, machinery, and defense capital equipment.
-   - Equity infusions into public financial institutions and PSUs.
-   - Loans and advances extended to State Governments.
-   - Repayment of public debt principal obligations.
+
+Government expenditures are classified into two broad categories:
+
+#### 1. Revenue Expenditure
+Expenditures incurred for normal administrative operations and maintenance of public services that **do not result in the creation of durable physical or financial assets**.
+
+* **Debt Servicing:** Interest payments on accumulated internal and external public debt (the single largest revenue expenditure component).
+* **Salaries & Administration:** Government salaries, administrative allowances, and employee pensions.
+* **Subsidies:** Food, fertilizer, and fuel subsidies.
+* **Administrative Grants:** Grants given to State Governments for general administrative purposes.
+
+#### 2. Capital Expenditure (Capex)
+Outlays that **lead to the creation of durable capital assets or a reduction in financial liabilities**.
+
+* **Infrastructure Networks:** Capital investments in transport networks, highways, railways, power grids, and digital infrastructure.
+* **Asset Acquisition:** Acquisition of land, machinery, and defense capital equipment.
+* **Financial Infusions:** Equity infusions into public financial institutions and PSUs.
+* **Development Loans:** Loans and advances extended to State Governments.
+* **Debt Repayment:** Repayment of public debt principal obligations.
 
 ### Public Debt and Subsidy Rationalization
 - **Public Debt:** Represents the total accumulated stock of government borrowings over time. While the annual fiscal deficit measures the single-year borrowing flow, public debt measures the cumulative debt stock.
@@ -199,20 +214,27 @@ The **Union Budget** is the annual financial statement of estimated receipts and
 - **Article 202:** Corresponds at the State level to Article 112, governing the presentation of the State Annual Financial Statement by State Governments.
 
 ### Parliamentary Cut Motions
+
 During the discussion on Demands for Grants in the Lok Sabha, Members of Parliament may move Cut Motions to reduce budgetary allocations:
+
 1. **Disapproval of Policy Cut:** Demands that the amount of the demand be reduced to **₹1**. It signifies total disapproval of the underlying government policy and outlines an alternative policy.
 2. **Economy Cut:** Demands that the amount of the demand be reduced by a **specified amount**, arguing that economy can be effected without impairing administrative efficiency.
 3. **Token Cut:** Demands that the amount of the demand be reduced by **₹100**, ventilating a specific, articulated grievance within the administrative responsibility of the Government of India.
+
 *(Note: If a Cut Motion is passed in the Lok Sabha, it amounts to a vote of no-confidence, requiring the Council of Ministers to resign).*
 
 ### The Three Constitutional Funds
+
 The Constitution of India establishes three distinct funds for public revenue and expenditure:
+
 1. **Consolidated Fund of India (Article 266(1)):**
    - The primary treasury of the nation. All revenues received by the Government of India, all loans raised by the issue of treasury bills or dated securities, and all moneys received in repayment of loans flow into this fund.
    - No money can be withdrawn from the Consolidated Fund without an **Appropriation Act enacted by Parliament**.
+
 2. **Public Account of India (Article 266(2)):**
    - Accounts for public moneys received by or on behalf of the Government of India that do not belong to the Consolidated Fund, where the government functions as a banker or trustee (e.g., Provident Funds, Small Savings collections, judicial deposits, and remittances).
    - Expenditures from the Public Account do not require prior parliamentary appropriation.
+
 3. **Contingency Fund of India (Article 267):**
    - An emergency reserve fund established by Parliament under the *Contingency Fund of India Act, 1950*.
    - Placed at the disposal of the **President of India**, enabling advances to be made to meet unforeseen expenditures pending formal authorization by Parliament under Article 115 or 116. Advances are subsequently recouped from the Consolidated Fund upon parliamentary approval.
@@ -276,21 +298,29 @@ D. A-1, B-2, C-3, D-4
 Budgetary deficits measure the magnitude by which public expenditures exceed public revenues, defining government borrowing requirements and macroeconomic stability.
 
 ### The Four Key Deficit Metrics
-1. **Revenue Deficit (RD):**
-   $$\text{Revenue Deficit} = \text{Revenue Expenditure} - \text{Revenue Receipts}$$
-   - Measures the extent to which the government's current operational consumption exceeds regular current earnings.
-   - A high revenue deficit indicates fiscal vulnerability, signifying that the government is borrowing simply to maintain day-to-day administrative machinery rather than building productive assets.
-2. **Fiscal Deficit (FD):**
-   $$\text{Fiscal Deficit} = \text{Total Expenditure} - (\text{Revenue Receipts} + \text{Non-Debt Capital Receipts})$$
-   - Equivalently: $\text{Fiscal Deficit} = \text{Total Budget Borrowings and Liabilities}$.
-   - The fiscal deficit is the definitive macroeconomic measure of government borrowing requirements from all internal and external sources.
-3. **Primary Deficit (PD):**
-   $$\text{Primary Deficit} = \text{Fiscal Deficit} - \text{Interest Payments}$$
-   - Strips out the burden of legacy debt interest payments contracted by past governments.
-   - Reflects the current fiscal policy stance; a zero primary deficit implies that the government is borrowing solely to service historical debt obligations.
-4. **Effective Revenue Deficit (ERD):**
-   $$\text{Effective Revenue Deficit} = \text{Revenue Deficit} - \text{Grants-in-aid for creation of capital assets}$$
-   - Adjusts for Central grants given to States which, while classified as revenue expenditure in Union accounts, are utilized by States to build physical infrastructure (highways, school buildings, rural water systems).
+
+#### 1. Revenue Deficit (RD)
+> **Formula:** `Revenue Deficit = Revenue Expenditure − Revenue Receipts`
+
+* Measures the extent to which the government's current operational consumption exceeds regular current earnings.
+* A high revenue deficit indicates fiscal vulnerability, signifying that the government is borrowing simply to maintain day-to-day administrative machinery rather than building productive assets.
+
+#### 2. Fiscal Deficit (FD)
+> **Formula:** `Fiscal Deficit = Total Expenditure − (Revenue Receipts + Non-Debt Capital Receipts)`
+
+* **Equivalently:** `Fiscal Deficit = Total Budget Borrowings and Liabilities`.
+* The fiscal deficit is the definitive macroeconomic measure of government borrowing requirements from all internal and external sources.
+
+#### 3. Primary Deficit (PD)
+> **Formula:** `Primary Deficit = Fiscal Deficit − Interest Payments`
+
+* Strips out the burden of legacy debt interest payments contracted by past governments.
+* Reflects the current fiscal policy stance; a zero primary deficit implies that the government is borrowing solely to service historical debt obligations.
+
+#### 4. Effective Revenue Deficit (ERD)
+> **Formula:** `Effective Revenue Deficit = Revenue Deficit − Grants-in-aid for creation of capital assets`
+
+* Adjusts for Central grants given to States which, while classified as revenue expenditure in Union accounts, are utilized by States to build physical infrastructure (highways, school buildings, rural water systems).
 
 ### The FRBM Act, 2003 and N.K. Singh Review
 - **FRBM Act, 2003:** Enacted to institutionalize fiscal discipline, reduce fiscal deficits, eliminate revenue deficits, and ensure inter-generational equity in debt management.
@@ -655,7 +685,9 @@ D. A-3, B-1, C-4, D-2
 ## Supplementary Concepts & High-Yield Theoretical Notes
 
 ### Institutional Departments under the Ministry of Finance
+
 The Union Ministry of Finance comprises six functional departments:
+
 1. **Department of Economic Affairs (DEA):** Prepares the Union Budget, formulates economic policy, and monitors capital markets.
 2. **Department of Expenditure:** Oversees central government spending, public financial management, and financial rules.
 3. **Department of Revenue:** Administers direct and indirect taxes through the Central Board of Direct Taxes (CBDT) and Central Board of Indirect Taxes and Customs (CBIC).
@@ -5477,10 +5509,10 @@ D. 2 and 3
 * **Finance Commission Structure:** Comprises a Chairman and **four other members** (total five). Qualifications are prescribed by **Parliament by law** (*1951 Act*), not by the President. The Commission submits its report to the **President of India** under Article 280(3), never to NITI Aayog.
 * **Vertical Devolution Percentages:** 14th Finance Commission recommended **42%** devolution to States; 15th Finance Commission adjusted this to **41%** to account for the newly carved Union Territories of Jammu & Kashmir and Ladakh.
 * **Deficit Formulas:**
-  - $\text{Revenue Deficit} = \text{Revenue Expenditure} - \text{Revenue Receipts}$
-  - $\text{Fiscal Deficit} = \text{Total Expenditure} - (\text{Revenue Receipts} + \text{Non-Debt Capital Receipts})$
-  - $\text{Primary Deficit} = \text{Fiscal Deficit} - \text{Interest Payments}$
-  - $\text{Effective Revenue Deficit} = \text{Revenue Deficit} - \text{Grants for Creation of Capital Assets}$
+  - **Revenue Deficit = Revenue Expenditure − Revenue Receipts**
+  - **Fiscal Deficit = Total Expenditure − (Revenue Receipts + Non-Debt Capital Receipts)**
+  - **Primary Deficit = Fiscal Deficit − Interest Payments**
+  - **Effective Revenue Deficit = Revenue Deficit − Grants for Creation of Capital Assets**
 * **GST Constitutional Framework:** Enacted by the **101st Constitutional Amendment Act, 2016** (effective 1 July 2017). Dual GST features CGST + SGST on intra-State supplies and IGST on inter-State supplies and imports.
 * **GST Council Voting:** Chaired by the **Union Finance Minister** under Article 279A. Central Government holds 1/3rd weighted vote; all States together hold 2/3rd weighted vote; decisions require a 3/4th (75%) weighted majority.
 * **Taxes Outside GST:** Basic Customs Duty, alcohol for human consumption, stamp duties, electricity duty, and five petroleum products (crude, petrol, diesel, aviation turbine fuel, natural gas) remain outside current GST collections.

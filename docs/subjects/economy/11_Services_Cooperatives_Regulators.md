@@ -58,6 +58,7 @@ Tertiary (Services) sector classification & structural transformation | Sub-sect
 26. The **Companies Act, 2013** represents the principal statutory framework governing the incorporation, corporate governance, auditing, and dissolution of corporate entities in India.
 27. **Section 135 of the Companies Act, 2013** mandates that every qualifying company must allocate at least **2% of the average net profits made during the three immediately preceding financial years** toward Corporate Social Responsibility (CSR).
 28. A company is legally obligated to comply with CSR provisions if it satisfies any of three financial criteria during the immediately preceding financial year:
+
     * Net worth of **₹500 crore or more**, or
     * Turnover of **₹1,000 crore or more**, or
     * Net profit of **₹5 crore or more**.
@@ -151,7 +152,7 @@ The service or tertiary sector encompasses all economic activities that produce 
 
 * **Structural Transformation:** Traditional economic development theory (Kuznets and Clark) posits a progression from agriculture to manufacturing, and subsequently to services. In India, the economy bypassed a prolonged manufacturing-led phase, transitioning directly from an agrarian base to a service-led growth paradigm.
 * **National Income Share:** The service sector contributes the dominant proportion of India's Gross Value Added (GVA) at current prices:
-  $$\text{Services (\approx 54.4\%)} > \text{Industry (\approx 27.8\%)} > \text{Agriculture \& Allied (\approx 17.9\%)}$$
+  > **GVA Share:** Services (~54.4%) > Industry (~27.8%) > Agriculture & Allied (~17.9%)
 * **Sub-Sector Composition:** Within the service sector, the largest sub-segment is **financial, real estate, and professional services**, which alone generates over 26% of national GVA, followed by trade, repair, hotels, transport, and communication (approx. 14%).
 * **Employment-Output Asymmetry:** A defining structural characteristic of the Indian economy is the structural mismatch between output and employment: while services generate over half of GDP, they employ approximately 30% of the workforce, whereas agriculture generates under 18% of GDP while employing over 45% of the working population.
 
@@ -634,6 +635,7 @@ UPPCS-tagged stems live in **Complete PYQ Bank (UPPCS)** above. UKPCS-tagged ste
 
 **Q1. I.A.S. (Pre) 2024**
 CSR rules in India:
+
 1. Expenditures benefiting the company directly or its employees will not be considered CSR.
 2. CSR rules do not specify minimum spending on CSR activities.
 A. 1 only
@@ -685,6 +687,7 @@ D. Recommends that the post of chairman and managing director must remain the sa
 
 **Q4. U.P. U.D.A./L.D.A. (Pre) 2002 / UPPCS (Pre) 2003**
 In India, Tertiary Sector includes:
+
 1. Trade and Transport
 2. Finance and Real Estate
 3. Forestry and Fishing
@@ -704,6 +707,7 @@ D. 3 only
 
 **Q5. UPPCS (Mains) 2004**
 In India, Service Sector includes:
+
 I. Mining and Quarrying
 II. Transport and Communication
 III. Hotels
@@ -755,6 +759,7 @@ D. None of the above
 
 **Q8. I.A.S. (Pre) 2024**
 Match economic activity to sector:
+
 1. Storage of agricultural produce — Secondary
 2. Dairy farm — Primary
 3. Mineral exploration — Tertiary

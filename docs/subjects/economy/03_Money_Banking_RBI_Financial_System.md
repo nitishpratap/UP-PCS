@@ -33,15 +33,15 @@ Concepts of money and monetary aggregates (M0, M1, M2, M3, M4) | Commercial bank
 
 1. **Money** performs four classical macroeconomic functions: a **medium of exchange**, a **unit of account**, a **store of value**, and a **standard of deferred payment**.
 2. **Fiat money** possesses value by virtue of government decree and legal tender status, rather than intrinsic commodity value (such as gold or silver coins). All circulating currency notes and coins in India are fiat money.
-3. In Indian monetary economics, **M1 (Narrow Money)** is defined as: $\text{M1} = \text{Currency with the Public} + \text{Demand Deposits with Banking System} + \text{Other Deposits with RBI}$. It represents the most liquid monetary aggregate.
-4. **M3 (Broad Money)** is the most widely cited measure of aggregate money supply, defined as: $\text{M3} = \text{M1} + \text{Time Deposits (Fixed Deposits) with the Banking System}$.
-5. **Reserve Money (M0 or High-Powered Money)** represents central bank liabilities: $\text{M0} = \text{Currency in Circulation} + \text{Bankers' Deposits with RBI} + \text{Other Deposits with RBI}$.
-6. The **Money Multiplier ($m$)** measures the ratio of broad money supply to reserve money: $m = \frac{\text{M3}}{\text{M0}}$. It reflects the capacity of commercial banks to generate credit and secondary deposits from their primary cash reserves.
+3. In Indian monetary economics, **M1 (Narrow Money)** is defined as: **M1 = Currency with the Public + Demand Deposits with Banking System + Other Deposits with RBI**. It represents the most liquid monetary aggregate.
+4. **M3 (Broad Money)** is the most widely cited measure of aggregate money supply, defined as: **M3 = M1 + Time Deposits (Fixed Deposits) with the Banking System**.
+5. **Reserve Money (M0 or High-Powered Money)** represents central bank liabilities: **M0 = Currency in Circulation + Bankers' Deposits with RBI + Other Deposits with RBI**.
+6. The **Money Multiplier (m)** measures the ratio of broad money supply to reserve money: **m = M3 / M0**. It reflects the capacity of commercial banks to generate credit and secondary deposits from their primary cash reserves.
 7. Under Section 42(6) of the RBI Act, 1934, **Scheduled Commercial Banks (SCBs)** are banks that satisfy minimum paid-up capital requirements (at least ₹5 lakh historically) and are listed in the **Second Schedule of the Reserve Bank of India Act, 1934**.
 8. India's commercial banking architecture comprises **Public Sector Banks (PSBs)**, **Private Sector Banks**, **Foreign Banks**, **Regional Rural Banks (RRBs)**, and specialized differentiated banks (**Small Finance Banks** and **Payments Banks**).
 9. Under RBI guidelines, **Priority Sector Lending (PSL)** mandates that domestic Scheduled Commercial Banks allocate at least **40% of their Adjusted Net Bank Credit (ANBC)** or credit equivalent of off-balance sheet exposure to designated priority sectors (including Agriculture, Micro/Small Enterprises, Education, Housing, Export Credit, Social Infrastructure, and Renewable Energy). Foreign banks with 20 or more branches carry the identical 40% PSL mandate.
 10. A **Non-Performing Asset (NPA)** is defined as a loan or advance where interest and/or installment of principal remains **overdue for a period exceeding 90 days** in the case of a term loan.
-11. **Gross NPA** reflects the total quantum of bad loans on a bank's balance sheet, while **Net NPA** deducts cumulative provisioning (funds set aside out of profits to absorb anticipated losses) from Gross NPA: $\text{Net NPA} = \text{Gross NPA} - \text{Provisions}$.
+11. **Gross NPA** reflects the total quantum of bad loans on a bank's balance sheet, while **Net NPA** deducts cumulative provisioning (funds set aside out of profits to absorb anticipated losses) from Gross NPA: **Net NPA = Gross NPA − Provisions**.
 12. **Payments Banks** (instituted on recommendations of the Nachiket Mor Committee) are permitted to accept demand deposits (currently capped at ₹2 lakh per individual customer), facilitate digital payments and remittances, and issue ATM/debit cards. They are **strictly prohibited from issuing credit cards or granting loans**.
 13. **Small Finance Banks (SFBs)** are full-fledged niche commercial banks mandated to deliver savings and credit vehicles to unserved and underserved segments, including micro-enterprises and marginal farmers. They must maintain a higher PSL target of **75% of ANBC**.
 14. The **Unified Payments Interface (UPI)** was developed by the **National Payments Corporation of India (NPCI)** and launched in 2016, enabling instant, real-time account-to-account mobile fund transfers.
@@ -2565,7 +2565,7 @@ C. I and IШ
 
 **Q94. Uttrakhand P.C.S. (Pre) 2024**
 
-InFebruary 2024, which Bank was in news for raising $ 300 million through its first ever sustainable finance bond issue?
+InFebruary 2024, which Bank was in news for raising USD 300 million through its first ever sustainable finance bond issue?
 
 A. HDFC
 B. South Indian Bank

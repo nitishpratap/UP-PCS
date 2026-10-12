@@ -43,7 +43,7 @@ Poverty line estimation & committees | Multidimensional Poverty Index (MPI) | Po
 9. **Size of house (floor area)** is not a recognized social indicator of poverty; poverty assessments evaluate structural housing quality and roofing/flooring materials rather than square footage.
 10. The **Multidimensional Poverty Index (MPI)** was launched in the **2010 Human Development Report** by UNDP and OPHI, superseding the **Human Poverty Index (HPI)** introduced in 1997.
 11. The global MPI evaluates deprivations across three equally weighted dimensions: **Health**, **Education**, and **Standard of Living**, assessed through ten indicators.
-12. The MPI is a **non-monetary** deprivation metric; it does not measure monetary poverty such as the World Bank's international extreme poverty line ($2.15/day).
+12. The MPI is a **non-monetary** deprivation metric; it does not measure monetary poverty such as the World Bank's international extreme poverty line (USD 2.15/day).
 13. **NITI Aayog** publishes the **National Multidimensional Poverty Index (National MPI)** using National Family Health Survey (NFHS) data, adding antenatal care and bank accounts as Indian indicators.
 14. **MGNREGA (2005)** provides a statutory legal guarantee of **100 days of wage employment per financial year to every rural household** whose adult members volunteer for unskilled manual work.
 15. **Unemployment** occurs when individuals who are able and willing to work at the prevailing wage rate are unable to find gainful employment.
@@ -57,7 +57,7 @@ Poverty line estimation & committees | Multidimensional Poverty Index (MPI) | Po
 23. **Human capital** represents the aggregate stock of knowledge, skills, competencies, and physical health embodied in an economy's workforce.
 24. Investments in education, vocational training, and public healthcare generate compounding economic returns by raising labor productivity and driving technological adoption.
 25. The **Human Development Index (HDI)**, published annually by the UNDP since **1990**, evaluates human progress across three fundamental dimensions: a long and healthy life, knowledge, and a decent standard of living.
-26. The specific indicators utilized in computing the HDI are **life expectancy at birth**, **mean years of schooling**, **expected years of schooling**, and **Gross National Income (GNI) per capita (in PPP $)**.
+26. The specific indicators utilized in computing the HDI are **life expectancy at birth**, **mean years of schooling**, **expected years of schooling**, and **Gross National Income (GNI) per capita (in PPP USD)**.
 27. **Mahbub ul Haq** pioneered the design and publication of the Human Development Index, with intellectual foundation drawn from **Amartya Sen's Capability Approach**.
 28. The **demographic dividend** refers to the economic growth potential created when the proportion of the working-age population (**15–59 years** in Indian demographic classification) exceeds the dependent population (children and elderly).
 29. **Inclusive growth** ensures that economic expansion generates broad-based opportunities and equitable sharing of wealth across regions, social strata, and genders.
@@ -71,7 +71,7 @@ Poverty line estimation & committees | Multidimensional Poverty Index (MPI) | Po
 37. The **Physical Quality of Life Index (PQLI)** was devised by **Morris D. Morris** in the mid-1970s, averaging three non-monetary indicators: basic literacy, infant mortality rate, and life expectancy at age one.
 38. **Amartya Sen's Capability Approach** conceptualizes poverty as the deprivation of basic capabilities and freedoms, viewing economic development as the expansion of human substantive choices.
 39. In the post-2010 HDI calculation methodology, the fixed goalposts for the Life Expectancy Index are set between a minimum of **20 years** and a maximum of **85 years**.
-40. In the pre-2010 HDI methodology, standard of living was measured by **GDP per capita (PPP $)**; since 2010, the UNDP utilizes **GNI per capita (PPP $)** to better capture cross-border income flows.
+40. In the pre-2010 HDI methodology, standard of living was measured by **GDP per capita (PPP USD)**; since 2010, the UNDP utilizes **GNI per capita (PPP USD)** to better capture cross-border income flows.
 41. The **Gender Inequality Index (GII)**, introduced in HDR 2010, evaluates gender disparities across three dimensions: reproductive health (MMR and adolescent birth rate), empowerment (parliamentary share and secondary education), and labor market participation.
 42. **Bhutan** introduced the concept of **Gross National Happiness (GNH)** in 1972, grounded in four pillars: sustainable socio-economic development, environmental conservation, preservation of culture, and good governance.
 43. The **World Happiness Report**, released by the UN Sustainable Development Solutions Network (SDSN), measures subjective life evaluations based on Gallup World Poll data, separate from the composite capability framework of the HDI.
@@ -90,7 +90,7 @@ Poverty line estimation & committees | Multidimensional Poverty Index (MPI) | Po
 
 | Concept A | Concept B | Core Conceptual Distinction |
 |---|---|---|
-| **Monetary / Income Poverty** | **Multidimensional Poverty Index (MPI)** | Income poverty tracks consumption or income against an absolute monetary line ($2.15/day or ₹816/₹1000); MPI measures acute deprivations across health, education, and living standards. |
+| **Monetary / Income Poverty** | **Multidimensional Poverty Index (MPI)** | Income poverty tracks consumption or income against an absolute monetary line (USD 2.15/day or ₹816/₹1000); MPI measures acute deprivations across health, education, and living standards. |
 | **Human Poverty Index (HPI, 1997)** | **Multidimensional Poverty Index (MPI, 2010)** | HPI used aggregate national-level deprivations; MPI evaluates simultaneous deprivations experienced at the individual household level. |
 | **Alagh Committee (1979)** | **Tendulkar (2009) & Rangarajan (2014)** | Alagh based the poverty line exclusively on minimum calorie intake; Tendulkar and Rangarajan incorporated broader expenditure baskets including health, education, and clothing. |
 | **Core HDI Dimensions** | **Environmental Quality** | HDI evaluates health, education, and income per capita; environmental sustainability is not an indicator within the standard HDI calculation. |
@@ -149,7 +149,7 @@ Poverty line estimation & committees | Multidimensional Poverty Index (MPI) | Po
 | Policy Concept / Mission | Key Milestone & Structural Dimension |
 |---|---|
 | **Inaugural Human Development Report** | Published in **1990** by UNDP; spearheaded by **Mahbub ul Haq**. |
-| **Core HDI Dimensions** | **Life expectancy at birth**, **mean & expected years of schooling**, and **GNI per capita (PPP $)**. |
+| **Core HDI Dimensions** | **Life expectancy at birth**, **mean & expected years of schooling**, and **GNI per capita (PPP USD)**. |
 | **Physical Quality of Life Index (PQLI)** | Developed by **Morris D. Morris** (mid-1970s); composite of literacy, IMR, and life expectancy at age 1. |
 | **Development Metrics Chronology** | **Per Capita Income (PCI) → PQLI → Human Development Index (HDI)**. |
 | **Capability Approach** | Propounded by **Amartya Sen**; defines poverty as capability deprivation. |
@@ -313,7 +313,7 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Explanation:** Statement 1 is correct: The global MPI was developed by UNDP and OPHI and introduced in the 2010 Human Development Report. Statement 2 is incorrect: The MPI is a non-monetary index measuring acute overlapping deprivations across health, education, and living standards; the income metric of living on less than $1/day (now $2.15/day) is the World Bank's international monetary extreme poverty line.
+**Explanation:** Statement 1 is correct: The global MPI was developed by UNDP and OPHI and introduced in the 2010 Human Development Report. Statement 2 is incorrect: The MPI is a non-monetary index measuring acute overlapping deprivations across health, education, and living standards; the income metric of living on less than USD 1/day (now USD 2.15/day) is the World Bank's international monetary extreme poverty line.
 
 **Ans: D.** Only 1
 
@@ -408,10 +408,10 @@ D. Vallabh Bhai Patel
   3. **Current Daily Status (CDS):** Measures employment day-by-day (in half-day units), capturing short-term underemployment.
 * **Labour Force:** The sum of all employed persons plus all unemployed persons actively seeking or available for employment.
 * **Labour Force Participation Rate (LFPR):** The percentage of the working-age population that is part of the labour force:
-  $$\text{LFPR} = \frac{\text{Labour Force}}{\text{Total Working-Age Population}} \times 100$$
+  > **Formula:** `LFPR = (Labour Force / Total Working-Age Population) × 100`
 * **Worker Population Ratio (WPR):** The percentage of employed persons relative to the total population.
 * **Unemployment Rate (UR):** The percentage of unemployed persons relative to the total labour force:
-  $$\text{UR} = \frac{\text{Unemployed Persons}}{\text{Labour Force}} \times 100$$
+  > **Formula:** `UR = (Unemployed Persons / Labour Force) × 100`
 * **Informal and Gig Employment:** The Indian economy features a high proportion of informal employment characterized by minimal social protection. Digital platform and gig work have introduced flexible labor arrangements, prompting social security frameworks under the Code on Social Security, 2020.
 
 ### The Demographic Dividend
@@ -456,16 +456,16 @@ D. Working population of 14 to 50 years
   2. **Knowledge:** Measured as the arithmetic mean of:
      * **Mean Years of Schooling** for adults aged 25 and older.
      * **Expected Years of Schooling** for school-age children.
-  3. **Decent Standard of Living:** Measured by **Gross National Income (GNI) per capita (PPP $)**. (Note: Post-2010 replaced GDP per capita with GNI per capita to reflect net primary cross-border income).
+  3. **Decent Standard of Living:** Measured by **Gross National Income (GNI) per capita (PPP USD)**. (Note: Post-2010 replaced GDP per capita with GNI per capita to reflect net primary cross-border income).
 * **Aggregation Method:** Computed as the **geometric mean** of the three normalized dimension indices:
-  $$\text{HDI} = \left(I_{\text{Health}} \times I_{\text{Education}} \times I_{\text{Income}}\right)^{\frac{1}{3}}$$
+  > **Formula:** `HDI = (I_Health × I_Education × I_Income)^(1/3)`
 * **Distinguishing Boundaries:** Environmental quality, political freedoms, and subjective well-being are excluded from the HDI calculation.
 
 ### Alternative Welfare Measures and Indices
 
 * **Physical Quality of Life Index (PQLI):** Formulated in 1979 by **Morris D. Morris** for the Overseas Development Council, averaging three non-income indicators: Infant Mortality Rate, Life Expectancy at Age 1, and Basic Literacy Rate.
 * **Historical Chronology of Progress Metrics:**
-  $$\text{Per Capita Income (PCI)} \longrightarrow \text{Physical Quality of Life Index (PQLI)} \longrightarrow \text{Human Development Index (HDI)}$$
+  > **Chronological Evolution:** `Per Capita Income (PCI) → Physical Quality of Life Index (PQLI) → Human Development Index (HDI)`
 * **Capability Approach:** Developed by Nobel laureate **Amartya Sen**, positing that economic development should be evaluated through the expansion of individuals' substantive capabilities (what people are actually able to do and be) rather than utility or commodity possession alone.
 * **Gender Inequality Index (GII):** Introduced in HDR 2010 to measure gender-based disparities across three dimensions: reproductive health (maternal mortality ratio and adolescent birth rate), empowerment (share of parliamentary seats and attainment of secondary education), and labor market participation.
 * **Gross National Happiness (GNH):** Coined in 1972 by Bhutan's Fourth King, Jigme Singye Wangchuck, measuring national progress through sustainable socio-economic development, cultural preservation, environmental protection, and good governance.
@@ -525,7 +525,7 @@ D. Only 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Explanation:** The Human Development Index (HDI) is computed from three core dimensions: a long and healthy life (life expectancy at birth), knowledge (mean and expected years of schooling), and a decent standard of living (Gross National Income per capita PPP $). Environmental conditions and sustainability are not included in the HDI formula.
+**Explanation:** The Human Development Index (HDI) is computed from three core dimensions: a long and healthy life (life expectancy at birth), knowledge (mean and expected years of schooling), and a decent standard of living (Gross National Income per capita (PPP USD)). Environmental conditions and sustainability are not included in the HDI formula.
 
 **Ans: C.** Only 1, 2 and 4
 
@@ -616,6 +616,7 @@ Demography involves the systematic study of human populations, analyzing size, c
 ### Classical Demographic Transition Model
 
 The demographic transition model delineates the long-term historical evolution of population growth through distinct phases:
+
 1. **Stage 1 (High Stationary):** High birth rates and high death rates; population growth is low and fluctuates with epidemics and famines.
 2. **Stage 2 (Early Expanding):** High birth rates coupled with sharply declining death rates due to advances in medicine, food security, and sanitation; leads to a rapid population explosion.
 3. **Stage 3 (Late Expanding):** Falling birth rates alongside low death rates; population growth continues but at a decelerating rate.
@@ -624,13 +625,13 @@ The demographic transition model delineates the long-term historical evolution o
 
 * **India's Demographic Phase:** India has transitioned through Stage 2 and is currently positioned in **Stage 3 (Late Expanding)**, characterized by declining fertility rates and slowing population growth.
 * **Natural Population Growth:** Calculated strictly as:
-  $$\text{Natural Growth Rate} = \text{Crude Birth Rate (CBR)} - \text{Crude Death Rate (CDR)}$$
+  > **Formula:** `Natural Growth Rate = Crude Birth Rate (CBR) − Crude Death Rate (CDR)`
   *(Note: Natural growth excludes the effect of net international or domestic migration).*
 
 ### Malthusian Theory of Population
 
 * **Thomas Robert Malthus** published his influential work *An Essay on the Principle of Population* in **1798**.
-* **Key Proposition:** Population, when unchecked, tends to grow in **geometric progression** ($1, 2, 4, 8, 16 \dots$), whereas food and agricultural production increases only in **arithmetic progression** ($1, 2, 3, 4, 5 \dots$).
+* **Key Proposition:** Population, when unchecked, tends to grow in **geometric progression** (1, 2, 4, 8, 16...), whereas food and agricultural production increases only in **arithmetic progression** (1, 2, 3, 4, 5...).
 * **Checks on Population:**
   * **Positive Checks:** Natural and violent correctives such as famines, wars, diseases, and epidemics that elevate the death rate.
   * **Preventive Checks:** Voluntary human measures such as moral restraint, delayed marriage, and birth control to curb the birth rate.
@@ -664,6 +665,7 @@ Urbanization denotes the spatial reallocation of population from rural to urban 
 ### Census of India Criteria for Urban Settlements
 
 The Census classifies settlements into two statutory categories:
+
 1. **Statutory Towns:** All places with a municipality, municipal corporation, cantonment board, or notified town area committee established by law.
 2. **Census Towns:** Settlements that satisfy all three of the following demographic criteria simultaneously:
    * A minimum total population of **5,000 persons**.
@@ -4613,6 +4615,7 @@ D. Level of mutual trust and harmony in society
 
 **Q21. I.A.S. (Pre) 2018**
 Human capital formation enables:
+
 1. Individuals to accumulate more capital
 2. Increasing knowledge, skill levels and capacities
 3. Accumulation of tangible wealth
@@ -4744,6 +4747,7 @@ D. Adequate credit to farmers
 
 **Q29. I.A.S. (Pre) 2012**
 Which are essentially parts of Inclusive Governance?
+
 1. Permitting NBFCs to do banking
 2. Effective District Planning Committees
 3. Increasing government spending on public health
@@ -4764,6 +4768,7 @@ D. 1, 2, 3 and 4
 
 **Q30. I.A.S. (Pre) 2011**
 Which can aid inclusive growth?
+
 1. Promoting SHGs
 2. Promoting MSMEs
 3. Implementing RTE Act
@@ -9486,4 +9491,4 @@ D. Union Ministry of Finance direct tax buoyancy projections
 * **MGNREGA Core Guarantee:** Guarantees 100 days of unskilled wage work per rural household per year as a legal entitlement; enacted in 2005, effective 2 February 2006, renamed 2 October 2009.
 * **Atal Pension Yojana (APY):** Targets unorganised sector workers; upon the subscriber's demise, the monthly pension continues automatically to the surviving spouse.
 * **Swachh Bharat Mission (SBM):** Focuses on universal sanitation, hygiene, and ODF status (launched 2 October 2014); distinct from the piped drinking water mandate of the Jal Jeevan Mission.
-* **Multidimensional Poverty Index (MPI):** Evaluates non-monetary deprivations across 10 indicators; distinct from the World Bank's monetary extreme poverty line ($2.15/day).
+* **Multidimensional Poverty Index (MPI):** Evaluates non-monetary deprivations across 10 indicators; distinct from the World Bank's monetary extreme poverty line (USD 2.15/day).

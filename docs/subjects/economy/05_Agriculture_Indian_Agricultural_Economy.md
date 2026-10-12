@@ -61,10 +61,10 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
 20. In Net Irrigated Area across India, the source-wise share is: **Tube-wells & Wells (~62%–64%)**, followed by **Canals (~23%–25%)**, and **Tanks (~3%–4%)**.
 21. **Uttar Pradesh** possesses the largest canal network and largest tube-well irrigated area in absolute terms in India; **Tamil Nadu and Andhra Pradesh** lead in **Tank irrigation**.
 22. The **Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)** was launched in **2015** with the motto *"Har Khet Ko Pani"* and *"Per Drop More Crop"* (focused on micro-irrigation: drip and sprinkler).
-23. The ideal, scientifically balanced consumption ratio of **NPK fertilizers** is **4 : 2 : 1** ($N:P:K$); in high-subsidy states like Punjab and Haryana, the actual consumption ratio has severely skewed to over **8 : 3 : 1**.
+23. The ideal, scientifically balanced consumption ratio of **NPK fertilizers** is **4 : 2 : 1** (N:P:K); in high-subsidy states like Punjab and Haryana, the actual consumption ratio has severely skewed to over **8 : 3 : 1**.
 24. **Urea** is the ONLY fertilizer whose **Maximum Retail Price (MRP) is statutorily fixed** by the Central Government; the difference between the normative delivered cost and the controlled MRP is paid as subsidy directly to manufacturers.
 25. **Neem Coated Urea (NCU)** was made **100% mandatory** for all indigenous and imported agricultural urea in **2015**; it prevents illegal diversion to chemical industries and improves Nitrogen Use Efficiency (NUE) by slowing degradation.
-26. The **Nutrient Based Subsidy (NBS)** scheme was introduced on **1 April 2010** for non-urea P&K fertilizers (**DAP, MOP, Complex fertilizers**), where government fixes an annual per-kg subsidy based on nutrient content ($N, P, K, S$), while MRPs are decontrolled.
+26. The **Nutrient Based Subsidy (NBS)** scheme was introduced on **1 April 2010** for non-urea P&K fertilizers (**DAP, MOP, Complex fertilizers**), where government fixes an annual per-kg subsidy based on nutrient content (N, P, K, S), while MRPs are decontrolled.
 27. India is **100% import-dependent** for **Potassic fertilizers (Muriate of Potash - MOP)** as India has no commercially exploitable potash reserves.
 28. The world's first commercial **Nano Liquid Urea** and **Nano DAP** plants were established by **IFFCO** at **Kalol, Gujarat**.
 29. **PM-PRANAM** (PM Programme for Restoration, Awareness, Nourishment and Amelioration of Mother Earth) was announced in Union Budget 2023–24 to incentivise states to promote alternative fertilizers and reduce chemical fertilizer usage.
@@ -101,7 +101,7 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
 | **Cost A2+FL vs Cost C2** | **A2+FL:** Paid expenses + family labor value (Govt 1.5x formula).<br>**C2:** Comprehensive cost (+ land rent & interest on capital). | Swaminathan Commission recommended C2 + 50%, NOT A2+FL. | A2+FL (सरकारी आधार) / C2 (स्वामीनाथन सिफारिश) |
 | **CACP vs CCEA** | **CACP:** *Recommends* MSP (Advisory body, 1965).<br>**CCEA:** Apex body that *approves and announces* MSP (Chaired by PM). | Do NOT mark CACP as the final approving body for MSP. | CACP (सलाहकार) / CCEA (अंतिम निर्णय) |
 | **MSP vs FRP** | **MSP:** Announced for 22 mandated agricultural crops.<br>**FRP:** Statutory price fixed under Essential Commodities Act for **Sugarcane**. | FRP is unique to Sugarcane; grains/pulses have MSP. | MSP (22 फसलें) / FRP (गन्ना) |
-| **Urea Subsidy vs NBS** | **Urea:** MRP is statutorily fixed by Govt; difference paid as subsidy.<br>**NBS (2010):** Annual subsidy fixed per kg ($N, P, K, S$); MRP decontrolled. | Non-urea fertilizers do NOT have statutory MRP control. | यूरिया (नियंत्रित) / NBS (अनियंत्रित MRP) |
+| **Urea Subsidy vs NBS** | **Urea:** MRP is statutorily fixed by Govt; difference paid as subsidy.<br>**NBS (2010):** Annual subsidy fixed per kg (N, P, K, S); MRP decontrolled. | Non-urea fertilizers do NOT have statutory MRP control. | यूरिया (नियंत्रित) / NBS (अनियंत्रित MRP) |
 | **NABARD vs RBI in Agri Credit** | **NABARD (1982):** Apex developmental refinancing institution for agriculture.<br>**RBI:** Central monetary regulator fixing PSL norms (18% ANBC). | NABARD does NOT give direct loans to retail individual farmers. | नाबार्ड (पुनर्वित्त) / वाणिज्यिक बैंक (प्रत्यक्ष ऋण) |
 | **e-NAM vs APMC** | **APMC:** Physical state-level agricultural produce market committees.<br>**e-NAM:** Pan-India electronic networking portal aggregating APMCs. | e-NAM does NOT abolish physical mandis; it integrates them digitally. | APMC (भौतिक मंडी) / e-NAM (डिजिटल पोर्टल) |
 | **Amber Box vs Green Box** | **Amber Box:** Trade-distorting subsidies (MSP, input subsidies; capped at 10%).<br>**Green Box:** Non-trade distorting (R&D, disaster relief; allowed without limit). | MSP procurement falls in the Amber Box, NOT the Green Box. | अंबर बॉक्स (व्यापार विकृत) / ग्रीन बॉक्स (स्वीकृत) |
@@ -151,7 +151,7 @@ MSP / revolutions / NFSA scheme depth → [Topic 6](06_Agricultural_Policies_Sch
   3. High transaction costs for institutional credit delivery.
   4. Farmers remain vulnerable to climate volatility, price shocks, and local moneylenders.
 
-> **Logic:** Remember the cut-off thresholds for UPPSC: Marginal is $<1	ext{ ha}$; Small is $1-2	ext{ ha}$; Semi-Medium is $2-4	ext{ ha}$; Medium is $4-10	ext{ ha}$; Large is $\ge 10	ext{ ha}$. Over 86% of Indian farmers are Small or Marginal!
+> **Logic:** Remember the cut-off thresholds for UPPSC: Marginal is < 1 hectare; Small is 1–2 hectares; Semi-Medium is 2–4 hectares; Medium is 4–10 hectares; Large is ≥ 10 hectares. Over 86% of Indian farmers are Small or Marginal!
 
 **Inline PYQ**
 
@@ -181,21 +181,21 @@ D. Medium Farmer
   - **Net Sown Area (NSA):** The total physical land area sown with crops at least once in an agricultural year (~139–140 million hectares in India).
   - **Gross Cropped Area (GCA):** Total area sown once as well as more than once in the year (~198–200 million hectares).
   - **Cropping Intensity (शस्य सघनता):** Calculated as:
-    $$\text{Cropping Intensity} = \left( \frac{\text{Gross Cropped Area}}{\text{Net Sown Area}} \right) \times 100$$
+    > **Formula:** `Cropping Intensity = (Gross Cropped Area / Net Sown Area) × 100`
     India's average cropping intensity is approximately **~142%–143%**. **Punjab** records the highest cropping intensity (>190%), while rainfed dryland states record lower ratios (~115%–125%).
 
 ### Detailed Crop Profiles & Leading State Producers
 
 #### 1. Rice (चावल / Paddy - *Oryza sativa*)
 - **Status:** Primary staple food crop of India; occupies the largest gross cropped area (~47 million hectares).
-- **Agro-climatic Needs:** Warm and humid tropical climate; mean temperature $22^{\circ}\text{C} - 32^{\circ}\text{C}$; annual rainfall $100 - 200\text{ cm}$; deep clayey or loamy alluvial soils with water-retaining capacity.
+- **Agro-climatic Needs:** Warm and humid tropical climate; mean temperature 22°C – 32°C; annual rainfall 100 cm – 200 cm; deep clayey or loamy alluvial soils with water-retaining capacity.
 - **Leading Producers:** **West Bengal (1st)**, **Uttar Pradesh (2nd)**, **Punjab (3rd)**.
 - **Productivity Champion:** **Punjab** records the highest yield per hectare (>4,300 kg/ha) due to 100% canal and tube-well irrigation and high fertilizer consumption.
 - **Aus, Aman, Boro:** In West Bengal, Assam, and Odisha, three seasonal rice crops are harvested in a single year: **Aus** (autumn rice, sown May/June), **Aman** (winter rice, sown June/July), and **Boro** (summer rice, sown Nov/Dec).
 
 #### 2. Wheat (गेहूं - *Triticum aestivum*)
 - **Status:** Second most crucial cereal crop; backbone of northern India's food security and public distribution system.
-- **Agro-climatic Needs:** Temperate rabi crop; cool growing period ($10^{\circ}\text{C} - 15^{\circ}\text{C}$) and warm sunny weather during ripening ($20^{\circ}\text{C} - 25^{\circ}\text{C}$); rainfall $50 - 75\text{ cm}$; well-drained fertile loamy soils.
+- **Agro-climatic Needs:** Temperate rabi crop; cool growing period (10°C – 15°C) and warm sunny weather during ripening (20°C – 25°C); rainfall 50 cm – 75 cm; well-drained fertile loamy soils.
 - **Western Disturbances (पश्चिमी विक्षोभ):** Light winter cyclonic rainfall in December–January across Punjab, Haryana, and Western UP is extremely beneficial for wheat tillering and grain filling.
 - **Leading Producers:** **Uttar Pradesh (1st in absolute output ~32%–34% of national total)**, **Madhya Pradesh (2nd)**, **Punjab (3rd)**.
 - **Productivity Champion:** **Punjab and Haryana** lead in yield (>4,800 kg/ha).
@@ -299,14 +299,14 @@ D. Others
   3. **Certified Seed (प्रमाणित बीज):** Progeny of foundation seed certified by State Seed Certification Agencies and sold directly to commercial farmers; tagged with **Azure Blue label**.
 
 ### B. Chemical Fertilizers & Subsidy Mechanisms
-- **Recommended NPK Ratio:** **4 : 2 : 1** ($N:P:K$). Actual consumption in several high-yield states has skewed past **8:3:1** due to disproportionate urea subsidization.
+- **Recommended NPK Ratio:** **4 : 2 : 1** (N:P:K). Actual consumption in several high-yield states has skewed past **8:3:1** due to disproportionate urea subsidization.
 - **1. Urea Subsidy Regime:**
   - Urea is the **only fertilizer remaining under statutory price control (fixed statutory MRP)**.
   - The difference between the delivered cost of production of urea and its government-notified retail price is disbursed directly to urea manufacturers as a subsidy under the **New Urea Policy (NUP)**.
   - **100% Mandatory Neem Coated Urea (NCU, 2015):** Mandatory coating with neem oil slows nitrification in soil, preventing groundwater leaching and eliminating illegal diversion of subsidized urea to chemical, paint, and plywood industries.
 - **2. Nutrient Based Subsidy (NBS) Scheme (2010):**
   - Introduced in **April 2010** under the Department of Fertilizers for non-urea P&K fertilizers (**DAP, MOP, NPK complexes, Single Super Phosphate - SSP**).
-  - Central Government announces a **fixed annual per-kilogram subsidy** for each nutrient ($N$, $P$, $K$, and Sulphur $S$).
+  - Central Government announces a **fixed annual per-kilogram subsidy** for each nutrient (N, P, K, and Sulphur S).
   - **MRPs of P&K fertilizers are decontrolled** and determined by market dynamics and global raw material costs.
   - **Potash Import Dependence:** India possesses **zero commercially extractable reserves of Potash** and is **100% dependent on imports** for Muriate of Potash (MOP).
 - **3. Nano Fertilizers:**
@@ -318,6 +318,7 @@ D. Others
 **Inline PYQ**
 
 Regarding the Nutrient Based Subsidy (NBS) scheme for fertilizers in India, consider the following:
+
 1. It applies to all chemical fertilizers including Urea.
 2. Under NBS, the MRP of non-urea P&K fertilizers is determined by fertilizer companies.
 
@@ -673,7 +674,7 @@ Extra Drill rebuilt from the former mixed RO/ARO–BPSC–UPSC–coaching bank (
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Marginal holdings are defined as $<1.00 ext{ ha}$.
+**Logic:** Marginal holdings are defined as < 1.00 hectare.
 
 **Ans: (A) Marginal Holding.**
 

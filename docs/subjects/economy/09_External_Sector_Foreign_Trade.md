@@ -42,7 +42,7 @@ Foreign trade structure & Balance of Trade (BoT) | Balance of Payments (BoP) acc
 10. India consistently runs a structural **merchandise trade deficit**, which is partially counterbalanced by a structural surplus in **invisible services exports (IT/BPO)** and **private remittances**.
 11. **Invisible trade** encompasses non-merchandise external earnings, including computer software services, business consulting, international tourism, transportation, and intellectual property royalties.
 12. **Inward remittances** are private transfers sent by overseas non-resident workers to their home countries, classified as secondary income credits on the current account.
-13. India has consistently ranked as the **largest global recipient of remittances**, receiving over $110 billion annually according to World Bank Migration and Development Briefs.
+13. India has consistently ranked as the **largest global recipient of remittances**, receiving over USD 110 billion annually according to World Bank Migration and Development Briefs.
 14. The **Capital Account** records all international asset transactions that alter the external asset or liability status of a nation's residents or sovereign government.
 15. **Foreign Direct Investment (FDI)** represents a lasting foreign capital investment wherein the overseas investor acquires a significant degree of management influence or ownership control (conventionally defined as 10% or more of voting equity).
 16. **Foreign Portfolio Investment (FPI)** represents passive investments in financial securities such as equities, corporate bonds, and government securities without acquiring active managerial control.
@@ -61,7 +61,7 @@ Foreign trade structure & Balance of Trade (BoT) | Balance of Payments (BoP) acc
 29. **Currency devaluation** represents a deliberate, official downward adjustment of a nation's currency value by monetary authorities under a fixed or pegged exchange rate system.
 30. **Currency revaluation** represents a deliberate, official upward adjustment of a nation's currency value by monetary authorities under a fixed exchange rate system.
 31. Currency depreciation or devaluation makes domestic exports relatively **cheaper and more competitive** in foreign markets, while rendering imported foreign goods more **expensive** in domestic currency.
-32. The **Marshall-Lerner Condition** establishes that currency devaluation or depreciation will improve a nation's trade balance only if the sum of price elasticities of demand for exports and imports exceeds unity ($|e_x + e_m| > 1$).
+32. The **Marshall-Lerner Condition** establishes that currency devaluation or depreciation will improve a nation's trade balance only if the sum of price elasticities of demand for exports and imports exceeds unity (|e_x + e_m| > 1).
 33. The **J-Curve Effect** demonstrates that following a currency devaluation, the trade balance often deteriorates in the short run due to pre-existing import contracts before improving over the medium term.
 34. The **Nominal Effective Exchange Rate (NEER)** is an unadjusted weighted average value of a currency relative to an index of trading partner currencies.
 35. The **Real Effective Exchange Rate (REER)** is the NEER adjusted for inflation differentials between the domestic economy and its major trading partners; a rising REER signifies an erosion of trade competitiveness.
@@ -77,7 +77,7 @@ Foreign trade structure & Balance of Trade (BoT) | Balance of Payments (BoP) acc
 45. The **World Trade Organization (WTO)** was established on **1 January 1995** under the Marrakesh Agreement, superseding the General Agreement on Tariffs and Trade (GATT, 1947).
 46. The WTO is headquartered in **Geneva, Switzerland**, and operates a legally binding **Dispute Settlement Body (DSB)** with panel and appellate review mechanisms.
 47. The WTO's supreme decision-making body is the **Ministerial Conference**, which convenes at least once every two years; recent conferences include MC-12 in Geneva (2022) and **MC-13 in Abu Dhabi (2024)**.
-48. India's **Foreign Trade Policy (FTP 2023)** replaced traditional incentive-driven export subsidy programs with remission-based frameworks (e.g., RoDTEP and RoSCTL), targeting **$2 trillion in total exports by 2030** ($1 trillion in merchandise and $1 trillion in services).
+48. India's **Foreign Trade Policy (FTP 2023)** replaced traditional incentive-driven export subsidy programs with remission-based frameworks (e.g., RoDTEP and RoSCTL), targeting **USD 2 trillion in total exports by 2030** (USD 1 trillion in merchandise and USD 1 trillion in services).
 49. The **Directorate General of Foreign Trade (DGFT)** under the Ministry of Commerce and Industry serves as the nodal statutory body responsible for formulating and administering India's Foreign Trade Policy.
 50. **Special Economic Zones (SEZs)**, institutionalized under the SEZ Act of 2005, operate as duty-free enclaves treated as foreign territory for trade operations, duties, and tariffs to promote export-led manufacturing and services.
 
@@ -123,7 +123,7 @@ Foreign trade structure & Balance of Trade (BoT) | Balance of Payments (BoP) acc
 | **India's Current Account Convertibility** | Formally accepted under **Article VIII of the IMF in August 1994**. |
 | **Tarapore Committees on Full CAC** | Formed in **1997 and 2006** to outline fiscal and banking prerequisites for capital account convertibility. |
 | **Foreign Exchange Reserves Composition** | Foreign Currency Assets (FCA) + Gold + Special Drawing Rights (SDRs) + Reserve Tranche Position (RTP). |
-| **India's Foreign Trade Policy (FTP 2023)** | Adopted by DGFT; targets **$2 trillion in total exports by 2030** through remission and facilitation. |
+| **India's Foreign Trade Policy (FTP 2023)** | Adopted by DGFT; targets **USD 2 trillion in total exports by 2030** through remission and facilitation. |
 
 </details>
 
@@ -143,8 +143,8 @@ International trade represents the economic interchange of goods, services, and 
 
 ### Balance of Trade (BoT)
 
-* **Definition:** The mathematical difference between the monetary value of merchandise exports ($X_m$) and merchandise imports ($M_m$) over an accounting period:
-  $$\text{BoT} = X_m - M_m$$
+* **Definition:** The mathematical difference between the monetary value of merchandise exports (X_m) and merchandise imports (M_m) over an accounting period:
+  > **Formula:** `BoT = Exports (X_m) − Imports (M_m)`
 * **Scope:** Captures physical, visible goods exclusively; it does not incorporate services, interest, dividends, or remittances.
 * **Structural Reality:** A trade surplus denotes visible exports exceeding visible imports; a trade deficit denotes merchandise imports exceeding exports. India historically operates with a merchandise trade deficit.
 
@@ -152,11 +152,12 @@ International trade represents the economic interchange of goods, services, and 
 
 * **Comprehensive Scope:** The Balance of Payments is a systematic double-entry statistical ledger recording all economic transactions between residents of a country and non-residents over a designated year.
 * **Accounting Identity:** Under standard double-entry bookkeeping, every transaction involves an offsetting credit and debit. The overall Balance of Payments identity algebraically balances:
-  $$\text{Current Account Balance} + \text{Capital Account Balance} + \text{Financial Account Balance} + \text{Errors and Omissions} = 0$$
+  > **Identity:** `Current Account Balance + Capital Account Balance + Financial Account Balance + Errors and Omissions = 0`
 
 ### The Current Account
 
 The Current Account records international economic transactions that do not alter the external asset or liability status of a country. It encompasses four major components:
+
 1. **Merchandise Trade (Goods):** Exports and imports of physical goods.
 2. **Services (Invisibles):** Software services, travel and tourism, maritime transportation, telecommunications, insurance, and financial services.
 3. **Primary Income:** Cross-border compensation of employees and net investment income (profits, dividends, and debt service interest).
@@ -165,6 +166,7 @@ The Current Account records international economic transactions that do not alte
 ### The Capital Account
 
 The Capital Account (and Financial Account) tracks transactions resulting in the acquisition or disposal of foreign assets and liabilities by domestic residents:
+
 * **Foreign Direct Investment (FDI):** Non-resident capital equity investment in domestic enterprises involving managerial control or long-term interest.
 * **Foreign Portfolio Investment (FPI):** Cross-border financial investments in corporate shares, government securities, and bonds.
 * **External Commercial Borrowings (ECBs):** Medium- and long-term commercial loans raised by domestic companies from international capital markets.
@@ -173,7 +175,7 @@ The Capital Account (and Financial Account) tracks transactions resulting in the
 
 ### Trade Deficit vs Current Account Deficit (CAD)
 
-* The **trade deficit** measures only the shortfall in visible merchandise trade ($X_m - M_m$).
+* The **trade deficit** measures only the shortfall in visible merchandise trade (Exports − Imports).
 * The **Current Account Deficit (CAD)** represents the net deficit of the entire current account after offsetting the merchandise trade gap against invisible services exports, primary income, and private remittances.
 * Financing a CAD requires net capital inflows (through FDI, FPI, or foreign borrowings) or a compensatory drawdown of official foreign exchange reserves.
 
@@ -206,6 +208,7 @@ Foreign exchange reserves represent the official liquid assets denominated in fo
 ### Composition of India's Foreign Exchange Reserves
 
 The RBI holds foreign exchange reserves in four distinct asset categories:
+
 1. **Foreign Currency Assets (FCA):** The dominant component (comprising approximately 85–90%), invested in US Treasury bonds, sovereign government securities, and liquid deposits with foreign central banks.
 2. **Gold:** Physical gold held at the RBI and overseas with the Bank of England and Bank for International Settlements (BIS).
 3. **Special Drawing Rights (SDRs):** International reserve assets created by the IMF in 1969 to supplement member countries' official reserves.
@@ -225,8 +228,8 @@ The RBI holds foreign exchange reserves in four distinct asset categories:
 
 ### Exchange Rate Terminologies
 
-* **Appreciation:** An increase in the market value of the domestic currency relative to foreign currencies under a floating exchange rate mechanism (e.g., Rupee moving from ₹84/$ to ₹80/$).
-* **Depreciation:** A decrease in the market value of the domestic currency relative to foreign currencies under a floating exchange rate mechanism (e.g., Rupee moving from ₹80/$ to ₹84/$).
+* **Appreciation:** An increase in the market value of the domestic currency relative to foreign currencies under a floating exchange rate mechanism (e.g., Rupee moving from ₹84/USD  to ₹80/USD ).
+* **Depreciation:** A decrease in the market value of the domestic currency relative to foreign currencies under a floating exchange rate mechanism (e.g., Rupee moving from ₹80/USD  to ₹84/USD ).
 * **Devaluation:** An official, deliberate administrative reduction in the fixed exchange parity of the domestic currency enacted by monetary authorities under a pegged exchange rate system.
 * **Revaluation:** An official, deliberate administrative upward adjustment in the fixed exchange parity of the domestic currency enacted by monetary authorities under a pegged exchange rate system.
 * **Trade Effects:** Currency depreciation or devaluation makes domestic exports more price-competitive abroad while making foreign imports more expensive domestically, which works to improve the trade balance subject to the Marshall-Lerner condition.
@@ -309,7 +312,7 @@ Capital flows finance national current account deficits, augment domestic capita
 * **BoP Recording:** Recorded as secondary income credits under the Current Account.
 * **Significance:** Remittances represent a non-debt-creating external financial flow that directly bolsters foreign exchange reserves and household consumption.
 * **Top Recipient Nations (World Bank 2022 Ranking):**
-  1. **India** (over $100 billion)
+  1. **India** (over USD 100 billion)
   2. **Mexico**
   3. **China**
   4. **Philippines**

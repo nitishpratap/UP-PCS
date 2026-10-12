@@ -481,7 +481,7 @@
       const loginBtn = document.createElement('button');
       loginBtn.id = 'st-header-lock-btn';
       loginBtn.className = 'st-header-lock-btn';
-      loginBtn.innerHTML = `🔒 Sign In`;
+      loginBtn.innerHTML = `🔒 <span class="st-header-lock-label">Sign In</span>`;
       loginBtn.title = 'Authenticate to access study vault';
       loginBtn.addEventListener('click', (e) => {
         e.preventDefault();
@@ -553,7 +553,7 @@
       adminLink.id = 'st-header-admin-direct-btn';
       adminLink.className = 'st-header-admin-link';
       adminLink.href = resolveAdminPageUrl();
-      adminLink.innerHTML = `👑 Admin Console`;
+      adminLink.innerHTML = `👑 <span class="st-header-admin-label">Admin Console</span>`;
       adminLink.title = 'Open Dedicated Admin Control Center';
       if (insertRef) {
         headerInner.insertBefore(adminLink, insertRef);

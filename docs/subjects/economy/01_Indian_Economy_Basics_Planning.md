@@ -45,9 +45,9 @@ Salient features of the Indian economy | Economic growth vs economic development
 9. An increase in **per capita income is necessary but not sufficient** for economic development. A rise in real national income fails to represent development if levels of poverty, unemployment, and socio-economic deprivation deteriorate simultaneously.
 10. The **"Hindu rate of growth"**, a concept formulated by renowned economist **Prof. Raj Krishna** in 1978, describes the stagnant annual growth rate of the Indian economy (averaging ~**3.5%** for GDP and ~1.3% for per capita income) between the 1950s and early 1980s, reflecting rigid bureaucratic controls rather than cultural characteristics.
 11. **Gross Domestic Product (GDP)** measures the total market value of all **final** goods and services produced within the geographic boundaries (domestic territory) of a country during a specified financial year.
-12. **Gross National Product (GNP / GNI)** incorporates cross-border earnings by residents, defined as GDP adjusted for **Net Factor Income from Abroad (NFIA)**: $\text{GNP} = \text{GDP} + \text{NFIA}$.
-13. **Net Domestic Product (NDP)** is calculated by deducting depreciation (consumption of fixed capital) from GDP: $\text{NDP} = \text{GDP} - \text{Depreciation}$. Similarly, **Net National Product (NNP)** equals $\text{GNP} - \text{Depreciation}$.
-14. In classical Indian national accounts methodology, **National Income (NI)** is formally defined as **Net National Product at factor cost (NNP_FC)**: $\text{NNP}_{\text{FC}} = \text{NNP}_{\text{MP}} - \text{Indirect Taxes} + \text{Subsidies}$.
+12. **Gross National Product (GNP / GNI)** incorporates cross-border earnings by residents, defined as GDP adjusted for **Net Factor Income from Abroad (NFIA)**: **GNP = GDP + NFIA**.
+13. **Net Domestic Product (NDP)** is calculated by deducting depreciation (consumption of fixed capital) from GDP: **NDP = GDP − Depreciation**. Similarly, **Net National Product (NNP)** equals **GNP − Depreciation**.
+14. In classical Indian national accounts methodology, **National Income (NI)** is formally defined as **Net National Product at factor cost (NNP_FC)**: **NNP_FC = NNP_MP − Indirect Taxes + Subsidies**.
 15. **Real GDP** evaluates output using constant (base-year) prices, thereby eliminating the distorting impact of inflation. In contrast, **Nominal GDP** is computed using **current prevailing market prices**.
 16. The **base year** designates the reference benchmark period whose prices are utilized to calculate constant-price real economic series. Effective **February 2026**, MoSPI revised the National Accounts base year to **2022–23** (replacing the former **2011–12** base year).
 17. The three standard macroeconomic methods for estimating national income are the **Production (Value Added) Method**, the **Income Method**, and the **Expenditure Method**. Methods such as the "diminishing-cost method" are fictitious distractors not recognized in national accounting.
@@ -93,7 +93,7 @@ Salient features of the Indian economy | Economic growth vs economic development
 | Concept A | Concept B | Conceptual Distinction & Mechanics | Key Memorization Anchor |
 |---|---|---|---|
 | **Economic Growth** | **Economic Development** | Growth is a quantitative increase in output (real GDP/PCI); Development is qualitative, measuring living standards, health, and welfare. | Growth = Output expansion; Development = Human well-being |
-| **Gross Domestic Product (GDP)** | **Gross National Product (GNP)** | GDP measures output within geographic borders; GNP measures output by citizens/residents globally ($\text{GNP} = \text{GDP} + \text{NFIA}$). | GDP = Location; GNP = Nationality |
+| **Gross Domestic Product (GDP)** | **Gross National Product (GNP)** | GDP measures output within geographic borders; GNP measures output by citizens/residents globally (GNP = GDP + NFIA). | GDP = Location; GNP = Nationality |
 | **Nominal GDP** | **Real GDP** | Nominal evaluates goods at current prevailing prices; Real evaluates output at constant base-year prices to remove price distortion. | Nominal = Current prices; Real = Base-year constant prices |
 | **GDP Deflator** | **Consumer Price Index (CPI)** | Deflator reflects price changes across all domestically produced goods/services; CPI tracks prices of a fixed consumer basket. | Deflator = Comprehensive output; CPI = Retail household consumption |
 | **Planning Commission** | **NITI Aayog** | Planning Commission allocated plan funds directly to ministries and states; NITI Aayog is a policy think tank without financial allocation powers. | Planning = Allocation body (1950–2014); NITI = Think tank (2015+) |
@@ -113,7 +113,7 @@ Salient features of the Indian economy | Economic growth vs economic development
 | **Mixed Economy** | **Pure Capitalist / Socialist** | Mixed economy combines public ownership with private private enterprise; pure systems rely entirely on markets or state commands. | Mixed = Public + Private coexistence |
 | **Rajiv Gandhi Deregulation** | **1991 Rao-Manmohan LPG** | Mid-1980s was early selective delicensing; July 1991 was systemic structural opening and crisis-driven liberalization. | 1980s = First phase delicensing; 1991 = Complete structural LPG |
 | **Governors in NITI Council** | **Chief Ministers & Lt Govs** | State Governors are excluded from NITI's Governing Council; only Chief Ministers and Union Territory administrators participate. | Governors are NOT members of NITI Governing Council |
-| **National Income Identity** | **NNP at Market Price** | National Income is officially NNP at **Factor Cost** ($NNP_{FC}$), which subtracts net indirect taxes from market value. | $NI = NNP_{FC}$, not $NNP_{MP}$ |
+| **National Income Identity** | **NNP at Market Price** | National Income is officially NNP at **Factor Cost** (NNP_FC), which subtracts net indirect taxes from market value. | NI = NNP_FC, not NNP_MP |
 | **Real GDP Base Year** | **2011–12 vs 2022–23** | Previous historical base was 2011–12; MoSPI revised the benchmark series to **2022–23** effective February 2026. | Current base year = 2022–23 |
 | **"Hindu Rate of Growth"** | **Demographic Growth Rate** | Coined by Prof. Raj Krishna for ~3.5% national output stagnation between 1950s–1980s; it does not measure population growth. | Refers to GDP stagnation (~3.5%), not demographics |
 | **Real Sector** | **Financial Sector** | Real sector involves physical production (agriculture, textiles, factories); financial sector covers intermediation (banks, credit, securities). | Real = Physical goods/services; Financial = Capital/banking |
@@ -157,7 +157,7 @@ Salient features of the Indian economy | Economic growth vs economic development
 | **India Vision 2020** | Drafted by the S.P. Gupta Committee under the Planning Commission |
 | **Fiscal Health Index 2025** | Odisha ranked 1st among major States; Uttar Pradesh scored 45.9 (7th) |
 | **India Innovation Index 2019–21** | Karnataka ranked 1st among major States |
-| **National Income Formal Definition** | Net National Product at Factor Cost ($NNP_{FC}$) |
+| **National Income Formal Definition** | Net National Product at Factor Cost (NNP_FC) |
 | **Mixed Economy Definition** | Simultaneous coexistence and coordination of public and private sectors |
 | **"Hindu Rate of Growth"** | Coined by Prof. Raj Krishna for ~3.5% GDP growth from 1950s to early 1980s |
 | **National Accounts Base Year** | Base year 2022–23 (notified February 2026, replacing 2011–12) |
@@ -267,29 +267,39 @@ D. (A) is true, but (R) is false.
 **National income accounting** measures the monetary value of aggregate economic activity within a country over an accounting period (typically a financial year from 1 April to 31 March).
 
 ### Core Aggregates and Formulas
-- **Gross Domestic Product (GDP):** Total market value of all final goods and services produced within the geographic boundaries (domestic territory) of a country in a year.
-  $$\text{GDP} = C + I + G + (X - M)$$
-  *(where $C$ = Private Consumption, $I$ = Gross Investment, $G$ = Government Spending, and $X - M$ = Net Exports).*
+
+- **Gross Domestic Product (GDP):** Total market value of all final goods and services produced within the geographic boundaries (domestic territory) of a country in a year:
+    > **GDP = C + I + G + (X − M)**  
+    > *(where C = Private Consumption, I = Gross Investment, G = Government Spending, and X − M = Net Exports)*
+
 - **Gross National Product (GNP):** Output produced by the permanent residents of a country, regardless of where production takes place. It adjusts GDP for **Net Factor Income from Abroad (NFIA)**:
-  $$\text{GNP} = \text{GDP} + \text{NFIA}$$
+    > **GNP = GDP + NFIA**
+
 - **Net Domestic Product (NDP) & Net National Product (NNP):** Fixed capital assets wear out during production. Subtracting depreciation (consumption of fixed capital) yields net aggregates:
-  $$\text{NDP} = \text{GDP} - \text{Depreciation}$$
-  $$\text{NNP} = \text{GNP} - \text{Depreciation}$$
-- **National Income (NI) Proper:** In Indian national accounting conventions, official National Income corresponds to **Net National Product at factor cost ($NNP_{FC}$)**:
-  $$\text{NNP}_{\text{FC}} = \text{NNP}_{\text{MP}} - \text{Net Indirect Taxes} = \text{NNP}_{\text{MP}} - \text{Indirect Taxes} + \text{Subsidies}$$
+    > **NDP = GDP − Depreciation**  
+    > **NNP = GNP − Depreciation**
+
+- **National Income (NI) Proper:** In Indian national accounting conventions, official National Income corresponds to **Net National Product at factor cost (NNP_FC)**:
+    > **NNP_FC = NNP_MP − Net Indirect Taxes = NNP_MP − Indirect Taxes + Subsidies**
+
 - **Gross Value Added (GVA):** Reflects the net contribution of individual producer sectors (Agriculture, Industry, Services). Since the 2015 methodology revision, headline GDP is compiled as:
-  $$\text{GDP at Market Prices} = \text{GVA at Basic Prices} + \text{Product Taxes} - \text{Product Subsidies}$$
+    > **GDP at Market Prices = GVA at Basic Prices + Product Taxes − Product Subsidies**
+
 - **Nominal GDP vs Real GDP:** Nominal GDP measures output at prevailing market prices, whereas Real GDP measures output at constant base-year prices.
+
 - **Base Year:** The reference period utilized to isolate real production volume from price inflation. Effective **February 2026**, MoSPI revised the benchmark base year to **2022–23** (replacing the previous 2011–12 series).
+
 - **GDP Deflator:** A broad price index reflecting the overall price level of all domestically produced goods and services:
-  $$\text{GDP Deflator} = \left( \frac{\text{Nominal GDP}}{\text{Real GDP}} \right) \times 100$$
+    > **GDP Deflator = (Nominal GDP / Real GDP) × 100**
+
 - **Personal Disposable Income (PDI):** Income actually available to households for consumption and saving:
-  $$\text{PDI} = \text{Personal Income} - \text{Direct Personal Taxes} - \text{Non-Tax Payments (fines/fees)}$$
+    > **PDI = Personal Income − Direct Personal Taxes − Non-Tax Payments (fines/fees)**
 
 ### Estimation Methods
+
 1. **Production (Value Added) Method:** Computes Gross Value Added by deducting intermediate consumption from total gross output across all producing enterprises.
 2. **Income Method:** Aggregates factor payments earned by factors of production: Compensation of Employees (wages/salaries) + Operating Surplus (rent, interest, profits) + Mixed Income of the self-employed.
-3. **Expenditure Method:** Sums all final expenditures on goods and services ($C + I + G + X - M$).
+3. **Expenditure Method:** Sums all final expenditures on goods and services: (C + I + G + X − M).
 
 ### Measurement Dilemmas in India
 - **Large Informal / Unorganized Sector:** More than 80% of India's workforce operates in the informal economy, where record-keeping is minimal and transactions occur outside organized banking channels.
@@ -540,19 +550,26 @@ D. 11th
 - **Early Pre-1991 Reform Phase:** The initial phase of selective industrial delicensing, broadbanding of industrial capacity, and technological modernization was initiated in the mid-1980s under Prime Minister **Rajiv Gandhi**. However, the comprehensive, systemic break with socialist central planning occurred in **July 1991**.
 
 ### Business Cycle Dynamics
-Short-term economic fluctuations around the long-term trend path occur in recurring cyclical waves:
-- **Phases of the Business Cycle:**
-  1. **Expansion / Boom:** Rising aggregate demand, increasing industrial production, expanding employment, and buoyant business investment.
-  2. **Peak:** The cyclical crest where productive capacity and employment reach near-maximum utilization, often accompanied by escalating demand-pull inflation.
-  3. **Contraction / Recession:** Declining aggregate demand, reduction in factory output, accumulation of unsold inventories, and rising unemployment. Technically, a recession is defined as **two consecutive quarters of negative GDP growth**.
-  4. **Trough / Depression:** The deepest contractionary phase characterized by severe unemployment, business insolvencies, and excess capacity, persisting until replacement demand and recovery interventions trigger revival.
-- **Conceptual Distinctions:**
-  - **Recession:** A genuine contraction where aggregate output declines in absolute terms.
-  - **Slowdown:** A deceleration where GDP continues to grow, but at a visibly reduced percentage rate compared to previous years.
-  - **Financial Meltdown:** A sudden, steep collapse in financial asset prices, credit markets, and stock exchanges, rather than an immediate contraction in physical output.
-- **Fiscal Policy Countermeasures:**
-  - **Counter-Cyclical Fiscal Policy:** The government increases public spending and cuts taxes during an economic downturn to stimulate demand, while moderating spending and raising revenue during a boom.
-  - **Pro-Cyclical Fiscal Policy:** Public spending expands during booms and contracts during downturns, exacerbating the amplitude of the economic cycle.
+
+Short-term economic fluctuations around the long-term trend path occur in recurring cyclical waves.
+
+#### 1. Phases of the Business Cycle
+
+1. **Expansion / Boom:** Rising aggregate demand, increasing industrial production, expanding employment, and buoyant business investment.
+2. **Peak:** The cyclical crest where productive capacity and employment reach near-maximum utilization, often accompanied by escalating demand-pull inflation.
+3. **Contraction / Recession:** Declining aggregate demand, reduction in factory output, accumulation of unsold inventories, and rising unemployment. Technically, a recession is defined as **two consecutive quarters of negative GDP growth**.
+4. **Trough / Depression:** The deepest contractionary phase characterized by severe unemployment, business insolvencies, and excess capacity, persisting until replacement demand and recovery interventions trigger revival.
+
+#### 2. Key Conceptual Distinctions
+
+- **Recession:** A genuine contraction where aggregate output declines in absolute terms.
+- **Slowdown:** A deceleration where GDP continues to grow, but at a visibly reduced percentage rate compared to previous years.
+- **Financial Meltdown:** A sudden, steep collapse in financial asset prices, credit markets, and stock exchanges, rather than an immediate contraction in physical output.
+
+#### 3. Fiscal Policy Countermeasures
+
+- **Counter-Cyclical Fiscal Policy:** The government increases public spending and cuts taxes during an economic downturn to stimulate demand, while moderating spending and raising revenue during a boom.
+- **Pro-Cyclical Fiscal Policy:** Public spending expands during booms and contracts during downturns, exacerbating the amplitude of the economic cycle.
 
 **Q-EC11. UKPCS (Pre) 2016**
 
@@ -578,7 +595,7 @@ D. H. D. Deve Gowda
 ## Supplementary Concepts & High-Yield Theoretical Notes
 
 ### Methodological Dilemmas in National Income Computation
-- **Double Counting:** A common error in national accounting where the value of intermediate goods (e.g., flour used by a baker) is counted alongside the value of the final product (bread). To eliminate double counting, only final product prices or the net value added ($Value \ of \ Output - Intermediate \ Consumption$) across stages are aggregated.
+- **Double Counting:** A common error in national accounting where the value of intermediate goods (e.g., flour used by a baker) is counted alongside the value of the final product (bread). To eliminate double counting, only final product prices or the net value added (Value of Output − Intermediate Consumption) across stages are aggregated.
 - **Transfer Payments:** Outlays such as old-age pensions, unemployment benefits, scholarships, and family remittances do not reflect payments for productive services rendered in the current period. Consequently, all transfer payments are excluded from Gross Domestic Product and National Income.
 - **Price Distortion:** Current-price per capita income growth consistently exceeds constant-price per capita income growth during inflationary periods because current prices reflect both volume expansion and price inflation.
 
@@ -1778,6 +1795,7 @@ D. A capital-surplus economy
 
 **Q34. UPPCS (Mains) 2017**
 An underdeveloped economy is generally characterized by:
+
 I. Low per capita income
 II. Low rate of capital formation
 III. Low dependency ratio
@@ -1797,10 +1815,12 @@ D. I and IV
 
 **Q35. Chhattisgarh P.C.S. (Pre) 2017**
 Which of the following correctly explains that India is an underdeveloped economy?
+
 1. Inequitable distribution of income
 2. High dependency ratio
 3. Slower rate of increase in national income
 4. Change in banking and financial sector
+
 A. 1, 3 and 4
 B. 1, 2 and 4
 C. 1 and 4
@@ -1818,6 +1838,7 @@ E. None of these
 
 **Q36. UPPCS (Mains) 2017**
 Which of the following features indicates that Indian economy is in a developing category?
+
 I. Occupation is mainly agriculture
 II. Disguised unemployment
 III. Poor quality of human capital
@@ -1854,6 +1875,7 @@ D. A developed economy
 
 **Q38. UP Lower Sub (Spl.) (Pre) 2004**
 The Indian Economy is characterised by:
+
 I. Pre-dominance of Agriculture
 II. Pre-dominance of Industry
 III. Low per Capita Income
@@ -2199,10 +2221,12 @@ D. Growth in Per Capita GNP
 
 **Q59. UPPCS (Pre) 1999**
 Consider the following statements about Amartya Sen’s advices regarding priorities for Indian Economy:
+
 1. It should be commodity-oriented
 2. It should be people-oriented
 3. Economic security to the poorest of the poor
 4. Safeguards against integration of these with world economy
+
 A. 1, 2 and 3 are correct
 B. 2, 3 and 4 are correct
 C. 1, 3 and 4 are correct
@@ -2317,6 +2341,7 @@ D. 2 1 3 4
 
 **Q66. I.A.S. (Pre) 2010**
 In the context of Indian economy, consider the following pairs:
+
 1. Meltdown — Fall in stock prices
 2. Recession — Fall in growth rate
 3. Slow down — Fall in GDP
@@ -2400,6 +2425,7 @@ D. people are largely unaware of the significance of transition from agriculture
 
 **Q71. I.A.S. (Pre) 2022**
 Which of the following activities constitute real sector in the economy?
+
 1. Farmers harvesting their crops
 2. Textile mills converting raw cotton into fabrics
 3. A commercial bank lending money to a trading company
@@ -2658,6 +2684,7 @@ D. high capital-output ratio
 
 **Q87. I.A.S. (Pre) 1993**
 Which of the following are the main causes of slow rate of growth of Per Capita Income in India:
+
 1. High capital-output ratio
 2. High rate of growth of population
 3. High rate of capital formation
@@ -2693,8 +2720,10 @@ D. the volume of trade grows in the world economy
 
 **Q89. UPPCS (Pre) 2021**
 With reference to the 'Capital formation' which of the statements is/are correct?
+
 1. Process of capital formation depends on savings and effectiveness of financial institutions.
 2. Investment is the essential factor of capital formation.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -4578,7 +4607,7 @@ D. 1, 2 and 3
 * **Economic Activity Boundary:** Commercial activities (farming, manufacturing, transportation) undertaken for monetary remuneration constitute economic activities. Altruistic **voluntary social service** is non-monetized and classified as non-economic.
 * **Economic Growth vs Development:** Sustained growth in real per capita income is the most reliable single indicator of economic growth, but it is **not a sufficient condition** for development. If poverty, unemployment, and inequality worsen, economic development has failed despite real GNP growth.
 * **The "Hindu Rate of Growth":** Coined by economist Prof. Raj Krishna, the term denotes the ~**3.5% GDP stagnation** between the 1950s and early 1980s; it does not refer to demographic or population growth rates.
-* **Official National Income Definition:** National Income in standard Indian national accounting is formally defined as **Net National Product at factor cost ($NNP_{FC}$)**. Net Domestic Product equals GDP minus depreciation (never GDP plus depreciation).
+* **Official National Income Definition:** National Income in standard Indian national accounting is formally defined as **Net National Product at factor cost (NNP_FC)**. Net Domestic Product equals GDP minus depreciation (never GDP plus depreciation).
 * **National Accounts Base Year:** Real GDP series isolate volume changes using constant base-year prices. Effective **February 2026**, MoSPI revised the benchmark base year to **2022–23** (replacing the previous 2011–12 series).
 * **Measurement Obstacles in National Income:** The predominant practical dilemma in computing Indian national income is the large **unorganized / informal sector** and **non-monetized subsistence transactions**, rather than underemployment or inflation per se.
 * **Real Sector vs Financial Sector:** The real sector encompasses physical production, crops, and manufacturing; the financial sector comprises credit intermediation, banking, and capital market securities.

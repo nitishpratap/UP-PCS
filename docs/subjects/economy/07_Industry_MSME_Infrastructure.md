@@ -39,13 +39,14 @@ Industrialisation patterns and National Industrial Policies (1948, 1956, 1991) |
 5. **Cottage industries** are household-based, artisan-operated productive activities utilizing traditional indigenous tools, where workplace and domestic dwelling are largely identical.
 6. The landmark MSME definition implemented on **1 July 2020** introduced a **composite criterion combining investment and annual turnover**, completely erasing the historical dichotomy between manufacturing and service enterprises.
 7. **2020 Composite MSME Classification:**
-   - **Micro Enterprise:** Investment in Plant & Machinery/Equipment $\le$ **₹1 crore** and Annual Turnover $\le$ **₹5 crore**.
-   - **Small Enterprise:** Investment $\le$ **₹10 crore** and Annual Turnover $\le$ **₹50 crore**.
-   - **Medium Enterprise:** Investment $\le$ **₹50 crore** and Annual Turnover $\le$ **₹250 crore**.
+   - **Micro Enterprise:** Investment in Plant & Machinery/Equipment ≤ **₹1 crore** and Annual Turnover ≤ **₹5 crore**.
+   - **Small Enterprise:** Investment ≤ **₹10 crore** and Annual Turnover ≤ **₹50 crore**.
+   - **Medium Enterprise:** Investment ≤ **₹50 crore** and Annual Turnover ≤ **₹250 crore**.
 8. **Revised Thresholds (Effective 1 April 2025):** The Union Government revised thresholds upward by 2.5x for investment and 2x for turnover:
-   - **Micro:** Investment $\le$ **₹2.5 crore** and Turnover $\le$ **₹10 crore**.
-   - **Small:** Investment $\le$ **₹25 crore** and Turnover $\le$ **₹100 crore**.
-   - **Medium:** Investment $\le$ **₹125 crore** and Turnover $\le$ **₹500 crore**.
+
+   - **Micro:** Investment ≤ **₹2.5 crore** and Turnover ≤ **₹10 crore**.
+   - **Small:** Investment ≤ **₹25 crore** and Turnover ≤ **₹100 crore**.
+   - **Medium:** Investment ≤ **₹125 crore** and Turnover ≤ **₹500 crore**.
 9. MSMEs contribute approximately **30% of India's GDP**, over **45% of total manufacturing output**, and nearly **40% of national merchandise exports**, employing over 110 million citizens. All bank lending to eligible MSMEs counts toward **Priority Sector Lending (PSL)** targets.
 10. The **Karve Committee (Village and Small-Scale Industries Committee, 1955)** was appointed during the Second Five-Year Plan to assess the developmental potential of small industries in absorbing surplus rural labour.
 11. The **Nayak Committee (1991)** examined institutional credit bottlenecks facing small-scale industries and recommended that working capital credit should represent at least 20% of projected annual turnover.
@@ -57,6 +58,7 @@ Industrialisation patterns and National Industrial Policies (1948, 1956, 1991) |
 17. The **Pradhan Mantri Mudra Yojana (PMMY)** was launched on **8 April 2015** to provide non-corporate, non-farm micro-enterprises with collateral-free loans up to ₹10 lakh across three categories: **Shishu** (up to ₹50,000), **Kishore** (₹50,001 to ₹5 lakh), and **Tarun** (₹5 lakh to ₹10 lakh). In October 2024, the government expanded the framework to include **Tarun Plus** (up to **₹20 lakh**) for borrowers who successfully repaid earlier Tarun loans.
 18. Special Economic Zones (SEZs) provide duty-free enclaves treated as foreign territory for tariff purposes to boost exports and attract foreign direct investment. Asia's first Export Processing Zone (EPZ) was established at **Kandla, Gujarat in 1965**.
 19. Central Public Sector Enterprises (CPSEs) are granted graded operational, financial, and investment autonomy:
+
    - **Maharatna:** CPSEs with average annual net profit over ₹5,000 crore, net worth of ₹15,000 crore, and turnover of ₹25,000 crore over three years (authorized to make equity investments up to ₹5,000 crore without prior government sanction).
    - **Navratna:** Authorized to invest up to ₹1,000 crore without prior central approval.
    - **Miniratna (Category I & II):** Graded investment powers up to ₹500 crore.
@@ -68,6 +70,7 @@ Industrialisation patterns and National Industrial Policies (1948, 1956, 1991) |
 25. The **Index of Industrial Production (IIP)** measures short-term volume growth in industrial production; it comprises three broad categories: **Manufacturing (weight 77.63%)**, **Mining (14.37%)**, and **Electricity (7.99%)**. Construction, agriculture, gas, and water supply are **not included** in the IIP.
 26. The **Eight Core Industries** represent foundational infrastructure sectors comprising **40.27% of the total weight of the IIP**.
 27. The Eight Core Industries and their approximate weights are:
+
    1. **Refinery Products** (28.04% - highest weight)
    2. **Electricity** (19.85%)
    3. **Steel** (17.92%)
@@ -80,6 +83,7 @@ Industrialisation patterns and National Industrial Policies (1948, 1956, 1991) |
 28. The **Textile Industry** is India's oldest organized manufacturing industry and the second-largest employment provider after agriculture. Within cloth production, the **powerloom sector** produces the vast majority of fabric, far surpassing organized mill-made and handloom production.
 29. The modern Indian cotton textile mill industry originated in **1854** when Cowasjee Nanabhoy Davar established the Bombay Spinning and Weaving Mill (following an earlier unsuccessful venture at Fort Gloster, Bengal in 1818).
 30. The Second Five-Year Plan established landmark integrated public-sector steel plants through bilateral foreign technical collaborations:
+
    - **Bhilai Steel Plant (Chhattisgarh):** Collaboration with the **USSR** (1955)
    - **Rourkela Steel Plant (Odisha):** Collaboration with **West Germany** (Krupp and Demag, 1959)
    - **Durgapur Steel Plant (West Bengal):** Collaboration with the **United Kingdom** (1959)
@@ -116,8 +120,8 @@ Industrialisation patterns and National Industrial Policies (1948, 1956, 1991) |
 | **Gati Shakti Launch Year** | **2021 vs 2022 Trap** | Official launch date was 13 October 2021 (frequently misstated as 2022 in exam distractors). | Launch year: 2021 |
 | **MSME 2020 Classification** | **Pre-2020 Historical Split** | 2020 criteria combine Investment + Turnover and treat manufacturing and services identically. | 2020 = Composite Investment + Turnover |
 | **MSME 2020 Ceilings** | **MSME 2025 Revised Ceilings** | 2020: Micro ₹1cr/₹5cr; 2025: Micro ₹2.5cr/₹10cr. Check question year benchmark. | 2020 = 1/10/50 cr; 2025 = 2.5/25/125 cr |
-| **Foreign Direct Investment (FDI)** | **Foreign Portfolio Investment (FPI)** | FDI entails lasting management control ($\ge$10% equity); FPI is passive portfolio investment in traded stocks. | FDI = Management control; FPI = Passive market trading |
-| **Disinvestment** | **Strategic Disinvestment / Privatization** | Disinvestment sells minority equity; Strategic disinvestment transfers majority ownership ($\ge$50%) and management control. | Disinvestment = Minority shares; Strategic = Management transfer |
+| **Foreign Direct Investment (FDI)** | **Foreign Portfolio Investment (FPI)** | FDI entails lasting management control (≥10% equity); FPI is passive portfolio investment in traded stocks. | FDI = Management control; FPI = Passive market trading |
+| **Disinvestment** | **Strategic Disinvestment / Privatization** | Disinvestment sells minority equity; Strategic disinvestment transfers majority ownership (≥50%) and management control. | Disinvestment = Minority shares; Strategic = Management transfer |
 | **Cottage Industry** | **Small Scale Enterprise** | Cottage units are home-based artisan activities; Small scale units utilize power machinery in distinct premises. | Cottage = Household artisans; Small = Power machinery factory |
 | **Index of Industrial Production** | **Construction & Utilities in IIP** | IIP measures Mining, Manufacturing, and Electricity; Construction, gas, and water supply are NOT in IIP. | Construction is NOT in IIP |
 | **Eight Core Industries** | **Chemicals & Textiles** | Eight Core Industries comprise Refineries, Electricity, Steel, Coal, Crude, Gas, Cement, Fertilizers (No Chemicals or Textiles). | Chemicals & Textiles are NOT Core Industries |
@@ -133,9 +137,9 @@ Industrialisation patterns and National Industrial Policies (1948, 1956, 1991) |
 | **Make in India Launch Date** | 25 September 2014; symbol is a lion made of cogs |
 | **PM Gati Shakti Launch Date & Engines** | 13 October 2021; seven strategic transport and logistics engines |
 | **First Export Processing Zone (EPZ)** | Kandla, Gujarat (1965); Asia's first EPZ |
-| **Micro Enterprise Criteria (2020)** | Investment $\le$ ₹1 crore and Turnover $\le$ ₹5 crore |
-| **Small Enterprise Criteria (2020)** | Investment $\le$ ₹10 crore and Turnover $\le$ ₹50 crore |
-| **Medium Enterprise Criteria (2020)** | Investment $\le$ ₹50 crore and Turnover $\le$ ₹250 crore |
+| **Micro Enterprise Criteria (2020)** | Investment ≤ ₹1 crore and Turnover ≤ ₹5 crore |
+| **Small Enterprise Criteria (2020)** | Investment ≤ ₹10 crore and Turnover ≤ ₹50 crore |
+| **Medium Enterprise Criteria (2020)** | Investment ≤ ₹50 crore and Turnover ≤ ₹250 crore |
 | **Karve Committee Year & Domain** | 1955; Village and Small-Scale Industries |
 | **Nayak Committee Year & Domain** | 1991; Credit bottlenecks and working capital for SSIs |
 | **Abid Hussain Committee Year & Domain** | 1997; Recommended abolition of SSI product reservation |
@@ -467,6 +471,7 @@ D. Reliance Industries
 
 **Q4. I.A.S. (Pre) 2019**
 Consider the following about PNGRB:
+
 1. PNGRB is the first regulatory body set up by the Government of India.
 2. One task of PNGRB is to ensure competitive markets for gas.
 3. Appeals against PNGRB decisions go before the Appellate Tribunal for Electricity.
@@ -502,6 +507,7 @@ D. Public Council of Research Association
 
 **Q6. UP RO/ARO (Pre) 2021**
 With reference to Indian Railways, which is/are correct?
+
 1. Achieving 100 percent electrification by 2023.
 2. A net zero carbon emission network by 2030.
 A. Only 1
@@ -668,6 +674,7 @@ D. Both true and R explains A
 
 **Q16. I.A.S. (Pre) 2017**
 With reference to National Investment and Infrastructure Fund, which is/are correct?
+
 1. It is an organ of NITI Aayog.
 2. It has a corpus of Rs. 4,00,000 crore at present.
 A. 1 only
@@ -719,6 +726,7 @@ E. 25 November 2011
 
 **Q19. I.A.S. (Pre) 2012**
 Recent policy initiatives to promote manufacturing:
+
 1. NIMZs
 2. Single window clearance
 3. Technology Acquisition and Development Fund
@@ -787,6 +795,7 @@ D. All the above
 
 **Q23. I.A.S. (Pre) 2016**
 With reference to Stand-Up India Scheme, which is/are correct?
+
 1. Promotes entrepreneurship among SC/ST and women.
 2. Provides for refinance through SIDBI.
 A. 1 only
@@ -820,6 +829,7 @@ D. Funding voluntary organisations for skill development
 
 **Q25. U.P. P.C.S. (Pre) 2025**
 Pradhan Mantri Mudra Yojana comes under which of the following?
+
 1. Ministry of Corporate Affairs
 2. Ministry of Rural Development
 3. Ministry of Finance
@@ -839,6 +849,7 @@ D. Only 1
 
 **Q26. I.A.S. (Pre) 2017**
 With reference to Quality Council of India (QCI):
+
 1. QCI was set up jointly by Government of India and Indian Industry.
 2. Chairman of QCI is appointed by the Prime Minister on industry recommendations.
 A. 1 only
@@ -856,6 +867,7 @@ D. Neither
 
 **Q27. UPPCS (Mains) 2017**
 Correct chronological sequence of enactments:
+
 1. MRTP Act
 2. Industries (Development and Regulation) Act
 3. FERA
@@ -908,6 +920,7 @@ D. Construction
 
 **Q30. I.A.S. (Pre) 2012**
 Among Eight Core Industries with combined IIP weight, which are included?
+
 1. Cement 2. Fertilizers 3. Natural gas 4. Refinery products 5. Textiles
 A. 1 and 5
 B. 2, 3 and 4
@@ -941,6 +954,7 @@ D. Steel production
 
 **Q32. I.A.S. (Pre) 2019**
 Coal sector statements:
+
 1. Coal sector was nationalised under Indira Gandhi.
 2. Now coal blocks are allocated on lottery basis.
 3. India is now self-sufficient in coal production.

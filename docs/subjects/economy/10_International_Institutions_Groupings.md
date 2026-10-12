@@ -80,6 +80,7 @@ Bretton Woods Institutions (IMF & World Bank Group: IBRD, IDA, IFC, MIGA, ICSID)
 48. The **World Trade Organization (WTO)**, established in 1995 as the successor to GATT, has its permanent headquarters in **Geneva, Switzerland**; its Ministerial Conferences rotate globally (e.g., MC-13 in Abu Dhabi, 2024).
 49. The **World Economic Forum (WEF)** is an independent international non-governmental organization based in **Cologny (Geneva), Switzerland**, renowned for convening the annual global business and political summit at **Davos**.
 50. Major international flagship reports and their publishing bodies include:
+
     * **World Economic Outlook (WEO)** & **Global Financial Stability Report** → Published by the **IMF**.
     * **World Development Report (WDR)** & **Global Economic Prospects** → Published by the **World Bank**.
     * **Global Competitiveness Report (GCR)** & **Global Risks Report** → Published by the **World Economic Forum (WEF)**.
@@ -236,8 +237,8 @@ D. It grants loan to the Central Bank of a country.
 * **South Africa's Entry:** South Africa was admitted in **December 2010**, expanding the acronym to **BRICS** and attending the 3rd Summit at Sanya, China in 2011.
 * **10th Summit:** Hosted in **Johannesburg, South Africa** in **July 2018**.
 * **Institutional Pillars:**
-  1. **New Development Bank (NDB):** Multilateral lending bank with an initial authorized capital of $100 billion, headquartered in Shanghai.
-  2. **Contingent Reserve Arrangement (CRA):** A $100 billion framework providing mutual short-term foreign exchange liquidity to members facing global financial shocks.
+  1. **New Development Bank (NDB):** Multilateral lending bank with an initial authorized capital of USD 100 billion, headquartered in Shanghai.
+  2. **Contingent Reserve Arrangement (CRA):** A USD 100 billion framework providing mutual short-term foreign exchange liquidity to members facing global financial shocks.
 * **Expansion Waves:** At the 15th Summit in Johannesburg (2023), BRICS approved membership invitations, formally admitting **Egypt, Ethiopia, Iran, and the United Arab Emirates** on 1 January 2024, followed by **Indonesia** in 2025.
 
 ---
