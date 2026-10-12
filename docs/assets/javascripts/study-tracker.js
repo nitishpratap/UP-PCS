@@ -3277,10 +3277,6 @@
         <span class="st-clock-label" id="st-clock-label">Reading Notes</span>
       </div>
       <div class="st-clock-actions">
-        <button type="button" class="st-clock-btn st-clock-spen-btn" id="st-clock-spen-btn" title="Open S Pen Studio (Draw, Highlight & Annotate Notes)">
-          <span>🖊️</span>
-          <span class="st-clock-spen-badge" id="st-clock-spen-badge" style="display:none;">0</span>
-        </button>
         <button type="button" class="st-clock-btn st-clock-zen-btn" id="st-clock-zen-btn" title="Toggle Zen / Focus Mode (Distraction-free reading)">🧘</button>
         <button type="button" class="st-clock-btn st-clock-hud-btn" id="st-clock-hud-btn" title="Open Time & Focus Analytics HUD">📊</button>
         <button type="button" class="st-clock-btn" id="st-clock-min-btn" title="Minimize / Expand">🗕</button>
@@ -3500,14 +3496,6 @@
       }
       if (isMinimized && hudPopover) {
         hudPopover.style.display = 'none';
-      }
-    });
-
-    const spenBtn = widget.querySelector('#st-clock-spen-btn');
-    spenBtn?.addEventListener('click', (e) => {
-      e.stopPropagation();
-      if (window.SPenAnnotation && typeof window.SPenAnnotation.toggleStudio === 'function') {
-        window.SPenAnnotation.toggleStudio();
       }
     });
 

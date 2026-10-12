@@ -493,96 +493,7 @@
     });
   }
 
-  // Studio Visibility Controls
-  function openStudio() {
-    state.isCollapsed = false;
-    savePreferences();
-    dockEl?.classList.remove('is-hidden');
-    if (launcherEl) launcherEl.style.display = 'none';
-    if (state.mode === 'read') setMode('pen');
-    syncClockWidgetButton();
-    updateBadge();
-  }
-
-  function closeStudio() {
-    state.isCollapsed = true;
-    setMode('read'); // Switch to read mode when minimizing
-    savePreferences();
-    dockEl?.classList.add('is-hidden');
-    syncClockWidgetButton();
-    updateBadge();
-  }
-
-  function toggleStudio() {
-    if (state.isCollapsed || !dockEl || dockEl.classList.contains('is-hidden')) {
-      openStudio();
-    } else {
-      closeStudio();
-    }
-  }
-
-  // Expose to window for clock widget & global hooks
-  window.SPenAnnotation = {
-    openStudio,
-    closeStudio,
-    toggleStudio,
-    syncClockWidgetButton,
-  };
-
-  // Sync S Pen button inside Chapter Reading Clock Widget
-  function syncClockWidgetButton() {
-    const clockWidget = document.getElementById('st-reading-clock-widget');
-    if (!clockWidget) {
-      document.body.classList.remove('has-reading-clock');
-      // If no clock widget exists on this page, and studio is collapsed, fallback to standalone launcher
-      if (launcherEl && state.isCollapsed) {
-        launcherEl.style.display = 'flex';
-      }
-      return;
-    }
-
-    // When clock widget is present, NEVER show the separate standalone launcher below the clock!
-    document.body.classList.add('has-reading-clock');
-    if (launcherEl) {
-      launcherEl.style.display = 'none';
-    }
-
-    let spenBtn = clockWidget.querySelector('#st-clock-spen-btn');
-    if (!spenBtn) {
-      const actions = clockWidget.querySelector('.st-clock-actions');
-      if (actions) {
-        spenBtn = document.createElement('button');
-        spenBtn.type = 'button';
-        spenBtn.className = 'st-clock-btn st-clock-spen-btn';
-        spenBtn.id = 'st-clock-spen-btn';
-        spenBtn.title = 'Open S Pen Studio (Draw, Highlight & Annotate Notes)';
-        spenBtn.innerHTML = `<span>🖊️</span><span class="st-clock-spen-badge" id="st-clock-spen-badge" style="display:none;">0</span>`;
-        actions.insertBefore(spenBtn, actions.firstChild);
-      }
-    }
-
-    if (spenBtn && !spenBtn.__spenBound) {
-      spenBtn.__spenBound = true;
-      spenBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        toggleStudio();
-      });
-    }
-
-    // Toggle active glow if S Pen studio is currently open
-    const isOpen = !state.isCollapsed && dockEl && !dockEl.classList.contains('is-hidden');
-    spenBtn?.classList.toggle('is-active', Boolean(isOpen));
-
-    // Update note count badge inside the clock widget
-    const count = state.strokes.length;
-    const badge = clockWidget.querySelector('#st-clock-spen-badge');
-    if (badge) {
-      badge.textContent = count;
-      badge.style.display = count > 0 ? 'inline-flex' : 'none';
-    }
-  }
-
-  // Update badge in launcher, dock, and inside clock widget
+  // Update badge in launcher and dock
   function updateBadge() {
     const count = state.strokes.length;
     if (launcherEl) {
@@ -598,7 +509,6 @@
         countEl.textContent = count > 0 ? `(${count})` : '';
       }
     }
-    syncClockWidgetButton();
   }
 
   function updateUndoRedoButtons() {
@@ -609,7 +519,7 @@
     if (redoBtn) redoBtn.disabled = state.redoStack.length === 0;
   }
 
-  // Create Minimized Fallback Launcher Button (only used when clock widget is not present)
+  // Create Minimized Launcher Button
   function createLauncher() {
     if (document.getElementById('spen-floating-launcher')) return;
 
@@ -624,12 +534,15 @@
       <span class="spen-badge" style="display: none;">0</span>
     `;
 
-    // Immediately hide if clock widget is present
-    if (document.getElementById('st-reading-clock-widget')) {
+    launcherEl.addEventListener('click', () => {
+      state.isCollapsed = false;
+      savePreferences();
+      dockEl?.classList.remove('is-hidden');
       launcherEl.style.display = 'none';
-    }
+      // If was in read mode, activate pen mode for quick convenience
+      if (state.mode === 'read') setMode('pen');
+    });
 
-    launcherEl.addEventListener('click', openStudio);
     document.body.appendChild(launcherEl);
   }
 
@@ -736,7 +649,13 @@
     dockEl.querySelector('[data-action="toggle-visibility"]')?.addEventListener('click', toggleNotesVisibility);
 
     // Minimize Button
-    dockEl.querySelector('[data-action="minimize"]')?.addEventListener('click', closeStudio);
+    dockEl.querySelector('[data-action="minimize"]')?.addEventListener('click', () => {
+      state.isCollapsed = true;
+      setMode('read'); // Switch to read mode when minimizing
+      savePreferences();
+      dockEl.classList.add('is-hidden');
+      if (launcherEl) launcherEl.style.display = 'flex';
+    });
 
     // Palm Rejection Button
     const palmBtn = dockEl.querySelector('[data-action="palm-rejection"]');
@@ -849,26 +768,12 @@
 
     // Set initial tool mode
     setMode(state.mode);
-
-    // Sync S Pen button inside clock widget
-    syncClockWidgetButton();
-  }
-
-  // Observe dynamically inserted clock widget
-  let clockObserver = null;
-  function setupClockObserver() {
-    if (clockObserver) return;
-    clockObserver = new MutationObserver(() => {
-      syncClockWidgetButton();
-    });
-    clockObserver.observe(document.body, { childList: true, subtree: true });
   }
 
   // Initialize
   function boot() {
     loadPreferences();
     mount();
-    setupClockObserver();
   }
 
   // Hook into MkDocs Material navigation observable
