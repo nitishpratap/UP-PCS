@@ -171,9 +171,184 @@ Human Body Composition & Major Elements | Nutrition & Balanced Diet (Macronutrie
     - Cause: **Combined severe deficiency of both proteins AND total caloric energy**; commonly seen in infants under **1 year of age** when mother's milk is replaced too early by watery, nutritionally deficient foods.
     - Symptoms: Extreme emaciation, complete disappearance of subcutaneous fat; ribs become prominent; skin becomes loose, thin, and dry, giving the infant the shrivelled appearance of a **"little old man"** or "monkey face"; **oedema is strictly absent**.
 
+## 3.2 Dietary Sources, Nutrient Chemistry & Food Adulteration
+
+Dietary physiology evaluates the biological availability of nutrients, dietary standards, and toxic adulterants commonly tested in public service examinations:
+
+### High-Yield Dietary Sources
+- **Protein Concentrations in Common Foods:**
+  - **Soybean (*Glycine max*):** Highest protein concentration among plant foods (**~40–42% protein by weight**), containing all essential amino acids with high biological value.
+  - **Groundnut / Peanut:** Rich dual source of both **protein (~25%)** and **lipids/fats (~45%)**.
+  - **Pulses and Legumes (Gram, Pigeon Pea / Arhar, Lentil):** Average ~20–25% protein.
+- **Wheat Dough Elasticity & Gluten:**
+  - The substance responsible for the bread-making quality and viscoelastic dough strength in wheat (*Triticum*) flour is **Gluten** (a composite storage protein composed of gliadin and glutenin). Individuals with Celiac disease suffer autoimmune intestinal damage upon consuming gluten.
+- **Caloric Fuel Yields:**
+  - Carbohydrates: $\sim 4.0\text{ kcal/g}$
+  - Proteins: $\sim 4.0\text{ kcal/g}$
+  - Fats / Lipids: $\sim 9.0\text{ kcal/g}$
+  - **Pure Water:** Yields **Zero (0) calories** (contains no macronutrient fuel).
+- **Specialized Micronutrient Food Sources:**
+  - **Iron in Fruits:** **Karonda (*Carissa carandas*)** is the richest known fruit source of dietary iron (~39 mg / 100 g dry fruit), followed by date palm and green leafy vegetables.
+  - **Vitamin C (Ascorbic Acid):** Highest in **Aonla (Indian Gooseberry)**, followed by guava, citrus fruits (lemon, orange), and **green chilli** (*Capsicum frutescens*).
+  - **Vitamin D:** Endogenously synthesized in human epidermis upon exposure to **solar UVB radiation** from 7-dehydrocholesterol; dietary sources include cod-liver oil and fortified dairy.
+  - **Thyroxine is a Hormone:** *Exam Trap Alert*: Thyroxine is an iodine-containing tyrosine hormone secreted by the thyroid gland; it is **NOT a vitamin**.
+  - **Fenugreek Seeds (*Trigonella foenum-graecum* / Methi):** Clinically proven dietary supplement that normalizes blood glucose in diabetes mellitus due to high soluble fiber (galactomannan) and 4-hydroxyisoleucine stimulating insulin secretion.
+  - **Dairy & Cheese:** Fermented dairy products (cheese, paneer) are concentrated sources of casein protein, calcium, and fat; cheese also provides Vitamin A and Vitamin B12.
+- **Starch Chemistry in Rice (Amylose vs Amylopectin):**
+  - **Amylose:** Linear $\alpha$-(1,4)-glucan polymer. Rice varieties with **high amylose content** cook into separate, dry, non-sticky grains.
+  - **Amylopectin:** Branched $\alpha$-(1,6)-glucan polymer. Rice varieties with low amylose and high amylopectin cook into sticky, glutinous clumps.
+
+### Toxic Food Adulteration & Dietary Syndromes
+- **Argemone Oil Adulteration & Epidemic Dropsy:**
+  - Mustard seeds and mustard oil are frequently adulterated with seeds of **Argemone mexicana (prickly poppy)**.
+  - Contains toxic alkaloids (**sanguinarine** and dihydrosanguinarine) that inhibit sodium-potassium ATPase, causing widespread vascular leakage, severe bilateral pitting edema, cardiac failure, and glaucoma, known clinically as **Epidemic Dropsy**.
+- **Khesari Dal & Neurolathyrism:**
+  - Regular, prolonged consumption of **Khesari dal (*Lathyrus sativus* / grass pea)** induces **Neurolathyrism**—an irreversible, crippling neurodegenerative spastic paralysis of the lower limbs.
+  - Caused by the neurotoxin **$\beta$-ODAP** ($\beta$-N-oxalyl-$\alpha,\beta$-diaminopropionic acid), a structural analogue of glutamate that overstimulates and kills motor neurons in the spinal cord.
+- **Botulism (Food-Borne Intoxication):**
+  - A lethal, acute neuroparalytic disease caused by consuming food contaminated with pre-formed **Botulinum neurotoxin** produced by the anaerobic spore-forming bacterium ***Clostridium botulinum***.
+  - Classified strictly as a **food-borne intoxication** (not an active bacterial infection), typically contracted from improperly sterilized, home-canned vegetables, meat, and vacuum-packed foods.
+
 ---
 
-## Bilingual Terminology -- Nutrition, Diseases and Medicine
+## 3.3 Pathogen Classification, Clinical Syndromes & Genetic Disorders
+
+### Organ Specificity of Common Bacterial & Viral Diseases
+- **Tuberculosis vs Typhoid Organ Targets:**
+  - **Tuberculosis (*Mycobacterium tuberculosis*):** Primarily attacks the **Lungs (pulmonary TB)**, but can disseminate to lymph nodes, spine (Pott's disease), and meninges.
+  - **Typhoid Fever (*Salmonella typhi*):** Primarily attacks and ulcerates Peyer's patches in the **Small Intestine**, producing intestinal bleeding, perforation, and step-ladder remittent fever (diagnosed by Widal agglutination test).
+- **SARS-CoV-2 (COVID-19):**
+  - The global pandemic of 2020–2022 was caused by **Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)**, an enveloped, positive-sense single-stranded RNA virus entering cells via the ACE2 (Angiotensin-Converting Enzyme 2) receptor.
+- **Dengue Fever & Blood Platelets:**
+  - Caused by the Dengue flavivirus and transmitted by diurnal ***Aedes aegypti*** mosquitoes. Hallmark laboratory finding is sudden, severe **Thrombocytopenia (precipitous collapse of blood platelet count)**, predisposing to hemorrhagic fever and dengue shock syndrome.
+- **Malaria Organ Target:**
+  - *Plasmodium* parasites invade and rupture red blood cells, causing severe hemolytic anemia and massive enlargement and congestion of the **Spleen (Splenomegaly)**.
+- **Prion Diseases (Transmissible Spongiform Encephalopathies):**
+  - **Prions:** Infectious, misfolded protein molecules devoid of any nucleic acid (DNA or RNA).
+  - Cause fatal neurodegenerative diseases: **Bovine Spongiform Encephalopathy (BSE / "Mad Cow Disease")** in cattle, Scrapie in sheep, and Creutzfeldt-Jakob Disease (CJD) and Kuru in humans.
+- **Fungal Dermatophyte Infections:**
+  - **Baldness (Alopecia / *Tinea capitis*):** Fungal infection of scalp hair follicles caused by *Microsporum* or *Trichophyton*.
+  - **Athlete's Foot (*Tinea pedis*):** Pruritic scaling fungal infection of web spaces of the feet caused by *Trichophyton mentagrophytes*.
+  - **Ringworm (*Tinea corporis*):** Circular, erythematous skin lesions with raised margins caused by dermatophytic fungi.
+- **Anthrax (Woolsorter's Disease):**
+  - Acute zoonotic disease caused by the spore-forming rod ***Bacillus anthracis***.
+  - Primarily infects herbivorous animals (**sheep, goats, cattle**); humans acquire pulmonary anthrax by inhaling spores from contaminated animal hair and hides in wool-sorting factories.
+
+### Occupational & Environmental Lung Diseases
+- **Black Lung Disease (Coal Workers' Pneumoconiosis - CWP):**
+  - Occupational lung disease caused by long-term inhalation of respirable coal mine dust in the **coal mining industry**, leading to pulmonary fibrosis and progressive massive fibrosis.
+- **Silicosis:** Caused by inhaling crystalline silica dust in stone quarries, sandblasting, and glass industries.
+- **Asbestosis:** Caused by asbestos fibers in shipbreaking, mining, and insulation manufacture (predisposes to malignant mesothelioma).
+- **Byssinosis ("Brown Lung"):** Caused by cotton dust inhalation in textile spinning mills.
+
+### Genetic & Hereditary Disorders
+- **Haemophilia ("Royal Disease"):**
+  - **X-linked recessive bleeding disorder** caused by deficiency of functional clotting factors: **Factor VIII** (Haemophilia A, ~80% of cases) or **Factor IX** (Haemophilia B / Christmas Disease).
+  - Transmitted through asymptomatic carrier females ($X^H X^h$) to their sons ($X^h Y$). A carrier mother exhibits criss-cross inheritance, passing the defective gene to the **sons of her daughters**.
+- **Down Syndrome (Trisomy 21):**
+  - Genetic chromosomal disorder caused by nondisjunction resulting in an extra copy of chromosome 21 (**47, XX,+21 or 47, XY,+21**). Manifests with mental retardation, flat facial profile, simian crease across palms, and cardiac septal defects.
+- **Duchenne Muscular Dystrophy (DMD):**
+  - Severe X-linked recessive genetic disorder caused by mutations in the dystrophin gene on the X chromosome, leading to progressive degeneration of skeletal muscle fibers and premature death.
+- **Colour Blindness:**
+  - X-linked recessive disorder causing failure of red-green retinal cone photoreceptors; affects predominantly males ($X^c Y$).
+
+### Metabolic & Behavioral Pathologies
+- **Gout (Metabolic Arthritis):**
+  - Characterized by hyperuricemia (elevated serum **uric acid** levels $>7.0\text{ mg/dL}$). Uric acid crystals (**monosodium urate**) deposit in synovial joints and periarticular tissues, classically causing excruciating acute inflammation of the first metatarsophalangeal joint of the big toe (**Podagra**).
+- **Albuminuria & Renal Failure:**
+  - Normal glomerular capillary filtration barriers prevent passage of high-molecular-weight plasma proteins. If **albumin appears in urine (albuminuria / proteinuria)**, it indicates glomerular membrane breakdown and approaching **Kidney failure**.
+- **Metabolic Effects of Prolonged Fasting:**
+  - Prolonged fasting rapidly exhausts hepatic glycogen reserves, initiating extensive lipolysis, ketogenesis (formation of acetoacetate and $\beta$-hydroxybutyrate), and protein catabolism via gluconeogenesis, placing severe metabolic burdens on the **Kidneys and Liver**.
+- **Bulimia Nervosa:**
+  - Psychological eating disorder characterized by recurrent episodes of uncontrolled binge eating (patient is unable to stop eating) followed by compensatory purging (induced vomiting, laxatives). Distinct from **Anorexia Nervosa** (obsessive self-starvation due to distorted body image).
+- **Anthophobia:** Extreme, abnormal, irrational psychological fear of **flowers**.
+
+---
+
+## 3.4 Medical Pharmacology, Radioisotopes & Landmark Therapeutics
+
+### Antibiotics, Sulpha Drugs & Analgesics
+- **Coining of the Term "Antibiotic":**
+  - Coined in **1942** by American microbiologist **Selman Waksman**, who discovered **Streptomycin** (the first effective antibiotic against *Mycobacterium tuberculosis*, isolated from soil actinomycete *Streptomyces griseus*; awarded the Nobel Prize in 1952).
+- **Sulpha Drugs (Sulfonamides):**
+  - Synthetic **antibacterial** agents (e.g., **Cibazole / Sulfathiazole**, Sulfanilamide) that act as competitive structural analogues of PABA (para-aminobenzoic acid), inhibiting bacterial dihydropteroate synthase and halting folic acid synthesis. Discovered by Gerhard Domagk (Prontosil, Nobel Prize 1939).
+- **Broad-Spectrum Antibiotics:**
+  - Antibiotics active against both Gram-positive and Gram-negative bacteria (e.g., **Chloramphenicol**, Tetracycline, Amoxicillin). Chloramphenicol is used clinically for typhoid, bacterial meningitis, and rickettsial infections.
+- **Aspirin (Acetylsalicylic Acid):**
+  - Non-steroidal, non-narcotic analgesic, antipyretic, and antiplatelet drug; inhibits cyclooxygenase (COX-1 and COX-2) enzymes. *Exam Trap*: Aspirin does **NOT** belong to narcotic analgesics (morphine, codeine, pethidine are narcotics).
+- **Atropine:**
+  - Anticholinergic tropane alkaloid extracted from the deadly nightshade plant ***Atropa belladonna***; blocks muscarinic acetylcholine receptors, used clinically by ophthalmologists to **dilate the pupils (mydriasis)** and paralyze accommodation for retinal exams.
+- **Pyrethrin:**
+  - Natural organic insecticide extracted from the dried flower seed heads of ***Chrysanthemum cinerariifolium*** (dalmatian chrysanthemum); neurotoxic to mosquitoes and insects, widely incorporated into household mosquito coils and liquid vaporizers.
+
+### Radioisotopes in Clinical Medicine & Oncology
+Radioactive isotopes are routinely used for targeted diagnostic imaging and radiotherapy:
+
+| Radioisotope | Symbol | Clinical Application & Target Condition |
+|---|---|---|
+| **Radio-Sodium** | $^{24}\text{Na}$ | Measures the velocity of blood circulation and detects vascular occlusions, thrombosis, and arterial blockages. |
+| **Phosphorus-32** | $^{32}\text{P}$ | Targeted radiotherapy for **Leukemia (blood cancer)** and polycythemia vera (abnormal proliferation of RBCs). |
+| **Iodine-131** | $^{131}\text{I}$ | Diagnostic thyroid scanning and radioablation of hyperthyroidism, goitre, and **Thyroid Carcinoma**. |
+| **Cobalt-60** | $^{60}\text{Co}$ | High-energy gamma radiation source utilized in external beam teletherapy for deep-seated malignant solid tumors. |
+| **Arsenic-74** | $^{74}\text{As}$ | Diagnostic imaging and precise localization of **brain tumors**. |
+| **Gold-198** | $^{198}\text{Au}$ | Interstitial radiotherapy for localized prostate and liver malignancies. |
+
+### Cancer Therapeutics & Clinical Oncology
+- **Platinum Chemotherapy Compounds:**
+  - **Platinum ($Pt$)**-based coordination complexes, notably **Cisplatin** (*cis*-diamminedichloroplatinum(II)) and Carboplatin, are widely used chemotherapy agents that bind to DNA, forming intrastrand crosslinks that trigger apoptosis in carcinomas (testicular, ovarian, bladder, and lung cancers).
+- **Pap Smear (Papanicolaou Test):**
+  - Universal screening cytological test used for the early clinical detection of premalignant dysplasia and carcinoma of the **Uterine Cervix**.
+- **Intensity-Modulated Radiotherapy (IMRT):**
+  - Advanced 3D conformal radiation oncology technique utilizing computer-controlled multi-leaf collimators to deliver precise, variable radiation doses conforming tightly to the 3D contour of tumors while sparing adjacent critical organs.
+- **Arvid Carlsson & Parkinson's Disease:**
+  - Swedish pharmacologist **Arvid Carlsson** won the **2000 Nobel Prize in Physiology or Medicine** for demonstrating that dopamine is a vital neurotransmitter in the brain's basal ganglia, which directly led to the development of **L-DOPA therapy** for the treatment of **Parkinson's disease**.
+- **DRDO Herbal Therapeutics:**
+  - **Lukoskin:** A polyherbal drug formulation developed by the Defence Research and Development Organisation (**DRDO**) for the clinical management of vitiligo (leukoderma).
+
+---
+
+## 3.5 Sensory Organs, Clinical Diagnostics & Surgical Procedures
+
+### Ophthalmology & Vision Correction
+- **Myopia (Near-Sightedness):**
+  - A refractive defect where an individual can see **nearby objects clearly**, while distant objects appear blurred.
+  - The eyeball is too long or the corneal curvature is too steep; parallel light rays from distant objects converge and focus **in front of the retina**.
+  - Corrected using a **Concave lens** (diverging lens) with negative optical power.
+- **Hypermetropia (Far-Sightedness):**
+  - Individual can see distant objects clearly, but near vision is blurred. Light rays focus **behind the retina**.
+  - Corrected using a **Convex lens** (converging lens) with positive optical power.
+- **Astigmatism:**
+  - A refractive error caused by an irregular, asymmetric curvature of the cornea or crystalline lens (resembling a rugby ball rather than a sphere), causing light rays to focus at multiple points.
+  - Corrected using a **Cylindrical lens**.
+- **Presbyopia ("Old-age vision"):**
+  - Gradual age-related loss of the lens's accommodation elasticity and ciliary muscle tone; corrected using **Bifocal lenses** (upper concave for distance, lower convex for reading).
+- **Embryological Origin of the Retina:**
+  - The neural retina develops as an anatomical neuroectodermal evagination of the **Diencephalon** (forebrain optic vesicle).
+
+### Emergency Medicine & Surgical Interventions
+- **CPR (Cardiopulmonary Resuscitation):**
+  - An emergency lifesaving resuscitation procedure combining chest compressions ($100–120\text{ compressions/min}$) and rescue breathing to maintain vital oxygenated blood flow to the brain and heart during sudden cardiac arrest.
+- **Coronary Artery Bypass Graft (CABG):**
+  - Surgical revascularization used in severe coronary artery disease to bypass blocked coronary arteries:
+    - **Great Saphenous Vein** harvested from the **leg**.
+    - **Internal Mammary (Thoracic) Artery** harvested from the **chest**.
+    - **Radial Artery** harvested from the **forearm**.
+- **Cath Lab (Catheterization Laboratory):**
+  - Specialized hospital interventional diagnostic examination room located in the **Cardiology department**, equipped with fluoroscopy imaging to perform coronary angiograms, balloon angioplasty, and cardiac stent implants.
+- **Dialysis (Hemodialysis):**
+  - Clinical extracorporeal procedure used when there is severe dysfunction or acute/chronic failure of the **Kidneys**. Blood is circulated through an artificial dialyzer membrane to remove urea, creatinine, and excess potassium.
+- **Blood Glucose Metrics:**
+  - Blood glucose concentration is clinically quantified in **milligrams per decilitre (mg/dL)**:
+    - Normal Fasting Plasma Glucose: $70–99\text{ mg/dL}$
+    - Impaired Fasting Glucose (Prediabetes): $100–125\text{ mg/dL}$
+    - Diagnostic Threshold for Diabetes Mellitus: $\ge 126\text{ mg/dL}$ (or random $\ge 200\text{ mg/dL}$; $HbA_{1c} \ge 6.5\%$).
+  - Diabetes mellitus is caused by functional endocrine failure of the **Pancreas** (specifically insulin deficiency from $\beta$-cells of the Islets of Langerhans, discovered by **Frederick Banting and Charles Best, 1921**).
+- **BCG Vaccine Administration Timing:**
+  - The BCG (*Bacillus Calmette-Guérin*) vaccine against tuberculosis must be administered **at birth or as soon as possible after birth (within the first few days/weeks)**.
+- **Infrared Radiotherapy:**
+  - Invisible infrared electromagnetic radiation ($700\text{ nm} - 1\text{ mm}$) produces deep thermal penetration in muscular tissues, used in physical medicine for the relief of muscle spasms, stiffness, and chronic lumbago.
+
+---
 
 | English Term | Hindi Term | Key Anchor |
 |---|---|---|

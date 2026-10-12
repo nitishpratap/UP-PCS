@@ -496,6 +496,39 @@ D. Marshy areas
 - The **Public Trust Doctrine** treats air, water, and forests as held by government in trust for the public.
 - The **Bhopal Gas Tragedy (1984)** triggered the umbrella **Environment (Protection) Act, 1986**.
 
+---
+
+### Landmark Environmental Classics & Pioneer Thinkers
+| Thinker / Landmark | Year / Publication | Core Concept & Exam Significance |
+|---|---|---|
+| **Rachel Carson** | **1962** (*Silent Spring*) | Exposed environmental hazards of indiscriminate synthetic pesticides (**DDT** bioaccumulation and eggshell thinning); catalytic milestone that birthed the modern global environmental movement. |
+| **John W. Bennett** | **1976** (*The Ecological Transition*) | Coined and developed the concept of **'Ecological Transition'**, analyzing human society's cultural shift from balanced ecological adaptation to intensive environmental exploitation. |
+| **Garrett Hardin** | **1968** (*The Tragedy of the Commons*) | Postulated in *Science* that independent rational actors deplete shared public resources (pastures, fisheries, clean air) through unconstrained self-interest. |
+| **Club of Rome** | **1972** (*The Limits to Growth*) | Commissioned MIT computer-simulation model (Meadows et al.) showing ecological collapse if exponential economic and population growth outpace planetary carrying capacity. *(Trap: Brundtland Report 1987 is Our Common Future, NOT Limits to Growth)*. |
+| **Ernst Haeckel** | **1866** (*Generelle Morphologie*) | Coined the term **'Ecology'** (*Oekologie*) for the study of organism-environment interactions. |
+| **A.G. Tansley** | **1935** | Coined the term **'Ecosystem'** as the fundamental functional unit of nature. |
+| **Arne Naess** | **1973** | Coined **'Deep Ecology'** (advocating inherent biocentric rights of all living species) versus utilitarian 'Shallow Ecology'. |
+| **Joseph Grinnell** | **1917** | Coined and formalized the concept of **'Ecological Niche'** as the functional role and distributional unit of a species. |
+| **Mathis Wackernagel & William Rees** | **1996** | Formulated the concept of **'Ecological Footprint'**, measuring human resource appropriation in global hectares (gha). |
+
+---
+
+### Ecological Zonation & Organism Habitat Adaptations
+- **Organism Adaptations**:
+  - **Arboreal**: Tree-dwelling animals adapted for life in tree canopies (e.g., squirrels, chameleons, monkeys).
+  - **Fossorial**: Animals adapted for digging and living underground in burrows (e.g., moles, pocket gophers, earthworms).
+  - **Xericole**: Animals anatomically and physiologically adapted for arid, desert environments with minimal water loss (e.g., camels, kangaroo rats, desert lizards).
+  - **Cursorial**: Animals adapted specifically for running fast on land (e.g., cheetah, ostrich, deer).
+- **Lakes & Freshwater Zonation**:
+  - **Littoral Zone**: Shallow, sunlit near-shore waters where light penetrates to the bottom; supports rooted aquatic macrophytes (water lilies, reeds).
+  - **Limnetic Zone**: Open, well-lit surface waters away from the shoreline; prime habitat for photosynthetic phytoplankton, zooplankton, and nekton.
+  - **Profundal Zone**: Deep aphotic open-water layer below the limnetic zone; lacks light for photosynthesis, dominated by heterotrophic decomposers.
+  - **Benthic Zone**: Bottom floor and sediment layer across the entire body of water inhabited by benthos organisms.
+- **Nitrogen-Fixing Symbiosis**:
+  - **Rhizobium** genus bacteria establish a symbiotic relationship within the root nodules of **Leguminous plants / Pulses** (Fabaceae family, e.g., gram, pea, arhar, lentil, soybean). They convert atmospheric dinitrogen ($N_2$) into biologically accessible ammonium ($NH_4^+$) and nitrates, naturally replenishing soil nitrogen fertility without chemical fertilizers.
+
+---
+
 **PYQ — UPPCS Prelims 2025, Q22**
 
 With reference to 'Carrying Capacity of Environment', which of the following statements is/are correct?

@@ -141,6 +141,236 @@ Concepts of money and monetary aggregates (M0, M1, M2, M3, M4) | Commercial bank
 
 ---
 
+## 3.1 Money, Monetary Aggregates & Money Multiplier
+- **Concept and Macroeconomic Functions of Money**:
+  - Money is any verified asset or medium that is universally accepted in payment for goods and services or in the settlement of debts.
+  - **Four Classical Functions**:
+    1. *Medium of Exchange*: Facilitates multilateral commerce, completely eliminating the inefficiencies and double coincidence of wants inherent in barter economies.
+    2. *Unit of Account / Measure of Value*: Provides a common monetary denominator through which relative market values and economic accounting can be priced and compared.
+    3. *Store of Value*: Enables individuals and institutions to transfer purchasing power from the present into the future (subject to inflation risk).
+    4. *Standard of Deferred Payment*: Serves as the agreed benchmark for long-term contracts, lending transactions, and deferred debt obligations.
+- **Classification of Money**:
+  - **Commodity Money**: Money whose value derives directly from the commodity of which it is made (e.g., gold and silver coinage).
+  - **Fiat Money**: Currency notes and coins issued under sovereign decree and legal sanction that possess no intrinsic commodity value, but circulate because the government declares them to be legal tender. All modern Indian currency is fiat money.
+  - **Fiduciary Money**: Money backed by trust between the issuer and the payee (e.g., bank cheques, bills of exchange), not by legal tender mandate.
+  - **Legal Tender**:
+    - *Limited Legal Tender*: Money that can be legally tendered for payment only up to a prescribed maximum statutory ceiling (e.g., fifty-paise coins in India are legal tender up to ₹10 under the Coinage Act, 2011).
+    - *Unlimited Legal Tender*: Money that a creditor is legally bound to accept in settlement of debt up to any amount (e.g., all circulating currency notes of ₹2, ₹5, ₹10, ₹20, ₹50, ₹100, ₹200, and ₹500).
+- **Monetary Aggregates (Measures of Money Supply in India)**:
+  - Formulated by the RBI's Working Groups on Money Supply (1977 and updated 1998):
+    - **$M_0$ (Reserve Money / High-Powered Money / Monetary Base)**:
+      $$M_0 = \text{Currency in Circulation} + \text{Bankers' Deposits with RBI} + \text{'Other' Deposits with RBI}$$
+      Represents the net monetary liability of the Reserve Bank of India and forms the foundation for commercial credit expansion.
+    - **$M_1$ (Narrow Money)**:
+      $$M_1 = \text{Currency with the Public (C)} + \text{Demand Deposits with the Banking System (DD)} + \text{'Other' Deposits with RBI (OD)}$$
+      *Note:* Currency with the public = Currency in circulation minus cash held by banks. Demand deposits include current and savings accounts withdrawable on demand. $M_1$ is the **most liquid** money supply measure.
+    - **$M_2$**:
+      $$M_2 = M_1 + \text{Savings Deposits with Post Office Savings Banks}$$
+    - **$M_3$ (Broad Money)**:
+      $$M_3 = M_1 + \text{Time Deposits (Fixed & Recurring Deposits) with the Banking System}$$
+      $M_3$ is the primary, most widely tracked aggregate used by the RBI and macroeconomic planners to measure total liquidity in the national economy.
+    - **$M_4$**:
+      $$M_4 = M_3 + \text{Total Deposits with Post Office Savings Organisation (excluding National Savings Certificates / NSC)}$$
+    - **Liquidity Hierarchy**:
+      $$\text{Liquidity: } M_1 > M_2 > M_3 > M_4$$
+- **The Money Multiplier ($m$)**:
+  - Defined as the ratio between total broad money supply ($M_3$) and reserve money ($M_0$):
+    $$m = \frac{M_3}{M_0}$$
+  - **Mechanism**: When RBI injects primary reserve money into the banking sector, commercial banks retain a statutory fractional reserve (CRR) and lend out the surplus. As borrowers spend these funds, they are re-deposited into commercial banks, generating secondary deposits and expanding credit across the economy.
+  - **Determinants**: The money multiplier rises with a decrease in the Cash Reserve Ratio (CRR), a decrease in the currency-to-deposit ratio held by the public, and an increase in banking penetration and digital financial transactions.
+
+---
+
+## 3.2 Commercial Banking Architecture, Historical Evolution & Reforms
+- **Historical Milestones of Indian Banking**:
+  - *Bank of Hindustan (1770)*: First modern joint-stock commercial bank established in Calcutta by Alexander and Company (liquidated 1832).
+  - *General Bank of India (1786)*: Early colonial bank in Bengal.
+  - *Presidency Banks*: Bank of Calcutta / Bengal (1806), Bank of Bombay (1840), and Bank of Madras (1843).
+  - *Imperial Bank of India (1921)*: Amalgamation of the three Presidency Banks into a single commercial and quasi-central bank.
+  - *State Bank of India (SBI, 1955)*: On the recommendations of the **All India Rural Credit Survey Committee (A.D. Gorwala Committee)**, Parliament enacted the *State Bank of India Act, 1955*, nationalizing the Imperial Bank of India to spearhead rural banking and credit deployment on **1 July 1955**.
+  - *State Bank of India (Subsidiary Banks) Act, 1959*: Consolidated eight princely state banks as SBI subsidiaries (later fully merged back into SBI in April 2017).
+  - *Oudh Commercial Bank (1881)*: First bank with limited liability managed by an Indian board.
+  - *Punjab National Bank (1894)*: First purely Indian bank established in Lahore through nationalistic enterprise (Lala Lajpat Rai, Dyal Singh Majithia).
+- **Landmark Waves of Commercial Bank Nationalization**:
+  - **First Wave (19 July 1969)**: Prime Minister Indira Gandhi promulgated the nationalization of **14 major private commercial banks** holding public deposit bases of **₹50 crore or more** (including Central Bank of India, Bank of India, Punjab National Bank, Bank of Baroda, United Commercial Bank, Canara Bank, Dena Bank, Syndicate Bank, Union Bank of India, Allahabad Bank, Indian Bank, Indian Overseas Bank, Bank of Maharashtra, and United Bank of India). Objective: Break monopolies, prevent credit concentration in industrial houses, and direct banking channels to rural agriculture and small enterprise.
+  - **Second Wave (15 April 1980)**: Nationalization of **6 additional private commercial banks** holding public deposit bases of **₹200 crore or more** (Andhra Bank, Corporation Bank, New Bank of India, Oriental Bank of Commerce, Punjab & Sind Bank, and Vijaya Bank).
+- **Scheduled Commercial Banks (SCBs)**:
+  - Banks included in the **Second Schedule of the Reserve Bank of India Act, 1934**.
+  - Statutory criteria under Section 42(6): Paid-up capital and reserves must not be less than **₹5 lakh**, and bank operations must satisfy the RBI that depositors' interests are not jeopardized.
+  - Categories: Public Sector Banks (PSBs), Private Sector Banks, Foreign Banks, and Regional Rural Banks (RRBs).
+- **Priority Sector Lending (PSL)**:
+  - Statutory lending quota mandated by RBI to direct institutional credit to vulnerable and employment-intensive sectors:
+    - **Domestic Scheduled Commercial Banks & Foreign Banks with $\ge 20$ branches**: Must deploy at least **40% of Adjusted Net Bank Credit (ANBC)** or credit equivalent amount of off-balance sheet exposure to the priority sector.
+    - **Sub-targets**: Agriculture ($18\%$ of ANBC, of which $10\%$ must go to Small & Marginal Farmers); Micro Enterprises ($7.5\%$); Weaker Sections ($12\%$).
+    - **Small Finance Banks (SFBs)** and **Regional Rural Banks (RRBs)**: Mandated to maintain an enhanced PSL target of **75% of ANBC**.
+    - Categories eligible: Agriculture, MSMEs, Export Credit, Education, Housing, Social Infrastructure, Renewable Energy, and Others.
+- **Non-Performing Assets (NPAs) & Resolution Architecture**:
+  - **NPA Definition**: An advance or loan where interest or installment of principal remains **overdue for more than 90 days**. For agricultural loans: overdue for **2 crop seasons** for short-duration crops, or **1 crop season** for long-duration crops.
+  - **Asset Classification**:
+    1. *Standard Assets*: Regular servicing; no default risk.
+    2. *Sub-Standard Assets*: Remains an NPA for a period $\le 12\text{ months}$ (requires $15\%$ provisioning on secured portion).
+    3. *Doubtful Assets*: Remains in sub-standard category for $> 12\text{ months}$ (requires $25\%$ to $100\%$ provisioning based on age of default).
+    4. *Loss Assets*: Uncollectible; identified by bank inspectors or RBI auditors; zero residual value ($100\%$ provisioning required).
+  - **Gross NPA vs Net NPA**:
+    $$\text{Net NPA} = \text{Gross NPA} - \text{Cumulative Provisions}$$
+  - **Institutional Resolution Levers**:
+    - *SARFAESI Act, 2002*: Empowers banks and financial institutions to auction residential or commercial properties pledged as collateral to recover bad debts without court intervention.
+    - *Insolvency and Bankruptcy Code (IBC), 2016*: Time-bound, creditor-in-control resolution framework (180 days, extendable to 330 days) overseen by the National Company Law Tribunal (NCLT) and Insolvency and Bankruptcy Board of India (IBBI).
+    - *National Asset Reconstruction Company Limited (NARCL / "Bad Bank", 2021)*: Aggregates and consolidates stressed assets ($> ₹500\text{ crore}$) from banks to manage and liquidate them.
+    - *Prompt Corrective Action (PCA) Framework*: RBI supervisory triggers based on capital ratios (CRAR), asset quality (Net NPA), and profitability (ROA) to restrict dividend distributions, branch expansion, and lending when banks breach safety thresholds.
+- **Differentiated Banking Architecture**:
+  - Instituted on recommendations of the **Nachiket Mor Committee (2013)** to deepen financial inclusion:
+    - **Payments Banks**:
+      - Can accept demand deposits (savings and current accounts) up to a statutory ceiling of **₹2 lakh per individual customer**.
+      - Can issue ATM/debit cards and facilitate digital payment systems (UPI, NEFT, RTGS).
+      - **Strict Prohibition**: *Cannot advance loans or issue credit cards*.
+      - Minimum paid-up equity capital: ₹100 crore; promoter stake $\ge 40\%$ for first 5 years. Examples: Airtel Payments Bank (India's 1st), India Post Payments Bank (IPPB), Paytm Payments Bank.
+    - **Small Finance Banks (SFBs)**:
+      - Full-fledged niche commercial banks delivering basic savings and credit vehicles to micro-enterprises, small businesses, and unorganized sectors.
+      - Can issue loans, credit cards, and accept all deposits.
+      - Mandated to direct **75% of ANBC** to priority sector lending, and at least **50% of loan portfolio** must consist of advances up to ₹25 lakh. Examples: AU Small Finance Bank, Equitas SFB, Ujjivan SFB.
+
+---
+
+## 3.3 Reserve Bank of India (RBI): Mandate, Structure & Powers
+- **Origin and Legal Framework**:
+  - Recommended by the **Royal Commission on Indian Currency and Finance (Hilton Young Commission, 1926)** and the Central Banking Enquiry Committee (1931).
+  - Established under the **Reserve Bank of India Act, 1934**, commencing operations on **1 April 1935** in Calcutta (headquarters moved permanently to Mumbai in 1937).
+  - Started as a private shareholders' bank with paid-up capital of ₹5 crore.
+  - Formally nationalized on **1 January 1949** under the *Reserve Bank (Transfer to Public Ownership) Act, 1948*.
+  - **First Governor**: Sir Osborne Smith (1935–1937).
+  - **First Indian Governor**: Sir Chintaman Dwarkanath (C.D.) Deshmukh (1943–1949).
+  - **Longest-Serving Governor**: Sir Benegal Rama Rau (1949–1957; 7.5 years).
+  - **Shortest-Serving Governor**: Amitav Ghosh (1985; 20 days).
+  - **Only Prime Minister who served as RBI Governor**: Dr. Manmohan Singh (1982–1985).
+- **Core Statutory Functions of the RBI**:
+  1. **Monetary Authority**: Formulates, implements, and monitors monetary policy to maintain price stability while sustaining economic growth.
+  2. **Sole Issuer of Banknotes (Section 22 of RBI Act)**:
+     - RBI has the exclusive statutory right to issue currency notes of all denominations from **₹2 up to ₹10,000**.
+     - **Exception / Crucial Exam Fact**: **One Rupee notes and all metallic coins are minted/issued by the Ministry of Finance (Government of India)**. One Rupee notes bear the official signature of the **Finance Secretary**, whereas all banknotes of ₹2 and higher bear the signature of the **Governor of the Reserve Bank of India**.
+     - Note issue operates on the **Minimum Reserve System (MRS)** adopted in 1956 (amended 1957): RBI must back note issues with a minimum statutory reserve of **₹200 crore**, comprising at least **₹115 crore in Gold bullion/coins** and **₹85 crore in foreign securities**.
+  3. **Banker and Financial Adviser to the Government**:
+     - Manages banking accounts, deposits, and receipts for Central and State Governments (except Sikkim by special agreement).
+     - Manages public debt issuance and manages **Ways and Means Advances (WMA)**—short-term bridge finance granted to governments to overcome temporary mismatches between receipts and expenditures (repayable within 90 days).
+  4. **Bankers' Bank & Lender of Last Resort**:
+     - Holds statutory cash reserves of Scheduled Commercial Banks (CRR) and acts as central clearing house for inter-bank transactions.
+     - Acts as **Lender of Last Resort**: Provides emergency liquidity accommodation against approved collateral to solvent commercial banks experiencing temporary, panic-induced liquidity runs.
+  5. **Regulator and Supervisor of the Financial System**:
+     - Exercises comprehensive oversight under the **Banking Regulation Act, 1949** over licensing, branch expansion, liquidity ratios, asset classification, and management appointments.
+  6. **Custodian of Foreign Exchange Reserves**:
+     - Administers foreign currency transactions under the **Foreign Exchange Management Act (FEMA), 1999**.
+     - Manages India's Forex reserves, comprising 4 components: (1) **Foreign Currency Assets (FCA)**, (2) **Gold Reserves**, (3) **Special Drawing Rights (SDRs)** with the IMF, and (4) **Reserve Tranche Position (RTP)** in the IMF.
+
+---
+
+## 3.4 Monetary Policy Framework & Policy Instruments
+- **Monetary Policy Framework Agreement & MPC Architecture**:
+  - Following the recommendations of the **Urjit Patel Committee (2014)**, Parliament amended the RBI Act in 2016 to institutionalize **Flexible Inflation Targeting (FIT)**:
+    - **Inflation Target (Section 45ZA)**: Fixed by the Central Government in consultation with the RBI at **4% Consumer Price Index (CPI Combined) headline inflation, with an upper tolerance limit of 6% and a lower tolerance limit of 2% ($4\% \pm 2\%$)**.
+    - **Failure of Mandate**: If average headline inflation breaches the $2\% - 6\%$ band for **three consecutive quarters**, the RBI must submit a statutory report to the Central Government explaining the failure, remedial actions proposed, and expected timeline for target restoration.
+  - **Monetary Policy Committee (MPC, Section 45ZB)**:
+    - Consists of **6 members**:
+      1. Governor of the RBI — *ex-officio Chairperson*.
+      2. Deputy Governor of the RBI in charge of Monetary Policy — *ex-officio Member*.
+      3. One officer of the RBI nominated by the Central Board — *Member*.
+      4. Three external economic experts appointed by the Central Government for a non-renewable term of 4 years.
+    - Quorum is 4 members; decisions taken by majority vote; each member holds one vote.
+    - **Governor's Casting Vote**: In the event of a tie, the **Governor exercises a second or casting vote**.
+- **Quantitative / Direct & Indirect Policy Instruments**:
+  - **Policy Repo Rate (Liquidity Adjustment Facility - LAF)**:
+    - The benchmark interest rate at which the RBI lends overnight funds to commercial banks against the pledge of approved government securities.
+    - Hiking the Repo rate increases the cost of borrowing for commercial banks, disincentivizing credit, contracting money supply, and cooling inflationary pressures.
+  - **Standing Deposit Facility (SDF)**:
+    - Introduced in April 2022 under amended Section 17 of the RBI Act to serve as the operational floor of the LAF corridor (pegged 25 bps below the Repo Rate).
+    - Enables the RBI to absorb surplus liquidity from commercial banks on an **uncollateralized basis** (RBI does not provide G-Secs as collateral, preserving its asset portfolio). Replaced the fixed Reverse Repo rate as the primary liquidity absorption tool.
+  - **Marginal Standing Facility (MSF)**:
+    - Emergency overnight borrowing window introduced in 2011, allowing Scheduled Commercial Banks to borrow funds from the RBI over and above the LAF quota by dipping into their mandatory SLR quota up to an approved limit.
+    - Pegged 25 bps above the Repo rate; acts as the upper ceiling of the LAF interest-rate corridor.
+  - **Bank Rate (Section 49 of RBI Act)**:
+    - The standard rediscounting rate at which the RBI is prepared to buy or rediscount bills of exchange or other commercial paper without collateral repurchase agreements.
+    - Primarily used today as a penal rate aligned with the MSF rate to penalize banks for shortfalls in CRR or SLR.
+  - **Cash Reserve Ratio (CRR, Section 42 of RBI Act)**:
+    - The statutory percentage of Net Demand and Time Liabilities (NDTL) that commercial banks must maintain in **liquid cash balances with the Reserve Bank of India**.
+    - *Crucial Rule*: Under the amended RBI Act (2007), the statutory floor ($3\%$) and ceiling ($20\%$) were eliminated, and **the RBI pays ZERO interest on cash balances maintained under CRR**.
+  - **Statutory Liquidity Ratio (SLR, Section 24 of Banking Regulation Act, 1949)**:
+    - The statutory percentage of NDTL that commercial banks must maintain in approved, unencumbered liquid assets within the bank itself:
+      1. Cash in hand, 2. Gold valued at current market prices, 3. Unencumbered Government and Approved Securities (Treasury Bills and dated G-Secs).
+    - Max statutory cap is $40\%$. SLR ensures banks maintain solvency and provides a captive market for sovereign debt.
+  - **Open Market Operations (OMOs)**:
+    - Outright purchase or sale of government securities in the secondary market by the RBI.
+    - *Sale of G-Secs*: Absorbs liquidity from the financial system (anti-inflationary).
+    - *Purchase of G-Secs*: Injects durable liquidity into the financial system (pro-growth / economic stimulus).
+- **Qualitative / Selective Credit Control Instruments**:
+  - *Margin Requirements*: The difference between the market value of collateral pledged and the maximum loan advanced against it. Raising margins restricts borrowing for specific commodities (e.g., speculative food grains).
+  - *Consumer Credit Regulation*: Prescribing minimum down payments and installment periods for consumer durable loans.
+  - *Credit Rationing*: Fixing credit quotas for specific commercial sectors.
+  - *Moral Suasion*: Persuasive informal discussions, circulars, and meetings by the RBI Governor advising banks to restrain credit to non-priority sectors.
+  - *Direct Action*: Penal actions, credit restrictions, or fines imposed on recalcitrant commercial banks defying central bank directives.
+
+---
+
+## 3.5 Rural Credit Architecture, Development Finance & Landmark Committees
+- **Regional Rural Banks (RRBs)**:
+  - Inaugurated on **2 October 1975** (Gandhi Jayanti) via presidential ordinance, followed by the *Regional Rural Banks Act, 1976*, on the recommendations of the **Narasimham Working Group (1975)**.
+  - Established to develop the rural economy by providing credit for agriculture, trade, and commerce to small/marginal farmers, agricultural laborers, and village artisans.
+  - **First RRB**: **Prathama Bank**, headquartered in **Moradabad, Uttar Pradesh**, sponsored by Syndicate Bank.
+  - **Equity Capital Structure**:
+    - **Central Government**: $50\%$
+    - **State Government**: $15\%$
+    - **Sponsor Commercial Bank**: $35\%$
+  - **Bhandari Committee (1994)**: Recommended recapitalization, restructuring, and branch rationalization of unviable RRBs.
+  - **Structural Consolidation**: Under the "One State, One RRB" policy, successive mergers reduced the total number of RRBs from 196 in 2005 to 43, and further to 28 across India.
+- **National Bank for Agriculture and Rural Development (NABARD)**:
+  - Established on **12 July 1982** under the *National Bank for Agriculture and Rural Development Act, 1981 (Act 61 of 1981)*.
+  - Based on the recommendations of the **Committee to Review Arrangements for Institutional Credit for Agriculture and Rural Development (CRAFICARD / B. Sivaraman Committee, 1979)**.
+  - Replaced the Agricultural Credit Department (ACD) and Rural Planning and Credit Cell (RPCC) of the RBI, and absorbed the Agricultural Refinance and Development Corporation (ARDC).
+  - **Ownership**: Wholly owned by the Government of India ($100\%$ equity post-2018; RBI transferred its entire stake to GoI).
+  - **Functions**: Apex institution for agricultural refinance, rural infrastructure financing, institutional development of cooperatives and RRBs, and managing the **Rural Infrastructure Development Fund (RIDF)** set up in 1995–96.
+- **Microfinance & Specialized Rural Credit Schemes**:
+  - **SHG–Bank Linkage Programme**: Piloted by **NABARD in 1992–93**, linking informal women's Self-Help Groups (typically 10–20 members) with commercial banks for micro-savings and collateral-free micro-credit; recognized as the world's largest community-based microfinance initiative.
+  - **Kisan Credit Card (KCC) Scheme**: Formulated by NABARD in **1998** on the recommendations of the **R.V. Gupta Committee**, providing affordable, single-window short-term credit for crop cultivation, post-harvest expenses, consumption needs, and maintenance of farm assets. Expanded to cover animal husbandry and fisheries in 2018–19.
+  - **Lead Bank Scheme (LBS)**: Introduced by RBI in **1969** based on the Gadgil Study Group and F.K.F. Nariman Committee, assigning each district to a designated commercial bank ("Lead Bank") to formulate District Credit Plans (DCP). Further refined in 1989 through the **Service Area Approach (SAA)**.
+- **Landmark Financial & Banking Reform Committees**:
+  | Committee & Year | Chairman | Core Recommendations & Systemic Impact |
+  |---|---|---|
+  | **Hilton Young Commission (1926)** | E. Hilton Young | Recommended establishment of a central bank, leading to the RBI Act, 1934. |
+  | **Gorwala Committee (1954)** | A.D. Gorwala | Recommended creation of a state-partnered commercial bank, resulting in SBI (1955). |
+  | **Narasimham Working Group (1975)** | M. Narasimham | Recommended establishing low-cost rural banks, leading to the creation of RRBs (1975). |
+  | **Sivaraman Committee / CRAFICARD (1979)** | B. Sivaraman | Recommended establishing an apex agriculture bank, leading to NABARD (1982). |
+  | **Chakravarty Committee (1985)** | Sukhamoy Chakravarty | Recommended monetary targeting framework, treasury bill auctioning, and interest rate deregulation. |
+  | **Narasimham Committee I (1991)** | M. Narasimham | Systemic deregulation: reduction of high CRR/SLR, introduction of prudential accounting norms (90-day NPA classification, capital adequacy), licensing of new private sector banks. |
+  | **Narasimham Committee II (1998)** | M. Narasimham | Structural consolidation: mergers of strong PSBs, creation of Asset Reconstruction Companies (ARCs), operational autonomy for banks. |
+  | **R.V. Gupta Committee (1998)** | R.V. Gupta | Procedural simplifications in agricultural lending; model for Kisan Credit Card (KCC). |
+  | **Raghuram Rajan Committee (2008)** | Dr. Raghuram Rajan | Financial sector reforms: principle-based supervision, institutional creation of FSDC (2010), deepening of corporate bond markets. |
+  | **Nachiket Mor Committee (2013)** | Nachiket Mor | Comprehensive financial inclusion: differentiated bank licensing leading to Payments Banks and Small Finance Banks. |
+  | **Urjit Patel Committee (2014)** | Dr. Urjit Patel | Recommended adoption of Flexible Inflation Targeting (FIT), CPI Combined anchor ($4\% \pm 2\%$), and statutory creation of Monetary Policy Committee (MPC). |
+  | **P.J. Nayak Committee (2014)** | P.J. Nayak | Governance of PSB boards: creation of Bank Boards Bureau (BBB, now FSIB), reducing government shareholding below $50\%$. |
+
+---
+
+## Bilingual Terminology -- Money, Banking & Financial System
+
+| English Term | Hindi Term | Key Conceptual Anchor |
+|---|---|---|
+| **Legal Tender** | विधिमान्य मुद्रा | Currency officially recognized by law that a creditor is bound to accept in settlement of debt |
+| **Fiat Money** | प्रादिष्ट मुद्रा | Currency issued by government order without commodity backing; has no intrinsic value |
+| **Reserve Money ($M_0$)** | प्रारक्षित मुद्रा / आधार मुद्रा | Central bank monetary base; Currency in circulation + Bankers' deposits + Other deposits with RBI |
+| **Narrow Money ($M_1$)** | संकीर्ण मुद्रा | Highly liquid money; Currency with public + Demand deposits + Other deposits with RBI |
+| **Broad Money ($M_3$)** | व्यापक मुद्रा | Most common measure of national money supply; $M_1$ + Time deposits with commercial banks |
+| **Money Multiplier** | मुद्रा गुणक | Ratio of broad money supply to reserve money: $m = M_3 / M_0$ |
+| **Scheduled Bank** | अनुसूचित बैंक | Bank listed in the Second Schedule of the Reserve Bank of India Act, 1934 |
+| **Priority Sector Lending** | प्राथमिकता प्राप्त क्षेत्र ऋण | Mandatory lending quota ($40\%$ for domestic SCBs; $75\%$ for SFBs/RRBs) for agriculture, MSMEs, etc. |
+| **Non-Performing Asset (NPA)** | गैर-निष्पादित परिसंपत्ति | Loan or advance overdue for more than 90 days; classified into Substandard, Doubtful, and Loss |
+| **Repo Rate** | रेपो दर | Benchmark interest rate at which RBI lends overnight funds to banks against G-Sec collateral |
+| **Reverse Repo / SDF** | रिवर्स रेपो / स्थायी जमा सुविधा | Rate at which RBI absorbs surplus liquidity; SDF (2022) absorbs liquidity without G-Sec collateral |
+| **Cash Reserve Ratio (CRR)** | नकद आरक्षित अनुपात | Percentage of NDTL maintained as unremunerated cash balances by banks with the RBI |
+| **Statutory Liquidity Ratio (SLR)**| सांविधिक तरलता अनुपात | Percentage of NDTL maintained by banks in approved liquid assets (cash, gold, G-Secs) |
+| **Open Market Operations** | खुले बाजार की क्रियाएं | Outright sale or purchase of government securities by the RBI to manage durable liquidity |
+| **Lender of Last Resort** | अंतिम ऋणदाता | Emergency central bank liquidity accommodation provided to solvent banks facing liquidity crises |
+| **Ways and Means Advances (WMA)** | अर्थोपाय अग्रिम | Short-term bridge advances (up to 90 days) granted by RBI to governments for temporary cash mismatches |
+
+---
+
 ## Complete PYQ Bank (UPPCS)
 
 **Q1. UPPCS (Pre) 2024**

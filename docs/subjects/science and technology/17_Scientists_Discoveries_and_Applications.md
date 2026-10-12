@@ -343,18 +343,52 @@
 - **Bilateral Treaties:** The expiration of the New START treaty on 5 February 2026 marks the end of formal bilateral nuclear limits between the US and Russia. NATO's expansion to 32 members (Sweden and Finland) marks a historic reorganization of European collective security.
 
 ### 9.6 Space Launch Vehicles, Rocket Propulsion & Satellite Systems
-- **Rocket Propulsion:** Governed by Newton's Third Law and the Conservation of Linear Momentum. Multi-stage rockets drop dead propellant tank mass in flight to maximize final orbital velocity ($v = v_e \ln(m_0/m_f)$).
+- **Rocket Propulsion Dynamics:** Governed by Newton's Third Law and the Conservation of Linear Momentum ($m \Delta v = -v_e \Delta m$). Multi-stage rockets drop empty propellant tanks in flight to maximize final orbital velocity ($v = v_e \ln(m_0/m_f)$).
 - **ISRO Launch Vehicle Hierarchy:**
-  - *SLV-3:* 4-stage all-solid experimental rocket.
-  - *PSLV:* 4-stage (Solid-Liquid-Solid-Liquid) workhorse for Sun-synchronous Earth observation satellites.
-  - *GSLV Mk II:* 3-stage vehicle featuring an indigenous Cryogenic Upper Stage ($LH_2 + LOX$ below $-150^\circ\text{C}$).
-  - *LVM3 (Fatboy):* Heavy-lift vehicle capable of launching 4 tonnes to GTO and 8 tonnes to LEO.
+  - *SLV-3:* India's first experimental 4-stage all-solid rocket (Project Director Dr. A.P.J. Abdul Kalam; successfully orbited Rohini-1 in 1980). *Exam Note: SLV-3 is a Launch Vehicle, NOT a satellite*.
+  - *ASLV:* Augmented 5-stage solid launcher to validate strap-on boosters.
+  - *PSLV:* 4-stage (Solid-Liquid-Solid-Liquid) workhorse for Sun-synchronous Earth observation satellites; used for Chandrayaan-1, Mangalyaan, and commercial launches.
+  - *GSLV Mk II:* 3-stage vehicle featuring an indigenous Cryogenic Upper Stage ($LH_2 + LOX$ operating below $-150^\circ\text{C}$).
+  - *LVM3 (GSLV Mk III / Fatboy):* Heavy-lift vehicle capable of launching 4 tonnes to GTO and 8 tonnes to LEO; launched Chandrayaan-2, Chandrayaan-3, and OneWeb constellations.
   - *SSLV:* Quick-turnaround 3-stage solid launcher for small satellite commercial launches.
-- **Orbital Classes:** Geostationary orbits ($35,786\text{ km}$, 24 hr period, zero inclination) maintain a stationary footprint over Earth's equator. Sun-synchronous polar orbits (600–800 km, ~98° inclination) allow daily Earth imaging at consistent solar illumination.
+- **Orbital Classes:**
+  - *Geostationary Orbit (GEO):* Circular, equatorial orbit at **$35,786\text{ km}$** with a 24-hour period (appears stationary relative to Earth surface). Communication satellites reside in the exosphere at this altitude.
+  - *Sun-Synchronous Polar Orbit (SSPO):* Altitude 600–800 km, inclination ~98°; passes over each latitude at the same local solar time, ideal for remote sensing.
+- **Landmark Historical Satellites of India:**
+  - **Aryabhata (1975):** India's first satellite, indigenously fabricated under the leadership of Prof. U.R. Rao. Launched on **19 April 1975** from Kapustin Yar (USSR) aboard a Soviet Kosmos-3M rocket.
+  - **IRS-1A (1988):** India's first operational remote sensing satellite, launched on **17 March 1988** from **Baikonur Cosmodrome** (Kazakhstan/USSR).
+  - **Kourou Space Centre (French Guiana):** Primary European spaceport (Arianespace) used by ISRO for launching heavy geostationary communication satellites (e.g., INSAT-2, INSAT-3, INSAT-4A, GSAT-8, GSAT-10).
+  - **Kalpana-1 (METSAT):** Launched in **September 2002** by PSLV-C4 as METSAT (India's first dedicated meteorological satellite). Renamed **Kalpana-1** on 5 February 2003 in honor of astronaut **Kalpana Chawla**.
+  - **INSAT-4A:** Heavy multi-band satellite launched on 22 December 2005 from Kourou via Ariane-5, pioneering Direct-to-Home (DTH) digital television broadcasting across India.
+- **ISRO Leadership & Institutional Architects:**
+  - **Dr. Vikram Sarabhai:** Founding Father of the Indian Space Program (founded PRL, TERLS, ISRO).
+  - **Prof. Satish Dhawan:** Longest-serving Chairman (1972–1984); established space communications and tracking networks; spaceport SDSC SHAR named in his honor.
+  - **Dr. S. Somanath:** Appointed in January 2022 as the **Tenth Chairman of ISRO** (succeeded Dr. K. Sivan), overseeing the historic Chandrayaan-3 landing and Aditya-L1 launch.
 
 ### 9.7 Lunar, Solar, Planetary Exploration & Deep Space Observatories
-- **Lunar Missions:** Chandrayaan-1 confirmed lunar water. Chandrayaan-3 achieved the historic first soft landing near the lunar South Pole on 23 August 2023 (*Shiv Shakti Point*). Chandrayaan-4 will perform lunar sample return; Chandrayaan-5 (LUPEX) will explore water ice in permanently shadowed craters.
-- **Interplanetary & Solar Observatories:** Mangalyaan reached Mars on its maiden attempt. Aditya-L1 monitors solar flares from Sun-Earth L1. XPoSat measures X-ray polarization. Ground-based astronomical research is spearheaded by MACE at Hanle, Ladakh ($4,270\text{ m}$).
+- **Lunar Exploration & Chandrayaan Milestones:**
+  - **Chandrayaan-1 (2008):** Launched by PSLV-C11; Moon Impact Probe (MIP) and NASA Moon Mineralogy Mapper ($M^3$) confirmed water molecules ($H_2O/OH$) on the lunar surface.
+  - **Chandrayaan-2 (2019):** Launched on **22 July 2019** aboard **GSLV-MkIII-M1**. Project Director was **Dr. M. Annadurai**; Mission Director was Ritu Karidhal.
+  - **Chandrayaan-3 (2023):** Achieved historic soft landing near the lunar South Pole on **23 August 2023** (*Shiv Shakti Point*, designated National Space Day). India became the **Fourth nation** to achieve a soft lunar landing (after USSR, USA, China) and the **First nation** to land near the lunar South Pole.
+    - **Pragyan Rover Payloads:** **APXS** (Alpha Particle X-Ray Spectrometer) and **LIBS** (Laser Induced Breakdown Spectroscope) for in-situ elemental composition of lunar soil.
+  - **SOFIA (NASA/DLR):** Stratospheric Observatory for Infrared Astronomy aboard a modified Boeing 747SP; confirmed unambiguous water molecules ($H_2O$) on the sunlit surface of the Moon.
+- **Planetary Atmospheres & Deep Space Telescopes:**
+  - **Saturn & Jupiter Atmospheres:** Predominantly composed of Hydrogen and Helium, but contain large quantities of **Methane ($CH_4$)** and Ammonia ($NH_3$).
+  - **NASA Venus Missions:** Announced two landmark exploration missions: **DAVINCI+** (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) and **VERITAS** (Venus Emissivity, Radio Science, InSAR, Topography, and Spectroscopy).
+  - **Kepler Space Telescope:** NASA space observatory launched in 2009 specifically to detect **Earth-like exoplanets** orbiting in the habitable zones of other stars.
+  - **IceCube Neutrino Observatory:** World's largest neutrino telescope, instrumenting a cubic kilometer of clear Antarctic ice at the South Pole to detect high-energy cosmic neutrinos.
+- **Human Spaceflight & Cosmonaut Pioneers:**
+  - **Valentina Tereshkova:** World's first woman cosmonaut in space (Vostok 6, **16 June 1963**).
+  - **Rakesh Sharma:** First Indian citizen in space (Soyuz T-11 / Salyut-7, **3 April 1984**).
+  - **Kalpana Chawla:** First woman of Indian origin in space (STS-87 in 1997; died during re-entry of Space Shuttle Columbia STS-107 on 1 Feb 2003).
+  - **Sunita Williams:** Indian-origin astronaut with record spacewalk durations; commanded the ISS; returned safely via SpaceX **Crew Dragon** in March 2025 with Butch Wilmore.
+  - **Tim Peake:** Celebrated British astronaut who lived on the International Space Station (ESA).
+  - **NASA Space Shuttle Fleet:** Five orbital vehicles built: Columbia, Challenger, Discovery, Endeavour, and **Atlantis** (flew the final Space Shuttle mission, STS-135, in **July 2011**).
+- **Pioneering Scientists & Aerospace Engineering Facts:**
+  - **Narinder Singh Kapany:** Renowned Indian-American physicist celebrated as the **'Father of Fiber Optics'** for demonstrating light transmission through flexible glass fibers and coining the term *fiber optics* in 1960.
+  - **Dr. A.P.J. Abdul Kalam's Literary Works:** Renowned books authored by Dr. Kalam include ***Ignited Minds: Unleashing the Power Within India***, ***Wings of Fire***, ***India 2020: A Vision for the New Millennium***, ***Target 3 Billion***, and *Guiding Souls*.
+  - **Airplane "Black Box":** Electronic flight recorder comprising the Flight Data Recorder (FDR) and Cockpit Voice Recorder (CVR); painted bright **Orange** to facilitate rapid underwater and wreckage recovery.
+  - **Sarath (BMP-2):** Indian license-manufactured amphibious **Infantry Combat Vehicle (armored fighting vehicle)** produced by Ordnance Factory Medak; it is an armored land vehicle, **NOT an aircraft** (Aircraft include Jaguar, Dornier-228, Mirage-2000, MiG-27, Su-30 MKI).
 
 ---
 

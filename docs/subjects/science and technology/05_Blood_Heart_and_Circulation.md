@@ -219,6 +219,14 @@ Blood Composition (Plasma, Albumin, Globulin, Fibrinogen) | Formed Elements: Ery
     $$\text{Prothrombin (Factor II)} \xrightarrow[\mathbf{Ca^{2+}}]{\text{Factor Xa + Va}} \mathbf{Thrombin (Factor IIa)}$$
     $$\text{Soluble Fibrinogen (Factor I)} \xrightarrow{\mathbf{Thrombin}} \mathbf{Insoluble Fibrin Monomers} \xrightarrow{\mathbf{Factor XIIIa}} \mathbf{Stable Cross-Linked Fibrin Clot}$$
   - Clot retraction occurs as platelets contract via thrombosthenin, squeezing out a clear pale-yellow fluid called **Serum**.
+- **Specialized Comparative & Diagnostic Hematology Facts:**
+  - **Myoglobin Contains Iron ($Fe$):** Iron- and oxygen-binding chromoprotein found in striated skeletal and cardiac muscle tissues; contains an iron-porphyrin heme group. *(Compare: Chlorophyll contains Magnesium, Keratin contains Sulfur, Collagen is structural fibrous protein)*.
+  - **Hemoglobin Dissolved in Plasma in Earthworm:** In **Earthworms (*Pheretima*)**, hemoglobin is dissolved directly in blood plasma rather than enclosed inside corpuscles (they lack erythrocytes).
+  - **WBC Dimensions & Ratios:** Human leukocytes have an average diameter of approximately **$7\text{ microns} = \mathbf{0.007\text{ mm}}$**. The normal physiological numerical ratio of Red Blood Cells to White Blood Cells is **$600 : 1$**.
+  - **Pathology of Blood Counts:**
+    - **Leukemia:** Pathological, malignant proliferation of abnormal white blood cells in bone marrow and bloodstream.
+    - **Thrombocytopenia:** Abnormal drop in circulating blood platelet count ($<100,000/\mu\text{L}$), classically seen in acute **Dengue fever**.
+  - **Artificial Blood Research:** In 2006, researchers in **Britain (UK)** engineered plastic-based artificial blood molecules that mimic hemoglobin and can be administered safely across all blood groups.
 
 ---
 
@@ -230,6 +238,9 @@ Blood Composition (Plasma, Albumin, Globulin, Fibrinogen) | Formed Elements: Ery
     1. **Epicardium (Visceral Pericardium)**: Outer thin protective serous layer.
     2. **Myocardium**: Middle thick contractile layer composed of branching **Cardiac Muscle Fibres** connected by transverse **Intercalated Discs** containing low-resistance **Gap Junctions**, allowing the entire chamber to contract as a functional electrical syncytium.
     3. **Endocardium**: Inner smooth lining of simple squamous endothelium continuous with the endothelial lining of systemic blood vessels.
+- **Surgical Milestones — Heart Transplantation**:
+  - **World's First Human Heart Transplant:** Successfully performed on **3 December 1967** by South African cardiothoracic surgeon **Dr. Christiaan Barnard (Dr. Christian Bernard)** at Groote Schuur Hospital, Cape Town, South Africa (patient: Louis Washkansky). *(Note: William Harvey discovered the circulation of blood in 1628, but did not perform transplants)*.
+  - **India's First Heart Transplant:** Successfully conducted on **3 August 1994** by **Dr. P. Venugopal** at the All India Institute of Medical Sciences (**AIIMS, New Delhi**).
 - **Internal Partitioning & Flow Architecture**:
   - The right and left atria are separated by the **Interatrial Septum**, which displays an oval shallow depression called the **Fossa Ovalis** (remnant of the embryonic *Foramen Ovale*, through which blood bypassed the unexpanded fetal lungs).
   - The right and left ventricles are separated by the thick, muscular **Interventricular Septum**.
@@ -238,11 +249,13 @@ Blood Composition (Plasma, Albumin, Globulin, Fibrinogen) | Formed Elements: Ery
     $$\text{Lungs} \xrightarrow{\text{Pulmonary Veins}} \text{Left Atrium} \xrightarrow[\text{Mitral}]{\text{Bicuspid}} \text{Left Ventricle} \xrightarrow[\text{Semilunar}]{\text{Aortic}} \text{Aorta} \rightarrow \text{Systemic Organs}$$
 - **Electrophysiology of the Cardiac Pacemaker**:
   - Cardiac muscle is **myogenic**: the electrical impulse originates intrinsically within specialized auto-rhythmic nodal cardiac muscle cells without requiring nervous stimulation.
-  - **SA Node (Pacemaker)**: Possesses the fastest rate of spontaneous diastolic depolarization due to unique unstable resting membrane potential caused by slow inward leak of sodium ($Na^+$) ions via "funny channels" ($I_f$).
+  - **SA Node (Sinoatrial Node / Pacemaker)**: Located in the right atrium; initiates spontaneous rhythmic cardiac impulses at 70–75 beats/minute.
   - Autonomic Regulation:
     - **Sympathetic Nervous System (Cardiac Accelerator Nerves)**: Releases **Noradrenaline (Norepinephrine)**; binds to $\beta_1$-adrenergic receptors, increasing SA node firing rate, cardiac contractility, and cardiac output.
     - **Parasympathetic Nervous System (Vagus Nerve / CN X)**: Releases **Acetylcholine (ACh)**; binds to muscarinic receptors, hyperpolarizing the SA node and **slowing the heart rate (Bradycardia)**.
 - **Physical Dynamics of Blood Pressure & Measurement**:
+  - Normal resting adult blood pressure is standardized as **$120/80\text{ mm Hg}$** (Systolic $120\text{ mm Hg}$ / Diastolic $80\text{ mm Hg}$).
+  - **Pulse Pressure:** The difference between systolic and diastolic pressure = $\mathbf{120 - 80 = 40\text{ mm Hg}}$.
   - Blood pressure is highest in the Ascending Aorta (~$120\text{ mm Hg}$), declines progressively across large systemic arteries, drops sharply across high-resistance **Arterioles** (the primary site of peripheral vascular resistance), falls to $15–30\text{ mm Hg}$ in capillaries, and drops to near zero ($0–4\text{ mm Hg}$) in the right atrium (Central Venous Pressure / CVP).
   - **Clinical Sphygmomanometry**: An inflatable cuff is wrapped around the upper arm and inflated above systolic pressure to occlude the brachial artery; as the valve is released slowly, blood begins to spurt through the partially compressed vessel, generating turbulent tapping sounds audible through a stethoscope — these are the **Sounds of Korotkoff**. The first audible tap denotes **Systolic BP**; the complete disappearance of sound denotes **Diastolic BP**.
 

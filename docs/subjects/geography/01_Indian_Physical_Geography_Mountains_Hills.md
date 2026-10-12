@@ -257,14 +257,14 @@ D. Oligocene
 
 ![Northern Plains Geomorphological Cross-Section: Shiwalik to Khadar](images/02_northern_plains_cross_section.jpg)
 
-- The Northern Plain is a **foredeep** filled by Himalayan rivers. South of the Shiwaliks the belts run **Bhabar** (भाबर), then **Terai** (तराई), then **Bhangar (भांगर) / Khadar (खादर)**. Never reverse that order.
-- Direction matters. From the **Himalaya foot moving south**, the order is **Shiwalik → Bhabar → Terai**. From the **Gangetic edge moving north**, UK-style lists read **Tarai → Bhabar → Shiwalik**. Same belts — opposite reading (रीडिंग) direction. Always note where the stem starts.
+- The Northern Plain is a **foredeep** filled by Himalayan rivers. South of the Shiwaliks the belts run **Bhabar / Bhabhar** (भाबर), then **Terai / Tarai** (तराई), then **Bhangar (भांगर) / Khadar (खादर)**. Never reverse that order.
+- Direction matters. From the **Himalaya foot moving south**, the order is **Shiwalik → Bhabar/Bhabhar → Terai/Tarai**. From the **Gangetic edge moving north**, UK-style lists read **Tarai → Bhabar → Shiwalik**. Same belts — opposite reading (रीडिंग) direction. Always note where the stem starts.
 - The Indian sector of this alluvial tract is about **2400 km** long. Width is greatest in the west (about **500 km**) and narrows eastward.
 - Average elevation is about **200 m**. The **Ambala** watershed (about **291 m**) divides the **Indus** (सिंधु) and **Ganga** (गंगा) systems.
-- The **Bhabar** is a narrow pebble belt, about **8–16 km** wide, immediately south of the Shiwaliks. Streams **sink** into the porous gravel here.
+- The **Bhabar (Bhabhar)** is a narrow pebble belt, about **8–16 km** wide, immediately south of the Shiwaliks. Streams **sink** into the porous gravel here.
 - Bhabar fans run with remarkable continuity from the **Indus to the Tista**. The belt is wider in the west than in the east.
 - Bhabar is **poor for plough agriculture**. Only deep-rooted trees do well.
-- The **Terai** lies south of the Bhabar. Streams **re-emerge**, so the belt is marshy and forested. It is about **15–30 km** wide.
+- The **Terai (Tarai)** lies south of the Bhabar. Streams **re-emerge**, so the belt is marshy, waterlogged, and forested. It is about **15–30 km** wide. Characteristic **artesian wells** (pressurized groundwater rising to surface naturally without pumping) are prominently found in this Tarai region (e.g., Uttarakhand and UP Terai belts).
 - Terai is **more marked in the east** because rainfall is higher there.
 - **Jim Corbett** (जिम कॉर्बेट) (Uttarakhand) and **Kaziranga** (काजीरंगा) (Assam) sit in terai / floodplain forest.
 - **Dudhwa** (दुधवा) National Park and **Katarniaghat** Wildlife Sanctuary sit in the Terai of Uttar Pradesh.

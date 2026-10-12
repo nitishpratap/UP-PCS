@@ -131,6 +131,242 @@ Concepts and taxonomy of inflation (Creeping, Walking, Galloping, Hyperinflation
 
 ---
 
+## 4.1 Inflation: Concepts, Taxonomy, Causes & Socio-Economic Impacts
+- **Core Economic Concepts**:
+  - **Inflation**: A sustained, generalized increase in the overall price level of goods and services across an economy over time, which systematically reduces the real purchasing power of the national currency unit.
+  - **Deflation**: A persistent, generalized decrease in the general price level (negative inflation rate, $\pi < 0$), typically driven by collapsing aggregate demand and often accompanied by severe recessionary contraction.
+  - **Disinflation**: A slowdown in the **rate of inflation**; prices continue to rise, but at a visibly decelerating pace (e.g., inflation falling from $8\%$ to $5\%$).
+  - **Stagflation**: A toxic macroeconomic condition combining economic stagnation (slow or negative GDP growth and high unemployment) with high, persistent price inflation. Conventional demand management policies face a policy dilemma (hiking interest rates worsens recession; cutting interest rates fuels inflation).
+  - **Reflation**: Deliberate fiscal and monetary stimulus enacted by policymakers to raise price levels and revive aggregate demand following an economic slump or deflationary spiral.
+  - **Shrinkflation**: The practice of reducing the physical size or quantity of a packaged product while maintaining its retail sticker price unchanged.
+  - **Skewflation**: Episodic, persistent price inflation concentrated in one or a small group of commodity sectors (e.g., food grains or vegetables) while price levels in the rest of the economy remain stable.
+- **Taxonomy of Inflation by Rate of Speed**:
+  - **Creeping Inflation (Mild Inflation)**: Prices rise gradually at a very low rate (typically $\le 3\%$ annually). Generally considered beneficial and essential for grease in relative price adjustments, encouraging business investment and employment.
+  - **Walking or Trotting Inflation**: Moderate price rise between $3\%$ and $10\%$ per year. Serves as a clear warning signal requiring monetary tightening before expectations become unanchored.
+  - **Running or Galloping Inflation**: Rapid price acceleration between $10\%$ and $20\%$ (or up to $100\%$) annually. Distorts long-term contracts, penalizes savings, and impairs capital allocation.
+  - **Hyperinflation**: An uncontrollable monetary catastrophe where price levels escalate astronomically (exceeding $50\%$ per month or millions of percent annually). Currency ceases to function as a store of value or medium of exchange; citizens resort to barter or foreign currencies (e.g., Germany 1923, Zimbabwe 2008, Venezuela 2018).
+- **Primary Causes of Inflation**:
+  - **Demand-Pull Inflation**:
+    - Triggered when aggregate demand ($AD$) outstrips the productive aggregate supply capacity ($AS$) of an economy near full employment ("too much money chasing too few goods").
+    - Catalysts: Excessive deficit financing / money printing, surging government expenditure, low interest rates, population spikes, or export booms.
+  - **Cost-Push Inflation (Supply-Shock Inflation)**:
+    - Driven by aggregate supply contractions or abrupt escalations in the unit cost of production.
+    - Catalysts: Geopolitical shocks to global crude oil supplies, agricultural harvest failures due to droughts/monsoon deficits, depreciating domestic currency raising import bills, or wage-push spirals.
+  - **Structural / Bottleneck Inflation**:
+    - Identified by structuralist economists in developing economies like India.
+    - Caused by structural rigidities: inadequate transportation infrastructure, deficient cold-storage chains, monopolistic marketing intermediaries (APMC mandis), and structural supply bottlenecks that prevent agricultural supply from responding swiftly to rising demand.
+  - **Imported Inflation**:
+    - Domestic price inflation originating directly from international price rises of essential imported inputs (e.g., crude petroleum, edible oils, and fertilizers) or a sharp depreciation of the domestic currency (making imports costlier in domestic rupees).
+- **Socio-Economic Impacts of Inflation (Winners vs Losers)**:
+  - **Debtors (Borrowers) GAIN**: Debt contracts are denominated in nominal terms. Debtors repay their loans in currency units that have lower real purchasing power than the money they originally borrowed.
+  - **Creditors (Lenders) & Bondholders LOSE**: Creditors receive fixed nominal interest payments whose real purchasing power is eroded by price inflation.
+  - **Fixed-Income Earners, Pensioners & Salaried Workers LOSE**: Real wages decline unless compensated through $100\%$ inflation-indexed dearness allowances (DA).
+  - **Equity Investors & Business Entrepreneurs GAIN (in moderate inflation)**: Profit margins expand as selling prices generally increase faster than fixed production overheads.
+  - **Export Competitiveness WEAKENS**: Higher domestic inflation raises production costs of export goods relative to foreign competitors, widening the trade deficit unless the currency depreciates.
+  - **Fisher Equation & Real Interest Rate**:
+    $$r \approx i - \pi$$
+    *(where $r$ is the real interest rate, $i$ is the nominal interest rate, and $\pi$ is the inflation rate)*. When inflation exceeds the nominal deposit rate ($\pi > i$), the real return on bank savings turns negative.
+
+---
+
+## 4.2 Measurement of Price Inflation: CPI, WPI, GDP Deflator & IIP
+- **Consumer Price Index (CPI) — Retail Inflation**:
+  - Measures changes over time in the general level of retail prices of a fixed basket of goods and services consumed by households.
+  - **Crucial Distinction**: **CPI includes both physical goods AND consumer services** (housing, healthcare, transport, education, personal care).
+  - **Key National CPI Series**:
+    1. **CPI (Combined - Urban + Rural)**:
+       - Compiled and released monthly by the **National Statistical Office (NSO)**, Ministry of Statistics and Programme Implementation (**MoSPI**).
+       - Current base year: **2012 = 100**.
+       - **Commodity Basket Weights**:
+         - *Food and Beverages*: **45.86%** (largest single category; makes Indian CPI highly sensitive to food price volatility).
+         - *Miscellaneous (Services: Health, Education, Transport)*: **28.32%**.
+         - *Housing*: **10.07%** (measured in Urban basket only).
+         - *Fuel and Light*: **6.84%**.
+         - *Clothing and Footwear*: **6.53%**.
+         - *Pan, Tobacco and Intoxicants*: **2.38%**.
+       - **Official Monetary Anchor**: Under the RBI Act, the Monetary Policy Committee (MPC) officially targets **CPI (Combined)** inflation as the national headline retail inflation benchmark ($4\% \pm 2\%$).
+    2. **Group-Specific CPI Series (Labour Bureau)**:
+       - **CPI for Industrial Workers (CPI-IW)**: Base year 2016 = 100. Used for calculating Dearness Allowance (DA) for government employees and industrial wage revisions.
+       - **CPI for Agricultural Labourers (CPI-AL)**: Base year 1986–87 = 100. Used for setting minimum agricultural wages and MGNREGA wage revisions.
+       - **CPI for Rural Labourers (CPI-RL)**: Base year 1986–87 = 100.
+       - *Institutional Provenance*: All three group-specific CPI series are compiled and published monthly by the **Labour Bureau**, an attached office under the **Ministry of Labour and Employment** (Shimla/Chandigarh).
+- **Wholesale Price Index (WPI) — Wholesale / Producer Inflation**:
+  - Tracks price movements at the stage of wholesale transaction, prior to retail distribution.
+  - **Crucial Distinction**: **WPI covers physical goods ONLY; services are COMPLETELY EXCLUDED**.
+  - **Institutional Provenance**: Compiled and published monthly by the **Office of the Economic Adviser (OEA)**, Department for Promotion of Industry and Internal Trade (DPIIT), **Ministry of Commerce and Industry**.
+  - Current base year: **2011–12 = 100** (recommended by the Saumitra Chaudhuri Working Group).
+  - **Three Major Commodity Groups in WPI**:
+    1. **Manufactured Products**: Weight = **64.23%** (includes chemicals, food products, basic metals, machinery; largest weight).
+    2. **Primary Articles**: Weight = **22.62%** (includes food articles like cereals, pulses, vegetables; and non-food articles like raw cotton, minerals, crude petroleum).
+    3. **Fuel and Power**: Weight = **13.15%** (includes electricity, diesel, petrol, LPG).
+- **Comparison: CPI vs WPI**:
+  | Parameter | Consumer Price Index (CPI Combined) | Wholesale Price Index (WPI) |
+  |---|---|---|
+  | **Compiling Authority** | **NSO, MoSPI** | **Office of Economic Adviser, DPIIT, Min of Commerce** |
+  | **Current Base Year** | **2012 = 100** | **2011–12 = 100** |
+  | **Coverage** | **Goods AND Services** | **Goods ONLY (Services excluded)** |
+  | **Largest Basket Component** | **Food & Beverages (45.86%)** | **Manufactured Products (64.23%)** |
+  | **Policy Anchor** | **Official anchor for RBI Inflation Targeting** | Used for business pricing & GDP deflator inputs |
+  | **Point of Pricing** | Consumer retail point (includes indirect taxes) | Wholesale transaction (excludes retail taxes) |
+- **Headline Inflation vs Core Inflation**:
+  - **Headline Inflation**: Total inflation calculated across the entire commodity basket of the price index, including volatile items. In India, Headline Inflation refers to year-on-year change in the **CPI (Combined)**.
+  - **Core Inflation**: Calculated by stripping out the volatile components of **Food and Fuel/Energy** from the headline index:
+    $$\text{Core Inflation} = \text{Headline CPI} - (\text{Food and Beverages} + \text{Fuel and Light})$$
+    Core inflation reflects the underlying, durable demand-pull inflationary pressure and is less subject to transitory agricultural weather shocks.
+- **GDP Deflator**:
+  - The ratio of Nominal GDP (measured at current market prices) to Real GDP (measured at constant base-year prices):
+    $$\text{GDP Deflator} = \frac{\text{Nominal GDP}}{\text{Real GDP}} \times 100$$
+  - **Characteristics**: The most comprehensive measure of inflation in an economy because it reflects price changes across **all domestically produced goods and services** in the economy.
+  - Unlike CPI and WPI, the GDP deflator does not use a fixed commodity basket; its basket automatically changes dynamically with changing production patterns. It does not reflect prices of imported goods.
+- **Index of Industrial Production (IIP)**:
+  - Measures the physical volume of industrial production over time.
+  - **Crucial Distinction**: IIP is a **VOLUME INDEX**, not a price index.
+  - Compiled and published monthly by the **National Statistical Office (NSO), MoSPI**, with base year **2011–12 = 100**.
+  - Sectoral breakdown: **Manufacturing (77.63%)**, **Mining (14.37%)**, and **Electricity (7.99%)**.
+  - **Eight Core Industries**: Comprise **40.27%** of the total IIP weight. In descending order of weight: **Refinery Products (28.04%) > Electricity (19.85%) > Steel (17.92%) > Coal (10.33%) > Crude Oil (8.98%) > Natural Gas (6.88%) > Cement (5.37%) > Fertilizers (2.63%)**.
+
+---
+
+## 4.3 Domestic Savings, Gross Capital Formation & Incremental Capital-Output Ratio (ICOR)
+- **Domestic Savings Framework**:
+  - In national income accounting, savings represents the residual disposable income remaining after final consumption expenditures:
+    $$\text{Savings } (S) = \text{Income } (Y) - \text{Consumption } (C)$$
+  - **Three Sectors of Gross Domestic Savings (GDS)**:
+    1. **Household Sector**: The **largest single contributor** to gross domestic savings in India (historically accounting for $60\% - 70\%$ of national savings). Subdivided into:
+       - *Physical Savings*: Net additions to household real estate, land, dwellings, physical gold, and micro-business machinery.
+       - *Financial Savings*: Bank deposits, currency holdings, life insurance funds, provident and pension funds, mutual fund units, shares, and debentures.
+    2. **Private Corporate Sector**: Retained earnings and corporate depreciation reserves of non-financial and financial private corporations.
+    3. **Public Sector**: Savings of government administrative departments and retained earnings of Public Sector Enterprises (often negative or marginal due to public revenue deficits).
+- **Gross Capital Formation (GCF) & Economic Growth**:
+  - Gross Capital Formation represents the net addition to the economy's physical capital stock during an accounting year.
+  - Comprises:
+    1. *Gross Fixed Capital Formation (GFCF)*: Investment in physical plant, machinery, buildings, transport equipment, and intellectual property.
+    2. *Changes in Inventories / Stocks*: Net change in raw materials, work-in-progress, and finished goods held by producers.
+    3. *Valuables*: Acquisitions of gold, precious stones, and art.
+  - In a closed economy: $\text{Savings} = \text{Investment}$ ($S = I$). In an open economy: Domestic Investment equals Domestic Savings plus Net Foreign Capital Inflows (reflected as Current Account Deficit / CAD).
+- **Capital–Output Ratio (COR) & Incremental Capital–Output Ratio (ICOR)**:
+  - **Capital–Output Ratio (COR)**: The amount of total capital required to produce one unit of annual output.
+  - **Incremental Capital–Output Ratio (ICOR)**: Measures the marginal efficiency of capital: the additional amount of capital investment required to generate one additional unit of GDP output:
+    $$\text{ICOR} = \frac{\Delta K}{\Delta Y} = \frac{\text{Investment Rate (% of GDP)}}{\text{GDP Growth Rate (%) }}$$
+  - **Economic Interpretation**:
+    - A **LOWER ICOR** indicates **HIGHER capital productivity and economic efficiency** (less investment capital is needed to produce extra GDP).
+    - A **HIGHER ICOR** indicates **LOWER efficiency**, execution delays, infrastructure bottlenecks, and capital misallocation. For example, if an economy invests $32\%$ of GDP and achieves an $8\%$ growth rate, its $\text{ICOR} = 32 / 8 = 4.0$. If growth drops to $4\%$, its $\text{ICOR} = 32 / 4 = 8.0$ (signaling severe capital inefficiency).
+
+---
+
+## 4.4 Financial Markets: Money Market vs Capital Market Structure
+- **Overview of Indian Financial Markets**:
+  - Financial markets mobilize surplus financial resources from net savers (primarily households) and allocate them to productive economic borrowers (corporates, entrepreneurs, and governments).
+  - Divided into two core segments based on loan maturity and regulatory jurisdiction:
+- **1. The Money Market (Short-Term Credit $\le 364\text{ Days}$)**:
+  - Regulated and supervised by the **Reserve Bank of India (RBI)**.
+  - Deals in low-risk, highly liquid debt instruments with tenures up to one year.
+  - **Core Money Market Instruments**:
+    - **Call Money, Notice Money & Term Money**:
+      - *Call Money*: Inter-bank borrowing or lending of unsecured funds for **one single day (overnight)**.
+      - *Notice Money*: Inter-bank funds borrowed or lent for a period between **2 days and 14 days**.
+      - *Term Money*: Borrowings for periods exceeding **14 days up to one year**.
+    - **Treasury Bills (T-Bills)**:
+      - Short-term zero-coupon debt instruments issued by the RBI on behalf of the Government of India to finance temporary fiscal cash mismatches.
+      - Issued at a discount to face value and redeemed at par; the difference represents the investor's yield.
+      - Standardized maturities: **91-day, 182-day, and 364-day**.
+      - *Crucial Exam Fact*: **State Governments DO NOT issue Treasury Bills** (they issue State Development Loans - SDLs in the capital market, or use WMA/OD facilities with RBI).
+    - **Commercial Paper (CP)**:
+      - Introduced in 1990 on the recommendations of the **Vaghul Working Group**.
+      - Unsecured short-term promissory note issued by highly rated corporate entities, primary dealers, and all-India financial institutions to raise working capital directly from the market.
+      - Maturity period: **7 days to 1 year**; issued in denominations of **₹5 lakh** and multiples thereof.
+    - **Certificates of Deposit (CD)**:
+      - Introduced in 1989. Negotiable, dematerialized promissory notes issued by Scheduled Commercial Banks and financial institutions against term deposits.
+      - Minimum maturity for commercial banks is **7 days**, with maximum tenure up to **1 year**; minimum denomination is **₹1 lakh**.
+    - **Cash Management Bills (CMBs)**:
+      - Introduced in 2010 by GoI and RBI to meet temporary cash mismatches with maturities of **less than 91 days**.
+- **2. The Capital Market (Medium- & Long-Term Capital $> 1\text{ Year}$)**:
+  - Regulated and supervised by the **Securities and Exchange Board of India (SEBI)**.
+  - Channelling long-term savings into industrial equity and long-dated debt infrastructure.
+  - **Two Segments of the Capital Market**:
+    - **Primary Market (New Issues Market)**:
+      - The market where corporate securities (shares or bonds) are created and sold to investors for the first time.
+      - *Methods of Floatation*:
+        1. *Initial Public Offering (IPO)*: First public equity sale by an unlisted company to list on a stock exchange.
+        2. *Follow-on Public Offering (FPO)*: Subsequent public offering by an already-listed company.
+        3. *Rights Issue*: Offering new shares to existing shareholders in proportion to their existing shareholdings.
+        4. *Private Placement / Qualified Institutional Placement (QIP)*: Selling securities directly to select institutional investors (banks, mutual funds, insurance companies) without a public prospectus.
+    - **Secondary Market (Stock Exchange)**:
+      - Platform where previously issued securities are traded among investors, providing continuous liquidity and price discovery.
+      - *Major Indian Stock Exchanges*:
+        - **Bombay Stock Exchange (BSE)**: Established in **1875** as the *Native Share and Stock Brokers' Association*; Asia's oldest stock exchange. Flagship benchmark index: **S&P BSE Sensex**, tracking **30 large-cap, liquid bellwether companies**.
+        - **National Stock Exchange (NSE)**: Incorporated in 1992 (recommended by the **Pherwani Committee**) and operationalized in 1994; pioneered nation-wide, screen-based automated trading. Flagship benchmark index: **Nifty 50**, tracking **50 diversified companies** across economic sectors.
+    - **National Depositories & Dematerialization**:
+      - Converts physical paper share certificates into electronic book entries (**demat format**):
+        1. **National Securities Depository Limited (NSDL)**: Established in **August 1996** (promoted by IDBI, UTI, and NSE); India's first and largest depository.
+        2. **Central Depository Services (India) Limited (CDSL)**: Established in **February 1999** (promoted by BSE and leading commercial banks).
+
+---
+
+## 4.5 Capital Market Institutions, SEBI Regulatory Framework & Specialized Bonds
+- **Securities and Exchange Board of India (SEBI)**:
+  - Established initially on **12 April 1988** as an interim non-statutory body through an administrative resolution.
+  - Granted full statutory status and autonomous regulatory powers on **30 January 1992** through the promulgation of the *Securities and Exchange Board of India Act, 1992 (SEBI Act, 1992)*, following recommendations of the **Narasimham Committee (1991)**.
+  - **Headquarters**: Mumbai; regional offices in New Delhi, Kolkata, Chennai, and Ahmedabad.
+  - **Threefold Statutory Mandate**:
+    1. Protecting the interests of retail and institutional investors in securities.
+    2. Promoting the orderly development of the securities market.
+    3. Regulating business in stock exchanges, credit rating agencies, mutual funds, and intermediary operations.
+  - **Securities Appellate Tribunal (SAT)**: Statutory appellate body established under the SEBI Act to hear appeals against rulings of SEBI, IRDAI, and PFRDA. Appeals against SAT orders lie directly to the **Supreme Court of India**.
+- **Mutual Funds & Asset Management Companies**:
+  - Collective investment schemes that pool financial savings from numerous investors to purchase diversified portfolios of equities, government securities, and corporate debt.
+  - **Pioneer Inception**: The mutual fund industry commenced in India in **1963** with the establishment of the **Unit Trust of India (UTI)** by an Act of Parliament. Private sector entry was permitted in **1993** (Kothari Pioneer was the first private mutual fund).
+  - **Net Asset Value (NAV)**: The per-unit market value of a mutual fund scheme's portfolio assets minus liabilities:
+    $$\text{NAV} = \frac{\text{Market Value of Securities} + \text{Receivables} - \text{Accrued Liabilities}}{\text{Total Number of Outstanding Units}}$$
+- **Specialized Financial Market Debt Instruments & Bonds**:
+  - **Masala Bonds**:
+    - Rupee-denominated bonds issued by Indian corporate entities or public institutions in overseas debt capital markets (first issued by IFC in London, 2014, to fund Indian railway infrastructure).
+    - **Strategic Advantage**: The **currency exchange rate risk is borne entirely by the foreign investor**. If the Rupee depreciates against the US Dollar, the Indian issuer still repays in Rupees, shielding domestic borrowers from foreign currency insolvency.
+  - **Sovereign Gold Bonds (SGBs)**:
+    - Government securities denominated in grams of gold, introduced in November 2015 by the Government of India and issued by the RBI.
+    - Designed to substitute physical imports of gold and financialize domestic gold holdings.
+    - Pays a fixed annual interest rate (coupon of **2.50% per annum** payable semi-annually) plus market capital gains linked to prevailing gold prices at redemption. Capital gains tax is fully exempt for individual investors on redemption after the 8-year tenure.
+  - **Zero-Coupon Bonds (Deep Discount Bonds)**:
+    - Debt securities issued at a substantial discount to face value that make zero periodic coupon interest payments during their tenure. The investor earns the entire return via par redemption at maturity.
+  - **Green Bonds**:
+    - Debt instruments whose proceeds are earmarked exclusively for financing eligible green projects (renewable solar/wind power, energy efficiency, clean mass transit, sustainable water management). Sovereign Green Bonds were first issued by the Government of India in January 2023.
+- **Apex Financial Regulators Matrix in India**:
+  | Regulatory Authority | Statutory Act & Year | Jurisdictional Domain |
+  |---|---|---|
+  | **Reserve Bank of India (RBI)** | RBI Act, 1934 (est. 1935) | Commercial banks, RRBs, urban cooperative banks, NBFCs, Money Market, Forex, G-Secs |
+  | **Securities & Exchange Board of India (SEBI)** | SEBI Act, 1992 (est. 1988) | Capital markets, stock exchanges, mutual funds, credit rating agencies, portfolio managers |
+  | **Insurance Regulatory & Development Authority (IRDAI)** | IRDA Act, 1999 (Hyderabad) | Life and general insurance companies, reinsurance entities, insurance intermediaries |
+  | **Pension Fund Regulatory & Development Authority (PFRDA)** | PFRDA Act, 2013 (est. 2003) | National Pension System (NPS), Atal Pension Yojana (APY), pension fund managers |
+  | **Financial Stability & Development Council (FSDC)** | Executive notification, Dec 2010 | Apex inter-regulatory coordination council chaired by the **Union Finance Minister** |
+
+---
+
+## Bilingual Terminology -- Inflation, Prices & Financial Markets
+
+| English Term | Hindi Term | Key Conceptual Anchor |
+|---|---|---|
+| **Inflation** | मुद्रास्फीति | Sustained general rise in prices; persistent erosion in currency purchasing power |
+| **Deflation** | अवस्फीति / मुद्रा संकुचन | Persistent general drop in price level (negative inflation rate) |
+| **Disinflation** | अपस्फीति | Deceleration in the rate of inflation (prices continue rising, but more slowly) |
+| **Stagflation** | गतिहीन स्फीति | Stagnant economic growth + high unemployment + high inflation |
+| **Demand-Pull Inflation** | मांग-प्रेरित मुद्रास्फीति | Price rise driven by aggregate demand outpacing productive aggregate supply |
+| **Cost-Push Inflation** | लागत-प्रेरित मुद्रास्फीति | Price rise driven by surging input costs of production or supply disruptions |
+| **Headline Inflation** | हेडलाइन मुद्रास्फीति | Total inflation across the entire commodity basket including food and energy |
+| **Core Inflation** | कोर मुद्रास्फीति | Underlying inflation trend calculated by excluding volatile food and fuel prices |
+| **Consumer Price Index (CPI)** | उपभोक्ता मूल्य सूचकांक | Retail price index tracking goods and services; official anchor for RBI inflation targeting |
+| **Wholesale Price Index (WPI)**| थोक मूल्य सूचकांक | Wholesale price index covering goods only (services completely excluded); compiled by DPIIT |
+| **GDP Deflator** | जीडीपी अपस्फीतिकारक | Ratio of Nominal GDP to Real GDP $\times 100$; comprehensive price measure of domestic output |
+| **Index of Industrial Production**| औद्योगिक उत्पादन सूचकांक | Physical volume index of Mining, Manufacturing, and Electricity; compiled by NSO |
+| **Gross Capital Formation** | सकल पूंजी निर्माण | Net addition to fixed capital assets + change in inventory stocks during an accounting year |
+| **Incremental Capital-Output Ratio** | वृद्धिशील पूंजी-उत्पाद अनुपात | Capital required to produce one extra unit of output; lower ICOR indicates higher efficiency |
+| **Money Market** | मुद्रा बाजार | Short-term credit market (maturities $\le 1\text{ year}$); regulated by the RBI |
+| **Capital Market** | पूंजी बाजार | Long-term equity and debt market (maturities $> 1\text{ year}$); regulated by SEBI |
+| **Treasury Bills** | ट्रेजरी बिल | Short-term sovereign discount instruments issued by RBI for GoI (91, 182, 364 days) |
+| **Commercial Paper** | वाणिज्यिक पत्र | Short-term unsecured promissory note issued by corporates (7 days to 1 year) |
+| **Masala Bonds** | मसाला बॉन्ड | Rupee-denominated debt bonds issued by Indian entities in overseas capital markets |
+
+---
+
 ## Complete PYQ Bank (UPPCS)
 
 **Q1. UPPCS (Pre) 2024**

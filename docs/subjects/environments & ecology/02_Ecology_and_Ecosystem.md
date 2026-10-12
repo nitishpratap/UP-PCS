@@ -547,6 +547,46 @@ D. Only 1
 
 ---
 
+## 2.13 Ecological Succession, Seral Stages & Biogeochemical Dynamics
+- **Ecological Succession**: The universal and predictable process by which an ecological community undergoes orderly and gradual changes in species composition over time until a stable state is established.
+  - **Sere (Seral Community)**: The entire sequential progression of transitional communities that successively replace one another in a given habitat:
+    $$\text{Pioneer Community} \longrightarrow \text{Transitional Seral Stages} \longrightarrow \text{Climax Community}$$
+  - **Pioneer Species**: The first hardy organisms to colonize a previously uninhabited or barren area (e.g., **Crustose Lichens** and mosses on bare rock; **Phytoplankton** in barren water).
+  - **Climax Community**: The final, stable, mature, and self-perpetuating terminal community in dynamic equilibrium with the regional climate (e.g., a mature forest).
+  - **Primary Succession vs Secondary Succession**:
+    - *Primary Succession*: Initiates on newly exposed barren surfaces where no previous soil or life existed (bare volcanic rock, cooled lava, newly formed sand dune).
+    - *Secondary Succession*: Occurs on previously vegetated lands where pre-existing communities were destroyed by disturbance (forest fires, abandoned agricultural fields, floods), having pre-existing soil; proceeds substantially faster than primary succession.
+  - **Hydrosere vs Xerosere**:
+    - *Hydrosere*: Succession sequence starting in an open body of fresh water (Phytoplankton $\to$ Submerged macrophyte $\to$ Floating $\to$ Reed-swamp $\to$ Marsh-meadow $\to$ Woodland $\to$ Forest).
+    - *Xerosere (Lithosere)*: Succession sequence starting on dry, bare rock (Crustose lichen $\to$ Foliose lichen $\to$ Moss $\to$ Herbaceous $\to$ Shrub $\to$ Forest).
+- **Biogeochemical Cycles (Nutrient Cycling)**:
+  - Circulation of chemical elements (carbon, nitrogen, phosphorus, sulphur, water) through biotic and abiotic components.
+  - *Gaseous Cycles*: Reservoir in atmosphere or hydrosphere (e.g., Nitrogen, Carbon, Oxygen).
+  - *Sedimentary Cycles*: Reservoir in Earth's crust / lithosphere rocks (e.g., Phosphorus, Sulphur).
+
+---
+
+## 2.14 Ecotones, Edge Effect, Bioindicators & Biofertilizers
+- **Ecotone & Edge Dynamics**:
+  - **Ecotone**: The transitional boundary or junction zone between two distinct, adjoining ecosystems or biomes (e.g., **Mangroves** between marine and terrestrial ecosystems; **Estuaries** between river and sea; **Marshes** between aquatic and dry land).
+  - **Edge Effect**: The ecological phenomenon where the boundary ecotone zone exhibits a significantly higher species richness, population density, and diversity than either of the adjacent communities alone.
+  - **Edge Species**: Organisms primarily or most abundantly found in the ecotone boundary zone (e.g., certain warblers, edge-nesting birds).
+  - **Ecocline**: A physiochemical or environmental gradient (such as elevation, moisture, salinity, or temperature) along which species varieties and community structures gradually shift.
+- **Ecological Bioindicators**:
+  - **Lichens**: Dual organisms consisting of symbiotic fungus and alga/cyanobacterium. Highly sensitive bioindicators of atmospheric **Sulphur Dioxide ($SO_2$)** pollution and heavy metals. They completely disappear ("lichen desert") in polluted urban and industrial atmospheres.
+  - **Mosses & Algae**: Sensitive to acid precipitation and heavy metals.
+- **Aquatic Macrophytes & Biofertilizers in Agriculture**:
+  - **Azolla**: A free-floating aquatic freshwater fern that harbors the symbiotic cyanobacterium ***Anabaena azollae*** in its dorsal leaf cavities. Widely inoculated in flooded paddy (rice) fields as a potent green biofertilizer, fixing $30-50\text{ kg N/ha}$.
+  - **Other Aquatic Macrophytes**:
+    - *Lemna* (Duckweed): Fast-growing floating macrophyte used in wastewater phytoremediation.
+    - *Wolffia*: Rootless, microscopic aquatic plant (smallest flowering plant on Earth).
+    - *Trapa* (Water Chestnut / Singhara): Rooted floating aquatic macrophyte cultivated in freshwater ponds for edible nutritious kernels.
+- **Pioneer Concept Milestones (Direct Exam Locks)**:
+  - **Raymond Lindeman (1942)**: Formulated the **10% Law of Trophic Efficiency** (only $\approx 10\%$ of energy stored as biomass in one trophic level is transferred to the next higher level; $90\%$ is lost via respiration and metabolic heat).
+  - **John W. Bennett (1976)**: Introduced the concept of **'Ecological Transition'** (*The Ecological Transition: Cultural Anthropology and Human Adaptation*).
+
+---
+
 ## Complete PYQ Bank (Topic 2)
 
 **Q1. UPPCS Prelims 2025, Q5**
@@ -880,7 +920,7 @@ D. Ratzel
 
 <details><summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B** — **John W. Bennett** (*The Ecological Transition*, 1976).
 
 </details>
 

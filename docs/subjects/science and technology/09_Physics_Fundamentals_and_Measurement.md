@@ -369,6 +369,48 @@
 
 ---
 
+## 1.5 Kinematics Essentials, Average Speed & Impulse Mechanics
+- **Average Speed vs Average Velocity**:
+  - **Equal Distance Segments (Harmonic Mean)**: When a body covers the first half of distance $d$ at speed $v_1$ and second half at speed $v_2$, total distance is $2d$ and total time is $t = \frac{d}{v_1} + \frac{d}{v_2} = d\left(\frac{v_1 + v_2}{v_1 v_2}\right)$.
+    $$v_{\text{avg}} = \frac{\text{Total Distance}}{\text{Total Time}} = \frac{2d}{d\left(\frac{v_1 + v_2}{v_1 v_2}\right)} = \frac{2 v_1 v_2}{v_1 + v_2}$$
+    *(Note: For three equal distances at $v_1, v_2, v_3$: $v_{\text{avg}} = \frac{3 v_1 v_2 v_3}{v_1 v_2 + v_2 v_3 + v_3 v_1}$)*.
+  - **Equal Time Intervals (Arithmetic Mean)**: When a body travels for time $t$ at speed $v_1$ and next equal time $t$ at speed $v_2$:
+    $$v_{\text{avg}} = \frac{v_1 t + v_2 t}{2t} = \frac{v_1 + v_2}{2}$$
+- **Impulse ($J$ or $I$) & Linear Momentum ($p$)**:
+  - **Definition**: Impulse is the total change in linear momentum produced by a large force acting over a short time interval:
+    $$\vec{J} = \vec{F} \cdot \Delta t = \Delta \vec{p} = m \vec{v}_f - m \vec{v}_i$$
+  - **Units**: Newton-second ($N\cdot s$) or kilogram metre per second ($kg\cdot m/s$).
+  - **Dimensional Formula**:
+    $$[J] = [F] \cdot [T] = [M^1 L^1 T^{-2}] \cdot [T^1] = [M^1 L^1 T^{-1}]$$
+    *(Crucial Exam Fact: Impulse and Linear Momentum have the EXACT same dimensional formula $[M L T^{-1}]$ and identical base units)*.
+
+---
+
+## 1.6 Heat vs Temperature Distinctions, Optics & CGS Conversion Factors
+- **Heat (Energy) vs Temperature (Thermal State)**:
+  - **Heat** is a form of energy transferred across a boundary due to temperature gradient.
+    - *Units of Heat*: Joule ($J$ — SI unit), Calorie ($1\text{ cal} = 4.184\text{ J}$), Kilocalorie ($1\text{ kcal} = 1000\text{ cal} = 4184\text{ J}$), Erg ($1\text{ J} = 10^7\text{ ergs}$), British Thermal Unit ($1\text{ BTU} \approx 1055\text{ J} \approx 252\text{ cal}$).
+  - **Temperature** is the measure of average kinetic energy of constituent particles.
+    - *Units of Temperature*: Kelvin ($K$ — SI base unit), Degree Celsius / Centigrade ($^\circ C$), Degree Fahrenheit ($^\circ F$).
+    - *Trap Alert*: **Centigrade / Celsius is a unit of temperature, NOT heat!**
+- **Power of an Optical Lens**:
+  - Defined as reciprocal of focal length ($f$) measured in metres:
+    $$P = \frac{1}{f\text{ (in metres)}}$$
+  - **Unit**: Diopter ($D$ or $m^{-1}$).
+  - Sign convention: Convex (converging) lens has positive focal length $\implies +D$; Concave (diverging) lens has negative focal length $\implies -D$.
+- **Small Length Unit Conversions in Centimetres ($cm$)**:
+  - $1\text{ micron } (\mu m) = 10^{-6}\text{ m} = 10^{-4}\text{ cm} = 10^{-3}\text{ mm}$.
+  - $1\text{ nanometre } (nm) = 10^{-9}\text{ m} = 10^{-7}\text{ cm} = 10\text{ \AA}$.
+  - $1\text{ Angstrom } (\text{\AA}) = 10^{-10}\text{ m} = 10^{-8}\text{ cm} = 0.1\text{ nm}$.
+  - $1\text{ Fermi / Femtometre } (fm) = 10^{-15}\text{ m} = 10^{-13}\text{ cm}$ (Smallest unit of length).
+- **Pressure and Force Equivalents**:
+  - $1\text{ Pascal } (Pa) = 1\text{ N/m}^2$.
+  - $1\text{ bar} = 10^5\text{ Pa} = 10^6\text{ dyn/cm}^2 \approx 1.0197\text{ kgf/cm}^2 \approx 1.0\text{ bar} \approx 1\text{ kgf/cm}^2$ ($1\text{ kgf/cm}^2 = 98,066.5\text{ Pa}$).
+  - $1\text{ Newton } = 10^5\text{ dynes}$.
+  - $1\text{ Joule } = 10^7\text{ ergs}$.
+
+---
+
 ## Bilingual Terminology -- Physics Fundamentals and Measurement
 
 | English Term | Hindi Term | Key Anchor |

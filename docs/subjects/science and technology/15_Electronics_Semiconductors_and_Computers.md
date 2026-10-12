@@ -206,6 +206,40 @@
 
 ## Detailed In-Depth Core Theory
 
+### 7.0 Semiconductor Physics, Electrical Conductivity & Solid-State Electronics
+1. **Conductors, Insulators and the Conductivity Hierarchy:**
+   - **Conductors:** Contain vast concentrations of free conduction electrons.
+     - **Electrical Conductivity Ranking:** **Silver ($Ag$) is the BEST conductor of electricity**, followed in order by **Copper ($Cu$)**, **Gold ($Au$)**, and **Aluminium ($Al$)**.
+     - Copper is widely used for residential and industrial wiring due to high conductivity and cost-effectiveness compared to silver.
+     - **Mica:** A mineral with unique physical properties—it is an excellent **thermal conductor** but a powerful **electrical insulator** (used in electric irons and heating elements).
+2. **Semiconductors & Temperature Behavior:**
+   - Materials having electrical resistivity intermediate between conductors ($10^{-8}\text{ }\Omega\cdot m$) and insulators ($10^{12}\text{ }\Omega\cdot m$).
+   - **Temperature Coefficient of Resistance:**
+     - In metals/conductors, electrical resistance increases with temperature ($\alpha > 0$) due to increased lattice phonon scattering.
+     - In **Semiconductors, electrical resistance DECREASES upon heating** (conductivity increases; $\alpha < 0$) because thermal energy excites valence electrons across the narrow forbidden band gap ($E_g \approx 1.1\text{ eV}$ for Silicon; $0.7\text{ eV}$ for Germanium) into the conduction band, generating electron-hole pairs.
+     - At absolute zero ($0\text{ K}$), a pure semiconductor acts as a **perfect insulator**.
+3. **Intrinsic vs Extrinsic Semiconductors & Doping:**
+   - **Intrinsic Semiconductors:** Pure elemental crystals of **Silicon ($Si$)** and **Germanium ($Ge$)** from Group 14 of the periodic table, each with 4 valence electrons.
+   - **Extrinsic Semiconductors (Doping):** The deliberate addition of minute trace impurities to pure semiconductors to dramatically amplify their electrical conductivity:
+     - **P-Type Semiconductor:** Produced by doping pure Silicon or Germanium with **Trivalent impurities (Group 13: Boron, Aluminium, Gallium, Indium)**. Creates an excess of positive electron vacancies (**holes**), which act as the **majority charge carriers**.
+     - **N-Type Semiconductor:** Produced by doping pure Silicon or Germanium with **Pentavalent impurities (Group 15: Phosphorus, Arsenic, Antimony)**. Introduces extra donor electrons into the conduction band; **electrons** act as the **majority charge carriers**.
+4. **Solid-State Electronic Devices:**
+   - **P-N Junction Diode & Rectification:**
+     - When P-type and N-type semiconductors are fused, a depletion region forms. A diode conducts current readily in forward bias but blocks current in reverse bias.
+     - **Rectifier:** An electronic circuit device built using diodes that converts **Alternating Current (AC) into Direct Current (DC)**. (Conversely, an **Inverter** converts Direct Current into Alternating Current).
+   - **Transistors:**
+     - Three-terminal semiconductor devices (Emitter, Base, Collector) used for electrical amplification and high-speed digital switching. Fabricated primarily from **Silicon ($Si$)** or **Germanium ($Ge$)**. Invented in 1947 by John Bardeen, Walter Brattain, and William Shockley at Bell Labs.
+   - **Integrated Circuits (ICs):**
+     - Miniature electronic circuits comprising millions to billions of transistors, diodes, and resistors fabricated on a single tiny wafer of **Silicon ($Si$)**; invented in 1958 by **Jack Kilby** (Texas Instruments) and **Robert Noyce** (Fairchild Semiconductor).
+5. **Computer Pioneers, Operating Systems & Infotech Foundations:**
+   - **Ada Lovelace (Lady Ada Augusta Lovelace):** Celebrated as the **world's first computer programmer** for creating an algorithm for Charles Babbage's mechanical Analytical Engine to calculate Bernoulli numbers.
+   - **Charles Babbage:** Designed the Difference Engine and Analytical Engine; known as the **Father of the Computer**.
+   - **Linux:** An open-source, Unix-compatible operating system kernel created in **1991 by Linus Torvalds**.
+   - **Singular Form of Data:** The technical singular form of the plural word 'data' is **Datum**.
+   - **Junk Electronic Mail:** Unsolicited bulk messages across the Internet are classified as **Spam**.
+   - **MICR (Magnetic Ink Character Recognition):** Magnetic character-reading technology used primarily in the **banking industry** to process bank cheques and drafts efficiently.
+   - **Distinction Alert:** Terms like *Login, Modem, Password, Spam, LAN* belong to infotech/cyber terminology. In contrast, **Pinaka** is an indigenous multi-barrel rocket launcher (defence system), NOT an infotech term.
+
 ### 7.1 Microcomputer Architecture & Hardware Interfaces
 1. **CPU Subsystems:**
    - **Control Unit (CU):** The central directing supervisor; fetches instructions from memory, decodes operation codes, and generates timing and control pulses for all peripherals.

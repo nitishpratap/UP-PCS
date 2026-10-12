@@ -195,6 +195,27 @@
      - Cathode: Transition metal oxides (Cobalt, Lithium, Nickel, Manganese) on aluminium.
      - Anode: Graphitic carbon on copper.
 
+### 6.5 Electrical Measuring Instruments & Electromagnetic Induction Devices
+1. **Galvanometer**:
+   - Detects the presence and direction of minute electric currents.
+   - Operates on the principle of magnetic torque exerted on a current-carrying coil placed in a magnetic field ($\tau = NIAB$).
+2. **Ammeter**:
+   - Measures electric current in amperes ($A$).
+   - **Connection**: Connected in **SERIES** with the circuit load so that the entire current passes through it.
+   - **Resistance**: An ideal ammeter has **ZERO internal resistance** ($R_A = 0$) so it does not alter circuit current.
+   - **Conversion**: A moving-coil galvanometer is converted into an ammeter by connecting a very low resistance (called a **Shunt**, $S$) in **PARALLEL** across the galvanometer coil.
+3. **Voltmeter**:
+   - Measures electrical potential difference between two points in volts ($V$).
+   - **Connection**: Connected in **PARALLEL** across the circuit component being measured.
+   - **Resistance**: An ideal voltmeter has **INFINITE internal resistance** ($R_V = \infty$) so it draws zero current from the branch.
+   - **Conversion**: A moving-coil galvanometer is converted into a voltmeter by connecting a very high resistance ($R$) in **SERIES** with the galvanometer coil.
+4. **Devices Operating on Electromagnetic Induction (Faraday's Law)**:
+   - **Dynamo / Electric Generator**: Converts mechanical energy to electrical energy via electromagnetic induction.
+   - **Transformer**: Steps up or steps down alternating voltage via mutual electromagnetic induction.
+   - **Electric Motor**: Converts electrical energy to mechanical rotational motion via electromagnetic forces/induction.
+   - **Induction Cooktop**: Generates heat in ferromagnetic pans via induced eddy currents ($I^2 R$).
+   - *Trap Alert*: Moving-coil ammeters and voltmeters operate on magnetic deflection torque ($\tau = NIAB$), NOT on electromagnetic induction.
+
 ---
 
 ## Bilingual Terminology -- Electricity and Magnetism
