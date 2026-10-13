@@ -532,8 +532,6 @@ Use this table to drill Governor-General–reform matching.
 
 > **Full year-wise home:** [Chronology — Year-Wise Major Events](00_Chronology_Year_Wise_Events.md) (first in Modern India nav). This table is only a vault shortcut.
 
-| Year | Event |
-|------|--------|
 ### Ancient & Medieval Chronology Spine Anchors (2500 BC – 1739 AD)
 
 | Era / Date | Milestone Historical Event |
