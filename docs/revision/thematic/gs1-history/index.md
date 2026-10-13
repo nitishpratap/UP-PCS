@@ -1,42 +1,39 @@
----
-title: "📚 GS-1: History & Art-Culture"
-hide:
-  - toc
----
+# GS-1: Ancient, Medieval & Modern History (Topics 01-27)
 
-# 📚 GS-1: History & Art-Culture
-### 21 Sure-Shot Topics | Thematic Revision
+This section contains **27 core thematic revision topics** (Topics 01 to 27) from the PCS Matrix 78 Sure-Shot Prelims topics.
 
-!!! info "Section Target"
-    Complete all 21 topics in this section. Mark each topic as **Read**, **Revised**, and **Test Done** to guarantee your prelims score.
+## 📋 Topics Checklist & Index
 
-## 📊 Section Topics Roster
-
-| # | Topic | Read | Revised | Test | Deep-Dive Notes |
-|---|-------|:---:|:---:|:---:|----------------|
-| 01 | [Ancient History — Indus Valley Civilization](01-ancient-history-indus-valley-civilization.md) | - [ ] | - [ ] | - [ ] | [02 Indus Valley Civilization](../../../subjects/ancient%20history/02_Indus_Valley_Civilization.md) |
-| 02 | [Vedic Period & Later Vedic Age](02-vedic-period-later-vedic-age.md) | - [ ] | - [ ] | - [ ] | [03 Vedic Civilization](../../../subjects/ancient%20history/03_Vedic_Civilization.md) |
-| 03 | [Buddhism & Jainism](03-buddhism-jainism.md) | - [ ] | - [ ] | - [ ] | [04 Religious Movements](../../../subjects/ancient%20history/04_Religious_Movements.md) |
-| 04 | [Mauryan Empire](04-mauryan-empire.md) | - [ ] | - [ ] | - [ ] | [07 Mauryan Empire](../../../subjects/ancient%20history/07_Mauryan_Empire.md) |
-| 05 | [Post-Mauryan & Gupta Empire](05-post-mauryan-gupta-empire.md) | - [ ] | - [ ] | - [ ] | [09 Gupta Age](../../../subjects/ancient%20history/09_Gupta_Age.md) |
-| 06 | [Bhakti & Sufi Movements](06-bhakti-sufi-movements.md) | - [ ] | - [ ] | - [ ] | [04 Bhakti Sufi Movements](../../../subjects/medieval%20india/04_Bhakti_Sufi_Movements.md) |
-| 07 | [Mughal Empire](07-mughal-empire.md) | - [ ] | - [ ] | - [ ] | [07 Mughal Empire](../../../subjects/medieval%20india/07_Mughal_Empire.md) |
-| 08 | [Maratha Empire](08-maratha-empire.md) | - [ ] | - [ ] | - [ ] | [07 Mughal Empire](../../../subjects/medieval%20india/07_Mughal_Empire.md) |
-| 09 | [1857 Revolt & Its Aftermath](09-1857-revolt-its-aftermath.md) | - [ ] | - [ ] | - [ ] | [05 Revolt of 1857](../../../subjects/mordern%20india/05_Revolt_of_1857.md) |
-| 10 | [Indian National Movement](10-indian-national-movement.md) | - [ ] | - [ ] | - [ ] | [13 Gandhian Era](../../../subjects/mordern%20india/13_Gandhian_Era.md) |
-| 11 | [Constitutional Development (1858–1947)](11-constitutional-development-18581947.md) | - [ ] | - [ ] | - [ ] | [01 Constitutional Development](../../../subjects/polity/01_Constitutional_Development.md) |
-| 12 | [Art & Architecture (Ancient + Medieval)](12-art-architecture-ancient-medieval.md) | - [ ] | - [ ] | - [ ] | [14 Cultural Heritage](../../../subjects/art%20and%20culture/14_Cultural_Heritage.md) |
-| 13 | [UP-Specific History & Culture](13-up-specific-history-culture.md) | - [ ] | - [ ] | - [ ] | [02 History Culture Art Heritage](../../../subjects/up%20special/02_History_Culture_Art_Heritage.md) |
-| 14 | [Important Battles & Their Significance](14-important-battles-their-significance.md) | - [ ] | - [ ] | - [ ] | [00 Chronology Year Wise Events](../../../subjects/medieval%20india/00_Chronology_Year_Wise_Events.md) |
-| 15 | [Socio-Religious Reform Movements](15-socio-religious-reform-movements.md) | - [ ] | - [ ] | - [ ] | [06 Socio Religious Reform Movements](../../../subjects/mordern%20india/06_Socio_Religious_Reform_Movements.md) |
-| 16 | [World History — Revolutions](16-world-history-revolutions.md) | - [ ] | - [ ] | - [ ] | [00 Chronology Year Wise Events](../../../subjects/ancient%20history/00_Chronology_Year_Wise_Events.md) |
-| 17 | [Folk Dances & Music of India](17-folk-dances-music-of-india.md) | - [ ] | - [ ] | - [ ] | [06 Indian Dance](../../../subjects/art%20and%20culture/06_Indian_Dance.md) |
-| 18 | [Classical Dance Forms](18-classical-dance-forms.md) | - [ ] | - [ ] | - [ ] | [06 Indian Dance](../../../subjects/art%20and%20culture/06_Indian_Dance.md) |
-| 19 | [Important Festivals & Religious Sites (UP)](19-important-festivals-religious-sites-up.md) | - [ ] | - [ ] | - [ ] | [02 History Culture Art Heritage](../../../subjects/up%20special/02_History_Culture_Art_Heritage.md) |
-| 20 | [UNESCO World Heritage Sites (India)](20-unesco-world-heritage-sites-india.md) | - [ ] | - [ ] | - [ ] | [14 Cultural Heritage](../../../subjects/art%20and%20culture/14_Cultural_Heritage.md) |
-| 21 | [Important Indian Languages & Literatures](21-important-indian-languages-literatures.md) | - [ ] | - [ ] | - [ ] | [08 Indian Languages and Literature](../../../subjects/art%20and%20culture/08_Indian_Languages_and_Literature.md) |
-
+| # | Topic Title | Core Focus | Study Tracker | Action |
+| :-: | :--- | :--- | :---: | :---: |
+| **01** | [Prehistoric & Mesolithic Sites (Locational Matching)](topic-01-prehistoric-mesolithic-sites.md) | 01 Stone Age | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-01-prehistoric-mesolithic-sites.md) |
+| **02** | [Indus Valley Civilization (Sites vs. Findings & Locations)](topic-02-indus-valley-civilization.md) | 02 Indus Valley Civilization | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-02-indus-valley-civilization.md) |
+| **03** | [Mahajanapadas vs. Capitals (Focus on UP)](topic-03-mahajanapadas-capitals.md) | 04 Mahajanapadas & Rise of Magadha | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-03-mahajanapadas-capitals.md) |
+| **04** | [Buddhist Councils (Chronology, Venue, Chairman & Patron King)](topic-04-buddhist-councils.md) | 05 Buddhism | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-04-buddhist-councils.md) |
+| **05** | [Jain Tirthankaras & Their Symbols](topic-05-jain-tirthankaras-symbols.md) | 06 Jainism & Other Sects | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-05-jain-tirthankaras-symbols.md) |
+| **06** | [Ashokan Rock Edicts & Pillar Inscriptions](topic-06-ashokan-rock-edicts-inscriptions.md) | 07 Mauryan Empire | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-06-ashokan-rock-edicts-inscriptions.md) |
+| **07** | [Royal Titles & Epithets](topic-07-royal-titles-epithets.md) | 09 Gupta Empire | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-07-royal-titles-epithets.md) |
+| **08** | [Ancient Navaratnas & Scholars vs. Rulers](topic-08-ancient-navaratnas-scholars-rulers.md) | 09 Gupta Empire | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-08-ancient-navaratnas-scholars-rulers.md) |
+| **09** | [Ancient Tax & Administrative Terms](topic-09-ancient-tax-administrative-terms.md) | 07 Mauryan Empire | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-09-ancient-tax-administrative-terms.md) |
+| **10** | [Ancient Schools of Art (Comparative Features)](topic-10-ancient-schools-of-art.md) | 08 Post Mauryan Period | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-10-ancient-schools-of-art.md) |
+| **11** | [Battles & Wars (Chronology & Matching)](topic-11-battles-wars.md) | 02 Delhi Sultanate | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-11-battles-wars.md) |
+| **12** | [Treaties & Pacts](topic-12-treaties-pacts.md) | 06 Maratha Empire | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-12-treaties-pacts.md) |
+| **13** | [Ancient & Medieval Books vs. Authors](topic-13-ancient-medieval-books-authors.md) | 05 Mughal Empire | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-13-ancient-medieval-books-authors.md) |
+| **14** | [Foreign Travelers vs. Rulers / Period](topic-14-foreign-travelers-rulers.md) | 02 Delhi Sultanate | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-14-foreign-travelers-rulers.md) |
+| **15** | [Administrative & Medieval Terms](topic-15-administrative-medieval-terms.md) | 05 Mughal Empire | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-15-administrative-medieval-terms.md) |
+| **16** | [Architectural Monuments vs. Builders](topic-16-architectural-monuments-builders.md) | 05 Mughal Empire | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-16-architectural-monuments-builders.md) |
+| **17** | [Bhakti & Sufi Saints (Philosophy, Origin & Orders)](topic-17-bhakti-sufi-saints.md) | 03 Bhakti and Sufi Movements | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-17-bhakti-sufi-saints.md) |
+| **18** | [Dynasties vs. Founders & Capitals](topic-18-dynasties-founders-capitals.md) | 01 Early Medieval Regional Kingdoms | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-18-dynasties-founders-capitals.md) |
+| **19** | [Chronology of Revolutionary & Freedom Movement Events](topic-19-chronology-revolutionary-freedom-movement.md) | 08 National Movement (1905-1918) | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-19-chronology-revolutionary-freedom-movement.md) |
+| **20** | [Newspapers, Journals & Books vs. Authors/Editors](topic-20-newspapers-journals-books-authors.md) | 05 Socio Religious Reform Movements | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-20-newspapers-journals-books-authors.md) |
+| **21** | [Socio-Religious Organizations vs. Founders & Year/Place](topic-21-socio-religious-organizations.md) | 05 Socio Religious Reform Movements | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-21-socio-religious-organizations.md) |
+| **22** | [Peasant & Tribal Uprisings vs. Leaders & Region](topic-22-peasant-tribal-uprisings.md) | 06 Peasant, Tribal & Civil Uprisings | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-22-peasant-tribal-uprisings.md) |
+| **23** | [Revolutionary Conspiracy Cases vs. Associated Leaders](topic-23-revolutionary-conspiracy-cases.md) | 08 Revolutionary Movements | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-23-revolutionary-conspiracy-cases.md) |
+| **24** | [INC Sessions vs. President & Significance](topic-24-inc-sessions-presidents-significance.md) | 07 INC Foundation & Moderate Phase | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-24-inc-sessions-presidents-significance.md) |
+| **25** | [British Administrative & Constitutional Acts](topic-25-british-administrative-constitutional-acts.md) | 04 British Administrative & Economic Policies | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-25-british-administrative-constitutional-acts.md) |
+| **26** | [Viceroys / Governors-General vs. Key Decisions](topic-26-viceroys-governors-general-decisions.md) | 03 Expansion & Consolidation of British Power | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-26-viceroys-governors-general-decisions.md) |
+| **27** | [Revolt of 1857 (Centers vs. Leaders & British Suppressors)](topic-27-revolt-of-1857-centers-leaders.md) | 02 Revolt of 1857 | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-27-revolt-of-1857-centers-leaders.md) |
 
 ---
 
-[🎯 Back to Master Dashboard (All 78 Topics)](../index.md)
+[⬅ Back to Master 78 Topics Dashboard](../index.md)

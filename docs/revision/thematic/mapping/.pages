@@ -1,7 +1,6 @@
-title: "Mapping"
 nav:
-  - Overview: index.md
-  - "70 Indian Mapping: Boundaries, ": 70-indian-mapping-boundaries-lines-islands.md
-  - "71 World Mapping: Seas & Border": 71-world-mapping-seas-bordering-countries.md
-  - "72 Equator, Tropics & Prime Mer": 72-equator-tropics-prime-meridian.md
-  - "73 Global Capital Cities & Land": 73-global-capital-cities-landlocked-nations.md
+  - index.md
+  - topic-70-indian-mapping-boundaries-lines-islands.md
+  - topic-71-world-mapping-seas-bordering-countries.md
+  - topic-72-equator-tropics-prime-meridian.md
+  - topic-73-global-capital-cities-landlocked-nations.md

@@ -1,25 +1,16 @@
----
-title: "🗺️ Mapping"
-hide:
-  - toc
----
+# Indian & World Mapping (Topics 70-73)
 
-# 🗺️ Mapping
-### 4 Sure-Shot Topics | Thematic Revision
+This section contains **4 core thematic revision topics** (Topics 70 to 73) from the PCS Matrix 78 Sure-Shot Prelims topics.
 
-!!! info "Section Target"
-    Complete all 4 topics in this section. Mark each topic as **Read**, **Revised**, and **Test Done** to guarantee your prelims score.
+## 📋 Topics Checklist & Index
 
-## 📊 Section Topics Roster
-
-| # | Topic | Read | Revised | Test | Deep-Dive Notes |
-|---|-------|:---:|:---:|:---:|----------------|
-| 70 | [Indian Mapping: Boundaries, Lines & Islands](70-indian-mapping-boundaries-lines-islands.md) | - [ ] | - [ ] | - [ ] | [01 Indian Physical Geography Mountains Hills](../../../subjects/geography/01_Indian_Physical_Geography_Mountains_Hills.md) |
-| 71 | [World Mapping: Seas & Bordering Countries](71-world-mapping-seas-bordering-countries.md) | - [ ] | - [ ] | - [ ] | [16 Oceans](../../../subjects/geography/16_Oceans.md) |
-| 72 | [Equator, Tropics & Prime Meridian](72-equator-tropics-prime-meridian.md) | - [ ] | - [ ] | - [ ] | [14 Earth and Universe](../../../subjects/geography/14_Earth_and_Universe.md) |
-| 73 | [Global Capital Cities & Landlocked Nations](73-global-capital-cities-landlocked-nations.md) | - [ ] | - [ ] | - [ ] | [17 World Rivers and Lakes](../../../subjects/geography/17_World_Rivers_and_Lakes.md) |
-
+| # | Topic Title | Core Focus | Study Tracker | Action |
+| :-: | :--- | :--- | :---: | :---: |
+| **70** | [Indian Mapping: Boundaries, Lines & Islands](topic-70-indian-mapping-boundaries-lines-islands.md) | 01 Indian Mapping & Coastal Boundaries | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-70-indian-mapping-boundaries-lines-islands.md) |
+| **71** | [World Mapping: Seas & Bordering Countries](topic-71-world-mapping-seas-bordering-countries.md) | 12 World Mapping - Seas & Coastlines | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-71-world-mapping-seas-bordering-countries.md) |
+| **72** | [Equator, Tropics & Prime Meridian](topic-72-equator-tropics-prime-meridian.md) | 11 Equator, Tropics & Prime Meridian Countries | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-72-equator-tropics-prime-meridian.md) |
+| **73** | [Global Capital Cities & Landlocked Nations](topic-73-global-capital-cities-landlocked-nations.md) | 12 Global Capitals & Landlocked States | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-73-global-capital-cities-landlocked-nations.md) |
 
 ---
 
-[🎯 Back to Master Dashboard (All 78 Topics)](../index.md)
+[⬅ Back to Master 78 Topics Dashboard](../index.md)

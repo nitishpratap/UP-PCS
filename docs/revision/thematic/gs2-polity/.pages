@@ -1,10 +1,9 @@
-title: "GS-2: Indian Polity"
 nav:
-  - Overview: index.md
-  - "43 Important Articles & Parts": 43-important-articles-parts.md
-  - "44 Major Constitutional Amendme": 44-major-constitutional-amendments.md
-  - "45 Schedules of the Constitutio": 45-schedules-of-the-constitution-1-to-12.md
-  - "46 Sources of the Indian Consti": 46-sources-of-the-indian-constitution.md
-  - "47 Constitutional & Non-Constit": 47-constitutional-non-constitutional-bodies.md
-  - "48 Committees & Commissions": 48-committees-commissions.md
-  - "49 Order of Precedence & Offici": 49-order-of-precedence-official-qualification.md
+  - index.md
+  - topic-43-important-articles-parts.md
+  - topic-44-major-constitutional-amendments.md
+  - topic-45-schedules-of-the-constitution.md
+  - topic-46-sources-of-the-indian-constitution.md
+  - topic-47-constitutional-non-constitutional-bodies.md
+  - topic-48-committees-commissions.md
+  - topic-49-order-of-precedence-official-qualifications.md

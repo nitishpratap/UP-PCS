@@ -1,26 +1,17 @@
----
-title: "📰 Current Affairs"
-hide:
-  - toc
----
+# Current Affairs, Awards & Schemes (Topics 74-78)
 
-# 📰 Current Affairs
-### 5 Sure-Shot Topics | Thematic Revision
+This section contains **5 core thematic revision topics** (Topics 74 to 78) from the PCS Matrix 78 Sure-Shot Prelims topics.
 
-!!! info "Section Target"
-    Complete all 5 topics in this section. Mark each topic as **Read**, **Revised**, and **Test Done** to guarantee your prelims score.
+## 📋 Topics Checklist & Index
 
-## 📊 Section Topics Roster
-
-| # | Topic | Read | Revised | Test | Deep-Dive Notes |
-|---|-------|:---:|:---:|:---:|----------------|
-| 74 | [Awards, Honors & Personages in News](74-awards-honors-personages-in-news.md) | - [ ] | - [ ] | - [ ] | [16 Awards Personalities GI](../../../subjects/art%20and%20culture/16_Awards_Personalities_GI.md) |
-| 75 | [Indexes, Ranks & India's Position](75-indexes-ranks-indias-position.md) | - [ ] | - [ ] | - [ ] | [01 Census and Population Data](../../../subjects/census%20and%20urbanisation/01_Census_and_Population_Data.md) |
-| 76 | [Military Exercises, Summits & Operations](76-military-exercises-summits-operations.md) | - [ ] | - [ ] | - [ ] | [18 International Environmental Agreements and Conferences](../../../subjects/environments%20%26%20ecology/18_International_Environmental_Agreements_and_Conferences.md) |
-| 77 | [Space, Science & Technology](77-space-science-technology.md) | - [ ] | - [ ] | - [ ] | [15 Electronics Semiconductors and Computers](../../../subjects/science%20and%20technology/15_Electronics_Semiconductors_and_Computers.md) |
-| 78 | [Schemes & Uttar Pradesh Current Affairs](78-schemes-uttar-pradesh-current-affairs.md) | - [ ] | - [ ] | - [ ] | [08 Current Affairs Schemes Miscellaneous](../../../subjects/up%20special/08_Current_Affairs_Schemes_Miscellaneous.md) |
-
+| # | Topic Title | Core Focus | Study Tracker | Action |
+| :-: | :--- | :--- | :---: | :---: |
+| **74** | [Awards, Honors & Personages in News](topic-74-awards-honors-personages-in-news.md) | 02 Major National & International Awards | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-74-awards-honors-personages-in-news.md) |
+| **75** | [Indexes, Ranks & India's Position](topic-75-indexes-ranks-indias-position.md) | 11 Global Indexes & Reports | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-75-indexes-ranks-indias-position.md) |
+| **76** | [Military Exercises, Summits & Operations](topic-76-military-exercises-summits-operations.md) | 00 Joint Military Exercises & Evacuation Operations | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-76-military-exercises-summits-operations.md) |
+| **77** | [Space, Science & Technology](topic-77-space-science-technology.md) | 21 Space Missions & Defense Tech | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-77-space-science-technology.md) |
+| **78** | [Schemes & Uttar Pradesh Current Affairs](topic-78-schemes-uttar-pradesh-current-affairs.md) | 04 UP State Welfare Schemes & GI Tags | <code>Read / Rev / Test</code> | [Open Topic ➡](topic-78-schemes-uttar-pradesh-current-affairs.md) |
 
 ---
 
-[🎯 Back to Master Dashboard (All 78 Topics)](../index.md)
+[⬅ Back to Master 78 Topics Dashboard](../index.md)

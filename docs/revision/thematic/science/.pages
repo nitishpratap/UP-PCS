@@ -1,10 +1,9 @@
-title: "General Science"
 nav:
-  - Overview: index.md
-  - "57 Physics: Units, Measurements": 57-physics-units-measurements-mechanics.md
-  - "58 Optics, Heat & Sound": 58-optics-heat-sound.md
-  - "59 Chemistry: Ores, Metallurgy ": 59-chemistry-ores-metallurgy-compounds.md
-  - "60 Chemistry: Acids, Bases & Da": 60-chemistry-acids-bases-daily-chemicals.md
-  - "61 Biology: Human Physiology & ": 61-biology-human-physiology-systems.md
-  - "62 Biology: Vitamins, Diseases ": 62-biology-vitamins-diseases-pathogens.md
-  - "63 Biology: Genetics, Botany & ": 63-biology-genetics-botany-plant-physiology.md
+  - index.md
+  - topic-57-physics-units-measurements-mechanics.md
+  - topic-58-optics-heat-sound.md
+  - topic-59-chemistry-ores-metallurgy-everyday-compounds.md
+  - topic-60-chemistry-acids-bases-daily-life-chemicals.md
+  - topic-61-biology-human-physiology-systems.md
+  - topic-62-biology-vitamins-diseases-pathogens.md
+  - topic-63-biology-genetics-botany-plant-physiology.md

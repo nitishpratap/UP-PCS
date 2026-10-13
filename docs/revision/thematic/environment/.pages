@@ -1,10 +1,9 @@
-title: "Environment & Ecology"
 nav:
-  - Overview: index.md
-  - "50 Environmental Protection Act": 50-environmental-protection-acts-policies.md
-  - "51 Environmental Movements, Lea": 51-environmental-movements-leaders-locations.md
-  - "52 Biodiversity Conservation & ": 52-biodiversity-conservation-up-reserves.md
-  - "53 International Environmental ": 53-international-environmental-treaties.md
-  - "54 Ecological Concepts & Defini": 54-ecological-concepts-definitions.md
-  - "55 Pollution, Gases & Phenomena": 55-pollution-gases-phenomena.md
-  - "56 Major Global Environmental R": 56-major-global-environmental-reports.md
+  - index.md
+  - topic-50-environmental-protection-acts-policies.md
+  - topic-51-environmental-movements-leaders-locations.md
+  - topic-52-biodiversity-conservation-up-reserves.md
+  - topic-53-international-treaties-protocols-conventions.md
+  - topic-54-ecological-concepts-definitions.md
+  - topic-55-pollution-gases-phenomena.md
+  - topic-56-major-global-environmental-reports.md

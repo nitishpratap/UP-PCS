@@ -1,24 +1,17 @@
-title: "GS-1: Geography"
 nav:
-  - Overview: index.md
-  - "22 Earth's Interior & Plate Tec": 22-earths-interior-plate-tectonics.md
-  - "23 Rocks, Minerals & Soils": 23-rocks-minerals-soils.md
-  - "24 Atmosphere: Composition, Lay": 24-atmosphere-composition-layers-winds.md
-  - "25 Monsoon & Indian Climate": 25-monsoon-indian-climate.md
-  - "26 Ocean Currents & Tides": 26-ocean-currents-tides.md
-  - "27 Rivers of India — Himalayan ": 27-rivers-of-india-himalayan-peninsular.md
-  - "28 UP Rivers, Dams & Irrigation": 28-up-rivers-dams-irrigation-projects.md
-  - "29 Indian Soils & Agriculture G": 29-indian-soils-agriculture-geography.md
-  - "30 Natural Vegetation & Forest ": 30-natural-vegetation-forest-types.md
-  - "31 Population Geography (Census": 31-population-geography-census-2011.md
-  - "32 Transport & Industrial Geogr": 32-transport-industrial-geography.md
-  - "33 World Mountains & Passes": 33-world-mountains-passes.md
-  - "34 World Rivers & Their Signifi": 34-world-rivers-their-significance.md
-  - "35 Straits, Channels & Waterway": 35-straits-channels-waterways.md
-  - "36 Longitudes, Latitudes & Time": 36-longitudes-latitudes-time-zones.md
-  - "37 Cyclones, Thunderstorms & Na": 37-cyclones-thunderstorms-natural-disasters.md
-  - "38 Lakes & Inland Seas": 38-lakes-inland-seas.md
-  - "39 Deserts & Local Winds": 39-deserts-local-winds.md
-  - "40 Global Mineral Belts & Minin": 40-global-mineral-belts-mining-centers.md
-  - "41 Island Groups, Volcanoes & T": 41-island-groups-volcanoes-trenches.md
-  - "42 Climatic Regions & Vegetatio": 42-climatic-regions-vegetation.md
+  - index.md
+  - topic-28-mountain-ranges-peaks-passes.md
+  - topic-29-drainage-systems-rivers-tributaries.md
+  - topic-30-mineral-resources-mining-belts.md
+  - topic-31-industrial-centers-industries.md
+  - topic-32-protected-areas-wetlands.md
+  - topic-33-soil-types-agricultural-production.md
+  - topic-34-physical-features-islands-coastal-geography.md
+  - topic-35-mountain-ranges-peaks-world.md
+  - topic-36-rivers-cities-ocean-outfalls.md
+  - topic-37-major-straits-canals.md
+  - topic-38-lakes-inland-seas.md
+  - topic-39-deserts-local-winds.md
+  - topic-40-global-mineral-belts-mining-centers.md
+  - topic-41-island-groups-volcanoes-trenches.md
+  - topic-42-climatic-regions-vegetation.md

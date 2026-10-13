@@ -1,11 +1,10 @@
-title: "🎯 Thematic Revision (78 Topics)"
 nav:
-  - "🎯 Master Dashboard": index.md
-  - "📚 GS-1: History & Art-Culture": gs1-history
-  - "🌍 GS-1: Geography": gs1-geography
-  - "⚖️ GS-2: Indian Polity": gs2-polity
-  - "🌱 Environment & Ecology": environment
-  - "🔬 General Science": science
-  - "🗂️ Miscellaneous": miscellaneous
-  - "🗺️ Mapping": mapping
-  - "📰 Current Affairs": current-affairs
+  - index.md
+  - "GS-1 History": gs1-history
+  - "GS-1 Geography": gs1-geography
+  - "GS-2 Polity": gs2-polity
+  - "Environment & Ecology": environment
+  - "General Science": science
+  - "Miscellaneous & UP GK": miscellaneous
+  - "Mapping": mapping
+  - "Current Affairs": current-affairs
