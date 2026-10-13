@@ -17,6 +17,27 @@ hide:
 <!-- ======================================================================
      THE TWO PROMINENT HERO BOXES (Must Score Facts & High Yield Tables)
      ====================================================================== -->
+
+<!-- ======================================================================
+     THEMATIC REVISION (78 SURE-SHOT TOPICS) HERO BANNER
+     ====================================================================== -->
+<div style="background: linear-gradient(135deg, rgba(63, 81, 181, 0.08) 0%, rgba(76, 175, 80, 0.08) 100%); border: 2px solid var(--md-primary-fg-color, #3f51b5); border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem; box-shadow: 0 4px 16px rgba(0,0,0,0.06);">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <span style="background: var(--md-primary-fg-color, #3f51b5); color: white; padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: bold; text-transform: uppercase;">110+ Questions Guaranteed</span>
+      <h3 style="margin: 0.5rem 0 0.3rem 0; font-size: 1.4rem;">🎯 Thematic Revision Desk — 78 Sure-Shot Topics</h3>
+      <p style="margin: 0; color: var(--md-default-fg-color--light, #555); max-width: 750px;">
+        High-yield breakdown of the 78 topics that appear every year in UPPCS Prelims. Every topic includes reformatted coaching notes, exam anchors, and official PYQs with a 3-checkbox completion tracker (Read &rarr; Revised &rarr; Test Done).
+      </p>
+    </div>
+    <div>
+      <a href="thematic/" class="md-button md-button--primary" style="font-weight: bold; padding: 0.6rem 1.4rem;">
+        Open 78 Topics Master Dashboard &rarr;
+      </a>
+    </div>
+  </div>
+</div>
+
 <div class="rev-two-boxes-grid" markdown="0">
 
   <!-- BOX 1: MUST SCORE FACTS -->
