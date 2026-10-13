@@ -235,11 +235,14 @@ def is_question_start(line: str) -> bool:
 def looks_like_question_table(table_lines: list[str]) -> bool:
     if len(table_lines) < 2:
         return True
-    if QUESTION_TABLE_HEAD.search(table_lines[0]):
+    first_line = table_lines[0].lower()
+    if QUESTION_TABLE_HEAD.search(first_line):
+        return True
+    if re.search(r"\|\s*code\s*\|", first_line):
         return True
     body = table_lines[2:] if len(table_lines) > 2 else []
-    letter_rows = sum(1 for row in body if OPTION_ROW.search(row))
-    numbered_rows = sum(1 for row in body if NUMBERED_OPTION_ROW.search(row))
+    letter_rows = sum(1 for row in body if re.search(r"^\s*\|\s*[A-D][\.\s|]", row, re.I))
+    numbered_rows = sum(1 for row in body if re.search(r"^\s*\|\s*\d+[\.\s|]", row))
     if letter_rows >= 2 and numbered_rows >= 2:
         return True
     if letter_rows >= 3:
@@ -248,6 +251,7 @@ def looks_like_question_table(table_lines: list[str]) -> bool:
     if "row order is not the answer" in joined:
         return True
     return False
+
 
 
 def strip_inline_questions(text: str) -> str:
@@ -479,9 +483,10 @@ def subject_folders() -> list[tuple[str, Path]]:
     return out
 
 
-def build_subject(label: str, folder: Path, tmp: Path, tables_only: bool = False) -> list[Path]:
+def build_subject(label: str, folder: Path, tmp: Path, tables_only: bool = False, unified_only: bool = False, include_unified: bool = False) -> list[Path]:
     facts_chapters: list[tuple[str, str]] = []
     table_chapters: list[tuple[str, str]] = []
+    unified_chapters: list[tuple[str, str]] = []
     for title, path in chapter_list(folder):
         if not path.exists() or classify_file(path) is None:
             continue
@@ -490,40 +495,63 @@ def build_subject(label: str, folder: Path, tmp: Path, tables_only: bool = False
             facts_chapters.append((title, facts))
         if tables:
             table_chapters.append((title, tables))
+        if facts or tables:
+            parts = []
+            if facts:
+                parts.append(facts)
+            if tables:
+                parts.append(tables)
+            unified_chapters.append((title, "\n\n---\n\n".join(parts)))
 
     written: list[Path] = []
     safe = re.sub(r"[\\\\/:*?\"<>|]", " ", label).strip()
-    if facts_chapters and not tables_only:
-        html = wrap_document(
-            label,
-            "Must-Score Facts",
-            "Consolidated Must-Score Facts and must-score drill cards for every chapter.",
-            facts_chapters,
-        )
-        html_path = tmp / f"{safe} — Must-Score Facts.html"
-        html_path.write_text(html, encoding="utf-8")
-        pdf_path = OUT_DIR / f"{safe} — Must-Score Facts.pdf"
-        print(f"  PDF 1/2  {pdf_path.name}  ({len(facts_chapters)} chapters)", flush=True)
-        html_to_pdf(html_path, pdf_path)
-        written.append(pdf_path)
-    else:
-        print(f"  skip facts — nothing to extract", flush=True)
+    if not unified_only:
+        if facts_chapters and not tables_only:
+            html = wrap_document(
+                label,
+                "Must-Score Facts",
+                "Consolidated Must-Score Facts and must-score drill cards for every chapter.",
+                facts_chapters,
+            )
+            html_path = tmp / f"{safe} — Must-Score Facts.html"
+            html_path.write_text(html, encoding="utf-8")
+            pdf_path = OUT_DIR / f"{safe} — Must-Score Facts.pdf"
+            print(f"  PDF 1/2  {pdf_path.name}  ({len(facts_chapters)} chapters)", flush=True)
+            html_to_pdf(html_path, pdf_path)
+            written.append(pdf_path)
+        else:
+            print(f"  skip facts — nothing to extract", flush=True)
 
-    if table_chapters:
+        if table_chapters:
+            html = wrap_document(
+                label,
+                "Tables & High-Yield",
+                "Teaching tables, Confused Pairs, Common Traps, Current Affairs, and other high-yield blocks.",
+                table_chapters,
+            )
+            html_path = tmp / f"{safe} — Tables and High-Yield.html"
+            html_path.write_text(html, encoding="utf-8")
+            pdf_path = OUT_DIR / f"{safe} — Tables and High-Yield.pdf"
+            print(f"  PDF 2/2  {pdf_path.name}  ({len(table_chapters)} chapters)", flush=True)
+            html_to_pdf(html_path, pdf_path)
+            written.append(pdf_path)
+        else:
+            print(f"  skip tables — nothing to extract", flush=True)
+
+    if (unified_only or include_unified) and unified_chapters:
         html = wrap_document(
             label,
-            "Tables & High-Yield",
-            "Teaching tables, Confused Pairs, Common Traps, Current Affairs, and other high-yield blocks.",
-            table_chapters,
+            "Complete Revision Edition",
+            "Consolidated Must-Score Facts and High-Yield Comparison Tables together for every chapter.",
+            unified_chapters,
         )
-        html_path = tmp / f"{safe} — Tables and High-Yield.html"
+        html_path = tmp / f"{safe} — Complete Revision (Facts + Tables).html"
         html_path.write_text(html, encoding="utf-8")
-        pdf_path = OUT_DIR / f"{safe} — Tables and High-Yield.pdf"
-        print(f"  PDF 2/2  {pdf_path.name}  ({len(table_chapters)} chapters)", flush=True)
+        pdf_path = OUT_DIR / f"{safe} — Complete Revision (Facts + Tables).pdf"
+        print(f"  PDF (Complete)  {pdf_path.name}  ({len(unified_chapters)} chapters)", flush=True)
         html_to_pdf(html_path, pdf_path)
         written.append(pdf_path)
-    else:
-        print(f"  skip tables — nothing to extract", flush=True)
+
     return written
 
 
@@ -534,6 +562,8 @@ def main() -> int:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     wanted = [a for a in sys.argv[1:] if not a.startswith("-")]
     tables_only = "--tables" in sys.argv
+    unified_only = "--unified" in sys.argv or "--complete" in sys.argv
+    include_unified = "--with-unified" in sys.argv or "--all-editions" in sys.argv
     subjects = subject_folders()
     if wanted:
         subjects = [
@@ -551,9 +581,19 @@ def main() -> int:
     try:
         for label, folder in subjects:
             print(f"\n== {label} ==", flush=True)
-            written.extend(build_subject(label, folder, tmp, tables_only=tables_only))
+            written.extend(
+                build_subject(
+                    label,
+                    folder,
+                    tmp,
+                    tables_only=tables_only,
+                    unified_only=unified_only,
+                    include_unified=include_unified,
+                )
+            )
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
+
 
     print("\nWrote:")
     printout_dir = ROOT / "pdfs" / "printout"

@@ -150,104 +150,6 @@ hide:
 | **Prorogation** (सत्रावसान) | **President** (can prorogue even while adjourned sine die) | A **session** (सत्र) | Notices of questions, motions, resolutions. **Bills do not lapse** |
 | **Dissolution** (विघटन) | **President** (only **LS**; on PM advice, including a PM who has lost majority in some situations) | **Life of the Lok Sabha** (लोकसभा का कार्यकाल समाप्त) | See bill-lapse fact below |
 
----
-
-
-### Comparative Matrix: Code ↔ State
-
-| Code | State |
-|------|-------|
-| A | Maharashtra |
-| B | Karnataka |
-| C | Bihar |
-| D | Tamil Nadu |
-
----
-
-
-### Comparative Matrix: Code ↔ Seats
-
-| Code | Seats |
-|------|-------|
-| 1 | 16 |
-| 2 | 18 |
-| 3 | 19 |
-| 4 | 12 |
-
----
-
-
-### Comparative Matrix: Code ↔ Lok Sabha
-
-| Code | Lok Sabha |
-|------|-----------|
-| A | 11th |
-| B | 12th |
-| C | 14th |
-| D | 17th |
-
----
-
-
-### Mountain Peaks & Highest Elevations
-
-| Code | Speaker |
-|------|---------|
-| 1 | Om Birla |
-| 2 | P.A. Sangma |
-| 3 | Somnath Chatterjee |
-| 4 | G.M.C. Balayogi |
-
----
-
-
-### Comparative Matrix: Code ↔ State
-
-| Code | State |
-|------|-------|
-| A | Rajasthan |
-| B | Gujarat |
-| C | Karnataka |
-| D | Punjab |
-
----
-
-
-### Comparative Matrix: Code ↔ Seats
-
-| Code | Seats |
-|------|-------|
-| 1 | 10 |
-| 2 | 7 |
-| 3 | 11 |
-| 4 | 12 |
-
----
-
-
-### Comparative Matrix: Code ↔ Article
-
-| Code | Article |
-|------|---------|
-| A | Article 61 |
-| B | Article 67(b) |
-| C | Article 94 |
-| D | Article 90 |
-
----
-
-
-### Comparative Matrix: Code ↔ Provision
-
-| Code | Provision |
-|------|-----------|
-| 1 | Removal of Deputy Chairman of Rajya Sabha |
-| 2 | Impeachment of the President |
-| 3 | Removal of the Vice-President |
-| 4 | Removal of the Speaker |
-
----
-
 
 ### Comparative Matrix: State ↔ Seats
 
@@ -258,32 +160,6 @@ hide:
 | West Bengal | 40 |
 | Bihar | 42 |
 
----
-
-
-### High-Yield Data: Code
-
-| Code | A | B | C | D |
-|---|---:|---:|---:|---:|
-| A | 2 | 1 | 4 | 3 |
-| B | 3 | 4 | 1 | 2 |
-| C | 4 | 3 | 2 | 1 |
-| D | 1 | 2 | 3 | 4 |
-
----
-
-
-### High-Yield Data: Code
-
-| Code | A | B | C | D | E |
-|------|--:|--:|--:|--:|--:|
-| A | 2 | 1 | 4 | 5 | 3 |
-| B | 4 | 3 | 5 | 1 | 2 |
-| C | 5 | 4 | 2 | 3 | 1 |
-| D | 1 | 2 | 3 | 4 | 5 |
-
----
-
 
 ### Comparative Matrix: Fund ↔ Article ↔ What Goes In
 
@@ -293,31 +169,6 @@ hide:
 | **Public Account of India** | **266(2)** | Provident funds, remittances, deposits (govt as banker) | **No** — executive operates without a vote |
 | **Contingency Fund of India** | **267** | Imprest for unforeseen expenditure; at the **disposal of the President** (in practice Finance Secretary); later **recouped from CFI** | Corpus fixed by Parliament by law |
 
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| A | Consolidated Fund of India |
-| B | Finance Commission (वित्त आयोग) |
-| C | Financial Emergency (वित्तीय आपात) |
-| D | Comptroller and Auditor General of India |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| 1 | Article 266 |
-| 2 | Article 360 |
-| 3 | Article 280 |
-| 4 | Article 148 |
-
----
 
 ### Money Bill vs Financial Bill vs Finance Bill
 
@@ -366,32 +217,6 @@ hide:
 | Job | Post-mortem of **expenditure already incurred**; appropriation / finance accounts; that money was spent **as Parliament voted** | Examine **budget estimates**; suggest economies and **alternative policies**; organisational / administrative improvements consistent with the policy underlying the estimates | Examine **PSUs**: reports, accounts, efficiency, autonomy; also looks at **disinvestment** of PSUs |
 | Report to | Ordinarily to the **House**; when the House is not in session, may present to the **Speaker** and later to the House (copy laid in Rajya Sabha) | Lok Sabha | Both Houses |
 
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| A | Consolidated Fund of India |
-| B | Finance Commission |
-| C | Financial Emergency |
-| D | CAG |
-
----
-
-
-### Comparative Matrix: Code ↔ Article
-
-| Code | Article |
-|------|---------|
-| 1 | Article 266 |
-| 2 | Article 360 |
-| 3 | Article 280 |
-| 4 | Article 148 |
-
----
-
 
 ### Comparative Matrix: Lok Sabha ↔ Rajya Sabha ↔ Total
 
@@ -402,103 +227,6 @@ hide:
 | C | 10 | 05 | 15 |
 | D | 17 | 10 | 27 |
 
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| A | Article 110 |
-| B | Article 109 |
-| C | Article 108 |
-| D | Article 117(1) |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| 1 | Joint sitting |
-| 2 | Money Bill definition |
-| 3 | Financial Bill I |
-| 4 | Money Bill procedure |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| A | Adjournment |
-| B | Prorogation |
-| C | Dissolution |
-| D | Quorum |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| 1 | Ends a sitting |
-| 2 | Ends a session; Bills survive |
-| 3 | Ends Lok Sabha’s life |
-| 4 | One-tenth of total membership |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| A | PAC |
-| B | Estimates |
-| C | COPU |
-| D | Business Advisory |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| 1 | 30; all Lok Sabha |
-| 2 | 22; 15 LS + 7 RS |
-| 3 | 22 (classic COPU strength teaching) |
-| 4 | Chaired by the Speaker |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| A | Token grant |
-| B | Policy cut |
-| C | Token cut |
-| D | Vote on Account |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| 1 | Reduce demand to ₹1 |
-| 2 | ₹1 demand for re-appropriation teaching |
-| 3 | Advance grant pending full budget |
-| 4 | Reduce by ₹100 |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 

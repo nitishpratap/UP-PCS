@@ -520,31 +520,6 @@ hide:
 | DPSP = USA | **Ireland** |
 | Joint sitting = UK | **Australia** |
 
----
-
-
-### Comparative Matrix: Code ↔ Schedule
-
-| Code | Schedule |
-|------|----------|
-| A | Third Schedule |
-| B | Fourth Schedule |
-| C | Seventh Schedule |
-| D | Eighth Schedule |
-
----
-
-
-### Comparative Matrix: Code ↔ Subject
-
-| Code | Subject |
-|------|---------|
-| 1 | Forms of Oaths or Affirmations |
-| 2 | Allocation of seats in Rajya Sabha |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Languages |
-
----
 
 ### Confused pairs (bodies · Parliament · cases · UP)
 

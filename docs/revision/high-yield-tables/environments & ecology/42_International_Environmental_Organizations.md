@@ -21,64 +21,6 @@ hide:
 | **CITES** | **CMS (Bonn Convention)** | Regulates commercial cross-border trade in endangered species of wild flora and fauna (1973) vs promotes conservation and habitat protection for migratory wild animal species (1979) | साइट्स (वन्यजीव व्यापार) / बॉन कन्वेंशन (प्रवासी प्रजातियां) |
 | **Global Environment Facility (GEF)** | **Green Climate Fund (GCF)** | Multilateral financial mechanism (World Bank 1991) serving CBD, UNCCD, Stockholm, Minamata, and UNFCCC vs dedicated operating financial entity of UNFCCC created at COP16 Cancun | जीईएफ (वैश्विक पर्यावरण कोष) / जीसीएफ (हरित जलवायु कोष) |
 
----
-
-### Org ↔ HQ / product
-
-| Item | Lock |
-|------|------|
-| UNEP | Nairobi; Emissions Gap + GEO; post-Stockholm 1972 |
-| UNDP | New York; HDR/HDI |
-| FAO | Rome; SOFO |
-| UNESCO | Paris; WH + MAB |
-| IUCN | Gland; Red List |
-| WWF | Gland; Living Planet |
-| IPCC | Geneva; WMO+UNEP 1988; Nobel 2007 |
-| IUCN ≠ CITES | Risk assess / trade regulate |
-| GEF | **1991** multilateral funder |
-
----
-
-
-### Comparative Matrix: Body ↔ Hq / Year ↔ Job
-
-| Body | HQ / year | Job |
-|------|-----------|-----|
-| WMO | Geneva | Weather/climate cooperation; IPCC parent |
-| Greenpeace | Amsterdam | Environmental NGO |
-| US EPA | Est. 1970 | US federal environment agency |
-| UNEP | Nairobi | UN environment programme |
-
----
-
-## Org ↔ Report ↔ HQ Card
-
-| Org | HQ | Flagship fact |
-|-----|-----|---------------|
-| UNEP | Nairobi | Emissions Gap / GEO |
-| UNDP | New York | HDR / HDI |
-| FAO | Rome | SOFO; Rotterdam (+UNEP) |
-| UNESCO | Paris | World Heritage; MAB |
-| IUCN | Gland | Red List |
-| WWF | Gland | Living Planet |
-| IPCC | Geneva | Assessment Reports |
-| WMO | Geneva | Meteorology; IPCC co-parent |
-| Greenpeace | Amsterdam | Environmental NGO |
-
----
-
-
-### High-Yield Match Matrix (List-I ↔ List-II)
-
-| List-I | List-II |
-| --- | --- |
-| 1. UNDP | A. Emissions Gap Report |
-| 2. IMF | B. Human Development Report |
-| 3. UNEP | C. World Economic Outlook |
-| 4. UNCTAD | D. World Investment Report |
-
----
-
 
 ## Common Traps
 

@@ -108,32 +108,6 @@ hide:
 | Laid in Parliament | Not a 358 order (automatic) | **359 order must be laid** before each House |
 | 32 | Empty for Art. 19 while 358 runs | May be barred for the **named** FRs (never for 20/21) |
 
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| A | Consolidated Fund of India (भारत की संचित निधि) |
-| B | Finance Commission (वित्त आयोग) |
-| C | Financial Emergency |
-| D | CAG (भारत के नियंत्रक-महालेखापरीक्षक) |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| 1 | Article 266 |
-| 2 | Article 360 |
-| 3 | Article 280 |
-| 4 | Article 148 |
-
----
-
 
 ### Comparative Matrix: Martial Law ↔ National Emergency
 
@@ -146,32 +120,6 @@ hide:
 | Territory | Typically a **patch** | Whole India or a notified part |
 | **Art. 33** | Parliament may **restrict FRs of armed forces** / police — peacetime statute, **not** martial law | Unrelated to 34 |
 | Can they overlap? | Yes — martial law in a district **while** 352 is on for the country | 352 does **not** automatically create martial law |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| A | Manipur |
-| B | Uttar Pradesh |
-| C | Bihar |
-| D | Odisha |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| 1 | 6 times |
-| 2 | 8 times |
-| 3 | 9 times |
-| 4 | 10 times |
-
----
 
 
 ## 🔍 Key Table Observations & Memory Anchors

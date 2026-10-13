@@ -278,55 +278,6 @@ hide:
 | Lists, emergency frame, PSC, much administrative detail | **GOI Act 1935** | “Only copy of 1935” oversimplifies |
 | Fundamental Duties (Part IVA) | **USSR** model via **42nd Amendment, 1976** | Not in original 1950 Constitution |
 
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| A | Cooperative Federalism |
-| B | Bargaining Federalism |
-| C | Quasi Federalism |
-| D | Federalism with Centralising Tendency |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| 1 | K.C. Wheare |
-| 2 | Ivor Jennings |
-| 3 | Morris-Jones |
-| 4 | Granville Austin |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| A | USA |
-| B | Ireland |
-| C | Australia |
-| D | Japan |
-
----
-
-
-### Comparative Matrix: Code ↔ Item
-
-| Code | Item |
-|------|------|
-| 1 | DPSP |
-| 2 | Fundamental Rights |
-| 3 | Procedure established by law (Art. 21 style) |
-| 4 | Concurrent List |
-
----
 
 ## 🔍 Key Table Observations & Memory Anchors
 

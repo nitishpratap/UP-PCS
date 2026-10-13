@@ -55,55 +55,6 @@ hide:
 | Special States | **371–371J** (Part XXI) |
 | UP | **No** 371-series special article |
 
----
-
-
-### Comparative Matrix: Code ↔ Schedule
-
-| Code | Schedule |
-|------|----------|
-| A | Seventh Schedule |
-| B | Eighth Schedule |
-| C | Ninth Schedule (नौवीं अनुसूची) |
-| D | Tenth Schedule |
-
----
-
-
-### Comparative Matrix: Code ↔ Subject
-
-| Code | Subject |
-|------|---------|
-| 1 | Languages |
-| 2 | Anti-defection |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Validation of certain Acts and Regulations |
-
----
-
-
-### Comparative Matrix: Code ↔ Schedule
-
-| Code | Schedule |
-|------|----------|
-| A | Third Schedule |
-| B | Fourth Schedule |
-| C | Seventh Schedule |
-| D | Eighth Schedule |
-
----
-
-
-### Comparative Matrix: Code ↔ Subject
-
-| Code | Subject |
-|------|---------|
-| 1 | Allocation of seats in Rajya Sabha |
-| 2 | Forms of Oaths or Affirmations |
-| 3 | Languages |
-| 4 | Union / State / Concurrent Lists |
-
----
 
 ## Fifth vs Sixth (one table)
 
@@ -115,56 +66,6 @@ hide:
 | Who is boss | **Governor** + President | **ADC** + Governor’s overlay |
 | PESA | **Yes (1996)** | **No** |
 | 73rd auto-apply | No (needs PESA) | No (**243M**) |
-
----
-
-
-### Comparative Matrix: Code ↔ Schedule
-
-| Code | Schedule |
-|------|----------|
-| A | Seventh Schedule |
-| B | Eighth Schedule |
-| C | Ninth Schedule |
-| D | Tenth Schedule |
-
----
-
-
-### Comparative Matrix: Code ↔ Subject
-
-| Code | Subject |
-|------|---------|
-| 1 | Languages |
-| 2 | Anti-defection |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Validation of certain Acts and Regulations |
-
----
-
-
-### Comparative Matrix: Code ↔ Schedule
-
-| Code | Schedule |
-|------|----------|
-| A | Third Schedule |
-| B | Fourth Schedule |
-| C | Seventh Schedule |
-| D | Eighth Schedule |
-
----
-
-
-### Comparative Matrix: Code ↔ Subject
-
-| Code | Subject |
-|------|---------|
-| 1 | Allocation of seats in Rajya Sabha |
-| 2 | Forms of Oaths or Affirmations |
-| 3 | Languages |
-| 4 | Union / State / Concurrent Lists |
-
----
 
 
 ## 🔍 Key Table Observations & Memory Anchors
