@@ -862,6 +862,26 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/06_Socio_Religious_Reform_Movements/">Open chapter</a>
   </div>
 </details>
+<details class="ct-row" data-ct-id="mordern-india-01-Advent-of-Europeans-md" data-group="medium" data-uk="0">
+  <summary>
+    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-01-Advent-of-Europeans-md" aria-label="Mark Topic 1 — Advent of Europeans done">
+    <span class="ct-title">Topic 1 — Advent of Europeans</span>
+    <span class="ct-pills">29 Qs · UPPCS 24 · UKPCS 5</span>
+  </summary>
+  <div class="ct-panel">
+<p><strong>Asked from</strong></p>
+<ul class="ct-topics">
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#ghatnachakra-extra-drill">Ghatnachakra Extra Drill</a> — 21 questions (UPPCS 17 · UKPCS 4)</li>
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#16-english-east-india-company">English East India Company</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#113-first-carnatic-war-17461748">First Carnatic War, 1746–1748</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#15-dutch-in-india">Dutch in India</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#110-factories-and-presidencies">Factories and Presidencies</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#114-second-carnatic-war-c17491754">Second Carnatic War, c.1749–1754</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#ukpcs-complete-pyq-stems">UKPCS Complete PYQ /</a> — 1 question (UKPCS 1)</li>
+    </ul>
+    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/01_Advent_of_Europeans/">Open chapter</a>
+  </div>
+</details>
 <details class="ct-row" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" data-group="medium" data-uk="0">
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="mordern-india-02-East-India-Company-Expansion-md" aria-label="Mark Topic 2 — East India Company Expansion done">
@@ -950,24 +970,6 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/mordern%20india/15_Post_Independence_India/#156-states-reorganisation">States Reorganisation</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/15_Post_Independence_India/">Open chapter</a>
-  </div>
-</details>
-<details class="ct-row" data-ct-id="mordern-india-01-Advent-of-Europeans-md" data-group="least" data-uk="0">
-  <summary>
-    <input type="checkbox" class="ct-check" data-ct-id="mordern-india-01-Advent-of-Europeans-md" aria-label="Mark Topic 1 — Advent of Europeans done">
-    <span class="ct-title">Topic 1 — Advent of Europeans</span>
-    <span class="ct-pills">7 Qs · UPPCS 7 · UKPCS 0</span>
-  </summary>
-  <div class="ct-panel">
-<p><strong>Asked from</strong></p>
-<ul class="ct-topics">
-      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#16-english-east-india-company">English East India Company</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#113-first-carnatic-war-17461748">First Carnatic War, 1746–1748</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#15-dutch-in-india">Dutch in India</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#110-factories-and-presidencies">Factories and Presidencies</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/mordern%20india/01_Advent_of_Europeans/#114-second-carnatic-war-c17491754">Second Carnatic War, c.1749–1754</a> — 1 question (UPPCS 1)</li>
-    </ul>
-    <a class="md-button md-button--primary ct-open" href="../subjects/mordern%20india/01_Advent_of_Europeans/">Open chapter</a>
   </div>
 </details>
 <details class="ct-row" data-ct-id="mordern-india-uttar-pradesh-17-UP-History-and-Freedom-Struggle-md" data-group="least" data-uk="0">
@@ -2079,11 +2081,12 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
       <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#mains-answer-framework">Mains Answer Framework</a> — 9 questions (UPPCS 9)</li>
       <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#22-ecosystem">Ecosystem</a> — 6 questions (UPPCS 6)</li>
       <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#25-ecological-niche">Ecological Niche</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#28-ecological-succession">Ecological Succession</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#28-ecological-succession">Ecological Succession</a> — 3 questions (UPPCS 3)</li>
       <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#210-ecosystem-productivity">Ecosystem Productivity</a> — 2 questions (UPPCS 2)</li>
       <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#212-genetic-species-community-ecology">Genetic, Species &amp; Community Ecology</a> — 2 questions (UPPCS 2)</li>
       <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#27-ecological-balance">Ecological Balance</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#211-ecological-efficiency">Ecological Efficiency</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/#213-ecological-succession-seral-stages-biogeochemical-dynamics">Ecological Succession, Seral Stages &amp; Biogeochemical Dynamics</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/environments%20%26%20ecology/02_Ecology_and_Ecosystem/">Open chapter</a>
   </div>
@@ -3511,16 +3514,16 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#85-demography-transition-census-and-population-map">Demography — transition, Census and population map</a> — 36 questions (UPPCS 36)</li>
-      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#84-employment-and-welfare-schemes">Employment and welfare schemes</a> — 30 questions (UPPCS 30)</li>
-      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#complete-pyq-bank-uppcs">PYQ Bank</a> — 26 questions (UPPCS 26)</li>
-      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#83-human-capital-hdi-and-inclusive-growth">Human capital, HDI and inclusive growth</a> — 25 questions (UPPCS 25)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#84-major-national-welfare-employment-and-social-security-schemes">Major National Welfare, Employment, and Social Security Schemes</a> — 43 questions (UPPCS 43)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#86-urbanization-concepts-census-criteria-and-urban-dynamics">Urbanization — Concepts, Census Criteria, and Urban Dynamics</a> — 38 questions (UPPCS 38)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#83-human-capital-formation-human-development-index-and-inclusive-growth">Human Capital Formation, Human Development Index, and Inclusive Growth</a> — 36 questions (UPPCS 36)</li>
       <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#ghatnachakra-extra-drill-employment-poverty-and-human-capital">Employment, Poverty and Human Capital</a> — 19 questions (UPPCS 10 · UKPCS 9)</li>
-      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#87-world-population-and-global-urbanization">World population and global urbanization</a> — 19 questions (UPPCS 19)</li>
-      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#81-poverty-lines-mpi-indicators">Poverty — lines, MPI, indicators</a> — 13 questions (UPPCS 12 · UKPCS 1)</li>
-      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#86-urbanization-definitions-levels-and-city-hierarchy">Urbanization — definitions, levels and city hierarchy</a> — 13 questions (UPPCS 13)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#complete-pyq-bank-uppcs">PYQ Bank</a> — 17 questions (UPPCS 17)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#85-demography-transition-stages-census-chronology-and-indian-demographic-trends">Demography — Transition Stages, Census Chronology, and Indian Demographic Trends</a> — 12 questions (UPPCS 12)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#81-poverty-concepts-poverty-lines-and-multidimensional-poverty">Poverty — Concepts, Poverty Lines, and Multidimensional Poverty</a> — 11 questions (UPPCS 10 · UKPCS 1)</li>
       <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#ukpcs">UKPCS</a> — 7 questions (UKPCS 7)</li>
-      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#82-employment-and-labour">Employment and labour</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#87-global-demography-and-world-urbanization-dynamics">Global Demography and World Urbanization Dynamics</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/economy/08_Employment_Poverty_Human_Capital/#82-employment-labour-force-metrics-and-demographic-dividend">Employment, Labour Force Metrics, and Demographic Dividend</a> — 4 questions (UPPCS 4)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/08_Employment_Poverty_Human_Capital/">Open chapter</a>
   </div>
@@ -3529,19 +3532,21 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="economy-02-Public-Finance-Budget-Taxation-md" aria-label="Mark Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy done">
     <span class="ct-title">Topic 2 — Public Finance, Budget, Taxation and Fiscal Policy</span>
-    <span class="ct-pills">85 Qs · UPPCS 70 · UKPCS 15</span>
+    <span class="ct-pills">75 Qs · UPPCS 62 · UKPCS 13</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#21-public-finance-revenue-expenditure-debt-subsidies">Public finance — revenue, expenditure, debt, subsidies</a> — 24 questions (UPPCS 24)</li>
-      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#26-finance-commission-and-fiscal-federalism">Finance Commission and fiscal federalism</a> — 12 questions (UPPCS 11 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#22-the-union-budget-and-constitutional-funds">The Union Budget and Constitutional Funds</a> — 19 questions (UPPCS 19)</li>
       <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#ghatnachakra-extra-drill-public-finance-budget-and-taxation">Public Finance, Budget and Taxation</a> — 12 questions (UPPCS 6 · UKPCS 6)</li>
-      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#22-budget-and-constitutional-funds">Budget and constitutional funds</a> — 11 questions (UPPCS 11)</li>
-      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#complete-pyq-bank-uppcs">PYQ Bank</a> — 10 questions (UPPCS 10)</li>
-      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#25-gst-and-tax-reforms">GST and tax reforms</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
-      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#24-taxation-structure">Taxation structure</a> — 5 questions (UPPCS 3 · UKPCS 2)</li>
-      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#ukpcs-prelims-bank">UKPCS Prelims Bank</a> — 5 questions (UKPCS 5)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#26-the-finance-commission-and-fiscal-federalism">The Finance Commission and Fiscal Federalism</a> — 10 questions (UPPCS 9 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#complete-pyq-bank-uppcs">PYQ Bank</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#24-tax-architecture-direct-and-indirect-taxation">Tax Architecture: Direct and Indirect Taxation</a> — 7 questions (UPPCS 5 · UKPCS 2)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#23-deficit-concepts-deficit-financing-and-the-frbm-framework">Deficit Concepts, Deficit Financing, and the FRBM Framework</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#25-the-goods-and-services-tax-gst-architecture">The Goods and Services Tax (GST) Architecture</a> — 5 questions (UPPCS 4 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#21-public-finance-receipts-expenditures-debt-and-subsidies">Public Finance: Receipts, Expenditures, Debt, and Subsidies</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#ukpcs-prelims-bank">UKPCS Prelims Bank</a> — 3 questions (UKPCS 3)</li>
+      <li><a href="../subjects/economy/02_Public_Finance_Budget_Taxation/#supplementary-concepts-high-yield-theoretical-notes">Supplementary Concepts &amp; High-Yield Theoretical Notes</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/02_Public_Finance_Budget_Taxation/">Open chapter</a>
   </div>
@@ -3550,18 +3555,19 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="economy-01-Indian-Economy-Basics-Planning-md" aria-label="Mark Topic 1 — Indian Economy: Basics, Evolution and Planning done">
     <span class="ct-title">Topic 1 — Indian Economy: Basics, Evolution and Planning</span>
-    <span class="ct-pills">69 Qs · UPPCS 58 · UKPCS 11</span>
+    <span class="ct-pills">71 Qs · UPPCS 60 · UKPCS 11</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#15-five-year-plans-theme-tags">Five-Year Plans — theme tags</a> — 24 questions (UPPCS 23 · UKPCS 1)</li>
       <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#ghatnachakra-extra-drill-indian-economy-basics-and-planning">Indian Economy Basics and Planning</a> — 24 questions (UPPCS 18 · UKPCS 6)</li>
-      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#14-planning-commission-to-niti-aayog">Planning Commission to NITI Aayog</a> — 11 questions (UPPCS 9 · UKPCS 2)</li>
-      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#11-features-of-the-indian-economy">Features of the Indian economy</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#12-growth-versus-development">Growth versus development</a> — 4 questions (UPPCS 4)</li>
-      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#13-national-income-gdp-family">National income — GDP family</a> — 1 question (UKPCS 1)</li>
-      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#16-reforms-and-the-cycle">Reforms and the cycle</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#15-the-five-year-plans-chronology-models-and-thematic-focus">The Five-Year Plans: Chronology, Models, and Thematic Focus</a> — 21 questions (UPPCS 20 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#14-evolution-of-economic-planning-planning-commission-to-niti-aayog">Evolution of Economic Planning: Planning Commission to NITI Aayog</a> — 13 questions (UPPCS 13)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#12-economic-growth-versus-economic-development">Economic Growth versus Economic Development</a> — 8 questions (UPPCS 8)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#ukpcs-prelims-bank">UKPCS Prelims Bank</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#16-economic-reforms-and-business-cycle-dynamics">Economic Reforms and Business Cycle Dynamics</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#13-national-income-accounting-the-gdp-family">National Income Accounting — The GDP Family</a> — 1 question (UKPCS 1)</li>
+      <li><a href="../subjects/economy/01_Indian_Economy_Basics_Planning/#11-structural-features-of-the-indian-economy">Structural Features of the Indian Economy</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/01_Indian_Economy_Basics_Planning/">Open chapter</a>
   </div>
@@ -3570,18 +3576,20 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="economy-03-Money-Banking-RBI-Financial-System-md" aria-label="Mark Topic 3 — Money, Banking, RBI and Financial System done">
     <span class="ct-title">Topic 3 — Money, Banking, RBI and Financial System</span>
-    <span class="ct-pills">67 Qs · UPPCS 57 · UKPCS 10</span>
+    <span class="ct-pills">61 Qs · UPPCS 53 · UKPCS 8</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#31-money-functions-and-aggregates">Money — functions and aggregates</a> — 20 questions (UPPCS 20)</li>
-      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#32-banking-structure-nationalisation-npa-digital-rails">Banking structure, nationalisation, NPA, digital rails</a> — 11 questions (UPPCS 11)</li>
-      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#33-nabard-and-rural-credit-chronology">NABARD and rural credit chronology</a> — 11 questions (UPPCS 9 · UKPCS 2)</li>
-      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#ukpcs-prelims-bank">UKPCS Prelims Bank</a> — 11 questions (UPPCS 8 · UKPCS 3)</li>
-      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#34-rbi-and-monetary-policy-toolkit">RBI and monetary policy toolkit</a> — 6 questions (UPPCS 6)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#33-reserve-bank-of-india-rbi-mandate-structure-powers">Reserve Bank of India (RBI): Mandate, Structure &amp; Powers</a> — 22 questions (UPPCS 22)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#31-money-monetary-aggregates-money-multiplier">Money, Monetary Aggregates &amp; Money Multiplier</a> — 13 questions (UPPCS 13)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#32-commercial-banking-architecture-historical-evolution-reforms">Commercial Banking Architecture, Historical Evolution &amp; Reforms</a> — 8 questions (UPPCS 8)</li>
       <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#ghatnachakra-extra-drill-money-banking-rbi-and-financial-system">Money, Banking, RBI and Financial System</a> — 5 questions (UKPCS 5)</li>
-      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#complete-pyq-bank-uppcs">PYQ Bank</a> — 3 questions (UPPCS 3)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#35-rural-credit-architecture-development-finance-landmark-committees">Rural Credit Architecture, Development Finance &amp; Landmark Committees</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#ukpcs-prelims-bank">UKPCS Prelims Bank</a> — 3 questions (UKPCS 3)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#bilingual-terminology-money-banking-financial-system">Bilingual Terminology -- Money, Banking &amp; Financial System</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#complete-pyq-bank-uppcs">PYQ Bank</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/03_Money_Banking_RBI_Financial_System/#34-monetary-policy-framework-policy-instruments">Monetary Policy Framework &amp; Policy Instruments</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/03_Money_Banking_RBI_Financial_System/">Open chapter</a>
   </div>
@@ -3595,12 +3603,14 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#complete-pyq-bank-uppcs">PYQ Bank</a> — 21 questions (UPPCS 21)</li>
-      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#123-indices-and-rankings-publisher-year">Indices and rankings — publisher + year</a> — 11 questions (UPPCS 9 · UKPCS 2)</li>
-      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#121-economic-laws-and-codes-short-desk">Economic laws and codes — short desk</a> — 8 questions (UPPCS 7 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#123-global-and-national-indices-rankings-and-development-reports">Global and National Indices, Rankings, and Development Reports</a> — 15 questions (UPPCS 13 · UKPCS 2)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#complete-pyq-bank-uppcs">PYQ Bank</a> — 14 questions (UPPCS 14)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#121-key-economic-statutes-codes-and-regulatory-frameworks">Key Economic Statutes, Codes, and Regulatory Frameworks</a> — 7 questions (UPPCS 6 · UKPCS 1)</li>
       <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#ukpcs">UKPCS</a> — 7 questions (UKPCS 7)</li>
       <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#ghatnachakra-extra-drill-economic-laws-reports-and-rankings">Economic Laws, Reports and Rankings</a> — 6 questions (UPPCS 5 · UKPCS 1)</li>
-      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#122-economic-survey-and-report-desk">Economic Survey and report desk</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#122-the-economic-survey-and-national-macroeconomic-reviews">The Economic Survey and National Macroeconomic Reviews</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#125-climate-energy-and-national-policy-missions">Climate, Energy, and National Policy Missions</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/#124-foundational-economic-thinkers-treatises-and-concepts">Foundational Economic Thinkers, Treatises, and Concepts</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/12_Economic_Laws_Reports_Rankings_Misc/">Open chapter</a>
   </div>
@@ -3619,9 +3629,10 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
       <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#ghatnachakra-extra-drill-services-cooperatives-and-regulators">Services, Cooperatives and Regulators</a> — 12 questions (UPPCS 12)</li>
-      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#111-service-sector-tertiary-map">Service sector — tertiary map</a> — 9 questions (UPPCS 9)</li>
-      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#115-standards-quality-marks-and-consumer-protection">Standards, quality marks and consumer protection</a> — 6 questions (UPPCS 6)</li>
-      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#113-companies-csr-and-corporate-governance">Companies, CSR and corporate governance</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#111-the-service-sector-structure-gva-composition-and-transformation">The Service Sector — Structure, GVA Composition, and Transformation</a> — 9 questions (UPPCS 9)</li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#115-standards-quality-marks-and-consumer-rights-architecture">Standards, Quality Marks, and Consumer Rights Architecture</a> — 5 questions (UPPCS 5)</li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#113-companies-corporate-governance-and-corporate-social-responsibility-csr">Companies, Corporate Governance, and Corporate Social Responsibility (CSR)</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#114-national-regulatory-authorities-and-oversight-architecture">National Regulatory Authorities and Oversight Architecture</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#complete-pyq-bank-uppcs">PYQ Bank</a> — 1 question (UPPCS 1)</li>
       <li><a href="../subjects/economy/11_Services_Cooperatives_Regulators/#ukpcs">UKPCS</a> — 1 question (UKPCS 1)</li>
     </ul>
@@ -3637,13 +3648,12 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#105-asean-saarc-bimstec-sco">ASEAN, SAARC, BIMSTEC, SCO</a> — 6 questions (UPPCS 4 · UKPCS 2)</li>
       <li><a href="../subjects/economy/10_International_Institutions_Groupings/#ukpcs">UKPCS</a> — 6 questions (UKPCS 6)</li>
-      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#103-brics">BRICS</a> — 4 questions (UPPCS 1 · UKPCS 3)</li>
-      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#101-bretton-woods-twins-imf-and-world-bank-group">Bretton Woods twins — IMF and World Bank Group</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
-      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#104-g20-and-g7">G20 and G7</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#106-oecd-wto-organisation-desk-wef">OECD, WTO organisation desk, WEF</a> — 2 questions (UKPCS 2)</li>
-      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#complete-pyq-bank-uppcs">PYQ Bank</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#105-regional-groupings-asean-saarc-bimstec-and-sco">Regional Groupings — ASEAN, SAARC, BIMSTEC, and SCO</a> — 5 questions (UPPCS 3 · UKPCS 2)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#103-brics-evolution-expansion-and-financial-architecture">BRICS — Evolution, Expansion, and Financial Architecture</a> — 4 questions (UPPCS 1 · UKPCS 3)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#104-the-group-of-twenty-g20-and-group-of-seven-g7">The Group of Twenty (G20) and Group of Seven (G7)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#106-oecd-wto-institutional-desk-and-world-economic-forum">OECD, WTO Institutional Desk, and World Economic Forum</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/10_International_Institutions_Groupings/#101-the-bretton-woods-institutions-imf-and-the-world-bank-group">The Bretton Woods Institutions — IMF and the World Bank Group</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/10_International_Institutions_Groupings/">Open chapter</a>
   </div>
@@ -3657,11 +3667,12 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#71-industrial-structure-and-msme">Industrial structure and MSME</a> — 5 questions (UPPCS 4 · UKPCS 1)</li>
       <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#ghatnachakra-extra-drill-industry-msme-and-infrastructure">Industry, MSME and Infrastructure</a> — 5 questions (UPPCS 4 · UKPCS 1)</li>
-      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#72-industrial-policy-make-in-india-startups-corridors">Industrial policy — Make in India, startups, corridors</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#73-psu-disinvestment-and-fdi-industry-angle">PSU, disinvestment and FDI (industry angle)</a> — 2 questions (UPPCS 1 · UKPCS 1)</li>
-      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#74-infrastructure-and-pm-gati-shakti">Infrastructure and PM Gati Shakti</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#74-manufacturing-architecture-industrial-sectors-indices-iip-eight-core-industries">Manufacturing Architecture, Industrial Sectors &amp; Indices (IIP &amp; Eight Core Industries)</a> — 4 questions (UPPCS 4)</li>
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#76-national-economic-infrastructure-corridors-pipelines-logistics">National Economic Infrastructure: Corridors, Pipelines &amp; Logistics</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#complete-pyq-bank-uppcs">PYQ Bank</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#ukpcs">UKPCS</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/07_Industry_MSME_Infrastructure/#72-micro-small-and-medium-enterprises-msme-small-scale-industry-architecture">Micro, Small and Medium Enterprises (MSME) &amp; Small-Scale Industry Architecture</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/07_Industry_MSME_Infrastructure/">Open chapter</a>
   </div>
@@ -3679,13 +3690,13 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#92-forex-reserves-exchange-rates-and-convertibility">Forex reserves, exchange rates and convertibility</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
-      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#95-fema-fera-and-the-external-legal-frame">FEMA, FERA and the external legal frame</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#92-foreign-exchange-reserves-exchange-rate-regimes-and-convertibility">Foreign Exchange Reserves, Exchange Rate Regimes, and Convertibility</a> — 3 questions (UPPCS 2 · UKPCS 1)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#95-foreign-exchange-regulatory-architecture-fera-1973-and-fema-1999">Foreign Exchange Regulatory Architecture — FERA (1973) and FEMA (1999)</a> — 2 questions (UKPCS 2)</li>
       <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#complete-pyq-bank-uppcs">PYQ Bank</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#94-trade-barriers-wto-desk-globalisation-and-partners">Trade barriers, WTO desk, globalisation and partners</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#94-trade-barriers-world-trade-organization-wto-and-global-integration">Trade Barriers, World Trade Organization (WTO), and Global Integration</a> — 2 questions (UKPCS 2)</li>
       <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#ukpcs">UKPCS</a> — 2 questions (UKPCS 2)</li>
-      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#93-capital-flows-fdi-fpi-remittances-debt">Capital flows — FDI, FPI, remittances, debt</a> — 1 question (UPPCS 1)</li>
-      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#91-trade-bot-and-balance-of-payments">Trade, BoT and Balance of Payments</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#93-capital-flows-fdi-fpi-remittances-and-external-debt">Capital Flows — FDI, FPI, Remittances, and External Debt</a> — 1 question (UPPCS 1)</li>
+      <li><a href="../subjects/economy/09_External_Sector_Foreign_Trade/#91-international-trade-balance-of-trade-and-balance-of-payments">International Trade, Balance of Trade, and Balance of Payments</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/09_External_Sector_Foreign_Trade/">Open chapter</a>
   </div>
@@ -3694,16 +3705,14 @@ Tick a chapter when you finish it. The tick stays in **this browser**. Open a su
   <summary>
     <input type="checkbox" class="ct-check" data-ct-id="economy-04-Inflation-Prices-Savings-Investment-Markets-md" aria-label="Mark Topic 4 — Inflation, Prices, Savings, Investment and Markets done">
     <span class="ct-title">Topic 4 — Inflation, Prices, Savings, Investment and Markets</span>
-    <span class="ct-pills">12 Qs · UPPCS 8 · UKPCS 4</span>
+    <span class="ct-pills">6 Qs · UPPCS 4 · UKPCS 2</span>
   </summary>
   <div class="ct-panel">
 <p><strong>Asked from</strong></p>
 <ul class="ct-topics">
-      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#41-inflation-types-causes-effects">Inflation — types, causes, effects</a> — 3 questions (UPPCS 1 · UKPCS 2)</li>
-      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#42-price-indices-cpi-wpi-related-measures">Price indices — CPI, WPI, related measures</a> — 3 questions (UPPCS 3)</li>
-      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#44-financial-markets-money-capital-sebi-funds-pensions">Financial markets — money, capital, SEBI, funds, pensions</a> — 2 questions (UPPCS 2)</li>
-      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#complete-pyq-bank-uppcs">PYQ Bank</a> — 2 questions (UPPCS 2)</li>
+      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#42-measurement-of-price-inflation-cpi-wpi-gdp-deflator-iip">Measurement of Price Inflation: CPI, WPI, GDP Deflator &amp; IIP</a> — 3 questions (UPPCS 3)</li>
       <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#ukpcs-prelims-bank">UKPCS Prelims Bank</a> — 2 questions (UKPCS 2)</li>
+      <li><a href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/#41-inflation-concepts-taxonomy-causes-socio-economic-impacts">Inflation: Concepts, Taxonomy, Causes &amp; Socio-Economic Impacts</a> — 1 question (UPPCS 1)</li>
     </ul>
     <a class="md-button md-button--primary ct-open" href="../subjects/economy/04_Inflation_Prices_Savings_Investment_Markets/">Open chapter</a>
   </div>

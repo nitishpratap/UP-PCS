@@ -233,6 +233,10 @@
       "title": "World Population and Demographic Miscellaneous"
     },
     {
+      "slug": "00_Daily_Revision_Facts",
+      "title": "Daily Read — High-Yield Revision Facts (Census & Urbanisation)"
+    },
+    {
       "slug": "00_Syllabus",
       "title": "Census and Urbanisation (UPPCS + UKPCS Knowledge Base)"
     },
@@ -244,7 +248,7 @@
   "economy": [
     {
       "slug": "01_Indian_Economy_Basics_Planning",
-      "title": "Indian Economy Basics Planning"
+      "title": "Indian Economy: Basics, Evolution and Economic Planning"
     },
     {
       "slug": "02_Public_Finance_Budget_Taxation",
@@ -252,7 +256,7 @@
     },
     {
       "slug": "03_Money_Banking_RBI_Financial_System",
-      "title": "Money, Banking, RBI and Financial System"
+      "title": "Money, Banking, RBI and the Financial System"
     },
     {
       "slug": "04_Inflation_Prices_Savings_Investment_Markets",
@@ -289,6 +293,10 @@
     {
       "slug": "12_Economic_Laws_Reports_Rankings_Misc",
       "title": "Economic Laws, Reports, Rankings and Miscellaneous"
+    },
+    {
+      "slug": "00_Daily_Revision_Facts",
+      "title": "Daily Read — High-Yield Revision Facts (Indian Economy)"
     },
     {
       "slug": "00_Syllabus",
@@ -1139,6 +1147,10 @@
       "title": "Discoveries, Scientists and Miscellaneous Chemistry"
     },
     {
+      "slug": "00_Daily_Revision_Facts",
+      "title": "Daily Read — High-Yield Revision Facts (General Science & Technology)"
+    },
+    {
       "slug": "00_Syllabus",
       "title": "Science & Technology (UPPCS + UKPCS Knowledge Base)"
     },
@@ -1191,6 +1203,10 @@
     {
       "slug": "08_Current_Affairs_Schemes_Miscellaneous",
       "title": "Government Schemes, State Policies, State Symbols, Honors and Miscellaneous Facts"
+    },
+    {
+      "slug": "00_Daily_Revision_Facts",
+      "title": "Daily Read — High-Yield Revision Facts (UP Special GK)"
     },
     {
       "slug": "00_Syllabus",
