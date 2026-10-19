@@ -1,5 +1,6 @@
 title: Science and Technology
 nav:
+  - "Daily Read — High-Yield Revision Facts": 00_Daily_Revision_Facts.md
   - Overview: index.md
   - "Science & Technology (UPPCS + UKPCS Knowledge Base)": 00_Syllabus.md
   - "Part 1 — Biology (chapter map)": 01_Biology_Syllabus.md

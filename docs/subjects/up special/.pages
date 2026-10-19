@@ -1,5 +1,6 @@
 title: UP Special
 nav:
+  - "Daily Read — High-Yield Revision Facts": 00_Daily_Revision_Facts.md
   - Overview: index.md
   - "UP Special (UPPCS Knowledge Base)": 00_Syllabus.md
   - "8 master chapters (chapter map)": 01_UP_Special_Syllabus.md
