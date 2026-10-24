@@ -43,6 +43,106 @@ hide:
 | Early Mathura Shiva | Chola Nataraja | Linga / mukhalinga / Oesho under Kushan vs later Tamil **bronze dancer** | मथुरा शिव / चोल नटराज |
 | Booted Surya | Barefoot South Surya | North Indian **udichya-vesa** (Shaka–Kushan) vs southern bare legs | सूर्य जूते / दक्षिणी सूर्य |
 
+---
+
+### Alexander tags
+
+| Item | Lock |
+|------|------|
+| Entry | ~**327–325 BCE** (~19 months) |
+| Ally | **Ambhi** (Taxila) |
+| Battle | **Hydaspes (Jhelum)** vs Porus |
+| Turn-back | Army mutiny at **Hyphasis (Beas)** |
+| Admiral | **Nearchus** |
+| Death | Babylon **323 BCE** |
+| Sandrokottos | **Chandragupta Maurya** |
+
+---
+
+### Seleucus / Indo-Greek
+
+| Item | Lock |
+|------|------|
+| Seleucus treaty | ~**305–303 BCE**; **500 elephants**; envoy **Megasthenes** |
+| Menander (Milinda) | Capital **Sagala**; *Milinda Panha* with **Nagasena** |
+| Heliodorus pillar | Besnagar ~**113 BCE**; Bhagavata |
+| Sagala vs Sangala | Menander’s Sialkot vs Alexander’s stormed town |
+
+---
+
+### Shaka / Parthian / Kushan
+
+| King | Lock |
+|------|------|
+| Maues / Moga | First strong Shaka at Taxila |
+| Nahapana | Kshaharata; checked by Gautamiputra |
+| Rudradaman | Kardamaka; **Junagadh** Sanskrit; Sudarshana repair |
+| Gondophares | Parthian; **Takht-i-Bahi** |
+| Kujula | Kushan unifier (mainly copper) |
+| Vima | Imperial **gold**; *Shaonanoshao* |
+| Kanishka | Peak; **Shaka era 78 CE**; 4th Council Kashmir; **Devaputra** |
+
+---
+
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Anabasis* (and related *Indica*) | **Arrian** | Alexander’s Indian march (draws on Ptolemy and Aristobulus) |
+| *Indica* (Mauryan India) | **Megasthenes** | Seleucid envoy after ~303 BCE; Chandragupta’s court |
+| India–Persia notes | **Ctesias** | Physician to Artaxerxes II |
+| Gymnosophist / march notes | **Onesicritus** | Helmsman-writer with Alexander |
+| *Milinda Panha* | **Menander (Milinda)** and **Nagasena** | Indo-Greek Buddhist dialogue |
+
+---
+
+
+### Comparative Matrix: Year ↔ Macedonian Step
+
+| Year | Macedonian step |
+|------|-----------------|
+| 334 | Granicus |
+| 333 | Issus |
+| **331** | **Gaugamela** |
+| 330 | Persepolis |
+| 329–327 | Bactria–Sogdiana |
+| **326** | **India** |
+
+---
+
+### Two art schools
+
+| School | Zone | Stone | Look |
+|--------|------|-------|------|
+| **Gandhara** | NW (Peshawar–Taxila–Afghan belt) | Grey / green **schist** (also stucco) | Greco-Roman Buddha face, wavy hair, heavy drapery |
+| **Mathura** | **Uttar Pradesh** (उत्तर प्रदेश) | Mottled **red sandstone** | Indigenous body types, yaksha heritage, smiling / robust figures |
+
+---
+
+
+### Match Matrix: Item ↔ Association
+
+| List-I (Item) | List-II (Association) |
+|---|---|
+| 1. Hydaspes | A. Beas — mutiny / turn-back |
+| 2. Hyphasis | B. Jhelum — battle vs Porus |
+| 3. Ambhi | C. Taxila ally of Alexander |
+| 4. Porus | D. Paurava opponent, then restored |
+
+---
+
+
+### Match Matrix: King ↔ Horizon
+
+| List-I (King) | List-II (Horizon) |
+|---|---|
+| 1. Maues / Moga | A. Parthian at Takht-i-Bahi |
+| 2. Gondophares | B. Shaka first strong at Taxila |
+| 3. Nahapana | C. Kushan imperial climax; era 78 CE |
+| 4. Kanishka | D. Kshaharata; checked by Gautamiputra |
+
+---
 
 ## 🔍 Key Table Observations & Memory Anchors
 

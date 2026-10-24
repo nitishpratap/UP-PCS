@@ -123,6 +123,247 @@ hide:
 | Reserved Bill re-passed | — | Governor **must** then assent under Art. 200 path; **President need not** under Art. 201 |
 | Pocket / indefinite hold | Art. **111** has **no** fixed time limit (pocket veto) | Art. **200** uses “as soon as possible” for return — different clock from ordinance six weeks |
 
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Bhagwat Dayal Sharma |
+| B | K. C. Reddy |
+| C | B. Pattabhi Sitaramayya |
+| D | Sarojini Naidu |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Member of the Constituent Assembly of India |
+| 2 | First Chief Minister of a reorganised State |
+| 3 | First Governor of an Indian State after Independence |
+| 4 | First woman Governor in India |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Sarojini Naidu |
+| B | Padmaja Naidu |
+| C | Sarla Grewal |
+| D | Mridula Sinha |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | United Provinces / Uttar Pradesh |
+| 2 | West Bengal |
+| 3 | Madhya Pradesh |
+| 4 | Goa |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Members elected by local bodies |
+| 2 | Graduates of three years' standing |
+| 3 | Teachers of three years' standing |
+| 4 | Members elected by the Legislative Assembly |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | One-twelfth of the Council |
+| B | One-third of the Council |
+| C | One-third of the Council |
+| D | One-twelfth of the Council |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Uttar Pradesh |
+| 2 | Sikkim |
+| 3 | Goa |
+| 4 | Mizoram |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | 32 |
+| B | 40 |
+| C | 403 |
+| D | 60 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Composition of State Legislature |
+| 2 | Creation or abolition of Legislative Council |
+| 3 | Composition of Legislative Council |
+| 4 | Quorum |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Article 169 |
+| B | Article 171 |
+| C | Article 168 |
+| D | Article 189 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Uttar Pradesh |
+| 2 | Maharashtra |
+| 3 | Bihar |
+| 4 | Telangana |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | 403-member Assembly |
+| B | Capital Mumbai; bicameral since pre-1960 Bombay State |
+| C | Patna; revived bicameralism in 2007 |
+| D | Hyderabad; Council after 2014 bifurcation |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Five-year term; may be dissolved earlier |
+| 2 | Six-year term; one-third retire every two years |
+| 3 | Never dissolved; may be abolished by Parliament after Assembly resolution |
+| 4 | Quorum: ten members or one-tenth, whichever is greater |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Legislative Assembly |
+| B | Legislative Council |
+| C | Either House under Article 189 |
+| D | Governor's office |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Article 154 |
+| B | Article 162 |
+| C | Article 163 |
+| D | Article 200 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Extent of executive power of State |
+| 2 | Vesting of executive power in Governor |
+| 3 | Reservation of Bills for the President |
+| 4 | Aid and advice / discretion |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Article 169 |
+| B | Article 197 |
+| C | Article 168 |
+| D | Article 192 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | No joint sitting; Assembly prevails on deadlocks |
+| 2 | Creation/abolition of Legislative Council |
+| 3 | Governor as constituent part of State legislature |
+| 4 | MLA disqualification decided by Governor on EC advice |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Governor oath |
+| B | Governor qualification age |
+| C | Assembly maximum |
+| D | Assembly minimum |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | 35 years |
+| 2 | Before CJ of High Court |
+| 3 | 500 |
+| 4 | 60 |
+
+---
 
 ## 🔍 Key Table Observations & Memory Anchors
 

@@ -946,6 +946,73 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 
 ---
 
+## October 2026
+
+### PM Modi's Varanasi Mega-Package | 20 October 2026
+
+**What happened**
+Prime Minister **Narendra Modi** visited his parliamentary constituency **Varanasi**, inaugurating and laying foundation stones for multiple development projects worth over **₹6,700 crore** spanning healthcare, sports infrastructure, civil aviation, and regional connectivity.
+
+**Key projects & core prelims facts**
+- **RJ Sankara Eye Hospital (Harhua, Varanasi):**
+  - Super-speciality 225-bed eye hospital established by Sri Kanchi Kamakoti Medical Trust.
+  - Cross-subsidy model: 70% of surgeries and OPD consultations provided completely free of cost to the poor and underprivileged across Eastern UP, Bihar, and Jharkhand.
+  - Equipped with advanced corneal transplantation, vitreoretinal, paediatric ophthalmology, and glaucoma care.
+- **Dr. Sampoornanand Sports Complex (Sigra Stadium Redevelopment):**
+  - PM Modi inaugurated **Phases 2 and 3** of the Sigra Sports Complex redevelopment (costing over **₹210 crore**).
+  - Executed under the **Khelo India scheme** and **Smart City Mission**.
+  - Features an Olympic-size aquatic centre, multi-discipline indoor combat arena, athletics track, shooting ranges, and a high-performance athlete sports science centre.
+- **Lal Bahadur Shastri International Airport (Babatpur, Varanasi) Expansion:**
+  - Foundation stone laid for runway extension and a new terminal building worth approximately **₹2,870 crore**.
+  - Runway lengthened from 2,750 metres to **4,075 metres**, enabling wide-body long-haul international flights (Boeing 777/787 and Airbus A350).
+  - Terminal capacity will rise from 3.9 million passengers to **10 million passengers annually**.
+- **Airport Connectivity Enclaves across UP:**
+  - Inauguration of the newly developed civil enclave at **Sarsawa Airport (Saharanpur)** under the regional connectivity scheme **UDAN**.
+  - Foundation stones for civil enclaves and new terminals at Agra, Darbhanga, and Bagdogra.
+
+!!! trap "UPPCS Exam Trap"
+Do not confuse the airport expansion of **Varanasi (Lal Bahadur Shastri)** with **Noida International Airport (Jewar)**. Babatpur runway extension is ₹2,870 crore for 4,075m wide-body handling; Jewar began scheduled operations on 15 June 2026.
+
+---
+
+### 8th Ayodhya Deepotsav | October 2026 | Dual Guinness World Records
+
+**What happened**
+The Uttar Pradesh Department of Tourism and Ayodhya District Administration celebrated the **8th edition of Deepotsav** along the banks of the Saryu River in **Ayodhya**, creating two distinct Guinness World Records. This was the first Deepotsav celebrated after the *Pran Pratishtha* (consecration) of the Shri Ram Janmabhoomi Temple.
+
+**Core specs & prelims facts**
+- **Record 1 (Lamps lit):** A record-breaking **26,17,215 (over 26.17 lakh) earthen diyas** were lit simultaneously and kept burning for over 5 minutes.
+- **Ghats covered:** Arranged across **56 ghats** along the Saryu River, with **Ram Ki Paidi** as the main ceremonial centre.
+- **Record 2 (Maha Aarti):** A simultaneous, synchronized Maha Aarti performed by **2,128 priests and Vedacharyas** on the Saryu bank.
+- **Volunteers:** More than **33,000 volunteers**, drawn from Dr. Ram Manohar Lohia Avadh University, affiliated degree colleges, and NCC/NSS units.
+- **Counting method:** Guinness World Record adjudicators used **AI-enabled drone imaging** and georeferenced spatial grid mapping for verification.
+
+---
+
+### UP International Trade Show (UPITS 2026) | Greater Noida
+
+**What happened**
+The Department of MSME & Export Promotion, Government of Uttar Pradesh, organised the 2nd edition of the **UP International Trade Show (UPITS)** at the **India Expo Centre & Mart, Greater Noida**.
+
+**Core facts**
+- **Partner Country:** **Vietnam**.
+- **Participants:** Over **2,500 exhibitors** representing 75 districts of UP, including ODOP artisans, GI tag holders, and leading manufacturing conglomerates.
+- **Focus sectors:** Electronics & semiconductors, IT/ITeS, textile & handlooms, defence corridor equipment, and GI agro-horticulture produce.
+
+---
+
+### Maha Kumbh 2025/2026 Preparations & Green Mela Directive (Prayagraj)
+
+**What happened**
+The UP State Apex Committee headed by the Chief Secretary finalized operational dockets and green regulatory framework for the upcoming **Maha Kumbh at Prayagraj**.
+
+**Core facts**
+- **Mela Area:** Spanning over **4,000 hectares** divided into **25 operational sectors**.
+- **Green Mahakumbh Mandate:** Complete statutory prohibition on single-use plastics throughout the entire mela boundary; deployment of biodegradable cutlery and zero-waste tentage.
+- **AI-Driven ICCC:** Integrated Command and Control Centre in Prayagraj equipped with **1,100+ AI CCTV cameras** for real-time crowd-density heatmapping and automated lost-and-found facial matching.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.
@@ -1424,5 +1491,52 @@ D. Only 1
 **Logic:** IndiGo Lucknow–Jewar–Bengaluru path.
 
 **Ans: C.** Both true.
+
+</details>
+
+---
+
+**Q21.** With reference to development projects inaugurated by Prime Minister Narendra Modi in Varanasi in October 2026, consider the following statements:
+
+1. The RJ Sankara Eye Hospital at Harhua operates on a cross-subsidy model providing free treatment to the poor.
+2. Phases 2 and 3 of the redeveloped Dr. Sampoornanand Sports Complex at Sigra were inaugurated under the Khelo India and Smart City Mission.
+3. The foundation stone was laid for expanding the runway at Lal Bahadur Shastri International Airport to 4,075 metres.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three are key components of the ₹6,700+ crore Varanasi package (October 2026).
+
+**Ans: D.** All 1, 2 and 3 are correct.
+
+</details>
+
+---
+
+**Q22.** With reference to the 8th Ayodhya Deepotsav held in October 2026, which of the following statements is/are correct?
+
+1. Over 26.17 lakh earthen diyas were lit across 56 ghats along the Saryu River, setting a Guinness World Record.
+2. A simultaneous Guinness World Record was set by 2,128 priests performing a synchronized Saryu Maha Aarti.
+
+Select the correct answer from the code given below:
+
+A. 1 only  
+B. 2 only  
+C. Both 1 and 2  
+D. Neither 1 nor 2  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Both dual records were achieved at the 8th Deepotsav in Ayodhya.
+
+**Ans: C.** Both 1 and 2 are correct.
 
 </details>

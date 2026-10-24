@@ -1168,6 +1168,60 @@ The **57th GST Council** meeting, earlier linked to mid-September, was moved to 
 !!! trap
 Do not say the Council met on **12 September 2026** and cut rates again. That date was BRICS week; the Council moved to **October**.
 
+---
+
+## October 2026
+
+### CCEA Clears Minimum Support Prices (MSP) for Rabi Crops
+
+**What happened**
+The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister **Narendra Modi**, approved the **Minimum Support Prices (MSP)** for all mandated **Rabi crops** for the upcoming marketing season to safeguard farm income and ensure food security.
+
+**Core specs & return over cost board**
+
+| Mandated Rabi Crop | Approved MSP (₹/q) | Absolute Hike (₹/q) | Cost of Production (₹/q) | Return over Cost (%) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Wheat (गेहूँ)** | **₹2,425** | **₹150** | ₹1,128 | **115%** |
+| **Rapeseed & Mustard (सरसों)** | **₹5,950** | **₹300** *(Highest hike)* | ₹3,005 | **98%** |
+| **Barley (जौ)** | **₹1,980** | **₹130** | ₹1,238 | **60%** |
+| **Gram / Chana (चना)** | **₹5,650** | **₹210** | ₹3,531 | **60%** |
+| **Lentil / Masur (मसूर)** | **₹6,700** | **₹275** | ₹3,545 | **89%** |
+| **Safflower (कुसुम)** | **₹5,940** | **₹140** | ₹3,960 | **50%** |
+
+- **Swaminathan Formula Saturation:** Every single Rabi crop satisfies the statutory norm of providing **at least 50% profit margin** over the all-India weighted average cost of production ($A2 + FL$).
+- Highest absolute hike: **Rapeseed & Mustard (+₹300/q)**.
+- Highest margin: **Wheat (115%)**.
+
+---
+
+### 57th GST Council Meeting | 7 October 2026 | New Delhi
+
+**What happened**
+The **57th meeting of the Goods and Services Tax (GST) Council** was held in New Delhi, chaired by Union Finance Minister **Nirmala Sitharaman** and attended by State Finance Ministers.
+
+**Core outcomes & GST 2.0 process reforms**
+- **Process Over Rates:** The Council focused squarely on **process simplifications, ease of compliance, and fraud prevention (GST 2.0)** rather than broad-scale rate cuts.
+- **Biometric-Based Aadhaar Authentication:** Approved the phased, nationwide rollout of biometric-based Aadhaar authentication for high-risk GST applicants to eliminate fake firms and bogus Input Tax Credit (ITC) billing.
+- **Anti-Profiteering Transition:** Formally institutionalised the sunset of the National Anti-Profiteering Authority (NAA), transferring residual consumer cases and monitoring powers to the **Competition Commission of India (CCI)**.
+- **GoM Mandate on Insurance:** Tasked the Group of Ministers (GoM) on rate rationalisation to finalise tax relief recommendations for health and life insurance premiums.
+
+---
+
+### RBI Monetary Policy Committee (MPC) Review | October 2026
+
+**What happened**
+The six-member Monetary Policy Committee (MPC) of the Reserve Bank of India, headed by Governor **Shaktikanta Das**, announced its bi-monthly monetary policy decision.
+
+**Key policy rates & strategic stance change**
+- **Policy Repo Rate:** Maintained unchanged at **6.50%** (kept steady for the 10th consecutive meeting).
+- **Standing Deposit Facility (SDF) Rate:** Unchanged at **6.25%**.
+- **Marginal Standing Facility (MSF) & Bank Rate:** Unchanged at **6.75%**.
+- **Crucial Stance Pivot:** The MPC voted 5 to 1 to shift its monetary policy stance from *"withdrawal of accommodation"* to **"Neutral"**.
+- **Why it matters:** The shift to "Neutral" signals that the rate-hiking cycle has definitively concluded, giving the central bank flexibility to respond to domestic growth needs.
+- **Growth & Inflation Projections:** Real GDP growth forecast for FY 2024–25 retained at **7.2%**; CPI inflation projected at **4.5%**.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

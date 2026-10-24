@@ -442,6 +442,45 @@ The **Asian Games 2026** were staged in the **Aichi–Nagoya** region of **Japan
 !!! trap
 Do not confuse Aichi–Nagoya 2026 with Hangzhou 2023. Kabaddi gold this time is a **double** (men + women), not only one team.
 
+---
+
+## October 2026
+
+### ICC Women's T20 World Cup 2026 | New Zealand Champions
+
+**What happened**
+The **ICC Women's T20 World Cup** concluded in the **United Arab Emirates (UAE)** on **20 October 2026**, with **New Zealand** lifting their maiden ICC Women's T20 World Cup trophy.
+
+**Final match details & core facts**
+- **Final Venue:** **Dubai International Cricket Stadium, Dubai (UAE)**.
+- **Match Result:** **New Zealand** (158/5 in 20 overs) defeated **South Africa** (126/9 in 20 overs) by **32 runs**.
+- **Maiden Title:** This was New Zealand's **first-ever women's T20 World Cup title** (having previously finished runners-up in 2009 and 2010).
+- **Player of the Match (Final):** **Amelia Kerr** (New Zealand) — scored 43 runs off 38 balls and took 3 wickets for 24 runs with her leg-spin.
+- **Player of the Tournament:** **Amelia Kerr** — finished as the tournament's leading wicket-taker with **15 wickets** alongside 135 runs.
+- **Runner-Up:** **South Africa** (their second consecutive final loss after 2023).
+- **India's Performance:** India failed to qualify for the semi-finals, exiting in the group stage following defeats against New Zealand and Australia.
+
+---
+
+### ISSF Junior World Championship 2026 | Lima, Peru
+
+**What happened**
+The Indian shooting contingent dominated the **ISSF Junior World Championship** held in **Lima, Peru**.
+
+**Core facts**
+- **Medal Tally Crown:** **India topped the medal tally** with an outstanding haul of **24 medals**: **13 Gold, 3 Silver, and 8 Bronze**.
+- **Runner-Up:** Italy finished second (5 Gold), followed by Norway (4 Gold).
+- **Key Performers:** Indian junior shooters dominated the 10m Air Rifle, 25m Rapid Fire Pistol, and 50m Rifle 3 Positions events.
+
+---
+
+### Dr. Sampoornanand Sports Complex (Sigra, Varanasi) Inaugurated
+
+- Prime Minister Narendra Modi inaugurated **Phases 2 and 3** of the modernized **Sigra Sports Complex** in Varanasi on **20 October 2026** (cost: ₹210+ crore).
+- Accredited as a **National Centre of Excellence** under Khelo India and Smart City Mission with Olympic-grade aquatic facilities and sports science testing.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

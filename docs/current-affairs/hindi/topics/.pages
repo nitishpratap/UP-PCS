@@ -1,0 +1,21 @@
+title: मासिक विषय
+nav:
+  - अवलोकन: index.md
+  - "00 — मास्टर टेबल्स": 00_Master_Tables.md
+  - "01 — अंतर्राष्ट्रीय": 01_International.md
+  - "02 — योजनाएं एवं नीतियां": 02_Schemes_Policies.md
+  - "03 — विज्ञान / अंतरिक्ष / रक्षा": 03_Science_Space_Defence.md
+  - "04 — पुरस्कार": 04_Awards.md
+  - "05 — पर्यावरण एवं महत्वपूर्ण दिवस": 05_Environment_Days.md
+  - "06 — राष्ट्रीय घटनाक्रम एवं अवसंरचना": 06_National_Events_Infrastructure.md
+  - "07 — सूचकांक एवं रिपोर्ट": 07_Indices_Reports.md
+  - "08 — उत्तर प्रदेश विशेष": 08_UP_Special.md
+  - "09 — प्रथम एवं रिकॉर्ड": 09_Firsts_Records.md
+  - "10 — अर्थव्यवस्था / बजट / व्यापार": 10_Economy_Budget_Trade.md
+  - "11 — नियुक्तियां एवं व्यक्तित्व": 11_Personalities_Appointments.md
+  - "12 — पुस्तकें एवं संस्कृति": 12_Books_Culture_CA.md
+  - "13 — स्वास्थ्य एवं टीके": 13_Health_Vaccines.md
+  - "14 — खेल": 14_Sports.md
+  - "15 — अभ्यास केंद्र (Practice Zone)": 15_Practice_Zone.md
+  - "16 — उत्तराखण्ड विशेष": 16_UK_Special.md
+  - "मासिक सार-संग्रह": months

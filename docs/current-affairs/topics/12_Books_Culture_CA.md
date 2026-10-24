@@ -156,6 +156,48 @@ Independence Day 2026 marked **150 years** of the national song **Vande Mataram*
 
 Miss Universe India 2026 winner card → [Awards](04_Awards.md).
 
+---
+
+## October 2026
+
+### 5 New Classical Languages (Total Reaches 11) | Cultural & Literary Architecture
+
+**What happened**
+On **3 October 2026**, the Union Cabinet approved the granting of **Classical Language (शास्त्रीय भाषा)** status to **Marathi, Pali, Prakrit, Assamese, and Bengali**.
+
+**India's 11 Classical Languages & Literary Lineage**
+
+| Classical Language | Year Conferred | Earliest Antiquity & Literary Monuments |
+| :--- | :--- | :--- |
+| **Tamil** | **2004** | Sangam literature (*Tolkappiyam*, *Silappadikaram*). First language granted status. |
+| **Sanskrit** | **2005** | Vedic Samhitas, Upanishads, Valmiki Ramayana, and classical epics. |
+| **Telugu** | **2008** | Inscriptions dating from 1st century CE; *Andhra Mahabharatam* by Nannaya (11th c.). |
+| **Kannada** | **2008** | Halmidi inscription (c. 450 CE); *Kavirajamarga* by Amoghavarsha I (9th c.). |
+| **Malayalam** | **2013** | Vazhappally copper plate (c. 830 CE); *Ramacharitam* (12th c.). |
+| **Odia** | **2014** | Udayagiri-Khandagiri inscriptions (Hathigumpha inscription of Kharavela, 2nd c. BCE). |
+| **Marathi** | **2026** | Inscriptions dating to 3rd century BCE (Naneghat); *Dnyaneshwari* (1290 CE) by Sant Dnyaneshwar. |
+| **Pali** | **2026** | Canonical language of Theravada Buddhism; *Tipitaka* (Vinaya, Sutta, Abhidhamma Pitakas). |
+| **Prakrit** | **2026** | Ancient vernacular of Ashokan rock edicts; sacred canon of Jainism (*Agamas*), *Gaha Sattasai*. |
+| **Assamese** | **2026** | *Charyapada* mystic poetry (8th–12th c.); Buranjis (Ahom court chronicles) and Borgeets. |
+| **Bengali** | **2026** | *Charyapada* (earliest Bengali literature); medieval Vaishnava Padavali and Mangalkavyas. |
+
+**Constitutional & Language Traps for UPPCS**
+1. **Classical Languages vs Eighth Schedule:**
+   - **Eighth Schedule:** Lists **22 languages** recognized under Articles 344(1) and 351 of the Constitution.
+   - **Classical Languages:** Administrative and cultural designation granted by the Central Government via the Ministry of Culture (**11 languages**).
+   - **Key Distinction:** **Pali and Prakrit are Classical Languages, but neither is listed in the 22 Eighth Schedule languages!**
+2. **Hindi:** Hindi is the official language of the Union under **Article 343(1)** and is in the Eighth Schedule, but **NOT** a Classical Language.
+
+---
+
+### Cultural Festivals & Heritage Milestones | October 2026
+
+- **Ayodhya Deepotsav 2026:** Dual Guinness World Records: **26,17,215 earthen diyas** lit across **56 ghats** of the Saryu River, and **2,128 priests** in a synchronized Maha Aarti (first Deepotsav after the consecration of Shri Ram Janmabhoomi Temple).
+- **Bathukamma Floral Festival (Telangana):** Celebrated across Telangana for 9 days, climaxing on *Saddula Bathukamma* (honouring Mother Goddess Gauri with intricate floral conical stacks of seasonal wild flowers).
+- **Kati Bihu / Kongali Bihu (Assam):** Observed in mid-October with the lighting of earthen lamps (*saki*) at the foot of household sacred Tulsi plants, granaries (*bharal ghar*), and lush paddy fields to protect crops from pestilence.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

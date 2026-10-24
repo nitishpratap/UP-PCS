@@ -663,6 +663,96 @@ The Union Cabinet approved the continuation and funding extension of the **Atal 
 
 ---
 
+## October 2026
+
+### 5 New Classical Languages Approved by Union Cabinet | October 2026
+
+**What happened**
+The Union Cabinet chaired by Prime Minister **Narendra Modi** approved the conferment of **Classical Language (शास्त्रीय भाषा)** status to **five more languages**: **Marathi, Pali, Prakrit, Assamese, and Bengali**. With this decision, the total number of recognized Classical Languages in India expanded from 6 to **11**.
+
+**Complete Chronology & Roster of India's 11 Classical Languages**
+
+| # | Language | Year Conferred | Geographic / Historical Anchor |
+|---|----------|----------------|--------------------------------|
+| 1 | **Tamil** | **2004** | 1st language in India granted Classical status |
+| 2 | **Sanskrit** | **2005** | Ancient Indo-Aryan canonical literature |
+| 3 | **Telugu** | **2008** | Classical Dravidian literary heritage |
+| 4 | **Kannada** | **2008** | Classical Dravidian literary heritage |
+| 5 | **Malayalam** | **2013** | Classical Dravidian literary heritage |
+| 6 | **Odia** | **2014** | First Indo-Aryan language after Sanskrit |
+| 7 | **Marathi** | **2026** | Rich heritage dating to Prakrit / Maharashtri roots |
+| 8 | **Pali** | **2026** | Language of the Buddhist Tipitaka canon |
+| 9 | **Prakrit** | **2026** | Ancient spoken idiom of Jain agamas and rock edicts |
+| 10 | **Assamese** | **2026** | Charyapada and early eastern Indo-Aryan literature |
+| 11 | **Bengali** | **2026** | Charyapada and centuries of distinctive Eastern literature |
+
+**Statutory Criteria for Classical Language Status**
+To qualify as a Classical Language, a language must meet four stringent criteria laid down by the Ministry of Culture and the Linguistic Experts Committee under the Sahitya Akademi:
+1. **High Antiquity:** Early texts or recorded history spanning a period of **1,500 to 2,000 years**.
+2. **Ancient Literature:** A body of ancient literature/texts considered a valuable heritage by generations of speakers.
+3. **Original Tradition:** The literary tradition must be **original and not borrowed** from another speech community.
+4. **Distinctiveness:** The classical language and literature being distinct from modern forms; there may also be a discontinuity between the classical language and its later forms or offshoots.
+
+**Key Benefits of Classical Language Status**
+- Two major annual international awards for scholars of eminence.
+- Establishment of a **Centre of Excellence for Studies in Classical Languages**.
+- Creation of dedicated **Professional Chairs** in Central Universities for academic research and pedagogy.
+
+!!! trap "UPPCS Prelims Traps"
+1. **Hindi is NOT a Classical Language:** Hindi is the official language of the Union (Article 343) and an Eighth Schedule language, but it has **never** been granted Classical Language status.
+2. **Pali and Prakrit are NOT in the Eighth Schedule:** While both are now notified **Classical Languages**, neither Pali nor Prakrit is listed in the **22 languages of the Eighth Schedule** of the Constitution!
+
+---
+
+### CCEA Approves Minimum Support Prices (MSP) for Rabi Crops | October 2026
+
+**What happened**
+The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister **Narendra Modi**, approved the **Minimum Support Prices (MSP)** for all mandated **Rabi crops** for the upcoming marketing season to ensure remunerative prices to growers.
+
+**Mandated Rabi Crops MSP & Absolute Increase Board**
+
+| Rabi Crop | Revised MSP (₹/quintal) | Absolute Increase (₹/quintal) | Cost of Production (₹/q) | Margin / Return over Cost (%) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Wheat (गेहूँ)** | **₹2,425** | **₹150** | ₹1,128 | **115%** |
+| **Rapeseed & Mustard (सरसों)** | **₹5,950** | **₹300** *(Highest hike)* | ₹3,005 | **98%** |
+| **Barley (जौ)** | **₹1,980** | **₹130** | ₹1,238 | **60%** |
+| **Gram / Chana (चना)** | **₹5,650** | **₹210** | ₹3,531 | **60%** |
+| **Lentil / Masur (मसूर)** | **₹6,700** | **₹275** | ₹3,545 | **89%** |
+| **Safflower (कुसुम)** | **₹5,940** | **₹140** | ₹3,960 | **50%** |
+
+**Core Policy Architecture**
+- In line with the **Union Budget 2018–19** commitment, all MSPs are fixed at a level of **at least 1.5 times (minimum 50% margin)** over the all-India weighted average cost of production.
+- The highest return over cost is for **Wheat (115%)**, followed by **Rapeseed & Mustard (98%)** and **Lentil (89%)**.
+- The highest absolute increase in price was approved for **Rapeseed & Mustard (₹300 per quintal)**.
+
+---
+
+### PM Vidyalaxmi Scheme | Cabinet Approval October 2026
+
+**What happened**
+The Union Cabinet approved **PM Vidyalaxmi**, a new Central Sector scheme to provide collateral-free, guarantor-free education loans to meritorious students admitted to India's top higher educational institutions.
+
+**Core facts**
+- **Institutions Covered:** Top **860 quality higher educational institutions (QHEIs)** as per the latest NIRF rankings (all top 100 institutes overall, category-specific top ranks, and state/central government colleges).
+- **Loan Features:** **Collateral-free and guarantor-free** education loans covering full tuition fees and course-related expenses.
+- **Interest Subvention:** **3% interest subvention** on education loan amounts up to **₹10 lakh** during the moratorium period for students with annual family income up to **₹8 lakh**.
+- **Credit Guarantee:** 75% credit guarantee support provided by the Government of India through NCGTC for loans up to ₹7.5 lakh.
+- **Application Portal:** Fully digital, simplified application process integrated through the unified portal **PM-USP / Vidyalaxmi**.
+
+---
+
+### National Maritime Heritage Complex (NMHC) Lothal (Phase 1B Clearance)
+
+**What happened**
+The Union Cabinet accorded approval for the development of Phase 1B of the **National Maritime Heritage Complex (NMHC)** at **Lothal, Gujarat**.
+
+**Core facts**
+- **Location:** **Lothal** (historic Harappan port town in Ahmedabad district, Gujarat).
+- **Ministry:** Ministry of Ports, Shipping and Waterways (MoPSW).
+- **Scope:** Billed as the **world's largest maritime museum complex**, featuring an ancient dockyard reconstruction, 14 maritime galleries, coastal states pavilions, a light-house museum, and an underwater viewing gallery showcasing India's 5,000-year seafaring heritage.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

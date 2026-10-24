@@ -28,6 +28,164 @@ hide:
 | Ashiqa | Rag Vibodh | Amir Khusrau's romantic historical poem (Deval Rani) vs Somnath's Sanskrit music treatise (1609) | आशिक़ा (खुसरो) / राग विबोध (सोमनाथ) |
 | Persian | Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
 
+---
+
+### Sultanate chronicles
+
+| Book | Author |
+|------|--------|
+| Tabaqat-i-Nasiri | **Minhaj-us-Siraj** |
+| Tarikh-i-Firoz Shahi | **Barani** (also **Afif** for later Firuz) |
+| Tughlaqnama | **Barani** (this chapter’s lock; do not pair with Ibn Battuta) |
+| Fatawa-i-Jahandari | **Barani** (political theory) |
+| Taj-ul-Maasir | **Hasan Nizami** |
+| Kitab-ul-Hind | **Alberuni** |
+| Rihla | **Ibn Battuta** |
+| Khazain-ul-Futuh | **Amir Khusrau** (Alauddin) |
+| Miftah-ul-Futuh | **Amir Khusrau** (Jalaluddin Khalji) |
+| Rag Vibodh | **Somnath** (सोमनाथ) (1609 music treatise) |
+| Futuh-us-Salatin | **Isami** |
+| Tutinama | **Nakhshabi** (not Khusrau) |
+
+---
+
+### Mughal texts
+
+| Book | Author |
+|------|--------|
+| Baburnama | **Babur** (बाबर) (**Chagatai Turki**) |
+| Humayunnama | **Gulbadan Begum** |
+| Akbarnama | **Abul Fazl** (narrative) |
+| Ain-i-Akbari | **Abul Fazl** (gazetteer) |
+| Tuzuk-i-Jahangiri | **Jahangir** (जहाँगीर) (own memoir) |
+| Padshahnama | **Abdul Hamid Lahori** (Shah Jahan) |
+| Muntakhab-ut-Tawarikh | **Badauni** |
+| Alamgirnama | **Mirza Muhammad Kazim** |
+
+---
+
+### Vernacular / regional
+
+| Book | Author / region |
+|------|-----------------|
+| Padmavat | **Malik Muhammad Jaisi** (Awadhi) |
+| Chandayan | **Mulla Daud** |
+| Padmavati Katha | **Damodar Kavi** (not Jaisi) |
+| Mirat-e-Sikandari | Gujarat |
+| Burhan-e-Masir | Ahmadnagar |
+| Riyaz-us-Salatin | Bengal |
+| Riyaz-ul-Insha | **Gawan** letters |
+
+---
+
+## 5.2 Medieval Books and Their Authors — Master Table
+
+| Book | Author | Period | Language | Type |
+|------|--------|--------|----------|------|
+| **Tabaqat-i-Nasiri** | Minhaj-us-Siraj Juzjani | Sultanate | Persian | Tabaqat chronicle |
+| **Tarikh-i-Firoz Shahi** | Ziauddin Barani | Sultanate | Persian | Tarikh (Balban (बलबन)→Firuz) |
+| **Tughlaqnama** | Ziauddin Barani | Sultanate | Persian | Tughlaq history |
+| **Fatawa-i-Jahandari** | Ziauddin Barani | Sultanate | Persian | Political theory of kingship |
+| **Tarikh-i-Firoz Shahi** (later) | Shams-i-Siraj **Afif** | Sultanate | Persian | Firuz Shah → end of Sultanate |
+| **Taj-ul-Maasir** | Hasan Nizami | Sultanate | Persian | Early Delhi conquests |
+| **Khazain-ul-Futuh** | Amir Khusrau | Sultanate | Persian | Alauddin Khalji (अलाउद्दीन खिलजी) conquests |
+| **Miftah-ul-Futuh** | Amir Khusrau | Sultanate | Persian | Jalaluddin Khalji victories |
+| **Rag Vibodh** | Somnath | Sultanate–early Mughal | Sanskrit | Music treatise (1609) |
+| **Khamsa** | Amir Khusrau | Sultanate | Persian | Five masnavis |
+| **Kitab-ul-Hind** | **Alberuni** | Ghaznavid (गज़नवी) | Arabic | India under Mahmud/Ghazni |
+| **Rihla** | Ibn Battuta | Sultanate | Arabic | Travelogue |
+| **Baburnama (Tuzk-e-Babri)** | Babur | Mughal | **Chagatai Turki** | Memoir |
+| **Humayunnama** | Gulbadan Begum | Mughal | Persian | Biography |
+| **Akbarnama** | Abul Fazl | Mughal | Persian | Official narrative history |
+| **Ain-i-Akbari** | Abul Fazl | Mughal | Persian | Admin gazetteer |
+| **Tuzuk-i-Jahangiri** | Jahangir | Mughal | Persian | Emperor's memoir |
+| **Padshahnama** | Abdul Hamid Lahori | Mughal | Persian | Shah Jahan chronicle |
+| **Muntakhab-ut-Tawarikh** | Abdul Qadir Badauni | Mughal | Persian | Critical history |
+| **Alamgirnama** | Mirza Muhammad Kazim | Mughal | Persian | Aurangzeb reign chronicle |
+
+---
+
+
+### Comparative Matrix: Work ↔ Author ↔ Language
+
+| Work | Author | Language |
+|------|--------|----------|
+| **Chandayan** | Mulla Daud | Awadhi/Hindavi |
+| **Padmavati Katha** | Damodar Kavi | — |
+| **Ashiqa** | Amir Khusrau | — |
+| **Padmavat** | **Malik Muhammad Jaisi** | Awadhi/Hindavi |
+| **Rag Vibodh** | Somnath | Sanskrit |
+
+---
+
+
+### Comparative Matrix: Book ↔ Author ↔ Region / Subject
+
+| Book | Author (fact) | Region / subject |
+|------|---------------|------------------|
+| **Mirat-e-Sikandari** | Sikandar ibn Muhammad (**Manjhu**) | **Gujarat** Sultanate history |
+| **Burhan-e-Masir** | Sayyid (सैयद) Ali **Tabatabai** | **Bahmani** and **Ahmadnagar** (Nizam (निजाम) Shahi) |
+| **Riyaz-us-Salatin** | Ghulam Husain **Salim** | **Bengal** Muslim rule |
+| **Riyaz-ul-Insha** | Letters of **Mahmud Gawan** | Bahmani wazir (वज़ीर)'s state correspondence |
+
+---
+
+
+### Comparative Matrix: Work ↔ Translator/Author ↔ Notes
+
+| Work | Translator/Author | Notes |
+|------|-------------------|-------|
+| **Tutinama** | Khwaja Ziya-ud-din **Nakhshabi** | Persian translation of *Suka Saptati* — **not** Amir Khusrau |
+| **Razmnama** | Faizi/Naqib Khan team | Persian Mahabharata under Akbar |
+| **Ramayana (Persian)** | Abdul Qadir Badauni team | Akbar's kitabkhana (किताबखाना) translation |
+| **Atharva Veda (Persian)** | Akbar's translators | Part of imperial translation project |
+| **Baburnama (Persian)** | Abdur Rahim (रहीम) Khan-i-Khanan | Translated Babur's Turki memoir |
+| **Rajatarangini (राजतरंगिणी) (Persian)** | Ziauddin **Nakhshabi** | Early Sultanate Sanskrit→Persian translation |
+
+---
+
+## 5.7 Tarikh-i-Firoz Shahi & Tabaqat-i-Nasiri
+
+| Feature | Tabaqat-i-Nasiri | Tarikh-i-Firoz Shahi |
+|---------|------------------|---------------------|
+| **Author** | Minhaj-us-Siraj Juzjani | Ziauddin Barani |
+| **Period** | Ghurid (गौर) → ~1260 | Balban → Firuz Shah |
+| **Format** | Tabaqat (generational classes) | Tarikh (annals) |
+| **Patron** | Nasiruddin Mahmud | Firuz Shah Tughlaq |
+
+---
+
+### Barani vs Afif — two Tarikh-i-Firoz Shahi
+
+| Author | Work | Coverage |
+|--------|------|----------|
+| **Ziauddin Barani** | **Tarikh-i-Firoz Shahi** | **Balban** (बलबन) → early **Firuz Shah Tughlaq** |
+| **Shams-i-Siraj Afif** | **Tarikh-i-Firoz Shahi** | **Firuz Shah** → **end of Delhi Sultanate** |
+
+---
+
+
+### Comparative Matrix: Akbarnama ↔ Ain-I-Akbari
+
+| | Akbarnama | Ain-i-Akbari |
+|---|-----------|--------------|
+| **Type** | Narrative history (3 volumes) | Administrative gazetteer |
+| **Focus** | Akbar's life, campaigns, policies | Revenue, army (सेना), provinces, society data |
+| **Trap** | Called "gazetteer" = wrong | Called "biography" = wrong |
+
+---
+
+
+### Match Matrix: Book ↔ Context
+
+| List-I (Book) | List-II (Context) | Author cue |
+|---------------|-------------------|-------------|
+| **Mirat-e-Sikandari** | **Gujarat** Sultanate / Muzaffar Shah victory (4) | Sikandar ibn Muhammad (**Manjhu**) |
+| **Burhan-e-Masir** | **Bahmani** and **Ahmadnagar** (Nizam Shahi) history (2) | Sayyid Ali **Tabatabai** |
+| **Riyaz-us-Salatin** | **Bengal** Muslim rule (1) | Ghulam Husain **Salim** |
+| **Riyaz-ul-Insha** | **Mahmud Gawan's** official letters (3) | Compiled from Bahmani wazir's correspondence |
+
+---
 
 ### Quick learn table (read this first)
 

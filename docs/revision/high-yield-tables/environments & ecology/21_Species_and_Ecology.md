@@ -53,7 +53,7 @@ hide:
 ---
 
 
-### IUCN Red List Conservation Categories (EX to LC)
+### Comparative Matrix: Code ↔ Category
 
 | Code | Category |
 |------|----------|

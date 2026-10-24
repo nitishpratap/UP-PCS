@@ -576,7 +576,7 @@ hide:
 ---
 
 
-### Köppen Climate Classification for India
+### Comparative Matrix: Code ↔ Type ↔ India
 
 | Code | Type | India |
 |------|------|-------|

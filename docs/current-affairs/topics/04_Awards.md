@@ -440,6 +440,54 @@ Professor **Deepak Dhar** shared the **Dirac Medal 2026** of the Abdus Salam Int
 
 ---
 
+## October 2026
+
+### Nobel Prizes 2026 (Complete Comprehensive Board)
+
+> **UPPCS Direct Question Alert:** Nobel Prizes announced in October are tested nearly every year in Prelims. Memorise the winner names, country affiliations, exact discovery keywords, and historical trivia.
+
+| Category | Winner(s) | Country / Institution | Field / Official Citation | Key Exam Hook |
+| :--- | :--- | :--- | :--- | :--- |
+| **Physiology or Medicine** | **Victor Ambros** & **Gary Ruvkun** | USA (Univ of Massachusetts & Harvard Medical School) | *"For the discovery of microRNA and its role in post-transcriptional gene regulation"* | Discovered in the roundworm *C. elegans*; microRNAs are tiny non-coding RNA molecules vital for gene expression and multicellular development. |
+| **Physics** | **John J. Hopfield** & **Geoffrey E. Hinton** | USA (Princeton) / UK-Canada (Univ of Toronto) | *"For foundational discoveries and inventions that enable machine learning with artificial neural networks"* | Hopfield created an associative neural network (Hopfield network) that can save and reconstruct patterns; Hinton developed the Boltzmann machine using statistical physics tools, laying the foundation for modern AI and deep learning. |
+| **Chemistry** | **David Baker** (1/2) <br><br> **Demis Hassabis** & **John M. Jumper** (1/2) | USA (Univ of Washington) <br><br> UK (Google DeepMind) | **David Baker:** *"For computational protein design"* <br>**Hassabis & Jumper:** *"For protein structure prediction"* | Baker succeeded in creating entirely new kinds of proteins using Rosetta; Hassabis and Jumper developed the revolutionary AI model **AlphaFold2**, predicting the 3D structure of virtually all 200 million known proteins. |
+| **Literature** | **Han Kang** | South Korea | *"For her intense poetic prose that confronts historical traumas and exposes the fragility of human life"* | **First South Korean writer** and first Asian female author to win the Nobel Prize in Literature. Acclaimed works: *The Vegetarian* (International Booker Prize 2016), *Human Acts*, *We Do Not Part*. |
+| **Peace** | **Nihon Hidankyo** | Japan | *"For its efforts to achieve a world free of nuclear weapons and for demonstrating through witness testimony that nuclear weapons must never be used again"* | Grassroots movement of atomic bomb survivors (Hibakusha) from **Hiroshima and Nagasaki** founded in 1956; recognized for maintaining the nuclear taboo through powerful survivor testimonies. |
+| **Economic Sciences** *(Sveriges Riksbank)* | **Daron Acemoglu**, **Simon Johnson**, **James A. Robinson** | USA (MIT & University of Chicago) | *"For studies of how institutions are formed and affect prosperity"* | Demonstrated that societies with poor rule of law and extractive institutions fail to generate sustainable growth; popularized the concept of **inclusive vs. extractive institutions** (authors of *Why Nations Fail*). |
+
+!!! trap "UPPCS Nobel Traps"
+1. **Nobel Physics is NOT quantum computing:** The prize was awarded for **artificial neural networks / machine learning**, not quantum mechanics or cosmology.
+2. **Han Kang is from South Korea, not Japan or China:** She is the first South Korean writer to win the Literature prize.
+3. **Demis Hassabis and John Jumper shared Chemistry:** Demis Hassabis is CEO of Google DeepMind. Their achievement is **AlphaFold2 protein structure prediction**.
+
+---
+
+### 54th Dadasaheb Phalke Award & 70th National Film Awards | October 2026
+
+**What happened**
+President **Droupadi Murmu** conferred the **54th Dadasaheb Phalke Award** and presented honours at the **70th National Film Awards** ceremony at Vigyan Bhawan, New Delhi.
+
+**Core awards & winners**
+- **54th Dadasaheb Phalke Award:** Veteran superstar and actor **Mithun Chakraborty** was conferred India's highest accolade in cinema for his iconic contribution to Indian cinema.
+- **Best Feature Film:** ***Aattam*** (The Play) — Malayalam psychological thriller directed by **Anand Ekarshi**.
+- **Best Actor in a Leading Role:** **Rishab Shetty** for his performance in the Kannada mythological hit ***Kantara***.
+- **Best Actress in a Leading Role (Jointly awarded):**
+  1. **Nithya Menen** for the Tamil film ***Thiruchitrambalam***.
+  2. **Manasi Parekh** for the Gujarati film ***Kutch Express***.
+- **Best Director:** **Sooraj R. Barjatya** for the Hindi film ***Uunchai***.
+- **Best Feature Film in Hindi:** ***Gulmohar*** (directed by Rahul V. Chittella, starring Manoj Bajpayee & Sharmila Tagore).
+- **Best Popular Film Providing Wholesome Entertainment:** ***Kantara*** (directed by Rishab Shetty).
+- **Best Film on Social Issues / National Integration:** ***Samman / Aygiri***.
+
+---
+
+### 2026 SASTRA Ramanujan Prize (Mathematics)
+
+- Awarded annually to mathematicians under the age of **32** (Ramanujan's age at death) who have done outstanding work influenced by Srinivasa Ramanujan.
+- Presented at SASTRA University, Kumbakonam (Tamil Nadu).
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

@@ -27,6 +27,195 @@ hide:
 | Rock shelter | Cave | Bhimbetka overhang vs hollow | शैल आश्रय / गुफा |
 | ASI HQ | Lucknow | **New Delhi** vs UP state archaeology | दिल्ली / लखनऊ |
 
+---
+
+### ASI / method tags
+
+| Item | Lock |
+|------|------|
+| ASI founded | **1861**; first DG **Alexander Cunningham** |
+| HQ | **24 Tilak Marg, New Delhi** (not Lucknow) |
+| John Marshall | Announced IVC **1924** |
+| Mortimer Wheeler | Balk-and-grid; re-dug Harappa **1946** (≠ discoverer) |
+| Stratigraphy | Deeper = older (undisturbed) |
+| Carbon-14 | Libby; ~**5730** yr half-life; **organic** only |
+| TL | Fired pottery clock |
+
+---
+
+### Excavator ↔ site
+
+| Excavator | Site |
+|-----------|------|
+| Daya Ram Sahni | Harappa **1921** |
+| R.D. Banerjee | Mohenjo-daro **1922** |
+| S.R. Rao | **Lothal** |
+| B.B. Lal | **Kalibangan** |
+| R.S. Bisht | **Dholavira** |
+| V.S. Wakankar | **Bhimbetka** (MP) **1957–58** |
+| Robert Bruce Foote | Pallavaram Paleolithic **1863** |
+
+---
+
+### Site ↔ state (high-yield)
+
+| Site | State / UT |
+|------|------------|
+| Nevasa | Maharashtra |
+| Isampur | Karnataka |
+| Didwana | Rajasthan |
+| Gudiyam | Tamil Nadu |
+| Balu | Haryana |
+| Manda | J&K |
+| Padri | Gujarat |
+| Hulas | **Uttar Pradesh** |
+| Alamgirpur | **UP** (easternmost Harappan) |
+| Mandi | **UP** (≠ Manda J&K) |
+| Rakhigarhi | Haryana (largest; not UP) |
+| Sanauli | Baghpat, UP (chariots **2018**) |
+
+---
+
+
+### Comparative Matrix: Site ↔ State
+
+| Site | State |
+|------|--------|
+| **Nevasa** | **Maharashtra** (Pravara) |
+| **Isampur** | **Karnataka** (Acheulian) |
+| **Didwana** | **Rajasthan** (थार) (Thar fringe) |
+| **Gudiyam Cave** | **Tamil Nadu** |
+
+---
+
+
+### Comparative Matrix: Site ↔ State / Ut
+
+| Site | State / UT |
+|------|------------|
+| **Balu** | **Haryana** |
+| **Manda** (मांडा) | **Jammu & Kashmir** |
+| **Padri** | **Gujarat** |
+| **Hulas** | **Uttar Pradesh** |
+
+---
+
+
+### Comparative Matrix: Site ↔ District / River ↔ Fact
+
+| Site | District / river | Fact |
+|------|------------------|------|
+| **Alamgirpur** | Meerut, **Hindon** | **Easternmost** IVC site in India |
+| **Hulas** | Baghpat | UP Harappan; PYQs **2018, 2020, 2025** |
+| **Mandi** | Bijnor, **Ramganga** (रामगंगा) | UP Harappan (2021, 2025) |
+
+### Comparative Matrix: Often Used As Bait ↔ Actual Location
+
+| Often used as bait | Actual location |
+|--------------------|-----------------|
+| **Manda** | Jammu and Kashmir |
+| **Rakhigarhi** | Haryana (largest IVC mound in India) |
+| **Kalibangan** | Rajasthan |
+| **Lothal** | Gujarat |
+| **Balu** | Haryana |
+
+---
+
+
+### Comparative Matrix: Culture ↔ Marker ↔ Usual Date / Link
+
+| Culture | Marker | Usual date / link |
+|---------|--------|-------------------|
+| **OCP** (Ochre Coloured Pottery) | eastern doab pottery | Chalcolithic overlap; pairs with **copper hoards** |
+| **PGW** (Painted Grey Ware) | grey painted bowls | **Later Vedic** north; Hastinapur, Atranjikhera |
+| **NBPW** (Northern Black Polished Ware) | lustrous northern fine ware | ~6th c. BCE rise; **Mauryan** cities |
+| **Megalithic** | burials with big stones | Iron-age **south**; not Harappan |
+
+---
+
+
+### Comparative Matrix: Site ↔ State ↔ Excavator / Fact
+
+| Site | State | Excavator / fact | Signature find |
+|------|-------|------------------|----------------|
+| **Rakhigarhi** | Haryana | recent ASI digs | largest IVC mound in India; **not UP** |
+| **Dholavira** | Gujarat | R.S. Bisht | reservoirs, **signboard**, stone architecture |
+| **Kalibangan** | Rajasthan | B.B. Lal | ploughed field, fire altars |
+| **Banawali** | Haryana | — | fortified Harappan town |
+| **Surkotada** | Gujarat | — | Harappan fort; horse-bone debate |
+
+---
+
+
+### Comparative Matrix: Method ↔ Samples ↔ Fact
+
+| Method | Samples | Fact |
+|--------|---------|------|
+| **Stratigraphy** | soil layers | relative order only |
+| **Typology** | pottery shape | relative, cross-site |
+| **Radiocarbon (C-14)** | charcoal, bone, seed | organic only; ~5730 yr half-life |
+| **Thermoluminescence (TL)** | fired pottery, bricks | when object was last heated |
+
+---
+
+
+### Comparative Matrix: Trap ↔ Fact
+
+| Trap | Fact |
+|------|------|
+| Bhimbetka in UP | **MP** |
+| ASI HQ Lucknow | **New Delhi** |
+| Sanauli = Mature Harappan dock | Late Harappan / OCP **chariots**, Baghpat |
+
+---
+
+
+### Match Matrix: Archaeologist ↔ Fact
+
+| List-I (Archaeologist) | List-II (Fact) |
+|---|---|
+| 1. John Marshall | A. Balk-and-grid; re-dug Harappa 1946 |
+| 2. Mortimer Wheeler | B. Announced IVC 1924 |
+| 3. Daya Ram Sahni | C. Harappa 1921 |
+| 4. R.D. Banerjee | D. Mohenjo-daro 1922 |
+
+---
+
+
+### Match Matrix: Site ↔ State / Ut
+
+| List-I (Site) | List-II (State / UT) |
+|---|---|
+| 1. Nevasa | A. Rajasthan |
+| 2. Isampur | B. Maharashtra |
+| 3. Didwana | C. Karnataka |
+| 4. Gudiyam | D. Tamil Nadu |
+
+---
+
+
+### Match Matrix: Concept ↔ Fact
+
+| List-I (Concept) | List-II (Fact) |
+|---|---|
+| 1. Relative dating | A. Calendar years |
+| 2. Absolute dating | B. Older/younger |
+| 3. Balk | C. Uncut wall left so layers can still be read |
+| 4. Rock shelter | D. Bhimbetka overhang complex (not hollow cave wording) |
+
+---
+
+
+### Match Matrix: Harappan Site ↔ State
+
+| List-I (Harappan site) | List-II (State) |
+|---|---|
+| 1. Alamgirpur | A. Gujarat |
+| 2. Hulas | B. Uttar Pradesh |
+| 3. Padri | C. Uttar Pradesh |
+| 4. Balu | D. Haryana |
+
+---
 
 ## 🔍 Key Table Observations & Memory Anchors
 

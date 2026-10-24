@@ -22,6 +22,118 @@ hide:
 | **Mission LiFE (2022)** | **Agenda 21 (1992)** | Mass global citizen movement conceptualized by India to replace mindless consumption with mindful individual sustainable lifestyle actions vs Rio 1992 comprehensive non-binding intergovernmental action plan for sustainable governance | मिशन लाइफ (LiFE, व्यक्तिगत जीवनशैली) / एजेंडा 21 (सरकारी कार्ययोजना) |
 | **Natural Capital** | **Manufactured Capital** | World's natural ecological assets including geology, soil, air, water, biodiversity, and ecosystem services vs human-created physical infrastructure, machinery, factories, and financial assets | प्राकृतिक पूंजी (पारिस्थितिक संपदा) / निर्मित पूंजी (मानव-निर्मित संपत्ति) |
 
+---
+
+### Spine
+
+| Item | Lock |
+|------|------|
+| Brundtland | **1987** *Our Common Future* (≠ Limits to Growth 1972) |
+| Three pillars | Economic · social · environmental |
+| SDGs | **Sep 2015** → **2030**; **17** goals / **169** targets |
+| MDGs → SDGs | 8 goals 2000–15 / universal to all countries |
+| Key goals | 6 water · 7 energy · 13 climate · 14 ocean · 15 land |
+| Conference chain | Stockholm 72 → Brundtland 87 → Rio 92 → SDGs 15 |
+| Agenda 21 | Rio **1992** (≠ 1995) |
+| NITI SDG Index top | Kerala repeatedly first; HP/TN near top |
+
+---
+
+
+### Comparative Matrix: Pillar ↔ Focus
+
+| Pillar | Focus |
+|--------|-------|
+| Economic | Employment, innovation, infrastructure |
+| Social | Poverty, health, education, equity |
+| Environmental | Pollution, biodiversity, climate |
+| Institutional | Governance, rule of law, participation |
+
+---
+
+
+### Comparative Matrix: Goal ↔ Official Name
+
+| Goal | Official name |
+|------|---------------|
+| 1 | No Poverty |
+| 2 | Zero Hunger |
+| 3 | Good Health and Well-being |
+| 4 | Quality Education |
+| 5 | Gender Equality |
+| 6 | Clean Water and Sanitation |
+| 7 | Affordable and Clean Energy |
+| 8 | Decent Work and Economic Growth |
+| 9 | Industry, Innovation and Infrastructure |
+| 10 | Reduced Inequalities |
+| 11 | Sustainable Cities and Communities |
+| 12 | Responsible Consumption and Production |
+| 13 | Climate Action |
+| 14 | Life Below Water |
+| 15 | Life on Land |
+| 16 | Peace, Justice and Strong Institutions |
+| 17 | Partnerships for the Goals |
+
+### Comparative Matrix: Feature ↔ Mdgs ↔ Sdgs
+
+| Feature | MDGs | SDGs |
+|---------|------|------|
+| Goals | 8 | 17 |
+| Period | 2000–2015 | 2015–2030 |
+| Scope | Mainly developing countries | Universal |
+
+---
+
+
+### Comparative Matrix: Concept ↔ Fact
+
+| Concept | Fact |
+|---------|------|
+| Environmental justice | Fair distribution + participation |
+| Anthropocentrism | Human-centred value |
+| Biocentrism | All life has worth |
+| Ecocentrism | Ecosystem (पारिस्थितिकी तंत्र) wholes have worth |
+| Leopold | Land Ethic, 1949 |
+| Gandhi | Trusteeship, limit wants |
+
+---
+
+
+### Comparative Matrix: Feature ↔ Green Economy ↔ Circular Economy
+
+| Feature | Green economy | Circular economy |
+|---------|---------------|------------------|
+| Focus | Overall low-carbon inclusive growth | Material/waste loop design |
+| Scope | Broader | Narrower — subset of green |
+| Example | Solar parks, green hydrogen | EPR, plastic recycling |
+| SDG link | 7, 8, 13 and more | Mainly SDG 12 |
+
+---
+
+
+### Comparative Matrix: Idea ↔ Correct Fact
+
+| Idea | Correct fact |
+|------|------|
+| Sustainable agriculture | Land quality remains intact |
+| Best strategy set | Mixed cropping + organic + N-fixing + pest-resistant varieties |
+| NMSA | NAPCC mission |
+| Conservation Agriculture | Min tillage + residue cover + rotation |
+
+---
+
+
+### Comparative Matrix: List I ↔ List Ii
+
+| List I (Goal) | List II (Name) |
+|---------------|----------------|
+| 1. Goal 1 | A. Clean Water and Sanitation |
+| 2. Goal 3 | B. Quality Education |
+| 3. Goal 4 | C. No Poverty |
+| 4. Goal 6 | D. Good Health and Well-being |
+
+---
+
 
 ## Common Traps — Don't Fall For These
 

@@ -86,6 +86,92 @@ hide:
 | 3 | Congress for Democracy | Jagjivan Ram |
 | 4 | Swatantra Party | Acharya Narendra Dev |
 
+---
+
+
+### Comparative Matrix: Code ↔ Political Party
+
+| Code | Political party |
+|------|-----------------|
+| A | CPI |
+| B | CPI(M) |
+| C | AIADMK |
+| D | Telugu Desam |
+
+### Comparative Matrix: Code ↔ Year Of Formation
+
+| Code | Year of formation |
+|------|-------------------|
+| 1 | 1972 |
+| 2 | 1920 |
+| 3 | 1964 |
+| 4 | 1982 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Political Party
+
+| Code | Political party |
+|------|-----------------|
+| A | Indian National Congress |
+| B | Bharatiya Jana Sangh |
+| C | Communist Party of India |
+| D | AIADMK |
+
+### Comparative Matrix: Code ↔ Year
+
+| Code | Year |
+|------|------|
+| 1 | 1951 |
+| 2 | 1972 |
+| 3 | 1885 |
+| 4 | 1925 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Political Party
+
+| Code | Political party |
+|------|-----------------|
+| A | Communist Party of India (Marxist) |
+| B | Communist Party of India |
+| C | Bahujan Samaj Party |
+| D | All India Trinamool Congress |
+
+### Comparative Matrix: Code ↔ Year Of Establishment
+
+| Code | Year of establishment |
+|------|-----------------------|
+| 1 | 1964 |
+| 2 | 1998 |
+| 3 | 1925 |
+| 4 | 1984 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Trade Union
+
+| Code | Trade union |
+|------|-------------|
+| A | Bharatiya Mazdoor Sangh |
+| B | Indian National Trade Union Congress |
+| C | United Trade Union Congress |
+| D | All India Trade Union Congress |
+
+### Comparative Matrix: Code ↔ Political Affiliation
+
+| Code | Political affiliation |
+|------|-----------------------|
+| 1 | Indian National Congress |
+| 2 | Communist Party of India |
+| 3 | Communist Party of India (Marxist) |
+| 4 | Bharatiya Janata Party |
+
+---
+
 
 ## 🔍 Key Table Observations & Memory Anchors
 

@@ -82,6 +82,55 @@ hide:
 | **Commercial** | **3** | Copra, Raw Cotton, Raw Jute | CCI (cotton); Jute Corporation (jute) |
 | **Special** | **1** | **Sugarcane** | **FRP** under Sugarcane (Control) Order, 1966 — not MSP |
 
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Pink Revolution |
+| B | Red Revolution |
+| C | Grey Revolution |
+| D | Sweet Revolution |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Fertilizers |
+| 2 | Beekeeping / Honey |
+| 3 | Onion, prawn, pharmaceuticals |
+| 4 | Meat and tomato |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | TPDS |
+| B | AAY |
+| C | NFSA |
+| D | e-NAM |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | December 2000 |
+| 2 | June 1997 |
+| 3 | 14 April 2016 |
+| 4 | 2013 |
+
+---
 
 ## Common Traps
 

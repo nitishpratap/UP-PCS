@@ -15,21 +15,21 @@ Living sheets — **update every month** under the same fact checklists. Coverag
 | Priority | File | Latest month status |
 |----------|------|---------------------|
 | — | [Master fact tables](00_Master_Tables.md) | Living quick boards |
-| **S** | [International](01_International.md) | Aug: Uzbekistan Dustlik award |
-| **S** | [Schemes & Policies](02_Schemes_Policies.md) | Aug: I-Day Shakti; Jul: Samudra + Surya Sarovar |
-| **S** | [Science / Space / Defence](03_Science_Space_Defence.md) | Aug: Space Day + Sher rifle |
-| **A** | [Awards](04_Awards.md) | Aug: Dustlik + Dirac + Miss Universe India |
-| **A** | [Environment & Days](05_Environment_Days.md) | Aug: Glaw Lake Ramsar 101 |
-| **A** | [National Events & Infra](06_National_Events_Infrastructure.md) | Aug: 80th I-Day + Ladakh HC Bench |
-| **A** | [Indices & Reports](07_Indices_Reports.md) | Jul–Aug: SOFI + soft ranks |
-| **S** | [Uttar Pradesh CA](08_UP_Special.md) | Aug: Sher + Ganga/Jhansi expressways |
-| **S** | [Uttarakhand CA](16_UK_Special.md) | Scaffold — paste UKPCS state CA |
-| **B** | [Firsts & Records](09_Firsts_Records.md) | Aug: Vande Mataram at Red Fort + Glaw |
-| **B** | [Economy / Budget / Trade](10_Economy_Budget_Trade.md) | Jul–Aug: energy Cabinet + nuclear 100 GW |
-| **B** | [Personalities & Appointments](11_Personalities_Appointments.md) | Aug: SAI DG + VCNS |
-| **B** | [Books & Culture CA](12_Books_Culture_CA.md) | Aug: Vande Mataram @ 150 |
-| **B** | [Health & Vaccines](13_Health_Vaccines.md) | Aug: Youth Day theme |
-| **B** | [Sports](14_Sports.md) | Aug: CWG Glasgow India 4th |
+| **S** | [International](01_International.md) | Oct: 16th BRICS Kazan + SCO Islamabad; Sep: 18th BRICS Delhi |
+| **S** | [Schemes & Policies](02_Schemes_Policies.md) | Oct: 5 Classical Languages; Aug: I-Day Shakti |
+| **S** | [Science / Space / Defence](03_Science_Space_Defence.md) | Oct: VLF Vikarabad + Starship catch; Aug: Sher rifle |
+| **A** | [Awards](04_Awards.md) | Oct: Nobel 2026 + 54th Dadasaheb Phalke Mithun |
+| **A** | [Environment & Days](05_Environment_Days.md) | Oct: Wildlife Week + Food Day; Sep: Ozone Day |
+| **A** | [National Events & Infra](06_National_Events_Infrastructure.md) | Oct: Classical Languages + Assembly polls; Aug: 80th I-Day |
+| **A** | [Indices & Reports](07_Indices_Reports.md) | Oct: GHI 105th + GII 39th; Jul–Aug: SOFI |
+| **S** | [Uttar Pradesh CA](08_UP_Special.md) | Oct: Varanasi ₹6.7k cr + Deepotsav 26L+; Aug: Expressways |
+| **S** | [Uttarakhand CA](16_UK_Special.md) | Oct: Char Dham winter seats; Scaffold |
+| **B** | [Firsts & Records](09_Firsts_Records.md) | Oct: Starship booster catch + Deepotsav record |
+| **B** | [Economy / Budget / Trade](10_Economy_Budget_Trade.md) | Oct: Rabi MSP (Wheat ₹2,425) + 57th GST Council |
+| **B** | [Personalities & Appointments](11_Personalities_Appointments.md) | Oct: 51st CJI Sanjiv Khanna + Haryana/J&K CMs |
+| **B** | [Books & Culture CA](12_Books_Culture_CA.md) | Oct: 5 Classical Languages (total 11) |
+| **B** | [Health & Vaccines](13_Health_Vaccines.md) | Oct: RJ Sankara Eye Hospital + Polio Day; Sep: NFI 2026 |
+| **B** | [Sports](14_Sports.md) | Oct: Women's T20 WC (NZ); Sep: Asian Games |
 | — | [Practice Zone hub](15_Practice_Zone.md) | ≥20 UPPCS-format Qs at the end of **each** topic sheet |
 
 [January 2026 digest](months/2026-01.md){ .md-button }
@@ -39,7 +39,9 @@ Living sheets — **update every month** under the same fact checklists. Coverag
 [May 2026 digest](months/2026-05.md){ .md-button }
 [June 2026 digest](months/2026-06.md){ .md-button }
 [July 2026 digest](months/2026-07.md){ .md-button }
-[August 2026 digest](months/2026-08.md){ .md-button .md-button--primary }
+[August 2026 digest](months/2026-08.md){ .md-button }
+[September 2026 digest](months/2026-09.md){ .md-button }
+[October 2026 digest](months/2026-10.md){ .md-button .md-button--primary }
 
 !!! tip "Writing style"
  These sheets use **easy complete sentences**. One fact per bullet. From March onward, the same style is mandatory (see project rule `current-affairs-monthly`).

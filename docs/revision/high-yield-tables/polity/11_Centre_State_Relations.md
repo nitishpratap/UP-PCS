@@ -127,6 +127,32 @@ hide:
 | Direct collision | Obeying both is impossible |
 | Occupied field | Union law covers the **whole field**; State law is extra even without a clause-by-clause clash |
 
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Eleventh |
+| B | Twelfth |
+| C | Thirteenth |
+| D | Fourteenth |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Dr. C. Rangarajan |
+| 2 | Dr. Y.V. Reddy |
+| 3 | Prof. A.M. Khusro |
+| 4 | Dr. Vijay L. Kelkar |
+
+---
+
 
 ### Comparative Matrix: Art. 275 ↔ Art. 282
 
@@ -220,6 +246,176 @@ hide:
 | Water is only a Union subject | **State 17**, subject to **Union 56** |
 | Assam–Meghalaya 2022 = SC 131 | **Union HM + two CMs** |
 | NITI / FC implements SDGs | Nodal = **NITI** (2019), not FC |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Eleventh |
+| B | Twelfth |
+| C | Thirteenth |
+| D | Fourteenth |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | C. Rangarajan |
+| 2 | Y.V. Reddy |
+| 3 | A.M. Khusro |
+| 4 | Vijay L. Kelkar |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Seventh |
+| B | Eighth |
+| C | Ninth |
+| D | Tenth |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Language |
+| 2 | Defection |
+| 3 | Union, State and Concurrent Lists |
+| 4 | Validation of certain Acts |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Consolidated Fund of India |
+| B | Finance Commission |
+| C | Financial Emergency |
+| D | CAG |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Art. 266 |
+| 2 | Art. 360 |
+| 3 | Art. 280 |
+| 4 | Art. 148 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Art. 324 |
+| B | Art. 315 |
+| C | Art. 280 |
+| D | Art. 338 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | NCSC |
+| 2 | Finance Commission |
+| 3 | Public Service Commission |
+| 4 | Election Commission |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Third |
+| B | Fourth |
+| C | Seventh |
+| D | Eighth |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Allocation of seats in the Council of States |
+| 2 | Forms of oath |
+| 3 | Languages |
+| 4 | List of subject-matter of laws of Parliament and State Legislatures |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Article 245 |
+| B | Article 246 |
+| C | Article 248 |
+| D | Article 249 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Territorial extent of Union and State legislation |
+| 2 | Distribution of legislative subjects through the Seventh Schedule |
+| 3 | Residuary powers of legislation |
+| 4 | Parliament on State List after Rajya Sabha resolution |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Stamp duties on Union-list instruments |
+| B | Taxes on inter-State sale of goods (pre-GST frame) |
+| C | Income-tax (other than agricultural income) |
+| D | Surcharge on income-tax |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Article 268 — levied by Union, collected by States |
+| 2 | Article 269 — assigned to States |
+| 3 | Article 270 — shared per Finance Commission |
+| 4 | Article 271 — Union only |
+
+---
 
 
 ## 🔍 Key Table Observations & Memory Anchors

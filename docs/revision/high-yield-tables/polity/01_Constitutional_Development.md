@@ -211,6 +211,55 @@ hide:
 | Federal scheme, three lists, emergency lineage, PSC, Federal Court → SC path, much administrative skeleton | **GOI Act 1935** | Largest structural borrow |
 | **Fundamental Duties** (मौलिक कर्तव्य) (Part IVA) and Justice ideals in Preamble discussions | **USSR** model (Duties added later by **42nd**, 1976) | Not in original 1950 text |
 
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Regulating Act, 1773 |
+| B | Charter Act, 1833 |
+| C | GOI Act, 1858 |
+| D | Councils Act, 1909 |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | First Viceroy (Canning) |
+| 2 | GG of Bengal; SC Calcutta |
+| 3 | Muslim separate electorates |
+| 4 | GG of India (Bentinck) |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | UK |
+| B | USA |
+| C | Ireland |
+| D | Canada |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | Fundamental Rights |
+| 2 | Parliamentary system |
+| 3 | Residuary powers with Centre |
+| 4 | DPSP |
+
+---
 
 ## 🔍 Key Table Observations & Memory Anchors
 

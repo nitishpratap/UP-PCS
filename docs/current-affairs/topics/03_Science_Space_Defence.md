@@ -920,6 +920,53 @@ The **SHANTI Act, 2025** (received Presidential assent in December 2025) overhau
 
 ---
 
+## October 2026
+
+### India's 2nd Naval VLF Communication Station | Damagundam, Telangana
+
+**What happened**
+On **15 October 2026**, Union Defence Minister **Rajnath Singh**, alongside Telangana Chief Minister **A. Revanth Reddy**, laid the foundation stone for the Indian Navy's second **Very Low Frequency (VLF) Communication Transmission Station** at the **Damagundam Reserve Forest** in Vikarabad district, Telangana.
+
+**Core specs & prelims facts**
+- **Location:** Damagundam Reserve Forest, Pudur Mandal, **Vikarabad district, Telangana**.
+- **Outlay & Area:** Estimated cost of approximately **₹3,200 crore**, spanning across **2,900 acres**.
+- **Operational Mandate:** Operates in the VLF electromagnetic band (3 kHz to 30 kHz). Because VLF radio waves have the unique physical property of penetrating seawater down to dozens of metres, this station provides secure, uninterrupted, encrypted command-and-control communication to deeply submerged nuclear (SSBN/SSN) and conventional (SSK) submarines across the Indian Ocean and Indo-Pacific without requiring them to surface or deploy vulnerable floating wire antennas.
+
+!!! trap "UPPCS Confused-Pair Alert"
+1. **First vs Second:** Damagundam is India's **SECOND** VLF station.
+2. **First VLF Station:** **INS Kattabomman**, located at Vijayanarayanam in **Tirunelveli district, Tamil Nadu** (commissioned in 1990).
+3. Do not confuse VLF (Very Low Frequency for submarines) with ELF (Extremely Low Frequency) or HF (High Frequency).
+
+---
+
+### Exercise Malabar 2026 | Visakhapatnam & Bay of Bengal | 8–18 October 2026
+
+**What happened**
+The Indian Navy hosted the **Exercise Malabar 2026**, bringing together all four **Quad** partners—**India, United States, Japan, and Australia**—for high-intensity multilateral maritime drills off **Visakhapatnam** under the aegis of the Eastern Naval Command.
+
+**Key assets & participating nations**
+- **Format:** Harbour phase at **Visakhapatnam** (8–12 Oct) followed by Sea phase in the **Bay of Bengal** (13–18 Oct).
+- **India (Host):** Guided-missile destroyers, multi-mission stealth frigates, submarines, P-8I maritime reconnaissance aircraft, and MARCOS commandos.
+- **United States:** Arleigh Burke-class guided-missile destroyer *USS Dewey*, integral helicopters, and P-8A Poseidon patrol aircraft.
+- **Australia:** Anzac-class frigate *HMAS Stuart*, MH-60R helicopter, and P-8 maritime patrol aircraft.
+- **Japan:** Murasame-class destroyer *JS Ariake*.
+- **Tactical Focus:** Advanced Anti-Submarine Warfare (ASW), air defence tracking, coordinated fleet manoeuvres, surface live-firings, and Special Forces maritime interdiction.
+
+---
+
+### Global Space Milestones | October 2026
+
+#### SpaceX Starship Flight 5 — Historic Mid-Air Booster Catch (13 October 2026)
+- **What happened:** In a historic aerospace engineering breakthrough at Starbase in Boca Chica, Texas, SpaceX successfully launched **Starship Flight 5** and caught the massive 71-metre-tall **Super Heavy rocket booster** out of mid-air upon its descent using the dual mechanical arms ("chopsticks") of the launch tower (**Mechazilla**).
+- **Significance:** Marks the world's first successful mechanical recovery of a super-heavy booster at the launch mount without landing legs, opening the path to rapid, same-day rocket reuse.
+
+#### NASA Launches Europa Clipper to Jupiter's Moon (14 October 2026)
+- **What happened:** NASA successfully launched its flagship **Europa Clipper** spacecraft atop a SpaceX **Falcon Heavy** rocket from Launch Complex 39A at Kennedy Space Center, Florida.
+- **Target:** **Europa**, the icy moon of **Jupiter**, which harbours a global liquid ocean beneath its frozen crust containing more than twice the water of Earth's oceans combined.
+- **Mission:** Investigate the icy moon's habitability, ice-shell thickness, ocean chemistry, and geology (scheduled to reach Jupiter orbit in 2030).
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

@@ -62,7 +62,11 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | Jun (UP) | **UP CAMP** | Airshed clean-air project (World Bank) | About **₹2,741 cr** |
 | Aug | **MMDR Amendment Act, 2026** | Uniform mineral-tax framework | Centre conditions on state mineral levies |
 | Sep | **18th BRICS Summit** | New Delhi Leaders’ Summit + Declaration | Host India; theme Resilience–Innovation–Cooperation–Sustainability |
-| Sep | **57th GST Council** | Process-reform meeting shifted | Now **7 Oct 2026** (not mid-Sep rates round) |
+| Sep | **57th GST Council** | Process-reform meeting shifted | Held **7 Oct 2026** (process reforms / GST 2.0 focus) |
+| Oct | **Rabi MSP 2025–26 / 2026–27** | CCEA-approved support prices | Wheat **₹2,425/q** (+₹150); Mustard **₹5,950/q** (+₹300) |
+| Oct | **Varanasi Mega Package** | Multi-sector projects by PM Modi | **₹6,700+ crore** (RJ Sankara Hospital, Sigra sports, Airport expansion) |
+| Oct | **Damagundam VLF Station** | India's 2nd naval VLF facility (Telangana) | **₹3,200 crore** (2,900 acres; secure submarine comms) |
+| Oct | **NMHC Lothal Phase 1B** | Maritime heritage complex master plan | In-principle approval for world-class maritime hub |
 
 ---
 
@@ -82,9 +86,14 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | PFBR already runs on thorium | Criticality with **MOX**; thorium is later stage |
 | NavIC = GPS | NavIC is **India’s** regional system |
 | Kusha = ballistic Agni | **Kusha** = long-range **air-defence** SAM |
-| 18th BRICS Summit = Rio / Kazan | **New Delhi, 12–13 Sep 2026** |
-| GST Council cut rates again on 12 Sep 2026 | Meeting moved to **7 Oct**; agenda = **process reforms** |
+| 18th BRICS Summit = Rio / Kazan | **New Delhi, 12–13 Sep 2026**; Kazan hosted the **16th Summit** |
+| GST Council cut rates again on 12 Sep 2026 | Meeting held **7 Oct**; agenda = **process reforms** |
 | Asian Games 2026 = Hangzhou | Host region is **Aichi–Nagoya, Japan** |
+| Classical Languages = 6 or 8 | Total is **11** (+ Marathi, Pali, Prakrit, Assamese, Bengali) |
+| Hindi is a Classical Language | **No** — official language (Art. 343) and 8th Schedule, not Classical |
+| 51st CJI = Justice D.Y. Chandrachud / B.R. Gavai | **Justice Sanjiv Khanna** (oath 11 Nov 2026; succeeding Chandrachud) |
+| Damagundam VLF is India's 1st VLF station | **2nd**; 1st is **INS Kattabomman** (Tirunelveli, TN, 1990) |
+| Wheat MSP = ₹2,275 | Revised to **₹2,425/quintal** (+₹150 hike) |
 
 ---
 
@@ -110,6 +119,17 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | 15 Sep | Engineers’ Day (India) | Sir M. Visvesvaraya |
 | 16 Sep | World Ozone Day | Global action for a cooler planet (Kigali @10) |
 | 21 Sep | International Day of Peace | Invest in Peace — For Everyone, Everywhere, Every Day |
+| 2 Oct | International Day of Non-Violence | Mahatma Gandhi 157th birth anniversary |
+| 5 Oct | World Teachers' Day | Standing with teachers: valuing teacher voices for education |
+| 7 Oct | World Cotton Day | Cotton for Good |
+| 8 Oct | Indian Air Force Day | 92nd Anniversary air show at Marina Beach, Chennai |
+| 9 Oct | World Post Day | 150 years of enabling communication and empowering peoples |
+| 10 Oct | World Mental Health Day | It is time to prioritize mental health in the workplace |
+| 11 Oct | International Day of the Girl Child | Girls' vision for the future |
+| 12 Oct | World Migratory Bird Day | Protect Insects, Protect Birds |
+| 13 Oct | Disaster Risk Reduction Day | Empowering the next generation for a resilient future |
+| 16 Oct | World Food Day | Right to foods for a better life and a better future |
+| 24 Oct | UN Day & World Polio Day | A Campaign to Reach Every Child |
 
 ---
 
@@ -119,8 +139,25 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 |-------|-----------|
 | **18th BRICS Summit** | New Delhi, **12–13 Sep**; New Delhi Declaration; India chair |
 | **Asian Games 2026** | **Aichi–Nagoya, Japan**; India kabaddi double gold vs Iran (late Sep) |
-| **57th GST Council** | Shifted from mid-Sep to **7 Oct 2026** (process reforms / GST 2.0) |
+| **57th GST Council** | Shifted to **7 Oct 2026** (process reforms / GST 2.0) |
 | **NFI 2026** | 7th edition released **21 Sep** (~653 monographs) |
+
+---
+
+## 5b. October 2026 mega-events (quick)
+
+| Event | Easy fact |
+|-------|-----------|
+| **5 Classical Languages** | **Marathi, Pali, Prakrit, Assamese, Bengali** approved; total becomes **11** |
+| **51st CJI** | **Justice Sanjiv Khanna** appointed 51st Chief Justice of India (notified 24 Oct; oath 11 Nov) |
+| **Nobel Prizes 2026** | Medicine (microRNA), Physics (ANN/ML), Chemistry (AlphaFold/Protein design), Lit (Han Kang), Peace (Nihon Hidankyo), Econ (Institutions) |
+| **Rabi MSP Hike** | Wheat **₹2,425/q** (+₹150); Mustard **₹5,950/q** (+₹300) |
+| **Varanasi Package** | **₹6,700+ cr** (RJ Sankara Eye Hospital, Sigra Sports Complex, Airport expansion) |
+| **8th Ayodhya Deepotsav** | Guinness World Record: **26,17,215 diyas** on 56 ghats + 2,128 priests Maha Aarti |
+| **India's 2nd VLF Station** | Foundation laid at **Damagundam Forest, Vikarabad (Telangana)** (₹3,200 cr) |
+| **16th BRICS & Border Pact** | **Kazan, Russia**; India–China LAC disengagement at **Demchok & Depsang** |
+| **Assembly Polls** | Haryana (Nayab Singh Saini 2nd term); J&K (Omar Abdullah 1st UT CM) |
+| **ICC Women's T20 WC** | **New Zealand** champion (beat South Africa in Dubai; Amelia Kerr MVP) |
 
 ---
 
@@ -129,12 +166,16 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | Theme | Must revise |
 |-------|-------------|
 | Ramsar | Etah / Aligarh / Ballia + older names |
-| Airport | Jewar opened **15 Jun 2026** (Lucknow IndiGo) |
+| Airport | Jewar opened **15 Jun 2026** (Lucknow IndiGo); Varanasi airport expansion (₹2,870 cr, Oct) |
 | Budget | UP Budget ~**₹9.13 lakh crore** |
 | Defence plant | **Sher** AK-203 at **Korwa, Amethi** |
 | Expressways (Aug) | Ganga Expressway $\rightarrow$ **Haridwar**; **Jhansi Link** Expressway |
 | Soft industry | YEIDA electronics / Jewar manufacturing push |
 | UP Nutrition | **Sambhav 6.0** (Theme: *"गर्भावस्था से बाल्यावस्था तक पोषण सुरक्षा"*, July–Sept 2026, all 75 districts) |
+| UP Health (Oct) | **RJ Sankara Eye Hospital** at Harhua, Varanasi (inaugurated 20 Oct by PM Modi) |
+| UP Sports (Oct) | **Dr. Sampoornanand Sports Complex at Sigra, Varanasi** (Phases 2 & 3 Khelo India) |
+| UP Culture (Oct) | **Ayodhya Deepotsav** (26.17+ lakh diyas record across 56 ghats) |
+| UP Trade (Oct) | **UPITS 2026** at Greater Noida (Partner Country: Vietnam) |
 | Women Safety | **Nirbhaya Nisha** (Kerala Police night safety 9 PM–5 AM; 112 + Pol-App SOS; March 2026) |
 | Global Summit | **2nd WHO Traditional Medicine Global Summit** (Bharat Mandapam, New Delhi; 17–19 Dec 2025) |
 | Climate & Economy | **"Scenarios Towards Viksit Bharat and Net Zero"** (NITI Aayog, Feb 2026; $30T by 2047, Net Zero 2070) |

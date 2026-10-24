@@ -247,6 +247,39 @@ The Social Justice Ministry announced fresh leadership of the **National Commiss
 - CBSE Chairperson (ACC coverage): **Mandeep K. Bhandari**.
 - DWBDNC Governing Body members: **Narayan Dewasi** and **Swaroop Singh Banjara**.
 
+---
+
+## October 2026
+
+### 51st Chief Justice of India | Justice Sanjiv Khanna
+
+**What happened**
+On **24 October 2026**, the President of India officially notified the appointment of **Justice Sanjiv Khanna** as the **51st Chief Justice of India (CJI)**, with effect from **11 November 2026**.
+
+**Core biographical & constitutional facts**
+- **Succeeds:** **Chief Justice D.Y. Chandrachud**, who retires on **10 November 2026** after serving as the 50th CJI for two years.
+- **Tenure:** Justice Khanna serves as CJI until his retirement on **13 May 2025** (a tenure of approximately 6 months upon reaching the constitutional retirement age of **65 years** under **Article 124(2)**).
+- **Subsequent Succession:** Justice **B.R. Gavai** is slated to succeed him as the 52nd CJI in May 2025.
+- **Heritage:** Nephew of the illustrious Supreme Court judge **Justice H.R. Khanna**, famed for his sole, historic dissenting judgment in the *ADM Jabalpur v. Shivkant Shukla (Habeas Corpus)* case during the 1976 Emergency.
+- **Key Benches:** Authored landmark judgments on the sanctity of EVM-VVPAT verification, electoral bonds declaration, and right to information (RTI) applicability to the office of the CJI.
+
+!!! trap "UPPCS Constitutional Trap"
+Do not confuse the retirement age of Supreme Court Judges (**65 years** under Article 124) with High Court Judges (**62 years** under Article 217). The oath of office of the CJI is administered by the **President of India** under the Third Schedule.
+
+---
+
+### Key Executive & State Appointments | October 2026
+
+| Position / Office | Person Appointed | Date & Context | Significance |
+| :--- | :--- | :--- | :--- |
+| **51st Chief Justice of India** | **Justice Sanjiv Khanna** | Appointed **24 Oct 2026** (Oath 11 Nov) | Succeeds CJI D.Y. Chandrachud; 6-month tenure till May 2025. |
+| **Chief Minister of Haryana** | **Nayab Singh Saini** | Sworn in **17 Oct 2026** (Panchkula) | Second term; administered by Governor Bandaru Dattatreya. |
+| **Chief Minister of UT of J&K** | **Omar Abdullah** | Sworn in **16 Oct 2026** (Srinagar) | **First Chief Minister of the Union Territory of Jammu and Kashmir**. |
+| **Deputy Chief Minister of J&K** | **Surinder Kumar Choudhary** | Sworn in **16 Oct 2026** | MLA from Nowshera, representing the Jammu region. |
+| **54th Dadasaheb Phalke Award** | **Mithun Chakraborty** | Conferred **October 2026** | India's highest cinematic honor presented by President Droupadi Murmu. |
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

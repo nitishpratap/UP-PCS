@@ -30,6 +30,180 @@ hide:
 
 ---
 
+### Title ↔ ruler
+
+| Title | Ruler |
+|-------|-------|
+| Devanampiya Piyadassi (देवानांप्रिय प्रियदर्शी) | **Ashoka** |
+| Amitraghata (अमित्रघात) | **Bindusara** |
+| Maharajadhiraja (महाराजाधिराज) (first Gupta) | **Chandragupta I** |
+| Vikramaditya (विक्रमादित्य) | **Chandragupta II** |
+| Siladitya (शीलादित्य) | **Harsha** |
+| Devaputra (देवपुत्र) | **Kanishka** |
+| Dakshinapathapati (दक्षिणापथपति) | **Gautamiputra Satakarni** |
+| Mahameghavahana (महामेघवाहन) | **Kharavela** |
+| Mahakshatrapa (महाक्षत्रप) | **Rudradaman I** |
+| Ekarat / Sarvakshatrantaka (एकराट् / सर्वक्षत्रान्तक) | **Mahapadma Nanda** |
+| Sandrokottos | **Chandragupta Maurya** |
+
+---
+
+### Inscription ↔ owner
+
+| Inscription | Lock |
+|-------------|------|
+| Hathigumpha | **Kharavela** |
+| Ayodhya | Pushyamitra **ashwamedhas** |
+| Besnagar | **Heliodorus** (≠ Pushyamitra) |
+| Prayag Prashasti | **Samudragupta** / Harishena |
+| Aihole | **Pulakeshin II** vs Harsha |
+| Junagadh / Girnar | Ashoka → Rudradaman → Skandagupta |
+| Nasik prasasti | Gautamiputra vs Nahapana |
+| Bhitari | **Skandagupta** vs Hunas |
+| Mehrauli iron pillar | Usually **Chandragupta II** |
+| Banskhera / Madhuban | **Harsha** |
+| Rummindei | Ashoka at Lumbini |
+| Haraha | Maukhari **Ishanavarman** |
+
+---
+
+### Official ↔ age
+
+| Official | Age / role |
+|----------|------------|
+| Bhagadugha (भागदुघ) | Vedic revenue |
+| Akshavapa (अक्षावाप) | Vedic dice (trap) |
+| Samaharta (समाहर्ता) | Mauryan collector |
+| Sannidhata (सन्निधाता) | Mauryan treasurer |
+| Agronomai | Mauryan rural revenue (Greek) |
+| Rajuka (रज्जुक) | Mauryan land / justice |
+| Uparika (उपरिक) | Gupta province |
+| Sandhivigrahika (संधिविग्रहिक) | Gupta / Harsha peace–war |
+
+---
+
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Arthashastra* (अर्थशास्त्र) | **Kautilya / Chanakya** | Saptanga, adhyakshas, spies, revenue |
+| *Indica* | **Megasthenes** (मेगस्थनीज) | Agronomai, city boards, seven classes |
+
+---
+
+
+### Comparative Matrix: Kind ↔ Examples ↔ Use
+
+| Kind | Examples | use |
+|------|----------|----------|
+| **Literary** | Veda, Purana, Tripitaka, Sangam | doctrine, inflated king-lists |
+| **Epigraphy** | edicts, Hathigumpha, Prayag, Nasik, Mehrauli | hardest dates and titles |
+| **Numismatics** | punch-mark, Kushan gold, CG II silver | 2022 Shaka-victory proof |
+| **Archaeology** | sites, C-14, PGW / NBPW / IVC | period, not a king’s name |
+| **Foreign accounts** | Megasthenes, Fa-Hien, Xuanzang, I-tsing | 2024 traveller order |
+
+---
+
+### Coins as administrative evidence
+
+| Coin type | Period / issuer | What it proves |
+|-----------|-----------------|----------------|
+| **Punch-marked silver** (*karshapana*) | Mahajanapada → Maurya | Urban trade, magistrate control, weight standard |
+| **Mauryan cast copper** | Mauryan | State issue beyond silver punch-marks |
+| **Indo-Greek portrait** | Menander etc. | Die-struck bilingual (Greek + Kharoshthi) kings |
+| **Kushan gold** | Vima / Kanishka | Imperial titles, **Devaputra**, long-distance trade |
+| **Satavahana lead / bronze** | Deccan | **Ship** types = sea trade; metronymic legends |
+| **Gupta gold dinara** | Samudragupta → Skandagupta | Imperial titles; **Chandragupta II** silver = western **Shaka** victory |
+| **Restruck Nahapana silver** | Gautamiputra age | Defeat of western Shaka overlord |
+
+---
+
+
+### Comparative Matrix: Period ↔ Revenue Fact ↔ Province / District
+
+| Period | Revenue fact | Province / district | War-peace |
+|--------|----------------|---------------------|-----------|
+| Vedic | **Bhagadugha** (भागदुघ) | — | — |
+| Mauryan | **Samaharta** (समाहर्ता) / Agronomai | Rajuka (रज्जुक) at district | King + mahamatras |
+| Gupta | grants + bhaga | **Uparika** (उपरिक) / **Kumaramatya** (कुमारमात्य) | **Sandhivigrahika** (संधिविग्रहिक) |
+| Harsha | grants | **Uparika** (उपरिक) | **Mahasandhivigrahika** (महासांधिविग्रहिक) |
+
+---
+
+
+### Comparative Matrix: Traveller ↔ Age ↔ Admin Observation
+
+| Traveller | Age | Admin observation |
+|-----------|-----|-------------------|
+| **Megasthenes** | Chandragupta Maurya | seven castes (Greek lens), agronomai, city boards |
+| **Fa-Hien** | Chandragupta II | light punishments, Buddhist patronage visible |
+| **Hiuen Tsang** | Harsha | good roads, hospices; elephant numbers = colour |
+| **I-tsing** | Post-Harsha | monastic rules at Nalanda |
+
+---
+
+## UP Focus
+
+| Fact | Place |
+|------|--------|
+| Ayodhya inscription | Pushyamitra ashwamedha |
+| Prayag / Allahabad shaft | Ashoka + Harishena |
+| Haraha | Barabanki — Ishanavarman |
+| Jaunpur stone | Ishvaravarman |
+| Bhitari | Ghazipur belt — Skandagupta |
+| Banskhera | Shahjahanpur — Harsha signature |
+| Besnagar | **MP** — Heliodorus pillar |
+
+---
+
+
+### Match Matrix: Title ↔ Ruler
+
+| List-I (Title) | List-II (Ruler) |
+|---|---|
+| 1. Dakshinapathapati (दक्षिणापथपति) | A. Rudradaman I |
+| 2. Mahameghavahana (महामेघवाहन) | B. Gautamiputra Satakarni |
+| 3. Mahakshatrapa (महाक्षत्रप) | C. Kharavela |
+| 4. Ekarat / Sarvakshatrantaka (एकराट् / सर्वक्षत्रान्तक) | D. Mahapadma Nanda |
+
+---
+
+
+### Match Matrix: Inscription ↔ Fact
+
+| List-I (Inscription) | List-II (Fact) |
+|---|---|
+| 1. Aihole | A. Pulakeshin II vs Harsha |
+| 2. Junagadh / Girnar | B. Ashoka → Rudradaman → Skandagupta |
+| 3. Nasik prasasti of Balashri | C. Gautamiputra vs Nahapana |
+| 4. Naneghat | D. Queen Naganika with Satakarni I |
+
+---
+
+
+### Match Matrix: Official ↔ Age / Role
+
+| List-I (Official) | List-II (Age / role) |
+|---|---|
+| 1. Bhagadugha | A. Gupta provincial governor |
+| 2. Samaharta | B. Vedic revenue share-collector |
+| 3. Uparika | C. Mauryan chief collector |
+| 4. Rajuka | D. Mauryan district land and justice |
+
+---
+
+
+### Confusing Pairs & High-Frequency Traps
+
+| List-I (Confused pair A) | List-II (Correct distinction) |
+|---|---|
+| 1. Sabha | A. Larger tribal assembly |
+| 2. Samiti | B. Smaller/elder council |
+| 3. Bhagadugha | C. Vedic revenue |
+| 4. Akshavapa | D. Dice officer |
+
+---
 
 ## 🔍 Key Table Observations & Memory Anchors
 

@@ -430,6 +430,58 @@ MoS Health **Anupriya Patel** released the **7th edition** of the **National For
 !!! tip
 NFI is a formulary (how medicines are used safely), not the same as the Indian Pharmacopoeia standards book — do not swap the two names in options.
 
+---
+
+## October 2026
+
+### Nobel Prize in Physiology or Medicine 2026 | microRNA Discovery
+
+**What happened**
+The Nobel Assembly at Karolinska Institutet awarded the **2026 Nobel Prize in Physiology or Medicine** jointly to American geneticists **Victor Ambros** and **Gary Ruvkun**.
+
+**Official Citation & Biological Breakthrough**
+- **Citation:** *"For the discovery of microRNA and its role in post-transcriptional gene regulation"*.
+- **The Organism:** Originally discovered while studying the tiny 1-millimetre roundworm ***Caenorhabditis elegans*** (*C. elegans*).
+- **The Mechanism:** microRNAs are tiny, non-coding RNA molecules (typically 20 to 24 nucleotides in length) that do not code for proteins themselves. Instead, they act as cellular rheostats, binding to complementary sequences on messenger RNA (**mRNA**) molecules to either block translation into proteins or trigger mRNA degradation.
+- **Clinical Relevance:** Essential for embryonic development, tissue differentiation, and immune regulation. Dysregulated microRNAs are directly implicated in human oncogenesis (cancer), cardiac hypertrophy, and autoimmune diseases.
+
+---
+
+### RJ Sankara Eye Hospital | Varanasi, Uttar Pradesh (20 October 2026)
+
+**What happened**
+Prime Minister **Narendra Modi** inaugurated the **RJ Sankara Eye Hospital** at **Harhua in Varanasi**.
+
+**Core facts**
+- **Founding Trust:** Established by the **Sri Kanchi Kamakoti Medical Trust** (associated with the Kanchi Kamakoti Peetham).
+- **Capacity:** A **225-bed** modern super-specialty ophthalmological hospital.
+- **Cross-Subsidization Model:** Operates on an equitable 70:30 healthcare model: **70% of all surgeries, consultations, and beds are provided completely free of cost** to economically underprivileged rural families, cross-subsidized by 30% paying patients.
+- **Catchment Area:** Caters to over 20 districts across Eastern Uttar Pradesh (Purvanchal), Western Bihar, and Jharkhand.
+
+---
+
+### World Polio Day | 24 October 2026
+
+**What happened**
+The world observed **World Polio Day** on **24 October**, marking the birth anniversary of **Dr. Jonas Salk** (who developed the first successful inactivated polio vaccine - IPV in 1955).
+
+**Core facts & India's Polio Milestones**
+- **2026 Theme:** *"A Campaign to Reach Every Child"*.
+- **Global Polio Eradication Initiative (GPEI):** Led by WHO, Rotary International, CDC, UNICEF, and the Gates Foundation.
+- **India's Historic Polio Certification:**
+  - **Certified Polio-Free:** India and the entire WHO South-East Asia Region were officially certified **polio-free on 27 March 2014**.
+  - **Last Reported Case:** The last recorded wild poliovirus (WPV) case in India occurred on **13 January 2011 in Howrah, West Bengal** (a two-year-old girl, Rukhsar Khatun).
+  - India has maintained zero indigenous transmission for over **15 years**.
+
+---
+
+### World Mental Health Day | 10 October 2026
+
+- **Theme:** *"It is time to prioritize mental health in the workplace"*.
+- **National Tele-Mental Health Programme (Tele-MANAS):** India's 24x7 toll-free helpline (**14416 / 1800-891-4416**) crossed over **15 lakh distress calls handled** across 51 operational cells in 20+ languages.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

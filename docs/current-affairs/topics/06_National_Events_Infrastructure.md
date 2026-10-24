@@ -537,6 +537,48 @@ A Bench of the High Court of Jammu and Kashmir and Ladakh was established for **
 
 ---
 
+## October 2026
+
+### Assembly Elections: Haryana & Jammu and Kashmir (October 2026)
+
+**Haryana Assembly Election & Swearing-In**
+- **Election Result:** The Bharatiya Janata Party (BJP) won an absolute majority with **48 out of 90 seats**, clinching a historic third consecutive term in Haryana (Congress won 37 seats, INLD 2, Independents 3).
+- **Swearing-In (17 October 2026):** **Nayab Singh Saini** took oath as Chief Minister of Haryana for his second term at Dussehra Ground in Panchkula.
+- **Oath Administered By:** Haryana Governor **Bandaru Dattatreya**.
+
+**Jammu & Kashmir Assembly Election & Historic UT Government**
+- **First Assembly Polls in a Decade:** First assembly elections held in Jammu & Kashmir in 10 years (since 2014) and the first since the abrogation of Article 370 and bifurcation into Union Territories in August 2019.
+- **Result:** The Jammu & Kashmir National Conference (JKNC) – Congress alliance secured majority, with NC winning **42 seats** (Congress 6, BJP 29, PDP 3).
+- **Historic Swearing-In (16 October 2026):** **Omar Abdullah** was sworn in as the **first Chief Minister of the Union Territory of Jammu and Kashmir** at the Sher-i-Kashmir International Convention Centre (SKICC), Srinagar.
+- **Oath Administered By:** Lieutenant Governor **Manoj Sinha**.
+- **Deputy Chief Minister:** **Surinder Kumar Choudhary** (MLA from Nowshera, Jammu region) took oath as Deputy Chief Minister, establishing balanced regional representation between Jammu and the Kashmir Valley.
+
+---
+
+### PM Modi's National Airport & Healthcare Blitz | 20 October 2026
+
+**What happened**
+Prime Minister **Narendra Modi** dedicated and laid foundation stones for multiple strategic civil aviation, sports, and healthcare projects totaling over **₹6,700 crore** anchored from Varanasi.
+
+**Key Infrastructure Landmarks**
+- **Lal Bahadur Shastri International Airport, Varanasi:** Foundation laid for ₹2,870 crore runway expansion to **4,075 metres** and new terminal building to accommodate wide-body long-haul airliners.
+- **Regional Airport Enclaves under UDAN:**
+  - **Sarsawa Airport (Saharanpur, Uttar Pradesh):** Inauguration of new civil enclave connecting Western UP.
+  - **Rewa Airport (Madhya Pradesh):** Dedicated as MP's 6th operational airport.
+  - **Maa Mahamaya Airport (Ambikapur, Chhattisgarh):** New terminal opened in tribal Northern Chhattisgarh.
+- **RJ Sankara Eye Hospital (Varanasi):** 225-bed modern eye hospital providing 70% free surgical care to underprivileged citizens.
+- **Dr. Sampoornanand Sports Complex (Sigra Stadium, Varanasi):** Inaugurated Phases 2 and 3 redeveloped under Khelo India and Smart City Mission (₹210+ crore).
+
+---
+
+### Approval of 5 New Classical Languages (Total Reaches 11)
+
+- On **3 October 2026**, the Union Cabinet approved Classical Language status for **Marathi, Pali, Prakrit, Assamese, and Bengali**.
+- Total recognized Classical Languages in India expanded from 6 to **11**.
+- Detailed criteria and constitutional distinctions → [Schemes & Policies](02_Schemes_Policies.md) and [Culture](12_Books_Culture_CA.md).
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

@@ -39,6 +39,258 @@ hide:
 | Devagupta | Chandragupta Maurya | CG II alias vs Mauryan founder | देवगुप्त / मौर्य |
 | Vishti | Bhaga | Forced labour as tax vs produce share (~1/6) | विष्टि / भाग |
 
+---
+
+
+### Comparative Matrix: King ↔ Tag
+
+| King | Tag |
+|------|-----|
+| Chandragupta I | First **Maharajadhiraja**; Kumaradevi; era ~**319–320** |
+| Samudragupta | Digvijaya; **Prayag Prashasti** (Harishena); Napoleon of India |
+| Chandragupta II | **Vikramaditya / Sakari**; ends Western Kshatrapas; Fa-Hien |
+| Kumaragupta I | **Nalanda** founder-patron |
+| Skandagupta | Last great; **Bhitari** Huna war; Sudarsana repair |
+
+---
+
+### Coin types
+
+| Type | King |
+|------|------|
+| King–queen | Chandragupta I |
+| Lyrist / horse / battle-axe / tiger | Samudragupta |
+| Archer | Chandragupta II |
+| Silver ~**33 grains** | Chandragupta II Shaka-victory proof |
+| Peacock types | Often Kumaragupta I |
+
+---
+
+
+### Comparative Matrix: Term ↔ Lock
+
+| Term | Lock |
+|------|------|
+| Sandhivigrahika | Peace and war |
+| Bhaga / udranga | Land tax ~**1/6** |
+| Vishti | Forced labour |
+
+---
+
+### South Prashasti matches
+
+| King | Place |
+|------|-------|
+| Dhananjaya | Kusthalapura |
+| Nilaraja | Avamukta |
+| Ugrasena | Palaka |
+| Vishnugopa | **Kanchi** (कांची) |
+
+---
+
+
+### Comparative Matrix: Book / Text ↔ Writer / Authority ↔ What It Is For
+
+| Book / text | Writer / authority | What it is for |
+|-------------|--------------------|----------------|
+| *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Malavikagnimitra* (मालविकाग्निमित्रम्), *Vikramorvashiyam* (विक्रमोर्वशीयम्) | **Kalidasa** (कालिदास) | Gupta dramas (नाटक); CG II court tradition |
+| *Raghuvamsa* (रघुवंश), *Kumarasambhava* (कुमारसंभव) | **Kalidasa** (कालिदास) | Mahakavyas (महाकाव्य) |
+| *Meghaduta* (मेघदूत), *Ritusamhara* (ऋतुसंहार) | **Kalidasa** (कालिदास) | Lyrics (गीतिकाव्य) |
+| *Shringara Shataka* (शृंगार शतक) | **Bhartrihari** (भर्तृहरि) | Not Kalidasa |
+| *Amarakosha* (अमरकोश) | **Amarasimha** (अमरसिंह) | Lexicon; Navaratna name |
+| *Mrichchhakatika* (मृच्छकटिकम्) | **Sudraka** (शूद्रक) | Charudatta (चारुदत्त)–Vasantasena (वसन्तसेना) |
+| *Mudrarakshasa* (मुद्राराक्षस), *Devichandraguptam* (देवीचन्द्रगुप्तम्) | **Vishakhadatta** (विशाखदत्त) | Chanakya play; Ramagupta story |
+| *Kamasutra* (कामसूत्र) | **Vatsyayana** (वात्स्यायन) | Gupta-age Sanskrit treatise |
+| *Panchatantra* (पंचतंत्र) | **Vishnu Sharma** (विष्णु शर्मा) (tradition) | Fable cycle |
+| *Kiratarjuniya* (किरातार्जुनीय) | **Bharavi** (भारवि) | Late Gupta / after |
+| *Aryabhatiya* (आर्यभटीय) | **Aryabhata** (आर्यभट) | 499 CE; maths / astronomy |
+| *Panchasiddhantika* (पंचसिद्धांतिका), *Brihatsamhita* (बृहत्संहिता) | **Varahamihira** (वराहमिहिर) | Astronomy / encyclopaedia |
+| *Brahmasphutasiddhanta* (ब्रह्मस्फुटसिद्धान्त) | **Brahmagupta** (ब्रह्मगुप्त) | Early 7th c. edge of the age |
+| *Setubandha* (सेतुबन्ध) (*Ravanavaho* (रावणवहो)) | **Pravarasena II** (प्रवरसेन द्वितीय) | Vakataka Prakrit |
+| Prayag Prashasti (प्रयाग प्रशस्ति) | **Harishena** (हरिषेण) | Samudragupta’s literary eulogy |
+| *Nala Champu* (नल चम्पू) | **Trivikrama Bhatta** (त्रिविक्रम भट्ट) | Later match pair |
+| *Kathasaritsagara* (कथासरित्सागर) | **Somadeva** (सोमदेव) | Later match pair |
+| *Gita Govinda* (गीत गोविंद) | **Jayadeva** (जयदेव) | Later match pair |
+| *Brihatkathamanjari* (बृहत्कथामंजरी) | **Kshemendra** (क्षेमेन्द्र) | Later match pair |
+
+---
+
+### South kings often matched
+
+| King | Kingdom |
+|------|---------|
+| **Dhananjaya** (धनंजय) | **Kusthalapura** |
+| **Nilaraja** | **Avamukta** |
+| **Ugrasena** (उग्रसेन) | **Palaka / Palakka** |
+| **Vishnugopa** | **Kanchi** |
+
+---
+
+
+### Comparative Matrix: Level ↔ Unit ↔ Officer
+
+| Level | Unit | Officer |
+|-------|------|---------|
+| Empire | | Maharajadhiraja |
+| Province | **Bhukti** | **Uparika** |
+| District | **Vishaya** | **Kumaramatya** / **Ayuktaka** |
+| Sub-district | **Vithi** | local notables / *vithi-mahattara* |
+| Village | **Grama** | **Gramika** / *ashtakuladhikarana* |
+
+---
+
+
+### Comparative Matrix: Record ↔ Ruler ↔ Fact
+
+| Record | Ruler | Fact |
+|--------|-------|------|
+| **Prayag Prashasti** | Samudragupta | Harishena. Campaigns in 9.3 |
+| **Allahabad pillar** (इलाहाबाद स्तंभ) | (the shaft) | Ashoka + prashasti in 9.14 |
+| **Mehrauli iron pillar** | Chandra = CG II in most keys | Rust-resistant iron |
+| **Bhitari pillar** | **Skandagupta** | **Huna** war; Ghazipur, UP |
+| **Udayagiri** | CG II / Kumaragupta | Vaishnava caves |
+| **Eran** | Samudragupta / later Buddhagupta–Bhanugupta | Varaha; **sati** of Goparaja’s widow (~510 CE) |
+| **Damodarpur plates** | Later imperial Guptas | Kumaramatya. Land grants |
+| **Mandasor / Dashpur** | Kumaragupta age / silk weavers | Sun temple; Bandhuvarman. Yashodharman’s later Huna boast is a different Mandasor text |
+
+---
+
+
+### Comparative Matrix: Type ↔ Usual King
+
+| Type | Usual king |
+|------|------------|
+| King and queen (Kumaradevi) | **Chandragupta I** |
+| Ashvamedha horse | **Samudragupta** |
+| Lyrist / veena | **Samudragupta** |
+| Battle-axe / *parashu* | **Samudragupta** |
+| Tiger-slayer (*vyaghra*) | **Samudragupta** |
+| Standard / Garuda types | **Samudragupta** (in the famous six-type set) |
+| Archer | **Chandragupta II** (commonest) |
+| Chhatra / lion-slayer | **Chandragupta II** |
+| Lion-slayer / peacock | **Kumaragupta I** |
+| King fighting lion | **Skandagupta** |
+
+---
+
+
+### Comparative Matrix: University ↔ Region ↔ Founder / Patron Fact
+
+| University | Region | Founder / patron fact |
+|------------|--------|------------------------|
+| **Takshashila** | Gandhara | Pre-Mauryan teaching town; Panini grammar |
+| **Nalanda** | Bihar | **Kumaragupta I** founder-patron |
+| **Vikramashila** | Bengal–Bihar belt | **Pala Dharmapala** |
+| **Vallabhi** | Gujarat | **Maitraka**; Jain Svetambara council |
+
+---
+
+
+### Comparative Matrix: Gem ↔ Field
+
+| Gem | Field |
+|-----|-------|
+| **Kalidasa** (कालिदास) | Poetry and drama |
+| **Amarasimha** (अमरसिंह) | *Amarakosha* (अमरकोश) (lexicon) |
+| **Varahamihira** (वराहमिहिर) | Astronomy (*Panchasiddhantika* (पंचसिद्धांतिका), *Brihatsamhita* (बृहत्संहिता)) — actually **6th century** |
+| **Dhanvantari** (धन्वंतरि) | Medicine |
+| **Vararuchi** (वररुचि) | Grammar |
+| **Ghatakarpara** (घटकर्पर) | Poetry |
+| **Kshapanaka** (क्षपणक) | Astrology |
+| **Shanku** (शंकु) | Architecture |
+| **Vetala Bhatta** (वेताल भट्ट) | Magic / counsel |
+
+---
+
+
+### Comparative Matrix: Writer ↔ Book
+
+| Writer | Book |
+|--------|------|
+| **Trivikrama Bhatta** (त्रिविक्रम भट्ट) | **Nala Champu** (नल चम्पू) |
+| **Somadeva** (सोमदेव) | **Kathasaritsagara** (कथासरित्सागर) |
+| **Jayadeva** (जयदेव) | **Gita Govinda** (गीत गोविंद) |
+| **Kshemendra** (क्षेमेन्द्र) | **Brihatkathamanjari** (बृहत्कथामंजरी) |
+
+---
+
+## 9.21 Ancient Universities — Full Four-Way Card
+
+| University | Region | Patron / age | Subjects & facts | End / trap |
+|------------|--------|--------------|------------------|------------|
+| **Takshashila (Taxila)** | Gandhara (NW) | Pre-Mauryan; **Chanakya**, **Panini** | Grammar, medicine, politics | Damaged by **Hunas** (~5th c.) |
+| **Nalanda** | Bihar | **Kumaragupta I**; Pala peak | Buddhist philosophy, logic; Xuanzang studied here | **Bakhtiyar Khalji** ~1193 |
+| **Vikramashila** | Bhagalpur belt | **Pala Dharmapala** (~8th c.) | Mahayana, Tantra; **Atisa** taught here | Destroyed ~12th c. |
+| **Vallabhi** | Gujarat | **Maitraka** rulers | Brahmanical + Jain; **Svetambara Jain council** (~5th c.) | Not Vaishali; not Buddhist 2nd council |
+
+---
+
+## 9.15 High-Yield Imperial, Inscriptional & Economic Locks (Ghatnachakra Spines)
+
+| Category | Key Exam Fact / Lock | Exam Context & Trap |
+|---|---|---|
+| **Imperial Genealogy & Titles** | • **Sri Gupta (c. 275 CE)** & **Ghatotkacha** used only *Maharaja*<br>• **Chandragupta I (319–335 CE)**: first *Maharajadhiraja*, founded **Gupta Samvat in 319 CE** | Do not confuse Sri Gupta (founder) with Chandragupta I (real imperial founder) |
+| **Samudragupta Titles & Deeds** | • *Napoleon of India* (V. A. Smith)<br>• *Prithivyah Pratham Veer / Pratiratha* (man without rival on earth)<br>• *Lichchhavi-Dauhitra* (maternal grandson of Lichchhavis)<br>• Permitted **Meghavarman of Ceylon** to build monastery at Bodh Gaya | 6 Gold coin types: Garuda, Archer, Battle-axe, Ashvamedha, Tiger-slayer, Veena / Lyrist |
+| **Chandragupta II Vikramaditya** | • Succeeded Ramagupta; other names: **Devagupta, Devaraja, Devashri**<br>• Defeated last Western Kshatrapa **Rudrasimha III** -> title **Sakari**<br>• Released **silver coins (Rupaka)** weighing **30–33 grains** | Nine Gems (*Navaratnas*): Kalidasa, Dhanvantari, Varahamihira, Amarasimha, Shanku, Kshapanaka, Vararuchi, Vetalabhatta, Ghatakarpara |
+| **Silk Weavers & Advertisement** | **Dashpur / Mandsaur Inscription** of Kumaragupta I & Bandhuvarman: records Sun Temple built & repaired by guild of silk weavers (*Tantuwayas*) from Lata (Gujarat); composed by **Vatsabhatti** | Known as the **first advertisement in the world** |
+| **First Epigraphic Sati** | **Eran Inscription (510 CE)** of Bhanugupta (MP): mentions self-immolation of wife of general **Goparaja** | Earliest undisputed inscriptional evidence of Sati in India |
+| **Towns & Demographics** | **Gradual decline of towns** was a prime feature of Gupta & post-Gupta age; Pataliputra reduced to a village by Hiuen Tsang's time; Mathura, Sonpur, Sohgaura declined | Chinese traveller **Fa-Hien** noted citizens maintained a charitable hospital at Pataliputra; petty daily trade used **clamshells (kaudi)** |
+| **Taxation & Land Types** | • Land revenue = **1/6th of produce** (*Bhaga, Udranga*)<br>• Cash tax = *Hiranya*<br>• Border / extra tax = *Uparika*<br>• Irrigation tax = *Udakabhaga*<br>• Uncultivated forest land = ***Aprahata***<br>• Land measurement units = ***Kulyavapa*** and ***Dronavapa*** | **Vishti** = unpaid forced labour treated as a state tax (mentioned in Junagadh & copper plates) |
+| **Ports & Hoards** | • Eastern port: **Tamralipti** (Bengal) for Southeast Asia, Sri Lanka, China<br>• Western port: **Bhrigukachchha / Bharuch** for Western trade | Largest hoard of Gupta gold coins found at **Bayana (Bharatpur, Rajasthan)** |
+| **Literature, Science & Society** | • **Aryabhatta** (*Aryabhatiya*): Earth's axial rotation causes day and night; trigonometry (sine/cosine)<br>• **Varahamihira**: astronomy (*Brihatsamhita*)<br>• **Brahmagupta**: cyclic quadrilaterals<br>• **Bhaskara II (12th c.)**: *Siddhanta Shiromani* & *Lilavati* (NOT Gupta-age)<br>• **Sudraka**: *Mrichchhakatika* (romance of Charudatta & Vasantasena; Shudras & women speak Prakrit)<br>• **Chaturanga** (Chess) invented in Gupta India | In Sanskrit plays, women and Shudras speak **Prakrit**, while elite males speak **Sanskrit** |
+| **Vakataka Dynasty** | Founder **Vindhyashakti**; actual imperial architect **Pravarasena I** (only ruler with title **Samrat**; performed **4 Ashvamedhas**); Pravarasena II composed ***Setubandha*** | Prabhavatigupta (daughter of Chandragupta II) ruled as Vakataka regent |
+
+---
+
+## UP Focus
+
+| Fact | Place |
+|------|--------|
+| Allahabad / Prayag pillar | Prayagraj — Ashoka + Karuvaki + Harishena + Jahangir |
+| Bhitari Huna pillar | **Ghazipur**, UP — Skandagupta |
+| Bhitargaon brick temple | Kanpur belt |
+| Sarnath Gupta Buddha | Varanasi |
+| Kaushambi origin of the Allahabad shaft | Kaushambi |
+| Fa-Hien’s Ganga plain | includes the UP stretch of the empire |
+| Eran sati / Varaha | Madhya Pradesh (not UP) — still a must-score inscription |
+
+---
+
+
+### Match Matrix: King ↔ Tag
+
+| List-I (King) | List-II (Tag) |
+|---|---|
+| 1. Samudragupta | A. Sakari; ends Western Kshatrapas |
+| 2. Chandragupta II | B. Digvijaya; Prayag Prashasti |
+| 3. Kumaragupta I | C. Nalanda founder-patron |
+| 4. Skandagupta | D. Bhitari Huna war; last great imperial |
+
+---
+
+
+### Match Matrix: Author / Work ↔ Fact
+
+| List-I (Author / work) | List-II (Fact) |
+|---|---|
+| 1. Kalidasa | A. Shringara Shataka |
+| 2. Bhartrihari | B. Chandragupta II court tradition |
+| 3. Somadeva | C. Kathasaritsagara |
+| 4. Jayadeva | D. Gita Govinda |
+
+---
+
+
+### Match Matrix: South / Frontier Match ↔ Place
+
+| List-I (South / frontier match) | List-II (Place) |
+|---|---|
+| 1. Dhananjaya | A. Kanchi |
+| 2. Nilaraja | B. Kusthalapura |
+| 3. Ugrasena | C. Avamukta |
+| 4. Vishnugopa | D. Palaka |
+
+---
 
 ## 🔍 Key Table Observations & Memory Anchors
 

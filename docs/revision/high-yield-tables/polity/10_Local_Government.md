@@ -68,6 +68,32 @@ hide:
 | **Kshetra Panchayat** | **Panchayat Samiti** | UP intermediate name vs generic/other-State label | क्षेत्र पंचायत / पंचायत समिति |
 | **Part IXB co-ops** | **State cooperatives** | 97th insert; SC 2021 — IXB **inoperative for State co-ops** | भाग IXB (सहकारिता) |
 
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| A | Balwant Rai Mehta |
+| B | Ashok Mehta |
+| C | L.M. Singhvi |
+| D | P.K. Thungon |
+
+---
+
+
+### Comparative Matrix: Code ↔ Item
+
+| Code | Item |
+|------|------|
+| 1 | 1957 |
+| 2 | 1977 |
+| 3 | 1986 |
+| 4 | 1988 |
+
+---
+
 
 ### Comparative Matrix: Job ↔ Articles ↔ One Fact
 

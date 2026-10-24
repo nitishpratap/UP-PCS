@@ -723,6 +723,50 @@ Do not swap Ozone Day with Earth Day (22 Apr) or Biodiversity Day (22 May).
 
 ---
 
+## October 2026
+
+### High-Yield October Days & Exact Themes Board
+
+| Date | Day | Official Theme / Slogan | Exam Significance |
+| :--- | :--- | :--- | :--- |
+| **2 Oct** | **International Day of Non-Violence** | Mahatma Gandhi birth anniversary | Observed globally since 2007 (UNGA resolution). |
+| **5 Oct** | **World Teachers' Day** | *"Standing with teachers: valuing teacher voices for education"* | Marks the 1966 ILO/UNESCO Recommendation. |
+| **7 Oct** | **World Cotton Day** | *"Cotton for Good"* | Initiated by Cotton-4 nations (Benin, Burkina Faso, Chad, Mali). |
+| **9 Oct** | **World Post Day** | *"150 years of enabling communication and empowering peoples"* | Marks the 1874 Treaty of Bern establishing Universal Postal Union (UPU, Bern, Switzerland). |
+| **10 Oct** | **World Mental Health Day** | *"It is time to prioritize mental health in the workplace"* | Focus on workplace stress, burnout, and mental well-being. |
+| **11 Oct** | **International Day of the Girl Child** | *"Girls' vision for the future"* | Established by UNGA in 2011; focus on adolescent girls' agency and rights. |
+| **12 Oct** | **World Migratory Bird Day** | *"Protect Insects, Protect Birds"* | Highlights the precipitous decline of insects as critical nourishment for avian flyways. |
+| **13 Oct** | **International Day for Disaster Risk Reduction** | *"Empowering the next generation for a resilient future"* | Sendai Framework for Disaster Risk Reduction (2015–2030) review. |
+| **15 Oct** | **International Day of Rural Women** | *"Rural Women Cultivating Good Food for All"* | Acknowledges women's critical role in agrifood chains. |
+| **16 Oct** | **World Food Day** | *"Right to foods for a better life and a better future"* | Commemorates founding of UN Food and Agriculture Organization (**FAO**, 1945, Rome). |
+| **20 Oct** | **World Statistics Day** | *"Collaborative data for resilient governance"* | Celebrated every five years / statistical awareness. |
+| **24 Oct** | **United Nations Day** & **World Polio Day** | *"A Campaign to Reach Every Child"* (Polio) | Marks entry into force of UN Charter (24 Oct 1945); Jonas Salk birth anniversary (Polio). |
+
+---
+
+### 72nd National Wildlife Week | 2 to 8 October 2026
+
+**What happened**
+The Ministry of Environment, Forest and Climate Change (MoEFCC) and state wildlife departments observed the **72nd National Wildlife Week** from **2 to 8 October 2026**.
+
+**Core facts**
+- **Core Theme:** *"Human–Wildlife Coexistence: Fostering Harmony for Sustainable Living"*.
+- **Initiatives:** Dedicated drives on community-led conflict mitigation, geo-fenced early-warning SMS alerts along elephant and leopard corridors, and school conservation pledges.
+
+---
+
+### UN Biodiversity Summit (CBD COP16) | Cali, Colombia (October 2026)
+
+**What happened**
+The **16th meeting of the Conference of the Parties to the Convention on Biological Diversity (CBD COP16)** convened in **Cali, Colombia**, under the overarching slogan ***"Peace with Nature"***.
+
+**Core facts**
+- **Context:** The first substantive COP following the adoption of the historic **Kunming-Montreal Global Biodiversity Framework (KMGBF)** at COP15 in 2022.
+- **Key Focus:** Reviewing updated National Biodiversity Strategies and Action Plans (**NBSAPs**) and tracking progress on the **"30x30 Target"** (protecting 30% of global land and marine areas by 2030).
+- **Core Stance of Developing Nations:** Demanded operationalisation of the multilateral mechanism for fair and equitable benefit-sharing from the use of **Digital Sequence Information (DSI)** on genetic resources.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

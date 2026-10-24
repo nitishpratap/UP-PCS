@@ -13,6 +13,7 @@ One short digest per month. Detail lives in the topic sheets; digests are only f
 | [July 2026](2026-07.md) | Seeded + gap-fill (Samudra Manthan / Surya Sarovar) |
 | [August 2026](2026-08.md) | Seeded + gap-fill (UP expressways) |
 | [September 2026](2026-09.md) | Seeded (BRICS New Delhi + Asian Games + Ozone/Peace + NFI) |
+| [October 2026](2026-10.md) | Seeded (Nobel 2026 + 51st CJI + Classical Languages + Rabi MSP + Varanasi ₹6.7k cr + Deepotsav) |
 
 !!! tip "Fast revise"
  Before mocks, open [Master fact tables](../00_Master_Tables.md) for Ramsar, VB-G, money, and confused pairs.

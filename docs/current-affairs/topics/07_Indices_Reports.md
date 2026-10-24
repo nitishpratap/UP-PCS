@@ -915,6 +915,66 @@ A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top.
 
 ---
 
+## October 2026
+
+### Global Hunger Index (GHI) 2024/2026 | October Release
+
+**What happened**
+Humanitarian organisations **Concern Worldwide** (Ireland) and **Welthungerhilfe** (Germany) jointly released the **Global Hunger Index (GHI) Report**.
+
+**Core facts & India metrics**
+- **Publishers:** **Welthungerhilfe** and **Concern Worldwide**.
+- **India Rank:** **105th** out of **127 evaluated countries**.
+- **India GHI Score:** **27.3** — placing India in the **"Serious"** hunger severity category (scores between 20.0 and 34.9 are categorized as Serious).
+- **Four Standardized GHI Indicators:**
+  1. **Undernourishment:** **13.7%** of India's population has insufficient caloric intake.
+  2. **Child Stunting:** **35.5%** of children under 5 years suffer from low height-for-age (chronic undernutrition).
+  3. **Child Wasting:** **18.7%** of children under 5 years suffer from low weight-for-height (acute undernutrition) — flagged as one of the highest child wasting rates globally.
+  4. **Child Mortality:** **2.9%** under-five mortality rate.
+- **Regional Comparison:** India is ranked below several South Asian neighbours: Sri Lanka (56th), Nepal (68th), and Bangladesh (84th); but ranks above Pakistan (109th) and Afghanistan (116th).
+
+!!! trap "UPPCS GHI Traps"
+1. **Publisher Trap:** GHI is published by **Welthungerhilfe & Concern Worldwide**, NOT by FAO, UNICEF, or the World Bank.
+2. **Category Trap:** India's category is **"Serious"**, not "Alarming" (scores $\ge 35$) or "Moderate" ($10.0–19.9$).
+
+---
+
+### Global Innovation Index (GII) 2024/2026 | WIPO | October 2026
+
+**What happened**
+The **World Intellectual Property Organization (WIPO)** published the **Global Innovation Index (GII)** (17th edition), assessing 133 global economies under the theme *"Unlocking the Promise of Social Entrepreneurship"*.
+
+**Core rankings & India's performance**
+- **Global Top 3 Economies:**
+  1. **Switzerland** (Rank #1 for the **14th consecutive year**).
+  2. **Sweden** (Rank #2).
+  3. **United States** (Rank #3).
+- **India's Global Rank:** **39th position** out of 133 economies (improving from 40th in 2023 and 81st in 2015) with an overall score of **38.3**.
+- **India's Key Distinctions:**
+  - **#1 in Central and Southern Asia** among all 10 evaluated regional economies.
+  - **#1 among all Lower-Middle-Income economies** globally.
+  - Recognized as an **"innovation overperformer"** relative to its level of economic development for **14 consecutive years**.
+  - Ranks **#1 in the world** in *ICT services exports* (as a percentage of total trade).
+- **India's Top S&T Clusters:** Four Indian clusters featured in the global top 100 Science & Technology hubs:
+  1. **Bengaluru** (56th)
+  2. **Delhi** (63rd)
+  3. **Chennai** (82nd)
+  4. **Mumbai** (84th).
+
+---
+
+### IMF World Economic Outlook (October 2026)
+
+**What happened**
+The **International Monetary Fund (IMF)** released its biannual **World Economic Outlook (WEO)** update titled *"Policy Pivot, Rising Threats"*.
+
+**Core macroeconomic projections**
+- **India's GDP Growth:** Projected at **7.0%** for FY 2024–25 and **6.5%** for FY 2025–26, driven by resilient domestic consumption and public capex.
+- **Fastest-Growing Major Economy:** India retains its distinction as the **fastest-growing major economy in the world** (surpassing China's projected 4.8%).
+- **Global Growth:** Projected steady at **3.2%**.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

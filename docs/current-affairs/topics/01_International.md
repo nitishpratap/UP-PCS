@@ -884,6 +884,62 @@ Do not park the 18th Summit in **Rio** or **Kazan**. Those are older venues. Sep
 
 ---
 
+## October 2026
+
+### 16th BRICS Summit (Kazan, Russia) & Historic India–China LAC Disengagement
+
+**What happened**
+The **16th BRICS Summit** was held in **Kazan, Russia** from **22 to 24 October 2026** under the Russian chairship, themed *"Strengthening Multilateralism for Just Global Development and Security"*. The summit culminated in the adoption of the comprehensive **Kazan Declaration**.
+
+**The Historic India–China Border Breakthrough**
+- **Patrolling Agreement (21 October):** On the eve of the Kazan summit, India and China finalized a breakthrough diplomatic and military agreement on **patrolling arrangements along the Line of Actual Control (LAC)** in eastern Ladakh.
+- **Key Friction Points:** Restores patrolling rights and resolves the military standoffs in the critical sub-sectors of **Depsang Plains and Demchok**, establishing ground disengagement protocols that defused the border confrontation persisting since the Galwan clash in May 2020.
+- **Modi–Xi Bilateral Meeting (23 October):** Prime Minister **Narendra Modi** and Chinese President **Xi Jinping** held their **first formal, structured bilateral meeting in five years** on the sidelines in Kazan.
+- **Key Directives:** Directed the Special Representatives on the Boundary Question (**Ajit Doval** for India and **Wang Yi** for China) and Foreign Ministries to meet early to stabilize overall bilateral ties.
+
+**Key BRICS Summit Outcomes**
+- **Partner Country Category:** BRICS officially endorsed and created a new status of **"Partner Countries"** (providing a stepping-stone framework for emerging economies without diluting full member consensus).
+- **Financial Architecture:** Leaders called for the study of the **BRICS Cross-Border Payment Initiative (BCBPI)**, alternative local-currency settlement mechanisms, and strengthening the New Development Bank (NDB).
+
+!!! trap "UPPCS BRICS Venue Alert"
+- **16th BRICS Summit (October):** **Kazan, Russia**.
+- **17th BRICS Summit (2025):** **Rio de Janeiro, Brazil**.
+- **18th BRICS Summit (September 2026):** **Bharat Mandapam, New Delhi (India)**.
+
+---
+
+### 23rd SCO Council of Heads of Government Summit | Islamabad, Pakistan (15–16 October 2026)
+
+**What happened**
+The **23rd Meeting of the Council of Heads of Government (CHG)** of the Shanghai Cooperation Organisation (SCO) was held in **Islamabad, Pakistan**, chaired by Pakistani Prime Minister Shehbaz Sharif.
+
+**Historic Indian Diplomatic Milestone**
+- **Indian Representation:** India was represented by External Affairs Minister **Dr. S. Jaishankar**.
+- **9-Year Landmark:** Marked the **first visit by an Indian External Affairs Minister to Pakistan in 9 years** (since Sushma Swaraj attended the *Heart of Asia – Istanbul Process* ministerial in Islamabad in December 2015).
+- **Core Indian Stance:**
+  - Emphasised that regional connectivity initiatives must strictly adhere to the principles of **sovereignty and territorial integrity** (veiled reference to CPEC violating India's sovereignty in PoK).
+  - Reaffirmed zero tolerance against the **"three evils" of terrorism, extremism, and separatism** under the SCO Regional Anti-Terrorist Structure (RATS).
+  - Pitched for digital public infrastructure (DPI), affordable healthcare, and climate cooperation within the SCO.
+
+---
+
+### 44th & 45th ASEAN Summits & 19th East Asia Summit | Vientiane, Laos
+
+**What happened**
+Prime Minister **Narendra Modi** attended the **21st ASEAN–India Summit** and the **19th East Asia Summit (EAS)** in **Vientiane, Lao PDR** (under Laos' 2026 ASEAN Chairship, themed *"ASEAN: Enhancing Connectivity and Resilience"*).
+
+**Key facts & 10 Years of Act East Policy**
+- **Milestone:** Year 2024–2026 marks **10 years of India's 'Act East' Policy** (launched in 2014 by PM Modi, upgrading the earlier 1991 'Look East' policy).
+- **10-Point Plan for India–ASEAN Ties:** PM Modi announced a comprehensive 10-point roadmap including:
+  1. Celebration of **Year of Tourism** between ASEAN and India.
+  2. Doubling of scholarships at Nalanda University for ASEAN students.
+  3. Digital connectivity expansion via Digital Public Infrastructure (UPI / fast-payment links).
+  4. Disaster resilience partnership with the ASEAN Coordinating Centre for Humanitarian Assistance (AHA Centre).
+  5. Science and green hydrogen research collaboration.
+- **Review of AITIGA:** Emphasized the timely conclusion of the review of the **ASEAN–India Trade in Goods Agreement (AITIGA)** by 2025–26 to make trade more balanced and resilient.
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.

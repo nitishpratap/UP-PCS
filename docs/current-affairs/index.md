@@ -1,5 +1,9 @@
 # Current Affairs
 
+[:material-translate: हिन्दी संस्करण (Hindi Medium)](hindi/index.md){ .md-button .md-button--primary }
+
+---
+
 This is the **living Current Affairs desk** for UPPCS Prelims. Static GS stays in Subject Notes; CA weight, reading facts, and monthly updates live here.
 
 Use it in three situations:
@@ -82,6 +86,9 @@ Use it in three situations:
 [**September 2026 digest**
 <span>BRICS New Delhi Declaration, UNGA 81st, Asian Games kabaddi double, Ozone/Peace themes, NFI 2026.</span>](topics/months/2026-09.md){ .study-card }
 
+[**October 2026 digest**
+<span>Nobel Prizes 2026, 5 Classical Languages, 51st CJI Khanna, Rabi MSP hike, Varanasi ₹6,700 cr, Ayodhya Deepotsav.</span>](topics/months/2026-10.md){ .study-card }
+
 </div>
 
 ---
@@ -89,8 +96,8 @@ Use it in three situations:
 ## Pipeline (your plan)
 
 1. **Analysis** — PDF + transcript, reconciled with repo PYQs.
-2. **Monthly sheets** — live from **January 2026** through **September 2026**.
-3. **Next:** October 2026 (GST Council process reforms + Asian Games final tally); then Complete CA PYQ Bank.
+2. **Monthly sheets** — live from **January 2026** through **October 2026** (synced till today).
+3. **Next:** Complete CA PYQ Bank; then November 2026 monthly sync.
 4. **Goal:** approach **~90% correct** on CA stems by reading only what UPPCS actually tests.
 
 !!! tip "Source files"

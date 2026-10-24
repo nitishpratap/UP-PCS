@@ -147,6 +147,25 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 - **India's First Gold in World Para Athletics High Jump T63**: Won by **Shailesh Kumar** with an Asian & Championship record clearance of **1.91 metres**.
 - **First Leader from the BJP to become Bihar Chief Minister**: **Samrat Choudhary** (sworn in as 24th CM on 15 April 2026).
 
+---
+
+## October 2026
+
+### High-Yield Firsts & Records (October 2026)
+
+- **First-Ever Mid-Air Booster Catch in Aerospace History:** On **13 October 2026**, SpaceX's **Starship Flight 5** successfully recovered its 71-metre-tall Super Heavy rocket booster mid-air using the dual mechanical arms ("chopsticks") of the Mechazilla launch tower at Starbase in Boca Chica, Texas.
+- **First Time 5 Languages Granted Classical Status Simultaneously:** The Union Cabinet approved Classical Language status for **Marathi, Pali, Prakrit, Assamese, and Bengali** together on **3 October 2026**, bringing India's total from 6 to **11**.
+- **First Chief Minister of the Union Territory of Jammu and Kashmir:** **Omar Abdullah** was sworn in on **16 October 2026** as the first CM of the UT following the 2019 reorganisation.
+- **First South Korean Nobel Laureate in Literature:** Novelist **Han Kang** (*The Vegetarian*, *Human Acts*) became the first South Korean writer and the first Asian woman to win the Nobel Prize in Literature.
+- **First Maiden ICC Women's T20 World Cup for New Zealand:** New Zealand defeated South Africa by 32 runs in Dubai on **20 October 2026** to claim their first-ever women's T20 World Cup title.
+- **Dual Guinness World Records at Ayodhya Deepotsav:**
+  1. Record **26,17,215 (over 26.17 lakh) earthen diyas** illuminated across 56 ghats along the Saryu River.
+  2. Record **2,128 priests** performing a simultaneous, synchronized Saryu Maha Aarti.
+- **First Indian EAM Visit to Pakistan in 9 Years:** External Affairs Minister **Dr. S. Jaishankar** travelled to Islamabad for the 23rd SCO Council of Heads of Government meeting (15–16 October 2026), the first visit by an Indian EAM since December 2015.
+- **India's 2nd Naval VLF Transmission Station:** Foundation stone laid at **Damagundam Forest, Vikarabad (Telangana)** for submarine communication (second to **INS Kattabomman**, Tirunelveli, TN).
+
+---
+
 ## Practice Zone — UPPCS Format
 
 > **20 questions** for this sheet only — drill after you revise the months above.
