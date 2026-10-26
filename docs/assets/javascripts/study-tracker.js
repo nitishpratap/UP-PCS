@@ -2501,6 +2501,86 @@
     return false;
   }
 
+  // Deep Research & Question Pattern Categorizers
+  function isAssertionReason(q) {
+    if (!q) return false;
+    const text = `${q.q_header || ''} ${q.stem || ''}`;
+    return (/\b(?:assertion|reason|कथन|कारण)\b/i.test(text) && /\b(?:code|codes|कूट)\b/i.test(text)) ||
+           (/\(A\)\s*[:\-–]/i.test(text) && /\(R\)\s*[:\-–]/i.test(text)) ||
+           /\bAssertion\s*\(?A\)?/i.test(text) ||
+           (/\bStatement\s*\(?1\)?/i.test(text) && /\bStatement\s*\(?2\)?/i.test(text));
+  }
+
+  function isMatchList(q) {
+    if (!q) return false;
+    const text = `${q.q_header || ''} ${q.stem || ''}`;
+    return /\b(?:match\s+list|सूची\s*[-–I1]|list\s*[-–I1].*list\s*[-–II2]|सुमेलित\s*कीजिए|Match\s+the\s+following)\b/i.test(text);
+  }
+
+  function isNegativeTrap(q) {
+    if (!q) return false;
+    const text = `${q.q_header || ''} ${q.stem || ''}`;
+    return /\b(?:NOT\s+correct|NOT\s+true|NOT\s+matched|incorrect|सत्य\s+नहीं|सुमेलित\s+नहीं|सही\s+नहीं)\b/i.test(text);
+  }
+
+  function isRecentPattern(q) {
+    if (!q) return false;
+    const text = `${q.q_header || ''} ${q.stem || ''}`;
+    return /\b(201[8-9]|202[0-9])\b/.test(text);
+  }
+
+  function isUPPCSPre(q) {
+    if (!isUPExamQuestion(q)) return false;
+    const h = `${q.q_header || ''} ${q.stem || ''}`;
+    return /\b(?:U\.?P\.?P\.?C\.?S\.?|UPPCS|UP\s*PCS)\b/i.test(h) && /\b(?:Pre|Prelims|प्रारंभिक)\b/i.test(h) && !/Mains|मुख्य/i.test(h);
+  }
+
+  function isUPPCSMains(q) {
+    if (!isUPExamQuestion(q)) return false;
+    const h = `${q.q_header || ''} ${q.stem || ''}`;
+    return /Mains|मुख्य/i.test(h) && !/RO\s*\/\s*ARO/i.test(h);
+  }
+
+  function isUPROARO(q) {
+    if (!isUPExamQuestion(q)) return false;
+    const h = `${q.q_header || ''} ${q.stem || ''}`;
+    return /\b(?:RO\s*\/\s*ARO|RO\/ARO|R\.?O\.?\s*(?:\/|\s*and\s*)\s*A\.?R\.?O|Samiksha|समीक्षा\s*अधिकारी)\b/i.test(h);
+  }
+
+  function cleanHtmlToMarkdown(html) {
+    if (!html) return '';
+    return html
+      .replace(/<details[\s\S]*?<\/details>/gi, '')
+      .replace(/<br\s*\/?>/gi, '\n')
+      .replace(/<\/p>/gi, '\n\n')
+      .replace(/<strong[^>]*>([\s\S]*?)<\/strong>/gi, '**$1**')
+      .replace(/<b[^>]*>([\s\S]*?)<\/b>/gi, '**$1**')
+      .replace(/<em[^>]*>([\s\S]*?)<\/em>/gi, '*$1*')
+      .replace(/<[^>]+>/g, '')
+      .replace(/&amp;/g, '&')
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;/g, '\'')
+      .replace(/\n{3,}/g, '\n\n')
+      .trim();
+  }
+
+  function formatQuestionToMarkdown(q, index) {
+    if (!q) return '';
+    const num = index != null ? (index + 1) : (q.q_num || 1);
+    const header = q.q_header ? `**${q.q_header}**\n\n` : '';
+    const stem = (q.stem || '').trim();
+    const opts = q.options || {};
+    const optLines = ['A', 'B', 'C', 'D']
+      .filter(letter => Boolean(opts[letter]))
+      .map(letter => `${letter}. ${opts[letter]}`)
+      .join('\n');
+    const expl = cleanHtmlToMarkdown(q.explanation_html || q.explanation || '');
+
+    return `### Q${num}. ${header ? header.trim() : `Question ${num}`}\n\n${stem}\n\n${optLines}\n\n<details>\n<summary><strong>Correct Answer: Option ${q.correct_answer || 'N/A'}</strong></summary>\n\n${expl || `Ans: Option ${q.correct_answer}`}\n\n</details>\n`;
+  }
+
   function repairQuestionOptions(q) {
     if (!q || typeof q !== 'object') return q;
     let stem = q.stem || '';
@@ -5440,6 +5520,13 @@
 
       // Group questions by source & UP Exam filter
       const upList = loadedQuestions.filter(q => isUPExamQuestion(q));
+      const uppcsPreList = loadedQuestions.filter(q => isUPPCSPre(q));
+      const mainsList = loadedQuestions.filter(q => isUPPCSMains(q));
+      const roList = loadedQuestions.filter(q => isUPROARO(q));
+      const arList = loadedQuestions.filter(q => isAssertionReason(q));
+      const matchList = loadedQuestions.filter(q => isMatchList(q));
+      const negList = loadedQuestions.filter(q => isNegativeTrap(q));
+      const recentList = loadedQuestions.filter(q => isRecentPattern(q));
       const pyqList = loadedQuestions.filter(q => categorizeQuestion(q) === 'pyqs');
       const gcList = loadedQuestions.filter(q => categorizeQuestion(q) === 'ghatnachakra');
       let practiceList = loadedQuestions.filter(q => categorizeQuestion(q) === 'practice');
@@ -5455,6 +5542,7 @@
         ? 'up_exams'
         : (upList.length > 0 ? 'up_exams' : 'all');
       let activePool = (activeCategory === 'up_exams') ? upList : [...loadedQuestions];
+      let selectedQuestionOrder = 'standard';
 
       const existingBackup = getQuizSessionBackup();
       const canResume = existingBackup &&
@@ -5466,11 +5554,12 @@
       const html = `
         <div class="st-test-launcher">
           <div class="st-launcher-hero">
-            <h3>🎯 Chapter Live Practice Test</h3>
+            <h3>🎯 Chapter Live Practice &amp; Deep Research</h3>
             <p>Topic: <strong>${topicInfo.title}</strong> (${topicInfo.subject.toUpperCase()})</p>
             <div class="st-launcher-stats">
               <span>📚 <strong>${totalQs}</strong> Questions in Database</span>
-              <span>⚖️ <strong>+1.33</strong> Correct / <strong>-0.44</strong> (1/3rd Negative)</span>
+              <span>🚩 <strong>${upList.length}</strong> UP Exams</span>
+              <span>⚖️ <strong>+1.33</strong> / <strong>-0.44</strong> (1/3rd Negative)</span>
             </div>
           </div>
 
@@ -5491,10 +5580,10 @@
             </div>
           ` : ''}
 
-          <!-- Question Source Filter Pills & Dropdown -->
+          <!-- Question Source & Deep Research Filter Pills -->
           <div class="st-form-group">
             <label class="st-launcher-label" for="st-q-source-select">
-              <strong>🎯 Select Practice Category / Exam Focus:</strong>
+              <strong>🎯 Primary Focus Categories:</strong>
             </label>
             <div class="st-launcher-filter-pills" id="st-launcher-filter-pills">
               ${upList.length > 0 ? `
@@ -5522,15 +5611,72 @@
               ` : ''}
             </div>
 
+            <!-- Deep Research & Pattern Filter Row -->
+            ${(arList.length > 0 || matchList.length > 0 || negList.length > 0 || recentList.length > 0 || uppcsPreList.length > 0 || roList.length > 0 || mainsList.length > 0) ? `
+              <div style="margin-top: 0.65rem;">
+                <label class="st-launcher-label" style="font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--md-default-fg-color--light);">
+                  <strong>🔬 Deep Research &amp; Pattern Filters:</strong>
+                </label>
+                <div class="st-launcher-filter-pills" id="st-launcher-research-pills" style="margin-top: 0.25rem;">
+                  ${arList.length > 0 ? `
+                    <button type="button" class="st-filter-pill st-filter-pill-pattern ${activeCategory === 'ar' ? 'is-active' : ''}" data-cat="ar">
+                      ⚠️ Assertion &amp; Reason (${arList.length})
+                    </button>
+                  ` : ''}
+                  ${matchList.length > 0 ? `
+                    <button type="button" class="st-filter-pill st-filter-pill-pattern ${activeCategory === 'match' ? 'is-active' : ''}" data-cat="match">
+                      🔗 Match the Columns (${matchList.length})
+                    </button>
+                  ` : ''}
+                  ${negList.length > 0 ? `
+                    <button type="button" class="st-filter-pill st-filter-pill-pattern ${activeCategory === 'neg' ? 'is-active' : ''}" data-cat="neg">
+                      ❌ "NOT Correct" Traps (${negList.length})
+                    </button>
+                  ` : ''}
+                  ${recentList.length > 0 ? `
+                    <button type="button" class="st-filter-pill st-filter-pill-pattern ${activeCategory === 'recent' ? 'is-active' : ''}" data-cat="recent">
+                      🔥 Recent Trend 2018–2025 (${recentList.length})
+                    </button>
+                  ` : ''}
+                  ${uppcsPreList.length > 0 ? `
+                    <button type="button" class="st-filter-pill st-filter-pill-up ${activeCategory === 'uppcs_pre' ? 'is-active' : ''}" data-cat="uppcs_pre">
+                      🏛️ UPPCS Pre Only (${uppcsPreList.length})
+                    </button>
+                  ` : ''}
+                  ${roList.length > 0 ? `
+                    <button type="button" class="st-filter-pill st-filter-pill-up ${activeCategory === 'ro_aro' ? 'is-active' : ''}" data-cat="ro_aro">
+                      ⚖️ RO/ARO Only (${roList.length})
+                    </button>
+                  ` : ''}
+                  ${mainsList.length > 0 ? `
+                    <button type="button" class="st-filter-pill st-filter-pill-up ${activeCategory === 'mains' ? 'is-active' : ''}" data-cat="mains">
+                      📜 UPPCS Mains Objective (${mainsList.length})
+                    </button>
+                  ` : ''}
+                </div>
+              </div>
+            ` : ''}
+
             <div class="st-select-wrapper" style="margin-top: 0.65rem;">
               <select class="st-select" id="st-q-source-select">
-                ${upList.length > 0 ? `
-                  <option value="up_exams" ${activeCategory === 'up_exams' ? 'selected' : ''}>🚩 U.P. Exams Only (${upList.length} Questions) — UPPCS Pre/Mains, RO/ARO</option>
-                ` : ''}
-                <option value="all" ${activeCategory === 'all' ? 'selected' : ''}>All Available Questions (${totalQs} Total)</option>
-                <option value="pyqs" ${activeCategory === 'pyqs' ? 'selected' : ''}>🏛️ UPPCS & State PSC PYQs (${pyqList.length} Questions)</option>
-                <option value="ghatnachakra" ${activeCategory === 'ghatnachakra' ? 'selected' : ''}>📖 Ghatnachakra Purvavlokan Bank (${gcList.length} Questions)</option>
-                <option value="practice" ${activeCategory === 'practice' ? 'selected' : ''}>🎯 Practice Zone / Topic Drills (${practiceList.length} Questions)</option>
+                <optgroup label="Core Focus">
+                  ${upList.length > 0 ? `
+                    <option value="up_exams" ${activeCategory === 'up_exams' ? 'selected' : ''}>🚩 U.P. Exams Only (${upList.length} Questions) — UPPCS Pre/Mains, RO/ARO</option>
+                  ` : ''}
+                  <option value="all" ${activeCategory === 'all' ? 'selected' : ''}>All Available Questions (${totalQs} Total)</option>
+                  ${pyqList.length > 0 ? `<option value="pyqs" ${activeCategory === 'pyqs' ? 'selected' : ''}>🏛️ UPPCS &amp; State PSC PYQs (${pyqList.length} Questions)</option>` : ''}
+                  ${gcList.length > 0 ? `<option value="ghatnachakra" ${activeCategory === 'ghatnachakra' ? 'selected' : ''}>📖 Ghatnachakra Purvavlokan Bank (${gcList.length} Questions)</option>` : ''}
+                  ${practiceList.length > 0 ? `<option value="practice" ${activeCategory === 'practice' ? 'selected' : ''}>🎯 Practice Zone / Topic Drills (${practiceList.length} Questions)</option>` : ''}
+                </optgroup>
+                <optgroup label="Deep Research &amp; Question Patterns">
+                  ${arList.length > 0 ? `<option value="ar" ${activeCategory === 'ar' ? 'selected' : ''}>⚠️ Assertion &amp; Reason / Conceptual Statement Questions (${arList.length} Qs)</option>` : ''}
+                  ${matchList.length > 0 ? `<option value="match" ${activeCategory === 'match' ? 'selected' : ''}>🔗 Match List-I with List-II Pairs (${matchList.length} Qs)</option>` : ''}
+                  ${negList.length > 0 ? `<option value="neg" ${activeCategory === 'neg' ? 'selected' : ''}>❌ Negative / "NOT Correct" Question Traps (${negList.length} Qs)</option>` : ''}
+                  ${recentList.length > 0 ? `<option value="recent" ${activeCategory === 'recent' ? 'selected' : ''}>🔥 Recent Trend Pattern Questions (2018–2025) (${recentList.length} Qs)</option>` : ''}
+                  ${uppcsPreList.length > 0 ? `<option value="uppcs_pre" ${activeCategory === 'uppcs_pre' ? 'selected' : ''}>🏛️ UPPCS Prelims GS-1 Specific (${uppcsPreList.length} Qs)</option>` : ''}
+                  ${roList.length > 0 ? `<option value="ro_aro" ${activeCategory === 'ro_aro' ? 'selected' : ''}>⚖️ UP RO / ARO Samiksha Adhikari Specific (${roList.length} Qs)</option>` : ''}
+                  ${mainsList.length > 0 ? `<option value="mains" ${activeCategory === 'mains' ? 'selected' : ''}>📜 UPPCS Mains Objective GS (${mainsList.length} Qs)</option>` : ''}
+                </optgroup>
               </select>
               <div class="st-category-hint" id="st-category-hint">
                 ${activeCategory === 'up_exams'
@@ -5548,26 +5694,44 @@
             </div>
           </div>
 
+          <!-- Select Question Order (Chronological vs Random) -->
+          <div class="st-form-group">
+            <label class="st-launcher-label"><strong>🔀 Question Sequence:</strong></label>
+            <div class="st-mode-buttons" id="st-q-order-selector">
+              <button type="button" class="st-mode-btn is-selected" data-order="standard">📜 Standard Chronological</button>
+              <button type="button" class="st-mode-btn" data-order="random">🎲 Random Shuffle</button>
+            </div>
+          </div>
+
           <!-- Select Test Mode -->
           <div class="st-form-group">
-            <label class="st-launcher-label"><strong>⚙️ Select Test Mode:</strong></label>
+            <label class="st-launcher-label"><strong>⚙️ Select Practice &amp; Research Mode:</strong></label>
             <div class="st-test-mode-grid" id="st-test-mode-selector">
               <div class="st-test-mode-card is-selected" data-mode="exam">
                 <div class="st-tm-title">⏱️ Real Exam CBT Mode</div>
-                <div class="st-tm-desc">Official timer, question palette, 1/3rd negative marking (-0.44), scorecard & mistake radar</div>
+                <div class="st-tm-desc">Official timer, question palette, 1/3rd negative marking (-0.44), scorecard &amp; mistake radar</div>
               </div>
               <div class="st-test-mode-card" data-mode="practice">
                 <div class="st-tm-title">💡 Practice Drill Mode</div>
-                <div class="st-tm-desc">Instant answer verification & explanation logic shown immediately upon clicking an option</div>
+                <div class="st-tm-desc">Instant answer verification &amp; explanation logic shown immediately upon clicking an option</div>
+              </div>
+              <div class="st-test-mode-card" data-mode="research">
+                <div class="st-tm-title">🔬 Deep Research &amp; Study Mode</div>
+                <div class="st-tm-desc">Direct full-reveal study view with verified keys, official UPPSC explanations &amp; 1-click Markdown copy for notes</div>
               </div>
             </div>
           </div>
 
-          <div class="st-form-actions st-launcher-actions">
+          <div class="st-form-actions st-launcher-actions" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem;">
             <button type="button" class="st-btn st-btn-outline" id="st-cancel-test-launch">Cancel</button>
-            <button type="button" class="st-btn st-btn-primary" id="st-btn-begin-test">
-              🚀 Start Live Test
-            </button>
+            <div style="display: flex; gap: 0.5rem; align-items: center;">
+              <button type="button" class="st-btn st-btn-outline" id="st-btn-export-launcher-sheet" title="Export all filtered questions as Markdown note sheet">
+                📑 Export Research Sheet
+              </button>
+              <button type="button" class="st-btn st-btn-primary" id="st-btn-begin-test">
+                🚀 Start Live Test
+              </button>
+            </div>
           </div>
         </div>
       `;
@@ -5599,7 +5763,7 @@
 
         const n = pool.length;
         if (n === 0) {
-          countSelector.innerHTML = `<div style="grid-column: 1/-1; color: var(--md-default-fg-color--light); font-size: 0.85rem; padding: 0.5rem 0;">No questions found in this specific category for this chapter. Please select "All Questions".</div>`;
+          countSelector.innerHTML = `<div style="grid-column: 1/-1; color: var(--md-default-fg-color--light); font-size: 0.85rem; padding: 0.5rem 0;">No questions found matching this filter in this chapter. Please choose another category.</div>`;
           questionSubset = [];
           return;
         }
@@ -5639,6 +5803,15 @@
       // Initial count pills rendering
       refreshCountPills(activePool);
 
+      // Question Order Selection
+      document.querySelectorAll('#st-q-order-selector .st-mode-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('#st-q-order-selector .st-mode-btn').forEach(b => b.classList.remove('is-selected'));
+          btn.classList.add('is-selected');
+          selectedQuestionOrder = btn.dataset.order || 'standard';
+        });
+      });
+
       // Category application function for both pills and dropdown
       const sourceSelect = document.getElementById('st-q-source-select');
       const categoryHint = document.getElementById('st-category-hint');
@@ -5647,8 +5820,8 @@
         activeCategory = cat;
         if (sourceSelect) sourceSelect.value = cat;
 
-        // Sync visual active state on filter pills
-        document.querySelectorAll('#st-launcher-filter-pills .st-filter-pill').forEach(pill => {
+        // Sync visual active state on filter pills across both containers
+        document.querySelectorAll('#st-launcher-filter-pills .st-filter-pill, #st-launcher-research-pills .st-filter-pill').forEach(pill => {
           if (pill.dataset.cat === cat) pill.classList.add('is-active');
           else pill.classList.remove('is-active');
         });
@@ -5660,11 +5833,32 @@
               ? `🚩 Filtered strictly to <strong>${upList.length}</strong> official U.P. Exams questions (UPPCS Pre/Mains, RO/ARO, Lower Subordinate).`
               : `Note: 0 UP Exams questions tagged in this chapter note. Loaded all ${totalQs} questions.`;
           }
+        } else if (activeCategory === 'uppcs_pre') {
+          activePool = uppcsPreList.length > 0 ? uppcsPreList : [...loadedQuestions];
+          if (categoryHint) categoryHint.innerHTML = `🏛️ Filtered to <strong>${uppcsPreList.length}</strong> UPPCS Prelims General Studies Paper-1 questions.`;
+        } else if (activeCategory === 'ro_aro') {
+          activePool = roList.length > 0 ? roList : [...loadedQuestions];
+          if (categoryHint) categoryHint.innerHTML = `⚖️ Filtered to <strong>${roList.length}</strong> UP RO/ARO (Samiksha Adhikari) examination questions.`;
+        } else if (activeCategory === 'mains') {
+          activePool = mainsList.length > 0 ? mainsList : [...loadedQuestions];
+          if (categoryHint) categoryHint.innerHTML = `📜 Filtered to <strong>${mainsList.length}</strong> UPPCS Mains Objective General Studies questions.`;
+        } else if (activeCategory === 'ar') {
+          activePool = arList.length > 0 ? arList : [...loadedQuestions];
+          if (categoryHint) categoryHint.innerHTML = `⚠️ Filtered to <strong>${arList.length}</strong> Assertion &amp; Reason / Conceptual Statement questions.`;
+        } else if (activeCategory === 'match') {
+          activePool = matchList.length > 0 ? matchList : [...loadedQuestions];
+          if (categoryHint) categoryHint.innerHTML = `🔗 Filtered to <strong>${matchList.length}</strong> Match List-I with List-II pairing questions.`;
+        } else if (activeCategory === 'neg') {
+          activePool = negList.length > 0 ? negList : [...loadedQuestions];
+          if (categoryHint) categoryHint.innerHTML = `❌ Filtered to <strong>${negList.length}</strong> "NOT Correct" / "NOT Matched" trap questions.`;
+        } else if (activeCategory === 'recent') {
+          activePool = recentList.length > 0 ? recentList : [...loadedQuestions];
+          if (categoryHint) categoryHint.innerHTML = `🔥 Filtered to <strong>${recentList.length}</strong> recent UPPSC pattern questions (2018–2025).`;
         } else if (activeCategory === 'pyqs') {
           activePool = pyqList.length > 0 ? pyqList : [...loadedQuestions];
           if (categoryHint) {
             categoryHint.innerHTML = pyqList.length > 0 
-              ? `Filtered to <strong>${pyqList.length}</strong> official UPPCS & State PSC Past Year Questions.`
+              ? `Filtered to <strong>${pyqList.length}</strong> official UPPCS &amp; State PSC Past Year Questions.`
               : `Note: 0 standalone PYQs tagged in this chapter note. Loaded all ${totalQs} questions.`;
           }
         } else if (activeCategory === 'ghatnachakra') {
@@ -5693,7 +5887,7 @@
 
       sourceSelect?.addEventListener('change', (e) => applyCategory(e.target.value));
 
-      document.querySelectorAll('#st-launcher-filter-pills .st-filter-pill').forEach(pill => {
+      document.querySelectorAll('#st-launcher-filter-pills .st-filter-pill, #st-launcher-research-pills .st-filter-pill').forEach(pill => {
         pill.addEventListener('click', () => applyCategory(pill.dataset.cat));
       });
 
@@ -5706,12 +5900,23 @@
         });
       });
 
+      // Export Research Sheet from Launcher
+      document.getElementById('st-btn-export-launcher-sheet')?.addEventListener('click', () => {
+        openExportResearchModal(activePool, topicInfo);
+      });
+
       document.getElementById('st-cancel-test-launch')?.addEventListener('click', closeModal);
       document.getElementById('st-btn-begin-test')?.addEventListener('click', () => {
         if (questionSubset.length === 0) {
           alert('Please select at least 1 question to start the test.');
           return;
         }
+
+        // Apply shuffle if selected
+        if (selectedQuestionOrder === 'random') {
+          questionSubset = [...questionSubset].sort(() => Math.random() - 0.5);
+        }
+
         startActiveQuiz();
       });
     }
@@ -5814,11 +6019,17 @@
           <div class="st-quiz-topbar">
             <div class="st-quiz-progress-text">
               Question <strong>${currentQuestionIndex + 1}</strong> of <strong>${total}</strong>
+              ${testMode === 'research' ? '<span class="st-research-mode-tag">🔬 Research Mode</span>' : ''}
             </div>
             <div class="st-quiz-timer" id="st-quiz-timer">⏱️ 00:00</div>
-            <button type="button" class="st-btn st-btn-primary st-btn-sm" id="st-quiz-finish-early">
-              🏁 Submit Test
-            </button>
+            <div style="display: flex; gap: 0.5rem; align-items: center;">
+              <button type="button" class="st-btn st-btn-outline st-btn-sm" id="st-quiz-export-sheet" title="Export this question set as Markdown study sheet">
+                📑 Export Sheet
+              </button>
+              <button type="button" class="st-btn st-btn-primary st-btn-sm" id="st-quiz-finish-early">
+                ${testMode === 'research' ? '🏁 Finish Research' : '🏁 Submit Test'}
+              </button>
+            </div>
           </div>
 
           <!-- Progress Bar -->
@@ -5847,7 +6058,10 @@
                   const isSelected = userChoice === opt;
                   let extraClass = '';
 
-                  if (testMode === 'practice' && userChoice) {
+                  if (testMode === 'research') {
+                    if (opt === q.correct_answer) extraClass = 'is-correct-reveal';
+                    else if (isSelected) extraClass = 'is-wrong-reveal';
+                  } else if (testMode === 'practice' && userChoice) {
                     if (opt === q.correct_answer) extraClass = 'is-correct-reveal';
                     else if (isSelected) extraClass = 'is-wrong-reveal';
                   } else if (isSelected) {
@@ -5863,10 +6077,15 @@
                 }).join('')}
               </div>
 
-              <!-- Practice Mode Instant Explanation -->
-              ${testMode === 'practice' && userChoice ? `
-                <div class="st-practice-explanation">
-                  <h4>${userChoice === q.correct_answer ? '🟢 Correct Answer!' : '🔴 Incorrect!'}</h4>
+              <!-- Explanation Block (Shown in Research Mode or after picking in Practice Mode) -->
+              ${(testMode === 'research' || (testMode === 'practice' && userChoice)) ? `
+                <div class="st-practice-explanation ${testMode === 'research' ? 'st-research-explanation' : ''}">
+                  <div class="st-research-head" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; flex-wrap: wrap; gap: 0.5rem;">
+                    <h4 style="margin: 0;">${testMode === 'research' ? `🎯 Verified Key: Option ${q.correct_answer}` : (userChoice === q.correct_answer ? '🟢 Correct Answer!' : '🔴 Incorrect!')}</h4>
+                    <button type="button" class="st-btn-copy-md" id="st-copy-q-md" title="Copy question and explanation in Markdown format">
+                      📋 Copy Question (MD)
+                    </button>
+                  </div>
                   <div class="st-practice-expl-content">${typeof window.formatStudyExplanation === 'function' ? window.formatStudyExplanation(q.explanation || ('Correct Answer: ' + q.correct_answer)) : (q.explanation || ('Answer: ' + q.correct_answer))}</div>
                 </div>
               ` : ''}
@@ -5888,7 +6107,7 @@
 
                 ${currentQuestionIndex === total - 1 ? `
                   <button type="button" class="st-btn st-btn-primary" id="st-quiz-submit-btn">
-                    🏁 Submit Test
+                    ${testMode === 'research' ? '🏁 Finish Research' : '🏁 Submit Test'}
                   </button>
                 ` : `
                   <button type="button" class="st-btn st-btn-primary" id="st-quiz-next">
@@ -5953,6 +6172,29 @@
         });
       });
 
+      // Bind Copy Markdown button
+      document.getElementById('st-copy-q-md')?.addEventListener('click', () => {
+        const md = formatQuestionToMarkdown(q, currentQuestionIndex);
+        const btn = document.getElementById('st-copy-q-md');
+        navigator.clipboard.writeText(md).then(() => {
+          if (btn) {
+            btn.textContent = '✔ Copied!';
+            btn.classList.add('is-copied');
+            setTimeout(() => {
+              btn.textContent = '📋 Copy Question (MD)';
+              btn.classList.remove('is-copied');
+            }, 2000);
+          }
+        }).catch(err => {
+          console.error('Clipboard write failed:', err);
+        });
+      });
+
+      // Bind Top Bar Export Sheet button
+      document.getElementById('st-quiz-export-sheet')?.addEventListener('click', () => {
+        openExportResearchModal(questionSubset, topicInfo);
+      });
+
       // Clear Choice
       document.getElementById('st-btn-clear-choice')?.addEventListener('click', () => {
         delete selectedAnswers[q.q_id];
@@ -5999,6 +6241,143 @@
 
       document.getElementById('st-quiz-finish-early')?.addEventListener('click', confirmAndSubmitTest);
       document.getElementById('st-quiz-submit-btn')?.addEventListener('click', confirmAndSubmitTest);
+    }
+
+    // Modal to Export Question Sheet in Markdown and Printable format
+    function openExportResearchModal(questions, tInfo) {
+      if (!questions || questions.length === 0) {
+        alert('No questions available in the current selection to export.');
+        return;
+      }
+
+      const title = tInfo?.title || 'Chapter Question Sheet';
+      const subject = (tInfo?.subject || 'General Studies').toUpperCase();
+      const count = questions.length;
+
+      const mdLines = [
+        `# ${title} — Question & Research Bank`,
+        `**Subject:** ${subject} | **Total Questions:** ${count}`,
+        `**Export Date:** ${new Date().toLocaleDateString('en-IN', { year: 'numeric', month: 'short', day: 'numeric' })}`,
+        `\n---\n`
+      ];
+
+      questions.forEach((item, idx) => {
+        mdLines.push(formatQuestionToMarkdown(item, idx));
+        mdLines.push('\n---\n');
+      });
+
+      const fullMarkdown = mdLines.join('\n');
+
+      const modalHtml = `
+        <div class="st-export-sheet-container">
+          <div class="st-export-header">
+            <div>
+              <h3 style="margin: 0; font-size: 1.15rem; color: var(--md-default-fg-color);">📑 Deep Research Question Sheet</h3>
+              <p style="margin: 0.25rem 0 0; font-size: 0.85rem; color: var(--md-default-fg-color--light);">
+                ${title} &bull; <strong>${count}</strong> Questions compiled with complete options, verified keys &amp; official explanations.
+              </p>
+            </div>
+            <div class="st-export-actions">
+              <button type="button" class="st-btn st-btn-primary st-btn-sm" id="st-btn-copy-all-md">
+                📋 Copy All (Markdown)
+              </button>
+              <button type="button" class="st-btn st-btn-outline st-btn-sm" id="st-btn-print-sheet">
+                🖨️ Print / Save PDF
+              </button>
+              <button type="button" class="st-btn st-btn-outline st-btn-sm" id="st-btn-close-export">
+                ✖ Close
+              </button>
+            </div>
+          </div>
+
+          <div class="st-export-body">
+            <textarea class="st-export-textarea" id="st-export-textarea" readonly spellcheck="false">${fullMarkdown.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</textarea>
+          </div>
+        </div>
+      `;
+
+      showModal(`Export: ${title}`, modalHtml);
+
+      document.getElementById('st-btn-close-export')?.addEventListener('click', closeModal);
+
+      const copyBtn = document.getElementById('st-btn-copy-all-md');
+      copyBtn?.addEventListener('click', () => {
+        navigator.clipboard.writeText(fullMarkdown).then(() => {
+          copyBtn.textContent = '✔ Copied All!';
+          copyBtn.classList.add('is-copied');
+          setTimeout(() => {
+            copyBtn.textContent = '📋 Copy All (Markdown)';
+            copyBtn.classList.remove('is-copied');
+          }, 2500);
+        }).catch(err => {
+          console.error('Copy failed:', err);
+          const ta = document.getElementById('st-export-textarea');
+          if (ta) {
+            ta.select();
+            document.execCommand('copy');
+            copyBtn.textContent = '✔ Copied All!';
+          }
+        });
+      });
+
+      document.getElementById('st-btn-print-sheet')?.addEventListener('click', () => {
+        const printWin = window.open('', '_blank');
+        if (!printWin) {
+          alert('Please allow popups to print the study sheet.');
+          return;
+        }
+        const printContent = `
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <meta charset="utf-8">
+            <title>${title} — Question & Research Bank</title>
+            <style>
+              body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; padding: 2rem; color: #1e293b; line-height: 1.5; font-size: 14px; }
+              h1 { font-size: 20px; border-bottom: 2px solid #3b82f6; padding-bottom: 8px; margin-bottom: 4px; }
+              .meta { font-size: 12px; color: #64748b; margin-bottom: 20px; }
+              .q-block { margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid #e2e8f0; page-break-inside: avoid; }
+              .q-header { font-weight: bold; color: #1d4ed8; font-size: 14px; margin-bottom: 6px; }
+              .q-stem { font-size: 14px; margin-bottom: 10px; font-weight: 500; }
+              .q-opts { margin-left: 12px; margin-bottom: 10px; }
+              .q-opt { margin-bottom: 4px; }
+              .q-ans { background: #f0fdf4; border-left: 3px solid #16a34a; padding: 6px 10px; margin-top: 8px; font-size: 13px; }
+              .q-expl { color: #334155; font-size: 12.5px; margin-top: 4px; }
+            </style>
+          </head>
+          <body>
+            <h1>${title} — Question & Research Bank</h1>
+            <div class="meta">Subject: ${subject} | Total Questions: ${count}</div>
+            ${questions.map((item, idx) => {
+              const expl = cleanHtmlToMarkdown(item.explanation_html || item.explanation || '');
+              const opts = item.options || {};
+              return `
+                <div class="q-block">
+                  <div class="q-header">Q${idx + 1}. ${item.q_header || ''}</div>
+                  <div class="q-stem">${item.stem || ''}</div>
+                  <div class="q-opts">
+                    ${opts.A ? `<div class="q-opt"><strong>A.</strong> ${opts.A}</div>` : ''}
+                    ${opts.B ? `<div class="q-opt"><strong>B.</strong> ${opts.B}</div>` : ''}
+                    ${opts.C ? `<div class="q-opt"><strong>C.</strong> ${opts.C}</div>` : ''}
+                    ${opts.D ? `<div class="q-opt"><strong>D.</strong> ${opts.D}</div>` : ''}
+                  </div>
+                  <div class="q-ans">
+                    <strong>Correct Answer: Option ${item.correct_answer || 'N/A'}</strong>
+                    <div class="q-expl">${expl}</div>
+                  </div>
+                </div>
+              `;
+            }).join('')}
+          </body>
+          </html>
+        `;
+        printWin.document.write(printContent);
+        printWin.document.close();
+        printWin.focus();
+        setTimeout(() => {
+          printWin.print();
+        }, 300);
+      });
     }
 
     // Confirmation dialog before evaluation

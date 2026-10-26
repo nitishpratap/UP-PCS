@@ -11247,3 +11247,167 @@ details.rev-toggle table {
   color: #fbbf24;
   border-color: rgba(245, 158, 11, 0.45);
 }
+
+/* Deep Research & Pattern Filter Pills */
+.st-filter-pill-pattern {
+  border-color: #8b5cf6;
+  background: rgba(139, 92, 246, 0.08);
+  color: #6d28d9;
+  font-weight: 600;
+}
+
+.st-filter-pill-pattern:hover {
+  border-color: #7c3aed;
+  background: rgba(139, 92, 246, 0.16);
+}
+
+.st-filter-pill-pattern.is-active {
+  background: linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%);
+  color: #ffffff;
+  border-color: #5b21b6;
+  box-shadow: 0 2px 10px rgba(109, 40, 217, 0.4);
+}
+
+[data-md-color-scheme="slate"] .st-filter-pill-pattern {
+  border-color: #a78bfa;
+  color: #ddd6fe;
+  background: rgba(139, 92, 246, 0.18);
+}
+
+[data-md-color-scheme="slate"] .st-filter-pill-pattern:hover {
+  border-color: #c4b5fd;
+  background: rgba(139, 92, 246, 0.28);
+}
+
+[data-md-color-scheme="slate"] .st-filter-pill-pattern.is-active {
+  background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%);
+  color: #ffffff;
+}
+
+/* Research Mode Tag */
+.st-research-mode-tag {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(139, 92, 246, 0.15);
+  color: #7c3aed;
+  border: 1px solid rgba(139, 92, 246, 0.35);
+  border-radius: 9999px;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  margin-left: 0.5rem;
+}
+
+[data-md-color-scheme="slate"] .st-research-mode-tag {
+  background: rgba(139, 92, 246, 0.25);
+  color: #c4b5fd;
+  border-color: rgba(167, 139, 250, 0.4);
+}
+
+/* Deep Research Explanation Card */
+.st-research-explanation {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.05), rgba(99, 102, 241, 0.05));
+  border-left: 4px solid #10b981;
+  border-radius: 8px;
+  padding: 1rem 1.15rem;
+  margin-top: 1rem;
+}
+
+[data-md-color-scheme="slate"] .st-research-explanation {
+  background: rgba(16, 185, 129, 0.1);
+  border-left-color: #34d399;
+}
+
+/* Copy Question Markdown Button */
+.st-btn-copy-md {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: var(--study-surface, #ffffff);
+  border: 1.5px solid var(--study-hairline, #cbd5e1);
+  border-radius: 6px;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.st-btn-copy-md:hover {
+  border-color: #6366f1;
+  color: #4f46e5;
+  background: rgba(99, 102, 241, 0.06);
+  transform: translateY(-1px);
+}
+
+.st-btn-copy-md.is-copied {
+  background: #10b981 !important;
+  border-color: #059669 !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 8px rgba(16, 185, 129, 0.4);
+}
+
+[data-md-color-scheme="slate"] .st-btn-copy-md {
+  background: #1e293b;
+  border-color: #475569;
+  color: #cbd5e1;
+}
+
+[data-md-color-scheme="slate"] .st-btn-copy-md:hover {
+  border-color: #818cf8;
+  color: #c7d2fe;
+  background: rgba(129, 140, 248, 0.15);
+}
+
+/* Export Question Sheet Modal */
+.st-export-sheet-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-height: 80vh;
+}
+
+.st-export-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  border-bottom: 1px solid var(--study-hairline, #e2e8f0);
+  padding-bottom: 0.75rem;
+}
+
+.st-export-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.st-export-body {
+  flex: 1;
+  min-height: 380px;
+}
+
+.st-export-textarea {
+  width: 100%;
+  height: 380px;
+  padding: 0.85rem;
+  border-radius: 8px;
+  border: 1.5px solid var(--study-hairline, #cbd5e1);
+  background: var(--study-surface, #ffffff);
+  color: var(--md-default-fg-color);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.82rem;
+  line-height: 1.55;
+  resize: vertical;
+  box-sizing: border-box;
+}
+
+[data-md-color-scheme="slate"] .st-export-textarea {
+  background: #0f172a;
+  border-color: #334155;
+  color: #e2e8f0;
+}
