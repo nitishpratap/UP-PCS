@@ -2906,10 +2906,103 @@
     return renderInlineMd(trimmed);
   }
 
+  // -------------------------------------------------------------
+  // SYLLABUS TOPIC & SUBTOPIC MAPPING ENGINE
+  // -------------------------------------------------------------
+  function extractChapterSyllabusMap() {
+    const container = document.querySelector('.md-content__inner');
+    if (!container) return [];
+
+    const subtopics = [];
+    const detailsList = container.querySelectorAll('details');
+    let coversDetails = null;
+
+    detailsList.forEach(d => {
+      const summaryText = d.querySelector('summary')?.textContent || '';
+      if (/covers syllabus/i.test(summaryText)) {
+        coversDetails = d;
+      }
+    });
+
+    if (coversDetails) {
+      const text = coversDetails.innerText || '';
+      const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
+      lines.forEach(line => {
+        const colonMatch = line.match(/^\*\*([^\*:]+)\s*:\*\*\s*(.*)$/);
+        if (colonMatch) {
+          const name = colonMatch[1].replace(/¶/g, '').trim();
+          const rawKws = colonMatch[2].split('|').map(k => k.replace(/\([^\)]*\)/g, '').trim()).filter(k => k.length > 1);
+          subtopics.push({ name, keywords: [name, ...rawKws] });
+        } else if (line.includes('|')) {
+          const parts = line.split('|').map(p => p.replace(/\([^\)]*\)/g, '').trim()).filter(p => p.length > 2);
+          parts.forEach(p => {
+            subtopics.push({ name: p, keywords: [p] });
+          });
+        }
+      });
+    }
+
+    if (subtopics.length === 0) {
+      const h2s = container.querySelectorAll('h2');
+      h2s.forEach(h => {
+        const text = h.textContent.replace(/¶/g, '').trim();
+        if (!/pyq|practice|trap|revision|sheet|current affairs|analysis|conquer/i.test(text) && text.length > 3) {
+          const cleanName = text.replace(/^\d+[\.\d+]*\s*/, '').trim();
+          subtopics.push({ name: cleanName, keywords: [cleanName] });
+        }
+      });
+    }
+
+    return subtopics;
+  }
+
+  function matchQuestionToSyllabus(questionText, sectionHeading, syllabusMap) {
+    if (!syllabusMap || syllabusMap.length === 0) {
+      return (sectionHeading && !/practice|pyq|ghatna/i.test(sectionHeading)) ? sectionHeading : 'General Syllabus';
+    }
+
+    const combinedText = ((questionText || '') + ' ' + (sectionHeading || '')).toLowerCase();
+    let bestMatch = null;
+    let bestScore = 0;
+
+    syllabusMap.forEach(st => {
+      let score = 0;
+      if (sectionHeading && sectionHeading.toLowerCase().includes(st.name.toLowerCase())) {
+        score += 8;
+      }
+
+      st.keywords.forEach(kw => {
+        const cleanKw = kw.toLowerCase().replace(/[^a-z0-9\s]/g, ' ').trim();
+        const tokens = cleanKw.split(/\s+/).filter(t => t.length > 3);
+        tokens.forEach(tok => {
+          if (combinedText.includes(tok)) {
+            score += 2;
+          }
+        });
+      });
+
+      if (score > bestScore) {
+        bestScore = score;
+        bestMatch = st.name;
+      }
+    });
+
+    if (bestScore > 0 && bestMatch) {
+      return bestMatch;
+    }
+
+    if (sectionHeading && !/practice|pyq|ghatna|drill|trap/i.test(sectionHeading) && sectionHeading.length > 3) {
+      return sectionHeading;
+    }
+
+    return syllabusMap[0]?.name || 'General Notes';
+  }
+
   function extractChapterQuestions() {
     const container = document.querySelector('.md-content__inner');
     if (!container) return [];
 
+    const syllabusMap = extractChapterSyllabusMap();
     const detailsList = container.querySelectorAll('details');
     const questions = [];
 
@@ -2991,11 +3084,17 @@
         displayHeader = firstLineHeader;
       }
 
+      const rawQuestionText = (stem || '') + ' ' + (rawText || '') + ' ' + (answerBody || '');
+      const syllabusSubtopic = matchQuestionToSyllabus(rawQuestionText, secHeading, syllabusMap);
+      const chTitle = document.title ? document.title.split('—')[0].trim() : 'General Studies';
+
       questions.push({
         id: `q_${index + 1}`,
         q_num: qNum,
         q_header: displayHeader,
-        section_title: secHeading,
+        section_title: syllabusSubtopic,
+        syllabus_subtopic: syllabusSubtopic,
+        syllabus_topic: chTitle,
         category: category,
         stem: stem,
         options: options,
@@ -3033,11 +3132,16 @@
           stem = body.substring(0, firstOptIdx).trim();
         }
 
+        const syllabusSubtopic = matchQuestionToSyllabus(body + ' ' + expl, '', syllabusMap);
+        const chTitle = document.title ? document.title.split('—')[0].trim() : 'General Studies';
+
         questions.push({
           id: `q_${questions.length + 1}`,
           q_num: Number(qNum) || (questions.length + 1),
           q_header: `Question ${qNum}`,
-          section_title: 'Practice Questions',
+          section_title: syllabusSubtopic,
+          syllabus_subtopic: syllabusSubtopic,
+          syllabus_topic: chTitle,
           category: 'practice',
           stem: stem,
           options: options,
@@ -4951,14 +5055,16 @@
       if (!w) return;
       const key = w.q_id || (w.stem ? w.stem.substring(0, 80) : '');
       if (key && seen.has(key)) return;
+      const syl = norm(w.syllabus_subtopic);
       const sec = norm(w.section_title);
       const head = norm(w.q_header);
       const stem = norm(w.stem);
 
+      const matchesSyl = cleanTarget.length > 2 && (syl.includes(cleanTarget) || cleanTarget.includes(syl));
       const matchesSec = cleanTarget.length > 2 && (sec.includes(cleanTarget) || cleanTarget.includes(sec));
       const matchesContent = cleanTarget.length > 4 && (head.includes(cleanTarget) || stem.includes(cleanTarget));
 
-      if (matchesSec || (sec.includes('general') && matchesContent)) {
+      if (matchesSyl || matchesSec || ((sec.includes('general') || syl.includes('general')) && matchesContent)) {
         seen.add(key);
         mistakes.push(repairQuestionOptions(w));
       }
@@ -5090,8 +5196,8 @@
               <span style="font-size: 0.75rem; font-weight: 800; color: #ef4444; background: rgba(239, 68, 68, 0.12); padding: 0.15rem 0.5rem; border-radius: 9999px;">
                 ⚠️ Question ${idx + 1} of ${currentMistakes.length}
               </span>
-              <span style="font-size: 0.75rem; color: var(--md-default-fg-color--light); font-weight: 600;">
-                ${escapeHtml(header)}
+              <span class="st-wrong-syllabus-tag" style="margin: 0; padding: 0.2rem 0.6rem; font-size: 0.76rem;">
+                🏷️ <strong>Syllabus Focus:</strong> ${escapeHtml(m.syllabus_subtopic || m.section_title || subtopicTitle)}
               </span>
             </div>
             <div style="font-size: 0.95rem; font-weight: 600; line-height: 1.45; margin-bottom: 0.5rem; color: var(--md-default-fg-color);">
@@ -5393,8 +5499,23 @@
       }
     }
 
-    // Question Normalizer: guarantees all questions have valid options and clean stems
-    loadedQuestions = loadedQuestions.map((q) => repairQuestionOptions(q));
+    // Question Normalizer: guarantees all questions have valid options, clean stems & official syllabus tags
+    const activeChapterSyllabusMap = extractChapterSyllabusMap();
+    const activeChapterTitle = topicInfo.title || (document.title ? document.title.split('—')[0].trim() : 'General Studies');
+
+    loadedQuestions = loadedQuestions.map((q) => {
+      const repaired = repairQuestionOptions(q);
+      const combinedText = (repaired.stem || '') + ' ' + (repaired.explanation || '') + ' ' + (repaired.q_header || '');
+      const subtopic = repaired.syllabus_subtopic ||
+        (activeChapterSyllabusMap.length > 0 ? matchQuestionToSyllabus(combinedText, repaired.section_title || '', activeChapterSyllabusMap) : (repaired.section_title || 'General Notes'));
+
+      return {
+        ...repaired,
+        section_title: subtopic,
+        syllabus_subtopic: subtopic,
+        syllabus_topic: repaired.syllabus_topic || activeChapterTitle
+      };
+    });
 
     if (loadedQuestions.length === 0) {
       showModal(`Live Test: ${topicInfo.title}`, `
@@ -6043,10 +6164,15 @@
             <div class="st-cbt-main">
               <div class="st-quiz-stem-card">
                 <div class="st-q-source-row" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.5rem;">
-                  ${q.q_header ? `<div class="st-q-source-tag">${q.q_header}</div>` : ''}
-                  ${isUPExamQuestion(q) ? `<span class="st-up-badge">🚩 UP EXAM</span>` : ''}
+                  <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+                    ${q.q_header ? `<div class="st-q-source-tag">${escapeHtml(q.q_header)}</div>` : ''}
+                    ${isUPExamQuestion(q) ? `<span class="st-up-badge">🚩 UP EXAM</span>` : ''}
+                    <span class="st-syllabus-tag" title="Official Syllabus Subtopic: ${escapeHtml(q.syllabus_subtopic || q.section_title || 'General Notes')}">
+                      📂 ${escapeHtml(q.syllabus_subtopic || q.section_title || 'General Syllabus')}
+                    </span>
+                  </div>
+                  <div class="st-q-number-tag">Question ${currentQuestionIndex + 1} of ${total}</div>
                 </div>
-                <div class="st-q-number-tag">Question ${currentQuestionIndex + 1} of ${total}</div>
                 <div class="st-q-stem-text">${renderStemToHtml(q.stem)}</div>
               </div>
 
@@ -6086,6 +6212,19 @@
                       📋 Copy Question (MD)
                     </button>
                   </div>
+                  ${(testMode === 'practice' && userChoice && userChoice !== q.correct_answer) ? `
+                    <div class="st-mistake-syllabus-tag">
+                      <div class="st-mst-header">
+                        <span class="st-mst-icon">⚠️</span>
+                        <strong>Syllabus Weak Area Tagged:</strong>
+                      </div>
+                      <div class="st-mst-body">
+                        <span class="st-mst-subtopic">📂 <strong>${escapeHtml(q.syllabus_subtopic || q.section_title || 'General Notes')}</strong></span>
+                        ${q.syllabus_topic ? `<span class="st-mst-topic">(${escapeHtml(q.syllabus_topic)})</span>` : ''}
+                        <div class="st-mst-note">📌 High-yield syllabus subtopic flagged for your Focus Radar. Review your notes for this section!</div>
+                      </div>
+                    </div>
+                  ` : ''}
                   <div class="st-practice-expl-content">${typeof window.formatStudyExplanation === 'function' ? window.formatStudyExplanation(q.explanation || ('Correct Answer: ' + q.correct_answer)) : (q.explanation || ('Answer: ' + q.correct_answer))}</div>
                 </div>
               ` : ''}
@@ -6429,6 +6568,18 @@
             answers: selectedAnswers,
             is_mastery_gate: isMasteryGate,
             is_mastery_redemption: isMasteryRedemption,
+            questions_data: questionSubset.map((q, idx) => ({
+              q_id: q.q_id,
+              q_num: idx + 1,
+              q_header: q.q_header,
+              section_title: q.syllabus_subtopic || q.section_title || 'General Notes',
+              syllabus_subtopic: q.syllabus_subtopic || q.section_title || 'General Notes',
+              syllabus_topic: q.syllabus_topic || topicInfo.title || '',
+              stem: q.stem,
+              options: q.options,
+              correct_answer: q.correct_answer,
+              explanation: q.explanation
+            })),
             // Send option shuffle maps so the server can de-map user answers
             // back to canonical letters before scoring against the DB
             option_maps: questionSubset.reduce((acc, q) => {
@@ -6464,7 +6615,9 @@
               q_id: q.q_id,
               q_num: idx + 1,
               q_header: q.q_header,
-              section_title: q.section_title || 'General Notes',
+              section_title: q.syllabus_subtopic || q.section_title || 'General Notes',
+              syllabus_subtopic: q.syllabus_subtopic || q.section_title || 'General Notes',
+              syllabus_topic: q.syllabus_topic || topicInfo.title || '',
               stem: q.stem,
               options: q.options,
               user_answer: uAns,
@@ -6480,6 +6633,29 @@
         const maxMarks = Number((total * 1.333333).toFixed(2));
         const accuracy = att > 0 ? Number(((cor / att) * 100).toFixed(1)) : 0;
         const scorePct = maxMarks > 0 ? Number(Math.max(0, ((netMarks / maxMarks) * 100)).toFixed(1)) : 0;
+
+        // Group mistakes by syllabus subtopic for diagnostic radar
+        const subtopicMistakesMap = {};
+        const subtopicTotalMap = {};
+
+        questionSubset.forEach(q => {
+          const sec = (q.syllabus_subtopic || q.section_title || 'General Notes').trim();
+          subtopicTotalMap[sec] = (subtopicTotalMap[sec] || 0) + 1;
+        });
+
+        wrongList.forEach(w => {
+          const sec = (w.syllabus_subtopic || w.section_title || 'General Notes').trim();
+          subtopicMistakesMap[sec] = (subtopicMistakesMap[sec] || 0) + 1;
+        });
+
+        const weakSubtopics = Object.entries(subtopicMistakesMap)
+          .map(([subtopic, mistakes]) => ({
+            subtopic,
+            mistakes,
+            total_in_section: subtopicTotalMap[subtopic] || mistakes,
+            accuracy_pct: subtopicTotalMap[subtopic] ? Number((((subtopicTotalMap[subtopic] - mistakes) / subtopicTotalMap[subtopic]) * 100).toFixed(1)) : 0
+          }))
+          .sort((a, b) => b.mistakes - a.mistakes);
 
         evaluationData = {
           scorecard: {
@@ -6497,6 +6673,7 @@
             score_pct: scorePct,
             time_spent_seconds: totalTimeSec,
             wrong_questions: wrongList,
+            weak_subtopics: weakSubtopics,
             date: new Date().toISOString()
           }
         };
@@ -6718,7 +6895,7 @@
 
           ${(sc.weak_subtopics && sc.weak_subtopics.length > 0) ? `
             <div class="st-subtopics-diagnostic-card">
-              <h4>🎯 Subtopic Diagnostic (Auto-Mapped)</h4>
+              <h4>🎯 Syllabus Subtopics Diagnostic (Mistakes Radar)</h4>
               <p class="st-subtopics-diagnostic-sub">Real-time analysis of questions answered in this test:</p>
               <div class="st-subtopics-diag-list">
                 ${sc.weak_subtopics.map(ws => `
@@ -6761,7 +6938,13 @@
               <div class="st-wrong-list">
                 ${wrongList.map(w => `
                   <div class="st-wrong-item">
-                    <div class="st-wi-stem"><strong>Q${w.q_num} ${w.section_title ? `[${escapeHtml(w.section_title)}]` : ''}:</strong> ${renderStemToHtml(w.stem)}</div>
+                    <div class="st-wrong-syllabus-tag">
+                      <span class="st-wst-icon">⚠️</span>
+                      <span class="st-wst-label">Syllabus Weak Area:</span>
+                      <strong class="st-wst-subtopic">${escapeHtml(w.syllabus_subtopic || w.section_title || 'General Notes')}</strong>
+                      ${w.syllabus_topic ? `<span class="st-wst-topic">(${escapeHtml(w.syllabus_topic)})</span>` : ''}
+                    </div>
+                    <div class="st-wi-stem"><strong>Q${w.q_num}:</strong> ${renderStemToHtml(w.stem)}</div>
                     <div class="st-wi-choices">
                       <span class="st-choice-wrong">Your Choice: <strong>${w.user_answer}</strong> ❌</span>
                       <span class="st-choice-correct">Correct Answer: <strong>${w.correct_answer}</strong> ✅</span>
@@ -6779,8 +6962,21 @@
               ${(detailedReview.length ? detailedReview : questionSubset).map((q, idx) => {
                 const uAns = selectedAnswers[q.q_id];
                 const isCor = uAns && (uAns === q.correct_answer || (q.all_correct_answers && q.all_correct_answers.includes(uAns)));
+                const subName = q.syllabus_subtopic || q.section_title || 'General Notes';
                 return `
                   <div class="st-wrong-item" style="border-left-color: ${isCor ? '#10b981' : (uAns ? '#ef4444' : '#cbd5e1')}">
+                    ${(uAns && !isCor) ? `
+                      <div class="st-wrong-syllabus-tag">
+                        <span class="st-wst-icon">⚠️</span>
+                        <span class="st-wst-label">Mistake in Syllabus Subtopic:</span>
+                        <strong class="st-wst-subtopic">${escapeHtml(subName)}</strong>
+                        ${q.syllabus_topic ? `<span class="st-wst-topic">(${escapeHtml(q.syllabus_topic)})</span>` : ''}
+                      </div>
+                    ` : `
+                      <div class="st-syllabus-tag" style="margin-bottom: 0.35rem; display: inline-flex;">
+                        📂 <strong>Syllabus Subtopic:</strong>&nbsp;${escapeHtml(subName)}
+                      </div>
+                    `}
                     <div class="st-wi-stem"><strong>Q${idx + 1}:</strong> ${renderStemToHtml(q.stem)}</div>
                     <div class="st-wi-choices">
                       <span>Your Choice: <strong>${uAns || 'Unattempted'}</strong> ${isCor ? '✅' : (uAns ? '❌' : '⚪')}</span>

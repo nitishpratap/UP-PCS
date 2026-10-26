@@ -1691,14 +1691,18 @@ app.post('/api/chapter-test/evaluate', requireAuth, checkDb, async (req, res) =>
 
     // Fallback if question_ids not found in DB
     if (dbQuestions.length === 0) {
-      dbQuestions = await db.collection('questions')
-        .find({
-          subject: { $regex: subjectRegex },
-          chapter: { $regex: topicRegex }
-        })
-        .sort({ q_num: 1 })
-        .limit(req.body.is_mastery_gate ? 50 : 200)
-        .toArray();
+      if (Array.isArray(req.body.questions_data) && req.body.questions_data.length > 0) {
+        dbQuestions = req.body.questions_data;
+      } else {
+        dbQuestions = await db.collection('questions')
+          .find({
+            subject: { $regex: subjectRegex },
+            chapter: { $regex: topicRegex }
+          })
+          .sort({ q_num: 1 })
+          .limit(req.body.is_mastery_gate ? 50 : 200)
+          .toArray();
+      }
     }
 
     let attempted = 0;
@@ -1734,7 +1738,9 @@ app.post('/api/chapter-test/evaluate', requireAuth, checkDb, async (req, res) =>
             q_id: q.q_id,
             q_num: idx + 1,
             q_header: q.q_header,
-            section_title: q.section_title || 'General Notes',
+            section_title: q.syllabus_subtopic || q.section_title || 'General Notes',
+            syllabus_subtopic: q.syllabus_subtopic || q.section_title || 'General Notes',
+            syllabus_topic: q.syllabus_topic || topic_title || '',
             stem: q.stem,
             options: q.options,
             user_answer: userAns,
@@ -1749,7 +1755,9 @@ app.post('/api/chapter-test/evaluate', requireAuth, checkDb, async (req, res) =>
           q_id: q.q_id,
           q_num: idx + 1,
           q_header: q.q_header,
-          section_title: q.section_title || 'General Notes',
+          section_title: q.syllabus_subtopic || q.section_title || 'General Notes',
+          syllabus_subtopic: q.syllabus_subtopic || q.section_title || 'General Notes',
+          syllabus_topic: q.syllabus_topic || topic_title || '',
           stem: q.stem,
           options: q.options,
           user_answer: null,
@@ -1765,7 +1773,9 @@ app.post('/api/chapter-test/evaluate', requireAuth, checkDb, async (req, res) =>
         q_id: q.q_id,
         q_num: idx + 1,
         q_header: q.q_header,
-        section_title: q.section_title || 'General Notes',
+        section_title: q.syllabus_subtopic || q.section_title || 'General Notes',
+        syllabus_subtopic: q.syllabus_subtopic || q.section_title || 'General Notes',
+        syllabus_topic: q.syllabus_topic || topic_title || '',
         stem: q.stem,
         options: q.options,
         user_answer: userAns || null,
@@ -1785,17 +1795,17 @@ app.post('/api/chapter-test/evaluate', requireAuth, checkDb, async (req, res) =>
     const accuracy = attempted > 0 ? Number(((correct / attempted) * 100).toFixed(1)) : 0;
     const scorePct = maxMarks > 0 ? Number(((netMarks / maxMarks) * 100).toFixed(1)) : 0;
 
-    // Automatic Chapter Subtopics Weakness Calculation
+    // Automatic Chapter Subtopics Weakness Calculation mapped to Syllabus Subtopics
     const subtopicMistakesMap = {};
     const subtopicTotalMap = {};
 
     dbQuestions.forEach(q => {
-      const sec = (q.section_title || 'General Notes').trim();
+      const sec = (q.syllabus_subtopic || q.section_title || 'General Notes').trim();
       subtopicTotalMap[sec] = (subtopicTotalMap[sec] || 0) + 1;
     });
 
     wrongQuestions.forEach(w => {
-      const sec = (w.section_title || 'General Notes').trim();
+      const sec = (w.syllabus_subtopic || w.section_title || 'General Notes').trim();
       subtopicMistakesMap[sec] = (subtopicMistakesMap[sec] || 0) + 1;
     });
 
