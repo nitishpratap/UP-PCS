@@ -1172,9 +1172,13 @@ asteroids from hitting the Earth.
 **Ans: D.** A spacecraft with a mechanism which would check
 </details>
 
-**Q-ST32. (a) September 2014 (b) September 2015 / (c) August 2017 (d) October 2017 / UPPCS (Mains) 2017**
+**Q-ST32. UPPCS (Mains) 2017**
 
 Gravitational waves were seen for the first time in :
+A. September 2014
+B. September 2015 
+C. August 2017
+D. October 2017
 
 <details>
 <summary>Show answer</summary>
@@ -1580,9 +1584,13 @@ Code :
 **Ans: B.** D, C, A, B
 </details>
 
-**Q-ST51. (a) June 10th, 1990 (b) June 12th,1990 / (c) June13th , 1990 (d) June 15th, 1990 / UPPCS (Pre) 1994**
+**Q-ST51. UPPCS (Pre) 1994**
 
 When INSAT-1D of India was launched ?
+A. June 10th, 1990
+B. June 12th,1990 
+C. June13th , 1990
+D. June 15th, 1990
 
 <details>
 <summary>Show answer</summary>
@@ -1842,13 +1850,15 @@ Select the correct answer using the codes given below:
 **Ans: D.** Both 1 and 2
 </details>
 
-**Q-ST62. (c) Jharkhand (d) Kerala / UPPCS (Mains) 2004**
+**Q-ST62. UPPCS (Mains) 2004**
 
 Thumba known as rocket launching station is situated
 
 in :
 
 (a) Uttar Pradesh (b) Bihar
+C. Jharkhand
+D. Kerala
 
 <details>
 <summary>Show answer</summary>
@@ -2328,9 +2338,13 @@ helium
 **Ans: C.** Mixture of liquid hydrogen and liquid oxygen
 </details>
 
-**Q-ST83. (a) January 6 , 1998 (b) Feb 7, 1998 / (c) March 8, 1998 (d) April 9, 1998 / UPPCS (Pre) 1999**
+**Q-ST83. UPPCS (Pre) 1999**
 
 Apollo-8 was launched for space exploration on :
+A. January 6 , 1998
+B. Feb 7, 1998 
+C. March 8, 1998
+D. April 9, 1998
 
 <details>
 <summary>Show answer</summary>
@@ -2630,13 +2644,17 @@ orbit is-
 **Ans:** GSLV is India's indigenous satellite launch vehicle.
 </details>
 
-**Q-ST97. (a) 20th September, 2003 (b) 20th September, 2004 / (c) 4th July, 2004 (d) 20th December, 2003 / UPPCS (Mains) 2004**
+**Q-ST97. UPPCS (Mains) 2004**
 
 India became the first country to send Educational
 
 Services Satellite in space, Edusat. When was the
 
 satellite launched ?
+A. 20th September, 2003
+B. 20th September, 2004 
+C. 4th July, 2004
+D. 20th December, 2003
 
 <details>
 <summary>Show answer</summary>
@@ -3230,7 +3248,7 @@ November 12, 2008, is a –
 **Ans: C.** Surface to surface ballistic missile
 </details>
 
-**Q-ST127. (d) It was Successfully Test Fired on 24 September 2011 / UPPCS (Mains) 2011**
+**Q-ST127. UPPCS (Mains) 2011**
 
 Which one of the following statement is not correct
 
@@ -3241,6 +3259,7 @@ about ‘Shaurya’ ?
 (b) It is a Surface to Surface Missile
 
 (c) It has a Striking Range of 900 km
+D. It was Successfully Test Fired on 24 September 2011
 
 <details>
 <summary>Show answer</summary>
@@ -5358,11 +5377,15 @@ The fourth dimension in Physics was introduced by :
 **Ans: B.** Einstein
 </details>
 
-**Q-ST33. (a) 1925 (b) 1930 / (c) 1935 (d) None of these / Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+**Q-ST33. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
 
 An eminent Indian physicist Dr. C. V. Raman was given
 
 Nobel Prize for his work in the year :
+A. 1925
+B. 1930 
+C. 1935
+D. None of these
 
 <details>
 <summary>Show answer</summary>
@@ -5717,9 +5740,13 @@ India entered space age by launching –
 **Ans: B.** Aryabhatta
 </details>
 
-**Q-ST14. (a) April 19th, 1975 (b) December 6th, 1957 / (c) January 31, 1958 (d) October 2nd, 1980 / M.P.P.C.S. (Pre) 2008**
+**Q-ST14. M.P.P.C.S. (Pre) 2008**
 
 Aryabhatta was launched on :
+A. April 19th, 1975
+B. December 6th, 1957 
+C. January 31, 1958
+D. October 2nd, 1980
 
 <details>
 <summary>Show answer</summary>
@@ -6573,30 +6600,36 @@ Indian Satellite Series 'INSAT' is an example of :
 
 **Q-ST48. R.A.S./ R.T.S. (Pre) 2021**
 
-Which of the following frequency bands is not used in
+Which of the following frequency bands is not used in INSAT/GSAT satellite communication?
 
-INSAT/GSAT satellite communication?
-
-(a) Ka (b) C
-
-(c) MF (d) Ku
+A. Ka
+B. C
+C. MF
+D. Ku
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The major frequency bands used for satellite communication in India are S-band, C-band, Upper Extended C band, Ku band and Ka band.
+**Logic:** The major frequency bands used for satellite communication in India are S-band, C-band, Upper Extended C band, Ku band and Ka band. MF (Medium Frequency) is used for AM broadcasting, not satellite communication.
 
-**Ans: C.** MF (d) Ku
+**Ans: C.** MF
 </details>
 
 **Q-ST49. Civil Services Examination**
 
+In which of the following atmospheric layers are geostationary communication satellites placed?
+
+A. Troposphere
+B. Stratosphere
+C. Ionosphere
+D. Exosphere
+
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Refer to the high-yield notes above.
+**Logic:** Geostationary communication satellites orbit at approximately 35,786 km above the equator, located in the Exosphere.
 
-**Ans:** Refer to the high-yield notes above.
+**Ans: D.** Exosphere
 </details>
 
 **Q-ST50. I.A.S. (Pre) 2019**
@@ -6733,11 +6766,15 @@ Which of the statement/s given above is/are true?
 **Ans: C.** Both (1) and (2)
 </details>
 
-**Q-ST56. (a) Feb 27, 1982 (b) September 18, 1981 / (c) June 19, 1981 (d) December 25, 1981 / Chhattisgarh P.C.S. (Pre) 2008**
+**Q-ST56. Chhattisgarh P.C.S. (Pre) 2008**
 
 The first Indian Communication SatelliteAPPLE was
 
 launched on :
+A. Feb 27, 1982
+B. September 18, 1981 
+C. June 19, 1981
+D. December 25, 1981
 
 <details>
 <summary>Show answer</summary>
@@ -6745,9 +6782,13 @@ launched on :
 **Ans: C.** June 19, 1981
 </details>
 
-**Q-ST57. (a) February 4th, 1975 (b) May 18th, 1974 / (c) July 10th, 1992 (d) April 19th, 1975 / 44th B.P.S.C. (Pre) 2000**
+**Q-ST57. 44th B.P.S.C. (Pre) 2000**
 
 When was 'INSAT-2A' launched?
+A. February 4th, 1975
+B. May 18th, 1974 
+C. July 10th, 1992
+D. April 19th, 1975
 
 <details>
 <summary>Show answer</summary>
@@ -7249,11 +7290,15 @@ mission for systematic study of Sun is :
 **Ans: C.** 7 (d) 5
 </details>
 
-**Q-ST78. (a) 2013 (b) 2012 / (c) 2016 (d) 2015 / M.P. P.C.S. (Pre) 2024**
+**Q-ST78. M.P. P.C.S. (Pre) 2024**
 
 In which year wasIndia's first, interplanetary mission
 
 to planet Mars launched successfully?
+A. 2013
+B. 2012 
+C. 2016
+D. 2015
 
 <details>
 <summary>Show answer</summary>
@@ -9599,11 +9644,15 @@ scientist?
 **Ans: A.** Albert Einstein
 </details>
 
-**Q-ST183. (a) 1928 (b) 1930 / (c) 1932 (d) 1950 / 42nd B.P.S.C. (Pre) 1997**
+**Q-ST183. 42nd B.P.S.C. (Pre) 1997**
 
 Sir C.V. Raman received Nobel Prize for physics in the
 
 year :
+A. 1928
+B. 1930 
+C. 1932
+D. 1950
 
 <details>
 <summary>Show answer</summary>

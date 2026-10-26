@@ -5539,107 +5539,41 @@ See the explanation of above question.
 
 ---
 
-**Q-GC-KM-3. Ghatna Chakra PYQ**
+**Q-GC-KM-3. I.A.S. (Pre) 1993**
 
-Which of the following were the main objectives of the
-Khilafat Movement?
-1. To rouse anti-British feelings among the Muslims of
-India.
+Which of the following were the main objectives of the Khilafat Movement?
+
+1. To rouse anti-British feelings among the Muslims of India.
 2. To reform the Muslim society.
-3. To demand separate electorates and preserve the
-Khilafat.
+3. To demand separate electorates and preserve the Khilafat.
+4. To save the Ottoman empire and preserve the Khilafat.
+
+Select the correct answer from the codes given below:
+
+A. 1 and 2
+B. 2 and 3
+C. 3 and 4
+D. 1 and 4
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: D.** The main objectives of the Khilafat Movement were to save the Ottoman Empire and the Caliphate (Khalifa of Turkey) and to rouse anti-British feelings among Indian Muslims following the dismemberment of Turkey after World War I. Reforming Muslim society and demanding separate electorates were not its objectives.
 </details>
 
 ---
 
-**Q-GC-KM-4. I.A.S. (Pre) 1993**
+**Q-GC-KM-4. U.P. P.C.S. (Pre) 1993**
 
-To save the Ottoman empire and preserve the
-Khilafat.
-Choose the correct answer from the codes given below:
-Code :
+Who was elected as President of the All India Khilafat Conference in 1919?
 
-- (a) 1 and 2 (b) 2 and 3
-
-- (c) 3 and 4 (d) 1 and 4
+A. Mahatma Gandhi
+B. Muhammad Ali Jinnah
+C. Maulana Shaukat Ali
+D. Motilal Nehru
 
 <details><summary>Show answer</summary>
 
-**Answer: (d)**
-
-**Explanation:**
-The Muslims of India considered the Sultan of Turkey as
-
-Khalifa (Caliph) of the Islamic empire. In the First World
-
-War Turkey was fighting against allied countries. Before the
-
-war, the British Government had promised a fair treatment
-
-towards Turkey to win the support of Indian Muslims. Turkey
-
-was dismembered and the Khalifa was stripped of his post.
-
-This act of the British angered Indian Muslims. As a result,
-
-they started a movement to defend the Ottoman Empire
-
-of Turkey and to retain Khalifa in his post. The Khilafat
-
-Movement started to protest against the partition of Turkey
-
-acquired an aggressive approach with the joining of Gandhi
-
-in the Movement.
-
-4. Who was elected as President of the All India Khilafat
-
-Conference in 1919?
-
-(a) Mahatma Gandhi (b) Muhammad Ali Jinnah
-
-(c) Maulana Shaukat Ali (d) Motilal Nehru
-
-U.P. P.C.S. (Pre) 1993
-
-Ans. (a)
-
-The Indian Muslims were incensed when they discovered
-
-that their loyalty had been ruined during the war and the
-
-assurances of generous treatment to Turkey after the war,
-
-a promise made by British statesmen had no intention of
-
-fulfilling it. The Muslims like Ali brothers, Muhammad Ali
-
-Hasrat Mohani and Shaukat Ali and Maulana Abul Kalam
-
-Azad had organized a Khilafat Party. Gandhi decided to
-
-extend their support to the Khilafat Movement as this was
-
-an opportunity of uniting Hindus and Muslims. Mahatma
-
-Gandhi was elected President of the All-India Khilafat
-
-Conference held at Delhi on November 23-24, 1919 A.D.
-
-on 24th November. The Amritsar Session of the Congress
-
-was held in December 1919, which gave a great fillip to the
-
-Khilafat agitation.
-
+**Ans: A.** Mahatma Gandhi was elected President of the All-India Khilafat Conference held at Delhi on 23-24 November 1919. Gandhiji viewed the Khilafat issue as an unprecedented opportunity to forge Hindu-Muslim unity against the British government.
 </details>
 
 ---
@@ -6024,157 +5958,73 @@ the Movements were merged together.
 
 ---
 
-**Q-GC-SP-1. Ghatna Chakra PYQ**
+**Q-GC-SP-1. U.P Lower Sub. (Pre) 1998**
 
-For which of the following reason/reasons, Swaraj
-party founded in India –
-1. Withdraw of non-cooperation movement by
-Mahatma Gandhi.
+For which of the following reasons was the Swaraj Party founded in India?
+
+1. Withdrawal of Non-Cooperation Movement by Mahatma Gandhi.
+2. Entering the Councils and wrecking the Government of India Act 1919 from within.
+3. Repression by the British Government.
+4. Belief among Indians that they should gain experience of administration.
+
+Select the correct answer from the codes given below:
+
+A. 1 only
+B. 1 and 2 only
+C. 1, 2 and 3
+D. 1, 3 and 4
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: B.** The Swaraj Party was founded in January 1923 by C.R. Das and Motilal Nehru after the suspension of the Non-Cooperation Movement. They believed that entering the councils and obstructing government measures from within was a better strategy than continuing the boycott.
 </details>
 
 ---
 
-**Q-GC-SP-2. Ghatna Chakra PYQ**
+**Q-GC-SP-2. U.P. P.C.S. (Spl) (Pre) 2004**
 
-Entering in the council and resection the
-Government of India’s Act of 1919 by don’t let
-them work.
+Who among the following resigned from the presidency of the Congress to form the Swaraj Party?
+
+A. C.R. Das
+B. Motilal Nehru
+C. Vithalbhai Patel
+D. Pherozeshah Mehta
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: A.** Chittaranjan Das presided over the Gaya session of the Congress in December 1922. When his proposal for council entry was defeated by the "No-Changers" (Rajendra Prasad, C. Rajagopalachari, Vallabhbhai Patel), C.R. Das resigned from the Congress presidency and announced the formation of the Congress-Khilafat Swaraj Party with Motilal Nehru.
 </details>
 
 ---
 
-**Q-GC-SP-3. Ghatna Chakra PYQ**
+**Q-GC-SP-3. 43rd B.P.S.C. (Pre) 1999**
 
-Repression by the British Government.
+Swaraj Party was formed after the failure/suspension of the:
+
+A. Non-Cooperation Movement
+B. Quit India Movement
+C. Civil Disobedience Movement
+D. Swadeshi Movement
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: A.** Following the Chauri Chaura incident (February 1922) and the withdrawal of the Non-Cooperation Movement, C.R. Das and Motilal Nehru organized the Swaraj Party in January 1923 to provide a political alternative through council entry.
 </details>
 
 ---
 
-**Q-GC-SP-4. U.P Lower Sub.(Pre) 1998**
+**Q-GC-SP-4. 60th to 62nd B.P.S.C. (Pre) 2016**
 
-It is believed by the Indian’s that they should feel
-the experience of administration.
-Code :
+The Swaraj Party was formed following the failure of:
 
-- (a) only 1 (b) 1 and 2
-
-- (c) 1, 2 and 3 (d) 1, 3 and 4
+A. Non-Cooperation Movement
+B. Civil Disobedience Movement
+C. Rowlatt Satyagraha
+D. Champaran Satyagraha
 
 <details><summary>Show answer</summary>
 
-**Answer: (b)**
-
-**Explanation:**
-*Legislative Assemblies both at Central and Provincial levels
-
-which were established by the Government of India Act,
-
-1919 were boycotted by the Congress on the directions of
-
-Gandhiji and they didn't contest the elections of 1920. An
-
-atmosphere of hopelessness was created with the withdrawal
-
-of Non-Cooperation Movement and the arrest of Gandhiji.
-
-Suspension of the Non-Cooperation Movement led to a
-
-split within Congress in the Gaya session of the Congress
-
-in December, 1922 A.D. Leaders like Motilal Nehru and
-
-Chittaranjan Das formed a separate group within the Congress
-
-known as the Swaraj Party in January, 1923 A.D. The
-
-Swarajists wanted to contest the Council elections and wreck
-
-the Government from within. Elections to Legislative Councils
-
-were held in November, 1923 A.D. The Swaraj Party did several
-
-significant things in the Legislative Council. It demanded the
-
-setting up of responsible Government in India with the necessary
-
-changes in the Government of India Act of 1919 A.D.
-
-2. Who among the following resigned from the presidency
-
-of the Congress for making Swaraj Party?
-
-(a) C.R.Das (b) Motilal Nehru
-
-(b) Vithalbhai Patel (d) Pherozeshah Mehta
-
-U.P. P.C.S. (Spl) (Pre) 2004
-
-Ans. (a)
-
-See the explanation of above question.
-
-3. Swaraj Party was formed after the failure of the :
-
-(a) Non-Cooperation Movement
-
-(b) Quit India Movement
-
-(c) Civil Disobedience Movement
-
-(d) Swadeshi Movement
-
-43rd B.P.S.C. (Pre) 1999
-
-Ans. (a)
-
-Swaraj Party was formed by the leaders like Motilal Nehru
-
-and Chittaranjan Das in 1923 A.D. after the failure of the
-
-Non-Cooperation Movement.
-
-4. Swaraj Party was formed following the failure of:
-
-(a) Non-Cooperation Movement
-
-(b) Civil Disobedience Movement
-
-(c) Rowlatt Bill Satyagraha
-
-(d) Champaran Satyagraha
-
-(e) None of the above/More than one of the above
-
-60th to 62nd B.P.S.C. (Pre) 2016
-
-Ans. (a)
-
-See the explanation of above question.
-
+**Ans: A.** The Swaraj Party was formed by C.R. Das and Motilal Nehru after the sudden withdrawal of the Non-Cooperation Movement in 1922.
 </details>
 
 ---
@@ -9489,71 +9339,41 @@ See the explanation of above question.
 
 ---
 
-**Q-GC-GIP-3. Ghatna Chakra PYQ**
+**Q-GC-GIP-3. I.A.S. (Pre) 2020**
 
-The Gandhi-Irwin Pact included which of the
-following?
-1. Invitation to Congress to participate in the Round
-Table Conference
-2. Withdrawal of Ordinances promulgated in
-connection with the Civil Disobedience Movement
-3. Acceptance of Gandhiji's suggestion for an enquiry
-into police excesses
+The Gandhi-Irwin Pact included which of the following?
+
+1. Invitation to Congress to participate in the Round Table Conference
+2. Withdrawal of Ordinances promulgated in connection with the Civil Disobedience Movement
+3. Acceptance of Gandhiji's suggestion for an enquiry into police excesses
+4. Release of only those prisoners who were not charged with violence
+
+Select the correct answer using the code given below:
+
+A. 1 only
+B. 1, 2 and 4 only
+C. 3 only
+D. 2, 3 and 4 only
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: B.** According to the Gandhi-Irwin Pact (5th March 1931), Viceroy Lord Irwin agreed to: withdraw all ordinances promulgated against the Civil Disobedience Movement, release all political prisoners not convicted of violent offenses, return confiscated property, and allow peaceful picketing. In return, Gandhiji agreed to suspend the Civil Disobedience Movement and participate in the Second Round Table Conference. The British government refused the demand for an inquiry into police excesses.
 </details>
 
 ---
 
-**Q-GC-GIP-4. I.A.S. (Pre) 2020**
+**Q-GC-GIP-4. 44th B.P.S.C. (Pre) 2000**
 
-Release of only those prisoners who were not charged
-with violence
-Select the correct answer using the code given below:
+Gandhi-Irwin Pact was signed in:
 
-- (a) 1 only (b) 1, 2 and 4 only
-
-- (c) 3 only (d) 2, 3 and 4 only
+A. 1931
+B. 1935
+C. 1942
+D. 1919
 
 <details><summary>Show answer</summary>
 
-**Answer: (b)**
-
-**Explanation:**
-According to Gandhi-Irwin Pact (5th March, 1931 A.D.),
-
-Gandhiji called off the Civil Disobedience Movement and
-
-agreed to take part in Second Round Table Conference in
-
-London. He also agreed to stop boycotting British goods. In
-
-return Viceroy agreed to withdraw ordinances promulgated
-
-against Civil Disobedience Movement and release only those
-
-prisoners who were not charged with violence, Hence option
-
-(b) is correct.
-
-4. Gandhi-Irwin Pact was signed in :
-
-(a) 1931 (b) 1935
-
-(c) 1942 (d) 1919
-
-44th B.P.S.C. (Pre) 2000
-
-Ans. (a)
-
-See the explanation of above question.
-
+**Ans: A.** The Gandhi-Irwin Pact was signed on 5th March 1931 in Delhi, after prolonged talks between Mahatma Gandhi and Lord Irwin.
 </details>
 
 ---

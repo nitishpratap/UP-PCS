@@ -1776,12 +1776,14 @@ into English by A.R. Fuller in 19th century A.D.
 
 ---
 
-**Q-GC37. (c) Sher Shah : Tarikh-i-Sher Shahi, (d) Akbar : Tabaqat-i-Akbari, U.P.P.C.S. (Mains) 2009**
+**Q-GC37. U.P.P.C.S. (Mains) 2009**
 
 Which of the following pairs is correctly matched?
 
 - (a) Babur : Tuzuk-i-Baburi
 - (b) Humayun : Humayun Nama
+C. Sher Shah : Tarikh-i-Sher Shahi
+D. Akbar : Tabaqat-i-Akbari
 
 <details><summary>Show answer</summary>
 
@@ -2041,12 +2043,14 @@ Sujanrai Bhandari - Khulasat-ut-Tawarikh
 
 ---
 
-**Q-GC47. (c) Haridas (d) None of them, 69th B.P.S.C. (Pre) 2023**
+**Q-GC47. 69th B.P.S.C. (Pre) 2023**
 
 Futuhat-i-Alamgiri was written by
 
 - (a) Ishwardas Nagar
 - (b) Bhimsen
+C. Haridas
+D. None of them
 
 <details><summary>Show answer</summary>
 
@@ -2085,13 +2089,15 @@ expert in writing Nastaliq script.
 
 ---
 
-**Q-GC49. (c) Raja Chhatrasal (d) Raja Sawant Singh, U.P.P.S.C. (GIC) 2010, U.P.P.C.S. (Mains) 2004**
+**Q-GC49. U.P.P.S.C. (GIC) 2010, U.P.P.C.S. (Mains) 2004**
 
 The poet Heart King, who wrote praising verses for
 Lord Krishna under the name of Nagri Das was –
 
 - (a) Raja Ummed Singh
 - (b) Raja Ram Singh
+C. Raja Chhatrasal
+D. Raja Sawant Singh
 
 <details><summary>Show answer</summary>
 
@@ -2109,13 +2115,15 @@ of Kishangarh patronized the Nimbarka sect.
 
 ---
 
-**Q-GC50. (c) Raskhan (d) Senapati, U.P.P.C.S. (Spl) (Mains) 2008**
+**Q-GC50. U.P.P.C.S. (Spl) (Mains) 2008**
 
 Which one of the following, wrote the famous works
 ‘Rama Chandrika’ and ‘Rasik-Priya’ ?
 
 - (a) Keshav
 - (b) Matiram
+C. Raskhan
+D. Senapati
 
 <details><summary>Show answer</summary>
 
@@ -2154,10 +2162,14 @@ Rasikpriya, Kavipriya are poems attributed to him.
 
 ---
 
-**Q-GC52. (a) Ramachandrika (b) Kavipriya, (c) Ratan Bavani (d) Ram Rasayan, M.P. P.C.S. (Pre) 2025**
+**Q-GC52. M.P. P.C.S. (Pre) 2025**
 
 Which of the following books was not written by
 Keshavdas?
+A. Ramachandrika
+B. Kavipriya
+C. Ratan Bavani
+D. Ram Rasayan
 
 <details><summary>Show answer</summary>
 

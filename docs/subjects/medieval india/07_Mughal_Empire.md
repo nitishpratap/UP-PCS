@@ -668,7 +668,7 @@ Complete unabridged 27-question bank from Ghatna Chakra covering Babur's ancestr
 
 ---
 
-**Q-GC1. (d) A high official in Punjab province who was very much, discontented with Ibrahim Lodi’s treatment of his tribe, I.A.S. (Pre) 2003**
+**Q-GC1. I.A.S. (Pre) 2003**
 
 Alam Khan, one of those who invited Babur to invade
 India was :
@@ -676,6 +676,7 @@ India was :
 - (a) An uncle of Ibrahim Lodi and a pretender to the throne of Delhi
 - (b) A cousin of Ibrahim Lodi who was ill-treated and expelled from the country
 - (c) The father of Dilawar Khan to whom cruel treatment was meted out by Ibrahim Lodi
+D. A high official in Punjab province who was very much, discontented with Ibrahim Lodi’s treatment of his tribe
 
 <details><summary>Show answer</summary>
 
@@ -963,12 +964,14 @@ B
 
 ---
 
-**Q-GC10. (c) Sikandar Lodi (d) Sher Shah Suri, M.P.P.C.S. (Pre) 2005**
+**Q-GC10. M.P.P.C.S. (Pre) 2005**
 
 Whom did Babur defeat in the first battle of Panipat?
 
 - (a) Rana Sanga
 - (b) Ibrahim Lodi
+C. Sikandar Lodi
+D. Sher Shah Suri
 
 <details><summary>Show answer</summary>
 
@@ -1021,7 +1024,7 @@ death of his father. He was defeated and killed by Babur on
 
 ---
 
-**Q-GC12. (d) Battle of Chanderi - 1530, U.P.P.C.S. (Re. Exam) (Pre) 2015**
+**Q-GC12. U.P.P.C.S. (Re. Exam) (Pre) 2015**
 
 Which one of the following pairs is not correctly
 matched?
@@ -1029,6 +1032,7 @@ matched?
 - (a) First Battle of Panipat - 1526
 - (b) Battle of Khanwa - 1527
 - (c) Battle of Ghaghara - 1529
+D. Battle of Chanderi - 1530
 
 <details><summary>Show answer</summary>
 
@@ -1192,13 +1196,15 @@ Humayun, the son of Babur, built Qila-i-Kuhna mosque.
 
 ---
 
-**Q-GC16. (c) Battle of Chanderi (d) None of the above, U.P.P.C.S. (Mains) 2009**
+**Q-GC16. U.P.P.C.S. (Mains) 2009**
 
 During which one of the following battles did Babur
 declare ‘Jehad’ ?
 
 - (a) Battle of Panipat
 - (b) Battle of Khanwa
+C. Battle of Chanderi
+D. None of the above
 
 <details><summary>Show answer</summary>
 
@@ -1216,7 +1222,7 @@ and assumed the title of ‘Ghazi.’
 
 ---
 
-**Q-GC17. (c) Battle of Chanderi (d) Battle of Ghaghara, U.P.P.C.S. (UDA/LDA) (Pre) 2010**
+**Q-GC17. U.P.P.C.S. (UDA/LDA) (Pre) 2010**
 
 In which one of the following battles, Rana Sanga
 fought against Babur?
@@ -1224,6 +1230,8 @@ Indian History General Studies B–277
 
 - (a) Battle of Panipat
 - (b) Battle of Khanwa
+C. Battle of Chanderi
+D. Battle of Ghaghara
 
 <details><summary>Show answer</summary>
 
@@ -1244,13 +1252,15 @@ and assumed the title of ‘Ghazi.’
 
 ---
 
-**Q-GC18. (c) Sawai Uday Singh (d) Rana Sanga, U.P.P.C.S. (Mains) 2004**
+**Q-GC18. U.P.P.C.S. (Mains) 2004**
 
 The ruler of Mewar who was defeated in the Battle of
 Khanwa by Babur in 1527 was –
 
 - (a) Rana Pratap
 - (b) Man Singh
+C. Sawai Uday Singh
+D. Rana Sanga
 
 <details><summary>Show answer</summary>
 
@@ -1634,7 +1644,7 @@ Thus, statement 1 is true, and statement 2 is false.
 
 ---
 
-**Q-GC30. (d) Imperial policy, R.A.S. / R.T.S. (Pre) 1992**
+**Q-GC30. R.A.S. / R.T.S. (Pre) 1992**
 
 The main aim of Akbar in fighting the Battle of
 Haldighati was –
@@ -1642,6 +1652,7 @@ Haldighati was –
 - (a) To subdue Rana Pratap
 - (b) To polarise Rajputs
 - (c) To satisfy sentiments of Man Singh
+D. Imperial policy
 
 <details><summary>Show answer</summary>
 
@@ -1814,7 +1825,7 @@ Lahore which was a part of Akbar’s empire.
 
 ---
 
-**Q-GC36. (d) Sisodias, U.P.P.C.S. (Pre) 2004**
+**Q-GC36. U.P.P.C.S. (Pre) 2004**
 
 The first matrimonial alliance with the Rajputs was
 established by Akbar with the house of :
@@ -1822,6 +1833,7 @@ established by Akbar with the house of :
 - (a) Bundelas
 - (b) Kachhwahas
 - (c) Rathores
+D. Sisodias
 
 <details><summary>Show answer</summary>
 
@@ -1904,7 +1916,7 @@ of this wedlock on August 30, 1569 AD.
 
 ---
 
-**Q-GC38. (d) Shaikh Farid Sanj-ai-Shakar, U.P.P.C.S. (Mains) 2012**
+**Q-GC38. U.P.P.C.S. (Mains) 2012**
 
 The Mausoleum (Dargah) of which Chishti Saint was
 visited by Akbar ?
@@ -1912,6 +1924,7 @@ visited by Akbar ?
 - (a) Muinuddin Chishti
 - (b) Shaikh Nasimuddin Chirag Dehalvi
 - (c) Qutbuddin Bakhtiyar Kaki
+D. Shaikh Farid Sanj-ai-Shakar
 
 <details><summary>Show answer</summary>
 
@@ -2045,12 +2058,14 @@ Mandla district of M.P.).
 
 ---
 
-**Q-GC43. (c) Prince Murad, (d) Prince Daniyal, Jharkhand P.C.S. (Pre) 2013**
+**Q-GC43. Jharkhand P.C.S. (Pre) 2013**
 
 Abul Fazl’s death was caused by –
 
 - (a) Prince Salim
 - (b) Abdur Rahim Khan-i-Khanan
+C. Prince Murad
+D. Prince Daniyal
 
 <details><summary>Show answer</summary>
 
@@ -2420,9 +2435,13 @@ rank or status.
 
 ---
 
-**Q-GC53. (a) Mansabdari (b) Zamindari, (c) Feudalistic (d) Ain-i-Dahsala, U.P.P.C.S. (Pre) 1992**
+**Q-GC53. U.P.P.C.S. (Pre) 1992**
 
 Military system in the reign of Akbar was based on :
+A. Mansabdari
+B. Zamindari
+C. Feudalistic
+D. Ain-i-Dahsala
 
 <details><summary>Show answer</summary>
 
@@ -3034,12 +3053,14 @@ as 'Shah-i-Fatehpur' or 'Shan-i-Sikri'.
 
 ---
 
-**Q-GC72. (c) Jodha Bai Palace (d) Akbari Mahal, Uttarakhand P.C.S. (Pre) 2012**
+**Q-GC72. Uttarakhand P.C.S. (Pre) 2012**
 
 Which monument is not at Fatehpur Sikri ?
 
 - (a) Golden Palace
 - (b) Panch Mahal
+C. Jodha Bai Palace
+D. Akbari Mahal
 
 <details><summary>Show answer</summary>
 
@@ -3304,13 +3325,15 @@ received no formal education, he patronized men of learning.
 
 ---
 
-**Q-GC81. (c) Allahabad Fort (d) Fatehpur Sikri, R.A.S./R.T.S. (Pre) 1994**
+**Q-GC81. R.A.S./R.T.S. (Pre) 1994**
 
 The finest monuments constructed by Akbar are found
 in–
 
 - (a) Agra Fort
 - (b) Lahore Fort
+C. Allahabad Fort
+D. Fatehpur Sikri
 
 <details><summary>Show answer</summary>
 
@@ -3461,12 +3484,14 @@ is inspired by the Palace of Man Singh of Gwalior.
 
 ---
 
-**Q-GC86. (c) Aurangabad (d) Fatehpur Sikri, U.P.P.C.S. (Pre) 1992**
+**Q-GC86. U.P.P.C.S. (Pre) 1992**
 
 Where is the Tomb of Akbar located ?
 
 - (a) Sikandara
 - (b) Agra
+C. Aurangabad
+D. Fatehpur Sikri
 
 <details><summary>Show answer</summary>
 
@@ -3978,13 +4003,15 @@ the emperor of India at that time.
 
 ---
 
-**Q-GC104. (c) Raskhan (d) Abul Fazl, I.A.S. (Pre) 1997**
+**Q-GC104. I.A.S. (Pre) 1997**
 
 The medieval Indian writer who refers to the discovery
 of America is :
 
 - (a) Malik Muhammad Jaisi
 - (b) Amir Khusrau
+C. Raskhan
+D. Abul Fazl
 
 <details><summary>Show answer</summary>
 
@@ -4474,12 +4501,14 @@ the emperor. He went with the emperor for hunting.
 
 ---
 
-**Q-GC119. (c) Delhi (d) Fatehpur Sikri, U.P.P.C.S. (Mains) 2007**
+**Q-GC119. U.P.P.C.S. (Mains) 2007**
 
 Thomas Roe was received in audience by Jahangir at :
 
 - (a) Agra
 - (b) Ajmer
+C. Delhi
+D. Fatehpur Sikri
 
 <details><summary>Show answer</summary>
 
@@ -4611,12 +4640,14 @@ Thus, both options (b) and (d) are correct.
 
 ---
 
-**Q-GC124. (c) Lahore (d) Srinagar, Uttarakhand Lower (Sub.) (Pre) 2010**
+**Q-GC124. Uttarakhand Lower (Sub.) (Pre) 2010**
 
 Where was Emperor Jahangir buried ?
 
 - (a) Agra
 - (b) Delhi
+C. Lahore
+D. Srinagar
 
 <details><summary>Show answer</summary>
 
@@ -5159,9 +5190,15 @@ on suzerainty of Qandahar.
 
 ---
 
-**Q-GC144. empire from the viewpoint of :, (a) Natural resources (b) Buffer territory, (c) Communication (d) Strategic stronghold, I.A.S. (Pre) 1998**
+**Q-GC144. I.A.S. (Pre) 1998**
+
+empire from the viewpoint of :,
 
 The loss of Qandahar was a big blow to the Mughal
+A. Natural resources
+B. Buffer territory
+C. Communication
+D. Strategic stronghold
 
 <details><summary>Show answer</summary>
 
@@ -5181,7 +5218,7 @@ B
 
 ---
 
-**Q-GC145. (c) Kavindracharya (d) Kavi Hariram, U.P.P.C.S. (Pre) 2000**
+**Q-GC145. U.P.P.C.S. (Pre) 2000**
 
 Who had led a deputation of Banaras pandits before
 the Mughal emperor to seek the abolition of pilgrim
@@ -5189,6 +5226,8 @@ tax on Banaras and Allahabad ?
 
 - (a) Haranth
 - (b) Jagannath
+C. Kavindracharya
+D. Kavi Hariram
 
 <details><summary>Show answer</summary>
 
@@ -5281,12 +5320,14 @@ Shah Jahan.
 
 ---
 
-**Q-GC149. (c) Mehrunnisa (d) Roshan Ara, Jharkhand P.C.S. (Pre) 2003**
+**Q-GC149. Jharkhand P.C.S. (Pre) 2003**
 
 The actual name of Mumtaz Mahal was –
 
 - (a) Arjumand Bano Begum
 - (b) Ladli Begum
+C. Mehrunnisa
+D. Roshan Ara
 
 <details><summary>Show answer</summary>
 
@@ -5690,7 +5731,7 @@ Bhagwad Gita etc. in the Persian language.
 
 ---
 
-**Q-GC165. (c) A.L. Srivastava (d) None of the above, 41st B.P.S.C. (Pre) 1996**
+**Q-GC165. 41st B.P.S.C. (Pre) 1996**
 
 Who among the following historians declared the
 regime of Shah Jahan to be the Golden Era of the
@@ -5698,6 +5739,8 @@ Mughal period?
 
 - (a) V.A. Smith
 - (b) J.N. Sarkar
+C. A.L. Srivastava
+D. None of the above
 
 <details><summary>Show answer</summary>
 
@@ -6484,13 +6527,15 @@ Shah Jahan.
 
 ---
 
-**Q-GC193. (c) Jahan Ara (d) Roshan Ara, U.P.P.C.S. (Pre) 2014**
+**Q-GC193. U.P.P.C.S. (Pre) 2014**
 
 To whom Aurangzeb bestowed upon the title of
 ‘Sahibat-uz-Zamani’ ?
 
 - (a) Shaista Khan
 - (b) Amin Khan
+C. Jahan Ara
+D. Roshan Ara
 
 <details><summary>Show answer</summary>
 
@@ -7456,7 +7501,7 @@ called Khazana.
 
 ---
 
-**Q-GC224. (d) Property tax, 48th to 52nd B.P.S.C. (Pre) 2008**
+**Q-GC224. 52nd B.P.S.C. (Pre) 2008**
 
 The meaning of word Bantai during the Medieval period
 was?
@@ -7464,6 +7509,7 @@ was?
 - (a) Religious Tax
 - (b) System of calculating revenue
 - (c) Wealth tax
+D. Property tax, 48th to
 
 <details><summary>Show answer</summary>
 
@@ -8310,13 +8356,15 @@ Haj from Surat. Hence, Surat was known as ‘Meccai dwar,’
 
 ---
 
-**Q-GC249. (c) Cambay (d) Broach, 69th B.P.S.C. (Pre) 2023**
+**Q-GC249. 69th B.P.S.C. (Pre) 2023**
 
 Which among the following ports was called Babul
 Makka (Gate of Makka) during the Mughal period?
 
 - (a) Calicut
 - (b) Surat
+C. Cambay
+D. Broach
 
 <details><summary>Show answer</summary>
 
@@ -8849,12 +8897,14 @@ of the people.
 
 ---
 
-**Q-GC265. (c) Diwan Revenue Chief of a province, (d) Jarib A type of tax, U.P.P.C.S. (Pre) 2019**
+**Q-GC265. U.P.P.C.S. (Pre) 2019**
 
 Which of the following is NOT correctly matched?
 
 - (a) Dam Copper coin
 - (b) Desai Revenue Collector
+C. Diwan Revenue Chief of a province
+D. Jarib A type of tax
 
 <details><summary>Show answer</summary>
 

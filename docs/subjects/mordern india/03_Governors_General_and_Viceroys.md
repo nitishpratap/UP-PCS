@@ -1390,12 +1390,14 @@ the governor general of Bengal in 1774 A.D.
 
 ---
 
-**Q-GC5. (c) Lord William Bentinck was one of the greatest British, rulers as he consolidated the British Empire in India, (d) Lord Dalhousie added rich semitones to the British, Empire on the basis of the Doctrine of Lapse., U.P.P.S.C. (GIC) 2010**
+**Q-GC5. U.P.P.S.C. (GIC) 2010**
 
 Which one of the following statements is not true?
 
 - (a) The foundation of the system of civil administration, was firmly laid down by Warren Hastings on which the superstructure was raised by Cornwallis.
 - (b) Clive was responsible for reforming the East India Company’s Civil and Military Services.
+C. Lord William Bentinck was one of the greatest British, rulers as he consolidated the British Empire in India
+D. Lord Dalhousie added rich semitones to the British, Empire on the basis of the Doctrine of Lapse.
 
 <details><summary>Show answer</summary>
 
@@ -1933,7 +1935,7 @@ Ghazipur. His grave is situated at Ghazipur (U.P.).
 
 ---
 
-**Q-GC21. (d) To establish British paramountcy over the Indian States, I.A.S. (Pre) 2018**
+**Q-GC21. I.A.S. (Pre) 2018**
 
 Which one of the following statements does not apply to
 
@@ -1944,6 +1946,7 @@ Wellesley?
 - (a) To maintain a large standing army at other’s expense
 - (b) To keep India safe from Napoleonic danger
 - (c) To secure a fixed income for the company
+D. To establish British paramountcy over the Indian States
 
 <details><summary>Show answer</summary>
 
@@ -2356,7 +2359,7 @@ Indian History General Studies B–369
 
 ---
 
-**Q-GC30. (d) To establish the sovereignty of the British, R.A.S./R.T.S. (Pre) 1992**
+**Q-GC30. R.A.S./R.T.S. (Pre) 1992**
 
 The main aim of East India Company to make a
 
@@ -2365,6 +2368,7 @@ subsidiary alliance in Rajput states was-
 - (a) Receiving military support against enemies
 - (b) Protecting these states from Maratha-Pindari invasion
 - (c) To receive funds in the form of Khiraj
+D. To establish the sovereignty of the British
 
 <details><summary>Show answer</summary>
 
@@ -2651,7 +2655,7 @@ to give up almost half of his state.
 
 ---
 
-**Q-GC40. (d) Captain Robert Pemberton, I.A.S. (Pre) 1997**
+**Q-GC40. I.A.S. (Pre) 1997**
 
 Who among the following was associated with
 
@@ -2660,6 +2664,7 @@ suppression of thugs?
 - (a) General Henry Prendergast
 - (b) Captain Sleeman
 - (c) Alexander Burres
+D. Captain Robert Pemberton
 
 <details><summary>Show answer</summary>
 
@@ -2773,13 +2778,14 @@ of religion was removed in 1850 A.D. Hence, statements
 
 ---
 
-**Q-GC43. (d) Lord Ripon, U.P. P.C.S. (Mains) 2012, M.P. P.C.S. (Pre) 1998, M.P. P.C.S. (Pre) 1993, U.P. P.C.S. (Pre) 1990**
+**Q-GC43. U.P. P.C.S. (Mains) 2012, M.P. P.C.S. (Pre) 1998, M.P. P.C.S. (Pre) 1993, U.P. P.C.S. (Pre) 1990**
 
 Sati system was abolished by –
 
 - (a) Lord Warren Hastings
 - (b) Lord Wellesley
 - (c) Lord William Bentinck
+D. Lord Ripon
 
 <details><summary>Show answer</summary>
 
@@ -3818,12 +3824,14 @@ became the first Viceroy of India.
 
 ---
 
-**Q-GC74. (c) Lord Canning (d) Lord Ripon, U.P.P.S.C. (GIC) 2010**
+**Q-GC74. U.P.P.S.C. (GIC) 2010**
 
 Who of the following was the first Viceroy of India?
 
 - (a) Lord Clive
 - (b) Lord Cornwallis
+C. Lord Canning
+D. Lord Ripon
 
 <details><summary>Show answer</summary>
 
@@ -3845,7 +3853,7 @@ became the first Viceroy of India.
 
 ---
 
-**Q-GC75. (c) Bombay (d) Madras, U.P.P.C.S. (Mains) 2009**
+**Q-GC75. U.P.P.C.S. (Mains) 2009**
 
 Queen Victoria’s Proclamation was read out by Lord
 
@@ -3853,6 +3861,8 @@ Canning on 1st November, 1858 at –
 
 - (a) Allahabad
 - (b) Calcutta
+C. Bombay
+D. Madras
 
 <details><summary>Show answer</summary>
 
@@ -4358,11 +4368,15 @@ began in 1881 A.D. during the tenure of Lord Ripon.
 
 ---
 
-**Q-GC92. (a) Ripon (b) Lytton, (c) Dufferin (d) Lord Mayo, Uttarakhand P.C.S. (Mains) 2006**
+**Q-GC92. Uttarakhand P.C.S. (Mains) 2006**
 
 Who was the person to conduct Census in India for the
 
 first time?
+A. Ripon
+B. Lytton
+C. Dufferin
+D. Lord Mayo
 
 <details><summary>Show answer</summary>
 
@@ -4407,12 +4421,14 @@ He was the first Viceroy killed, during his tenure.
 
 ---
 
-**Q-GC94. (c) Lord Ripon (d) Lord Wellesley, Uttarakhand P.C.S. (Pre) 2010**
+**Q-GC94. Uttarakhand P.C.S. (Pre) 2010**
 
 Which Viceroy was murdered in his tenure?
 
 - (a) Lord Curzon
 - (b) Lord Mayo
+C. Lord Ripon
+D. Lord Wellesley
 
 <details><summary>Show answer</summary>
 
@@ -4752,7 +4768,7 @@ institutions were given several tasks and sources of income.
 
 ---
 
-**Q-GC102. (c) Lord Canning (d) Lord Ripon, U.P.P.C.S (Pre) 2010, Uttarakhand P.C.S. (Mains) 2002, U.P.P.C.S. (Pre) 1996**
+**Q-GC102. U.P.P.C.S (Pre) 2010, Uttarakhand P.C.S. (Mains) 2002, U.P.P.C.S. (Pre) 1996**
 
 Who was responsible for encouraging the local self
 
@@ -4760,6 +4776,8 @@ Govt. in India?
 
 - (a) Lord Mayo
 - (b) Lord Lytton
+C. Lord Canning
+D. Lord Ripon
 
 <details><summary>Show answer</summary>
 
@@ -4830,7 +4848,7 @@ that ultimately played on racial tensions.
 
 ---
 
-**Q-GC104. (c) Lord Ripon (d) Lord Canning, I.A.S. (Pre) 2007**
+**Q-GC104. I.A.S. (Pre) 2007**
 
 The first Factory Act for restricting the working
 
@@ -4842,6 +4860,8 @@ during whose time?
 
 - (a) Lord Lytton
 - (b) Lord Bentinck
+C. Lord Ripon
+D. Lord Canning
 
 <details><summary>Show answer</summary>
 
@@ -4912,7 +4932,7 @@ issues. Therefore, only statement 2 is correct.
 
 ---
 
-**Q-GC106. (c) Lord Curzon (d) Lord Ripon, U.P.P.C.S. (Pre) 2015**
+**Q-GC106. U.P.P.C.S. (Pre) 2015**
 
 Who amongst the following is considered to be the
 
@@ -4920,6 +4940,8 @@ Father of ‘Local Self-Government’ in India?
 
 - (a) Lord Dalhousie
 - (b) Lord Canning
+C. Lord Curzon
+D. Lord Ripon
 
 <details><summary>Show answer</summary>
 
@@ -5263,7 +5285,7 @@ in 1901. John Marshall assumed the charge in 1902 A.D.
 
 ---
 
-**Q-GC115. (c) Dadabhai Naoroji (d) Annie Besant, U.P.P.C.S. (Mains) 2012**
+**Q-GC115. U.P.P.C.S. (Mains) 2012**
 
 Who compared Curzon’s administration in India to
 
@@ -5271,6 +5293,8 @@ that of Aurangzeb?
 
 - (a) B.G. Tilak
 - (b) G.K. Gokhale
+C. Dadabhai Naoroji
+D. Annie Besant
 
 <details><summary>Show answer</summary>
 
@@ -5572,7 +5596,7 @@ the incidents during his period.
 
 ---
 
-**Q-GC124. (d) Ilbert Bill : Ripon, I.A.S. (Pre) 2004**
+**Q-GC124. I.A.S. (Pre) 2004**
 
 Which one of the following pairs is not correctly
 
@@ -5581,6 +5605,7 @@ matched?
 - (a) Pitt’s India Act : Warren Hastings
 - (b) Doctrine of Lapse : Dalhousie
 - (c) Vernacular Press Act : Curzon
+D. Ilbert Bill : Ripon
 
 <details><summary>Show answer</summary>
 

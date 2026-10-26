@@ -2109,7 +2109,7 @@ See the explanation of above question.
 
 ---
 
-**Q-GC24. (d) Maharana Amar Singh of Udaipur, R.A.S./R.T.S.(Pre) 2007**
+**Q-GC24. R.A.S./R.T.S.(Pre) 2007**
 
 The book’ Jiz Muhammad Shahi’ related to knowledge
 of Astrology produced in 1773 is written by :
@@ -2117,6 +2117,7 @@ of Astrology produced in 1773 is written by :
 - (a) Darbar Jaswant Singh of Jodhpur
 - (b) Raja Bharmal of Amber
 - (c) Swai Jai Singh of Jaipur
+D. Maharana Amar Singh of Udaipur
 
 <details><summary>Show answer</summary>
 

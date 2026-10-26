@@ -1047,12 +1047,14 @@ of all that exists.’
 
 ---
 
-**Q-GC11. (c) Shrikantacharya (d) Ramanuja, U.P.P.C.S. (UDA/LDA) (Pre) 2002**
+**Q-GC11. U.P.P.C.S. (UDA/LDA) (Pre) 2002**
 
 “Shuddha Advaitvad” was propounded by –
 
 - (a) Madhvacharya
 - (b) Vallabhacharya
+C. Shrikantacharya
+D. Ramanuja
 
 <details><summary>Show answer</summary>
 
@@ -1678,13 +1680,14 @@ food together without any caste discrimination.
 
 ---
 
-**Q-GC33. (d) Ramakrishna Paramhansa, U.P.P.C.S. (Pre) 1995**
+**Q-GC33. U.P.P.C.S. (Pre) 1995**
 
 Mirabai was contemporary of :
 
 - (a) Tulsidas
 - (b) Chaitanya Mahaprabhu
 - (c) Guru Nanak
+D. Ramakrishna Paramhansa
 
 <details><summary>Show answer</summary>
 
@@ -1714,12 +1717,14 @@ of her.
 
 ---
 
-**Q-GC34. (c) Rana Uday Singh (d) Rana Sanga, R.A.S./R.T.S. (Pre) 1997**
+**Q-GC34. R.A.S./R.T.S. (Pre) 1997**
 
 The name of the husband of famous devotee poet Mira-
 
 - (a) Rana Ratan Singh
 - (b) Rajkumar Bhojraj
+C. Rana Uday Singh
+D. Rana Sanga
 
 <details><summary>Show answer</summary>
 
@@ -1996,13 +2001,15 @@ Indian History General Studies B–267
 
 ---
 
-**Q-GC43. (c) Vinay Patrika (d) Sahitya Ratna, M.P.P.C.S. (Pre) 2014**
+**Q-GC43. M.P.P.C.S. (Pre) 2014**
 
 Which of the following is not a composition of Saint
 Tulsidas?
 
 - (a) Gitavali
 - (b) Kavitavali
+C. Vinay Patrika
+D. Sahitya Ratna
 
 <details><summary>Show answer</summary>
 
@@ -2259,7 +2266,7 @@ reason (R) is not the correct interpretation of the statement.
 
 ---
 
-**Q-GC52. (d) Shaikh Bahauddin Zakariya, U.P.P.C.S. (Pre) 2002**
+**Q-GC52. U.P.P.C.S. (Pre) 2002**
 
 The “Chishtia Sufi Order” in India was established
 by-
@@ -2267,6 +2274,7 @@ by-
 - (a) Khwaja Badaruddin
 - (b) Khwaja Muinuddin
 - (c) Shaikh Ahmad Sirhind
+D. Shaikh Bahauddin Zakariya
 
 <details><summary>Show answer</summary>
 
@@ -2578,12 +2586,15 @@ Hazrat Ali. Therefore, assertion (A) is right, but reason
 
 ---
 
-**Q-GC62. (b) Baba Farid, (c) Sayyid Muhammad Gisudaraz, (d) Shah Alam Bukhari, I.A.S. (Pre) 1996**
+**Q-GC62. I.A.S. (Pre) 1996**
 
 The Sufi saint who maintained that devotional music
 was one way of coming close to God was :
 
 - (a) Muinuddin Chishti
+B. Baba Farid
+C. Sayyid Muhammad Gisudaraz
+D. Shah Alam Bukhari
 
 <details><summary>Show answer</summary>
 
@@ -2821,12 +2832,14 @@ Balban. Hansi and Ajodhan were the centres of his activities.
 
 ---
 
-**Q-GC70. (c) Fatehpur Sikri (d) Lahore, R.A.S./R.T.S. (Pre) 1999**
+**Q-GC70. R.A.S./R.T.S. (Pre) 1999**
 
 The famous saint Shaikh Salim Chishti lived in-
 
 - (a) Delhi
 - (b) Ajmer
+C. Fatehpur Sikri
+D. Lahore
 
 <details><summary>Show answer</summary>
 
@@ -3140,13 +3153,15 @@ B
 
 ---
 
-**Q-GC79. (c) Qadiriya (d) Naqshbandiya, U.P.P.C.S. (Mains) 2013, U.P.P.C.S. (Pre) 2003, U.P.P.C.S. (UDA/LDA) (Pre) 2002**
+**Q-GC79. U.P.P.C.S. (Mains) 2013, U.P.P.C.S. (Pre) 2003, U.P.P.C.S. (UDA/LDA) (Pre) 2002**
 
 Which of the following order of Sufism was against
 music :
 
 - (a) Chishtiya
 - (b) Suhrawardiya
+C. Qadiriya
+D. Naqshbandiya
 
 <details><summary>Show answer</summary>
 
@@ -3238,10 +3253,14 @@ in Delhi. Thus, option (c) is incorrect.
 
 ---
 
-**Q-GC82. (a) Quaderia (b) Firdousia, (c) Qalandhar (d) Kubriya, 70th B.P.S.C. Re-Exam 2024**
+**Q-GC82. 70th B.P.S.C. Re-Exam 2024**
 
 Which of the following Sufi Silsilah was founded in
 Bihar?
+A. Quaderia
+B. Firdousia
+C. Qalandhar
+D. Kubriya
 
 <details><summary>Show answer</summary>
 
@@ -3375,10 +3394,14 @@ laws of Islam. Therefore, Ulema is not related to Sufism.
 
 ---
 
-**Q-GC87. (a) Bihari (b) Surdas, (c) Raskhan (d) Kabir, I.A.S. (Pre) 1996**
+**Q-GC87. I.A.S. (Pre) 1996**
 
 Prem Vatika, poems on the life of Krishna, was
 composed by :
+A. Bihari
+B. Surdas
+C. Raskhan
+D. Kabir
 
 <details><summary>Show answer</summary>
 
@@ -3434,13 +3457,14 @@ the second saint of Krishnamargi branch.
 
 ---
 
-**Q-GC89. (d) Raskhan, 39th B.P.S.C. (Pre) 1994**
+**Q-GC89. 39th B.P.S.C. (Pre) 1994**
 
 Who composed ‘Barahmasa’?
 
 - (a) Amir Khusrau
 - (b) Imami
 - (c) Malik Muhammad Jayasi
+D. Raskhan
 
 <details><summary>Show answer</summary>
 
@@ -3493,9 +3517,15 @@ Correctly matched list is as follows :
 
 ---
 
-**Q-GC91. saint Haji Waris Ali Shah at –, (a) Fatehpur Sikri (b) Kaliyar, (c) Dewa Sharif (d) Garhmukteshwar, U.P.P.C.S. (Pre) 2008**
+**Q-GC91. U.P.P.C.S. (Pre) 2008**
+
+saint Haji Waris Ali Shah at –,
 
 Every year a fair is held at the tomb of famous Sufi
+A. Fatehpur Sikri
+B. Kaliyar
+C. Dewa Sharif
+D. Garhmukteshwar
 
 <details><summary>Show answer</summary>
 
@@ -3530,7 +3560,7 @@ Jesus Christ was born in Bethlehem (Jerusalem).
 
 ---
 
-**Q-GC93. (d) The day of Resurrection of Christ, R.A.S./R.T.S. (Pre) 1992**
+**Q-GC93. R.A.S./R.T.S. (Pre) 1992**
 
 The spirit of Christians behind the festival of Easter
 is-
@@ -3538,6 +3568,7 @@ is-
 - (a) Jesus preached this day
 - (b) Jesus departed from the world
 - (c) Jesus went to Nazareth
+D. The day of Resurrection of Christ
 
 <details><summary>Show answer</summary>
 
@@ -3575,18 +3606,18 @@ B
 
 ---
 
-**Q-GC95. Why is Good Friday of Christians celebrated?, (a) Jesus Christ had died (b) Jesus Christ was born, (c) Jesus Christ crucified (d) AD was introduced, U.P.P.C.S. (Pre) 1990**
+**Q-GC95. U.P.P.C.S. (Pre) 1990**
+
+Why is Good Friday of Christians celebrated?
+
+A. Jesus Christ had died
+B. Jesus Christ was born
+C. Jesus Christ was crucified
+D. AD was introduced
 
 <details><summary>Show answer</summary>
 
-**Answer: (c)**
-
-**Explanation:**
-Good Friday is celebrated as a remembrance of the sacrificial
-
-death of Jesus Christ. According to the Bible, Jesus Christ
-
-was hanged on Friday.
+**Ans: C.** Good Friday is celebrated as a remembrance of the sacrificial death of Jesus Christ. According to the Bible, Jesus Christ was crucified on Friday.
 </details>
 
 ---

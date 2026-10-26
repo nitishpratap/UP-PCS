@@ -1353,7 +1353,7 @@ Select the correct answer from the codes given below:
 **Ans: B.** 2, 1, 3, 4
 </details>
 
-**Q-ST26. (d) 1 3 2 4 UPPCS (Pre) 1992**
+**Q-ST26. UPPCS (Pre) 1992**
 
 Match the following :
 A. 5 June 1. Food Day
@@ -1365,6 +1365,7 @@ A B C D
 (a) 2 3 4 1
 (b) 2 3 1 4
 (c) 3 2 4 1
+D. 1 3 2 4
 
 <details>
 <summary>Show answer</summary>

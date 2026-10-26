@@ -1394,9 +1394,13 @@ expelled his viceroy Timur Shah from Lahore.
 
 ---
 
-**Q-GC39. (a) Afghans (b) Britishers, (c) Mughals (d) Rohillas, U.P.P.C.S. (Mains) 2012, Uttarakhand P.C.S. (Pre) 2009, U.P.P.C.S. (Pre) 1994, 1993**
+**Q-GC39. U.P.P.C.S. (Mains) 2012, Uttarakhand P.C.S. (Pre) 2009, U.P.P.C.S. (Pre) 1994, 1993**
 
 In the Third Battle of Panipat, Marathas were defeated by–
+A. Afghans
+B. Britishers
+C. Mughals
+D. Rohillas
 
 <details><summary>Show answer</summary>
 

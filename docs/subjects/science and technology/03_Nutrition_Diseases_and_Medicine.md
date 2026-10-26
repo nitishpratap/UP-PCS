@@ -2676,10 +2676,13 @@ D. Young men & women
 **Ans: C.** Young women
 </details>
 
-**Q-ST142. (c) Lung disease (d) Neurological disorder / Uttarakhand U.D.A./L.D.A. (Pre) 2007**
+**Q-ST142. Uttarakhand U.D.A./L.D.A. (Pre) 2007**
 
 ‘Silicosis’ is a –
-(a)	 Kidney disease	 (b)	 Liver disease  
+(a)	 Kidney disease	 (b)	 Liver disease
+C. Lung disease
+D. Neurological disorder
+
 <details>
 <summary>Show answer</summary>
 
@@ -5910,13 +5913,15 @@ D. None of the above
 **Ans: C.** Both 1 and 2
 </details>
 
-**Q-ST84. (d) Non-disjunction I.A.S. (Pre) 1994**
+**Q-ST84. I.A.S. (Pre) 1994**
 
 Phenylketonuria is an example of an inborn error of
 metabolism. This ‘error’ refers to :
 (a)	 Hormonal overproduction
 (b)	 Atrophy of endocrine glands
-(c)	 Inherited lack of an enzyme  
+(c)	 Inherited lack of an enzyme
+D. Non-disjunction
+
 <details>
 <summary>Show answer</summary>
 

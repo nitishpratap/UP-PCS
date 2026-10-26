@@ -816,12 +816,14 @@ and title of ‘Saheb-e-Alam- Bahadur.
 
 ---
 
-**Q-GC7. (c) Management of Christian Missionaries, (d) Policy of the British Empire, U.P. P.C.S. (Pre) 1990**
+**Q-GC7. U.P. P.C.S. (Pre) 1990**
 
 What was the main cause of 1857 revolt?
 
 - (a) Public Outrage
 - (b) Military discontent
+C. Management of Christian Missionaries
+D. Policy of the British Empire
 
 <details><summary>Show answer</summary>
 
@@ -1171,7 +1173,7 @@ Indian History General Studies B–395
 
 ---
 
-**Q-GC16. (c) Varanasi (d) Vrindaban, U.P.P.C.S. (Spl) (Pre) 2008**
+**Q-GC16. U.P.P.C.S. (Spl) (Pre) 2008**
 
 The birthplace of Maharani Lakshmi Bai, the heroine
 
@@ -1179,6 +1181,8 @@ of the 1857 freedom struggle, is:
 
 - (a) Agra
 - (b) Jhansi
+C. Varanasi
+D. Vrindaban
 
 <details><summary>Show answer</summary>
 
@@ -1663,7 +1667,7 @@ from the Kanpur revolt until his end on 18th April 1859.
 
 ---
 
-**Q-GC31. (c) Rajasthan (d) Uttar Pradesh, I.A.S. (Pre) 2005**
+**Q-GC31. I.A.S. (Pre) 2005**
 
 Which one of the following places did Kunwar Singh,
 
@@ -1671,6 +1675,8 @@ a prominent leader of the Revolt of 1857 belonged to?
 
 - (a) Bihar
 - (b) Madhya Pradesh
+C. Rajasthan
+D. Uttar Pradesh
 
 <details><summary>Show answer</summary>
 
@@ -1894,12 +1900,14 @@ question.
 
 ---
 
-**Q-GC36. (c) Bihar (d) Maharashtra, 45th B.P.S.C. (Pre) 2001**
+**Q-GC36. 45th B.P.S.C. (Pre) 2001**
 
 Kunwar Singh led the revolt of 1857 in –
 
 - (a) Punjab
 - (b) Bengal
+C. Bihar
+D. Maharashtra
 
 <details><summary>Show answer</summary>
 
@@ -1917,12 +1925,13 @@ question.
 
 ---
 
-**Q-GC37. (c) Tatya Tope (d) Rani Ramkunvari, 48th to 52nd B.P.S.C. (Pre) 2008, 42nd B.P.S.C. (Pre) 1997**
+**Q-GC37. 42nd B.P.S.C. (Pre) 1997**
 
 Who led the Revolt of 1857 in Bihar?
 
 - (a) Khan Bahadur Khan
 - (b) Kunwar Singh
+C. Tatya Tope
 
 <details><summary>Show answer</summary>
 
@@ -3544,7 +3553,7 @@ first, nor national, nor a war of independence”.
 
 ---
 
-**Q-GC89. (c) Roberts (d) Coupland, R.O./A.R.O. (Pre) 2017**
+**Q-GC89. R.O./A.R.O. (Pre) 2017**
 
 Who wrote, “It is difficult to avoid the conclusion
 
@@ -3556,6 +3565,8 @@ independence”?
 
 - (a) R.C. Majumdar
 - (b) Syed Ahmad
+C. Roberts
+D. Coupland
 
 <details><summary>Show answer</summary>
 
@@ -3835,7 +3846,7 @@ after the suppression of the Revolt of 1857.
 
 ---
 
-**Q-GC97. (d) Madras presidency and Marathas, 48th to 52nd B.P.S.C. (Pre) 2008**
+**Q-GC97. ras presidency and Marathas, 48th to 52nd B.P.S.C. (Pre) 2008**
 
 After the revolt of 1857, the British recruited the
 
@@ -3844,6 +3855,7 @@ Soldiers from the
 - (a) Brahmins of U.P. & Bihar
 - (b) Bengalis and Orria’s from the East
 - (c) Gurkhas, Sikhs, and Punjabis in the North
+D. Mad
 
 <details><summary>Show answer</summary>
 

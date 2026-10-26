@@ -983,13 +983,15 @@ Akbar gave the title ‘Kanthabharanvanivilas’ to Tansen.
 
 ---
 
-**Q-GC23. (c) Sadarang – Adarang (d) Mal Gurjari, U.P.P.C.S. (RO/ARO) (Mains) 2021**
+**Q-GC23. U.P.P.C.S. (RO/ARO) (Mains) 2021**
 
 Who among the following was not a great entity in the
 field of Hindustani music?
 
 - (a) Raja Mansingh Tomar
 - (b) Tansen
+C. Sadarang – Adarang
+D. Mal Gurjari
 
 <details><summary>Show answer</summary>
 

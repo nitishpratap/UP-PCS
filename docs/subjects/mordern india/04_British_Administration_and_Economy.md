@@ -661,133 +661,56 @@ Complete unabridged 58-question bank combining the full 52-question Ghatna Chakr
 
 ---
 
-**Q-GC1. Ghatna Chakra**
+**Q-GC1. I.A.S. (Pre) 2011**
 
-With reference to the period of colonial rule in India
+With reference to the period of colonial rule in India, 'Home Charges' formed an important part of the drain of wealth from India. Which of the following funds constituted 'Home Charges'?
 
-‘Home Charges’ formed an important part of the drain
+1. Funds used to support the India Office in London.
+2. Funds used to pay salaries and pensions of British personnel engaged in India.
+3. Funds used for waging wars outside India by the British.
 
-of wealth from India. Which of the following funds
+Select the correct answer using the code given below:
 
-constituted ‘Home Charges’?
-
-1. Funds used to support the Indian Office in London.
+A. 1 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
 <details><summary>Show answer</summary>
 
-**Answer: N/A**
-
-**Explanation:**
-
+**Ans: B.** Home charges referred to the expenditure incurred in England by the Secretary of State for India on behalf of Indian Government. Home charges consisted of: purchases of military stores, expenditure on India Office establishment, interest on debts, interest on railway capital investment, non-effective charges of the army, and pensions/gratuities payable in England to retired civil servants. Funds used for waging wars outside India were NOT part of Home Charges.
 </details>
 
 ---
 
-**Q-GC2. Ghatna Chakra**
+**Q-GC2. I.A.S. (Pre) 1999**
 
-Funds used to pay salaries and pensions of British
+The term “imperial preference” was applied to the:
 
-personnel engaged in India.
+A. Special privileges on British imports in India
+B. Racial discrimination by the Britishers
+C. Subordination of Indian interest to that of the British
+D. Preference given to British political agents over Indian Princes
 
 <details><summary>Show answer</summary>
 
-**Answer: N/A**
-
-**Explanation:**
-
+**Ans: A.** The term “imperial preference” was applied for special privileges on British imports in India. Based on this privilege, nominal duty was paid on British imports in India while Indian exports paid a high duty in Britain.
 </details>
 
 ---
 
-**Q-GC3. Ghatna Chakra**
+**Q-GC3. I.A.S. (Pre) 1999**
 
-Funds used for waging wars outside India by the
+There was no independent development of industries in India during British rule because of the:
 
-British.
-
-Select the correct answer using the code given below :
-
-- (a) 1 only
-- (b) 1 and 2
-- (c) 2 and 3
-- (d) 1, 2 and 3 I.A.S. (Pre) 2011 B
+A. Absence of heavy industries
+B. Scarcity of foreign capital
+C. Scarcity of natural resources
+D. Preference of the rich to invest in land
 
 <details><summary>Show answer</summary>
 
-**Answer: (b)**
-
-**Explanation:**
-Home charges referred to the expenditure incurred in England
-
-by the Secretary of State for India on behalf of Indian
-
-Government.
-
-Home charges consisted of :
-
-Purchases of military stores.
-
-Expenditure on India office establishment.
-
-Interest on debts.
-
-Interest on railway capital investment.
-
-Non-effective charges of the army.
-
-Pensions and gratuities payable in England to retired civil
-
-servants of the company.
-
-Funds used for waging wars outside India by the British were
-
-not included in home charges. So desirable option will be (b).
-
-2. The term “imperial preference” was applied to the:
-
-(a) Special privileges on British imports in India
-
-(b) Racial discrimination by the Britishers
-
-(c) Subordination of Indian interest to that of the British
-
-(d) Preference was given to British political agents over
-
-Indian Princes
-
-I.A.S. (Pre) 1999
-
-Ans. (a)
-
-The term “imperial preference” was applied for special
-
-privileges on British imports in India. Based on of this
-
-privilege, nominal duty was paid on British imports in India
-
-while India exports paid a high duty in Britain.
-
-3. There was no independent development of industries
-
-in India during British rule because of the:
-
-(a) Absence of heavy industries
-
-(b) Scarcity of foreign capital
-
-(c) Scarcity of natural resources
-
-(d) Preference of the rich to invest in land
-
-I.A.S. (Pre) 1999
-
-Ans. (d)
-
-During British Rule preference was given to invest in land by
-
-wealthy class is the reason for no independent development
-
-of industries.
+**Ans: D.** During British Rule, preference given to invest in land by the wealthy class was the main reason cited for the lack of independent development of industries.
 </details>
 
 ---
@@ -821,12 +744,14 @@ Bengal included cotton, cloth, opium, salt-petre, sugar and silk.
 
 ---
 
-**Q-GC5. (c) Lord Cornwallis (d) Lord Dufferin, U.P. P.C.S. (Pre) 1991**
+**Q-GC5. U.P. P.C.S. (Pre) 1991**
 
 Who introduced Ist-e-Marari settlement?
 
 - (a) Wellesley
 - (b) Warren Hastings
+C. Lord Cornwallis
+D. Lord Dufferin
 
 <details><summary>Show answer</summary>
 
@@ -1315,7 +1240,7 @@ settlement of 1793 A.D. They were only required to give
 
 ---
 
-**Q-GC14. (d) Abolition of Zamindari, 48th to 52nd B.P.S.C. (Pre) 2008**
+**Q-GC14. 52nd B.P.S.C. (Pre) 2008**
 
 Which one of the following is correct about the
 
@@ -1324,6 +1249,7 @@ permanent settlement introduced in Bihar.
 - (a) The Zamindars were deprived of the ownership of the land.
 - (b) The right of ownership of land was made hereditary and transferable for the Zamindars.
 - (c) Land revenue was constitutionalised
+D. Abolition of Zamindari, 48th to
 
 <details><summary>Show answer</summary>
 
@@ -1469,22 +1395,18 @@ introduced by lord Cornwallis in 1793 A.D.
 
 ---
 
-**Q-GC18. Permanent Settlement and Ryotwari System of land, revenue were introduced respectively in :, (a) Bengal and Madras (b) Madras and Punjab, (c) Madras and Bengal (d) Punjab and Bengal, Jharkhand P.C.S. (Pre.) 2021**
+**Q-GC18. Jharkhand P.C.S. (Pre.) 2021**
 
+Permanent Settlement and Ryotwari System of land revenue were introduced respectively in:
 
+A. Bengal and Madras
+B. Madras and Punjab
+C. Madras and Bengal
+D. Punjab and Bengal
 
 <details><summary>Show answer</summary>
 
-**Answer: (a)**
-
-**Explanation:**
-Permanent settlement was introduced in Bengal, Bihar,
-
-Odisha and Varanasi of U.P. while Ryotwari system was
-
-in Madras, some parts of Bombay, Eastern Bengal, Assam,
-
-Kurg.
+**Ans: A.** Permanent settlement was introduced in Bengal, Bihar, Odisha and Varanasi of U.P. while Ryotwari system was introduced in Madras, parts of Bombay, Eastern Bengal, Assam and Coorg.
 </details>
 
 ---
@@ -1577,7 +1499,7 @@ and peasants.
 
 ---
 
-**Q-GC21. (c) Munro (d) Elphinstone, U.P.P.C.S. (Spl) (Pre) 2008**
+**Q-GC21. U.P.P.C.S. (Spl) (Pre) 2008**
 
 Who was associated with the Ryotwari Settlement of
 
@@ -1585,6 +1507,8 @@ Madras?
 
 - (a) Malcolm
 - (b) Metcalfe
+C. Munro
+D. Elphinstone
 
 <details><summary>Show answer</summary>
 
@@ -1663,7 +1587,7 @@ and peasants.
 
 ---
 
-**Q-GC23. (d) Madras & Bombay Presidency, Jharkhand P.C.S. (Pre) 2011, U.P.U.D.A./L.D.A. (Pre) 2001, I.A.S. (Pre) 1993**
+**Q-GC23. Jharkhand P.C.S. (Pre) 2011, U.P.U.D.A./L.D.A. (Pre) 2001, I.A.S. (Pre) 1993**
 
 The Ryotwari settlement was introduced by the British
 
@@ -1672,6 +1596,7 @@ in the
 - (a) Bengal Presidency
 - (b) Madras Presidency
 - (c) Bombay Presidency
+D. Madras & Bombay Presidency
 
 <details><summary>Show answer</summary>
 
@@ -1707,7 +1632,7 @@ and peasants.
 
 ---
 
-**Q-GC24. (c) Bombay Presidency (d) Madras Presidency, U.P.P.C.S. (Mains) 2016**
+**Q-GC24. U.P.P.C.S. (Mains) 2016**
 
 The English introduced the Ryotwari System for the
 
@@ -1715,6 +1640,8 @@ first time in
 
 - (a) Bengal Presidency
 - (b) Agra
+C. Bombay Presidency
+D. Madras Presidency
 
 <details><summary>Show answer</summary>
 
@@ -1807,7 +1734,7 @@ revenue to the government.
 
 ---
 
-**Q-GC27. (c) Captain Reed (d) Thomas Munro, Jharkhand P.C.S. (Pre) 2023**
+**Q-GC27. Jharkhand P.C.S. (Pre) 2023**
 
 Who among the following said "The Ryotwari is a
 
@@ -1815,6 +1742,8 @@ system which has always prevailed in India"?
 
 - (a) John Shore
 - (b) Alexander Duff
+C. Captain Reed
+D. Thomas Munro
 
 <details><summary>Show answer</summary>
 
@@ -2212,9 +2141,15 @@ India.
 
 ---
 
-**Q-GC37. Drain” of India during the British Rule?, (a) M.N. Roy (b) Jai Prakash Narayan, (c) Rammanohar Lohiya (d) Dadabhai Naoroji, U.P.P.C.S. (Mains) 2004, U.P.P.C.S. (Pre) 1995**
+**Q-GC37. U.P.P.C.S. (Mains) 2004, U.P.P.C.S. (Pre) 1995**
+
+Drain” of India during the British Rule?,
 
 Who is the exponent of the Theory of “Economic
+A. M.N. Roy
+B. Jai Prakash Narayan
+C. Rammanohar Lohiya
+D. Dadabhai Naoroji
 
 <details><summary>Show answer</summary>
 
@@ -2422,9 +2357,15 @@ Rule in India'. This book was published in the year 1901 A.D.
 
 ---
 
-**Q-GC42. Un-British Rule in India'?, (a) Dadabhai Naoroji (b) S. N. Banerjee, (c) R. C. Dutt (d) Pherozeshah Mehta, 70th B.P.S.C. Re-Exam 2024**
+**Q-GC42. 70th B.P.S.C. Re-Exam 2024**
+
+Un-British Rule in India'?,
 
 In 1901 who has published the book 'Poverty and
+A. Dadabhai Naoroji
+B. S. N. Banerjee
+C. R. C. Dutt
+D. Pherozeshah Mehta
 
 <details><summary>Show answer</summary>
 
@@ -2440,7 +2381,7 @@ Rule in India'. This book was published in the year 1901 A.D.
 
 ---
 
-**Q-GC43. (c) Gopal Krishna Gokhale(d) Dadabhai Naoroji, U.P.P.C.S. (Mains) 2004**
+**Q-GC43. U.P.P.C.S. (Mains) 2004**
 
 Who authored the book “Poverty and the Un-British
 
@@ -2448,6 +2389,8 @@ Rule in India”?
 
 - (a) Amartya Kumar Sen
 - (b) Ramesh Chandra Dutt
+C. Gopal Krishna Gokhale
+D. Dadabhai Naoroji
 
 <details><summary>Show answer</summary>
 
@@ -2665,7 +2608,7 @@ impoverishment.
 
 ---
 
-**Q-GC49. (c) Lt. Blaine (d) Col. Robert Smith, Uttarakhand P.C.S. (Pre) 2016**
+**Q-GC49. Uttarakhand P.C.S. (Pre) 2016**
 
 Who is regarded as the Pioneer of Irrigation works in
 
@@ -2673,6 +2616,8 @@ South India?
 
 - (a) Sir Arthur Cotton
 - (b) Col. Baird Smith
+C. Lt. Blaine
+D. Col. Robert Smith
 
 <details><summary>Show answer</summary>
 

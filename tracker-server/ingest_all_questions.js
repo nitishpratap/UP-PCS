@@ -53,8 +53,8 @@ async function runIngestion() {
         totalChaptersWithQuestions++;
         summaryBySubject[subjectName].questions += questions.length;
         totalQuestionsCount += questions.length;
-
-        // Bulk upsert questions into MongoDB
+        // Delete stale questions for this chapter first, then bulk insert fresh questions
+        await qCol.deleteMany({ subject: subjectName.toLowerCase().trim(), chapter: chapterSlug });
         const bulkOps = questions.map(q => ({
           updateOne: {
             filter: { q_id: q.q_id },

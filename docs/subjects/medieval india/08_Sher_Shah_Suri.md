@@ -459,13 +459,15 @@ was the center of education at that time.
 
 ---
 
-**Q-GC8. (c) Sher Shah Suri (d) Islam Shah Suri, 44th B.P.S.C. (Pre) 2000**
+**Q-GC8. 44th B.P.S.C. (Pre) 2000**
 
 Which of the following rulers at first assumed the title
 of ‘Hazrat-e-Ala’ and afterwards ‘Sultan’?
 
 - (a) Bahlul Lodi
 - (b) Sikandar Lodi
+C. Sher Shah Suri
+D. Islam Shah Suri
 
 <details><summary>Show answer</summary>
 
@@ -840,12 +842,14 @@ statement is true, while the second statement is false.
 
 ---
 
-**Q-GC18. (c) Rohtas (d) Sasaram, U.P.P.C.S. (Pre) 1993**
+**Q-GC18. U.P.P.C.S. (Pre) 1993**
 
 Death of Sher Shah Suri occurred in :-
 
 - (a) Agra
 - (b) Kalinjar
+C. Rohtas
+D. Sasaram
 
 <details><summary>Show answer</summary>
 

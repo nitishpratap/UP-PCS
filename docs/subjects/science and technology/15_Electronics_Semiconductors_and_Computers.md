@@ -2631,9 +2631,13 @@ other programs is called :
 **Ans: B.** Virus
 </details>
 
-**Q-ST23. (a) 1971 (b) 1981 / (c) 1991 (d) 2001 / Uttarakhand Lower Sub. (Pre) 2010**
+**Q-ST23. Uttarakhand Lower Sub. (Pre) 2010**
 
 MS-DOS was first released in –
+A. 1971
+B. 1981 
+C. 1991
+D. 2001
 
 <details>
 <summary>Show answer</summary>
@@ -2643,11 +2647,15 @@ MS-DOS was first released in –
 **Ans: B.** 1981 /
 </details>
 
-**Q-ST24. (a) 1985 (b) 2000 / (c) 1995 (d) 1990 / Uttarakhand P.C.S. (Pre) 2005**
+**Q-ST24. Uttarakhand P.C.S. (Pre) 2005**
 
 'Windows 3' a popular windowing environment was
 
 released by Microsoft in the year –
+A. 1985
+B. 2000 
+C. 1995
+D. 1990
 
 <details>
 <summary>Show answer</summary>

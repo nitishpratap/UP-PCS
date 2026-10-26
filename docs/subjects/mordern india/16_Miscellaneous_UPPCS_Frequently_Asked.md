@@ -1025,123 +1025,68 @@ D. C A B D
 
 ---
 
-**Q-GC-AC-1. Ghatna Chakra PYQ**
+**Q-GC-AC-1. I.A.S. (Pre) 2009**
 
 Consider the following pairs:
-(Tradition) (State)
-1. Gatka, a traditional - Kerala
-martial art
+
+1. Gatka, a traditional martial art — Kerala
+2. Madhubani, a traditional painting — Bihar
+3. Singhey Khababs Sindhu Darshan festival — Jammu and Kashmir
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2
+B. 3 only
+C. 2 and 3
+D. 1, 2 and 3
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: C.** Pair 1 is incorrectly matched: Gatka is a traditional martial art of Punjab (not Kerala; Kalaripayattu is of Kerala). Pair 2 is correct: Madhubani/Mithila painting originates in Bihar. Pair 3 is correct: Singhey Khababs Sindhu Darshan festival is celebrated along the Indus in Ladakh/J&K.
 </details>
 
 ---
 
-**Q-GC-AC-2. Ghatna Chakra PYQ**
+**Q-GC-AC-2. M.P.P.C.S. (Pre) 2013**
 
-Madhubani, a traditional - Bihar
-painting
+‘Madhubani’ painting is related to which State?
+
+A. Uttar Pradesh
+B. Bihar
+C. Kerala
+D. Tamil Nadu
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: B.** Madhubani painting (also known as Mithila art) is a traditional folk painting style practiced in the Mithila region of Bihar and Nepal.
 </details>
 
 ---
 
-**Q-GC-AC-3. I.A.S. (Pre) 2009**
+**Q-GC-AC-3. U.P. R.O./A.R.O. (Pre) 2023**
 
-Singhey Khababs - Jammu and Kashmir
-Sindhu Darshan festival
-Which of the above pair (s) is/are correctly matched?
+Match List-I (Painting) with List-II (State) and select the correct answer using the code given below:
 
-- (a) 1 and 2 (b) 3 only
+| List-I (Painting) | List-II (State) |
+|---|---|
+| A. Madhubani | 1. Odisha |
+| B. Lepakshi | 2. Maharashtra |
+| C. Pattachitra | 3. Andhra Pradesh |
+| D. Warli | 4. Bihar |
 
-- (c) 2 and 3 (d) 1, 2 and 3
+A. A-4, B-2, C-3, D-1
+B. A-4, B-1, C-2, D-3
+C. A-4, B-3, C-2, D-1
+D. A-4, B-3, C-1, D-2
 
 <details><summary>Show answer</summary>
 
-**Answer: (c)**
-
-**Explanation:**
-Gatka is a martial art of Punjab in which wooden sticks,
-
-lathi are used to simulate swords in sparring matches.
-
-Madhubani painting or Mithila painting is a unique style of
-
-painting, practised in the Mithila region of Nepal and Indian
-
-state of Bihar. Singhey-Khababs Sindhu Darshan Festival is
-
-a Festival of India held every year in the month of June. It is
-
-held at Leh, in Ladakh U.T. (which was part of J&K at time
-
-when question was asked)
-
-2. ‘Madhubani’ painting is related to which State?
-
-(a) Uttar Pradesh (b) Bihar
-
-(c) Kerala (d) Tamil Nadu
-
-M.P.P.C.S. (Pre) 2013
-
-Ans. (b)
-
-See the explanation of the above question.
-
-3. Match List-I with List-II and select the correct answer
-
-using the code given below :
-
-List-I List-II
-
-(Painting) (State)
-
-A. Madhubani 1. Odisha
-
-B. Lepakshi 2. Maharashtra
-
-C. Pattachitra 3. Andhra Pradesh
-
-D. Warli 4. Bihar
-
-Code -
-
-(a) A-4, B-2, C-3, D-1 (b) A-4, B-1, C-2, D-3
-
-(c) A-4, B-3, C-2, D-1 (d) A-4, B-3, C-1, D-2
-
-U.P. R.O./A.R.O. (Pre) 2023
-
-Ans. (d)
-
-Correct match is as follows : -
-
-List-I List-II
-
-(Painting) (States)
-
-Madhubani Bihar
-
-Lepakshi Andhra Pradesh
-
-Pattachitra Odisha
-
-Warli Maharashtra
-
+**Ans: D.** The correct matches are:
+- Madhubani — Bihar (4)
+- Lepakshi — Andhra Pradesh (3)
+- Pattachitra — Odisha (1)
+- Warli — Maharashtra (2)
+Code: A-4, B-3, C-1, D-2.
 </details>
 
 ---

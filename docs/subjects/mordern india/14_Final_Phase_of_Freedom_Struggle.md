@@ -833,207 +833,98 @@ D. (A) is false, but (R) is true
 
 ## Complete PYQ Bank — Ghatnachakra Provincial Election and Formation of Cabinet (1937) (17 Questions)
 
+> [!NOTE]
+> **Summary of 1937 Provincial Elections:**
+> - **Congress Majority Provinces (5):** Madras (159/215), Bihar (98/152), Central Provinces & Berar (70/112), United Province (134/228), and Orissa (36/60).
+> - **Coalition Ministries formed:** Bombay (largest party, 86/175), Assam, and NWFP.
+> - **Non-Congress Ministries:** Bengal (Fazlul Haq's Krishak Praja Party + Muslim League), Punjab (Sikandar Hayat Khan's Unionist Party), and Sindh.
+> - **Duration:** Ministries lasted for 28 months until resigning on 22nd October 1939 in protest against India being dragged into WWII without consent. Jinnah celebrated 22nd December 1939 as the "Day of Deliverance".
+
 ---
 
-**Q-GC-PE-1. Ghatna Chakra PYQ**
+**Q-GC-PE-1. U.P P.C.S. (Pre) 1992**
 
-Madras (159 seats out of total 215 seats) - Congress
+In which of the following provinces did the Indian National Congress not obtain a full majority in provincial legislature elections held in 1937?
+
+A. Central Province
+B. Bihar
+C. Punjab
+D. Madras
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: C.** Provincial assembly elections were held under the Government of India Act, 1935 in which Congress won a full majority in 5 provinces: Madras, Bihar, Central Provinces & Berar, United Province, and Orissa. In Punjab (Unionist Party), Bengal, and Sindh, Congress did not obtain a majority.
 </details>
 
 ---
 
-**Q-GC-PE-2. Bihar (98 seats out of total 152 seats) - Congress**
+**Q-GC-PE-2. 53rd to 55th B.P.S.C. (Pre) 2011**
 
+The Provincial Governments in 1937 were constituted under the Act of:
 
+A. 1935
+B. 1932
+C. 1936
+D. 1947
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: A.** The provincial elections of 1936-37 were held and provincial governments were constituted under the provisions of the Government of India Act, 1935.
 </details>
 
 ---
 
-**Q-GC-PE-3. Ghatna Chakra PYQ**
+**Q-GC-PE-3. U.P.P.C.S. (Spl) (Mains) 2004**
 
-Central Province and Berar (70 out of 112) - Congress
+In which of the following States did Congress not win an absolute majority in the elections for the Legislative Assemblies held under the 1935 Act?
+
+A. Madras
+B. Bihar
+C. Orissa
+D. Bengal
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: D.** In Bengal, Congress did not win an absolute majority. Fazlul Haq of the Krishak Praja Party formed a coalition government with the Muslim League.
 </details>
 
 ---
 
-**Q-GC-PE-4. Ghatna Chakra PYQ**
+**Q-GC-PE-4. R.A.S./R.T.S. (Pre) 1996**
 
-United Province (134 seats out of 228) - Congress
+In 1937 elections, Congress secured a clear majority in the states numbering:
+
+A. Three
+B. Four
+C. Five
+D. Six
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: C.** In the 1937 elections, Congress secured a clear/absolute majority in 5 provinces: Madras, Bihar, Central Provinces, United Province, and Orissa (and formed ministries in 6 provinces initially by forming a coalition in Bombay).
 </details>
 
 ---
 
-**Q-GC-PE-5. U.P P.C.S. (Pre) 1992**
+**Q-GC-PE-5. U.P.R.O./A.R.O. (Pre) 2016**
 
-Orissa (36 out of 60 seats) - Congress
-* Congress emerged as the single largest party in Bombay (86
-seats out of 175), Assam and North-West Frontier Province.
-Only in Bengal, Punjab and Sindh did Congress not secure
-enough support from masses to form the government on its own.
-The cabinets formed by Congress after 1936-37 A.D. elections
-only lasted for 28 months. In July 1937 A.D., Congress formed
-cabinets in 6 provinces - Madras, Bombay, Central Province,
-Orissa, Bihar, and United Province and with the support
-of other parties Congress formed a coalition government in
-Assam and North-West Frontier Provinces. The inclusion of
-Indians into the Second World War without the permission
-of Congress cabinets led to the resignation of all Congress
-cabinets. On 22nd October, 1939 A.D. Congress cabinet of
-all provinces resigned as an act of protest. Being happy with
-Congress cabinets, resignation Jinnah called Indian Muslims to
-celebrate 22nd December, 1939 A.D. as a Day of Deliverance.
-*Working Committee of Indian National Congress decided to
-end land ownership in 1937 A.D. as a result of which Congress
-governments in U.P. and Bihar passed tenancy bills. Congress
-secured 134 seats out of 228 seats in United Province and
-formed government on its own. *Govind Vallabh Pant was the
-Prime Minister (Premier) while Kailash Nath Katju was Law
-and Justice Minister and Finance Ministry was given to Rafi
-Ahmed Kidwai. * In Congress-ruled states the reports related to
-Muslims grievances were in the following chronological order.
-- Pirpur Report - 1938
-- Sharif Report - March, 1939
-- Fazlul Haq Report ( Muslims Suffering Under Congress
-Rule Report) - December, 1939
-1. In which of the following provinces did the Indian
-National Congress not obtain a full majority in
-provincial legislature elections held in 1937?
+Consider the following provinces of British India and identify those where the Indian National Congress did not form a ministry in 1937:
 
-- (a) Central Province (b) Bihar
-
-- (c) Punjab (d) Madras
-
-<details><summary>Show answer</summary>
-
-**Answer: (c)**
-
-**Explanation:**
-Provincial assembly elections were held under the Indian
-
-Government Act, 1935 in which Congress won a full majority
-
-in 5 provinces – Madras, Bihar, Central Provinces and Berar,
-
-United Province and Orrisa. Congress made its ministries in 6
-
-states: Madras, Central Province, Bihar, Bombay, Orissa and
-
-United Province in July, 1937 A.D. Only in Bengal, Punjab
-
-and Sindh Congress did not secure enough support.
-
-2. The Provincial Governments were constituted under
-
-the Act of-
-
-(a) 1935 (b) 1932
-
-(c) 1936 (d) 1947
-
-53rd to 55th B.P.S.C. (Pre) 2011
-
-Ans. (a)
-
-See the explanation of above question.
-
-3. In which of the following States did Congress not win
-
-an absolute majority in the elections for the Legislative
-
-Assemblies which were held under the 1935 Act?
-
-(a) Madras (b) Bihar
-
-(c) Orissa (d) Bengal
-
-U.P.P.C.S. (Spl) (Mains) 2004
-
-Ans. (d)
-
-See the explanation of above question.
-
-4. In 1937 elections, Congress secured a clear majority
-
-in the state numbering.
-
-(a) Three (b) Four
-
-(c) Five (d) Six
-
-R.A.S./R.T.S. (Pre) 1996
-
-Ans. (c)
-
-See the explanation of above question. 
-
-5. Consider the following provinces of British India and
-
-identify those where the Indian National Congress did
-
-not form a ministry in 1937?
-
-1. Central 2. Orissa
-
-3. Bengal 4. Punjab
+1. Central Province
+2. Orissa
+3. Bengal
+4. Punjab
 
 Select the correct answer from the code given below:
 
-(a) 1 and 2 (b) 3 and 4
+A. 1 and 2
+B. 3 and 4
+C. 2 and 3
+D. 1 and 4
 
-(c) 2 and 3 (d) 1 and 4
+<details><summary>Show answer</summary>
 
-U.P.R.O./A.R.O. (Pre) 2016
-
-Ans. (b)
-
-Indian provincial elections were held in 1936-37 A.D.
-
-mandated by Government of India Act 1935. The elections
-
-were held in eleven provinces, i.e., - Madras, Central
-
-Province, Bihar, Orissa, United Province, Bombay, Assam,
-
-NWFP, Bengal, Punjab and Sindh. The results of the election
-
-were declared in February, 1937 A.D. and Indian Congress
-
-emerged as a power in eight provinces (5 provinces with full
-
-majority) except Bengal, Punjab and Sindh.
-
+**Ans: B.** Congress did not form a ministry in Bengal and Punjab in 1937. In Bengal, a coalition government of Krishak Praja Party and Muslim League was formed; in Punjab, the Unionist Party formed the government.
 </details>
 
 ---
@@ -2493,144 +2384,57 @@ to negotiate with Indian politicians.
 
 ---
 
-**Q-GC-CM-2. Ghatna Chakra PYQ**
+**Q-GC-CM-2. U.P. Lower Sub.(Pre) 1998**
 
-Sir Stafford Cripps came to India with a draft
-declaration of proposals of British Government which
-included that :
+Sir Stafford Cripps came to India with a draft declaration of proposals of the British Government which included that:
+
 1. India should be given a dominion status.
-2. All provinces and States must be merged to make
-the Indian Union.
+2. All provinces and States must be merged to make the Indian Union.
+3. Any province or State can take the decision to live outside the Indian Union.
+4. The Indian Constitution must be framed by the people of India.
+
+Choose the correct answer from the code given below:
+
+A. 1, 2 and 3
+B. 1, 2 and 4
+C. 2, 3 and 4
+D. All of the above
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: D.** Major recommendations of the Cripps Mission (March 1942) included: Dominion Status for India after the war; Indians framing their own Constitution via a Constituent Assembly; right of any province to stay out of the proposed Union and formulate its own constitution; and setting up an interim government during wartime.
 </details>
 
 ---
 
-**Q-GC-CM-3. Ghatna Chakra PYQ**
+**Q-GC-CM-3. I.A.S. (Pre) 2003**
 
-Any province or the State can take the decision to
-live outside of the Indian Union.
+An important aspect of the Cripps Mission of 1942 was:
+
+A. That all Indian States should join the Indian Union as a condition to consider any degree of autonomy for India
+B. The creation of an Indian Union with Dominion status after the Second World War
+C. Active participation in British war efforts as a condition for granting Independence with full sovereign status after the war
+D. The framing of a Constitution for the entire Indian Union, with no separate constitution for any province
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: B.** The creation of an Indian Union with Dominion status after the end of the Second World War was a central provision of the Cripps proposals.
 </details>
 
 ---
 
-**Q-GC-CM-4. U.P. Lower Sub.(Pre) 1998**
+**Q-GC-CM-4. U.P.P.C.S. (Pre) 2005**
 
-Indian Constitution must be constituted by the
-people of India
-Choose the correct answer from the code given below –
-Code :
+Which one of the following is NOT true about the Cripps Mission?
 
-- (a) 1, 2 and 3 (b) 1, 2 and 4
-
-- (c) 2, 3 and 4 (d) All of the above
+A. Dominion status at the end of the war
+B. Acceptance of the Constitution framed by Constituent Assembly
+C. The formation of new executive council with equal representation for both Hindus and Muslims
+D. Any province could remain outside the Indian Union
 
 <details><summary>Show answer</summary>
 
-**Answer: (d)**
-
-**Explanation:**
-After reaching India in March, 1942 A.D., Stafford Cripps
-
-presented the proposal whose major recommendations werei- After war, India should be given a Dominion Status and
-
-which would not be subject to any external authority
-
-ii- Indians should be given the right to form their own
-
-Constitution for which the Council of Constitution
-
-making body will be initiated after the war.
-
-iii- The Provinces not agreeing to the new Constitution would
-
-have the right to keep themselves out of the proposed
-
-Union. Such provinces will be entitled to constitute their
-
-own separate Constitution.
-
-iv- During the war, an interim government comprising
-
-of different parties of India would be constituted.
-
-However, defence and external affairs would be the sole
-
-responsibility of the Viceroy.
-
-3. An important aspect of the Cripps Mission of 1942
-
-was:
-
-(a) that all Indian States should join the Indian Union as
-
-a condition to consider any degree of autonomy for
-
-India
-
-(b) the creation of an Indian Union with Dominion status
-
-after the Second World War
-
-(c) the active participation and cooperation of the Indian
-
-people, communities and political parties in the British
-
-war efforts as a condition for granting Independence
-
-with full sovereign status to India after the war
-
-(d) the framing of a Constitution for the entire Indian
-
-Union, with no separate constitution for any province,
-
-and a Union Constitution to be accepted by all
-
-provinces
-
-I.A.S. (Pre) 2003
-
-Ans. (b)
-
-See the explanation of above question.
-
-4. Which one of the following is not true about the Cripps
-
-Mission?
-
-(a) Dominion status at the end of the war.
-
-(b) Acceptance of the Constitution framed by Constituent
-
-Assembly.
-
-(c) The formation of new executive council with equal
-
-representation for both Hindus and Muslims.
-
-(d) Any province could remain outside the Indian Union.
-
-U.P.P.C.S. (Pre) 2005
-
-Ans. (c)
-
-See the explanation of above question.
-
+**Ans: C.** Formation of an executive council with equal representation for Hindus and Muslims was part of the Wavell Plan (Shimla Conference, 1945), NOT the Cripps Mission (1942).
 </details>
 
 ---
@@ -2802,122 +2606,59 @@ his tenure.
 > [!NOTE]
 > **Official Chapter Coverage:** Full coverage of all 73 questions from Ghatna Chakra with verified official keys, comprehensive explanations, and state PSC/IAS tags.
 
+> [!NOTE]
+> **Parallel Governments during Quit India Movement (1942):**
+> - **Ballia (UP):** Formed in August 1942 under the leadership of Chittu Pandey (released many arrested Congress leaders).
+> - **Tamluk, Midnapore (Bengal):** Jatiya Sarkar functioned from December 1942 to August 1944; undertook cyclone relief work and set up Vidyut Vahini.
+> - **Satara (Maharashtra):** Named *Prati Sarkar*, established in mid-1943 under Nana Patil and Y.B. Chavan. It was the longest-lasting parallel government (till 1946).
+> - **Talcher (Odisha):** Parallel government survived for a brief period.
+
 ---
 
-**Q-GC-QIM-1. Ghatna Chakra PYQ**
+**Q-GC-QIM-1. 43rd B.P.S.C. (Pre) 1999**
 
-Ballia - August 1942 A.D. - Chittu Pandey led the
-Government.
+In July 1942, at the Working Committee of the Congress in Wardha, Mahatma Gandhi discussed for the first time his ‘Quit India Policy’. Who was the President of the Congress at that time?
+
+A. C. Rajagopalachari
+B. Maulana Abul Kalam Azad
+C. Pandit Jawaharlal Nehru
+D. Dr. Annie Besant
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: B.** In July 1942, the Congress Working Committee met at Wardha and passed the historic "Quit India Resolution". The meeting was chaired by the Congress President, Maulana Abul Kalam Azad.
 </details>
 
 ---
 
-**Q-GC-QIM-2. Ghatna Chakra PYQ**
+**Q-GC-QIM-2. R.A.S./R.T.S. (Pre) 2010 / M.P.P.C.S. (Pre) 1996**
 
-Tamluk (Midnapore) Bengal - From December 1942 to
-August 1944 AD the Ethnic Government in Tamluk started the
-relief programmes for the persons affected by storms.
+Where did the Congress Working Committee meet to pass the “Quit India Resolution” on 14th July, 1942?
+
+A. Bombay
+B. Wardha
+C. Lucknow
+D. Tripuri
 
 <details><summary>Show answer</summary>
 
-**Answer: Pending**
-
-**Explanation:**
-See official answer key.
-
+**Ans: B.** The Congress Working Committee met at Wardha on 14th July 1942 and passed the Quit India Resolution. It was later ratified at the All India Congress Committee (AICC) meeting at Gowalia Tank, Bombay on 8th August 1942.
 </details>
 
 ---
 
-**Q-GC-QIM-3. 43rd B.P.S.C. (Pre) 1999**
+**Q-GC-QIM-3. U.P.P.C.S. (Mains) 2013**
 
-Satara (Maharashtra) - A Parallel Government named
-Prati Sarkar was formed in August-1943 A.D. It was the
-longest-serving Parallel Government till May 1946 A.D. Its
-main leaders were - Y.B. Chavan and Nana Patil. There was
-a Parallel Government in Talchar, Orissa too for some time.
-*Gandhiji was released on 6th May, 1944 A.D. on account of
-bad health conditions. On Gandhiji's release, Winston Churchill
-said, “When we are winning around the globe how can we be
-defeated by this old man who is our enemy for a long time.”
-1. On 6th July, 1942, at the Working Committee of the
-Congress, Mahatma Gandhi discussed for the first time
-his ‘Quit India Policy’. The President of the Committee
-was :
+The Commander-in-Chief of the Indian Army during the Quit India Movement was:
 
-- (a) Rajagopalachari
-
-- (b) Maulana Abul Kalam Azad
-
-- (c) Pandit Jawaharlal Nehru
-
-- (d) Dr. Annie Besant
+A. Lord Wavell
+B. Lord Linlithgow
+C. Lord Mountbatten
+D. None of the above
 
 <details><summary>Show answer</summary>
 
-**Answer: (b)**
-
-**Explanation:**
-In July, 1942 A.D., the meeting of Congress Working Committee
-
-was held at Wardha in which Maulana Abul Kalam Azad,
-
-Jawaharlal Nehru, Vallabh Bhai Patel, Pattabhi Sitaramaiyya,
-
-Achyut Patwardhan, Dr. Anugraha Narayan Sinha, Aruna
-
-Asaf Ali, Mahatma Gandhi etc. had taken part and passed a
-
-resolution named ‘Quit India Movement’, was chaired by the
-
-then Congress President Maulana Abul Kalam Azad. 
-
-2. Where did the Congress Working Committee meet to
-
-pass the “Quit India Resolution” of 14th July, 1942?
-
-(a) Bombay (b) Wardha
-
-(c) Lucknow (d) Tripura
-
-R.A.S./R.T.S.(Pre) 2010
-
-M.P.P.C.S. (Pre) 1996
-
-Ans. (b)
-
-The meeting of Congress Working Committee was held at
-
-Wardha on 14th July, 1942 A.D. and passed the Quit India
-
-resolution.
-
-3. The Commander-in-Chief of the Indian Army during
-
-Quit India Movement was :
-
-(a) Lord Wavell (b) Lord Linlithgow
-
-(c) Lord Mountbatten (d) None of the above
-
-U.P.P.C.S. (Mains) 2013
-
-Ans. (a)
-
-The Commander in Chief of the Indian Army during the Quit
-
-India Movement was Lord Wavell. Later he also served as
-
-Viceroy and Governor-General of India from 1943-1947 A.D.
-
+**Ans: A.** During the Quit India Movement (1942), Lord Linlithgow was the Viceroy of India, while Lord Wavell was the Commander-in-Chief of the British Indian Army. Lord Wavell later succeeded Linlithgow as Viceroy from 1943 to 1947.
 </details>
 
 ---

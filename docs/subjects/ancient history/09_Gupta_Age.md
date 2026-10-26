@@ -908,28 +908,34 @@ D. Samudragupta
 **Q-GC4. UPPCS / Standard**
 
 Who is called ‘the Napoleon of Ancient India’?
-(a) Chandragupta Maurya
-(b) Pushyamitra
-(c) Kanishka
-(d) Samudragupta
+
+A. Chandragupta Maurya
+B. Pushyamitra
+C. Kanishka
+D. Samudragupta
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** See explanation in notes.
+**Ans: D.** Historian V.A. Smith in his composition 'Early History of India' called Samudragupta (335-375 AD) of Gupta dynasty as 'Napoleon of India' for his great military conquests.
 
 </details>
 
 ---
 
-**Q-GC5. 6th to 59th B.P.S.C. (Pre) 2015**
+**Q-GC5. 56th to 59th B.P.S.C. (Pre) 2015 / U.P.P.C.S. (Mains) 2007**
 
+Who among the following Gupta Kings had another name 'Devagupta'?
 
+A. Samudragupta
+B. Chandragupta-II
+C. Kumaragupta
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** See the explanation of above question. 5. Who among the following Gupta Kings had another name Devagupta ? (a) Samudragupta (b) Chandragupta- II (c) Kumaragupta (d) None of the above U.P.P.C.S. (Mains) 2007 Ans. (b) Another name of Gupta ruler Chandragupta-II ‘Vikramaditya’ is found as Devagupta. Its evidence has been obtained from Sanchi and Vakataka inscriptions. Apart from the abovementioned names, he is also known as Devaraja and Devashri. (See explanation in notes.)
+**Ans: B.** Another name of Gupta ruler Chandragupta-II ‘Vikramaditya’ is found as Devagupta. Evidence has been obtained from Sanchi and Vakataka inscriptions. Apart from Devagupta, he is also known as Devaraja and Devashri.
 
 </details>
 
@@ -2084,7 +2090,9 @@ D. Pataliputra
 Who of the following among the Nine Gems of
 Chandragupta was associated with astrology ?
 
-A. Vararuchi (h) Sanku
+A. Vararuchi
+
+B. Sanku
 
 C. Kshapanak
 

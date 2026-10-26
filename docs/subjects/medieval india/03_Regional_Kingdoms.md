@@ -1028,10 +1028,14 @@ answer.
 
 ---
 
-**Q-GC11. (a) Muni Sunder Suri (b) Natha, (c) Tilla Bhatt (d) Muni Jin Vijay Suri, R.A.S./R.T.S. (Pre) 2016**
+**Q-GC11. R.A.S./R.T.S. (Pre) 2016**
 
 Who amongst the following scholars was not in the
 Court of Kumbha?
+A. Muni Sunder Suri
+B. Natha
+C. Tilla Bhatt
+D. Muni Jin Vijay Suri
 
 <details><summary>Show answer</summary>
 
@@ -1720,13 +1724,14 @@ statements are correct.
 
 ---
 
-**Q-GC33. (d) Sringeri and Dharwar, I.A.S. (Pre) 2001**
+**Q-GC33. I.A.S. (Pre) 2001**
 
 Hoysala monuments are found in :
 
 - (a) Hampi and Hospet
 - (b) Halebid and Belur
 - (c) Mysore and Bangalore
+D. Sringeri and Dharwar
 
 <details><summary>Show answer</summary>
 
@@ -1968,12 +1973,14 @@ Adina Masjid, Pandua – Sikandar Shah
 
 ---
 
-**Q-GC42. (c) Territorial Administrative and Military Governors, (d) Newly enriched traders, U.P.P.C.S. (Re. Exam) (Pre) 2015**
+**Q-GC42. U.P.P.C.S. (Re. Exam) (Pre) 2015**
 
 Who were Polygars of South India?
 
 - (a) Ordinary Zamindars
 - (b) Mahajans
+C. Territorial Administrative and Military Governors
+D. Newly enriched traders
 
 <details><summary>Show answer</summary>
 
@@ -4378,13 +4385,14 @@ D. Only 1 and 2
 **Correct Answer:** **A** (Statements 1, 2 and 3 are all correct)
 
 **Detailed Explanation:**
-- **Statement 1 is correct:** **Maharana Kumbha (reigned 1433–1468 CE)** of Mewar was an extraordinary warrior-monarch who fortified Mewar by constructing 32 of its 84 fortresses, including the formidable **Kumbhalgarh Fort** (with its 36-km-long perimeter wall).
-- **Statement 2 is correct:** To commemorate his resounding military triumph over the combined armies of Mahmud Khalji of Malwa and the Sultan of Gujarat (Battle of Sarangpur, 1437 CE), Rana Kumbha erected the magnificent 9-storey **Vijay Stambha** (Tower of Victory / *Kirti Stambha*) at Chittorgarh between 1440 and 1448 CE (designed by architect Jaita).
-- **Statement 3 is correct:** He was an erudite musicologist who authored foundational musical treatises, including **Sangitaraja**, **Sangitamimamsa**, and a scholarly commentary on Jayadeva's *Gita Govinda* titled *Rasikapriya*.
+- **Pair 1 is correctly matched:** The **Sangama Dynasty**, the first dynasty of the Vijayanagara Empire, was established in 1336 CE by brothers **Harihara I and Bukka I** (sons of Sangama) on the southern banks of the Tungabhadra River with the spiritual guidance of sage Vidyaranya.
+- **Pair 2 is correctly matched:** The **Bahmani Sultanate** was founded in 1347 CE in the Deccan by **Alauddin Hasan Bahman Shah** (popularly known as **Hasan Gangu** or Zafar Khan) with its first capital at Gulbarga (Ahsanabad).
+- **Pair 3 is correctly matched:** The independent **Sharqi Dynasty of Jaunpur** was founded in 1394 CE by **Malik Sarwar** (honoured as *Khwaja-i-Jahan* and *Malik-us-Sharq* — 'Ruler of the East' by Sultan Nasiruddin Mahmud Shah Tughlaq), declaring independence following the breakdown of Tughlaq authority.
 
 **Key Exam Takeaway / Trap:**
-- *Vijay Stambha* at Chittor was built to celebrate the victory over **Malwa (Mahmud Khalji)**, NOT the Mughals.
-
+- Sangama founders: **Harihara I & Bukka I** (1336 CE).
+- Bahmani founder: **Hasan Gangu / Alauddin Bahman Shah** (1347 CE).
+- Sharqi Jaunpur founder: **Malik Sarwar** (1394 CE).
 </details>
 
 **Q29.** Which one of the following is NOT correctly matched?

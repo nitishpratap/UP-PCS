@@ -7690,92 +7690,16 @@ See official answer key.
 
 **Q-GC-ML-3. U.P.P.C.S. (Pre) 2007 / 41st B.P.S.C. (Pre) 1996**
 
-Protection and expansion of Political rights of Muslims.
-*Sessions of Muslim League were held at Karachi in 1907 A.D.
-and at Amritsar in 1908 A.D. Separate electorate was demanded
-in these sessions. *On 1st October, 1906 A.D., a delegation
-of Muslims led by Aga Khan III met Minto and demanded
-separate electorate for elections at all levels of governance.
-Morley-Minto reform (1909 A.D.) accepted this demand of
-Muslim League and Muslims were given separate electorate.
-*In 1908 A.D., the London Branch of the Muslim League was
-established by Syed Ameer Ali.
-1. Who among the following was the founder of All India
-Muslim League?
+Who among the following was the founder of All India Muslim League?
 
-- (a) Sir Saiyed Ahmad Khan
-
-- (b) Sir Mohammad Iqbal
-
-- (c) Aga Khan
-
-- (d) Nawab Salimullah Khan
+A. Sir Saiyed Ahmad Khan
+B. Sir Mohammad Iqbal
+C. Aga Khan
+D. Nawab Salimullah Khan
 
 <details><summary>Show answer</summary>
 
-**Answer: (d)**
-
-**Explanation:**
-Aga Khan III was a founding member and first President of
-
-the All India Muslim League. His goal was the advancement
-
-of the Muslim agenda and protection of Muslim rights in
-
-India. In 1906, the meeting was organized during the Dhaka
-
-session which is known as All India Muhammadan Educational Conference.
-
-The founding meeting was hosted by Nawab Salimullah.
-
-Nawab Waqar-ul-Mulk and Nawab Mohsin-ul-Mulk both
-
-were jointly appointed as the secretary of the Muhammadan
-
-Educational Conference. Lucknow was the headquarter
-
-of Muslim League, and Aga Khan was its first President.
-
-Founder member were –
-
-1. Salimullah Khan
-
-2. Aga Khan III
-
-3. Mohsin-ul-Mulk
-
-But in option, two of the above names are given. Therefore,
-
-priority will be given to Salimullah Khan as the founder of
-
-the All India Muslim League.
-
-2. The founder of the Muslim League was:
-
-(a) Liaquat Ali (b) Shaukat Ali
-
-(c) Nawab Salimullah (d) M.A. Jinnah
-
-U.P.P.C.S. (Mains) 2006
-
-Ans. (c)
-
-See the explanation of above question.
-
-3. In 1906 Muslim League was founded at :
-
-(a) Lahore (b) Delhi
-
-(c) Calcutta (d) Dhaka
-
-Uttarakhand U.D.A./L.D.A. (Pre) 2007
-
-M.P.P.C.S. (Pre) 1992
-
-Ans. (d)
-
-See the explanation of above question.
-
+**Ans: D.** The All India Muslim League was founded in December 1906 at Dacca (Dhaka) during the annual meeting of the All India Muhammadan Educational Conference hosted by Nawab Salimullah of Dacca. The founding members included Nawab Salimullah (founder/proposer), Aga Khan III (appointed its first permanent President), Nawab Mohsin-ul-Mulk, and Nawab Waqar-ul-Mulk (joint secretaries). The headquarters of the Muslim League was established at Lucknow.
 </details>
 
 ---

@@ -357,13 +357,15 @@ known as Guru Angad.
 
 ---
 
-**Q-GC2. (c) Mardana (d) Sri Chand, U.P.P.C.S. (RO/ARO) (Pre.) 2021**
+**Q-GC2. U.P.P.C.S. (RO/ARO) (Pre.) 2021**
 
 Which of the following was declared as his successor
 by Guru Nanak?
 
 - (a) Bala
 - (b) Lehna
+C. Mardana
+D. Sri Chand
 
 <details><summary>Show answer</summary>
 
