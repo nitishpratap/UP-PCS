@@ -2478,6 +2478,29 @@
     return /\|\s*\d+\./.test(joined) || /row order is not/i.test(joined);
   }
 
+  
+  // Dedicated UP Exams Question Identifier (covers UPPCS Pre, Mains, RO/ARO, Lower Subordinate, UDA/LDA, UPPSC)
+  function isUPExamQuestion(q) {
+    if (!q) return false;
+    const header = (q.q_header || '').trim();
+    const stem = (q.stem || '').trim();
+    const sec = (q.section_title || '').trim();
+    const combined = `${header} ${sec} ${stem}`.toUpperCase();
+
+    // 1. Explicit UP exam header or tag match
+    const isUPHeader = /\b(?:U\.?P\.?P\.?C\.?S|U\.?P\.?\s*P\.?C\.?S|UPPCS|UP\s*PCS|U\.?P\.?\s*R\.?O|RO\s*\/\s*ARO|RO\/ARO|R\.?O\.?\s*(?:\/|\s*and\s*)\s*A\.?R\.?O|U\.?D\.?A|L\.?D\.?A|LOWER\s*SUB|UPPSC|U\.?P\.?P\.?S\.?C|UP\s*LOWER)\b/i.test(header);
+    if (isUPHeader) return true;
+
+    // 2. Check if attributed exclusively to another non-UP state/national exam
+    const hasOtherStateHeader = /^(?:\*\*)?(?:MPPCS|M\.P\.P\.C\.S|BPSC|B\.P\.S\.C|RAS|R\.A\.S|CGPCS|C\.G\.P\.C\.S|JPSC|J\.P\.S\.C|UKPCS|U\.K\.P\.C\.S|IAS|UPSC)\b/i.test(header);
+    if (!hasOtherStateHeader) {
+      if (/\b(?:U\.?P\.?P\.?C\.?S|U\.?P\.?\s*P\.?C\.?S|UPPCS|UP\s*PCS|U\.?P\.?\s*R\.?O|RO\s*\/\s*ARO|RO\/ARO|U\.?D\.?A|L\.?D\.?A|LOWER\s*SUB|UPPSC)\b/i.test(combined)) {
+        return true;
+      }
+    }
+    return false;
+  }
+
   function repairQuestionOptions(q) {
     if (!q || typeof q !== 'object') return q;
     let stem = q.stem || '';
@@ -2882,10 +2905,16 @@
         category = 'pyqs';
       }
 
+      let displayHeader = category === 'practice' ? `Practice Zone — Q${qNum}` : (category === 'ghatnachakra' ? `Ghatnachakra — Q${qNum}` : `Question ${qNum}`);
+      const firstLineHeader = (stem || '').split('\n')[0].replace(/^\*\*|\*\*$/g, '').trim();
+      if (/^(?:Inline PYQ|Q\d|Q-GC|Q\.|UPPCS|UP\s*PCS|RO\/ARO|UDA|UKPCS|BPSC|MPPCS|RAS|CGPCS)/i.test(firstLineHeader) && firstLineHeader.length < 90) {
+        displayHeader = firstLineHeader;
+      }
+
       questions.push({
         id: `q_${index + 1}`,
         q_num: qNum,
-        q_header: category === 'practice' ? `Practice Zone — Q${qNum}` : (category === 'ghatnachakra' ? `Ghatnachakra — Q${qNum}` : `Question ${qNum}`),
+        q_header: displayHeader,
         section_title: secHeading,
         category: category,
         stem: stem,
@@ -3681,6 +3710,9 @@
         <div class="st-kpi-val" id="st-kpi-bank-val">… Qs</div>
         <div class="st-kpi-sub" id="st-kpi-bank-sub">Mapped PYQs &amp; Ghatnachakra</div>
         <div class="st-kpi-actions">
+          <button type="button" class="st-kpi-btn st-kpi-btn-up" id="st-btn-up-test" title="Directly launch test filtered to UP PCS, RO/ARO & Lower Subordinate questions only">
+            🚩 UP Test
+          </button>
           <button type="button" class="st-kpi-btn st-kpi-btn-outline" id="st-btn-quick-10" title="Launch a quick 10-question drill">
             Quick 10
           </button>
@@ -3866,6 +3898,9 @@
     document.getElementById('st-btn-all-questions')?.addEventListener('click', () => {
       const opts = topicInfo.isRevision ? { isMasteryGate: true, targetAccuracy: 100, autoStartCount: 'all', testMode: 'exam' } : { autoStartCount: 'all', testMode: 'exam' };
       openTestEngineModal(topicInfo, opts);
+    });
+    document.getElementById('st-btn-up-test')?.addEventListener('click', () => {
+      openTestEngineModal(topicInfo, { initialCategory: 'up_exams' });
     });
     document.getElementById('st-btn-quick-10')?.addEventListener('click', () => openTestEngineModal(topicInfo, { autoStartCount: 10 }));
     document.getElementById('st-btn-view-scores')?.addEventListener('click', () => openPastScoresModal(topicInfo));
@@ -4096,6 +4131,20 @@
       bankVal.textContent = `0 Questions`;
       if (bankSub) bankSub.textContent = `No questions found`;
     }
+
+    // Dynamic UP Test Button count update
+    try {
+      const upCount = domQs.filter(q => isUPExamQuestion(q)).length;
+      const upBtn = document.getElementById('st-btn-up-test');
+      if (upBtn) {
+        if (upCount > 0) {
+          upBtn.innerHTML = `🚩 UP Test (${upCount})`;
+          upBtn.title = `Launch test filtered to ${upCount} authentic UP PCS, RO/ARO & Lower Subordinate questions`;
+        } else {
+          upBtn.innerHTML = `🚩 UP Test`;
+        }
+      }
+    } catch (e) {}
   }
 
   // Helper to resolve topic slug or title to catalog topic info
@@ -5389,7 +5438,8 @@
     function renderLauncher() {
       const totalQs = loadedQuestions.length;
 
-      // Group questions by source
+      // Group questions by source & UP Exam filter
+      const upList = loadedQuestions.filter(q => isUPExamQuestion(q));
       const pyqList = loadedQuestions.filter(q => categorizeQuestion(q) === 'pyqs');
       const gcList = loadedQuestions.filter(q => categorizeQuestion(q) === 'ghatnachakra');
       let practiceList = loadedQuestions.filter(q => categorizeQuestion(q) === 'practice');
@@ -5400,8 +5450,11 @@
         practiceList = otherList;
       }
 
-      let activeCategory = 'all';
-      let activePool = [...loadedQuestions];
+      // Default to UP Exams if selected or if UP questions exist
+      let activeCategory = (testOptions.initialCategory === 'up_exams' && upList.length > 0)
+        ? 'up_exams'
+        : (upList.length > 0 ? 'up_exams' : 'all');
+      let activePool = (activeCategory === 'up_exams') ? upList : [...loadedQuestions];
 
       const existingBackup = getQuizSessionBackup();
       const canResume = existingBackup &&
@@ -5438,20 +5491,51 @@
             </div>
           ` : ''}
 
-          <!-- Dropdown: Select Question Source -->
+          <!-- Question Source Filter Pills & Dropdown -->
           <div class="st-form-group">
             <label class="st-launcher-label" for="st-q-source-select">
-              <strong>🎯 Select Practice Category / Source:</strong>
+              <strong>🎯 Select Practice Category / Exam Focus:</strong>
             </label>
-            <div class="st-select-wrapper">
+            <div class="st-launcher-filter-pills" id="st-launcher-filter-pills">
+              ${upList.length > 0 ? `
+                <button type="button" class="st-filter-pill st-filter-pill-up ${activeCategory === 'up_exams' ? 'is-active' : ''}" data-cat="up_exams">
+                  🚩 U.P. Exams Only (${upList.length})
+                </button>
+              ` : ''}
+              <button type="button" class="st-filter-pill ${activeCategory === 'all' ? 'is-active' : ''}" data-cat="all">
+                📚 All Questions (${totalQs})
+              </button>
+              ${pyqList.length > 0 ? `
+                <button type="button" class="st-filter-pill ${activeCategory === 'pyqs' ? 'is-active' : ''}" data-cat="pyqs">
+                  🏛️ State PYQs (${pyqList.length})
+                </button>
+              ` : ''}
+              ${gcList.length > 0 ? `
+                <button type="button" class="st-filter-pill ${activeCategory === 'ghatnachakra' ? 'is-active' : ''}" data-cat="ghatnachakra">
+                  📖 Ghatnachakra (${gcList.length})
+                </button>
+              ` : ''}
+              ${practiceList.length > 0 ? `
+                <button type="button" class="st-filter-pill ${activeCategory === 'practice' ? 'is-active' : ''}" data-cat="practice">
+                  🎯 Practice Drills (${practiceList.length})
+                </button>
+              ` : ''}
+            </div>
+
+            <div class="st-select-wrapper" style="margin-top: 0.65rem;">
               <select class="st-select" id="st-q-source-select">
-                <option value="all" selected>All Available Questions (${totalQs} Total)</option>
-                <option value="pyqs">🏛️ UPPCS & State PSC PYQs (${pyqList.length} Questions)</option>
-                <option value="ghatnachakra">📖 Ghatnachakra Purvavlokan Bank (${gcList.length} Questions)</option>
-                <option value="practice">🎯 Practice Zone / Topic Drills (${practiceList.length} Questions)</option>
+                ${upList.length > 0 ? `
+                  <option value="up_exams" ${activeCategory === 'up_exams' ? 'selected' : ''}>🚩 U.P. Exams Only (${upList.length} Questions) — UPPCS Pre/Mains, RO/ARO</option>
+                ` : ''}
+                <option value="all" ${activeCategory === 'all' ? 'selected' : ''}>All Available Questions (${totalQs} Total)</option>
+                <option value="pyqs" ${activeCategory === 'pyqs' ? 'selected' : ''}>🏛️ UPPCS & State PSC PYQs (${pyqList.length} Questions)</option>
+                <option value="ghatnachakra" ${activeCategory === 'ghatnachakra' ? 'selected' : ''}>📖 Ghatnachakra Purvavlokan Bank (${gcList.length} Questions)</option>
+                <option value="practice" ${activeCategory === 'practice' ? 'selected' : ''}>🎯 Practice Zone / Topic Drills (${practiceList.length} Questions)</option>
               </select>
               <div class="st-category-hint" id="st-category-hint">
-                Showing all <strong>${totalQs}</strong> questions from PYQs, Ghatnachakra and Practice Zone.
+                ${activeCategory === 'up_exams'
+                  ? `🚩 Filtered strictly to <strong>${upList.length}</strong> official U.P. Exams questions (UPPCS Pre/Mains, RO/ARO, Lower Subordinate).`
+                  : `Showing all <strong>${totalQs}</strong> questions from PYQs, Ghatnachakra and Practice Zone.`}
               </div>
             </div>
           </div>
@@ -5555,14 +5639,28 @@
       // Initial count pills rendering
       refreshCountPills(activePool);
 
-      // Dropdown category change listener
+      // Category application function for both pills and dropdown
       const sourceSelect = document.getElementById('st-q-source-select');
       const categoryHint = document.getElementById('st-category-hint');
 
-      sourceSelect?.addEventListener('change', (e) => {
-        activeCategory = e.target.value;
+      function applyCategory(cat) {
+        activeCategory = cat;
+        if (sourceSelect) sourceSelect.value = cat;
 
-        if (activeCategory === 'pyqs') {
+        // Sync visual active state on filter pills
+        document.querySelectorAll('#st-launcher-filter-pills .st-filter-pill').forEach(pill => {
+          if (pill.dataset.cat === cat) pill.classList.add('is-active');
+          else pill.classList.remove('is-active');
+        });
+
+        if (activeCategory === 'up_exams') {
+          activePool = upList.length > 0 ? upList : [...loadedQuestions];
+          if (categoryHint) {
+            categoryHint.innerHTML = upList.length > 0
+              ? `🚩 Filtered strictly to <strong>${upList.length}</strong> official U.P. Exams questions (UPPCS Pre/Mains, RO/ARO, Lower Subordinate).`
+              : `Note: 0 UP Exams questions tagged in this chapter note. Loaded all ${totalQs} questions.`;
+          }
+        } else if (activeCategory === 'pyqs') {
           activePool = pyqList.length > 0 ? pyqList : [...loadedQuestions];
           if (categoryHint) {
             categoryHint.innerHTML = pyqList.length > 0 
@@ -5591,6 +5689,12 @@
         }
 
         refreshCountPills(activePool);
+      }
+
+      sourceSelect?.addEventListener('change', (e) => applyCategory(e.target.value));
+
+      document.querySelectorAll('#st-launcher-filter-pills .st-filter-pill').forEach(pill => {
+        pill.addEventListener('click', () => applyCategory(pill.dataset.cat));
       });
 
       // Test Mode selector cards
@@ -5727,7 +5831,10 @@
             <!-- Main Question Area -->
             <div class="st-cbt-main">
               <div class="st-quiz-stem-card">
-                ${q.q_header ? `<div class="st-q-source-tag">${q.q_header}</div>` : ''}
+                <div class="st-q-source-row" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.5rem;">
+                  ${q.q_header ? `<div class="st-q-source-tag">${q.q_header}</div>` : ''}
+                  ${isUPExamQuestion(q) ? `<span class="st-up-badge">🚩 UP EXAM</span>` : ''}
+                </div>
                 <div class="st-q-number-tag">Question ${currentQuestionIndex + 1} of ${total}</div>
                 <div class="st-q-stem-text">${renderStemToHtml(q.stem)}</div>
               </div>

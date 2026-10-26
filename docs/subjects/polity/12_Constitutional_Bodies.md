@@ -990,24 +990,39 @@ D. None of the above
 
 ### 2021
 
-**Q10. UPPCS Prelims 2021, Q61 / Q68 / Q88**
-FC primary duty = tax distribution · First Chair = **K.C. Neogy** · President does **not** fix qualifications (Parliament does); President **does** appoint.
+**Q10. UPPCS Prelims 2021, Q68**
+Who among the following was the Chairman of the First Finance Commission of India?
+A. Shri Santhanam
+B. Shri K.C. Neogy
+C. Dr. Raj Mannar
+D. Shri A.K. Chanda
 
 <details>
 <summary>Show answer</summary>
 
-Facts as above.
+**Ans: B**
+
+**Explanation:** K.C. Neogy was the Chairman of the First Finance Commission of India (1951).
 
 </details>
 
 **Q11. UPPCS Prelims 2021, Q91**
-1. Sukumar Sen was the first CEC.
-2. Rama Devi was the first woman CEC.
+Consider the following statements:
+1. Sukumar Sen was the first Chief Election Commissioner of India.
+2. Rama Devi was the first woman Chief Election Commissioner of India.
+
+Select the correct answer from the codes given below:
+A. Only 1 is correct
+B. Only 2 is correct
+C. Both 1 and 2 are correct
+D. Both 1 and 2 are incorrect
 
 <details>
 <summary>Show answer</summary>
 
-**Both true** (V.S. **Ramadevi**, 1990). Options garbled in some dumps.
+**Ans: C**
+
+**Explanation:** Both statements are correct. Sukumar Sen was the first Chief Election Commissioner of India (1950–1958) and V.S. Ramadevi was the first woman Chief Election Commissioner of India (1990).
 
 </details>
 
