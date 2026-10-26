@@ -5428,7 +5428,7 @@
         const domQuestions = extractChapterQuestions();
         if (domQuestions.length > 0) {
           loadedQuestions = domQuestions.map((q, idx) => ({
-            q_id: `${topicInfo.subject}_${topicInfo.topic}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
+            q_id: `dom_${topicInfo.subject}_${topicInfo.topic}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
             q_num: idx + 1,
             q_header: q.q_header || `Revision Practice — Q${idx + 1}`,
             category: q.category || 'practice',
@@ -5484,7 +5484,7 @@
           const domQuestions = extractChapterQuestions();
           if (domQuestions.length > 0) {
             loadedQuestions = domQuestions.map((q, idx) => ({
-              q_id: `${topicInfo.subject}_${topicInfo.topic}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
+              q_id: `dom_${topicInfo.subject}_${topicInfo.topic}_${idx + 1}`.replace(/[^a-z0-9_]/gi, '_').toLowerCase(),
               q_num: idx + 1,
               q_header: q.q_header || `Question ${idx + 1}`,
               category: q.category || 'practice',
@@ -6764,8 +6764,62 @@
         }
       }
 
+      // Reconcile and synchronize detailed question evaluation with scorecard metrics
+      const questionCheckList = (evaluationData.detailed_review && evaluationData.detailed_review.length > 0)
+        ? evaluationData.detailed_review
+        : questionSubset.map((q, idx) => {
+            const uAns = (selectedAnswers[q.q_id] || '').toUpperCase().trim();
+            const valid = (q.all_correct_answers || [q.correct_answer]).map(a => String(a).toUpperCase().trim());
+            const isCor = Boolean(uAns && valid.includes(uAns));
+            return {
+              ...q,
+              q_num: idx + 1,
+              user_answer: uAns || null,
+              is_correct: isCor
+            };
+          });
+
+      const actualMistakes = questionCheckList.filter(q => q.user_answer && !q.is_correct);
+      const actualCorrect = questionCheckList.filter(q => q.is_correct).length;
+      const actualIncorrect = actualMistakes.length;
+      const actualUnattempted = questionCheckList.filter(q => !q.user_answer).length;
+
+      // Reconcile scorecard summary numbers with actual question items to prevent discrepancies
+      if (sc.correct !== actualCorrect || sc.incorrect !== actualIncorrect || (sc.wrong_questions && sc.wrong_questions.length !== actualIncorrect)) {
+        sc.total_questions = questionCheckList.length;
+        sc.correct = actualCorrect;
+        sc.incorrect = actualIncorrect;
+        sc.unattempted = actualUnattempted;
+        sc.attempted = actualCorrect + actualIncorrect;
+        sc.net_marks = Number(((sc.correct * 1.333333) - (sc.incorrect * 0.444444)).toFixed(2));
+        sc.max_marks = Number((sc.total_questions * 1.333333).toFixed(2));
+        sc.accuracy_pct = sc.attempted > 0 ? Number(((sc.correct / sc.attempted) * 100).toFixed(1)) : 0;
+        sc.score_pct = sc.max_marks > 0 ? Number(Math.max(0, ((sc.net_marks / sc.max_marks) * 100)).toFixed(1)) : 0;
+        sc.wrong_questions = actualMistakes;
+
+        // Recalculate weak subtopics from verified mistakes
+        const subtopicMistakesMap = {};
+        const subtopicTotalMap = {};
+        questionCheckList.forEach(q => {
+          const sec = (q.syllabus_subtopic || q.section_title || 'General Notes').trim();
+          subtopicTotalMap[sec] = (subtopicTotalMap[sec] || 0) + 1;
+        });
+        actualMistakes.forEach(w => {
+          const sec = (w.syllabus_subtopic || w.section_title || 'General Notes').trim();
+          subtopicMistakesMap[sec] = (subtopicMistakesMap[sec] || 0) + 1;
+        });
+        sc.weak_subtopics = Object.entries(subtopicMistakesMap)
+          .map(([subtopic, mistakes]) => ({
+            subtopic,
+            mistakes,
+            total_in_section: subtopicTotalMap[subtopic] || mistakes,
+            accuracy_pct: subtopicTotalMap[subtopic] ? Number((((subtopicTotalMap[subtopic] - mistakes) / subtopicTotalMap[subtopic]) * 100).toFixed(1)) : 0
+          }))
+          .sort((a, b) => b.mistakes - a.mistakes);
+      }
+
       const wrongList = sc.wrong_questions || [];
-      const detailedReview = evaluationData.detailed_review || [];
+      const detailedReview = questionCheckList;
 
       // Render Official Evaluation Scorecard
       const html = `
@@ -6960,8 +7014,8 @@
           <div id="st-tab-fullreview-content" style="display: none;">
             <div class="st-wrong-list">
               ${(detailedReview.length ? detailedReview : questionSubset).map((q, idx) => {
-                const uAns = selectedAnswers[q.q_id];
-                const isCor = uAns && (uAns === q.correct_answer || (q.all_correct_answers && q.all_correct_answers.includes(uAns)));
+                const uAns = q.user_answer !== undefined ? q.user_answer : selectedAnswers[q.q_id];
+                const isCor = q.is_correct !== undefined ? q.is_correct : (uAns && (uAns === q.correct_answer || (q.all_correct_answers && q.all_correct_answers.includes(uAns))));
                 const subName = q.syllabus_subtopic || q.section_title || 'General Notes';
                 return `
                   <div class="st-wrong-item" style="border-left-color: ${isCor ? '#10b981' : (uAns ? '#ef4444' : '#cbd5e1')}">

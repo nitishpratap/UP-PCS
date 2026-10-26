@@ -1678,8 +1678,11 @@ app.post('/api/chapter-test/evaluate', requireAuth, checkDb, async (req, res) =>
     const subjectRegex = new RegExp(`^${subject.toLowerCase().trim().replace(/[-_]/g, '[-_ ]')}$`, 'i');
 
     let dbQuestions = [];
-    if (testQuestionIds.length > 0) {
-      // Fetch all specifically tested questions from MongoDB
+    // Priority 1: If client provided the exact questions_data presented on screen, evaluate strictly against it
+    if (Array.isArray(req.body.questions_data) && req.body.questions_data.length > 0) {
+      dbQuestions = req.body.questions_data;
+    } else if (testQuestionIds.length > 0) {
+      // Priority 2: Fetch specifically tested questions from MongoDB
       const foundQuestions = await db.collection('questions')
         .find({ q_id: { $in: testQuestionIds } })
         .toArray();
@@ -1689,20 +1692,16 @@ app.post('/api/chapter-test/evaluate', requireAuth, checkDb, async (req, res) =>
       dbQuestions = testQuestionIds.map(id => qMap.get(id)).filter(Boolean);
     }
 
-    // Fallback if question_ids not found in DB
+    // Priority 3: Fallback if neither questions_data nor question_ids matched
     if (dbQuestions.length === 0) {
-      if (Array.isArray(req.body.questions_data) && req.body.questions_data.length > 0) {
-        dbQuestions = req.body.questions_data;
-      } else {
-        dbQuestions = await db.collection('questions')
-          .find({
-            subject: { $regex: subjectRegex },
-            chapter: { $regex: topicRegex }
-          })
-          .sort({ q_num: 1 })
-          .limit(req.body.is_mastery_gate ? 50 : 200)
-          .toArray();
-      }
+      dbQuestions = await db.collection('questions')
+        .find({
+          subject: { $regex: subjectRegex },
+          chapter: { $regex: topicRegex }
+        })
+        .sort({ q_num: 1 })
+        .limit(req.body.is_mastery_gate ? 50 : 200)
+        .toArray();
     }
 
     let attempted = 0;
