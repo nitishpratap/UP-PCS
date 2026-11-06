@@ -7,58 +7,125 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 37 — Greenhouse Gases</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **CO₂** has **GWP = 1**. It dominates long-term forcing from fossil fuels, cement, and deforestation.
-2. **Methane (CH₄)** has GWP about **28–36**, a shorter lifetime near **12 years**, and strong links to paddies, cattle, landfills, termites, and wetlands (**marsh gas**).
-3. **Nitrous oxide (N₂O)** is “laughing gas,” has very high GWP (about **265**), and is strongly linked to **fertilizer** use. **Rice** emits both CH₄ and N₂O.
-4. **Water vapour** is the most abundant natural greenhouse gas (~half of natural effect), but it mainly acts as a **feedback**, not the primary anthropogenic driver.
-5. **Tropospheric ozone** (क्षोभमंडलीय ओजोन) is a greenhouse gas and pollutant. **Stratospheric ozone** (समतापमंडलीय ओजोन) is the UV shield.
-6. **CFCs** are both greenhouse gases and ozone-depleting substances and fall under Montreal controls.
-7. **HFCs** are greenhouse gases only (not classic ODS) and are phased down under **Kigali 2016**.
-8. **GWP** compares heat-trapping power to CO₂ over a stated horizon, usually **100 years**. Methane’s short-horizon GWP is much higher than CO₂ — CH₄ is more potent per molecule.
-9. **CO₂e** converts all greenhouse gases into carbon-dioxide equivalent using GWP.
-10. **Direct** GHGs: CO₂, CH₄, N₂O, CFCs, SF₆, NF₃. **Indirect:** NOₓ, CO, NMVOCs, SO₂.
-11. **Carbon fertilization** = higher plant growth from elevated CO₂.
-12. **Methane hydrates** in Arctic/seafloor can release CH₄ if warmed; CH₄ oxidises to CO₂ in about a decade or two.
-13. **China** is the largest CO₂ emitter; India ~3rd absolute (निरपेक्ष); **Bhutan** often carbon-negative.
-14. **CO₂** is the main anthropogenic GHG by total forcing (~**76%** IPCC-style). Many Indian papers also use WMO-style relative shares: **~64% CO₂, ~19% CH₄, ~6% N₂O, ~11% CFCs + others**.
-15. **GWP = 1** — the reference gas for converting other gases to **CO₂e**.
-16. **Carbon fertilization** increases plant growth from higher CO₂ — distinct from warming and ocean acidification (महासागरीय अम्लीकरण).
-17. **Methane** is the second major anthropogenic GHG by forcing (~**16%** IPCC-style; ~**19%** in WMO-style relative-share stems).
-18. **GWP ≈ 28–36** (100-year); atmospheric lifetime ~**12 years**. Short-horizon GWP is much higher than CO₂.
-19. **Livestock** enteric fermentation (cattle/buffalo) is a major Indian source.
-20. **Methane hydrates** under Arctic tundra (टुंड्रा) and seafloor can release CH₄ if warmed; CH₄ oxidises to CO₂ in roughly a decade or two.
-21. **CNG** is mainly **methane** (~90%).
-22. **Biogas** is mainly **methane + carbon dioxide**.
-23. **N₂O** is a long-lived GHG with **GWP ≈ 265** (100-year) and lifetime ~**100+ years**.
-24. **Water vapour** is the strongest contributor to the **natural** greenhouse effect by volume.
-25. **Tropospheric (ground-level) ozone** is both an air pollutant and a greenhouse gas.
-26. **Stratospheric ozone** is the UV shield — its ma role is protection, not climate forcing.
-27. **CFCs** are human-made compounds once used in refrigeration, aerosols, and foam blowing.
-28. **HFCs** replaced many CFCs/HCFCs in air-conditioning and refrigeration.
+1. A greenhouse gas absorbs outgoing infrared radiation and traps heat in the atmosphere.
+2. Without the natural greenhouse effect (प्राकृतिक ग्रीनहाउस प्रभाव) Earth would average about **−18°C**. With it the surface averages about **+15°C**. **Joseph Fourier (1820s)** framed the idea.
+3. **CO₂** has **GWP = 1**. It dominates long-term forcing from fossil fuels, cement, and deforestation.
+4. Pre-industrial CO₂ was about **280 ppm (~0.03%)**. Present levels are above **415–420 ppm**.
+5. Rough WMO-style relative (सापेक्ष) shares: **CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs + others ~11%**. Order: **CO₂ > CH₄ > CFCs > N₂O**.
+6. **Methane (CH₄)** has GWP about **28–36**, a shorter lifetime near **12 years**, and strong links to paddies, cattle, landfills, termites, and wetlands (**marsh gas**).
+7. **Nitrous oxide (N₂O)** is “laughing gas,” has very high GWP (about **265**), and is strongly linked to **fertilizer** use. **Rice** emits both CH₄ and N₂O.
+8. **Water vapour** is the most abundant natural greenhouse gas (~half of natural effect), but it mainly acts as a **feedback**, not the primary anthropogenic driver.
+9. **Tropospheric ozone** (क्षोभमंडलीय ओजोन) is a greenhouse gas and pollutant. **Stratospheric ozone** (समतापमंडलीय ओजोन) is the UV shield.
+10. **CFCs** are both greenhouse gases and ozone-depleting substances and fall under Montreal controls.
+11. **HFCs** are greenhouse gases only (not classic ODS) and are phased down under **Kigali 2016**.
+12. Gases that are **not** greenhouse gases include **argon, N₂, O₂, helium, hydrogen, and propane**.
+13. The Kyoto (क्योटो) basket covers **CO₂, CH₄, N₂O, HFCs, PFCs, and SF₆** (later also **NF₃**).
+14. **GWP** compares heat-trapping power to CO₂ over a stated horizon, usually **100 years**. Methane’s short-horizon GWP is much higher than CO₂ — CH₄ is more potent per molecule.
+15. **CO₂e** converts all greenhouse gases into carbon-dioxide equivalent using GWP.
+16. Biogas (बायोगैस) is mainly **methane plus CO₂**. Do not treat biogas as CO₂-only.
+17. Paddy fields are a classic **methane** source fact in Indian papers.
+18. **Direct** GHGs: CO₂, CH₄, N₂O, CFCs, SF₆, NF₃. **Indirect:** NOₓ, CO, NMVOCs, SO₂.
+19. CFC versus HFC is dual-role ODS+GHG versus climate-only substitute under Kigali.
+20. N₂O is not the same as N₂. Molecular nitrogen is inert as a greenhouse gas.
+21. Water vapour rises as Earth warms; that feedback amplifies warming but does not replace fossil CO₂ as the driver.
+22. F-gases (HFCs, PFCs, SF₆) are small by mass but can be huge by GWP.
+23. Cement process emissions are a major industrial CO₂ source beyond fuel combustion.
+24. Do not list argon as a greenhouse gas in a multi-statement stem.
+25. Methane’s shorter lifetime still matters because near-term warming impact is strong.
+26. Ozone’s greenhouse role is mainly **tropospheric**; do not call stratospheric ozone the main GHG form.
+27. **Carbon fertilization** = higher plant growth from elevated CO₂.
+28. **Methane hydrates** in Arctic/seafloor can release CH₄ if warmed; CH₄ oxidises to CO₂ in about a decade or two.
+29. **China** is the largest CO₂ emitter; India ~3rd absolute (निरपेक्ष); **Bhutan** often carbon-negative.
+30. CO₂ is both **useful** (photosynthesis) and **harmful** (enhanced greenhouse effect (मानवजनित संवर्धित प्रभाव)) to life on Earth.
+31. **CO₂** is the main anthropogenic GHG by total forcing (~**76%** IPCC-style). Many Indian papers also use WMO-style relative shares: **~64% CO₂, ~19% CH₄, ~6% N₂O, ~11% CFCs + others**.
+32. **GWP = 1** — the reference gas for converting other gases to **CO₂e**.
+33. **Carbon fertilization** increases plant growth from higher CO₂ — distinct from warming and ocean acidification (महासागरीय अम्लीकरण).
+34. **Methane** is the second major anthropogenic GHG by forcing (~**16%** IPCC-style; ~**19%** in WMO-style relative-share stems).
+35. **GWP ≈ 28–36** (100-year); atmospheric lifetime ~**12 years**. Short-horizon GWP is much higher than CO₂.
+36. **Livestock** enteric fermentation (cattle/buffalo) is a major Indian source.
+37. **Methane hydrates** under Arctic tundra (टुंड्रा) and seafloor can release CH₄ if warmed; CH₄ oxidises to CO₂ in roughly a decade or two.
+38. **CNG** is mainly **methane** (~90%).
+39. **Biogas** is mainly **methane + carbon dioxide**.
+40. **N₂O** is a long-lived GHG with **GWP ≈ 265** (100-year) and lifetime ~**100+ years**.
+41. **Water vapour** is the strongest contributor to the **natural** greenhouse effect by volume.
+42. **Tropospheric (ground-level) ozone** is both an air pollutant and a greenhouse gas.
+43. **Stratospheric ozone** is the UV shield — its ma role is protection, not climate forcing.
+44. **CFCs** are human-made compounds once used in refrigeration, aerosols, and foam blowing.
+45. **HFCs** replaced many CFCs/HCFCs in air-conditioning and refrigeration.
 
+## ⏱️ Timeline / Chronology
 
----
+### Chronological Sequence of Global Atmospheric & Pollution Milestones
+
+```
+1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
+1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
+1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
+1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
+1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
+1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
+2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
+2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
+2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
+```
+
+## 📊 Quick Reference Grid
+
+### Gases
+
+| Item | Lock |
+|------|------|
+| Natural effect temps | ~−18°C without; ~+15°C with |
+| CO₂ GWP / levels | **1**; pre-ind ~280 ppm; now >415–420 |
+| Shares order | CO₂~64% > CH₄~19% > CFCs+~11% > N₂O~6% |
+| CH₄ GWP / lifetime | ~28–36; ~12 years; paddies–cattle–landfills |
+| N₂O | GWP ~**265**; fertilizers; “laughing gas” |
+| Water vapour | Most abundant natural GHG; mainly **feedback** |
+| CFCs / HFCs | GHG+ODS (Montreal) / GHG only (Kigali) |
+| Not GHGs | Ar, N₂, O₂, He, H₂, propane |
+| Kyoto basket | CO₂ CH₄ N₂O HFCs PFCs SF₆ (+NF₃) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Global Warming Potential (GWP)** | **Radiative Forcing** | Heat absorption efficiency of 1 kg of a gas over 100 years relative to CO₂ (=1) vs net change in energy balance of Earth (W/m²) caused by that gas | वैश्विक तापन क्षमता (GWP) / विकिरण दबाव |
 | **Carbon Dioxide (CO₂)** | **Water Vapour (H₂O)** | Primary anthropogenic driver of long-term climate change (atmospheric residence 100+ yrs) vs dominant natural greenhouse gas acting as a fast temperature feedback | कार्बन डाइऑक्साइड (मानवजनित) / जलवाष्प (प्राकृतिक फीडबैक) |
 | **Methane (CH₄)** | **Nitrous Oxide (N₂O)** | GWP ~28–30 (residence ~12 yrs; rice paddies, enteric livestock, wetlands) vs GWP ~265–273 (residence ~114 yrs; chemical fertilizers, adipic acid) | मीथेन (धान/पशुपालन) / नाइट्रस ऑक्साइड (उर्वरक) |
 | **Sulfur Hexafluoride (SF₆)** | **Carbon Dioxide (CO₂)** | Most potent GHG known with GWP >23,500 (used in electrical switchgear) vs benchmark baseline GHG with GWP = 1 | सल्फर हेक्साफ्लोराइड (GWP 23,500) / CO₂ (मानक 1) |
 | **Kyoto Six GHGs** | **Montreal Phase-Out Gases** | CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ (later NF₃ added) targeted for climate reduction vs CFCs, Halons, CCl₄, HCFCs targeted for stratospheric ozone protection | क्योटो 6 ग्रीनहाउस गैसें / मॉन्ट्रियल ओजोन गैसें |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

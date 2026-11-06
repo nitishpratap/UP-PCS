@@ -7,9 +7,16 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 15 — Geomorphology & Landform Processes</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2025** | **Joshimath Land Subsidence (Uttarakhand)**: Structural reactivation of ancient landslide debris slope and pore-pressure changes triggering foundation fissures | Mass wasting, slope instability & Himalayan geomorphology |
+| **2024** | **Taiwan Hualien M7.4 Earthquake**: Compressional subduction along the Ryukyu Trench and Philippine Sea Plate boundary; triggered coastal rockfalls | Neotectonics, seismic faulting & convergent plate boundaries |
+| **UKPCS 2025** | **Geomorphic Agent Landform Matching**: **Yardangs and Zeugen** are erosional wind (Aeolian) landforms; **Drumlins and Eskers** are depositional glacial landforms | Match-list questions on agent vs process vs landform |
+| **2024–2025** | **Reykjanes Mid-Ocean Ridge Fissure Swarms**: Sub-aerial exposure of the divergent boundary between the North American and Eurasian plates | Constructive plate boundaries & fissure lava flows |
+
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -64,65 +71,110 @@ hide:
 
 
 ---
+49. **Peneplain vs Pediplain**: W. M. Davis termed the ultimate undulating featureless erosion plain of the fluvial cycle a **Peneplain** (with residual monadnocks); L. C. King termed the coalescence of pediments produced by scarp retreat in arid/semi-arid regions a **Pediplain** (with residual bornhardts/inselbergs).
+50. **Tombolo**: A depositional coastal wave landform consisting of a spit or sand ridge that connects an offshore island to the mainland (e.g. Chesil Beach connecting Isle of Portland in England; Ram Setu / Adam's Bridge chain).
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               GEOMORPHIC THEORIES & LANDFORM PARADIGM EVOLUTION
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1785] ───> JAMES HUTTON INTRODUCES "UNIFORMITARIANISM":
+  │           "The present is the key to the past"; Earth's features sculpted by slow, continuous processes.
+  │
+  ▼
+  [1899] ───> WILLIAM MORRIS DAVIS PROPOSES "GEOGRAPHICAL CYCLE OF EROSION":
+  │           Landform development is a function of "Structure, Process, and Stage" (Davisian Trio);
+  │           Youth → Maturity → Old Age → Peneplain (with Monadnocks).
+  │
+  ▼
+  [1912] ───> ALFRED WEGENER FORMULATES "CONTINENTAL DRIFT THEORY":
+  │           Pangaea supercontinent broke up into Laurasia and Gondwanaland during the Carboniferous.
+  │
+  ▼
+  [1924] ───> WALTHER PENCK'S MORPHOLOGICAL ANALYSIS:
+  │           Landforms result from the ratio of tectonic uplift to degradation rate (parallel scarp retreat).
+  │
+  ▼
+  [1962] ───> HARRY HESS ADVANCES "SEAFLOOR SPREADING HYPOTHESIS":
+  │           New oceanic crust generated at mid-ocean ridges and consumed at subduction trenches.
+  │
+  ▼
+  [1967-1968] PLATE TECTONICS THEORY ESTABLISHED (Morgan, McKenzie, Parker, Le Pichon):
+  │           Earth's lithosphere divided into 7 major and several minor rigid moving tectonic plates.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Landforms by Geomorphic Agent: Erosional vs Depositional
+
+| Geomorphic Agent | Erosional Landforms | Depositional Landforms |
+|---|---|---|
+| **Running Water (Fluvial / नदियाँ)** | **V-shaped valleys**, Gorges, Canyons (Grand Canyon), **Potholes (जल-गर्तिका)**, Plunge pools, **Waterfalls**, Incised meanders, River terraces | **Alluvial fans (जलोढ़ पंखा)**, Alluvial cones, **Natural levees (प्राकृतिक तटबंध)**, Point bars, **Ox-bow lakes (गोखुर झील)**, Floodplains, **Deltas** (Arcuate, Bird's-foot, Estuarine) |
+| **Glacier (Himalayan / Continental / हिमनद)** | **Cirques (सर्क / कोरी)**, Aretes (तीक्ष्ण कटक), **Horns (हॉर्न / मैटरहॉर्न)**, **U-shaped valleys**, Hanging valleys, **Fiords (फ़्योर्ड्स)**, **Roche moutonnée (मेषशिला)** | **Moraines (हिमोढ़ — Terminal, Lateral, Medial, Ground)**, **Drumlins ("टोकरी स्थलाकृति" / Basket of eggs)**, **Eskers (एस्कर)**, Kames, Outwash plains, Kettle holes |
+| **Groundwater (Karst / कार्स्ट चूना-पत्थर)** | **Sinkholes (घोलरंध्र / Ponors)**, **Dolines (डोलाइन)**, **Uvalas (उवाला)**, **Poljes (पोल्जे)**, Lapies (लैपीज), Karst caves, Blind valleys, Karst towers | **Stalactites (आकाशीय स्तंभ / छत से लटकते)**, **Stalagmites (भूमिगत स्तंभ / फर्श से उठते)**, Cave Pillars / Columns, Travertine terraces |
+| **Wind (Aeolian / पवन / मरुस्थल)** | **Mushroom rocks (छत्रक शिला / Pedestal rock)**, **Yardangs (यारडांग)**, **Zeugen (ज्यूगेन)**, **Inselbergs (इन्सेलवर्ग / बोर्नहार्ट)**, Demoiselles, Deflation hollows / Blowouts | **Sand dunes (रेत के टीले)**, **Barchans (बरखान — चापाकार सींग पवन की दिशा में)**, Seif / Longitudinal dunes, Transverse dunes, **Loess (लोएस)** |
+| **Sea Waves & Coastal (सागरीय तरंगें)** | **Sea cliffs (भृगु)**, Wave-cut platforms, **Sea caves (कंदरा)**, **Sea arches (मेहराब)**, **Sea stacks (स्टैक)**, Stumps | **Beaches (पुलिन)**, Spits (भू-जिह्वा), **Tombolos (टोम्बोलो — द्वीप को तट से जोड़ता रेत-सेतु)**, Barrier bars, **Lagoons (कयाल)** |
+
+### 2. Major Plate Boundaries & Associated Features
+
+| Plate Boundary Type | Relative Motion | Stress & Faulting | Representative Global Example | Landforms Created |
+|---|---|---|---|---|
+| **Divergent (Constructive)** | Moving away from each other ($\leftarrow 
+ightarrow$) | Tensional stress; Normal faulting | **Mid-Atlantic Ridge**, East African Rift Valley, Iceland | Mid-ocean ridges, central rift valleys, fissure volcanoes, new basaltic seafloor |
+| **Convergent: Ocean–Continent** | Moving toward each other ($
+ightarrow \leftarrow$) | Compressional stress; Reverse/thrust | **Andes Mountains** (Nazca plate under South American plate); **Cascade Range** | Deep ocean trenches, volcanic mountain chains, high seismicity |
+| **Convergent: Continent–Continent** | Colliding continental crust ($
+ightarrow \leftarrow$) | Intense crustal shortening & folding | **Himalayas** (Indian plate into Eurasian plate); **Alps** | Ultra-high fold mountain ranges, crustal thickening, deep earthquakes, **no volcanism** |
+| **Convergent: Ocean–Ocean** | Oceanic plate subducts under another oceanic plate | Subduction into asthenosphere | **Mariana Trench**, Aleutian Islands, Japan, Philippines | Island arc volcanic chains, ultra-deep trenches, tsunami generation |
+| **Transform (Conservative)** | Sliding past each other horizontally ($
+ightleftharpoons$) | Shear stress; Strike-slip faulting | **San Andreas Fault** (California); Alpine Fault (New Zealand) | Severe shallow earthquakes, offset streams, linear fault scarps, **no volcanism** |
+
+### 3. Seismic Waves & Earth Interior Diagnostics
+
+| Seismic Wave | Wave Type & Motion | Speed | Propagation Medium | Shadow Zone Extent | Key Prelims Diagnostic Fact |
+|---|---|---|---|---|---|
+| **P-Waves (Primary)** | Longitudinal / Compressional (parallel push-pull) | Fastest (~6–8 km/s in crust) | **Solids, Liquids, and Gases** | **105° to 145°** from earthquake epicenter | First to arrive at seismograph; refracts sharply at core-mantle boundary |
+| **S-Waves (Secondary)** | Transverse / Shear (perpendicular crest-trough) | Slower (~3.5–4.5 km/s) | **SOLIDS ONLY** (cannot pass through liquids) | **105° to 180°** (entire hemisphere beyond 105°) | **Proved Earth's Outer Core is LIQUID**; cannot pass through outer core |
+| **Surface Waves (L-Waves)** | Complex elliptical / horizontal rolling (Rayleigh & Love) | Slowest | Surface crust only | No shadow zone | **Most destructive seismic waves**; highest amplitude; causes structural collapses |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Stalactites** | **Stalagmites** | Calcite icicles hanging down from the **roof/ceiling** of limestone caves vs Calcite mounds growing upward from the **floor** of caves | स्टैलेक्टाइट (छत से) / स्टैलेग्माइट (फर्श से) |
+| **Barchans** | **Seif Dunes** | Crescent-shaped sand dunes with **convex crest facing wind and horns pointing downwind** vs Sharp, elongated longitudinal sand dunes running parallel to wind direction | बरखान / सीफ़ बालूका स्तूप |
+| **Yardangs** | **Zeugen** | Wind-carved ridges where **vertical rock strata** of hard/soft rock alternate parallel to wind vs Table-shaped rock pillars where **horizontal rock strata** of hard caprock overlay soft rock | यारडांग (ऊर्ध्वाधर) / ज्यूगेन (क्षैतिज) |
+| **Roche Moutonnée** | **Drumlin** | Glacial **erosional bedrock hill** with smooth gentle stoss side and steep plucked lee side vs Glacial **depositional hill of till/boulder clay** with steep stoss and gentle tapered lee side | मेषशिला (अपरदनात्मक) / ड्रमलिन (निक्षेपात्मक) |
+| **Cirque** | **Doline** | Armchair-shaped steep-walled hollow carved by **alpine glaciers** vs Bowl-shaped or funnel-shaped dissolution depression carved by **groundwater in karst limestone** | सर्क (हिमानी) / डोलाइन (कार्स्ट) |
+| **Peneplain** | **Pediplain** | End product of the **Davisian fluvial cycle** under humid climate (gentle undulating plain with monadnocks) vs End product of **scarp retreat and pedimentation** under arid/semi-arid climate (L. C. King) | समप्राय मैदान (पेनीप्लेन) / पेडीप्लेन |
+| **P-Wave Shadow Zone** | **S-Wave Shadow Zone** | Extends from **105° to 145°** due to refraction through core vs Extends continuously from **105° to 180°** because S-waves cannot penetrate the liquid outer core | P-तरंग छाया क्षेत्र / S-तरंग छाया क्षेत्र |
+| **Tombolo** | **Spit** | Sand ridge connecting an **offshore island to the mainland** vs Narrow coastal sand ridge projecting out into the open sea with one end attached to land | टोम्बोलो / स्पिट (भू-जिह्वा) |
+| **Orogeny** | **Epeirogeny** | Horizontal compressional mountain-building forces producing **folding and faulting** vs Vertical continent-building forces producing broad **uplift or subsidence** | पर्वत निर्माणकारी / महादेशीय संचलन |
 
-| Year | Fact | Why it matters | Source |
-|------|------|----------------|--------|
-| Static | Trellis / bird’s-foot / Imphal lacustrine surface | Process stems stay map-static | NCERT / coaching |
-| Static | Mekong delta = southern Vietnam (not Cambodia) | Country trap in delta stems | Atlas |
-| Static | Moribund wording: Bengal subdivision vs Cauvery lobe | Two different stem shapes | Coaching |
-| Static | Himalaya fossil belts (Himadri / Lesser / Shiwalik) | Mixed landform–fossil stems | NCERT |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Stalactite vs Stalagmite Cave Lock:
+- Stala**C**tite has a **C** = Hangs from the **C**eiling!
+- Stala**G**mite has a **G** = Grows from the **G**round!
 
-### Confused pairs
+### 2. Glacial Depositional Twins:
+- **Drumlins** = Inverted spoon / "Basket of Eggs" topography (*Drumlins = Depositional*)
+- **Eskers** = Long, winding snake-like gravel ridges left by sub-glacial meltwater streams
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Weathering vs erosion | In situ vs **transport** | Same thing | अपक्षय / अपरदन |
-| Granite vs basalt | Intrusive acidic vs **extrusive basic** | Swapped | ग्रेनाइट / बेसाल्ट |
-| Marble | From **limestone** | From sandstone | संगमरमर |
-| Quartzite | From **sandstone** | From limestone | क्वार्टजाइट |
-| Gneiss | From **granite** | From shale | नाइस |
-| Trellis | **Folded** structures | Dendritic on folds | जाल / जाली |
-| Bird’s-foot delta | **Mississippi only** | Ganga / Nile / a second river | पक्षी-पाद |
-| Arcuate delta | **Nile, Ganga–Brahmaputra** | Mississippi | चापाकार |
-| Moribund wording | **Subdivision → Bengal**; **lobe → Cauvery** | One answer for both | मृतप्राय |
-| Mekong delta | **Southern Vietnam** | Cambodia | मेकांग |
-| Nile delta | **Northern Egypt** | Sudan / Ethiopia | नील |
-| Indus delta | **Sindh, Pakistan** | Indian west coast | सिंधु |
-| Irrawaddy delta | **Southern Myanmar** | Thailand | इरावदी |
-| Danube delta | **Black Sea (Romania–Ukraine)** | Hungary | डेन्यूब |
-| Volga delta | **Caspian Sea** | Black Sea | वोल्गा |
-| Niger deltas | **Mali inland; Nigeria at the sea** | One mouth only | नाइजर |
-| Imphal basin | **Lacustrine** | Loess / glacial | झीलकृत |
-| Barchan horns | Point **downwind** | Upwind | बरखान |
-| Stalactite | **Ceiling** | Floor | स्टैलेक्टाइट |
-| Stalagmite | **Floor** | Ceiling | स्टैलेग्माइट |
-| U-valley vs V-valley | Glacier vs **river youth** | Swapped | U / V |
-| Fjord | Glacial trough drowned | Any estuary | फियोर्ड |
-| East vs west India mouth | **Delta** vs **estuary** | All India deltas | डेल्टा / ज्वारनदमुख |
-| Fault-valley river | **Damodar** (2019) | Chambal (ravines) | भ्रंश घाटी |
-| Antecedent vs superimposed | Cuts rising land vs **inherited** on cover | Swapped | पूर्ववर्ती / अध्यारोपित |
-| Consequent vs subsequent | Follows slope vs **follows structure** | Same | अनुगामी / परवर्ती |
-| Sill vs dyke | **Parallel** to beds vs **cuts** beds | Swapped | सिल / डाइक |
-| Conglomerate vs breccia | Rounded pebbles vs **angular** | Swapped | समूहिका / ब्रेशिया |
-| Peneplain vs pediplain | Davis humid old-age vs **King arid** | Same word | समप्राय मैदान / पदस्थली |
-| Mesa vs butte | Broad flat cap vs **narrow remnant** | Swapped | मेसा / ब्यूट |
-| Cuesta vs hogback | Gentle dip + steep scarp vs **steep both sides** | Same landform | क्वेस्टा / हॉगबैक |
-| Atoll shape | **Horseshoe / ring** around a lagoon | Triangular / rectangular / rod | एटॉल आकार |
-| Ria vs fjord | Drowned **river** vs drowned **glacier** | Same estuary | रिया / फियोर्ड |
-| Gorge vs canyon | Steep mountain cut vs **arid stair-step** | Always identical | गॉर्ज / कैनियन |
-| Endogenic vs exogenic | Interior build vs surface wear | Same | अंतर्जात / बहिर्जात |
-| Weathering vs denudation | In situ breakdown vs weathering+erosion | Same | अपक्षय ≠ अनाच्छादन |
+### 3. Seismic Waves & Outer Core Proof:
+- **P**-waves = **P**enetrate all (**S**olids, **L**iquids, **G**ases)
+- **S**-waves = **S**top at liquids (**S**olids only)
+- *(Exam Lock: S-waves disappear at the Gutenberg Discontinuity, proving the Outer Core is molten/liquid!)*
 
+### 4. Davisian Trio of Landform Development:
+- **Structure + Process + Stage = Landform**
+- *(W. M. Davis, 1899)*
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -491,4 +543,3 @@ D. Bajada — coalesced alluvial fans
 **Logic:** Parabolic dunes often show horns upwind — the swap trap.
 
 </details>
-

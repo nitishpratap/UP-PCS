@@ -11,6 +11,15 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 1 — Constitutional Development</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| Nov 26 | **Constitution Day (Samvidhan Diwas)** celebrated annually; marks adoption of Constitution in 1949 (notified in 2015 for Ambedkar's 125th birth anniversary). | Direct static-current crossover; 75th year of Constitution adoption commemorated (1949–2024). |
+| Historical Link | Swaraj Party Ranchi resolution (May 1934) first demanded Constituent Assembly; M.N. Roy put forward the idea in 1934. | Frequent match-list question in UPPCS Prelims. |
+| Calligraphy & Art | Original manuscripts preserved in helium-filled cases in Parliament Library; calligraphed by Prem Behari Narain Raizada (English) & Vasant Krishan Vaidya (Hindi). | UPPSC recurrent trap on calligraphers vs drafting committee members. |
+| New Parliament (2023) | Samvidhan Sadan (Old Parliament building) was where the Constituent Assembly sat from 1946 to 1950. | Exam landmark update linking modern infrastructure with constitution-making history. |
+
 ## 🎯 Consolidated Must-Score Facts
 
 1. The **Regulating Act of 1773** marked the first step towards British parliamentary control over the East India Company; it designated the Governor of Bengal as the **Governor-General of Bengal** (**Warren Hastings** was the first) assisted by a Council of four members.
@@ -55,16 +64,109 @@ hide:
 40. The **National Flag** (designed by Pingali Venkayya with a 3:2 ratio and 24 spokes in the Ashoka Chakra) was adopted on **22 July 1947**; the **National Anthem (Jana Gana Mana)** and **National Song (Vande Mataram)** were adopted on **24 January 1950**.
 41. The Constitution was adopted, enacted, and signed by 284 members on **26 November 1949** (**Constitution Day / Samvidhan Diwas**); while provisions relating to citizenship, elections, provisional parliament, and temporary articles came into force immediately, the remaining provisions came into full force on **26 January 1950** (commemorating the 1930 Purna Swaraj declaration).
 42. The original Constitution was handwritten and calligraphed in English by **Prem Behari Narain Raizada** in flowing italic style and illuminated/decorated by artists from Shantiniketan led by **Nandalal Bose** and Beohar Rammanohar Sinha; the Hindi version was calligraphed by **Vasant Krishan Vaidya**; the seal of the Constituent Assembly was the **Elephant**.
+43. **H.V.R. Iyengar** was appointed as the Secretary to the Constituent Assembly; **S.N. Mukherjee** was the Chief Draftsman of the Constitution in the Constituent Assembly.
+44. The **Interim Government** was sworn in on **2 September 1946** (announced 24 August 1946) based on the Cabinet Mission Plan; **Jawaharlal Nehru** was Vice-President of the Viceroy's Executive Council; the Muslim League joined later on **26 October 1946** with Liaquat Ali Khan taking the Finance portfolio.
+45. Key Portfolios in the 1946 Interim Government: **Sardar Vallabhbhai Patel** (Home, Information & Broadcasting), **Dr. Rajendra Prasad** (Food & Agriculture), **Dr. John Matthai** (Industries & Supplies), **Sardar Baldev Singh** (Defence), **Jagjivan Ram** (Labour), and **C. Rajagopalachari** (Education & Arts).
+46. The Constituent Assembly functioned in two distinct roles: as a **Constitution-making body** (presided over by **Dr. Rajendra Prasad**) and as the **Provisional Parliament of India** (presided over by **G.V. Mavalankar** as Speaker) until the first general elections in 1951–52.
+47. The framing of the Constitution took exactly **2 years, 11 months, and 18 days**, spanning **11 sessions** and consideration of the draft across 114 days, with a total expenditure of approximately ₹64 lakh.
+48. Major Sources of the Indian Constitution — British & 1935 Legacy: The **Government of India Act, 1935** contributed ~60% of constitutional provisions (Federal Scheme, Office of Governor, Judiciary, Public Service Commissions, Emergency Provisions, Administrative details); the **UK Constitution** contributed Parliamentary government, Rule of Law, Single Citizenship, Cabinet system, Prerogative Writs, Bicameralism, and Parliamentary privileges.
+49. Major Sources of the Indian Constitution — American & Irish Legacy: The **US Constitution** provided Fundamental Rights, Independence of Judiciary, Judicial Review, Impeachment of the President, Removal of SC/HC Judges, and the post of Vice-President; the **Irish Constitution** provided Directive Principles of State Policy (DPSP), Nomination of 12 Rajya Sabha members, and the Method of Presidential Election.
+50. Major Sources of the Indian Constitution — Other Global Democracies: **Canada** provided a Federation with a strong Centre, Residuary powers to Centre, Appointment of State Governors by Centre, and Advisory jurisdiction of SC; **Australia** provided the Concurrent List, Joint Sitting of Parliament, and Freedom of trade/commerce; **Germany (Weimar)** provided suspension of FRs during Emergency; **USSR** provided Fundamental Duties and ideals of Justice; **France** provided the Republic and Liberty/Equality/Fraternity; **South Africa** provided Amendment procedure (Art. 368) and election of Rajya Sabha members.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+1773  ── Regulating Act: Governor of Bengal → GG of Bengal (Warren Hastings); SC at Calcutta (1774)
+  │
+1784  ── Pitt's India Act: Double Government (Court of Directors + Board of Control)
+  │
+1813  ── Charter Act: Ended Company trade monopoly except Tea & China; ₹1 Lakh for education
+  │
+1833  ── Charter Act: GG of Bengal → GG of India (Lord William Bentinck); Law Member (Lord Macaulay)
+  │
+1853  ── Charter Act: Separated legislative and executive functions; introduced open ICS competition
+  │
+1858  ── Government of India Act: Crown Rule begins; Viceroy (Canning); Secretary of State for India
+  │
+1861  ── Indian Councils Act: Portfolio system recognized; Viceroy's ordinance power; decentralization
+  │
+1892  ── Indian Councils Act: Discussion of budget allowed (no supplementary questions); indirect election
+  │
+1909  ── Morley-Minto Reforms: Separate electorates for Muslims; supplementary questions; SP Sinha in Council
+  │
+1919  ── Montagu-Chelmsford Reforms: Dyarchy in provinces; bicameralism at Centre; CPSC set up (1926)
+  │
+1935  ── Government of India Act: Provincial Autonomy; Federal Court (1937); RBI (1935); 3 Lists
+  │
+1940  ── August Offer: Linlithgow offers Dominion status; acknowledges Indian constitution-making
+  │
+1942  ── Cripps Mission: Post-war Constituent Assembly rejected by INC ("post-dated cheque") & League
+  │
+1945  ── Wavell Plan & Shimla Conference: Breakdown over League's claim to nominate all Muslim members
+  │
+1946  ── Cabinet Mission (Mar) → Interim Govt (2 Sep) → CA first meeting (9 Dec 1946)
+  │
+1947  ── Mountbatten Plan (3 June) → Independence Act (18 July) → Drafting Committee formed (29 Aug)
+  │
+1949  ── Constitution Adopted, enacted and signed (26 November 1949 — Constitution Day)
+  │
+1950  ── Constitution Commences in full force (26 January 1950 — Republic Day)
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Key Constitutional Acts Comparison
+
+| Act / Milestone | Key Administrative Shift | Legislative / Judicial Innovation | Examiner Trap Lock |
+|---|---|---|---|
+| **Regulating Act 1773** | GG of Bengal + 4 Council members | SC at Fort William (1774, CJ Elijah Impey) | GG of Bengal ≠ GG of India |
+| **Pitt's India Act 1784** | Double Government (Board vs Directors) | Board of Control = 6 political commissioners | Board = Politics, Directors = Commerce |
+| **Charter Act 1833** | GG of India (William Bentinck) | Law Member added (Lord Macaulay) | Ended ALL commercial functions |
+| **Charter Act 1853** | 6-member Central Legislative Council | Open competitive examination for ICS | Macaulay Committee 1854 |
+| **GOI Act 1858** | Crown Rule; Secretary of State (15-member) | Viceroy of India (Lord Canning) | Abolished Board & Directors |
+| **Indian Councils Act 1861** | Legislative powers restored to Bombay/Madras | Portfolio system statutory; Ordinances | Raja of Benaras, Patiala, Dinkar Rao nominated |
+| **Indian Councils Act 1892** | Non-official members increased | Budget discussion allowed | No voting, no supplementary questions |
+| **Indian Councils Act 1909** | Satyendra Prasad Sinha (Law Member) | Separate electorates for Muslims | Morley = Sec of State, Minto = Viceroy |
+| **GOI Act 1919** | Provincial Dyarchy (Transferred vs Reserved) | Central Bicameralism; Direct elections | Dyarchy in provinces, NOT at centre |
+| **GOI Act 1935** | Provincial Autonomy; Residuary with Viceroy | Federal Court (1937); 3 Legislative Lists | Federation & Centre Dyarchy never operated |
+
+### 2. Major Committees of Constituent Assembly & Chairpersons
+
+| Committee | Chairperson | Critical Note |
+|---|---|---|
+| **Drafting Committee** | **Dr. B.R. Ambedkar** | 7 members; set up 29 August 1947 |
+| **Union Powers Committee** | **Jawaharlal Nehru** | 9 members |
+| **Union Constitution Committee** | **Jawaharlal Nehru** | Framed federal union structure |
+| **Provincial Constitution Committee** | **Sardar Vallabhbhai Patel** | Designed Governor's office |
+| **Advisory Committee on FR, Minorities & Tribals** | **Sardar Vallabhbhai Patel** | Largest committee (54 members) |
+| **Fundamental Rights Sub-Committee** | **J.B. Kripalani** | Subordinate to Patel's advisory committee |
+| **Minorities Sub-Committee** | **H.C. Mukherjee** | Subordinate to Patel's advisory committee |
+| **Steering Committee** | **Dr. Rajendra Prasad** | Managed business of the Assembly |
+| **Rules of Procedure Committee** | **Dr. Rajendra Prasad** | Framed assembly rules |
+| **States Committee (Negotiating with States)** | **Jawaharlal Nehru** | Chaired by Nehru, NOT Patel |
+| **Ad hoc Committee on the National Flag** | **Dr. Rajendra Prasad** | Appointed 23 June 1947 |
+| **Order of Business Committee** | **Dr. K.M. Munshi** | Only Congress member in original drafting core |
+
+### 3. Borrowed Features Matrix
+
+| Country / Source | Constitutional Features Borrowed |
+|---|---|
+| **GOI Act 1935** | Federal scheme, Office of Governor, Judiciary, Public Service Commissions, Emergency provisions, Administrative details |
+| **United Kingdom** | Parliamentary government, Rule of Law, Legislative procedure, Single citizenship, Cabinet system, Prerogative writs, Parliamentary privileges, Bicameralism |
+| **United States** | Fundamental Rights, Independence of judiciary, Judicial review, Impeachment of President, Removal of SC/HC judges, Post of Vice-President |
+| **Ireland** | Directive Principles of State Policy (DPSP), Nomination of members to Rajya Sabha, Method of election of President |
+| **Canada** | Federation with a strong Centre, Vesting of residuary powers in the Centre, Appointment of state governors by the Centre, Advisory jurisdiction of Supreme Court |
+| **Australia** | Concurrent List, Freedom of trade, commerce and intercourse, Joint-sitting of two Houses of Parliament |
+| **Germany (Weimar)** | Suspension of Fundamental Rights during National Emergency |
+| **USSR (Russia)** | Fundamental Duties, Ideals of justice (social, economic, political) in the Preamble |
+| **France** | Republic, Ideals of liberty, equality, and fraternity in the Preamble |
+| **South Africa** | Procedure for amendment of the Constitution, Election of members of Rajya Sabha |
+| **Japan** | Procedure established by Law (Art. 21) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Confused pairs
-
 | Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
+|---|---|---|---|
 | GG of Bengal vs GG of India | **1773** Bengal (Hastings); **1833** India (Bentinck) | Call 1773 = GG of India | बंगाल ≠ भारत |
 | Board of Control vs Court of Directors | Board = **political**; Directors = **commercial** | Swap | बोर्ड = राजनीति |
 | Act of 1786 | GG may **overrule** Council; Cornwallis = first GG+CinC | Credit 1784 alone | 1786 ओवररूल |
@@ -103,10 +205,33 @@ hide:
 | Calligrapher vs Drafting Chair | **Prem Behari Narain Raizada** (calligrapher) vs **Ambedkar** (Drafting Chair) | Say Ambedkar calligraphed the manuscript | रायज़ादा = सुलेखक |
 | English vs Hindi Calligrapher | **Prem Behari Narain Raizada** (English) vs **Vasant Krishan Vaidya** (Hindi) | Assume same person wrote both | अंग्रेज़ी = रायज़ादा; हिंदी = वैद्य |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **6 Provinces with Bicameralism under GOI Act 1935:**
+   - Mnemonic: **BAM-B-U-B**
+   - **B**engal, **A**ssam, **M**adras, **B**ihar, **U**nited Provinces, **B**ombay.
+2. **Drafting Committee Members (7 Members):**
+   - Mnemonic: **"Ambedkar's Ayyar-Ayyangar Munshi Saadulla, with Madhava & TTK"**
+   - 1. Dr. B.R. Ambedkar (Chairman)
+   - 2. N. Gopalaswami Ayyangar
+   - 3. Alladi Krishnaswamy Iyer
+   - 4. Dr. K.M. Munshi (only original member belonging to Congress party)
+   - 5. Syed Mohammad Saadulla (Muslim League representative)
+   - 6. N. Madhava Rau (replaced B.L. Mitter due to ill-health)
+   - 7. T.T. Krishnamachari (replaced D.P. Khaitan on his death in 1948)
+3. **Constituent Assembly Key Dates Sequence:**
+   - Mnemonic: **9-11-13 Dec 1946**
+   - 9 Dec: Temporary Chairman (**Dr. Sachchidananda Sinha**)
+   - 11 Dec: Permanent President (**Dr. Rajendra Prasad**) + Vice-President (**H.C. Mukherjee**) + Adviser (**Sir B.N. Rau**)
+   - 13 Dec: **Objectives Resolution** moved by Jawaharlal Nehru (unanimously adopted on 22 Jan 1947)
+4. **Residuary Powers Constitutional Matrix:**
+   - GOI Act 1935: Vested in **Governor-General / Viceroy**
+   - Indian Constitution (Art. 248): Vested in **Parliament (Centre)** (borrowed from Canada)
+   - USA & Australia: Vested in **States**
+5. **Women in Constituent Assembly (~15 Members):**
+   - Prominent members include: Sarojini Naidu, Vijayalakshmi Pandit, Rajkumari Amrit Kaur, Sucheta Kripalani, Durgabai Deshmukh, Begum Aizaz Rasul (only Muslim woman member), Hansa Mehta, Renuka Ray, Annie Mascarene, Ammu Swaminathan, Dakshayani Velayudhan (only Dalit woman member).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -599,4 +724,3 @@ D. IV, I, II, III
 
 **Ans: A** — First met 9 Dec 1946 (I) → Drafting Committee appointed 29 Aug 1947 (II) → Constitution adopted 26 Nov 1949 (III) → Commencement 26 Jan 1950 (IV).
 </details>
-

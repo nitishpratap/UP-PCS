@@ -7,69 +7,22 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🔬 Science & Technology &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chemistry Topic 6 — Gases, Fuels, Energy and Combustion</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
 
-## 🎯 Consolidated Must-Score Facts
+## 📰 Current Affairs & High-Yield Updates
 
-1. **Calorific Value** is the total quantity of heat liberated by the complete combustion of a unit mass ($1\text{ kg}$) or unit volume ($1\text{ m}^3$) of a fuel, expressed in **$\text{kJ/kg}$** or $\text{kcal/kg}$.
-2. **Hydrogen ($H_2$)** has the **highest calorific value of all known fuels ($150,000\text{ kJ/kg}$)**, roughly $3$ times higher than petrol or diesel.
-3. **Master Hierarchy of Calorific Values ($\text{kJ/kg}$)**:
-4. **LPG (Liquefied Petroleum Gas)**:
-5. **Ethyl Mercaptan (Ethanethiol, $C_2H_5SH$)**: Natural alkane gases (butane, propane, methane) are completely colorless and odorless. To detect accidental leaks instantly and prevent catastrophic household explosions, a minute concentration of foul, pungent **Ethyl Mercaptan** (resembling the odor of rotten cabbages or sulfur) is deliberately blended into commercial LPG cylinders.
-6. **Natural Gas**: Naturally occurring gaseous fossil fuel extracted from underground geological reservoirs (often associated with crude petroleum deposits). Composed predominantly of **Methane ($CH_4$, $85–95\%$)**, with minor fractions of ethane ($C_2H_6$), propane, butane, and traces of nitrogen and $CO_2$.
-7. **CNG (Compressed Natural Gas)**:
-8. **LNG (Liquefied Natural Gas)**:
-9. **Biogas (Gobar Gas)**:
-10. **Water Gas (Synthesis Gas / Syngas)**:
-11. **Coal Classification & Ranks** (by increasing geological age, carbon content, and calorific value):
-12. **Peat**: Earliest geological stage of coal formation; brown fibrous mass containing **$<60\%$ Carbon**, high moisture ($>70\%$), burns with heavy smoke and low calorific value ($10,000–15,000\text{ kJ/kg}$).
-13. **Lignite ("Brown Coal")**: Soft, crumbly coal containing **$60–70\%$ Carbon** and high residual moisture; lowest commercial rank of coal. In India, massive deposits are mined at **Neyveli (Tamil Nadu)** for thermal power generation.
-14. **Bituminous Coal ("Soft Coal" / Commercial Coal)**: The most abundant and widely used commercial coal; black, dense, contains **$75–85\%$ Carbon** and low moisture; standard fuel for thermal electricity generation and metallurgical coking in blast furnaces.
-15. **Anthracite Coal ("Hard Coal")**: The highest rank and geologically oldest coal; black, lustrous, contains **$>90–95\%$ Carbon**; burns slowly with a smokeless, pale blue flame, minimal ash, and the highest calorific value ($\approx 33,000\text{ kJ/kg}$). In India, found exclusively in small deposits in **Jammu and Kashmir (Kalakot, Reasi)**.
-16. **Petroleum Fractions by Boiling Point**:
-17. **Engine Knocking**: In an internal combustion engine, if the air-fuel mixture ignites prematurely (pre-ignition or detonation) before the spark plug fires, shock waves hit the cylinder walls, producing an audible metallic rattling noise known as **knocking**, which reduces power output and causes engine wear.
-18. **Octane Rating (Octane Number)**:
-19. **n-Heptane ($C_7H_{16}$)** knocks violently and is assigned an **Octane Number = 0**.
-20. **Iso-octane (2,2,4-trimethylpentane, $C_8H_{18}$)** burns smoothly and is assigned an **Octane Number = 100**.
-21. **Anti-Knock Additives**:
-22. **Cetane Rating (Cetane Number)**:
-23. **n-Hexadecane (Cetane, $C_{16}H_{34}$)** has a very short ignition delay and is assigned **Cetane Number = 100**.
-24. **$\alpha$-Methylnaphthalene** has a long ignition delay and is assigned **Cetane Number = 0**.
-25. **Generations of Biofuels**:
-26. **1G (First Generation)**: Produced from edible human food crops (sugarcane juice, corn starch, wheat, edible vegetable oils). Creates food-versus-fuel conflict.
-27. **2G (Second Generation)**: Produced from non-food agricultural lignocellulosic residues (rice straw, wheat stalk, sugarcane bagasse, corn cobs, bamboo). India's commercial 2G bio-ethanol refinery is operational at **Panipat (Haryana)**.
-28. **3G (Third Generation)**: Extracted from aquatic algal biomass (microalgae) grown in sewage or saline wastewater ponds; rapid growth rates, zero arable land needed.
-29. **4G (Fourth Generation)**: Utilizes genetically modified photosynthetic microorganisms and solar fuels that capture and convert atmospheric $CO_2$ directly into biofuels.
-30. **Ethanol Blending in India**:
-31. **Ethanol ($C_2H_5OH$)**: Produced by yeast (*Saccharomyces cerevisiae*) fermentation of molasses (byproduct of sugar manufacturing), broken grains (damaged rice, maize), and agricultural cellulose.
-32. **Blending Ratio**: E10 ($10\%$ ethanol, $90\%$ petrol); E20 ($20\%$ ethanol, $80\%$ petrol).
-33. **Transesterification Reaction**: Vegetable oil triglycerides react with methanol ($CH_3OH$) in the presence of a base catalyst ($NaOH$ or $KOH$) to produce **Fatty Acid Methyl Esters (FAME, Biodiesel)** and a commercially valuable byproduct, **Glycerol (Glycerine)**.
-34. **Combustion**: An exothermic redox chemical reaction between a fuel and an oxidant (usually atmospheric oxygen) accompanied by the evolution of heat and light.
-35. **Carbon Monoxide ($CO$) Toxicity**: Known as the **"Silent Killer"**; a colorless, odorless, non-irritating toxic gas. When inhaled, $CO$ binds to human hemoglobin with an affinity **$\approx 200–250\text{ times}$ greater than oxygen**, forming stable **Carboxyhemoglobin ($CO-Hb$)**. This halts systemic oxygen transport to brain and heart tissues, causing headache, dizziness, unconsciousness, and asphyxiation within minutes (often occurring when charcoal braziers/angithis are burned inside closed, unventilated bedrooms during winter).
-
-
----
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| Year/Ref | Key Fact & Significance | Exam Relevance |
+|---|---|---|
 | **2025–2026** | **National Green Hydrogen Mission** | Targeted green hydrogen production capacity of $5\text{ MMT}$ per annum by 2030. Hydrogen ($H_2$) possesses the **highest gravimetric calorific value of all fuels ($150,000\text{ kJ/kg}$)** and burns to produce pure water ($2H_2 + O_2 \to 2H_2O$) with zero greenhouse gas emissions. |
 | **2025** | **UPPCS Prelims 2025** | Direct question on **Biogas Major Constituents**: Keyed strictly as **Methane ($CH_4$, $55–70\%$) + Carbon Dioxide ($CO_2$, $30–45\%$)**. Distractors like Butane (LPG) and Carbon Monoxide (Water/Producer gas) were eliminated. |
 | **2024–2025** | **E20 Ethanol Blending Target** | India successfully rolled out **E20 Fuel** ($20\%$ bio-ethanol blended with $80\%$ motor gasoline/petrol) nationwide across retail fuel pumps, advancing the target date from 2030 to 2025. Ethanol acts as a high-octane oxygenate reducing carbon monoxide tailpipe emissions. |
 | **2022** | **UPPCS Prelims 2022** | Re-tested identity of **CNG** and **Natural Gas**: Both consist predominantly of **Methane ($CH_4$, $>85\%$)**. Mechanical compression to $200\text{ bar}$ does not alter the fundamental chemical identity of the gas. |
 | **2021** | **UPPCS Prelims 2021** | Tested **LPG Primary Constituent**: Correctly keyed as **Butane** (together with propane). Highlighted the role of **Ethyl Mercaptan ($C_2H_5SH$)** as the vital foul-smelling leak indicator added to odorless LPG cylinders. |
 
+## 🎯 Consolidated Must-Score Facts
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Calorific Value** is the total quantity of heat liberated by the complete combustion of a unit mass ($1\text{ kg}$) or unit volume ($1\text{ m}^3$) of a fuel, expressed in **$\text{kJ/kg}$** or $\text{kcal/kg}$.
+1. A **Fuel** is any combustible substance containing chemical energy that undergoes controlled exothermal reaction with oxygen to generate useful thermal energy.
+2. An **Ideal Fuel** possesses: high calorific value, moderate ignition temperature (neither too low nor too high), low moisture content, burns without producing poisonous gases or ash, and is safe and economical to transport.
+3. **Calorific Value** is the total quantity of heat liberated by the complete combustion of a unit mass ($1\text{ kg}$) or unit volume ($1\text{ m}^3$) of a fuel, expressed in **$\text{kJ/kg}$** or $\text{kcal/kg}$.
 4. **Hydrogen ($H_2$)** has the **highest calorific value of all known fuels ($150,000\text{ kJ/kg}$)**, roughly $3$ times higher than petrol or diesel.
 5. Despite its immense calorific value, hydrogen is not yet used as a common domestic fuel because of its high flammability, wide explosion limits ($4–75\%$ in air), low ignition energy, and technical difficulty in liquefying and storing it under high pressures.
 6. **Master Hierarchy of Calorific Values ($\text{kJ/kg}$)**:
@@ -196,489 +149,379 @@ hide:
 49. **Mustard Gas (Dichlorodiethyl sulphide)**: Vesicant chemical warfare blister agent deployed in World War I, causing painful chemical burns on skin and lungs.
 50. **Bhopal Gas Tragedy (December 2–3, 1984)**: The world's worst industrial disaster, caused by the accidental release of over 40 tonnes of lethal **Methyl Isocyanate (MIC, $CH_3NCO$)** gas from the Union Carbide pesticide plant in Bhopal, Madhya Pradesh, reacting with water in a runaway exothermic reaction.
 
-</details>
-
-<details class="st-chapter-toggle st-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
-
-| Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
-|---|---|---|---|
-| **LPG vs. CNG** | **LPG (Liquefied Petroleum Gas)**: Mainly **Butane and Propane** ($C_4H_{10} + C_3H_8$). Stored as liquid at $6–8\text{ bar}$. Denser than air ($d \approx 1.5–2$). | **CNG (Compressed Natural Gas)**: Mainly **Methane** ($CH_4, >85\%$). Stored as gas at $200–250\text{ bar}$. Lighter than air ($d \approx 0.6$). | **Chemical Identity & Dispersion**: LPG is butane/propane (sinks in air, pools on floor); CNG is methane (rises and disperses into atmosphere if leaked). |
-| **Water Gas vs. Producer Gas** | **Water Gas (Syngas)**: Equimolar mixture of **Carbon Monoxide and Hydrogen ($CO + H_2$)**. Endothermic steam reaction. Higher calorific value. | **Producer Gas**: Mixture of **Carbon Monoxide and Nitrogen ($CO + N_2$)**. Exothermic air reaction. Lower calorific value due to $60\% N_2$ ballast. | **Second Component**: Water gas has combustible **$H_2$**; Producer gas has inert, non-combustible **$N_2$**. |
-| **CNG vs. LNG** | **CNG**: Natural gas compressed at ambient temperature to **$200–250\text{ bar}$**; remains in the **gaseous state**. | **LNG**: Natural gas cooled to cryogenic temperature (**$-162^\circ\text{C}$**) at atmospheric pressure; exists in the **liquid state**. | **Physical State & Cooling**: CNG is high-pressure ambient gas; LNG is cryogenic unpressurized liquid ($1/600\text{th}$ volume). |
-| **Octane Rating vs. Cetane Rating** | **Octane Rating**: Measures anti-knock resistance of **Petrol (Gasoline)** in spark-ignition engines. Standard: isooctane. | **Cetane Rating**: Measures ignition delay and combustion speed of **Diesel Fuel** in compression-ignition engines. Standard: cetane. | **Engine Fuel Target**: Octane is for petrol/gasoline engines; Cetane is for diesel engines. |
-| **Anthracite vs. Bituminous Coal** | **Anthracite**: Highest coal rank; **$>90–95\%$ Carbon**; burns with smokeless blue flame; highest calorific value; rare in India. | **Bituminous**: Most abundant commercial coal; **$75–85\%$ Carbon**; volatile matter; domestic and thermal power fuel. | **Carbon Concentration & Ash**: Anthracite has $>90\%$ carbon with near-zero smoke; Bituminous has $75–85\%$ carbon and burns with yellow flame. |
-| **1G Biofuel vs. 2G Biofuel** | **1G Biofuel**: Produced from **edible food crops** (sugarcane molasses, corn, grain). Direct competitor to human food security. | **2G Biofuel**: Produced from **non-food agricultural residues** (rice straw, wheat stalk, bagasse). Zero food security conflict. | **Feedstock Source**: 1G uses food grains/sugars; 2G uses inedible agricultural biomass and crop residues. |
-| **Boyle's Law vs. Charles's Law** | **Boyle's Law**: Relates Pressure and Volume at **constant Temperature** ($P_1V_1 = P_2V_2$). | **Charles's Law**: Relates Volume and Temperature at **constant Pressure** ($V_1/T_1 = V_2/T_2$). | **Constant Variable**: Boyle's law holds $T$ constant; Charles's law holds $P$ constant. |
-| **Complete vs. Incomplete Combustion** | **Complete Combustion**: Excess oxygen; blue non-luminous flame; products strictly **$CO_2 + H_2O$**. | **Incomplete Combustion**: Deficient oxygen; yellow luminous flame; yields toxic **$CO$ and carbon soot**. | **Byproduct Toxicity**: Complete combustion yields non-toxic $CO_2$; incomplete combustion generates lethal, odorless $CO$. |
-
-</details>
-
-## Master Reference Tables
-
-### Table 1: Master Matrix of Gaseous Fuels (NCERT / Lucent Standard)
-
-| Fuel Gas Name | Principal Chemical Constituents (% by volume) | Manufacturing / Extraction Method | Typical Calorific Value | Key Real-World Applications & Common Traps |
-|---|---|---|---|---|
-| **LPG** | **n-Butane + Isobutane ($\approx 60\%$), Propane ($\approx 40\%$)** | Fractional distillation of crude oil & gas cracking | $\approx 50,000\text{ kJ/kg}$ | Domestic cooking gas cylinders; foul odor given by **ethyl mercaptan ($C_2H_5SH$)**. |
-| **Natural Gas** | **Methane ($CH_4, 85–95\%$)**, Ethane ($C_2H_6, 2–7\%$) | Extracted from deep underground geological wells | $\approx 55,000\text{ kJ/kg}$ | Piped natural gas (PNG) for kitchens, fertilizer plant feedstock, power plants. |
-| **CNG** | **Methane ($CH_4, >85\%$)** | Natural gas mechanically compressed to $200–250\text{ bar}$ | $\approx 50,000\text{ kJ/kg}$ | Eco-friendly automotive vehicle fuel; reduces urban particulate matter ($PM_{2.5}$). |
-| **LNG** | **Methane ($CH_4, >95\%$)** | Natural gas cryogenically liquefied at $-162^\circ\text{C}$ | $\approx 54,000\text{ kJ/kg}$ | Long-distance trans-oceanic shipping via specialized insulated LNG tankers. |
-| **Biogas (Gobar Gas)**| **Methane ($CH_4, 55–70\%$), $CO_2\text{ (30–45\%)}$** | Anaerobic bacterial fermentation of animal dung/sewage | $\approx 35,000–40,000\text{ kJ/m}^3$ | Rural domestic cooking and lighting; leftover slurry is high-grade N-P fertilizer. |
-| **Water Gas** | **Carbon Monoxide ($CO, \approx 40–50\%$) + Hydrogen ($H_2, \approx 45–50\%$)**| Passing steam over red-hot coke ($C + H_2O \to CO + H_2$) | $\approx 13,000\text{ kJ/m}^3$ | Industrial hydrogen production, syngas for Fischer-Tropsch hydrocarbon synthesis. |
-| **Producer Gas** | **Carbon Monoxide ($CO, \approx 30\%$) + Nitrogen ($N_2, \approx 60\%$)** | Passing air over red-hot coke ($2C + O_2 + 4N_2 \to 2CO + 4N_2$) | $\approx 5,000\text{ kJ/m}^3$ | Industrial furnace heating in steel mills, glass melting, ceramic kilns. |
-| **Coal Gas** | **Hydrogen ($H_2, 50\%$), Methane ($CH_4, 30\%$), $CO\text{ (10\%)}$**| Destructive distillation (pyrolysis) of coal at $1000^\circ\text{C}$ | $\approx 20,000\text{ kJ/m}^3$ | Metallurgical coke ovens; historical municipal town lighting. |
-| **Hydrogen Gas** | **Pure $H_2$ ($100\%$)** | Electrolysis of water; steam methane reforming | **$150,000\text{ kJ/kg}$** | **Highest calorific value of all fuels**; rocket propellant, clean fuel of the future. |
-
----
-
-### Table 1B: Master Matrix of Industrial & Atmospheric Inorganic Gases
-| Gas / Compound | Chemical Formula & Structure | Major Properties | Primary Industrial & Everyday Applications |
-| :--- | :--- | :--- | :--- |
-| **Hydrogen ($H_2$)** | $H_2$ (Lightest gas, Molar mass $= 2.016$) | Highest calorific value ($150\text{ kJ/g}$); burns cleanly to water; non-polluting | Fuel cell vehicles; Haber process ammonia synthesis; vegetable oil hydrogenation (Ni catalyst at $150-180^\circ\text{C}$). |
-| **Heavy Water ($D_2O$)** | $D_2O$ (Deuterium oxide, Mol. wt. $= 20$) | Density $= 1.11\text{ g/cm}^3$; higher boiling point ($101.4^\circ\text{C}$); slower physiological reactions (toxic in pure concentration) | **Neutron moderator and coolant** in Pressurized Heavy Water Reactors (PHWR); tracer in chemical spectroscopy. |
-| **Hydrogen Peroxide ($H_2O_2$)** | $H_2O_2$ (Pale blue liquid, weak acid) | Density $= 1.45\text{ g/cm}^3$; b.p. $= 150.2^\circ\text{C}$; strong oxidizing & reducing agent | Antiseptic/germicide for cleaning wounds; bleaching wool, silk, hair, ivory; rocket propellant oxidizer. |
-| **Nitrogen ($N_2$)** | $N_2$ (Triple bond $N\equiv N$, inert) | Forms $78.08\%$ of atmosphere; permanent atmospheric gas; non-combustible | **Inflating aircraft tyres** (prevents wheel fires on landing, maintains pressure); food packaging inert atmosphere. |
-| **Nitrous Oxide ($N_2O$)** | $N_2O$ (Laughing Gas) | Colourless, sweetish odour; produces euphoria, pain relief, and dissociation | Surgical & dental anaesthesia; oxidizer in high-performance rocketry/motorsports. |
-| **Ammonia ($NH_3$)** | $NH_3$ (Polar, pyramidal, pungent) | Highly soluble in water due to extensive hydrogen bonding; alkaline solution | Fertilizer precursor (urea, ammonium nitrate); commercial refrigerant; household surface cleaners. |
-| **Sulfur Dioxide ($SO_2$)** | $SO_2$ (Bent molecule, pungent) | Major acid rain precursor ($SO_2 + H_2O \to H_2SO_3$); reducing and bleaching agent | Precursor for contact process $H_2SO_4$; food preservative in dried fruits & winemaking. |
-| **Sulfur Hexafluoride ($SF_6$)** | $SF_6$ (Octahedral geometry) | Extremely potent greenhouse gas; hypervalent; non-flammable; high dielectric strength | Gaseous electrical insulator in high-voltage circuit breakers & switchgear. |
-| **Tear Gas (Lacrymatory Agents)** | Alphachloroacetophenone / $CS$ gas | Severe eye and mucous membrane irritation, lacrimation | Riot control agent; chlorine ($Cl_2$) is an essential reagent in synthesis. |
-| **Helium ($He$)** | $He$ (Noble gas, Group 18) | Non-flammable; much lighter than air; low solubility in blood | **Air balloons** (safer than explosive $H_2$); **Heliox** ($He + O_2$) mixture for deep-sea divers (prevents nitrogen narcosis). |
-| **Xenon ($Xe$)** | $Xe$ (Stranger Gas, $Z=54$) | Dense noble gas; trace atmospheric presence ($0.08\text{ ppm}$) | High-pressure arc projection lamps, photographic flashes, xenon general anaesthesia, ion thruster propellant. |
-| **Argon ($Ar$)** | $Ar$ (Noble gas, $0.93\%$ atmosphere) | Most abundant noble gas in air; inert | Filled in incandescent electric bulbs and fluorescent tubelights with low-pressure mercury vapour. |
-
-> [!IMPORTANT]
-> **Heavy Water Manufacturing Plants in India:**
-> - First heavy water plant established at **Nangal (Punjab) in 1962** (later decommissioned).
-> - Major Heavy Water Board (HWB) facilities established at: **Baroda & Hazira (Gujarat)**, **Tuticorin (Tamil Nadu)**, **Kota (Rajasthan)**, **Manuguru (Telangana)**, **Thal (Maharashtra)**, and **Talcher (Odisha)**.
-
-### Table 2: Coal Quality Spectrum & Geological Ranks
-
-| Coal Rank / Grade | Carbon Content (% by mass) | Moisture & Volatiles | Heating Value ($\text{kJ/kg}$) | Physical Appearance & Combustion Behavior | Major Indian Occurrences |
-|---|---|---|---|---|---|
-| **Peat** | $< 60\%$ (lowest) | Very High ($>70\%$) | $10,000–15,000$ | Spongy, brown, fibrous; burns with heavy smoke and foul odor | Nilgiri hills, Kashmir valley bogs |
-| **Lignite** | $60–70\%$ | High ($30–40\%$) | $15,000–20,000$ | Soft, crumbly brown coal; intermediate moisture | **Neyveli (Tamil Nadu)**, Palana (Rajasthan) |
-| **Bituminous** | $75–85\%$ | Moderate ($15–20\%$) | $25,000–30,000$ | Hard, black, dense; burns with steady yellow flame; high coking | Jharia, Raniganj, Bokaro, Singrauli |
-| **Anthracite** | **$> 90–95\%$ (highest)** | Very Low ($<5\%$) | **$\approx 33,000$** | Hard, shiny, sub-metallic luster; burns with smokeless blue flame | **Kalakot (Jammu & Kashmir)** |
-
----
-
-### Table 3: Combustion Zones of a Candle Flame
-
-| Flame Zone | Physical Location | Oxygen Availability | Combustible Matter State | Relative Temperature | Visual Color | Practical Significance |
-|---|---|---|---|---|---|---|
-| **Innermost Zone** | Surrounding the cotton wick | Zero (No Oxygen) | Unburnt paraffin wax vapors | **Lowest Temperature (Coolest zone)** | Black / Dark | Wax melts and rises by capillary action |
-| **Middle Luminous Zone** | Central broad region | Insufficient / Restricted | Incomplete combustion of wax | Moderate Temperature | Bright Yellow | Incandescent unburnt carbon soot particles emit light |
-| **Outermost Zone** | Thin exterior envelope | Excess / Abundant | Complete combustion into $CO_2 + H_2O$ | **Highest Temperature (Hottest zone)** | Blue / Non-luminous | Goldsmiths blow air here to melt gold/silver |
-
----
-
-## Detailed Theory Notes
-
-### 6.1 Fuel Thermodynamics & Calorific Value Hierarchy
-
-#### 1. Defining Principles
-- The chemical energy stored within covalent bonds of fossil fuels and biofuels is released as thermal kinetic energy when carbon and hydrogen atoms oxidize into $CO_2$ and $H_2O$:
-  $$C + O_2 \to CO_2 + 393.5\text{ kJ/mol}$$
-  $$2H_2 + O_2 \to 2H_2O + 571.6\text{ kJ/mol}$$
-- **Higher Calorific Value (Gross Calorific Value, GCV)**: Total heat released when unit mass of fuel burns completely and combustion products ($H_2O$) are cooled back to standard reference temperature ($25^\circ\text{C}$), condensing steam and capturing its latent heat of vaporization ($L_v$).
-- **Lower Calorific Value (Net Calorific Value, NCV)**: Effective heat liberated when steam produced during combustion escapes into the atmosphere without condensing:
-  $$\text{NCV} = \text{GCV} - (\text{Mass of water formed} \times L_v)$$
-- **Hydrogen's Superiority**: Gravimetrically, hydrogen possesses the highest energy density of any chemical fuel ($150\text{ MJ/kg}$), because hydrogen has the lowest atomic mass and highest charge-to-mass ratio among combustible elements.
+## ⏱️ Timeline / Chronology
 
 ```
-Gravimetric Calorific Value Sequence:
-Hydrogen (150,000 kJ/kg) >> Methane (55,000) > LPG/CNG (50,000) > Petrol/Diesel (45,000) > Coal (28,000) > Wood (17,000)
+1662 ── Robert Boyle discovers Boyle's Law of Gas Pressure & Volume (P ∝ 1/V)
+ │
+1776 ── Alessandro Volta discovers Methane gas ('combustible air of marshes')
+ │
+1787 ── Jacques Charles formulates Charles's Law (V ∝ T at constant pressure)
+ │
+1801 ── John Dalton formulates the Law of Partial Pressures for gas mixtures
+ │
+1834 ── Thomas Graham discovers Graham's Law of Gaseous Diffusion (r ∝ 1/√M)
+ │
+1873 ── Johannes Diderik van der Waals derives the Equation of State for real gases
+ │
+2023–25 ── Launch of the Global Biofuels Alliance (GBA) & National Green Hydrogen Mission
 ```
 
----
-
-### 6.2 Gaseous Fuels: Petroleum Gas, Natural Gas & Biogas
-
-#### 1. Liquefied Petroleum Gas (LPG)
-- **Thermodynamic Transition**: At atmospheric pressure ($1\text{ atm}$), butane boils at $-0.5^\circ\text{C}$ and propane boils at $-42^\circ\text{C}$. When compressed inside a steel cylinder at $6–8\text{ bar}$ ($0.6–0.8\text{ MPa}$), these gases condense into liquid form at ambient room temperature.
-- **Vapor-Liquid Equilibrium**: Inside the cylinder, liquid LPG sits at the bottom with pressurized gas filling the headspace above. When the valve is opened, pressure drops, causing the liquid to boil instantly into gas for combustion.
-- **Safety Engineering — Ethyl Mercaptan**: Because hydrocarbons are odorless, any minor valve leak would be undetectable, accumulating near the floor (density of butane vapor $\approx 2.0$ relative to air $= 1.0$). Blending **Ethyl Mercaptan ($C_2H_5SH$)** ensures human olfactory detection at concentrations as low as **$1\text{ part per billion (ppb)}$**, well below the lower explosive limit ($1.8\%$).
-
-#### 2. Biogas / Gobar Gas Chemistry
-- **Anaerobic Biodigestion Stages**:
-  1. *Hydrolysis*: Complex biopolymers (cellulose, hemicellulose, proteins) are broken down by extracellular bacterial enzymes into soluble monomers (glucose, amino acids).
-  2. *Acidogenesis*: Acid-forming bacteria convert monomers into volatile fatty acids (acetic acid, propionic acid, butyric acid), along with $CO_2$ and $H_2$.
-  3. *Acetogenesis*: Acetogenic bacteria convert fatty acids into acetic acid ($CH_3COOH$), $CO_2$, and $H_2$.
-  4. *Methanogenesis*: Strictly anaerobic methanogenic archaebacteria (*Methanobacterium*, *Methanococcus*) convert acetate and hydrogen into methane:
-     $$CH_3COOH \to CH_4 + CO_2$$
-     $$CO_2 + 4H_2 \to CH_4 + 2H_2O$$
-- The overall biogas output contains **$55–70\%\text{ Methane } (CH_4)$** and **$30–45\%\text{ Carbon Dioxide } (CO_2)$**.
-
----
-
-### 6.3 Industrial Fuel Gases: Water Gas, Producer Gas & Syngas
-
-```
-                     ┌── Water Gas (Syngas): Coke + Steam (1000°C) ──> CO + H₂ (Endothermic)
-Industrial Gas Mixes ┤
-                     └── Producer Gas:       Coke + Air (1100°C)   ──> CO + N₂ (Exothermic)
-```
-
-#### 1. Water Gas (Syngas)
-- Formed by passing steam through a bed of incandescent red-hot coke at temperatures above $1000^\circ\text{C}$:
-  $$C\text{ (s)} + H_2O\text{ (g)} \xrightarrow{1000^\circ\text{C}} CO\text{ (g)} + H_2\text{ (g)} \quad (\Delta H = +131.3\text{ kJ/mol})$$
-- Because the reaction is strongly endothermic, the coke bed cools down rapidly below the reaction threshold. To maintain production, an alternating process is used: an "air blow" (burning coke exothermically with air to reheat the bed) alternated with a "steam run" (injecting steam to generate water gas).
-- Used for synthesizing industrial methanol ($CO + 2H_2 \xrightarrow{ZnO/Cr_2O_3} CH_3OH$) and as a source of commercial hydrogen via the **Water-Gas Shift Reaction**:
-  $$CO + H_2O\text{ (steam)} \xrightarrow{Fe_2O_3/Cr_2O_3, 450^\circ\text{C}} CO_2 + H_2$$
-
-#### 2. Producer Gas
-- Manufactured by blowing air through a thick bed of red-hot coke in a furnace called a gas producer at $1100^\circ\text{C}$:
-  $$2C\text{ (s)} + O_2\text{ (g)} + 4N_2\text{ (g)} \to 2CO\text{ (g)} + 4N_2\text{ (g)} \quad (\Delta H = -221\text{ kJ/mol})$$
-- The reaction is exothermic, keeping the furnace continuously hot without auxiliary heating.
-- Because it contains roughly $60\%$ non-combustible atmospheric nitrogen, it burns with a low flame temperature, but is economical for firing large metallurgical furnaces.
-
----
-
-### 6.4 Solid & Liquid Fuels: Petroleum Refining & Combustion Quality
-
-#### 1. Coal Metamorphism (Coalification)
-Vegetation buried under ancient swamp sediments underwent slow biochemical decay by anaerobic bacteria, followed by geological compression under immense overburden pressure and geothermal heat over hundreds of millions of years:
-$$\text{Wood} \xrightarrow{\text{bacterial decay}} \text{Peat} \xrightarrow{\Delta, P} \text{Lignite} \xrightarrow{\Delta, P} \text{Bituminous Coal} \xrightarrow{\Delta, P} \text{Anthracite Coal}$$
-With increasing metamorphic rank, carbon percentage increases ($<60\% \to >90\%$), volatile matter and moisture drop, and calorific value climbs from $10\text{ MJ/kg}$ to $33\text{ MJ/kg}$.
-
-#### 2. Octane vs. Cetane Engine Physics
-- **Octane Rating (Spark-Ignition / Petrol Engines)**:
-  - Petrol engines compress a premixed air-fuel vapor. If the fuel detonates prematurely before the timed spark occurs, knocking occurs.
-  - Straight-chain alkanes (like n-heptane, $CH_3-(CH_2)_5-CH_3$) form free radicals easily and knock severely (Octane rating = 0).
-  - Highly branched alkanes (like iso-octane / 2,2,4-trimethylpentane) and aromatics resist pre-ignition (Octane rating = 100).
-- **Cetane Rating (Compression-Ignition / Diesel Engines)**:
-  - Diesel engines compress air alone to high pressures ($30–40\text{ bar}$), raising its temperature to $\approx 600^\circ\text{C}$. Diesel fuel is then sprayed directly into the hot air and must auto-ignite spontaneously with minimal delay.
-  - Straight-chain alkanes (like cetane / n-hexadecane, $C_{16}H_{34}$) auto-ignite rapidly (Cetane rating = 100).
-  - Highly branched hydrocarbons take too long to auto-ignite, resulting in diesel knocking.
-
----
-
-### 6.5 Biofuels, Ethanol Blending & Clean Energy Transitions
-
-#### 1. The National Biofuel Policy & E20 Integration
-- Under India's updated National Policy on Biofuels, the target for **$20\%$ ethanol blending in petrol (E20)** was achieved ahead of schedule by 2025–2026.
-- **Technical Mechanism**:
-  - Ethanol ($CH_3CH_2OH$) has a high blending octane rating ($\approx 108–110$), boosting the octane number of standard motor gasoline without toxic metallic additives.
-  - As an oxygenated fuel ($34.7\%\text{ oxygen}$), ethanol promotes complete hydrocarbon combustion in engine cylinders, reducing tailpipe emissions of unburnt hydrocarbons and carbon monoxide ($CO$).
-- **2G Ethanol Production**: Lignocellulosic agricultural residues (paddy straw, wheat straw) are pretreated with enzymes to break down cellulose and hemicellulose into fermentable pentose and hexose sugars, which are fermented into fuel-grade anhydrous ethanol ($99.5\%$ purity).
-
-#### 2. Biodiesel from Non-Edible Seeds (Jatropha & Karanja)
-- Inedible seed oils from *Jatropha curcas* and *Pongamia pinnata* contain high molecular weight triglycerides that cannot be burned directly in diesel engines due to high viscosity ($10\times$ diesel) and carbon deposition.
-- **Transesterification Process**:
-  $$\text{Triglyceride} + 3 CH_3OH\text{ (Methanol)} \xrightarrow{NaOH / KOH} 3\text{ FAME (Biodiesel)} + \underset{\text{Byproduct}}{\text{Glycerol}}$$
-  The resulting Fatty Acid Methyl Esters (FAME) have physical viscosity, cetane rating, and combustion properties nearly identical to petroleum diesel.
-
----
-
----
-
-## Bilingual Terminology -- Gases, Fuels and Energy Chemistry
-
-| English Term | Hindi Term | Key Anchor |
+| Landmark Year | Scientist / Chemist | Landmark Gas Law / Energy Breakthrough |
 |---|---|---|
-| **Combustion** (दहन) | दहन | Chemical reaction of fuel with O2 producing heat and light |
-| **Fuel** (ईंधन) | ईंधन | Substance that releases energy by combustion |
-| **Calorific Value** (ऊष्मीय मान) | ऊष्मीय मान | Energy released per kg of fuel on complete combustion; kJ/kg |
-| **LPG** (द्रवित पेट्रोलियम गैस) | द्रवीभूत पेट्रोलियम गैस | Liquefied Petroleum Gas; propane + butane; ethyl mercaptan (smell) |
-| **CNG** (संपीडित प्राकृतिक गैस) | संपीडित प्राकृतिक गैस | Compressed Natural Gas; mainly methane; cleaner fuel |
-| **Coal** (कोयला) | कोयला | Fossil fuel; types by carbon content: Peat < Lignite < Bituminous < Anthracite |
-| **Petroleum** (पेट्रोलियम) | पेट्रोलियम | Crude oil; mixture of hydrocarbons; refined by fractional distillation |
-| **Producer Gas** (प्रोड्यूसर गैस) | प्रोड्यूसर गैस | CO + N2; made by passing air over hot coke; fuel gas |
-| **Water Gas** (जल गैस) | जल गैस | CO + H2; made by passing steam over hot coke; synthesis gas |
-| **Biogas** (बायोगैस) | बायोगैस | CH4 (55-75%) + CO2; from anaerobic decomposition; clean fuel |
-| **Octane Number** (ऑक्टेन संख्या) | ऑक्टेन संख्या | Measures anti-knock quality of petrol; higher = better; isooctane = 100 |
-| **Photosynthesis** (प्रकाश संश्लेषण) | प्रकाश-संश्लेषण | CO2 + H2O + light energy -> glucose + O2; solar energy storage |
-| **Ozone** (ओजोन) | ओजोन | O3; protects Earth from UV; ozone layer at 15-35 km altitude |
-| **Greenhouse Gas** (ग्रीनहाउस गैस) | हरित गृह गैस | CO2, CH4, N2O, CFCs; traps heat; causes global warming |
-| **Renewable Energy** (नवीकरणीय ऊर्जा) | नवीकरणीय ऊर्जा | Solar, wind, hydro, geothermal, tidal; replenishable |
-| **Non-renewable Energy** (अनवीकरणीय ऊर्जा) | अनवीकरणीय ऊर्जा | Fossil fuels, nuclear; finite reserves |
+| **1662** | Robert Boyle | Discovered that volume of a fixed mass of gas is **inversely proportional to pressure** at constant temperature ($PV = \text{const}$). |
+| **1776** | Alessandro Volta | Discovered **Methane ($CH_4$)** bubbling up from Lake Maggiore marshes; demonstrated flammability. |
+| **1787** | Jacques Charles | Discovered that gas volume is **directly proportional to absolute temperature** ($V/T = \text{const}$) at constant pressure. |
+| **1801** | John Dalton | Established that total pressure of a non-reactive gas mixture equals the **sum of individual partial pressures**. |
+| **1834** | Thomas Graham | Established that rate of gas diffusion is **inversely proportional to square root of molar mass** ($r \propto 1/\sqrt{M}$). |
+| **2023** | Global Biofuels Alliance | Launched during New Delhi G20 Summit to accelerate adoption of **sustainable biofuels, 2G ethanol, and CBG**. |
+
+## 📊 Quick Reference Grid
+
+### 1. Major Industrial & Domestic Fuel Gases Comparison
+
+| Fuel Gas Name | Primary Chemical Constituents & Percentages | Odorant / Safety Additive | Calorific Value Range | Landmark Domestic & Industrial Applications |
+|---|---|---|---|---|
+| **LPG (Liquefied Petroleum Gas)**| **Butane ($C_4H_{10}, \approx 60\%$) + Propane ($C_3H_8, \approx 40\%$)**| **Ethyl Mercaptan ($C_2H_5SH$)** added for foul leak warning | **$\approx 50\text{ kJ/g}$ ($11,900\text{ kcal/kg}$)**| Domestic cooking gas cylinders, commercial heating, autogas |
+| **CNG (Compressed Natural Gas)**| **Methane ($CH_4, 85–95\%$)** + minor ethane/propane | Odorized with mercaptans; compressed to $200–250\text{ bar}$| **$\approx 50–55\text{ kJ/g}$** | Clean automotive transport fuel; low particulate and carbon emission |
+| **PNG (Piped Natural Gas)**| **Methane ($CH_4, >90\%$)** | Distributed via low-pressure city gas distribution networks| **$\approx 38\text{ MJ/m}^3$** | Piped residential cooking and commercial thermal supply |
+| **Biogas / Gobar Gas** | **Methane ($CH_4, 55–70\%$) + Carbon Dioxide ($CO_2, 30–45\%$)**| Natural rotten odor from trace $H_2S$ | **$\approx 20–25\text{ MJ/m}^3$** | Produced by anaerobic digestion of cattle dung by **methanogens**; residue used as organic manure |
+| **Water Gas (Synthesis Gas)**| **Carbon Monoxide ($CO, \approx 50\%$) + Hydrogen ($H_2, \approx 50\%$)**| Highly toxic (invisible, odorless $CO$) | **$\approx 13\text{ MJ/m}^3$ ($2800\text{ kcal/m}^3$)**| Produced by passing steam over white-hot coke ($C + H_2O \to CO + H_2$); industrial fuel & methanol synthesis |
+| **Producer Gas** | **Carbon Monoxide ($CO, \approx 30\%$) + Nitrogen ($N_2, \approx 60\%$)**| Toxic; high nitrogen dilution | **$\approx 4–5\text{ MJ/m}^3$ (Lowest calorific value!)**| Produced by blowing air over red-hot coke ($2C + O_2 + 4N_2 \to 2CO + 4N_2$); glass and steel furnaces |
+| **Coal Gas** | **Hydrogen ($H_2, 50\%$) + Methane ($CH_4, 35\%$) + $CO$ ($8\%$)**| Distinct coal tar odor | **$\approx 20\text{ MJ/m}^3$** | Destructive distillation of bituminous coal; historic town illumination |
 
 ---
 
-## Complete PYQ Bank — State PCS (69 Questions)
+### 2. Calorific Values of Common Fuels Matrix
 
-### UPPCS & UP RO/ARO Prelims/Mains (34 Questions)
+| Fuel | State of Matter | Calorific Value ($\text{kJ/g}$) | Calorific Value ($\text{kcal/kg}$) | Pollution & Environmental Impact |
+|---|---|---|---|---|
+| **Hydrogen Gas ($H_2$)** | Gas | **$150\text{ kJ/g}$ (HIGHEST OF ALL FUELS!)**| **$35,000\text{ kcal/kg}$** | **Zero pollution** (combustion yields only water $H_2O$); "Fuel of the Future" |
+| **Methane ($CH_4$)** | Gas | **$55\text{ kJ/g}$** | $13,100\text{ kcal/kg}$ | Very clean burning; low carbon dioxide per joule |
+| **LPG** | Liquefied gas | **$50\text{ kJ/g}$** | $11,900\text{ kcal/kg}$ | High efficiency, low ash, widely accessible |
+| **Petrol (Gasoline)** | Liquid | **$45\text{ kJ/g}$** | $10,800\text{ kcal/kg}$ | High energy density; releases $CO, NO_x$, hydrocarbons |
+| **Diesel** | Liquid | **$45\text{ kJ/g}$** | $10,700\text{ kcal/kg}$ | Higher particulate matter ($PM_{2.5}$) and $NO_x$ than petrol |
+| **Kerosene** | Liquid | **$45\text{ kJ/g}$** | $10,700\text{ kcal/kg}$ | Traditional domestic illumination and stove cooking fuel |
+| **Anthracite Coal** | Solid | **$30–33\text{ kJ/g}$** | $7,500–8,000\text{ kcal/kg}$ | Highest grade coal ($>85\%$ carbon); low smoke, burns with blue flame |
+| **Bituminous Coal** | Solid | **$25–30\text{ kJ/g}$** | $6,000–7,000\text{ kcal/kg}$ | Most abundant commercial coal in India; used in thermal power plants |
+| **Wood** | Solid | **$17–20\text{ kJ/g}$** | $4,000–4,800\text{ kcal/kg}$ | High smoke, unburned carbon particulates, causes deforestation |
+| **Cow Dung Cakes** | Solid | **$6–8\text{ kJ/g}$ (LOWEST)** | $1,500–2,000\text{ kcal/kg}$ | Inefficient combustion, severe indoor air pollution, wastes organic manure |
 
-#### Q3 • [Alcohol Q3] [U.P.P.C.S. (Mains) 2015]
-Which one of the following is also known as 'wood
+---
 
-spirit'?
+### 3. Major Greenhouse Gases & Global Warming Potential (GWP)
 
-(a) Methyl alcohol (b) Ethyl alcohol
+| Greenhouse Gas | Chemical Formula | Atmospheric Lifetime | Global Warming Potential (GWP, 100-yr)| Primary Anthropogenic Sources |
+|---|---|---|---|---|
+| **Carbon Dioxide** | **$CO_2$** | Variable ($100–300\text{ yrs}$) | **$1$ (Baseline standard)** | Fossil fuel combustion, cement manufacturing, deforestation |
+| **Methane** | **$CH_4$** | **$12\text{ years}$** | **$28–30\times$** | Paddy fields, ruminant enteric fermentation, landfills, gas leaks |
+| **Nitrous Oxide** | **$N_2O$** | **$114\text{ years}$** | **$\approx 273\times$** | Chemical nitrogenous fertilizers, nylon manufacturing, biomass burning |
+| **Sulfur Hexafluoride**| **$SF_6$** | **$3,200\text{ years}$** | **$23,500\times$ (HIGHEST GWP!)**| High-voltage electrical switchgear insulation, semiconductor etching |
+| **Water Vapor** | **$H_2O$** | Days (hydrological cycle) | N/A | **Largest natural contributor to greenhouse warming ($\approx 60\%$)** |
 
-(c) Ethylene glycol (d) Glycerol
+## ⚡ Confused Pairs & Common Examiner Traps
 
-<details>
-<summary>Show answer</summary>
+| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
+|---|---|---|---|
+| **LPG Gas Odor** | **LPG Natural Scent Trap** | Pure liquefied petroleum gas (Butane + Propane) is **completely ODORLESS**. The pungent rotten-cabbage smell is due to **ETHYL MERCAPTAN ($C_2H_5SH$)**, added intentionally for leak detection. | एलपीजी गंधहीन होती है; रिसाव का पता लगाने हेतु इसमें एथिल मरकैप्टेन मिलाया जाता है |
+| **LPG Main Component** | **CNG Main Component** | **LPG is predominantly BUTANE ($C_4H_{10}$) and Propane**. **CNG is predominantly METHANE ($CH_4, >85\%$)**. Confusing LPG with CNG is one of the most common Prelims slips! | एलपीजी का मुख्य घटक = ब्यूटेन ($C_4H_{10}$); सीएनजी का मुख्य घटक = मीथेन ($CH_4$) |
+| **Water Gas** | **Producer Gas** | **Water Gas is Carbon Monoxide + HYDROGEN ($CO + H_2$)**. **Producer Gas is Carbon Monoxide + NITROGEN ($CO + N_2$)**. Water gas has much higher calorific value. | वाटर गैस (जल गैस) = $CO + H_2$; प्रोड्यूसर गैस = $CO + N_2$ |
+| **Highest Calorific Fuel** | **Petrol vs Hydrogen** | **HYDROGEN ($H_2$) has the HIGHEST calorific value of all fuels ($150\text{ kJ/g}$)**, over $3\times$ higher than petrol ($45\text{ kJ/g}$). | सभी ईंधनों में सर्वाधिक ऊष्मीय मान = हाइड्रोजन ($150\text{ kJ/g}$) |
+| **Carbon Monoxide Toxicity** | **Carbon Dioxide Toxicity** | Carbon Monoxide ($CO$) binds to blood hemoglobin with **$250–300\times$ greater affinity than oxygen**, forming stable **Carboxyhemoglobin** which causes fatal chemical asphyxiation. | कार्बन मोनोऑक्साइड हीमोग्लोबिन से ऑक्सीजन की तुलना में 300 गुना तीव्रता से जुड़ती है |
+| **Coal Grades Hierarchy** | **Carbon Content Order** | The four coal ranks in descending carbon content and calorific value are strictly: **Anthracite ($>85\%$) > Bituminous ($70–85\%$) > Lignite ($60–70\%$) > Peat ($<60\%$)**. | कोयले की सर्वोत्तम किस्म = एन्थ्रेसाइट; निकृष्टम = पीट (Peat) |
+| **Biogas Fermentation** | **Aerobic vs Anaerobic** | Biogas generation is strictly an **ANAEROBIC digestion process** carried out by methanogenic bacteria (*Methanobacterium*) in the complete absence of molecular oxygen. | गोबर गैस संयंत्र में मीथेन का निर्माण अवायवीय (Anaerobic) परिस्थितियों में होता है |
+| **Marsh Gas Identity** | **Chemical Name** | **Marsh Gas is METHANE ($CH_4$)**, so named because it bubbles up naturally from stagnant organic marshes and wetland swamps. It is also the damp gas causing coal mine explosions. | मार्श गैस (Marsh Gas) = मीथेन ($CH_4$) |
+| **Hydrogen Bomb Fuel** | **Uranium Bomb Fuel** | An atomic bomb uses fissile **Uranium-235 or Plutonium-239**. A hydrogen bomb uses **Deuterium and Tritium (Hydrogen isotopes)** to undergo thermonuclear fusion triggered by a fission core. | हाइड्रोजन बम में संलयन ईंधन के रूप में ड्यूटीरियम व ट्रिटियम प्रयुक्त होते हैं |
+| **Natural Gas Transportation** | **State of Matter in Pipeline**| In pipelines, natural gas is transported as pressurized **gas (PNG)**. For ocean tanker transport across continents, it is liquefied at $-162^\circ\text{C}$ into **LNG (Liquefied Natural Gas)** reducing volume by $600\times$. | एलएनजी (LNG) द्रवीभूत प्राकृतिक गैस है जिसे $-162^\circ\text{C}$ पर द्रवीकृत किया जाता है |
 
-**Logic:** Methyl alcohol (CH3 OH) is also called wood spirit.
+## 🧠 Memory Anchors & Mnemonics
 
-**Ans: A.** Methyl alcohol
-</details>
+### 1. Domestic Fuel Compositions:
+- **LPG**: **B-P** (Butane + Propane) + **Ethyl Mercaptan** odorant.
+- **CNG / PNG**: **Methane** ($CH_4, >85\%$).
+- **Biogas / Gobar Gas**: **Methane** ($CH_4, \approx 65\%$) + $CO_2$.
 
-**Q2.** Ans: A.** 1 and 3 (b) 3 and 4
-</details>
+### 2. Industrial Gas Twins:
+- **Water Gas**: Has Hydrogen from water $\to$ $\mathbf{CO + H_2}$.
+- **Producer Gas**: Made with air (contains Nitrogen) $\to$ $\mathbf{CO + N_2}$.
 
-#### Q34 • [Fuel Chemistry Q26] [U.P.P.S.C. (GIC) 2010 / M.P.P.C.S. (Pre) 1999]
-The main component of Gobar Gas is –
+### 3. Coal Quality Ladder: **A-B-L-P**
+> **"A Best Low Peat"**
+- **A**nthracite ($>85\%$ Carbon, Highest calorific value, Blue flame).
+- **B**ituminous ($70–85\%$, Most common in Indian industry).
+- **L**ignite ($60–70\%$, Brown coal, Neyveli Tamil Nadu).
+- **P**eat ($<60\%$, Immature early stage, High moisture & smoke).
 
-(a) Methane (b) Ethane
+## 🎯 High-Yield PYQ Drill
 
-(c) Propane (d) Chlorine
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-<details>
-<summary>Show answer</summary>
+**Q1.**
 
-**Logic:** Same teaching key as the linked stem above; answer is Methane.
-
-**Ans: A.** Methane (b) Ethane
-</details>
-
-**Q3.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Calorific Value is the total quantity of heat liberated by the complete combustion of a unit mass ($1\text{ kg}$) or unit volume ($1\text{ m}^3$) of a fuel, expressed in $\text{kJ/kg}$ or $\text{kcal/kg}$.
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Calorific Value** is the total quantity of heat liberated by the complete combustion of a unit mass ($1\text{ kg}$) or unit volume ($1\text{ m}^3$) of a fuel, expressed in **$\text{kJ/kg}$** or $\text{kcal/kg}$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q4.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Hydrogen applies only to union territories and not state jurisdictions.
-B. Hydrogen ($H2$) has the highest calorific value of all known fuels ($150,000\text{ kJ/kg}$), roughly $3$ times higher than petrol or diesel.
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Hydrogen ($H_2$)** has the **highest calorific value of all known fuels ($150,000\text{ kJ/kg}$)**, roughly $3$ times higher than petrol or diesel.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q5.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Master applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Master Hierarchy of Calorific Values ($\text{kJ/kg}$):
-D. Enacted under Article 356 of the Constitution of India
+What is the primary constituent gas of Liquefied Petroleum Gas (LPG)?
+(a) Methane  
+(b) Butane  
+(c) Ethylene  
+(d) Acetylene  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** Standard key matches Butane.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Master Hierarchy of Calorific Values ($\text{kJ/kg}$)**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Butane
 </details>
 
-**Q6.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q2.**
 
-A. Recognized by UNESCO under World Heritage natural criteria
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. LPG (Liquefied Petroleum Gas):
+Which compound is added to commercial LPG to provide a pungent odor for leak detection?
+(a) Methyl alcohol  
+(b) Ethyl mercaptan ($C_2H_5SH$)  
+(c) Acetone  
+(d) Hydrogen sulphide  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** Ethyl mercaptan (ethanethiol) is an organosulfur compound added to odorless LPG as a leak warning agent.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **LPG (Liquefied Petroleum Gas)**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Ethyl mercaptan ($C2H5SH$)
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q3.**
 
-A. Ethyl Mercaptan (Ethanethiol, $C2H5SH$): Natural alkane gases (butane, propane, methane) are completely colorless and odorless. To detect accidental leaks instantly and prevent catastrophic household explosions, a minute concentration of foul, pungent Ethyl Mercaptan (resembling the odor of rotten cabbages or sulfur) is deliberately blended into commercial LPG cylinders.
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
+What is the primary constituent of Compressed Natural Gas (CNG)?
+(a) Methane ($CH_4$)  
+(b) Butane ($C_4H_{10}$)  
+(c) Propane ($C_3H_8$)  
+(d) Hydrogen ($H_2$)  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** CNG is compressed natural gas composed of $>85\%$ methane.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Ethyl Mercaptan (Ethanethiol, $C_2H_5SH$)**: Natural alkane gases (butane, propane, methane) are completely colorless and odorless. To detect accidental leaks instantly and prevent catastrophic household explosions, a minute concentration of foul, pungent **Ethyl Mercaptan** (resembling the odor of rotten cabbages or sulfur) is deliberately blended into commercial LPG cylinders.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: A.** Methane ($CH4$)
 </details>
 
-**Q8.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q4.**
 
-A. Contrary to standard doctrine, Natural applies only to union territories and not state jurisdictions.
-B. Natural Gas: Naturally occurring gaseous fossil fuel extracted from underground geological reservoirs (often associated with crude petroleum deposits). Composed predominantly of Methane ($CH4$, $85–95\%$), with minor fractions of ethane ($C2H6$), propane, butane, and traces of nitrogen and $CO2$.
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
+Which fuel possesses the highest calorific value per unit mass?
+(a) Methane  
+(b) Petrol  
+(c) Hydrogen  
+(d) LPG  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Logic:** Hydrogen has a calorific value of $150,000\text{ kJ/kg}$, roughly three times that of petrol ($45,000\text{ kJ/kg}$) or methane ($55,000\text{ kJ/kg}$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Natural Gas**: Naturally occurring gaseous fossil fuel extracted from underground geological reservoirs (often associated with crude petroleum deposits). Composed predominantly of **Methane ($CH_4$, $85–95\%$)**, with minor fractions of ethane ($C_2H_6$), propane, butane, and traces of nitrogen and $CO_2$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: C.** Hydrogen
 </details>
 
-**Q9.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q5.**
 
-A. Amended by the 44th Constitutional Amendment Act
-B. Excavated primarily in the Belan and Son River valleys
-C. CNG (Compressed Natural Gas):
-D. Classified under Schedule VII List II (State List)
+What is the composition of "Water Gas"?
+(a) $CO + N_2$  
+(b) $CO + H_2$  
+(c) $CO_2 + H_2$  
+(d) $CH_4 + H_2$  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** Water gas (syngas) is an equimolar mixture of carbon monoxide and hydrogen ($CO + H2$) formed by steam passing over red-hot coke.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **CNG (Compressed Natural Gas)**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** $CO + H2$
 </details>
 
-**Q10.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q6.**
 
-A. Excavated primarily in the Belan and Son River valleys
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. LNG (Liquefied Natural Gas):
+Producer gas consists primarily of:
+(a) $CO + H_2$  
+(b) $CO + N_2$  
+(c) $CO_2 + N_2$  
+(d) $CH_4 + N_2$  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** Producer gas is produced by passing air over red-hot coke, yielding carbon monoxide ($\approx 30\%$) and nitrogen ($\approx 60\%$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **LNG (Liquefied Natural Gas)**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** $CO + N2$
 </details>
 
-**Q11.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q7.**
 
-A. Biogas (Gobar Gas):
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
+Which of the following is the highest quality rank of coal with over $90\%$ carbon?
+(a) Lignite  
+(b) Peat  
+(c) Bituminous  
+(d) Anthracite  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** Anthracite contains $>90–95\%$ carbon, burns with minimal smoke, and has the highest calorific value of all coal types.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Biogas (Gobar Gas)**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: D.** Anthracite
 </details>
 
-**Q12.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q8.**
 
-A. Contrary to standard doctrine, Water applies only to union territories and not state jurisdictions.
-B. Water Gas (Synthesis Gas / Syngas):
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
+In which Indian state is the major lignite deposit at Neyveli located?
+(a) Jharkhand  
+(b) Tamil Nadu  
+(c) Odisha  
+(d) Madhya Pradesh  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Logic:** Neyveli is located in Cuddalore district of Tamil Nadu.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Water Gas (Synthesis Gas / Syngas)**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Tamil Nadu
 </details>
 
-**Q13.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q9.**
 
-A. Contrary to standard doctrine, Coal applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Coal Classification & Ranks (by increasing geological age, carbon content, and calorific value):
-D. It was established during the First Five-Year Plan period
+Octane number is used to rate the anti-knock quality of:
+(a) Diesel  
+(b) Petrol (Gasoline)  
+(c) Kerosene  
+(d) Coal gas  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** Octane number measures anti-knock performance of petrol in spark-ignition engines.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Coal Classification & Ranks** (by increasing geological age, carbon content, and calorific value):
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Petrol (Gasoline)
 </details>
 
-**Q14.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q10.**
 
-A. Contrary to standard doctrine, Peat: applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Peat: Earliest geological stage of coal formation; brown fibrous mass containing $<60\%$ Carbon, high moisture ($>70\%$), burns with heavy smoke and low calorific value ($10,000–15,000\text{ kJ/kg}$).
+Cetane number evaluates the ignition quality of which automotive fuel?
+(a) Aviation turbine fuel  
+(b) Diesel  
+(c) Compressed natural gas  
+(d) Liquefied petroleum gas  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** Standard key matches Diesel.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Peat**: Earliest geological stage of coal formation; brown fibrous mass containing **$<60\%$ Carbon**, high moisture ($>70\%$), burns with heavy smoke and low calorific value ($10,000–15,000\text{ kJ/kg}$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Diesel
 </details>
 
-**Q15.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q11.**
 
-A. Lignite ("Brown Coal"): Soft, crumbly coal containing $60–70\%$ Carbon and high residual moisture; lowest commercial rank of coal. In India, massive deposits are mined at Neyveli (Tamil Nadu) for thermal power generation.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. None of the above statements are correct according to official Commission keys.
-D. Enacted under Article 356 of the Constitution of India
+What gas is generated by the anaerobic decomposition of cow dung in Gobar gas plants?
+(a) Butane  
+(b) Methane  
+(c) Acetylene  
+(d) Carbon monoxide  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** Standard key matches Methane.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Lignite ("Brown Coal")**: Soft, crumbly coal containing **$60–70\%$ Carbon** and high residual moisture; lowest commercial rank of coal. In India, massive deposits are mined at **Neyveli (Tamil Nadu)** for thermal power generation.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Methane
 </details>
+
+---
+
+**Q12.**
+
+What is the temperature of the coldest, innermost zone of a candle flame?
+(a) Hottest zone of the flame  
+(b) Lowest temperature zone of the flame  
+(c) Over $2000^\circ\text{C}$  
+(d) Same as the blue zone  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The innermost dark zone contains unburnt wax vapors and lacks oxygen, making it the coolest region of the candle flame.
+
+**Ans: B.** Lowest temperature zone of the flame
+</details>
+
+---
+
+**Q13.**
+
+Why is carbon monoxide classified as a toxic asphyxiant?
+(a) It destroys lung alveoli mechanically  
+(b) It binds to hemoglobin $\approx 200\times$ more strongly than oxygen, forming carboxyhemoglobin  
+(c) It turns blood into nitric acid  
+(d) It causes rapid blood clotting  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Carbon monoxide has a high affinity for hemoglobin, forming carboxyhemoglobin and preventing normal oxygen delivery to body tissues.
+
+**Ans: B.** It binds to hemoglobin $\approx 200\times$ more strongly than oxygen, forming carboxyhemoglobin
+</details>
+
+---
+
+**Q14.**
+
+In a fire extinguisher, carbon dioxide extinguishes electrical fires primarily by:
+(a) Conducting electrical current safely to ground  
+(b) Displacing oxygen and blanketing the fuel with a dense, non-combustible gas  
+(c) Reacting with burning copper to form carbonate  
+(d) Generating water droplets  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $CO2$ is heavier than air; it blankets the fire, cutting off atmospheric oxygen supply, while expansion cools the fuel.
+
+**Ans: B.** Displacing oxygen and blanketing the fuel with a dense, non-combustible gas
+</details>
+
+---
+
+**Q15.**
+
+According to Charles's Law, if the absolute temperature of a gas is doubled at constant pressure, its volume will:
+(a) Halve  
+(b) Double  
+(c) Quadruple  
+(d) Remain unchanged  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Double.
+
+**Ans: B.** Double
+</details>
+
+---

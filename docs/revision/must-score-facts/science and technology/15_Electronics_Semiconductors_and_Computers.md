@@ -7,123 +7,17 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🔬 Science & Technology &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 7 — Electronics, Semiconductors and Computer Technology</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year / Ref | Key Fact & Discovery | Exam Relevance & Significance |
+|---|---|---|
+| **Paris AI Summit 2025** | **AI Action Summit, Paris (10–11 Feb 2025)**: Co-chaired by PM Narendra Modi and President Emmanuel Macron at Grand Palais. | Addressed global AI governance, sovereign compute, ethical generative AI models, and green energy for AI data centers. |
+| **India Semiconductor Mission**| **Commercial Semiconductor Fabs Construction**: Tata-PSMC commercial fab at Dholera (Gujarat), Micron ATMP at Sanand, Renesas in Assam. | Catalyzes domestic chip fabrication (down to $28	ext{ nm}$ nodes) under the ₹76,000 crore ISM policy framework. |
+| **Top500 Supercomputers** | **AIRAWAT AI Supercomputer**: Installed at C-DAC Pune; ranked among global Top 100 energy-efficient AI supercomputing facilities. | India's premier AI compute platform ($13,170	ext{ teraflops}$); joins PARAM Siddhi-AI, Pratyush, and Mihir in national infrastructure. |
+| **National Quantum Mission** | **NQM Quantum Processors**: Approved ₹6,003 crore mission to develop 50–1000 physical qubit quantum computers by 2031. | Targets superconducting quantum circuits, trapped-ion quantum processors, and quantum key distribution (QKD) over $2000	ext{ km}$. |
 
 ## 🎯 Consolidated Must-Score Facts
-
-1. **AI Action Summit, Paris (February 2025 - IAS Pre 2025 / 71st BPSC Fact):**
-2. **Common Trap Fact:** The **USA and the UK DID NOT sign** this declaration!
-3. **Quantum Computing Processors: Majorana 1 & Ocelot (IAS Pre 2025 Fact):**
-4. **Majorana 1:** Unveiled by **Microsoft** on 19 February 2025, utilizing topological qubits aimed at achieving a million-qubit scale.
-5. **Ocelot:** Quantum processor developed by **Amazon Web Services (AWS)**.
-6. **National Supercomputing Mission (NSM) Milestones (November 2025 Status):**
-7. **Fastest Supercomputer Installed in India:** **PowerEdge XE 9680** (installed at Shakti Cloud, Yotta Data Services, Mumbai; ranked 28th globally; $R_{\max} = 84.31\text{ Petaflops}$, manufactured by Dell, USA).
-8. **Fastest Indigenous Supercomputer Developed in India:** **AIRAWAT-PSAI** (installed at C-DAC Pune; ranked 188th globally; $R_{\max} = 8.50\text{ Petaflops}$, $R_{\text{peak}} = 13.17\text{ Petaflops}$).
-9. **World's Top 3 Supercomputers (Nov 2025):** 1. **El Capitan (USA)** ($1.809\text{ Exaflops}$), 2. **Frontier (USA)**, 3. **Aurora (USA)**.
-10. **PARAM Series Deployment in India:**
-11. **PARAM 8000:** India's first indigenous supercomputer, built by C-DAC Pune in 1991 under **Dr. Vijay Bhatkar** ("Father of Indian Supercomputers").
-12. **PARAM Kamrupa:** IIT-Guwahati (inaugurated by President Droupadi Murmu, Oct 2022; $838\text{ TFLOPS}$).
-13. **PARAM Shivay:** IIT-BHU (first installed under NSM).
-14. **PARAM Shakti:** IIT-Kharagpur.
-15. **PARAM Pravega:** IISc Bengaluru ($3.3\text{ Petaflops}$).
-16. **PARAM Ganga:** IIT-Roorkee.
-17. **PARAM Ananta:** IIT-Gandhinagar.
-18. **PARAM Sanganak:** IIT-Kanpur.
-19. **PARAM Rudra:** High-performance systems at IUAC Delhi, IIT-Bombay, IIT-Madras, NCRA Pune, SNBNCBS Kolkata, IIT-Patna, and C-DAC Delhi.
-20. **ANUPAM Series:** Supercomputer series developed indigenously by **Bhabha Atomic Research Centre (BARC)** for internal nuclear simulations (first was Anupam 860/4 in 1991).
-21. **Historical Firsts in Indian Computing:**
-22. **HEC-2M (Hollerith Electronic Computer-2M):** India's first digital computer, imported from England (designed by A.D. Booth) and installed in **1956 at the Indian Statistical Institute (ISI) in Calcutta**.
-23. **TIFRAC (TIFR Automatic Calculator):** First digital computer built in India, commissioned in **1960 at TIFR Mumbai**.
-24. **E-Governance Initiatives (2024–2025 Focus):**
-25. **Suvidha 2.0 App:** Upgraded mobile application launched by the **Election Commission of India (ECI)** in October 2024 as a one-stop portal for candidates and political parties to track nominations, schedules, and campaign permissions.
-26. **Gartner's 4-Phase Evolution Model of E-Governance (MPPSC Pre 2025 Fact):**
-27. **Four Pillars of E-Governance:** **People, Process, Technology, Resources** (MPPSC Pre 2024).
-28. **Generative AI & Enterprise Breakthroughs:**
-29. **ChatGPT:** Developed by OpenAI, launched on **November 30, 2022**, based on the Generative Pre-trained Transformer Large Language Model architecture.
-30. **Maharaja:** World's first airline Generative AI virtual agent deployed by **Air India** (2023), powered by Microsoft's Azure OpenAI service, handling over 1,300 customer query domains.
-31. **FPGA (Field Programmable Gate Array):** Reconfigurable semiconductor ICs widely deployed for hardware acceleration in AI inference and edge computing (MPPSC Pre 2025).
-32. **Bit (Binary Digit)** is the smallest unit of digital data ($0$ or $1$); a **Byte** comprises **$8\text{ bits}$**, and a **Nibble** comprises **$4\text{ bits}$**.
-33. **Charles Babbage** is celebrated as the "Father of Computing" for designing the **Analytical Engine (1834/1837)**, which pioneered the ALU, integrated memory, and flow control.
-34. **Alan Turing** formulated the theoretical foundation of modern computer science and artificial intelligence (Turing Machine, 1936; Turing Test / Imitation Game, 1949).
-35. **Primary (Internal) Memory** is semiconductor memory directly addressed by the CPU: volatile **RAM** (Random Access Memory) and non-volatile **ROM** (Read-Only Memory).
-
-
----
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
-| **Data** | **Information** | Data represents raw, unorganized, unprocessed facts and figures. Information is processed, organized, structured data endowed with contextual meaning. |
-| **Bit** | **Byte vs Nibble** | A bit is a single binary digit ($0$ or $1$). A byte is **$8\text{ bits}$**. A nibble is **$4\text{ bits}$** (half a byte). |
-| **RAM** | **ROM** | RAM is **volatile** primary memory lost on power down. ROM is **non-volatile** firmware memory retaining BIOS/UEFI instructions permanently. |
-| **SRAM** | **DRAM** | SRAM uses flip-flops, requires no refresh, is ultra-fast and expensive (used for CPU Cache). DRAM uses capacitor-transistor cells, requires continuous dynamic electrical refresh (used for Main RAM). |
-| **Virus** | **Worm vs Trojan** | A virus requires a host executable file and human action to propagate. A worm is standalone and self-propagates automatically across networks. A Trojan disguises itself as legitimate software and **does NOT self-replicate**. |
-| **White Hat Hacker** | **Black Hat Hacker (Cracker)** | White hat hacks authorized systems to expose flaws and patch security. Black hat (cracker) breaks into systems unlawfully for sabotage, data theft, or financial fraud. |
-| **Compiler** | **Assembler vs Interpreter** | Compiler translates an entire high-level program into machine code at once. Interpreter translates and executes high-level code line-by-line. Assembler converts low-level assembly mnemonics into machine code. |
-| **IPv4 ($32\text{-bit}$)** | **IPv6 ($128\text{-bit}$)** | IPv4 uses 32 bits ($4\text{ octets}$, $4.3\text{ billion}$ addresses). IPv6 uses 128 bits ($8\text{ groups of } 4\text{ hex digits}$, $3.4 \times 10^{38}$ addresses). |
-| **MAC Address** | **IP Address** | MAC address is a permanent physical hardware address ($48\text{ bits}$) at Layer 2. IP address is a logical network address assigned by router/ISP at Layer 3. |
-| **Augmented Reality (AR)** | **Virtual Reality (VR)** | AR overlays digital computer-generated elements onto the real physical world (e.g. smartphone camera, Pokémon Go). VR completely shuts out the physical world into a simulated immersive digital environment (e.g. VR headsets). |
-
-
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** AI Action Summit, Paris (February 2025 - IAS Pre 2025 / 71st BPSC Fact):**
-   - Held at the Grand Palais, Paris on 10–11 February 2025, co-chaired by **Prime Minister Narendra Modi (India)** and **President Emmanuel Macron (France)**.
-   - Built upon the Bletchley Park AI Safety Summit (UK, 2023) and the Seoul AI Summit (South Korea, 2024).
-   - Over 50 nations (including India, France, and China) signed the *Statement on Inclusive and Sustainable AI for People and the Planet*.
-   - **Common Trap Fact:** The **USA and the UK DID NOT sign** this declaration!
-
-2. **Quantum Computing Processors: Majorana 1 & Ocelot (IAS Pre 2025 Fact):**
-   - **Majorana 1:** Unveiled by **Microsoft** on 19 February 2025, utilizing topological qubits aimed at achieving a million-qubit scale.
-   - **Ocelot:** Quantum processor developed by **Amazon Web Services (AWS)**.
-   - Theoretical subset fact: **Deep Learning is a subset of Machine Learning**, which is in turn a subset of Artificial Intelligence ($\text{AI} \supset \text{ML} \supset \text{DL}$).
-
-3. **National Supercomputing Mission (NSM) Milestones (November 2025 Status):**
-   - Launched in 2015, jointly steered by **Department of Science and Technology (DST)** and **Ministry of Electronics and Information Technology (MeitY)**; implemented by **C-DAC (Pune)** and **IISc (Bengaluru)**.
-   - Deployed **37 supercomputers** with a cumulative capacity of **$39\text{ Petaflops}$**, connected over the **National Knowledge Network (NKN)** with an overall utilization rate exceeding $85\%$. Five training centres established at Pune, Kharagpur, Chennai, Palakkad, and Goa.
-   - **Fastest Supercomputer Installed in India:** **PowerEdge XE 9680** (installed at Shakti Cloud, Yotta Data Services, Mumbai; ranked 28th globally; $R_{\max} = 84.31\text{ Petaflops}$, manufactured by Dell, USA).
-   - **Fastest Indigenous Supercomputer Developed in India:** **AIRAWAT-PSAI** (installed at C-DAC Pune; ranked 188th globally; $R_{\max} = 8.50\text{ Petaflops}$, $R_{\text{peak}} = 13.17\text{ Petaflops}$).
-   - **World's Top 3 Supercomputers (Nov 2025):** 1. **El Capitan (USA)** ($1.809\text{ Exaflops}$), 2. **Frontier (USA)**, 3. **Aurora (USA)**.
-
-4. **PARAM Series Deployment in India:**
-   - **PARAM 8000:** India's first indigenous supercomputer, built by C-DAC Pune in 1991 under **Dr. Vijay Bhatkar** ("Father of Indian Supercomputers").
-   - Key institutional deployments:
-     - **PARAM Kamrupa:** IIT-Guwahati (inaugurated by President Droupadi Murmu, Oct 2022; $838\text{ TFLOPS}$).
-     - **PARAM Shivay:** IIT-BHU (first installed under NSM).
-     - **PARAM Shakti:** IIT-Kharagpur.
-     - **PARAM Pravega:** IISc Bengaluru ($3.3\text{ Petaflops}$).
-     - **PARAM Ganga:** IIT-Roorkee.
-     - **PARAM Ananta:** IIT-Gandhinagar.
-     - **PARAM Sanganak:** IIT-Kanpur.
-     - **PARAM Rudra:** High-performance systems at IUAC Delhi, IIT-Bombay, IIT-Madras, NCRA Pune, SNBNCBS Kolkata, IIT-Patna, and C-DAC Delhi.
-     - **ANUPAM Series:** Supercomputer series developed indigenously by **Bhabha Atomic Research Centre (BARC)** for internal nuclear simulations (first was Anupam 860/4 in 1991).
-
-5. **Historical Firsts in Indian Computing:**
-   - **HEC-2M (Hollerith Electronic Computer-2M):** India's first digital computer, imported from England (designed by A.D. Booth) and installed in **1956 at the Indian Statistical Institute (ISI) in Calcutta**.
-   - **TIFRAC (TIFR Automatic Calculator):** First digital computer built in India, commissioned in **1960 at TIFR Mumbai**.
-
-6. **E-Governance Initiatives (2024–2025 Focus):**
-   - **Suvidha 2.0 App:** Upgraded mobile application launched by the **Election Commission of India (ECI)** in October 2024 as a one-stop portal for candidates and political parties to track nominations, schedules, and campaign permissions.
-   - **Gartner's 4-Phase Evolution Model of E-Governance (MPPSC Pre 2025 Fact):**
-     $$\mathbf{Information \to Interaction \to Transaction \to Transformation}$$
-   - **Four Pillars of E-Governance:** **People, Process, Technology, Resources** (MPPSC Pre 2024).
-
-7. **Generative AI & Enterprise Breakthroughs:**
-   - **ChatGPT:** Developed by OpenAI, launched on **November 30, 2022**, based on the Generative Pre-trained Transformer Large Language Model architecture.
-   - **Maharaja:** World's first airline Generative AI virtual agent deployed by **Air India** (2023), powered by Microsoft's Azure OpenAI service, handling over 1,300 customer query domains.
-   - **FPGA (Field Programmable Gate Array):** Reconfigurable semiconductor ICs widely deployed for hardware acceleration in AI inference and edge computing (MPPSC Pre 2025).
-
----
-
-<details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. A computer executes sequences of arithmetic or logical operations automatically; raw unorganized facts and figures are **Data**, while organized, interpreted, and meaningful processed data is **Information**.
 2. **Bit (Binary Digit)** is the smallest unit of digital data ($0$ or $1$); a **Byte** comprises **$8\text{ bits}$**, and a **Nibble** comprises **$4\text{ bits}$**.
@@ -182,169 +76,201 @@ hide:
 49. The **Turing Test**, originally proposed as the **"Imitation Game"** by Alan Turing in 1949, evaluates whether a machine can exhibit conversational behaviour indistinguishable from a human.
 50. **Blockchain** is a decentralized, distributed, cryptographically secured public ledger; under **Web 3.0**, blockchain enables user data sovereignty, decentralized finance (DeFi), and censorship-resistant social networks.
 
-</details>
+## ⏱️ Timeline / Chronology
 
-<details class="st-chapter-toggle st-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+```
+1904 ── John Ambrose Fleming invents the Vacuum Diode (Thermionic Valve)
+ │
+1947 ── Shockley, Bardeen & Brattain invent the Point-Contact Bipolar Transistor (Bell Labs)
+ │
+1958 ── Jack Kilby (Texas Instruments) & Robert Noyce invent the Integrated Circuit (IC)
+ │
+1971 ── Ted Hoff at Intel creates the world's first single-chip commercial Microprocessor (Intel 4004)
+ │
+1991 ── C-DAC creates India's first indigenous supercomputer PARAM 8000 (Dr. Vijay Bhatkar)
+ │
+2023–25 ── India Semiconductor Mission (ISM) fabrication facilities break ground across India
+```
 
-| Concept A | Concept B | Core Distinction & Common Trap |
-| :--- | :--- | :--- |
-| **Data** | **Information** | Data represents raw, unorganized, unprocessed facts and figures. Information is processed, organized, structured data endowed with contextual meaning. |
-| **Bit** | **Byte vs Nibble** | A bit is a single binary digit ($0$ or $1$). A byte is **$8\text{ bits}$**. A nibble is **$4\text{ bits}$** (half a byte). |
-| **RAM** | **ROM** | RAM is **volatile** primary memory lost on power down. ROM is **non-volatile** firmware memory retaining BIOS/UEFI instructions permanently. |
-| **SRAM** | **DRAM** | SRAM uses flip-flops, requires no refresh, is ultra-fast and expensive (used for CPU Cache). DRAM uses capacitor-transistor cells, requires continuous dynamic electrical refresh (used for Main RAM). |
-| **Virus** | **Worm vs Trojan** | A virus requires a host executable file and human action to propagate. A worm is standalone and self-propagates automatically across networks. A Trojan disguises itself as legitimate software and **does NOT self-replicate**. |
-| **White Hat Hacker** | **Black Hat Hacker (Cracker)** | White hat hacks authorized systems to expose flaws and patch security. Black hat (cracker) breaks into systems unlawfully for sabotage, data theft, or financial fraud. |
-| **Compiler** | **Assembler vs Interpreter** | Compiler translates an entire high-level program into machine code at once. Interpreter translates and executes high-level code line-by-line. Assembler converts low-level assembly mnemonics into machine code. |
-| **IPv4 ($32\text{-bit}$)** | **IPv6 ($128\text{-bit}$)** | IPv4 uses 32 bits ($4\text{ octets}$, $4.3\text{ billion}$ addresses). IPv6 uses 128 bits ($8\text{ groups of } 4\text{ hex digits}$, $3.4 \times 10^{38}$ addresses). |
-| **MAC Address** | **IP Address** | MAC address is a permanent physical hardware address ($48\text{ bits}$) at Layer 2. IP address is a logical network address assigned by router/ISP at Layer 3. |
-| **Augmented Reality (AR)** | **Virtual Reality (VR)** | AR overlays digital computer-generated elements onto the real physical world (e.g. smartphone camera, Pokémon Go). VR completely shuts out the physical world into a simulated immersive digital environment (e.g. VR headsets). |
-
-</details>
-
-## Must-Score Master Tables
-
-### Table 1: Computer Generations Summary Matrix
-
-| Generation | Era | Primary Hardware Switching Logic | Primary Memory / Storage | Programming Languages | Representative Systems |
-| :--- | :---: | :--- | :--- | :--- | :--- |
-| **I** | 1940–1956 | **Vacuum Tubes (Thermionic Valves)** | Magnetic Drums, Mercury Delay Lines | Machine Language, Binary code | ENIAC, EDVAC, EDSAC, UNIVAC-I |
-| **II** | 1956–1963 | **Discrete Transistors** | Magnetic Core Memory, Magnetic Tapes | Early High-Level: FORTRAN, COBOL | IBM 1620, IBM 7094, UNIVAC 1107 |
-| **III** | 1964–1971 | **Integrated Circuits (SSI & MSI ICs)**| Semiconductor Memory, Magnetic Disks | Operating Systems, BASIC, Pascal | IBM System/360, PDP-8 Minicomputer |
-| **IV** | 1971–Present | **Microprocessors (LSI & VLSI Chips)** | Semiconductor RAM/ROM, Hard Disks | High-Level, C, C++, SQL, GUI OS | Personal Computers (PCs), Apple Macintosh |
-| **V** | Present & Beyond | **ULSI, Parallel Processing, Quantum Chips**| Optical Storage, High-Speed SSDs, Cloud | AI Languages, Python, Java, Prolog | Supercomputers, Notebooks, AI Systems |
-
-### Table 2: Programming Language Generations
-
-| Generation | Taxonomy Category | Operational Characteristics | High-Yield Must-Score Examples |
-| :--- | :--- | :--- | :--- |
-| **1GL** | Machine Language | Directly executed by CPU; pure binary strings ($0$s and $1$s); architecture-dependent | Native machine code |
-| **2GL** | Assembly Language | Low-level symbolic code using human-readable mnemonics; translated by an Assembler | Assembly Language (x86, ARM) |
-| **3GL** | High-Level Languages | English-like procedural / object-oriented syntax; translated by Compilers or Interpreters | FORTRAN, COBOL, BASIC, C, C++, Java, Python |
-| **4GL** | Non-Procedural Languages | Declarative syntax stating "what" result is desired rather than "how" to compute it | SQL, Report Generators, QBE |
-| **5GL** | AI / Logic Programming | Constraint- and logic-based rule programming used for artificial intelligence | **Prolog, OPS5, Mercury** |
-
-### Table 3: Digital Memory Conversion Ladder
-
-| Storage Unit | Equivalent in Bits / Bytes | Exact Calculation | Common Applications |
-| :--- | :--- | :--- | :--- |
-| **Bit (b)** | $0$ or $1$ | Single binary digit | Elementary unit of data |
-| **Nibble** | $4\text{ bits}$ | Half a Byte | BCD representation |
-| **Byte (B)** | $8\text{ bits}$ | $1\text{ Byte}$ | Base memory addressing unit |
-| **Kilobyte (KB)** | $1,024\text{ Bytes}$ | $2^{10}\text{ Bytes} = 8,192\text{ bits}$ | Small text documents |
-| **Megabyte (MB)** | $1,024\text{ KB}$ | $2^{20}\text{ Bytes} = \mathbf{1,048,576\text{ Bytes}}$ | MP3 audio files ($\sim 5\text{ MB}$) |
-| **Gigabyte (GB)** | $1,024\text{ MB}$ | $2^{30}\text{ Bytes} \approx 1.07 \times 10^9\text{ Bytes}$| System RAM, High-Def movies |
-| **Terabyte (TB)** | $1,024\text{ GB}$ | $2^{40}\text{ Bytes} \approx 1.10 \times 10^{12}\text{ Bytes}$| Secondary Hard Drives (HDDs/SSDs) |
-| **Petabyte (PB)** | $1,024\text{ TB}$ | $2^{50}\text{ Bytes}$ | Enterprise Data Centres, Cloud Storage |
-| **Exabyte (EB)** | $1,024\text{ PB}$ | $2^{60}\text{ Bytes}$ | Global Internet monthly traffic |
-| **Zettabyte (ZB)** | $1,024\text{ EB}$ | $2^{70}\text{ Bytes}$ | Worldwide aggregate digital data |
-| **Yottabyte (YB)** | $1,024\text{ ZB}$ | $2^{80}\text{ Bytes}$ | Global data projections |
-
-### Table 4: OSI 7-Layer Reference Model vs TCP/IP
-
-| Layer # | OSI Layer Name | Primary Function | Data Unit | Protocols & Hardware Devices |
-| :---: | :--- | :--- | :---: | :--- |
-| **7** | **Application** | User-facing network services & interfaces | Data | HTTP, HTTPS, FTP, SMTP, DNS, Telnet |
-| **6** | **Presentation**| Data formatting, encryption, and compression | Data | SSL/TLS, JPEG, MPEG, ASCII |
-| **5** | **Session** | Establishes, manages, and terminates dialogs | Data | NetBIOS, RPC, Sockets |
-| **4** | **Transport** | End-to-end reliable data delivery & flow control | Segment | TCP (Reliable), UDP (Fast/Streaming) |
-| **3** | **Network** | Logical addressing and shortest path routing | **Packet** | **IP (IPv4, IPv6)**, ICMP; **Routers** |
-| **2** | **Data Link** | Physical frame transmission & error detection | **Frame** | **MAC Address ($48\text{-bit}$)**, Ethernet; **Switches, Bridges** |
-| **1** | **Physical** | Raw bit stream transmission over physical medium| **Bits** | Cables, Connectors, **Repeaters, Hubs** |
-
-### Table 5: India's Supercomputing Installations (NSM & Legacy)
-
-| Supercomputer | Host Institution | Computing Power | Key Applications |
-| :--- | :--- | :---: | :--- |
-| **PowerEdge XE 9680**| Shakti Cloud, Yotta Data Services, Mumbai| **$84.31\text{ Petaflops}$**| Commercial Cloud AI workloads (Fastest installed in India) |
-| **AIRAWAT-PSAI** | C-DAC, Pune | **$8.50\text{ Petaflops}$**| National AI compute platform (Fastest indigenously developed) |
-| **PARAM Pravega** | IISc, Bengaluru | $3.3\text{ Petaflops}$ | High-performance academic research simulations |
-| **PARAM Kamrupa** | IIT-Guwahati | $838\text{ TFLOPS}$ | Weather modeling, bioinformatics, high-power microwaves |
-| **PARAM Ganga** | IIT-Roorkee | $1.66\text{ Petaflops}$ | Computational fluid dynamics, civil engineering modeling |
-| **PARAM Shivay** | IIT-BHU | $833\text{ TFLOPS}$ | First supercomputer installed under NSM |
-| **Pratyush & Mihir** | IITM Pune & NCMRWF Noida | $6.8\text{ Petaflops}$ (Combined)| Monsoon forecasting, cyclone prediction, climate research |
-| **ANUPAM Series** | Bhabha Atomic Research Centre (BARC) | Multi-node parallel systems | Nuclear reactor design, molecular dynamics, atomic research |
-
----
-
-## Detailed In-Depth Core Theory
-
-### 7.1 Microcomputer Architecture & Hardware Interfaces
-1. **CPU Subsystems:**
-   - **Control Unit (CU):** The central directing supervisor; fetches instructions from memory, decodes operation codes, and generates timing and control pulses for all peripherals.
-   - **Arithmetic Logic Unit (ALU):** Carries out fundamental integer binary arithmetic (addition, subtraction) and logical decisions (AND, OR, NOT, comparison).
-2. **Motherboard & Port Architecture:**
-   - **Chipset:** Northbridge (historically connected CPU to high-speed RAM and PCIe graphics) and Southbridge (manages slower I/O peripherals, USB, SATA). Modern CPUs integrate the Northbridge directly onto the processor die.
-   - **USB (Universal Serial Bus):** Standardized peripheral interconnect providing bidirectional data and DC power ($5\text{ V}$).
-   - **Port Types:** Serial, Parallel (Centronics/LPT for legacy printers), VGA/HDMI/DisplayPort for video display, Ethernet RJ-45 for LAN.
-
-### 7.2 Memory Hierarchy, Solid State Storage & Optical Media
-1. **Volatile vs Non-Volatile Physics:**
-   - Dynamic RAM requires periodic capacitive refreshing every few milliseconds to prevent charge dissipation across gate oxides.
-   - Flash Memory (NAND) uses floating-gate transistors to trap electrons in insulated potential wells, retaining data for decades without electrical power.
-2. **Optical Disc Data Packing:**
-   - CD/DVD/Blu-ray store data as micro-indentations called **pits** separated by flat surfaces called **lands**.
-   - Reducing laser wavelength (Red $650\text{ nm} \to$ Blue-violet $405\text{ nm}$) enables the optical pickup lens to focus on vastly smaller pit tracks, boosting storage from $4.7\text{ GB}$ (DVD) to $25\text{ GB}$ (Blu-ray).
-
-### 7.3 Computer Networks, Switching & Internet Infrastructure
-1. **Packet Switching Mechanics:**
-   - Messages are fragmented into discrete data packets bearing destination and source IP addresses, sequence numbers, and error-checking checksums. Packets traverse diverse network routes independently and reassemble at the receiving host via TCP.
-2. **Network Topologies:**
-   - **Star Topology:** Central hub/switch connects all nodes; failure of a node does not disrupt the network, but central hub failure halts communication.
-   - **Bus Topology:** Single shared linear backbone cable terminated at both ends; low cost but vulnerable to cable breakages.
-   - **Ring Topology:** Unidirectional token-passing ring; failure of a single node breaks the entire loop unless a dual ring (FDDI) is used.
-   - **Tree Topology:** Hierarchical combination of bus and star topologies; structure utilized by the global Internet.
-   - **Mesh Topology:** Every node is interconnected with every other node, providing maximum redundancy and fault tolerance.
-
-### 7.4 Cyber Security Threats, Malware Taxonomy & Defenses
-1. **Malware Mechanisms:**
-   - **Viruses:** Injected into executable files (`.exe`, `.com`); activates upon execution.
-   - **Trojans:** Disguised as benign utilities to steal credentials via backdoor command-and-control channels.
-   - **Keyloggers:** Capture physical hardware keystrokes to siphon banking credentials and passwords.
-   - **E-mail Bombing:** Abusive transmission of thousands of duplicate messages to overflow mailbox quotas.
-2. **Defensive Cryptography:**
-   - **Symmetric Encryption (Blowfish, AES):** Uses identical secret key for encryption and decryption; extremely fast for bulk data.
-   - **Asymmetric Encryption (RSA, Public Key Infrastructure - PKI):** Employs a mathematically linked key pair—a public key for encryption and a private key for decryption. Forms the basis of Digital Signatures under the IT Act, 2000.
-
-### 7.5 Artificial Intelligence Paradigms, Emerging Tech & E-Governance
-1. **Machine Learning Taxonomy:**
-   - **Supervised Learning:** Trains on labeled input-output pairs to build regression or classification predictive models.
-   - **Unsupervised Learning:** Discovers hidden patterns or clusters in unlabeled data (e.g. K-means clustering).
-   - **Reinforcement Learning:** Software agents interact with an environment through trial and error, optimizing cumulative rewards.
-2. **Quantum Computing Principles:**
-   - Operates with quantum bits (**qubits**) capable of occupying coherent **superposition** states ($|\psi\rangle = \alpha |0\rangle + \beta |1\rangle$), performing massively parallel calculations that solve intractable mathematical problems in polynomial time.
-3. **E-Governance Models:**
-   - **Gartner's 4-Phase Evolution:** 1. Presence (Information) $\to$ 2. Interaction (Intake) $\to$ 3. Transaction (Digital payments) $\to$ 4. Transformation (Unified smart delivery).
-   - **Aadhaar Platform:** 12-digit unique ID using open APIs for biometric iris and fingerprint authentication; legally confirmed as proof of identity only (not citizenship or domicile).
-
----
-
-## Bilingual Terminology -- Electronics, Semiconductors and Computers
-
-| English Term | Hindi Term | Key Anchor |
+| Landmark Year | Scientist / Institution | Technological Breakthrough & Prelims Milestone |
 |---|---|---|
-| **Semiconductor** (अर्धचालक) | अर्धचालक | Conductivity between conductor and insulator; Si, Ge |
-| **Diode** (डायोड) | डायोड | Two-terminal device; allows current in one direction only (rectification) |
-| **Transistor** (ट्रांजिस्टर) | ट्रांजिस्टर | Three-terminal device; amplification and switching |
-| **Integrated Circuit (IC)** (एकीकृत परिपथ) | एकीकृत परिपथ | Many transistors on a single chip; "chip" |
-| **Binary** (द्विआधारी) | द्विआधारी | Base-2 number system; 0 and 1 only; basis of computers |
-| **Bit** (बिट) | बिट | Smallest unit of data; 0 or 1 |
-| **Byte** (बाइट) | बाइट | 8 bits; basic addressable unit |
-| **CPU** (केन्द्रीय प्रसंस्करण इकाई) | केंद्रीय प्रक्रमण एकक | Central Processing Unit; "brain" of computer |
-| **RAM** (रैम) | यादृच्छिक अभिगम स्मृति | Random Access Memory; volatile; temporary storage |
-| **ROM** (रोम) | केवल पठन स्मृति | Read Only Memory; non-volatile; permanent storage |
-| **Internet** (इंटरनेट) | इंटरनेट | Global network of computers; WWW is a service on Internet |
-| **Artificial Intelligence** (कृत्रिम बुद्धिमत्ता) | कृत्रिम बुद्धिमत्ता | Simulation of human intelligence in machines |
-| **Machine Learning** (मशीन लर्निंग) | मशीन लर्निंग | AI where computers learn from data without explicit programming |
-| **5G** (5जी) | पांचवीं पीढ़ी का नेटवर्क | 5th generation mobile network; speed up to 10-20 Gbps |
-| **Nanotechnology** (नैनो प्रौद्योगिकी) | नैनो प्रौद्योगिकी | Technology at 1-100 nm scale; 1 nm = 10^-9 m |
-| **Quantum Computing** (क्वांटम संगणना) | क्वांटम संगणना | Uses qubits (superposition/entanglement); exponentially faster for certain tasks |
+| **1947** | Shockley, Bardeen & Brattain | Invented the **Transistor** at Bell Labs; replaced bulky vacuum tubes (Nobel Prize 1956). |
+| **1958** | Jack Kilby & Robert Noyce | Invented the **Integrated Circuit (IC)**; integrated transistors, diodes, and resistors on a single semiconductor chip (Nobel 2000). |
+| **1965** | Gordon Moore | Formulated **Moore's Law**: number of transistors on a microchip doubles approximately every 18 to 24 months. |
+| **1971** | Intel (Ted Hoff & Federico Faggin)| Developed **Intel 4004**, the world's first 4-bit commercial microprocessor. |
+| **1991** | C-DAC (led by Dr. Vijay Bhatkar)| Developed **PARAM 8000**, India's first indigenous supercomputer, following US Cray supercomputer embargo. |
+
+## 📊 Quick Reference Grid
+
+### 1. Energy Band Gaps & Semiconductor Doping Matrix
+
+| Material Type | Energy Band Gap ($E_g$) | Conduction Band Status at $0	ext{ K}$ | Electrical Conductivity Behavior | Representative Materials |
+|---|---|---|---|---|
+| **Conductors (Metals)** | **$E_g = 0$** (Valence & Conduction bands overlap)| Filled with free electrons | Extremely high; conductivity decreases as temperature rises | Copper, Silver, Aluminium |
+| **Semiconductors** | **$E_g pprox 1	ext{ eV}$** ($1.1	ext{ eV}$ in Silicon, $0.7	ext{ eV}$ in Germanium)| Completely empty at $0	ext{ K}$ (acts as insulator) | Conductivity **INCREASES with temperature**; negative temperature coefficient | **Silicon ($Si$), Germanium ($Ge$), Gallium Arsenide ($GaAs$)** |
+| **Insulators** | **$E_g > 3–5	ext{ eV}$** (Very wide forbidden band gap)| Completely empty; electrons cannot jump | Negligible / Zero conductivity under normal electric fields | Glass, Diamond ($E_g = 5.4	ext{ eV}$), Rubber, Plastic |
 
 ---
 
-## Complete PYQ Bank — UPPCS
+### 2. Extrinsic Semiconductor Doping Comparison
 
-**Q-ST1. UPPCS (Mains) 2015**
+| Parameter / Feature | n-type Semiconductor | p-type Semiconductor |
+|---|---|---|
+| **Doping Impurity Added** | **Pentavalent Impurity (Group 15 elements)**: Phosphorus ($P$), Arsenic ($As$), Antimony ($Sb$) | **Trivalent Impurity (Group 13 elements)**: Boron ($B$), Aluminium ($Al$), Gallium ($Ga$), Indium ($In$) |
+| **Nature of Impurity** | **Donor Impurity** (donates one extra free electron) | **Acceptor Impurity** (creates an electron vacancy or hole) |
+| **Majority Charge Carriers**| **Electrons ($e^-$)** | **Holes ($h^+$, positive virtual charge)** |
+| **Minority Charge Carriers**| **Holes ($h^+$)** | **Electrons ($e^-$)** |
+| **Net Electrical Charge** | **Strictly ELECTRICALLY NEUTRAL** (protons equal electrons in crystal) | **Strictly ELECTRICALLY NEUTRAL** (protons equal electrons in crystal) |
+
+---
+
+### 3. Logic Gates Truth Table & Classification
+
+| Logic Gate | Mathematical Boolean Expression | Output is HIGH ($1$) When: | Universal Gate Status |
+|---|---|---|---|
+| **AND Gate** | $Y = A \cdot B$ | **Both A and B are 1** | Basic gate |
+| **OR Gate** | $Y = A + B$ | **Either A or B (or both) is 1** | Basic gate |
+| **NOT Gate (Inverter)**| $Y = ar{A}$ | **A is 0** (reverses the input bit) | Basic gate |
+| **NAND Gate** | $Y = \overline{A \cdot B}$ | **Inputs are NOT both 1** (inverted AND) | **UNIVERSAL GATE** (Can construct any logic gate) |
+| **NOR Gate** | $Y = \overline{A + B}$ | **Both inputs are 0** (inverted OR) | **UNIVERSAL GATE** (Can construct any logic gate) |
+| **XOR Gate (Exclusive OR)**| $Y = A \oplus B = Aar{B} + ar{A}B$ | **Inputs are DIFFERENT** (one 0, one 1) | Arithmetic adder circuit |
+
+---
+
+### 4. Computer Memory Hierarchy & Data Units
+
+| Memory Level | Relative Speed & Access Time | Volatility | Relative Cost per Byte | Typical Hardware Technology |
+|---|---|---|---|---|
+| **CPU Registers** | **Fastest (Sub-nanosecond)** | **Volatile** | Most expensive | Flip-flops directly inside CPU arithmetic logic unit |
+| **Cache Memory (L1, L2, L3)**| Extremely fast ($1–5	ext{ ns}$) | **Volatile** | Very high | Static RAM (SRAM) integrated into processor die |
+| **Primary RAM (DRAM)** | Fast ($10–50	ext{ ns}$) | **Volatile** (data lost on power off)| Moderate | Dynamic RAM (capacitors requiring constant refresh) |
+| **Read Only Memory (ROM)**| Fast read only | **NON-VOLATILE** (permanent) | Moderate | Stores BIOS / firmware bootstrap loader |
+| **Solid State Drive (SSD)**| Moderate ($50–150	ext{ }\mu	ext{s}$)| **NON-VOLATILE** | Low to moderate | NAND Flash semiconductor memory; no moving parts |
+| **Hard Disk Drive (HDD)** | Slow ($5–15	ext{ ms}$) | **NON-VOLATILE** | Lowest | Magnetic spinning platters with read/write heads |
+| **Data Units Hierarchy** | **$1	ext{ Nibble} = 4	ext{ bits}$**; **$1	ext{ Byte} = 8	ext{ bits}$**; $1	ext{ KB} = 1024	ext{ Bytes}$; $1	ext{ MB} = 1024	ext{ KB}$; $1	ext{ GB} = 1024	ext{ MB}$; $1	ext{ TB} = 1024	ext{ GB}$; $1	ext{ PB} = 1024	ext{ TB}$ |
+
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
+|---|---|---|---|
+| **n-type Semiconductor Charge**| **Negative Net Charge Myth** | An n-type semiconductor has majority negative electrons, but its **NET ELECTRICAL CHARGE IS STRICTLY ZERO (NEUTRAL)**. Neutral donor atoms are simply embedded in a neutral silicon crystal lattice. | n-प्रकार का अर्धचालक विद्युत रूप से पूर्णतः उदासीन (Neutral) होता है, ऋणावेशित नहीं |
+| **p-type Semiconductor Charge**| **Positive Net Charge Myth** | Similarly, a p-type semiconductor has majority positive holes, but **ITS NET CHARGE IS STRICTLY ZERO (NEUTRAL)**. Every atom in the crystal lattice has balanced protons and electrons. | p-प्रकार का अर्धचालक भी विद्युत रूप से पूर्णतः उदासीन होता है |
+| **Semiconductor at $0	ext{ K}$** | **Conductor at $0	ext{ K}$** | At Absolute Zero ($0	ext{ K}$), all valence electrons in a semiconductor are bound; it acts as a **PERFECT INSULATOR** (zero conductivity). A conductor exhibits maximum conductivity (superconductivity) near $0	ext{ K}$. | परम शून्य ताप ($0	ext{ K}$) पर अर्धचालक एक आदर्श अचालक (Insulator) की भांति व्यवहार करता है |
+| **RAM (Random Access Memory)**| **ROM (Read Only Memory)** | **RAM is VOLATILE** (all stored data disappears immediately when power is turned off). **ROM is NON-VOLATILE** (permanently retains factory boot instructions / BIOS). | रैम (RAM) अस्थायी / अस्थिर (Volatile) है; रोम (ROM) स्थायी (Non-volatile) है |
+| **Universal Logic Gates** | **Basic Logic Gates** | Basic gates are AND, OR, NOT. The **UNIVERSAL GATES are strictly NAND and NOR**; any boolean expression or logic circuit can be built exclusively with NAND or NOR gates alone. | सार्वत्रिक लॉजिक गेट = केवल NAND तथा NOR गेट |
+| **Bit vs Byte vs Nibble** | **Data Unit Conversions** | **$1	ext{ Bit} = 0	ext{ or }1$** (binary digit). **$1	ext{ Nibble} = \mathbf{4	ext{ bits}}$**. **$1	ext{ Byte} = \mathbf{8	ext{ bits}}$**. Confusing nibbles with bytes is a classic computer Prelims trap. | 1 निबल = 4 बिट; 1 बाइट = 8 बिट |
+| **Zener Diode Application** | **Rectifier Diode Application**| A standard p-n junction diode acts as a **Rectifier** in forward bias (converting AC to DC). A **Zener Diode operates in REVERSE BREAKDOWN** to provide **constant Voltage Regulation**. | जेनर डायोड = वोल्टेज नियामक (Voltage Regulator); साधारण डायोड = दिष्टकारी (Rectifier) |
+| **Supercomputer Pratyush / Mihir**| **C-DAC PARAM Series** | **Pratyush and Mihir** are high-performance supercomputers dedicated exclusively to **weather forecasting and climate modeling** (MoES / IITM Pune). **PARAM series** are general-purpose supercomputers developed by C-DAC. | प्रत्युष व मिहिर = मौसम व जलवायु पूर्वानुमान हेतु सुपरकंप्यूटर (IITM पुणे) |
+| **LED Light Emission Mechanism**| **Incandescent Bulb Emission** | An **LED emits light via direct electron-hole recombination** across a forward-biased direct bandgap semiconductor (cold luminescence, $>80\%$ efficiency). Incandescent bulbs emit light via resistive heating ($I^2R$). | एलईडी = इलेक्ट्रॉन-होल पुनर्संयोजन (Cold light); तंतु बल्ब = तापीय उद्दीपन |
+| **1st vs 2nd Generation Computers**| **Core Hardware Switching Tech**| 1st Generation ($1940	ext{s}–50	ext{s}$) used **Vacuum Tubes**. 2nd Generation ($1950	ext{s}–60	ext{s}$) used **Transistors**. 3rd Generation used **Integrated Circuits (ICs)**. 4th Generation used **VLSI Microprocessors**. | प्रथम पीढ़ी = वैक्यूम ट्यूब; द्वितीय पीढ़ी = ट्रांजिस्टर; तृतीय = IC; चतुर्थ = माइक्रोप्रोसेसर |
+
+## 🧠 Memory Anchors & Mnemonics
+
+### 1. Extrinsic Semiconductor Doping Anchors:
+- **Pentavalent Impurities $	o$ n-type**: **B-A-P**
+  - **B**ismuth, **A**rsenic, **P**hosphorus, Antimony.
+  - Generates extra free **e**lectrons $	o$ **n**-type.
+- **Trivalent Impurities $	o$ p-type**: **B-A-G-I**
+  - **B**oron, **A**luminium, **G**allium, **I**ndium.
+  - Generates electron vacancies (**h**oles) $	o$ **p**-type.
+
+### 2. Universal Logic Gates: **N-A-N-D** and **N-O-R**
+- Both start with **N** (inverted):
+  - **NAND** (Not-AND)
+  - **NOR** (Not-OR)
+  - These two can replicate any digital circuit!
+
+### 3. Computer Memory Speed Ladder:
+- **Registers > Cache > RAM > SSD > HDD**
+- Fast & Volatile $	o$ Slow & Permanent.
+
+## 🎯 High-Yield PYQ Drill
+
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+
+**Q1.**
+
+What is the minimum length of a standard MAC (Media Access Control) address?
+- (A) $16\text{ bits}$
+- (B) $32\text{ bits}$
+- (C) $48\text{ bits}$
+- (D) $64\text{ bits}$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A MAC address is a 48-bit (6-byte) physical hardware address burned into the network interface card (NIC), operating at the Data Link Layer (Layer 2) of the OSI model.
+
+**Ans: C.** $48\text{ bits}$
+</details>
+
+**Q2.**
+
+Which of the following optical disc formats utilizes a blue-violet laser with a wavelength of $405\text{ nm}$?
+- (A) CD-ROM
+- (B) DVD-R
+- (C) Blu-ray Disc
+- (D) Floppy Disk
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Blu-ray Discs use a $405\text{ nm}$ blue-violet laser, allowing a much tighter focus than the $650\text{ nm}$ red laser of DVDs, giving $25\text{ GB}$ storage per layer.
+
+**Ans: C.** Blu-ray Disc
+</details>
+
+**Q3.**
+
+In a 4-bit binary weighted code, which of the following is an example of a self-complementing code?
+- (A) $8421\text{ code}$
+- (B) $5211\text{ code}$
+- (C) $5421\text{ code}$
+- (D) Gray code
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A code is self-complementing if the sum of its weights equals 9.
+
+**Ans: B.** $5211\text{ code}$
+</details>
+
+**Q4.**
+
+The international AI Action Summit held in February 2025 took place in:
+- (A) London
+- (B) Seoul
+- (C) Paris
+- (D) New Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches Paris.
+
+**Ans: C.** Paris
+</details>
+
+**Q5.**
+
+In the context of computer security, a software that disguises itself as useful legitimate software while executing unauthorized background actions without self-replicating is called:
+- (A) Virus
+- (B) Worm
+- (C) Trojan Horse
+- (D) Keylogger
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Unlike viruses and worms, Trojans do not attempt to self-replicate or inject code into other files.
+
+**Ans: C.** Trojan Horse
+</details>
+
+---
+
+**Q6. (UPPCS (Mains) 2015)**
 
 Which one of the following is the best conductor of
 
@@ -360,294 +286,210 @@ electricity?
 **Ans: D.** Silver
 </details>
 
-**Q2.** Ans: A.** Base 2
-</details>
+**Q7. (UPPCS (Mains) 2012 / RAS/RTS(Pre) 2012)**
 
-**Q-ST21. UPPCS Pre 2014**
+Which of the following is the best conductor of
 
-Who is recognized as the world's first computer programmer?
-- (A) Charles Babbage
-- (B) Ada Lovelace
-- (C) Alan Turing
-- (D) John von Neumann
+electricity?
 
-<details>
-<summary>Show answer</summary>
+(a) Aluminium (b) Copper
 
-**Logic:** Standard key matches Ada Lovelace.
-
-**Ans: B.** Ada Lovelace
-</details>
-
-**Q3.** Ans: B.** The successful test of Li-Fi in India was done by
-</details>
-
-**Q-ST38. UP Lower Sub (Spl.) (Pre) 2004**
-
-The computer system which links and stores
-
-information among different countries in the world
-
-through a satellite is known as –
-
-(a) Apollo (b) INSAT 2D
-
-(c) Internet (d) Nicnet
+(c) Silver (d) Gold
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Internet is the largest satellite-based communication network of the world.
+**Logic:** Standard key matches Silver (d) Gold.
 
-**Ans: C.** Internet (d) Nicnet
+**Ans: C.** Silver (d) Gold
 </details>
 
-**Q4.** Ans: D.** Param
-</details>
+**Q8. (UP RO/ARO (Mains) 2013)**
 
-**Q-ST41. UPPCS (Mains) 2004**
+Assertion (A): Copper rods are generally preferred
 
-Which one of the following is a supercomputer project
+to iron rods for making lightning
 
-developed by Bhabha Atomic Research Centre ?
+conductors.
 
-(a) PARAM Padma (b) Chipps
+Reason (R) : Copper is better conductor of electricity
 
-(c) Flosolver Mark (d) Anupam
+than iron and is not easily oxidized
+
+under atmospheric conditions.
+
+Code :
+
+(a) Both (A) and (R) are true and (R) is the correct
+
+explanation of (A).
+
+(b) Both (A) and (R) are true, but (R) is not the correct
+
+explanation of (A).
+
+CLICK HERE - JOIN @APNAPDFS
+
+Join @Apnapdfs
+
+G–141 General Studies General Science
+
+(c) (A) is true, but (R) is false.
+
+(d) (A) is false, but (R) is true.
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Computer division of BARC had started development of supercomputers under the ANUPAM project in 1991, based on parallel processing techniques.
+**Logic:** Copper rods are preferred for making lightning conductor because : (i) Copper is a better conductor of electricity than iron.
 
-**Ans: D.** Anupam
+**Ans: A.** Both (A) and (R) are true and (R) is the correct
 </details>
 
-**Q5.** Ans: C.** Pratyush (d) Pushkar
-</details>
+**Q9. (UP RO/ARO (Pre) 2023)**
 
-**Q-ST46. UPPCS (Pre) 2000**
+Given below are two statements, in which one is
 
-Which of the following would be the smallest and fastest
+labelled as Assertion (A) and the other as Reason (R).
 
-computer imitating brain working –
+Assertion (A) : A person travelling in a car with closed
 
-(a) Supercomputer (b) Quantum computer
+glass windows and doors is safe from the lightening
 
-(c) Param-10,000 (d) IBM chips
+strike.
+
+Reason (R) : Actually a closed car behaves like a hollow
+
+conductor, so charges cannot enter inside the car.
+
+Select the correct answer using the code given belowCode :
+
+(a) (A) is true but (R) is false.
+
+(b) Both (A) and (R) are true and (R) is correct explanation
+
+of (A).
+
+(c) (A) is false but (R) is true.
+
+(d) Both (A) and (R) are true but (R) is not correct
+
+explanation of (A).
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Researchers of Oxford University have been successfully invented 10 billion quantum entanglement in silicon.
+**Logic:** A person travelling in a car with closed glass windows and doors is safe from the lightening strike, because closed car behaves like a closed hollow conductor (as a Faraday cage) and electric field or charge inside a cl…
 
-**Ans: B.** Quantum computer
+**Ans: B.** Both (A) and (R) are true and (R) is correct explanation
 </details>
 
-**Q6.** Ans: A.** Data Link Layer
-</details>
+**Q10. (UPPCS (Pre) 2000)**
 
-**Q-ST58. U.P.P.C.S (Pre) 2010**
+At which temperature superconductivity can be
 
-Computer virus is a –
+of tremendous economic interest saving billions of
 
-(a) Fungus (b) Bacterium
+rupees?
 
-(c) IC 7344 (d) Software program
+(a) At very low temperature
+
+(b) At a temperature when semiconductor becomes a
+
+superconductor
+
+(c) at room temperature
+
+(d) At a very high temperature
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** A computer virus is a destructive software program or piece of code that is loaded onto your computer without your knowledge and runs against your wishes.
+**Logic:** If we could achieve superconductivity at room temperature then we can save billions of rupee through electric transmission without any power loss.
 
-**Ans: D.** Software program
+**Ans: C.** at room temperature
 </details>
 
-**Q7.** Ans: A.** 8 (b) 16
-</details>
+**Q11. (UP Lower Sub (Pre) 2013)**
 
-**Q-ST65. UP Lower Sub (Mains) 2013**
+The highest temperature attained by a superconductor
 
-The term bit is the short form of :
+is :
 
-(a) Megabyte (b) Binary Language
+(a) 24 K (b) 133 K
 
-(c) Binary Digit (d) Binary Number
+(c) 150 K (d) 300 K
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** A bit (short for binary digit) is the smallest unit of data in a computer.
+**Logic:** When superconductivity was discovered in 1911, it was found only at temperatures close to absolute zero (– 273.15°C).
 
-**Ans: C.** Binary Digit
+**Ans:** When superconductivity was discovered in 1911, it was found only at temperatures close to absolute zero (– 273.15°C).
 </details>
 
-**Q8.** Ans: D.** IBM System/360
-</details>
+**Q12. (Uttarakhand P.C.S. (Pre) 2006 / UPPCS (Pre) 2000)**
 
-**Q-ST4. Uttarakhand P.C.S. (Mains) 2002**
+The newly discovered high temperature super
 
-The main board of the computer is known as :
+conductors are –
 
-(a) Father board (b) Motherboard
+(a) Metal alloys (b) Pure rare earth metals
 
-(c) Keyboard (d) None of the above
+(c) Ceramic oxides (d) Inorganic polymers
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** A motherboard is a physical arrangement in a computer that contains the computer's basic circuitry components.
+**Logic:** Ceramic oxides play a vital role in the field of research and discovery towards superconductivity.
 
-**Ans: B.** Motherboard
+**Ans: C.** Ceramic oxides
 </details>
 
-**Q9.** Ans: C.** Input Device
-</details>
+**Q13. (UPPCS (Mains) 2015)**
 
-**Q-ST7. Uttarakhand P.C.S. (Mains) 2006**
+The resistance of a semiconductor on heating :
 
-Which of the following is not an output device ?
+(a) Remains constant (b) Decreases
 
-(a) Monitor (b) Printer
-
-(c) Mouse (d) Plotters
+(c) Increases (d) None of the above
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches Mouse (d) Plotters.
+**Logic:** With the increase in temperature, the conductivity of the semiconductor material increases.
 
-**Ans: C.** Mouse (d) Plotters
+**Ans: B.** Decreases
 </details>
 
-**Q10.** Ans: A.** 0 and 1 (b) 0 and 10
-</details>
+**Q14. (UPPCS (Pre) 2015)**
 
-**Q-ST29. Uttarakhand Lower Sub. (Pre) 2010**
+The most commonly used material for making
 
-The binary addition 1 + 1 will result in –
+transistors is –
 
-(a) 0 (b) 0 with carry 1
+(a) Aluminium (b) Silicon
 
-(c) 0 with no carry (d) 1
+(c) Copper (d) Silver
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The binary addition of 1+ 1 is 0 and carry 1.
-
-**Ans: B.** 0 with carry 1
+**Ans: B.** Silicon
 </details>
 
-**Q11.** Ans: C.** Michael Angelo
-</details>
+**Q15. (UP RO/ARO (Pre) 2016)**
 
-**Q-ST53. I.A.S. (Pre) 2018**
+Which one of the following is an important component
 
-The terms 'WannaCry, Petya and EternalBlue'
+of a transistor?
 
-sometimes mentioned in the news recently are
+(a) Arsenic (b) Germanium
 
-related to :
-
-(a) Exoplanets (b) Cryptocurrency
-
-(c) Cyberattacks (d) Mini satellites
+(c) Osmium (d) Radium
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The WannaCry and Petya are two of the biggest cyberattacks in history and impacted the finances of many companies throughout the globe.
-
-**Ans: C.** Cyberattacks
-</details>
-
-**Q12.** Ans: A.** 2 (b) 3
-</details>
-
-**Q-ST62. I.A.S. (Pre) 2000**
-
-The memory of a computer is commonly expressed in
-
-terms of kilobytes or megabytes. A byte is made up of –
-
-(a) Eight binary digits (b) Eight decimal digits
-
-(c) Two binary digits (d) Two decimal digits
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The computer memory is expressed in kilobytes or megabytes or gigabytes.
-
-**Ans: A.** Eight binary digits
-</details>
-
-**Q13.** Ans: B.** OpenAI
-</details>
-
-**Q-ST131. I.A.S. (Pre) 2025**
-
-Consider the following statements regarding AI Action
-
-Summit held in Grand Palais, Paris in February 2025 :
-
-I. Co-chaired with India, the event builds on the
-
-advances made at the Bletchley Park Summit held
-
-in 2023 and the Seoul Summit held in 2024.
-
-II. Along with other countries, US and UK also signed
-
-the declaration on inclusive and sustainable AI.
-
-Which of the statements given above is/are correct?
-
-(a) I only (b) II only
-
-(c) Both I and II (d) Neither I nor II
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The AI Action Summit, held in Paris on 10-11 February 2025, was co-chaired by India’s Prime Minister Narendra Modi and France’s President Emmanuel Macron.
-
-**Ans: A.** I only (b) II only
-</details>
-
-**Q14.** Ans: D.** All of the above
-</details>
-
-**Q-ST137. Civil Services Examination**
-
-With reference to digital payments, consider the
-
-following statements :
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Refer to the high-yield notes above.
-
-**Ans:** Refer to the high-yield notes above.
-</details>
-
-**Q15.** Ans: B.** $5211\text{ code}$
-</details>
-
-**Q-ST4.**
-
-The international AI Action Summit held in February 2025 took place in:
-- (A) London
-- (B) Seoul
-- (C) Paris
-- (D) New Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Paris.
-
-**Ans: C.** Paris
+**Ans: B.** Germanium
 </details>

@@ -7,9 +7,15 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 23 — Political & Map-Based Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024–2026** | **Global Maritime Chokepoint Disruptions**: Simultaneous geopolitical pressures at the **Strait of Hormuz** (Iran/Oman) and **Bab-el-Mandeb** (Yemen/Djibouti) affecting over 30% of seaborne crude and global container traffic | Strategic straits, international sea-lanes of communication (SLOCs) |
+| **UKPCS 2025** | **UNCLOS Maritime Zones**: Coastal state sovereignty extends up to **12 nautical miles** (Territorial Sea); fiscal/customs jurisdiction up to **24 nautical miles** (Contiguous Zone); resource rights up to **200 nautical miles** (EEZ) | UNCLOS baseline thresholds frequently tested in PCS |
+| **2024–2025** | **Taiwan Strait Transits**: Strategic 160-km wide body of water separating Mainland China (Fujian) from Taiwan; connects South China Sea with East China Sea | Freedom of navigation operations & geopolitical straits |
+| **2024** | **Ennore & Red Sea Oil Spills / Environmental Incidents**: Sovereign liability and baseline boundary demarcation under maritime law | Maritime delimitation & coastal jurisdiction |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -64,68 +70,157 @@ hide:
 
 
 ---
+49. **Doubly Landlocked Nations**: A country is 'doubly landlocked' when it is surrounded only by other landlocked countries; there are only **two** such nations in the entire world: **Liechtenstein** (surrounded by Switzerland and Austria in Europe) and **Uzbekistan** (surrounded by Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, and Turkmenistan in Central Asia).
+50. **Equator, Tropics & Prime Meridian Crossings**: The **Equator (0°)** crosses 13 countries and 3 continents (South America, Africa, Asia); the **Prime Meridian (0° longitude)** crosses 8 countries (UK, France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana) and meets the Equator in the **Gulf of Guinea** (Atlantic Ocean).
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INTERNATIONAL BOUNDARIES & MARITIME LAW MILESTONES
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1846] ───> OREGON TREATY ESTABLISHES 49TH PARALLEL:
+  │           Demarcated US–Canada border from the Rocky Mountains westward to Strait of Georgia.
+  │
+  ▼
+  [1893] ───> DURAND LINE AGREEMENT:
+  │           Demarcated boundary between British India and the Emirate of Afghanistan (Sir Mortimer Durand).
+  │
+  ▼
+  [1914] ───> SIMLA CONVENTION (McMAHON LINE):
+  │           Boundary agreed between British India (Sir Henry McMahon) and Tibet; contested by China.
+  │
+  ▼
+  [1947] ───> RADCLIFFE BOUNDARY COMMISSION:
+  │           Sir Cyril Radcliffe partitioned British India into India, West Pakistan, and East Pakistan.
+  │
+  ▼
+  [1953] ───> KOREAN ARMISTICE AGREEMENT (38TH PARALLEL):
+  │           Established the Korean Demilitarized Zone (DMZ) dividing North and South Korea.
+  │
+  ▼
+  [1982] ───> ADOPTION OF UNCLOS III (Montego Bay, Jamaica):
+  │           Codified universal maritime zones: Territorial Sea (12 nm), Contiguous (24 nm), EEZ (200 nm).
+  │
+  ▼
+  [1994] ───> UNCLOS ENTERS INTO FORCE globally following 60th ratification (Guyana).
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Strategic World Straits Master Table
+
+| Strait | Water Bodies Connected | Landmasses Separated | Key Strategic / Economic Importance |
+|---|---|---|---|
+| **Strait of Malacca (मलक्का जलडमरूमध्य)** | **Andaman Sea** (Indian Ocean) & **South China Sea** (Pacific) | **Malay Peninsula** & **Sumatra Island** (Indonesia) | Busiest oil shipping strait in the world; ~25% of all global maritime trade passes through; Singapore at eastern mouth |
+| **Strait of Hormuz (हॉर्मुज जलडमरूमध्य)** | **Persian Gulf** & **Gulf of Oman** (Arabian Sea) | **Iran** & **Oman** (Musandam Peninsula) | **World's most critical oil transit chokepoint**; carries ~20–25% of total global petroleum consumption |
+| **Bab-el-Mandeb (बाब-अल-मंदेब)** | **Red Sea** & **Gulf of Aden** (Arabian Sea) | **Yemen** (Arabian Peninsula) & **Djibouti / Eritrea** (Horn of Africa) | Known as the **"Gate of Tears"**; southern maritime gateway to the Suez Canal |
+| **Bosphorus Strait (बॉस्फोरस)** | **Black Sea** & **Sea of Marmara** | European Istanbul & Asian Istanbul (**Turkey**) | **Narrowest strait used for international navigation** (~700 m at narrowest); divides Europe from Asia |
+| **Dardanelles Strait (डार्डानेल्स)** | **Sea of Marmara** & **Aegean Sea** (Mediterranean) | Gallipoli Peninsula (Europe) & Anatolia (Asia, **Turkey**) | Historic Hellespont; battle of Gallipoli (WWI); controlled by Montreux Convention (1936) |
+| **Strait of Gibraltar (जिब्राल्टर)** | **Atlantic Ocean** & **Mediterranean Sea** | **Spain / Gibraltar** (Europe) & **Morocco** (Africa) | Known anciently as the **"Pillars of Hercules"**; "Key to the Mediterranean"; 14 km wide |
+| **Strait of Dover (डोवर जलडमरूमध्य)** | **English Channel** & **North Sea** | **England** (UK) & **France** | Busiest passenger waterway in the world; Channel Tunnel (Eurotunnel) runs beneath its seabed |
+| **Bering Strait (बेरिंग जलडमरूमध्य)** | **Arctic Ocean** (Chukchi Sea) & **Pacific Ocean** (Bering Sea) | **Chukotka** (Russia/Asia) & **Alaska** (USA/North America) | **International Date Line passes through it**; narrowest distance between US and Russia (~85 km) |
+| **Palk Strait (पाल्क जलडमरूमध्य)** | **Bay of Bengal** & **Palk Bay / Gulf of Mannar** | **Tamil Nadu** (India) & **Jaffna Peninsula** (Sri Lanka) | Shallow waters; crossed by Ram Setu (Adam's Bridge); proposed Sethusamudram Shipping Canal |
+| **Strait of Magellan (मैगलन जलडमरूमध्य)** | **Atlantic Ocean** & **Pacific Ocean** | Mainland **South America** & **Tierra del Fuego** archipelago (Chile) | Discovered by Ferdinand Magellan (1520); sheltered passage bypassing rough Cape Horn |
+| **Cook Strait** | **Tasman Sea** & **South Pacific Ocean** | **North Island** & **South Island** of **New Zealand** | Named after Capt. James Cook; notorious for high winds and tidal surges |
+| **Bass Strait** | **Tasman Sea** & **Southern Ocean** | Mainland **Victoria (Australia)** & **Tasmania Island** | Major domestic shipping route; rich offshore natural gas deposits |
+| **Torres Strait** | **Arafura Sea** & **Coral Sea** | **Cape York Peninsula** (Australia) & **Papua New Guinea** | Very shallow, heavily reef-strewn navigation channel |
+| **Taiwan Strait (Formosa)** | **South China Sea** & **East China Sea** | **Taiwan Island** & **Fujian Province** (Mainland China) | Major global shipping corridor for semiconductors and consumer goods |
+
+### 2. Famous International Boundary Lines
+
+| Boundary Line | Bordering Nations / Territories | Year Established | Historical Origin & Context |
+|---|---|---|---|
+| **Radcliffe Line** | **India and Pakistan** / **India and Bangladesh** | 1947 | Demarcated by Sir Cyril Radcliffe during the partition of British India |
+| **McMahon Line** | **India (Arunachal Pradesh)** and **China (Tibet)** | 1914 | Agreed at Simla Accord by Sir Henry McMahon; accepted by India, disputed by China |
+| **Durand Line** | **Pakistan and Afghanistan** | 1893 | Demarcated by Sir Mortimer Durand; cuts through ethnic Pashtun tribal territory |
+| **49th Parallel** | **United States and Canada** | 1846 | **Longest undefended international border in the world** (from Lake of the Woods to Strait of Georgia) |
+| **38th Parallel** | **North Korea and South Korea** | 1945 / 1953 | Chosen as the boundary after WWII and preserved as the Korean DMZ after Korean War |
+| **17th Parallel** | **North Vietnam and South Vietnam** | 1954 | Demarcated by Geneva Accords (1954); ceased to exist following Vietnamese reunification (1976) |
+| **Maginot Line** | **France and Germany** | 1930s | Heavy concrete and steel fortifications built by France; bypassed by Germany via Ardennes in 1940 |
+| **Siegfried Line (Westwall)** | **Germany and France** | 1930s | German defensive fortification line built opposite the French Maginot Line |
+| **Mannerheim Line** | **Finland and USSR** | 1920–1939 | Finnish defensive fortifications across Karelian Isthmus during the Winter War |
+| **Oder-Neisse Line** | **Germany and Poland** | 1945 | Demarcated at Potsdam Conference along Oder and Lusatian Neisse rivers |
+| **Green Line** | **Israel and Arab Neighbors** | 1949 | Armistice lines established following the 1948 Arab–Israeli War |
+
+### 3. High-Yield Landlocked Countries Master List
+
+| Region | Landlocked Countries | Unique Prelims Distinction |
+|---|---|---|
+| **Central Asia** | **Kazakhstan**, **Uzbekistan**, Turkmenistan, Kyrgyzstan, Tajikistan | **Kazakhstan** = **World's largest landlocked country by area** (2.72 million km²)<br>**Uzbekistan** = **Doubly landlocked country** |
+| **Europe** | **Liechtenstein**, Switzerland, Austria, Luxembourg, Czechia, Slovakia, Hungary, Serbia, North Macedonia, Belarus, Moldova, etc. | **Liechtenstein** = **Doubly landlocked country** (surrounded by Switzerland & Austria)<br>Switzerland & Austria provide transit access via Rhine & Danube |
+| **South America** | **Bolivia** and **Paraguay** ONLY | Only **two** landlocked nations in all of South America; Bolivia lost sea access in War of the Pacific (1879–1884) |
+| **Africa** | Chad, Niger, Mali, Burkina Faso, Central African Republic, South Sudan, Ethiopia, Uganda, Rwanda, Burundi, Zambia, Zimbabwe, Botswana, etc. | Africa contains the **largest number of landlocked countries** (16 nations); **Ethiopia** is the most populous landlocked country in the world |
+| **South Asia** | **Nepal**, **Bhutan**, **Afghanistan** | All three border India; rely on transit treaties through Indian and Pakistani ports |
+
+### 4. Famous Geographical Sobriquets
+
+| Sobriquet (Popular Nickname) | Country / City / Geographical Region |
+|---|---|
+| **"Playground of Europe"** | **Switzerland** |
+| **"Land of the Midnight Sun"** | **Norway** (Hammerfest) |
+| **"Land of Thousand Lakes"** | **Finland** (>180,000 lakes) |
+| **"Land of the Rising Sun"** | **Japan** (*Nippon*) |
+| **"Land of White Elephants"** | **Thailand** |
+| **"Land of the Thunder Dragon"** | **Bhutan** (*Druk Yul*) |
+| **"Sugar Bowl of the World"** | **Cuba** |
+| **"Pearl of the Antilles"** | **Cuba** |
+| **"Cockpit of Europe"** | **Belgium** (historic battleground of European empires) |
+| **"Key to the Mediterranean"** | **Gibraltar** |
+| **"City of Golden Gate"** | **San Francisco** (USA) |
+| **"City of Canals"** | **Venice** (Italy) |
+| **"Horn of Africa"** | **Somalia, Ethiopia, Eritrea, Djibouti** (**SEED**) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Confused pairs
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Territorial Sea (12 nm)** | **Exclusive Economic Zone (200 nm)** | Coastal state has **full sovereign territorial authority** (including airspace and seabed) vs Coastal state has **exclusive economic rights to exploit marine living & non-living resources** only | प्रादेशिक समुद्र (12 समुद्री मील) / अनन्य आर्थिक क्षेत्र (200 समुद्री मील) |
+| **Contiguous Zone (24 nm)** | **Territorial Sea (12 nm)** | Coastal state exercises **customs, fiscal, immigration, and sanitary jurisdiction** up to 24 nm from baselines vs Full sovereign territorial waters | संलग्न क्षेत्र (24 nm) / प्रादेशिक जल |
+| **Bosphorus Strait** | **Dardanelles Strait** | Connects **Black Sea with Sea of Marmara** (divides Istanbul) vs Connects **Sea of Marmara with Aegean Sea** (Gallipoli) | बॉस्फोरस / डार्डानेल्स |
+| **Strait of Hormuz** | **Bab-el-Mandeb** | Chokepoint connecting **Persian Gulf with Gulf of Oman** (Iran/Oman) vs Chokepoint connecting **Red Sea with Gulf of Aden** (Yemen/Djibouti) | हॉर्मुज / बाब-अल-मंदेब |
+| **49th Parallel** | **38th Parallel** | Undefended international boundary between **USA and Canada** vs Heavily fortified Demilitarized Zone (DMZ) between **North Korea and South Korea** | 49वीं समानांतर रेखा / 38वीं समानांतर रेखा |
+| **Radcliffe Line** | **McMahon Line** | Boundary between **India and Pakistan / Bangladesh** (1947) vs Boundary between **India (Arunachal Pradesh) and China/Tibet** (1914) | रेडक्लिफ / मैकमोहन रेखा |
+| **Durand Line** | **McMahon Line** | Boundary between **Pakistan and Afghanistan** (1893) vs Boundary between **India and China** (1914) | डूरंड / मैकमोहन रेखा |
+| **Doubly Landlocked** | **Landlocked** | Surrounded **entirely by other landlocked countries** (Only 2 in world: **Liechtenstein and Uzbekistan**) vs Surrounded by land but bordering countries have ocean coasts | दोहरा भू-आवेष्ठित / भू-आवेष्ठित देश |
+| **Bolivia & Paraguay** | **Uruguay** | The only **two landlocked nations** in South America vs Atlantic coastal country south of Brazil | बोलीविया-पराग्वे / उरुग्वे |
+| **Horn of Africa (SEED)** | **Balkans** | Somalia, Ethiopia, Eritrea, Djibouti in East Africa vs Southeast European peninsula (Greece, Albania, Bulgaria, Serbia, etc.) | हॉर्न ऑफ अफ्रीका / बाल्कन प्रायद्वीप |
+| **Equator (0°)** | **Prime Meridian (0°)** | Circles the middle of Earth horizontally crossing 13 nations vs Vertical reference line passing through Greenwich, London and 8 nations; meet in **Gulf of Guinea** | भूमध्य रेखा / प्रधान मध्याह्न रेखा |
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Territorial vs EEZ | **12 nm** vs **200 nm** | Swapped | क्षेत्रीय जल / EEZ |
-| Contiguous | **24 nm** | 12 or 200 | सन्निहित |
-| Shelf vs EEZ | Shelf may go to **350 nm**; EEZ stops **200** | Shelf = 12 | महाद्वीपीय मग्नतट |
-| McMahon | **India–China** (Arunachal) | Pakistan / Nepal / Myanmar | मैकमोहन |
-| Durand | **Pakistan–Afghanistan** | India–China | डूरंड |
-| Radcliffe | **1947** India–Pak / Bangladesh | McMahon | रैडक्लिफ |
-| Longest coast | **Gujarat** | AP / MH / Kerala | गुजरात |
-| Longest land border | **Bangladesh** | China / Pakistan | बांग्लादेश |
-| Shortest land border | **Afghanistan** | Bhutan | अफ़ग़ानिस्तान |
-| Suez waters | **Med + Red Sea** | Atlantic | स्वेज |
-| Panama | Atlantic ↔ Pacific | Med–Red | पनामा |
-| Kiel | North Sea ↔ Baltic | Med | कील |
-| Hormuz | Persian Gulf ↔ Gulf of Oman | Malacca | होरमुज़ |
-| Gibraltar | Med ↔ Atlantic | Bosporus | जिब्राल्टर |
-| Bosporus | Black Sea ↔ Marmara | Gibraltar | बोस्फोरस |
-| Mistral / Köppen Cs | Med **winter rain** | Rain all year (that is Cfb W Europe) | भूमध्य |
-| Koppen vs Thornthwaite | **Thornthwaite** = "vegetation is true index of climate" | Köppen letter codes | थॉर्नथ्वेट / कोपेन |
-| Bolivia | **Landlocked** | Uruguay / Peru / Suriname | बोलीविया |
-| Nobi / Kanto | **Japan** | Korea / China | जापान |
-| Igarka | **Russia** | China | इगारका |
-| Cape Verde capital | **Praia** | Bamako (Mali) | प्राइया |
-| India area rank | **7th** largest; **2.4%** of world | 6th; wholly tropical | भारत क्षेत्र |
-| Tropic of Cancer / UP | Passes 8 states — **not UP** | UP on the Tropic | कर्क रेखा |
-| Double landlocked | **Uzbekistan**, Liechtenstein | Nepal / Bolivia as “double” | दोहरा स्थलरुद्ध |
-| Kazakhstan | Largest **landlocked by area** | Has ocean coast | कज़ाखस्तान |
-| Lesotho | **Enclave** inside South Africa | Coastal SA dump | लेसोथो |
-| 49th Parallel | **USA–Canada** (long stretch) | USA–Mexico | 49वीं |
-| 38th Parallel | **North–South Korea** | India–China | 38वीं |
-| Horn of Africa | Djibouti, Eritrea, Ethiopia, Somalia | Includes Sudan | हॉर्न ऑफ अफ्रीका |
-| Slovenia capital | **Ljubljana** | Bratislava (Slovakia) | ल्युब्लियाना |
-| Gold Coast | Old name of **Ghana** | Dutch Guiana / Suriname | गोल्ड कोस्ट |
-| Great Britain vs UK | GB = England+Wales+Scotland | Includes Northern Ireland | ग्रेट ब्रिटेन |
-| Greenland | Denmark politically; N America geographically | Independent continent | ग्रीनलैंड |
-| Caspian littoral | Five states; not Armenia/Iraq | Armenia on Caspian | कैस्पियन |
-| Oceania | Melanesia/Micronesia/Polynesia + Australia | Indonesia included | ओशिआनिया |
-| Laos | Only SE Asia **landlocked** | Cambodia / Thailand | लाओस |
-| Rio Grande | **USA–Mexico** | USA–Canada | रियो ग्रांडे |
-| Baikonur | **Kazakhstan** | Ukraine | बैकोनुर |
-| Midnight Sun vs Rising Sun | Midnight Sun = **Norway** (Arctic); Rising Sun = **Japan** | Swapped | मध्यरात्रि सूर्य / उगता सूर्य |
-| Morning Calm vs Rising Sun | Morning Calm = **Korea**; Rising Sun = Japan | Korea = Japan | सुबह की शांति |
-| Thousand Lakes | **Finland** | Switzerland / Netherlands | हज़ार झीलें |
-| Bird Continent | **South America** | Australia | पक्षी महाद्वीप |
-| Mistress of Eastern Sea | **Sri Lanka** | India / Myanmar | पूर्वी सागर की स्वामिनी |
-| Manchester of the East | **Osaka** | Tokyo / Nagoya | पूर्व का मैनचेस्टर |
-| Pearl of Siberia | **Baikal** | Great Bear | साइबेरिया का मोती |
-| Venice of the North | **St. Petersburg** (usual Russia key) | Moscow / Vladivostok | उत्तर का वेनिस |
-| City of Smoke | **Chicago** | London / Kolkata | धुएँ का शहर |
-| Oil Capital of Europe | **Aberdeen** | Liverpool / Belfast | यूरोप की तेल राजधानी |
-| Land of Promise | **Mindanao** | Java / Cuba | वादा द्वीप |
-| Ninety East Ridge | **Indian Ocean** | Pacific / Atlantic | नाइंटी ईस्ट रिज |
+## 🧠 Memory Anchors & Mnemonics
 
+### 1. UNCLOS Maritime Zones from Baseline:
+- **0 to 12 Nautical Miles**: **Territorial Sea** (पूर्ण संप्रभुता / Full sovereignty)
+- **12 to 24 Nautical Miles**: **Contiguous Zone** (राजकोषीय/सीमा शुल्क अधिकार / Fiscal & Customs)
+- **Up to 200 Nautical Miles**: **EEZ** (संसाधन दोहन अधिकार / Exclusive resource rights)
+- *(Note: 1 Nautical Mile = **1.852 km**)*
 
----
+### 2. The Only Two Doubly Landlocked Countries in the World: **LU**
+- **L**iechtenstein (Europe — bordered by Switzerland and Austria)
+- **U**zbekistan (Central Asia — bordered by 5 Stans)
+- *(Mnemonic: **L-U**cky to be doubly locked)*
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+### 3. Turkish Straits North to South: **B-B-M-D-A**
+- **B**lack Sea → **B**osphorus Strait → Sea of **M**armara → **D**ardanelles Strait → **A**egean Sea
+- *(Mnemonic: **B**ig **B**lue **M**arine **D**olphins **A**rrive)*
+
+### 4. Horn of Africa Countries: **SEED**
+- **S**omalia
+- **E**thiopia (Landlocked!)
+- **E**ritrea
+- **D**jibouti
+
+### 5. South American Landlocked Nations: **BP**
+- **B**olivia
+- **P**araguay
+- *(Mnemonic: High **B-P** in South America)*
+
+### 6. Intersecting Point of Equator and Prime Meridian:
+- **0° Latitude, 0° Longitude** lies in the **Gulf of Guinea (Atlantic Ocean)**, off the coast of West Africa.
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

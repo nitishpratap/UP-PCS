@@ -3,59 +3,174 @@ hide:
   - toc
 ---
 
-# Topic 8 — Sher Shah (शेरशाह) Suri — Must-Score Facts
+# Topic 8 — Sher Shah Suri & Sur Interregnum (1540–1555) — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">🏰 Medieval India &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 8 — Sher Shah (शेरशाह) Suri</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 8 — Sher Shah Suri & Sur Interregnum (1540–1555)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2024** | **Grand Trunk Road (NH-19) Heritage Upgradation:** Development of cultural tourism corridors and historical Sarais preservation by NHAI | GT Road (*Sadak-i-Azam*) was built by **Sher Shah Suri** from Sonargaon (Bengal) to Rohtas Fort (Indus), with 1,700 Sarais |
+| **2023–2024** | **Kalinjar Fort (Banda, UP) Eco-Tourism Master Plan:** Infrastructure and light-and-sound show on Sher Shah's final siege | Sher Shah died on **22 May 1545** at Kalinjar Fort (Banda district, UP) due to an accidental gunpowder explosion (*Uqqa*) |
+| **2023** | **Purana Qila (Delhi) ASI Excavations:** Discovery of pre-Mauryan, PGW, and Rajput-Sultanate-Mughal cultural continuity | Sher Shah constructed the **Qila-i-Kuhna Mosque** and **Sher Mandal** (octagonal red sandstone pavilion) inside Purana Qila |
+| **2024** | **Sasaram Tourism Master Plan (Bihar Tourism):** Heritage conservation of Sher Shah Suri's Tomb in Sasaram | Octagonal three-tiered tomb in middle of lake, designed by **Mir Muhammad Aliwal Khan**; prototype for Indo-Islamic tombs |
+| **2023** | **Reserve Bank of India Monetary Heritage Display:** Tracing the roots of the Indian Rupee (*Rupiya*) | Sher Shah Suri introduced the standard silver **Rupiya** of 178 grains and copper **Dam** of 380 grains (ratio 1:64) |
 
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Farid Khan** (फरीद खान) of **Sasaram** (सासाराम) became **Sher Khan** (शेर खान) after the tiger-kill tradition, then **Sher Shah Suri** as Padshah from **1540**.
-2. **Daurah (दौराह) (1532)** was Humayun versus Afghan chiefs; it is **not** Sher Shah's Chausa battle.
-3. **Jarib** (जरीब) is the **measuring rope** used to fix the bigha; it is **not** a tax. Taxes included **Jaribana** (जरीबाना - survey fee) and **Muhasilana** (मुहसिलाना - tax collection fee). **Desai** is the revenue collector.
-4. **Todar Mal** (टोडर मल) trained under Sher Shah's revenue system before carrying measurement practice into Akbar (अकबर)'s court.
-5. **Jayata and Kumpa** were loyal **Marwar** Rathore captains who died fighting; they were **not** Mewar (मेवाड़) warriors.
-6. **Barid** (बरीद - spy) watched officers; the **qazi** (क़ाज़ी) judged by sharia and stayed outside the revenue chain.
-7. **Farid Khan** was educated at **Jaunpur** (जौनपुर) (**Siraj-i-Hind**). He took **Hazrat-e-Ala** (हज़रत-ए-आला) in Bengal service, then **Sher Shah** (शेरशाह) after **Chausa (1539)**.
-8. **Khayr-ul-Manazil** near Purana Qila was built by **Maham Anaga** in Akbar's era, not by Sher Shah. **Qila-i-Kuhna** mosque stands **inside** Purana Qila — Sher Shah's work.
-9. **Farid Khan** studied at **Jaunpur**, the **Siraj-i-Hind** centre, before Bihar service.
-10. **Qazi Fazilat** served as **Amin-i-Bengal**; Bengal was organised into **sirkars** under Sur rule.
-11. **Todar Mal** served Sher Shah’s revenue system before joining Akbar.
-12. **Zabt** fixed an annual **cash** demand on measured land. This became the template for Akbar’s (अकबर) system under Todar Mal.
-13. **Sarais** stood about every **12 kos** (roughly 20 miles), offering lodging, supplies, and security.
-14. **Kos-minars** marked distances along the road. A **dak** horse-post carried news quickly.
-15. **Diwan-i-Ariz** was the central military office.
-16. **Statement 1 is correct:** Originally named **Farid Khan** (born at Sasaram, Bihar to Hasan Khan Sur, a jagirdar), he was awarded the title **Sher Khan** by Bahar Khan Lohani (ruler of Bihar) after single-handedly slaying a tiger. Following his decisive victory over Humayun at Kannauj (1540 CE), he assumed the royal imperial style **Sher Shah Sultan-i-Adil**.
-17. **Statement 2 is correct:** Although Sher Shah's personal reign was exceptionally brief (1540–1545 CE, five years), his administrative innovations in land revenue, provincial organization, currency, and communication networks served as the direct administrative blueprint adopted and institutionalized by Akbar.
-18. **Statement 3 is incorrect:** Sher Shah maintained a direct standing military force using branding of horses (*Dagh*) and descriptive rolls (*Chehra*), modeled on Alauddin Khalji. The elaborate **Mansabdari** system (with its *Zat* and *Sawar* ranks) was formulated decades later by Emperor **Akbar**, and it was strictly **non-hereditary**.
-19. **Statement 1 is correct (Cause):** While Humayun was returning from Bengal, Sher Khan blocked his route along the Ganga, challenging Mughal supremacy over eastern and northern India.
-20. **Statement 2 is correct (Course):** On 26 June 1539 CE, Sher Khan launched a surprise night attack on the Mughal camp at Chausa (near Buxar, Bihar). Humayun's army was shattered; Humayun plunged into the Ganga on horseback and was rescued from drowning by a humble water-carrier (*bhishti*) named Nizam using an inflated leather water-skin (*mashak*). (Humayun later rewarded Nizam with a half-day reign on the Mughal throne, during which Nizam issued leather coins).
-21. **Statement 3 is incorrect (Result):** Humayun did *not* recover Delhi; on the contrary, Sher Khan assumed the title *Sher Shah*, advanced west, and fought the Battle of Kannauj/Bilgram in 1540 CE, where he decisively expelled Humayun from India.
-22. **Pair 1 is correctly matched:** *Jarib* was the standardized measuring rope used by Sher Shah's revenue officers to measure cultivable land and establish the standard *bigha*.
-23. **Pair 2 is correctly matched:** *Rai* was the schedule of crop rates per bigha based on land fertility classifications (good, middling, bad).
-24. **Pair 3 is NOT correctly matched (Correct Answer):** *Desai* (or *Amil*) was a revenue officer/collector, not a "measuring rope tax". The surveyor's fee charged for measurement was called *Jaribana* (approx. 2.5%), and the tax collector's fee was *Muhasilana* (approx. 5%).
-25. **Assertion (A) is correct:** On 17 May 1540 CE, the Battle of Kannauj (also known as the Battle of Bilgram, in Hardoi district, UP) was fought between Sher Shah and Humayun. Humayun's large but demoralized army was routed without any major artillery engagement due to heavy rains flooding the Mughal camp and Sher Shah's superior cavalry tactics.
-26. **Reason (R) is correct:** The defeat at Kannauj was absolute; Humayun lost Delhi and Agra, wandered through Rajasthan and Sindh, and lived in exile at the Safavid court of Shah Tahmasp in Persia for 15 years, finally recovering Delhi and Agra in 1555 CE after the Sur Empire fragmented.
-27. **Why (R) does NOT explain (A):** Reason (R) describes the **aftermath and historical consequence** of the battle, not the **cause** of Sher Shah's victory. Sher Shah won due to superior military tactics, entrenchment, weather advantages, and divisions in the Mughal leadership—not because Humayun fled into exile afterward. Hence, both statements are true, but (R) is not the correct explanation of (A).
-28. **2. Battle of Daurah (1532 CE):** Humayun defeated the Afghan chiefs in UP.
-29. **4. Battle of Chausa (June 1539 CE):** Sher Shah routed Humayun near Buxar.
-30. **1. Battle of Kannauj / Bilgram (May 1540 CE):** Decisive Sur victory expelling Humayun.
-31. **3. Death of Sher Shah at Kalinjar (May 1545 CE):** Sher Shah died from an accidental gunpowder explosion during the siege of Kalinjar fort in Bundelkhand.
-32. **Chronological Sequence:** 2 (1532) → 4 (1539) → 1 (1540) → 3 (1545) = **2-4-1-3**.
-33. **A. Shiqdar → 2. Law and order at pargana:** Military executive officer maintaining law, order, and police administration in the pargana.
-34. **B. Munshif (or Amin) → 1. Accounts/civil justice at pargana:** Handled judicial matters, assessment records, and civil disputes at the pargana level.
-35. **C. Amil / Desai → 3. Land revenue collection:** Responsible for assessing and physically collecting the agrarian taxes from peasants.
+2. The Sur empire lasted only about **1540–1545**, yet its admin, roads, and revenue model shaped later Mughal (मुग़ल) practice.
+3. At **Chausa (चौसा) on 26 June 1539**, Sher Shah defeated Humayun (हुमायूँ), who escaped across the Ganga (गंगा) on a mashak.
+4. At **Kannauj (कन्नौज)/Bilgram (बिलग्राम) on 17 May 1540**, Sher Shah won decisively and Humayun fled into exile.
+5. **Daurah (दौराह) (1532)** was Humayun versus Afghan chiefs; it is **not** Sher Shah's Chausa battle.
+6. Chronology fact: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh (समुगढ़) 1658**.
+7. Sher Shah died in **May 1545** at the **Kalinjar** (कालिंजर) siege from a **gunpowder** blast; his tomb is the lake mausoleum at **Sasaram**.
+8. Successor **Islam Shah (Jalal Khan)** ruled **1545–1553**; Humayun returned to Delhi–Agra in **1555**.
+9. Each pargana (परगना) had a **Shiqdar** (शिक़दार) for law and order, a **Munsif** (मुंसिफ़) for accounts and justice, and an **Amil/Desai** (आमिल / देसाई) for collection.
+10. **Jarib** (जरीब) is the **measuring rope** used to fix the bigha; it is **not** a tax. Taxes included **Jaribana** (जरीबाना - survey fee) and **Muhasilana** (मुहसिलाना - tax collection fee). **Desai** is the revenue collector.
+11. Land was classed good, middle, or bad; **rai** (राय) was the crop rate per **bigha**; **zabt** (ज़ब्ती) fixed an annual cash demand.
+12. The state issued a **patta** (पट्टा - title deed) to the peasant; **qabuliat** (क़बूलियत - acceptance agreement) was the peasant's written acceptance.
+13. **Todar Mal** (टोडर मल) trained under Sher Shah's revenue system before carrying measurement practice into Akbar (अकबर)'s court.
+14. The **Grand Trunk Road** (सड़क-ए-आज़म) ran from **Sonargaon** in Bengal to **Peshawar**, with **sarais** (सराय) about every **12 kos**.
+15. Currency fact: silver (रूपक) **rupiya** (रुपिया - ~178 grains), copper **dam** (दाम - ~1/40 of a rupiya), and gold **mohur** (मोहर); Akbar continued the **dam**.
+16. Key forts include **Rohtas** (रोहतास) in Bihar against Humayun's return and **Purana (पुराण) Qila** (पुराना किला) in Delhi.
+17. At **Sammel/Giri-Sumel in 1544**, Sher Shah fought **Rao Maldeo Rathore of Marwar (मारवाड़)**.
+18. **Jayata and Kumpa** were loyal **Marwar** Rathore captains who died fighting; they were **not** Mewar (मेवाड़) warriors.
+19. Centre offices: **Diwan-i-Wazarat** (दीवान-ए-विज़ारत) for finance, **Diwan-i-Ariz** (दीवान-ए-अर्घ) for the army (सेना), and **Diwan-i-Risalat** (दीवान-ए-रसालत) for grants.
+20. Monument order places **Sher Shah's Sasaram tomb** after Atala Jaunpur (जौनपुर) and before Humayun's tomb at Delhi.
+21. **Barid** (बरीद - spy) watched officers; the **qazi** (क़ाज़ी) judged by sharia and stayed outside the revenue chain.
+22. Horses were branded with **dagh** (दाग़) and soldiers with **chehra** (चेहरा / हुलिया), a precursor to the later Mughal chehra–dagh system.
+23. Sher Shah kept a standing force with registered men; he did **not** create hereditary mansabdari (मनसबदारी व्यवस्था) like Akbar.
+24. **Farid Khan** was educated at **Jaunpur** (जौनपुर) (**Siraj-i-Hind**). He took **Hazrat-e-Ala** (हज़रत-ए-आला) in Bengal service, then **Sher Shah** (शेरशाह) after **Chausa (1539)**.
+25. **Khayr-ul-Manazil** near Purana Qila was built by **Maham Anaga** in Akbar's era, not by Sher Shah. **Qila-i-Kuhna** mosque stands **inside** Purana Qila — Sher Shah's work.
+26. **Farid's Early Administrative Training:** Acquired profound first-hand agrarian experience between 1497 and 1518 CE managing his father Hasan Khan's jagirs of **Sasaram, Khawaspur, and Tanda** in Bihar, where he experimented with survey-based revenue collection.
+27. **Title 'Sher Khan':** Conferred upon Farid by **Bahar Khan Lohani** (Sultan Muhammad), the Afghan governor of South Bihar, after Farid killed a full-grown tiger with a single blow of his sword.
+28. **Service under Babur:** Sher Khan served in the Mughal army of Babur for a brief period in 1527–1528 CE, participating in the Chanderi campaign; he astutely observed the internal weaknesses, arrogance, and corrupt habits of the Mughal ruling elite.
+29. **Capture of Chunar Fort (1530 CE):** Acquired the impregnable strategic fort of **Chunar (Mirzapur, UP)** — the 'Gateway of Eastern India' — through marriage with **Lad Malika**, the wealthy widow of Taj Khan Sarangkhani.
+30. **Battle of Surajgarh (1534 CE):** Sher Khan defeated the combined armies of Sultan Mahmud of Bengal and the Lohani Afghans, making himself the undisputed master of Bihar.
+31. **Rescue of Humayun by Nizam at Chausa:** Following the rout of the Mughal army at the **Battle of Chausa (June 1539)**, Humayun was thrown into the flooded Ganges and saved from drowning by a humble water-carrier named **Nizam** (whom Humayun rewarded with a half-day reign in Agra).
+32. **Assumption of Royal Dignity (1539 CE):** Following victory at Chausa, Sher Khan formally crowned himself king, assuming the regal style ***Farid-ud-Din Sher Shah Alam Sultan-ul-Adil***, minting coins and reading the Khutba in his own name.
+33. **Expulsion of Humayun at Bilgram (1540 CE):** The **Battle of Kannauj (Bilgram, 17 May 1540)** was won by Sher Shah without artillery superiority, relying on brilliant cavalry maneuvers that drove Humayun across the Yamuna into exile in Iran.
+34. **Territorial Extent of Second Afghan Empire:** By 1545 CE, Sher Shah's empire extended from the Brahmaputra in Bengal to the Indus in the west, and from the Himalayas in the north to Malwa and Gwalior in the south.
+35. **Conquest of Malwa and Raisen (1542–1543 CE):** Captured the fortress of **Raisen** from Rajput chieftain **Puranmal**; when Rajput forces surrendered under oath of safe conduct, they were attacked following a fatwa by fanatic theologians — universally viewed as the sole dark stain on Sher Shah's honor.
+36. **Campaign in Marwar (1544 CE):** Fought the bloody **Battle of Sammel (Giri-Sumel)** against **Maldeo of Marwar** and his brave generals **Jaita and Kumpa**; Sher Shah barely avoided defeat by forging letters that caused distrust between Maldeo and his chieftains.
+37. **Famous Quote on Marwar Campaign:** Relieved by the narrow and costly victory at Sammel, Sher Shah famously exclaimed: ***'For a handful of bajra (millet), I had nearly lost the empire of Hindustan.'***
+38. **Division into 47 Sarkars:** Sher Shah reorganized his entire realm into **47 administrative divisions termed Sarkars**, completely bypassing hereditary feudal governors (*Muqtis*) to prevent regional warlordism.
+39. **Officers of the Sarkar (Shiqdar-i-Shiqdaran & Munsif-i-Munsifan):** The **Shiqdar-i-Shiqdaran** maintained military forces and executive peace; the **Munsif-i-Munsifan** supervised revenue settlement and functioned as the chief civil judge.
+40. **Officers of the Pargana:** Each Pargana was staffed by five standing officials: one **Shiqdar** (police officer), one **Munsif / Amil** (revenue collector), one **Fotadar** (treasurer), and two **Karkuns** (clerks recording in Persian and Hindi).
+41. **Standard Measuring Unit (Gaz-i-Sikandari):** Sher Shah standardized the yard-stick as the **Gaz-i-Sikandari** comprising **39 anguls (digits)**, and instituted the **Jarib** (measuring rope joined with iron links) to precisely demarcate arable fields.
+42. **Patta and Qabuliyat:** Established the legal system of **Patta (पट्टा / royal title deed)** detailing the peasant's land boundaries and tax assessment, matched by the peasant's signed **Qabuliyat (कबूलियत / deed of agreement)**.
+43. **Revenue Cesses (Jaribana & Mahasilana):** In addition to the standard 1/3rd land revenue, the state levied **Jaribana (सर्वेक्षण शुल्क / survey fee at 2.5%)** and **Mahasilana (संग्रह शुल्क / collection fee at 5%)** to remunerate field surveyors and amils.
+44. **Introduction of Pure Silver Rupiya:** Abolished debased billon currency and issued the pure silver **Rupiya** weighing **178 grains** (containing 173 grains of pure silver), which became the precursor of the modern Indian Rupee and remained standard under Mughals and British.
+45. **The Copper Dam:** Introduced the heavy copper coin termed **Dam** weighing **380 grains**; fixed the official monetary exchange ratio at **1 Silver Rupiya = 64 Copper Dams**.
+46. **Sadak-i-Azam (Grand Trunk Road):** Constructed four major national highways with planted fruit trees and wells; the primary highway (**Sadak-i-Azam**) ran 1,500 kos from **Sonargaon (Bengal) through Kolkata, Varanasi, Agra, Delhi, and Lahore to Rohtas Fort on the Indus**.
+47. **Sarais and Dak Chauki Network:** Constructed **1,700 Sarais (inns)** along imperial highways at every 2 kos; each sarai had separate boarding and drinking facilities for Hindus and Muslims, a market, and two fresh post-horses for royal couriers (**Dak Chauki**).
+48. **Principle of Collective Police Responsibility:** Imposed absolute law and order by holding local village headmen (**Muqaddams**) criminally liable: *'If a robbery occurred on a highway, the Muqaddams of the adjoining villages had to apprehend the culprit or pay the compensation themselves.'*
+49. **Architecture of Sher Shah's Tomb (Sasaram):** Designed by master architect **Mir Muhammad Aliwal Khan**; a 150-foot majestic octagonal three-tiered red sandstone mausoleum set on a square plinth in the middle of a large artificial lake.
+50. **Tragic Death at Kalinjar (22 May 1545):** Besieging Raja Kirat Singh at **Kalinjar Fort (Banda, UP)**, an explosive grenade/rocket (**Uqqa**) ricocheted off the fort wall and detonated the surrounding powder magazine, fatally burning Sher Shah, who lived just long enough to hear the fort had fallen.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+[c. 1472 / 1486 CE] Birth of Farid Khan (Sher Shah) in Narnaul / Sasaram
+   │
+[1497–1518 CE] Farid manages his father Hasan Khan's jagir in Sasaram (agrarian experiments)
+   │
+[c. 1522 CE] Conferred the title 'Sher Khan' by Bahar Khan Lohani of South Bihar
+   │
+[1530 CE] Acquires Chunar Fort through marriage with Lad Malika
+   │
+[1534 CE] Battle of Surajgarh: Sher Khan crushes the combined forces of Bengal and Lohanis
+   │
+[26 June 1539] Battle of Chausa: Sher Khan routs Humayun; assumes royal title 'Sher Shah'
+   │
+[17 May 1540] Battle of Kannauj (Bilgram): Humayun expelled; Second Afghan Empire founded
+   │
+[1540–1545 CE] Administrative Peak: GT Road, Silver Rupiya, 47 Sarkars, Patta & Qabuliyat
+   │
+[1544 CE] Battle of Sammel (Giri-Sumel) against Maldeo of Marwar (*"For a handful of bajra..."*)
+   │
+[22 May 1545] Fatal explosion of gunpowder missile (*Uqqa*) at the Siege of Kalinjar (Banda, UP)
+   │
+[1545–1553 CE] Reign of Islam Shah (Jalal Khan); codified civil and military laws
+   │
+[22 June 1555] Battle of Sirhind: Sikandar Suri defeated by Humayun; Sur Dynasty overthrown
+```
+
+### Dynastic Succession of the Sur Empire (1540–1555 CE)
+
+| Ruler | Regnal Span | Key Landmark & Events | Capital / Center |
+|---|---|---|---|
+| **Sher Shah Suri** | 1540–1545 CE | Founder; GT Road, Silver Rupiya, land revenue reforms; died at Kalinjar (1545) | Delhi / Agra / Sasaram |
+| **Islam Shah Suri** (Jalal Khan) | 1545–1553 CE | Second son; codified regulations, maintained father's roads and forts; built Mankot Fort | Delhi / Gwalior |
+| **Firuz Shah Suri** | 1553 CE (12 days) | 12-year-old son of Islam Shah; murdered by his maternal uncle Mubariz Khan | Gwalior |
+| **Muhammad Adil Shah** (Mubariz Khan)| 1553–1557 CE | Debauched ruler; appointed Hindu general **Hemu** as Prime Minister (*Vikramaditya*) | Chunar |
+| **Ibrahim Shah Suri** | 1555 CE | Rebelled against Adil Shah; seized Delhi and Agra; defeated by Sikandar Suri | Agra |
+| **Sikandar Shah Suri** | 1555 CE | Defeated by Humayun and Bairam Khan at **Battle of Sirhind (June 1555)**; Sur rule ended | Delhi / Punjab |
+
+## 📊 Quick Reference Grid
+
+### 1. Sur Central, Provincial & Local Administration Hierarchy
+
+| Tier / Division | In-Charge Official(s) | Primary Jurisdictional Mandate |
+|---|---|---|
+| **Central Ministries** | **Diwan-i-Wizarat** | Finance and revenue department headed by the Wazir |
+| **Central Ministries** | **Diwan-i-Arz** | Military recruitment, troop inspections, and muster-rolls |
+| **Central Ministries** | **Diwan-i-Insha** | Imperial secretariat, royal edicts (*firmans*), and correspondence |
+| **Central Ministries** | **Diwan-i-Risalat** | Religious affairs, charitable endowments, and foreign relations |
+| **Central Ministries** | **Diwan-i-Qaza** | Judicial administration headed by the Chief Qazi |
+| **Central Ministries** | **Diwan-i-Barid** | Intelligence, espionage network, and postal courier horses |
+| **Sarkar (District)** (47 total) | **Shiqdar-i-Shiqdaran** | Chief military and executive officer; maintained law and order in the Sarkar |
+| **Sarkar (District)** | **Munsif-i-Munsifan** | Chief judicial officer for civil suits and supervisor of revenue assessment |
+| **Pargana (Sub-District)** | **Shiqdar** | Executive officer and magistrate of the Pargana |
+| **Pargana (Sub-District)** | **Amil / Munsif** | Pargana land revenue assessment and tax collection officer |
+| **Pargana (Sub-District)** | **Fotadar (Khazanchi)** | Pargana treasurer in charge of coin receipts |
+| **Pargana (Sub-District)** | **Two Karkuns (Clerks)**| One clerk recording accounts in **Persian**, one in **Hindi (vernacular)** |
+| **Village (Gram)** | **Muqaddam / Chaudhari** | Village headman responsible for maintaining peace and delivering tax quota |
+| **Village (Gram)** | **Patwari** | Village land record-keeper and crop register accountant |
+
+### 2. Economic, Agrarian & Currency Innovations
+
+| System / Innovation | Standard Value / Metric | Operational Detail & Historical Importance |
+|---|---|---|
+| **Silver Rupiya (चांदी का रुपया)** | **178 grains** (173 gr pure silver) | Established standard silver currency that replaced debased billon coins; ancestor of modern Rupee |
+| **Copper Dam (तांबे का दाम)** | **380 grains** | Heavy, durable copper currency for day-to-day common market transactions |
+| **Coinage Exchange Ratio** | **1 Rupiya = 64 Dams** | Fixed state exchange ratio between standard silver and copper coins |
+| **Gaz-i-Sikandari** | **39 anguls (digits)** | Standard unit of linear measurement for agricultural field surveys |
+| **Measuring Instrument** | **Jarib (जरीब)** | Iron-linked measuring chain replacing earlier twisting hemp ropes for survey accuracy |
+| **State Revenue Demand** | **1/3rd (one-third)** | Fixed share of the average crop produce, payable either in cash or in kind |
+| **Patta (पट्टा)** | Official Land Deed | Royal document issued to peasants certifying exact land title and assessed dues |
+| **Qabuliyat (कबूलियत)** | Acceptance Agreement | Written document signed by peasant acknowledging legal liability to pay state tax |
+| **Jaribana (जरीबाना)** | **2.5% cess** | Survey fee paid by peasant to fund official land measurement parties |
+| **Mahasilana (महाशिलाना)** | **5.0% cess** | Collection tax paid by peasant to maintain the state tax collection machinery |
+
+### 3. Highways (*Sadak-i-Azam*) & Sarais Network
+
+| Highway Route | Starting Point → Terminal Point | Key Intermediate Cities |
+|---|---|---|
+| **Road 1: Sadak-i-Azam (GT Road)** | **Sonargaon (Bengal) → Rohtas Fort (Indus)** | Kolkata, Varanasi, Prayagraj, Agra, Delhi, Lahore |
+| **Road 2: Western Route** | **Agra → Burhanpur** | Dholpur, Gwalior, Malwa, Burhanpur |
+| **Road 3: Rajputana Route** | **Agra → Jodhpur & Chittor** | Fatehpur Sikri, Amber, Ajmer, Jodhpur |
+| **Road 4: Punjab Route** | **Lahore → Multan** | Connects Punjab plains with the lower Indus basin |
+
+### 4. Monuments & Architecture of the Sur Period
+
+| Monument | Location | Patron / Builder | Architectural Landmark & Salient Features |
+|---|---|---|---|
+| **Sher Shah's Tomb** | Sasaram (Bihar) | Mir Muhammad Aliwal Khan (architect) | Majestic 150 ft octagonal tomb in the middle of a lake; transition from Lodi to Mughal style |
+| **Qila-i-Kuhna Mosque** | Purana Qila, Delhi | Sher Shah Suri (1541 CE) | Pointed horseshoe arches, white marble inlays, five-bay facade; pinnacle of Afghan style |
+| **Sher Mandal** | Purana Qila, Delhi | Sher Shah Suri (c. 1541 CE) | Octagonal two-storey red sandstone pavilion; later used by Humayun as library |
+| **Rohtas Fort** | Jhelum (Punjab, Pak) | Sher Shah Suri (1541–1543 CE) | Massive defensive fortification built to check the rebellious Gakhars and Mughal re-entry |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Difference | Hindi |
+|---|---|------------|-------|
 | Farid Khan | Sher Shah | Birth name vs Padshah title after 1540 | फरीद खान / शेर शाह |
 | Sher Khan | Sher Shah | Tiger-kill title in Bihar vs imperial title | शेर खान / शेर शाह |
 | Chausa | Kannauj | 1539 escape vs 1540 exile | चौसा / कन्नौज |
@@ -71,10 +186,28 @@ hide:
 | Jaunpur education | Sasaram birth | **Siraj-i-Hind** schooling vs birthplace/tomb | जौनपुर / सासाराम |
 | Marwar | Mewar (Jayata–Kumpa) | Rathore Maldeo vs Sisodia Pratap/Sanga | मारवाड़ / मेवाड़ |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **Sher Shah's Two Battles Against Humayun:**
+   - 1539: **Chausa** (Sher Shah became king; Nizam water-carrier saved Humayun).
+   - 1540: **Kannauj / Bilgram** (Humayun driven into 15-year exile; Second Afghan Empire founded).
+   - *Trap Alert:* Kannauj is Bilgram (Hardoi district, UP). Never confuse with Chausa (Buxar, Bihar).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+2. **Currency Ratio Lock:**
+   - **Silver Rupiya (178 grains)** = **64 Copper Dams (380 grains)**.
+   - *Mnemonic Hook:* "1 Silver = 64 Copper Dams".
+
+3. **Administration Hierarchy Hook: S–S–P–G**
+   - **S**ubah (De facto military zones)
+   - **S**arkar (47 divisions; Shiqdar-i-Shiqdaran + Munsif-i-Munsifan)
+   - **P**argana (Shiqdar + Amil + Fotadar + 2 Karkuns)
+   - **G**ram (Muqaddam + Patwari)
+
+4. **Kalinjar Death Trap:**
+   - Died on **22 May 1545** at **Kalinjar Fort (Banda district, UP)**.
+   - Cause: An explosive rocket/grenade (**Uqqa**) bounced off the fort wall and detonated the gunpowder depot.
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

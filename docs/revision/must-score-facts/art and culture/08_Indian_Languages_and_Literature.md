@@ -3,86 +3,283 @@ hide:
   - toc
 ---
 
-# Topic 8 — Indian Languages & Literature — Must-Score Facts
+# Topic 8 — Indian Languages and Literature — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">🎨 Art & Culture &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 8 — Indian Languages & Literature</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 8 — Indian Languages and Literature</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| 3 Oct 2024 | Union Cabinet officially conferred **Classical Language (शास्त्रीय भाषा)** status on **5 new languages**: **Marathi**, **Pali**, **Prakrit**, **Assamese**, and **Bengali** | Expands India's Classical Languages tally from 6 to **11**; highest-yield 2024–26 prelims topic |
+| March 2024 | **Nepal–India Sanskrit Conclave** organized at **Kathmandu**, Nepal to strengthen bilateral Sanskrit research and digital manuscript access | Joint international initiative for classical linguistic preservation |
+| 2024–25 | **58th Jnanpith Award** conferred jointly on **Jagadguru Rambhadracharya** (Sanskrit) and **Gulzar** (Urdu) | Highest literary honor; second Sanskrit winner and fifth Urdu winner |
+| Annual | **Sahitya Akademi Yuva Puraskar** conferred across **23 languages** in 2025 (Dogri deferred); age limit is strictly **35 years and below** | Distinguish from main Sahitya Akademi Award and Jnanpith |
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Yuva Puraskar** is Sahitya Akademi’s prize for writers of **35** and under. It is not Jnanpith.
-2. **Shruti** (श्रुति) is the heard Veda stack of Samhita (संहिता), Brahmana (ब्राह्मण), Aranyaka (आरण्यक), and Upanishad (उपनिषद्). **Smriti** (स्मृति) covers epics, Puranas, Dharmashastra, and related remembered texts.
-3. **Valmiki**’s (वाल्मीकि) *Ramayana* (रामायण) has **seven** kandas. **Vyasa**’s (व्यास) *Mahabharata* (महाभारत) has **eighteen** parvas. The *Bhagavad Gita* (भगवद्गीता) sits inside **Bhishma Parva** (भीष्म पर्व).
-4. **Kalidasa** (कालिदास) wrote *Meghaduta* (मेघदूत), *Raghuvamsha* (रघुवंश), *Kumarasambhava* (कुमारसंभव), and *Ritusamhara* (ऋतुसंहार). His three dramas are *Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्), *Vikramorvashiya* (विक्रमोर्वशीयम्), and *Malavikagnimitram* (मालविकाग्निमित्रम्).
-5. **Trivikrama Bhatta** (त्रिविक्रम भट्ट) wrote *Nalachampu* (नलचम्पू). **Somadeva** (सोमदेव) wrote *Kathasaritsagara* (कथासरित्सागर). **Jayadeva** (जयदेव) wrote *Gita Govinda* (गीत गोविंद). **Kshemendra** (क्षेमेन्द्र) wrote *Brihatkathamanjari* (बृहत्कथामंजरी).
-6. **Charaka** (चरक) wrote the *Charaka Samhita* (चरक संहिता). **Sushruta** (सुश्रुत) wrote the *Sushruta Samhita* (सुश्रुत संहिता). **Aryabhata** (आर्यभट) wrote the *Aryabhatiya* (आर्यभटीय). **Varahamihira** (वराहमिहिर) wrote the *Brihatsamhita* (बृहत्संहिता).
-7. **Ashvaghosha** (अश्वघोष) wrote *Buddhacharita* (बुद्धचरित) and *Saundarananda* (सौंदरानंद). **Bhasa** (भास) left about **13** plays. King **Harsha** (हर्ष) wrote *Ratnavali* (रत्नावली), *Nagananda* (नागानन्द), and *Priyadarshika* (प्रियदर्शिका).
-8. **Amir Khusrau** (अमीर खुसरो) wrote in Persian and early Hindavi. He served under multiple Delhi Sultanate rulers and coined the phrase about the Indian parrot (*Tuti-i-Hind*).
-9. **Basaveshwara** (बसवेश्वर) wrote Kannada vachanas. **Jnaneshwar** (ज्ञानेश्वर) wrote the Marathi *Jnaneshwari* (ज्ञानेश्वरी). **Alvars** (आलवार) composed the *Nalayira Divya Prabandham* (नालायिर दिव्य प्रबंधम्).
-10. **Tulsidas** (तुलसीदास) wrote the Awadhi *Ramcharitmanas* (रामचरितमानस). **Surdas** (सूरदास) wrote Braj *Sursagar* (सूरसागर). **Malik Muhammad Jayasi** (मलिक मुहम्मद जायसी) wrote the Awadhi *Padmavat* (पद्मावत).
-11. **Bhartendu Harishchandra** (भारतेन्दु हरिश्चंद्र) of Banaras is the father of modern Hindi dramatic and prose literature.
-12. **Kamban** (कंबन) wrote *Ramavataram* (रामावतारम्), the Tamil Ramayana. ***Tirumurai*** (तिरुमुरै) is the Saiva hymn corpus treated as a Fifth Veda of Tamil Shaivism.
-13. **Alvars** number **12** (Vaishnava); **Nayanars** (नायनार) number **63** (Shaiva). Do not reverse the counts.
-14. **Panini** (पाणिनि) wrote the *Ashtadhyayi* (अष्टाध्यायी). **Patanjali** (पतंजलि) wrote the *Mahabhashya* (महाभाष्य). **Yaska** (यास्क) wrote the *Nirukta* (निरुक्त). **Katyayana** (कात्यायन) wrote the *Varttika* (वार्त्तिक). Panini is not a Pushyamitra court poet. Patanjali is Shunga-linked.
-15. **Kalhana**’s *Rajatarangini* is the Sanskrit chronicle of **Kashmir** kings, completed under **Jayasimha / Jai Singh (1128–1149)**, in **eight** tarangas. Continuators are **Jonaraja** and **Srivara**.
-16. **Harsha** (हर्ष) wrote *Ratnavali* (रत्नावली), *Priyadarshika* (प्रियदर्शिका), and *Nagananda* (नागानन्द). *Harshacharita* and *Kadambari* are **Banabhatta**. *Karpuramanjari* (कर्पूरमंजरी) is **Rajasekhara** (राजशेखर), not Harsha.
-17. **Sriharsha** (श्रीहर्ष) wrote *Naishadhiyacharita* (नैषधीयचरित). **Bharavi** (भारवि) wrote *Kiratarjuniya* (किरातार्जुनीय). **Magha** (माघ) wrote *Shishupalavadha* (शिशुपालवध). *Dashakumaracharita* (दशकुमारचरित) by **Dandin** (दंडी) is not a Mahabharata theme.
-18. **Varahamihira** (वराहमिहिर) wrote *Panchasiddhantika* (पंचसिद्धांतिका) (based on **Greek** astronomy), *Brihatsamhita* (बृहत्संहिता) (encyclopedic), and *Brihat Jataka* (बृहज्जातक). *Amarakosha* (अमरकोश) is **Amarasimha** (अमरसिंह), not Varaha.
-19. **Charaka Samhita** (चरक संहिता) is Ayurveda medicine in **120 chapters** and **eight** sections. **Bhaskara II**’s (भास्कर द्वितीय) *Siddhantashiromani* (सिद्धांत शिरोमणि) has four parts: *Lilavati* (लीलावती), *Bijaganita* (बीजगणित), *Ganitadhyaya* (गणिताध्याय), *Goladhyaya* (गोलाध्याय) (algebra fame).
-20. **Aryabhata** (आर्यभट) wrote *Aryabhatiya* (आर्यभटीय); earth is spherical and rotates; often tagged for trigonometry and decimal place-value teaching. **Zero** as a numeral is credited to an **anonymous Indian** (Arabs used it by **873 CE**).
-21. **Manusmriti** (मनुस्मृति) is mainly the social and law system. **Mitakshara** (मिताक्षरा) is **Vijnaneshwara** (विज्ञानेश्वर) on Yajnavalkya. **Dayabhaga** (दायाभाग) is **Jimutavahana** (जीमूतवाहन).
-22. **Vishakhadatta** (विशाखदत्त) also wrote *Devichandraguptam* (देवीचन्द्रगुप्तम्) (do not assign it to **Bilhana** (बिल्हण)).
-23. **Kalidasa** (कालिदास) belongs to the Chandragupta II (चंद्रगुप्त द्वितीय) tradition.
-24. **Amarasimha** (अमरसिंह) belongs to Chandragupta II’s Navaratna circle. He is **not** Harshavardhana’s poet.
-25. **Sriharsha** (श्रीहर्ष) wrote *Naishadhiyacharita* (नैषधीयचरित) on **Nala and Damayanti**.
-26. **Bharavi** (भारवि) wrote *Kiratarjuniya* (किरातार्जुनीय) on Arjuna’s combat with Shiva as a kirata.
-27. **Magha** (माघ) wrote *Shishupalavadha* (शिशुपालवध) on Krishna and Shishupala.
-28. **Dandin** (दंडी) wrote *Dashakumaracharita* (दशकुमारचरित) (adventures of ten princes) and *Kavyadarsha* (काव्यादर्श). It is **not** a Mahabharata-theme epic.
-29. **Kalhana** (कल्हण) wrote *Rajatarangini* (राजतरंगिणी), a metrical Sanskrit chronicle of the kings of **Kashmir**.
-30. **Jonaraja** (जोनराज) continued the narrative into the Sultanate age (to Zain-ul-Abidin). His pupil **Srivara** (श्रीवर) continued after Jonaraja.
-31. **Vakpati** (वाकपति) wrote the Prakrit *Gaudavaho* (गौडवहो) on the digvijaya of **Yasovarman** (यशोवर्मन) of Kannauj — a historical poem often paired with *Rajatarangini* in stems.
-32. **Bilhana** (बिल्हण) wrote *Vikramankadevacharita* (विक्रमांकदेवचरित). **Merutunga** (मेरुतुंग) wrote *Prabandha Chintamani* (प्रबंध चिंतामणि). **Padmagupta** (पद्मगुप्त) wrote *Navasahasankacharita* (नवसाहसांकचरित) on **Paramara** (परमार) origin lore.
-33. **Varahamihira** (वराहमिहिर) wrote *Panchasiddhantika* (पंचसिद्धांतिका) (based on **Greek** astronomy), *Brihatsamhita* (बृहत्संहिता) (encyclopedic), and *Brihat Jataka* (बृहज्जातक).
-34. **Aryabhata** (आर्यभट) wrote *Aryabhatiya* (आर्यभटीय) covering arithmetic, algebra, plane and spherical trigonometry, and astronomy. He taught that the earth is **spherical** and **rotates** on its axis. He is often called a pioneer of trigonometry and linked with decimal place-value teaching.
-35. **Bhaskara II (Bhaskaracharya)** (भास्कर द्वितीय) wrote *Siddhantashiromani* (सिद्धांत शिरोमणि) in four parts: *Lilavati* (लीलावती), *Bijaganita* (बीजगणित) (algebra), *Ganitadhyaya* (गणिताध्याय), and *Goladhyaya* (गोलाध्याय). He is the usual “algebra” name in options.
+1. India now officially recognizes **11 Classical Languages (शास्त्रीय भाषाएं)** following the landmark Union Cabinet decision of **3 October 2024**:
+   - **Tamil** (2004 — First language recognized)
+   - **Sanskrit** (2005)
+   - **Telugu** (2008)
+   - **Kannada** (2008)
+   - **Malayalam** (2013)
+   - **Odia** (2014)
+   - **Marathi** (October 2024)
+   - **Pali** (October 2024)
+   - **Prakrit** (October 2024)
+   - **Assamese** (October 2024)
+   - **Bengali** (October 2024).
+2. The revised statutory criteria for conferring Classical Language status in India require:
+   - High antiquity of its early texts/recorded history spanning **1,500 to 2,000 years**.
+   - A body of ancient literature/texts considered valuable heritage by generations of speakers.
+   - An **original literary tradition** not borrowed from another language community.
+   - Distinctness between the classical language and its modern forms or offshoots.
+3. The **Eighth Schedule** of the Constitution of India contains **22 recognized languages**; originally there were **14 languages** in 1950:
+   - **Sindhi** was added by the **21st Constitutional Amendment Act, 1967**.
+   - **Konkani, Manipuri (Meitei), and Nepali** were added by the **71st Constitutional Amendment Act, 1992** (Mnemonic: *K-M-N* / नमक).
+   - **Bodo, Dogri, Maithili, and Santhali** were added by the **92nd Constitutional Amendment Act, 2003** (Mnemonic: *B-D-M-S* / बोडोमास).
+4. **English** and **Rajasthani** are **NOT** included in the Eighth Schedule of the Constitution, although both are officially recognized by the **Sahitya Akademi** (making 24 Sahitya Akademi languages).
+5. **Bhojpuri** is neither in the Eighth Schedule nor recognized by the Sahitya Akademi.
+6. The **Rigveda** (ऋग्वेद) is the **oldest surviving literary text in any Indo-European language** (~1500–1200 BCE), composed in archaic Vedic Sanskrit, comprising **10 Mandalas (books)**, **1,028 Suktas (hymns)**, and **10,580 verses**.
+7. Mandalas **2 to 7** of the Rigveda are the oldest family books (*Vamsha Mandalas*), composed by hereditary sage families (Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vashistha).
+8. The sacred **Gayatri Mantra** (गाdivided into 3 padas addressed to Savitr / the Sun deity) is composed by Sage **Vishvamitra** and is located in the **Third Mandala (Mandala 3)** of the Rigveda.
+9. The **Purusha Sukta** (पुरुष सूक्त), located in the **Tenth Mandala (Mandala 10, Hymn 90)** of the Rigveda, contains the **earliest textual mention of the Four Varnas** (Brahmana, Kshatriya, Vaishya, Shudra) originating from the cosmic sacrifice of the primeval Purusha.
+10. The **Samaveda** (सामवेद / Book of Chants) contains 1,875 verses (almost all extracted from the Rigveda, except 75) rearranged musically for singing during soma sacrifices by the **Udgatri** priest; it is the origin of Indian music.
+11. The **Yajurveda** (यजुर्वेद / Book of Sacrificial Formulas) is the liturgical handbook for the **Adhvaryu** priest, divided into two distinct recensions:
+    - **Shukla Yajurveda** (White Yajurveda / *Vajasaneyi Samhita*) — contains only pure mantras in verse.
+    - **Krishna Yajurveda** (Black Yajurveda / *Taittiriya*, *Maitrayani*, *Katha*) — contains mixed verses and explanatory prose commentaries.
+12. The **Atharvaveda** (अथर्ववेद), attributed to the sages **Atharvan** and **Angiras**, deals with daily folk religion, healing charms, magic spells against diseases, statecraft, and speculative cosmology, overseen during sacrifices by the chief supervising priest called the **Brahma**.
+13. The **Brahmanas** (ब्राह्मण ग्रंथ) are massive prose manuals attached to each Veda explaining the mystical, symbolic, and procedural significance of rituals:
+    - *Rigveda:* **Aitareya Brahmana** (contains the coronation ritual of kings / *Mahabhisheka* and story of Sunahsepa) and **Kaushitaki (Sankhayana) Brahmana**.
+    - *Yajurveda:* **Satapatha Brahmana** (the longest and most important Brahmana, detailing the Ashvamedha, Rajasuya, and the Deluge myth of Manu) and **Taittiriya Brahmana**.
+    - *Samaveda:* **Tandya (Panchavimsha) Brahmana** (mentions the *Vratyastoma* ritual to admit non-Aryans into Aryan society) and **Jaiminiya Brahmana**.
+    - *Atharvaveda:* **Gopatha Brahmana** (only surviving Brahmana of Atharvaveda).
+14. The **Aranyakas** (आरण्यक / 'Forest Texts') form the transition between external ritual sacrifice (*Karma-Kanda*) and inner philosophical reflection (*Jnana-Kanda*), studied by ascetics in forest hermitages.
+15. The **Upanishads** (उपनिषद् / literally 'sitting down near a teacher') represent the philosophical zenith of Vedic literature (**Vedanta**); there are traditionally **108 Upanishads** (according to the *Muktika Upanishad*), of which **11 are recognized as Principal (Mukhya) Upanishads** commented upon by Adi Shankaracharya.
+16. The **Brihadaranyaka Upanishad** (बृहदारण्यक उपनिषद् / attached to Shukla Yajurveda) is the **oldest and largest Upanishad**, celebrated for the philosophical debate between Sage **Yajnavalkya** and his scholarly wife **Maitreyi**, the questioning by female philosopher **Gargi Vachaknavi** in King Janaka's court, the negative theological definition of Brahman as **"Neti, Neti"** (Not this, not this), and the peace prayer *"Asato ma sadgamaya, tamaso ma jyotirgamaya"*.
+17. The **Chandogya Upanishad** (छान्दोग्य उपनिषद् / attached to Samaveda) contains the profound Mahavakya **"Tat Tvam Asi"** (तत्त्वमसि / That Thou Art) taught by Sage Uddalaka Aruni to his son Shvetaketu, the inspiring story of **Satyakama Jabala** (who was accepted by Gautama despite unverified lineage due to his truthfulness), and the earliest mention of the **first three Ashramas**.
+18. The national motto of India, **"Satyameva Jayate"** (सत्यमेव जयते / Truth Alone Triumphs), inscribed below the State Emblem of India at the base of the Lion Capital of Ashoka, is taken directly from the **Mundaka Upanishad** (मुंडक उपनिषद्, 3.1.6).
+19. The **Mundaka Upanishad** also famously compares frail ritual sacrifices to **"unsteady leaky boats"** (*Plava hyete adridha yajnaroopah*), urging seekers toward transcendental wisdom.
+20. The **Katha Upanishad** (कठ उपनिषद् / attached to Black Yajurveda) narrates the immortal metaphysical dialogue between the young seeker **Nachiketa** and **Yama** (Lord of Death) regarding the secret of life after death and the distinction between **Shreyas** (the spiritually good) and **Preyas** (the worldly pleasant).
+21. The **Mandukya Upanishad** (मांडूक्य उपनिषद् / attached to Atharvaveda) is the **shortest principal Upanishad** (only 12 prose verses), yet deeply revered; it expounds the four states of human consciousness through the sacred syllable **AUM** (*Vaishvanara* / waking, *Taijasa* / dreaming, *Prajna* / deep sleep, and **Turiya** / transcendental fourth state of pure consciousness).
+22. The **Jabala Upanishad** is celebrated as the **first text to explicitly mention all four Ashramas** together (Brahmacharya, Grihastha, Vanaprastha, and Sannyasa).
+23. The **Six Vedangas (वेदांग / Limbs of the Veda)** necessary for understanding Vedic texts:
+    - **Shiksha** (Phonetics / correct pronunciation of swaras)
+    - **Kalpa** (Ritual procedures and ethics; divided into *Srautasutras*, *Grihyasutras*, *Dharmasutras*, and **Sulbasutras** — the earliest manual of Indian geometry and fire-altar measurements)
+    - **Vyakarana** (Grammar)
+    - **Nirukta** (Etymology and linguistic explanation of difficult Vedic words; authored by **Yaska**)
+    - **Chhanda** (Metrics / poetic meters like Gayatri, Trishtubh; authored by **Pingala**)
+    - **Jyotisha** (Astronomy for calculating auspicious sacrifice dates; authored by **Lagadha**).
+24. The **Four Upavedas (उपवेद / Secondary Vedas)**:
+    - **Ayurveda** (Medicine and surgery) — associated with the Rigveda.
+    - **Gandharvaveda** (Music, dance, and fine arts) — associated with the Samaveda.
+    - **Dhanurveda** (Archery, warfare, and military science) — associated with the Yajurveda.
+    - **Arthaveda / Sthapatyaveda** (Statecraft, economics, and architecture) — associated with the Atharvaveda.
+25. **Panini** (पाणिनि / ~5th c. BCE), born at Salatura (near Taxila in modern Pakistan), composed the **Astadhyayi** (अष्टाध्यायी / Eight Chapters), the supreme masterpiece of descriptive generative linguistics containing nearly **4,000 algorithmic grammatical aphorisms (sutras)** that standardized Classical Sanskrit.
+26. The **Munitraya (मुनित्रय / The Three Sages of Sanskrit Grammar)**:
+    - **Panini** (composed the foundational *Astadhyayi*)
+    - **Katyayana / Vararuchi** (composed the critical explanatory notes called *Varttika*)
+    - **Patanjali** (composed the monumental analytical commentary, the **Mahabhasya** / महाभाष्य in the 2nd c. BCE under Shunga rule).
+27. The **Ramayana** (रामायण), hailed as the **Adi Kavya** (First Epic Poem) and Sage **Valmiki** as the *Adi Kavi*, comprises **24,000 shlokas** arranged into **7 Kandas** (Balakanda, Ayodhyakanda, Aranyakanda, Kishkindhakanda, Sundarakanda, Yuddhakanda, and Uttarakanda).
+28. The **Mahabharata** (महाभारत), composed by Sage **Krishna Dvaipayana Ved Vyasa**, grew through three distinct historical stages:
+    - **Jaya** (8,800 verses / original song of victory)
+    - **Bharata** (24,000 verses / expanded clan war)
+    - **Mahabharata** (100,000 verses / *Shatasahasri Samhita*, encyclopedic epic).
+29. The **Bhagavad Gita** (700 verses in 18 chapters) is embedded within the **Bhishma Parva** of the Mahabharata, depicting Lord Krishna delivering the synthesis of Karma Yoga, Jnana Yoga, and Bhakti Yoga to the despondent warrior Arjuna on the battlefield of Kurukshetra.
+30. The **Brihattrayi (बृहत्त्रयी / The Great Trio of Classical Sanskrit Kavyas)**:
+    - **Kiratarjuniya** (किरातार्जुनीयम् / 18 cantos) by **Bharavi** (भारवि) — celebrated for profound depth of meaning (*"Bharaver Arthagauravam"*), dramatizing Arjuna's ascetic penance and physical combat with Lord Shiva disguised as a mountain hunter (*Kirata*) to obtain the Pasupatastra weapon.
+    - **Shishupalavadha** (शिशुपालवधम् / 20 cantos) by **Magha** (माघ) — celebrated for possessing the combined virtues of Kalidasa's similes, Bharavi's weight of meaning, and Dandin's verbal elegance (*"Maghe santi trayo gunah"*), depicting Krishna beheading the blasphemous king Shishupala with the Sudarshana Chakra.
+    - **Naishadhacharita** (नैषधीयचरितम् / 22 cantos) by **Sri Harsha** (श्रीहर्ष, 12th c., court of Gahadavala king Vijayachandra of Kannauj) — celebrated as the ultimate intellectual challenge for Sanskrit scholars (*"Naishadham vidvad-aushadham"* / Naishadha is the tonic for intellectuals), recounting the romance of King Nala and Damayanti.
+31. The **Laghuttrayi (लघुत्त्रयी / The Lesser Trio of Kavyas)** authored exclusively by **Kalidasa**:
+    - **Raghuvamsha** (रघुवंशम् / 19 cantos — the imperial genealogy of the Solar dynasty kings from Dilipa and Raghu to Dasharatha and Rama).
+    - **Kumarasambhava** (कुमारसम्भवम् / 17 cantos — the courtship of Shiva and Parvati and the birth of war-god Kartikeya/Kumara to defeat demon Taraka).
+    - **Meghaduta** (मेघदूतम् / Cloud Messenger — lyrical khandakavya where an exiled Yaksha at Ramagiri sends a message of love to his wife at Alakapuri via a rain-cloud).
+32. **Bhartrihari** (भर्तृहरि / 5th c. CE) composed the famous **Shatakatraya (Three Centuries of Verse)**:
+    - **Niti Shataka** (100 verses on ethical conduct, wisdom, and statesmanship)
+    - **Shringara Shataka** (100 verses on romantic love and aesthetic charm)
+    - **Vairagya Shataka** (100 verses on spiritual renunciation and transience of worldly pleasures)
+    - He also authored the linguistic philosophy masterwork **Vakyapadiya**.
+33. **Banabhatta** (बाणभट्ट / 7th c. CE), chief court poet (*Asthana Kavi*) of Emperor Harshavardhana of Kannauj, authored:
+    - **Harshacharita** (हर्षचरितम् — the **first formal historical biography in Sanskrit literature**, chronicling the rise of Harsha).
+    - **Kadambari** (कादंबरी — universally hailed as the **world’s earliest romantic novel**, written in ornate, rolling prose sentences; completed after Bana's death by his son **Bhushanbhatta / Pulinda**).
+34. **Dandin** (दण्डी / 7th–8th c. CE, Pallava court at Kanchipuram) was renowned for verbal grace and euphony (*"Dandinah Padalalityam"*), authoring:
+    - **Dashakumaracharita** (दशकुमारचरितम् / Tales of Ten Princes; adventures, picaresque heists, and romances of ten noble youths).
+    - **Kavyadarsha** (काव्यादर्श / authoritative Sanskrit manual on poetics and literary theory).
+35. **Vishnusharma** (विष्णुशर्मा / ~3rd c. CE) compiled the **Panchatantra** (पंचतंत्र / Five Principles of Statecraft), the world's most widely translated collection of interrelated animal fables with practical morals (Mitra-bheda, Mitra-labha, Kakolukiyam, Labdhapranasam, Aparikshitakarakam); translated in the 6th c. into Pahlavi (Middle Persian) by Borzuya, then into Arabic as **Kalila wa Dimna** by Ibn al-Muqaffa.
+36. **Somadeva** (सोमदेव / 11th c. Kashmir court of King Ananta) composed the **Kathasaritsagara** (कथासरित्सागर / Ocean of Streams of Stories), a massive 22,000-verse treasury of Indian folklore and legends derived from Gunadhya’s lost Prakrit epic *Brihatkatha*.
+37. **Kshemendra** (क्षेमेंद्र / 11th c. Kashmir) was a prolific polymath who authored **Brihatkathamanjari**, *Dasavataracharita*, *Aucityavicaracarca* (theory of propriety in poetry), and satirical farces like *Samayamatrika* and *Kalavilasa*.
+38. **Jayadeva** (जयदेव / 12th c., court of King Lakshmana Sena of Bengal) composed the immortal lyrical masterpiece **Gita Govinda** (गीत गोविंद), celebrated for its 24 musical songs (*Ashtapadis*) depicting the divine, mystical romance and separation (*Viraha*) of Radha and Krishna, opening with the famous hymn *Dasa Avatara Stotram*.
+39. **Kalhana** (कल्हण / 12th c. CE) authored the **Rajatarangini** (राजतरंगिणी / River of Kings; 1148–1150 CE in 8 Tarangas / cantos), the **first true historical chronicle in Indian literature written with objective critical methodology**, recording the dynastic history of Kashmir from legendary times to King Jaisimha.
+40. **Bilhana** (बिल्हण / 11th c. Kashmiri poet) served as court poet to Western Chalukya King Vikramaditya VI of Kalyani, authoring the court epic **Vikramankadevacharita** and the passionate love poem **Caurapancasika** (Fifty Stanzas of a Thief).
+41. **Chand Bardai** (चंदबरदाई / 12th c.) was the court poet and friend of Prithviraj Chauhan III, authoring the **Prithviraj Raso** (पृथ्वीराज रासो), celebrated as the **earliest monumental heroic epic in Braj / Old Hindi (Pingal dialect)**.
+42. **Sangam Literature (संगम साहित्य)** is the earliest classical literature of South India, composed in ancient Old Tamil between **~300 BCE and 300 CE** during three royal literary assemblies (**Sangams**) patronized by the **Pandya kings** of Madurai.
+43. The three legendary Sangams:
+    - *1st Sangam (Mudal Sangam):* Held at Old Madurai (submerged in sea); attended by gods and legendary sages like Agastya; no texts survive.
+    - *2nd Sangam (Idai Sangam):* Held at Kapatapuram (also swallowed by sea); the only surviving text is the monumental grammar **Tolkappiyam**.
+    - *3rd Sangam (Kadai Sangam):* Held at modern **Madurai**; produced the entire surviving corpus of Sangam poetry.
+44. **Tolkappiyam** (तोलकाप्पियम), authored by **Tolkappiyar**, is the **oldest surviving Tamil literary and grammatical work**, divided into three books: *Ezhuttu* (Orthography/phonetics), *Sol* (Words/syntax), and *Porul* (Subject matter, poetics, rhetoric, and social customs).
+45. Sangam poetry is classified thematically into two contrasting emotional realms:
+    - **Agam (अहम् / Inner domain):** Deals with personal romantic love, courtship, separation, and domestic fidelity, categorized across **Five Landscapes (Aintinai)** named after native flowers (Kurinji / mountainous; Mullai / pastoral; Marudam / agricultural; Neithal / coastal; Palai / arid desert).
+    - **Puram (पुरम् / Outer domain):** Deals with public life, heroic warfare, kingly valor, ethics, and charity.
+46. The surviving Sangam corpus is organized into two primary collections:
+    - **Ettuthogai** (Eight Anthologies of short lyric poems, e.g., *Akananuru*, *Purananuru*, *Natrinai*, *Kurunthogai*).
+    - **Pattuppattu** (Ten Long Idylls, e.g., *Tirumurukarruppatai*, *Nedunalvadai*).
+47. **Tirukkural** (तिरुक्कुरल), authored by the saint-weaver **Tiruvalluvar**, is universally venerated as the **'Tamil Veda'** or the 'Bible of Tamil Land', comprising **1,330 pithy couplets (*Kurals*)** organized across three universal sections: **Aram** (Virtue / *Dharma*), **Porul** (Wealth / *Artha*), and **Inbam** (Love / *Kama*).
+48. The **Five Great Epics of Tamil Literature (Aimperumkappiyam / पंच महाकाव्य)**:
+    1. **Silappadikaram** (सिलप्पदिकारम् / The Tale of an Anklet) by Prince-monk **Ilango Adigal** (grandson of Karikala Chola) — narrates the tragic love of merchant **Kovalan**, who abandons his devoted wife **Kannagi** for the courtesan **Madhavi**; falsely accused of stealing the Queen's anklet in Madurai, Kovalan is executed by the Pandya King Neduncheliyan, whereupon the chaste Kannagi proves his innocence, curses the city, and burns Madurai to ashes with the fire of her chastity, establishing the **Pattini Cult** (worship of the chaste goddess).
+    2. **Manimekalai** (मणिमेकलई) by grain merchant-poet **Sittalai Sattanar** — the direct Buddhist sequel to Silappadikaram, detailing the spiritual awakening of **Manimekalai** (the beautiful daughter of Kovalan and Madhavi), who rejects worldly romance to become a Buddhist nun, armed with the miraculous inexhaustible begging bowl called the **Amrita Surabhi** to feed the destitute.
+    3. **Sivaka Chintamani** (जीवक चिंतामणि) by Jain ascetic **Tirutakkatevar** — celebrated for introducing Sanskrit poetic meters into Tamil; recounts the heroic exploits, multiple marriages, and eventual Jain renunciation of Prince Jivaka.
+    4. **Kundalakesi** by Nagaguttanar — a Buddhist philosophical poem narrating the debate and spiritual quest of merchant maiden Kundalakesi.
+    5. **Valayapathi** (Jain philosophical poem; only fragments survive).
+49. The **Three Gems of Ancient Kannada Literature (Ratnatraya)**:
+    - **Pampa** (10th c. CE; 'Father of Kannada Poetry'; authored *Adipurana* on Rishabhanatha and *Vikramarjuna Vijaya / Pampa Bharata*).
+    - **Ponna** (authored *Shantipurana* on 16th Tirthankara; awarded title *Ubhayakavi Chakravarti* by Rashtrakuta king Krishna III).
+    - **Ranna** (authored *Ajitapurana* and *Gadhayuddha / Sahasabhimavijaya* on the duel of Bhima and Duryodhana).
+50. The **Trinity of Ancient Telugu Poets (Kavitrayam)** who translated the Mahabharata into Telugu (*Andhra Mahabharatamu*): **Nannaya** (11th c.; translated first 2.5 parvas), **Tikkana** (13th c.; translated 15 parvas), and **Yerrapragada / Errana** (14th c.; completed the unfinished Aranya Parva).
+51. **Sri Krishnadevaraya** (reigned 1509–1529), Emperor of Vijayanagara, was a consummate royal scholar who authored the Telugu epic **Amuktamalyada** (The Giver of Worn Garlands; narrating the life of Andal / Goda Devi) and the Sanskrit drama *Jambavati Kalyanam*; his court was adorned by the **Ashtadiggajas** (Eight Literary Giants of Telugu), led by **Allasani Peddana** ('Andhra Kavita Pitamaha', author of *Manucharitam*) and the witty court jester-poet **Tenali Ramakrishna** (*Panduranga Mahatmyam*).
 
+## ⏱️ Timeline / Chronology
 
----
+```
+~1500–1200 BCE : RIGVEDA (Oldest Indo-European text; 10 Mandalas, 1028 Suktas; Gayatri & Purusha Suktas)
+        │
+~1000–800 BCE  : LATER VEDAS (Samaveda, Yajurveda, Atharvaveda) & BRAHMANAS (Satapatha, Aitareya)
+~700–500 BCE   : PRINCIPAL UPANISHADS (Brihadaranyaka, Chandogya, Katha, Mundaka 'Satyameva Jayate')
+        │
+   ~5th C. BCE : PANINI COMPOSES ASTADHYAYI (Standardization of Classical Sanskrit; 4000 sutras)
+  ~300 BCE–300 : SANGAM LITERATURE (Tolkappiyam, Ettuthogai, Tirukkural, Silappadikaram in Tamil)
+   ~2nd C. BCE : PATANJALI'S MAHABHASYA & KATYAYANA'S VARTTIKA (Munitraya of Sanskrit grammar)
+        │
+   4th–5th C.  : KALIDASA'S GOLDEN ERA (Abhijnanasakuntalam, Raghuvamsha, Meghaduta, Kumarasambhava)
+   6th–7th C.  : BRIHATTRAYI KAVYAS (Kiratarjuniya of Bharavi & Shishupalavadha of Magha)
+   7th C. CE   : BANABHATTA (Harshacharita & Kadambari) & DANDIN (Dashakumaracharita)
+        │
+     1148 CE   : KALHANA COMPOSES RAJATARANGINI (First scientific historical chronicle of India / Kashmir)
+     12th C.   : JAYADEVA'S GITA GOVINDA (Ashtapadis; Radha-Krishna devotion in Bengal)
+     12th C.   : CHAND BARDAI'S PRITHVIRAJ RASO (Earliest monumental Hindi/Braj heroic epic)
+        │
+     2004      : TAMIL DECLARED FIRST CLASSICAL LANGUAGE OF INDIA
+     2005      : SANSKRIT DECLARED CLASSICAL LANGUAGE
+     2008      : TELUGU & KANNADA DECLARED CLASSICAL LANGUAGES
+     2013–2014 : MALAYALAM (2013) & ODIA (2014) DECLARED CLASSICAL LANGUAGES
+     2024      : 5 NEW CLASSICAL LANGUAGES ADDED (Marathi, Pali, Prakrit, Assamese, Bengali &rarr; Total 11!)
+```
+
+## 📊 Quick Reference Grid
+
+### 1. All 11 Classical Languages of India (Chronological Master Matrix)
+
+| Language | Year Declared | Linguistic Family | Landmark Historical Texts / Foundational Epics |
+|---|---|---|---|
+| **1. Tamil** | **2004** (First) | Dravidian | *Tolkappiyam* (~3rd c. BCE), *Tirukkural*, *Silappadikaram*, Sangam Anthologies |
+| **2. Sanskrit** | **2005** | Indo-Aryan | *Rigveda* (~1500 BCE), *Upanishads*, Panini's *Astadhyayi*, Epics, Kalidasa's works |
+| **3. Telugu** | **2008** | Dravidian | *Kalamalla Inscription* (575 CE), *Andhra Mahabharatamu* of Nannaya (11th c.), *Amuktamalyada* |
+| **4. Kannada** | **2008** | Dravidian | *Halmidi Inscription* (450 CE), *Kavirajamarga* of Amoghavarsha (850 CE), Pampa's *Adipurana* |
+| **5. Malayalam** | **2013** | Dravidian | *Ramacharitam* (12th c.), *Bhashakautaliyam*, Thunchaththu Ezhuthachan's *Adhyathmaramayanam* |
+| **6. Odia** | **2014** | Indo-Aryan | *Urjam Inscription* (1051 CE), *Charyapada* Buddhist songs, Sarala Das's *Mahabharata* (15th c.) |
+| **7. Marathi** | **October 2024** | Indo-Aryan | *Kudal Inscription* (983 CE), Mukundraj's *Vivekasindhu* (1188 CE), Dnyaneshwar's *Bhavartha Dipika* |
+| **8. Pali** | **October 2024** | Middle Indo-Aryan | *Tipitaka* (Theravada Buddhist canon: Sutta, Vinaya, Abhidhamma), *Milinda Panha*, *Mahavamsa* |
+| **9. Prakrit** | **October 2024** | Middle Indo-Aryan | Ashokan Edicts (3rd c. BCE), King Hala’s *Gaha Sattasai*, Gunadhya’s *Brihatkatha*, Jain Agamas |
+| **10. Assamese** | **October 2024** | Indo-Aryan | *Charyapada* songs (8th–12th c.), Madhava Kandali's *Saptakanda Ramayana*, Sankaradeva’s *Borgeet* |
+| **11. Bengali** | **October 2024** | Indo-Aryan | *Charyapada* manuscripts, Krittibas Ojha's *Krittivasi Ramayan*, Chandidas's *Srikrishna Kirtana* |
+
+### 2. The Four Vedas & Their Liturgical Anatomy
+
+| Veda | Presiding Priest | Upaveda | Chief Brahmanas | Principal Upanishads Attached | Core Subject / Hymn Count |
+|---|---|---|---|---|---|
+| **Rigveda** | **Hotri** (Reciter) | **Ayurveda** (Medicine) | Aitareya, Kaushitaki | Aitareya, Kaushitaki | 1,028 hymns; Gayatri Mantra (M3), Purusha Sukta (M10) |
+| **Samaveda** | **Udgatri** (Singer) | **Gandharvaveda** (Music) | Tandya, Jaiminiya | Chandogya, Kena | 1,875 musical chants for Soma sacrifices; origin of music |
+| **Yajurveda** | **Adhvaryu** (Performer)| **Dhanurveda** (Archery) | Satapatha, Taittiriya| Brihadaranyaka, Katha, Isa, Taittiriya, Svetasvatara | Ritual prose formulas; Shukla (White) & Krishna (Black) |
+| **Atharvaveda** | **Brahma** (Supervisor) | **Arthaveda** (Statecraft) | Gopatha | Mundaka, Mandukya, Prasna | Magic spells, medicine, charms; "Satyameva Jayate" (Mundaka) |
+
+### 3. Master Classical Sanskrit Literature Matrix
+
+| Work / Text | Author | Literary Genre | Defining Scholastic Feature / Core Plot |
+|---|---|---|---|
+| **Astadhyayi** | **Panini** (5th c. BCE) | Vyakarana (Grammar) | 4,000 algebraic grammatical sutras standardizing Classical Sanskrit |
+| **Mahabhasya** | **Patanjali** (2nd c. BCE) | Linguistic Commentary | Comprehensive critical commentary on Panini's Astadhyayi |
+| **Nirukta** | **Yaska** (pre-Panini) | Etymology / Dictionary | Oldest Sanskrit linguistic treatise on Vedic word derivation and semantics |
+| **Kiratarjuniya** | **Bharavi** (6th c. CE) | Mahakavya (*Brihattrayi*) | Arjuna's duel with Shiva as a Kirata hunter; famous for *Arthagauravam* |
+| **Shishupalavadha** | **Magha** (8th c. CE) | Mahakavya (*Brihattrayi*) | Krishna slaying Shishupala; combines Kalidasa, Bharavi, Dandin virtues |
+| **Naishadhacharita** | **Sri Harsha** (12th c. CE) | Mahakavya (*Brihattrayi*) | Complex romantic epic of Nala and Damayanti; *"Tonic for intellectuals"* |
+| **Raghuvamsha** | **Kalidasa** | Mahakavya (*Laghuttrayi*) | Imperial genealogy of 29 kings of the Solar / Raghu dynasty |
+| **Kumarasambhava** | **Kalidasa** | Mahakavya (*Laghuttrayi*) | Courtship of Shiva and Parvati; birth of warrior god Kumara (Kartikeya) |
+| **Meghaduta** | **Kalidasa** | Khandakavya (Lyric) | Exiled Yaksha sending cloud messenger from Ramagiri to his wife at Alaka |
+| **Harshacharita** | **Banabhatta** (7th c. CE) | Akhyayika (Biography) | First formal historical biography in Sanskrit on Emperor Harshavardhana |
+| **Kadambari** | **Banabhatta** & son | Romantic Prose Novel | World's earliest novel; complex multi-generational reincarnation romance |
+| **Dashakumaracharita**| **Dandin** (7th c. CE) | Picaresque Prose Novel | Adventures and romantic conquests of ten young princes across India |
+| **Gita Govinda** | **Jayadeva** (12th c. CE) | Lyrical Kavya / Songs | 24 musical *Ashtapadis* celebrating the divine love of Radha and Krishna |
+| **Rajatarangini** | **Kalhana** (1148 CE) | Historical Chronicle | First objective historical chronicle of India, recording Kings of Kashmir |
+| **Panchatantra** | **Vishnusharma** (~3rd c.)| Animal Fables | Five books of ethical statecraft fables; translated into 50+ world languages |
+| **Shatakatraya** | **Bhartrihari** (5th c. CE) | Subhashita Poetry | Three sets of 100 verses: Niti (Ethics), Shringara (Love), Vairagya (Renunciation) |
+
+### 4. The Five Great Tamil Epics (Aimperumkappiyam)
+
+| Tamil Epic | Author | Religion | Central Dramatic Narrative |
+|---|---|---|---|
+| **1. Silappadikaram** | **Ilango Adigal** (Prince-monk) | Jain/Universal | Anklet tragedy: Kovalan, Kannagi, and courtesan Madhavi; Kannagi burns unjust Madurai; Pattini cult |
+| **2. Manimekalai** | **Sittalai Sattanar** | **Buddhism** | Sequel to Silappadikaram: Kovalan and Madhavi's daughter Manimekalai becomes Buddhist nun with *Amrita Surabhi* bowl |
+| **3. Sivaka Chintamani** | **Tirutakkatevar** | **Jainism** | Heroic exploits, 8 marriages, and final ascetic renunciation of Prince Jivaka |
+| **4. Kundalakesi** | Nagaguttanar | **Buddhism** | Buddhist philosophical debates and conversion of the merchant heroine Kundalakesi |
+| **5. Valayapathi** | Anonymous | **Jainism** | Fragmentary Jain epic highlighting chastity, non-violence, and detachment |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+| Pair A | Pair B | Key Difference | Hindi Key |
 |---|---|---|---|
-| Shruti | Smriti | Heard/revealed (Veda–Upanishad) vs remembered (epic, Purana, smriti-law) | श्रुति / स्मृति |
-| Samhita | Brahmana | Mantra collection vs ritual prose | संहिता / ब्राह्मण |
-| Shukla Yajurveda | Krishna Yajurveda | Vajasaneyi (Madhyandina, Kanva) vs Taittiriya, Maitrayani, Kathaka, Kapisthala | शुक्ल / कृष्ण यजुर्वेद |
-| Itihasa | Purana | Ramayana–Mahabharata vs 18 Maha Puranas | इतिहास / पुराण |
-| Kavya | Nataka | Poem (*Meghaduta* (मेघदूत)) vs drama (*Abhijnanashakuntalam* (अभिज्ञानशाकुन्तलम्)) | काव्य / नाटक |
-| Kalidasa | Bhavabhuti | 3 plays + 4 poems vs Uttararamacharita | कालिदास / भवभूति |
-| 8th Schedule | Classical language | Constitutional **22** vs Culture tag **11** | अष्टम अनुसूची / शास्त्रीय भाषा |
-| 8th Schedule | Sahitya Akademi | 22 vs **24** award languages | 22 / 24 |
-| Awadhi | Braj | Tulsidas vs Surdas | अवधी / ब्रज |
-| Pali | Prakrit | Buddhist canon vs Jain/secular Middle Indo-Aryan | पाली / प्राकृत |
-| Valmiki | Tulsidas | Sanskrit Adikavi vs Awadhi Ramcharitmanas | वाल्मीकि / तुलसीदास |
-| Harsha plays | Harshacharita | Ratnavali / Nagananda / Priyadarshika vs Banabhatta’s biography | हर्ष नाटक / हर्षचरित |
-| Karpuramanjari | Harsha | **Rajasekhara** vs Harsha’s three plays | कर्पूरमंजरी / हर्ष |
-| Kalhana | Jonaraja / Srivara | Rajatarangini founder vs continuators | कल्हण / जोनराज–श्रीवर |
-| Amarakosha | Brihatsamhita | Amarasimha lexicon vs Varahamihira encyclopedia | अमरकोश / बृहत्संहिता |
-| Mitakshara | Dayabhaga | Vijnaneshwara (son’s right in father’s lifetime) vs Jimutavahana (after death) | मिताक्षरा / दायाभाग |
-| Nagasena | Nagarjuna | Milindapanha monk vs Madhyamaka philosopher | नागसेन / नागार्जुन |
-| Vishakhadatta | Bilhana | Mudrarakshasa / Devichandraguptam vs Vikramankadevacharita | विशाखदत्त / बिल्हण |
-| Pliny | Ptolemy | Natural History vs geography / Almagest | प्लिनी / टॉलेमी |
-| Panini | Patanjali | Ashtadhyayi (earlier) vs Mahabhashya (Shunga link) | पाणिनि / पतंजलि |
+| **11 Classical Languages** | **22 Eighth Schedule Languages** | Classical languages = **11** (Tamil, Sanskrit, Telugu, Kannada, Malayalam, Odia + Marathi, Pali, Prakrit, Assamese, Bengali [Oct 2024]); Eighth Schedule = **22** languages | 11 शास्त्रीय भाषाएं / 22 संविधान की 8वीं अनुसूची |
+| **Pali (Classical 2024)** | **Prakrit (Classical 2024)** | Both added on 3 Oct 2024; Pali = Primary canonical vehicle of **Theravada Buddhism** (*Tipitaka*); Prakrit = Primary vehicle of **Ashokan Edicts & early Jain Agamas** | पालि (बौद्ध त्रिपिटक) / प्राकृत (अशोक शिलालेख व जैन आगम) |
+| **Mundaka Upanishad** | **Mandukya Upanishad** | Mundaka = Source of national motto **"Satyameva Jayate"** (and compares sacrifices to leaky boats); Mandukya = **Shortest Upanishad** (explains AUM and 4 states of consciousness) | मुंडक (सत्यमेव जयते) / मांडूक्य (ओम् व चेतना की 4 अवस्थाएं) |
+| **Brihattrayi (Kavyas)** | **Laghuttrayi (Kavyas)** | Brihattrayi = Three grand epics by **three different authors** (*Kiratarjuniya* by Bharavi, *Shishupalavadha* by Magha, *Naishadhacharita* by Sri Harsha); Laghuttrayi = Three lesser epics **all by Kalidasa** (*Raghuvamsha*, *Kumarasambhava*, *Meghaduta*) | बृहत्त्रयी (भारवि, माघ, श्रीहर्ष) / लघुत्त्रयी (कालिदास के 3 काव्य) |
+| **Brihadaranyaka Upanishad** | **Chandogya Upanishad** | Brihadaranyaka = Oldest & largest; *"Neti, Neti"* and Yajnavalkya-Maitreyi dialogue; Chandogya = *"Tat Tvam Asi"* and Satyakama Jabala story | बृहदारण्यक (नेति-नेति, याज्ञवल्क्य) / छान्दोग्य (तत्त्वमसि, सत्यकाम जाबाल) |
+| **Shringara Shataka (Bhartrihari)**| **Meghaduta (Kalidasa)** | Shringara Shataka = 100 autonomous ethical/love aphorisms by **Bhartrihari**; Meghaduta = Sinuous lyrical lyric poem of a Yaksha sending a cloud messenger by **Kalidasa** | शृंगार शतक (भर्तृहरि) / मेघदूत (कालिदास) |
+| **Silappadikaram** | **Manimekalai** | Silappadikaram = Tragic story of **Kovalan and Kannagi's anklet** (authored by Ilango Adigal); Manimekalai = **Buddhist sequel** about their daughter becoming a nun (authored by Sittalai Sattanar) | सिलप्पदिकारम् (इलांगो अडिगल / नूपुर) / मणिमेकलई (सीत्तलै सात्तनार / भिक्षुणी) |
+| **Tolkappiyam** | **Tirukkural** | Tolkappiyam = Ancient Sangam **grammar and poetics treatise** by Tolkappiyar; Tirukkural = Universal **ethical moral treatise of 1,330 couplets** by Tiruvalluvar | तोलकाप्पियम (व्याकरण व काव्यशास्त्र) / तिरुक्कुरल (नीतिशास्त्र 'तमिल वेद') |
+| **Gita Govinda (Jayadeva)** | **Kathasaritsagara (Somadeva)**| Gita Govinda = 12th-century lyrical song poems on Radha-Krishna by **Jayadeva**; Kathasaritsagara = 11th-century massive folklore storytelling treasury by **Somadeva** | गीत गोविंद (जयदेव / अष्टपदी) / कथासरित्सागर (सोमदेव / लोककथाएं) |
+| **Prithviraj Raso (Chand Bardai)**| **Rajatarangini (Kalhana)** | Prithviraj Raso = Heroic epic poem in **Braj/Old Hindi**; Rajatarangini = Objective Sanskrit **historical chronicle of Kings of Kashmir** | पृथ्वीराज रासो (चंदबरदाई / हिंदी महाकाव्य) / राजतरंगिणी (कल्हण / संस्कृत इतिहास) |
+| **Shukla Yajurveda** | **Krishna Yajurveda** | Shukla Yajurveda (*Vajasaneyi*) = Pure verse mantras only; Krishna Yajurveda (*Taittiriya*) = Unsorted mixture of verse mantras and explanatory prose | शुक्ल यजुर्वेद (वाजसनेयी / शुद्ध पद्य) / कृष्ण यजुर्वेद (तैत्तिरीय / गद्य-पद्य मिश्रित) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Chronology of 11 Classical Languages: `T-S-T-K-M-O` + `M-P-P-A-B`
+- **First Wave (2004–2014):**
+  - **T**amil (2004)
+  - **S**anskrit (2005)
+  - **T**elugu (2008)
+  - **K**annada (2008)
+  - **M**alayalam (2013)
+  - **O**dia (2014)
+- **New Wave (3 October 2024):**
+  - **M**arathi (2024)
+  - **P**ali (2024)
+  - **P**rakrit (2024)
+  - **A**ssamese (2024)
+  - **B**engali (2024)
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+### 2. The Great Trio of Kavyas (Brihattrayi) — Mnemonic: `K-S-N` (किसान)
+- **K**iratarjuniya (Bharavi &rarr; 18 cantos)
+- **S**hishupalavadha (Magha &rarr; 20 cantos)
+- **N**aishadhacharita (Sri Harsha &rarr; 22 cantos)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+### 3. Five Great Tamil Epics — Mnemonic: `S-M-S-K-V` (संगम महाकाव्य)
+- **S**ilappadikaram (Ilango Adigal &rarr; Anklet / Kannagi)
+- **M**animekalai (Sittalai Sattanar &rarr; Daughter / Buddhist bowl)
+- **S**ivaka Chintamani (Tirutakkatevar &rarr; Prince Jivaka / Jain)
+- **K**undalakesi (Nagaguttanar &rarr; Buddhist nun)
+- **V**alayapathi (Jain fragments)
+
+### 4. Four Vedic Priests Formula: `H-U-A-B` (हुअब)
+- **H**otri &rarr; **R**igveda (Recites hymns)
+- **U**dgatri &rarr; **S**amaveda (Sings melodies)
+- **A**dhvaryu &rarr; **Y**ajurveda (Performs rituals)
+- **B**rahma &rarr; **A**tharvaveda (Supervises entire sacrifice)
+
+## 🎯 High-Yield PYQ Drill
 
 **Q1.**
 
@@ -376,3 +573,4 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 22 vs 24 vs classical 11 are three different counts.
 
 </details>
+

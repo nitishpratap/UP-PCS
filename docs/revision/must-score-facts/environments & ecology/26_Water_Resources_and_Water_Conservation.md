@@ -7,55 +7,114 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 26 — Water Resources & Water Conservation</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Freshwater is not a biotic resource.** Biotic resources come from living/organic material (forests, animals, fish); **coal and petroleum** are classed biotic because they form from decayed organic matter.
-2. **World Water Day (विश्व जल दिवस) = 22 March** (UN observance from **1993**; UN-Water since **2003**). Theme **2024** = *Leveraging Water for Peace* (also taught as prosperity and peace).
-3. **Rajendra Singh** (“Jal Purush” / Waterman of India; **Tarun Bharat Sangh**, Alwar) won **Ramon Magsaysay 2001** and **Stockholm Water Prize 2015**.
-4. **IWRM** follows Dublin Principles (**1992**) and treats the **river basin** as the planning unit. National Water Policy **2012** priority language puts drinking first, then ecology (पारिस्थितिकी), agriculture, and industry.
-5. **National Water Mission** (NAPCC, from **30 June 2008**) aims at conservation, less wastage, equitable distribution via IWRM. Five goals include public water database + climate impact assessment, citizen/state conservation action, focus on over-exploited areas, **+20% water-use efficiency**, and basin-level IWRM. Urban (नगरीय) wastewater recycling and ocean-water tech for coastal cities fit NWM; **Himalayan–peninsular river linking and free borewell reimbursement do not**.
-6. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu (नाडु)’s mandatory RWH (**2003**) is a state flagship fact.
-7. **Yamuna (यमुना) Action Plan** launched **1993** (YAP-I to ~2003; YAP-II Dec 2004; **YAP-III 7 May 2016** under Namami Gange).
-8. **Ganges River Dolphin** (*Platanista gangetica*) = **National Aquatic Animal (2009)**; dams, nets, agrochemicals threaten it — crocodile increase is **not** a standard decline cause in UPSC (संघ लोक सेवा आयोग) framing.
-9. **NLCP (June 2001)** restored urban/semi-urban lakes; merged with NWCP into **NPCA (Feb 2013)**. NLCP lakes include Bhoj, Sukhna, Pichola, Bhimtal — **Chilika is not NLCP**.
-10. **CGWB** prepares the Annual Groundwater Quality Report. **CGWA** (groundwater regulation) is under **EPA 1986** (पर्यावरण संरक्षण 1986). India has the **largest groundwater-irrigated area** in the world. Arsenic drinking-water teaching often points to **Kolkata**.
-11. **Atal Bhujal Yojana (2019)** is a groundwater management scheme tag.
-12. **Jal Jeevan Mission** launched in **August 2019** for rural household taps (Har Ghar Jal). Do not date JJM as **2014**.
-13. **Lisbon Declaration** (UN Ocean Conference) is about **oceans**, not freshwater glaciers.
-14. **Surface water:** rivers, lakes, reservoirs — highly seasonal under monsoon.
-15. **Groundwater:** India's largest **extractable** freshwater source (~45% irrigation, ~80% rural domestic).
-16. **Ganga–Brahmaputra (ब्रह्मपुत्र)** system carries about **40%** of India's river water.
-17. **Solar radiation** plays the main role in driving the water cycle by evaporating water from oceans, lakes, and rivers.
-18. **Humidity** measures water-vapour content of air and is measured with a **hygrometer** or psychrometer.
-19. **Biotic resources** come from living or organic material (forests, animals, fish) and from materials obtained from them. **Coal and petroleum** are counted as biotic because they form from decayed organic matter.
-20. **Freshwater / pure water is not a biotic resource** — it is an abiotic natural resource, and usable drinking freshwater is scarce, so conservation techniques matter.
-21. **World Water Day (22 March)** highlights freshwater and sustainable management (UN designation; first observed **1993**; **UN-Water** coordination from **2003**). Theme **2024**: *Leveraging Water for Peace*.
-22. **Rajendra Singh** of Alwar (Rajasthan), called **Jal Purush / Waterman of India**, runs **Tarun Bharat Sangh** for community water harvesting; awards include **Ramon Magsaysay (2001)** and **Stockholm Water Prize (2015)**.
-23. **IWRM** coordinates water, land, and related resources within a **river basin** to balance economy, society, and ecosystems.
-24. **Dublin Principles (1992):** freshwater is finite; participatory management; women central; water has **economic value**.
-25. **National Water Policy 2012:** river basin as planning unit; allocation priority **drinking water > ecology > agriculture > industry**.
-26. **Ecological flows (e-flows):** minimum release below dams for river ecology.
-27. **Conjunctive use:** coordinated surface water + groundwater management.
-28. **Ministry of Jal Shakti (May 2019)** merged Water Resources with Drinking Water & Sanitation — institutional home for IWRM.
-29. **National Water Mission (NWM)** is one of eight **NAPCC** missions (plan launched **30 June 2008**). Goal: conserve water, cut wastage, and ensure more equitable distribution across and within states through integrated water resource development and management.
-30. **Rainwater harvesting** collects rooftop or surface runoff for **direct use** or **aquifer recharge** before it drains away.
-31. **Rooftop:** roof → filter → tank (or recharge pit).
-32. **Surface:** check dams, percolation tanks, farm ponds, contour trenches.
-33. **Traditional:** Rajasthan **johad** (community pond) and **taanka** (cistern).
-34. **Benefits:** reduces urban flood peaks, recharges groundwater, supplements municipal supply.
-35. **Tamil Nadu (2003)** first made RWH **mandatory** in new buildings — Chennai model widely cited.
+1. World water rough shares: oceans about **97.2%**, ice/glaciers about **2%**, groundwater about **0.6%**, rivers about **0.01%**. Descending order is **Oceans > Polar ice > Groundwater > Rivers**.
+2. India holds roughly **4%** of world freshwater for about **18%** of world population (जनसंख्या). Per-capita availability around **1400 m³** marks water stress in many readings.
+3. The **water cycle** is driven primarily by **solar radiation** through evaporation from oceans, lakes, and rivers. Humidity is measured with a **hygrometer** or psychrometer.
+4. Amount of rainfall depends strongly on **humidity** in the atmosphere — more vapour means greater chance of cloud and rain when temperature falls.
+5. Many transplanted seedlings fail because most **root hairs** are lost during transplantation; root hairs absorb water and mineral nutrients.
+6. **Freshwater is not a biotic resource.** Biotic resources come from living/organic material (forests, animals, fish); **coal and petroleum** are classed biotic because they form from decayed organic matter.
+7. **World Water Day (विश्व जल दिवस) = 22 March** (UN observance from **1993**; UN-Water since **2003**). Theme **2024** = *Leveraging Water for Peace* (also taught as prosperity and peace).
+8. **Rajendra Singh** (“Jal Purush” / Waterman of India; **Tarun Bharat Sangh**, Alwar) won **Ramon Magsaysay 2001** and **Stockholm Water Prize 2015**.
+9. **IWRM** follows Dublin Principles (**1992**) and treats the **river basin** as the planning unit. National Water Policy **2012** priority language puts drinking first, then ecology (पारिस्थितिकी), agriculture, and industry.
+10. **National Water Mission** (NAPCC, from **30 June 2008**) aims at conservation, less wastage, equitable distribution via IWRM. Five goals include public water database + climate impact assessment, citizen/state conservation action, focus on over-exploited areas, **+20% water-use efficiency**, and basin-level IWRM. Urban (नगरीय) wastewater recycling and ocean-water tech for coastal cities fit NWM; **Himalayan–peninsular river linking and free borewell reimbursement do not**.
+11. The **Ministry of Jal Shakti (शक्ति)** (**2019**) merged water resources and drinking-water departments.
+12. **Rainwater harvesting** captures rain for use or recharge — rooftops, pits, check dams, johads. Tamil Nadu (नाडु)’s mandatory RWH (**2003**) is a state flagship fact.
+13. A **watershed** is land draining to a common outlet. **Hariyali** is the GOI watershed project for rural water conservation (≠ Pani Sansad / Jal Kranti as the 2022 key).
+14. Desert plants conserve water via hard/waxy leaves, tiny/absent leaves, and thorns instead of leaves.
+15. River cleaning spine: **Central Ganga (गंगा) Authority / GAP 1985 → NRCA 1995 → NGRBA 20 Feb 2009 (EPA; PM chair) → Namami Gange 2014** (NMCG). **STP** = domestic; **CETP** = industrial.
+16. **Yamuna (यमुना) Action Plan** launched **1993** (YAP-I to ~2003; YAP-II Dec 2004; **YAP-III 7 May 2016** under Namami Gange).
+17. **Ganges River Dolphin** (*Platanista gangetica*) = **National Aquatic Animal (2009)**; dams, nets, agrochemicals threaten it — crocodile increase is **not** a standard decline cause in UPSC (संघ लोक सेवा आयोग) framing.
+18. Kanpur (कानपुर) is the Ganga tannery pollution fact. **Gomti** is Lucknow (लखनऊ)’s river — do not put Gomti’s main story on Kanpur.
+19. **NLCP (June 2001)** restored urban/semi-urban lakes; merged with NWCP into **NPCA (Feb 2013)**. NLCP lakes include Bhoj, Sukhna, Pichola, Bhimtal — **Chilika is not NLCP**.
+20. Wetlands follow **Ramsar (रामसर) 1971**, Wise Use, World Wetlands Day (विश्व आर्द्रभूमि दिवस) on **2 February** (रामसर), and Wetland Rules **2017**. UP Ramsar sites exist; **Rudrasagar** and **Sultanpur** are **not** UP.
+21. **CGWB** prepares the Annual Groundwater Quality Report. **CGWA** (groundwater regulation) is under **EPA 1986** (पर्यावरण संरक्षण 1986). India has the **largest groundwater-irrigated area** in the world. Arsenic drinking-water teaching often points to **Kolkata**.
+22. Disinfection: **chlorine**, chloramine, chlorine dioxide, ozone; **UV** kills microbes without changing taste/odour — UV does **not** remove odour or settle turbidity.
+23. Water Act **1974** (amended **1988**); Water Cess Act **1977** (enforced **1 Apr 1978**).
+24. **Atal Bhujal Yojana (2019)** is a groundwater management scheme tag.
+25. **Jal Jeevan Mission** launched in **August 2019** for rural household taps (Har Ghar Jal). Do not date JJM as **2014**.
+26. Drinking-water standard fact **IS 10500:2012**: fluoride about **≤1.5 mg/L**, arsenic about **≤0.01 mg/L**, pH about **6.5–8.5**.
+27. Heavy sand mining lowers water table and can pollute groundwater — it does **not** decrease river salinity as a standard consequence.
+28. **Lisbon Declaration** (UN Ocean Conference) is about **oceans**, not freshwater glaciers.
+29. Rivers are **not** second after oceans in global freshwater ranking — ice/glaciers are.
+30. CGWB ≠ CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) on the groundwater quality report; CGWA ≠ CGWB.
+31. Namami Gange is **2014**; GAP is **1985**. NGRBA chair is the **Prime Minister**, not rotating CMs.
+32. IWRM is basin coordination; watershed is the local drainage unit used in ridge-to-valley works.
+33. Aquifer is the underground storage layer; it is not a surface canal.
+34. BOD measures organic pollution strength in water (mg/L) — a quality metric, not a volume share.
+35. Bundelkhand scarcity, Kanpur tanneries, Gomti–Lucknow, and arsenic plains are the UP colour set.
+36. JJM is rural tap connectivity; it is not Namami Gange’s river-cleaning mission.
+37. STP vs CETP: domestic vs industrial effluent trains — swap them and consent logic breaks.
+38. National Water Policy priority order starts with **drinking water**, not industry.
+39. **Surface water:** rivers, lakes, reservoirs — highly seasonal under monsoon.
+40. **Groundwater:** India's largest **extractable** freshwater source (~45% irrigation, ~80% rural domestic).
+41. **Ganga–Brahmaputra (ब्रह्मपुत्र)** system carries about **40%** of India's river water.
+42. **Solar radiation** plays the main role in driving the water cycle by evaporating water from oceans, lakes, and rivers.
+43. **Humidity** measures water-vapour content of air and is measured with a **hygrometer** or psychrometer.
+44. **Biotic resources** come from living or organic material (forests, animals, fish) and from materials obtained from them. **Coal and petroleum** are counted as biotic because they form from decayed organic matter.
+45. **Freshwater / pure water is not a biotic resource** — it is an abiotic natural resource, and usable drinking freshwater is scarce, so conservation techniques matter.
+46. **World Water Day (22 March)** highlights freshwater and sustainable management (UN designation; first observed **1993**; **UN-Water** coordination from **2003**). Theme **2024**: *Leveraging Water for Peace*.
+47. **Rajendra Singh** of Alwar (Rajasthan), called **Jal Purush / Waterman of India**, runs **Tarun Bharat Sangh** for community water harvesting; awards include **Ramon Magsaysay (2001)** and **Stockholm Water Prize (2015)**.
+48. **IWRM** coordinates water, land, and related resources within a **river basin** to balance economy, society, and ecosystems.
+49. **Dublin Principles (1992):** freshwater is finite; participatory management; women central; water has **economic value**.
+50. **National Water Policy 2012:** river basin as planning unit; allocation priority **drinking water > ecology > agriculture > industry**.
 
+## ⏱️ Timeline / Chronology
+
+### Chronological Sequence of Global Atmospheric & Pollution Milestones
+
+```
+1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
+1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
+1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
+1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
+1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
+1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
+2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
+2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
+2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
+```
+
+## 📊 Quick Reference Grid
+
+### Shares / policy
+
+| Item | Lock |
+|------|------|
+| World water order | Oceans ~97.2% > ice ~2% > GW ~0.6% > rivers ~0.01% |
+| India freshwater share | ~**4%** water for ~**18%** population |
+| Water cycle driver | Solar radiation / evaporation |
+| World Water Day | **22 March** |
+| Rajendra Singh | Jal Purush; Magsaysay 2001; Stockholm Water Prize 2015 |
+| IWRM / Dublin | **1992**; basin as planning unit |
+| NWM | NAPCC; from **30 Jun 2008** |
+| Jal Shakti Ministry | **2019** merger |
+| Freshwater resource type | **Abiotic** (≠ biotic) |
 
 ---
 
+![Global Water Partitioning, Aquifer Hydrogeology & Water Stress](images/env_ch26_01_global_water_partitioning_aquifers.png)
+
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Integrated Water Resources Management (IWRM)** | **Watershed Management** | Coordinated macro-framework promoting the balanced development of water, land, and related resources across an entire river basin to maximize economic and social welfare equitably vs micro-level land and water conservation technique focusing on a ridge-to-valley catchment draining to a single outlet | एकीकृत जल संसाधन प्रबंधन (IWRM) / वाटरशेड (जलग्रहण) प्रबंधन |
 | **Unconfined Aquifer** | **Confined (Artesian) Aquifer** | Permeable water-bearing geological formation whose upper boundary is the free atmospheric water table directly recharged by infiltrating rainfall vs deep aquifer bounded above and below by impermeable aquitards where groundwater is stored under hydrostatic artesian pressure | अप्रतिबंधित जलभृत (मुक्त भूजल स्तर) / प्रतिबंधित (आर्टेशियन) जलभृत |
 | **Sewage Treatment Plant (STP)** | **Common Effluent Treatment Plant (CETP)** | Treatment facility designed specifically to clean domestic municipal sewage and blackwater from residential settlements vs collective facility built to treat hazardous industrial toxic effluents generated by a cluster of small- and medium-scale industrial factories | मलजल उपचार संयंत्र (STP, घरेलू सीवेज) / साझा उत्प्रवाह उपचार संयंत्र (CETP, औद्योगिक अपशिष्ट) |
@@ -63,10 +122,20 @@ hide:
 | **Central Ground Water Board (CGWB)** | **Central Ground Water Authority (CGWA)** | Apex national scientific multidisciplinary organization under Ministry of Jal Shakti assessing groundwater resources, aquifer mapping, and monitoring vs statutory regulatory authority constituted under Section 3(3) of EPA 1986 issuing mandatory NOCs and regulating industrial groundwater extraction | केंद्रीय भूजल बोर्ड (CGWB, वैज्ञानिक आकलन) / केंद्रीय भूजल प्राधिकरण (CGWA, कानूनी नियमन) |
 | **Jal Jeevan Mission (JRM / Har Ghar Jal)** | **Atal Bhujal Yojana (ABHY)** | Centrally sponsored flagship mission launched in August 2019 ensuring 55 lpcd functional household tap connections (FHTC) to all rural households by 2024 vs World Bank assisted community-led groundwater management scheme focused on water-stressed districts across 7 states | जल जीवन मिशन (हर घर जल, नल कनेक्शन) / अटल भूजल योजना (सामुदायिक भूजल प्रबंधन) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

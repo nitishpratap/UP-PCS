@@ -7,53 +7,117 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 41 — Environmental Monitoring (पर्यावरणीय निगरानी)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Lichens** are classic bio-indicators for sulphur dioxide stress.
-2. **Monitoring** means systematic repeated measurement against standards. It is not the same as an audit.
-3. **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) runs **NAMP** (manual air), **CAAQMS** (real-time air), and **NWMP** (surface water).
-4. **CGWB** monitors groundwater quality and levels and publishes the annual groundwater quality report.
-5. **SAFAR** (सफर) is the IITM air-quality and weather forecast system associated with Harsh Vardhan’s launch messaging in **July 2018**.
-6. **NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) (2019)** expands city monitoring and action. **SAMEER** is an AQI public app.
-7. **Form V** Environmental Statement under EPA Rule **14** goes to the SPCB yearly.
-8. **ISO 14001** is the Environmental Management System standard.
-9. **BOD** is microbial oxygen demand. **COD** is chemical oxygen demand. COD is usually ≥ BOD.
-10. **Environmental indicators** turn raw data into decision signals for policy and public warning.
-11. **PSR model:Pressure** (emissions, resource use) → **State** (ambient quality) → **Response** (treatment capacity, action plans).
-12. **Ringelmann scale (रिंगेलमैन पैमाना) (0–5)** measures **smoke plume density/opacity**, not water, fog, or noise.
-13. **Environmental monitoring** is systematic, repeated measurement of air, water, soil, noise, and related parameters against standards.
-14. **CPCB** runs national **air** and **surface-water** programmes and sets ambient/effluent standards with SPCBs.
-15. **NAMP** = manual air stations for long-term trends; **CAAQMS** = continuous real-time ambient air (feeds AQI boards).
-16. **NWMP** = National Water Quality Monitoring Programme for rivers/lakes.
-17. **CGWB** monitors **groundwater** levels and quality; publishes the **Annual Groundwater Quality Report** — not CPCB.
-18. **SAFAR** (IITM) combines air-quality monitoring with weather forecasting; inaugurated by **Dr. Harsh Vardhan** (July 2018).
-19. **NCAP (2019)** expands monitoring and action in non-attainment cities (including multiple UP cities).
-20. **SAMEER** app disseminates CPCB AQI; **PARIVESH** tracks EC compliance reporting.
-21. **UPPCB** issues Consent to Establish/Operate and inspects industries in Uttar Pradesh (उत्तर प्रदेश).
-22. **Environmental audit** is a systematic, documented check of whether an organisation meets environmental laws, consent conditions, and internal EMS goals.
-23. **ISO 14001** is the voluntary international standard for an **Environmental Management System (EMS)**.
+1. The **PSR** model runs **Pressure → State → Response** for environmental indicators.
+2. Air indicators include **PM2.5, PM10, SO₂, NOx, and AQI**. Water indicators include **BOD, COD, DO, pH, and coliform**.
+3. Noise is measured in **decibels**. Smoke opacity uses the **Ringelmann** scale **0–5**.
+4. **Lichens** are classic bio-indicators for sulphur dioxide stress.
+5. **Monitoring** means systematic repeated measurement against standards. It is not the same as an audit.
+6. **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) runs **NAMP** (manual air), **CAAQMS** (real-time air), and **NWMP** (surface water).
+7. **CGWB** monitors groundwater quality and levels and publishes the annual groundwater quality report.
+8. **SAFAR** (सफर) is the IITM air-quality and weather forecast system associated with Harsh Vardhan’s launch messaging in **July 2018**.
+9. **NCAP (राष्ट्रीय स्वच्छ वायु कार्यक्रम) (2019)** expands city monitoring and action. **SAMEER** is an AQI public app.
+10. An **environmental audit** verifies compliance with law or clearance conditions — it is more than raw (रॉ) data logging.
+11. **Form V** Environmental Statement under EPA Rule **14** goes to the SPCB yearly.
+12. **ISO 14001** is the Environmental Management System standard.
+13. Consent to Operate links industry permission to both monitoring data and audit compliance.
+14. **BOD** is microbial oxygen demand. **COD** is chemical oxygen demand. COD is usually ≥ BOD.
+15. NAMP shows long trend with manual stations. CAAQMS gives continuous real-time feeds.
+16. CPCB is the air–surface-water regulator home. CGWB is the groundwater home. Do not swap them.
+17. Green audits and EC compliance reports sit in the audit family, not in casual one-off sampling.
+18. Indicators turn raw numbers into decision signals for policy and public warning.
+19. Bio-indicators supplement instruments when living organisms reveal chronic pollution stress.
+20. Ringelmann is about visible smoke shade, not a water-quality number.
+21. Do not call an audit “just another AQI reading (रीडिंग).” Audit checks legal conformity.
+22. Surface-water networks (NWMP) do not replace groundwater networks (CGWB).
+23. **Environmental indicators** turn raw data into decision signals for policy and public warning.
+24. **PSR model:Pressure** (emissions, resource use) → **State** (ambient quality) → **Response** (treatment capacity, action plans).
+25. **Ringelmann scale (रिंगेलमैन पैमाना) (0–5)** measures **smoke plume density/opacity**, not water, fog, or noise.
+26. **Environmental monitoring** is systematic, repeated measurement of air, water, soil, noise, and related parameters against standards.
+27. **CPCB** runs national **air** and **surface-water** programmes and sets ambient/effluent standards with SPCBs.
+28. **NAMP** = manual air stations for long-term trends; **CAAQMS** = continuous real-time ambient air (feeds AQI boards).
+29. **NWMP** = National Water Quality Monitoring Programme for rivers/lakes.
+30. **CGWB** monitors **groundwater** levels and quality; publishes the **Annual Groundwater Quality Report** — not CPCB.
+31. **SAFAR** (IITM) combines air-quality monitoring with weather forecasting; inaugurated by **Dr. Harsh Vardhan** (July 2018).
+32. **NCAP (2019)** expands monitoring and action in non-attainment cities (including multiple UP cities).
+33. **SAMEER** app disseminates CPCB AQI; **PARIVESH** tracks EC compliance reporting.
+34. **UPPCB** issues Consent to Establish/Operate and inspects industries in Uttar Pradesh (उत्तर प्रदेश).
+35. **Environmental audit** is a systematic, documented check of whether an organisation meets environmental laws, consent conditions, and internal EMS goals.
+36. **ISO 14001** is the voluntary international standard for an **Environmental Management System (EMS)**.
 
+## ⏱️ Timeline / Chronology
 
----
+### Chronological Sequence of Global Atmospheric & Pollution Milestones
+
+```
+1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
+1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
+1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
+1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
+1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
+1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
+2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
+2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
+2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
+```
+
+## 📊 Quick Reference Grid
+
+### Tools
+
+| Item | Lock |
+|------|------|
+| PSR | Pressure → State → Response |
+| Noise / smoke | dB / Ringelmann **0–5** |
+| Lichens | SO₂ bio-indicators |
+| CPCB networks | NAMP · CAAQMS · NWMP |
+| CGWB | Groundwater quality + levels report |
+| SAFAR | IITM forecast (2018 launch messaging) |
+| SAMEER | AQI public app |
+| Form V | EPA Rule 14 Environmental Statement → SPCB yearly |
+| ISO 14001 | EMS standard |
+| Monitoring ≠ audit | Repeated measurement / compliance verification |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Environmental Indicator** | **Environmental Monitoring** | Specific quantitative metric reflecting state of an ecosystem (e.g., Lichens for SO₂, E. coli for fecal water contamination) vs continuous systematic collection and analysis of environmental data over time | पर्यावरणीय संकेतक / पर्यावरणीय निगरानी |
 | **Environmental Impact Assessment (EIA)** | **Environmental Audit** | Prospective preventive study predicting ecological impacts of a project *before* environmental clearance vs retrospective verification of legal compliance and emissions *after* commissioning | पर्यावरण प्रभाव आकलन (EIA) / पर्यावरण लेखापरीक्षा |
 | **National Air Monitoring Programme (NAMP)** | **Continuous Ambient Air Quality (CAAQMS)** | Nationwide manual sampling network monitoring SO₂, NO₂, PM10, PM2.5 twice weekly vs automated sensors measuring 12 criteria pollutants with real-time online data | राष्ट्रीय वायु निगरानी (NAMP) / सतत परिवेशी वायु निगरानी (CAAQMS) |
 | **Bioindicator** | **Biomarker** | Organism whose presence/absence indicates environmental quality (Lichens for air, Diatoms/Mayfly for fresh water) vs cellular/biochemical alteration measured in an organism due to chemical exposure | जैव संकेतक (लाइकेन/मेफ्लाई) / जैव मार्कर |
 | **Ringelmann Scale** | **Decibel (dB)** | Visual chart scale (0 to 5) used to measure the apparent density/opacity of industrial smoke emissions vs logarithmic acoustic unit measuring environmental sound levels | रिंगेलमैन पैमाना (धुआं घनत्व) / डेसिबल (ध्वनि तीव्रता) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

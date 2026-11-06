@@ -11,332 +11,474 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Daily Read — High-Yield Revision Facts (Medieval India)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2024** | **350th Anniversary of Chhatrapati Shivaji Maharaj's Coronation:** National and state-level celebrations at Raigad Fort | Shivaji crowned *Chhatrapati* on **6 June 1674** by Gaga Bhatt; Ashtapradhan, Chauth (25%), Sardeshmukhi (10%) |
+| **Sept 2023** | **Hoysala Sacred Ensembles (Belur, Halebid, Somnathapura):** 42nd UNESCO World Heritage Site | Stellate star-shaped platforms, chloritic soapstone friezes, King Vishnuvardhana |
+| **Oct 2023** | **500th Birth Anniversary of Rani Durgavati:** Commemorative coin and stamp released by GOI | Heroic queen of Garha-Katanga (Gondwana) who resisted Akbar's general Asaf Khan in 1564 CE |
+| **Dec 2023** | **Veer Bal Diwas (26 December):** National annual commemoration of Sahibzadas Zorawar Singh and Fateh Singh | Younger sons of Guru Gobind Singh executed at Sirhind in 1704 CE |
+| **2024** | **Bhojshala Complex (Dhar, MP) ASI Survey:** Scientific examination of Paramara monument | Raja Bhoja (1010–1055 CE) founded Bhojshala Sanskrit academy in 1035 CE dedicated to Vagdevi |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Jizya**: Religious protection tax levied on non-Muslim subjects (*Zimmis*):
-2. **Abolished by Akbar in 1564 CE** (also abolished pilgrim tax in 1563).
-3. **Reimposed by Aurangzeb in 1679 CE**.
-4. **Zakat**: Religious property tax levied exclusively on well-to-do Muslims (at 2.5% on wealth/savings) dedicated to charity.
-5. **Kharaj**: General land revenue tax levied on agricultural produce of lands cultivated by non-Muslims (varying between 1/5th to 1/2).
-6. **Khams**: State's share of **spoils of war / war booty**:
-7. **Alauddin Khalji and Muhammad bin Tughlaq reversed this rule**: took **4/5th for the State** and gave only 1/5th to the soldiers! Firoz Tughlaq restored orthodox rule.
-8. **Haqq-i-Sharb**: **Irrigation tax** (levied at **10% of gross produce**) introduced by **Firoz Shah Tughlaq** on peasants using state-constructed canals.
-9. **Chari & Ghari**: Taxes introduced by **Alauddin Khalji** — *Chari* was grazing tax on milch cattle; *Ghari* was tax on residential houses.
-10. **Iqta System**: Reorganized and formalized by **Iltutmish**; assignment of land revenue of a territorial tract to nobles/commanders (*Iqtadars / Muqtis / Walis*) in lieu of cash salary, responsible for maintaining troop quotas and remitting surplus (*Fawazil*) to the central treasury.
-11. **Fawazil**: Excess balance of revenue remitted to the imperial central treasury by an Iqtadar/Muqti after meeting local administrative and military expenses.
-12. **Sondhar / Taccavi**: Emergency agricultural loans given by state to farmers during famine or distress (pioneered by **Muhammad bin Tughlaq** under Diwan-i-Kohi).
-13. **Karkhanas**: Royal manufacturing workshops; categorized into *Rikabi* (movable/travel) and *Ratibi* (fixed allowances); Firoz Shah Tughlaq maintained 36 giant royal Karkhanas.
-14. **Introduced by Akbar (1571 CE)**: Military-administrative ranking system borrowed from the Mongol decimal system; ranged from rank of 10 to 5,000 (later 7,000 for top royal princes/nobles like Raja Man Singh).
-15. **Dual Ranks (Zat & Sawar)**:
-16. **Zat (जात)**: Denoted personal rank, social status, precedence at court, and fixed the personal baseline salary.
-17. **Sawar (सवार)**: Denoted the actual number of cavalry troops and horses the officer was required to maintain for imperial service.
-18. **Three Classes of Mansabdars**:
-19. **Dah-Bishi Rule (10-20 Rule)**: For every 10 cavalrymen (*Sawars*), the Mansabdar had to maintain **20 horses** (to avoid exhaustion of war mounts during campaigns).
-20. **Dagh and Chehra**: Instituted by Alauddin Khalji, revived by Sher Shah, and formalized by Akbar:
-21. **Du-aspa Sih-aspa (दो-अस्पा सिह-अस्पा)**: Introduced by **Jahangir**; allowed favored nobles to double their maintained cavalry force and salary allocation **without increasing their base Zat rank**.
-22. **Month-Scale System (*Mahana*)**: Introduced by **Shah Jahan**; due to divergence between estimated revenue (*Jama*) and actual realization (*Hasil*), Mansabdars were paid on 4-month, 6-month, or 8-month pay scales instead of full 12-month pay.
-23. **Nayankara System**:
-24. **Key Vijayanagara Administrative Terms**:
-25. **Athavana (अठवण)**: Central land revenue department.
-26. **Kandachara (कंदाचार)**: Military department presided over by the *Dandanayaka* (Commander-in-Chief).
-27. **Sist**: Standard land tax (fixed at 1/6th of gross agricultural yield based on land classification under Krishnadeva Raya).
-28. **Kavali**: Police duty; fees collected for village policing called *Kaval-katnam*.
-29. **Chauth**: Levy of **one-fourth (25%)** of land revenue extracted from neighbouring territories to protect them from Maratha raids.
-30. **Sardeshmukhi**: Additional **10% levy** claimed by Shivaji in his capacity as hereditary supreme head (*Sardeshmukh*) of Maharashtra.
-31. **Mirasdars**: Hereditary landholders.
-32. **Bargirs**: Regular cavalry provided with horses and weapons by the state.
-33. **Silahdars**: Mercenary cavalrymen who brought their own horses and arms.
-34. **Treaty of Purandar (1665)**: Between Shivaji and Mughal General **Raja Jai Singh I** of Amber; Shivaji surrendered 23 out of 35 forts.
-35. **Coronation (1674)**: At **Raigad Fort** by pandit **Gaga Bhatt** of Varanasi; assumed titles **Chhatrapati** and *Haindava Dharmoddharak*.
+1. **Jizya (जजिया कर):** Religious poll tax levied on non-Muslim subjects (*Zimmis*); first imposed in India by **Muhammad bin Qasim in Sind (712 CE)**; first levied on **Brahmins** by **Firoz Shah Tughlaq**; **abolished by Akbar in 1564 CE**; **reimposed by Aurangzeb in April 1679 CE**.
+2. **Zakat (ज़कात):** Religious property tax levied exclusively on well-to-do Muslims at the rate of **2.5% (1/40th)** of annual savings/wealth, reserved solely for Islamic charitable purposes.
+3. **Kharaj (खराज):** Standard Islamic land tax on agricultural produce levied on non-Muslim peasants, traditionally ranging between 1/5th to 1/3rd, raised to **50% (half of produce)** by **Alauddin Khalji** in the fertile Doab.
+4. **Khams (खम्स / गनीमा):** State share of war booty / plunder; Quranic law assigned **1/5th to the State** and **4/5ths to the soldiers**; **Alauddin Khalji and Muhammad bin Tughlaq reversed this rule**, arrogating **4/5ths for the State treasury** and giving only 1/5th to soldiers; Firoz Tughlaq restored orthodox rule.
+5. **Haqq-i-Sharb (हक-ए-शर्ब):** Irrigation tax levied at **10% (1/10th) of crop produce** introduced by **Firoz Shah Tughlaq** on lands cultivated using state-constructed canals.
+6. **Chari and Ghari (चरी व घरी):** Two innovative taxes introduced by **Alauddin Khalji** — *Chari* was a grazing tax on milch animals; *Ghari* was a house tax on residential dwellings.
+7. **Iqta System (इक्ता प्रणाली):** Formalized by **Shamsuddin Iltutmish**; territorial revenue assignments granted to nobles/commanders (*Muqtis / Iqtadars*) to maintain troops, enforce law, and remit surplus (**Fawazil**) to the central treasury.
+8. **Fawazil (फवाज़िल):** The excess revenue balance remitted by an Iqtadar to the imperial central treasury after deducting authorized local administrative and military expenditures.
+9. **Sondhar and Taccavi (सोंधर व तकावी):** Emergency state agricultural loans granted to distressed peasants during drought and famine; pioneered systematically by **Muhammad bin Tughlaq** under the **Diwan-i-Kohi**.
+10. **Diwan-i-Wizarat:** Central ministry of finance, budgets, and general administration headed by the **Wazir** (Prime Minister).
+11. **Diwan-i-Arz:** Central military ministry in charge of troop recruitment, muster-rolls, weapons inspection, and salary certificates; **created by Balban**; headed by the *Ariz-i-Mamalik*.
+12. **Diwan-i-Insha:** Royal secretariat managing confidential imperial correspondence, firmans, and state edicts; headed by the *Dabir-i-Mamalik*.
+13. **Diwan-i-Risalat:** Ministry managing foreign diplomatic appeals, ambassadors, religious endowments, and stipends; headed by *Sadr-us-Sudur / Qazi-ul-Quzat*.
+14. **Diwan-i-Mustakhraj:** Specialized revenue department created by **Alauddin Khalji** to investigate and recover arrears from corrupt revenue collectors and Amils.
+15. **Diwan-i-Riyasat:** Ministry of market regulation and price control created by **Alauddin Khalji**, assisted by the market superintendent **Shahna-i-Mandi**.
+16. **Diwan-i-Kohi:** Ministry of agricultural development and state farming created by **Muhammad bin Tughlaq**.
+17. **Diwan-i-Khairat & Diwan-i-Bandagan:** Welfare departments created by **Firoz Shah Tughlaq** — *Diwan-i-Khairat* for poor relief and orphan dowries; *Diwan-i-Bandagan* for managing over 180,000 royal slaves.
+18. **Dar-ul-Shafa:** Free state hospital (*Shifakhana*) dispensing unani medicines established in Delhi by **Firoz Shah Tughlaq**.
+19. **Coinage Reform of Iltutmish:** Introduced the standard silver **Tanka (175 grains)** and copper **Jital**, inscribed with the name of the Abbasid Caliph and mint town.
+20. **Bahloli Coin:** Heavy copper currency introduced by **Bahlul Lodi**, which remained the standard medium of daily exchange until Akbar's currency reforms.
+21. **Sher Shah's Currency System:** Introduced the pure silver **Rupiya (178 grains)** and copper **Dam (380 grains)**, fixing the exchange ratio at **1 Silver Rupiya = 64 Copper Dams**.
+22. **Grand Trunk Road (Sadak-i-Azam):** Built by **Sher Shah Suri** from Sonargaon (Bengal) to Rohtas Fort (Indus), studded with **1,700 Sarais** at every 2 kos.
+23. **Patta and Qabuliyat:** Agrarian system of **Sher Shah Suri** — *Patta* was the royal title deed defining land holdings; *Qabuliyat* was the peasant's deed of agreement to pay assessed taxes.
+24. **Mansabdari System:** Introduced by **Akbar in 1571 CE**; dual decimal ranking hierarchy combining **Zat** (personal status, salary rank) and **Sawar** (cavalry troops to maintain).
+25. **Dah-Bishi Rule (10-20 Rule):** Mandatory Mughal military rule requiring a Mansabdar to maintain **20 horses for every 10 sawars (troopers)** to prevent horse exhaustion during rapid marches.
+26. **Du-aspa Sih-aspa:** Rank modification introduced by **Jahangir** allowing favored nobles to double or triple their required cavalry quota without raising their base Zat rank.
+27. **Month-Scale System (Mahana):** Introduced by **Shah Jahan** to adjust salary payments when realized revenue (*Hasil*) fell short of estimated valuation (*Jama*).
+28. **Dahsala / Zabt System (1580 CE):** Land revenue system formulated by **Raja Todar Mal**; calculated average produce and prices over the preceding 10 years (1570–1580); state demand was fixed at **1/3rd in cash**.
+29. **Mughal Land Classification:** 1. **Polaj** (cultivated annually), 2. **Parauti** (left fallow 1–2 yrs), 3. **Chachar** (fallow 3–4 yrs), 4. **Banjar** (uncultivated 5+ yrs).
+30. **Mir Bakhshi (मीर बख्शी):** Supreme Mughal military administrator; inspected troops, maintained Mansabdar rolls, and signed salary pay-orders (**Sarkhat**).
+31. **Mir Saman / Khan-i-Saman:** Chief of the imperial royal household, stores, and manufacturing workshops (**Karkhanas**).
+32. **Muhtasib (मुहतसिब):** Censor of public morals appointed vigorously by Aurangzeb; verified market weights, measures, and prevented open gambling and drunkenness.
+33. **Vijayanagara Dynasties:** Four dynasties in order: **Sangama (1336–1485) → Saluva (1485–1505) → Tuluva (1505–1570) → Aravidu (1570–1646)**.
+34. **Nayankara System (नायंकर व्यवस्था):** Military-feudal system of Vijayanagara where king granted lands called **Amaram** to military chiefs (**Amaranayakas**) in lieu of salary and troop maintenance.
+35. **Ayagar System (आयंगार व्यवस्था):** System of **12 hereditary village functionaries** in Vijayanagara responsible for local governance and justice, remunerated via tax-free land grants (**Manya**).
+36. **Battle of Talikota (23 January 1565):** Combined forces of Bijapur, Ahmadnagar, Golconda, and Bidar destroyed Vijayanagara army under Rama Raya; **Berar was ABSENT**.
+37. **Foreign Travelers to Vijayanagara:** **Nicolo de Conti** (Italy, 1420 - Deva Raya I), **Abdur Razzaq** (Persia, 1443 - Deva Raya II), **Domingo Paes** & **Duarte Barbosa** (Portugal, 1516–22 - Krishnadeva Raya), **Fernao Nuniz** (Portugal, 1535 - Achyuta Deva Raya).
+38. **Shivaji's Ashtapradhan Council:** 8 ministers: Peshwa (PM), Amatya (Finance), Mantri (Intelligence), Sachiv (Correspondence), Senapati (Army), Sumant (Foreign), Nyayadhish (Law), Panditrao (Religion).
+39. **Ashtapradhan War Exemption:** Only **Nyayadhish and Panditrao** were exempt from military command; the other 6 ministers were legally bound to lead troops in battle.
+40. **Chauth and Sardeshmukhi:** **Chauth** was 1/4th (25%) of gross revenue extracted from neighboring states for protection from Maratha raids; **Sardeshmukhi** was an additional 10% claimed by Shivaji as hereditary chief of Maharashtra.
+41. **Bargir vs Silahdar:** **Bargirs** were regular cavalry provided with state-owned horses and arms; **Silahdars** were noble mercenaries who brought their own horses and weapons.
+42. **Treaty of Purandar (11 June 1665):** Signed between Shivaji and Mughal general **Mirza Raja Jai Singh I** of Amber; Shivaji surrendered 23 out of 35 forts.
+43. **Coronation of Shivaji (6 June 1674):** Celebrated at **Raigad Fort** by Varanasi pandit **Gaga Bhatt**; took title *Chhatrapati* and *Haidava Dharmoddharak*.
+44. **Sikh Gurus Order:** Nanak → Angad (Gurmukhi) → Amar Das (22 Manjis) → Ram Das (Amritsar) → Arjan Dev (Harmandir Sahib, Adi Granth 1604) → Hargobind (Miri & Piri, Akal Takht 1606) → Har Rai → Har Krishan → Tegh Bahadur (*Hind ki Chadar*, martyred 1675) → Gobind Singh (Khalsa 1699).
+45. **Banda Singh Bahadur (1670–1716):** Routed Mughals at Chappar Chiri (1710), abolished zamindari, struck coins in name of Nanak-Gobind; executed in Delhi in 1716 under Farrukhsiyar.
+46. **Maharaja Ranjit Singh:** Unified Punjab under Sukerchakia Misl; captured Lahore (1799); signed Treaty of Amritsar (1809) with Metcalfe; gold-plated Harmandir Sahib.
+47. **Vedanta Philosophies:** Advaita (Shankara), Vishishtadvaita (Ramanuja), Dvaita (Madhva), Dvaitadvaita (Nimbarka), Shuddhadvaita & Pushtimarg (Vallabhacharya), Achintya Bhedabheda (Chaitanya).
+48. **Sufi Silsilas:** Chishti (Moinuddin Chishti, Nizamuddin Auliya; shunned court, practiced Sama); Suhrawardi (Bahauddin Zakariya; accepted royal patronage); Qadiri (Dara Shikoh patron); Naqshbandi (Sheikh Ahmad Sirhindi, puritanical, Aurangzeb followed).
+49. **Autobiographies in Medieval India:** Babur wrote ***Baburnama*** in **Chagatai Turkish**; Jahangir wrote ***Tuzuk-i-Jahangiri*** in **Persian**; Firoz Tughlaq wrote brief Persian memoirs ***Futuhat-i-Firoz Shahi***.
+50. **Later Mughal Sobriquets:** Bahadur Shah I = ***Shahe Bekhabar***; Jahandar Shah = ***Lumpat Sadak***; Farrukhsiyar = ***Ghrinit Kayar***; Muhammad Shah = ***Rangeela***.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+[1206–1290 CE] Early Sultanate: Iqta system formalized by Iltutmish; Silver Tanka & Copper Jital
+   │
+[1266–1287 CE] Balban creates Diwan-i-Arz (Military Dept); implements Blood & Iron policy
+   │
+[1296–1316 CE] Alauddin Khalji: Market reforms (Shahna-i-Mandi), Dagh-Chehra, 50% Masahat tax
+   │
+[1325–1351 CE] Muhammad bin Tughlaq: Token copper currency, Diwan-i-Kohi (agriculture), Sondhar loans
+   │
+[1351–1388 CE] Firoz Shah Tughlaq: Canals (Haqq-i-Sharb), Diwan-i-Bandagan, Jizya on Brahmins
+   │
+[1540–1545 CE] Sher Shah Suri: 47 Sarkars, Gaz-i-Sikandari, Patta & Qabuliyat, Silver Rupiya (178 gr)
+   │
+[1571–1580 CE] Akbar: Mansabdari System (1571), Dahsala / Zabt System (1580 by Raja Todar Mal)
+   │
+[1605–1627 CE] Jahangir: Du-aspa Sih-aspa rank modification in Mansabdari; Chain of Justice
+   │
+[1628–1658 CE] Shah Jahan: Month-scale salary system (*Mahana*); zenith of architectural patronage
+   │
+[1674 CE] Shivaji's Swaraj: Ashtapradhan Council, Kathi land measurement, Chauth & Sardeshmukhi
+   │
+[1679 CE] Aurangzeb reimposes Jizya; highest proportion of Hindu mansabdars (31.6%–33%)
+```
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+### Dynastic Evolution of Indian Administrative Systems
+
+| Era / Empire | Primary Territorial Unit | Core Revenue System | Key Administrative Officers | Unique Innovation |
+|---|---|---|---|---|
+| **Delhi Sultanate** | **Iqta** → Shiq → Pargana → Gram | Kharaj (1/5th to 1/2), Masahat, Batai | Muqti / Wali, Shiqdar, Amil, Khut, Muqaddam | *Fawazil* remittance; market price-fixation |
+| **Sur Empire** | **Sarkar (47)** → Pargana → Gram | Measurement (*Masahat*), Ray crop schedules | Shiqdar-i-Shiqdaran, Munsif-i-Munsifan, Fotadar | Pure Silver *Rupiya*; Patta & Qabuliyat |
+| **Mughal Empire** | **Subah** → Sarkar → Pargana → Gram | **Dahsala / Zabt** (1/3rd in cash), Batai, Nasaq | Subahdar, Diwan, Faujdar, Amalguzar, Bitikchi | **Mansabdari** (Zat & Sawar); Dah-Bishi rule |
+| **Vijayanagara** | **Mandalam** → Valanadu → Nadu → Gram | Standard Sist (1/6th of produce) | Amaranayakas, Ayagars (12 village officials) | **Nayankara** & **Ayagar** village systems |
+| **Maratha Swaraj**| Prant → Tarf → Mauza (Village) | Direct collection via **Kathi** rod (33%–40%) | **Ashtapradhan** (Peshwa, Amatya, Sachiv, etc.) | **Chauth (25%)** & **Sardeshmukhi (10%)** |
+
+## 📊 Quick Reference Grid
+
+### 1. Delhi Sultanate Central Ministries (Diwans)
+
+| Department Title | Portfolio / Ministry | Founding / Transforming Sultan | Chief Official / Head |
+|---|---|---|---|
+| **Diwan-i-Wizarat** | Finance, taxation, budgeting, and imperial revenue | Established since Ghaznavid tradition | **Wazir** (Prime Minister) |
+| **Diwan-i-Arz** | Military affairs, troop recruitment, and inspections | **Created by Balban** | **Ariz-i-Mamalik** |
+| **Diwan-i-Insha** | Royal correspondence, firmans, and state edicts | Established early in Sultanate | **Dabir-i-Mamalik** |
+| **Diwan-i-Risalat** | Foreign affairs, diplomatic appeals, charity | Sadr handled charity; Qazi handled justice | **Sadr-us-Sudur / Qazi** |
+| **Diwan-i-Mustakhraj**| Arrears recovery from corrupt revenue officers | **Created by Alauddin Khalji** | Mushrif-i-Mamalik |
+| **Diwan-i-Riyasat** | Market control, merchant registration, price fixation| **Created by Alauddin Khalji** | Naib-i-Riyasat / Shahna |
+| **Diwan-i-Kohi** | Agricultural loans, state farming, crop rotation | **Created by Muhammad bin Tughlaq** | Amir-i-Kohi |
+| **Diwan-i-Khairat** | Charity for poor Muslims, dowries for poor girls | **Created by Firoz Shah Tughlaq** | Khairat Commissioner |
+| **Diwan-i-Bandagan** | Department of Royal Slaves (over 180,000 slaves) | **Created by Firoz Shah Tughlaq** | Ariz-i-Bandagan |
+| **Diwan-i-Istihqaq** | Distribution of state pensions and stipends | **Created by Firoz Shah Tughlaq** | Chief Almoner |
+
+### 2. Mughal Central & Provincial Administrative Officers
+
+| Tier / Level | Official Title | Specialized Jurisdiction & Responsibilities |
+|---|---|---|
+| **Central** | **Wazir / Diwan-i-Ala** | Supreme Finance Minister; controlled revenues and imperial expenditure |
+| **Central** | **Mir Bakhshi** | Head of Military Dept; inspected troops, passed salary pay-orders (**Sarkhat**) |
+| **Central** | **Mir Saman** | Chief of Imperial Household, palace provisions, and royal **Karkhanas** |
+| **Central** | **Sadr-us-Sudur** | Head of religious endowments and tax-free land grants (**Madad-i-Maash**) |
+| **Central** | **Muhtasib** | Censor of public morals; inspected markets, weights, and measures |
+| **Provincial (Subah)**| **Subahdar / Sipahsalar**| Governor maintaining peace, military forces, and executive authority |
+| **Provincial (Subah)**| **Diwan (Provincial)** | Independent financial head reporting directly to imperial Diwan-i-Ala |
+| **District (Sarkar)** | **Faujdar** | Executive commander of Sarkar; suppressed rebellions and assisted revenue |
+| **District (Sarkar)** | **Amalguzar** | Chief revenue assessment and tax collection officer of Sarkar |
+| **Sub-District (Pargana)**| **Shiqdar** | Executive magistrate and police head of the Pargana |
+| **Sub-District (Pargana)**| **Amil / Munsif** | Land revenue assessment officer of the Pargana |
+| **Sub-District (Pargana)**| **Fotadar** | Pargana treasurer |
+| **Village (Gram)** | **Muqaddam / Chaudhari** | Hereditary village headman responsible for tax delivery and civil order |
+| **Village (Gram)** | **Patwari** | Village land record-keeper and crop register accountant |
+
+### 3. Medieval Taxes Master Grid
+
+| Tax Name | Levied On | Rate / Share | Religious Status | Primary Sovereign / Dynasty |
+|---|---|---|---|---|
+| **Jizya** | Non-Muslim subjects (*Zimmis*) | Graded (12, 24, 48 dirhams) | Non-Muslim poll tax | Qasim (712) → Firoz Tughlaq (Brahmins) → Abolished Akbar (1564) → Reimposed Aurangzeb (1679) |
+| **Zakat** | Well-to-do Muslims | **2.5% (1/40th)** of net wealth | Islamic religious tax | Standard across all Islamic dynasties |
+| **Kharaj** | Agricultural land produce | **1/5th to 1/2 (50%)** | Land revenue tax | Alauddin Khalji fixed at 50% in Doab |
+| **Khams** | War booty / plunder | **1/5th State, 4/5ths Soldiers** | Quranic war tax | Alauddin & MBT reversed to 4/5ths State; Firoz restored 1/5th |
+| **Haqq-i-Sharb**| Canal-irrigated lands | **10% (1/10th)** of yield | State irrigation cess | **Firoz Shah Tughlaq** |
+| **Chari & Ghari**| Grazing animals & Houses | Variable | Pasture & Dwelling tax | **Alauddin Khalji** |
+| **Chauth** | Non-Maratha territories | **1/4th (25%)** of revenue | Protection against raids | **Chhatrapati Shivaji Maharaj** |
+| **Sardeshmukhi**| Non-Maratha territories | **1/10th (10%)** of revenue | Hereditary chief right | **Chhatrapati Shivaji Maharaj** |
+
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Diwan-i-Arz** | **Diwan-i-Insha** | Military department (Balban) vs royal correspondence / secretariat | दीवान-ए-अर्ज / इंशा |
+| **Diwan-i-Kohi** | **Diwan-i-Mustakhraj**| Agriculture ministry (MBT) vs revenue arrears recovery (Alauddin) | दीवान-ए-कोही / मुस्तखराज |
+| **Diwan-i-Khairat** | **Diwan-i-Bandagan** | Charity for poor/orphans vs department of slaves (both Firoz Tughlaq) | दीवान-ए-खैरात / बंदगान |
+| **Mir Bakhshi** | **Mir Saman** | Head of military & pay certificates vs head of royal household & karkhanas | मीर बख्शी / मीर सामाँ |
+| **Zat** | **Sawar** | Personal noble rank & baseline salary vs required cavalry troops to maintain | ज़ात / सवार |
+| **Bargir** | **Silahdar** | Regular cavalry mounted on state horses vs mercenary nobles riding own horses | बारगीर / सिलहदार |
+| **Chauth (25%)** | **Sardeshmukhi (10%)**| 1/4th protection against raid vs 1/10th hereditary head Deshmukh tribute | चौथ / सरदेशमुखी |
+| **Polaj** | **Parauti** | Cultivated continuously every year vs left fallow for 1–2 years | पोलज / परौती |
+| **Chachar** | **Banjar** | Left fallow for 3–4 years vs uncultivated for 5 or more years | चाचर / बंजर |
+| **Nayankara System** | **Ayagar System** | Military-feudal Amaram grants vs 12 hereditary village functionaries | नायंकर / आयंगार |
+| **Silver Rupiya (178 gr)**| **Copper Dam (380 gr)** | Pure silver standard coin vs heavy copper coin (ratio 1:64) | रुपया / दाम |
+| **Sondhar / Taccavi** | **Fawazil** | Emergency state crop loan to peasants vs surplus revenue remitted to center | सोंधर / फवाज़िल |
+
+## 🧠 Memory Anchors & Mnemonics
+
+1. **Sultanate Special Diwans Creator Formula:**
+   - **Diwan-i-Arz** = **B**alban (**A–B**)
+   - **Diwan-i-Mustakhraj & Riyasat** = **A**lauddin Khalji (**M–A**)
+   - **Diwan-i-Kohi** = **M**uhammad bin **T**ughlaq (**K–M**)
+   - **Diwan-i-Khairat & Bandagan** = **F**iroz Shah **T**ughlaq (**K–F**)
+
+2. **Dahsala Land Quality Sequence: P–P–C–B**
+   - **P**olaj (Best: Every year)
+   - **P**arauti (Good: 1–2 yrs rest)
+   - **C**hachar (Poor: 3–4 yrs rest)
+   - **B**anjar (Worst: 5+ yrs barren)
+   - *Mnemonic Hook:* "Pure Plants Can Blossom"
+
+3. **Mughal Military Dual Rank:**
+   - **Zat:** Determines **Z**at-paat (Status/Precedence) and salary.
+   - **Sawar:** Determines **S**awar (Soldiers/Cavalry) maintained.
+
+4. **Shivaji's Revenue Math:**
+   - **Chauth** = **25%** (1/4th)
+   - **Sardeshmukhi** = **10%** (1/10th)
+   - **Combined Total Burden** = **35%**
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Jizya: Religious protection tax levied on non-Muslim subjects (Zimmis):
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
+**Q1.** *(UPPCS Prelims 2021)*
+Which of the following medieval departments was established by Sultan Ghiyasuddin Balban?
+A. Diwan-i-Kohi
+B. Diwan-i-Arz
+C. Diwan-i-Mustakhraj
+D. Diwan-i-Insha
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Correct Answer:** **B** (Diwan-i-Arz)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Jizya**: Religious protection tax levied on non-Muslim subjects (*Zimmis*):
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Diwan-i-Arz:** The central military ministry created by **Ghiyasuddin Balban** to reorganize and inspect the army to defend against recurring Mongol invasions and suppress domestic revolts. It was headed by the *Ariz-i-Mamalik*.
+- **Distractor Analysis:**
+  - **Diwan-i-Kohi:** Agricultural ministry created by **Muhammad bin Tughlaq**.
+  - **Diwan-i-Mustakhraj:** Revenue arrears recovery department created by **Alauddin Khalji**.
+  - **Diwan-i-Insha:** Royal correspondence secretariat existing since early Sultanate times.
 </details>
 
-**Q2.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Abolished applies only to union territories and not state jurisdictions.
-B. Abolished by Akbar in 1564 CE (also abolished pilgrim tax in 1563).
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+**Q2.** *(UPPCS Prelims 2019)*
+Who among the following Sultans levied 'Haqq-i-Sharb' or irrigation tax for the first time?
+A. Alauddin Khalji
+B. Ghiyasuddin Tughlaq
+C. Muhammad bin Tughlaq
+D. Firoz Shah Tughlaq
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Correct Answer:** **D** (Firoz Shah Tughlaq)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Abolished by Akbar in 1564 CE** (also abolished pilgrim tax in 1563).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Firoz Shah Tughlaq** was a pioneer in developing canal irrigation networks across northern India (e.g., Yamuna and Sutlej canals). After obtaining sanction from Islamic jurists (Ulema), he imposed a separate irrigation cess termed **Haqq-i-Sharb** at the rate of **10% (1/10th) of the produce** on peasants benefiting from state-built canals.
 </details>
 
-**Q3.** in Medieval India, consider the following statement:
+**Q3.** *(UPPCS Prelims 2020)*
+With reference to medieval Indian history, which of the following statements regarding the 'Iqta System' is/are correct?
+1. 'Iqta' was an assignment of land revenue in lieu of cash salary.
+2. The excess amount paid by an Iqtadar to the imperial treasury was termed 'Fawazil'.
+3. The office of the Iqtadar was strictly hereditary from its inception under Iltutmish.
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Reimposed applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Reimposed by Aurangzeb in 1679 CE.
-D. Enacted under Article 356 of the Constitution of India
+Select the correct answer using the code given below:
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Correct Answer:** **A** (1 and 2 only)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Reimposed by Aurangzeb in 1679 CE**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Statement 1 is correct:** An Iqta was a territorial revenue assignment given to nobles (*Muqtis / Walis*) to maintain troop contingents and cover personal salaries.
+- **Statement 2 is correct:** The surplus revenue balance remitted to the imperial treasury after deducting approved military and administrative expenditures was called **Fawazil**.
+- **Statement 3 is incorrect:** Under Iltutmish, Balban, and Alauddin Khalji, Iqtas were **transferable and non-hereditary**. It was **Firoz Shah Tughlaq** who made Iqtas hereditary, weakening the imperial state.
 </details>
 
-**Q4.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Zakat: applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Zakat: Religious property tax levied exclusively on well-to-do Muslims (at 2.5% on wealth/savings) dedicated to charity.
+**Q4.** *(UPPCS Prelims 2018)*
+In the Mughal administrative system, the officer designated as 'Mir Bakhshi' was primarily responsible for:
+A. Superintending the royal treasury
+B. The military organization and issuing salary certificates
+C. Dispensing civil and criminal justice
+D. Managing the royal household and karkhanas
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Correct Answer:** **B** (The military organization and issuing salary certificates)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Zakat**: Religious property tax levied exclusively on well-to-do Muslims (at 2.5% on wealth/savings) dedicated to charity.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Mir Bakhshi:** The supreme military administrative official under the Mughals. He personally reviewed troops, maintained the muster-rolls and descriptive registers of Mansabdars, introduced candidates to the Emperor for appointment, and endorsed pay vouchers (**Sarkhat**) without which the Diwan could not disburse salaries.
+- **Distractors:**
+  - Royal household/karkhanas was headed by **Mir Saman**.
+  - Justice was headed by **Qazi-ul-Quzat**.
+  - Treasury was headed by **Diwan-i-Ala (Wazir)**.
 </details>
 
-**Q5.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Kharaj: General land revenue tax levied on agricultural produce of lands cultivated by non-Muslims (varying between 1/5th to 1/2).
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
+**Q5.** *(UPPCS Prelims 2022)*
+Which of the following pairs is NOT correctly matched?
+A. Diwan-i-Mustakhraj — Alauddin Khalji
+B. Diwan-i-Kohi — Muhammad bin Tughlaq
+C. Diwan-i-Khairat — Firoz Shah Tughlaq
+D. Diwan-i-Riyasat — Balban
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Correct Answer:** **D** (Diwan-i-Riyasat — Balban is incorrectly matched)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Kharaj**: General land revenue tax levied on agricultural produce of lands cultivated by non-Muslims (varying between 1/5th to 1/2).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Diwan-i-Riyasat** was created by **Alauddin Khalji** as the central ministry to enforce his celebrated market control regulations and supervise merchants, not by Balban. Balban created **Diwan-i-Arz**.
 </details>
 
-**Q6.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Khams: applies only to union territories and not state jurisdictions.
-B. Khams: State's share of spoils of war / war booty:
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
+**Q6.** *(UPPCS Prelims 2017)*
+The 'Dahsala System' of land revenue administration was introduced by which Mughal emperor?
+A. Babur
+B. Akbar
+C. Jahangir
+D. Shah Jahan
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Correct Answer:** **B** (Akbar)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Khams**: State's share of **spoils of war / war booty**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- The **Dahsala System (or Zabt System)** was introduced in **1580 CE** (Akbar's 24th regnal year) by finance minister **Raja Todar Mal**. It based assessment on the 10-year average productivity and price trends between 1570 and 1580 CE, fixing the state share at 1/3rd in cash.
 </details>
 
-**Q7.** in Medieval India, consider the following statement:
+**Q7.** *(UPPCS Prelims 2019)*
+In the context of the Mughal Mansabdari system, consider the following statements:
+1. 'Zat' indicated the personal status and salary of the Mansabdar.
+2. 'Sawar' indicated the number of cavalrymen the Mansabdar was required to maintain.
+3. The 'Du-aspa Sih-aspa' system was introduced by Emperor Shah Jahan.
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Alauddin applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Alauddin Khalji and Muhammad bin Tughlaq reversed this rule: took 4/5th for the State and gave only 1/5th to the soldiers! Firoz Tughlaq restored orthodox rule.
-D. Classified under Schedule VII List II (State List)
+Which of the statements given above are correct?
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Correct Answer:** **A** (1 and 2 only)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Alauddin Khalji and Muhammad bin Tughlaq reversed this rule**: took **4/5th for the State** and gave only 1/5th to the soldiers! Firoz Tughlaq restored orthodox rule.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Statements 1 & 2 are correct:** Zat denoted personal hierarchical standing and base pay; Sawar indicated cavalry strength.
+- **Statement 3 is incorrect:** The **Du-aspa Sih-aspa** rank was introduced by **Jahangir**, not Shah Jahan. Shah Jahan introduced the Month-scale system (*Mahana*).
 </details>
 
-**Q8.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Haqq-i-Sharb: applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Haqq-i-Sharb: Irrigation tax (levied at 10% of gross produce) introduced by Firoz Shah Tughlaq on peasants using state-constructed canals.
+**Q8.** *(UPPCS Prelims 2021)*
+Under the Dahsala land revenue classification, land left uncultivated for 3 or 4 years to regain its fertility was termed:
+A. Polaj
+B. Parauti
+C. Chachar
+D. Banjar
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Correct Answer:** **C** (Chachar)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Haqq-i-Sharb**: **Irrigation tax** (levied at **10% of gross produce**) introduced by **Firoz Shah Tughlaq** on peasants using state-constructed canals.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Chachar:** Land left fallow for 3 to 4 consecutive years.
+- **Polaj:** Cultivated continuously every year.
+- **Parauti:** Left fallow for 1 to 2 years.
+- **Banjar:** Land uncultivated for 5 or more years.
 </details>
 
-**Q9.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Chari & Ghari: Taxes introduced by Alauddin Khalji — Chari was grazing tax on milch cattle; Ghari was tax on residential houses.
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
+**Q9.** *(UPPCS Prelims 2020)*
+Which ruler introduced the pure silver coin called 'Rupiya' weighing 178 grains?
+A. Akbar
+B. Sher Shah Suri
+C. Iltutmish
+D. Alauddin Khalji
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Correct Answer:** **B** (Sher Shah Suri)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Chari & Ghari**: Taxes introduced by **Alauddin Khalji** — *Chari* was grazing tax on milch cattle; *Ghari* was tax on residential houses.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Sher Shah Suri (1540–1545 CE)** introduced the pure silver **Rupiya** weighing **178 grains** (173 grains pure silver) and copper **Dam** weighing **380 grains**, with an exchange ratio of 1:64. This became the basis of the modern Indian Rupee.
 </details>
 
-**Q10.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Iqta applies only to union territories and not state jurisdictions.
-B. Iqta System: Reorganized and formalized by Iltutmish; assignment of land revenue of a territorial tract to nobles/commanders (Iqtadars / Muqtis / Walis) in lieu of cash salary, responsible for maintaining troop quotas and remitting surplus (Fawazil) to the central treasury.
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
+**Q10.** *(UPPCS Prelims 2018)*
+With reference to the Vijayanagara Empire, the 'Ayagar System' was associated with:
+A. Central revenue administration
+B. Military tenure of provincial governors
+C. Village administration by twelve hereditary functionaries
+D. Maritime commercial guild regulations
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Correct Answer:** **C** (Village administration by twelve hereditary functionaries)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Iqta System**: Reorganized and formalized by **Iltutmish**; assignment of land revenue of a territorial tract to nobles/commanders (*Iqtadars / Muqtis / Walis*) in lieu of cash salary, responsible for maintaining troop quotas and remitting surplus (*Fawazil*) to the central treasury.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- In Vijayanagara, every village was an autonomous administrative unit governed by a body of **12 hereditary officials known as Ayagars** (including headman, accountant, watchman, blacksmith, potter, etc.), remunerated through tax-free plots of land called **Manya**.
 </details>
 
-**Q11.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Fawazil: applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Fawazil: Excess balance of revenue remitted to the imperial central treasury by an Iqtadar/Muqti after meeting local administrative and military expenses.
-D. It was established during the First Five-Year Plan period
+**Q11.** *(UPPCS Prelims 2021)*
+In Shivaji's council of ministers (Ashtapradhan), which two ministers were completely exempt from military command in the field?
+A. Peshwa and Amatya
+B. Nyayadhish and Panditrao
+C. Senapati and Sumant
+D. Sachiv and Waqia-Navis
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Correct Answer:** **B** (Nyayadhish and Panditrao)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Fawazil**: Excess balance of revenue remitted to the imperial central treasury by an Iqtadar/Muqti after meeting local administrative and military expenses.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- In Shivaji's **Ashtapradhan**, six ministers (Peshwa, Amatya, Sachiv, Mantri, Sumant, Senapati) were required to command military forces and lead armies during war. ONLY the **Nyayadhish (Chief Justice)** and **Panditrao (Ecclesiastical Head)** were legally exempt from battlefield service.
 </details>
 
-**Q12.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Sondhar applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Sondhar / Taccavi: Emergency agricultural loans given by state to farmers during famine or distress (pioneered by Muhammad bin Tughlaq under Diwan-i-Kohi).
+**Q12.** *(UPPCS Prelims 2019)*
+'Chauth' and 'Sardeshmukhi' collected by the Marathas were:
+A. Taxes levied exclusively on trade caravans
+B. Agricultural assessment levies collected from neighboring non-Maratha territories
+C. Custom duties at coastal ports
+D. Toll taxes on pilgrimage routes
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Correct Answer:** **B** (Agricultural assessment levies collected from neighboring non-Maratha territories)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Sondhar / Taccavi**: Emergency agricultural loans given by state to farmers during famine or distress (pioneered by **Muhammad bin Tughlaq** under Diwan-i-Kohi).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Chauth** was a military tax equal to **one-fourth (25%)** of land revenue collected from neighboring Mughal or Deccan territories to spare them from plundering raids.
+- **Sardeshmukhi** was an additional **10% levy** claimed by Shivaji as hereditary supreme head (*Sardeshmukh*) of Maharashtra.
 </details>
 
-**Q13.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Karkhanas: Royal manufacturing workshops; categorized into Rikabi (movable/travel) and Ratibi (fixed allowances); Firoz Shah Tughlaq maintained 36 giant royal Karkhanas.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. None of the above statements are correct according to official Commission keys.
-D. Enacted under Article 356 of the Constitution of India
+**Q13.** *(UPPCS Prelims 2022)*
+Which of the following foreign travelers visited the Vijayanagara Empire during the reign of Emperor Deva Raya II?
+A. Nicolo de Conti
+B. Abdur Razzaq
+C. Duarte Barbosa
+D. Domingo Paes
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Correct Answer:** **B** (Abdur Razzaq)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Karkhanas**: Royal manufacturing workshops; categorized into *Rikabi* (movable/travel) and *Ratibi* (fixed allowances); Firoz Shah Tughlaq maintained 36 giant royal Karkhanas.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Abdur Razzaq**, ambassador from the Timurid ruler Shah Rukh of Persia/Herat, visited Vijayanagara in **1443 CE** during the reign of **Deva Raya II** (Sangama dynasty).
+- Nicolo de Conti visited earlier under **Deva Raya I (1420 CE)**.
+- Domingo Paes and Duarte Barbosa visited during the reign of **Krishnadeva Raya (1509–1529 CE)**.
 </details>
 
-**Q14.** in Medieval India, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Introduced applies only to union territories and not state jurisdictions.
-B. Introduced by Akbar (1571 CE): Military-administrative ranking system borrowed from the Mongol decimal system; ranged from rank of 10 to 5,000 (later 7,000 for top royal princes/nobles like Raja Man Singh).
-C. None of the above statements are correct according to official Commission keys.
-D. Reported by the Law Commission in its 214th consultation paper
+**Q14.** *(UPPCS Prelims 2020)*
+Which Sikh Guru compiled the 'Adi Granth' and installed it in Harmandir Sahib in 1604 CE?
+A. Guru Nanak Dev
+B. Guru Ram Das
+C. Guru Arjan Dev
+D. Guru Gobind Singh
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Correct Answer:** **C** (Guru Arjan Dev)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Introduced by Akbar (1571 CE)**: Military-administrative ranking system borrowed from the Mongol decimal system; ranged from rank of 10 to 5,000 (later 7,000 for top royal princes/nobles like Raja Man Singh).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Guru Arjan Dev**, the 5th Sikh Guru, compiled the **Adi Granth in 1604 CE** at Amritsar, incorporating hymns of the first five Gurus and diverse Hindu-Muslim Bhakti saints. It was installed in Harmandir Sahib with **Baba Buddha** as the first Head Granthi.
 </details>
 
-**Q15.** in Medieval India, consider the following statement:
+**Q15.** *(UPPCS Prelims 2021)*
+Match List-I (Philosophy) with List-II (Propounder):
 
-Which of the following is correct regarding this topic?
+| List-I | List-II |
+|---|---|
+| A. Advaita | 1. Ramanujacharya |
+| B. Vishishtadvaita | 2. Adi Shankaracharya |
+| C. Dvaita | 3. Vallabhacharya |
+| D. Shuddhadvaita | 4. Madhvacharya |
 
-A. Enacted under Article 356 of the Constitution of India
-B. Reported by the Law Commission in its 214th consultation paper
-C. Dual Ranks (Zat & Sawar):
-D. Amended by the 44th Constitutional Amendment Act
+Select the correct code:
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Correct Answer:** **A** (A-2, B-1, C-4, D-3)
 
 **Detailed Explanation:**
-- **Key Exam Association:** **Dual Ranks (Zat & Sawar)**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+- **Advaita (Absolute Non-dualism):** Adi Shankaracharya
+- **Vishishtadvaita (Qualified Non-dualism):** Ramanujacharya
+- **Dvaita (Dualism):** Madhvacharya
+- **Shuddhadvaita (Pure Non-dualism):** Vallabhacharya
 </details>

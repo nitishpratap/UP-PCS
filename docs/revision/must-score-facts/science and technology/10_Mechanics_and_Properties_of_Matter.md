@@ -7,72 +7,19 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🔬 Science & Technology &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 2 — Mechanics, Gravitation and Physical Properties of Matter</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year / Ref | Key Fact & Astronomical Milestone | Exam Relevance & Significance |
+|---|---|---|
+| **2026 IAU Consensus** | **Confirmed Planetary Moons in Solar System**: **Saturn #1 with 285 confirmed moons**; **Jupiter #2 with 101 confirmed moons**. | Mercury and Venus possess **0 moons**; Earth has 1; Mars has 2 (Phobos & Deimos); Uranus has 29; Neptune has 16. |
+| **2024–25 Project** | **LIGO-India (Aundha Nagnath, Hingoli, Maharashtra)**: World-class gravitational wave observatory approved by Union Cabinet. | Third advanced LIGO detector; detects ripples in spacetime predicted by Einstein's General Relativity. |
+| **Deep-Ocean Mission** | **Matsya-6000 Submersible Trials (MoES / NIOT)**: Deep-sea human submersible designed for $6000	ext{ m}$ depth. | Operates under extreme hydrostatic pressure ($pprox 600	ext{ atmospheres}$); demonstrates Pascal's hydrostatic principles. |
+| **Space Dynamics** | **Artemis & Gaganyaan Orbital Mechanics**: Lunar transfer orbits utilize Earth's gravity assist and orbital velocity boosts. | Orbital velocity at low Earth orbit $pprox 7.9	ext{ km/s}$; Escape velocity from Earth $= 11.2	ext{ km/s}$. |
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Confirmed Moons Count in Solar System (2026 IAU Data)**:
-2. **Saturn**: Maximum number of confirmed satellites in the solar system = **285 moons** (leading the solar system).
-3. **Jupiter**: **101 confirmed moons** (Ganymede, Callisto, Io, Europa).
-4. **Uranus**: 29 moons; **Neptune**: 16 moons; **Mars**: 2 moons (Phobos & Deimos); **Earth**: 1 moon; **Mercury & Venus**: 0 moons; Dwarf planet **Pluto**: 5 moons.
-5. **71st BPSC (Pre 2025) Mechanics & Fluid Facts**:
-6. **UKPCS (Pre 2025) Elasticity & Thermal Facts**:
-7. **UP RO/ARO (Pre 2023) Moduli of Elasticity Facts**:
-8. **70th BPSC (Pre 2024) Gas Liquefaction Condition**:
-9. **Brahmagupta's Precedence**: 7th-century astronomer Brahmagupta (*Brahmasphuta Siddhanta*) stated that all bodies gravitate toward Earth long before Newton.
-10. **Definition of Speed**: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
-11. **Mass vs Weight**: Mass ($kg$, scalar, constant everywhere) measures inertia. Weight ($N$, vector, $W = mg$) depends on local gravitational acceleration.
-12. **Deep Breath on Sensitive Scale**: Inhaling deeply increases scale reading because $4.8\text{ L}$ of inhaled air adds $\approx 5.88\text{ g}$ mass.
-13. **Distance vs Displacement**: Distance is actual path length (scalar, $\ge 0$). Displacement is shortest straight line (vector, can be zero).
-14. **Average Speed for Equal Distance Halves**: Harmonic mean $v_{\text{avg}} = \frac{2 v_1 v_2}{v_1 + v_2}$.
-15. **Newton's First Law (Inertia)**: Passenger leans backwards when vehicle starts (inertia of rest); leans forwards on sudden braking (inertia of motion); leans left when bus turns sharp right (inertia of direction).
-16. **Newton's Second Law**: $F = \frac{dp}{dt} = ma$. Goalkeeper pulls hands backwards to prolong contact time ($t$), lowering rate of change of momentum and impact force.
-17. **Newton's Third Law**: Action and reaction forces are equal, opposite, and act simultaneously on **two different bodies**.
-18. **Propulsion by Whistling**: On frictionless ice, whistling/blowing air forward expels momentum, generating an equal backward reaction that propels the body (conservation of momentum).
-19. **Boat Jump**: Jumping at $5\text{ m/s}$ from a boat that recoils at $0.5\text{ m/s}$ implies the boat is **10 times heavier** than the person ($M_{\text{boat}} = 10 M_{\text{man}}$).
-20. **Friction Hierarchy**: **Static Friction $>$ Kinetic (Sliding) Friction $>$ Rolling Friction**.
-21. **Loaded Cart Principle**: Harder to start moving than to keep rolling because limiting static friction exceeds dynamic kinetic friction.
-22. **Ball Bearings**: Convert sliding/static friction into **rolling friction** by drastically minimizing contact surface area.
-23. **Marginal Friction at Constant Speed**: $a = 0 \implies F_{\text{applied}} = f_{\text{friction}}$ ($200\text{ N} \implies 200\text{ N}$).
-24. **Energy in Friction**: Moving against friction irreversibly dissipates **kinetic energy into heat energy**.
-25. **Simple Machines**: Enable doing the **same amount of work with lesser effort force**; they never save total energy.
-26. **Centripetal Force**: Inward radial force ($F_c = mv^2/r$) required for circular paths (gravity for orbits, tire friction for curves).
-27. **Centrifugal Force**: Fictitious outward inertial force in rotating frames; drives cream separation from milk and washing machine spin drying.
-28. **Overturning on Curves**: Unbanked vehicle moving too fast skids outwards and **overturns about its outer wheels**.
-29. **Coriolis Force**: Due to Earth's rotation; deflects winds/currents to the **right in Northern Hemisphere** and **left in Southern Hemisphere**.
-30. **Accelerated Liquid Tanker**: When a tanker accelerates forward, the liquid surface tilts backward, creating **larger depth at the rear end** ($\tan\theta = a/g$).
-31. **Equal KE Stopping Distance**: Vehicles with equal KE stop over the **same distance ($X = Y = Z$)** under equal braking forces ($W = F \cdot d = KE$).
-32. **de Broglie Wavelength**: $\lambda = h/p$. For $0.12\text{ kg}$ ball at $20\text{ m/s}$, $\lambda = 2.76 \times 10^{-34}\text{ m}$.
-33. **Energy Sources NOT from Sun**: **Geothermal energy** and **Nuclear energy** do NOT originate from solar radiation. Biomass and wind are solar-derived.
-34. **Kepler's Laws**: 1st (elliptical orbits, Sun at focus); 2nd (areal velocity constant; fastest at perihelion, slowest at aphelion); 3rd ($T^2 \propto a^3$).
-35. **Universal Gravitational Constant**: $G = 6.67430 \times 10^{-11}\text{ N}\cdot m^2/kg^2$ (measured by Henry Cavendish).
-
-
----
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
-| **Steel vs Rubber Elasticity** | In physics, **Steel is more elastic than rubber** because steel has a higher Young's Modulus and offers greater restoring force per unit strain. |
-| **Cohesion vs Adhesion** | **Cohesion** is attraction between *like* molecules (water-water, mercury-mercury). **Adhesion** is attraction between *unlike* molecules (water-glass, ink-paper). |
-| **Viscosity of Liquid vs Gas** | With increasing temperature, liquid viscosity **decreases**, but gas viscosity **increases** due to greater molecular momentum exchange. |
-| **Capillary Rise vs Depression** | Water wets glass (acute angle) $\implies$ **capillary rise** with concave meniscus. Mercury does not wet glass (obtuse angle) $\implies$ **capillary depression** with convex meniscus. |
-| **Excess Pressure: Drop vs Bubble** | Liquid drop (one surface): $\Delta P = \frac{2T}{R}$. Soap bubble (two surfaces, inner & outer): $\Delta P = \frac{4T}{R}$. |
-| **Iron Ball in Water vs Mercury** | Iron ball sinks in water ($\text{density } 7.8 > 1.0\text{ g/cm}^3$) but floats in mercury ($\text{density } 7.8 < 13.6\text{ g/cm}^3$). |
-| **Iceberg in Freshwater vs Seawater** | In freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface. |
-| **Straw vs Blotting Paper** | Blotting paper absorbs ink by **capillarity**. Drinking through a straw operates by **atmospheric pressure difference** created by mouth suction, NOT capillarity. |
-
-
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Brahmagupta's Precedence**: 7th-century astronomer Brahmagupta (*Brahmasphuta Siddhanta*) stated that all bodies gravitate toward Earth long before Newton.
+1. **Brahmagupta's Precedence**: 7th-century astronomer Brahmagupta (*Brahmasphuta Siddhanta*) stated that all bodies gravitate toward Earth long before Newton.
 2. **Definition of Speed**: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
 3. **Mass vs Weight**: Mass ($kg$, scalar, constant everywhere) measures inertia. Weight ($N$, vector, $W = mg$) depends on local gravitational acceleration.
 4. **Deep Breath on Sensitive Scale**: Inhaling deeply increases scale reading because $4.8\text{ L}$ of inhaled air adds $\approx 5.88\text{ g}$ mass.
@@ -123,524 +70,349 @@ hide:
 49. **Charging a Soap Bubble**: Placing an electric charge (positive or negative) on a soap bubble causes mutual electrostatic repulsion, causing its **radius to expand**.
 50. **Capillarity (Capillary Action)**: Rise or fall of liquids in narrow tubes. Liquids that wet glass (contact angle $<90^\circ$, e.g. water) rise; liquids that do not wet glass (contact angle $>90^\circ$, e.g. mercury) show capillary depression.
 
-</details>
+## ⏱️ Timeline / Chronology
 
-<details class="st-chapter-toggle st-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+```
+1609–1619 ── Johannes Kepler publishes Three Laws of Planetary Motion
+ │
+1638 ── Galileo Galilei publishes 'Discourses on Two New Sciences' (Inertia & falling bodies)
+ │
+1687 ── Sir Isaac Newton publishes 'Philosophiae Naturalis Principia Mathematica' (Laws of Motion & Gravitation)
+ │
+1738 ── Daniel Bernoulli publishes 'Hydrodynamica' (Conservation of energy in fluid flow)
+ │
+1798 ── Henry Cavendish measures universal gravitational constant G using torsion balance
+ │
+1851 ── George Gabriel Stokes formulates Stokes' Law for fluid viscosity and terminal velocity
+ │
+2024–25 ── India's Deep Ocean Mission & Gaganyaan orbital insertion ballistic trajectories
+```
 
-| Pairs / Concepts | Critical Distinction & Trap Alert |
-|---|---|
-| **Steel vs Rubber Elasticity** | In physics, **Steel is more elastic than rubber** because steel has a higher Young's Modulus and offers greater restoring force per unit strain. |
-| **Cohesion vs Adhesion** | **Cohesion** is attraction between *like* molecules (water-water, mercury-mercury). **Adhesion** is attraction between *unlike* molecules (water-glass, ink-paper). |
-| **Viscosity of Liquid vs Gas** | With increasing temperature, liquid viscosity **decreases**, but gas viscosity **increases** due to greater molecular momentum exchange. |
-| **Capillary Rise vs Depression** | Water wets glass (acute angle) $\implies$ **capillary rise** with concave meniscus. Mercury does not wet glass (obtuse angle) $\implies$ **capillary depression** with convex meniscus. |
-| **Excess Pressure: Drop vs Bubble** | Liquid drop (one surface): $\Delta P = \frac{2T}{R}$. Soap bubble (two surfaces, inner & outer): $\Delta P = \frac{4T}{R}$. |
-| **Iron Ball in Water vs Mercury** | Iron ball sinks in water ($\text{density } 7.8 > 1.0\text{ g/cm}^3$) but floats in mercury ($\text{density } 7.8 < 13.6\text{ g/cm}^3$). |
-| **Iceberg in Freshwater vs Seawater** | In freshwater, $1/10\text{th}$ is above surface ($90\%$ submerged). In denser seawater, $\approx 1/9\text{th}$ is above surface. |
-| **Straw vs Blotting Paper** | Blotting paper absorbs ink by **capillarity**. Drinking through a straw operates by **atmospheric pressure difference** created by mouth suction, NOT capillarity. |
-
-</details>
-
-## Teaching Cards — Mechanics and Properties of Matter
-
-## 2.1 Motion — Distance, Speed and Acceleration
-
-**Kinematics** describes motion using distance, displacement, speed, velocity and acceleration without naming the force that causes it.
-
-- **Distance** is the actual path length; it is a scalar and is never negative.
-- **Displacement** is the shortest straight-line change of position; it is a vector and can be zero after a round trip.
-- **Speed** is distance per unit time; **velocity** is displacement per unit time and has direction.
-- For equal distance halves at speeds $v_1$ and $v_2$, average speed is the harmonic mean $\dfrac{2v_1 v_2}{v_1+v_2}$.
-- Under constant acceleration, $v = u + at$, $s = ut + \tfrac{1}{2}at^2$, and $v^2 = u^2 + 2as$.
-- In free fall from rest (neglecting air), $v = \sqrt{2gh}$ and all masses fall with the same $g$ in vacuum.
-
-## 2.2 Newton’s Laws and Momentum
-
-**Newton’s laws** link force to the change of motion of a body.
-
-- The first law is inertia: a body keeps its state of rest or uniform motion unless a net force acts.
-- A passenger leans back when a bus starts and leans forward on sudden braking because of inertia.
-- The second law is $F = \dfrac{dp}{dt} = ma$; impulse $F\Delta t$ equals change of momentum.
-- A goalkeeper pulls the hands back while catching to increase $\Delta t$ and reduce impact force.
-- The third law says action and reaction are equal, opposite, and act on **two different bodies**.
-- On frictionless ice, blowing air forward produces a backward reaction that moves the body.
-
-## 2.3 Friction and Circular Motion
-
-**Friction** opposes relative motion at contact; circular motion needs a centre-seeking force.
-
-- Hierarchy: **static friction $>$ kinetic friction $>$ rolling friction**.
-- A loaded cart is harder to start than to keep moving because limiting static friction is larger.
-- Ball bearings convert sliding friction into rolling friction by reducing contact area.
-- At constant velocity, net force is zero, so applied force equals kinetic friction.
-- **Centripetal force** $mv^2/r$ is real and inward; **centrifugal force** is the outward inertial force in a rotating frame.
-- On an unbanked curve, excess speed makes the vehicle skid outward and can overturn about the outer wheels.
-
-## 2.4 Work, Power and Energy
-
-**Work** transfers energy by a force acting through a displacement.
-
-- $W = Fs\cos\theta$; work is zero when force is perpendicular to displacement.
-- Power is $P = W/t = Fv$; $1\text{ hp} = 746\text{ W}$.
-- Kinetic energy is $\tfrac{1}{2}mv^2$; gravitational potential energy near Earth is $mgh$.
-- Mechanical energy is conserved when non-conservative work (like friction heat loss) is absent.
-- Simple machines let you use a smaller effort for the same work; they do not create energy.
-
-## 2.5 Gravitation, Satellites and Escape
-
-**Gravitation** is the mutual attraction between masses, governed by Newton’s inverse-square law.
-
-- Kepler’s first law: planets move in ellipses with the Sun at one focus.
-- Kepler’s second law: areal velocity is constant — fastest at perihelion, slowest at aphelion.
-- Kepler’s third law: $T^2 \propto a^3$.
-- $g = GM/R^2$ is independent of the falling object’s mass; it is larger at poles than at the equator.
-- Orbital speed near Earth is about $7.92\text{ km/s}$; escape speed is about $11.2\text{ km/s} = \sqrt{2}\,V_o$.
-- The Moon lacks a lasting atmosphere because lunar escape speed is lower than the typical thermal speed of light gases.
-- In an elevator, apparent weight is $m(g+a)$ when accelerating up and $m(g-a)$ when accelerating down; free fall gives weightlessness.
-
-## 2.6 Pendulum and Simple Harmonic Motion
-
-**A simple pendulum** approximates SHM for small angles.
-
-- Period $T = 2\pi\sqrt{l/g}$ does **not** depend on bob mass.
-- Longer length or smaller $g$ increases period.
-- In summer a metal rod expands, $l$ rises, clocks with pendulums **lose** time; in winter they **gain** time.
-- A seconds pendulum has $T = 2\text{ s}$ and length about $1\text{ m}$ on Earth.
-
-## 2.7 Elasticity and Moduli
-
-**Elasticity** is the ability to regain original shape after the deforming force is removed.
-
-- Hooke’s law: within the proportional limit, stress is proportional to strain.
-- Stress $= F/A$ (pascal); strain $= \Delta L/L$ is dimensionless.
-- **Steel is more elastic than rubber** because steel has a much higher Young’s modulus.
-- Bulk modulus of a perfectly rigid body is **infinite** because volumetric strain is zero.
-- Stretching a helical spring coil is governed mainly by the **shear modulus**.
-
-## 2.8 Surface Tension and Capillarity
-
-**Surface tension** makes a liquid surface behave like a stretched membrane.
-
-- Drops and bubbles become spherical to minimise surface area.
-- Surface tension falls with rising temperature and is zero at the critical temperature.
-- Excess pressure for a liquid drop is $2T/R$; for a soap bubble (two surfaces) it is $4T/R$.
-- When two soap bubbles connect, air flows from the smaller (higher pressure) to the larger.
-- **Cohesion** is like-with-like attraction; **adhesion** is unlike-with-unlike attraction.
-- Water rises in a clean glass capillary; mercury shows capillary depression.
-- Oil on water spreads because water’s surface tension is higher; a straw drink works by suction, **not** capillarity.
-
-## 2.9 Viscosity and Fluid Statics
-
-**Viscosity** is internal friction between fluid layers; fluid statics covers pressure and buoyancy.
-
-- In streamlined pipe flow, speed is zero at the wall and maximum on the axis.
-- Liquid viscosity **decreases** with temperature; gas viscosity **increases** with temperature.
-- Relative viscosity order: honey $>$ glycerine $>$ blood $>$ water $>$ air.
-- Pascal’s law: pressure in a confined liquid transmits undiminished — basis of hydraulic brakes and presses.
-- Torricelli’s law: efflux speed at depth $h$ is $\sqrt{2gh}$.
-- Archimedes’ principle: upthrust equals weight of fluid displaced.
-- A floating ice cube melting in water leaves the water level **unchanged**.
-- A ship rising from river to sea floats slightly higher because seawater is denser.
-
----
-
-## Master Tables & Core Formulations
-
-### Table 1: Master Formula Matrix for Kinematics & Mechanics
-| Concept / Law | Formula / Relationship | Key Points |
+| Landmark Year | Scientist / Physicist | Theoretical Breakthrough & Law |
 |---|---|---|
-| **Kinematic Equations (Uniform Acceleration)** | $v = u + at$ <br> $s = ut + \frac{1}{2}at^2$ <br> $v^2 = u^2 + 2as$ | For free fall under gravity from rest ($u=0$): $v = gt$, $h = \frac{1}{2}gt^2$, $v = \sqrt{2gh}$. |
-| **Displacement in $n^{\text{th}}$ second** | $s_n = u + \frac{a}{2}(2n - 1)$ | Ratio of distances in successive seconds from rest: $1 : 3 : 5 : 7 : \dots$ (Galileo's odd-number rule). |
-| **Harmonic Average Speed** | $v_{\text{avg}} = \frac{2 v_1 v_2}{v_1 + v_2}$ | Applies when two equal distances are traversed at speeds $v_1$ and $v_2$. |
-| **Newton's 2nd Law & Momentum** | $F = \frac{dp}{dt} = ma = m \frac{v - u}{t}$ | Impulse $J = F \Delta t = \Delta p = m(v - u)$ ($N\cdot s$). |
-| **Work Done** | $W = F s \cos\theta$ | $W > 0$ if $\theta < 90^\circ$; $W = 0$ if $\theta = 90^\circ$ (centripetal force); $W < 0$ if $\theta = 180^\circ$ (friction). |
-| **Power** | $P = \frac{W}{t} = F v$ | $1\text{ W} = 1\text{ J/s}$; $1\text{ hp} = 746\text{ W}$. |
-| **Kinetic Energy & Momentum** | $KE = \frac{1}{2}mv^2 = \frac{p^2}{2m}$ | If momentum $p$ is doubled, $KE$ becomes 4 times. |
-| **Gravitational Potential Energy** | $PE = mgh$ | Stored energy due to position in Earth's gravitational field. |
-| **Universal Gravitation** | $F = G \frac{m_1 m_2}{r^2}$ | $G = 6.67430 \times 10^{-11}\text{ N}\cdot m^2/kg^2$ (measured by Cavendish). |
-| **Acceleration due to Gravity** | $g = \frac{G M_e}{R_e^2}$ | Independent of mass of falling object. |
-| **Escape Velocity** | $V_e = \sqrt{\frac{2 G M_e}{R_e}} = \sqrt{2 g R_e}$ | $V_e = \sqrt{2} V_o \approx 11.2\text{ km/s}$ on Earth; $\approx 2.38\text{ km/s}$ on Moon. |
-| **Simple Pendulum Period** | $T = 2\pi \sqrt{\frac{l}{g}}$ | $T \propto \sqrt{l}$; $T \propto 1/\sqrt{g}$. Independent of mass $m$. |
-| **de Broglie Wavelength** | $\lambda = \frac{h}{p} = \frac{h}{mv}$ | $h = 6.626 \times 10^{-34}\text{ J}\cdot s$. Connects particle mass-velocity to wave nature. |
+| **1609 / 1619**| Johannes Kepler | Formulated 3 Laws of Planetary Motion (Elliptical orbits, Equal areas in equal time, $T^2 \propto a^3$). |
+| **1638** | Galileo Galilei | Demonstrated that all objects in vacuum fall with identical gravitational acceleration regardless of mass. |
+| **1687** | Sir Isaac Newton | Established the **Three Laws of Motion** and the **Universal Law of Gravitation** ($F = G m_1 m_2 / r^2$). |
+| **1738** | Daniel Bernoulli | Formulated **Bernoulli's Principle** ($P + rac{1}{2}
+ho v^2 + 
+ho gh = 	ext{constant}$); explains dynamic lift. |
+| **1798** | Henry Cavendish | Experimentally determined $G = 6.67 	imes 10^{-11}	ext{ N}\cdot	ext{m}^2/	ext{kg}^2$ ("weighed the Earth"). |
+| **1851** | George G. Stokes | Formulated viscous drag force on spheres ($F = 6\pi \eta r v$), defining terminal settling velocity. |
 
----
+## 📊 Quick Reference Grid
 
-### Table 2: Planetary Satellites Master Directory (2026 Astronomy Consensus)
-| Celestial Body | Number of Confirmed Moons | Key Noteworthy Moons |
-|---|---|---|
-| **Saturn** | **285** (Maximum in Solar System) | Titan (thick nitrogen atmosphere), Enceladus (cryovolcanoes/water ocean), Mimas, Rhea |
-| **Jupiter** | **101** | Ganymede (largest moon in solar system), Callisto, Io (volcanic), Europa (subsurface ocean) |
-| **Uranus** | **29** | Titania, Oberon, Miranda, Ariel, Umbriel |
-| **Neptune** | **16** | Triton (retrograde orbit, nitrogen geysers), Proteus, Nereid |
-| **Mars** | **2** | Phobos, Deimos (captured asteroids) |
-| **Earth** | **1** | Moon (Luna) |
-| **Venus & Mercury**| **0** | No natural satellites |
-| **Pluto (Dwarf)** | **5** | Charon (tidally locked binary system), Styx, Nix, Kerberos, Hydra |
+### 1. Newton's Three Laws of Motion & Practical Applications
 
----
-
-### Table 3: Comprehensive Energy Transformations Matrix
-| Apparatus / System | Input Energy Form | Output Energy Form | Everyday / Industrial Example |
+| Law of Motion | Formal Physical Statement | Mathematical Formula | Real-Life Prelims Applications |
 |---|---|---|---|
-| **Dynamo / Alternator** | Mechanical | Electrical | Bicycle generator, hydroelectric turbine |
-| **Electric Motor** | Electrical | Mechanical | Ceiling fan, water pump, electric vehicle |
-| **Microphone** | Acoustic (Sound) | Electrical | Audio recording, telephone transmitters |
-| **Loudspeaker** | Electrical | Acoustic (Sound) | Public address system, headphones |
-| **Solar Photovoltaic Cell** | Radiant (Light) | Electrical | Solar rooftop panels, solar calculators |
-| **Tubelight / LED** | Electrical | Radiant (Light) | Household room illumination |
-| **Incandescent Bulb** | Electrical | Thermal (Heat) + Light | Tungsten filament lamp ($90\%$ heat, $10\%$ light) |
-| **Chemical Primary Cell** | Chemical | Electrical | Dry cell battery in remotes/torches |
-| **Candle** | Chemical | Thermal (Heat) + Light | Paraffin wax combustion |
-| **Sitar / Guitar** | Mechanical | Acoustic (Sound) | Plucking vibrating taut strings |
-| **Photosynthesis** | Solar (Light) | Chemical | Chlorophyll in green plants synthesizing glucose |
-| **Automobile Brakes** | Kinetic | Thermal (Heat) | Friction pads slowing wheel rotation |
-| **Nuclear Reactor** | Nuclear Mass Energy | Thermal (Heat) | Fission of Uranium-235 generating steam ($E = mc^2$) |
+| **Newton's First Law** (Law of Inertia)| An object remains at rest or in uniform motion unless acted upon by an external net force | $\sum ec{F} = 0 \implies ec{v} = 	ext{constant}$ | Passenger jerks backward when bus starts suddenly; shaking tree branch detaches ripe fruit; dust beaten from rug |
+| **Newton's Second Law** (Law of Momentum)| Rate of change of linear momentum is directly proportional to applied force and occurs in force's direction | $ec{F} = rac{dec{p}}{dt} = mec{a}$ | Cricketer pulls hands backward while catching ball (increases $\Delta t$, reduces impact force); car crumple zones |
+| **Newton's Third Law** (Action & Reaction)| To every action there is always an equal and opposite reaction | $ec{F}_{AB} = -ec{F}_{BA}$ | Rocket propulsion (exhaust gas thrust); recoil of firing gun; swimmer pushing water backward; walking on ground |
 
 ---
 
-### Table 4: Mechanical Properties of Solids & Fluids Master Formulations
-| Quantity / Law | Mathematical Expression | SI Unit / Dimensions | Must-Score Core Fact |
+### 2. Fluid Mechanics Principles & Manifestations Matrix
+
+| Principle / Law | Physical Statement | Everyday Manifestations & Technological Applications |
+|---|---|---|
+| **Archimedes' Principle** | Body immersed in fluid experiences upward buoyant force equal to weight of displaced fluid | Floating ships and submarines; working of hydrometers and lactometers; floating iceberg |
+| **Pascal's Law** | External pressure applied to an enclosed static fluid is transmitted equally and undiminished in all directions | **Hydraulic brakes**, hydraulic car lift, hydraulic press, heavy earthmovers |
+| **Bernoulli's Principle** | In steady streamline fluid flow, total mechanical energy (pressure + kinetic + potential) is conserved; higher speed means lower pressure | **Aerodynamic lift on airplane wings**, paint sprayers / atomizers, blowing of tin roofs in storms, swinging spinning cricket ball |
+| **Surface Tension** | Tendency of liquid surfaces to shrink into minimum possible surface area due to cohesive molecular forces | **Spherical raindrops and dew drops**, floating sewing needle on water, mosquito larvae control via oil spray, soap reducing water surface tension |
+| **Capillarity (Capillary Action)**| Spontaneous rise or fall of liquid in a narrow bore tube due to relative adhesive vs cohesive forces | Kerosene/oil rising in **lantern wick**, blotting paper absorbing ink, plant roots absorbing soil sap, fountain pen ink feed |
+| **Viscosity (Internal Friction)**| Internal frictional resistance between adjacent parallel fluid layers in relative motion | Honey flows slower than water; lubrication oils in vehicle engines; raindrops reaching steady **terminal velocity** |
+
+---
+
+### 3. Gravitational Dynamics: Earth vs Celestial Bodies
+
+| Parameter / Concept | Value on Earth | Value on Moon / Space | Key Examiner Prelims Hook |
 |---|---|---|---|
-| **Hooke's Law** | $\text{Stress} = E \times \text{Strain}$ | $N/m^2$ or $Pa$ | Valid within proportional elastic limit. |
-| **Young's Modulus ($Y$)** | $Y = \frac{F/A}{\Delta L/L} = \frac{F L}{A \Delta L}$ | $N/m^2$ ($[M^1 L^{-1} T^{-2}]$) | Longitudinal elasticity; $Y_{\text{steel}} > Y_{\text{rubber}}$. |
-| **Shear Modulus ($\eta$)** | $\eta = \frac{\text{Shear Stress}}{\text{Shear Strain}} = \frac{F/A}{\theta}$ | $N/m^2$ ($[M^1 L^{-1} T^{-2}]$) | Determines stretching and twisting of helical springs. |
-| **Bulk Modulus ($K$)** | $K = -\frac{\Delta P}{\Delta V/V}$ | $N/m^2$ ($[M^1 L^{-1} T^{-2}]$) | For perfectly rigid solid, $\Delta V = 0 \implies K = \mathbf{\infty}$. Compressibility $\beta = 1/K$. |
-| **Thermal Expansion** | $\Delta L = \alpha L \Delta T$; $\Delta V = \gamma V \Delta T$ | $\alpha, \beta, \gamma$ have unit $K^{-1}$ | $[M^0 L^0 T^0 K^{-1}]$; $\alpha : \beta : \gamma = 1 : 2 : 3$. |
-| **Surface Tension ($T$)** | $T = \frac{F}{L} = \frac{\Delta W}{\Delta A}$ | $N/m$ or $J/m^2$ ($[M^1 L^0 T^{-2}]$) | Decreases with temperature; zero at critical point. |
-| **Excess Pressure (Bubble)** | $\Delta P = \frac{4T}{R}$ | $Pa$ or $N/m^2$ | Smaller bubble has higher internal pressure. |
-| **Capillary Rise ($h$)** | $h = \frac{2 T \cos\theta}{\rho g r}$ | Metres ($m$) | Jurin's Law ($h \propto 1/r$); acute $\theta \implies$ rise; obtuse $\theta \implies$ fall. |
-| **Viscous Force ($F$)** | $F = -\eta A \frac{dv}{dx}$ (Newton's Law) | $\eta$ in $Pa\cdot s$ or $Poise$ | $1\text{ Pa}\cdot s = 10\text{ Poise}$. Poiseuille's formula for pipe flow. |
-| **Torricelli's Efflux** | $v = \sqrt{2gh}$ | $m/s$ | Velocity of liquid flowing out of an orifice at depth $h$. |
-| **Hydrostatic Pressure** | $P = P_0 + \rho g h$ | $N/m^2$ or $Pa$ | Increases linearly with liquid depth; independent of container shape. |
-| **Archimedes' Buoyancy** | $F_B = \rho_{\text{fluid}} V_{\text{submerged}} g$ | Newton ($N$) | Acting vertically upward through centre of buoyancy. |
-| **Floatation Fraction** | $\frac{V_{\text{submerged}}}{V_{\text{total}}} = \frac{\rho_{\text{solid}}}{\rho_{\text{liquid}}}$ | Dimensionless ratio | Determines how deep an iceberg or ship sinks. |
+| **Acceleration due to Gravity ($g$)**| $9.8	ext{ m/s}^2$ | $g/6 pprox 1.63	ext{ m/s}^2$ on Moon | Maximum at **Poles**, minimum at **Equator**; zero at Earth's center |
+| **Weight of a Person ($W=mg$)**| $60	ext{ kg-wt}$ | $10	ext{ kg-wt}$ on Moon ($1/6	ext{th}$) | Mass ($60	ext{ kg}$) remains strictly unchanged on Moon! |
+| **Escape Velocity ($v_e$)** | **$11.2	ext{ km/s}$** | **$2.4	ext{ km/s}$** on Moon | Moon has **no atmosphere** because gas molecular rms velocity exceeds its escape velocity ($2.4	ext{ km/s}$) |
+| **Orbital Velocity (LEO, $v_o$)** | **$7.9	ext{ km/s}$** | $v_e = \sqrt{2} \cdot v_o pprox 1.414 \cdot v_o$ | Escape velocity is $\sqrt{2}$ times the orbital velocity |
+| **Geostationary Orbit Altitude**| **$35,786	ext{ km}$ ($pprox 36,000	ext{ km}$)**| Orbital period $= \mathbf{24	ext{ hours}}$ | Matches Earth's rotational period; parked directly above equator; rotates West to East |
+| **Time Period of Simple Pendulum**| $T = 2\pi\sqrt{l/g}$ | Increases by $\sqrt{6}	imes$ on Moon | Clock runs **slow in summer** (thermal expansion increases $l$); runs **fast in winter** |
 
----
+## ⚡ Confused Pairs & Common Examiner Traps
 
-### Table 5: Buoyancy, Density & Floatation Phenomena Master Matrix
-| Phenomenon / System | Underlying Physical Mechanism | Must-Score Consequence & Rule |
-|---|---|---|
-| **Iron nail sinks, iron ship floats** | Ship hull encloses vast air volume, lowering overall average density below water; displaced water weight equals ship weight. | Archimedes' Principle; solid iron density ($7.8\text{ g/cm}^3$) $>$ water ($1.0\text{ g/cm}^3$). |
-| **Iron ball on Mercury vs Water** | Density hierarchy: $\rho_{\text{water}} (1.0) < \rho_{\text{iron}} (7.8) < \rho_{\text{mercury}} (13.6)$. | Iron sinks in water but floats on mercury. |
-| **Melting floating ice in a glass** | Ice displaces water equal to its mass ($m = \rho_w V_w = \rho_i V_i$). When melted, it turns into exact volume $V_w$. | Water level remains completely unchanged. |
-| **Ship moving from river to ocean** | Sea water has dissolved salts $\implies$ higher density ($1.025\text{ g/cm}^3$) $\implies$ higher buoyant upthrust. | Ship rises slightly when entering the sea. |
-| **Swimming in sea vs river** | Higher density of sea water provides greater buoyant force per unit submerged volume. | Much easier to swim and stay afloat in sea water. |
-| **Iceberg in ocean water** | Density of pure ice $\approx 0.917\text{ g/cm}^3$; ocean water $\approx 1.025\text{ g/cm}^3$. | $\approx 1/9\text{th}$ of iceberg is above sea surface ($89\%$ submerged). |
-| **Needle resting on water surface** | Upward component of surface tension along boundary of surface film supports the small weight. | Surface tension (NOT buoyancy; if pushed below surface, needle sinks). |
-| **Rising air bubble in water** | Hydrostatic pressure decreases as bubble ascends ($P = P_0 + \rho gh$). By Boyle's Law ($PV = \text{const}$), volume expands. | Bubble increases in size as it reaches the surface. |
-| **Leaking fountain pen in airplane** | Atmospheric cabin pressure drops at high altitude while ink reservoir pressure remains high. | Ink is forced out of the pen nib. |
+| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
+|---|---|---|---|
+| **Centripetal Force** | **Centrifugal Force** | **Centripetal force** is the real inward force directed toward the center of curvature ($mv^2/r$) that keeps a body in circular path. **Centrifugal force** is the fictitious / pseudo outward force observed in the rotating frame (cream separator, spin dryer). | अभिकेंद्रीय बल = केंद्र की ओर (वास्तविक); अपकेंद्रीय बल = केंद्र से बाहर की ओर (छद्म बल) |
+| **Mass on Moon** | **Weight on Moon** | A person's **Mass remains constant ($60	ext{ kg} 	o 60	ext{ kg}$)** because mass is invariant. Only the **Weight reduces to $1/6	ext{th}$** because $g_{	ext{moon}} = g_{	ext{earth}} / 6$. | चंद्रमा पर द्रव्यमान अपरिवर्तित रहता है; केवल भार घटकर $1/6$ रह जाता है |
+| **Pendulum in Summer** | **Pendulum in Winter** | In **summer**, thermal expansion increases pendulum length ($l$), so time period $T$ increases $	o$ **clock runs slow / loses time**. In **winter**, $l$ contracts, $T$ decreases $	o$ **clock runs fast / gains time**. | गर्मियों में लोलक घड़ी सुस्त हो जाती है (लंबाई बढ़ने से); सर्दियों में तेज हो जाती है |
+| **Melting Ice Water Level** | **Overflow Trap** | When a floating ice cube in a water beaker melts completely, **the water level remains strictly UNCHANGED**. Floating ice already displaces water equal to its own melted mass. | बर्फ पिघलने पर बीकर में जल का स्तर अपरिवर्तित रहता है (बढ़ता नहीं है) |
+| **Free-Falling Elevator Weight**| **Elevator Moving at Constant Velocity**| When elevator cable snaps (free fall), acceleration $a = g \implies$ apparent weight $R = m(g-a) = \mathbf{0}$ (**complete weightlessness**). Moving at constant velocity gives normal weight ($R = mg$). | मुक्त रूप से गिरती लिफ्ट में आभासी भार शून्य (भारहीनता) होता है |
+| **Needle Floating on Water** | **Iron Ship Floating** | A small greased steel sewing needle rests on water due to **Surface Tension** (unbroken surface film). A heavy steel ship floats due to **Archimedes Principle of Buoyancy** (displacing large volume). | सुई का तैरना = पृष्ठ तनाव (Surface Tension); जहाज का तैरना = उत्प्लावन बल (आर्किमिडीज सिद्धांत) |
+| **Rolling Friction** | **Sliding Friction** | **Rolling friction is far smaller than sliding friction** ($	ext{Rolling} \ll 	ext{Sliding} < 	ext{Static}$). This is why ball bearings and round wheels dramatically reduce mechanical energy loss. | लोटनिक घर्षण (Rolling friction) सर्पी घर्षण से अत्यंत कम होता है |
+| **Oil on Water Drops** | **Water on Greased Surface** | Oil spreads on clean water because the **surface tension of water is greater than that of oil**. Water forms spherical drops on a greased plate because cohesive forces exceed adhesive forces. | तेल जल पर फैल जाता है क्योंकि जल का पृष्ठ तनाव तेल से अधिक होता है |
+| **Moon Atmosphere Lack** | **Low Gravitational Pull** | Moon has no atmosphere specifically because the **root-mean-square (rms) velocity of gas molecules exceeds the Moon's low escape velocity ($2.4	ext{ km/s}$)**, allowing all gases to escape into space. | चंद्रमा पर वायुमंडल न होने का कारण: गैस अणुओं का वेग पलायन वेग ($2.4	ext{ km/s}$) से अधिक है |
+| **Bernoulli Dynamic Lift** | **Archimedes Static Buoyancy** | Airplanes fly because wing camber forces air to move faster over the top, creating **low pressure above and high pressure below (Bernoulli dynamic lift)**. Hot air balloons float via Archimedes static buoyancy. | हवाई जहाज का उड़ना = बर्नौली सिद्धांत (गतिशील उत्थापक बल); गुब्बारे का उड़ना = आर्किमिडीज उत्प्लावन |
 
----
+## 🧠 Memory Anchors & Mnemonics
 
-## Teaching expansion — additional theory (beyond Consolidated spine)
+### 1. Friction Hierarchy: **Static > Sliding > Rolling**
+> **"Stay Still, Slide Slow, Roll Smooth"**
+- **Static Friction** (maximum resistance to initiate motion).
+- **Sliding (Kinetic) Friction** (moderate resistance during sliding).
+- **Rolling Friction** (minimum resistance; reason for ball bearings).
 
-These points sit in teaching theory (not the Consolidated spine).
+### 2. Variation of $g$ on Earth: **Poles > Equator**
+- **$g$ is Maximum at the Poles** (radius $R$ is minimum due to polar flattening).
+- **$g$ is Minimum at the Equator** (radius $R$ is maximum + centrifugal reduction).
+- **$g$ is Zero at the Center of the Earth**.
 
-- **Everyday Capillarity Examples**: Oil rising in lamp wicks, ink absorption by blotting paper, ink flow in fountain pen nibs, water spreading in cotton towels. (Note: Drinking through a straw requires mouth suction, NOT capillarity!).
-- **Water Transport in Tall Trees**: Capillarity alone is insufficient; water ascends tall trees primarily due to **transpiration pull and cohesive-adhesive water columns in xylem**.
-- **Temperature Effect on Viscosity**: Viscosity of **liquids decreases** with rising temperature (molecular kinetic energy overcomes cohesion). Viscosity of **gases increases** with rising temperature (increased molecular collisions).
-- **Relative Viscosity Hierarchy**: **Honey $>$ Glycerine $>$ Blood $>$ Water $>$ Air**.
-- **Torricelli's Law of Efflux**: Velocity of liquid exiting an orifice at depth $h$ is $v = \sqrt{2gh}$. The hole at the greatest depth throws water the farthest.
-- **Archimedes' Principle**: An immersed body experiences an upward buoyant force equal to the **weight of the displaced fluid** acting at the center of buoyancy.
-- **Floating Ice and Water Level**: An ice cube floating in water displaces water equal to its weight. When it melts, the water level in the beaker **remains completely unchanged**.
-- **Ship Entering Sea from River**: Because salty sea water is denser than fresh river water, it exerts greater buoyant upthrust, causing the ship to **rise slightly**.
+### 3. Escape Velocity vs Orbital Velocity:
+- **$v_e = \sqrt{2} \cdot v_o pprox 1.414 \cdot v_o$**
+- Need $\mathbf{41.4\%}$ increase in kinetic energy for an orbiting satellite to permanently escape Earth's gravity.
 
-## Bilingual Terminology -- Mechanics and Properties of Matter
+## 🎯 High-Yield PYQ Drill
 
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Force** (बल) | बल | Push or pull causing acceleration; SI unit = Newton (N) |
-| **Newton's Laws** (न्यूटन के नियम) | गति के नियम | 3 laws governing motion and force relationships |
-| **Inertia** (जड़त्व) | जड़त्व | Tendency of object to resist change in its state of motion |
-| **Momentum** (संवेग) | संवेग | Mass x Velocity; p = mv; conserved in absence of external force |
-| **Friction** (घर्षण) | घर्षण | Resistive force between surfaces in contact |
-| **Gravity / Gravitation** (गुरुत्वाकर्षण) | गुरुत्वाकर्षण | Attractive force between masses; Newton's Law of Gravitation |
-| **Weight** (भार) | भार | Gravitational force on object; W = mg; varies with location |
-| **Mass** (द्रव्यमान) | द्रव्यमान | Amount of matter; constant everywhere; SI unit = kg |
-| **Pressure** (दाब) | दाब | Force per unit area; P = F/A; SI unit = Pascal (Pa) |
-| **Buoyancy** (उत्प्लावकता) | उत्प्लावकता | Upward force on object immersed in fluid; Archimedes' Principle |
-| **Archimedes' Principle** (आर्किमिडीज का सिद्धांत) | आर्किमिडीज का नियम | Upthrust = weight of fluid displaced |
-| **Pascal's Law** (पास्कल का नियम) | पास्कल का नियम | Pressure applied to enclosed fluid = transmitted equally in all directions |
-| **Bernoulli's Principle** (बर्नूली का सिद्धांत) | बर्नूली का सिद्धांत | Faster fluid flow = lower pressure; explains flight, carburetor, venturimeter |
-| **Surface Tension** (पृष्ठ तनाव) | पृष्ठ तनाव | Tendency of liquid surface to contract; insects walk on water |
-| **Viscosity** (श्यानता) | श्यानता | Resistance of liquid to flow; honey > water; decreases with temp |
-| **Elasticity** (प्रत्यास्थता) | प्रत्यास्थता | Ability to return to original shape after deforming force removed |
-| **Hooke's Law** (हुक का नियम) | हुक का नियम | Stress proportional to strain within elastic limit |
-| **Torque** (बल-आघूर्ण) | बल-आघूर्ण | Rotational equivalent of force; T = F x r (moment arm) |
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
----
+**Q1.**
 
-## Complete PYQ Bank — UPPCS
-
-**Q-ST1. UPPCS Pre 2024**
-A bus covers the first half of a certain distance with speed $v_1$ and the second half with a speed $v_2$. The average speed during the whole journey is:  
-(a) $\frac{v_1 v_2}{v_1 + v_2}$  
-(b) $\frac{2 v_1 v_2}{v_1 + v_2}$  
-(c) $\frac{v_1 + v_2}{2}$  
-(d) $\sqrt{v_1 v_2}$  
-<details><summary>Show answer</summary>
-
-**Logic:** Let the total distance be $2d$.
-
-**Ans: B.** $\frac{2 v1 v2}{v1 + v2}$
-</details>
-
-**Q2.** Ans: A.** 1 and 3
-</details>
-
-**Q-ST62. IAS Pre 2003**
-If the radius of the Earth were to shrink by one percent, its mass remaining the same, the value of $g$ on the Earth's surface would:  
-(a) Increase by $0.5\%$  
-(b) Increase by $2\%$  
-(c) Decrease by $0.5\%$  
-(d) Decrease by $2\%$  
-<details><summary>Show answer</summary>
-
-**Logic:** $g = \frac{G M}{R^2}$.
-
-**Ans: B.** Increase by $2\%$
-</details>
-
-**Q3.** Ans: D.** 1
-</details>
-
-**Q-ST82. IAS Pre 1994**
-If a gas is compressed to half of its original volume at $27^\circ\text{C}$, to what temperature should it be heated to make it occupy its original volume at constant pressure?  
-(a) $327^\circ\text{C}$  
-(b) $600^\circ\text{C}$  
-(c) $54^\circ\text{C}$  
-(d) $300^\circ\text{C}$  
-<details><summary>Show answer</summary>
-
-**Logic:** Initial temperature $T1 = 27 + 273 = 300\text{ K}$.
-
-**Ans: A.** $327^\circ\text{C}$
-</details>
-
-**Q4.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Confirmed Moons Count in Solar System (2026 IAU Data):
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
+**Why does an iron needle float horizontally on water when placed carefully, but sink when pushed under?**
+   A. Archimedes buoyant force  
+   B. Surface tension of the water surface film  
+   C. Viscous upthrust  
+   D. Atmospheric downward pressure
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Ans:** **B** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Confirmed Moons Count in Solar System (2026 IAU Data)**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
+
 </details>
 
-**Q5.** in Science & Technology, consider the following statement:
+**Q2.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Saturn: applies only to union territories and not state jurisdictions.
-B. Saturn: Maximum number of confirmed satellites in the solar system = 285 moons (leading the solar system).
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+**The Bulk Modulus of an ideal incompressible fluid is:**
+   A. Zero  
+   B. Unity  
+   C. Infinite ($\infty$)  
+   D. Negative
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Ans:** **C** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Saturn**: Maximum number of confirmed satellites in the solar system = **285 moons** (leading the solar system).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
+
 </details>
 
-**Q6.** in Science & Technology, consider the following statement:
+**Q3.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Jupiter: applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Jupiter: 101 confirmed moons (Ganymede, Callisto, Io, Europa).
-D. Enacted under Article 356 of the Constitution of India
+**When a drop of oil is placed on clean water, it spreads into a thin film because:**
+   A. Oil has higher surface tension than water  
+   B. Water has higher surface tension than oil  
+   C. Oil is denser than water  
+   D. Viscosity of oil is lower than water
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Ans:** **B** (Water's higher surface tension pulls the oil film outward).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Jupiter**: **101 confirmed moons** (Ganymede, Callisto, Io, Europa).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (Water's higher surface tension pulls the oil film outward).
+
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
+**Q4.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Uranus: applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Uranus: 29 moons; Neptune: 16 moons; Mars: 2 moons (Phobos & Deimos); Earth: 1 moon; Mercury & Venus: 0 moons; Dwarf planet Pluto: 5 moons.
+**In a capillary tube of radius $r$, water rises to height $h$. If the tube radius is halved, water rises to:**
+   A. $h/2$  
+   B. $h$  
+   C. $2h$  
+   D. $4h$
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Ans:** **C** (Jurin's Law: $h \propto 1/r$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Uranus**: 29 moons; **Neptune**: 16 moons; **Mars**: 2 moons (Phobos & Deimos); **Earth**: 1 moon; **Mercury & Venus**: 0 moons; Dwarf planet **Pluto**: 5 moons.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (Jurin's Law: $h \propto 1/r$).
+
 </details>
 
-**Q8.** in Science & Technology, consider the following statement:
+**Q5.**
 
-Which of the following is correct regarding this topic?
-
-A. 71st BPSC (Pre 2025) Mechanics & Fluid Facts:
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
+**Which property of a solid determines the extension and behavior of a helical spring under load?**
+   A. Young's Modulus  
+   B. Bulk Modulus  
+   C. Shear Modulus (Modulus of Rigidity)  
+   D. Poisson's Ratio
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
 
-**Detailed Explanation:**
-- **Key Exam Association:** **71st BPSC (Pre 2025) Mechanics & Fluid Facts**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans:** **C**.
 </details>
 
-**Q9.** in Science & Technology, consider the following statement:
+**Q6.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, UKPCS applies only to union territories and not state jurisdictions.
-B. UKPCS (Pre 2025) Elasticity & Thermal Facts:
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
+**The excess pressure inside a liquid drop of radius $R$ and surface tension $T$ is:**
+   A. $T/R$  
+   B. $2T/R$  
+   C. $4T/R$  
+   D. $8T/R$
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Ans:** **B** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **UKPCS (Pre 2025) Elasticity & Thermal Facts**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
+
 </details>
 
-**Q10.** in Science & Technology, consider the following statement:
+**Q7.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, UP applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. UP RO/ARO (Pre 2023) Moduli of Elasticity Facts:
-D. Classified under Schedule VII List II (State List)
+**As temperature increases, what happens to the viscosity of water and air respectively?**
+   A. Both increase  
+   B. Both decrease  
+   C. Water viscosity decreases, air viscosity increases  
+   D. Water viscosity increases, air viscosity decreases
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
 
-**Detailed Explanation:**
-- **Key Exam Association:** **UP RO/ARO (Pre 2023) Moduli of Elasticity Facts**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans:** **C**.
 </details>
 
-**Q11.** in Science & Technology, consider the following statement:
+**Q8.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, 70th applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. 70th BPSC (Pre 2024) Gas Liquefaction Condition:
+**A piece of pure ice floats in a glass of water. When the ice melts completely, the water level:**
+   A. Rises  
+   B. Falls  
+   C. Remains unchanged  
+   D. First falls then rises
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
 
-**Detailed Explanation:**
-- **Key Exam Association:** **70th BPSC (Pre 2024) Gas Liquefaction Condition**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans:** **C**.
 </details>
 
-**Q12.** in Science & Technology, consider the following statement:
+**Q9.**
 
-Which of the following is correct regarding this topic?
-
-A. Brahmagupta's Precedence: 7th-century astronomer Brahmagupta (Brahmasphuta Siddhanta) stated that all bodies gravitate toward Earth long before Newton.
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
+**The dimension of the coefficient of linear expansion ($\alpha$) is:**
+   A. $[M^0 L^1 T^0 K^{-1}]$  
+   B. $[M^0 L^0 T^0 K^{-1}]$  
+   C. $[M^1 L^0 T^0 K^{-1}]$  
+   D. $[M^0 L^0 T^{-1} K^0]$
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Brahmagupta's Precedence**: 7th-century astronomer Brahmagupta (*Brahmasphuta Siddhanta*) stated that all bodies gravitate toward Earth long before Newton.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans:** **B** ($K^{-1}$).
 </details>
 
-**Q13.** in Science & Technology, consider the following statement:
+**Q10.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Definition applies only to union territories and not state jurisdictions.
-B. Definition of Speed: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
+**A ship floats higher when it travels from a freshwater river into the sea because:**
+    A. Sea water is colder  
+    B. Sea water is deeper  
+    C. Sea water is denser due to dissolved salts  
+    D. River water exerts greater viscous drag
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Definition of Speed**: Galileo Galilei was the first to define speed mathematically as distance per unit time ($v = d/t$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans:** **C**.
 </details>
 
-**Q14.** in Science & Technology, consider the following statement:
+**Q11.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Mass applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Mass vs Weight: Mass ($kg$, scalar, constant everywhere) measures inertia. Weight ($N$, vector, $W = mg$) depends on local gravitational acceleration.
-D. It was established during the First Five-Year Plan period
+**At what temperature is the surface tension of a liquid reduced to zero?**
+    A. Freezing point  
+    B. Boiling point  
+    C. Absolute zero  
+    D. Critical temperature
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Mass vs Weight**: Mass ($kg$, scalar, constant everywhere) measures inertia. Weight ($N$, vector, $W = mg$) depends on local gravitational acceleration.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans:** **D**.
 </details>
 
-**Q15.** in Science & Technology, consider the following statement:
+**Q12.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Deep applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Deep Breath on Sensitive Scale: Inhaling deeply increases scale reading because $4.8\text{ L}$ of inhaled air adds $\approx 5.88\text{ g}$ mass.
+**When positive charge is placed on a soap bubble, its radius:**
+    A. Decreases  
+    B. Increases  
+    C. Remains identical  
+    D. Flattens into a disc
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Ans:** **B** (Electrostatic repulsion expands the surface).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Deep Breath on Sensitive Scale**: Inhaling deeply increases scale reading because $4.8\text{ L}$ of inhaled air adds $\approx 5.88\text{ g}$ mass.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (Electrostatic repulsion expands the surface).
+
+</details>
+
+**Q13.**
+
+**Torricelli's law states that the velocity of efflux from a tank orifice is proportional to:**
+    A. Depth $h$  
+    B. Square root of depth $\sqrt{h}$  
+    C. $h^2$  
+    D. Independent of $h$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($v = \sqrt{2gh}$).
+
+**Logic:** ($v = \sqrt{2gh}$).
+
+</details>
+
+**Q14.**
+
+**Which of the following is NOT an application of capillarity?**
+    A. Kerosene rising in a lamp wick  
+    B. Blotting paper absorbing ink  
+    C. Drinking coconut water through a straw  
+    D. Towel soaking water droplets from the skin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** (Drinking through a straw requires mouth suction pressure reduction).
+
+**Logic:** (Drinking through a straw requires mouth suction pressure reduction).
+
+</details>
+
+**Q15.**
+
+**The spreading parameter $S$ for liquid A on liquid B is positive ($S > 0$). This implies:**
+    A. Liquid A beads into droplets  
+    B. Liquid A spreads completely over liquid B  
+    C. Liquid A sinks to the bottom  
+    D. Both liquids boil instantly
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **B**.
 </details>

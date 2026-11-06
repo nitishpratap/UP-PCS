@@ -3,68 +3,235 @@ hide:
   - toc
 ---
 
-# Economy Topic 6 — Agricultural Policies, Schemes, MSP and Revolutions — Must-Score Facts
+# Agricultural Policies, Schemes, MSP & Revolutions — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">📈 Economy &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Economy Topic 6 — Agricultural Policies, Schemes, MSP and Revolutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Agricultural Policies, Schemes, MSP & Revolutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 🎯 Consolidated Must-Score Facts
+## 📰 Current Affairs & High-Yield Updates
 
-1. **Dr. M.S. Swaminathan** was awarded the **Bharat Ratna** in **2024** (posthumous).
-2. **Operation Flood** was launched in **1970** by the **National Dairy Development Board (NDDB)** on the Amul cooperative model.
-3. **NDDB** was established in **1965** at **Anand, Gujarat** — five years before Operation Flood.
-4. **Palm oil** is not among the 22 MSP crops; it uses a **Viability Price** under NMEO-OP.
-5. **Cost A₂** covers paid-out cash and kind costs (seed, fertilizer, pesticide, hired labour, fuel, irrigation, lease rent for leased-in land).
-6. **Cost A₂ + FL** equals A₂ plus the **imputed value of unpaid family labour**.
-7. **Cost C₂** equals A₂ + FL plus **imputed rent of owned land** and **interest on owned fixed capital** (excluding land).
-8. **Fair and Remunerative Price (FRP)** is the statutory floor for **sugarcane** under the **Sugarcane (Control) Order, 1966**, on CACP advice.
-9. **State Advised Price (SAP)** is announced by some States (notably UP, Haryana, Punjab) and is typically **higher than FRP**.
-10. **Economic cost** of foodgrain to FCI = pooled acquisition cost (MSP) + procurement incidentals + distribution cost.
-11. **Food subsidy** ≈ economic cost − **Central Issue Price (CIP)**.
-12. **Open Market Sale Scheme (OMSS)** lets FCI sell surplus wheat/rice by e-auction to cool open-market prices.
-13. **CACP** studies costs, demand–supply, inter-crop parity, and international prices, then recommends MSP.
-14. **CCEA** takes the final MSP decision; CACP does not notify MSP on its own.
-15. **A₂** is cash/kind paid-out cost.
-16. **A₂ + FL** adds unpaid family labour valued at market wages.
-17. **C₂** adds opportunity cost of owned land and interest on owned fixed assets.
-18. **PSS** is physical procurement of oilseeds, pulses, and copra by NAFED/NCCF at MSP when prices crash.
-19. **PDPS** pays the gap between MSP and market price without always taking physical stock.
-20. **PPSS** pilots private stockists with government compensation of the MSP gap.
-21. **FRP** is the Central statutory minimum mills must respect (subject to State SAP overlay).
-22. **SAP** in States like Uttar Pradesh is usually above FRP and is the practical payment benchmark.
-23. **Economic cost** stacks acquisition (MSP), mandi/handling incidentals, and freight/storage/admin distribution cost.
-24. **CIP** is the subsidised price at which Centre issues grain to States for Fair Price Shops.
-25. **OMSS** is the open-market cooling valve for surplus wheat and rice.
-26. **TPDS (1997)** retargeted PDS toward identified poor households.
-27. **AAY (2000)** carved out the poorest BPL families at **35 kg per household per month**.
-28. **NFSA (2013)** made foodgrain access a legal entitlement for a large share of the population.
-29. **PMGKAY** first added free Covid ration; later integration made NFSA grain **free through December 2028**.
-30. **ONORC** lets migrants lift entitlement at any FPS with the same biometric ration card.
-31. **e-NAM (14 April 2016)** creates transparent online bidding and assaying **inside** networked mandis.
-32. **SFAC** leads e-NAM implementation for the Agriculture Ministry.
-33. **AIF** is a **₹1 lakh crore** (2020–2032) facility with **3%** interest subvention for cold chains, warehouses, silos, and community assets.
-34. **PMMSY** (2020) invests about **₹20,050 crore** in fisheries production and exports.
-35. **PMFME** formalises micro food units via **ODOP** clusters and credit-linked subsidy.
-
-
----
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| Year / Paper | Critical fact | Trap to avoid |
+|---|---|---|
 | **2025 (UKPCS Pre)** | **Dr. Verghese Kurien** is the Father of the White Revolution. **NDDB** was established in **1965** at Anand, Gujarat. | Operation Flood was launched in **1970** — do not confuse NDDB founding (1965) with Flood launch (1970). |
 | **2024 (UPPCS Pre)** | CACP recommends MSP for **22 mandated crops** + **FRP** for sugarcane. | Sugarcane gets **FRP**, not MSP (Sugarcane Control Order, 1966). |
 | **2024 (UKPCS Pre)** | National Commission on Farmers (Swaminathan, 2006) recommended MSP at least **C₂ + 50%**. | Government currently fixes MSP at **1.5 × (A₂ + FL)**, not C₂ + 50%. |
 | **2025–2026 focus** | **PMGKAY** free foodgrain (5 kg/person/month for Priority Households; 35 kg/household/month for AAY) extended under NFSA through **December 2028**. | Older NFSA issue prices of ₹2/₹3 per kg were reduced to **₹0 (100% free)** under the PMGKAY integration. |
 
+## 🎯 Consolidated Must-Score Facts
 
----
+1. The **Green Revolution** (from about **1966–69**) brought semi-dwarf High Yielding Variety (HYV) wheat developed by **Dr. Norman Borlaug** at CIMMYT, Mexico.
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+2. In India the Green Revolution was pioneered by **Dr. M.S. Swaminathan** with Union Agriculture Minister **C. Subramaniam**.
+
+3. The first wave concentrated on **wheat and rice** in **Punjab, Haryana, and Western Uttar Pradesh**.
+
+4. Key early wheat lines included **Lerma Rojo 64A**, **Sonora 64**, and Indian derivatives **Kalyan Sona** and **Sonalika**.
+
+5. The rice variety **IR-8** (“Miracle Rice”) came from IRRI (Philippines) and entered India around **1966**.
+
+6. Green Revolution success rested on three pillars: **HYV seeds**, **chemical fertilizers**, and **assured irrigation**.
+
+7. Later critiques stressed regional bias, crop bias toward wheat–rice, class inequality, groundwater stress, and chemical dependency.
+
+8. The **Evergreen Revolution** idea, coined by **Dr. M.S. Swaminathan**, means productivity growth without ecological harm.
+
+9. **Dr. M.S. Swaminathan** was awarded the **Bharat Ratna** in **2024** (posthumous).
+
+10. The **White Revolution** is the dairy/milk drive led by **Dr. Verghese Kurien** (“Milkman of India”).
+
+11. **Operation Flood** was launched in **1970** by the **National Dairy Development Board (NDDB)** on the Amul cooperative model.
+
+12. **NDDB** was established in **1965** at **Anand, Gujarat** — five years before Operation Flood.
+
+13. Operation Flood Phase I (**1970–81**) used sale proceeds of European Community donated milk powder and butter oil to link the Anand pattern with major metro milk sheds.
+
+14. Phase II (**1981–85**) expanded milk sheds and urban markets; Phase III (**1985–96**) consolidated the National Dairy Grid.
+
+15. India became the **world’s largest milk producer** through this cooperative dairy grid.
+
+16. The **Yellow Revolution** is the oilseeds surge (mustard, sunflower, groundnut) under the **Technology Mission on Oilseeds (1986)** associated with **Sam Pitroda**.
+
+17. The **Blue Revolution** covers fisheries and aquaculture; pioneers include **Dr. Hiralal Chaudhuri** and **Dr. Arun Krishnan**.
+
+18. The **Golden Revolution** covers horticulture, honey, and fruits (**1991–2003**), associated with **Nirpakh Tutej**.
+
+19. The **Golden Fibre Revolution** is **jute**; the **Silver Fibre Revolution** is **cotton**.
+
+20. The **Silver Revolution** is eggs and poultry expansion, promoted in the Indira Gandhi era.
+
+21. The **Pink Revolution** covers onion, pharmaceuticals, and meat/prawn exports, associated with **Durgesh Patel**.
+
+22. The **Red Revolution** covers meat and tomato production, associated with **Vishal Tewari**.
+
+23. The **Grey Revolution** is chemical fertilizer expansion; the **Round Revolution** is potato (CPRI, **Kufri, Shimla**).
+
+24. The **Rainbow Revolution** is the umbrella push for simultaneous growth of crops, livestock, forestry, and fisheries (National Agriculture Policy, 2000).
+
+25. The **Sweet Revolution** is beekeeping and honey (National Beekeeping & Honey Mission) — not sugarcane.
+
+26. The **Commission for Agricultural Costs and Prices (CACP)** began in **January 1965** as the Agricultural Prices Commission and was renamed CACP in **1985**.
+
+27. CACP is an **advisory** body under the Ministry of Agriculture & Farmers Welfare; it recommends MSP in Price Policy Reports.
+
+28. Final MSP approval is taken by the **Cabinet Committee on Economic Affairs (CCEA)** chaired by the Prime Minister.
+
+29. CACP recommends MSP for **22 mandated crops**: **7 cereals**, **5 pulses**, **7 oilseeds**, and **3 commercial crops**.
+
+30. The **7 cereals** are paddy, wheat, maize, jowar, bajra, ragi, and barley.
+
+31. The **5 pulses** are gram, tur/arhar, moong, urad, and lentil (masur).
+
+32. The **7 oilseeds** are groundnut, rapeseed/mustard, soybean, sesamum, sunflower, safflower, and nigerseed.
+
+33. The **3 commercial crops** are copra, raw cotton, and raw jute.
+
+34. **Palm oil** is not among the 22 MSP crops; it uses a **Viability Price** under NMEO-OP.
+
+35. **Cost A₂** covers paid-out cash and kind costs (seed, fertilizer, pesticide, hired labour, fuel, irrigation, lease rent for leased-in land).
+
+36. **Cost A₂ + FL** equals A₂ plus the **imputed value of unpaid family labour**.
+
+37. **Cost C₂** equals A₂ + FL plus **imputed rent of owned land** and **interest on owned fixed capital** (excluding land).
+
+38. The Swaminathan National Commission on Farmers (**2006**) recommended MSP at least **C₂ + 50%**.
+
+39. From Union Budget **2018–19**, the Government’s stated MSP benchmark is at least **1.5 × (A₂ + FL)** for mandated crops.
+
+40. **Fair and Remunerative Price (FRP)** is the statutory floor for **sugarcane** under the **Sugarcane (Control) Order, 1966**, on CACP advice.
+
+41. FRP is linked to a basic sugar recovery rate (commonly cited around **10.25%**), with a premium for higher recovery.
+
+42. **State Advised Price (SAP)** is announced by some States (notably UP, Haryana, Punjab) and is typically **higher than FRP**.
+
+43. Uttar Pradesh accounts for roughly **45%–50%** of India’s sugarcane and has the densest sugar-mill belt; SAP there is binding on mills.
+
+44. The **Food Corporation of India (FCI)** was set up under the Food Corporations Act, **1964**, and began work on **14 January 1965** (first office Thanjavur; HQ New Delhi).
+
+45. FCI’s core mandates are price support procurement, TPDS distribution, and buffer/operational stocks for national food security.
+
+46. **Economic cost** of foodgrain to FCI = pooled acquisition cost (MSP) + procurement incidentals + distribution cost.
+
+47. **Food subsidy** ≈ economic cost − **Central Issue Price (CIP)**.
+
+48. **Open Market Sale Scheme (OMSS)** lets FCI sell surplus wheat/rice by e-auction to cool open-market prices.
+
+49. Buffer stock norms fix minimum FCI inventories at the start of each quarter (**1 Jan, 1 Apr, 1 Jul, 1 Oct**).
+
+50. FCI mainly procures **wheat and rice**; pulses and oilseeds under Price Support Scheme are largely handled by **NAFED / NCCF**.
+
+## ⏱️ Timeline / Chronology
+
+```text
+1965: Agricultural Prices Commission (APC) and Food Corporation of India (FCI) established
+  │
+1985: APC renamed as the Commission for Agricultural Costs and Prices (CACP)
+  │
+1998: Kisan Credit Card (KCC) scheme introduced by commercial banks, RRBs, and cooperatives
+  │
+2006: National Commission on Farmers (Dr. M.S. Swaminathan) recommends fixing MSP at C2 + 50%
+  │
+2015: Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) & Paramparagat Krishi Vikas Yojana (PKVY) launched
+  │
+2016: Pradhan Mantri Fasal Bima Yojana (PMFBY) & e-NAM (National Agriculture Market) launched
+  │
+2018: Union Budget operationalizes policy norm of fixing MSP at minimum 1.5 times the cost of production (A2+FL)
+  │
+2019: PM-KISAN launched (effective 1 Dec 2018, providing ₹6,000 direct income support annually in 3 tranches)
+  │
+2020: Agriculture Infrastructure Fund (AIF) launched with ₹1 lakh crore medium-long term financing facility
+```
+
+## 📊 Quick Reference Grid
+
+| Revolution | Commodity / sector | Pioneer / key personality | Landmark |
+|---|---|---|---|
+| **Green** | Wheat and rice | Norman Borlaug (world) / M.S. Swaminathan (India) | HYV semi-dwarf seeds; Punjab–Haryana–Western UP |
+| **White** | Milk and dairy | Verghese Kurien | Operation Flood (1970); Amul / NDDB |
+| **Yellow** | Oilseeds | Sam Pitroda | Technology Mission on Oilseeds (1986) |
+| **Blue** | Fisheries / aquaculture | Hiralal Chaudhuri & Arun Krishnan | Neel Kranti; PMMSY |
+| **Golden** | Horticulture, honey, fruits | Nirpakh Tutej | MIDH; Honey Mission |
+| **Golden Fibre** | Jute | — | National Jute Board |
+| **Silver** | Eggs / poultry | Indira Gandhi era push | Commercial poultry; NECC |
+| **Silver Fibre** | Cotton | — | Bt cotton; Technology Mission on Cotton |
+| **Pink** | Onion, prawns, pharma | Durgesh Patel | Meat / shrimp processing |
+| **Red** | Meat and tomato | Vishal Tewari | Processing / abattoirs |
+| **Grey** | Fertilizers | — | Urea / DAP capacity |
+| **Round** | Potato | — | CPRI, Kufri (Shimla) |
+| **Evergreen** | Sustainable agriculture | M.S. Swaminathan | Ecology + productivity |
+| **Rainbow** | Holistic agri integration | National Agri Policy 2000 | Crops + livestock + forestry + fishery |
+| **Sweet** | Beekeeping / honey | — | National Beekeeping & Honey Mission |
+
+### Table 2 — 22 mandated MSP crops + sugarcane FRP
+
+| Group | Count | Crops | Notes |
+|---|---|---|---|
+| **Cereals** | **7** | Paddy, Wheat, Maize, Jowar, Bajra, Ragi, Barley | CACP recommends; CCEA approves; paddy & wheat dominate physical procurement |
+| **Pulses** | **5** | Gram, Tur/Arhar, Moong, Urad, Lentil (Masur) | Often via NAFED/NCCF under PSS |
+| **Oilseeds** | **7** | Groundnut, Rapeseed/Mustard, Soybean, Sesamum, Sunflower, Safflower, Nigerseed | Edible-oil self-reliance push |
+| **Commercial** | **3** | Copra, Raw Cotton, Raw Jute | CCI (cotton); Jute Corporation (jute) |
+| **Special** | **1** | **Sugarcane** | **FRP** under Sugarcane (Control) Order, 1966 — not MSP |
+
+```
+CACP COST LADDER (decidable spine)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+A₂          = paid-out costs (seed, fertilizer, hired labour, lease rent…)
+A₂ + FL     = A₂ + unpaid family labour
+            → Government MSP benchmark: ≥ 1.5 × (A₂ + FL)
+C₂          = A₂ + FL + owned-land rent + interest on fixed capital
+            → Swaminathan recommendation: C₂ + 50%  (not the current fixing rule)
+```
+
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| A | B | Correct distinction |
+|---|----|---------------------|
+| Father of Green Revolution (World) | Father of Green Revolution (India) | **Norman Borlaug** (Nobel 1970) vs **M.S. Swaminathan** (Bharat Ratna 2024). |
+| White Revolution | Green Revolution | Milk / Operation Flood (**Kurien, 1970**) vs HYV wheat–rice (**Swaminathan, 1966**). |
+| NDDB founding | Operation Flood launch | NDDB **1965** (Anand) vs Flood **1970**. |
+| Yellow Revolution | Golden Revolution | **Oilseeds** (Sam Pitroda) vs **horticulture / honey / fruits** (Nirpakh Tutej). |
+| Golden Fibre | Silver Fibre | **Jute** vs **cotton**. |
+| Silver Revolution | Silver Fibre | **Eggs / poultry** vs **cotton**. |
+| Round Revolution | Grey Revolution | **Potato** (CPRI Kufri) vs **fertilizers**. |
+| Pink Revolution | Red Revolution | **Onion / prawn / pharma** vs **meat / tomato**. |
+| Sweet Revolution | Sugarcane / FRP | Sweet = **honey / beekeeping**; sugarcane price = **FRP / SAP**. |
+| Cost A₂ + FL | Cost C₂ | A₂+FL = paid costs + family labour (govt **1.5×** base) vs C₂ adds land rent + fixed-capital interest (**Swaminathan C₂+50%**). |
+| MSP | FRP | Floor for **22 crops** (CACP → CCEA) vs statutory **sugarcane** price (Control Order 1966). |
+| FRP | SAP | Central statutory floor vs **State** advised price (often higher). |
+| CACP | CCEA | **Recommends** MSP vs **approves** MSP. |
+| FCI | NAFED / NCCF | Mainly **wheat–rice** procurement vs **pulses / oilseeds / copra** under PSS. |
+| Priority Households | AAY | **5 kg per person / month** vs **35 kg per household / month**. |
+| PM-KISAN | PMFBY | Income support **₹6,000/year** vs crop **insurance** premiums 2% / 1.5% / 5%. |
+| e-NAM | APMC abolition | e-NAM **networks** mandis digitally; it does not abolish physical APMCs. |
+| Palm oil support | CACP MSP oilseeds | Palm uses **Viability Price** (NMEO-OP), not the 22-crop MSP list. |
+
+## 🧠 Memory Anchors & Mnemonics
+
+### Key Mnemonics & Cognitive Hooks
+
+- **Agricultural Revolutions Color Palette:**
+  - **Green:** Food grains (Wheat & Rice — M.S. Swaminathan / Norman Borlaug)
+  - **White:** Milk & Dairy (Operation Flood — Dr. Verghese Kurien)
+  - **Blue:** Fish & Marine products (Dr. Hiralal Chaudhuri & Dr. Arun Krishnan)
+  - **Yellow:** Oilseeds (Sam Pitroda / Technology Mission on Oilseeds 1986)
+  - **Pink:** Onion, Prawn, and Pharmaceuticals (Durgesh Patel)
+  - **Grey:** Fertilizers
+  - **Silver:** Eggs & Poultry (Indira Gandhi)
+  - **Golden:** Honey & Horticulture (Nirpakh Tutej)
+  - **Golden Fibre:** Jute vs **Silver Fibre:** Cotton
+  - **Round:** Potato
+  - **Red:** Meat & Tomato (Vishal Tewari)
+- **MSP Institutional Sequence:**
+  - **CACP recommends ──► CCEA (Cabinet Committee on Economic Affairs chaired by PM) APPROVES.**
+  - CACP covers **22 mandated crops** (7 Cereals, 5 Pulses, 7 Oilseeds, 4 Commercial) + **FRP for Sugarcane**.
+- **PMFBY Premium Slab Trick:**
+  - **Kharif crops:** **2.0%** (Higher weather risk).
+  - **Rabi crops:** **1.5%** (Lower weather risk).
+  - **Commercial / Horticultural crops:** **5.0%**.
+
+## 🎯 High-Yield PYQ Drill (Mastery Drill)
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

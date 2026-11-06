@@ -11,74 +11,219 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 8 — Post-Mauryan India</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **Carbon-14 (Keezhadi)** | **Keezhadi (Sivaganga, TN)** excavations unearth ring-wells, brick structures, and Tamil-Brahmi sherds dated to **580 BCE**. | Synchronizes early historic Sangam urbanism with Gangetic Mahajanapadas. |
+| **Maritime Heritage** | Study of **Satavahana coins depicting two-masted ships** confirms thriving Indian Ocean trade with Alexandria and the Roman Empire. | Frequently tested under ancient Indian maritime coinage. |
+| **Conservation (ASI)** | Restoration of the stone gateways (**Toranas**) and harmika railing of **Great Stupa at Sanchi (MP)**, constructed during the Shunga-Satavahana era. | Architecture attribution (core brick stupa = Ashoka; stone railing/torana = Shunga/Satavahana). |
+| **Epigraphy Research** | 3D-photogrammetric scanning of **Hathigumpha Cave Inscription (Kharavela)** at Udayagiri hills, Bhubaneswar. | Landmark questions on King Kharavela of Kalinga. |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Hathigumpha** at Udayagiri (Odisha) belongs to **Kharavela** (खारवेल) of Kalinga, a Jain Mahameghavahana / Chedi king. Ashoka, Harsha, and Kanishka are the usual wrong options.
-2. **Gautamiputra Satakarni** (गौतमीपुत्र शातकर्णि) defeated Shaka **Nahapana** (नहपान) of the **Kshaharata** house. The victory is recorded in the **Nasik prasasti** of **Gautami Balashri**.
-3. **Karikala** is the Sangam Chola who built the **Kallanai** on the Kaveri. He is **not** imperial **Rajaraja I** of Thanjavur.
-4. **Gandhara** art is Kushan northwest Greco-Buddhist. **Amaravati** art is Satavahana Andhra limestone narrative relief. Do not swap the schools.
-5. **Patanjali** (पतंजलि) of the *Mahabhashya* (महाभाष्य) and Kalidasa’s (कालिदास) *Malavikagnimitra* (मालविकाग्निमित्रम्) (Agnimitra (अग्निमित्र)) sit in Shunga-court tradition, but Buddhist books stay hostile to Pushyamitra even while Sanchi still grows. **Patanjali is Shunga-age — not Kanishka’s court.**
-6. **Vima Kadphises** (Kadphises II) issues the first large-scale **gold** for regular use; title **Sarvalokeshvara**. **Kujula** mainly issues **copper**. **Kanishka** puts **Buddha** (बुद्ध) on coins.
-7. **Rabatak** lists Kushan cities **Saketa, Kaushambi, Pataliputra, and Champa** — **not Shravasti**. Sarnath Kanishka Buddha image inscription is dated about **81 CE** (year 3 of his era).
-8. **Ashvaghosha** (*Buddhacharita*, *Saundarananda*, *Sariputraprakarana* (शारिपुत्रप्रकरण)), **Vasumitra**, **Nagarjuna** (नागार्जुन), **Parsva**, and physician **Charaka** (चरक) adorn Kanishka’s court. Chinese texts remember **Pan Chao** defeating Kanishka’s force.
-9. **Gautamiputra Satakarni** is **Ekabrahmana** / protector of the varna order (Nasik of Gautami Balashri). Satavahanas issue punch-marked, lead, copper, silver, potin — **not gold**. **Matsya Purana** gives the longest Andhra list (~30 kings).
-10. **Strato II** issued **lead** coins. **Agathocles** put **Sankarshana (Balarama) and Vasudeva** on bilingual coins. Gandhara sculpture often uses **green schist**; **Bamiyan** held colossal Buddha images.
-11. **Uraiyur** (also **Koli** / **Varanam**) on the Kaveri at Tiruchirappalli was the Sangam Chola capital and a major **cotton** centre in the *Periplus*.
-12. **Vattakirutal** in Sangam poems is the defeated king’s ritual suicide by **fasting unto death**.
-13. **Udiyanjiral** belongs to the **Chera** line and is often treated as the first historical Chera of the Sangam age. Chera capital memory is **Vanji / Vanchi / Karuvur (Karur)**.
-14. **Patanjali** belongs to the **Shunga** (शुंग) horizon. Do not put him in Kanishka’s court.
-15. **Ashvaghosha** belongs to **Kanishka**. Do not put him with Ashoka.
-16. **Parthians** sit between Shakas and Kushans in fuller teaching. Papers sometimes drop them.
-17. **Agnimitra** (अग्निमित्र) is Pushyamitra’s son. Kalidasa’s (कालिदास) *Malavikagnimitra* (मालविकाग्निमित्रम्) uses him.
-18. **Patanjali** of the *Mahabhashya* is placed in this court in tradition. He is **not** a Kanishka-court scholar.
-19. **Bharhut** (भरहुत) stupa railings are a classic **Shunga** sculpture fact.
-20. **Heliodorus** at Besnagar is a Bhagavata Greek ambassador. He is also not the ashvamedha record.
-21. **Hala** (17th ruler) was a poet-king and patron of literature who authored the celebrated Prakrit erotic anthology **Gathasaptasati (Sattasai)**; his contemporary **Gunadhya** composed the lost epic **Brihatkatha** in Paisachi Prakrit.
-22. **Satakarni I** is the early expansion king and the first to hold the title **Satakarni**. The **Naneghat** inscription of queen **Naganika** belongs to this house.
-23. **Gautamiputra Satakarni** is the greatest.
-24. **Hathigumpha** belongs to **Kharavela** of Kalinga. Ashoka, Harsha, and Kanishka have **other** inscriptions.
-25. **Megalithic** cultures are Iron Age burial traditions of the peninsula and parts of central India.
-26. **PGW** is Later Vedic **doab** (दोआब) ware. **Megaliths** are mainly **south and Deccan** Iron Age burials.
-27. **Greco-Bactria** breaks from the Seleucids under **Diodotus**, about **250 BCE**. **Demetrius I**, about **180 BCE**, makes the first major push into India with an elephant-scalp helmet type.
-28. **Agathocles** and **Pantaleon** issue early bilingual coins with **Brahmi** (ब्राह्मी) legends and **Sankarshana (Balarama) / Vasudeva** types. **Apollodotus** is an early Indian-side silver king.
-29. **Heliodorus**, ambassador of **Antialcidas**, raises the **Besnagar** (Vidisha) Garuda pillar about **113 BCE**. He calls himself a Bhagavata of **Vasudeva**.
-30. **Gautamiputra Satakarni** defeats Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana’s silver was restruck.
-31. **Rudradaman I** is Chashtana’s grandson and the greatest western Shaka. He rules about **130–150 CE** as **mahakshatrapa** (महाक्षत्रप).
-32. **Vikrama Samvat 57 BCE** is the Vikramaditya legend at Ujjain. It is **not** the **Shaka era 78 CE** tied to Kanishka. The two eras differ by **135 years**.
-33. **Kujula Kadphises** of the Kushans displaces Parthian and remaining Greek power in the northwest.
-34. **Vima Kadphises** (Kadphises II) issues the first large-scale **gold** coinage for regular use in India. Titles include **Shaonanoshao** (king of kings) and **Sarvalokeshvara**.
-35. **Kanishka** is the greatest Kushan ruler.
+1. The Mauryan Empire ended in **185 BCE** when the Brahmin commander-in-chief (**Senapati**) **Pushyamitra Shunga** assassinated the last Mauryan ruler Brihadratha during an army review, founding the **Shunga Dynasty (185–73 BCE)**.
+2. Pushyamitra Shunga revived orthodox Vedic Brahmanism; performed **two Ashvamedha (horse) sacrifices**, recorded in the **Ayodhya Inscription of Dhanadeva** (*Dvih-ashvamedha-yajinah*).
+3. The great grammarian **Patanjali** (author of the **Mahabhashya**, a celebrated commentary on Panini's *Ashtadhyayi*) was a contemporary of Pushyamitra Shunga and officiated as a priest in his sacrifices.
+4. Classical Sanskrit poet **Kalidasa** authored the play **Malavikagnimitra**, which dramatizes the romance of Pushyamitra's son and successor **Agnimitra** with princess Malavika and records the defeat of a Greek force on the banks of river Sindhu by Agnimitra’s son **Vasumitra**.
+5. Despite Puranic traditions alleging Pushyamitra persecuted Buddhists, the Shunga period witnessed massive enlargement of Buddhist monuments: the **stone balustrade and railings of Sanchi Stupa**, the gateway of **Bharhut Stupa** (Satna, MP; built during Shunga rule with an inscription *"Suganam Raje"*), and the stone railings at Bodh Gaya.
+6. The ninth Shunga ruler was **Bhagabhadra**; during his reign around 113 BCE, the Greek ambassador **Heliodorus** (sent by Indo-Greek King Antialcidas of Taxila) erected the famous **Garuda Pillar at Besnagar (Vidisha, MP)**, declaring himself a devotee of **Vasudeva (Lord Krishna)**.
+7. The last Shunga ruler **Devabhuti** was assassinated in **73 BCE** by his Brahmin minister **Vasudeva**, who established the **Kanva Dynasty (73–28 BCE)** at Pataliputra; the dynasty ruled for only 45 years across 4 kings (Vasudeva, Bhumimitra, Narayana, Susarman).
+8. The **Satavahana Dynasty (Andhra)** was founded by **Simuka** in the Deccan around the late 1st century BCE (or earlier in 3rd c. BCE); capitals were **Pratishthana (modern Paithan in Aurangabad, Maharashtra)** and **Amaravati / Dhanyakataka** on the Krishna river.
+9. **Satakarni I** was the first great Satavahana monarch; performed two Ashvamedhas and one Rajasuya; his exploits are recorded in the **Nanaghat Cave Inscription** issued by his widowed queen **Nayanika (Naganika)**, which contains the **earliest epigraphic record of a land grant to Brahmanas and Buddhist monks**.
+10. The greatest Satavahana emperor was **Gautamiputra Satakarni (c. 106–130 CE)**; described in the **Nasik Cave Inscription** issued by his mother **Gautami Balashri**:
+    - Assumed the title **"Ekabrahmana"** (Peerless Brahmana) and **"Kshatriya-darpa-mana-mardana"** (destroyer of the pride of Kshatriyas).
+    - Styled **"Trisamudra-pita-toya-vahana"** (whose horses drank the waters of the three oceans: Arabian Sea, Bay of Bengal, Indian Ocean).
+    - Crushed the Western Shaka Kshatrapa ruler **Nahapana**, capturing Malwa, Gujarat, and northern Maharashtra; verified by the **Jogalthambi (Nashik) coin hoard**, where thousands of Nahapana's silver coins were restruck by Gautamiputra.
+11. Satavahana society was officially patriarchal with patrilineal succession, yet kings adopted **metronymics** (mother's names prefixed to their own): e.g., *Gautamiputra* (son of Gautami), *Vasisthiputra* (son of Vasisthi), *Kausikiputra*.
+12. **Vasisthiputra Pulumavi (c. 130–154 CE)**: Established capital at Paithan; his coins were widely circulated across coastal Andhra; clashed with Shaka ruler **Rudradaman I** (who defeated him twice but spared him due to family marriage ties).
+13. **Yajna Sri Satakarni (c. 165–194 CE)**: The last great Satavahana ruler; recovered northern territories; famous for issuing **coins depicting two-masted ocean-going ships**, demonstrating extensive maritime trade with the Roman Empire.
+14. **Hala**: 17th Satavahana king; celebrated poet and patron of literature; authored the famous Prakrit romantic anthology **Gatha Saptasati (Sattasai)** (700 erotic verses in Maharashtri Prakrit).
+15. **Gunadhya**: Court poet at Pratishthana who composed the lost legendary epic **Brihatkatha** in the **Paisachi Prakrit** language (later adapted into Somadeva's *Kathasaritsagara* and Kshemendra's *Brihatkathamanjari*).
+16. **Satavahana Coinage**: Distinctive for issuing **coins made of LEAD (सीसा) and POTIN (पोटीन — a base alloy of copper, lead, and tin)**, alongside copper and bronze; they rarely issued silver and **DID NOT ISSUE GOLD COINS**.
+17. **Satavahana Architecture**: Built the magnificent Buddhist rock-cut **Chaityas and Viharas of the Western Ghats**: **Karle Chaitya** (Pune — largest and most magnificent rock-cut chaitya hall in India, built in 1st c. CE), **Bhaja**, **Bedsa**, **Kanheri**, and **Nasik**.
+18. In Andhra, the Satavahanas patronized the **Amaravati School of Art** (stupas at Amaravati and Nagarjunakonda carved in greenish-white limestone/marble).
+19. **Kharavela of Kalinga (1st century BCE)**: Third ruler of the **Chedi (Mahameghavahana) Dynasty** of Kalinga (modern Odisha); a devout Jain whose military and civil deeds are recorded in the 17-line **Hathigumpha Inscription** carved in the Udayagiri caves near Bhubaneswar.
+20. **Hathigumpha Inscription Highlights**:
+    - Written in Prakrit language and Brahmi script.
+    - Mentions that in his 5th regnal year, Kharavela extended an irrigation canal dug by **Nandaraja (a Nanda king) 300 years earlier** into his capital.
+    - Mentions his northern campaign defeating the king of Magadha (*Bahisatimita*) and reclaiming a sacred Jina image (*Kalinga Jina*) taken away by the Nandas.
+    - Contains the **earliest epigraphic mention of the name "Bharatavarsha"**.
+    - Mentions defeating a confederacy of Tamil kingdoms (*Dramida Sangha*).
+21. **Indo-Greek Kingdom**: Founded in northwestern India by **Demetrius I** (~180 BCE) who crossed the Hindu Kush; greatest king was **Menander I (Milinda, c. 165–145 BCE)** with capital at **Sakala (Sialkot)**.
+22. Menander converted to Buddhism after a dialogue with monk **Nagasena**, recorded in the Pali philosophical masterpiece **Milinda Panha** ("Questions of King Menander").
+23. Indo-Greeks were the **first to issue regular gold coins** in India and the **first to stamp coins with portraits of kings and bilingual inscriptions** (Greek and Kharosthi).
+24. **Western Shakas (Kshatrapas)**: Central Asian nomads who settled in western India; ruled through two families:
+    - **Kshaharata Dynasty**: Bhumaka and **Nahapana** (destroyed by Gautamiputra Satakarni).
+    - **Kardamaka Dynasty**: Founded by **Chashtana** at Ujjain; greatest ruler was **Rudradaman I (130–150 CE)**.
+25. **Rudradaman I's Junagarh Inscription (150 CE)**: First long, ornate inscription in classical Sanskrit; documents the history of **Sudarshana Lake** from Chandragupta Maurya to Rudradaman's governor Suvisakha who repaired the breached dam without taxes or forced labor.
+26. **Kushana Empire**: Originated as the **Yueh-chi** nomads of Central Asia; founded by **Kujula Kadphises**; **Vima Kadphises** issued first Kushana gold coins (*Dinars*); **Kanishka I (78 CE)** founded the **Saka Era**, held the **4th Buddhist Council in Kashmir**, and patronized **Gandhara and Mathura Art**.
+27. **Sangam Age (c. 3rd century BCE – 3rd century CE)**: The classical golden age of ancient Tamil literature, named after the assemblies of poets (*Sangams*) patronized by the **Pandya kings at Madurai**.
+28. **Three Early Tamil Kingdoms (Muvendar)**:
+    - **Cheras**: Ruled over Kerala and western Tamil Nadu; Capital: **Vanji / Karur**; Emblem: **Bow and Arrow**; Chief ports: **Muziris** and **Tondi**. Greatest king: **Senguttuvan** (the "Red Chera"), who introduced the **Pattini Cult** (worship of the chaste virtuous wife Kannagi) and conquered up to the Himalayas.
+    - **Cholas**: Ruled the Kaveri delta (*Cholamandalam*); Capital: **Uraiyur** (famous for cotton trade), later **Poompuhar (Kaveripattinam)**; Emblem: **Tiger**. Greatest king: **Karikala** ("The man with charred leg"), who defeated a confederacy of Cheras and Pandyas at the **Battle of Venni**, built the grand stone dam **Kallanai (Grand Anicut)** on the Kaveri river, and developed Poompuhar into a world-class trading port.
+    - **Pandyas**: Ruled southern Tamil Nadu (Madurai, Tirunelveli); Capital: **Madurai**; Emblem: **Two Carp (Fish)**; Chief port: **Korkai** (celebrated across the Greco-Roman world for pearl fisheries). Greatest king: **Neduncheliyan**, who won the famous **Battle of Talaiyalanganam** against a coalition of Cheras, Cholas, and five chieftains.
+29. **Three Sangam Assemblies**:
+    - **First Sangam**: Held at Old Madurai; presided by sage Agastya; attended by gods and legendary rishis; all texts lost.
+    - **Second Sangam**: Held at **Kapatapuram**; all texts lost except **Tolkappiyam**.
+    - **Third Sangam**: Held at **Northern Madurai**; produced the vast corpus of surviving Sangam literature.
+30. **Tolkappiyam**: Authored by **Tolkappiyar** (disciple of Agastya); the oldest surviving work of Tamil literature; treatise on Tamil grammar, phonetics, rhetoric, poetics, and ancient Tamil social customs.
+31. **The Eight Anthologies (Ettuthogai)** and **The Ten Idylls (Pattupattu)**: Represent the core narrative (*Melkanakku*) corpus of Sangam poetry, divided into two themes:
+    - **Agam**: Inner, private, romantic love poetry.
+    - **Puram**: Outer, public, heroic war and ethical poetry.
+32. **Pathinenkilkanakku (18 Minor Didactic Works)**: Post-Sangam ethical works; includes the immortal **Tirukkural** authored by sage **Tiruvalluvar** (called the *"Bible of the Tamil Land"* or *"Fifth Veda"*), comprising 1,330 couplets across three sections: **Aram** (Dharma), **Porul** (Artha), and **Inbam** (Kama).
+33. **Twin Tamil Epics**:
+    - **Silappadikaram ("The Jewelled Anklet")**: Composed by Jain prince-poet **Ilango Adigal**; narrates the tragic story of merchant **Kovalan**, his virtuous devoted wife **Kannagi**, and the courtesan **Madhavi** in Poompuhar and Madurai; Kannagi burns down the city of Madurai with her curse after the unjust execution of Kovalan by the Pandya king; origin of the *Pattini* cult.
+    - **Manimekalai**: Composed by Buddhist grain-merchant **Chithalai Chathanar**; sequel to Silappadikaram; narrates the spiritual journey of **Manimekalai** (daughter of Kovalan and Madhavi) who receives a magic bowl of inexhaustible food (*Amrita Surabhi*), performs charitable service, and converts to Buddhism.
+34. **Sangam Five Eco-Zones (Ainthinai)**:
+    - **Kurinji**: Hilly tracts | Deity: **Murugan (Seyon)** | Hunting, honey-gathering.
+    - **Mullai**: Pastoral forests | Deity: **Mayon (Vishnu)** | Cattle-rearing, dairy.
+    - **Marudam**: Agricultural plains | Deity: **Vendan (Indra)** | Wet-rice agriculture.
+    - **Neydal**: Coastal littoral | Deity: **Varunan** | Fishing, salt manufacturing.
+    - **Palai**: Parched desert | Deity: **Korravai** (War goddess) | Robbery, military plunder.
+35. **Indo-Roman Maritime Trade**: The discovery of the monsoon winds by Greek navigator **Hippalus** (c. 45 CE) sparked a boom in direct oceanic navigation between Egypt and southern India; documented in the Greek mariner's guide **Periplus of the Erythraean Sea** (c. 80–115 CE) and Pliny's *Natural History* (77 CE).
+36. Roman trade hubs in India: **Muziris** (Kerala — export of black pepper / *Yavanapriya*, temple of Augustus), **Arikamedu (Podouke)** near Puducherry (excavated by Mortimer Wheeler; yielded Roman amphorae wine jars, Arretine red-glazed pottery, Roman lamps, and Roman coins), **Bharuch (Barygaza)** on Narmada mouth, and **Kalyan**.
+37. Roman historian **Pliny the Elder** lamented that the Roman Empire was being drained of over **50 million sesterces of gold and silver every year** to purchase Indian luxuries (pepper, fine muslins, pearls, beryls, and silks).
+38. **Ancient Indian Eras**:
+    - **Vikrama Era**: Begins **57 BCE** (commemorates victory of King of Ujjain over Shakas; also called *Krita* or *Malwa* era).
+    - **Saka Era**: Begins **78 CE** (accession of Kanishka I; adopted as Indian National Calendar in 1957).
+    - **Kalachuri / Chedi Era**: Begins **248–249 CE** (founded by Abhira king Ishwarsena).
+    - **Gupta Era**: Begins **319–320 CE** (coronation of Chandragupta I).
+    - Difference between Vikrama and Saka Era = **135 years** (57 + 78 = 135).
+39. **Nanaghat Cave Inscription**: Issued by queen **Nayanika** in the Western Ghats; records the performance of Ashvamedha and Rajasuya by Satakarni I, and features the **first epigraphic record of land grants to priests (*Brahmadeya*)**, initiating the process of ancient Indian agrarian feudalism.
+40. **Amaravati Stupa (Maha-Chaitya)**: Located in Guntur district (Andhra Pradesh); largest stupa in southern India; adorned with carved white limestone relief panels depicting the life of the Buddha; excavated by Colin Mackenzie and Walter Elliot.
+41. **Udayagiri and Khandagiri Caves (Odisha)**: 33 rock-cut cave dwellings carved into twin sandstone hills by King **Kharavela** and his successors for **Jain monks**; includes the famous **Ranigumpha** (double-storied palace cave) and **Hathigumpha** (elephant cave with the 17-line prashasti).
+42. **Udiyanjiral**: Earliest known ruler of the Chera dynasty; according to Sangam legend, he fed both the Pandava and Kaurava armies during the Mahabharata war.
+43. **Kallanai (Grand Anicut)**: Built by Chola king **Karikala** across the Kaveri river in the 2nd century CE; constructed from unhewn stone blocks; one of the oldest operational water-diversion and irrigation dams in the world.
+44. **Sangam Trade Guilds**: Powerful mercantile corporations like the **Ayyavole (Five Hundred of Aihole)**, **Manigramam**, and **Nanadesi** operated cross-peninsular and maritime trade networks with Sri Lanka, Malaya, and Java.
+45. **Roman Coins in India**: Large hoards of gold (*Aurei*) and silver (*Denarii*) coins of Augustus, Tiberius, and Nero discovered across Coimbatore, Madurai, and coastal Andhra, confirming Roman balance of payments deficits with India.
+46. **Yavanas in South India**: Greek and Roman merchants, sailors, and mercenaries who served as bodyguard palace guards for Tamil kings and operated commercial settlements in port towns like Poompuhar and Muziris.
+47. **Pattini Cult**: The institutionalized worship of Kannagi as the divine embodiment of chaste feminine fidelity and righteousness (*Pattini Devi*), established by Chera king Senguttuvan with a stone brought from the Himalayas and consecrated in the presence of king Gajabahu I of Sri Lanka.
+48. **Sangam Kingship**: The king was styled **Ko**, **Vendan**, or **Iraivar**; his court was known as **Avai**; succession was hereditary based on primogeniture; kings were advised by five councils (*Aimperunkulu*).
+49. **Bhasa's Plays**: Celebrated classical playwright Bhasa authored 13 Sanskrit plays rediscovered in Kerala, including *Swapnavasavadattam* and *Pratijnayaugandharayana*, set in the romantic court of King Udayana of Vatsa.
+50. **Transition from Post-Mauryan to Gupta**: The fragmentation of the Mauryas into regional dynasties (Shungas, Satavahanas, Kushanas) ended around the early 4th century CE when the **Imperial Guptas** unified northern India under a second pan-Indian golden age.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+   185 BCE ── Pushyamitra Shunga assassinates Brihadratha; Shunga Dynasty founded
+      │       • Ayodhya Inscription: 2 Ashvamedhas; Patanjali Mahabhashya; Sanchi railings
+      │
+c. 180 BCE ── Demetrius I establishes Indo-Greek rule in Punjab (Capital: Sakala/Sialkot)
+      │
+c. 165–145 BCE ── Menander I (Milinda) rules; converts to Buddhism (Milinda Panha)
+      │
+c. 113 BCE ── Heliodorus erects Garuda Pillar at Besnagar as a Bhagavata (Shunga era)
+      │
+    73 BCE ── Vasudeva Kanva kills Devabhuti; Kanva Dynasty founded (rules 45 yrs)
+      │
+    57 BCE ── Vikrama Era begins (commemorates victory of Ujjain king over Shakas)
+      │
+c. 1st c. BCE ── Kharavela of Kalinga rules; Hathigumpha Inscription (Udayagiri caves)
+      │       • Nanaghat Inscription of Nayanika (First land grant to Brahmins)
+      │
+c. 1st–3rd c. CE ── Sangam Age in South India (Cheras, Cholas, Pandyas; Indo-Roman trade)
+      │       • Karikala builds Kallanai Dam; Senguttuvan establishes Pattini cult
+      │
+    78 CE  ── Kanishka I ascends Kushana throne; begins Saka Era; 4th Buddhist Council
+      │
+c. 106–130 CE ── Gautamiputra Satakarni rules; defeats Nahapana (Jogalthambi hoard)
+      │       • Nasik Inscription: "Ekabrahmana", "Trisamudrapitapoyavahana"
+      │
+   150 CE  ── Rudradaman I issues Junagarh Rock Inscription in classical Sanskrit
+      │
+c. 165–194 CE ── Yajna Sri Satakarni (Ship-motif coins; peak Roman maritime trade)
+      │
+   248 CE  ── Kalachuri / Chedi Era begins (Abhira king Ishwarsena)
+      │
+   319 CE  ── Chandragupta I coronated; Gupta Era begins; Post-Mauryan era closes
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Post-Mauryan Dynasties ↔ Founder ↔ Capital ↔ Key Inscription
+
+| Dynasty | Origin / Region | Founder | Capital | Landmark Inscription / Source |
+|---|---|---|---|---|
+| **Shunga** (185–73 BCE) | Vidisha / Magadha | **Pushyamitra Shunga** | Pataliputra & **Vidisha** | **Ayodhya Inscription** of Dhanadeva (2 Ashvamedhas) |
+| **Kanva** (73–28 BCE) | Magadha | **Vasudeva Kanva** | Pataliputra | Puranic chronicles (4 kings, 45 years) |
+| **Satavahana** (c. 1st c. BCE–3rd c. CE)| Deccan (Maha/Andhra) | **Simuka** | **Pratishthana** (Paithan) & Amaravati | **Nanaghat** (Nayanika) & **Nasik Cave** (Balashri) |
+| **Chedi (Mahameghavahana)** | Kalinga (Odisha) | Mahameghavahana | Kalinganagara | **Hathigumpha Inscription** (Kharavela) |
+| **Indo-Greek** | Punjab / NW Frontier | Demetrius I | **Sakala (Sialkot)** | *Milinda Panha* (Menander & Nagasena) |
+| **Western Kshatrapa (Kardamaka)**| Malwa / Gujarat | Chashtana | **Ujjayini** | **Junagarh Rock Inscription** (Rudradaman I, 150 CE) |
+| **Kushana** | Central Asia / North India| Kujula Kadphises | **Purushapura** & **Mathura** | Rabatak Inscription, Mathura Mat Devakula |
+
+### 2. The Sangam Muvendar (Three Crowned Monarchs of Tamilakam)
+
+| Attribute | **Cheras** | **Cholas** | **Pandyas** |
+|---|---|---|---|
+| **Territory** | Kerala & Western Tamil Nadu (Kongu) | Kaveri Delta & Central TN (*Cholamandalam*) | Southern Tamil Nadu (Madurai & Tirunelveli) |
+| **Capital City** | **Vanji / Karur** | **Uraiyur** (textiles) $ightarrow$ **Poompuhar** | **Madurai** (on Vaigai river) |
+| **Royal Emblem** | **Bow and Arrow** (धनुष-बाण) | **Tiger** (बाघ) | **Two Carp / Fish** (दो मछलियां) |
+| **Premier Port** | **Muziris** & Tondi (Malabar) | **Poompuhar (Kaveripattinam)** | **Korkai** (Pearl fisheries) |
+| **Greatest Monarch** | **Senguttuvan** (Red Chera; Pattini cult) | **Karikala** (Kallanai Dam, Venni battle) | **Neduncheliyan** (Talaiyalanganam battle) |
+| **Famous Export** | Black Pepper (*Yavanapriya*), Beryls | Fine Muslin cotton textiles | Natural marine pearls, Conch shells |
+
+### 3. Master Table — Ancient Indian Eras (संवत एवं काल-गणना)
+
+| Calendar Era | Commencement Year | Established By / Historical Event | Conversion to Common Era (CE) |
+|---|---|---|---|
+| **Kali Era** | **3102 BCE** | Traditional Mahabharata War / Kaliyuga epoch | CE year + 3102 |
+| **Buddha Nirvana** | **544 / 483 BCE**| Mahaparinirvana of Gautama Buddha | CE year + 544 / 483 |
+| **Mahavira Nirvana** | **527 BCE** | Nirvana of Vardhamana Mahavira at Pavapuri | CE year + 527 |
+| **Vikrama Era** | **57 BCE** | King of Ujjain defeating Shakas / Azes I | **CE year + 57** (e.g. 2026 CE = 2083 Vikrama) |
+| **Saka Era** | **78 CE** | Accession of Kanishka I (Indian National Calendar)| **CE year − 78** (e.g. 2026 CE = 1948 Saka) |
+| **Kalachuri / Chedi**| **248–249 CE** | Abhira king Ishwarsena | CE year − 248 |
+| **Gupta Era** | **319–320 CE** | Coronation of Chandragupta I | **CE year − 319** |
+| **Harsha Era** | **606 CE** | Accession of Harshavardhana | **CE year − 606** |
+
+> **Era Formula Check:** Difference between Vikrama Era (57 BCE) and Saka Era (78 CE) = **57 + 78 = 135 years**. Difference between Saka Era (78 CE) and Gupta Era (319 CE) = **319 − 78 = 241 years**.
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+| Pair A | Pair B | Key Difference | Hindi Key |
 |---|---|---|---|
-| Indo-Greek | Shaka | Hellenistic **Menander** vs Central Asian **Maues / Rudradaman** | इंडो-ग्रीक / शक |
-| Shaka | Kushan | After Greeks, before Kushan vs **Kanishka** empire | शक / कुषाण |
-| Shunga | Satavahana | Magadha **north** vs Deccan **Andhra** | शुंग / सातवाहन |
-| Kharavela | Rudradaman | **Hathigumpha** Kalinga vs **Junagadh** Shaka | खारवेल / रुद्रदामन |
-| Ayodhya inscription | Besnagar pillar | Pushyamitra **ashwamedha** vs Heliodorus **Bhagavata** | अयोध्या / बेसनगर |
-| Vikrama 57 BCE | Shaka 78 CE | Traditional Vikramaditya vs **Kanishka-era** count | विक्रम / शक |
-| Karikala | Rajaraja I | Sangam Chola, **Kallanai** vs imperial Chola, **Thanjavur** | करिकाल / राजराज |
-| Mahendravarman I | Rajaraja I | **Pallava** vs **Chola** (2025 swap trap) | महेन्द्रवर्मन / राजराज |
-| Kadungon | Amoghavarsha I | **Pandya** revival vs **Rashtrakuta** | कडुंगों / अमोघवर्ष |
-| Akam | Puram | Inner **love** poetry vs outer **war / kingship** | अकम् / पुरम् |
-| Gandhara art | Amaravati art | Kushan NW Greco-Buddhist vs Satavahana **Andhra** limestone | गांधार / अमरावती |
-| Sangam Chola | Imperial Chola | Karikala age vs 9th–11th c. revival | संगम चोल / साम्राज्य चोल |
-| Muvendar | Satavahana | Chera-Chola-Pandya vs north-Deccan **Andhra** house | मुवेन्दर / सातवाहन |
-| Nahapana | Rudradaman | Kshaharata, beaten by Gautamiputra vs Kardamaka, Junagadh | नहपान / रुद्रदामन |
-| Purushapura | Mathura | Kushan **main** capital vs **second** Indian capital | पुरुषपुर / मथुरा |
-| Vaigai (Pandya) | Vengi (Andhra) | Madurai Pandya river vs Eastern Chalukya capital **Pedavegi** near **Eluru** | वैगई / वेंगी |
-| Arikamedu / Poduke | Tamralipti | Coromandel Roman station vs Ganga-mouth Bay port | अरिकामेडु / ताम्रलिप्ति |
-| Muvendar | Pallava / Kadamba | Sangam trio only vs later Kanchi / Vanavasi houses | मुवेन्दर / पल्लव–कदम्ब |
+| **Indo-Greek** | **Western Shaka** | Hellenistic Menander (Sakala) vs Central Asian Rudradaman (Ujjain) | इंडो-ग्रीक / शक |
+| **Gautamiputra Satakarni**| **Satakarni I** | Defeated Nahapana (Nasik cave) vs Husband of Nayanika (Nanaghat cave) | गौतमीपुत्र / शातकर्णि प्रथम |
+| **Pushyamitra Shunga** | **Pushyagupta** | Brahmin commander who overthrew Mauryas vs Vaishya governor who built Sudarshana Lake | पुष्यमित्र शुंग / पुष्यगुप्त |
+| **Nanaghat Inscription** | **Nasik Cave Inscription** | Queen Nayanika (First land grant) vs Queen Gautami Balashri (*Ekabrahmana*) | नानाघाट / नासिक गुफा |
+| **Patanjali** | **Panini** | Shunga-era author of *Mahabhashya* (2nd c. BCE) vs 5th c. BCE grammarian author of *Ashtadhyayi* | पतंजलि / पाणिनि |
+| **Hathigumpha** | **Junagarh** | Kharavela's Prakrit cave record in Odisha vs Rudradaman's Sanskrit rock record in Gujarat | हाथीगुंफा / जूनागढ़ |
+| **Karle Chaitya** | **Ajanta Caves** | Largest single Hinayana rock-cut prayer hall (Satavahanas) vs Painted multi-period monastic cave complex | कार्ले / अजंता |
+| **Lead and Potin Coins** | **Pure Gold Dinars** | Distinctive currency issued by Satavahanas vs High-value international currency issued by Kushanas | सीसा-पोटीन / स्वर्ण दीनार |
+| **Silappadikaram** | **Manimekalai** | Ilango Adigal's epic on Kovalan & Kannagi vs Chathanar's Buddhist sequel on their daughter | सिलप्पादिकारम / मणिमेकलै |
+| **Tolkappiyam** | **Tirukkural** | Sangam grammatical and rhetorical treatise vs Ethical didactic masterpiece by Tiruvalluvar | तोलकाप्पियम / तिरुक्कुरल |
+| **Uraiyur** | **Poompuhar** | Chola inland textile capital on Kaveri vs Chola premier coastal international port | उरैयूर / पूमपुहार |
+| **Senguttuvan** | **Karikala** | Chera king who started Pattini cult vs Chola king who built Kallanai Dam on Kaveri | सेनगुट्टुवन / करिकाल |
+| **Agam poetry** | **Puram poetry** | Sangam inner romantic/personal love verses vs Sangam outer heroic war and ethical verses | अगम / पुरम |
+| **Arikamedu** | **Muziris** | East coast Roman trading station (Puducherry) vs West coast Roman pepper entrepôt (Kerala) | अरिकामेडु / मुज़िरिस |
+| **Vikrama Era (57 BCE)** | **Saka Era (78 CE)** | Established in Ujjain (+57) vs Established by Kanishka I (−78); 135-year difference | विक्रम / शक संवत |
+| **Malavikagnimitra** | **Swapnavasavadattam** | Kalidasa's play on Agnimitra Shunga vs Bhasa's play on King Udayana of Vatsa | मालविकाग्निमित्र / स्वप्नवासवदत्तम् |
+| **Vimal Vasahi** | **Luna Vasahi** | Dilwara temple to Rishabhanatha (Vimal Shah, 1031) vs Dilwara temple to Neminatha (Tejpala, 1230) | विमल वसही / लूण वसही |
+| **Besnagar Pillar** | **Mehrauli Pillar** | Greek Heliodorus dedicates to Vasudeva (113 BCE) vs Chandragupta II rustless iron pillar (4th c. CE) | बेसनगर / महरौली |
+
+## 🧠 Memory Anchors & Mnemonics
+
+1. **Post-Mauryan Imperial Ladder (North & Deccan):**
+   - **Mnemonic:** **S - K - S**
+   - **Order:** **S**hunga (185 BCE) $ightarrow$ **K**anva (73 BCE) $ightarrow$ **S**atavahana.
+2. **The Sangam Muvendar Triad (Capitals & Emblems):**
+   - **Chera** = **Bow** (Bows shoot from **V**anji)
+   - **Chola** = **Tiger** (Tigers roar at **U**raiyur & **P**oompuhar)
+   - **Pandya** = **Fish** (Fish swim at **M**adurai)
+3. **Gautamiputra Satakarni Title Locks:**
+   - **E - T**
+   - **E**kabrahmana (Peerless Brahmana)
+   - **T**risamudrapitapoyavahana (Horses drank water of 3 seas)
+4. **Twin Tamil Epics Connection:**
+   - **S**ilappadikaram = **S**tory of Parents (Kovalan & Kannagi)
+   - **M**animekalai = **M**onastic daughter (Manimekalai)
+5. **The 135-Year Difference Rule:**
+   - **Vikrama** (57 BCE) to **Saka** (78 CE) = $57 + 78 = \mathbf{135	ext{ years}}$.
+   - Exam Trap: Always add 135 to convert Saka year to Vikrama year!
 
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

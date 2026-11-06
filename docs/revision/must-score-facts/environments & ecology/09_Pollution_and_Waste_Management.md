@@ -7,55 +7,109 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 9 — Pollution & Waste Management</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
 
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Pollution** is harmful addition beyond the environment (पर्यावरण)’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
-2. **Biodegradable** pollutants (sewage, faecal matter, urine, domestic waste, rubber in some stems) break down by microbes. **Non-biodegradable** include pesticides, plastics, mercury, asbestos.
-3. **Point sources** are chimneys and drains. **Non-point sources** include farm runoff and roads.
-4. **Primary pollutants** are emitted directly (SO₂, PM, CO, NOx, lead). **Secondary pollutants** form in air (O₃, PAN, photochemical smog, acid rain (अम्ल वर्षा)).
-5. **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) sets ambient air and surface-water standards. **SPCB** enforces in States. **CGWB** handles **groundwater** assessment — not CPCB.
-6. **CO** binds haemoglobin **~200–300×** more strongly than O₂ (carboxyhaemoglobin). Lead antiknock in petrol harms IQ/brain development.
-7. **Fly ash** from coal TPPs: usable in bricks / Portland cement replacement; contains SiO₂, Al₂O₃, CaO **plus toxic metals** — not “oxides only.”
-8. **Lichens** are SO₂ bio-indicators and die in polluted air. **Radon** is the classic major **indoor** air pollutant (lung cancer risk).
-9. **NCAP (2019)** covers non-attainment cities with a **20–30%** PM reduction target. **BS-VI** fuel arrived in **2020**. **WAYU** air-purifying units were installed in **Delhi**.
-10. **CCAC** (2012, with UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम)) focuses on **methane, black carbon, HFCs** — not a G20-only club.
-11. **Eutrophication** (सुपोषण) is nutrient overload (N/P) → algal bloom → dissolved-oxygen crash — a **water** phenomenon, not air pollution.
-12. **Damodar** (दामोदर) is classically called a **biological desert** from mining/industry pollution. Ganga (गंगा) BOD often highest **Kanpur (कानपुर)–Allahabad (इलाहाबाद)** stretch.
-13. **Bioremediation** uses microbes to clean pollution; **cannot** readily/completely treat **Cd/Pb** heavy metals. **Oilzapper** (TERI) is for oily sludge/spills. Genetic engineering can create specialised strains (e.g. *Pseudomonas putida*).
-14. **3R** priority is **Reduce > Reuse > Recycle**. **Swachh Bharat** began in **2014**. NAQI launched **17 Oct 2014**.
-15. **Euro / BS** emission norms limit CO, HC, NOx, PM. Euro-II ultra-low sulphur diesel ≈ **≤0.05% S**. India skipped BS-V to **BS-VI (1 Apr 2020)**.
-16. **Asian Brown Cloud** / atmospheric brown cloud is especially noted over **South Asia** (winter aerosols, black carbon, sulphate).
-17. **Radioactive pollution** is ionizing radiation beyond safe dose. **Becquerel (Bq)** counts disintegrations per second; **Sievert (Sv)** is biological dose; **half-life** is time for **50%** decay — not complete disappearance.
-18. **AERB** (Atomic Energy Regulatory Board) regulates nuclear safety in India. **Chernobyl (26 April 1986)** is the classic nuclear-accident teaching case; **Bhopal (1984)** is MIC industrial gas, not radioactive pollution.
-19. **Thermal pollution** raises water temperature (mainly power-plant cooling water). Warm water holds **less DO**; even a **2–3°C** rise can stress aquatic life. **Cooling towers/ponds** mitigate discharge under Water Act consent conditions.
-20. **Environmental pollution** is the harmful addition of substances or energy when the rate exceeds the environment's **absorption or assimilative capacity**.
-21. **Biodegradable** pollutants (sewage, faecal matter, urine, domestic organic waste) can be broken down by microbes. **Non-biodegradable** pollutants (pesticides, plastics, many metals, asbestos) persist or degrade very slowly.
-22. **Point sources** have identifiable outlets such as factory (फैक्टरी) chimneys and sewage pipes.
-23. **Non-point sources** are diffuse, such as fertilizer runoff from farms and urban (नगरीय) stormwater.
-24. **Primary pollutants** are emitted directly, including **SO₂**, **CO**, **NOx**, and **particulate matter**.
-25. **Secondary pollutants** form in the atmosphere, including **ground-level ozone**, **PAN**, photochemical smog, and **acid rain**.
-26. **CPCB** sets national standards. **SPCBs** enforce pollution control at the state level.
-27. **Environmental degradation** is the decline in environmental quality and productivity from pollution, resource depletion, and ecosystem (पारिस्थितिकी तंत्र) damage.
-28. **Urbanization** degrades the environment through sewage overload, heat islands, and waste accumulation.
-29. **Mining** removes vegetation and can cause acid drainage and toxic tailings. **Sonbhadra (सोनभद्र) (UP)** faces mining-related degradation.
-30. **Intensive agriculture** degrades soil through pesticide buildup, salinization, and organic matter loss.
-31. **EIA under EPA 1986** aims to prevent degradation before major projects start.
-32. **Air pollution** is the presence of harmful gases, dust, and smoke at levels that injure health or visibility.
-33. **Natural sources** include volcanoes and forest fires. **Man-made sources** include fuel combustion, vehicles, and industry.
-34. **PM2.5** particles (≤2.5 μm) penetrate deep into the lungs and bloodstream; rain cleans coarser dust better than ultrafines.
-35. **PM10** particles (≤10 μm) mainly affect the upper respiratory tract.
+2. Human-caused pollution / human-modified environment = **anthropogenic**. Anthropogenic pollution often raises persistent **non-biodegradable** loads.
+3. **Biodegradable** pollutants (sewage, faecal matter, urine, domestic waste, rubber in some stems) break down by microbes. **Non-biodegradable** include pesticides, plastics, mercury, asbestos.
+4. **Point sources** are chimneys and drains. **Non-point sources** include farm runoff and roads.
+5. **Primary pollutants** are emitted directly (SO₂, PM, CO, NOx, lead). **Secondary pollutants** form in air (O₃, PAN, photochemical smog, acid rain (अम्ल वर्षा)).
+6. Law years: **Water Act 1974 → Air Act 1981 → EPA 1986 (पर्यावरण संरक्षण 1986)**. Noise Rules date to **2000**. Air Act amended **1987** to include noise.
+7. **CPCB** (केंद्रीय प्रदूषण नियंत्रण बोर्ड) sets ambient air and surface-water standards. **SPCB** enforces in States. **CGWB** handles **groundwater** assessment — not CPCB.
+8. India’s AQI uses **eight** pollutants: **PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb** — **not CO₂ or CH₄** (those are climate gases). Bands: **0–50 Good** … **401–500 Severe**.
+9. London smog is **SO₂ + smoke**. Los Angeles / photochemical smog is **NOx + VOCs + sunlight → O₃ / PAN**. **PAN** is a powerful eye irritant.
+10. **CO** binds haemoglobin **~200–300×** more strongly than O₂ (carboxyhaemoglobin). Lead antiknock in petrol harms IQ/brain development.
+11. **Fly ash** from coal TPPs: usable in bricks / Portland cement replacement; contains SiO₂, Al₂O₃, CaO **plus toxic metals** — not “oxides only.”
+12. **Lichens** are SO₂ bio-indicators and die in polluted air. **Radon** is the classic major **indoor** air pollutant (lung cancer risk).
+13. **NCAP (2019)** covers non-attainment cities with a **20–30%** PM reduction target. **BS-VI** fuel arrived in **2020**. **WAYU** air-purifying units were installed in **Delhi**.
+14. **CCAC** (2012, with UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम)) focuses on **methane, black carbon, HFCs** — not a G20-only club.
+15. Water facts: high **BOD** means worse organic pollution; **COD ≥ BOD**; clean DO is often **>6 mg/L**, while **<5 mg/L** / **<4 mg/L** stresses aquatic life.
+16. **Eutrophication** (सुपोषण) is nutrient overload (N/P) → algal bloom → dissolved-oxygen crash — a **water** phenomenon, not air pollution.
+17. Disease locks: **Minamata–Hg**, **Itai-itai–Cd**, **Knock-knee / fluorosis–F**, **Black Foot–As**, blue-baby–nitrate.
+18. **Damodar** (दामोदर) is classically called a **biological desert** from mining/industry pollution. Ganga (गंगा) BOD often highest **Kanpur (कानपुर)–Allahabad (इलाहाबाद)** stretch.
+19. Arsenic groundwater hotspots: Ganga–Brahmaputra (ब्रह्मपुत्र) / Bangladesh Padma (पद्मा)–Meghna; Indian states include WB, Bihar, UP, Jharkhand, Assam, Manipur, Chhattisgarh.
+20. About **80%** of marine pollution comes from **land**. Ocean acidification (महासागरीय अम्लीकरण) from CO₂ harms calcareous plankton and corals. **IMO** HQ = **London**.
+21. Noise is measured in **decibels**. Under **Noise Pollution (Regulation and Control) Rules, 2000**, a person may complain when noise exceeds the ambient standard by **10 dB(A) or more**. A **10 dB** rise also means **10×** intensity on the logarithmic scale. **Green muffler** = roadside tree belts for noise (and dust).
+22. Plastic: **PWM Rules 2016**, SUP ban push **2022**, microplastics **<5 mm**; **microbeads** harm marine ecosystems. Polythene = ethylene polymer, non-biodegradable.
+23. **Bioremediation** uses microbes to clean pollution; **cannot** readily/completely treat **Cd/Pb** heavy metals. **Oilzapper** (TERI) is for oily sludge/spills. Genetic engineering can create specialised strains (e.g. *Pseudomonas putida*).
+24. Waste rules cluster in **2016**: SWM, BMW, Hazardous Waste, and Plastic Waste. **E-waste Rules** updated in **2022**. **EPR** first featured strongly in plastic/e-waste rules **2011+**.
+25. **3R** priority is **Reduce > Reuse > Recycle**. **Swachh Bharat** began in **2014**. NAQI launched **17 Oct 2014**.
+26. BMW colour codes: **Yellow** incineration; **Red** contaminated recyclables (IV tubes/sets, catheters, urine bags, syringes **without** needles) for disinfection then recycle; **White** sharps (needles); **Blue** glass vials / metal.
+27. **Euro / BS** emission norms limit CO, HC, NOx, PM. Euro-II ultra-low sulphur diesel ≈ **≤0.05% S**. India skipped BS-V to **BS-VI (1 Apr 2020)**.
+28. Catalytic converters use **Pt / Pd / Rh** to convert CO → CO₂, NOx → N₂, HC → CO₂ + H₂O.
+29. UP air NCAP cities include Lucknow (लखनऊ), Kanpur, Ghaziabad, Agra, Varanasi (वाराणसी), Meerut (मेरठ), Noida, Prayagraj (प्रयागराज), Moradabad, and Bareilly.
+30. UP issue facts: Kanpur Ganga tanneries; Ghaziabad/Noida air; **Moradabad** noise; **Taj Trapezium** at Agra; Varanasi ghat/plastic pressure.
+31. FSI publishes forest cover (वन आवरण), not pollution standards. CWC (केंद्रीय जल आयोग) is surface-water resources, not the groundwater quality report.
+32. EPA **1986** is the umbrella for many later rules; it does not replace Water and Air Acts.
+33. Secondary ozone at ground level is a pollutant; do not confuse it with stratospheric protective ozone.
+34. Hazardous waste follows HW Rules **2016** plus Basel controls — not SWM municipal rules alone.
+35. **Asian Brown Cloud** / atmospheric brown cloud is especially noted over **South Asia** (winter aerosols, black carbon, sulphate).
+36. Bag filters trap finer particulates (**<~50 μm**); cyclone separators/collectors handle coarser (**>~50 μm**). **Cyclone divider** is not a standard control device name.
+37. **Radioactive pollution** is ionizing radiation beyond safe dose. **Becquerel (Bq)** counts disintegrations per second; **Sievert (Sv)** is biological dose; **half-life** is time for **50%** decay — not complete disappearance.
+38. **AERB** (Atomic Energy Regulatory Board) regulates nuclear safety in India. **Chernobyl (26 April 1986)** is the classic nuclear-accident teaching case; **Bhopal (1984)** is MIC industrial gas, not radioactive pollution.
+39. **Thermal pollution** raises water temperature (mainly power-plant cooling water). Warm water holds **less DO**; even a **2–3°C** rise can stress aquatic life. **Cooling towers/ponds** mitigate discharge under Water Act consent conditions.
+40. **Environmental pollution** is the harmful addition of substances or energy when the rate exceeds the environment's **absorption or assimilative capacity**.
+41. **Point sources** have identifiable outlets such as factory (फैक्टरी) chimneys and sewage pipes.
+42. **Non-point sources** are diffuse, such as fertilizer runoff from farms and urban (नगरीय) stormwater.
+43. **Secondary pollutants** form in the atmosphere, including **ground-level ozone**, **PAN**, photochemical smog, and **acid rain**.
+44. **CPCB** sets national standards. **SPCBs** enforce pollution control at the state level.
+45. **Environmental degradation** is the decline in environmental quality and productivity from pollution, resource depletion, and ecosystem (पारिस्थितिकी तंत्र) damage.
+46. **Urbanization** degrades the environment through sewage overload, heat islands, and waste accumulation.
+47. **Mining** removes vegetation and can cause acid drainage and toxic tailings. **Sonbhadra (सोनभद्र) (UP)** faces mining-related degradation.
+48. **Intensive agriculture** degrades soil through pesticide buildup, salinization, and organic matter loss.
+49. **EIA under EPA 1986** aims to prevent degradation before major projects start.
+50. **Air pollution** is the presence of harmful gases, dust, and smoke at levels that injure health or visibility.
 
+## ⏱️ Timeline / Chronology
 
----
+### Chronological Sequence of Global Atmospheric & Pollution Milestones
+
+```
+1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
+1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
+1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
+1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
+1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
+1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
+2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
+2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
+2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
+```
+
+## 📊 Quick Reference Grid
+
+### Basics
+
+| Item | Lock |
+|------|------|
+| Primary / Secondary | Emitted direct / formed in air (O₃, PAN, acid rain) |
+| Point / Non-point | Chimney–drain / farm runoff–roads |
+| Law years | Water **1974** → Air **1981** → EPA **1986**; Noise Rules **2000** |
+| AQI 8 pollutants | PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb (**not** CO₂/CH₄) |
+| London / LA smog | SO₂+smoke / NOx+VOCs+sun → O₃+PAN |
+| CO / Lead | Hb affinity ~200–300× / IQ–brain harm |
+| Lichens / Radon | SO₂ bio-indicator / top indoor pollutant |
+| NCAP / BS-VI | **2019** / **2020** |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Environmental Pollution** | **Environmental Degradation** | Direct or indirect release of harmful substances, radiation, or thermal energy into air, water, or soil causing toxic injury to living organisms vs broader long-term deterioration of environmental quality, natural capital, and ecosystem productivity | पर्यावरणीय प्रदूषण / पर्यावरणीय क्षरण |
 | **Primary Air Pollutant** | **Secondary Air Pollutant** | Emitted directly from identifiable domestic or industrial exhaust sources into the atmosphere (CO, SO₂, NO, PM, Lead) vs formed in the atmosphere through chemical or photochemical reactions among primary precursors (Tropospheric Ozone, PAN, Smog, Nitric acid) | प्राथमिक प्रदूषक (सीधे उत्सर्जित) / द्वितीयक प्रदूषक (रासायनिक क्रिया) |
 | **Biochemical Oxygen Demand (BOD)** | **Chemical Oxygen Demand (COD)** | Amount of dissolved oxygen needed by aerobic microorganisms to decompose biodegradable organic matter in water at 20°C over 5 days vs total amount of oxygen required to chemically oxidize all organic matter (both biodegradable and non-biodegradable) using a strong chemical oxidant | जैव रासायनिक ऑक्सीजन मांग (BOD) / रासायनिक ऑक्सीजन मांग (COD) |
@@ -64,10 +118,20 @@ hide:
 | **Central Pollution Control Board (CPCB)** | **Central Ground Water Board (CGWB)** | Statutory apex pollution regulator established under Water Act 1974 for framing air/water standards and national monitoring vs subordinate scientific office under Ministry of Jal Shakti assessing groundwater resources and aquifer dynamics | केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) / केंद्रीय भूजल बोर्ड (CGWB) |
 | **Classical (London) Smog** | **Photochemical (Los Angeles) Smog** | Occurs in cool, humid winter mornings; high concentrations of SO₂ and coal soot; chemically reducing in nature vs occurs in hot, dry, sunny afternoons; vehicle exhaust NOx + volatile organic compounds (VOCs); chemically oxidizing in nature with high ozone and PAN | लंदन स्मॉग (सल्फ्यूरस/अपचायक) / प्रकाश रासायनिक स्मॉग (ऑक्सीकारक) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

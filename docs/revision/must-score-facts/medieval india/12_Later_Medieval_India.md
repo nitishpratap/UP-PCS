@@ -3,59 +3,162 @@ hide:
   - toc
 ---
 
-# Topic 12 — Later Medieval India — Must-Score Facts
+# Topic 12 — Later Medieval India (Later Mughals & Regional States) — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">🏰 Medieval India &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 12 — Later Medieval India</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 12 — Later Medieval India (Later Mughals & Regional States)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2024** | **Bara Imambara & Rumi Darwaza Structural Conservation (Lucknow):** Major facade and structural restoration by ASI and UP Tourism | Built by **Asaf-ud-Daulah in 1784 CE** as a famine-relief project; unsupported central vault; Rumi Darwaza styled on Constantinople gate |
+| **2024** | **Heritage Circuit Awadh (Faizabad–Lucknow):** Restoration of Gulab Bari, Bahu Begum Tomb, and Chhota Imambara | Saadat Khan established capital at **Faizabad (1722)**; Asaf-ud-Daulah shifted to **Lucknow (1775)**; core UP Special history |
+| **2023** | **Murshidabad Heritage Tourism Mission (West Bengal):** Conservation of Hazarduari Palace and Katra Mosque | Founded by **Murshid Quli Khan (1717)**; Alivardi Khan's European doctrine; Siraj-ud-Daulah & Battle of Plassey (1757) |
+| **2024** | **Bahadur Shah Zafar Memorial & Ghalib Centenary Seminars:** Commemorating the poetic and symbolic legacy of 1857 | Last Mughal emperor tried by British military commission, exiled to **Rangoon (Burma)**; died in 1862 |
+| **2023** | **Safdarjung Tomb (New Delhi) Night Illumination:** Conservation of the last grand Mughal garden tomb | Built in 1754 CE for **Safdarjung (Nawab of Awadh & Mughal Wazir)** by his son Nawab Shuja-ud-Daulah |
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Vasco da Gama (गामा)** reached **Calicut in 1498**; **Afonso de Albuquerque (अल्बुकर्क)** captured **Goa (गोवा) in 1510** and made it Portuguese India's capital.
-2. **William Hawkins (हॉकिन्स)** reached India in **1608** on the *Hector*, spoke **Turkish**, and met Jahangir (जहाँगीर); the trap year **1611** is false for arrival.
-3. **Sir Thomas Roe (रो)** was ambassador at Jahangir's court from **1615 to 1619**.
-4. **Colbert** founded the French company (**1664**) under **Louis XIV**; earliest French factory **Surat 1668** (**François Caron**); HQ **Pondicherry (1674)**; Bengal factory **Chandernagore** (चंद्रनगर). **Dupleix** (डुप्ले) first used European troops in Indian succession (उत्तराधिकार क्रम) quarrels.
-5. **First Carnatic (कर्नाटक) War (1746–48)**: immediate spark = English capture of French ships (नावाध्यक्ष) (**Captain Bernett**); French won **St. Thome** (सेंट थॉम) on the Adyar vs Anwaruddin’s force; **Aix-la-Chapelle (1748)** (एक्स-ला-शापेल) returned **Madras**. **Second Carnatic** opens with **Ambur (1749)**; **Wandiwash (वांडिवाश) (1760)** = British (**Eyre Coote**) defeat French (**Count de Lally**); **Paris 1763** ends the Third.
-6. **Bernier** (बर्नियर) was a **French** traveller at Aurangzeb (औरंगजेब)'s court, not an English EIC envoy.
-7. **Saadat Khan (सादात खान) Burhan-ul-Mulk** founded the **Awadh** (अवध) Nawabi in **1722**; he is not Bengal's Murshid (पीर) Quli (मुर्शिद क़ुली) Khan (मुर्शिद कुली खान).
-8. **Shuja-ud-Daula** (शुजाउद्दौला) stood with Abdali (अब्दाली) at **Panipat (पानीपत) III (1761)**; after Buxar (बक्सर) came the **Treaty of Allahabad (इलाहाबाद की संधि) (1765)**.
-9. **Asaf-ud-Daula** (आसफउद्दौला) made **Lucknow** (लखनऊ) the capital and built the **Bara Imambara**.
-10. **Ralph Fitch** saw **Agra** (आगरा) and **Banaras** in Akbar's time, before any lasting EIC factory.
-11. **Begum Hazrat Mahal** (बेगम हज़रत महल) led Lucknow resistance after 1856 annexation fed the **1857** rising.
-12. **Safdar Jung** also served as Mughal **Wazir** (वज़ीर); **Serampore** is Danish, not French.
-13. **Jahandar Shah** rose with **Zulfiqar Khan** (ज़ुल्फ़िक़ार) and was defeated and killed by nephew **Farrukh Siyar** (फ़र्रुख़) in **1713**.
-14. **Farrukh Siyar’s 1717 farman (फ़रमान)** gave the English **duty-free trade in Bengal** for an annual lump sum of about **Rs 3,000**.
-15. **Sayyid (सैयद) brothers** (सैय्यद) (**Abdullah** and **Hussain Ali**) were the later-Mughal **king-makers** (**1713–1720**).
-16. **Muhammad Shah Rangeela (रंगीला) (1719–1748)** was the last emperor to sit on the **Peacock Throne**; **Nadir Shah** (नादिर शाह) defeated him at **Karnal (1739)** and took the throne and **Kohinoor**.
-17. **Chin Qilich Khan (Nizam-ul-Mulk (निजाम-उल-मुल्क) Asaf Jah)** founded independent **Hyderabad** after defeating **Mubariz Khan** at **Shakar Kheda (खेड़ा) (1724)**.
-18. **Sawai Jai Singh II** built **Jantar Mantar** observatories at **Delhi, Jaipur, Ujjain (उज्जैन), Mathura (मथुरा), and Varanasi (वाराणसी)** (not Allahabad) and prepared **Zij Muhammad Shahi**.
-19. **Thomas Best** broke Portuguese naval monopoly at **Swally** near Surat. **Sir John Child** was expelled by **Aurangzeb** (औरंगजेब) after attacking Mughal ports (**1688**).
-20. **Cause:** Portugal sought a **sea route to India** after Ottoman control blocked easy land access to Asian spices.
-21. **Course:** **Vasco da Gama**, guided by the Gujarati pilot **Ahmad ibn Majid**, reached **Calicut on 20 May 1498** and was welcomed by the **Zamorin (Samuthiri)**. He did **not** capture Goa on that first voyage.
-22. **Pedro Álvares Cabral** reached India around **September 1500**; a Portuguese factory rose at **Calicut**.
-23. **Francisco de Almeida** arrived in **1505** as the **first Portuguese Governor and Viceroy**.
-24. **Afonso de Albuquerque** became Governor in **1509**. He is the **real founder of Portuguese power in India**.
-25. **Nuno da Cunha** (Governor from **1529**) shifted the Portuguese headquarters from **Cochin to Goa**.
-26. **Cartaze** was a **pass-fee** Portuguese ships imposed on Indian Ocean merchants.
-27. **Shah Jahan** destroyed Portuguese establishments at **Hooghly in 1632** and imprisoned thousands.
-28. **Result:** Portugal dominated early spice trade but remained a **coastal maritime power**, never ruling Delhi or the Gangetic plains.
-29. **Pulicat** on the Coromandel coast was their main South Indian headquarters.
-30. **William Hawkins** reached India in **1608** on the **Hector**.
-31. **Captain Thomas Best** defeated the Portuguese at **Swally** near Surat (**1612**), clearing the way for a lasting foothold.
-32. **Sir Thomas Roe** was ambassador in **1615–19** at Jahangir’s court seeking **farmans**.
-33. **Bombay** came as dowry when **Charles II** married Portuguese princess **Catherine (1662)** and was **leased to the EIC in 1668** for **£10** a year.
-34. **Job Charnock**, of the Kasimbazar factory, chose **Sutanuti** over Hooghly and founded the English base that became **Calcutta**.
-35. **François Caron** led the **1667** expedition and opened the first French factory at **Surat in 1668**.
+1. Sea-power arrival order: **Portuguese 1498 → Dutch ~1605 → English Surat factory (फैक्टरी) 1613 (सूरत) → Danish Tranquebar (ट्रैंकेबार) 1620 → French Pondicherry (पांडिचेरी) 1674**.
+2. Charter fact: **EIC 1600** (ईआईसी), **VOC 1602** (वीओसी), **Danish 1616**, **French 1664** — the English charter comes **before** the Dutch.
+3. **Vasco da Gama (गामा)** reached **Calicut in 1498**; **Afonso de Albuquerque (अल्बुकर्क)** captured **Goa (गोवा) in 1510** and made it Portuguese India's capital.
+4. Portuguese **cartaze** (कार्टाज़) was an ocean pass-fee; **Shah Jahan** (शाहजहाँ) expelled the Portuguese from **Hooghly (हुगली) in 1632**.
+5. The Dutch **VOC** used **Pulicat** as its South Indian headquarters and **Chinsurah** (चिन्सुरा) as its Bengal factory.
+6. **William Hawkins (हॉकिन्स)** reached India in **1608** on the *Hector*, spoke **Turkish**, and met Jahangir (जहाँगीर); the trap year **1611** is false for arrival.
+7. **Sir Thomas Roe (रो)** was ambassador at Jahangir's court from **1615 to 1619**.
+8. English factory spine: temporary **Masulipatnam 1611** (मसूलिपत्तनम), permanent **Surat 1613** (सूरत), **Madras/Fort St George 1640**, Bombay leased **1668** (Portuguese dowry to Charles II, **1662**), **Calcutta** via **Job Charnock** at **Sutanuti**. **Levant (लेवेंट) Company (1592)** got a land-route charter before the sea EIC (**1600**, under **Akbar** (अकबर)).
+9. **Colbert** founded the French company (**1664**) under **Louis XIV**; earliest French factory **Surat 1668** (**François Caron**); HQ **Pondicherry (1674)**; Bengal factory **Chandernagore** (चंद्रनगर). **Dupleix** (डुप्ले) first used European troops in Indian succession (उत्तराधिकार क्रम) quarrels.
+10. **First Carnatic (कर्नाटक) War (1746–48)**: immediate spark = English capture of French ships (नावाध्यक्ष) (**Captain Bernett**); French won **St. Thome** (सेंट थॉम) on the Adyar vs Anwaruddin’s force; **Aix-la-Chapelle (1748)** (एक्स-ला-शापेल) returned **Madras**. **Second Carnatic** opens with **Ambur (1749)**; **Wandiwash (वांडिवाश) (1760)** = British (**Eyre Coote**) defeat French (**Count de Lally**); **Paris 1763** ends the Third.
+11. Danish facts are **Tranquebar (1620)** and **Serampore** (श्रीरामपुर) in Bengal; Denmark sold its Indian settlements in **1845**.
+12. Traveller chronology: **Ralph Fitch (फिच) 1585 → Hawkins 1608 (हॉकिन्स) → Nicholas Downton 1614 → Roe 1615**.
+13. **Bernier** (बर्नियर) was a **French** traveller at Aurangzeb (औरंगजेब)'s court, not an English EIC envoy.
+14. **Saadat Khan (सादात खान) Burhan-ul-Mulk** founded the **Awadh** (अवध) Nawabi in **1722**; he is not Bengal's Murshid (पीर) Quli (मुर्शिद क़ुली) Khan (मुर्शिद कुली खान).
+15. **Shuja-ud-Daula** (शुजाउद्दौला) stood with Abdali (अब्दाली) at **Panipat (पानीपत) III (1761)**; after Buxar (बक्सर) came the **Treaty of Allahabad (इलाहाबाद की संधि) (1765)**.
+16. **Asaf-ud-Daula** (आसफउद्दौला) made **Lucknow** (लखनऊ) the capital and built the **Bara Imambara**.
+17. The British annexed **Awadh in 1856**; **Wajid Ali Shah** (वाजिद अली शाह) was the last Nawab.
+18. Later chronology bridge: **Awadh annexation 1856 → Indigo (नील) Revolt 1859 → Second Afghan War 1878 → Ilbert Bill 1883 (इल्बर्ट)**.
+19. An early European **factory** was a trading post with godowns and guards, not yet a full colony (उपनिवेश); trade (पण्याध्यक्ष) needed Mughal **farmans**.
+20. Under **Dupleix**, the French took **Madras in 1746** during the First Carnatic War before Aix-la-Chapelle restored it.
+21. Do not confuse **Aix-la-Chapelle 1748** with the later **Treaty of Paris 1763** ending the Seven Years' War.
+22. **Ralph Fitch** saw **Agra** (आगरा) and **Banaras** in Akbar's time, before any lasting EIC factory.
+23. **Begum Hazrat Mahal** (बेगम हज़रत महल) led Lucknow resistance after 1856 annexation fed the **1857** rising.
+24. **Safdar Jung** also served as Mughal **Wazir** (वज़ीर); **Serampore** is Danish, not French.
+25. Cause–course–result for Portuguese arrival: they sought a sea spice route, Gama reached Calicut, and Albuquerque's Goa made them a coastal maritime power.
+26. Cause–course–result for Awadh's end: Nawabi autonomy from 1722 weakened after Buxar, Dalhousie (डलहौज़ी) annexed the state in 1856, and Lucknow became a major **1857** centre.
+27. After **Aurangzeb (1707)**, **Bahadur Shah I (बहादुर शाह I) (Muazzam / Shah Alam)** ruled **1707–1712**; Khafi Khan called him **Shahe Bekhabar**.
+28. **Jahandar Shah** rose with **Zulfiqar Khan** (ज़ुल्फ़िक़ार) and was defeated and killed by nephew **Farrukh Siyar** (फ़र्रुख़) in **1713**.
+29. **Farrukh Siyar’s 1717 farman (फ़रमान)** gave the English **duty-free trade in Bengal** for an annual lump sum of about **Rs 3,000**.
+30. **Sayyid (सैयद) brothers** (सैय्यद) (**Abdullah** and **Hussain Ali**) were the later-Mughal **king-makers** (**1713–1720**).
+31. **Muhammad Shah Rangeela (रंगीला) (1719–1748)** was the last emperor to sit on the **Peacock Throne**; **Nadir Shah** (नादिर शाह) defeated him at **Karnal (1739)** and took the throne and **Kohinoor**.
+32. **Chin Qilich Khan (Nizam-ul-Mulk (निजाम-उल-मुल्क) Asaf Jah)** founded independent **Hyderabad** after defeating **Mubariz Khan** at **Shakar Kheda (खेड़ा) (1724)**.
+33. **Sawai Jai Singh II** built **Jantar Mantar** observatories at **Delhi, Jaipur, Ujjain (उज्जैन), Mathura (मथुरा), and Varanasi (वाराणसी)** (not Allahabad) and prepared **Zij Muhammad Shahi**.
+34. Last Mughal **Bahadur Shah Zafar** (बहादुर शाह ज़फ़र) (son of **Akbar II**) was an emperor without an empire; teachers include **Zauq** and **Ghalib**; spiritual guide **Hasan Askari**.
+35. Arrival order of European traders: **Portuguese → Dutch → English → Danes → French**. Portuguese were **first to arrive (1498)** and **last to leave (1961)**.
+36. First Portuguese fort in India: **Cochin 1503** (Albuquerque, before he was Viceroy (वायसराय)). First Portuguese factory: **Calicut 1500**. **Nuno da Cunha** shifted HQ **Cochin → Goa**.
+37. Portuguese used **Hooghly** as a Bay of Bengal piracy base; **Shah Jahan** crushed them there in **1632**. Dutch Bengal hub **Chinsurah** had **Fort Gustavus (गुस्तावस) (1653)**; Dutch took Kochi and built **Fort Williams (1663)**.
+38. **Thomas Best** broke Portuguese naval monopoly at **Swally** near Surat. **Sir John Child** was expelled by **Aurangzeb** (औरंगजेब) after attacking Mughal ports (**1688**).
+39. First modern **Municipal Corporation** in India: **Madras, 1688**. Europeans prized **Bihar** for high-grade **opium** and **saltpetre**.
+40. **Bahadur Shah I's Accession (Battle of Jajau 1707):** Prince Muazzam defeated his brother Prince Azam Shah at the **Battle of Jajau** (near Samugarh/Agra) in June 1707, ascending the throne at age 63 as **Bahadur Shah I**; pursued a conciliatory policy toward Rajputs, Marathas (released Shahu), and Sikhs.
+41. **Jahandar Shah and the Izara System:** First puppet emperor in Mughal history; dominated by prime minister Zulfiqar Khan; institutionalized **Izara (revenue farming)**, auctioning the right to collect land revenue to the highest bidder, ruining the peasantry and bankrupting the imperial exchequer.
+42. **Sayyid Brothers (King Makers):** **Abdullah Khan** (Wazir / *Qutb-ul-Mulk*) and **Husain Ali Khan** (Mir Bakhshi / *Amir-ul-Umara*), Barha Sayyids of Muzaffarnagar (UP), enthroned and deposed four successive emperors: Farrukhsiyar, Rafi-ud-Darajat, Rafi-ud-Daula, and Muhammad Shah.
+43. **Farrukhsiyar's Golden Farman (1717 CE):** Issued to the British East India Company delegation led by **John Surman** (cured of illness by surgeon William Hamilton), granting duty-free trade in Bengal, Bihar, and Orissa for a nominal annual payment of ₹3,000, termed by historian Orme the ***'Magna Carta of the Company's Trade'***.
+44. **Nadir Shah's Invasion & Battle of Karnal (24 February 1739):** Nadir Shah routed the disorganized imperial army of Muhammad Shah in barely three hours; treacherously invited by Saadat Khan Burhan-ul-Mulk of Awadh; plundered Delhi for 57 days, massacring 30,000 citizens and seizing the **Peacock Throne (Takht-i-Taus)** and **Koh-i-Noor diamond**.
+45. **Foundation of Independent Hyderabad (1724 CE):** Disgusted by court debauchery, Wazir **Nizam-ul-Mulk (Chin Qilich Khan)** marched south, slew imperial viceroy Mubariz Khan at the **Battle of Shakar Kheda (October 1724)**, and established the sovereign Asaf Jahi dynasty.
+46. **Murshid Quli Khan's Reforms in Bengal:** Elevated to hereditary Nawab-Nazim of Bengal in 1717; transferred capital from Dacca to **Murshidabad**; introduced the ***Mal-zamini*** system of rigorous revenue collection; maintained absolute peace and regularly remitted imperial tribute to Delhi.
+47. **Alivardi Khan's European Doctrine:** Usurped Bengal in 1740; astutely compared European merchants to **bees**: *'If left in peace, they produce sweet honey, but if provoked, they sting you to death'*; strictly prevented British and French traders from fortifying their factories at Calcutta and Chandernagore.
+48. **Saadat Khan Burhan-ul-Mulk (Founder of Awadh):** Appointed Subahdar of Awadh in **1722 CE**; suppressed recalcitrant local zamindars; established capital at **Faizabad**; committed suicide by poison during Nadir Shah's occupation of Delhi when unable to produce the promised ₹2 crore ransom.
+49. **Nawab Asaf-ud-Daulah's Lucknow Architecture:** Shifted the capital of Awadh from Faizabad to **Lucknow in 1775 CE**; constructed the world-renowned **Bara Imambara (1784 CE)** as a massive famine-relief project without a single wooden or iron beam, along with the monumental **Rumi Darwaza** styled on Constantinople's Sublime Porte.
+50. **Annexation of Awadh (February 1856):** Lord Dalhousie annexed the Kingdom of Awadh on the pretext of chronic 'misgovernance' (*Ku-prashasan*), utilizing a biassed inquiry report by British Resident **Major-General James Outram**; deposed the cultural monarch **Nawab Wajid Ali Shah** (*Akhtarpiya*) and exiled him to Metiabruz (Kolkata), directly provoking the outbreak of the **1857 Uprising**.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+[1707 CE] Death of Aurangzeb; Battle of Jajau; Bahadur Shah I (*Shahe Bekhabar*) ascends
+   │
+[1712–1713 CE] Jahandar Shah (*Lumpat Sadak*); introduces Izara (revenue farming)
+   │
+[1713–1719 CE] Farrukhsiyar (*Ghrinit Kayar*); Golden Farman to British EIC (1717); Banda Bahadur martyred (1716)
+   │               └── Dominated by Sayyid Brothers (King Makers)
+   │
+[1719–1748 CE] Muhammad Shah 'Rangeela': Breakup of Empire into Regional Autonomous States
+   │       ├── [1717/1727] Bengal: Murshid Quli Khan
+   │       ├── [1722] Awadh: Saadat Khan Burhan-ul-Mulk (Faizabad)
+   │       ├── [1724] Hyderabad: Nizam-ul-Mulk (Battle of Shakar Kheda)
+   │       └── [1739] Nadir Shah of Persia sacks Delhi (Battle of Karnal; loots Peacock Throne)
+   │
+[1757 CE] Battle of Plassey: Robert Clive defeats Siraj-ud-Daulah; British control Bengal
+   │
+[1759–1806 CE] Shah Alam II: 3rd Panipat (1761) ⚔️ Battle of Buxar (1764) ⚔️ Treaty of Allahabad (1765)
+   │               └── Diwani of Bengal granted to EIC; becomes British pensioner (1803)
+   │
+[1806–1837 CE] Akbar II: Confers title 'Raja' on Ram Mohan Roy; pensioner of the British
+   │
+[1837–1857 CE] Bahadur Shah II 'Zafar': Symbolic leader of 1857 Revolt; exiled to Rangoon (1858)
+```
+
+### Dynastic Succession of Later Mughals (1707–1857 CE)
+
+| Monarch | Regnal Years | Imperial Sobriquet / Nickname | Pivotal Landmark / Event |
+|---|---|---|---|
+| **Bahadur Shah I** (Muazzam) | 1707–1712 CE | ***Shahe Bekhabar*** (Khafi Khan) | Battle of Jajau; released Shahu; conciliatory policy |
+| **Jahandar Shah** | 1712–1713 CE | ***Lumpat Sadak*** (Foolish Debauchee) | Dominated by Zulfiqar Khan; introduced Izara system |
+| **Farrukhsiyar** | 1713–1719 CE | ***Ghrinit Kayar*** (Despicable Coward) | King Makers (Sayyids); Golden Farman (1717); executed Banda Bahadur |
+| **Rafi-ud-Darajat** | 1719 CE (98 days) | — | Shortest reigning Mughal emperor; died of consumption |
+| **Rafi-ud-Daula** (Shah Jahan II)| 1719 CE (105 days)| — | Puppet of Sayyid brothers; died of dysentery |
+| **Muhammad Shah 'Rangeela'** | 1719–1748 CE | ***Rangeela*** (Pleasure-Seeker) | Liquidated Sayyid brothers; Khayal zenith; Nadir Shah sack (1739) |
+| **Ahmad Shah** | 1748–1754 CE | — | First invasions of Ahmad Shah Abdali; dominated by Udham Bai |
+| **Alamgir II** | 1754–1759 CE | Aziz-ud-Din | Reign witnessed **Battle of Plassey (1757)**; murdered by Wazir Imad |
+| **Shah Alam II** (Ali Gauhar) | 1759–1806 CE | — | **Battle of Buxar (1764)**; **Treaty of Allahabad (1765)**; first EIC pensioner |
+| **Akbar II** | 1806–1837 CE | — | Granted royal title **"Raja"** to Ram Mohan Roy (1830) |
+| **Bahadur Shah II 'Zafar'** | 1837–1857 CE | *Zafar* (Pen-name) | Leader of **1857 Revolt**; tried and exiled to Rangoon; died 1862 |
+
+## 📊 Quick Reference Grid
+
+### 1. The Autonomous Regional Successor States of the 18th Century
+
+| Autonomous State | Year Founded | Founder / Sovereign | Historical Capital | Decisive Historic Landmark |
+|---|---|---|---|---|
+| **Awadh (Oudh)** | **1722 CE** | **Saadat Khan Burhan-ul-Mulk** | **Faizabad** → **Lucknow (1775)** | Treaty of Allahabad (1765); Bara Imambara (1784); Annexed **Feb 1856** (Outram Report) |
+| **Bengal** | **1717 CE** | **Murshid Quli Khan** | **Murshidabad** (from Dacca) | *Mal-zamini* revenue; Battle of Plassey (1757) & Buxar (1764); Dual Govt (1765–72) |
+| **Hyderabad** | **1724 CE** | **Nizam-ul-Mulk (Chin Qilich Khan)** | **Hyderabad** | Battle of Shakar Kheda (1724); First state to accept Subsidiary Alliance (1798) |
+| **Carnatic (Arcot)** | c. 1720 CE | **Saadatullah Khan** | **Arcot** | Disputed succession led directly to Anglo-French Carnatic Wars |
+| **Mysore** | 1761 CE | **Haidar Ali** & **Tipu Sultan** | **Srirangapatna** | Four Anglo-Mysore Wars; French alliance; rocket artillery; Treaty of Srirangapatna (1792) |
+| **Rohilkhand** | c. 1721 CE | **Ali Muhammad Khan / Hafiz Rahmat Khan**| **Aonla / Bareilly (UP)** | Defeated in First Rohilla War (1774) by Shuja-ud-Daulah and British (Warren Hastings) |
+
+### 2. Chronology of Nawabs of Awadh (UP Special Core Match List)
+
+| Order | Nawab / Ruler | Reigning Span | Capital | Defining Historical Landmark |
+|---|---|---|---|---|
+| **1.** | **Saadat Khan Burhan-ul-Mulk** | 1722–1739 CE | **Faizabad** | Founder; established autonomous dynasty; committed suicide during Nadir Shah's raid |
+| **2.** | **Safdarjung** (Abul Mansur Khan) | 1739–1754 CE | Faizabad / Delhi | Appointed imperial Wazir (**Nawab-Wazir**); built Safdarjung Tomb in Delhi |
+| **3.** | **Shuja-ud-Daulah** | 1754–1775 CE | Faizabad | Fought at Panipat III (1761) & Buxar (1764); signed **Treaty of Allahabad (1765)** with Clive |
+| **4.** | **Asaf-ud-Daulah** | 1775–1797 CE | **Lucknow** (shifted 1775) | Built **Bara Imambara (1784)**, Rumi Darwaza, Bibiapur Kothi; famine relief works |
+| **5.** | **Wazir Ali Khan** | 1797–1798 CE (4 mos) | Lucknow | Deposed by British; led the **Massacre of Benares (1799)** against George Cherry |
+| **6.** | **Saadat Ali Khan II** | 1798–1814 CE | Lucknow | Signed **Subsidiary Alliance (1801)** ceding half of Awadh territory (Rohilkhand, Gorakhpur) |
+| **7.** | **Ghazi-ud-din Haidar** | 1814–1827 CE | Lucknow | Took royal title **'King of Oudh' (Badshah)** in 1819 with Lord Hastings' encouragement |
+| **8.** | **Nasir-ud-din Haidar** | 1827–1837 CE | Lucknow | Established astronomical observatory at Lucknow; built Tarawali Kothi |
+| **9.** | **Muhammad Ali Shah** | 1837–1842 CE | Lucknow | Constructed **Chhota Imambara (Husainabad Imambara)** and unfinished Satkhanda |
+| **10.** | **Amjad Ali Shah** | 1842–1847 CE | Lucknow | Built Hazratganj market and Iron Bridge (*Loha Pul*) over Gomti |
+| **11.** | **Wajid Ali Shah** | 1847–1856 CE | Lucknow | Last Nawab; poet (*Akhtarpiya*), patron of Kathak & Thumri; annexed **Feb 1856** |
+
+### 3. Decisive 18th-Century Battles Shaping Modern India
+
+| Battle | Date / Year | Opposing Forces | Victorious Power | Revolutionary Geopolitical Impact |
+|---|---|---|---|---|
+| **Battle of Karnal** | **24 Feb 1739** | Nadir Shah (Persia) vs Muhammad Shah | **Nadir Shah won** | Humiliated Mughals; looted Peacock Throne and Koh-i-Noor; exposed imperial decay |
+| **Battle of Plassey** | **23 June 1757** | Robert Clive (EIC) vs **Siraj-ud-Daulah** (Bengal) | **British EIC won** | Treachery of Mir Jafar; British established sovereign political mastership over Bengal |
+| **Third Battle of Panipat**| **14 Jan 1761** | **Ahmad Shah Abdali** vs Marathas (Sadashivrao Bhau)| **Ahmad Shah Abdali won**| Decimated Maratha leadership; prevented pan-Indian Maratha empire; aided British rise |
+| **Battle of Buxar** | **22 Oct 1764** | **Hector Munro (EIC)** vs Triple Alliance (Mir Qasim + Shuja-ud-Daulah + Shah Alam II) | **British EIC won** | Truly decisive military battle; established British supremacy over North India |
+| **Battle of Shakar Kheda** | **11 Oct 1724** | **Nizam-ul-Mulk** vs Mubariz Khan (Mughal governor)| **Nizam-ul-Mulk won** | Decisive victory founding the independent Asaf Jahi State of Hyderabad |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Difference | Hindi |
+|---|---|------------|-------|
 | Blue Water | Cartaze | Almeida’s ocean monopoly line vs Portuguese sea-pass fee | ब्लू वॉटर / कार्टाज़ |
 | Almeida | Albuquerque | First Viceroy / Blue Water vs real founder / Goa 1510 | अल्मेदा / अल्बुकर्क |
 | Levant | EIC 1600 | 1592 land-route charter vs sea company under Akbar | लेवेंट / ईआईसी |
@@ -81,10 +184,30 @@ hide:
 | 1608 | 1611 | Hawkins arrives **1608** vs trap year **1611** | 1608 / 1611 |
 | Awadh 1722 | annex 1856 | Nawabi start vs Dalhousie end | 1722 / 1856 |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **Later Mughal Nicknames Formula (High-Yield UPPCS Match):**
+   - **Bahadur Shah I** = ***Shahe Bekhabar*** (The Heedless King — Khafi Khan)
+   - **Jahandar Shah** = ***Lumpat Sadak*** (The Senseless Fool)
+   - **Farrukhsiyar** = ***Ghrinit Kayar*** (The Despicable Coward)
+   - **Muhammad Shah** = ***Rangeela*** (The Pleasure-Loving)
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+2. **The King Makers (Sayyid Brothers):**
+   - **Abdullah Khan:** The **Wazir** (Administration & Finance).
+   - **Husain Ali Khan:** The **Mir Bakhshi** (Military & Army).
+   - *Barha Sayyids of Muzaffarnagar (Doab, UP).*
+
+3. **Awadh Nawabs Capital Shift Hook:**
+   - First 3 Nawabs ruled from **Faizabad** (Saadat Khan, Safdarjung, Shuja-ud-Daulah).
+   - **Asaf-ud-Daulah** shifted the capital to **Lucknow in 1775 CE** and built the **Bara Imambara in 1784 CE**.
+
+4. **1764 Buxar Triple Alliance:**
+   - **M**ir Qasim (Deposed Nawab of Bengal)
+   - **S**huja-ud-Daulah (Nawab of Awadh)
+   - **S**hah Alam II (Fugitive Mughal Emperor)
+   - Defeated by Major **Hector Munro** at Buxar.
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

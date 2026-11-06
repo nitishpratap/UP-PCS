@@ -7,69 +7,20 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🔬 Science & Technology &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chemistry Topic 4 — Acids, Bases, Salts and Carbohydrates</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
 
-## 🎯 Consolidated Must-Score Facts
+## 📰 Current Affairs & High-Yield Updates
 
-1. **Arrhenius Theory**: An **acid** is a chemical substance that dissociates in aqueous solution to yield hydrogen ions ($H^+$ or hydronium ions $H_3O^+$); a **base** dissociates to yield hydroxide ions ($OH^-$).
-2. **Brønsted-Lowry Theory**: An **acid is a proton ($H^+$) donor**, and a **base is a proton ($H^+$) acceptor**. Every acid has a corresponding conjugate base, and every base has a conjugate acid.
-3. **Lewis Theory**: An **acid is an electron-pair acceptor** (electrophile, e.g., $BF_3, AlCl_3, H^+$); a **base is an electron-pair donor** (nucleophile, e.g., $NH_3, H_2O, OH^-$).
-4. **Acidic solutions** possess $[H^+] > 10^{-7}\text{ M}$, corresponding to **$\text{pH} < 7$**. The lower the pH value, the stronger the acidity.
-5. **Basic (alkaline) solutions** possess $[H^+] < 10^{-7}\text{ M}$ and $[OH^-] > 10^{-7}\text{ M}$, corresponding to **$\text{pH} > 7$**. The higher the pH value, the stronger the alkalinity.
-6. **Temperature Effect on pH**: Because auto-ionization of water ($H_2O \rightleftharpoons H^+ + OH^-$) is endothermic, increasing temperature shifts equilibrium to the right, increasing $K_w$. Consequently, at $50^\circ\text{C}$ the pH of pure neutral water drops to $\approx 6.63$, but the water **remains completely neutral** because $[H^+]$ remains exactly equal to $[OH^-]$.
-7. **Human Blood pH**: Strictly maintained within the narrow, slightly alkaline window of **$7.35\text{ to }7.45$** (mean $\approx 7.40$). A blood pH drop below $7.0$ (acidosis) or rise above $7.8$ (alkalosis) is fatal.
-8. **Human Gastric Juice** contains hydrochloric acid ($HCl$, $\sim 0.5\%$), with a highly acidic pH of **$1.0\text{ to }1.5$**, which activates the protein-digesting enzyme pepsinogen into pepsin and sterilizes ingested pathogens.
-9. **Acid Rain** is defined as precipitation with a **$\text{pH} < 5.6$**, caused primarily by atmospheric emissions of sulphur dioxide ($SO_2$) and nitrogen oxides ($NO_x$) reacting with rainwater to form sulphuric acid ($H_2SO_4$) and nitric acid ($HNO_3$).
-10. **Natural Organic Acids & Food Sources**:
-11. **Acetic Acid (Ethanoic Acid, $CH_3COOH$)**: Vinegar ($4–8\%$ aqueous solution).
-12. **Formic Acid (Methanoic Acid, $HCOOH$)**: Stings of red ants, bees, wasps, and stinging nettle plant hairs.
-13. **Citric Acid ($C_6H_8O_7$)**: Citrus fruits (lemons, oranges, limes, sweet limes).
-14. **Tartaric Acid ($C_4H_6O_6$)**: Tamarind (imli), unripe grapes, cream of tartar; essential component of baking powder.
-15. **Lactic Acid ($CH_3CH(OH)COOH$)**: Sour milk, curd (dahi), yogurt; muscle accumulation during anaerobic respiration causes muscular fatigue and cramps.
-16. **Oxalic Acid ($H_2C_2O_4$)**: Tomatoes, spinach, sorrel; used industrially to remove stubborn rust/ink stains from textiles.
-17. **Malic Acid ($C_4H_6O_5$)**: Apples (especially green/unripe apples), cherries.
-18. **Ascorbic Acid (Vitamin C, $C_6H_8O_6$)**: Amla (Indian gooseberry), citrus fruits, guava.
-19. **Tannic Acid**: Tea leaves (causes astringent taste).
-20. **Butyric Acid**: Rancid, oxidized butter.
-21. **Carbonic Acid ($H_2CO_3$)**: Carbonated soft drinks, club soda.
-22. **Kidney Stones (Renal Calculi)**: Approximately $80\%$ of all human kidney stones consist of insoluble crystals of **Calcium Oxalate ($CaC_2O_4$)**, formed when high concentrations of dietary oxalic acid bind with urinary calcium.
-23. **Acid-Base Indicators**:
-24. **Litmus**: Natural purple dye extracted from **Lichens** (Roccella tinctoria). Turns **Red in acidic solutions** and **Blue in basic/alkaline solutions**.
-25. **Phenolphthalein**: Synthetic organic indicator. Remains **Colorless in acidic and neutral solutions**, but turns **Intense Magenta/Pink in basic solutions** (pH transition interval $8.2–10.0$).
-26. **Methyl Orange**: Synthetic azo indicator. Turns **Red/Pink in acidic solutions** (pH $< 3.1$) and **Yellow in basic/neutral solutions** (pH $> 4.4$).
-27. **Turmeric (Haldi)**: Natural yellow indicator. Remains yellow in acids/neutrals, but turns **Reddish-Brown in alkaline solutions** (explaining why yellow curry stains turn deep red when scrubbed with alkaline laundry soap).
-28. **Red Cabbage Extract**: Natural anthocyanin indicator. Turns red/pink in acids, purple at neutral pH, and green-to-yellow in strong bases.
-29. **Olfactory Indicators** are substances whose characteristic odor changes depending on whether they are in an acidic or basic medium. Examples: **Vanilla extract, Onion juice, and Clove oil** completely lose their smell in alkaline solutions ($NaOH$), but retain their scent in acids.
-30. **Neutralization Reaction**: The exothermic chemical reaction between an acid and a base to produce a salt and water:
-31. **Salt Hydrolysis and Solution pH**:
-32. **Baking Soda**: Chemically **Sodium Hydrogen Carbonate / Sodium Bicarbonate ($NaHCO_3$)**:
-33. **Baking Powder**: A dry commercial blend of **Baking Soda ($NaHCO_3$)** and a mild edible solid acid like **Tartaric Acid** or cream of tartar (potassium bitartrate).
-34. **Washing Soda**: Chemically **Sodium Carbonate Decahydrate ($Na_2CO_3 \cdot 10H_2O$)**:
-35. **Bleaching Powder**: Chemically **Calcium Oxychloride / Calcium Hypochlorite ($CaOCl_2$)**:
-
-
----
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| Year/Ref | Key Fact & Significance | Exam Relevance |
+|---|---|---|
 | **2025–2026** | **Global Ocean Acidification Monitoring** | Ocean absorption of anthropogenic $CO_2$ produces carbonic acid ($CO_2 + H_2O \rightleftharpoons H_2CO_3 \rightleftharpoons H^+ + HCO_3^-$), dropping surface ocean pH from pre-industrial $8.25$ to $\approx 8.14$. Even this $0.1$ unit drop represents a $\approx 30\%$ increase in $[H^+]$ activity, severely impairing calcium carbonate ($CaCO_3$) calcification by coral reefs and molluscs. |
 | **2025** | **UPPCS Prelims 2025** | Direct question on **pH Scale Inversion & Acid-Base Identification**: Keyed that statements claiming "Acids have pH > 7" or "Bases have pH < 7" are unequivocally false. Re-tested baking soda ($NaHCO_3$) decomposition in soda-acid fire extinguishers ($2NaHCO_3 + H_2SO_4 \to Na_2SO_4 + 2H_2O + 2CO_2 \uparrow$). |
 | **2024** | **UPPCS Prelims 2024** | Question on **Litmus Paper Response**: Acid turns blue litmus paper red; base turns red litmus blue. Litmus is derived naturally from **Lichens** (symbiotic association of fungus and alga). |
 | **2024** | **UPPCS / UKPCS Trends** | Formula: **Baking Soda is $NaHCO_3$** (Sodium hydrogen carbonate); **Washing Soda is $Na_2CO_3 \cdot 10H_2O$** (Sodium carbonate decahydrate); **Plaster of Paris is $CaSO_4 \cdot \frac{1}{2}H_2O$**; **Gypsum is $CaSO_4 \cdot 2H_2O$**. |
 | **2023** | **Biomolecules & Sweeteners** | Testing of **Relative Sweetness Index**: **Fructose** is the sweetest naturally occurring sugar ($1.7\times$ sweeter than sucrose). Cane sugar (**Sucrose**) is a non-reducing disaccharide composed of $\alpha\text{-D-glucose} + \beta\text{-D-fructose}$, hydrolyzing to yield optically inverted **Invert Sugar**. |
 
+## 🎯 Consolidated Must-Score Facts
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Arrhenius Theory**: An **acid** is a chemical substance that dissociates in aqueous solution to yield hydrogen ions ($H^+$ or hydronium ions $H_3O^+$); a **base** dissociates to yield hydroxide ions ($OH^-$).
+1. **Arrhenius Theory**: An **acid** is a chemical substance that dissociates in aqueous solution to yield hydrogen ions ($H^+$ or hydronium ions $H_3O^+$); a **base** dissociates to yield hydroxide ions ($OH^-$).
 2. **Brønsted-Lowry Theory**: An **acid is a proton ($H^+$) donor**, and a **base is a proton ($H^+$) acceptor**. Every acid has a corresponding conjugate base, and every base has a conjugate acid.
 3. **Lewis Theory**: An **acid is an electron-pair acceptor** (electrophile, e.g., $BF_3, AlCl_3, H^+$); a **base is an electron-pair donor** (nucleophile, e.g., $NH_3, H_2O, OH^-$).
 4. The **pH scale** was devised in 1909 by Danish biochemist **S.P.L. Sørensen** at the Carlsberg Laboratory:
@@ -199,408 +150,271 @@ hide:
 49. **Antacids**: Weakly basic compounds that neutralize excess gastric $HCl$ without irritating the stomach lining. Classic examples: **Milk of Magnesia ($Mg(OH)_2$)**, Aluminium Hydroxide gel ($Al(OH)_3$), and Sodium Bicarbonate ($NaHCO_3$).
 50. **Aqua Regia**: The royal solvent consisting of **$3\text{ parts concentrated } HCl + 1\text{ part concentrated } HNO_3$** by volume ($3:1$ ratio).
 
-</details>
-
-<details class="st-chapter-toggle st-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
-
-| Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
-|---|---|---|---|
-| **Baking Soda vs. Washing Soda** | **Baking Soda**: Sodium Hydrogen Carbonate (**$NaHCO_3$**). Edible, mild base, antacid, leavening agent. | **Washing Soda**: Sodium Carbonate Decahydrate (**$Na_2CO_3 \cdot 10H_2O$**). Caustic, laundry detergent, water softener. | **Chemical Formula & Safety**: Baking Soda contains Hydrogen ($NaHCO_3$) and is safe to consume; Washing Soda has 10 waters of crystallization ($Na_2CO_3 \cdot 10H_2O$) and is toxic to ingest. |
-| **Plaster of Paris vs. Gypsum** | **Plaster of Paris (PoP)**: Calcium sulphate hemihydrate ($CaSO_4 \cdot \frac{1}{2}H_2O$). White powder that sets when mixed with water. | **Gypsum**: Calcium sulphate dihydrate ($CaSO_4 \cdot 2H_2O$). Naturally mined hard crystalline mineral. | **Water of Crystallization**: PoP has **$\frac{1}{2}$ molecule** of $H_2O$ per $CaSO_4$; Gypsum has **$2$ full molecules** of $H_2O$. Heating gypsum to $100^\circ\text{C}$ makes PoP. |
-| **Baking Soda vs. Baking Powder** | **Baking Soda**: Pure $100\%$ sodium bicarbonate ($NaHCO_3$). Leaves bitter tasting $Na_2CO_3$ if used alone. | **Baking Powder**: Dry mixture of **Baking Soda ($NaHCO_3$) + Mild solid edible acid (Tartaric acid)** + starch filler. | **Tartaric Acid Presence**: Baking Powder contains tartaric acid to neutralize the alkaline bitterness of released sodium carbonate. |
-| **Reducing Sugar vs. Non-Reducing Sugar** | **Reducing Sugar**: Reduces Tollens' reagent and Fehling's solution. Has free anomeric $-OH$ group. | **Non-Reducing Sugar**: Cannot reduce Fehling's or Tollens' reagents. Anomeric carbons locked in glycosidic bond. | **Sucrose Exception**: Glucose, Fructose, Maltose, and Lactose are **Reducing**; **Sucrose is Non-Reducing**. |
-| **Glucose vs. Fructose** | **Glucose**: Aldohexose (contains aldehyde $-CHO$ functional group at C-1); "Dextrose". | **Fructose**: Ketohexose (contains ketone $>C=O$ group at C-2); "Levulose". | **Sweetness & Functional Group**: Fructose has a ketone group and is the sweetest natural sugar ($1.7\times$ sucrose); Glucose has an aldehyde group ($0.74\times$ sucrose). |
-| **Quicklime vs. Slaked Lime** | **Quicklime**: Calcium Oxide (**$CaO$**). Dry solid produced by calcining limestone. | **Slaked Lime**: Calcium Hydroxide (**$Ca(OH)_2$**). Produced by adding water to quicklime (slaking). | **Hydration State**: Quicklime is anhydrous ($CaO$); Slaked lime contains hydroxide ($Ca(OH)_2$). |
-| **Efflorescence vs. Deliquescence** | **Efflorescence**: Hydrated crystal loses water of crystallization to dry air (e.g., $Na_2CO_3 \cdot 10H_2O \to Na_2CO_3 \cdot H_2O$). | **Deliquescence**: Substance absorbs atmospheric moisture until it completely dissolves into a liquid solution (e.g., $CaCl_2, NaOH$). | **Water Direction**: Efflorescence gives away water molecules into air; Deliquescence sucks in water from air until liquefied. |
-| **Arrhenius Base vs. Lewis Base** | **Arrhenius Base**: Yields **$OH^-$ ions** when dissolved in aqueous solution. | **Lewis Base**: An **electron-pair donor** ($e^-$ pair donor, e.g., $:NH_3$). | **Scope & Solvent**: Arrhenius is strictly restricted to water solutions yielding $OH^-$; Lewis applies to any solvent or gas phase donating an electron pair. |
-
-</details>
-
-## Master Reference Tables
-
-### Table 1: Master pH Spectrum of Common Substances (UPPCS Hierarchy)
-
-| Substance / Biological Fluid | Exact pH Value / Typical Range | Acidic / Neutral / Basic | Key Point & Physiological Significance |
-|---|---|---|---|
-| **Concentrated Battery Acid ($H_2SO_4$)** | $< 1.0$ ($\sim 0.5$) | Strongly Acidic | Electrolyte in automotive lead-acid storage batteries |
-| **Human Gastric Juice ($HCl$)** | **$1.0–1.5$** | Strongly Acidic | Activates pepsinogen; destroys ingested microorganisms |
-| **Lemon Juice** | **$2.2–2.4$** | Strongly Acidic | Rich in citric acid ($C_6H_8O_7$) |
-| **Vinegar (Sirka)** | **$2.4–3.0$** | Moderately Acidic | $4–8\%$ aqueous solution of acetic acid ($CH_3COOH$) |
-| **Wine / Aerated Soda Drinks** | $3.0–3.8$ | Moderately Acidic | Dissolved carbonic acid ($H_2CO_3$) and organic fruit acids |
-| **Tomato Juice** | **$4.0–4.4$** | Moderately Acidic | Rich in oxalic and citric acids |
-| **Black Coffee** | $4.8–5.2$ | Weakly Acidic | Chlorogenic and quinic acids |
-| **Acid Rain (Threshold)** | **$< 5.6$** | Acidic | Caused by atmospheric $SO_2$ and $NO_x$ dissolving into rain |
-| **Cow's Fresh Milk** | **$6.4–6.6$** | Slightly Acidic | Contains lactic acid precursor lactose and casein micelles |
-| **Human Saliva (Resting)** | **$6.5–7.5$** | Near Neutral | Demineralization of tooth enamel triggers if $\text{pH} < 5.5$ |
-| **Pure Distilled Water ($25^\circ\text{C}$)** | **$7.0$** | **Strictly Neutral** | $[H^+] = [OH^-] = 10^{-7}\text{ M}$ |
-| **Human Tears** | **$7.4$** | Slightly Basic | Contains lysozyme enzyme to lyse bacterial cell walls |
-| **Human Blood** | **$7.35–7.45$** | **Slightly Basic** | Strictly buffered by $H_2CO_3/HCO_3^-$; outside $7.0–7.8$ is fatal |
-| **Sea Water** | **$8.0–8.5$** | Moderately Basic | Buffered by dissolved bicarbonates, borates, and carbonates |
-| **Baking Soda ($NaHCO_3$) Solution** | **$8.3–8.5$** | Basic / Alkaline | Hydrolysis of weak acid anion ($HCO_3^-$) yields mild base |
-| **Washing Soda ($Na_2CO_3$) Solution** | **$10.5–11.0$** | Strongly Basic | High alkalinity saponifies grease in laundry washing |
-| **Milk of Magnesia ($Mg(OH)_2$)** | **$10.5$** | Strongly Basic | Standard household antacid suspension and laxative |
-| **Household Ammonia ($NH_4OH$)** | $11.5$ | Strongly Basic | Glass and window surface cleaner |
-| **Household Bleach ($NaOCl / CaOCl_2$)**| $12.5$ | Strongly Basic | Disinfectant, hypochlorite oxidizing agent |
-| **$1\text{ M } NaOH$ (Caustic Soda)** | **$14.0$** | Extremely Basic | Completely dissociated strong alkali ($[OH^-] = 1.0\text{ M}$) |
-
----
-
-### Table 2: Natural Organic Acids & Their Diagnostic Occurrence
-
-| Organic Acid | Systematic Chemical Formula | Diagnostic Natural / Household Sources | Special Facts & Applications |
-|---|---|---|---|
-| **Acetic Acid** (Ethanoic) | $CH_3COOH$ | **Vinegar** ($4–8\%$ solution) | Food preservative, pickling; $100\%$ anhydrous form is "Glacial Acetic Acid" (freezes at $16.6^\circ\text{C}$). |
-| **Formic Acid** (Methanoic) | $HCOOH$ | **Ant stings**, bee stings, stinging nettle hairs | Simplest carboxylic acid; neutralized on skin by applying mild alkaline baking soda or calamine ($ZnCO_3$). |
-| **Citric Acid** | $C_6H_8O_7$ | **Lemons, oranges, limes**, grapefruits | Tricarboxylic acid; food acidulant, descaling agent, Krebs cycle metabolite. |
-| **Tartaric Acid** | $C_4H_6O_6$ | **Tamarind (imli)**, unripe grapes, cream of tartar | Dicarboxylic dihydroxy acid; essential neutralizer in **baking powder** to prevent alkaline bitterness. |
-| **Lactic Acid** | $CH_3CH(OH)COOH$ | **Sour milk, curd (dahi)**, yogurt | Produced by *Lactobacillus* fermentation; anaerobic muscular buildup causes exercise cramps. |
-| **Oxalic Acid** | $(COOH)_2 \text{ or } H_2C_2O_4$ | **Tomatoes, spinach**, sorrel, rhubarb | Forms insoluble **Calcium Oxalate ($CaC_2O_4$) kidney stones**; removes rust and ink stains from clothing. |
-| **Malic Acid** | $C_4H_6O_5$ | **Apples** (especially green apples), pears | Dicarboxylic acid responsible for sour taste of unripe deciduous pome fruits. |
-| **Ascorbic Acid** | $C_6H_8O_6$ | **Amla**, guava, green peppers, citrus | **Vitamin C**; water-soluble antioxidant; deficiency causes scurvy (bleeding gums). |
-| **Tannic Acid** | Complex polyphenol | **Tea leaves**, oak bark, gallnuts | Astringent taste of over-steeped tea; used in leather tanning and iron-gall ink. |
-| **Butyric Acid** | $C_3H_7COOH$ | **Rancid butter**, aged parmesan cheese | Foul, vomit-like odor generated by triglyceride hydrolysis by lipase enzymes. |
-
----
-
-### Table 3: Master Classification of Industrial & Medicinal Salts
-
-| Commercial Name | Systematic Chemical Name | Exact Chemical Formula | Industrial Preparation Method | Primary Uses & Must-Score |
-|---|---|---|---|---|
-| **Baking Soda** | Sodium Hydrogen Carbonate | **$NaHCO_3$** | Solvay Process ($NaCl + H_2O + NH_3 + CO_2 \to NaHCO_3 + NH_4Cl$) | Antacid, baking powder ingredient, soda-acid fire extinguishers. |
-| **Washing Soda** | Sodium Carbonate Decahydrate | **$Na_2CO_3 \cdot 10H_2O$** | Recrystallization of Solvay soda ash | Laundry detergent, glass/paper mills, removes permanent water hardness. |
-| **Bleaching Powder** | Calcium Oxychloride | **$CaOCl_2$** | Chlorination of dry slaked lime ($Ca(OH)_2 + Cl_2 \xrightarrow{40^\circ\text{C}} CaOCl_2 + H_2O$) | Sterilizing municipal drinking water, textile bleaching, oxidizer. |
-| **Plaster of Paris** | Calcium Sulphate Hemihydrate | **$CaSO_4 \cdot \frac{1}{2}H_2O$** | Heating gypsum to $373\text{ K}$ ($100^\circ\text{C}$) in a rotary kiln | Orthopedic fracture casts, false ceilings, statues; expands $\approx 1\%$ on setting. |
-| **Gypsum** | Calcium Sulphate Dihydrate | **$CaSO_4 \cdot 2H_2O$** | Natural mineral extraction | Added ($2–3\%$) to cement to retard flash setting; alkali soil reclamation. |
-| **Blue Vitriol** | Copper Sulphate Pentahydrate | **$CuSO_4 \cdot 5H_2O$** | Reaction of copper oxide/carbonate with $H_2SO_4$ | Bordeaux mixture agricultural fungicide, electroplating, battery electrolyte. |
-| **Green Vitriol** | Ferrous Sulphate Heptahydrate | **$FeSO_4 \cdot 7H_2O$** | Scrap iron reacting with dilute $H_2SO_4$ | Iron anaemia medicine, black ink manufacture, sewage coagulant. |
-| **White Vitriol** | Zinc Sulphate Heptahydrate | **$ZnSO_4 \cdot 7H_2O$** | Reaction of zinc or $ZnO$ with dilute $H_2SO_4$ | Lithopone pigment, zinc dietary supplements, eye drops. |
-| **Potash Alum** | Potassium Aluminium Sulphate | **$K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$**| Double crystallization of equimolar $K_2SO_4$ and $Al_2(SO_4)_3$ | Water purification coagulant, hemostatic styptic (stops cut bleeding). |
-| **Epsom Salt** | Magnesium Sulphate Heptahydrate | **$MgSO_4 \cdot 7H_2O$** | Mining of kieserite mineral | Saline osmotic purgative laxative, therapeutic mineral bath soak. |
-
----
-
-## Detailed Theory Notes
-
-### 4.1 Acid-Base Theories & Mathematical Dynamics of the pH Scale
-
-#### 1. Theoretical Evolution
-- **Arrhenius Concept (1884)**: Defined acids as substances producing $H^+$ ions in aqueous solution, and bases as producing $OH^-$ ions. Limitation: Restricted strictly to aqueous systems and failed to explain the basicity of ammonia ($NH_3$).
-- **Brønsted-Lowry Concept (1923)**: Acid is a proton ($H^+$) donor; base is a proton ($H^+$) acceptor. Introduces **Conjugate Acid-Base Pairs** differing by exactly one proton ($H^+$):
-  $$\underset{\text{Acid}_1}{HCl} + \underset{\text{Base}_2}{H_2O} \rightleftharpoons \underset{\text{Acid}_2}{H_3O^+} + \underset{\text{Base}_1}{Cl^-}$$
-- **Lewis Concept (1923)**: Broadest electronic definition:
-  - *Lewis Acid*: Chemical species capable of accepting an unshared electron pair (electrophile, e.g., $BF_3, AlCl_3, Fe^{3+}, H^+$).
-  - *Lewis Base*: Chemical species capable of donating an unshared electron pair (nucleophile, e.g., $:NH_3, H_2\ddot{O}:, OH^-, CN^-$).
+## ⏱️ Timeline / Chronology
 
 ```
-Arrhenius:      Acid = H⁺ generator in water     | Base = OH⁻ generator in water
-Brønsted-Lowry: Acid = Proton (H⁺) donor         | Base = Proton (H⁺) acceptor
-Lewis:          Acid = Electron pair acceptor    | Base = Electron pair donor
+~800 CE ── Jabir ibn Hayyan (Geber) discovers Hydrochloric acid, Nitric acid & Aqua Regia
+ │
+1664 ── Robert Boyle identifies that acids turn plant litmus red and alkalis turn it blue
+ │
+1884 ── Svante Arrhenius publishes Ionic Dissociation Theory of Acids (H⁺) and Bases (OH⁻)
+ │
+1909 ── S. P. L. Sørensen introduces the logarithmic pH Scale (pondus hydrogenii)
+ │
+1923 ── Johannes Brønsted & Thomas Lowry define Acids as Proton Donors and Bases as Proton Acceptors
+ │
+1923 ── Gilbert N. Lewis defines Acids as Electron Pair Acceptors and Bases as Electron Pair Donors
 ```
 
-#### 2. Logarithmic pH Scale Dynamics
-- Formulated mathematically by S.P.L. Sørensen (1909):
-  $$\text{pH} = -\log_{10}[H_3O^+]$$
-- Because the scale is base-10 logarithmic, a decrease of 1 unit on the pH scale represents a **$10$-fold increase in hydrogen ion concentration**:
-  $$\frac{[H^+]_{\text{pH } 2}}{[H^+]_{\text{pH } 5}} = \frac{10^{-2}}{10^{-5}} = 10^3 = 1000\times \text{ higher acidity}$$
-- **Neutrality Definition**: Neutrality does NOT universally mean $\text{pH} = 7.0$; neutrality strictly means $[H^+] = [OH^-]$. At $25^\circ\text{C}$, $K_w = 1.0 \times 10^{-14}$, so $\text{pH} = 7.0$. At elevated physiological temperatures ($37^\circ\text{C}$), $K_w \approx 2.4 \times 10^{-14}$, so neutral $\text{pH} \approx 6.8$.
-
----
-
-### 4.2 Chemical Indicators & Titration Physics
-
-#### 1. Action of Acid-Base Indicators
-Indicators are weak organic acids ($HIn$) or weak organic bases whose undissociated molecular form has a visibly distinct color from its ionized conjugate form ($In^-$):
-$$HIn\text{ (Color A)} \rightleftharpoons H^+\text{(aq)} + In^-\text{ (Color B)}$$
-- In an acidic solution (high $[H^+]$), common-ion effect suppresses indicator dissociation, displaying Color A.
-- In an alkaline solution, added $OH^-$ consumes $H^+$, shifting the equilibrium forward to display Color B.
-
-#### 2. Master Indicator Spectrum Table
-
-| Indicator Name | Nature / Source | Acidic Medium Color | Neutral Medium Color | Basic/Alkaline Medium Color | pH Transition Interval |
-|---|---|---|---|---|---|
-| **Litmus** | Natural (Lichen extract) | **Red / Pink** | Purple | **Blue** | $5.0–8.0$ |
-| **Phenolphthalein** | Synthetic (Phthalic anhydride + phenol) | **Colorless** | Colorless | **Magenta / Deep Pink** | $8.2–10.0$ |
-| **Methyl Orange** | Synthetic (Sodium sulfonate azo dye) | **Red / Orange-Red** | Orange | **Yellow** | $3.1–4.4$ |
-| **Methyl Red** | Synthetic azo dye | **Red** | Orange | **Yellow** | $4.4–6.2$ |
-| **Turmeric (Haldi)** | Natural rhizome (*Curcuma longa*) | **Yellow** | Yellow | **Reddish-Brown** | $7.4–9.2$ |
-| **Red Cabbage** | Natural anthocyanin pigment | **Red / Pink** | Purple | **Green to Yellow** | $2.0–12.0$ |
-
----
-
-### 4.3 Household Salts & Industrial Chemistry
-
-#### 1. Baking Soda ($NaHCO_3$) vs. Washing Soda ($Na_2CO_3 \cdot 10H_2O$)
-- **Solvay Industrial Process**:
-  $$NaCl + H_2O + NH_3 + CO_2 \to NaHCO_3\downarrow + NH_4Cl$$
-  Crude sodium hydrogen carbonate precipitates out because of its relatively low solubility in ammonium chloride brine.
-- **Thermal Decomposition into Soda Ash**:
-  $$2NaHCO_3 \xrightarrow{\Delta} Na_2CO_3 + H_2O + CO_2 \uparrow$$
-- **Hydration into Washing Soda**:
-  $$Na_2CO_3 + 10H_2O \to Na_2CO_3 \cdot 10H_2O\text{ (Washing Soda Decahydrate)}$$
-- **Efflorescence Reaction**: In dry atmospheric conditions, washing soda loses 9 molecules of water spontaneously:
-  $$Na_2CO_3 \cdot 10H_2O \xrightarrow{\text{dry air}} Na_2CO_3 \cdot H_2O\text{ (Monohydrate)} + 9H_2O \uparrow$$
-
-#### 2. Plaster of Paris ($CaSO_4 \cdot \frac{1}{2}H_2O$) vs. Gypsum ($CaSO_4 \cdot 2H_2O$)
-- **Thermal Regimes of Gypsum Calcination**:
-  1. *At $100^\circ\text{C}$ ($373\text{ K}$)*:
-     $$CaSO_4 \cdot 2H_2O \xrightarrow{373\text{ K}} CaSO_4 \cdot \frac{1}{2}H_2O\text{ (Plaster of Paris)} + 1\frac{1}{2}H_2O$$
-  2. *Above $200^\circ\text{C}$ ($473\text{ K}$)*:
-     $$CaSO_4 \cdot 2H_2O \xrightarrow{>473\text{ K}} CaSO_4\text{ (Anhydrous "Dead Burnt Plaster")} + 2H_2O$$
-     Dead burnt plaster absorbs water very slowly and has no hydraulic setting strength.
-  3. *At $>1000^\circ\text{C}$*:
-     $$2CaSO_4 \xrightarrow{>1000^\circ\text{C}} 2CaO + 2SO_2 \uparrow + O_2 \uparrow$$
-
----
-
-### 4.4 Carbohydrates, Sugars & Sweetener Dynamics
-
-#### 1. Structural Classification
-- **Monosaccharides**:
-  - *D-Glucose*: Aldohexose; exists predominantly as a 6-membered pyranose ring ($\alpha\text{-D-glucopyranose}$ and $\beta\text{-D-glucopyranose}$).
-  - *D-Fructose*: Ketohexose; exists predominantly as a 5-membered furanose ring ($\alpha\text{-D-fructofuranose}$ and $\beta\text{-D-fructofuranose}$).
-- **Disaccharides**:
-  - *Sucrose*: Composed of $\alpha\text{-D-glucose} + \beta\text{-D-fructose}$ linked by an $\alpha-1,\beta-2$ glycosidic bond.
-  - *Lactose*: Composed of $\beta\text{-D-galactose} + \beta\text{-D-glucose}$ linked by a $\beta-1,4$ glycosidic bond.
-  - *Maltose*: Composed of two $\alpha\text{-D-glucose}$ molecules linked by an $\alpha-1,4$ glycosidic bond.
-
-#### 2. Inversion of Cane Sugar (Invert Sugar)
-Sucrose is naturally dextrorotatory ($[\alpha]_D = +66.5^\circ$). When cleaved by dilute acid or the enzyme invertase:
-$$C_{12}H_{22}O_{11} + H_2O \xrightarrow{\text{invertase}} \underset{\text{Dextrorotatory } (+52.7^\circ)}{\text{D-Glucose}} + \underset{\text{Strongly Levorotatory } (-92.4^\circ)}{\text{D-Fructose}}$$
-Because the levorotation of fructose exceeds the dextrorotation of glucose, the optical rotation of the resulting equimolar mixture is levorotatory (**$-19.8^\circ$**). This inversion of the optical rotation gives **Invert Sugar** its name. Invert sugar is sweeter and more resistant to crystallization than sucrose, making it valued in confectionery and commercial honey.
-
----
-
-## Bilingual Terminology -- Acids, Bases, Salts and Sucrose
-
-| English Term | Hindi Term | Key Anchor |
+| Landmark Year | Scientist / Chemist | Acid-Base Milestone & Concept |
 |---|---|---|
-| **Acid** (अम्ल) | अम्ल | Donates H+ (proton); pH < 7; sour taste; turns blue litmus red |
-| **Base** (क्षार) | क्षार | Accepts H+ (proton); pH > 7; bitter taste, soapy feel; turns red litmus blue |
-| **Alkali** (क्षारक) | क्षारक | Water-soluble base; NaOH, KOH, Ca(OH)2 |
-| **pH** (पीएच) | pH / पीएच | Negative log of H+ concentration; 0-14 scale; 7 = neutral |
-| **Neutralisation** (उदासीनीकरण) | उदासीनीकरण | Acid + Base -> Salt + Water; exothermic |
-| **Salt** (लवण) | लवण | Product of acid-base reaction; e.g., NaCl, CaCO3, CuSO4 |
-| **Indicator** (सूचक) | सूचक | Substance that changes colour with pH; litmus, phenolphthalein, methyl orange |
-| **Buffer** (बफर) | बफर | Resists change in pH; e.g., blood pH 7.4 maintained by H2CO3/HCO3- |
-| **Bleaching Powder** (विरंजक चूर्ण) | विरंजक चूर्ण / ब्लीचिंग पाउडर | Ca(OCl)Cl; used for bleaching, disinfecting water |
-| **Plaster of Paris** (प्लास्टर ऑफ पेरिस) | पेरिस प्लास्टर | CaSO4.1/2H2O; sets hard by absorbing water; used in fractures, moulds |
-| **Washing Soda** (धावन सोडा) | धावन सोडा | Na2CO3.10H2O; removes permanent hardness; used in glass, soap making |
-| **Baking Soda** (बेकिंग सोडा) | मीठा सोडा / खाने का सोडा | NaHCO3; releases CO2 on heating; used in baking, antacids |
-| **Caustic Soda** (दाहक सोडा) | दाहक सोडा / कास्टिक सोडा | NaOH; strong base; soap/paper making; drain cleaner |
-| **Vinegar** (सिरका) | सिरका | Acetic acid solution (4-8% CH3COOH); sour taste |
-| **Hydrochloric Acid** (हाइड्रोक्लोरिक अम्ल) | हाइड्रोक्लोरिक अम्ल | HCl; "muriatic acid"; in gastric juice; strong acid |
-| **Sulphuric Acid** (सल्फ्यूरिक अम्ल) | गंधक का तेजाब | H2SO4; "king of chemicals"; strong acid; highly corrosive |
+| **~800 CE** | Jabir ibn Hayyan | Father of Early Chemistry; synthesized sulfuric acid, nitric acid, and the royal solvent **Aqua Regia**. |
+| **1664** | Robert Boyle | Pioneered the use of natural vegetable extracts (**Litmus from lichens**) as diagnostic acid-base indicators. |
+| **1884** | Svante Arrhenius | Defined **Acids** as substances releasing $H^+$ ions in water, and **Bases** as releasing $OH^-$ ions (Nobel 1903). |
+| **1909** | S. P. L. Sørensen | Defined the **$	ext{pH}$ scale** ($	ext{pH} = -\log_{10}[H^+]$) at the Carlsberg Laboratory in Copenhagen. |
+| **1923** | Brønsted & Lowry | Expanded definitions beyond aqueous systems: Acid is a **proton donor**; Base is a **proton acceptor**. |
+| **1923** | G. N. Lewis | Formulated electronic theory: **Lewis Acid** accepts an electron pair ($AlCl_3, BF_3$); **Lewis Base** donates an electron pair ($NH_3$). |
+
+## 📊 Quick Reference Grid
+
+### 1. Natural Organic Acids in Food & Nature Master Table
+
+| Natural Acid Name | Chemical Formula | Natural Source / Occurrence | Biological & Practical Examination Importance |
+|---|---|---|---|
+| **Citric Acid** | $C_6H_8O_7$ (Tricarboxylic acid)| **Lemon, Orange, Lime, Grapefruit** | Used as food preservative; intermediate in Krebs TCA cycle |
+| **Tartaric Acid** | $C_4H_6O_6$ (Dicarboxylic acid)| **Tamarind (Imli), Grapes, Unripe Mangoes** | Mixed with baking soda ($NaHCO_3$) to make **Baking Powder** |
+| **Acetic Acid** | $CH_3COOH$ (Ethanoic acid) | **Vinegar (Sirka: $5–8\%$ solution in water)**| Seasoning, pickling; pure anhydrous solidifies at $16.6^\circ	ext{C}$ (**Glacial Acetic Acid**) |
+| **Lactic Acid** | $C_3H_6O_3$ | **Sour milk, Curd (Dahi)** | Produced by *Lactobacillus*; builds up in human muscles during vigorous exercise causing **cramps & fatigue** |
+| **Oxalic Acid** | $C_2H_2O_4$ (Ethanedioic acid) | **Tomatoes, Spinach, Rhubarb** | Removes **ink rust stains from clothes**; forms calcium oxalate kidney stones |
+| **Formic Acid (Methanoic acid)**| $HCOOH$ | **Red Ant sting, Honeybee sting, Nettle leaves**| Causes stinging burning sensation; neutralized by rubbing baking soda or calamine |
+| **Malic Acid** | $C_4H_6O_5$ | **Apples, Pears, Cherries** | Imparts characteristic sour taste to green unripe apples |
+| **Butyric Acid** | $C_4H_8O_2$ | **Rancid butter** | Gives foul repulsive odor to spoiled oxidized butter |
+| **Carbonic Acid** | $H_2CO_3$ | **Carbonated soft drinks, Soda water** | Weak dibasic acid formed by dissolving $CO_2$ in water under pressure |
 
 ---
 
-## Complete PYQ Bank — State PCS (65 Questions)
+### 2. Master $	ext{pH}$ Spectrum of Everyday Substances
 
-### UPPCS & UP RO/ARO Prelims/Mains (19 Questions)
+| Substance / Body Fluid | Typical $	ext{pH}$ Value | Acidic / Neutral / Basic Status | High-Yield Prelims Detail |
+|---|---|---|---|
+| **Battery Acid ($H_2SO_4$)**| **$<1.0$ ($pprox 0.5$)** | Extremely strongly acidic | Car battery electrolyte |
+| **Gastric Juice (Stomach)**| **$1.2–2.0$** | Strongly acidic | Secreted by parietal cells ($HCl$); kills bacteria, activates pepsin |
+| **Lemon Juice** | **$2.2–2.4$** | Strongly acidic | High citric acid concentration |
+| **Vinegar (Sirka)** | **$2.8–3.0$** | Acidic | Dilute acetic acid |
+| **Wine / Beer** | **$3.5–4.5$** | Acidic | Alcohol fermentation products |
+| **Acid Rain** | **$<5.6$** | Unhealthily acidic | Formed by $SO_2$ and $NO_x$ dissolving into sulfuric & nitric acid |
+| **Human Urine** | **$4.8–7.5$ (Average $pprox 6.0$)**| Slightly acidic | Varies with diet; high protein diet lowers pH |
+| **Cow Milk** | **$6.5–6.7$** | Slightly acidic | Turns more acidic as lactic acid bacteria multiply |
+| **Pure Distilled Water ($25^\circ	ext{C}$)**| **$7.0$** | **EXACTLY NEUTRAL** | $[H^+] = [OH^-] = 10^{-7}	ext{ M}$; $K_w = 10^{-14}$ |
+| **Human Blood & Tears** | **$7.35–7.45$ (Strictly $pprox 7.4$)| Slightly alkaline | Regulated by $H_2CO_3 / HCO_3^-$ buffer; acidosis if $<7.35$ |
+| **Sea Water** | **$7.8–8.4$ (Average $pprox 8.2$)**| Moderately alkaline | Saline carbonate buffer system |
+| **Baking Soda Solution** | **$8.4–9.0$** | Weakly basic | $NaHCO_3$ basic salt hydrolysis |
+| **Milk of Magnesia** | **$10.5$** | Moderately basic | **Antacid suspension of $Mg(OH)_2$**; neutralizes stomach acidity |
+| **Household Ammonia** | **$11.5$** | Strongly basic | Cleaning detergent solution |
+| **$1	ext{ M } NaOH$ (Caustic Soda)**| **$14.0$** | **Strongest Base** | Completely dissociated hydroxide ions |
 
-**Q-ST2. UPPCS (Mains) 2014**
+---
 
-Goldsmiths uses aqua regia, which is prepared by
+### 3. Important Commercial Salts & Chemical Formulas
 
-mixing –
+| Common Commercial Name | Chemical Name | Chemical Formula | Key Manufacturing / Domestic Application |
+|---|---|---|---|
+| **Baking Soda** | Sodium Hydrogen Carbonate | **$NaHCO_3$** | Baking (releases $CO_2$ making cakes spongy), antacids, fire extinguishers |
+| **Washing Soda** | Sodium Carbonate Decahydrate | **$Na_2CO_3 \cdot 10H_2O$** | Softens permanent hard water, soap manufacture, glass industry |
+| **Baking Powder** | $NaHCO_3$ + Tartaric Acid | $NaHCO_3 + C_4H_6O_6$ | Tartaric acid neutralizes bitter sodium carbonate formed on heating |
+| **Bleaching Powder** | Calcium Hypochlorite / Oxychloride | **$CaOCl_2$** | Disinfectant in municipal drinking water, bleaching cotton and paper |
+| **Plaster of Paris (POP)** | Calcium Sulphate Hemihydrate | **$CaSO_4 \cdot rac{1}{2}H_2O$** | Setting bone fractures, statues, decorative false ceilings; prepared by heating Gypsum at $373	ext{ K}$ |
+| **Gypsum** | Calcium Sulphate Dihydrate | **$CaSO_4 \cdot 2H_2O$** | Added to **Portland Cement to slow down initial setting time**; soil amendment |
+| **Caustic Soda** | Sodium Hydroxide | **$NaOH$** | Soap making, paper pulp, petroleum refining, bauxite leaching |
+| **Slaked Lime** | Calcium Hydroxide | **$Ca(OH)_2$** | Whitewashing walls (reacts with $CO_2$ to form shiny $CaCO_3$ film) |
+| **Quicklime** | Calcium Oxide | **$CaO$** | Highly exothermic reaction with water ("slaking of lime") |
+| **Alum (Phitkari)** | Potassium Aluminium Sulphate | **$K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$**| Water purification via coagulation of mud; antiseptic styptic on shaving cuts |
 
-(a) Nitric acid and Sulfuric acid
+## ⚡ Confused Pairs & Common Examiner Traps
 
-(b) Nitric acid and Hydrochloric acid
+| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
+|---|---|---|---|
+| **Baking Soda** | **Washing Soda** | **Baking Soda is Sodium BICARBONATE ($NaHCO_3$)**. **Washing Soda is Sodium Carbonate Decahydrate ($Na_2CO_3 \cdot 10H_2O$)**. | बेकिंग सोडा = सोडियम बाइकार्बोनेट ($NaHCO_3$); धावन सोडा = सोडियम कार्बोनेट ($Na_2CO_3 \cdot 10H_2O$) |
+| **Plaster of Paris (POP)** | **Gypsum** | **Plaster of Paris has HALF water of crystallization ($CaSO_4 \cdot rac{1}{2}H_2O$)**. **Gypsum has TWO waters ($CaSO_4 \cdot 2H_2O$)**. POP sets into hard gypsum when mixed with water. | प्लास्टर ऑफ पेरिस = $CaSO_4 \cdot rac{1}{2}H_2O$; जिप्सम = $CaSO_4 \cdot 2H_2O$ |
+| **Aqua Regia Composition Ratio**| **Inverted Acid Ratio Trap** | Aqua Regia consists strictly of **$3	ext{ parts Concentrated Hydrochloric Acid (HCl)} : 1	ext{ part Concentrated Nitric Acid (HNO}_3)$**. Examiners repeatedly invert the ratio to $1:3$! | अम्लराज (Aqua Regia) = 3 भाग HCl + 1 भाग $HNO_3$ (3:1 का अनुपात) |
+| **Acid Rain Definition $	ext{pH}$**| **Neutral Water $	ext{pH}$** | Pure unpolluted rain is naturally slightly acidic ($	ext{pH } pprox 5.6$) due to dissolved atmospheric $CO_2$. **Rain is classified as ACID RAIN only when its $	ext{pH}$ FALLS BELOW $5.6$** (due to $H_2SO_4$ and $HNO_3$). | अम्लीय वर्षा का pH मान $5.6$ से कम होता है (सल्फर व नाइट्रोजन के ऑक्साइड्स के कारण) |
+| **Human Blood $	ext{pH}$** | **Acidic Blood Myth** | Normal human blood is **SLIGHTLY ALKALINE with a very narrow stable $	ext{pH}$ range of $7.35–7.45$**. A drop below $7.35$ causes life-threatening clinical acidosis. | मानव रक्त हल्का क्षारीय होता है (pH मान $7.35–7.45$) |
+| **Acid on Litmus Paper** | **Base on Litmus Paper** | **Acids turn BLUE litmus paper RED**. **Bases/Alkalis turn RED litmus paper BLUE**. Neutral salts cause no color change. | अम्ल नीले लिटमस को लाल करता है; क्षार लाल लिटमस को नीला करता है |
+| **Ink Rust Stain Removal** | **Bleaching Powder Confusion**| Ink stains and iron rust spots on cotton clothes are removed using **OXALIC ACID ($C_2H_2O_4$)** (forms soluble complex with iron). Bleaching powder will damage fabrics. | कपड़ों से स्याही व जंग के धब्बे हटाने हेतु ऑक्जेलिक अम्ल प्रयुक्त होता है |
+| **Muscle Fatigue Acid** | **Gout Acid** | **Muscle fatigue and cramps** are caused by accumulation of **LACTIC ACID** during anaerobic respiration. **Gout disease (arthritis)** is caused by deposition of **URIC ACID crystals** in joints. | मांसपेशियों में थकान = लैक्टिक अम्ल; गठिया (Gout) रोग = यूरिक अम्ल के क्रिस्टल |
+| **Baking Soda vs Powder** | **Bitterness Prevention** | Baking soda ($NaHCO_3$) decomposes on heating to release bitter sodium carbonate ($Na_2CO_3$). **Baking powder includes Tartaric Acid** to neutralize the basic carbonate and eliminate bitterness. | बेकिंग पाउडर में टार्टरिक अम्ल बेकिंग सोडा की कड़वाहट को दूर करने हेतु मिलाया जाता है |
+| **Lime Water Turning Milky** | **Excess $CO_2$ Reaction** | Bubbling $CO_2$ through lime water turns it milky due to insoluble **Calcium Carbonate ($CaCO_3$)**. Passing **EXCESS $CO_2$ turns it CLEAR again** because soluble Calcium Bicarbonate ($Ca(HCO_3)_2$) forms. | चूने के पानी में $CO_2$ प्रवाहित करने पर $CaCO_3$ बनने से दूधिया हो जाता है; अधिक $CO_2$ प्रवाहित करने पर पुनः रंगहीन हो जाता है |
 
-(c) Sulfuric acid and Hydrochloric acid
+## 🧠 Memory Anchors & Mnemonics
 
-(d) Citric acid and Benzoic acid
+### 1. Aqua Regia Mixing Ratio: **3 to 1**
+- **3** parts **HCl** (Hydrochloric acid — 3 letters in HCl $	o$ 3 parts!)
+- **1** part **$HNO_3$** (Nitric acid)
 
-<details>
-<summary>Show answer</summary>
+### 2. Acid vs Base Litmus Rule: **A-B-R**
+- **A**cid turns **B**lue to **R**ed.
+- **B**ase turns Red to **B**lue.
 
-**Logic:** Aqua regia (Latin : royal water) is a highly powerful acidic, corrosive and oxidizing mixture of usually three parts concentrated hydrochloric acid (HCl) and one part concentrated nitric acid (HNO3 ).
+### 3. POP vs Gypsum Hydration Hook:
+- **POP** has **$rac{1}{2}$** water ($CaSO_4 \cdot rac{1}{2}H_2O$) $	o$ Needs half water to pop!
+- **Gypsum** has **$2$** full waters ($CaSO_4 \cdot 2H_2O$).
 
-**Ans: B.** Nitric acid and Hydrochloric acid
-</details>
+### 4. Natural Acids in Foods:
+- **A**pple = **M**alic acid
+- **T**omato = **O**xalic acid
+- **V**inegar = **A**cetic acid
+- **T**amarind = **T**artaric acid
+- **A**nt sting = **F**ormic acid
 
-**Q2.** Ans: B.** Concentrated HCI and Concentrated HNO3
-</details>
+## 🎯 High-Yield PYQ Drill
 
-**Q-ST6. UPPCS (Pre) 2025**
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-With reference to 'acid and bases', which of the
+**Q1.**
 
-following statements is/are correct?
-
-1. Acidic solutions have pH more than 7.
-
-2. Basic solutions have pH less than 7.
-
-Select the correct answer from the code given below :
-
-Code :
-
-(a) Only 2 (b) Neither 1 nor 2
-
-(c) Both 1 and 2 (d) Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** On the pH scale (at 25°C), pure water is neutral with pH 7.
-
-**Ans: B.** Neither 1 nor 2
-</details>
-
-**Q3.** Ans: D.** NaHCO3
-</details>
-
-**Q-ST29. UPPCS (Pre) 2025**
-
-With reference to Baking Soda, which of the following
-
-statements is/are correct?
-
-1. It is Sodium hydrogen carbonate.
-
-2. It is used in fire extinguishers.
-
-Select the correct answer from the code given below:
-
-Code :
-
-(a) Only 2 (b) Neither 1 nor 2
-
-(c) Both 1 and 2 (d) Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sodium hydrogen carbonate (sodium bicarbonate – NaHCO3 ) is a white crystalline solid.
-
-**Ans: C.** Both 1 and 2
-</details>
-
-**Q4.** Ans: C.** No H3
-</details>
-
-**Q-ST12. Chhattisgarh P.C.S. (Pre) 2018**
-
-Which of the following may be a possible pH value of
-
-an acidic solution?
-
-(a) 6 (b) 7
-
-(c) 8 (d) 9
+What is the mathematical definition of pH?
+(a) $\text{pH} = \log_{10}[H^+]$  
+(b) $\text{pH} = -\log_{10}[H^+]$  
+(c) $\text{pH} = \ln[H^+]$  
+(d) $\text{pH} = -\log_{e}[OH^-]$  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches 6 (b) 7.
+**Logic:** $\text{pH} = -\log{10}[H^+] = \log{10}\left(\frac{1}{[H^+]}\right)$, measuring hydronium ion concentration on an inverse logarithmic scale.
 
-**Ans: A.** 6 (b) 7
-</details>
-
-**Q5.** Ans: A.** 1.0 (b) 11.0
-</details>
-
-**Q-ST14. 43rd B.P.S.C. (Pre) 1999**
-
-Which acid is considered as a basic chemical in
-
-Industry?
-
-(a) H2
-
-CO3 (b) HNO3
-
-(c) H2
-
-SO4 (d) HCL
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches H2.
-
-**Ans: C.** H2
-</details>
-
-**Q6.** Ans: C.** H2
-</details>
-
-**Q-ST16. 66th B.P.S.C. (Pre) (Re. Exam) 2020**
-
-The component(s) of acid rain is/are :
-
-(a) HNO3 (b) H2
-
-SO4
-
-(c) CO2 (d) Both (a) and (b)
-
-(e) None of the above/More than one of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same teaching key as the linked stem above; answer is Both.
-
-**Ans: D.** Both
-</details>
-
-**Q7.** Ans: B.** CO2
-</details>
-
-**Q-ST24. 66th B.P.S.C. (Pre) 2020**
-
-Limewater is turned milky by:
-
-(a) CO (b) CO2
-
-(c) O2 (d) O3
-
-(e) None of the above / More than one of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Carbon dioxide (CO2 ) reacts with calcium hydroxide to produce a white precipitate of calcium carbonate.
-
-**Ans: B.** CO2
-</details>
-
-**Q8.** Ans: B.** NaHCO3
-</details>
-
-**Q-ST40. Chhattisgarh P.C.S. (Pre) 2018**
-
-Baking soda is –
-
-(a) Na2
-
-CO3 (b) NaHCO3
-
-6H2
-
-O
-
-(c) NaHCO3 (d) NaCO3 10H2
-
-O
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same teaching key as the linked stem above; answer is NaHCO3.
-
-**Ans: C.** NaHCO3 (d) NaCO3 10H2
-</details>
-
-**Q9.** Ans: D.** 10
+**Ans: B.** $\text{pH} = -\log{10}[H^+]$
 </details>
 
 ---
 
-**Q-ST9.**
+**Q2.**
+
+If the pH of an aqueous solution changes from 4 to 2, the concentration of hydrogen ions $[H^+]$:
+(a) Decreases by a factor of 2  
+(b) Increases by a factor of 2  
+(c) Increases by 100 times  
+(d) Decreases by 100 times  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $[H^+] = 10^{-\text{pH}}$.
+
+**Ans: C.** Increases by 100 times
+</details>
+
+---
+
+**Q3.**
+
+What is the color of phenolphthalein in a dilute aqueous solution of sodium hydroxide?
+(a) Colorless  
+(b) Deep pink / magenta  
+(c) Yellow  
+(d) Dark blue  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Phenolphthalein is an acid-base indicator that remains colorless in acidic and neutral solutions (pH $ 10.0$).
+
+**Ans: B.** Deep pink / magenta
+</details>
+
+---
+
+**Q4.**
+
+Why is tartaric acid mixed with sodium hydrogen carbonate to make commercial baking powder?
+(a) To accelerate the release of oxygen gas  
+(b) To neutralize the alkaline sodium carbonate formed on heating, preventing a bitter taste  
+(c) To impart an artificial fruit flavor  
+(d) To act as a preservative against mold  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** When baking soda ($NaHCO3$) is heated, it decomposes into $Na2CO3$, $H2O$, and $CO2$.
+
+**Ans: B.** To neutralize the alkaline sodium carbonate formed on heating, preventing a bitter taste
+</details>
+
+---
+
+**Q5.**
+
+Which of the following substances contains water of crystallization?
+(a) Baking Soda ($NaHCO_3$)  
+(b) Washing Soda ($Na_2CO_3 \cdot 10H_2O$)  
+(c) Common Salt ($NaCl$)  
+(d) Slaked Lime ($Ca(OH)_2$)  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Washing soda contains 10 molecules of water of crystallization ($Na2CO3 \cdot 10H2O$).
+
+**Ans: B.** Washing Soda ($Na2CO3 \cdot 10H2O$)
+</details>
+
+---
+
+**Q6.**
+
+What is formed when gypsum is heated above $200^\circ\text{C}$ ($473\text{ K}$)?
+(a) Plaster of Paris  
+(b) Quicklime  
+(c) Dead burnt plaster (anhydrous $CaSO_4$)  
+(d) Slaked lime  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Heating gypsum above $200^\circ\text{C}$ drives off all water of crystallization, leaving anhydrous calcium sulphate ($CaSO4$), commonly termed "dead burnt plaster", which loses its hydraulic setting properties.
+
+**Ans: C.** Dead burnt plaster (anhydrous $CaSO4$)
+</details>
+
+---
+
+**Q7.**
+
+Which of the following acids is present in stinging nettle leaves and ant bites?
+(a) Methanoic acid (formic acid)  
+(b) Ethanoic acid (acetic acid)  
+(c) Oxalic acid  
+(d) Citric acid  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Stinging hairs of nettles and venom sacs of red ants inject methanoic acid ($HCOOH$), causing local inflammation and a burning sensation.
+
+**Ans: A.** Methanoic acid (formic acid)
+</details>
+
+---
+
+**Q8.**
+
+A solution turns red litmus paper blue. Its pH is most likely:
+(a) 1  
+(b) 4  
+(c) 5  
+(d) 10  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Standard key matches 10.
+
+**Ans: D.** 10
+</details>
+
+---
+
+**Q9.**
 
 Which of the following compounds is a double salt?
 (a) Potassium chloride  
@@ -616,118 +430,112 @@ Which of the following compounds is a double salt?
 **Ans: B.** Potash alum ($K2SO4 \cdot Al2(SO4)3 \cdot 24H2O$)
 </details>
 
-**Q10.** Ans: A.** Enamel dissolving below oral pH 5.5
+---
+
+**Q10.**
+
+The primary acid present in vinegar is:
+(a) Acetic acid ($CH_3COOH$)  
+(b) Formic acid ($HCOOH$)  
+(c) Butyric acid  
+(d) Propionic acid  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Vinegar is an aqueous solution containing $4–8\%$ acetic acid (ethanoic acid).
+
+**Ans: A.** Acetic acid ($CH3COOH$)
 </details>
 
 ---
 
-**Q-ST20.**
+**Q11.**
 
-What type of indicator are onion juice and vanilla essence?
-(a) Synthetic azo indicators  
-(b) Olfactory indicators  
-(c) Universal indicators  
-(d) Fluorescent indicators  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Olfactory indicators change their scent in acidic vs basic conditions.
-
-**Ans: B.** Olfactory indicators
-</details>
-
-**Q11.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Arrhenius Theory: An acid is a chemical substance that dissociates in aqueous solution to yield hydrogen ions ($H^+$ or hydronium ions $H3O^+$); a base dissociates to yield hydroxide ions ($OH^-$).
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
+Which of the following is classified as a non-reducing sugar?
+(a) Maltose  
+(b) Lactose  
+(c) Sucrose  
+(d) Glucose  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** Standard key matches Sucrose.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Arrhenius Theory**: An **acid** is a chemical substance that dissociates in aqueous solution to yield hydrogen ions ($H^+$ or hydronium ions $H_3O^+$); a **base** dissociates to yield hydroxide ions ($OH^-$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: C.** Sucrose
 </details>
 
-**Q12.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q12.**
 
-A. Contrary to standard doctrine, Brønsted-Lowry applies only to union territories and not state jurisdictions.
-B. Brønsted-Lowry Theory: An acid is a proton ($H^+$) donor, and a base is a proton ($H^+$) acceptor. Every acid has a corresponding conjugate base, and every base has a conjugate acid.
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+What is the artificial sweetener that is approximately $550\text{ times}$ sweeter than cane sugar and excreted unchanged in human urine?
+(a) Aspartame  
+(b) Saccharin  
+(c) Sucralose  
+(d) Alitame  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Logic:** Saccharin (o-sulphobenzimide) was the first synthetic artificial sweetener ($\sim 550\times$ sucrose), passes un-metabolized through the renal system, and provides zero calories.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Brønsted-Lowry Theory**: An **acid is a proton ($H^+$) donor**, and a **base is a proton ($H^+$) acceptor**. Every acid has a corresponding conjugate base, and every base has a conjugate acid.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Saccharin
 </details>
 
-**Q13.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q13.**
 
-A. Contrary to standard doctrine, Lewis applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Lewis Theory: An acid is an electron-pair acceptor (electrophile, e.g., $BF3, AlCl3, H^+$); a base is an electron-pair donor (nucleophile, e.g., $NH3, H2O, OH^-$).
-D. Enacted under Article 356 of the Constitution of India
+Which of the following salts produces an alkaline (basic) solution when dissolved in pure water?
+(a) Ammonium chloride ($NH_4Cl$)  
+(b) Sodium acetate ($CH_3COONa$)  
+(c) Sodium chloride ($NaCl$)  
+(d) Copper sulphate ($CuSO_4$)  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** Sodium acetate is the salt of a weak acid ($CH3COOH$) and a strong base ($NaOH$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Lewis Theory**: An **acid is an electron-pair acceptor** (electrophile, e.g., $BF_3, AlCl_3, H^+$); a **base is an electron-pair donor** (nucleophile, e.g., $NH_3, H_2O, OH^-$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Sodium acetate ($CH3COONa$)
 </details>
 
-**Q14.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q14.**
 
-A. Contrary to standard doctrine, Acidic applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Acidic solutions possess $[H^+] > 10^{-7}\text{ M}$, corresponding to $\text{pH} < 7$. The lower the pH value, the stronger the acidity.
+In the human body, the carbonic acid-bicarbonate buffer system operates to maintain the pH of:
+(a) Gastric juice  
+(b) Blood plasma  
+(c) Bile juice  
+(d) Pancreatic juice  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** The $H2CO3 / HCO3^-$ buffer system maintains systemic blood plasma pH within the critical $7.35–7.45$ range.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Acidic solutions** possess $[H^+] > 10^{-7}\text{ M}$, corresponding to **$\text{pH} < 7$**. The lower the pH value, the stronger the acidity.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Blood plasma
 </details>
 
-**Q15.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q15.**
 
-A. Basic (alkaline) solutions possess $[H^+] < 10^{-7}\text{ M}$ and $[OH^-] > 10^{-7}\text{ M}$, corresponding to $\text{pH} > 7$. The higher the pH value, the stronger the alkalinity.
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
+What is the chemical formula of "Green Vitriol"?
+(a) $CuSO_4 \cdot 5H_2O$  
+(b) $FeSO_4 \cdot 7H_2O$  
+(c) $ZnSO_4 \cdot 7H_2O$  
+(d) $MgSO_4 \cdot 7H_2O$  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** Green Vitriol is ferrous sulphate heptahydrate ($FeSO4 \cdot 7H2O$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Basic (alkaline) solutions** possess $[H^+] < 10^{-7}\text{ M}$ and $[OH^-] > 10^{-7}\text{ M}$, corresponding to **$\text{pH} > 7$**. The higher the pH value, the stronger the alkalinity.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** $FeSO4 \cdot 7H2O$
 </details>
+
+---

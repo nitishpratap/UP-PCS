@@ -7,9 +7,16 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 21 — World Minerals & Energy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2025** | **Lithium Triangle (ABC countries)**: Argentina, Bolivia, and Chile hold >50% of the world's identified lithium brine resources in the Salar de Uyuni (Bolivia), Salar de Atacama (Chile), and Salar del Hombre Muerto (Argentina) | High-yield critical mineral geography & electric mobility supply chains |
+| **2023–2025** | **Rare Earth Elements (REE)**: **China** controls ~70% of global REE mine extraction and >90% of complex separation/refining capacity; Bayan Obo in Inner Mongolia is the world's largest REE deposit | Critical mineral geopolitics & supply security |
+| **UKPCS 2025** | **Gold Leading Producer (2023–2024)**: **China** (#1) followed by Australia and Russia; **South Africa's Witwatersrand** historically produced ~40% of all mined gold in human history | Examiner test on current leading producer vs historic reserves |
+| **2024–2026** | **OPEC+ Crude Production Quotas**: OPEC (12 members after Angola's departure in 2024) + 10 non-OPEC allies (led by Russia) regulate ~40% of global crude supply | OPEC headquarters in **Vienna, Austria** (Austria is not an OPEC member) |
+| **2024–2025** | **Cobalt Concentration**: **Democratic Republic of Congo (DRC)** accounts for >70% of global cobalt extraction from the Central African Copperbelt / Katanga plateau | Battery chemistry inputs & single-country dependency risks |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -62,55 +69,145 @@ hide:
 
 
 ---
+47. **Lithium Brines vs Hard Rock**: The **Lithium Triangle (Bolivia, Chile, Argentina)** extracts lithium from salt flat brines (*salares*); **Australia** is the world's leading lithium mine producer extracting from hard-rock spodumene ore (Greenbushes mine, Western Australia).
+48. **Bauxite & Aluminium Belt**: **Guinea** holds the world's largest bauxite reserves (Boké deposits); **Australia** is a leading producer (Weipa, Queensland); **China** is the world's largest producer of refined primary aluminium metal.
+49. **Uranium Distribution**: **Kazakhstan** is the world's largest uranium producer (>40% of global output via in-situ recovery); **Australia** holds the world's largest known recoverable uranium resources (Olympic Dam mine); **Canada** produces high-grade ore from the Athabasca Basin (McArthur River, Cigar Lake).
+50. **Strategic Petroleum Reserves (SPR)**: The **United States** maintains the world's largest government-owned emergency crude supply stored in underground salt caverns along the Gulf Coast (Texas and Louisiana).
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               GLOBAL ENERGY TRANSITIONS & RESOURCE EXPLOITATION ERAS
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1760-1850] ──> FIRST INDUSTRIAL REVOLUTION (The Coal Age):
+  │               Steam engine drives heavy industry; concentration on coalfields (Ruhr, Lancashire, Appalachian).
+  │
+  ▼
+  [1859] ───────> BIRTH OF MODERN PETROLEUM INDUSTRY:
+  │               Edwin Drake strikes oil at Titusville, Pennsylvania (USA).
+  │
+  ▼
+  [1886] ───────> DISCOVERY OF WITWATERSRAND GOLD REEF (South Africa):
+  │               Ignited the Transvaal gold rush; deepest underground mining operations on Earth.
+  │
+  ▼
+  [1938] ───────> DISCOVERY OF OIL AT DAMMAM (Saudi Arabia):
+  │               Unveiled the colossal Arabian hydrocarbon province (Ghawar field discovered 1948).
+  │
+  ▼
+  [1960] ───────> FORMATION OF OPEC (Baghdad Conference):
+  │               Founding members: Iran, Iraq, Kuwait, Saudi Arabia, Venezuela. HQ in Vienna, Austria.
+  │
+  ▼
+  [1973] ───────> FIRST GLOBAL OIL CRISIS (OPEC Oil Embargo):
+  │               Prompted worldwide nuclear power deployment and North Sea oil exploration.
+  │
+  ▼
+  [2008-2015] ──> US SHALE REVOLUTION (Fracking & Horizontal Drilling):
+  │               Bakken, Eagle Ford, and Permian basins catapulted USA to #1 global oil & gas producer.
+  │
+  ▼
+  [2020-2026] ──> CRITICAL MINERALS RACE:
+  │               Strategic scramble for Lithium, Cobalt, Nickel, and Rare Earth Elements (REE) for EV transition.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. World Famous Coalfields & Basins
+
+| Coalfield / Basin | Country | Coal Rank / Character | Key Cities / Features |
+|---|---|---|---|
+| **Ruhr Basin (रूर बेसिन)** | **Germany** | High-grade coking bituminous coal | Industrial heartland of Germany; "Ruhr Valley" synonym for heavy industrial belt |
+| **Kuznetsk Basin (Kuzbass)** | **Russia** (Siberia) | Massive bituminous coal reserves | Major coal basin of Western Siberia; centered around Novokuznetsk |
+| **Donets Basin (Donbass)** | **Ukraine / Russia** | High-rank anthracite and bituminous | Historic coal basin of Eastern Europe; heavy metallurgical base |
+| **Appalachian Coalfield** | **USA** (PA, WV, KY, OH) | High-grade bituminous coal | World's oldest mechanized coal basin; Pittsburgh industrial cluster |
+| **Upper Silesian Basin** | **Poland** | Bituminous coal | Largest coal producer in the European Union; Katowice center |
+| **Shanxi & Shaanxi Basins** | **China** | Massive bituminous reserves | China's primary coal base; accounts for ~50% of total world coal production |
+| **Bowen & Sydney Basins** | **Australia** (QLD / NSW) | High-grade coking & thermal coal | World's leading coal exporter; port terminals at Hay Point & Newcastle |
+| **Karaganda Basin** | **Kazakhstan** | Coking coal | Major Central Asian coal reserve developed during Soviet era |
+
+### 2. World Iron Ore Mining Centers
+
+| Mining District / Range | Country | Iron Mineral Type | Key Prelims Distinctions |
+|---|---|---|---|
+| **Pilbara (Mt Newman & Mt Whaleback)** | **Australia** | Super-high-grade Hematite (>62% Fe) | World's largest iron ore producing region; exported via Port Hedland |
+| **Carajás (काराजास)** | **Brazil** (Pará state) | Highest-grade hematite in world (~66% Fe) | World's largest open-pit iron ore mine; operated by Vale |
+| **Mesabi Range** | **USA** (Minnesota) | Magnetite & Taconite | Western shore of Lake Superior; feeds Great Lakes steel mills |
+| **Kiruna & Gällivare** | **Sweden** | High-grade magnetite | World's largest underground iron ore mine (Kiruna); exported via Narvik (Norway) |
+| **Krivoy Rog (Kryvyi Rih)** | **Ukraine** | Banded iron formation (BIF) | Ukraine's principal iron ore basin feeding domestic and EU steelworks |
+| **Kursk Magnetic Anomaly (KMA)** | **Russia** | Largest known iron ore reserve on Earth | Massive magnetic deflection discovered by geophysicists; open-cast mines |
+| **Lorraine & Normandy** | **France** | Sedimentary iron ore (*Minette*) | Historic phosphorus-rich ore that sparked Franco-German industrial rivalry |
+
+### 3. Non-Ferrous & Precious Minerals Master Table
+
+| Mineral | World Leading Producers | Famous Mining Belts / Districts | Key Geological / Exam Traps |
+|---|---|---|---|
+| **Copper (तांबा)** | **1. Chile** (>25%)<br>2. Peru<br>3. DRC / China | **Chuquicamata** (Chile - world's largest open-pit copper mine); **Escondida** (Chile - #1 production); **El Teniente**; **Bingham Canyon** (Utah, USA); **Katanga** (DRC) | Found in porphyry copper deposits along the convergent Pacific Rim of Andes |
+| **Tin (टिन)** | **1. China**<br>2. Indonesia<br>3. Myanmar | **Kinta Valley** (Perak, Malaysia); **Bangka & Belitung Islands** (Indonesia); **Gejiu / Yunnan** (China) | Placer deposits derived from granite cassiterite (SnO2); SE Asian Tin Belt |
+| **Gold (सोना)** | **1. China**<br>2. Australia<br>3. Russia | **Witwatersrand** (South Africa - deepest mines >4,000 m); **Kalgoorlie & Coolgardie** (Western Australia - "Golden Mile"); **Muruntau** (Uzbekistan) | Witwatersrand fossil placer conglomerate; Kalgoorlie telluride veins |
+| **Diamond (हीरा)** | **1. Russia** (volume)<br>2. Botswana (value)<br>3. Canada | **Kimberley** (South Africa - premier historic pipe mine); **Jwaneng & Orapa** (Botswana); **Mirny & Udachnaya** (Yakutia, Russia); **Argyle** (Australia - pink diamonds) | Found in ultramafic volcanic pipes of **Kimberlite and Lamproite** |
+| **Uranium (यूरेनियम)** | **1. Kazakhstan** (>40%)<br>2. Canada<br>3. Namibia | **Tortkuduk & Inkai** (Kazakhstan); **McArthur River & Cigar Lake** (Athabasca, Canada); **Olympic Dam** (Australia - polymetallic Cu-U-Au) | Kazakhstan leads production via In-Situ Leaching (ISL); Australia leads total reserves |
+| **Platinum (प्लेटिनम)** | **1. South Africa** (>70%)<br>2. Russia<br>3. Zimbabwe | **Bushveld Igneous Complex** (Merensky Reef, South Africa); **Norilsk** (Siberia, Russia) | Bushveld complex holds ~75% of world's Platinum Group Metals (PGM) |
+
+### 4. World Petroleum & Natural Gas Provinces
+
+| Hydrocarbon Basin / Field | Country / Region | Type / Status | Prelims Distinctions & Traps |
+|---|---|---|---|
+| **Ghawar (घवार)** | **Saudi Arabia** | Onshore super-giant oilfield | **World's largest conventional oilfield** (~70 billion barrels reserves) |
+| **Burgan Field** | **Kuwait** | Onshore sandstone oilfield | World's second-largest conventional oilfield; set ablaze during 1991 Gulf War |
+| **Permian Basin** | **USA** (Texas / New Mexico) | Unconventional shale oil & gas | Epicenter of US tight oil production; prolific stacked shale plays |
+| **Kashagan & Tengiz** | **Kazakhstan** (Caspian Sea) | Offshore ultra-deep carbonate | **Located in Kazakhstan, NOT Kuwait!** High reservoir pressure and toxic H2S |
+| **Lake Maracaibo** | **Venezuela** | Heavy crude / tidal lagoon | Venezuela holds world's largest proved oil reserves (Orinoco heavy crude belt) |
+| **North Sea (Brent / Forties)** | **UK and Norway** | Offshore continental shelf | International sweet light crude pricing benchmark (**Brent Crude**) |
+| **Baku (Absheron Peninsula)** | **Azerbaijan** | Caspian historic basin | One of the world's oldest oil extraction centers; Nobel brothers' heritage |
+| **South Pars / North Dome** | **Qatar and Iran** | Offshore non-associated natural gas | **World's largest natural gas field**; shared binational marine reservoir |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Confused pairs
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Ruhr Basin** | **Kuznetsk Basin (Kuzbass)** | Premier coal basin in **Germany** (Western Europe) vs Massive coal basin in **Russia** (Siberian taiga) | रूर / कुज़बास बेसिन |
+| **Donbass (Donets)** | **Appalachian Basin** | Coal basin in **Ukraine and Russia** vs Historic coal belt in **eastern USA** | डोनबास / एपलेशियन |
+| **Mount Newman** | **Postmasburg** | World-class **Iron ore mine** in Western Australia (Pilbara) vs Premier **Manganese mining center** in South Africa | माउंट न्यूमैन / पोस्टमासबर्ग |
+| **Kashagan Field** | **Burgan Field** | Giant Caspian offshore oilfield in **Kazakhstan** vs Giant onshore oilfield in **Kuwait** | कशागन / बुरगान तेल क्षेत्र |
+| **Chuquicamata** | **Kimberley** | World's largest open-pit **Copper mine** in Chile (Atacama) vs Famous historic **Diamond pipe mine** in South Africa | चुक्विकामाटा / किम्बरले |
+| **Witwatersrand** | **Katanga (Shaba)** | World's greatest **Gold reef** in South Africa (Johannesburg) vs Great **Copper and Cobalt belt** in DRC | विटवाटर्सरैंड / कटंगा |
+| **Kalgoorlie** | **Broken Hill** | World-famous **Gold mining** center in Western Australia vs Famous **Silver-Lead-Zinc** mining town in New South Wales, Australia | कालगूर्ली / ब्रोकेन हिल |
+| **Carajás** | **Mesabi** | High-grade hematite open-pit iron mine in **Brazil (Amazon)** vs Lake Superior iron range in **USA (Minnesota)** | काराजास / मेसाबी रेंज |
+| **Pegu Yoma** | **Chauk & Yenangyaung** | Folded hill range of **Myanmar** vs Historic petroleum fields along the Irrawaddy River in Myanmar | पेगू योमा / चाउक-येनांग्याउंग |
+| **Normandy & Lorraine** | **Saar Basin** | Historic **Iron ore** districts in France vs Historic **Coal mining** basin in Germany on the French border | लोरेन-नॉर्मंडी / सार बेसिन |
+| **Olympic Dam** | **Bingham Canyon** | Giant polymetallic **Uranium-Copper-Gold** mine in South Australia vs Giant open-pit **Copper** porphyry mine in Utah, USA | ओलंपिक डैम / बिंगम कैन्यन |
+| **Kinta Valley** | **Bangka Island** | Historic world-leading alluvial **Tin mining valley** in Perak, Malaysia vs Leading offshore/onshore **Tin islands** of Indonesia | किन्टा घाटी / बांका द्वीप |
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Ruhr | **Germany** | Britain / France / Russia | रुहर |
-| Kuzbass | **Russia** | Ukraine / Germany | कुजबास |
-| Donetsk | **Ukraine** coal | Kyiv / Kharkiv as the coal answer | दोनेत्स्क |
-| Appalachian | **USA** | England | अप्लेशियन |
-| Lancashire | **England** | USA / Germany | लंकाशायर |
-| Mount Newman | **Iron**, Australia | Mn / Cu / bauxite | माउंट न्यूमैन |
-| Krivoy Rog | **Ukraine** iron | Russia | क्रिवॉय रोग |
-| Normandy iron | **France** | Germany (2020 wrong pair) | नॉर्मंडी |
-| Karaganda | Kazakhstan (coal renown; 2020 iron list accepted) | Kuwait oil | कारागांदा |
-| Chile copper | **Andes porphyry**, N Chile | “Chile has no copper” | चिली तांबा |
-| Kinta Valley | **Tin** | Rubber / tea / coffee | किंटा |
-| Pegu Yoma | **Mineral oil** | Tin (that is Kinta / Bangka / Tenasserim) | पेगू योमा |
-| Kashagan | **Kazakhstan** | Kuwait | कशागन |
-| Burgan | **Kuwait** | Kashagan dump | बुर्गान |
-| Haft Kel | **Iran** | Iraq | हफ्त केल |
-| Zubair | **Iraq** | Iran | ज़ुबैर |
-| Dhahran | **Saudi Arabia** | Kuwait | धहरान |
-| Methane | Natural gas **and** CNG | LPG (propane/butane) | मीथेन |
-| Nuclear vs solar | Nuclear **not** stored solar | Marking only wind as non-solar | नाभिकीय |
-| Iodine | **Chile** | Japan / USA / China as the 2018 fact | आयोडीन |
-| Postmasburg | **Manganese**, South Africa | Uranium / mica / bauxite | पोस्टमासबर्ग |
-| Weipa vs Newman | Weipa = **bauxite**; Newman = **iron** | Swap | वीपा / न्यूमैन |
-| Witwatersrand | **Gold**, South Africa | Postmasburg Mn dump | विटवाटरसैंड |
-| Sudbury | Canada **Ni + Cu** | Tin / oil | सडबरी |
-| North Field / South Pars | Qatar / Iran — **same** Gulf gas giant | Two unrelated fields | नॉर्थ फील्ड |
-| OPEC vs IAEA | Both **Vienna**; OPEC = oil, IAEA = nuclear | Swap jobs | वियना |
-| Brass vs bronze | Brass = Cu+Zn; bronze = Cu+Sn | Swap | पीतल / कांसा |
-| Morocco | **Phosphate** reserves | Oil / copper | मोरक्को |
-| Broken Hill | Australia **Pb–Zn** | Iron / tin | ब्रोकन हिल |
-| Lithium Triangle | **Chile–Argentina–Bolivia** (brines) | Brazil in the triangle | लिथियम |
-| Rare earths | **China** dominates processing | “India has zero REE” | दुर्लभ मृदा |
-| German silver | Cu–Ni–Zn (**no Ag**) | Contains silver | जर्मन सिल्वर |
-| Peace Pipeline | Iran–Pakistan gas | Russia–Europe only | पीस पाइपलाइन |
-| Uranium City | **Canada** | Australia / USA | यूरेनियम सिटी |
-| Kinta Valley | **Tin** (Malaysia) | Rubber | किंटा घाटी |
-| Carajás vs Newman | Both **iron**; Carajás = Brazil, Newman = Australia | Swap countries | काराजास |
-| Producer vs exporter (coal/iron) | China often huge **volume**; Australia/Indonesia **ship** | China = export king | |
+## 🧠 Memory Anchors & Mnemonics
 
+### 1. The Lithium Triangle Countries: **ABC**
+- **A**rgentina (Salar del Hombre Muerto)
+- **B**olivia (Salar de Uyuni — world's largest salt flat)
+- **C**hile (Salar de Atacama — largest producer among the three)
+- *(Mnemonic: **A-B-C** of Battery Energy)*
 
----
+### 2. Australian Twin Gold Cities: **K-C**
+- **K**algoorlie & **C**oolgardie (Western Australia desert)
+- *(Mnemonic: **K**angaroo **C**arries Gold)*
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+### 3. Great Lakes Iron Ranges: **M-V-C**
+- **M**esabi (Minnesota — largest)
+- **V**ermilion
+- **C**uyuna
+- *(Exam Lock: Mesabi ore feeds steel mills of Pittsburgh, Gary, and Detroit via Great Lakes freighters)*
+
+### 4. Mineral Associations to Lock:
+- **Copper** → **Chile** (Chuquicamata)
+- **Tin** → **Malaysia / Indonesia** (Kinta / Bangka)
+- **Cobalt** → **DRC** (Katanga)
+- **Platinum** → **South Africa** (Bushveld)
+- **Uranium** → **Kazakhstan** (Production #1) & **Australia** (Reserves #1)
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

@@ -3,59 +3,163 @@ hide:
   - toc
 ---
 
-# Topic 10 — Sikhism — Must-Score Facts
+# Topic 10 — Sikh Gurus, Khalsa & Sikh State — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">🏰 Medieval India &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 10 — Sikhism</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 10 — Sikh Gurus, Khalsa & Sikh State</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **Dec 2023** | **Veer Bal Diwas (26 December):** National annual commemoration of the martyrdom of Sahibzada Zorawar Singh (9) and Sahibzada Fateh Singh (7) | Bricked alive at Sirhind by Wazir Khan in 1704 CE; sons of 10th Guru Gobind Singh |
+| **2023–2024** | **Sri Kartarpur Sahib Corridor:** Pilgrimage traffic updates across the visa-free corridor connecting Dera Baba Nanak (Punjab) with Gurdwara Darbar Sahib (Pakistan) | Where Guru Nanak Dev spent the final 18 years of his life farming and formalizing Sangat-Pangat |
+| **2024** | **Martyrdom Day of Guru Tegh Bahadur (24 November):** Commemorated across India as *Shaheedi Diwas* | 9th Guru executed in Delhi (1675) by Aurangzeb; Gurdwara Sis Ganj Sahib & Gurdwara Rakab Ganj Sahib |
+| **2023** | **350th Birth Anniversary Celebrations of Sardar Banda Singh Bahadur:** Heritage exhibition at Red Fort | Defeated Wazir Khan at Chappar Chiri (1710), abolished feudal zamindari, executed in 1716 under Farrukhsiyar |
+| **2024** | **Maharaja Ranjit Singh Statue & Ram Bagh Palace:** Upgradation of heritage sites at Amritsar and Lahore | Sukerchakia Misl founder, captured Lahore (1799) & Amritsar (1802), Treaty of Amritsar (1809), *Fauj-i-Khas* |
 
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Guru Nanak (गुरु नानक) (1469–1539)** founded Sikhism on **Ik Onkar**, the householder path, **langar** (लंगर), and **sangat** (संगत).
-2. **Mardana** (मर्दाना) was Nanak's Muslim **rabab** companion and **disciple**, not a Guru.
-3. **Guru Angad** (earlier **Bhai Lehna (लेहना)**) standardised **Gurmukhi**; **Guru Amar Das** organised **22 Manjis** and made langar firm at **Goindwal**.
-4. **Akbar** (अकबर) granted about **500 bighas** (with a pond) to **Bibi Bhani**, wife of **Guru Ram Das**; **Ramdaspur** on that land became **Amritsar** (अमृतसर).
-5. **Guru Arjan** (गुरु अर्जन) compiled the **Adi Granth (आदि ग्रंथ) in 1604**, built **Harmandir (हरमंदिर) Sahib** (हरमंदिर साहिब), started the **Masand** (मसंद) tenth, founded **Tarn Taran** and **Kartarpur**, and was martyred under **Jahangir (जहाँगीर) in 1606** after aiding **Khusrau**.
-6. **Guru Hargobind (हरगोबिंद)** introduced **miri (मीरी)–piri (पीरी)** and built the **Akal Takht** (अकाल तख़्त); he did **not** create the Khalsa.
-7. **Guru Tegh Bahadur** (गुरु तेग बहादुर) was executed in **Delhi in 1675** under **Aurangzeb** (औरंगजेब).
-8. **Guru Gobind Singh** (गुरु गोबिंद सिंह) founded the **Khalsa at Anandpur (आनंदपुर) on Vaisakhi 1699** with the **Panj Pyare** (पंज प्यारे).
-9. **Adi Granth** (आदि ग्रंथ) names the 1604 book; **Guru Granth Sahib** names the same canon as living Guru after 1708.
-10. **Dasam Granth** (दसम ग्रंथ) is a separate corpus linked to Gobind Singh and is **not** the eternal Guru.
-11. **Japji Sahib** of Nanak opens the Granth; hymns of Kabir (कबीर), Namdev (नामदेव), Ravidas, and Sheikh Farid also appear.
-12. **Harmandir Sahib** is the spiritual centre; **Akal Takht** is the temporal seat beside it.
-13. **Zafarnama** is Gobind Singh's **Persian** (फ़ारसी) letter to Aurangzeb.
-14. **Kabir did not found Sikhism**; his hymns later entered the Granth.
-15. **Har Krishan** (हर कृष्ण), the child eighth Guru, is remembered for service during a **Delhi** epidemic.
-16. **Ranjit Singh (रणजीत सिंह)'s Adalat-i-Ala** at **Lahore** belongs to the later Sikh Empire, not the Guru period.
-17. **Guru Gobind Singh** was born at **Patna** (पटना); he died at **Nanded**, where **Hazur Sahib** stands.
-18. **Banda Bahadur** (बंदा बहादुर)’s earlier name was **Lachman Dev** (Lachhman Dev); Gobind Singh gave him the Sikh name.
-19. **Hem Kund** (Chamoli (चमोली), Uttarakhand (उत्तराखंड)) is a famous Sikh gurudwara site linked to Gobind Singh tradition.
-20. **Kabir did not found Sikhism.** His hymns later entered the Granth.
-21. **Langar** is the free community kitchen.
-22. **Sangat** is the congregation for hymn and counsel.
-23. **Khalsa** later means the initiated order of **1699**.
-24. **Mardana** was Nanak’s Muslim **rabab** companion and **disciple**.
-25. **Guru Angad** succeeded Nanak though he was not Nanak’s son.
-26. **Guru Granth Sahib** is the eternal Guru.
-27. **Mata Khivi** is remembered for langar service under the early Gurus.
-28. **Guru Nanak** appointed **Bhai Lehna** as successor; Lehna became **Guru Angad**.
-29. **Guru Angad** is remembered as the progenitor of the **Gurmukhi** script (लिपि).
-30. **Guru Amar Das** divided the Sikh religious organisation into **22 Manjis**.
-31. **Akbar** donated about **500 bighas** of land with a natural pond to **Bibi Bhani**, wife of **Guru Ram Das**.
-32. **Guru Arjan Dev** built **Sri Harmandir Sahib** in the middle of the Amritsar tank.
-33. **Jahangir** (जहाँगीर) treated that act as disloyalty and ordered Arjan’s death by torture.
-34. **Guru Angad** standardised **Gurmukhi** for Punjabi hymns.
-35. **Guru Amar Das** made **langar** a firm rule at **Goindwal**.
+2. The ethical triad is **Naam Japna**, **Kirat Karni**, and **Vand Chakna**.
+3. **Mardana** (मर्दाना) was Nanak's Muslim **rabab** companion and **disciple**, not a Guru.
+4. There are exactly **ten human Gurus** from Nanak to Gobind Singh (**1469–1708**); after that the Granth is eternal.
+5. **Guru Angad** (earlier **Bhai Lehna (लेहना)**) standardised **Gurmukhi**; **Guru Amar Das** organised **22 Manjis** and made langar firm at **Goindwal**.
+6. **Akbar** (अकबर) granted about **500 bighas** (with a pond) to **Bibi Bhani**, wife of **Guru Ram Das**; **Ramdaspur** on that land became **Amritsar** (अमृतसर).
+7. **Guru Arjan** (गुरु अर्जन) compiled the **Adi Granth (आदि ग्रंथ) in 1604**, built **Harmandir (हरमंदिर) Sahib** (हरमंदिर साहिब), started the **Masand** (मसंद) tenth, founded **Tarn Taran** and **Kartarpur**, and was martyred under **Jahangir (जहाँगीर) in 1606** after aiding **Khusrau**.
+8. **Guru Hargobind (हरगोबिंद)** introduced **miri (मीरी)–piri (पीरी)** and built the **Akal Takht** (अकाल तख़्त); he did **not** create the Khalsa.
+9. **Guru Tegh Bahadur** (गुरु तेग बहादुर) was executed in **Delhi in 1675** under **Aurangzeb** (औरंगजेब).
+10. **Guru Gobind Singh** (गुरु गोबिंद सिंह) founded the **Khalsa at Anandpur (आनंदपुर) on Vaisakhi 1699** with the **Panj Pyare** (पंज प्यारे).
+11. In **1708** at **Nanded (Hazur Sahib)**, Gobind Singh made **Guru Granth Sahib** (गुरु ग्रंथ साहिब) the eternal Guru; there is **no 11th human Guru**.
+12. **Adi Granth** (आदि ग्रंथ) names the 1604 book; **Guru Granth Sahib** names the same canon as living Guru after 1708.
+13. **Dasam Granth** (दसम ग्रंथ) is a separate corpus linked to Gobind Singh and is **not** the eternal Guru.
+14. **Japji Sahib** of Nanak opens the Granth; hymns of Kabir (कबीर), Namdev (नामदेव), Ravidas, and Sheikh Farid also appear.
+15. Five Ks are **Kesh, Kangha, Kara, Kachha, and Kirpan**; initiated names are **Singh** and **Kaur**.
+16. Sikh **Khalsa** (खालसा) is the 1699 initiated order; Mughal (मुग़ल) **Khalsa** means **crown land**.
+17. **Harmandir Sahib** is the spiritual centre; **Akal Takht** is the temporal seat beside it.
+18. At **Bhangani in 1688**, Gobind Singh defeated **Pahari (पहाड़ी) hill rajas** before founding the Khalsa.
+19. **Zafarnama** is Gobind Singh's **Persian** (फ़ारसी) letter to Aurangzeb.
+20. **Kabir did not found Sikhism**; his hymns later entered the Granth.
+21. **Har Krishan** (हर कृष्ण), the child eighth Guru, is remembered for service during a **Delhi** epidemic.
+22. Arjan's martyrdom led to Hargobind's militarisation; Tegh Bahadur's martyrdom led to Gobind Singh and later the Khalsa.
+23. Saint chronology bridge often used in matches: **Namdev → Kabir → Nanak → Chaitanya (चैतन्य)**.
+24. **Ranjit Singh (रणजीत सिंह)'s Adalat-i-Ala** at **Lahore** belongs to the later Sikh Empire, not the Guru period.
+25. **Guru Gobind Singh** was born at **Patna** (पटना); he died at **Nanded**, where **Hazur Sahib** stands.
+26. **Banda Bahadur** (बंदा बहादुर)’s earlier name was **Lachman Dev** (Lachhman Dev); Gobind Singh gave him the Sikh name.
+27. **Hem Kund** (Chamoli (चमोली), Uttarakhand (उत्तराखंड)) is a famous Sikh gurudwara site linked to Gobind Singh tradition.
+28. Among early Adi Granth compositions is **Jayadev**; among the last human additions is **Guru Tegh Bahadur**.
+29. **Guru Nanak's Four Spiritual Journeys (Udasis):** Traveled thousands of miles across India, Tibet, Sri Lanka, Mecca, and Baghdad accompanied by his faithful Muslim rabab player **Bhai Mardana**, preaching radical monotheism (*Ik Onkar*) and universal brotherhood.
+30. **Gurmukhi Script Standardization:** Standardized from earlier regional Lande and Sharada characters by **Guru Angad Dev (Bhai Lehna)** in the 16th century to ensure that Sikh sacred scriptures remained accessible to common peasants rather than monopolized by Sanskrit-literate elites.
+31. **Goindwal Baoli (Stepwell):** Constructed under **Guru Amar Das** at Goindwal Sahib with **84 steps**; Sikhs believe that meditating on divine name on each step liberates the soul from the 84 lakh cycles of rebirth.
+32. **Akbar's Visit to Goindwal:** Emperor Akbar personally visited Guru Amar Das at Goindwal, conformed to the mandatory custom of **'Pehle Pangat, Peeche Sangat'** (first dine in the communal kitchen, then enter the Guru's presence), and granted revenue rights over several villages to Guru's daughter Bibi Bhani.
+33. **The Masand System:** Instituted by **Guru Ram Das** and regularized by Guru Arjan Dev; a network of authorized community deputies (*Masands*) who supervised regional Sikh congregations and collected the voluntary tithe (**Dasvandh / 10% of income**) for the central Guru treasury.
+34. **Foundation of Harmandir Sahib (1588 CE):** Guru Arjan Dev invited revered Qadiri Sufi mystic **Hazrat Mian Mir of Lahore** to lay the foundation stone of Harmandir Sahib; uniquely designed with **four entrance doors** opening toward all four cardinal directions, signifying universal welcome to all castes and creeds.
+35. **Compilation of the Adi Granth (1604 CE):** Compiled by Guru Arjan Dev at Ramsar Sarovar (Amritsar) with scribe **Bhai Gurdas**; incorporated the devotional hymns of the first five Sikh Gurus along with verses of 15 Hindu and Muslim Bhakti-Sufi saints (**Kabir, Ravidas, Baba Farid, Namdev, Dhanna, Jaidev**); installed in Harmandir Sahib with **Baba Buddha** as the first Head Granthi.
+36. **Martyrdom of Guru Arjan Dev (30 May 1606):** Following the rebellion of Prince Khusrau against Emperor Jahangir, Guru Arjan Dev was arrested on charges of treason; subjected to horrific torture (seated on a burning hot iron plate and showered with boiling sand) on the banks of the Ravi at Lahore, becoming the **first great martyr in Sikh history**.
+37. **Akal Takht (The Throne of the Timeless One):** Established by **Guru Hargobind in 1606 CE** directly opposite Harmandir Sahib; a 12-foot raised concrete platform where temporal justice, martial affairs, and political directives (*Hukamnamas*) of the Sikh nation were deliberated.
+38. **The Two Swords of Miri and Piri:** Symbolized the dual responsibility of the Sikh faith: **Miri** (representing temporal, political, and defensive sovereignty) and **Piri** (representing spiritual leadership and devotional grace).
+39. **Guru Har Krishan at Bangla Sahib:** Summoned to Delhi by Aurangzeb; stayed at the haveli of Raja Jai Singh of Amber (now **Gurdwara Bangla Sahib**); tended fearlessly to the destitute during severe smallpox and cholera epidemics, succumbing to the disease on 30 March 1664 with his dying words: ***'Baba Bakale'*** (pointing to his grand-uncle Tegh Bahadur at Bakala).
+40. **Martyrdom of Guru Tegh Bahadur (24 November 1675):** Beheaded at Chandni Chowk, Delhi, by order of Aurangzeb after refusing forced conversion to Islam and championing the religious freedom of Kashmiri Pandits led by Pandit Kripa Ram; site marked by **Gurdwara Sis Ganj Sahib**.
+41. **Bhai Jaita's Heroic Feat (Ranghreta Guru ka Beta):** Following Guru Tegh Bahadur's execution, a low-caste devotee named **Bhai Jaita (Bhai Jiwan Singh)** daringly snatched the Guru's severed head from under the Mughal guard and carried it across 300 km to Anandpur Sahib, where Guru Gobind Singh embraced him with the famous blessing: ***'Ranghreta, Guru ka Beta'***.
+42. **Lakhi Shah Vanjara at Rakab Ganj:** Trader **Lakhi Shah Vanjara** carried Guru Tegh Bahadur's headless body in a hay cart to his house in Raisina village and set his own entire house and estate on fire to cremate the sacred body secretly; site marked by **Gurdwara Rakab Ganj Sahib**.
+43. **Creation of the Khalsa (13 April 1699):** At Anandpur Sahib on Baisakhi day, Guru Gobind Singh demanded five heads for sacrifice; five devoted disciples answered (**Daya Ram, Dharam Das, Himmat Rai, Mohkam Chand, Sahib Chand**), who were baptized as the **Panj Pyare** (Five Beloved Ones) with sweet nectar (**Amrit**) stirred with a double-edged dagger (**Khanda**).
+44. **The Five Mandatory Ks (Panj Kakar):** Guru Gobind Singh ordained every baptized Khalsa to perpetually wear: (1) **Kesh** (uncut hair), (2) **Kangha** (wooden comb), (3) **Kara** (iron bangle), (4) **Kachera** (cotton undergarment), and (5) **Kirpan** (curved defensive sword).
+45. **Martyrdom of the Four Sahibzadas (1704 CE):** The elder two sons (**Ajit Singh, 18, and Jujhar Singh, 14**) died fighting heroically at the **Battle of Chamkaur**; the younger two sons (**Zorawar Singh, 9, and Fateh Singh, 7**) were bricked alive at Sirhind by Mughal governor Wazir Khan for refusing to apostatize.
+46. ***Zafarnama* (Epistle of Victory):** A historic 111-verse letter in classical **Persian verse** written by Guru Gobind Singh in 1705 from Dina Kangar to Emperor Aurangzeb, rebuking the emperor for violating oaths taken on the Quran and declaring: ***'When all peaceful avenues have failed, it is righteous to lift the sword.'***
+47. **Banda Singh Bahadur's Agrarian Revolution:** Raised by Guru Gobind Singh at Nanded; routed Mughal armies at **Chappar Chiri (1710)** and executed governor Wazir Khan; struck coins bearing the inscriptions of Nanak and Gobind; abolished oppressive feudal absentee landlordism across eastern Punjab, transferring proprietary rights to the cultivating peasantry.
+48. **Execution of Banda Singh Bahadur (1716 CE):** Captured after an 8-month heroic siege at Gurdas Nangal; paraded in iron cages to Delhi and brutally executed near the Qutb Minar along with 700 followers under Emperor **Farrukhsiyar**.
+49. **The Twelve Sikh Misls (Confederacies):** Autonomous military fraternities organized under the Dal Khalsa: **Sukerchakia, Ahluwalia, Bhangi, Kanheya, Ramgarhia, Phulkian, Faizalpuria, Dallewalia, Nishanwalia, Shaheed, Karorsinghia, Nakai**; gathered semi-annually at Amritsar to pass unanimous national resolutions (**Gurmatta**).
+50. **Maharaja Ranjit Singh's Secular Rule (1799–1839 CE):** Belonged to the **Sukerchakia Misl**; unified Punjab; captured Lahore (1799) and Amritsar (1802); ruled in the name of the Khalsa (*Sarkar-i-Khalsa*); appointed Dogras (Gulab Singh, Dhian Singh), Muslims (Fakir Azizuddin, Nuruddin), and Europeans (Generals Allard, Ventura, Court, Avitabile) to supreme offices; gold-plated the sanctum of Harmandir Sahib.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+[1469–1539 CE] GURU NANAK DEV: Founder; Nankana Sahib; Sangat & Pangat; passes away at Kartarpur
+   │
+[1504–1552 CE] GURU ANGAD DEV: Lehna; standardizes Gurmukhi script; Mall Akhara
+   │
+[1479–1574 CE] GURU AMAR DAS: 22 Manjis; Anand Karaj; opposes Sati; visited by Akbar at Goindwal
+   │
+[1534–1581 CE] GURU RAM DAS: Founds Amritsar (Ramdaspur); digs Amrit Sarovar; introduces Masands
+   │
+[1563–1606 CE] GURU ARJAN DEV: Harmandir Sahib (1588); compiles Adi Granth (1604); martyred by Jahangir
+   │
+[1595–1644 CE] GURU HARGOBIND: Miri & Piri swords; builds Akal Takht (1606); militarization
+   │
+[1630–1661 CE] GURU HAR RAI: Maintained 2,200 horsemen; sheltered Dara Shikoh
+   │
+[1656–1664 CE] GURU HAR KRISHAN: "Child Guru" (aged 5–8); smallpox service at Delhi (Bangla Sahib)
+   │
+[1621–1675 CE] GURU TEGH BAHADUR: "Hind ki Chadar"; executed at Chandni Chowk by Aurangzeb (Sis Ganj)
+   │
+[1666–1708 CE] GURU GOBIND SINGH: Born Patna; Khalsa founded (1699); Panj Pyare; Zafarnama; Nanded
+   │
+[1708–1716 CE] BANDA SINGH BAHADUR: Crushes Sirhind (1710); abolishes zamindari; executed (1716)
+   │
+[1799–1839 CE] MAHARAJA RANJIT SINGH: Sukerchakia Misl; captures Lahore (1799); Treaty of Amritsar (1809)
+```
+
+### The Ten Sikh Gurus (Comprehensive Master Reference)
+
+| Order & Name | Life Span | Guruship Era | Defining Contribution | Contemporary Mughal Monarch(s) |
+|---|---|---|---|---|
+| **1. Guru Nanak Dev** | 1469–1539 CE | 1469–1539 CE | Founded Sikhism; *Japji Sahib*; Sangat & Pangat | Bahlul Lodi, Sikandar Lodi, Ibrahim Lodi, Babur |
+| **2. Guru Angad Dev** | 1504–1552 CE | 1539–1552 CE | Standardized **Gurmukhi script**; physical culture | Humayun, Sher Shah Suri, Islam Shah Suri |
+| **3. Guru Amar Das** | 1479–1574 CE | 1552–1574 CE | Instituted **22 Manjis**; *Anand Karaj*; anti-Sati | Humayun, Akbar |
+| **4. Guru Ram Das** | 1534–1581 CE | 1574–1581 CE | Founded **Amritsar**; excavated Amrit Sarovar | Akbar |
+| **5. Guru Arjan Dev** | 1563–1606 CE | 1581–1606 CE | Built **Harmandir Sahib**; compiled **Adi Granth (1604)** | Akbar, **Jahangir** (ordered execution) |
+| **6. Guru Hargobind** | 1595–1644 CE | 1606–1644 CE | **Miri and Piri** swords; founded **Akal Takht (1606)** | Jahangir, Shah Jahan |
+| **7. Guru Har Rai** | 1630–1661 CE | 1644–1661 CE | Maintained cavalry; aided Dara Shikoh | Shah Jahan, Aurangzeb |
+| **8. Guru Har Krishan** | 1656–1664 CE | 1661–1664 CE | "Child Guru" (served Delhi smallpox victims) | Aurangzeb |
+| **9. Guru Tegh Bahadur**| 1621–1675 CE | 1664–1675 CE | **"Hind ki Chadar"**; martyred at Chandni Chowk | **Aurangzeb** (ordered execution) |
+| **10. Guru Gobind Singh**| 1666–1708 CE | 1675–1708 CE | Founded the **Khalsa (1699)**; Five Ks; *Zafarnama* | Aurangzeb, Bahadur Shah I |
+
+## 📊 Quick Reference Grid
+
+### 1. The Five Historical Takhts of Sikhism
+
+| Takht Name | Geographical Location | Founding Authority & Era | Historical Association & Religious Significance |
+|---|---|---|---|
+| **1. Akal Takht Sahib** | Amritsar (facing Golden Temple) | **Guru Hargobind (1606 CE)** | Highest seat of temporal authority of the Khalsa; issues sovereign *Hukamnamas* |
+| **2. Takht Sri Damdama Sahib** | Talwandi Sabo, Bathinda (Punjab)| Guru Gobind Singh (1705 CE) | Where Guru Gobind Singh finalized the complete, definitive edition of Guru Granth Sahib |
+| **3. Takht Sri Keshgarh Sahib** | Anandpur Sahib, Ropar (Punjab) | Guru Gobind Singh (**1699 CE**) | Birthplace of the **Khalsa**; venue of the historic Baisakhi assembly and Panj Pyare |
+| **4. Takht Sri Patna Sahib** | Patna (Bihar) | Established by Maharaja Ranjit Singh | Birthplace of **Guru Gobind Singh (1666 CE)**; commemorates his childhood days |
+| **5. Takht Sri Hazur Sahib** | Nanded (Maharashtra) | Built by Maharaja Ranjit Singh (1832) | Where Guru Gobind Singh breathed his last in 1708 and declared Granth Sahib eternal Guru |
+
+### 2. Historic Delhi Gurdwaras Associated with Sikh Gurus
+
+| Gurdwara Name | Location in Delhi | Historic Guru Association & Event |
+|---|---|---|
+| **Gurdwara Sis Ganj Sahib** | Chandni Chowk, Old Delhi | Site of the public beheading of **Guru Tegh Bahadur** on 24 November 1675 by Aurangzeb |
+| **Gurdwara Rakab Ganj Sahib** | Near Parliament House, New Delhi | Site where Lakhi Shah Vanjara burned his own house to secretly cremate Guru Tegh Bahadur's body |
+| **Gurdwara Bangla Sahib** | Connaught Place, New Delhi | Former palace bungalow of Raja Jai Singh where **Guru Har Krishan** stayed and cured epidemic victims |
+| **Gurdwara Bala Sahib** | Ring Road, Sarai Kale Khan | Cremation site of 8th Guru **Har Krishan**, Mata Sundari, and Mata Sahib Kaur |
+| **Gurdwara Majnu ka Tila** | Outer Ring Road, Timarpur | Historic site visited by **Guru Nanak Dev** and later by Guru Hargobind during Jahangir's reign |
+
+### 3. The Twelve Misls of the Dal Khalsa
+
+| Misl Name | Founder / Pivotal Leader | Core Headquarters / Territory | Historical Significance |
+|---|---|---|---|
+| **1. Sukerchakia** | Charat Singh & Mahan Singh | Gujranwala (Punjab, Pak) | Misl of **Maharaja Ranjit Singh**; unified all 12 misls into the sovereign Sikh Empire |
+| **2. Ahluwalia** | **Jassa Singh Ahluwalia** | Kapurthala | Commanded the Dal Khalsa; struck coins in Lahore; took title *Sultan-ul-Qaum* |
+| **3. Bhangi** | Chhajja Singh / Hari Singh Bhangi | Amritsar & Lahore | Named after addiction to *bhang*; held the celebrated Zamzama Cannon (*Bhangianwali Tope*) |
+| **4. Kanheya** | Jai Singh Kanheya | Batala / Gurdaspur | Ranjit Singh married Mehtab Kaur (granddaughter of Jai Singh and daughter of Sada Kaur) |
+| **5. Ramgarhia** | **Jassa Singh Ramgarhia** | Sri Hargobindpur | Renowned warrior and carpenter artisan; captured the Red Fort's coronation slab in 1783 |
+| **6. Phulkian** | Phul Singh / Baba Ala Singh | Patiala, Nabha, Jind | Maintained friendly relations with Ahmad Shah Abdali and the British East India Company |
+| **7. Faizalpuria (Singhpuria)**| **Nawab Kapur Singh** | Jalandhar | Formed the Dal Khalsa in 1748; conferred titles and divided forces into Taruna & Budha Dal |
+| **8. Dallewalia** | Gulab Singh Dallewalia | Rahon / Doaba | Valiant horsemen controlling upper Doaba region |
+| **9. Nishanwalia** | Dasaundha Singh | Ambala | Standard-bearers of the Dal Khalsa in battles |
+| **10. Shaheed** | **Baba Deep Singh** | Talwandi Sabo | Deep Singh fought at Amritsar with his severed head supported in his left hand (1757) |
+| **11. Karorsinghia** | Karora Singh / Baghel Singh | Hoshiarpur / Delhi | **Baghel Singh** captured Delhi in 1783 and built all historic Delhi Gurdwaras |
+| **12. Nakai** | Hira Singh Nakai | Chunian / South of Lahore | Ranjit Singh's second wife Datar Kaur (Raj Kaur) was from this misl |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Difference | Hindi |
+|---|---|------------|-------|
 | Lehna | Sri Chand | Nanak’s chosen successor (Angad) vs Nanak’s son (not Guru) | लेहना / श्रीचंद |
 | Manji | Masand | Amar Das’s 22 preaching circles vs Arjan’s tenth collection | मंजी / मसंद |
 | Nanak | Gobind Singh | Founder 1469 vs 10th Guru + Khalsa 1699 | नानक / गोबिंद सिंह |
@@ -72,10 +176,39 @@ hide:
 | Panj Pyare | Ten Gurus | First five Khalsa 1699 vs 1469–1708 line | पंज प्यारे / दस गुरु |
 | Langar | Sangat | Community kitchen vs congregation | लंगर / संगत |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **Chronological Order of Ten Sikh Gurus: N–A–A–R–A–H–H–H–T–G**
+   - **N**anak (1469–1539)
+   - **A**ngad (1504–1552)
+   - **A**mar Das (1479–1574)
+   - **R**am Das (1534–1581)
+   - **A**rjan Dev (1563–1606)
+   - **H**argobind (1595–1644)
+   - **H**ar Rai (1630–1661)
+   - **H**ar Krishan (1656–1664)
+   - **T**egh Bahadur (1621–1675)
+   - **G**obind Singh (1666–1708)
+   - *Mnemonic Hook:* "No Army Attacks Royal Armies, Heavy Horsemen Have Tremendous Guns"
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+2. **The Two Martyr Gurus & Executing Mughal Emperors:**
+   - **5th Guru Arjan Dev** = Executed by **Jahangir (1606)** at Lahore.
+   - **9th Guru Tegh Bahadur** = Executed by **Aurangzeb (1675)** at Delhi.
+   - *Memory Hook:* 5th by 4th Mughal (Jahangir); 9th by 6th Mughal (Aurangzeb).
+
+3. **The Five Mandatory Ks (Panj Kakar):**
+   - **K**esh (Uncut hair - spirituality)
+   - **K**angha (Wooden comb - cleanliness)
+   - **K**ara (Iron bangle - moral restraint)
+   - **K**achera (Cotton shorts - chastity & agility)
+   - **K**irpan (Curved sword - defense of the oppressed)
+
+4. **Amritsar City Foundation Anchor:**
+   - Land granted by **Akbar**.
+   - Pool excavated by **Guru Ram Das** (4th Guru).
+   - Temple built by **Guru Arjan Dev** (5th Guru); foundation by Sufi saint **Mian Mir**.
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

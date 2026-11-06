@@ -3,59 +3,170 @@ hide:
   - toc
 ---
 
-# Topic 11 — Marathas — Must-Score Facts
+# Topic 11 — Maratha State & Maratha Confederacy — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">🏰 Medieval India &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 11 — Marathas</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 11 — Maratha State & Maratha Confederacy</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2024** | **350th Anniversary of Chhatrapati Shivaji Maharaj's Coronation:** National and state-level celebrations at Raigad Fort (*Shiv Rajyabhisheka Sohala*) | Shivaji's coronation took place on **6 June 1674** at Raigad Fort, officiated by **Gaga Bhatt** of Varanasi |
+| **2023** | **Indian Navy's New Ensign & Admiral Epaulettes:** Octagonal seal design inspired directly by **Chhatrapati Shivaji Maharaj's Rajmudra** | Commemorates Shivaji as the 'Father of the Indian Navy' (built fortified naval docks at Sindhudurg, Vijaydurg, Kolaba) |
+| **2024** | **UNESCO World Heritage Nomination: Maratha Military Landscapes:** Nomination of 12 forts including **Raigad, Shivneri, Torna, Pratapgad, Sinhagad, Sindhudurg, Jinji** | UPPCS tests fort architectures, battles (Pratapgad against Afzal Khan 1659; Purandar 1665; Jinji siege 1690–98) |
+| **2023** | **Repatriation of the Historic 'Wagh Nakh' (Tiger Claws):** Brought from Victoria & Albert Museum (London) to Maharashtra museums for public display | Used by Shivaji to vanquish Bijapuri general **Afzal Khan** at Pratapgad on 10 November 1659 |
+| **2024** | **National Panipat War Memorial Projects:** Upgradation of the Panipat Third Battle memorial at Kala Amb (Haryana) | Third Battle of Panipat fought on **14 January 1761** between Sadashivrao Bhau and Ahmad Shah Abdali |
 
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Shivaji (1630–1680)** built swaraj (स्वराज), was crowned **Chhatrapati at Raigad (रायगढ़) in 1674** (**Gaga Bhatt / Vishweshwar** of Banaras declared him Kshatriya), and died at Raigad in **1680**.
-2. **Chauth** (चौथ) is a **25%** (1/4) protection levy; **sardeshmukhi** (सरदेशमुखी) is an extra **10%** (1/10) hereditary chief claim (together up to **35%**). **Saranzami** (सरंजामी) land supported Maratha jagirdars’ livelihood.
-3. **Bajirao I (1720–40)** drove north expansion; **Balaji Bajirao (1740–61)** belongs to the Panipat III generation. By the **Sangola (सांगोला) agreement (1750)**, the Chhatrapati became a do-nothing king and the **Peshwa** the real head.
-4. **Madhav Rao I (1761–72)** comes **before Narayan Rao (1772–73)**; do not reverse them.
-5. **Nadir Shah (नादिर शाह)'s Delhi sack (1739)** is a separate Afghan shock from Abdali's Panipat victory.
-6. **Palkhed (1728)** is Bajirao I's famous campaign against the **Nizam** (निजाम).
-7. **Shaista Khan** was raided in Pune in **1663** before the Purandar settlement.
-8. **Abwab** (अबवाब) and **Jamadani** are distractors; the protection revenue name asked is **Chauth**.
-9. **Modi script** (मोड़ी लिपि) was used in Maratha revenue and administrative papers.
-10. **Ahilyabai Holkar** (अहल्याबाई होल्कर) ruled from the **Holkar** house of **Indore**.
-11. **Shivaji** built **swaraj** (स्वराज) and took the title **Chhatrapati** in **1674**.
-12. **Rajaram** and **Tarabai** continued that resistance.
-13. **Sambhaji** was executed in **1689**.
-14. **Shahu** was released after Aurangzeb’s death (**1707**) and won the succession (उत्तराधिकार क्रम) against Tarabai’s line.
-15. **Scindia** sat at **Gwalior**.
-16. **Holkar** sat at **Indore**.
-17. **Gaekwad** sat at **Baroda**.
-18. **Bhonsle** sat at **Nagpur**.
-19. **Panipat III (1761)** broke the northern surge.
-20. **Shahji** held jagirs around **Pune, Supa, and Indapur**, and later served Bijapur in the Karnataka belt. Young Shivaji grew up mainly under **Jijabai** at Pune, not as a pampered court prince.
-21. **Jijabai** shaped his sense of **Hindavi Swarajya (स्वराज्य)** — rule free of Bijapur–Mughal overlordship — through Ramayana (रामायण)–Mahabharata (महाभारत) ideals and hatred of local oppression.
-22. **Afzal Khan** of Bijapur was killed at **Pratapgad in 1659**.
-23. **Cause:** Bijapur sent **Afzal Khan** with a large army to crush Shivaji after early Maratha gains on the Konkan and Ghats forts.
-24. **Course:** Shivaji met Afzal Khan at **Pratapgad** under a truce pretext. In close combat Shivaji killed Afzal Khan with **wagh nakh** (tiger claws), and his men routed the Bijapur force.
-25. **Result:** Bijapur prestige fell. Shivaji secured **Raigad** and expanded Swarajya in the western Deccan.
-26. **Cause:** After Bijapur failed, the Mughals under **Shaista Khan** occupied Pune and pressed Shivaji’s homeland.
-27. **Course:** In **1663** Shivaji’s night raid cut Shaista Khan’s force inside Pune. In **1664** he sacked rich **Surat**.
-28. **Result:** Mughal prestige in the Deccan was shaken, and Aurangzeb turned to a heavier campaign under **Raja Jai Singh**.
-29. **Cause:** Aurangzeb sent **Raja Jai Singh I** to pin Shivaji after earlier Mughal failures.
-30. **Course:** Jai Singh besieged **Purandar**. Shivaji signed the **Treaty of Purandar**, surrendered **23 forts**, and accepted Mughal alliance terms; **Sambhaji** went as hostage for a time. In **1666** Shivaji was detained at **Agra** and later escaped.
-31. **Result:** Shivaji kept a core of forts, recovered strength in the hills, and moved toward full sovereignty instead of Bijapur jagirdari (इस्तमरारी) status.
-32. **Rajyabhishek** at **Raigad in 1674** made him **Chhatrapati**, not a Bijapur jagirdar.
-33. **Deshmukhs** were Bijapur-era feudal chiefs in the countryside. They are **not** the eight Ashtapradhan ministers.
-34. **Chauth** means **one-fourth (25%)** of the assessed land revenue of a territory.
-35. **Sardeshmukhi** is an extra **10%** of land revenue.
+2. He was born at **Shivneri** to **Shahji Bhonsle** and **Jijabai**; tradition remembers **Samarth Ramdas** as his guru (गुरु).
+3. At **Pratapgad in 1659**, Shivaji killed Bijapur (बीजापुर)'s **Afzal Khan** and expanded western Deccan (दक्कन) power.
+4. By the **Treaty of Purandar (पुरंदर) (1665)** with **Raja (राजा) Jai Singh I**, Shivaji surrendered **23 forts**; the **Agra** (आगरा) detention followed in **1666**. He defeated the Mughals at **Salher in 1672**.
+5. Big **Deshmukhs** opposed an independent Maratha state because they preferred remaining **Bijapur feudal lords**.
+6. The **Ashtapradhan** (अष्टप्रधान) was Shivaji's eight-minister council; under him the **Peshwa** (पेशवा) was one minister, not the sovereign.
+7. Ashtapradhan portfolios: **Peshwa** (पेशवा / मुख्य प्रधान - admin), **Amatya** (अमात्य / मजूमदार - finance/revenue), **Mantri** (मंत्री / वाक़ियानवीस - records/home), **Senapati** (सेनापति / सर-ए-नौबत - army (सेना) chief), **Sumant** (सुमंत / डबीर - foreign affairs), **Nyayadish** (न्यायाधीश - justice), **Pandit Rao** (पंडितराव / दानाध्यक्ष - religious endowments), **Sachiv** (सचिव / सुरनवीस - royal correspondence).
+8. **Chauth** (चौथ) is a **25%** (1/4) protection levy; **sardeshmukhi** (सरदेशमुखी) is an extra **10%** (1/10) hereditary chief claim (together up to **35%**). **Saranzami** (सरंजामी) land supported Maratha jagirdars’ livelihood.
+9. From **1713**, **Balaji Vishwanath** (बालाजी विश्वनाथ) made the Peshwa office **hereditary** and de facto ruling under Shahu (शाहू).
+10. Core Peshwa order: **Balaji Vishwanath → Bajirao (बाजीराव) I (बाजीराव I) → Balaji Bajirao (बालाजी बाजीराव) → Madhav Rao I (माधवराव) → Narayan Rao (नारायणराव) → Raghunath Rao**.
+11. **Bajirao I (1720–40)** drove north expansion; **Balaji Bajirao (1740–61)** belongs to the Panipat III generation. By the **Sangola (सांगोला) agreement (1750)**, the Chhatrapati became a do-nothing king and the **Peshwa** the real head.
+12. **Madhav Rao I (1761–72)** comes **before Narayan Rao (1772–73)**; do not reverse them.
+13. At **Panipat III on 14 January 1761**, **Ahmad Shah Abdali (अब्दाली)** defeated the Marathas under **Sadashiv Rao Bhau (भाऊ)**; heir **Vishwas Rao** was killed. Eyewitness **Kashiraj Pandit** called it catastrophic; immediate spark was Maratha expulsion of Abdali’s viceroy (वायसराय) **Timur Shah** from **Lahore**.
+14. Panipat III is not Panipat I (**1526**) or II (**1556**); **Shivaji** (शिवाजी) was already dead and did not fight it.
+15. **Nadir Shah (नादिर शाह)'s Delhi sack (1739)** is a separate Afghan shock from Abdali's Panipat victory.
+16. After Shivaji, **Sambhaji** (सम्भाजी) was executed in **1689**; **Rajaram** then **Tarabai** (for **Shivaji II**) led resistance; at **Aurangzeb (औरंगजेब)’s death** Maratha leadership was with **Tarabai**. **Shahu** was released after **1707** and the Peshwa line rose.
+17. Later confederacy seats: **Peshwa–Pune (पुणे)**, **Scindia–Gwalior**, **Holkar–Indore**, **Gaekwad–Baroda**, **Bhonsle–Nagpur**.
+18. The **Treaty of Lanavada (लानावड़ा) (1718)** won Mughal (मुग़ल) recognition (मान्यता) of Maratha chauth rights.
+19. **Palkhed (1728)** is Bajirao I's famous campaign against the **Nizam** (निजाम).
+20. Shivaji's navy used Konkan forts such as **Sindhudurg** and **Vijaydurg**.
+21. Maratha **chauth** reached the **Doab** (दोआब), **Bundelkhand**, and **Rohilkhand**.
+22. Peshwa power ended with the British in **1818**; the last Peshwa was **Baji Rao II**.
+23. **Shaista Khan** was raided in Pune in **1663** before the Purandar settlement.
+24. **Abwab** (अबवाब) and **Jamadani** are distractors; the protection revenue name asked is **Chauth**.
+25. Cause–course–result for Purandar: Aurangzeb sent Jai Singh, Shivaji surrendered forts under treaty, then recovered strength toward the 1674 coronation.
+26. Cause–course–result for Panipat III: Maratha northern surge met Abdali and Najib-ud-Daula; Bhau's army was crushed; the all-India northern surge broke though the confederacy survived.
+27. **Modi script** (मोड़ी लिपि) was used in Maratha revenue and administrative papers.
+28. **Ahilyabai Holkar** (अहल्याबाई होल्कर) ruled from the **Holkar** house of **Indore**.
+29. Ashtapradhan ministers headed departments but did **not** hold independent cabinet power; Shivaji could accept or reject advice.
+30. **Shivaji's Birth and Family Lineage:** Born at **Shivneri Fort** (near Junnar, Pune) on **19 February 1630**; son of Shahaji Bhonsle (feudatory noble of Ahmadnagar and Bijapur) and Jijabai (daughter of Lakhuji Jadhav of Sindkhed).
+31. **First Fort Conquest (Torna 1646):** Captured the fortress of **Torna** at the tender age of 16 from the Sultan of Bijapur, utilizing the discovered royal treasure to fortify the adjoining hill into **Rajgad Fort**, his first administrative capital.
+32. **Encounter with Afzal Khan (10 November 1659):** Met the giant Bijapuri commander Afzal Khan at the foot of **Pratapgad Fort**; when Afzal Khan attempted assassination in a treacherous embrace, Shivaji slew him using concealed **Bagh Nakh** (steel tiger claws) and a **Bichhwa** (curved dagger).
+33. **Shaista Khan Night Attack (April 1663):** Daringly infiltrated the heavily guarded **Lal Mahal** in Pune with 400 chosen Mavali commandos; wounded the Mughal viceroy Shaista Khan (maternal uncle of Aurangzeb), cutting off his three fingers and killing his son Abul Fath.
+34. **First Sack of Surat (January 1664):** Plundered the paramount Mughal western trade emporium of **Surat** for six days, extracting over 1 crore rupees in bullion and merchandise without molesting European Christian missionaries or innocent civilians.
+35. **Treaty of Purandar (11 June 1665):** Besieged at Purandar Fort by **Mirza Raja Jai Singh I** of Amber; Shivaji agreed to surrender **23 out of 35 forts** yielding 4 lakh huns annual revenue, retaining 12 forts for himself, and sending Sambhaji with 5,000 horse to imperial service.
+36. **Escape from Agra (17 August 1666):** Insulted by Aurangzeb at court by being placed behind 5,000-rank nobles; placed under house arrest in Ram Singh's haveli; staged a dramatic escape concealed in large sweetmeat and fruit baskets dispatched as alms to Brahmins and fakirs.
+37. **Battle of Salher (February 1672):** Historic open-field cavalry battle in which Maratha commanders **Moro Pant Pingle** and **Prataprao Gujar** decisively routed a 40,000-strong Mughal army, shattering the myth of Mughal tactical superiority.
+38. **Formal Coronation at Raigad (6 June 1674):** Anointed *Chhatrapati* according to full Vedic rites by celebrated scholar **Gaga Bhatt (Visheshwar)** of Varanasi; took the titles ***Haidava Dharmoddharak*** (Protector of Hindu Faith) and ***Kshatriya Kulavantas***; struck gold **Hon** and copper **Shivrai** coins and founded the **Rajyabhisheka Shaka** calendar.
+39. **Second Tantric Coronation (September 1674):** Following the demise of his beloved mother Jijabai eleven days after the first coronation, Shivaji underwent a second, tantric consecration ceremony officiated by ascetic priest **Nishchal Puri Goswami**.
+40. **Composition of the Ashtapradhan Council:** 1. **Peshwa** (Prime Minister), 2. **Amatya** (Finance), 3. **Waqia-Navis** (Interior/Intelligence), 4. **Shuru-Navis / Sachiv** (Royal Correspondence), 5. **Senapati / Sari-Naubat** (Armed Forces), 6. **Sumant / Dabir** (Foreign Affairs), 7. **Nyayadhish** (Chief Justice), 8. **Panditrao** (Ecclesiastical & Charity).
+41. **Military Obligation of Ashtapradhan:** A perennial UPPCS trap: with the sole exception of the **Nyayadhish** (Judge) and **Panditrao** (Priest), all the remaining six ministers of the Ashtapradhan were legally bound to lead armed military campaigns and command battalions in the field.
+42. **Kathi Land Measurement:** Replaced arbitrary estimations with exact field measurement utilizing the **Kathi** (measuring bamboo rod of 5 cubits and 5 closed fists); state revenue was fixed at 33%, later revised to 40% after abolishing 40 irregular feudal taxes (*abwabs*).
+43. **Chauth vs Sardeshmukhi Formula:** **Chauth** was 1/4th (25%) of gross revenue collected from non-Maratha territories as insurance against Maratha plundering; **Sardeshmukhi** was an additional 1/10th (10%) tribute claimed by Shivaji by virtue of his hereditary royal right as paramount chief (*Sardeshmukh*) of Maharashtra.
+44. **Bargir vs Silahdar Cavalry:** **Bargirs** were regular cavalry troopers mounted on state-owned horses and equipped directly from the imperial armory (*paga*); **Silahdars** were aristocratic freelance horsemen who maintained their own war-horses, weapons, and provisions.
+45. **Founding of the Maratha Navy:** Shivaji recognized that *'He who commands the sea commands the realm'*; built fortified naval arsenals at **Sindhudurg, Vijaydurg, and Kolaba**, commanding over 400 fighting vessels under admirals **Maynak Bhandari** and **Daryasarang**.
+46. **Torture and Martyrdom of Sambhaji (1689 CE):** Betrayed by local chieftains and captured by Muqarrab Khan at Sangameshwar; brought before Aurangzeb at Bahadurgarh; steadfastly refused conversion to Islam; endured horrific torture (eyes gouged out, tongue severed) and executed at **Tulapur** on 11 March 1689.
+47. **Siege of Jinji and Santaji-Dhanaji Heroics:** Following Sambhaji's death, younger brother **Rajaram** shifted the Maratha royal court to **Jinji (Tamil Nadu)**, holding off Mughal commander Zulfiqar Khan for eight years (1690–1698) while generals **Santaji Ghorpade** and **Dhanaji Jadhav** paralyzed Mughal supply lines across the Deccan.
+48. **Rani Tarabai's Heroic Leadership (1700–1707 CE):** Following Rajaram's death, his courageous widow **Tarabai** served as regent for her infant son Shivaji II, organizing the counter-offensive that drove imperial Mughal armies out of Maharashtra and into defensive retreat.
+49. **Baji Rao I's Hindu Pad-Padshahi:** Son of Balaji Vishwanath; legendary military genius who never lost a battle in his 20-year career (1720–1740); championed **Hindu Pad-Padshahi**; defeated Nizam-ul-Mulk at **Palkhed (1728)** using lightning cavalry speed; captured Bassein from the Portuguese (1739).
+50. **Third Battle of Panipat (14 January 1761):** Fought on Makar Sankranti between the Maratha Empire under **Sadashivrao Bhau** and Afghan invader **Ahmad Shah Abdali** allied with Najib-ud-Daulah and Shuja-ud-Daulah; over 100,000 Maratha soldiers and camp-followers massacred; ended Maratha aspirations to replace the Mughals on the Delhi throne.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+[19 Feb 1630] Birth of Shivaji Maharaj at Shivneri Fort
+   │
+[1646 CE] First military conquest: Torna Fort captured; Rajgad built
+   │
+[10 Nov 1659] Slaying of Afzal Khan at Pratapgad Fort using *Bagh Nakh*
+   │
+[Apr 1663] Daring midnight raid on Shaista Khan at Lal Mahal, Pune
+   │
+[Jan 1664] First Sack of Surat (1 crore rupees captured for Swaraj)
+   │
+[11 June 1665] Treaty of Purandar signed with Mirza Raja Jai Singh I (23 forts surrendered)
+   │
+[May–Aug 1666] Visit to Agra imperial court; house arrest and dramatic escape in sweet baskets
+   │
+[6 June 1674] Formal Coronation at Raigad Fort by Gaga Bhatt (assumed title *Chhatrapati*)
+   │
+[3 Apr 1680] Demise of Chhatrapati Shivaji Maharaj at Raigad Fort (aged 50)
+   │
+[1680–1689] Reign of Chhatrapati Sambhaji; martyred at Tulapur by Aurangzeb (1689)
+   │
+[1689–1700] Chhatrapati Rajaram shifts capital to Jinji (Tamil Nadu) during 8-year siege
+   │
+[1700–1707] Regency of Rani Tarabai; guerrilla warfare exhausts Aurangzeb in the Deccan
+   │
+[1713–1720] Balaji Vishwanath: First Peshwa; Treaty of 1719 ("Magna Carta of Maratha Dominion")
+   │
+[1720–1740] Baji Rao I: Preached *Hindu Pad-Padshahi*; Battle of Palkhed (1728); raid on Delhi (1737)
+   │
+[1740–1761] Balaji Baji Rao (Nana Saheb): Sangola Pact (1750); Maratha Empire reaches Attock (1758)
+   │
+[14 Jan 1761] Third Battle of Panipat: Marathas under Sadashivrao Bhau routed by Ahmad Shah Abdali
+```
+
+### Dynastic Evolution: Chhatrapatis to the Peshwa Confederacy
+
+| Era / Phase | Reigning Head / Leadership | Imperial Seat | Key Landmark & Events |
+|---|---|---|---|
+| **Shivaji's Swaraj (1674–1680)** | **Chhatrapati Shivaji Maharaj** | **Raigad Fort** | Ashtapradhan, Chauth & Sardeshmukhi, Kathi system, creation of navy |
+| **Sambhaji's Rule (1680–1689)** | **Chhatrapati Sambhaji** | Raigad Fort | Fought Mughals, Portuguese, Siddies; executed at Tulapur (1689) |
+| **War of Independence (1689–1707)** | **Rajaram** & **Rani Tarabai** | **Jinji** (TN) → Satara | 8-year siege of Jinji; Santaji Ghorpade & Dhanaji Jadhav guerrilla raids |
+| **First Peshwa (1713–1720)** | **Balaji Vishwanath** | Satara / Pune | Made Peshwaship hereditary; treaty with Sayyid brothers (1719) |
+| **Peshwa Baji Rao I (1720–1740)** | **Baji Rao I** (*Fighting Peshwa*) | **Pune** (Shaniwar Wada)| Won Palkhed (1728); conquered Malwa, Gujarat; Bassein from Portuguese |
+| **Nana Saheb (1740–1761)** | **Balaji Baji Rao** | Pune | Sangola Agreement (1750); peak expansion; Third Battle of Panipat (1761) |
+| **Peshwa Restoration (1761–1772)** | **Madhavrao I** | Pune | Defeated Hyder Ali, Nizam, Rohillas; brought Emperor Shah Alam II to Delhi |
+| **Regency of Nana Phadnavis** | Sawai Madhavrao | Pune | "Maratha Machiavelli"; Treaty of Salbai (1782) concluding First Anglo-Maratha War |
+| **Fall of the Peshwaship (1796–1818)**| **Baji Rao II** | Pune | Treaty of Bassein (1802); Third Anglo-Maratha War (1818); Peshwaship abolished |
+
+## 📊 Quick Reference Grid
+
+### 1. Shivaji's Ashtapradhan Council (8 Central Ministers)
+
+| Official Title | Sanskrit / Persian Equivalent | Portfolio & Core Imperial Functions | Military Command Obligation |
+|---|---|---|---|
+| **1. Peshwa** | **Mukhya Pradhan** (मुख्य प्रधान) | Prime Minister; general administration, royal welfare, signing state papers | **Yes (led armed forces)** |
+| **2. Amatya** | **Mazumdar** (मजमुआदार) | Finance and Revenue Minister; audited all state income, expenditure, accounts | **Yes (led armed forces)** |
+| **3. Waqia-Navis** | **Mantri** (मंत्री) | Home Minister and Court Chronicler; state intelligence, royal diary records | **Yes (led armed forces)** |
+| **4. Shuru-Navis** | **Sachiv / Surnis** (सचिव) | Royal Correspondence; drafted royal firmans, verified accounts of parganas | **Yes (led armed forces)** |
+| **5. Senapati** | **Sari-Naubat** (सर-ए-नौबत) | Commander-in-Chief; military recruitment, field command, discipline of army | **Yes (Supreme Commander)** |
+| **6. Sumant** | **Dabir** (दबीर) | Foreign Minister; handled foreign diplomacy, envoys, international treaties | **Yes (led armed forces)** |
+| **7. Nyayadhish** | **Chief Justice** (न्यायाधीश) | Supreme judicial arbiter for civil, criminal, and agrarian disputes | **NO (Strictly Exempt)** |
+| **8. Panditrao** | **Dhanadhyaksha** (दानाध्यक्ष) | Chief Religious Officer; charity, religious rites, penances, temple grants | **NO (Strictly Exempt)** |
+
+### 2. Maratha Military & Revenue Glossary
+
+| Term | Category | Specific Definition & Examiner Trap |
+|---|---|---|
+| **Chauth (चौथ)** | Revenue Tax | **1/4th (25%)** of the standard land revenue demanded from non-Maratha territories in exchange for protection from plunder |
+| **Sardeshmukhi (सरदेशमुखी)** | Sovereign Tribute | Additional **1/10th (10%)** tax claimed by Shivaji as hereditary paramount chief (*Sardeshmukh*) of Maharashtra |
+| **Bargir (बारगीर)** | Cavalry | Regular cavalrymen mounted on **state-owned horses** and armed from the royal treasury |
+| **Silahdar (सिलहदार)** | Cavalry | Freelance noble cavalrymen who provided and maintained **their own horses and weapons** |
+| **Mavali (मावली)** | Infantry | Fierce hill foot-soldiers from the Western Ghats (Maval region); formed the backbone of Shivaji's infantry |
+| **Kathi (काठी)** | Measurement | Standard land measurement rod comprising **5 cubits and 5 closed fists**; based on Malik Ambar's system |
+| **Mirasdars (मिरासदार)** | Agrarian Class | Hereditary peasant proprietors in Maharashtra who owned permanent land tenure rights |
+| **Gorkhi / Upari (उपरी)** | Agrarian Class | Tenant farmers with temporary, leasehold cultivation rights |
+| **Deshmukh & Deshpande** | Local Officers | Hereditary district revenue officials (Deshmukh = chief executive; Deshpande = accountant) |
+
+### 3. The Five Branches of the Maratha Confederacy
+
+| Ruling Family / Dynasty | Principal Seat / Capital | Region / Territory | Founder / Pivotal Leader |
+|---|---|---|---|
+| **1. Peshwas** | **Pune (Poona)** | Western Maharashtra | Balaji Vishwanath / Baji Rao I |
+| **2. Scindias (Shindes)** | **Gwalior** (originally Ujjain) | Malwa & Gwalior (MP) | Ranoji Scindia / **Mahadji Scindia** |
+| **3. Holkars** | **Indore** (originally Maheshwar) | Malwa (MP) | Malhar Rao Holkar / **Rani Ahilyabai Holkar** |
+| **4. Gaekwads** | **Baroda (Vadodara)** | Gujarat | Damaji Gaekwad / Pilaji Gaekwad |
+| **5. Bhonsles** | **Nagpur** | Berar & Central Provinces | Raghuji Bhonsle I (raided Bengal) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Difference | Hindi |
+|---|---|------------|-------|
 | Chauth | Sardeshmukhi | 25% protection vs extra 10% chief claim | चौथ / सरदेशमुखी |
 | Shivaji | Peshwa | Chhatrapati founder vs later de facto ruler | शिवाजी / पेशवा |
 | Bajirao I | Balaji Bajirao | Father 1720–40 vs son 1740–61 (Panipat) | बाजीराव I / बालाजी बाजीराव |
@@ -71,10 +182,32 @@ hide:
 | Sambhaji | Shahu | Executed 1689 vs released 1707, Peshwa rise | सम्भाजी / शाहू |
 | Sikh Khalsa | Chauth | 1699 Panth vs Maratha 25% levy | खालसा / चौथ |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **Shivaji's 4 Key Encounters in Exact Sequence (1659–1666):**
+   - 1659: **Afzal Khan** (Slain at Pratapgad with *Bagh Nakh*)
+   - 1663: **Shaista Khan** (Lal Mahal night raid; severed 3 fingers)
+   - 1664: **First Sack of Surat** (1 crore rupees booty)
+   - 1665: **Treaty of Purandar** (Signed with Mirza Raja Jai Singh I; 23 forts surrendered)
+   - 1666: **Agra House Arrest & Sweet-Basket Escape**
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+2. **The Ashtapradhan Military Exemption Trap:**
+   - **Exempt from War:** ONLY **Nyayadhish** (Judge) and **Panditrao** (Priest).
+   - **Compelled to Fight:** All other 6 (Peshwa, Amatya, Mantri, Sachiv, Senapati, Sumant).
+
+3. **Chauth vs Sardeshmukhi Fractions:**
+   - **Chauth** = **1/4th (25%)** (Protection fee / चौथाई).
+   - **Sardeshmukhi** = **1/10th (10%)** (Hereditary Sardeshmukh right).
+   - Total burden on raided territory = **35% (25% + 10%)**.
+
+4. **Maratha Confederacy Cities Matching:**
+   - **P**eshwa = **P**une (**P–P**)
+   - **S**cindia = **G**walior (**S–G**)
+   - **H**olkar = **I**ndore (**H–I**)
+   - **G**aekwad = **B**aroda (**G–B**)
+   - **B**honsle = **N**agpur (**B–N**)
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

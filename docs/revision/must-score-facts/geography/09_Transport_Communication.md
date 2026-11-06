@@ -7,9 +7,15 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 9 — Transport & Communication</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024–2026** | **Vadhavan Port (Maharashtra)**: Union Cabinet approved ₹76,200 cr mega all-weather greenfield deep-draft major port in Palghar district; will rank among top 10 container ports globally | 13th/14th Major Port & Sagarmala maritime infrastructure |
+| **2024–2025** | **Dedicated Freight Corridors (DFC)**: **Western DFC (1,506 km)** from Dadri (UP) to JNPT (Navi Mumbai) funded by JICA; **Eastern DFC (1,337 km)** from Sahnewal/Ludhiana (Punjab) to Sonnagar (Bihar) funded by World Bank | Industrial freight movement, logistics costs & terminal corridors |
+| **2021–2026** | **PM Gati Shakti National Master Plan**: GIS-based digital platform synchronizing multi-modal infrastructure projects across 16 Central Ministries | Integrated logistics & transport infrastructure governance |
+| **Ongoing** | **National Waterways Cargo Movement**: **NW-1 (Ganga)** operational multi-modal terminals at **Varanasi (UP)**, **Sahibganj (Jharkhand)**, and **Haldia (West Bengal)** developed under the Jal Marg Vikas Project | Inland water transport, World Bank assistance & river ports |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -64,52 +70,141 @@ hide:
 
 
 ---
+49. **National Highway 44 (NH-44)**: India's **longest National Highway (3,745 km)**; runs North–South from **Srinagar (Jammu & Kashmir) to Kanyakumari (Tamil Nadu)**; formed by merging former NH-1A, NH-1, NH-2, NH-3, NH-7, and NH-75.
+50. **North-South & East-West Corridor Intersection**: The North–South Corridor (Srinagar to Kanyakumari) and the East–West Corridor (Silchar, Assam to Porbandar, Gujarat) intersect at **Jhansi in Uttar Pradesh**.
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INDIAN TRANSPORT & COMMUNICATIONS INFRASTRUCTURE MILESTONES
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1853] ───> FIRST PASSENGER RAILWAY IN INDIA:
+  │           Train ran 34 km between Bombay (Bori Bunder) and Thane; 14 carriages pulled by 3 locomotives
+  │           (*Sultan*, *Sindh*, *Sahib*); Great Indian Peninsula Railway (GIPR).
+  │
+  ▼
+  [1911] ───> WORLD'S FIRST COMMERCIAL AIRMAIL FLIGHT:
+  │           Henri Pequet flew 10 km from Allahabad (Prayagraj) polo grounds to Naini across the Yamuna.
+  │
+  ▼
+  [1986] ───> INLAND WATERWAYS AUTHORITY OF INDIA (IWAI) ESTABLISHED at Noida (UP);
+  │           National Waterway 1 (Ganga: Prayagraj to Haldia, 1620 km) declared India's first NW.
+  │
+  ▼
+  [1989] ───> NATIONAL HIGHWAYS AUTHORITY OF INDIA (NHAI) OPERATIONALIZED:
+  │           Apex statutory body under MoRTH responsible for development and maintenance of National Highways.
+  │
+  ▼
+  [1999-2001] GOLDEN QUADRILATERAL (GQ) & CORRIDORS LAUNCHED:
+  │           5,846 km 4/6-lane highway connecting Delhi, Mumbai, Chennai, Kolkata; NS-EW corridors intersecting at Jhansi.
+  │
+  ▼
+  [2006] ───> DEDICATED FREIGHT CORRIDOR CORPORATION OF INDIA (DFCCIL) INCORPORATED:
+  │           Setup under Ministry of Railways to construct Western and Eastern DFCs.
+  │
+  ▼
+  [2015] ───> SAGARMALA & BHARATMALA PARIYOJANA LAUNCHED:
+  │           Port-led development (Sagarmala) and economic highway corridor optimization (Bharatmala).
+  │
+  ▼
+  [2016] ───> NATIONAL WATERWAYS ACT, 2016:
+  │           111 inland waterways declared as National Waterways across 24 States.
+  │
+  ▼
+  [2021] ───> PM GATI SHAKTI NATIONAL MASTER PLAN:
+  │           Multi-modal connectivity master plan unifying 16 Central infrastructure ministries.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Core National Waterways of India (NW-1 to NW-5)
+
+| Waterway | River / Canal System | Route & Terminals | Length | States Traversed | Key High-Yield Prelims Features |
+|---|---|---|---|---|---|
+| **NW-1** | **Ganga–Bhagirathi–Hooghly** | **Prayagraj (UP) to Haldia (WB)** | **1,620 km (#1 Longest)** | UP, Bihar, Jharkhand, West Bengal | Declared in 1986; Jal Marg Vikas Project (World Bank assistance); multi-modal terminals at **Varanasi, Sahibganj, Haldia**; navigational lock at Farakka |
+| **NW-2** | **Brahmaputra River** | **Sadiya to Dhubri (Assam)** | 891 km | Assam, West Bengal, Arunachal, Meghalaya | Declared in 1988; connects Pandu (Guwahati) port; vital trade corridor to Bangladesh |
+| **NW-3** | **West Coast Canal** + Champakara & Udyogmandal canals | **Kottapuram to Kollam (Kerala)** | 205 km | Kerala | Declared in 1993; India's **first national waterway with 24-hour navigation** along its entire stretch |
+| **NW-4** | **Krishna–Godavari rivers** + Buckingham Canal | **Kakinada to Puducherry** | 1,078 km | Andhra Pradesh, Tamil Nadu, Puducherry | Integrated canal-river system connecting Machilipatnam, Kakinada, and Chennai |
+| **NW-5** | **Brahmani River** + East Coast Canal + Matai river | **Talcher to Dhamra / Geonkhali** | 623 km | Odisha and West Bengal | Facilitates heavy coal movement from Talcher coalfield to Paradip and Dhamra ports |
+
+### 2. Major Sea Ports of India (13 Major Ports Master Table)
+
+| Port Name | Coastal Location | State / UT | Port Type / Harbou | Key Commercial Specialization & Prelims Distinction |
+|---|---|---|---|---|
+| **Deendayal Port (Kandla)** | Gulf of Kutch | **Gujarat** | Tidal Port, Natural Protected | Constructed post-1947 to compensate for the loss of Karachi; **India's first Special Economic Zone (SEZ)**; major crude import hub |
+| **Mumbai Port** | Arabian Sea | **Maharashtra** | Natural Deepwater Harbour | **Largest natural port in India by size and traffic volume**; historically handles massive dry cargo; sheltered by Salsette Island |
+| **Jawaharlal Nehru Port (JNPT / Nhava Sheva)** | Konkan Coast (Navi Mumbai) | **Maharashtra** | Artificial Deepwater | **Largest container handling port in India** (>50% of national container traffic); fully mechanized |
+| **Mormugao Port** | Zuari River Estuary | **Goa** | Natural Estuarine Harbour | Premier iron ore exporting port; handles iron ore from Goa and Bellary-Hospet (Karnataka) |
+| **New Mangalore Port** | Arabian Sea Coast | **Karnataka** | Deepwater Artificial | Primary outlet for **Kudremukh iron ore concentrate**; handles coffee, cashew, and POL imports |
+| **Cochin Port** | Vembanad Lake (Willingdon Island) | **Kerala** | Natural Estuarine Lagoon | Natural harbour protected by spit headlands; major shipyard; International Container Transshipment Terminal (ICTT) at Vallarpadam |
+| **V.O. Chidambaranar (Tuticorin)** | Gulf of Mannar | **Tamil Nadu** | Artificial Deepwater Harbour | Southernmost major port on east coast; handles pearl fisheries, coal imports, and trade with Sri Lanka |
+| **Chennai Port** | Coromandel Coast | **Tamil Nadu** | **Oldest Artificial Harbour** (1881) | Second-busiest container port; prone to cyclones; protected by artificial breakwaters |
+| **Kamarajar Port (Ennore)** | Coromandel Coast (North of Chennai) | **Tamil Nadu** | Corporatized Dedicated Port | **India's first corporatized major port** (registered as a public company under Companies Act); dedicated thermal coal import hub |
+| **Visakhapatnam Port** | Northern Circars Coast | **Andhra Pradesh** | **Deepest Natural Landlocked Port** | Protected by a natural promontory called **Dolphin's Nose** rock; outer harbour handles giant Capesize iron ore carriers for Japan |
+| **Paradip Port** | Mahanadi Delta | **Odisha** | Deepwater Artificial Lagoon | First major port on east coast commissioned post-independence (1966); principal iron ore exporter from Odisha/Jharkhand |
+| **Syama Prasad Mookerjee (Kolkata–Haldia)** | Hugli River | **West Bengal** | **Only Major Riverine Port** in India | 203 km inland from sea; subject to tidal bores and heavy river siltation; twin dock systems: Kolkata docks and deepwater Haldia dock |
+| **Port Blair** | Andaman Sea | **Andaman & Nicobar** | Island Natural Harbour | Declared 13th Major Port in 2010; strategic naval and maritime surveillance hub |
+
+### 3. Dedicated Freight Corridors (DFCs)
+
+| Parameter | Western Dedicated Freight Corridor (WDFC) | Eastern Dedicated Freight Corridor (EDFC) |
+|---|---|---|
+| **Route Terminals** | **Dadri (Uttar Pradesh) to JNPT / Navi Mumbai (Maharashtra)** | **Sahnewal / Ludhiana (Punjab) to Dankuni (West Bengal)** |
+| **Total Route Length** | **1,506 km** | **1,337 km** (Sonnagar–Dankuni section under PPP) |
+| **States Traversed** | UP, Haryana, Rajasthan, Gujarat, Maharashtra | Punjab, Haryana, UP, Bihar, Jharkhand, West Bengal |
+| **International Funder** | **JICA (Japan International Cooperation Agency)** | **World Bank (IBRD)** |
+| **Primary Freight Handled** | Double-stack container trains, automobiles, petroleum, chemicals | Bulk thermal coal for northern power plants, finished steel, cement, foodgrains |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Major Ports** | **Non-Major (Minor) Ports** | Administered directly by the **Central Government** (Major Port Authorities Act, 2021; Union List) vs Administered by respective **State Maritime Boards** (Concurrent List) | प्रमुख बंदरगाह (केंद्र) / गैर-प्रमुख (राज्य) |
+| **Mumbai Port** | **JNPT (Nhava Sheva)** | Historic **largest natural general cargo port** of India on Mumbai island vs Modern **largest container handling port** of India on mainland Navi Mumbai | मुंबई पोर्ट / जेएनपीटी |
+| **Kolkata Port (SMPT)** | **Chennai Port** | India's only **riverine port** situated 203 km inland on Hugli River vs India's oldest **artificial harbour** built on the open Coromandel coast | कोलकाता (नदीय) / चेन्नई (कृत्रिम) |
+| **Kandla (Deendayal)** | **Paradip** | **Tidal port in Gulf of Kutch (Gujarat)** on west coast vs **Deepwater iron-exporting port in Mahanadi delta (Odisha)** on east coast | कांडला (ज्वारीय) / पारादीप |
+| **Western DFC** | **Eastern DFC** | Runs **Dadri (UP) to JNPT (Mumbai)**; funded by **JICA (Japan)** vs Runs **Ludhiana (Punjab) to Dankuni (WB)**; funded by **World Bank** | पश्चिमी डीएफसी (जापान) / पूर्वी डीएफसी (विश्व बैंक) |
+| **Ennore (Kamarajar)** | **Tuticorin (V.O.C.)** | India's first **corporatized major port company** north of Chennai vs Historic **pearl fishing harbour** in southern Tamil Nadu | एन्नोर (निगमित) / तूतीकोरिन |
+| **North-South Corridor** | **East-West Corridor** | Connects **Srinagar (J&K) to Kanyakumari (TN)** vs Connects **Silchar (Assam) to Porbandar (Gujarat)**; intersect at **Jhansi (UP)** | उत्तर-दक्षिण / पूर्व-पश्चिम गलियारा |
+| **National Waterway 1** | **National Waterway 2** | **Ganga River** from Prayagraj to Haldia (1,620 km, longest) vs **Brahmaputra River** from Sadiya to Dhubri (891 km) | राष्ट्रीय जलमार्ग 1 / राष्ट्रीय जलमार्ग 2 |
 
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **13 Oct 2021** | **PM Gati Shakti** National Master Plan launched (not 2022) | Year trap with seven engines |
-| **17 Sep 2022** | **National Logistics Policy** — complements Gati Shakti | Scheme pair |
-| **Feb 2023** | Amrit Bharat: about **1,275** stations all-India; **149** of them in UP for modernisation | 149 = UP stations, not new lines |
-| **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | RVNL + first vertical-lift fact |
-| **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa (गोवा)) | New airline + airport pair |
-| **2024–26** | **Noida International (Jewar)** — UP’s new greenfield intl hub | UP airport CA |
-| **DFC** | Western Dadri (ददरी)–JNPT / Eastern Ludhiana–Dankuni — phased opening | Freight spine |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. West Coast vs East Coast Major Ports:
+- **West Coast Ports (North to South)**: **K-M-J-M-M-C**
+  - **K**andla (Gujarat)
+  - **M**umbai (Maharashtra)
+  - **J**NPT (Maharashtra)
+  - **M**ormugao (Goa)
+  - **M**angalore (Karnataka)
+  - **C**ochin (Kerala)
 
-### Confused pairs
+- **East Coast Ports (South to North)**: **T-C-E-V-P-K**
+  - **T**uticorin (Tamil Nadu)
+  - **C**hennai (Tamil Nadu)
+  - **E**nnore (Tamil Nadu)
+  - **V**isakhapatnam (Andhra Pradesh)
+  - **P**aradip (Odisha)
+  - **K**olkata–Haldia (West Bengal)
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| NER HQ | **Gorakhpur** | Hajipur | गोरखपुर |
-| SER HQ | **Garden Reach, Kolkata** | Cuttack | कटक नहीं |
-| ECR HQ | **Hajipur** | Gorakhpur | हाजीपुर |
-| Amrit Bharat | Station **modernisation**; UP **149 stations** (Feb 2023) | 149 new railway lines | 149 स्टेशन |
-| Bharatmala | **Highways** | Ports | सड़क |
-| Sagarmala | **Port-led** | Highways | पत्तन |
-| Gati Shakti year | **2021** | 2022 | 2021 |
-| Purvanchal (built) | **Passes Mau**; not Basti | Blind 2018 “not Mau” as today’s map | मऊ हाँ |
-| Atal Tunnel | **Pir Panjal** | “World’s longest highway” | पीर पंजाल |
-| Igarka | **Russia** | China | रूस |
-| NW-1 | **Ganga** | Brahmaputra | गंगा |
-| NW-3 | **Kerala canal** | Ganga | केरल |
-| Harbour vs port | Shelter vs shelter+facilities | Same thing | पोताश्रय ≠ पत्तन |
-| Fibre | **TIR** | Refraction | पूर्ण आंतरिक परावर्तन |
-| Motihari pipe | **Amlekhganj** | Kathmandu | अमलेखगंज |
-| Solar airport | **Cochin** | Delhi / Ahmedabad | कोच्चि |
-| Paradip | **Odisha** | AP / WB | पारादीप = ओडिशा |
-| Alappuzha | **Kerala** | TN | आलप्पुझा |
-| NH vs rural roads | NH ~**2%** length but ~**40%** traffic | Think NH = most km | राष्ट्रीय राजमार्ग |
-| Silchar spelling | EW corridor = **Silchar / Silcher** Assam | Mix with Shillong | सिलचर |
+### 2. DFC Terminals & Funders:
+- **Western DFC**: **Dadri to JNPT** | Funder = **Japan (JICA)**
+- **Eastern DFC**: **Ludhiana to Dankuni** | Funder = **World Bank**
 
+### 3. Highway Crossroads of India:
+- **North-South & East-West Corridors INTERSECT AT**: **JHANSI (UTTAR PRADESH)**!
 
----
+### 4. Port Distinctions Lock:
+- **Only Riverine Major Port** = **Kolkata** (Hugli)
+- **Deepest Landlocked Natural Port** = **Visakhapatnam** (Dolphin's Nose)
+- **First Corporatized Port** = **Ennore / Kamarajar**
+- **Largest Container Port** = **JNPT / Nhava Sheva**
+- **First Special Economic Zone Port** = **Kandla / Deendayal**
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

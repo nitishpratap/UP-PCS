@@ -7,9 +7,19 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 8 — Minerals, Energy & Industry</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023** | **Lithium (Li) inferred resources (~5.9 MT)** discovered in Salal-Haimana area, **Reasi district (Jammu & Kashmir)**; India 100% import-dependent for Li, Ni, Co | Critical energy transition minerals; PYQ 2023 trap |
+| **2023** | Ministry of Mines released list of **24 Critical & Strategic Minerals** (including Li, REE, Co, Ni, Graphite, Titanium, Platinum group) | Schedule 1 of MMDR Amendment Act 2023 |
+| **2023–2026** | **National Critical Minerals Mission** launched; multiple tranches of offshore and onshore critical mineral blocks auctioned | Resource security & auction regime policy |
+| **2015 / 2025** | **International Solar Alliance (ISA)**: Founded jointly by India & France (COP21 Paris); HQ at **Gurugram, Haryana**; initiatives include **OSOWOG** (*One Sun One World One Grid*) | Global headquarters in India; membership >120 countries |
+| **Jan 2026** | USA announced intention to withdraw from ISA; ISA functions with 120+ member nations | Member-count & multilateral treaty trap |
+| **2018 / 2020** | 75 MW Solar Power Plant inaugurated at **Mirzapur (UP)** with French partnership | UP state specific clean energy PYQ |
+| **2024–2025** | **Dedicated Freight Corridors (DFC)**: **Western DFC (1,506 km)** Dadri (UP) to JNPT (Navi Mumbai); **Eastern DFC (1,337 km)** Ludhiana (Punjab) to Sonnagar (Bihar) / Dankuni | Logistics, mineral movement & industrial freight |
+| **2024** | **Kakrapar Unit-4 (Gujarat)** achieved full commercial operation — 700 MWe indigenous Pressurized Heavy Water Reactor (PHWR) | Nuclear energy expansion milestones |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -64,74 +74,157 @@ hide:
 
 
 ---
+49. **Critical Minerals List (2023)**: The Mines and Minerals (Development and Regulation) Amendment Act, 2023 empowered the Central Government to auction **24 critical and strategic minerals** including Lithium, Cobalt, Nickel, and Rare Earth Elements (REEs) to secure supply chains for electric vehicles and renewable energy.
+50. **Singrauli vs Singareni (Examiner Trap)**: **Singrauli Coalfield** lies in **Madhya Pradesh and Sonbhadra (Uttar Pradesh)** and is the energy capital feeding NTPC's super thermal plants; **Singareni Collieries Company Limited (SCCL)** operates in the **Godavari Valley of Telangana** (jointly owned by Telangana Govt and GoI).
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INDIAN INDUSTRIAL & MINERAL POLICY MILESTONES (1948 - PRESENT)
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1948] ───> INDUSTRIAL POLICY RESOLUTION (IPR) 1948:
+  │           Introduced mixed economy model; state monopoly over atomic energy, railways, arms.
+  │
+  ▼
+  [1956] ───> INDUSTRIAL POLICY RESOLUTION (IPR) 1956 (Mahalanobis Model):
+  │           "Economic Constitution of India"; created Schedule A (public sector monopoly),
+  │           Schedule B, and Schedule C; established heavy capital goods industries (Bhilai, Rourkela, Durgapur).
+  │
+  ▼
+  [1957] ───> MINES AND MINERALS (DEVELOPMENT AND REGULATION) ACT (MMDR ACT), 1957:
+  │           Basic legislative framework governing mineral concessions in India.
+  │
+  ▼
+  [1973] ───> STEEL AUTHORITY OF INDIA LIMITED (SAIL) incorporated to manage integrated steel plants.
+  │
+  ▼
+  [1975] ───> COAL INDIA LIMITED (CIL) established following nationalization of coking & non-coking coal mines.
+  │
+  ▼
+  [1991] ───> NEW INDUSTRIAL POLICY (NIP) 1991:
+  │           Abolished industrial licensing (License Raj) for all except 18 industries (now reduced to 4);
+  │           opened public sector areas to private investment (LPG reforms).
+  │
+  ▼
+  [2015] ───> MMDR AMENDMENT ACT 2015:
+  │           Mandated transparent competitive e-auctions for mineral concessions;
+  │           established District Mineral Foundations (DMF) and National Mineral Exploration Trust (NMET).
+  │
+  ▼
+  [2019] ───> NATIONAL MINERAL POLICY 2019:
+  │           Focus on transparency, regulatory ease, private sector participation in exploration.
+  │
+  ▼
+  [2023] ───> MMDR AMENDMENT ACT 2023:
+  │           Delisted 6 atomic minerals (including lithium and titanium) to allow private mining;
+  │           introduced Exploration Licences (EL) for deep-seated and critical minerals.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Metallic Minerals: Leading States & World-Famous Mines
+
+| Mineral | Leading Producing State | Major Reserve States | Famous Mines / Belts | Special Prelims Facts |
+|---|---|---|---|---|
+| **Iron Ore** | **Odisha** (>50%) | Odisha, Chhattisgarh, Karnataka, Jharkhand | **Bailadila** (Dantewada, CG - high-grade hematite exported to Japan via Visakhapatnam); **Gurumahisani, Badampahar** (Mayurbhanj, OD); **Kiriburu, Noamundi** (Singhbhum, JH); **Kudremukh, Bababudan, Sandur** (Bellary, KT) | Hematite (60–70% Fe) constitutes 80% of reserves; Magnetite (72% Fe) found in Dharwar & Kudremukh |
+| **Bauxite (Aluminium)** | **Odisha** (>65%) | Odisha, Andhra Pradesh, Gujarat, Chhattisgarh | **Panchpatmali** (Koraput, OD - largest bauxite deposit in India); **Kalahandi, Rayagada** (OD); **Lohardaga** (JH); **Amarkantak Plateau** (CG/MP) | Weathering product of laterite rocks in tropical climate; Renukoot plant (UP) fed from Lohardaga/CG |
+| **Manganese** | **Madhya Pradesh** | MP, Maharashtra, Odisha | **Balaghat** (MP - Bharveli mine, deepest underground Mn mine in Asia); **Bhandara, Nagpur** (MH); **Sundargarh, Keonjhar** (OD) | Essential for steel smelting (10 kg Mn per 1 ton steel); Dharwar system rocks |
+| **Copper** | **Madhya Pradesh** | Rajasthan (largest reserves), MP, Jharkhand | **Malanjkhand** (Balaghat, MP - largest open-cast copper mine); **Khetri, Chandmari, Kho-Dariba** (Jhunjhunu/Alwar, RJ); **Mosabani, Rakha** (Singhbhum, JH) | India imports >90% of copper needs; Hindustan Copper Ltd (HCL) is sole public miner |
+| **Lead & Zinc** | **Rajasthan** (~100%) | Rajasthan, Andhra Pradesh | **Zawar Mines** (Udaipur, RJ); **Rampura-Agucha** (Bhilwara, RJ - world's largest zinc deposit); **Rajpura-Dariba** (Rajsamand, RJ) | Found together as galena (PbS) and sphalerite (ZnS) in Pre-Cambrian Aravalli formations |
+| **Gold** | **Karnataka** (>95%) | Karnataka, Andhra Pradesh, Jharkhand | **Hutti Gold Mines** (Raichur, KT - only active major primary gold mine); **Kolar Gold Fields** (KGF, closed); **Ramagiri** (Anantapur, AP) | Placer gold in Subarnarekha river sands ("Gold-streaked river") in Jharkhand |
+| **Chromite** | **Odisha** (>95%) | Odisha, Manipur, Nagaland | **Sukinda Valley** (Jajpur district, OD - holds 98% of India's chromite reserves) | Crucial for stainless steel and refractory manufacturing |
+
+### 2. Energy Minerals: Coal & Petroleum
+
+| Category | Sub-Type / Basin | Leading States / Basins | Key Fields / Mines | Key Prelims Distinctions |
+|---|---|---|---|---|
+| **Coal** | **Gondwana Coal** (~98% of reserves) | **Jharkhand** (largest reserves), **Odisha** (highest production), Chhattisgarh, West Bengal, MP | **Jharia** (Dhanbad, JH - only prime coking coal field); **Raniganj** (WB - oldest coalfield, 1774); **Bokaro, Giridih, Karanpura** (JH); **Talcher** (OD); **Korba** (CG); **Singrauli** (MP/UP) | Bituminous, non-coking, low sulphur, high ash content (35–45%); formed 250 Ma |
+| | **Tertiary Coal** (~2% of reserves) | Assam, Meghalaya, Arunachal Pradesh, J&K | **Makum, Nazira** (Assam); **Cherrapunji, Daranggiri** (Meghalaya); **Kalakot** (J&K) | High sulphur, low ash; rat-hole mining in Meghalaya |
+| | **Lignite (Brown Coal)** | **Tamil Nadu** (>80% reserves & production) | **Neyveli** (Cuddalore district, TN); **Palana** (Bikaner, RJ); **Umarsar** (Gujarat) | High moisture, used in Neyveli thermal power complex |
+| **Petroleum** | **Offshore Fields** (~50% crude) | Mumbai Offshore, Krishna-Godavari | **Mumbai High** (discovered 1974 by *Sagar Samrat*, 176 km off Mumbai); **Bassein** (gas) | Operated by ONGC; continental shelf of Arabian Sea |
+| | **Onshore Fields** (~50% crude) | **Rajasthan** (Barmer - Cairn/Vedanta), **Gujarat** (Ankleshwar, Cambay), **Assam** (Brahmaputra) | **Mangala, Bhagyam, Aishwarya** (Barmer, RJ); **Ankleshwar** ("Fountain of Prosperity"), Kalol, Mehsana (GJ); **Digboi** (oldest operational oilfield & refinery, 1901), Naharkatiya, Moran-Hugrijan (Assam) | Jamnagar Refinery (Reliance, Gujarat) is world's largest single-location refinery complex |
+
+### 3. Nuclear Power Stations of India
+
+| Power Station | Location & District | State | Reactor Type | International Collaborator / Key Feature |
+|---|---|---|---|---|
+| **Tarapur** | Palghar district | **Maharashtra** | BWR / PHWR | **India's first commercial nuclear plant (1969)**; built with GE (USA) |
+| **Rawatbhata (RAPS)** | Chittorgarh (Chambal River) | **Rajasthan** | PHWR (CANDU type) | Built in collaboration with Canada |
+| **Kudankulam** | Tirunelveli district | **Tamil Nadu** | VVER-1000 (PWR) | **Largest nuclear power capacity in India** (2 x 1000 MW operational); built with Russia |
+| **Kalpakkam (MAPS)** | Chengalpattu district | **Tamil Nadu** | PHWR & PFBR | Completely indigenous; Prototype Fast Breeder Reactor (PFBR, 500 MWe) |
+| **Narora (NAPS)** | Bulandshahr (Ganga River) | **Uttar Pradesh** | PHWR (2 x 220 MW) | **Only operating nuclear power station in Uttar Pradesh**; seismic zone IV |
+| **Kakrapar (KAPS)** | Surat / Tapi district | **Gujarat** | PHWR | Unit-3 & Unit-4 are 700 MWe largest indigenous PHWRs |
+| **Kaiga** | Uttara Kannada (Kali River) | **Karnataka** | PHWR (4 x 220 MW) | Set world record for longest continuous operation (962 days) |
+| **Gorakhpur (GHAVP)** | Fatehabad district | **Haryana** | PHWR (under construction) | Northern India's new nuclear power project |
+
+### 4. Mineral & Industrial Hubs of Uttar Pradesh
+
+| District | Mineral / Industrial Specialization | Key Units / Complexes | Raw Material Source / Distinctions |
+|---|---|---|---|
+| **Sonbhadra** | Coal, limestone, bauxite, chemical, power | Singrauli coalfield, NTPC Shaktinagar/Rihand, Obra TPS | "Energy Capital of India"; Rihand Reservoir (Govind Ballabh Pant Sagar) |
+| **Renukoot (Sonbhadra)** | Aluminium smelting | **HINDALCO** (Aditya Birla Group) | Bauxite from Lohardaga (Jharkhand) & Amarkantak; power from Rihand Dam |
+| **Prayagraj (Shankargarh)** | Silica Sand / Glass Sand | Glass manufacturing units | Shankargarh is India's leading producer of silica sand for glassworks |
+| **Mirzapur / Chunar** | Limestone, cement, sandstone, carpets | Churk & Chunar Cement Plants | Vindhyan limestone formation; hand-knotted Mirzapur-Bhadohi carpets (GI Tag) |
+| **Lalitpur** | Iron ore (banded magnetite), uranium, rock phosphate | Sonrai area | Minor occurrences of uranium in Bijawar rock formations |
+| **Firozabad** | Glass bangles and glassware | Small scale glass furnaces | "Suhagnagari" / City of Bangles; uses gas from HBJ pipeline |
+| **Kanpur** | Leather tanning, cotton textiles, footwear | Tannery clusters on Ganga bank | "Manchester of North India"; historical textile hub |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Singrauli** | **Singareni** | Coalfield in **MP and Sonbhadra (UP)** feeding NTPC plants vs Coalfield in **Godavari Valley (Telangana)** run by SCCL | सिंगरौली / सिंगरेनी |
+| **Bailadila** | **Gurumahisani** | World-class hematite iron mine in **Dantewada (Chhattisgarh)** vs iron mine in **Mayurbhanj (Odisha)** | बैलाडिला / गुरुमहिषानी |
+| **MALCO** | **HINDALCO** | Aluminium plant at **Mettur (Tamil Nadu)** vs Aluminium plant at **Renukoot, Sonbhadra (Uttar Pradesh)** | मालको / हिंडाल्को |
+| **BALCO** | **NALCO** | Aluminium plant at **Korba (Chhattisgarh)** vs Aluminium complex at **Angul & Damanjodi (Odisha)** | बाल्को / नाल्को |
+| **Anthracite Coal** | **Lignite Coal** | Hardest coal with >85% carbon & lowest moisture (J&K) vs lowest-grade brown coal with 35–45% carbon & high moisture (Neyveli, TN) | एन्थ्रेसाइट / लिग्नाइट |
+| **Coking Coal** | **Non-Coking Coal** | Essential for blast furnace iron smelting; concentrated in **Jharia (Jharkhand)** vs used for thermal power generation across India | कोकिंग / गैर-कोकिंग कोयला |
+| **CNG (Compressed Natural Gas)** | **LPG (Liquefied Petroleum Gas)** | Composed predominantly of **Methane (CH4)** vs mixture of **Propane and Butane (C3H8 + C4H10)** | सीएनजी / एलपीजी |
+| **Conventional Energy** | **Non-Conventional Energy** | Exhaustible fossil & fissile sources (Coal, Petroleum, Natural Gas, Nuclear) vs renewable replenishment sources (Solar, Wind, Geothermal, Biogas, Tidal) | पारंपरिक / गैर-पारंपरिक ऊर्जा |
+| **Kolar & Hutti** | **Zawar & Rampura-Agucha** | Famous **Gold mines** in Karnataka vs famous **Lead-Zinc-Silver mines** in Rajasthan | कोलार-हट्टी / जावर-रामपुरा |
+| **Panchpatmali** | **Khetri** | India's largest **Bauxite deposit** in Koraput (Odisha) vs famous ancient **Copper mining belt** in Jhunjhunu (Rajasthan) | पंचपतमाली / खेतड़ी |
+| **Digboi** | **Mumbai High** | Oldest oilfield and refinery in India (1901, Assam) vs largest offshore oilfield in India (1974, Arabian Sea) | डिगबोई / बॉम्बे हाई |
+| **Black Revolution** | **Yellow Revolution** | Petroleum and crude oil production enhancement vs Oilseeds production enhancement (Mustard, Sunflower) | कृष्ण क्रांति / पीली क्रांति |
+| **Mangalore–Kanpur Line** | **Mineral Distribution** | Over **90% of India's metallic minerals lie EAST of this diagonal line**; the area west is mostly devoid of major metallic reserves | मंगलुरु-कानपुर रेखा |
+| **Western DFC** | **Eastern DFC** | Dadri (UP) to **JNPT Navi Mumbai** (1,506 km) vs Ludhiana (Punjab) to **Dankuni (West Bengal)** (1,337 km) | पश्चिमी / पूर्वी डीएफसी |
+| **Jaduguda** | **Tummalapalle** | Oldest and premier **Uranium mine** in Singhbhum (Jharkhand) vs massive newly discovered **Uranium deposit** in YSR Kadapa (Andhra Pradesh) | जादूगोड़ा / तुम्मलापल्ले |
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2023** | Li inferred resources **Reasi, J&K**; India import-dependent for **Li, Ni, Co** | Frozen 2023 Q77 | MoM / PYQ |
-| **2023** | Union list (संघ सूची) of **24 critical minerals** (Li, Ni, Co, REE, graphite, etc.) | Scheme/list trap | Ministry of Mines |
-| **2023–26** | **Critical Minerals Mission** + auction of critical-mineral blocks | Living CA | PIB / MoM |
-| **2015 / 2025** | **ISA**: India+France, HQ **Gurugram**; **not 38 members**; **OSOWOG** under ISA | 2019 Q63 + 2025 Q109 | ISA / MEA |
-| **Jan 2026** | US announced withdrawal from ISA; ISA continues with **120+** members | Member-count trap | MEA / ET |
-| **2018** | Major solar plant **Mirzapur (मिर्ज़ापुर) (UP)** with **France** | UP energy PYQ | 2020 Q46 |
-| **DFC** | **Western** Dadri (ददरी)–JNPT; **Eastern** Ludhiana–Dankuni — phased commissioning | Corridor syllabus | DFCCIL |
-| **Nuclear** | Kakrapar / Kudankulam expansion; **Narora = only UP** plant | Plant–state | NPCIL |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Coal Ranks from Lowest to Highest: **P-L-B-A**
+- **P**eat (<40% Carbon, high moisture, smoky flame)
+- **L**ignite (40–55% Carbon, brown coal, Neyveli-TN)
+- **B**ituminous (60–80% Carbon, commercial Gondwana coal of India)
+- **A**nthracite (>85% Carbon, hardest, blue flame, high calorific value, J&K)
+- *(Mnemonic: **P**lease **L**earn **B**etter **A**lways)*
 
-### Confused pairs
+### 2. Operational Nuclear Power Stations of India: **T-R-K-K-K-N-K**
+- **T**arapur (Maharashtra — oldest)
+- **R**awatbhata (Rajasthan — Canadian CANDU)
+- **K**udankulam (Tamil Nadu — highest capacity, Russian VVER)
+- **K**aiga (Karnataka — Kali river)
+- **K**alpakkam (Tamil Nadu — indigenous, PFBR)
+- **N**arora (Uttar Pradesh — only one in UP)
+- **K**akrapar (Gujarat — Surat/Tapi, largest indigenous 700 MW PHWR)
+- *(Mnemonic: **T**wo **R**oyal **K**ings **K**ept **K**nights **N**ear **K**ila)*
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Iron leaders | **OD + CG** (2021–22 report) | JH+KA always lead | ओडिशा+छत्तीसगढ़ |
-| Bailadila | **Chhattisgarh** | Odisha | बैलाडीला = CG |
-| Noamundi | **Jharkhand** | Odisha | नोआमुंडी = JH |
-| Kudremukh | **Karnataka** (magnetite) | Odisha | कुद्रेमुख = KA |
-| Mount Newman | **Iron** | Manganese | लौह अयस्क |
-| Postmasburg | **Manganese (SA)** | U/mica | मैंगनीज |
-| MALCO | **Mettur, TN** | Chennai | मेट्टूर |
-| Khetri | **Copper, RJ** | Gold | खेतड़ी = तांबा |
-| Panna | **Diamond, MP** | Gold | पन्ना = हीरा |
-| Sukinda | **Chromite, OD** | Bauxite | सुकिंदा = क्रोमाइट |
-| Zawar | **Zn–Pb, RJ** | Copper | जावर = जस्ता |
-| Jaduguda | **Uranium, JH** | Thorium sands | जादूगुड़ा = यूरेनियम |
-| Maolong | **Meghalaya** | Arunachal | मेघालय कोयला |
-| Singrauli | **MP–UP**; oldest NTPC | Northern CG | सिंगरौली ≠ CG |
-| Ruhr | **Germany** | Britain/France | रुहर = जर्मनी |
-| Kashagan | **Kazakhstan** | Kuwait | कशागन = कजाख |
-| CNG | **Methane** | Butane | मीथेन |
-| Black Revolution | **Petroleum** | Oilseeds (Yellow) | काला = पेट्रोलियम |
-| Shivanasamudra | **Hydel** | Nuclear | शिवणसमुद्र = जल |
-| Kalpakkam | **Nuclear** | Hydel | कल्पक्कम = परमाणु |
-| Ahmedabad mills | In cotton **belt**; not traditionally **largest** centre | Largest = Mumbai | मुंबई कपड़ा केंद्र |
-| Magnesite vs Mn | Magnesite = MgCO₃ refractory | Manganese metal | मैग्नेसाइट ≠ मैंगनीज |
-| Neyveli | **Lignite, TN** | Gondwana bituminous | नेयवेली = लिग्नाइट |
-| ISA HQ | **Gurugram** | New Delhi / Paris | गुरुग्राम |
-| LPG | Propane/butane mix | CNG = methane | एलपीजी ≠ सीएनजी |
-| Bhilwara | Mica + Rampura-Agucha **Zn** | Manganese city (2020) | भीलवाड़ा ≠ Mn |
-| Bhilai steel | **Chhattisgarh** | Odisha | भिलाई = CG |
-| Firozabad | **Glass** | Brass (that is Moradabad) | फिरोजाबाद = कांच |
-| Pegu Yoma | **Mineral oil** (Myanmar) | Tin (that is Kinta / Bangka) | पेगू योमा = तेल |
-| Mangalore–Kanpur line | Most minerals **east** of line | Think west-rich | मंगलुरु–कानपुर रेखा |
-| Northern plains minerals | Almost **devoid** of economic minerals | Treat Ganga plain as ore belt | मैदान ≈ खाली |
-| Non-ferrous endowment | **Poor except bauxite** | India rich in all non-ferrous | बॉक्साइट अपवाद |
-| Magnetite vs hematite | Magnetite ~**70%** Fe; hematite most **used** | Swap grades / uses | मैग्नेटाइट ≠ हेमेटाइट मात्रा |
-| Chota Nagpur vs Aravalli | Chota Nagpur = richest multi-mineral | Call Aravalli richest | छोटानागपुर = समृद्ध |
-| Mica belt | **Koderma–Gaya–Hazaribagh** + Nellore + Ajmer | Only “Kodarma town” as if exclusive | कोडरमा–गया–हजारीबाग |
-| Chitradurga | **Iron** (Ballari–Chitradurga belt, KA) | Copper city (2020 trap) | चित्रदुर्ग = लौह |
-| Guntur | **Not** an iron-ore mining centre | List with Ballari / Bailadila as iron | गुंटूर ≠ लौह |
-| Coal rank % | Peat **<40** → lignite **40–55** → bituminous **60–80** → anthracite **80–95** | Swap % or skip homes | कार्बन % सीढ़ी |
-| Anthracite India | Scarce; **J&K** pockets | Call it India’s bulk coal | एन्थ्रेसाइट ≠ मुख्य |
-| Lignite home | **Neyveli (TN)** (+ RJ / GJ) | Call Neyveli bituminous Gondwana | नेयवेली = लिग्नाइट |
-| Bituminous share | ~**80%** deposits; mostly **non-coking** | Call most Indian coal anthracite / coking | अधिकतर नॉन-कोकिंग |
+### 3. Major Copper Mining Centers: **K-M-S**
+- **K**hetri (Rajasthan — Aravallis)
+- **M**alanjkhand (Madhya Pradesh — Balaghat, largest open-pit)
+- **S**inghbhum (Jharkhand — Mosabani)
+- *(Mnemonic: **K**nowledge **M**akes **S**cholars)*
 
+### 4. Aluminium Smelters & Locations:
+- **HINDALCO**: Renukoot, Sonbhadra (UP)
+- **BALCO**: Korba (Chhattisgarh)
+- **NALCO**: Damanjodi / Angul (Odisha)
+- **MALCO**: Mettur (Tamil Nadu)
+- *(Exam Lock: Renukoot uses power from Rihand Dam and bauxite from Lohardaga/Amarkantak)*
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

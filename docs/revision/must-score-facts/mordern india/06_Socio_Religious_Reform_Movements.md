@@ -11,70 +11,371 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 6 — Socio-Religious Reform Movements</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| Historical Milestone | 200th Birth Anniversary of Swami Dayanand Saraswati (1824–2024) | Celebrated nationwide; heavy focus on Arya Samaj, *Satyarth Prakash*, and Shuddhi |
+| Reform Centenaries | Centenary of Vaikom Satyagraha (1924–2024) and Self-Respect Movement (1925–2025) | High-frequency questions on Periyar E.V. Ramasamy & Sri Narayana Guru |
+| Legal Milestones | Uniform Civil Code (UCC) and marriage age debates reference the Sharda Act 1929 | Chronology of marriage reform laws (1829 → 1856 → 1872 → 1891 → 1929) |
+| Heritage Connect | Restoration of Raja Ram Mohan Roy memorial at Arnos Vale, Bristol (UK) | Questions on Roy's death (Bristol 1833) and Akbar II conferring "Raja" title |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Raja Ram Mohan Roy** founded **Atmiya Sabha (1815)** and **Brahmo Sabha / Brahmo Samaj (1828)**. He campaigned against Sati; **Bentinck** (बेंटिंक) banned Sati in **1829**.
-2. **Ishwar Chandra Vidyasagar** pushed the **Widow Remarriage Act, 1856** and served as Principal of Sanskrit College, Calcutta. Do not swap him with D.K. Karve’s western-India work.
-3. **Jyotiba Phule** founded the **Satyashodhak Samaj in 1873** for anti-caste “truth-seeking” in Maharashtra. He is not a Bengal Brahmo figure.
-4. **Behramji Malabari** pushed the **Age of Consent Act, 1891**. **Bal Gangadhar Tilak** (बाल गंगाधर तिलक) opposed British interference in Hindu marriage on that issue.
-5. **D.K. Karve** worked through the Widow Remarriage Association, founded **SNDT Women’s University (1916)**, and later received the **Bharat Ratna (भारत रत्न) (1958)**.
-6. **Arya Samaj** (आर्य समाज) was founded by **Dayanand Saraswati** at Bombay in **1875** on the slogan **“Back to the Vedas.”** It is not Brahmo Samaj.
-7. **Prarthana Samaj** rose in Bombay in **1867** under **Atmaram Pandurang / M.G. Ranade**. **Paramahansa Mandali (1849, Dadoba Pandurang)** was its secret precursor against caste and idolatry.
-8. **Ramakrishna Mission** (रामकृष्ण मिशन) was founded by **Vivekananda in 1897**. Vivekananda’s **Chicago address** was in **1893**. Ramakrishna himself was the saint of Dakshineswar, not the Mission’s founder.
-9. **Sir Syed Ahmad Khan** founded **MAO College (एमएओ) / the Aligarh Movement in 1875** for modern Western-style Muslim education. **Deoband (1866)** under **Nanautawi and Gangohi** was traditional madrasa revival — opposite orientation.
-10. **Sri Narayana Guru** consecrated the **Aruvippuram** shrine in **1888** and the **SNDP Yogam** (एसएनडीपी) was organised in **1903** for Ezhava uplift in Kerala on a one-caste–one-god line.
-11. **Pandita Ramabai** founded **Arya Mahila Samaj (1882)**, **Sharada Sadan (1889)** and **Mukti Mission (1898)** for women’s education and shelter — keep her distinct from Karve.
-12. **J.E.D. Bethune** is locked to girls’ schooling in Calcutta. Annie Besant is locked to **Central Hindu College (1898)** and Theosophy leadership from **1907**.
-13. **Akbar (अकबर) II** gave Roy the title **Raja** (राजा) and sent him to England (**1830**); Roy died at **Bristol (1833)**.
-14. **Indian National Social Conference (1887)** = Ranade + Raghunath Rao (social issues kept off Congress (कांग्रेस) platform). **Bahujan Samaj (1910)** = Mukund Rao Patil / Shankar Rao Jadhav.
-15. **Mughal (मुग़ल) emperor Akbar II** gave him the title **Raja** (**1830**) and sent him to England on the pension question; he died at **Bristol in 1833** (samadhi (समाधि) there).
-16. **Shetkaryacha Asud** is another of his works.
-17. **Tarabai Shinde** wrote *Stri Purush Tulana*.
-18. **Bal Gangadhar Tilak** and the extremist (गरम दल) wing **opposed** the Act. They said the British should not interfere in Hindu marriage.
-19. **Wahabi** and **Faraizi** were the earliest streams, rooted in the pre-1857 agrarian and religious unrest of Bengal and the north.
-20. **Faraizi** under **Dudu Miyan** pushed an anti-English, anti-zamindar edge in eastern Bengal; later many followers merged toward the Wahabi stream (**~1818–1862** arc).
-21. **Ahmadiyya** is the odd one out: it is peaceful and missionary, not revivalist-militant, and mainstream Muslim orthodoxy does **not** accept it as within the fold.
-22. **Aligarh** and **Deoband** are the two big post-1857 north-Indian answers, and they are opposites in method though both reacted to the same crisis of Muslim decline after 1857.
-23. **Sharda Act (Child Marriage Restraint Act, 1929)** fixed marriage ages at **14 (girls)** and **18 (boys)**; named after **Har Bilas Sharda**.
-24. **Slavery** was made illegal by **Act V of 1843** under **Ellenborough**.
-25. **Nadars** temple-entry demand sparked **Tirunelveli riots (1899)**. Tilak’s famous line: if God tolerates untouchability, he would not recognise such a God.
-26. **Tattvabodhini Sabha (1839)** under **Debendranath Tagore** carried Brahmo ideas forward after Roy.
-27. **Bethune** opened a girls’ school in Calcutta.
-28. **Henry Louis Vivian Derozio** taught at **Hindu College, Calcutta**, in the late **1820s**.
-29. **Keshab Chandra Sen** formed the **Brahmo Samaj of India** (**Bhartiya Brahmo Samaj**). Debendranath’s wing is **Adi Brahmo Samaj** — do not swap. Keshab also linked to **Tabernacle of New Dispensation** and **Indian Reform Association**; **Calcutta Unitarian Committee** is Roy’s line, not Keshab’s alone.
-30. **Atmaram Pandurang** is the usual founder name. **Ranade** joined about **1869** and is tagged as the cultural-renaissance driver of western India.
-31. **M.G. Ranade**, **R.G. Bhandarkar** and **N.G. Chandavarkar** were leading members.
-32. **Dadoba Pandurang** was its leading figure. His brother **Atmaram Pandurang** later founded the public **Prarthana Samaj in 1867**.
-33. **Ramakrishna Paramahamsa** was a saint at **Dakshineswar**. He taught that different religions are paths to the same goal.
-34. **Subhas Chandra Bose** (सुभाष चंद्र बोस) called him the spiritual father of the modern nationalist movement in Bengal.
-35. **Sharadamani (Sharada Devi)** was Ramakrishna’s wife. **Sister Nivedita** (Margaret Noble) was Vivekananda’s Western disciple.
+1. **Raja Ram Mohan Roy (1772–1833) — "Father of Modern Indian Renaissance":**
+   - Founded **Atmiya Sabha (1815)** in Calcutta to promote monotheism and fight idolatry.
+   - Founded **Brahmo Sabha on 20 August 1828** (later renamed **Brahmo Samaj**).
+   - Relentless crusade against **Sati**: led to **Regulation XVII of 4 December 1829** passed by Lord William Bentinck, declaring Sati illegal and punishable as culpable homicide.
+   - Founded **Hindu College (1817)** with David Hare and Radhakant Deb, and **Anglo-Hindu School (1822)** and **Vedanta College (1825)**.
+   - Journalistic pioneer: published ***Sambad Kaumudi* (Bengali, 1821)** and ***Mirat-ul-Akhbar* (Persian, 1822)**.
+   - Wrote ***Tuhfat-ul-Muwahhidin* ("A Gift to Monotheists", 1803–04)** in Persian and *Precepts of Jesus* (1820).
+   - Mughal Emperor **Akbar II** conferred the title **"Raja"** on him in 1830 and sent him to England as his envoy; died at **Bristol (England) on 27 September 1833** where his mausoleum stands.
+2. **Ishwar Chandra Vidyasagar (1820–1891):**
+   - Served as Principal of Sanskrit College, Calcutta (opened it to non-Brahmin students).
+   - Champion of widow remarriage: cited Vedic texts to prove widows could remarry; petition led to the enactment of the **Hindu Widows' Remarriage Act (Act XV of 1856)** under Lord Canning.
+   - Personally solemnized the first legal widow remarriage in Calcutta on **7 December 1856**.
+   - Associated as secretary with J.E.D. Bethune in establishing the **Bethune School (1849)** in Calcutta, the first school for higher education of girls.
+3. **Jyotirao Govindrao Phule (1827–1890) & Savitribai Phule:**
+   - Founded first modern school for girls of depressed classes in Pune at **Bhide Wada (1848)** run by his wife **Savitribai Phule** (India’s first female teacher).
+   - Founded the **Satyashodhak Samaj (Truth-Seeking Society) on 24 September 1873** in Maharashtra to liberate Shudras and Ati-Shudras from Brahmanical tyranny and priestly exploitation.
+   - Authored the landmark book ***Gulamgiri* (Slavery, 1873)** (dedicated to American anti-slavery fighters) and *Shetkaryacha Asud* (The Whipcord of the Peasant, 1881).
+   - Conferred the title **"Mahatma"** in 1888 by the social reformer Vithalrao Krishnaji Vandekar in Bombay.
+4. **Behramji Merwanji Malabari (1853–1912):**
+   - Parsi social reformer who campaigned tirelessly against infant marriage; published his famous "Notes on Infant Marriage and Enforced Widowhood" (1884).
+   - Instrumental in the passage of the **Age of Consent Act, 1891** (raising the legal age of consent for sexual intercourse for married and unmarried girls from 10 to **12 years**).
+   - **Bal Gangadhar Tilak** vehemently opposed the Act, arguing that a foreign Christian colonial government had no right to legislate on intimate Hindu social customs.
+5. **Dhondo Keshav Karve (1858–1962):**
+   - Pioneer of widow rehabilitation in Western India; secretary of the Widow Remarriage Association; married a widow (Godubai) in 1893.
+   - Established the **Widows' Home Association at Hingne (near Pune) in 1896**.
+   - Founded the first women's university in India, **SNDT Indian Women’s University (1916)** in Bombay.
+   - Awarded the **Bharat Ratna in 1958** on his centenary (100th birthday).
+6. **Swami Dayanand Saraswati (1824–1883) & Arya Samaj:**
+   - Original name **Mula Shankar**, born at Tankara (Gujarat); disciple of the blind sage **Swami Virjanand** at Mathura.
+   - Founded **Arya Samaj on 10 April 1875 at Bombay**; shifted headquarters to **Lahore in 1877**.
+   - Coined the historic slogan **"Go Back to the Vedas"** (*Vedo ki or lauto*); asserted that Vedas were infallible (*Apaurusheya*).
+   - Authored ***Satyarth Prakash* (1875)** in Hindi (the "Bible of Arya Samaj"), *Veda Bhashya Bhumika*, and *Rigvedadi Bhashya Bhumika*.
+   - First Indian to use the term **Swaraj** and advocate **Hindi as the national language**; called the "Martin Luther of India".
+   - Launched the **Shuddhi Movement** to reconvert Hindus who had converted to Islam or Christianity, and **Gaurakshini Sabhas (1882)** for cow protection.
+7. **Prarthana Samaj (1867, Bombay):**
+   - Founded in Bombay in **1867** by **Dr. Atmaram Pandurang** with the encouragement of Keshab Chandra Sen.
+   - Leading stalwarts: **Justice Mahadev Govind Ranade** and historian **Sir R.G. Bhandarkar**.
+   - Emphasized social action: inter-caste dining, inter-caste marriage, widow remarriage, and education of women and depressed classes.
+   - Secret precursor: **Paramahansa Mandali (1849)** founded by Dadoba Pandurang and Durgaram Mehtaji (members pledged to break caste rules and ate food cooked by lower castes).
+8. **Swami Vivekananda (1863–1902) & Ramakrishna Mission:**
+   - Born Narendranath Datta in Calcutta; disciple of **Ramakrishna Paramahansa** (saint of Dakshineswar Kali temple).
+   - Delivered historic address at the **Parliament of Religions, Chicago (11 September 1893)** opening with *"Sisters and Brothers of America"*.
+   - Founded the **Ramakrishna Mission on 1 May 1897** at Belur Math (near Calcutta); motto: *"Atmano mokshartham jagat hitaya cha"* (For one's own salvation and the welfare of humanity).
+   - Emphasized practical Vedanta and selfless service to humanity ("Service to Jiva is service to Shiva").
+9. **Sir Syed Ahmad Khan (1817–1898) & Aligarh Movement:**
+   - Pioneer of modern Muslim educational renaissance; believed modern scientific education and loyalty to British rule were vital for Muslim advancement.
+   - Founded the **Scientific Society (1864)** at Ghazipur (shifted to Aligarh) to translate Western scientific works into Urdu.
+   - Published the Urdu journal ***Tahzib-ul-Akhlaq* (Mohammedan Social Reformer, 1870)**.
+   - Founded the **Muhammadan Anglo-Oriental (MAO) College at Aligarh in 1875** (became Aligarh Muslim University in 1920).
+   - Opposed the Indian National Congress; founded the **United Indian Patriotic Association (1888)** with Raja Shiv Prasad of Banaras.
+10. **Theosophical Society:**
+    - Founded in **New York in 1875** by Russian occultist **Madame H.P. Blavatsky** and American Army Colonel **Henry Steel Olcott**.
+    - Shifted international headquarters to **Adyar (near Madras) in 1882**.
+    - **Annie Besant** joined in England (1889), arrived in India in 1893, and was elected President in 1907.
+    - Founded **Central Hindu College at Banaras (1898)** which became Banaras Hindu University (BHU) in 1916 under Madan Mohan Malaviya.
+11. **Sri Narayana Guru (1856–1928) & Kerala Reform:**
+    - From the underprivileged Ezhava (toddy-tapper) community of Kerala.
+    - Consecrated a Shiva lingam at **Aruvippuram (Kerala) on Shivaratri 1888**, defying the Brahmin monopoly over temple consecration ("Here sits the Shiva free from caste prejudices").
+    - Founded **SNDP Yogam (Sri Narayana Dharma Paripalana Yogam) in 1903** with poet Kumaran Asan.
+    - Propounded the famous universal motto: **"One Caste, One Religion, One God for Man"** (*Oru Jathi, Oru Matham, Oru Daivam Manushyanu*).
+12. **Self-Respect Movement (1925, Tamil Nadu):**
+    - Founded by **Periyar E.V. Ramasamy Naicker (Periyar)** in 1925 after leaving the Congress over Brahminical dining segregation.
+    - Rationalist, atheistic, and fiercely anti-Brahmin movement; advocated non-priestly civil marriages ("Self-Respect Marriages"), burning of *Manusmriti*, and Tamil pride.
+    - Published the weekly journal ***Kudi Arasu* (Republic, 1925)**.
+13. **Singh Sabha Movement (1873):**
+    - Founded at **Amritsar in 1873** by Thakur Singh Sandhawalia and Khem Singh Bedi to counter Christian missionary conversions and Arya Samaj polemics.
+    - More radical Tat Khalsa branch founded at **Lahore in 1879** by Gurmukh Singh and Ditt Singh; established **Khalsa College at Amritsar (1892)**; paved way for the **Akali Movement (1920–25)** and creation of SGPC.
+14. **Pandita Ramabai (1858–1922):**
+    - Sanskrit scholar given the titles "Pandita" and "Saraswati" at Calcutta.
+    - Founded **Arya Mahila Samaj (1882)** in Pune to promote women's education.
+    - Founded **Sharada Sadan (1889)** in Bombay for educating young Hindu child-widows.
+    - Founded **Mukti Mission (1898)** at Kedgaon (Pune) for destitute women and famine victims.
+15. **Young Bengal Movement (1826–1831):**
+    - Led by **Henry Louis Vivian Derozio** (1809–1831), Anglo-Indian teacher at Hindu College, Calcutta.
+    - Inspired by French Revolutionary ideals of liberty, equality, and rationalism; students known as "Derozians" openly mocked Hindu rituals, demanded press freedom, and supported women's rights; Derozio dismissed from Hindu College in 1831; called the "first nationalist poet of modern India".
+16. **Brahmo Samaj Splits (Master Sequence):**
+    - Revived after Roy’s death by **Debendranath Tagore** (founded **Tattvabodhini Sabha in 1839**).
+    - Joined by charismatic **Keshab Chandra Sen** in 1858.
+    - **First Schism (1866):** Debendranath's conservative faction became **Adi Brahmo Samaj**; Keshab’s radical faction formed **Brahmo Samaj of India**.
+    - **Second Schism (1878):** Keshab married his 13-year-old daughter to the minor Maharaja of Cooch Behar; disgusted followers led by **Anand Mohan Bose** and **Shibanath Shastri** broke away to found the **Sadharan Brahmo Samaj**.
+17. **Arya Samaj Split (1892–1893):**
+    - Split over education medium and vegetarianism:
+    - **College Party (Progressive/English-medium):** Lala Hansraj and Lala Lajpat Rai; established **Dayanand Anglo-Vedic (DAV) College, Lahore (1886)**.
+    - **Gurukul Party (Traditional/Vedic):** Swami Shraddhanand (Lala Munshi Ram); established **Gurukul Kangri at Haridwar (1902)** (purely Sanskrit/Hindi and strictly vegetarian).
+18. **Deoband Movement (1866):**
+    - Founded at Deoband (Saharanpur district, UP) in **1866** by **Muhammad Qasim Nanautawi** and **Rashid Ahmad Gangohi** as the *Darul Uloom*.
+    - Traditionalist, orthodox revivalist movement aimed at purifying Islam from syncretic innovations; welcomed the formation of the Indian National Congress (issued a fatwa in 1888 supporting INC and condemning Sir Syed's pro-British stance); led the **Silk Letter Conspiracy (1913–16)** under Maulana Mahmud-ul-Hasan.
+19. **Ahmadiyya Movement (1889):**
+    - Founded by **Mirza Ghulam Ahmad** at Qadian (Gurdaspur, Punjab) in **1889**.
+    - Believed himself to be the promised Messiah and Mahdi; advocated universal tolerance and opposed violent Jihad; wrote *Barahin-e-Ahmadiyya*.
+20. **Wahabi Movement in India:**
+    - Founded by **Sayyid Ahmad of Rae Bareli (1786–1831)**, inspired by Shah Waliullah of Delhi; aimed at overthrowing infidel rule and establishing an Islamic state; operational center at **Patna** with military base at Sithana; crushed by British trials in the 1860s.
+21. **Dharma Sabha (1830, Calcutta):**
+    - Founded by **Radhakant Deb** in **1830** as an orthodox Hindu association to oppose Raja Ram Mohan Roy’s anti-Sati campaign; petitioned British government against Bentinck's Regulation XVII; simultaneously supported modern western girls' education.
+22. **Dev Samaj (1887, Lahore):**
+    - Founded in **1887** at Lahore by **Shiv Narayan Agnihotri** (former Brahmo reformer); preached high moral conduct, obedience to guru, and vegetarianism; textbook was *Dev Shastra*.
+23. **Radhasoami Satsang (1861, Agra):**
+    - Founded in **1861 at Agra** by **Tulsi Ram** (popularly known as **Shiv Dayal Saheb / Soamiji Maharaj**); preached devotion to the Supreme Being (*Sat Naam*), supremacy of the Guru, and simple moral living without renunciation of worldly life.
+24. **Social Reform Legislation Ladder (Chronological Ratta):**
+    - **1829:** Abolition of Sati (Regulation XVII, Bentinck).
+    - **1843:** Abolition of Slavery (Act V, Ellenborough).
+    - **1850:** Religious Disabilities / Lex Loci Act (Dalhousie).
+    - **1856:** Hindu Widows' Remarriage Act (Act XV, Canning).
+    - **1872:** Native / Brahmo Marriage Act (Civil Marriage Act, fixed marriage age: girls 14, boys 18; legalized inter-caste marriages).
+    - **1891:** Age of Consent Act (Act X, raised girl’s age of consent from 10 to 12; Malabari).
+    - **1929:** Child Marriage Restraint Act (**Sharda Act**, Rai Sahib Harbilas Sharda; minimum age: girls 14, boys 18).
+25. **Indian National Social Conference (1887):**
+    - Founded in **1887** by **Mahadev Govind Ranade** and **Raghunath Rao**; functioned as the social reform wing of the Indian National Congress, meeting annually at the same venue after Congress sessions; launched the famous **"Pledge Movement"** to take vows against child marriage.
+26. **Servants of India Society (1905, Pune):**
+    - Founded on **12 June 1905** by **Gopal Krishna Gokhale** (political guru of Gandhi); aimed to train national missionaries for the service of India and promote education, tribal welfare, and depressed class uplift.
+27. **Seva Sadan (1908, Bombay):**
+    - Founded in **1908** by Parsi reformer **Behramji M. Malabari** and Diwan Dayaram Gidumal; specialized in the care of exploited, destitute, and ill-treated women of all castes.
+28. **Social Service League (1911, Bombay):**
+    - Founded in **1911** by **Narayan Malhar Joshi (N.M. Joshi)**; established night schools, dispensaries, and libraries for industrial workers; N.M. Joshi later founded the **All India Trade Union Congress (AITUC) in 1920**.
+29. **Parsi Reform Movement (1851):**
+    - **Rahnumai Mazdayasnan Sabha** (Religious Reform Association) founded in **1851** in Bombay by Naoroji Furdonji, Dadabhai Naoroji, S.S. Bengalee, and K.R. Cama.
+    - Official journal: ***Rast Goftar* (Truth Teller)** in Gujarati (1851).
+30. **Vaikom Satyagraha (1924–1925, Kerala):**
+    - First organized temple-entry movement in India, demanding access for Ezhavas and Pulayas to roads around the Vaikom Shiva Temple (Travancore).
+    - Led by **K.P. Kesava Menon**, **T.K. Madhavan**, and **K. Kelappan ("Kerala Gandhi")**; Periyar E.V. Ramasamy participated actively and was imprisoned; resolved after Mahatma Gandhi intervened with the Maharani of Travancore.
+31. **Guruvayur Satyagraha (1931–1932):**
+    - Temple-entry struggle at the Guruvayur Krishna temple (Malabar); led by **K. Kelappan** (went on fast unto death) and **A.K. Gopalan**; paved way for the **Travancore Temple Entry Proclamation of 1936** opening all state temples to all Hindus.
+32. **Justice Party / South Indian Liberal Federation (1916):**
+    - Founded in **1916** in Madras by **Dr. T.M. Nair**, **P. Theagaraya Chetty**, and **C. Natesa Mudaliar**; non-Brahmin political movement that won provincial elections under 1919 Act and introduced reservations for non-Brahmins.
+33. **Aravippuram Consecration Significance (1888):**
+    - Sri Narayana Guru consecrated an ordinary stone idol taken from the Neyyar river, inscribing: *"Without difference of caste or bias of religion, here sits in brotherhood the ideal abode of all"*.
+34. **Sahodaran Ayyappan (1889–1968):**
+    - Disciple of Sri Narayana Guru in Kerala; modified Guru’s slogan to radical rationalist motto: **"No Caste, No Religion, No God for Man"** (*Jathi Venda, Matham Venda, Daivam Venda Manushyanu*); organized inter-caste dining (*Misra Bhojanam*).
+35. **Mahadev Govind Ranade's Philosophy:**
+    - Ranade famously preached: *"You cannot have a good social system when you find yourself low in the scale of political rights, nor can you be fit to exercise political rights and privileges unless your social system is based on reason and justice."*
+36. **Gopal Hari Deshmukh "Lokahitwadi":**
+    - Wrote under the pen name "Lokahitwadi" in the weekly *Prabhakar*; urged Indians to cast off fatalism, abolish caste distinctions, and adopt Western science; proclaimed that if religion does not sanction social reform, religion itself must be changed.
+37. **Kandukuri Veeresalingam Pantulu (1848–1919):**
+    - Celebrated as the **"Father of the Renaissance in Andhra"**; founded the *Viveka Vardhini* journal (1874); established first girls' school in Dowlaiswaram (1874) and conducted first widow remarriage in Telugu-speaking regions in 1881.
+38. **Raja Ram Mohan Roy's Defense of Monotheism:**
+    - Roy based his monotheism on ancient Hindu scriptures: the *Upanishads* and *Vedanta*; argued that polytheism and idol-worship were later degenerate corruptions promoted by priestly self-interest.
+39. **Debendranath Tagore’s Tattvabodhini Sabha (1839):**
+    - Formed in **1839** to counter Christian missionary propaganda and promote systematic study of India's classical past through Bengali language; merged into Brahmo Samaj in 1842; journal *Tattvabodhini Patrika* edited by Akshay Kumar Dutt.
+40. **Keshab Chandra Sen's Contribution & Radicalism:**
+    - Joined Brahmo Samaj in 1858; made the movement an all-India force by touring Bombay, Madras, and UP; introduced inclusion of teachings from Christian, Islamic, and Parsi scriptures into Brahmo prayer meetings.
+41. **Radhakant Deb's Paradox:**
+    - Founder of Dharma Sabha (1830) defending Sati, yet was an active proponent of Western English education and female schooling; helped found Hindu College (1817) and authored the 8-volume Sanskrit encyclopedia *Sabdakalpadruma*.
+42. **B.R. Ambedkar’s Landmark Early Movements:**
+    - Founded **Bahishkrit Hitakarini Sabha (1924)** in Bombay; motto: *"Educate, Agitate, Organize"*.
+    - Led the **Mahad Satyagraha (20 March 1927)** to assert the right of untouchables to draw water from the Chawdar tank.
+    - Publicly burnt the ***Manusmriti* on 25 December 1927** (celebrated as Manusmriti Dahan Din).
+    - Founded the journal ***Mooknayak* (1920)** with financial help from Chhatrapati Shahu Maharaj of Kolhapur, followed by *Bahishkrit Bharat* (1927).
+43. **Chhatrapati Shahu Maharaj of Kolhapur (1874–1922):**
+    - Non-Brahmin royal social reformer; issued historic decree on **26 July 1902** granting **50% reservation** in government jobs to backward classes in Kolhapur State (first statutory affirmative action in India); patronized Jyotiba Phule’s Satyashodhak Samaj and Dr. B.R. Ambedkar.
+44. **Bahujan Samaj & Satyashodhak Movement Continuation:**
+    - In 1910, **Mukundrao Patil** and **Shankarrao Jadhav** founded the **Satyashodhak Samaj in Vidarbha/Central Provinces** and the **Bahujan Samaj**; published the journal *Din Mitra*.
+45. **Faraizi Movement (Bengal, 1818):**
+    - Founded by **Haji Shariatullah** in East Bengal; urged Muslims to adhere to the obligatory duties of Islam (*fara'iz*); under his son **Dudu Miyan (Muhsin-ud-Din Ahmad)**, it turned into an egalitarian peasant movement against oppressive Hindu zamindars and British indigo planters.
+46. **Titu Mir’s Uprising (Bengal, 1831):**
+    - Led by **Mir Nithar Ali (Titu Mir)**, disciple of Sayyid Ahmad of Rae Bareli; organized Muslim peasant weavers of 24 Parganas against Hindu zamindars imposing taxes on beards (*Darhi-tax*); built a bamboo fortress (*Bansher Kella*) at Narkelberia; killed in battle by British troops in Nov 1831.
+47. **T.K. Madhavan & Temple Entry Movement:**
+    - Kerala journalist and follower of Sri Narayana Guru; brought the issue of temple entry for untouchables onto the Indian National Congress platform at the Kakinada Session (1923), paving the way for Vaikom Satyagraha.
+48. **Swami Shraddhanand’s Martyrdom:**
+    - Leader of Arya Samaj (Gurukul section); played prominent role in 1919 anti-Rowlatt Satyagraha (dared British soldiers to shoot him at Chandni Chowk, Delhi); preached from the pulpit of the Jama Masjid; spearheaded the Shuddhi Movement in UP; assassinated by a fanatic named Abdul Rashid in Delhi on **23 December 1926**.
+49. **Master Match of Key Journals and Reformers:**
+    - *Sambad Kaumudi* & *Mirat-ul-Akhbar* → **Raja Ram Mohan Roy**
+    - *Tattvabodhini Patrika* → **Debendranath Tagore / Akshay Kumar Dutt**
+    - *Satyarth Prakash* → **Swami Dayanand Saraswati**
+    - *Gulamgiri* → **Jyotiba Phule**
+    - *Tahzib-ul-Akhlaq* → **Sir Syed Ahmad Khan**
+    - *Prabuddha Bharata* → **Swami Vivekananda**
+    - *Rast Goftar* → **Dadabhai Naoroji**
+    - *Kudi Arasu* → **Periyar E.V. Ramasamy**
+    - *Mooknayak* → **Dr. B.R. Ambedkar**.
+50. **Core Philosophical Convergence:** Despite theological differences (reason vs Vedic infallibility vs rationalism), all 19th-century socio-religious reform movements shared three universal goals:
+    1. **Eradication of caste oppression and untouchability.**
+    2. **Liberation, education, and legal protection of women.**
+    3. **Application of humanistic rationality to religious dogmas.**
 
+## ⏱️ Timeline / Chronology
 
----
+```
+1815 ── Raja Ram Mohan Roy establishes Atmiya Sabha in Calcutta
+  │
+1817 ── Hindu College founded at Calcutta by Roy, David Hare & Radhakant Deb
+  │
+1828 ── Brahmo Sabha established by Ram Mohan Roy (20 August)
+  │
+1829 ── Regulation XVII: Lord William Bentinck bans Sati (4 Dec)
+  │
+1830 ── Radhakant Deb establishes orthodox Dharma Sabha to oppose Sati ban
+  │
+1833 ── Raja Ram Mohan Roy passes away at Bristol, England (27 Sept)
+  │
+1839 ── Debendranath Tagore establishes Tattvabodhini Sabha in Calcutta
+  │
+1848 ── Jyotiba & Savitribai Phule open first girls' school at Bhide Wada, Pune
+  │
+1849 ── Paramahansa Mandali founded in Bombay by Dadoba Pandurang
+  │       J.E.D. Bethune & Vidyasagar establish Bethune School for Girls in Calcutta
+  │
+1851 ── Rahnumai Mazdayasnan Sabha founded by Parsi reformers in Bombay (Rast Goftar)
+  │
+1856 ── Hindu Widows' Remarriage Act (Act XV) passed under Lord Canning (July)
+  │
+1861 ── Radhasoami Satsang founded at Agra by Shiv Dayal Saheb (Tulsi Ram)
+  │
+1864 ── Scientific Society founded at Ghazipur by Sir Syed Ahmad Khan
+  │
+1866 ── Darul Uloom Deoband established by Nanautawi & Gangohi (Saharanpur, UP)
+  │       First Split in Brahmo Samaj: Adi Brahmo Samaj vs Brahmo Samaj of India
+  │
+1867 ── Prarthana Samaj founded in Bombay by Dr. Atmaram Pandurang & M.G. Ranade
+  │
+1872 ── Native Marriage Act (Civil Marriage Act) fixes marriage ages at 14 & 18
+  │
+1873 ── Satyashodhak Samaj founded by Jyotiba Phule in Pune (24 Sept)
+  │       Singh Sabha Movement launched at Amritsar
+  │
+1875 ── Arya Samaj founded at Bombay by Swami Dayanand Saraswati (10 April)
+  │       Muhammadan Anglo-Oriental (MAO) College founded at Aligarh by Sir Syed
+  │       Theosophical Society founded in New York by Blavatsky & Olcott
+  │
+1878 ── Second Split in Brahmo Samaj: Sadharan Brahmo Samaj formed
+  │
+1882 ── Theosophical Society establishes International Headquarters at Adyar (Madras)
+  │       Pandita Ramabai establishes Arya Mahila Samaj in Pune
+  │
+1886 ── First DAV College established at Lahore by Lala Hansraj
+  │
+1887 ── Indian National Social Conference founded by Ranade & Raghunath Rao
+  │       Dev Samaj founded at Lahore by Shiv Narayan Agnihotri
+  │
+1888 ── Sri Narayana Guru consecrates Shiva idol at Aruvippuram (Kerala)
+  │
+1889 ── Sharada Sadan established by Pandita Ramabai in Bombay
+  │       Ahmadiyya Movement founded by Mirza Ghulam Ahmad at Qadian
+  │
+1891 ── Age of Consent Act passed (minimum age 12); opposed by B.G. Tilak
+  │
+1893 ── Swami Vivekananda delivers historic speech at Chicago World Parliament (11 Sept)
+  │       Annie Besant arrives in India
+  │
+1897 ── Ramakrishna Mission founded at Belur Math by Swami Vivekananda (1 May)
+  │
+1898 ── Central Hindu College founded at Banaras by Annie Besant
+  │
+1902 ── Gurukul Kangri established near Haridwar by Swami Shraddhanand
+  │
+1903 ── SNDP Yogam founded in Kerala under Sri Narayana Guru & Kumaran Asan
+  │
+1905 ── Servants of India Society founded at Pune by Gopal Krishna Gokhale (12 June)
+  │
+1916 ── SNDT Women's University founded in Bombay by D.K. Karve
+  │       Banaras Hindu University (BHU) founded by Madan Mohan Malaviya
+  │
+1920 ── Akali Movement begins for Gurdwara reform (Sikh Gurdwaras Act 1925)
+  │
+1924 ── Vaikom Satyagraha for temple-road access begins in Travancore (Kerala)
+  │       Bahishkrit Hitakarini Sabha founded by Dr. B.R. Ambedkar in Bombay
+  │
+1925 ── Self-Respect Movement launched by Periyar E.V. Ramasamy in Tamil Nadu
+  │
+1927 ── Mahad Satyagraha led by Dr. B.R. Ambedkar; Manusmriti burnt (25 Dec)
+  │
+1929 ── Child Marriage Restraint Act (Sharda Act) passed (girls 14, boys 18)
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Master Socio-Religious Organisations, Founders & Headquarters
+
+| Organisation | Year | Founder / Architect | Location / Headquarters | Primary Ideology / Purpose |
+|---|---|---|---|---|
+| **Atmiya Sabha** | 1815 | Raja Ram Mohan Roy | Calcutta | Monotheism, philosophical discussions against idolatry |
+| **Brahmo Samaj** | 1828 | Raja Ram Mohan Roy | Calcutta | Worship of one formless Brahman, anti-sati, anti-caste |
+| **Dharma Sabha** | 1830 | Radhakant Deb | Calcutta | Orthodox defense of Hindu traditions, anti-regulation XVII |
+| **Tattvabodhini Sabha**| 1839 | Debendranath Tagore | Calcutta | Promotion of Upanishadic knowledge & Bengali culture |
+| **Paramahansa Mandali**| 1849 | Dadoba Pandurang & Durgaram | Bombay | Secret society against caste distinctions and idolatry |
+| **Rahnumai Mazdayasnan**| 1851 | Naoroji Furdonji & Dadabhai | Bombay | Modernisation of Parsi religion; female education |
+| **Radhasoami Satsang** | 1861 | Shiv Dayal Saheb (Tulsi Ram) | Agra (UP) | Devotion to True Name (*Sat Naam*), living guru |
+| **Darul Uloom Deoband**| 1866 | M.Q. Nanautawi & R.A. Gangohi | Deoband, Saharanpur (UP) | Islamic orthodoxy, anti-British nationalism, anti-Sir Syed |
+| **Prarthana Samaj** | 1867 | Dr. Atmaram Pandurang & Ranade| Bombay | Monotheism, inter-caste dining, widow remarriage |
+| **Satyashodhak Samaj** | 1873 | Mahatma Jyotiba Phule | Pune (Maharashtra) | Liberation of Shudras from priestly tyranny; anti-caste |
+| **Singh Sabha** | 1873 | Thakur Singh Sandhawalia & Bedi | Amritsar | Sikh revival, Khalsa education, anti-missionary conversions |
+| **Arya Samaj** | 1875 | Swami Dayanand Saraswati | Bombay (1875); Lahore (1877) | "Back to the Vedas", Shuddhi movement, cow protection |
+| **Aligarh Movement** | 1875 | Sir Syed Ahmad Khan | Aligarh (UP) | Modern Western education for Muslims; scientific outlook |
+| **Theosophical Society**| 1875/82| Blavatsky, Olcott & Annie Besant| New York (1875); Adyar (1882) | Ancient occult wisdom, comparative religion, Hindu revival |
+| **Sadharan Brahmo Samaj**| 1878| Anand Mohan Bose & Shastri | Calcutta | Democratic Brahmo wing opposing child-marriage of minor |
+| **Arya Mahila Samaj** | 1882 | Pandita Ramabai | Pune | Women's education and social elevation |
+| **Dev Samaj** | 1887 | Shiv Narayan Agnihotri | Lahore | Moral ethics, obedience to guru (*Dev Shastra*) |
+| **Indian Social Conference**| 1887| M.G. Ranade & Raghunath Rao | Bombay / Rotating | Social reform wing of INC; "Pledge Movement" |
+| **Ahmadiyya Movement** | 1889 | Mirza Ghulam Ahmad | Qadian, Gurdaspur (Punjab) | Peaceful Islamic messianism, universal fraternity |
+| **Ramakrishna Mission** | 1897 | Swami Vivekananda | Belur Math (Calcutta) | Practical Vedanta; humanitarian service ("Jiva is Shiva") |
+| **SNDP Yogam** | 1903 | Sri Narayana Guru & Asan | Aruvippuram / Kerala | Ezhava uplift; "One Caste, One Religion, One God" |
+| **Servants of India Soc.**| 1905 | Gopal Krishna Gokhale | Pune | Training national missionaries for dedicated social work |
+| **Seva Sadan** | 1908 | Behramji Malabari & Gidumal | Bombay | Care, vocational training and shelter for destitute women |
+| **Self-Respect Movement**| 1925 | Periyar E.V. Ramasamy | Erode / Madras | Rationalism, anti-Brahmin, non-priestly civil marriages |
+
+### 2. Social Reform Legislation Ladder (Chronological Match-List)
+
+| Year | Act / Regulation | Viceroy / Governor-General | Key Reformer Behind Act | Core Statutory Mandate |
+|---|---|---|---|---|
+| **1829** | Bengal Regulation XVII | Lord William Bentinck | Raja Ram Mohan Roy | Sati declared illegal and punishable as culpable homicide |
+| **1843** | Indian Slavery Act (Act V)| Lord Ellenborough | British Anti-Slavery Advocates | Declared slavery illegal; freed bonded slaves |
+| **1850** | Religious Disabilities Act / Lex Loci | Lord Dalhousie | Christian Missionaries & Reformers | Protected right of converts to inherit ancestral property |
+| **1856** | Hindu Widows' Remarriage Act (Act XV) | Lord Canning (drafted Dalhousie) | Ishwar Chandra Vidyasagar | Legalized remarriage of Hindu widows; legitimized offspring |
+| **1872** | Native Marriage Act (Act III) | Lord Northbrook | Keshab Chandra Sen (Brahmo) | Prohibited child marriage (girls 14, boys 18); allowed inter-caste civil marriages |
+| **1891** | Age of Consent Act (Act X) | Lord Lansdowne | Behramji Merwanji Malabari | Raised age of consent for girls from 10 to 12; opposed by Tilak |
+| **1929** | Child Marriage Restraint Act (Sharda Act) | Lord Irwin | Rai Sahib Harbilas Sharda | Fixed minimum age of marriage: 14 for girls, 18 for boys |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+| Pair A | Pair B | Key Difference | Hindi Key |
 |---|---|---|---|
-| Brahmo Samaj | Arya Samaj | Reasoned monotheism and anti-idolatry vs “Back to the Vedas” and shuddhi | ब्रह्म समाज / आर्य समाज |
-| Aligarh | Deoband | Modern Western-style college vs traditional madrasa revival | अलीगढ़ / देवबंद |
-| Jyotiba Phule | Raja Ram Mohan Roy | Anti-caste work in Maharashtra vs Bengal elite religious reform | ज्योतिबा फुले / राम मोहन राय |
-| Malabari | Tilak (1891) | Pushed the Age of Consent Act vs opposed British interference in Hindu marriage | मालाबारी / तिलक |
-| Vidyasagar | D.K. Karve | Bengal widow remarriage and Sanskrit College vs Widow Remarriage Association in western India | विद्यासागर / कर्वे |
-| Ramakrishna | Vivekananda | Saint of Dakshineswar vs disciple who founded the Mission and spoke at Chicago | रामकृष्ण / विवेकानंद |
-| Prarthana Samaj | Brahmo Samaj | Bombay reform circle vs Bengal origin | प्रार्थना समाज / ब्रह्म समाज |
-| Satyashodhak Samaj | Prarthana Samaj | Phule’s truth-seeking anti-caste sabha vs Ranade’s liberal religious reform | सत्यशोधक / प्रार्थना |
-| Paramahansa Mandali | Prarthana Samaj | Secret 1849 Bombay circle against caste and idolatry vs public 1867 Bombay reform body | परमहंस मंडली / प्रार्थना समाज |
-| SNDP Yogam | Self-Respect Movement | Narayana Guru’s Kerala one-caste-one-god Ezhava uplift vs Periyar’s Tamil anti-Brahmin rationalism | एसएनडीपी / स्वाभिमान आंदोलन |
-| Singh Sabha | Arya Samaj | Sikh identity revival at Amritsar/Lahore vs Dayanand’s Vedic revival; both answered missionary and reform pressure | सिंह सभा / आर्य समाज |
-| Pandita Ramabai | D.K. Karve | Poona/Bombay women’s education, Sharada Sadan and Mukti Mission vs Widow Remarriage Association and SNDT | रमाबाई / कर्वे |
-| Wahabi movement | Ahmadiyya movement | Sayyid Ahmad of Rae Bareli’s militant revivalist stream vs Mirza Ghulam Ahmad’s peaceful messianic stream | वहाबी / अहमदिया |
-| Aligarh | Sir Syed Ahmad Khan | The institution (MAO College, 1875) vs its founder-reformer; always paired, never separated in a match | अलीगढ़ / सर सैयद |
+| **Brahmo Samaj (1828)** | **Arya Samaj (1875)** | Reasoned monotheism based on Upanishads (Bengal) vs "Back to the Vedas" and Shuddhi (Bombay/Punjab) | ब्रह्म समाज / आर्य समाज |
+| **Aligarh Movement (1875)** | **Deoband Movement (1866)** | Modern English-medium college & pro-British vs Traditional madrasa revival & anti-British Congress ally | अलीगढ़ / देवबंद |
+| **Jyotiba Phule (1873)** | **Raja Ram Mohan Roy (1828)**| Non-Brahmin anti-caste grassroots movement in Maharashtra vs Elite intellectual monotheistic reform in Bengal | ज्योतिबा फुले / राम मोहन राय |
+| **Behramji Malabari** | **Bal Gangadhar Tilak** | Championed Age of Consent Act 1891 vs Opposed British legislative interference in Hindu domestic customs | मालाबारी / तिलक |
+| **Ishwar Chandra Vidyasagar** | **Dhondo Keshav Karve** | Bengal widow remarriage pioneer (Act 1856) vs Western India widow homes and women's university (SNDT 1916) | विद्यासागर / कर्वे |
+| **Ramakrishna Paramahansa** | **Swami Vivekananda** | Mystical saint of Dakshineswar (teacher) vs World-traveling founder of Ramakrishna Mission (disciple) | रामकृष्ण / विवेकानंद |
+| **Prarthana Samaj (1867)** | **Satyashodhak Samaj (1873)**| Liberal upper-caste reform (Ranade, Bombay) vs Radical anti-Brahmin backward-caste revolt (Phule, Pune) | प्रार्थना समाज / सत्यशोधक समाज |
+| **SNDP Yogam (1903)** | **Self-Respect Movement (1925)**| Spiritual Ezhava uplift ("One God") in Kerala vs Atheistic anti-Brahmin rationalism (Periyar) in Tamil Nadu | एसएनडीपी / आत्म-सम्मान आंदोलन |
+| **Paramahansa Mandali (1849)**| **Radhasoami Satsang (1861)**| Secret Bombay society against caste vs Agra devotional sect founded by Shiv Dayal Saheb | परमहंस मंडली / राधास्वामी सत्संग |
+| **Swami Shraddhanand** | **Lala Hansraj** | Gurukul Kangri founder (orthodox Vedic/vegetarian) vs DAV College founder (progressive English-medium) | श्रद्धानंद / हंसराज |
+| **Dharma Sabha (1830)** | **Brahmo Samaj (1828)** | Radhakant Deb's orthodox association defending Sati vs Roy's reformist association abolishing Sati | धर्म सभा / ब्रह्म समाज |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **Chronological Founding Sequence of Major Samajes:**
+   - **B - P - S - A - R**
+   - **B**rahmo Samaj (**1828**, Roy, Calcutta)
+   - **P**rarthana Samaj (**1867**, Atmaram, Bombay)
+   - **S**atyashodhak Samaj (**1873**, Phule, Pune)
+   - **A**rya Samaj (**1875**, Dayanand, Bombay)
+   - **R**amakrishna Mission (**1897**, Vivekananda, Belur).
+2. **Social Marriage Acts Chronology:**
+   - **S - W - N - C - S**
+   - **S**ati Abolition (**1829**, Bentinck)
+   - **W**idow Remarriage (**1856**, Canning)
+   - **N**ative Marriage Act (**1872**, Northbrook — Age 14/18)
+   - **C**onsent Age Act (**1891**, Lansdowne — Age 12)
+   - **S**harda Act (**1929**, Irwin — Age 14/18).
+3. **Four Famous Muslim Reform Streams:**
+   - **A - D - W - A**
+   - **A**ligarh (Sir Syed, modern college, loyalist)
+   - **D**eoband (Nanautawi, orthodox madrasa, nationalist)
+   - **W**ahabi (Sayyid Ahmad, militant revivalist, Patna)
+   - **A**hmadiyya (Mirza Ghulam Ahmad, messianic, peaceful).
+4. **Dayanand Saraswati Key Triad:**
+   - **V - S - S**
+   - **V**edas ("Go Back to Vedas")
+   - *Satyarth Prakash* (his magnum opus)
+   - **S**huddhi & **S**waraj (reconversion & self-rule).
+5. **Southern Reform Contrasts:**
+   - **N**arayana Guru = **N**ear God ("One God, One Religion")
+   - **P**eriyar = **P**ure Atheism & Anti-Priest ("No God, No Brahmin").
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

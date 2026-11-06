@@ -7,46 +7,109 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Habitat (वास स्थान), Flora (वनस्पति) & Fauna (प्राणीजात)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Habitat loss** is the number-one biodiversity threat. **Fragmentation** splits patches; **corridors** reconnect them.
-2. **MISHTI** is the Mangrove Initiative for Shoreline Habitats & Tangible Income from Budget **2023–24** under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय). It is **not** a 2019 scheme.
-3. **NUHHP** is the National Urban (नगरीय) Housing and Habitat Policy of **2007** (MoHUA).
-4. **Flora** means plant life of a region. **Fauna** means animal life. Do not swap the two.
-5. **BSI (1890, Kolkata)** surveys plants. **ZSI (1916, Kolkata)** surveys animals. Both sit in Kolkata; kingdoms differ.
-6. **Water hyacinth** is a common invasive threat in UP village ponds.
-7. **Terrestrial habitats** exist on land. Organisms that live on land are called **terrestrial habitants**.
-8. **Aquatic habitats** exist in freshwater or marine water. Rivers are lotic and lakes are lentic aquatic habitats.
-9. **Transitional habitats** such as wetlands, mangroves, and estuaries are neither purely terrestrial nor purely aquatic.
-10. **Abiotic factors** in a habitat include temperature, moisture, light, soil, pH, and salinity.
-11. **Biotic factors** include food availability, predators, competitors, and symbiotic partners.
-12. **Habitat conservation** protects the natural dwelling place of species so ecological processes can continue.
-13. **Habitat loss** completely removes an area's ability to support native species.
-14. **Habitat fragmentation** breaks a large habitat into small isolated patches and blocks movement and gene flow.
-15. **Habitat degradation** reduces habitat quality without removing it entirely, such as river pollution affecting dolphin habitat.
-16. **In-situ conservation** protects species inside their natural habitat. National parks and wildlife sanctuaries are examples.
-17. **Wildlife corridors** link fragmented habitats. The **Terai Arc Landscape** connects Dudhwa with Katarniaghat across the Nepal border.
-18. **Habitat restoration** rebuilds damaged ecosystems through afforestation, wetland revival, and mangrove planting.
-19. **MISHTI** stands for **Mangrove Initiative for Shoreline Habitats and Tangible Income**.
-20. **NUHHP** addresses urban habitat quality through housing and green-space planning in cities.
-21. **Flora** is the collective **plant** life of a particular region, habitat, or geological period.
-22. **Fauna** is the collective **animal** life of a particular region, habitat, or geological period.
-23. **Adolf Engler** mapped the world's major **floral regions**.
-24. **C.O. Sauer** introduced the concept of **planting hearth**, the region where domesticated plants first originated.
-25. **Red Sanders (*Pterocarpus santalinus*)** is a South India dry-deciduous endemic (Palkonda–Seshachalam / southern Eastern Ghats (पूर्वी घाट)) — **not** a tropical rainforest tree.
-26. **Taxus** occurs naturally in the Himalaya, is Red Data–listed, and yields **taxol** (anti-cancer; older stems also cite Parkinson’s).
+1. A **habitat** (वास स्थान) is the physical **place** where an organism lives. A **niche** is the **role**. An **ecosystem** (पारिस्थितिकी तंत्र) is the functional unit. **Environment** (पर्यावरण) is the total surroundings.
+2. Habitats are commonly classed as **terrestrial, aquatic, or transitional** (mangrove/wetland). Transitional habitats are not purely terrestrial.
+3. Adaptation labels include **arboreal** (trees), **fossorial** (burrows), **cursorial** (open plains), and **xericole** (desert).
+4. **Habitat loss** is the number-one biodiversity threat. **Fragmentation** splits patches; **corridors** reconnect them.
+5. **MISHTI** is the Mangrove Initiative for Shoreline Habitats & Tangible Income from Budget **2023–24** under MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय). It is **not** a 2019 scheme.
+6. **NUHHP** is the National Urban (नगरीय) Housing and Habitat Policy of **2007** (MoHUA).
+7. Habitat–scheme chronology: **JNNURM 2005 → NUHHP 2007 → AMRUT 2015 → Jal Jeevan Mission 2019**.
+8. **Flora** means plant life of a region. **Fauna** means animal life. Do not swap the two.
+9. India has roughly **45,000** plant species and **91,000+** animal species on about **2.4%** of world land.
+10. **BSI (1890, Kolkata)** surveys plants. **ZSI (1916, Kolkata)** surveys animals. Both sit in Kolkata; kingdoms differ.
+11. Engler is linked to world floral regions. **C.O. Sauer** is linked to planting hearths in cultural geography.
+12. A **microhabitat** (सूक्ष्म आवास) is a small subdivision inside a larger habitat.
+13. In-situ (स्थान पर) conservation (स्व-स्थाने संरक्षण) protects species in natural habitat; ex-situ (स्थानांतरित) is outside habitat — same fact as biodiversity sheets.
+14. Uttar Pradesh (उत्तर प्रदेश)’s richest wildlife habitat belt is the **Terai** (तराई) (Dudhwa (दुधवा), Pilibhit, Kishanpur).
+15. UP state animal is **barasingha**. UP state bird is **Sarus crane**.
+16. The **Terai Arc Landscape** corridor links UP Terai protected areas toward Nepal.
+17. Aquatic fauna facts for UP include the **Gangetic dolphin** in the Ganga (गंगा)–Yamuna (यमुना) system.
+18. **Water hyacinth** is a common invasive threat in UP village ponds.
+19. Uttar Pradesh has **no mangrove habitat** purposes — it is landlocked for that category.
+20. Habitat is an address; niche is a job description. Mixing the two loses marks on definition stems.
+21. Wetlands and mangroves are **transitional**, not “purely terrestrial forest” options.
+22. MISHTI is mangrove-focused coastal income and protection — not a Terai tiger scheme.
+23. Jal Jeevan Mission (**2019**) is the latest fact in the urban/habitat chronology set above; do not date NUHHP as 2019.
+24. Corridor questions for UP should start from Terai Arc links, not from Western Ghat mangrove corridors.
+25. **Terrestrial habitats** exist on land. Organisms that live on land are called **terrestrial habitants**.
+26. **Aquatic habitats** exist in freshwater or marine water. Rivers are lotic and lakes are lentic aquatic habitats.
+27. **Transitional habitats** such as wetlands, mangroves, and estuaries are neither purely terrestrial nor purely aquatic.
+28. **Abiotic factors** in a habitat include temperature, moisture, light, soil, pH, and salinity.
+29. **Biotic factors** include food availability, predators, competitors, and symbiotic partners.
+30. **Habitat conservation** protects the natural dwelling place of species so ecological processes can continue.
+31. **Habitat loss** completely removes an area's ability to support native species.
+32. **Habitat fragmentation** breaks a large habitat into small isolated patches and blocks movement and gene flow.
+33. **Habitat degradation** reduces habitat quality without removing it entirely, such as river pollution affecting dolphin habitat.
+34. **In-situ conservation** protects species inside their natural habitat. National parks and wildlife sanctuaries are examples.
+35. **Wildlife corridors** link fragmented habitats. The **Terai Arc Landscape** connects Dudhwa with Katarniaghat across the Nepal border.
+36. **Habitat restoration** rebuilds damaged ecosystems through afforestation, wetland revival, and mangrove planting.
+37. **MISHTI** stands for **Mangrove Initiative for Shoreline Habitats and Tangible Income**.
+38. **NUHHP** addresses urban habitat quality through housing and green-space planning in cities.
+39. **Flora** is the collective **plant** life of a particular region, habitat, or geological period.
+40. **Fauna** is the collective **animal** life of a particular region, habitat, or geological period.
+41. **Adolf Engler** mapped the world's major **floral regions**.
+42. **C.O. Sauer** introduced the concept of **planting hearth**, the region where domesticated plants first originated.
+43. **Red Sanders (*Pterocarpus santalinus*)** is a South India dry-deciduous endemic (Palkonda–Seshachalam / southern Eastern Ghats (पूर्वी घाट)) — **not** a tropical rainforest tree.
+44. **Taxus** occurs naturally in the Himalaya, is Red Data–listed, and yields **taxol** (anti-cancer; older stems also cite Parkinson’s).
 
+## ⏱️ Timeline / Chronology
 
----
+### Chronological Sequence of Wildlife Conservation Projects in India
+
+```
+1972 ──► Wildlife (Protection) Act enacted (6 Schedules; rationalized to 4 via 2022 Amendment)
+1973 ──► Project Tiger launched at Corbett National Park (9 initial reserves; now 55 Tiger Reserves)
+1975 ──► Crocodile Conservation Project launched with UNDP/FAO support (Mugger, Gharial, Saltwater)
+1986 ──► Nilgiri Biosphere Reserve designated (India's 1st Biosphere Reserve under UNESCO MAB)
+1992 ──► Project Elephant launched (Centrally Sponsored Scheme for wild elephant habitat & corridors)
+1996 ──► Vulture Conservation Action Plan initiated (banning veterinary diclofenac post-crash)
+2007 ──► Project Snow Leopard launched (covering Ladakh, HP, Uttarakhand, Sikkim, Arunachal)
+2020 ──► Project Dolphin & Project Lion announced on Independence Day
+2022 ──► Project Cheetah launched (intercontinental relocation of African cheetahs to Kuno NP, MP)
+```
+
+## 📊 Quick Reference Grid
+
+### Tags
+
+| Item | Lock |
+|------|------|
+| Habitat / Niche / Ecosystem | Place / role / functional unit |
+| Habitat classes | Terrestrial · aquatic · transitional |
+| Arboreal / Fossorial / Cursorial / Xericole | Trees / burrows / open plains / desert |
+| #1 threat | Habitat loss (+ fragmentation; corridors reconnect) |
+| Flora / Fauna | Plants / animals — do not swap |
+| India species share | ~45k plants; ~91k+ animals on ~2.4% land |
+
+### Schemes
+
+| Item | Lock |
+|------|------|
+| MISHTI | Mangrove initiative; Budget **2023–24** (≠ 2019) |
+| NUHHP | Urban Housing & Habitat Policy **2007** |
+| Chronology | JNNURM 2005 → NUHHP 2007 → AMRUT 2015 → JJM 2019 |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Habitat** | **Ecological Niche** | Physical geographic environment and specific spatial location where an organism resides vs functional status, behavioral role, and trophic interactions of that species in the community | आवास / पारिस्थितिक निकेत |
 | **Flora** | **Fauna** | Total native plant species assemblages inhabiting a particular geographic region or geological era vs total native animal species inhabiting a region or era | वनस्पति (फ्लोरा) / प्राणीजात (फॉना) |
 | **Microhabitat** | **Ecotone** | Small, localized physical niche within a broader habitat (e.g., under a rotting log, a tree cavity) vs macro-scale transitional boundary ecosystem between two adjacent distinct biomes (e.g., marsh between dry land and water) | सूक्ष्म आवास (माइक्रोहैबिटैट) / इकोटोन (संक्रमणिका) |
@@ -55,10 +118,20 @@ hide:
 | **Indicator Species** | **Invasive Species** | Species whose presence, absence, or abundance directly signals environmental stress or health (e.g. Lichens for SO₂ air pollution, Mayfly larvae for clean water) vs non-native species proliferating aggressively and threatening native ecology | जैव संकेतक प्रजाति / आक्रामक विदेशी प्रजाति |
 | **In-situ Conservation** | **Ex-situ Conservation** | On-site conservation in natural ecosystems (Sacred Groves, Wildlife Sanctuaries) vs off-site conservation under artificial human custody (Seed Banks, Tissue Culture Labs) | स्व-स्थाने संरक्षण / बाह्य-स्थाने संरक्षण |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

@@ -11,6 +11,18 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Daily Read — High-Yield Revision Facts (Indian Polity & Governance)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Landmark Fact / Constitutional Development | Exam Relevance / What You Mark |
+|---|---|---|
+| **2024 Focus** | **Electoral Bonds Judgment (*ADR v. UOI*)** | 5-judge Constitution Bench unanimously held anonymous electoral bonds unconstitutional, infringing citizens' **Right to Information under Article 19(1)(a)**. |
+| **2024 Focus** | **SC Ruling on Sub-Categorisation of SCs (*Davinder Singh*)** | 7-judge Constitution Bench (6:1) ruled that State Governments have constitutional competence to create **sub-classifications within Scheduled Castes** for affirmative action. |
+| **2024 Focus** | **State Taxation on Mineral Rights (*MADA v. SAIL*)** | 9-judge Constitution Bench ruled that royalty on minerals is **NOT a tax**; States retain power under **Entry 50 List II** to tax mineral-bearing lands. |
+| **2023–2024** | **High-Level Committee on Simultaneous Elections ('One Nation, One Election')** | Chaired by former President **Ram Nath Kovind**; recommended a two-step synchronization for Lok Sabha and State Assemblies followed by local body elections. |
+| **2023 Focus** | **106th Constitutional Amendment Act (Nari Shakti Vandan Adhiniyam)** | Reserves **one-third (33%) of seats for women** in Lok Sabha, State Legislative Assemblies, and Delhi Assembly; takes effect post-delimitation for 15 years. |
+| **2023 Focus** | **Chief Election Commissioner Appointment Act, 2023** | Selection Committee consists of: **Prime Minister (Chair), Leader of Opposition in Lok Sabha, and a Union Cabinet Minister**; CJI is NOT on the panel. |
+| **2022 Focus** | **EWS Reservation Constitutional Validity (*Janhit Abhiyan*)** | 5-judge Constitution Bench (3:2) upheld the **103rd CAA 2019** providing up to 10% quota for Economically Weaker Sections; economic criteria alone is valid. |
+
 ## 🎯 Consolidated Must-Score Facts
 
 1. The **Constitution of India** is the lengthiest written constitution in the world; originally adopted on **26 November 1949** with **395 Articles, 22 Parts, and 8 Schedules**, it currently comprises **25 Parts and 12 Schedules** (with about 470 Articles in numerical continuity).
@@ -28,70 +40,158 @@ hide:
 13. **South Africa** provided the procedure for **Amendment of the Constitution** (Art. 368) and the election of members of the Rajya Sabha by elected MLAs.
 14. **Schedules Master Summary (TEARS OF OLD PM):** 1st (28 States & 8 UTs); 2nd (Salaries of President, Governors, Judges, CAG — *Ministers are NOT in 2nd Sch*); 3rd (Forms of Oaths — *President, VP, and Governors take oath under Arts. 60, 69, 159, NOT 3rd Sch*); 4th (Rajya Sabha seats: UP leads with 31 seats).
 15. **Schedules 5 & 6:** The **5th Schedule** governs Scheduled Areas in 10 States; the **6th Schedule** provides Autonomous District Councils in **4 North-Eastern States: AMTM** (Assam, Meghalaya, Tripura, Mizoram; *Manipur is NOT included*).
-16. **Schedules 7 to 12:** 7th (Union: 100, State: 61, Concurrent: 52 entries); 8th (22 Languages); 9th (Validation of Acts, added by 1st Amd 1951; post-1973 laws subject to judicial review per *Coelho case*); 10th (Anti-Defection Law, 52nd Amd 1985); 11th (Panchayats: **29 subjects**, 73rd Amd 1992); 12th (Municipalities: **18 subjects**, 74th Amd 1992).
-17. **Eighth Schedule Language Additions:** Originally 14 languages; **Sindhi** added by 21st Amd (1967); **Konkani, Manipuri, Nepali** (KMN) added by 71st Amd (1992); **Bodo, Dogri, Maithili, Santhali** (BDMS) added by 92nd Amd (2003). *English and Bhojpuri are NOT in the 8th Schedule*.
-18. **Citizenship (Articles 5–11, Part II):** India has **single citizenship**; the Citizenship Act of **1955** provides 5 modes of acquisition (Birth, Descent, Registration, Naturalisation, Incorporation) and 3 modes of loss (Renunciation, Termination, Deprivation).
-19. **Fundamental Rights exclusively for Citizens:** Articles **15, 16, 19, 29, and 30** are available ONLY to Indian citizens; all other Fundamental Rights (Arts. 14, 20, 21, 21A, 22, 25, 26, 27, 28) apply to both citizens and foreigners (except enemy aliens).
-20. **Article 12 & 13:** Article 12 defines 'State' for Part III purposes (including statutory and non-statutory authorities like LIC, ONGC, SAIL); Article 13 establishes **Judicial Review**, voiding any law violative of Fundamental Rights (*Doctrines of Severability and Eclipse*).
-21. **Right to Equality (Articles 14–18):** Art. 14 (Equality before Law — UK negative concept; Equal Protection of Laws — US positive concept); Art. 15 (No discrimination *only* on grounds of religion, race, caste, sex, place of birth; 15(4) backward classes, 15(6) 10% EWS); Art. 16 (Equal opportunity in public employment); Art. 17 (Abolition of Untouchability — absolute right); Art. 18 (Abolition of Titles).
-22. **Article 19 (Six Democratic Freedoms):** 19(1)(a) Speech & Expression; 19(1)(b) Peaceful assembly without arms; 19(1)(c) Associations/Unions/Cooperatives; 19(1)(d) Free movement throughout India; 19(1)(e) Reside and settle; 19(1)(g) Trade/Occupation. The right to property under 19(1)(f) was repealed by the **44th Amendment, 1978**.
-23. **Article 20 (Three Criminal Safeguards):** Protection against **ex-post-facto criminal laws** (20(1)), protection against **Double Jeopardy** (20(2)), and protection against **Self-Incrimination** (20(3) — applies only to accused in criminal proceedings).
-24. **Article 21 & 21A:** Article 21 guarantees protection of life and personal liberty; expanded in ***Maneka Gandhi (1978)*** to require 'Due Process of Law' (just, fair, and reasonable procedure) and in ***Puttaswamy (2017)*** to include the **Right to Privacy**. **Article 21A** (Right to Education ages 6–14) was added by the **86th Amendment, 2002**.
-25. **Non-Suspendable Rights:** Under **Article 359** (as amended by 44th Amd 1978), the enforcement of **Articles 20 and 21 CANNOT BE SUSPENDED** even during a National Emergency.
-26. **Prerogative Writs (Art. 32 vs Art. 226):** Dr. Ambedkar described **Article 32** as the 'Heart and Soul' of the Constitution. The Supreme Court issues writs only for Fundamental Rights, whereas the High Court under **Article 226** can issue writs for both Fundamental Rights and ordinary legal rights (making Art. 226 broader in scope).
-27. **The Five Writs:** **Habeas Corpus** ('To have the body of', against both public and private entities); **Mandamus** ('We Command', against public officials for statutory duties; *cannot issue against President or Governor*); **Prohibition** (preventive against lower courts); **Certiorari** (quashes illegal orders of judicial/quasi-judicial/administrative bodies); **Quo-Warranto** ('By what authority', challenges illegal tenure in substantive public office).
-28. **Key Directive Principles (Part IV):** Art. 39A (Equal Justice & Free Legal Aid — 42nd Amd); Art. 40 (Village Panchayats); Art. 43B (Cooperatives — 97th Amd); Art. 44 (Uniform Civil Code); Art. 45 (Early childhood care up to age 6 — 86th Amd); Art. 48A (Environment & Wildlife — 42nd Amd); Art. 50 (Separation of Judiciary from Executive).
-29. **Fundamental Duties (Part IVA, Art. 51A):** Added by the **42nd Amendment, 1976** on the recommendation of the **Swaran Singh Committee**; non-justiciable; originally 10 duties; the **11th duty** (education of child aged 6–14 by parent/guardian) was added by the **86th Amendment, 2002**.
-30. **Presidential Election (Articles 54 & 55):** Electoral College consists of: (1) Elected members of both Houses of Parliament; (2) Elected members of State Legislative Assemblies; (3) Elected members of Delhi and Puducherry Assemblies (70th Amd 1992). *Nominated MPs/MLAs and ALL Legislative Council members (MLCs) DO NOT VOTE*.
-31. **Vice-Presidential Election (Article 66):** Electoral College consists of **ALL members of both Houses of Parliament (both Elected and Nominated)**. State MLAs and MLCs have NO role in the Vice-President's election.
-32. **Impeachment of President (Article 61):** Quasi-judicial process initiated in either House on grounds of 'Violation of the Constitution'; requires 14 days' written notice signed by 1/4th members; must be passed by a **special majority of not less than 2/3rds of the TOTAL MEMBERSHIP** of each House.
-33. **Pardoning Power (Art. 72 vs Art. 161):** The **President (Art. 72)** can grant pardons in all cases including **Death Sentences** and **Court-Martial (military)** sentences; the **Governor (Art. 161)** has no power to pardon death sentences or court-martial punishments.
-34. **Ordinance Promulgation (Art. 123 vs Art. 213):** The President (Art. 123) and Governor (Art. 213) can issue ordinances only when the legislature is in recess; an ordinance ceases to operate **6 weeks** after the reassembly of the legislature (maximum duration is 6 months + 6 weeks).
-35. **Council of Ministers Size (91st Amendment, 2003):** Total number of Ministers including the Prime Minister (or Chief Minister in States) shall not exceed **15% of the total strength** of the Lok Sabha (or State Legislative Assembly); in States, the minimum number of ministers cannot be less than **12** (Art. 164(1A)).
-36. **Joint Sitting of Parliament (Article 108):** Summoned by the President to resolve deadlocks on Ordinary or Financial Bills; presided over by the **Speaker of Lok Sabha** (or Deputy Speaker / Deputy Chairman of Rajya Sabha; *Chairman of Rajya Sabha NEVER presides*). *NO joint sitting is permissible for Money Bills or Constitutional Amendment Bills*.
-37. **Money Bill (Article 110):** Introduced only in Lok Sabha with prior presidential recommendation; the Speaker's decision that a bill is a Money Bill is final; Rajya Sabha cannot reject or amend it, and must return it within **14 days**.
-38. **Comptroller and Auditor General (CAG, Article 148):** Appointed by the President; tenure is **6 years or up to 65 years of age**; removed on the same grounds and manner as a Supreme Court Judge; audits accounts of Union and States; reports submitted to PAC.
-39. **Finance Commission (Article 280):** Quasi-judicial body constituted by the President every 5th year; consists of a **Chairman and 4 other members**; recommends devolution of net tax proceeds between Union and States.
-40. **Election Commission of India (Article 324):** Consists of Chief Election Commissioner (CEC) and Election Commissioners; CEC is removed in the same manner and grounds as a Supreme Court Judge. *Elections to Panchayats and Municipalities are conducted by the State Election Commission (Arts. 243K & 243ZA), NOT by the ECI*.
-41. **All-India Services (Article 312):** The **Rajya Sabha** has the exclusive constitutional power to pass a resolution by a **2/3rd majority of members present and voting** declaring it necessary in the national interest to create one or more new All-India Services.
-42. **Emergency Provisions (Part XVIII):** **Art. 352** (National Emergency: War, External Aggression, Armed Rebellion — approved within 1 month by special majority); **Art. 356** (President's Rule: failure of constitutional machinery — approved within 2 months by simple majority; max 3 years); **Art. 360** (Financial Emergency — never imposed).
-43. **Constitutional Amendment (Article 368, Part XX):** Requires Special Majority (majority of total membership + 2/3rd of members present and voting); federal provisions require additional ratification by legislatures of not less than half the States; the President **must give assent** to an amendment bill (24th Amd 1971).
-44. **Warrant of Precedence (1979 Notification):** 1. President → 2. Vice-President → 3. Prime Minister → 4. Governors (within their States) → 5. Former Presidents → 6. CJI and Lok Sabha Speaker (Equal Rank) → 7. Union Cabinet Ministers, Chief Ministers (within States), Leaders of Opposition → 7A. Bharat Ratna awardees → 9. Supreme Court Judges → 9A. CEC, CAG, UPSC Chairman → 11. Attorney General for India, Cabinet Secretary.
-45. **Uttar Pradesh Political Structure:** Vidhan Sabha has **403 seats** (84 reserved for SC, 2 for ST); Vidhan Parishad has **100 seats**; Lok Sabha representation is **80 seats** (17 SC, 0 ST); Rajya Sabha representation is **31 seats** (highest in the country).
+16. **Schedules 7 to 12:** 7th (Union, State, Concurrent Lists); 8th (22 Languages: English and Bhojpuri are *excluded*); 9th (Validation of Acts / Land Reforms — added by 1st CAA 1951); 10th (Anti-Defection Law — added by 52nd CAA 1985); 11th (Panchayats: 29 subjects — added by 73rd CAA 1992); 12th (Municipalities: 18 subjects — added by 74th CAA 1992).
+17. **Fundamental Rights (Part III, Arts. 12–35):** Described as the *Magna Carta of India*; enforceable against the State (Art. 12); laws inconsistent with FRs are void (Art. 13).
+18. **Fundamental Rights Available ONLY to Citizens:** **Articles 15, 16, 19, 29, and 30** are available exclusively to citizens of India; all other Fundamental Rights are available to all persons (citizens + foreigners).
+19. **The Six Fundamental Rights Categories:** (1) Right to Equality (Arts. 14–18); (2) Right to Freedom (Arts. 19–22); (3) Right against Exploitation (Arts. 23–24); (4) Right to Freedom of Religion (Arts. 25–28); (5) Cultural & Educational Rights (Arts. 29–30); (6) Right to Constitutional Remedies (Art. 32).
+20. **Right to Property (Historical Shift):** Omitted from Fundamental Rights by the **44th Constitutional Amendment Act, 1978**; re-inserted as a legal/constitutional right in **Article 300A (Part XII)**.
+21. **Article 17 (Untouchability):** Abolishes untouchability and forbids its practice in any form; an **absolute right** without exceptions; penalized under the **Protection of Civil Rights Act, 1955**.
+22. **Article 21 (Life & Personal Liberty):** Interpreted by the Supreme Court in *Maneka Gandhi (1978)* to mean life with human dignity, requiring procedure to be "just, fair, and reasonable"; includes Right to Privacy (*Puttaswamy 2017*), Right to Clean Environment, Right to Livelihood, and Right to Speedy Trial.
+23. **Article 21A (Right to Education):** Added by the **86th CAA, 2002**; free and compulsory education for all children between **6 and 14 years** of age; operationalized by RTE Act, 2009 (in force 1 April 2010).
+24. **Article 32 vs Article 226:** Article 32 (Supreme Court) is itself a Fundamental Right, but can be invoked **ONLY for Fundamental Rights**; Article 226 (High Court) is a constitutional right with a **wider scope**, covering Fundamental Rights as well as ordinary legal rights ("for any other purpose").
+25. **The Five Types of Writs:** (1) **Habeas Corpus** (against illegal detention; lies against public and private); (2) **Mandamus** (commands public official to perform statutory duty; does not lie against President/Governor); (3) **Prohibition** (preventive writ to stop lower court from exceeding jurisdiction); (4) **Certiorari** (curative and preventive writ to quash order of lower tribunal); (5) **Quo-Warranto** (inquires into legality of claim to public office).
+26. **Directive Principles of State Policy (Part IV, Arts. 36–51):** Non-justiciable (Art. 37) guidelines for socio-economic democracy; key articles: Art. 39(b) & (c) (wealth distribution); Art. 39A (Free Legal Aid); Art. 40 (Village Panchayats); Art. 44 (Uniform Civil Code); Art. 45 (Early childhood education <6 yrs); Art. 48A (Environment); Art. 50 (Separation of Judiciary from Executive); Art. 51 (International Peace).
+27. **Fundamental Duties (Part IVA, Art. 51A):** Added by **42nd CAA, 1976** on Swaran Singh Committee's recommendations; originally 10 duties; the **11th duty** (education for children 6–14 yrs) was added by **86th CAA, 2002**; non-justiciable.
+28. **President of India (Articles 52–62):** Elected by an Electoral College consisting of: **elected members of both Houses of Parliament AND elected members of Legislative Assemblies of States, Delhi, and Puducherry** (Nominated members and MLCs do NOT vote).
+29. **Impeachment of the President (Article 61):** Ground: **"Violation of the Constitution"**; notice requires 14 days and 1/4th members' signatures; must be passed by a **special majority of two-thirds of the TOTAL membership** of each House; nominated members of Parliament participate; MLAs DO NOT participate.
+30. **Vice-President of India (Articles 63–71):** Ex-officio Chairman of Rajya Sabha (Art. 64); elected by an Electoral College of **all members (elected + nominated) of BOTH Houses of Parliament** (MLAs do NOT vote); removed by effective majority in Rajya Sabha and simple majority in Lok Sabha (Art. 67).
+31. **Council of Ministers & Prime Minister (Articles 74 & 75):** Art. 75(3) establishes **Collective Responsibility** of the Council of Ministers to the **Lok Sabha** (not Parliament as a whole); the **91st CAA, 2003** capped the size of Council of Ministers at **15% of the total strength of Lok Sabha / State Assembly** (minimum 12 in States).
+32. **Ordinance-Making Power:** **Article 123** for President; **Article 213** for Governor; valid only when Parliament/Assembly is not in session; must be approved within **6 weeks of reassembly**; maximum life is **6 months and 6 weeks**.
+33. **Pardoning Power Comparison:** **Article 72** (President) covers court-martial sentences, union law offenses, and **all death sentences**; **Article 161** (Governor) covers state law offenses, but Governor **CANNOT pardon a death sentence** (can only suspend, remit, or commute).
+34. **Parliament Structure (Article 79):** Consists of the **President, the Council of States (Rajya Sabha), and the House of the People (Lok Sabha)**.
+35. **Parliamentary Financial Committees:** (1) **Public Accounts Committee (PAC)**: 22 members (15 LS + 7 RS), chaired by Opposition member; (2) **Estimates Committee**: 30 members (**ALL from Lok Sabha**), largest committee; (3) **Committee on Public Undertakings (COPU)**: 22 members (15 LS + 7 RS). Ministers cannot be elected to these committees.
+36. **Joint Sitting of Parliament (Article 108):** Summoned by the **President**; presided over by the **Speaker of Lok Sabha** (or Deputy Speaker, or Deputy Chairman of RS; Chairman of RS never presides); decided by simple majority; applicable only to Ordinary Bills and Financial Bills; **CANNOT be summoned for Money Bills or Constitutional Amendment Bills**.
+37. **Money Bill (Article 110):** Introduced only in Lok Sabha with prior presidential recommendation; Speaker's certification is final; Rajya Sabha must return within **14 days** with or without recommendations; LS can accept or reject RS recommendations; no joint sitting possible.
+38. **Comptroller and Auditor General (CAG, Article 148):** Appointed by the President; tenure is **6 years or 65 years of age**; removed like an SC Judge; **strictly ineligible for any further government employment** under Union or States (Art. 148(4)); reports examined by PAC.
+39. **Finance Commission (Article 280):** Quasi-judicial body constituted by the President every 5th year; consists of Chairman and 4 members; recommends distribution of net tax proceeds between Centre and States.
+40. **Election Commission of India (Article 324):** Consists of Chief Election Commissioner (CEC) and Election Commissioners; tenure **6 years or 65 years of age**; CEC removed like an SC Judge; other ECs removed on CEC's recommendation; under the 2023 Act, appointed by President on advice of PM, LoP, and a Union Cabinet Minister.
+41. **All-India Services (Article 312):** The **Rajya Sabha** has the exclusive constitutional power to create one or more new All-India Services by passing a resolution supported by a **two-thirds majority of members present and voting**.
+42. **Emergency Provisions (Part XVIII):** **Art. 352** (National Emergency: War, External Aggression, Armed Rebellion — approved within 1 month by special majority); **Art. 356** (President's Rule: failure of constitutional machinery — approved within 2 months by simple majority); **Art. 360** (Financial Emergency: **never declared in India**). Under Art. 359, **Articles 20 and 21 CAN NEVER BE SUSPENDED**.
+43. **Constitutional Amendment (Article 368, Part XX):** Requires Special Majority (majority of total membership + 2/3rd present and voting) in each House; amendments affecting federal provisions require additional **ratification by at least half of State Legislatures**; President must give assent; no joint sitting possible.
+44. **Warrant of Precedence (1979 Notification):** 1. President &rarr; 2. Vice-President &rarr; 3. Prime Minister &rarr; 4. Governors of States (within respective states) &rarr; 5. Former Presidents & Deputy PM (5A) &rarr; 6. Chief Justice of India & Speaker of Lok Sabha &rarr; 7. Union Cabinet Ministers, Chief Ministers (within states), Deputy Chairman NITI Aayog, Leaders of Opposition in RS & LS &rarr; 7A. Bharat Ratna recipients &rarr; 8. Ambassadors & CMs (outside states) &rarr; 9. Supreme Court Judges, CEC, CAG (9A).
+45. **Uttar Pradesh Political Structure:** Vidhan Sabha has **403 seats** (84 reserved for SC, 2 for ST); Vidhan Parishad has **100 seats**; UP sends **80 members to Lok Sabha** (17 SC, 0 ST) and **31 members to Rajya Sabha**; Allahabad High Court has the highest sanctioned strength (**160 judges**); Lucknow Bench created on 26 July 1948.
+46. **Constitutional vs Statutory Bodies Master Distinction:** Constitutional bodies derive direct mandate from constitutional articles (ECI Art. 324, UPSC/SPSC Art. 315, Finance Commission Art. 280, NCSC Art. 338, NCST Art. 338A, NCBC Art. 338B, CAG Art. 148, AG Art. 76, AdvG Art. 165); Statutory bodies are established by Acts of Parliament (NHRC, SHRC, CVC, CIC, Lokpal, NCW, NGT, UIDAI, NDMA); Executive bodies are set up by Cabinet resolutions (NITI Aayog, Law Commission).
+47. **Panchayati Raj Committees Chronological Ladder (B-A-G-S-T-G):** Balwant Rai Mehta (1957, 3-tier) &rarr; Ashok Mehta (1977, 2-tier) &rarr; G.V.K. Rao (1985, "grass without roots") &rarr; L.M. Singhvi (1986, constitutional status) &rarr; P.K. Thungon (1988, 5-yr term) &rarr; V.N. Gadgil (1988, 73rd CAA blueprint); Bhuria Committee (1994, PESA Act 1996 for Fifth Schedule areas).
+48. **Center-State Inter-State River Water Disputes (Article 262):** Parliament may by law provide for the adjudication of any dispute with respect to use, distribution, or control of waters of an inter-state river; enacted the **Inter-State River Water Disputes (ISRWD) Act, 1956**; key tribunals: Krishna (1969 & 2004), Godavari (1969), Narmada (1969), Cauvery (1990), Ravi & Beas (1986), Vansadhara (2010), Mahadayi (2010), Mahanadi (2018).
+49. **Constituent Assembly Key Committees and Chairs:** Drafting Committee (**Dr. B.R. Ambedkar**); Union Powers Committee & Union Constitution Committee (**Jawaharlal Nehru**); Provincial Constitution Committee & Advisory Committee on Fundamental Rights, Minorities and Tribal Areas (**Vallabhbhai Patel**); Rules of Procedure Committee & Steering Committee (**Dr. Rajendra Prasad**); Fundamental Rights Sub-Committee (**J.B. Kripalani**); Minorities Sub-Committee (**H.C. Mukherjee**); Flag Committee (**Dr. Rajendra Prasad**).
+50. **Recent Landmark Constitutional Amendments (101st to 106th):**
+   - **101st CAA, 2016:** Goods and Services Tax (GST); Article 279A creates GST Council.
+   - **102nd CAA, 2018:** Accorded constitutional status to National Commission for Backward Classes (NCBC) under Article 338B.
+   - **103rd CAA, 2019:** 10% reservation for Economically Weaker Sections (EWS) in admissions and government jobs (Articles 15(6) and 16(6)).
+   - **104th CAA, 2019:** Extended SC/ST reservation in Lok Sabha and Assemblies for 10 years (until 2030); abolished Anglo-Indian nominated seats in LS and Assemblies.
+   - **105th CAA, 2021:** Restored the power of State Governments and UTs to identify and maintain their own state lists of Socially and Educationally Backward Classes (SEBCs/OBCs).
+   - **106th CAA, 2023:** *Nari Shakti Vandan Adhiniyam* reserving one-third (33%) of all seats for women in Lok Sabha, State Legislative Assemblies, and Delhi Assembly for 15 years; effective after census and delimitation.
 
----
+## ⏱️ Timeline / Chronology
+
+```
+1773 ── Regulating Act of 1773 (Governor of Bengal becomes Governor-General; Supreme Court at Calcutta)
+1784 ── Pitt's India Act (Dual system: Court of Directors for commercial, Board of Control for political)
+1833 ── Charter Act of 1833 (Governor-General of Bengal becomes Governor-General of India: Lord William Bentinck)
+1858 ── Government of India Act 1858 ("Good Government of India"; Crown rule; Secretary of State & Viceroy)
+1909 ── Morley-Minto Reforms (Separate electorates for Muslims; Satyendra Prasad Sinha 1st Indian in Viceroy Council)
+1919 ── Montagu-Chelmsford Reforms (Dyarchy in Provinces; Bicameralism at Centre)
+1935 ── Government of India Act 1935 (Provincial Autonomy; Dyarchy at Centre; Federal Court; 3 Lists)
+1946 ── Cabinet Mission Plan & Constituent Assembly meets (9 Dec 1946; Dr. Sachchidananda Sinha temp Chairman)
+1947 ── Indian Independence Act 1947 & Drafting Committee appointed under Dr. Ambedkar (29 Aug)
+1949 ── Constitution adopted by Constituent Assembly (26 Nov — Constitution Day)
+1950 ── Constitution of India comes into full force (26 Jan — Republic Day); Supreme Court inaugurated (28 Jan)
+1951 ── 1st CAA (Ninth Schedule, Art. 15(4), 19(2) restrictions) & 1st General Elections (1951–52)
+1956 ── 7th CAA (States Reorganisation; 14 States & 6 UTs; common High Courts)
+1973 ── Kesavananda Bharati Judgment (24 April: Basic Structure Doctrine established)
+1976 ── 42nd CAA ("Mini-Constitution": Socialist, Secular, Integrity added; Fundamental Duties Part IVA)
+1978 ── 44th CAA (Right to property removed from FRs; Arts. 20 & 21 safeguarded during emergency)
+1985 ── 52nd CAA (Tenth Schedule Anti-Defection Law enacted)
+1992 ── 73rd & 74th CAAs (Constitutional status to Panchayats & Municipalities)
+2002 ── 86th CAA (Article 21A Right to Education & 11th Fundamental Duty inserted)
+2016 ── 101st CAA (Goods and Services Tax - GST Council under Art. 279A)
+2019 ── 103rd CAA (10% EWS quota) & 104th CAA (Anglo-Indian quota abolished)
+2023 ── 106th CAA (Nari Shakti Vandan Adhiniyam: 33% Women reservation in LS & Assemblies)
+```
+
+## 📊 Quick Reference Grid
+
+### Master Borrowed Features Grid
+
+| Country / Source | Constitutional Features Borrowed | Non-Negotiable Prelims Traps |
+|---|---|---|
+| **Government of India Act, 1935** | Federal scheme, Office of Governor, Judiciary, Public Service Commissions, Emergency Provisions, Administrative details | The basic structural spine of the Constitution is drawn from 1935 Act, NOT the UK. |
+| **United Kingdom (UK)** | Parliamentary government, Rule of Law, Single Citizenship, Cabinet system, Prerogative Writs, Bicameralism, Office of Speaker | Writs are from UK, but judicial review is from USA. Single citizenship from UK. |
+| **United States of America (USA)** | Fundamental Rights (Part III), Independence of Judiciary, Judicial Review, Impeachment of President, Removal of SC/HC judges, Preamble | Preamble idea from USA, but language/ideals of justice from USSR/France. |
+| **Ireland** | Directive Principles of State Policy (Part IV), Nomination of 12 Rajya Sabha members, Method of Presidential Election | DPSP borrowed from Ireland (which borrowed from Spain). |
+| **Canada** | Federation with a strong Centre, Residuary powers with Centre (Art. 248), Advisory jurisdiction of SC (Art. 143), Appointment of Governors by Centre | Residuary powers vest in Centre (Canada), NOT States (USA). |
+| **Australia** | Concurrent List (7th Schedule), Freedom of Trade and Commerce (Part XIII), Joint Sitting of Parliament (Art. 108) | Joint sitting is from Australia, NOT UK. |
+| **Germany (Weimar)** | Suspension of Fundamental Rights during National Emergency (Art. 359) | Only the *suspension of FRs* is from Weimar; emergency framework is from 1935 Act. |
+| **USSR (Russia)** | Fundamental Duties (Part IVA, Art. 51A), Ideals of Justice (Social, Economic, Political) in Preamble | Swaran Singh Committee (1976) drew on USSR constitution. |
+| **France** | Republic, Ideals of Liberty, Equality, Fraternity in Preamble | Republic means elected Head of State; French Revolution 1789. |
+| **South Africa** | Procedure for Amendment of Constitution (Art. 368), Election of Rajya Sabha members by MLAs | Rajya Sabha elections from South Africa, but RS nominations from Ireland. |
+| **Japan** | Procedure Established by Law (Article 21) | B.N. Rau borrowed phrase from Article 31 of Japanese Constitution. |
+
+### Constitutional Offices Comparison Grid
+
+| Office | Article | Appointing Authority | Tenure / Age Limit | Removal Authority & Ground |
+|---|---|---|---|---|
+| **President** | Art. 52 | Elected by Electoral College (MPs + MLAs) | 5 Years | **Parliament** (Impeachment under Art. 61 for Violation of Constitution; 2/3 total membership) |
+| **Vice-President** | Art. 63 | Elected by Parliament (all MPs) | 5 Years | **Parliament** (Effective majority in RS + Simple majority in LS, Art. 67) |
+| **Governor** | Art. 153 | Appointed by President | Pleasure of President (5 yrs) | **President** (No constitutional grounds or procedure specified) |
+| **CAG** | Art. 148 | Appointed by President | **6 yrs or 65 yrs** | **President** (Same manner and grounds as SC Judge under Art. 124(4)) |
+| **Attorney General** | Art. 76 | Appointed by President | Pleasure of President | **President** (No fixed tenure; pleasure of President) |
+| **Advocate General** | Art. 165 | Appointed by Governor | Pleasure of Governor | **Governor** (Pleasure of Governor) |
+| **CEC & ECs** | Art. 324 | Appointed by President | **6 yrs or 65 yrs** | CEC: **Like SC Judge**; ECs: **On recommendation of CEC** |
+| **UPSC Chairman** | Art. 315 | Appointed by President | **6 yrs or 65 yrs** | **President** (After binding SC inquiry on misbehaviour under Art. 317) |
+| **SPSC Chairman** | Art. 315 | Appointed by **Governor** | **6 yrs or 62 yrs** | **PRESIDENT ONLY** (After binding SC inquiry on misbehaviour under Art. 317) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+| Confused Pair / Trap | Correct Concept / Fact | Common Examiner Trap | Hindi Key |
 |---|---|---|---|
-| **Art. 32 vs Art. 226** | SC writ is for **Fundamental Rights only**; HC writ is for **FR + ordinary legal rights (wider)** | Believing SC writ power is wider than High Court | अनु. 32 (केवल मूल अधिकार) vs अनु. 226 (विस्तृत) |
-| **Habeas Corpus vs Mandamus** | Habeas Corpus lies against **public AND private**; Mandamus lies **only against public bodies/officials** | Claiming Mandamus can be issued against private firms | बंदी प्रत्यक्षीकरण (निजी भी) vs परमादेश (केवल लोक) |
-| **Estimates vs PAC** | Estimates Committee has **30 members (all Lok Sabha)**; PAC has **22 members (15 LS + 7 RS)** | Saying Estimates Committee includes Rajya Sabha members | प्राक्कलन (30 केवल लोकसभा) vs लोक लेखा (15+7) |
-| **State PSC Appointment vs Removal** | Governor **appoints**; but **REMOVED ONLY BY THE PRESIDENT** under Art. 317 | Marking Governor as the removing authority for SPSC | नियुक्ति: राज्यपाल; निष्कासन: राष्ट्रपति |
-| **Emergency Origin vs FR Suspension** | Emergency framework from **GOI Act 1935**; Suspension of FRs from **Weimar Germany** | Crediting Germany with creating the emergency provisions | आपातकाल: 1935 एक्ट; मू.अ. निलंबन: वाइमर |
-| **Non-Suspendable Rights** | **Articles 20 and 21** can **NEVER be suspended** during emergency (44th Amd 1978) | Claiming all Fundamental Rights are suspended in emergency | अनु. 20 व 21 कभी निलंबित नहीं |
-| **Right to Property Status** | **Legal/Constitutional right under Art. 300A** (Part XII); deleted from FRs by 44th Amd 1978 | Calling Right to Property a Fundamental Right | विधिक अधिकार (Art. 300A) |
-| **Precedence: CJI vs Speaker** | **Both hold EQUAL Rank 6** in official Warrant of Precedence | Ranking CJI above Speaker or vice-versa | CJI = लोकसभा अध्यक्ष (समान रैंक 6) |
-| **Precedence: Ministers vs SC Judges** | Cabinet Ministers = **Rank 7**; Supreme Court Judges = **Rank 9** | Putting Supreme Court Judges ahead of Union Cabinet Ministers | कैबिनेट मंत्री (रैंक 7) vs सुप्रीम कोर्ट जज (रैंक 9) |
-| **Inter-State Council vs Zonal Council** | Inter-State Council = **Constitutional (Art. 263)**; Zonal Councils = **Statutory (SRA 1956)** | Mixing constitutional and statutory status of councils | अंतर-राज्य परिषद (संवैधानिक) vs क्षेत्रीय परिषद (सांविधिक) |
-| **CVC vs NCBC** | CVC = **Statutory Body (2003 Act)**; NCBC = **Constitutional Body (Art. 338B via 102nd Amd)** | Marking CVC as a constitutional body | CVC (सांविधिक) vs NCBC (संवैधानिक) |
-| **NITI Aayog Status** | **Non-Constitutional, Non-Statutory (Executive Body by Cabinet Resolution 2015)** | Calling NITI Aayog a statutory body created by Parliament | नीति आयोग (कार्यकारी निकाय) |
-| **Panchayat vs Municipality Subjects** | 11th Schedule = **29 subjects**; 12th Schedule = **18 subjects** | Swapping 29 and 18 between Panchayats and Municipalities | 11वीं अनुसूची (29) vs 12वीं अनुसूची (18) |
-| **6th Schedule vs 5th Schedule** | 6th Schedule = **Assam, Meghalaya, Tripura, Mizoram (AMTM)**; 5th = Other 10 states | Including Manipur or Nagaland in the 6th Schedule | छठी अनुसूची (केवल AMTM; मणिपुर बाहर) |
-| **8th Schedule Exclusions** | **English and Bhojpuri** are NOT in the 22 languages of the Eighth Schedule | Assuming English or Bhojpuri are officially recognized in 8th Sch | अंग्रेजी व भोजपुरी 8वीं अनुसूची में नहीं |
-| **Voting Age: 21 to 18** | Enacted by **61st Constitutional Amendment Act 1988** (in force 1989) | Confusing with 42nd or 44th Amendment | मतदान आयु 18 वर्ष: 61वां संशोधन |
-| **Council of Ministers Ceiling** | **Max 15%** of Lok Sabha / Vidhan Sabha strength (**91st Amendment 2003**); State min = 12 | Stating 10% or 20% limit for Council of Ministers | मंत्री परिषद अधिकतम 15% (91वां संशोधन) |
-| **Art. 2 vs Art. 3** | Art. 2 = Admission/Establishment of **NEW (foreign) states**; Art. 3 = Alteration of **EXISTING states** | Conflating external admission with internal reorganization | अनु. 2 (नया राज्य) vs अनु. 3 (विद्यमान राज्य) |
-| **Kesavananda vs Golaknath** | *Golaknath (1967)* = FR unamendable; *Kesavananda (1973)* = Amending power intact BUT Basic Structure limited | Confusing which case introduced the Basic Structure | गोलकनाथ (अपरिवर्तनीय) vs केशवानंद (मूल ढांचा) |
-| **S.R. Bommai vs Minerva Mills** | *Bommai (1994)* = Curbs on Art. 356 & Secularism; *Minerva Mills (1980)* = Balance between FR and DPSP | Swapping case holdings on federalism and judicial review | बोम्मई (अनु. 356) vs मिनर्वा मिल्स (सन्तुलन) |
-| **Ordinance Max Duration** | **6 weeks from reassembly of Parliament**; absolute max without approval = **6 months + 6 weeks** | Stating ordinance maximum lifespan is strictly 6 months | 6 सप्ताह (सत्रारंभ से) / अधिकतम 7.5 माह |
-| **Money Bill Certifier** | **Speaker of Lok Sabha alone** certifies; Rajya Sabha has only **14 days** | Stating President or Finance Minister certifies a Money Bill | धन विधेयक: अध्यक्ष का अंतिम निर्णय |
-| **UP Legislative Strength** | Vidhan Sabha = **403**; Vidhan Parishad = **100**; Lok Sabha = **80**; Rajya Sabha = **31** | Writing 404 for Assembly (Anglo-Indian nomination abolished) | विधानसभा: 403, विधान परिषद: 100, LS: 80, RS: 31 |
-| **104th vs 106th Amendment** | 104th (2020) = End of Anglo-Indian nomination; 106th (2023) = 33% Women reservation | Confusing women quota amendment number | 104वां (एंग्लो-इंडियन अंत) vs 106वां (नारी शक्ति) |
+| **Art. 32 vs Art. 226 Scope** | SC writ is for **Fundamental Rights only**; HC writ is for **FR + ordinary legal rights (wider)**. | Believing SC writ power is wider than High Court. | अनु. 32 (केवल मूल अधिकार) vs अनु. 226 (विस्तृत) |
+| **Habeas Corpus vs Mandamus** | Habeas Corpus lies against **public AND private**; Mandamus lies **only against public bodies/officials**. | Claiming Mandamus can be issued against private firms. | बंदी प्रत्यक्षीकरण (निजी भी) vs परमादेश (केवल लोक) |
+| **Estimates vs PAC Composition** | Estimates Committee has **30 members (all Lok Sabha)**; PAC has **22 members (15 LS + 7 RS)**. | Saying Estimates Committee includes Rajya Sabha members. | प्राक्कलन (30 केवल लोकसभा) vs लोक लेखा (15+7) |
+| **State PSC Appointment vs Removal** | Governor **appoints**; but **REMOVED ONLY BY THE PRESIDENT** under Art. 317. | Marking Governor as the removing authority for SPSC. | नियुक्ति: राज्यपाल; निष्कासन: राष्ट्रपति |
+| **Emergency Origin vs FR Suspension** | Emergency framework from **GOI Act 1935**; Suspension of FRs from **Weimar Germany**. | Crediting Germany with creating the emergency provisions. | आपातकाल: 1935 एक्ट; मू.अ. निलंबन: वाइमर |
+| **Non-Suspendable Rights** | **Articles 20 and 21** can **NEVER be suspended** during emergency (44th Amd 1978). | Claiming all Fundamental Rights are suspended in emergency. | अनु. 20 व 21 कभी निलंबित नहीं |
+| **Right to Property Status** | Property is a **Constitutional / Legal Right under Art. 300A**, NOT a Fundamental Right. | Trapping Property as an ordinary executive right or human right only. | संपत्ति का अधिकार (अनुच्छेद 300A) |
+| **Vice-President vs President Electors** | VP electors = **all MPs (elected + nominated)**, NO MLAs; President electors = **elected MPs + elected MLAs**. | Claiming MLAs vote in VP election. | उपराष्ट्रपति निर्वाचक मंडल (विधायक नहीं) |
+| **Rajya Sabha Dissolution** | Rajya Sabha is a **permanent body NOT subject to dissolution**; 1/3rd retire every 2 years. | Claiming President can dissolve Rajya Sabha after 6 years. | राज्यसभा कभी भंग नहीं होती |
+| **Money Bill Rajya Sabha Power** | RS has only **14 days** to make recommendations; cannot amend or reject; LS may accept/reject. | Claiming RS can reject a Money Bill. | धन विधेयक पर राज्यसभा की सीमित शक्तियां |
+| **Preamble Enforceability** | Preamble is **NON-JUSTICIABLE** (cannot be directly enforced in courts). | Claiming Preamble can be enforced like Fundamental Rights. | प्रस्तावना (गैर-न्यायप्रवर्तनीय) |
+| **8th Schedule Languages** | Contains **22 languages**; **English and Bhojpuri ARE NOT in the Eighth Schedule**. | Claiming English is an 8th Schedule language. | 8वीं अनुसूची (अंग्रेजी व भोजपुरी बाहर) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Twelve Schedules Master Mnemonic: "TEARS OF OLD PM"
+- **T:** **T**erritories & States (1st)
+- **E:** **E**moluments & Salaries (2nd)
+- **A:** **A**ffirmations & Oaths (3rd)
+- **R:** **R**ajya Sabha seat allocation (4th)
+- **S:** **S**cheduled Areas administration (5th)
+- **O:** **O**ther Tribal Areas — AMTM (6th)
+- **F:** **F**ederal Lists — Union, State, Concurrent (7th)
+- **O:** **O**fficial Languages — 22 languages (8th)
+- **L:** **L**and Reforms & protected Acts (9th)
+- **D:** **D**efection disqualification rules (10th)
+- **P:** **P**anchayats — 29 functional items (11th)
+- **M:** **M**unicipalities — 18 functional items (12th)
+
+### 2. Fundamental Rights Exclusive to Indian Citizens: "15, 16, 19, 29, 30"
+- Only Indian citizens enjoy these five articles. All other FRs (14, 20, 21, 21A, 22, 23, 24, 25, 26, 27, 28) apply to all persons.
+
+### 3. Five Prerogative Writs: "H-M-P-C-Q"
+- **H:** **H**abeas Corpus (बंदी प्रत्यक्षीकरण — "To have the body")
+- **M:** **M**andamus (परमादेश — "We command public duty")
+- **P:** **P**rohibition (प्रतिषेध — "To forbid lower courts")
+- **C:** **C**ertiorari (उत्प्रेषण — "To be certified / quash illegal orders")
+- **Q:** **Q**uo-Warranto (अधिकार-पृच्छा — "By what authority")
+
+### 4. Panchayati Raj Committees Ladder: "B-A-G-S-T-G"
+- **B (1957):** **B**alwant Rai Mehta (3-tier)
+- **A (1977):** **A**shok Mehta (2-tier)
+- **G (1985):** **G**VK Rao ("Grass without roots")
+- **S (1986):** LM **S**inghvi (Constitutional status)
+- **T (1988):** PK **T**hungon (5-year term & SFC)
+- **G (1988):** VN **G**adgil (73rd Amendment blueprint)
+
 
 ## 🎯 Revision Practice MCQs (Mastery Drill)
 

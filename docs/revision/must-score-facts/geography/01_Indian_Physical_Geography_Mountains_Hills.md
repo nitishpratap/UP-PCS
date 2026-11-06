@@ -7,9 +7,16 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 1 — Indian Physical Geography: Mountains & Hills</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **Mar 2024** | **Sela Tunnel** (BRO) — all-weather twin-lane tunnel (13,000+ ft) to **Tawang, Arunachal Pradesh**; cuts travel time drastically | Border infrastructure, strategic Himalayan passes |
+| **2025** | **Z-Morh / Sonamarg Tunnel** — all-weather link between Srinagar and Ladakh axis; bypasses avalanche zones | High-altitude all-weather connectivity (लद्दाख धुरी) |
+| **2020 / PYQ 2025** | **Atal Tunnel (Rohtang)** — 9.02 km long, cuts through **Pir Panjal Range**; official tag: longest highway tunnel **above 10,000 ft** (not unqualified world's longest) | Examiner trap on tunnel qualifiers / mountain range |
+| **2024–2025** | **Shinku La Tunnel** approved by Cabinet — all-weather route connecting Himachal Pradesh (Lahaul) to Ladakh (Zanskar) at 15,800 ft | World's highest highway tunnel under construction |
+| **2023–2025** | **Kishtwar Cloudbursts & Landslides** — geological vulnerability of Lesser Himalaya / Shiwalik slopes | Tectonic youth & unconsolidated Shiwalik strata (शिवालिक) |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -67,47 +74,172 @@ hide:
 
 ---
 
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               GEOLOGICAL ROCK SYSTEMS & FORMATION SEQUENCE OF INDIA (OLD TO NEW)
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [Pre-Cambrian / Archean] ───> 4.0 - 2.5 Billion Years Ago
+  │  ★ ARCHEAN SYSTEM: Gneiss & Granites (Bengal, Bundelkhand, Nilgiri). Oldest, crystalline, basement complex, azoon (fossil-less).
+  │
+  ▼
+  [Pre-Cambrian / Dharwar] ───> 2.5 - 1.8 Billion Years Ago
+  │  ★ DHARWAR SYSTEM: First metamorphosed sedimentary rocks (Karnataka, Chotanagpur, Aravalli).
+  │    Rich in minerals: Iron ore, Gold (Kolar), Manganese, Copper. Highly mineralized rock system.
+  │
+  ▼
+  [Pre-Cambrian / Cuddapah] ───> 1400 - 600 Million Years Ago
+  │  ★ CUDDAPAH SYSTEM: Sandstones, shales, limestones (Andhra Pradesh, Chhattisgarh, Delhi).
+  │    Unfossiliferous; building stone, limestone for cement.
+  │
+  ▼
+  [Pre-Cambrian / Vindhyan] ───> 1300 - 600 Million Years Ago
+  │  ★ VINDHYAN SYSTEM: Vast sedimentary strata north of Narmada rift; Red sandstone, diamond-bearing (Panna & Golconda).
+  │    Separates Northern Plains from Peninsular India; building materials of Delhi Red Fort & Sanchi Stupa.
+  │
+  ▼
+  [Carboniferous - Jurassic] ──> 300 - 150 Million Years Ago
+  │  ★ GONDWANA SYSTEM: River basin fault depressions (Damodar, Mahanadi, Godavari, Wardha).
+  │    Contains >98% of India's coal reserves; terrestrial plant fossils (*Glossopteris* flora).
+  │
+  ▼
+  [Late Cretaceous] ───────────> 66 Million Years Ago
+  │  ★ DECCAN TRAPS: Massive fissure basalt eruption during Reunion hotspot transit; step-like lava topography.
+  │    Weathered into fertile Black Soil (Regur); intertrappean beds contain freshwater fossils.
+  │
+  ▼
+  [Tertiary System] ───────────> 65 - 2 Million Years Ago (Cenozoic)
+  │  ★ HIMALAYAN OROGENY (Three Major Uplift Phases):
+  │    Phase 1 (Oligocene, ~35-25 Ma): Himadri / Greater Himalaya (fossil-less crystalline core, granites).
+  │    Phase 2 (Mid-Miocene, ~14 Ma): Himachal / Lesser Himalaya (marine sediment folding, Pir Panjal, Dhauladhar).
+  │    Phase 3 (Pliocene-Pleistocene, ~2-1 Ma): Shiwalik Range (unconsolidated river sediments, mammalian fossils).
+  │
+  ▼
+  [Quaternary / Recent] ───────> Pleistocene to Holocene (2 Ma - Present)
+     ★ INDO-GANGETIC ALLUVIAL PLAINS & THAR DESERT:
+       Foredeep sag filled by Himalayan river alluvium (Bhabar → Terai → Bhangar → Khadar).
+       Thar Desert sand accumulation is Pleistocene-Recent, NOT Tertiary.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Himalayan Longitudinal Belts (North to South)
+
+| Belt | Alternative Name | Average Elevation | Geological Nature & Fossils | Key Ranges / Features |
+|---|---|---|---|---|
+| **Trans-Himalaya** | Tibetan Himalaya | 3,000–6,000 m | Tethys sediments, older than Greater Himalaya | Karakoram (K2), Ladakh, Zaskar; Kailash (Tibet) |
+| **Himadri** | Greater / Inner Himalaya | ~6,100 m | Archean crystalline core (granite, gneiss); **completely fossil-less** | Everest, Kanchenjunga, Makalu, Nanda Devi, Kamet |
+| **Himachal** | Lesser / Middle Himalaya | 3,700–4,500 m | Metamorphosed & sedimentary rocks; **marine fossils present** | Pir Panjal, Dhauladhar, Nag Tibba, Mahabharat |
+| **Shiwalik** | Outer / Sub-Himalaya | 900–1,200 m | **Unconsolidated fluvial sediments** (silt, clay, gravels); mammalian & human fossils | Duns (Dehradun, Kotli, Patli), Duars; landslide-prone |
+
+### 2. Regional Divisions of Himalayas (Burrard's Classification)
+
+| Region | Boundary Rivers | Length | Key Peaks & Passes | Special Geographic Features |
+|---|---|---|---|---|
+| **Punjab / Kashmir Himalaya** | Indus to Sutlej | 560 km | Nanga Parbat; Zoji La, Pir Panjal, Banihal | Karewas (lacustrine saffron terraces), Dal Lake, Wular Lake |
+| **Kumaon / Himachal Himalaya** | Sutlej to Kali | 320 km | Nanda Devi (7,816 m), Kamet, Trishul; Rohtang, Shipki La, Lipulekh, Mana, Niti | Source of Ganga & Yamuna; Dun valleys; sacred Char Dhams |
+| **Nepal / Central Himalaya** | Kali to Teesta | 800 km | Mt. Everest (8,848.86 m), Kanchenjunga, Makalu, Annapurna, Dhaulagiri | Highest & most continuous section; narrowest foothills |
+| **Assam / Eastern Himalaya** | Teesta to Dihang (Tsangpo) | 720 km | Namcha Barwa, Kula Kangri, Chomo Lhari; Nathu La, Jelep La, Bomdi La | Deep gorges (Tsangpo/Brahmaputra knee-bend), dense rain forests |
+
+### 3. High-Yield Mountain Passes of India
+
+| State / UT | Major Pass | Connects / Strategic Route | Geological / Exam Distinction |
+|---|---|---|---|
+| **Ladakh** | **Karakoram Pass** | Ladakh to Tarim Basin (China) | Ancient Silk Road caravan route; high-altitude pass |
+| | **Zoji La** | Srinagar to Kargil & Leh | Cuts through Great Himalaya; Zojila all-weather tunnel |
+| | **Chang La / Khardung La** | Leh to Pangong Tso / Nubra Valley | Gateways to Pangong & Siachen Glacier axis |
+| | **Umling La** | Chisumle to Demchok | **World's highest motorable road/pass** (19,024 ft) built by BRO |
+| **Jammu & Kashmir** | **Banihal Pass** | Jammu to Srinagar | Crossed by Jawahar Tunnel; under Pir Panjal Range |
+| | **Pir Panjal Pass** | Jammu to Kashmir Valley (*Peer Ki Gali*) | Historic Mughal Road route |
+| **Himachal Pradesh** | **Rohtang Pass** | Kullu Valley to Lahaul & Spiti | Atal Tunnel (9.02 km) under Rohtang in Pir Panjal |
+| | **Shipki La** | Kinnaur (HP) to Tibet | **Sutlej River enters India** through this gorge; Zaskar Range |
+| | **Bara-lacha La** | Manali/Mandi to Leh | Origin of Chandra and Bhaga rivers (Chenab) |
+| **Uttarakhand** | **Lipulekh** | Pithoragarh to Kailash-Mansarovar (Tibet) | India–Nepal–China trijunction; Kailash yatra route |
+| | **Mana Pass & Niti Pass** | Chamoli (Garhwal) to Tibet | Near Badrinath; historic trade routes |
+| | **Muling La** | Uttarkashi to Tibet | High-altitude pass north of Gangotri |
+| **Sikkim** | **Nathu La & Jelep La** | Sikkim to Chumbi Valley (Tibet) | Historic Silk Route branch; reopened for border trade |
+| **Arunachal Pradesh** | **Bomdi La** | Western Arunachal to Lhasa (Tibet) | Near Tawang monastery; connects Tezpur to Tawang |
+| | **Diphu Pass** | Arunachal to Myanmar & China | India–China–Myanmar border tri-junction |
+| | **Pangsau Pass** | Arunachal (Patkai Hills) to Myanmar | Historic Ledo Road (Stilwell Road) during WWII |
+| **Western Ghats (MH/KL/TN)** | **Thalghat (Kasara)** | Mumbai to Nashik / Nagpur / North India | Traversed by NH-160 & central railway line |
+| | **Bhorghat** | Mumbai to Pune / Bengaluru / South India | Traversed by Mumbai-Pune Expressway & rail line |
+| | **Palghat (Palakkad Gap)** | Coimbatore (TN) to Palakkad / Kochi (KL) | Broad structural rift between Nilgiri and Anamalai Hills |
+| | **Shenkottai Pass** | Kollam (Kerala) to Madurai / Tenkasi (TN) | Break between Cardamom Hills and Agasthyamalai |
+
+### 4. Peninsular Mountain Ranges & Highest Peaks
+
+| Mountain Range | Highest Peak | Elevation | Location / States | Key Features & Rocks |
+|---|---|---|---|---|
+| **Aravalli Range** | **Guru Shikhar** (Mount Abu) | 1,722 m | Gujarat, Rajasthan, Haryana, Delhi | Oldest relict fold mountain in India; Pre-Cambrian quartzites |
+| **Vindhya Range** | **Sadbhawna Shikhar** (Kalumar/Goodwill) | 752 m | Gujarat, MP, UP, Bihar | North of Narmada; watershed between Ganga & Peninsular rivers; red sandstone |
+| **Satpura Range** | **Dhupgarh** (Pachmarhi) | 1,350 m | Gujarat, Maharashtra, MP, Chhattisgarh | Horst mountain between Narmada (north) and Tapi (south) rift valleys |
+| **Western Ghats (Sahyadri)** | **Anaimudi** (Anamalai Hills) | 2,695 m | Kerala | Highest peak in South India / Peninsular India; UNESCO World Heritage site |
+| **Nilgiri Hills** | **Doddabetta** | 2,637 m | Tamil Nadu | Junction of Western & Eastern Ghats; charnockite rocks; Toda tribe |
+| **Eastern Ghats** | **Jindhagada / Arma Konda** | 1,690 m | Andhra Pradesh / Odisha | Discontinuous, heavily dissected by Godavari, Krishna, Mahanadi |
+| **Maikal Range** | **Amarkantak** | 1,048 m | Madhya Pradesh / Chhattisgarh | Radial drainage: source of Narmada, Son, and Johilla rivers |
+| **Garo–Khasi–Jaintia** | **Shillong Peak** (Khasi) | 1,961 m | Meghalaya | Peninsular plateau outpost (detached by Malda Gap); Mawsynram & Cherrapunji |
+| **Naga Hills** | **Saramati** | 3,826 m | Nagaland | Border of India and Myanmar; highest in Purvanchal |
+| **Mizo (Lushai) Hills** | **Phawngpui** (Blue Mountain) | 2,157 m | Mizoram | Synclines and anticlines forming "rolling valley" topography |
+
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Himadri** (Greater Himalaya) | **Himachal** (Lesser Himalaya) | Archean fossil-less crystalline core vs folded marine sediments with fossils | हिमाद्रि / हिमाचल |
+| **Himachal** (Lesser Himalaya) | **Shiwalik** (Outer Himalaya) | Metamorphic & marine rocks vs young unconsolidated fluvial sediments & human fossils | हिमाचल / शिवालिक |
+| **Bhangar** | **Khadar** | Older alluvial upland with calcareous kankar vs newer flood-renewed fertile silt | भांगर / खादर |
+| **Bhabar** | **Terai** | Porous pebble-boulder belt where streams sink vs marshy ill-drained lowland where streams re-emerge | भाबर / तराई |
+| **Western Ghats** (Sahyadri) | **Eastern Ghats** | Continuous, high, steep western scarp vs highly dissected, broken, lower relict hills | पश्चिमी घाट / पूर्वी घाट |
+| **Vindhya Range** | **Satpura Range** | North of Narmada rift valley vs south of Narmada rift valley (between Narmada & Tapi) | विंध्य / सतपुड़ा |
+| **Andaman & Nicobar** | **Lakshadweep** | Submerged volcanic mountain peaks (Bay of Bengal) vs coral atoll formations (Arabian Sea) | अंडमान / लक्षद्वीप |
+| **Deccan Plateau** | **Deccan Trap** | Vast triangular southern tableland vs Cretaceous basalt lava plateau covering northwestern part | दक्कन पठार / दक्कन ट्रैप |
+| **Purvanchal Hills** | **UP Purvanchal Plains** | North-Eastern tertiary fold mountain ranges vs Eastern Uttar Pradesh alluvial plain region | पूर्वांचल पहाड़ियाँ / उप्र पूर्वांचल |
+| **Marwar Plateau** | **Marwar Plain** (Thar) | Upland plateau lying east of Aravallis vs sandy desert/semi-arid plain west of Aravallis | मारवाड़ पठार / मारवाड़ मैदान |
+| **Karewa** | **Dun** | Lacustrine saffron-bearing clay terraces of Kashmir vs longitudinal tectonic valleys between Lesser Himalaya & Shiwalik | करेवा / दून |
+| **Sela Tunnel** | **Atal Tunnel** | Arunachal Pradesh (Tezpur–Tawang link, >13,000 ft) vs Himachal Pradesh (under Rohtang in Pir Panjal, >10,000 ft) | सेला टनल / अटल टनल |
+| **Malnad** | **Maidan** | Heavily forested hilly Western Ghats tract of Karnataka vs undulating open plateau plains to the east | मलनाड / मैदान |
+| **Anaimudi** | **Doddabetta** | Highest peak of Peninsular India (Anamalai Hills, Kerala) vs second-highest peak (Nilgiri Hills, Tamil Nadu) | अनाईमुडी / दोड्डाबेट्टा |
+| **K2** (Godwin Austen) | **Kanchenjunga** | In Karakoram Range (Trans-Himalaya, PoK) vs in Greater Himalaya (Sikkim; highest peak entirely within India's direct control) | के2 / कंचनजंगा |
+| **Lipulekh Pass** | **Mana / Niti Pass** | Pithoragarh, Kumaon (tri-junction with Nepal & Tibet) vs Chamoli, Garhwal (near Badrinath to Tibet) — both in Uttarakhand | लिपुलेख / माना-नीति |
+| **Bomdi La** | **Bomdila** | High mountain pass connecting Arunachal to Tibet vs administrative district headquarters town | बोमडिला दर्रा / शहर |
+| **Indira Col** | **Indira Point** | India's northernmost point (Siachen/Karakoram) vs southernmost point (Great Nicobar, 6°45′ N) | इंदिरा कोल / इंदिरा पॉइंट |
+| **Tropic of Cancer** | **Standard Meridian (82°30′ E)** | Passes through 8 states (GJ, RJ, MP, CG, JH, WB, TR, MZ) vs passes through 5 states (UP, MP, CG, OD, AP); intersect in Chhattisgarh | कर्क रेखा / मानक मध्याह्न |
+| **Tirumala Hills** | **Shevaroy Hills** | Venkateswara temple, Eastern Ghats (Andhra Pradesh) vs southern detached hills (Salem, Tamil Nadu) | तिरुमाला / शेवरॉय |
+| **Konkan Coast** | **Malabar / Coromandel** | Coast of submergence (drowned coastline) vs coast of emergence (lagoon & sandbar coastline) | कोंकण / मालाबार-कोरोमंडल |
+| **Siachen Glacier** | **Zemu Glacier** | Karakoram Range (Nubra River source; ~76 km) vs Sikkim Himalaya (Teesta River source; ~26 km) | सियाचिन / जेमू ग्लेशियर |
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Mar 2024** | **Sela Tunnel** (BRO) — all-weather Tezpur–**Tawang** (Arunachal); longest twin-lane tunnel **above ~13,000 ft** | Border tunnel / pass CA | PIB / inauguration |
-| **2025** | **Z-Morh / Sonamarg Tunnel** — all-weather Srinagar–Ladakh (लद्दाख) axis | Pair with Zoji La (ज़ोजिला) | PIB |
-| 2020 / PYQ 2025 | Atal Tunnel qualifier only: longest highway tunnel **above 10,000 ft**, not unqualified world longest | | PIB / BRO |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Himalayan Ranges North to South: **KLZPD**
+- **K**arakoram (Trans-Himalaya)
+- **L**adakh Range
+- **Z**askar Range
+- **P**ir Panjal Range (Lesser Himalaya)
+- **D**hauladhar Range (Lesser Himalaya)
+- *(Mnemonic: **K**ing **L**ion **Z**ebra **P**rancing **D**own)*
 
-### Confused pairs
+### 2. Central India Hill Ranges West to East: **S-M-M-C**
+- **S**atpura → **M**ahadeo → **M**aikal → **C**hotanagpur
+- *(Mnemonic: **S**atpura **M**akes **M**any **C**oals)*
 
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Himadri | Himachal | Fossil-less crystalline vs marine fossils | हिमाद्रि / हिमाचल |
-| Himachal | Shiwalik | Marine fossils vs human remains; outer youngest | हिमाचल / शिवालिक |
-| Bhangar | Khadar | Older kankar upland vs newer flood-renewed, more fertile | भांगर / खादर |
-| Bhabar | Terai | Streams sink (pebbles) vs streams re-emerge (marsh/forest) | भाबर / तराई |
-| Western Ghats | Eastern Ghats | Continuous high wall vs discontinuous eroded hills | पश्चिमी घाट / पूर्वी घाट |
-| Vindhya | Satpura | North of Narmada vs south of Narmada | विंध्य / सतपुड़ा |
-| Andaman–Nicobar | Lakshadweep | Volcanic (Bay of Bengal) vs coral atolls (Arabian Sea) | अंडमान / लक्षद्वीप |
-| Deccan Plateau | Deccan Trap | Southern tableland vs basalt lava cover on it | दक्कन पठार / दक्कन ट्रैप |
-| Purvanchal Hills | UP Purvanchal | NE hill system vs eastern UP region | पूर्वांचल पहाड़ियाँ / पूर्वांचल (UP) |
-| Indira Point | Kanyakumari | Southernmost **territory** vs southernmost **mainland** | इंदिरा पॉइंट / कन्याकुमारी |
-| K2 | Kanchenjunga | Karakoram (PoK) vs highest peak **fully in India** (Sikkim) | के2 / कंचनजंगा |
-| Dun | Karewa | Shiwalik longitudinal valley vs Kashmir lacustrine terrace | दून / करेवा |
-| Marusthali | Bagar | Sandy desert core vs semi-arid eastern fringe | मरुस्थली / बागड़ |
-| 10° Channel | 9° Channel | Andaman–Nicobar vs Minicoy–rest of Lakshadweep | दस डिग्री / नौ डिग्री |
-| Coast of emergence | Coast of submergence | Coromandel / Kerala raised vs Konkan drowned | उद्गमन / निमज्जन तट |
-| Marwar Plateau | Marwar Plain | **East** of Aravalli vs **west** (Thar) | मारवाड़ पठार / मैदान |
-| Malnad | Maidan | Karnataka forested hill tract vs rolling granite plain | मलनाड / मैदान |
-| Kangra Valley | Kulu Valley | Strike / longitudinal vs transverse valley (HP) | कांगड़ा / कुल्लू |
-| Standard Meridian | Tropic of Cancer | **82°30′ E** N–S time line (Mirzapur; 5 states) vs **23°30′ N** E–W line (8 states; **not UP**) | मानक याम्योत्तर / कर्क रेखा |
-| Indira Col | Indira Point | Northern extreme (Siachen / Ladakh) vs southernmost **territory** (Great Nicobar) | इंदिरा कोल / इंदिरा पॉइंट |
+### 3. Major Himalayan Peaks West to East: **N-K-D-A-E-M-K-N**
+- **N**anga Parbat (J&K) → **K**amet (UK) → **N**anda Devi (UK) → **D**haulagiri (Nepal) → **A**nnapurna (Nepal) → Mt. **E**verest (Nepal) → **M**akalu (Nepal) → **K**anchenjunga (Sikkim) → **N**amcha Barwa (Tibet)
 
+### 4. Tropic of Cancer 8 States West to East: **GR-MC-J-W-T-M**
+- **G**ujarat → **R**ajasthan → **M**adhya Pradesh → **C**hhattisgarh → **J**harkhand → **W**est Bengal → **T**ripura → **M**izoram
+- *(Trap Alert: Neither Uttar Pradesh, Bihar, nor Odisha touches the Tropic of Cancer!)*
 
----
+### 5. Standard Meridian (82°30′ E) 5 States North to South: **UP-M-C-O-A**
+- **U**ttar **P**radesh (Mirzapur/Prayagraj) → **M**adhya Pradesh → **C**hhattisgarh → **O**disha → **A**ndhra Pradesh
+- *(Intersection Point: Tropic of Cancer and Standard Meridian intersect at **Koriya / Surajpur district, Chhattisgarh**)*
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+### 6. Western Ghats Passes North to South: **T-B-P-S**
+- **T**halghat (Mumbai–Nashik) → **B**horghat (Mumbai–Pune) → **P**alghat (Palakkad Gap, KL–TN) → **S**henkottai (Kollam–Madurai)
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

@@ -7,55 +7,121 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 8 — Forests & Forest Management</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Madhya Pradesh** has the largest forest **area**. **Mizoram** has the highest **percentage** cover among States. **Arunachal Pradesh** often leads **very dense forest** area.
-2. **Forest cover ≠ Recorded Forest Area ≠ tree cover**. Recorded forest area is a legal-notification figure near about **23%**.
-3. **Champion and Seth (1968)** classify Indian forests into **16 types in 6 groups**. The largest share is **Tropical Dry Deciduous** (about **38%**).
-4. **Tropical wet evergreen** (>**200 cm** rain) holds maximum plant diversity / biomass among common options — Western Ghats (पश्चिमी घाट), NE hills, A&N (not Himachal (हिमाचल) as wet evergreen).
-5. **Teak** dominates **tropical moist deciduous** forests; **Madhya Pradesh** has the maximum teak area among common options.
-6. **Red Sanders (*Pterocarpus santalinus*)** is a dry-deciduous South India endemic (Palkonda–Seshachalam / southern Eastern Ghats (पूर्वी घाट)) — **not** a tropical rainforest tree.
-7. **Taxus** (Himalaya (हिमालय); Red Data) yields **taxol** (anti-cancer; also cited vs Parkinson’s in older stems).
-8. **Amazon rainforest** is often called the **“lungs of the Earth”** (~**20%** of terrestrial photosynthetic oxygen share in coaching figures).
-9. **National Forest Policy 1988** targets about **33%** national forest/tree cover and **66%** in hills. **NFP 1952** classes: Protected/Conserved, National, Village Forests, Tree Lands — **not** “National Park” as a forest class.
-10. **Chipko (1973, Reni, Uttarakhand (उत्तराखंड))** — Bahuguna, Bhatt, **Gaura Devi**. The **Godavarman (1996)** line broadened “forest.”
-11. **Social forestry** grows trees on **non-forest** land. **Agroforestry** integrates trees with crops/livestock (**CAFRI Jhansi (झांसी)**).
-12. **JFM (1990)** is State–village co-management of **degraded forest**. **FRA 2006** recognises dweller rights (**IFR ~4 ha**).
-13. **FCA** controls **diversion**. **FRA** recognises **rights**. **JFM** is executive co-management — three different tools.
-14. **Sonbhadra** (सोनभद्र) has UP’s highest district forest cover. Districts above **20%** include **Chandauli** and **Shravasti**.
-15. **Urbanisation is a cause of deforestation**, not an “impact/effect” of deforestation (classic trap).
-16. **Aluminium** is called a **“green metal”** for recyclability/eco profile — not primarily “to save forests by replacing wood.”
-17. **Living root bridges** are characteristic of **Meghalaya** (मेघालय).
-18. **Andaman (अंडमान) & Nicobar (निकोबार)** uniquely combine mangrove + evergreen + deciduous in one option set.
-19. **FRI Dehradun (देहरादून) (1906)**; **ICFRE HQ Dehradun**; **IIFM Bhopal**; Survey of India ≠ environment agency.
-20. **Global forest types** include tropical rainforest, tropical deciduous, temperate, boreal, Mediterranean scrub, and mangrove.
-21. **Reserved Forest** has the strictest protection. Most acts are prohibited unless permitted.
-22. **Protected Forest** is state-regulated forest where some grazing, collection, or customary use may continue under rules.
-23. **Unclassed Forest** is forest land not yet formally placed in the Reserved or Protected category.
-24. **ISFR forest cover** means any patch of **1 hectare or more** with **10% or more** tree canopy, regardless of ownership.
-25. **Very Dense Forest** has canopy density **70% or more**. **Moderately Dense Forest** has **40–70%**. **Open Forest** has **10–40%**.
-26. **Forest cover** is not the same as **Recorded Forest Area**. Much forest cover exists outside legally notified forest land.
-27. **Tree cover** counts scattered trees in orchards and farms that fall below the 1-hectare forest patch rule.
-28. **Mangrove and littoral swamp forests** are distinct coastal types with salt-tolerant species such as sundari in the Sundarbans (सुंदरबन).
-29. **Champion and Seth (1968)** is India's standard forest type classification with **16 major types** in **6 groups**.
-30. **Tropical Wet Evergreen** forest occurs where rainfall exceeds about **200 cm**, mainly on the Western Ghats, Northeast hills (e.g. Arunachal, Mizoram/Khasi (खासी)–Jaintia (जयंतिया) belt), and Andaman & Nicobar — **not** Himachal (pine/temperate belts).
-31. **Tropical Semi-Evergreen** forest is a transition type with rainfall around **1500–2500 mm**.
-32. **Tropical Moist Deciduous** forest (about **100–200 cm** rain) drops leaves in the dry season; **teak** is the dominant commercial species. **Madhya Pradesh** has the maximum teak area among common state options. Other species: bamboo, sal, shisham, sandalwood, khair, arjun.
-33. **Red Sanders (*Pterocarpus santalinus*)** is endemic to dry deciduous hills of South India (Palkonda–Seshachalam / southern Eastern Ghats) — valued red wood; **not** a tropical rainforest species.
-34. **Taxus** grows naturally in the Himalaya, is Red Data–listed, and yields **taxol** (anti-cancer; older stems also cite Parkinson’s).
-35. **Littoral and Swamp** forest includes mangroves on the Sundarbans and Odisha coast (**Sundari** is the famous Sundarbans tree).
+1. Forest cover (वन आवरण) in ISFR means a patch of at least **1 ha** with canopy **≥10%**, on any land ownership.
+2. Canopy classes: **VDF ≥70%**, **MDF 40–70%**, **OF 10–40%**.
+3. ISFR **2023** India figures: forest cover about **21.76%**, tree cover (वृक्ष आवरण) about **3.41%**, total green cover about **25.17%**. ISFR **2021** held forest cover at about **21.71%** and forest+tree cover about **24.62%** (still used in older stems).
+4. **Madhya Pradesh** has the largest forest **area**. **Mizoram** has the highest **percentage** cover among States. **Arunachal Pradesh** often leads **very dense forest** area.
+5. **Forest cover ≠ Recorded Forest Area ≠ tree cover**. Recorded forest area is a legal-notification figure near about **23%**.
+6. Under the **Indian Forest Act, 1927**, **Reserved Forest** is strictest (acts banned unless permitted). **Protected Forest** is State-regulated with some customary rights possible.
+7. **Champion and Seth (1968)** classify Indian forests into **16 types in 6 groups**. The largest share is **Tropical Dry Deciduous** (about **38%**).
+8. **Tropical wet evergreen** (>**200 cm** rain) holds maximum plant diversity / biomass among common options — Western Ghats (पश्चिमी घाट), NE hills, A&N (not Himachal (हिमाचल) as wet evergreen).
+9. **Teak** dominates **tropical moist deciduous** forests; **Madhya Pradesh** has the maximum teak area among common options.
+10. **Red Sanders (*Pterocarpus santalinus*)** is a dry-deciduous South India endemic (Palkonda–Seshachalam / southern Eastern Ghats (पूर्वी घाट)) — **not** a tropical rainforest tree.
+11. **Taxus** (Himalaya (हिमालय); Red Data) yields **taxol** (anti-cancer; also cited vs Parkinson’s in older stems).
+12. **Amazon rainforest** is often called the **“lungs of the Earth”** (~**20%** of terrestrial photosynthetic oxygen share in coaching figures).
+13. UP type facts: Terai (तराई) = moist deciduous; Vindhyan = dry deciduous; Bundelkhand = thorn.
+14. Law chronology: **IFA 1927 → FCA 1980 → NFP 1988 → JFM 1990 → FRA 2006 → CAMPA Act 2016**.
+15. The **Forest (Conservation) Act, 1980** requires **Central** approval before diverting forest land. Compensatory afforestation is mandatory.
+16. **National Forest Policy 1988** targets about **33%** national forest/tree cover and **66%** in hills. **NFP 1952** classes: Protected/Conserved, National, Village Forests, Tree Lands — **not** “National Park” as a forest class.
+17. NFP 1988 includes afforestation/wasteland, reforestation, and wood substitutes — **not** wide promotion of insecticides/pesticides.
+18. **Chipko (1973, Reni, Uttarakhand (उत्तराखंड))** — Bahuguna, Bhatt, **Gaura Devi**. The **Godavarman (1996)** line broadened “forest.”
+19. Afforestation tools include **NAP (2000)**, **Green India Mission (2014)**, **Miyawaki** mini-forests, and **CAMPA**.
+20. **Social forestry** grows trees on **non-forest** land. **Agroforestry** integrates trees with crops/livestock (**CAFRI Jhansi (झांसी)**).
+21. **JFM (1990)** is State–village co-management of **degraded forest**. **FRA 2006** recognises dweller rights (**IFR ~4 ha**).
+22. **FCA** controls **diversion**. **FRA** recognises **rights**. **JFM** is executive co-management — three different tools.
+23. UP ISFR **2023** forest cover is about **6.24%** of State area.
+24. **Sonbhadra** (सोनभद्र) has UP’s highest district forest cover. Districts above **20%** include **Chandauli** and **Shravasti**.
+25. **Urbanisation is a cause of deforestation**, not an “impact/effect” of deforestation (classic trap).
+26. Forests are a **renewable** resource; they also enhance environment (पर्यावरण) quality — but the second fact does **not** alone explain renewability.
+27. **Aluminium** is called a **“green metal”** for recyclability/eco profile — not primarily “to save forests by replacing wood.”
+28. **Living root bridges** are characteristic of **Meghalaya** (मेघालय).
+29. ISFR 2021 top absolute (निरपेक्ष) gains: **Andhra Pradesh, Telangana, Odisha**. NE states showed large losses.
+30. Mangrove area rank (ISFR 2021 style): **WB > Gujarat > A&N (~616–617 km²) > AP**. **Coringa** = Godavari (गोदावरी) delta (डेल्टा) (AP).
+31. **Andaman (अंडमान) & Nicobar (निकोबार)** uniquely combine mangrove + evergreen + deciduous in one option set.
+32. International Day of Forests = **21 March** (UN **2012**). Wildlife Week = **2–8 October**. WWF (डब्ल्यूडब्ल्यूएफ) logo = **Giant Panda**.
+33. Bhutan constitutionally aims for **≥60%** forest cover (actual cover much higher).
+34. Bamboo on **non-forest** land was omitted from “tree” under the **Indian Forest (Amendment) Act, 2017**.
+35. **FRI Dehradun (देहरादून) (1906)**; **ICFRE HQ Dehradun**; **IIFM Bhopal**; Survey of India ≠ environment agency.
+36. CAMPA manages compensatory afforestation funds after diversion — it is not FRA Gram Sabha (ग्राम सभा) rights recognition (मान्यता).
+37. **Global forest types** include tropical rainforest, tropical deciduous, temperate, boreal, Mediterranean scrub, and mangrove.
+38. **Reserved Forest** has the strictest protection. Most acts are prohibited unless permitted.
+39. **Protected Forest** is state-regulated forest where some grazing, collection, or customary use may continue under rules.
+40. **Unclassed Forest** is forest land not yet formally placed in the Reserved or Protected category.
+41. **ISFR forest cover** means any patch of **1 hectare or more** with **10% or more** tree canopy, regardless of ownership.
+42. **Very Dense Forest** has canopy density **70% or more**. **Moderately Dense Forest** has **40–70%**. **Open Forest** has **10–40%**.
+43. **Forest cover** is not the same as **Recorded Forest Area**. Much forest cover exists outside legally notified forest land.
+44. **Tree cover** counts scattered trees in orchards and farms that fall below the 1-hectare forest patch rule.
+45. **Mangrove and littoral swamp forests** are distinct coastal types with salt-tolerant species such as sundari in the Sundarbans (सुंदरबन).
+46. **Champion and Seth (1968)** is India's standard forest type classification with **16 major types** in **6 groups**.
+47. **Tropical Wet Evergreen** forest occurs where rainfall exceeds about **200 cm**, mainly on the Western Ghats, Northeast hills (e.g. Arunachal, Mizoram/Khasi (खासी)–Jaintia (जयंतिया) belt), and Andaman & Nicobar — **not** Himachal (pine/temperate belts).
+48. **Tropical Semi-Evergreen** forest is a transition type with rainfall around **1500–2500 mm**.
+49. **Tropical Moist Deciduous** forest (about **100–200 cm** rain) drops leaves in the dry season; **teak** is the dominant commercial species. **Madhya Pradesh** has the maximum teak area among common state options. Other species: bamboo, sal, shisham, sandalwood, khair, arjun.
+50. **Taxus** grows naturally in the Himalaya, is Red Data–listed, and yields **taxol** (anti-cancer; older stems also cite Parkinson’s).
 
+## ⏱️ Timeline / Chronology
+
+### Chronological Sequence of Wildlife Conservation Projects in India
+
+```
+1972 ──► Wildlife (Protection) Act enacted (6 Schedules; rationalized to 4 via 2022 Amendment)
+1973 ──► Project Tiger launched at Corbett National Park (9 initial reserves; now 55 Tiger Reserves)
+1975 ──► Crocodile Conservation Project launched with UNDP/FAO support (Mugger, Gharial, Saltwater)
+1986 ──► Nilgiri Biosphere Reserve designated (India's 1st Biosphere Reserve under UNESCO MAB)
+1992 ──► Project Elephant launched (Centrally Sponsored Scheme for wild elephant habitat & corridors)
+1996 ──► Vulture Conservation Action Plan initiated (banning veterinary diclofenac post-crash)
+2007 ──► Project Snow Leopard launched (covering Ladakh, HP, Uttarakhand, Sikkim, Arunachal)
+2020 ──► Project Dolphin & Project Lion announced on Independence Day
+2022 ──► Project Cheetah launched (intercontinental relocation of African cheetahs to Kuno NP, MP)
+```
+
+## 📊 Quick Reference Grid
+
+### Cover definitions
+
+| Item | Lock |
+|------|------|
+| Forest cover (ISFR) | ≥1 ha; canopy ≥**10%**; any ownership |
+| VDF / MDF / OF | ≥70% / 40–70% / 10–40% |
+| ISFR 2023 class | Forest ~**21.76%**; tree ~3.41%; total green ~25.17% |
+| Largest area / highest % | MP / Mizoram |
+| Cover ≠ RFA ≠ tree cover | Legal RFA ~23% class figure |
+
+### Types / law
+
+| Item | Lock |
+|------|------|
+| Champion & Seth | **1968**; 16 types / 6 groups; Tropical Dry Deciduous largest |
+| Wet evergreen rain | >**200 cm**; max diversity/biomass |
+| Teak / Red Sanders | Moist deciduous / dry-deciduous S. India endemic |
+| UP belts | Terai moist deciduous · Vindhyan dry · Bundelkhand thorn |
+| Law chain | IFA 1927 → FCA 1980 → NFP 1988 → JFM 1990 → FRA 2006 → CAMPA 2016 |
+| Reserved vs Protected Forest | Strictest IFA / State-regulated lighter |
 
 ---
 
+![India Forest Canopy Architecture & ISFR Forest Types](images/env_ch08_01_india_forest_canopy_classification.png)
+
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Forest Cover** | **Tree Cover** | All land patches with tree canopy density ≥10% and area ≥1 hectare irrespective of ownership or legal status (FSI remote sensing) vs scattered tree patches, linear trees along canals/roads, and isolated trees <1 hectare outside recorded forest area | वन आवरण (≥1 हे., ≥10% छतरी) / वृक्ष आवरण (<1 हेक्टेयर) |
 | **Reserved Forest (RF)** | **Protected Forest (PF)** | Highest degree of protection under Indian Forest Act 1927; all activities (grazing, timber felling) are strictly prohibited unless expressly permitted vs forest where all activities are permitted unless specifically prohibited by notification | आरक्षित वन (RF, पूर्णतः प्रतिबंधित) / संरक्षित वन (PF, सशर्त अनुमत) |
 | **Recorded Forest Area (RFA)** | **Forest Cover** | Land legally recorded or notified as forest in government records (RF + PF + Unclassed) regardless of actual tree presence vs physical presence of tree canopy detected by satellite imagery (even on private orchards/tea estates) | अभिलिखित वन क्षेत्र (कानूनी अभिलेख) / वन आवरण (भौतिक वृक्ष आच्छादन) |
@@ -64,10 +130,20 @@ hide:
 | **Joint Forest Management (JFM)** | **Community Forest Resource (CFR)** | Collaborative institutional partnership between state forest department and village committees to protect and regenerate degraded forests vs statutory community ownership and governance right recognized under Section 3(1)(i) of FRA 2006 | संयुक्त वन प्रबंधन (JFM) / सामुदायिक वन संसाधन अधिकार (CFR) |
 | **Tropical Wet Evergreen Forest** | **Tropical Moist Deciduous Forest** | Dense multi-layered forest with rainfall >200 cm, no distinct leafless season (Ebony, Mahogany, Rosewood) vs most widespread forest in India with rainfall 100–200 cm, shedding leaves for 6–8 weeks in dry spring (Teak, Sal, Shisham) | उष्णकटिबंधीय आर्द्र सदाबहार / उष्णकटिबंधीय नम पर्णपाती वन |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

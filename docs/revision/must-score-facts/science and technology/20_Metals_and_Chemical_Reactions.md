@@ -7,69 +7,20 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🔬 Science & Technology &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chemistry Topic 3 — Metals, Non-Metals and Chemical Reactions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
 
-## 🎯 Consolidated Must-Score Facts
+## 📰 Current Affairs & High-Yield Updates
 
-1. **Metals** are electropositive elements that readily donate valence electrons to form positive cations ($M \to M^{n+} + n e^-$).
-2. **Gold ($Au$)** is the most **malleable** and most **ductile** metal known: a single gram of gold can be drawn into a microscopic wire over $2\text{ kilometers}$ long or beaten into gold leaf only $0.00001\text{ mm}$ thick.
-3. **Silver ($Ag$)** has the **highest electrical and thermal conductivity** of all metals, followed in sequence by Copper ($Cu$), Gold ($Au$), and Aluminium ($Al$).
-4. **Lead ($Pb$)** and **Mercury ($Hg$)** are the **poorest conductors of heat** among common commercial metals.
-5. **Mercury ($Hg$, Hydrargyrum, $Z=80$)** is the only elemental metal that exists in the **liquid state** at standard room temperature ($25^\circ\text{C}$); its freezing point is $-38.83^\circ\text{C}$ and normal boiling point is $356.7^\circ\text{C}$.
-6. **Gallium ($Ga$, m.p. $29.76^\circ\text{C}$)** and **Caesium ($Cs$, m.p. $28.44^\circ\text{C}$)** are low-melting metals that liquefy directly in the palm of a human hand.
-7. **Osmium ($Os$, density $22.59\text{ g/cm}^3$)** is the **densest naturally occurring element**, closely followed by Iridium ($Ir$, $22.56\text{ g/cm}^3$) and Platinum ($Pt$, $21.45\text{ g/cm}^3$).
-8. **Lithium ($Li$, density $0.534\text{ g/cm}^3$)** is the **lightest metal** and lowest-density solid element; it floats easily on water and paraffin oil.
-9. **Tungsten ($W$, Wolfram, $Z=74$)** has the **highest melting point of all metals** ($3422^\circ\text{C}$); its high tensile strength and high electrical resistance make it the standard incandescent light bulb filament.
-10. **Alkali metals (Sodium $Na$, Potassium $K$)** are exceptionally soft metals that can be **easily sliced with an ordinary table knife**; they have low densities, low melting points, and react vigorously with atmospheric moisture and oxygen, requiring storage submerged in **kerosene oil**.
-11. **Phosphorus ($P_4$)** is an exceptionally reactive non-metal that spontaneously catches fire in moist air (yielding dense white fumes of $P_4O_{10}$); it is stored safely submerged under **water**.
-12. **Bromine ($Br_2$, $Z=35$)** is the **only non-metal that is liquid** at room temperature; it is a dense, volatile, reddish-brown liquid with fuming, corrosive vapors.
-13. **Iodine ($I_2$, $Z=53$)** is a non-metal that anomalously displays a **bright metallic-like luster** and sublimes into deep violet vapors upon gentle heating.
-14. **Diamond** is an allotrope of carbon where each carbon atom is bonded tetrahedrally to 4 other carbons via rigid $sp^3$ covalent bonds; it is the **hardest known naturally occurring mineral** (10 on Mohs scale), an electrical insulator, but an exceptional conductor of heat (better than copper).
-15. **Graphite** is an allotrope of carbon consisting of planar hexagonal sheets bonded via $sp^2$ hybridization with delocalized $\pi$ electrons; it is soft, slippery (used as a solid dry lubricant), and **conducts electricity**.
-16. **Fullerenes ($C_{60}$, Buckminsterfullerene)** consist of 60 carbon atoms arranged in a truncated icosahedron containing 20 hexagons and 12 pentagons, resembling a hollow soccer ball ("buckyball").
-17. **Graphene** is a single two-dimensional planar sheet of carbon atoms packed in a honeycomb crystal lattice; it is nearly transparent, conducts electricity with zero effective mass electrons, and is $>100$ times stronger than structural steel.
-18. **Amphoteric Oxides** react with both acids and strong bases to yield salt and water. The two classic examples are **Aluminium oxide ($Al_2O_3$)** and **Zinc oxide ($ZnO$)**:
-19. **Neutral Oxides** exhibit neither acidic nor basic properties: Nitrous oxide ($N_2O$, laughing gas), Nitric oxide ($NO$), Carbon monoxide ($CO$), and Water ($H_2O$).
-20. **The Reactivity Series of Metals** in descending order:
-21. **Potassium ($K$) and Sodium ($Na$)** react violently with cold water, evolving hydrogen gas which catches fire spontaneously with an explosive, yellow/lilac flame.
-22. **Calcium ($Ca$)** reacts moderately with cold water; the bubbles of liberated $H_2$ gas stick to the metal surface, causing the calcium lumps to **float to the top of the water**.
-23. **Magnesium ($Mg$)** does not react with cold water; it reacts slowly with hot water and vigorously with steam to form magnesium oxide ($MgO$) and $H_2$.
-24. **Aluminium ($Al$), Zinc ($Zn$), and Iron ($Fe$)** react neither with cold nor hot water, but react exclusively with **superheated steam**:
-25. **Lead, Copper, Silver, Platinum, and Gold** do not react with water, hot water, or steam at any temperature.
-26. **Nitric Acid ($HNO_3$)** is a powerful oxidizing agent. When metals react with $HNO_3$, hydrogen gas is generally NOT evolved; instead, $HNO_3$ oxidizes $H_2$ to $H_2O$ and gets reduced to nitrogen oxides ($NO_2, NO, N_2O$).
-27. **Aqua Regia ("Royal Water")** is a freshly prepared fuming mixture of **$3\text{ parts concentrated } HCl$ and $1\text{ part concentrated } HNO_3$** (strict volumetric ratio $3:1$). It dissolves noble metals like Gold ($Au$) and Platinum ($Pt$) by producing nascent chlorine and nitrosyl chloride ($NOCl$), forming soluble tetrachloroaurate complexes ($[AuCl_4]^-$).
-28. **Bauxite ($Al_2O_3 \cdot 2H_2O$)** is the principal commercial ore of aluminium; it is purified by Bayer's chemical leaching and reduced electrolytically in the **Hall-Héroult process** using molten cryolite ($Na_3AlF_6$) and fluorspar ($CaF_2$) to lower the operating melting point from $2050^\circ\text{C}$ to $\sim 950^\circ\text{C}$.
-29. **Iron Ores**: Haematite ($Fe_2O_3$, red ore, $>65\% Fe$), Magnetite ($Fe_3O_4$, black ore, magnetic, up to $72\% Fe$), Limonite ($2Fe_2O_3 \cdot 3H_2O$), Siderite ($FeCO_3$).
-30. **Iron Pyrites ($FeS_2$)** displays a brassy golden metallic luster and is popularly termed **"Fool's Gold"**; it is an ore of sulphur, not iron extraction.
-31. **Cinnabar ($HgS$)** is the primary ore of Mercury; heating cinnabar in air roasts it directly into volatile mercury vapor, which condenses into liquid mercury ($HgS + O_2 \to Hg + SO_2$).
-32. **Galena ($PbS$)** is the primary ore of Lead; **Pitchblende ($U_3O_8$)** is the primary ore of Uranium (from which Marie Curie discovered Radium and Polonium).
-33. **Monazite sand**, abundant in the placer beach sands of Kerala, is the primary global resource for **Thorium ($Th$)** and rare earth elements (cerium, lanthanum).
-34. **Froth Flotation Process** (invented by Mrs. Carrie Everson) is used selectively to concentrate **sulphide ores** (e.g., $ZnS, PbS, CuFeS_2$) using pine oil as a frothing collector and xanthates to make ore particles hydrophobic.
-35. **Calcination vs. Roasting**: Calcination heats carbonate/hydrated ores in the **absence or limited supply of air** below melting point ($CaCO_3 \xrightarrow{\Delta} CaO + CO_2$). Roasting heats sulphide ores in a **regular, excess supply of air** ($2ZnS + 3O_2 \to 2ZnO + 2SO_2$).
-
-
----
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| Year/Ref | Key Fact & Significance | Exam Relevance |
+|---|---|---|
 | **2025–2026** | **Critical Minerals Mission & Lithium Reserves** | Geological Survey of India (GSI) exploration of **Lithium** reserves in Reasi (Jammu & Kashmir) and Degana (Rajasthan). Lithium ($Li$, $Z=3$) is the lightest metal and lowest-density solid element ($0.534\text{ g/cm}^3$), with the highest negative standard reduction potential ($-3.04\text{ V}$), making it the bedrock of EV lithium-ion batteries. |
 | **2024** | **UPPCS Prelims 2024** | Question on **German Silver composition**: Highlighted the recurring trap that German Silver contains **$0\%\text{ Silver}$** ($Cu \approx 50\%, Zn \approx 30\%, Ni \approx 20\%$). Named solely for its silvery-white metallic luster. |
 | **2023** | **Noble Prize in Chemistry & Carbon Materials** | Advancements in **Graphene** (single atomic layer of $sp^2$ carbon) and Carbon Nanotubes (CNTs) for supercapacitors and aerospace composites: Graphene exhibits ballistic electrical conductivity and tensile strength $>100$ times higher than structural steel. |
 | **2022** | **UPPCS Prelims 2022** | Core thermodynamic trap: **Graphite** is the thermodynamically most stable allotropic form of carbon at standard temperature and pressure ($298.15\text{ K}, 1\text{ bar}$), with standard enthalpy of formation $\Delta_f H^\circ = 0\text{ kJ/mol}$ (Diamond has $\Delta_f H^\circ = +1.9\text{ kJ/mol}$). |
 | **2020** | **UPPCS Prelims 2020** | Characteristic matching of metals: Sodium (soft, cut with a knife), Mercury (liquid metal), Silver (highest electrical conductivity), and Lead (poorest thermal conductor among common commercial metals). |
 
+## 🎯 Consolidated Must-Score Facts
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Metals** are electropositive elements that readily donate valence electrons to form positive cations ($M \to M^{n+} + n e^-$).
+1. **Metals** are electropositive elements that readily donate valence electrons to form positive cations ($M \to M^{n+} + n e^-$).
 2. **Gold ($Au$)** is the most **malleable** and most **ductile** metal known: a single gram of gold can be drawn into a microscopic wire over $2\text{ kilometers}$ long or beaten into gold leaf only $0.00001\text{ mm}$ thick.
 3. **Silver ($Ag$)** has the **highest electrical and thermal conductivity** of all metals, followed in sequence by Copper ($Cu$), Gold ($Au$), and Aluminium ($Al$).
 4. **Lead ($Pb$)** and **Mercury ($Hg$)** are the **poorest conductors of heat** among common commercial metals.
@@ -126,595 +77,389 @@ hide:
 49. **Amalgams** are alloys formed by any metal with **Mercury ($Hg$)**. Notable exception: **Iron ($Fe$), Cobalt, Nickel, and Platinum do NOT form amalgams**; hence, mercury is stored and transported industrially in sealed **iron flasks**.
 50. **Galvanization** is the metallurgical process of coating iron or steel sheets with a thin protective layer of **Zinc ($Zn$)** by dipping them into molten zinc at $\sim 450^\circ\text{C}$. Zinc acts as a sacrificial anode because $Zn$ is more electropositive than $Fe$ ($E^\circ_{Zn^{2+}/Zn} = -0.76\text{ V}$ vs $E^\circ_{Fe^{2+}/Fe} = -0.44\text{ V}$); even if the zinc surface is scratched, zinc corrodes preferentially, shielding the underlying iron from rust.
 
-</details>
-
-<details class="st-chapter-toggle st-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
-
-| Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
-|---|---|---|---|
-| **Brass vs. Bronze** | **Brass**: Alloy of Copper ($Cu$) and **Zinc ($Zn$)**. | **Bronze**: Alloy of Copper ($Cu$) and **Tin ($Sn$)**. | **Second Metal**: Brass has Zinc (yellowish, ductile); Bronze has Tin (brownish, sonorous, harder). |
-| **Pig Iron vs. Cast Iron vs. Wrought Iron** | **Pig Iron**: Direct blast furnace product; contains **$\sim 4\%$ Carbon**; extremely brittle. | **Wrought Iron**: Purest commercial iron; contains **$<0.25\%$ Carbon**; malleable and fibrous. | **Carbon Content**: Wrought iron has the least carbon ($<0.25\%$) and highest purity; Pig iron has the highest carbon ($\sim 4\%$). |
-| **Galvanization vs. Tinning** | **Galvanization**: Coating iron with **Zinc ($Zn$)**. Sacrificial protection continues even if scratched. | **Tinning**: Coating copper/iron cookware with **Tin ($Sn$)**. Protects only while layer is intact. | **Scratch Vulnerability**: Zinc is more reactive than $Fe$ (sacrificial); Tin is less reactive than $Fe$ (if scratched, iron rusts *faster* under tin!). |
-| **Calcination vs. Roasting** | **Calcination**: Thermal decomposition of ores in the **absence or deficiency of oxygen/air**. | **Roasting**: Thermal oxidation of ores in an **excess stream of air/oxygen**. | **Oxygen Requirement**: Calcination is for carbonates/hydroxides without air; Roasting is for sulphide ores with excess air. |
-| **Diamond vs. Graphite Stability** | **Diamond**: Hardest natural substance, $sp^3$ hybridized, tetrahedral network; **metastable** at STP. | **Graphite**: Layered hexagonal, $sp^2$ hybridized, electrical conductor; **thermodynamically most stable** at STP. | **Thermodynamic Ground State**: Graphite has standard enthalpy of formation $\Delta_f H^\circ = 0$; Diamond has $\Delta_f H^\circ = +1.9\text{ kJ/mol}$. |
-| **Amalgam vs. Standard Alloy** | **Amalgam**: Alloy that strictly contains **Mercury ($Hg$)** as a major constituent liquid metal. | **Standard Alloy**: Solid or liquid mixture of two or more metals containing no mercury. | **Mercury Mandate**: Any alloy with mercury is an amalgam (dental amalgam $Ag-Sn-Hg$). Non-mercury alloys cannot be called amalgams. |
-| **Oxidizing Agent vs. Reducing Agent** | **Oxidizing Agent**: Causes oxidation of other species; **gains electrons** and is **itself reduced** ($e^-$ acceptor). | **Reducing Agent**: Causes reduction of other species; **loses electrons** and is **itself oxidized** ($e^-$ donor). | **Direction of Electron Flow**: Oxidizing agent takes electrons (oxidation state decreases); Reducing agent gives electrons (oxidation state increases). |
-| **German Silver vs. Sterling Silver** | **German Silver**: $Cu + Zn + Ni$. Contains **$0\%$ elemental silver**. | **Sterling Silver**: Precious alloy of **$92.5\%\text{ pure Silver } (Ag) + 7.5\%\text{ Copper } (Cu)$**. | **Silver Content**: Sterling Silver is genuine precious silver ($925$ hallmark); German Silver contains zero silver atoms. |
-
-</details>
-
-## Master Reference Tables
-
-### Table 1: Master Ore & Metallurgy Classification (NCERT / Lucent Standard)
-
-| Target Metal | Principal Mineral Ores & Chemical Formulas | Chemical Nature of Ore | Extraction & Reduction Technology |
-|---|---|---|---|
-| **Aluminium ($Al$)** | **Bauxite** ($Al_2O_3 \cdot 2H_2O$), **Cryolite** ($Na_3AlF_6$), **Corundum** ($Al_2O_3$) | Hydrated Oxide / Fluoride | Bayer's process leaching followed by Hall-Héroult electrolytic reduction in molten cryolite/fluorspar. |
-| **Iron ($Fe$)** | **Haematite** ($Fe_2O_3$), **Magnetite** ($Fe_3O_4$), **Siderite** ($FeCO_3$), **Iron Pyrites** ($FeS_2$) | Oxide / Carbonate / Sulphide | Blast furnace smelting using coke (reducing agent) and limestone ($CaCO_3$, flux to remove $SiO_2$ as slag $CaSiO_3$). |
-| **Copper ($Cu$)** | **Copper Pyrites** ($CuFeS_2$), **Malachite** ($CuCO_3 \cdot Cu(OH)_2$), **Cuprite** ($Cu_2O$) | Sulphide / Basic Carbonate | Froth flotation concentration, reverberatory smelting, Bessemerization, and electrolytic refining. |
-| **Lead ($Pb$)** | **Galena** ($PbS$), **Cerussite** ($PbCO_3$), **Anglesite** ($PbSO_4$) | Sulphide / Carbonate | Froth flotation, roasting into $PbO$, followed by carbon reduction or self-reduction. |
-| **Zinc ($Zn$)** | **Zinc Blende / Sphalerite** ($ZnS$), **Calamine** ($ZnCO_3$), **Zincite** ($ZnO$) | Sulphide / Carbonate / Oxide | Roasting to $ZnO$, followed by reduction with crushed coke in vertical retorts at $1200^\circ\text{C}$. |
-| **Mercury ($Hg$)** | **Cinnabar** ($HgS$) | Sulphide | Direct roasting in air ($HgS + O_2 \to Hg \uparrow + SO_2$); mercury vapors condense directly to liquid. |
-| **Uranium ($U$)** | **Pitchblende** ($U_3O_8$), **Carnotite** ($K_2(UO_2)_2(VO_4)_2 \cdot 3H_2O$) | Complex Oxide / Vanadate | Leaching with sulphuric acid, solvent extraction, precipitation as "yellowcake" ($U_3O_8$). |
-| **Thorium ($Th$)** | **Monazite sand** (phosphate of thorium, cerium, lanthanum) | Phosphate placer mineral | Acid digestion followed by fractional precipitation; abundant in Kerala coastal sands. |
-| **Silver ($Ag$)** | **Argentite / Silver Glance** ($Ag_2S$), **Horn Silver** ($AgCl$) | Sulphide / Halide | MacArthur-Forrest cyanide leaching process: complexation with $NaCN$ followed by zinc displacement. |
-| **Magnesium ($Mg$)** | **Carnallite** ($KCl \cdot MgCl_2 \cdot 6H_2O$), **Dolomite** ($CaCO_3 \cdot MgCO_3$), **Magnesite** ($MgCO_3$) | Halide / Carbonate | Dow process: electrolytic reduction of molten anhydrous $MgCl_2$. |
-
----
-
-### Table 1B: Complete Ghatna Chakra Master Matrix of Minerals, Ores & Chemical Formulas
-| Metal | Major Minerals & Ores | Chemical Composition / Formula | Must-Score Takeaway |
-| :--- | :--- | :--- | :--- |
-| **Sodium ($Na$)** | Rock Salt<br>Chilli Saltpetre<br>Trona<br>Borax<br>Glauber's Salt | $NaCl$<br>$NaNO_3$<br>$Na_3H(CO_3)_2 \cdot 2H_2O$<br>$Na_2B_4O_7 \cdot 10H_2O$<br>$Na_2SO_4 \cdot 10H_2O$ | Stored under kerosene; burns with brilliant golden yellow flame in street lamps; highly vigorous exothermic reaction with cold water. |
-| **Potassium ($K$)** | Sylvine<br>Carnallite<br>Schoenite (Picromerite) | $KCl$<br>$KCl \cdot MgCl_2 \cdot 6H_2O$<br>$K_2Mg(SO_4)_2 \cdot 6H_2O$ | Most reactive metal in standard series; lower ionization energy than sodium; reacts violently with cold water. |
-| **Magnesium ($Mg$)** | Magnesite<br>Dolomite<br>Carnallite<br>Kieserite<br>Epsom Salt (Epsomite) | $MgCO_3$<br>$CaMg(CO_3)_2$<br>$KCl \cdot MgCl_2 \cdot 6H_2O$<br>$MgSO_4 \cdot H_2O$<br>$MgSO_4 \cdot 7H_2O$ | Essential central element in chlorophyll porphyrin ring; does not react with cold water, but reacts vigorously with hot water. |
-| **Calcium ($Ca$)** | Limestone / Calcite<br>Gypsum<br>Fluorspar<br>Plaster of Paris | $CaCO_3$<br>$CaSO_4 \cdot 2H_2O$<br>$CaF_2$<br>$CaSO_4 \cdot \frac{1}{2}H_2O$ | Gypsum calcined at $120^\circ\text{C}$ yields Plaster of Paris; limestone calcined in kiln liberates process $CO_2$ ($>5\%$ global emissions). |
-| **Aluminium ($Al$)** | Bauxite<br>Cryolite<br>Corundum<br>Diaspore | $Al_2O_3 \cdot 2H_2O$<br>$Na_3AlF_6$<br>$Al_2O_3$<br>$AlO(OH)$ | Most abundant metal in Earth's crust ($8.13\%$); Hall-Héroult electrolytic reduction; Cryolite lowers melting point of alumina bath. |
-| **Copper ($Cu$)** | Chalcopyrite (Copper Pyrite)<br>Chalcocite (Copper Glance)<br>Cuprite (Ruby Copper)<br>Malachite (Green)<br>Azurite (Blue) | $CuFeS_2$<br>$Cu_2S$<br>$Cu_2O$<br>$Cu_2(CO_3)(OH)_2$<br>$Cu_3(CO_3)_2(OH)_2$ | Extracted via smelting & Bessemerization; brass utensils tinned ($Sn$) to prevent copper toxicity; green patina is basic copper carbonate. |
-| **Iron ($Fe$)** | Haematite (Red)<br>Magnetite (Black/Loadstone)<br>Limonite (Brown)<br>Siderite (Spathic Iron)<br>Iron Pyrites (Fool's Gold) | $Fe_2O_3$ ($\sim 69.9\%\text{ Fe}$)<br>$Fe_3O_4$ ($\sim 72.4\%\text{ Fe}$)<br>$FeO(OH) \cdot nH_2O$<br>$FeCO_3$<br>$FeS_2$ | Bailadila (Chhattisgarh) mines world-class haematite; rusting increases weight due to hydrated iron(III) oxide formation. |
-| **Lead ($Pb$)** | Galena<br>Cerussite<br>Matlockite | $PbS$<br>$PbCO_3$<br>$PbFCl$ | Does not react with water or steam; poorest conductor of heat along with mercury ($34.7\text{ W/mK}$). |
-| **Zinc ($Zn$)** | Zinc Blende (Black Jack)<br>Smithsonite (Calamine)<br>Zincite (Red Zinc)<br>Franklinite | $ZnS$<br>$ZnCO_3$<br>$ZnO$<br>$(Fe, Mn, Zn)(Fe, Mn)_2O_4$ | Used for sacrificial galvanization of iron pipes; cannot store edible oils in galvanized pots due to toxic zinc salt formation and rancidity. |
-| **Manganese ($Mn$)** | Pyrolusite<br>Manganite<br>Hausmannite | $MnO_2$<br>$MnO(OH)$<br>$Mn_3O_4$ | Depolarizer in Leclanché dry cells; essential in ferro-manganese alloy steels for wear resistance. |
-| **Mercury ($Hg$)** | Cinnabar | $HgS$ | Only metal liquid at room temperature ($25^\circ\text{C}$); high surface tension; high thermal expansion uniformity; amalgam formation. |
-| **Silver ($Ag$)** | Native Silver<br>Argentite (Silver Glance)<br>Cerargyrite (Horn Silver) | $Ag$<br>$Ag_2S$<br>$AgCl$ | Best electrical and thermal conductor of all metals; black tarnishing in air caused by traces of hydrogen sulfide ($2Ag + H_2S \to Ag_2S + H_2$). |
-| **Tin ($Sn$)** | Cassiterite (Tinstone) | $SnO_2$ | Used to plate food cans because tin is less reactive than zinc and resists organic food acids; constituent of Bronze ($Cu+Sn$) and Solder ($Pb+Sn$). |
-| **Titanium ($Ti$)** | Ilmenite<br>Rutile | $FeTiO_3$<br>$TiO_2$ | Strategic beach placer sand mineral along Kerala, Tamil Nadu, and Odisha coastlines; high strength-to-weight ratio. |
-| **Thorium ($Th$)** | Monazite | Phosphate of rare earths & Thorium ($ThO_2$) | Heavy beach placer sand mineral found in Kerala, Tamil Nadu, and Odisha; cornerstone of India's three-stage nuclear power program. |
-
-### Table 2: Commercial & Strategic Alloys Matrix
-
-| Alloy Name | Nominal Composition (% by weight) | Special Engineering Properties | Core Practical & Industrial Applications |
-|---|---|---|---|
-| **Brass** | $Cu\text{ (60–70\%)}, Zn\text{ (30–40\%)}$ | Malleable, acoustic resonance, corrosion-resistant | Musical brass instruments, ammunition cartridge cases, plumbing valves, decorative hardware |
-| **Bronze** | $Cu\text{ (88–90\%)}, Sn\text{ (10–12\%)}$ | Hard, low friction, sonorous, sea-water resistant | Statues, commemorative medals, ship propellers, heavy-duty mechanical bearings, coins |
-| **German Silver** | $Cu\text{ (50–60\%)}, Zn\text{ (20–30\%)}, Ni\text{ (10–20\%)}$ | Silvery-white luster, high electrical resistance | Tableware, decorative silverware imitations, electrical rheostats (**Contains 0% Ag!**) |
-| **Gun Metal** | $Cu\text{ (88\%)}, Sn\text{ (10\%)}, Zn\text{ (2\%)}$ | Resists high steam pressure and saltwater erosion | Heavy artillery ordnance, high-pressure steam fittings, marine gears |
-| **Solder (Tanka)** | $Pb\text{ (50\%)}, Sn\text{ (50\%)}$ | Low melting point ($\sim 183^\circ\text{C}$), rapid adhesion | Joining electrical circuit components, sealing copper plumbing pipes |
-| **Stainless Steel** | $Fe\text{ (70–73\%)}, Cr\text{ (18\%)}, Ni\text{ (8–10\%)}, C\text{ (0.1–0.2\%)}$ | Passive $Cr_2O_3$ film prevents rust, non-reactive | Surgical instruments, cutlery, kitchen cookware, chemical reaction vessels |
-| **Nichrome** | $Ni\text{ (80\%)}, Cr\text{ (20\%)}$ | High resistivity, high m.p. ($1400^\circ\text{C}$), non-oxidizing | Heating elements in electric irons, toasters, water geysers, hair dryers |
-| **Duralumin** | $Al\text{ (95\%)}, Cu\text{ (4\%)}, Mg\text{ (0.5\%)}, Mn\text{ (0.5\%)}$ | Lightweight, high strength-to-weight ratio | Aircraft fuselage frames, aerospace structural rivets, pressure cookers |
-| **Alnico** | $Fe\text{ (50\%)}, Al\text{ (12\%)}, Ni\text{ (20\%)}, Co\text{ (15–20\%)}$ | High magnetic coercivity and flux density | Powerful permanent magnets for loudspeakers, electric guitar pickups, MRI scanners |
-| **Invar** | $Fe\text{ (64\%)}, Ni\text{ (36\%)}$ | Near-zero coefficient of thermal expansion | Surveying measuring tapes, clock pendulums, precision optical instruments |
-| **Dental Amalgam** | $Hg\text{ (50\%)}, Ag\text{ (25–30\%)}, Sn\text{ (10–15\%)}, Cu\text{ (2–5\%)}$ | Pliable paste that sets into a rock-hard solid | Restorative tooth cavity dental fillings |
-
----
-
-### Table 3: Types of Chemical Reactions & Everyday Manifestations
-
-| Reaction Category | Defining Equation / Archetype | Mechanistic Description | Everyday / Must-Score Example |
-|---|---|---|---|
-| **Combination (Synthesis)** | $A + B \to AB$ | Two or more reactants combine to form a single product. Exothermic. | Slaking of quicklime: $CaO + H_2O \to Ca(OH)_2 + \text{heat}$. Burning of coal: $C + O_2 \to CO_2$. |
-| **Decomposition (Thermal)** | $AB \xrightarrow{\Delta} A + B$ | A single compound breaks into multiple simpler substances via heat. | Heating limestone: $CaCO_3 \xrightarrow{\Delta} CaO + CO_2 \uparrow$. Decomposition of $FeSO_4 \cdot 7H_2O$. |
-| **Decomposition (Photolytic)** | $2AB \xrightarrow{h\nu} 2A + B_2$ | Chemical breakdown driven by absorption of light photons. | Silver chloride in photography: $2AgCl\text{ (white)} \xrightarrow{h\nu} 2Ag\text{ (grey)} + Cl_2 \uparrow$. |
-| **Single Displacement** | $A + BC \to AC + B$ | A more reactive metal displaces a less reactive metal from its salt solution. | Iron nail in blue vitriol: $Fe + CuSO_4\text{ (blue)} \to FeSO_4\text{ (green)} + Cu\text{ (brown deposit)}$. |
-| **Double Displacement (Precipitation)** | $AB + CD \to AD\downarrow + CB$ | Mutual exchange of ions between two aqueous solutions forming a precipitate. | Barium sulphate test: $Na_2SO_4\text{(aq)} + BaCl_2\text{(aq)} \to BaSO_4\downarrow\text{ (white ppt)} + 2NaCl\text{(aq)}$. |
-| **Neutralization** | $\text{Acid} + \text{Base} \to \text{Salt} + H_2O$ | $H^+$ from acid combines with $OH^-$ from base; exothermic ($\Delta H = -57.1\text{ kJ/mol}$). | Hydrochloric acid with sodium hydroxide: $HCl + NaOH \to NaCl + H_2O$. |
-| **Redox Reaction** | $\text{Oxidation} + \text{Reduction}$ | Simultaneous transfer of electrons; one species oxidized, other reduced. | Thermite welding: $Fe_2O_3 + 2Al \to Al_2O_3 + 2Fe$ ($Al$ is oxidized; $Fe^{3+}$ is reduced). |
-
----
-
-## Detailed Theory Notes
-
-### 3.1 Physical Properties & Unique Tags of Metals and Non-Metals
-
-#### 1. Mechanical Properties
-- **Malleability**: The property that allows a material to be hammered, rolled, or beaten into ultra-thin sheets without fracturing. Gold ($Au$) is the most malleable element known, followed by Silver ($Ag$) and Aluminium ($Al$).
-- **Ductility**: The mechanical property of being drawn out into fine longitudinal wires under tensile stress. Gold is the most ductile metal: $1\text{ g}$ of gold can be drawn into a wire $2\text{ km}$ long.
-- **Hardness vs. Softness**: Most transition metals (Tungsten, Chromium, Iron) exhibit extreme hardness due to overlapping $d$-orbitals forming strong metallic bonds. In stark contrast, alkali metals (**Sodium, Potassium, Lithium**) have only one valence $s$-electron and exceptionally large atomic radii, resulting in weak metallic bonding; they can be effortlessly cut with a butter knife.
-- **Sonority**: The ability of a metal to produce a deep, ringing acoustic sound when struck, caused by rapid delocalized electron wave dissipation. Used in bells and musical wires (Bronze, Bell Metal).
-
-#### 2. Thermal and Electrical Conductivity
-- **Conduction Mechanism**: Metals contain a "sea" of free, delocalized conduction electrons. When an electric potential or temperature gradient is applied, these electrons undergo directional drift, carrying thermal and electrical energy at high velocities.
-- **Conductivity Sequence**:
-  $$\text{Electrical Conductivity: } Ag > Cu > Au > Al > W > Fe$$
-  Although Silver is the superior conductor, **Copper and Aluminium** are preferred for domestic and industrial wiring due to cost efficiency and lower density.
-- **Thermal Anomalies**: Lead ($Pb$) and Mercury ($Hg$) have the lowest thermal conductivity among common metals, while Diamond (a non-metal) has a thermal conductivity 4–5 times higher than Copper due to phonon lattice vibrations.
+## ⏱️ Timeline / Chronology
 
 ```
-Densest Element:   Osmium (Os, 22.59 g/cm³)
-Lightest Metal:    Lithium (Li, 0.534 g/cm³)
-Liquid Metal:      Mercury (Hg, m.p. -38.8°C)
-Liquid Non-Metal:  Bromine (Br₂, reddish-brown)
-Highest m.p. Metal: Tungsten (W, 3422°C)
+~3300 BCE ── Emergence of the Bronze Age (Alloying Copper with Tin in Indus Valley)
+ │
+~1200 BCE ── Advent of the Iron Age in Indian Subcontinent (Megalithic & Painted Grey Ware cultures)
+ │
+~400 CE ── Construction of the Rustless Iron Pillar of Delhi (Mehrauli wrought iron metallurgy)
+ │
+1807 ── Humphry Davy isolates Sodium and Potassium via molten salt electrolysis
+ │
+1886 ── Charles Hall & Paul Héroult independently invent the electrolytic extraction of Aluminium
+ │
+1913 ── Harry Brearley invents Stainless Steel in Sheffield (Alloying Iron with Chromium & Nickel)
+ │
+2024–25 ── National Critical Minerals Mission & Geological Survey of India lithium auctions
 ```
 
----
-
-### 3.2 Carbon Allotropes & Thermodynamic Stability
-
-```
-                                  ┌── Diamond: sp³, tetrahedral 3D network; hardest; insulator; metastable.
-                                  ├── Graphite: sp², planar hexagonal layers; electrical conductor; lubricant; MOST STABLE (ΔHf° = 0).
-Carbon Allotropes (Pure Carbon) ──┤
-                                  ├── Fullerenes: C₆₀ buckyball; 20 hexagons + 12 pentagons; cage structure.
-                                  └── Graphene: Single 2D atomic sheet; ballistic conductivity; 100x stronger than steel.
-```
-
-#### 1. Diamond
-- **Structure**: Each carbon atom is $sp^3$ hybridized and covalently bonded to 4 neighboring carbon atoms in a rigid, three-dimensional tetrahedral lattice with a uniform $C-C$ bond length of $1.54\text{ \AA}$.
-- **Properties**: Hardest known natural substance (10 on Mohs hardness scale); density $3.51\text{ g/cm}^3$; high refractive index ($2.42$) and small critical angle ($24.4^\circ$), causing brilliant total internal reflection.
-- **Electrical & Thermal Behavior**: Because all 4 valence electrons are tightly locked in localized covalent $\sigma$-bonds, diamond has no free electrons and is a **complete electrical insulator**. However, its rigid lattice allows high-frequency phonon vibrations, making it an **exceptional conductor of heat**.
-
-#### 2. Graphite
-- **Structure**: Each carbon atom is $sp^2$ hybridized and covalently bonded to 3 neighboring carbon atoms in a flat hexagonal planar ring ($C-C$ bond length $1.42\text{ \AA}$). These planar layers are stacked parallel to one another at a distance of $3.35\text{ \AA}$ and held together only by weak van der Waals dispersion forces.
-- **Properties**: Soft, greasy, and slippery; layers slide over one another under shear stress, making graphite an ideal **solid dry lubricant** for high-temperature machinery where liquid oil would decompose.
-- **Electrical Conduction**: The fourth valence electron of each carbon atom occupies an unhybridized $p$-orbital that overlaps sideways to form delocalized $\pi$-bonds across the hexagonal sheets. These free electrons move along the sheets, making graphite a **good conductor of electricity** (used as electrodes in dry cells and electric arc furnaces).
-- **Thermodynamic Ground State**: In chemical thermodynamics, **Graphite is the most stable allotrope of carbon** under standard ambient conditions ($298.15\text{ K}, 1\text{ bar}$). By international IUPAC convention, the standard molar enthalpy of formation of graphite is defined as zero ($\Delta_f H^\circ\text{ [graphite]} = 0\text{ kJ/mol}$), whereas for diamond it is $+1.9\text{ kJ/mol}$. Diamond is technically thermodynamically metastable and converts spontaneously—though infinitely slowly—into graphite.
-
-#### 3. Fullerenes & Graphene
-- **Buckminsterfullerene ($C_{60}$)**: Discovered in 1985 by Harold Kroto, Robert Curl, and Richard Smalley (Nobel Prize in Chemistry, 1996). Contains 60 carbon atoms organized in a spherical geodesic cage consisting of **20 hexagonal rings and 12 pentagonal rings**. No two pentagons share an edge (Isolated Pentagon Rule).
-- **Graphene**: Isolated in 2004 by Andre Geim and Konstantin Novoselov at the University of Manchester using mechanical exfoliation ("Scotch tape method", Nobel Prize in Physics, 2010). Graphene is a single atom-thick two-dimensional sheet of $sp^2$ carbon atoms arranged in a honeycomb lattice with ballistic electronic mobility, extreme thermal conductivity, and tensile strength over $130\text{ GPa}$.
-
----
-
-### 3.3 The Reactivity Series & Chemical Behavior of Metals
-
-The **Electrochemical / Activity Series** ranks metals in descending order of their standard oxidation potentials (tendency to lose electrons in aqueous solution):
-
-```
-K  >  Na  >  Ca  >  Mg  >  Al  >  Zn  >  Fe  >  Pb  >  [H]  >  Cu  >  Hg  >  Ag  >  Pt  >  Au
-<---------------- High Reactivity ---------------->   <-------------- Noble Metals ------------->
-Displaces H₂ from cold water                         Displaces H₂ from steam   Cannot displace H₂
-```
-
-#### 1. Reaction with Water
-- **Cold Water**: Only the most electropositive alkali and alkaline earth metals ($K, Na, Ca$) react with cold water:
-  $$2Na + 2H_2O \to 2NaOH + H_2 \uparrow + \text{heat}$$
-  Sodium and Potassium float, melt into silvery spheres, and skitter across the surface; the liberated $H_2$ gas catches fire with explosive popping. Calcium reacts less violently, and the clinging $H_2$ bubbles cause the metal to float.
-- **Hot Water**: Magnesium reacts with hot water to form $Mg(OH)_2$ and $H_2$.
-- **Steam**: Aluminium, Zinc, and Iron do not react with cold or hot liquid water, but react with steam at red heat:
-  $$2Al + 3H_2O\text{ (steam)} \to Al_2O_3 + 3H_2 \uparrow$$
-  $$3Fe + 4H_2O\text{ (steam)} \rightleftharpoons Fe_3O_4 + 4H_2 \uparrow$$
-- **Unreactive**: $Pb, Cu, Hg, Ag, Au$ do not react with water or steam at any temperature.
-
-#### 2. Reaction with Acids
-- Metals situated above Hydrogen in the reactivity series displace hydrogen gas from dilute hydrochloric and sulphuric acids:
-  $$Zn + 2HCl \to ZnCl_2 + H_2 \uparrow$$
-  $$Fe + H_2SO_4 \to FeSO_4 + H_2 \uparrow$$
-- **Exception for Nitric Acid ($HNO_3$)**: Concentrated and moderately dilute $HNO_3$ is an aggressive oxidizing agent. It oxidizes evolved hydrogen immediately into water, reducing its own nitrogen species:
-  $$3Cu + 8HNO_3\text{ (dilute)} \to 3Cu(NO_3)_2 + 2NO\text{ (Nitric oxide)} + 4H_2O$$
-  $$Cu + 4HNO_3\text{ (conc.)} \to Cu(NO_3)_2 + 2NO_2\text{ (Nitrogen dioxide)} + 2H_2O$$
-  Only **Magnesium ($Mg$)** and **Manganese ($Mn$)** react with very dilute ($1\%$) cold $HNO_3$ to evolve pure $H_2$ gas:
-  $$Mg + 2HNO_3\text{ (1\% dilute)} \to Mg(NO_3)_2 + H_2 \uparrow$$
-
-#### 3. Aqua Regia Chemistry
-- Aqua Regia is a mixture of **$3\text{ parts concentrated } HCl$ and $1\text{ part concentrated } HNO_3$** by volume ($3:1$ ratio).
-- **Mechanism of Dissolution**:
-  $$HNO_3 + 3HCl \to NOCl\text{ (Nitrosyl chloride)} + Cl_2\text{ (free nascent chlorine)} + 2H_2O$$
-  The highly reactive nascent chlorine attacks noble metals that resist all individual acids, forming soluble coordinate complexes:
-  $$Au + 3[Cl] + HCl \to H[AuCl_4]\text{ (Chloroauric acid)}$$
-  $$Pt + 4[Cl] + 2HCl \to H_2[PtCl_6]\text{ (Chloroplatinic acid)}$$
-
----
-
-### 3.4 Important Ores, Extraction Processes & Metallurgy
-
-#### 1. Extractive Steps in Metallurgy
-1. **Crushing and Pulverization**: Mechanical reduction of large rocky boulders into fine powder using jaw crushers and ball mills.
-2. **Concentration / Beneficiation**: Removal of unwanted rocky, earthy gangue impurities:
-   - *Gravity Separation (Hydraulic Washing)*: Relies on density differences (used for heavy oxide ores like haematite $Fe_2O_3$).
-   - *Magnetic Separation*: Uses electromagnetic rollers (separates magnetic wolframite from non-magnetic tin stone $SnO_2$).
-   - *Froth Flotation*: Used selectively for **sulphide ores** ($ZnS, PbS, CuFeS_2$). Pulverized ore is mixed with water, pine oil (collector), and sodium ethyl xanthate. Air is vigorously bubbled through; oil-coated sulphide particles adhere to the rising froth, while hydrophilic gangue sinks to the tank bottom.
-   - *Chemical Leaching*: Selective dissolution of metal in a chemical reagent (e.g., Bayer's process for bauxite using hot concentrated $NaOH$).
-3. **Conversion to Oxide (Calcination vs. Roasting)**:
-   - *Calcination*: Heating carbonate or hydrated ores below melting point in the **absence/deficiency of air** to expel moisture and $CO_2$ ($CaCO_3 \to CaO + CO_2$).
-   - *Roasting*: Heating sulphide ores below melting point in **excess air** to oxidize sulphides into oxides and volatile $SO_2$ gas ($2PbS + 3O_2 \to 2PbO + 2SO_2$).
-4. **Reduction of Metal Oxide to Free Metal**:
-   - *Smelting with Carbon (Coke)*: Used for moderate-reactivity metals ($Fe, Zn, Pb, Sn$).
-   - *Thermite Reduction (Aluminothermy)*: Reduction of refractory oxides ($Cr_2O_3, Mn_3O_4, Fe_2O_3$) using aluminium powder. Highly exothermic ($>2500^\circ\text{C}$); used for in-situ railway track welding.
-   - *Electrolytic Reduction*: Used for highly electropositive metals ($Na, K, Ca, Mg, Al$) whose oxides cannot be reduced by carbon.
-5. **Refining / Purification**:
-   - *Liquation*: For low-melting metals like Tin ($Sn$) and Bismuth ($Bi$).
-   - *Distillation*: For volatile metals with low boiling points like Zinc ($Zn$) and Mercury ($Hg$).
-   - *Electrolytic Refining*: Impure metal forms anode, pure metal strip forms cathode, metal salt is electrolyte (used for $Cu, Ag, Au, Al$).
-   - *Zone Refining*: Based on the principle that impurities are more soluble in the molten melt than in the solid metal; yields ultra-pure semiconductors (Silicon $Si$, Germanium $Ge$).
-   - *Vapour Phase Refining*: Mond process for Nickel ($Ni + 4CO \xrightarrow{50^\circ\text{C}} Ni(CO)_4 \xrightarrow{200^\circ\text{C}} Ni + 4CO$); Van Arkel-de Boer process for Titanium ($Ti$) and Zirconium ($Zr$) using iodine.
-
----
-
-### 3.5 Corrosion Mechanisms & Protective Technologies
-
-#### 1. Electrochemical Theory of Rusting
-Rusting of iron is not a simple chemical combination, but an **electrochemical cell (galvanic corrosion)** set up on the microscopic metal surface:
-- **Anodic Region**: Iron metal oxidizes, releasing electrons:
-  $$\text{Anode: } Fe\text{ (s)} \to Fe^{2+}\text{ (aq)} + 2e^- \quad (E^\circ = -0.44\text{ V})$$
-- **Cathodic Region**: Electrons migrate through the metal to a separate region with dissolved oxygen and moisture:
-  $$\text{Cathode: } O_2\text{ (g)} + 4H^+\text{ (aq)} + 4e^- \to 2H_2O\text{ (l)} \quad (E^\circ = +1.23\text{ V})$$
-- **Overall Cell Reaction**:
-  $$2Fe + O_2 + 4H^+ \to 2Fe^{2+} + 2H_2O$$
-  Ferrous ions are further oxidized by atmospheric oxygen to ferric state and precipitate as hydrated ferric oxide:
-  $$4Fe^{2+} + O_2 + 4H_2O + 2xH_2O \to 2Fe_2O_3 \cdot xH_2O\text{ (Rust)} + 8H^+$$
-- **Weight Consequence**: Because atmospheric oxygen and water molecules are chemically bonded into the crystal structure of the iron object, the **total weight of the iron article increases upon rusting**.
-
-#### 2. Corrosion in Other Metals
-- **Copper Patina**: When exposed to moist air containing $CO_2$ and $SO_2$ over long periods, copper develops a protective green surface layer consisting of **basic copper carbonate**:
-  $$2Cu + O_2 + CO_2 + H_2O \to CuCO_3 \cdot Cu(OH)_2\text{ (Green Patina)}$$
-  (Seen on the Statue of Liberty and historic temple domes).
-- **Silver Tarnishing**: Silver is inert to oxygen, but reacts with trace hydrogen sulphide ($H_2S$) in polluted air to form a black surface tarnish of **silver sulphide**:
-  $$2Ag + H_2S \to Ag_2S\text{ (Black tarnish)} + H_2$$
-
-#### 3. Prevention Strategies
-- **Galvanization**: Dipping iron articles into a bath of molten Zinc ($\approx 450^\circ\text{C}$). Zinc oxidizes preferentially to form a tough film of zinc hydroxycarbonate. Crucially, because Zinc is more electropositive than Iron ($E^\circ_{Zn^{2+}/Zn} = -0.76\text{ V}$ vs $E^\circ_{Fe^{2+}/Fe} = -0.44\text{ V}$), zinc acts as a **sacrificial anode**. Even if the zinc coating is scratched, zinc continues to oxidize and supply electrons to the iron, preventing the iron from rusting.
-- **Cathodic Protection (Sacrificial Anode)**: Underground steel pipelines and ship hulls are connected via electrical cables to blocks of more reactive sacrificial metals like **Magnesium ($Mg$) or Zinc ($Zn$)**. The sacrificial metal corrodes over time and is periodically replaced, preserving the steel structure indefinitely.
-- **Anodizing**: An electrolytic oxidation process applied primarily to aluminium articles. The aluminium part forms the anode in an acid bath ($H_2SO_4$); oxygen liberated at the anode reacts with aluminium to produce a thick, durable, corrosion-resistant surface layer of **aluminium oxide ($Al_2O_3$)**, which can be dyed in bright decorative colors.
-
----
-
----
-
----
-
-## Bilingual Terminology -- Metals and Chemical Reactions
-
-| English Term | Hindi Term | Key Anchor |
+| Era / Landmark Year | Metallurgical Development | Exam Relevance & Significance |
 |---|---|---|
-| **Metal** (धातु) | धातु | Lustrous, malleable, ductile, good conductor; loses electrons |
-| **Non-metal** (अधातु) | अधातु | Dull, brittle, poor conductor (except graphite); gains electrons |
-| **Alloy** (मिश्र धातु) | मिश्र धातु | Mixture of two or more metals (or metal + non-metal) |
-| **Corrosion** (संक्षारण) | संक्षारण | Deterioration of metals by reaction with environment; e.g., rusting |
-| **Rusting** (जंग लगना) | जंग लगना | Corrosion of iron; Fe2O3.xH2O (hydrated iron oxide); needs O2 + H2O |
-| **Oxidation** (ऑक्सीकरण) | ऑक्सीकरण | Loss of electrons; increase in oxidation state |
-| **Reduction** (अपचयन) | अपचयन | Gain of electrons; decrease in oxidation state |
-| **Redox Reaction** (ऑक्सीकरण-अपचयन) | रेडॉक्स अभिक्रिया | Simultaneous oxidation and reduction in same reaction |
-| **Calcination** (निस्तापन) | निस्तापन | Heating ore in limited air; e.g., CaCO3 -> CaO + CO2 |
-| **Roasting** (भर्जन) | भर्जन | Heating sulphide ore in excess air; converts to oxide; e.g., ZnS + O2 -> ZnO + SO2 |
-| **Smelting** (प्रगलन) | प्रगलन | Melting ore with reducing agent (coke) to extract metal |
-| **Electrolytic Refining** (विद्युत-अपघटनी परिष्करण) | विद्युतअपघटनी शोधन | Purification of metals using electrolysis; crude as anode, pure as cathode |
-| **Thermite Reaction** | थर्माइट अभिक्रिया | Al + Fe2O3 -> Al2O3 + Fe + huge heat; welding railway tracks |
-| **Galvanisation** (जस्तीकरण) | गैल्वनीकरण | Coating iron with zinc to prevent rusting |
-| **Anodising** (एनोडाइजिंग) | एनोडाइजिंग | Electrochemical coating of aluminium with Al2O3 (protection layer) |
-| **Reactivity Series** (क्रियाशीलता श्रृंखला) | अभिक्रियाशीलता क्रम | Metals arranged by reactivity: K>Na>Ca>Mg>Al>Zn>Fe>Ni>Sn>Pb>H>Cu>Hg>Ag>Au>Pt |
+| **~3300 BCE** | Bronze Metallurgy | Indus Valley civilization mastered lost-wax casting of bronze (*Dancing Girl* of Mohenjodaro). |
+| **~400 CE** | Iron Pillar of Delhi | $98\%$ pure wrought iron with protective **amorphous iron hydrogen phosphate ($\delta	ext{-FeOOH}$)** film; rust-free for $>1600	ext{ years}$. |
+| **1807** | Humphry Davy | Isolated highly reactive alkali metals (**Sodium and Potassium**) using powerful voltaic batteries. |
+| **1886** | Hall-Héroult Process | Electrolysis of alumina dissolved in molten **Cryolite ($Na_3AlF_6$)**; made Aluminium affordable. |
+| **1913** | Harry Brearley | Discovered **Stainless Steel** ($18\%	ext{ Chromium} + 8\%	ext{ Nickel}$); formation of self-healing chromium oxide film. |
+
+## 📊 Quick Reference Grid
+
+### 1. Reactivity (Activity) Series of Metals (Decreasing Reactivity $\downarrow$)
+
+| Metal | Symbol | Reactivity Level | Reaction with Cold Water | Reaction with Dilute Acids | Extraction Metallurgy Method |
+|---|---|---|---|---|---|
+| **Potassium** | $K$ | **MOST REACTIVE** | Violent explosion; ignites lilac flame | Extremely violent | Electrolysis of molten chlorides (Down's process)|
+| **Sodium** | $Na$ | Extremely reactive | Vigorous reaction; melts into sphere; ignites yellow flame | Extremely violent | Stored under **Kerosene oil** to prevent oxidation |
+| **Calcium** | $Ca$ | Highly reactive | Reacts steadily; bubbles of $H_2$; sinks then floats | Vigorous | Electrolysis of molten salts |
+| **Magnesium** | $Mg$ | Highly reactive | Negligible with cold; reacts with **boiling water/steam** | Rapid reaction | Electrolysis of molten $MgCl_2$ |
+| **Aluminium** | $Al$ | Moderately reactive | Reacts only with **steam**; forms protective $Al_2O_3$ | Moderate reaction | Electrolytic reduction (**Hall-Héroult Process**) |
+| **Zinc** | $Zn$ | Moderate | Reacts only with **steam** at red heat | Moderate reaction | Reduction with Carbon / Coke (**Smelting**) |
+| **Iron** | $Fe$ | Moderate | Reacts only with **steam** ($3Fe + 4H_2O 	o Fe_3O_4 + 4H_2$)| Slow reaction | Reduction with Coke & Limestone in **Blast Furnace** |
+| **Lead** | $Pb$ | Moderate | No reaction with water | Very slow | Smelting / Carbon reduction of Galena ($PbS$) |
+| **[HYDROGEN]** | **$[H]$** | **Reference Standard** | **Elements above $[H]$ displace $H_2$ from dilute acids; elements below $[H]$ CANNOT!** |
+| **Copper** | $Cu$ | Low reactivity | No reaction with water or steam | **NO REACTION with dilute $HCl / H_2SO_4$** | Self-reduction in Bessemer converter |
+| **Mercury** | $Hg$ | Low reactivity | No reaction | No reaction with non-oxidizing acids | Heating Cinnabar ore ($HgS$) directly in air |
+| **Silver** | $Ag$ | Noble metal | Inert to water | No reaction | Cyanide leaching process |
+| **Gold** | $Au$ | **LEAST REACTIVE (Noble)**| Completely inert | Dissolves ONLY in **Aqua Regia ($3	ext{ HCl} : 1	ext{ HNO}_3$)** | Found in native elemental state in quartz veins |
 
 ---
 
-## Complete PYQ Bank — UPPCS & UP RO/ARO
+### 2. Master Ores of Principal Metals Matrix
 
-**Q-ST1. UPPCS (Pre) 1996**
+| Metal | Principal Ores | Chemical Formula | Type of Ore | Key Metallurgical Fact |
+|---|---|---|---|---|
+| **Iron ($Fe$)** | **Haematite** (Red ore) | **$Fe_2O_3$** ($70\% Fe$) | Oxide | Primary commercial ore in India (Odisha, Jharkhand, Chhattisgarh) |
+| **Iron ($Fe$)** | **Magnetite** (Black ore)| **$Fe_3O_4$** ($72.4\% Fe$) | Oxide | Naturally magnetic iron ore; highest iron content |
+| **Iron ($Fe$)** | Siderite / Limonite | $FeCO_3 / 2Fe_2O_3\cdot 3H_2O$ | Carbonate / Hydrated | Secondary iron ores |
+| **Aluminium ($Al$)** | **Bauxite** | **$Al_2O_3 \cdot 2H_2O$** | Hydrated Oxide | Primary ore; Odisha is #1 producer in India |
+| **Aluminium ($Al$)** | **Cryolite** | **$Na_3AlF_6$** | Fluoride | Added to lower melting point of alumina from $2050^\circ	ext{C}$ to $950^\circ	ext{C}$ |
+| **Aluminium ($Al$)** | Corundum (Ruby/Sapphire)| $Al_2O_3$ | Oxide | Extremely hard mineral (Mohs hardness 9) |
+| **Copper ($Cu$)** | **Chalcopyrite (Copper Pyrites)**| **$CuFeS_2$** | Sulphide | Main commercial ore (Khetri, Malanjkhand) |
+| **Copper ($Cu$)** | Malachite | $CuCO_3 \cdot Cu(OH)_2$ | Basic Carbonate | Green colored copper mineral |
+| **Zinc ($Zn$)** | **Zinc Blende (Sphalerite)**| **$ZnS$** | Sulphide | Roasted in air to obtain $ZnO$; Rampura Agucha (Rajasthan) |
+| **Zinc ($Zn$)** | Calamine | $ZnCO_3$ | Carbonate | Undergoes calcination to form $ZnO$ |
+| **Lead ($Pb$)** | **Galena** | **$PbS$** | Sulphide | Dense metallic grey cubic crystals; Zawar mines |
+| **Mercury ($Hg$)** | **Cinnabar** | **$HgS$** | Sulphide | Bright red vermillion mineral; roasts to yield elemental $Hg$ vapor |
+| **Tin ($Sn$)** | **Cassiterite (Tinstone)**| **$SnO_2$** | Oxide | Primary tin ore; Bastar (Chhattisgarh) is only Indian producer |
+| **Uranium ($U$)** | **Pitchblende** | **$U_3O_8$** | Mixed Oxide | Jaduguda and Tummalapalle mines |
+| **Thorium ($Th$)** | **Monazite Sand** | Phosphate of REEs & $Th$ | Phosphate | Rich beach placers along Kerala and Odisha coasts |
 
-Which one of the following is the hardest metal?
-- (A) Gold
-- (B) Iron
-- (C) Platinum
-- (D) Tungsten
+---
 
-<details>
-<summary>Show answer</summary>
+### 3. Commercial Alloys & Chemical Compositions
 
-**Logic:** Standard key matches Tungsten.
+| Alloy Name | Principal Components & Percentages | Distinctive Properties | High-Yield Prelims Exam Applications |
+|---|---|---|---|
+| **Brass (Pital)** | **Copper ($Cu, 70\%$) + Zinc ($Zn, 30\%$)** | Highly malleable, acoustic resonance, golden sheen | Musical instruments, plumbing fixtures, cartridge cases, utensils |
+| **Bronze (Kansa)** | **Copper ($Cu, 88–90\%$) + Tin ($Sn, 10–12\%$)** | Tough, resistant to corrosion and seawater | Statues, medals, coins, ship propellers, bells |
+| **German Silver** | **Copper ($50\%$) + Zinc ($30\%$) + Nickel ($20\%$)**| Silvery-white luster; **CONTAINS ZERO SILVER ($0\% Ag$)**! | Tableware, decorative silverware imitations, costume jewelry |
+| **Solder (Tanka)** | **Lead ($Pb, 50\%$) + Tin ($Sn, 50\%$)** | Very low melting point ($pprox 183^\circ	ext{C}$), rapid freezing | Joining electrical circuits and metallic pipes |
+| **Stainless Steel** | **Iron ($Fe, 73\%$) + Chromium ($18\%$) + Nickel ($8\%$) + Carbon ($1\%$)**| Rustless, non-corrosive, non-magnetic austenitic | Surgical instruments, cutlery, cookware, chemical processing |
+| **Gun Metal** | **Copper ($88\%$) + Tin ($10\%$) + Zinc ($2\%$)** | High tensile strength, withstands heavy pressure | Ordnance, firearm barrels, heavy machinery bearings |
+| **Duralumin** | **Aluminium ($95\%$) + Copper ($4\%$) + Magnesium ($0.5\%$) + Manganese ($0.5\%$)**| Light as aluminium, strong as mild steel | **Aircraft fuselage, Zeppelin airships**, pressure cookers |
+| **Alnico** | **Aluminium + Nickel + Cobalt + Iron** | Extremely high magnetic coercivity | Powerful **permanent magnets** in loudspeakers and dynamos |
+| **Amalgam** | **Mercury ($Hg$) alloyed with other metals** | Liquid or paste metallic blend | Dental tooth fillings (**Silver-tin amalgam**); **Iron does NOT form amalgam** |
 
-**Ans: D.** Tungsten
-</details>
+## ⚡ Confused Pairs & Common Examiner Traps
 
-**Q2.** Ans: C.** Both 1 and 2
-</details>
+| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
+|---|---|---|---|
+| **German Silver Composition**| **Silver Metal Content Trap** | **German Silver contains ZERO PERCENT SILVER ($0\% Ag$)**! It is strictly an alloy of **Copper ($50\%$) + Zinc ($30\%$) + Nickel ($20\%$)**, named purely for its silvery appearance. | जर्मन सिल्वर में चांदी की मात्रा शून्य ($0\%$) होती है (तांबा + जस्ता + निकल) |
+| **Brass vs Bronze** | **Alloying Metal Swapped** | **Brass is Copper + ZINC ($Cu + Zn$)**. **Bronze is Copper + TIN ($Cu + Sn$)**. A classic prelims favorite. | पीतल (Brass) = तांबा + जस्ता; कांसा (Bronze) = तांबा + टिन |
+| **Rusting of Iron Weight** | **Weight Loss Myth** | When an iron nail rusts, **ITS WEIGHT INCREASES**. The iron combines with atmospheric oxygen and water to form hydrated ferric oxide: $4Fe + 3O_2 + 2xH_2O 	o 2Fe_2O_3\cdot xH_2O$. | लोहे में जंग लगने पर उसका भार बढ़ जाता है (ऑक्सीजन व नमी जुड़ने के कारण) |
+| **Galvanization** | **Tinning** | **Galvanization** coats iron with molten **ZINC ($Zn$)** (sacrificial anode protection even if scratched). **Tinning** coats iron/copper utensils with **TIN ($Sn$)** to prevent food toxicity. | यशदलेपन (Galvanization) = लोहे पर जस्ते (Zinc) की परत चढ़ाना |
+| **Sodium Storage** | **White Phosphorus Storage** | **Sodium ($Na$) is stored under KEROSENE** (reacts explosively with air moisture). **White Phosphorus ($P_4$) is stored under WATER** (ignites spontaneously in air at $30^\circ	ext{C}$, but does not react with water). | सोडियम को मिट्टी के तेल (केरोसिन) में रखा जाता है; श्वेत फास्फोरस को जल में रखा जाता है |
+| **Calcination** | **Roasting** | **Calcination** heats carbonate ores in the **ABSENCE or limited supply of air** ($ZnCO_3 	o ZnO + CO_2$). **Roasting** heats sulphide ores in **EXCESS air** ($2ZnS + 3O_2 	o 2ZnO + 2SO_2$). | निस्तापन (Calcination) = वायु की अनुपस्थिति में; भर्जन (Roasting) = वायु की उपस्थिति में |
+| **Amalgam Exception** | **Mercury Alloying** | An amalgam is any mercury alloy. **IRON ($Fe$) DOES NOT FORM AN AMALGAM** with mercury; hence, mercury is stored and transported safely in heavy iron flasks. | पारा (Mercury) लोहे के साथ अमलगम नहीं बनाता, अतः इसे लोहे के पात्रों में रखा जाता है |
+| **Acid Displacement Rule** | **Copper with Dilute Acid** | Metals above Hydrogen in the reactivity series displace $H_2$ gas from dilute $HCl/H_2SO_4$. **Copper ($Cu$) is below Hydrogen and CANNOT release $H_2$ from dilute acids**. | तांबा (Copper) तनु अम्लों से हाइड्रोजन विस्थापित नहीं कर सकता |
+| **Gold Dissolution** | **Single Acid Myth** | Gold does not dissolve in concentrated $HCl$ or concentrated $HNO_3$ alone. It dissolves strictly in **AQUA REGIA**, a fresh mixture of **$3	ext{ parts Conc. HCl} : 1	ext{ part Conc. HNO}_3$**. | सोना केवल अम्लराज (Aqua Regia = 3 भाग सांद्र HCl + 1 भाग सांद्र $HNO_3$) में घुलता है |
+| **Solder Metal Composition** | **Lead-Free Solders** | Traditional electrical solder is an alloy of **Tin ($Sn, 50–63\%$) and Lead ($Pb, 37–50\%$)** with an exceptionally low eutectic melting point. | टांका (Solder) धातु = टिन ($Sn$) + सीसा ($Pb$) |
 
-**Q-ST21. UPPCS (Pre) 2020**
+## 🧠 Memory Anchors & Mnemonics
 
-Match List-I with List-II and select the correct answer
+### 1. Metal Reactivity Series Mnemonic:
+> **"Please Stop Calling Me A Careless Zebra, Instead Try Learning How Copper Saves Gold"**
+- **P**otassium ($K$) > **S**odium ($Na$) > **C**alcium ($Ca$) > **M**agnesium ($Mg$) > **A**luminium ($Al$) > **C**arbon > **Z**inc ($Zn$) > **I**ron ($Fe$) > **T**in ($Sn$) > **L**ead ($Pb$) > **H**ydrogen ($H$) > **C**opper ($Cu$) > **S**ilver ($Ag$) > **G**old ($Au$).
 
-from the code given below the lists:
+### 2. German Silver Reality Anchor:
+- **German Silver = $0\% 	ext{ Silver}$!**
+- Contains: **Cu + Zn + Ni** (Copper + Zinc + Nickel).
 
-List-I List-II
+### 3. Alloy Twin Tagger:
+- **Brass**: Has 'Z' sound $	o$ Copper + **Zinc**.
+- **Bronze**: Has 'n' sound $	o$ Copper + **TiN** ($Sn$).
 
-(Metal) (Property)
+## 🎯 High-Yield PYQ Drill
 
-A. Sodium 1. Good conductor of electricity
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-B. Mercury 2. Liquid at room temperature
+**Q1.**
 
-C. Silver 3. Poor conductor of heat
-
-D. Lead 4. Can be easily cut with knife
-
-Code :
-
-A B C D
-- (A) 2 3 1 4
-- (B) 1 4 3 2
-- (C) 4 2 1 3
-- (D) 4 1 2 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Silver 3.
-
-**Ans: C.** Silver 3.
-</details>
-
-**Q3.** Ans: D.** Minimum heat conducting 4.
-</details>
-
-**Q-ST23. Uttrakhand U.D.A./L.D.A. (Mains) 2006**
-
-Which of the following materials has the highest
-
-electrical conductivity ?
-- (A) Diamond
-- (B) Silver
-- (C) Graphite
-- (D) Wood
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Silver.
-
-**Ans: B.** Silver
-</details>
-
-**Q4.** Ans: D.** Ruby 4.
-</details>
-
-**Q-ST28. UP RO/ARO (Pre) 2017**
-
-Which one of the following pairs is not correctly
-
-matched?
-- (A) Aluminium – Bauxite
-- (B) Copper – Cinnabar
-- (C) Zinc – Calamine
-- (D) Iron – Haematite
+Which of the following metals has the lowest melting point and is liquid at room temperature?
+(a) Gallium  
+(b) Caesium  
+(c) Mercury  
+(d) Lead  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches Copper – Cinnabar.
+**Logic:** Standard key matches Mercury.
 
-**Ans: B.** Copper – Cinnabar
+**Ans: C.** Mercury
 </details>
 
-**Q5.** Ans: D.** 2, 8, 8, 2
-</details>
+---
 
-**Q-ST3. 70th B.P.S.C. (Pre) (Re-Exam) 2024**
+**Q2.**
 
-Which of the following is not an electrophile?
-- (A) Na+
-- (B) BF3
-- (C) H+
-- (D) All of the above
+Which of the following elements is classified as the densest naturally occurring metal?
+(a) Platinum  
+(b) Osmium  
+(c) Gold  
+(d) Uranium  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches Na+.
+**Logic:** Standard key matches Osmium.
 
-**Ans: A.** Na+
+**Ans: B.** Osmium
 </details>
 
-**Q6.** Ans: A.** Al2
-</details>
+---
 
-**Q-ST15. I.A.S. (Pre) 1998**
+**Q3.**
 
-Assertion (A) : Sodium metal is stored under kerosene.
-
-Reason (R) : Metallic sodium melts when exposed to air.
-- (A) Both
-- (A) and (R) are true, and (R) is the correct
-
-explanation of
-- (A) .
-- (B) Both
-- (A) and (R) are true, but (R) is not a correct
-
-explanation of
-- (A) .
-- (C) 
-- (A) is true, but (R) is false.
-- (D) 
-- (A) is false, but (R) is true.
+Why can sodium and potassium be easily sliced with a common knife?
+(a) They have high atomic masses  
+(b) They have only one valence electron and large atomic radii, leading to weak metallic bonding  
+(c) They form layered covalent networks like graphite  
+(d) They contain high concentrations of entrapped hydrogen gas  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches - (A) is true, but (R) is false.
+**Logic:** Alkali metals possess single valence electrons ($ns^1$) and large atomic volumes, resulting in low cohesive energy and weak metallic bonding that makes the bulk metal soft.
 
-**Ans: C.** (A) is true, but (R) is false
+**Ans: B.** They have only one valence electron and large atomic radii, leading to weak metallic bonding
 </details>
 
-**Q7.** Ans: B.** 24
-</details>
+---
 
-**Q-ST19. 67th B.P.S.C. (Pre) (Re. Exam) 2022**
+**Q4.**
 
-Which among the following is also known as white
-
-metal?
-- (A) Nickel
-- (B) Rhodium
-- (C) Platinum
-- (D) Palladium
-- (E) None of the above/More than one of the above
+What is the percentage of elemental Silver ($Ag$) in the commercial alloy "German Silver"?
+(a) $20\%$  
+(b) $50\%$  
+(c) $0\%$  
+(d) $80\%$  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches None of the above/More than one of the above.
+**Logic:** Standard key matches $0\%$.
 
-**Ans: E.** None of the above/More than one of the above
+**Ans: C.** $0\%$
 </details>
 
-**Q8.** Ans: B.** CaSO4
-</details>
+---
 
-**Q-ST30. I.A.S. (Pre) 1994**
+**Q5.**
 
-Monazite is an ore of –
-- (A) Zirconium
-- (B) Thorium
-- (C) Titanium
-- (D) Iron
+Which of the following non-metals possesses a metallic-like shiny luster?
+(a) Sulphur  
+(b) Carbon (amorphous)  
+(c) Iodine  
+(d) Phosphorus  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches Thorium.
+**Logic:** Standard key matches Iodine.
 
-**Ans: B.** Thorium
+**Ans: C.** Iodine
 </details>
 
-**Q9.** Ans: B.** Smelting 2.
-</details>
+---
 
-**Q-ST52. I.A.S. (Pre) 2005**
+**Q6.**
 
-Which one of the following is the correct sequence of
-
-the given substances in the decreasing order of their
-
-densities?
-- (A) Steel > Mercury > Gold
-- (B) Gold > Mercury > Steel
-- (C) Steel > Gold > Mercury
-- (D) Gold > Steel > Mercury
+The thermite reaction used to weld railway tracks uses which element as a reducing agent?
+(a) Carbon coke  
+(b) Aluminium powder  
+(c) Magnesium wire  
+(d) Hydrogen gas  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches Gold > Mercury > Steel.
+**Logic:** The reaction is: $Fe2O3 + 2Al \to Al2O3 + 2Fe\text{ (molten)} + \text{heat}$.
 
-**Ans: B.** Gold > Mercury > Steel
+**Ans: B.** Aluminium powder
 </details>
 
-**Q10.** Ans: D.** Hypo 4.
-</details>
+---
 
-**Q-ST59. Chhattisgarh P.C.S. (Pre) 2020**
+**Q7.**
 
-How much percentage of silver is found in German
-
-Silver?
-- (A) 20%
-- (B) 30%
-- (C) 60%
-- (D) None of these
+Which of the following metals does NOT evolve hydrogen gas when treated with dilute hydrochloric acid?
+(a) Magnesium  
+(b) Zinc  
+(c) Iron  
+(d) Copper  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches None of these.
+**Logic:** Standard key matches Copper.
 
-**Ans: D.** None of these
+**Ans: D.** Copper
 </details>
 
-**Q11.** Ans: D.** 1, 2 and 3
-</details>
+---
 
-**Q-ST66. I.A.S. (Pre) 1996**
+**Q8.**
 
-Which of the following elements is added to iron to
-
-produce steel which can resist high temperature, have
-
-high hardness and abrasion resistance ?
-- (A) Aluminium
-- (B) Chromium
-- (C) Nickel
-- (D) Tungsten
+The primary ore of Mercury is:
+(a) Bauxite  
+(b) Galena  
+(c) Cinnabar  
+(d) Calamine  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches Chromium.
+**Logic:** Cinnabar is mercuric sulphide ($HgS$).
 
-**Ans: B.** Chromium
+**Ans: C.** Cinnabar
 </details>
 
-**Q12.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q9.**
 
-A. Metals are electropositive elements that readily donate valence electrons to form positive cations ($M \to M^{n+} + n e^-$).
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
+In the extraction of aluminium by the Hall-Héroult process, cryolite ($Na_3AlF_6$) is added to alumina to:
+(a) Act as an oxidizing agent  
+(b) Lower the melting point and enhance electrical conductivity  
+(c) Prevent oxidation of carbon anodes  
+(d) Form a protective slag layer  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** Pure alumina ($Al2O3$) melts at $2050^\circ\text{C}$ and is a poor electrical conductor.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Metals** are electropositive elements that readily donate valence electrons to form positive cations ($M \to M^{n+} + n e^-$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Lower the melting point and enhance electrical conductivity
 </details>
 
-**Q13.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q10.**
 
-A. Contrary to standard doctrine, Gold applies only to union territories and not state jurisdictions.
-B. Gold ($Au$) is the most malleable and most ductile metal known: a single gram of gold can be drawn into a microscopic wire over $2\text{ kilometers}$ long or beaten into gold leaf only $0.00001\text{ mm}$ thick.
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+Which of the following alloys is used for soldering electrical connections?
+(a) Brass ($Cu + Zn$)  
+(b) Bronze ($Cu + Sn$)  
+(c) Solder ($Pb + Sn$)  
+(d) Nichrome ($Ni + Cr$)  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Logic:** Solder is an alloy of Lead and Tin ($\sim 50\% : 50\%$) with a low melting point ($\approx 183^\circ\text{C}$), ideal for joining electrical wires.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Gold ($Au$)** is the most **malleable** and most **ductile** metal known: a single gram of gold can be drawn into a microscopic wire over $2\text{ kilometers}$ long or beaten into gold leaf only $0.00001\text{ mm}$ thick.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: C.** Solder ($Pb + Sn$)
 </details>
 
-**Q14.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q11.**
 
-A. Contrary to standard doctrine, Silver applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Silver ($Ag$) has the highest electrical and thermal conductivity of all metals, followed in sequence by Copper ($Cu$), Gold ($Au$), and Aluminium ($Al$).
-D. Enacted under Article 356 of the Constitution of India
+What happens to the mass of an iron nail when it undergoes severe atmospheric rusting?
+(a) Decreases  
+(b) Increases  
+(c) Remains unchanged  
+(d) Drops to zero  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** Rust is hydrated ferric oxide ($Fe2O3 \cdot xH2O$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Silver ($Ag$)** has the **highest electrical and thermal conductivity** of all metals, followed in sequence by Copper ($Cu$), Gold ($Au$), and Aluminium ($Al$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Increases
 </details>
 
-**Q15.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q12.**
 
-A. Contrary to standard doctrine, Lead applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Lead ($Pb$) and Mercury ($Hg$) are the poorest conductors of heat among common commercial metals.
+Which element is added to iron to make stainless steel resistant to corrosion?
+(a) Sulphur  
+(b) Lead  
+(c) Chromium  
+(d) Tungsten  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** Chromium ($\ge 12\%$) forms a microscopic, self-healing passive layer of $Cr2O3$ on the steel surface that blocks oxygen and moisture.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Lead ($Pb$)** and **Mercury ($Hg$)** are the **poorest conductors of heat** among common commercial metals.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: C.** Chromium
 </details>
+
+---
+
+**Q13.**
+
+Which of the following pairs of metals will produce an explosive reaction when dropped into cold water?
+(a) Copper and Silver  
+(b) Sodium and Potassium  
+(c) Iron and Lead  
+(d) Gold and Platinum  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sodium and potassium react vigorously and exothermically with cold water, evolving hydrogen gas that catches fire spontaneously.
+
+**Ans: B.** Sodium and Potassium
+</details>
+
+---
+
+**Q14.**
+
+Galvanization provides sacrificial protection to iron because:
+(a) Zinc is less electropositive than iron  
+(b) Zinc has a more negative standard reduction potential than iron  
+(c) Zinc forms a permanent alloy with iron  
+(d) Zinc absorbs all atmospheric moisture  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Zinc ($E^\circ = -0.76\text{ V}$) is more easily oxidized than iron ($E^\circ = -0.44\text{ V}$).
+
+**Ans: B.** Zinc has a more negative standard reduction potential than iron
+</details>
+
+---
+
+**Q15.**
+
+What is the geometry and hybridization of carbon atoms in diamond?
+(a) Planar hexagonal, $sp^2$  
+(b) Tetrahedral, $sp^3$  
+(c) Linear, $sp$  
+(d) Octahedral, $sp^3d^2$  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** In diamond, every carbon atom is $sp^3$ hybridized and forms four strong covalent $\sigma$-bonds arranged tetrahedrally, producing a rigid three-dimensional network.
+
+**Ans: B.** Tetrahedral, $sp^3$
+</details>
+
+---

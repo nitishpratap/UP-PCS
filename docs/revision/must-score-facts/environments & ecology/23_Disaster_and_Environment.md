@@ -7,55 +7,110 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 23 — Disaster & Environment (पर्यावरण)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **NDMA** (आपदा प्राधिकरण) is under the Disaster Management Act **2005**. The **Prime Minister** chairs NDMA. **NDRF** is the response force. Sendai Framework for disaster risk reduction is **2015**.
-2. **DPAP** (Drought Prone Areas Programme) is **1973**. Do not date DPAP as **1952**. A rough programme spine is CDP (सीडीपी) 1952 (सामुदायिक विकास) → DPAP 1973 → FWP 1977 → TRYSEM 1979.
-3. **Piral Lao–Paise Pao** in Uttarakhand (उत्तराखंड) pays for pine-needle collection to cut fire risk and raise income. It is an Uttarakhand flagship, not a default UP scheme name.
-4. **Riverine floods** swell slowly over days–weeks on plains. **Flash floods** follow cloudbursts in hills within hours. **Urban flooding** is waterlogging from impervious surfaces and clogged drains.
-5. **UP flood rivers:** Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** — monsoon inundation of the Gangetic floodplain.
-6. **Human amplification:** floodplain encroachment, embankments that raise silted beds, and **deforestation** in catchments that speeds runoff.
-7. **Terai flash risk:** Himalayan/Nepal-side catchments can inundate **Pilibhit, Lakhimpur Kheri, Bahraich** rapidly after extreme rain.
-8. **Natural flood benefit:** controlled flooding deposits **alluvial (जलोढ़) silt** that renews soil fertility — the problem is uncontrolled flooding of encroached zones.
-9. **Institutions:NDMA (Disaster Management Act 2005)** — **Prime Minister** is Ex-officio Chair; **NDRF** for response; **IMD/CWC (केंद्रीय जल आयोग)** for forecasting; **Sendai Framework 2015** for disaster risk reduction.
-10. **Mitigation:** floodplain zoning, wetland restoration (natural sponges), catchment afforestation, early warning.
-11. **Drought** develops slowly — weeks to months — unlike sudden floods.
-12. **Meteorological drought:** rainfall below long-term normal.
-13. **Agricultural drought:** soil moisture insufficient for crops (even if some rain occurs).
-14. **Hydrological drought:** rivers, lakes, and groundwater below normal after prolonged dry spell.
-15. **Bundelkhand (UP):** seven districts — **Jhansi (झांसी), Lalitpur, Jalaun, Banda, Hamirpur, Mahoba, Chitrakoot (चित्रकूट)** — chronic drought–desertification (मरुस्थलीकरण) hotspot.
-16. **Drought Prone Areas Programme (DPAP)** launched in **1973** — soil conservation, water harvesting, afforestation in dryland districts.
-17. **Feedback loop:** drought kills vegetation → soil exposed → erosion → worse water retention → next drought worse.
-18. **Human triggers:** deforestation (roots bind soil), road cutting/blasting, unplanned hillside construction, mining — landslides are **not purely natural**.
-19. **Earthquake link:** Himalayan seismic shaking can trigger widespread mass failures.
-20. **Downstream risk:** landslide debris can dam (दाम -) rivers; dam-break floods then hit plains including UP Terai.
-21. **Mitigation:** bio-engineering, retaining walls, afforestation, land-use zoning on steep slopes, GSI hazard zonation maps.
-22. **Eye:** calm, clear, low-pressure centre. **Eyewall:** ring of **strongest winds and rain** around the eye. Trap: strongest winds are **not** in the eye.
-23. **Storm surge:** cyclone winds push seawater onshore — often deadlier than wind on flat coasts (Odisha, WB, Bangladesh).
-24. **Bay of Bengal** produces **more frequent and intense** cyclones than the **Arabian Sea** (warmer, shallower, moister waters).
-25. **Mangroves** (e.g. Sundarbans (सुंदरबन)) absorb surge energy — coastal buffer. Deforestation of mangroves increases damage.
-26. **IMD plains criteria:** maximum temperature **≥40°C** with departure **+4.5°C to +6.4°C** = heat wave; departure **≥+6.4°C** or absolute (निरपेक्ष) temp **≥47°C** = **severe heat wave**.
-27. **Urban heat island:** cities stay hotter than surrounding rural areas due to concrete, asphalt, waste heat, and lost greenery — amplifies heat-wave mortality.
-28. **Climate link:** warming makes heat waves more frequent, longer, and hotter (IPCC (आईपीसीसी) AR6).
-29. **Compound risk:** heat + drought raises crop failure and forest-fire fuel dryness; heat + power surge risks blackouts.
-30. **Health:** heatstroke, dehydration — elderly, outdoor workers, children most vulnerable.
-31. **Adaptation:** cool roofs, urban greening, IMD heat warnings, Heat Action Plans (Ahmedabad (अहमदाबाद) model).
-32. **Surface fire** burns litter/grass; **crown fire** burns canopy (most destructive); **ground fire** smoulders in organic soil.
-33. **Chir pine** forests (Uttarakhand, Himachal (हिमाचल)) accumulate **dry pine needles** — major summer fuel load.
-34. **Environmental damage:** biodiversity loss, soil organic matter destruction, erosion, **PM2.5 smoke**, CO₂ release; post-fire slopes raise landslide/flood risk.
-35. **FSI** uses satellite (MODIS/VIIRS) for real-time forest fire monitoring and state alerts.
+1. Environmental degradation (पर्यावरणीय क्षरण) raises disaster risk (deforestation worsens floods and landslides). Disasters also damage ecosystems through erosion, pollution, and forest loss.
+2. Flood types include riverine floods on the Ganga (गंगा) plains, flash floods/cloudbursts in Himalaya–Terai (तराई), and urban (नगरीय) waterlogging. UP river facts include Ganga, Yamuna (यमुना), Ghaghara (घाघरा), Rapti (राप्ती), and Gandak (गंडक).
+3. **NDMA** (आपदा प्राधिकरण) is under the Disaster Management Act **2005**. The **Prime Minister** chairs NDMA. **NDRF** is the response force. Sendai Framework for disaster risk reduction is **2015**.
+4. Drought progresses from **meteorological** (low rain) to **agricultural** (soil moisture) to **hydrological** (rivers and wells). Bundelkhand’s seven UP districts are a chronic drought hotspot.
+5. **DPAP** (Drought Prone Areas Programme) is **1973**. Do not date DPAP as **1952**. A rough programme spine is CDP (सीडीपी) 1952 (सामुदायिक विकास) → DPAP 1973 → FWP 1977 → TRYSEM 1979.
+6. Landslides need gravity, water, weak slopes, and often vegetation loss. Himalaya and north-eastern hills are core belts. Kedarnath (केदारनाथ) **2013** is the cloudburst–landslide–flood chain fact. Roads, mining, and deforestation are human triggers.
+7. Tropical cyclones need warm seas around **26–27°C**. The **Bay of Bengal** produces more than the Arabian Sea. The **eye** is calm; the **eyewall** has the strongest winds; **storm surge** (तूफानी महोर्मि) is the coastal flood killer.
+8. Mangroves reduce storm-surge damage. Named cyclone memory often uses Fani (**2019**) and Amphan (**2020**).
+9. IMD plains heat-wave idea: about **≥40°C** with departure **+4.5°C to +6.4°C** as heat wave; severe when departure is **≥+6.4°C** or temperature **≥47°C**. Peak is May–June in North India. Urban heat island amplifies cities but is not identical to a heat-wave definition.
+10. Forest fires need fuel, oxygen, and ignition. Peak season is roughly March–June. Chir pine needles are a Himalayan fuel fact. FSI issues satellite fire alerts.
+11. **Piral Lao–Paise Pao** in Uttarakhand (उत्तराखंड) pays for pine-needle collection to cut fire risk and raise income. It is an Uttarakhand flagship, not a default UP scheme name.
+12. NDMA Chair = Prime Minister — a recurring institution fact.
+13. Eye ≠ strongest winds. Eyewall holds the violence; eye is the calm core.
+14. Landslides are not “purely natural” when options ignore slope cutting and deforestation.
+15. Heat wave (IMD criteria) ≠ urban heat island (city microclimate effect), though cities worsen heat stress.
+16. DPAP year is **1973**, not the older CDP **1952** tag.
+17. Cloudburst is extreme local rain in a short time — often the Himalayan flood trigger neighbour to landslides.
+18. Storm surge is sea pushed ashore by cyclone winds — distinct from ordinary astronomical tide.
+19. Meteorological drought (मौसमी (मौसम विज्ञान) सूखा) is rainfall failure; agricultural drought (कृषि सूखा) is crop-moisture failure; hydrological drought (जल-वैज्ञानिक सूखा) is stream/groundwater failure. Keep the sequence.
+20. Sendai **2015** is the global DRR framework fact beside India’s NDMA architecture.
+21. Forest-fire season and chir-pine fuel matter more in Uttarakhand hills than in deep Gangetic floodplain districts.
+22. Cyclone naming and Bay of Bengal dominance are coastal facts; UP’s disaster map is flood–drought–heat first.
+23. NDRF is the specialised response force; NDMA is the apex policy body chaired by the PM.
+24. Bundelkhand drought and Terai/Ganga floods are the two UP geography disaster anchors on this sheet.
+25. **Riverine floods** swell slowly over days–weeks on plains. **Flash floods** follow cloudbursts in hills within hours. **Urban flooding** is waterlogging from impervious surfaces and clogged drains.
+26. **UP flood rivers:** Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** — monsoon inundation of the Gangetic floodplain.
+27. **Human amplification:** floodplain encroachment, embankments that raise silted beds, and **deforestation** in catchments that speeds runoff.
+28. **Terai flash risk:** Himalayan/Nepal-side catchments can inundate **Pilibhit, Lakhimpur Kheri, Bahraich** rapidly after extreme rain.
+29. **Natural flood benefit:** controlled flooding deposits **alluvial (जलोढ़) silt** that renews soil fertility — the problem is uncontrolled flooding of encroached zones.
+30. **Institutions:NDMA (Disaster Management Act 2005)** — **Prime Minister** is Ex-officio Chair; **NDRF** for response; **IMD/CWC (केंद्रीय जल आयोग)** for forecasting; **Sendai Framework 2015** for disaster risk reduction.
+31. **Mitigation:** floodplain zoning, wetland restoration (natural sponges), catchment afforestation, early warning.
+32. **Drought** develops slowly — weeks to months — unlike sudden floods.
+33. **Meteorological drought:** rainfall below long-term normal.
+34. **Agricultural drought:** soil moisture insufficient for crops (even if some rain occurs).
+35. **Hydrological drought:** rivers, lakes, and groundwater below normal after prolonged dry spell.
+36. **Bundelkhand (UP):** seven districts — **Jhansi (झांसी), Lalitpur, Jalaun, Banda, Hamirpur, Mahoba, Chitrakoot (चित्रकूट)** — chronic drought–desertification (मरुस्थलीकरण) hotspot.
+37. **Drought Prone Areas Programme (DPAP)** launched in **1973** — soil conservation, water harvesting, afforestation in dryland districts.
+38. **Feedback loop:** drought kills vegetation → soil exposed → erosion → worse water retention → next drought worse.
+39. **Human triggers:** deforestation (roots bind soil), road cutting/blasting, unplanned hillside construction, mining — landslides are **not purely natural**.
+40. **Earthquake link:** Himalayan seismic shaking can trigger widespread mass failures.
+41. **Downstream risk:** landslide debris can dam (दाम -) rivers; dam-break floods then hit plains including UP Terai.
+42. **Mitigation:** bio-engineering, retaining walls, afforestation, land-use zoning on steep slopes, GSI hazard zonation maps.
+43. **Eye:** calm, clear, low-pressure centre. **Eyewall:** ring of **strongest winds and rain** around the eye. Trap: strongest winds are **not** in the eye.
+44. **Storm surge:** cyclone winds push seawater onshore — often deadlier than wind on flat coasts (Odisha, WB, Bangladesh).
+45. **Bay of Bengal** produces **more frequent and intense** cyclones than the **Arabian Sea** (warmer, shallower, moister waters).
+46. **Mangroves** (e.g. Sundarbans (सुंदरबन)) absorb surge energy — coastal buffer. Deforestation of mangroves increases damage.
+47. **IMD plains criteria:** maximum temperature **≥40°C** with departure **+4.5°C to +6.4°C** = heat wave; departure **≥+6.4°C** or absolute (निरपेक्ष) temp **≥47°C** = **severe heat wave**.
+48. **Urban heat island:** cities stay hotter than surrounding rural areas due to concrete, asphalt, waste heat, and lost greenery — amplifies heat-wave mortality.
+49. **Climate link:** warming makes heat waves more frequent, longer, and hotter (IPCC (आईपीसीसी) AR6).
+50. **Compound risk:** heat + drought raises crop failure and forest-fire fuel dryness; heat + power surge risks blackouts.
 
+## ⏱️ Timeline / Chronology
 
----
+### Chronological Sequence of Environmental Legislation & Governance in India
+
+```
+1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
+1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
+1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
+1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
+1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
+1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
+2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
+2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
+2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
+```
+
+## 📊 Quick Reference Grid
+
+### Institutions / hazards
+
+| Item | Lock |
+|------|------|
+| NDMA | DM Act **2005**; Chair = **PM**; NDRF response |
+| Sendai | Disaster risk reduction framework |
+| Drought ladder | Meteorological → agricultural → hydrological |
+| DPAP | **1973** (≠ 1952) |
+| Cyclone needs | Warm sea ~26–27°C; BoB > Arabian Sea |
+| Eye / Eyewall | Calm core / strongest winds |
+| Heat wave (plains) | ≥40°C + departure rules; severe ≥47°C or +6.4°C |
+| Forest fire season | Roughly Mar–Jun; chir pine fuel |
+| Piral Lao–Paise Pao | UK pine-needle scheme (≠ Delhi) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Meteorological Drought** | **Agricultural Drought** | Situation where actual seasonal rainfall over an area is significantly less than the long-term climatological mean (>25% deficient = moderate; >50% deficient = severe) vs condition where soil moisture deficiency severely impedes crop growth, triggering wilting and agrarian loss | मौसमी (मौसम विज्ञान) सूखा / कृषि सूखा (मृदा नमी संकट) |
 | **Hydrological Drought** | **Socio-Economic Drought** | Prolonged meteorological drought leading to depletion of surface water reservoirs, dried-up streams, and falling groundwater aquifer tables vs severe water scarcity disrupting economic goods, public water supply, and livelihoods | जल-वैज्ञानिक सूखा (जलाशय ह्रास) / सामाजिक-आर्थिक सूखा (आजीविका संकट) |
 | **Cloudburst** | **Urban Flash Flood** | Extreme, highly localized torrential rainfall event exceeding **100 mm per hour** over a small geographic area (~20–30 km²) causing catastrophic flash torrents vs rapid inundation of built-up city areas caused by impermeable concrete surfaces and choked storm drains | बादल फटना (≥100 मिमी/घंटा अतिवृष्टि) / नगरीय आकस्मिक बाढ़ |
@@ -63,10 +118,20 @@ hide:
 | **National Disaster Management Authority (NDMA)** | **National Institute of Disaster Management (NIDM)** | Apex statutory policy-making and executive body for disaster management established under DM Act 2005, chaired ex-officio by the Prime Minister vs premier national statutory institute responsible for capacity building, research, training, and documentation in disaster management | राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA, नीति पीठ) / राष्ट्रीय आपदा प्रबंधन संस्थान (NIDM, प्रशिक्षण) |
 | **Hazard** | **Vulnerability** | Dangerous physical event, phenomenon, or human activity that has the potential to cause loss of life, injury, or property damage (e.g. earthquake, cyclone) vs conditions determined by physical, social, economic, and environmental factors increasing susceptibility to hazards | आपदा जोखिम/खतरा (Hazard) / सुभेद्यता (Vulnerability) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

@@ -3,72 +3,247 @@ hide:
   - toc
 ---
 
-# Economy Topic 12 — Economic Laws, Reports, Rankings and Miscellaneous — Must-Score Facts
+# Economic Laws, Reports, Rankings & Misc — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">📈 Economy &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Economy Topic 12 — Economic Laws, Reports, Rankings and Miscellaneous</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Economic Laws, Reports, Rankings & Misc</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year / Index | Key Development & Core Metric | Analytical & Policy Significance |
+|---|---|---|
+| **Economic Survey 2022–23 Policy Response** | To counteract aggravated global supply disruptions, the Government of India **reduced customs duties on fuel and selected imported inputs**. | Prioritized inflation management through targeted excise and tariff rationalization, without curtailing food or fertilizer subsidies. |
+| **Economic Survey E-Commerce Projection** | Projected that fashion, grocery, and general merchandise will account for nearly two-thirds of India's e-commerce market **within the next four years (~2027)**. | Distinguishes medium-term digital market penetration from distant decade-end targets (not 2030). |
+| **Human Development Report (HDR 2021–22)** | India's global HDI ranking **slipped from 130 (2020) to 132 (2022)** amid post-pandemic global setbacks. | A higher numerical rank denotes a relative decline in comparative global standing; describing this as an "upgrade" is incorrect. |
+| **World Happiness Report 2022** | India ranked **136th** globally in subjective life evaluation among 146 surveyed nations. | Published by the UN Sustainable Development Solutions Network (SDSN) based on Gallup World Poll data. |
+| **Ease of Doing Business Historical Series** | India achieved landmark rank improvements: **77th in Doing Business 2019** and **63rd in Doing Business 2020**. | The World Bank officially discontinued the publication in 2021 following independent data audit irregularities. |
+| **Physical Quality of Life Index (PQLI)** | Developed in the mid-1970s by economist **Morris D. Morris** for the Overseas Development Council. | An early non-monetary composite welfare metric combining basic literacy, infant mortality rate, and life expectancy at age one. |
+| **Global Hunger Index (GHI 2017)** | India was ranked **100th** out of 119 qualifying nations. | Published jointly by Concern Worldwide and Welthungerhilfe; scores reflect child undernutrition, stunting, wasting, and mortality. |
+| **Global Peace Index (GPI 2018)** | India was ranked **136th** globally by the Institute for Economics and Peace (IEP). | Measures peacefulness across ongoing domestic/international conflict, societal safety, and degree of militarization. |
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. Economic Survey 2022–23: response to supply shocks included **reducing taxes on fuel and certain imported products**.
-2. That response was **not** cutting food/fertiliser subsidies and **not** raising fuel taxes.
-3. Services chapter teaching: credit growth to services above **16%** since July 2022; **75 Digital Banking Units**; strong PMI services.
-4. E-commerce fashion / grocery / general merchandise “two-thirds” share was framed as **next four years (~2027)** — **not by 2030**.
-5. RBI Annual Report / Monetary Policy Report track money, banking and inflation.
-6. Finance Commission Report tracks devolution (Topic 2).
-7. IMF **World Economic Outlook** and World Bank **World Development Report** are global cousins.
-8. UNDP **Human Development Report** carries HDI (Topics 8 / 12.3).
-9. Decreasing food and fertiliser subsidies
-10. Increasing taxes on fuel and imported products
-11. Reducing taxes on fuel and certain imported products
-12. **Insolvency and Bankruptcy Code (IBC), 2016** — time-bound corporate insolvency resolution; IBBI is the regulator.
-13. **RERA (Real Estate Regulation and Development Act), 2016** — regulates promoters / projects and protects home buyers.
-14. **Competition Act, 2002** — CCI (Topic 11).
-15. **Companies Act, 2013** — company law + CSR (Topic 11).
-16. **Consumer Protection Act, 2019** — consumer rights / e-commerce duties (Topic 11).
-17. **FEMA, 1999** (force **1 June 2000**) replaced **FERA, 1973** (Topic 9).
-18. **PMLA, 2002** — Prevention of Money Laundering Act; Enforcement Directorate investigates; scheduled offences feed the laundering definition.
-19. **FRBM Act** anchors fiscal-deficit rules (Topic 2).
-20. **Human Development Index / HDR** — UNDP; first HDR **1990**; pillars in Topic 8.
-21. **Gender Inequality Index (GII)** entered HDR in **2010** (UKPCS neighbour).
-22. **Physical Quality of Life Index (PQLI)** was developed by **Morris D. Morris** — literacy, IMR, life expectancy teaching — **not** UNDP and **not** Mahbub ul Haq.
-23. **Global Hunger Index (GHI)** — IFPRI / Welthungerhilfe / Concern Worldwide editions; higher score = worse hunger; ranks are **not** comparable across editions without care.
-24. **World Happiness Report** — Gallup World Poll / Cantril ladder; Finland often tops recent tables.
-25. **Global Peace Index (GPI)** — Institute for Economics and Peace (IEP); domains: conflict, safety/security, militarisation.
-26. **Ease of Doing Business / Doing Business** — World Bank (historical); India **77** in DB 2019 and **63** in DB 2020; report **discontinued** after 2021.
-27. **Global Competitiveness Index** — World Economic Forum (Topic 10 neighbour).
-28. **Global Innovation Index** — WIPO-led teaching in recent editions (CA-sensitive ranks).
-29. **SDG India Index** — **NITI Aayog**; state performance dashboard.
-30. **NITI Aayog** is the **nodal institution** for SDG implementation in India (not Planning Commission / Finance Commission).
-31. **2023–24** joint toppers: **Kerala + Uttarakhand (79)**; Tamil Nadu **78**; Bihar lowest **57**.
-32. **Uttar Pradesh**: Performer (2019–20 / 2020–21) → Front Runner **67** (2023–24).
-33. **SDG-6** = Clean Water and Sanitation; **SDG-15** = Life on Land; **SDG-1 / 2 / 9** = No Poverty / Zero Hunger / Industry–Innovation–Infrastructure.
-34. **RERA (Real Estate Regulation and Development Act), 2016** regulates promoters and projects.
-35. **Code on Wages, 2019** amalgamates: **Payment of Wages Act**, **Minimum Wages Act**, **Payment of Bonus Act**, and **Equal Remuneration Act** — **not** the Contract Labour Act.
+1. The **Economic Survey** is prepared under the guidance of the Chief Economic Adviser (CEA) in the Department of Economic Affairs and presented to Parliament by the Finance Minister, traditionally one day prior to the presentation of the Union Budget.
 
+2. The Economic Survey serves as an authoritative retrospective review of macroeconomic performance, sectoral trends, structural challenges, and policy trajectories.
 
----
+3. In response to global geopolitical supply shocks, the **Economic Survey 2022–23** highlighted that the central government provided supply-side relief by **reducing excise duties on fuel and import duties on key inputs**.
+
+4. The **Insolvency and Bankruptcy Code (IBC), 2016** established a consolidated, time-bound legal framework for the insolvency resolution of corporate debtors, partnerships, and individuals, administered by the **Insolvency and Bankruptcy Board of India (IBBI)**.
+
+5. Under the IBC, the **Committee of Creditors (CoC)**, comprising financial creditors, holds decision-making authority over the approval of corporate insolvency resolution plans.
+
+6. The **Real Estate (Regulation and Development) Act (RERA), 2016** established State-level Real Estate Regulatory Authorities to enforce project registration, mandate escrow accounts for homebuyer deposits (at least 70%), and protect consumer interests.
+
+7. The **Prevention of Money Laundering Act (PMLA), 2002** was enacted to prevent money laundering and confiscate property derived from proceeds of scheduled criminal offenses.
+
+8. Under the PMLA, the **Director of the Directorate of Enforcement (ED)** is legally empowered to call for records, audit trails, and financial statements maintained by reporting entities and financial institutions.
+
+9. Four comprehensive **Labour Codes** were enacted by Parliament in 2019–20 to rationalize 29 central labour laws: the **Code on Wages (2019)**, **Industrial Relations Code (2020)**, **Code on Social Security (2020)**, and **Occupational Safety, Health and Working Conditions Code (2020)**.
+
+10. The **Code on Wages, 2019** consolidated four legacy statutes: the Payment of Wages Act (1936), the Minimum Wages Act (1948), the Payment of Bonus Act (1965), and the Equal Remuneration Act (1976).
+
+11. Historical chronology of economic legislation: **Minimum Wages Act (1948) → Industries (Development and Regulation) Act (1951) → MRTP Act (1969) → FERA (1973) → SEBI Act (1992) → FEMA (1999) → Competition Act (2002) → Companies Act (2013) → IBC (2016)**.
+
+12. The **Labour Bureau**, an attached office of the Ministry of Labour and Employment, is responsible for compiling and publishing statistics on industrial disputes, strikes, lockouts, lay-offs, and retrenchments.
+
+13. The **Human Development Index (HDI)** is published annually by the United Nations Development Programme (UNDP) in its Human Development Report, initiated in **1990** under Mahbub ul Haq and Amartya Sen.
+
+14. In ranking metrics, an **increasing numerical rank** (e.g., from 130 to 132) indicates a relative **deterioration or slip** in international performance, not an improvement or upgrade.
+
+15. In the **Human Development Report 2021–22**, India's HDI score stood at 0.633, causing its global rank to slip to **132nd** among 191 nations.
+
+16. In the **Human Development Report 2020**, India was ranked **131st** globally (HDI value 0.645).
+
+17. The **Gender Inequality Index (GII)** was officially introduced in the **2010 Human Development Report**, measuring gender disparities across reproductive health, empowerment, and economic activity.
+
+18. The **Physical Quality of Life Index (PQLI)** was formulated by **Morris D. Morris** in 1979 as an unweighted average of three non-monetary indicators: basic literacy, infant mortality rate, and life expectancy at age one.
+
+19. The **Global Hunger Index (GHI)** is designed to comprehensively measure and track hunger globally, calculating composite scores across four indicators: undernourishment, child stunting, child wasting, and child mortality.
+
+20. In the **Global Hunger Index 2017**, India was placed at the **100th position** among 119 evaluated countries.
+
+21. The **World Happiness Report** is released annually by the UN Sustainable Development Solutions Network (SDSN), ranking national happiness based on subjective life evaluations from the Gallup World Poll.
+
+22. In the **World Happiness Report 2022**, India was ranked **136th** globally.
+
+23. The **Global Peace Index (GPI)** is produced annually by the **Institute for Economics and Peace (IEP)**, measuring the state of peace across 163 independent states and territories.
+
+24. In the **Global Peace Index 2018**, India was ranked **136th** worldwide.
+
+25. In the World Bank's historical **Ease of Doing Business** assessments, India achieved rapid regulatory improvements, leaping to **77th in Doing Business 2019** and **63rd in Doing Business 2020**.
+
+26. Following data irregularity investigations, the World Bank permanently **discontinued the Doing Business report** in September 2021, replacing it with the new Business Ready (B-READY) framework.
+
+27. The **Global Competitiveness Report (GCR)** is published annually by the **World Economic Forum (WEF)**, evaluating national productivity and competitiveness across institutions, infrastructure, and human capital.
+
+28. The **Global Innovation Index (GII)** is published by the **World Intellectual Property Organization (WIPO)** in partnership with Cornell University and INSEAD.
+
+29. **NITI Aayog** serves as the **nodal institutional body** responsible for coordinating, overseeing, and monitoring the localization of the Sustainable Development Goals (SDGs) across Indian States and Union Territories.
+
+30. The **SDG India Index**, developed by NITI Aayog, tracks progress across all States and UTs, classifying entities into four performance categories based on composite scores:
+
+    * **Aspirant:** Score 0–49
+    * **Performer:** Score 50–64
+    * **Front-runner:** Score 65–99
+    * **Achiever:** Score 100
+
+31. India's national composite SDG score has exhibited sustained progress: **57 in 2018 → 60 in 2019–20 → 66 in 2020–21 → 71 in 2023–24**.
+
+32. In the **SDG India Index 2023–24** (4th edition), **Kerala and Uttarakhand emerged as joint top-performing States** with a composite score of **79**, followed by Tamil Nadu (78); **Bihar** recorded the lowest composite score (57).
+
+33. **Uttar Pradesh** progressed from the **Performer** category (score 55 in 2019–20 and 60 in 2020–21) to the **Front-runner** category with a score of **67 in 2023–24**.
+
+34. In the global **Sustainable Development Report (SDSN)**, India's international ranking evolved over time: **110th in 2016, 116th in 2017, 112th in 2023, 109th in 2024, and 99th in 2025** (entering the top 100 for the first time).
+
+35. Mapping of high-yield Sustainable Development Goals:
+
+    * **SDG 1:** No Poverty
+    * **SDG 2:** Zero Hunger
+    * **SDG 3:** Good Health and Well-being
+    * **SDG 4:** Quality Education
+    * **SDG 6:** Clean Water and Sanitation
+    * **SDG 7:** Affordable and Clean Energy
+    * **SDG 13:** Climate Action
+    * **SDG 14:** Life Below Water
+    * **SDG 15:** Life on Land
+
+36. In the **SDG Urban Index 2021–22** released by NITI Aayog, the top three ranked urban areas were **Shimla (1st)**, **Coimbatore (2nd)**, and **Chandigarh (3rd)**.
+
+37. Because India accounts for approximately **one-sixth of the global population**, achieving the 2030 Agenda for Sustainable Development globally is structurally contingent upon India's domestic development outcomes.
+
+38. The UN Secretary-General submits an **Annual SDG Progress Report**, while the comprehensive **Global Sustainable Development Report (GSDR)** is produced by an independent panel of scientists **once every four years (quadrennial)**.
+
+39. Scottish philosopher **Adam Smith** is celebrated as the **"Father of Modern Economics"** for his foundational work *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776).
+
+40. British economist **John Maynard Keynes** pioneered modern **macroeconomics** through his seminal treatise *The General Theory of Employment, Interest and Money* (1936), advocating government intervention during demand crises.
+
+41. **Frederick Winslow Taylor** is recognized as the "Father of Scientific Management" for introducing time-and-motion studies and standardized industrial labor processes.
+
+42. Nobel laureate **Amartya Sen** coined the demographic concept of **"missing women"** (1990) to quantify the millions of females missing from the population in South and East Asia due to sex-selective abortion, female infanticide, and unequal healthcare access.
+
+43. Sociologist **Robert E. Park** introduced the concept of the **"Marginal Man"** (1928), analyzing individuals living on the cultural boundaries of two distinct social groups.
+
+44. Canadian media theorist **Marshall McLuhan** coined the term **"Global Village"**, conceptualizing how electronic telecommunications contract the globe into a single interconnected community.
+
+45. Key economic treatises and their authors:
+
+    * *Wealth of Nations* (1776) → **Adam Smith**
+    * *Principles of Political Economy and Taxation* (1817) → **David Ricardo**
+    * *Das Kapital* (1867) → **Karl Marx**
+    * *Poverty and Un-British Rule in India* (1901) → **Dadabhai Naoroji**
+    * *The General Theory* (1936) → **John Maynard Keynes**
+    * *Asian Drama: An Inquiry into the Poverty of Nations* (1968) → **Gunnar Myrdal**
+
+46. The **Perform, Achieve and Trade (PAT)** scheme, operationalized in **2012** under the National Mission for Enhanced Energy Efficiency (NMEEE) by the Bureau of Energy Efficiency (BEE), is a market-based mechanism to reduce specific energy consumption in energy-intensive designated industrial consumers.
+
+47. The **MISHTI (Mangrove Initiative for Shoreline Habitats & Tangible Incomes)** scheme was announced in the Union Budget 2023–24 and launched on World Environment Day (5 June 2023) to facilitate mangrove afforestation along India's coastline and salt-pan lands.
+
+48. **Mission LiFE (Lifestyle for Environment)** was unveiled by Prime Minister Narendra Modi at the **COP26 World Leaders' Summit in Glasgow (November 2021)** as an international mass movement promoting mindful and deliberate resource utilization.
+
+49. The **National Clean Air Programme (NCAP)** was launched by the Ministry of Environment, Forest and Climate Change in **January 2019** as a targeted national framework to reduce particulate matter (PM2.5 and PM10) concentrations by 20–30% across designated non-attainment cities.
+
+50. The **National Education Policy (NEP) 2020**, approved by the Union Cabinet on **29 July 2020**, was drafted by a committee chaired by former ISRO chief **Dr. K. Kasturirangan**, replacing the previous National Policy on Education of **1986** (after an interval of 34 years) and introducing a USD 5+3+3+4USD pedagogical structure with vocational education starting from **Grade 6**.
+
+## ⏱️ Timeline / Chronology
+
+```text
+1969: Monopolies and Restrictive Trade Practices (MRTP) Act enacted
+  │
+1999: Foreign Exchange Management Act (FEMA) replaces FERA
+  │
+2002: Prevention of Money Laundering Act (PMLA) & Competition Act enacted
+  │
+2003: Fiscal Responsibility and Budget Management (FRBM) Act passed
+  │
+2005: Right to Information (RTI) Act & Mahatma Gandhi NREGA enacted
+  │
+2013: Companies Act 2013 enacted (mandating 2% Corporate Social Responsibility under Section 135)
+  │
+2016: Insolvency and Bankruptcy Code (IBC) & Benami Transactions (Prohibition) Amendment Act
+  │
+2017: Real Estate (Regulation and Development) Act (RERA) fully operational & GST launched (1 July)
+  │
+2019: Consumer Protection Act 2019 replaces 1986 Act (establishes Central Consumer Protection Authority - CCPA)
+  │
+2020: Parliament passes Four Labour Codes (Wages, Industrial Relations, Social Security, Occupational Safety)
+  │
+2021: Production Linked Incentive (PLI) schemes rolled out across 14 manufacturing sectors
+```
+
+## 📊 Quick Reference Grid
+
+| Statute / Global Index / Policy Mission | Key Enactment Year & Core Statutory Domain |
+|---|---|
+| **Insolvency and Bankruptcy Code (IBC)** | Enacted in **2016**; administered by IBBI; corporate insolvency resolution. |
+| **Real Estate Regulation Act (RERA)** | Enacted in **2016**; regulates promoters, projects, and protects homebuyers. |
+| **Prevention of Money Laundering Act (PMLA)** | Enacted in **2002**; enforced by ED; Director is authorized to inspect financial records. |
+| **Code on Wages** | Enacted in **2019**; consolidates 4 historical wages, bonus, and remuneration statutes. |
+| **Economic Survey 2022–23 Policy Measure** | Implemented **duty cuts on fuel and selected imported inputs** to ease supply shocks. |
+| **E-Commerce Market Timeline (Survey 2023)** | Fashion and grocery projected to reach two-thirds of e-commerce by **~2027 (not 2030)**. |
+| **PQLI Formulator** | Developed by **Morris D. Morris** (1979); composite of literacy, IMR, and life expectancy. |
+| **Global Hunger Index (2017 Rank)** | India ranked **100th** among 119 nations (Concern Worldwide & Welthungerhilfe). |
+| **World Happiness Report (2022 Rank)** | India ranked **136th** globally (SDSN / Gallup World Poll). |
+| **Global Peace Index (2018 Rank)** | India ranked **136th** worldwide (Institute for Economics and Peace). |
+| **Ease of Doing Business Trajectory** | India ranked **77th (2019)** and **63rd (2020)**; subsequently discontinued by World Bank. |
+| **Human Development Report (2021–22 Rank)** | India **slipped to 132nd** among 191 nations (HDI value 0.633). |
+| **Gender Inequality Index (GII) Inception** | Formally incorporated in **Human Development Report 2010**. |
+| **SDG India Index Nodal Agency** | **NITI Aayog**; institutional coordinator for national SDG monitoring. |
+| **SDG India Index (2023–24 Top States)** | **Kerala and Uttarakhand** tied at **1st position (score 79)**; Bihar lowest (57). |
+| **SDG Performance Categories** | Aspirant (0–49), Performer (50–64), Front-runner (65–99), Achiever (100). |
+| **UN SDSN Global SDG Ranking** | India achieved **99th position** in 2025 (entering the top 100 for the first time). |
+| **Key Sustainable Development Goals** | SDG 1: No Poverty; SDG 2: Zero Hunger; SDG 6: Clean Water; SDG 15: Life on Land. |
+| **National Education Policy 2020 Chair** | Drafted under **Dr. K. Kasturirangan**; replaced the 1986 policy after 34 years. |
+| **Father of Modern Economics** | **Adam Smith** (*The Wealth of Nations*, 1776). |
+| **Founder of Modern Macroeconomics** | **John Maynard Keynes** (*The General Theory*, 1936). |
+| **Concept of "Missing Women"** | Coined by **Amartya Sen** in 1990. |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
-| **2024** | Economic Survey 2022–23: response to supply shocks included **reducing taxes on fuel and certain imports** — not cutting food/fertiliser subsidies or raising fuel taxes. | Only statement 3. |
-| **2023** | Survey services “NOT correct”: e-commerce fashion/grocery share “by **2030**” — Survey said ~next four years (**~2027**). | Year trap. |
-| **2023** | HDR 2021–22: India’s HDI rank **slipped** to **132** (from prior ~130/131 band) — “upgrade” wording fails. | Direction trap. |
-| **2022** | World Happiness Report **2022**: India **136th**. | Year-bound rank. |
-| **2020** | Doing Business: India **77** (DB 2019) and **63** (DB 2020); report later **discontinued**. | Learn both ranks. |
-| **2019** | **PQLI** by **Morris D. Morris** — not UNDP / Haq. | Author trap. |
-| **2019** | GHI **2017**: India **100th**. | Edition-bound. |
-| **2018** | Global Peace Index **2018**: India **136th** (IEP). | Edition-bound. |
+| Concept A | Concept B | Core Conceptual Distinction |
+|---|---|---|
+| **Economic Survey** | **Union Budget** | The Economic Survey is an analytical retrospective review of the past financial year; the Union Budget is a prospective statement of estimated receipts and expenditures for the upcoming year. |
+| **Numerical Rank Increase** | **Performance Direction** | In international indices, an increase in the numerical rank (e.g., from 130 to 132) signifies a relative deterioration ("slipped"), not an improvement ("upgraded"). |
+| **Physical Quality of Life Index (PQLI)** | **Human Development Index (HDI)** | PQLI (Morris, 1970s) is an unweighted average of literacy, IMR, and life expectancy at age 1 (non-monetary); HDI (UNDP, 1990) incorporates Gross National Income alongside schooling and longevity. |
+| **Global Hunger Index (GHI)** | **World Happiness Report** | GHI measures physical nutritional deprivations and child mortality; World Happiness ranks subjective well-being based on Gallup survey life evaluations. |
+| **Doing Business 2019 Rank (77)** | **Doing Business 2020 Rank (63)** | India ranked 77th in the 2019 report and improved to 63rd in the 2020 report; the publication was permanently discontinued by the World Bank in 2021. |
+| **Global Peace Index (IEP)** | **World Happiness Report (SDSN)** | GPI evaluates domestic/international peace, militarization, and conflict; World Happiness evaluates subjective life satisfaction and social freedom. |
+| **Insolvency & Bankruptcy Code (IBC, 2016)** | **Real Estate Regulation Act (RERA, 2016)** | IBC establishes time-bound debt resolution for corporate entities; RERA regulates real estate developers, protects homebuyer deposits, and ensures timely project completion. |
+| **PMLA (2002)** | **FEMA (1999)** | PMLA is a criminal-penal statute penalizing the laundering of proceeds of crime; FEMA is a civil regulatory statute governing orderly foreign exchange transactions. |
+| **NITI Aayog SDG India Index** | **UN SDSN Global SDG Index** | The SDG India Index evaluates and ranks Indian States and Union Territories; the SDSN Sustainable Development Report ranks sovereign member countries globally. |
+| **Gender Inequality Index (GII, 2010)** | **Human Development Index (HDI, 1990)** | GII was introduced in the 2010 Human Development Report; the foundational HDI was inaugurated in the 1990 report. |
+| **Adam Smith** | **John Maynard Keynes** | Adam Smith founded modern economics through classical free-market and division of labor analysis; J.M. Keynes founded modern macroeconomics focusing on aggregate demand management. |
+| **SDG 6 (Clean Water & Sanitation)** | **SDG 7 (Affordable & Clean Energy)** | SDG 6 guarantees sustainable water management and sanitation; SDG 7 ensures access to affordable, reliable, and modern clean energy. |
+| **PAT Scheme (Ministry of Power / BEE)** | **NCAP (MoEFCC, 2019)** | PAT trades energy saving certificates to improve industrial energy efficiency; NCAP is a municipal-level framework targeting urban air particulate matter reduction. |
+| **National Education Policy 2020** | **National Policy on Education 1986** | NEP 2020 was formulated by the Kasturirangan Committee, superseding the 1986 policy after an interval of 34 years (not 38 years). |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+### Key Mnemonics & Cognitive Hooks
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+- **Mandatory CSR Section 135 Thresholds (Companies Act 2013):**
+  - Applies to companies with:
+    - **Net Worth $\ge$ ₹500 Crore** OR
+    - **Turnover $\ge$ ₹1,000 Crore** OR
+    - **Net Profit $\ge$ ₹5 Crore** in any financial year.
+  - **Mandate:** Must spend at least **2%** of average net profits of preceding **3 financial years** on Schedule VII CSR activities.
+- **Centrally Sponsored vs Central Sector Funding Hook:**
+  - **Central Sector Schemes:** **100% funded** by the Union Government (e.g., PM-KISAN, PLI, PM-SVANidhi).
+  - **Centrally Sponsored Schemes:** Cost shared between Centre and States:
+    - General States: **60 : 40** (Centre : State).
+    - North-Eastern & Himalayan States: **90 : 10**.
+    - UTs without Legislature: **100% Centre**.
+- **Key Global Reports and Publishers:**
+  - **World Economic Outlook (WEO):** International Monetary Fund (IMF).
+  - **Global Economic Prospects (GEP):** World Bank.
+  - **World Investment Report (WIR):** UNCTAD.
+  - **Global Financial Stability Report (GFSR):** IMF.
+  - **Global Gender Gap Report & Global Competitiveness Report:** World Economic Forum (WEF).
+
+## 🎯 High-Yield PYQ Drill (Mastery Drill)
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

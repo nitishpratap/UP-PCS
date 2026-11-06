@@ -7,9 +7,15 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 25 — Census and Demographics (UPPCS & UKPCS Ratta)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **Census 2011 Status** | **Official National Baseline**: Until the decennial Census 2027/postponed Census is officially notified, **Census 2011 data remains completely frozen** and tested verbatim in all UPPSC / UKPSC exams | Absolute legal & examination fact-lock |
+| **2023–2025** | **UN World Population Prospects**: India estimated at **>1.43 billion**, surpassing China; does not alter Census 2011 examination figures | Contemporary demographic context vs exam test data |
+| **NFHS-5 (2019–2021)** | **National TFR Reaches 2.0**: Total Fertility Rate dropped below replacement (2.1); UP TFR at 2.4; Bihar at 3.0 | Modern survey fertility vs static census stock |
+| **Administrative Fact** | Census 2011 was the **15th National Census of India** and the **7th Census after Independence**; motto was *"Our Census, Our Future"* (*हमारी जनगणना, हमारा भविष्य*) | Census history, ordinal numbers & motto |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -61,46 +67,119 @@ hide:
 
 
 ---
+46. **Uttarakhand Population Density & Sex Ratio 2011**: Uttarakhand recorded a population density of **189 persons/km²** (Haridwar highest at 801; Uttarkashi lowest at 41); overall sex ratio was **963** (higher than national average 943; Almora highest at 1,139; Haridwar lowest at 880).
+47. **Uttarakhand Literacy 2011**: Overall literacy in Uttarakhand stood at **78.82%** (Male 87.40%, Female 70.01%); **Dehradun** recorded the highest literacy (84.25%); **Udham Singh Nagar** recorded the lowest (73.10%).
+48. **Uttar Pradesh Scheduled Caste Count**: Scheduled Castes constitute **20.70% (41,357,608)** of Uttar Pradesh's total population; UP holds the largest absolute SC population in India (~20.5% of all Indian SCs); **Sitapur** has the highest SC population; **Kaushambi** has the highest SC percentage (34.7%); **Baghpat** has the lowest SC population and percentage (11.4%).
+49. **Uttar Pradesh Scheduled Tribe Count**: Scheduled Tribes constitute only **0.57% (1,134,273)** of Uttar Pradesh's population; **Sonbhadra** has both the highest ST population (385,013) and highest percentage (20.67%); **Baghpat and Kannauj** have the lowest ST numbers in UP.
+50. **Zero Scheduled Castes / Tribes States**: There are **NO Scheduled Castes** in Nagaland, Mizoram, Lakshadweep, and Andaman & Nicobar; there are **NO Scheduled Tribes** in Punjab, Haryana, Delhi, Chandigarh, and Puducherry.
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               CHRONOLOGY OF CENSUS OPERATIONS IN INDIA (1872 - PRESENT)
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1872] ───> FIRST MODERN POPULATION CENSUS:
+  │           Conducted non-synchronously in different provinces of British India under Viceroy Lord Mayo.
+  │
+  ▼
+  [1881] ───> FIRST COMPLETE SYNCHRONOUS CENSUS:
+  │           Conducted simultaneously across the entire Indian subcontinent under Lord Ripon (W. C. Plowden).
+  │
+  ▼
+  [1921] ───> "YEAR OF THE GREAT DIVIDE" (महाविभाजक वर्ष):
+  │           Only census in Indian history showing negative decadal growth (-0.31%);
+  │           massive mortality from 1918 influenza pandemic and widespread famine.
+  │
+  ▼
+  [1931] ───> LAST CASTE CENSUS OF BRITISH INDIA:
+  │           Last census enumerating all castes; later used by the Mandal Commission (1980).
+  │
+  ▼
+  [1948] ───> CENSUS ACT, 1948 ENACTED:
+  │           Permanent statutory framework; Office of Registrar General & Census Commissioner of India (MHA).
+  │
+  ▼
+  [1951] ───> FIRST CENSUS OF INDEPENDENT INDIA (8th National Census):
+  │           Conducted under R. A. Gopalaswami; population recorded at 36.1 crore.
+  │
+  ▼
+  [2011] ───> 15TH NATIONAL CENSUS (7th post-independence):
+  │           Dr. C. Chandramouli, Census Commissioner; motto: "Our Census, Our Future"; 121.08 crore.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Comparative Demographics: India vs Uttar Pradesh vs Uttarakhand (2011)
+
+| Demographic Parameter | All-India Average | Uttar Pradesh (Rank / Figure) | Uttarakhand (Figure) |
+|---|---|---|---|
+| **Total Population** | 1,210,854,977 (121.08 Cr) | **199,812,341 (19.98 Cr — #1, 16.51%)** | 10,086,292 (1.01 Cr — 0.83%) |
+| **Decadal Growth (2001–11)** | 17.70% (Rural 12.3%, Urban 31.8%) | **20.23% (#14)** (GB Nagar 49.1% max; Kanpur 9.9% min) | 18.81% (US Nagar 33.5% max; Pauri -1.4% min) |
+| **Population Density** | 382 persons / km² | **829 persons / km² (#4)** (Ghaziabad 3,971 max; Lalitpur 242 min) | 189 persons / km² (Haridwar 801 max; Uttarkashi 41 min) |
+| **Overall Sex Ratio** | 943 females / 1,000 males | **912 (#26)** (Jaunpur 1,024 max; GB Nagar 851 min) | **963** (Almora 1,139 max; Haridwar 880 min) |
+| **Child Sex Ratio (0–6 yrs)** | 919 girls / 1,000 boys | **902 (#26)** (Balrampur 950 max; Baghpat 841 min) | 890 (Almora 922 max; Pithoragarh 816 min) |
+| **Total Literacy Rate** | 73.0% (Male 80.9%, Female 64.6%) | **67.7% (#29)** (Auraiya 78.9% max; Shravasti 46.7% min) | **78.82% (#17)** (Dehradun 84.25% max; US Nagar 73.10% min) |
+| **Male Literacy Rate** | 80.9% | **77.3%** (GB Nagar 88.1% max; Shravasti 57.2% min) | 87.40% (Rudraprayag 93.9% max; Haridwar 81.0% min) |
+| **Female Literacy Rate** | 64.6% | **57.2%** (Kanpur Nagar 75.1% max; Shravasti 34.8% min) | 70.01% (Dehradun 78.5% max; Uttarkashi 59.8% min) |
+| **Urban Population %** | 31.16% (37.71 Crore) | **22.28%** (Ghaziabad 67.6% max; Shravasti 3.5% min) | 30.23% (Dehradun 55.5% max; Bageshwar 3.5% min) |
+| **Scheduled Caste (SC) %** | 16.63% (20.14 Crore) | **20.70%** (Sitapur max pop; Kaushambi 34.7% max %) | 18.76% (Haridwar max pop; Bageshwar 27.7% max %) |
+| **Scheduled Tribe (ST) %** | 8.61% (10.43 Crore) | **0.57%** (Sonbhadra 20.67% max; Baghpat lowest) | 2.89% (US Nagar max pop & %; Rudraprayag lowest) |
+
+### 2. Uttar Pradesh Census 2011 District Extremes Master Table
+
+| Indicator | Highest / Maximum District in UP | Lowest / Minimum District in UP |
+|---|---|---|
+| **Population** | **Prayagraj (59.54 Lakh)** > Moradabad > Ghaziabad | **Mahoba (8.75 Lakh)** < Chitrakoot < Hamirpur |
+| **Decadal Growth Rate** | **Gautam Buddha Nagar (49.1%)** > Ghaziabad (42.2%) | **Kanpur Nagar (9.9%)** < Hamirpur (11.1%) |
+| **Population Density** | **Ghaziabad (3,971/km²)** > Varanasi (2,395) > Lucknow | **Lalitpur (242/km²)** < Sonbhadra (270) < Hamirpur (275) |
+| **Sex Ratio** | **Jaunpur (1,024)** > Azamgarh (1,019) > Deoria (1,017) | **Gautam Buddha Nagar (851)** < Hamirpur & Hardoi (861) |
+| **Child Sex Ratio (0–6)** | **Balrampur (950)** > Sant Kabir Nagar (942) | **Baghpat (841)** < Gautam Buddha Nagar (843) |
+| **Total Literacy** | **Auraiya (78.9%)** > Kanpur Nagar (79.7% / 78.8%) > Etawah | **Shravasti (46.7%)** < Bahraich (49.4%) < Balrampur (49.5%) |
+| **Male Literacy** | **Gautam Buddha Nagar (88.1%)** > Auraiya > Etawah | **Shravasti (57.2%)** < Bahraich (58.3%) < Balrampur (59.7%) |
+| **Female Literacy** | **Kanpur Nagar (75.1%)** > Lucknow (71.5%) > Auraiya | **Shravasti (34.8%)** < Balrampur (37.6%) < Bahraich (39.2%) |
+| **Urban Population %** | **Ghaziabad (67.6%)** > Lucknow (66.2%) > Kanpur Nagar | **Shravasti (3.5%)** < Kushinagar (4.7%) < Maharajganj (5.0%) |
+| **Scheduled Caste Population** | **Sitapur (14.5 Lakh)** > Prayagraj > Hardoi | **Baghpat (1.49 Lakh)** < Shravasti < Gautam Buddha Nagar |
+| **Scheduled Caste %** | **Kaushambi (34.7%)** > Machhlishahr / Sitapur (32.3%) | **Baghpat (11.4%)** < Bareilly (12.5%) < Balrampur |
+| **Scheduled Tribe Population & %** | **Sonbhadra (3.85 Lakh / 20.7%)** > Ballia > Deoria | **Baghpat & Kannauj (Near zero)** < Badaun |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **UP Sex Ratio** | **India Sex Ratio** | **912 females / 1,000 males** in Uttar Pradesh vs **943 females / 1,000 males** All-India average | उप्र लिंगानुपात (912) / भारत (943) |
+| **UP Child Sex Ratio** | **India Child Sex Ratio** | **902 girls / 1,000 boys** in Uttar Pradesh vs **919 girls / 1,000 boys** All-India average | उप्र बाल लिंगानुपात (902) / भारत (919) |
+| **UP Population Density** | **India Population Density** | **829 persons / km²** in Uttar Pradesh (Rank 4 among states) vs **382 persons / km²** All-India average | उप्र जनघनत्व (829) / भारत (382) |
+| **Highest UP Sex Ratio** | **Lowest UP Sex Ratio** | **Jaunpur (1,024)**, Azamgarh (1,019), Deoria (1,017) vs **Gautam Buddha Nagar (851)** (Noida/industrial trap) | सर्वाधिक लिंगानुपात (जौनपुर) / न्यूनतम (गौतमबुद्ध नगर) |
+| **Highest UP Literacy** | **Lowest UP Literacy** | **Auraiya (78.9%)** / Kanpur Nagar (78.8%) vs **Shravasti (46.7%)** (lowest in total, male, and female!) | सर्वाधिक साक्षरता (औरैया) / न्यूनतम (श्रावस्ती) |
+| **Highest UP Density** | **Lowest UP Density** | **Ghaziabad (3,971/km²)** vs **Lalitpur (242/km²)** (Bundelkhand rock relief) | सर्वाधिक घनत्व (गाजियाबाद) / न्यूनतम (ललितपुर) |
+| **Highest SC Count (UP)** | **Highest SC Percentage (UP)** | **Sitapur (14.5 Lakh)** has highest absolute SC population vs **Kaushambi (34.7%)** has highest SC proportion | उप्र अनु. जाति संख्या (सीतापुर) / प्रतिशत (कौशाम्बी) |
+| **Highest ST Count (UP)** | **Lowest ST Count (UP)** | **Sonbhadra (3.85 Lakh / 20.7%)** leads both absolute and percentage vs **Baghpat and Kannauj** have lowest ST count | उप्र अनु. जनजाति (सोनभद्र) / न्यूनतम (बागपत) |
 
-| Year | Fact | Why it matters | Source |
-|------|------|----------------|--------|
-| **Census 2011** | Official number set until **Census 2027** | Density / SR / literacy stems | ORGI |
-| **~2023** | UN estimate: India most populous | CA only — does not rewrite 2011 tables | UN / UNFPA |
-| **NFHS-5** | National TFR ~**2.0** | Survey fertility vs Census stock | MoHFW |
-| Static | 15th Census / 7th after Independence; motto *Our Census, Our Future* | Chronology + branding | ORGI |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. UP Top 3 Sex Ratio Districts: **J-A-D**
+- **J**aunpur (1,024 — highest)
+- **A**zamgarh (1,019 — second)
+- **D**eoria (1,017 — third)
+- *(Mnemonic: **JAD**oo — Magically above 1,000!)*
 
-### Confused pairs
+### 2. UP Lowest Sex Ratio: **GB Nagar**
+- **Gautam Buddha Nagar (851)** = Lowest sex ratio in UP! (Examiner trap: High literacy & wealth, yet lowest sex ratio).
 
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Highest SC Count** | **Highest SC Percentage** | **Uttar Pradesh** (4.13 Cr absolute) vs **Punjab** (31.9% proportion) | सर्वाधिक अ.जा. संख्या (यूपी) / सर्वाधिक अ.जा. प्रतिशत (पंजाब) |
-| **Highest ST Count** | **Highest ST Percentage** | **Madhya Pradesh** (1.53 Cr absolute) vs **Lakshadweep / Mizoram** (94.8% / 94.4%) | सर्वाधिक अ.ज.जा. संख्या (म.प्र.) / सर्वाधिक अ.ज.जा. प्रतिशत (लक्षद्वीप/मिजोरम) |
-| **Highest Population State** | **Highest Density State** | **Uttar Pradesh** (19.98 Cr population) vs **Bihar** (1,106 persons/km²) | सर्वाधिक जनसंख्या (यूपी) / सर्वाधिक घनत्व (बिहार) |
-| **Lowest Density State** | **Lowest Population State** | **Arunachal Pradesh** (17 persons/km²) vs **Sikkim** (6.10 Lakh population) | न्यूनतम जनघनत्व (अरुणाचल) / न्यूनतम जनसंख्या (सिक्किम) |
-| **Overall Sex Ratio (2011)** | **Child Sex Ratio (0–6 yrs)** | **943** (improved from 933 in 2001) vs **919** (worsened from 927 in 2001) | कुल लिंगानुपात (943) / शिशु लिंगानुपात (919) |
-| **Highest Sex Ratio State** | **Highest Sex Ratio UT** | **Kerala (1,084)** vs **Puducherry (1,037)** | सर्वाधिक लिंगानुपात राज्य (केरल) / केंद्रशासित (पुदुचेरी) |
-| **Lowest Sex Ratio State** | **Lowest Sex Ratio UT** | **Haryana (879)** vs **Daman & Diu (618)** | न्यूनतम लिंगानुपात राज्य (हरियाणा) / केंद्रशासित (दमन एवं दीव) |
-| **Negative Decadal Growth (India)** | **Negative Growth (Uttarakhand)** | **Nagaland (-0.6%)** at State level vs **Pauri Garhwal (-1.41%) & Almora (-1.28%)** | ऋणात्मक वृद्धि राज्य (नागालैंड) / उत्तराखंड जिले (पौड़ी व अल्मोड़ा) |
-| **Highest Literacy State** | **Highest Female Literacy State** | **Kerala (94.0%)** vs **Kerala (92.1%)** (Lowest female literacy: **Rajasthan 52.1%**) | सर्वाधिक साक्षरता (केरल) / न्यूनतम महिला साक्षरता (राजस्थान) |
-| **UP Highest Density** | **UP Highest Population** | **Ghaziabad (3,971)** vs **Prayagraj (59.54 Lakh)** | यूपी सर्वाधिक घनत्व (गाजियाबाद) / सर्वाधिक जनसंख्या (प्रयागराज) |
-| **UP Highest Sex Ratio** | **UP Highest Child Sex Ratio** | **Jaunpur (1,024)** vs **Balrampur (950)** | यूपी सर्वाधिक लिंगानुपात (जौनपुर) / शिशु लिंगानुपात (बलरामपुर) |
-| **UP Lowest Sex Ratio** | **UP Lowest Child Sex Ratio** | **Gautam Buddha Nagar (851)** vs **Baghpat (841)** | यूपी न्यूनतम लिंगानुपात (गौतम बुद्ध नगर) / शिशु लिंगानुपात (बागपत) |
-| **UP Highest Literacy** | **UP Highest Female Literacy** | **Gautam Buddha Nagar (80.12%)** vs **Kanpur Nagar (75.05%)** | यूपी सर्वाधिक साक्षरता (गौतम बुद्ध नगर) / महिला साक्षरता (कानपुर नगर) |
-| **UP Lowest Literacy (Total/M/F)** | **UP Lowest Density** | **Shrawasti** (lowest in total 46.7%, male 57.2%, female 34.8%) vs **Lalitpur (242)** | यूपी न्यूनतम साक्षरता (श्रावस्ती) / न्यूनतम जनघनत्व (ललितपुर) |
-| **UP Highest Urban %** | **UP Lowest Urban %** | **Ghaziabad (67.6%)** vs **Shrawasti (3.5%)** | यूपी सर्वाधिक नगरीकरण % (गाजियाबाद) / न्यूनतम (श्रावस्ती) |
-| **Census 1872** | **Census 1881** | **Lord Mayo** (first, incomplete) vs **Lord Ripon** (first synchronous decennial) | प्रथम जनगणना (मेयो 1872) / प्रथम समकालिक नियमित (रिपन 1881) |
-| **Year of Great Divide (1921)** | **Year of Population Explosion (1951–81)** | **1921** (negative growth -0.31%) vs **1961–1971** (highest growth 24.80%) | महान विभाजक वर्ष (1921) / जनसंख्या विस्फोट काल |
+### 3. UP Bottom Literacy Trinity: **S-B-B**
+- **S**hravasti (46.7% — lowest in total, male & female!)
+- **B**ahraich (49.4%)
+- **B**alrampur (49.5%)
+- *(All three in the northeastern Tarai border!)*
 
+### 4. UP Density Extremes:
+- **Max Density**: **Ghaziabad** (3,971/km²)
+- **Min Density**: **Lalitpur** (242/km²)
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -469,4 +548,3 @@ D. Sikkim — lowest State density
 **Logic:** Population vs density crowns differ.
 
 </details>
-

@@ -7,9 +7,17 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 7 — Natural Vegetation & Biodiversity Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **ISFR 2021 / 2023** | **India State of Forest Report (FSI Dehradun)**: Total forest & tree cover is **24.62%** of geographical area (Forest Cover: **21.71%**, Tree Cover: **2.91%**); National Forest Policy 1988 target is **33%** | Forest cover percentages & national target thresholds |
+| **ISFR Data** | **Top States by Forest Area**: **Madhya Pradesh (#1, 77,493 km²)** > Arunachal Pradesh > Chhattisgarh > Odisha > Maharashtra | State rankings by absolute forest area |
+| **ISFR Data** | **Top States by Forest Percentage**: **Mizoram (#1, 84.53%)** > Arunachal Pradesh (79.33%) > Meghalaya (76.00%) > Manipur > Nagaland | State rankings by percentage forest cover |
+| **2023–2025** | **MISHTI Scheme** (*Mangrove Initiative for Shoreline Habitats & Tangible Incomes*): Co-funding mangrove restoration along coastal states & UTs through CAMPA and MGNREGS | Mangrove ecology, blue carbon & coastal protection schemes |
+| **ISFR UP Focus** | **Uttar Pradesh Forest Cover**: Total forest cover is **6.15%** (14,818 km²); **Sonbhadra** has highest forest area and percentage; **Bhadohi (Sant Ravidas Nagar)** has lowest | UP state specific forestry data fact-locks |
+
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -64,62 +72,129 @@ hide:
 
 
 ---
+49. **Tropical Moist Deciduous Dominance**: Tropical Moist Deciduous forests constitute the **most widespread forest type in India (~37% of forest cover)**, followed by Tropical Dry Deciduous (~28%); their primary commercial timber species are **Teak (*Tectona grandis*)** and **Sal (*Shorea robusta*)**.
+50. **Mangrove Cover Ranking**: **West Bengal (Sundarbans)** holds ~42.3% of India's total mangrove cover, followed by **Gujarat (Gulf of Kutch, ~23.7%)** and the **Andaman & Nicobar Islands (~12.4%)**; *Rhizophora* and *Avicennia* feature specialized aerial breathing roots called **pneumatophores**.
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INDIAN FOREST POLICY & CONSERVATION MILESTONES
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1894] ───> FIRST NATIONAL FOREST POLICY OF BRITISH INDIA:
+  │           Emphasized state control over forests for revenue generation and agricultural clearance.
+  │
+  ▼
+  [1927] ───> INDIAN FOREST ACT, 1927 ENACTED:
+  │           Categorized state forests into Reserved Forests, Protected Forests, and Village Forests.
+  │
+  ▼
+  [1952] ───> POST-INDEPENDENCE NATIONAL FOREST POLICY:
+  │           First recommended maintaining 33% of India's total land area under forest cover (60% in hills).
+  │
+  ▼
+  [1980] ───> FOREST (CONSERVATION) ACT, 1980:
+  │           Prohibited diversion of forest land for non-forest purposes without prior central approval.
+  │
+  ▼
+  [1981] ───> FOREST SURVEY OF INDIA (FSI) ESTABLISHED AT DEHRADUN:
+  │           Entrusted with biennial satellite-based assessment of India's forest cover (ISFR reports).
+  │
+  ▼
+  [1988] ───> NATIONAL FOREST POLICY 1988:
+  │           Pivoted priority from commercial timber exploitation to environmental stability and ecological balance;
+  │           pioneered Joint Forest Management (JFM).
+  │
+  ▼
+  [2006] ───> FOREST RIGHTS ACT (FRA), 2006:
+  │           Recognized customary land and forest rights of Scheduled Tribes and Other Traditional Forest Dwellers.
+  │
+  ▼
+  [2023] ───> FOREST (CONSERVATION) AMENDMENT ACT, 2023:
+  │           Exempted strategic border security projects within 100 km of international borders from FCA clearance.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Major Forest Types of India (Champion & Seth Classification)
+
+| Forest Type | Annual Rainfall | Temperature | Regional Distribution | Dominant Tree Species | Key Prelims Distinctions |
+|---|---|---|---|---|---|
+| **Tropical Wet Evergreen** | **> 250 cm** | 25°C–27°C (warm & humid) | Western Ghats windward slopes, North-East India (Assam, Meghalaya), Andaman & Nicobar | **Rosewood**, **Mahogany**, **Ebony**, **Aini**, Chaplash | Multi-layered canopy; trees do not shed leaves simultaneously; dense jungle impenetrable undergrowth |
+| **Tropical Semi-Evergreen** | 200 – 250 cm | Warm | Less humid parts of Western Ghats, Assam, Odisha, Andaman Islands | **White Cedar**, **Hollock**, **Kail** | Transition between wet evergreen and moist deciduous |
+| **Tropical Moist Deciduous** | **100 – 200 cm** | 24°C–27°C | Foothills of Himalayas (Bhabar/Terai), eastern slopes of Western Ghats, Odisha, MP, UP, Bihar | **Teak (सागौन)**, **Sal (साल)**, **Sandalwood (चंदन)**, **Shisham**, Mahua, Aonla, Semul | **Most widespread forest type in India (~37%)**; shed leaves for 6–8 weeks in dry spring/summer; high commercial timber value |
+| **Tropical Dry Deciduous** | **70 – 100 cm** | High summer temp | Rainfed peninsular plateau, plains of UP, Bihar, eastern Rajasthan | **Tendu (तेंदू)**, **Palas (ढाक/पलाश — "Flame of the Forest")**, Amaltas, Bel, Khair, Axlewood | Second most widespread (~28%); parkland landscape; shed leaves completely in dry season |
+| **Tropical Thorn & Scrub** | **< 50 cm** | High temp, low humidity | Western Rajasthan, SW Punjab, Haryana, Gujarat, rain-shadow of Western Ghats | **Acacia (बबूल)**, **Khejri (*Prosopis cineraria*)**, Ber, Cacti, Khair | Xerophytic adaptations (small leaves, thick waxy cuticles, long deep taproots, thorny bark) |
+| **Montane Subtropical & Temperate** | Varies with altitude (1,000–3,000 m) | Cool temperate | Himalayas (J&K, HP, Uttarakhand, Sikkim), Nilgiri & Anamalai hills (**Shola forests**) | **Oak**, **Chestnut**, **Chir Pine**, **Deodar (देवदार)**, **Rhododendron**, Silver Fir, Spruce | Deodar is durable cedar wood; *Sholas* are stunted montane temperate grasslands/forests of South India |
+| **Mangrove / Tidal Forests (मैंग्रोव)** | Coastal saline tidal inundation | Tropical coastal | Ganga–Brahmaputra Delta (Sundarbans), Mahanadi, Godavari, Krishna deltas, Gujarat coast | **Sundari (*Heritiera fomes*)**, Rhizophora, Avicennia | Halophytic plants; **pneumatophores** (aerial breathing roots); stilt roots; vivipary mode of seed germination |
+
+### 2. Mangrove Cover Ranking in India (ISFR)
+
+| State / UT | Mangrove Area (km²) | National Share (%) | Key Ecological Mangrove Locations |
+|---|---|---|---|
+| **West Bengal** | **2,114 km²** | **~42.3% (#1)** | **Sundarbans** (world's largest contiguous mangrove tract; Royal Bengal Tiger) |
+| **Gujarat** | **1,175 km²** | **~23.7% (#2)** | Gulf of Kutch, Gulf of Khambhat, Marine National Park Jamnagar |
+| **Andaman & Nicobar** | **616 km²** | **~12.4% (#3)** | Pristine island mangrove tidal creeks |
+| **Andhra Pradesh** | 405 km² | ~8.1% | **Coringa Wildlife Sanctuary** (Godavari estuary), Krishna mangrove delta |
+| **Maharashtra** | 324 km² | ~6.5% | Thane Creek, Mumbai coastal wetlands, Raigad, Ratnagiri |
+| **Odisha** | 259 km² | ~5.2% | **Bhitarkanika National Park** (Brahmani–Baitarani estuary; saltwater crocodiles) |
+
+### 3. Tree Species & Industrial Associations
+
+| Tree Species | Botanical / Hindi Name | Native Forest Type | Primary Commercial / Cultural Use |
+|---|---|---|---|
+| **Teak** | *Tectona grandis* (सागौन) | Tropical Moist & Dry Deciduous | Ship-building, luxury furniture, railway sleepers; termit-resistant wood; MP leads |
+| **Sal** | *Shorea robusta* (साल) | Tropical Moist Deciduous (Terai & Chotanagpur) | Heavy construction, railway sleepers; seeds yield edible oil; sacred in Buddhism/Jainism |
+| **Sandalwood** | *Santalum album* (चंदन) | Tropical Deciduous (Karnataka, Tamil Nadu) | Sandalwood oil, cosmetics, incense, carving; protected tree; Karnataka is "Gandhada Gudi" |
+| **Tendu** | *Diospyros melanoxylon* (तेंदू) | Tropical Dry Deciduous (MP, CG, Odisha) | Leaves used for rolling **Bidis**; major Non-Timber Forest Produce (NTFP) |
+| **Palas** | *Butea monosperma* (पलाश / ढाक) | Tropical Dry Deciduous | **"Flame of the Forest"**; **State Flower of Uttar Pradesh**; host for lac insects |
+| **Khejri** | *Prosopis cineraria* (खेजड़ी / शमी) | Tropical Thorn Forest (Rajasthan) | Sacred to Bishnoi community (Chipko precursor Amrita Devi, 1730); **State Tree of Rajasthan** |
+| **Chir Pine** | *Pinus roxburghii* (चीड़) | Montane Subtropical (Himalayas) | Yields **Turpentine and Resin (बिरोजा)**; highly inflammable needles cause summer forest fires |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Tropical Moist Deciduous** | **Tropical Dry Deciduous** | Rainfall 100–200 cm; dominated by **Teak and Sal**; most extensive forest in India (~37%) vs Rainfall 70–100 cm; dominated by **Tendu, Palas, and Khair**; open parkland canopy (~28%) | आर्द्र पर्णपाती / शुष्क पर्णपाती वन |
+| **Evergreen Forest** | **Deciduous Forest** | Leaves shed intermittently throughout the year (never look completely bare) vs Leaves shed **synchronously during dry spring/summer** for 6–8 weeks to prevent transpiration loss | सदाबहार / पर्णपाती वन |
+| **Sundari Tree** | **Chir Pine** | Halophytic mangrove species with stilt roots in **Sundarbans (West Bengal)** vs Coniferous gymnosperm tree yielding resin in **Himalayan mountain slopes** | सुंदरी (मैंग्रोव) / चीड़ (पर्वतीय) |
+| **Shola Forests** | **Terai Forests** | Stunted evergreen montane temperate forests found in sheltered valleys of **Nilgiri, Anamalai, and Palani Hills (South India)** vs Dense, marshy, humid tropical deciduous forests along the **foothills of the Himalayas (North India)** | शोला वन (दक्षिण) / तराई वन (उत्तर) |
+| **Forest Cover #1 Area** | **Forest Cover #1 Percentage** | **Madhya Pradesh** has the largest absolute forest area in India (77,493 km²) vs **Mizoram** has the highest forest cover as a percentage of its geographical area (~84.53%) | वन क्षेत्रफल (मप्र) / वन प्रतिशत (मिजोरम) |
+| **Pneumatophores** | **Epiphytes** | Specialized vertical **breathing roots** of mangroves growing upward out of saline mud (e.g. *Rhizophora*) vs Non-parasitic plants growing physically on other trees for support (e.g. Orchids in evergreen forests) | न्यूमेटोफोर (श्वसन मूल) / अधिपादप |
+| **Palas (Flame of the Forest)** | **Khejri** | **State Flower of Uttar Pradesh** (*Butea monosperma*); bright vermilion-red flowers vs **State Tree of Rajasthan** (*Prosopis cineraria*); sacred to Bishnois | पलाश (उप्र राज्य पुष्प) / खेजड़ी (राजस्थान) |
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **5 Jun 2026** | **Surha Tal / JP Narayan BS (Ballia)** = India’s **100th Ramsar**; UP **13th** | Count + latest UP site | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) / PIB |
-| **2025–26** | UP Ramsar adds Patna (पटना) BS, Sheikha Jheel, Surha Tal (full names in N.6) | State list (राज्य सूची) | MoEFCC |
-| **Budget 2023–24** | **MISHTI** mangrove restoration — not a 2019 start | Mangrove scheme year | Budget |
-| Static | Olivia (Coast Guard (तटरक्षक बल), Odisha, Nov–May); coral warming 2024 PYQ | Coastal ops | ICG / PYQ |
-| ISFR | Use the **report year in the question**; 2017 = 21.54% is a frozen PYQ | Figure trap | FSI |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Forest Cover State Rankings Lock:
+- **By Absolute Area**: **MP → AP → CG → OD**
+  - **M**adhya **P**radesh (#1)
+  - **A**runachal **P**radesh (#2)
+  - **C**hhattisgarh (#3)
+  - **O**disha (#4)
+  - *(Mnemonic: **M**ost **A**utumn **C**olors **O**utshine)*
 
-### Confused pairs
+- **By Percentage Cover**: **MIZ → ARU → MEG**
+  - **Miz**oram (~85%)
+  - **Aru**nachal (~79%)
+  - **Meg**halaya (~76%)
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Thornthwaite vs Köppen | Vegetation = climate **index** → Thornthwaite | Köppen | थॉर्नथ्वेट |
-| Evergreen vs moist deciduous | Evergreen **>200**; moist **100–200**, **largest area** | Evergreen = largest | पर्णपाती सबसे बड़ा |
-| Simlipal | **Odisha** | Madhya Pradesh (2018) | सिमलीपाल = ओडिशा |
-| Nokrek | **Meghalaya** | Manipur (2025) | नोकरेक = मेघालय |
-| Nanda Devi | **Uttarakhand** | Uttar Pradesh | नंदा देवी = उत्तराखंड |
-| Botanical garden | **Ex-situ** | In-situ | वनस्पति उद्यान = वाह्य |
-| Dudhwa district | **Lakhimpur Kheri** | Bahraich / Pilibhit | दुधवा = लखीमपुर |
-| NP vs TR in UP | Only NP = Dudhwa; Pilibhit/Amangarh/Ranipur = **TR** | Extra NPs | केवल एक NP |
-| Chandraprabha | **Chandauli** | Sonbhadra (2023) | चंदप्रभा = चंदौली |
-| Hangul | **Dachigam / Kashmir** | Assam rhino belt | हांगुल = कश्मीर |
-| Keibul Lamjao | **Loktak, Manipur** | Wular/Dal | केइबुल = लोकटक |
-| Diversity vs latitude | **Decreases** equator → poles | Increases toward poles | विविधता ध्रुव की ओर घटती |
-| MISHTI year | Budget **2023–24** | 2019 | मिश्टी ≠ 2019 |
-| Olivia season | Nesting **Nov–May** | August | ऑलिविया ≠ अगस्त |
-| Ramsar NOT UP | Rudrasagar Tripura; Sultanpur HR; Surinsar–Mansar J&K | Mark as UP | रुद्रसागर = त्रिपुरा |
-| Ballia | Near-nil **forest**; **Surha Tal** Ramsar | “No wetland” | बलिया = वन नहीं, रामसर हाँ |
-| Forest cover vs RFA | ISFR **cover** ≠ legal recorded forest | Mix the two | आवरण ≠ अधिसूचित |
-| Agasthyamalai | Kerala **and TN** | Only one state as if exclusive | अगस्त्यमलाई = केरल–TN |
-| Nilgiri BR | **First** Indian BR (1986) | Call Nanda Devi first | नीलगिरि पहला |
-| Hotspot count | **Four** Indian hotspots | Mix with 18 BRs | चार हॉटस्पॉट |
-| Hotspot names | Himalaya + WG–Sri Lanka + Indo-Burma + Sundaland (**Nicobar**) | Split Himalaya east/west, or add Andaman as if it were Sundaland | निकोबार = सुंडालैंड |
-| Wet evergreen rain | NCERT **>200 cm**; many notes also use **>250** for wet evergreen | Mix the two numbers in one question | 200 / 250 |
-| Dry evergreen vs wet evergreen | Dry evergreen = **TN coast**, NE monsoon ~100 cm | Call it Western Ghat rain forest | कोरोमंडल शुष्क सदाबहार |
-| Chir vs deodar belt | Chir = **subtropical pine** 1000–2000 m west; deodar = temperate | Swap belts | चीड़ निचला; देवदार ऊँचा |
-| Keystone vs flagship | Keystone = ecosystem collapse if lost; flagship = public mascot | Call panda a keystone fact for India | कीस्टोन ≠ फ्लैगशिप |
-| Flame of the forest | **Butea monosperma** / Palash / Dhak; UP state flower | Bauhinia / Jacaranda / Teak | पलाश = UP फूल |
-| Katha wood | **Khair** | Sal / babool / saaja | कत्था = खैर |
-| Tree-line E vs W | **Lower** in **Western** Himalaya | Higher in west | पश्चिम ट्री-लाइन नीची |
-| Himalaya aspect | **Southern** slopes denser (more rain + sun) | Northern denser | दक्षिणी ढाल सघन |
-| Vembanad mangrove | **Kerala** | Karnataka | वेम्बनाड = केरल |
-| Mahogany belt | Tropical evergreen (not Himalaya) | Call it Himalayan with fir/spruce | महोगनी ≠ हिमालय |
-| Khejri vs Dhak | Khejri = desert social forestry; Dhak/Palash = flame of forest | Swap uses | खेजड़ी ≠ पलाश |
+### 2. Mangrove Cover Leaders: **W-G-A**
+- **W**est Bengal (Sundarbans ~42%)
+- **G**ujarat (Kutch ~24%)
+- **A**ndaman & Nicobar (~12%)
 
+### 3. Uttar Pradesh Forest Fact-Locks:
+- **Total Forest Cover**: **~6.15%**
+- **Highest Forest Area & %**: **Sonbhadra**
+- **Lowest Forest Area & %**: **Bhadohi (Sant Ravidas Nagar)**
+- **State Animal**: Swamp Deer (*Barasingha*)
+- **State Bird**: Sarus Crane
+- **State Tree**: Ashoka
+- **State Flower**: Palas / Brahmakamal
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

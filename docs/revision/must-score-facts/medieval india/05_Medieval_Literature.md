@@ -3,59 +3,186 @@ hide:
   - toc
 ---
 
-# Topic 5 — Medieval Literature — Must-Score Facts
+# Topic 5 — Medieval Literature & Chronicles — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">🏰 Medieval India &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Medieval Literature</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Medieval Literature & Chronicles</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2024** | **National Manuscripts Mission & Rampur Raza Library:** Digitization of illustrated Mughal manuscripts including *Razmnama* and *Padshahnama* | UPPCS tests Persian translation bureau (*Maktab Khana*) under Akbar, Badauni's translations, and Lahori's *Padshahnama* |
+| **2024** | **Amir Khusrau Heritage Memorials:** Cultural restoration at Kasganj (Patiyali, UP - birthplace of Amir Khusrau) | Amir Khusrau was born in **Patiyali (Kasganj, UP)** in 1253 CE; heavily tested in UP-PCS Prelims & UP Special |
+| **2023** | **Al-Biruni International Conference:** Commemorating 1,050th birth anniversary of Abu Raihan al-Biruni (born 973 CE) | Al-Biruni's *Kitab-al-Hind*, mathematical methods, Arabic composition, and travels with Mahmud Ghazni |
+| **2023–2024** | **Awadhi Literary Circuits:** Development of Jaisi Smarak at Amethi / Jais (UP) | Malik Muhammad Jaisi authored ***Padmavat*** in Awadhi in 1540 CE during the reign of **Sher Shah Suri** |
+| **2024** | **Dara Shikoh Academic Chair & Monument Search:** Archaeological and literary symposium on Dara Shikoh's Persian Upanishads (*Sirr-i-Akbar*) | Dara Shikoh translated 52 Upanishads, authored *Majma-ul-Bahrain*, and patronized Qadiri Sufis |
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Tabaqat-i-Nasiri** is by **Minhaj-us-Siraj**; **Tarikh-i-Firoz Shahi** is by **Ziauddin Barani**.
-2. **Tughlaqnama** (तुग़लक़नामा) is by **Amir Khusrau** (अमीर खुसरो) (his last historical masnavi, 1320); **Rihla** (रिहला) is **Ibn Battuta (इब्न बतूता)’s** travelogue.
-3. **Fatawa-i-Jahandari** is Barani’s political theory text, not a narrative history (इतिहास).
-4. **Taj-ul-Maasir** is by Hasan Nizami; **Kitab-ul-Hind** is by **Alberuni**.
-5. **Amir Khusrau** wrote **Khamsa**, **Nuh Sipihr**, **Miftah-ul-Futuh**, **Khazain-ul-Futuh**, and **Ashiqa** (आशिक़ा); **Rag Vibodh** (राग विबोध) was written by **Somnath** (सोमनाथ) (1609).
-6. **Miftah-ul-Futuh** covers Jalaluddin Khalji (खिलजी); **Khazain-ul-Futuh** covers Alauddin — keep the Khalji pair straight.
-7. **Padmavat** (पद्मावत) is **Malik Muhammad Jaisi’s** Awadhi (अवधी) epic — not Damodar Kavi’s Padmavati Katha.
-8. **Baburnama** = Babur (बाबर); **Humayunnama** = Gulbadan Begum; **Tuzuk-i-Jahangiri** (तुजुक-ए-जहाँगीरी) = Jahangir (जहाँगीर)’s own memoir.
-9. **Akbarnama** is Abul Fazl (अबुल फजल)’s narrative history; **Ain-i-Akbari** (आइन-ए-अकबरी) is his admin gazetteer, not a biography.
-10. **Padshahnama** (पादशाहनामा) = Abdul Hamid Lahori (Shah Jahan (शाहजहाँ)); **Muntakhab-ut-Tawarikh** = Badauni, who was critical of Akbar (अकबर).
-11. **Tutinama** is by **Nakhshabi**, not by Amir Khusrau.
-12. **Amir Khusrau** belongs to the Sultanate age; do not place him in the Akbar–Tansen (तानसेन) court.
-13. **Alamgirnama** is by Mirza Muhammad Kazim (Aurangzeb (औरंगजेब)); **Futuh-us-Salatin** is by Abdul Malik Isami.
-14. **Fatwa-i-Firuz Shahi** is Firuz Shah’s own regulations — not Barani’s **Fatawa-i-Jahandari**.
-15. **Tarikh** (तारीख) means continuous annals; **tabaqat** (तबक़ात) means generational “classes” of biographies.
-16. **Hindavi** bridge literature is especially associated with Amir Khusrau.
-17. **Badauni** stands for hostile historiography; **Abul Fazl** (अबुल फजल) stands for official panegyric under Akbar.
-18. **Gulbadan Begum** is a rare female voice in Mughal prose through **Humayunnama**.
-19. **Afif** covers later Firuz; Barani’s Tarikh stops earlier — that period split is the double-title trap.
-20. **Persian** dominated as the court language from **Iltutmish to Aurangzeb**, Arabic served religious texts, and Sanskrit continued in temples.
-21. **Gulbadan Begum** wrote *Humayunnama*, a rare female voice in Mughal prose.
-22. **Minhaj-us-Siraj** wrote **Tabaqat-i-Nasiri**, covering the **Ghaznavids to Nasiruddin Mahmud** (~1260); **tabaqat** means a generational or class format, and the work is named after patron Sultan **Nasiruddin Mahmud**.
-23. **Hasan Nizami** wrote **Taj-ul-Maasir**, covering **Qutb-ud-din Aibak to Iltutmish**, the earliest Delhi conquest narrative.
-24. **Ziauddin Barani** was a privileged Delhi court insider who wrote for **Firuz Shah Tughlaq** and is a primary source on **Alauddin Khalji's** reforms.
-25. **Amir Khusrau** was a poet-musician at the courts of **Balban, Alauddin, and Ghiyasuddin Tughlaq**, a Hindavi pioneer, and a disciple of **Nizamuddin Auliya**.
-26. **Ibn Battuta's Rihla** records his stay at **Muhammad bin Tughlaq (मुहम्मद बिन तुगलक)'s** court (~1334–1341) as an eyewitness travel account; he did **not** write Tughlaqnama.
-27. **Firuz Shah** collected Sanskrit books from **Nagarkot** and encouraged translations, creating a parallel track to Persian chronicles.
-28. **Baburnama** introduced a frank autobiographical style covering gardens, wine, battles, and feelings.
-29. **Ain-i-Akbari** broke new ground as an imperial gazetteer that catalogued the empire as data on revenue, castes, animals, and customs, rather than as narrative history.
-30. **Gulbadan Begum** (Babur's daughter) wrote *Humayunnama*, a voice absent from Sultanate chronicles.
-31. **Badauni** wrote a secret critique of Akbar's liberal policies while serving at court, marking critical historiography.
-32. **Khamsa** is a set of five Persian masnavis modeled on Nizami, including **Matla-ul-Anwar** and **Khusrau-o-Shirin**.
-33. **Nuh Sipihr (Nine Skies)** praises **India's climate, languages, and culture**, showing pride in Hindustan.
-34. **Khaliq-e-Bari** contains early **Hindavi** devotional verses and marks the Hindi-Urdu literary synthesis.
-35. **Ashiqa** (Deval Rani Khizr Khan) is Khusrau’s romantic historical masnavi; **Rag Vibodh** is **Somnath’s** Sanskrit music treatise (1609), not Khusrau’s.
+1. The court language of the Sultanate and Mughal empires was **Persian**; **Baburnama** (बाबरनामा) alone is written in **Chagatai (चगताई) Turki (तुर्की)**.
+2. **Tabaqat-i-Nasiri** is by **Minhaj-us-Siraj**; **Tarikh-i-Firoz Shahi** is by **Ziauddin Barani**.
+3. **Tughlaqnama** (तुग़लक़नामा) is by **Amir Khusrau** (अमीर खुसरो) (his last historical masnavi, 1320); **Rihla** (रिहला) is **Ibn Battuta (इब्न बतूता)’s** travelogue.
+4. **Fatawa-i-Jahandari** is Barani’s political theory text, not a narrative history (इतिहास).
+5. Both **Barani** (बरनी) and **Shams-i-Siraj Afif** wrote works titled **Tarikh-i-Firoz Shahi** for different periods of Firuz’s age.
+6. **Taj-ul-Maasir** is by Hasan Nizami; **Kitab-ul-Hind** is by **Alberuni**.
+7. **Amir Khusrau** wrote **Khamsa**, **Nuh Sipihr**, **Miftah-ul-Futuh**, **Khazain-ul-Futuh**, and **Ashiqa** (आशिक़ा); **Rag Vibodh** (राग विबोध) was written by **Somnath** (सोमनाथ) (1609).
+8. **Miftah-ul-Futuh** covers Jalaluddin Khalji (खिलजी); **Khazain-ul-Futuh** covers Alauddin — keep the Khalji pair straight.
+9. Vernacular & treatise matches: **Mulla Daud–Chandayan**; **Damodar (दामोदर) Kavi–Padmavati Katha (पद्मावती कथा)**; **Amir Khusrau–Ashiqa**; **Somnath–Rag Vibodh**.
+10. **Padmavat** (पद्मावत) is **Malik Muhammad Jaisi’s** Awadhi (अवधी) epic — not Damodar Kavi’s Padmavati Katha.
+11. **Baburnama** = Babur (बाबर); **Humayunnama** = Gulbadan Begum; **Tuzuk-i-Jahangiri** (तुजुक-ए-जहाँगीरी) = Jahangir (जहाँगीर)’s own memoir.
+12. **Akbarnama** is Abul Fazl (अबुल फजल)’s narrative history; **Ain-i-Akbari** (आइन-ए-अकबरी) is his admin gazetteer, not a biography.
+13. **Padshahnama** (पादशाहनामा) = Abdul Hamid Lahori (Shah Jahan (शाहजहाँ)); **Muntakhab-ut-Tawarikh** = Badauni, who was critical of Akbar (अकबर).
+14. Death chronology: **Faizi (फैजी) (1595)** → **Sheikh Mubarak (1597)** → **Abul Fazl murdered (1602)** → **Daniyal (1604)**.
+15. Regional Persian facts: **Mirat-e-Sikandari** = Gujarat; **Burhan-e-Masir** = Ahmadnagar; **Riyaz-us-Salatin** (रियाज़-उस-सलातीन) = Bengal; **Riyaz-ul-Insha** (रियाज़-उल-इंशा) = Gawan’s letters.
+16. **Tutinama** is by **Nakhshabi**, not by Amir Khusrau.
+17. **Amir Khusrau** belongs to the Sultanate age; do not place him in the Akbar–Tansen (तानसेन) court.
+18. **Alamgirnama** is by Mirza Muhammad Kazim (Aurangzeb (औरंगजेब)); **Futuh-us-Salatin** is by Abdul Malik Isami.
+19. **Fatwa-i-Firuz Shahi** is Firuz Shah’s own regulations — not Barani’s **Fatawa-i-Jahandari**.
+20. **Tarikh** (तारीख) means continuous annals; **tabaqat** (तबक़ात) means generational “classes” of biographies.
+21. UP literary facts: **Jaisi–Padmavat** and **Mulla Daud–Chandayan** for Awadhi / Hindavi romance.
+22. **Hindavi** bridge literature is especially associated with Amir Khusrau.
+23. **Badauni** stands for hostile historiography; **Abul Fazl** (अबुल फजल) stands for official panegyric under Akbar.
+24. Akbar’s (अकबर) translation peak rendered the Mahabharata (**Razmnama** (रज्मनामा)), Ramayana (रामायण), and related texts into Persian with Faizi’s circle.
+25. **Gulbadan Begum** is a rare female voice in Mughal prose through **Humayunnama**.
+26. Court Persian ran from **Iltutmish** (इल्तुतमिश) through **Aurangzeb** (औरंगजेब) as the main administrative literary language.
+27. Vernacular Bhakti (भक्ति) poetry of Kabir (कबीर), Tulsidas (तुलसीदास), and Surdas (सूरदास) ran parallel to Persian court literature.
+28. **Afif** covers later Firuz; Barani’s Tarikh stops earlier — that period split is the double-title trap.
+29. **Al-Biruni's *Kitab-al-Hind* (किताब-अल-हिंद):** Composed in **Arabic** by Abu Raihan al-Biruni (who accompanied Mahmud of Ghazni), covering Indian astronomy, mathematics, philosophy, religion, and social customs in **80 systematic chapters**.
+30. **Utbi's *Tarikh-i-Yamini* (तारीख-ए-यामिनी):** Written in ornate **Arabic** by Abu Nasr Utbi, court secretary to Mahmud of Ghazni, chronicling the expeditions of Sabuktigin and Mahmud up to 1020 CE.
+31. **Hasan Nizami's *Taj-ul-Maasir* (ताज-उल-मासिर):** The first official history written in India in mixed Persian prose and verse, detailing the military campaigns of **Qutbuddin Aibak** and **Iltutmish** from 1191 to 1217 CE.
+32. **Minhaj-us-Siraj's *Tabaqat-i-Nasiri* (तबकात-ए-नासिरी):** General history from Adam to 1260 CE written in Persian and dedicated to Delhi Sultan **Nasiruddin Mahmud**, providing the primary eyewitness account of Muhammad Ghori's campaigns and the early Mamluk Sultans.
+33. **Amir Khusrau's *Nuh Sipihr* (नूह सिपिहर):** Meaning 'Nine Skies', composed in 1318 CE during the reign of Mubarak Shah Khalji, passionately praising India's flora, fauna, intellectual prowess (invention of zero, chess), and declaring India superior to all other nations.
+34. **Amir Khusrau's *Ashiqa* (आशिका):** A historical masnavi commissioned by Prince Khizr Khan narrating the tragic love story between Khizr Khan (son of Alauddin Khalji) and Deval Rani (princess of Gujarat).
+35. **Ziauddin Barani's *Fatwa-i-Jahandari* (फतवा-ए-जहाँदारी):** An aristocratic manual of Islamic political theory and statecraft advising Muslim rulers on governance, suppression of rebellion, maintaining royal prestige, and strict caste-based exclusion in civil service.
+36. **Shams-i-Siraj Afif's *Tarikh-i-Firoz Shahi*:** Distinct from Barani's work of the identical title, Afif's chronicle picks up where Barani left off, focusing entirely on the 37-year peaceful and prosperous reign of **Firoz Shah Tughlaq**.
+37. **Isami's *Futuh-us-Salatin* (फुतुह-उस-सलातीन):** An epic versified chronicle in the style of Firdausi's *Shahnama*, written in 1350 CE under the patronage of **Alauddin Hasan Bahman Shah** (founder of the Bahmani Kingdom), criticizing Muhammad bin Tughlaq.
+38. **Yahya bin Ahmad Sirhindi's *Tarikh-i-Mubarak Shahi*:** Dedicated to Sayyid Sultan Mubarak Shah, this chronicle is the **sole surviving contemporary primary source** for the history of the **Sayyid Dynasty (1414–1451 CE)**.
+39. **Babur's *Tuzuk-i-Baburi* (तुजुक-ए-बाबरी):** An unvarnished autobiography written in pure **Chagatai Turkish**, celebrated for its frank botanical observations, geographical descriptions of Hindustan, and vivid character portraits of contemporary kings.
+40. **Persian Translations of *Baburnama*:** Commissioned by Akbar, the definitive Persian translation was rendered by **Abdur Rahim Khan-i-Khanan** in 1589 CE; English translation was completed by Annette Beveridge.
+41. **Gulbadan Begum's *Humayun-nama* (हुमायूँनामा):** Authored by Babur's daughter and Humayun's sister at Akbar's personal request, offering an invaluable domestic and psychological insight into the Mughal royal zenana.
+42. **Abbas Khan Sarwani's *Tarikh-i-Sher Shahi*:** Commissioned by Akbar around 1580 CE to compile an authentic record of **Sher Shah Suri's** administrative innovations, land reforms, and road networks.
+43. **Structure of *Ain-i-Akbari*:** Forms the **third volume** of Abul Fazl's *Akbarnama*, divided into **five daftars (books)**: Manzil-abadi (imperial household), Sipah-abadi (military and civil administration), Mulk-abadi (statistical land revenue tables of all subahs), Hindu philosophy/sciences, and sayings of Akbar.
+44. **Badauni's *Muntakhab-ut-Tawarikh* (मुंतखब-उत-तवारीख):** Written in secret by Abdul Qadir Badauni because of its virulent criticism of Akbar's heterodox religious policies, Abul Fazl's rationalism, and *Din-i-Ilahi*; kept hidden until Jahangir's accession.
+45. ***Razmnama* (रज़्मनामा / Book of War):** The magnificent Persian translation of the Hindu epic **Mahabharata** produced at Akbar's *Maktab Khana* (translation bureau) by Badauni, Naqib Khan, and Faizi, illustrated with 168 master miniatures.
+46. **Abdul Hamid Lahori's *Padshahnama* (पादशाहनामा):** The official chronicle of Emperor **Shah Jahan**, detailing the first twenty regnal years with lavish descriptions of the Peacock Throne, architectural construction, and royal court ceremonies.
+47. **Inayat Khan's *Shah Jahan-nama*:** An abridged and accessible contemporary history of Shah Jahan's complete reign compiled by Inayat Khan.
+48. **Saqi Mustaid Khan's *Maasir-i-Alamgiri* (मआसिर-ए-आलमगीरी):** Written after Aurangzeb's death in 1707 with access to confidential imperial archives; hailed by Sir Jadunath Sarkar as the 'Dictionary of Mughal State Administration'.
+49. **Khafi Khan's *Muntakhab-ul-Lubab* (मुंतखब-उल-लुबाब):** Written in absolute secrecy by Muhammad Hashim (Khafi Khan) because Aurangzeb had formally banned the writing of history in his 21st regnal year; contains the celebrated sobriquet ***Shahe Bekhabar*** for Bahadur Shah I.
+50. **Malik Muhammad Jaisi's *Padmavat* (पद्मावत):** Composed in **Awadhi** around **1540 CE** during the reign of **Sher Shah Suri**; an allegorical Sufi romance revolving around the historic siege of Chittor by Alauddin Khalji and Queen Padmini.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+[c. 1020–1030 CE] Al-Biruni (*Kitab-al-Hind*) & Utbi (*Tarikh-i-Yamini*)
+   │
+[1206–1217 CE] Hasan Nizami (*Taj-ul-Maasir* — First Sultanate Official History)
+   │
+[1260 CE] Minhaj-us-Siraj (*Tabaqat-i-Nasiri* — Nasiruddin Mahmud)
+   │
+[1289–1325 CE] Amir Khusrau's Master Masnavis: *Qiran-us-Sadain*, *Miftah*, *Ashiqa*, *Nuh Sipihr*, *Tughlaq Nama*
+   │
+[1357 CE] Ziauddin Barani (*Tarikh-i-Firoz Shahi* & *Fatwa-i-Jahandari*)
+   │
+[c. 1434 CE] Yahya bin Ahmad Sirhindi (*Tarikh-i-Mubarak Shahi* — Sayyid Dynasty)
+   │
+[1526–1530 CE] Babur (*Tuzuk-i-Baburi* in Chagatai Turkish)
+   │
+[1540 CE] Malik Muhammad Jaisi (*Padmavat* in Awadhi)
+   │
+[c. 1587–1598 CE] Abul Fazl (*Akbarnama* & *Ain-i-Akbari*) & Badauni (*Muntakhab-ut-Tawarikh* & *Razmnama*)
+   │
+[1624 CE] Jahangir (*Tuzuk-i-Jahangiri* in Persian)
+   │
+[c. 1650 CE] Abdul Hamid Lahori (*Padshahnama* — Shah Jahan)
+   │
+[1657 CE] Dara Shikoh (*Sirr-i-Akbar* — 52 Upanishads in Persian)
+   │
+[Post-1707 CE] Saqi Mustaid Khan (*Maasir-i-Alamgiri*) & Khafi Khan (*Muntakhab-ul-Lubab*)
+```
+
+### Dynastic Evolution of Medieval Chronicles
+
+| Era / Empire | Chronicle Title | Author | Language | Primary Historical Theme |
+|---|---|---|---|---|
+| **Early Invasions** | ***Kitab-al-Hind*** | **Al-Biruni** | Arabic | Indian astronomy, mathematics, philosophy, religion, caste rules |
+| **Ghaznavid** | ***Tarikh-i-Yamini*** | Utbi | Arabic | Expeditions of Sabuktigin and Mahmud of Ghazni |
+| **Early Sultanate** | ***Taj-ul-Maasir*** | Hasan Nizami | Persian | Reign of Qutbuddin Aibak and Iltutmish; first official Sultanate history |
+| **Slave Dynasty** | ***Tabaqat-i-Nasiri*** | Minhaj-us-Siraj | Persian | General history dedicated to Sultan Nasiruddin Mahmud; Turkish conquest |
+| **Khalji / Tughlaq** | ***Khazain-ul-Futuh*** | **Amir Khusrau** | Persian | Victories of Alauddin Khalji; Deccan conquests of Malik Kafur |
+| **Tughlaq Dynasty** | ***Tarikh-i-Firoz Shahi*** | **Ziauddin Barani** | Persian | Detailed narrative from Balban to early years of Firoz Shah Tughlaq |
+| **Sayyid Dynasty** | ***Tarikh-i-Mubarak Shahi*** | Yahya Sirhindi | Persian | Sole contemporary primary authority for the Sayyid rulers |
+| **Early Mughal** | ***Tuzuk-i-Baburi*** | **Babur** | **Chagatai Turkish** | Frank autobiography; geography, fauna, flora, and politics of Hindustan |
+| **Mughal Zenana** | ***Humayun-nama*** | **Gulbadan Begum** | Persian | Domestic harem life, struggles, and character of Humayun |
+| **Sur Interregnum** | ***Tarikh-i-Sher Shahi*** | Abbas Khan Sarwani | Persian | Detailed chronicle of Sher Shah Suri's administrative institutions |
+| **Akbar's Reign** | ***Akbarnama*** | **Abul Fazl** | Persian | Official biography of Akbar in 3 volumes (Vol III = *Ain-i-Akbari*) |
+| **Akbar's Reign** | ***Muntakhab-ut-Tawarikh*** | **Badauni** | Persian | Secret history highly critical of Akbar's religious policies |
+| **Jahangir's Reign**| ***Tuzuk-i-Jahangiri*** | **Jahangir** | Persian | Royal autobiography covering painting, justice, natural history |
+| **Shah Jahan's Reign**| ***Padshahnama*** | **Abdul Hamid Lahori** | Persian | Official history of first two decades of Shah Jahan's reign |
+| **Aurangzeb's Reign**| ***Maasir-i-Alamgiri*** | Saqi Mustaid Khan | Persian | Post-1707 official record; "Dictionary of Mughal Administration" |
+
+## 📊 Quick Reference Grid
+
+### 1. Master Match List: Medieval Authors and Their Masterpieces
+
+| Author / Chronicler | Literary Masterpiece | Language | Patron Monarch / Setting |
+|---|---|---|---|
+| **Al-Biruni** | ***Kitab-al-Hind*** (*Tahqiq-i-Hind*) | Arabic | Mahmud of Ghazni |
+| **Firdausi** | ***Shahnama*** | Persian | Mahmud of Ghazni ("Homer of the East") |
+| **Minhaj-us-Siraj** | ***Tabaqat-i-Nasiri*** | Persian | Nasiruddin Mahmud (Slave Dynasty) |
+| **Amir Khusrau** | ***Tughlaq Nama*** | Persian | Ghiyasuddin Tughlaq |
+| **Amir Khusrau** | ***Khazain-ul-Futuh*** (*Tarikh-i-Alai*) | Persian | Alauddin Khalji |
+| **Ziauddin Barani** | ***Tarikh-i-Firoz Shahi*** & ***Fatwa-i-Jahandari*** | Persian | Firoz Shah Tughlaq |
+| **Shams-i-Siraj Afif** | ***Tarikh-i-Firoz Shahi*** | Persian | Firoz Shah Tughlaq |
+| **Yahya bin Ahmad Sirhindi** | ***Tarikh-i-Mubarak Shahi*** | Persian | Mubarak Shah (Sayyid Dynasty) |
+| **Babur** | ***Tuzuk-i-Baburi*** (*Baburnama*) | **Chagatai Turkish** | Self-authored autobiography |
+| **Gulbadan Begum** | ***Humayun-nama*** | Persian | Sister of Humayun / Commissioned by Akbar |
+| **Jauhar Aftabchi** | ***Tazkirat-ul-Waqiat*** | Persian | Ewer-bearer of Humayun |
+| **Abbas Khan Sarwani** | ***Tarikh-i-Sher Shahi*** | Persian | Commissioned by Akbar |
+| **Abul Fazl** | ***Akbarnama*** & ***Ain-i-Akbari*** | Persian | Emperor Akbar |
+| **Abdul Qadir Badauni** | ***Muntakhab-ut-Tawarikh*** | Persian | Contemporary of Akbar |
+| **Nizamuddin Ahmad** | ***Tabaqat-i-Akbari*** | Persian | Mir Bakhshi under Akbar |
+| **Jahangir** | ***Tuzuk-i-Jahangiri*** | Persian | Imperial autobiography |
+| **Abdul Hamid Lahori** | ***Padshahnama*** | Persian | Emperor Shah Jahan |
+| **Inayat Khan** | ***Shah Jahan-nama*** | Persian | Emperor Shah Jahan |
+| **Dara Shikoh** | ***Sirr-i-Akbar*** & ***Majma-ul-Bahrain*** | Persian | Crown Prince (Son of Shah Jahan) |
+| **Mirza Muhammad Kazim** | ***Alamgirnama*** | Persian | First 10 years of Aurangzeb |
+| **Saqi Mustaid Khan** | ***Maasir-i-Alamgiri*** | Persian | Published post-1707 under Bahadur Shah I |
+| **Khafi Khan** | ***Muntakhab-ul-Lubab*** | Persian | Secret history up to Muhammad Shah |
+| **Bhimsen Saxena** | ***Nuskha-i-Dilkusha*** | Persian | Eyewitness account of Aurangzeb's Deccan wars |
+| **Malik Muhammad Jaisi** | ***Padmavat*** | **Awadhi** | Sher Shah Suri (c. 1540 CE) |
+| **Krishnadeva Raya** | ***Amuktamalyada*** | **Telugu** | Self-authored statecraft epic |
+
+### 2. Amir Khusrau's Major Works (Tuti-i-Hind / Kasganj, UP)
+
+| Title | Meaning / Subject | Historical Event / Patron |
+|---|---|---|
+| ***Qiran-us-Sadain*** (1289 CE) | *Conjunction of Two Auspicious Stars* | Historic meeting on Ghaghra river between Sultan Kaiqubad and his father Bughra Khan |
+| ***Miftah-ul-Futuh*** (1291 CE) | *Key to the Victories* | Military campaigns of Sultan Jalaluddin Khalji against Malik Chhajju |
+| ***Khazain-ul-Futuh*** (1311 CE) | *Treasures of Victory* (in ornate prose) | Alauddin Khalji's northern sieges (Ranthambore, Chittor) and Malik Kafur's southern conquests |
+| ***Ashiqa*** (*Deval Rani Khizr Khan*) | *The Lovers* (Tragic Masnavi) | Romance and marriage between Prince Khizr Khan and Gujarati princess Deval Rani |
+| ***Nuh Sipihr*** (1318 CE) | *The Nine Spheres / Skies* | Dedicated to Mubarak Shah Khalji; celebrated eulogy of India's culture, languages, and nature |
+| ***Tughlaq Nama*** (1320 CE) | *Book of the Tughlaqs* (Final Work) | Overthrow of usurper Khusrau Khan by Ghiyasuddin Tughlaq; foundation of Tughlaq Dynasty |
+
+### 3. Sanskrit to Persian Translations at Akbar's Maktab Khana
+
+| Original Sanskrit Text | Persian Title | Primary Translators | Chief Characteristics |
+|---|---|---|---|
+| **Mahabharata** | ***Razmnama*** (*Book of War*) | Badauni, Naqib Khan, Abdul Qadir, Faizi | Illustrated with 168 paintings; Preface by Abul Fazl |
+| **Ramayana** | *Ramayan* | Abdul Qadir Badauni | Completed after 4 years of reluctant translation |
+| **Atharva Veda** | *Atharva Veda* | Haji Ibrahim Sirhindi & Badauni | Philosophical and Vedic hymns |
+| **Rajatarangini** | *Bahr-ul-Asmar* (*Sea of Oceans*) | Mullah Shah Muhammad / Badauni | Chronicle of Kashmir kings |
+| **Lilavati** (Mathematics) | *Lilavati* | Faizi (Poet Laureate) | Bhaskaracharya's mathematical treatise |
+| **Panchatantra** | *Anwar-i-Suhaili* / *Ayār-i-Dānish* | Abul Fazl / Husain Waiz al-Kashifi | Classic moral fables and political parables |
+| **Harivamsa Purana** | *Harivams* | Maulana Sheri | Lineage of Lord Krishna |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Difference | Hindi |
+|---|---|------------|-------|
 | Akbarnama | Ain-i-Akbari | Narrative history of Akbar vs admin/statistical gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
 | Baburnama | Akbarnama | Babur's Turki memoir vs Abul Fazl's Persian Akbar history | बाबरनामा / अकबरनामा |
 | Tarikh | Tabaqat | Annal/continuous history vs generational biographies ("classes") | तारीख / तबक़ात |
@@ -69,10 +196,27 @@ hide:
 | Ashiqa | Rag Vibodh | Amir Khusrau's romantic historical poem (Deval Rani) vs Somnath's Sanskrit music treatise (1609) | आशिक़ा (खुसरो) / राग विबोध (सोमनाथ) |
 | Persian | Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **Two Autocrats, Two Autographed Biographies:**
+   - **Babur:** Wrote ***Baburnama*** in **Chagatai Turkish** (NOT Persian!).
+   - **Jahangir:** Wrote ***Tuzuk-i-Jahangiri*** in **Persian**.
+   - *Trap Alert:* Akbar did NOT write his biography (he was illiterate); Abul Fazl wrote *Akbarnama*.
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+2. **The Two *Tarikh-i-Firoz Shahi* Authors:**
+   - **Ziauddin Barani:** Covers Balban to the first 6 years of Firoz Shah Tughlaq (bitter, pessimistic tone).
+   - **Shams-i-Siraj Afif:** Detailed continuation covering all 37 years of Firoz Shah Tughlaq (laudatory, peaceful tone).
+
+3. **Abul Fazl's *Akbarnama* Volume Architecture:**
+   - **Volume 1:** History of Timurids, Babur, and Humayun.
+   - **Volume 2:** History of Akbar's reign up to 1602 CE.
+   - **Volume 3:** ***Ain-i-Akbari*** (Administrative, statistical, and geographic gazetteer in 5 books).
+
+4. **Khafi Khan Mnemonic Hook:**
+   - **Khafi** = **Khufiya** (Secret). Khafi Khan wrote *Muntakhab-ul-Lubab* in secret because Aurangzeb banned history writing!
+   - Bestowed the title ***Shahe Bekhabar*** (The Heedless King) on Bahadur Shah I.
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

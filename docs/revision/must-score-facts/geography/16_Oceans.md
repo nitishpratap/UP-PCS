@@ -7,9 +7,16 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 16 — Oceans</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2025** | **BBNJ High Seas Treaty (UNCLOS)**: Historic global agreement signed on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction; covers the high seas (>200 nm EEZ) | Global ocean governance, marine protected areas (MPAs) & law of the sea |
+| **2024–2025** | **Mass Coral Bleaching Event**: Fourth global coral bleaching event confirmed by NOAA; severe thermal stress recorded across the **Great Barrier Reef (Australia)** and Lakshadweep atolls | Marine ecology, symbiosis of zooxanthellae & sea-surface temperatures |
+| **UKPCS 2025** | **Warm vs Cold Ocean Currents**: **Humboldt (Peru) Current, Benguela Current, and Labrador Current** are cold currents; **Gulf Stream, Kuroshio, and Brazil Current** are warm currents | Ocean current classification & climatic desert associations |
+| **2024** | **India's Deep Ocean Mission (Samudrayaan)**: Indigenous human submersible *Matsya 6000* developed by NIOT Chennai for deep-sea mineral exploration (polymetallic nodules at 6,000 m depth) in Central Indian Ocean Basin | Blue Economy, seabed mining & oceanic institutes |
+
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -61,81 +68,126 @@ hide:
 
 
 ---
+46. **Halocline**: Distinct boundary layer in the ocean where **salinity increases rapidly with depth**; typically located between 300 m and 1,000 m beneath the surface mixed layer.
+47. **Thermocline**: Ocean water boundary layer where **temperature drops rapidly with increasing depth**; separates the warm upper epipelagic layer from the cold, deep abyss.
+48. **Pycnocline**: Boundary zone characterized by a **rapid increase in water density** with increasing depth; governed jointly by the thermocline (cooling) and halocline (salinity).
+49. **Great Barrier Reef**: World's largest coral reef system, extending over **2,300 km** along the northeast coast of **Queensland, Australia**; classic example of a barrier reef; UNESCO World Heritage site.
+50. **Bay of Fundy**: Located between Nova Scotia and New Brunswick in Canada; experiences the **highest tidal range in the world (up to 16.3 m / 53.5 ft)** due to tidal resonance and funnel-shaped coastal bathymetry.
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               OCEANOGRAPHIC DISCOVERIES & LAW OF THE SEA MILESTONES
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1872-1876] ──> HMS CHALLENGER EXPEDITION:
+  │               Birth of modern oceanography; sailed ~130,000 km; sounded the Challenger Deep in the Mariana Trench;
+  │               discovered the Mid-Atlantic Ridge and polymetallic nodules.
+  │
+  ▼
+  [1960] ───────> FIRST HUMAN DESCENT TO CHALLENGER DEEP:
+  │               Jacques Piccard and Don Walsh descend to 10,916 m in bathyscaphe *Trieste*.
+  │
+  ▼
+  [1977] ───────> DISCOVERY OF HYDROTHERMAL VENTS ("Black Smokers"):
+  │               ALVIN submersible discovers chemosynthetic vent ecosystems along the Galápagos Rift.
+  │
+  ▼
+  [1982] ───────> UNCLOS III ADOPTED AT MONTEGO BAY:
+  │               Codified International Seabed Authority (ISA, Jamaica) and territorial ocean boundaries.
+  │
+  ▼
+  [1987] ───────> INDIA PIONEER INVESTOR STATUS:
+  │               UN allocates 150,000 km² in Central Indian Ocean Basin (CIOB) for polymetallic nodule exploration.
+  │
+  ▼
+  [2021] ───────> DEEP OCEAN MISSION APPROVED BY INDIA:
+  │               MoES flagship mission developing manned submersible *Matsya 6000* (NIOT Chennai).
+  │
+  ▼
+  [2023] ───────> ADOPTION OF HIGH SEAS TREATY (BBNJ):
+  │               First binding framework to conserve biodiversity across 2/3 of the world's oceans beyond national EEZs.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Ocean Currents of the World: Warm vs Cold Master Grid
+
+| Ocean Basin | Warm Ocean Currents (गर्म जलधाराएं) | Cold Ocean Currents (ठंडी जलधाराएं) | High-Yield Prelims Exam Associations |
+|---|---|---|---|
+| **Atlantic Ocean** | **Gulf Stream (गल्फ स्ट्रीम)**<br>**North Atlantic Drift (उत्तरी अटलांटिक प्रवाह)**<br>**Florida Current**<br>**Brazil Current (ब्राजील धारा)**<br>**Guinea Current (गिनी धारा)** | **Labrador Current (लैब्राडोर धारा)**<br>**Canary Current (कनारी धारा)**<br>**Benguela Current (बेंगुएला धारा)**<br>**Falkland Current (फ़ॉकलैंड धारा)** | Confluence of warm Gulf Stream and cold Labrador creates world-famous fishing banks (**Grand Banks of Newfoundland**); **Sargasso Sea** calm seaweed gyre; Canary current drives Western Sahara aridity; Benguela drives Namib desert aridity |
+| **Pacific Ocean** | **Kuroshio / Japan Current (क्यूरोशियो)**<br>**North Pacific Drift**<br>**East Australian Current (EAC)**<br>**Alaska Current (अलास्का धारा)** | **Oyashio / Kuril Current (क्यूराइल धारा)**<br>**California Current (कैलिफोर्निया धारा)**<br>**Humboldt / Peru Current (हम्बोल्ट / पेरू धारा)**<br>**Okhotsk Current** | Confluence of warm Kuroshio and cold Oyashio creates rich Japanese fishing grounds; Humboldt current drives Atacama desert dryness and periodic **El Niño** disruptions; California current cools US west coast |
+| **Indian Ocean** | **Agulhas Current (अगुल्हास धारा)**<br>**Mozambique Current (मोज़ाम्बिक धारा)**<br>**Southwest Monsoon Drift (ग्रीष्मकालीन प्रवाह)**<br>**Leeuwin Current (Western Australia coast)** | **West Australian Current (पश्चिमी ऑस्ट्रेलियाई धारा)**<br>**Northeast Monsoon Drift (शीतकालीन प्रवाह)** | Indian Ocean currents undergo unique **complete semi-annual seasonal reversal** driven by the changing monsoon winds; West Australian current drives Great Victoria desert dryness |
+
+### 2. Deepest Ocean Trenches of the World
+
+| Trench / Deep | Ocean Basin | Depth (Meters) | Tectonic Plate Collision Setting | High-Yield Prelims Fact |
+|---|---|---|---|---|
+| **Mariana Trench (Challenger Deep)** | **Pacific Ocean** | **11,034 m** | Pacific plate subducts beneath Philippine plate | **Deepest point in the entire world**; located near Guam |
+| **Tonga Trench (Horizon Deep)** | **Pacific Ocean** | **10,882 m** | Pacific plate subducting beneath Indo-Australian plate | Second-deepest trench on Earth; South Pacific |
+| **Kuril–Kamchatka Trench** | **Pacific Ocean** | 10,542 m | Pacific plate under Okhotsk microplate | Northwestern Pacific active subduction arc |
+| **Philippine Trench (Mindanao)** | **Pacific Ocean** | 10,540 m | Philippine Sea plate colliding with Eurasian plate | Eastern boundary of the Philippine archipelago |
+| **Puerto Rico Trench (Milwaukee Deep)** | **Atlantic Ocean** | **8,376 m** | Boundary between Caribbean plate and North American plate | **Deepest point in the entire Atlantic Ocean** |
+| **Java Trench (Sunda Trench)** | **Indian Ocean** | **7,450 m** | Indo-Australian plate subducting beneath Eurasian/Sunda plate | **Deepest point in the entire Indian Ocean**; origin of 2004 mega-tsunami |
+| **Molloy Deep (Fram Strait)** | **Arctic Ocean** | **5,550 m** | Divergent / transform boundary between Greenland and Svalbard | **Deepest point in the Arctic Ocean** |
+| **South Sandwich Trench (Meteor Deep)** | **Southern Ocean** | **8,264 m** | Subduction of South American plate under South Sandwich plate | **Deepest point in the Southern Ocean / Antarctic** |
+
+### 3. Ocean Relief & Salinity Extremes
+
+| Feature / Ocean Division | Global Coverage (%) | Average Depth | Defining Characteristics |
+|---|---|---|---|
+| **Continental Shelf (महाद्वीपीय मग्नतट)** | **~8.6%** | ~130–200 m | Gentle seaward slope (1°); richest zone for marine life, oil/gas (Mumbai High), and fishing |
+| **Continental Slope (महाद्वीपीय मग्नढाल)** | ~8.5% | 200 to 3,000 m | Steep gradient (2° to 5°); furrowed by submarine canyons |
+| **Continental Rise (महाद्वीपीय उभार)** | ~5.0% | 3,000 to 4,000 m | Thick fan-shaped apron of deep-sea turbidite sediments at slope base |
+| **Abyssal Plains (गहरे सागरीय मैदान)** | **~40.0% (Largest)** | 3,000 to 6,000 m | Extremely flat, monotonous ocean floor covered with pelagic oozes and clays |
+| **Oceanic Salinity Extremes** | Open ocean avg = **35‰** | — | **Red Sea**: ~41‰ (high evaporation, low river inflow)<br>**Baltic Sea**: <10‰ (heavy river runoff, melting ice)<br>**Lake Van (Turkey)**: ~330‰ (highest inland)<br>**Dead Sea**: ~300–338‰ |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Spring Tide (वृहत् ज्वार)** | **Neap Tide (लघु ज्वार)** | Occurs during **Syzygy (New Moon & Full Moon)** when Sun, Moon, and Earth align in a straight line; tidal range is **20% higher than normal** vs Occurs during **Quadrature (1st & 3rd Moon Quarters)** when Sun and Moon are at right angles (90°); tidal range is **20% lower than normal** | वृहत् ज्वार (पूर्णिमा/अमावस्या) / लघु ज्वार (सप्तमी/अष्टमी) |
+| **Syzygy: Conjunction** | **Syzygy: Opposition** | Moon is situated **between Earth and Sun** (New Moon / *Amavasya*) vs Earth is situated **between Sun and Moon** (Full Moon / *Purnima*) | युति (अमावस्या) / वियुति (पूर्णिमा) |
+| **Gulf Stream** | **Labrador Current** | Swift, powerful **warm current** flowing northward along eastern USA vs Freezing **cold current** flowing southward from Arctic bringing icebergs; meet at Grand Banks | गल्फ स्ट्रीम (गर्म) / लैब्राडोर (ठंडी) |
+| **Kuroshio Current** | **Oyashio Current** | Warm northward-flowing western boundary current of North Pacific ("Japan Current") vs Cold sub-arctic southward-flowing current ("Kuril Current") | क्यूरोशियो (गर्म) / क्यूराइल-ओयाशियो (ठंडी) |
+| **Humboldt (Peru) Current** | **El Niño Current** | Cold, nutrient-rich northward upwelling current along Chile/Peru coast supporting world-class anchovy fisheries vs Counter-current of warm equatorial water replacing Humboldt current around Christmas, crashing marine ecosystems | हम्बोल्ट (ठंडी) / अल नीनो (गर्म) |
+| **Benguela Current** | **Agulhas Current** | **Cold current** along the southwestern coast of Africa (Namibia/SA) causing Namib desert aridity vs **Warm current** along the southeastern coast of Africa (Mozambique/SA) | बेंगुएला (ठंडी) / अगुल्हास (गर्म) |
+| **Mariana Trench** | **Java (Sunda) Trench** | Deepest trench on Earth and in the **Pacific Ocean** (11,034 m, Challenger Deep) vs Deepest trench in the **Indian Ocean** (7,450 m) | मारियाना गर्त / जावा (सुंडा) गर्त |
+| **Puerto Rico Trench** | **Molloy Deep** | Deepest trench in the **Atlantic Ocean** (8,376 m, Milwaukee Deep) vs Deepest point in the **Arctic Ocean** (5,550 m) | प्यूर्टो रिको गर्त / मॉलोय डीप |
+| **Fringing Reef** | **Barrier Reef** | Coral reef that grows directly outward from the coast with narrow/no lagoon (Andaman, Gulf of Mannar) vs Coral reef separated from the mainland shore by a wide, deep lagoon (Great Barrier Reef) | तटीय प्रवाल भित्ति / अवरोधक प्रवाल भित्ति |
+| **Atoll** | **Barrier Reef** | Circular or continuous ring of coral reef surrounding a central calm lagoon with **no central landmass** (Lakshadweep, Maldives) vs Linear barrier offshore with mainland behind it | एटोल (वलयाकार) / अवरोधक भित्ति |
 
-| Year | Fact | Why it matters | Source |
-|------|------|----------------|--------|
-| **Feb 2026–ongoing** | After US–Israel strikes on Iran (from **28 Feb 2026**), Iran moved to control / restrict the **Strait of Hormuz**; tanker traffic collapsed; mines, boardings and attacks on merchant ships (नावाध्यक्ष) were reported | World’s top oil–LNG chokepoint in the news | Reuters / IEA / CRS |
-| **2025 baseline** | About **20 mb/d** of oil products (~**25%** of seaborne oil) and ~**20%** of world **LNG** (mainly Qatar + UAE) normally transit Hormuz | Scale of any closure | IEA |
-| Static geography | Hormuz joins **Persian (फ़ारसी) Gulf ↔ Gulf of Oman**; shores are **Iran (north)** and **Oman (Musandam, south)**; UAE sits on the approaches | Country / strait MCQs | Atlas |
-| Bypass note | Only **Saudi Arabia** and the **UAE** have meaningful pipeline routes that can skip Hormuz; Iraq, Kuwait, Qatar, Bahrain and Iran lean almost entirely on the strait | Who is trapped if closed | IEA |
-| Demand side | Most Hormuz oil goes to **Asia** (China, India, Japan, Korea); India is a major importer through this gate | India linkage | EIA / visualisers |
-| Other 2026 themes | Dual blockade talk (Iran on the strait / US on Iranian ports), insurance spikes, and later escort / corridor politics kept oil prices elevated | Chokepoint = price risk | Reuters / Brookings |
-| Static | **BBNJ 2023** high-seas biodiversity treaty — India has signed; UNCLOS **12 / 24 / 200 nm** unchanged | Law of the sea | UN |
-| Static | India Arctic Policy **2022**; Arctic Council **observer** since **2013**; Deep Ocean Mission / Samudrayaan / Blue Economy (नीली अर्थव्यवस्था) | Polar + deep ocean | MEA / MoES |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. The Deepest Point in Each Ocean:
+- **Pacific Ocean**: **M**ariana Trench (Challenger Deep — 11,034 m)
+- **Atlantic Ocean**: **P**uerto Rico Trench (Milwaukee Deep — 8,376 m)
+- **Indian Ocean**: **J**ava / Sunda Trench (7,450 m)
+- **Arctic Ocean**: **M**olloy Deep (5,550 m)
+- **Southern Ocean**: **S**outh Sandwich Trench (8,264 m)
+- *(Mnemonic: **M**y **P**et **J**umps **M**any **S**treams)*
 
-### Confused pairs
+### 2. High-Yield Cold Ocean Currents: **B-C-C-F-H-L-O-W**
+- **B**enguela (SW Africa)
+- **C**anary (NW Africa)
+- **C**alifornia (Western USA)
+- **F**alkland (SE South America)
+- **H**umboldt / Peru (Western South America)
+- **L**abrador (NE North America)
+- **O**yashio (NE Asia / Japan)
+- **W**est Australian (Western Australia)
+- *(Mnemonic: **B**risk **C**old **C**urrents **F**reeze **H**umans, **L**eaving **O**nly **W**inter)*
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Benguela | **Atlantic** cold (SW Africa) | Pacific | बेंगुएला |
-| Humboldt / Peru | **Pacific** cold | Atlantic | हम्बोल्ट |
-| Agulhas | **Warm**, Indian Ocean | Cold / Atlantic | अगुलहास |
-| Brazil current | **Warm** | Cold | ब्राज़ील |
-| California / Canary | **Cold** | Warm | कैलिफोर्निया / कैनरी |
-| Kuroshio vs Oyashio | Warm Japan vs **cold Kurile** | Swapped | कुरोशियो / ओयाशियो |
-| Spring vs neap | Syzygy **large** vs quadrature **small** | Straight line = small tide | वृहत् / लघु |
-| Salinity max | **Tropics** belt | Equator | लवणता |
-| Mariana | **Pacific** | Atlantic | मारियाना |
-| Sunda/Java trench | **Indian** | Pacific | सुंडा |
-| Molloy Deep | **Arctic** | Atlantic | मोलॉय |
-| Datum line | Mean **sea level** reference | Date Line / 0° meridian | डेटा म रेखा |
-| Fresh after ice | Largest remaining = **groundwater** | Lakes/rivers larger than GW | भूजल |
-| Sargasso | No **coastline** | Has coasts like Black Sea | सारगैसो |
-| Red Sea form | **Axial trough** | Ordinary eroded valley | लाल सागर |
-| NAD | **Blanket of Europe** / warm | Cold Labrador clone | उत्तरी अटलांटिक ड्रिफ्ट |
-| Halocline | **Salinity** jump | Thermocline (temp) | हैलोक्लाइन |
-| Lake Van | Very high lake salinity (~330‰) | Always pick Dead Sea | वैन झील |
-| Diamantina | **Indian Ocean** | Pacific | डायमंटिना |
-| Ninetyeast Ridge | **Indian Ocean** | Mid-Atlantic | नाइंटी ईस्ट |
-| Suez | **Med ↔ Red**, **sea-level** (no climb) | Directly Atlantic–Indian | स्वेज |
-| Panama | Atlantic ↔ **Pacific** + **stepped chambers** / Gatun | Same as Suez / no chambers | पनामा |
-| EEZ vs territorial | **200 nm** vs **12 nm** | Swapped | EEZ / क्षेत्रीय जल |
-| Maitri + Bharati | Operational Antarctica | Dakshin Gangotri still open | मैत्री / भारती |
-| Himadri | **Arctic** (Svalbard) | Antarctica | हिमाद्री |
-| Guyot vs seamount | **Flat** drowned top vs peaked | Same | गायट / सीमाउंट |
-| El Niño fish | **Less** plankton | Warm → more fish | अल नीनो |
-| Red clay vs ooze | Deepest **no carbonate** vs **biogenic** mud | Same deposit | लाल मृत्तिका |
-| Globigerina vs diatom | **Calcareous** vs **siliceous** (cold) | Swapped | ग्लोबिजेरिना / डायटम |
-| Ninetyeast Ridge | Volcanic / hotspot trail | Mid-ocean spreading ridge | नाइंटीईस्ट |
-| Carlsberg Ridge | **NW Indian** spreading | Atlantic MAR | कार्ल्सबर्ग |
-| Drake vs Magellan | Open south of Cape Horn vs **Chilean channels** | Same strait | ड्रेक / मैगलन |
-| Tidal bore | Funnel river **wave** | Ordinary spring tide | ज्वार-भित्ति |
-| ISA / Area | Seabed **beyond** national zones | EEZ mining | ISA |
-| Arctic Council | India = **observer** (2013) | Full member | आर्कटिक परिषद |
-| Neritic vs hadal | Over **shelf** vs inside **trench** | Same depth word | नेरिटिक / हैडल |
-| Territorial vs EEZ | **12 nm** vs **200 nm** | Swapped | 12 ≠ 200 |
-| India west vs east shelf | **West wider** (overall) | East always wider | पश्चिमी शेल्फ |
-| Constructive vs destructive wave | Builds beach vs **erodes** | Same | रचनात्मक / विनाशकारी |
-| Upwelling coast | **West** coast of continent | East coast rule | उत्प्रवाह |
-| Türkiye north | **Black Sea** | Caspian / Med | काला सागर |
-| W→E seas ladder | Med → Black → Caspian → Aral | Black first / Aral before Caspian | मेड→ब्लैक→कैस्पियन→अराल |
-| Baltic coast | Norway **out** | Norway in | बाल्टिक |
-| Jordan sea | **Aqaba / Red** only | Mediterranean | जॉर्डन |
-| Hormuz shores | **Iran + Oman** | UAE as both shores | होरमुज़ |
-| Persian Gulf coast | **Not Oman** | Oman inside Gulf | फारस की खाड़ी |
-| Syria sea | **Mediterranean** | Black Sea | सीरिया |
-| Gaza water | **Mediterranean** | Red / Dead Sea as coast | गाजा |
+### 3. Tides Alignment Formula:
+- **Straight Line (180°)** = **Spring Tide** (Sun + Moon + Earth aligned → Strongest gravitational pull)
+- **Right Angle (90°)** = **Neap Tide** (Sun and Moon pulling against each other → Lowest tidal range)
 
+### 4. World's Highest Tidal Range:
+- **Bay of Fundy** (Nova Scotia, Canada — ~16.3 meters / 53.5 ft!).
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -504,4 +556,3 @@ D. Grand Banks — Labrador meets Gulf Stream fishery
 **Logic:** Eastern-boundary cold currents drive classic upwelling.
 
 </details>
-

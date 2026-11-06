@@ -7,9 +7,16 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 4 — Lakes, Waterfalls & Water Resources</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024–2026** | **Ramsar Wetlands Network in India**: India expanded its Ramsar network to **85+ designated wetlands of international importance**; **Tamil Nadu** leads with highest number of Ramsar sites (18), followed by **Uttar Pradesh** (10) | Wet ecology milestones, state-wise counts & Ramsar convention |
+| **Dec 2024** | **Ken–Betwa Link Daudhan Dam**: Core storage reservoir under construction across the Ken River; submerges ~4,141 ha of Panna Tiger Reserve core habitat | River interlinking storage reservoirs & environmental clearances |
+| **2023–2025** | **National Dam Safety Authority (NDSA)**: Enforcing the Dam Safety Act, 2021; periodic inspection of India's >5,700 large dams following the Chungthang Dam (Teesta III, Sikkim) glacial lake outburst flood (GLOF) breach | Dam safety framework, GLOF risks & Himalayan reservoirs |
+| **2024** | **Jal Jeevan Mission (JJM)**: Har Ghar Jal target providing 55 lpcd tap water connection to every rural household | Drinking water infrastructure & ground water schemes |
+
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -64,75 +71,137 @@ hide:
 
 
 ---
+49. **Tehri Dam Characteristics**: Located at the confluence of **Bhagirathi and Bhilangna** rivers in Tehri Garhwal, Uttarakhand; at **260.5 m (855 ft)** it is the **highest dam in India** and 4th highest earth-and-rock fill dam in the world; creates Swami Ramtirth Sagar reservoir.
+50. **Hirakud Dam Dimensions**: Constructed across the **Mahanadi River** near Sambalpur in Odisha; with an overall dyke length of **25.8 km (main dam 4.8 km)**, it is the **longest earthen dam in India**; operational since 1957.
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INDIAN WATER RESOURCES & MAJOR DAM CONSTRUCTION CHRONOLOGY
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1902] ───> SIVASAMUDRAM HYDROELECTRIC PROJECT:
+  │           First major commercial hydroelectric generating station in India, built on Kaveri River (Karnataka)
+  │           to supply power to the Kolar Gold Fields (KGF).
+  │
+  ▼
+  [1948] ───> DAMODAR VALLEY CORPORATION (DVC) ACT:
+  │           India's first multipurpose river valley project modeled on USA's Tennessee Valley Authority (TVA);
+  │           Tilaiya, Maithon, Panchet, and Konar dams.
+  │
+  ▼
+  [1957] ───> HIRAKUD DAM COMMISSIONED:
+  │           Multipurpose project on Mahanadi River in Odisha; longest earthen dam in India.
+  │
+  ▼
+  [1963] ───> BHAKRA DAM DEDICATED TO NATION:
+  │           Concrete gravity dam on Sutlej River; hailed by Jawaharlal Nehru as the "Temple of Modern India".
+  │
+  ▼
+  [1971] ───> RAMSAR CONVENTION ON WETLANDS (Iran):
+  │           Chilika Lake (Odisha) and Keoladeo National Park (Rajasthan) designated India's first Ramsar sites in 1981.
+  │
+  ▼
+  [2006] ───> TEHRI DAM COMMENCES COMMERCIAL GENERATION:
+  │           Highest rock-fill dam in India (260.5 m) on Bhagirathi River in Uttarakhand.
+  │
+  ▼
+  [2017] ───> SARDAR SAROVAR DAM DEDICATED TO THE NATION:
+  │           Concrete gravity dam on Narmada River (Gujarat); terminal project of Narmada Valley Project.
+  │
+  ▼
+  [2021] ───> DAM SAFETY ACT, 2021 ENACTED:
+  │           Established National Committee on Dam Safety (NCDS) and National Dam Safety Authority (NDSA).
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Major Natural & Artificial Lakes of India
+
+| Lake | State / UT | Lake Type | Key Geographic / Prelims Exam Feature |
+|---|---|---|---|
+| **Wular Lake (वुलर झील)** | **Jammu & Kashmir** (Bandipora) | Freshwater (Tectonic) | **Largest freshwater lake in India**; fed by and drained by **Jhelum River**; Tulbul Navigation Project |
+| **Dal Lake (डल झील)** | **Jammu & Kashmir** (Srinagar) | Freshwater (Fluvial/Ox-bow) | "Jewel in the crown of Kashmir"; famous for houseboats (*Shikaras*) and floating gardens (*Radh*) |
+| **Loktak Lake (लोकटक झील)** | **Manipur** (Moirang) | Freshwater (Tectonic) | **Largest freshwater lake in North-East India**; famous for floating vegetative islands called ***Phumdis***; contains **Keibul Lamjao National Park** (world's only floating national park, home to endangered **Sangai / Brow-antlered deer**) |
+| **Chilika Lake (चिल्का झील)** | **Odisha** (Puri, Khordha, Ganjam) | Brackish Water Coastal Lagoon | **Largest coastal lagoon in India** and second-largest in the world; designated **India's first Ramsar site (1981)**; home to Irrawaddy dolphins |
+| **Pulicat Lake (पुलिकट झील)** | **Andhra Pradesh & Tamil Nadu** border | Brackish Water Lagoon | Second-largest brackish lagoon; separated from Bay of Bengal by the barrier island of **Sriharikota** (ISRO Satish Dhawan Space Centre); major bird sanctuary |
+| **Vembanad Lake (वेम्बनाड झील)** | **Kerala** (Kottayam, Alappuzha, Ernakulam) | Estuarine Lagoon / Kayal | **Longest lake in India (~96 km)**; venue of the famous **Nehru Trophy Boat Race (Vallam Kali)** at Punnamada; Willingdon Island situated within it |
+| **Lonar Lake (लोनार झील)** | **Maharashtra** (Buldhana) | Meteorite Impact Crater | Formed by hypervelocity meteorite impact in Deccan basalt during Pleistocene (~50,000 years ago); saline and alkaline; Ramsar site |
+| **Sambhar Lake (सांभर झील)** | **Rajasthan** (Jaipur / Nagaur) | Inland Saline Endorheic Basin | **Largest inland saline lake in India**; produces ~9% of India's salt; Ramsar wetland |
+| **Roopkund (रूपकुंड)** | **Uttarakhand** (Chamoli) | Glacial Alpine Tarn | **"Skeleton Lake" / "Mystery Lake"** situated at 5,029 m; contains hundreds of ancient human skeletons |
+| **Kolleru Lake (कोल्लेरू झील)** | **Andhra Pradesh** (Krishna & West Godavari) | Freshwater Lake | Located between the deltas of Godavari and Krishna rivers; wildlife sanctuary and Ramsar site |
+| **Govind Ballabh Pant Sagar** | **Uttar Pradesh** (Sonbhadra) | Artificial Reservoir | **Largest man-made reservoir in India by surface area**; created by **Rihand Dam** on Rihand River |
+
+### 2. High-Yield Waterfalls of India
+
+| Waterfall | Associated River | Height | State / District | High-Yield Prelims Exam Fact |
+|---|---|---|---|---|
+| **Kunchikal Falls** | **Varahi River** | 455 m (tiered) | **Karnataka** (Shimoga) | Highest tiered waterfall in India; water utilized for Varahi hydro project |
+| **Jog Falls (Gersoppa / Mahatma Gandhi)** | **Sharavathi River** | 253 m (single plunge) | **Karnataka** (Shimoga) | Composed of four distinct cascades: **Raja, Roarer, Rocket, and Rani**; plunge waterfall |
+| **Nohkalikai Falls** | Rainfed stream | 340 m | **Meghalaya** (East Khasi Hills, Cherrapunji) | **Tallest plunge waterfall in India**; dramatic limestone cliff drop |
+| **Dhuandhar Falls (धुआंधार)** | **Narmada River** | ~30 m | **Madhya Pradesh** (Jabalpur, Bhedaghat) | Mist created by crashing water creates a smoke-like effect (*Dhuandhar*); cuts through famous **Marble Rocks gorge** |
+| **Hundru Falls (हुंडरू)** | **Subarnarekha River** | 98 m | **Jharkhand** (Ranchi) | Rejuvenation knickpoint waterfall on the Ranchi Plateau |
+| **Chitrakote Falls (चित्रकूट)** | **Indravati River** | ~29 m | **Chhattisgarh** (Bastar) | Known as the **"Niagara of India"** due to its wide horseshoe-shaped crest during monsoon |
+| **Chulia Falls (चूलिया)** | **Chambal River** | 18 m | **Rajasthan** (Rawatbhata, Chittorgarh) | Located downstream of Rana Pratap Sagar Dam on Chambal |
+| **Sivasamudram Falls** | **Kaveri River** | 98 m | **Karnataka** (Mandya / Chamarajanagar) | Divides into twin falls: **Gaganachukki and Bharachukki**; site of 1902 historic hydropower station |
+| **Dudhsagar Falls (दूधसागर)** | **Mandovi River** | 310 m | **Goa / Karnataka border** | "Sea of Milk"; four-tiered waterfall traversed by the scenic Madgaon–Belagavi railway bridge |
+| **Kapildhara Falls** | **Narmada River** | ~30 m | **Madhya Pradesh** (Amarkantak) | First major waterfall formed by Narmada just 6 km from its origin; sage Kapila meditated here |
+
+### 3. Major Dams & Multipurpose River Valley Projects
+
+| Dam / Multipurpose Project | River | Reservoir Name | Beneficiary States | Key Architectural / Structural Distinction |
+|---|---|---|---|---|
+| **Bhakra Dam** | **Sutlej River** | **Gobind Sagar** | HP, Punjab, Haryana, Rajasthan | **Highest concrete gravity dam in India (226 m)**; second-highest behind Tehri |
+| **Nangal Dam** | **Sutlej River** | — | Punjab, Haryana | Located 13 km downstream of Bhakra; diverts water into Nangal Hydel Channel |
+| **Tehri Dam** | **Bhagirathi + Bhilangna** | Swami Ramtirth Sagar | **Uttarakhand**, UP, Delhi, Punjab | **Highest dam in India (260.5 m)**; rock-and-earth fill dam in seismic zone V |
+| **Hirakud Dam** | **Mahanadi River** | Hirakud Reservoir | **Odisha** | **Longest earthen dam in India and world (25.8 km total length)** |
+| **Sardar Sarovar Dam** | **Narmada River** | Sardar Sarovar | Gujarat, MP, Maharashtra, Rajasthan | Concrete gravity dam (138.68 m); feeds 458-km Narmada Main Canal to Rajasthan |
+| **Nagarjuna Sagar Dam** | **Krishna River** | Nagarjuna Sagar | **Andhra Pradesh & Telangana** | World's largest masonry dam; named after Buddhist scholar Acharya Nagarjuna |
+| **Srisailam Dam** | **Krishna River** | Srisailam Reservoir | Andhra Pradesh & Telangana | Second-largest working hydroelectric station in India; deep gorge in Nallamala Hills |
+| **Mettur Dam (Stanley Reservoir)** | **Kaveri River** | Stanley Reservoir | **Tamil Nadu** | Constructed in 1934; provides irrigation to the fertile Cauvery Delta (*Granary of South India*) |
+| **Rihand Dam** | **Rihand River** | **Govind Ballabh Pant Sagar** | **Uttar Pradesh** (Sonbhadra) | Concrete gravity dam (91.4 m); feeds thermal power plants of Singrauli and Renukoot aluminium smelter |
+| **Matatila Dam** | **Betwa River** | Matatila Reservoir | **UP and MP** (Lalitpur/Jhansi) | Multipurpose joint undertaking of Uttar Pradesh and Madhya Pradesh |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Wular Lake** | **Chilika Lake** | Largest **freshwater lake** in India (J&K, tectonic origin on Jhelum) vs Largest **brackish water coastal lagoon** in India (Odisha, Ramsar site) | वुलर (मीठा जल) / चिल्का (खारा लैगून) |
+| **Chilika Lake** | **Sambhar Lake** | Largest coastal **brackish water lagoon** (Bay of Bengal) vs Largest **inland saline lake** (Thar Desert, Rajasthan) | चिल्का / सांभर झील |
+| **Jog Falls (Gersoppa)** | **Kunchikal Falls** | Single **unbroken plunge waterfall** on Sharavathi River (253 m) vs **Multi-tiered cascading waterfall** on Varahi River (455 m total drop) | जोग (प्रपात) / कुंचिकल प्रपात |
+| **Chitrakote Falls** | **Chulia Falls** | Horseshoe-shaped "Niagara of India" on **Indravati River** in Bastar, Chhattisgarh vs Rapids waterfall on **Chambal River** in Rawatbhata, Rajasthan | चित्रकूट (इंद्रावती) / चूलिया (चंबल) |
+| **Tehri Dam** | **Bhakra Dam** | **Highest dam in India (260.5 m)**, rock-and-earth fill type on Bhagirathi vs **Highest concrete gravity dam (226 m)** on Sutlej River | टिहरी (सबसे ऊंचा) / भाखड़ा (गुरुत्वीय) |
+| **Bhakra Dam** | **Hirakud Dam** | Concrete gravity dam on **Sutlej River** in HP vs Longest earthen dam (25.8 km) on **Mahanadi River** in Odisha | भाखड़ा / हीराकुंड बांध |
+| **Pulicat Lake** | **Kolleru Lake** | Brackish water lagoon separated by **Sriharikota Island** on AP–TN border vs Purely **freshwater lake** nestled between Krishna and Godavari deltas in AP | पुलिकट / कोल्लेरू झील |
+| **Lonar Lake** | **Roopkund Lake** | Meteorite impact crater lake in **Maharashtra basalt** vs High-altitude glacial "Skeleton Lake" in **Uttarakhand Himalayas** | लोनार / रूपकुंड झील |
+| **Govind Ballabh Pant Sagar** | **Gobind Sagar** | Artificial reservoir of **Rihand Dam in Sonbhadra (UP)** vs Artificial reservoir of **Bhakra Dam in Bilaspur (HP)** | गोविंद बल्लभ पंत सागर / गोबिंद सागर |
+| **Dhuandhar Falls** | **Kapildhara Falls** | Marble Rocks gorge waterfall near **Jabalpur (MP)** vs Headwater waterfall near **Amarkantak source (MP)** — both on Narmada | धुआंधार / कपिलधारा प्रपात |
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **5 Jun 2026** | India designates **100th Ramsar** — **Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia, UP** (World Environment (पर्यावरण) Day (विश्व पर्यावरण दिवस)) | “How many Ramsar in India / latest UP site?” | MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) / PIB |
-| **2025–26** | UP Ramsar total **13** — adds **Patna (पटना) BS (Etah)**, **Sheikha/Shekha Jheel (Aligarh (अलीगढ़))**, **Surha Tal (Ballia)** | State-paper list + 2025 Q58 “NOT in UP” | MoEFCC LS annex |
-| **2025** | India among top Ramsar countries in Asia; proposals in pipeline include Sauj Jheel (UP) | Count vs names trap | MoEFCC |
-| Ongoing | **Jal Jeevan Mission** extended (rural tap water) — water-*supply* overlay, not a dam (दाम -)–river fact | Don’t confuse with multipurpose dams | Jal Shakti (शक्ति) |
-| 2019–20 | Six UP Ramsar added in the Jan 2020 window | Number question | UPPCS 2020 |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. The Lake Extremes of India:
+- **Largest Freshwater Lake** = **Wular Lake** (J&K)
+- **Largest Brackish Coastal Lagoon** = **Chilika Lake** (Odisha)
+- **Largest Inland Saline Lake** = **Sambhar Lake** (Rajasthan)
+- **Longest Lake in India** = **Vembanad Lake** (96 km, Kerala)
+- **Only Floating National Park Lake** = **Loktak Lake** (Manipur — *Phumdis*)
+- **Only Meteorite Crater Lake** = **Lonar Lake** (Maharashtra)
 
-### Confused pairs
+### 2. Jog Falls Cascade Quartet:
+- **R-R-R-R**: **R**aja, **R**oarer, **R**ocket, and **R**ani
+- *(Located on **Sharavathi River**, Shimoga, Karnataka)*
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Chilika vs Sambhar | Chilika = lagoon / often “largest saline”; Sambhar = **inland** saline | Pick Sambhar whenever “saline” appears | चिल्का = तटीय; सांभर = अंतर्देशीय खारा |
-| Chilika vs Vembanad | Chilika = largest **east-coast lagoon**; Vembanad = Kerala largest + India **longest**, **west coast** | Call Vembanad India’s overall largest lake | वेम्बनाड = सबसे लंबा, पश्चिम |
-| Chilika vs Pulicat vs Kolleru | Chilika largest E-coast lagoon; Pulicat 2nd; Kolleru freshwater | Kolleru as lagoon king | कोलेरू = मीठा, लैगून नहीं |
-| Wular vs Dal vs Loktak | Wular size king; Dal tourism; Loktak = Keibul Lamjao | Keibul on Wular/Dal | लोकटक = मणिपुर, केइबुल लामजाओ |
-| Kunchikal vs Jog | Kunchikal = UPPCS highest; Jog = famous / **width** | Jog = highest | कुंचिकल ऊँचा; जोग चौड़ा |
-| Jog vs Shivanasamudra | Jog = Sharavati **width**; Shivanasamudra = Cauvery **volume** | Swap crowns | जोग चौड़ा; शिवसमुद्र आयतन |
-| Lodh vs Hundru | Lodh/Budha Ghagh = **Burha**, JH highest; Hundru = Subarnarekha | Lodh on Kanchi/Barakar | लोध = बूढ़ा |
-| Roopkund vs Renuka | Roopkund = UK mystery/skeleton; Renuka = HP Ramsar | Roopkund in HP | रूपकुंड = उत्तराखंड |
-| Kayal vs inland lake | Kayal = Kerala coastal lagoon/backwater | Call Wular a kayal | कायल = केरल |
-| Dudhsagar state | **Goa** (Mandovi) | Karnataka-only | दूधसागर = गोवा |
-| Chachai–Bihad | **Wrong** pair | Treat as correct | चाचई ≠ बिहद |
-| Bhakra vs Pandoh | Bhakra = Sutlej; Pandoh = **Beas** | Pandoh on Ravi/Sutlej | भाखड़ा = सतलुज |
-| SSP vs Indira Sagar | SSP = Narmada **Gujarat**; Indira Sagar/Omkareshwar = Narmada **MP** | Swap states | सरदार सरोवर = गुजरात |
-| Ban Sagar vs Narmada set | Ban Sagar = **Son** | Put Ban Sagar with Bargi/Omkareshwar | बन सागर = सोन |
-| DVC year | **1948** first multipurpose of independent India | 1947 / Bhakra-first | DVC = 1948 |
-| Sidrapong vs Shivasamudram | Sidrapong **1897** oldest; Shivasamudram **1902** second | Call Shivasamudram oldest | सिद्रापोंग सबसे पुराना |
-| Cauvery dispute parties | **TN + KA + KL + Puducherry** | Add Gujarat / drop PY | कावेरी = चार पक्ष |
-| Gobind Sagar vs Pant Sagar | Gobind = **Bhakra/Sutlej**; Pant = **Rihand/Sonbhadra** | Swap | गोबिंद = भाखड़ा |
-| Chambal vs Gobind/Pant | Chambal = Gandhi/RPS/Jawahar Sagar | Gobind or Pant as Chambal | चंबल ≠ गोबिंद सागर |
-| Tehri confluence | **Bhagirathi + Bhilangana** | Alaknanda / Yamuna alone | टिहरी = भागीरथी–भिलंगना |
-| Telugu Ganga city | Krishna water to **Chennai** | Bangalore / Madurai | तेलुगु गंगा = चेन्नई |
-| NBA / Medha Patkar | Opposed **Sardar Sarovar** height | Tag to Indira Sagar only | मेधा = SSP |
-| Tehri river | **Bhagirathi** (rock-fill) | Alaknanda / Yamuna | टिहरी = भागीरथी |
-| Srisailam vs Tungabhadra Dam | Srisailam = **Krishna**; TB Dam = Tungabhadra | Swap | श्रीशैलम = कृष्णा |
-| Nagarjuna Sagar vs Srisailam | Both Krishna; NS = AP–TS iconic | Put NS on Godavari | नागार्जुन सागर = कृष्णा |
-| Ramganga irrigation | ~5.75–5.90 lakh ha | Neat **6 lakh ha** | सिंचाई ≠ 6 लाख हेक्टेयर |
-| Tulbul vs Baglihar | Tulbul = Jhelum/Wular; Baglihar = Chenab | Swap | तुलबुल = झेलम |
-| IGC vs Upper Ganga Canal | IGC = longest, **Harike** → RJ; UGC = **Bhimgoda/Haridwar** → W-UP | Mix offtakes | इंदिरा गांधी = सबसे लंबी |
-| IGC vs Gang Canal | **Gang Canal** = oldest developed RJ system (**1927**, Ganga Singh, Hussainiwala) | Call IGC the oldest | गंग नहर = 1927 |
-| Harike vs Bhakra source | IGC source = **Harike Barrage** (Sutlej–Beas) | Bhakra / Gandhi Sagar as IGC source | हरिके = IGC |
-| Onega | **Russia** | Canada | ओनेगा = रूस |
-| Oxbow vs lagoon | Oxbow = cut-off meander on a floodplain; lagoon = barred coast | Call Chilika an oxbow | गोखुर ≠ लैगून |
-| Tectonic vs crater | Wular = tectonic basin; Lonar = meteorite in basalt | Lonar as tectonic | वुलर = विवर्तनिक; लोनार = उल्का |
-| Kabartal vs Wular | Kabartal = Bihar oxbow Ramsar; Wular = J&K tectonic freshwater | Swap size kings | कबरताल = बिहार |
-| Sharavati vs Cauvery | Jog is on **Sharavati**, a **west-flowing** Karnataka river | Wrong slip: Sharavati as Cauvery tributary | शरावती ≠ कावेरी |
-| Kunchikal vs Nohkalikai | Kunchikal = highest **total**; Nohkalikai = tallest **plunge** | Swap the two height titles | कुंचिकल कुल; नोहकलिकाइ प्लंज |
-| Kapildhara vs Jog | Kapildhara = **Narmada**; Jog = Sharavati | Kapildhara on Godavari (UPSC 2008 trap) | कपिलधारा = नर्मदा |
-| Shivanasamudra vs Jog | Both Karnataka; Shivanasamudra = **Cauvery** | Put Jog on Cauvery | शिवसमुद्र = कावेरी |
-| Hirakud vs Indira Sagar vs Tehri | Longest earthen vs largest **volume** vs **tallest** dam | Swap the three superlatives | हीराकुड लंबा; इंदिरा सागर आयतन; टिहरी ऊँचा |
-| Idukki vs Mullaperiyar | Both **Periyar**; Idukki = arch hydro | Put Idukki on Cauvery | इडुक्की = पेरियार |
-| Canal vs groundwater irrigation | IG plains = canals + tubewells; peninsula historically **tanks**; GW now >60% | “Dominant source = canals only” | मैदान = नहर; प्रायद्वीप = तालाब |
-| Minor vs major irrigation | Minor CCA ≤ **2000 ha** (~62%); major > **10,000 ha** | Swap shares | लघु ≈ 62% |
-| Dam vs barrage | Dam **stores**; barrage **diverts** (Farakka ~**40,000 cusec** to Hooghly) | Call Farakka a storage dam | बांध जलाशय; बैराज मोड़ |
-| Garland vs Visvesvaraya | Garland = **Dastur**; first linking idea often **Visvesvaraya**; later **K.L. Rao** | Tag Garland to Rao alone | गारलैंड = दस्तूर |
-| Jawai Project | **Rajasthan** (Luni tributary) | Tamil Nadu | जवाई = राजस्थान |
+### 3. Dam Twin-Name Examiner Traps:
+- **Govind Ballabh Pant Sagar** = **Rihand Dam** (Sonbhadra, UP)
+- **Gobind Sagar** = **Bhakra Dam** (Bilaspur, HP)
+- *(Exam Lock: UP Chief Minister Pant = UP Sonbhadra; Sikh Guru Gobind Singh = Punjab/HP border!)*
 
+### 4. Niagara of India:
+- **Chitrakote Falls** on **Indravati River** (Bastar, Chhattisgarh — horseshoe crest in monsoon).
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

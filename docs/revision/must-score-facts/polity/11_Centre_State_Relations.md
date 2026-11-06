@@ -11,87 +11,197 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 11 — Centre–State Relations</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| 2022 | In *Union of India v. Mohit Minerals*, the Supreme Court held that the recommendations of the **GST Council (Article 279A)** are not binding on Parliament or State Legislatures, emphasizing un-coerced cooperative federalism. | Landmark ruling on fiscal federalism and legislative sovereignty. |
+| July 1, 2017 | **Goods and Services Tax (GST)** launched nationwide via the 101st Constitutional Amendment Act, creating a concurrent tax regime across Union and States. | Milestone structural reform in Centre-State indirect taxation. |
+| 2022–2024 | Multiple inter-state water dispute adjudications (Cauvery Water Management Authority, Krishna Water Disputes Tribunal II) highlighted the exclusive bar on court jurisdiction under **Article 262**. | High-yield Prelims question on Article 262 vs Article 131. |
+| Ongoing | Inter-State Council meetings and Zonal Council meetings chaired by Union Home Minister focused on internal security, coastal security, and border dispute resolutions. | Distinguishes constitutional Inter-State Council (Art. 263) from statutory Zonal Councils. |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. The Constitution divides Centre-State relations into three categories: **Legislative Relations (Part XI, Arts. 245–255)**, **Administrative Relations (Part XI, Arts. 256–263)**, and **Financial Relations (Part XII, Arts. 264–293)**; there is **no division of judicial power** as India has an integrated judiciary.
-2. **Territorial Extent of Central and State Laws (Article 245):** Parliament can make laws for the **whole or any part of the territory of India** and has power of **extraterritorial legislation** (binding on Indian citizens and property worldwide); a State Legislature can make laws only for the whole or any part of that State (no extraterritorial operation unless there is a territorial nexus).
-3. Exceptions to Territorial Jurisdiction of Parliament: The President can make regulations for peace, progress, and good government of 5 UTs (Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, Ladakh); the Governor can direct that an Act of Parliament does not apply to a **5th Schedule area**; Governor of Assam and President for Meghalaya, Tripura, Mizoram can direct parliamentary acts not to apply to **6th Schedule areas**.
-4. **Distribution of Legislative Subjects (Article 246):** Seventh Schedule 3-tier distribution: **Union List (List I - 100 entries)** has exclusive Parliamentary jurisdiction; **State List (List II - 61 entries)** has exclusive State jurisdiction; **Concurrent List (List III - 52 entries)** has shared jurisdiction.
-5. **Predominance of Union Law (Doctrine of Federal Supremacy):** Article 246 establishes a hierarchical principle: Union List prevails over Concurrent List and State List, and Concurrent List prevails over State List.
-6. **Residuary Powers (Article 248):** Parliament has exclusive power to make any law with respect to any matter **not enumerated in the Concurrent List or State List**, including imposing taxes not mentioned in either list; borrowed from the **Canadian Constitution** (unlike USA/Australia where residuary powers rest with states).
-7. **Doctrine of Pith and Substance:** Evolved to determine which list a law falls under when there is an incidental encroachment; looks at the true nature and character (pith and substance) of the legislation rather than its incidental effects.
-8. **Doctrine of Colorable Legislation:** 'What cannot be done directly, cannot be done indirectly'; prevents a legislature from transgressing constitutional limits of its legislative competence under the guise of an apparent power.
-9. **Article 254 (Repugnancy in Concurrent List):** If a State law on a Concurrent List subject conflicts with a Union law, the **Union law prevails** and the State law is void to the extent of repugnancy; **Exception (Art. 254(2))**: If a State law was **reserved for the President's consideration and received Presidential assent**, the State law prevails in that State (though Parliament can still enact a subsequent law overriding it).
-10. **Five Extraordinary Situations where Parliament can Legislate on State List:** (1) **Article 249**: In national interest if **Rajya Sabha passes a resolution by 2/3rd majority of members present and voting** (remains in force for 1 year at a time); (2) **Article 250**: During a proclamation of **National Emergency** (operates until 6 months after emergency ceases); (3) **Article 252**: When legislatures of **two or more States pass resolutions** requesting Parliament to legislate (law applies only to those states, amendable ONLY by Parliament); (4) **Article 253**: For giving effect to **International Treaties, Agreements, or Conventions**; (5) **Article 356**: During **President's Rule** in a State.
-11. **Article 253 Primacy:** Empowers Parliament to make any law for the whole or any part of India for implementing any treaty or convention with another country, even if the subject matter falls exclusively under the **State List** (e.g., TRIPS, environmental treaties).
-12. **Administrative Relations — General Obligations (Articles 256 & 257):** **Article 256** mandates that executive power of every State shall be so exercised as to ensure compliance with laws made by Parliament; **Article 257** directs that State executive power must not impede or prejudice Union executive power, and enables Union to give directions for construction/maintenance of means of communication of national/military importance and protection of railways.
-13. **Sanction behind Union Directions (Article 365):** If any State fails to comply with or give effect to any direction given by the Union under constitutional provisions, the President can lawfully hold that a situation has arisen in which the **government of the State cannot be carried on in accordance with the Constitution**, triggering **President's Rule under Article 356**.
-14. Delegation of Union Functions to States (**Article 258**): The President may, with the **consent of the State Government**, entrust Union executive functions to that State; Article 258(2) empowers Parliament to confer powers on States by law **even without the State's consent**; Article 258A enables a State Governor to confer State functions on the Union with Union consent.
-15. **Full Faith and Credit Clause (Article 261):** Full faith and credit shall be given throughout the territory of India to **public acts, records, and judicial proceedings** of the Union and of every State; civil court judgments delivered in any part of India are executable anywhere within India.
-16. **Inter-State Water Disputes (Article 262):** Empowers Parliament to provide by law for the adjudication of any dispute relating to the use, distribution, or control of waters of an **inter-state river or river valley**; Parliament can by law **bar the jurisdiction of the Supreme Court** and all other courts over such disputes (enacted via the Inter-State River Water Disputes Act, 1956).
-17. **Inter-State Council (Article 263):** The President can establish an Inter-State Council if public interest so requires; established for the first time in **1990** on the recommendation of the **Sarkaria Commission** by a Presidential Order; chaired by the **Prime Minister**; members include Chief Ministers of all States and UTs with assemblies, Administrators of UTs, and 6 Union Cabinet Ministers nominated by PM.
-18. Financial Relations (Part XII): Separation of tax powers: no tax can be levied or collected except by authority of law (**Article 265**); no tax entries exist in the Concurrent List (except GST under Art. 246A).
-19. **Article 246A (Special Provision on GST):** Inserted by the **101st Constitutional Amendment Act, 2016**; confers **simultaneous power** on Parliament and State Legislatures to make laws with respect to Goods and Services Tax; Parliament has exclusive power for interstate trade (IGST).
-20. **GST Council (Article 279A):** Constitutional body constituted by the President within 60 days of 101st Amendment; chaired by the **Union Finance Minister**; members: Union MoS Finance and Finance Ministers of all States; decisions taken by **3/4th weighted majority** (Centre has 1/3rd voting weight; all States together have 2/3rd weight).
-21. Tax Sharing Structure: (1) **Article 268**: Taxes levied by Union but **collected and appropriated by States** (Stamp duties on financial bills); (2) **Article 269**: Taxes levied and collected by Union but **assigned to States** (Taxes on interstate sale of goods/consignment); (3) **Article 269A**: GST on interstate trade (IGST) levied and collected by GOI, apportioned between Union and States; (4) **Article 270**: Taxes levied and collected by Union and **distributed between Union and States** (the divisible pool of direct/indirect taxes recommended by Finance Commission).
-22. **Article 271:** Surcharges on certain duties and taxes for purposes of the Union; proceeds of surcharges go **entirely to the Consolidated Fund of India** and do not form part of the divisible pool shared with States.
-23. **Grants-in-Aid to States:** (1) **Statutory Grants (Article 275)**: Charged on the Consolidated Fund of India; recommended by the **Finance Commission**; given to specific States in need of assistance; includes special grants for tribal welfare; (2) **Discretionary Grants (Article 282)**: Given by Union or States for any public purpose (used heavily for Centrally Sponsored Schemes).
-24. **Borrowing Powers (Articles 292 & 293):** Under Art. 292, the Union can borrow both within India and abroad upon the security of the Consolidated Fund of India; under **Article 293**, a State can borrow **ONLY within the territory of India** (cannot borrow abroad directly); a State cannot raise any fresh loan without Union consent if any part of an earlier Union loan remains outstanding.
-25. **Mutual Exemption from Taxation (Articles 285 & 289):** **Article 285**: Property of the Union is exempt from all taxes imposed by a State or local authority (unless Parliament by law provides otherwise); **Article 289**: Property and income of a State are exempt from Union taxation; however, Union can tax commercial/business activities of a State.
-26. **Administrative Reforms Commission - ARC-I (1966):** Chaired initially by Morarji Desai, later K. Hanumanthaiah; recommended setting up the Inter-State Council under Article 263 and appointment of non-partisan persons as Governors.
-27. **Rajamannar Committee (1969):** Appointed by the **DMK government of Tamil Nadu** under Dr. P.V. Rajamannar to examine Centre-State relations; radical autonomy recommendations: **repeal of Articles 356 and 365**, abolition of **All-India Services (IAS, IPS, IFS)**, shifting of residuary powers to States, and making Inter-State Council advisory body.
-28. **Anandpur Sahib Resolution (1973):** Adopted by Shiromani Akali Dal; demanded restricting Union government’s role to only 4 subjects: **Defence, Foreign Affairs, Currency, and Communications**, leaving all other residuary powers with States.
-29. **West Bengal Memorandum (1977):** Issued by the Left Front government; demanded replacing the word 'Union' with 'Federation' in the Constitution, 75% tax revenue devolution to States, repeal of Art. 356/357/360, and Rajya Sabha having equal powers with Lok Sabha.
-30. **Sarkaria Commission (1983–1988):** 3-member commission appointed in June 1983 chaired by **Justice R.S. Sarkaria** (members: B. Sivaraman and Dr. S.R. Sen); submitted 247 recommendations in January 1988; rejected radical restructuring; emphasized that a strong Centre is essential for unity and integrity.
-31. Key Sarkaria Recommendations: (1) Setting up permanent **Inter-State Council** under Art. 263 (instituted 1990); (2) **Article 356 must be used only as an extreme last resort**; (3) Governor’s 5-year tenure should not be disturbed; (4) Retain and strengthen All-India Services; (5) Residuary power of taxation to remain with Parliament, other residuary powers to Concurrent List; (6) Prior consultation with States before enacting Concurrent List legislation; (7) Corporation tax should be shared with States (achieved by 80th Amd 2000).
-32. **M.M. Punchhi Commission (2007–2010):** Appointed in April 2007 under former CJI **Justice M.M. Punchhi**; submitted report in March 2010; focused on cooperative federalism, internal security, and local governance.
-33. Key Punchhi Recommendations: (1) Fixed **5-year tenure for Governors** and removal only via **impeachment by State Legislature**; (2) In hung assemblies, strict convention guidelines for Governor; (3) Amendment of Articles 355 and 356 for **'Localised Emergency'** (bringing only troubled district under Central rule for ≤ 3 months without dissolving State Assembly); (4) Creation of an Inter-State Trade and Commerce Commission under Article 307; (5) Equal representation of States in Rajya Sabha.
-34. **Zonal Councils:** Established under Part III of the **States Reorganisation Act, 1956** (statutory bodies, not constitutional bodies); 5 councils: Northern, Central (UP, UK, MP, CG - HQ: Prayagraj), Eastern, Western, Southern; common Chairman is the **Union Home Minister**.
-35. **North-Eastern Council (NEC):** Created by separate statute — the **North-Eastern Council Act, 1971**; covers 8 States: Assam, Meghalaya, Manipur, Tripura, Nagaland, Mizoram, Arunachal Pradesh, and **Sikkim** (added in 2002); apex regional planning body for the Northeast.
-36. Cooperative vs Competitive Federalism: Cooperative federalism is operationalized through NITI Aayog, GST Council, and Inter-State Council; competitive federalism promotes States competing for investments and ease of doing business rankings.
+1. The Constitution of India divides Centre–State relations into three categories: (1) **Legislative Relations** (Part XI, Articles 245–255); (2) **Administrative Relations** (Part XI, Articles 256–263); (3) **Financial Relations** (Part XII, Articles 268–293).
+2. There is **NO division of judicial power**; the Constitution establishes a **single integrated judicial system** to enforce both Central and State laws.
+3. **Territorial Extent of Legislative Power (Article 245):** Parliament can make laws for the **whole or any part of the territory of India**, and has power of **extraterritorial legislation** (applies to Indian citizens and property anywhere in the world); a State Legislature can make laws only for the whole or any part of the State.
+4. **Threefold Legislative Distribution (Article 246 & Seventh Schedule):**
+   - **Union List (List I):** Matters of national importance; originally 97 items, currently **100 entries**; Parliament has exclusive power to legislate (Defence, Foreign Affairs, Atomic Energy, Banking, Railways, Posts & Telegraph, Currency).
+   - **State List (List II):** Matters of regional/local importance; originally 66 items, currently **61 entries**; State Legislatures have exclusive power to legislate (Public Order, Police, Public Health, Agriculture, Prisons, Local Government, Markets & Fairs).
+   - **Concurrent List (List III):** Matters of common interest; originally 47 items, currently **52 entries**; both Parliament and State Legislatures can legislate (Criminal Law, Civil Procedure, Marriage & Divorce, Trade Unions, Economic & Social Planning, Education, Forests).
+5. **Five Subjects Transferred by 42nd Amendment (1976):** Transferred from State List to Concurrent List: (1) **Education**; (2) **Forests**; (3) **Weights and Measures**; (4) **Protection of wild animals and birds**; (5) **Administration of justice**; constitution and organisation of all courts except the Supreme Court and the High Courts.
+6. **Residuary Powers (Article 248):** Vested exclusively in **Parliament**; includes power to make any law on any matter not enumerated in the Concurrent List or State List, and to impose any tax not mentioned in either list (e.g., Cyber Laws, Space Research, Gift Tax); borrowed from **Canada**.
+7. **Parliament's Power to Legislate on State List (Five Extraordinary Situations):**
+   - (1) **Article 249 (National Interest):** If **Rajya Sabha passes a resolution supported by not less than two-thirds of members present and voting**; resolution remains in force for **1 year**; law ceases to have effect 6 months after resolution ends.
+   - (2) **Article 250 (During National Emergency):** Parliament acquires concurrent power to legislate on any State subject; law ceases to operate **6 months** after emergency ceases.
+   - (3) **Article 252 (By Consent of States):** When the legislatures of **two or more States pass resolutions** requesting Parliament to legislate; such law applies ONLY to those States (and other States adopting it); can be amended or repealed **ONLY by Parliament, NOT by the States** (e.g., Wildlife Protection Act 1972, Water Act 1974).
+   - (4) **Article 253 (To Implement International Agreements):** Parliament can make laws on any State subject for implementing any treaty, international agreement, or convention without the consent of any State.
+   - (5) **Article 356 (During President's Rule):** Parliament is empowered to exercise the legislative powers of the State Legislature.
+8. **Doctrine of Pith and Substance:** Used to resolve legislative competence disputes; if the 'true nature and character' (pith and substance) of a statute falls within the legislative list of the enacting legislature, the statute is **valid even if it incidentally trenches upon a subject in another list**.
+9. **Doctrine of Repugnancy (Article 254):** If any provision of a State law on a **Concurrent List** subject is repugnant to a Central law on that subject, the **Central law prevails** and the State law is void to the extent of repugnancy.
+10. **Exception to Repugnancy (Article 254(2)):** If the State law on a Concurrent subject was **reserved for the consideration of the President and has received his assent**, the State law **prevails in that State**; however, Parliament can subsequently enact a new law overriding that State law.
+11. **Doctrine of Colorable Legislation:** Based on the maxim "what cannot be done directly, cannot be done indirectly"; tests whether a legislature has transgressed constitutional limits under the guise of an apparently valid statute.
+12. **Executive Directives of the Union (Articles 256 & 257):**
+    - **Article 256:** Executive power of every State shall be so exercised as to ensure compliance with laws made by Parliament.
+    - **Article 257:** Union can give directions to a State regarding: (1) Construction and maintenance of means of communication of national or military importance; (2) Protection of railways within the State.
+13. **Article 365 (Coercive Constitutional Sanction):** Where any State has failed to comply with, or to give effect to, any directions given by the Union Executive (under Arts. 256, 257), the President is empowered to hold that a situation has arisen where the government of the State **cannot be carried on in accordance with the Constitution**, triggering **President's Rule under Article 356**.
+14. **Delegation of Executive Functions (Article 258 & 258A):**
+    - **Article 258:** President can, with the **consent of the State Government**, entrust Union executive functions to that State Government; Parliament can also confer powers on State officers **without State consent**.
+    - **Article 258A (7th Amd 1956):** Governor can, with the **consent of the Government of India**, entrust State executive functions to the Union Government.
+15. **All-India Services (Article 312):** Jointly serve Union and States; recruited and trained by the Centre; immediate control by State, ultimate control by Centre; **Rajya Sabha has the exclusive power to initiate creation of new All-India Services by a 2/3rd resolution**; Indian Forest Service (IFS) created in 1966.
+16. **Inter-State River Water Disputes (Article 262):** Parliament may by law provide for the adjudication of any dispute regarding the use, distribution, or control of waters of any inter-state river or river valley; Parliament enacted the **Inter-State River Water Disputes (IRWD) Act, 1956**; jurisdiction of the **Supreme Court and all other courts is barred** in respect of such disputes.
+17. **Inter-State Council (Article 263):** Constitutional body established by the President; first constituted in **May 1990** on the recommendation of the **Sarkaria Commission**; chaired by the **Prime Minister**; members include CMs of all States/UTs with assemblies and 6 Union Cabinet Ministers; recommendatory body.
+18. **Zonal Councils (Statutory Bodies):** Created by the **States Reorganisation Act, 1956** (NOT constitutional bodies); established 5 Zonal Councils: Northern, Central, Eastern, Western, and Southern; chaired by the **Union Home Minister**; Chief Ministers act as Vice-Chairmen by rotation for 1 year; Central Zonal Council covers **Uttar Pradesh, Uttarakhand, Madhya Pradesh, and Chhattisgarh** (headquarters at **Prayagraj**).
+19. **North-Eastern Council:** Created by a separate parliamentary statute, the **North-Eastern Council Act, 1971**; comprises Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Tripura, and **Sikkim** (added in 2002); chaired by Union Home Minister.
+20. **Taxation Powers Distribution (Article 265):** "No tax shall be levied or collected except by authority of law"; taxes on Union List levied exclusively by Centre; taxes on State List levied exclusively by States; Concurrent List has NO tax entries, except **GST (Article 246A)** introduced by the **101st Amendment Act, 2016**.
+21. **Goods and Services Tax Regime (Articles 246A, 269A, 279A):**
+    - **Article 246A:** Confers concurrent power on both Parliament and State Legislatures to make laws with respect to GST; Parliament has exclusive power over inter-state trade (IGST).
+    - **Article 269A:** Levy and collection of GST on inter-state supply (IGST); apportioned between Union and States as per GST Council recommendations.
+    - **Article 279A:** GST Council chaired by Union Finance Minister; decisions taken by 3/4th weighted majority (Centre 1/3rd, States 2/3rd).
+22. **Distribution of Tax Revenues (Post-80th Amendment Act, 2000):** Introduced an **'Alternative Scheme of Devolution'** (based on 10th FC recommendation); all taxes and duties referred to in the Union List (except central surcharges, cesses, and GST) are pooled together and shared with States (**Divisible Pool**).
+23. **Article 270:** Taxes levied and collected by the Union and distributed between the Union and the States (Income Tax, Corporation Tax, Central GST).
+24. **Article 271:** Surcharges on certain duties and taxes for purposes of the Union; proceeds of surcharges go **entirely to the Centre** and are NOT shared with States.
+25. **Grants-in-Aid to States (Article 275 & Article 282):**
+    - **Article 275 (Statutory Grants):** Mandatory grants paid out of Consolidated Fund of India to States in need of assistance; recommended by the **Finance Commission**; specific grants for promoting welfare of Scheduled Tribes.
+    - **Article 282 (Discretionary Grants):** Enables Union or State to make grants for any public purpose, even outside its legislative competence (historically used for Planning Commission scheme transfers).
+26. **Borrowing Powers (Articles 292 & 293):**
+    - **Union (Art. 292):** Can borrow within or outside India upon the security of the Consolidated Fund of India, subject to limits fixed by Parliament.
+    - **States (Art. 293):** Can borrow **ONLY WITHIN INDIA** (cannot borrow abroad); if a State has any outstanding central loan, it **MUST OBTAIN CONSENT OF THE CENTRE** before raising any fresh market loan.
+27. **Finance Commission (Article 280):** Quasi-judicial body appointed by the President every 5th year; recommends: (1) Devolution of net tax proceeds (Divisible Pool); (2) Principles for grants-in-aid under Art. 275; (3) Measures to augment State Consolidated Funds for local bodies.
+28. **Sarkaria Commission (1983–1988):** Appointed by Union Government under Justice **R.S. Sarkaria** (with B. Sivaraman and Dr. S.R. Sen) to review Centre-State relations; submitted report in 1988 with 247 recommendations.
+29. **Key Sarkaria Commission Recommendations:**
+    - Article 356 should be used only in extreme cases as a **measure of last resort**;
+    - Inter-State Council should be permanently established under Article 263;
+    - Governor should be an eminent person from outside the State, not active in recent politics, appointed after **consulting the State CM**;
+    - Residuary powers of taxation should remain with Parliament, but non-tax residuary matters should be placed in Concurrent List;
+    - Corporation tax should be made constitutionally shareable with States (implemented by 80th Amd 2000);
+    - National Development Council (NDC) should be renamed National Economic and Development Council;
+    - Zonal Councils should be activated;
+    - Center should consult States before legislating on Concurrent List subjects.
+30. **Punchhi Commission (2007–2010):** Set up under former CJI **M.M. Punchhi**; submitted report in March 2010 with 273 recommendations:
+    - Recommended fixed **5-year tenure for Governors** and their removal by **impeachment by State Legislature** (similar to President);
+    - Recommended that Governor should act on ministerial advice while granting sanction for prosecution of ministers;
+    - Proposed 'Localised Emergency' under Art. 352/356 to bring only troubled pockets under central rule instead of dissolving entire state government;
+    - Recommended constitutional amendment to bring guidelines for selection of CM in hung assemblies;
+    - Supported Rajya Sabha equality of seats among States.
+31. **Rajamannar Committee (1969):** Appointed by the Tamil Nadu (DMK) government under Dr. **P.V. Rajamannar**; recommended: abolition of Articles 356, 357, and 365; transfer of residuary powers to States; abolition of All-India Services (IAS, IPS, IFS); Inter-State Council to be given mandatory powers.
+32. **Anandpur Sahib Resolution (1973):** Adopted by Shiromani Akali Dal; demanded that Centre's jurisdiction be restricted strictly to **Defence, Foreign Affairs, Communications, and Currency**, with all other residual powers vesting in States.
+33. **West Bengal Memorandum (1977):** Submitted by the Left Front government; demanded that the word 'Union' be replaced by 'Federation'; 75% of total central revenues should be transferred to States; Rajya Sabha should have equal powers with Lok Sabha; repeal of Arts. 356 and 360.
+34. **Full Faith and Credit Clause (Article 261):** Full faith and credit shall be given throughout India to public acts, records, and judicial proceedings of the Union and of every State; civil court decrees executable anywhere in India.
+35. **Exemption of State Property from Union Taxation (Article 289):** Property and income of a State is exempt from Union taxation; however, Union can tax commercial operations of a State.
+36. **Exemption of Union Property from State Taxation (Article 285):** Property of the Union is exempt from all taxes imposed by a State or by any authority within a State, unless Parliament provides otherwise.
+37. **Entry Count Breakdown in Seventh Schedule:**
+    - Union List: 97 &rarr; **100**
+    - State List: 66 &rarr; **61**
+    - Concurrent List: 47 &rarr; **52**
+38. **Incidental Encroachment Safeguard:** Under the Doctrine of Pith and Substance, incidental encroachment does not invalidate a law provided the core matter is intra vires.
+39. **Article 249 Resolution Lifespan:** An Art. 249 Rajya Sabha resolution remains in force for a period not exceeding **one year**; can be renewed for one year at a time; laws passed under Art. 249 expire 6 months after resolution lapses.
+40. **Article 252 Irrevocability by States:** A State Legislature that requested a law under Article 252 **CANNOT amend or repeal that law**; it can be amended or repealed solely by Parliament.
+41. **Article 253 International Primacy:** Enables Parliament to pass laws overriding State List entries to implement international conventions (e.g., Anti-Hijacking Act, Geneva Conventions Act).
+42. **Article 365 Direct Connection with Article 356:** Failure to comply with lawful Union executive directions under Art. 256 or Art. 257 constitutes conclusive constitutional ground for invoking Article 356 President's Rule.
+43. **Sarkaria Commission 356 Guideline:** Demanded that every alternative avenue be exhausted, and a warning be given to the errant State government, before issuing a proclamation under Art. 356.
+44. **Punchhi Commission Impeachment Recommendation:** Argued that Governors should not be vulnerable to central political changes, proposing that Governors be removed only by a resolution passed by the State Legislative Assembly.
+45. **Central Zonal Council Specifics:** Covers **Uttar Pradesh, Uttarakhand, Madhya Pradesh, Chhattisgarh**; headquarters at **Prayagraj (Allahabad)**; operates under Union Home Ministry.
+46. **GST Council Consensus Tradition:** Though decisions require 75% weighted majority, over 99% of GST Council decisions have been adopted through mutual consensus between Centre and States.
+47. **Finance Commission Article 275 Principles:** Determines grants-in-aid of the revenues of such States as Parliament may determine to be in need of assistance; distinct from unconditional tax devolution under Art. 270.
+48. **External Borrowing Ban on States:** States are strictly barred from borrowing in international debt markets directly (Art. 293(1)); external multilateral borrowings (World Bank, ADB) are routed through the Union Ministry of Finance.
+49. **Inter-State River Water Tribunals Record:** Formed under IRWD Act 1956: Cauvery Water Disputes Tribunal (1990), Krishna Water Disputes Tribunal (2004), Mahadayi Tribunal (2010), Mahanadi Tribunal (2018).
+50. **Three Decades of Commissions Summary:**
+    - 1969: Rajamannar (Tamil Nadu DMK) &rarr; extreme autonomy.
+    - 1983–88: Sarkaria &rarr; cooperative federalism, Art. 356 last resort.
+    - 2007–10: Punchhi &rarr; localized emergency, Governor impeachment.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+1950  ── Part XI & Part XII of Constitution enforce: 3 Legislative Lists & Fiscal provisions
+  │
+1956  ── States Reorganisation Act: 5 Statutory Zonal Councils created under Union Home Ministry
+  │
+1956  ── Inter-State River Water Disputes (IRWD) Act passed under Article 262
+  │
+1966  ── Indian Forest Service (IFS) created as third All-India Service under Article 312
+  │
+1969  ── Rajamannar Committee appointed by Tamil Nadu Government on Centre-State relations
+  │
+1971  ── North-Eastern Council created under separate 1971 Act (Sikkim added 2002)
+  │
+1973  ── Anandpur Sahib Resolution adopted demanding extreme state autonomy
+  │
+1976  ── 42nd Amendment: Shifted 5 subjects from State List to Concurrent List (Education, Forests)
+  │
+1983  ── Sarkaria Commission appointed by Central Government (Report submitted 1988)
+  │
+1990  ── Inter-State Council constituted under Article 263 (May 1990)
+  │
+2000  ── 80th Amendment: Alternative Scheme of Devolution (Divisible Pool sharing under Art. 270)
+  │
+2007  ── M.M. Punchhi Commission on Centre-State Relations appointed (Report submitted 2010)
+  │
+2016  ── 101st Amendment: GST Council created under Art. 279A; Art. 246A concurrent tax power
+  │
+2017  ── 1 July: GST implemented nationwide
+  │
+2022  ── *Mohit Minerals*: Supreme Court rules GST Council recommendations are recommendatory
+```
+
+## 📊 Quick Reference Grid
+
+### 1. The Three Legislative Lists in the Seventh Schedule
+
+| Feature | Union List (List I) | State List (List II) | Concurrent List (List III) |
+|---|---|---|---|
+| **Original Entries** | 97 | 66 | 47 |
+| **Present Entries** | **100** | **61** | **52** |
+| **Exclusive Authority** | **Parliament** exclusively | **State Legislature** exclusively | **Both** Parliament and State Legislatures |
+| **Key Subjects** | Defence, Atomic Energy, Foreign Affairs, Railways, Banking, Currency, Posts, Income Tax | Public Order, Police, Public Health, Sanitation, Agriculture, Prisons, Local Govt | Criminal Law, Civil Procedure, Marriage, Forests, Education, Trade Unions, Drugs |
+| **Residuary Power** | Vested exclusively in **Parliament (Centre)** under **Article 248** (Canadian model) | N/A | N/A |
+
+### 2. Centre-State Relations Commissions Comparison
+
+| Commission / Committee | Year | Appointed By | Key Terms / Core Recommendations |
+|---|---|---|---|
+| **Rajamannar Committee** | 1969 | Tamil Nadu Govt (DMK) | Abolish Art. 356, 357, 365; abolish All-India Services; transfer residuary powers to States |
+| **Anandpur Sahib Resolution** | 1973 | Akali Dal | Restrict Centre strictly to Defence, Foreign Affairs, Communications, Currency |
+| **Sarkaria Commission** | 1983–1988 | Central Govt (Indira Gandhi) | Art. 356 as last resort; set up Inter-State Council (Art. 263); consult CM on Governor appointment |
+| **M.M. Punchhi Commission** | 2007–2010 | Central Govt (UPA) | Fixed 5-yr tenure for Governor; removal of Governor by Assembly impeachment; localized emergency |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair | Correct | Trap | Hindi |
+|---|---|---|---|
+| Residuary Powers Source | Vested in **Parliament (Centre)** under **Art. 248** (Canadian model) | Attribute residuary powers to States (US model) | अवशिष्ट शक्तियाँ = संसद (कनाडा) |
+| Concurrent List Source | Borrowed from **Australia** | Attribute Concurrent List to Canada | समवर्ती सूची = ऑस्ट्रेलिया |
+| Inter-State Council vs Zonal Councils | **Inter-State Council** = Constitutional (Art. 263). **Zonal Councils** = Statutory (States Reorganisation Act 1956). | Call Zonal Councils constitutional bodies | अंतर-राज्य परिषद = संवैधानिक; क्षेत्रीय परिषदें = संविधिक |
+| Central Zonal Council Headquarters | Located at **Prayagraj (Allahabad)** (covers UP, Uttarakhand, MP, Chhattisgarh) | Put headquarters in Lucknow or Delhi | मध्य क्षेत्रीय परिषद = प्रयागराज |
+| Article 249 Resolution Validity | Valid for **1 year at a time** (requires 2/3rd present and voting in Rajya Sabha) | Give resolution indefinite validity | 249 का संकल्प = 1 वर्ष वैध |
+| Art. 252 Law Amendment Authority | Can be amended or repealed **ONLY by Parliament** (States cannot amend) | Allow requesting States to amend 252 laws | 252 का कानून केवल संसद बदल सकती है |
+| River Water Disputes Jurisdiction | Jurisdiction of Supreme Court and all courts is **CONSTITUTIONALLY BARRED** (Art. 262) | Bring water disputes under Art. 131 original jurisdiction | नदी जल विवाद में न्यायालयों का क्षेत्राधिकार वर्जित |
+| Art. 365 vs Art. 356 | **365** = Failure to obey Union directions. **356** = Proclamation of President's Rule. (365 triggers 356!) | Treat 365 as an independent emergency power | 365 के उल्लंघन पर 356 लागू होता है |
+| External Borrowing by States | States **CANNOT borrow outside India** (Art. 293(1)) | Allow States to issue sovereign bonds abroad | राज्य विदेश से ऋण नहीं ले सकते |
+| Central Surcharges Sharing | Proceeds of surcharges under **Art. 271** go **EXCLUSIVELY to the Centre** (not divisible) | Include surcharges in the divisible tax pool | अधिभार (271) केवल केंद्र का |
 
-| Year | Fact | Why asked |
-|------|------|-----------|
-| 1 July 2017 | GST operational | 101st vs “GST Act year” |
-| 2022 | *Mohit Minerals* — GST Council (जीएसटी परिषद) recommendatory | Binding vs cooperative |
-| 2023 | **16th FC** under **Arvind Panagariya** | Chair matching; award **2026–31** |
-| 2021–26 | 15th FC (**N.K. Singh**) | vs 14th Y.V. Reddy |
-| 2025 PYQ | AIS 312 majority | present and voting (गणपूर्ति) ≠ total |
-| 14th / 15th FC | Vertical **42% → 41%** | Devolution matching |
-| 1 Jan 2015 | NITI replaces Planning Commission (योजना आयोग) | Extra-constitutional; **≠ FC** |
-| 2019 | NITI = nodal for **SDGs** (not FC) | 2019 PYQ |
-| Mar 2022 | Assam–Meghalaya (मेघालय) border: **HM + CMs** | Inter-State dispute ≠ 131 |
-| 2019 | ISRWD Amendment Bill (permanent tribunal) | **LS only; lapsed — not law** |
-| 2018 | SC Cauvery judgment / CWMA | Award ≠ 131 original |
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **Parliament Overriding State List (Five Keys):**
+   - **N-E-C-I-P**
+   - **N**ational Interest (Art. 249: RS 2/3rd)
+   - **E**mergency (Art. 250: National Emergency)
+   - **C**onsent of 2+ States (Art. 252)
+   - **I**nternational Treaties (Art. 253)
+   - **P**resident's Rule (Art. 356)
+2. **Five Shifted Subjects (42nd Amendment, 1976):**
+   - **"E-F-W-A-J"**
+   - **E**ducation
+   - **F**orests
+   - **W**eights & Measures
+   - **A**nimals & Birds Protection
+   - **J**ustice Administration (Subordinate Courts)
+3. **Zonal Councils Chairmanship:**
+   - All 5 Zonal Councils are permanently chaired by the **Union Home Minister**!
+   - Chief Ministers act as Vice-Chairmen on rotation.
 
-### Confused pairs
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| Art. **249** | Art. **250** | RS resolution, **1 year**, national interest | Emergency proclamation — Parliament on State List while Emergency is on |
-| Art. **252** | Art. **253** | **Two or more States** request; others may adopt | Treaties / international conferences — **no** State request needed |
-| Art. **254(1)** | Art. **254(2)** | Union law on Concurrent **prevails** | State Concurrent law **reserved + President assents** → State law prevails *until* Parliament legislates again |
-| Art. **275** | Art. **282** | FC-recommended, **charged** on CFI; tribal proviso | **Discretionary** grant for any public purpose (Union **and** States) |
-| Pith & substance | Colourable legislation | Incidental encroachment **OK** if true nature is in your list | Cannot do **indirectly** what you cannot do directly |
-| Entry **97** residuary | Art. **246A** GST | Leftover subjects → **Union** | GST is a **special** concurrent-style power, **not** residuary |
-| 2/3 **present and voting** (312 / 249) | 2/3 of **total membership** | AIS creation & 249 RS resolution | That formula is for **other** special majorities (e.g. 368 with majority of total) |
-| **ISC (263)** | **Zonal Council** | Constitutional, **PM**, 1990 | Statutory **SRA 1956**, **Union HM**, five zones |
-| **Art. 131** | **Art. 262** | SC original for Union/State **legal** disputes | Water: Parliament **may bar** courts — **1956 Act did** |
-| **Sarkaria** | **Rajamannar** | Strong Centre; keep AIS & 356; ISC **done** | Residuary to States; **abolish AIS**; **repeal 356** |
-
-
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -434,4 +544,3 @@ D. Inter-State Trade and Commerce Authority — Article 280
 **Ans: D** — Inter-State Council is under Article 263, Finance Commission is under Article 280, and river water disputes are under Article 262. Inter-State trade authority is provided under Article 307 (Part XIII), not Article 280.
 
 </details>
-

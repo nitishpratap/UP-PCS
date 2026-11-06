@@ -7,9 +7,15 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 13 — Disaster Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **July 2024** | **Wayanad Catastrophic Landslides (Kerala)**: Torrential southwest monsoon rainfall (>300 mm in 24 hrs) triggered massive debris flow in Chooralmala and Meppadi; Western Ghats slope vulnerability | Mass wasting triggers, Western Ghats ecology & Gadgil/Kasturirangan reports |
+| **Oct 2023** | **Sikkim GLOF (South Lhonak Lake)**: Glacial lake outburst flood triggered by cloudburst breached the South Lhonak moraine dam, washing away the 1,200 MW Chungthang (Teesta III) dam | Himalayan high-altitude GLOF hazards & dam safety |
+| **2023–2024** | **Cyclones Remal & Michaung (Bay of Bengal)**: Naming by WMO/ESCAP panel (*Michaung* named by Myanmar; *Remal* named by Oman); deep depressions in post-monsoon / pre-monsoon | Cyclone naming registry & Bay of Bengal landfall patterns |
+| **2024** | **IMD Severe Heatwave Protocols**: Red, Orange, and Yellow heatwave warning color codes issued based on departure from normal maximum temperature (>4.5°C departure) | Heat action plans, NDMA guidelines & meteorology warnings |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -61,63 +67,118 @@ hide:
 
 
 ---
+46. **Sendai Framework for Disaster Risk Reduction (2015–2030)**: Adopted at the 3rd UN World Conference on DRR in Sendai, Japan; non-binding successor to the Hyogo Framework (2005–2015); establishes **4 Priorities for Action** and **7 Global Targets** (reducing global disaster mortality, economic loss, and damage to critical infrastructure).
+47. **National Disaster Management Plan (NDMP)**: First released by Prime Minister Narendra Modi in **June 2016**; India became one of the first countries in the world to align its national disaster framework directly with the Sendai Framework 2015–2030.
+48. **National Disaster Response Force (NDRF)**: Constituted under Section 44 of the DM Act, 2005; dedicated federal disaster response force organized into **16 operational battalions** requisitioned from paramilitary forces (BSF, CISF, CRPF, ITBP, SSB, Assam Rifles).
+49. **Indian Tsunami Early Warning Centre (ITEWC)**: Established in **October 2007** at the **Indian National Centre for Ocean Information Services (INCOIS) in Hyderabad** (Ministry of Earth Sciences); operates real-time BBO ocean bottom pressure recorders and tide gauges to issue tsunami advisories within 10 minutes of an oceanic earthquake.
+50. **Kosi River Avulsions (Sorrow of Bihar)**: The **Kosi River** is an antecedent Himalayan transboundary river notorious for shifting its course over **150 km westward** during the past 250 years through dynamic sediment clogging, braiding, and sudden catastrophic embankment avulsions (e.g. Kushaha breach in August 2008).
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INDIAN DISASTER MANAGEMENT & POLICY MILESTONES
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1999] ───> ODISHA SUPER CYCLONE (29 October 1999):
+  │           Category 5 storm (~260 km/h winds); >10,000 deaths; triggered modern institutional overhaul.
+  │
+  ▼
+  [2001] ───> BHUJ EARTHQUAKE (26 January 2001):
+  │           M7.7 intraplate earthquake in Kutch, Gujarat; prompted strict revision of BIS seismic codes.
+  │
+  ▼
+  [2004] ───> INDIAN OCEAN MEGATHRUST TSUNAMI (26 December 2004):
+  │           M9.1 Sumatra earthquake; killed >230,000 across 14 countries including Tamil Nadu and A&N.
+  │
+  ▼
+  [2005] ───> DISASTER MANAGEMENT ACT, 2005 ENACTED:
+  │           Established statutory 3-tier structure: NDMA (Prime Minister), SDMA (Chief Minister), DDMA (DM).
+  │
+  ▼
+  [2006] ───> NATIONAL DISASTER RESPONSE FORCE (NDRF) RAISED:
+  │           Specialized multi-disciplinary search and rescue paramilitary battalions.
+  │
+  ▼
+  [2007] ───> INDIAN TSUNAMI EARLY WARNING CENTRE (ITEWC) OPERATIONALIZED at INCOIS, Hyderabad.
+  │
+  ▼
+  [2015] ───> SENDAI FRAMEWORK FOR DISASTER RISK REDUCTION (2015–2030) adopted at Sendai, Japan.
+  │
+  ▼
+  [2016] ───> NATIONAL DISASTER MANAGEMENT PLAN (NDMP) RELEASED by Government of India.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Seismic Zonation of India (BIS IS 1893:2002 Master Table)
+
+| Seismic Zone | Damage Risk Level | Zone Factor ($Z$) | Peak Ground Acceleration (PGA) | Geographical Regions / Major Indian Cities Included |
+|---|---|---|---|---|
+| **Zone V** | **Very High Damage Risk** (MSK IX or greater) | **0.36** | Expects highest seismic ground shaking | **Kashmir**, Western & Central Himalayas, **North-East India** (all 8 states), **Rann of Kutch (Gujarat)**, Northern Bihar, **Andaman & Nicobar Islands**;<br>*Major Cities:* **Srinagar, Guwahati, Tezpur, Bhuj, Port Blair** |
+| **Zone IV** | **High Damage Risk** (MSK VIII) | **0.24** | High seismic vulnerability | Remaining Himalayan belt, parts of Punjab, Haryana, **Indo-Gangetic Plain (UP, Bihar)**, **Delhi-NCR**, parts of Maharashtra (Koyna/Patan);<br>*Major Cities:* **Delhi, Patna, Dehradun, Jammu, Meerut, Shimla, Roorkee** |
+| **Zone III** | **Moderate Damage Risk** (MSK VII) | **0.16** | Moderate ground shaking | Western Ghats, central peninsular India, southern Bihar, coastal plains of Odisha, AP, Tamil Nadu;<br>*Major Cities:* **Mumbai, Kolkata, Chennai, Ahmedabad, Lucknow, Kanpur, Varanasi, Indore** |
+| **Zone II** | **Low Damage Risk** (MSK VI or less) | **0.10** | Lowest expected seismic activity | Stable peninsular craton (Deccan plateau, parts of Rajasthan, MP, Karnataka, Telangana);<br>*Major Cities:* **Hyderabad, Bengaluru, Nagpur, Raipur, Jaipur** |
+| *(Note)* | **Zone I** | — | — | **Zone I was completely merged into Zone II in 2002; there is NO Zone I in India!** |
+
+### 2. Institutional Framework of Disaster Management in India
+
+| Level | Statutory Body | Statutory Head / Chairperson | Executive Role & Responsibility |
+|---|---|---|---|
+| **National Level** | **National Disaster Management Authority (NDMA)** | **Prime Minister of India** | Lays down national disaster policies, plans, and guidelines; oversees NDRF |
+| **National Executive** | **National Executive Committee (NEC)** | **Union Home Secretary** | Coordinates and monitors implementation of NDMA policies across ministries |
+| **State Level** | **State Disaster Management Authority (SDMA)** | **Chief Minister of the State** | Approves State Disaster Management Plans; directs state relief machinery |
+| **District Level** | **District Disaster Management Authority (DDMA)** | **District Magistrate / Collector / Deputy Commissioner** (Co-chaired by Zilla Parishad President) | Core implementing agency at ground level; mobilizes local resources during crises |
+| **Local Level** | **Panchayats / Urban Local Bodies (ULBs)** | Elected Representatives | Grassroots community disaster response and first responder mobilization |
+| **Specialized Force** | **National Disaster Response Force (NDRF)** | Director General (DG, IPS rank) | 16 dedicated specialized search-and-rescue battalions strategically pre-positioned |
+| **Training Apex** | **National Institute of Disaster Management (NIDM)** | Union Home Minister (President) | Capacity building, training, research, and documentation on disaster management |
+
+### 3. Tropical Cyclones in the Indian Seas: Bay of Bengal vs Arabian Sea
+
+| Feature / Metric | Bay of Bengal Cyclones | Arabian Sea Cyclones |
+|---|---|---|
+| **Frequency Ratio** | **~4 : 1** (Accounts for ~80% of all North Indian Ocean cyclones) | Accounts for ~20% of North Indian Ocean cyclones |
+| **Peak Seasons** | **Pre-monsoon (April–May)** and **Post-monsoon (October–November)** | Pre-monsoon (May–June) and Post-monsoon (October–November) |
+| **Sea Surface Temperature (SST)** | Warmer (>28°C); shallower oceanic mixed layer; high salinity stratification | Relatively cooler; higher salinity; stronger ocean upwelling |
+| **Freshwater Runoff Effect** | Massive freshwater discharge from Ganga, Brahmaputra, Irrawaddy keeps surface water warm and buoyant, fueling convection | Scanty river discharge prevents strong surface thermal stratification |
+| **Landfall Impacts** | Low-gradient delta coasts and shallow bathymetry generate **devastating storm surges** (Odisha, WB, AP, Bangladesh) | Steeper bathymetry generally dissipates storm surge energy (Gujarat, Maharashtra) |
+| **Naming Authority** | **RSMC New Delhi** (IMD) from a pre-determined sequential list submitted by **13 member nations** | Named from the same common panel registry |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Seismic Zone V** | **Seismic Zone IV** | **Very High Damage Risk** (Zone Factor 0.36; Kutch, NE India, Kashmir, A&N) vs **High Damage Risk** (Zone Factor 0.24; Delhi-NCR, Northern Plains, remaining Himalayas) | भूकंपीय जोन V (अति उच्च जोखिम) / जोन IV (उच्च) |
+| **Seismic Zone I** | **Seismic Zone II** | **Zone I NO LONGER EXISTS** in India (merged into Zone II in 2002) vs **Zone II** is the lowest risk seismic category currently active in India | जोन I (समाप्त) / जोन II (न्यूनतम जोखिम) |
+| **NDMA Chairperson** | **SDMA Chairperson** | Chaired by the **Prime Minister of India** vs Chaired by the **Chief Minister of the State** | एनडीएमए (प्रधानमंत्री) / एसडीएमए (मुख्यमंत्री) |
+| **DDMA Chairperson** | **NEC Chairperson** | Co-chaired by the **District Magistrate / Collector** vs Chaired by the **Union Home Secretary** | डीडीएमए (जिलाधिकारी) / एनईसी (गृह सचिव) |
+| **Eye of Cyclone** | **Eye Wall of Cyclone** | Central, circular area of **calm winds, descending air, clear skies, and lowest barometric pressure** vs Surrounding vertical ring of towering cumulonimbus clouds with **most destructive, ferocious winds and torrential rains** | चक्रवात की आंख (शांत केंद्र) / आंख की दीवार (विनाशकारी परिधि) |
+| **Tsunami** | **Tidal Wave** | High-energy seismic ocean wave generated by **undersea tectonic earthquakes, volcanic eruptions, or landslides** vs Periodic rise and fall of coastal sea levels caused by **gravitational pull of Moon and Sun** | सुनामी (भूकंपीय तरंग) / ज्वारीय तरंग |
+| **Sendai Framework** | **Hyogo Framework** | Current global disaster reduction framework (**2015–2030**; 4 priorities, 7 targets) vs Preceding 10-year global framework (**2005–2015**) | सेंडाई फ्रेमवर्क (2015–2030) / ह्योगो फ्रेमवर्क |
+| **ITEWC (INCOIS)** | **NIDM** | Indian Tsunami Early Warning Centre at **Hyderabad** (ocean monitoring) vs National Institute of Disaster Management at **New Delhi** (training/policy) | सुनामी चेतावनी केंद्र (हैदराबाद) / एनआईडीएम (नई दिल्ली) |
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Mar 2026** | BIS **IS 1893:2025 / Zone VI withdrawn** | Do **not** replace II–V in the hall | The Hindu / BIS |
-| **2015–30** | Sendai Framework | Successor of Hyogo | UNDRR |
-| **2019** | **CDRI** launched by India | Infrastructure + DRR | MEA / NDMA |
-| **2016 / 2019** | NDMP issued / revised | First Sendai-aligned national plan | NDMA |
-| **2023** | Joshimath subsidence; Sikkim GLOF | Landslide / flood CA | NDMA / news |
-| **2021** | Tauktae (Arabian Sea → Gujarat) | “Arabian Sea never hits west coast” trap | IMD |
-| **2020** | Amphan (BoB → WB/Odisha) | Super cyclone east coast | IMD |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Disaster Management Institutional Hierarchy:
+- **National Level** → **PM** (Prime Minister leads NDMA)
+- **State Level** → **CM** (Chief Minister leads SDMA)
+- **District Level** → **DM** (District Magistrate leads DDMA)
+- *(Mnemonic: **PM → CM → DM**)*
 
-### Confused pairs
+### 2. India's Active Seismic Zones: **II, III, IV, V ONLY**
+- There is **NO ZONE I**!
+- If an exam option says "Zone I is in the Deccan", mark it **FALSE** immediately!
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Focus vs epicentre | Focus = **inside**; epicentre = **surface** | Swapped | उद्गम / अधिकेन्द्र |
-| Body vs surface waves | Body = through Earth (**P, S**); surface = along ground (**Love, Rayleigh**) | Treating all as one family | शरीर तरंग / पृष्ठ तरंग |
-| P-wave vs S-wave | **P** = fastest, solids+liquids+gases; **S** = slower, **solids only** | S through outer core | प्राथमिक / द्वितीयक |
-| P shadow vs S shadow | P miss ~**103–142°**; S absent beyond ~**103°** | Same belt for both / both recorded past 105° | छाया क्षेत्र |
-| Richter vs Mercalli | Magnitude vs **intensity/damage** | Same scale | रिक्टर / मर्कली |
-| Zone V vs II | V = **highest** (NE, Himalaya, Kutch, A&N) | V = safest | क्षेत्र V |
-| Latur 1993 | **Peninsular** / Killari (Zone III) | “Only Himalaya shakes” | लातूर |
-| Koyna 1967 | **Reservoir-induced** | Pure Himalayan thrust | कोयना |
-| Rajasthan / Deccan | Mostly **II–III** | All India Zone V | |
-| Tsunami | **Seafloor slip** / landslide / volcano — Japanese harbour wave | Wind-raised waves / “tidal wave” | सुनामी |
-| INCOIS | Tsunami warning — **Hyderabad** (MoES) | NDMA HQ / IMD Pune as the tsunami hub | INCOIS |
-| Kilimanjaro | **E. African Rift** — not Ring of Fire | Fuji/Pinatubo/St Helens are | किलिमंजारो |
-| Cloudburst | **≥100 mm in one hour** | Any heavy rain | बादल फटना |
-| Heat wave plains | Gate **≥40°C** then +4.5°C | Any hot afternoon | लू / ऊष्मा तरंग |
-| BoB vs Arabian | **BoB more** cyclones | Equal / Arabian more | बंगाल की खाड़ी |
-| Baguio | **Philippines** | Japan / USA | बागिओ |
-| Willy-willies | **Australia** | USA | विली-विली |
-| NDMA chair | **Prime Minister** | Home Minister | प्रधानमंत्री |
-| SDMA chair | **Chief Minister** | Governor | मुख्यमंत्री |
-| Sendai vs Hyogo | **2015–30** vs 2005–15 | Yokohama 2015 | सेंडाई |
-| DPAP year | **1973–74** | 1952 (that is CDP) | DPAP |
-| Hazard vs disaster | Hazard = potential; disaster = when capacity fails | Same word | आपदा ≠ संकट बीज |
-| Mitigation vs response | Before impact vs during/after | Swap | न्यूनीकरण ≠ अनुक्रिया |
-| NPDM year | **2009** | 2005 (that is DM Act) | 2009 नीति |
-| Chemical / industrial | **Bhopal 1984** man-made | “Natural only India” | भोपाल |
-| GLOF vs ordinary flood | Glacial-lake outburst (e.g. **Sikkim 2023**) | Any river monsoon rise | GLOF |
-| Joshimath vs Kedarnath | Joshimath **2023** = subsidence; Kedarnath **2013** = rain–debris–flood | Same mechanism | जोशीमठ / केदारनाथ |
-| Heat gate vs hot day | Plains need **Tmax ≥40°C** then departure/actual cut | Any afternoon above 35°C | ऊष्मा तरंग |
-| BoB peak months | **May–Jun** and **Oct–Dec** | Mid-monsoon as the only peak | चक्रवात ऋतु |
-| NDRF year | Raised **2006** (MHA) | 2005 = DM Act only | NDRF |
-| NEC chair | **Union Home Secretary** | Home Minister / PM | NEC |
+### 3. Tropical Cyclone Anatomy:
+- **Center / Core** = **The Eye** (Warm, calm, sunny, lowest pressure)
+- **Perimeter Ring** = **The Eye Wall** (Strongest winds, torrential rain, max damage)
 
+### 4. Tsunami Center Location Lock:
+- **INCOIS** = **Hyderabad** (Indian Tsunami Early Warning Centre)
+- *(Not Chennai, not Delhi!)*
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -490,4 +551,3 @@ D. Mangroves — reduce storm-surge impact
 **Logic:** Hurricane is the USA/Atlantic regional name.
 
 </details>
-

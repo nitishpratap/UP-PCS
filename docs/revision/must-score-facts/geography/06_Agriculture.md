@@ -7,9 +7,17 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 6 — Agriculture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2024** | **International Year of Millets (IYM 2023)** celebrated globally on India's initiative; millets branded as **"Shree Anna"**; Indian Institute of Millets Research (IIMR, Hyderabad) declared Global Centre of Excellence | Nutrition security, coarse grains promotion & institutional centers |
+| **Ongoing** | **Minimum Support Price (MSP)** fixed by CCEA on recommendations of **CACP** for **22 mandated crops** (14 Kharif + 6 Rabi + 2 Commercial: Jute & Copra) + **Fair & Remunerative Price (FRP)** for Sugarcane | CACP mandate vs CCEA decision; MSP formula trap (A2+FL at 1.5x vs C2) |
+| **2019–2026** | **PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)**: 100% Central scheme providing **₹6,000 per year** in 3 equal four-monthly installments of ₹2,000 directly to farmers' bank accounts | Universal income support to all landholding farmer families |
+| **2016–2026** | **Pradhan Mantri Fasal Bima Yojana (PMFBY)**: Uniform maximum premium payable by farmers: **2.0% for Kharif crops**, **1.5% for Rabi crops**, and **5.0% for annual commercial/horticultural crops** | Exact premium percentage thresholds frequently tested in PCS |
+| **2021–2026** | **National Mission on Edible Oils – Oil Palm (NMEO-OP)**: ₹11,040 cr outlay focusing on **North-East region and Andaman & Nicobar Islands** to reduce palm oil import dependency | Import substitution & agro-climatic regional targets |
+| **2023–2025** | Commercial rollout of **Nano Urea and Nano DAP** developed indigenously by IFFCO; reduces chemical fertilizer runoff and government fertilizer subsidy burden | Fertilizer innovation, soil health & agronomic efficiency |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -67,67 +75,181 @@ hide:
 
 ---
 
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INDIAN AGRICULTURAL POLICY & PRODUCTION MILESTONES (1950 - PRESENT)
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1950-1955] ──> FIRST FIVE YEAR PLAN & LAND REFORMS:
+  │               Abolition of Zamindari and intermediary tenures; ceiling on land holdings; tenancy reforms.
+  │
+  ▼
+  [1960-1961] ──> INTENSIVE AGRICULTURAL DISTRICT PROGRAMME (IADP):
+  │               "Package programme" launched across 7 selected districts to maximize food output.
+  │
+  ▼
+  [1965] ───────> AGRICULTURAL PRICES COMMISSION (now CACP) ESTABLISHED:
+  │               Tasked with advising government on agricultural price policies and MSP.
+  │
+  ▼
+  [1966-1967] ──> FIRST GREEN REVOLUTION (प्रथम हरित क्रांति):
+  │               Introduction of High Yielding Variety (HYV) dwarf seeds of Mexican wheat (Norman Borlaug)
+  │               and IR-8 rice; championed by C. Subramaniam and Dr. M. S. Swaminathan;
+  │               concentrated in Punjab, Haryana, and Western Uttar Pradesh.
+  │
+  ▼
+  [1970] ───────> OPERATION FLOOD / WHITE REVOLUTION (श्वेत क्रांति):
+  │               Launched by National Dairy Development Board (NDDB) under Dr. Verghese Kurien (Anand pattern);
+  │               transformed India into world's largest milk producer.
+  │
+  ▼
+  [1983-1985] ──> SECOND GREEN REVOLUTION & TECHNOLOGY MISSIONS:
+  │               Extension of input technologies to Eastern India (BGREI) and Technology Mission on Oilseeds (1986).
+  │
+  ▼
+  [1998] ───────> KISAN CREDIT CARD (KCC) SCHEME INTRODUCED:
+  │               Model scheme designed by NABARD on R. V. Gupta Committee recommendations.
+  │
+  ▼
+  [2015-2016] ──> PRADHAN MANTRI KRISHI SINCHAYEE YOJANA (PMKSY) & PMFBY:
+  │               "Har Khet Ko Pani" and "Per Drop More Crop"; integrated crop insurance scheme.
+  │
+  ▼
+  [2016] ───────> e-NAM (National Agriculture Market):
+  │               Pan-India electronic trading portal networking existing APMC mandis.
+  │
+  ▼
+  [2019] ───────> PM-KISAN (₹6,000/year income support) launched from Gorakhpur, UP.
+  │
+  ▼
+  [2023] ───────> INTERNATIONAL YEAR OF MILLETS (IYM / Shree Anna):
+  │               Global promotion of climate-resilient, nutrient-rich coarse cereals.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Major Crops of India: Climatic Requirements & Top Producing States
+
+| Crop | Crop Type & Season | Temperature | Rainfall | Ideal Soil Type | Top 3 Producing States | High-Yield Prelims Exam Fact |
+|---|---|---|---|---|---|---|
+| **Rice (धान)** | Kharif cereal | 22°C – 32°C (warm & humid) | 100 – 200 cm (flooded fields) | Deep clayey / silty alluvial loam | **1. West Bengal**<br>2. Uttar Pradesh<br>3. Punjab | Largest cropped area in India (~47 Mha); **Punjab leads in yield (kg/ha)**; Aus, Aman, Boro cropping seasons in Bengal |
+| **Wheat (गेहूं)** | Rabi cereal | 10°C–15°C (sowing), 20°C–25°C (ripening) | 50 – 75 cm (needs winter WD rain) | Well-drained fertile loamy alluvium | **1. Uttar Pradesh** (~32%)<br>2. Madhya Pradesh<br>3. Punjab | Second most important foodgrain; Green Revolution's primary beneficiary; **Punjab has highest per hectare yield** |
+| **Maize (मक्का)** | Kharif / Year-round | 21°C – 27°C | 50 – 100 cm | Old alluvium (Bhangar) with good drainage | **1. Karnataka**<br>2. Madhya Pradesh<br>3. Maharashtra | Used as food, feed, and industrial starch/biofuel; grown as Rabi crop in Bihar (high yield) |
+| **Gram / Chickpea (चना)** | Rabi pulse | 20°C – 25°C | 40 – 50 cm (dry light rain) | Well-drained sandy loam / black soil | **1. Madhya Pradesh**<br>2. Maharashtra<br>3. Rajasthan | Most important pulse crop of India (~45% of total pulses); nitrogen-fixing leguminous crop |
+| **Sugarcane (गन्ना)** | Perennial cash crop (10–15 months) | 21°C – 27°C (hot & humid) | 75 – 100 cm | Deep rich loamy soil | **1. Uttar Pradesh**<br>2. Maharashtra<br>3. Karnataka | UP leads in area, production & number of sugar mills; **Maharashtra has higher sucrose content / recovery rate** due to maritime climate |
+| **Cotton (कपास)** | Kharif fibre ("White Gold") | 21°C – 30°C; **210 frost-free days** | 50 – 100 cm (dry sunny picking) | **Black soil (Regur)** / deep alluvium | **1. Gujarat**<br>2. Maharashtra<br>3. Telangana | Genetically modified Bt Cotton occupies >90% area; Long-staple cotton imported from Egypt/USA |
+| **Jute (जूट)** | Kharif fibre ("Golden Fibre") | 24°C – 35°C (very humid) | 150 – 200 cm | Floodplain alluvium (renewed annually) | **1. West Bengal** (>75%)<br>2. Bihar<br>3. Assam | Requires standing clean water for **retting**; concentrated in Ganga–Brahmaputra delta |
+| **Tea (चाय)** | Plantation beverage | 20°C – 30°C (frost-free) | 150 – 250 cm (well-distributed) | Deep acidic loam rich in humus; **well-drained slopes** | **1. Assam** (>50%)<br>2. West Bengal (Darjeeling)<br>3. Tamil Nadu | Cannot tolerate stagnant water; Darjeeling tea was **India's first GI Tag (2004–05)** |
+| **Coffee (कॉफ़ी)** | Plantation beverage | 15°C – 28°C (shade grown) | 150 – 200 cm | Humus-rich volcanic / red loamy soils on hill slopes | **1. Karnataka** (~70%)<br>2. Kerala<br>3. Tamil Nadu | Baba Budan Hills first brought coffee to India; two species: *Arabica* (mild, aromatic) & *Robusta* (strong, hardy) |
+| **Soybean (सोयाबीन)** | Kharif oilseed & protein | 20°C – 30°C | 60 – 80 cm | Fertile well-drained loams / black soils | **1. Maharashtra / MP**<br>2. Madhya Pradesh<br>3. Rajasthan | MP is traditionally known as the **"Soybean State"** (*Soya Pradesh*); richest source of plant protein (~40%) |
+
+### 2. Major Agricultural Revolutions in India
+
+| Revolution | Agricultural Sector / Commodity | Key Pioneer / National Leadership | Exam Significance & Distinctions |
+|---|---|---|---|
+| **Green Revolution** (हरित क्रांति) | Foodgrains (Wheat and Rice) | Dr. M. S. Swaminathan (India); Norman Borlaug (World) | High Yielding Varieties (HYV), chemical fertilizers, tube-well irrigation |
+| **White Revolution** (श्वेत क्रांति) | Milk & Dairy products | Dr. Verghese Kurien ("Milkman of India") | Operation Flood (1970); AMUL dairy cooperative model |
+| **Yellow Revolution** (पीली क्रांति) | Oilseeds (Mustard, Groundnut, Soybean) | Sam Pitroda (Technology Mission on Oilseeds, 1986) | Aims at achieving self-sufficiency in edible oils |
+| **Blue Revolution** (नीली क्रांति) | Fish & Marine aquaculture | Dr. Hiralal Chaudhuri & Dr. Arun Krishnan | Pradhan Mantri Matsya Sampada Yojana (PMMSY) |
+| **Golden Revolution** (स्वर्ण क्रांति) | Horticulture, Honey & Fruits | Nirpakh Tutej | National Horticulture Mission; India 2nd in fruits & vegetables |
+| **Golden Fibre Revolution** | Jute cultivation | — | Do not confuse with Golden Revolution (Horticulture/Honey) |
+| **Silver Revolution** (रजत क्रांति) | Eggs & Poultry production | Indira Gandhi (initiative era) | Modernized commercial layer poultry farming |
+| **Silver Fibre Revolution** | Cotton cultivation | — | Distinguish from Silver Revolution (Eggs) |
+| **Red Revolution** (लाल क्रांति) | Tomato and Meat production | Vishal Tewari | Focus on cold chains and processing |
+| **Pink Revolution** (गुलाबी क्रांति) | Onion, Prawns & Pharmaceuticals | Durgesh Patel | Prawn export from coastal aquaculture |
+| **Round Revolution** (गोल क्रांति) | Potato cultivation | CPRI Shimla leadership | Central Potato Research Institute (CPRI), Shimla |
+| **Grey Revolution** (धूसर क्रांति) | Chemical Fertilizers | — | Fertilizer subsidy, NPK balance promotion |
+| **Black Revolution** (कृष्ण क्रांति) | Petroleum / Bio-fuels / Ethanol | — | Ethanol blending in petrol (E20 target) |
+| **Evergreen Revolution** | Sustainable / Ecological Agriculture | Dr. M. S. Swaminathan | Enhancing productivity without ecological harm |
+
+### 3. Shifting Cultivation (Jhum) Names Across India & World
+
+| Local Name | Region / State (India) | Local Name | Country / World Region |
+|---|---|---|---|
+| **Jhum (झूम)** | North-Eastern States (Assam, Meghalaya, Nagaland) | **Milpa** | Mexico & Central America |
+| **Podu / Penda** | Andhra Pradesh & Odisha | **Ladang** | Malaysia & Indonesia |
+| **Bewar / Dahiya** | Madhya Pradesh (Baiga tribe) | **Roca** | Brazil |
+| **Deepa** | Bastar district (Chhattisgarh) | **Chena** | Sri Lanka |
+| **Kuruwa / Khil** | Jharkhand / Himalayan belt | **Taungya** | Myanmar |
+| **Wal积极 / Waltre** | South-Eastern Rajasthan | **Humah** | Java (Indonesia) |
+| **Kumari** | Western Ghats (Kerala, Karnataka) | **Conuco** | Venezuela |
+| **Koman / Bringa** | Odisha | **Ray** | Vietnam |
+
+### 4. Premier ICAR Agricultural Research Institutes
+
+| Research Institute | Headquarters / Location | Exam Tag / Core Mandate |
+|---|---|---|
+| **Indian Agricultural Research Institute (IARI)** | Pusa, New Delhi | Apex national institute for agricultural research & education |
+| **Central Rice Research Institute (NRRI / CRRI)** | **Cuttack, Odisha** | Established 1946; developer of high-yielding rice cultivars |
+| **Indian Institute of Vegetable Research (IIVR)** | **Varanasi, Uttar Pradesh** | Premier institute for vegetable improvement and seed tech |
+| **Indian Institute of Sugarcane Research (IISR)** | **Lucknow, Uttar Pradesh** | Sugarcane agronomy and mechanization |
+| **Sugarcane Breeding Institute (SBI)** | **Coimbatore, Tamil Nadu** | Established 1912; breeds sugarcane parent varieties for all India |
+| **Central Potato Research Institute (CPRI)** | **Shimla, Himachal Pradesh** | High-altitude disease-free seed potato technologies |
+| **Central Tobacco Research Institute (CTRI)** | **Rajahmundry, Andhra Pradesh** | Flue-cured Virginia (FCV) tobacco research |
+| **Central Arid Zone Research Institute (CAZRI)** | **Jodhpur, Rajasthan** | Desertification control and arid zone agriculture |
+| **Indian Institute of Pulses Research (IIPR)** | **Kanpur, Uttar Pradesh** | Pulse crop improvement and breeder seed production |
+| **National Dairy Research Institute (NDRI)** | **Karnal, Haryana** | Premier national institute for dairy science and cattle cloning |
+| **Central Institute for Cotton Research (CICR)** | **Nagpur, Maharashtra** | Cotton improvement, Bt technology evaluation |
+| **Indian Grassland & Fodder Research Institute (IGFRI)** | **Jhansi, Uttar Pradesh** | Fodder crops and grassland management |
+
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Kharif Season** | **Rabi Season** | Sown with onset of monsoon (**June–July**), harvested **Sept–Oct** (Rice, Maize, Cotton, Groundnut) vs Sown with onset of winter (**Oct–Nov**), harvested **March–April** (Wheat, Barley, Gram, Mustard) | खरीफ / रबी मौसम |
+| **Zaid Season** | **Kharif Season** | Short summer cropping season (**March–June**) between Rabi harvest and Kharif sowing; grown under irrigation (Watermelon, Cucumber, Fodder) vs Main rainy season monsoon crop | जायद / खरीफ |
+| **Golden Revolution** | **Golden Fibre Revolution** | Enhancement of **Horticulture, Honey, and Fruit** production vs Enhancement of **Jute fibre** production | स्वर्ण क्रांति / स्वर्ण रेशा क्रांति |
+| **Yellow Revolution** | **Black Revolution** | Enhancement of **Oilseeds** production (Mustard, Sunflower) vs Enhancement of **Petroleum / Bio-fuels / Ethanol** production | पीली क्रांति / कृष्ण क्रांति |
+| **IISR (Lucknow)** | **SBI (Coimbatore)** | Indian Institute of **Sugarcane Research** (agronomy & farm machinery, UP) vs **Sugarcane Breeding Institute** (breeding and genetic variety development, Tamil Nadu) | उप्र गन्ना अनुसंधान / कोयंबटूर प्रजनन |
+| **Wheat Producer #1** | **Wheat Yield #1** | **Uttar Pradesh** produces highest aggregate wheat quantity (~32% of India) vs **Punjab** has highest per hectare yield (kg/ha) due to 100% canal/tubewell irrigation | गेहूं उत्पादन / उत्पादकता |
+| **Rice Producer #1** | **Rice Yield #1** | **West Bengal** produces highest aggregate rice output vs **Punjab** records highest yield per hectare (kg/ha) | चावल उत्पादन / उत्पादकता |
+| **Sugarcane Area #1** | **Sugar Recovery #1** | **Uttar Pradesh** leads in sugarcane area, production and number of operating mills vs **Maharashtra** leads in sugar recovery percentage due to cool coastal crushing season | गन्ना क्षेत्रफल / चीनी परता |
+| **Aus, Aman, Boro** | **Seasons of Rice** | **Aman (winter rice, sown Jun–Jul, harvested Nov–Dec)** accounts for ~85% of Bengal's rice; **Aus (autumn rice, sown Mar–Apr)**; **Boro (summer rice, sown Nov–Dec)** | आउस, अमन, बोरो धान |
+| **Arabica Coffee** | **Robusta Coffee** | High-quality, mild aroma, grown at higher altitudes (1,000–1,500 m), susceptible to leaf rust vs High caffeine, stronger body, grown at lower altitudes (500–1,000 m), disease-resistant; Karnataka leads both | अरेबिका / रोबस्टा कॉफ़ी |
+| **Jhum Cultivation** | **Podu Cultivation** | Slash-and-burn shifting cultivation in **North-East India** vs Slash-and-burn shifting cultivation in **Andhra Pradesh and Odisha** | झूम / पोडू खेती |
+| **C2 Cost** | **A2+FL Cost** | Comprehensive cost including imputed rent of owned land and interest on owned capital vs Actual paid-out costs + imputed value of family labour (CACP calculates MSP at minimum 1.5x of A2+FL) | C2 लागत / A2+FL लागत |
+| **Milpa** | **Ladang** | Shifting cultivation in **Mexico and Central America** vs Shifting cultivation in **Malaysia and Indonesia** | मिल्पा / लदांग |
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **May 2026** | CCEA raised MSP for **14 Kharif (खरीफ)** crops, MS 2026–27; common paddy **₹2,441/q** (+₹72); Grade A ₹2,461 | Latest paddy MSP figure | PIB / CCEA |
-| Static rule | MSP for **22 mandated crops**; CACP recommends, Cabinet decides; target **≥1.5×** all-India cost (Budget 2018–19) | Institution > old rupees | PIB |
-| 2025–26 Kharif | Highest MSP hike then: nigerseed, ragi, cotton, sesamum; extra push pulses/oilseeds/**Shree Anna** | Diversification narrative | PIB |
-| Ongoing | **PM-AASHA** (PSS via NAFED/NCCF); **e-NAM**; **PM-KISAN**; **PMFBY** | Scheme names | DA&FW |
-| 2025 | Delhi **bio-decomposer** (fungal mix, free) for stubble | Free fungal mix for stubble-to-manure | PYQ / GNCTD |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. High-Yield Rabi Crops: **W-B-G-M-P-L**
+- **W**heat
+- **B**arley
+- **G**ram (Chickpea)
+- **M**ustard
+- **P**eas
+- **L**inseed
+- *(Mnemonic: **W**inter **B**rings **G**ood **M**orning **P**leasant **L**ife)*
 
-### Confused pairs
+### 2. High-Yield Kharif Crops: **R-M-C-J-S-G**
+- **R**ice
+- **M**aize
+- **C**otton
+- **J**ute
+- **S**oybean / Sugarcane
+- **G**roundnut
+- *(Mnemonic: **R**ainy **M**onsoon **C**auses **J**oyous **S**prouting **G**reens)*
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Kharif vs rabi | Wheat = **rabi**; cotton/rice = **kharif** | Wheat kharif / cotton rabi | गेहूँ रबी; कपास खरीफ |
-| NSA vs GCA | Intensity = **GCA/NSA × 100** | Invert the ratio | सकल/शुद्ध |
-| MSP vs FRP | Cereals/oilseeds/pulses = MSP; cane = **FRP** | Call cane MSP | गन्ना = FRP |
-| CACP vs Cabinet | CACP **recommends**; Cabinet **decides** | RBI/NITI recommends | सीएसीपी सिफारिश |
-| Swaminathan vs Kurien | Swaminathan = GR; Kurien = **milk** | Swap | कुरियन = दूध |
-| Borlaug Nobel | **Peace** | Agriculture | शांति नोबेल |
-| Yellow vs Golden | Yellow = **oilseeds**; Golden = **horti + honey** | Swap | पीला = तिलहन |
-| Grey vs Black | Grey = fertiliser; Black = petroleum | Swap | ग्रे = उर्वरक |
-| UP vs MH cane | UP **quantity**; MH **productivity** | Coops explain UP yield (they don’t) | UP मात्रा; MH उत्पादकता |
-| WB vs UP jute | Jute = **WB** | UP–Jute | जूट = बंगाल |
-| Kerala rubber vs GJ tea | KL–Rubber **correct**; GJ–Tea / Assam–Wheat **wrong** | Pick GJ tea | रबर = केरल |
-| Ahmedabad vs Mumbai | Ahmedabad in cotton **region**; largest mill centre traditionally **Mumbai** | Ahmedabad = largest centre | कपड़ा केंद्र = मुंबई |
-| Potato CIP | **Agra (Singna)** | Aligarh | आलू केंद्र = आगरा |
-| Sultana / Gulabi / Kali Champa vs grapes | These three names are **guava** varieties | Pick grapes because Sultana is also a grape name | अमरूद ≠ अंगूर |
-| Azolla vs pesticide | Azolla = **biofertiliser** in rice | Insecticide | एजोला = जैव उर्वरक |
-| 15 vs 127 vs 20 | ACZ **15** / NARP **~127** / AER **~20** | Mix counts | 15 कृषि-जलवायु |
-| Sen vs Swaminathan | Food **entitlements** = Amartya Sen | Swaminathan | सेन = एंटाइटलमेंट |
-| Two wheat belts | Ganga–Satluj plains + Deccan black soil | Assam as wheat belt | दो गेहूँ पेटियाँ |
-| White gold vs golden fibre | Cotton = white gold; jute = golden fibre | Swap nicknames | सफेद सोना / सुनहरा रेशा |
-| White vs tossa jute | White = *capsularis* (flood-tolerant); tossa = *olitorius* (upland, better fibre) | Swap flood / upland | सफेद / टोसा जूट |
-| Cotton species vs staple | Four species (*arboreum / herbaceum / hirsutum / barbadense*); *hirsutum* = bulk; ELS = *barbadense* | “India grows only short staple” | चार प्रजाति; ELS कम |
-| Sikkim organic | Sikkim = first fully organic state | Call any NE state first | सिक्किम जैविक |
-| Rice rank | Textbook **#2 after China**; 2024–25 GoI **#1 claim** | Mixing the usual rank with the 2025 headline | रैंक अलग रखें |
-| WB rice vs PB yield | WB often **volume** leader; Punjab **yield** leader | Punjab = largest producer always | बंगाल मात्रा; पंजाब उपज |
-| DSR vs transplant | DSR = seed in field, less water; transplant = nursery + puddle | DSR needs more standing water | डीएसआर = कम पानी |
-| Ratoon vs rotation | Ratoon = cane from **stubble**; rotation = change the crop | Call wheat a ratoon crop | रैटून = गन्ना |
-| Mixed vs double vs inter | Mixed = crops+livestock; Double = two crops/year; Inter = same-time rows | Swap definitions | मिश्रित ≠ डबल |
-| Parallel cropping | Wheat + mustard | Potato + rice as parallel | समान्तर = गेहूँ+सरसों |
-| 15 ACZ vs 20 AER | Planning ACZ **15**; NBSS AER **20**; Sengupta micro **60** | Swap 15/20 | 15 जलवायु; 20 पारिस्थितिक |
-| Pantnagar year | First agri uni **1960** (Nehru; later GBPUAT) | 1950 / 1970 | पंतनगर 1960 |
-| Randhawa vs Swaminathan | History of Indian Agriculture = **Randhawa** | Credit Swaminathan | रंधावा पुस्तक |
-| Agmark Act | **1937** grading mark | Call it co-op egg mark | एगमार्क 1937 |
-| Moisture 14% | FAO safe storage ≤ **14%** | 16 / 18 / 20% | नमी 14% |
-| Cowpea green manure | Highest N% among common options | Pick dhaincha only | लोबिया N% |
-| Fertigation phosphate | Avoid rock / super phosphate in fertigation | “All P fertilisers OK” | फर्टिगेशन P |
-| Coimbatore cane | Sugarcane Breeding Institute | Lucknow only | कोयंबटूर |
-| Pratappur mill | First sugar mill **1903** | Mawana / Balrampur first | प्रतापपुर |
-| Contract farming | Pioneer **Punjab** | Pick Haryana / TN | पंजाब अनुबंध |
+### 3. Coarse Cereals / *Shree Anna* Top States:
+- **Jowar (Sorghum)**: **Maharashtra** (#1) > Karnataka
+- **Bajra (Pearl Millet)**: **Rajasthan** (#1) > Uttar Pradesh
+- **Ragi (Finger Millet)**: **Karnataka** (#1) > Tamil Nadu
 
+### 4. Shifting Cultivation World Names:
+- **Milpa** → **M**exico (**M** for **M**)
+- **Roca** → B**ra**zil (sounds like Rio/Roca)
+- **Ladang** → Ma**la**ysia / Indonesia
+- **Chena** → Sri Lanka (**C**eylon = **Ch**ena)
+- **Taungya** → Myanmar
 
----
+### 5. UP Agricultural Ranks Lock:
+- **Rank 1 in India**: Total Foodgrains, Wheat, Sugarcane, Potato, Mango, Aonla (Pratapgarh), Guava, Milk.
+- **Rank 2 in India**: Rice (after West Bengal).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

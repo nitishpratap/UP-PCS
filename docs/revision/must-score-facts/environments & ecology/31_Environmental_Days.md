@@ -7,9 +7,20 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 31 — Environmental Days</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -21,34 +32,79 @@ hide:
 6. **International Day for Biological Diversity** falls on **22 May** and commemorates the CBD text adopted (अंगीकृत) at Nairobi in **1992**.
 7. **World Environment Day** falls on **5 June**. It marks the opening of the **Stockholm Conference (1972)** (स्टॉकहोम सम्मेलन) and is run by **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम).
 8. **World Ozone Day** falls on **16 September** and marks the **Montreal Protocol (मॉन्ट्रियल प्रोटोकॉल) (1987)** (मॉन्ट्रियल प्रोटोकॉल).
-9. **World Toilet Day = 19 November** (UN, from 2013). **World No Tobacco Day = 31 May** (not 5 May). **World Habitat (वास स्थान) Day** = first Monday of October (not a fixed 5 October).
-10. **Swachh Bharat Mission** launched **2 October 2014** (Gandhi (गांधी) Jayanti). Sierra Leone observes national cleanliness on the last Saturday of every month.
-11. **International Tiger Day** falls on **29 July** and marks the **St Petersburg Tiger Summit (2010)**. It is **not** World Wildlife Day (3 March).
-12. **World Environment Day (WED)** is the UN’s main annual day for environmental awareness (पर्यावरण जागरूकता) and action.
-13. **2022** also marked **50 years** since Stockholm 1972, which designated **5 June** as World Environment Day.
-14. **World Wetlands Day** marks adoption of the **Ramsar Convention on Wetlands** at Ramsar, Iran (**2 February 1971**).
-15. **Earth Day** promotes environmental protection, climate action, and sustainability every **22 April**.
-16. **International Day for Biological Diversity (IDB)** promotes biodiversity conservation awareness every **22 May**.
-17. **International Day of Forests** raises awareness of forests and sustainable forest management every **21 March**.
-18. **World Water Day** focuses on freshwater resources, access, and sustainable water management every **22 March**.
-19. **World Ozone Day** (International Day for the Preservation of the Ozone Layer) is observed every **16 September**.
-20. **World Wildlife Day** celebrates wild fauna and flora and fights wildlife crime every **3 March**.
-21. **Highest-yield trap:** listing Wildlife Day as **22 March** (that is Water Day) — wrong pair in **
-22. **International Tiger Day** is observed every **29 July**.
-23. **World Toilet Day = 19 November** (UNGA 2013; sanitation for all / end open defecation messaging).
-24. **World No Tobacco Day = 31 May** (WHO) — not 5 May. Themes rotate (e.g. tobacco–environment / grow food not tobacco).
-25. **World Habitat Day** = **first Monday of October** (UN; not a fixed calendar date like 5 October).
-26. **World Cities Day = 31 October**. **World Population Day = 11 July**. **World Health Day = 7 April**.
-27. **Earth Overshoot Day** marks when humanity’s annual demand exceeds Earth’s regenerative capacity — an environmental-degradation awareness marker (Global Footprint Network partnership framing).
-28. **Swachh Bharat Mission** launched **2 October 2014**. Sierra Leone’s national cleanliness day is the last Saturday of each month.
+9. In calendar order the eight syllabus days run **2 Feb → 3 Mar → 21 Mar → 22 Mar → 22 Apr → 22 May → 5 Jun → 16 Sep**.
+10. The March ladder is **Wildlife (3) → Forests (21) → Water (22)**. Never put Wildlife on 22 March.
+11. World Environment Day is **not** Earth Day and **not** Wetlands Day. The dates are **5 June**, **22 April**, and **2 February**.
+12. India hosted World Environment Day in **2011** (Forests theme) and **2018** (Beat Plastic Pollution).
+13. Biological Diversity Day shifted from an older **29 December** link to **22 May** from **2000**; papers use **22 May** only.
+14. World Water Day is coordinated under **UN-Water**. Wetlands Day is a **Ramsar** (रामसर) day, not a Water Day synonym.
+15. World Wildlife Day was proclaimed by the UN in **2013**, but the date itself is the **1973 CITES** anniversary.
+16. Ozone Day belongs to the **Montreal Protocol** (मॉन्ट्रियल प्रोटोकॉल) family. Do not date it as 2 October, 21 April, or 30 January.
+17. Earth Day is a civic global day. It is **not** the same UN treaty day as World Environment Day.
+18. Biodiversity Day is broader than Wildlife Day. Wildlife Day is fauna (प्राणीजात)–flora (वनस्पति) trade (पण्याध्यक्ष) and crime awareness under the CITES date.
+19. Van Mahotsav is a separate **July** plantation campaign in India. It is **not** International Day of Forests.
+20. Earth Hour (अर्थ आवर) (last Saturday of March, WWF (डब्ल्यूडब्ल्यूएफ)) is **not** on this syllabus day list and is not Earth Day.
+21. Uttar Pradesh (उत्तर प्रदेश) has **10** Ramsar sites — useful Wetlands Day geography, but the day itself stays **2 February**.
+22. A correct Ozone–WED pair is **16 September** and **5 June**. A Wildlife–**22 March** pair is always wrong.
+23. Stockholm **1972** anchors WED. Ramsar **1971** anchors Wetlands. Montreal **1987** anchors Ozone. CITES **1973** anchors Wildlife.
+24. Same-number traps: **22** March is Water, **22** April is Earth, **22** May is Biodiversity — three different months.
+25. **World Toilet Day = 19 November** (UN, from 2013). **World No Tobacco Day = 31 May** (not 5 May). **World Habitat (वास स्थान) Day** = first Monday of October (not a fixed 5 October).
+26. **Swachh Bharat Mission** launched **2 October 2014** (Gandhi (गांधी) Jayanti). Sierra Leone observes national cleanliness on the last Saturday of every month.
+27. Earth Day theme teaching: **2024 = Planet vs. Plastics**. WED **2023 = Beat Plastic Pollution**.
+28. **International Tiger Day** falls on **29 July** and marks the **St Petersburg Tiger Summit (2010)**. It is **not** World Wildlife Day (3 March).
+29. **World Environment Day (WED)** is the UN’s main annual day for environmental awareness (पर्यावरण जागरूकता) and action.
+30. **2022** also marked **50 years** since Stockholm 1972, which designated **5 June** as World Environment Day.
+31. **World Wetlands Day** marks adoption of the **Ramsar Convention on Wetlands** at Ramsar, Iran (**2 February 1971**).
+32. **Earth Day** promotes environmental protection, climate action, and sustainability every **22 April**.
+33. **International Day of Forests** raises awareness of forests and sustainable forest management every **21 March**.
+34. **World Water Day** focuses on freshwater resources, access, and sustainable water management every **22 March**.
+35. **World Ozone Day** (International Day for the Preservation of the Ozone Layer) is observed every **16 September**.
+36. **World Wildlife Day** celebrates wild fauna and flora and fights wildlife crime every **3 March**.
+37. **Highest-yield trap:** listing Wildlife Day as **22 March** (that is Water Day) — wrong pair in **
+38. **International Tiger Day** is observed every **29 July**.
+39. **World Toilet Day = 19 November** (UNGA 2013; sanitation for all / end open defecation messaging).
+40. **World No Tobacco Day = 31 May** (WHO) — not 5 May. Themes rotate (e.g. tobacco–environment / grow food not tobacco).
+41. **World Habitat Day** = **first Monday of October** (UN; not a fixed calendar date like 5 October).
+42. **World Cities Day = 31 October**. **World Population Day = 11 July**. **World Health Day = 7 April**.
+43. **Earth Overshoot Day** marks when humanity’s annual demand exceeds Earth’s regenerative capacity — an environmental-degradation awareness marker (Global Footprint Network partnership framing).
 
+## ⏱️ Timeline / Chronology
 
----
+### Chronological Sequence of Environmental Legislation & Governance in India
+
+```
+1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
+1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
+1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
+1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
+1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
+1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
+2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
+2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
+2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
+```
+
+## 📊 Quick Reference Grid
+
+### Day ↔ date
+
+| Item | Lock |
+|------|------|
+| Wetlands | **2 February** (Ramsar) |
+| Wildlife | **3 March** (CITES) — ≠ 22 Mar |
+| Forests | **21 March** |
+| Water | **22 March** |
+| Earth | **22 April** (US 1970) |
+| Biological Diversity | **22 May** (CBD) |
+| Environment | **5 June** (Stockholm/UNEP) |
+| Ozone | **16 September** (Montreal) |
+| March ladder | Wildlife 3 → Forests 21 → Water 22 |
+| India WED hosts | **2011** Forests; **2018** Beat Plastic |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **World Wetlands Day** | **World Wildlife Day** | **2 February** (signing of Ramsar Convention 1971) vs **3 March** (adoption of CITES 1973) | विश्व आर्द्रभूमि दिवस (2 फरवरी) / विश्व वन्यजीव दिवस (3 मार्च) |
 | **World Forestry Day** | **World Water Day** | **21 March** (UN International Day of Forests) vs **22 March** (UN World Water Day) | विश्व वानिकी दिवस (21 मार्च) / विश्व जल दिवस (22 मार्च) |
 | **World Earth Day** | **World Environment Day** | **22 April** (Gaylord Nelson, 1970) vs **5 June** (Stockholm Conference opening, 1972) | पृथ्वी दिवस (22 अप्रैल) / विश्व पर्यावरण दिवस (5 जून) |
@@ -57,10 +113,20 @@ hide:
 | **Earth Day** | **Earth Hour** | Fixed annual civic observance on **22 April** vs WWF voluntary **last Saturday of March** 1-hour lights-off event | पृथ्वी दिवस (22 अप्रैल) / अर्थ आवर (मार्च अंतिम शनिवार) |
 | **World Soil Day** | **World Day to Combat Desertification** | **5 December** (FAO celebration of King Bhumibol's birthday) vs **17 June** (UNCCD adoption anniversary) | विश्व मृदा दिवस (5 दिसंबर) / मरुस्थलीकरण रोकथाम दिवस (17 जून) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

@@ -7,42 +7,144 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 17 — Environmental Laws & Policies</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Article 48A** (DPSP (राज्य के नीति निदेशक तत्व)) directs the State to protect the environment (पर्यावरण). **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
-2. **Article 21** (अनुच्छेद 21) has been read to include a healthy environment. **Article 48** is about agriculture and cattle — it is **not** the environment article (**48A** is).
-3. **FCA** controls **diversion** of forest land. **FRA** recognises **rights** of forest dwellers. Do not treat them as one Act.
-4. **Environmental law** in India combines **constitutional duties**, **statutory Acts**, and **Supreme Court/NGT jurisprudence**.
-5. **Article 48A** (DPSP) directs the **State** to protect and improve the environment and safeguard forests and wildlife.
-6. **Article 51A(g)** (Fundamental Duty) requires every **citizen** to protect and improve the natural environment.
-7. **Article 21** (Right to Life) was expanded by the Supreme Court to include the **right to a wholesome environment** (*M.C. Mehta*, *Subhash Kumar*).
-8. **Article 48** deals with **agriculture and animal husbandry** — it is **not** the environment article. Do not confuse with **48A**.
-9. **Section 6** empowers the Centre to make **rules** for environmental protection.
-10. **Environmental Clearance** under EIA is distinct from SPCB **consent** under Water/Air Acts. Large projects may need **both**.
-11. **CGWA** (regulatory authority under EPA) is **not** the same as **CGWB** (assessment board under Jal Shakti (शक्ति)).
-12. **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is the nodal ministry for EPA implementation.
-13. **Six Schedules** classify species by protection level.
-14. **Hunting** is banned for Schedule **I–IV** species with narrow exceptions for research or public safety with permission.
-15. **National Park (Section 35)** has the **strictest** protection — no grazing or exploitation.
-16. **Wildlife Sanctuary (Section 18)** allows more regulated human use under the Chief Wildlife Warden.
-17. **Tiger Reserves** are notified under **Section 38V** (2006 amendment) with **NTCA** oversight.
-18. **Prior Central Government approval** is mandatory before using **forest land** for **non-forest purposes** like mining, dams, or industry.
-19. **Community Forest Resource (CFR)** (सामुदायिक वन संसाधन अधिकार) rights allow communities to manage and protect forest resources.
-20. **State Biodiversity Boards (SBB)** operate at state level.
-21. **Biodiversity Management Committees (BMC)** function at local panchayat level.
-22. **People's Biodiversity Registers (PBR)** document local biodiversity.
+1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
+2. **Article 48A** (DPSP (राज्य के नीति निदेशक तत्व)) directs the State to protect the environment (पर्यावरण). **Article 51A(g)** is the citizen’s Fundamental Duty to protect nature. Do not swap them.
+3. **Article 21** (अनुच्छेद 21) has been read to include a healthy environment. **Article 48** is about agriculture and cattle — it is **not** the environment article (**48A** is).
+4. The **Environment (Protection) Act, 1986** is the post-Bhopal umbrella law under **Article 253**. Section **3** powers support EIA, CRZ, ESZ, **GEAC**, and **CGWA**. It **supplements** Water and Air Acts; it does not repeal them.
+5. EIA Notification and related clearances flow from **EPA**, not from the Water Act.
+6. The **Wildlife (Protection) Act, 1972** uses **six** Schedules. Schedules **I–IV** protect animals; Schedule **V** is vermin; Schedule **VI** covers plants. **Schedule I** is the highest protection; Schedule **V** animals may be hunted as vermin.
+7. Under WPA, a **National Park** (Section **35**) is stricter than a **Sanctuary** (Section **18**). Tiger Reserves rest on Section **38V** (2006 amendment path).
+8. The **Forest (Conservation) Act, 1980** requires prior **Central** approval before diverting forest land. CAMPA and NPV sit in this clearance world.
+9. The **Forest Rights Act, 2006** recognises rights of Scheduled Tribes and Other Traditional Forest Dwellers. Individual forest rights are capped around **4 hectares**, with a cutoff of **13 December 2005**, and recognition (मान्यता) begins at the **Gram Sabha** (ग्राम सभा).
+10. **FCA** controls **diversion** of forest land. **FRA** recognises **rights** of forest dwellers. Do not treat them as one Act.
+11. The **Biological Diversity Act, 2002** implements the CBD through **NBA** (national), **SBB** (state), and **BMC** (local) with People’s Biodiversity Registers.
+12. The **Water Act, 1974** created **CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड)/SPCB** and the consent regime. The **Air Act, 1981** covers air pollution and NAAQS. Water is **1974**; Air is **1981** — do not reverse the years.
+13. Industry **consent** (CTE/CTO) is under Water/Air Acts via **SPCB**. **Environmental Clearance** is under EPA/EIA via **MoEFCC (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय)/SEIAA**. Forest clearance is under **FCA** via MoEFCC.
+14. The **NGT Act, 2010** creates the green tribunal for environmental appeals and compensation, with a six-month disposal target.
+15. National Forest Policy **1952** was revenue-leaning. Later practice follows National Forest Policy **1988** targets of about **33%** forest cover (वन आवरण) nationally and **66%** in hills.
+16. EPA is **1986**, not 1972. WPA is **1972**, not 1986. Mixing those years is a standard trap.
+17. Schedule **V** under WPA is **not** the highest protection tier — Schedule **I** is.
+18. Consent is not EC, and EC is not forest clearance. Keep the three tools on separate legal tracks.
+19. FRA’s nodal line is tribal (आदिवासी) forest rights, not MoEFCC forest diversion under FCA.
+20. BDA is about biodiversity access and benefit-sharing institutions — not the same as WPA schedules or NGT appeals.
+21. Article **48A** binds the State as a Directive Principle; **51A(g)** binds the citizen as a duty. Both environment hooks sit beside Article **21** case law.
+22. Water Act creates the pollution-board architecture; EPA is the later umbrella for broader environmental regulation including EIA.
+23. Air Act year fact is **1981**. Pairing Air with **1974** or Water with **1981** is wrong.
+24. NGT hears appeals; it does not rewrite the year of EPA or replace CPCB’s standards role.
+25. CAMPA/NPV issues arise after forest diversion under FCA — they are not FRA Gram Sabha rights tools.
+26. Match clearance labels carefully: **SPCB consent**, **MoEFCC/SEIAA EC**, **MoEFCC forest clearance**.
+27. Wildlife and forests sit on the **Concurrent List** (समवर्ती सूची) — Centre and states both legislate.
+28. Indian courts have adopted Rio principles — **Precautionary**, **Polluter Pays**, and **Public Trust** (*Vellore Citizens’ Welfare Forum*).
+29. **Environmental law** in India combines **constitutional duties**, **statutory Acts**, and **Supreme Court/NGT jurisprudence**.
+30. **Article 48A** (DPSP) directs the **State** to protect and improve the environment and safeguard forests and wildlife.
+31. **Article 51A(g)** (Fundamental Duty) requires every **citizen** to protect and improve the natural environment.
+32. **Article 21** (Right to Life) was expanded by the Supreme Court to include the **right to a wholesome environment** (*M.C. Mehta*, *Subhash Kumar*).
+33. **Article 48** deals with **agriculture and animal husbandry** — it is **not** the environment article. Do not confuse with **48A**.
+34. **Section 6** empowers the Centre to make **rules** for environmental protection.
+35. **Environmental Clearance** under EIA is distinct from SPCB **consent** under Water/Air Acts. Large projects may need **both**.
+36. **CGWA** (regulatory authority under EPA) is **not** the same as **CGWB** (assessment board under Jal Shakti (शक्ति)).
+37. **MoEFCC** (पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय) is the nodal ministry for EPA implementation.
+38. **Six Schedules** classify species by protection level.
+39. **Hunting** is banned for Schedule **I–IV** species with narrow exceptions for research or public safety with permission.
+40. **National Park (Section 35)** has the **strictest** protection — no grazing or exploitation.
+41. **Wildlife Sanctuary (Section 18)** allows more regulated human use under the Chief Wildlife Warden.
+42. **Tiger Reserves** are notified under **Section 38V** (2006 amendment) with **NTCA** oversight.
+43. **Prior Central Government approval** is mandatory before using **forest land** for **non-forest purposes** like mining, dams, or industry.
+44. **Community Forest Resource (CFR)** (सामुदायिक वन संसाधन अधिकार) rights allow communities to manage and protect forest resources.
+45. **State Biodiversity Boards (SBB)** operate at state level.
+46. **Biodiversity Management Committees (BMC)** function at local panchayat level.
+47. **People's Biodiversity Registers (PBR)** document local biodiversity.
 
+## ⏱️ Timeline / Chronology
+
+### Chronological Sequence of Environmental Legislation & Governance in India
+
+```
+1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
+1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
+1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
+1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
+1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
+1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
+2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
+2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
+2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
+```
+
+## 📊 Quick Reference Grid
+
+### Act chain
+
+| Item | Lock |
+|------|------|
+| Spine | WPA 72 → Water 74 → FCA 80 → Air 81 → EPA 86 → BDA 02 → FRA 06 → NGT 10 |
+| 48A / 51A(g) / 48 | State DPSP env / duty / agri–cattle (**not** env) |
+| EPA umbrella | Post-Bhopal; Art. 253; EIA/CRZ/ESZ/GEAC power |
+| WPA Schedules | I–IV animals; V vermin; VI plants |
+| NP vs Sanctuary | Sec. 35 stricter / Sec. 18 |
+| FCA vs FRA | Central diversion approval / forest-dweller rights |
+| BDA ladder | NBA → SBB → BMC + PBR |
+| Consent vs EC vs forest | SPCB Water/Air / MoEFCC–SEIAA EPA / FCA Central |
 
 ---
 
+![India Environmental Legal Architecture & Statutory Chronology](images/env_ch17_01_india_environmental_legislation_timeline.png)
+
+### Table: Key Ramsar Wetlands of India (Selected High-Yield & State-Wise)
+
+| Ramsar Site | State / UT | Area / Special Significance | Exam Trap & Distinction |
+| :--- | :--- | :--- | :--- |
+| **Chilika Lake** | Odisha | First Ramsar Site in India (1981); Largest coastal lagoon | Joined with Keoladeo Ghana in 1981; removed from Montreux Record post-restoration |
+| **Keoladeo Ghana National Park** | Rajasthan | Wetland & NP; placed on Montreux Record | On Montreux Record due to water shortage & grazing pressure |
+| **Loktak Lake** | Manipur | Freshwater lake with phumdis (floating mats); Keibul Lamjao NP | Only floating national park; home to Sangai (Dancing Deer); on Montreux Record |
+| **Vembanad-Kol Wetland** | Kerala | Largest wetland in India by surface area | Spans Alappuzha, Kottayam, Ernakulam; Nehru Trophy Boat Race held here |
+| **Sundarban Wetland** | West Bengal | Largest Ramsar site by protected area | Mangrove ecosystem; Royal Bengal Tiger; shared with Bangladesh |
+| **Renuka Wetland** | Himachal Pradesh | Smallest Ramsar site in India (~20 ha) | Natural wetland with freshwater springs; sacred lake |
+| **Upper Ganga River** | Uttar Pradesh | First Ramsar site of UP (2005; Brijghat to Narora) | Stretch of 82 km; habitat of Gangetic Dolphin, gharial, turtles |
+| **Bakhira Wildlife Sanctuary** | Uttar Pradesh | 10th Ramsar site of UP (Sant Kabir Nagar, 2022) | Natural freshwater marsh; migratory waterbirds |
+| **Haiderpur Wetland** | Uttar Pradesh | Muzaffarnagar & Bijnor (2021) | Human-made wetland in Hastinapur WLS within Ganga floodplain |
+| **Rudrasagar Lake** | Tripura | Lowland sedimentation reservoir | Located in Northeast (Tripura) — common trap confusing it with UP or MP |
+| **Bhoj Wetland** | Madhya Pradesh | Twin lakes: Upper Lake (Bada Talab) and Lower Lake | Created by Raja Bhoj; human-made wetland |
+| **Asan Barrage** | Uttarakhand | First Ramsar site of Uttarakhand (2020) | Located at confluence of Asan and Yamuna in Dehradun |
+| **Lonar Lake** | Maharashtra | Meteor impact crater lake; hyper-saline | Turned pink due to haloarchaea microbes in 2020 |
+| **Tso Kar Wetland Complex** | Ladakh | High-altitude saline lake (Startsapuk Tso + Tso Kar) | Breeding ground for Black-necked Crane |
+
+### Table: Global Environmental Reports & Flagship Publications
+
+| Publication / Report | Publishing Agency | Frequency / Milestone | Core Prelims Focus Area |
+| :--- | :--- | :--- | :--- |
+| **Assessment Reports (AR1 to AR6)** | **IPCC** (Intergovernmental Panel on Climate Change) | Every 6–7 years (AR6 Synthesis: 2023) | Scientific consensus on climate change, carbon budgets, 1.5°C pathways |
+| **Emissions Gap Report** | **UNEP** (United Nations Environment Programme) | Annual | Gap between national NDC pledges and 1.5°C / 2°C temperature trajectories |
+| **Adaptation Gap Report** | **UNEP** | Annual | Assessment of global adaptation financing, planning, and implementation deficit |
+| **Global Environment Outlook (GEO)** | **UNEP** | Periodic flagship | Comprehensive state of the global environment, policy responses |
+| **Living Planet Report** | **WWF** (World Wide Fund for Nature) | Biennial | Living Planet Index tracking vertebrate population declines (~69% decline) |
+| **IUCN Red List of Threatened Species** | **IUCN** (Gland, Switzerland) | Continuous / Annual update | 9 categories: EX, EW, CR, EN, VU, NT, LC, DD, NE |
+| **Global Biodiversity Outlook (GBO)** | **CBD Secretariat** | Periodic (GBO-5 in 2020) | Progress against Aichi Biodiversity Targets / Kunming-Montreal GBF |
+| **State of the World's Forests (SOFO)** | **FAO** (Food and Agriculture Organization) | Biennial | Global forest cover, deforestation rates, agroforestry and livelihoods |
+| **World Air Quality Report** | **IQAir** | Annual | Global PM2.5 city rankings and WHO guidelines compliance |
+| **SDG India Index & Dashboard** | **NITI Aayog** | Annual | Performance of Indian States/UTs across 16 SDGs (Kerala consistently #1) |
+
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Environment (Protection) Act (EPA 1986)** | **Wildlife (Protection) Act (WPA 1972)** | Umbrella legislation enacted under Article 253 post-Bhopal disaster enabling the Union to frame rules for EIA, CRZ, ESZ, and hazardous waste vs dedicated legislation protecting wild animal/plant species, regulating hunting, and establishing National Parks/Sanctuaries | पर्यावरण संरक्षण अधिनियम 1986 (छाता कानून) / वन्यजीव संरक्षण अधिनियम 1972 |
 | **Forest (Conservation) Act (FCA 1980)** | **Forest Rights Act (FRA 2006)** | Central law barring de-reservation or diversion of forest land for non-forest purposes without prior Union MoEFCC approval vs rights-based law administered by Ministry of Tribal Affairs restoring land tenure and customary rights to forest-dwelling STs and OTFDs | वन संरक्षण अधिनियम 1980 (विकास नियंत्रण) / वन अधिकार अधिनियम 2006 (जनजातीय अधिकार) |
 | **Water (Prevention and Control of Pollution) Act 1974** | **Air (Prevention and Control of Pollution) Act 1981** | India's first dedicated environmental pollution statute that established CPCB and SPCBs under Article 252 vs legislation enacted under Article 253 to implement 1972 Stockholm decisions that empowered existing Water Boards to regulate air pollution and noise | जल अधिनियम 1974 (प्रदूषण बोर्डों का गठन) / वायु अधिनियम 1981 (स्टॉकहोम अनुपालन) |
@@ -50,10 +152,20 @@ hide:
 | **Genetic Engineering Appraisal Committee (GEAC)** | **Central Ground Water Authority (CGWA)** | Statutory apex regulatory body constituted under Rules 1989 of EPA 1986 approving environmental release of GMOs (e.g. Bt Cotton) vs regulatory authority constituted under Section 3(3) of EPA 1986 regulating commercial groundwater extraction NOCs | जीईएसी (GEAC, जीएमओ नियामक) / केंद्रीय भूजल प्राधिकरण (CGWA) |
 | **Coastal Regulation Zone (CRZ)** | **Eco-Sensitive Zone (ESZ)** | Coastal belt up to 500 m from High Tide Line classified into CRZ-I to IV under EPA 1986 to regulate beach and marine development vs buffer belt around protected areas notified under Section 3 of EPA 1986 to curb polluting industrial operations | तटीय विनियमन क्षेत्र (CRZ) / पर्यावरण-संवेदनशील क्षेत्र (ESZ) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

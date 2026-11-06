@@ -7,9 +7,15 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 20 — World Agriculture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2025** | **Black Sea Grain Corridor & Global Wheat Trade**: Geopolitical disruption of Ukrainian wheat and sunflower oil exports via the Bosporus; key importer nations in the Middle East and North Africa | Food security, agricultural trade bottlenecks & regional commodities |
+| **2023–2024** | **Mediterranean Olive Oil Crisis**: Historic droughts in **Spain (#1 world producer)** and Italy caused global olive oil price spikes and supply deficits | Mediterranean agro-climatic specialization & viticulture/horticulture |
+| **2024–2025** | **Global Cocoa Supply Deficit**: Swollen shoot virus and severe unseasonal rains in **Côte d'Ivoire (Ivory Coast) and Ghana** (which produce ~60% of world cocoa) drove global cocoa prices to historic highs | Tropical commercial plantation crops & West African mono-cultures |
+| **UKPCS 2025** | **World Agricultural Leaders**: **China** leads the world in Rice, Wheat, Cotton, and Tea production; **Brazil** leads in Sugarcane, Coffee, and Soybean | Exam fact-locks on leading agricultural nations |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -61,43 +67,128 @@ hide:
 
 
 ---
+46. **Santos — Coffee Port**: **Santos** (São Paulo state, Brazil) is the world's premier coffee exporting port; **São Paulo** is the financial and processing capital of the Brazilian coffee industry.
+47. **Fazendas**: Large commercial coffee plantations in **Brazil** are locally called *Fazendas*; they were historically established on the fertile volcanic red soils (*Terra Roxa*) of the São Paulo plateau.
+48. **Truck Farming**: Intensive commercial vegetable and fruit farming situated near large urban consumption centers, where products are transported overnight to city markets by trucks; prevalent in the Atlantic coastal plain of the USA.
+49. **Kolkhoz & Sovkhoz**: Historical agricultural systems of the Soviet Union; *Kolkhoz* were collective cooperative farms, while *Sovkhoz* were fully state-owned and state-operated industrial farms.
+50. **Von Thünen's Agricultural Location Model**: Proposed by Johann Heinrich von Thünen (1826); predicts concentric rings of land use around an isolated central market based on **land rent and perishable/bulky transport costs** (Ring 1: Market gardening & dairy; Ring 2: Firewood/timber; Ring 3: Crop farming; Ring 4: Extensive grain/field crops; Ring 5: Ranching).
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               WORLD AGRICULTURAL EVOLUTION & ECONOMIC THEORIES
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [10,000 BCE] ─> NEOLITHIC AGRICULTURAL REVOLUTION:
+  │               Domestication of wheat, barley, sheep, cattle in the Fertile Crescent (Mesopotamia/Levant).
+  │
+  ▼
+  [1700-1850] ──> BRITISH / EUROPEAN AGRICULTURAL REVOLUTION:
+  │               Enclosure acts, Norfolk four-course crop rotation (turnips, barley, clover, wheat),
+  │               selective breeding (Robert Bakewell), Jethro Tull's seed drill.
+  │
+  ▼
+  [1826] ───────> VON THÜNEN PUBLISHES "THE ISOLATED STATE" (*Der Isolirte Staat*):
+  │               First formal economic model of agricultural land use and spatial concentric rings.
+  │
+  ▼
+  [1940s-1970s] > GLOBAL GREEN REVOLUTION:
+  │               Norman Borlaug breeds semi-dwarf, disease-resistant high-yield wheat at CIMMYT (Mexico);
+  │               IRRI (Philippines) develops IR-8 "miracle rice"; saves billions from starvation in Asia.
+  │
+  ▼
+  [1995] ───────> WTO AGREEMENT ON AGRICULTURE (AoA) ENTERS INTO FORCE:
+  │               Establishes international disciplines on domestic support (Green, Blue, Amber Boxes) and export subsidies.
+  │
+  ▼
+  [2020-2026] ──> CLIMATE-SMART & REGENERATIVE AGRICULTURE:
+  │               Global thrust toward no-till farming, cover crops, bio-fertilizers, and drought-resistant seeds.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. World Temperate Grasslands (Major Granaries of the World)
+
+| Grassland | Continent / Countries | Native Characteristics | Predominant Agricultural Use | High-Yield Prelims Distinction |
+|---|---|---|---|---|
+| **Prairies (प्रेयरी)** | **North America** (USA & Canada) | Rolling treeless plains; continental climate; fertile Mollisol soils | Commercial grain farming (**Spring & Winter Wheat**, Maize, Soybeans) | Known as the **"Granary of the World"**; home of the warm winter foehn wind (**Chinook — "Snow Eater"**) |
+| **Pampas (पंपास)** | **South America** (**Argentina & Uruguay**) | Humid subtropical temperate grassland; deep dark loam soil | Cattle ranching & commercial grain farming (**Wheat, Alfalfa, Maize**) | Large cattle ranches called ***Estancias*** managed by legendary cowboys called ***Gauchos*** |
+| **Steppes (स्टेपी)** | **Eurasia** (Ukraine, Southern Russia, Kazakhstan) | Continental dry climate; short feather grasses; rich **Chernozem (black earth)** soil | Extensive mechanized **Wheat cultivation** and sheep/horse grazing | Breadbasket of Europe; vast flat plains vulnerable to summer droughts |
+| **Veld (वेल्ड)** | **South Africa** | High plateau temperate grassland (High Veld ~1,500 m & Low Veld) | Maize cultivation (**"Maize Triangle"**), merino sheep, cattle rearing | Witwatersrand gold reef lies in the High Veld region |
+| **Downs (डाउन्स)** | **Australia** (Murray-Darling Basin, NSW & Victoria) | Temperate grassland and open savanna woodland | **Wheat farming** and pastoral sheep rearing for **Merino wool** | Artesian wells of the Great Artesian Basin support livestock |
+| **Canterbury Plains** | **New Zealand** (South Island) | Alluvial gravel plains; braided rivers | Intensive mixed farming, wheat, barley, prime lamb & dairy | Foehn wind known locally as the Canterbury Northwester |
+| **Puszta (पुस्ताज़)** | **Hungary** (Danube / Tisza Basin) | Lowland temperate grassland | Wheat, maize, sugar beet, and livestock | Cultivated European steppe enclave surrounded by mountains |
+
+### 2. Major Agricultural Belts of the United States
+
+| Agricultural Belt | Geographic Location / States | Key Crops / Livestock | Locational Drivers & Climate |
+|---|---|---|---|
+| **Corn Belt (Maize Belt)** | Midwest USA (Iowa, Illinois, Indiana, Ohio, Nebraska) | **Maize (Corn)** & **Soybeans**; beef cattle & hogs feeding | Warm summer nights, rich glacial loam soils, rain 50–100 cm |
+| **Winter Wheat Belt** | Southern Great Plains (Kansas, Oklahoma, Texas, Colorado) | Hard red **Winter Wheat** (sown autumn, harvested summer) | Milder winters, dry sunny harvest season, low rain (40–60 cm) |
+| **Spring Wheat Belt** | Northern Great Plains (North Dakota, South Dakota, Montana, Prairie Canada) | Hard red **Spring Wheat** (sown spring, harvested late summer) | Winters too severely cold for autumn sowing; snow melt provides spring moisture |
+| **Cotton Belt** | Southern USA (Texas, Mississippi, Georgia, Arkansas) | **Cotton**, peanuts, poultry | Long growing season (**>200 frost-free days**), warm humid summers |
+| **Dairy Belt** | Northern & Northeastern USA (Wisconsin, Minnesota, New York, Pennsylvania) | Fresh fluid milk, cheese, butter | Cool humid climate, rolling topography unsuitable for grains, proximity to urban markets |
+
+### 3. World Leading Producers of Commercial & Food Crops
+
+| Crop | Leading Producing Country (#1) | Other Major Producing Nations | Leading Exporting Country | High-Yield Prelims Exam Tag |
+|---|---|---|---|---|
+| **Rice (चावल)** | **China** (~28%) | India (#2), Bangladesh, Indonesia, Vietnam | **India** (#1 Rice Exporter in world) | Staple for over 50% of mankind; wet lowland paddy |
+| **Wheat (गेहूं)** | **China** | India (#2), Russia (#3), USA, Canada, France | **Russia** (#1 Wheat Exporter) | Extensive mechanized commercial farming |
+| **Maize (मक्का)** | **USA** (~32%) | China (#2), Brazil (#3), Argentina | **USA / Brazil** | Major feedgrain for livestock, ethanol biofuel, high fructose syrup |
+| **Sugarcane (गन्ना)** | **Brazil** (~40%) | India (#2), China, Thailand | **Brazil** | World's pioneer in sugarcane ethanol fuel (*flex-fuel cars*) |
+| **Coffee (कॉफ़ी)** | **Brazil** (~35%) | Vietnam (#2, Robusta leader), Colombia (#3), Indonesia | **Brazil** | *Fazendas* plantations; *Terra Roxa* soil; Santos port |
+| **Tea (चाय)** | **China** (>45%) | India (#2), Kenya (#3), Sri Lanka | **Kenya** (#1 Black Tea Exporter) | China leads green tea; Kenya & India lead CTC black tea |
+| **Cocoa (कोको)** | **Côte d'Ivoire (Ivory Coast)** (~45%) | Ghana (#2), Indonesia, Ecuador | **Côte d'Ivoire** | Concentrated in tropical rain forest belt of West Africa |
+| **Natural Rubber** | **Thailand** (~35%) | Indonesia (#2), Vietnam (#3), Malaysia | **Thailand** | Latex tapped from *Hevea brasiliensis* tree; equatorial climate |
+| **Soybean (सोयाबीन)** | **Brazil** (~40%) | USA (#2), Argentina (#3), China | **Brazil** | World's leading oilseed; massive expansion in Brazilian Cerrado |
+| **Palm Oil** | **Indonesia** (>55%) | Malaysia (~30%), Thailand, Nigeria | **Indonesia** | World's most consumed vegetable oil; large equatorial plantations |
+| **Cotton (कपास)** | **China** / **India** | India, China, USA, Pakistan, Brazil | **USA** (#1 Cotton Exporter) | "White Gold"; measured in standard bales (480 lbs / 218 kg) |
+| **Olives & Olive Oil** | **Spain** (>40%) | Italy, Greece, Tunisia, Turkey | **Spain** | Signature crop of the **Mediterranean climate** (winter rain/dry summer) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Confused pairs
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Prairies** | **Pampas** | Temperate grassland of **North America** (USA/Canada; wheat/corn) vs Temperate grassland of **South America** (Argentina/Uruguay; cattle/alfalfa) | प्रेयरी / पंपास |
+| **Steppes** | **Veld** | Flat temperate grassland of **Eurasia** (Ukraine/Russia/Kazakhstan) vs High plateau temperate grassland of **South Africa** | स्टेपी / वेल्ड |
+| **Downs** | **Canterbury Plains** | Temperate grassland of **Australia** (Murray-Darling; Merino wool) vs Alluvial temperate plains of **New Zealand** (South Island) | डाउन्स / कैंटरबरी मैदान |
+| **Spring Wheat** | **Winter Wheat** | Sown in **Spring**, harvested in **late Summer** in severely cold northern latitudes (North Dakota, Canada) vs Sown in **Autumn**, harvested in **early Summer** in milder climates (Kansas, Europe) | वसंतकालीन / शीतकालीन गेहूं |
+| **Santos** | **São Paulo** | World-famous **Coffee exporting port** on the Atlantic coast of Brazil vs Inland financial and industrial **Coffee processing metropolis** of Brazil | सैंटोस (कॉफ़ी बंदरगाह) / साओ पाउलो |
+| **Fazendas** | **Estancias** | Large commercial **Coffee plantations in Brazil** vs Large commercial **Cattle ranches in Argentina (Pampas)** | फजेंडा / एस्टैंसिया |
+| **Viticulture** | **Sericulture** | Cultivation of **Grapes** for wine-making (Mediterranean signature) vs Rearing of **Silkworms** for raw silk production | अंगूर की खेती (विटिकल्चर) / रेशम कीट पालन |
+| **Truck Farming** | **Factory Farming** | Specialized intensive commercial **vegetable and fruit growing** for distant urban markets via road transport vs Highly industrialized, enclosed **confinement rearing of livestock** (poultry, swine) | ट्रक फार्मिंग / फैक्टरी फार्मिंग |
+| **Kolkhoz** | **Sovkhoz** | Soviet **collective cooperative farm** where members shared profits vs Soviet **state-owned industrial farm** where workers were paid state wages | कोलखोज़ / सोवखोज़ |
+| **Rice Producer #1** | **Rice Exporter #1** | **China** produces the highest volume of rice in the world vs **India** is the world's largest commercial exporter of rice | चावल उत्पादक / निर्यातक |
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Plantation vs food grain | Tea (also coffee, rubber, cocoa, cane, oil palm, banana) | Wheat / rice / maize as “plantation” | बागान |
-| Producer vs exporter (rice/wheat) | China often **#1 volume**; **not** the classic exporter | China = wheat/rice export king | उत्पादक / निर्यातक |
-| Brazil vs Vietnam coffee | Brazil **#1**; Vietnam **#2** (2016 paper) | Vietnam first | ब्राज़ील / वियतनाम |
-| Arabica vs Robusta | Brazil/Colombia highland = arabica; Vietnam = robusta bulk | Swapped | अरेबिका / रोबस्टा |
-| Cocoa vs coffee Africa | Cocoa = **Côte d’Ivoire + Ghana**; coffee East Africa too (Ethiopia/Uganda) | Latvia as cocoa | कोकोआ |
-| Kerala vs Assam | Rubber **Kerala**; tea volume **Assam** | Assam rubber / Gujarat tea | केरल / असम |
-| Kinta Valley | **Tin** (Malaysia) | Rubber / tea / coffee | किंटा घाटी |
-| Amazon origin vs SE Asia crop | Rubber **and** cocoa **originated** in Amazon; bulk crop now elsewhere | “Origin = Malaysia / Ghana” | अमेज़न |
-| Jhum vs plantation | Jhum = shifting subsistence | Jhum = tea estate | झूम |
-| Ladang vs milpa | Ladang = **Malaysia**; milpa = **Mexico** | Swapped | लदांग / मिल्पा |
-| Roca vs chena | Roca = **Brazil**; chena = **Sri Lanka** | Swapped | रोका / चेना |
-| Cane vs beet | Cane = tropics (**Brazil**); beet = **Europe** | Beet in Kerala | गन्ना / चुकंदर |
-| Citrus belt | **Mediterranean** | Equatorial / Himalayan valleys as *world* fact | नींबू वर्गीय |
-| Oil palm vs rubber | Oil palm volume = **Indonesia + Malaysia** | Oil palm = Kerala only | तेल ताड़ |
-| Black tea vs green tea | Black = **fermented**; green = **not** | Swapped | काली / हरी चाय |
-| Philippines cane | **Spanish and Americans** | Dutch (Indonesia) / British | फिलीपींस |
-| Intensive vs extensive | Intensive = small + labour + monsoon rice; extensive = huge + machines + Prairie wheat | Swapped | सघन / विस्तृत |
-| Producer vs exporter (coffee/tea) | Brazil coffee #1 volume; Kenya often tea **exporter** story | Same word | |
-| Soybean triangle | **USA–Brazil–Argentina** | Only India | सोया |
-| Milk volume vs dairy export | India = milk **volume**; NZ/Netherlands = **export** dairy | India = cheese ship king | दूध |
-| Golden Crescent | AFG–Iran–Pakistan | Includes Iraq | गोल्डन क्रिसेंट |
-| Fazenda vs Chena | Brazil plantation vs Sri Lanka shifting | Fazenda = jhum | फाजेंडा |
-| Mocha vs Kona | Yemen vs Hawaii | Swapped | मोचा / कोना |
-| Olericulture | Vegetables | Call it horticulture-only | शाककृषि |
-| Von Thünen vs Whittlesey | Thünen = **distance rings** from market; Whittlesey = **world type map** | Same theory | |
+## 🧠 Memory Anchors & Mnemonics
 
+### 1. Temperate Grasslands Around the World: **P-P-S-V-D**
+- **P**rairies → North America (USA/Canada)
+- **P**ampas → South America (Argentina)
+- **S**teppes → Eurasia (Ukraine/Russia)
+- **V**eld → South Africa
+- **D**owns → Australia
+- *(Mnemonic: **P**lease **P**ass **S**ome **V**ery **D**elicious Wheat)*
 
----
+### 2. Brazilian Coffee Trinity:
+- **Fazendas** = The Coffee Farms
+- **São Paulo** = The Coffee Capital
+- **Santos** = The Coffee Port (*Porto de Santos*)
+- **Terra Roxa** = The Red Volcanic Soil
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+### 3. Top World Producers Quick-Locks:
+- **Wheat & Rice** → **China** (#1)
+- **Sugarcane & Coffee** → **Brazil** (#1)
+- **Tea** → **China** (#1) | **Exporter** → **Kenya** (#1)
+- **Cocoa** → **Côte d'Ivoire (Ivory Coast)** (#1)
+- **Natural Rubber** → **Thailand** (#1)
+- **Palm Oil** → **Indonesia** (#1)
+- **Olive Oil** → **Spain** (#1)
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

@@ -7,105 +7,16 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🔬 Science & Technology &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 6 — Electricity, Magnetism and Electromagnetism</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year / Ref | Key Fact & Discovery | Exam Relevance & Significance |
+|---|---|---|
+| **IAS Pre 2025 Fact** | **Electric Vehicle (EV) Battery Cathode Chemistries**: Lithium-ion batteries use lithium iron phosphate (**LFP**) or nickel-manganese-cobalt (**NMC**). | LFP batteries offer superior thermal stability and longer cycle life; NMC offers higher energy density. |
+| **Clean Energy 2024–25** | **PM Surya Ghar: Muft Bijli Yojana**: Rooftop solar installation providing up to 300 units free solar electricity monthly. | Utilizes grid-tied bidirectional smart net-meters and micro-inverters converting DC to AC. |
+| **Grid Technology** | **High-Voltage Direct Current (HVDC) Corridors**: PGCIL operates $800	ext{ kV}$ HVDC lines (Raigarh–Pugalur). | Dramatically lowers transmission line resistive losses ($I^2R$) over long-distance interstate power transfer. |
 
 ## 🎯 Consolidated Must-Score Facts
-
-1. **Electric Vehicle (EV) Battery Cathode Chemistries (IAS Pre 2025 Fact):**
-2. **Cathode (Positive Electrode):** Typically composed of **Cobalt, Lithium, and Nickel** (as NMC: $\text{LiNiMnCoO}_2$) or Lithium Iron Phosphate (LFP: $\text{LiFePO}_4$), coated on aluminium foil.
-3. **Anode (Negative Electrode):** Constructed of **Graphite (Carbon)** coated on copper foil.
-4. **Common Trap Fact:** Graphite is strictly an **ANODE** material, NOT a cathode component!
-5. **Alternative Powertrain Vehicles (IAS Pre 2025 Fact):**
-6. **Distributed Energy Resources (DER: IAS Pre 2024 Fact):**
-7. **Pumped-Storage Hydropower (PSH) in Uttar Pradesh (IAS Pre 2024 Fact):**
-8. **Silkyara Tunnel Lighting Calculation (UPPCS RO/ARO Pre 2023 Fact):**
-9. **Wind Power Installed Capacity in India (CGPSC / MPPSC Fact):**
-10. **Global Solar Silicon Wafer Production (IAS Pre Fact):**
-11. **Current density ($\vec{j} = I/A$) is a VECTOR quantity** (pointing in the direction of positive charge motion), whereas electric current ($I$) and electric potential ($V$) are **scalars**.
-12. **Nickel-Cadmium (Ni-Cd)** rechargeable batteries use nickel oxide hydroxide and metallic cadmium electrodes with potassium hydroxide ($\text{KOH}$) alkaline electrolyte; used in calculators, cordless tools, and transistors.
-13. **Lightning** contains tremendous electrical energy ($10^8 - 10^9\text{ Joules}$), sufficient to vaporize moisture inside a tree and cause explosive combustion.
-14. **CFL (Compact Fluorescent Lamp)** contains mercury vapour and argon; electric discharge excites mercury atoms to emit ultraviolet radiation, which strikes inner phosphor coating to fluoresce visible white light ($22\%$ energy efficiency; lasts $6,000 - 15,000\text{ hours}$).
-15. **Light Emitting Diode (LED)** operates on the principle of **ELECTROLUMINESCENCE**; electrons recombine with electron holes in a direct-bandgap semiconductor (e.g. Gallium Arsenide/Phosphide), releasing energy directly as photons.
-16. **Sodium vapour street lamps** are omnidirectional ($360^\circ$) and emit monochromatic yellow light ($589\text{ nm}$), producing shadowy-black colour rendering compared to high-CRI multi-spectrum LEDs.
-17. **Current and Current Density:**
-18. **Ohm's Law & Resistance:**
-19. **Power and Joule Heating:**
-20. **Electric Fuse Wire:**
-21. **Three-Pin Plug & Earthing:**
-22. **Short Circuit Physics:**
-23. **Faraday's Laws of Induction:**
-24. **AC vs DC Machinery:**
-25. **Direct current (DC) produces zero time-varying magnetic flux** ($d\Phi/dt = 0$), so transformers CANNOT function on DC. Connecting DC will overheat and burn the primary winding.
-26. **Photovoltaic Solar Energy:**
-27. **Distributed Energy Resources (DER):**
-28. **Electric Vehicle Batteries:**
-29. **The "Current Density is Scalar" Trap:**
-30. **The "Transformer Works on DC" Trap:**
-31. **The "Heavier Bulb has Less Resistance" Paradox:**
-32. **The "Graphite in Cathode" Trap:**
-33. **The "Fuse Wire has High Melting Point" Trap:**
-
-
----
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
-| **Electric Current ($I$)** | **Current Density ($\vec{j}$)** | Current is a **scalar** ($I = Q/t$ in Amperes). Current density is a **vector** ($\vec{j} = I/A$ in $\text{A/m}^2$, pointing along drift of positive charge). |
-| **Electric Power ($P$)** | **Electric Energy ($E$)** | Power is rate of doing electrical work ($P = VI = I^2 R = V^2/R$ in Watts). Energy is power integrated over time ($E = P \cdot t$ in Joules or $\text{kWh}$). |
-| **AC Dynamo** | **DC Dynamo** | AC dynamo uses **slip rings** (continuous rings). DC dynamo uses a **commutator** (split rings) to mechanically rectify alternating induced EMF into DC. |
-| **Step-Up Transformer** | **Step-Down Transformer** | Step-Up increases voltage ($N_s > N_p, V_s > V_p$) while decreasing current. Step-Down decreases voltage ($N_s < N_p, V_s < V_p$) while increasing current. **Both conserve power: $V_p I_p \approx V_s I_s$**. |
-| **Fuse Wire** | **Heater Element (Nichrome)** | Fuse wire requires **low melting point ($183^\circ\text{C}$)** and high resistivity to melt quickly under fault. Heater wire requires **high melting point ($1400^\circ\text{C}$)** and high resistivity to stay red-hot without melting. |
-| **LED** | **CFL** | LED emits light via solid-state **electroluminescence** (GaAs, $50k-100k\text{ h}$, no toxic mercury). CFL uses gas discharge through **mercury vapour** exciting phosphor ($6k-15k\text{ h}$). |
-| **Photovoltaic Cell** | **Photodiode** | Photovoltaic cell **generates electric power** from incident light (solar panels). Photodiode **senses light** as a light-controlled switch (reverse-biased detector). |
-
-
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Electric Vehicle (EV) Battery Cathode Chemistries (IAS Pre 2025 Fact):**
-   - Lithium-ion batteries used in EVs comprise four primary parts: Cathode, Anode, Electrolyte, and Separator.
-   - **Cathode (Positive Electrode):** Typically composed of **Cobalt, Lithium, and Nickel** (as NMC: $\text{LiNiMnCoO}_2$) or Lithium Iron Phosphate (LFP: $\text{LiFePO}_4$), coated on aluminium foil.
-   - **Anode (Negative Electrode):** Constructed of **Graphite (Carbon)** coated on copper foil.
-   - **Common Trap Fact:** Graphite is strictly an **ANODE** material, NOT a cathode component!
-
-2. **Alternative Powertrain Vehicles (IAS Pre 2025 Fact):**
-   - Refers to propulsion systems replacing conventional internal combustion engines (petrol/diesel).
-   - Classified into: (i) Full Battery Electric Vehicles (BEVs), (ii) Hydrogen Fuel Cell Vehicles (FCEVs), and (iii) Fuel Cell-Electric Hybrids. All three represent alternative powertrains.
-
-3. **Distributed Energy Resources (DER: IAS Pre 2024 Fact):**
-   - Decentralized, small-scale power generation situated near consumption sites:
-     1. Rooftop solar photovoltaic units
-     2. Battery storage systems
-     3. Biomass generators (utilizing agricultural/waste gas)
-     4. Fuel cells and mini-hydro schemes
-
-4. **Pumped-Storage Hydropower (PSH) in Uttar Pradesh (IAS Pre 2024 Fact):**
-   - MoEFCC approved massive PSH projects ($11.98\text{ GW}$), including Greenko's **$3.66\text{ GW}$ project in Sonbhadra District, Uttar Pradesh**. PSH functions as a giant grid-scale battery by pumping water to upper reservoirs during low-tariff hours and releasing it through turbines during peak demand.
-
-5. **Silkyara Tunnel Lighting Calculation (UPPCS RO/ARO Pre 2023 Fact):**
-   - $15$ bulbs of $200\text{ W}$ burning continuously for $24\text{ hours}$ consume:
-     $$\text{Total Energy} = \frac{15 \times 200\text{ W} \times 24\text{ h}}{1000} = 72\text{ kWh (units)}$$
-
-6. **Wind Power Installed Capacity in India (CGPSC / MPPSC Fact):**
-   - India ranks **4th globally** in wind power capacity (after China, USA, Germany).
-   - Total capacity crossed **$56\text{ GW}$**.
-   - State rankings: **Gujarat is #1** ($\sim 27.9\%$, over $15.6\text{ GW}$), having overtaken **Tamil Nadu (#2**, $\sim 21.7\%$, $12.1\text{ GW}$). Madhya Pradesh ranks 7th.
-
-7. **Global Solar Silicon Wafer Production (IAS Pre Fact):**
-   - Global fab capacity: **China ranks #1**, followed by Taiwan (#2) and South Korea (#3).
-   - In India, solar tariffs are regulated by **CERC and SERCs** via competitive bidding (SECI is a trading licensee, not tariff setter).
-
----
-
-<details class="st-chapter-toggle st-toggle-facts" markdown="1">
-<summary><strong>🎯 Consolidated — 50 Must-Score Facts</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
 
 1. Electric current is defined as the rate of flow of electric charge: $I = Q/t$; its SI unit is the **Ampere ($1\text{ A} = 1\text{ C/s}$)**.
 2. By international convention, the direction of electric current is the direction of flow of positive charge, which is **opposite to the drift of electrons**.
@@ -158,129 +69,210 @@ hide:
 49. A **mobile phone charger** incorporates a **step-down transformer** (stepping down $220\text{ V AC} \to 5-10\text{ V AC}$) followed by a **rectifier** (converting AC to DC).
 50. Earth's geomagnetic field is generated by convective electric currents in the molten, iron-rich outer liquid core (**geodynamo effect**).
 
-</details>
+## ⏱️ Timeline / Chronology
 
-<details class="st-chapter-toggle st-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+```
+1800 ── Alessandro Volta invents the first chemical battery (Voltaic Pile)
+ │
+1820 ── Hans Christian Ørsted discovers that electric current creates a magnetic field
+ │
+1827 ── Georg Simon Ohm publishes Ohm's Law (V = IR)
+ │
+1831 ── Michael Faraday discovers Electromagnetic Induction (Mutual & Self induction)
+ │
+1834 ── Heinrich Lenz formulates Lenz's Law (Direction of induced EMF opposes cause)
+ │
+1888 ── Nikola Tesla patents the Polyphase AC Induction Motor & Transformer system
+ │
+2024–25 ── Grid-scale smart metering & PM Surya Ghar nationwide rooftop solar deployment
+```
 
-| Concept A | Concept B | Core Distinction & Common Trap |
-| :--- | :--- | :--- |
-| **Electric Current ($I$)** | **Current Density ($\vec{j}$)** | Current is a **scalar** ($I = Q/t$ in Amperes). Current density is a **vector** ($\vec{j} = I/A$ in $\text{A/m}^2$, pointing along drift of positive charge). |
-| **Electric Power ($P$)** | **Electric Energy ($E$)** | Power is rate of doing electrical work ($P = VI = I^2 R = V^2/R$ in Watts). Energy is power integrated over time ($E = P \cdot t$ in Joules or $\text{kWh}$). |
-| **AC Dynamo** | **DC Dynamo** | AC dynamo uses **slip rings** (continuous rings). DC dynamo uses a **commutator** (split rings) to mechanically rectify alternating induced EMF into DC. |
-| **Step-Up Transformer** | **Step-Down Transformer** | Step-Up increases voltage ($N_s > N_p, V_s > V_p$) while decreasing current. Step-Down decreases voltage ($N_s < N_p, V_s < V_p$) while increasing current. **Both conserve power: $V_p I_p \approx V_s I_s$**. |
-| **Fuse Wire** | **Heater Element (Nichrome)** | Fuse wire requires **low melting point ($183^\circ\text{C}$)** and high resistivity to melt quickly under fault. Heater wire requires **high melting point ($1400^\circ\text{C}$)** and high resistivity to stay red-hot without melting. |
-| **LED** | **CFL** | LED emits light via solid-state **electroluminescence** (GaAs, $50k-100k\text{ h}$, no toxic mercury). CFL uses gas discharge through **mercury vapour** exciting phosphor ($6k-15k\text{ h}$). |
-| **Photovoltaic Cell** | **Photodiode** | Photovoltaic cell **generates electric power** from incident light (solar panels). Photodiode **senses light** as a light-controlled switch (reverse-biased detector). |
-
-</details>
-
-## Must-Score Master Tables
-
-### Table 1: Electrical & Magnetic Units and Dimensions
-
-| Physical Quantity | SI Unit | Dimension | Scalar / Vector |
-| :--- | :--- | :---: | :---: |
-| **Electric Charge ($Q$)** | Coulomb ($\text{C} = \text{A}\cdot\text{s}$) | $[A T]$ | Scalar |
-| **Electric Current ($I$)** | Ampere ($\text{A}$) | $[A]$ | Scalar |
-| **Current Density ($\vec{j}$)** | $\text{A/m}^2$ | $[A L^{-2}]$ | **Vector** |
-| **Electric Potential / EMF ($V$)** | Volt ($\text{V} = \text{J/C}$) | $[M L^2 T^{-3} A^{-1}]$ | Scalar |
-| **Electrical Resistance ($R$)** | Ohm ($\Omega = \text{V/A}$) | $[M L^2 T^{-3} A^{-2}]$ | Scalar |
-| **Electrical Resistivity ($\rho$)** | Ohm-metre ($\Omega\cdot\text{m}$) | $[M L^3 T^{-3} A^{-2}]$ | Scalar |
-| **Electrical Conductivity ($\sigma$)** | Siemens/metre ($\text{S/m}$) | $[M^{-1} L^{-3} T^3 A^2]$ | Scalar |
-| **Capacitance ($C$)** | Farad ($\text{F} = \text{C/V}$) | $[M^{-1} L^{-2} T^4 A^2]$ | Scalar |
-| **Magnetic Flux ($\Phi_B$)** | Weber ($\text{Wb}$) | $[M L^2 T^{-2} A^{-1}]$ | Scalar |
-| **Magnetic Field ($B$)** | Tesla ($\text{T} = \text{Wb/m}^2$) | $[M T^{-2} A^{-1}]$ | **Vector** |
-| **Dielectric Constant ($\varepsilon_r$)**| Dimensionless | $[M^0 L^0 T^0]$ | Scalar |
-
-### Table 2: Comparative Analysis of Lighting Technologies
-
-| Parameter | Incandescent Bulb | Fluorescent Tube | CFL | LED |
-| :--- | :--- | :--- | :--- | :--- |
-| **Light Generation** | Thermal incandescence of tungsten | Gas discharge of mercury vapour | Gas discharge in compact tube | Solid-state electroluminescence |
-| **Efficiency** | Very low ($5 - 10\%$) | Moderate ($\sim 22\%$) | High ($\sim 25\%$) | Superior ($\sim 85 - 90\%$) |
-| **Operating Temp** | $1500 - 2500^\circ\text{C}$ | Low ($\sim 40^\circ\text{C}$) | Low ($\sim 60^\circ\text{C}$) | Very low (cool running) |
-| **Average Lifespan** | $\sim 1,000\text{ hours}$ | $\sim 8,000\text{ hours}$ | $6,000 - 15,000\text{ h}$ | **$50,000 - 100,000\text{ h}$** |
-| **Environmental Hazard**| Minimal (inert gas) | Contains toxic mercury | Contains toxic mercury | **Zero toxic mercury** |
-| **Radiation Pattern** | Omnidirectional ($360^\circ$) | Cylindrical | Omnidirectional | Directional ($180^\circ$) |
-
----
-
-## Detailed In-Depth Core Theory
-
-### 6.1 Charge, Current, Potential and Circuit Laws
-1. **Current and Current Density:**
-   - Electric current is the macroscopic charge flow rate: $I = dq/dt$.
-   - Current density $\vec{j}$ represents the microscopic distribution: $I = \int \vec{j} \cdot d\vec{A}$. In terms of carrier charge $e$, number density $n$, and drift velocity $\vec{v}_d$: $\vec{j} = n e \vec{v}_d$.
-2. **Ohm's Law & Resistance:**
-   - Under constant physical conditions, $V \propto I \implies V = IR$.
-   - Resistivity $\rho = m / (n e^2 \tau)$, where $m$ is electron mass and $\tau$ is relaxation time.
-   - Temperature dependence in metals: $\rho_T = \rho_0 [1 + \alpha(T - T_0)]$, where $\alpha > 0$ (resistance rises with temperature due to increased electron-phonon scattering).
-3. **Power and Joule Heating:**
-   - Heating effect: $H = I^2 R t = \frac{V^2}{R} t = V I t$.
-   - Power: $P = VI = I^2 R = V^2 / R$.
-   - For household appliances in parallel ($V = \text{constant}$), $P \propto 1/R$. Thus, a $40\text{ W}$ bulb has higher resistance than a $100\text{ W}$ bulb.
-
-### 6.2 Household Safety, Earthing and Safety Engineering
-1. **Electric Fuse Wire:**
-   - Placed in the live wire before appliances.
-   - Operating requirement: Must melt and isolate the circuit prior to current damaging appliance wiring or starting a fire.
-   - Made of eutectic Tin-Lead alloy ($63\%\text{ Sn} + 37\%\text{ Pb}$), melting point $183^\circ\text{C}$. High resistivity ensures rapid local heating ($I^2 R$) during fault.
-2. **Three-Pin Plug & Earthing:**
-   - The earth pin is longer to ensure protective grounding is established prior to live contact. It has a larger diameter to prevent accidental insertion into the live or neutral socket.
-3. **Short Circuit Physics:**
-   - Direct connection between live and neutral wires reduces circuit resistance to almost zero, causing current $I = V/R \to \infty$, generating extreme instantaneous heat.
-
-### 6.3 Electromagnetic Induction, AC vs DC and Transformers
-1. **Faraday's Laws of Induction:**
-   - Induced EMF $\varepsilon = -N \frac{d\Phi_B}{dt}$.
-   - Negative sign represents Lenz's Law (induced current opposes the flux change causing it).
-2. **AC vs DC Machinery:**
-   - AC Generator uses slip rings to output alternating sinusoidal current $V = V_0 \sin(\omega t)$.
-   - DC Dynamo uses a split-ring commutator to invert every negative half-cycle into unidirectional pulsing DC.
-3. **Transformers:**
-   - Operates on mutual induction across iron core: $\frac{V_s}{V_p} = \frac{N_s}{N_p} = \frac{I_p}{I_s}$.
-   - **Direct current (DC) produces zero time-varying magnetic flux** ($d\Phi/dt = 0$), so transformers CANNOT function on DC. Connecting DC will overheat and burn the primary winding.
-
-### 6.4 Clean Energy Transitions, Battery Storage & Electric Mobility
-1. **Photovoltaic Solar Energy:**
-   - Silicon solar cells exploit the photovoltaic effect: incident photons with energy $h\nu > E_g$ generate electron-hole pairs across a p-n junction, creating a DC voltage ($0.5 - 0.6\text{ V}$ per cell).
-   - Net metering enables bidirectional grid exchange.
-2. **Distributed Energy Resources (DER):**
-   - Incorporates rooftop solar, battery energy storage systems (BESS), biomass generation, and fuel cells situated adjacent to consumer load centres.
-3. **Electric Vehicle Batteries:**
-   - Lithium-ion cells use intercalation chemistry:
-     - Cathode: Transition metal oxides (Cobalt, Lithium, Nickel, Manganese) on aluminium.
-     - Anode: Graphitic carbon on copper.
-
----
-
-## Bilingual Terminology -- Electricity and Magnetism
-
-| English Term | Hindi Term | Key Anchor |
+| Landmark Year | Physicist / Inventor | Breakthrough & Prelims Concept |
 |---|---|---|
-| **Electric Charge** (विद्युत आवेश) | विद्युत आवेश | Fundamental property; positive (proton) or negative (electron); SI unit = Coulomb |
-| **Electric Current** (विद्युत धारा) | विद्युत धारा | Flow of electric charge; I = Q/t; SI unit = Ampere (A) |
-| **Voltage / EMF** (विभवान्तर / विद्युत वाहक बल) | विद्युत विभव | Electric potential difference; drives current; SI unit = Volt (V) |
-| **Resistance** (प्रतिरोध) | प्रतिरोध | Opposition to current flow; R = V/I; SI unit = Ohm (omega) |
-| **Ohm's Law** (ओम का नियम) | ओम का नियम | V = IR; current proportional to voltage at constant temp |
-| **Conductors** (चालक) | विद्युत चालक | Allow electricity to flow; metals, graphite |
-| **Insulators** (विद्युतरोधी) | विद्युतरोधी | Resist current; rubber, glass, wood, plastic |
-| **Semiconductors** (अर्धचालक) | अर्धचालक | Between conductor and insulator; silicon, germanium; basis of electronics |
-| **Power** (शक्ति) | शक्ति | P = VI = I^2 R = V^2/R; SI unit = Watt (W) |
-| **Magnet** (चुम्बक) | चुम्बक | Object that produces magnetic field; attracts iron, nickel, cobalt |
-| **Electromagnetism** (विद्युत चुम्बकत्व) | विद्युत चुम्बकत्व | Current produces magnetic field; basis of motors, generators |
-| **Faraday's Law** (फैराडे का नियम) | फैराडे का नियम | Changing magnetic flux induces EMF; basis of generators/transformers |
-| **Transformer** (ट्रांसफार्मर) | परिणामित्र | Step-up or step-down AC voltage; works on mutual induction |
-| **AC / DC** (प्रत्यावर्ती / दिष्ट धारा) | AC / DC | AC = alternating current (direction changes); DC = direct current |
-| **Earthing** (भूसंपर्क) | अर्थिंग | Safety connection to ground; prevents electric shock |
-| **Fuse** (फ्यूज) | फ्यूज | Safety device; thin wire that melts on excess current (made of tin-lead alloy) |
+| **1800** | Alessandro Volta | Constructed the **Voltaic Pile** (alternating zinc and copper disks with brine cloth); SI unit Volt named in his honor. |
+| **1820** | Hans Christian Ørsted | Discovered that an electric current compass needle deflects; unified electricity and magnetism. |
+| **1827** | Georg Simon Ohm | Formulated **Ohm's Law**: potential difference is directly proportional to current at constant temperature. |
+| **1831** | Michael Faraday | Discovered **Electromagnetic Induction**; induced EMF $\mathcal{E} = -N rac{d\Phi_B}{dt}$; founded dynamo and transformer. |
+| **1834** | Heinrich Lenz | Formulated **Lenz's Law**; direction of induced current opposes change in magnetic flux (Conservation of Energy). |
+| **1888** | Nikola Tesla | Championed Alternating Current (AC); invented the multiphase AC induction motor and step-up transformer. |
+
+## 📊 Quick Reference Grid
+
+### 1. Fundamental Electrical & Magnetic Quantities Master Matrix
+
+| Physical Quantity | SI Unit | Symbol | Governing Formula | Key Prelims Ratta Hook |
+|---|---|---|---|---|
+| **Electric Charge ($Q$)** | **Coulomb** | $C$ | $Q = I \cdot t = n \cdot e$ | $1	ext{ C} = 6.25 	imes 10^{18}	ext{ electrons}$; $1	ext{ Faraday} pprox 96,485	ext{ C}$ |
+| **Electric Potential ($V$)** | **Volt** | $V$ | $V = W / Q$ | Work done per unit charge ($1	ext{ V} = 1	ext{ J/C}$) |
+| **Electric Current ($I$)** | **Ampere** | $A$ | $I = Q / t$ | Rate of flow of electric charge ($1	ext{ A} = 1	ext{ C/s}$) |
+| **Electrical Resistance ($R$)**| **Ohm** | $\Omega$ | $R = 
+ho l / A$ | Increases with length $l$; decreases with cross-sectional area $A$ |
+| **Electrical Resistivity ($
+ho$)**| **Ohm-metre** | $\Omega\cdot	ext{m}$ | $
+ho = R A / l$ | Material property; high in Nichrome, lowest in Silver ($Ag$) |
+| **Electrical Conductance ($G$)**| **Siemens (Mho)** | $S$ | $G = 1 / R$ | Reciprocal of electrical resistance |
+| **Electrical Conductivity ($\sigma$)**| **Siemens/metre** | $S/	ext{m}$ | $\sigma = 1 / 
+ho$ | **Silver ($Ag$) has the HIGHEST electrical conductivity of all metals** |
+| **Electric Power ($P$)** | **Watt** | $W$ | $P = V I = I^2 R = V^2 / R$ | $1	ext{ hp (horsepower)} = \mathbf{746	ext{ Watts}}$ |
+| **Electrical Energy ($E$)** | **Kilowatt-Hour** | $kWh$ | $E = P \cdot t$ | **$1	ext{ kWh} = 3.6 	imes 10^6	ext{ Joules} = 1	ext{ Board of Trade (BOT) unit}$** |
+| **Magnetic Flux ($\Phi_B$)** | **Weber** | $Wb$ | $\Phi_B = B \cdot A \cos	heta$ | $1	ext{ Weber} = 10^8	ext{ Maxwell}$ (CGS unit) |
+| **Magnetic Flux Density ($B$)**| **Tesla** | $T$ | $B = \Phi_B / A$ | **$1	ext{ Tesla} = 1	ext{ Wb/m}^2 = 10^4	ext{ Gauss}$** |
 
 ---
 
-## Complete PYQ Bank — UPPCS
+### 2. Classification of Magnetic Materials
 
-**Q-ST1. UP RO/ARO (Pre) 2023**
+| Magnetic Category | Relative Permeability ($\mu_r$) | Magnetic Susceptibility ($\chi_m$) | Behavior in Non-Uniform Magnetic Field | Representative Material Examples |
+|---|---|---|---|---|
+| **Diamagnetic** | $\mu_r < 1$ (slightly less than 1)| Small and **negative** | **Repelled weakly**; moves from stronger to weaker parts of field | **Bismuth (strongest), Copper ($Cu$), Gold, Silver, Water, Nitrogen, Quartz** |
+| **Paramagnetic** | $\mu_r > 1$ (slightly greater than 1)| Small and **positive** | **Attracted weakly**; aligns parallel to applied magnetic field | **Aluminium ($Al$), Platinum ($Pt$), Sodium, Manganese, Liquid Oxygen ($O_2$), Chromium** |
+| **Ferromagnetic** | $\mu_r \gg 1$ (hundreds to thousands)| Very large and **positive** | **Attracted strongly**; retains magnetization forming permanent magnets | **Iron ($Fe$), Cobalt ($Co$), Nickel ($Ni$), Gadolinium, Alnico, Lodestone ($Fe_3O_4$)** |
+
+---
+
+### 3. Domestic Electrical Safety Components & Specifications
+
+| Electrical Component | Material Composition | Essential Physical Property | Correct Installation Rule |
+|---|---|---|---|
+| **Electric Fuse Wire** | Alloy of **Tin ($63\%$) + Lead ($37\%$)** | **LOW Melting Point & HIGH Resistance** | Strictly connected in **SERIES** on the **LIVE wire** |
+| **Miniature Circuit Breaker (MCB)**| Bimetallic strip / Solenoid | Automatic thermal/magnetic trip switch on overcurrent | Connected in series on live wire; reusable |
+| **Earth Wire (Grounding)** | Heavy gauge copper wire (Green/Yellow)| **Zero (negligible) electrical resistance** | Connected to metal casing of appliance $	o$ buried earth plate |
+| **Heating Element** | **Nichrome** (Nickel $80\%$ + Chromium $20\%$)| **HIGH Melting Point ($1400^\circ	ext{C}$) & HIGH Resistivity**; does not oxidize at red heat | Used in electric irons, geysers, toasters, room heaters |
+| **Bulb Filament** | **Tungsten (Wolfram, $W$)** | **HIGHEST Melting Point ($3422^\circ	ext{C}$)** | Enclosed in inert gas (Argon + Nitrogen) to prevent evaporation |
+
+---
+
+### 4. Household Electrical Supply & Transformers Comparison
+
+| Parameter | Standard Indian Domestic Value | Key Exam Ratta Fact |
+|---|---|---|
+| **Domestic Voltage** | **$220	ext{ Volts}$** (Effective RMS AC voltage) | AC reverses polarity 100 times per second |
+| **Domestic Frequency** | **$50	ext{ Hertz}$ ($50	ext{ cycles/second}$)** | US/Japan domestic supply is $110	ext{ V}, 60	ext{ Hz}$ |
+| **Household Wiring Circuit** | **Strictly PARALLEL Circuit** | Each appliance operates at full $220	ext{ V}$; individual independent switches |
+| **Step-Up Transformer** | $N_s > N_p \implies V_s > V_p \implies I_s < I_p$ | **Increases voltage, decreases current**; minimizes $I^2R$ power grid losses |
+| **Step-Down Transformer** | $N_s < N_p \implies V_s < V_p \implies I_s > I_p$ | **Decreases voltage, increases current**; substations step down to $220	ext{ V}$ |
+
+## ⚡ Confused Pairs & Common Examiner Traps
+
+| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
+|---|---|---|---|
+| **Fuse Wire Properties** | **Heating Element Properties**| **Fuse wire** must have a **LOW melting point** (melts during overload) and high resistivity (alloy of $Sn + Pb$). **Heating element (Nichrome)** must have a **HIGH melting point** ($1400^\circ	ext{C}$) so it glows red without melting. | फ्यूज तार = कम गलनांक (Low melting point); हीटर तार (नाइक्रोम) = उच्च गलनांक |
+| **Household Wiring (Parallel)**| **Series Connection Myth** | Household appliances are wired strictly in **PARALLEL** so each receives the full $220	ext{ V}$ and one broken appliance does not shut off others. Festive fairy lights are wired in **SERIES**. | घरेलू वायरिंग समानांतर क्रम (Parallel) में होती है, श्रेणी क्रम में नहीं |
+| **Step-Up Transformer Power**| **Energy Creation Myth** | A step-up transformer increases voltage, but **DOES NOT increase power or energy** ($P = VI$ remains constant, ignoring efficiency losses). When voltage is stepped up, **current decreases proportionally**. | ट्रांसफॉर्मर वोल्टेज बढ़ाता है, शक्ति या ऊर्जा नहीं (वोल्टेज बढ़ने पर धारा घटती है) |
+| **Transformer Operating Current**| **DC Supply Input** | A transformer operates strictly on **Alternating Current (AC)** via Mutual Induction. If connected to a Direct Current (DC) battery, rate of flux change is zero ($d\Phi/dt = 0$) and the **primary coil burns out**! | ट्रांसफॉर्मर केवल प्रत्यावर्ती धारा (AC) पर कार्य करता है, दिष्ट धारा (DC) पर नहीं |
+| **Dynamo (Generator)** | **Electric Motor** | A **Dynamo converts MECHANICAL energy into ELECTRICAL energy** (Faraday induction). An **Electric Motor converts ELECTRICAL energy into MECHANICAL energy** (magnetic Lorentz force). | डायनेमो = यांत्रिक ऊर्जा को विद्युत ऊर्जा में; मोटर = विद्युत ऊर्जा को यांत्रिक ऊर्जा में |
+| **Inverter** | **Rectifier** | An **Inverter converts DC (battery) into AC (household appliances)**. A **Rectifier (diode) converts AC into DC** (for battery charging). | इन्वर्टर = DC को AC में; रेक्टिफायर = AC को DC में बदलता है |
+| **Electrical Conductivity Champion**| **Copper vs Silver** | **Silver ($Ag$) has the highest electrical conductivity of all metals**, followed by Copper ($Cu$), Gold ($Au$), and Aluminium ($Al$). Copper is used commercially solely due to cost. | विद्युत की सर्वोत्तम सुचालक धातु = चांदी (Silver) |
+| **Earth Magnetic Poles** | **Geographic Poles** | The magnetic pole situated near the geographic North Pole is actually a **magnetic SOUTH pole** (which attracts the North-seeking pole of a compass needle). | पृथ्वी का उत्तरी भौगोलिक ध्रुव चुंबकीय दक्षिणी ध्रुव (Magnetic South) की भांति व्यवहार करता है |
+| **Curie Temperature** | **Critical Temperature** | **Curie Temperature** is the threshold above which a **ferromagnetic material loses spontaneous magnetism and becomes paramagnetic** (Iron $= 770^\circ	ext{C}$). | क्यूरी ताप = वह ताप जिसके ऊपर लौह-चुंबकीय पदार्थ अनुचुंबकीय बन जाता है |
+| **Resistance vs Temperature** | **Conductor vs Semiconductor** | With rising temperature, the resistance of **metallic conductors INCREASES** (positive temperature coefficient). The resistance of **semiconductors DECREASES** (negative coefficient). | ताप बढ़ने पर चालकों का प्रतिरोध बढ़ता है, जबकि अर्धचालकों का प्रतिरोध घटता है |
+
+## 🧠 Memory Anchors & Mnemonics
+
+### 1. Electrical Power Triumvirate:
+$$P = V 	imes I = I^2 R = rac{V^2}{R}$$
+- **Energy Unit**: $1	ext{ kWh} = 1000	ext{ W} 	imes 3600	ext{ s} = \mathbf{3.6 	imes 10^6	ext{ Joules}}$.
+
+### 2. Fuse Wire Composition & Trait:
+- **Tin ($63\%$) + Lead ($37\%$)**
+- **Low Melting Point** (Blows open circuit before house catches fire).
+
+### 3. Magnetic Materials Reaction Hook:
+- **Dia**: **D**rives away (Weakly repelled; Water, Bismuth, Copper).
+- **Para**: **P**ulls gently (Weakly attracted; Aluminium, Oxygen).
+- **Ferro**: **F**irmly locked (Strongly attracted; Iron, Cobalt, Nickel).
+
+### 4. Metal Conductivity Ladder: **S-C-G-A**
+- **S**ilver > **C**opper > **G**old > **A**luminium
+- Silver is #1 in electrical and thermal conductivity.
+
+## 🎯 High-Yield PYQ Drill
+
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+
+**Q1.**
+
+What is the total electrical energy consumed by a household using three $100\text{ W}$ fans for $10\text{ hours}$ each day in a month of 30 days?
+- (A) $9\text{ units}$
+- (B) $30\text{ units}$
+- (C) $90\text{ units}$
+- (D) $900\text{ units}$
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $\text{Units} = \frac{3 \times 100\text{ W} \times 10\text{ h/day} \times 30\text{ days}}{1000} = 90\text{ kWh (units)}$.
+
+**Ans: C.** $90\text{ units}$
+</details>
+
+**Q2.**
+
+Two electric bulbs rated $25\text{ W}, 220\text{ V}$ and $100\text{ W}, 220\text{ V}$ are connected in series across a $220\text{ V}$ supply. Which bulb will glow brighter?
+- (A) $100\text{ W}$ bulb
+- (B) $25\text{ W}$ bulb
+- (C) Both will glow with equal brightness
+- (D) Neither will glow
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** $R = V^2 / P$.
+
+**Ans: B.** $25\text{ W}$ bulb
+</details>
+
+**Q3.**
+
+An electric fuse wire melts at $5\text{ A}$. If a fuse of the same material is to be made with a current rating of $10\text{ A}$, the new wire must have:
+- (A) Smaller radius
+- (B) Larger radius
+- (C) Greater length
+- (D) Smaller length
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** By Preece's Law for fuse wires, the fusing current $I \propto r^{3/2}$.
+
+**Ans: B.** Larger radius
+</details>
+
+**Q4.**
+
+A transformer is used to:
+- (A) Convert AC into DC
+- (B) Convert DC into AC
+- (C) Step-up or step-down AC voltage
+- (D) Step-up or step-down DC voltage
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Transformers operate strictly on alternating current via electromagnetic induction; they cannot function on direct current.
+
+**Ans: C.** Step-up or step-down AC voltage
+</details>
+
+**Q5.**
+
+In an electric vehicle Lithium-ion battery, which of the following materials is typically utilized for the ANODE?
+- (A) Cobalt oxide
+- (B) Lithium phosphate
+- (C) Nickel oxide
+- (D) Graphite
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The anode is made of graphite (carbon) coated on copper foil, which intercalates lithium ions during charging.
+
+**Ans: D.** Graphite
+</details>
+
+---
+
+**Q6. (UP RO/ARO (Pre) 2023)**
 
 15 bulbs each of 200 watt capacity in a Silkyara
 
@@ -300,272 +292,192 @@ consumption of electricity will be :
 **Ans: B.** 72 units
 </details>
 
-**Q2.** Ans: A.** M0
-</details>
+**Q7. (UPPCS (Pre) 2017)**
 
-**Q-ST3. 70th B.P.S.C. (Pre) (Re-Exam) 2024**
+Five bulbs each of 100 watt capacity in a tunnel
 
-An electron of mass M kg and charge e coulomb travels
+are illuminated continuously for twenty hours. The
 
-from rest through a potential difference of V volts. The
+consumption of electricity will be:
 
-final energy in joules would be :
+(a) One unit (b) Two units
 
-(a) eV (b)
-
-(c) (d) MeV
+(c) Ten units (d) Twenty units
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Standard key matches eV (b).
+**Logic:** Consumption of electricity by one bulb = 2 units Thus, consumption of electricity by 5 bulbs = 2 × 5 = 10 units
 
-**Ans: A.** eV (b)
+**Ans: C.** Ten units (d) Twenty units
 </details>
 
-**Q3.** in Science & Technology, consider the following statement:
+**Q8. (UPPCS (Pre) 2006)**
 
-Which of the following is correct regarding this topic?
+The value of 1 kilowatt hour is –
 
-A. Electric Vehicle (EV) Battery Cathode Chemistries (IAS Pre 2025 Fact):
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
+(a) 3.6 × 106
+
+ J (b) 3.6 × 103
+
+ J
+
+(c) 103 J (d) 105
+
+ J
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** 1 Kilowatt hour = 1 (kilowatt) (1 hour) = (1000 joule/sec.) (3600 sec.) = 36 × 105 Joule = 3.6 × 106 Joule Thus, option (a) is correct.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Electric Vehicle (EV) Battery Cathode Chemistries (IAS Pre 2025 Fact):**
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: A.** 3.6 × 106
 </details>
 
-**Q4.** in Science & Technology, consider the following statement:
+**Q9. (UP Lower Sub (Pre) 2009)**
 
-Which of the following is correct regarding this topic?
+An electric bulb of 100 watt is used for 4 hours. The
 
-A. Contrary to standard doctrine, Cathode applies only to union territories and not state jurisdictions.
-B. Cathode (Positive Electrode): Typically composed of Cobalt, Lithium, and Nickel (as NMC: $\text{LiNiMnCoO}2$) or Lithium Iron Phosphate (LFP: $\text{LiFePO}4$), coated on aluminium foil.
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+unit of electric energy used is –
+
+(a) 400 (b) 25
+
+(c) 4 (d) 0.4
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Logic:** The electric energy consumed = 100 watt × 4 hour = 400 watt hour kilowatt hour = 0.4 kilowatt hour = 0.4 unit
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Cathode (Positive Electrode):** Typically composed of **Cobalt, Lithium, and Nickel** (as NMC: $\text{LiNiMnCoO}_2$) or Lithium Iron Phosphate (LFP: $\text{LiFePO}_4$), coated on aluminium foil.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: D.** 0.4
 </details>
 
-**Q5.** in Science & Technology, consider the following statement:
+**Q10. (UP Lower Sub (Pre) 2008 / UPPCS (Pre) 2009)**
 
-Which of the following is correct regarding this topic?
+Of the two bulbs in a house, one glows brighter than the
 
-A. Contrary to standard doctrine, Anode applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Anode (Negative Electrode): Constructed of Graphite (Carbon) coated on copper foil.
-D. Enacted under Article 356 of the Constitution of India
+other. In this context which of the following statements
+
+is correct ?
+
+(a) The brightness does not depend on the resistance.
+
+(b) Both the bulbs have same the resistance.
+
+(c) The bright bulb has larger resistance.
+
+(d) The dim bulb has larger resistance.
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** The bulb which decays more energy will generate more brightness.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Anode (Negative Electrode):** Constructed of **Graphite (Carbon)** coated on copper foil.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: D.** The dim bulb has larger resistance
 </details>
 
-**Q6.** in Science & Technology, consider the following statement:
+**Q11. (UPPCS (Mains) 2013)**
 
-Which of the following is correct regarding this topic?
+Of the two bulbs in a house, one glows brighter than
 
-A. Contrary to standard doctrine, Common applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Common Trap Fact: Graphite is strictly an ANODE material, NOT a cathode component!
+the other. Which of the two has a larger resistance ?
+
+(a) The dim bulb
+
+(b) The brighter bulb
+
+(c) Both have the same resistance
+
+(d) The brightness does not depend on the resistance
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** Standard key matches The dim bulb.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Common Trap Fact:** Graphite is strictly an **ANODE** material, NOT a cathode component!
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: A.** The dim bulb
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
+**Q12. (UP RO/ARO (Pre) 2023)**
 
-Which of the following is correct regarding this topic?
+A voltage of 15 volt is applied across a colour coded
 
-A. Alternative Powertrain Vehicles (IAS Pre 2025 Fact):
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
+carbon resistor with first, second and third rings of
+
+brown, green and black colours. What is the current
+
+flowing through the resistor?
+
+(a) 3 ampere (b) 2 ampere
+
+(c) 1 ampere (d) None of the above
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** Resistor code value for brown colour = 1 (A) Resistor code value for green colour = 5 (B) Resistor code value for black colour = 0 (C) We know that first two bands (rings) indicate the first two significant digits of re…
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Alternative Powertrain Vehicles (IAS Pre 2025 Fact):**
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: C.** 1 ampere (d) None of the above
 </details>
 
-**Q8.** in Science & Technology, consider the following statement:
+**Q13. (UPPCS (Mains) 2009)**
 
-Which of the following is correct regarding this topic?
+A dynamo which is said to generate electricity actually
 
-A. Contrary to standard doctrine, Distributed applies only to union territories and not state jurisdictions.
-B. Distributed Energy Resources (DER: IAS Pre 2024 Fact):
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
+acts as a :
+
+(a) Source of ions
+
+(b) Source of electric charge
+
+(c) Converter of energy
+
+(d) Source of electrons
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Logic:** A dynamo, which is also known as an electrical generator produces direct current through a commutator.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Distributed Energy Resources (DER: IAS Pre 2024 Fact):**
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: C.** Converter of energy
 </details>
 
-**Q9.** in Science & Technology, consider the following statement:
+**Q14. (UPPCS (Pre) 2016 / 39th B.P.S.C. (Pre) 1994 / UPPCS ( Pre) 1993 / UPPCS ( Pre) 1992)**
 
-Which of the following is correct regarding this topic?
+‘Dynamo’ is a device, which converts :
 
-A. Contrary to standard doctrine, Pumped-Storage applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Pumped-Storage Hydropower (PSH) in Uttar Pradesh (IAS Pre 2024 Fact):
-D. Classified under Schedule VII List II (State List)
+(a) Chemical energy into electrical energy
+
+(b) Electrical energy into mechanical energy
+
+(c) Mechanical energy into electrical energy
+
+(d) Electrical energy into chemical energy
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** A dynamo is an electrical generator that produces direct current with the use of a commutator.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Pumped-Storage Hydropower (PSH) in Uttar Pradesh (IAS Pre 2024 Fact):**
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: C.** Mechanical energy into electrical energy
 </details>
 
-**Q10.** in Science & Technology, consider the following statement:
+**Q15. (UPPCS (Mains) 2012 / RAS/RTS(Pre) 2012)**
 
-Which of the following is correct regarding this topic?
+Dynamo is a machine which is used for –
 
-A. Contrary to standard doctrine, Silkyara applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Silkyara Tunnel Lighting Calculation (UPPCS RO/ARO Pre 2023 Fact):
+(a) Conversion of high voltage to low voltage
+
+(b) Conversion of electrical energy to mechanical energy
+
+(c) Conversion of mechanical energy to electrical energy
+
+(d) Conversion of low voltage to high voltage
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** Standard key matches Conversion of mechanical energy to electrical energy.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Silkyara Tunnel Lighting Calculation (UPPCS RO/ARO Pre 2023 Fact):**
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q11.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Wind Power Installed Capacity in India (CGPSC / MPPSC Fact):
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Wind Power Installed Capacity in India (CGPSC / MPPSC Fact):**
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q12.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Global applies only to union territories and not state jurisdictions.
-B. Global Solar Silicon Wafer Production (IAS Pre Fact):
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Global Solar Silicon Wafer Production (IAS Pre Fact):**
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q13.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Current applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Current density ($\vec{j} = I/A$) is a VECTOR quantity (pointing in the direction of positive charge motion), whereas electric current ($I$) and electric potential ($V$) are scalars.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Current density ($\vec{j} = I/A$) is a VECTOR quantity** (pointing in the direction of positive charge motion), whereas electric current ($I$) and electric potential ($V$) are **scalars**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q14.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Nickel-Cadmium applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Nickel-Cadmium (Ni-Cd) rechargeable batteries use nickel oxide hydroxide and metallic cadmium electrodes with potassium hydroxide ($\text{KOH}$) alkaline electrolyte; used in calculators, cordless tools, and transistors.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Nickel-Cadmium (Ni-Cd)** rechargeable batteries use nickel oxide hydroxide and metallic cadmium electrodes with potassium hydroxide ($\text{KOH}$) alkaline electrolyte; used in calculators, cordless tools, and transistors.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q15.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Lightning contains tremendous electrical energy ($10^8 - 10^9\text{ Joules}$), sufficient to vaporize moisture inside a tree and cause explosive combustion.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. None of the above statements are correct according to official Commission keys.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Lightning** contains tremendous electrical energy ($10^8 - 10^9\text{ Joules}$), sufficient to vaporize moisture inside a tree and cause explosive combustion.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: C.** Conversion of mechanical energy to electrical energy
 </details>

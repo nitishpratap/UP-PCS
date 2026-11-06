@@ -11,79 +11,290 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 3 — Vedic Civilization</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **UNESCO Register** | 30 manuscripts of the **Rigveda** preserved at the Bhandarkar Oriental Research Institute (BORI, Pune) inscribed on **UNESCO's Memory of the World Register** (2007). | Landmark question on national archival heritage. |
+| **Palaeo-hydrology** | ISRO & Geological Survey of India (GSI) satellite mapping confirms underground palaeochannel of the ancient **Saraswati (Ghaggar-Hakra)** river system in Haryana/Rajasthan. | Core link to Vedic geography (*Naditama*). |
+| **Archaeo-metallurgy** | Radio-carbon dates from **Atranjikhera, Raja Nal Ka Tila, and Malhar (UP)** push iron-smelting antiquity back to ~1800–1500 BCE. | Challenges old view that iron arrived strictly with Later Vedic Aryans in 1000 BCE. |
+| **State Heritage (UP)** | **Naimisharanya (Sitapur, UP)** and **Hastinapur (Meerut, UP)** included in Vedic Tourism Circuit. | Sitapur (88,000 rishis discourse) and Hastinapur (Kuru capital) in UPPCS exams. |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Sabha** (सभा) was an assembly of elders or nobles. **Samiti** (समिति) was the wider tribal assembly that could **choose the rajan** (राजन).
-2. **Vidatha** (विदथ / विधाता) is the **oldest** gathering, with economic and ritual roles and women’s presence. It **fades first** in Later Vedic times.
-3. **Bhagadugha** (भागदुघ) collected the king’s share (**bhaga** (भाग)). **Sangrahitri** (संग्रहीतृ) was the **treasurer**. **Akshavapa** (अक्षावाप) handled **dice / gambling**. Do not swap revenue with dice.
-4. **Shukla (White) Yajurveda** is the **Vajasaneyi** (वाजसनेयी) school, with mantra and prose kept separate. **Krishna** (कृष्णा) here means **Black Yajurveda**, not the god Krishna.
-5. **Aranyakas** (आरण्यक) are forest texts of symbolic ritual. **Upanishads** (उपनिषद्) teach **Brahman–Atman** philosophy (Vedanta).
-6. **Varna** (वर्ण) is the four-fold order (Purusha Sukta; more rigid later). **Jati** (जाति) is later birth-group identity. Do not treat them as identical.
-7. **Gavishti** (गविष्टि) means cattle-raid or war for cows. **Bali** (बलि) is tribute to the king. **Nishka** (निष्क) is a gold ornament or value-unit, **not** coined money.
-8. **Shruti** (श्रुति) is “heard” Vedic revelation. **Smriti** (स्मृति) is remembered later dharma literature.
-9. **PGW** (Painted Grey Ware), about **1100–600 BCE**, is the Later Vedic **doab** (दोआब) marker: grey pottery with black geometric paint.
-10. **OCP** is pre-PGW ochre-wash doab rural pottery. **PGW** is iron-age painted grey ware of Later Vedic settlements.
-11. **Brahmana** texts are ritual prose, not the same as the **Brahmana** varna. Context decides which meaning is asked.
-12. **Videha** (north Bihar, Janaka tradition) is east of the UP doab but linked in Later Vedic texts such as the Shatapatha Brahmana.
-13. **Arya** in classical Sanskrit means a **noble** person. Homeland theories include Tilak’s **Arctic** (*The Arctic Home in the Vedas*), Max Müller’s **Central Asia**, and others — none is a closed scientific proof.
-14. **Sindhu** is named most often in the Rigveda; **Saraswati** is the most sacred (*Naditama / Devitama / Matetama* / नदीतमा, देवितमा, मातेतमा). Afghanistan rivers in the hymns include **Kubha, Krumu, Gomati, Suvastu**.
-15. **Gayatri** (RV III.62.10, Vishvamitra → Savitr); **Satyameva Jayate** (*Mundaka*); **Tamaso mā jyotir gamaya** (*Brihadaranyaka*); Nachiketa–Yama (*Katha*).
-16. **Boghaz-köi** (Hittite / Asia Minor) names **Indra, Varuna, Mitra, Nasatya**. Cow is **aghanya** (अघन्या - not to be killed). **Dasharajna** (दशराज्ञ युद्ध) was fought on the **Parushni** (परुष्णी / रावी).
-17. **Sama Veda** is chant / melody drawn largely from Rigvedic verses. **Yajurveda** is the ritual-formula Veda (White / Black schools). **Atharvaveda** is charms and household rites.
-18. **Aitareya** and **Shatapatha** are key **Brahmana** texts. **Brihadaranyaka** and **Chandogya** are major early **Upanishads**. **Mundaka** gives *Satyameva Jayate*.
-19. **Panini** is the usual Vyakarana name. Do not swap him with Yaska.
-20. **Veda** (वेद) means knowledge. The post-Harappan textual culture of the Indo-Aryans is called the **Vedic** age.
-21. **Arya** in classical Sanskrit means a **noble** person. Older booklet keys sometimes call it a “superior race”; standard teaching treats Arya as a **cultural–linguistic** self-designation, not a modern racial science label.
-22. **Bal Gangadhar Tilak** (बाल गंगाधर तिलक) argued the **Arctic / North Pole** in *The Arctic Home in the Vedas*; historians generally reject it.
-23. **Max Müller** stressed **Central Asia** (most widely accepted view).
-24. **Swami Dayanand Saraswati** argued **Tibet** (*Satyarth Prakash*).
-25. **Boghazkoi Inscription** (Asia Minor / Turkey, 1400 BC) mentions 4 Rigvedic deities: **Indra, Varuna, Mitra, and Nasatyas**, confirming antiquity and Indo-Iranian linguistic links.
-26. **Sindhu** is mentioned **most often** and is called **Hiranyayi**; it empties toward the Arabian Sea.
-27. **Saraswati** is the **most sacred** river — *Matetama*, *Devitama*, *Naditama*.
-28. **Yamuna** (यमुना) appears a few times; **Ganga** (गंगा) appears once in early Rigvedic memory.
-29. **Sadaneera** is identified with the **Gandak** (गंडक); **Drishadvati** with the Ghaggar belt in many notes.
-30. **Later Vedic** culture shifts **east** into the **Ganga–Yamuna doab** of western–central UP.
-31. **Ayas** in the Rigveda means copper or bronze, not iron.
-32. **Cattle are wealth.**
-33. **Battle of Ten Kings (Dasrajan War):** Fought on the banks of river **Parushni (Ravi)**. King **Sudas** of the Bharata clan (Tritsu family, assisted by sage **Vasishtha**) defeated an alliance of 10 kings (5 Aryan + 5 non-Aryan) led by sage **Vishvamitra**.
-34. **Rigvedic Rivers (Nadisukta):** Kubha (Kabul), Vitasta (Jhelum), Asikni (Chenab), Parushni (Ravi), Vipas (Beas), Sutudri (Sutlej), Drishadvati (Ghaggar), Sadanira (Gandak), Gomati (Gomal), Suvastu (Swat).
-35. **Dasas** and **Dasyus** are rival groups in the hymns.
+1. The **Early / Rigvedic** age is about **1500–1000 BCE** in the **Sapta Sindhu** (Land of 7 Rivers: Indus, Saraswati, Jhelum, Chenab, Ravi, Beas, Sutlej). The **Later Vedic** age is about **1000–600 BCE** centered in the **Kuru-Panchala** Ganga–Yamuna doab.
+2. The Rigvedic economy was predominantly **pastoral / semi-nomadic**; cattle (*Gau*) was the chief measure of wealth (*Gomat*). Agriculture was secondary. The Later Vedic economy became predominantly **settled agriculture** with iron technology (*Shyama-ayas*).
+3. The **Rigveda** contains **10 Mandalas** and **1,028 Suktas** (1,017 main + 11 *Valakhilya* hymns) with 10,580 verses.
+4. Mandalas **II to VII** (composed by families of rishis: Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vasishtha) are the **oldest core** (*Family Books*). Mandalas **I and X** are the **latest additions**.
+5. The **Gayatri Mantra** is contained in the **3rd Mandala** of the Rigveda, composed by **Vishvamitra** and dedicated to the solar deity **Savitr**.
+6. The **Dasrajan Yudha (Battle of 10 Kings)** is described in the **7th Mandala** of the Rigveda. King **Sudas** of the **Bharata / Tritsu** clan (guided by sage **Vasishtha**) decisively defeated a confederacy of 10 tribes (5 Aryan + 5 non-Aryan, guided by **Vishvamitra**) on the banks of the **Parushni (Ravi) river**.
+7. The **9th Mandala** of the Rigveda is dedicated entirely to **Soma** (the sacred hallucinogenic plant and deity of Munjavat mountain).
+8. The **Purusha Sukta** in the **10th Mandala** contains the **first explicit mention of the four Varnas** (Brahmana, Kshatriya, Vaishya, Shudra) originating from the mouth, arms, thighs, and feet of the Cosmic Being (*Purusha*).
+9. **Samaveda** is the Veda of melodies and chants (*Saman*), comprising 1,875 verses set to musical notes (*Ragas*); chanted by **Udgatri** priests; represents the origin of Indian classical music.
+10. **Yajurveda** contains ritual formulas and sacrificial procedures, recited by **Adhvaryu** priests. It is divided into:
+    - **Shukla Yajurveda** (White) — purely poetic hymns; preserved in *Vajasaneyi Samhita*.
+    - **Krishna Yajurveda** (Black) — hymns combined with prose commentaries.
+11. **Atharvaveda** (attributed to rishis Atharvan and Angiras) deals with charms, magic spells for curing diseases, warding off evil spirits, and everyday household rituals. It was recited by the **Brahma** priest (overseer of sacrifices).
+12. **Brahmanas** are prose liturgical treatises explaining the symbolism and application of Vedic sacrificial rituals.
+    - Rigveda: **Aitareya** and **Kaushitaki** (Sankhayana).
+    - Samaveda: **Panchavimsha** (Tandya Mahabrahmana) and **Jaiminiya**.
+    - Shukla Yajurveda: **Shatapatha Brahmana** (largest and most detailed Brahmana).
+    - Krishna Yajurveda: **Taittiriya Brahmana**.
+    - Atharvaveda: **Gopatha Brahmana** (only Brahmana attached to Atharvaveda).
+13. **Shatapatha Brahmana** contains the celebrated legend of **Videgha Mathava** (king of Videha) carrying the sacrificial fire (*Agni Vaishvanara*) eastward from the Saraswati across the **Sadaneera (Gandak) river** into Bihar, marking the eastward spread of Aryan Vedic culture.
+14. **Upanishads** (*Vedanta* — end of the Vedas) are philosophical treatises centered on the unity of the individual soul (**Atman**) and the Ultimate Cosmic Reality (**Brahman**). There are **108 Upanishads** (*Muktika canon*), of which 10–12 are principal (*Mukhya*).
+15. **Mundaka Upanishad** (attached to Atharvaveda) contains the national motto of India: **"Satyam Eva Jayate"** (*Truth Alone Triumphs*). It also describes formal sacrifices as *"frail boats"* (*plava hyete adridha yajnarupah*).
+16. **Katha Upanishad** contains the profound philosophical dialogue between the young seeker **Nachiketa and Yama (God of Death)** on the immortality of the soul and the secret of life after death.
+17. **Brihadaranyaka Upanishad** (largest Upanishad) contains the celebrated debate at king Janaka's court between sage **Yajnavalkya and scholarly woman Gargi Vachaknavi**, the prayer *"Asato Ma Sadgamaya, Tamaso Ma Jyotirgamaya"*, and the doctrine of *Neti Neti* ("Not this, not this").
+18. **Chhandogya Upanishad** contains the story of **Satyakama Jabala** (admitted to Vedic study by sage Gautama for speaking truth about his parentage) and the famous mahavakya **"Tat Tvam Asi"** (*That Thou Art*) spoken by Uddalaka Aruni to his son Svetaketu.
+19. **Jabala Upanishad** provides the **earliest explicit mention of all Four Ashramas** (Brahmacharya, Grihastha, Vanaprastha, Sanyasa).
+20. The **Six Vedangas** (limbs of the Veda): **Shiksha** (Phonetics), **Kalpa** (Rituals), **Vyakarana** (Grammar), **Nirukta** (Etymology), **Chhanda** (Metrics), **Jyotisha** (Astronomy).
+21. **Sulba Sutras** (part of Kalpa Vedanga) contain the earliest manual of **Indian geometry and fire-altar measurement**, formulating the theorem later attributed to Pythagoras.
+22. **Shad-Darshana (Six Schools of Orthodox Philosophy)**:
+    - **Samkhya** — **Kapila Muni** (dualism of Purusha & Prakriti; oldest).
+    - **Yoga** — **Patanjali** (*Yoga Sutras*; Ashtanga Yoga).
+    - **Nyaya** — **Akshapada Gautama** (*Nyaya Sutras*; logic, 4 Pramanas).
+    - **Vaisheshika** — **Kanada / Uluka** (atomic theory / *Paramanu*).
+    - **Purva Mimamsa** — **Jaimini** (*Mimamsa Sutras*; Vedic ritualism).
+    - **Uttara Mimamsa (Vedanta)** — **Badarayana** (*Brahma Sutras*; Brahman monism).
+23. **Vedic Assemblies**:
+    - **Vidatha**: Oldest tribal assembly (122 mentions in Rigveda); engaged in economic distribution of war spoils and rituals; **women actively participated** (*Vidathya*); completely disappeared in Later Vedic.
+    - **Sabha**: Smaller aristocratic council of village elders and Brahmanas; performed **judicial functions**; women attended in Early Vedic (*Sabhavati*), excluded in Later Vedic.
+    - **Samiti**: Broad general assembly of the entire clan (*Vis*); exercised **electoral powers** to elect and depose the King (*Rajan*).
+24. **Atharvaveda (7.12.1)** explicitly calls **Sabha and Samiti the two twin daughters of Prajapati** (*Prajapateh duhitarau*).
+25. **The 12 Ratnins (Taittiriya Samhita / Shatapatha Brahmana)**:
+    - **Purohita** (Chief Priest) & **Senani** (Army Chief).
+    - **Gramani** (Village Headman) & **Mahishi** (Chief Queen).
+    - **Suta** (Charioteer/Bard).
+    - **Sangrahitri** (Treasurer / Storehouse keeper).
+    - **Bhagadugha** (Collector of the King's share of taxes / revenue).
+    - **Akshavapa** (Superintendent of gambling & royal dice accountant — *UPPCS Trap: NOT a tax collector!*).
+    - **Govikartana** (Companion in the royal hunt / keeper of forests).
+    - **Palagala** (Courier / messenger).
+    - **Kshattri** (Palace chamberlain / gatekeeper).
+    - **Takshan / Rathakara** (Master chariot-builder).
+26. **Rigvedic Deities**:
+    - **Indra** (*Purandara* — breaker of forts): Most popular deity (**250 hymns**); god of thunder, storm, and war.
+    - **Agni**: 2nd most important (**200 hymns**); intermediary between humans and gods; fire of the domestic hearth and sacrifice.
+    - **Varuna**: Upholder of the cosmic and moral order (**Rta**); lord of celestial waters and guardian of truth (*Rtasyagopa*).
+    - **Soma**: God of the intoxicating sacred ritual plant (all 114 hymns of 9th Mandala).
+    - **Yama**: God of death and lord of ancestors (*Pitris*).
+    - Female deities: **Usha** (Dawn), **Aditi** (Mother of gods), **Prithvi** (Earth), **Saraswati** (River goddess / learning), **Aranyani** (Goddess of forests). No prominent female warrior deity existed.
+27. In the **Later Vedic Period**, Indra and Agni lost supreme prominence; the triad of **Prajapati** (the Creator), **Rudra** (the Destroyer), and **Vishnu** (the Preserver) rose to supreme importance. **Pushan**, who protected cattle in the Rigveda, became the god of the Shudras.
+28. **Vedic Key Vocabulary**:
+    - **Aghanya** (अघन्या) = **Cow** ("not to be killed / slain"); highest penalty for harming.
+    - **Gavishti / Gaveshana** = **War / cattle raid** ("search for cows").
+    - **Gopati** = King / tribal chieftain ("protector of cows").
+    - **Duhitri** = Daughter ("one who milks cows").
+    - **Goghna** = Revered guest for whom a cattle offering was made.
+    - **Godhuli** = Dusk / evening twilight ("dust raised by returning cows").
+    - **Gavyuti** = Measure of distance.
+    - **Spasa** = Spies / secret agents.
+    - **Jivagribh** = Police officer / arresting guard.
+    - **Pani** = Wealthy non-Aryan traders / cattle-stealers.
+    - **Bekhanata** = Moneylender charging usurious interest rates.
+    - **Nishka / Satamana** = Gold ornament/weight in Early Vedic; evolved into currency unit in Later Vedic.
+29. **Vedic Grains & Agriculture**:
+    - **Yava** = **Barley** (the principal staple of Rigvedic Aryans).
+    - **Godhuma** = **Wheat** (widely cultivated in Later Vedic).
+    - **Vrihi** = **Rice** (extensively mentioned in Later Vedic texts, e.g. *Shatapatha Brahmana*).
+    - **Sira / Langala** = Plough; **Sita** = furrow made by plough; **Kinasha** = ploughman/cultivator; **Urvara / Kshetra** = fertile field.
+30. **Metals (Ayas)**:
+    - In Rigveda: **Ayas** refers to **copper or bronze** (not iron).
+    - In Later Vedic texts: **Krishna-ayas** or **Shyama-ayas** refers to **iron**; **Lohita-ayas** refers to **copper**.
+31. **Pottery Associated with Vedic Periods**:
+    - Early Vedic is loosely associated with **Ochre Coloured Pottery (OCP)**.
+    - Later Vedic is firmly associated with **Painted Grey Ware (PGW)**.
+    - NBPW (Northern Black Polished Ware) marks the subsequent Mahajanapada second urbanisation phase.
+32. **Three Great Royal Sacrifices (Yajnas)**:
+    - **Rajasuya Yajna**: Consecration ceremony conferring supreme royal status; involved the *Ratnahavimshi* (king visiting 12 Ratnins) and a chariot race / dice game.
+    - **Ashvamedha Yajna**: Horse sacrifice to assert undisputed imperial sovereignty over all territories traversed by the royal horse for one year.
+    - **Vajapeya Yajna**: "Drink of strength"; chariot race in which the royal chariot was staged to win, rejuvenating the king's physical and spiritual prowess.
+33. **Social Hierarchy Evolution**:
+    - Early Vedic: Social division based on **occupation / karma**, flexible and egalitarian; a poet in 9th Mandala says: *"I am a poet, my father is a physician, my mother grinds corn on stone."*
+    - Later Vedic: Division hardened into **hereditary Varna by birth** (*Janma*); emergence of untouchability markers; exclusion of Shudras and women from Upanayana (sacred thread) ceremony.
+34. **Status of Women**:
+    - Rigvedic: Women enjoyed high status; underwent *Upanayana*; composed Vedic hymns (e.g., **Ghosha, Lopamudra, Apala, Vishvavara, Sikata**); married at mature age; *Niyoga* (levirate) permitted; no child marriage; no purdah; no Sati.
+    - Later Vedic: Severe decline in status; denied Upanayana; excluded from assemblies (Sabha); daughters viewed as source of sorrow (*Aitareya Brahmana*: *"daughter is misery, son is light of family"*); Maitrayani Samhita lists woman as one of the three evils along with liquor and dice.
+35. **Rigvedic Rivers (Ancient ↔ Modern)**:
+    - **Vitasta** = **Jhelum**
+    - **Asikni** = **Chenab**
+    - **Parushni** = **Ravi**
+    - **Vipas** = **Beas**
+    - **Sutudri** = **Sutlej**
+    - **Sindhu** = **Indus** (most frequently mentioned river)
+    - **Saraswati** = **Ghaggar-Hakra** (most sacred river: *Naditama*, *Devitama*, *Ambitama*)
+    - **Sadaneera** = **Gandak**
+    - **Drishadvati** = **Chautang / Rakshi**
+    - Afghan rivers: **Kubha** (Kabul), **Suvastu** (Swat), **Krumu** (Kurram), **Gomati** (Gomal).
+36. **Ganga and Yamuna in Rigveda**:
+    - **Ganga** is mentioned **only ONCE** (in the *Nadistuti Sukta* of 10th Mandala).
+    - **Yamuna** is mentioned **three times**.
+    - This proves Rigvedic Aryans had not yet established their civilizational core in the Gangetic plains.
+37. **Boghaz-Koi (Mitanni) Inscription (1380 BCE, Turkey)**:
+    - Mentions four Rigvedic deities as divine witnesses to a treaty between Hittite king Suppiluliuma and Mitanni king Mattiwaza: **Indra, Mitra, Varuna, and Nasatya (Ashvins)**.
+    - Confirms the Central Asian / Indo-Iranian migration route of Vedic Aryans.
+38. **Brahmarshi-desha vs Aryavarta**:
+    - **Brahmavarta**: Land between the sacred Saraswati and Drishadvati rivers (holiest tract).
+    - **Brahmarshi-desha**: Region of Kuru, Panchala, Matsya, and Surasena.
+    - **Madhyadesha**: Land between the Himalayas and the Vindhyas, from Vinasana (disappearance of Saraswati) to Prayag.
+    - **Aryavarta**: Whole of northern India between the Himalayas and the Vindhyas extending from the western to the eastern sea.
+39. **Gotra System**:
+    - The word *Gotra* literally meant "cow-pen" or common enclosure where cattle of an entire clan were kept.
+    - In Later Vedic times, it evolved into an exogamous kinship unit tracing lineage to **seven legendary rishis** (*Saptarshi*: Kashyapa, Atri, Bharadvaja, Vishvamitra, Gautama, Jamadagni, Vasishtha; Agastya added as 8th).
+    - Marriage within the same Gotra (*Sagotra*) was strictly prohibited.
+40. **Taxation in Vedic Times**:
+    - Rigvedic: **Bali** was purely a **voluntary offering / gift** made by clan members to the *Rajan*.
+    - Later Vedic: **Bali** became a **compulsory, regular tax** collected by royal officer **Bhagadugha**; traditionally fixed at **1/6th** (*Shadbhaga*) of agricultural produce.
+41. **Panchajana (Five Primary Rigvedic Clans)**:
+    - **Anu, Druhyu, Yadu, Turvasha, and Puru**.
+    - Purus and Bharatas later merged to form the **Kuru** people of the Later Vedic era.
+42. **Kuru-Panchala Realm**:
+    - The Kurus occupied the region of Kurukshetra, Delhi, and Upper Doab (capital: **Asandivat**, later **Hastinapur**).
+    - King **Parikshit** and his son **Janamejaya** were famous Kuru rulers.
+    - The Panchalas occupied Bareilly, Badaun, and Farrukhabad (capital: **Ahichchhatra** and **Kampilya**).
+    - King **Pravahana Jaivali** was a renowned patron of Upanishadic philosophy in Panchala.
+43. **Types of Land**:
+    - In Later Vedic agrarian society, private family possession of cultivable land (*Kshetra*) crystallized, while pastures (*Gavyuti*) and forests remained common clan property.
+44. **Vedic Types of Marriage**:
+    - **Anuloma**: Marriage of a man of higher varna with a woman of lower varna (sanctioned).
+    - **Pratiloma**: Marriage of a woman of higher varna with a man of lower varna (severely condemned; deemed producer of mixed and degraded jatis).
+45. **Vedic Funeral Practices**:
+    - Both cremation (*Agni-dagdha*) and burial (*Anagni-dagdha*) were practiced; cremation became the standard rite for adults.
+46. **Vedic Cosmology & Rta**:
+    - **Rta** represented the inviolable cosmic rhythm, seasonal cycle, and moral order governing nature and human conduct, guarded by **Varuna** (*Rtasyagopa*).
+47. **Upavedas (Auxiliary Vedas)**:
+    - Rigveda $ightarrow$ **Ayurveda** (Medicine).
+    - Samaveda $ightarrow$ **Gandharvaveda** (Music, dance, fine arts).
+    - Yajurveda $ightarrow$ **Dhanurveda** (Archery and warfare).
+    - Atharvaveda $ightarrow$ **Shilpaveda / Arthashastra** (Architecture, mechanics, statecraft).
+48. **Aranyakas (Forest Texts)**:
+    - Transitional esoteric texts between ritualistic Brahmanas and philosophical Upanishads; intended for hermits and students meditating in forests; emphasize mental interpretation of sacrifices (*Prana-vidya*).
+49. **Mahavakyas (The 4 Great Upanishadic Truths)**:
+    - **Prajnanam Brahma** ("Consciousness is Brahman") — *Aitareya Upanishad* (Rigveda).
+    - **Aham Brahmasmi** ("I am Brahman") — *Brihadaranyaka Upanishad* (Yajurveda).
+    - **Tat Tvam Asi** ("That Thou Art") — *Chhandogya Upanishad* (Samaveda).
+    - **Ayam Atma Brahma** ("This Self is Brahman") — *Mandukya Upanishad* (Atharvaveda).
+50. **Mandukya Upanishad**:
+    - The shortest Upanishad (only 12 verses), yet celebrated as the most philosophically condensed; analyzes the sacred syllable **AUM (OM)** and the **four states of consciousness**: *Jagrat* (waking), *Svapna* (dreaming), *Sushupti* (deep sleep), and *Turiya* (pure transcendental consciousness).
 
+## ⏱️ Timeline / Chronology
 
----
+```
+c. 1500–1000 BCE ── Early Vedic / Rigvedic Period (Sapta-Sindhu Core)
+      │             • Pastoral, cattle-centered economy; bronze/copper (Ayas); no iron
+      │             • Composition of the Rigveda (Family books II–VII first; I & X later)
+      │             • Battle of 10 Kings on Parushni river (King Sudas victorious)
+      │             • Tribal democracy: Vidatha (women participate), Sabha, Samiti
+      │             • Voluntary gifts (Bali); worship of natural forces (Indra, Agni, Varuna)
+      │
+c. 1000–600 BCE  ── Later Vedic Period (Ganga-Yamuna Doab / Kuru-Panchala Core)
+      │             • Spread of Iron technology (Shyama-ayas) & Painted Grey Ware (PGW)
+      │             • Shift to sedentary wet-rice (Vrihi) & wheat (Godhuma) agriculture
+      │             • Composition of Samaveda, Yajurveda, Atharvaveda, and Brahmanas
+      │             • King (Rajan) becomes absolute territorial monarch; 12 Ratnins emerge
+      │             • Compulsory tax (Bali, Bhaga) collected by Bhagadugha
+      │             • Varna system becomes hereditary by birth; decline in women's status
+      │             • Rise of large sacrifices (Rajasuya, Ashvamedha, Vajapeya)
+      │
+c. 700–500 BCE   ── Upanishadic Age / Philosophical Awakening
+      │             • Disillusionment with ritual slaughter; emergence of Vedanta philosophy
+      │             • Composition of Principal Upanishads (Brihadaranyaka, Chhandogya, Katha)
+      │             • Concepts of Atman, Brahman, Moksha, Samsara, and Karma formulated
+      │             • Transition toward Second Urbanisation, heterodox movements, and Mahajanapadas
+```
+
+## 📊 Quick Reference Grid
+
+### 1. The Four Vedas & Core Administrative Attributes
+
+| Veda | Focus & Subject Matter | Reciting Priest | Primary Brahmana | Key Upanishad | Upaveda |
+|---|---|---|---|---|---|
+| **Rigveda** | 1,028 hymns praising deities; Gayatri Mantra | **Hotri** | Aitareya, Kaushitaki | Aitareya, Kaushitaki | **Ayurveda** (Medicine) |
+| **Samaveda** | 1,875 musical chants (*Ragas*); music origin | **Udgatri** | Tandya (Panchavimsha) | Chhandogya, Kena | **Gandharvaveda** (Music) |
+| **Yajurveda** | Sacrificial formulas & rituals (Shukla & Krishna)| **Adhvaryu** | Shatapatha, Taittiriya | Katha, Brihadaranyaka, Isha | **Dhanurveda** (Warfare) |
+| **Atharvaveda**| Spells, charms, healing medicine, statecraft | **Brahma** | Gopatha (only one) | Mundaka, Mandukya, Prashna | **Shilpaveda** (Crafts) |
+
+### 2. Rigvedic Rivers (Ancient vs Modern Equivalents)
+
+| Ancient Rigvedic Name | Modern Geographic Name | Ancient Rigvedic Name | Modern Geographic Name |
+|---|---|---|---|
+| **Vitasta** | Jhelum | **Saraswati** | Ghaggar / Hakra (*Naditama*) |
+| **Asikni** | Chenab | **Drishadvati** | Chautang / Rakshi |
+| **Parushni** | Ravi (Battle of 10 Kings) | **Kubha** | Kabul (Afghanistan) |
+| **Vipas** | Beas | **Suvastu** | Swat (Pakistan) |
+| **Sutudri** | Sutlej | **Krumu** | Kurram (Afghanistan) |
+| **Sindhu** | Indus (Most mentioned river) | **Gomati** | Gomal (Afghanistan) |
+| **Sadaneera** | Gandak (Shatapatha Brahmana) | **Marudvridha** | Maruwardwan (J&K) |
+
+### 3. The 12 Vedic Ratnins ( Taittiriya Samhita )
+
+| # | Ratnin | Official Designation / Portfolio | Exam Significance & Traps |
+|---|---|---|---|
+| 1 | **Purohita** | Chief Royal Priest and prime counselor | First advisor of realm |
+| 2 | **Senani** | Commander-in-Chief of royal forces | Military commander |
+| 3 | **Gramani** | Village headman / leader of rural levy | Represents rural population |
+| 4 | **Mahishi** | Chief Queen (first wedded wife) | Mandatory partner in Rajasuya |
+| 5 | **Suta** | Royal Charioteer, minstrel, court herald | Keeper of royal traditions |
+| 6 | **Sangrahitri** | **Treasurer / Keeper of the royal purse** | Stores imperial revenue |
+| 7 | **Bhagadugha** | **Collector of royal revenue / taxes (*Bhaga*)** | **UPPCS Trap:** Collects taxes |
+| 8 | **Akshavapa** | **Superintendent of gambling & dice accountant** | **UPPCS Trap (2023):** Dice officer (≠ tax!) |
+| 9 | **Govikartana** | Companion in hunt & master of forests | Head of royal game reserves |
+| 10 | **Palagala** | Royal messenger, courier, diplomatic envoy | Confidential royal companion |
+| 11 | **Kshattri** | Chamberlain / master of the royal gate | Manages palace entrance |
+| 12 | **Takshan / Rathakara**| Master carpenter and chariot builder | High status due to war chariots |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+| Pair A | Pair B | Key Difference | Hindi Key |
 |---|---|---|---|
-| Rigvedic | Later Vedic | **Pastoral**, Punjab, assemblies strong vs **agrarian**, doab, king strong | ऋग्वेदिक / उत्तर वैदिक |
-| Sabha | Samiti | Elders/nobles (later exclusive) vs **general tribal** assembly that **chooses the rajan** | सभा / समिति |
-| Sabha | Vidatha | Political/judicial elite vs **oldest** gathering — **economic + ritual**, women, **fades first** | सभा / विदथ |
-| Bhagadugha | Sangrahitri | Collects king's **share (bhaga)** vs **treasurer** | भागदुघ / संग्रहीतृ |
-| Bhagadugha | Akshavapa | Revenue vs **dice / gambling** officer | भागदुघ / अक्षावाप |
-| Shukla Yajurveda | Krishna Yajurveda | **Vajasaneyi** (mantra & prose separate) vs Taittiriya / Kathaka / Maitrayani (mixed). **Krishna here = Black Yajurveda**, not the god Krishna | शुक्ल / कृष्ण यजुर्वेद |
-| Indra | Agni | **~250** hymns, war/rain vs **~200** hymns, fire / offering-carrier | इन्द्र / अग्नि |
-| Indra (Early) | Prajapati (Later) | War-chief god of Rigveda vs creator / ritual supreme of Later Vedic | इन्द्र / प्रजापति |
-| Vishnu (RV) | Vishnu (Later) | **Minor** in Rigveda vs rises with Rudra in Later Vedic / Upanishadic age | ऋग्वेद विष्णु / उत्तर वैदिक विष्णु |
-| Samhita | Brahmana | Hymns/mantras vs **prose ritual** explanation | संहिता / ब्राह्मण |
-| Aranyaka | Upanishad | Forest **symbolic ritual** vs **Brahman–Atman** philosophy | आरण्यक / उपनिषद् |
-| Varna | Jati | Four-fold (Purusha Sukta; rigid later) vs birth-group (post-Vedic) | वर्ण / जाति |
-| Gavishti | Bali | Cattle-raid / war vs **tribute** to the king | गविष्टि / बलि |
-| Nishka | Coin | Gold **ornament / value-unit** vs coined money (**absent**) | निष्क / मुद्रा |
-| Shruti | Smriti | Heard (Veda corpus) vs remembered (later dharma texts) | श्रुति / स्मृति |
-| Vedanga | Upanishad | Six **limbs** (tools) vs **Vedanta** (end of Veda) | वेदांग / उपनिषद् |
-| PGW | NBPW | Later Vedic **grey painted** doab ware vs mahajanapada **black polished** elite ware | चित्रित धूसर / उत्तरी काली |
-| PGW | OCP | Iron-age **painted grey** vs pre-PGW **ochre-wash** doab rural | PGW / OCP |
-| shyama ayas | ayas (Rigveda) | Later Vedic **iron** vs Early Vedic **copper/bronze** | श्याम आयस / आयस |
-| Trayi | Atharvaveda | Rig–Yajur–Sama liturgical trio vs fourth Veda of charms / household | त्रयी / अथर्ववेद |
-| Karma-kanda | Jnana-kanda | Samhita + Brahmana ritual vs Aranyaka + Upanishad philosophy | कर्मकांड / ज्ञानकांड |
-| Aghanya | Horse sacrifice | Cow “not to be killed” vs Ashvamedha horse rite | अघन्या / अश्वमेध |
-| Sindhu (most named) | Saraswati (most sacred) | Frequency in hymns vs *Naditama* piety | सिन्धु / सरस्वती |
+| **Early / Rigvedic** | **Later Vedic** | Pastoral, Punjab, assemblies strong vs Agrarian, Doab, absolute kingship, iron | ऋग्वैदिक / उत्तर वैदिक |
+| **Sabha** | **Samiti** | Elite judicial council of elders/Brahmanas vs Folk general assembly of whole clan with electoral power | सभा / समिति |
+| **Vidatha** | **Sabha** | Earliest folk-ritual assembly (women participated) vs Later judicial council of elders | विदथ / सभा |
+| **Akshavapa** | **Bhagadugha** | Superintendent of dice/gambling vs Royal tax and revenue collector | अक्षावाप / भागदुघ |
+| **Sangrahitri** | **Bhagadugha** | Treasurer (keeper of purse) vs Tax collector (gatherer of revenue) | संग्रहीतृ / भागदुघ |
+| **Mundaka Upanishad** | **Mandukya Upanishad** | Source of *"Satyam Eva Jayate"* vs Shortest Upanishad analyzing the syllable AUM & 4 states of consciousness | मुण्डक / माण्डूक्य |
+| **Brihadaranyaka** | **Chhandogya** | Largest Upanishad (Yajnavalkya-Gargi) vs Second largest (Satyakama Jabala, Tat Tvam Asi) | बृहदारण्यक / छान्दोग्य |
+| **Shukla Yajurveda** | **Krishna Yajurveda** | Purely poetic hymns (Vajasaneyi) vs Mixed prose commentaries and verses | शुक्ल / कृष्ण यजुर्वेद |
+| **Ayas (Rigvedic)** | **Shyama-ayas (Later Vedic)**| Copper or bronze in Rigveda vs True smelted iron in Later Vedic texts | अयस् / श्याम-अयस् |
+| **Aghanya** | **Gavishti** | "Not to be slain" (Cow) vs "Search for cows" (War/cattle raid) | अघन्या / गविष्टि |
+| **Vitasta** | **Asikni** | Ancient Jhelum river vs Ancient Chenab river | वितस्ता / असिक्नी |
+| **Parushni** | **Sutudri** | Ancient Ravi river (Battle of 10 Kings) vs Ancient Sutlej river | परुष्णी / शुतुद्री |
+| **Sadaneera** | **Saraswati** | Gandak river crossed by Videgha Mathava vs Ghaggar-Hakra river (*Naditama*) | सदानीरा / सरस्वती |
+| **Indra (250 hymns)** | **Agni (200 hymns)** | Primary thunder/war god (*Purandara*) vs Sacrificial messenger god of hearth | इन्द्र / अग्नि |
+| **Hotri priest** | **Adhvaryu priest** | Rigvedic reciter of hymns vs Yajurvedic performer of physical sacrifices | होतृ / अध्वर्यु |
+| **Udgatri priest** | **Brahma priest** | Samavedic singer of melodies vs Atharvavedic supervisor/overseer of sacrifice | उद्गातृ / ब्रह्मा |
+| **Samkhya (Kapila)** | **Yoga (Patanjali)** | Theoretical dualism (Purusha/Prakriti) vs Practical eightfold spiritual discipline | सांख्य / योग |
+| **Nyaya (Gautama)** | **Vaisheshika (Kanada)** | Logic and epistemology (4 Pramanas) vs Physical atomism (*Paramanu*) of 9 substances | न्याय / वैशेषिक |
+| **Purva Mimamsa** | **Uttara Mimamsa** | Jaimini's ritual action (*Karma-kanda*) vs Badarayana's Upanishadic knowledge (*Jnana-kanda*) | पूर्व मीमांसा / उत्तर मीमांसा |
+| **Bali (Rigvedic)** | **Bali (Later Vedic)** | Purely voluntary gift to Rajan vs Compulsory customary tax levied on agriculture | बलि (स्वैच्छिक / अनिवार्य) |
+| **Anuloma** | **Pratiloma** | Higher varna male + lower varna female vs Lower varna male + higher varna female (condemned) | अनुलोम / प्रतिलोम |
+| **Yava** | **Vrihi** | Barley (staple of Early Vedic) vs Rice (staple of Later Vedic) | यव / व्रीहि |
+| **Brahmana texts** | **Upanishad texts** | Sacrificial ritual prose manuals vs Esoteric philosophical dialogues on Atman-Brahman | ब्राह्मण / उपनिषद् |
+
+## 🧠 Memory Anchors & Mnemonics
+
+1. **The Four Priests of the Four Vedas:**
+   - **R - S - Y - A** $ightarrow$ **H - U - A - B**
+   - **R**igveda = **H**otri (*"Hot Rigveda"*)
+   - **S**amaveda = **U**dgatri (*"Udgatri sings Sama"*)
+   - **Y**ajurveda = **A**dhvaryu (*"Adhvaryu performs Yajna"*)
+   - **A**tharvaveda = **B**rahma (*"Brahma oversees All"*)
+2. **Sabha vs Samiti Functions:**
+   - **Sabha** = **S - E - J** $ightarrow$ **S**elect **E**lders dispensing **J**ustice (Judicial).
+   - **Samiti** = **S - M - E** $ightarrow$ **S**overeign **M**asses **E**lecting the King (Electoral).
+3. **Rigvedic Rivers Sequence (North to South in Punjab):**
+   - **I - J - C - R - B - S**
+   - **I**ndus (Sindhu) $ightarrow$ **J**helum (Vitasta) $ightarrow$ **C**henab (Asikni) $ightarrow$ **R**avi (Parushni) $ightarrow$ **B**eas (Vipas) $ightarrow$ **S**utlej (Sutudri).
+4. **The Akshavapa Trap Buster:**
+   - **Aksha (अक्ष)** = **Dice** $ightarrow$ Superintendent of dice and gambling!
+   - **Bhaga (भाग)** = **Tax Share** $ightarrow$ Bhagadugha collects the tax share!
+5. **Mundaka vs Mandukya:**
+   - **Mundaka** (3 syllables) = **Truth** (*Satyam Eva Jayate*).
+   - **Mandukya** (Frog / Manduka) = Leaps through the 4 states of consciousness & AUM.
 
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

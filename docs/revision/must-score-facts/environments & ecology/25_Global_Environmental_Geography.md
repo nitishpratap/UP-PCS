@@ -7,55 +7,114 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 25 — Global Environmental Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Köppen** letters: **A** tropical, **B** arid, **C** temperate, **D** cold, **E** polar. India is largely monsoon (**Am** type language); Thar (थार) is hot desert (**BWh**); Gobi is cold desert (**BWk**).
-2. **Sahara** is the largest hot desert. **Atacama** is among the driest. **Gobi** spans **Mongolia and China**.
-3. **Permafrost** (स्थायी हिम मृदा) appears in **taiga and tundra**. It is **not** a savanna feature.
-4. **Global environmental geography** studies *where* environmental systems occur and *why* — linking physical geography (climate, relief, oceans) to biomes, biodiversity, and degradation.
-5. **Climate** (temperature + precipitation) is the primary control on biome distribution.
-6. **Latitude:** equatorial regions receive direct sunlight year-round → high productivity and biodiversity; polar regions receive oblique rays → low productivity.
-7. **Continentality:** interior continents (central Australia, central Asia) have extreme temperatures and aridity.
-8. **Altitude:** Himalaya (हिमालय), Andes, Alps show vertical zonation — tropical forest at base, alpine/nival at summit.
-9. **Ocean currents:** warm currents (Gulf Stream) mild climate; cold currents (Humboldt) support fisheries and coastal deserts (Atacama).
-10. **Subtropical highs (horse latitudes (हॉर्स अक्षांश) ~20–35° N/S)** suppress rainfall — major desert belt (Sahara, Arabian, Thar, Australian interior).
-11. **Latitudinal biodiversity gradient:** species richness highest near equator, decreases toward poles.
-12. **Tropical rainforest:** hot, wet year-round; layered canopy; highest biodiversity — Amazon (**Selva**), Congo, SE Asia, Western Ghats (पश्चिमी घाट).
-13. **Tropical deciduous:** wet–dry monsoon — sal/teak forests of peninsular India.
-14. **Desert:** typically **<25 cm** rain; sparse xerophytes — Sahara, Arabian, Gobi, Thar, Atacama.
-15. **Savanna:** tropical grassland with **scattered trees** and distinct wet/dry seasons — East Africa ("Land of Big Games"); Gir (गीर) (Gujarat) is India patch.
-16. **Temperate grassland:** few trees; fertile soils — Prairies (N America), Steppes (Eurasia), **Pampas (Argentina)**, **Puszta (Hungary)**.
-17. **Taiga (boreal):** cold winters; spruce/fir/pine; **permafrost patches** — Siberia, Canada, Scandinavia.
-18. **Tundra:** short summer; moss/lichen; **continuous permafrost** — Arctic coasts; no trees.
-19. **Mediterranean (chaparral):** wet winters, dry summers; fire-adapted shrubs — California, Mediterranean Basin, Cape Town.
-20. **Mangrove / wetland:transitional** terrestrial–aquatic — not purely terrestrial.
-21. **Köppen Group A (Tropical):** all months ≥18°C — Af rainforest, **Am monsoon**, Aw savanna. India mainly **Am**.
-22. **Group B (Arid):** evaporation > precipitation — BW desert, BS steppe. Thar **BWh** (hot); Gobi **BWk** (cold).
-23. **Group C (Temperate):** mild winters — Mediterranean Csa, humid subtropical Cwa.
-24. **Group D (Cold/Continental):** cold winters — taiga belt Siberia/Canada.
-25. **Group E (Polar):** always cold — tundra ET, ice cap EF (Antarctica).
-26. **ITCZ** seasonal shift drives monsoon and equatorial rain; failure causes Sahel drought (सूखा).
-27. **Sahara (Africa):** largest **hot desert**.
-28. **Atacama (Chile):** among the **driest** deserts on Earth — cold Humboldt Current + rain shadow (छाया).
-29. **Gobi:** cold desert extending mainly into **Mongolia and China**.
-30. **Kalahari:** southern Africa — **Bushman (San)** habitat.
-31. **Thar:** India–Pakistan hot desert — subtropical high + rain shadow.
-32. **Australian interior:** desert/semi-desert under subtropical high and continentality.
-33. **Amazon (Brazil):** equatorial rainforest called **Selva** — among Earth's richest biodiversity zones.
-34. **Terra Roxa:** fertile dark volcanic (basalt) soil of Brazil — coffee/soy region (often tested with Selva).
-35. **World Floral Regions** classification is associated with **Adolf Engler**.
+1. Global environmental geography asks **where and why** Earth’s climate–biome patterns occur. Climate (temperature and rainfall) shapes biomes, biodiversity, and degradation belts.
+2. Major biomes to ratta: tropical rainforest (Amazon **Selva** (सेल्वा)), tropical deciduous (Indian monsoon forests), desert (**<25 cm** rain), savanna (सवाना) (scattered trees with wet–dry seasons), temperate grassland (**Prairie (प्रेयरी), Steppe (स्टेपी), Pampas, Puszta (पुस्ज़टा)**), taiga/boreal, tundra (टुंड्रा), Mediterranean chaparral, and coastal mangrove as a transitional belt.
+3. **Köppen** letters: **A** tropical, **B** arid, **C** temperate, **D** cold, **E** polar. India is largely monsoon (**Am** type language); Thar (थार) is hot desert (**BWh**); Gobi is cold desert (**BWk**).
+4. **Sahara** is the largest hot desert. **Atacama** is among the driest. **Gobi** spans **Mongolia and China**.
+5. Australia’s interior desert is explained mainly by **subtropical high pressure and continentality** — not by calling northern Australia “temperate.”
+6. Brazil facts: **Selva** = Amazon equatorial rainforest name; **Terra Roxa** = fertile dark volcanic soil. Both can be true together in match stems.
+7. Floral matching classics: Planting Hearth → **C.O. Sauer**; World Floral Regions → **Adolf Engler**; Cryophyte Steppe → Arctic tundra setting; **Puszta** → **Hungary**.
+8. Tribe–region facts: Bushman–Kalahari; Eskimo–northern Canada; Pygmy–Congo. **Masai are East Africa**, not West Africa.
+9. **Permafrost** (स्थायी हिम मृदा) appears in **taiga and tundra**. It is **not** a savanna feature.
+10. Global biome counts (often **14** in textbook lists) are **not** the same as India’s **ten** biogeographic zones (Rodgers and Panwar).
+11. Biome is a large climate-defined vegetation–fauna (प्राणीजात) region. Ecosystem is a local biotic–abiotic functional unit. Do not treat them as identical scales.
+12. Temperate grassland names: Pampas (Argentina), Prairie (North America), Steppe (Eurasia), Puszta (Hungary).
+13. Taiga is boreal conifer forest; tundra is moss–lichen cold treeless belt. Savanna is tropical grassland with trees.
+14. Mangrove is coastal transitional vegetation — not a purely inland terrestrial biome.
+15. Hotspot (Myers) means high endemism plus severe habitat (वास स्थान) loss (often taught as **≥70%** loss). It is not merely “any rich forest.”
+16. Gobi is cold desert Asia — not Sahara Africa and not Atacama Chile.
+17. Selva ≠ Terra Roxa. Forest name versus soil name.
+18. Masai wrong-option trap is West Africa; correct region is East Africa.
+19. India’s monsoon deciduous belt is not Amazon Selva.
+20. Permafrost continuous cover is strongest in tundra; taiga may show patches — still not savanna.
+21. Mediterranean biome is winter-rain shrubland (chaparral type), distinct from monsoon India.
+22. Desert rainfall fact **<25 cm** is the quick arid filter in many MCQs.
+23. Engler floral regions and Sauer planting hearth are cultural–biogeography matchs, not climate-classification letters.
+24. Keep “14 biomes vs 10 Indian biogeographic zones” as a numbers trap pair.
+25. **Global environmental geography** studies *where* environmental systems occur and *why* — linking physical geography (climate, relief, oceans) to biomes, biodiversity, and degradation.
+26. **Climate** (temperature + precipitation) is the primary control on biome distribution.
+27. **Latitude:** equatorial regions receive direct sunlight year-round → high productivity and biodiversity; polar regions receive oblique rays → low productivity.
+28. **Continentality:** interior continents (central Australia, central Asia) have extreme temperatures and aridity.
+29. **Altitude:** Himalaya (हिमालय), Andes, Alps show vertical zonation — tropical forest at base, alpine/nival at summit.
+30. **Ocean currents:** warm currents (Gulf Stream) mild climate; cold currents (Humboldt) support fisheries and coastal deserts (Atacama).
+31. **Subtropical highs (horse latitudes (हॉर्स अक्षांश) ~20–35° N/S)** suppress rainfall — major desert belt (Sahara, Arabian, Thar, Australian interior).
+32. **Latitudinal biodiversity gradient:** species richness highest near equator, decreases toward poles.
+33. **Tropical rainforest:** hot, wet year-round; layered canopy; highest biodiversity — Amazon (**Selva**), Congo, SE Asia, Western Ghats (पश्चिमी घाट).
+34. **Tropical deciduous:** wet–dry monsoon — sal/teak forests of peninsular India.
+35. **Desert:** typically **<25 cm** rain; sparse xerophytes — Sahara, Arabian, Gobi, Thar, Atacama.
+36. **Savanna:** tropical grassland with **scattered trees** and distinct wet/dry seasons — East Africa ("Land of Big Games"); Gir (गीर) (Gujarat) is India patch.
+37. **Temperate grassland:** few trees; fertile soils — Prairies (N America), Steppes (Eurasia), **Pampas (Argentina)**, **Puszta (Hungary)**.
+38. **Taiga (boreal):** cold winters; spruce/fir/pine; **permafrost patches** — Siberia, Canada, Scandinavia.
+39. **Tundra:** short summer; moss/lichen; **continuous permafrost** — Arctic coasts; no trees.
+40. **Mediterranean (chaparral):** wet winters, dry summers; fire-adapted shrubs — California, Mediterranean Basin, Cape Town.
+41. **Mangrove / wetland:transitional** terrestrial–aquatic — not purely terrestrial.
+42. **Köppen Group A (Tropical):** all months ≥18°C — Af rainforest, **Am monsoon**, Aw savanna. India mainly **Am**.
+43. **Group B (Arid):** evaporation > precipitation — BW desert, BS steppe. Thar **BWh** (hot); Gobi **BWk** (cold).
+44. **Group C (Temperate):** mild winters — Mediterranean Csa, humid subtropical Cwa.
+45. **Group D (Cold/Continental):** cold winters — taiga belt Siberia/Canada.
+46. **Group E (Polar):** always cold — tundra ET, ice cap EF (Antarctica).
+47. **ITCZ** seasonal shift drives monsoon and equatorial rain; failure causes Sahel drought (सूखा).
+48. **Sahara (Africa):** largest **hot desert**.
+49. **Atacama (Chile):** among the **driest** deserts on Earth — cold Humboldt Current + rain shadow (छाया).
+50. **Gobi:** cold desert extending mainly into **Mongolia and China**.
 
+## ⏱️ Timeline / Chronology
+
+### Chronological Sequence of Environmental Legislation & Governance in India
+
+```
+1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
+1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
+1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
+1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
+1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
+1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
+2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
+2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
+2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
+```
+
+## 📊 Quick Reference Grid
+
+### Biomes / climate
+
+| Item | Lock |
+|------|------|
+| Köppen letters | A tropical · B arid · C temperate · D cold · E polar |
+| India / Thar / Gobi | Monsoon Am-type / BWh hot desert / Mongolia–China |
+| Largest hot / driest | Sahara / Atacama |
+| Selva / Terra Roxa | Amazon rainforest name / fertile volcanic soil (Brazil) |
+| Temperate grasslands | Pampas AR · Prairie NA · Steppe Eurasia · Puszta HU |
+| Taiga / Tundra / Savanna | Boreal conifer / moss–lichen treeless / tropical grass+trees |
+| Permafrost | Taiga–tundra (≠ savanna) |
+| Biome ≠ ecosystem | Large climate region / local functional unit |
+| India biogeographic zones | **10** (Rodgers & Panwar) ≠ global biome count |
 
 ---
 
+![Global Biomes Distribution, Climatic Pressure Belts & World Deserts](images/env_ch25_01_global_biomes_climatic_zones_geography.png)
+
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Biome** | **Ecosystem** | Continental-scale geographical region characterized by distinct climate regimes, soil types, and climax vegetation communities (e.g. Tundra, Taiga, Savanna) vs localized structural and functional ecological unit where living organisms interact with abiotic components (e.g. a pond, forest patch) | जीवोम (बायोम, महाद्वीपीय स्तर) / पारिस्थितिकी तंत्र (स्थानीय कार्यात्मक इकाई) |
 | **Taiga (Boreal Forest)** | **Tundra** | World's largest terrestrial biome dominated by evergreen needleleaf coniferous trees (Spruce, Fir, Pine, Larch) in subarctic latitudes south of the tree-line vs cold, treeless arctic and alpine biome dominated by mosses, lichens, dwarf shrubs, underlain by permafrost | टैगा (बोरियल शंकुधारी वन) / टुंड्रा (वृक्षविहीन शीत मरुस्थल) |
 | **Savanna** | **Steppe / Prairie** | Tropical grassland biome characterized by continuous tall grass cover interspersed with scattered, drought-deciduous drought-resistant trees (e.g. Acacia, Baobab) vs temperate mid-latitude semi-arid grassland biome with treeless expanses of short to tall grasses | सवाना (उष्णकटिबंधीय सवृक्ष घास मैदान) / स्टेपी/प्रेयरी (शीतोष्ण घास मैदान) |
@@ -63,10 +122,20 @@ hide:
 | **Permafrost** | **Mollisols (Chernozem)** | Subsurface ground (soil, sediment, or rock) that remains continuously frozen below 0°C for at least two consecutive years, trapping massive ancient methane and organic carbon deposits vs deep, dark, humus-rich organic soils characteristic of temperate grasslands with highest agricultural fertility | स्थायी हिम मृदा (पर्माफ्रॉस्ट) / चेर्नोज़म (काली उपजाऊ घास मृदा) |
 | **Biodiversity Hotspot** | **Ecological Island** | Large biogeographic region meeting Norman Myers' criteria (≥1,500 endemic plant species and ≥70% primary habitat lost) vs isolated terrestrial habitat surrounded by completely different ecosystems or human urbanization functioning like an oceanic island | जैव विविधता हॉटस्पॉट (ह्रासग्रस्त समृद्ध क्षेत्र) / पारिस्थितिक द्वीप (पृथक वास) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

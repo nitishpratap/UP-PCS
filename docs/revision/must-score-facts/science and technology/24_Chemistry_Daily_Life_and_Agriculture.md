@@ -7,69 +7,20 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🔬 Science & Technology &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Chemistry Topic 7 — Chemistry in Daily Life, Industry and Agriculture</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
 
-## 🎯 Consolidated Must-Score Facts
+## 📰 Current Affairs & High-Yield Updates
 
-1. **Soaps** are sodium or potassium salts of higher fatty acids (containing 12 to 18 carbon atoms) such as **Stearic acid ($C_{17}H_{35}COOH$)**, **Palmitic acid ($C_{15}H_{31}COOH$)**, and **Oleic acid ($C_{17}H_{33}COOH$)**.
-2. **Saponification**: The chemical alkaline hydrolysis of animal fats or vegetable oils (triglycerides) with aqueous sodium hydroxide ($NaOH$) or potassium hydroxide ($KOH$), producing soap and a commercially valuable byproduct, **Glycerol (Glycerine, $CH_2OH-CHOH-CH_2OH$)**.
-3. **Hard Soap vs. Soft Soap**: Soaps made with **Sodium hydroxide ($NaOH$)** are hard soaps (laundry washing bars); soaps made with **Potassium hydroxide ($KOH$)** are soft soaps (toilet luxury soaps, shaving creams, liquid handwashes).
-4. **Salting Out of Soap**: Common salt (**$NaCl$**) is added to the saponification mixture to decrease the solubility product of soap, precipitating it out as a curdled solid through the common-ion effect.
-5. **Micelle Cleansing Action**: A soap molecule consists of a long non-polar hydrophobic (water-repelling / oil-soluble) hydrocarbon tail and a polar hydrophilic (water-loving) ionic carboxylate head ($-COO^-Na^+$). In water, soap molecules assemble into spherical aggregates called **micelles**: the hydrophobic hydrocarbon tails point inward to trap non-polar oil/grease dirt droplets, while the hydrophilic polar heads face outward into water. Agitation forms an emulsion that is rinsed away.
-6. **Why Soap Fails in Hard Water**: Hard water contains dissolved calcium ($Ca^{2+}$) and magnesium ($Mg^{2+}$) ions. These cations react with soluble sodium soap molecules to precipitate an insoluble, sticky white curd called **Scum** (calcium/magnesium stearate):
-7. **Synthetic Detergents (Syndets)**: Sodium salts of long-chain alkyl hydrogen sulphates or alkylbenzene sulphonic acids (e.g., **Sodium Lauryl Sulphate**, **Sodium Dodecylbenzene Sulphonate**).
-8. **Why Detergents Work in Hard Water**: The calcium and magnesium salts of alkyl sulphates and sulphonates are **completely soluble in water**; hence, synthetic detergents form abundant rich lather in both soft and hard water without producing insoluble scum.
-9. **Analgesics**: Pharmaceutical drugs that relieve or eliminate bodily pain without causing loss of consciousness. Classified into:
-10. **Antipyretics**: Drugs used to reduce elevated body temperature in fever (e.g., **Paracetamol**, **Aspirin**, **Phenacetin**).
-11. **Antiseptics**: Chemical antimicrobial agents applied to **living human and animal tissues** (wounds, cuts, skin ulcers, mouth infections) to kill or inhibit microbial growth without damaging tissue cells.
-12. **Dettol Composition**: The commercial household antiseptic Dettol is a blend of **Chloroxylenol** ($\approx 4.8\%$) and **$\alpha$-Terpineol** dissolved in pine oil and alcohol.
-13. **Bithionol**: An organosulfur chlorinated compound added to toilet soaps to impart long-lasting deodorant and antiseptic properties.
-14. **Tincture of Iodine**: An effective antiseptic solution consisting of **$2–3\%\text{ elemental Iodine } (I_2)$** dissolved in an alcohol-water mixture.
-15. **Iodoform ($CHI_3$)**: A yellow crystalline solid with a medicinal odor, historically used as an antiseptic dusting powder for septic surgical wounds due to the slow liberation of free iodine.
-16. **Boric Acid ($H_3BO_3$)**: A very mild, non-irritating antiseptic used as an ophthalmic soothing **eye-wash**.
-17. **Disinfectants**: Chemical antimicrobial agents applied strictly to **non-living inanimate surfaces** (floors, toilets, drainage pipes, surgical instruments).
-18. **The Phenol Concentration Rule**: A **$0.2\%$ aqueous solution of Phenol ($C_6H_5OH$) acts as an Antiseptic**, whereas a **$1.0\%$ aqueous solution of Phenol acts as a Disinfectant**!
-19. **Chlorine Disinfection**: Chlorine gas at concentrations of **$0.2\text{ to }0.4\text{ parts per million (ppm)}$** is standardly used to disinfect municipal drinking water supplies and swimming pools.
-20. **Antibiotics**: Chemical metabolic substances produced by microorganisms (fungi, bacteria) that inhibit the growth of or destroy pathogenic bacteria at low concentrations.
-21. **Discovery of Penicillin**: The world's first true antibiotic, discovered serendipitously in **1928 by Sir Alexander Fleming** at St. Mary's Hospital, London, from the green mold **Penicillium notatum**. Purified as a clinical drug by Howard Florey and Ernst Chain (Nobel Prize in Medicine, 1945).
-22. **Broad-Spectrum Antibiotics**: Effective against a wide range of both Gram-positive and Gram-negative bacteria (e.g., **Chloramphenicol**, **Ampicillin**, **Amoxicillin**, **Tetracycline**). Chloramphenicol is effective in treating typhoid, meningitis, and pneumonia.
-23. **Antacids**: Weakly basic compounds administered orally to neutralize excess hydrochloric acid in gastric juice ($HCl$), elevating stomach pH above 3.5. Classic examples: **Milk of Magnesia ($Mg(OH)_2$)**, Aluminium Hydroxide gel ($Al(OH)_3$), and Sodium Bicarbonate ($NaHCO_3$). Modern antacids like **Ranitidine** and **Omeprazole** act by blocking histamine $H_2$-receptors or proton pumps ($H^+/K^+$ ATPase).
-24. **Food Preservatives**: Chemical additives that prevent food spoilage caused by microbial fermentation, mold growth, or oxidative rancidity:
-25. **Sodium Benzoate ($C_6H_5COONa$)**: The most widely utilized chemical preservative in commercial packaged foods (fruit squashes, tomato ketchup, jams, soft drinks). It metabolizes safely in the human liver into hippuric acid and is excreted in urine.
-26. **Sodium Metabisulphite / Potassium Metabisulphite ($K_2S_2O_5$)**: Releases sulfur dioxide gas ($SO_2$), which inhibits bacterial and fungal enzymes in wines, fruit juices, and cut dried fruits.
-27. **Table Salt ($NaCl$), Sugar Syrup, and Vinegar ($CH_3COOH$)**: Natural osmotic and acidic food preservatives used in traditional pickling and fruit preservation.
-28. **Food Antioxidants**: Sacrificial reducing agents added to fats, oils, and fried snacks (potato chips) to retard oxidative rancidity: **BHA (Butylated Hydroxyanisole)** and **BHT (Butylated Hydroxytoluene)**. Flushing snack bags with **Nitrogen gas ($N_2$)** prevents oxygen from contacting edible oils.
-29. **Glass**: An amorphous, non-crystalline, transparent supercooled inorganic liquid of high viscosity, manufactured by fusing silica (sand, $SiO_2$) with metal carbonates and cooling the melt rapidly without crystallization.
-30. **Soda-Lime Glass (Soft Glass)**: Approximate composition $Na_2O \cdot CaO \cdot 6SiO_2$. Low melting point, inexpensive; used for window panes, beverage bottles, mirror plates, and cheap glassware.
-31. **Potash Glass (Hard Glass)**: Made using potassium carbonate ($K_2CO_3$), calcium carbonate, and silica ($K_2O \cdot CaO \cdot 6SiO_2$). Highly resistant to chemical reagents and acids; used for high-temperature chemical laboratory equipment (flasks, combustion tubes).
-32. **Pyrex Glass (Borosilicate Glass)**: Formed by substituting boron trioxide ($B_2O_3, \approx 13\%$) and alumina for alkali. Possesses an exceptionally **low thermal expansion coefficient** and high thermal shock resistance; does not crack upon rapid heating/cooling; used for standard laboratory glassware (beakers, burettes) and microwave oven cookware.
-33. **Flint Glass (Optical / Lead Crystal Glass)**: Contains **Lead Oxide ($PbO, 20–30\%$)**. Possesses a high density, high refractive index, and high optical dispersion; used for manufacturing achromatic camera lenses, optical prisms, telescope objectives, and brilliant crystal chandeliers.
-34. **Crookes Glass**: A specialty glass containing **Cerium Oxide ($CeO_2$)**. Cerium atoms possess electronic energy levels that selectively and sharply **absorb harmful ultraviolet (UV) rays** while transmitting visible light; used for high-protection sunglasses and optical UV shields.
-35. **Photochromic Glass**: Specialty glass containing microscopic dispersed crystals of **Silver Chloride ($AgCl$) or Silver Bromide ($AgBr$)**. When exposed to sunlight (UV photons), silver halide decomposes into tiny clusters of metallic silver ($AgCl \xrightarrow{h\nu} Ag + Cl$), turning the lens dark. In dim indoor light, copper sensitizers catalyze recombination, restoring optical clarity.
-
-
----
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| Year/Ref | Key Fact & Significance | Exam Relevance |
+|---|---|---|
 | **2025–2026** | **Nano Urea & Nano DAP Expansion** | IFFCO commercialization of **Nano Urea** ($4\%\text{ N}$ w/v liquid nanoparticles, $20–50\text{ nm}$) and **Nano DAP**: Provides $>80\%$ nutrient uptake efficiency via foliar stomatal absorption, eliminating massive nitrogen leaching into groundwater and cutting conventional bagged urea consumption. |
 | **2024** | **UPPCS Prelims 2024** | Question on **Photography Salt vs Artificial Rain**: Highlighted the recurring pair: **Silver Bromide ($AgBr$)** is the light-sensitive photographic emulsion salt, whereas **Silver Iodide ($AgI$)** is the cloud-seeding agent for artificial rain. |
 | **2023** | **UPPCS / UKPCS Trends** | Persistent testing of **DDT (Dichlorodiphenyltrichloroethane)**: Identified strictly as a **non-biodegradable organochlorine pollutant** that undergoes severe trophic biomagnification in food chains (thinning avian eggshells). |
 | **2022** | **UPPCS Prelims 2022** | Re-tested **Crookes Glass**: Keyed as the specialty glass containing Cerium oxide ($CeO_2$) that sharply cuts off and **absorbs ultraviolet (UV) radiation** in sunglasses. Pyrex/Borosilicate was an incorrect distractor. |
 | **2021** | **UPPCS Prelims 2021** | Agricultural Herbicide: Keyed **Sodium Chlorate ($NaClO_3$)** and **2,4-D** as non-selective and selective weedicides/herbicides, respectively. |
 
+## 🎯 Consolidated Must-Score Facts
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Soaps** are sodium or potassium salts of higher fatty acids (containing 12 to 18 carbon atoms) such as **Stearic acid ($C_{17}H_{35}COOH$)**, **Palmitic acid ($C_{15}H_{31}COOH$)**, and **Oleic acid ($C_{17}H_{33}COOH$)**.
+1. **Soaps** are sodium or potassium salts of higher fatty acids (containing 12 to 18 carbon atoms) such as **Stearic acid ($C_{17}H_{35}COOH$)**, **Palmitic acid ($C_{15}H_{31}COOH$)**, and **Oleic acid ($C_{17}H_{33}COOH$)**.
 2. **Saponification**: The chemical alkaline hydrolysis of animal fats or vegetable oils (triglycerides) with aqueous sodium hydroxide ($NaOH$) or potassium hydroxide ($KOH$), producing soap and a commercially valuable byproduct, **Glycerol (Glycerine, $CH_2OH-CHOH-CH_2OH$)**.
 3. **Hard Soap vs. Soft Soap**: Soaps made with **Sodium hydroxide ($NaOH$)** are hard soaps (laundry washing bars); soaps made with **Potassium hydroxide ($KOH$)** are soft soaps (toilet luxury soaps, shaving creams, liquid handwashes).
 4. **Salting Out of Soap**: Common salt (**$NaCl$**) is added to the saponification mixture to decrease the solubility product of soap, precipitating it out as a curdled solid through the common-ion effect.
@@ -174,450 +125,388 @@ hide:
 49. **Aspartame Alert**: The artificial sweetener Aspartame decomposes into phenylalanine, aspartic acid, and methanol; products containing aspartame must carry a mandatory warning label for individuals with the rare genetic disorder **Phenylketonuria (PKU)**.
 50. **Liquid Bleach**: An aqueous solution of **Sodium Hypochlorite ($NaOCl, \approx 5\%$)**; acts as a powerful disinfectant and textile stain remover via oxidation.
 
-</details>
+## ⏱️ Timeline / Chronology
 
-<details class="st-chapter-toggle st-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs — Razor-Sharp Distinctions</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
-
-| Confused Pair | Concept A | Concept B | Razor-Sharp Distinguishing Line |
-|---|---|---|---|
-| **Antiseptic vs. Disinfectant** | **Antiseptic**: Applied safely to **living animal/human tissue** (wounds, cuts, skin). Non-toxic to host cells (Dettol, Tincture of Iodine). | **Disinfectant**: Applied exclusively to **inanimate surfaces** (floors, toilets, instruments). Toxic and corrosive to living tissue. | **Living vs. Non-Living Surface**: $0.2\%$ Phenol is an antiseptic for skin; $1.0\%$ Phenol is a disinfectant for hospital floors. |
-| **Silver Bromide vs. Silver Iodide** | **Silver Bromide ($AgBr$)**: Light-sensitive halide used in **traditional photographic film emulsions**. Fixed by hypo. | **Silver Iodide ($AgI$)**: Hexagonal nucleating crystal used in **cloud seeding for artificial rain**. | **Application**: Photography = **Silver Bromide** ($AgBr$); Artificial Rain / Cloud Seeding = **Silver Iodide** ($AgI$). |
-| **Crookes Glass vs. Pyrex Glass** | **Crookes Glass**: Contains **Cerium Oxide ($CeO_2$)**; designed specifically to **cut off ultraviolet (UV) radiation** in sunglasses. | **Pyrex Glass**: Contains **Boron Trioxide ($B_2O_3$)**; designed for **low thermal expansion and high thermal shock resistance**. | **Functional Objective**: Crookes is for UV protection; Pyrex is for thermal shock and laboratory heat resistance. |
-| **Soap vs. Synthetic Detergent** | **Soap**: Sodium/potassium salt of **fatty acids**. Precipitates insoluble scum in hard water ($Ca^{2+}, Mg^{2+}$). Biodegradable. | **Detergent**: Sodium salt of **alkylbenzene sulphonates**. Forms soluble calcium salts; cleans effectively in **hard water**. | **Hard Water Performance**: Soaps fail and waste away in hard water; Detergents lather and clean effectively in both hard and soft water. |
-| **Urea vs. DAP** | **Urea ($NH_2CONH_2$)**: Pure nitrogenous fertilizer containing **$46\%\text{ Nitrogen (N)}$** and $0\%\text{ P}$. | **DAP (Diammonium Phosphate)**: Complex fertilizer containing **$18\%\text{ Nitrogen (N)}$ and $46\%\text{ Phosphorus (P}_2\text{O}_5\text{)}$**. | **Nutrient Content**: Urea supplies solely Nitrogen ($46\%$); DAP supplies both Nitrogen ($18\%$) and high Phosphorus ($46\%$). |
-| **Soil Liming vs. Soil Gypsum** | **Liming ($CaCO_3 / Ca(OH)_2$)**: Applied to remediate **Acidic soils ($\text{pH} < 6$)** by neutralizing excess hydronium ions. | **Gypsum ($CaSO_4 \cdot 2H_2O$)**: Applied to remediate **Alkaline / Sodic soils ($\text{pH} > 8.5$)** by displacing exchangeable $Na^+$. | **Target Soil Acidity/Alkalinity**: Use Lime for acid soils; Use Gypsum for alkaline/sodic soils. |
-| **Zinc Phosphide vs. Sodium Chlorate** | **Zinc Phosphide ($Zn_3P_2$)**: Ingested **rodenticide (rat poison)**; releases toxic phosphine gas ($PH_3$) in stomach. | **Sodium Chlorate ($NaClO_3$)**: Non-selective **herbicide (weed killer)**; desiccates and destroys invasive plants. | **Target Pest**: Zinc phosphide kills rats/rodents; Sodium chlorate kills weeds/plants. |
-| **1G Ethanol vs. 2G Ethanol** | **1G Ethanol**: Fermented from **edible food crops** (sugarcane molasses, corn, broken food grains). | **2G Ethanol**: Fermented from **inedible agricultural crop residues** (rice/wheat straw, bagasse, bamboo). | **Feedstock Source**: 1G uses food grains; 2G uses non-food agricultural stubble and crop waste. |
-
-</details>
-
-## Master Reference Tables
-
-### Table 1: Master Classification of Industrial Glasses & Optical Formulations
-
-| Glass Variety Name | Fundamental Chemical Composition | Distinctive Physical / Optical Property | Primary Real-World & Applications |
-|---|---|---|---|
-| **Soda-Lime Glass (Soft Glass)** | $Na_2O \cdot CaO \cdot 6SiO_2$ ($\approx 75\% SiO_2, 15\% Na_2O, 10\% CaO$) | Low melting point, easily blown and molded | Domestic window panes, beverage bottles, glass tumblers, tableware |
-| **Potash Glass (Hard Glass)** | $K_2O \cdot CaO \cdot 6SiO_2$ | High softening temperature, chemical resistance | Laboratory combustion tubes, chemical reaction vessels |
-| **Pyrex / Borosilicate Glass** | $SiO_2\text{ (80\%)}, B_2O_3\text{ (13\%)}, Al_2O_3\text{ (3\%)}, Na_2O\text{ (4\%)}$ | **Low thermal expansion coefficient**, resists thermal shock | Chemistry beakers, flasks, pipettes, microwave oven bakeware |
-| **Flint Glass (Optical / Lead Glass)** | $K_2O \cdot PbO \cdot 6SiO_2$ (contains $20–30\% PbO$) | High density, **high refractive index & high dispersion** | Optical camera lenses, microscope objectives, prisms, crystal chandeliers |
-| **Crookes Glass** | Soda glass containing **Cerium Oxide ($CeO_2$)** | **Selectively absorbs harmful ultraviolet (UV) rays** | High-grade UV-absorbing sunglasses, protective industrial welding goggles |
-| **Photochromic Glass** | Glass containing dispersed microcrystals of **$AgCl$ or $AgBr$** | Darkens in bright sunlight (UV photolysis); clears indoors | Variable-tint prescription eyeglasses, solar sunglasses |
-| **Safety / Laminated Glass** | Two glass sheets sandwiching a layer of **polyvinyl butyral (PVB)** | Shatterproof; shards remain adhered to plastic interlayer | Automotive windshields, bullet-resistant security bank windows |
-
----
-
-### Table 2: Master Commercial Fertilizer Matrix (NCERT / ICAR Standard)
-
-| Fertilizer Name | Primary Chemical Formula | Nutrient Content (% by weight) | Chemical Reaction in Soil | Special Agronomic Facts & Notes |
-|---|---|---|---|---|
-| **Urea** | **$NH_2CONH_2$** | **$46\%\text{ Nitrogen (N)}$** | Slightly acidic over long periods | Most widely used fertilizer in India; 100% produced as **Neem-Coated Urea**. |
-| **Ammonium Sulphate** | $(NH_4)_2SO_4$ | $21\%\text{ N}, 24\%\text{ S}$ | Strongly Acidic | Ideal for waterlogged paddy (rice) crops; supplies essential sulphur. |
-| **Calcium Ammonium Nitrate (CAN)** | $CaCO_3 \cdot NH_4NO_3$ | $25\%\text{ N}$ | **Strictly Neutral** | Known as **"Kisan Khad"**; safe for all soils; non-acidifying. |
-| **Single Superphosphate (SSP)**| $Ca(H_2PO_4)_2 + 2CaSO_4$ | **$16\%\text{ P}_2\text{O}_5, 11\%\text{ S}, 19\%\text{ Ca}$** | Neutral / Slightly acidic | Ideal for oilseeds and pulses needing phosphorus and sulphur. |
-| **Triple Superphosphate (TSP)**| $3Ca(H_2PO_4)_2$ | **$46–48\%\text{ P}_2\text{O}_5$** | Slightly acidic | High-analysis phosphatic fertilizer without gypsum byproduct. |
-| **Diammonium Phosphate (DAP)** | $(NH_4)_2HPO_4$ | **$18\%\text{ N}, 46\%\text{ P}_2\text{O}_5$** | Alkaline initially, then acidic | Second most widely consumed fertilizer in India after urea. |
-| **Muriate of Potash (MOP)** | $KCl$ | **$60\%\text{ K}_2\text{O}$** | Neutral | **$100\%$ imported into India**; unsuitable for chlorine-sensitive tobacco/potatoes. |
-| **Sulphate of Potash (SOP)** | $K_2SO_4$ | $50\%\text{ K}_2\text{O}, 17.5\%\text{ S}$ | Neutral | Premium fertilizer for chloride-sensitive crops (tobacco, grapes). |
-
----
-
-### Table 3: Agrochemical Classes & Target Pests
-
-| Agrochemical Type | Classic Active Chemical Compounds | Target Organisms / Ecological Action | Regulatory & Environmental Status |
-|---|---|---|---|
-| **Insecticides (Organochlorines)** | **DDT**, **BHC / Lindane**, Endosulfan, Aldrin | Controls mosquitoes, agricultural insect pests | **Non-biodegradable; biomagnifies in raptors**; banned globally under Stockholm POPs. |
-| **Insecticides (Organophosphates)** | Malathion, Parathion, Chlorpyrifos | Acetylcholinesterase inhibitors in insect nerves | Biodegradable but high acute mammalian toxicity. |
-| **Selective Herbicides** | **2,4-D (2,4-dichlorophenoxyacetic acid)** | Destroys broad-leaved dicot weeds in monocot cereals | Synthetic auxin mimicking growth hormones. |
-| **Non-Selective Herbicides** | **Sodium Chlorate ($NaClO_3$)**, Glyphosate | Kills all green plant vegetation indiscriminately | Used for clearing railway tracks, industrial yards, weed knockdown. |
-| **Rodenticides (Rat Poisons)** | **Zinc Phosphide ($Zn_3P_2$)**, Warfarin | Stomach poison releasing lethal **Phosphine ($PH_3$)** | Standard acute poison for burrowing field rats. |
-| **Fungicides** | **Bordeaux Mixture ($CuSO_4 + Ca(OH)_2$)**, Sulphur | Copper ions destroy fungal spores | Standard spray for grape downy mildew and potato blight. |
-| **Cloud-Seeding Nucleants** | **Silver Iodide ($AgI$)**, Dry Ice (solid $CO_2$) | Hexagonal crystal template for ice crystal growth | Deployed by aircraft for artificial precipitation. |
-| **Photographic Salts** | **Silver Bromide ($AgBr$)**, Hypo ($Na_2S_2O_3$) | Light-sensitive emulsion; hypo fixes image | Foundational to classical monochrome photography. |
-
----
-
-## Detailed Theory Notes
-
-### 7.1 Cleansing Chemistry: Saponification, Micelles & Synthetic Surfactants
-
-#### 1. Saponification Reaction
-Soaps are manufactured by heating natural fats and oils (esters of glycerol with long-chain fatty acids) with aqueous alkali:
 ```
-CH₂ - O - CO - C₁₇H₃₅                      CH₂ - OH
-|                                          |
-CH  - O - CO - C₁₇H₃₅  +  3 NaOH  ───>     CH  - OH  +  3 C₁₇H₃₅COONa
-|                                          |            (Sodium Stearate Soap)
-CH₂ - O - CO - C₁₇H₃₅                      CH₂ - OH
-(Glyceryl Stearate / Fat)                 (Glycerol)
+1867 ── Alfred Nobel patents Dynamite (Nitroglycerin absorbed in kieselguhr)
+ │
+1879 ── Constantin Fahlberg & Ira Remsen accidentally discover Saccharin (First artificial sweetener)
+ │
+1897 ── Felix Hoffmann synthesizes Aspirin (Acetylsalicylic Acid) at Bayer
+ │
+1899 ── Georg Friedrich Henning synthesizes RDX (Research Department Explosive)
+ │
+1909 ── Paul Ehrlich discovers Salvarsan for syphilis (Father of Chemotherapy)
+ │
+1965 ── James M. Schlatter discovers Aspartame (Low-calorie artificial sweetener)
+ │
+2021–25 ── IFFCO commercializes Liquid Nano Urea and Nano DAP across India
 ```
-- The byproduct **Glycerol** is separated by fractional vacuum distillation and used in pharmaceuticals, cosmetics, and nitroglycerin explosives.
 
-#### 2. Micelle Mechanics
-- The hydrophobic hydrocarbon tail is lipophilic (attracted to fats, repelled by water).
-- The hydrophilic carboxylate head is ionic and solvated by water molecules.
-- When concentration exceeds the **Critical Micelle Concentration (CMC)**, molecules self-assemble into a spherical cluster of 100–200 molecules.
-- The non-polar dirt/grease is entrapped within the hydrophobic interior core. The charged carboxylate heads on the outer shell repel other micelles, preventing coalescence and keeping the oil droplets suspended as an emulsion that washes away with water.
-
----
-
-### 7.2 Pharmaceutical Chemistry & Antiseptic Physics
-
-#### 1. Analgesics & Antipyretics
-- **Aspirin (Acetylsalicylic Acid)**:
-  - Synthesized by acetylating salicylic acid with acetic anhydride in the presence of sulphuric acid:
-    $$C_6H_4(OH)COOH + (CH_3CO)_2O \to C_6H_4(OCOCH_3)COOH + CH_3COOH$$
-  - Inhibits the enzyme cyclooxygenase (COX), blocking the biosynthesis of **prostaglandins** (pain and fever mediators) and **thromboxanes** (blood clotting agents).
-  - Used in low doses ($75–150\text{ mg/day}$) as an antiplatelet prophylactic to prevent coronary thrombosis and secondary strokes.
-
-#### 2. Antiseptic vs. Disinfectant Chemistry
-- **Dettol**: The active germicide is **Chloroxylenol (4-chloro-3,5-dimethylphenol)**, blended with $\alpha$-terpineol in pine oil and soap solution. It disrupts bacterial cell membranes without irritating human skin.
-- **Phenol Dichotomy**: Phenol ($C_6H_5OH$) was the historic antiseptic introduced by Joseph Lister (1865). At dilute concentrations ($0.2\%$), it denatures bacterial enzymes safely on skin. At higher concentrations ($1.0\%$), it damages human epithelial tissue and is restricted to disinfecting non-living floors and drains.
-
----
-
-### 7.3 Industrial Glass Chemistry & Portland Cement Mechanics
-
-#### 1. Specialty Glasses
-- **Crookes Glass**: Doping molten silicate glass with $CeO_2$ introduces localized electron transitions that absorb electromagnetic radiation with wavelengths below $400\text{ nm}$ (ultraviolet spectrum) while transmitting visible light ($400–700\text{ nm}$).
-- **Pyrex (Borosilicate)**: Incorporating $B_2O_3$ reduces the coefficient of thermal expansion from $9 \times 10^{-6}\text{ K}^{-1}$ (soda glass) to $3.3 \times 10^{-6}\text{ K}^{-1}$. When heated unevenly, thermal expansion differentials are minimal, preventing mechanical stress cracks.
-
-#### 2. Portland Cement Hydration & Setting
-- When cement is mixed with water, hydration reactions form interlocking needle-like crystals of calcium silicate hydrate (C-S-H gel) and calcium hydroxide ($Ca(OH)_2$):
-  $$2(3CaO \cdot SiO_2) + 6H_2O \to 3CaO \cdot 2SiO_2 \cdot 3H_2O\text{ (C-S-H gel)} + 3Ca(OH)_2$$
-- Gypsum ($CaSO_4 \cdot 2H_2O$) retards hydration of tricalcium aluminate ($C_3A$), ensuring a controlled setting profile.
-
----
-
-### 7.4 Agricultural Fertilizers & Soil Remediation Chemistry
-
-#### 1. Urea and Nitrogen Dynamics
-- Urea ($NH_2CONH_2$, $M_w = 60\text{ g/mol}$) contains two nitrogen atoms:
-  $$\% N = \frac{2 \times 14}{60} \times 100 = 46.67\% \approx 46\%$$
-- **Enzymatic Soil Hydrolysis**:
-  $$NH_2CONH_2 + 2H_2O \xrightarrow{\text{urease}} (NH_4)_2CO_3 \rightleftharpoons 2NH_4^+ + CO_3^{2-}$$
-- **Nitrification by Soil Microbes**:
-  $$2NH_4^+ + 3O_2 \xrightarrow{\text{Nitrosomonas}} 2NO_2^- + 4H^+ + 2H_2O$$
-  $$2NO_2^- + O_2 \xrightarrow{\text{Nitrobacter}} 2NO_3^-\text{ (absorbed by roots)}$$
-
-#### 2. Remediation of Problem Soils
-- **Acidic Soils**: High rainfall leaches basic cations ($Ca^{2+}, Mg^{2+}, K^+$), leaving soil dominated by $H^+$ and $Al^{3+}$. Corrected by liming with $CaCO_3$ or $Ca(OH)_2$:
-  $$Al^{3+}\text{-Clay} + 3Ca(OH)_2 \to Ca^{2+}\text{-Clay} + Al(OH)_3\downarrow$$
-- **Alkaline / Sodic (Usar) Soils**: Arid evaporation concentrates exchangeable sodium ($Na^+$) on clay particles, causing soil swelling and poor drainage ($\text{pH} > 8.5$). Corrected with Gypsum ($CaSO_4 \cdot 2H_2O$):
-  $$2Na^+\text{-Clay} + CaSO_4 \to Ca^{2+}\text{-Clay} + Na_2SO_4\text{ (soluble, flushed out by irrigation)}$$
-
----
-
-## Bilingual Terminology -- Chemistry in Daily Life and Agriculture
-
-| English Term | Hindi Term | Key Anchor |
+| Landmark Year | Chemist / Institution | Landmark Chemistry Application |
 |---|---|---|
-| **Fertiliser** (उर्वरक) | रासायनिक उर्वरक | Chemical compound supplying nutrients to plants (N, P, K) |
-| **Urea** (यूरिया) | यूरिया | Most used nitrogenous fertiliser; CO(NH2)2; 46% N |
-| **DAP** (डीएपी) | डाईअमोनियम फॉस्फेट | Diammonium Phosphate; N + P fertiliser |
-| **Pesticide** (कीटनाशक) | कीटनाशी / कीटनाशक | Chemical that kills pests; insecticide, fungicide, herbicide |
-| **DDT** (डीडीटी) | डीडीटी | Dichlorodiphenyltrichloroethane; organochlorine insecticide; banned (persistent) |
-| **Insecticide** (कीटनाशी) | कीटनाशी | Kills insects; e.g., malathion, BHC, pyrethroids |
-| **Herbicide** (शाकनाशी) | शाकनाशी | Kills weeds; e.g., 2,4-D; Agent Orange (2,4,5-T + 2,4-D) |
-| **Fungicide** (कवकनाशी) | फफूंदनाशक | Kills fungi; e.g., Bordeaux mixture (CuSO4 + lime) |
-| **Preservative** (परिरक्षक) | परिरक्षक | Food additive preventing spoilage; salt, sugar, vinegar, sodium benzoate |
-| **Food Additive** (खाद्य योज्य) | खाद्य योजक | Substance added to food for colour, flavour, preservation, nutrition |
-| **Dye** (रंजक) | रंजक | Coloured substance; synthetic (aniline dyes) or natural (indigo, turmeric) |
-| **Soap** (साबुन) | साबुन | Sodium/potassium salt of fatty acids; biodegradable cleansing agent |
-| **Detergent** (अपमार्जक) | अपमार्जक | Synthetic cleaner; sulphonate/sulphate; works in hard water |
-| **Antiseptic** (रोगाणुनाशक) | रोगाणुनाशक | Kills microorganisms on living tissue; dettol, savlon, iodine |
-| **Disinfectant** (विसंक्रामक) | विसंक्रामक | Kills microorganisms on inanimate surfaces; bleach, phenol |
-| **Drug / Medicine** (औषधि) | औषधि / दवा | Chemical compound used to treat, cure, or prevent disease |
+| **1867** | Alfred Nobel | Stabilized explosive nitroglycerin into **Dynamite**; established the prestigious Nobel Prizes. |
+| **1879** | Fahlberg & Remsen | Discovered **Saccharin** ($550\times$ sweeter than cane sugar); non-caloric artificial sweetener. |
+| **1897** | Felix Hoffmann | Synthesized stable **Aspirin (Acetylsalicylic Acid)**; world's most widely used analgesic. |
+| **1899** | G. F. Henning | Patented **RDX (Cyclonite / Hexogen)**; premier high-velocity military explosive. |
+| **1909** | Paul Ehrlich | Formulated concept of the **"Magic Bullet"** and synthesized Salvarsan (Nobel 1908). |
+| **2021** | IFFCO (Kalol, Gujarat) | Commercialized world's first **Liquid Nano Urea** ($4\%$ nano-nitrogen particles of $20–50\text{ nm}$). |
+
+## 📊 Quick Reference Grid
+
+### 1. Pharmacology & Therapeutic Drug Classes Matrix
+
+| Drug Classification | Therapeutic Action / Purpose | Specific Chemical Drug Examples | Core Prelims Exam Hook |
+|---|---|---|---|
+| **Antipyretics** | **Reduces abnormally high body temperature (fever)**| **Paracetamol (Acetaminophen), Aspirin, Phenacetin** | Acts on the hypothalamus to restore normal thermal set point |
+| **Analgesics (Non-narcotic)**| **Relieves pain without loss of consciousness or addiction**| **Aspirin (Acetylsalicylic acid), Paracetamol, Ibuprofen** | Inhibits prostaglandin synthesis; Aspirin prevents blood clots (antiplatelet) |
+| **Analgesics (Narcotic)** | **Relieves acute severe pain; induces sleep and addiction**| **Morphine, Codeine, Heroin, Pethidine** | Opium poppy (*Papaver somniferum*) alkaloids; post-surgical pain relief |
+| **Antiseptics** | **Kills or inhibits microbial growth; SAFE on living tissues**| **Dettol (Chloroxylenol + Terpineol), Savlon, Tincture of Iodine ($2–3\% I_2$), Bithional, Boric acid**| Applied on cuts, wounds, diseased skin surfaces; Bithional added to soaps |
+| **Disinfectants** | **Kills microbes; TOXIC to living tissues; for non-living objects**| **$1\%$ Phenol solution, Chlorine ($0.2–0.4\text{ ppm}$ in water), Bleaching powder** | Applied to hospital floors, instruments, drainage systems |
+| **Tranquilizers** | **Treats anxiety, stress, mental depression; induces calmness**| **Equanil, Valium (Diazepam), Luminal, Seconal, Meprobamate**| Calms central nervous system without causing heavy hypnosis |
+| **Antacids** | **Neutralizes excess gastric hydrochloric acid ($HCl$)**| **Milk of Magnesia ($Mg(OH)_2$), Sodium Bicarbonate ($NaHCO_3$), Aluminium Hydroxide gel**| Relieves heartburn, dyspepsia, hyperacidity |
+| **Antihistamines** | **Blocks histamine receptors to prevent allergic reactions**| **Cetirizine, Diphenhydramine, Promethazine, Terfenadine**| Relieves allergic rhinitis, conjunctivitis, skin hives |
 
 ---
 
-## Complete PYQ Bank — State PCS (34 Questions)
+### 2. Artificial Sweeteners Comparison
 
-### UPPCS & UP RO/ARO Prelims/Mains (20 Questions)
+| Sweetener Name | Chemical Nature | Relative Sweetness (vs Sucrose = 1)| Thermal Stability | Characteristic Prelims Exam Hook |
+|---|---|---|---|---|
+| **Saccharin** | Ortho-sulfobenzimide | **$550\times$** | Stable at cooking temperatures | Oldest artificial sweetener (1879); **excreted completely unchanged in urine** (0 calories) |
+| **Aspartame** | Methyl ester of Aspartic acid - Phenylalanine dipeptide | **$100\times$** | **UNSTABLE at cooking temperatures** (decomposes on heating)| **Used ONLY in cold foods and soft drinks**; contraindicated in Phenylketonuria (PKU) |
+| **Sucralose** | Trichloro derivative of sucrose | **$600\times$** | **STABLE at cooking and baking temperatures** | Tastes like natural sugar; does not break down or provide calories |
+| **Alitame** | High-potency aspartic acid dipeptide | **$2,000\times$ (HIGHEST SWEETNESS)**| Highly stable | Sweetness is so high that controlling sweetness level is difficult |
 
-**Q-ST1. U.P. U.D.A./L.D.A. (Mains) 2010**
+---
 
-In fruits and vegetables, wax emulsion is used for –
+### 3. Chemical Fertilizers in Agriculture Master Reference
 
-(a) Creating shine on fruits and vegetables
+| Fertilizer Name | Primary Nutrients | Guaranteed Nutrient Percentage | Chemical Formula | Distinctive Agronomic Fact |
+|---|---|---|---|---|
+| **Urea** | **Nitrogen ($N$)** | **$46\% \text{ Nitrogen}$ (HIGHEST N in solid fertilizers)**| **$NH_2CONH_2$** | Produces neutral $CO_2$ and $NH_3$ in soil; **$100\%$ neem-coated in India** to slow nitrogen release and prevent diversion |
+| **DAP (Diammonium Phosphate)**| **Nitrogen ($N$) + Phosphorus ($P_2O_5$)**| **$18\% \text{ Nitrogen} + 46\% P_2O_5$** | **$(NH_4)_2HPO_4$** | India's second most consumed fertilizer; basal application for root establishment |
+| **Single Superphosphate (SSP)**| **Phosphorus ($P_2O_5$) + Sulfur ($S$) + Calcium**| **$16\% P_2O_5 + 11\% \text{ Sulfur} + 19\% \text{ Calcium}$**| $Ca(H_2PO_4)_2 + 2CaSO_4$| Highly beneficial for oilseed and pulse crops due to high sulfur content |
+| **Muriate of Potash (MOP)** | **Potassium ($K_2O$)** | **$60\% K_2O$** | **Potassium Chloride ($KCl$)**| Entire domestic consumption is **$100\%$ imported** (India has no commercial potash reserves) |
+| **CAN (Calcium Ammonium Nitrate)**| **Nitrogen ($N$)** | **$25–26\% \text{ Nitrogen}$** | $CaCO_3 \cdot NH_4NO_3$ | "Kisan Khad"; neutral fertilizer, does not alter soil pH |
 
-(b) Extension of storage life
+---
 
-(c) Enhancing the ripening process
+### 4. High-Yield Commercial & Military Explosives Directory
 
-(d) None of the above
+| Explosive Name | Full Chemical Name | Chemical Formula | Key Characteristics & Prelims Exam Hook |
+|---|---|---|---|
+| **RDX** | **Cyclotrimethylenetrinitramine** | $C_3H_6N_6O_6$ | Military high explosive; called **Cyclonite** in USA, **Hexogen** in Germany, and **T4** in Italy; base for military **C-4 plastic explosive** |
+| **TNT** | **2,4,6-Trinitrotoluene** | $C_7H_5N_3O_6$ | Standard military explosive; explosive yield used as standard energy metric (**"Tons of TNT"** for nuclear bombs) |
+| **TNP (Picric Acid)** | **2,4,6-Trinitrophenol** | $C_6H_3N_3O_7$ | Bright yellow crystalline explosive; also used as a dye and biological tissue stain |
+| **Dynamite** | Nitroglycerin absorbed in kieselguhr | $C_3H_5(NO_3)_3$ in earth | Invented by **Alfred Nobel (1867)**; safe handling of volatile nitroglycerin |
+| **Gunpowder (Black Powder)**| Saltpetre + Charcoal + Sulfur | **$KNO_3 (75\%) + C (15\%) + S (10\%)$**| Oldest known chemical explosive; invented in ancient China; used in fireworks and artillery propellant |
 
-<details>
-<summary>Show answer</summary>
+## ⚡ Confused Pairs & Common Examiner Traps
 
-**Logic:** In fruits and vegetables, wax emulsion is used for extension of their storage life.
+| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
+|---|---|---|---|
+| **Antiseptic** | **Disinfectant** | **Antiseptics (Dettol, Tincture of Iodine)** are applied safely to **LIVING tissues** (cuts, wounds). **Disinfectants ($1\%$ Phenol, Bleaching powder)** are toxic and applied only to **NON-LIVING objects** (floors, drains). | एंटीसेप्टिक = जीवित ऊतकों पर (घाव, कटने पर); कीटाणुनाशक (Disinfectant) = निर्जीव वस्तुओं (फर्श) पर |
+| **Phenol Dual Nature** | **Concentration Trap** | Phenol acts as an **ANTISEPTIC at dilute $0.2\%$ concentration**, but acts as a **DISINFECTANT at stronger $1.0\%$ concentration**. | फिनोल $0.2\%$ सांद्रता पर एंटीसेप्टिक है, जबकि $1\%$ सांद्रता पर कीटाणुनाशक (Disinfectant) है |
+| **Urea Nitrogen Percentage** | **Nitrogen Content Confusion** | Commercial fertilizer **Urea contains exactly $46\% \text{ Nitrogen}$**. It has the highest nitrogen content among all solid commercial nitrogenous fertilizers. | यूरिया में नाइट्रोजन की मात्रा ठीक $46\%$ होती है |
+| **RDX Alternative Names** | **Country Confusion** | RDX is identical to **Cyclonite (USA)**, **Hexogen (Germany)**, and **T4 (Italy)**. It is an explosive compound, NOT a biological gas or fertilizer! | आरडीएक्स (RDX) = साइक्लोनाइट (अमेरिका) = हेक्सोजन (जर्मनी) |
+| **Aspartame Cooking Stability**| **Sucralose Cooking Stability**| **Aspartame decomposes upon heating**, so it can be used ONLY in cold desserts and cold drinks. **Sucralose is completely heat-stable** and can be used in baking and hot cooking. | एस्पार्टेम गर्म करने पर विघटित हो जाता है (केवल ठंडे पेय पदार्थों में प्रयुक्त); सुक्रालोज़ पकाने हेतु सुरक्षित है |
+| **Dettol Active Ingredients** | **Pure Chemical Confusion** | Dettol is a proprietary antiseptic blend of **Chloroxylenol** (antibacterial agent) and **$\alpha$-Terpineol** (fragrant solvent). | डेटॉल = क्लोरोज़ाइलीनॉल + टरपिनिऑल का मिश्रण |
+| **Tincture of Iodine** | **Iodized Salt** | **Tincture of Iodine** is an antiseptic solution of **$2–3\%$ elemental Iodine ($I_2$) dissolved in an alcohol-water mixture**. Iodized salt is dietary table salt containing trace Potassium Iodate ($KIO_3$). | टिंचर आयोडीन = एल्कोहॉल-जल मिश्रण में $2–3\%$ आयोडीन का घोल (एंटीसेप्टिक) |
+| **Neem-Coated Urea** | **Ordinary Urea** | Neem coating retards the nitrification process by soil bacteria, **slowing nitrogen release and reducing leaching loss by $10–15\%$**, while completely preventing illegal diversion to non-agricultural industries. | नीम लेपित यूरिया नाइट्रोजन के धीमे विमोचन को सुनिश्चित करता है तथा रासायनिक दुरुपयोग रोकता है |
+| **Gunpowder (Black Powder)** | **Smokeless Powder (Cordite)** | Traditional **Gunpowder is a mechanical mixture of Potassium Nitrate ($KNO_3, 75\%$), Charcoal ($15\%$), and Sulfur ($10\%$)**. It is not a single chemical compound. | बारूद (Gunpowder) = पोटेशियम नाइट्रेट ($KNO_3$) + चारकोल + सल्फर का मिश्रण |
+| **DAP Nitrogen Content** | **Phosphorus Content** | Diammonium Phosphate (DAP) contains **$18\% \text{ Nitrogen}$ and $46\% \text{ Phosphorus } (P_2O_5)$**. Examiners repeatedly swap the percentages! | डीएपी (DAP) = $18\%$ नाइट्रोजन तथा $46\%$ फास्फोरस ($P_2O_5$) |
 
-**Ans: B.** Extension of storage life
-</details>
+## 🧠 Memory Anchors & Mnemonics
 
-**Q2.** in Science & Technology, consider the following statement:
+### 1. Urea Identity Hook:
+- **$NH_2CONH_2$**
+- **$46\%$ Nitrogen** (The 46er!).
+- Synthesized by Wöhler (1828).
 
-Which of the following is correct regarding this topic?
+### 2. Dettol Dual Components:
+- **Chloroxylenol** + **Terpineol**
+> **"Chloro cleans, Terpineol trims"**
 
-A. Soaps are sodium or potassium salts of higher fatty acids (containing 12 to 18 carbon atoms) such as Stearic acid ($C{17}H{35}COOH$), Palmitic acid ($C{15}H{31}COOH$), and Oleic acid ($C{17}H{33}COOH$).
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
+### 3. Artificial Sweeteners Heat Rule:
+- **A**spartame $\to$ **A**void heat! (Cold drinks only).
+- **S**ucralose $\to$ **S**afe in heat! (Baking allowed).
 
-<details>
-<summary>Show answer</summary>
+### 4. Gunpowder Recipe: **$75 - 15 - 10$**
+- $75\%$ **Sora (Potassium Nitrate, $KNO_3$)**
+- $15\%$ **Charcoal (Carbon)**
+- $10\%$ **Gandhak (Sulfur)**
 
-**Correct Answer:** **A**
+## 🎯 High-Yield PYQ Drill
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Soaps** are sodium or potassium salts of higher fatty acids (containing 12 to 18 carbon atoms) such as **Stearic acid ($C_{17}H_{35}COOH$)**, **Palmitic acid ($C_{15}H_{31}COOH$)**, and **Oleic acid ($C_{17}H_{33}COOH$)**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q3.** in Science & Technology, consider the following statement:
+**Q1.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Saponification: applies only to union territories and not state jurisdictions.
-B. Saponification: The chemical alkaline hydrolysis of animal fats or vegetable oils (triglycerides) with aqueous sodium hydroxide ($NaOH$) or potassium hydroxide ($KOH$), producing soap and a commercially valuable byproduct, Glycerol (Glycerine, $CH2OH-CHOH-CH2OH$).
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Saponification**: The chemical alkaline hydrolysis of animal fats or vegetable oils (triglycerides) with aqueous sodium hydroxide ($NaOH$) or potassium hydroxide ($KOH$), producing soap and a commercially valuable byproduct, **Glycerol (Glycerine, $CH_2OH-CHOH-CH_2OH$)**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q4.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Hard applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Hard Soap vs. Soft Soap: Soaps made with Sodium hydroxide ($NaOH$) are hard soaps (laundry washing bars); soaps made with Potassium hydroxide ($KOH$) are soft soaps (toilet luxury soaps, shaving creams, liquid handwashes).
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
-
-**Detailed Explanation:**
-- **Key Exam Association:** **Hard Soap vs. Soft Soap**: Soaps made with **Sodium hydroxide ($NaOH$)** are hard soaps (laundry washing bars); soaps made with **Potassium hydroxide ($KOH$)** are soft soaps (toilet luxury soaps, shaving creams, liquid handwashes).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
-**Q5.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Salting applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Salting Out of Soap: Common salt ($NaCl$) is added to the saponification mixture to decrease the solubility product of soap, precipitating it out as a curdled solid through the common-ion effect.
+What is the percentage of nitrogen present in commercial Urea fertilizer?
+(a) $21\%$  
+(b) $28\%$  
+(c) $46\%$  
+(d) $60\%$  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** Standard key matches $46\%$.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Salting Out of Soap**: Common salt (**$NaCl$**) is added to the saponification mixture to decrease the solubility product of soap, precipitating it out as a curdled solid through the common-ion effect.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: C.** $46\%$
 </details>
 
-**Q6.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q2.**
 
-A. Micelle Cleansing Action: A soap molecule consists of a long non-polar hydrophobic (water-repelling / oil-soluble) hydrocarbon tail and a polar hydrophilic (water-loving) ionic carboxylate head ($-COO^-Na^+$). In water, soap molecules assemble into spherical aggregates called micelles: the hydrophobic hydrocarbon tails point inward to trap non-polar oil/grease dirt droplets, while the hydrophilic polar heads face outward into water. Agitation forms an emulsion that is rinsed away.
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
+Which specialty glass is designed with cerium oxide to cut off harmful ultraviolet radiation?
+(a) Soda glass  
+(b) Flint glass  
+(c) Crookes glass  
+(d) Pyrex glass  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** Crookes glass contains cerium oxide ($CeO2$), which absorbs UV rays in sunglasses.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Micelle Cleansing Action**: A soap molecule consists of a long non-polar hydrophobic (water-repelling / oil-soluble) hydrocarbon tail and a polar hydrophilic (water-loving) ionic carboxylate head ($-COO^-Na^+$). In water, soap molecules assemble into spherical aggregates called **micelles**: the hydrophobic hydrocarbon tails point inward to trap non-polar oil/grease dirt droplets, while the hydrophilic polar heads face outward into water. Agitation forms an emulsion that is rinsed away.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: C.** Crookes glass
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q3.**
 
-A. Contrary to standard doctrine, Why applies only to union territories and not state jurisdictions.
-B. Why Soap Fails in Hard Water: Hard water contains dissolved calcium ($Ca^{2+}$) and magnesium ($Mg^{2+}$) ions. These cations react with soluble sodium soap molecules to precipitate an insoluble, sticky white curd called Scum (calcium/magnesium stearate):
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
+Which chemical salt is used as a light-sensitive emulsion on photographic film?
+(a) Silver bromide ($AgBr$)  
+(b) Silver iodide ($AgI$)  
+(c) Silver nitrate ($AgNO_3$)  
+(d) Silver oxide ($Ag_2O$)  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Logic:** Silver bromide ($AgBr$) is the light-sensitive compound in photographic emulsions.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Why Soap Fails in Hard Water**: Hard water contains dissolved calcium ($Ca^{2+}$) and magnesium ($Mg^{2+}$) ions. These cations react with soluble sodium soap molecules to precipitate an insoluble, sticky white curd called **Scum** (calcium/magnesium stearate):
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: A.** Silver bromide ($AgBr$)
 </details>
 
-**Q8.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q4.**
 
-A. Contrary to standard doctrine, Synthetic applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Synthetic Detergents (Syndets): Sodium salts of long-chain alkyl hydrogen sulphates or alkylbenzene sulphonic acids (e.g., Sodium Lauryl Sulphate, Sodium Dodecylbenzene Sulphonate).
-D. Classified under Schedule VII List II (State List)
+Which compound is used for cloud seeding to generate artificial rain?
+(a) Silver bromide  
+(b) Silver iodide ($AgI$)  
+(c) Sodium chloride only  
+(d) Calcium carbonate  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** Silver iodide ($AgI$) serves as an ice-nucleating agent in clouds due to its crystalline resemblance to ice.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Synthetic Detergents (Syndets)**: Sodium salts of long-chain alkyl hydrogen sulphates or alkylbenzene sulphonic acids (e.g., **Sodium Lauryl Sulphate**, **Sodium Dodecylbenzene Sulphonate**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Silver iodide ($AgI$)
 </details>
 
-**Q9.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q5.**
 
-A. Contrary to standard doctrine, Why applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Why Detergents Work in Hard Water: The calcium and magnesium salts of alkyl sulphates and sulphonates are completely soluble in water; hence, synthetic detergents form abundant rich lather in both soft and hard water without producing insoluble scum.
+Sodium chlorate ($NaClO_3$) is commercially used in agriculture as a:
+(a) Fertilizer  
+(b) Non-selective herbicide  
+(c) Rodenticide  
+(d) Fungicide  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** Sodium chlorate is a broad-spectrum herbicide used to clear vegetation.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Why Detergents Work in Hard Water**: The calcium and magnesium salts of alkyl sulphates and sulphonates are **completely soluble in water**; hence, synthetic detergents form abundant rich lather in both soft and hard water without producing insoluble scum.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Non-selective herbicide
 </details>
 
-**Q10.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q6.**
 
-A. Analgesics: Pharmaceutical drugs that relieve or eliminate bodily pain without causing loss of consciousness. Classified into:
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
+Zinc phosphide ($Zn_3P_2$) is widely used as a:
+(a) Rodenticide (rat poison)  
+(b) Fertilizer  
+(c) Selective herbicide  
+(d) Fungicide  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** Zinc phosphide releases toxic phosphine gas in rodent stomachs, acting as a rodenticide.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Analgesics**: Pharmaceutical drugs that relieve or eliminate bodily pain without causing loss of consciousness. Classified into:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: A.** Rodenticide (rat poison)
 </details>
 
-**Q11.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q7.**
 
-A. Contrary to standard doctrine, Antipyretics: applies only to union territories and not state jurisdictions.
-B. Antipyretics: Drugs used to reduce elevated body temperature in fever (e.g., Paracetamol, Aspirin, Phenacetin).
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
+Why is DDT banned globally under the Stockholm Convention?
+(a) It is too expensive to manufacture  
+(b) It is non-biodegradable and biomagnifies in food chains  
+(c) It turns soil alkaline  
+(d) It causes rust on farm machinery  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Logic:** DDT persists in the environment and accumulates in food webs, causing ecological damage such as avian eggshell thinning.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Antipyretics**: Drugs used to reduce elevated body temperature in fever (e.g., **Paracetamol**, **Aspirin**, **Phenacetin**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** It is non-biodegradable and biomagnifies in food chains
 </details>
 
-**Q12.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q8.**
 
-A. Contrary to standard doctrine, Antiseptics: applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Antiseptics: Chemical antimicrobial agents applied to living human and animal tissues (wounds, cuts, skin ulcers, mouth infections) to kill or inhibit microbial growth without damaging tissue cells.
-D. It was established during the First Five-Year Plan period
+What is the commercial chemical name of the photographic fixer "Hypo"?
+(a) Sodium thiosulphate pentahydrate  
+(b) Sodium sulphate  
+(c) Sodium sulphite  
+(d) Sodium bisulphite  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Logic:** Hypo is sodium thiosulphate ($Na2S2O3 \cdot 5H2O$), which dissolves unexposed silver bromide from film.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Antiseptics**: Chemical antimicrobial agents applied to **living human and animal tissues** (wounds, cuts, skin ulcers, mouth infections) to kill or inhibit microbial growth without damaging tissue cells.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: A.** Sodium thiosulphate pentahydrate
 </details>
 
-**Q13.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q9.**
 
-A. Contrary to standard doctrine, Dettol applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Dettol Composition: The commercial household antiseptic Dettol is a blend of Chloroxylenol ($\approx 4.8\%$) and $\alpha$-Terpineol dissolved in pine oil and alcohol.
+Aspirin is chemically:
+(a) Acetylsalicylic acid  
+(b) Methyl salicylate  
+(c) Phenyl salicylate  
+(d) Benzoic acid  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Logic:** Aspirin is acetylsalicylic acid, an analgesic, antipyretic, and antiplatelet drug.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Dettol Composition**: The commercial household antiseptic Dettol is a blend of **Chloroxylenol** ($\approx 4.8\%$) and **$\alpha$-Terpineol** dissolved in pine oil and alcohol.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: A.** Acetylsalicylic acid
 </details>
 
-**Q14.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q10.**
 
-A. Bithionol: An organosulfur chlorinated compound added to toilet soaps to impart long-lasting deodorant and antiseptic properties.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. None of the above statements are correct according to official Commission keys.
-D. Enacted under Article 356 of the Constitution of India
+What byproduct is generated during the manufacture of soap by saponification?
+(a) Methanol  
+(b) Glycerol (Glycerine)  
+(c) Ethanol  
+(d) Acetone  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Logic:** Saponification of triglycerides yields soap and glycerol.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Bithionol**: An organosulfur chlorinated compound added to toilet soaps to impart long-lasting deodorant and antiseptic properties.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: B.** Glycerol (Glycerine)
 </details>
 
-**Q15.** in Science & Technology, consider the following statement:
+---
 
-Which of the following is correct regarding this topic?
+**Q11.**
 
-A. Contrary to standard doctrine, Tincture applies only to union territories and not state jurisdictions.
-B. Tincture of Iodine: An effective antiseptic solution consisting of $2–3\%\text{ elemental Iodine } (I2)$ dissolved in an alcohol-water mixture.
-C. None of the above statements are correct according to official Commission keys.
-D. Reported by the Law Commission in its 214th consultation paper
+Which of the following compounds is used as a food preservative in tomato ketchup and fruit squashes?
+(a) Sodium benzoate  
+(b) Sodium chlorate  
+(c) Calcium carbide  
+(d) Zinc phosphide  
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Logic:** Sodium benzoate ($C6H5COONa$) inhibits yeast and mold growth in acidic foods.
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Tincture of Iodine**: An effective antiseptic solution consisting of **$2–3\%\text{ elemental Iodine } (I_2)$** dissolved in an alcohol-water mixture.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Ans: A.** Sodium benzoate
 </details>
+
+---
+
+**Q12.**
+
+What type of glass contains lead oxide ($PbO$) and possesses a high refractive index used for lenses and prisms?
+(a) Soda glass  
+(b) Flint glass  
+(c) Pyrex glass  
+(d) Crookes glass  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Flint glass contains lead oxide, providing high optical dispersion and refractive index for lenses and prisms.
+
+**Ans: B.** Flint glass
+</details>
+
+---
+
+**Q13.**
+
+Why is gypsum added to Portland cement during the grinding process?
+(a) To retard initial setting time  
+(b) To accelerate hardening  
+(c) To impart color  
+(d) To increase water solubility  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gypsum slows the hydration of tricalcium aluminate, preventing flash setting.
+
+**Ans: A.** To retard initial setting time
+</details>
+
+---
+
+**Q14.**
+
+Which soil amendment is added to reclaim acidic soils ($\text{pH} < 6$)?
+(a) Gypsum  
+(b) Agricultural lime ($CaCO_3 / Ca(OH)_2$)  
+(c) Urea  
+(d) Ammonium sulphate  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Liming neutralizes excess $H^+$ ions in acidic soils.
+
+**Ans: B.** Agricultural lime ($CaCO3 / Ca(OH)2$)
+</details>
+
+---
+
+**Q15.**
+
+What is added to reclaim alkaline/sodic soils ($\text{pH} > 8.5$)?
+(a) Slaked lime  
+(b) Gypsum ($CaSO_4 \cdot 2H_2O$)  
+(c) Sodium carbonate  
+(d) Chalk  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gypsum supplies calcium ions to displace sodium from sodic soils, restoring soil structure.
+
+**Ans: B.** Gypsum ($CaSO4 \cdot 2H2O$)
+</details>
+
+---

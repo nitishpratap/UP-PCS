@@ -11,426 +11,524 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 13 — Archaeology</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact / Discovery | Exam Relevance |
+|---|---|---|
+| **Sanauli Excavations (Baghpat, UP — ASI 2018–2021)** | ASI team under Dr. S.K. Manjul excavated royal necropolis yielding **three copper-sheathed solid-wheel chariots**, anthropomorphic coffins, copper antenna swords, and helmets in Late Harappan / OCP context | Overturns old colonial theory that chariots arrived only with Central Asian Aryan migrations; high-frequency UP question |
+| **Rakhigarhi Ancient DNA Analysis (2019–2024)** | DNA extracted from female skeleton at Rakhigarhi (Hisar, Haryana) published by Dr. Vasant Shinde and Dr. Niraj Rai showing distinct indigenous genetic lineage with absence of Steppe pastoralist ancestry | Direct scientific evidence confirming indigenous development of Harappan civilization |
+| **Vadnagar Stratigraphic Column (Gujarat, 2024)** | Joint ASI-IIT Kharagpur deep excavations at Vadnagar revealing continuous cultural occupation through 7 cultural stages from 800 BCE to post-modern era | Establishes climatic shifts influencing urban collapse and resurgence across three millennia |
+| **ASI Legislative & Conservation Trends (2024)** | National Monument Authority updates under Ancient Monuments and Archaeological Sites and Remains (AMASR) Act 1958; designation of new ASI circles | Questions testing headquarters (New Delhi vs Lucknow trap), AMASR Act provisions, and national heritage sites |
+
+---
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **John Marshall** (DG 1902–1928) **announced** the Indus civilization to the world in **1924**. **Mortimer Wheeler** (DG 1944–1948) brought the **balk-and-grid** method and re-dug Harappa in **1946** — he did **not** discover IVC.
-2. **Stratigraphy** (स्तरिकी) is relative dating by layers: in an undisturbed stack, **deeper is older**. A **balk** is the uncut wall left so layers can still be read.
-3. **Carbon-14** is absolute dating invented on **Willard Libby’s** path. Half-life is about **5730 years**. It works only on **organic** samples (charcoal, bone, wood, seed, shell) — not bare stone or metal.
-4. **Daya Ram Sahni** opened **Harappa** in **1921**. **R.D. Banerjee** opened **Mohenjo-daro** (मोहनजोदड़ो) in **1922**. Marshall announced; Wheeler re-dug later.
-5. **S.R. Rao** excavated **Lothal** and its dockyard. **B.B. Lal** excavated **Kalibangan** (कालीबंगा). **R.S. Bisht** excavated **Dholavira** (धोलावीरा).
-6. **V.S. Wakankar** established **Bhimbetka** (भीमबेटका) rock-art prehistory in **1957–58**. Bhimbetka is in **Madhya Pradesh**, not Uttar Pradesh.
-7. **Sanauli** (सनौली) (Baghpat, UP), excavated in **2018**, yielded copper **chariots**, coffins, and antenna swords in a Late Harappan / OCP setting.
-8. **Alamgirpur** is the **easternmost** Harappan site in India. **Rakhigarhi** (राखीगढ़ी) (Haryana) is the largest mound — it is **not** UP and **not** the eastern edge.
-9. **Mandi** (Muzaffarnagar, UP) is **not Manda** (Chenab belt, J&K). Mixing the two names is a frequent trap.
-10. **Robert Bruce Foote** at **Pallavaram** in **1863** first recognised Indian Paleolithic tools.
-11. **Mehrgarh** (मेहरगढ़) (Balochistan) is pre-Harappan farming and is **not** an Indian-state match option.
-12. **Megalithic** burials with large stones belong mainly to the Iron-age **south**. They are not a Harappan city label.
-13. **Thermoluminescence (TL)** dates fired pottery or bricks by asking when the object was last heated. Use relative methods to order a trench; use C-14 or TL when the stem wants a calendar band.
-14. **Typology** matches pottery and tool shapes across sites as another relative clock beside stratigraphy.
-15. **John Marshall** served as DG from **1902 to 1928** and made ASI a standing scientific department.
-16. **Mortimer Wheeler** served as DG from **1944 to 1948** and brought the **balk-and-grid** excavation method.
-17. **Typology** (प्रकारिकी) (pottery shape, tool type) sits beside layers as another relative clock.
-18. **Willard Libby** opened the radiocarbon path that led to the 1949 Nobel recognition, and the method has been in use since the late 1940s.
-19. **Bhimbetka** is in **Madhya Pradesh** as a UNESCO rock-shelter complex, not a Uttar Pradesh site.
-20. **Rakhigarhi** lies in **Hisar, Haryana**, and is the largest Indus mound — it is **not** in Uttar Pradesh.
-21. **Mehrgarh** is in Balochistan and marks pre-Harappan farming; it is not an Indian-state match option.
-22. **Sanauli** in Baghpat, excavated in **2018**, yielded copper **chariots**, coffins, and antenna swords in a Late Harappan / OCP setting.
-23. **Koldihwa** and **Mahagara** on the Belan near Prayagraj are Neolithic sites with an early **rice** claim.
-24. **Hastinapur** in Meerut is a PGW and Kuru mound linked with Lal’s flood-layer story.
-25. **Kaushambi** near Prayagraj is the Vatsa capital with a Mauryan–Gupta stack; the Allahabad pillar stone was moved from here.
-26. **Ahichchhatra** in Bareilly is the Panchala mound.
-27. **Sarnath** at Varanasi is the first-sermon site with the Ashokan lion capital and was one of Cunningham’s hunting grounds.
-28. **Rajghat** preserves the old Kashi rampart.
-29. **Shravasti** at Sahet-Mahet is the Kosala and Jetavana card.
-30. **Atranjikhera** in Etah is a PGW type-site.
-31. **OCP** (Ochre Coloured Pottery) marks the eastern doab Chalcolithic horizon and often pairs with **Copper Hoard** finds.
-32. **PGW** (Painted Grey Ware) is the classic **Later Vedic** north Indian ware; Hastinapur and Atranjikhera are type mounds.
-33. **NBPW** (Northern Black Polished Ware) rises with second urbanisation from about the **sixth century BCE** and remains thick in **Mauryan** cities.
-34. **Megalithic** burials with large stones belong mainly to the Iron-age **south**; they are not a Harappan city label.
-35. **Rakhigarhi** in Haryana is the largest Indus mound in India and is **not** in Uttar Pradesh.
+1. **Founding of ASI**: The **Archaeological Survey of India (ASI)** was founded in **1861** during the tenure of Viceroy **Lord Canning**; its first Director-General was **Alexander Cunningham**, hailed as the **"Father of Indian Archaeology"**.
+2. **ASI Headquarters Location**: The statutory headquarters of the ASI is at **Dharohar Bhawan, 24 Tilak Marg, New Delhi**. Lucknow houses the Directorate of UP State Archaeology and the UP State Museum—a frequent examiner bait!
+3. **Cunningham's Archaeological Method**: Alexander Cunningham primarily used accounts of **Chinese Buddhist pilgrims** (Faxian and Xuanzang) as topographic guides to rediscover and excavate major Buddhist holy sites like **Sarnath, Sanchi, Bharhut, Mahabodhi (Bodh Gaya), and Shravasti**.
+4. **Sir John Marshall's Tenure (1902–1928)**: Appointed by Lord Curzon in 1902, Marshall reorganized the ASI into a permanent scientific research institution and formally **announced the discovery of the Indus Valley Civilization** to the world in the *Illustrated London News* in **September 1924**.
+5. **Sir Mortimer Wheeler's Methodological Revolution**: Serving as Director-General from **1944 to 1948**, Wheeler introduced modern scientific excavation methodology—specifically the **balk-and-grid stratigraphic method**—and re-excavated Harappa (1946), Brahmagiri, and Arikamedu. Wheeler did **NOT** discover the IVC!
+6. **First Indian Paleolithic Discovery — Robert Bruce Foote**: On **30 May 1863**, geologist **Robert Bruce Foote** discovered the first recognized Paleolithic stone tool (an Acheulian quartzite handaxe) in India at **Pallavaram** near Chennai (Tamil Nadu), earning him the title **"Father of Indian Prehistory"**.
+7. **Discovery of Harappa (1921)**: **Rai Bahadur Daya Ram Sahni** commenced systematic excavations at **Harappa** (Sahiwal district, Punjab, Pakistan) on the Ravi River in **1921** under the guidance of John Marshall.
+8. **Discovery of Mohenjo-daro (1922)**: **Rakhaldas (R.D.) Banerjee** discovered the urban ruins of **Mohenjo-daro** (Larkana district, Sindh, Pakistan) on the Indus River in **1922** while surveying Buddhist stupa mounds.
+9. **Stratigraphy (स्तरिकी) & Law of Superposition**: Stratigraphy provides **relative dating** based on the geological Law of Superposition: in an undisturbed cultural mound, the **lowest layers are the oldest**, and each overlying layer is progressively younger.
+10. **The Balk (बाल्क) in Excavation**: A **balk** is an unexcavated wall of earth left between grid trenches during excavation so that vertical soil layers (stratigraphic profile) remain preserved for recording, cross-checking, and reading chronological sequences.
+11. **Vertical vs Horizontal Excavation**: **Vertical excavation** (deep stratigraphic shaft/trench) is conducted to establish the overall chronological succession of cultures through time at a site; **Horizontal excavation** (areal stripping) exposes complete architectural layouts and city plans of a single time period.
+12. **Typology (प्रकारिकी) as Relative Clock**: **Typology** classifies artifacts (especially pottery shapes, fabrics, decoration, and stone tool retouch patterns) into sequential developmental series, enabling archaeologists to correlate contemporary cultural horizons across different geographic sites.
+13. **In Situ Importance**: Archaeological finds have reliable historical value only when uncovered **in situ** (in their original undisturbed layer and context); illicit diggings and antique plundering destroy stratigraphic context, rendering precise dating impossible.
+14. **Radiocarbon (C-14) Absolute Dating**: Developed by American chemist **Willard Libby** in 1949 (Nobel Prize in Chemistry, 1960), C-14 dating calculates absolute calendar ages based on the radioactive decay of Carbon-14 in organic remains.
+15. **Carbon-14 Half-Life & Temporal Range**: The half-life of Carbon-14 is **5,730 ± 40 years**; its reliable measurement limit extends back to approximately **50,000 years before present** (BP), beyond which residual C-14 activity is too infinitesimal to detect.
+16. **Organic Sample Requirement of C-14**: Radiocarbon dating works **strictly on organic matter** that once absorbed atmospheric carbon: **charcoal, wood, bone, seeds, shell, peat, and horn**; it CANNOT directly date inorganic materials like flint handaxes, bare rocks, or copper swords.
+17. **Thermoluminescence (TL) Dating**: **TL dating** measures the accumulated radiation dose trapped within mineral crystal lattices (quartz, feldspar) since the object was last heated; it is the premier absolute scientific method for directly dating **fired pottery, terracotta figurines, burnt bricks, and hearth flints**.
+18. **Dendrochronology (Tree-Ring Dating)**: Formulated by A.E. Douglass, dendrochronology establishes exact calendar years by counting and cross-matching annual growth rings in timber and preserved wooden beams.
+19. **Bhimbetka Discovery — V.S. Wakankar**: In **1957–58**, **Dr. V.S. Wakankar** discovered the world-famous **Bhimbetka rock-shelters** in the Vindhyan foothills of Raisen district, **Madhya Pradesh** (UNESCO World Heritage Site), revealing unbroken prehistoric rock art spanning Upper Paleolithic, Mesolithic, and Chalcolithic ages. Bhimbetka is in MP, NOT Uttar Pradesh!
+20. **Lothal Excavation — S.R. Rao**: **S.R. Rao** excavated **Lothal** (Gulf of Khambhat, Gujarat) between 1955 and 1962, discovering the world's oldest brick tidal **dockyard**, bead-manufacturing factories, and a Persian Gulf button seal.
+21. **Kalibangan Excavation — B.B. Lal**: **B.B. Lal** and **B.K. Thapar** excavated **Kalibangan** (Hanumangarh, Rajasthan) on the dry Ghaggar bed in the 1960s, exposing the world's earliest furrowed **ploughed agricultural field** (Early Harappan) and a row of ritual **fire altars**.
+22. **Dholavira Excavation — R.S. Bisht**: **R.S. Bisht** excavated **Dholavira** (Khadir Bet, Rann of Kutch, Gujarat) from 1990 onwards, revealing a tripartite city plan (Citadel, Middle Town, Lower Town), monumental rock-cut water reservoirs, and a 10-character Harappan signboard.
+23. **Rakhigarhi — Largest Indus Site**: **Rakhigarhi** in Hisar district, **Haryana** (excavated by Amarendra Nath and Vasant Shinde) is the largest archaeological mound of the Indus Valley Civilization in India and the entire subcontinent (~350+ hectares); it is in Haryana, NOT Uttar Pradesh.
+24. **Sanauli Royal Necropolis (2018)**: Excavated by ASI under **Dr. Sanjay Kumar Manjul** at Sanauli in Baghpat district, **Uttar Pradesh**, uncovering 126 burials including wooden coffins decorated with copper anthropomorphic figures, copper antenna swords, warrior shields, and **three copper-clad solid-wheel chariots**.
+25. **Terracotta Boat Models — Mohenjo-daro & Lothal**: Tangible archaeological models and representations of sailing boats with masts have been recovered from **Mohenjo-daro** (steatite seal with masted ship) and **Lothal** (terracotta boat models with oar holes).
+26. **Prehistoric Site Matches (UPPCS 2023 Landmark)**:
+    * **Nevasa**: Maharashtra (Pravara River, Middle Paleolithic type-site).
+    * **Isampur**: Karnataka (Hunsgi Valley, Lower Paleolithic Acheulian limestone quarry).
+    * **Didwana**: Rajasthan (Nagaur district, Thar desert margin Lower Paleolithic site).
+    * **Gudiyam Cave**: Tamil Nadu (Thiruvallur district, Acheulian rock-shelter).
+27. **Harappan Site Matches (UPPCS 2020 Landmark)**:
+    * **Balu**: Haryana (Kaithal district, early/mature Harappan site with plant remains).
+    * **Manda**: Jammu & Kashmir (Akhnoor on Chenab, northernmost Harappan outpost).
+    * **Padri**: Gujarat (Bhavnagar district, Sorath Harappan site with copper axes).
+    * **Hulas**: Uttar Pradesh (Saharanpur district, Katha river basin).
+28. **Mandi vs Manda Trap**: **Mandi** is a Harappan treasure site situated in Muzaffarnagar district, **Uttar Pradesh**; **Manda** is the northernmost Harappan outpost on the Chenab in **Jammu & Kashmir**. Do not confuse them!
+29. **Alamgirpur — Easternmost IVC Outpost**: Located on the **Hindon River** (a tributary of the Yamuna) in Meerut district, **Uttar Pradesh**, excavated by Y.D. Sharma in 1958; forms the absolute **eastern boundary** of the Indus Civilization.
+30. **Uttar Pradesh Harappan Trio**: The three foremost Mature/Late Harappan settlements excavated in western Uttar Pradesh are **Alamgirpur** (Meerut), **Hulas** (Saharanpur), and **Mandi** (Muzaffarnagar).
+31. **Koldihwa & Mahagara — Neolithic Rice**: Situated in the **Belan River valley** near Prayagraj (UP), excavated by G.R. Sharma; yielded cord-impressed pottery and ancient charred rice grains (*Oryza sativa*) embedded in pottery clay, representing one of the earliest rice claims in South Asia.
+32. **Lahuradewa Agricultural Revolution**: Excavations at **Lahuradewa** in Sant Kabir Nagar district, Uttar Pradesh (by UP State Archaeology under Rakesh Tewari) pushed back domesticated rice cultivation in the Middle Ganga plain to **c. 7000–6000 BCE**, overturning older timelines.
+33. **Damdama & Mahadaha — Mesolithic Burials**: **Damdama**, **Mahadaha**, and **Sarai Nahar Rai** in Pratapgarh district, Uttar Pradesh, are premier Mesolithic sites yielding geometric microliths, bone ornaments, and flexed human burials (including joint/double burials).
+34. **Hastinapur Excavation & Lal's Mahabharata Project**: Excavated by **B.B. Lal** in 1950–52 in Meerut district, UP; established a stratified five-period sequence: Period I (OCP) → Period II (**Painted Grey Ware / PGW**, with flood erosion layer) → Period III (NBPW) → Period IV (Shunga-Kushan) → Period V (Early Medieval).
+35. **Atranjikhera — Iron & Pottery Landmark**: Located in Etah district, Uttar Pradesh (on the Kali Nadi), excavated by R.C. Gaur; provided the classic vertical stratigraphy linking Ochre Coloured Pottery (OCP) → Black-and-Red Ware (BRW) → Painted Grey Ware (PGW, with **earliest iron smelting slags**, c. 1000 BCE) → Northern Black Polished Ware (NBPW).
+36. **Kaushambi — Vatsa Capital**: Excavated by Allahabad University under G.R. Sharma; revealed extensive brick ramparts, a palace complex, and the famous **Ghoshitarama Buddhist monastery** visited by the Buddha. The Ashokan pillar was later moved from Kaushambi to Prayagraj Fort by Akbar.
+37. **Ahichchhatra — Panchala Capital**: Located at Ramnagar in Bareilly district, UP; famous for the excavation of tiered brick temple ruins, Painted Grey Ware strata, and exquisite Gupta terracotta images of river goddesses **Ganga and Yamuna**.
+38. **Sarnath (Mrigadava)**: Located near Varanasi, UP; excavated by Alexander Cunningham and F.O. Oertel; yielded the **Lion Capital of Ashoka** (national emblem of India), the Dhamek Stupa, and the famous preaching Buddha in Dharmachakra-pravartana mudra.
+39. **Shravasti (Sahet-Mahet)**: Located on the Rapti River on the border of Shravasti and Balrampur districts, UP; excavated by Cunningham and John Marshall; identified with the ancient Kosalan capital and the **Jetavana Vihara** purchased by merchant Anathapindika.
+40. **Piprahwa & Ganwaria — Kapilavastu Identification**: Excavated by K.M. Srivastava in Siddharthnagar district, UP; inscribed casket lids with Brahmi legend reading *"Om Budhasa Salila Nidhane..."* confirmed Piprahwa as the ancient city of **Kapilavastu** of the Shakya clan.
+41. **Ochre Coloured Pottery (OCP) Horizon**: **OCP** (ओकर कलर्ड पॉटरी) dates to c. 2000–1500 BCE in the Upper Ganga-Yamuna Doab; characterized by an orange-red wash that rubs off easily; commonly found in close stratigraphic association with **Copper Hoards** (anthropomorphs, harpoons, swords).
+42. **Painted Grey Ware (PGW) Horizon**: **PGW** (पेंटेड ग्रे वेयर) dates to c. 1100–500 BCE; made of fine well-levigated clay fired under reducing conditions, painted with black geometric motifs; the signature material culture of the **Later Vedic period** in the Kuru-Panchala heartland.
+43. **Northern Black Polished Ware (NBPW) Horizon**: **NBPW** (उत्तरी कृष्ण मार्जित मृद्भाण्ड) dates to c. 6th to 2nd century BCE; renowned for its lustrous mirror-like jet black or metallic sheen; marks the **Second Urbanization**, the rise of the 16 Mahajanapadas, and the Mauryan Empire.
+44. **The Doab Ceramic Succession Spine**: In the Ganga-Yamuna Doab, the unassailable vertical ceramic clock runs: **Late Harappan / OCP (Chalcolithic) → Black-and-Red Ware (BRW) → Painted Grey Ware (PGW / Later Vedic) → Northern Black Polished Ware (NBPW / Mauryan) → Red Ware (Post-Mauryan / Kushana)**.
+45. **Megaliths in Indian Archaeology**: **Megaliths** are prehistoric stone burial monuments (dolmens, cists, cairn circles, menhirs) predominantly dating to the **Iron Age** in South India (e.g., Brahmagiri, Adichanallur, Paiyampalli) and the Vindhyan fringe of eastern UP (Varanasi, Chandauli, Mirzapur).
+46. **Mehrgarh — Neolithic Prototype**: Located on the Bolan River in Balochistan (Pakistan), excavated by Jean-François Jarrige; documents the earliest transition to settled wheat/barley agriculture and cattle domestication in South Asia (c. 7000 BCE); it is in Pakistan, NOT an Indian state match!
+47. **AMASR Act 1958**: The **Ancient Monuments and Archaeological Sites and Remains Act, 1958** provides statutory protection for monuments of national importance; prohibits construction within a **100-meter prohibited area** around protected monuments and regulates construction in the outer **200-meter regulated area**.
+48. **Antiquities Act 1972**: The **Antiquities and Art Treasures Act, 1972** mandates compulsory registration of antiquities older than 100 years (and manuscripts older than 75 years) and bans illicit export from India by private individuals.
+49. **Horizontal Excavation Pioneers**: In India, broad horizontal excavations exposing whole city sectors were pioneered by **S.R. Rao at Lothal**, **R.S. Bisht at Banawali and Dholavira**, and **H.D. Sankalia at Inamgaon and Nevasa**.
+50. **ASI Field Administration — Circles**: Field preservation and site maintenance of monuments are administered through **ASI Circles** (e.g., Agra Circle, Lucknow Circle, Patna Circle, Delhi Circle), while scientific policy, international collaborations, and overall administration rest with the **Director-General, ASI, New Delhi**.
 
+---
+
+## ⏱️ Timeline / Chronology
+
+### Chronological Milestones of Indian Archaeological Discoveries & Methods
+
+```
+  1784 — ASIATIC SOCIETY OF BENGAL
+  │   • Founded by Sir William Jones in Calcutta; Orientalist study of texts & monuments
+  ▼
+  1837 — DECIPHERMENT OF BRAHMI SCRIPT
+  │   • James Prinsep deciphers Ashokan Brahmi; unlocks ancient epigraphy and chronology
+  ▼
+  1861 — FOUNDATION OF ARCHAEOLOGICAL SURVEY OF INDIA (ASI)
+  │   • Viceroy Lord Canning creates ASI; Alexander Cunningham appointed first DG
+  │   • Topographical surveys mapping Buddhist sites using Chinese pilgrims' logs
+  ▼
+  1863 — BIRTH OF INDIAN PREHISTORIC ARCHAEOLOGY
+  │   • Robert Bruce Foote discovers first Paleolithic Acheulian handaxe at Pallavaram (TN)
+  ▼
+  1902–1928 — SCIENTIFIC REORGANIZATION UNDER SIR JOHN MARSHALL
+  │   • Marshall institutionalizes conservation & scientific excavations under Curzon
+  │   • 1921: Daya Ram Sahni excavates Harappa (Punjab)
+  │   • 1922: Rakhaldas Banerjee discovers Mohenjo-daro (Sindh)
+  │   • 1924: Marshall formally announces the discovery of Indus Valley Civilization
+  ▼
+  1944–1948 — STRATIGRAPHIC REVOLUTION BY SIR MORTIMER WHEELER
+  │   • Introduces balk-and-grid stratigraphic excavation method in India
+  │   • 1946: Re-excavation of Harappa; defines citadel fortifications and cemetery R-37
+  ▼
+  1950s–1960s — POST-INDEPENDENCE EXPANSION INTO DOAB & GUJARAT
+  │   • 1950–52: B.B. Lal excavates Hastinapur (Mahabharata archaeology, PGW stratigraphy)
+  │   • 1955–62: S.R. Rao excavates Lothal (world's oldest dockyard, bead factory)
+  │   • 1957–58: V.S. Wakankar discovers prehistoric Bhimbetka rock shelters (MP)
+  │   • 1961–69: B.B. Lal & B.K. Thapar excavate Kalibangan (ploughed field, fire altars)
+  ▼
+  1990s — WATER ENGINEERING APOGEE AT DHOLAVIRA
+  │   • R.S. Bisht excavates Dholavira (Kutch, Gujarat); monumental stone reservoirs
+  ▼
+  2018–2024 — MODERN PARADIGM SHIFTS
+  │   • 2018: ASI excavates Sanauli (Baghpat, UP); royal copper chariots & antenna swords
+  │   • 2019–24: Rakhigarhi ancient DNA analysis establishes indigenous genetic continuity
+```
+
+---
+
+## 📊 Quick Reference Grid
+
+### 1. Master Table — Archaeological Pioneers & Landmark Excavations
+
+| Archaeologist | Primary Organization / Role | Key Sites Excavated / Discovered | Historical Milestone |
+|---|---|---|---|
+| **Alexander Cunningham** | First DG, ASI (1861–1885) | Sarnath, Sanchi, Bharhut, Bodh Gaya | "Father of Indian Archaeology"; mapped sites using Chinese logs |
+| **Robert Bruce Foote** | Geological Survey of India | Pallavaram, Attirampakkam (TN) | "Father of Indian Prehistory"; discovered first Paleolithic tool (1863) |
+| **Sir John Marshall** | DG, ASI (1902–1928) | Taxila, Sanchi, Harappa, Mohenjo-daro | Announced discovery of Indus Valley Civilization to the world (1924) |
+| **Daya Ram Sahni** | Superintendent / DG, ASI | **Harappa** (1921) | First Indian to excavate a major Mature Harappan urban center |
+| **Rakhaldas (R.D.) Banerjee**| Superintendent, ASI | **Mohenjo-daro** (1922) | Discovered Mohenjo-daro stupa mound and urban Harappan ruins |
+| **Sir Mortimer Wheeler** | DG, ASI (1944–1948) | Harappa (1946), Brahmagiri, Arikamedu | Introduced scientific **balk-and-grid stratigraphy** to India |
+| **S.R. Rao** | Superintending Archaeologist, ASI | **Lothal** (1955–62), Bet Dwarka | Discovered Lothal dockyard; underwater archaeology pioneer |
+| **B.B. Lal** | DG, ASI (1968–1972) | **Hastinapur**, **Kalibangan**, Ayodhya | Established PGW stratigraphy; discovered Kalibangan ploughed field |
+| **V.S. Wakankar** | Vikram University, Ujjain | **Bhimbetka** (1957–58), Kayatha | Discovered UNESCO prehistoric Bhimbetka rock art shelters |
+| **R.S. Bisht** | Joint DG, ASI | **Dholavira**, Banawali | Discovered Dholavira stone reservoirs, city gates, and signboard |
+| **H.D. Sankalia** | Deccan College, Pune | Nevasa, Inamgaon, Langhnaj | Father of modern Indian proto-historic & Deccan excavation |
+| **S.K. Manjul** | Joint DG, ASI | **Sanauli** (2018), Baghpat (UP) | Uncovered royal copper chariots, coffins, and antenna swords |
+
+---
+
+### 2. Master Table — High-Yield Archaeological Sites ↔ State & Cultural Horizon
+
+| Site | State / UT | Cultural Horizon | Key Diagnostic Archaeological Finds |
+|---|---|---|---|
+| **Nevasa** | Maharashtra | Middle Paleolithic / Chalcolithic | Type-site of "Nevasan" flake-tool culture; Pravara River |
+| **Isampur** | Karnataka | Lower Paleolithic (Acheulian) | Hunsgi Valley limestone quarry-cum-workshop site |
+| **Didwana** | Rajasthan | Lower / Middle Paleolithic | 16R dune section; stratified Acheulian tools in Thar margin |
+| **Gudiyam Cave** | Tamil Nadu | Lower / Middle Paleolithic | Alluvial cave shelter near Attirampakkam Acheulian complex |
+| **Balu** | Haryana | Early / Mature Harappan | Walled Harappan settlement with earliest garlic & plant grains |
+| **Manda** | Jammu & Kashmir | Mature Harappan | Northernmost Harappan outpost on the right bank of the Chenab |
+| **Padri** | Gujarat | Sorath Harappan | Bhavnagar coastal site; copper axes and painted storage jars |
+| **Rakhigarhi** | Haryana | Mature Harappan | **Largest Indus mound** in India; DNA skeleton extraction site |
+| **Alamgirpur** | Uttar Pradesh | Mature / Late Harappan | **Easternmost boundary** of IVC on Hindon River, Meerut |
+| **Hulas** | Uttar Pradesh | Late Harappan / OCP | Saharanpur site; sealing with Harappan script and dense crop finds |
+| **Mandi** | Uttar Pradesh | Late Harappan | Muzaffarnagar site; massive hoard of Harappan gold jewelry/beads |
+| **Sanauli** | Uttar Pradesh | Late Harappan / OCP | Baghpat site; copper-clad **solid-wheel chariots**, anthropomorphic coffins |
+| **Bhimbetka** | Madhya Pradesh | Paleolithic to Mesolithic | UNESCO world heritage rock-shelters with polychrome cave art |
+
+---
+
+### 3. Master Table — Scientific Dating Methods in Archaeology
+
+| Method | Method Category | Scientific Principle | Suitable Sample Materials | Temporal Reach |
+|---|---|---|---|---|
+| **Stratigraphy** | Relative Dating | Geological Law of Superposition (lower = older) | Undisturbed habitation mounds & soil layers | Relative chronological sequence only |
+| **Typology** | Relative Dating | Morphological evolution of tool & pottery styles | Ceramics, stone tools, metal shapes | Cross-site relative correlation |
+| **Radiocarbon (C-14)**| Absolute Dating | Radioactive decay of C-14; **Half-life = 5,730 yrs** | **Organic only**: charcoal, bone, wood, seeds, shell | Up to ~50,000 years BP |
+| **Thermoluminescence (TL)**| Absolute Dating | Trapped electrons released by heat emission | **Fired pottery, burnt bricks, hearth flints** | ~100 to 500,000 years BP |
+| **Dendrochronology** | Absolute Dating | Annual growth ring calibration in preserved timber| Well-preserved tree trunks, structural wood | Up to ~10,000 years BP |
+| **Potassium-Argon (K-Ar)**| Absolute Dating | Radioactive decay of K-40 to Ar-40 in volcanic ash | Volcanic tuff, basaltic volcanic layers | 100,000 to millions of years |
+
+---
+
+### 4. Major Archaeological Sites of Uttar Pradesh
+
+| Site | Modern District | River Basin | Primary Cultural Horizon & Diagnostic Finds |
+|---|---|---|---|
+| **Alamgirpur** | Meerut | Hindon River | **Easternmost boundary** of IVC; pottery with cloth impressions |
+| **Hulas** | Saharanpur | Katha Nala | Late Harappan; inscribed seal impressions, multi-cropping seeds |
+| **Mandi** | Muzaffarnagar | Near Ramganga / Yamuna | Late Harappan; sensational hoard of gold beads, bangles, pendants |
+| **Sanauli** | Baghpat | Yamuna-Hindon Doab | Royal necropolis: 3 **copper chariots**, coffins, antenna swords |
+| **Koldihwa & Mahagara** | Prayagraj | Belan River Valley | Neolithic circular huts; corded ware; earliest domesticated **rice** |
+| **Lahuradewa** | Sant Kabir Nagar | Sarayu / Middle Ganga | Early Neolithic agriculture; carbonized rice dated to c. 7000 BCE |
+| **Damdama & Mahadaha** | Pratapgarh | Sai River Valley | Mesolithic flexed human burials, microliths, bone ornaments |
+| **Hastinapur** | Meerut | Old bed of Ganga | B.B. Lal's dig: OCP → **PGW** (flood layer) → NBPW stratigraphy |
+| **Atranjikhera** | Etah | Kali Nadi | Classic 4-phase sequence: OCP → BRW → **PGW (early iron)** → NBPW |
+| **Kaushambi** | Kaushambi / Prayagraj | Yamuna River | Vatsa capital; massive defenses, Ghoshitarama Buddhist monastery |
+| **Ahichchhatra** | Bareilly | Ramganga basin | Panchala capital; PGW type-site; monumental Gupta Ganga-Yamuna plaques |
+| **Sarnath** | Varanasi | Ganga-Varuna confluence | Cunningham's dig; Lion Capital of Ashoka; Dhamek Stupa |
+| **Piprahwa** | Siddharthnagar | Terai plain | Ancient **Kapilavastu**; stupa with bone relics and Shakya Brahmi inscription |
 
 ---
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+| Concept A | Concept B | Key Difference (Exam Trap) | Hindi Key |
 |---|---|---|---|
-| Site | Excavation | Place with remains vs the **dig** | स्थल / उत्खनन |
-| Stratigraphy | C-14 | Relative (layers) vs **calendar years** | स्तरिकी / कार्बन-14 |
-| Relative | Absolute | Older/younger vs **5730-year** clock | सापेक्ष / निरपेक्ष |
-| Marshall | Wheeler | Announces IVC **1924** vs grid dig **1946** | मार्शल / व्हीलर |
-| Sahni | Banerjee | **Harappa 1921** vs **Mohenjo-daro 1922** | साहनी / बनर्जी |
-| Wakankar | Sankalia | **Bhimbetka** vs Deccan prehistory | वाकणकर / संकलिया |
-| Alamgirpur | Rakhigarhi | Easternmost **UP** vs largest **Haryana** | आलमगीरपुर / राखीगढ़ी |
-| Mandi | Manda | **Muzaffarnagar UP** vs **J&K** Chenab | मंडी / मांडा |
-| Hulas | Lothal | Baghpat **UP** vs Gujarat **dock** | हुलास / लोथल |
-| Rock shelter | Cave | Bhimbetka overhang vs hollow | शैल आश्रय / गुफा |
-| ASI HQ | Lucknow | **New Delhi** vs UP state archaeology | दिल्ली / लखनऊ |
-
+| **Archaeological Site** | **Excavation** | Geographic location where ancient remains exist vs the physical **act of digging** | स्थल / उत्खनन |
+| **Stratigraphy** | **Carbon-14 (C-14)** | **Relative** dating ordering layers (deeper = older) vs **absolute** clock measuring calendar years | स्तरिकी / कार्बन-14 |
+| **Relative Dating** | **Absolute Dating** | Answers "which is older/younger" vs answers "how many calendar years ago" | सापेक्ष काल / निरपेक्ष काल |
+| **John Marshall** | **Mortimer Wheeler** | Announced IVC to the world (**1924**) vs introduced scientific **balk-and-grid** method (**1946**) | मार्शल / व्हीलर |
+| **Daya Ram Sahni** | **Rakhaldas Banerjee** | Excavated **Harappa (1921)** in Punjab vs discovered **Mohenjo-daro (1922)** in Sindh | साहनी / बनर्जी |
+| **V.S. Wakankar** | **H.D. Sankalia** | Discovered **Bhimbetka rock art (MP)** vs pioneer of **Deccan proto-history (Nevasa/Inamgaon)** | वाकणकर / संकलिया |
+| **Alamgirpur** | **Rakhigarhi** | Easternmost IVC site in India (**Meerut, UP**) vs largest IVC mound in India (**Hisar, Haryana**) | आलमगीरपुर / राखीगढ़ी |
+| **Mandi** | **Manda** | Harappan gold hoard site in **Muzaffarnagar, UP** vs northernmost IVC outpost in **J&K** | मंडी (UP) / मांडा (J&K) |
+| **Hulas** | **Lothal** | Late Harappan agricultural settlement in **UP** vs Mature Harappan **dockyard in Gujarat** | हुलास / लोथल |
+| **Rock Shelter** | **Natural Cave** | Overhanging rock cliff used as shallow shelter (Bhimbetka) vs deep subterranean cavern | शैल आश्रय / गुफा |
+| **ASI Headquarters** | **Lucknow** | Statutory HQ is in **New Delhi** (24 Tilak Marg) vs UP State Archaeology Directorate | दिल्ली HQ / लखनऊ |
+| **C-14 Dating** | **Thermoluminescence** | Absolute clock for **organic samples** (bone, charcoal) vs clock for **fired pottery & bricks** | कार्बन-14 / थर्मोल्यूमिनेशन |
 
 ---
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🧠 Memory Anchors & Mnemonics
+
+### 1. The IVC Discovery Sequence: "S-B-M-W"
+* **S**ahni: Harappa (1921)
+* **B**anerjee: Mohenjo-daro (1922)
+* **M**arshall: Global World Announcement (1924)
+* **W**heeler: Scientific Balk-and-Grid Re-excavation (1946)
+
+### 2. Four Geographical Extremes of Harappa: "M-D-S-A"
+* **M**anda (North): Jammu & Kashmir (Chenab River)
+* **D**aimabad (South): Maharashtra (Pravara River)
+* **S**utkagen-dor (West): Makran, Pakistan (Dasht River)
+* **A**lamgirpur (East): Meerut, Uttar Pradesh (Hindon River)
+
+### 3. Uttar Pradesh Harappan Trio: "A-H-M"
+* **A**lamgirpur: Meerut district (Hindon)
+* **H**ulas: Saharanpur district
+* **M**andi: Muzaffarnagar district (Not Manda in J&K!)
+
+### 4. Doab Ceramic Clock Ladder: "O-P-N"
+* **O**CP (Ochre Coloured Pottery): Chalcolithic / Copper Hoards (~2000–1500 BCE)
+* **P**GW (Painted Grey Ware): Later Vedic / Early Iron (~1100–500 BCE)
+* **N**BPW (Northern Black Polished Ware): Second Urbanization & Mauryan (~600–200 BCE)
+
+---
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+**Q1.** Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh? (UPPCS Prelims 2025)
 
-Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
-
-1. Mandi 2. Rakhigarhi 3. Hulas
-
-A. 1 and 2 B. Only 3 C. 1 and 3 D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q2.**
-
-Match List-I with List-II.
-
-A. Nevasa B. Isampur C. Didwana D. Gudiyam Cave
-1. Rajasthan 2. Tamil Nadu 3. Maharashtra 4. Karnataka
-
-A. A-3, B-4, C-1, D-2 B. A-4, B-3, C-1, D-2 C. A-3, B-4, C-2, D-1 D. A-3, B-2, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q3.**
-
-The eastern boundary of the Harappan culture is indicated by which of the following?
-
-A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q4.**
-
-### UPPCS Prelims 2021
-
-**Q5. UPPCS Prelims 2021, Q100** — Mandi situated in → **D Uttar Pradesh.**
-
-### UPPCS Prelims 2020
-
-**Q6. UPPCS Prelims 2020, Q10** — Bhimbetka first visitor → **C V.S. Wakankar.Q7. UPPCS Prelims 2020, Q12** — Balu / Manda / Padri / Hulas → **D 3-2-4-1.**
-
-### UPPCS Prelims 2019
-
-No further GS-I archaeology hit after keyword search.
-
-### UPPCS Prelims 2018
-
-**Q8. UPPCS Prelims 2018, Q88** — IVC centres in UP → **D III and IV** (Alamgirpur, Hulas).
-
----
-
-## Practice Zone — UPPCS Format Drill
-
-> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
-
-
-**Q1.** With reference to the Archaeological Survey of India, which of the following statements is/are correct?
-
-1. ASI was founded in 1861 under Viceroy Canning; first DG was Alexander Cunningham.
-2. ASI headquarters is 24 Tilak Marg, New Delhi — not Lucknow.
-3. Lucknow holds UP State Archaeology and the State Museum, not ASI HQ.
+1. Mandi
+2. Rakhigarhi
+3. Hulas
 
 Select the correct answer from the code given below:
-
-A. Only 1
-
-B. Only 1 and 2
-
-C. All 1, 2 and 3
-
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** All three statements are correct.
-
-**Logic:** ASI HQ vs Lucknow trap.
-
-</details>
-
-**Q5.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Archaeologist) | List-II (Fact) |
-|---|---|
-| 1. John Marshall | A. Balk-and-grid; re-dug Harappa 1946 |
-| 2. Mortimer Wheeler | B. Announced IVC 1924 |
-| 3. Daya Ram Sahni | C. Harappa 1921 |
-| 4. R.D. Banerjee | D. Mohenjo-daro 1922 |
-
-*Row order is not the answer code.*
-
-A. 1-A, 2-B, 3-C, 4-D
-
-B. 1-B, 2-A, 3-C, 4-D
-
-C. 1-B, 2-C, 3-A, 4-D
-
-D. 1-D, 2-A, 3-C, 4-B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1-B, 2-A, 3-C, 4-D.
-
-**Logic:** Wheeler did not discover IVC.
-
-</details>
-
-**Q6.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Stratigraphy is relative dating by layers: in an undisturbed stack, deeper is older.
-
-**Reason (R):** Carbon-14 alone can date bare stone and metal tools without organic association.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true, but (R) is false.
-
-**A/R logic:** C-14 works only on organic samples.
-
-</details>
-
-**Q7.** Arrange the following archaeology events in chronological order:
-
-1. Marshall announces Indus civilization
-2. ASI founded
-3. Wheeler re-digs Harappa
-4. Sahni opens Harappa
-
-Select the correct answer from the code given below:
-
-A. 2–1–4–3
-
-B. 2–4–1–3
-
-C. 4–2–1–3
-
-D. 2–4–3–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1861 ASI → 1921 Sahni → 1924 Marshall → 1946 Wheeler.
-
-**Logic:** Discovery vs announcement vs method chronology.
-
-</details>
-
-**Q8.** Which one of the following pairs is NOT correctly matched?
-
-Select the correct answer from the code given below:
-
-A. S.R. Rao — Lothal
-
-B. B.B. Lal — Kalibangan
-
-C. R.S. Bisht — Dholavira
-
-D. V.S. Wakankar — Lothal dockyard
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Wakankar established Bhimbetka rock-art prehistory; S.R. Rao excavated Lothal.
-
-**Logic:** Excavator↔site swap.
-
-</details>
-
-**Q9.** With reference to dating methods, which of the following statements is/are correct?
-
-1. Carbon-14 half-life is about 5730 years; it works only on fired pottery, not charcoal or bone.
-2. Thermoluminescence (TL) can date fired pottery.
-3. Stratigraphy alone can give the calendar year 2600 BCE.
 
 A. 1 and 2
-
-B. Only 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Stmt 1 false: C-14 works on charcoal, bone, wood, seed, shell; fired pottery dating is TL’s job. Stmt 3 remains false: stratigraphy alone cannot give calendar years.
-
-</details>
-
-**Q10.** Consider the following statements about Uttar Pradesh Harappan sites:
-
-1. Alamgirpur (Meerut, Hindon) is the easternmost Harappan site in India.
-2. Rakhigarhi is the easternmost UP Harappan site.
-3. Hulas (Saharanpur) and Mandi (Lucknow) complete the UP trio as westernmost Harappan sites.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 1
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Stmt 3 false: Hulas (Baghpat) and Mandi (Bijnor, Ramganga) complete the UP eastern Harappan trio with Alamgirpur — not westernmost. Stmt 2 remains false: Rakhigarhi is Haryana’s largest mound.
-
-</details>
-
-**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Mandi (Bijnor, UP) is not the same as Manda (Chenab belt, J&K).
-
-**Reason (R):** Mixing Mandi and Manda names is a frequent site-match trap.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Meta-exam trap / commentary in Reason or explanation.
-
-</details>
-
-**Q12.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Site) | List-II (State / UT) |
-|---|---|
-| 1. Nevasa | A. Rajasthan |
-| 2. Isampur | B. Maharashtra |
-| 3. Didwana | C. Karnataka |
-| 4. Gudiyam | D. Tamil Nadu |
-
-*Row order is not the answer code.*
-
-A. 1-C, 2-B, 3-A, 4-D
-
-B. 1-B, 2-C, 3-A, 4-D
-
-C. 1-B, 2-A, 3-C, 4-D
-
-D. 1-D, 2-C, 3-A, 4-B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1-B, 2-C, 3-A, 4-D.
-
-**Logic:** Prehistoric site–state Must-Score set.
-
-</details>
-
-**Q13.** With reference to Harappan site–state facts, which of the following statements is/are correct?
-
-1. Balu — Haryana; Manda — Jammu & Kashmir; Padri — Gujarat; Hulas — Uttar Pradesh.
-2. Boat models come only from Mehrgarh and never from Mohenjo-daro or Lothal.
-3. Mehrgarh (Balochistan) is a safe Indian-state match option for UPPCS site lists.
-
-A. 1 and 2
-
-B. 2 and 3
-
+B. Only 3
 C. 1 and 3
-
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: Boat models come from Mohenjo-daro and Lothal. Stmt 3 remains false: Mehrgarh is not a safe Indian-state match option.
+**Ans: C.** 1 and 3 are in Uttar Pradesh (Mandi is in Muzaffarnagar/Bijnor district; Hulas is in Saharanpur district). Rakhigarhi is the largest Harappan site in India, located in Hisar district of Haryana.
 
 </details>
 
-**Q14.** Consider the following statements about Sanauli and Bhimbetka:
+**Q2.** Match List-I (Prehistoric Site) with List-II (State) and select the correct code: (UPPCS Prelims 2023)
 
-1. Bhimbetka is in Uttar Pradesh.
-2. Sanauli (Baghpat, UP), excavated in 2018, yielded copper chariots, coffins, and antenna swords.
-3. V.S. Wakankar established Bhimbetka rock-art prehistory in 1957–58.
+| List-I (Site) | List-II (State) |
+|---|---|
+| A. Nevasa | 1. Rajasthan |
+| B. Isampur | 2. Tamil Nadu |
+| C. Didwana | 3. Maharashtra |
+| D. Gudiyam Cave | 4. Karnataka |
 
-A. All 1, 2 and 3
+Codes: A B C D
 
-B. 2 and 3
-
-C. Only 1
-
-D. 1 and 2
+A. 3 4 1 2
+B. 4 3 1 2
+C. 3 4 2 1
+D. 3 2 4 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 2 and 3 only are correct.
-
-**Logic:** Stmt 1 false: Bhimbetka is in Madhya Pradesh.
+**Ans: A (3-4-1-2).** Nevasa is on the Pravara river in Maharashtra (Middle Paleolithic/Nevasan culture); Isampur is an Acheulian quarry in Karnataka; Didwana is a Lower Paleolithic site in Rajasthan (Thar margin); Gudiyam Cave is an Acheulian rock-shelter in Tamil Nadu (near Attirampakkam).
 
 </details>
 
-**Q15.** Which one of the following pairs is NOT correctly matched?
+**Q3.** The eastern boundary of the Harappan culture is indicated by which of the following? (UPPCS Prelims 2023)
+
+A. Harappa
+B. Alamgirpur
+C. Rakhigarhi
+D. Manda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Alamgirpur (located on the Hindon River in Meerut district, Uttar Pradesh) marks the easternmost geographical limit of the Indus Valley Civilization. Manda (J&K) is the northernmost, Daimabad (Maharashtra) the southernmost, and Sutkagen-dor (Makran, Pakistan) the westernmost.
+
+</details>
+
+**Q4.** Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered the prehistoric significance of its rock paintings? (UPPCS Prelims 2020)
+
+A. Madho Swaroop Vatsa
+B. H.D. Sankalia
+C. V.S. Wakankar
+D. V.N. Mishra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Dr. Vishnu Shridhar Wakankar (Vikram University, Ujjain) discovered the Bhimbetka rock-shelters in Raisen district, Madhya Pradesh, in 1957–58. H.D. Sankalia was renowned for excavations at Nevasa and Inamgaon; M.S. Vatsa excavated Harappa.
+
+</details>
+
+**Q5.** Match List-I (Harappan Site) with List-II (State / UT of India) and select the correct code: (UPPCS Prelims 2020)
+
+| List-I (Site) | List-II (State / UT) |
+|---|---|
+| A. Balu | 1. Uttar Pradesh |
+| B. Manda | 2. Jammu & Kashmir |
+| C. Padri | 3. Haryana |
+| D. Hulas | 4. Gujarat |
+
+Codes: A B C D
+
+A. 3 2 1 4
+B. 2 3 4 1
+C. 2 4 3 1
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (3-2-4-1).** Balu is in Kaithal district, Haryana; Manda is on the right bank of the Chenab in Jammu & Kashmir; Padri is in Bhavnagar district, Gujarat; Hulas is in Saharanpur district, Uttar Pradesh.
+
+</details>
+
+**Q6.** From which archaeological site of the Indus Valley Civilization are figures or models of boats found? (UPPCS Prelims 2022)
+
+A. Dholavira and Bhagatrav
+B. Harappa and Kot Diji
+C. Mohenjo-daro and Lothal
+D. Kalibangan and Ropar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A terracotta boat model was found at Lothal, and an amulet/seal depicting a boat with a central cabin and mast was discovered at Mohenjo-daro.
+
+</details>
+
+**Q7.** In which State of India is the Harappan Civilization site Mandi situated? (UPPCS Prelims 2021)
+
+A. Gujarat
+B. Haryana
+C. Rajasthan
+D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Mandi is an Indus Valley site situated in Muzaffarnagar district (near Bijnor border), Uttar Pradesh, famous for the accidental discovery of a massive hoard of Harappan gold jewelry and beads.
+
+</details>
+
+**Q8.** Which of the following centres related to Indus Valley Civilization are situated in Uttar Pradesh? (UPPCS Prelims 2018)
+
+I. Kalibangan  
+II. Lothal  
+III. Alamgirpur  
+IV. Hulas  
 
 Select the correct answer from the code given below:
 
-A. Alamgirpur — easternmost Harappan in India (UP)
-
-B. Rakhigarhi — largest mound (Haryana)
-
-C. Hulas — Baghpat, UP
-
-D. Mandi — Chenab belt, J&K
+A. I, II, III, IV
+B. I, II
+C. II, III
+D. III, IV
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Mandi is Bijnor UP; Manda is J&K Chenab.
-
-**Logic:** Mandi vs Manda trap.
+**Ans: D.** Alamgirpur (Meerut) and Hulas (Saharanpur) are in Uttar Pradesh. Kalibangan is in Hanumangarh district of Rajasthan, and Lothal is in Ahmedabad district of Gujarat.
 
 </details>
+
+**Q9.** With reference to the Archaeological Survey of India (ASI), which of the following statements is/are correct?
+
+1. ASI was formally founded in 1861 under Viceroy Lord Canning.
+2. Alexander Cunningham served as its first Director-General and is hailed as the "Father of Indian Archaeology".
+3. The statutory headquarters of the Archaeological Survey of India is situated in Lucknow, Uttar Pradesh.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1 and 2 are correct. Statement 3 is false: ASI headquarters is located at 24 Tilak Marg, New Delhi (Dharohar Bhawan). Lucknow houses the Directorate of UP State Archaeology and the UP State Museum, which are state-level bodies separate from ASI HQ.
+
+</details>
+
+**Q10.** Match List-I (Archaeologist) with List-II (Key Contribution / Excavation Landmark) and select the correct code:
+
+| List-I (Archaeologist) | List-II (Contribution) |
+|---|---|
+| A. Daya Ram Sahni | 1. Stratigraphic balk-and-grid method; Harappa re-excavation (1946) |
+| B. John Marshall | 2. World announcement of Indus Civilization discovery (1924) |
+| C. Mortimer Wheeler | 3. Discovery of earliest Paleolithic tools at Pallavaram (1863) |
+| D. Robert Bruce Foote | 4. First systematic excavation of Harappa (1921) |
+
+Codes: A B C D
+
+A. 4 2 1 3
+B. 2 4 1 3
+C. 4 1 2 3
+D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (4-2-1-3).** Daya Ram Sahni excavated Harappa in 1921; John Marshall announced the civilization in 1924; Mortimer Wheeler introduced the balk-and-grid stratigraphic technique in 1944–46; Robert Bruce Foote discovered the first Indian handaxe at Pallavaram in 1863.
+
+</details>
+
+**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** In an undisturbed archaeological trench, lower stratigraphic layers are older than upper layers.  
+**Reason (R):** The archaeological law of superposition states that sedimentary and cultural deposits accumulate sequentially from bottom to top over time.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) correctly explains (A). Stratigraphy is the primary method of relative dating based on the geological/archaeological law of superposition.
+
+</details>
+
+**Q12.** With reference to scientific dating methods in archaeology, which of the following statements is/are correct?
+
+1. Carbon-14 (C-14) dating can determine the absolute age of stone handaxes and copper ingots directly.
+2. The half-life of Carbon-14 is approximately 5,730 years and its effective dating range extends up to ~50,000 years before present.
+3. Thermoluminescence (TL) dating is utilized to date fired pottery, bricks, and burnt flint by measuring trapped electrons released upon heating.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2
+B. 2 and 3
+C. Only 2
+D. All 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 2 and 3 are correct. Statement 1 is false: C-14 works exclusively on organic materials (charcoal, bone, wood, seeds, shell) that once exchanged carbon with the atmosphere; it cannot directly date inorganic stone tools or metallic objects (which must be dated via the associated organic stratum).
+
+</details>
+
+**Q13.** Arrange the following archaeological milestones in chronological order:
+
+1. John Marshall's announcement of the Indus Valley Civilization
+2. Foundation of the Archaeological Survey of India (ASI)
+3. Robert Bruce Foote's discovery of the Pallavaram handaxe
+4. Sir Mortimer Wheeler's balk-and-grid excavation at Harappa
+
+Select the correct answer from the code given below:
+
+A. 2–3–1–4
+B. 3–2–1–4
+C. 2–1–3–4
+D. 2–3–4–1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 2 (ASI founded 1861) → 3 (Pallavaram handaxe 1863) → 1 (Marshall's IVC announcement 1924) → 4 (Wheeler's grid excavation at Harappa 1946).
+
+</details>
+
+**Q14.** Which one of the following pairs is NOT correctly matched?
+
+A. S.R. Rao — Lothal tidal dockyard excavation
+B. B.B. Lal — Kalibangan ploughed field and fire altars
+C. R.S. Bisht — Dholavira stone reservoirs and signboard
+D. V.S. Wakankar — Sanauli royal chariot burials
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sanauli in Baghpat district (UP) was excavated in 2018 by the ASI team led by Dr. Sanjay Kumar Manjul. Dr. V.S. Wakankar is world-famous for discovering the Bhimbetka rock shelters in Madhya Pradesh (1957–58).
+
+</details>
+
+**Q15.** Consider the following archaeological sites situated in Uttar Pradesh:
+
+1. Sanauli (Baghpat) — Copper-sheathed solid-wheel chariots and antenna swords (Late Harappan/OCP context)
+2. Koldihwa and Mahagara (Belan Valley) — Early evidence of rice cultivation in a Neolithic-Chalcolithic horizon
+3. Atranjikhera (Etah) — Crucial stratified sequence establishing Ochre Coloured Pottery (OCP) followed by Painted Grey Ware (PGW) with iron tools
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. All 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct and represent fundamental UP archaeological landmarks tested in UPPCS examinations.
+
+</details>
+

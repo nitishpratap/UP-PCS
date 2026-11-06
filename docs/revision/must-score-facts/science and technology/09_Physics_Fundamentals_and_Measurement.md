@@ -7,77 +7,19 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🔬 Science & Technology &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 1 — Physics Fundamentals, Measurement and Instruments</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year / Ref | Key Fact & Discovery | Exam Relevance & Significance |
+|---|---|---|
+| **2019 (Effective May 20)** | **BIPM 2019 SI Redefinition**: All 7 base units anchored to fundamental physical constants. | Kilogram locked to Planck constant $h$ (retiring *Le Grand K* Pt-Ir cylinder); Ampere to $e$; Kelvin to $k$; Mole to $N_A$. |
+| **2022 (27th CGPM)** | **New SI Metric Prefixes Adopted**: Ronna ($10^{27}$), Quetta ($10^{30}$), Ronto ($10^{-27}$), Quecto ($10^{-30}$). | Mass of Earth $pprox 6	ext{ ronnagrams}$ ($6 	imes 10^{27}	ext{ g}$); Mass of Jupiter $pprox 2	ext{ quettagrams}$. |
+| **NASA Consensus** | **Solar Constant Standardization via TSIS-1**: Total Solar Irradiance $= 1361.6 \pm 0.3	ext{ W/m}^2 pprox 1.4	ext{ kW/m}^2$. | Solar radiant energy received outside Earth's atmosphere at $1	ext{ AU}$; varies by $\sim 0.1\%$ over 11-yr sunspot cycle. |
+| **IAS 2023 Prelims** | **MEMS Accelerometers in Modern Tech**: Senses dynamic acceleration and tilt. | Used in car airbag deployment (instant deceleration), laptop free-fall head parking, and smartphone screen auto-rotation. |
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **BIPM 2019 SI Redefinition (Effective May 20, 2019)**: All 7 base units are now anchored to fixed numerical values of fundamental physical constants:
-2. **New SI Prefixes (27th CGPM, Versailles, 2022)**:
-3. **Solar Constant & TSIS-1 (NASA Consensus)**: Total Solar Irradiance (TSI) received at $1\text{ AU}$ outside Earth's atmosphere is standardized at **$1361.6 \pm 0.3\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$** (measured by TSIS-1 / SORCE; varies by $\sim 0.1\%$ over the 11-year solar sunspot cycle).
-4. **MEMS Accelerometers in Modern Tech (IAS 2023 Fact)**: Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
-5. **Four Systems of Units**: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
-6. **Seven Fundamental Quantities**: Length ($m$), Mass ($kg$), Time ($s$), Electric Current ($A$), Thermodynamic Temperature ($K$), Luminous Intensity ($cd$), Amount of Substance ($mol$).
-7. **Supplementary Units**: Plane angle (Radian, $rad = m/m$, dimensionless), Solid angle (Steradian, $sr = m^2/m^2$, dimensionless).
-8. **22 SI Derived Units with Special Names**: Radian ($rad$), Steradian ($sr$), Hertz ($Hz$), Newton ($N$), Pascal ($Pa$), Joule ($J$), Watt ($W$), Coulomb ($C$), Volt ($V$), Farad ($F$), Ohm ($\Omega$), Siemens ($S$), Weber ($Wb$), Tesla ($T$), Henry ($H$), Degree Celsius ($^\circ C$), Lumen ($lm$), Lux ($lx$), Becquerel ($Bq$), Gray ($Gy$), Sievert ($Sv$), Katal ($kat$).
-9. **Katal ($kat$)**: SI unit of catalytic activity ($1\text{ kat} = 1\text{ mol/s}$ of substrate converted).
-10. **Tesla ($T$)**: SI unit of magnetic flux density ($B$-field). $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m) = 1\text{ kg}\cdot s^{-2}\cdot A^{-1} = 10^4\text{ Gauss}$.
-11. **Magnetic Field Strength ($H$) vs Flux Density ($B$)**: Unit of $H$ is Ampere per metre ($A/m$); unit of $B$ is Tesla ($T$).
-12. **Electrical Resistivity ($\rho$)**: SI unit is **Ohm-metre** ($\Omega\cdot m$), from $R = \rho l / A \implies \rho = RA/l$.
-13. **Electrical Conductance ($G$) & Conductivity ($\sigma$)**: Conductance unit is Siemens ($S = \Omega^{-1}$ or Mho); Conductivity unit is Siemens per metre ($S/m$ or $\Omega^{-1}\cdot m^{-1}$).
-14. **Capacitance**: SI unit is Farad ($F = C/V$). (Note: Faraday is a unit of electric charge: $1\text{ Faraday} \approx 96,485\text{ C}$).
-15. **Radioactivity Units**: SI unit is **Becquerel** ($Bq = 1\text{ disintegration/s}$). Historical unit is **Curie** ($Ci = 3.7 \times 10^{10}\text{ Bq}$). Rutherford ($Rd = 10^6\text{ Bq}$).
-16. **Radiation Absorbed Dose vs Dose Equivalent**: Absorbed dose is **Gray** ($Gy = 1\text{ J/kg} = 100\text{ rad}$). Equivalent/effective biological dose is **Sievert** ($Sv = 1\text{ J/kg} = 100\text{ rem}$).
-17. **Light-Year ($ly$)**: Unit of **astronomical distance** (NOT time). Distance travelled by light in vacuum in 1 Julian year ($365.25\text{ days} \times 86,400\text{ s}$). $1\text{ ly} = 9.46073 \times 10^{15}\text{ m} \approx 9.461 \times 10^{15}\text{ m} \approx 9.46 \times 10^{12}\text{ km}$.
-18. **Why Astronomical Distances are Measured in Light-Years**: The speed of light ($c$) is constant throughout the universe in a vacuum (unaffected by gravity or motion of medium).
-19. **Astronomical Unit ($AU$)**: Average distance between center of Earth and center of Sun. $1\text{ AU} = 1.495978707 \times 10^{11}\text{ m} \approx 1.496 \times 10^{11}\text{ m} \approx 149.6\text{ million km}$.
-20. **Parsec (Parallactic Second)**: Largest practical astronomical distance unit. Distance at which average radius of Earth's orbit ($1\text{ AU}$) subtends an angle of 1 arcsecond. $1\text{ Parsec} = 3.0857 \times 10^{16}\text{ m} = 3.262\text{ light-years} = 206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$. Coined by Herbert Hall Turner (1913).
-21. **Small Distance Units**:
-22. **Height of a 6-foot tall person**: $1\text{ ft} = 0.3048\text{ m} \approx 30.5 \times 10^7\text{ nm} \implies 6\text{ ft} = 6 \times 30.5 \times 10^7\text{ nm} = 183 \times 10^7\text{ nm}$.
-23. **Mass Units Conversion**: $1\text{ kg} = 10^3\text{ g}$; $1\text{ mg} = 10^{-3}\text{ g}$; $1\text{ }\mu g = 10^{-6}\text{ g}$; $1\text{ ng} = 10^{-9}\text{ g}$; $1\text{ pg (picogram)} = 10^{-12}\text{ g}$; $1\text{ fg (femtogram)} = 10^{-15}\text{ g}$.
-24. **Pressure SI Unit**: **Pascal** ($Pa$). $1\text{ Pa} = 1\text{ N/m}^2 = 1\text{ kg}\cdot m^{-1}\cdot s^{-2}$.
-25. **Atmospheric Pressure & Conversions**:
-26. **Strain & Mach Number are Dimensionless**: Mechanical strain ($\Delta l / l$), Mach number (object speed / sound speed), Refractive index, Relative density, and Poisson's ratio have **NO units and NO dimensions**.
-27. **Barrel of Oil**: $1\text{ barrel} = 158.9873\text{ litres} \approx 159\text{ litres} = 0.158987\text{ m}^3 = 42\text{ US gallons} = 34.9723\text{ UK gallons}$.
-28. **Horsepower ($hp$)**: $1\text{ hp} = 746\text{ Watts}$. Metric horsepower $\approx 735.5\text{ W}$.
-29. **Megawatt ($MW$)**: Unit of power generated at power stations. $1\text{ MW} = 10^6\text{ W} = 1,000\text{ kW}$.
-30. **Kilowatt-hour ($kWh$)**: Unit of **electrical energy** (NOT power). $1\text{ kWh} = 3.6 \times 10^6\text{ Joules} = 1\text{ B.O.T. unit}$.
-31. **Cusec (Cubic feet per second)**: Unit of rate of water flow in rivers/canals. $1\text{ cusec} = 1\text{ ft}^3/s = 28.317\text{ litres/second}$.
-32. **NTU (Nephelometric Turbidity Units)**: Measures water turbidity (cloudiness/opaqueness due to suspended particulate matter).
-33. **Solar Constant**: Solar radiant energy received per unit area at top of Earth's atmosphere at $1\text{ AU} \approx 1.4\text{ kW/m}^2$ ($1361\text{ W/m}^2$).
-34. **Dobson Unit ($DU$)**: Measures atmospheric column ozone thickness. $1\text{ DU} = 0.01\text{ mm}$ thickness of pure ozone compressed to STP ($0^\circ\text{C}, 1\text{ atm}$). Represents $2.687 \times 10^{20}\text{ ozone molecules/m}^2$. Normal ozone layer $\approx 300\text{ DU}$; Ozone hole $<220\text{ DU}$.
-35. **Nautical Mile & Knot**: $1\text{ Nautical Mile} = 1.852\text{ km} = 1852\text{ m}$ (distance at sea). **Knot** = speed of 1 nautical mile per hour ($1.852\text{ km/h} \approx 0.514\text{ m/s}$).
-
-
----
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
-| **Curie vs Becquerel** | **Becquerel ($Bq$)** is the official SI unit ($1\text{ decay/s}$). **Curie ($Ci$)** is a traditional/non-SI unit ($1\text{ Ci} = 3.7 \times 10^{10}\text{ Bq}$). |
-| **Tesla vs Weber** | **Tesla ($T$)** is magnetic flux *density* ($Wb/m^2 = N/(A\cdot m)$). **Weber ($Wb$)** is total magnetic *flux* ($T\cdot m^2 = V\cdot s$). |
-| **Ohm vs Ohm-metre** | **Ohm ($\Omega$)** is electrical *resistance* ($R$). **Ohm-metre ($\Omega\cdot m$)** is specific electrical *resistivity* ($\rho$). |
-| **Farad vs Faraday** | **Farad ($F$)** is capacitance ($C/V$). **Faraday** is quantity of electric charge ($1\text{ Faraday} \approx 96,485\text{ Coulombs}$). |
-| **Gray vs Sievert** | **Gray ($Gy$)** measures physical *absorbed radiation dose* ($J/kg$). **Sievert ($Sv$)** measures biological *equivalent/effective dose* ($J/kg$). |
-| **Hydrometer vs Hygrometer** | **Hydrometer** measures *specific gravity/relative density of liquids*. **Hygrometer** measures atmospheric *relative humidity*. |
-| **Lactometer vs Butyrometer** | **Lactometer** measures *density* of milk to check adulteration with water. **Butyrometer** measures *fat percentage* in milk products. |
-| **Pyrometer vs Pyrheliometer** | **Pyrometer** measures *extreme high temperatures* of surfaces/furnaces/stars. **Pyrheliometer** measures *direct beam solar radiation*. |
-| **Anemometer vs Wind Vane** | **Anemometer** measures wind *speed/velocity and force*. **Wind Vane** indicates wind *direction*. |
-| **Barometer vs Manometer** | **Barometer** measures *atmospheric pressure*. **Manometer** measures *pressure of fluids/gases* in closed systems. |
-| **Ammeter vs Galvanometer** | **Ammeter** measures quantitative *magnitude of electric current*. **Galvanometer** detects *presence and direction* of minute currents. |
-| **Odometer vs Speedometer vs Tachometer** | **Odometer** records total *distance travelled* by vehicle. **Speedometer** displays instantaneous *linear speed*. **Tachometer** measures shaft *rotational speed (RPM)*. |
-| **Fathometer vs Sextant** | **Fathometer** measures *ocean depth* using acoustics. **Sextant** measures *angular altitude* of celestial bodies above the horizon. |
-
-
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Four Systems of Units**: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
+1. **Four Systems of Units**: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
 2. **Seven Fundamental Quantities**: Length ($m$), Mass ($kg$), Time ($s$), Electric Current ($A$), Thermodynamic Temperature ($K$), Luminous Intensity ($cd$), Amount of Substance ($mol$).
 3. **Supplementary Units**: Plane angle (Radian, $rad = m/m$, dimensionless), Solid angle (Steradian, $sr = m^2/m^2$, dimensionless).
 4. **22 SI Derived Units with Special Names**: Radian ($rad$), Steradian ($sr$), Hertz ($Hz$), Newton ($N$), Pascal ($Pa$), Joule ($J$), Watt ($W$), Coulomb ($C$), Volt ($V$), Farad ($F$), Ohm ($\Omega$), Siemens ($S$), Weber ($Wb$), Tesla ($T$), Henry ($H$), Degree Celsius ($^\circ C$), Lumen ($lm$), Lux ($lx$), Becquerel ($Bq$), Gray ($Gy$), Sievert ($Sv$), Katal ($kat$).
@@ -137,577 +79,393 @@ hide:
 49. **Kymograph**: Rotating cylindrical drum recording physiological changes such as muscle contraction, blood pressure variations, and vascular response.
 50. **Lysimeter**: Measures **actual evapotranspiration** (combined evaporation from soil + transpiration from crops).
 
-</details>
+## ⏱️ Timeline / Chronology
 
-<details class="st-chapter-toggle st-toggle-confused" markdown="1">
-<summary><strong>⚡ Confused Pairs</strong> <span class="st-toggle-hint">(Click to Expand)</span></summary>
+```
+1795 ── French National Assembly establishes the Decimal Metric System
+ │
+1875 ── Metre Convention signed in Paris; BIPM (International Bureau of Weights & Measures) founded
+ │
+1889 ── 1st CGPM establishes the international Prototype Metre and Kilogram (Pt-Ir bar & cylinder)
+ │
+1960 ── 11th CGPM officially introduces the International System of Units (SI)
+ │
+1967 ── Second redefined via Caesium-133 ground state hyperfine frequency (atomic clock)
+ │
+1983 ── Metre redefined as distance travelled by light in vacuum in 1/299,792,458 second
+ │
+2019 ── Historic 2019 SI Redefinition: all 7 base units anchored strictly to natural constants
+ │
+2022 ── 27th CGPM expands metric prefixes to Ronna/Quetta and Ronto/Quecto
+```
 
-| Quantities / Instruments | Key Distinction & Trap Alert |
-|---|---|
-| **Curie vs Becquerel** | **Becquerel ($Bq$)** is the official SI unit ($1\text{ decay/s}$). **Curie ($Ci$)** is a traditional/non-SI unit ($1\text{ Ci} = 3.7 \times 10^{10}\text{ Bq}$). |
-| **Tesla vs Weber** | **Tesla ($T$)** is magnetic flux *density* ($Wb/m^2 = N/(A\cdot m)$). **Weber ($Wb$)** is total magnetic *flux* ($T\cdot m^2 = V\cdot s$). |
-| **Ohm vs Ohm-metre** | **Ohm ($\Omega$)** is electrical *resistance* ($R$). **Ohm-metre ($\Omega\cdot m$)** is specific electrical *resistivity* ($\rho$). |
-| **Farad vs Faraday** | **Farad ($F$)** is capacitance ($C/V$). **Faraday** is quantity of electric charge ($1\text{ Faraday} \approx 96,485\text{ Coulombs}$). |
-| **Gray vs Sievert** | **Gray ($Gy$)** measures physical *absorbed radiation dose* ($J/kg$). **Sievert ($Sv$)** measures biological *equivalent/effective dose* ($J/kg$). |
-| **Hydrometer vs Hygrometer** | **Hydrometer** measures *specific gravity/relative density of liquids*. **Hygrometer** measures atmospheric *relative humidity*. |
-| **Lactometer vs Butyrometer** | **Lactometer** measures *density* of milk to check adulteration with water. **Butyrometer** measures *fat percentage* in milk products. |
-| **Pyrometer vs Pyrheliometer** | **Pyrometer** measures *extreme high temperatures* of surfaces/furnaces/stars. **Pyrheliometer** measures *direct beam solar radiation*. |
-| **Anemometer vs Wind Vane** | **Anemometer** measures wind *speed/velocity and force*. **Wind Vane** indicates wind *direction*. |
-| **Barometer vs Manometer** | **Barometer** measures *atmospheric pressure*. **Manometer** measures *pressure of fluids/gases* in closed systems. |
-| **Ammeter vs Galvanometer** | **Ammeter** measures quantitative *magnitude of electric current*. **Galvanometer** detects *presence and direction* of minute currents. |
-| **Odometer vs Speedometer vs Tachometer** | **Odometer** records total *distance travelled* by vehicle. **Speedometer** displays instantaneous *linear speed*. **Tachometer** measures shaft *rotational speed (RPM)*. |
-| **Fathometer vs Sextant** | **Fathometer** measures *ocean depth* using acoustics. **Sextant** measures *angular altitude* of celestial bodies above the horizon. |
-
-</details>
-
-## Must-Score Drill — SI Units, Constants & Scientific Instruments
-
-### 1. Master Table of Fundamental & Derived Physical Units
-#### A. The Seven SI Base Units (2019 BIPM Anchor Constants)
-| Physical Quantity | SI Unit | Symbol | Base Defining Constant (2019 SI Revision) | Historical Reference Standard |
-|---|---|---|---|---|
-| **Length** | Metre | $m$ | Speed of light in vacuum $c = 299,792,458\text{ m/s}$ | Distance between two lines on Pt-Ir bar at BIPM Sèvres |
-| **Mass** | Kilogram | $kg$ | Planck constant $h = 6.62607015 \times 10^{-34}\text{ kg}\cdot m^2\cdot s^{-1}$ | Mass of international Pt-Ir cylinder prototype (*Le Grand K*) |
-| **Time** | Second | $s$ | Caesium frequency $\Delta \nu_{\text{Cs}} = 9,192,631,770\text{ Hz}$ | $1/86,400$ of a mean solar day |
-| **Electric Current** | Ampere | $A$ | Elementary charge $e = 1.602176634 \times 10^{-19}\text{ C}$ | Force of $2 \times 10^{-7}\text{ N/m}$ between parallel conductors |
-| **Thermodynamic Temperature** | Kelvin | $K$ | Boltzmann constant $k = 1.380649 \times 10^{-23}\text{ J/K}$ | $1/273.16$ of thermodynamic temp of triple point of water |
-| **Amount of Substance** | Mole | $mol$ | Avogadro constant $N_A = 6.02214076 \times 10^{23}\text{ mol}^{-1}$ | Number of atoms in $0.012\text{ kg}$ of pure Carbon-12 |
-| **Luminous Intensity** | Candela | $cd$ | Luminous efficacy $K_{\text{cd}} = 683\text{ lm/W}$ at $540 \times 10^{12}\text{ Hz}$ | Radiation of candle / blackbody at Pt freezing point |
-
-#### B. The 22 SI Derived Units with Special Names and Symbols
-| Derived Quantity | Special Name | Symbol | Expressed in Terms of Other SI Units | Expressed in Terms of SI Base Units |
-|---|---|---|---|---|
-| **Plane angle** | radian | $rad$ | — | $m\cdot m^{-1} = 1$ (dimensionless) |
-| **Solid angle** | steradian | $sr$ | — | $m^2\cdot m^{-2} = 1$ (dimensionless) |
-| **Frequency** | hertz | $Hz$ | — | $s^{-1}$ |
-| **Force** | newton | $N$ | — | $kg\cdot m\cdot s^{-2}$ |
-| **Pressure, stress** | pascal | $Pa$ | $N/m^2$ | $kg\cdot m^{-1}\cdot s^{-2}$ |
-| **Energy, work, heat** | joule | $J$ | $N\cdot m$ | $kg\cdot m^2\cdot s^{-2}$ |
-| **Power, radiant flux** | watt | $W$ | $J/s$ | $kg\cdot m^2\cdot s^{-3}$ |
-| **Electric charge** | coulomb | $C$ | — | $A\cdot s$ |
-| **Electric potential difference, voltage** | volt | $V$ | $W/A$ | $kg\cdot m^2\cdot s^{-3}\cdot A^{-1}$ |
-| **Capacitance** | farad | $F$ | $C/V$ | $kg^{-1}\cdot m^{-2}\cdot s^4\cdot A^2$ |
-| **Electric resistance** | ohm | $\Omega$ | $V/A$ | $kg\cdot m^2\cdot s^{-3}\cdot A^{-2}$ |
-| **Electric conductance** | siemens | $S$ | $A/V = \Omega^{-1}$ | $kg^{-1}\cdot m^{-2}\cdot s^3\cdot A^2$ |
-| **Magnetic flux** | weber | $Wb$ | $V\cdot s$ | $kg\cdot m^2\cdot s^{-2}\cdot A^{-1}$ |
-| **Magnetic flux density ($B$-field)** | tesla | $T$ | $Wb/m^2 = N/(A\cdot m)$ | $kg\cdot s^{-2}\cdot A^{-1}$ |
-| **Inductance** | henry | $H$ | $Wb/A$ | $kg\cdot m^2\cdot s^{-2}\cdot A^{-2}$ |
-| **Celsius temperature** | degree Celsius | $^\circ C$ | — | $K$ ($t(^\circ\text{C}) = T(\text{K}) - 273.15$) |
-| **Luminous flux** | lumen | $lm$ | $cd\cdot sr$ | $cd$ |
-| **Illuminance** | lux | $lx$ | $lm/m^2$ | $m^{-2}\cdot cd$ |
-| **Activity of radionuclide** | becquerel | $Bq$ | — | $s^{-1}$ |
-| **Absorbed dose, kerma** | gray | $Gy$ | $J/kg$ | $m^2\cdot s^{-2}$ |
-| **Dose equivalent** | sievert | $Sv$ | $J/kg$ | $m^2\cdot s^{-2}$ |
-| **Catalytic activity** | katal | $kat$ | — | $mol\cdot s^{-1}$ |
-
-#### C. Other Derived Quantities Expressed in SI Base Units
-| Derived Quantity | SI Unit | Dimension |
+| Landmark Year | Metrological Institution / Event | Prelims Milestone & Concept |
 |---|---|---|
-| **Area** | $m^2$ | $[M^0 L^2 T^0]$ |
-| **Volume** | $m^3$ | $[M^0 L^3 T^0]$ |
-| **Speed, Velocity** | $m\cdot s^{-1}$ | $[M^0 L^1 T^{-1}]$ |
-| **Acceleration** | $m\cdot s^{-2}$ | $[M^0 L^1 T^{-2}]$ |
-| **Wavenumber** | $m^{-1}$ | $[M^0 L^{-1} T^0]$ |
-| **Density, Mass Density** | $kg\cdot m^{-3}$ | $[M^1 L^{-3} T^0]$ |
-| **Surface Density** | $kg\cdot m^{-2}$ | $[M^1 L^{-2} T^0]$ |
-| **Specific Volume** | $m^3\cdot kg^{-1}$ | $[M^{-1} L^3 T^0]$ |
-| **Current Density** | $A\cdot m^{-2}$ | $[M^0 L^{-2} T^0 A^1]$ |
-| **Magnetic Field Strength ($H$)** | $A\cdot m^{-1}$ | $[M^0 L^{-1} T^0 A^1]$ |
-| **Molar Concentration** | $mol\cdot m^{-3}$ | $[M^0 L^{-3} T^0 mol^1]$ |
-| **Mass Concentration** | $kg\cdot m^{-3}$ | $[M^1 L^{-3} T^0]$ |
-| **Luminance** | $cd\cdot m^{-2}$ | $[M^0 L^{-2} T^0 cd^1]$ |
+| **1795** | French Metric System | Established base-10 decimal measurement; defined metre as 1/10,000,000 of Earth's quadrant. |
+| **1875** | Treaty of the Metre | Signed by 17 nations in Paris; established BIPM at Sèvres to maintain world reference standards. |
+| **1960** | 11th CGPM (Paris) | Formally adopted the **SI System of Units** replacing the older CGS and FPS systems. |
+| **1967** | 13th CGPM | Defined the **Second** based on $\Delta 
+u_{	ext{Cs}} = 9,192,631,770	ext{ Hz}$ of Caesium-133. |
+| **1983** | 17th CGPM | Locked the **Metre** to the universal speed of light ($c = 299,792,458	ext{ m/s}$). |
+| **2019** | 26th CGPM | Terminated reliance on physical artifacts; locked Kilogram, Ampere, Kelvin, and Mole to constants. |
+
+## 📊 Quick Reference Grid
+
+### 1. The Seven Fundamental SI Base Units (2019 BIPM Anchor Constants)
+
+| Base Quantity | SI Unit | Symbol | Base Defining Physical Constant (2019 SI Revision) | Value of Constant |
+|---|---|---|---|---|
+| **Length** | Metre | $m$ | Speed of light in vacuum ($c$) | $c = 299,792,458	ext{ m/s}$ |
+| **Mass** | Kilogram | $kg$ | Planck constant ($h$) | $h = 6.62607015 	imes 10^{-34}	ext{ J}\cdot	ext{s}$ |
+| **Time** | Second | $s$ | Caesium-133 hyperfine frequency ($\Delta 
+u_{	ext{Cs}}$)| $\Delta 
+u_{	ext{Cs}} = 9,192,631,770	ext{ Hz}$ |
+| **Electric Current** | Ampere | $A$ | Elementary charge ($e$) | $e = 1.602176634 	imes 10^{-19}	ext{ C}$ |
+| **Thermodynamic Temperature**| Kelvin | $K$ | Boltzmann constant ($k$) | $k = 1.380649 	imes 10^{-23}	ext{ J/K}$ |
+| **Amount of Substance** | Mole | $mol$ | Avogadro constant ($N_A$) | $N_A = 6.02214076 	imes 10^{23}	ext{ mol}^{-1}$ |
+| **Luminous Intensity** | Candela | $cd$ | Luminous efficacy of monochromatic radiation ($K_{	ext{cd}}$)| $K_{	ext{cd}} = 683	ext{ lm/W}$ at $540 	imes 10^{12}	ext{ Hz}$ |
 
 ---
 
-### 2. Astronomical, Nuclear & Practical Measurement Units
-| Category / Unit | Symbol | Equivalence in SI / Practical Value | Core Application & Common Trap |
+### 2. Landmark SI Derived Units with Special Names & Symbols
+
+| Derived Quantity | SI Unit Name | Symbol | Equivalent Base Units | Practical / Exam Relevance |
+|---|---|---|---|---|
+| **Force** | **Newton** | $N$ | $	ext{kg}\cdot	ext{m}\cdot	ext{s}^{-2}$ | $1	ext{ N} = 10^5	ext{ dynes}$ |
+| **Pressure / Stress** | **Pascal** | $Pa$ | $	ext{N/m}^2 = 	ext{kg}\cdot	ext{m}^{-1}\cdot	ext{s}^{-2}$ | $1	ext{ bar} = 10^5	ext{ Pa}$; $1	ext{ atm} = 101,325	ext{ Pa}$ |
+| **Energy / Work / Heat**| **Joule** | $J$ | $	ext{N}\cdot	ext{m} = 	ext{kg}\cdot	ext{m}^2\cdot	ext{s}^{-2}$ | $1	ext{ cal} = 4.184	ext{ J}$; $1	ext{ kWh} = 3.6 	imes 10^6	ext{ J}$ |
+| **Power / Radiant Flux**| **Watt** | $W$ | $	ext{J/s} = 	ext{kg}\cdot	ext{m}^2\cdot	ext{s}^{-3}$ | $1	ext{ hp (horsepower)} = 746	ext{ Watts}$ |
+| **Electric Charge** | **Coulomb** | $C$ | $	ext{A}\cdot	ext{s}$ | $1	ext{ Faraday} pprox 96,485	ext{ C}$ |
+| **Electric Potential** | **Volt** | $V$ | $	ext{W/A} = 	ext{kg}\cdot	ext{m}^2\cdot	ext{s}^{-3}\cdot	ext{A}^{-1}$| Potential difference across $1	ext{ }\Omega$ carrying $1	ext{ A}$ |
+| **Capacitance** | **Farad** | $F$ | $	ext{C/V} = 	ext{A}^2\cdot	ext{s}^4\cdot	ext{kg}^{-1}\cdot	ext{m}^{-2}$| Charge of $1	ext{ C}$ per Volt |
+| **Electrical Resistance**| **Ohm** | $\Omega$ | $	ext{V/A} = 	ext{kg}\cdot	ext{m}^2\cdot	ext{s}^{-3}\cdot	ext{A}^{-2}$| Ratio of potential difference to current |
+| **Electrical Conductance**| **Siemens (Mho)** | $S$ | $\Omega^{-1} = 	ext{A/V}$ | Reciprocal of electrical resistance |
+| **Magnetic Flux** | **Weber** | $Wb$ | $	ext{V}\cdot	ext{s} = 	ext{kg}\cdot	ext{m}^2\cdot	ext{s}^{-2}\cdot	ext{A}^{-1}$| $1	ext{ Wb} = 10^8	ext{ Maxwell}$ |
+| **Magnetic Flux Density**| **Tesla** | $T$ | $	ext{Wb/m}^2 = 	ext{kg}\cdot	ext{s}^{-2}\cdot	ext{A}^{-1}$ | $1	ext{ Tesla} = 10^4	ext{ Gauss}$ |
+| **Inductance** | **Henry** | $H$ | $	ext{Wb/A} = 	ext{kg}\cdot	ext{m}^2\cdot	ext{s}^{-2}\cdot	ext{A}^{-2}$| Self and mutual induction unit |
+| **Radioactivity (Activity)**| **Becquerel** | $Bq$ | $	ext{s}^{-1}$ ($1	ext{ decay/second}$) | $1	ext{ Curie (Ci)} = 3.7 	imes 10^{10}	ext{ Bq}$ |
+| **Absorbed Radiation Dose**| **Gray** | $Gy$ | $	ext{J/kg} = 	ext{m}^2\cdot	ext{s}^{-2}$ | $1	ext{ Gy} = 100	ext{ rad}$ |
+| **Equivalent Biological Dose**| **Sievert** | $Sv$ | $	ext{J/kg} = 	ext{m}^2\cdot	ext{s}^{-2}$ | $1	ext{ Sv} = 100	ext{ rem}$ |
+| **Catalytic Activity** | **Katal** | $kat$ | $	ext{mol}\cdot	ext{s}^{-1}$ | Enzymatic rate of substrate conversion |
+
+---
+
+### 3. Master Scientific Measuring Instruments Directory
+
+| Scientific Instrument | Parameter / Physical Property Measured | Working Principle & Operating Domain | High-Yield Prelims Exam Hook |
 |---|---|---|---|
-| **Parsec** | $pc$ | $3.0857 \times 10^{16}\text{ m} = 3.262\text{ ly} = 206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$ | Distance at which Earth\'s orbit ($1\text{ AU}$) subtends 1 arcsecond. Coined by H. H. Turner (1913). |
-| **Light-Year** | $ly$ | $9.46073 \times 10^{15}\text{ m} \approx 9.461 \times 10^{15}\text{ m} \approx 9.46 \times 10^{12}\text{ km}$ | Distance light travels in vacuum in 1 Julian year ($365.25\text{ days}$). Unit of distance, NEVER time. |
-| **Astronomical Unit** | $AU$ | $1.495978707 \times 10^{11}\text{ m} \approx 1.496 \times 10^{11}\text{ m}$ | Average distance between Earth and Sun ($\approx 149.6\text{ million km}$). |
-| **Angstrom** | $\text{\AA}$ | $10^{-10}\text{ m} = 0.1\text{ nm} = 10^{-8}\text{ cm}$ | Measuring light wavelength, atomic and crystal lattices. |
-| **Nanometre** | $nm$ | $10^{-9}\text{ m} = 10^{-7}\text{ cm} = 10\text{ \AA}$. ($1\text{ m} = 10^9\text{ nm}$) | Semiconductor gate lengths, CPU transistors, molecular sizes. |
-| **Micron (Micrometre)** | $\mu m$ | $10^{-6}\text{ m} = 10^{-4}\text{ cm} = 10^{-3}\text{ mm} = 1/1000\text{ mm}$ | Biological cells, bacteria size, atmospheric particulate matter ($PM_{2.5}, PM_{10}$). |
-| **Fermi (Femtometre)** | $fm$ | $10^{-15}\text{ m}$ | Nuclear dimensions and proton radii (Smallest unit of length). |
-| **Barrel (Petroleum)** | $bbl$ | $158.9873\text{ litres} \approx 159\text{ litres} = 0.158987\text{ m}^3 = 42\text{ US gal}$ | Global standard unit of crude oil volume ($34.9723\text{ UK gal}$). |
-| **Horsepower** | $hp$ | $746\text{ Watts} = 746\text{ J/s}$ | Mechanical power rating of engines and motors ($1\text{ metric hp} \approx 735.5\text{ W}$). |
-| **Megawatt** | $MW$ | $10^6\text{ W} = 1,000\text{ kW} = 1,000,000\text{ J/s}$ | Power station electricity generation capacity. |
-| **Cusec** | $cusec$ | $1\text{ cubic foot per second} = 28.317\text{ litres/second}$ | Volumetric flow rate in rivers, dams, and irrigation canals. |
-| **NTU** | $NTU$ | Nephelometric Turbidity Units | Degree of cloudiness/water turbidity caused by suspended insoluble particles. |
-| **Solar Constant** | $S_0$ | $1361.6\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$ ($1.4 \times 10^3\text{ W/m}^2$) | Solar radiant energy per unit area outside Earth\'s atmosphere at $1\text{ AU}$. |
-| **Dobson Unit** | $DU$ | $0.01\text{ mm thickness of pure } O_3\text{ at STP} = 2.687 \times 10^{20}\text{ molecules/m}^2$ | Atmospheric column ozone layer thickness. |
-| **Nautical Mile** | $NM$ | $1.852\text{ km} = 1852\text{ m}$ | Distance used in maritime and aeronautical navigation ($1\text{ min of latitude}$). |
-| **Knot** | $kt$ | $1\text{ nautical mile per hour} = 1.852\text{ km/h} \approx 0.514\text{ m/s}$ | Speed of vessels at sea and aircraft. |
-| **Mach Number** | $M$ | Dimensionless ratio: $\frac{\text{Speed of object}}{\text{Speed of sound in medium}}$ | Speed classification: Subsonic ($<1$), Supersonic ($>1$), Hypersonic ($>5$). |
-| **Bar / Atmosphere / Torr** | $bar, atm$ | $1\text{ bar} = 10^5\text{ Pa} = 10^6\text{ dyn/cm}^2 \approx 1.02\text{ kgf/cm}^2$; $1\text{ atm} = 760\text{ torr} = 101,325\text{ Pa}$ | Atmospheric pressure units ($1\text{ torr} = 1\text{ mmHg} = 133.322\text{ Pa}$). |
+| **Pyrometer (Optical / Radiation)**| **Extremely High Temperatures ($>800^\circ	ext{C}$)** | Stefan-Boltzmann radiation law ($E \propto T^4$)| Measures temperature of **Sun, stars, blast furnaces without physical contact** |
+| **Hygrometer** | **Atmospheric Relative Humidity** | Moisture absorption / psychrometric wet-and-dry bulb | Measures water vapor content of ambient air |
+| **Hydrometer** | **Specific Gravity / Relative Density of Liquids** | Archimedes buoyancy principle | Floating glass bulb calibrated in liquids |
+| **Lactometer** | **Purity & Specific Gravity of Milk** | Archimedes buoyancy principle | Detects water adulteration in milk |
+| **Barometer** | **Atmospheric Pressure** | Torricelli mercury column balance ($760	ext{ mm Hg}$)| **Sudden drop = storm/cyclone incoming**; slow rise = fair clear weather |
+| **Anemometer** | **Wind Speed and Velocity** | Cup rotation rate proportional to wind speed | Meteorological wind measurement |
+| **Sphygmomanometer** | **Human Blood Pressure** | Inflatable cuff balancing brachial arterial pressure | Standard reading: $120/80	ext{ mmHg}$ |
+| **SONAR** | **Underwater Distance, Depth & Submarines** | **Sound Navigation and Ranging** (Ultrasonic waves) | Measures ocean depth ($d = vt/2$) using reflected ultrasound |
+| **RADAR** | **Direction, Range & Speed of Aircraft** | **Radio Detection and Ranging** (Microwaves / Radio) | Locates airborne targets using reflected electromagnetic waves |
+| **Galvanometer** | **Detection & Direction of Minute Electric Currents**| Magnetic torque on current-carrying coil | Converted to **Ammeter** with low shunt resistance in parallel |
+| **Altimeter** | **Altitude above Sea Level in Aircraft** | Aneroid barometric pressure change with height | Pressure decreases with increasing altitude |
+| **Fathometer** | **Ocean Depth** | Sound echo reflection time | Measures sea depth in fathoms ($1	ext{ fathom} = 6	ext{ ft} = 1.8288	ext{ m}$) |
+| **Seismograph (Seismometer)**| **Earthquake Shock Waves (P, S, Surface waves)**| Inertial pendulum recording ground motion | Magnitude measured on logarithmic **Richter scale** (each unit $= 31.6	imes$ energy)|
+| **Polygraph** | **Simultaneous Physiological Stress ("Lie Detector")**| Monitors pulse, BP, respiration, and galvanic skin resistance| Changes in autonomic arousal during interrogation |
+| **Luxmeter** | **Luminous Intensity / Illuminance** | Photovoltaic sensor measuring luminous flux per unit area | SI unit = **Lux ($lx = lm/m^2$)** |
+| **Bolometer** | **Infrared & Thermal Radiation Energy** | Temperature-dependent electrical resistance of platinum | Highly sensitive infrared radiation detector |
 
----
+## ⚡ Confused Pairs & Common Examiner Traps
 
-### 3. Master Metric Prefixes Matrix
-| Factor | Prefix | Symbol | Factor | Prefix | Symbol |
-|---|---|---|---|---|---|
-| $10^{30}$ | **Quetta** | Q | $10^{-1}$ | **deci** | d |
-| $10^{27}$ | **Ronna** | R | $10^{-2}$ | **centi** | c |
-| $10^{24}$ | **Yotta** | Y | $10^{-3}$ | **milli** | m |
-| $10^{21}$ | **Zetta** | Z | $10^{-6}$ | **micro** | $\mu$ |
-| $10^{18}$ | **Exa** | E | $10^{-9}$ | **nano** | n |
-| $10^{15}$ | **Peta** | P | $10^{-10}$ | **angstrom** | $\text{\AA}$ |
-| $10^{12}$ | **Tera** | T | $10^{-12}$ | **pico** | p |
-| $10^{9}$ | **Giga** | G | $10^{-15}$ | **femto** | f |
-| $10^{6}$ | **Mega** | M | $10^{-18}$ | **atto** | a |
-| $10^{3}$ | **kilo** | k | $10^{-21}$ | **zepto** | z |
-| $10^{2}$ | **hecto** | h | $10^{-24}$ | **yocto** | y |
-| $10^{1}$ | **deca** | da | $10^{-27}$ | **ronto** | r |
-| — | — | — | $10^{-30}$ | **quecto** | q |
+| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
+|---|---|---|---|
+| **Light-Year ($ly$)** | **Unit of Time Trap** | A **Light-year is strictly a unit of ASTRONOMICAL DISTANCE**, not time. It is the distance travelled by light in vacuum in 1 year ($9.46 	imes 10^{12}	ext{ km}$). | प्रकाश वर्ष दूरी का मात्रक है, समय का नहीं |
+| **Parsec** | **Light-Year** | **Parsec (Parallactic Second)** is the largest practical astronomical unit ($1	ext{ Parsec} pprox 3.26	ext{ light-years} pprox 3.086 	imes 10^{16}	ext{ m}$). | पारसेक दूरी की सबसे बड़ी खगोलीय इकाई है ($1	ext{ Parsec} = 3.26	ext{ ly}$) |
+| **Mass** | **Weight** | **Mass ($kg$) is an invariant scalar quantity** (constant throughout universe). **Weight ($N = mg$) is a vector gravitational force** (varies with $g$; zero in free fall). | द्रव्यमान (Mass) स्थिर रहता है; भार (Weight) गुरुत्वीय त्वरण ($g$) पर निर्भर करता है |
+| **Hygrometer** | **Hydrometer** | **Hygrometer** measures atmospheric **humidity (moisture)**. **Hydrometer** measures **relative density (specific gravity)** of liquids. | हाइग्रोमीटर = आर्द्रता (नमी); हाइड्रोमीटर = द्रवों का आपेक्षित घनत्व |
+| **Pyrometer** | **Mercury Thermometer** | Mercury thermometers cannot measure above $357^\circ	ext{C}$ (boiling point of Hg). **Pyrometers measure extreme temperatures ($>800^\circ	ext{C}$ to $>3000^\circ	ext{C}$)** via emitted radiation without contact. | पाइरोमीटर = अत्यधिक उच्च तापमान (सूर्य, भट्टी) मापने हेतु |
+| **Bar** | **Pascal** | Both are pressure units; but **$1	ext{ bar} = 10^5	ext{ Pa} = 100,000	ext{ N/m}^2$**. Standard atmospheric pressure $= 1.01325	ext{ bar} = 101,325	ext{ Pa}$. | $1	ext{ bar} = 10^5	ext{ Pascal}$ |
+| **Curie ($Ci$)** | **Becquerel ($Bq$)** | **Becquerel ($Bq$) is the official SI unit** ($1	ext{ disintegration/s}$). **Curie ($Ci$) is the non-SI historical unit** ($1	ext{ Ci} = 3.7 	imes 10^{10}	ext{ Bq}$). | रेडियोधर्मिता का SI मात्रक बेकेरल है; क्यूरी पारंपरिक मात्रक है |
+| **Farad ($F$)** | **Faraday** | **Farad ($F$) is the SI unit of Capacitance**. **Faraday** is a unit of **Electric Charge** ($1	ext{ Faraday} pprox 96,485	ext{ Coulombs}$, charge on 1 mole of electrons). | फैराड = धारिता (Capacitance); फैराडे = 1 मोल इलेक्ट्रॉनों का कुल आवेश |
+| **Absorbed Dose (Gray)** | **Equivalent Dose (Sievert)**| **Gray ($Gy = 1	ext{ J/kg}$)** measures physical energy absorbed per kg of tissue. **Sievert ($Sv$)** measures biological damage taking radiation weighting factor into account. | ग्रे = अवशोषित विकिरण ऊर्जा; सीवर्ट = जैविक रूप से प्रभावी विकिरण खुराक |
+| **Kilowatt-Hour ($kWh$)** | **Kilowatt ($kW$)** | **Kilowatt ($kW$) is a unit of POWER** ($1000	ext{ J/s}$). **Kilowatt-hour ($kWh$) is a unit of ENERGY** ($3.6 	imes 10^6	ext{ Joules}$). | किलोवाट = शक्ति (Power); किलोवाट-घंटा = विद्युत ऊर्जा (Energy) |
 
----
+## 🧠 Memory Anchors & Mnemonics
 
-### 4. Master Thermometry & Temperature Scales
-- **Universal Temperature Conversion Formula**:
-  $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5} = \frac{R}{4}$$
-- **Key Temperature Benchmarks**:
-  - Absolute Zero: $0\text{ K} = -273.15^\circ\text{C} = -459.67^\circ\text{F}$. Molecular kinetic energy becomes minimal.
-  - Celsius = Fahrenheit crossover: **$-40^\circ\text{C} = -40^\circ\text{F}$**.
-  - Normal Human Body Temperature: $37.0^\circ\text{C} = 98.6^\circ\text{F} = 310.15\text{ K}$.
-  - Freezing Point of Pure Water: $0^\circ\text{C} = 32^\circ\text{F} = 273.15\text{ K}$.
-  - Boiling Point of Water (at $1\text{ atm}$): $100^\circ\text{C} = 212^\circ\text{F} = 373.15\text{ K}$.
-  - Triple Point of Water: $0.01^\circ\text{C} = 273.16\text{ K}$ at $611.657\text{ Pa}$ ($4.58\text{ mmHg}$).
+### 1. Seven Fundamental SI Base Units: **M-K-S-A-K-M-C**
+> **"Many Keen Students Always Know Metric Constants"**
+- **M**etre (Length)
+- **K**ilogram (Mass)
+- **S**econd (Time)
+- **A**mpere (Electric Current)
+- **K**elvin (Thermodynamic Temperature)
+- **M**ole (Amount of Substance)
+- **C**andela (Luminous Intensity)
 
----
+### 2. Large Metric Prefixes Order (Ascending): **D-H-K-M-G-T-P-E-Z-Y-R-Q**
+> **"King Henry Died Drinking Chocolate Milk... Mega Giga Tera Peta Exa Zetta Yotta Ronna Quetta"**
+- Kilo ($10^3$) $	o$ Mega ($10^6$) $	o$ Giga ($10^9$) $	o$ Tera ($10^{12}$) $	o$ Peta ($10^{15}$) $	o$ Exa ($10^{18}$) $	o$ Zetta ($10^{21}$) $	o$ Yotta ($10^{24}$) $	o$ **Ronna ($10^{27}$)** $	o$ **Quetta ($10^{30}$)**.
 
-### 5. Comprehensive Scientific Measuring Instruments Master Directory
-*(Every single instrument from Ghatna Chakra and State PCS compiled alphabetically)*
+### 3. Small Metric Prefixes Order (Descending):
+- Milli ($10^{-3}$) $	o$ Micro ($\mu, 10^{-6}$) $	o$ Nano ($10^{-9}$) $	o$ Pico ($10^{-12}$) $	o$ Femto ($10^{-15}$) $	o$ Atto ($10^{-18}$) $	o$ Zepto ($10^{-21}$) $	o$ Yocto ($10^{-24}$) $	o$ **Ronto ($10^{-27}$)** $	o$ **Quecto ($10^{-30}$)**.
 
-| Instrument | Physical Quantity Measured / Operating Mechanism | Core Practical Application |
-|---|---|---|
-| **Accelerometer** | Acceleration, vibrations, dynamic tilt, inertial force | Airbag crash deployment, laptop drop HDD safety park, smartphone portrait/landscape tilt |
-| **Actiometer** | Heating power or intensity of solar radiation | Solar energy studies, meteorological radiation monitoring |
-| **Altimeter** | Altitude above sea level | Used in aircraft and high-altitude mountaineering (aneroid mechanism) |
-| **Ammeter** | Magnitude of electric current in amperes ($A$) | Connected in series (low internal resistance, ideally zero) |
-| **Anemometer** | Wind speed, velocity, force, and pressure | Meteorological stations, airport runways, wind farms |
-| **Atmometer / Evaporimeter**| Water evaporation rate from a wet surface | Hydrology, agricultural irrigation scheduling |
-| **Audiometer** | Hearing acuity and sound intensity threshold | Audiology clinics, hearing impairment diagnosis |
-| **Barograph** | Continuous graphical recording of atmospheric pressure | Meteorological observatories, pressure trend monitoring |
-| **Barometer** | Atmospheric pressure (uses column of Mercury, $Hg$) | Weather forecasting; sudden drop = thunderstorm; rise = clear dry weather |
-| **Bolometer** | Incident electromagnetic radiation power via resistance change of heated sensor | Infrared spectroscopy, astronomy, thermal imaging |
-| **Butyrometer** | Fat content percentage in milk and dairy products | Dairy quality control (Gerber method) |
-| **Calipers (Vernier)** | Internal/external dimensions, diameter, thickness | Precision engineering, machining, laboratory physics |
-| **Calorimeter** | Heat of chemical reactions, phase changes, heat capacity | Thermodynamics, bomb calorimetry for food caloric values |
-| **Cardiograph** | Graphic record of heart movements/cardiac cycle | Cardiology diagnostics (records mechanical heart movements) |
-| **Cathetometer** | Precise vertical distances/differences in liquid levels | Liquid menisci in manometers, surface tension experiments |
-| **Chronometer** | Ultra-precise timekeeping unaffected by motion or temperature | Marine navigation to determine accurate longitude at sea |
-| **Colorimeter** | Absorbance of specific wavelengths of light by a solution | Chemical colorimetry, Beer-Lambert law concentration analysis |
-| **Crescograph** | Infinitesimal growth rate in plants | Invented by Sir Jagadish Chandra Bose (magnifies growth up to $10,000\times$) |
-| **Cryometer** | Extremely low (cryogenic) temperatures | Superconductivity research, liquid nitrogen/helium physics |
-| **Cyclotron** | High-energy charged particles (protons, deuterons, $\alpha$-particles) | Particle physics, radioisotope production in cancer therapy |
-| **Dilatometer** | Thermal expansion / volume changes caused by physical/chemical changes | Metallurgy, ceramics, phase transformation studies |
-| **Dip Circle** | Angle of magnetic inclination (dip angle) between Earth\'s magnetic field and horizon | Geomagnetic surveys; dip = $0^\circ$ at equator, $90^\circ$ at magnetic poles |
-| **Dynamo** | Converts mechanical energy into direct electric current (DC) | Electromagnetic induction (Faraday\'s law); bicycle dynamos, generators |
-| **Dynamometer** | Mechanical force, torque, and power output of rotating engines/motors | Automotive engine dynamometer testing |
-| **Electroencephalograph (EEG)** | Electrical activity and brainwave patterns ($\alpha, \beta, \theta, \delta$) via scalp electrodes | Epilepsy, sleep disorders, encephalopathy diagnosis |
-| **Electrometer** | Electrical charge or high-precision potential difference | Electrostatics research, radiation detection ionization chambers |
-| **Electroscope** | Detects presence, magnitude, and polarity of electric charge | Gold-leaf electroscope for static electricity demonstration |
-| **Endoscope** | Visual examination inside internal body cavities/organs | Medical diagnostics via fiber optics using Total Internal Reflection (TIR) |
-| **Eudiometer** | Volume changes of gas mixtures before and after chemical/combustion reactions | Gas stoichiometry analysis, water synthesis demonstration |
-| **Fathometer** | Sea depth and underwater submerged structures | Uses ultrasonic echo sounding ($1\text{ fathom} = 6\text{ ft} = 1.8288\text{ m}$) |
-| **Fluxmeter** | Total magnetic flux (in Webers) | Magnetic materials testing, coil magnetic field characterization |
-| **Galvanometer** | Detects and indicates presence of minute electric currents | Moving-coil galvanometer; converted to ammeter with low shunt in parallel |
-| **Geiger Counter (GM Counter)** | Detects and counts ionizing radiation ($\alpha, \beta, \gamma$ rays) | Nuclear radiation safety, uranium prospecting |
-| **Gravimeter** | Local gravitational acceleration ($g$) variations | Geophysical prospecting (oil, gas, mineral reserves), geodesy |
-| **Gyroscope** | Angular velocity, orientation, and maintaining rotational stability | Inertial navigation systems in spacecraft, airplanes, torpedoes, smartphones |
-| **Hydrometer** | Relative density (specific gravity) of liquids based on Archimedes\' principle | Testing battery acid density, specific gravity of liquid solutions |
-| **Hydrophone** | Underwater sound listening and acoustic recording | Submarine detection, marine mammal acoustic monitoring |
-| **Hygrometer** | Atmospheric relative humidity (moisture content of air) | Weather stations, greenhouse climate control, textile mills |
-| **Hygroscope** | Indicates changes in atmospheric humidity qualitatively | Simple household humidity indicators |
-| **Hypsometer** | Altitudes via boiling point of water (temperature at which water boils drops with elevation) | Calibrating thermometers, mountaineering elevation estimation |
-| **Kymograph** | Graphical recording of physiological movements (BP, pulse, muscle twitches) on rotating drum | Experimental physiology, pharmacological testing |
-| **Lactometer** | Purity and density of milk (based on Archimedes\' principle) | Checks water adulteration in dairy industry |
-| **Luxmeter** | Illuminance (incident luminous flux per unit area in Lux) | Architectural lighting design, workplace ergonomics, cinematography |
-| **Lysimeter** | Actual evapotranspiration (evaporation + plant transpiration) | Agricultural hydrology, crop water requirement modeling |
-| **Magnetometer** | Strength, direction, or relative variation of magnetic field | Geomagnetic mapping, geophysical surveying, planetary probes |
-| **Manometer** | Differential pressure of liquids and gases in closed conduits | U-tube manometer for gas pressure measurement |
-| **Microphone** | Acoustic sound waves converted into electrical audio signals | Acoustic transducer operating on electromagnetic/piezoelectric principles |
-| **Microtome** | Microscopic precision cutting of ultra-thin specimen slices (sections) | Histology, pathology, optical and electron microscopy sample prep |
-| **Nephoscope** | Altitude, velocity, and direction of cloud movement | Meteorological cloud drift observation |
-| **Odometer** | Cumulative distance travelled by wheeled vehicles | Electromechanical/digital distance counter on automotive dashboards |
-| **Ondometer** | Frequency and wavelength of high-frequency electromagnetic waves | Microwave engineering, radio frequency characterization |
-| **Periscope** | Over-obstacle line-of-sight viewing using two mirrors/prisms at $45^\circ$ | Submarines at periscope depth, military trenches |
-| **Phonograph** | Mechanical recording and reproduction of sound | Edison\'s cylinder and vinyl record sound playback |
-| **Phonometer** | Tests and measures the acoustic force/loudness of human voice | Speech therapy, acoustic vocal analysis |
-| **Photometer** | Intensity of visible light, illuminance, and luminous flux | Optical research, photography exposure metering |
-| **Polygraph** | Lie detector; simultaneously graphs BP, pulse, respiration, galvanic skin conductance | Forensic interrogation, security screening |
-| **Potentiometer** | EMF and potential difference by comparison against known reference without drawing current | Null-deflection method (infinitely high effective resistance) |
-| **Pycnometer** | Precision density or specific gravity of liquids and solids | Analytical laboratory standard volume vessel |
-| **Pyrheliometer** | Direct-beam solar irradiance at normal incidence | Solar energy engineering, photovoltaic project site assessment |
-| **Pyrometer** | Extremely high temperatures ($>1500^\circ C$ to $2000^\circ C+$) remotely via thermal radiation | Blast furnaces, molten metal, Sun/star surface temperature (Stefan\'s law) |
-| **Psychrometer** | Relative humidity using wet-bulb and dry-bulb thermometer temperature difference | Meteorological psychrometric tables, HVAC psychrometrics |
-| **Rain Gauge (Udometer / Pluviometer / Ombrometer)** | Liquid precipitation volume over a given time interval | Rainfall monitoring in meteorology and hydrology |
-| **Radiometer (Crookes)** | Radiant flux of electromagnetic radiation | Solar radiometry, vane mill demonstration in partial vacuum |
-| **Refractometer** | Refractive index of transparent liquids and solids | Salinity testing, sugar content (Brix) in winemaking/food |
-| **Ringelmann Scale** | Apparent density and opacity of smoke emissions ($0\%$ to $100\%$ in 5 shades) | Industrial chimney emissions monitoring, smoke abatement laws |
-| **Saccharimeter** | Polarimetric concentration of optical active sugar (sucrose) solutions | Sugar manufacturing, sucrose purity certification |
-| **Salinometer** | Electrical conductivity / density to measure water salinity | Oceanography, desalination plants, aquaculture |
-| **Seismograph / Seismometer** | Detects, magnifies, and graphs seismic waves during earthquakes | Earthquake magnitude rating (Richter scale); seismic monitoring stations |
-| **Sextant** | Angular distance between two visible objects (horizon and celestial body) | Celestial marine navigation to determine latitude and solar noon |
-| **Sphygmomanometer**| Arterial blood pressure using inflatable cuff and mercury manometer | Medical clinical examination (Normal adult: $120/80\text{ mmHg}$) |
-| **Stethoscope** | Acoustic medical device for listening to internal heart/lung sounds | Auscultation of cardiac lub-dub heart sounds and respiratory wheezes |
-| **Speedometer** | Instantaneous linear speed of a motor vehicle in $km/h$ or $mph$ | Vehicle speed management |
-| **Tacheometer** | Rapid surveying theodolite measuring distance, direction, and elevation differences | Topographical surveys, road alignment |
-| **Tachometer** | Rotational angular speed (RPM) of an engine shaft or turbine | Automobile tachometer (rev counter), aviation engine RPM |
-| **Theodolite** | High-precision angles in horizontal (azimuth) and vertical (elevation) planes | Geodetic surveying, triangulation networks, civil construction |
-| **Thermoresistor (Thermistor)** | Electronic temperature sensor whose electrical resistance varies with temperature | Precision electronic thermometers, temperature compensation circuits |
-| **Thermostat** | Automatic temperature regulator maintaining a system near a preset setpoint | Refrigerators, water heaters, air conditioning systems |
-| **Viscometer** | Dynamic or kinematic viscosity of fluids | Petrochemical lubricant testing, polymer fluid flow analysis |
-| **Wind Vane (Weathercock)**| Direction from which the wind is blowing | Meteorological wind direction observation |
-| **SONAR** | Underwater navigation, detection, and ranging using ultrasonic pulses | Locating submerged submarines, sea depth mapping (Active transmits; Passive listens) |
-| **RADAR** | Range, velocity, and angle of targets using reflected radio/microwaves | Air traffic control, military air defense, weather radar |
+### 4. Astronomical Distances Hierarchy:
+- **Parsec > Light-Year > Astronomical Unit (AU)**
+  - $1	ext{ Parsec} pprox 3.26	ext{ ly} pprox 206,265	ext{ AU}$.
+  - $1	ext{ Light-Year} pprox 9.46 	imes 10^{12}	ext{ km}$.
+  - $1	ext{ AU} pprox 1.496 	imes 10^8	ext{ km}$ ($150	ext{ million km}$).
 
----
+## 🎯 High-Yield PYQ Drill
 
-## 1.1 Physical Quantities, Systems of Units & Dimensions
-- **Physical Quantity**: Any property of a material or system that can be quantified and measured with an instrument.
-  $$\text{Physical Quantity} = \text{Numerical Value } (n) \times \text{Unit } (u)$$
-  Since the magnitude is constant: $n_1 u_1 = n_2 u_2$. As unit size increases, numerical value decreases proportionally.
-- **Fundamental vs Derived Quantities**:
-  - *Fundamental (Base)*: Independent quantities that cannot be defined in terms of other physical quantities (7 in SI).
-  - *Derived*: Quantities formed by multiplying or dividing base units with integer/fractional powers.
-- **Historical Unit Systems**:
-  1. *CGS System* (Gaussian metric): Centimetre (length), Gram (mass), Second (time).
-  2. *FPS System* (British Imperial): Foot (length), Pound (mass; $1\text{ lb} = 453.59237\text{ g}$), Second (time).
-  3. *MKS System* (Giorgi metric): Metre (length), Kilogram (mass), Second (time).
-  4. *SI System* (1960, 11th CGPM): Comprehensive rationalized MKS system incorporating 7 base and 2 supplementary units.
+> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
----
+**Q1.**
 
-## 1.2 Measurement of Length, Mass, Time & Astronomical Distances
-- **Julian Year in Astronomy**: Time measurement unit defined as exactly **$365.25\text{ days}$ of $86,400\text{ SI seconds}$ each** ($= 31,557,600\text{ s}$). A light-year is the vacuum travel distance of light in one Julian year:
-  $$\text{Distance} = c \times t = 299,792,458\text{ m/s} \times 31,557,600\text{ s} = 9.460730472 \times 10^{15}\text{ m} \approx 9.461 \times 10^{15}\text{ m}$$
-- **Parsec Geometry**:
-  $$\text{Angle } \theta = \frac{\text{Arc}}{\text{Radius}} \implies 1\text{ arcsecond} = \frac{1\text{ AU}}{1\text{ Parsec}}$$
-  Since $1\text{ arcsecond} = \frac{1}{3600}^\circ = \frac{\pi}{180 \times 3600}\text{ radians} = \frac{\pi}{648,000}\text{ rad}$:
-  $$1\text{ Parsec} = \frac{1\text{ AU}}{\theta} = \frac{648,000}{\pi}\text{ AU} \approx 206,264.8\text{ AU} \approx 3.0857 \times 10^{16}\text{ m} \approx 3.262\text{ light-years}$$
-
----
-
-## 1.3 Temperature Scales, Thermometry & Pyrometry
-- **Liquid Thermometers**:
-  - *Mercury Thermometer*: Usable range from $-39^\circ C$ (mercury freezing point) to $357^\circ C$ (boiling point). Can be extended to $500^\circ C$ by filling nitrogen gas under pressure above mercury column.
-  - *Alcohol Thermometer*: Usable down to $-112^\circ C$ (ideal for arctic/cryogenic regions where mercury freezes).
-- **Total Radiation Pyrometer (High Temperature $>1500^\circ C$)**:
-  - Based on **Stefan-Boltzmann Law**: Total radiant energy ($E$) emitted per unit surface area of a blackbody per second is directly proportional to the fourth power of its absolute thermodynamic temperature:
-    $$E = \sigma T^4 \quad (\sigma = 5.670374 \times 10^{-8}\text{ W}\cdot m^{-2}\cdot K^{-4})$$
-  - Since it detects thermal radiation at a distance, it never contacts the source. Used for metallurgical blast furnaces, molten steel, kiln chambers, and stellar bodies.
-
----
-
-## 1.4 Measuring Instruments & Modern Experimental Tools
-- **SONAR (Sound Navigation and Ranging)**:
-  - Emits high-frequency **ultrasonic acoustic waves** into water.
-  - Velocity of sound in seawater is $\approx 1500\text{ m/s}$ (much faster than $343\text{ m/s}$ in air).
-  - Distance $d = \frac{v \times t}{2}$ where $t$ is round-trip echo return time.
-  - *Active Sonar*: Transmits acoustic ping and detects reflected echo.
-  - *Passive Sonar*: Does not emit sound; only listens to acoustic signatures of other vessels (submarine stealth).
-- **RADAR (Radio Detection and Ranging)**:
-  - Uses pulsed **radio waves / microwaves** ($c = 3 \times 10^8\text{ m/s}$).
-  - Detects aircraft, missiles, ships, and weather precipitation. Doppler radar additionally measures target radial velocity.
-- **Polygraph (Lie Detector)**:
-  - Invented by John Augustus Larson (1921). Simultaneously tracks 4 autonomic physiological parameters:
-    1. Blood pressure (pneumatic cuff), 2. Pulse rate (plethysmograph), 3. Respiration rate (pneumograph tubes), 4. Galvanic Skin Resistance / GSR (sweat gland activation via electrodermal sensors).
-- **Ringelmann Smoke Chart**:
-  - Developed by Maximilien Ringelmann (1888). 5 grids of black lines on white paper representing smoke density from Card 0 ($0\%$ clear) to Card 5 ($100\%$ pitch black). Standard regulatory scale for chimney emission opacity.
-
----
-
-## Bilingual Terminology -- Physics Fundamentals and Measurement
-
-| English Term | Hindi Term | Key Anchor |
-|---|---|---|
-| **Physical Quantity** (भौतिक राशि) | भौतिक राशि | Measurable property; scalar (magnitude only) or vector (magnitude + direction) |
-| **SI Unit** (अंतर्राष्ट्रीय मात्रक प्रणाली) | अंतर्राष्ट्रीय मात्रक | International System of Units; 7 base units |
-| **Scalar** (अदिश) | अदिश राशि | Has magnitude only; e.g., mass, temperature, speed, energy |
-| **Vector** (सदिश) | सदिश राशि | Has magnitude + direction; e.g., velocity, force, acceleration |
-| **Length** (लम्बाई) | लम्बाई | SI unit = metre (m) |
-| **Mass** (द्रव्यमान) | द्रव्यमान | SI unit = kilogram (kg); measure of matter |
-| **Time** (समय) | समय | SI unit = second (s); Cs-133 atomic clock |
-| **Electric Current** (विद्युत धारा) | विद्युत धारा | SI unit = ampere (A) |
-| **Temperature** (ताप) | ताप | SI unit = kelvin (K); 0 K = absolute zero = -273.15 degC |
-| **Luminous Intensity** (ज्योति तीव्रता) | ज्योति तीव्रता | SI unit = candela (cd) |
-| **Amount of Substance** (पदार्थ की मात्रा) | पदार्थ की मात्रा | SI unit = mole (mol); Avogadro's number = 6.022 x 10^23 |
-| **Parsec** (पारसेक) | पारसेक | Largest astronomical distance unit; 1 parsec = 3.26 light-years |
-| **Light-Year** (प्रकाश वर्ष) | प्रकाश वर्ष | Distance light travels in 1 year; unit of distance NOT time |
-| **Astronomical Unit (AU)** (खगोलीय इकाई) | खगोलीय इकाई | Mean Earth-Sun distance = 1.496 x 10^11 m |
-| **Dobson Unit** (डोबसन इकाई) | डोबसन इकाई | Measures ozone layer thickness; normal = 300 DU; hole < 220 DU |
-| **Hertz** (हर्ट्ज) | हर्ट्ज | SI unit of frequency; 1 Hz = 1 cycle/second |
-| **Pascal** (पास्कल) | पास्कल | SI unit of pressure; 1 Pa = 1 N/m2 |
-| **Decibel** (डेसिबल) | डेसिबल | Logarithmic unit of sound intensity; 0 dB = threshold of hearing |
-
----
-
-## Complete PYQ Bank — UPPCS
-
-**Q-ST1. UPPCS Pre 2024**
-A bus covers the first half of a certain distance with speed $v_1$ and the second half with a speed $v_2$. The average speed during the whole journey is:  
-(a) $\frac{v_1 v_2}{v_1 + v_2}$  
-(b) $\frac{2 v_1 v_2}{v_1 + v_2}$  
-(c) $\frac{v_1 + v_2}{2}$  
-(d) $\sqrt{v_1 v_2}$  
-<details><summary>Show answer</summary>
-
-**Logic:** Let total distance be $2d$.
-
-**Ans: B.** $\frac{2 v1 v2}{v1 + v2}$
-</details>
-
-**Q2.** Ans: C.** 3 4 2 1
-</details>
-
-**Q-ST15. UPPCS Pre 2007**
-The equipment used for measuring blood pressure is:  
-(a) Tacheometer  
-(b) Sphygmomanometer  
-(c) Actiometer  
-(d) Barometer  
-<details><summary>Show answer</summary>
-
-**Logic:** Sphygmomanometer measures arterial blood pressure.
-
-**Ans: B.** Sphygmomanometer
-</details>
-
-**Q3.** Ans: C.** 1 2 3 4
-</details>
-
-**Q-ST17. UPPCS Pre 2005**
-The smallest unit of length is:  
-(a) Micron  
-(b) Nanometre  
-(c) Angstrom  
-(d) Fermimetre  
-<details><summary>Show answer</summary>
-
-**Logic:** Fermimetre (Fermi) $= 10^{-15}\text{ m}$.
-
-**Ans: D.** Fermimetre
-</details>
-
-**Q4.** Ans: D.** 4 3 1 2
-</details>
-
-**Q-ST19. UPPCS Pre 2000 / RO/ARO 2016**
-Which one of the following instruments is used for locating submerged objects in an ocean?  
-(a) Audiometer  
-(b) Galvanometer  
-(c) Sextant  
-(d) SONAR  
-<details><summary>Show answer</summary>
-
-**Logic:** Standard key matches SONAR.
-
-**Ans: D.** SONAR
-</details>
-
-**Q5.** Ans: A.** 3 1 2 4
-</details>
-
-**Q-ST24. UP RO/ARO Pre Re-Exam 2023**
-The distance at which the average radius of Earth's orbit subtends an angle of 1 arc second, is known as:  
-(a) 1 Fermi  
-(b) 1 astronomical unit  
-(c) 1 Parsec  
-(d) 1 light year  
-<details><summary>Show answer</summary>
-
-**Logic:** 1 Parsec is the distance corresponding to a parallax of 1 arcsecond subtended by Earth's mean orbital radius ($1\text{ AU}$).
-
-**Ans: C.** 1 Parsec
-</details>
-
-**Q6.** in Science & Technology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. BIPM 2019 SI Redefinition (Effective May 20, 2019): All 7 base units are now anchored to fixed numerical values of fundamental physical constants:
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
+**Which of the following physical quantities is correctly paired with its defining 2019 SI fundamental constant?**
+   A. Kilogram — Speed of light ($c$)  
+   B. Second — Hyperfine caesium-133 frequency ($\Delta \nu_{\text{Cs}}$)  
+   C. Kelvin — Planck constant ($h$)  
+   D. Ampere — Boltzmann constant ($k$)
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Ans:** **B** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **BIPM 2019 SI Redefinition (Effective May 20, 2019)**: All 7 base units are now anchored to fixed numerical values of fundamental physical constants:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
+
 </details>
 
-**Q7.** in Science & Technology, consider the following statement:
+**Q2.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, New applies only to union territories and not state jurisdictions.
-B. New SI Prefixes (27th CGPM, Versailles, 2022):
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
+**$1\text{ Parsec}$ is mathematically equivalent to how many Astronomical Units ($AU$)?**
+   A. $206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$  
+   B. $149,597,871\text{ AU}$  
+   C. $9.46 \times 10^{12}\text{ AU}$  
+   D. $3.262\text{ AU}$
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Ans:** **A** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **New SI Prefixes (27th CGPM, Versailles, 2022)**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
+
 </details>
 
-**Q8.** in Science & Technology, consider the following statement:
+**Q3.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Solar applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Solar Constant & TSIS-1 (NASA Consensus): Total Solar Irradiance (TSI) received at $1\text{ AU}$ outside Earth's atmosphere is standardized at $1361.6 \pm 0.3\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$ (measured by TSIS-1 / SORCE; varies by $\sim 0.1\%$ over the 11-year solar sunspot cycle).
-D. Enacted under Article 356 of the Constitution of India
+**In the measurement of petroleum, 1 standard barrel equals:**
+   A. $142\text{ litres}$  
+   B. $159\text{ litres}$  
+   C. $183\text{ litres}$  
+   D. $200\text{ litres}$
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Ans:** **B** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Solar Constant & TSIS-1 (NASA Consensus)**: Total Solar Irradiance (TSI) received at $1\text{ AU}$ outside Earth's atmosphere is standardized at **$1361.6 \pm 0.3\text{ W/m}^2 \approx 1.4\text{ kW/m}^2$** (measured by TSIS-1 / SORCE; varies by $\sim 0.1\%$ over the 11-year solar sunspot cycle).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
+
 </details>
 
-**Q9.** in Science & Technology, consider the following statement:
+**Q4.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, MEMS applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. MEMS Accelerometers in Modern Tech (IAS 2023 Fact): Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
+**A sudden, steep drop in the barometric mercury column indicates:**
+   A. Immediate clear and dry weather  
+   B. Severe storm or thunderstorm  
+   C. Snowfall  
+   D. Persistent drizzle
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Ans:** **B** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **MEMS Accelerometers in Modern Tech (IAS 2023 Fact)**: Accelerometers sense dynamic acceleration and tilt. Crucial for: (1) Airbag deployment via instant deceleration detection, (2) Free-fall sensor (FFS) in laptops parking HDD heads to prevent drive crash, (3) Display auto-rotation between portrait and landscape in smartphones.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
+
 </details>
 
-**Q10.** in Science & Technology, consider the following statement:
+**Q5.**
 
-Which of the following is correct regarding this topic?
-
-A. Four Systems of Units: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
+**Which device is specifically used to measure the growth of plants?**
+   A. Bolometer  
+   B. Crescograph  
+   C. Cathetometer  
+   D. Kymograph
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Ans:** **B** (Invented by J.C. Bose).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Four Systems of Units**: CGS ($cm, g, s$), FPS ($foot, pound, second$ — British system; $1\text{ lb} = 453.59237\text{ g}$), MKS ($m, kg, s$), and SI (International System of Units, adopted at 11th CGPM Paris in 1960).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (Invented by J.C. Bose).
+
 </details>
 
-**Q11.** in Science & Technology, consider the following statement:
+**Q6.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Seven applies only to union territories and not state jurisdictions.
-B. Seven Fundamental Quantities: Length ($m$), Mass ($kg$), Time ($s$), Electric Current ($A$), Thermodynamic Temperature ($K$), Luminous Intensity ($cd$), Amount of Substance ($mol$).
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
+**The catalytic activity of an enzyme is officially expressed in which SI unit?**
+   A. Gray  
+   B. Sievert  
+   C. Katal  
+   D. Candela
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Ans:** **C** ($1\text{ katal} = 1\text{ mole/second}$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Seven Fundamental Quantities**: Length ($m$), Mass ($kg$), Time ($s$), Electric Current ($A$), Thermodynamic Temperature ($K$), Luminous Intensity ($cd$), Amount of Substance ($mol$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** ($1\text{ katal} = 1\text{ mole/second}$).
+
 </details>
 
-**Q12.** in Science & Technology, consider the following statement:
+**Q7.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Supplementary applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Supplementary Units: Plane angle (Radian, $rad = m/m$, dimensionless), Solid angle (Steradian, $sr = m^2/m^2$, dimensionless).
-D. Classified under Schedule VII List II (State List)
+**Which instrument operates on the principle of thermal change in electrical resistance to measure incident radiation power?**
+   A. Bolometer  
+   B. Pycnometer  
+   C. Pyrheliometer  
+   D. Nephoscope
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **C**
+**Ans:** **A** (Bolometer).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Supplementary Units**: Plane angle (Radian, $rad = m/m$, dimensionless), Solid angle (Steradian, $sr = m^2/m^2$, dimensionless).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (Bolometer).
+
 </details>
 
-**Q13.** in Science & Technology, consider the following statement:
+**Q8.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, 22 applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. 22 SI Derived Units with Special Names: Radian ($rad$), Steradian ($sr$), Hertz ($Hz$), Newton ($N$), Pascal ($Pa$), Joule ($J$), Watt ($W$), Coulomb ($C$), Volt ($V$), Farad ($F$), Ohm ($\Omega$), Siemens ($S$), Weber ($Wb$), Tesla ($T$), Henry ($H$), Degree Celsius ($^\circ C$), Lumen ($lm$), Lux ($lx$), Becquerel ($Bq$), Gray ($Gy$), Sievert ($Sv$), Katal ($kat$).
+**A person six feet tall has a height of $1.83\text{ m}$. In nanometres, this is:**
+   A. $1.83 \times 10^7\text{ nm}$  
+   B. $1.83 \times 10^9\text{ nm} = 183 \times 10^7\text{ nm}$  
+   C. $1.83 \times 10^6\text{ nm}$  
+   D. $18.3 \times 10^6\text{ nm}$
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **D**
+**Ans:** **B** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **22 SI Derived Units with Special Names**: Radian ($rad$), Steradian ($sr$), Hertz ($Hz$), Newton ($N$), Pascal ($Pa$), Joule ($J$), Watt ($W$), Coulomb ($C$), Volt ($V$), Farad ($F$), Ohm ($\Omega$), Siemens ($S$), Weber ($Wb$), Tesla ($T$), Henry ($H$), Degree Celsius ($^\circ C$), Lumen ($lm$), Lux ($lx$), Becquerel ($Bq$), Gray ($Gy$), Sievert ($Sv$), Katal ($kat$).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
+
 </details>
 
-**Q14.** in Science & Technology, consider the following statement:
+**Q9.**
 
-Which of the following is correct regarding this topic?
-
-A. Katal ($kat$): SI unit of catalytic activity ($1\text{ kat} = 1\text{ mol/s}$ of substrate converted).
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
+**What physical property does a Ringelmann Chart quantify?**
+   A. Ocean water salinity  
+   B. Smoke opacity and density  
+   C. Soil moisture tension  
+   D. Wind gust turbulence
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **A**
+**Ans:** **B** (Smoke emissions).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Katal ($kat$)**: SI unit of catalytic activity ($1\text{ kat} = 1\text{ mol/s}$ of substrate converted).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** (Smoke emissions).
+
 </details>
 
-**Q15.** in Science & Technology, consider the following statement:
+**Q10.**
 
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Tesla applies only to union territories and not state jurisdictions.
-B. Tesla ($T$): SI unit of magnetic flux density ($B$-field). $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m) = 1\text{ kg}\cdot s^{-2}\cdot A^{-1} = 10^4\text{ Gauss}$.
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
+**The unit of dynamic viscosity in the CGS system is:**
+    A. Pascal-second  
+    B. Poise  
+    C. Stokes  
+    D. Poiseuille
 
 <details>
 <summary>Show answer</summary>
 
-**Correct Answer:** **B**
+**Ans:** **B** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
 
-**Detailed Explanation:**
-- **Key Exam Association:** **Tesla ($T$)**: SI unit of magnetic flux density ($B$-field). $1\text{ T} = 1\text{ Wb/m}^2 = 1\text{ N}/(A\cdot m) = 1\text{ kg}\cdot s^{-2}\cdot A^{-1} = 10^4\text{ Gauss}$.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
+**Logic:** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
+
+</details>
+
+**Q11.**
+
+**One astronomical unit ($AU$) is approximately equal to:**
+    A. $9.46 \times 10^{15}\text{ m}$  
+    B. $1.496 \times 10^{11}\text{ m}$  
+    C. $3.08 \times 10^{16}\text{ m}$  
+    D. $3.84 \times 10^8\text{ m}$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($149.6\text{ million km}$).
+
+**Logic:** ($149.6\text{ million km}$).
+
+</details>
+
+**Q12.**
+
+**The SI unit of magnetic field strength ($H$) is:**
+    A. Tesla  
+    B. Weber  
+    C. Ampere per metre  
+    D. Henry
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **C** ($A/m$. Tesla is flux density $B$).
+
+**Logic:** ($A/m$. Tesla is flux density $B$).
+
+</details>
+
+**Q13.**
+
+**Which instrument is used to determine the angle of dip of Earth's magnetic field?**
+    A. Sextant  
+    B. Dip Circle  
+    C. Spherometer  
+    D. Theodolite
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Dip Circle).
+
+**Logic:** (Dip Circle).
+
+</details>
+
+**Q14.**
+
+**In the human body, the electrical recording of brain activity is denoted by:**
+    A. ECG  
+    B. EEG  
+    C. EMG  
+    D. ERG
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** (Electroencephalogram).
+
+**Logic:** (Electroencephalogram).
+
+</details>
+
+**Q15.**
+
+**A pressure of $1\text{ bar}$ in CGS units is:**
+    A. $10^5\text{ dyne/cm}^2$  
+    B. $10^6\text{ dyne/cm}^2$  
+    C. $10^7\text{ dyne/cm}^2$  
+    D. $10^3\text{ dyne/cm}^2$
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** **B** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
+
+**Logic:** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
+
 </details>

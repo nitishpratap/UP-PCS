@@ -3,76 +3,142 @@ hide:
   - toc
 ---
 
-# Topic 15 — Archaeology (पुरातत्व) — Must-Score Facts
+# Topic 15 — Archaeology and Historical Discoveries — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">🎨 Art & Culture &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 15 — Archaeology (पुरातत्व)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 15 — Archaeology and Historical Discoveries</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| 2025–26 | ASI excavated **Mound 7 at Rakhigarhi** (Hisar, Haryana); skeletal remains studied at AnSI Kolkata; aDNA sequenced at **Birbal Sahni Institute of Palaeosciences (BSIP), Lucknow** | Proves continuous genetic and technological lineage in northern India |
+| July 2026 | **Ancient Buddhist Site of Sarnath** (Uttar Pradesh) inscribed on UNESCO World Heritage list; joins Dhamek Stupa, Chaukhandi Stupa, and Ashokan pillar excavations | Premier Buddhist archaeological complex excavated by Cunningham and Marshall |
+| Ongoing | **Keeladi Excavations** (Sivaganga district, Tamil Nadu) on the Vaigai river basin yielded Tamil-Brahmi inscribed potsherds and brick structures dated to **6th century BCE** | Confirms an urbanized Sangam Age contemporary with the Gangetic Second Urbanization |
+| UP Dig | **Sinauli** (Baghpat district, Uttar Pradesh) excavations revealed royal warrior burials containing three full-sized solid-disk wooden war chariots (~2000–1800 BCE) | Pre-Iron Age indigenous military and metallurgical sophistication in Western UP |
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Sarnath** (सारनाथ) was inscribed as a UNESCO World Heritage (विश्व धरोहर) site in **2026**.
-2. **Archaeology** studies material remains through excavation (उत्खनन) and dating. **History** (इतिहास) builds narrative mainly from written sources. The two work together but are not the same method.
-3. **Stratigraphy** (स्तरिकी) uses the law of superposition: a lower undisturbed layer is older. **Typology** (प्रकारिकी) compares artefact styles across sites.
-4. **Vertical** excavation reads time sequence. **Horizontal** excavation reads one-period layout. Wheeler (व्हीलर)’s **box-grid** kept **balks** between squares.
-5. **Radiocarbon (C-14 (कार्बन-14))** dates **organic** carbon only. It does not date a stone seal (मुद्रा) directly. **Thermoluminescence** (ताप-संदीप्ति) dates fired clay or brick.
-6. **ASI** began in **1861** with **Alexander (सिकंदर) Cunningham** as first Director General. It sits under the Culture ministry (संस्कृति). Digging needs licence under **AMASR 1958**.
-7. **Mandi** and **Hulas** are UP. **Rakhigarhi** is Haryana. That state split is a standing prelims trap.
-8. **Bhimbetka** (भीमबेटका) was identified by **V. S. Wakankar (वाकणकर)** in **1957** in **Madhya Pradesh**. It is prehistoric rock shelter (शैल आश्रय) art, not a Harappan city.
-9. **Sanauli** (सनौली) in **Baghpat, UP**, excavated around **2018**, is the late Harappan / OCP **chariot** site. It is not the easternmost Indus city.
-10. **In-situ** (स्थान पर) conservation keeps remains on the mound. **Ex-situ** (स्थानांतरित) moves objects to a museum. Both appear in heritage management stems.
-11. **BSIP Lucknow** is named for aDNA work linked to recent Rakhigarhi skeletal study. The bones themselves are from **Haryana**, not from a UP Indus city.
-12. **Manda** (on the Chenab (चिनाब) in Jammu & Kashmir) marks the northern frontier of the Indus Valley (सिंधु घाटी) Civilisation, whereas **Alamgirpur** (on the Hindon in Meerut, UP) marks its easternmost frontier.
-13. **Harappa** and **Mohenjo-daro** are the twin discovery cities of the 1920s. Later famous Indian sites fill the Gujarat–Rajasthan–Haryana–UP map.
-14. **Kalibangan** is famous for the ploughed field and fire altars in Rajasthan. Do not place Kalibangan in Uttar Pradesh.
-15. **Dholavira** is a Gujarat Harappan city with water systems and a signboard. **Lothal** is the dockyard city of Gujarat. Keep both in Gujarat, not in UP.
-16. **History** reads texts. Archaeology reads layers. Both are needed after the Mauryas.
-17. **Stratigraphy** follows the law of superposition. In an undisturbed trench the **lower layer is older**.
-18. **Typology** dates by shape. A pot type or seal style is matched across mounds before a lab date exists.
-19. **Radiocarbon (C-14)** dates **organic** carbon: charcoal, bone, wood, seed. It does **not** date a stone seal or a copper tool by itself.
-20. **Thermoluminescence (TL) dating** is employed specifically to date crystalline materials subjected to heat, making it the primary method for dating ancient pottery, terracotta figurines, and fired brick.
-21. **Pollen analysis** reconstructs crop and climate. It does not date a metal hoard.
-22. **Epigraphy** reads inscriptions. **Numismatics** reads coins (रूपक). Both are archaeological source-types, not separate ministries.
-23. **ASI** was set up in **1861. Alexander Cunningham** was the first Director General. It sits under **Culture**.
-24. **GPR** and **LiDAR** map buried walls before a spade goes in.
-25. **Narmada (नर्मदा) / Hathnora** yielded a hominin fossil. **Arun Sonakia (1982)** is the named finder. It is palaeoanthropology, not an IVC (नगरीय) city.
-26. **Daya Ram Sahni** opened **Harappa in 1921**. Do not give him Mohenjo-daro.
-27. **R. D. Banerji** opened **Mohenjo-daro in 1922**. Do not give him Harappa.
-28. **John Marshall** announced the Indus civilisation to the world in **1924**. Large ASI clearance at Mohenjo-daro ran into **1931**.
-29. **Mortimer Wheeler** re-dug **Harappa in 1946** with a measured grid. He is not the first IVC excavator.
-30. **Mehrgarh** (मेहरगढ़) in Balochistan is the Neolithic farming precursor. It is not an Indian state site.
-31. **Bruce Foote** found India’s first palaeolith at **Pallavaram (1863)**.
-32. **James Prinsep** deciphered **Brahmi (ब्राह्मी) in 1837**. That unlocked Ashokan edicts. It is epigraphy, not an IVC dig.
-33. **Ajanta** (अजंता) was rediscovered in **1819** by **John Smith (स्मिथ)**, a British officer.
-34. **Nalanda** (नालंदा) was noted by early surveyors. ASI clearance in the twentieth century exposed the mahavihara (महाविहार). UNESCO WHS (यूनेस्को) year is **2016**.
-35. **S. R. Rao** is the Lothal and later Dwarka name.
+1. **Robert Bruce Foote** (1834–1912), a British geologist and archaeologist of the Geological Survey of India, is universally venerated as the **'Father of Indian Prehistory'**; he discovered the **first Paleolithic stone tool in India (a quartzite bifacial hand-axe)** at **Pallavaram** near Chennai (Tamil Nadu) on **30 May 1863**.
+2. **Sir Alexander Cunningham** (1814–1893) was appointed the first Archaeological Surveyor of India upon the founding of the **Archaeological Survey of India (ASI) in 1861** (and its first Director-General in 1871), revered as the **'Father of Indian Archaeology'**; he mapped the travels of Chinese pilgrims Faxian and Xuanzang to identify ancient lost cities (Taxila, Sravasti, Kaushambi).
+3. **Sir John Marshall** served as Director-General of the ASI from 1902 to 1928 under Lord Curzon; he oversaw the formal excavations of **Harappa** (by Daya Ram Sahni in 1921) and **Mohenjo-daro** (by Rakhaldas Banerjee in 1922), officially announcing the discovery of the **Indus Valley Civilization to the world on 20 September 1924** in the *Illustrated London News*.
+4. **Sir Mortimer Wheeler** (Director-General of ASI, 1944–1948) revolutionized Indian field archaeology by introducing the scientific **stratigraphic grid excavation method** (recording soil layers and strata chronology) at Harappa, Taxila, Arikamedu, and Brahmagiri.
+5. The **Belan Valley** (बेलन घाटी), spanning the border of **Mirzapur and Prayagraj districts in southern Uttar Pradesh**, excavated by Prof. G.R. Sharma and the Department of Ancient History of Allahabad University, is the **only archaeological region in India that preserves an unbroken, continuous stratigraphic sequence of all Stone Age cultural stages**: Lower Paleolithic &rarr; Middle Paleolithic &rarr; Upper Paleolithic &rarr; Mesolithic &rarr; Neolithic.
+6. A world-famous carved **Bone Mother Goddess (हड्डी की मातृदेवी की मूर्ति)**, belonging to the **Upper Paleolithic period** (~20,000 BCE), was discovered at **Lohanda Nala** in the Belan Valley of Uttar Pradesh (now housed in the National Museum, New Delhi).
+7. **Koldihwa** (कोलडिहवा), situated on the banks of the Belan River in **Prayagraj district, Uttar Pradesh**, yielded the earliest radiocarbon-dated evidence of domesticated **cultivated rice (*Oryza sativa*) in the Indian subcontinent** (~6500–5000 BCE), found embedded in the clay matrix of cord-impressed Neolithic pottery.
+8. Recent excavations at **Lahuradewa** (लहुरादेवा) in **Sant Kabir Nagar district, Uttar Pradesh**, pushed the antiquity of domesticated rice cultivation in South Asia back to **~8000–7000 BCE**, accompanied by carbonized grains and circular mud-and-reed huts.
+9. **Chopani Mando** (चोपनी मांडो) in the Belan Valley (Prayagraj, UP) provides the historic transition from wild to cultivated food-gathering and contains the **earliest evidence of handmade pottery** in the world dating to the Late Mesolithic–Proto-Neolithic phase.
+10. The trio of celebrated Mesolithic sites in **Pratapgarh district, Uttar Pradesh** — **Sarai Nahar Rai**, **Mahadaha**, and **Damdama** — excavated by Allahabad University:
+    - Yielded the earliest evidence of **microlithic blade tools**, stone hearths, and deliberate human burials in the Gangetic plains.
+    - **Sarai Nahar Rai:** Oldest human skeletal remains in the Ganga valley (~8000 BCE); hearths with charred animal bones.
+    - **Mahadaha:** Abundant bone and antler ornaments (necklaces, earrings) worn by buried individuals, and animal bone implements.
+    - **Damdama:** Total of 41 human graves, including a unique **joint grave containing a male and female buried together (Double Burial)**.
+11. **Atranjikhera** (अतरंजीखेड़ा) in **Etah district, Uttar Pradesh**, on the Kali Nadi, excavated by R.C. Gaur, provides a complete cultural sequence from **Ochre Coloured Pottery (OCP) to Painted Grey Ware (PGW) to Northern Black Polished Ware (NBPW)**, yielding the **earliest stratified evidence of iron smelting furnaces and agricultural iron slag (~1000 BCE)** in the Ganga Valley.
+12. **Hastinapur** (हस्तिनापुर) in **Meerut district, Uttar Pradesh**, excavated in 1950–1952 by legendary archaeologist **Prof. B.B. Lal**, identified the classic **Painted Grey Ware (PGW)** culture with the Mahabharata period; Lal identified a massive **ancient river flood layer** that destroyed the PGW settlement, corroborating the Puranic account that the Pandava king Nichakshu shifted his imperial capital from flooded Hastinapur to **Kaushambi**.
+13. **Kaushambi** (कौशाम्बी), located on the Yamuna river near Prayagraj, was the prosperous capital of the **Vatsa Mahajanapada** (under King Udayana); excavations by G.R. Sharma uncovered the monumental **Ghositarama Buddhist Monastery** (frequented by Buddha), a massive defensive brick rampart with battered bastions, and a sacrificial altar shaped like a flying eagle (*Syanachiti*).
+14. **Piprahwa** (पिपरहवा) in **Siddharthnagar district, Uttar Pradesh**, excavated by W.C. Peppe in 1898 and K.M. Srivastava (ASI) in the 1970s, yielded steatite relic caskets containing charred bone fragments inscribed in ancient Ashokan Brahmi:
+    - *"Iyam salila nidhane Budhasa bhagavate sakiyanam"* (This relic casket of the divine Buddha is of the Shakya clan), decisively proving that Piprahwa is ancient **Kapilavastu**, the royal capital of the Shakyas where Siddhartha Gautama grew up.
+15. **Ahichchhatra** (अहिच्छत्र) in **Bareilly district, Uttar Pradesh**, the ancient capital of the **Northern Panchala Kingdom**, was excavated by Cunningham and K.N. Dikshit, revealing monumental multi-tiered terraced brick temples and the world-famous life-sized Gupta **terracotta statues of the River Goddesses Ganga and Yamuna** (now in the National Museum, New Delhi).
+16. **Bhimbetka Rock Shelters** in Raisen district, **Madhya Pradesh**, discovered on **6 December 1957 by Dr. Vishnu Shridhar Wakankar**, comprise over 750 sandstone shelters containing prehistoric cave paintings spanning the Upper Paleolithic, Mesolithic, and Chalcolithic eras; inscribed on the UNESCO World Heritage list in 2003.
+17. **Burzahom** (बुर्ज़होम / Place of Birch) near Srinagar in **Kashmir**, excavated by T.N. Khazanchi, is a famous Neolithic site characterized by:
+    - Deep subterranean **Pit Dwellings** (mud-plastered circular pits with steps cut into loess soil to survive harsh freezing winters).
+    - Polished stone celts and specialized bone tools.
+    - Unique burials of humans along with their pet animals, notably **dogs buried alongside their masters in domestic graves**.
+    - Absence of microliths.
+18. **Gufkral** (गुफकराल / 'Cave of the Potter') in Pulwama, Kashmir, is an allied Neolithic site showing the transition from an aceramic (pre-pottery) pastoral stage to an agricultural pottery phase with polished bone tools.
+19. **Mehrgarh** (मेहरगढ़) in the Kachi plain of Balochistan (Pakistan), excavated by Jean-François Jarrige on the Bolan River, is the **oldest agricultural Neolithic settlement in South Asia (~7000 BCE)**; it contains the earliest evidence of settled mud-brick farming villages, domestication of cattle, sheep, and goats, cultivation of wheat and barley, and the earliest evidence of **dentistry** (drilled human molar teeth).
+20. **Arikamedu** (अरिकामेडु) near Puducherry, excavated by Sir Mortimer Wheeler in 1945, was a premier Indo-Roman coastal trading port (*Poduke* in the Periplus); excavations revealed massive Roman brick warehouses, imported Roman **Amphorae** jars containing Mediterranean wine and olive oil, fine red-glazed **Arretine Ware** stamped with Roman potter seals, and Roman intaglio gemstones.
+21. **Brahmagiri** (Chitradurga district, Karnataka), excavated by Wheeler in 1947, provided the benchmark chronological stratigraphy for South India, demonstrating the cultural succession of **Microlithic &rarr; Neolithic-Chalcolithic &rarr; Megalithic (Iron Age cist graves) &rarr; Early Historical (Satavahana)**.
+22. **Inamgaon** (Pune district, Maharashtra), on the Ghod River, is the most extensively excavated settlement of the **Jorwe Culture (Late Chalcolithic, ~1400–700 BCE)**, excavated by H.D. Sankalia; it revealed mud houses, grain silos, an irrigation canal with an earthen embankment, terracotta mother goddess idols, and adult burials placed inside large urns buried in house floors in a north-south orientation with feet chopped off (to prevent the ghost from wandering).
 
+## ⏱️ Timeline / Chronology
 
----
+```
+~7000 BCE    : MEHRGARH (Balochistan; Oldest Neolithic farming village in South Asia; wheat, barley, mud houses)
+~8000–6500 BCE: LAHURADEWA & KOLDIHWA (Belan Valley, UP; Earliest domesticated rice cultivation)
+        │
+~2500–1900 BCE: HARAPPAN ARCHAEOLOGY (Excavations of Harappa, Mohenjo-daro, Lothal, Dholavira, Alamgirpur)
+~2000–1800 BCE: SINAULI (Baghpat, UP; Bronze Age royal chariots, copper swords, warrior burials)
+        │
+~1000 BCE    : ATRANJIKHERA (Etah, UP; Earliest stratified iron smelting in Ganga Valley; PGW culture)
+~900 BCE     : HASTINAPUR (Meerut, UP; B.B. Lal's Mahabharata excavations; flood layer)
+        │
+     1837 CE : JAMES PRINSEP deciphers the Ashokan Brahmi and Kharosthi scripts
+     1861 CE : ARCHAEOLOGICAL SURVEY OF INDIA (ASI) founded; Alexander Cunningham appointed DG
+     1863 CE : ROBERT BRUCE FOOTE discovers first Paleolithic hand-axe at Pallavaram (Tamil Nadu)
+     1898 CE : W.C. PEPPE excavates the sacred Shakya relic casket at PIPRAHWA (Kapilavastu)
+     1921–24 : JOHN MARSHALL announces discovery of INDUS VALLEY CIVILIZATION (Harappa & Mohenjo-daro)
+     1945–47 : MORTIMER WHEELER introduces modern stratigraphic excavation grid (Arikamedu, Harappa)
+     1957 CE : V.S. WAKANKAR discovers the prehistoric rock paintings at BHIMBETKA
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Major Archaeological Sites of Uttar Pradesh Matrix
+
+| Ancient Site | District / River | Excavator / Institution | Distinctive Archaeological Finds & Significance |
+|---|---|---|---|
+| **Belan Valley** | Mirzapur / Prayagraj | Prof. G.R. Sharma (AU) | Continuous sequence of all Stone Ages; bone Mother Goddess |
+| **Koldihwa** | Prayagraj (Belan river) | Allahabad University | **Earliest cultivated rice (*Oryza sativa*)** (~6500 BCE) in subcontinent |
+| **Lahuradewa** | Sant Kabir Nagar | UP State Archaeology | Carbonized rice grains dated back to ~8000–7000 BCE; early huts |
+| **Chopani Mando** | Prayagraj (Belan river) | Allahabad University | Earliest evidence of handmade pottery; wild to domesticated transition |
+| **Damdama** | Pratapgarh (Sai river) | Allahabad University | Mesolithic burials; **Double burial** of male and female in single grave |
+| **Mahadaha** | Pratapgarh | Allahabad University | Mesolithic bone and antler ornaments, animal butchering floor |
+| **Sarai Nahar Rai**| Pratapgarh | Allahabad University | Oldest human skeletons in Ganga valley; charred animal hearths |
+| **Atranjikhera** | Etah (Kali river) | Prof. R.C. Gaur (AMU) | **Earliest stratified iron smelting** (~1000 BCE); complete OCP-PGW-NBPW |
+| **Hastinapur** | Meerut (Ganga basin) | Prof. B.B. Lal (ASI) | Mahabharata PGW culture; ancient flood stratum confirming Puranas |
+| **Kaushambi** | Prayagraj / Kaushambi | Prof. G.R. Sharma (AU) | Capital of Vatsa; **Ghositarama Monastery**; brick defense ramparts |
+| **Piprahwa** | Siddharthnagar | W.C. Peppe / K.M. Srivastava| Relic casket inscribed to Buddha; identified with **Kapilavastu** |
+| **Sinauli** | Baghpat (Yamuna basin) | Dr. S.K. Manjul (ASI) | **Three Bronze Age wooden war chariots**, copper swords, helmets |
+| **Alamgirpur** | Meerut (Hindon river) | Y.D. Sharma (ASI) | Easternmost boundary of Indus Valley Civilization; cloth impressions |
+| **Ahichchhatra** | Bareilly (Ramganga) | Cunningham / K.N. Dikshit | Panchala capital; life-size Gupta terracotta statues of **Ganga & Yamuna** |
+
+### 2. Landmark Pioneers of Indian Archaeology
+
+| Archaeologist | Lifetime | Title / Position | Historic Breakthrough Contribution |
+|---|---|---|---|
+| **James Prinsep** | 1799–1840 | Assay Master, Calcutta Mint | **Deciphered the Ashokan Brahmi and Kharosthi scripts (1837)** |
+| **Sir Alexander Cunningham**| 1814–1893 | First DG of ASI (1861/1871) | **'Father of Indian Archaeology'**; surveyed Buddhist routes, Sarnath, Sanchi |
+| **Robert Bruce Foote** | 1834–1912 | Geologist (GSI) | **'Father of Indian Prehistory'**; discovered first Paleolithic tool (Pallavaram 1863) |
+| **Sir John Marshall** | 1876–1958 | Director-General, ASI (1902–28)| Announced Indus Civilization (1924); directed excavations at Harappa, Mohenjo-daro, Taxila |
+| **Sir Mortimer Wheeler** | 1890–1976 | Director-General, ASI (1944–48)| Introduced **scientific stratigraphic grid excavation**; excavated Arikamedu, Brahmagiri |
+| **Prof. B.B. Lal** | 1921–2022 | Director-General, ASI (1968–72)| Excavated **Hastinapur** (PGW/Mahabharata), Kalibangan, and Ayodhya |
+| **Dr. V.S. Wakankar** | 1919–1988 | Vikram University, Ujjain | Discovered the prehistoric painted **Bhimbetka Caves (1957)** |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+| Pair A | Pair B | Key Difference | Hindi Key |
 |---|---|---|---|
-| Archaeology | History | Material remains and excavation vs written narrative | पुरातत्व / इतिहास |
-| Stratigraphy | Typology | Layer age vs artefact-style comparison | स्तरिकी / प्रकारिकी |
-| Vertical excavation | Horizontal excavation | Time sequence vs one-period layout | ऊर्ध्वाधर / क्षैतिज |
-| C-14 | Thermoluminescence | Organic carbon vs fired clay/brick | कार्बन-14 / ताप-संदीप्ति |
-| Sahni 1921 | Banerji 1922 | **Harappa** vs **Mohenjo-daro** | साहनी / बनर्जी |
-| Marshall | Wheeler | Announces IVC / mass dig vs **1946** scientific grid | मार्शल / व्हीलर |
-| Rakhigarhi | Alamgirpur | **Haryana**, largest vs **Meerut UP**, easternmost | राखीगढ़ी / आलमगीरपुर |
-| Lothal | Dholavira | Dockyard vs reservoirs and signboard (both Gujarat) | लोथल / धोलावीरा |
-| In-situ | Ex-situ | Conserve on the mound vs shift to a museum | स्थान पर / स्थानांतरित |
-| Bhimbetka | Harappa | Prehistoric rock shelter, **MP** vs IVC city | भीमबेटका / हड़प्पा |
+| **Robert Bruce Foote** | **Alexander Cunningham** | Foote = **'Father of Indian Prehistory'** (discovered first stone tool at Pallavaram 1863); Cunningham = **'Father of Indian Archaeology'** (founder-DG of ASI 1861) | रॉबर्ट ब्रूस फुट (प्रागैतिहास के पिता) / कनिंघम (पुरातत्व के पिता) |
+| **Koldihwa (UP)** | **Mehrgarh (Balochistan)** | Koldihwa = Earliest evidence of **cultivated rice** (~6500 BCE); Mehrgarh = Earliest evidence of **settled agriculture (wheat & barley) and village life** (~7000 BCE) | कोलडिहवा (चावल का प्राचीनतम साक्ष्य) / मेहरगढ़ (गेहूं-जौ, प्राचीनतम बस्ती) |
+| **Lahuradewa (UP)** | **Koldihwa (UP)** | Lahuradewa (Sant Kabir Nagar) = Pushed rice antiquity back to **~8000–7000 BCE**; Koldihwa (Prayagraj) = Classic Belan Valley Neolithic rice site (~6500 BCE) | लहुरादेवा (8000-7000 ई.पू. धान) / कोलडिहवा (6500 ई.पू. धान) |
+| **Sarai Nahar Rai** | **Damdama** | Sarai Nahar Rai = Earliest **human skeletons and hearths** in Ganga valley; Damdama = Contains **41 burials including a unique Double Burial (male + female together)** | सराय नाहर राय (कंकाल व चूल्हे) / दमदमा (युगल शवाधान) |
+| **Piprahwa (UP)** | **Rummindei (Nepal)** | Piprahwa = Buddha's **Shakya relic caskets**, identified with **Kapilavastu**; Rummindei = Ashokan pillar marking the exact **birthplace of Buddha in Lumbini** | पिपरहवा (कपिलवस्तु, अस्थि कलश) / रुम्मिनदेई (लुम्बिनी, बुद्ध जन्म स्तंभ) |
+| **Burzahom (Kashmir)** | **Gufkral (Kashmir)** | Burzahom = Famous for **pit dwellings and dogs buried with humans**; Gufkral = Neolithic cave site of the **potters** showing transition to pottery agriculture | बुर्ज़होम (गर्त आवास, मानव संग कुत्ता) / गुफकराल (कुम्हार की गुफा) |
+| **Atranjikhera (UP)** | **Arikamedu (Puducherry)** | Atranjikhera = Earliest stratified **iron smelting and PGW culture in UP**; Arikamedu = **Indo-Roman trading port** with Roman wine amphorae and Arretine ware | अतरंजीखेड़ा (उ.प्र. लौह प्रगलन) / अरिकामेडु (पुदुचेरी, रोमन व्यापारिक पत्तन) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Prehistoric Agricultural Breakthroughs in UP:
+- **Rice King 1:** Lahuradewa (~8000 BCE — Oldest rice)
+- **Rice King 2:** Koldihwa (~6500 BCE — Belan Valley cord-impressed pottery)
+- **Iron Pioneer:** Atranjikhera (~1000 BCE — First iron furnace)
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+### 2. Pratapgarh Mesolithic Trio: `S-M-D`
+- **S**arai Nahar Rai (Skeletons & battle trauma)
+- **M**ahadaha (Bone & antler necklaces)
+- **D**amdama (**D**ouble burial / Pair in one grave)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+### 3. Four Archaeological Titans:
+- **C**unningham = **C**hief of ASI (1861)
+- **F**oote = **F**irst stone tool (1863)
+- **M**arshall = **M**ohenjo-daro / Indus announcement (1924)
+- **W**heeler = **W**all/Layer stratigraphy (1944)
+
+## 🎯 High-Yield PYQ Drill
 
 **Q1.**
 
@@ -377,3 +443,4 @@ D. 2 4 1 3
 **Logic:** Lab location does not move Rakhigarhi into UP.
 
 </details>
+

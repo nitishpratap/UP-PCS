@@ -3,59 +3,154 @@ hide:
   - toc
 ---
 
-# Topic 3 — Regional Kingdoms (Sharqi (शर्की), Kashmir, Vijayanagara (विजयनगर), Bahmani & Deccan (दक्कन)) — Must-Score Facts
+# Topic 3 — Regional Kingdoms (विजयनगर, बहमनी व प्रांतीय राज्य) — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">🏰 Medieval India &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 3 — Regional Kingdoms (Sharqi (शर्की), Kashmir, Vijayanagara (विजयनगर), Bahmani & Deccan (दक्कन))</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 3 — Regional Kingdoms (विजयनगर, बहमनी व प्रांतीय राज्य)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2024** | **Hampi Heritage Conservation (UNESCO):** Development of electric vehicle tourism corridor and architectural stabilization of **Vittala Temple Stone Chariot** | UPPCS tests Vijayanagara capital (Hampi / Vijayanagara on Tungabhadra), Vittala temple musical pillars, and King Krishnadeva Raya |
+| **2023–2024** | **Jaunpur Sharqi Circuit (UP Tourism):** Heritage lighting and preservation at **Atala Masjid** and **Shahi Pul** | Jaunpur was the capital of the Sharqi Sultanate (*Siraj-i-Hind / Shiraz of the East*), founded by Malik Sarwar; tested heavily in UP Special |
+| **2023** | **Golconda Fort & Qutb Shahi Tombs:** Restoration of Baolis (stepwells) at Qutb Shahi necropolis in Hyderabad won **UNESCO Asia-Pacific Award of Distinction** | Focus on Qutb Shahi architecture, founder Quli Qutb Shah, and Charminar builder Muhammad Quli Qutb Shah (1591 CE) |
+| **2024** | **Mandu Heritage Festival (MP Tourism):** Celebrated at Jahaz Mahal, Hindola Mahal, and **Hoshang Shah's Marble Tomb** | Hoshang Shah's tomb is India's first complete marble structure; prototype for Taj Mahal |
+| **2023** | **Kashmir Shaivism & Syncretic Culture:** International seminars commemorating the syncretic legacy of Sultan **Zain-ul-Abidin (Budshah)** | Zain-ul-Abidin abolished Jizya, banned cow slaughter, repaired temples, and translated Rajatarangini into Persian |
 
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Firuz Shah** founded the city of **Jaunpur** (जौनपुर) in memory of cousin **Jauna Khan (Muhammad bin Tughlaq (मुहम्मद बिन तुगलक))**; **Malik Sarwar (Khwaja-i-Jahan / Malik-us-Sharq)** made it independent (**~1394**); **Ibrahim (इब्राहिम) Shah** made it **Siraj/Shiraz-i-Hind**.
 2. **Atala Masjid** (अटाला मस्जिद) and **Lal Darwaza Masjid** are classic **Sharqi** (शर्की) monuments at Jaunpur in eastern **UP**.
-3. **Malik Muhammad Jaisi** composed **Padmavat** (पद्मावत) in the Jaunpur cultural circle.
-4. **Zain-ul-Abidin** (**1420–1470**), called **Bud Shah**, abolished **jaziya** and cow slaughter and restored temples in Kashmir.
-5. **Sriya Bhatt** was Zain-ul-Abidin’s Hindu minister; **Zaina Lanka** was his island palace on **Wular Lake**.
-6. **Sikandar Shah** of Kashmir is the temple-destruction contrast (**Butshikan**) to tolerant **Zain-ul-Abidin**.
-7. **Vijayanagara** (विजयनगर) was founded in **1336** by **Harihara I** and **Bukka I** (Sangama) with capital at **Hampi** (हम्पी) on the Tungabhadra (तुंगभद्रा); tradition links guidance to **Vidyaranya**.
-8. **Deva Raya I / II** mark Sangama military peak against Bahmani; **Saluva Narasimha** founded the Saluva house; **Krishnadevaraya** (कृष्णदेवराय) (**1509–1529**, Tuluva) wrote **Amuktamalyada** (आमुक्तमाल्यदा) and patronised the **Ashtadiggajas**.
-9. **Bahmani** was founded in **1347** by **Hasan Gangu** as **Alauddin Bahman Shah**; the capital moved **Gulbarga → Bidar**.
-10. **Bijapur (Adil Shahi)** holds **Gol Gumbaz (गोल गुम्बद) / Gol Gumbad** (tomb of **Muhammad Adil Shah**; among the world's largest domes); **Ibrahim Adil Shah II** (**Jagatguru / Ablababa**) wrote **Kitab-i-Nauras** (किताब-ए-नौरस), founded **Nauraspur**; **Firishta** (फरिश्ता) worked at his court.
-11. **Golkonda (Qutb (कुतुब) Shahi)** later centred on **Hyderabad** (हैदराबाद); **Abul Hasan Qutb Shah** fell to Aurangzeb (औरंगजेब) in **1687**.
-12. **Ahmadnagar** = Nizam (निजाम) Shahi; **Bidar** = Barid (बरीद-ए-मुमालिक) Shahi; **Berar** = Imad Shahi.
-13. **Talikota (1565)** Cause–Course–Result: Rama Raya (रामा राय)’s Deccan overreach after Krishnadevaraya → Deccan alliance crushed Vijayanagara at Rakkasa-Tangadi (**23 Jan 1565**) → **Hampi** sacked and the empire ceased to be a great power.
-14. **Raichur (1520)** was a **Krishnadevaraya** victory — do not confuse it with Talikota **1565**.
-15. **Riyaz-ul-Insha** is Gawan’s letters; **Riyaz-us-Salatin** (रियाज-उस-सलातीन) is Bengal history (इतिहास) — never swap the two.
-16. **Tin Darwaza** stands at **Bidar Fort**, not Ahmedabad (अहमदाबाद); Ahmedabad’s gate is **Teen Darwaza**. **Lal Darwaza–Jaunpur** is correctly matched.
-17. **Vitthala Temple** at Hampi is Vijayanagara; **Charminar** (चारमीनार) is Qutb Shahi Hyderabad.
-18. **Kitab-i-Nauras** is Bijapur (Ibrahim Adil Shah II); **Amuktamalyada** is Krishnadevaraya’s Telugu epic.
-19. **Manucharitramu** by **Allasani Peddana** belongs to Krishnadevaraya’s Ashtadiggajas circle.
-20. **Burhan-e-Masir** is an Ahmadnagar chronicle; **Mirat-e-Sikandari** is a Gujarat narrative.
-21. **Muzaffar Shah (1407)** founded Gujarat; **Mahmud Begada** took **Champaner** and **Girnar**; **Bahadur Shah** conceded **Diu** to the Portuguese.
-22. **Yusuf Adil Shah** founded **Bijapur**; **Malik Ahmad** founded **Ahmadnagar** — do not swap founders.
-23. **Jami Masjid (Jaunpur)** joins Atala and Lal Darwaza in the Sharqi UP monument set.
-24. **Abul Hasan Tana Shah** is the last Qutb Shah memory paired with Aurangzeb’s **1687** Golkonda annexation.
-25. **Ibrahim Shah Sharqi**’s cultural peak (**Siraj-i-Hind**) is the UP Sharqi identity line before Lodi annexation.
-26. **Chand Bibi** of Ahmadnagar is the Deccan defence memory against Akbar’s late campaigns — do not place her at Talikota **1565**.
-27. **Firuz Shah Tughlaq** founded the **city of Jaunpur** in memory of his cousin **Jauna Khan** (**Muhammad bin Tughlaq** (मुहम्मद बिन तुगलक)).
-28. **Ibrahim Shah Sharqi (1402–1440)** was the greatest Sharqi ruler. **Sharqi style** architecture flowered; Jaunpur was called **Siraj-i-Hind / Shiraz-i-Hind** (Shiraz of the East) as a learning and culture centre.
-29. **Vidyapati** described Jaunpur and Ibrahim Shah in *Kirtilata*.
-30. **Mubarak Shah** followed Malik Sarwar; later **Mahmud Shah** faced Lodi pressure.
-31. **Hussain Shah** was the last Sharqi sultan. **Bahlul Lodi** defeated him and reattached Jaunpur to Delhi (**1479** in Ghatnachakra; many coaching keys also use **1484**).
-32. **Malik Muhammad Jaisi** composed **Padmavat** in this cultural circle.
-33. **Zain-ul-Abidin (1420–1470)** reversed Sikandar’s intolerant policies and earned the title **Bud Shah**. He is also remembered as the **Akbar of Kashmir** for liberal religion, learning, and crafts.
-34. **Mahmud Begada** (born **Fateh Khan**, ruling from **1458**; title **Abul Fateh Mahmud**) is the famous later Gujarat sultan.
-35. **Bahadur Shah** later allowed the **Portuguese** a fort at **Diu** by the **1535** treaty against Mughal danger, then regretted the concession.
+3. Last Sharqi ruler **Hussain Shah** fell to **Bahlul Lodi** (**1479/1484** keys); **Vidyapati**’s *Kirtilata* praises Jaunpur under Ibrahim.
+4. **Malik Muhammad Jaisi** composed **Padmavat** (पद्मावत) in the Jaunpur cultural circle.
+5. **Zain-ul-Abidin** (**1420–1470**), called **Bud Shah**, abolished **jaziya** and cow slaughter and restored temples in Kashmir.
+6. **Sriya Bhatt** was Zain-ul-Abidin’s Hindu minister; **Zaina Lanka** was his island palace on **Wular Lake**.
+7. **Sikandar Shah** of Kashmir is the temple-destruction contrast (**Butshikan**) to tolerant **Zain-ul-Abidin**.
+8. **Vijayanagara** (विजयनगर) was founded in **1336** by **Harihara I** and **Bukka I** (Sangama) with capital at **Hampi** (हम्पी) on the Tungabhadra (तुंगभद्रा); tradition links guidance to **Vidyaranya**.
+9. Vijayanagara dynasties ran **Sangama → Saluva → Tuluva → Aravidu**.
+10. **Deva Raya I / II** mark Sangama military peak against Bahmani; **Saluva Narasimha** founded the Saluva house; **Krishnadevaraya** (कृष्णदेवराय) (**1509–1529**, Tuluva) wrote **Amuktamalyada** (आमुक्तमाल्यदा) and patronised the **Ashtadiggajas**.
+11. Vijayanagara used the **Nayankara / amara** system and celebrated the **Mahanavami** festival; do not equate Nayankara with Delhi Sultanate (दिल्ली सल्तनत) **iqta** (इक्ता).
+12. **Bahmani** was founded in **1347** by **Hasan Gangu** as **Alauddin Bahman Shah**; the capital moved **Gulbarga → Bidar**.
+13. Bahmani politics pitted **Afaqis (foreigners)** against **Deccanis (locals)**; **Mahmud Gawan** (Afaqi wazir) wrote **Riyaz-ul-Insha** (रियाज-उल-इंशा), organised **eight tarafs**, and was executed in **1481**.
+14. After **1518** Bahmani split into five Deccan Sultanates: **Bijapur (बीजापुर), Golkonda, Ahmadnagar, Bidar, and Berar**.
+15. **Bijapur (Adil Shahi)** holds **Gol Gumbaz (गोल गुम्बद) / Gol Gumbad** (tomb of **Muhammad Adil Shah**; among the world's largest domes); **Ibrahim Adil Shah II** (**Jagatguru / Ablababa**) wrote **Kitab-i-Nauras** (किताब-ए-नौरस), founded **Nauraspur**; **Firishta** (फरिश्ता) worked at his court.
+16. **Golkonda (Qutb (कुतुब) Shahi)** later centred on **Hyderabad** (हैदराबाद); **Abul Hasan Qutb Shah** fell to Aurangzeb (औरंगजेब) in **1687**.
+17. **Ahmadnagar** = Nizam (निजाम) Shahi; **Bidar** = Barid (बरीद-ए-मुमालिक) Shahi; **Berar** = Imad Shahi.
+18. **Talikota (1565)** Cause–Course–Result: Rama Raya (रामा राय)’s Deccan overreach after Krishnadevaraya → Deccan alliance crushed Vijayanagara at Rakkasa-Tangadi (**23 Jan 1565**) → **Hampi** sacked and the empire ceased to be a great power.
+19. **Raichur (1520)** was a **Krishnadevaraya** victory — do not confuse it with Talikota **1565**.
+20. **Riyaz-ul-Insha** is Gawan’s letters; **Riyaz-us-Salatin** (रियाज-उस-सलातीन) is Bengal history (इतिहास) — never swap the two.
+21. **Tin Darwaza** stands at **Bidar Fort**, not Ahmedabad (अहमदाबाद); Ahmedabad’s gate is **Teen Darwaza**. **Lal Darwaza–Jaunpur** is correctly matched.
+22. Among these regional states, only **Sharqi Jaunpur** has its capital in modern **Uttar Pradesh** (उत्तर प्रदेश).
+23. Chronology spine: Vijayanagara **1336** → Bahmani **1347** → Sharqi **1394** → Zain-ul-Abidin **1420–1470** → Gawan executed **1481** → Jaunpur annexed **1484** → Bahmani split **1518** → Talikota **1565**.
+24. **Vitthala Temple** at Hampi is Vijayanagara; **Charminar** (चारमीनार) is Qutb Shahi Hyderabad.
+25. **Kitab-i-Nauras** is Bijapur (Ibrahim Adil Shah II); **Amuktamalyada** is Krishnadevaraya’s Telugu epic.
+26. **Manucharitramu** by **Allasani Peddana** belongs to Krishnadevaraya’s Ashtadiggajas circle.
+27. **Burhan-e-Masir** is an Ahmadnagar chronicle; **Mirat-e-Sikandari** is a Gujarat narrative.
+28. **Muzaffar Shah (1407)** founded Gujarat; **Mahmud Begada** took **Champaner** and **Girnar**; **Bahadur Shah** conceded **Diu** to the Portuguese.
+29. **Yusuf Adil Shah** founded **Bijapur**; **Malik Ahmad** founded **Ahmadnagar** — do not swap founders.
+30. **Jami Masjid (Jaunpur)** joins Atala and Lal Darwaza in the Sharqi UP monument set.
+31. Vijayanagara–Bahmani rivalry centred on the **Raichur Doab** and Krishna–Tungabhadra frontier long before Talikota.
+32. Deccan Sultanate common pattern used Persianate courts with local Telugu/Marathi/Kannada intermediaries under the five successor houses.
+33. **Abul Hasan Tana Shah** is the last Qutb Shah memory paired with Aurangzeb’s **1687** Golkonda annexation.
+34. **Ibrahim Shah Sharqi**’s cultural peak (**Siraj-i-Hind**) is the UP Sharqi identity line before Lodi annexation.
+35. **Chand Bibi** of Ahmadnagar is the Deccan defence memory against Akbar’s late campaigns — do not place her at Talikota **1565**.
+36. Post-Talikota Aravidu rulers shifted power southward; Hampi ceased to be the imperial capital after the **1565** sack.
+37. **Vijayanagara Coinage:** The standard gold coin of Vijayanagara was the **Varaha (वराह / Pagoda)** weighing approximately **52 grains**, depicting images of Hindu deities like Venkateshwara, Shiva-Parvati, and Gandabherunda (double-headed eagle).
+38. **Ayagar System (आयंगार व्यवस्था):** In Vijayanagara village administration, a body of **12 hereditary village functionaries** (known as Ayagars) conducted civil, judicial, and revenue duties, remunerated through tax-free village land grants called **Manya**.
+39. **Nayankara System (नायंकर व्यवस्था):** The military-feudal system where the king granted territories called **Amaram** to military commanders (**Amaranayakas**) in lieu of service, troop maintenance, and fixed annual tribute to the royal treasury.
+40. **Ibrahim Adil Shah II (इब्राहिम आदिल शाह द्वितीय)** of Bijapur was renowned for his profound religious syncretism, earning the popular titles **Jagat Guru (जगत गुरु)** and **Abla Baba (अबला बाबा / protector of the poor)**; he authored the musical treatise ***Kitab-i-Navras*** in Dakhini Urdu.
+41. **Gol Gumbaz (गोल गुंबद)** at Bijapur, the mausoleum of Muhammad Adil Shah, features one of the largest single domes in the world (diameter 44 m) constructed without external pillar support, celebrated for its acoustic **Whispering Gallery**.
+42. **Charminar (चारमीनार)** at Hyderabad was constructed in **1591 CE** by the fifth Qutb Shahi Sultan, **Muhammad Quli Qutb Shah**, to commemorate the eradication of a devastating plague epidemic and establish his new capital.
+43. **Malik Ambar (मलिक अंबर)**, the Ethiopian (*Habshi*) prime minister of Ahmadnagar, pioneered guerrilla warfare (**Bargigiri / बर्गीगिरी**) in the Deccan against Mughal forces and introduced a systematic land revenue assessment based on the **Kathi** measuring rod.
+44. **Zain-ul-Abidin (जैन-उल-आबिदीन)** constructed the artificial island **Zaina Lanka (जैना लंका)** in Wular Lake, established the translation bureau *Dar-ul-Tarjuma*, and was affectionately designated by Kashmiris as **Budshah (बड़शाह / Great King)**.
+45. **Atala Masjid (अटाला मस्जिद)** in Jaunpur, completed in **1408 CE** by Sultan **Ibrahim Shah Sharqi**, represents the pinnacle of the Sharqi architectural style, featuring towering sloping pylon gateways (*propylons*) and no minarets.
+46. **Hoshang Shah's Tomb** at **Mandu (Madhya Pradesh)** is celebrated as India's **earliest monumental edifice built entirely of white marble**, serving as an architectural prototype for Shah Jahan's Taj Mahal.
+47. **Adina Mosque (अदीना मस्जिद)** at **Pandua (Bengal)**, constructed by Sultan Sikandar Shah in **1374 CE**, was the largest mosque in the entire Indian subcontinent, housing over 370 domed bays supported by basalt pillars.
+48. **Alauddin Husain Shah** of Bengal was an enlightened patron of Bengali literature, conferring the titles ***Gunaraja Khan*** on Maladhar Basu (translator of Bhagavata into *Sri Krishna Vijaya*) and ***Satyaraja Khan*** on his son.
+49. **Nicolo de Conti (निकोलो डी कोंटी)**, an Italian merchant, visited Vijayanagara in **1420 CE** during the reign of **Deva Raya I**, leaving detailed records of the city's vast 60-mile perimeter and the Diwali and Navaratri festivals.
+50. **Abdur Razzaq (अब्दुर रज्जाक)**, the Persian ambassador from Timurid ruler Shah Rukh of Samarkand, visited Vijayanagara in **1443 CE** during the reign of **Deva Raya II**, writing: *'The eye has not seen, nor the ear heard of any place to resemble Vijayanagara upon the whole earth.'*
 
+## ⏱️ Timeline / Chronology
 
----
+```
+[1336 CE] Vijayanagara Empire founded by Harihara I & Bukka I on Tungabhadra (Sangama dynasty)
+   │
+[1347 CE] Bahmani Kingdom founded by Alauddin Hasan Bahman Shah (Hasan Gangu) at Gulbarga
+   │
+[1394 CE] Sharqi Sultanate established at Jaunpur by Malik Sarwar (Shiraz of the East)
+   │
+[1420–1470 CE] Golden Age of Kashmir under Sultan Zain-ul-Abidin (Akbar of Kashmir / Budshah)
+   │
+[1481 CE] Mahmud Gawan executed; Bahmani Kingdom disintegrates into Five Deccan Sultanates
+   │       └── Ahmadnagar (1490), Bijapur (1489), Berar (1490), Bidar (1492), Golconda (1512)
+   │
+[1509–1529 CE] Zenith of Vijayanagara under Krishnadeva Raya (Tuluva Dynasty)
+   │
+[23 Jan 1565] Battle of Talikota (Rakshasi-Tangadi): Deccan Alliance crushes Vijayanagara
+   │           (Bijapur + Ahmadnagar + Golconda + Bidar; BERAR WAS ABSENT!)
+   │
+[1591 CE] Charminar built in Hyderabad by Muhammad Quli Qutb Shah
+   │
+[1686–1687 CE] Mughal annexation of Bijapur (1686) and Golconda (1687) by Aurangzeb
+```
+
+### Dynastic Evolution of Vijayanagara Empire (1336–1646 CE)
+
+| Dynasty | Period | Founder | Greatest / Pivotal Ruler | Capital | Key Highlights |
+|---|---|---|---|---|---|
+| **1. Sangama (संगम)** | 1336–1485 CE | Harihara I & Bukka I | **Deva Raya II** (*Gajabetekara*) | Hampi (Vijayanagara) | Vidyaranya spiritual guide; travelers Nicolo de Conti (1420) & Abdur Razzaq (1443) |
+| **2. Saluva (सालुव)** | 1485–1505 CE | Saluva Narasimha | Saluva Narasimha | Hampi | First Usurpation (*Prathama Balapaharana*); restored internal order against Gajapatis |
+| **3. Tuluva (तुलुव)** | 1505–1570 CE | Vira Narasimha | **Krishnadeva Raya** (1509–1529) | Hampi | Second Usurpation; Golden Age; Ashtadiggajas; Battle of Talikota (1565) under Rama Raya |
+| **4. Aravidu (आरविडु)** | 1570–c. 1646 CE | Tirumala Raya | Venkata II | Penukonda → Chandragiri | Capital shifted after Talikota; granted site of Madras to British East India Company (1639) |
+
+## 📊 Quick Reference Grid
+
+### 1. The Five Deccan Sultanates (Disintegration of Bahmani Kingdom)
+
+| Sultanate | Dynasty Name | Year Founded | Founder | Capital | Final Fate / Annexation |
+|---|---|---|---|---|---|
+| **Bijapur** | **Adil Shahi** (आदिल शाही) | 1489 CE | **Yusuf Adil Shah** | Bijapur | Annexed by **Aurangzeb in 1686 CE**; built Gol Gumbaz |
+| **Ahmadnagar** | **Nizam Shahi** (निज़ाम शाही) | 1490 CE | **Malik Ahmad** | Junnar → Ahmadnagar | Annexed by **Shah Jahan in 1636 CE**; heroics of Chand Bibi & Malik Ambar |
+| **Berar** | **Imad Shahi** (इमाद शाही) | 1490 CE | **Fathullah Imad-ul-Mulk** | Gavilgad / Ellichpur | Annexed by **Ahmadnagar in 1574 CE**; **ABSENT from Talikota (1565)** |
+| **Bidar** | **Barid Shahi** (बरीद शाही) | 1492 / 1528 CE | **Qasim Barid** | Bidar | Annexed by **Bijapur in 1619 CE** |
+| **Golconda** | **Qutb Shahi** (कुतुब शाही) | 1512 CE | **Sultan Quli Qutb Shah** | Golconda / Hyderabad | Annexed by **Aurangzeb in 1687 CE**; built Charminar; diamond mines |
+
+### 2. Foreign Travelers to Vijayanagara & Medieval Regional Courts
+
+| Traveler | Origin Country | Period / Year | Ruler's Reign | Capital / Place | Key Chronicle / Historic Observation |
+|---|---|---|---|---|---|
+| **Nicolo de Conti** | Italy (Venice) | 1420–1421 CE | **Deva Raya I** (Sangama) | Vijayanagara | Recorded 60-mile city circumference, 90,000 armed men, Navaratri and Diwali |
+| **Abdur Razzaq** | Persia (Herat) | 1443–1444 CE | **Deva Raya II** (Sangama) | Vijayanagara | Envoy of Shah Rukh; described 7 concentric circular fortification walls and bazaars |
+| **Athanasius Nikitin** | Russia (Tver) | 1470–1474 CE | Muhammad Shah III / Mahmud Gawan | **Bahmani Kingdom** (Bidar) | Author of *Voyage Beyond the Three Seas*; noted sharp contrast between royal luxury and peasant poverty |
+| **Ludovico di Varthema** | Italy (Bologna) | 1502–1508 CE | Vira Narasimha (Tuluva) | Vijayanagara & Malabar | Detailed commercial report on horse trade and port operations |
+| **Duarte Barbosa** | Portugal | 1516–1518 CE | **Krishnadeva Raya** (Tuluva) | Vijayanagara & Gujarat | Detailed description of religious liberty, sati, King Mahmud Begarha's dietary legends |
+| **Domingo Paes** | Portugal | 1520–1522 CE | **Krishnadeva Raya** (Tuluva) | Vijayanagara | Described Krishnadeva Raya's physical appearance, Mahanavami festival, irrigation tanks |
+| **Fernao Nuniz** | Portugal | 1535–1537 CE | **Achyuta Deva Raya** (Tuluva) | Vijayanagara | Chronicled history of Vijayanagara from its foundation, Mahanavami sacrifice, women in royal palace |
+| **Caesar Frederick** | Italy (Venice) | 1567–1568 CE | Tirumala Raya (Aravidu) | Vijayanagara (Ruins) | Documented the desolate condition of Vijayanagara two years after the sack of Talikota |
+
+### 3. Regional Medieval Monuments & Architectural Milestones
+
+| Monument | Location | Builder / Patron | Regional Sultanate / State | Unique Architectural Characteristic |
+|---|---|---|---|---|
+| **Atala Masjid** | Jaunpur (UP) | Sultan Ibrahim Shah Sharqi (**1408 CE**) | Sharqi Sultanate | Massive sloping arched pylons (*propylons*); no minarets; built on Atala Devi temple base |
+| **Jhanjhari & Lal Darwaza Masjid** | Jaunpur (UP) | Ibrahim Shah & Queen Bibi Raji | Sharqi Sultanate | Fine screens (*jhanjharis*); indigenous Hindu stone carving motifs |
+| **Gol Gumbaz** | Bijapur (Karnataka) | Muhammad Adil Shah (**1656 CE**) | Adil Shahi of Bijapur | Massive unsupported hemispherical dome; world-famous acoustic **Whispering Gallery** |
+| **Charminar** | Hyderabad (Telangana) | Muhammad Quli Qutb Shah (**1591 CE**) | Qutb Shahi of Golconda | Four grand 48 m minarets, stucco decorations, commemorating eradication of plague |
+| **Hoshang Shah's Tomb** | Mandu (Madhya Pradesh) | Hoshang Shah / Mahmud Khalji | Malwa Sultanate | **First full-marble tomb in India**; recessed arches, yellow marble inlays; prototype for Taj |
+| **Jahaz Mahal & Hindola Mahal** | Mandu (Madhya Pradesh) | Ghiyasuddin Khalji | Malwa Sultanate | Jahaz Mahal looks like a ship floating between two artificial lakes (Kapur & Munj) |
+| **Adina Mosque** | Pandua (Bengal) | Sultan Sikandar Shah (**1374 CE**) | Bengal Sultanate | Largest mosque in India at the time; 370 domed bays; central barrel-vaulted iwan |
+| **Hazara Rama Temple** | Hampi (Karnataka) | **Krishnadeva Raya** | Vijayanagara Empire | Private royal temple; bas-relief carvings narrating the complete *Ramayana* epic |
+| **Vittala Temple Complex** | Hampi (Karnataka) | Deva Raya II / Krishnadeva Raya | Vijayanagara Empire | Renowned monolithic **Stone Chariot** (*Garuda Shrine*) and 56 musical acoustic pillars |
+| **Bara Sona & Chhota Sona Masjid** | Gaur (Bengal) | Nusrat Shah & Wali Muhammad | Bengal Sultanate | Brick and terracotta architecture with carved stone facing; curved Bengali eaves (*chala*) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Difference | Hindi |
+|---|---|------------|-------|
 | Firuz city (Jaunpur) | Sharqi state (Jaunpur) | City named for **Jauna Khan**; independent state by **Malik Sarwar** | फ़िरोज़ नगर / शर्की राज्य |
 | Yusuf Adil Shah | Malik Ahmad | **Bijapur** founder vs **Ahmadnagar** founder | यूसुफ आदिल / मलिक अहमद |
 | Sharqi architecture | Delhi Sultanate architecture | Jaunpur massive gateways/arches vs Delhi arch-dome-minaret idiom | शर्की स्थापत्य / सल्तनत स्थापत्य |
@@ -69,10 +164,39 @@ hide:
 | Kitab-i-Nauras | Amuktamalyada | Ibrahim Adil Shah II (Bijapur) vs Krishnadevaraya (Telugu) | किताब-ए-नौरस / अमुक्तमाल्यद |
 | Nayankara system | Iqta system | Vijayanagara nayaka military land grants vs Delhi Sultanate muqti | नायककारा / इक्ता |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **Vijayanagara Dynasties Order: S–S–T–A**
+   - **S**angama (1336–1485) — Founded by Harihara & Bukka
+   - **S**aluva (1485–1505) — Founded by Saluva Narasimha
+   - **T**uluva (1505–1570) — Golden Age of **Krishnadeva Raya**
+   - **A**ravidu (1570–1646) — Capital moved to Penukonda / Chandragiri
+   - *Mnemonic Hook:* "South States Take Action"
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+2. **The Talikota Alliance Formula (23 January 1565):**
+   - **B–A–G–B (Bijapur + Ahmadnagar + Golconda + Bidar)**
+   - *SUPER TRAP ALERT:* **Berar was ABSENT!** (Due to intense inter-state rivalry with Ahmadnagar).
+
+3. **Krishnadeva Raya's Literary Triad:**
+   - ***Amuktamalyada:*** Masterpiece on statecraft and politics written in **Telugu**.
+   - ***Jambavati Kalyanam:*** Sanskrit drama on Krishna and Jambavati.
+   - ***Usha Parinayam:*** Sanskrit poetic work.
+   - Court Jewel: **Ashtadiggajas** (Eight great Telugu poets led by Allasani Peddana).
+
+4. **Deccan Sultanates & Founder Matching Hook:**
+   - **Adil** = **B**ijapur (**A–B**)
+   - **Nizam** = **A**hmadnagar (**N–A**)
+   - **Qutb** = **G**olconda (**Q–G**)
+   - **Imad** = **B**erar (**I–B**)
+   - **Barid** = **B**idar (**B–B**)
+
+5. **Zain-ul-Abidin's Reforms ("Budshah"):**
+   - **A**bolished Jizya & cow slaughter
+   - **B**rought back exiled Kashmiri Pandits
+   - **C**reated *Dar-ul-Tarjuma* (translated Mahabharata & Rajatarangini into Persian)
+   - **D**eveloped Zaina Lanka artificial island in Wular Lake.
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

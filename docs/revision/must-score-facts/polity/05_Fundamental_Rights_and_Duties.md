@@ -3,89 +3,220 @@ hide:
   - toc
 ---
 
-# Topic 5 — Fundamental Rights (मौलिक अधिकार) & Duties — Must-Score Facts
+# Topic 5 — Fundamental Rights & Duties — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">⚖️ Polity & Constitution &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Fundamental Rights (मौलिक अधिकार) & Duties</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Fundamental Rights & Duties</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| 2024 | In *M.K. Ranjitsinh v. Union of India*, Supreme Court recognized the **Right against the adverse effects of Climate Change** as a distinct Fundamental Right emanating from Articles 14 and 21. | Landmark jurisprudence linking Article 21 with environmental governance. |
+| 2024 | Uttarakhand became the first State in post-independence India to pass a **Uniform Civil Code (UCC) Bill** (giving effect to Article 44 in Part IV). | Critical milestone connecting Part IV DPSP with modern State legislation. |
+| 2022 | In *Janhit Abhiyan v. Union of India*, Supreme Court 5-judge bench upheld (3:2) the validity of the **103rd Amendment Act, 2019** providing 10% EWS reservation under Articles 15(6) and 16(6). | Established that economic criteria alone can be a valid basis for affirmative action. |
+| 2017 / Landmark | In *Justice K.S. Puttaswamy (Retd.) v. Union of India*, a 9-judge bench unanimously held that the **Right to Privacy** is a Fundamental Right guaranteed under Article 21. | The definitive modern landmark on personal liberty, bodily autonomy, and data privacy. |
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Part III (Articles 12–35)** of the Constitution is termed the **'Magna Carta of India'**; Fundamental Rights are **justiciable** in courts of law, meaning their violation allows direct approach to the Supreme Court under Article 32 or High Court under Article 226.
-2. **Article 12** provides an expansive definition of **'State'** for Part III: (1) Government and Parliament of India; (2) Government and Legislature of States; (3) All local authorities (Panchayats, Municipalities, Port Trusts); (4) Other authorities within India or under control of GOI (including statutory corporations like LIC, ONGC, SAIL, and even private bodies performing public functions).
-3. **Article 13** lays down the foundation of **Judicial Review**: any pre-constitutional law (Art. 13(1)) or post-constitutional law (Art. 13(2)) that is inconsistent with or in derogation of Fundamental Rights is void to the extent of inconsistency.
-4. Doctrines emerging from Article 13: **Doctrine of Severability** (only the unconstitutional portion of an Act is void if severable), **Doctrine of Eclipse** (pre-constitutional laws conflicting with FRs remain dormant/shadowed, becoming active again if constitutional obstacle is removed), and **Doctrine of Waiver** (citizens cannot waive their Fundamental Rights, held in *Basheshar Nath v. CIT*).
-5. Rights exclusively for Indian **Citizens ONLY**: **Articles 15, 16, 19, 29, and 30**; rights available to **all persons** (both citizens and foreigners, except enemy aliens): Articles 14, 20, 21, 21A, 22, 23, 24, 25, 26, 27, and 28.
-6. **Article 14** combines two principles: **'Equality before the Law'** (borrowed from UK; negative concept meaning absence of special privilege) and **'Equal Protection of the Laws'** (borrowed from USA; positive concept meaning equal treatment under equal circumstances); permits reasonable classification based on an **intelligible differentia** having a rational nexus to the objective sought.
-7. **Article 15(1)** prohibits the State from discriminating against any citizen on grounds **ONLY** of religion, race, caste, sex, place of birth, or any of them; **Article 15(2)** prohibits discrimination in access to public shops, hotels, wells, and places of public entertainment.
-8. Special Provisions under Article 15: **15(3)** permits special provisions for **women and children**; **15(4)** (added by **1st Amendment, 1951** following *Champakam Dorairajan*) allows advancement of socially and educationally backward classes (SEBCs/OBCs) and SC/STs; **15(5)** (added by **93rd Amendment, 2005**) allows reservations in educational institutions including private institutions (except minority institutions); **15(6)** (added by **103rd Amendment, 2019**) provides up to **10% EWS reservation**.
-9. **Article 16** guarantees equality of opportunity in matters of public employment; **16(4)** allows the State to provide reservation for backward classes not adequately represented in State services; **16(4A)** (added by **77th Amendment, 1995**) permits reservation in **promotion** with consequential seniority for SC/STs; **16(4B)** (added by **81st Amendment, 2000**) introduces the **'carry forward rule'**, ending the 50% ceiling for backlog vacancies.
-10. **Article 17** abolishes **'Untouchability'** and forbids its practice in any form; it is an **absolute right** enforceable against both the State and private individuals; enacted into law via the **Protection of Civil Rights Act, 1955** (originally Untouchability (Offences) Act, 1955).
-11. **Article 18** abolishes all hereditary titles; prohibits citizens from accepting foreign titles without presidential assent; in ***Balaji Raghavan v. Union of India (1996)***, the Supreme Court upheld that National Awards like **Bharat Ratna, Padma Vibhushan, Padma Bhushan, and Padma Shri** are mere decorations/merit honors and **do not constitute 'titles'** under Article 18.
-12. **Article 19(1)** guarantees **Six Democratic Freedoms**: (a) Speech and expression; (b) Peaceful assembly without arms; (c) Form associations, unions, or co-operative societies; (d) Move freely throughout India; (e) Reside and settle in any part of India; (g) Practice any profession, trade, or business. *Right to acquire, hold and dispose of property under 19(1)(f) was repealed by the 44th Amendment, 1978*.
-13. Freedom of Speech and Expression (Art. 19(1)(a)) includes: freedom of the press, right against tapping of phones, right to broadcast, right against bandh, right to know government activities, right to silence; subject to **reasonable restrictions** under **Article 19(2)** on 8 specific grounds: sovereignty & integrity of India, security of the State, friendly relations with foreign states, public order, decency or morality, contempt of court, defamation, or incitement to an offence.
-14. **Article 20** provides **Three Inviolable Safeguards against Arbitrary Prosecution**: **20(1)** Protection against **ex-post-facto criminal laws** (cannot convict for an act that was not an offence when committed, nor impose heavier penalty than that prevalent; applies only to criminal law, not civil/tax laws); **20(2)** Protection against **Double Jeopardy** (no person shall be prosecuted and punished for the same offence more than once; applies only before judicial courts, not departmental/administrative inquiries); **20(3)** Protection against **Self-Incrimination** (accused cannot be compelled to be a witness against himself; does not protect against giving blood samples, thumb impressions, or handwriting).
-15. **Article 21** guarantees that 'No person shall be deprived of his life or personal liberty except according to **procedure established by law**'; in ***A.K. Gopalan (1950)***, SC adopted a narrow literal interpretation; in ***Maneka Gandhi (1978)***, SC overruled Gopalan, establishing that the procedure must be **just, fair, and reasonable**, effectively introducing the American concept of **'Due Process of Law'**.
-16. The expansive scope of Article 21 now includes: Right to live with human dignity, Right to clean environment (*Subhash Kumar 1991*), Right to livelihood (*Olga Tellis 1985*), Right to free legal aid (*Hussainara Khatoon 1979*), Right to speedy trial, Right against solitary confinement, Right to emergency medical aid (*Paramanand Katara 1989*), and the **Right to Privacy** declared a Fundamental Right in ***K.S. Puttaswamy v. Union of India (2017)***.
-17. **Article 21A** mandates that the State shall provide free and compulsory education to all children of the age of **6 to 14 years**; inserted by the **86th Constitutional Amendment Act, 2002**; operationalized by the **Right of Children to Free and Compulsory Education (RTE) Act, 2009** (in force from **1 April 2010**).
-18. **Article 22** provides protection against arrest and detention: **Punitive detention** safeguards (Art. 22(1)–(2)) require informing grounds of arrest, right to consult legal practitioner, and production before nearest magistrate within **24 hours** (excluding journey time); **Preventive detention** safeguards (Art. 22(4)–(7)) limit initial detention to a maximum of **3 months** unless extended by an Advisory Board chaired by an HC judge.
-19. **Article 23** prohibits **trafficking in human beings, begar (forced labor)**, and other similar forms of forced labor; permits the State to impose compulsory service for public purposes (e.g., military or social service) without discriminating on grounds of religion, race, caste, or class.
-20. **Article 24** prohibits the employment of children below the age of **14 years** in any factory, mine, or other hazardous employment; the Child Labour (Prohibition and Regulation) Amendment Act, 2016 completely bans employment of children under 14 in all occupations and adolescent employment (14–18 years) in hazardous occupations.
-21. **Article 25** guarantees freedom of conscience and free profession, practice, and propagation of religion to all persons; religious propagation does **not include the right to forcibly convert** others (*Rev. Stainislaus 1977*); allows the State to regulate economic/financial secular activities of religious practices and provide social reform (opening Hindu temples to all classes; Hindus include Sikhs, Jains, Buddhists).
-22. **Article 26** guarantees every **religious denomination** the right to: (a) establish and maintain institutions for religious and charitable purposes; (b) manage its own affairs in matters of religion; (c) own and acquire movable and immovable property; (d) administer such property in accordance with law (*S.P. Mittal case 1983* established criteria for denomination: common faith, common organisation, distinctive name).
-23. **Article 27** prohibits the State from compelling any citizen to pay **taxes** the proceeds of which are specifically appropriated in payment of expenses for the promotion of any particular religion; however, it permits the levy of a **fee** for providing secular regulation or services/facilities (e.g., pilgrimage fees).
-24. **Article 28** regulates religious instruction in educational institutions: completely prohibited in wholly State-maintained institutions; permitted in institutions administered by State but established under an endowment/trust requiring religious instruction; voluntary (requiring consent of student/guardian) in State-recognized or State-aided institutions.
-25. **Article 29** protects the interests of minorities: **29(1)** gives any section of citizens having a distinct language, script, or culture the right to conserve the same; **29(2)** bars denial of admission into State-maintained or State-aided educational institutions on grounds only of religion, race, caste, or language.
-26. **Article 30** grants **all religious and linguistic minorities** the right to establish and administer educational institutions of their choice; the Constitution defines minorities only on the basis of **religion or language**; in ***T.M.A. Pai Foundation (2002)***, the SC ruled that the unit for determining minority status is the **State**, not the entire country.
-27. Repeal of Right to Property: Originally a Fundamental Right under **Article 19(1)(f)** and **Article 31**; repealed by the **44th Constitutional Amendment Act, 1978** under the Morarji Desai government; relocated to **Part XII, Article 300A** as a legal/constitutional right, meaning property cannot be taken without authority of law, but ordinary property loss cannot be challenged via Article 32.
-28. **Article 32** guarantees the **Right to Constitutional Remedies** for the enforcement of Fundamental Rights; Dr. B.R. Ambedkar termed it the **'very Soul and the very Heart of the Constitution'**; the Supreme Court cannot refuse to entertain an Article 32 petition (it is a Fundamental Right itself), whereas High Court writ remedy under Article 226 is discretionary.
-29. **The Five Prerogative Writs:** (1) **Habeas Corpus** ('To produce the body' - against illegal detention by public or private person); (2) **Mandamus** ('We command' - against public official to perform non-discretionary statutory duty; *cannot issue against President, Governor, or private body*); (3) **Prohibition** (preventive writ issued to lower courts/tribunals exceeding jurisdiction); (4) **Certiorari** (quashes illegal decisions of judicial, quasi-judicial, and administrative bodies); (5) **Quo-Warranto** ('By what authority' - challenges illegal usurpation of a substantive public office; can be filed by any citizen, no locus standi required).
-30. **Article 33, 34, 35:** **Art. 33** empowers Parliament to restrict Fundamental Rights of armed forces, police forces, intelligence agencies; **Art. 34** enables Parliament to indemnify officials and restrict FRs during **Martial Law** (military rule); **Art. 35** specifies that power to make laws to give effect to certain FRs (Arts. 16(3), 32(3), 33, 34, and penalties for Arts. 17 & 23) rests **exclusively with Parliament**, not State Legislatures.
-31. **Directive Principles of State Policy (Part IV, Arts. 36–51):** Borrowed from the **Irish Constitution of 1937** (which borrowed from Spain); non-justiciable (Art. 37: courts cannot enforce them, but they are **fundamental in the governance of the country** and the State has a duty to apply them in making laws).
-32. Granville Austin described Fundamental Rights and Directive Principles together as the **'Conscience of the Constitution'**; Sir B.N. Rau envisioned rights as two tiers: justiciable rights (Part III) and non-justiciable rights (Part IV).
-33. **Socialistic DPSPs:** Art. 38 (Promote welfare of people, minimize inequalities in income, status, facilities); Art. 39 (Equitable distribution of material resources of community - 39(b), prevention of concentration of wealth - 39(c), equal pay for equal work for men and women - 39(d)); Art. 39A (Equal justice and free legal aid - added by 42nd Amd); Art. 41 (Right to work, education, public assistance); Art. 42 (Humane conditions of work and maternity relief); Art. 43 (Living wage for workers); Art. 43A (Workers' participation in management - 42nd Amd).
-34. **Gandhian DPSPs:** Art. 40 (Organize Village Panchayats as units of self-government); Art. 43 (Promote cottage industries); Art. 43B (Promote autonomous functioning of Co-operative societies - added by 97th Amd 2011); Art. 46 (Promote educational and economic interests of SCs, STs, and weaker sections); Art. 47 (Prohibit intoxicating drinks and drugs injurious to health); Art. 48 (Prohibit slaughter of cows, calves, and other milch and draught cattle).
-35. **Liberal-Intellectual DPSPs:** Art. 44 (Secure a **Uniform Civil Code** throughout India; *Uttarakhand became the first state in post-independence India to pass a UCC law in 2024*); Art. 45 (Early childhood care and education for children below 6 years - amended by 86th Amd 2002); Art. 48 (Organize agriculture and animal husbandry on modern lines); Art. 48A (Protect and improve environment, forests, wildlife - 42nd Amd 1976); Art. 49 (Protect monuments and historic places); Art. 50 (Separation of Judiciary from Executive); Art. 51 (Promote international peace and security, respect international law/treaties).
-36. **Relationship between FRs and DPSPs:** In ***Champakam Dorairajan (1951)***, SC held FRs prevail over DPSPs; in ***Golaknath (1967)***, FRs held sacrosanct; **25th Amendment (1971)** inserted **Article 31C**, stating that laws giving effect to **Article 39(b) and 39(c)** cannot be challenged under Articles 14 or 19; in ***Kesavananda (1973)***, Art. 31C was upheld; in ***Minerva Mills (1980)***, SC struck down 42nd Amendment expansion of 31C, holding that **the Indian Constitution is founded on the bedrock of the balance between Part III and Part IV**.
-37. Directives Outside Part IV: **Article 335** (Claims of SC/STs to services consistent with maintenance of efficiency of administration); **Article 350A** (Facilities for instruction in mother tongue at primary stage to linguistic minorities); **Article 351** (Duty of the Union to promote the spread of the Hindi language).
-38. **Fundamental Duties (Part IVA, Article 51A):** Added by the **42nd Constitutional Amendment Act, 1976** under the government of Indira Gandhi; based on the recommendations of the **Swaran Singh Committee**; borrowed from the **USSR Constitution**; non-justiciable in character.
-39. Swaran Singh Committee Recommendations: Recommended 8 duties; also suggested duty to pay taxes and penalties for non-compliance (both **rejected** by Congress government); the 42nd Amendment incorporated **10 Fundamental Duties**.
-40. The **86th Constitutional Amendment Act, 2002** added the **11th Fundamental Duty** under **Article 51A(k)**: duty of every parent or guardian to provide opportunities for education to his child or ward between the age of **6 and 14 years**.
-41. **Verma Committee on Fundamental Duties (1999):** Identified the existence of legal provisions for the enforcement of several Fundamental Duties (e.g., Prevention of Insults to National Honour Act 1971, IPC, Protection of Civil Rights Act 1955, Unlawful Activities (Prevention) Act 1967, Representation of the People Act 1951, Wildlife Protection Act 1972, Forest Conservation Act 1980).
-42. Fundamental Duties apply **ONLY to Indian Citizens** and do not extend to foreigners; unlike some foreign constitutions, Indian Fundamental Duties are not made a condition precedent for the enjoyment of Fundamental Rights.
+1. **Part III (Articles 12–35)** of the Constitution is described as the **'Magna Carta of India'**; contains an elaborate and comprehensive charter of justiciable Fundamental Rights borrowed from the **US Bill of Rights**.
+2. Originally, the Constitution provided for **seven Fundamental Rights**; with the repeal of the **Right to Property** (Articles 19(1)(f) and 31) by the **44th Constitutional Amendment Act, 1978**, only **six Fundamental Rights** exist today.
+3. The Six Fundamental Rights:
+   - (1) **Right to Equality** (Articles 14–18)
+   - (2) **Right to Freedom** (Articles 19–22)
+   - (3) **Right against Exploitation** (Articles 23–24)
+   - (4) **Right to Freedom of Religion** (Articles 25–28)
+   - (5) **Cultural and Educational Rights** (Articles 29–30)
+   - (6) **Right to Constitutional Remedies** (Article 32)
+4. Fundamental Rights available **ONLY to Indian Citizens:** Articles **15, 16, 19, 29, and 30**.
+5. Fundamental Rights available to **BOTH Citizens and Foreigners** (except enemy aliens): Articles **14, 20, 21, 21A, 22, 23, 24, 25, 26, 27, and 28**.
+6. **Article 12 (Definition of 'State'):** For Part III purposes, 'State' includes: (1) Government and Parliament of India; (2) Government and Legislature of each State; (3) All local authorities (Panchayats, Municipalities, Port Trusts); (4) Other authorities within the territory of India or under the control of the Government of India (includes statutory and non-statutory bodies like LIC, ONGC, SAIL, UGC, even private bodies performing public functions).
+7. **Article 13 (Laws Inconsistent with Fundamental Rights):** Establishes **Judicial Review**; declares that all laws in force before the commencement of the Constitution (Art. 13(1)) and all future laws (Art. 13(2)) inconsistent with Part III shall be **void** to the extent of inconsistency.
+8. Judicial Doctrines under Article 13:
+   - **Doctrine of Severability:** Only the unconstitutional part of an Act is void, not the entire Act, if the valid part can be separated.
+   - **Doctrine of Eclipse:** Pre-constitutional laws inconsistent with FRs are not dead, but remain dormant/eclipsed; they become operative again if the constitutional limitation is removed.
+   - **Doctrine of Waiver:** An Indian citizen **cannot waive or surrender his Fundamental Rights** (*Basheshar Nath v. CIT, 1959*).
+9. **Article 14 (Equality Before Law & Equal Protection of the Laws):**
+   - **Equality Before Law:** British negative concept; absence of special privileges; all persons subject to ordinary law of the land.
+   - **Equal Protection of the Laws:** American positive concept; equality of treatment under equal circumstances; permits **reasonable classification** (must be based on intelligible differentia and rational nexus).
+10. **Article 15 (Prohibition of Discrimination):** State shall not discriminate against any citizen on grounds **ONLY of religion, race, caste, sex, place of birth**, or any of them (Art. 15(1)); access to public places (Art. 15(2)); special provisions for women and children (Art. 15(3)); special provisions for advancement of SEBCs, SCs, and STs (Art. 15(4), 1st Amd 1951); reservation in educational institutions including private unaided ones (Art. 15(5), 93rd Amd 2005); **10% EWS reservation** in educational institutions (Art. 15(6), 103rd Amd 2019).
+11. **Article 16 (Equality of Opportunity in Public Employment):** No citizen shall be discriminated against in respect of public employment on grounds **ONLY of religion, race, caste, sex, descent, place of birth, residence**, or any of them; Art. 16(3) allows Parliament to prescribe residence qualifications for certain posts; Art. 16(4) allows reservation for backward classes not adequately represented; Art. 16(4A) allows reservation in promotions for SCs/STs with consequential seniority (77th & 85th Amds); Art. 16(4B) carry-forward rule exceeding 50% cap (81st Amd 2000); **10% EWS reservation in public employment** (Art. 16(6), 103rd Amd 2019).
+12. **Mandal Case (*Indra Sawhney v. Union of India, 1992*):** 9-judge bench ruled: (1) Upheld 27% OBC reservation in central services; (2) **Total reservation quota must not exceed 50%** except in extraordinary situations; (3) Advanced sections (**Creamy Layer**) must be excluded from OBC benefits; (4) **No reservation in promotions**; (5) Backward classes can be identified based on caste, but not exclusively on economic criteria.
+13. **Article 17 (Abolition of Untouchability):** Untouchability is abolished and its practice in any form is forbidden; enforcement of any disability arising out of untouchability is an offence punishable in accordance with law; **Absolute Right** (no exceptions); enforced by the **Protection of Civil Rights Act, 1955**.
+14. **Article 18 (Abolition of Titles):** Prohibits State from conferring any title except military or academic distinctions; prohibits citizens from accepting titles from foreign States; in *Balaji Raghavan (1996)*, SC upheld national awards (**Bharat Ratna, Padma Vibhushan, Padma Bhushan, Padma Shri**) as valid decorations celebrating merit, but ruled they **cannot be used as prefixes or suffixes** to the recipient's name.
+15. **Article 19 (Six Democratic Freedoms):** Guarantees to all citizens:
+    - **19(1)(a):** Freedom of speech and expression (includes freedom of press, commercial advertisements, right to remain silent, right against tapping of phones).
+    - **19(1)(b):** Freedom to assemble peaceably and without arms.
+    - **19(1)(c):** Freedom to form associations, unions, or co-operative societies (co-operatives added by 97th Amd 2011).
+    - **19(1)(d):** Freedom to move freely throughout the territory of India.
+    - **19(1)(e):** Freedom to reside and settle in any part of the territory of India.
+    - **19(1)(g):** Freedom to practice any profession, or to carry on any occupation, trade, or business.
+    - *(Note: Article 19(1)(f) Right to acquire, hold, and dispose of property was repealed by 44th Amd 1978).*
+16. **Reasonable Restrictions on Article 19:**
+    - Under Art. 19(2) on speech: Sovereignty and integrity of India, security of the State, friendly relations with foreign States, public order, decency or morality, contempt of court, defamation, incitement to an offence.
+17. **Article 20 (Protection in Respect of Conviction for Offences):**
+    - **20(1) Protection against Ex-Post-Facto Laws:** No person shall be convicted of any offence except for violation of a law in force at the time of commission, nor subjected to a greater penalty than that prescribed at the time. (Applies **ONLY to criminal laws**, NOT to civil or tax laws).
+    - **20(2) Protection against Double Jeopardy:** No person shall be prosecuted and punished for the same offence **more than once**. (Applies ONLY to proceedings before a court of law or judicial tribunal, NOT to departmental or administrative proceedings).
+    - **20(3) Protection against Self-Incrimination:** No person accused of any offence shall be compelled to be a **witness against himself**. (Applies only to accused in criminal proceedings; does not bar giving thumb impressions, blood samples, or DNA tests).
+18. **Article 21 (Protection of Life and Personal Liberty):** "No person shall be deprived of his life or personal liberty except according to **procedure established by law**."
+19. **Evolution of Article 21:**
+    - ***A.K. Gopalan v. State of Madras (1950):*** SC took a narrow, literal interpretation; held that 'procedure established by law' means any valid legislative enactment; executive action was controlled, but legislative tyranny was not.
+    - ***Maneka Gandhi v. Union of India (1978):*** Landmark departure; SC overruled *Gopalan*; held that procedure must not only be legally valid, but must be **"just, fair, and reasonable"**; introduced the American concept of **'Due Process of Law'** into Article 21; established that Articles 14, 19, and 21 form a **Golden Triangle** and are not mutually exclusive.
+20. **Rights Emanating from Article 21:** Right to live with human dignity, Right to clean environment, Right to privacy (*Puttaswamy, 2017*), Right to free legal aid, Right to speedy trial, Right against solitary confinement, Right to travel abroad, Right against handcuffed parade, Right to shelter, Right to health, Right to die with dignity (passive euthanasia, *Common Cause, 2018*).
+21. **Article 21A (Right to Education):** Added by the **86th Constitutional Amendment Act, 2002**; State shall provide free and compulsory education to all children of the age of **6 to 14 years**; Parliament enacted the **RTE Act, 2009** (in force from 1 April 2010).
+22. **Article 22 (Protection against Arrest and Detention):**
+    - **Punitive Detention (Ordinary Law):** Right to be informed of grounds of arrest; right to consult and be defended by a legal practitioner; right to be produced before the nearest magistrate within **24 hours** (excluding journey time); right to be released unless further detention authorized by magistrate. (Does NOT apply to enemy aliens or persons arrested under preventive detention).
+    - **Preventive Detention (Security Grounds):** Maximum detention without Advisory Board approval is **3 months**; Advisory Board consists of persons qualified to be High Court judges; grounds must be communicated to detenu (except facts contrary to public interest); right to make representation against detention order.
+23. **Article 23 (Prohibition of Traffic in Human Beings and Forced Labour):** Prohibits traffic in human beings, 'begar' (forced labor without payment), and other similar forms of forced labor; protects against both State and private individuals; exception: State can impose **compulsory service for public purposes** (military service, social work) without discrimination on grounds only of religion, race, caste, or class.
+24. **Article 24 (Prohibition of Employment of Children):** Prohibits employment of children below the age of **14 years** in any factory, mine, or hazardous employment; **Absolute Right**; strengthened by Child Labour (Prohibition and Regulation) Amendment Act, 2016 banning employment of children below 14 in all occupations and adolescents (14–18 years) in hazardous occupations.
+25. **Article 25 (Freedom of Conscience and Free Profession, Practice and Propagation of Religion):** Guarantees freedom of conscience, right to profess, practice, and propagate religion; subject to **public order, morality, and health** and to other provisions of Part III; includes wearing of 'kirpans' by Sikhs; State can regulate secular economic/financial activities associated with religion; State can throw open Hindu religious institutions of a public character to all classes of Hindus (Hindu includes Sikhs, Jains, and Buddhists under Explanation II).
+26. **Right to Propagate does NOT include Right to Convert:** In *Rev. Stainislaus v. State of MP (1977)*, SC held that Article 25 gives the right to transmit or spread one's religion by exposition of its tenets, but does **NOT include the right to forcibly or fraudulently convert another person**.
+27. **Article 26 (Freedom to Manage Religious Affairs):** Every religious denomination has the right to: (a) Establish and maintain institutions for religious and charitable purposes; (b) Manage its own affairs in matters of religion; (c) Own and acquire movable and immovable property; (d) Administer such property in accordance with law.
+28. **Article 27 (Freedom from Taxation for Promotion of Religion):** No person shall be compelled to pay any **taxes** the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination; prohibits taxes, but **permits imposition of a fee** for providing secular services or administrative regulation.
+29. **Article 28 (Freedom from Religious Instruction in Educational Institutions):**
+    - (1) Institutions wholly maintained by State funds: **Religious instruction is COMPLETELY FORBIDDEN**.
+    - (2) Institutions administered by State but established under trust: **Permitted**.
+    - (3) Institutions recognized by State / receiving State aid: **Voluntary** (cannot be forced on students without consent or parental consent for minors).
+30. **Article 29 (Protection of Interests of Minorities):** Any section of citizens having a **distinct language, script, or culture** has the right to conserve the same (Art. 29(1) protects all sections, not just religious/linguistic minorities); no citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, or language (Art. 29(2)).
+31. **Article 30 (Right of Minorities to Establish and Administer Educational Institutions):**
+    - Confined **ONLY to Religious and Linguistic Minorities** (does NOT apply to other sections);
+    - Right to establish and administer educational institutions of their choice;
+    - Compensation for compulsory acquisition of minority institution property must not abridge this right (Art. 30(1A), 44th Amd 1978);
+    - State shall not discriminate in granting aid on the ground that it is under minority management (Art. 30(2)).
+32. **Article 32 (Right to Constitutional Remedies):** Described by **Dr. B.R. Ambedkar** as the **"very Soul of the Constitution and the very Heart of it"**; guarantees the right to move the Supreme Court for the enforcement of Fundamental Rights; Article 32 itself is a **Fundamental Right** and cannot be suspended except as provided by the Constitution (Art. 359).
+33. **Article 32 vs Article 226 (Writs Comparison):**
+    - **Supreme Court (Art. 32):** Can issue writs ONLY for the enforcement of **Fundamental Rights**; cannot refuse to exercise writ jurisdiction because Art. 32 is itself a Fundamental Right; territorial jurisdiction extends throughout India.
+    - **High Court (Art. 226):** Can issue writs for the enforcement of **Fundamental Rights AND ordinary legal rights**; writ jurisdiction is discretionary (can refuse if alternative remedy exists); wider subject-matter jurisdiction than the Supreme Court.
+34. **The Five Prerogative Writs:**
+    - **Habeas Corpus ("To have the body of"):** Order against illegal detention; directed against **both public authorities and private individuals**; cannot issue if detention is lawful or by order of a competent court.
+    - **Mandamus ("We Command"):** Command to a public official/body to perform a mandatory statutory or public duty; cannot issue against a private individual, or against the **President of India or State Governors**, or to enforce contractual obligations.
+    - **Prohibition ("To forbid"):** Issued by a higher court to a lower judicial or quasi-judicial authority to **prevent it from exceeding its jurisdiction**; purely **preventive** in nature; cannot issue against administrative, legislative, or private bodies.
+    - **Certiorari ("To be certified"):** Issued by a higher court to quash the order of a lower court, tribunal, or administrative authority for excess of jurisdiction or error of law on the face of the record; both **preventive and curative**; post-1991 can issue against administrative authorities affecting rights.
+    - **Quo-Warranto ("By what authority"):** Challenges the legality of a person's claim to a **public office of a substantive character** created by statute or constitution; prevents illegal usurpation of public office; can be moved by **any interested person**, not necessarily the aggrieved party (Locus standi is relaxed).
+35. **Fundamental Duties (Part IVA, Article 51A):** Added by the **42nd Amendment Act, 1976** on the recommendation of the **Swaran Singh Committee**; non-justiciable; borrowed from the **USSR Constitution**; originally 10 duties; the **11th duty** (Art. 51A(k)) was added by the **86th Amendment Act, 2002**.
+36. **The 11 Fundamental Duties (Article 51A):**
+    - (a) Abide by Constitution, respect National Flag and National Anthem;
+    - (b) Cherish noble ideals of freedom struggle;
+    - (c) Uphold sovereignty, unity, and integrity of India;
+    - (d) Defend the country and render national service;
+    - (e) Promote harmony and spirit of common brotherhood; renounce practices derogatory to dignity of women;
+    - (f) Value and preserve the rich heritage of composite culture;
+    - (g) Protect natural environment (forests, lakes, rivers, wildlife) and have compassion for living creatures;
+    - (h) Develop scientific temper, humanism, and spirit of inquiry and reform;
+    - (i) Safeguard public property and abjure violence;
+    - (j) Strive towards excellence in all spheres of individual and collective activity;
+    - (k) Duty of parent/guardian to provide education to child aged 6 to 14 years (86th Amd 2002).
+37. **Swaran Singh Committee Exclusions:** Recommended: (1) Duty to pay taxes; (2) Penalty/punishment for non-performance of duties; (3) Bar on judicial review of laws imposing such penalties. Congress government **rejected all three recommendations**.
+38. **Articles 31A, 31B, 31C (Exceptions to Fundamental Rights):**
+    - **Article 31A:** Protects 5 categories of agrarian reform and property management laws from Arts. 14 and 19.
+    - **Article 31B:** Shields laws placed in the **Ninth Schedule**; post-24 April 1973 inclusions are subject to judicial review (*I.R. Coelho, 2007*).
+    - **Article 31C:** Protects laws giving effect to DPSPs under Article 39(b) and (c) from violation of Articles 14 and 19.
+39. **Article 33 (Armed Forces Restrictions):** Parliament alone can restrict Fundamental Rights of armed forces, police forces, and intelligence personnel to ensure discipline.
+40. **Article 34 (Martial Law Indemnity):** Parliament can indemnify government servants for acts done during the operation of Martial Law in any area.
+41. **Article 35 (Exclusive Parliamentary Legislation):** Powers to enact laws giving effect to Articles 16(3), 32(3), 33, 34, and penalizing offences under Art. 17 and Art. 23 belong **EXCLUSIVELY to Parliament**, ensuring nationwide uniformity.
+42. **Verma Committee on Fundamental Duties (1999):** Identified existing legal statutes enforcing Fundamental Duties, confirming that while duties are non-justiciable per se, specific violations are punishable under dedicated parliamentary statutes.
+43. **Articles 20 and 21 Supreme Non-Suspendability:** Under **Article 359** (as amended by 44th Amd 1978), the enforcement of Articles 20 and 21 **CANNOT BE SUSPENDED** under any circumstances, even during war or external aggression.
+44. **Golden Triangle of the Constitution:** Formed by **Articles 14, 19, and 21**; established in *Maneka Gandhi (1978)*; any state action infringing personal liberty must satisfy the tests of non-arbitrariness (Art. 14), reasonableness (Art. 19), and just procedure (Art. 21).
+45. **EWS Reservation Constitutional Thresholds:** Articles 15(6) and 16(6) permit up to **10% reservation for Economically Weaker Sections** over and above the existing 50% reservation cap; applies to all citizens not covered under SC, ST, or OBC categories.
+46. **Passive Euthanasia and Living Wills (*Common Cause, 2018*):** Supreme Court recognized that the **Right to Die with Dignity** is an integral part of the Right to Life under Article 21, legally validating Advance Medical Directives (Living Wills).
+47. **Right to Compensation for Constitutional Torts (*Nilabati Behera, 1993*):** Supreme Court held that public law compensation for custodial deaths or violation of Article 21 is a strict liability remedy distinct from private law damages.
+48. **Universal Scope of Habeas Corpus:** The writ of Habeas Corpus is the only writ that can be issued against **both public officials and private individuals** (e.g., in cases of wrongful confinement by private parties).
+49. **Quo-Warranto Locus Standi Exception:** Unlike other writs which require an aggrieved person (strict locus standi), any member of the public acting in good faith can petition for a writ of **Quo-Warranto**, as it protects public offices from unlawful usurpation.
+50. **Tri-Fold Educational Bridge (86th Amendment, 2002):**
+    - **Fundamental Right:** Article 21A (State provides free education 6–14 years).
+    - **Directive Principle:** Article 45 (State provides early childhood care 0–6 years).
+    - **Fundamental Duty:** Article 51A(k) (Parent/guardian provides educational opportunity 6–14 years).
 
+## ⏱️ Timeline / Chronology
 
----
+```
+1950  ── Constitution enforced with 7 Fundamental Rights (including Property)
+  │
+1950  ── *A.K. Gopalan*: SC adopts narrow literal view of Article 21 ("Procedure Established by Law")
+  │
+1951  ── 1st Amendment: Inserted Articles 31A, 31B, 9th Schedule, and Art. 15(4)
+  │
+1973  ── *Kesavananda Bharati*: Fundamental Rights can be amended, but Basic Structure cannot be touched
+  │
+1976  ── 42nd Amendment: Added Part IVA (Fundamental Duties, Art. 51A) on Swaran Singh Committee advice
+  │
+1978  ── *Maneka Gandhi*: Overrules Gopalan; introduces "Due Process" and Golden Triangle (Arts. 14, 19, 21)
+  │
+1978  ── 44th Amendment: Right to Property deleted from FRs (moved to Art. 300A); Arts. 20 & 21 non-suspendable
+  │
+1992  ── *Indra Sawhney*: Upheld 27% OBC quota; capped total reservation at 50%; excluded Creamy Layer
+  │
+1999  ── Justice Verma Committee identifies statutory enforcement of Fundamental Duties
+  │
+2002  ── 86th Amendment: Inserted Article 21A (Right to Education) and 11th Duty (Art. 51A(k))
+  │
+2017  ── *K.S. Puttaswamy*: 9-judge bench declares Right to Privacy a Fundamental Right under Art. 21
+  │
+2018  ── *Common Cause*: Right to Die with Dignity (Passive Euthanasia) recognized under Art. 21
+  │
+2019  ── 103rd Amendment: Inserted Articles 15(6) and 16(6) providing 10% EWS reservation
+  │
+2024  ── *M.K. Ranjitsinh*: Right against adverse climate change recognized under Articles 14 and 21
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Citizen-Only vs Universal Rights Matrix
+
+| Category | Articles Included | Constitutional Scope |
+|---|---|---|
+| **Available ONLY to Indian Citizens** | **Articles 15, 16, 19, 29, 30** | Purely citizen-centric (employment, speech, minority protection) |
+| **Available to BOTH Citizens & Foreigners** | **Articles 14, 20, 21, 21A, 22, 23, 24, 25, 26, 27, 28** | Universal human rights (equality, criminal justice, life, religion) |
+
+### 2. The Five Prerogative Writs Master Grid
+
+| Writ | Literal Latin Meaning | Issued Against | Cannot Be Issued Against | Core Purpose |
+|---|---|---|---|---|
+| **Habeas Corpus** | "To have the body of" | Public authorities AND private individuals | Lawful detention; Contempt of court; Outside jurisdiction | Sets an illegally detained person free immediately |
+| **Mandamus** | "We Command" | Public officials, inferior courts, tribunals, govt | Private individuals; Discretionary duties; President & Governors; Contractual duties | Compels performance of an obligatory public/statutory duty |
+| **Prohibition** | "To forbid" | Judicial and quasi-judicial authorities ONLY | Administrative, legislative, or private bodies | Preventive writ; stops lower court from exceeding jurisdiction |
+| **Certiorari** | "To be certified" | Judicial, quasi-judicial, and administrative bodies | Legislative bodies and private individuals | Quashes an illegal order passed without jurisdiction |
+| **Quo-Warranto** | "By what authority" | Usurper of a substantive public office | Ministerial or private office | Prevents unlawful occupation of a public constitutional office |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Confused pairs
+| Pair | Correct | Trap | Hindi |
+|---|---|---|---|
+| Citizen-Only Rights | Articles **15, 16, 19, 29, 30** ONLY | Include Art. 14 or Art. 21 in citizen-only list | 15, 16, 19, 29, 30 केवल नागरिकों को |
+| Article 32 vs Article 226 Scope | **Art. 226** (HC) is **wider** than Art. 32 (SC) because HC can issue writs for FRs + ordinary legal rights | Call Art. 32 wider | 226 का दायरा 32 से अधिक विस्तृत है |
+| Non-Suspendable Rights in Emergency | **Articles 20 and 21** CANNOT be suspended even during external emergency (Art. 359) | Claim Art. 21 can be suspended during war | 20 और 21 कभी निलंबित नहीं |
+| Right to Property Present Status | **Constitutional and Legal Right** under **Article 300A** in Part XII (NOT a Fundamental Right) | Call property right an ordinary statutory right only | संपत्ति = संवैधानिक अधिकार (300A) |
+| Procedure Established by Law vs Due Process | Text of Art. 21 contains **Procedure Established by Law** (Japan); **Due Process** was read in via *Maneka Gandhi* | Claim Due Process is written in Art. 21 text | विधि द्वारा स्थापित प्रक्रिया (जापान) |
+| Double Jeopardy Scope | Article 20(2) protects only against prosecution before a **Court of Law or Judicial Tribunal**; does NOT bar departmental inquiry | Apply double jeopardy to departmental suspension | विभागीय जाँच में दोहरा दंड लागू नहीं |
+| Self-Incrimination Scope | Article 20(3) protects only the **Accused in Criminal Proceedings**; does not bar giving thumbprints, blood, or DNA samples | Extend self-incrimination to civil cases | आत्म-अभिशंसन केवल आपराधिक मामलों में |
+| Mandamus Exceptions | Cannot be issued against the **President of India, State Governors, or sitting CJI** | Issue Mandamus against the President | राष्ट्रपति और राज्यपाल पर परमादेश नहीं |
+| Minorities Definition under Art. 30 | Covers **Religious and Linguistic Minorities** ONLY (does not cover cultural or racial minorities) | Include caste-based or racial minorities in Art. 30 | अनुच्छेद 30 = केवल धार्मिक और भाषाई |
+| Swaran Singh Committee vs 42nd Amd Duties | Swaran Singh recommended **8 duties**; 42nd Amendment added **10 duties**; 86th Amd added **11th duty** | Claim Swaran Singh proposed 11 duties | स्वर्ण सिंह = 8; 42वां = 10; 86वां = 11वां |
 
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Art. 14 | Art. 16 | Any **person** vs public employment (**citizens**) | — |
-| Art. 15 | Art. 17 | Discrimination grounds vs **Untouchability** (absolute) | — |
-| Art. 19 | Art. 21 | Citizens + six freedoms vs **all persons** + life/liberty | — |
-| Art. 19(1)(f) | Art. 300A | Deleted FR (44th) vs legal right to property | — |
-| Art. 20 | Art. 21 | Conviction protections vs torture/privacy/livelihood | — |
-| Art. 21 | Art. 21A | Life/liberty (wide) vs RTE **6–14** only | — |
-| Art. 22 ordinary | Art. 22 PD | 24-hour magistrate vs preventive detention code | — |
-| Art. 17 | Arts. 23–24 | Equality (untouchability) vs **Exploitation** | — |
-| Art. 29 | Art. 30 | Any section (culture) vs **minorities** institutions | — |
-| Art. 27 | Fee | No **tax** for a religion vs regulatory **fee** allowed | — |
-| Art. 32 | Art. 226 | SC (FR only) vs HC (FR + any legal right) | — |
-| Prohibition | Certiorari | **Before** decision vs **after** (quash) | — |
-| Art. 43A | Art. 43B | Workers’ participation vs **co-operatives** (97th) | — |
-| Art. 48 | Art. 50 | Cattle/agriculture vs **separation of judiciary** | — |
-| Art. 358 | Art. 359 | Only Art. 19 (auto) vs other FRs by order (not 20/21) | — |
-| FR | DPSP | Justiciable (USA) vs non-justiciable (**Ireland**) | — |
+## 🧠 Memory Anchors & Mnemonics
 
+1. **Citizen-Only Rights Formula:**
+   - **"15-16-19-29-30"**
+   - Memory Rule: "Odd pair 15-16, middle freedom 19, minority pair 29-30."
+2. **The Golden Triangle:**
+   - **Articles 14, 19, 21**
+   - Non-arbitrariness (14) + Core Freedoms (19) + Life with Dignity (21).
+3. **The 5 Writs Sequence:**
+   - **H-M-P-C-Q**
+   - **H**abeas Corpus (Body release)
+   - **M**andamus (Do your duty)
+   - **P**rohibition (Stop before order)
+   - **C**ertiorari (Quash after order)
+   - **Q**uo-Warranto (Show your authority)
+4. **86th Amendment Education Bridge:**
+   - **Part III:** Art. 21A (Child's Right)
+   - **Part IV:** Art. 45 (State's Policy for Toddlers)
+   - **Part IVA:** Art. 51A(k) (Parent's Duty)
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -323,4 +454,3 @@ D. None of the above
 **Ans: C** — Both** (48A + 51A(g)).
 
 </details>
-

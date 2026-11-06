@@ -7,9 +7,16 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 18 — World Landforms</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2025** | **Mount Etna & Stromboli Eruptions (Italy)**: Repeated explosive activity in the Mediterranean volcanic arc; Stromboli designated "Lighthouse of the Mediterranean" | Active volcanic island geography & Mediterranean seismicity |
+| **2024** | **Grindavík & Reykjanes Peninsula Fissure Eruptions (Iceland)**: Divergent plate boundary volcanism along the Mid-Atlantic Ridge; basaltic fissure vents | Plate tectonics, constructive plate margins & hotspot interactions |
+| **UKPCS 2025** | **Major World Deserts Classification**: **Atacama Desert (Chile)** is the driest non-polar desert on Earth due to the cold Humboldt (Peru) Current and rain-shadow of the Andes | Subtropical high-pressure vs cold-current desert mechanics |
+| **2024–2025** | **Mount Everest (Sagarmatha) Height**: Joint Sino-Nepalese official measurement confirmed at **8,848.86 m** | Tectonic uplift of the Greater Himalayas |
+
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -61,67 +68,139 @@ hide:
 
 
 ---
+46. **Mount Stromboli**: Located on the Aeolian Islands north of Sicily, Italy; continuously active for millennia, earning the title **'Lighthouse of the Mediterranean'** (*Faro del Mediterraneo*).
+47. **Ojos del Salado**: Stratovolcano in the Andes on the Argentina–Chile border (**6,893 m / 22,615 ft**); **highest active volcano in the world** and second-highest peak in the Western Hemisphere.
+48. **Mauna Loa & Mauna Kea**: Located on Hawaii; **Mauna Loa** is the world's largest shield volcano by volume; **Mauna Kea** is the tallest mountain from underwater oceanic base to peak (~10,210 m).
+49. **Krakatoa (Krakatau)**: Volcanic island in the **Sunda Strait** between Java and Sumatra, Indonesia; historic 1883 VEI-6 catastrophic explosion triggered massive tsunamis; new cone is *Anak Krakatau*.
+50. **Barren Island**: Located in the Andaman Sea (~138 km NE of Port Blair); **India's and South Asia's only confirmed active volcano**; primitive basaltic stratovolcano on the Sunda Arc subduction zone.
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               GLOBAL OROGENIC PHASES & MOUNTAIN BUILDING CYCLES (OLD TO YOUNG)
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [Pre-Cambrian] ──────────> > 600 Million Years Ago
+  │  ★ PRE-CAMBRIAN OROGENY:
+  │    Formation of ancient continental crystalline shields and relict cratons:
+  │    Canadian Shield, Baltic Shield, Deccan Peninsular Shield, Western Australian Shield, Aravalli Range.
+  │
+  ▼
+  [Early Paleozoic] ───────> ~450 - 400 Million Years Ago
+  │  ★ CALEDONIAN OROGENY:
+  │    Formed Scottish Highlands, Scandinavian Mountains, and older Northern Appalachians.
+  │
+  ▼
+  [Late Paleozoic] ────────> ~350 - 250 Million Years Ago (Carboniferous to Permian)
+  │  ★ HERCYNIAN / VARISCAN OROGENY:
+  │    Formed the Ural Mountains (Russia), Central Massif (France), Vosges & Black Forest (Germany),
+  │    Pennines (UK), Harz Mountains, and Tien Shan.
+  │
+  ▼
+  [Cenozoic / Tertiary] ───> ~65 - 2 Million Years Ago (Tertiary Period)
+     ★ ALPINE-HIMALAYAN OROGENY (Young Fold Mountains):
+       Most extensive recent mountain-building epoch resulting from collision of African, Indian,
+       and Eurasian plates:
+       Himalayas, Alps, Rockies, Andes, Atlas, Caucasus, Pyrenees, Zagros, Karakoram.
+       Characterized by high sharp relief, deep gorges, active seismicity, and volcanism (Pacific Ring of Fire).
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Major Mountain Ranges & Highest Peaks by Continent
+
+| Continent | Mountain Range | Length / Rank | Highest Peak | Elevation | Country / Location | Key Prelims Distinctions |
+|---|---|---|---|---|---|---|
+| **South America** | **Andes (एंडीज)** | **~7,000 km** (**#1 Longest in World**) | **Mt. Aconcagua** | 6,961 m | Argentina | Young fold mountains; subduction of Nazca plate beneath South American plate; rich copper & tin belts |
+| **North America** | **Rocky Mountains** | ~4,800 km (#2 Longest) | **Mt. Elbert** | 4,401 m | USA (Colorado) | Continental divide of North America; Western Cordillera |
+| **North America** | **Alaska Range** | ~650 km | **Mt. Denali (McKinley)** | **6,190 m** | USA (Alaska) | **Highest mountain peak in North America**; glaciated granite pluton |
+| **Asia** | **Himalayas (हिमालय)** | ~2,500 km | **Mt. Everest (Sagarmatha)** | **8,848.86 m** | Nepal / China (Tibet) | **Highest mountain system on Earth**; home to all 14 peaks above 8,000 m; collision of Indian & Eurasian plates |
+| **Europe** | **Alps (आल्प्स)** | ~1,200 km | **Mont Blanc** | 4,808 m | France / Italy border | Classic glacial landforms (horns, cirques, U-shaped valleys); Matterhorn peak |
+| **Europe** | **Caucasus (काकेशस)** | ~1,100 km | **Mt. Elbrus** | **5,642 m** | Russia | **Highest peak in Europe**; dormant twin-cone stratovolcano on Europe–Asia border |
+| **Africa** | **Atlas Mountains** | ~2,500 km | **Toubkal** | 4,167 m | Morocco | Fold mountains separating Mediterranean / Atlantic coast from Sahara Desert |
+| **Africa** | **East African Rift Mountains** | Rift volcanic | **Mt. Kilimanjaro** | **5,895 m** | Tanzania | **Highest peak in Africa**; world's highest free-standing mountain; snow-capped equatorial volcano |
+| **Australia** | **Great Dividing Range** | ~3,500 km (#3 Longest) | **Mt. Kosciuszko** | 2,228 m | New South Wales | Eastern highlands; watershed between Pacific drainage and Murray-Darling basin |
+| **Antarctica** | **Transantarctic / Sentinel** | ~3,500 km | **Vinson Massif** | 4,892 m | Ellsworth Mountains | Coldest alpine environment; discovered in 1958 |
+
+### 2. Major Deserts of the World Master Table
+
+| Desert | Continent & Location | Type | Approximate Area | Key Exam Characteristics & Mechanism |
+|---|---|---|---|---|
+| **Sahara Desert (सहारा)** | Northern Africa (11 nations) | Subtropical Hot Desert | 9.2 million km² (**#1 Largest Subtropical**) | Subtropical high pressure belt; Trade wind offshore blowing; Ergs (sand seas) & Hamadas (rocky plateaus) |
+| **Arabian Desert** | Arabian Peninsula (Saudi Arabia, etc.) | Subtropical Hot Desert | 2.3 million km² | Rub' al Khali ("Empty Quarter") is world's largest contiguous sand desert |
+| **Kalahari Desert** | Southern Africa (Botswana, Namibia, SA) | Semi-arid / Subtropical | 900,000 km² | Home of the **San (Bushmen)** hunter-gatherers; Okavango Delta inland swamp |
+| **Atacama Desert (अटाकामा)** | South America (Northern Chile & Peru) | Coastal Cold-Current Desert | 105,000 km² | **Driest non-polar desert on Earth**; formed by cold **Humboldt (Peru) Current** + Andes rain shadow; vast sodium nitrate & lithium brines |
+| **Namib Desert** | Southwestern Africa (Namibia) | Coastal Cold-Current Desert | 81,000 km² | Formed by cold **Benguela Current**; coastal fog sustains *Welwitschia mirabilis* plant; world's tallest sand dunes (Sossusvlei) |
+| **Great Victoria Desert** | Western & South Australia | Subtropical Arid | 348,750 km² | Red sand dunes, salt lakes, spinifex grasslands; Gibson and Great Sandy Deserts nearby |
+| **Gobi Desert (गोबी)** | Central Asia (Mongolia & Northern China) | **Continental Cold Desert** | 1.3 million km² | Rain-shadow of Himalayas; extreme annual temperature range (-40°C to +45°C); Bactrian (two-humped) camels |
+| **Taklamakan Desert** | Tarim Basin, Xinjiang (**China**) | **Continental Cold Desert** | 337,000 km² | Enclosed between Kunlun (south) and Tian Shan (north); shifting sand dunes; Silk Road oasis routes |
+| **Patagonian Desert** | South America (**Argentina**) | **Rain-Shadow Cold Desert** | 673,000 km² | Lies in the rain-shadow of the southern Andes Mountains; cold westerly winds |
+| **Dasht-e Kavir & Dasht-e Lut** | Iranian Plateau (**Iran**) | Salt & Sand Deserts | ~130,000 km² combined | Dasht-e Lut records some of the highest land surface temperatures on Earth (>70°C measured by MODIS) |
+
+### 3. Famous World Volcanoes & Tectonic Associations
+
+| Volcano | Country / Region | Tectonic Setting | Status / Eruption Type | High-Yield Prelims Distinction |
+|---|---|---|---|---|
+| **Mount Stromboli** | Aeolian Islands, **Italy** | African-Eurasian plate collision | Continuously active | **"Lighthouse of the Mediterranean"** (*Faro del Mediterraneo*) |
+| **Mount Vesuvius** | Bay of Naples, **Italy** | Subduction zone | Active / Explosive (Plinian) | Destroyed Roman cities of **Pompeii and Herculaneum** in 79 CE |
+| **Mount Etna** | Sicily, **Italy** | Convergent margin | Europe's most active volcano | UNESCO World Heritage site; fertile volcanic soils sustain vineyards |
+| **Mauna Loa** | Hawaii, **USA** | Hotspot (intra-plate) | Shield volcano | **World's largest active volcano by volume**; basaltic fluid lava |
+| **Ojos del Salado** | Andes (**Argentina / Chile**) | Nazca-South American subduction | Active stratovolcano | **Highest active volcano in the world** (6,893 m) |
+| **Cotopaxi** | Andes, **Ecuador** | Subduction zone | Symmetrical active stratovolcano | Among highest active volcanoes (5,897 m); snow-covered peak near Equator |
+| **Mount Fuji (Fujisan)** | Honshu, **Japan** | Triple tectonic plate junction | Dormant stratovolcano | Japan's highest peak (3,776 m); sacred cultural symbol |
+| **Krakatoa (Krakatau)** | Sunda Strait, **Indonesia** | Indo-Australian subduction | Active Caldera | Catastrophic 1883 VEI-6 explosion; triggered global atmospheric cooling |
+| **Mount Merapi** | Central Java, **Indonesia** | Convergent boundary | Most active volcano in Indonesia | Produces deadly pyroclastic flows (*Wedhus Gembel*) |
+| **Mount Pinatubo** | Luzon, **Philippines** | Eurasian-Philippine subduction | Active stratovolcano | 1991 colossal eruption injected 20 MT SO2 into stratosphere, cooling Earth by ~0.5°C |
+| **Mount St. Helens** | Cascade Range (Washington, **USA**) | Juan de Fuca subduction | Explosive stratovolcano | Historic 1980 lateral blast eruption and massive landslide |
+| **Barren Island** | Andaman Sea, **India** | Burma-Indian plate boundary | Active stratovolcano | **Only active volcano in India and South Asia** |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Andes Mountains** | **Himalayas** | World's **longest continental mountain range** (~7,000 km, South America) vs World's **highest mountain range** with highest peaks (Asia) | एंडीज (सबसे लंबी) / हिमालय (सबसे ऊंची) |
+| **Mt. Everest** | **Mt. Aconcagua** | Highest peak in the **World and Asia** (8,848.86 m) vs Highest peak in the **Western and Southern Hemispheres** (6,961 m, Argentina) | एवरेस्ट / एकॉनकागुआ |
+| **Mt. Denali (McKinley)** | **Mt. Elbert** | Highest peak in **North America** (6,190 m, Alaska Range) vs Highest peak in the **Rocky Mountains** (4,401 m, Colorado) | देनाली / एल्बर्ट |
+| **Mt. Kilimanjaro** | **Atlas Mountains** | Free-standing volcanic mountain in **Tanzania (East Africa)** vs Tertiary fold mountain range in **Morocco/Algeria (North-West Africa)** | किलिमंजारो / एटलस |
+| **Atacama Desert** | **Patagonian Desert** | Extremely dry subtropical coastal desert in **Chile/Peru** formed by Humboldt current vs Rain-shadow cold desert in **Argentina** east of Andes | अटाकामा / पेटागोनिया |
+| **Gobi Desert** | **Taklamakan Desert** | Large cold desert in **Mongolia and China** vs Cold desert enclosed in the **Tarim Basin of Xinjiang, China** | गोबी / तकलामकान |
+| **Namib Desert** | **Kalahari Desert** | Coastal cold-current desert in **Namibia** (Benguela current) vs Inland semi-arid desert basin in **Botswana and South Africa** | नामिब / कालाहारी |
+| **Mount Stromboli** | **Mount Vesuvius** | Continuously active "Lighthouse of the Mediterranean" (Aeolian Islands) vs Continental Italian volcano that buried Pompeii (Naples) | स्ट्रोम्बोली / विसुवियस |
+| **Mauna Loa** | **Mauna Kea** | **Largest active shield volcano by volume** (Hawaii) vs **Tallest mountain from ocean floor base to peak** (~10,210 m, Hawaii) | मौना लोआ / मौना केआ |
+| **Barren Island** | **Narcondam Island** | India's only **active volcano** (Andaman Sea) vs India's **dormant/extinct volcanic island** (Andaman Sea) | बैरन / नारकोंडम द्वीप |
 
-| Year | Fact | Why it matters | Source |
-|------|------|----------------|--------|
-| Static | Andes longest vs Himalaya highest | Fold-chain swap | Atlas |
-| Static | Kilimanjaro = East African Rift (not Ring of Fire) | Volcano belt trap | Coaching |
-| Static | Hot-desert west-coast + cold-current logic | Desert location stems | NCERT |
-| Static | Grassland name set (Pampas / Campos / Llanos / Prairie / Steppe) | Match-list diet | Lucent |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Continents by Their Highest Peaks:
+- **Asia**: Mt. **E**verest (8,848.86 m)
+- **South America**: Mt. **A**concagua (6,961 m)
+- **North America**: Mt. **D**enali (6,190 m)
+- **Africa**: Mt. **K**ilimanjaro (5,895 m)
+- **Europe**: Mt. **E**lbrus (5,642 m — in Caucasus, not Mont Blanc!)
+- **Antarctica**: **V**inson Massif (4,892 m)
+- **Australia**: Mt. **K**osciuszko (2,228 m)
+- *(Mnemonic: **E**very **A**thlete **D**reams of **K**imbing **E**very **V**alley's **K**ing)*
 
-### Confused pairs
+### 2. Major Cold Deserts: **G-T-P**
+- **G**obi (Mongolia/China)
+- **T**aklamakan (Tarim Basin, China)
+- **P**atagonia (Argentina)
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Andes vs Himalaya | Andes = **longest** fold chain; Himalaya = **highest** | Swapped | एंडीज़ / हिमालय |
-| Kilimanjaro vs Fuji | Kilimanjaro = **E African Rift**; Fuji = Ring of Fire | Kilimanjaro in Pacific | किलिमंजारो |
-| Pyrenees vs Alps | Pyrenees = **Spain–France**; Alps = Switzerland / C Europe | Alps on Spain–France MCQ | पिरेनीज़ |
-| Apennine vs Balkan | Apennine = **Italy**; Balkan = **Bulgaria** | Swapped | एपिनाइन / बाल्कन |
-| Atlas vs Hoggar | Atlas high peak **Toubkal = Morocco**; Hoggar = **Algeria** | Both “North Africa” dump | अटलास / होगार |
-| Gobi vs Sahara | Gobi = **cold**, Mongolia+China; Sahara = **hot**, Africa | Gobi in Kazakhstan | गोबी |
-| Gibson vs Sonoran | Gibson = **Australia**; Sonoran = **USA** | Gibson–Brazil | गिब्सन |
-| Pampas vs Campos | Pampas = **Argentina**; Campos = **Brazil** | Pampas–Brazil/Chile | पम्पास |
-| Prairie vs Steppe | Prairie = N America; Steppe = Eurasia | Names swapped | प्रेयरी / स्टेपी |
-| Savanna vs hot desert | “Land of Big Games” = **Savanna**, not Sahara | Desert = safari trap | सवाना |
-| Maquis vs Chaparral | Maquis = **Med basin**; Chaparral = **California** | Same shrub, wrong coast | माकी / चैपरैल |
-| Fynbos vs Matorral | Fynbos = **South Africa**; Matorral = **Chile** | Swapped SH west coasts | फिनबॉस |
-| Taiga vs Tundra | Taiga = **conifer forest**; Tundra = **treeless** cold | Both “cold vegetation” | टैगा / टुंड्रा |
-| Borneo vs Java | Borneo = **Sunda shelf**, not volcanic dump; Java = volcanic arc | “All Indonesia = volcano” | बोर्नियो |
-| Greenland vs New Guinea | Greenland = **largest island**; New Guinea = 2nd | Australia is a continent | ग्रीनलैंड |
-| Med vs monsoon | Med rain = **winter**; monsoon rain = **summer** | Med summer rain | भूमध्यसागरीय |
-| Pamir vs Tibet | Pamir = phrase **Roof of the world**; Tibet = **highest large** plateau | Swapped | पामीर / तिब्बत |
-| Hot desert coasts | **West** coasts + cold currents + subtropical high | East-coast deserts | पश्चिमी तट |
-| Chernozem | Temperate grassland / **steppe–prairie** black soil | Equatorial laterite | चेरनोज़ेम |
-| Residual mountains | Worn leftovers of old folds (Appalachians type) | Young Himalaya | अवशिष्ट |
-| Continent area | Asia largest; **Australia** smallest | Africa largest | महाद्वीप |
-| Most countries | **Africa (~54)** | Europe / Asia | अफ्रीका |
-| Guyana | **South America** | Africa (Gabon/Guinea set) | गुयाना |
-| Highest mean elevation | **Antarctica** | Asia | अंटार्कटिका |
-| Longest range | **Andes** | Himalaya / Rockies | एंडीज़ |
-| Sierra Nevada | **Block** mountain | Young fold with Alps | सिएरा नेवादा |
-| Death Valley | **Rift** + extreme heat (California) | Cold Siberia only | डेथ वैली |
-| Telegraphic Plateau | **N Atlantic Ridge** | Indian Ocean | टेलीग्राफिक |
-| Thar | **Most populated** desert | Sahara densest people | थार |
-| Downs vs tropical | Downs = **temperate** (Australia) | Called tropical | डाउन्स |
-| Selvas vs grassland | Selvas = Amazon **rainforest** | Treated as grassland | सेल्वास |
-| Veld vs Downs | Veld = **South Africa**; Downs = **Australia** | Veld–Australia | वेल्ड / डाउन्स |
-| Faroe | **Sheep Islands** (Denmark) | Canary / Madeira | फेरो |
-| Honshu | Japan’s **largest**; Tokyo | Hokkaido largest | होन्शू |
-| Falklands | **S Atlantic** | Indian Ocean | फॉकलैंड |
-| Galápagos | **Ecuador** | Peru | गैलापागोस |
-| Socotra | **Yemen** | Oman | सोकोत्रा |
-| Majuli | **Brahmaputra** river island | Amazon | माजुली |
+### 3. Coastal Cold-Current Deserts:
+- **Atacama Desert** (Chile) ← Driven by **Humboldt (Peru) Current**
+- **Namib Desert** (Namibia) ← Driven by **Benguela Current**
+- **Western Sahara** ← Driven by **Canary Current**
+- **Mojave / Sonoran** (Baja California) ← Driven by **California Current**
+- *(Exam Rule: Cold ocean currents desiccate onshore air, preventing cloud formation and rain!)*
 
+### 4. Famous Volcano Monikers:
+- **"Lighthouse of the Mediterranean"** = **Stromboli**
+- **"World's Highest Active Volcano"** = **Ojos del Salado** (6,893 m, Chile/Argentina)
+- **"India's Only Active Volcano"** = **Barren Island** (Andaman)
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -486,4 +565,3 @@ D. Namib — fog-coast desert
 **Logic:** Baobab/acacia are the dry/savanna fringe markers.
 
 </details>
-

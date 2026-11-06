@@ -7,9 +7,15 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 26 — Agriculture & Minerals Ranks (Data Fact-Locks)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **IBM Latest Data** | **Indian Minerals Yearbook Benchmark**: **Odisha** sweeps >50% of national **Iron Ore**, >65% of **Bauxite**, and >95% of **Chromite** production | State mineral dominance patterns & multi-mineral production crowns |
+| **MoA&FW Annual Data** | **National Agricultural Crowns**: **Uttar Pradesh** ranks #1 in Total Foodgrains, Wheat, Sugarcane, and Potato; **West Bengal** ranks #1 in Rice; **Madhya Pradesh** ranks #1 in Total Pulses | State agricultural ranking fact-locks |
+| **2023–2025** | **Critical Minerals Schedule**: Government of India notified 24 critical and strategic minerals; auction powers vested directly in Central Government | MMDR Act 2023 amendment & critical minerals policy |
+| **Global Data** | **India's Global Position**: India ranks **#1 in Milk, Pulses, Jute**, and Total Spices; ranks **#2 in Rice, Wheat, Sugarcane, Cotton, Fruits & Vegetables**, and Tea | Global commodity standing & export share benchmarks |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -61,45 +67,133 @@ hide:
 
 
 ---
+46. **Crude Petroleum Production Rank**: **Rajasthan (Barmer / Mangala field)** is the leading onshore crude petroleum producer (~20–22%), followed by **Gujarat** and **Assam**; **Offshore fields (Mumbai High / Arabian Sea)** contribute ~50% of India's total domestic crude oil.
+47. **Natural Gas Production Rank**: **Assam** is the leading onshore producer of natural gas; **Eastern Offshore (KG-D6 basin / Bay of Bengal)** and **Western Offshore (Mumbai High / Bassein)** dominate offshore natural gas output.
+48. **Gold Production & Reserve**: **Karnataka** accounts for >99% of India's primary gold production (Hutti Gold Mines, Raichur district); **Bihar** holds the largest estimated in-situ gold ore resources (~44% in Jamui district), though non-operational.
+49. **Silver Production & Monopoly**: **Rajasthan** produces almost **100% of India's silver**, recovered as a by-product of lead-zinc smelting from the Zawar and Rampura-Agucha mines (operated by Hindustan Zinc Limited).
+50. **Diamond Monopoly**: **Madhya Pradesh** is the **sole producer of diamond** in India; primary diamond pipe mines located at **Majhgawan / Panna** (operated by NMDC in Vindhyan conglomerates).
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INDIAN COMMODITY PRODUCTION TRAJECTORY & PEAK LEAPS
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1950-1951] ──> BASELINE POST-INDEPENDENCE PRODUCTION:
+  │               Total foodgrain production stood at just ~50.8 million tonnes; severe import dependency.
+  │
+  ▼
+  [1966-1970] ──> FIRST GREEN REVOLUTION LEAP:
+  │               Wheat output tripled from 12 MT to 36 MT within a decade; Punjab & Haryana become breadbaskets.
+  │
+  ▼
+  [1970-1998] ──> OPERATION FLOOD TRANSFORMS DAIRY:
+  │               India overtakes the United States in 1998 to become the world's largest milk producer.
+  │
+  ▼
+  [1974] ───────> MUMBAI HIGH DISCOVERY:
+  │               *Sagar Samrat* discovers oil 176 km off Mumbai; transformed India's domestic energy map.
+  │
+  ▼
+  [2004] ───────> BARMER OIL STRIKE (Mangala Field, Rajasthan):
+  │               Rajasthan emerges as India's leading onshore crude oil producing state.
+  │
+  ▼
+  [2015] ───────> MMDR AMENDMENT ACT 2015:
+  │               Transitioned all major mineral concessions to mandatory competitive e-auction.
+  │
+  ▼
+  [2023-2024] ──> RECORD COMMODITY HARVEST:
+  │               Total foodgrain production reaches all-time record >330 million tonnes;
+  │               Coal production crosses historic 1 Billion Tonne mark (1,000 MT).
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. All-India Agricultural Crop Production Ranks (Latest Fact-Locks)
+
+| Crop / Commodity | #1 Producing State | #2 State | #3 State | High-Yield Prelims Exam Distinction |
+|---|---|---|---|---|
+| **Total Foodgrains (कुल खाद्यान्न)** | **Uttar Pradesh (~19%)** | Madhya Pradesh | Punjab | UP produces ~19% of India's total foodgrains; MP has surged in wheat/pulses |
+| **Wheat (गेहूं)** | **Uttar Pradesh (~32%)** | Madhya Pradesh | Punjab | UP leads in area & volume; **Punjab leads in yield (kg/ha)** |
+| **Rice (चावल / धान)** | **West Bengal (~14%)** | Uttar Pradesh | Punjab | WB leads volume; **Punjab leads in yield (kg/ha)** |
+| **Total Pulses (कुल दालें)** | **Madhya Pradesh (~30%)** | Maharashtra | Rajasthan | MP is India's premier pulse producer; gram is major pulse |
+| **Gram / Chickpea (चना)** | **Madhya Pradesh** | Maharashtra | Rajasthan | Accounts for ~45% of total pulse production in India |
+| **Tur / Arhar (तूर / अरहर)** | **Maharashtra** | Madhya Pradesh | Karnataka | Long-duration kharif pulse |
+| **Total Oilseeds (कुल तिलहन)** | **Rajasthan (~22%)** | Gujarat | Madhya Pradesh | Rajasthan leads mustard; Gujarat leads groundnut; MP leads soybean |
+| **Rapeseed & Mustard (सरसों)** | **Rajasthan (~45%)** | Madhya Pradesh | Haryana | Premier rabi oilseed of northwestern India |
+| **Soybean (सोयाबीन)** | **Maharashtra / MP** | Madhya Pradesh | Rajasthan | Traditional "Soya State" MP and Maharashtra compete closely |
+| **Groundnut (मूंगफली)** | **Gujarat (~45%)** | Rajasthan | Tamil Nadu | Saurashtra region of Gujarat is the primary groundnut belt |
+| **Sugarcane (गन्ना)** | **Uttar Pradesh (~45%)** | Maharashtra | Karnataka | UP leads area & cane volume; **Maharashtra leads in sugar recovery %** |
+| **Cotton (कपास)** | **Gujarat** | Maharashtra | Telangana | "White Gold"; grown on Deccan black lava soil (Regur) |
+| **Jute (जूट / पटसन)** | **West Bengal (>75%)** | Bihar | Assam | "Golden Fibre"; concentrated in Ganga–Brahmaputra delta |
+| **Tea (चाय)** | **Assam (>50%)** | West Bengal | Tamil Nadu | Surma and Brahmaputra valleys of Assam lead production |
+| **Coffee (कॉफ़ी)** | **Karnataka (~70%)** | Kerala | Tamil Nadu | Kodagu, Chikmagalur, Hassan districts in Karnataka dominate |
+| **Tobacco (तम्बाकू)** | **Gujarat** | Andhra Pradesh | Uttar Pradesh | Gujarat leads bidi tobacco; AP leads Virginia flue-cured (FCV) tobacco |
+| **Potato (आलू)** | **Uttar Pradesh (~35%)** | West Bengal | Bihar | UP leads national output; Agra, Farrukhabad, Kannauj belt |
+| **Milk (दूध)** | **Uttar Pradesh (~15.7%)** | Rajasthan | Madhya Pradesh | UP regained #1 milk producing state rank in India |
+
+### 2. All-India Mineral Production & Reserve Ranks Master Table
+
+| Mineral | Leading Producing State (Production #1) | Leading Reserve State (Reserves #1) | Famous Mining Centers | High-Yield Prelims Exam Trap |
+|---|---|---|---|---|
+| **Iron Ore (लौह अयस्क)** | **Odisha (>50%)** | **Hematite: Odisha**<br>**Magnetite: Karnataka** | Bailadila (CG), Mayurbhanj (OD), Noamundi (JH), Sandur/Kudremukh (KT) | Odisha leads hematite extraction; Karnataka holds 70% of magnetite reserves |
+| **Bauxite (बॉक्साइट)** | **Odisha (>65%)** | **Odisha (>50%)** | Panchpatmali, Koraput, Rayagada (OD); Lohardaga (JH) | Odisha sweeps both production and reserves; laterite weathering product |
+| **Manganese (मैंगनीज)** | **Madhya Pradesh (~33%)** | **Odisha (~44%)** | Balaghat / Bharveli (MP), Bhandara (MH), Sundargarh (OD) | **MP leads PRODUCTION; Odisha leads RESERVES!** |
+| **Copper Ore (तांबा)** | **Madhya Pradesh (~60%)** | **Rajasthan (~54%)** | Malanjkhand (MP - open pit), Khetri (RJ), Singhbhum (JH) | **MP leads PRODUCTION; Rajasthan leads RESERVES!** |
+| **Lead & Zinc (सीसा-जस्ता)** | **Rajasthan (~100%)** | **Rajasthan (~89%)** | Rampura-Agucha (Bhilwara), Zawar (Udaipur), Rajpura-Dariba | Rajasthan holds near-complete national monopoly |
+| **Chromite (क्रोमाइट)** | **Odisha (>95%)** | **Odisha (>95%)** | Sukinda Valley (Jajpur district, Odisha) | Odisha holds near 100% monopoly over Indian chromite |
+| **Coal (कोयला)** | **Odisha / Chhattisgarh** | **Jharkhand (~26%)** | Jharia (JH - coking), Raniganj (WB), Korba (CG), Talcher (OD) | **Odisha/CG leads PRODUCTION; Jharkhand leads RESERVES!** |
+| **Lignite (भूरा कोयला)** | **Tamil Nadu (>80%)** | **Tamil Nadu (>80%)** | Neyveli (Cuddalore, TN), Palana (RJ) | Tamil Nadu holds near-total monopoly in production & reserves |
+| **Crude Petroleum (कच्चा तेल)** | **Onshore: Rajasthan**<br>**Total: Offshore (~50%)** | **Offshore & Assam** | Barmer (Mangala, RJ), Mumbai High, Ankleshwar (GJ), Digboi (Assam) | Rajasthan is #1 onshore; Mumbai High offshore is #1 overall |
+| **Limestone (चूना पत्थर)** | **Rajasthan / MP / AP** | **Karnataka / AP** | Satna (MP), Chittorgarh (RJ), Yerraguntla (AP) | Essential raw material for cement plants; Vindhyan formation |
+| **Diamond (हीरा)** | **Madhya Pradesh (100%)** | **Madhya Pradesh (90%)** | Panna / Majhgawan pipe (MP) | **Sole diamond producing state in India is MP** |
+| **Silver (चांदी)** | **Rajasthan (100%)** | **Rajasthan (87%)** | Smelted as by-product from Zawar & Rampura-Agucha Pb-Zn | Near total monopoly of Rajasthan (Hindustan Zinc) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Copper Production #1** | **Copper Reserves #1** | **Madhya Pradesh (Malanjkhand mine)** leads national output vs **Rajasthan (Khetri belt)** holds largest estimated reserves | तांबा उत्पादन (मप्र) / भंडार (राजस्थान) |
+| **Coal Production #1** | **Coal Reserves #1** | **Odisha / Chhattisgarh** extracts highest annual tonnage vs **Jharkhand (Jharia coalfield)** holds highest geological reserves | कोयला उत्पादन (ओडिशा/छग) / भंडार (झारखंड) |
+| **Manganese Production #1** | **Manganese Reserves #1** | **Madhya Pradesh (Balaghat mine)** leads extraction vs **Odisha (Sundargarh/Keonjhar)** holds largest geological reserves | मैंगनीज उत्पादन (मप्र) / भंडार (ओडिशा) |
+| **Iron Ore Production #1** | **Magnetite Reserves #1** | **Odisha** extracts >50% of national iron ore (Hematite) vs **Karnataka (Kudremukh/Bababudan)** holds >70% of Magnetite reserves | लौह अयस्क उत्पादन (ओडिशा) / मैग्नेटाइट भंडार (कर्नाटक) |
+| **Wheat Production #1** | **Wheat Yield #1** | **Uttar Pradesh** produces largest aggregate volume (~32%) vs **Punjab** records highest per hectare productivity (kg/ha) | गेहूं उत्पादन (उप्र) / उत्पादकता (पंजाब) |
+| **Rice Production #1** | **Rice Yield #1** | **West Bengal** produces highest aggregate rice crop vs **Punjab** achieves highest yield per hectare | चावल उत्पादन (पं. बंगाल) / उत्पादकता (पंजाब) |
+| **Sugarcane Volume #1** | **Sugar Recovery Rate #1** | **Uttar Pradesh** leads area, cane output, and mill numbers vs **Maharashtra** leads sugar extraction recovery % | गन्ना उत्पादन (उप्र) / चीनी परता (महाराष्ट्र) |
+| **Gold Production #1** | **Gold Reserves #1** | **Karnataka (Hutti mine)** produces >99% of active gold vs **Bihar (Jamui)** holds largest unexploited in-situ resources | सोना उत्पादन (कर्नाटक) / संसाधन भंडार (बिहार) |
 
-| Year | Fact | Why it matters | Source |
-|------|------|----------------|--------|
-| Rolling | IBM / Agriculture Annual Report rank updates | Reserves vs production crowns can move | IBM / MoA&FW |
-| Static | Odisha iron–bauxite–chromite sweep | Mineral State cluster | IBM |
-| Static | UP wheat–sugarcane–potato–milk cluster | State rank cluster | MoA&FW |
-| Static | China vs India global agri ranks; Kazakhstan uranium | World rank stems | FAO / USGS style tables |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Uttar Pradesh #1 National Sweep in Agriculture: **W-S-P-M-F**
+- **W**heat (#1 — over 32% of India)
+- **S**ugarcane (#1 — over 45% of India)
+- **P**otato (#1 — over 35% of India)
+- **M**ilk (#1 — over 15.7% of India)
+- **F**oodgrains (#1 Total — over 19% of India)
+- *(Mnemonic: **W**e **S**ee **P**lenty **M**ilk on **F**arms)*
 
-### Confused pairs
+### 2. Odisha Mineral Triple-Crown: **I-B-C**
+- **I**ron Ore (>50% of India)
+- **B**auxite (>65% of India)
+- **C**hromite (>95% of India)
+- *(Mnemonic: Odisha is an **I-B-C** Mineral Giant)*
 
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Coal: Top Reserves** | **Coal: Top Production** | **Jharkhand** (Jharia/Bokaro) vs **Chhattisgarh / Odisha** | कोयला भंडार (झारखंड) / कोयला उत्पादन (छत्तीसगढ़) |
-| **Copper: Top Reserves** | **Copper: Top Production** | **Rajasthan** (Khetri belt) vs **Madhya Pradesh** (Malanjkhand, Balaghat) | तांबा भंडार (राजस्थान) / तांबा उत्पादन (म.प्र.) |
-| **Iron Ore: Top Reserves** | **Iron Ore: Top Production** | **Odisha** (reserves & production) vs **Chhattisgarh** (Bailadila - rank 2) | लौह अयस्क भंडार व उत्पादन (ओडिशा) / द्वितीय (छत्तीसगढ़) |
-| **Bauxite: Top State** | **Chromite: Top State** | **Odisha** (Panchpatmali/Koraput) vs **Odisha** (Sukinda Valley, nearly 100%) | बॉक्साइट (ओडिशा) / क्रोमाइट (ओडिशा - सुकिंदा) |
-| **Lead & Zinc: Top State** | **Mica: Top State** | **Rajasthan** (Zawar/Rampura-Agucha, 100%) vs **Andhra Pradesh** (Nellore belt) | सीसा-जस्ता (राजस्थान) / अभ्रक (आंध्र प्रदेश) |
-| **Gold: Inferred Reserves** | **Gold: Actual Production** | **Bihar** (Jamui deposits) vs **Karnataka** (Hutti Gold Mines, 99%+) | स्वर्ण भंडार अनुमान (बिहार) / स्वर्ण उत्पादन (कर्नाटक) |
-| **Diamond: Top State** | **Uranium: Top Mine** | **Madhya Pradesh** (Panna) vs **Jharkhand** (Jaduguda) / AP (Tummalapalle) | हीरा (पन्ना, म.प्र.) / यूरेनियम (जादूगोड़ा, झारखंड) |
-| **Wheat: Top Producer** | **Rice: Top Producer** | **Uttar Pradesh** (Wheat, Sugarcane, Potato) vs **West Bengal** (Rice, Jute) | गेहूं शीर्ष (यूपी) / चावल शीर्ष (पश्चिम बंगाल) |
-| **Highest Wheat Productivity** | **Highest Wheat Production** | **Punjab** (kg/hectare yield) vs **Uttar Pradesh** (total gross tonnage) | गेहूं उत्पादकता (पंजाब) / कुल उत्पादन (यूपी) |
-| **Total Pulses: Top State** | **Total Oilseeds: Top State** | **Madhya Pradesh** (Gram/Pulses) vs **Rajasthan** (Mustard/Oilseeds) | कुल दालें (म.प्र.) / कुल तिलहन (राजस्थान) |
-| **Tea: Top Producer** | **Coffee: Top Producer** | **Assam** (>52% national tea) vs **Karnataka** (>70% national coffee) | चाय शीर्ष (असम) / कॉफी शीर्ष (कर्नाटक) |
-| **Cotton: Top Producer** | **Jute: Top Producer** | **Gujarat** (White Gold) vs **West Bengal** (Golden Fibre, >75%) | कपास (गुजरात) / जूट (पश्चिम बंगाल) |
-| **Total Fruits: Top State** | **Total Vegetables: Top State** | **Andhra Pradesh** (Fruits) vs **Uttar Pradesh** (Vegetables) | कुल फल (आंध्र प्रदेश) / कुल सब्जियां (उत्तर प्रदेश) |
-| **Milk: Global Rank 1** | **Milk: India State Rank 1** | **India** (global #1) vs **Uttar Pradesh** (India #1, >16%) | दुग्ध विश्व प्रथम (भारत) / भारत में प्रथम (यूपी) |
-| **Global Coal Rank 1** | **Global Uranium Rank 1** | **China** (>50% coal production) vs **Kazakhstan** (>43% uranium production) | विश्व कोयला शीर्ष (चीन) / यूरेनियम शीर्ष (कजाकिस्तान) |
-| **Global Iron Ore Rank 1** | **Global Copper Rank 1** | **Australia** (Pilbara iron ore) vs **Chile** (Escondida copper) | विश्व लौह अयस्क (ऑस्ट्रेलिया) / तांबा (चिली) |
+### 3. Rajasthan Exclusive Monopolies:
+- **Lead & Zinc** (~100% — Rampura-Agucha & Zawar)
+- **Silver** (~100% — by-product of Zinc smelting)
+- **Wollastonite & Calcite** (~100%)
+- **Gypsum** (>90%)
+- **Marble** (>90%)
 
+### 4. Production vs Reserves Trap-Pairs:
+- **Copper**: **P**roduction = **MP** | **R**eserves = **Rajasthan**
+- **Manganese**: **P**roduction = **MP** | **R**eserves = **Odisha**
+- **Coal**: **P**roduction = **Odisha/CG** | **R**eserves = **Jharkhand**
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -471,4 +565,3 @@ D. Panna diamonds — Rajasthan
 **Logic:** Rajasthan is Pb–Zn / oilseeds / onshore oil, not diamond.
 
 </details>
-

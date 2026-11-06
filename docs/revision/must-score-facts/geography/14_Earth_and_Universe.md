@@ -7,9 +7,15 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 14 — Earth & Universe</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **23 Aug 2023** | **Chandrayaan-3 Historic Moon Landing**: Vikram lander touched down successfully near the lunar South Pole (**Shiv Shakti Point**); India became the 4th nation to soft-land on Moon and 1st near South Pole; **23 August declared National Space Day** | Space exploration milestones, lunar coordinates & national commemorative days |
+| **2023–2024** | **Aditya-L1 Solar Mission**: India's first dedicated solar observatory successfully inserted into a halo orbit around the **Sun–Earth Lagrange Point 1 (L1)** (~1.5 million km from Earth) | Solar physics, space observatory locations & orbital mechanics |
+| **2024–2026** | **ISRO Gaganyaan Mission**: India's human spaceflight programme aimed at sending a 3-member crew to a 400 km Low Earth Orbit (LEO) for 3 days; humanoid robot *Vyommitra* tested in uncrewed trial | Indigenous human spaceflight & orbital infrastructure |
+| **2023–2025** | **James Webb Space Telescope (JWST)**: Operating at Sun–Earth **L2 Lagrange Point**; discovered early massive galaxies formed within 300 million years of the Big Bang | Cosmology, deep space astronomy & Lagrange points |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -67,86 +73,128 @@ hide:
 
 ---
 
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               COSMIC EVOLUTION & SPACE EXPLORATION MILESTONES
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [13.8 Billion Years Ago] > THE BIG BANG:
+  │                          Georges Lemaître's Primeval Atom hypothesis (1927); universe expands from singularity.
+  │
+  ▼
+  [4.6 Billion Years Ago] ─> FORMATION OF THE SOLAR SYSTEM:
+  │                          Nebular Hypothesis (Kant & Laplace); gravitational collapse of solar nebula.
+  │
+  ▼
+  [1929] ──────────────────> EDWIN HUBBLE DISCOVERS EXPANDING UNIVERSE:
+  │                          Observed cosmological redshift of distant galaxies (Hubble's Law).
+  │
+  ▼
+  [1957] ──────────────────> SPUTNIK 1 LAUNCHED (USSR):
+  │                          First artificial Earth satellite; dawn of the Space Age.
+  │
+  ▼
+  [1969] ──────────────────> APOLLO 11 MOON LANDING:
+  │                          Neil Armstrong and Buzz Aldrin walk on the Sea of Tranquility (20 July 1969).
+  │
+  ▼
+  [1975] ──────────────────> ARYABHATA LAUNCHED:
+  │                          India's first indigenous satellite launched via Soviet Kosmos-3M rocket.
+  │
+  ▼
+  [2008] ──────────────────> CHANDRAYAAN-1 LAUNCHED:
+  │                          ISRO spacecraft discovers water molecules ($H_2O$ and $OH$) on the lunar surface.
+  │
+  ▼
+  [2013-2014] ─────────────> MARS ORBITER MISSION (MOM / Mangalyaan):
+  │                          India becomes first nation to enter Mars orbit on maiden attempt; cost-effective mission.
+  │
+  ▼
+  [2023] ──────────────────> CHANDRAYAAN-3 SOFT LANDS ON MOON:
+  │                          Historic lunar south pole touchdown at Shiv Shakti Point.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Solar System Planets: Physical & Orbital Characteristics
+
+| Planet | Distance from Sun (Rank) | Moons (Satellites) | Rotation Period | Revolution Period | Atmosphere / Distinctive Physical Features | High-Yield Prelims Exam Lock |
+|---|---|---|---|---|---|---|
+| **Mercury (बुध)** | #1 (Closest, 58M km) | **0 (None)** | 59 Earth days | **88 Earth days (Fastest)** | Virtually atmosphere-less; extreme temperature swing (-180°C to +430°C) | Smallest planet in solar system; fastest orbital speed (47 km/s) |
+| **Venus (शुक्र)** | #2 (108M km) | **0 (None)** | **243 days (Longest, Retrograde E $ightarrow$ W)** | 225 days | **~96% $CO_2$**; runaway greenhouse effect; sulphuric acid clouds | **Hottest planet (~465°C)**; "Morning Star" & "Evening Star"; "Earth's Twin" |
+| **Earth (पृथ्वी)** | #3 (150M km) | 1 (Moon) | 23h 56m 4s | 365.25 days | 78% $N_2$, 21% $O_2$, 0.93% Ar, 0.04% $CO_2$; liquid water | **Densest planet in solar system (5.51 g/cm³)**; "Blue Planet" |
+| **Mars (मंगल)** | #4 (228M km) | **2 (Phobos & Deimos)** | 24h 37m | 687 days | Thin $CO_2$ atmosphere; polar dry-ice caps; iron oxide dust | **"Red Planet"**; **Olympus Mons** (largest volcano in solar system); Deimos is smallest moon |
+| **Jupiter (बृहस्पति)** | #5 (778M km) | **95+ (Ganymede, Europa, Io, Callisto)** | **9h 55m (Fastest rotation)** | 11.86 Earth years | $H_2$, $He$, methane; faint ring system; **Great Red Spot** anticyclone | **Largest planet in solar system**; **Ganymede** is largest satellite (bigger than Mercury) |
+| **Saturn (शनि)** | #6 (1,427M km) | **146+ (Titan, Enceladus, Mimas)** | 10h 33m | 29.45 Earth years | Hydrogen and helium; spectacular ring system composed of water ice | **Lowest density (0.69 g/cm³ — less than water!)**; **Titan** has dense nitrogen atmosphere |
+| **Uranus (अरुण)** | #7 (2,870M km) | 28 (Titania, Oberon, Miranda) | 17h 14m (**Retrograde E $ightarrow$ W**) | 84 Earth years | Hydrogen, helium, methane; faint dark rings; pale cyan/green color | Rotates on its side (**axial tilt 98°** — "Rolling Planet"); ice giant |
+| **Neptune (वरुण)** | #8 (Farthest, 4,498M km) | 16 (Triton, Proteus) | 16h 6m | **164.8 Earth years (Slowest)** | Methane, ammonia, hydrogen; violent supersonic winds (>2,000 km/h) | Farthest planet; deep azure blue color; **Triton** has retrograde orbit & nitrogen geysers |
+
+### 2. Earth's Interior Layers & Seismic Discontinuities
+
+| Discontinuity | Boundary Between Interior Layers | Depth Range (Approx.) | Discovered By / Scientific Diagnostic |
+|---|---|---|---|
+| **Conrad Discontinuity** | **Upper Continental Crust** (Sial — Granitic) & **Lower Crust** (Sima — Basaltic) | ~10 to 20 km | Victor Conrad; transition in longitudinal seismic wave velocity |
+| **Mohorovičić (Moho) Discontinuity** | **Crust** and **Upper Mantle (Asthenosphere)** | **~35 km** (continents) to ~8 km (oceans) | Andrija Mohorovičić (1909); sudden jump in P-wave speed from 6 to 8 km/s |
+| **Repetti Discontinuity** | **Upper Mantle** and **Lower Mantle** (Mesosphere) | ~700 km | William C. Repetti; transition from asthenosphere to denser silicate mantle |
+| **Gutenberg Discontinuity** | **Lower Mantle** and **Liquid Outer Core** | **~2,900 km** | Beno Gutenberg (1914); **S-waves terminate completely**; P-waves refract sharply |
+| **Lehmann Discontinuity** | **Liquid Outer Core** and **Solid Inner Core** | **~5,150 km** | Inge Lehmann (1936); P-wave speed increases due to solid iron-nickel crystallization |
+
+### 3. Planetary Orbital Mechanics & Celestial Geometry
+
+| Celestial Event | Earth–Sun–Moon Geometry | Calendar Date / Frequency | Physical Impact on Earth |
+|---|---|---|---|
+| **Perihelion (उपसौर)** | Earth is at its **closest point to the Sun** (~147 million km) | **January 3 / 4** | Northern Hemisphere winter is slightly milder; solar insolation is ~7% higher |
+| **Aphelion (अपसौर)** | Earth is at its **farthest point from the Sun** (~152 million km) | **July 4** | Northern Hemisphere summer is slightly moderated by orbital distance |
+| **Summer Solstice (कर्क संक्रांति)** | Sun overhead directly at **Tropic of Cancer (23°30′ N)** | **June 21** | Longest day & shortest night in Northern Hemisphere; 24-hr daylight within Arctic Circle |
+| **Winter Solstice (मकर संक्रांति)** | Sun overhead directly at **Tropic of Capricorn (23°30′ S)** | **December 22** | Shortest day & longest night in Northern Hemisphere; 24-hr daylight within Antarctic Circle |
+| **Equinox (विषुव)** | Sun overhead directly at **Equator (0°)** | **March 21 (Vernal)** & **Sept 23 (Autumnal)** | Equal day and night (12 hours each) all over the Earth |
+| **Solar Eclipse (सूर्य ग्रहण)** | Moon comes directly between Sun and Earth (**Sun–Moon–Earth**) | Occurs only on **New Moon (*Amavasya*)** | Moon's shadow (umbra/penumbra) falls on Earth's surface |
+| **Lunar Eclipse (चंद्र ग्रहण)** | Earth comes directly between Sun and Moon (**Sun–Earth–Moon**) | Occurs only on **Full Moon (*Purnima*)** | Earth's shadow falls on the Moon, turning it reddish (Rayleigh scattering) |
+
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Perihelion** | **Aphelion** | Earth is **closest to the Sun** (~147M km on **January 3**) vs Earth is **farthest from the Sun** (~152M km on **July 4**) | उपसौर (3 जनवरी / पास) / अपसौर (4 जुलाई / दूर) |
+| **Perigee** | **Apogee** | Moon is **closest to Earth** in its elliptical orbit (~363,000 km; supermoon) vs Moon is **farthest from Earth** (~405,000 km; micromoon) | उपभू (निकटतम चंद्रमा) / अपभू (दूरस्थ चंद्रमा) |
+| **Solar Eclipse** | **Lunar Eclipse** | Moon is in the middle (**Sun–Moon–Earth**); happens on **New Moon** only vs Earth is in the middle (**Sun–Earth–Moon**); happens on **Full Moon** only | सूर्य ग्रहण (अमावस्या) / चंद्र ग्रहण (पूर्णिमा) |
+| **Retrograde Rotation** | **Direct Rotation** | Rotates **East to West** (Clockwise from north pole; only **Venus and Uranus**) vs Rotates **West to East** (Counter-clockwise; all other 6 planets including Earth) | पूर्व से पश्चिम घूर्णन (शुक्र एवं अरुण) / पश्चिम से पूर्व |
+| **Terrestrial Planets** | **Jovian Planets** | Four inner rocky dense planets (**Mercury, Venus, Earth, Mars**) vs Four outer gaseous low-density giant planets (**Jupiter, Saturn, Uranus, Neptune**) | पार्थिव ग्रह / जोवियन (गैसीय) ग्रह |
+| **Moho Discontinuity** | **Gutenberg Discontinuity** | Boundary between **Crust and Mantle** (~35 km) vs Boundary between **Mantle and Outer Core** (~2,900 km, where S-waves cease) | मोहो असांतत्य (क्रस्ट-मेंटल) / गुटेनबर्ग (मेंटल-कोर) |
+| **Meteoroid** | **Meteorite** | Small rocky fragment orbiting in interplanetary space vs Solid extraterrestrial rock fragment that survives atmospheric flight and **hits the Earth's surface** | उल्कापिंड (अंतरिक्ष) / उल्का-अवशेष (भूमि पर गिरा) |
+| **Asteroid Belt** | **Kuiper Belt** | Ring of rocky minor planets between the orbits of **Mars and Jupiter** vs Ring of icy trans-Neptunian bodies and dwarf planets **beyond the orbit of Neptune** | क्षुद्रग्रह पेटी / काइपर पेटी |
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2013–14** | Mangalyaan / MOM | First Indian Mars orbiter (2024) | ISRO |
-| **2023** | Aditya-L1 | Solar mission — not Mars | ISRO |
-| **1987 / 1997** | Montreal vs Kyoto (क्योटो) | Ozone vs climate | UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) / UNFCCC (यूएनएफसीसीसी) |
-| **2015** | Paris Agreement (पेरिस समझौता) | NDC successor to Kyoto path | UNFCCC |
-| **2018** | Science — Mars subglacial lake | 2018 Q85 | Science |
-| **2026** | El Niño tendency vs Indian monsoon | IMD |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Planets Order from Sun:
+- **M-V-E-M-J-S-U-N**
+  - **M**ercury → **V**enus → **E**arth → **M**ars → **J**upiter → **S**aturn → **U**ranus → **N**eptune
+  - *(Mnemonic: **M**y **V**ery **E**ducated **M**other **J**ust **S**erved **U**s **N**oodles)*
 
-### Confused pairs
+### 2. Planets by Decreasing Size (Largest to Smallest):
+- **J-S-U-N-E-V-M-M**
+  - **J**upiter > **S**aturn > **U**ranus > **N**eptune > **E**arth > **V**enus > **M**ars > **M**ercury
+  - *(Mnemonic: First the 4 Jovian in order: **JSUN**, then **E**arth, Earth's twin **V**enus, then **M**ars, and smallest **M**ercury)*
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Ozone layer | **Stratosphere** | Troposphere | समतापमंडल |
-| Montreal vs Kyoto | Ozone vs **climate/GHG** | Kyoto “save water” | मॉन्ट्रियल / क्योटो |
-| El Niño fish | **Less** plankton | Warm water → more plankton | अल नीनो |
-| Coriolis SH | **Left** | Right / magnetic | कोरिऑलिस |
-| Jet streams | Mainly **westerly** | “All easterly” (2024 A) | जेट धारा |
-| TEJ | Summer **easterly** ~14°N | Same as STWJ | उष्णकटिबंधीय पूर्वी जेट |
-| ITCZ | **Low** / rising air | High-pressure belt | आईटीसीजेड |
-| Atmosphere heat | **Long-wave terrestrial** | Direct short-wave | दीर्घ तरंग |
-| Fujita vs Saffir–Simpson | Tornado vs **Hurricane** | Swapped | फुजिता / सफिर–सिंपसन |
-| Willy-Willy | **Australia** | USA hurricane | विली-विली |
-| Horse latitudes | Subtropical **high** ~30° | Low pressure | हॉर्स लैटिट्यूड |
-| Cumulonimbus | Intense rain / thunder | Fair-weather cumulus | कपासी वर्षा मेघ |
-| Albedo | **Reflecting** power | Absorbing | अल्बीडो |
-| GHG | Not **argon** | Argon as GHG | आर्गन नहीं |
-| Saturn (that paper) | **Methane** | SO2 / CO | शनि |
-| Mars | Life-candidate + 2018 lake | Jupiter lake | मंगल |
-| Kilimanjaro | **E. African Rift** | Ring of Fire | किलिमंजारो |
-| Fold vs fault | Compressional folds vs **block/rift** | All Himalaya = fault | वलित / भ्रंश |
-| Perihelion | **January** (NH winter) | “Closest = summer” | उपसौर |
-| IDL | ~**180°**; west is ahead | Straight 180° only | अंतरराष्ट्रीय तिथि रेखा |
-| IST | **82°30′ E, +5:30**, whole India | Only east of Mirzapur | भारतीय मानक समय |
-| Nuclear / geothermal | **Not** stored solar | All energy = solar | नाभिकीय / भूतापीय |
-| Hottest planet | **Venus** (greenhouse) | Mercury | शुक्र |
-| Largest moon | **Ganymede** (Jupiter) | Titan / Moon | गेनीमीड |
-| Asteroid belt | **Mars–Jupiter** | Earth–Mars | क्षुद्रग्रह |
-| Solar vs lunar eclipse | **New Moon** vs **Full Moon** | Swapped | सूर्य / चंद्र ग्रहण |
-| Roaring Forties | ~**40°S westerlies** | 40°N trades | गर्जन-चालीसा |
-| Horse latitudes | **~30°** subtropical high | ITCZ | अश्व अक्षांश |
-| Stromboli | **Mediterranean / Italy** | Ring of Fire Pacific | स्ट्राम्बोली |
-| Sial vs Sima | Continents vs **ocean crust** | Swapped | सियाल / सीमा |
-| Heat budget | Earth absorbs ~**51**/100; planet albedo ~**35** reflected | “All 100 heat the air directly” | ऊष्मा बजट |
-| Seasons cause | **23½° tilt** | Perihelion distance | ऋतु |
-| Divergent boundary | Plates **apart** / MOR | Convergent trench | अपसारी |
-| Chandrasekhar limit | ~**1.44 M☉** white dwarf | Eddington / Fowler alone | चंद्रशेखर |
-| Milky Way shape | **Barred spiral** | Plain spiral only | आकाशगंगा |
-| Earth density | **Highest** mean among 8 | Jupiter densest | घनत्व |
-| Albedo Mercury vs Earth | Earth **higher** (~0.3) | Mercury brighter albedo | अल्बीडो |
-| Brittle star | **Sea** echinoderm | Pulsar / quasar class | ब्रिटल स्टार |
-| 0°–0° meet | **Atlantic** / Guinea | On land / India | शून्य |
-| Cancer / Capricorn traps | Not **Iran** / not **Bolivia** | Wrong country lists | कर्क / मकर |
-| Granite | **Igneous** | Metamorphic | ग्रेनाइट |
-| Limestone → | **Marble** | Quartzite | संगमरमर |
-| Sandstone → | **Quartzite** | Marble | क्वार्टजाइट |
-| Shale → | **Slate** | Gneiss first | स्लेट |
-| Magma vs lava | Below vs **surface** | Swapped | मैग्मा / लावा |
-| Volcanic gas | Mostly **H₂O vapour** | CO₂ / SO₂ first | जल वाष्प |
-| Stromboli | **Active** Mediterranean lighthouse | Extinct / Etna only | स्ट्राम्बोली |
-| Kilimanjaro | **Dormant** (E. African Rift) | Ring of Fire active | किलिमंजारो |
-| Aconcagua | Peak / **not** active volcano in GC keys | Same class as Etna | एकोंकागुआ |
-| Focus vs epicentre | Rupture inside vs **surface above** | Swapped | फोकस / उपरिकेंद्र |
-| Richter vs Mercalli | Magnitude vs **intensity** | Swapped / both “intensity” | रिक्टर / मर्कली |
-| Richter +1 step | **10×** amplitude; ~**32×** energy | 100× energy | रिक्टर ऊर्जा |
-| S-waves | **Solids only** | Through liquid core | S-तरंग |
-| Ring of Fire | Quakes + volcanoes + Pacific | Forest fires | रिंग ऑफ फायर |
-| NW India quakes | **Plate convergence** | Volcano / coral | प्लेट |
-| Tsunami word | **Japanese** harbour wave | Arabic / Latin | सुनामी |
+### 3. Earth Discontinuities from Surface to Core: **C-M-R-G-L**
+- **C**onrad (Upper/Lower Crust)
+- **M**oho (Crust/Mantle)
+- **R**epetti (Upper/Lower Mantle)
+- **G**utenberg (Mantle/Core)
+- **L**ehmann (Outer/Inner Core)
+- *(Mnemonic: **C**lever **M**en **R**ead **G**ood **L**iterature)*
 
+### 4. Retrograde Rotation Exception Pair: **VU**
+- Only **V**enus & **U**ranus rotate East-to-West (Sun rises in the West on Venus!).
 
----
+### 5. Orbit Closeness / Distance Rule:
+- **Peri**helion = **P**aas (**C**lose) in **Jan**uary
+- **Ap**helion = **A**way (**F**ar) in **Jul**y
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -534,4 +582,3 @@ D. Only 4
 **Logic:** Wind and biomass are solar-linked. Prelims often parks both non-solar options together.
 
 </details>
-

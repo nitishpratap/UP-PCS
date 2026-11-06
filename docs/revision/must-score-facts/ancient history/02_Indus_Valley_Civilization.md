@@ -11,68 +11,176 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 2 — Indus Valley Civilization (Harappan Civilization)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **UNESCO 2021** | **Dholavira (Kutch, Gujarat)** inscribed as India's 40th UNESCO World Heritage Site; celebrated for sophisticated urban water management, check-dams, stadium, and 10-symbol signboard. | Repeated direct questions on site features in UPPCS/UKPCS. |
+| **Archaeo-genetics 2024–2026** | **Rakhigarhi (Hisar, Haryana)** skeletal DNA sent to AnSI (Kolkata) & BSIP (Lucknow) for 3D facial reconstruction; confirms indigenous genetic continuity. | Confirms Rakhigarhi as largest IVC site (~350+ hectares). |
+| **ASI Dig 2018–2024** | **Sanauli (Baghpat, UP)** discovered copper antenna swords, royal coffins, and solid-wheel war chariots belonging to Late Harappan / Copper Hoard horizon. | Resolves warrior burial and chariot debate in Gangetic doab. |
+| **Union Budget 2026** | 15 iconic archaeological sites developed as world-class experiential destinations, prioritizing **Lothal** (National Maritime Heritage Complex) and **Rakhigarhi** (Site Museum). | Links ancient maritime trade to contemporary tourism initiatives. |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **2021:** Dholavira → UNESCO World Heritage Site.
-2. **2018:** Sanauli chariot burials (ASI).
-3. **2026:** Rakhigarhi skeletons to AnSI (Kolkata) and BSIP Lucknow for DNA / facial reconstruction; ASI 3-year excavation.
-4. **Budget 2026:** 15 archaeological sites as experiential destinations, including **Lothal** and **Rakhigarhi** (राखीगढ़ी).
-5. **Charles Masson** noticed Harappa ruins in **1826**. **Daya Ram Sahni** excavated Harappa in **1921**. **R.D. Banerji** excavated Mohenjo-daro in **1922**. **John Marshall** announced the civilization in **1924**.
-6. **Alamgirpur** marks the **eastern boundary** of Harappan culture. Do not give that role to Rakhigarhi or Manda.
-7. **Sanauli / Sinauli** (सनौली) in Baghpat, Uttar Pradesh (ASI, D.V. Sharma & S.K. Manjul, **2018**), is a Late Harappan / Copper Hoard necropolis with **wooden-wheel chariots**, copper-antenna swords, and coffined burials (~2000–1800 BCE). It is **not** a Mature grid-city with a Great Bath.
-8. **Dholavira** (धोलावीरा) in Gujarat is known for water reservoirs, a **three-part** town plan (citadel, middle town, lower town), and a large **signboard**. UNESCO listed it in **2021**.
-9. **Kalibangan** (कालीबंगा) in Rajasthan shows a **ploughed field** and **fire altars**. Its drainage is weaker than Mohenjo-daro’s.
-10. **Chanhudaro** (चन्हूदड़ो) is a craft town famous for **bead-making** and has **no citadel**.
-11. **Rakhigarhi** in Hisar is the **largest Harappan site in India**. Size does not make it the eastern boundary.
-12. **Surkotada** in Gujarat is often cited for **horse** bone claims. Treat the claim carefully; it is not a pan-Harappan horse culture.
-13. **Banawali** in Haryana shows Early and Mature levels and a plough-mark tradition similar in spirit to Kalibangan.
-14. **OCP** (Ochre Coloured Pottery) of the western UP doab overlaps Late Harappan decline and comes **before PGW**. It is rural ochre-wash pottery, not mature urban Harappan ware.
-15. **Mandi** (Muzaffarnagar, UP) must not be confused with **Manda** (Jammu, northernmost site).
-16. **Lothal** is the dockyard fact. **Dholavira** is the reservoir-and-signboard fact. Do not swap those identities.
-17. **Mortimer Wheeler** improved excavation method at Harappa but did **not** discover the civilization. Discovery credit stays with Sahni, Banerji, and Marshall’s announcement.
-18. **B.B. Lal** excavated **Kalibangan** and later Hastinapur OCP levels. **R.S. Bisht** excavated **Dholavira** and Banawali.
-19. **Cemetery R-37** = Harappa Mature coffin cemetery; **Cemetery H** = Late Harappan urn / fractional burial at Harappa. **Dockyard** = Lothal; **ploughed field** = Kalibangan; **Dancing Girl** = Mohenjo-daro.
-20. **Early Harappan** builds regional cultures and fortifications before full urban grids; **Mature** is the peak of citadel–lower-town planning; **Late** is de-urbanisation and regional successors including doab OCP overlap.
-21. **Daimabad** (Maharashtra) is the southernmost Harappan / Late Harappan site and yielded famous **bronze** figurines (chariot, buffalo, elephant, rhino). Those bronzes are **not** the same as Sanauli’s wooden chariot burials.
-22. **Chanhudaro** = bead craft town, **no citadel**. **Harappa** = granaries and Cemetery R-37. **Mohenjo-daro** = Great Bath and Dancing Girl. Keep site signatures separate.
-23. **Mandi** (Muzaffarnagar jewellery / treasure find) and **Hulas** (Saharanpur) are the usual UP Harappan pair in stems. **Sanauli** is Baghpat Late Harappan / OCP — add it only when chariots or coffins are asked.
-24. **Early Harappan** (~3300–2600 BCE): regional cultures (Kot Diji, Amri, Hakra, Sothi). Pre-urban, pottery, mud-brick.
-25. **Mature Harappan** (~2600–1900 BCE): planned cities, seals, weights, long-distance trade. This is what papers mean by “IVC.”
-26. **Late Harappan** (~1900–1300 BCE) is the de-urbanisation phase.
-27. **OCP** overlap appears in the doab in this late band.
-28. **West:** Sutkagen-dor (Makran / Dasht coast).
-29. **East:** Alamgirpur (Meerut, UP) on the **Hindon**.
-30. **North:** Manda (Jammu, on the Chenab).
-31. **South:** Daimabad (Maharashtra) on the **Pravara**.
-32. **Stuart Piggott** called Harappa and Mohenjo-daro the **“twin capitals”** of an extensive kingdom — a useful phrase, not a proven dual capital constitution.
-33. **Flood** decline readings are linked with Marshall, Mackay, and S.R. Rao.
-34. **Aryan attack** readings by Childe, Wheeler, and Piggott are now **rejected** as a massacre model.
-35. **Climate** decline readings are linked with Aurel Stein and Amalananda Ghosh.
+1. The Indus Valley Civilization is a **Bronze Age urban** culture. The Mature phase is about **2600–1900 BCE**. It is not an Iron Age or Vedic Aryan pastoral culture.
+2. It is also called **Harappan** after the first excavated site. The economy type in match-lists is **urban**, not rural Chalcolithic.
+3. The four geographical extremes of the IVC are: **Manda** in the north (Chenab, J&K), **Daimabad** in the south (Pravara, Maharashtra), **Alamgirpur** in the east (Hindon, UP), and **Sutkagen Dor** in the west (Dasht, Balochistan).
+4. **Harappa** sits on the **left bank of the Ravi** in Pakistani Punjab, excavated by **Daya Ram Sahni** in **1921**. It features 6 granaries in 2 rows and cemetery R-37.
+5. **Mohenjodaro** (*Mound of the Dead*) sits on the **right bank of the Indus** in Sindh, excavated by **R.D. Banerjee** in **1922**. It features the **Great Bath**, the **Great Granary** (largest building), the **Bronze Dancing Girl** (lost-wax technique), and the steatite Bearded Priest.
+6. **Lothal** sits on the **Bhogava** in Gujarat, excavated by **S.R. Rao**. It is famous for its artificial **tidal brick dockyard**, **rice husk**, Persian Gulf seal, bead factory, and double burials.
+7. **Kalibangan** (*Black Bangles*) sits on the dry bed of the **Ghaggar** in Rajasthan, excavated by **A. Ghosh** and **B.B. Lal**. It features the earliest **ploughed field surface** with furrows, camel bones, and a row of **7 fire altars**.
+8. **Dholavira** on Khadir Bet in the Rann of Kutch (Gujarat) has a **three-tier city plan** (Citadel, Middle Town, Lower Town), giant stone-cut **water reservoirs**, an open stadium, and a **10-symbol signboard**.
+9. **Chanhudaro** in Sindh is the **only IVC city without a citadel**, famous as an industrial craft town for bead making, shell ornaments, inkpot, and cosmetics (lipstick).
+10. **Banawali** in Fatehabad (Haryana) on the ancient Saraswati/Rangoi yielded a **terracotta toy model of a plough** and high-grade barley, but lacked the strict grid drainage seen at Mohenjodaro.
+11. **Rakhigarhi** in Haryana on the Ghaggar-Hakra is the **largest Harappan site in India** (and subcontinently), surpassing Mohenjodaro in continuous surface area.
+12. **Surkotada** in Kutch (Gujarat), excavated by J.P. Joshi, yielded controversial **horse bone remains** and oval citadel pot burials.
+13. **Ropar (Roopnagar)** on the Sutlej in Punjab, excavated by **Y.D. Sharma**, was the first IVC site excavated in independent India (1953); famous for a **dog buried with a human** in an oval pit.
+14. **Daimabad** on the Pravara (Godavari tributary) in Maharashtra is the **southernmost Harappan outpost**, yielding a spectacular solid **bronze chariot driven by a man**, rhino, and elephant.
+15. The **UP Harappan quartet**: **Alamgirpur** (Meerut, eastern extreme on Hindon), **Hulas** (Saharanpur, pottery & bone points), **Mandi** (Muzaffarnagar, gold jewelry hoard), and **Sanauli** (Baghpat, 125 burials, antenna swords, solid-wheel chariots).
+16. **Mandi (UP) ≠ Manda (J&K)**: Mandi is a late treasure-trove site in Muzaffarnagar; Manda is the northern extreme on the Chenab.
+17. **Indus Script**: Written primarily **boustrophedon** (right-to-left on line 1, left-to-right on line 2); logo-syllabic, pictographic, and **remains undeciphered**. The longest inscription contains **26 signs** (found at Dholavira).
+18. **Town Planning**: Grid pattern (**chess-board system**) with streets cutting at right angles; baked bricks in standard ratio **4:2:1** (Length : Breadth : Thickness); advanced underground covered drainage with soak pits.
+19. **Religious Life**: No temples or public religious structures found; worshipped **Pashupati Shiva** (proto-Shiva surrounded by elephant, tiger, rhino, buffalo, with 2 deer at feet), **Mother Goddess** (*Matridevi*), Pipal tree, humped bull, and phallic stones (*lingam*).
+20. **Metals Known**: **Copper, Bronze, Gold, Silver, Lead, and Electrum**. **IRON WAS COMPLETELY UNKNOWN** to the Harappans (Iron appears in India only c. 1000 BCE in Later Vedic / PGW context).
+21. **Animals Known**: Humped bull (most depicted on seals), buffalo, sheep, goat, pig, elephant, tiger, rhinoceros, dog, cat, and deer. **Lion was NOT depicted on Indus seals**. Horse remains are disputed (Surkotada) and horse was not a regular part of Harappan life.
+22. **Trade & Weights**: Binary system for small weights (1, 2, 4, 8, 16, 32, 64; base unit **16** = ~13.7 grams) and decimal system for larger weights. Chert stone cubes were the standard balance weights.
+23. **Foreign Trade**: Mesopotamian cuneiform texts refer to trade with **Meluhha** (Indus region), via intermediate stations **Dilmun** (Bahrain) and **Magan** (Oman / Makran).
+24. **Raw Material Sources**: **Copper** from **Khetri mines (Rajasthan)** and Oman; **Tin** from Afghanistan and Iran; **Lapis Lazuli** from **Badakhshan (Shortughai, Afghanistan)**; **Gold** from Kolar (Karnataka) and Persia; **Steatite** from Rajasthan/Gujarat; **Turquoise** from Iran; **Carnelian** from Bharuch/Ratanpur (Gujarat).
+25. **Shortughai** in northern Afghanistan on the Oxus river is a dedicated Harappan **trading colony for lapis lazuli**.
+26. **Seals**: Made mostly of **steatite** (soapstone), predominantly square (2x2 cm), featuring pictographic script and animal carvings; used as commercial property seals on merchandise bags (*sealings* found at Lothal).
+27. **Burial Practices**: Extended inhumation (head pointing **North**, feet South); coffin burials at Harappa; fractional burials; urn burials; double burials (male-female) at Lothal; brick-lined graves at Kalibangan.
+28. **Cotton**: Harappans were the **first in the world to cultivate cotton** (called **Sindon** by Greeks, derived from Sindhu).
+29. **Sculpture**: **Bronze Dancing Girl** from Mohenjodaro (lost-wax casting, cire-perdue); **Steatite Bearded Priest** from Mohenjodaro; **Red sandstone torso of a nude male** from Harappa; **Grey stone dancing torso** (proto-Nataraja) from Harappa.
+30. **Pottery**: Red and black ware (*Black-on-Red*); well-fired, sturdy, decorated with geometrical patterns, intersecting circles, pipal leaves, fish-scales, and birds.
+31. **Balu** (Kaithal, Haryana) is famous for the earliest archaeological evidence of **garlic cultivation**.
+32. **Kunal** (Fatehabad, Haryana) yielded **two silver royal crowns / tiaras**, the earliest silver jewelry pieces in South Asia.
+33. **Bhirrana** (Haryana) is claimed by some ASI excavators as among the oldest pre-Harappan / Hakra ware sites dating back to ~7000–6000 BCE.
+34. **Padri** in Bhavnagar (Gujarat) is an important coastal Early to Mature Harappan salt-manufacturing site.
+35. **Rangpur** (near Ahmedabad, Gujarat) on the Bhadar river yielded rice husk impressions and represents Late Harappan post-urban devolution (*Lustrous Red Ware*).
+36. **Kot Diji** in Sindh (Pakistan) is a classic pre-Harappan fortified site destroyed by fire before the Mature Harappan occupation.
+37. **Amri** on the Indus in Sindh features pre-Harappan transitions and evidence of the Indian rhinoceros.
+38. **Allahdino** near Karachi is the smallest Harappan coastal site, famous for a rich hoard of gold, silver, and carnelian ornaments.
+39. **Sokhta Koh** on the Makran coast in Balochistan acted as a coastal port linking Makran and the Persian Gulf.
+40. **Decline Theories**: Aryan invasion theory (Wheeler, Childe — largely discarded); Ecological degradation and drying of the Saraswati / Ghaggar river (Amalananda Ghosh, M.R. Mughal); Floods and tectonic shifts (Robert Raikes, M.R. Sahni); Climate change, weakening monsoons, and drought (current scientific consensus).
+41. **Mortimer Wheeler** coined the phrase *"Indra stands accused"* regarding the decline of Mohenjodaro, citing scattered skeletons in HR area, a view now rejected.
+42. **John Marshall** was the Director-General of the ASI who formally announced the discovery of the Indus Valley Civilization to the world in **1924** in the *Illustrated London News*.
+43. **Aurel Stein** surveyed the dry beds of the Ghaggar-Hakra river system in the 1940s, revealing the dense concentration of sites in the Saraswati basin.
+44. **Citadel vs Lower Town**: Most Indus cities were divided into two parts: a raised **Citadel / Acropolis** on the west (for elite administrators / public rituals) and a larger **Lower Town** on the east (for common residential living).
+45. **Fortification**: Kalibangan had fortifications for **both** the Citadel and the Lower Town; Dholavira had stone-masonry walls enclosing all three sectors; Chanhudaro had no fortification walls.
+46. **Terracotta Figurines**: Terracotta mother goddesses, toy carts, whistling birds, monkeys, and animals were handmade by pinching, predominantly representing folk art.
+47. **Bead Making**: Bead-making factories with drills, kilns, and unfinished stone beads were discovered at **Chanhudaro** and **Lothal**. Micro-beads of steatite represent unmatched micro-metallurgy.
+48. **Ship Motifs**: Terracotta models of boats and ship representations on seals were found at **Lothal** and **Mohenjodaro**, proving oceanic navigation.
+49. **No Evidence of Sati**: Double burial at Lothal (one male and one female skeleton in a single brick-lined grave) was once theorized as Sati, but modern physical anthropology rejects this as simultaneous burial or family interment.
+50. **Harappan Legacy to Later India**: Worship of Shiva/Pashupati, Mother Goddess, sacred trees (Pipal), sacred animals (bull), sacred rivers/tanks (Great Bath prefiguring temple pushkarinis), yoga postures, svastika symbol, and standard weight ratios continued into historic Hinduism.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+c. 3300–2600 BCE ── Early Harappan / Regionalization Phase
+      │             • Hakra Ware, Ravi phase at Harappa, Kot Diji, Amri, Kalibangan I
+      │             • Primitive fortifications, early script signs, wheel-made pottery
+      │
+c. 2600–1900 BCE ── Mature Harappan Urban Integration Phase (Peak Civilization)
+      │             • Grid-iron town planning, baked brick masonry, covered drainage
+      │             • Citadel & Lower Town, Great Bath, Dockyard, seals, long-distance trade
+      │             • 2600 BCE: Urban boom at Mohenjo-daro, Harappa, Dholavira, Lothal, Rakhigarhi
+      │             • 2350–2000 BCE: Flourishing trade with Akkadian & Ur III Mesopotamia (Meluhha)
+      │
+c. 1900–1300 BCE ── Late Harappan / Localization & Post-Urban De-urbanization
+      │             • De-urbanization, abandonment of big cities, loss of script and seals
+      │             • Cemetery H culture (Punjab), Jhukar culture (Sindh), Rangpur IIB-C (Gujarat)
+      │             • Sanauli (UP, ~2000–1800 BCE): Chariots & antenna swords (OCP transition)
+      │
+Archaeological Milestone Ladder:
+  1826 ── Charles Masson first visits and notes Harappa mounds
+  1853–1873 ── Alexander Cunningham visits Harappa; collects first unclassified unicorn seal
+  1921 ── Daya Ram Sahni excavates Harappa (Left bank of Ravi)
+  1922 ── Rakhaldas (R.D.) Banerjee discovers Mohenjo-daro (Right bank of Indus)
+  1924 ── Sir John Marshall officially announces discovery of IVC to the world
+  1931 ── N.G. Majumdar excavates Chanhudaro (Sindh)
+  1953 ── Y.D. Sharma excavates Ropar (first site in independent India)
+  1954–1957 ── S.R. Rao excavates Lothal and discovers tidal dockyard
+  1961–1969 ── B.B. Lal & B.K. Thapar excavate Kalibangan (ploughed field)
+  1967 ── J.P. Joshi discovers Dholavira; R.S. Bisht undertakes major excavations (1990)
+  1997–2000 ── Amarendra Nath excavates Rakhigarhi (expanded by Vasant Shinde 2011–2016)
+  2018 ── ASI unearths royal burials and solid-wheel chariots at Sanauli (Baghpat, UP)
+  2021 ── Dholavira inscribed on UNESCO World Heritage List
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Site ↔ River ↔ Excavator ↔ State Matrix
+
+| Site | Location / State | River | Excavator (Year) | Diagnostic Features / Exam Locks |
+|---|---|---|---|---|
+| **Harappa** | Sahiwal (Punjab, Pak) | **Ravi** (Left bank) | Daya Ram Sahni (1921) | 6 granaries in 2 rows, R-37 & H cemetery, red sandstone torso |
+| **Mohenjodaro** | Larkana (Sindh, Pak) | **Indus** (Right bank) | R.D. Banerjee (1922) | Great Bath, Great Granary, Bronze Dancing Girl, Bearded Priest, Pashupati seal |
+| **Lothal** | Ahmedabad (Gujarat) | **Bhogava** | S.R. Rao (1954/57) | Tidal brick dockyard, rice husk, Persian seal, horse figurine, double burial |
+| **Kalibangan** | Hanumangarh (Rajasthan)| **Ghaggar** | A. Ghosh (1953), B.B. Lal | Ploughed field furrows, camel bones, 7 fire altars, decorated tiles |
+| **Chanhudaro** | Sindh (Pakistan) | **Indus** | N.G. Majumdar / Mackay | Only site without citadel, bead factory, lipstick, inkpot, dog paw print |
+| **Dholavira** | Kutch (Gujarat) | Mansar & Manhar streams | J.P. Joshi (1967), R.S. Bisht | 3-tier city division, giant stone reservoirs, 10-symbol signboard, stadium |
+| **Banawali** | Fatehabad (Haryana) | Saraswati / Rangoi | R.S. Bisht (1974) | Terracotta toy plough model, high-grade barley, radial street pattern |
+| **Rakhigarhi** | Hisar (Haryana) | Ghaggar-Hakra | Amarendra Nath / V. Shinde| Largest Harappan site in India; ongoing DNA studies |
+| **Ropar** | Roopnagar (Punjab, Ind)| **Sutlej** | Y.D. Sharma (1953) | First site excavated post-1947; dog buried with human |
+| **Surkotada** | Kutch (Gujarat) | Seasonal stream | J.P. Joshi (1964) | Horse bones remains (disputed), pot burials, rubble citadel |
+| **Daimabad** | Ahmednagar (MH) | **Pravara** (Godavari trib) | B.P. Bopardikar | Southernmost site; bronze chariot with driver, elephant, rhino |
+| **Sutkagen Dor** | Balochistan (Pak-Iran) | **Dasht** | Aurel Stein (1927) | Westernmost site; coastal trading fortress with Babylon |
+
+### 2. Geographical Extremes of Harappan Civilization
+
+| Extreme Cardinal Point | Site Name | River / Waterway | Modern District & State |
+|---|---|---|---|
+| **Northernmost Extreme** | **Manda** | Chenab | Akhnoor district, Jammu & Kashmir |
+| **Southernmost Extreme** | **Daimabad** | Pravara (Godavari basin) | Ahmednagar district, Maharashtra |
+| **Easternmost Extreme** | **Alamgirpur** | Hindon (Yamuna basin) | Meerut district, Uttar Pradesh |
+| **Westernmost Extreme** | **Sutkagen Dor** | Dasht | Makran Coast, Balochistan (Pak-Iran border) |
+
+### 3. Uttar Pradesh Harappan Belt Matrix
+
+| Site | District (UP) | River / Basin | Excavated By | Landmark Archaeological Finding |
+|---|---|---|---|---|
+| **Alamgirpur** | Meerut | Hindon | Y.D. Sharma (1958) | Easternmost outpost; cloth impression on pottery; peacock/plant motifs |
+| **Hulas** | Saharanpur | Upper Doab | K.N. Dikshit (ASI) | Late Harappan settlement; bone points, chert blades, painted pottery |
+| **Mandi** | Muzaffarnagar | Doab | ASI (2000) | Huge hoard of ancient gold jewelry, beads, and precious stones |
+| **Sanauli** | Baghpat | Yamuna basin | D.V. Sharma (2018) | 125 burials, antenna copper swords, wooden solid-wheel chariots |
+| **Bargaon** | Saharanpur | Doab | ASI | Late Harappan / OCP contact phase settlement |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
+| Pair A | Pair B | Key Difference | Hindi Key |
 |---|---|---|---|
-| Harappan | Indus Valley | Same culture; named after first site **Harappa** | हड़प्पा / सिंधु घाटी |
-| Citadel | Lower town | Raised **west** platform vs larger **east** residential zone | दुर्ग / निम्न नगर |
-| Alamgirpur | Rakhigarhi | **Easternmost, UP** vs **largest in India, Haryana** | आलमगीरपुर / राखीगढ़ी |
-| Lothal | Dholavira | **Dockyard** vs **reservoirs + signboard** | लोथल / धोलावीरा |
-| Mandi (UP) | Manda (J&K) | **Muzaffarnagar** vs **Chenab, northernmost** | मंडी / मांडा |
-| IVC | Rigvedic | **Urban** vs **pastoral** | नगरीय / पशुपालक |
-| OCP | Mature Harappan | Doab ochre pottery vs urban peak | गेरूआ मृद्भांड |
-| Seal | Script | Steatite object vs unread signs on it | मुद्रा / लिपि |
-| Proto-historic | Historic | Undeciphered Harappan script vs usable written history (~6th c. BCE) | आद्यऐतिहासिक / ऐतिहासिक |
-| Cemetery R-37 | Cemetery H | Mature Harappa coffin cemetery vs Late Harappan urn / fractional burial | आर-37 / सीमेट्री एच |
-| Cow on seals | Unicorn / bull on seals | Cow **absent** vs common seal animals | गाय / एकशृंगी–वृषभ |
-| Sohgaura | Chanhudaro | Mauryan copper-plate village (Gorakhpur) vs Harappan craft town (Sindh) | सोहगौरा / चन्हूदड़ो |
+| **Harappa** | **Mohenjodaro** | Ravi left bank, 6 granaries, cemetery R-37 vs Indus right bank, Great Bath, Dancing Girl | हड़प्पा / मोहनजोदड़ो |
+| **Manda (J&K)** | **Mandi (UP)** | Northernmost IVC site on Chenab river vs Late Harappan gold jewelry hoard in Muzaffarnagar | मांडा / मांडी |
+| **Rakhigarhi** | **Alamgirpur** | Largest Harappan site (Haryana) vs Easternmost Harappan site (Meerut, UP) | राखीगढ़ी / आलमगीरपुर |
+| **Lothal (Gujarat)** | **Kalibangan (Rajasthan)**| Artificial tidal brick dockyard vs Ploughed agricultural field furrows & 7 fire altars | लोथल / कालीबंगा |
+| **Ploughed field** | **Toy model of plough** | Actual ploughed field furrows at **Kalibangan** vs Terracotta toy plough model at **Banawali** | जुता हुआ खेत / हल का खिलौना |
+| **Dholavira** | **Chanhudaro** | Tripartite city with giant stone reservoirs vs Only city without a citadel | धोलावीरा / चन्हूड़ो |
+| **Surkotada** | **Susa / Ur** | Site with disputed horse bone remains in Gujarat vs Mesopotamian cities with Meluhha trade | सुरकोटड़ा / सुसा |
+| **Meluhha** | **Dilmun** | Mesopotamian name for Indus region vs Intermediate trading station at Bahrain | मेलुहा / दिलमुन |
+| **Bronze Age (IVC)** | **Iron Age (Vedic/PGW)** | Bronze, copper, gold, silver (NO IRON) vs Smelted iron weapons & agricultural axes | कांस्य युग / लौह युग |
+| **Harappan Script** | **Brahmi Script** | Undeciphered pictographic logo-syllabic script vs Deciphered historic script of Ashoka | हड़प्पा लिपि / ब्राह्मी लिपि |
+| **Steatite seals** | **Terracotta seals** | High-prestige square stamp seals of merchants vs Cheap clay tokens / seal impressions | सेलखड़ी मुहर / पकी मिट्टी |
+| **Aceramic Neolithic** | **Bronze Age Urban** | Mehrgarh Period I (food without pottery) vs Harappan planned multi-story brick cities | पाषाण युगीन / कांस्य युगीन |
+
+## 🧠 Memory Anchors & Mnemonics
+
+1. **River Banks of the Two Great Capitals:**
+   - **Harappa** = **H - R - L** $ightarrow$ **H**arappa on **R**avi's **L**eft bank.
+   - **Mohenjodaro** = **M - I - R** $ightarrow$ **M**ohenjodaro on **I**ndus's **R**ight bank.
+2. **Four Geographical Extremes:**
+   - **N - S - E - W** $ightarrow$ **M**anda (North) $ightarrow$ **D**aimabad (South) $ightarrow$ **A**lamgirpur (East) $ightarrow$ **S**utkagen Dor (West). (*"My Dear Ancient Subcontinent"*)
+3. **Dholavira's Triad:**
+   - **DHO - LA - VI - RA** (3 syllables) $ightarrow$ **3-tier city division** (Citadel, Middle Town, Lower Town).
+4. **Kalibangan Findings:**
+   - **Bangles, Bones & Burnt Altars** $ightarrow$ Black **Bangles** (*Kalibangan*), Camel **Bones**, 7 Fire **Altars**, Ploughed **Bed**.
+5. **Chanhudaro's Beauty Parlor:**
+   - **No Citadel** $ightarrow$ Industrial craft city: **Bead** factory, **Lipstick**, **Inkpot**, **Kajal/Cosmetics**.
+6. **Metals: The Iron Exclusion Rule:**
+   - Harappans knew **C - B - G - S - L** (**C**opper, **B**ronze, **G**old, **S**ilver, **L**ead).
+   - Harappans **NEVER KNEW IRON**! (Any question stating *"Harappans used iron swords"* is automatically **FALSE**).
 
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

@@ -3,59 +3,164 @@ hide:
   - toc
 ---
 
-# Topic 9 — Rajputs — Must-Score Facts
+# Topic 9 — Medieval Rajputs & Regional Resistance — Must-Score Facts
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
   <div class="rev-hero-meta">🏰 Medieval India &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 9 — Rajputs</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
+  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 9 — Medieval Rajputs & Regional Resistance</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2024** | **UNESCO World Heritage Hill Forts of Rajasthan:** Upgradation of tourist infrastructure at **Chittorgarh, Kumbhalgarh, Ranthambore, Gagron, Amber, and Jaisalmer** | Six hill forts of Rajasthan inscribed as UNESCO World Heritage (2013); focus on Rana Kumbha's fortifications and Jauhar memorials |
+| **2024** | **Maharana Pratap Jayanti National Commemorations:** Celebrations at Haldighati, Chavand, and Udaipur | Focus on **Battle of Haldighati (18 June 1576)**, generals (Hakim Khan Sur, Man Singh), and Chetak horse memorial |
+| **2023** | **Jaipur Jantar Mantar Astronomical Restoration:** High-precision calibration of astronomical instruments by ASI | **Sawai Jai Singh II** built observatories at **Delhi, Jaipur, Ujjain, Varanasi, Mathura**; astronomical tables *Zij-i-Muhammad Shahi* |
+| **2023–2024** | **Chittorgarh Vijay Stambha Preservation:** Restoration of the 9-storeyed victory tower by ASI | Built by **Rana Kumbha in 1448 CE** to commemorate victory over Mahmud Khalji of Malwa; chief architect Jaita |
+| **2024** | **Durgadas Rathore Memorial Initiatives:** Commemorating the 30-year Marwar war of liberation | Resistance against Aurangzeb to install **Ajit Singh** on Jodhpur throne; called 'Ulysses of the Rathores' by Col. Tod |
 
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Sisodia** ruled **Mewar** (Chittor (चित्तौड़) → Udaipur (उदयपुर)); **Rathore** ruled **Marwar** (मारवाड़) (Jodhpur); **Kachhwaha** ruled **Amber/Jaipur**.
-2. **Maharana Pratap**, son of Udai Singh II, refused Akbar (अकबर)'s mansab (मनसब) and held out from Aravalli (अरावली) bases such as **Kumbhalgarh** and **Gogunda**.
-3. **Alauddin** sacked **Chittor in 1303**; **Akbar** (अकबर) took it in **1567–68** after Jaimal–Patta (पट्टा) resistance and jauhar (जौहर).
-4. **Udaipur** became Mewar capital from **1559**, while **Chittor** remained the prestige fort.
-5. **Rana Hamir (हमीर)** belongs to **Mewar**; **Rana Chunda** (राणा चुंडा) is also Mewar, while **Rao Chunda** (राव चुंडा) is the **Marwar** line.
-6. **Rana Hammir (मेवाड़ हमीर) (c. 1326)** restored Mewar after the Khalji (खिलजी) sack; he is **not Hamir Deva (रणथम्भौर हमीर)** of Ranthambore (died 1301).
-7. **Vijay Stambha** (विजय स्तम्भ) is **Kumbha** (कुम्भा)'s victory tower; **Kirti Stambha** (कीर्ति स्तम्भ) is the older Jain tower — both stand at Chittor.
-8. **Jayata and Kumpa** fought for **Marwar** against Sher Shah (शेरशाह) at Sammel in **1544**.
-9. **Jauhar** is women's immolation at a falling fort; **saka** (साका) is the warriors' last charge.
-10. **Rao Jodha** founded **Jodhpur in 1459**.
-11. **Malik Sarwar** founded **Jaunpur** (जौनपुर), not Malwa — a common distractor beside ruler–state match lists.
-12. **Tansen** (तानसेन) served Rewa/Bhata before Akbar; do not treat **Udai Singh of Mewar** as his pre-Akbar patron fact.
-13. **Chittor** was the Sisodia prestige fort until Udaipur replaced it as capital.
-14. **Ranthambore** (रणथंभौर) was a Chauhan fort. Alauddin took it in **1301** from **Hamir Deva**.
-15. **Prithviraj (पृथ्वीराज) Chauhan** is the Tarain-era Chauhan fact, not a Mewar Sisodia.
-16. **Rana Hammir (c. 1326–1364)** restored **Mewar** after the Khalji sack of Chittor.
-17. **Aurangzeb** (औरंगजेब) later strained Marwar and Mewar.
-18. **Rana/Maharana** is the Mewar title. **Rao** is the Marwar and Bikaner title.
-19. **Option B is incorrectly matched (Correct Answer):** **Rana Chunda** (Rawat Chunda, the "Bhishma of Mewar") was the eldest son of Rana Lakha of **Mewar** (Sisodia clan) who renounced his claim to the throne of Chittor in favor of his infant half-brother Mokal. The Rathore ruler of **Marwar** (Jodhpur line) held the title **Rao Chunda** (Rao Chunda Rathore, reigned c. 1383–1424 CE, father of Rao Ranmal and grandfather of Rao Jodha), not *Rana* Chunda.
-20. **Option A is correctly matched:** **Rana Hammir** (reigned 1326–1364 CE) was the Sisodia hero who recovered Chittor from the puppet rulers appointed by the Delhi Sultanate after Alauddin Khalji's sack, re-establishing the fortunes of **Mewar** and establishing the Sisodia branch.
-21. **Option C is correctly matched:** **Malik Raja Farooqi** was the founder of the independent Farooqi Sultanate of **Khandesh** (in the Tapti valley) in 1382 CE, establishing his capital at Thalner and Burhanpur.
-22. **Option D context:** Malik Sarwar (Khwaja Jahan) founded the Sharqi Sultanate of Jaunpur; while Option D also contains a mismatch, in the official UPPCS key for this paper, **Option B** was targeted specifically on the Rajput dynasty/title confusion.
-23. **Cause:** After **Panipat (पानीपत) I (1526)**, **Rana Sanga** of Mewar built a **Rajput confederacy** to stop Babur before the Mughal foothold hardened. **Mahmud Lodi** joined the anti-Babur front as a Lodi claimant.
-24. **Course:** On **16 March 1527** near **Khanwa** (Fatehpur Sikri–Bharatpur belt), Sanga's Rajput coalition (गठबंधन) charged Babur's smaller army (सेना). Babur used chained **Araba** wagons and **Tulughma** flanking cavalry to break the charge. Tradition credits Sanga with **80 wounds**, a lost eye, and a lost arm from earlier wars.
-25. **Result:** Babur won decisively. Sanga died **~1528**. No second all-Rajput confederacy faced Babur. Babur still fought at **Ghagra (1529)** before his death.
-26. **Cause:** After **Chittor 1567–68**, **Maharana Pratap** refused Akbar's mansab and held out from **Kumbhalgarh** and **Gogunda**. Akbar sent **Raja Man Singh** of Amber to force Mewar submission.
-27. **Course:** The battle was fought in a narrow **Aravalli** pass with turmeric-coloured soil. **Pratap** charged **Man Singh's** imperial wing with **Chetak**. **Punja Bhil** brought Bhil support. **Hakim Khan Sur** was Pratap's Afghan ally. **Akbar was not** in the pass; **Asaf Khan** was in the Mughal camp. The clash was fierce cavalry fighting — **Rajput vs Rajput**, with a Kachhwaha general serving the empire against a Sisodia holdout.
-28. **Result:** Pratap was **not captured** and withdrew to the hills. The battle was **tactically indecisive**, but the Mughals held the **strategic edge** on the plains. Pratap later fought a **guerrilla** war and recovered parts of Mewar before dying in **1597**. His son **Amar Singh** made peace with **Jahangir in 1615**.
-29. **2. Conquest of Gujarat (1299 CE):** Commanded by Ulugh Khan and Nusrat Khan; Rai Karan Vaghela was expelled, Somnath temple was despoiled, and Malik Kafur was acquired at Khambhat.
-30. **1. Siege of Ranthambor (1301 CE):** Defeated the Chauhan ruler Rana Hammir Deva after a prolonged siege, witnessing the earliest recorded Persian description of *Jauhar* by Amir Khusrau.
-31. **4. Siege of Chittor (1303 CE):** Alauddin captured the capital of Mewar from Guhila ruler Rana Ratan Singh; Rani Padmini committed *Jauhar*; the fort was renamed *Khizrabad* after Prince Khizr Khan.
-32. **3. Conquest of Warangal (1309–1310 CE):** Malik Kafur besieged the Kakatiya capital in the Deccan, compelling Prataparudra Deva II to surrender enormous wealth, including the Koh-i-Noor diamond, and pay annual tribute.
-33. **Chronological Sequence:** 2 (1299) → 1 (1301) → 4 (1303) → 3 (1310) = **2-1-4-3**.
-34. **2. Siege of Jaisalmer (1299 CE):** Early expedition sent against the Bhati Rajput ruler of Jaisalmer, who had seized imperial tribute horses being transported from Sindh.
-35. **1. Conquest of Ranthambore (1301 CE):** Fall of Hammir Deva's Chauhan stronghold.
+2. Title fact: **Maharana/Rana** for Mewar; **Rao** for Marwar and Bikaner.
+3. At **Khanwa (खानवा) on 16 March 1527**, Babur (बाबर) defeated **Rana Sanga**'s confederacy; never pair **Pratap** with Khanwa.
+4. **Maharana Pratap**, son of Udai Singh II, refused Akbar (अकबर)'s mansab (मनसब) and held out from Aravalli (अरावली) bases such as **Kumbhalgarh** and **Gogunda**.
+5. At **Haldighati on 18 June 1576**, Pratap faced **Raja (राजा) Man Singh** (राजा मान सिंह) of Amber; **Akbar was not** present in the pass.
+6. Haldighati was tactically indecisive; Pratap escaped, fought a guerrilla war, and died in **1597**.
+7. Pratap's son **Amar Singh** made peace with **Jahangir (जहाँगीर) in 1615**, keeping Mewar honour without personal court attendance.
+8. **Alauddin** sacked **Chittor in 1303**; **Akbar** (अकबर) took it in **1567–68** after Jaimal–Patta (पट्टा) resistance and jauhar (जौहर).
+9. Alauddin conquest order: **Gujarat 1299 → Ranthambore (रणथंभौर) 1301 → Chittor 1303 → Warangal (वारंगल) ~1310**.
+10. **Udaipur** became Mewar capital from **1559**, while **Chittor** remained the prestige fort.
+11. **Rana Hamir (हमीर)** belongs to **Mewar**; **Rana Chunda** (राणा चुंडा) is also Mewar, while **Rao Chunda** (राव चुंडा) is the **Marwar** line.
+12. **Rana Hammir (मेवाड़ हमीर) (c. 1326)** restored Mewar after the Khalji (खिलजी) sack; he is **not Hamir Deva (रणथम्भौर हमीर)** of Ranthambore (died 1301).
+13. **Vijay Stambha** (विजय स्तम्भ) is **Kumbha** (कुम्भा)'s victory tower; **Kirti Stambha** (कीर्ति स्तम्भ) is the older Jain tower — both stand at Chittor.
+14. **Jayata and Kumpa** fought for **Marwar** against Sher Shah (शेरशाह) at Sammel in **1544**.
+15. **Jauhar** is women's immolation at a falling fort; **saka** (साका) is the warriors' last charge.
+16. Pratap's allies included **Bhils under Punja** and Afghan commander **Hakim Khan Sur**.
+17. Other states: **Bhati–Jaisalmer**, **Hada–Bundi–Kota**, and **Bikaner** as a Rathore branch.
+18. **Rao Jodha** founded **Jodhpur in 1459**.
+19. After Akbar, most Rajput houses took mansabs; **Man Singh** (मान सिंह) of Amber held about **7000** zat (जात) and fought at Haldighati.
+20. **Malik Sarwar** founded **Jaunpur** (जौनपुर), not Malwa — a common distractor beside ruler–state match lists.
+21. Khanwa sits near the **Agra–Fatehpur Sikri (फतेहपुर सीकरी)** belt; Haldighati is a narrow **Aravalli** (अरावली) pass near Gogunda.
+22. Cause–course–result for Khanwa: Sanga built a post-Panipat confederacy, Babur used Araba and Tulughma, and the Rajput challenge to early Mughal (मुग़ल) power broke.
+23. Cause–course–result for Haldighati: Pratap refused submission, Man Singh led the imperial wing, and Pratap withdrew to continue guerrilla resistance.
+24. **Tansen** (तानसेन) served Rewa/Bhata before Akbar; do not treat **Udai Singh of Mewar** as his pre-Akbar patron fact.
+25. **Agnikula Myth of Rajput Origin:** First articulated in Chand Bardai's ***Prithviraj Raso***; relates that sage Vashistha performed a great yajna on **Mount Abu** to rid the world of demons, from whose sacrificial fire-altar (*Agnikunda*) sprang the four clans: **Pratiharas, Chauhans, Paramaras, and Chaulukyas (Solankis)**.
+26. **Vigraharaja IV (Visaladeva):** The Chauhan monarch who captured **Delhi (Dhillika)** from the Tomara Rajputs around 1152 CE, transforming the Chauhans into an imperial power; authored the celebrated Sanskrit drama ***Harakeli Nataka*** (inscribed on slabs at Adhai Din Ka Jhonpra, Ajmer).
+27. **Prithviraj Chauhan's Courts and Titles:** Styled **Rai Pithora**; ruled from Ajmer and Delhi; built the fortified city of **Qila Rai Pithora** in Delhi; patronized poet Chand Bardai (*Prithviraj Raso*) and Kashmiri court poet Jayanaka (*Prithviraja Vijaya*).
+28. **Rana Kumbha's Musical Polymathy:** Celebrated sovereign of Mewar (1433–1468 CE) who authored monumental musical treatises including ***Sangeeta Raja***, ***Sangeeta Mimamsa***, and a learned commentary on Jayadeva's *Gita Govinda* titled ***Rasika Priya***.
+29. **Vijay Stambha (Chittorgarh):** A 9-storeyed, 122-foot monumental 'Tower of Victory' erected by **Rana Kumbha in 1448 CE** to commemorate his crushing victory over Sultan Mahmud Khalji of Malwa; chief architects were **Jaita** and his sons Napa, Poma, and Punja.
+30. **Rana Sanga's Martial Valor:** Sovereign of Mewar who bore the scars of **80 battlefield wounds**, having lost an eye, an arm, and a leg in combat; defeated Ibrahim Lodi at the **Battle of Khatoli (1517)** and **Battle of Dholpur (1519)** before confronting Babur at Khanwa.
+31. **Battle of Khanwa (16 March 1527):** Rana Sanga assembled an unprecedented Rajput confederacy (including Prithviraj of Amber, Hasan Khan Mewati, and Mahmud Lodi); betrayed by Silhadi of Raisen, leading to Babur's decisive victory via firearms and *Tulughma*.
+32. **First Rajput Matrimonial Alliance with Akbar (1562 CE):** **Raja Bharmal (Bihari Mal) of Amber (Kachhwaha)** was the first Rajput sovereign to voluntarily submit to Akbar, marrying his eldest daughter Harkha Bai (Mariam-uz-Zamani) to Akbar at **Sambhar** in 1562 CE.
+33. **Battle of Haldighati (18 June 1576):** Fought between Mughal army under **Raja Man Singh of Amber and Asaf Khan** against **Maharana Pratap of Mewar**; Pratap's vanguard was led by Afghan general **Hakim Khan Sur** and Bhil chieftain **Rana Punja**; horse Chetak perished after saving the Rana.
+34. **Maharana Pratap's Recapture of Mewar:** Following Haldighati, Pratap adopted scorched-earth guerrilla warfare from the Aravalli hills, winning the **Battle of Dewair (1582)** and reclaiming nearly all of Mewar (except Chittor and Mandalgarh), establishing his new capital at **Chavand**.
+35. **Mewar-Mughal Peace Treaty (1615 CE):** Concluded between **Rana Amar Singh** (son of Pratap) and Prince Khurram (Shah Jahan) under Jahangir; the Rana was exempt from personal attendance at the Mughal court, and Chittorgarh fort was returned with the condition that its ramparts never be repaired.
+36. **Founding of Jodhpur by Rao Jodha (1459 CE):** Built the imposing cliff-top **Mehrangarh Fort** on the hill known as *Bhakurcheeria* (Mountain of Birds), shifting the Rathore capital from ancient Mandore.
+37. **Battle of Giri-Sumel (Sammel, 1544 CE):** Rathore generals **Jaita and Kumpa** led a ferocious surprise night attack on Sher Shah Suri's 80,000-strong army with barely 12,000 warriors, nearly routing the Afghan sultan before dying heroically.
+38. **Maharaja Jaswant Singh I of Marwar:** Commander of royalist forces against Aurangzeb at the **Battle of Dharmat (1658 CE)**; eminent scholar who authored the Hindi rhetorical masterpiece ***Bhasha Bhushan***.
+39. **Durgadas Rathore's 30-Year Epic Struggle:** Celebrated as the 'Ulysses of the Rathores'; single-handedly organized the heroic Rathore resistance against Aurangzeb's armies from 1679 to 1707 CE, successfully safeguarding child prince **Ajit Singh** and restoring him to the throne of Jodhpur.
+40. **Mirza Raja Jai Singh I (Amber):** Veteran general under Jahangir, Shah Jahan, and Aurangzeb; surrounded Shivaji at Purandar Fort and negotiated the **Treaty of Purandar (11 June 1665)**, compelling Shivaji to surrender 23 forts and visit the Mughal court at Agra.
+41. **Sawai Jai Singh II (1688–1743 CE):** Astronomical polymath and statesman; founded the planned city of **Jaipur in 1727 CE** with Bengali town-planner **Vidyadhar Bhattacharya** according to principles of Shilpa Shastra.
+42. **The Five Jantar Mantar Observatories:** Sawai Jai Singh II constructed massive stone astronomical observatories (**Jantar Mantar**) across North India at exactly **five cities: Delhi, Jaipur, Ujjain, Varanasi, and Mathura** (Jaipur observatory houses the world's largest stone sundial, the *Samrat Yantra*).
+43. ***Zij-i-Muhammad Shahi*:*** A set of astronomical calculation tables compiled in Persian by **Sawai Jai Singh II** in 1733 CE, dedicated to the Mughal Emperor Muhammad Shah to correct calendar discrepancies and planetary orbits.
+44. **Ashvamedha Yajna Revival:** Sawai Jai Singh II was the **last Hindu sovereign** to perform the ancient Vedic sacrifices **Ashvamedha (horse sacrifice)** and **Vajapeya** in 1716 and 1734 CE in Jaipur.
+45. **Three Famous Historical Jauhars of Chittorgarh:** First in **1303 CE** against Alauddin Khalji (led by Rani Padmini); second in **1535 CE** against Bahadur Shah of Gujarat (led by Rani Karnavati); third in **1568 CE** against Akbar (following the defense of Jaimal and Patta).
+46. **Jaimal and Patta Statues:** Akbar was so profoundly impressed by the superhuman valor of Rajput commanders **Jaimal of Merta** and **Patta of Kelwa** during the 1568 siege of Chittor that he erected life-sized stone statues of both heroes mounted on elephants at the gates of **Agra Fort**.
+47. **Dilwara Jain Temples (Mount Abu):** The **Vimal Vasahi Temple** was built in **1031 CE** by Vimal Shah (minister to Solanki King Bhima I), and the **Luna Vasahi Temple** was built in **1230 CE** by brothers Tejapala and Vastupala; famed for exquisite, translucent marble filigree carving.
+48. **Ranthambore Siege (1301 CE):** Defended heroically by Chauhan king **Hammiradeva** (celebrated in *Hammira Mahakavya* by Nayachandra Suri and *Hammir Raso* by Jodharaj/Sharangadeva); witnessed the first Persian-recorded Jauhar described by Amir Khusrau.
+49. **Bhoja Paramara's Polymath Works:** Raja Bhoja (1010–1055 CE) of Dhara authored 84 scholarly treatises including ***Samarangana Sutradhara*** (classical architecture and mechanical automata) and ***Saraswati Kanthabharana*** (rhetoric and Sanskrit grammar).
+50. **Hawa Mahal (Palace of Winds):** Built in **1799 CE** in Jaipur by **Sawai Pratap Singh**, designed by architect Lal Chand Ustad; features 953 ornate honeycomb casements (*jharokhas*) enabling royal women to observe street processions without being seen.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+[c. 1152 CE] Vigraharaja IV captures Delhi from Tomaras; authors *Harakeli Nataka*
+   │
+[1191–1192 CE] Prithviraj Chauhan III: Wins Tarain I (1191) ⚔️ Loses Tarain II (1192) to Ghori
+   │
+[1301–1303 CE] Alauddin Khalji's Rajput Sieges: Ranthambore (1301) ⚔️ Chittorgarh Jauhar (1303)
+   │
+[1448 CE] Rana Kumbha builds the 9-storeyed **Vijay Stambha** at Chittorgarh (victory over Malwa)
+   │
+[1459 CE] Rao Jodha founds **Jodhpur** and builds Mehrangarh Fort
+   │
+[1527 CE] Battle of Khanwa: Babur defeats **Rana Sanga** of Mewar
+   │
+[1544 CE] Battle of Giri-Sumel: Sher Shah Suri narrowly defeats Jaita & Kumpa (Marwar)
+   │
+[1562 CE] Raja Bharmal of Amber forms first matrimonial alliance with Akbar at Sambhar
+   │
+[18 June 1576] Battle of Haldighati: Mughal forces (Man Singh) clash with **Maharana Pratap**
+   │
+[1615 CE] Mewar-Mughal Peace Treaty signed between Rana Amar Singh and Prince Khurram
+   │
+[1665 CE] Treaty of Purandar: Mirza Raja Jai Singh I compels Shivaji to surrender 23 forts
+   │
+[1679–1707 CE] Durgadas Rathore leads the 30-Year Marwar War of Independence against Aurangzeb
+   │
+[1727 CE] Sawai Jai Singh II founds **Jaipur**; builds five **Jantar Mantar** observatories
+```
+
+### Dynastic Grid of Major Rajput Houses
+
+| Rajput Clan / Dynasty | Princely Capital(s) | Legendary / Historic Founder | Most Celebrated Sovereign(s) | Royal Citadel / Fort |
+|---|---|---|---|---|
+| **Chauhans (Chahamanas)** | Shakambhari / **Ajmer** & Delhi | Vasudeva / Ajayaraja | **Prithviraj Chauhan III** (Rai Pithora), Vigraharaja IV | Taragarh (Ajmer) & Qila Rai Pithora |
+| **Guhilas / Sisodias** | Nagda → **Chittorgarh** → Udaipur | Bappa Rawal / Rana Hamir | **Rana Kumbha**, **Rana Sanga**, **Maharana Pratap** | Chittorgarh & Kumbhalgarh Fort |
+| **Rathores** | Mandore → **Jodhpur** | Rao Siha / Rao Jodha | Rao Maldeo, Maharaja Jaswant Singh I, Durgadas | **Mehrangarh Fort** (Jodhpur) |
+| **Kachhwahas** | Dausa → **Amber** → **Jaipur** | Dulha Rai / Raja Bharmal | Raja Man Singh I, Mirza Raja Jai Singh I, **Sawai Jai Singh II** | **Amer Fort** & Jaigarh Fort |
+| **Paramaras** | Ujjain → **Dhara (Dhar, MP)** | Upendra / Siyaka II | **Raja Bhoja (1010–1055 CE)**, Vakpati Munja | Dhara Fort & Mandu |
+| **Chandelas** | **Khajuraho / Mahoba / Kalinjar** | Nannuka (c. 831 CE) | Yashovarman, Dhanga, Vidyadhara, Parmardi Deva | **Kalinjar Fort** (Banda, UP) |
+| **Solankis (Chaulukyas)** | **Anhilwada (Patan, Gujarat)** | Mularaja I | Bhima I, Jayasimha Siddharaja, Kumarapala | Patan & Modhera Sun Temple |
+| **Bhatis** | **Jaisalmer** | Deoraj / Rawal Jaisal | Rawal Jaisal (founded Jaisalmer in 1156 CE) | **Sonar Qila** (Jaisalmer Golden Fort) |
+
+## 📊 Quick Reference Grid
+
+### 1. Major Battles & Sieges Involving Rajput Kingdoms
+
+| Battle / Siege | Year | Opposing Belligerents | Victorious Side | Decisive Consequence / Significance |
+|---|---|---|---|---|
+| **First Battle of Tarain** | 1191 CE | Prithviraj Chauhan III vs Muhammad Ghori | **Prithviraj Chauhan won** | Ghori routed; Rajput confederacy spared fleeing Turkish cavalry |
+| **Second Battle of Tarain**| 1192 CE | Prithviraj Chauhan III vs Muhammad Ghori | **Muhammad Ghori won** | Decisive Turkish conquest; ended Rajput sovereignty over Delhi-Ajmer |
+| **Battle of Chandawar** | 1194 CE | Muhammad Ghori vs Jay Chandra (Gahadavala) | **Muhammad Ghori won** | Defeat of Kannauj; opened middle Ganga plain to Turkish rule |
+| **Siege of Ranthambore** | 1301 CE | Alauddin Khalji vs **Hammiradeva Chauhan** | **Alauddin Khalji won** | First Persian-recorded Rajput **Jauhar**; Amir Khusrau eyewitness |
+| **Siege of Chittor** | 1303 CE | Alauddin Khalji vs Rana Ratan Singh | **Alauddin Khalji won** | Rani Padmini's celebrated Jauhar; Chittor renamed **Khizrabad** |
+| **Battle of Khatoli** | 1517 CE | **Rana Sanga (Mewar)** vs Ibrahim Lodi | **Rana Sanga won** | Lodi forces routed; established Mewar's supremacy across Rajasthan |
+| **Battle of Khanwa** | 1527 CE | Babur vs **Rana Sanga** & Rajput Alliance | **Babur won** | Babur took title **Ghazi**; secured Mughal foothold in North India |
+| **Battle of Giri-Sumel** | 1544 CE | Sher Shah Suri vs Jaita & Kumpa (Marwar) | **Sher Shah won (narrowly)** | Sher Shah's famous quote: *"For a handful of bajra..."* |
+| **Battle of Haldighati** | 18 June 1576 | Raja Man Singh (Mughals) vs **Maharana Pratap** | **Mughal tactical victory** | Maharana Pratap refused submission; sustained guerrilla warfare |
+| **Battle of Dewair** | 1582 CE | **Maharana Pratap** vs Mughal forces (Sultan Khan) | **Maharana Pratap won** | Termed 'Marathon of Mewar' by Col. Tod; liberated central Mewar |
+| **Battle of Dharmat** | 1658 CE | Aurangzeb & Murad vs Raja Jaswant Singh | **Aurangzeb won** | Royalist army defeated; Jaswant Singh retreated to Jodhpur |
+
+### 2. The Five Astronomical Observatories (Jantar Mantar) of Sawai Jai Singh II
+
+| Location | Present State | Architectural Landmark & Salient Instrument |
+|---|---|---|
+| **1. Delhi** | NCT of Delhi | Built in **1724 CE** (first constructed); features Samrat Yantra, Jai Prakash Yantra, Ram Yantra |
+| **2. Jaipur** | Rajasthan | Built in **1734 CE** (largest of the five); UNESCO World Heritage Site; world's largest stone sundial |
+| **3. Ujjain** | Madhya Pradesh | Built on the ancient Indian prime meridian (Tropic of Cancer alignment) |
+| **4. Varanasi** | Uttar Pradesh | Built on the roof of **Man Mandir Ghat** overlooking the holy Ganga river |
+| **5. Mathura** | Uttar Pradesh | Built inside the historic Kans Qila; sadly destroyed prior to the 1857 uprising |
+
+### 3. Iconic Rajput Architecture & Citadel Builders
+
+| Monument / Citadel | Location | Builder / Patron | Distinctive Architectural Milestone |
+|---|---|---|---|
+| **Vijay Stambha (Kirti Stambha)**| Chittorgarh (RJ) | **Rana Kumbha (1448 CE)** | 9 storeys, 122 ft; carved with pantheon of Hindu gods; architect **Jaita** |
+| **Kumbhalgarh Fort** | Rajsamand (RJ) | **Rana Kumbha (15th c.)** | Birthplace of Maharana Pratap; second-longest continuous wall in the world (36 km) |
+| **Mehrangarh Fort** | Jodhpur (RJ) | **Rao Jodha (1459 CE)** | Perched on 400 ft perpendicular cliff; delicate lattice stone screens |
+| **Amer Fort & Palace** | Jaipur (RJ) | Raja Man Singh I (1592 CE) | Fusion of Rajput & Mughal styles; Sheesh Mahal, Maota Lake, red sandstone & marble |
+| **Dilwara Jain Temples** | Mount Abu (RJ) | Vimal Shah (1031) & Vastupala-Tejapala (1230) | World-famous translucent white marble ceiling carvings and miniature pillared halls |
+| **Hawa Mahal** | Jaipur (RJ) | **Sawai Pratap Singh (1799 CE)** | Five-storey pyramid with 953 honeycomb casements; designed by Lal Chand Ustad |
+| **City Palace, Udaipur** | Udaipur (RJ) | Maharana Udai Singh II (1559 CE) | Built on Lake Pichola; granite and marble palaces linked through maze of courtyards |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Difference | Hindi |
+|---|---|------------|-------|
 | Khanwa | Haldighati | 1527 Babur–Sanga vs 1576 Man Singh–Pratap | खानवा / हल्दीघाटी |
 | Mewar | Marwar | Sisodia Chittor–Udaipur vs Rathore Jodhpur | मेवाड़ / मारवाड़ |
 | Rana Chunda | Rao Chunda | Mewar vs Marwar founder line — 2021 trap | राणा चुंडा / राव चुंडा |
@@ -68,10 +173,37 @@ hide:
 | Vijay Stambha | Kirti Stambha | Kumbha’s victory tower vs older Jain tower, both at Chittor | विजय स्तम्भ / कीर्ति स्तम्भ |
 | Alauddin’s Chittor | Akbar’s | 1303 vs 1567–68 | अलाउद्दीन / अकबर |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **Sawai Jai Singh's Five Jantar Mantar Cities: D–J–U–V–M**
+   - **D**elhi (First, 1724)
+   - **J**aipur (Largest, UNESCO)
+   - **U**jjain (Prime Meridian)
+   - **V**aranasi (Man Mandir Ghat)
+   - **M**athura (Destroyed)
+   - *Mnemonic Hook:* "Daily Journey Unveils Vast Mysteries"
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+2. **The Agnikula Four Rajput Clans: P–C–P–C**
+   - **P**ratihara (Parihar)
+   - **C**hauhan (Chahamana)
+   - **P**aramara (Pawar)
+   - **C**haulukya (Solanki)
+   - *Origin:* Vashistha's sacrificial fire-altar on **Mount Abu**.
+
+3. **Mewar Heroic Quad: K–S–P–A**
+   - Rana **K**umbha (Vijay Stambha 1448, defeated Malwa)
+   - Rana **S**anga (Khanwa 1527, 80 battlefield wounds)
+   - Maharana **P**ratap (Haldighati 1576, Chetak, Chavand)
+   - Rana **A**mar Singh (1615 Treaty with Jahangir)
+
+4. **The Amber Royal Lineage for Mughals: B–B–M–J–J**
+   - Raja **B**harmal (First alliance 1562)
+   - Raja **B**hagwant Das (Navratna noble)
+   - Raja **M**an Singh I (Commander at Haldighati)
+   - Mirza Raja **J**ai Singh I (Treaty of Purandar 1665)
+   - Sawai **J**ai Singh II (Jaipur 1727, Jantar Mantar)
+
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

@@ -11,93 +11,155 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 23 — Constitutional & Legal Offices</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Landmark Legal / Statutory Fact | What You Mark / Exam Relevance |
+|---|---|---|
+| **2023 Focus** | **Chief Election Commissioner Selection Act, 2023** | 3-member selection panel consists of: **Prime Minister (Chair), Leader of Opposition in Lok Sabha, and a Union Cabinet Minister** nominated by PM; **Chief Justice of India (CJI) is NOT on the panel** (superseded the interim mechanism in *Anoop Baranwal* judgment). |
+| **2023 Focus** | **Resignation of Supreme Court & High Court Judges** | Under Article 124(2)(a) (SC) and Article 217(1)(a) (HC), resignation letter must be addressed in writing to the **President of India**, NOT the Chief Justice of India. |
+| **2023 Focus** | **Attorney General Tenure & Removal Trap** | Attorney General must be qualified to be appointed an SC Judge, but holds office during the **Pleasure of the President** (Article 76(4)); does NOT have security of tenure and is NOT removed like an SC judge. |
+| **2022 Focus** | **Joint State Public Service Commission (JSPSC)** | Created by an **Act of Parliament** following statutory requests by participating state legislatures; it is a **Statutory body**, not a Constitutional body (though provided under Art. 315(2)). |
+| **2022 Focus** | **CAG Audit Reports Examination** | CAG audit reports on Appropriation & Finance accounts are examined by the **Public Accounts Committee (PAC)**; Reports on PSUs are examined by the **Committee on Public Undertakings (COPU)**; NOT the Estimates Committee. |
+| **2021 Focus** | **SPSC Chairman & Member Removal** | Appointed by the **Governor**, but **REMOVED ONLY BY THE PRESIDENT** after an inquiry by the Supreme Court under Article 317(1); Governor has power of suspension only, NOT removal. |
+| **2021 Focus** | **First CEC & First Woman CEC** | First CEC was **Sukumar Sen** (1950–1958); First and only woman CEC till date was **V.S. Ramadevi** (Nov–Dec 1990). |
+| **2021 Focus** | **Extension of State PSC Functions** | State Legislature can confer additional functions regarding state public services on SPSC by enacting a law under **Article 321** (NOT by the Governor or President). |
+| **2020 Focus** | **Attorney General Constitutional Placement** | Placed in **Part V, Chapter I (The Executive, Article 76)**; NOT in Part XIII (Trade & Commerce) or Part XIV (Services). |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. **Attorney General for India (Article 76, Part V):** The first and highest law officer of the Government of India; appointed by the **President**; must possess qualifications required to be appointed a **Judge of the Supreme Court** (citizen of India; 5 yrs HC judge, 10 yrs HC advocate, or distinguished jurist in President's opinion).
-2. Tenure and Removal of AG: The Constitution **does NOT fix the tenure or salary** of the Attorney General; holds office during the **pleasure of the President**; receives remuneration determined by the President (not charged on Consolidated Fund); by long-standing convention, tenders resignation when the Council of Ministers resigns.
-3. Rights and Privileges of AG (**Article 88**): Has the **right of audience in all courts throughout India**; has the **right to speak and participate in proceedings of both Houses of Parliament (Lok Sabha & Rajya Sabha)** and any Parliamentary Committee of which he may be named a member, but **HAS NO RIGHT TO VOTE**; enjoys all parliamentary privileges and immunities under **Article 105**.
-4. Limitations on AG: Does not belong to the Central Cabinet; is not a full-time government servant; **is NOT debarred from private legal practice**, but cannot advise or hold brief against the Government of India, nor defend accused persons in criminal prosecutions without GOI permission; the first Attorney General of India was **M.C. Setalvad (1950–1963)** (longest-serving AG).
-5. **Solicitor General and Additional Solicitors General:** Law officers created to assist the Attorney General in performing official duties; **THE SOLICITOR GENERAL IS NOT A CONSTITUTIONAL OFFICE** (not mentioned in the Constitution; statutory/executive creation); does not enjoy Article 88 privileges in Parliament.
-6. **Advocate General for the State (Article 165, Part VI):** The highest law officer in the State; appointed by the **Governor**; must possess qualifications required to be appointed a **Judge of a High Court** (citizen; held judicial office for 10 years or advocate of HC for 10 years; *distinguished jurist criterion does NOT apply for HC/Advocate General*).
-7. Tenure and Rights of Advocate General (**Article 177**): Holds office during the **pleasure of the Governor**; remuneration fixed by Governor; has the right to speak and take part in proceedings of **both Houses of State Legislature** (Assembly and Council) and its committees, but **HAS NO RIGHT TO VOTE**; enjoys all state legislative privileges under **Article 194**.
-8. **Cabinet Secretary of India:** The administrative head of the Cabinet Secretariat and the **senior-most civil servant of the Republic of India**; ex-officio Chairman of the **Civil Services Board**; acts as the principal advisor to the Prime Minister on administrative matters and coordinates inter-ministerial policy.
-9. Appointment and Tenure of Cabinet Secretary: Drawn from the senior-most ranks of the Indian Administrative Service (IAS); tenure is normally **2 years**, extendable up to 4 or 5 years under Fundamental Rule 56(d); ranks **Rank 11 in the Warrant of Precedence** (along with the Attorney General).
-10. **Principal Secretary to the Prime Minister:** Administrative head of the Prime Minister's Office (PMO); handles high-priority policy coordination, national security coordination, and executive oversight.
-11. **Warrant of Precedence (Order of Precedence, 1979 Notification):** Official state protocol order maintained by the Ministry of Home Affairs determining ceremonial precedence at state occasions and public functions; has no legal application to day-to-day administrative powers.
-12. Precedence Hierarchy (Ranks 1 to 5): **Rank 1**: President of India → **Rank 2**: Vice-President of India → **Rank 3**: Prime Minister of India → **Rank 4**: **Governors of States** within their respective States → **Rank 5**: Former Presidents (and Rank 5A: Deputy Prime Minister, if any).
-13. Precedence Hierarchy (Ranks 6 to 8): **Rank 6**: **Chief Justice of India (CJI) and Speaker of the Lok Sabha** (*Both have EXACT EQUAL protocol rank!*) → **Rank 7**: Union Cabinet Ministers, Chief Ministers within their States, Deputy Chairman of NITI Aayog (former Planning Commission), Former Prime Ministers, Leaders of Opposition in Rajya Sabha and Lok Sabha → **Rank 7A**: **Holders of Bharat Ratna** → **Rank 8**: Ambassadors Extraordinary & Plenipotentiary, Chief Ministers outside their respective States, Governors outside their respective States.
-14. Precedence Hierarchy (Ranks 9 to 11): **Rank 9**: **Judges of the Supreme Court of India** → **Rank 9A**: **Chief Election Commissioner (CEC), Comptroller and Auditor General (CAG)**, and Chairperson of UPSC (*All three hold equal Rank 9A*) → **Rank 10**: Deputy Chairman of Rajya Sabha, Deputy Speaker of Lok Sabha, Deputy Chief Ministers, Ministers of State of the Union → **Rank 11**: **Attorney General for India, Cabinet Secretary**, Lieutenant Governors within their UTs.
-15. Precedence Comparison Traps: (1) Lok Sabha Speaker (Rank 6) ranks ABOVE Union Cabinet Ministers (Rank 7); (2) Bharat Ratna awardees (Rank 7A) rank ABOVE Supreme Court Judges (Rank 9); (3) Supreme Court Judges (Rank 9) rank ABOVE the CEC and CAG (Rank 9A); (4) CEC and CAG (Rank 9A) rank ABOVE the Attorney General and Cabinet Secretary (Rank 11).
-16. **Attorney General vs Solicitor General vs Advocate General (Master Comparison):** AG (Art. 76, Central constitutional post, SC judge qualification, Art. 88 right in Parliament); Advocate General (Art. 165, State constitutional post, HC judge qualification, Art. 177 right in State Legislature); Solicitor General (Non-constitutional, statutory/executive post, assists AG, no right in Parliament).
-17. **Civil Services Board (CSB):** Mandated by the Supreme Court in *Prakash Singh (2006)* and notified in 2014; headed by the **Cabinet Secretary at the Centre** and by the **Chief Secretary in States**; recommends postings and transfers of senior civil servants, ensuring minimum fixed tenures to prevent arbitrary political transfers.
-18. **Cabinet Secretariat Structure:** Functions directly under the **Prime Minister of India**; administrative head is the **Cabinet Secretary**; provides secretarial assistance to the Cabinet and Cabinet Committees; administers the **Government of India (Transaction of Business) Rules, 1961** and **Government of India (Allocation of Business) Rules, 1961**.
-19. **Comptroller and Auditor General under CAG Act, 1971:** Under Section 10, CAG compiles accounts of States; under Section 13, audits all expenditure from Consolidated Fund; under Section 14, audits all bodies substantially financed by government grants (> 50% or ₹1 crore); audits government companies under Companies Act, 2013.
-20. Detailed Protocol Comparison in Warrant of Precedence: Rank 1: President → Rank 2: Vice-President → Rank 3: Prime Minister → Rank 4: Governors in their States → Rank 5: Former Presidents → Rank 6: CJI & Speaker LS → Rank 7: Union Cabinet Ministers & CMs in States → Rank 7A: Bharat Ratna → Rank 9: SC Judges → Rank 9A: CEC, CAG, UPSC Chairman → Rank 10: RS Deputy Chairman, LS Deputy Speaker, MoS → Rank 11: Attorney General & Cabinet Secretary.
-21. **Advocate-on-Record (AOR) System in Supreme Court:** Under Supreme Court Rules, 2013, **only an Advocate-on-Record is entitled to act and plead on behalf of a litigant in the Supreme Court**; an advocate must practice for 4 years, train for 1 year with a senior AOR, and pass a specialized examination conducted by the Supreme Court.
-22. **Senior Advocates Designation:** Under Section 16 of the Advocates Act, 1961, the Supreme Court or High Court may designate an advocate as **Senior Advocate** with their consent if of opinion that by virtue of ability, standing at the bar, or special knowledge, they deserve such distinction; Senior Advocates cannot file a vakalatnama or appear without an instructing advocate/AOR.
-23. **Public Prosecutor (Section 24 CrPC / Section 18 BNSS):** Appointed by the Central or State Government in High Courts and District Courts for conducting prosecutions on behalf of the State; considered an independent officer of the court whose duty is not to secure conviction at all costs, but to assist the court in arriving at truth.
-24. **Secretary-General of Lok Sabha and Rajya Sabha:** The permanent administrative and bureaucratic head of the Secretariat of each House; holds protocol rank equivalent to **Cabinet Secretary** (Rank 11); appointed by the Speaker (in Lok Sabha) and Chairman (in Rajya Sabha); assists Presiding Officers on parliamentary procedure and rules.
-25. **Comptroller and Auditor General's Institutional Independence:** CAG cannot be removed except by Presidential order following special majority address by Parliament; salary cannot be varied to disadvantage; completely debarred from further government post; administrative expenses **charged upon Consolidated Fund of India**.
-26. **Differences between Public Accounts Committee and CAG:** The CAG is the **'external auditor'** who examines accounts and drafts audit reports; the Public Accounts Committee (PAC) is the **'parliamentary scrutiny body'** that examines CAG reports; CAG acts as the **'friend, philosopher, and guide'** of the PAC during evidence sessions.
-27. **Central Vigilance Commissioner vs Comptroller & Auditor General:** CAG audits financial accounts and propriety of expenditure post-facto for both Union and States; CVC supervises anti-corruption vigilance, disciplinary proceedings, and CBI investigations relating to public corruption in Central government agencies.
-28. **Chief Election Commissioner in Order of Precedence:** The CEC, along with the CAG and UPSC Chairperson, occupies **Rank 9A in the Warrant of Precedence**, which places them higher than the Attorney General (Rank 11) and Deputy Ministers, but immediately below Supreme Court Judges (Rank 9).
-29. **Principal Secretary to Prime Minister:** Administrative head of PMO; created under Lal Bahadur Shastri's tenure (initially headed by L.K. Jha); holds protocol rank of Cabinet Minister or Minister of State; acts as the primary administrative clearing-house for Prime Ministerial directives.
-30. **Parliamentary Committee on Privileges:** Examines cases of breach of privileges of the House or its members; in Lok Sabha, consists of **15 members** nominated by Speaker; in Rajya Sabha, consists of **10 members** nominated by Chairman.
+1. **Attorney General for India (Article 76, Part V):** The first and highest law officer of the Government of India; appointed by the **President**; must be a person qualified to be appointed a **Judge of the Supreme Court** (citizen of India + either 5 years HC judge OR 10 years HC advocate OR distinguished jurist in President's opinion).
+2. **Attorney General Tenure & Remuneration (Article 76(4)):** Holds office during the **pleasure of the President**; no fixed tenure prescribed by the Constitution; by convention, resigns when the Council of Ministers falls or resigns; receives remuneration determined by the **President** (not charged on Consolidated Fund of India).
+3. **Attorney General Rights in Parliament (Article 88):** Has the right to speak and take part in the proceedings of either House of Parliament, any joint sitting of the Houses, and any Parliamentary committee of which he may be named a member, but **WITHOUT THE RIGHT TO VOTE**; enjoys all privileges and immunities of an MP (Art. 105(4)).
+4. **Attorney General Right of Audience (Article 76(3)):** Has the **right of audience in all courts in the territory of India** in the performance of his official duties; takes precedence over all other senior advocates.
+5. **Private Practice by Attorney General:** Is **NOT a full-time government servant**; is not debarred from private legal practice; **cannot advise or hold briefs against the Government of India**; cannot defend accused persons in criminal prosecutions without government permission; cannot accept directorship in any company without government permission.
+6. **First Attorney General of India:** **M.C. Setalvad** was the first and longest-serving Attorney General of India (1950–1963; over 13 years); served simultaneously as the Chairman of the First Law Commission of Independent India (1955–1958).
+7. **Solicitor General of India & Additional SGs:** Subordinate law officers assisting the Attorney General; **STATUTORY POSTS, NOT CONSTITUTIONAL**; Article 76 mentions only the Attorney General; appointed by the Appointments Committee of the Cabinet (ACC) for 3-year terms; do NOT have Article 88 rights in Parliament.
+8. **Advocate General for the State (Article 165, Part VI):** Highest law officer of the State; appointed by the **Governor**; must be a person qualified to be appointed a **Judge of a High Court** (citizen of India + held judicial office for 10 years OR advocate of HC for 10 years); holds office during the **pleasure of the Governor**; remuneration fixed by Governor.
+9. **Advocate General Rights in State Legislature (Article 177):** Has the right to speak and take part in proceedings of both Houses of State Legislature (or single House if unicameral), and any legislative committee of which he is named a member, but **WITHOUT THE RIGHT TO VOTE**; enjoys right of audience in all courts within the State.
+10. **Comptroller and Auditor General of India (CAG) (Articles 148–151):** Guardian of the public purse; heads the Indian Audit and Accounts Department; appointed by the **President by warrant under his hand and seal**; Dr. B.R. Ambedkar described CAG as the **most important officer under the Constitution of India**.
+11. **CAG Tenure and Age Limit:** Holds office for a term of **6 years or until age 65 years**, whichever is earlier; can resign by addressing letter to the President.
+12. **CAG Removal (Article 148(1)):** Can be removed from office **in like manner and on like grounds as a Judge of the Supreme Court** (proven misbehaviour or incapacity; address passed by both Houses of Parliament with special majority under Article 124(4)).
+13. **CAG Post-Retirement Strict Ineligibility (Article 148(4)):** Is strictly **ineligible for further office either under the Government of India or under the Government of any State** after he has ceased to hold his office.
+14. **CAG Oath of Office:** Takes oath before the President in accordance with **Form III in the Third Schedule** (preserves sovereignty, integrity, and upholds Constitution without fear or favour).
+15. **CAG Salary and Expenses (Article 148(3) & 148(6)):** Salary is specified in the **Second Schedule** (equal to that of an SC Judge); administrative expenses of CAG office, including salaries and pensions, are **CHARGED upon the Consolidated Fund of India** (non-votable by Parliament).
+16. **CAG Duties and Powers (Article 149):** Defined by Parliament under the **CAG’s (Duties, Powers and Conditions of Service) Act, 1971**; audits all receipts and expenditure of Union and States, government companies, and bodies substantially financed from government revenues.
+17. **Form of Accounts (Article 150):** The accounts of the Union and States shall be kept in such form as the **President may, on the advice of the CAG, prescribe** (amended by 42nd CAA 1976 and 44th CAA 1978).
+18. **CAG Audit Reports (Article 151):** CAG submits 3 audit reports: (1) Appropriation Accounts, (2) Finance Accounts, (3) Public Undertakings; submitted to the **President (for Union)** who causes them to be laid before Parliament, and to the **Governor (for State)** who causes them to be laid before State Legislature.
+19. **CAG and PAC Synergy:** The CAG acts as the **"Friend, Philosopher, and Guide"** of the **Public Accounts Committee (PAC)**; assists PAC in examining the audit reports and questioning departmental witnesses.
+20. **First CAG of Independent India:** **V. Narahari Rao** was the first CAG of India (1948–1954).
+21. **Chief Election Commissioner and Election Commissioners (Article 324):** Appointed by the **President**; under the Chief Election Commissioner and other Election Commissioners Act, 2023, appointed on the recommendation of a Selection Committee consisting of PM, LoP in Lok Sabha, and a Union Cabinet Minister.
+22. **Election Commission Tenure and Status:** CEC and other ECs hold office for **6 years or until age 65 years**, whichever is earlier; rank and salary equal to that of a **Judge of the Supreme Court**.
+23. **Removal of CEC vs Other ECs (Article 324(5)):** CEC can be removed **ONLY in like manner and on like grounds as a Judge of the Supreme Court**; other Election Commissioners **CANNOT be removed except on the recommendation of the Chief Election Commissioner**.
+24. **Union Public Service Commission (UPSC) (Articles 315–323, Part XIV):** Independent central recruiting agency; Chairman and members appointed by the **President**; hold office for **6 years or until age 65 years**, whichever is earlier.
+25. **UPSC Members Qualifications:** No specific qualification prescribed, except that nearly half (at least 50%) of the members must be persons who have held office for at least **10 years** either under the Government of India or under a State Government.
+26. **UPSC Chairman/Member Removal (Article 317):** Removed **ONLY by the President** on grounds of misbehaviour after the **Supreme Court conducts an inquiry under Article 145** on a reference made by the President; SC finding is binding on President; President may remove directly without SC inquiry for insolvency, paid employment, or infirmity of mind/body.
+27. **State Public Service Commission (SPSC) (Article 315):** Chairman and members appointed by the **Governor**; hold office for **6 years or until age 62 years** (amended by 41st CAA, 1976 from 60 to 62); **REMOVED ONLY BY THE PRESIDENT** (NOT Governor) under Article 317 following SC inquiry.
+28. **Joint State Public Service Commission (JSPSC) (Article 315(2)):** Parliament may by law establish a JSPSC for two or more States upon resolutions passed by their respective legislatures; **STATUTORY body**; Chairman and members appointed by the **President**; tenure 6 years or age 62 years; removed by President.
+29. **Special Officer for Linguistic Minorities (Article 350B):** Created by the **7th Constitutional Amendment Act, 1956** on recommendation of States Reorganisation Commission; appointed by the **President**; investigates constitutional safeguards for linguistic minorities and reports to President; Commissioner for Linguistic Minorities (CLM) headquarters at **Prayagraj (Allahabad), UP**.
+30. **Cabinet Secretary of India:** Top-most civil servant in India; senior-most officer of Indian Administrative Service (IAS); ex-officio Chairman of Civil Services Board, Strategic Policy Group (SPG), and Committee of Secretaries; ranks **11th** in Table of Precedence (above all generals, ministers of state, and MPs).
+31. **Principal Secretary to Prime Minister:** Administrative head of the Prime Minister's Office (PMO); coordinates highest-level policy planning and oversight; holds the rank and status of a **Cabinet Minister** within government.
+32. **Solicitor General Rank & Role:** Second-highest law officer of India; represents the Union of India in Supreme Court alongside AG; does NOT hold a constitutional office (governed by Law Officers Conditions of Service Rules, 1972).
+33. **Accountant General (AG) vs Advocate General (AdvG):** Accountant General is an officer of the Indian Audit & Accounts Department functioning under **CAG** to audit state finances; Advocate General is the constitutional law officer under **Article 165**.
+34. **Oaths Outside Third Schedule:** Only 3 functionaries take oath under dedicated articles: (1) **President of India (Article 60)**; (2) **Vice-President of India (Article 69)**; (3) **Governor of a State (Article 159)**.
+35. **CAG's Dual Role (Accounting vs Auditing):** In 1976, accounting was separated from auditing at Union level; CAG was relieved of the responsibility of preparing Union accounts (vested in Controller General of Accounts - CGA); CAG **still compiles and prepares accounts of State Governments**.
+36. **Controller General of Accounts (CGA):** Principal accounting advisor to the Government of India in the Department of Expenditure, Ministry of Finance; **NOT a constitutional body** (functions under Allocation of Business Rules); prepares monthly and annual accounts of the Union Government.
+37. **Finance Commission Chairman & Members Qualifications:** Set by Parliament under Finance Commission Act, 1951: Chairman must have experience in **public affairs**; 4 members: (1) High Court judge or qualified to be such; (2) specialized knowledge of finance and accounts; (3) wide experience in financial matters and administration; (4) special knowledge of economics.
+38. **National Commission for SCs (Article 338):** Consists of Chairperson, Vice-Chairperson, and 3 other members appointed by President; holds office for **3 years**; has powers of a **Civil Court** while investigating complaints.
+39. **National Commission for STs (Article 338A):** Bifurcated from NCSC by the **89th Constitutional Amendment Act, 2003**; Chairperson, Vice-Chairperson, and 3 members appointed by President for 3 years; Chairperson enjoys Cabinet Minister rank.
+40. **National Commission for Backward Classes (Article 338B):** Accorded constitutional status by the **102nd Constitutional Amendment Act, 2018**; 5 members appointed by President for 3 years; investigates welfare and civil court matters for SEBCs.
+41. **Tenure of Law Commission of India:** Constituted periodically every **3 years** as a non-statutory executive body under Ministry of Law and Justice; 22nd Law Commission chaired by Justice Ritu Raj Awasthi.
+42. **Chief Justice of India Appointment:** Appointed by President under Article 124(2); by binding convention affirmed in *Second Judges Case (1993)*, the **senior-most judge of the Supreme Court** is appointed CJI; Collegium system governs recommendations.
+43. **High Court Chief Justice Appointment (Article 217):** Appointed by President after consultation with the Chief Justice of India, Governor of the State, and (in case of other HC judges) Chief Justice of that High Court.
+44. **Oath of Supreme Court & High Court Judges:** Supreme Court Judges take oath before the **President** under Third Schedule (Form IV); High Court Judges take oath before the **Governor** of the State under Third Schedule (Form VIII).
+45. **Resignation of Constitutional Functionaries Matrix:** President resigns to **Vice-President**; Vice-President resigns to **President**; Speaker of Lok Sabha resigns to **Deputy Speaker**; Chairman of Rajya Sabha (VP) resigns to **President**; Supreme Court & High Court judges resign to **President**; CAG resigns to **President**; UPSC/SPSC members resign to **President/Governor**.
+46. **UPSC Chairman Post-Retirement Ineligibility (Article 319):** Chairman of UPSC is strictly **ineligible for further employment either under the Government of India or under the Government of a State**; SPSC Chairman is eligible only for appointment as UPSC Chairman/member or Chairman of another SPSC.
+47. **Advisory Functions of UPSC (Article 320):** Must be consulted on all matters relating to recruitment methods, principles of appointments/transfers, and disciplinary matters; **advice is advisory and not mandatory**; Government must place explanatory memorandum before Parliament for non-acceptance.
+48. **Staff Selection Commission (SSC):** Attached office of Department of Personnel and Training (DoPT); established in 1975 (as Subordinate Services Commission, renamed 1977); **Non-statutory executive body** recruiting Group B (non-gazetted) and Group C personnel.
+49. **Central Vigilance Commissioner (CVC):** Set up in 1964 on Santhanam Committee recommendations; accorded statutory status by CVC Act, 2003; CVC and maximum 2 Vigilance Commissioners appointed by President on recommendation of committee: **PM (Chair), Home Minister, and LoP in Lok Sabha**; tenure **4 years or age 65 years**.
+50. **Chief Information Commissioner (CIC):** Head of Central Information Commission under RTI Act, 2005; appointed by President on recommendation of: **PM (Chair), LoP in Lok Sabha, and a Union Cabinet Minister**; term prescribed by Central Government (RTI Amendment 2019) or until age 65 years.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+1948 ── V. Narahari Rao appointed 1st CAG of Independent India
+1950 ── M.C. Setalvad appointed 1st Attorney General for India (Art. 76)
+1950 ── Sukumar Sen appointed 1st Chief Election Commissioner of India (Art. 324)
+1950 ── UPSC constituted under Article 315 (Headed by H.K. Kripalani)
+1951 ── Finance Commission Act passed (1st FC headed by K.C. Neogy)
+1956 ── 7th CAA inserts Article 350B (Special Officer for Linguistic Minorities)
+1964 ── Central Vigilance Commission (CVC) created on Santhanam recommendations
+1971 ── CAG's (Duties, Powers and Conditions of Service) Act enacted
+1976 ── 41st CAA raises SPSC retirement age from 60 to 62 years
+1976 ── Separation of Accounts and Audit (CGA office created; CAG audits only at Centre)
+1989 ── Election Commission made multi-member for first time (61st CAA era)
+1990 ── V.S. Ramadevi becomes 1st and only Woman CEC of India
+1993 ── EC made permanently a 3-member body (CEC + 2 ECs) via ordinance/Act
+2003 ── 89th CAA bifurcates NCSC and NCST (Articles 338 and 338A)
+2005 ── Central Information Commission established under RTI Act
+2018 ── 102nd CAA accords constitutional status to NCBC (Article 338B)
+2023 ── Parliament enacts Chief Election Commissioner and other ECs Act, 2023
+```
+
+## 📊 Quick Reference Grid
+
+### Master Comparison of Key Constitutional Offices
+
+| Constitutional Office | Article & Part | Appointed By | Tenure & Age Limit | Removal Authority & Procedure | Oath Taken Before / Schedule | Post-Retirement Status |
+|---|---|---|---|---|---|---|
+| **Attorney General** | Art. 76 (Part V) | President | Pleasure of President (No fixed term) | **President** (Pleasure of President; no formal trial) | No form in 3rd Schedule (Appointed by warrant) | Allowed private practice; no bar on office |
+| **Advocate General** | Art. 165 (Part VI) | Governor | Pleasure of Governor (No fixed term) | **Governor** (Pleasure of Governor) | Form VIII (Like HC Judge) / 3rd Sch | Allowed private practice |
+| **CAG** | Art. 148 (Part V) | President | **6 yrs or 65 yrs** | **President** (Like SC Judge via special majority, Art. 124(4)) | Form III, 3rd Schedule (Before President) | **Strictly debarred from ALL further Union/State jobs** |
+| **CEC & ECs** | Art. 324 (Part XV) | President | **6 yrs or 65 yrs** | CEC: **Like SC Judge**; ECs: **On CEC recommendation** | Form in Act / Before President | Can take further jobs (No constitutional bar) |
+| **UPSC Chairman** | Art. 315 (Part XIV) | President | **6 yrs or 65 yrs** | **President** (After binding SC inquiry, Art. 317) | Form in 3rd Schedule / Before President | **Barred from ALL further Union/State jobs** |
+| **SPSC Chairman** | Art. 315 (Part XIV) | **Governor** | **6 yrs or 62 yrs** | **PRESIDENT ONLY** (After binding SC inquiry, Art. 317) | Form in 3rd Schedule / Before Governor | Eligible only for UPSC or another SPSC |
+| **CJI / SC Judges** | Art. 124 (Part V) | President | Up to **65 yrs** | **President** (Special majority in Parliament, Art. 124(4)) | Form IV, 3rd Schedule (Before President) | Barred from pleading before any court |
+| **HC Judges** | Art. 217 (Part VI) | President | Up to **62 yrs** | **President** (Special majority in Parliament, Art. 124(4)) | Form VIII, 3rd Schedule (Before **Governor**) | Barred except SC and other HCs |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Confused Pair / Trap | What Examiner Falsely Claims | True Exam Position | Hindi Key |
+|---|---|---|---|
+| **Attorney General Removal** | Trapped as being removed like an SC Judge. | AG holds office during the **Pleasure of the President**; can be removed anytime without grounds. | महान्यायवादी पदमुक्ति (राष्ट्रपति का प्रसादपर्यंत) |
+| **Solicitor General Status** | Claimed to be a constitutional post under Art. 76. | SG is a **Statutory post**, NOT mentioned anywhere in the Constitution. | सॉलिसिटर जनरल (गैर-संवैधानिक) |
+| **Article 88 vs Article 177** | Interchanging Parliamentary and Assembly rights. | **Article 88** = Attorney General in Parliament; **Article 177** = Advocate General in State Legislature. | अनुच्छेद 88 (संसद) / अनुच्छेद 177 (विधानसभा) |
+| **Advocate General Qualifications** | Trapped as qualified to be an SC Judge. | AdvG must be qualified to be a **High Court Judge** (Art. 165). | महाधिवक्ता योग्यता (उच्च न्यायालय न्यायाधीश) |
+| **Advocate General Removal** | Trapped as requiring impeachment by State Assembly. | Holds office during the **Pleasure of the Governor** (Art. 165(3)). | महाधिवक्ता पदमुक्ति (राज्यपाल का प्रसाद) |
+| **CAG Removal Procedure** | Claimed to hold office during Presidential pleasure. | CAG has **guaranteed security of tenure**; removed ONLY like an SC Judge under Art. 124(4). | कैग पदमुक्ति (उच्चतम न्यायालय न्यायाधीश समान) |
+| **CAG Third Schedule Oath** | Falsely claimed CAG oath is outside 3rd Schedule. | CAG takes oath strictly under **Form III of the Third Schedule**. | कैग शपथ (तृतीय अनुसूची प्रारूप 3) |
+| **CAG Future Employment Bar** | Claimed CAG can be appointed State Governor or Ambassador. | Article 148(4) strictly **bars further employment under Union or State Govt**. | कैग पुनर्नियुक्ति प्रतिबंध (अनुच्छेद 148(4)) |
+| **SPSC Removal Authority** | Claimed SPSC Chairman is removed by the Governor. | Appointed by Governor, but **REMOVED ONLY BY THE PRESIDENT** under Article 317. | राज्य लोक सेवा आयोग पदमुक्ति (केवल राष्ट्रपति) |
+| **SPSC Retirement Age** | Trapped as 65 years like UPSC. | SPSC retirement age is **62 years** (UPSC is 65 years). | राज्य लोक सेवा आयोग आयु सीमा (62 वर्ष) |
+| **Joint SPSC Nature** | Claimed JSPSC is a constitutional body. | JSPSC is a **Statutory body** created by an Act of Parliament (Art. 315(2)). | संयुक्त राज्य लोक सेवा आयोग (सांविधिक) |
+| **Oaths of President/VP/Governor** | Trapped as taking oath under the Third Schedule. | **Outside 3rd Schedule**: President (Art. 60), VP (Art. 69), Governor (Art. 159). | राष्ट्रपति/उपराष्ट्रपति/राज्यपाल शपथ (अनुसूची 3 से बाहर) |
+| **Other Election Commissioners Removal** | Claimed other ECs are removed like an SC Judge. | Only CEC is removed like SC Judge; other ECs removed **on recommendation of CEC**. | चुनाव आयुक्त पदमुक्ति (सीईसी की सिफारिश) |
+| **CJI on CEC Selection Panel** | Stating CJI is a member of the CEC Selection Committee. | Under the 2023 Act, the panel is **PM + LoP + Cabinet Minister**; CJI is **NOT** included. | सीईसी चयन समिति (सीजेआई शामिल नहीं) |
+| **CAG Audit of Advance Expenditure** | Claimed Indian CAG gives prior sanction before money is spent. | Indian CAG conducts **ex-post-facto audit** (after money is spent); does not control issuance of money like UK CAG. | कैग लेखापरीक्षा (व्यय के बाद) |
 
-| Year | What happened | What you mark |
-|------|-----------------|---------------|
-| **2023** | **CEC Act**: selection = PM + LoP LS + Cabinet Minister (कैबिनेट मंत्री) | **CJI not on the panel** (*Anoop Baranwal* had put CJI there *until a law*) |
-| **2023** | SC judge resignation paper | Address = **President**, not CJI |
-| **2023** | Paper asks AG qualify-as-SC-judge **and** impeachment | Only qualify is true. **Pleasure**, not 124(4) |
-| **2022** | JPSC how created | **Parliament**, if the States request |
-| **2022** | CAG (भारत के नियंत्रक-महालेखापरीक्षक) report examined by? | **PAC** (लोक लेखा समिति), not Estimates (प्राकलन समिति), not “COPU for everything” |
-| **2021** | SPSC member removal | **President** after **SC** inquiry — not Governor, not HC |
-| **2021** | First CEC / first woman CEC | **Sukumar Sen** · **Ramadevi 1990** |
-| **2021** | UPPSC (उत्तर प्रदेश लोक सेवा आयोग) functions extended by | **UP Legislature** (321), not President |
-| **2020** | AG matched to Part XIII | **Wrong.** Part **V** |
-| **2024** | Body–article “correctly matched” | **ECI ≠ 165**. 165 = AdvG. ECI = **324** |
-| **2024** | CAG in a match-list | **148** (with 266 / 280 / 360) |
-| **2023** | 324 / 315 / 280 / 338 match | EC / PSC / FC / NCSC (राष्ट्रीय अनुसूचित जाति आयोग) |
-| **2018** | CJI when PIL “introduced” | **P.N. Bhagwati** (colour). epistolary / continuing mandamus (परमादेश) |
-| **1976** | Accounts compilation taken off CAG | CAG = **auditor only** (2019) |
-| **1971** | CAG DPC Act | Duties live in **statute**, Art. 149 |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Oaths Outside Third Schedule: "P-V-G"
+- **P:** **P**resident — Article 60
+- **V:** **V**ice-President — Article 69
+- **G:** **G**overnor — Article 159
+*(All other judges, ministers, CAG, and MPs take oath under the Third Schedule).*
 
-### Confused pairs
+### 2. CAG Four Articles Ladder: "148 - 149 - 150 - 151"
+- **148:** **A**ppointment, Oath, Removal & Independence of CAG.
+- **149:** **D**uties and Powers of CAG.
+- **150:** **F**orms of accounts prescribed on CAG's advice.
+- **151:** **R**eports of CAG submitted to President / Governor.
 
-| Term A | Term B | Core difference | Hindi Terminology |
-| -------- | -------- | ----------------- | -------- / -------- |
-| **Attorney General (76)** | **Solicitor General** | Constitutional; Art. **88** | **Not** in the text; no 88 |
-| **Attorney General** | **Advocate General (165)** | Union; President; **SC**-judge qualify | State; Governor; **HC**-judge qualify |
-| **AG / AdvG** | **CAG / SC judge** | **Pleasure** — no impeachment article | Removal **like SC judge** (CAG) / impeachment (judge) |
-| **AG** | **CAG** | May take private briefs (not vs GoI); further office **not** barred by 76 | **148(4)** no further Union/State office |
-| **CAG** | **Accountant General** | Union constitutional auditor | CAG’s **field** officer in a State |
-| **Advocate General** | **Accountant General** | State’s *law* officer (165) | State’s *accounts* officer (CAG’s man) |
-| **3rd Schedule oath** | **Art. 60 / 69 / 159** | Judges, CAG, ministers, MPs/MLAs | President / VP / Governor — **not** 3rd Schedule |
-| **2nd Schedule** | **AG’s pay** | CAG + judges (charged) | President fixes; **not** charged on CFI as a 2nd-Sch office |
-| **UK Comptroller** | **Indian CAG** | Can **block** a payment first | **Audits after** the money has gone |
-| **CEC** | **Other Election Commissioners** | Removed **like SC judge** | Removed only on **CEC’s recommendation** |
-| **UPSC Chairman** | **UPSC member** (Art. 319) | **No** further Union/State office | May become UPSC **Chair** or an **SPSC Chair** |
-| **SPSC: appoint** | **SPSC: remove** | **Governor** | **President** (after SC inquiry on misbehaviour) |
-| **CJI / SC judge oath** | **CJ HC / HC judge oath** | Before **President** | Before **Governor** |
-| **HC judge oath** | **HC judge resignation** | **Governor** | **President** |
-| **CJI age** | **CJ HC age** | **65** | **62** |
-| **CEC (324)** | **SEC (243K)** | Parliament / President / VP polls | Local bodies |
-| **President resigns** | **CJI resigns** | To the **VP** (56) | To the **President** (124) |
-| **ECI Art.** | **AdvG Art.** | **324** | **165** (2024 trap) |
-| **CEC 2023 panel** | **Lokpal panel** | PM + LoP LS + Cabinet Minister (**no CJI**) | **Includes CJI** (or an SC judge he nominates) |
-| **LS Speaker resigns** | **RS Chairman resigns** | To **Deputy Speaker** (94) | RS Chairman **is the VP** → resigns to the **President** (67) |
+### 3. Removal "Like an SC Judge": "C-C-C"
+Only three categories of offices have the constitutional protection of being removed *in like manner and on like grounds as an SC Judge*:
+1. **C:** **C**AG (Comptroller and Auditor General — Art. 148(1))
+2. **C:** **C**EC (Chief Election Commissioner — Art. 324(5))
+3. **C:** **C**ourt Judges (High Court Judges — Art. 217(1)(b))
 
+### 4. SPSC Appointment vs Removal Paradox: "Appointed by G, Removed by P"
+- **Appointed by:** **G**overnor (राज्यपाल)
+- **Age limit:** **62 years** (6 yrs / 62 yrs)
+- **Removed ONLY by:** **P**resident (राष्ट्रपति) after Supreme Court inquiry under Art. 317!
 
----
 
 ## 🎯 Revision Practice MCQs (Mastery Drill)
 

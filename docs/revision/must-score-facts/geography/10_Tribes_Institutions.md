@@ -7,9 +7,15 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 10 — Tribes & Institutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2026** | **PM-JANMAN** (*Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan*): ₹24,104 crore flagship mission launched from Khunti, Jharkhand (Birsa Munda's birthplace) targeting comprehensive saturation of **75 PVTG communities** across 18 States and 1 UT | Critical PVTG welfare mission, tribal development outlays & target groups |
+| **2021–2026** | **Janjatiya Gaurav Divas (15 November)**: Celebrated annually nationwide commemorating the birth anniversary of revered tribal freedom fighter **Bhagwan Birsa Munda** (*Dharti Aaba*) | Official national commemoration dates & tribal freedom history |
+| **2023–2047** | **National Sickle Cell Anaemia Elimination Mission**: Flagship health mission launched from Shahdol (Madhya Pradesh) to eliminate sickle cell disease predominantly afflicting tribal populations by **2047** | Tribal healthcare initiatives, mission targets & geographic focus |
+| **2024** | **Eklavya Model Residential Schools (EMRS)**: Central sector scheme providing quality education to ST children in remote areas; managed by NESTS under Ministry of Tribal Affairs | Tribal education schemes & operational benchmarks |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -61,53 +67,137 @@ hide:
 
 
 ---
+46. **Survey of India (SoI)**: Established in **1767**; headquarters at **Dehradun, Uttarakhand**; India's oldest scientific department and the national mapping agency under the Department of Science & Technology.
+47. **National Remote Sensing Centre (NRSC)**: Located at **Hyderabad, Telangana** (under ISRO / Department of Space); responsible for satellite data acquisition, processing, and aerial remote sensing dissemination.
+48. **Indian Institute of Remote Sensing (IIRS)**: Located at **Dehradun, Uttarakhand**; premier training and educational institute for remote sensing, GIS, and GPS technologies under ISRO.
+49. **Indira Gandhi Rashtriya Manav Sangrahalaya (IGRMS)**: National Museum of Mankind located in **Bhopal, Madhya Pradesh**; autonomous organization under the Ministry of Culture depicting the story of human evolution and living tribal cultures.
+50. **Central Institute of Agricultural Engineering (CIAE)**: Located at **Bhopal, Madhya Pradesh**; premier ICAR institute dedicated to farm mechanization, post-harvest engineering, and renewable energy in agriculture.
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INDIAN TRIBAL MOVEMENTS & CONSTITUTIONAL FRAMEWORK MILESTONES
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1855-1856] ──> SANTHAL REBELLION (*Hul*):
+  │               Led by brothers Sidhu and Kanhu Murmu against British colonial revenue officers and moneylenders;
+  │               led to the creation of the Santhal Pargana district.
+  │
+  ▼
+  [1899-1900] ──> MUNDA REBELLION (*Ulgulan* / Great Tumult):
+  │               Led by Birsa Munda in the Chotanagpur region against the destruction of *Khuntkatti* land tenure;
+  │               led to the enactment of the Chotanagpur Tenancy Act (CNTA), 1908.
+  │
+  ▼
+  [1950] ───────> CONSTITUTIONAL SAFEGUARDS ENACTED:
+  │               Article 342 empowers President to specify Scheduled Tribes;
+  │               Fifth Schedule (Scheduled Areas) and Sixth Schedule (Tribal Areas: Assam, Meghalaya, Tripura, Mizoram).
+  │
+  ▼
+  [1973] ───────> DHEBAR COMMISSION CREATES PVTG CATEGORY:
+  │               Created "Primitive Tribal Groups" (PTGs, renamed PVTGs in 2006) for ultra-vulnerable communities.
+  │
+  ▼
+  [1996] ───────> PESA ACT (*Panchayats Extension to Scheduled Areas*):
+  │               Decentralized self-governance recognizing Gram Sabha authority over natural resources & minor minerals.
+  │
+  ▼
+  [2006] ───────> FOREST RIGHTS ACT (FRA), 2006:
+  │               Recognized individual and community forest rights (*Van Adhikar*) for forest-dwelling tribes.
+  │
+  ▼
+  [2021] ───────> JANJATIYA GAURAV DIVAS (15 November):
+  │               National declaration celebrating Birsa Munda's birth anniversary.
+  │
+  ▼
+  [2023] ───────> PM-JANMAN LAUNCHED:
+  │               ₹24,104 crore scheme for saturation of basic amenities across 75 PVTG habitations.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Major Scheduled Tribes of India: State-Wise Master Table
+
+| State / UT | Major Scheduled Tribes | Cultural & Anthropological Exam Distinctions |
+|---|---|---|
+| **Madhya Pradesh** | **Bhil (भील)**, **Gond (गोंड)**, **Baiga (बैगा)**, Sahariya, Korku, Kol | MP has the **largest tribal population in India (~1.53 crore / ~14.7% of India's STs)**; **Bhil is India's largest ST group**; Baiga practice *Dahiya* shifting cultivation; Korku practice *Munda* wood carving |
+| **Jharkhand** | **Santhal (संथाल)**, **Munda (मुंडा)**, **Oraon (उरांव)**, Ho, Birhor (PVTG), Asur | Santhal is 3rd largest ST in India; Munda & Oraon celebrate **Sarhul** (flower/sal tree festival); Asur are traditional iron smelters; *Dhumkuria* youth dormitory of Oraon |
+| **Odisha** | **Khond (खोंड)**, **Saora (साओरा)**, **Bonda (बोंडा)**, Juang, Chenchu, Lodha | **Odisha has the highest number of PVTGs in India (13 PVTGs)**; Bonda women wear distinct bead necklaces and shaved heads; historic Meriah human sacrifice associated with Khonds |
+| **Rajasthan** | **Mina (मीणा)**, **Bhil**, Garasia, Sahariya, Damor | Mina is the largest ST in Rajasthan; Garasia practice *Gaur* dance; Sahariya are designated as Rajasthan's only PVTG (Baran district) |
+| **Uttarakhand** | **Tharu (थारू)**, **Jaunsari (जौनसारी)**, **Bhotia (भोटिया)**, **Buksa (बुक्सा)**, Raji | **Tharu** consider **Diwali as a festival of mourning (*शोक पर्व*)**; **Jaunsari** historically practice **fraternal polyandry (*बहुपति विवाह*)**; **Bhotia** practice seasonal pastoral **transhumance (*ऋतु प्रवास*)** between *Mait* (summer) and *Gunda* (winter); **Raji** (*Van Rawat*) is a cave-dwelling PVTG |
+| **Uttar Pradesh** | **Tharu** (Lakhimpur, Bahraich), **Gond**, **Kharwar**, Sahariya (Lalitpur), Baiga (Sonbhadra) | **Sonbhadra has the highest tribal population and percentage in UP**; **Baghpat / Kannauj have the lowest**; Tharu tribe runs a home-stay project in Dudhwa border |
+| **Tamil Nadu** | **Toda (टोडा)**, **Kota**, **Irula**, Kurumba, Badaga | **Toda** live in the **Nilgiri Hills** in semi-barrel-shaped huts (*Dogles*); strict vegetarian buffalo pastoralists; historically practiced female infanticide and polyandry; speak Dravidian tongue |
+| **Andhra Pradesh & Telangana** | **Chenchu (चेन्चू)**, Koya, Yanadi, Kolam, Konda Reddi | Chenchus inhabit the **Nallamala Hills**; hunter-gatherers; closely associated with Srisailam Mallikarjuna temple |
+| **Himachal Pradesh & J&K** | **Gaddi (गद्दी)**, **Gujjar (गुज्जर)**, Bakarwal, Kinnaura, Pangwala | Pastoral semi-nomads; Gaddis inhabit Dhauladhar range (Chamba/Kangra); follow Shiva (*Dhaula Dhar shepherds*); transhumance migration with sheep and goats |
+| **North-Eastern States** | **Garo, Khasi, Jaintia** (Meghalaya); **Apatani** (Arunachal); **Angami, Konyak** (Nagaland); **Mizo / Lushai** (Mizoram) | Garo, Khasi, Jaintia follow **matrilineal inheritance**; **Apatani** of Ziro valley (Arunachal) are famous for sustainable terrace **paddy-cum-fish farming**; Konyak are historic head-hunters |
+| **Andaman & Nicobar** | **Great Andamanese**, **Onge**, **Jarawa**, **Sentinelese**, **Shompen**, **Nicobarese** | **Jarawa, Sentinelese, Onge, Great Andamanese** belong to ancient **Negrito racial stock**; **Shompen & Nicobarese** belong to **Mongoloid stock**; all except Nicobarese are critically endangered PVTGs; Sentinelese remain completely uncontacted |
+
+### 2. States & UTs with NO Scheduled Tribes (STs)
+
+| Administrative Entity | Constitutional Status regarding Scheduled Tribes |
+|---|---|
+| **Punjab** | **NO Scheduled Tribes notified** under Article 342 |
+| **Haryana** | **NO Scheduled Tribes notified** under Article 342 |
+| **Delhi (NCT)** | **NO Scheduled Tribes notified** |
+| **Chandigarh (UT)** | **NO Scheduled Tribes notified** |
+| **Puducherry (UT)** | **NO Scheduled Tribes notified** |
+
+### 3. Premier National Institutes of Geography & Cartography
+
+| Institute / Organization | Headquarters Location | Administrative Ministry / Department | Core Mandate & High-Yield Exam Tag |
+|---|---|---|---|
+| **Survey of India (SoI)** | **Dehradun, Uttarakhand** | Dept. of Science & Technology | **Oldest scientific department in India (estd. 1767)**; national principal mapping agency; topographical sheets (*topo-sheets*) |
+| **National Remote Sensing Centre (NRSC)** | **Hyderabad, Telangana** | ISRO / Dept. of Space | Earth observation satellite data reception (Shadnagar ground station), processing, and Bhuvan geo-platform |
+| **Indian Institute of Remote Sensing (IIRS)** | **Dehradun, Uttarakhand** | ISRO / Dept. of Space | Higher education and research in remote sensing, geoinformatics, and GPS applications |
+| **Central Arid Zone Research Institute (CAZRI)** | **Jodhpur, Rajasthan** | ICAR / Ministry of Agriculture | Desertification mitigation, arid land agro-forestry, and sand dune stabilization (estd. 1959) |
+| **Indira Gandhi Rashtriya Manav Sangrahalaya** | **Bhopal, Madhya Pradesh** | Ministry of Culture | **National Museum of Mankind**; living open-air ethnic exhibitions of Indian tribal architecture and habitats |
+| **Anthropological Survey of India (AnSI)** | **Kolkata, West Bengal** | Ministry of Culture | Apex anthropometric and sociocultural research organization on Indian populations and tribes (estd. 1945) |
+| **National Institute of Disaster Management (NIDM)** | **New Delhi** | Ministry of Home Affairs | Apex training institute for disaster mitigation and disaster management plans |
+| **Forest Survey of India (FSI)** | **Dehradun, Uttarakhand** | MoEFCC | Biennial assessment of India's forest cover; publishes the India State of Forest Report (ISFR) |
+| **Central Soil and Water Conservation Research (IISWC)** | **Dehradun, Uttarakhand** | ICAR | Watershed management, soil erosion control, and ravine reclamation research |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Tharu Tribe** | **Bhotia Tribe** | Inhabit the **Tarai lowlands** (UP/Uttarakhand); celebrate **Diwali as a day of mourning** (*शोक पर्व*) vs Inhabit the **High Himalayas**; practice **seasonal transhumance** (*ऋतु प्रवास*) | थारू (तराई) / भोटिया (उच्च हिमालय) |
+| **Jaunsari Tribe** | **Toda Tribe** | Polyandrous tribe inhabiting **Dehradun / Garhwal hills (Uttarakhand)** vs Polyandrous pastoral buffalo-rearing tribe inhabiting the **Nilgiri Hills (Tamil Nadu)** | जौनसारी (उत्तराखंड) / टोडा (नीलगिरि) |
+| **Negrito Tribes of A&N** | **Mongoloid Tribes of A&N** | **Great Andamanese, Onge, Jarawa, Sentinelese** (inhabit Andaman Islands) vs **Shompen and Nicobarese** (inhabit Nicobar Islands) | अंडमानी नीग्रिटो / निकोबारी मंगोलॉयड |
+| **Largest ST by Population** | **Second Largest ST** | **Bhil** is the largest tribal group in India (~37.7% of total STs) vs **Gond** is the second-largest tribal group in India (~35.6% of STs) | भील (प्रथम) / गोंड (द्वितीय) |
+| **Survey of India (SoI)** | **Forest Survey of India (FSI)** | Apex national mapping agency under DST located in **Dehradun** (estd. **1767**) vs Forest cover assessing agency under MoEFCC located in **Dehradun** (estd. **1981**) | भारतीय सर्वेक्षण विभाग / भारतीय वन सर्वेक्षण |
+| **IIRS (Dehradun)** | **NRSC (Hyderabad)** | Indian Institute of **Remote Sensing** (training/academic campus in Dehradun) vs National **Remote Sensing Centre** (satellite data downlink & processing hub in Hyderabad) | आईआईआरएस (देहरादून) / एनआरएससी (हैदराबाद) |
+| **States with NO STs** | **States with NO SCs** | **Punjab, Haryana, Delhi, Chandigarh, Puducherry** have NO Scheduled Tribes vs **Nagaland, Mizoram, Lakshadweep, Andaman & Nicobar** have NO Scheduled Castes | शून्य जनजाति राज्य / शून्य अनुसूचित जाति राज्य |
+| **Sarhul Festival** | **Bhagoria Festival** | Spring festival celebrated with blossoming Sal trees by **Munda and Oraon** (Jharkhand) vs Traditional post-harvest holi fair celebrated by **Bhil and Bhilala** (Madhya Pradesh) | सरहुल (झारखंड) / भगोरिया (मप्र) |
 
-| Year | Fact | Why it matters |
-|------|------|----------------|
-| **15 Nov** | **Janjatiya Gaurav Diwas** — Birsa Munda (मुंडा) birth anniversary | Tribal (आदिवासी) identity day |
-| **2023** | **PM-JANMAN** — PVTG mission (housing, health, education, connectivity) | Living PVTG scheme |
-| **1875–2025** | **IMD** 150 years; headquarters still **New Delhi** | Institute anniversary |
-| **Jun 2025** | **Adi Karmayogi** launched by **Ministry of Tribal Affairs** | Ministry trap vs Social Justice / AYUSH |
-| Static | Uttar Pradesh (उत्तर प्रदेश) ST list is still the **15-entry** notification set, many of them district-limited | Match traps |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. States with NO Scheduled Tribes (STs): **P-H-D-C-P**
+- **P**unjab
+- **H**aryana
+- **D**elhi
+- **C**handigarh
+- **P**uducherry
+- *(Mnemonic: **P**rofessors **H**ave **D**one **C**omplete **P**reparation)*
 
-### Confused pairs
+### 2. Andaman Tribes Racial Dichotomy:
+- **Andaman Islands** = **NEGRITO** (*Jarawa, Sentinelese, Onge, Great Andamanese*)
+- **Nicobar Islands** = **MONGOLOID** (*Shompen, Nicobarese*)
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Khasi | **Meghalaya** | Arunachal | मेघालय |
-| Rengma | **Nagaland** | Andaman | नागालैंड |
-| Kuki | **North-East** | UP | पूर्वोत्तर |
-| Yanadi | **Andhra Pradesh** | Rajasthan | आंध्र |
-| Toda / Paliyan | **Tamil Nadu** | Nagaland | तमिलनाडु |
-| Birhor | **Jharkhand** | Islands / TN | झारखंड |
-| Keria/Kharia | **Odisha** (also JH) | Random west | ओडिशा |
-| Masai | **East Africa** | West Africa | पूर्वी अफ्रीका |
-| Khirghiz | **Central Asia** | Sudan | मध्य एशिया |
-| Koryak | **NE Siberia** | Alaska | साइबेरिया |
-| Semang | **Malaysia** | Indonesia | सेमांग |
-| Maasai | **East Africa** | West Africa / Zambia | मसाई |
-| Bantu | E / C / S Africa | Sahara | बांटू |
-| Transhumance | Seasonal herd move | Permanent emigration | ट्रांसह्यूमेंस |
-| Tharu | **Terai** | Sonbhadra only | तराई |
-| Agariya | Iron smelting | Farming-only tag | लोहा गलाना |
-| Saharya | **Lalitpur** | Terai | ललितपुर |
-| NDRI | **Karnal** | Lucknow / Izatnagar | करनाल |
-| IVRI | **Izatnagar (Bareilly)** | Karnal | इज्जतनगर |
-| FRI | **Dehradun** | Delhi / Lucknow | देहरादून |
-| NDRI vs NDDB | Karnal **lab** vs Anand **co-op board** | Same body | एनडीआरआई ≠ एनडीडीबी |
-| PVTG count | **75** groups | 95 | 75 पीवीटीजी |
-| Fifth vs Sixth Schedule | Fifth = many Scheduled Areas; Sixth = **four** NE states’ councils | Swap | पाँचवीं ≠ छठी |
+### 3. Dehradun Institutional Hub Quartet:
+- **S**urvey of India (1767 — oldest)
+- **F**orest Survey of India (ISFR reports)
+- **I**IRS (Indian Institute of Remote Sensing)
+- **W**adia Institute of Himalayan Geology
 
+### 4. Cultural Quirks of High-Yield Tribes:
+- **Diwali = Mourning Festival** → **Tharu** (UP & UK Tarai)
+- **Fraternal Polyandry** → **Jaunsari** (UK) & **Toda** (Nilgiris)
+- **Transhumance (*Ritu Pravas*)** → **Bhotia** (UK) & **Gaddi / Gujjar** (HP/J&K)
+- **Terrace Paddy-cum-Fish Farming** → **Apatani** (Arunachal Pradesh)
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -494,4 +584,3 @@ D. Masai — West Africa
 **Logic:** Bushman–Kalahari, Pygmy–Congo, Masai–East Africa are the other correct pairs; options A/B/D swap them.
 
 </details>
-

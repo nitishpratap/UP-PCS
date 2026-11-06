@@ -7,9 +7,20 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 29 — Indian Environmental Movements</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -20,27 +31,72 @@ hide:
 5. **Appiko (1983)** in **Karnataka (Sirsi)** was led by **Panduranga Hegde**. It is the southern tree-embrace movement. Appiko is **Karnataka only** — not Uttarakhand, UP, or Kerala.
 6. **Narmada Bachao Andolan (from 1985)** spans **Madhya Pradesh, Gujarat, and Maharashtra**, with **Medha Patkar** (मेधा पाटकर) and **Baba Amte** as leader facts. It is anti-large-dam displacement politics.
 7. **Save Western Ghats (from about 2011)** is multi-state ecology (पारिस्थितिकी) politics around the **Gadgil** and **Kasturirangan** reports, mining, and ESZ questions.
-8. **Maiti Movement** (मैती आंदोलन) (Uttarakhand; pioneered by **Kalyan Singh Rawat**, mid-1990s) asks newly married couples to plant a sapling at the bride’s parental home — separate from Chipko.
-9. Assertion (A): Chipko began at Reni in then Uttar Pradesh (now Uttarakhand).
-10. Reason (R): Appiko and Silent Valley are UP movements.
-11. Assertion (A): “NBA” as Narmada Bachao Andolan is not the National Biodiversity Authority.
-12. Reason (R): Same letters can mean different bodies.
-13. Assertion (A): Tree-hugging method travelled from Chipko north to Appiko south.
-14. Reason (R): Same method family, different states and years.
-15. Assertion (A): Gadgil is often read as stronger ecological protection; Kasturirangan as later recalibration.
-16. Reason (R): Both sit inside Save Western Ghats politics.
-17. Assertion (A): Match movement → year → state → leader before answering “which state” stems.
-18. Reason (R): State alone often decides the key.
-19. Assertion (A): Khejarli martyrdom is Rajasthan Bishnoi memory.
-20. Reason (R): It is Uttarakhand Chipko’s founding event.
+8. Method families: Chipko, Appiko, and Bishnoi = forest/tree protection. Silent Valley and Narmada Bachao = anti-dam. Save Western Ghats = report/policy ecology protests.
+9. Chipko ≠ Appiko. Chipko is Uttarakhand; Appiko is Karnataka.
+10. Bishnoi **1730** ≠ Chipko **1973**. Century trap matters.
+11. “NBA” as Narmada Bachao Andolan is **not** the National Biodiversity Authority. Same letters, different bodies.
+12. Silent Valley is Kerala rainforest–dam (दाम -) conflict, not a Western Ghats mining-only slogan.
+13. Jungle Bachao is Jharkhand Singhbhum tribal forest rights — not Chipko’s Garhwal (गढ़वाल) story.
+14. Narmada Bachao is multi-state Narmada valley politics — not a single-state Kerala story.
+15. Save Western Ghats leans on expert committee reports; Chipko leans on village tree hugging.
+16. UP link: Chipko’s Reni lay in erstwhile UP until Uttarakhand statehood (**2000**). Appiko and Silent Valley are **not** UP movements.
+17. Gaura Devi is a Chipko village leadership fact; Panduranga Hegde is Appiko; Medha Patkar is Narmada.
+18. Khejarli martyrdom is Rajasthan Bishnoi memory — not Uttarakhand Chipko.
+19. Anti-dam movements still differ: Silent Valley saved a Kerala valley rainforest project path; Narmada contested a large multi-state dam-displacement model.
+20. Gadgil report is often read as stronger ecological protection; Kasturirangan as a later recalibration — both sit inside Save Western Ghats politics.
+21. Tree-hugging method travelled from Chipko north to Appiko south — same method family, different states and years.
+22. Match movement → year → state → leader before answering “which state” stems; state alone often decides the key.
+23. **Maiti Movement** (मैती आंदोलन) (Uttarakhand; pioneered by **Kalyan Singh Rawat**, mid-1990s) asks newly married couples to plant a sapling at the bride’s parental home — separate from Chipko.
+24. Assertion (A): Chipko began at Reni in then Uttar Pradesh (now Uttarakhand).
+25. Reason (R): Appiko and Silent Valley are UP movements.
+26. Assertion (A): “NBA” as Narmada Bachao Andolan is not the National Biodiversity Authority.
+27. Reason (R): Same letters can mean different bodies.
+28. Assertion (A): Tree-hugging method travelled from Chipko north to Appiko south.
+29. Reason (R): Same method family, different states and years.
+30. Assertion (A): Gadgil is often read as stronger ecological protection; Kasturirangan as later recalibration.
+31. Reason (R): Both sit inside Save Western Ghats politics.
+32. Assertion (A): Match movement → year → state → leader before answering “which state” stems.
+33. Reason (R): State alone often decides the key.
+34. Assertion (A): Khejarli martyrdom is Rajasthan Bishnoi memory.
+35. Reason (R): It is Uttarakhand Chipko’s founding event.
 
+## ⏱️ Timeline / Chronology
+
+### Chronological Sequence of Indian Environmental Movements
+
+```
+1730 ──► Bishnoi Movement (Khejarli, Rajasthan; Amrita Devi sacrifice protecting sacred Khejri trees)
+1973 ──► Chipko Movement (Reni, Chamoli, Uttarakhand; Sunderlal Bahuguna, Chandi Prasad Bhatt, Gaura Devi)
+1978 ──► Silent Valley Movement (Palakkad, Kerala; saved tropical evergreen rainforest from hydroelectric dam)
+1982 ──► Jungle Bachao Andolan (Singhbhum, Bihar/Jharkhand; tribal protest against replacing Sal with Teak)
+1983 ──► Appiko Movement (Uttara Kannada, Karnataka; Pandurang Hegde; hugging trees in Western Ghats)
+1985 ──► Narmada Bachao Andolan (Gujarat/MP/Maharashtra; Medha Patkar, Baba Amte; protesting Sardar Sarovar)
+1990 ──► Tehri Dam Anti-Dam Movement (Uttarakhand; Sunderlal Bahuguna hunger strikes against high seismic risk)
+```
+
+## 📊 Quick Reference Grid
+
+### Movement ↔ place / year
+
+| Item | Lock |
+|------|------|
+| Bishnoi / Khejarli | **1730** Rajasthan; Amrita Devi; 363 martyrs |
+| Chipko | **1973** Reni, Uttarakhand; Bahuguna / Bhatt / Gaura Devi |
+| Silent Valley | 1970s **Kerala** rainforest–dam; KSSP |
+| Jungle Bachao | **1982** Singhbhum, Jharkhand |
+| Appiko | **1983** Sirsi, **Karnataka**; Panduranga Hegde |
+| Narmada Bachao | From **1985**; MP–GJ–MH; Medha Patkar / Baba Amte |
+| Chipko ≠ Appiko | UK / Karnataka |
+| NBA letters trap | Narmada Bachao ≠ National Biodiversity Authority |
 
 ---
 
+![Cartographic Spatial Map of Historic Indian Environmental Movements](images/env_ch29_01_indian_environmental_movements_map.png)
+
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Bishnoi Movement (1730)** | **Chipko Movement (1973)** | Amrita Devi / Khejri tree sacrifice in Khejarli, Rajasthan vs Gaura Devi / Sunderlal Bahuguna anti-commercial logging in Chamoli (Uttarakhand) | बिश्नोई आंदोलन (1730) / चिपको आंदोलन (1973) |
 | **Chipko Movement (1973)** | **Appiko Movement (1983)** | Himalayan forest conservation in Chamoli (Bahuguna/Chandi Prasad Bhatt) vs Western Ghats forest hugging in Uttara Kannada, Karnataka (Pandurang Hegde) | चिपको (उत्तराखंड) / अप्पिको (कर्नाटक) |
 | **Silent Valley Movement (1970s)** | **Narmada Bachao Andolan (1985+)** | Kunthipuzha river anti-hydro dam protecting lion-tailed macaque in Kerala vs anti-large dam displacement on Narmada (Medha Patkar, Baba Amte) | साइलेंट वैली (केरल) / नर्मदा बचाओ आंदोलन |
@@ -49,10 +105,20 @@ hide:
 | **Tehri Dam Protest** | **Narmada Bachao Andolan** | High-seismic zone anti-dam fast by Sunderlal Bahuguna on Bhagirathi vs multi-state anti-submergence movement across MP/Gujarat/Maharashtra | टिहरी बांध विरोध / नर्मदा बचाओ |
 | **Gadgil Commission (2011)** | **Kasturirangan Committee (2013)** | WGEEP designated entire Western Ghats as ecologically sensitive (ESZ 1, 2, 3) vs HLWG recommending only 37% area as Eco-Sensitive Area (ESA) | गाडगिल समिति / कस्तूरीरंगन समिति |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

@@ -7,9 +7,16 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 5 — Soils</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2026** | **PM-PRANAM Scheme** (*Programme for Restoration, Awareness, Nourishment and Amelioration of Mother Earth*): Incentivizes States/UTs to promote balanced use of chemical fertilizers and alternative bio-fertilizers | Nutrient management policy & fertilizer subsidy reforms |
+| **2024–2025** | **Soil Health Card (SHC) 12 Tested Parameters**: 3 Macro-nutrients (N, P, K); 3 Secondary-nutrients (S, Ca, Mg / tested as S); 5 Micro-nutrients (Zn, Fe, Cu, Mn, Bo); and 3 Physical/Chemical parameters (pH, EC, Organic Carbon) | Exact 12-parameter composition tested frequently in Prelims |
+| **2023–2025** | **Land Degradation Neutrality (LDN)**: India committed to restoring **26 million hectares** of degraded land by 2030 under the UNCCD COP14 New Delhi Declaration | International environmental conventions & desertification targets |
+| **Ongoing** | **World Soil Day (5 December)** observed annually by UN FAO; promotes soil organic carbon sequestration and soil erosion mitigation | International environmental observance dates |
+
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -64,71 +71,126 @@ hide:
 
 
 ---
+49. **USDA Soil Taxonomy Dominance**: According to the United States Department of Agriculture (USDA) Soil Taxonomy, **Inceptisols (~39.4%)** occupy the largest area in India, followed by **Entisols (~28.1%)**, **Alfisols (~13.6%)**, and **Vertisols (~8.5%)**.
+50. **Central Arid Zone Research Institute (CAZRI)**: Located at **Jodhpur, Rajasthan** (established 1959 under ICAR); apex national institute conducting research on sand dune stabilization, shelterbelts, and soil moisture conservation in arid tracts.
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INDIAN SOIL CLASSIFICATION & CONSERVATION MILESTONES
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1953] ───> CENTRAL SOIL CONSERVATION BOARD ESTABLISHED:
+  │           Formulated national soil conservation programs for river valley catchments and ravines.
+  │
+  ▼
+  [1956] ───> ALL INDIA SOIL AND LAND USE SURVEY (AISLUS) ORGANIZATION:
+  │           Launched reconnaissance and detailed soil surveys across Indian river basins.
+  │
+  ▼
+  [1959] ───> CAZRI ESTABLISHED AT JODHPUR:
+  │           Pioneered sand-dune stabilization and shelter-belt afforestation in the Thar desert.
+  │
+  ▼
+  [1969] ───> ICAR ADOPTS 8 MAJOR SOIL GROUPS CLASSIFICATION:
+  │           Standardized Indian soils into Alluvial, Black, Red/Yellow, Laterite, Arid, Saline, Peaty, Forest.
+  │
+  ▼
+  [1988] ───> NATIONAL WATERSHED DEVELOPMENT PROJECT FOR RAINFED AREAS (NWDPRA):
+  │           In-situ soil moisture conservation and ridge-to-valley treatment approach.
+  │
+  ▼
+  [2015] ───> LAUNCH OF SOIL HEALTH CARD SCHEME (Suratgarh, Rajasthan):
+  │           Motto: "Swasth Dhara, Khet Hara"; issued soil health report cards assessing 12 soil parameters.
+  │
+  ▼
+  [2019] ───> UNCCD COP14 HELD IN NEW DELHI:
+  │           India raised its voluntary Land Degradation Neutrality (LDN) restoration target from 21 Mha to 26 Mha by 2030.
+  │
+  ▼
+  [2023] ───> PM-PRANAM LAUNCHED:
+  │           Fiscal incentives to curb excessive synthetic nitrogen fertilizer application.
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. ICAR 8 Major Soil Groups of India Master Table
+
+| Soil Group | Area Share (%) | Parent Geological Rock | Major States / Regions | Rich In (Nutrients) | Deficient In (Nutrients) | Ideal Crops | Key Prelims Distinctions |
+|---|---|---|---|---|---|---|---|
+| **Alluvial Soil (जलोढ़)** | **~40.0%** (Largest) | Himalayan river silt & transport deposition | Northern Plains (UP, Bihar, Punjab, Haryana), Coastal Deltas | **Potash (K)** and **Lime (Ca)** | **Nitrogen (N)**, **Phosphorus (P)**, and **Humus** | Wheat, Rice, Sugarcane, Jute, Oilseeds | Immature azonal soil; divided into older upland **Bhangar** (with kankar nodule beds) and newer floodplain **Khadar** (fertile silt) |
+| **Red and Yellow Soil (लाल-पीली)** | **~18.5%** (Second) | Archean crystalline & metamorphic rocks (granite, gneiss) | Tamil Nadu, Karnataka, Odisha, Chotanagpur (JH), Bundelkhand | Iron and Potash | **Nitrogen**, **Phosphorus**, and **Humus** | Millets, Pulses, Tobacco, Oilseeds, Groundnut | Red color due to wide diffusion of **Ferric Oxide (Fe2O3)**; turns yellow when hydrated |
+| **Black Soil (काली / Regur)** | **~15.0%** (Third) | Cretaceous basalt lava flows (**Deccan Traps**) | Maharashtra, MP, Gujarat, northern Karnataka, AP | **Lime**, **Iron**, **Magnesia**, **Alumina**, Potash | **Nitrogen**, **Phosphorus**, and **Organic matter** | **Cotton** ("Black Cotton Soil"), Sugarcane, Soybean, Wheat | **High moisture retentivity**; clayey texture; swells and becomes sticky when wet; develops deep cracks on drying (**self-ploughing property**) |
+| **Laterite Soil (लैटेराइट)** | **~3.7%** | Crystalline rocks under tropical alternate wet & dry seasons | Western Ghats (Kerala, Karnataka), Meghalaya Plateau, Rajmahal Hills | **Iron oxide** and **Aluminium compounds** | **Nitrogen**, **Potash**, **Potassium**, **Lime**, **Silica** | **Cashew nut**, Tea, Coffee, Rubber, Tapioca | Formed by intense tropical **leaching (*Nikhshalan*)** of silica and bases; acidic (low pH); hardens like brick upon exposure |
+| **Arid / Desert Soil (मरुस्थलीय)** | **~4.4%** | Aeolian sand accumulation under arid climate | Western Rajasthan, southern Punjab, northern Gujarat | **Soluble salts** and **Phosphate** | **Nitrogen**, **Humus**, and **Moisture** | Bajra, Jowar, Pulses, Guar (with irrigation) | Sandy to gravelly texture; high evaporation; high calcium kankar layer in subsoil impedes drainage |
+| **Saline and Alkaline Soil (लवणीय-क्षारीय)** | ~1.3% | Poor drainage & excessive canal seepage (*Reh, Kallar, Usar*) | SW Punjab, Haryana, Western UP, Rann of Kutch | **Sodium**, **Potassium**, **Magnesium salts** | Nitrogen and Lime | Unfit for agriculture without chemical reclamation | Formed by capillary action drawing dissolved salts to surface; reclaimed by applying **Gypsum** and leaching with water |
+| **Peaty and Marshy Soil (पीट-दलदली)** | ~2.1% | Waterlogged conditions with heavy organic accumulation | Sundarbans (WB), northern Bihar, Kottayam & Alappuzha (**Kari**, Kerala) | **Organic matter / Humus (>40–50%)** | Potash and Phosphate | Paddy, Jute | Black, heavy, highly acidic; submerged during rainy season |
+| **Forest and Mountain Soil (पर्वतीय)** | ~8.6% | Forest cover in Himalayan and hilly regions | J&K, Ladakh, HP, Uttarakhand, Sikkim, Arunachal | **Humus (in upper layer)** | Potash, Phosphorus, Lime | Apple, Pear, Peach, Tea, Spices | Immature soil with shallow profile wash; acidic in coniferous forest tracts |
+
+### 2. USDA Soil Taxonomy Orders Present in India
+
+| Soil Order (USDA) | Indian Soil Analogue | Approximate Coverage in India (%) | Diagnostic Horizon & Characteristics |
+|---|---|---|---|
+| **Inceptisols** | Weakly developed alluvium / brown soils | **~39.4% (Highest in India)** | Soils with incipient horizon development; youthful soils of plains and deltas |
+| **Entisols** | Fresh alluvial deposits (Khadar) / sands | **~28.1% (Second Highest)** | Mineral soils lacking distinct pedogenic horizons; newly deposited sediments |
+| **Alfisols** | Red and Yellow soils of peninsular plateau | **~13.6% (Third Highest)** | Moderately leached soils with an illuvial clay horizon; relatively high base saturation |
+| **Vertisols** | **Black Cotton Soils (Regur)** | **~8.5%** | Swelling and shrinking dark clay soils (>30% expanding clay); deep drying cracks |
+| **Aridisols** | Arid and Desert soils of Rajasthan | **~4.3%** | Soils of dry regions; ochric epipedon with saline/calcareous subsoil accumulation |
+| **Ultisols** | Highly weathered lateritic / red soils | ~2.5% | Strongly leached acid forest soils with illuvial clay; low base saturation (<35%) |
+| **Mollisols** | High-humus grassland / alpine soils | ~0.4% | Dark-colored, organic-rich surface epipedon with high base saturation |
+
+### 3. Soil Degradation & Reclamation Methods
+
+| Problem / Condition | Cause / Mechanism | Chemical / Biological Remedy | Key Scientific Detail |
+|---|---|---|---|
+| **Alkaline Soil (Usar / Reh)** | Excessive sodium carbonate/bicarbonate; high pH (>8.5); impervious hardpan | Application of **Gypsum (CaSO4·2H2O)** or **Iron Pyrites (FeS2)** | Calcium replaces exchangeable sodium on clay complex: $Na	ext{-Clay} + CaSO_4 
+ightarrow Ca	ext{-Clay} + Na_2SO_4$ (leached away) |
+| **Acidic Soil** | Intense rainfall leaching bases (Ca, Mg, K); low pH (<5.5); common in Laterites | Application of **Agricultural Lime (CaCO3)** or **Dolomite** | Neutralizes excess $H^+$ and $Al^{3+}$ ions in soil solution; restores microbial activity |
+| **Waterlogging / Salinity** | Over-irrigation in canal commands; capillary rise of saline groundwater | Sub-surface tile drainage, green manuring (**Dhaincha / *Sesbania aculeata***) | Lowers water table and washes accumulated soluble salts below root zone |
+| **Gully Erosion (Badlands)** | Severe concentrated runoff carving deep ravines (*Khad*) in unconsolidated soil | Check dams, gully plugging, bench terracing, afforestation | Prevalent in **Chambal Basin** (Morena, Bhind, MP; Agra, Etawah, UP) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Bhangar** | **Khadar** | **Older alluvium** upland above flood levels containing calcareous kankar nodules vs **Newer alluvium** deposited annually on floodplains; more fine-grained and fertile | भांगर (पुरानी जलोढ़) / खादर (नई जलोढ़) |
+| **Bhabar** | **Terai** | Dry porous belt of pebbles and boulders at Shiwalik foot where **streams disappear underground** vs Marshy, ill-drained jungle belt south of Bhabar where **streams re-emerge** | भाबर / तराई |
+| **Black Soil (Regur)** | **Laterite Soil** | Formed by weathering of **basalt lava**; highly clayey, moisture-retentive, rich in lime/potash vs Formed by intense **tropical leaching**; acidic, coarse, rich in iron/aluminium | काली (रेगुर) / लैटेराइट मिट्टी |
+| **Reclaiming Alkaline Soil** | **Reclaiming Acidic Soil** | Add **Gypsum (CaSO4·2H2O)** or iron pyrites to displace sodium vs Add **Agricultural Lime (CaCO3 / Slaked Lime)** to neutralize acidity | क्षारीय भूमि (जिप्सम) / अम्लीय भूमि (चूना) |
+| **Sheet Erosion** | **Gully Erosion** | Uniform removal of topsoil layer by runoff over large gentle slopes (**"silent death of soil"**) vs Runoff carving deep, visible trenches and ravines (*Khad*) on steep slopes | परत अपरदन / अवनलिका अपरदन |
+| **Inceptisols** | **Vertisols** | Most widespread soil order in India (**~39%**, alluvium) vs Swelling clay soils with deep cracks (**~8.5%**, Black/Regur) | इनसेप्टीसोल / वर्टीसोल |
+| **Red Soil Color** | **Black Soil Color** | Red color caused by diffusion of **Ferric Oxide (Fe2O3)** in crystalline rocks vs Black color caused by titaniferous magnetite, clay-humus complex | लाल मिट्टी (आयरन ऑक्साइड) / काली मिट्टी |
+| **Self-Ploughing Soil** | **Leached Soil** | **Black Cotton Soil** (swells when wet, deep shrinkage cracks when dry) vs **Laterite Soil** (silica leached away by heavy rains) | स्वतः जुताई वाली मिट्टी / निक्षालित मिट्टी |
+| **Usar / Reh** | **Kari** | Saline and alkaline soil of northern plains (UP/Punjab) vs Dark peaty organic wetland soil of coastal Kerala (Alappuzha) | ऊसर-रेह / करी मिट्टी |
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **19 Feb 2015** | Soil Health Card launched at **Suratgarh, Rajasthan**; slogan **Swasth Dharaa, Khet Haraa**; 2015 = International Year of Soils | Scheme–place–slogan | PIB |
-| **2022–23 onward** | SHC merged into RKVY as **Soil Health and Fertility** | New name vs old scheme | PIB / DA&FW |
-| **Jul 2025** | **>25 crore** Soil Health Cards distributed; card reports **12 parameters** (N,P,K,S, Zn,Fe,Cu,Mn,B, pH, EC, OC) | Numbers / parameters | PIB Aug 2025 |
-| Ongoing | **WDC–PMKSY 2.0** = watershed soil–water conservation (not a soil-type topic) | Scheme vs conservation method | Jal Shakti (शक्ति) / DA&FW |
-| Static | World Soil Day (विश्व मृदा दिवस) **5 December** (UN;) | Date trap vs 5 June | UN / PYQ |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. USDA Soil Orders Coverage in India: **I-E-A-V-A**
+- **I**nceptisols (~39%) → Highest (Alluvium)
+- **E**ntisols (~28%) → Second (Fresh Alluvium)
+- **A**lfisols (~14%) → Third (Red soils)
+- **V**ertisols (~8.5%) → Fourth (Black Cotton soils)
+- **A**ridisols (~4.3%) → Fifth (Desert soils)
+- *(Mnemonic: **I**ndian **E**arth **A**lways **V**alues **A**griculture)*
 
-### Confused pairs
+### 2. Soil Chemical Reclamation Rules:
+- **Alkaline Soil → Apply Gypsum** (Mnemonic: **A-G** — *Alkaline Gypsum*)
+- **Acidic Soil → Apply Lime** (Mnemonic: **A-L** — *Acid Lime*)
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Edaphic vs climatic | Edaphic = **soil** | Call climate “edaphic” | मृदीय = मिट्टी |
-| Urvara vs Usara | Ancient: Urvara = fertile; Usara = sterile | Mix with modern usar chemistry | उर्वरा / ऊसरा |
-| Residual vs transported | Residual / **sedentary** = on rock (regur/red); transported / **azonal** = alluvium | Call alluvium residual | अवशिष्ट / वाहित |
-| Red vs alluvial area | Alluvial is **largest**; red is widespread on the peninsula | Wrong claim: “red is the largest group” | जलोढ़ सबसे बड़ा |
-| NCERT P vs other notes on phosphoric acid | Class 11: alluvium **poor in phosphorus** | Do not copy “phosphoric acid adequate” over the NCERT poor-P fact | फॉस्फोरस कम (NCERT) |
-| Pedocal vs laterite | Pedocal = arid **lime-accumulating**; laterite = wet **leached Fe/Al** | Mix the two climate products | पेडोकल = चूना; लैटेराइट = निक्षालित |
-| Himalaya north vs south slope | Soil on **gentler north-facing** forested slopes; south face often too steep | Soil equally on both Himalayan faces | उत्तर ढाल मिट्टी; दक्षिण तेज |
-| Kari vs Kuttanad vs regur | **Kari** = Kerala peaty (Kottayam–Alappuzha) | Call kari Deccan black | कारी = पीट |
-| Eluviation vs illuviation | E = wash **out** of A/E; I = deposit **in B** | Swap | ऊपरी हानि / निचला जमाव |
-| Khadar vs Bangar | Khadar = new/fine/fertile; Bangar = old/**more kankar** | Khadar has more kankar | खादर नया; बांगर पुराना |
-| Black vs Himalaya | Regur = **Deccan Trap** | Black in Himalaya | काली = दक्कन |
-| Black vs peaty black | Regur = basalt clay; peaty = organic marsh | Kerala marsh = cotton soil | पीट ≠ रेगुर |
-| Red vs laterite | Red = Fe colour on crystalline rock; laterite = hot-wet **leached Fe/Al** | Every red = laterite | लाल ≠ लैटेराइट |
-| Laterite Fe/Al | **Rich** in Fe/Al oxides | “Poor in Fe/Al” | लोहा–एल्युमीनियम प्रचुर |
-| Cotton vs cashew | Cotton = black; cashew/**tapioca**/tea/coffee = laterite | Cotton on laterite as default | कपास = काली |
-| Gypsum vs lime | **Gypsum** = alkali/sodic/usar; **lime** = **acid** only | Lime for usar (Usar BEO trap) | जिप्सम क्षारीय; चूना अम्लीय |
-| Splash vs sheet | **Splash** = raindrop first stage; sheet = thin wash | Start ladder at sheet only | स्प्लैश → शीट |
-| Tea vs regur | Tea prefers **slightly acidic**, well-drained | Tea = black cotton default | चाय = अम्लीय |
-| Zinc vs Fe micros | Among Cu/Fe/Mn/Zn, **Zn** is most often deficient in Indian soils | Iron as “most deficient” | जिंक कम |
-| Saline vs sodic | Saline = soluble salts; sodic = exchangeable Na + high pH | One remedy for both | लवणीय / क्षारीय |
-| Shelter belt vs check dam | Shelter belt = **wind**/dunes; check dam = **gully** | Swap agents | रक्षक पट्टी = हवा |
-| World Soil Day | **5 December** | 5 June (Environment Day) | मृदा दिवस = 5 दिसंबर |
-| Mitti Bachao | **Hoshangabad, MP** | Darbhanga / Thane / Mysore | मिट्टी बचाओ = होशंगाबाद |
-| Terra Roxa vs regur | Terra Roxa = **Brazil** coffee basaltic | Indian black soil | टेरा रोक्सा = ब्राज़ील |
-| Terra Rossa | Limestone / dolomite weathering (red) | Terra Roxa Brazil coffee | टेरा रोसा |
-| Chernozem vs Chestnut | Steppe humus-rich vs drier less humus | Swap | चेरनोज़ेम / चेस्टनट |
-| Capillary max | **Clay** (tiny pores) | Sand | केशिका |
-| Halophyte | **Saline** soil | Acid / cold soil | हैलोफाइट |
-| Bhabar vs Tarai | Bhabar = pebbles, streams **vanish**; Tarai = streams **re-emerge**, moist fertile | Bhabar = best rice soil | भाबर पत्थर; तराई फसल |
-| Mar vs Parua | Mar/Kabar = Bundelkhand **black**; Parua/Rakar = **red** | Swap colours | मार काली; परुआ लाल |
-| UP soil identity | ~90% **alluvial** | UP = black-soil state | UP = जलोढ़ |
-| Bangar kankar vs arid kankar | Bangar = old alluvium nodules; arid = **lower-horizon** Ca kankar | Same origin | बांगर / मरु कंकर |
-| Rann salt vs usar reh | Rann crust = SW monsoon salt deposit; canal usar = irrigation+poor drain | Same cause always | कच्छ = मानसून लवण |
-| Gypsum vs lime | **Gypsum** = alkali/sodic/usar; **lime** = **acid** only | Lime for usar (Usar BEO trap) | जिप्सम क्षारीय; चूना अम्लीय |
-| Sorghum vs clover erosion | **Sorghum (Jowar)** = max erosion; **clover** = min erosion | Sorghum protects soil | ज्वार अपरदन अधिकतम; तिपतिया न्यूनतम |
-| Saline leader vs Alkali leader | **Gujarat** = largest saline area; **UP** = largest alkali/sodic wasteland | Confuse saline and alkali state ranks | गुजरात लवण; UP ऊसर |
-| Sand gradient west to east | Sand content **decreases from west to east** in plains | Sand increases eastwards | बालू पश्चिम से पूर्व घटती है |
-| Particle diameter clay vs silt | Clay < **0.002 mm**; Silt = **0.002 to 0.06 mm** | Silt < clay | क्ले < 0.002 mm |
-| Seed modification vs fertility | Seed mod = **yield/pest resistance**, NOT soil fertility | Seed mod improves soil fertility | बीज सुधार ≠ मृदा उर्वरता |
-| Matasi vs Kanhar (CG) | Matasi = **red-yellow**, higher altitude, paddy; Kanhar = lower black clay | Swap | मटासी लाल-पीली; कन्हार काली |
-| Karewa vs alluvium | Karewa = **Kashmir lacustrine** (saffron) | Call it ordinary Gangetic alluvium | करेवा = कश्मीर |
+### 3. Soil Erosion Progression Spectrum: **S-S-R-G**
+- **S**plash Erosion (Raindrops shatter soil aggregates)
+- **S**heet Erosion (Uniform thin layer washed away unnoticed — *Silent Killer*)
+- **R**ill Erosion (Finger-like small rivulets appear)
+- **G**ully Erosion (Wide deep ravines formed — Chambal badlands)
+- *(Mnemonic: **S**mall **S**eeds **R**apidly **G**row)*
 
+### 4. Alluvial & Black Soil Nutrient Formula:
+- **Alluvial**: Potash YES, Lime YES | Nitrogen NO, Phosphorus NO, Humus NO
+- **Black (Regur)**: Lime YES, Iron YES, Magnesia YES, Potash YES | Nitrogen NO, Phosphorus NO, Organic matter NO
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

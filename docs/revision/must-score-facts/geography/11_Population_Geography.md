@@ -7,9 +7,15 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🗺️ Geography &bull; Target: 80% Mastery Gate Required</div>
-  <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 11 — Population (जनसंख्या) Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
-</div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2023–2025** | **UN World Population Prospects (WPP)**: India officially surpassed China as the **world's most populous country** with an estimated population exceeding **1.43 billion (143 crore)** | Demographics milestone & global demographic rankings |
+| **NFHS-5 (2019–2021)** | **Total Fertility Rate (TFR) Replacement**: India's TFR dropped below replacement level (2.1) to **2.0 children per woman** (Rural: 2.1, Urban: 1.6); only 5 states remain above replacement (Bihar 3.0, Meghalaya 2.9, UP 2.4, Jharkhand 2.3, Manipur 2.2) | National fertility transition data & state demographic traps |
+| **Census Milestones** | **First Synchronous Census of India (1881)** conducted under Viceroy Lord Ripon (W. C. Plowden, Census Commissioner); first modern census was 1872 under Lord Mayo | Historical census administration & pioneer milestones |
+| **Demographic Divide** | **Year of the Great Divide (1921)**: The only Census in Indian demographic history recording **negative population growth (-0.31%)** due to the 1918 influenza pandemic | Census history benchmark questions |
 
 ## 🎯 Consolidated Must-Score Facts
 
@@ -61,61 +67,116 @@ hide:
 
 
 ---
+46. **Year of the Great Divide (1921)**: In the 1911–1921 decade, India recorded a negative decadal population growth rate of **-0.31%** (population dropped by ~7.7 lakh) due to the Spanish Flu pandemic of 1918 and severe famines; 1921 marks the transition from stagnant to steady growth.
+47. **Child Sex Ratio (0–6 Years) 2011**: India's child sex ratio stood at **919 girls per 1,000 boys** (down from 927 in 2001); **Arunachal Pradesh (#1 highest, 972)** followed by Mizoram (970); **Haryana recorded the lowest (834)**.
+48. **Scheduled Caste (SC) Demographics 2011**: Scheduled Castes constitute **16.6% (20.14 crore)** of India's population; **Uttar Pradesh** holds the largest absolute SC population (~4.14 crore); **Punjab** has the highest percentage of SC population (31.9%).
+49. **States with NO Scheduled Castes**: There are NO Scheduled Castes notified in **Nagaland, Mizoram, Lakshadweep, and Andaman & Nicobar Islands**.
+50. **Urban Population 2011**: India's urban population was **377.1 million (31.16%)**; **Goa** is the most urbanized state by percentage (62.2%), followed by Mizoram (52.1%) and Tamil Nadu (48.4%); **Maharashtra** holds the largest absolute urban population (5.08 crore).
+
+## ⏱️ Timeline / Chronology
+
+```
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+               INDIAN CENSUS & DEMOGRAPHIC TRANSITION MILESTONES
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  [1872] ───> FIRST MODERN POPULATION CENSUS:
+  │           Conducted non-synchronously in different parts of British India under Viceroy Lord Mayo.
+  │
+  ▼
+  [1881] ───> FIRST COMPLETE SYNCHRONOUS CENSUS:
+  │           Conducted simultaneously across India under Lord Ripon; W. C. Plowden was Census Commissioner.
+  │
+  ▼
+  [1921] ───> "THE YEAR OF THE GREAT DIVIDE" (महाविभाजक वर्ष):
+  │           Only census year in history showing negative population growth (-0.31%);
+  │           high mortality from Spanish Flu pandemic (1918) and famines.
+  │
+  ▼
+  [1948] ───> CENSUS ACT, 1948 PASSED:
+  │           Enacted permanent statutory framework under Ministry of Home Affairs (RGCCI).
+  │
+  ▼
+  [1951] ───> FIRST CENSUS OF INDEPENDENT INDIA (1951 Census):
+  │           Total population recorded at 36.1 crore; high fertility with rapidly falling mortality.
+  │
+  ▼
+  [1961-1981] ERA OF POPULATION EXPLOSION (जनसंख्या विस्फोट):
+  │           Decadal growth exceeded 24.8% (1961–71 peak at 24.80%); death rates plunged due to modern medicine.
+  │
+  ▼
+  [2011] ───> 15TH NATIONAL CENSUS OF INDIA (7th post-independence):
+  │           Motto: "Our Census, Our Future"; population reached 121.08 crore; decadal growth fell to 17.7%.
+  │
+  ▼
+  [2023] ───> INDIA BECOMES WORLD'S #1 POPULOUS NATION:
+  │           Surpassed China with >1.43 billion population (UN WPP 2022/2023).
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Census 2011 All-India Core Indicators Master Table
+
+| Demographic Indicator | All-India Figure | Highest State / UT | Lowest State / UT | High-Yield Prelims Distinction |
+|---|---|---|---|---|
+| **Total Population** | **1,210,854,977 (121.08 Cr)** | **Uttar Pradesh** (19.98 Cr, 16.51%) | **Sikkim** (6.10 Lakh) | India has 17.5% of world population on 2.4% of land area |
+| **Decadal Growth (2001–11)** | **17.70%** (Rural 12.3%, Urban 31.8%) | **Meghalaya (27.9%)** / Dadra & Nagar Haveli (55.9%) | **Nagaland (-0.6% negative)** / Lakshadweep (6.3%) | Nagaland is the **only state with negative growth** in 2001–11 |
+| **Population Density** | **382 persons / km²** | **Bihar (1,106)** / Delhi (11,320) | **Arunachal Pradesh (17)** / A&N Islands (46) | Top states: Bihar (1,106) > West Bengal (1,028) > Kerala (860) > UP (829) |
+| **Overall Sex Ratio** | **943 females / 1,000 males** | **Kerala (1,084)** / Puducherry (1,037) | **Haryana (879)** / Daman & Diu (618) | Top states: Kerala (1,084) > Tamil Nadu (996) > Andhra Pradesh (993) |
+| **Child Sex Ratio (0–6 yrs)** | **919 girls / 1,000 boys** | **Arunachal Pradesh (972)** / A&N (968) | **Haryana (834)** / Chandigarh (880) | Down from 927 in 2001; lowest recorded child sex ratio since independence |
+| **Literacy Rate** | **73.0%** (Male 80.9%, Female 64.6%) | **Kerala (94.0%)** / Lakshadweep (91.8%) | **Bihar (61.8%)** / Dadra & Nagar Haveli (76.2%) | Top states: Kerala (94.0%) > Mizoram (91.3%) > Goa (88.7%) |
+| **Urban Population %** | **31.16%** (37.71 Crore) | **Goa (62.2%)** / Delhi (97.5%) | **Himachal Pradesh (10.0%)** / A&N (37.7%) | Lowest urban state = HP (10.0%) followed by Bihar (11.3%) and Assam (14.1%) |
+| **Scheduled Caste %** | **16.6%** (20.14 Crore) | **Punjab (31.9%)** / UP (highest absolute 4.14 Cr) | **Mizoram (0%) & Nagaland (0%)** | Zero SC population in Nagaland, Mizoram, Lakshadweep, A&N |
+| **Scheduled Tribe %** | **8.6%** (10.43 Crore) | **Mizoram (94.4%)** / MP (highest absolute 1.53 Cr) | **Punjab (0%) & Haryana (0%)** | Zero ST population in Punjab, Haryana, Delhi, Chandigarh, Puducherry |
+
+### 2. Demographic Transition Theory Stages (Notestein Model)
+
+| Stage | Birth Rate (BR) | Death Rate (DR) | Natural Growth Rate | Socio-Economic Characteristics | Historic / Modern Global Examples |
+|---|---|---|---|---|---|
+| **Stage 1: High Stationary** | High (~35–40‰) | High (~35–40‰) | Near zero / stable | Pre-industrial agrarian economy; epidemics, famines, primitive sanitation | All human societies before 1750; isolated tribal groups |
+| **Stage 2: Early Expanding** | Remains High | **Plummets sharply** | **Very High (Population Explosion)** | Sanitation, antibiotics, piped water; birth control not yet adopted | Western Europe in 19th c.; sub-Saharan Africa today |
+| **Stage 3: Late Expanding** | **Falls rapidly** | Low and stable | Moderate to Slowing Growth | Urbanization, industrialization, women education, family planning adoption | **India today (TFR ~2.0)**; Mexico, Brazil |
+| **Stage 4: Low Stationary** | Low (~10–12‰) | Low (~10–12‰) | Near zero / stable | Highly industrialized, urbanized affluent society; aging population | USA, Australia, China today |
+| **Stage 5: Declining** | Lower than DR | Rises slightly (aging) | **Negative Natural Decrease** | Death rate exceeds birth rate; severe demographic aging crisis | Japan, Germany, Italy, South Korea today |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair A | Pair B | Key Difference | Hindi Key |
+|---|---|---|---|
+| **Highest Population Density** | **Highest Population Growth** | **Bihar (1,106/km²)** has highest density in India vs **Meghalaya (27.9%)** had highest decadal population growth rate (2001–11) | सर्वाधिक जनघनत्व (बिहार) / सर्वाधिक दशकीय वृद्धि (मेघालय) |
+| **Highest Sex Ratio State** | **Highest Sex Ratio UT** | **Kerala (1,084)** is the highest among States vs **Puducherry (1,037)** is the highest among Union Territories | लिंगानुपात: राज्य (केरल) / यूटी (पुडुचेरी) |
+| **Lowest Sex Ratio State** | **Lowest Sex Ratio UT** | **Haryana (879)** is the lowest among States vs **Daman & Diu (618)** is the lowest among Union Territories | न्यूनतम लिंगानुपात: राज्य (हरियाणा) / यूटी (दमन और दीव) |
+| **Highest Urban % State** | **Highest Urban Population State** | **Goa (62.2%)** has the highest percentage of urban population vs **Maharashtra (5.08 crore)** has the largest absolute urban population | सर्वाधिक नगरीकरण प्रतिशत (गोवा) / जनसंख्या (महाराष्ट्र) |
+| **Lowest Urban % State** | **Lowest Population Density State** | **Himachal Pradesh (10.0% urban)** is the least urbanized state vs **Arunachal Pradesh (17 persons/km²)** has the lowest population density | न्यूनतम नगरीकरण (हिप्र) / न्यूनतम घनत्व (अरुणाचल) |
+| **Nagaland Growth 2001–11** | **All-India Growth** | Recorded **negative growth (-0.6%)** due to census correction and migration vs All-India recorded **+17.70%** decadal growth | नागालैंड (-0.6% ऋणात्मक) / अखिल भारतीय (17.7%) |
+| **Year of Great Divide (1921)** | **First Synchronous Census (1881)** | Only census showing **negative growth (-0.31%)** due to 1918 flu epidemic vs First nationwide simultaneous synchronous census under **Lord Ripon** | महाविभाजक वर्ष (1921) / प्रथम समकालिक जनगणना (1881) |
+| **Highest SC Population** | **Highest SC Percentage** | **Uttar Pradesh (~4.14 crore)** has the highest absolute SC count vs **Punjab (31.9%)** has the highest proportion of SCs in its population | सर्वाधिक अनु. जाति जनसंख्या (उप्र) / प्रतिशत (पंजाब) |
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **Census 2011** | Official number set until **Census 2027** | Every density/SR/literacy MCQ | ORGI |
-| **NFHS-5** | TFR ~**2.0** nationally | NFHS-4 (2015–16) figure used in 2018 was **2.2** | MoHFW |
-| **UNFPA** | World Population Report | 2021 Q79 | UNFPA |
-| **~2023** | UN estimate: India most populous | CA only — 2011 still 2nd in Census table | UN / UNFPA |
-| **NPP 2000** | Stable population **2045** | Policy year fact | MoHFW |
-| **11 July** | World Population Day | 2018 Q114 | UN |
+## 🧠 Memory Anchors & Mnemonics
 
----
+### 1. Population Density Top 4 States: **B-W-K-U**
+- **B**ihar (1,106/km² — #1)
+- **W**est Bengal (1,028/km² — #2)
+- **K**erala (860/km² — #3)
+- **U**ttar Pradesh (829/km² — #4)
+- *(Mnemonic: **B**est **W**ishes to **K**nowledge **U**sers)*
 
-### Confused pairs
+### 2. Highest Literacy Top 3 States: **K-M-G**
+- **K**erala (94.0%)
+- **M**izoram (91.3%)
+- **G**oa (88.7%)
+- *(Mnemonic: **K**erala **M**akes **G**eniuses)*
 
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| First census | **1872** non-sync; paper **1871** (2023) | 1881 as “first ever” | प्रथम जनगणना |
-| First synchronous | **1881** | 1872 | समकालिक |
-| 2011 rank | **15th** / **7th** after Independence | 14th / 8th | 15वीं |
-| Density India | **382** | 324 (2001) | 382 |
-| Highest density **state** | **Bihar** | WB / UP / Delhi | बिहार |
-| Lowest density | **Arunachal** | HP / Mizoram | अरुणाचल |
-| Sex ratio | **943** | CSR 919 | 943 |
-| Lowest CSR (rural+urban) | **Haryana** | UP / J&K | हरियाणा |
-| Literacy | **74.04%**, age **7+** | 0–6 / 18+ | 74.04 |
-| TFR 2.1 | Children **per woman** | “per thousand” (that is CBR) | कुल प्रजनन दर |
-| Natural growth | **CBR − CDR** | Includes migration | प्राकृतिक वृद्धि |
-| Dividend | **15–59** | 60+ or 0–6 | जनसांख्यिकीय लाभांश |
-| Acceleration (urban curve) | **2nd stage** | 3rd / 4th | द्वितीय |
-| Most urbanised religion | **Jains** | Christians | जैन |
-| Kanpur / Lucknow million | **1971 / 1981** | 1961/1971 | कानपुर 1971 |
-| Shrawasti | Lowest **female literacy** district (UP) | Balrampur / Bahraich | श्रावस्ती |
-| Lorenz curve | **Income inequality** | Illiteracy | लोरेंज |
-| World Population Report | **UNFPA** | IMF / WHO / UNDP | यूएनएफपीए |
-| Arithmetic density | **Population / total area** | Physiological density | अंकगणितीय घनत्व |
-| Physiological density | **Population / net sown area** | Agricultural density | शारीरिक घनत्व |
-| Natural vs induced growth | Natural = CBR−CDR; induced = migration | Same thing | प्राकृतिक ≠ प्रेरित |
-| Immigration / emigration | In / out | Swap | आप्रवास / उत्प्रवास |
-| SC / ST share (2011) | SC ~**16.6%** · ST ~**8.6%** | Swap or invent | अनुसूचित जाति / जनजाति |
-| Optimum Population | **Edwin Cannan** | Robbins / Dalton / Carr-Saunders as the first name | अनुकूलतम जनसंख्या |
-| Social mal-adjustment | **Henry George** | Dalton’s “maladjustment” formula, or Malthus | सामाजिक कुसमायोजन |
-| Demographic Transition | **Thompson** (Notestein also) | Cannan / Malthus | जनांकिकीय संक्रमण |
-| Population–food | **Malthus** | Marx (he criticises Malthus) | जनसंख्या–खाद्य |
-| Geometric vs arithmetic | Population **geometric**; food **arithmetic** | Swap the two progressions | गुणोत्तर / समानांतर |
-| Positive vs preventive checks | Positive = **death** up; preventive = **birth** down | Swap | धनात्मक / निवारक नियंत्रण |
-| Social capillarity | **Arsène Dumont** | Henry George | सामाजिक केशिका |
+### 3. Lowest Literacy Bottom 3 States: **B-A-R**
+- **B**ihar (61.8% — lowest)
+- **A**runachal Pradesh (65.4%)
+- **R**ajasthan (66.1%)
 
+### 4. Lowest Density:
+- **Arunachal Pradesh** = **17 persons / km²** (Lowest in India)
 
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -491,4 +552,3 @@ D. CDR 2.1 per thousand
 **Logic:** “Per thousand” wording belongs to CBR/CDR, not TFR.
 
 </details>
-

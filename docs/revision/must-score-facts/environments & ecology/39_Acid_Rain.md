@@ -7,45 +7,116 @@ hide:
 
 <div class="rev-hero-banner rev-facts-hero" markdown="0">
   <div class="rev-hero-badge">🎯 MUST-SCORE RATTA LAYER</div>
-  <div class="rev-hero-meta">🌿 Environment & Ecology &bull; Target: 80% Mastery Gate Required</div>
+  <div class="rev-hero-meta">🌿 Environment & Ecology • Target: 80% Mastery Gate Required</div>
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 39 — Acid Rain (अम्ल वर्षा)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
+
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
+| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
+| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
+| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
+| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
+| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
 
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Acid rain** means acidic deposition with **pH below 5.6**.
-2. **Wet deposition** arrives with rain, snow, or fog. **Dry deposition** settles as acidic gases or particles without rain.
-3. **CO₂ → H₂CO₃** sets the weak baseline. Carbon dioxide alone is **not** the main culprit of severe acid rain.
-4. **Lichens** die in high SO₂ and act as pollution bio-indicators — they indicate pollution but do **not** thrive in polluted air.
-5. **Mathura (मथुरा) refinery** is a classic SO₂ source in the Taj Trapezium narrative.
-6. **Acid rain** means precipitation or atmospheric deposition with **pH below 5.6**, mainly from **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)** (नाइट्रिक अम्ल).
-7. **Normal unpolluted rain** is already slightly acidic (~**pH 5.6**) because **CO₂** forms weak **carbonic acid (H₂CO₃)** — it is **not** pH 7.
-8. **SO₂** from burning sulphur-rich **coal/oil** in thermal plants, refineries, smelters, brick kilns, and generators forms **H₂SO₄**.
-9. **NOx** from vehicles, power plants, and high-temperature combustion forms **HNO₃**.
-10. **CO₂** only sets the weak baseline (~5.6); it is **not** the main cause of damaging acid rain.
-11. **SO₂ is heavier than air** and can linger near ground-level sources.
-12. **Conifers** (pine, spruce) are especially sensitive to acid fog and soil change.
-13. **Lichens** die in high-SO₂ air and act as pollution bio-indicators (Topic 38 crossover).
-14. **Flue Gas Desulphurisation (FGD)** scrubbers use lime/limestone to cut SO₂ from power-plant stacks.
-15. **Taj Trapezium Zone (~10,400 km²)** — Supreme Court-driven controls (1996 onward) forced gas switch/relocation of polluting units around Agra.
+2. Normal rain (सामान्य वर्षा) is already slightly acidic near **pH 5.6** because CO₂ forms weak carbonic acid. It is **not** pH 7.
+3. **Wet deposition** arrives with rain, snow, or fog. **Dry deposition** settles as acidic gases or particles without rain.
+4. The main strong acid pathway is **SO₂ → H₂SO₄**. **NOx → HNO₃** is the other major path.
+5. **CO₂ → H₂CO₃** sets the weak baseline. Carbon dioxide alone is **not** the main culprit of severe acid rain.
+6. On the pH scale, acidic is below **7**, basic is above **7**, and neutral is **7**.
+7. Reversed statements that call normal rain alkaline or acid rain alkaline are both false.
+8. Lake waters below about **pH 5** can kill fish. Acid soils release toxic **Al³⁺**.
+9. Acid deposition harms conifers and weathers marble and limestone. The Taj marble → **gypsum** story is the classic Indian fact.
+10. **Lichens** die in high SO₂ and act as pollution bio-indicators — they indicate pollution but do **not** thrive in polluted air.
+11. Prevention tools include **FGD**, catalytic converters, cleaner fuel norms such as **BS-VI**, and regional protocols.
+12. The **Gothenburg Protocol (1999)** under **CLRTAP (1979)** targets acidifying air pollutants. **Montreal** targets ozone ODS — different problem.
+13. The **Taj Trapezium Zone** covers about **10,400 km²** around the Taj Mahal (ताज महल), with Supreme Court-driven controls from **1996**.
+14. **Mathura (मथुरा) refinery** is a classic SO₂ source in the Taj Trapezium narrative.
+15. The **Singrauli** thermal belt and industrial NCR/Kanpur (कानपुर) airsheds are Indian acidifying-emission hotspots.
+16. SO₂ is denser than air and can travel long distances before deposition.
+17. Acid rain is a **secondary-pollutant** story built from primary SO₂ and NOx emissions.
+18. Coal power and some industries are major SO₂ sources. Vehicles and combustion add NOx.
+19. Liming lakes is an emergency response, not a substitute for cutting emissions at source.
+20. Do not blame acid rain mainly on CO₂ just because normal rain is weakly acidic.
+21. Dry deposition can damage materials even on rainless days.
+22. Acid mist and acid fog are wet forms even when they are not classic rainfall.
+23. Cultural-heritage damage and forest dieback are both valid effect facts alongside aquatic harm.
+24. India’s focus pairs chemistry (SO₂/NOx) with Taj protection geography.
+25. Calling Montreal the acid-rain treaty is a standard distractor.
+26. FGD is flue-gas desulphurisation at power-plant chimneys — mitigation hardware, not a treaty name.
+27. Secondary pollutants H₂SO₄ and HNO₃ form in the atmosphere from primary SO₂ and NOx.
+28. Acid rain is **not** “rain only”; dry deposition counts too.
+29. **Acid rain** means precipitation or atmospheric deposition with **pH below 5.6**, mainly from **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)** (नाइट्रिक अम्ल).
+30. **Normal unpolluted rain** is already slightly acidic (~**pH 5.6**) because **CO₂** forms weak **carbonic acid (H₂CO₃)** — it is **not** pH 7.
+31. **SO₂** from burning sulphur-rich **coal/oil** in thermal plants, refineries, smelters, brick kilns, and generators forms **H₂SO₄**.
+32. **NOx** from vehicles, power plants, and high-temperature combustion forms **HNO₃**.
+33. **CO₂** only sets the weak baseline (~5.6); it is **not** the main cause of damaging acid rain.
+34. **SO₂ is heavier than air** and can linger near ground-level sources.
+35. **Conifers** (pine, spruce) are especially sensitive to acid fog and soil change.
+36. **Lichens** die in high-SO₂ air and act as pollution bio-indicators (Topic 38 crossover).
+37. **Flue Gas Desulphurisation (FGD)** scrubbers use lime/limestone to cut SO₂ from power-plant stacks.
+38. **Taj Trapezium Zone (~10,400 km²)** — Supreme Court-driven controls (1996 onward) forced gas switch/relocation of polluting units around Agra.
 
+## ⏱️ Timeline / Chronology
 
----
+### Chronological Sequence of Global Atmospheric & Pollution Milestones
+
+```
+1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
+1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
+1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
+1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
+1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
+1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
+2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
+2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
+2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
+```
+
+## 📊 Quick Reference Grid
+
+### Locks
+
+| Item | Lock |
+|------|------|
+| Acid rain | pH <**5.6** |
+| Normal rain | ~5.6 from CO₂ (≠ alkaline) |
+| Main acids | H₂SO₄ (SO₂) + HNO₃ (NOx) |
+| Taj marble | → gypsum (CaSO₄) under sulphuric attack |
+| Taj Trapezium | Pollution-control belt for Taj |
+| Gothenburg/CLRTAP | Acidifying air (≠ Montreal ozone) |
+| Prevention | FGD, converters, BS-VI, cleaner fuel |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
 | **Normal Rain** | **Acid Rain** | Slightly acidic with pH ~5.6 due to dissolved atmospheric CO₂ forming weak carbonic acid (H₂CO₃) vs precipitation with pH < 5.6 caused by anthropogenic SO₂ and NOx | सामान्य वर्षा (pH 5.6) / अम्ल वर्षा (pH < 5.6) |
 | **Sulfuric Acid (H₂SO₄)** | **Nitric Acid (HNO₃)** | Contributes ~60–70% of total acid precipitation (emitted mainly by coal thermal power plants) vs contributes ~30–40% (emitted by automobile engines and fertilizers) | सल्फ्यूरिक अम्ल (60-70%) / नाइट्रिक अम्ल (30-40%) |
 | **Wet Acid Deposition** | **Dry Acid Deposition** | Acidic compounds deposited on Earth via rain, fog, sleet, or snow vs acidic gases, sulfate, and nitrate particles settling directly on soil and buildings without precipitation | आर्द्र निक्षेपण (वर्षा/कोहरा) / शुष्क निक्षेपण (धूल/गैस कण) |
 | **Marble Cancer** | **Eutrophication** | Yellowing and pitting of calcium carbonate monuments (Taj Mahal) reacting with sulfuric acid to form soluble gypsum vs excess nutrient loading in water bodies causing algal blooms | संगमरमर कैंसर (ताजमहल क्षरण) / सुपोषण (शैवाल प्रस्फुटन) |
 | **Gothenburg Protocol (1999)** | **Montreal Protocol (1987)** | UNECE protocol to abate acidification, eutrophication, and ground-level ozone (SO₂, NOx, VOCs, NH₃) vs UNEP protocol phasing out ozone-depleting chlorofluorocarbons | गोथेनबर्ग प्रोटोकॉल (अम्लीकरण) / मॉन्ट्रियल प्रोटोकॉल (ओजोन) |
 
+## 🧠 Memory Anchors & Mnemonics
 
----
+- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
+- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
+- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
+- **WPA Schedules (Post-2022 Amendment)**:
+  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
+  - **Schedule II**: Animal species with lesser protection
+  - **Schedule III**: Protected Plant species
+  - **Schedule IV**: Specimens listed under CITES Appendices
+- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
+- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 

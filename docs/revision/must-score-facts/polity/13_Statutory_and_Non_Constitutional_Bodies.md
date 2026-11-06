@@ -11,92 +11,159 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 13 — Statutory & Non-Constitutional Bodies</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
+## 📰 Current Affairs & High-Yield Updates
+
+| Year/Ref | Key Fact | Exam Relevance |
+|---|---|---|
+| 2024 | Former Supreme Court judge Justice **Ajay Manikrao Khanwilkar** appointed as the Chairperson of the **Lokpal of India**; succeeded Justice Pinaki Chandra Ghose (India's first Lokpal, appointed 2019). | Current institutional leadership question in State Civil Services. |
+| 2019 / Amd | **Protection of Human Rights (Amendment) Act, 2019** amended NHRC structure: allowed any former Supreme Court Judge (not just CJI) to be Chairperson; reduced tenure from 5 to **3 years (or 70 years of age)**; allowed reappointment. | Landmark reform frequently tested in Prelims. |
+| 2019 / RTI | **Right to Information (Amendment) Act, 2019** removed fixed statutory 5-year tenure of Chief Information Commissioner and ICs, allowing Central Government to prescribe tenure (currently 3 years) and salaries. | High-yield statutory amendment lock. |
+| 2015 | **NITI Aayog** established on **1 January 2015** by an executive resolution of the Union Cabinet, replacing the 65-year-old Planning Commission (Non-constitutional, Non-statutory think tank). | Standard classification question in Indian Polity. |
+
 ## 🎯 Consolidated Must-Score Facts
 
-1. A **Statutory Body** is created by an Act of Parliament or a State Legislature (e.g., NHRC, CVC, CIC, Lokpal, NGT); an **Executive Body** is created by an executive resolution of the Cabinet without any legislation (e.g., **NITI Aayog**, Law Commission); neither is mentioned in the Constitution.
-2. **NITI Aayog (National Institution for Transforming India):** Established on **1 January 2015** by a Union Cabinet resolution, replacing the 65-year-old Planning Commission (established March 1950); acts as the premier policy think tank providing directional and policy inputs; emphasizes **'Cooperative Federalism'** and a **'Bottom-Up' approach** (unlike the top-down Planning Commission).
-3. Composition of NITI Aayog: **Chairperson = Prime Minister**; **Governing Council** = Chief Ministers of all States, CMs of UTs with legislatures (Delhi, Puducherry, J&K), and Lt. Governors of other UTs; Vice-Chairperson is appointed by the Prime Minister (rank of Cabinet Minister); Chief Executive Officer (CEO) is appointed by PM for a fixed tenure (rank of Secretary to GOI).
-4. Key Operational Wings of NITI Aayog: (1) Research Wing; (2) Consultancy Wing; (3) Team India Wing (acts as interface between States and Centre); NITI Aayog **has NO power to allocate financial funds or grants to States** (financial allocation powers rest entirely with the Ministry of Finance).
-5. **National Development Council (NDC):** Established on **6 August 1952** by executive resolution on recommendation of the First Five-Year Plan; chaired by the Prime Minister; served as the apex body for approval of Five-Year Plans; rendered largely obsolete since the dismantling of five-year plans and inception of NITI Aayog.
-6. **National Human Rights Commission - NHRC:** Established on **12 October 1993** under the **Protection of Human Rights Act (PHRA), 1993**; statutory body in conformity with the Paris Principles; investigates human rights violations by government agencies.
-7. Composition of NHRC (as amended by PHRA Amendment Act, 2019): Consists of a **Chairperson** (who has been a **Chief Justice of India OR a Judge of the Supreme Court**) and **5 members** (1 sitting/former SC judge, 1 sitting/former HC Chief Justice, and 3 persons with practical knowledge of human rights, of whom **at least 1 must be a woman**); plus ex-officio chairpersons of 7 National Commissions (NCSC, NCST, NCBC, NCW, NCPCR, NCM, and Chief Commissioner for Persons with Disabilities).
-8. Appointment of NHRC: Appointed by the **President** on the recommendation of a high-powered **6-member Selection Committee** consisting of: (1) **Prime Minister (Chairperson)**; (2) **Speaker of Lok Sabha**; (3) **Deputy Chairman of Rajya Sabha**; (4) **Union Home Minister**; (5) **Leader of Opposition in Lok Sabha**; (6) **Leader of Opposition in Rajya Sabha**.
-9. Tenure and Removal of NHRC: Term of office is **3 years or up to 70 years of age** (lowered from 5 to 3 years by 2019 Amendment), eligible for re-appointment; removed by the **President on grounds of proved misbehaviour or incapacity after an inquiry by the Supreme Court**.
-10. Limitations of NHRC: Its recommendations are **purely advisory in nature** and not binding on government; cannot award monetary relief or punish violators directly; **cannot inquire into any matter after the expiry of 1 year** from date of human rights violation (statute of limitations).
-11. **State Human Rights Commission - SHRC:** Established under PHRA 1993; investigates violations in subjects under State List and Concurrent List; Chairperson must be a **retired Chief Justice OR a retired Judge of a High Court**; appointed by **Governor** on recommendation of committee: Chief Minister (Chairperson), Speaker, Home Minister, and Leader of Opposition; **removable ONLY by the PRESIDENT** (not Governor!).
-12. **Central Information Commission - CIC:** Established in **2005** under the **Right to Information (RTI) Act, 2005**; consists of a **Chief Information Commissioner (CIC)** and not more than **10 Information Commissioners (ICs)**.
-13. Appointment of CIC: Appointed by the **President** on the recommendation of a **3-member Committee**: (1) **Prime Minister (Chairperson)**; (2) **Leader of Opposition in Lok Sabha**; (3) **A Union Cabinet Minister nominated by the Prime Minister**.
-14. Tenure of CIC (RTI Amendment Act, 2019): Term is for such period as prescribed by the Central Government (currently **3 years**) or up to **65 years of age**; **ineligible for reappointment**; removed by President on proved misbehaviour/incapacity after Supreme Court inquiry.
-15. Powers of Information Commissions: Receive and inquire into complaints from any citizen denied RTI information; vested with powers of a **Civil Court** (summoning, discovery of documents, examining witnesses); can impose a penalty of **₹250 per day up to maximum ₹25,000** on public information officers (PIOs) for unreasonable delay.
-16. **Central Vigilance Commission - CVC:** Created in **February 1964** by executive resolution on the recommendation of the **K. Santhanam Committee on Prevention of Corruption (1962–64)**; conferred **Statutory Status** by the **Central Vigilance Commission Act, 2003**; apex integrity and anti-corruption watchdog.
-17. Composition of CVC: Consists of a **Central Vigilance Commissioner (Chairperson)** and **not more than 2 Vigilance Commissioners**.
-18. Appointment of CVC: Appointed by the **President** by warrant on recommendation of a **3-member Committee**: (1) **Prime Minister (Chairperson)**; (2) **Union Home Minister**; (3) **Leader of Opposition in Lok Sabha** (or leader of largest opposition party).
-19. Tenure of CVC: Term is **4 years or until attaining 65 years of age**, whichever is earlier (unique 4-year tenure!); **ineligible for further employment under Union or State Government**; removed by President on grounds of proved misbehaviour after Supreme Court inquiry.
-20. Functions of CVC: Exercises superintendence over the functioning of the **Delhi Special Police Establishment (CBI)** in so far as it relates to investigation of offences under the Prevention of Corruption Act, 1988.
-21. **Lokpal and Lokayuktas:** The terms 'Lokpal' and 'Lokayukta' were coined by **Dr. L.M. Singhvi in 1963**; administrative ombudsman modeled on Scandinavian Ombudsman; first recommended by the **First Administrative Reforms Commission (ARC-I, 1966)** chaired by Morarji Desai.
-22. The **Lokpal and Lokayuktas Act, 2013** came into force on **16 January 2014**; established the institution of Lokpal for the Union and mandated Lokayuktas for States; the first Chairperson of Lokpal was **Justice Pinaki Chandra Ghose (appointed March 2019)**.
-23. Composition of Lokpal: Consists of a **Chairperson** (who is or has been a CJI, SC Judge, or eminent person) and **not more than 8 members** (of whom **50% must be Judicial Members**, and **not less than 50% must be from SC/ST/OBC/Minorities/Women**).
-24. Appointment of Lokpal: Appointed by the **President** on recommendation of a **5-member Selection Committee**: (1) **Prime Minister (Chairperson)**; (2) **Speaker of Lok Sabha**; (3) **Leader of Opposition in Lok Sabha**; (4) **Chief Justice of India (or SC judge nominated by CJI)**; (5) **An Eminent Jurist** nominated by President on recommendation of first 4 members.
-25. Jurisdiction of Lokpal: Covers the **Prime Minister** (with specific safeguards regarding international relations, external security, public order, atomic energy, and space), Union Ministers, MPs, Group A, B, C, and D public servants, and NGOs receiving foreign funding > ₹10 lakh/year; has superintendence over CBI for corruption cases.
-26. Tenure of Lokpal: Term is **5 years or until attaining 70 years of age**; salary of Chairperson matches CJI; removed by President on grounds of misbehaviour after inquiry by Supreme Court on a petition signed by at least 100 MPs.
-27. **Lokayukta in States:** **Maharashtra was the first State to establish Lokayukta in 1971** (followed by Rajasthan and Bihar 1973); **Odisha** passed the first Lokayukta Act in 1970 but established it later; in **Uttar Pradesh**, the Lokayukta was established under the UP Lokayukta and Up-Lokayuktas Act, **1975** (tenure extended to 8 years in 2012).
-28. **Central Bureau of Investigation - CBI:** Established on **1 April 1963** by a resolution of the Ministry of Home Affairs, later transferred to the **Department of Personnel and Training (DoPT), Ministry of Personnel**; operates under the statutory authority of the **Delhi Special Police Establishment (DSPE) Act, 1946** (CBI is NOT a statutory body itself).
-29. CBI Director Appointment: Appointed under Section 4A of DSPE Act (amended by Lokpal Act 2013 and CVC Act) on recommendation of a **3-member Committee**: (1) **Prime Minister (Chairperson)**; (2) **Leader of Opposition in Lok Sabha**; (3) **Chief Justice of India (or SC Judge nominated by CJI)**; statutory minimum tenure of **2 years** (can be extended up to 5 years via 1-year annual extensions per 2021 amendment).
-30. State Consent for CBI: CBI requires the consent of the State Government under **Section 6 of DSPE Act** to investigate within State territory; **General Consent** enables routine operation, while **Specific Consent** is needed on case-to-case basis if General Consent is withdrawn; however, the **Supreme Court and High Courts can direct CBI to investigate any offence anywhere in India WITHOUT State consent** (*State of West Bengal v. Committee for Protection of Democratic Rights 2010*).
-31. **National Investigation Agency - NIA:** Constituted under the **National Investigation Agency Act, 2008** following the 26/11 Mumbai terrorist attacks; India's federal counter-terrorism law enforcement agency under the **Ministry of Home Affairs**; exercises **concurrent nationwide jurisdiction** to investigate scheduled offences (terrorism, hijacking, atomic offenses, cyber-terrorism) **WITHOUT requiring State government consent**.
-32. **National Green Tribunal - NGT:** Established on **18 October 2010** under the **National Green Tribunal Act, 2010** to give effect to **Article 21** (Right to a clean environment); India became the **third country in the world** (after Australia and New Zealand) to establish a specialized environmental tribunal.
-33. NGT Structure: Principal Bench is at **New Delhi**; four regional benches at **Bhopal, Pune, Kolkata, and Chennai**; Chairperson must be a retired Supreme Court Judge or retired HC Chief Justice; mandated to dispose of environmental applications within **6 months** of filing; not bound by the Code of Civil Procedure (CPC) 1908, but guided by **Principles of Natural Justice**.
-34. **Law Commission of India:** Non-statutory, executive advisory body constituted by the Ministry of Law and Justice every **3 years**; first Law Commission in independent India was established in **1955** chaired by the then Attorney General **M.C. Setalvad**; the **22nd Law Commission** was chaired by **Justice Ritu Raj Awasthi** (examined Uniform Civil Code and simultaneous elections).
-35. Pre-Independence Law Commission: The First Law Commission was established in **1834** under the **Charter Act of 1833** chaired by **Lord Macaulay**; drafted the Indian Penal Code (IPC, 1860).
-36. **Unique Tenures Summary Table:** NGT Members (5 yrs / 67 or 70 yrs); CVC (4 yrs / 65 yrs); Lokpal (5 yrs / 70 yrs); NHRC (3 yrs / 70 yrs); CIC (3 yrs / 65 yrs); SPSC/UPSC (6 yrs / 62 or 65 yrs).
+1. Non-Constitutional bodies are divided into two distinct legal classes: (1) **Statutory Bodies** (established by an Act of Parliament or State Legislature, e.g., NHRC, CVC, CIC, Lokpal, NGT); (2) **Non-Statutory / Extra-Constitutional Bodies** (established by an Executive Resolution of the Government, e.g., NITI Aayog).
+2. **NITI Aayog (National Institution for Transforming India):** Established on **1 January 2015** replacing the Planning Commission; non-constitutional, non-statutory body; operates as the apex public policy think tank; promotes **Cooperative and Competitive Federalism**.
+3. **NITI Aayog Composition:** Chairperson is the **Prime Minister**; Vice-Chairperson appointed by PM (rank of Cabinet Minister); CEO appointed by PM for fixed tenure (rank of Secretary to GoI); Governing Council comprises **Chief Ministers of all States and UTs with legislatures**, and Lt. Governors of other UTs.
+4. **National Development Council (NDC):** Established in **August 1952** by an executive resolution; non-constitutional, non-statutory body; chaired by PM; included all Union Cabinet ministers, CMs of all States, and Planning Commission members; served as the apex approval body for Five-Year Plans.
+5. **National Human Rights Commission (NHRC):** Established on **12 October 1993** under the **Protection of Human Rights Act (PHRA), 1993**; statutory body; conforms to the Paris Principles.
+6. **NHRC Composition (Post-2019 Amendment):** Consists of a Chairperson (who has been a **Chief Justice of India or a Judge of the Supreme Court**) and 5 members (1 sitting/retired SC judge, 1 sitting/retired HC Chief Justice, and 3 persons having knowledge of human rights, of whom at least 1 must be a woman).
+7. Ex-officio members of NHRC: Chairpersons of National Commission for Minorities, NCSC, NCST, NCBC, National Commission for Women, NCPCR, and Chief Commissioner for Persons with Disabilities.
+8. **Tenure of NHRC:** Chairperson and members hold office for **3 years or until the age of 70 years**, whichever is earlier (reduced from 5 years by 2019 Amendment); eligible for **reappointment**.
+9. **NHRC Selection Committee (6 Members):** (1) **Prime Minister** (Chairperson); (2) **Speaker of Lok Sabha**; (3) **Deputy Chairman of Rajya Sabha**; (4) **Leader of Opposition in Lok Sabha**; (5) **Leader of Opposition in Rajya Sabha**; (6) **Union Home Minister**. (Sitting SC judge or HC CJ can be appointed only after consultation with CJI).
+10. **Limitations of NHRC:** Recommendations are **purely advisory** and not binding on the government; cannot investigate any complaint made **after the expiry of ONE YEAR** from the date on which human rights violation occurred (Art. 36 limitation); has limited powers regarding human rights violations by Armed Forces (can only seek a report from the Central Government).
+11. **State Human Rights Commission (SHRC):** Created under PHRA 1993; Chairperson (retired Chief Justice or Judge of High Court) and 2 members appointed by **Governor** on recommendation of a Committee (CM, Speaker, State Home Minister, LoP in Assembly); can be removed **ONLY BY THE PRESIDENT** (Governor CANNOT remove SHRC members).
+12. **Central Vigilance Commission (CVC):** Established in **1964** on the recommendation of the **K. Santhanam Committee on Prevention of Corruption**; accorded statutory status by the **CVC Act, 2003**; apex vigilance institution free from executive control.
+13. **CVC Composition:** Consists of a **Central Vigilance Commissioner** (Chairperson) and not more than **two Vigilance Commissioners**; appointed by the **President** on recommendation of a 3-member committee: (1) **Prime Minister** (Chairperson); (2) **Union Minister of Home Affairs**; (3) **Leader of Opposition in Lok Sabha**.
+14. **Tenure of CVC:** Unique tenure of **4 YEARS or until the age of 65 years**, whichever is earlier; **INELIGIBLE for further employment** under Government of India or State government after retirement.
+15. **Central Information Commission (CIC):** Constituted in **2005** under the **Right to Information (RTI) Act, 2005**; statutory body; consists of Chief Information Commissioner and not more than 10 Information Commissioners.
+16. **Appointment of CIC:** Appointed by the **President** on recommendation of a 3-member committee: (1) **Prime Minister** (Chairperson); (2) **Leader of Opposition in Lok Sabha**; (3) A **Union Cabinet Minister** nominated by the PM.
+17. **Tenure of CIC (Post-2019 Amendment):** Term of office and allowances are **prescribed by the Central Government** (currently 3 years, or up to 65 years of age); **NOT eligible for reappointment**.
+18. **Lokpal and Lokayuktas Act, 2013:** Received Presidential assent on 1 January 2014; provides for establishment of **Lokpal at the Centre** and **Lokayuktas in States** to inquire into allegations of corruption against public functionaries.
+19. **Lokpal Composition:** Consists of a Chairperson (former CJI or former SC Judge or eminent person) and **not more than 8 members**; **50% shall be Judicial Members**; not less than **50% of members shall be from SCs, STs, OBCs, Minorities, and Women**.
+20. **Tenure of Lokpal:** Chairperson and members hold office for **5 years or until the age of 70 years**, whichever is earlier; appointed by President on recommendation of a 5-member Selection Committee.
+21. **Lokpal Selection Committee (5 Members):** (1) **Prime Minister** (Chairperson); (2) **Speaker of Lok Sabha**; (3) **Leader of Opposition in Lok Sabha**; (4) **Chief Justice of India** (or SC judge nominated by CJI); (5) An **Eminent Jurist** nominated by the President on recommendations of the first four members.
+22. **Jurisdiction of Lokpal:** Covers the **Prime Minister**, Union Ministers, Members of Parliament, and Groups A, B, C, D officials of the Central Government; covers entities receiving foreign donations under FCRA in excess of ₹10 lakh/year.
+23. **Lokpal Jurisdiction over Prime Minister (Safeguards):** Lokpal CANNOT inquire into allegations against PM relating to **international relations, external and internal security, public order, atomic energy, and space**; inquiry against PM must be held **in-camera** and approved by a **two-thirds majority of the full bench of Lokpal**.
+24. **Lokayukta Institution in States:** **Maharashtra** was the first State to establish Lokayukta in **1971**; followed by Rajasthan, Bihar, and UP (**UP Lokayukta and Up-Lokayuktas Act, 1975**); Lokayukta is appointed by the Governor in consultation with the Chief Justice of High Court and Leader of Opposition in Assembly.
+25. **Central Bureau of Investigation (CBI):** Set up in **1963** by a resolution of the Ministry of Home Affairs on recommendation of the **Santhanam Committee**; derives police powers from the **Delhi Special Police Establishment (DSPE) Act, 1946**; works under the Ministry of Personnel, Public Grievances and Pensions.
+26. **Appointment of CBI Director:** Appointed on recommendation of a 3-member committee under CVC Act / Lokpal Act: (1) **Prime Minister** (Chairperson); (2) **Leader of Opposition in Lok Sabha**; (3) **Chief Justice of India** (or SC judge nominated by CJI); statutory minimum tenure of **2 years** (can be extended up to 5 years, one year at a time via 2021 ordinance).
+27. **National Green Tribunal (NGT):** Established on **18 October 2010** under the **National Green Tribunal Act, 2010**; specialized environmental judicial body; India is the **3rd country in the world** (after Australia and New Zealand) to establish a dedicated green tribunal.
+28. **NGT Composition & Principles:** Chairperson (retired SC judge or HC CJ) appointed by Central Government in consultation with CJI; full-time judicial and expert members (min 10, max 20 each); tenure **5 years**, not eligible for reappointment; not bound by Code of Civil Procedure (CPC) or Indian Evidence Act; guided by **Principles of Natural Justice**, **Sustainable Development**, **Precautionary Principle**, and **Polluter Pays Principle**; mandated to dispose of cases within **6 months**.
+29. **National Commission for Women (NCW):** Statutory body set up in **January 1992** under the **National Commission for Women Act, 1990**; reviews constitutional and legal safeguards for women; consists of a Chairperson and 5 members; first Chairperson was **Jayanti Patnaik**.
+30. **National Commission for Minorities (NCM):** Set up as an executive body in 1978; given statutory status by the **National Commission for Minorities Act, 1992**; 6 notified religious minorities in India: **Muslims, Christians, Sikhs, Buddhists, Parsis (Zoroastrians)**, and **Jains** (notified in 2014).
+31. **National Disaster Management Authority (NDMA):** Created under the **Disaster Management Act, 2005**; apex body for disaster management; chaired ex-officio by the **Prime Minister**; State Disaster Management Authority (SDMA) chaired by **Chief Minister**.
+32. **Unique Identification Authority of India (UIDAI):** Created in 2009 under Planning Commission; given statutory status by the **Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016**; functions under Ministry of Electronics and IT (MeitY).
+33. **Law Commission of India:** Non-statutory, executive advisory body constituted by the Ministry of Law and Justice every 3 years; first Law Commission in independent India established in **1955** under Attorney-General **M.C. Setalvad**; advises government on legal reforms and codification.
+34. **Staff Selection Commission (SSC):** Non-statutory body created in 1975 (originally Subordinate Services Commission); attached office of Department of Personnel and Training (DoPT); conducts Group B and C recruitments.
+35. **Competition Commission of India (CCI):** Quasi-judicial statutory body established in **2003** under the **Competition Act, 2002**; replaced the MRTP Commission (Monopolies and Restrictive Trade Practices Commission, 1969); eliminates anti-competitive agreements and abuses of dominant position.
+36. **Classification Summary Grid:**
+    - **Constitutional:** ECI, UPSC, SPSC, FC, CAG, AG, Advocate-General, NCSC, NCST, NCBC, GST Council, Special Officer Linguistic Minorities.
+    - **Statutory:** NHRC, SHRC, CVC, CIC, SIC, Lokpal, Lokayukta, NGT, NCW, NCM, NCPCR, NDMA, UIDAI, CCI.
+    - **Executive / Non-Statutory:** NITI Aayog, Law Commission, NDC.
+37. **Governing Council of NITI Aayog:** The institutional engine of cooperative federalism; includes all 28 State CMs, 3 UT CMs (Delhi, Puducherry, J&K), and Lt. Governors of other UTs; replaced the old NDC format.
+38. **First Lokpal in History:** Concept of Ombudsman originated in **Sweden in 1809**; in India, the term 'Lokpal' was coined by **Dr. L.M. Singhvi in 1963** during a parliamentary debate.
+39. **First Anti-Corruption Bill in India:** First Administrative Reforms Commission (ARC, 1966) headed by Morarji Desai recommended a two-tier ombudsman (Lokpal and Lokayukta); first Lokpal Bill introduced in Lok Sabha in **1968** by the Indira Gandhi government (lapsed on dissolution).
+40. **First State to Pass Lokayukta Act:** **Odisha** passed the Lokayukta Act first in **1970**, but **Maharashtra was the first to implement/establish** the office in **1971**.
+41. **CVC Unique Advisory Standing:** CVC is not an investigating agency; it conducts inquiries through the **Chief Vigilance Officers (CVOs)** in ministries or refers criminal corruption cases to the **CBI**.
+42. **Superintendence of CBI on Corruption Cases:** Under the CVC Act 2003, the **CVC exercises superintendence over the CBI** in so far as it relates to investigation of offences under the **Prevention of Corruption Act, 1988**.
+43. **NHRC Courts of Record Powers:** When inquiring into human rights violations, NHRC has all the powers of a **Civil Court** trying a suit under the Code of Civil Procedure (CPC), 1908.
+44. **NHRC Investigation Staff Independence:** NHRC has its own investigating staff headed by a Director General of Police; can also utilize services of central or state government officers with their consent.
+45. **SHRC Removal Presidential Prerogative:** Even though appointed by the Governor, a member of an SHRC can be removed **ONLY by the President of India** on grounds of misbehaviour or incapacity after an inquiry by the Supreme Court (identical to SPSC members under Art. 317).
+46. **RTI Section 4 Suo-Motu Disclosure:** Mandates every public authority to proactively publish details of its organization, functions, duties, decision-making norms, and public documents within 120 days of enactment.
+47. **RTI Section 8 Exemptions:** 10 categories of information exempt from disclosure: sovereignty/security of India, contempt of court, commercial confidence/trade secrets, fiduciary relationships, cabinet papers, and personal information with no public interest.
+48. **NGT Principal Bench and Zonal Benches:** Principal Bench at **New Delhi**; 4 regional zonal benches at **Bhopal, Pune, Kolkata, and Chennai**.
+49. **National Commission for Protection of Child Rights (NCPCR):** Statutory body established in **March 2007** under the **Commissions for Protection of Child Rights (CPCR) Act, 2005**; monitors implementation of the **POCSO Act, 2012** and **RTE Act, 2009**.
+50. **Central Pollution Control Board (CPCB):** Statutory organization constituted in **September 1974** under the **Water (Prevention and Control of Pollution) Act, 1974**; later entrusted with functions under the Air (Prevention and Control of Pollution) Act, 1981.
 
+## ⏱️ Timeline / Chronology
 
----
+```
+1946  ── Delhi Special Police Establishment (DSPE) Act passed (police power base for CBI)
+  │
+1952  ── National Development Council (NDC) established by Cabinet Resolution
+  │
+1955  ── First Law Commission of independent India established (M.C. Setalvad, Chair)
+  │
+1963  ── CBI established by Ministry of Home Affairs resolution
+  │
+1963  ── Term "Lokpal" coined by Dr. L.M. Singhvi in Parliament
+  │
+1964  ── Central Vigilance Commission (CVC) established on Santhanam Committee report
+  │
+1971  ── Maharashtra becomes first State to establish the institution of Lokayukta
+  │
+1974  ── Central Pollution Control Board (CPCB) constituted under Water Act 1974
+  │
+1992  ── National Commission for Women (NCW) established under 1990 Act
+  │
+1992  ── National Commission for Minorities (NCM) given statutory status
+  │
+1993  ── National Human Rights Commission (NHRC) established under PHRA 1993
+  │
+2003  ── CVC given statutory status via CVC Act, 2003
+  │
+2005  ── Right to Information (RTI) Act enacted; Central Information Commission (CIC) born
+  │
+2005  ── Disaster Management Act passed creating NDMA (chaired by PM)
+  │
+2010  ── National Green Tribunal (NGT) established under NGT Act, 2010
+  │
+2013  ── Lokpal and Lokayuktas Act passed (enforced 1 Jan 2014)
+  │
+2015  ── 1 January: NITI Aayog replaces Planning Commission
+  │
+2019  ── First Lokpal of India appointed (Justice Pinaki Chandra Ghose)
+  │
+2024  ── Justice A.M. Khanwilkar appointed Chairperson of Lokpal
+```
+
+## 📊 Quick Reference Grid
+
+### 1. Major Statutory & Non-Constitutional Bodies Matrix
+
+| Body | Legal Status / Founding Act | Appointed By | Selection Committee | Tenure / Age Cap |
+|---|---|---|---|---|
+| **NITI Aayog** | Non-statutory, Executive Resolution (2015) | Ex-officio / PM | N/A | At pleasure of PM |
+| **NHRC** | Statutory (PHRA, 1993; amdt 2019) | President | 6 members: PM, Speaker, Dy Chair RS, LoP LS, LoP RS, Home Minister | **3 years / 70 years** (Eligible for reappointment) |
+| **SHRC** | Statutory (PHRA, 1993) | Governor (Removed by **President**) | 4 members: CM, Speaker, State Home Minister, LoP Assembly | **3 years / 70 years** |
+| **CVC** | Statutory (CVC Act, 2003) | President | 3 members: PM, Home Minister, LoP in Lok Sabha | **4 years / 65 years** (Unique 4-yr term!) |
+| **CIC** | Statutory (RTI Act, 2005; amdt 2019) | President | 3 members: PM, LoP in Lok Sabha, Union Cabinet Minister | As prescribed by Centre (3 yrs) / 65 yrs |
+| **Lokpal** | Statutory (Lokpal Act, 2013) | President | 5 members: PM, Speaker, LoP LS, CJI (or nominee), Eminent Jurist | **5 years / 70 years** |
+| **NGT** | Statutory (NGT Act, 2010) | Central Govt (in consultation with CJI) | Judicial/Expert selection panel | **5 years** (Not eligible for reappointment) |
+| **CBI Director** | Under DSPE Act, 1946 / CVC Act | Central Govt | 3 members: PM, LoP in Lok Sabha, CJI (or nominee) | Min 2 years (extendable up to 5 yrs) |
 
 ## ⚡ Confused Pairs & Common Examiner Traps
 
-### Current Affairs anchors
+| Pair | Correct | Trap | Hindi |
+|---|---|---|---|
+| CVC Tenure vs UPSC/CAG Tenure | CVC tenure is **4 YEARS or 65 years** (Unique 4-year term in Indian Polity!) | Give CVC a 5-year or 6-year tenure | CVC का कार्यकाल = 4 वर्ष या 65 वर्ष |
+| NHRC Tenure post-2019 | **3 years or 70 years** (amended in 2019; originally 5 years) | Quote old 5-year tenure | NHRC कार्यकाल = 3 वर्ष या 70 वर्ष |
+| SHRC Appointment vs Removal | Appointed by **Governor**; removed **ONLY by President** (on SC inquiry) | Allow Governor to remove SHRC members | नियुक्ति = राज्यपाल; निष्कासन = राष्ट्रपति |
+| NITI Aayog Legal Status | **Non-Constitutional, Non-Statutory** (Cabinet Resolution). NOT a statutory body! | Call NITI Aayog a statutory or constitutional body | नीति आयोग = गैर-संवैधानिक, गैर-संविधिक |
+| NHRC Armed Forces Jurisdiction | NHRC **CANNOT directly investigate** armed forces; can only seek report from Central Govt | Award full investigative powers over armed forces | सशस्त्र बलों पर NHRC की सीमित शक्तियाँ |
+| First State with Lokayukta | **Maharashtra (1971)** established first office; Odisha passed Act first (1970) | Name Odisha as first established office | पहला लोकायुक्त स्थापित = महाराष्ट्र (1971) |
+| CBI Legal Base | Derives police powers from **DSPE Act, 1946**. NOT an independent statutory body per se! | Call CBI a constitutional body | CBI = DSPE अधिनियम 1946 |
+| Lokpal Age Ceiling | **70 years of age** (5 years or 70 years) | Cap Lokpal age at 65 years | लोकपाल आयु सीमा = 70 वर्ष |
+| NGT CPC Exemption | NGT is **NOT BOUND by the Code of Civil Procedure (CPC)**; follows Principles of Natural Justice | Subject NGT strictly to civil court procedure | NGT नागरिक प्रक्रिया संहिता से बाध्य नहीं |
 
-| Year | Fact | Why asked |
-|------|------|-----------|
-| 2019 | First Lokpal (**P.C. Ghose**) | 2013 Act finally operational |
-| 2024 | Justice **Ajay Manikrao Khanwilkar** became Lokpal Chairperson | Current office-holder |
-| 2019 | RTI Amendment — term/salary by government | Independence |
-| 2019 | PHRA amendment — NHRC Chair, 3-year term | Composition |
-| 2016 | RBI MPC | Monetary policy |
-| 2014 | Jains notified as minority | NCM |
-| 2013 | PEMSR Act (manual scavenging) | NCSK neighbour |
-| 2011 | Anna Hazare / IAC | Political origin of Lokpal Act |
-| 2003 | CVC Act | Vineet Narain |
-| 2015 | NITI replaces Planning Commission (योजना आयोग) | Extra-constitutional (2018) |
-| 2018 | Aspirational Districts | NITI; UP **8** (2021) |
-| 2019 | NIA Amendment | Schedule / extra-territorial |
-| 2025 | BHARATPOL | **CBI**, not IB/RAW/ED |
+## 🧠 Memory Anchors & Mnemonics
 
----
+1. **The Unique "4-Year" Body:**
+   - **CVC = 4 Years or 65 Years!**
+   - Every other statutory commission is 3, 5, or 6 years. CVC stands completely alone at 4 years.
+2. **70-Year Retirement Club:**
+   - **NHRC** (3 yrs / 70 yrs)
+   - **SHRC** (3 yrs / 70 yrs)
+   - **Lokpal** (5 yrs / 70 yrs)
+3. **Selection Panels Cheat Sheet:**
+   - **CVC (3):** PM + Home Minister + LoP LS
+   - **CIC (3):** PM + Union Cabinet Minister + LoP LS
+   - **CBI (3):** PM + CJI + LoP LS
+   - **Lokpal (5):** PM + Speaker + LoP LS + CJI + Eminent Jurist
+   - **NHRC (6):** PM + Speaker + Dy Chair RS + LoP LS + LoP RS + Home Minister
 
-### Confused pairs
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **Lokpal** | **Lokayukta** | Union, 2013 Act | State Act (UP **1975**) |
-| **CVC** | **CBI** | Statutory watchdog; **no** police power of its own | Investigating agency (DPSE); CVC **supervises** PCA cases |
-| **CIC** | **NHRC** | RTI appeals | Human-rights complaints; **not** RTI |
-| **NHRC** | **NCSC** | **Statutory** (1993) | **Constitutional** (338) |
-| **NGT** | **CAT** | Environment, 2010 Act | Service matters, **323A / 1985** |
-| **RBI** | **SEBI** | Monetary / currency / banking | Capital market |
-| **Search Committee** | **Selection Committee** | Shortlists Lokpal names | Recommends to President (2024 panel) |
-| **SAT (State AT)** | **SAT (securities)** | State service tribunal | SEBI appeals |
-| **NITI** | **FC** | Executive think-tank (2015) | Constitutional **280** |
-| **NITI** | **Planning Commission** | Advisory; no Plan-fund allocation | Extra-constitutional **1950**; allocated Plan funds |
-| **CBI** | **NIA** | DSPE 1946 + 1963 resolution; **State consent** | **Statutory 2008**; **no** consent for scheduled offences |
-| **IB** | **RAW** | Internal; **1887**; MHA | External; **1968**; Cabinet Secretariat |
-| **ED** | **CBI** | FEMA / PMLA; Finance (Revenue) | General crime / PCA; DoPT |
-
-
----
-
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill
 
 > **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
@@ -323,4 +390,3 @@ D. NITI Aayog
 **Ans: D**
 
 </details>
-
