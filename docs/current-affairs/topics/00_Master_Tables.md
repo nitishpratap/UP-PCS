@@ -209,4 +209,51 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 
 ---
 
+## 8. High-Yield Rankings, Air & Wildlife Matrices (Ghatna Chakra Eye Drishti 2026 Core)
+
+### A. Swachh Vayu Survekshan 2025 (Clean Air NCAP Cities)
+
+| Population Slab | Rank 1 | Rank 2 | Rank 3 | UP Performance / Trap |
+|---|---|---|---|---|
+| **Category 1 (> 10 Lakh)** | **Surat** (Gujarat) | **Jabalpur** (MP) | **Agra (Uttar Pradesh)** | Agra is UP's top million-plus clean air city |
+| **Category 2 (3 to 10 Lakh)**| **Firozabad (UP)** | **Amravati** (Maharashtra) | **Jhansi (Uttar Pradesh)** | UP took 2 out of top 3 podium spots |
+| **Category 3 (< 3 Lakh)** | **Raebareli (UP)** | **Nalgonda** (Telangana) | **Baddi** (HP) | Raebareli ranked #1 in India |
+
+### B. NIRF 2025 (10th Edition) — National Category Champions
+
+| Domain / Category | Rank 1 Institution | Rank 2 Institution | Exam Trap / Milestone |
+|---|---|---|---|
+| **Overall** | **IIT Madras** | **IISc Bengaluru** | 7th consecutive year at Rank 1 for IIT Madras |
+| **Universities** | **IISc Bengaluru** | **JNU New Delhi** | Jamia Millia Islamia is Rank 3 |
+| **Colleges** | **Hindu College (Delhi)** | **Miranda House (Delhi)** | St. Stephen's is Rank 3; Hindu College dethroned Miranda |
+| **Engineering** | **IIT Madras** | **IIT Delhi** | 9th consecutive year for IIT Madras |
+| **Management** | **IIM Ahmedabad** | **IIM Bangalore** | IIM Kozhikode is Rank 3 |
+| **Medical** | **AIIMS New Delhi** | **PGIMER Chandigarh** | 7th consecutive year for AIIMS |
+| **State Public Universities**| **Anna University (Chennai)**| **Jadavpur University** | Newly introduced ranking domain in 2024–25 |
+| **Open Universities** | **IGNOU (New Delhi)** | **Netaji Subhas Open Univ**| Newly introduced category |
+
+### C. Asian Elephant Population Matrix (All-India Census 2024–25)
+
+| Rank | State | Estimated Elephants | Key Reserve / UP Context |
+|---|---|---|---|
+| **1** | **Karnataka** | **6,395** | Highest elephant population in India |
+| **2** | **Assam** | **5,719** | Second highest; Kaziranga–Karbi Anglong landscape |
+| **3** | **Kerala** | **3,054** | Third highest; Periyar & Wayanad complexes |
+| **4** | **Tamil Nadu** | **2,961** | Nilgiri biosphere reserve belt |
+| **UP** | **Uttar Pradesh** | **~250+** | **Terai Elephant Reserve (TER)**: 33rd ER in India (3,049 sq km, Dudhwa–Pilibhit) |
+
+### D. New Chief Ministers Sworn In (2026 Assembly Elections)
+
+| State / UT | Chief Minister Sworn In | Date of Oath | Administering Governor / LG | Outgoing CM / Key Milestone |
+|---|---|---|---|---|
+| **West Bengal** | **Suvendu Adhikari** | 9 May 2026 | **C. V. Ananda Bose / R. N. Ravi** | First BJP CM of West Bengal |
+| **Kerala** | **V. D. Satheesan** | 18 May 2026 | **Arif Mohammed Khan** | UDF victory |
+| **Tamil Nadu** | **C. Joseph Vijay** | 10 May 2026 | **R. N. Ravi** | TVK historic debut |
+| **Assam** | **Himanta Biswa Sarma** | 12 May 2026 | **Gulab Chand Kataria** | Second consecutive term |
+| **Puducherry** | **N. Rangasamy** | May 2026 | **K. Kailashnathan (LG)** | AINRC-led alliance |
+| **Haryana** | **Nayab Singh Saini** | 17 Oct 2026 | **Bandaru Dattatreya** | Second term (BJP 48/90) |
+| **Jammu & Kashmir** | **Omar Abdullah** | 16 Oct 2026 | **Manoj Sinha (LG)** | 1st CM of UT of J&K (Dy CM: Surinder Choudhary) |
+
+---
+
 Open topic files from the [monthly topics hub](index.md) when you need the full easy card.

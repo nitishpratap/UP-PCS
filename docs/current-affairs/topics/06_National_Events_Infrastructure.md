@@ -537,6 +537,133 @@ A Bench of the High Court of Jammu and Kashmir and Ladakh was established for **
 
 ---
 
+## Comprehensive National Affairs & Governance Landmarks (Ghatna Chakra Eye Drishti 2026 — Pages 17–54)
+
+### NIRF 2025 (National Institutional Ranking Framework — 10th Edition)
+- **Released By**: Ministry of Education (MoE), Government of India.
+- **Evaluation Parameters (5 Dimensions)**: 
+  1. Teaching, Learning & Resources (TLR)
+  2. Research and Professional Practice (RPC)
+  3. Graduation Outcomes (GO)
+  4. Outreach and Inclusivity (OI)
+  5. Perception (PR).
+- **Key Category Winners**:
+  - **Overall Category**: **IIT Madras** secured **Rank 1** for the 7th consecutive year; **IISc Bengaluru** ranked 2nd; **IIT Bombay** ranked 3rd.
+  - **University Category**: **IISc Bengaluru** secured **Rank 1**; JNU New Delhi ranked 2nd; Jamia Millia Islamia ranked 3rd.
+  - **Colleges Category**: **Hindu College, Delhi** secured **Rank 1**; Miranda House, Delhi ranked 2nd; St. Stephen's College, Delhi ranked 3rd.
+  - **Engineering Category**: **IIT Madras** ranked **Rank 1** for the 9th consecutive year; IIT Delhi ranked 2nd.
+  - **Management Category**: **IIM Ahmedabad** ranked **Rank 1**; IIM Bangalore ranked 2nd; IIM Kozhikode ranked 3rd.
+  - **Medical Category**: **AIIMS New Delhi** ranked **Rank 1** for the 7th consecutive year; PGIMER Chandigarh ranked 2nd; CMC Vellore ranked 3rd.
+  - **Law Category**: **National Law School of India University (NLSIU), Bengaluru** ranked **Rank 1**.
+  - **Pharmacy Category**: **Jamia Hamdard, New Delhi** ranked **Rank 1**.
+  - **Dental Category**: **Saveetha Institute of Medical and Technical Sciences (SIMATS), Chennai** ranked **Rank 1**.
+  - **Agriculture & Allied Sectors**: **Indian Agricultural Research Institute (IARI), New Delhi** ranked **Rank 1**.
+  - **Architecture & Planning**: **IIT Roorkee** ranked **Rank 1**.
+  - **Research Category**: **IISc Bengaluru** ranked **Rank 1**.
+  - **New Domain Categories Introduced**:
+    - **State Public Universities**: **Anna University, Chennai** (Rank 1); Jadavpur University, Kolkata (Rank 2).
+    - **Open Universities**: **Indira Gandhi National Open University (IGNOU), New Delhi** (Rank 1).
+    - **Skill Universities**: **Symbiosis Skills and Professional University, Pune** (Rank 1).
+
+### Swachh Vayu Survekshan 2025 (Clean Air City Rankings under NCAP)
+- **Nodal Agency**: Central Pollution Control Board (CPCB) under Ministry of Environment, Forest and Climate Change (MoEFCC).
+- **Framework**: Measures actions undertaken under the **National Clean Air Programme (NCAP)** across 131 targeted non-attainment cities to reduce PM10 and PM2.5 levels by 40% by 2026.
+- **Rankings by Population Category**:
+  - **Category 1 (Population > 10 Lakh)**:
+    - **1st Rank**: **Surat** (Gujarat)
+    - **2nd Rank**: **Jabalpur** (Madhya Pradesh)
+    - **3rd Rank**: **Agra (Uttar Pradesh)** — UP's highest-ranking million-plus city
+  - **Category 2 (Population 3 to 10 Lakh)**:
+    - **1st Rank**: **Firozabad (Uttar Pradesh)** — Clinched national first prize
+    - **2nd Rank**: **Amravati** (Maharashtra)
+    - **3rd Rank**: **Jhansi (Uttar Pradesh)** — Secured national third prize
+  - **Category 3 (Population < 3 Lakh)**:
+    - **1st Rank**: **Raebareli (Uttar Pradesh)** — Clinched national first prize
+    - **2nd Rank**: **Nalgonda** (Telangana)
+    - **3rd Rank**: **Baddi** (Himachal Pradesh)
+- **UP Special Impact**: Uttar Pradesh swept top honours with **Agra** (#3 in million-plus), **Firozabad** (#1 in 3–10 lakh), **Jhansi** (#3 in 3–10 lakh), and **Raebareli** (#1 in under-3 lakh).
+
+### Asian Elephant Population Status & Terai Elephant Reserve (2024–25)
+- **Joint Assessment**: Conducted by MoEFCC and the Wildlife Institute of India (WII) utilizing DNA profiling, camera trapping, and synchronous visual estimation.
+- **All-India Population Total**: Estimated at **~29,964 elephants**.
+- **State Rankings by Elephant Abundance**:
+  1. **Karnataka**: **6,395** elephants (Highest elephant population in India)
+  2. **Assam**: **5,719** elephants (Second highest)
+  3. **Kerala**: **3,054** elephants (Third highest)
+  4. **Tamil Nadu**: **2,961** elephants
+- **Uttar Pradesh Regional Context**:
+  - Uttar Pradesh notified the **Terai Elephant Reserve (TER)** in October 2022 as the **33rd Elephant Reserve in India** and the **2nd in Uttar Pradesh** (after Shivalik Elephant Reserve).
+  - TER encompasses **3,049 sq km** spanning Dudhwa Tiger Reserve and Pilibhit Tiger Reserve across Lakhimpur Kheri and Pilibhit districts.
+
+### National Counter Terrorism Policy (NCTP 2025–26)
+- **Formulated By**: Ministry of Home Affairs (MHA), Government of India.
+- **Doctrinal Pillar**: Institutionalizes India's **'Zero Tolerance to Terrorism'** into a binding whole-of-government policy.
+- **Five Core Strategic Action Vectors**:
+  1. **Multi-Agency Centre (MAC) 2.0 Expansion**: Integration of 24x7 state-level and district-level operational control rooms with NATGRID.
+  2. **Combating Terror Financing (CFT)**: Dedicated Financial Intelligence Units targeting hawala channels, cross-border crypto-wallets, and terror fundraising.
+  3. **Critical Information Infrastructure Protection**: Mandatory physical and digital perimeter hardening for atomic, transport, space, and power grid nodes under NCIIPC.
+  4. **National Automated Fingerprint Identification System (NAFIS)**: Central repository of criminal and terror suspects managed by NCRB accessible across all police stations.
+  5. **Counter-Radicalization Grid**: Coordinated prevention of youth radicalization on encrypted social networks and dark web forums.
+
+### NCERT Granted 'Deemed-to-be-University' Status
+- **Notification**: Granted by the Ministry of Education under **Section 3 of the University Grants Commission (UGC) Act, 1956**.
+- **Category**: Conferred under the prestigious **'De-Novo' Category** (institutions devoted to innovations in distinct educational fields).
+- **Core Powers Conferred**:
+  - National Council of Educational Research and Training (NCERT, established 1 September 1961; Headquarters: New Delhi) is now empowered to award its own graduate, post-graduate, and doctoral (Ph.D.) degrees.
+  - Full institutional autonomy to establish international collaborative academic campuses and design advanced teacher-training pedagogical programs.
+
+### Plastic Waste Management (Amendment) Rules, 2026
+- **Notifying Ministry**: Ministry of Environment, Forest and Climate Change (MoEFCC).
+- **Key Regulatory Provisions**:
+  - **Thickness Standard**: Retains strict enforcement of the **120-micron minimum thickness** for virgin and recycled plastic carry bags.
+  - **Mandatory Recycled Content**: Manufacturers of rigid plastic packaging must mandatorily incorporate a minimum of **30% post-consumer recycled (PCR) plastic** in products, scaling to 50% by FY 2028–29.
+  - **Extended Producer Responsibility (EPR)**: 100% digital registration through the Central Pollution Control Board (CPCB) centralised portal; non-compliant Producers, Importers, and Brand Owners (PIBOs) subject to environmental compensation levies under Polluter Pays Principle.
+  - **Enforcement on Single-Use Plastics (SUP)**: Blanket prohibition re-enforced on 19 banned items including plastic sticks for ear buds, balloons, candy sticks, and polystyrene cutlery.
+
+### UGC Regulations 2026: Foreign Higher Educational Institutions (FHEIs)
+- **Statutory Framework**: University Grants Commission (Setting Up and Operation of Campuses of Foreign Higher Educational Institutions in India) Regulations, 2026.
+- **Eligibility Threshold**: Only foreign universities ranked in the **Top 500 of QS World University Rankings / Times Higher Education (THE)**, or reputed institutions with demonstrated subject excellence.
+- **Operational Autonomy**:
+  - Complete operational autonomy to formulate admission criteria, tuition fee structures, and recruitment of global academic faculty.
+  - Permitted to repatriate excess operational revenue across borders under Foreign Exchange Management Act (FEMA), 1999 guidelines.
+  - Diplomas and degrees awarded on Indian campuses carry 100% mutual equivalence with the parent foreign university campus.
+  - Landmark early entrants: **Deakin University** and **University of Wollongong** established campuses at **GIFT City, Gandhinagar (Gujarat)**.
+
+### CPCB National River Pollution & Groundwater Status Report (2023–24)
+- **Monitoring Scale**: Central Pollution Control Board monitored 2,110 aquatic monitoring stations across rivers, lakes, ponds, and groundwater reserves.
+- **Polluted River Stretches Identified**: **311 polluted stretches** identified across 279 rivers based on Biochemical Oxygen Demand (BOD exceeding 3 mg/L).
+- **BOD Priority Classification Matrix**:
+  - **Priority I (Extremely Polluted)**: BOD > 30 mg/L (46 river stretches nationally).
+  - **Priority II**: BOD 20–30 mg/L (16 river stretches).
+  - **Priority III**: BOD 10–20 mg/L (39 river stretches).
+  - **Priority IV**: BOD 6–10 mg/L (82 river stretches).
+  - **Priority V**: BOD 3–6 mg/L (128 river stretches).
+- **State Rankings**: Maharashtra recorded the highest number of polluted stretches (55), followed by Madhya Pradesh (19) and Bihar (18). In Uttar Pradesh, major Priority-I stretches persist on the **Hindon, Kali (East), and Yamuna** river segments.
+
+### BSNL Pan-India Voice-over-Wi-Fi (VoWiFi) & Indigenous 4G/5G Stack
+- **Technology Launch**: Bharat Sanchar Nigam Limited (BSNL) activated **Voice over Wi-Fi (VoWiFi)** nationwide, enabling crystal-clear voice and video calling via broadband Wi-Fi in cellular dark spots.
+- **Indigenous Telecom Stack**: Deployed on the 100% indigenous 4G/5G mobile communication network stack developed by **C-DOT (Centre for Development of Telematics)** and manufactured/integrated by **Tata Consultancy Services (TCS)** and **Tejas Networks**.
+
+### 8th Central Pay Commission (8th CPC)
+- **Constitution Date**: Initiated in late 2025 / early 2026 for the decennial revision of Central Government salary structures, pensions, and allowances.
+- **Chairperson Appointed**: **Justice Ranjana Prakash Desai** (Former Supreme Court Judge, former Chairperson of Press Council of India, and former Chairperson of the Delimitation Commission).
+- **Beneficiary Coverage**: Covers ~49 lakh active central government employees and ~68 lakh pensioners.
+- **Historical Chronology**: 7th Central Pay Commission (headed by Justice A.K. Mathur) came into effect on 1 January 2016; 8th CPC follows the established 10-year review cycle.
+
+### Ghatna Chakra PTR (Points to Remember) Rapid High-Yield Drill
+- **FATF Vice-President Election**: **India** was elected Vice-President of the Financial Action Task Force (FATF) for the term June 2026 to June 2027; **Vivek Aggarwal** was appointed FATF Vice-President representing India; **Giles Thomson** (UK) appointed FATF President from 1 July 2026.
+- **India's First Hydrogen Train Section**: Ministry of Railways approved operation of India's first indigenous Hydrogen train on the **Jind–Sonipat section** (89 km, Haryana, Northern Railway).
+- **Osmania University Quadruple ISO Milestone**: **Osmania University, Hyderabad** became the first Indian university to receive **four ISO certifications simultaneously** awarded by the Bureau of Indian Standards (BIS).
+- **Samrat Samprati Museum**: Prime Minister Narendra Modi inaugurated the **Samrat Samprati Museum** in **Gandhinagar, Gujarat**, dedicated to classical Jain history, sculpture, and ancient royal patronage.
+- **Bharat Buildcon 2026**: Organised in **New Delhi** (18–21 June 2026), showcasing ultra-modern engineering, pre-cast modular construction, and infrastructure mechanization.
+- **Aizawl–Sairang Rail Line**: Prime Minister Modi inaugurated and laid foundations for development projects worth over ₹8,000 crore in Aizawl, including the **51.38 km broad-gauge Sairang–Aizawl rail line** connecting Mizoram's capital to the national rail grid.
+- **National Lokpal Day**: Observed nationwide on **16 January**.
+- **Kerala Chief Minister 2026**: **V. D. Satheesan** was sworn in as the Chief Minister of Kerala on **18 May 2026**.
+- **Mission for Cotton Productivity**: Central sector scheme approved by the Union Cabinet with a total outlay of **₹5,659.22 crore** to boost per-hectare cotton yield and extra-long staple (ELS) cultivation.
+- **150 Years of Vande Mataram**: National celebrations launched commemorating 150 years of Bankim Chandra Chattopadhyay's composition of *Vande Mataram* (originally penned in 1875; first published in novel *Anandamath* in 1882; first sung politically at 1896 Calcutta INC Session by Rabindranath Tagore).
+
+---
+
 ## October 2026
 
 ### Assembly Elections: Haryana & Jammu and Kashmir (October 2026)
