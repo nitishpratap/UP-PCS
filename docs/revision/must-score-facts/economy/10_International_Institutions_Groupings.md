@@ -196,26 +196,6 @@ hide:
 | **Publisher of Global Competitiveness Report** | **World Economic Forum (WEF)**. |
 | **Publisher of World Economic Outlook** | **International Monetary Fund (IMF)**. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Institution / Concept A | Institution / Concept B | Core Structural Distinction |
-|---|---|---|
-| **International Monetary Fund (IMF)** | **World Bank (IBRD)** | The IMF focuses on international monetary stability, foreign exchange surveillance, and emergency BoP loans; the World Bank focuses on long-term development financing and poverty alleviation. |
-| **IBRD (World Bank)** | **IDA (World Bank)** | IBRD provides market-based sovereign loans to creditworthy middle-income governments; IDA provides concessional interest-free loans and non-repayable grants to low-income nations. |
-| **International Finance Corporation (IFC)** | **IBRD** | IFC provides loans, equity, and advisory services exclusively to private-sector enterprises; IBRD lends exclusively to sovereign national governments. |
-| **World Bank Headquarters** | **United Nations Headquarters** | The World Bank and IMF are headquartered in Washington D.C.; the UN Secretariat is headquartered in New York City. |
-| **Asian Development Bank (ADB)** | **Asian Infrastructure Investment Bank (AIIB)** | ADB was founded in 1966 and is headquartered in Manila, Philippines; AIIB was established in 2016 and is headquartered in Beijing, China. |
-| **New Development Bank (NDB)** | **AIIB** | NDB is the BRICS-sponsored multilateral development bank headquartered in Shanghai; AIIB is a broader multilateral infrastructure bank headquartered in Beijing. |
-| **Coining of "BRIC" (2001)** | **Accession of South Africa (2010)** | Jim O'Neill coined "BRIC" in 2001 as an analytical economic concept; South Africa officially joined the diplomatic grouping in 2010, creating "BRICS." |
-| **Inaugural BRIC Summit (2009)** | **Inaugural BRICS Summit (2011)** | The first summit of Brazil, Russia, India, and China occurred in Yekaterinburg (2009); the first summit with South Africa took place in Sanya, China (2011). |
-| **ASEAN Secretariat (Jakarta)** | **BIMSTEC Secretariat (Dhaka)** | ASEAN represents 10 Southeast Asian nations with its secretariat in Jakarta; BIMSTEC links 7 Bay of Bengal nations with its permanent secretariat in Dhaka. |
-| **SAARC Secretariat (Kathmandu)** | **BIMSTEC Secretariat (Dhaka)** | SAARC coordinates 8 South Asian states with headquarters in Kathmandu; BIMSTEC coordinates 7 Bay of Bengal states with headquarters in Dhaka. |
-| **Indonesia** | **Thailand** | Thailand is a member of both ASEAN and BIMSTEC; Indonesia is a member of ASEAN but not a member of BIMSTEC. |
-| **G20 Summitry** | **G7 Summitry** | G20 represents 19 major advanced and emerging market economies, the European Union, and the African Union; G7 comprises seven advanced Western industrial economies. |
-| **G20 Lotus Motif (Seven Petals)** | **G20 Member Count** | The seven petals on the G20 logo symbolize the seven continents of the earth, not the number of member states in the forum. |
-| **WTO MC-13 (Abu Dhabi 2024)** | **WTO MC-14 (Yaoundé, Cameroon 2026)** | MC-13 was hosted in Abu Dhabi (UAE); MC-14 will be hosted in Cameroon in 2026 (2nd African host in WTO history after Kenya 2015). |
-| **SCO 9th Member (Iran 2023)** | **SCO 10th Member (Belarus 2024)** | Iran was admitted in 2023 under India's virtual chairmanship; Belarus was admitted in July 2024 at the Astana Summit in Kazakhstan. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### Key Mnemonics & Cognitive Hooks
@@ -235,273 +215,262 @@ hide:
   - **ADB:** Manila, Philippines.
   - **IMF & World Bank:** Washington, D.C., USA.
 
-## 🎯 High-Yield PYQ Drill (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to World Bank and International Monetary Fund, which of the following statements is/are correct?
-
-1. The World Bank and International Monetary Fund were set up together and are popularly known as Bretton Woods Twins.
-2. Headquarters of International Monetary Fund and World Bank are located at Washington D.C. and New York respectively.
-
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Twins true; World Bank HQ is Washington, not New York — Only 1
-
-**Ans: D.** Only 1
-</details>
-
-**Q2.**
-
-Which of the following countries is/are NOT a member of BIMSTEC?
-
-1. Thailand
-2. Nepal
-3. Bhutan
-4. Indonesia
-
-A. 2 and 3
-B. Only 4
-C. 1 and 4
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Indonesia out; Thailand/Nepal/Bhutan in — Only 4
-
-**Ans: B.** Only 4
-</details>
-
-**Q3.**
-
-1. P. M. Narendra Modi addressed the 5th BIMSTEC Summit on 30th March 2022.
-2. The 5th Summit of BIMSTEC had been chaired by India.
-
-A. Neither 1 nor 2
-B. Both 1 and 2
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Addressed = true; India chaired = false (Sri Lanka) — Only 1
-
-**Ans: D.** Only 1
-</details>
-
-**Q4.**
-
-1. The logo has a lotus with seven petals.
-2. The seven petals represent the seven continents.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Both 1 and 2.
-
-**Ans: C.** Both match the official logo brief.
-
-</details>
-
-**Q5.**
-
-Which of the following cities of Uttar Pradesh was not included as a venue for the 11 meetings of the G20 during India's Presidency?
-
-A. Agra
-B. Varanasi
-C. Kanpur
-D. Greater Noida
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Kanpur was not among the UP venue set — Kanpur
-
-**Ans: C.** Kanpur
-</details>
-
-**Q6.**
-
-The 10th 'BRICS' Summit 2018 was held in which of the following countries?
-
-A. Brazil
-B. South Africa
-C. Russia
-D. China
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** South Africa.
-
-**Ans: B.** South Africa hosted the 10th Summit.
-
-</details>
-
-**Q7.**
-
-Which one is correct about IMF?
-
-A. It grants loan to any country.
-B. It grants loan to only developing countries.
-C. It grants loan to only member countries.
-D. It grants loan to the Central Bank of a country.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Member-country facilities — It grants loan to only member countries
-
-**Ans: C.** It grants loan to only member countries
-</details>
-
-**Q8.**
-
-Who coined the term ‘BRICS’ in 2001?
-
-A. Jim O’Neill
-B. Barack Obama
-C. John Kennedy
-D. Vladimir Putin
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** O’Neill / BRIC 2001 — Jim O’Neill
-
-**Ans: A.** Jim O’Neill
-</details>
-
-**Q9.**
-
-In which year ‘BRIC’ grouping was formed as ‘BRICS’?
-
-A. 2010
-B. 2015
-C. 2009
-D. 2012
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** South Africa join → 2010 — 2010
-
-**Ans: A.** 2010
-</details>
-
-**Q10.**
-
-Which statement about BRICS is NOT correct?
-
-A. It represents more than 40 percent of the global population.
-B. It represents around 24 percent of the world GDP.
-C. It represents around 46 percent of global trade.
-D. The first BRICS Summit was held in 2009 in Russia.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Inflated trade-share claim is false — It represents around 46 percent of global trade
-
-**Ans: C.** It represents around 46 percent of global trade
-</details>
-
-**Q11.**
-
-In which year was the SAARC Summit, for the first time, held in India?
-
-A. 1986
-B. 1995
-C. 2007
-D. None of these
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 1986.
-
-**Ans: A.** 1986
-</details>
-
-**Q12.**
-
-ASEAN central secretariat is located in:
-
-A. Jakarta
-B. Bali
-C. Manila
-D. Hanoi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Jakarta.
-
-**Ans: A.** Jakarta
-</details>
-
-**Q13.**
-
-BIMSTEC Permanent Secretariat is located at:
-
-A. New Delhi
-B. Colombo
-C. Dhaka
-D. Kathmandu
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Dhaka.
-
-**Ans: C.** Dhaka
-</details>
-
-**Q14.**
-
-Which one publishes the ‘Global Competitiveness Index’ report?
-
-A. U.N.D.P.
-B. World Economic Forum
-C. I.M.F.
-D. W.T.O.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key: World Economic Forum.
-
-**Ans: B.** World Economic Forum
-</details>
-
-**Q15.**
-
-How many countries are members of World Bank?
-
-A. 189
-B. 181
-C. 164
-D. 193
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Classic key around 189 IBRD members for that paper’s vintage — 189
-
-**Ans: A.** 189
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to World Bank and International Monetary Fund, which of the following statements is/are correct?<br><br>1. The World Bank and International Monetary Fund were set up together and are popularly known as Bretton Woods Twins.<br>2. Headquarters of International Monetary Fund and World Bank are located at Washington D.C. and New York respectively.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Twins true; World Bank HQ is Washington, not New York — Only 1
+
+**Ans: D.** Only 1</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following countries is/are NOT a member of BIMSTEC?<br><br>1. Thailand<br>2. Nepal<br>3. Bhutan<br>4. Indonesia</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Indonesia out; Thailand/Nepal/Bhutan in — Only 4
+
+**Ans: B.** Only 4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">1. P. M. Narendra Modi addressed the 5th BIMSTEC Summit on 30th March 2022.<br>2. The 5th Summit of BIMSTEC had been chaired by India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Addressed = true; India chaired = false (Sri Lanka) — Only 1
+
+**Ans: D.** Only 1</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">1. The logo has a lotus with seven petals.<br>2. The seven petals represent the seven continents.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Both 1 and 2.
+
+**Ans: C.** Both match the official logo brief.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following cities of Uttar Pradesh was not included as a venue for the 11 meetings of the G20 during India's Presidency?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Agra</div><div class="pyq-opt"><span class="opt-letter">B</span> Varanasi</div><div class="pyq-opt"><span class="opt-letter">C</span> Kanpur</div><div class="pyq-opt"><span class="opt-letter">D</span> Greater Noida</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Kanpur was not among the UP venue set — Kanpur
+
+**Ans: C.** Kanpur</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The 10th 'BRICS' Summit 2018 was held in which of the following countries?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Brazil</div><div class="pyq-opt"><span class="opt-letter">B</span> South Africa</div><div class="pyq-opt"><span class="opt-letter">C</span> Russia</div><div class="pyq-opt"><span class="opt-letter">D</span> China</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** South Africa.
+
+**Ans: B.** South Africa hosted the 10th Summit.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which one is correct about IMF?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It grants loan to any country.</div><div class="pyq-opt"><span class="opt-letter">B</span> It grants loan to only developing countries.</div><div class="pyq-opt"><span class="opt-letter">C</span> It grants loan to only member countries.</div><div class="pyq-opt"><span class="opt-letter">D</span> It grants loan to the Central Bank of a country.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Member-country facilities — It grants loan to only member countries
+
+**Ans: C.** It grants loan to only member countries</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Who coined the term ‘BRICS’ in 2001?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jim O’Neill</div><div class="pyq-opt"><span class="opt-letter">B</span> Barack Obama</div><div class="pyq-opt"><span class="opt-letter">C</span> John Kennedy</div><div class="pyq-opt"><span class="opt-letter">D</span> Vladimir Putin</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** O’Neill / BRIC 2001 — Jim O’Neill
+
+**Ans: A.** Jim O’Neill</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">In which year ‘BRIC’ grouping was formed as ‘BRICS’?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2010</div><div class="pyq-opt"><span class="opt-letter">B</span> 2015</div><div class="pyq-opt"><span class="opt-letter">C</span> 2009</div><div class="pyq-opt"><span class="opt-letter">D</span> 2012</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** South Africa join → 2010 — 2010
+
+**Ans: A.** 2010</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which statement about BRICS is NOT correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It represents more than 40 percent of the global population.</div><div class="pyq-opt"><span class="opt-letter">B</span> It represents around 24 percent of the world GDP.</div><div class="pyq-opt"><span class="opt-letter">C</span> It represents around 46 percent of global trade.</div><div class="pyq-opt"><span class="opt-letter">D</span> The first BRICS Summit was held in 2009 in Russia.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Inflated trade-share claim is false — It represents around 46 percent of global trade
+
+**Ans: C.** It represents around 46 percent of global trade</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">In which year was the SAARC Summit, for the first time, held in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1986</div><div class="pyq-opt"><span class="opt-letter">B</span> 1995</div><div class="pyq-opt"><span class="opt-letter">C</span> 2007</div><div class="pyq-opt"><span class="opt-letter">D</span> None of these</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 1986.
+
+**Ans: A.** 1986</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">ASEAN central secretariat is located in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jakarta</div><div class="pyq-opt"><span class="opt-letter">B</span> Bali</div><div class="pyq-opt"><span class="opt-letter">C</span> Manila</div><div class="pyq-opt"><span class="opt-letter">D</span> Hanoi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Jakarta.
+
+**Ans: A.** Jakarta</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">BIMSTEC Permanent Secretariat is located at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> New Delhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Colombo</div><div class="pyq-opt"><span class="opt-letter">C</span> Dhaka</div><div class="pyq-opt"><span class="opt-letter">D</span> Kathmandu</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Dhaka.
+
+**Ans: C.** Dhaka</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which one publishes the ‘Global Competitiveness Index’ report?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> U.N.D.P.</div><div class="pyq-opt"><span class="opt-letter">B</span> World Economic Forum</div><div class="pyq-opt"><span class="opt-letter">C</span> I.M.F.</div><div class="pyq-opt"><span class="opt-letter">D</span> W.T.O.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key: World Economic Forum.
+
+**Ans: B.** World Economic Forum</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">How many countries are members of World Bank?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 189</div><div class="pyq-opt"><span class="opt-letter">B</span> 181</div><div class="pyq-opt"><span class="opt-letter">C</span> 164</div><div class="pyq-opt"><span class="opt-letter">D</span> 193</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Classic key around 189 IBRD members for that paper’s vintage — 189
+
+**Ans: A.** 189</div>
+  </div>
+</div>

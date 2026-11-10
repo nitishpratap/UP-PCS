@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 23 — Disaster & Environment (पर्यावरण)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Environmental degradation (पर्यावरणीय क्षरण) raises disaster risk (deforestation worsens floods and landslides). Disasters also damage ecosystems through erosion, pollution, and forest loss.
@@ -75,22 +64,6 @@ hide:
 49. **Climate link:** warming makes heat waves more frequent, longer, and hotter (IPCC (आईपीसीसी) AR6).
 50. **Compound risk:** heat + drought raises crop failure and forest-fire fuel dryness; heat + power surge risks blackouts.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Environmental Legislation & Governance in India
-
-```
-1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
-1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
-1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
-1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
-1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
-1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
-2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
-2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
-2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
-```
-
 ## 📊 Quick Reference Grid
 
 ### Institutions / hazards
@@ -106,392 +79,310 @@ hide:
 | Heat wave (plains) | ≥40°C + departure rules; severe ≥47°C or +6.4°C |
 | Forest fire season | Roughly Mar–Jun; chir pine fuel |
 | Piral Lao–Paise Pao | UK pine-needle scheme (≠ Delhi) |
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-## ⚡ Confused Pairs & Common Examiner Traps
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Meteorological Drought** | **Agricultural Drought** | Situation where actual seasonal rainfall over an area is significantly less than the long-term climatological mean (>25% deficient = moderate; >50% deficient = severe) vs condition where soil moisture deficiency severely impedes crop growth, triggering wilting and agrarian loss | मौसमी (मौसम विज्ञान) सूखा / कृषि सूखा (मृदा नमी संकट) |
-| **Hydrological Drought** | **Socio-Economic Drought** | Prolonged meteorological drought leading to depletion of surface water reservoirs, dried-up streams, and falling groundwater aquifer tables vs severe water scarcity disrupting economic goods, public water supply, and livelihoods | जल-वैज्ञानिक सूखा (जलाशय ह्रास) / सामाजिक-आर्थिक सूखा (आजीविका संकट) |
-| **Cloudburst** | **Urban Flash Flood** | Extreme, highly localized torrential rainfall event exceeding **100 mm per hour** over a small geographic area (~20–30 km²) causing catastrophic flash torrents vs rapid inundation of built-up city areas caused by impermeable concrete surfaces and choked storm drains | बादल फटना (≥100 मिमी/घंटा अतिवृष्टि) / नगरीय आकस्मिक बाढ़ |
-| **Storm Surge** | **Tsunami** | Abnormal coastal sea-level rise and massive sea surge pushed onshore by the fierce winds and extreme low atmospheric pressure of a tropical cyclone vs series of immense sea waves generated by underwater seaquake, submarine volcanic eruption, or seafloor tectonic dislocation | तूफानी महोर्मि (चक्रवात जनित उभार) / सुनामी (अंतःसमुद्री भूकंप जनित तरंग) |
-| **National Disaster Management Authority (NDMA)** | **National Institute of Disaster Management (NIDM)** | Apex statutory policy-making and executive body for disaster management established under DM Act 2005, chaired ex-officio by the Prime Minister vs premier national statutory institute responsible for capacity building, research, training, and documentation in disaster management | राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA, नीति पीठ) / राष्ट्रीय आपदा प्रबंधन संस्थान (NIDM, प्रशिक्षण) |
-| **Hazard** | **Vulnerability** | Dangerous physical event, phenomenon, or human activity that has the potential to cause loss of life, injury, or property damage (e.g. earthquake, cyclone) vs conditions determined by physical, social, economic, and environmental factors increasing susceptibility to hazards | आपदा जोखिम/खतरा (Hazard) / सुभेद्यता (Vulnerability) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Arrange the following programmes in chronological order of commencement:
-
-1. Food for Work Programme
-2. Community Development Programme
-3. TRYSEM
-4. Drought Prone Areas Programme
-
-A. 4, 2, 3, 1
-
-B. 2, 4, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Chronology stem — CDP 1952 → DPAP 1973 → FWP 1977 → TRYSEM 1979.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Arrange the following programmes in chronological order of commencement:<br><br>1. Food for Work Programme<br>2. Community Development Programme<br>3. TRYSEM<br>4. Drought Prone Areas Programme</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 2, 3, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 4, 3, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 1, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Chronology stem — CDP 1952 → DPAP 1973 → FWP 1977 → TRYSEM 1979.
 
 **Ans: B (2, 4, 1, 3).** Order: **CDP → DPAP → FWP → TRYSEM**.
 
-**Trap:** DPAP **1973** swapped with CDP **1952**.
+**Trap:** DPAP **1973** swapped with CDP **1952**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-With reference to the "Piral Lao – Paise Pao" campaign, consider the following statements:
-
-1. It reduces forest fires and gives income to villagers.
-2. It was launched by the Chief Minister of Uttarakhand.
-
-A. Only 1
-
-B. Neither 1 nor 2
-
-C. Only 2
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Uttarakhand pine-needle collection — fire fuel reduction plus livelihood.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to the "Piral Lao – Paise Pao" campaign, consider the following statements:<br><br>1. It reduces forest fires and gives income to villagers.<br>2. It was launched by the Chief Minister of Uttarakhand.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Both 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Uttarakhand pine-needle collection — fire fuel reduction plus livelihood.
 
 **Ans: D (Both 1 and 2).** Both fire-prevention and CM-launch statements are correct.
 
-**Trap:** Assigning the scheme to **UP** instead of Uttarakhand.
+**Trap:** Assigning the scheme to **UP** instead of Uttarakhand.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Who is the ex-officio Chairman of the National Disaster Management Authority (NDMA)?
-
-A. The Prime Minister
-
-B. The Home Minister
-
-C. The Defence Minister
-
-D. The Health and Family Welfare Minister
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NDMA under DM Act 2005 — PM is ex-officio Chair; NDRF handles response.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who is the ex-officio Chairman of the National Disaster Management Authority (NDMA)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The Prime Minister</div><div class="pyq-opt"><span class="opt-letter">B</span> The Home Minister</div><div class="pyq-opt"><span class="opt-letter">C</span> The Defence Minister</div><div class="pyq-opt"><span class="opt-letter">D</span> The Health and Family Welfare Minister</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** NDMA under DM Act 2005 — PM is ex-officio Chair; NDRF handles response.
 
 **Ans: A.** The **Prime Minister** is the ex-officio **NDMA Chairman**.
 
-**Trap:** **Home Minister** — common false association with disaster response.
+**Trap:** **Home Minister** — common false association with disaster response.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-Match List-I with List-II:
-
-| List-I (Tropical cyclones) | List-II (Country/region) |
-| --- | --- |
-| A. Baguios | 1. Australia |
-| B. Hurricanes | 2. China |
-| C. Typhoons | 3. Philippines |
-| D. Willy-Willies | 4. United States of America |
-
-*Row order is not the answer code.*
-
-A. 3 4 1 2
-
-B. 3 4 2 1
-
-C. 2 3 4 1
-
-D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Regional cyclone naming — Baguios–Philippines; Hurricanes–USA; Typhoons–China/NW Pacific; Willy-Willies–Australia.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Tropical cyclones)</th><th>List-II (Country/region)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Baguios</td><td><span class="match-key">1</span> Australia</td></tr>
+      <tr><td><span class="match-key">B</span> Hurricanes</td><td><span class="match-key">2</span> China</td></tr>
+      <tr><td><span class="match-key">C</span> Typhoons</td><td><span class="match-key">3</span> Philippines</td></tr>
+      <tr><td><span class="match-key">D</span> Willy-Willies</td><td><span class="match-key">4</span> United States of America</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 4 2 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 1 3 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Regional cyclone naming — Baguios–Philippines; Hurricanes–USA; Typhoons–China/NW Pacific; Willy-Willies–Australia.
 
 **Ans: B (3 4 2 1).** **Baguios–Philippines; Hurricanes–USA; Typhoons–China; Willy-Willies–Australia**.
 
-**Trap:** Swapping **Typhoons** (China) with **Hurricanes** (USA).
+**Trap:** Swapping **Typhoons** (China) with **Hurricanes** (USA).</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Match List-I with List-II:
-
-| List-I (Cyclone name) | List-II (Country) |
-| --- | --- |
-| A. Willy-Willies | 1. Philippines |
-| B. Taifu | 2. Australia |
-| C. Baguio | 3. Japan |
-| D. Hurricanes | 4. U.S.A. |
-
-*Row order is not the answer code.*
-
-A. 3 4 1 2
-
-B. 2 3 4 1
-
-C. 1 3 2 4
-
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same regional naming set as 2020 Q74 with variant list labels.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Cyclone name)</th><th>List-II (Country)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Willy-Willies</td><td><span class="match-key">1</span> Philippines</td></tr>
+      <tr><td><span class="match-key">B</span> Taifu</td><td><span class="match-key">2</span> Australia</td></tr>
+      <tr><td><span class="match-key">C</span> Baguio</td><td><span class="match-key">3</span> Japan</td></tr>
+      <tr><td><span class="match-key">D</span> Hurricanes</td><td><span class="match-key">4</span> U.S.A.</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 3 2 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 3 1 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Same regional naming set as 2020 Q74 with variant list labels.
 
 **Ans: D (2 3 1 4).** Willy-Willies–Australia; Taifu–Japan; Baguio–Philippines; Hurricanes–USA.
 
-**Trap:** **Taifu** (Japan) confused with **Typhoon** generic label only.
+**Trap:** **Taifu** (Japan) confused with **Typhoon** generic label only.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-Which of the following statements are true?
-
-1. Natural disasters cause maximum damage in developing countries.
-2. Bhopal gas tragedy was man-made.
-3. India is a disaster-free country.
-4. Mangroves reduce the impact of cyclones.
-
-A. 1, 2 and 3
-
-B. 2, 3 and 4
-
-C. 1, 2 and 4
-
-D. 1, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Developing-country vulnerability + man-made Bhopal + mangrove buffer; India is **not** disaster-free.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements are true?<br><br>1. Natural disasters cause maximum damage in developing countries.<br>2. Bhopal gas tragedy was man-made.<br>3. India is a disaster-free country.<br>4. Mangroves reduce the impact of cyclones.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Developing-country vulnerability + man-made Bhopal + mangrove buffer; India is **not** disaster-free.
 
 **Ans: C (1, 2 and 4).** Statements 1, 2, and 4 are true.
 
-**Trap:** Statement 3 — India faces floods, cyclones, droughts, landslides, and earthquakes.
+**Trap:** Statement 3 — India faces floods, cyclones, droughts, landslides, and earthquakes.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-The Sendai Framework (2015) primarily relates to:
-
-A. Disaster risk reduction
-
-B. Ozone layer protection
-
-C. Wildlife trade regulation
-
-D. Carbon credit trading
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sendai 2015 = global DRR framework parallel to India's NDMA architecture.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Sendai Framework (2015) primarily relates to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Disaster risk reduction</div><div class="pyq-opt"><span class="opt-letter">B</span> Ozone layer protection</div><div class="pyq-opt"><span class="opt-letter">C</span> Wildlife trade regulation</div><div class="pyq-opt"><span class="opt-letter">D</span> Carbon credit trading</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Sendai 2015 = global DRR framework parallel to India's NDMA architecture.
 
 **Ans: A.** **Sendai Framework is for disaster risk reduction**.
 
-**Trap:** Montreal (ozone) or Kyoto (carbon) cross-topic distractors.
+**Trap:** Montreal (ozone) or Kyoto (carbon) cross-topic distractors.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-The Kedarnath disaster of 2013 is best described as a cascade involving:
-
-A. Cloudburst leading to landslides and flash floods
-
-B. Purely tectonic earthquake with no rainfall link
-
-C. Tsunami after submarine earthquake
-
-D. Volcanic eruption in Garhwal Himalaya
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Classic environment–disaster chain — extreme rain → slope failure → downstream flood.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The Kedarnath disaster of 2013 is best described as a cascade involving:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cloudburst leading to landslides and flash floods</div><div class="pyq-opt"><span class="opt-letter">B</span> Purely tectonic earthquake with no rainfall link</div><div class="pyq-opt"><span class="opt-letter">C</span> Tsunami after submarine earthquake</div><div class="pyq-opt"><span class="opt-letter">D</span> Volcanic eruption in Garhwal Himalaya</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Classic environment–disaster chain — extreme rain → slope failure → downstream flood.
 
 **Ans: A.** **Cloudburst–landslide–flash flood** cascade.
 
-**Trap:** Pure earthquake or tsunami framing — Kedarnath was hydrometeorological + mass movement.
+**Trap:** Pure earthquake or tsunami framing — Kedarnath was hydrometeorological + mass movement.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-Storm surge during a tropical cyclone is caused mainly by:
-
-A. Cyclone winds pushing seawater onshore
-
-B. Calm eye of the cyclone drawing water inward only
-
-C. Lunar tides alone without wind
-
-D. Ozone depletion over the ocean
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Surge = wind-driven coastal flooding — often deadlier than wind on flat coasts.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Storm surge during a tropical cyclone is caused mainly by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cyclone winds pushing seawater onshore</div><div class="pyq-opt"><span class="opt-letter">B</span> Calm eye of the cyclone drawing water inward only</div><div class="pyq-opt"><span class="opt-letter">C</span> Lunar tides alone without wind</div><div class="pyq-opt"><span class="opt-letter">D</span> Ozone depletion over the ocean</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Surge = wind-driven coastal flooding — often deadlier than wind on flat coasts.
 
 **Ans: A.** **Cyclone winds push seawater onshore** as storm surge.
 
-**Trap:** **Eye** is calm — strongest winds and surge occur in the **eyewall**, not the eye.
+**Trap:** **Eye** is calm — strongest winds and surge occur in the **eyewall**, not the eye.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.**
-
-In a mature tropical cyclone, the strongest winds are found in the:
-
-A. Eye
-
-B. Eyewall
-
-C. Outer rainbands only
-
-D. Stratosphere above the storm
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Eye = calm low pressure; eyewall = maximum wind and rain ring.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">In a mature tropical cyclone, the strongest winds are found in the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Eye</div><div class="pyq-opt"><span class="opt-letter">B</span> Eyewall</div><div class="pyq-opt"><span class="opt-letter">C</span> Outer rainbands only</div><div class="pyq-opt"><span class="opt-letter">D</span> Stratosphere above the storm</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Eye = calm low pressure; eyewall = maximum wind and rain ring.
 
 **Ans: B.** The **eyewall** has the **strongest winds**.
 
-**Trap:** **Eye** — calm centre, not maximum wind zone.
+**Trap:** **Eye** — calm centre, not maximum wind zone.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to environment and disasters, which of the following statements is/are correct?<br><br>1. Degradation raises disaster risk (e.g., deforestation worsens floods/landslides).<br>2. Disasters never damage ecosystems; only ecosystems cause disasters.<br>3. Deforestation always prevents landslides.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
 
-**Q11.** With reference to environment and disasters, which of the following statements is/are correct?
+**Logic:** Statement 1 is true (degradation raises risk). Statement 2 is false — disasters also damage ecosystems. Statement 3 is false — deforestation worsens, not prevents, many landslides.</div>
+  </div>
+</div>
 
-1. Degradation raises disaster risk (e.g., deforestation worsens floods/landslides).
-2. Disasters never damage ecosystems; only ecosystems cause disasters.
-3. Deforestation always prevents landslides.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> NDMA</td><td><span class="match-key">1</span> Response force</td></tr>
+      <tr><td><span class="match-key">B</span> NDRF</td><td><span class="match-key">2</span> DM Act 2005; PM chairs</td></tr>
+      <tr><td><span class="match-key">C</span> Sendai</td><td><span class="match-key">3</span> DRR framework</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
 
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
+**Logic:** NDMA/NDRF/Sendai.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Arrange drought ladder:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hydrological → meteorological → agricultural</div><div class="pyq-opt"><span class="opt-letter">B</span> No sequence</div><div class="pyq-opt"><span class="opt-letter">C</span> Agricultural → meteorological only</div><div class="pyq-opt"><span class="opt-letter">D</span> Meteorological → agricultural → hydrological</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Met → agri → hydro.
 
-**Ans: D.** Only 1 is correct.
+**Logic:** Standard teaching order.</div>
+  </div>
+</div>
 
-**Logic:** Statement 1 is true (degradation raises risk). Statement 2 is false — disasters also damage ecosystems. Statement 3 is false — deforestation worsens, not prevents, many landslides.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): DPAP began in 1973.<br><br>Reason (R): DPAP began in 1952 as the first Five-Year Plan only.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true, R false.
 
-</details>
+**A/R logic:** DPAP 1973 — not 1952 (CDP trap).</div>
+  </div>
+</div>
 
-**Q12.** Match List-I with List-II:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to cyclones, which of the following statements is/are correct?<br><br>1. Tropical cyclones form best over cold seas below about 15°C.<br>2. Bay of Bengal produces more than Arabian Sea.<br>3. Eye has the strongest winds; eyewall is calm.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
 
-| List-I | List-II |
-|--------|--------|
-| A. NDMA | 1. Response force |
-| B. NDRF | 2. DM Act 2005; PM chairs |
-| C. Sendai | 3. DRR framework |
-
-Code:
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A-2, B-1, C-3.
-
-**Logic:** NDMA/NDRF/Sendai.
-
-</details>
-
-**Q13.** Arrange drought ladder:
-
-A. Hydrological → meteorological → agricultural
-B. No sequence
-C. Agricultural → meteorological only
-D. Meteorological → agricultural → hydrological
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Met → agri → hydro.
-
-**Logic:** Standard teaching order.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): DPAP began in 1973.
-
-Reason (R): DPAP began in 1952 as the first Five-Year Plan only.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true, R false.
-
-**A/R logic:** DPAP 1973 — not 1952 (CDP trap).
-
-</details>
-
-**Q15.** With reference to cyclones, which of the following statements is/are correct?
-
-1. Tropical cyclones form best over cold seas below about 15°C.
-2. Bay of Bengal produces more than Arabian Sea.
-3. Eye has the strongest winds; eyewall is calm.
-
-A. Only 2
-B. 1 and 3
-C. Only 1
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Statement 2 is true (BoB > Arabian Sea frequency). Statement 1 is false — warm seas ~26–27°C are needed. Statement 3 swaps eye (calm) and eyewall (strongest winds).
-
-</details>
+**Logic:** Statement 2 is true (BoB > Arabian Sea frequency). Statement 1 is false — warm seas ~26–27°C are needed. Statement 3 swaps eye (calm) and eyewall (strongest winds).</div>
+  </div>
+</div>

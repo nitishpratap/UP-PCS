@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 6 — Society, Demographics, Tribes, Education System and Social Development</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2025** | **UP Annual Budget Milestone** — State budget crosses **₹7.36 Lakh Crore**, pacing the target of becoming a **$1 Trillion Economy by 2027** | Macroeconomic scale and state fiscal priorities |
-| **2023–2024** | **Ranipur Wildlife Sanctuary (Chitrakoot)** — Notified as UP's **4th Tiger Reserve** and India's **53rd Tiger Reserve** | Core wildlife conservation & protected areas |
-| **2023** | **Ganga Expressway Execution (594 km)** — 6-lane access-controlled expressway connecting Meerut to Prayagraj via 12 districts | Critical infrastructure & logistics corridor |
-| **2023** | **UP ODOP Global Integration** — State ODOP products onboarded to ONDC and international trade pavilions | Industrial promotion & district craft branding |
-| **2022** | **Bakhira Bird Sanctuary (Sant Kabir Nagar)** — Added as UP's **10th Ramsar Wetland** (Wetland of International Importance) | Environmental geography & wetland conservation |
-| **Rolling** | **District Administrative Realignment** — 75 Districts, 18 Divisions, 17 Municipal Corporations (Shahjahanpur 17th) | State administrative architecture baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. As per Census 2011, the total population of Uttar Pradesh is **199,812,341** (~**19.98 Crore**).
@@ -143,23 +132,6 @@ hide:
 | **Palaeobotany** | **Birbal Sahni Institute of Palaeosciences (BSIP)** | **Lucknow** | **1946** | Founded by renowned palaeobotanist **Prof. Birbal Sahni**; global centre for fossil plant and palaeoclimate research. |
 | **Fisheries Genetics** | **National Bureau of Fish Genetic Resources (NBFGR)** | **Telibagh, Lucknow** | **1983** | ICAR institute for cataloguing and conserving fish genetic resources and aquatic biodiversity. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
-| :--- | :--- | :--- |
-| **Highest Overall Literacy (GB Nagar)** | **Highest Female Literacy (Kanpur Nagar)** | GB Nagar leads **overall literacy (80.1%)**; Kanpur Nagar leads **female literacy (75.05%)**. |
-| **Lowest Literacy Across Board (Shravasti)** | **Lowest Child Sex Ratio (Baghpat)** | Shravasti is the **literacy floor (46.7%)**; Baghpat is the **CSR floor (841)**. |
-| **Highest Sex Ratio (Jaunpur - 1024)** | **Highest Child Sex Ratio (Balrampur - 950)** | Jaunpur leads **overall sex ratio**; Balrampur leads **0–6 child sex ratio**. |
-| **Highest SC % (Kaushambi - 34.7%)** | **Highest SC Absolute Count (Sitapur - 14.46 L)** | Kaushambi has the **highest proportion**; Sitapur has the **highest headcount**. |
-| **National SC Count Leader (UP)** | **National SC Percentage Leader (Punjab)** | UP has the **most SC individuals (4.14 Cr)**; Punjab has the **highest SC percentage (31.9%)**. |
-| **Tharu Tribe (Terai / Lakhimpur)** | **Buxa Tribe (Bijnor)** | Tharus inhabit the **Terai belt**; Buxas are concentrated in **Bijnor**. |
-| **Sahariya Tribe (Lalitpur)** | **Agariya Tribe (Sonbhadra)** | Sahariyas live in **Lalitpur**; Agariyas (iron smelters) live in **Sonbhadra**. |
-| **Most Populous District (Prayagraj)** | **Largest Area District (Lakhimpur Kheri)** | Prayagraj has the **most people (59.5 L)**; Lakhimpur Kheri has the **most land (7680 km²)**. |
-| **Highest Density (Ghaziabad - 3971)** | **Lowest Density (Lalitpur - 242)** | Ghaziabad is the **most crowded**; Lalitpur is the **least crowded**. |
-| **MAO College (1875)** | **AMU Central University (1920)** | Founded by Sir Syed in **1875**; upgraded to university status in **1920**. |
-| **University of Allahabad (1887)** | **Central University Status (2005)** | Established in **1887**; declared an Institution of National Importance/Central Univ in **2005**. |
-| **HRI (Prayagraj)** | **V.V. Giri NLI (Noida)** | HRI is for **Maths/Physics** in Prayagraj; NLI is for **Labour studies** in Noida. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **UP Tribal Demography**:
@@ -172,228 +144,244 @@ hide:
   - Follow joint family system; brew rice liquor called **Jad** (जाड़).
 - **Buksa (Bhoksa) Tribe**: Concentrated in **Bijnor district**; follow Pratiloma/Anuloma marriages; worship Kashipur Goddess.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which of the following districts of Uttar Pradesh has the lowest female literacy rate as per 2011 census?
-A. Rampur
-B. Balrampur
-C. Shrawasti
-D. Bahraich
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Female literacy floor in UP; overall literacy floor also Shravasti (~46.7%).
-
-**Ans: C.** Shrawasti.
-
-</details>
-
-**Q2.**
-As per Census 2011, the most literate district of U.P. is:
-A. Ghaziabad
-B. Kanpur Nagar
-C. Gautam Buddha Nagar
-D. Lucknow
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Kanpur Nagar is close second; Lucknow is not the top.
-
-**Ans: C.** Gautam Buddha Nagar (~80.12%).
-
-</details>
-
-**Q3.**
-Kanpur and Lucknow cities of UP became million cities as per the census of India in the year
-A. 1951 and 1961
-B. 1961 and 1971
-C. 1971 and 1981
-D. 1981 and 1991
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same stem as urbanisation topic — belongs in UP demography too.
-
-**Ans: C.** 1971 and 1981.
-
-</details>
-
-**Q4.**
-Highest population density district of UP (Census 2011) is:
-A. Varanasi
-B. Lucknow
-C. Ghaziabad
-D. Kanpur Nagar
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lowest density: Lalitpur.
-
-**Ans: C.** Ghaziabad (~3,971/km²).
-
-</details>
-
-**Q5.**
-Highest sex ratio district of UP (Census 2011) is:
-A. Azamgarh
-B. Deoria
-C. Jaunpur
-D. Gautam Buddha Nagar
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** GBN has high literacy but low sex ratio — inverse trap.
-
-**Ans: C.** Jaunpur (1,024).
-
-</details>
-
-**Q6.**
-What is the sex ratio in Bihar as per the Census 2011 of India?
-A. 879
-B. 918
-C. 943
-D. 1084
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 918.
-
-**Ans: B.** 918
-</details>
-
-**Q7.**
-Which districts of Uttarakhand recorded negative population growth during 2001–2011?
-A. Dehradun and Haridwar
-B. Pauri Garhwal and Almora
-C. Nainital and Udham Singh Nagar
-D. Champawat and Pithoragarh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hill out-migration contrast with UP’s plains growth.
-
-**Ans: B.** Pauri Garhwal and Almora.
-
-</details>
-
-**Q8.**
-Literacy rate of Uttarakhand (Census 2011) was about:
-A. 74.04%
-B. 67.7%
-C. 78.82%
-D. 63.8%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 78.82%.
-
-**Ans: C.** 78.82%
-</details>
-
-**Q9.**
-According to Census 2011, work participation rate in India and Rajasthan respectively was:
-A. 43.6% and 41.8%
-B. 39.8% and 43.6%
-C. 42.4% and 41.8%
-D. 39.8% and 36.4%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Comparative labour participation for society Extra Drill.
-
-**Ans: B.** 39.8% (India), 43.6% (Rajasthan).
-
-</details>
-
-**Q10.**
-Literacy rate in West Bengal (Census 2011) is—
-A. 97%
-B. 70%
-C. 80%
-D. 77%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Comparative State literacy — WB above national 74.04%.
-
-**Ans: D.** About 77%.
-
-</details>
-
-**Q11.**
-India is regarded as a country with “Demographic Dividend”. This is due to:
-A. Its high population in the age group below 15 years
-B. Its high population in the age group of 15–64 years
-C. Its high population in the age group above 65 years
-D. Its high total population
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Age-structure key for UP society demography.
-
-**Ans: B.** High share in the working-age group 15–64.
-
-</details>
-
-**Q12.**
-Which district of Uttar Pradesh has the lowest female literacy rate as per Census 2011?
-A. Bahraich
-B. Balrampur
-C. Shravasti
-D. Badaun
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** **Shravasti** has the lowest female literacy rate in UP (34.78%), followed by Balrampur (38.43%) and Bahraich (39.18%).
-
-**Ans: C.** Shravasti.
-
-</details>
-
-**Q13.**
-The 'Right to Education' Act 2009 provides free and compulsory education to children in which age group?
-A. 5-14 years
-B. 6-14 years
-C. 5-16 years
-D. 6-18 years
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** RTE Act, 2009 (implemented under Article 21A inserted by 86th Amendment, 2002) guarantees free and compulsory elementary education to all children in the age group of **6-14 years**.
-
-**Ans: B.** 6-14 years.
-
-</details>
-
-**Q14.**
-The 'Kanya Sumangala Yojana' of Uttar Pradesh provides financial support to a girl child at how many stages of her life?
-A. 4
-B. 5
-C. 6
-D. 7
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Under **Kanya Sumangala Yojana** (launched 2019), financial aid of Rs 15,000 total is disbursed in **6 stages**: at birth, vaccination completion, Class 1 admission, Class 6 admission, Class 9 admission, and graduatio…
-
-**Ans: C.** 6 stages.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following districts of Uttar Pradesh has the lowest female literacy rate as per 2011 census?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rampur</div><div class="pyq-opt"><span class="opt-letter">B</span> Balrampur</div><div class="pyq-opt"><span class="opt-letter">C</span> Shrawasti</div><div class="pyq-opt"><span class="opt-letter">D</span> Bahraich</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Female literacy floor in UP; overall literacy floor also Shravasti (~46.7%).
+
+**Ans: C.** Shrawasti.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">As per Census 2011, the most literate district of U.P. is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ghaziabad</div><div class="pyq-opt"><span class="opt-letter">B</span> Kanpur Nagar</div><div class="pyq-opt"><span class="opt-letter">C</span> Gautam Buddha Nagar</div><div class="pyq-opt"><span class="opt-letter">D</span> Lucknow</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Kanpur Nagar is close second; Lucknow is not the top.
+
+**Ans: C.** Gautam Buddha Nagar (~80.12%).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Kanpur and Lucknow cities of UP became million cities as per the census of India in the year</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1951 and 1961</div><div class="pyq-opt"><span class="opt-letter">B</span> 1961 and 1971</div><div class="pyq-opt"><span class="opt-letter">C</span> 1971 and 1981</div><div class="pyq-opt"><span class="opt-letter">D</span> 1981 and 1991</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Same stem as urbanisation topic — belongs in UP demography too.
+
+**Ans: C.** 1971 and 1981.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Highest population density district of UP (Census 2011) is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Varanasi</div><div class="pyq-opt"><span class="opt-letter">B</span> Lucknow</div><div class="pyq-opt"><span class="opt-letter">C</span> Ghaziabad</div><div class="pyq-opt"><span class="opt-letter">D</span> Kanpur Nagar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Lowest density: Lalitpur.
+
+**Ans: C.** Ghaziabad (~3,971/km²).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Highest sex ratio district of UP (Census 2011) is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Azamgarh</div><div class="pyq-opt"><span class="opt-letter">B</span> Deoria</div><div class="pyq-opt"><span class="opt-letter">C</span> Jaunpur</div><div class="pyq-opt"><span class="opt-letter">D</span> Gautam Buddha Nagar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** GBN has high literacy but low sex ratio — inverse trap.
+
+**Ans: C.** Jaunpur (1,024).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">What is the sex ratio in Bihar as per the Census 2011 of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 879</div><div class="pyq-opt"><span class="opt-letter">B</span> 918</div><div class="pyq-opt"><span class="opt-letter">C</span> 943</div><div class="pyq-opt"><span class="opt-letter">D</span> 1084</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 918.
+
+**Ans: B.** 918</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which districts of Uttarakhand recorded negative population growth during 2001–2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dehradun and Haridwar</div><div class="pyq-opt"><span class="opt-letter">B</span> Pauri Garhwal and Almora</div><div class="pyq-opt"><span class="opt-letter">C</span> Nainital and Udham Singh Nagar</div><div class="pyq-opt"><span class="opt-letter">D</span> Champawat and Pithoragarh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Hill out-migration contrast with UP’s plains growth.
+
+**Ans: B.** Pauri Garhwal and Almora.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Literacy rate of Uttarakhand (Census 2011) was about:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 74.04%</div><div class="pyq-opt"><span class="opt-letter">B</span> 67.7%</div><div class="pyq-opt"><span class="opt-letter">C</span> 78.82%</div><div class="pyq-opt"><span class="opt-letter">D</span> 63.8%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 78.82%.
+
+**Ans: C.** 78.82%</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">According to Census 2011, work participation rate in India and Rajasthan respectively was:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 43.6% and 41.8%</div><div class="pyq-opt"><span class="opt-letter">B</span> 39.8% and 43.6%</div><div class="pyq-opt"><span class="opt-letter">C</span> 42.4% and 41.8%</div><div class="pyq-opt"><span class="opt-letter">D</span> 39.8% and 36.4%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Comparative labour participation for society Extra Drill.
+
+**Ans: B.** 39.8% (India), 43.6% (Rajasthan).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Literacy rate in West Bengal (Census 2011) is—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 97%</div><div class="pyq-opt"><span class="opt-letter">B</span> 70%</div><div class="pyq-opt"><span class="opt-letter">C</span> 80%</div><div class="pyq-opt"><span class="opt-letter">D</span> 77%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Comparative State literacy — WB above national 74.04%.
+
+**Ans: D.** About 77%.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">India is regarded as a country with “Demographic Dividend”. This is due to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Its high population in the age group below 15 years</div><div class="pyq-opt"><span class="opt-letter">B</span> Its high population in the age group of 15–64 years</div><div class="pyq-opt"><span class="opt-letter">C</span> Its high population in the age group above 65 years</div><div class="pyq-opt"><span class="opt-letter">D</span> Its high total population</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Age-structure key for UP society demography.
+
+**Ans: B.** High share in the working-age group 15–64.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which district of Uttar Pradesh has the lowest female literacy rate as per Census 2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bahraich</div><div class="pyq-opt"><span class="opt-letter">B</span> Balrampur</div><div class="pyq-opt"><span class="opt-letter">C</span> Shravasti</div><div class="pyq-opt"><span class="opt-letter">D</span> Badaun</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** **Shravasti** has the lowest female literacy rate in UP (34.78%), followed by Balrampur (38.43%) and Bahraich (39.18%).
+
+**Ans: C.** Shravasti.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The 'Right to Education' Act 2009 provides free and compulsory education to children in which age group?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 5-14 years</div><div class="pyq-opt"><span class="opt-letter">B</span> 6-14 years</div><div class="pyq-opt"><span class="opt-letter">C</span> 5-16 years</div><div class="pyq-opt"><span class="opt-letter">D</span> 6-18 years</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** RTE Act, 2009 (implemented under Article 21A inserted by 86th Amendment, 2002) guarantees free and compulsory elementary education to all children in the age group of **6-14 years**.
+
+**Ans: B.** 6-14 years.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The 'Kanya Sumangala Yojana' of Uttar Pradesh provides financial support to a girl child at how many stages of her life?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 5</div><div class="pyq-opt"><span class="opt-letter">C</span> 6</div><div class="pyq-opt"><span class="opt-letter">D</span> 7</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Under **Kanya Sumangala Yojana** (launched 2019), financial aid of Rs 15,000 total is disbursed in **6 stages**: at birth, vaccination completion, Class 1 admission, Class 6 admission, Class 9 admission, and graduatio…
+
+**Ans: C.** 6 stages.</div>
+  </div>
+</div>

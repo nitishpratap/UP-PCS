@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 18 — International Environmental Agreements & Conferences</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Conference spine: **Stockholm 1972 → Brundtland 1987 → Rio 1992 → Johannesburg 2002 → Rio+20 2012 → SDGs and Paris 2015**.
@@ -72,7 +61,20 @@ hide:
 46. **Appendix III** — species listed by a member country requesting cooperation.
 47. **World Wetlands Day** is **2 February**.
 
-## ⏱️ Timeline / Chronology
+48. **CBD (1992)** is the biodiversity convention. **Cartagena** is the biosafety protocol under CBD.
+49. **Stockholm Convention (2001)** (स्टॉकहोम संधि) covers **POPs** such as DDT and PCBs. It is **not** the Stockholm Conference of **1972**.
+50. UNFCCC was opened at **Rio 1992**. Its secretariat sits in **Bonn**. Annual COP meetings drive negotiations.
+51. Ramsar “wise use” allows sustainable human use of wetlands — it is not a total ban slogan.
+52. A stem that says Kyoto is about “saving water” is false. Kyoto is climate.
+53. Stockholm **1972** created the UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) moment. Stockholm **2001** is the POPs treaty. Keep the two Stockholms apart.
+54. CBD’s three objectives are conservation, sustainable use, and fair benefit-sharing from genetic resources.
+55. CMS protects migratory animals across borders. CITES controls international commercial trade in listed species.
+56. Minamata’s mercury focus includes artisanal gold mining and product phase-downs in teaching notes.
+57. Do not put Ramsar, CITES, or CBD into the climate-mitigation answer slot when Kyoto is present.
+58. UP Ramsar geography traps belong beside Ramsar treaty facts but do not change the 1971 identity.
+59. Bonn Convention means **CMS**, not the UNFCCC Bonn secretariat alone.
+60. **Montreux Record** = Ramsar sites with adverse / likely adverse ecological change from human interference.
+61. **World Wildlife Day (विश्व वन्यजीव दिवस) = 3 March** (CITES adoption date).
 
 ### Chronological Sequence of Global Climate Summits & Treaties
 
@@ -118,391 +120,291 @@ hide:
 ---
 
 ![Global Environmental Governance Summits Roadmap & MEA Clusters](images/env_ch18_01_global_environmental_treaties_roadmap.png)
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-### Table: Global Environmental Reports & Flagship Publications
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| Publication / Report | Publishing Agency | Frequency / Milestone | Core Prelims Focus Area |
-| :--- | :--- | :--- | :--- |
-| **Assessment Reports (AR1 to AR6)** | **IPCC** (Intergovernmental Panel on Climate Change) | Every 6–7 years (AR6 Synthesis: 2023) | Scientific consensus on climate change, carbon budgets, 1.5°C pathways |
-| **Emissions Gap Report** | **UNEP** (United Nations Environment Programme) | Annual | Gap between national NDC pledges and 1.5°C / 2°C temperature trajectories |
-| **Adaptation Gap Report** | **UNEP** | Annual | Assessment of global adaptation financing, planning, and implementation deficit |
-| **Global Environment Outlook (GEO)** | **UNEP** | Periodic flagship | Comprehensive state of the global environment, policy responses |
-| **Living Planet Report** | **WWF** (World Wide Fund for Nature) | Biennial | Living Planet Index tracking vertebrate population declines (~69% decline) |
-| **IUCN Red List of Threatened Species** | **IUCN** (Gland, Switzerland) | Continuous / Annual update | 9 categories: EX, EW, CR, EN, VU, NT, LC, DD, NE |
-| **Global Biodiversity Outlook (GBO)** | **CBD Secretariat** | Periodic (GBO-5 in 2020) | Progress against Aichi Biodiversity Targets / Kunming-Montreal GBF |
-| **State of the World's Forests (SOFO)** | **FAO** (Food and Agriculture Organization) | Biennial | Global forest cover, deforestation rates, agroforestry and livelihoods |
-| **World Air Quality Report** | **IQAir** | Annual | Global PM2.5 city rankings and WHO guidelines compliance |
-| **SDG India Index & Dashboard** | **NITI Aayog** | Annual | Performance of Indian States/UTs across 16 SDGs (Kerala consistently #1) |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Stockholm Conference (1972)** | **Rio Earth Summit (1992)** | First UN global conference on the Human Environment that placed environment on the global political agenda and created UNEP vs UN Conference on Environment and Development (UNCED) that produced Rio Declaration, Agenda 21, CBD, UNFCCC, and UNCCD | स्टॉकहोम सम्मेलन 1972 (UNEP उद्भव) / रियो पृथ्वी शिखर सम्मेलन 1992 (रियो संधियां) |
-| **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Annex-I developed nations bound by legal emission targets with punitive compliance mechanisms vs universal bottom-up framework where all 196+ nations self-determine mitigation contributions (NDCs) with five-yearly global stocktakes | क्योटो प्रोटोकॉल (शीर्ष-से-नीचे बाध्यकारी) / पेरिस समझौता (स्वैच्छिक NDCs) |
-| **Basel Convention (1989)** | **Rotterdam Convention (1998)** | Restricts and regulates transboundary movements and disposal of hazardous wastes (especially preventing dumping in developing countries) vs establishes legally binding Prior Informed Consent (PIC) procedure for hazardous international trade chemicals and pesticides | बासेल कन्वेंशन (खतरनाक अपशिष्ट आवागमन) / रॉटरडैम कन्वेंशन (पूर्व सूचित सहमति) |
-| **Stockholm Convention (2001)** | **Minamata Convention (2013)** | Mandates the global elimination, restriction, and unintentional release reduction of Persistent Organic Pollutants (POPs - "Dirty Dozen") vs global treaty designed to protect human health and the environment from anthropogenic emissions and releases of toxic Mercury (Hg) | स्टॉकहोम संधि (POPs उन्मूलन) / मिनामाता संधि (पारा प्रदूषण नियंत्रण) |
-| **Ramsar Convention (1971)** | **Convention on Migratory Species (CMS / Bonn 1979)** | Dedicated specifically to the ecological conservation and sustainable wise use of internationally significant wetlands and waterfowl habitats vs treaty dedicated to the conservation of terrestrial, aquatic, and avian migratory wild animal species across range states | रामसर कन्वेंशन (आर्द्रभूमि संरक्षण) / बॉन कन्वेंशन (प्रवासी प्रजाति संरक्षण) |
-| **CITES (1973)** | **Convention on Biological Diversity (CBD 1992)** | International trade treaty strictly regulating commercial import/export of endangered wild flora and fauna through Appendices I, II, III vs comprehensive framework convention covering in-situ/ex-situ conservation, sustainable use, and fair benefit-sharing | साइट्स (CITES, वन्यजीव व्यापार) / जैव विविधता संधि (CBD, समग्र संरक्षण) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Which of the following international agreements is related to climate change **mitigation**?
-
-A. Montreal Protocol
-
-B. Ramsar Convention
-
-C. Kyoto Protocol
-
-D. CITES
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Treaty–issue matching — Montreal controls ozone/ODS; Kyoto/Paris address greenhouse gases.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following international agreements is related to climate change **mitigation**?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Montreal Protocol</div><div class="pyq-opt"><span class="opt-letter">B</span> Ramsar Convention</div><div class="pyq-opt"><span class="opt-letter">C</span> Kyoto Protocol</div><div class="pyq-opt"><span class="opt-letter">D</span> CITES</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Treaty–issue matching — Montreal controls ozone/ODS; Kyoto/Paris address greenhouse gases.
 
 **Ans: C.** The **Kyoto Protocol** sets binding GHG mitigation targets for developed countries.
 
-**Trap:** **Montreal Protocol** — ozone treaty, not climate mitigation.
+**Trap:** **Montreal Protocol** — ozone treaty, not climate mitigation.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-Assertion (A): Sustainable development should take place without harming the environment and without compromising the needs of future generations.
-
-Reason (R): Agenda 21 was signed by world leaders in 1995.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** (A) states the Brundtland-style SD principle (true). (R) tests Agenda 21 year — Rio **1992**, not 1995.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Sustainable development should take place without harming the environment and without compromising the needs of future generations.<br><br>Reason (R): Agenda 21 was signed by world leaders in 1995.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** (A) states the Brundtland-style SD principle (true). (R) tests Agenda 21 year — Rio **1992**, not 1995.
 
 **Ans: C.** (A) is true; (R) is false because **Agenda 21 was adopted at Rio 1992**.
 
-**Trap:** Accepting **1995** as the Agenda 21 year.
+**Trap:** Accepting **1995** as the Agenda 21 year.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Agenda-21 of the Rio Summit (1992) is related to:
-
-A. Sustainable Development
-
-B. Polluter Pays Principle
-
-C. Environmental Education
-
-D. Ozone Layer Protection
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Agenda 21 is Rio's non-binding action plan for sustainable development in the 21st century.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Agenda-21 of the Rio Summit (1992) is related to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sustainable Development</div><div class="pyq-opt"><span class="opt-letter">B</span> Polluter Pays Principle</div><div class="pyq-opt"><span class="opt-letter">C</span> Environmental Education</div><div class="pyq-opt"><span class="opt-letter">D</span> Ozone Layer Protection</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Agenda 21 is Rio's non-binding action plan for sustainable development in the 21st century.
 
 **Ans: A.** **Agenda 21** addresses **sustainable development**.
 
-**Trap:** Ozone layer (Montreal) or Polluter Pays (domestic principle) distractors.
+**Trap:** Ozone layer (Montreal) or Polluter Pays (domestic principle) distractors.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-Assertion (A): Sustainable development was popularised by the Brundtland Report.
-
-Reason (R): The Brundtland Report is also known as *The Limits to Growth*.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. Both (A) and (R) are true and (R) explains (A)
-
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** (A) is true — Brundtland (1987) defined SD. (R) is false — *Limits to Growth* is Club of Rome **1972**.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Sustainable development was popularised by the Brundtland Report.<br><br>Reason (R): The Brundtland Report is also known as *The Limits to Growth*.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (A) and (R) are true and (R) explains (A)</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is true, but (R) is false</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** (A) is true — Brundtland (1987) defined SD. (R) is false — *Limits to Growth* is Club of Rome **1972**.
 
 **Ans: D.** Brundtland = ***Our Common Future* (1987)**; not *Limits to Growth*.
 
-**Trap:** Treating Brundtland and Club of Rome as the same report.
+**Trap:** Treating Brundtland and Club of Rome as the same report.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel
-2. Samaspur Bird Sanctuary
-3. Rudrasagar Lake
-4. Sultanpur National Park
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP Ramsar geography — Rudrasagar and Sultanpur sound plausible but lie outside UP.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?<br><br>1. Sarsai Nawar Jheel<br>2. Samaspur Bird Sanctuary<br>3. Rudrasagar Lake<br>4. Sultanpur National Park</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP Ramsar geography — Rudrasagar and Sultanpur sound plausible but lie outside UP.
 
 **Ans: B.** **Rudrasagar Lake** is in **Tripura**; **Sultanpur** is in **Haryana**.
 
-**Trap:** Assuming every bird sanctuary name in the list belongs to UP.
+**Trap:** Assuming every bird sanctuary name in the list belongs to UP.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-With reference to the Global Environment Facility (GEF), consider the following statements:
-
-1. GEF was established in 1991.
-2. Only developed countries are donors to GEF.
-
-A. Neither 1 nor 2
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** GEF 1991 fact is standard; donor base is broader than developed-only.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the Global Environment Facility (GEF), consider the following statements:<br><br>1. GEF was established in 1991.<br>2. Only developed countries are donors to GEF.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** GEF 1991 fact is standard; donor base is broader than developed-only.
 
 **Ans: D (Only 1).** **GEF was established in 1991**; statement 2 is false.
 
-**Trap:** Rejecting 1991 or accepting "developed-only donors."
+**Trap:** Rejecting 1991 or accepting "developed-only donors."</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-Which of the following pairs is **NOT** correctly matched?
-
-A. Montreal Protocol — ozone-depleting substances
-
-B. Kyoto Protocol — climate change mitigation
-
-C. Montreal Protocol — climate change mitigation
-
-D. Paris Agreement — nationally determined contributions
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Montreal = ozone/ODS phase-out; UNFCCC–Kyoto–Paris = climate framework.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Montreal Protocol — ozone-depleting substances</div><div class="pyq-opt"><span class="opt-letter">B</span> Kyoto Protocol — climate change mitigation</div><div class="pyq-opt"><span class="opt-letter">C</span> Montreal Protocol — climate change mitigation</div><div class="pyq-opt"><span class="opt-letter">D</span> Paris Agreement — nationally determined contributions</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Montreal = ozone/ODS phase-out; UNFCCC–Kyoto–Paris = climate framework.
 
 **Ans: C.** **Montreal Protocol does not mitigate climate change** — it protects the ozone layer.
 
-**Trap:** "Montreal = climate treaty" — the single most tested treaty confusion.
+**Trap:** "Montreal = climate treaty" — the single most tested treaty confusion.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-Which statement is correct?
-
-A. CITES (1973) regulates international trade in endangered species; CMS (1979) protects migratory species and flyways.
-
-B. CITES protects migratory flyways; CMS bans all wildlife trade.
-
-C. Both CITES and CMS were opened for signature at Rio 1992.
-
-D. CITES assesses extinction risk; CMS issues Red List categories.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CITES = trade permits; CMS = migration/habitat — separate 1970s treaties, not Rio products.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which statement is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> CITES (1973) regulates international trade in endangered species; CMS (1979) protects migratory species and flyways.</div><div class="pyq-opt"><span class="opt-letter">B</span> CITES protects migratory flyways; CMS bans all wildlife trade.</div><div class="pyq-opt"><span class="opt-letter">C</span> Both CITES and CMS were opened for signature at Rio 1992.</div><div class="pyq-opt"><span class="opt-letter">D</span> CITES assesses extinction risk; CMS issues Red List categories.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** CITES = trade permits; CMS = migration/habitat — separate 1970s treaties, not Rio products.
 
 **Ans: A.** **CITES regulates trade**; **CMS protects migration routes**.
 
-**Trap:** Rio 1992 origin for CITES (CITES is **1973**, pre-Rio).
+**Trap:** Rio 1992 origin for CITES (CITES is **1973**, pre-Rio).</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-The headquarters of the United Nations Environment Programme (UNEP) is located at:
-
-A. Geneva, Switzerland
-
-B. New York, USA
-
-C. Nairobi, Kenya
-
-D. Bonn, Germany
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** HQ matching — UNEP Nairobi; UNDP New York; IPCC Geneva; UNFCCC Bonn.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">The headquarters of the United Nations Environment Programme (UNEP) is located at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Geneva, Switzerland</div><div class="pyq-opt"><span class="opt-letter">B</span> New York, USA</div><div class="pyq-opt"><span class="opt-letter">C</span> Nairobi, Kenya</div><div class="pyq-opt"><span class="opt-letter">D</span> Bonn, Germany</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** HQ matching — UNEP Nairobi; UNDP New York; IPCC Geneva; UNFCCC Bonn.
 
 **Ans: C.** **UNEP headquarters is in Nairobi**.
 
-**Trap:** **Geneva** (IPCC) or **New York** (UNDP).
+**Trap:** **Geneva** (IPCC) or **New York** (UNDP).</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.**
-
-The Rio Earth Summit (1992) directly produced which of the following?
-
-A. UNFCCC, CBD, and Agenda 21
-
-B. CITES, Ramsar Convention, and Stockholm Declaration
-
-C. Kyoto Protocol, Paris Agreement, and SDGs
-
-D. Montreal Protocol, Vienna Convention, and Minamata Convention
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rio "triple outcome" — climate framework, biodiversity convention, and Agenda 21 action plan.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The Rio Earth Summit (1992) directly produced which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> UNFCCC, CBD, and Agenda 21</div><div class="pyq-opt"><span class="opt-letter">B</span> CITES, Ramsar Convention, and Stockholm Declaration</div><div class="pyq-opt"><span class="opt-letter">C</span> Kyoto Protocol, Paris Agreement, and SDGs</div><div class="pyq-opt"><span class="opt-letter">D</span> Montreal Protocol, Vienna Convention, and Minamata Convention</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rio "triple outcome" — climate framework, biodiversity convention, and Agenda 21 action plan.
 
 **Ans: A.** Rio **1992** opened **UNFCCC** and **CBD** and adopted **Agenda 21**.
 
-**Trap:** CITES (**1973**) or Kyoto (**1997**) as Rio products.
+**Trap:** CITES (**1973**) or Kyoto (**1997**) as Rio products.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the conference spine:<br><br>Stockholm → Brundtland → Rio → Johannesburg → Rio+20 → SDGs/Paris</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1987-1972-1992-2012-2002-2015</div><div class="pyq-opt"><span class="opt-letter">B</span> 1972-1987-1992-2002-2012-2015</div><div class="pyq-opt"><span class="opt-letter">C</span> 1992-1972-1987-2002-2015-2012</div><div class="pyq-opt"><span class="opt-letter">D</span> 1972-1992-1987-2012-2002-2015</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1972→1987→1992→2002→2012→2015.
 
-**Q11.** Arrange the conference spine:
+**Logic:** Full conference ladder.</div>
+  </div>
+</div>
 
-Stockholm → Brundtland → Rio → Johannesburg → Rio+20 → SDGs/Paris
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Stockholm 1972, which of the following statements is/are correct?<br><br>1. Stockholm 1972 was the first UN climate COP under UNFCCC.<br>2. Led to UNEP at Nairobi.<br>3. World Environment Day is observed on 22 April.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
 
-A. 1987-1972-1992-2012-2002-2015
-B. 1972-1987-1992-2002-2012-2015
-C. 1992-1972-1987-2002-2015-2012
-D. 1972-1992-1987-2012-2002-2015
+**Logic:** Statement 2 is true (UNEP, Nairobi). Statement 1 confuses Stockholm/Human Environment with UNFCCC COPs. Statement 3 is false — World Environment Day is 5 June.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Brundtland 1987 — Our Common Future<br>2. Limits to Growth 1972 — Club of Rome<br>3. Brundtland — identical to Limits to Growth</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only pair 3 is not correctly matched.
 
-**Ans: B.** 1972→1987→1992→2002→2012→2015.
+**Logic:** Different books/years.</div>
+  </div>
+</div>
 
-**Logic:** Full conference ladder.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Rio 1992 produced Agenda 21 and opened UNFCCC and CBD for signature.<br><br>Reason (R): CITES is a Rio 1992 product identical to Agenda 21.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true, R false.
 
-</details>
+**A/R logic:** CITES is 1973 Washington — not a Rio product.</div>
+  </div>
+</div>
 
-**Q12.** With reference to Stockholm 1972, which of the following statements is/are correct?
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Match issue tags:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Montreal/Vienna</td><td><span class="match-key">1</span> Wetlands</td></tr>
+      <tr><td><span class="match-key">B</span> Kyoto/Paris/UNFCCC</td><td><span class="match-key">2</span> Ozone</td></tr>
+      <tr><td><span class="match-key">C</span> Ramsar</td><td><span class="match-key">3</span> Climate</td></tr>
+      <tr><td><span class="match-key">D</span> CITES</td><td><span class="match-key">4</span> Wildlife trade</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-2, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-3, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-3, C-1, D-4.
 
-1. Stockholm 1972 was the first UN climate COP under UNFCCC.
-2. Led to UNEP at Nairobi.
-3. World Environment Day is observed on 22 April.
-
-A. Only 2
-B. Only 1
-C. 1 and 2
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Statement 2 is true (UNEP, Nairobi). Statement 1 confuses Stockholm/Human Environment with UNFCCC COPs. Statement 3 is false — World Environment Day is 5 June.
-
-</details>
-
-**Q13.** Which of the following pairs is/are NOT correctly matched?
-
-1. Brundtland 1987 — Our Common Future
-2. Limits to Growth 1972 — Club of Rome
-3. Brundtland — identical to Limits to Growth
-
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only pair 3 is not correctly matched.
-
-**Logic:** Different books/years.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Rio 1992 produced Agenda 21 and opened UNFCCC and CBD for signature.
-
-Reason (R): CITES is a Rio 1992 product identical to Agenda 21.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true, R false.
-
-**A/R logic:** CITES is 1973 Washington — not a Rio product.
-
-</details>
-
-**Q15.** Match issue tags:
-
-| List-I | List-II |
-|--------|--------|
-| A. Montreal/Vienna | 1. Wetlands |
-| B. Kyoto/Paris/UNFCCC | 2. Ozone |
-| C. Ramsar | 3. Climate |
-| D. CITES | 4. Wildlife trade |
-
-Code:
-
-A. A-2, B-3, C-1, D-4
-B. A-3, B-2, C-1, D-4
-C. A-2, B-1, C-3, D-4
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** A-2, B-3, C-1, D-4.
-
-**Logic:** Ozone/climate/wetlands/trade.
-
-</details>
+**Logic:** Ozone/climate/wetlands/trade.</div>
+  </div>
+</div>

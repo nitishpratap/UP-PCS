@@ -157,21 +157,6 @@ hide:
 | **Acharya J. C. Bose** | Plant Physiology & Physics| Invented the **Crescograph** (measures plant growth); pioneered **millimetre-wave microwave radio optics** | Fellow of the Royal Society; Knight Bachelor |
 | **Srinivasa Ramanujan** | Pure Mathematics | Highly original contributions to analytical number theory, mock theta functions, partition formulas, infinite series | FRS; 22 December = **National Mathematics Day** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Ballistic Missile** | **Cruise Missile** | **Ballistic missiles (Agni, Prithvi)** follow a high parabolic sub-orbital trajectory driven by rocket propulsion in initial phase, leaving atmosphere before re-entering under gravity. **Cruise missiles (BrahMos, Nirbhay)** fly aerodynamic terrain-hugging flight within atmosphere powered continuously by jet engines. | बैलिस्टिक = परवलयाकार प्रक्षेप्य पथ (वायुमंडल से बाहर); क्रूज = वायुमंडल के भीतर जेट चालित |
-| **PSLV Architecture** | **GSLV Architecture** | **PSLV has 4 stages** alternating **Solid - Liquid - Solid - Liquid** ($S-L-S-L$). **GSLV has 3 stages**: Solid core + Liquid strap-ons, Liquid 2nd stage, and **Cryogenic upper stage (CE-7.5)**. | पीएसएलवी = 4 चरण (ठोस-द्रव-ठोस-द्रव); जीएसएलवी = 3 चरण (क्रायोजेनिक अंतिम चरण) |
-| **Chandrayaan-1 Discovery** | **Chandrayaan-3 Landing** | **Chandrayaan-1 (2008)** was an orbiter that discovered **water molecules on the Moon**. **Chandrayaan-3 (2023)** achieved the world's **first soft landing near the lunar South Pole**. | चंद्रयान-1 = चंद्रमा पर जल के अणुओं की खोज; चंद्रयान-3 = दक्षिणी ध्रुव पर ऐतिहासिक सॉफ्ट लैंडिंग |
-| **Raman Effect** | **Photoelectric Effect** | **Raman Effect** is the **inelastic scattering of photons** by transparent molecular substances (frequency changes). **Photoelectric Effect** is the ejection of electrons from a metal surface when irradiated with threshold frequency photons. | रामन प्रभाव = प्रकाश का अप्रत्यास्थ प्रकीर्णन; प्रकाश विद्युत प्रभाव = धातु से इलेक्ट्रॉनों का उत्सर्जन |
-| **Einstein's Nobel Prize** | **Theory of Relativity Myth** | Einstein was awarded the 1921 Nobel Prize in Physics strictly for his **discovery of the law of the Photoelectric Effect**, NOT for his Special or General Theory of Relativity! | आइंस्टीन को नोबेल पुरस्कार प्रकाश-विद्युत प्रभाव की व्याख्या हेतु मिला, सापेक्षता के सिद्धांत हेतु नहीं |
-| **Agni-V Range & Class** | **Agni-IV Range** | **Agni-V is an ICBM** with a range exceeding **$5,000	ext{ km}$** (equipped with MIRV in Mission Divyastra). **Agni-IV is an IRBM** with a range of $3,500–4,000	ext{ km}$. | अग्नि-V = अंतरमहाद्वीपीय बैलिस्टिक मिसाइल (ICBM, $>5000	ext{ km}$); अग्नि-IV = IRBM |
-| **BrahMos Missile Type** | **BrahMos Origin** | BrahMos is a **Supersonic Cruise Missile** (Mach 2.8–3.0) developed jointly by DRDO (India) and NPO Mashinostroyeniya (Russia); named after rivers **Brahmaputra and Moskva**. | ब्रह्मोस = सुपरसोनिक क्रूज मिसाइल (भारत-रूस संयुक्त उपक्रम) |
-| **National Science Day** | **National Space Day** | **National Science Day is celebrated on 28 February** (discovery of Raman Effect in 1928). **National Space Day is celebrated on 23 August** (safe landing of Chandrayaan-3 on Moon in 2023). | राष्ट्रीय विज्ञान दिवस = 28 फरवरी; राष्ट्रीय अंतरिक्ष दिवस = 23 अगस्त |
-| **INS Vikrant (IAC-1)** | **INS Vikramaditya** | **INS Vikrant is India's first INDIGENOUS Aircraft Carrier (IAC-1)** built by Cochin Shipyard. **INS Vikramaditya is a modified Russian Kiev-class aircraft carrier** (*Admiral Gorshkov*) inducted in 2013. | आईएनएस विक्रांत = प्रथम स्वदेशी विमानवाहक पोत; विक्रमादित्य = रूस से आयातित पोत |
-| **Lagrange Point L1** | **Geostationary Orbit** | Lagrange Point L1 is a gravitationally stable point in space **$1.5	ext{ million km}$ from Earth** toward the Sun where Aditya-L1 is parked. Geostationary orbit is only **$35,786	ext{ km}$** above Earth's equator. | लैंग्रेंज बिंदु L1 = पृथ्वी से 15 लाख किमी दूर; भू-स्थैतिक कक्षा = 35,786 किमी |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. DRDO IGMDP Missile Family: **P-A-T-N-A**
@@ -192,235 +177,232 @@ hide:
 - **11 May**: **National Technology Day** (Pokhran-II nuclear tests, 1998).
 - **23 August**: **National Space Day** (Chandrayaan-3 lands on lunar South Pole, 2023).
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1. (Consider the following statements regarding Mission 'Divyastra' conducted by DRDO in March 2024:)**
-1. It was the first flight test of the Agni-V missile equipped with Multiple Independently Targetable Re-entry Vehicle (MIRV) technology.
-2. The test was conducted from Dr. APJ Abdul Kalam Island off the coast of Odisha.
-3. MIRV technology allows a single missile to deliver multiple warheads to distinct target locations.
-Which of the statements given above are correct?
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 and 3 only
-- (D) 1, 2 and 3
-<details>
-<summary>Show answer</summary>
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-**Logic:** Mission Divyastra on 11 March 2024 marked India's successful maiden flight test of the indigenously developed Agni-V missile with MIRV capability, placing India among an elite group of nations possessing this strategic…
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">1. It was the first flight test of the Agni-V missile equipped with Multiple Independently Targetable Re-entry Vehicle (MIRV) technology.<br>2. The test was conducted from Dr. APJ Abdul Kalam Island off the coast of Odisha.<br>3. MIRV technology allows a single missile to deliver multiple warheads to distinct target locations.<br>Which of the statements given above are correct?<br>- (A) 1 and 2 only<br>- (B) 2 and 3 only<br>- (C) 1 and 3 only<br>- (D) 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Mission Divyastra on 11 March 2024 marked India's successful maiden flight test of the indigenously developed Agni-V missile with MIRV capability, placing India among an elite group of nations possessing this strategic…
 
-**Ans: D.** 1, 2 and 3
-</details>
+**Ans: D.** 1, 2 and 3</div>
+  </div>
+</div>
 
-**Q2. (With reference to the 'Pralay' missile, consider the following statements:)**
-1. It is a solid-propellant surface-to-surface quasi-ballistic missile for battlefield tactical strike.
-2. It has an operational range of 150 to 500 km.
-3. In December 2025, India successfully conducted a salvo launch of two Pralay missiles off the Odisha coast.
-Which of the statements given above is/are correct?
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 and 3 only
-- (D) 1, 2 and 3
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">1. It is a solid-propellant surface-to-surface quasi-ballistic missile for battlefield tactical strike.<br>2. It has an operational range of 150 to 500 km.<br>3. In December 2025, India successfully conducted a salvo launch of two Pralay missiles off the Odisha coast.<br>Which of the statements given above is/are correct?<br>- (A) 1 and 2 only<br>- (B) 2 and 3 only<br>- (C) 1 and 3 only<br>- (D) 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Pralay is a canisterised, solid-fuel tactical quasi-ballistic missile developed by DRDO.
 
-**Logic:** Pralay is a canisterised, solid-fuel tactical quasi-ballistic missile developed by DRDO.
+**Ans: D.** 1, 2 and 3</div>
+  </div>
+</div>
 
-**Ans: D.** 1, 2 and 3
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">- (A) It is a joint venture between India's DRDO and Russia's NPO Mashinostroyeniya.<br>- (B) It operates on a two-stage propulsion system with a solid booster and a liquid ramjet engine.<br>- (C) In April 2024, India delivered the first export batch of BrahMos missiles to Vietnam.<br>- (D) It travels at a speed of Mach 2.8 to 3.0.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement (C) is incorrect because the first export customer for BrahMos was the Philippines (under a $375-million contract signed in 2022).
 
-**Q3. (Which of the following statements about the BrahMos supersonic cruise missile is NOT correct?)**
-- (A) It is a joint venture between India's DRDO and Russia's NPO Mashinostroyeniya.
-- (B) It operates on a two-stage propulsion system with a solid booster and a liquid ramjet engine.
-- (C) In April 2024, India delivered the first export batch of BrahMos missiles to Vietnam.
-- (D) It travels at a speed of Mach 2.8 to 3.0.
-<details>
-<summary>Show answer</summary>
+**Ans: C.** In April 2024, India delivered the first export batch of BrahMos missiles to Vietnam</div>
+  </div>
+</div>
 
-**Logic:** Statement (C) is incorrect because the first export customer for BrahMos was the Philippines (under a $375-million contract signed in 2022).
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">1. It is an informal political understanding among member states to limit the proliferation of missiles and unmanned delivery systems capable of carrying WMDs.<br>2. It places particular focus on rockets and UAVs capable of delivering a payload of at least 500 kg to a range of at least 300 km.<br>3. India became a member of the MTCR in 2016.<br>Which of the statements given above are correct?<br>- (A) 1 and 2 only<br>- (B) 2 and 3 only<br>- (C) 1 and 3 only<br>- (D) 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** MTCR was formed in 1987 by the G-7.
 
-**Ans: C.** In April 2024, India delivered the first export batch of BrahMos missiles to Vietnam
-</details>
+**Ans: D.** 1, 2 and 3</div>
+  </div>
+</div>
 
-**Q4. (With reference to the Missile Technology Control Regime (MTCR), consider the following statements:)**
-1. It is an informal political understanding among member states to limit the proliferation of missiles and unmanned delivery systems capable of carrying WMDs.
-2. It places particular focus on rockets and UAVs capable of delivering a payload of at least 500 kg to a range of at least 300 km.
-3. India became a member of the MTCR in 2016.
-Which of the statements given above are correct?
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 and 3 only
-- (D) 1, 2 and 3
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">1. Surya Kiran : Nepal<br>2. Yudh Abhyas : USA<br>3. Khanjar : Kyrgyzstan<br>4. Mitra Shakti : Bangladesh<br>Which of the pairs given above are correctly matched?<br>- (A) 1, 2 and 3 only<br>- (B) 2, 3 and 4 only<br>- (C) 1, 3 and 4 only<br>- (D) 1, 2, 3 and 4</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Pair 4 is incorrectly matched because Mitra Shakti is conducted between India and Sri Lanka.
 
-**Logic:** MTCR was formed in 1987 by the G-7.
+**Ans: A.** 1, 2 and 3 only</div>
+  </div>
+</div>
 
-**Ans: D.** 1, 2 and 3
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">- (A) Finland<br>- (B) Sweden<br>- (C) Ukraine<br>- (D) North Macedonia</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Sweden.
 
-**Q5. (Consider the following pairs of joint military exercises and partner countries:)**
-1. Surya Kiran : Nepal
-2. Yudh Abhyas : USA
-3. Khanjar : Kyrgyzstan
-4. Mitra Shakti : Bangladesh
-Which of the pairs given above are correctly matched?
-- (A) 1, 2 and 3 only
-- (B) 2, 3 and 4 only
-- (C) 1, 3 and 4 only
-- (D) 1, 2, 3 and 4
-<details>
-<summary>Show answer</summary>
+**Ans: B.** Sweden</div>
+  </div>
+</div>
 
-**Logic:** Pair 4 is incorrectly matched because Mitra Shakti is conducted between India and Sri Lanka.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">- (A) USA and China<br>- (B) USA and Russia<br>- (C) Russia and China<br>- (D) USA and North Korea</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The New START treaty was signed in Prague in April 2010 by President Barack Obama and President Dmitry Medvedev, capping deployed strategic nuclear warheads at 1,550.
 
-**Ans: A.** 1, 2 and 3 only
-</details>
+**Ans: B.** USA and Russia</div>
+  </div>
+</div>
 
-**Q6. (Which country officially became the 32nd member of the North Atlantic Treaty Organization (NATO) in March 2024?)**
-- (A) Finland
-- (B) Sweden
-- (C) Ukraine
-- (D) North Macedonia
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">- (A) Max Planck<br>- (B) Niels Bohr<br>- (C) Albert Einstein<br>- (D) Louis de Broglie</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Albert Einstein was awarded the 1921 Nobel Prize in Physics specifically for his discovery of the law of the photoelectric effect, not for the theory of relativity.
 
-**Logic:** Standard key matches Sweden.
+**Ans: C.** Albert Einstein</div>
+  </div>
+</div>
 
-**Ans: B.** Sweden
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">- (A) Sir C.V. Raman<br>- (B) Meghnad Saha<br>- (C) Subrahmanyan Chandrasekhar<br>- (D) Satyendra Nath Bose</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Subrahmanyan Chandrasekhar.
 
-**Q7. (The 'New START' bilateral nuclear arms reduction treaty, which officially expired in February 2026, was signed between which two countries?)**
-- (A) USA and China
-- (B) USA and Russia
-- (C) Russia and China
-- (D) USA and North Korea
-<details>
-<summary>Show answer</summary>
+**Ans: C.** Subrahmanyan Chandrasekhar</div>
+  </div>
+</div>
 
-**Logic:** The New START treaty was signed in Prague in April 2010 by President Barack Obama and President Dmitry Medvedev, capping deployed strategic nuclear warheads at 1,550.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">- (A) Auli, Uttarakhand<br>- (B) Hanle, Ladakh<br>- (C) Mount Abu, Rajasthan<br>- (D) Kodaikanal, Tamil Nadu</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** MACE is located at Hanle, Ladakh at an altitude of $4,270\text{ m}$.
 
-**Ans: B.** USA and Russia
-</details>
+**Ans: B.** Hanle, Ladakh</div>
+  </div>
+</div>
 
-**Q8. (Who among the following won the 1921 Nobel Prize in Physics for the discovery of the Law of the Photoelectric Effect?)**
-- (A) Max Planck
-- (B) Niels Bohr
-- (C) Albert Einstein
-- (D) Louis de Broglie
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">(UPPCS Pre 2018)</span>
+  </div>
+  <div class="pyq-stem">The Raman Effect is related to the light rays passing through:<br>- (A) Only gases<br>- (B) Only liquids<br>- (C) Only diamonds<br>- (D) All transparent media</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (D) All transparent media
 
-**Logic:** Albert Einstein was awarded the 1921 Nobel Prize in Physics specifically for his discovery of the law of the photoelectric effect, not for the theory of relativity.
+**Ans: D.** All transparent media</div>
+  </div>
+</div>
 
-**Ans: C.** Albert Einstein
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">(UPPCS Pre 2018)</span>
+  </div>
+  <div class="pyq-stem">Who among the following Indian scientists invented the 'Crescograph', an instrument to measure the growth in plants?<br>- (A) P.C. Ray<br>- (B) J.C. Bose<br>- (C) C.V. Raman<br>- (D) Meghnad Saha</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches J.C.
 
-**Q9. (Which Indian physicist formulated the theoretical limit establishing that white dwarf stars with mass exceeding 1.44 times the solar mass must collapse into neutron stars or black holes?)**
-- (A) Sir C.V. Raman
-- (B) Meghnad Saha
-- (C) Subrahmanyan Chandrasekhar
-- (D) Satyendra Nath Bose
-<details>
-<summary>Show answer</summary>
+**Ans: B.** J.C.</div>
+  </div>
+</div>
 
-**Logic:** Standard key matches Subrahmanyan Chandrasekhar.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">(UPPCS Pre 2018)</span>
+  </div>
+  <div class="pyq-stem">National Science Day in India is celebrated on:<br>- (A) February 28<br>- (B) March 28<br>- (C) April 28<br>- (D) May 28</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) February 28
 
-**Ans: C.** Subrahmanyan Chandrasekhar
-</details>
+**Ans: A.** February 28</div>
+  </div>
+</div>
 
-**Q10. (The Major Atmospheric Cherenkov Experiment (MACE) Observatory, inaugurated in October 2024, is located at:)**
-- (A) Auli, Uttarakhand
-- (B) Hanle, Ladakh
-- (C) Mount Abu, Rajasthan
-- (D) Kodaikanal, Tamil Nadu
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">(UPPCS Pre 2021)</span>
+  </div>
+  <div class="pyq-stem">For which of the following scientific discoveries was Albert Einstein awarded the Nobel Prize in Physics?<br>- (A) Theory of Relativity<br>- (B) Law of Photoelectric Effect<br>- (C) Theory of Brownian Motion<br>- (D) Unified Field Theory</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (B) Law of Photoelectric Effect
 
-**Logic:** MACE is located at Hanle, Ladakh at an altitude of $4,270\text{ m}$.
+**Ans: B.** Law of Photoelectric Effect</div>
+  </div>
+</div>
 
-**Ans: B.** Hanle, Ladakh
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">(UPPCS Pre 2019)</span>
+  </div>
+  <div class="pyq-stem">Who among the following is recognized as the 'Father of the Indian Space Program'?<br>- (A) Dr. Homi J. Bhabha<br>- (B) Dr. Vikram Sarabhai<br>- (C) Dr. A.P.J. Abdul Kalam<br>- (D) Prof. Satish Dhawan</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Dr.
 
----
-
-**Q11. (UPPCS Pre 2018)**
-
-The Raman Effect is related to the light rays passing through:
-- (A) Only gases
-- (B) Only liquids
-- (C) Only diamonds
-- (D) All transparent media
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (D) All transparent media
-
-**Ans: D.** All transparent media
-</details>
-
-**Q12. (UPPCS Pre 2018)**
-
-Who among the following Indian scientists invented the 'Crescograph', an instrument to measure the growth in plants?
-- (A) P.C. Ray
-- (B) J.C. Bose
-- (C) C.V. Raman
-- (D) Meghnad Saha
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches J.C.
-
-**Ans: B.** J.C.
-</details>
-
-**Q13. (UPPCS Pre 2018)**
-
-National Science Day in India is celebrated on:
-- (A) February 28
-- (B) March 28
-- (C) April 28
-- (D) May 28
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) February 28
-
-**Ans: A.** February 28
-</details>
-
-**Q14. (UPPCS Pre 2021)**
-
-For which of the following scientific discoveries was Albert Einstein awarded the Nobel Prize in Physics?
-- (A) Theory of Relativity
-- (B) Law of Photoelectric Effect
-- (C) Theory of Brownian Motion
-- (D) Unified Field Theory
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (B) Law of Photoelectric Effect
-
-**Ans: B.** Law of Photoelectric Effect
-</details>
-
-**Q15. (UPPCS Pre 2019)**
-
-Who among the following is recognized as the 'Father of the Indian Space Program'?
-- (A) Dr. Homi J. Bhabha
-- (B) Dr. Vikram Sarabhai
-- (C) Dr. A.P.J. Abdul Kalam
-- (D) Prof. Satish Dhawan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Dr.
-
-**Ans: B.** Dr.
-</details>
+**Ans: B.** Dr.</div>
+  </div>
+</div>

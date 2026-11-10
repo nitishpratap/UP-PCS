@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 8 — Government Schemes, State Policies, State Symbols, Honors and Miscellaneous Facts</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2025** | **UP Annual Budget Milestone** — State budget crosses **₹7.36 Lakh Crore**, pacing the target of becoming a **$1 Trillion Economy by 2027** | Macroeconomic scale and state fiscal priorities |
-| **2023–2024** | **Ranipur Wildlife Sanctuary (Chitrakoot)** — Notified as UP's **4th Tiger Reserve** and India's **53rd Tiger Reserve** | Core wildlife conservation & protected areas |
-| **2023** | **Ganga Expressway Execution (594 km)** — 6-lane access-controlled expressway connecting Meerut to Prayagraj via 12 districts | Critical infrastructure & logistics corridor |
-| **2023** | **UP ODOP Global Integration** — State ODOP products onboarded to ONDC and international trade pavilions | Industrial promotion & district craft branding |
-| **2022** | **Bakhira Bird Sanctuary (Sant Kabir Nagar)** — Added as UP's **10th Ramsar Wetland** (Wetland of International Importance) | Environmental geography & wetland conservation |
-| **Rolling** | **District Administrative Realignment** — 75 Districts, 18 Divisions, 17 Municipal Corporations (Shahjahanpur 17th) | State administrative architecture baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Uttar Pradesh Diwas (UP Day)** is officially celebrated every year on **24 January**.
@@ -151,23 +140,6 @@ hide:
 | **First Access-Controlled Expressway** | Road Infrastructure | **Yamuna Expressway** | • 165-km 6-lane expressway connecting Greater Noida to Agra (operational 2012). |
 | **First UNESCO Intangible Cultural Heritage from UP** | Global Cultural Recognition | **Ramnagar Ramlila** (2008) & **Kumbh Mela** (2017) | • Inscribed on UNESCO's Representative List of Intangible Cultural Heritage of Humanity. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
-| :--- | :--- | :--- |
-| **State Flower of UP (Palash)** | **National Flower of India (Lotus)** | UP State Flower is **Palash (*Butea monosperma*)**; National Flower is **Lotus (*Nelumbo nucifera*)**. |
-| **State Bird of UP (Sarus Crane)** | **National Bird of India (Peacock)** | UP State Bird is **Sarus Crane**; National Bird is **Indian Peafowl / Peacock**. |
-| **State Animal of UP (Barasingha)** | **National Animal of India (Tiger)** | UP State Animal is **Swamp Deer (Barasingha)**; National Animal is **Royal Bengal Tiger**. |
-| **UP Day (24 January)** | **Uttarakhand Day (9 November)** | 24 January is **UP Statehood / Renaming Day (1950)**; 9 November is **carving of Uttarakhand (2000)**. |
-| **Kanya Sumangala (₹25,000)** | **Vivah Hetu Anudan (₹51,000)** | Kanya Sumangala provides **6-stage educational support**; Vivah Anudan is a **marriage grant** for poor daughters. |
-| **Nand Baba Milk Mission (2023)** | **Kamdhenu Dairy Yojana (2013)** | Nand Baba is the **current ₹1,000 Cr mission**; Kamdhenu is an **older pre-existing dairy scheme**. |
-| **Abhyudaya Yojana (Coaching)** | **Yuva Swarojgar (Entrepreneurship)** | Abhyudaya is **free civil service coaching**; Yuva Swarojgar is **margin subsidy for business loans**. |
-| **Laxman Award (Men Sports)** | **Rani Lakshmibai Award (Women Sports)** | Laxman Award is exclusively for **Male athletes**; Rani Lakshmibai is for **Female athletes**. |
-| **Bharat Bharti (Hindi Literature)** | **Yash Bharti / UP Gaurav Samman (All Fields)** | Bharat Bharti is a **Hindi literary award**; UP Gaurav Samman is a **general civilian state award**. |
-| **ODOP Scheme (Product Focus)** | **ODOC Scheme (Cuisine Focus)** | ODOP promotes **District Manufacturing Crafts**; ODOC promotes **District Traditional Foods & Cuisines**. |
-| **Nivesh Mitra (Single Window)** | **Nivesh Sarathi (MoU Monitoring)** | Nivesh Mitra is for **Statutory Approvals**; Nivesh Sarathi is for **tracking Investment MoUs**. |
-| **Peetal Nagari (Moradabad)** | **Taala Nagari (Aligarh)** | Moradabad is **Brassware**; Aligarh is **Locks & Hardware**. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **Official State Symbols of Uttar Pradesh**:
@@ -186,266 +158,275 @@ hide:
   - Varanasi: **City of Ghats / Cultural Capital of India / Moksha Nagari**
   - Malihabad (Lucknow): **Mango Capital (Dussehri)**.
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-**Q1.**
-As per ODOP of Uttar Pradesh, Moonj products are associated with:
-A. Amethi & Sultanpur
-B. Only Sant Kabir Nagar
-C. Only Varanasi
-D. Only Meerut
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">As per ODOP of Uttar Pradesh, Moonj products are associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Amethi & Sultanpur</div><div class="pyq-opt"><span class="opt-letter">B</span> Only Sant Kabir Nagar</div><div class="pyq-opt"><span class="opt-letter">C</span> Only Varanasi</div><div class="pyq-opt"><span class="opt-letter">D</span> Only Meerut</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Launch date 24 Jan 2018 — pair with scheme CA.
 
-<details>
-<summary>Show answer</summary>
+**Ans: A.** Amethi and Sultanpur.</div>
+  </div>
+</div>
 
-**Logic:** Launch date 24 Jan 2018 — pair with scheme CA.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">State Emblem of Uttar Pradesh features:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only Ashoka Chakra</div><div class="pyq-opt"><span class="opt-letter">B</span> Pair of fishes (matsya) with bow–arrow motif from Awadh legacy</div><div class="pyq-opt"><span class="opt-letter">C</span> Only tiger</div><div class="pyq-opt"><span class="opt-letter">D</span> Only lotus</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Don’t confuse with national Lion Capital.
 
-**Ans: A.** Amethi and Sultanpur.
+**Ans: B.** Twin fish emblem from Awadh heraldry.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">National Milk Day (26 Nov) commemorates:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> C.V. Raman</div><div class="pyq-opt"><span class="opt-letter">B</span> Verghese Kurien</div><div class="pyq-opt"><span class="opt-letter">C</span> M.S. Swaminathan</div><div class="pyq-opt"><span class="opt-letter">D</span> Homi Bhabha</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Also Constitution Day — twin observance trap.
 
-**Q2.**
-State Emblem of Uttar Pradesh features:
-A. Only Ashoka Chakra
-B. Pair of fishes (matsya) with bow–arrow motif from Awadh legacy
-C. Only tiger
-D. Only lotus
+**Ans: B.** Verghese Kurien (White Revolution).</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">To obtain full benefits of demographic dividend, what should India do?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Promoting skill development</div><div class="pyq-opt"><span class="opt-letter">B</span> Introducing more social security schemes</div><div class="pyq-opt"><span class="opt-letter">C</span> Reducing infant mortality rate</div><div class="pyq-opt"><span class="opt-letter">D</span> Privatization of higher education</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Scheme–skilling link for miscellaneous Extra Drill.
 
-**Logic:** Don’t confuse with national Lion Capital.
+**Ans: A.** Promoting skill development.</div>
+  </div>
+</div>
 
-**Ans: B.** Twin fish emblem from Awadh heraldry.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The 'Kashi Vishwanath Corridor' in Varanasi was inaugurated in which year?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2019</div><div class="pyq-opt"><span class="opt-letter">B</span> 2020</div><div class="pyq-opt"><span class="opt-letter">C</span> 2021</div><div class="pyq-opt"><span class="opt-letter">D</span> 2022</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 2021.
 
-</details>
+**Ans: C.** 2021</div>
+  </div>
+</div>
 
-**Q3.**
-National Milk Day (26 Nov) commemorates:
-A. C.V. Raman
-B. Verghese Kurien
-C. M.S. Swaminathan
-D. Homi Bhabha
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The 'UP Defence Industrial Corridor' has been set up along which two major route alignments?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Lucknow-Agra and Jhansi-Aligarh</div><div class="pyq-opt"><span class="opt-letter">B</span> Varanasi-Kanpur and Meerut-Agra</div><div class="pyq-opt"><span class="opt-letter">C</span> Allahabad-Lucknow and Gorakhpur-Noida</div><div class="pyq-opt"><span class="opt-letter">D</span> Mathura-Aligarh and Jhansi-Kanpur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The UP Defence Corridor runs along two sub-corridors: **(1) Lucknow-Agra** (via Unnao, Kanpur) and **(2) Jhansi-Aligarh** (via Agra, Mathura).
 
-<details>
-<summary>Show answer</summary>
+**Ans: A.** Lucknow-Agra and Jhansi-Aligarh.</div>
+  </div>
+</div>
 
-**Logic:** Also Constitution Day — twin observance trap.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which city in Uttar Pradesh has been selected for the development of the Jewar International Airport (Noida International Airport)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Lucknow</div><div class="pyq-opt"><span class="opt-letter">B</span> Gautam Buddha Nagar (Jewar)</div><div class="pyq-opt"><span class="opt-letter">C</span> Ghaziabad</div><div class="pyq-opt"><span class="opt-letter">D</span> Meerut</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** **Jewar Airport** (officially Noida International Airport) is being developed at Jewar in **Gautam Buddha Nagar** district.
 
-**Ans: B.** Verghese Kurien (White Revolution).
+**Ans: B.** Gautam Buddha Nagar.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">'Global Investors Summit (GIS) 2023' held in Lucknow saw MoU investments totalling approximately:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rs 10 lakh crore</div><div class="pyq-opt"><span class="opt-letter">B</span> Rs 20 lakh crore</div><div class="pyq-opt"><span class="opt-letter">C</span> Rs 33.5 lakh crore</div><div class="pyq-opt"><span class="opt-letter">D</span> Rs 50 lakh crore</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The UP Global Investors Summit (February 2023) held in Lucknow received MoU pledges worth **Rs 33.5 lakh crore** (approx USD 400 billion), the largest such summit in UP history.
 
-**Q4.**
-To obtain full benefits of demographic dividend, what should India do?
-A. Promoting skill development
-B. Introducing more social security schemes
-C. Reducing infant mortality rate
-D. Privatization of higher education
+**Ans: C.** Rs 33.5 lakh crore.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Scheme–skilling link for miscellaneous Extra Drill.
-
-**Ans: A.** Promoting skill development.
-
-</details>
-
-**Q5.**
-The 'Kashi Vishwanath Corridor' in Varanasi was inaugurated in which year?
-A. 2019
-B. 2020
-C. 2021
-D. 2022
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 2021.
-
-**Ans: C.** 2021
-</details>
-
-**Q6.**
-The 'UP Defence Industrial Corridor' has been set up along which two major route alignments?
-A. Lucknow-Agra and Jhansi-Aligarh
-B. Varanasi-Kanpur and Meerut-Agra
-C. Allahabad-Lucknow and Gorakhpur-Noida
-D. Mathura-Aligarh and Jhansi-Kanpur
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The UP Defence Corridor runs along two sub-corridors: **(1) Lucknow-Agra** (via Unnao, Kanpur) and **(2) Jhansi-Aligarh** (via Agra, Mathura).
-
-**Ans: A.** Lucknow-Agra and Jhansi-Aligarh.
-
-</details>
-
-**Q7.**
-Which city in Uttar Pradesh has been selected for the development of the Jewar International Airport (Noida International Airport)?
-A. Lucknow
-B. Gautam Buddha Nagar (Jewar)
-C. Ghaziabad
-D. Meerut
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** **Jewar Airport** (officially Noida International Airport) is being developed at Jewar in **Gautam Buddha Nagar** district.
-
-**Ans: B.** Gautam Buddha Nagar.
-
-</details>
-
-**Q8.**
-'Global Investors Summit (GIS) 2023' held in Lucknow saw MoU investments totalling approximately:
-A. Rs 10 lakh crore
-B. Rs 20 lakh crore
-C. Rs 33.5 lakh crore
-D. Rs 50 lakh crore
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The UP Global Investors Summit (February 2023) held in Lucknow received MoU pledges worth **Rs 33.5 lakh crore** (approx USD 400 billion), the largest such summit in UP history.
-
-**Ans: C.** Rs 33.5 lakh crore.
-
-</details>
-
-**Q9.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Uttar Pradesh Diwas (UP Day) is officially celebrated every year on 24 January.
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Uttar Pradesh Diwas (UP Day) is officially celebrated every year on 24 January.</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Uttar Pradesh Diwas (UP Day)** is officially celebrated every year on **24 January**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q10.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Palash applies only to union territories and not state jurisdictions.
-B. Palash was officially declared as the State Flower on 4 January 2011, replacing Brahmakamal.
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Palash applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Palash was officially declared as the State Flower on 4 January 2011, replacing Brahmakamal.</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Recognized by UNESCO under World Heritage natural criteria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Palash** was officially declared as the State Flower on **4 January 2011**, replacing Brahmakamal.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q11.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Kamdhenu applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Kamdhenu Dairy Yojana is an older standalone scheme and is NOT a component of the current Nand Baba Milk Mission.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Kamdhenu applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> Kamdhenu Dairy Yojana is an older standalone scheme and is NOT a component of the current Nand Baba Milk Mission.</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Kamdhenu Dairy Yojana** is an older standalone scheme and is **NOT** a component of the current Nand Baba Milk Mission.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q12.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Mission applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Mission Shakti was launched during Shardiya Navratri in October 2020 to ensure women's security, dignity, and self-reliance.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Mission applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Enacted under Article 356 of the Constitution of India</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Mission Shakti was launched during Shardiya Navratri in October 2020 to ensure women's security, dignity, and self-reliance.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Mission Shakti** was launched during Shardiya Navratri in **October 2020** to ensure women's security, dignity, and self-reliance.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q13.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Nivesh Mitra is Uttar Pradesh's flagship digital single-window portal for industrial clearances and investor facilitation.
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nivesh Mitra is Uttar Pradesh's flagship digital single-window portal for industrial clearances and investor facilitation.</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Nivesh Mitra** is Uttar Pradesh's flagship digital single-window portal for industrial clearances and investor facilitation.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q14.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Smt. applies only to union territories and not state jurisdictions.
-B. Smt. Sarojini Naidu was the First Woman Governor of Uttar Pradesh and in India (1947–1949).
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Smt. applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Smt. Sarojini Naidu was the First Woman Governor of Uttar Pradesh and in India (1947–1949).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Excavated primarily in the Belan and Son River valleys</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Smt. Sarojini Naidu** was the **First Woman Governor** of Uttar Pradesh and in India (1947–1949).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q15.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Pandit applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Pandit Govind Ballabh Pant was the First Chief Minister of Uttar Pradesh (1950–1954).
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Pandit applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Excavated primarily in the Belan and Son River valleys</div><div class="pyq-opt"><span class="opt-letter">C</span> Pandit Govind Ballabh Pant was the First Chief Minister of Uttar Pradesh (1950–1954).</div><div class="pyq-opt"><span class="opt-letter">D</span> Classified under Schedule VII List II (State List)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Pandit Govind Ballabh Pant** was the **First Chief Minister** of Uttar Pradesh (1950–1954).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>

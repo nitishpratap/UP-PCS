@@ -172,25 +172,6 @@ hide:
 | **Foreign Exchange Reserves Composition** | Foreign Currency Assets (FCA) + Gold + Special Drawing Rights (SDRs) + Reserve Tranche Position (RTP). |
 | **India's Foreign Trade Policy (FTP 2023)** | Adopted by DGFT; targets **USD 2 trillion in total exports by 2030** through remission and facilitation. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Core Conceptual Distinction |
-|---|---|---|
-| **Balance of Trade (BoT)** | **Balance of Payments (BoP)** | BoT tracks merchandise trade in physical goods only; BoP is a complete record of all external transactions across goods, services, income, transfers, and capital flows. |
-| **Trade Deficit** | **Current Account Deficit (CAD)** | Trade deficit measures the net shortfall in visible goods exports; CAD measures the net balance across visible trade, services, primary income, and private transfers combined. |
-| **Current Account** | **Capital Account** | Current Account records ongoing consumption and income flows (goods, services, remittances); Capital Account records asset transfers and financial liabilities (FDI, FPI, loans). |
-| **Foreign Direct Investment (FDI)** | **Foreign Portfolio Investment (FPI)** | FDI entails long-term equity investment accompanied by active managerial control (≥10% equity); FPI represents passive financial holdings in equity/debt markets without management control. |
-| **Currency Depreciation / Appreciation** | **Currency Devaluation / Revaluation** | Depreciation and appreciation occur through market supply and demand forces under a floating regime; devaluation and revaluation represent deliberate administrative adjustments under a fixed regime. |
-| **Floating / Flexible Exchange Rate** | **Fixed / Pegged Exchange Rate** | Floating rates fluctuate continuously based on market supply and demand; fixed rates are legally pegged to an anchor currency and defended through central bank interventions. |
-| **FERA (1973)** | **FEMA (1999)** | FERA was a restrictive, criminal statute focused on conserving scarce foreign exchange; FEMA is a trade-facilitating civil statute governing orderly foreign exchange management. |
-| **FEMA Enactment Date (1999)** | **FEMA Enforcement Date (1 June 2000)** | FEMA received Presidential assent as Act 42 of 1999; the statute officially took legal effect and was operationalized on 1 June 2000. |
-| **Tariff Barriers** | **Non-Tariff Barriers (NTBs)** | Tariffs are direct ad-valorem or specific border customs duties; NTBs are non-tax regulatory hurdles including import quotas, import licenses, and technical standards. |
-| **WTO Permanent Headquarters (Geneva)** | **Ministerial Conference Venues (Rotating)** | The WTO Secretariat is permanently stationed in Geneva, Switzerland; Ministerial Conferences are hosted in rotating member states (e.g., MC-13 in Abu Dhabi 2024; MC-14 in Cameroon 2026). |
-| **WTO MC-13 (Abu Dhabi, UAE, 2024)** | **WTO MC-14 (Yaoundé, Cameroon, 2026)** | MC-13 was hosted in Abu Dhabi (Feb–Mar 2024); MC-14 was officially awarded to Cameroon to be hosted in 2026 as the 2nd African host nation after Kenya (2015). |
-| **First African WTO Ministerial (MC-10, 2015)** | **Second African WTO Ministerial (MC-14, 2026)** | MC-10 was hosted in Nairobi, Kenya (2015); MC-14 was designated for Yaoundé, Cameroon (2026) at the Abu Dhabi summit. |
-| **Private Inward Remittances** | **Foreign Direct Investment (FDI)** | Remittances are unrequited secondary income transfers on the Current Account; FDI represents foreign capital equity investments recorded on the Capital Account. |
-| **Nominal Effective Exchange Rate (NEER)** | **Real Effective Exchange Rate (REER)** | NEER measures the trade-weighted nominal value against partner currencies; REER adjusts NEER for inflation rate differentials, serving as the true measure of external competitiveness. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### Key Mnemonics & Cognitive Hooks
@@ -208,283 +189,274 @@ hide:
   - **FERA (1973):** Presumption of guilt; criminal law; penal imprisonment.
   - **FEMA (1999):** Civil law; compoundable monetary penalties; imprisonment only for willful default of fines.
 
-## 🎯 High-Yield PYQ Drill (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Which of the following is included in the current account of the Balance of Payments?
-
-A. Foreign Direct Investment
-B. External Commercial Borrowings
-C. Export and import of goods
-D. IMF loans
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Export and import of goods.
-
-**Ans: C.** Goods trade = current; FDI / ECB / IMF loans = capital / financial.
-
-</details>
-
-**Q2.**
-
-Assertion (A): The value of national currency determined by demand and supply of foreign currency is called flexible exchange rate.
-
-Reason (R): Demand and supply of the foreign currency is being determined by the Central Bank.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).
-B. (A) is false, but (R) is true.
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-D. (A) is true, but (R) is false.
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** is true, but (R) is false
-
-**Ans: D.** (A) is true, but (R) is false
-</details>
-
-**Q3.**
-
-| List-I (Country) | List-II (Rank) |
-|---|---|
-| A. Mexico | 1. First |
-| B. China | 2. Second |
-| C. India | 3. Third |
-| D. Philippines | 4. Fourth |
-
-A. 4 1 2 3
-B. 2 3 1 4
-C. 3 4 2 1
-D. 1 2 3 4
-
-*Row order is not the answer code.*
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** India 1, Mexico 2, China 3, Philippines 4 → 2 3 1 4 — 2 3 1 4
-
-**Ans: B.** 2 3 1 4
-</details>
-
-**Q4.**
-
-Assertion (A): During 2023-24, Singapore emerged as the largest source of FDI to India.
-
-Reason (R): The India-Mauritius Tax Treaty amendment has brought a major shift in countries as major sources of FDI to India.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-B. (A) is false, but (R) is true.
-C. Both (A) and (R) are true and (R) is the correct explanation of (A).
-D. (A) is true, but (R) is false.
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
-
-**Ans: C.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q5.**
-
-In which year did the Foreign Exchange Management Act (FEMA) come into existence?
-
-A. 1973
-B. 1980
-C. 1998
-D. 1999
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Enactment / existence year is 1999; force date is 1 June 2000 — 1999
-
-**Ans: D.** 1999
-</details>
-
-**Q6.**
-
-1. FEMA came into effect from June 1, 2000.
-2. FERA is mainly for external debt liability.
-
-A. Both are correct and (2) explains (1)
-B. Both are correct but (2) does not explain (1)
-C. (1) is true, (2) is false
-D. (1) is false, (2) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (1) is true, (2) is false.
-
-**Ans: C.** Date true; FERA description false.
-
-</details>
-
-**Q7.**
-
-The rise in value of one currency relative to another is –
-
-A. A weakening of a currency
-B. A depreciation of a currency
-C. An appreciation of a currency
-D. A debasement of a currency
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** An appreciation of a currency.
-
-**Ans: C.** Rise = appreciation.
-
-</details>
-
-**Q8.**
-
-The World Trade Organisation (WTO) is sometimes criticised for all of the following reasons except that:
-
-A. it has no way to solve trade disputes among member nations.
-B. it is puppet of multinational corporations.
-C. it reduces the sovereignty of member countries.
-D. it favours free trade over the quality of products.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** WTO has dispute settlement — A is the odd (false) criticism — it has no way to solve trade disputes among member nations
-
-**Ans: A.** it has no way to solve trade disputes among member nations
-</details>
-
-**Q9.**
-
-The 13th WTO Ministerial Conference (MC-13) was held in
-
-A. Geneva
-B. Abu Dhabi
-C. Nairobi
-D. Bali
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Abu Dhabi hosted MC-13; Geneva is HQ distractor — Abu Dhabi
-
-**Ans: B.** Abu Dhabi
-</details>
-
-**Q10.**
-
-Which sector in India attracts the highest FDI equity flow?
-
-A. Service sector
-B. Automobile industry
-C. Cement industry
-D. Chemicals other than fertilisers
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Service sector.
-
-**Ans: A.** Classic cumulative / teaching lead is services.
-
-</details>
-
-**Q11.**
-
-Balance of Trade (merchandise) is best defined as
-
-A. Current account receipts minus capital account foreign direct investment
-B. Merchandise exports minus merchandise imports
-C. Net foreign portfolio flows plus external commercial borrowings
-D. Gross foreign exchange reserves divided by average monthly imports
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** BoT vs BoP card — Merchandise exports minus merchandise imports
-
-**Ans: B.** Merchandise exports minus merchandise imports
-</details>
-
-**Q12.**
-
-Which of the following is a current-account item?
-
-A. Foreign Direct Investment
-B. External Commercial Borrowings
-C. Export and import of goods
-D. IMF loans
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 2024 BoP stem twin — Export and import of goods
-
-**Ans: C.** Export and import of goods
-</details>
-
-**Q13.**
-
-CAD differs from a simple trade deficit because CAD also includes
-
-A. Only forest cover
-B. Services, income and transfer balances with goods
-C. Only Article 370
-D. Only WPI basket weights
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Trade deficit ≠ CAD — Services, income and transfer balances with goods
-
-**Ans: B.** Services, income and transfer balances with goods
-</details>
-
-**Q14.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): A flexible exchange rate is determined by demand and supply of foreign currency.
-
-Reason (R): Under a flexible regime the Central Bank alone fixes forever the exact demand and supply schedule.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A/R code: (A) is true, but (R) is false.
-
-**Ans: C.** (A) is true, but (R) is false
-</details>
-
-**Q15.**
-
-Appreciation of the rupee means
-
-A. Rupee buys fewer dollars than before
-B. Rupee’s value rises relative to another currency
-C. Only a CRR hike
-D. Only a primary deficit
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Appreciation ≠ depreciation — Rupee’s value rises relative to another currency
-
-**Ans: B.** Rupee’s value rises relative to another currency
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following is included in the current account of the Balance of Payments?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Foreign Direct Investment</div><div class="pyq-opt"><span class="opt-letter">B</span> External Commercial Borrowings</div><div class="pyq-opt"><span class="opt-letter">C</span> Export and import of goods</div><div class="pyq-opt"><span class="opt-letter">D</span> IMF loans</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Export and import of goods.
+
+**Ans: C.** Goods trade = current; FDI / ECB / IMF loans = capital / financial.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): The value of national currency determined by demand and supply of foreign currency is called flexible exchange rate.<br><br>Reason (R): Demand and supply of the foreign currency is being determined by the Central Bank.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true.</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is true, but (R) is false.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** is true, but (R) is false
+
+**Ans: D.** (A) is true, but (R) is false</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem"><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Country)</th><th>List-II (Rank)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Mexico</td><td><span class="match-key">1</span> First</td></tr>
+      <tr><td><span class="match-key">B</span> China</td><td><span class="match-key">2</span> Second</td></tr>
+      <tr><td><span class="match-key">C</span> India</td><td><span class="match-key">3</span> Third</td></tr>
+      <tr><td><span class="match-key">D</span> Philippines</td><td><span class="match-key">4</span> Fourth</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 1 2 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 3 1 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 4 2 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 2 3 4
+
+*Row order is not the answer code.*</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** India 1, Mexico 2, China 3, Philippines 4 → 2 3 1 4 — 2 3 1 4
+
+**Ans: B.** 2 3 1 4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): During 2023-24, Singapore emerged as the largest source of FDI to India.<br><br>Reason (R): The India-Mauritius Tax Treaty amendment has brought a major shift in countries as major sources of FDI to India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true.</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (A) and (R) are true and (R) is the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is true, but (R) is false.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**Ans: C.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In which year did the Foreign Exchange Management Act (FEMA) come into existence?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1973</div><div class="pyq-opt"><span class="opt-letter">B</span> 1980</div><div class="pyq-opt"><span class="opt-letter">C</span> 1998</div><div class="pyq-opt"><span class="opt-letter">D</span> 1999</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Enactment / existence year is 1999; force date is 1 June 2000 — 1999
+
+**Ans: D.** 1999</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">1. FEMA came into effect from June 1, 2000.<br>2. FERA is mainly for external debt liability.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both are correct and (2) explains (1)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both are correct but (2) does not explain (1)</div><div class="pyq-opt"><span class="opt-letter">C</span> (1) is true, (2) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (1) is false, (2) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (1) is true, (2) is false.
+
+**Ans: C.** Date true; FERA description false.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The rise in value of one currency relative to another is –</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A weakening of a currency</div><div class="pyq-opt"><span class="opt-letter">B</span> A depreciation of a currency</div><div class="pyq-opt"><span class="opt-letter">C</span> An appreciation of a currency</div><div class="pyq-opt"><span class="opt-letter">D</span> A debasement of a currency</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** An appreciation of a currency.
+
+**Ans: C.** Rise = appreciation.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The World Trade Organisation (WTO) is sometimes criticised for all of the following reasons except that:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> it has no way to solve trade disputes among member nations.</div><div class="pyq-opt"><span class="opt-letter">B</span> it is puppet of multinational corporations.</div><div class="pyq-opt"><span class="opt-letter">C</span> it reduces the sovereignty of member countries.</div><div class="pyq-opt"><span class="opt-letter">D</span> it favours free trade over the quality of products.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** WTO has dispute settlement — A is the odd (false) criticism — it has no way to solve trade disputes among member nations
+
+**Ans: A.** it has no way to solve trade disputes among member nations</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">The 13th WTO Ministerial Conference (MC-13) was held in</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Geneva</div><div class="pyq-opt"><span class="opt-letter">B</span> Abu Dhabi</div><div class="pyq-opt"><span class="opt-letter">C</span> Nairobi</div><div class="pyq-opt"><span class="opt-letter">D</span> Bali</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Abu Dhabi hosted MC-13; Geneva is HQ distractor — Abu Dhabi
+
+**Ans: B.** Abu Dhabi</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which sector in India attracts the highest FDI equity flow?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Service sector</div><div class="pyq-opt"><span class="opt-letter">B</span> Automobile industry</div><div class="pyq-opt"><span class="opt-letter">C</span> Cement industry</div><div class="pyq-opt"><span class="opt-letter">D</span> Chemicals other than fertilisers</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Service sector.
+
+**Ans: A.** Classic cumulative / teaching lead is services.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Balance of Trade (merchandise) is best defined as</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Current account receipts minus capital account foreign direct investment</div><div class="pyq-opt"><span class="opt-letter">B</span> Merchandise exports minus merchandise imports</div><div class="pyq-opt"><span class="opt-letter">C</span> Net foreign portfolio flows plus external commercial borrowings</div><div class="pyq-opt"><span class="opt-letter">D</span> Gross foreign exchange reserves divided by average monthly imports</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** BoT vs BoP card — Merchandise exports minus merchandise imports
+
+**Ans: B.** Merchandise exports minus merchandise imports</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following is a current-account item?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Foreign Direct Investment</div><div class="pyq-opt"><span class="opt-letter">B</span> External Commercial Borrowings</div><div class="pyq-opt"><span class="opt-letter">C</span> Export and import of goods</div><div class="pyq-opt"><span class="opt-letter">D</span> IMF loans</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 2024 BoP stem twin — Export and import of goods
+
+**Ans: C.** Export and import of goods</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">CAD differs from a simple trade deficit because CAD also includes</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only forest cover</div><div class="pyq-opt"><span class="opt-letter">B</span> Services, income and transfer balances with goods</div><div class="pyq-opt"><span class="opt-letter">C</span> Only Article 370</div><div class="pyq-opt"><span class="opt-letter">D</span> Only WPI basket weights</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Trade deficit ≠ CAD — Services, income and transfer balances with goods
+
+**Ans: B.** Services, income and transfer balances with goods</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): A flexible exchange rate is determined by demand and supply of foreign currency.<br><br>Reason (R): Under a flexible regime the Central Bank alone fixes forever the exact demand and supply schedule.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** A/R code: (A) is true, but (R) is false.
+
+**Ans: C.** (A) is true, but (R) is false</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Appreciation of the rupee means</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rupee buys fewer dollars than before</div><div class="pyq-opt"><span class="opt-letter">B</span> Rupee’s value rises relative to another currency</div><div class="pyq-opt"><span class="opt-letter">C</span> Only a CRR hike</div><div class="pyq-opt"><span class="opt-letter">D</span> Only a primary deficit</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Appreciation ≠ depreciation — Rupee’s value rises relative to another currency
+
+**Ans: B.** Rupee’s value rises relative to another currency</div>
+  </div>
+</div>

@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 17 — Environmental Laws & Policies</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
@@ -72,8 +61,6 @@ hide:
 46. **Biodiversity Management Committees (BMC)** function at local panchayat level.
 47. **People's Biodiversity Registers (PBR)** document local biodiversity.
 
-## ⏱️ Timeline / Chronology
-
 ### Chronological Sequence of Environmental Legislation & Governance in India
 
 ```
@@ -106,400 +93,290 @@ hide:
 ---
 
 ![India Environmental Legal Architecture & Statutory Chronology](images/env_ch17_01_india_environmental_legislation_timeline.png)
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-### Table: Key Ramsar Wetlands of India (Selected High-Yield & State-Wise)
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| Ramsar Site | State / UT | Area / Special Significance | Exam Trap & Distinction |
-| :--- | :--- | :--- | :--- |
-| **Chilika Lake** | Odisha | First Ramsar Site in India (1981); Largest coastal lagoon | Joined with Keoladeo Ghana in 1981; removed from Montreux Record post-restoration |
-| **Keoladeo Ghana National Park** | Rajasthan | Wetland & NP; placed on Montreux Record | On Montreux Record due to water shortage & grazing pressure |
-| **Loktak Lake** | Manipur | Freshwater lake with phumdis (floating mats); Keibul Lamjao NP | Only floating national park; home to Sangai (Dancing Deer); on Montreux Record |
-| **Vembanad-Kol Wetland** | Kerala | Largest wetland in India by surface area | Spans Alappuzha, Kottayam, Ernakulam; Nehru Trophy Boat Race held here |
-| **Sundarban Wetland** | West Bengal | Largest Ramsar site by protected area | Mangrove ecosystem; Royal Bengal Tiger; shared with Bangladesh |
-| **Renuka Wetland** | Himachal Pradesh | Smallest Ramsar site in India (~20 ha) | Natural wetland with freshwater springs; sacred lake |
-| **Upper Ganga River** | Uttar Pradesh | First Ramsar site of UP (2005; Brijghat to Narora) | Stretch of 82 km; habitat of Gangetic Dolphin, gharial, turtles |
-| **Bakhira Wildlife Sanctuary** | Uttar Pradesh | 10th Ramsar site of UP (Sant Kabir Nagar, 2022) | Natural freshwater marsh; migratory waterbirds |
-| **Haiderpur Wetland** | Uttar Pradesh | Muzaffarnagar & Bijnor (2021) | Human-made wetland in Hastinapur WLS within Ganga floodplain |
-| **Rudrasagar Lake** | Tripura | Lowland sedimentation reservoir | Located in Northeast (Tripura) — common trap confusing it with UP or MP |
-| **Bhoj Wetland** | Madhya Pradesh | Twin lakes: Upper Lake (Bada Talab) and Lower Lake | Created by Raja Bhoj; human-made wetland |
-| **Asan Barrage** | Uttarakhand | First Ramsar site of Uttarakhand (2020) | Located at confluence of Asan and Yamuna in Dehradun |
-| **Lonar Lake** | Maharashtra | Meteor impact crater lake; hyper-saline | Turned pink due to haloarchaea microbes in 2020 |
-| **Tso Kar Wetland Complex** | Ladakh | High-altitude saline lake (Startsapuk Tso + Tso Kar) | Breeding ground for Black-necked Crane |
-
-### Table: Global Environmental Reports & Flagship Publications
-
-| Publication / Report | Publishing Agency | Frequency / Milestone | Core Prelims Focus Area |
-| :--- | :--- | :--- | :--- |
-| **Assessment Reports (AR1 to AR6)** | **IPCC** (Intergovernmental Panel on Climate Change) | Every 6–7 years (AR6 Synthesis: 2023) | Scientific consensus on climate change, carbon budgets, 1.5°C pathways |
-| **Emissions Gap Report** | **UNEP** (United Nations Environment Programme) | Annual | Gap between national NDC pledges and 1.5°C / 2°C temperature trajectories |
-| **Adaptation Gap Report** | **UNEP** | Annual | Assessment of global adaptation financing, planning, and implementation deficit |
-| **Global Environment Outlook (GEO)** | **UNEP** | Periodic flagship | Comprehensive state of the global environment, policy responses |
-| **Living Planet Report** | **WWF** (World Wide Fund for Nature) | Biennial | Living Planet Index tracking vertebrate population declines (~69% decline) |
-| **IUCN Red List of Threatened Species** | **IUCN** (Gland, Switzerland) | Continuous / Annual update | 9 categories: EX, EW, CR, EN, VU, NT, LC, DD, NE |
-| **Global Biodiversity Outlook (GBO)** | **CBD Secretariat** | Periodic (GBO-5 in 2020) | Progress against Aichi Biodiversity Targets / Kunming-Montreal GBF |
-| **State of the World's Forests (SOFO)** | **FAO** (Food and Agriculture Organization) | Biennial | Global forest cover, deforestation rates, agroforestry and livelihoods |
-| **World Air Quality Report** | **IQAir** | Annual | Global PM2.5 city rankings and WHO guidelines compliance |
-| **SDG India Index & Dashboard** | **NITI Aayog** | Annual | Performance of Indian States/UTs across 16 SDGs (Kerala consistently #1) |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environment (Protection) Act (EPA 1986)** | **Wildlife (Protection) Act (WPA 1972)** | Umbrella legislation enacted under Article 253 post-Bhopal disaster enabling the Union to frame rules for EIA, CRZ, ESZ, and hazardous waste vs dedicated legislation protecting wild animal/plant species, regulating hunting, and establishing National Parks/Sanctuaries | पर्यावरण संरक्षण अधिनियम 1986 (छाता कानून) / वन्यजीव संरक्षण अधिनियम 1972 |
-| **Forest (Conservation) Act (FCA 1980)** | **Forest Rights Act (FRA 2006)** | Central law barring de-reservation or diversion of forest land for non-forest purposes without prior Union MoEFCC approval vs rights-based law administered by Ministry of Tribal Affairs restoring land tenure and customary rights to forest-dwelling STs and OTFDs | वन संरक्षण अधिनियम 1980 (विकास नियंत्रण) / वन अधिकार अधिनियम 2006 (जनजातीय अधिकार) |
-| **Water (Prevention and Control of Pollution) Act 1974** | **Air (Prevention and Control of Pollution) Act 1981** | India's first dedicated environmental pollution statute that established CPCB and SPCBs under Article 252 vs legislation enacted under Article 253 to implement 1972 Stockholm decisions that empowered existing Water Boards to regulate air pollution and noise | जल अधिनियम 1974 (प्रदूषण बोर्डों का गठन) / वायु अधिनियम 1981 (स्टॉकहोम अनुपालन) |
-| **Biological Diversity Act (BDA 2002)** | **Protection of Plant Varieties and Farmers' Rights Act (PPVFRA 2001)** | Implements 1992 CBD via three-tier structure (NBA, SBB, BMC) controlling commercial bio-resource access and benefit sharing (ABS) vs sui generis IPR regime granting legal rights to commercial plant breeders while safeguarding traditional farmers' seed-saving rights | जैव विविधता अधिनियम 2002 / पौधा किस्म व कृषक अधिकार संरक्षण 2001 |
-| **Genetic Engineering Appraisal Committee (GEAC)** | **Central Ground Water Authority (CGWA)** | Statutory apex regulatory body constituted under Rules 1989 of EPA 1986 approving environmental release of GMOs (e.g. Bt Cotton) vs regulatory authority constituted under Section 3(3) of EPA 1986 regulating commercial groundwater extraction NOCs | जीईएसी (GEAC, जीएमओ नियामक) / केंद्रीय भूजल प्राधिकरण (CGWA) |
-| **Coastal Regulation Zone (CRZ)** | **Eco-Sensitive Zone (ESZ)** | Coastal belt up to 500 m from High Tide Line classified into CRZ-I to IV under EPA 1986 to regulate beach and marine development vs buffer belt around protected areas notified under Section 3 of EPA 1986 to curb polluting industrial operations | तटीय विनियमन क्षेत्र (CRZ) / पर्यावरण-संवेदनशील क्षेत्र (ESZ) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-When was the Environment (Protection) Act passed?
-
-A. 1971
-
-B. 1974
-
-C. 1981
-
-D. 1986
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests the EPA enactment year after Bhopal — separate from WPA 1972 and Water Act 1974.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">When was the Environment (Protection) Act passed?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1971</div><div class="pyq-opt"><span class="opt-letter">B</span> 1974</div><div class="pyq-opt"><span class="opt-letter">C</span> 1981</div><div class="pyq-opt"><span class="opt-letter">D</span> 1986</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tests the EPA enactment year after Bhopal — separate from WPA 1972 and Water Act 1974.
 
 **Ans: D.** The **Environment (Protection) Act was enacted in 1986** as India's umbrella environmental law.
 
-**Trap:** Pairing EPA with **1974** (Water Act year) or **1981** (Air Act year).
+**Trap:** Pairing EPA with **1974** (Water Act year) or **1981** (Air Act year).</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-The Water (Prevention and Control of Pollution) Act was enacted in:
-
-A. 1974
-
-B. 1975
-
-C. 1976
-
-D. 1977
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests India's first major post-Stockholm pollution law and the year that created CPCB/SPCB.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The Water (Prevention and Control of Pollution) Act was enacted in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1974</div><div class="pyq-opt"><span class="opt-letter">B</span> 1975</div><div class="pyq-opt"><span class="opt-letter">C</span> 1976</div><div class="pyq-opt"><span class="opt-letter">D</span> 1977</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tests India's first major post-Stockholm pollution law and the year that created CPCB/SPCB.
 
 **Ans: A.** The **Water Act was passed in 1974** — not 1981.
 
-**Trap:** Reversing Water **1974** with Air **1981**.
+**Trap:** Reversing Water **1974** with Air **1981**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Under which law is the Environmental Impact Assessment (EIA) Notification issued?
-
-A. Water (Prevention and Control of Pollution) Act, 1974
-
-B. Wildlife (Protection) Act, 1972
-
-C. Environment (Protection) Act, 1986
-
-D. Forest (Conservation) Act, 1980
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** EIA, CRZ, and ESZ rules flow from EPA Section 3 — not from sectoral Water or WPA laws.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Under which law is the Environmental Impact Assessment (EIA) Notification issued?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Water (Prevention and Control of Pollution) Act, 1974</div><div class="pyq-opt"><span class="opt-letter">B</span> Wildlife (Protection) Act, 1972</div><div class="pyq-opt"><span class="opt-letter">C</span> Environment (Protection) Act, 1986</div><div class="pyq-opt"><span class="opt-letter">D</span> Forest (Conservation) Act, 1980</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** EIA, CRZ, and ESZ rules flow from EPA Section 3 — not from sectoral Water or WPA laws.
 
 **Ans: C.** The **EIA Notification is issued under the EPA, 1986**.
 
-**Trap:** Crediting EIA to the **Water Act 1974** because pollution boards handle consent.
+**Trap:** Crediting EIA to the **Water Act 1974** because pollution boards handle consent.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-The Environment (Protection) Act, 1986 was enacted primarily after which event exposed gaps in environmental regulation?
-
-A. Stockholm Conference, 1972
-
-B. Bhopal Gas Tragedy, 1984
-
-C. Rio Earth Summit, 1992
-
-D. Chernobyl nuclear accident, 1986
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bhopal (1984) is the standard legislative trigger cited for EPA 1986 in Indian environmental law chronology.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The Environment (Protection) Act, 1986 was enacted primarily after which event exposed gaps in environmental regulation?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Stockholm Conference, 1972</div><div class="pyq-opt"><span class="opt-letter">B</span> Bhopal Gas Tragedy, 1984</div><div class="pyq-opt"><span class="opt-letter">C</span> Rio Earth Summit, 1992</div><div class="pyq-opt"><span class="opt-letter">D</span> Chernobyl nuclear accident, 1986</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bhopal (1984) is the standard legislative trigger cited for EPA 1986 in Indian environmental law chronology.
 
 **Ans: B.** The **Bhopal Gas Tragedy (1984)** led to the **EPA in 1986**.
 
-**Trap:** Picking Stockholm 1972 (which influenced Water Act 1974) instead of Bhopal.
+**Trap:** Picking Stockholm 1972 (which influenced Water Act 1974) instead of Bhopal.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Under the Wildlife (Protection) Act, 1972, which schedule lists species with the **highest** protection and which schedule lists **vermin**?
-
-A. Schedule I — vermin; Schedule V — highest protection
-
-B. Schedule I — highest protection; Schedule V — vermin
-
-C. Schedule VI — highest protection; Schedule II — vermin
-
-D. Schedule IV — highest protection; Schedule I — vermin
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** WPA six-schedule ladder — I is strictest for animals; V explicitly allows vermin control.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Under the Wildlife (Protection) Act, 1972, which schedule lists species with the **highest** protection and which schedule lists **vermin**?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Schedule I — vermin; Schedule V — highest protection</div><div class="pyq-opt"><span class="opt-letter">B</span> Schedule I — highest protection; Schedule V — vermin</div><div class="pyq-opt"><span class="opt-letter">C</span> Schedule VI — highest protection; Schedule II — vermin</div><div class="pyq-opt"><span class="opt-letter">D</span> Schedule IV — highest protection; Schedule I — vermin</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** WPA six-schedule ladder — I is strictest for animals; V explicitly allows vermin control.
 
 **Ans: B.** **Schedule I** species get the **highest protection**; **Schedule V** lists **vermin**.
 
-**Trap:** Swapping Schedule **V** (vermin) with Schedule **I** (highest protection).
+**Trap:** Swapping Schedule **V** (vermin) with Schedule **I** (highest protection).</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-Prior approval of the Central Government is required for diversion of forest land for non-forest use under:
-
-A. Forest Rights Act, 2006
-
-B. Forest (Conservation) Act, 1980
-
-C. Environment (Protection) Act, 1986
-
-D. Biological Diversity Act, 2002
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** FCA 1980 governs forest land diversion; FRA 2006 recognises community rights — different statutes.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Prior approval of the Central Government is required for diversion of forest land for non-forest use under:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Forest Rights Act, 2006</div><div class="pyq-opt"><span class="opt-letter">B</span> Forest (Conservation) Act, 1980</div><div class="pyq-opt"><span class="opt-letter">C</span> Environment (Protection) Act, 1986</div><div class="pyq-opt"><span class="opt-letter">D</span> Biological Diversity Act, 2002</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** FCA 1980 governs forest land diversion; FRA 2006 recognises community rights — different statutes.
 
 **Ans: B.** **Forest diversion needs Central approval under the FCA, 1980**.
 
-**Trap:** Mixing **FCA 1980** (diversion) with **FRA 2006** (tribal forest rights).
+**Trap:** Mixing **FCA 1980** (diversion) with **FRA 2006** (tribal forest rights).</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-Tiger Reserves in India are notified under which section of the Wildlife (Protection) Act, 1972?
-
-A. Section 18
-
-B. Section 35
-
-C. Section 38V
-
-D. Section 48A
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Section 35 = National Park; Section 18 = Sanctuary; Section 38V = Tiger Reserve (2006 amendment path).
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Tiger Reserves in India are notified under which section of the Wildlife (Protection) Act, 1972?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Section 18</div><div class="pyq-opt"><span class="opt-letter">B</span> Section 35</div><div class="pyq-opt"><span class="opt-letter">C</span> Section 38V</div><div class="pyq-opt"><span class="opt-letter">D</span> Section 48A</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Section 35 = National Park; Section 18 = Sanctuary; Section 38V = Tiger Reserve (2006 amendment path).
 
 **Ans: C.** **Tiger Reserves are notified under Section 38V** with NTCA oversight.
 
-**Trap:** Section **35** (National Park) or **18** (Sanctuary) distractors.
+**Trap:** Section **35** (National Park) or **18** (Sanctuary) distractors.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-The National Green Tribunal was established under an Act passed in:
-
-A. 1986
-
-B. 2006
-
-C. 2010
-
-D. 2015
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NGT Act 2010 is distinct from EPA 1986 and DM Act 2005 — year recall.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The National Green Tribunal was established under an Act passed in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1986</div><div class="pyq-opt"><span class="opt-letter">B</span> 2006</div><div class="pyq-opt"><span class="opt-letter">C</span> 2010</div><div class="pyq-opt"><span class="opt-letter">D</span> 2015</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** NGT Act 2010 is distinct from EPA 1986 and DM Act 2005 — year recall.
 
 **Ans: C.** The **NGT was created by the NGT Act, 2010**.
 
-**Trap:** **EPA 1986** or **2006** (FRA year) as false neighbours.
+**Trap:** **EPA 1986** or **2006** (FRA year) as false neighbours.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-Which pair is correctly matched?
-
-A. Water Act — 1981; Air Act — 1974
-
-B. Water Act — 1974; Air Act — 1981
-
-C. Water Act — 1986; Air Act — 1974
-
-D. Water Act — 1972; Air Act — 1986
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Pollution law chronology — Water first (1974), then Air (1981), then EPA umbrella (1986).
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which pair is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Water Act — 1981; Air Act — 1974</div><div class="pyq-opt"><span class="opt-letter">B</span> Water Act — 1974; Air Act — 1981</div><div class="pyq-opt"><span class="opt-letter">C</span> Water Act — 1986; Air Act — 1974</div><div class="pyq-opt"><span class="opt-letter">D</span> Water Act — 1972; Air Act — 1986</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Pollution law chronology — Water first (1974), then Air (1981), then EPA umbrella (1986).
 
 **Ans: B.** **Water Act 1974** and **Air Act 1981** is the correct pair.
 
-**Trap:** Reversing **1974** and **1981** — the most common UPPCS trap in this chapter.
+**Trap:** Reversing **1974** and **1981** — the most common UPPCS trap in this chapter.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.**
-
-Consider the following statements:
-
-1. The Bhopal Gas Tragedy occurred in 1984.
-2. The Environment (Protection) Act was passed in 1986.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard cause–law sequence tested across environmental law and governance chapters.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. The Bhopal Gas Tragedy occurred in 1984.<br>2. The Environment (Protection) Act was passed in 1986.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard cause–law sequence tested across environmental law and governance chapters.
 
 **Ans: C.** **Bhopal 1984** preceded **EPA 1986** — both statements are correct.
 
-**Trap:** Shifting EPA to **1972** (WPA year) or Bhopal to **1986**.
+**Trap:** Shifting EPA to **1972** (WPA year) or Bhopal to **1986**.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the act-year chain:<br><br>WPA → Water → FCA → Air → EPA → BDA → FRA → NGT</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1974-1972-1981-1980-1986-2006-2002-2010</div><div class="pyq-opt"><span class="opt-letter">B</span> 1972-1974-1980-1981-1986-2002-2006-2010</div><div class="pyq-opt"><span class="opt-letter">C</span> 1986-1972-1974-1980-1981-2002-2006-2010</div><div class="pyq-opt"><span class="opt-letter">D</span> 1972-1980-1974-1981-1986-2002-2006-2010</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1972→1974→1980→1981→1986→2002→2006→2010.
 
-**Q11.** Arrange the act-year chain:
+**Logic:** Master law spine.</div>
+  </div>
+</div>
 
-WPA → Water → FCA → Air → EPA → BDA → FRA → NGT
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Articles, which of the following statements is/are correct?<br><br>1. Article 48A — State DPSP on environment.<br>2. Article 51A(g) is a Directive Principle, not a Fundamental Duty.<br>3. Article 48 — environment protection article.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
 
-A. 1974-1972-1981-1980-1986-2006-2002-2010
-B. 1972-1974-1980-1981-1986-2002-2006-2010
-C. 1986-1972-1974-1980-1981-2002-2006-2010
-D. 1972-1980-1974-1981-1986-2002-2006-2010
+**Logic:** Statement 1 is true (Art. 48A DPSP). Statement 2 is false — 51A(g) is the citizen’s Fundamental Duty. Statement 3 is false — environment DPSP is 48A, not 48.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Article 21 has been read to include a healthy environment.<br><br>Reason (R): The 42nd Amendment (1976) added 48A and 51A(g).</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; 42nd Amendment does not by itself explain Art. 21 expansion.
 
-**Ans: B.** 1972→1974→1980→1981→1986→2002→2006→2010.
+**A/R logic:** Two constitutional tracks.</div>
+  </div>
+</div>
 
-**Logic:** Master law spine.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. EPA 1986 — post-Bhopal umbrella under Art. 253<br>2. EIA/CRZ/ESZ/GEAC powers have no link to EPA Section 3.<br>3. EIA Notification — flows from Water Act 1974 only</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
 
-</details>
+**Logic:** Statement 1 is true (EPA 1986 umbrella / Art. 253). Statement 2 is false — those powers sit in the EPA Section 3 neighbourhood. Statement 3 is false — EIA Notification flows from EPA, not from the Water Act alone.</div>
+  </div>
+</div>
 
-**Q12.** With reference to Articles, which of the following statements is/are correct?
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> NP</td><td><span class="match-key">1</span> Sec. 18</td></tr>
+      <tr><td><span class="match-key">B</span> Sanctuary</td><td><span class="match-key">2</span> Sec. 35</td></tr>
+      <tr><td><span class="match-key">C</span> Tiger Reserve</td><td><span class="match-key">3</span> Sec. 38V</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
 
-1. Article 48A — State DPSP on environment.
-2. Article 51A(g) is a Directive Principle, not a Fundamental Duty.
-3. Article 48 — environment protection article.
-
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Statement 1 is true (Art. 48A DPSP). Statement 2 is false — 51A(g) is the citizen’s Fundamental Duty. Statement 3 is false — environment DPSP is 48A, not 48.
-
-</details>
-
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Article 21 has been read to include a healthy environment.
-
-Reason (R): The 42nd Amendment (1976) added 48A and 51A(g).
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; 42nd Amendment does not by itself explain Art. 21 expansion.
-
-**A/R logic:** Two constitutional tracks.
-
-</details>
-
-**Q14.** Which of the following pairs is/are correctly matched?
-
-1. EPA 1986 — post-Bhopal umbrella under Art. 253
-2. EIA/CRZ/ESZ/GEAC powers have no link to EPA Section 3.
-3. EIA Notification — flows from Water Act 1974 only
-
-A. 2 and 3
-B. Only 1
-C. 1 and 2
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Statement 1 is true (EPA 1986 umbrella / Art. 253). Statement 2 is false — those powers sit in the EPA Section 3 neighbourhood. Statement 3 is false — EIA Notification flows from EPA, not from the Water Act alone.
-
-</details>
-
-**Q15.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. NP | 1. Sec. 18 |
-| B. Sanctuary | 2. Sec. 35 |
-| C. Tiger Reserve | 3. Sec. 38V |
-
-Code:
-
-A. A-2, B-1, C-3
-B. A-1, B-2, C-3
-C. A-2, B-3, C-1
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** A-2, B-1, C-3.
-
-**Logic:** NP 35; Sanctuary 18; TR 38V.
-
-</details>
+**Logic:** NP 35; Sanctuary 18; TR 38V.</div>
+  </div>
+</div>

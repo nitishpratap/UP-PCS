@@ -159,23 +159,6 @@ hide:
 | **Chauth** | Non-Maratha territories | **1/4th (25%)** of revenue | Protection against raids | **Chhatrapati Shivaji Maharaj** |
 | **Sardeshmukhi**| Non-Maratha territories | **1/10th (10%)** of revenue | Hereditary chief right | **Chhatrapati Shivaji Maharaj** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Diwan-i-Arz** | **Diwan-i-Insha** | Military department (Balban) vs royal correspondence / secretariat | दीवान-ए-अर्ज / इंशा |
-| **Diwan-i-Kohi** | **Diwan-i-Mustakhraj**| Agriculture ministry (MBT) vs revenue arrears recovery (Alauddin) | दीवान-ए-कोही / मुस्तखराज |
-| **Diwan-i-Khairat** | **Diwan-i-Bandagan** | Charity for poor/orphans vs department of slaves (both Firoz Tughlaq) | दीवान-ए-खैरात / बंदगान |
-| **Mir Bakhshi** | **Mir Saman** | Head of military & pay certificates vs head of royal household & karkhanas | मीर बख्शी / मीर सामाँ |
-| **Zat** | **Sawar** | Personal noble rank & baseline salary vs required cavalry troops to maintain | ज़ात / सवार |
-| **Bargir** | **Silahdar** | Regular cavalry mounted on state horses vs mercenary nobles riding own horses | बारगीर / सिलहदार |
-| **Chauth (25%)** | **Sardeshmukhi (10%)**| 1/4th protection against raid vs 1/10th hereditary head Deshmukh tribute | चौथ / सरदेशमुखी |
-| **Polaj** | **Parauti** | Cultivated continuously every year vs left fallow for 1–2 years | पोलज / परौती |
-| **Chachar** | **Banjar** | Left fallow for 3–4 years vs uncultivated for 5 or more years | चाचर / बंजर |
-| **Nayankara System** | **Ayagar System** | Military-feudal Amaram grants vs 12 hereditary village functionaries | नायंकर / आयंगार |
-| **Silver Rupiya (178 gr)**| **Copper Dam (380 gr)** | Pure silver standard coin vs heavy copper coin (ratio 1:64) | रुपया / दाम |
-| **Sondhar / Taccavi** | **Fawazil** | Emergency state crop loan to peasants vs surplus revenue remitted to center | सोंधर / फवाज़िल |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Sultanate Special Diwans Creator Formula:**
@@ -200,285 +183,307 @@ hide:
    - **Sardeshmukhi** = **10%** (1/10th)
    - **Combined Total Burden** = **35%**
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.** *(UPPCS Prelims 2021)*
-Which of the following medieval departments was established by Sultan Ghiyasuddin Balban?
-A. Diwan-i-Kohi
-B. Diwan-i-Arz
-C. Diwan-i-Mustakhraj
-D. Diwan-i-Insha
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Diwan-i-Arz)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2021)*<br>Which of the following medieval departments was established by Sultan Ghiyasuddin Balban?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Diwan-i-Kohi</div><div class="pyq-opt"><span class="opt-letter">B</span> Diwan-i-Arz</div><div class="pyq-opt"><span class="opt-letter">C</span> Diwan-i-Mustakhraj</div><div class="pyq-opt"><span class="opt-letter">D</span> Diwan-i-Insha</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Diwan-i-Arz)
 
 **Detailed Explanation:**
 - **Diwan-i-Arz:** The central military ministry created by **Ghiyasuddin Balban** to reorganize and inspect the army to defend against recurring Mongol invasions and suppress domestic revolts. It was headed by the *Ariz-i-Mamalik*.
 - **Distractor Analysis:**
   - **Diwan-i-Kohi:** Agricultural ministry created by **Muhammad bin Tughlaq**.
   - **Diwan-i-Mustakhraj:** Revenue arrears recovery department created by **Alauddin Khalji**.
-  - **Diwan-i-Insha:** Royal correspondence secretariat existing since early Sultanate times.
-</details>
+  - **Diwan-i-Insha:** Royal correspondence secretariat existing since early Sultanate times.</div>
+  </div>
+</div>
 
-**Q2.** *(UPPCS Prelims 2019)*
-Who among the following Sultans levied 'Haqq-i-Sharb' or irrigation tax for the first time?
-A. Alauddin Khalji
-B. Ghiyasuddin Tughlaq
-C. Muhammad bin Tughlaq
-D. Firoz Shah Tughlaq
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Firoz Shah Tughlaq)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2019)*<br>Who among the following Sultans levied 'Haqq-i-Sharb' or irrigation tax for the first time?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Alauddin Khalji</div><div class="pyq-opt"><span class="opt-letter">B</span> Ghiyasuddin Tughlaq</div><div class="pyq-opt"><span class="opt-letter">C</span> Muhammad bin Tughlaq</div><div class="pyq-opt"><span class="opt-letter">D</span> Firoz Shah Tughlaq</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Firoz Shah Tughlaq)
 
 **Detailed Explanation:**
-- **Firoz Shah Tughlaq** was a pioneer in developing canal irrigation networks across northern India (e.g., Yamuna and Sutlej canals). After obtaining sanction from Islamic jurists (Ulema), he imposed a separate irrigation cess termed **Haqq-i-Sharb** at the rate of **10% (1/10th) of the produce** on peasants benefiting from state-built canals.
-</details>
+- **Firoz Shah Tughlaq** was a pioneer in developing canal irrigation networks across northern India (e.g., Yamuna and Sutlej canals). After obtaining sanction from Islamic jurists (Ulema), he imposed a separate irrigation cess termed **Haqq-i-Sharb** at the rate of **10% (1/10th) of the produce** on peasants benefiting from state-built canals.</div>
+  </div>
+</div>
 
-**Q3.** *(UPPCS Prelims 2020)*
-With reference to medieval Indian history, which of the following statements regarding the 'Iqta System' is/are correct?
-1. 'Iqta' was an assignment of land revenue in lieu of cash salary.
-2. The excess amount paid by an Iqtadar to the imperial treasury was termed 'Fawazil'.
-3. The office of the Iqtadar was strictly hereditary from its inception under Iltutmish.
-
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1 and 2 only)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2020)*<br>With reference to medieval Indian history, which of the following statements regarding the 'Iqta System' is/are correct?<br>1. 'Iqta' was an assignment of land revenue in lieu of cash salary.<br>2. The excess amount paid by an Iqtadar to the imperial treasury was termed 'Fawazil'.<br>3. The office of the Iqtadar was strictly hereditary from its inception under Iltutmish.<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (1 and 2 only)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** An Iqta was a territorial revenue assignment given to nobles (*Muqtis / Walis*) to maintain troop contingents and cover personal salaries.
 - **Statement 2 is correct:** The surplus revenue balance remitted to the imperial treasury after deducting approved military and administrative expenditures was called **Fawazil**.
-- **Statement 3 is incorrect:** Under Iltutmish, Balban, and Alauddin Khalji, Iqtas were **transferable and non-hereditary**. It was **Firoz Shah Tughlaq** who made Iqtas hereditary, weakening the imperial state.
-</details>
+- **Statement 3 is incorrect:** Under Iltutmish, Balban, and Alauddin Khalji, Iqtas were **transferable and non-hereditary**. It was **Firoz Shah Tughlaq** who made Iqtas hereditary, weakening the imperial state.</div>
+  </div>
+</div>
 
-**Q4.** *(UPPCS Prelims 2018)*
-In the Mughal administrative system, the officer designated as 'Mir Bakhshi' was primarily responsible for:
-A. Superintending the royal treasury
-B. The military organization and issuing salary certificates
-C. Dispensing civil and criminal justice
-D. Managing the royal household and karkhanas
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (The military organization and issuing salary certificates)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2018)*<br>In the Mughal administrative system, the officer designated as 'Mir Bakhshi' was primarily responsible for:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Superintending the royal treasury</div><div class="pyq-opt"><span class="opt-letter">B</span> The military organization and issuing salary certificates</div><div class="pyq-opt"><span class="opt-letter">C</span> Dispensing civil and criminal justice</div><div class="pyq-opt"><span class="opt-letter">D</span> Managing the royal household and karkhanas</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (The military organization and issuing salary certificates)
 
 **Detailed Explanation:**
 - **Mir Bakhshi:** The supreme military administrative official under the Mughals. He personally reviewed troops, maintained the muster-rolls and descriptive registers of Mansabdars, introduced candidates to the Emperor for appointment, and endorsed pay vouchers (**Sarkhat**) without which the Diwan could not disburse salaries.
 - **Distractors:**
   - Royal household/karkhanas was headed by **Mir Saman**.
   - Justice was headed by **Qazi-ul-Quzat**.
-  - Treasury was headed by **Diwan-i-Ala (Wazir)**.
-</details>
+  - Treasury was headed by **Diwan-i-Ala (Wazir)**.</div>
+  </div>
+</div>
 
-**Q5.** *(UPPCS Prelims 2022)*
-Which of the following pairs is NOT correctly matched?
-A. Diwan-i-Mustakhraj — Alauddin Khalji
-B. Diwan-i-Kohi — Muhammad bin Tughlaq
-C. Diwan-i-Khairat — Firoz Shah Tughlaq
-D. Diwan-i-Riyasat — Balban
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Diwan-i-Riyasat — Balban is incorrectly matched)
-
-**Detailed Explanation:**
-- **Diwan-i-Riyasat** was created by **Alauddin Khalji** as the central ministry to enforce his celebrated market control regulations and supervise merchants, not by Balban. Balban created **Diwan-i-Arz**.
-</details>
-
-**Q6.** *(UPPCS Prelims 2017)*
-The 'Dahsala System' of land revenue administration was introduced by which Mughal emperor?
-A. Babur
-B. Akbar
-C. Jahangir
-D. Shah Jahan
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Akbar)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2022)*<br>Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Diwan-i-Mustakhraj — Alauddin Khalji</div><div class="pyq-opt"><span class="opt-letter">B</span> Diwan-i-Kohi — Muhammad bin Tughlaq</div><div class="pyq-opt"><span class="opt-letter">C</span> Diwan-i-Khairat — Firoz Shah Tughlaq</div><div class="pyq-opt"><span class="opt-letter">D</span> Diwan-i-Riyasat — Balban</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Diwan-i-Riyasat — Balban is incorrectly matched)
 
 **Detailed Explanation:**
-- The **Dahsala System (or Zabt System)** was introduced in **1580 CE** (Akbar's 24th regnal year) by finance minister **Raja Todar Mal**. It based assessment on the 10-year average productivity and price trends between 1570 and 1580 CE, fixing the state share at 1/3rd in cash.
-</details>
+- **Diwan-i-Riyasat** was created by **Alauddin Khalji** as the central ministry to enforce his celebrated market control regulations and supervise merchants, not by Balban. Balban created **Diwan-i-Arz**.</div>
+  </div>
+</div>
 
-**Q7.** *(UPPCS Prelims 2019)*
-In the context of the Mughal Mansabdari system, consider the following statements:
-1. 'Zat' indicated the personal status and salary of the Mansabdar.
-2. 'Sawar' indicated the number of cavalrymen the Mansabdar was required to maintain.
-3. The 'Du-aspa Sih-aspa' system was introduced by Emperor Shah Jahan.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2017)*<br>The 'Dahsala System' of land revenue administration was introduced by which Mughal emperor?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Babur</div><div class="pyq-opt"><span class="opt-letter">B</span> Akbar</div><div class="pyq-opt"><span class="opt-letter">C</span> Jahangir</div><div class="pyq-opt"><span class="opt-letter">D</span> Shah Jahan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Akbar)
 
-Which of the statements given above are correct?
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+**Detailed Explanation:**
+- The **Dahsala System (or Zabt System)** was introduced in **1580 CE** (Akbar's 24th regnal year) by finance minister **Raja Todar Mal**. It based assessment on the 10-year average productivity and price trends between 1570 and 1580 CE, fixing the state share at 1/3rd in cash.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1 and 2 only)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2019)*<br>In the context of the Mughal Mansabdari system, consider the following statements:<br>1. 'Zat' indicated the personal status and salary of the Mansabdar.<br>2. 'Sawar' indicated the number of cavalrymen the Mansabdar was required to maintain.<br>3. The 'Du-aspa Sih-aspa' system was introduced by Emperor Shah Jahan.<br><br>Which of the statements given above are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (1 and 2 only)
 
 **Detailed Explanation:**
 - **Statements 1 & 2 are correct:** Zat denoted personal hierarchical standing and base pay; Sawar indicated cavalry strength.
-- **Statement 3 is incorrect:** The **Du-aspa Sih-aspa** rank was introduced by **Jahangir**, not Shah Jahan. Shah Jahan introduced the Month-scale system (*Mahana*).
-</details>
+- **Statement 3 is incorrect:** The **Du-aspa Sih-aspa** rank was introduced by **Jahangir**, not Shah Jahan. Shah Jahan introduced the Month-scale system (*Mahana*).</div>
+  </div>
+</div>
 
-**Q8.** *(UPPCS Prelims 2021)*
-Under the Dahsala land revenue classification, land left uncultivated for 3 or 4 years to regain its fertility was termed:
-A. Polaj
-B. Parauti
-C. Chachar
-D. Banjar
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Chachar)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2021)*<br>Under the Dahsala land revenue classification, land left uncultivated for 3 or 4 years to regain its fertility was termed:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Polaj</div><div class="pyq-opt"><span class="opt-letter">B</span> Parauti</div><div class="pyq-opt"><span class="opt-letter">C</span> Chachar</div><div class="pyq-opt"><span class="opt-letter">D</span> Banjar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Chachar)
 
 **Detailed Explanation:**
 - **Chachar:** Land left fallow for 3 to 4 consecutive years.
 - **Polaj:** Cultivated continuously every year.
 - **Parauti:** Left fallow for 1 to 2 years.
-- **Banjar:** Land uncultivated for 5 or more years.
-</details>
+- **Banjar:** Land uncultivated for 5 or more years.</div>
+  </div>
+</div>
 
-**Q9.** *(UPPCS Prelims 2020)*
-Which ruler introduced the pure silver coin called 'Rupiya' weighing 178 grains?
-A. Akbar
-B. Sher Shah Suri
-C. Iltutmish
-D. Alauddin Khalji
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Sher Shah Suri)
-
-**Detailed Explanation:**
-- **Sher Shah Suri (1540–1545 CE)** introduced the pure silver **Rupiya** weighing **178 grains** (173 grains pure silver) and copper **Dam** weighing **380 grains**, with an exchange ratio of 1:64. This became the basis of the modern Indian Rupee.
-</details>
-
-**Q10.** *(UPPCS Prelims 2018)*
-With reference to the Vijayanagara Empire, the 'Ayagar System' was associated with:
-A. Central revenue administration
-B. Military tenure of provincial governors
-C. Village administration by twelve hereditary functionaries
-D. Maritime commercial guild regulations
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Village administration by twelve hereditary functionaries)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2020)*<br>Which ruler introduced the pure silver coin called 'Rupiya' weighing 178 grains?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Akbar</div><div class="pyq-opt"><span class="opt-letter">B</span> Sher Shah Suri</div><div class="pyq-opt"><span class="opt-letter">C</span> Iltutmish</div><div class="pyq-opt"><span class="opt-letter">D</span> Alauddin Khalji</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Sher Shah Suri)
 
 **Detailed Explanation:**
-- In Vijayanagara, every village was an autonomous administrative unit governed by a body of **12 hereditary officials known as Ayagars** (including headman, accountant, watchman, blacksmith, potter, etc.), remunerated through tax-free plots of land called **Manya**.
-</details>
+- **Sher Shah Suri (1540–1545 CE)** introduced the pure silver **Rupiya** weighing **178 grains** (173 grains pure silver) and copper **Dam** weighing **380 grains**, with an exchange ratio of 1:64. This became the basis of the modern Indian Rupee.</div>
+  </div>
+</div>
 
-**Q11.** *(UPPCS Prelims 2021)*
-In Shivaji's council of ministers (Ashtapradhan), which two ministers were completely exempt from military command in the field?
-A. Peshwa and Amatya
-B. Nyayadhish and Panditrao
-C. Senapati and Sumant
-D. Sachiv and Waqia-Navis
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Nyayadhish and Panditrao)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2018)*<br>With reference to the Vijayanagara Empire, the 'Ayagar System' was associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Central revenue administration</div><div class="pyq-opt"><span class="opt-letter">B</span> Military tenure of provincial governors</div><div class="pyq-opt"><span class="opt-letter">C</span> Village administration by twelve hereditary functionaries</div><div class="pyq-opt"><span class="opt-letter">D</span> Maritime commercial guild regulations</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Village administration by twelve hereditary functionaries)
 
 **Detailed Explanation:**
-- In Shivaji's **Ashtapradhan**, six ministers (Peshwa, Amatya, Sachiv, Mantri, Sumant, Senapati) were required to command military forces and lead armies during war. ONLY the **Nyayadhish (Chief Justice)** and **Panditrao (Ecclesiastical Head)** were legally exempt from battlefield service.
-</details>
+- In Vijayanagara, every village was an autonomous administrative unit governed by a body of **12 hereditary officials known as Ayagars** (including headman, accountant, watchman, blacksmith, potter, etc.), remunerated through tax-free plots of land called **Manya**.</div>
+  </div>
+</div>
 
-**Q12.** *(UPPCS Prelims 2019)*
-'Chauth' and 'Sardeshmukhi' collected by the Marathas were:
-A. Taxes levied exclusively on trade caravans
-B. Agricultural assessment levies collected from neighboring non-Maratha territories
-C. Custom duties at coastal ports
-D. Toll taxes on pilgrimage routes
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2021)*<br>In Shivaji's council of ministers (Ashtapradhan), which two ministers were completely exempt from military command in the field?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Peshwa and Amatya</div><div class="pyq-opt"><span class="opt-letter">B</span> Nyayadhish and Panditrao</div><div class="pyq-opt"><span class="opt-letter">C</span> Senapati and Sumant</div><div class="pyq-opt"><span class="opt-letter">D</span> Sachiv and Waqia-Navis</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Nyayadhish and Panditrao)
 
-<details>
-<summary>Show answer</summary>
+**Detailed Explanation:**
+- In Shivaji's **Ashtapradhan**, six ministers (Peshwa, Amatya, Sachiv, Mantri, Sumant, Senapati) were required to command military forces and lead armies during war. ONLY the **Nyayadhish (Chief Justice)** and **Panditrao (Ecclesiastical Head)** were legally exempt from battlefield service.</div>
+  </div>
+</div>
 
-**Correct Answer:** **B** (Agricultural assessment levies collected from neighboring non-Maratha territories)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2019)*<br>'Chauth' and 'Sardeshmukhi' collected by the Marathas were:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Taxes levied exclusively on trade caravans</div><div class="pyq-opt"><span class="opt-letter">B</span> Agricultural assessment levies collected from neighboring non-Maratha territories</div><div class="pyq-opt"><span class="opt-letter">C</span> Custom duties at coastal ports</div><div class="pyq-opt"><span class="opt-letter">D</span> Toll taxes on pilgrimage routes</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Agricultural assessment levies collected from neighboring non-Maratha territories)
 
 **Detailed Explanation:**
 - **Chauth** was a military tax equal to **one-fourth (25%)** of land revenue collected from neighboring Mughal or Deccan territories to spare them from plundering raids.
-- **Sardeshmukhi** was an additional **10% levy** claimed by Shivaji as hereditary supreme head (*Sardeshmukh*) of Maharashtra.
-</details>
+- **Sardeshmukhi** was an additional **10% levy** claimed by Shivaji as hereditary supreme head (*Sardeshmukh*) of Maharashtra.</div>
+  </div>
+</div>
 
-**Q13.** *(UPPCS Prelims 2022)*
-Which of the following foreign travelers visited the Vijayanagara Empire during the reign of Emperor Deva Raya II?
-A. Nicolo de Conti
-B. Abdur Razzaq
-C. Duarte Barbosa
-D. Domingo Paes
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Abdur Razzaq)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2022)*<br>Which of the following foreign travelers visited the Vijayanagara Empire during the reign of Emperor Deva Raya II?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nicolo de Conti</div><div class="pyq-opt"><span class="opt-letter">B</span> Abdur Razzaq</div><div class="pyq-opt"><span class="opt-letter">C</span> Duarte Barbosa</div><div class="pyq-opt"><span class="opt-letter">D</span> Domingo Paes</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Abdur Razzaq)
 
 **Detailed Explanation:**
 - **Abdur Razzaq**, ambassador from the Timurid ruler Shah Rukh of Persia/Herat, visited Vijayanagara in **1443 CE** during the reign of **Deva Raya II** (Sangama dynasty).
 - Nicolo de Conti visited earlier under **Deva Raya I (1420 CE)**.
-- Domingo Paes and Duarte Barbosa visited during the reign of **Krishnadeva Raya (1509–1529 CE)**.
-</details>
+- Domingo Paes and Duarte Barbosa visited during the reign of **Krishnadeva Raya (1509–1529 CE)**.</div>
+  </div>
+</div>
 
-**Q14.** *(UPPCS Prelims 2020)*
-Which Sikh Guru compiled the 'Adi Granth' and installed it in Harmandir Sahib in 1604 CE?
-A. Guru Nanak Dev
-B. Guru Ram Das
-C. Guru Arjan Dev
-D. Guru Gobind Singh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Guru Arjan Dev)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2020)*<br>Which Sikh Guru compiled the 'Adi Granth' and installed it in Harmandir Sahib in 1604 CE?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Guru Nanak Dev</div><div class="pyq-opt"><span class="opt-letter">B</span> Guru Ram Das</div><div class="pyq-opt"><span class="opt-letter">C</span> Guru Arjan Dev</div><div class="pyq-opt"><span class="opt-letter">D</span> Guru Gobind Singh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Guru Arjan Dev)
 
 **Detailed Explanation:**
-- **Guru Arjan Dev**, the 5th Sikh Guru, compiled the **Adi Granth in 1604 CE** at Amritsar, incorporating hymns of the first five Gurus and diverse Hindu-Muslim Bhakti saints. It was installed in Harmandir Sahib with **Baba Buddha** as the first Head Granthi.
-</details>
+- **Guru Arjan Dev**, the 5th Sikh Guru, compiled the **Adi Granth in 1604 CE** at Amritsar, incorporating hymns of the first five Gurus and diverse Hindu-Muslim Bhakti saints. It was installed in Harmandir Sahib with **Baba Buddha** as the first Head Granthi.</div>
+  </div>
+</div>
 
-**Q15.** *(UPPCS Prelims 2021)*
-Match List-I (Philosophy) with List-II (Propounder):
-
-| List-I | List-II |
-|---|---|
-| A. Advaita | 1. Ramanujacharya |
-| B. Vishishtadvaita | 2. Adi Shankaracharya |
-| C. Dvaita | 3. Vallabhacharya |
-| D. Shuddhadvaita | 4. Madhvacharya |
-
-Select the correct code:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-3, D-4
-C. A-2, B-4, C-1, D-3
-D. A-4, B-1, C-2, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-2, B-1, C-4, D-3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">*(UPPCS Prelims 2021)*<br>Match List-I (Philosophy) with List-II (Propounder):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Advaita</td><td><span class="match-key">1</span> Ramanujacharya</td></tr>
+      <tr><td><span class="match-key">B</span> Vishishtadvaita</td><td><span class="match-key">2</span> Adi Shankaracharya</td></tr>
+      <tr><td><span class="match-key">C</span> Dvaita</td><td><span class="match-key">3</span> Vallabhacharya</td></tr>
+      <tr><td><span class="match-key">D</span> Shuddhadvaita</td><td><span class="match-key">4</span> Madhvacharya</td></tr>
+  </tbody>
+</table><br>Select the correct code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-4, C-1, D-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-1, C-2, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (A-2, B-1, C-4, D-3)
 
 **Detailed Explanation:**
 - **Advaita (Absolute Non-dualism):** Adi Shankaracharya
 - **Vishishtadvaita (Qualified Non-dualism):** Ramanujacharya
 - **Dvaita (Dualism):** Madhvacharya
-- **Shuddhadvaita (Pure Non-dualism):** Vallabhacharya
-</details>
+- **Shuddhadvaita (Pure Non-dualism):** Vallabhacharya</div>
+  </div>
+</div>

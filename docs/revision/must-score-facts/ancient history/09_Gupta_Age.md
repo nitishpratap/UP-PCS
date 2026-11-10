@@ -22,7 +22,13 @@ hide:
 
 ## 🎯 Consolidated Must-Score Facts
 
-1. The imperial Gupta dynasty runs: **Sri Gupta $ightarrow$ Ghatotkacha $ightarrow$ Chandragupta I $ightarrow$ Samudragupta $ightarrow$ Chandragupta II Vikramaditya $ightarrow$ Kumaragupta I $ightarrow$ Skandagupta**.
+1. The imperial Gupta dynasty runs: **Sri Gupta $
+ightarrow$ Ghatotkacha $
+ightarrow$ Chandragupta I $
+ightarrow$ Samudragupta $
+ightarrow$ Chandragupta II Vikramaditya $
+ightarrow$ Kumaragupta I $
+ightarrow$ Skandagupta**.
 2. **Sri Gupta** and **Ghatotkacha** held the subordinate feudal title **Maharaja**, indicating they were feudatories (likely of the Kushanas or Murundas).
 3. **Chandragupta I (319–335 CE)** was the **first independent imperial ruler** of the dynasty, assuming the grand title **Maharajadhiraja** ("King of Kings").
 4. Chandragupta I founded the **Gupta Era** commencing on **26 February 319–320 CE**, marking his imperial coronation.
@@ -70,9 +76,12 @@ hide:
 25. After Skandagupta's death in 467 CE, the empire rapidly disintegrated due to recurring Huna invasions, internal succession wars, weak successors (Purugupta, Narasimhagupta Baladitya, Kumaragupta II, Budhagupta, Bhanugupta), and the rise of autonomous feudatories (*Maukharis, Maitrakas, Later Guptas*).
 26. **Eran Stone Pillar Inscription of Bhanugupta (510 CE, MP)**: Mentions that king Bhanugupta and his noble general **Goparaja** fought a fierce battle against the Hunas; Goparaja fell on the field, and his devoted wife immolated herself on his funeral pyre — **the earliest dated epigraphic record of Sati in India**.
 27. **Gupta Administrative Structure**:
-    - **Empire (*Rajya*)** $ightarrow$ divided into **Provinces (*Bhuktis*)**, governed by **Uparikas** (appointed directly by the emperor).
-    - **Bhuktis** $ightarrow$ divided into **Districts (*Vishayas*)**, governed by **Vishayapatis**.
-    - **Vishayas** $ightarrow$ divided into sub-districts (**Vithis**), and finally into **Villages (*Gramas*)**, governed by the **Gramika** / *Gramadhyaksha* assisted by village elders (*Mahattaras*).
+    - **Empire (*Rajya*)** $
+ightarrow$ divided into **Provinces (*Bhuktis*)**, governed by **Uparikas** (appointed directly by the emperor).
+    - **Bhuktis** $
+ightarrow$ divided into **Districts (*Vishayas*)**, governed by **Vishayapatis**.
+    - **Vishayas** $
+ightarrow$ divided into sub-districts (**Vithis**), and finally into **Villages (*Gramas*)**, governed by the **Gramika** / *Gramadhyaksha* assisted by village elders (*Mahattaras*).
 28. In district administration, the **Vishayapati** was advised by a representative advisory council (**Adhisthana-adhikarana**) composed of four leading municipal figures:
     - 1. **Nagara-sreshthi**: Chief of the city merchant guild / head banker.
     - 2. **Sarthavaha**: Chief of the traveling trade caravans.
@@ -151,6 +160,16 @@ hide:
     - Rapid acceleration of tax-free royal land grants (**Brahmadeya** to Brahmanas and **Devadana** to temples) with complete transfer of administrative and judicial powers over resident peasants (*Sarva-kara-parihara*); fostered the emergence of powerful local landlords and feudal lords (**Samantas / Mahasamantas**) that weakened central imperial authority.
 49. **Paharpur Copper Plate (479 CE, Bengal)**: Records land donation by a Brahmana couple to a Jain Vihara at Vatagohali, illustrating inter-religious communal harmony.
 50. **Vishnugupta**: The last recognized ruler of the imperial Gupta line, ruling around **540–550 CE**, after whom the imperial line completely vanished, giving way to regional successor kingdoms.
+51. **Founding & Chronology of Gupta Dynasty:** Founded by **Sri Gupta** (~275 CE) followed by Ghatotkacha (both carried modest feudatory title *Maharaja*); **Chandragupta I (319–335 CE)** assumed imperial title **Maharajadhiraja** ('King of Kings') and established the **Gupta Era starting in 319–320 CE**; married Lichchhavi princess Kumaradevi, issuing commemorative gold 'King-and-Queen' coins with title *Lichchhavayah*.
+52. **Samudragupta (335–375 CE) - 'Napoleon of India':** Son of Chandragupta I and Kumaradevi; historian **V.A. Smith** termed him the **'Indian Napoleon'** for his undefeated military campaigns; performed Vedic **Ashvamedha sacrifice** (issued Ashvamedha gold coins showing sacrificial horse); accomplished musician depicted on coins **playing the Veena**; patron of arts, carried titles *Kaviraja* ('King of Poets') and *Param Bhagavata*.
+53. **Prayag Prashasti (Allahabad Pillar Inscription):** Masterpiece of classical Sanskrit *Champu* (mixture of verse and prose) composed by royal court poet **Harisena**; inscribed on an Ashokan sandstone pillar at Allahabad; details Samudragupta's conquests in 5 categories: (1) Annexation of 9 kings of Aryavarta (Northern India) under policy of *Prasabhoddharana* (violent extermination); (2) Defeat of 12 kings of Dakshinapatha (Southern India) under noble policy of **Grahana-Moksha-Anugraha** (capture, release, and restoration of tributary autonomy - Mahendra of Kosala, Vyaghraraja of Mahakantara, Vishnugopa of Kanchi); (3) Subjugation of Atavika (forest) kingdoms; (4) Frontier kingdoms (Samatata, Davaka, Kamarupa, Kartripura, Nepal) and republican tribes paying tribute (*Sarvakaradana*); (5) Distant foreign rulers (Daivaputra-Shahi-Shahanushahi [Kushans], Shaka-Murundas, and Meghavarna of Sri Lanka) who rendered personal service (*Atmanivedana*).
+54. **Chandragupta II 'Vikramaditya' (375–415 CE):** Eliminated elder brother Rama Gupta (story recorded in Vishakhadatta's play *Devichandraguptam*); annihilated the Western Kshatrapas (Shakas) of Malwa and Kathiawar by defeating last ruler Rudrasimha III, assuming titles **Sakari** ('Destroyer of Shakas') and **Vikramaditya**; issued silver coins (*Rupaka*) for the first time in Gupta history modeled on Shaka coinage; established second capital at **Ujjain**.
+55. **Navaratnas (Nine Gems) of Chandragupta II Court:** (1) **Kalidasa** (Greatest classical Sanskrit dramatist and poet: *Abhijnanasakuntalam*, *Meghaduta*, *Raghuvamsha*, *Kumarasambhava*, *Malavikagnimitram*, *Vikramorvasiyam*, *Ritusamhara*); (2) **Varahamihira** (Astronomer and astrologer: *Brihat Samhita*, *Pancha Siddhantika*, *Brihat Jataka*); (3) **Amarsimha** (Lexicographer: *Amarakosha* - classical Sanskrit thesaurus); (4) **Dhanvantari** (Ayurvedic physician / Father of Indian Medicine); (5) **Vararuchi** (Grammarian: *Prakrita Prakasha*); (6) **Shanku** (Architect: *Shilpashastra*); (7) **Kshapanaka** (Astrologer: *Jyotishashastra*); (8) **Ghatakarpara** (Poet); (9) **Vetala Bhatta** (Magician / author of *Mantrashastra*).
+56. **Fa-Hien's Visit (399–414 CE):** Chinese Buddhist pilgrim visited India during Chandragupta II's reign (though he never mentions Chandragupta II by name in his travelogue *Fo-Kwo-Ki* / 'Record of Buddhist Kingdoms'); travelled overland via Gobi desert, Khotan, and Taxila, returning by sea via Sri Lanka and Java; spent 3 years at Pataliputra copying Vinaya manuscripts; noted peaceful kingdom, mild penal code (no capital punishment, only fines and amputation for repeated treason), widespread vegetarianism, and that common people used **cowrie shells** as medium of daily exchange; described untouchables (*Chandalas*) living outside towns who struck wooden clappers when entering streets to alert others.
+57. **Kumaragupta I 'Mahendraditya' (415–455 CE):** Long peaceful reign; issued largest variety and number of Gupta gold coins (*Dinaras*); performed Ashvamedha sacrifice; founded the world-renowned **Nalanda Mahavihara (Nalanda University)** in Bihar as an international center of Mahayana Buddhist higher learning; defended northern frontier against first incursions of the **White Huns (Hunas / Hephthalites)** through his crown prince Skandagupta.
+58. **Skandagupta (455–467 CE) - Saviour of India:** Ascended throne amidst severe Huna invasions; crushed the fierce Hunas under Toramana and Mihirakula, saving Indian civilization from catastrophic barbarian destruction (recorded in **Bhitari Pillar Inscription, Ghazipur, UP**); **Junagadh Rock Inscription (Kathiawar):** Records that his provincial governor Parnadatta and his son Chakrapalita reconstructed and repaired the historic dam of **Sudarshana Lake** in 456 CE after it breached due to excessive rains.
+59. **Scientific and Mathematical Giants of Gupta Era:** (1) **Aryabhata (born 476 CE at Kusumapura/Pataliputra):** Authored **Aryabhatiya** (at age 23) and *Arya-Siddhanta*; stated that Earth is spherical and rotates on its own axis causing day and night; accurately calculated the value of **Pi ($\pi = 3.1416$)** and solar year (365.258 days); formulated scientific explanations for solar and lunar eclipses (shadow of Earth on Moon); invented the decimal place-value system and zero; (2) **Varahamihira:** Stated that Moon rotates around Earth and Earth rotates around Sun; (3) **Brahmagupta (7th century):** Authored *Brahmasphuta Siddhanta*; formulated arithmetic rules for Zero and negative numbers; anticipated Newton's Law of Universal Gravitation by declaring: *'All things fall to the Earth by a law of nature; for it is the nature of the Earth to attract and keep things'*.
+60. **Classical Sanskrit Literature & Metallurgy:** **Shudraka** authored celebrated play *Mrichchhakatika* ('The Little Clay Cart'); **Vishakhadatta** authored *Mudrarakshasa* and *Devichandraguptam*; **Bhasa** composed *Svapnavasavadattam*; **Vishnu Sharma** compiled the immortal fables of **Panchatantra**; **Mehrauli Iron Pillar (Delhi):** 7.2 m high unrusted wrought-iron pillar erected by 'Chandra' (Chandragupta II) in 4th century CE at Vishnu-dhvaja (now Qutb complex), standing exposed to open weather for >1,600 years without corrosion, demonstrating apex metallurgical mastery.
 
 ## ⏱️ Timeline / Chronology
 
@@ -230,44 +249,23 @@ c. 550 CE  ── Reign of Vishnugupta; End of the Imperial Gupta dynasty
 | **Parvati Temple** | **Nachna Kuthara** (Panna, MP) | Goddess Parvati | Two-storied stone shrine with circumambulatory path (*Pradakshina*) |
 | **Laxman Temple** | **Sirpur** (Mahasamund, CG) | Lord Vishnu | Brick-built temple with ornate sanctum doorframe |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Chandragupta I (319 CE)** | **Chandragupta II (375 CE)**| Founded Gupta Era, married Kumaradevi vs Defeated Shakas (*Sakari*), Navaratnas, Fa-Hien | प्रथम / द्वितीय |
-| **Chandragupta Maurya (321 BCE)**| **Chandragupta I (319 CE)**| Mauryan empire founder vs Imperial Gupta dynasty founder (separated by ~640 years) | मौर्य / गुप्त |
-| **Fa-Hien (399–414 CE)** | **Xuanzang (630–644 CE)** | Visited under Chandragupta II (never named king) vs Visited under Harshavardhana (praised king) | फाह्यान / ह्वेनसांग |
-| **Prayag Prashasti (Harisena)**| **Aihole Inscription (Ravikirti)**| Praises Samudragupta's Digvijaya vs Praises Pulakeshin II defeating Harsha | प्रयाग प्रशस्ति / ऐहोल |
-| **Bhitari Pillar (Ghazipur)**| **Mehrauli Pillar (Delhi)** | Skandagupta's victory over Hunas vs Chandragupta II's unrusted iron pillar | भीतरी / महरौली |
-| **Eran Inscription (510 CE)** | **Nanaghat Inscription (1st c. BCE)**| Earliest record of **Sati** (Bhanugupta) vs Earliest record of **Land Grant** (Nayanika) | एरण / नानाघाट |
-| **Kumaragupta I** | **Skandagupta** | Founded Nalanda University (427 CE) vs Defeated Huna invasion & rebuilt Sudarshana dam | कुमारगुप्त / स्कंदगुप्त |
-| **Aryabhata** | **Varahamihira** | Calculated $\pi$, earth rotation, eclipses vs Compiled *Pancha-Siddhantika* & *Brihat Samhita* | आर्यभट / वराहमिहिर |
-| **Aryabhata** | **Brahmagupta** | 5th c. astronomer at Pataliputra vs 7th c. mathematician of Bhinmal who formulated rules of Zero | आर्यभट / ब्रह्मगुप्त |
-| **Dinar** | **Rupaka** | Gupta high-value **gold coins** vs Gupta **silver coins** started by Chandragupta II | दीनार / रूपक |
-| **Udranga** | **Uparikara** | Tax on permanent cultivators / water cess vs Additional surcharge on temporary tenants | उद्रंग / उपरिकर |
-| **Bhaga** | **Bhoga** | Standard 1/6th grain tax on harvest vs Daily customary gift of fruits, flowers, vegetables | भाग / भोग |
-| **Kshetra** | **Khila** | Cultivable agricultural land vs Fallow, waste, or uncultivated land | क्षेत्र / खिल |
-| **Nivi-dharma** | **Aprada-dharma** | Perpetual endowment without right to sell vs Enjoying revenue without right to alienate | नीवी धर्म / अप्रदा धर्म |
-| **Dashavatara (Deogarh)** | **Bhitargaon (Kanpur)** | Classical stone temple with shikhara vs Classical brick-and-terracotta temple | देवगढ़ / भीतरगांव |
-| **Kaviraja** | **Sakari** | Title of Samudragupta (poet-musician) vs Title of Chandragupta II (defeater of Shakas) | कविराज / शकारि |
-| **Sultanganj Buddha** | **Sarnath Seated Buddha** | 7.5-ft bronze standing Buddha (lost-wax) vs Stone seated Buddha in Dharmachakra mudra | सुल्तानगंज / सारनाथ |
-| **Rudradaman I (150 CE)** | **Skandagupta (456 CE)** | Shaka ruler who repaired Sudarshana Lake vs Gupta ruler whose governor Chakrapalita rebuilt it | रुद्रदामन / स्कंदगुप्त |
-| **Samanta** | **Kumaramatya** | Feudal lord holding granted land vs Imperial bureaucratic civil servant | सामंत / कुमारमात्य |
-| **Vakatakas** | **Guptas** | Deccan dynasty allied by marriage (Rudrasena II) vs Imperial northern dynasty (Chandragupta II) | वाकाटक / गुप्त |
-| **Brahmasphutasiddhanta** | **Aryabhatiya** | Brahmagupta's text defining arithmetic of Zero vs Aryabhata's foundational text calculating $\pi$ | ब्रह्मस्फुटसिद्धांत / आर्यभटीय |
-| **Mihirakula** | **Toramana** | Huna fanatic Shaivite king defeated by Yashodharman vs Father of Mihirakula who first invaded India | मिहिरकुल / तोरमाण |
-| **Devichandraguptam** | **Mudrarakshasa** | Vishakhadatta's lost play on Ramagupta & Dhruvadevi vs Vishakhadatta's play on Chanakya & Chandragupta | देवीचंद्रगुप्तम् / मुद्राराक्षस |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Gupta Imperial Succession:**
    - **Mnemonic:** **C - S - C - K - S**
-   - **Order:** **C**handragupta I $ightarrow$ **S**amudragupta $ightarrow$ **C**handragupta II $ightarrow$ **K**umaragupta I $ightarrow$ **S**kandagupta.
+   - **Order:** **C**handragupta I $
+ightarrow$ **S**amudragupta $
+ightarrow$ **C**handragupta II $
+ightarrow$ **K**umaragupta I $
+ightarrow$ **S**kandagupta.
 2. **Samudragupta's Conquest Formula (Prayag Prashasti):**
-   - **North (Aryavarta)**: **9 Kings** $ightarrow$ **Uprooted** (*Prasabhoddharana*).
-   - **South (Dakshinapatha)**: **12 Kings** $ightarrow$ **Released & Restored** (*Grahana-Mokshanugraha*).
+   - **North (Aryavarta)**: **9 Kings** $
+ightarrow$ **Uprooted** (*Prasabhoddharana*).
+   - **South (Dakshinapatha)**: **12 Kings** $
+ightarrow$ **Released & Restored** (*Grahana-Mokshanugraha*).
 3. **The Two Chinese Pilgrims & Court Match:**
-   - **F** comes before **X** $ightarrow$ **F**a-Hien (Gupta / Chandragupta II) came before **X**uanzang (Harsha).
+   - **F** comes before **X** $
+ightarrow$ **F**a-Hien (Gupta / Chandragupta II) came before **X**uanzang (Harsha).
 4. **Sudarshana Lake Dam Restorers:**
    - **Built by:** Chandragupta Maurya (**Pushyagupta**)
    - **Canals by:** Ashoka (**Tushaspha**)
@@ -277,328 +275,290 @@ c. 550 CE  ── Reign of Vishnugupta; End of the Imperial Gupta dynasty
    - **K - A - V - D** (*"Kalidasa, Amarasimha, Varahamihira, Dhanvantari"*) = Core 4 Gems to memorize for UPPCS!
 
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Which of the following works was NOT written by Kalidasa?
-
-1. Meghaduta
-2. Raghuvamsha
-3. Shringara Shataka
-
-A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Only 3.**
-
-</details>
-
-**Q2.**
-
-Match List-I (Writer) with List-II (Book):
-
-A. Trivikram Bhatta B. Somdev C. Jaidev D. Kshemendra
-1. Gita Govinda 2. Brihatkathamanjari 3. Nal Champu 4. Kathasaritsagara
-
-A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 3 4 1 2.**
-
-</details>
-
-**Q3.**
-
-Consider the following foreign travellers and arrange them in ascending chronological order:
-
-1. I-Tsing 2. Al-Biruni 3. Huentsang (Hiuen Tsang) 4. Fahyan (Fa-Hien)
-
-A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 4, 3, 1, 2.** Fa-Hien is the Gupta-age peg.
-
-</details>
-
-**Q4.**
-
-With reference to the Puranas, which one of the following statements is correct?
-
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.
-2. Vayu Purana throws light on the Gupta system of governance.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1.** Vishnu Purana has Mauryas. Vayu is not a Gupta admin manual.
-
-</details>
-
-**Q5.**
-
-With reference to Chandragupta-II, which of the following statements is/are correct?
-
-1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
-2. The weight of these coins used to be about 33 grains.
-
-A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Both 1 and 2.**
-
-</details>
-
-**Q6.**
-
-Match List-I with List-II (Samudragupta’s contemporary kings of South India / their kingdoms):
-
-A. Dhananjaya B. Nilaraja C. Ugrasena D. Vishnugopa
-1. Avamukta 2. Kanchi 3. Kusthalpura 4. Palaka
-
-A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 3 1 4 2.**
-
-</details>
-
-**Q7.** With reference to the imperial Gupta line, which of the following statements is/are correct?
-
-1. Sri Gupta and Ghatotkacha carry only the title Maharaja.
-2. Chandragupta I is the first Gupta Maharajadhiraja.
-3. The imperial capital is traditionally Pataliputra; span is roughly 320–550 CE.
-
-Select the correct answer from the code given below:
-
-A. Only 1 and 2
-
-B. All 1, 2 and 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** All three statements are correct.
-
-**Logic:** All three are Must-Score Gupta foundation facts.
-
-</details>
-
-**Q8.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (King) | List-II (Tag) |
-|---|---|
-| 1. Samudragupta | A. Sakari; ends Western Kshatrapas |
-| 2. Chandragupta II | B. Digvijaya; Prayag Prashasti |
-| 3. Kumaragupta I | C. Nalanda founder-patron |
-| 4. Skandagupta | D. Bhitari Huna war; last great imperial |
-
-*Row order is not the answer code.*
-
-A. 1-A, 2-B, 3-C, 4-D
-
-B. 1-B, 2-A, 3-C, 4-D
-
-C. 1-B, 2-C, 3-A, 4-D
-
-D. 1-D, 2-A, 3-C, 4-B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1-B, 2-A, 3-C, 4-D.
-
-**Logic:** Do not swap Samudra digvijaya with CG II Shaka war.
-
-</details>
-
-**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Chandragupta II’s strongest Shaka-victory proof is his silver rupaka coins of about 33 grains.
-
-**Reason (R):** Gold dinaras are prestige types and are not that Shaka-victory proof.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Specific example, evidence artifact, or negative distractor is not a causal explanation.
-
-</details>
-
-**Q10.** Arrange the following travellers in chronological order of their visit to India:
-
-1. Al-Biruni
-2. Fa-Hien
-3. Hiuen Tsang
-4. I-Tsing
-
-Select the correct answer from the code given below:
-
-A. 2–3–4–1
-
-B. 2–4–3–1
-
-C. 3–2–4–1
-
-D. 2–3–1–4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Fa-Hien → Hiuen Tsang → I-Tsing → Al-Biruni.
-
-**Logic:** Fa-Hien under CG II; Xuanzang under Harsha.
-
-</details>
-
-**Q11.** Which one of the following pairs is NOT correctly matched?
-
-Select the correct answer from the code given below:
-
-A. King-queen gold type — Chandragupta I
-
-B. Lyrist / horse / battle-axe — Samudragupta
-
-C. Archer type — Kumaragupta I
-
-D. Silver rupaka ~33 grains — Chandragupta II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Archer type belongs to Chandragupta II; peacock types often mark Kumaragupta I.
-
-**Logic:** Coin-type confused pair.
-
-</details>
-
-**Q12.** With reference to Samudragupta’s digvijaya, which of the following statements is/are correct?
-
-1. In the north he uprooted nine kings and annexed land; in the south he defeated then restored twelve kings as tribute.
-2. Vishnugopa of Kanchi is among the south matches in the Prashasti.
-3. V. A. Smith called him the Napoleon of India.
-
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-
-B. 2 and 3
-
-C. Only 1
-
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three statements are correct.
-
-**Logic:** All three are Must-Score Samudragupta facts.
-
-</details>
-
-**Q13.** Consider the following statements about Gupta administration:
-
-1. Provinces are vishaya under kumaramatya; districts are bhukti under uparika.
-2. Gupta rule was a Mauryan-style spy-state more central than the Mauryas.
-3. The ladder is Bhukti → Vishaya → Vithi → Grama.
-
-A. Only 3
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: Roles reverse — bhukti/uparika = province; vishaya/kumaramatya = district. Stmt 2 remains false: Guptas are not a tighter Mauryan-style spy-state.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Fa-Hien visited India about 399–414 CE under Chandragupta II.
-
-**Reason (R):** Fa-Hien is the Chinese witness of Harsha’s Kannauj assembly of 643 CE.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true, but (R) is false.
-
-**A/R logic:** Xuanzang is Harsha’s witness, not Fa-Hien.
-
-</details>
-
-**Q15.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Author / work) | List-II (Fact) |
-|---|---|
-| 1. Kalidasa | A. Shringara Shataka |
-| 2. Bhartrihari | B. Chandragupta II court tradition |
-| 3. Somadeva | C. Kathasaritsagara |
-| 4. Jayadeva | D. Gita Govinda |
-
-*Row order is not the answer code.*
-
-A. 1-B, 2-A, 3-C, 4-D
-
-B. 1-A, 2-B, 3-C, 4-D
-
-C. 1-B, 2-C, 3-A, 4-D
-
-D. 1-D, 2-A, 3-C, 4-B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1-B, 2-A, 3-C, 4-D.
-
-**Logic:** Do not give Shringara Shataka to Kalidasa.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following works was NOT written by Kalidasa?<br><br>1. Meghaduta<br>2. Raghuvamsha<br>3. Shringara Shataka<br><br>A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Writer) with List-II (Book):<br><br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Writer)</th><th>List-II (Book)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><span class="match-key">A</span> Trivikram Bhatta</td><td><span class="match-key">1</span> Gita Govinda</td></tr>
+    <tr><td><span class="match-key">B</span> Somdev</td><td><span class="match-key">2</span> Brihatkathamanjari</td></tr>
+    <tr><td><span class="match-key">C</span> Jaidev</td><td><span class="match-key">3</span> Nal Champu</td></tr>
+    <tr><td><span class="match-key">D</span> Kshemendra</td><td><span class="match-key">4</span> Kathasaritsagara</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 4 3 2 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4 3 1 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 4 2 1</div>
+  </div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 3 4 1 2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following foreign travellers and arrange them in ascending chronological order:<br><br>1. I-Tsing 2. Al-Biruni 3. Huentsang (Hiuen Tsang) 4. Fahyan (Fa-Hien)<br><br>A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 4, 3, 1, 2.** Fa-Hien is the Gupta-age peg.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Puranas, which one of the following statements is correct?<br><br>1. Information about the Mauryan dynasty is found in the Vishnu Purana.<br>2. Vayu Purana throws light on the Gupta system of governance.<br><br>A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1.** Vishnu Purana has Mauryas. Vayu is not a Gupta admin manual.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to Chandragupta-II, which of the following statements is/are correct?<br><br>1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.<br>2. The weight of these coins used to be about 33 grains.<br><br>A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists (Samudragupta’s contemporary kings of South India):</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (King)</th>
+        <th>List-II (Kingdom)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Dhananjaya</td><td><span class="match-key">1</span> Avamukta</td></tr>
+    <tr><td><span class="match-key">B</span> Nilaraja</td><td><span class="match-key">2</span> Kanchi</td></tr>
+    <tr><td><span class="match-key">C</span> Ugrasena</td><td><span class="match-key">3</span> Kusthalapura</td></tr>
+    <tr><td><span class="match-key">D</span> Vishnugopa</td><td><span class="match-key">4</span> Palakka</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 2 3 4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 2 3 4 1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 3 1 4 2</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 4 3 2 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 3 1 4 2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the imperial Gupta line, which of the following statements is/are correct?<br><br>1. Sri Gupta and Ghatotkacha carry only the title Maharaja.<br>2. Chandragupta I is the first Gupta Maharajadhiraja.<br>3. The imperial capital is traditionally Pataliputra; span is roughly 320–550 CE.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** All three are Must-Score Gupta foundation facts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (King)</th><th>List-II (Tag)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Samudragupta</td><td><span class="match-key">A</span> Sakari; ends Western Kshatrapas</td></tr>
+      <tr><td><span class="match-key">2</span> Chandragupta II</td><td><span class="match-key">B</span> Digvijaya; Prayag Prashasti</td></tr>
+      <tr><td><span class="match-key">3</span> Kumaragupta I</td><td><span class="match-key">C</span> Nalanda founder-patron</td></tr>
+      <tr><td><span class="match-key">4</span> Skandagupta</td><td><span class="match-key">D</span> Bhitari Huna war; last great imperial</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-C, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-C, 4-B</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1-B, 2-A, 3-C, 4-D.
+
+**Logic:** Do not swap Samudra digvijaya with CG II Shaka war.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Chandragupta II’s strongest Shaka-victory proof is his silver rupaka coins of about 33 grains.<br><br>**Reason (R):** Gold dinaras are prestige types and are not that Shaka-victory proof.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Specific example, evidence artifact, or negative distractor is not a causal explanation.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Arrange the following travellers in chronological order of their visit to India:<br><br>1. Al-Biruni<br>2. Fa-Hien<br>3. Hiuen Tsang<br>4. I-Tsing<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–3–4–1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–4–3–1</div><div class="pyq-opt"><span class="opt-letter">C</span> 3–2–4–1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–3–1–4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Fa-Hien → Hiuen Tsang → I-Tsing → Al-Biruni.
+
+**Logic:** Fa-Hien under CG II; Xuanzang under Harsha.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> King-queen gold type — Chandragupta I</div><div class="pyq-opt"><span class="opt-letter">B</span> Lyrist / horse / battle-axe — Samudragupta</div><div class="pyq-opt"><span class="opt-letter">C</span> Archer type — Kumaragupta I</div><div class="pyq-opt"><span class="opt-letter">D</span> Silver rupaka ~33 grains — Chandragupta II</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Archer type belongs to Chandragupta II; peacock types often mark Kumaragupta I.
+
+**Logic:** Coin-type confused pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Samudragupta’s digvijaya, which of the following statements is/are correct?<br><br>1. In the north he uprooted nine kings and annexed land; in the south he defeated then restored twelve kings as tribute.<br>2. Vishnugopa of Kanchi is among the south matches in the Prashasti.<br>3. V. A. Smith called him the Napoleon of India.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** All three are Must-Score Samudragupta facts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Gupta administration:<br><br>1. Provinces are vishaya under kumaramatya; districts are bhukti under uparika.<br>2. Gupta rule was a Mauryan-style spy-state more central than the Mauryas.<br>3. The ladder is Bhukti → Vishaya → Vithi → Grama.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: Roles reverse — bhukti/uparika = province; vishaya/kumaramatya = district. Stmt 2 remains false: Guptas are not a tighter Mauryan-style spy-state.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Fa-Hien visited India about 399–414 CE under Chandragupta II.<br><br>**Reason (R):** Fa-Hien is the Chinese witness of Harsha’s Kannauj assembly of 643 CE.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true, but (R) is false.
+
+**A/R logic:** Xuanzang is Harsha’s witness, not Fa-Hien.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Author / work)</th><th>List-II (Fact)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Kalidasa</td><td><span class="match-key">A</span> Shringara Shataka</td></tr>
+      <tr><td><span class="match-key">2</span> Bhartrihari</td><td><span class="match-key">B</span> Chandragupta II court tradition</td></tr>
+      <tr><td><span class="match-key">3</span> Somadeva</td><td><span class="match-key">C</span> Kathasaritsagara</td></tr>
+      <tr><td><span class="match-key">4</span> Jayadeva</td><td><span class="match-key">D</span> Gita Govinda</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-C, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-C, 4-B</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1-B, 2-A, 3-C, 4-D.
+
+**Logic:** Do not give Shringara Shataka to Kalidasa.</div>
+  </div>
+</div>

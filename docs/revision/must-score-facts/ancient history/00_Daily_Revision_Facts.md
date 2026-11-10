@@ -242,23 +242,6 @@ c. 1000–600 BCE  ── Later Vedic Period (Iron technology; PGW ware; Taittir
 | **Uttiramerur** | Kanchipuram (TN) | **Parantaka I** (Chola) | Detailed charter of **village autonomy**, *Variyam* committees, and **Kudavolai** pot-lottery system |
 | **Rummindei Pillar** | Lumbini (Nepal) | **Ashoka** (Maurya) | Marks Buddha's birthplace; tax concession: *Bhaga* reduced to **1/8th**, *Bali* abolished |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Akshavapa** | **Bhagadugha** | Superintendent of dice/gambling vs Revenue/tax collector | अक्षावाप / भागदुघ |
-| **Samaharta** | **Sannidhata** | Revenue Collector General (assessor/budget) vs Chief Treasury Officer (custodian of storehouses) | समाहर्ता / सन्निधाता |
-| **Astynomoi** | **Agronomoi** | 30 City officials of Pataliputra (6 boards) vs Rural/district officers (irrigation, roads, land) | एस्टीनोमोई / एग्रोनोमोई |
-| **Manda (J&K)** | **Mandi (UP)** | Northernmost IVC site on Chenab vs Late Harappan gold jewelry hoard site in Muzaffarnagar | मांडा / मांडी |
-| **Koldihwa** | **Mahagara** | Earliest rice-husk pottery impressions vs Cattle pen with distinct hoof marks (Belan valley UP) | कोलडिहवा / महागड़ा |
-| **Hinayana** | **Mahayana** | Pali scriptures, Arhat ideal, individual salvation vs Sanskrit, Bodhisattva ideal, universal savior | हीनयान / महायान |
-| **Digambara** | **Svetambara** | Sky-clad, Bhadrabahu line, women cannot attain moksha vs White-clad, Sthulabhadra line, women can | दिगंबर / श्वेतांबर |
-| **Vikrama Era (57 BCE)** | **Saka Era (78 CE)** | King of Ujjain against Shakas vs Accession of Kanishka I; difference is **135 years** | विक्रम / शक संवत |
-| **Udranga** | **Uparikara** | Gupta tax on permanent land tenants vs Additional tax on temporary land tenants | उद्रंग / उपरिकर |
-| **Kshetra** | **Khila** | Cultivable agricultural land vs Waste or uncultivated fallow land | क्षेत्र / खिल |
-| **Anuloma Marriage** | **Pratiloma Marriage**| Higher varna groom + Lower varna bride (permitted) vs Lower varna groom + Higher varna bride (condemned) | अनुलोम / प्रतिलोम |
-| **Sita** | **Bhaga** | Revenue from crown-owned agricultural land vs King's royal share of private produce (standard 1/6th) | सीता / भाग |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Four Buddhist Councils (Places & Kings):**
@@ -288,21 +271,23 @@ c. 1000–600 BCE  ── Later Vedic Period (Iron technology; PGW ware; Taittir
    - **Neydal** = N for **Navigation** (Coastal sea, Varuna)
    - **Palai** = P for **Parched** (Desert, Korravai)
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.** The famous dialogue between Nachiketa and Yama regarding the nature of soul and immortality is found in which of the following Upanishads?
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-A. Chhandogya Upanishad  
-B. Mundaka Upanishad  
-C. Katha Upanishad  
-D. Kena Upanishad  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Katha Upanishad)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">The famous dialogue between Nachiketa and Yama regarding the nature of soul and immortality is found in which of the following Upanishads?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chhandogya Upanishad</div><div class="pyq-opt"><span class="opt-letter">B</span> Mundaka Upanishad</div><div class="pyq-opt"><span class="opt-letter">C</span> Katha Upanishad</div><div class="pyq-opt"><span class="opt-letter">D</span> Kena Upanishad</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Katha Upanishad)
 
 **Detailed Explanation:**
 - The celebrated philosophical dialogue between the young seeker **Nachiketa** and **Yama** (the God of Death) is found in the **Katha Upanishad** (belonging to the Krishna Yajurveda).
@@ -314,20 +299,22 @@ D. Kena Upanishad
   - **Jabala Upanishad:** Earliest explicit mention of the four stages of life (*Ashramas*).
 
 **Key Exam Takeaway:**
-- Nachiketa–Yama dialogue = **Katha Upanishad**.
-</details>
+- Nachiketa–Yama dialogue = **Katha Upanishad**.</div>
+  </div>
+</div>
 
-**Q2.** At which of the following Harappan sites was the earliest evidence of a ploughed agricultural field discovered?
-
-A. Harappa  
-B. Mohenjodaro  
-C. Kalibangan  
-D. Lothal  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Kalibangan)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">At which of the following Harappan sites was the earliest evidence of a ploughed agricultural field discovered?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Harappa</div><div class="pyq-opt"><span class="opt-letter">B</span> Mohenjodaro</div><div class="pyq-opt"><span class="opt-letter">C</span> Kalibangan</div><div class="pyq-opt"><span class="opt-letter">D</span> Lothal</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Kalibangan)
 
 **Detailed Explanation:**
 - Excavations at **Kalibangan** (Hanumangarh district, Rajasthan) on the dry bed of the Ghaggar river, led by **A. Ghosh (1953)** and later **B.B. Lal & B.K. Thapar (1961–1969)**, revealed the **earliest ploughed agricultural field surface** in the world, belonging to the Early Harappan phase.
@@ -335,20 +322,22 @@ D. Lothal
 - Kalibangan also yielded a row of **7 fire altars**, camel bones, and decorated floor tiles.
 
 **Key Exam Takeaway:**
-- Ploughed field = **Kalibangan**; Terracotta toy model of plough = **Banawali** (Haryana).
-</details>
+- Ploughed field = **Kalibangan**; Terracotta toy model of plough = **Banawali** (Haryana).</div>
+  </div>
+</div>
 
-**Q3.** In the context of ancient Indian administration, who among the following Mauryan officials was in charge of the collection of revenue across the empire?
-
-A. Sannidhata  
-B. Samaharta  
-C. Pradeshika  
-D. Sitadhyaksha  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Samaharta)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">In the context of ancient Indian administration, who among the following Mauryan officials was in charge of the collection of revenue across the empire?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sannidhata</div><div class="pyq-opt"><span class="opt-letter">B</span> Samaharta</div><div class="pyq-opt"><span class="opt-letter">C</span> Pradeshika</div><div class="pyq-opt"><span class="opt-letter">D</span> Sitadhyaksha</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Samaharta)
 
 **Detailed Explanation:**
 - In Kautilya's *Arthashastra*, the **Samaharta (समाहर्ता)** was the **Collector General of Revenue** — responsible for assessing revenues, fixing tax rates, preparing the imperial budget, and superintending tax collection from land, trade, mines, and forests.
@@ -358,20 +347,22 @@ D. Sitadhyaksha
   - **Sitadhyaksha:** Superintendent in charge of crown agricultural lands (*Sita*).
 
 **Key Exam Takeaway:**
-- Revenue collection & budget = **Samaharta**; Treasury custody & granaries = **Sannidhata**.
-</details>
+- Revenue collection & budget = **Samaharta**; Treasury custody & granaries = **Sannidhata**.</div>
+  </div>
+</div>
 
-**Q4.** Who among the following compiled the *Vinaya Pitaka* during the First Buddhist Council held at Rajagriha?
-
-A. Ananda  
-B. Upali  
-C. Mahakassapa  
-D. Moggaliputta Tissa  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Upali)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who among the following compiled the *Vinaya Pitaka* during the First Buddhist Council held at Rajagriha?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ananda</div><div class="pyq-opt"><span class="opt-letter">B</span> Upali</div><div class="pyq-opt"><span class="opt-letter">C</span> Mahakassapa</div><div class="pyq-opt"><span class="opt-letter">D</span> Moggaliputta Tissa</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Upali)
 
 **Detailed Explanation:**
 - The **First Buddhist Council** was convened in **483 BCE** at the **Sattapanni (Saptaparni) Cave in Rajagriha** shortly after the Mahaparinirvana of the Buddha under the royal patronage of king **Ajatashatru** of the Haryanka dynasty, presided over by venerable elder **Mahakassapa**.
@@ -380,20 +371,22 @@ D. Moggaliputta Tissa
   - **Ananda** (Buddha's favorite disciple) recited and compiled the **Sutta Pitaka** (the sermons, doctrines, and ethical discourses of the Buddha).
 
 **Key Exam Takeaway:**
-- Vinaya Pitaka = **Upali**; Sutta Pitaka = **Ananda**; President = **Mahakassapa**.
-</details>
+- Vinaya Pitaka = **Upali**; Sutta Pitaka = **Ananda**; President = **Mahakassapa**.</div>
+  </div>
+</div>
 
-**Q5.** In which of his Major Rock Edicts does Emperor Ashoka mention the contemporary Greek kings, including Antiochus II Theos and Ptolemy II Philadelphus?
-
-A. Major Rock Edict II  
-B. Major Rock Edict V  
-C. Major Rock Edict XII  
-D. Major Rock Edict XIII  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Major Rock Edict XIII)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In which of his Major Rock Edicts does Emperor Ashoka mention the contemporary Greek kings, including Antiochus II Theos and Ptolemy II Philadelphus?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Major Rock Edict II</div><div class="pyq-opt"><span class="opt-letter">B</span> Major Rock Edict V</div><div class="pyq-opt"><span class="opt-letter">C</span> Major Rock Edict XII</div><div class="pyq-opt"><span class="opt-letter">D</span> Major Rock Edict XIII</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Major Rock Edict XIII)
 
 **Detailed Explanation:**
 - **Major Rock Edict XIII** is the largest and most famous Ashokan inscription. It records the terrible devastation of the **Kalinga War (261 BCE, 8th regnal year)**, expressing deep repentance and proclaiming the victory of Dhamma (*Dhamma-Vijaya*) over military conquest (*Digvijaya*).
@@ -405,20 +398,22 @@ D. Major Rock Edict XIII
   5. **Alikasudaro** = Alexander of Epirus (or Corinth).
 
 **Key Exam Takeaway:**
-- Kalinga War & 5 Greek Kings = **Major Rock Edict XIII**.
-</details>
+- Kalinga War & 5 Greek Kings = **Major Rock Edict XIII**.</div>
+  </div>
+</div>
 
-**Q6.** Which of the following inscriptions provides the earliest epigraphic and dated evidence of the practice of Sati in ancient India?
-
-A. Aihole Inscription of Pulakeshin II  
-B. Prayag Prashasti of Samudragupta  
-C. Eran Pillar Inscription of Bhanugupta  
-D. Junagarh Inscription of Rudradaman I  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Eran Pillar Inscription of Bhanugupta)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following inscriptions provides the earliest epigraphic and dated evidence of the practice of Sati in ancient India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Aihole Inscription of Pulakeshin II</div><div class="pyq-opt"><span class="opt-letter">B</span> Prayag Prashasti of Samudragupta</div><div class="pyq-opt"><span class="opt-letter">C</span> Eran Pillar Inscription of Bhanugupta</div><div class="pyq-opt"><span class="opt-letter">D</span> Junagarh Inscription of Rudradaman I</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Eran Pillar Inscription of Bhanugupta)
 
 **Detailed Explanation:**
 - The **Eran Stone Pillar Inscription (dated 510 CE)** located in Sagar district, Madhya Pradesh, was inscribed during the reign of Gupta emperor **Bhanugupta**.
@@ -426,49 +421,54 @@ D. Junagarh Inscription of Rudradaman I
 - This represents the **first undisputed dated epigraphic record of Sati** in Indian history.
 
 **Key Exam Takeaway:**
-- Earliest dated record of Sati = **Eran Inscription (510 CE, Bhanugupta)**.
-</details>
+- Earliest dated record of Sati = **Eran Inscription (510 CE, Bhanugupta)**.</div>
+  </div>
+</div>
 
-**Q7.** In the Later Vedic administrative system, who among the following was the *Akshavapa*?
-
-A. Collector of royal revenues  
-B. Superintendent of gambling and royal dice accountant  
-C. Commander of the chariot forces  
-D. Officer in charge of pastures and forests  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Superintendent of gambling and royal dice accountant)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In the Later Vedic administrative system, who among the following was the *Akshavapa*?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Collector of royal revenues</div><div class="pyq-opt"><span class="opt-letter">B</span> Superintendent of gambling and royal dice accountant</div><div class="pyq-opt"><span class="opt-letter">C</span> Commander of the chariot forces</div><div class="pyq-opt"><span class="opt-letter">D</span> Officer in charge of pastures and forests</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Superintendent of gambling and royal dice accountant)
 
 **Detailed Explanation:**
 - In the **Ratnahavimshi** list of the 12 Ratnins mentioned in the *Shatapatha Brahmana* and *Taittiriya Samhita*, **Akshavapa (अक्षावाप)** was the **superintendent of gambling, master of the royal dice, and keeper of dice accounts**.
 - **Common Examiner Trap:** UPPCS frequently offers "Collector of Revenue" as a distractor for Akshavapa. The tax/revenue collector was **Bhagadugha (भागदुघ)**!
 
 **Key Exam Takeaway:**
-- Akshavapa = **Gambling / dice accountant**; Bhagadugha = **Revenue / tax collector**.
-</details>
+- Akshavapa = **Gambling / dice accountant**; Bhagadugha = **Revenue / tax collector**.</div>
+  </div>
+</div>
 
-**Q8.** Match List-I (Tirthankaras) with List-II (Cognizance / Emblems):
-
-| List-I (Tirthankara) | List-II (Emblem) |
-|---|---|
-| A. Adinatha (Rishabhanatha) | 1. Bull |
-| B. Mallinatha | 2. Water Jar (Kalasha) |
-| C. Parshvanatha | 3. Serpent |
-| D. Mahavira | 4. Lion |
-
-Select the correct code:
-
-A. A-1, B-2, C-3, D-4  
-B. A-2, B-1, C-4, D-3  
-C. A-1, B-3, C-2, D-4  
-D. A-4, B-2, C-3, D-1  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-1, B-2, C-3, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Tirthankaras) with List-II (Cognizance / Emblems):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Tirthankara)</th><th>List-II (Emblem)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Adinatha (Rishabhanatha)</td><td><span class="match-key">1</span> Bull</td></tr>
+      <tr><td><span class="match-key">B</span> Mallinatha</td><td><span class="match-key">2</span> Water Jar (Kalasha)</td></tr>
+      <tr><td><span class="match-key">C</span> Parshvanatha</td><td><span class="match-key">3</span> Serpent</td></tr>
+      <tr><td><span class="match-key">D</span> Mahavira</td><td><span class="match-key">4</span> Lion</td></tr>
+  </tbody>
+</table><br>Select the correct code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-3, C-2, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-2, C-3, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (A-1, B-2, C-3, D-4)
 
 **Detailed Explanation:**
 - **Adinatha (Rishabhanatha - 1st):** **Bull** (वृषभ).
@@ -478,20 +478,22 @@ D. A-4, B-2, C-3, D-1
 - Other frequent matchings: Ajitanatha (2nd) = Elephant; Santinatha (16th) = Deer; Neminatha (22nd) = Conch shell.
 
 **Key Exam Takeaway:**
-- Rishabha = Bull; Malli = Kalasha; Parshva = Serpent; Mahavira = Lion.
-</details>
+- Rishabha = Bull; Malli = Kalasha; Parshva = Serpent; Mahavira = Lion.</div>
+  </div>
+</div>
 
-**Q9.** Who among the following kings is praised in the Aihole Inscription for defeating Harshavardhana on the banks of river Narmada?
-
-A. Pulakeshin I  
-B. Pulakeshin II  
-C. Vikramaditya I  
-D. Kirtivarman I  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Pulakeshin II)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Who among the following kings is praised in the Aihole Inscription for defeating Harshavardhana on the banks of river Narmada?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pulakeshin I</div><div class="pyq-opt"><span class="opt-letter">B</span> Pulakeshin II</div><div class="pyq-opt"><span class="opt-letter">C</span> Vikramaditya I</div><div class="pyq-opt"><span class="opt-letter">D</span> Kirtivarman I</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Pulakeshin II)
 
 **Detailed Explanation:**
 - The **Aihole Inscription (dated 634 CE)** is an eulogistic prashasti inscribed on the Meguti Jain temple in Bagalkot, Karnataka. It was composed by court poet **Ravikirti** in chaste classical Sanskrit.
@@ -499,60 +501,66 @@ D. Kirtivarman I
 - In the inscription, Ravikirti famously boasts of achieving fame equal to poets **Kalidasa** and **Bharavi**.
 
 **Key Exam Takeaway:**
-- Aihole Inscription = **Ravikirti**, praising **Pulakeshin II** for defeating **Harsha**.
-</details>
+- Aihole Inscription = **Ravikirti**, praising **Pulakeshin II** for defeating **Harsha**.</div>
+  </div>
+</div>
 
-**Q10.** The famous ancient port of Muziris, renowned as a great entrepôt for Indo-Roman maritime trade and the export of black pepper (*Yavanapriya*), was located on the coast of:
-
-A. Gujarat  
-B. Tamil Nadu  
-C. Kerala  
-D. Maharashtra  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Kerala)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The famous ancient port of Muziris, renowned as a great entrepôt for Indo-Roman maritime trade and the export of black pepper (*Yavanapriya*), was located on the coast of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gujarat</div><div class="pyq-opt"><span class="opt-letter">B</span> Tamil Nadu</div><div class="pyq-opt"><span class="opt-letter">C</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">D</span> Maharashtra</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Kerala)
 
 **Detailed Explanation:**
 - **Muziris** (modern Kodungallur / Pattanam near Kochi, Kerala) situated near the mouth of the Periyar river was the premier ancient port of the **Chera kingdom**.
 - As recorded in *Periplus of the Erythraean Sea* and Pliny's *Natural History*, Roman merchant ships brought large quantities of gold and silver coins, wine, and coral, and exported Indian **black pepper** (called **"Yavanapriya"** by Sanskrit writers due to Roman craze for it), fine muslins, and beryls. A temple dedicated to Emperor Augustus was also constructed here.
 
 **Key Exam Takeaway:**
-- Muziris = **Kerala coast**; Barygaza (Bharuch) = **Gujarat coast**; Tamralipti = **Bengal coast**.
-</details>
+- Muziris = **Kerala coast**; Barygaza (Bharuch) = **Gujarat coast**; Tamralipti = **Bengal coast**.</div>
+  </div>
+</div>
 
-**Q11.** The term *Aghanya* mentioned in the hymns of the Rigveda refers to:
-
-A. Women  
-B. Brahmins  
-C. Cow  
-D. Priest  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Cow)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The term *Aghanya* mentioned in the hymns of the Rigveda refers to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Women</div><div class="pyq-opt"><span class="opt-letter">B</span> Brahmins</div><div class="pyq-opt"><span class="opt-letter">C</span> Cow</div><div class="pyq-opt"><span class="opt-letter">D</span> Priest</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Cow)
 
 **Detailed Explanation:**
 - In the Rigveda, the **Cow** is explicitly referred to as **Aghanya (अघन्या)**, which literally translates to **"that which must not be killed / slain"**.
 - Cows were the central measure of wealth (*Gomat*) and the medium of exchange in the pastoral Rigvedic economy. Killing or hurting a cow was considered a heinous sin punishable by death or banishment from the clan.
 
 **Key Exam Takeaway:**
-- *Aghanya* = **Cow** (not to be killed).
-</details>
+- *Aghanya* = **Cow** (not to be killed).</div>
+  </div>
+</div>
 
-**Q12.** In the Sangam landscape classification (*Ainthinai*), which ecological tract was presided over by the deity Murugan and characterized by hunting and honey-gathering?
-
-A. Mullai  
-B. Marudam  
-C. Kurinji  
-D. Neydal  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Kurinji)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">In the Sangam landscape classification (*Ainthinai*), which ecological tract was presided over by the deity Murugan and characterized by hunting and honey-gathering?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mullai</div><div class="pyq-opt"><span class="opt-letter">B</span> Marudam</div><div class="pyq-opt"><span class="opt-letter">C</span> Kurinji</div><div class="pyq-opt"><span class="opt-letter">D</span> Neydal</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Kurinji)
 
 **Detailed Explanation:**
 - In ancient Tamil Sangam poetry, each **Tinai** represents a specific eco-zone and lifestyle:
@@ -563,20 +571,22 @@ D. Neydal
   - **Palai:** Arid wasteland/desert; Deity = **Korravai**; Occupation = Robbery, plundering.
 
 **Key Exam Takeaway:**
-- Kurinji = **Hills / Murugan**; Marudam = **Plains / Indra**; Neydal = **Coast / Varuna**.
-</details>
+- Kurinji = **Hills / Murugan**; Marudam = **Plains / Indra**; Neydal = **Coast / Varuna**.</div>
+  </div>
+</div>
 
-**Q13.** Which of the following schools of Indian philosophy is considered the oldest and propounded the dualistic realism of *Purusha* (consciousness) and *Prakriti* (matter)?
-
-A. Nyaya  
-B. Samkhya  
-C. Vaisheshika  
-D. Purva Mimamsa  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Samkhya)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following schools of Indian philosophy is considered the oldest and propounded the dualistic realism of *Purusha* (consciousness) and *Prakriti* (matter)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nyaya</div><div class="pyq-opt"><span class="opt-letter">B</span> Samkhya</div><div class="pyq-opt"><span class="opt-letter">C</span> Vaisheshika</div><div class="pyq-opt"><span class="opt-letter">D</span> Purva Mimamsa</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Samkhya)
 
 **Detailed Explanation:**
 - **Samkhya** is the oldest of the six classical orthodox schools (*Shad-Darshana*), founded by the ancient sage **Kapila Muni**.
@@ -586,20 +596,22 @@ D. Purva Mimamsa
 - Evolution of the cosmos occurs through the interplay of Purusha and Prakriti yielding 23 evolutes (total 25 basic elements / *Tattvas*).
 
 **Key Exam Takeaway:**
-- Samkhya = **Kapila Muni** (dualism of Purusha & Prakriti; 25 elements).
-</details>
+- Samkhya = **Kapila Muni** (dualism of Purusha & Prakriti; 25 elements).</div>
+  </div>
+</div>
 
-**Q14.** Under the administrative system of the imperial Guptas, what did the term *Udranga* signify?
-
-A. Unpaid forced labor (*Begar*)  
-B. Water tax or tax on permanent land cultivators  
-C. Tax paid exclusively in gold coins  
-D. Surcharge on temporary tenants  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Water tax or tax on permanent land cultivators)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Under the administrative system of the imperial Guptas, what did the term *Udranga* signify?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Unpaid forced labor (*Begar*)</div><div class="pyq-opt"><span class="opt-letter">B</span> Water tax or tax on permanent land cultivators</div><div class="pyq-opt"><span class="opt-letter">C</span> Tax paid exclusively in gold coins</div><div class="pyq-opt"><span class="opt-letter">D</span> Surcharge on temporary tenants</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Water tax or tax on permanent land cultivators)
 
 **Detailed Explanation:**
 - In Gupta land-grant inscriptions, fiscal terms occur frequently:
@@ -609,25 +621,28 @@ D. Surcharge on temporary tenants
   - **Vishti (विष्टि):** Unpaid, forced physical labor.
 
 **Key Exam Takeaway:**
-- Permanent tenant tax = **Udranga**; Temporary tenant cess = **Uparikara**.
-</details>
+- Permanent tenant tax = **Udranga**; Temporary tenant cess = **Uparikara**.</div>
+  </div>
+</div>
 
-**Q15.** Which of the following Mahajanapadas was the ONLY one located to the south of the Vindhya mountains on the banks of river Godavari?
-
-A. Chedi  
-B. Matsya  
-C. Asmaka (Assaka)  
-D. Avanti  
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Asmaka / Assaka)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which of the following Mahajanapadas was the ONLY one located to the south of the Vindhya mountains on the banks of river Godavari?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chedi</div><div class="pyq-opt"><span class="opt-letter">B</span> Matsya</div><div class="pyq-opt"><span class="opt-letter">C</span> Asmaka (Assaka)</div><div class="pyq-opt"><span class="opt-letter">D</span> Avanti</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Asmaka / Assaka)
 
 **Detailed Explanation:**
 - Among the 16 Mahajanapadas enumerated in the Buddhist *Anguttara Nikaya* and Jain *Bhagavati Sutra*, **Asmaka (Assaka)** was the **only Mahajanapada situated entirely south of the Vindhyas** in Dakshinapatha.
 - It was located on the banks of the **Godavari river** (in modern Maharashtra/Telangana) with its capital at **Potana (or Potali)**.
 
 **Key Exam Takeaway:**
-- Sole southern Mahajanapada on Godavari = **Asmaka (Capital: Potana)**.
-</details>
+- Sole southern Mahajanapada on Godavari = **Asmaka (Capital: Potana)**.</div>
+  </div>
+</div>

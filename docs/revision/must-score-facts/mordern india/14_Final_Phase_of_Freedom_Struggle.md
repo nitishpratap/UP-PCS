@@ -71,6 +71,31 @@ hide:
 48. Lord Mountbatten advanced the transfer date by ten months and announced the **Mountbatten Plan (3 June Plan / डिकी बर्ड योजना)** on **3 June 1947**, providing for the partition of British India into two dominions (India and Pakistan), autonomy for princely states to join either dominion, and provincial boundary commissions.
 49. The **Indian Independence Act, 1947 (भारतीय स्वतंत्रता अधिनियम, 1947)** was introduced in the British House of Commons on 4 July 1947 and received **Royal Assent on 18 July 1947**; it ended British paramountcy and created the two sovereign dominions of India and Pakistan with effect from **15 August 1947**.
 50. Two separate Boundary Commissions for Punjab and Bengal were constituted on 30 June 1947, both chaired by Sir **Cyril Radcliffe**; the **Radcliffe Award** establishing the international boundaries of independent India was published on **17 August 1947**.
+51. **Second Round Table Conference (Sep–Dec 1931):** Mahatma Gandhi attended as sole representative of INC (accompanied by Sarojini Naidu, Madan Mohan Malaviya, and G.D. Birla); deadlocked over separate electorates demanded by Dr. Ambedkar (Depressed Classes), Jinnah, and Aga Khan; Gandhi returned empty-handed to Bombay (28 Dec 1931) and resumed Civil Disobedience.
+52. **MacDonald Communal Award (16 August 1932):** Announced by British PM Ramsay MacDonald; treated Depressed Classes as separate minority community and awarded them **71 separate electorate seats** in provincial legislatures for 20 years; Gandhi commenced fast unto death in Yerwada Central Jail (Pune) on 20 September 1932.
+53. **Poona Pact (24 September 1932):** Agreement between Dr. B.R. Ambedkar and Congress leaders (signed by Ambedkar, Madan Mohan Malaviya, C. Rajagopalachari, Dr. Rajendra Prasad); abandoned separate electorates for Depressed Classes; increased reserved seats in provincial legislatures from 71 to **147 seats**, and reserved **18% of general seats** in Central Legislature; Gandhi formed **All India Anti-Untouchability League (Sep 1932)** and started weekly **Harijan (1933)**.
+54. **Third Round Table Conference (Nov–Dec 1932):** Boycotted by Congress and British Labour Party; only 46 delegates attended; discussions formed basis of British White Paper (March 1933) which led to Joint Select Committee under Lord Linlithgow and Government of India Act 1935.
+55. **Congress Ministries of 1937:** Elections held under 1935 Act in 11 provinces (early 1937); Congress won absolute majority in 5 provinces (Madras, United Provinces, Central Provinces, Bihar, Orissa) and formed coalition governments in Bombay, Assam, and NWFP; Congress ministries resigned *en masse* in **October–November 1939** protesting Viceroy Lord Linlithgow declaring India at war with Germany without consulting Indian representatives.
+56. **Day of Deliverance (22 December 1939):** Observed by Muslim League under M.A. Jinnah celebrating the resignation of Congress ministries; supported by Dr. B.R. Ambedkar and E.V. Ramasamy Naicker.
+57. **Lahore Resolution / Pakistan Resolution (23 March 1940):** Passed at Lahore session of All-India Muslim League; drafted by Sikandar Hayat Khan and moved by Fazlul Huq (Chief Minister of Bengal); demanded grouping of geographically contiguous units in Muslim-majority areas (North-West and Eastern zones) into 'Independent States'; word 'Pakistan' was not mentioned in text of resolution (term coined in 1933 by **Choudhry Rahmat Ali** in pamphlet *Now or Never*).
+58. **August Offer (8 August 1940):** Announced by Viceroy Lord Linlithgow; proposed expansion of Viceroy's Executive Council, establishment of War Advisory Council, and promised post-war constitution-making body; explicitly recognized for the first time Indian right to frame constitution; rejected by Congress because it offered only Dominion Status.
+59. **Individual Satyagraha (October 1940):** Launched by Gandhi as limited moral protest against war involvement; first Satyagrahi was **Acharya Vinoba Bhave** (offered satyagraha at Paunar, Maharashtra on 17 Oct 1940); second Satyagrahi was **Jawaharlal Nehru**; third was **Brahma Dutt**; participants marched towards Delhi shouting anti-war slogans, earning it the name **'Delhi Chalo Movement'**.
+60. **Cripps Mission (March 1942):** Led by Sir Stafford Cripps (Lord Privy Seal); promised **Dominion Status** after war, Constituent Assembly representing provinces and princely states, and allowed any province unwilling to accept new constitution the right to secede (*Local Option*); rejected by Congress as 'post-dated cheque on a crashing bank'; rejected by Muslim League for not explicitly granting Pakistan.
+61. **Quit India Resolution (8 August 1942):** All-India Congress Committee met at **Gowalia Tank Maidan (August Kranti Maidan), Bombay**; passed historic Quit India Resolution moved by Jawaharlal Nehru and seconded by Sardar Patel; Gandhi gave historic mantra: **'Do or Die' (करो या मरो)**: *'We shall either free India or die in the attempt'*; Aruna Asaf Ali hoisted the tricolour at Gowalia Tank on 9 August.
+62. **Operation Zero Hour (9 August 1942):** British launched preemptive nationwide crackdown at midnight; arrested all top Congress leaders before dawn; Gandhi, Kasturba, Mahadev Desai, and Sarojini Naidu imprisoned in **Aga Khan Palace (Pune)**; Nehru, Patel, Azad, and Kripalani imprisoned in **Ahmednagar Fort**; Kasturba Gandhi and Mahadev Desai died in Aga Khan Palace during imprisonment.
+63. **Underground Networks in Quit India:** Movement turned spontaneous and leaderless; **Jayaprakash Narayan, Ram Manohar Lohia, and Aruna Asaf Ali** led underground resistance; JP escaped from **Hazaribagh Central Jail** on Diwali night 1942 to organize **Azad Dasta** in Nepal; **Usha Mehta** operated clandestine **Secret Congress Radio** from Bombay with Babubhai Khakar until betrayed and arrested in Nov 1942.
+64. **Parallel Governments (Prati Sarkar) of 1942:** (1) **Ballia (UP):** Under **Chittu Pandey** ('Tiger of Ballia') for one week in August 1942; (2) **Tamluk (Midnapore, Bengal):** **Jatiya Sarkar** under Satish Chandra Samanta (Dec 1942 – Sep 1944), where 73-year-old **Matangini Hazra** was shot dead while holding tricolour; (3) **Satara (Maharashtra):** Longest running parallel government (1943–1946) led by **Nana Patil** and **Y.B. Chavan** (organized *Nyayadan Mandals* and *Toofan Sena*).
+65. **Subhas Chandra Bose & Forward Bloc (1939):** Re-elected Congress President at Tripuri Session (1939) defeating Gandhi's candidate Pattabhi Sitaramayya (*'Pattabhi's defeat is my defeat'*); resigned due to rift with Old Guard and founded **Forward Bloc (3 May 1939)** at Makur, Unnao; escaped from house arrest in Calcutta on **16 January 1941** disguised as Pathan insurance agent 'Ziauddin' (The Great Escape); travelled to Berlin via Kabul and Moscow.
+66. **Indian National Army (Azad Hind Fauj):** Idea first conceived by **Mohan Singh** in Malaya in 1941 from Indian prisoners of war captured by Japanese; **Rash Behari Bose** organized Indian Independence League in Tokyo (1942); Netaji Subhas arrived in Singapore via submarine (U-180 and I-29) in July 1943; took supreme command of INA on **25 August 1943**.
+67. **Provisional Government of Free India (Arzi Hukumat-e-Azad Hind):** Proclaimed by Netaji in Singapore on **21 October 1943**; recognized by 9 Axis governments including Japan, Germany, and Italy; Netaji coined slogans **'Jai Hind'** and **'Give me blood, and I shall give you freedom'**; renamed Andaman and Nicobar Islands ceded by Japan as **Shaheed Dweep** and **Swaraj Dweep** (Dec 1943); formed **Rani of Jhansi Regiment** (all-women combat unit led by **Captain Lakshmi Sahgal**).
+68. **INA Trials (Red Fort Trials, Nov 1945 – Jan 1946):** Public trial of three INA officers—**Major General Shah Nawaz Khan**, **Colonel Prem Kumar Sahgal**, and **Colonel Gurbaksh Singh Dhillon**—held at Red Fort, Delhi; defended by joint Congress legal defense team headed by **Bhulabhai Desai**, joined by **Tej Bahadur Sapru**, **Jawaharlal Nehru**, and **Asaf Ali**; Commander-in-Chief Claude Auchinleck commuted their sentences following massive nationwide protests.
+69. **Royal Indian Navy (RIN) Mutiny (18–23 February 1946):** Rating revolt broke out on HMIS *Talwar* at Bombay; ratings protested racial discrimination, unpalatable food, and arrest of B.C. Dutt (who painted 'Quit India' on ship); ratings elected Naval Central Strike Committee under **M.S. Khan**; hoisted Congress, Muslim League, and Communist red flags simultaneously; spread to 78 ships and 20,000 ratings; surrendered on 23 February on appeals of **Sardar Vallabhbhai Patel** and **M.A. Jinnah**.
+70. **Wavell Plan & Shimla Conference (June–July 1945):** Convened by Viceroy Lord Wavell; proposed completely Indian Executive Council (except Viceroy & Commander-in-Chief) with equal caste Hindu and Muslim representation; broke down because M.A. Jinnah insisted that only Muslim League had the right to nominate Muslim members.
+71. **Cabinet Mission (March–May 1946):** Sent by British PM Clement Attlee; 3 British Cabinet members: **Lord Pethick-Lawrence** (Secretary of State for India), **Sir Stafford Cripps** (President of Board of Trade), and **A.V. Alexander** (First Lord of Admiralty); rejected demand for separate Pakistan; proposed 3-tier Union of India (Grouping: Group A - Hindu majority, Group B - North-West Muslim majority, Group C - Bengal & Assam); provided for 389-member Constituent Assembly elected by provincial assemblies.
+72. **Direct Action Day (16 August 1946):** Proclaimed by Muslim League under Jinnah to force Pakistan; precipitated catastrophic communal carnage known as the **'Great Calcutta Killings'** (over 4,000 killed in 72 hours under Suhrawardy's Bengal ministry); spread to Noakhali (East Bengal), Bihar, and Rawalpindi; Gandhi undertook solitary peace mission walking through Noakhali villages.
+73. **Interim Government (2 September 1946):** Formed under leadership of **Jawaharlal Nehru** as Vice-President of Executive Council; Muslim League initially boycotted, then joined on 26 October 1946 to wreck it from within; **Liaquat Ali Khan** became Finance Minister and crippled government functioning.
+74. **Attlee's Historic Declaration (20 February 1947):** British PM Clement Attlee announced in House of Commons that British Government would transfer complete power to responsible Indian hands by **a date not later than June 1948**; replaced Lord Wavell with **Lord Louis Mountbatten** as Viceroy.
+75. **Mountbatten Plan / 3rd June Plan (1947):** Formulated partition of India into two Dominions: India and Pakistan; boundary demarcations by Boundary Commission under **Sir Cyril Radcliffe**; referendum in NWFP and Sylhet district of Assam; passed as **Indian Independence Act 1947** (enacted 18 July 1947); Pakistan born on **14 August 1947** and India on **15 August 1947**.
 
 ## ⏱️ Timeline / Chronology
 
@@ -148,26 +173,6 @@ hide:
 | **Health** | Shafa'at Ahmad Khan *(resigned)* | **Ghazanfar Ali Khan** |
 | **Labour** | **Jagjivan Ram** | — |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Cripps Mission (1942)** | **Cabinet Mission (1946)** | Wartime Dominion offer with provincial opt-out vs post-war transfer plan with 3-tier Union and compulsory grouping | क्रिप्स / कैबिनेट मिशन |
-| **Wavell Plan (1945)** | **Mountbatten Plan (1947)** | 1945 interim executive council parity plan vs 1947 partition and immediate power transfer plan | वेवेल / माउंटबेटन |
-| **Simla Conference (1945)** | **Cabinet Mission (1946)** | Lord Wavell's failed 1945 all-party conference vs three-minister British delegation's 1946 constitutional plan | शिमला / कैबिनेट मिशन |
-| **Forward Bloc (1939)** | **Congress Socialist Party (1934)** | Bose's independent left-nationalist party vs socialist faction founded by Narendra Deva and JP inside Congress | फॉरवर्ड ब्लॉक / सीएसपी |
-| **INA (Azad Hind Fauj)** | **Quit India Movement (1942)** | Armed military campaign from abroad with Japanese alliance vs mass civilian civil disobedience inside India | आजाद हिंद फौज / भारत छोड़ो |
-| **Azad Hind Fauj (सेना)** | **Azad Hind Government (सरकार)** | The military army raised by Mohan Singh/Bose vs the Provisional Government proclaimed in Singapore on 21 Oct 1943 | फौज / सरकार |
-| **August Offer (1940)** | **Cripps Mission (1942)** | Linlithgow's post-war Dominion offer + minority veto vs Cripps's post-war Constituent Assembly + secession clause | अगस्त प्रस्ताव / क्रिप्स |
-| **C.R. Formula (1944)** | **C.R. Das (चित्तरंजन दास)** | C. Rajagopalachari's 1944 plebiscite formula vs Swaraj Party co-founder C.R. Das who died in 1925 | सी.आर. फॉर्मूला / सी.आर. दास |
-| **3 June Plan (1947)** | **Independence Act (1947)** | Mountbatten's administrative policy blueprint vs the British statute receiving Royal Assent on 18 July 1947 | 3 जून योजना / अधिनियम |
-| **Interim Govt Announced** | **Interim Govt Sworn In** | Formally announced on **24 August 1946** vs took office on **2 September 1946** (League joined 26 Oct 1946) | घोषणा / गठन |
-| **Shanti Ghosh & Suniti Choudhury** | **Aruna Asaf Ali & Usha Mehta** | 1931 Bengal schoolgirl revolutionaries who shot Magistrate Stevens vs 1942 Quit India underground leaders | शांति घोष / अरुणा आसफ़ अली |
-| **Congress Ministries 1937** | **Congress Ministries Resign 1939** | Formed after sweeping 1937 provincial polls vs resigned en masse in Oct–Nov 1939 over unilateral entry into WWII | कांग्रेस मंत्रिमंडल गठन / त्यागपत्र |
-| **RIN Revolt (Feb 1946)** | **Quit India (Aug 1942)** | Royal Indian Navy ratings' strike on HMIS Talwar over racial slurs and food vs Gandhi-led mass national movement | नौसेना विद्रोह / भारत छोड़ो |
-| **Direct Action Day (16 Aug 1946)** | **Partition Day (15 Aug 1947)** | Muslim League's violent communal call in Calcutta vs official political creation of independent India & Pakistan | डायरेक्ट एक्शन / विभाजन |
-| **Matangini Hazra** | **Kanaklata Barua** | 73-year-old martyr of Tamluk (Bengal) vs 17-year-old martyr of Gohpur police station (Assam) during Quit India | मातंगिनी हाजरा / कनकलता बरुआ |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Constitutional Missions Chronology: "A-C-W-C-M" (एक-वि-सीएम)
@@ -199,344 +204,271 @@ hide:
 - **18 July 1947**: Indian Independence Act receives Royal Assent
 - **15 August 1947**: India achieves freedom; two Dominions born
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-> [!TIP] **Exam Anchor (UPPCS Prelims Chronology)**: Cripps Mission (March 1942) → Wavell Plan (June 1945) → Simla Conference (June–July 1945) → Cabinet Mission (March–May 1946).
-
-### UPPCS Prelims 2024
-
-**Q2. UPPCS Prelims 2024, Q16**
-
-Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:
-
-1. Royal Indian Navy Revolt
-2. Announcement of Cabinet Mission
-3. Formation of Interim Government
-4. Arrival of a UK Parliamentary Delegation in Delhi
-
-A. 4, 3, 2, 1
-
-B. 4, 1, 2, 3
-
-C. 4, 2, 1, 3
-
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q2.**
-
-Consider the following events and arrange them in chronological order:
-
-1. Linlithgow August Offer
-2. Cripps Mission arrival in India
-3. Ramgarh Congress Session
-4. Resignation letters of Congress Ministers
-
-A. 3, 1, 4, 2
-
-B. 4, 3, 1, 2
-
-C. 1, 3, 4, 2
-
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q3.**
-
-What was the name of the women's regiment constituted as a part of the **Azad Hind Fauj** by Netaji Subhas Chandra Bose?
-
-A. Rani Bhabani Regiment
-
-B. Rani Jhansi Regiment
-
-C. Bharat Mata Regiment
-
-D. Veerangana Regiment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q4.**
-
-Who among the following women freedom fighters was **not associated** with the **Quit India Movement**?
-
-A. Matangini Hazra
-
-B. Aruna Asaf Ali
-
-C. Kanaklata Barua
-
-D. Shanti Ghosh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q5.**
-
-The trial of the Officers of the I.N.A. was held in
-
-A. Red Fort, Delhi
-
-B. Gwalior Fort
-
-C. Amer Fort, Jalpur
-
-D. Agra Fort
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.**
-
-Who prepared "C.R. Formula" to remove the political deadlock between Muslim League and Indian National Congress?
-
-A. Jawaharlal Nehru
-
-B. Rajgopalachar
-
-C. Chittaranjan Das
-
-D. V. P. Menon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q7.** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.
-
-**Reason (R):** The Muslim League joined the interim government formed in 1946.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q8.** With reference to Congress ministries, which of the following statements is/are correct?
-
-1. Forward Bloc (1939) is the same body as CSP (1934).
-2. Ministries were formed in 1935 immediately after the Government of India Act was passed.
-3. They resigned in 1939 when war was declared without consultation.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: Provincial ministries followed the 1937 elections, not the 1935 Act alone. Stmt 1 remains false: Forward Bloc ≠ CSP.
-
-</details>
-
-**Q9.** Arrange the following in chronological order:
-
-1. August Offer
-2. Cripps Mission
-3. Quit India
-4. Azad Hind Government proclaimed at Singapore
-
-A. 2, 1, 3, 4
-
-B. 1, 2, 3, 4
-
-C. 1, 3, 2, 4
-
-D. 1, 2, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Aug 1940 → Mar 1942 → 8 Aug 1942 → 21 Oct 1943.
-
-**Logic:** Wartime bridge into INA government.
-
-</details>
-
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Quit India was launched on 8 August 1942 at Bombay with Gandhi’s ‘Do or Die’.
-
-**Reason (R):** INA armed struggle abroad under Bose was organisationally the same campaign as Quit India inside India.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true; R false.
-
-**A/R logic:** Different methods and theatres — mass inside India vs armed abroad.
-
-</details>
-
-**Q11.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Cripps Mission | 1. 1945 interim executive / Simla conference season |
-| B. Wavell Plan | 2. Mar 1942 dominion-after-war offer |
-| C. Cabinet Mission | 3. 16 May 1946 grouping plan |
-| D. Mountbatten Plan | 4. 3 June 1947 partition + transfer framework |
-
-*Row order is not the answer code.*
-
-A. A-1, B-2, C-4, D-3
-
-B. A-2, B-1, C-3, D-4
-
-C. A-2, B-3, C-1, D-4
-
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Mission order spine.
-
-**Logic:** Wavell ≠ Mountbatten; Cripps ≠ Cabinet Mission.
-
-</details>
-
-**Q12.** With reference to Quit India women / radio facts, which of the following statements is/are correct?
-
-1. Aruna Asaf Ali, Matangini Hazra, Kanaklata Barua and Shanti Ghosh are the standard QI 1942 name set.
-2. Shanti Ghosh is a standard QI 1942 leadership name in the same list.
-3. Parallel governments include Ballia (Chittu Pandey, UP), Tamluk and Satara (Prati Sarkar).
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: Shanti Ghosh is a 1931 Bengal revolutionary, not QI 1942; Usha Mehta (radio) belongs in the QI set. Stmt 2 remains false for the same reason.
-
-</details>
-
-**Q13.** Which of the following pairs is NOT correctly matched?
-
-A. C.R. Formula 1944 — Rajagopalachari
-
-B. C.R. Formula 1944 — C.R. Das
-
-C. Desai–Liaquat talks — 1945
-
-D. INA Trials — Red Fort; Shah Nawaz, Prem Sahgal, Dhillon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** C.R. Das died 1925; Formula is Rajagopalachari’s.
-
-**Logic:** C.R. name collision trap.
-
-</details>
-
-**Q14.** Arrange the following 1945–47 events in chronological order:
-
-1. RIN Revolt
-2. Cabinet Mission Plan (16 May 1946)
-3. Direct Action Day
-4. Interim Government takes office
-
-A. 1, 3, 2, 4
-
-B. 2, 1, 3, 4
-
-C. 1, 2, 3, 4
-
-D. 1, 2, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Feb 1946 → 16 May → 16 Aug → 2 Sep 1946.
-
-**Logic:** RIN and Cabinet announcement season before Direct Action / Interim.
-
-</details>
-
-**Q15.** With reference to 1947 dates, which of the following statements is/are correct?
-
-1. Mountbatten Plan — 3 June 1947.
-2. Indian Independence Act assent — 18 July 1947.
-3. Independence / Partition — 15 August 1947.
-
-Select the correct answer from the code given below:
-
-A. All 1, 2 and 3
-
-B. Only 2 and 3
-
-C. Only 1
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three statements are correct.
-
-**Logic:** Keep Plan / Act / Independence as three distinct dates.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS Prelims Chronology)**: Cripps Mission (March 1942) → Wavell Plan (June 1945) → Simla Conference (June–July 1945) → Cabinet Mission (March–May 1946).<br><br>### UPPCS Prelims 2024</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:<br><br>1. Royal Indian Navy Revolt<br>2. Announcement of Cabinet Mission<br>3. Formation of Interim Government<br>4. Arrival of a UK Parliamentary Delegation in Delhi</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 3, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 4, 1, 2, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 2, 1, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 4, 1, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following events and arrange them in chronological order:<br><br>1. Linlithgow August Offer<br>2. Cripps Mission arrival in India<br>3. Ramgarh Congress Session<br>4. Resignation letters of Congress Ministers</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 1, 4, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 4, 3, 1, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3, 4, 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">What was the name of the women's regiment constituted as a part of the **Azad Hind Fauj** by Netaji Subhas Chandra Bose?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rani Bhabani Regiment</div><div class="pyq-opt"><span class="opt-letter">B</span> Rani Jhansi Regiment</div><div class="pyq-opt"><span class="opt-letter">C</span> Bharat Mata Regiment</div><div class="pyq-opt"><span class="opt-letter">D</span> Veerangana Regiment</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who among the following women freedom fighters was **not associated** with the **Quit India Movement**?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Matangini Hazra</div><div class="pyq-opt"><span class="opt-letter">B</span> Aruna Asaf Ali</div><div class="pyq-opt"><span class="opt-letter">C</span> Kanaklata Barua</div><div class="pyq-opt"><span class="opt-letter">D</span> Shanti Ghosh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The trial of the Officers of the I.N.A. was held in</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Red Fort, Delhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Gwalior Fort</div><div class="pyq-opt"><span class="opt-letter">C</span> Amer Fort, Jalpur</div><div class="pyq-opt"><span class="opt-letter">D</span> Agra Fort</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Who prepared "C.R. Formula" to remove the political deadlock between Muslim League and Indian National Congress?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jawaharlal Nehru</div><div class="pyq-opt"><span class="opt-letter">B</span> Rajgopalachar</div><div class="pyq-opt"><span class="opt-letter">C</span> Chittaranjan Das</div><div class="pyq-opt"><span class="opt-letter">D</span> V. P. Menon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.<br><br>**Reason (R):** The Muslim League joined the interim government formed in 1946.<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to Congress ministries, which of the following statements is/are correct?<br><br>1. Forward Bloc (1939) is the same body as CSP (1934).<br>2. Ministries were formed in 1935 immediately after the Government of India Act was passed.<br>3. They resigned in 1939 when war was declared without consultation.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: Provincial ministries followed the 1937 elections, not the 1935 Act alone. Stmt 1 remains false: Forward Bloc ≠ CSP.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order:<br><br>1. August Offer<br>2. Cripps Mission<br>3. Quit India<br>4. Azad Hind Government proclaimed at Singapore</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Aug 1940 → Mar 1942 → 8 Aug 1942 → 21 Oct 1943.
+
+**Logic:** Wartime bridge into INA government.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Quit India was launched on 8 August 1942 at Bombay with Gandhi’s ‘Do or Die’.<br><br>**Reason (R):** INA armed struggle abroad under Bose was organisationally the same campaign as Quit India inside India.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true; R false.
+
+**A/R logic:** Different methods and theatres — mass inside India vs armed abroad.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Cripps Mission</td><td><span class="match-key">1</span> 1945 interim executive / Simla conference season</td></tr>
+      <tr><td><span class="match-key">B</span> Wavell Plan</td><td><span class="match-key">2</span> Mar 1942 dominion-after-war offer</td></tr>
+      <tr><td><span class="match-key">C</span> Cabinet Mission</td><td><span class="match-key">3</span> 16 May 1946 grouping plan</td></tr>
+      <tr><td><span class="match-key">D</span> Mountbatten Plan</td><td><span class="match-key">4</span> 3 June 1947 partition + transfer framework</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mission order spine.
+
+**Logic:** Wavell ≠ Mountbatten; Cripps ≠ Cabinet Mission.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Quit India women / radio facts, which of the following statements is/are correct?<br><br>1. Aruna Asaf Ali, Matangini Hazra, Kanaklata Barua and Shanti Ghosh are the standard QI 1942 name set.<br>2. Shanti Ghosh is a standard QI 1942 leadership name in the same list.<br>3. Parallel governments include Ballia (Chittu Pandey, UP), Tamluk and Satara (Prati Sarkar).</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: Shanti Ghosh is a 1931 Bengal revolutionary, not QI 1942; Usha Mehta (radio) belongs in the QI set. Stmt 2 remains false for the same reason.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> C.R. Formula 1944 — Rajagopalachari</div><div class="pyq-opt"><span class="opt-letter">B</span> C.R. Formula 1944 — C.R. Das</div><div class="pyq-opt"><span class="opt-letter">C</span> Desai–Liaquat talks — 1945</div><div class="pyq-opt"><span class="opt-letter">D</span> INA Trials — Red Fort; Shah Nawaz, Prem Sahgal, Dhillon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C.R. Das died 1925; Formula is Rajagopalachari’s.
+
+**Logic:** C.R. name collision trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following 1945–47 events in chronological order:<br><br>1. RIN Revolt<br>2. Cabinet Mission Plan (16 May 1946)<br>3. Direct Action Day<br>4. Interim Government takes office</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Feb 1946 → 16 May → 16 Aug → 2 Sep 1946.
+
+**Logic:** RIN and Cabinet announcement season before Direct Action / Interim.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to 1947 dates, which of the following statements is/are correct?<br><br>1. Mountbatten Plan — 3 June 1947.<br>2. Indian Independence Act assent — 18 July 1947.<br>3. Independence / Partition — 15 August 1947.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Keep Plan / Act / Independence as three distinct dates.</div>
+  </div>
+</div>

@@ -162,21 +162,6 @@ hide:
 | **Distal Convoluted Tubule (DCT)** | Simple cuboidal epithelium | **Facultative reabsorption** & active secretion | Reabsorption of $Na^+$ and $H_2O$ regulated by **Aldosterone & ADH**; secretes $K^+, H^+$ |
 | **Collecting Duct** | Simple columnar epithelium | Final urine concentration | Water permeability strictly regulated by **Vasopressin (ADH)**; conserves water |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Pepsin (Stomach)** | **Trypsin (Duodenum)** | **Pepsin** operates exclusively in a **strongly acidic medium ($	ext{pH } 1.5–2.0$)** of the stomach. **Trypsin** operates exclusively in the **alkaline medium ($	ext{pH } 8.0$)** of the duodenum. | पेप्सिन = अम्लीय माध्यम (अमाशय); ट्रिप्सिन = क्षारीय माध्यम (ग्रहणी) |
-| **Bile Function** | **Digestive Enzymes** | **Bile contains ZERO digestive enzymes**. Its function is strictly physical and chemical emulsification of large lipid globules into microscopic micelles and neutralizing gastric acid. | पित्त रस (Bile) में कोई एंजाइम नहीं होता; यह केवल वसा का पायसीकरण (Emulsification) करता है |
-| **Largest Digestive Gland**| **Mixed (Heterocrine) Gland**| The **Liver** is the largest gland of the human body ($pprox 1.5	ext{ kg}$). The **Pancreas** is the second largest gland and is a **mixed (exo- and endocrine)** gland. | शरीर की सबसे बड़ी ग्रंथि = यकृत (Liver); दूसरी सबसे बड़ी व मिश्रित ग्रंथि = अग्न्याशय |
-| **Oxygen Transport Form** | **Carbon Dioxide Transport Form**| Over **$97\%$ of $O_2$ is transported as Oxyhemoglobin**. In contrast, the majority of $CO_2$ (**$70\%$**) is transported as dissolved **Bicarbonate ions ($HCO_3^-$)** in blood plasma. | ऑक्सीजन = ऑक्सीहीमोग्लोबिन ($97\%$); कार्बन डाइऑक्साइड = बाइकार्बोनेट आयन ($70\%$) |
-| **Inspiration Phase** | **Quiet Expiration Phase**| **Inspiration is an ACTIVE process** requiring contraction of the diaphragm and external intercostal muscles. **Normal quiet expiration is PASSIVE**, driven by elastic recoil of lungs. | अंतःश्वसन (Inspiration) = सक्रिय प्रक्रिया; सामान्य निःश्वसन (Expiration) = निष्क्रिय प्रक्रिया |
-| **Urea vs Uric Acid** | **Nitrogen Waste in Birds**| Mammals and adult frogs excrete **Urea** (produced in the liver via the Ornithine cycle). Birds and terrestrial reptiles excrete insoluble **Uric acid** to conserve water. | स्तनधारी = यूरिया; पक्षी व सरीसृप = यूरिक अम्ल (जल संरक्षण हेतु) |
-| **Glomerular Ultrafiltration**| **PCT Reabsorption** | Ultrafiltration occurs in the **Malpighian corpuscle (Glomerulus + Bowman's capsule)** under pressure; whereas **$70–80\%$ of all water and electrolytes, and $100\%$ of glucose** are reabsorbed in the **PCT**. | निस्यंदन = ग्लोमेरुलस; सर्वाधिक पुनरावशोषण = समीपस्थ कुंडलित नलिका (PCT) |
-| **Hemodialysis Function** | **Complete Kidney Function** | Hemodialysis effectively filters out toxic metabolic wastes (**urea, creatinine, excess $K^+$**); however, it **cannot synthesize renal hormones** (such as Erythropoietin and Calcitriol). | डायलिसिस केवल अपशिष्ट छानता है; यह गुर्दे के हार्मोन (एरिथ्रोपोइटिन) का उत्पादन नहीं कर सकता |
-| **Gastric $HCl$ Role** | **Pepsinogen Enzyme** | Hydrochloric acid ($HCl$) itself does not digest proteins; its vital role is to **activate inactive Pepsinogen into active Pepsin** and kill ingested bacteria. | $HCl$ प्रोटीन को नहीं पचाता, बल्कि पेप्सिनोजेन को सक्रिय पेप्सिन में बदलता है |
-| **Salivary Ptyalin Action** | **Protein Digestion in Mouth**| Ptyalin (salivary amylase) digests only **cooked starch into maltose** ($pprox 30\%$ of dietary starch); protein and fat digestion **never occurs in the mouth**. | लार का टायलिन केवल स्टार्च (कार्बोहाइड्रेट) पचाता है, प्रोटीन नहीं |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Digestive Enzyme Triumvirate: **S-P-L**
@@ -201,264 +186,272 @@ hide:
 - **$TLC = VC + RV$** (Total Lung Capacity includes Residual Volume).
 - *Trap Rule:* Residual Volume ($RV$) can NEVER be exhaled and CANNOT be measured by a spirometer.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to human digestive enzymes, which of the following statements is/are correct?
-1. Ptyalin in saliva initiates the digestion of dietary starch in the mouth.
-2. Bile juice contains active lipases that chemically cleave triglycerides into fatty acids.
-3. Enterokinase is secreted by the intestinal mucosa to activate trypsinogen.
-
-Select the correct answer from the code given below:  
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement 1 is correct: Salivary amylase (ptyalin) converts starch to maltose at pH 6.8.
-
-**Ans: B.** 1 and 3 only
-</details>
-
-**Q2.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-Assertion (A): Humans cannot derive metabolic energy from the consumption of dietary cellulose.  
-Reason (R): The human digestive system completely lacks the enzyme cellulase required to cleave $\beta\text{-1,4-glycosidic}$ bonds of cellulose.  
-
-Select the correct answer from the code given below:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Both statements are true and R provides the exact biochemical reason: humans lack microbial or endogenous cellulase enzymes, so cellulose acts merely as roughage.
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q3.**
-
-Match List-I with List-II:
-
-| List-I (Organ / Cell Type) | List-II (Key Secretion / Function) |
-|---|---|
-| A. Parietal (Oxyntic) cells | 1. Emulsifying bile salts |
-| B. Gastric Chief cells | 2. Hydrochloric acid & Intrinsic factor |
-| C. Liver hepatocytes | 3. Pepsinogen |
-| D. Intestinal Villi Lacteals | 4. Absorption of Chylomicrons / Fats |
-
-Select the correct answer from the code given below:  
-A. A-2, B-3, C-1, D-4  
-B. A-3, B-2, C-1, D-4  
-C. A-2, B-1, C-3, D-4  
-D. A-4, B-3, C-1, D-2  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Parietal cells = HCl and Intrinsic factor (A-2).
-
-**Ans: A.** A-2, B-3, C-1, D-4
-</details>
-
-**Q4.**
-
-The dental formula of a normal adult human being is:
-A. $\frac{2102}{2102}$  
-B. $\frac{2123}{2123}$  
-C. $\frac{2133}{2133}$  
-D. $\frac{1023}{1023}$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The adult human dental formula per quadrant is $\frac{2123}{2123} \times 2 = 32$ (2 Incisors, 1 Canine, 2 Premolars, 3 Molars).
-
-**Ans: B.** $\frac{2123}{2123}$
-</details>
-
-**Q5.**
-
-In the human nephron, the maximum volume of water, electrolytes, and 100% of filtered glucose and amino acids are reabsorbed in the:
-A. Bowman's capsule  
-B. Proximal Convoluted Tubule (PCT)  
-C. Loop of Henle  
-D. Distal Convoluted Tubule (DCT)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The brush-border cuboidal epithelium of the PCT reabsorbs 70–80% of water and electrolytes, and 100% of glucose and amino acids.
-
-**Ans: B.** Proximal Convoluted Tubule / PCT
-</details>
-
-**Q6.**
-
-The volume of air that permanently remains in the lungs even after a maximal forced expiration is termed:
-A. Tidal Volume  
-B. Vital Capacity  
-C. Residual Volume  
-D. Expiratory Reserve Volume  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Residual Volume (~1100–1200 mL) remains in alveoli after maximal forced expiration to prevent lung collapse and cannot be measured with a spirometer.
-
-**Ans: C.** Residual Volume
-</details>
-
-**Q7.**
-
-The major proportion of carbon dioxide ($CO_2$) in human blood (~70%) is transported in the form of:
-A. Carbamino-haemoglobin  
-B. Bicarbonate ions in blood plasma  
-C. Dissolved gas in erythrocytes  
-D. Carbonic acid in plasma  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ~70% of carbon dioxide is transported as bicarbonate ($HCO_3^-$) dissolved in plasma, generated by carbonic anhydrase in RBCs.
-
-**Ans: B.** Bicarbonate ions in blood plasma
-</details>
-
-**Q8.**
-
-Carbon Monoxide ($CO$) is highly lethal when inhaled primarily because:
-A. It destroys the alveolar epithelial lining  
-B. It binds to haemoglobin with over 200 times higher affinity than oxygen, forming carboxyhaemoglobin  
-C. It arrests the medullary rhythm centre directly  
-D. It inhibits the enzyme carbonic anhydrase  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Carbon monoxide forms carboxyhaemoglobin with 200–250 times greater affinity than oxygen, blocking oxygen transport and causing cellular asphyxiation.
-
-**Ans: B.** It binds to haemoglobin with over 200 times higher affinity than oxygen, forming carboxyhaemoglobin
-</details>
-
-**Q9.**
-
-Primary regulation of respiratory rhythm by central chemoreceptors in the brain stem is mediated in response to:
-A. Low arterial $pO_2$  
-B. High arterial $pCO_2$ and Hydrogen ion ($H^+$) concentration  
-C. High blood nitrogen levels  
-D. Venous blood pressure  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The chemosensitive area adjacent to the medullary rhythm centre is highly sensitive to increases in $pCO_2$ and $H^+$ ions, not to oxygen deficiency.
-
-**Ans: B.** High arterial $pCO_2$ and Hydrogen ion ($H^+$
-</details>
-
-**Q10.**
-
-The hardest substance present in the human body is:
-A. Femur bone  
-B. Tooth Dentine  
-C. Tooth Enamel  
-D. Temporal bone  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tooth enamel, composed of 96% mineral calcium hydroxyapatite secreted by ameloblasts, is the hardest substance in the human body.
-
-**Ans: C.** Tooth Enamel
-</details>
-
-**Q11.**
-
-Human beings are classified as ureotelic organisms because the primary nitrogenous waste urea is synthesised in the:
-A. Kidneys via ultrafiltration  
-B. Liver via the Ornithine cycle  
-C. Spleen via haemolysis  
-D. Intestine via bacterial fermentation  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Urea is synthesised in the liver from toxic ammonia and $CO_2$ via the Ornithine (Krebs-Henseleit) cycle; kidneys merely excrete it.
-
-**Ans: B.** Liver via the Ornithine cycle
-</details>
-
-**Q12.**
-
-Renal calculi (kidney stones) formed in humans are predominantly composed of crystals of:
-A. Calcium Oxalate  
-B. Sodium Chloride  
-C. Magnesium Sulfate  
-D. Potassium Nitrate  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Over 80% of human kidney stones are composed of insoluble calcium oxalate crystals ($CaC_2O_4$).
-
-**Ans: A.** Calcium Oxalate
-</details>
-
-**Q13.**
-
-Which of the following hormones promotes water retention by increasing permeability of collecting ducts in the kidney?
-A. Oxytocin  
-B. Antidiuretic Hormone (Vasopressin)  
-C. Glucagon  
-D. Calcitonin  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ADH (Vasopressin) from the posterior pituitary inserts aquaporins into collecting duct membranes, facilitating water reabsorption and concentrating urine.
-
-**Ans: B.** Antidiuretic Hormone / Vasopressin
-</details>
-
-**Q14.**
-
-The Bohr Effect in respiratory physiology describes:
-A. Increased oxygen binding by haemoglobin under high $pCO_2$  
-B. Decreased oxygen affinity of haemoglobin and enhanced $O_2$ release under low pH and high $pCO_2$  
-C. The formation of bicarbonate in erythrocytes  
-D. Surfactant synthesis in alveoli  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Bohr effect states that elevated $pCO_2$ and acidity shift the oxygen dissociation curve to the right, promoting oxygen release at active respiring tissues.
-
-**Ans: B.** Decreased oxygen affinity of haemoglobin and enhanced $O_2$ release under low pH and high $pCO_2$
-</details>
-
-**Q15.**
-
-The common bile duct and the main pancreatic duct unite together to open into the duodenum through the:
-A. Pyloric sphincter  
-B. Ampulla of Vater (Hepato-pancreatic ampulla)  
-C. Cardiac sphincter  
-D. Duct of Santorini  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The bile duct and pancreatic duct join to form the Ampulla of Vater, which opens into the duodenum guarded by the Sphincter of Oddi.
-
-**Ans: B.** Ampulla of Vater / Hepato-pancreatic ampulla
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to human digestive enzymes, which of the following statements is/are correct?<br>1. Ptyalin in saliva initiates the digestion of dietary starch in the mouth.<br>2. Bile juice contains active lipases that chemically cleave triglycerides into fatty acids.<br>3. Enterokinase is secreted by the intestinal mucosa to activate trypsinogen.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement 1 is correct: Salivary amylase (ptyalin) converts starch to maltose at pH 6.8.
+
+**Ans: B.** 1 and 3 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br>Assertion (A): Humans cannot derive metabolic energy from the consumption of dietary cellulose.  <br>Reason (R): The human digestive system completely lacks the enzyme cellulase required to cleave $\beta\text{-1,4-glycosidic}$ bonds of cellulose.  <br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Both statements are true and R provides the exact biochemical reason: humans lack microbial or endogenous cellulase enzymes, so cellulose acts merely as roughage.
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Organ / Cell Type)</th><th>List-II (Key Secretion / Function)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Parietal (Oxyntic) cells</td><td><span class="match-key">1</span> Emulsifying bile salts</td></tr>
+      <tr><td><span class="match-key">B</span> Gastric Chief cells</td><td><span class="match-key">2</span> Hydrochloric acid & Intrinsic factor</td></tr>
+      <tr><td><span class="match-key">C</span> Liver hepatocytes</td><td><span class="match-key">3</span> Pepsinogen</td></tr>
+      <tr><td><span class="match-key">D</span> Intestinal Villi Lacteals</td><td><span class="match-key">4</span> Absorption of Chylomicrons / Fats</td></tr>
+  </tbody>
+</table><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-2, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-3, C-1, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Parietal cells = HCl and Intrinsic factor (A-2).
+
+**Ans: A.** A-2, B-3, C-1, D-4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The dental formula of a normal adult human being is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $\frac{2102}{2102}$</div><div class="pyq-opt"><span class="opt-letter">B</span> $\frac{2123}{2123}$</div><div class="pyq-opt"><span class="opt-letter">C</span> $\frac{2133}{2133}$</div><div class="pyq-opt"><span class="opt-letter">D</span> $\frac{1023}{1023}$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The adult human dental formula per quadrant is $\frac{2123}{2123} \times 2 = 32$ (2 Incisors, 1 Canine, 2 Premolars, 3 Molars).
+
+**Ans: B.** $\frac{2123}{2123}$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In the human nephron, the maximum volume of water, electrolytes, and 100% of filtered glucose and amino acids are reabsorbed in the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bowman's capsule</div><div class="pyq-opt"><span class="opt-letter">B</span> Proximal Convoluted Tubule (PCT)</div><div class="pyq-opt"><span class="opt-letter">C</span> Loop of Henle</div><div class="pyq-opt"><span class="opt-letter">D</span> Distal Convoluted Tubule (DCT)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The brush-border cuboidal epithelium of the PCT reabsorbs 70–80% of water and electrolytes, and 100% of glucose and amino acids.
+
+**Ans: B.** Proximal Convoluted Tubule / PCT</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The volume of air that permanently remains in the lungs even after a maximal forced expiration is termed:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tidal Volume</div><div class="pyq-opt"><span class="opt-letter">B</span> Vital Capacity</div><div class="pyq-opt"><span class="opt-letter">C</span> Residual Volume</div><div class="pyq-opt"><span class="opt-letter">D</span> Expiratory Reserve Volume</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Residual Volume (~1100–1200 mL) remains in alveoli after maximal forced expiration to prevent lung collapse and cannot be measured with a spirometer.
+
+**Ans: C.** Residual Volume</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The major proportion of carbon dioxide ($CO_2$) in human blood (~70%) is transported in the form of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Carbamino-haemoglobin</div><div class="pyq-opt"><span class="opt-letter">B</span> Bicarbonate ions in blood plasma</div><div class="pyq-opt"><span class="opt-letter">C</span> Dissolved gas in erythrocytes</div><div class="pyq-opt"><span class="opt-letter">D</span> Carbonic acid in plasma</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** ~70% of carbon dioxide is transported as bicarbonate ($HCO_3^-$) dissolved in plasma, generated by carbonic anhydrase in RBCs.
+
+**Ans: B.** Bicarbonate ions in blood plasma</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Carbon Monoxide ($CO$) is highly lethal when inhaled primarily because:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It destroys the alveolar epithelial lining</div><div class="pyq-opt"><span class="opt-letter">B</span> It binds to haemoglobin with over 200 times higher affinity than oxygen, forming carboxyhaemoglobin</div><div class="pyq-opt"><span class="opt-letter">C</span> It arrests the medullary rhythm centre directly</div><div class="pyq-opt"><span class="opt-letter">D</span> It inhibits the enzyme carbonic anhydrase</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Carbon monoxide forms carboxyhaemoglobin with 200–250 times greater affinity than oxygen, blocking oxygen transport and causing cellular asphyxiation.
+
+**Ans: B.** It binds to haemoglobin with over 200 times higher affinity than oxygen, forming carboxyhaemoglobin</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Primary regulation of respiratory rhythm by central chemoreceptors in the brain stem is mediated in response to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Low arterial $pO_2$</div><div class="pyq-opt"><span class="opt-letter">B</span> High arterial $pCO_2$ and Hydrogen ion ($H^+$) concentration</div><div class="pyq-opt"><span class="opt-letter">C</span> High blood nitrogen levels</div><div class="pyq-opt"><span class="opt-letter">D</span> Venous blood pressure</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The chemosensitive area adjacent to the medullary rhythm centre is highly sensitive to increases in $pCO_2$ and $H^+$ ions, not to oxygen deficiency.
+
+**Ans: B.** High arterial $pCO_2$ and Hydrogen ion ($H^+$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The hardest substance present in the human body is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Femur bone</div><div class="pyq-opt"><span class="opt-letter">B</span> Tooth Dentine</div><div class="pyq-opt"><span class="opt-letter">C</span> Tooth Enamel</div><div class="pyq-opt"><span class="opt-letter">D</span> Temporal bone</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tooth enamel, composed of 96% mineral calcium hydroxyapatite secreted by ameloblasts, is the hardest substance in the human body.
+
+**Ans: C.** Tooth Enamel</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Human beings are classified as ureotelic organisms because the primary nitrogenous waste urea is synthesised in the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kidneys via ultrafiltration</div><div class="pyq-opt"><span class="opt-letter">B</span> Liver via the Ornithine cycle</div><div class="pyq-opt"><span class="opt-letter">C</span> Spleen via haemolysis</div><div class="pyq-opt"><span class="opt-letter">D</span> Intestine via bacterial fermentation</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Urea is synthesised in the liver from toxic ammonia and $CO_2$ via the Ornithine (Krebs-Henseleit) cycle; kidneys merely excrete it.
+
+**Ans: B.** Liver via the Ornithine cycle</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Renal calculi (kidney stones) formed in humans are predominantly composed of crystals of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Calcium Oxalate</div><div class="pyq-opt"><span class="opt-letter">B</span> Sodium Chloride</div><div class="pyq-opt"><span class="opt-letter">C</span> Magnesium Sulfate</div><div class="pyq-opt"><span class="opt-letter">D</span> Potassium Nitrate</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Over 80% of human kidney stones are composed of insoluble calcium oxalate crystals ($CaC_2O_4$).
+
+**Ans: A.** Calcium Oxalate</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following hormones promotes water retention by increasing permeability of collecting ducts in the kidney?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Oxytocin</div><div class="pyq-opt"><span class="opt-letter">B</span> Antidiuretic Hormone (Vasopressin)</div><div class="pyq-opt"><span class="opt-letter">C</span> Glucagon</div><div class="pyq-opt"><span class="opt-letter">D</span> Calcitonin</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** ADH (Vasopressin) from the posterior pituitary inserts aquaporins into collecting duct membranes, facilitating water reabsorption and concentrating urine.
+
+**Ans: B.** Antidiuretic Hormone / Vasopressin</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The Bohr Effect in respiratory physiology describes:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Increased oxygen binding by haemoglobin under high $pCO_2$</div><div class="pyq-opt"><span class="opt-letter">B</span> Decreased oxygen affinity of haemoglobin and enhanced $O_2$ release under low pH and high $pCO_2$</div><div class="pyq-opt"><span class="opt-letter">C</span> The formation of bicarbonate in erythrocytes</div><div class="pyq-opt"><span class="opt-letter">D</span> Surfactant synthesis in alveoli</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Bohr effect states that elevated $pCO_2$ and acidity shift the oxygen dissociation curve to the right, promoting oxygen release at active respiring tissues.
+
+**Ans: B.** Decreased oxygen affinity of haemoglobin and enhanced $O_2$ release under low pH and high $pCO_2$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The common bile duct and the main pancreatic duct unite together to open into the duodenum through the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pyloric sphincter</div><div class="pyq-opt"><span class="opt-letter">B</span> Ampulla of Vater (Hepato-pancreatic ampulla)</div><div class="pyq-opt"><span class="opt-letter">C</span> Cardiac sphincter</div><div class="pyq-opt"><span class="opt-letter">D</span> Duct of Santorini</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The bile duct and pancreatic duct join to form the Ampulla of Vater, which opens into the duodenum guarded by the Sphincter of Oddi.
+
+**Ans: B.** Ampulla of Vater / Hepato-pancreatic ampulla</div>
+  </div>
+</div>

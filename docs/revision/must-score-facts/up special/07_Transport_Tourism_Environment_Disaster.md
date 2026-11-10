@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 7 — Transport, Tourism Circuits, Forests, Protected Areas, Wetlands and Disaster Management</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2025** | **UP Annual Budget Milestone** — State budget crosses **₹7.36 Lakh Crore**, pacing the target of becoming a **$1 Trillion Economy by 2027** | Macroeconomic scale and state fiscal priorities |
-| **2023–2024** | **Ranipur Wildlife Sanctuary (Chitrakoot)** — Notified as UP's **4th Tiger Reserve** and India's **53rd Tiger Reserve** | Core wildlife conservation & protected areas |
-| **2023** | **Ganga Expressway Execution (594 km)** — 6-lane access-controlled expressway connecting Meerut to Prayagraj via 12 districts | Critical infrastructure & logistics corridor |
-| **2023** | **UP ODOP Global Integration** — State ODOP products onboarded to ONDC and international trade pavilions | Industrial promotion & district craft branding |
-| **2022** | **Bakhira Bird Sanctuary (Sant Kabir Nagar)** — Added as UP's **10th Ramsar Wetland** (Wetland of International Importance) | Environmental geography & wetland conservation |
-| **Rolling** | **District Administrative Realignment** — 75 Districts, 18 Divisions, 17 Municipal Corporations (Shahjahanpur 17th) | State administrative architecture baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Dudhwa National Park** in **Lakhimpur Kheri** is the **only National Park** in Uttar Pradesh (established 1977).
@@ -143,23 +132,6 @@ Uttar Pradesh possesses one of the largest concentrations of **Ramsar Wetlands o
 | **Inland Waterway (National Waterway 1 - NW-1)** | **Prayagraj (UP) to Haldia (West Bengal)** along the Ganga River | **1,620 km** (Jal Marg Vikas Project - World Bank assisted) | • India's first National Waterway.<br>• **Multimodal Freight Terminal** operational at **Ralhupur, Varanasi** and floating cargo terminals at Prayagraj and Ghazipur. |
 | **Urban Rapid Transit / Metro** | Operational in **6 Cities**: **Lucknow, Kanpur, Agra, Noida-Greater Noida (Aqua Line), Ghaziabad, Meerut (Metro + Namo Bharat RRTS)** | India's premier State with 6 operational metro transit cities | • Namo Bharat (Regional Rapid Transit System - RRTS) links Delhi–Ghaziabad–Meerut with operational speeds of $160	ext{ km/h}$. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
-| :--- | :--- | :--- |
-| **Only National Park (Dudhwa)** | **Tiger Reserves (4 TRs)** | Dudhwa is the **only National Park**; UP has **4 Tiger Reserves** (Dudhwa, Pilibhit, Amangarh, Ranipur). |
-| **Katarniaghat Sanctuary (Bahraich)** | **Kishanpur Sanctuary (Lakhimpur)** | Katarniaghat is in **Bahraich (est. 1975)**; Kishanpur is in **Lakhimpur Kheri**. Both are part of Dudhwa TR. |
-| **Chandraprabha (Chandauli)** | **Kaimoor (Mirzapur/Sonbhadra)** | Chandraprabha (est. 1957) is UP's **oldest WLS in Chandauli**; Kaimoor spans **Mirzapur and Sonbhadra**. |
-| **Hastinapur WLS (Largest - 2073 km²)** | **Mahavir Swami WLS (Smallest - 5.4 km²)** | Hastinapur is the **largest sanctuary** (5 districts); Mahavir Swami is the **smallest** (Lalitpur). |
-| **Ramsar Sites IN Uttar Pradesh** | **Ramsar Sites NOT in Uttar Pradesh** | Sarsai Nawar, Samaspur, Sandi, Sur Sarovar, Bakhira are **IN UP**; Rudrasagar (Tripura), Sultanpur (Haryana) are **NOT in UP**. |
-| **Surha Tal Ramsar (Ballia)** | **Sur Sarovar Ramsar (Agra)** | Surha Tal (JP Narayan) is in **Ballia** (India's 100th Ramsar); Sur Sarovar (Keetham) is in **Agra**. |
-| **Purvanchal Exp (via Mau)** | **Purvanchal Exp (via Basti - FALSE)** | Purvanchal Expressway passes through **Mau and Ghazipur**; it does **NOT** pass through Basti. |
-| **NER Zonal HQ (Gorakhpur)** | **NCR Zonal HQ (Prayagraj)** | North Eastern Railway is at **Gorakhpur**; North Central Railway is at **Prayagraj**. |
-| **Chuka Beach (Pilibhit TR)** | **Dudhwa National Park** | Chuka Beach is an eco-tourism destination inside **Pilibhit TR**, NOT in Dudhwa. |
-| **Forest Cover (6.15%)** | **Total Green Cover (9.23%)** | Actual forest cover is **6.15%**; Forest + Tree cover combined is **9.23%**. |
-| **Highest Forest % (Sonbhadra - 35.3%)** | **Lowest Forest % (Bhadohi - 0.37%)** | Sonbhadra has the **highest forest proportion**; Bhadohi has the **lowest**. |
-| **HRIDAY Cities (Varanasi & Mathura)** | **Smart Cities (10 Central Cities)** | HRIDAY covered ONLY **Varanasi and Mathura**; Central Smart Cities covered **10 cities** (Ghaziabad excluded). |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **4 Tiger Reserves of UP**:
@@ -175,269 +147,277 @@ Uttar Pradesh possesses one of the largest concentrations of **Ramsar Wetlands o
   - **Purvanchal Expressway**: 341 km (Lucknow to Ghazipur)
   - **Agra-Lucknow Expressway**: 302 km | **Bundelkhand Expressway**: 296 km (Chitrakoot to Etawah).
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-**Q1.**
-Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
-A. Lakhimpur Kheri
-B. Pilibhit
-C. Bahraich
-D. Sharavasti
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Lakhimpur Kheri</div><div class="pyq-opt"><span class="opt-letter">B</span> Pilibhit</div><div class="pyq-opt"><span class="opt-letter">C</span> Bahraich</div><div class="pyq-opt"><span class="opt-letter">D</span> Sharavasti</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Only NP in UP; Tiger Reserve later includes Kishanpur & Katarniaghat units.
 
-<details>
-<summary>Show answer</summary>
+**Ans: A.** Lakhimpur Kheri.</div>
+  </div>
+</div>
 
-**Logic:** Only NP in UP; Tiger Reserve later includes Kishanpur & Katarniaghat units.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Bakhira Bird Sanctuary (Ramsar) is in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ballia</div><div class="pyq-opt"><span class="opt-letter">B</span> Sant Kabir Nagar</div><div class="pyq-opt"><span class="opt-letter">C</span> Gonda</div><div class="pyq-opt"><span class="opt-letter">D</span> Hardoi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Parvati Arga is Gonda — don’t swap Ramsar wetlands.
 
-**Ans: A.** Lakhimpur Kheri.
+**Ans: B.** Sant Kabir Nagar.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Purvanchal Expressway roughly connects:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Meerut to Prayagraj</div><div class="pyq-opt"><span class="opt-letter">B</span> Lucknow region to Ghazipur</div><div class="pyq-opt"><span class="opt-letter">C</span> Chitrakoot to Etawah</div><div class="pyq-opt"><span class="opt-letter">D</span> Agra to Lucknow only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ganga Expressway = Meerut–Prayagraj; Bundelkhand = Chitrakoot–Etawah.
 
-**Q2.**
-Bakhira Bird Sanctuary (Ramsar) is in:
-A. Ballia
-B. Sant Kabir Nagar
-C. Gonda
-D. Hardoi
+**Ans: B.** Lucknow (Chand Sarai) to Ghazipur.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which river is known as the ‘Sorrow of Bihar’?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ganga</div><div class="pyq-opt"><span class="opt-letter">B</span> Kosi</div><div class="pyq-opt"><span class="opt-letter">C</span> Son</div><div class="pyq-opt"><span class="opt-letter">D</span> Gandak</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Kosi.
 
-**Logic:** Parvati Arga is Gonda — don’t swap Ramsar wetlands.
+**Ans: B.** Kosi</div>
+  </div>
+</div>
 
-**Ans: B.** Sant Kabir Nagar.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which expressway in Uttar Pradesh, inaugurated in 2021, is the longest expressway in the State?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Yamuna Expressway</div><div class="pyq-opt"><span class="opt-letter">B</span> Agra-Lucknow Expressway</div><div class="pyq-opt"><span class="opt-letter">C</span> Purvanchal Expressway</div><div class="pyq-opt"><span class="opt-letter">D</span> Bundelkhand Expressway</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The **Purvanchal Expressway (341 km)** connecting Lucknow to Ghazipur was inaugurated by PM Modi in November 2021.
 
-</details>
+**Ans: C.** Purvanchal Expressway (341 km).</div>
+  </div>
+</div>
 
-**Q3.**
-Purvanchal Expressway roughly connects:
-A. Meerut to Prayagraj
-B. Lucknow region to Ghazipur
-C. Chitrakoot to Etawah
-D. Agra to Lucknow only
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">'Dudhwa National Park' in Uttar Pradesh is famous for the conservation of which endangered animal?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Asiatic Lion</div><div class="pyq-opt"><span class="opt-letter">B</span> Snow Leopard</div><div class="pyq-opt"><span class="opt-letter">C</span> Barasingha (Swamp Deer) and Tiger</div><div class="pyq-opt"><span class="opt-letter">D</span> One-horned Rhinoceros</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dudhwa National Park (Lakhimpur Kheri) is famous for the **Barasingha (hard-ground swamp deer)** and also tigers.
 
-<details>
-<summary>Show answer</summary>
+**Ans: C.** Barasingha and Tiger.</div>
+  </div>
+</div>
 
-**Logic:** Ganga Expressway = Meerut–Prayagraj; Bundelkhand = Chitrakoot–Etawah.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The National Chambal Sanctuary in UP is known for the conservation of which critically endangered crocodilian?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Saltwater Crocodile</div><div class="pyq-opt"><span class="opt-letter">B</span> Mugger Crocodile</div><div class="pyq-opt"><span class="opt-letter">C</span> Gharial (Gavial)</div><div class="pyq-opt"><span class="opt-letter">D</span> Marsh Crocodile</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The **National Chambal Sanctuary** along the Chambal River (Agra, Etawah, Morena) is the primary protected area for the critically endangered **Gharial (Gavialis gangeticus)**, also Gangetic dolphin and red-crowned ro…
 
-**Ans: B.** Lucknow (Chand Sarai) to Ghazipur.
+**Ans: C.** Gharial.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-Which river is known as the ‘Sorrow of Bihar’?
-A. Ganga
-B. Kosi
-C. Son
-D. Gandak
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Kosi.
-
-**Ans: B.** Kosi
-</details>
-
-**Q5.**
-Which expressway in Uttar Pradesh, inaugurated in 2021, is the longest expressway in the State?
-A. Yamuna Expressway
-B. Agra-Lucknow Expressway
-C. Purvanchal Expressway
-D. Bundelkhand Expressway
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The **Purvanchal Expressway (341 km)** connecting Lucknow to Ghazipur was inaugurated by PM Modi in November 2021.
-
-**Ans: C.** Purvanchal Expressway (341 km).
-
-</details>
-
-**Q6.**
-'Dudhwa National Park' in Uttar Pradesh is famous for the conservation of which endangered animal?
-A. Asiatic Lion
-B. Snow Leopard
-C. Barasingha (Swamp Deer) and Tiger
-D. One-horned Rhinoceros
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dudhwa National Park (Lakhimpur Kheri) is famous for the **Barasingha (hard-ground swamp deer)** and also tigers.
-
-**Ans: C.** Barasingha and Tiger.
-
-</details>
-
-**Q7.**
-The National Chambal Sanctuary in UP is known for the conservation of which critically endangered crocodilian?
-A. Saltwater Crocodile
-B. Mugger Crocodile
-C. Gharial (Gavial)
-D. Marsh Crocodile
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The **National Chambal Sanctuary** along the Chambal River (Agra, Etawah, Morena) is the primary protected area for the critically endangered **Gharial (Gavialis gangeticus)**, also Gangetic dolphin and red-crowned ro…
-
-**Ans: C.** Gharial.
-
-</details>
-
-**Q8.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Dudhwa National Park in Lakhimpur Kheri is the only National Park in Uttar Pradesh (established 1977).
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dudhwa National Park in Lakhimpur Kheri is the only National Park in Uttar Pradesh (established 1977).</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Dudhwa National Park** in **Lakhimpur Kheri** is the **only National Park** in Uttar Pradesh (established 1977).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q9.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Ranipur applies only to union territories and not state jurisdictions.
-B. Ranipur Tiger Reserve in Chitrakoot district was notified in 2022 as India's 53rd Tiger Reserve and UP's 4th.
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Ranipur applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Ranipur Tiger Reserve in Chitrakoot district was notified in 2022 as India's 53rd Tiger Reserve and UP's 4th.</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Recognized by UNESCO under World Heritage natural criteria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Ranipur Tiger Reserve** in **Chitrakoot district** was notified in **2022** as India's **53rd Tiger Reserve** and UP's 4th.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q10.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Pilibhit applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling its wild tiger count ahead of schedule.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Pilibhit applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> Pilibhit Tiger Reserve won the international TX2 Award in 2020 for doubling its wild tiger count ahead of schedule.</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Pilibhit Tiger Reserve** won the international **TX2 Award in 2020** for doubling its wild tiger count ahead of schedule.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q11.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Amangarh applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Amangarh Tiger Reserve (Bijnor) served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Amangarh applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Enacted under Article 356 of the Constitution of India</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Amangarh Tiger Reserve (Bijnor) served as the buffer zone of Corbett National Park prior to the division of UP in 2000.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Amangarh Tiger Reserve (Bijnor)** served as the buffer zone of Corbett National Park prior to the division of UP in 2000.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q12.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Chandraprabha Wildlife Sanctuary in Chandauli district is the oldest wildlife sanctuary in UP (established in 1957).
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chandraprabha Wildlife Sanctuary in Chandauli district is the oldest wildlife sanctuary in UP (established in 1957).</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Chandraprabha Wildlife Sanctuary** in **Chandauli district** is the **oldest wildlife sanctuary** in UP (established in **1957**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q13.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Hastinapur applies only to union territories and not state jurisdictions.
-B. Hastinapur Wildlife Sanctuary (2,073 km²) is the largest wildlife sanctuary in Uttar Pradesh by area.
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Hastinapur applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Hastinapur Wildlife Sanctuary (2,073 km²) is the largest wildlife sanctuary in Uttar Pradesh by area.</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Excavated primarily in the Belan and Son River valleys</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Hastinapur Wildlife Sanctuary** (2,073 km²) is the **largest wildlife sanctuary** in Uttar Pradesh by area.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q14.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Mahavir applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Mahavir Swami Wildlife Sanctuary in Lalitpur district (5.4 km²) is the smallest wildlife sanctuary in UP.
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Mahavir applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Excavated primarily in the Belan and Son River valleys</div><div class="pyq-opt"><span class="opt-letter">C</span> Mahavir Swami Wildlife Sanctuary in Lalitpur district (5.4 km²) is the smallest wildlife sanctuary in UP.</div><div class="pyq-opt"><span class="opt-letter">D</span> Classified under Schedule VII List II (State List)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Mahavir Swami Wildlife Sanctuary** in **Lalitpur district** (5.4 km²) is the **smallest wildlife sanctuary** in UP.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q15.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Katarniaghat applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Katarniaghat Wildlife Sanctuary in Bahraich district was established in 1975 and is famous for Gangetic dolphins.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Katarniaghat applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Classified under Schedule VII List II (State List)</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Katarniaghat Wildlife Sanctuary in Bahraich district was established in 1975 and is famous for Gangetic dolphins.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Katarniaghat Wildlife Sanctuary** in **Bahraich district** was established in **1975** and is famous for Gangetic dolphins.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>

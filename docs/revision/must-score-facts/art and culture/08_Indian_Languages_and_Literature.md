@@ -228,22 +228,6 @@ hide:
 | **4. Kundalakesi** | Nagaguttanar | **Buddhism** | Buddhist philosophical debates and conversion of the merchant heroine Kundalakesi |
 | **5. Valayapathi** | Anonymous | **Jainism** | Fragmentary Jain epic highlighting chastity, non-violence, and detachment |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **11 Classical Languages** | **22 Eighth Schedule Languages** | Classical languages = **11** (Tamil, Sanskrit, Telugu, Kannada, Malayalam, Odia + Marathi, Pali, Prakrit, Assamese, Bengali [Oct 2024]); Eighth Schedule = **22** languages | 11 शास्त्रीय भाषाएं / 22 संविधान की 8वीं अनुसूची |
-| **Pali (Classical 2024)** | **Prakrit (Classical 2024)** | Both added on 3 Oct 2024; Pali = Primary canonical vehicle of **Theravada Buddhism** (*Tipitaka*); Prakrit = Primary vehicle of **Ashokan Edicts & early Jain Agamas** | पालि (बौद्ध त्रिपिटक) / प्राकृत (अशोक शिलालेख व जैन आगम) |
-| **Mundaka Upanishad** | **Mandukya Upanishad** | Mundaka = Source of national motto **"Satyameva Jayate"** (and compares sacrifices to leaky boats); Mandukya = **Shortest Upanishad** (explains AUM and 4 states of consciousness) | मुंडक (सत्यमेव जयते) / मांडूक्य (ओम् व चेतना की 4 अवस्थाएं) |
-| **Brihattrayi (Kavyas)** | **Laghuttrayi (Kavyas)** | Brihattrayi = Three grand epics by **three different authors** (*Kiratarjuniya* by Bharavi, *Shishupalavadha* by Magha, *Naishadhacharita* by Sri Harsha); Laghuttrayi = Three lesser epics **all by Kalidasa** (*Raghuvamsha*, *Kumarasambhava*, *Meghaduta*) | बृहत्त्रयी (भारवि, माघ, श्रीहर्ष) / लघुत्त्रयी (कालिदास के 3 काव्य) |
-| **Brihadaranyaka Upanishad** | **Chandogya Upanishad** | Brihadaranyaka = Oldest & largest; *"Neti, Neti"* and Yajnavalkya-Maitreyi dialogue; Chandogya = *"Tat Tvam Asi"* and Satyakama Jabala story | बृहदारण्यक (नेति-नेति, याज्ञवल्क्य) / छान्दोग्य (तत्त्वमसि, सत्यकाम जाबाल) |
-| **Shringara Shataka (Bhartrihari)**| **Meghaduta (Kalidasa)** | Shringara Shataka = 100 autonomous ethical/love aphorisms by **Bhartrihari**; Meghaduta = Sinuous lyrical lyric poem of a Yaksha sending a cloud messenger by **Kalidasa** | शृंगार शतक (भर्तृहरि) / मेघदूत (कालिदास) |
-| **Silappadikaram** | **Manimekalai** | Silappadikaram = Tragic story of **Kovalan and Kannagi's anklet** (authored by Ilango Adigal); Manimekalai = **Buddhist sequel** about their daughter becoming a nun (authored by Sittalai Sattanar) | सिलप्पदिकारम् (इलांगो अडिगल / नूपुर) / मणिमेकलई (सीत्तलै सात्तनार / भिक्षुणी) |
-| **Tolkappiyam** | **Tirukkural** | Tolkappiyam = Ancient Sangam **grammar and poetics treatise** by Tolkappiyar; Tirukkural = Universal **ethical moral treatise of 1,330 couplets** by Tiruvalluvar | तोलकाप्पियम (व्याकरण व काव्यशास्त्र) / तिरुक्कुरल (नीतिशास्त्र 'तमिल वेद') |
-| **Gita Govinda (Jayadeva)** | **Kathasaritsagara (Somadeva)**| Gita Govinda = 12th-century lyrical song poems on Radha-Krishna by **Jayadeva**; Kathasaritsagara = 11th-century massive folklore storytelling treasury by **Somadeva** | गीत गोविंद (जयदेव / अष्टपदी) / कथासरित्सागर (सोमदेव / लोककथाएं) |
-| **Prithviraj Raso (Chand Bardai)**| **Rajatarangini (Kalhana)** | Prithviraj Raso = Heroic epic poem in **Braj/Old Hindi**; Rajatarangini = Objective Sanskrit **historical chronicle of Kings of Kashmir** | पृथ्वीराज रासो (चंदबरदाई / हिंदी महाकाव्य) / राजतरंगिणी (कल्हण / संस्कृत इतिहास) |
-| **Shukla Yajurveda** | **Krishna Yajurveda** | Shukla Yajurveda (*Vajasaneyi*) = Pure verse mantras only; Krishna Yajurveda (*Taittiriya*) = Unsorted mixture of verse mantras and explanatory prose | शुक्ल यजुर्वेद (वाजसनेयी / शुद्ध पद्य) / कृष्ण यजुर्वेद (तैत्तिरीय / गद्य-पद्य मिश्रित) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Chronology of 11 Classical Languages: `T-S-T-K-M-O` + `M-P-P-A-B`
@@ -279,298 +263,263 @@ hide:
 - **A**dhvaryu &rarr; **Y**ajurveda (Performs rituals)
 - **B**rahma &rarr; **A**tharvaveda (Supervises entire sacrifice)
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.
-Reason (R): Turki was the official language of the Mughal Court.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Memoir = **Turki**. Court = **Persian**.
-
-</details>
-
-**Q2.**
-
-Which of the following works was NOT written by Kalidasa?
-
-1. Meghaduta
-2. Raghuvamsha
-3. Shringara Shataka
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Only 3.** *Shringara Shataka* = **Bhartrihari**.
-
-</details>
-
-**Q3.**
-
-Match List-I with List-II.
-
-**List-I (Writer)**
-A. Trivikram Bhatta
-B. Somdev
-C. Jaidev
-D. Kshemendra
-
-**List-II (Book)**
-1. Gita Govinda
-2. Brihatkathamanjari
-3. Nal Champu
-4. Kathasaritsagara
-
-A. 3 4 1 2
-B. 4 3 2 1
-C. 4 3 1 2
-D. 3 4 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 3 4 1 2.**
-
-</details>
-
-**Q4.**
-
-Which of the following languages is/are NOT included in the Eighth Schedule of the Indian Constitution?
-
-1. Nepali
-2. Dogri
-3. Bodo
-4. Bhojpuri
-
-A. 1 and 2
-B. Only 4
-C. 3 and 4
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Only 4 (Bhojpuri).**
-
-</details>
-
-**Q5.**
-
-With reference to "Nepal-India International Sanskrit Conclave-2024", which of the following statements is/are correct?
-
-1. It was held at New Delhi.
-2. This three-day conclave was organised by the Niti Anusandhan Pratisthan.
-
-A. Only 2
-B. Neither 1 nor 2
-C. Only 1
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 2.** Venue = **Kathmandu**, not New Delhi.
-
-</details>
-
-**Q6.**
-
-With reference to the Puranas, which one of the following statements is correct?
-
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.
-2. Vayu Purana throws light on the Gupta system of governance.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement 1 is the Vishnu–Maurya genealogy match. Statement 2 is false: Vayu lists Gupta kings; it is not a Gupta admin manual.
-
-**Ans: A.** Only 1 is correct.
-
-</details>
-
-**Q7.**
-
-Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
-
-A. Azizuddin Khan
-B. Talib Amuli
-C. Mulla Abdul Baqi
-D. Mirza Muhammad Ali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Azizuddin Khan.**
-
-</details>
-
-**Q8.**
-
-Who among the following translated Chintamani Bhatt's Sanskrit text *Suka Saptati* into Persian and gave it the title *Tutinama*?
-
-A. Khwaja Ziya-ud-din Nakhshabi
-B. Abdur Razzak
-C. Shihabuddin-al-Umari
-D. Amir Khusro
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Nakhshabi.**
-
-</details>
-
-**Q9.**
-
-Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi?
-
-A. Shah Jahan
-B. Jahangir
-C. Akbar
-D. Humayun
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Shah Jahan.**
-
-</details>
-
-**Q10.**
-
-Central Institute of Indian Languages is located at which of the following places?
-
-A. Varanasi
-B. Mysore
-C. New Delhi
-D. Shimla
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Mysore.**
-
-</details>
-
-**Q11.**
-
-Which of the following is a Samhita of Shukla Yajurveda?
-
-A. Vajasanami
-B. Maitrayani
-C. Taittiriya
-D. Kathak
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Vajasaneyi / Vajasanami.** Others are Krishna Yajurveda.
-
-</details>
-
-**Q12.** With reference to Shruti and Smriti, which of the following statements is/are correct?
-
-1. Shruti covers the heard Veda stack of Samhita, Brahmana, Aranyaka and Upanishad.
-2. Smriti covers only the four Vedas and excludes epics and Puranas.
-3. Itihasa means the eighteen Maha Puranas only.
-
-A. 2 and 3
-B. Only 1
-C. Only 1 and 2
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Smriti covers epics, Puranas, Dharmashastra and related remembered texts. Itihasa means Ramayana and Mahabharata.
-
-</details>
-
-**Q13.** Consider the following pairs:
-
-| Text / author | Tag |
-|---------------|-----|
-| 1. Valmiki Ramayana | Seven kandas |
-| 2. Vyasa Mahabharata | Eighteen parvas |
-| 3. Bhagavad Gita | Inside Bhishma Parva |
-| 4. Shukla Yajurveda | Taittiriya |
-
-Which of the pairs given above are correctly matched?
-
-A. 1 and 4 only
-B. 1, 2 and 3 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Pairs 1–3 are correct.
-
-**Logic:** Shukla Yajurveda is Vajasaneyi. Krishna Yajurveda is Taittiriya.
-
-</details>
-
-**Q14.** With reference to Kalidasa, which of the following statements is/are correct?
-
-1. Shringara Shataka is also Kalidasa’s work.
-2. His poetic works (kavyas) include Meghaduta, Raghuvamsha, Kumarasambhava, and Ritusamhara.
-3. His three dramas are Mrichchhakatika, Mudrarakshasa and Swapnavasavadatta.
-
-A. Only 1 and 3
-B. Only 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Shringara Shataka is Bhartrihari. Kalidasa’s three dramas are Abhijnanashakuntalam, Vikramorvashiya and Malavikagnimitram.
-
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Classical language status and Eighth Schedule are the same constitutional list with identical counts.
-
-Reason (R): Eighth Schedule lists 22 languages while Sahitya Akademi awards in 24 languages.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A false, R true.
-
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 22 vs 24 vs classical 11 are three different counts.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.<br>Reason (R): Turki was the official language of the Mughal Court.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Memoir = **Turki**. Court = **Persian**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following works was NOT written by Kalidasa?<br><br>1. Meghaduta<br>2. Raghuvamsha<br>3. Shringara Shataka</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3.** *Shringara Shataka* = **Bhartrihari**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Writer)</th>
+      <th>List-II (Book)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Trivikram Bhatta</td>
+      <td><span class="match-key">1</span> Gita Govinda</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Somdev</td>
+      <td><span class="match-key">2</span> Brihatkathamanjari</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Jaidev</td>
+      <td><span class="match-key">3</span> Nal Champu</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Kshemendra</td>
+      <td><span class="match-key">4</span> Kathasaritsagara</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 4 3 2 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4 3 1 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 4 2 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 3 4 1 2.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following languages is/are NOT included in the Eighth Schedule of the Indian Constitution?<br><br>1. Nepali<br>2. Dogri<br>3. Bodo<br>4. Bhojpuri</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 4 (Bhojpuri).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to "Nepal-India International Sanskrit Conclave-2024", which of the following statements is/are correct?<br><br>1. It was held at New Delhi.<br>2. This three-day conclave was organised by the Niti Anusandhan Pratisthan.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Both 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2.** Venue = **Kathmandu**, not New Delhi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the Puranas, which one of the following statements is correct?<br><br>1. Information about the Mauryan dynasty is found in the Vishnu Purana.<br>2. Vayu Purana throws light on the Gupta system of governance.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement 1 is the Vishnu–Maurya genealogy match. Statement 2 is false: Vayu lists Gupta kings; it is not a Gupta admin manual.
+
+**Ans: A.** Only 1 is correct.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Azizuddin Khan</div><div class="pyq-opt"><span class="opt-letter">B</span> Talib Amuli</div><div class="pyq-opt"><span class="opt-letter">C</span> Mulla Abdul Baqi</div><div class="pyq-opt"><span class="opt-letter">D</span> Mirza Muhammad Ali</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Azizuddin Khan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Who among the following translated Chintamani Bhatt's Sanskrit text *Suka Saptati* into Persian and gave it the title *Tutinama*?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Khwaja Ziya-ud-din Nakhshabi</div><div class="pyq-opt"><span class="opt-letter">B</span> Abdur Razzak</div><div class="pyq-opt"><span class="opt-letter">C</span> Shihabuddin-al-Umari</div><div class="pyq-opt"><span class="opt-letter">D</span> Amir Khusro</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nakhshabi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shah Jahan</div><div class="pyq-opt"><span class="opt-letter">B</span> Jahangir</div><div class="pyq-opt"><span class="opt-letter">C</span> Akbar</div><div class="pyq-opt"><span class="opt-letter">D</span> Humayun</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Shah Jahan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Central Institute of Indian Languages is located at which of the following places?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Varanasi</div><div class="pyq-opt"><span class="opt-letter">B</span> Mysore</div><div class="pyq-opt"><span class="opt-letter">C</span> New Delhi</div><div class="pyq-opt"><span class="opt-letter">D</span> Shimla</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mysore.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following is a Samhita of Shukla Yajurveda?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vajasanami</div><div class="pyq-opt"><span class="opt-letter">B</span> Maitrayani</div><div class="pyq-opt"><span class="opt-letter">C</span> Taittiriya</div><div class="pyq-opt"><span class="opt-letter">D</span> Kathak</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Vajasaneyi / Vajasanami.** Others are Krishna Yajurveda.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Shruti and Smriti, which of the following statements is/are correct?<br><br>1. Shruti covers the heard Veda stack of Samhita, Brahmana, Aranyaka and Upanishad.<br>2. Smriti covers only the four Vedas and excludes epics and Puranas.<br>3. Itihasa means the eighteen Maha Puranas only.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Smriti covers epics, Puranas, Dharmashastra and related remembered texts. Itihasa means Ramayana and Mahabharata.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Text / author | Tag |<br>|---------------|-----|<br>| 1. Valmiki Ramayana | Seven kandas |<br>| 2. Vyasa Mahabharata | Eighteen parvas |<br>| 3. Bhagavad Gita | Inside Bhishma Parva |<br>| 4. Shukla Yajurveda | Taittiriya |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1–3 are correct.
+
+**Logic:** Shukla Yajurveda is Vajasaneyi. Krishna Yajurveda is Taittiriya.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Kalidasa, which of the following statements is/are correct?<br><br>1. Shringara Shataka is also Kalidasa’s work.<br>2. His poetic works (kavyas) include Meghaduta, Raghuvamsha, Kumarasambhava, and Ritusamhara.<br>3. His three dramas are Mrichchhakatika, Mudrarakshasa and Swapnavasavadatta.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Shringara Shataka is Bhartrihari. Kalidasa’s three dramas are Abhijnanashakuntalam, Vikramorvashiya and Malavikagnimitram.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Classical language status and Eighth Schedule are the same constitutional list with identical counts.<br><br>Reason (R): Eighth Schedule lists 22 languages while Sahitya Akademi awards in 24 languages.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A false, R true.
+
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 22 vs 24 vs classical 11 are three different counts.</div>
+  </div>
+</div>

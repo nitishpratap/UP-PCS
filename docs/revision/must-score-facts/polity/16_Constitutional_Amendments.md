@@ -102,6 +102,28 @@ hide:
 48. **Fourth Judges Case (2015) and NJAC Nullification:** SC 5-judge bench (4:1) struck down the 99th Amendment Act and NJAC Act, 2014; held that the primacy of the judiciary in appointment of judges is an essential part of the Basic Structure; revived the Collegium system.
 49. **One Hundred and Fourth Constitutional Amendment Act, 2019:** Amended **Article 334**; extended reservation of seats for Scheduled Castes and Scheduled Tribes in Lok Sabha and State Assemblies for another 10 years (up to **25 January 2030**); **ceased the provision of nominated seats for Anglo-Indians** in Lok Sabha (Art. 331) and State Assemblies (Art. 333).
 50. **One Hundred and Sixth Constitutional Amendment Act, 2023:** Inserts Article 330A (LS reservation), Article 332A (Assembly reservation), and Article 239AA(2)(b) (Delhi Assembly reservation); grants **33% reservation for women** for a period of 15 years; takes effect after the first census conducted after commencement followed by delimitation.
+51. **Article 368 Dual Classification of Amendments:** Article 368 provides two explicit mechanisms: (1) **Special Majority of Parliament** (majority of total membership of each House + not less than 2/3rd members present and voting); (2) **Special Majority of Parliament plus Ratification by Legislatures of not less than half the States by Simple Majority** (required for amending federal provisions).
+52. **Federal Provisions Requiring State Ratification under Article 368(2):** (1) Election of the President (Art. 54 & 55); (2) Extent of executive power of Union and States (Art. 73 & 162); (3) Supreme Court and High Courts (Art. 241, Chapter IV of Part V, Chapter V of Part VI); (4) Distribution of legislative powers between Union and States (7th Schedule); (5) Representation of States in Parliament (4th Schedule); (6) The provisions of Article 368 itself.
+53. **Amendments by Simple Majority Outside Article 368:** Several constitutional changes are enacted by ordinary law and specifically declared **NOT to be amendments under Article 368**: (a) Admission or creation of new states (Art. 2, 3, 4); (b) Abolition or creation of State Legislative Councils (Art. 169); (c) Second Schedule salaries; (d) Quorum in Parliament; (e) Use of official language; (f) Delimitation of constituencies; (g) Citizenship (Part II); (h) Fifth and Sixth Schedule administration.
+54. **Rules Governing Amendment Bills:** Can be introduced in **either House of Parliament** (Lok Sabha or Rajya Sabha); does NOT require prior recommendation of President; can be introduced by a minister or private member; must be passed by **each House separately by special majority**; there is **NO provision for a Joint Sitting** under Article 108 in case of disagreement between the two Houses; President **MUST give assent** (24th CAA 1971 made presidential assent mandatory).
+55. **First Constitutional Amendment Act, 1951:** Enacted by Provisional Parliament; inserted **Articles 31A and 31B** and the **Ninth Schedule** to protect land agrarian reform laws from fundamental rights challenge; added three new grounds of restriction to free speech in Art. 19(2): public order, friendly relations with foreign states, incitement to an offence.
+56. **Seventh Constitutional Amendment Act, 1956:** Implemented State Reorganisation Commission (Fazl Ali Commission) recommendations; abolished old Part A, B, C, D state classifications; created **14 States and 6 Union Territories**; provided for appointment of same person as Governor of two or more states; provided for establishment of Common High Courts; inserted Article 350A (primary education in mother tongue) and Article 350B (Special Officer for Linguistic Minorities).
+57. **Twenty-Fourth Constitutional Amendment Act, 1971:** Enacted in response to *Golaknath (1967)*; affirmed Parliament’s power to amend any part of the Constitution including Fundamental Rights under Article 368; made presidential assent to constitutional amendment bills mandatory; inserted Article 13(4) and 368(3) declaring Art. 13 inapplicable to Art. 368 amendments.
+58. **Forty-Second Constitutional Amendment Act, 1976 (Mini-Constitution):** Enacted during National Emergency under Indira Gandhi on Swaran Singh Committee recommendations; added words **'Socialist', 'Secular', and 'Integrity'** to Preamble; added **Part IV-A (Fundamental Duties - Art. 51A)**; added **Part XIV-A (Tribunals - Art. 323A/323B)**; transferred 5 subjects from State List to Concurrent List (Education, Forests, Weights & Measures, Protection of wild animals, Administration of justice); added DPSPs Articles 39A, 43A, 48A; extended tenure of LS and Assemblies from 5 to 6 years (reversed by 44th); made President bound by cabinet advice (Art. 74).
+59. **Forty-Fourth Constitutional Amendment Act, 1978 (Emergency Rectification):** Enacted by Janata Party govt under Morarji Desai to undo 42nd Amendment distortions; replaced 'internal disturbance' with **'armed rebellion'** as ground for National Emergency in Article 352; mandated that President can proclaim Emergency ONLY upon receiving **written recommendation of Union Cabinet**; mandated parliamentary approval within 1 month by special majority; restored 5-year tenure of Lok Sabha and Assemblies; deleted Right to Property as Fundamental Right (omitted Art. 19(1)(f) and Art. 31), converting it into a legal right under **Article 300A** in Part XII; provided that Fundamental Rights under **Articles 20 and 21 CANNOT be suspended even during National Emergency**.
+60. **Fifty-Second Constitutional Amendment Act, 1985 (Anti-Defection):** Added the **Tenth Schedule** and amended Articles 101, 102, 190, 191; laid down grounds of disqualification for defection of legislators; recognized political parties for first time in constitutional text.
+61. **Sixty-First Constitutional Amendment Act, 1988 (Voting Age 18):** Reduced minimum voting age from 21 years to 18 years for elections to Lok Sabha and State Legislative Assemblies by amending Article 326.
+62. **Sixty-Ninth Constitutional Amendment Act, 1991 (NCT of Delhi):** Conferred special status on Union Territory of Delhi, redesignating it as the **National Capital Territory of Delhi (Article 239AA)** with a 70-member Legislative Assembly and a 7-member Council of Ministers headed by Chief Minister (size of CoM fixed at 10% of total assembly strength).
+63. **Eighty-Sixth Constitutional Amendment Act, 2002 (Right to Education):** Inserted **Article 21A** making free and compulsory education for children aged 6 to 14 years a Fundamental Right; amended Article 45 DPSP to focus on early childhood care below 6 years; added 11th Fundamental Duty under **Article 51A(k)**.
+64. **Ninety-First Constitutional Amendment Act, 2003 (CoM Size & Anti-Defection):** Capped size of Union and State Council of Ministers at **15% of total membership of Lok Sabha / State Assembly** (minimum 12 ministers in States); eliminated the 1/3rd split exemption in Tenth Schedule anti-defection law; barred defecting members from holding remunerative political posts.
+65. **Ninety-Ninth Constitutional Amendment Act, 2014 (NJAC - Struck Down):** Established National Judicial Appointments Commission to replace SC Collegium; struck down in its entirety as unconstitutional and void by Supreme Court in October 2015 for violating judicial independence.
+66. **One Hundredth Constitutional Amendment Act, 2015 (Land Boundary Agreement):** Operationalized the 1974 India-Bangladesh Land Boundary Agreement; transferred 111 enclaves to Bangladesh and received 51 enclaves from Bangladesh; amended First Schedule regarding territories of Assam, West Bengal, Meghalaya, and Tripura.
+67. **One Hundred and First Constitutional Amendment Act, 2016 (Goods and Services Tax - GST):** Introduced comprehensive indirect tax regime (GST) from 1 July 2017; inserted **Article 246A** (special power to legislate on GST), **Article 269A** (levy and collection of IGST on inter-state supply), and **Article 279A** (GST Council); omitted Article 268A.
+68. **One Hundred and Second Constitutional Amendment Act, 2018 (NCBC):** Granted constitutional status to the **National Commission for Backward Classes (Article 338B)**; inserted Article 342A empowering President to notify Socially and Educationally Backward Classes (SEBCs).
+69. **One Hundred and Third Constitutional Amendment Act, 2019 (10% EWS Reservation):** Provided up to **10% reservation for Economically Weaker Sections (EWS)** in educational institutions and public employment; inserted **Article 15(6) and Article 16(6)**; upheld by Supreme Court in *Janhit Abhiyan v. Union of India (2022)*.
+70. **One Hundred and Fourth Constitutional Amendment Act, 2020:** Extended reservation of seats for Scheduled Castes and Scheduled Tribes in Lok Sabha and State Legislative Assemblies for another 10 years (up to 25 January 2030) by amending Article 334; **discontinued nomination of Anglo-Indian members** in Lok Sabha (Art. 331) and State Assemblies (Art. 333).
+71. **One Hundred and Fifth Constitutional Amendment Act, 2021 (State OBC Identification):** Clarified Article 342A to restore the power of State Governments and UTs to directly identify and maintain their own state lists of Socially and Educationally Backward Classes (SEBCs), undoing the effect of Supreme Court's Maratha reservation judgment (*Jaishri Laxmanrao Patil, 2021*).
+72. **One Hundred and Sixth Constitutional Amendment Act, 2023 (Nari Shakti Vandan Adhiniyam):** Provided **one-third (33%) reservation for women** in the House of the People (Lok Sabha), State Legislative Assemblies, and Legislative Assembly of NCT of Delhi; inserted **Articles 330A, 332A, and 239AA(2)(b)**; sunset clause of **15 years**; reservation to become effective after the first delimitation conducted following the first census published after enactment.
 
 ## ⏱️ Timeline / Chronology
 
@@ -202,23 +224,6 @@ hide:
 | *I.R. Coelho v. State of Tamil Nadu* | 2007 | Laws added to 9th Schedule after 24 April 1973 subject to review | 9th Schedule is no longer a blanket protective umbrella |
 | *Supreme Court Advocates-on-Record (NJAC)* | 2015 | Struck down 99th Amendment and NJAC Act in their entirety | Independence of Judiciary and Collegium reaffirmed as basic feature |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| Art. 368 Assent vs Ordinary Assent | President **MUST GIVE ASSENT** to Art. 368 bills (24th Amd 1971); cannot withhold or return. | Give President power to return amendment bills | राष्ट्रपति संविधान संशोधन विधेयक लौटा नहीं सकता |
-| Joint Sitting for Amendment | **NO joint sitting** is possible for Constitutional Amendment Bills (must pass separately). | Allow joint sitting to resolve deadlock under Art. 368 | संविधान संशोधन में संयुक्त बैठक का प्रावधान नहीं |
-| State Ratification Majority | States ratify by **Simple Majority** of members present and voting. | Claim States must pass by special majority | राज्यों द्वारा अनुसमर्थन = साधारण बहुमत |
-| State Ratification Threshold | Ratification by **not less than half (&ge; 50%)** of the States. | Say 2/3rd of States required | कम से कम आधे राज्यों का अनुसमर्थन |
-| State Initiative in Amendment | State legislatures have **ZERO power** to initiate a constitutional amendment bill. | Allow State assemblies to propose amendments | राज्य विधानमंडल संशोधन प्रारंभ नहीं कर सकते |
-| Creation of Legislative Council (Art. 169) | Passed by Parliament by **Simple Majority** (NOT deemed an amendment under Art. 368). | Classify Art. 169 under Art. 368 special majority | विधान परिषद सृजन/उत्साद = साधारण बहुमत |
-| 42nd vs 44th: Right to Property | 44th Amendment (1978) moved property to **Art. 300A** (NOT the 42nd Amendment). | Attribute repeal of property right to 42nd Amd | संपत्ति का अधिकार = 44वां संशोधन |
-| 42nd vs 44th: Internal Emergency Ground | 44th Amendment replaced 'Internal Disturbance' with **'Armed Rebellion'**. | Attribute armed rebellion clause to 42nd Amd | सशस्त्र विद्रोह = 44वां संशोधन |
-| 61st Amendment Voting Age | Reduced voting age from **21 to 18 years** under Article 326 (effective 1989). | Confuse with 69th or 73rd Amendments | मतदान आयु 21 से 18 = 61वां संशोधन |
-| 86th vs 103rd Amendment | 86th = **RTE (Art. 21A)**; 103rd = **10% EWS Quota (Arts. 15(6) & 16(6))**. | Swap the article suffixes | 86वां = 21A (शिक्षा); 103वां = EWS आरक्षण |
-| 104th Amendment Double Action | (1) Extended SC/ST quota in LS/Assemblies to 2030; (2) **Ended Anglo-Indian nomination**. | Assume Anglo-Indian nomination was continued | आंग्ल-भारतीय मनोनयन समाप्त = 104वां |
-| 106th Amendment Operation Date | 33% Women reservation applies **ONLY AFTER the next census and delimitation**. | Claim it was implemented in the 2024 elections | नारी शक्ति वंदन = परिसीमन के बाद लागू |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Constitutional Amendment Pathway Selector:**
@@ -242,235 +247,236 @@ hide:
    - &rarr; **K**esavananda (1973: Parliament can touch FRs, but CANNOT destroy Basic Structure)
    - &rarr; **M**inerva Mills (1980: Amending power itself is limited; limited power is a Basic Feature!)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which of the following words were added to the Preamble by the 42nd Constitutional Amendment?
-1. Socialist
-2. Secular
-3. Sovereignty
-4. Republic
-A. 1 and 3
-B. 3 and 4
-C. 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q2.**
-GST in India was introduced through which Constitutional Amendment Act?
-A. 101st Amendment
-B. 91st Amendment
-C. 86th Amendment
-D. 73rd Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.**
-Chronology: Shankari Prasad · Sajjan Singh · Golaknath · Kesavananda
-A. 1, 4, 3, 2
-B. 3, 2, 1, 4
-C. 1, 2, 3, 4
-D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q4.**
-42nd / 52nd / 86th / 96th years:
-A. A-2, B-1, C-3, D-4
-B. A-4, B-3, C-2, D-1
-C. A-1, B-2, C-3, D-4
-D. A-3, B-1, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 1976, 1985, 2002, 2011.
-
-</details>
-
-**Q5.**
-Consider the following statements regarding the Special Officer for Linguistic Minorities:
-1. Article 350B provides for a Special Officer for Linguistic Minorities appointed by the President.
-2. Article 350B was inserted into the Constitution by the 7th Constitutional Amendment Act, 1956.
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both 1 and 2 are correct. Article 350B was inserted by the 7th Constitutional Amendment Act, 1956, providing for a Special Officer for Linguistic Minorities appointed by the President of India.
-
-</details>
-
-**Q6.**
-Which Amendment Acts deal with Local Governance Institutions in India?
-A. 63rd and 64th Amendment Acts
-B. 86th and 87th Amendment Acts
-C. 42nd and 43rd Amendment Acts
-D. 73rd and 74th Amendment Acts
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q7.**
-The Right to Education was included in the Fundamental Rights by the—
-A. Constitution (103rd Amendment) Act, 2019
-B. Constitution (93rd Amendment) Act, 2005
-C. Constitution (86th Amendment) Act, 2002
-D. Constitution (71st Amendment) Act, 1992
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q8.**
-Basic structure propounded in—
-A. Kesavananda 1973
-B. Golaknath 1967
-C. Chitralekha 1964
-D. Yusuf 1954
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.**
-By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?
-A. 75th
-B. 73rd
-C. 70th
-D. 69th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — they mean **NCT** (239AA), not the NCR planning belt.
-
-</details>
-
-**Q10.**
-Golaknath · Kesavananda · 24th · 42nd chronology
-A. I, III, II, IV
-B. I, II, III, IV
-C. III, I, II, IV
-D. III, I, IV, II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q11.**
-Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST (Goods and Service Tax) regime?
-A. 101st Amendment Act
-B. 102nd Amendment Act
-C. 103rd Amendment Act
-D. 104th Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.**
-Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?
-A. 66th Amendment
-B. 62nd Amendment
-C. 61st Amendment
-D. 63rd Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q13.**
-Basic structure doctrine in—
-A. Golaknath 1967
-B. Keshavanand Bharati 1973
-C. Shankari Prasad 1951
-D. Sajjan Singh 1965
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.**
-Article inserted by 42nd for participation of workers in management?
-A. 38
-B. 39A
-C. 45
-D. 43A
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q15.**
-Assertion (A) : Under Article 368, the Parliament can
-amend any part of the Constitution.
-Reason (R) : The Parliament is the Supreme
-Legislative body elected by the People
-of India.
-Code :
-
-A. Both (A) and (R) are correct, and (R) is the correct
-explanation of (A).
-B. Both (A) and (R) are correct, but (R) is not the correct
-explanation of (A).
-C. (A) is true, but (R) is false.
-D. (A) is false, but (R) is true.
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Article 368 grants constituent power, but Kesavananda Bharati limits it: Parliament cannot damage the basic structure. The booklet keys A even though that wording makes the assertion overbroad.
-
-**Ans: A** — Both (A) and (R) are correct, and (R) is the correct explanation of (A), subject to the basic structure limitation.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following words were added to the Preamble by the 42nd Constitutional Amendment?<br>1. Socialist<br>2. Secular<br>3. Sovereignty<br>4. Republic</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">GST in India was introduced through which Constitutional Amendment Act?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 101st Amendment</div><div class="pyq-opt"><span class="opt-letter">B</span> 91st Amendment</div><div class="pyq-opt"><span class="opt-letter">C</span> 86th Amendment</div><div class="pyq-opt"><span class="opt-letter">D</span> 73rd Amendment</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Chronology: Shankari Prasad · Sajjan Singh · Golaknath · Kesavananda</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 4, 3, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 4, 2, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">42nd / 52nd / 86th / 96th years:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-4, B-3, C-2, D-1</div><div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-4, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1976, 1985, 2002, 2011.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements regarding the Special Officer for Linguistic Minorities:<br>1. Article 350B provides for a Special Officer for Linguistic Minorities appointed by the President.<br>2. Article 350B was inserted into the Constitution by the 7th Constitutional Amendment Act, 1956.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct. Article 350B was inserted by the 7th Constitutional Amendment Act, 1956, providing for a Special Officer for Linguistic Minorities appointed by the President of India.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which Amendment Acts deal with Local Governance Institutions in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 63rd and 64th Amendment Acts</div><div class="pyq-opt"><span class="opt-letter">B</span> 86th and 87th Amendment Acts</div><div class="pyq-opt"><span class="opt-letter">C</span> 42nd and 43rd Amendment Acts</div><div class="pyq-opt"><span class="opt-letter">D</span> 73rd and 74th Amendment Acts</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Right to Education was included in the Fundamental Rights by the—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Constitution (103rd Amendment) Act, 2019</div><div class="pyq-opt"><span class="opt-letter">B</span> Constitution (93rd Amendment) Act, 2005</div><div class="pyq-opt"><span class="opt-letter">C</span> Constitution (86th Amendment) Act, 2002</div><div class="pyq-opt"><span class="opt-letter">D</span> Constitution (71st Amendment) Act, 1992</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Basic structure propounded in—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kesavananda 1973</div><div class="pyq-opt"><span class="opt-letter">B</span> Golaknath 1967</div><div class="pyq-opt"><span class="opt-letter">C</span> Chitralekha 1964</div><div class="pyq-opt"><span class="opt-letter">D</span> Yusuf 1954</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 75th</div><div class="pyq-opt"><span class="opt-letter">B</span> 73rd</div><div class="pyq-opt"><span class="opt-letter">C</span> 70th</div><div class="pyq-opt"><span class="opt-letter">D</span> 69th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> they mean **NCT** (239AA), not the NCR planning belt.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Golaknath · Kesavananda · 24th · 42nd chronology</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, III, II, IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I, II, III, IV</div><div class="pyq-opt"><span class="opt-letter">C</span> III, I, II, IV</div><div class="pyq-opt"><span class="opt-letter">D</span> III, I, IV, II</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST (Goods and Service Tax) regime?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 101st Amendment Act</div><div class="pyq-opt"><span class="opt-letter">B</span> 102nd Amendment Act</div><div class="pyq-opt"><span class="opt-letter">C</span> 103rd Amendment Act</div><div class="pyq-opt"><span class="opt-letter">D</span> 104th Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 66th Amendment</div><div class="pyq-opt"><span class="opt-letter">B</span> 62nd Amendment</div><div class="pyq-opt"><span class="opt-letter">C</span> 61st Amendment</div><div class="pyq-opt"><span class="opt-letter">D</span> 63rd Amendment</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Basic structure doctrine in—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Golaknath 1967</div><div class="pyq-opt"><span class="opt-letter">B</span> Keshavanand Bharati 1973</div><div class="pyq-opt"><span class="opt-letter">C</span> Shankari Prasad 1951</div><div class="pyq-opt"><span class="opt-letter">D</span> Sajjan Singh 1965</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Article inserted by 42nd for participation of workers in management?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 38</div><div class="pyq-opt"><span class="opt-letter">B</span> 39A</div><div class="pyq-opt"><span class="opt-letter">C</span> 45</div><div class="pyq-opt"><span class="opt-letter">D</span> 43A</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Assertion (A) : Under Article 368, the Parliament can<br>amend any part of the Constitution.<br>Reason (R) : The Parliament is the Supreme<br>Legislative body elected by the People<br>of India.<br>Code :</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are correct, and (R) is the correct
+explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are correct, but (R) is not the correct
+explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false.</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** Article 368 grants constituent power, but Kesavananda Bharati limits it: Parliament cannot damage the basic structure. The booklet keys A even though that wording makes the assertion overbroad.
+
+**Ans: A** — Both (A) and (R) are correct, and (R) is the correct explanation of (A), subject to the basic structure limitation.</div>
+  </div>
+</div>

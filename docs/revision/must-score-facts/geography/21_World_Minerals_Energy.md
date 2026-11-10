@@ -73,6 +73,14 @@ hide:
 48. **Bauxite & Aluminium Belt**: **Guinea** holds the world's largest bauxite reserves (Boké deposits); **Australia** is a leading producer (Weipa, Queensland); **China** is the world's largest producer of refined primary aluminium metal.
 49. **Uranium Distribution**: **Kazakhstan** is the world's largest uranium producer (>40% of global output via in-situ recovery); **Australia** holds the world's largest known recoverable uranium resources (Olympic Dam mine); **Canada** produces high-grade ore from the Athabasca Basin (McArthur River, Cigar Lake).
 50. **Strategic Petroleum Reserves (SPR)**: The **United States** maintains the world's largest government-owned emergency crude supply stored in underground salt caverns along the Gulf Coast (Texas and Louisiana).
+51. **Global Iron Ore Belts & Major Producers:** (1) **Australia:** Leading global producer and exporter (>35% of world output); Pilbara region in Western Australia (Mount Whaleback, Mount Tom Price); (2) **Brazil:** Carajas mine in Para state (world's largest open-pit iron ore mine operated by Vale), Minas Gerais; (3) **China:** Anshan-Benxi, Hebei, Liaoning; (4) **India:** Odisha (Barabil), Chhattisgarh (Bailadila); (5) **Russia:** Kursk Magnetic Anomaly (largest iron ore deposit by reserves), Magnitogorsk in Urals.
+52. **Global Coal Reserves & Mining Basins:** (1) **China:** Produces and consumes >50% of world's coal (Shanxi, Shaanxi, Inner Mongolia); (2) **USA:** Appalachian coal basin (Pennsylvanian anthracite), Powder River Basin (Wyoming - sub-bituminous low sulfur); (3) **India:** Damodar valley (Jharia, Raniganj); (4) **Australia:** Bowen Basin and Hunter Valley; (5) **Europe:** Ruhr Valley and Saar Basin (Germany), Silesian Basin (Poland), Donbas (Donets Basin, Ukraine/Russia).
+53. **Global Petroleum & Natural Gas Giants:** (1) **OPEC & Middle East:** Ghawar Field (Saudi Arabia - world's largest conventional onshore oilfield), Safaniya (world's largest offshore field), Burgan Field (Kuwait); (2) **USA:** Permian Basin (Texas/New Mexico - shale oil boom), Bakken Formation; (3) **Russia:** Western Siberian Basin (Samotlor field), Volga-Urals, Yamal Peninsula (massive Arctic natural gas reserves); (4) **Offshore:** North Sea (Brent Crude - UK and Norway).
+54. **Global Copper Belts ('Porphyry Copper'):** (1) **Chile:** World's undisputed leading copper producer (>28% of world output); **Escondida** in Atacama Desert (world's largest copper mine) and **Chuquicamata** (world's largest open-pit copper mine); (2) **Peru:** Cerro Verde, Antamina, Las Bambas; (3) **Central African Copperbelt:** Zambia and DRC (Katanga province); (4) **USA:** Bingham Canyon / Kennecott mine in Utah.
+55. **Global Bauxite & Aluminium Leaders:** (1) **Australia:** Weipa (Cape York), Darling Range (WA); (2) **Guinea (West Africa):** Holds world's largest bauxite reserves (Boke region); (3) **China:** Leading primary aluminium smelter; (4) **Brazil:** Trombetas and Paragominas in Amazon basin.
+56. **Global Gold Mining Centers:** (1) **China:** Leading producer (Shandong province); (2) **Australia:** Kalgoorlie ('Super Pit' / Golden Mile, WA); (3) **Russia:** Polyus Olimpiada (Siberia); (4) **South Africa:** Witwatersrand basin (deepest underground gold mines in the world: Mponeng mine >4 km deep, historically produced >40% of all gold ever mined); (5) **USA:** Carlin Trend in Nevada.
+57. **Global Uranium Mining Leaders:** (1) **Kazakhstan:** Produces >43% of world's mined uranium (Inkai, Tortkuduk - using In-Situ Recovery); (2) **Canada:** Athabasca Basin in northern Saskatchewan (McArthur River, Cigar Lake - highest grade uranium ore in world); (3) **Namibia:** Husab and Rossing open-pit mines; (4) **Australia:** Olympic Dam (South Australia - world's largest known single deposit of uranium, co-produced with copper and gold).
+58. **Lithium Triangle & Battery Metals:** **Lithium Triangle** in South America (high-altitude salt flats / *Salars* containing >55% of world's lithium reserves): **Salar de Atacama (Chile)**, **Salar de Uyuni (Bolivia)**, and **Salar del Hombre Muerto (Argentina)**; Australia is largest producer of hard-rock lithium (spodumene from Greenbushes); **Democratic Republic of Congo (DRC)** produces >70% of world's **Cobalt** (central to EV lithium-ion batteries).
 
 ## ⏱️ Timeline / Chronology
 
@@ -165,23 +173,6 @@ hide:
 | **Baku (Absheron Peninsula)** | **Azerbaijan** | Caspian historic basin | One of the world's oldest oil extraction centers; Nobel brothers' heritage |
 | **South Pars / North Dome** | **Qatar and Iran** | Offshore non-associated natural gas | **World's largest natural gas field**; shared binational marine reservoir |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Ruhr Basin** | **Kuznetsk Basin (Kuzbass)** | Premier coal basin in **Germany** (Western Europe) vs Massive coal basin in **Russia** (Siberian taiga) | रूर / कुज़बास बेसिन |
-| **Donbass (Donets)** | **Appalachian Basin** | Coal basin in **Ukraine and Russia** vs Historic coal belt in **eastern USA** | डोनबास / एपलेशियन |
-| **Mount Newman** | **Postmasburg** | World-class **Iron ore mine** in Western Australia (Pilbara) vs Premier **Manganese mining center** in South Africa | माउंट न्यूमैन / पोस्टमासबर्ग |
-| **Kashagan Field** | **Burgan Field** | Giant Caspian offshore oilfield in **Kazakhstan** vs Giant onshore oilfield in **Kuwait** | कशागन / बुरगान तेल क्षेत्र |
-| **Chuquicamata** | **Kimberley** | World's largest open-pit **Copper mine** in Chile (Atacama) vs Famous historic **Diamond pipe mine** in South Africa | चुक्विकामाटा / किम्बरले |
-| **Witwatersrand** | **Katanga (Shaba)** | World's greatest **Gold reef** in South Africa (Johannesburg) vs Great **Copper and Cobalt belt** in DRC | विटवाटर्सरैंड / कटंगा |
-| **Kalgoorlie** | **Broken Hill** | World-famous **Gold mining** center in Western Australia vs Famous **Silver-Lead-Zinc** mining town in New South Wales, Australia | कालगूर्ली / ब्रोकेन हिल |
-| **Carajás** | **Mesabi** | High-grade hematite open-pit iron mine in **Brazil (Amazon)** vs Lake Superior iron range in **USA (Minnesota)** | काराजास / मेसाबी रेंज |
-| **Pegu Yoma** | **Chauk & Yenangyaung** | Folded hill range of **Myanmar** vs Historic petroleum fields along the Irrawaddy River in Myanmar | पेगू योमा / चाउक-येनांग्याउंग |
-| **Normandy & Lorraine** | **Saar Basin** | Historic **Iron ore** districts in France vs Historic **Coal mining** basin in Germany on the French border | लोरेन-नॉर्मंडी / सार बेसिन |
-| **Olympic Dam** | **Bingham Canyon** | Giant polymetallic **Uranium-Copper-Gold** mine in South Australia vs Giant open-pit **Copper** porphyry mine in Utah, USA | ओलंपिक डैम / बिंगम कैन्यन |
-| **Kinta Valley** | **Bangka Island** | Historic world-leading alluvial **Tin mining valley** in Perak, Malaysia vs Leading offshore/onshore **Tin islands** of Indonesia | किन्टा घाटी / बांका द्वीप |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The Lithium Triangle Countries: **ABC**
@@ -207,376 +198,357 @@ hide:
 - **Platinum** → **South Africa** (Bushveld)
 - **Uranium** → **Kazakhstan** (Production #1) & **Australia** (Reserves #1)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Coalfield) | List-II (Country) |
-|---|---|
-| 1. Appalachian | A. England |
-| 2. Lancashire | B. Germany |
-| 3. Ruhr | C. Russia |
-| 4. Kuzbass | D. USA |
-
-*Row order is not the answer code.*
-
-A. 1-D, 2-A, 3-B, 4-C
-B. 1-A, 2-D, 3-B, 4-C
-C. 1-D, 2-A, 3-C, 4-B
-D. 1-C, 2-A, 3-B, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Appalachian–USA; Lancashire–England; Ruhr–Germany; Kuzbass–Russia.
-
-**Logic:** Donetsk/Donbas is Ukraine’s coal centre — do not dump it onto Kuzbass.
-
-</details>
-
-**Q2.**
-Mount Newman / Pilbara / Hamersley are famous for which mineral?
-
-A. Manganese
-B. Iron ore
-C. Bauxite
-D. Copper
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Western Australia iron ore.
-
-**Logic:** Weipa/Gove = bauxite; Chile Andes = copper; Postmasburg = manganese.
-
-</details>
-
-**Q3.**
-Which one of the following country–iron-ore pairs is NOT correctly matched?
-
-A. Australia — Mount Newman
-B. Ukraine — Krivoy Rog
-C. Germany — Normandy
-D. Sweden — Kiruna
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Normandy is in France, not Germany.
-
-**Logic:** Lorraine/Normandy iron belongs with France; Mesabi = USA.
-
-</details>
-
-**Q4.**
-Assertion (A): Chile is the leading producer of copper in the world in the usual porphyry teaching frame.
-Reason (R): The Andes region of northern Chile holds large porphyry copper deposits.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R explains A.
-
-**A/R logic:** A and R both true; northern Andes porphyry is the reason Chile leads.
-
-</details>
-
-**Q5.**
-In Malaysia, the Kinta Valley is famous for:
-
-A. Rubber production
-B. Tea production
-C. Tin production
-D. Coffee production
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Kinta Valley = tin (cassiterite).
-
-**Logic:** Malaysia grows rubber elsewhere — Kinta is still the tin match. Pegu Yoma (Myanmar) = oil, not tin.
-
-</details>
-
-**Q6.**
-Which one of the following country–oil-field pairs is NOT correctly matched?
-
-A. Iran — Haft Kel
-B. Kuwait — Kashagan
-C. Saudi Arabia — Dhahran
-D. Iraq — Zubair
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Kashagan is in Kazakhstan; Kuwait’s classic giant is Burgan.
-
-**Logic:** Ghawar/Dhahran = Saudi; Kirkuk/Zubair = Iraq; Baku = Azerbaijan.
-
-</details>
-
-**Q7.**
-The main constituent of natural gas is:
-
-A. Butane
-B. Hexane
-C. Benzene
-D. Methane
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Methane (CH₄).
-
-**Logic:** LPG = propane–butane; CNG is also methane-based — do not equate LPG with CNG.
-
-</details>
-
-**Q8.**
-Postmasburg and adjacent areas of South Africa are a major producer of:
-
-A. Uranium
-B. Bauxite
-C. Manganese
-D. Mica
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Postmasburg = manganese.
-
-**Logic:** Witwatersrand = gold; Weipa = bauxite; mica classic = India.
-
-</details>
-
-**Q9.**
-With reference to critical minerals, which of the following statements is/are correct?
-
-1. The Lithium Triangle is Chile–Argentina–Bolivia.
-2. Brazil is a member of the Lithium Triangle.
-3. Cobalt volume leadership often tags the DRC.
-
-A. Only 2
-B. 2 and 3
-C. 1, 2 and 3
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Statements 1 and 3 are correct.
-
-**Logic:** Brazil is the classic wrong fourth country dumped into the triangle. REE processing fact = China.
-
-</details>
-
-**Q10.**
-Which of the following energy sources is/are NOT ultimately derived from the Sun’s energy?
-
-1. Biomass energy
-2. Nuclear energy
-3. Wind energy
-4. Geothermal energy
-
-A. 1 and 3
-B. 2 and 4
-C. Only 2
-D. Only 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Nuclear and geothermal are not stored solar energy.
-
-**Logic:** Wind and biomass are solar-linked. Tidal is Moon-linked in usual teaching.
-
-</details>
-
-**Q11.**
-OPEC headquarters is located at:
-
-A. Paris
-B. Abu Dhabi
-C. Vienna
-D. Geneva
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** OPEC HQ = Vienna.
-
-**Logic:** IAEA is also Vienna (different job). IEA = Paris; IRENA = Abu Dhabi.
-
-</details>
-
-**Q12.**
-Consider the following pairs:
-
-1. Itaipu — Brazil–Paraguay
-2. Three Gorges — China (Yangtze)
-3. Uranium City — Australia
-
-Which of the pairs given above is/are correctly matched?
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Pairs 1 and 2 are correct.
-
-**Logic:** Uranium City = Canada (Athabasca). Olympic Dam = Australia U+Cu+Au.
-
-</details>
-
-**Q13.**
-Which one of the following statements about German silver is correct?
-
-A. It is pure silver from Germany
-B. It is a Cu–Ni–Zn alloy containing no silver
-C. It is silver mined in the Ruhr
-D. It is the same as platinum
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** German silver = Cu–Ni–Zn with no silver metal.
-
-**Logic:** Name comes from appearance, not composition.
-
-</details>
-
-**Q14.**
-Assertion (A): Qatar’s North Field and Iran’s South Pars form one continuous Gulf gas giant.
-Reason (R): Natural gas is mainly propane and butane.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** A true (shared reservoir). R false (methane, not LPG mix).
-
-</details>
-
-**Q15.**
-Which one of the following is correctly matched?
-
-A. Broken Hill — Australia lead–zinc
-B. Mesabi — copper
-C. Morocco — oil reserves king in all frames
-D. Sudbury — tin
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Broken Hill / Mount Isa = Australia Pb–Zn.
-
-**Logic:** Mesabi = iron; Morocco = phosphate; Sudbury = Ni (+Cu).
-
-</details>
-
-**Q16.**
-With reference to coal rank, which of the following sequences is correct (rising carbon)?
-
-A. Anthracite → bituminous → lignite → peat
-B. Peat → lignite → bituminous → anthracite
-C. Lignite → anthracite → peat → bituminous
-D. Bituminous → peat → anthracite → lignite
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Peat → lignite → bituminous → anthracite.
-
-**Logic:** Coking coal is for steel; lignite is thermal-only.
-
-</details>
-
-**Q17.**
-Which country is the usual modern volume leader for gold in recent teaching frames (e.g. 2023)?
-
-A. U.S.A.
-B. Canada
-C. South Africa
-D. China
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** China leads recent world gold output.
-
-**Logic:** South Africa / Witwatersrand is the historic trap, not the modern volume key.
-
-</details>
-
-**Q18.**
-Consider the following statements:
-
-1. Hematite is the red bulk iron ore of world trade.
-2. Magnetite is the black highest-grade iron ore.
-3. Carajás is an Australian iron mine in the Pilbara.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Carajás = Brazil; Pilbara/Newman = Australia.
-
-</details>
-
-**Q19.**
-The Peace Pipeline name refers to a gas line between:
-
-A. Iran and Pakistan
-B. Russia and Germany
-C. Qatar and India
-D. USA and Mexico
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Peace Pipeline = Iran–Pakistan.
-
-**Logic:** Do not dump it onto Russia–Europe Nord Stream-type stories.
-
-</details>
-
-**Q20.**
-Which one of the following is NOT correctly matched?
-
-A. Bushveld — chromite / platinum (South Africa)
-B. Great Dyke — Zimbabwe chromite
-C. Weipa — Australian bauxite
-D. Pegu Yoma — Myanmar tin
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Pegu Yoma = mineral oil; Myanmar tin sits in Tenasserim.
-
-**Logic:** Kinta / Bangka are the tin-street names.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Coalfield)</th><th>List-II (Country)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Appalachian</td><td><span class="match-key">A</span> England</td></tr>
+      <tr><td><span class="match-key">2</span> Lancashire</td><td><span class="match-key">B</span> Germany</td></tr>
+      <tr><td><span class="match-key">3</span> Ruhr</td><td><span class="match-key">C</span> Russia</td></tr>
+      <tr><td><span class="match-key">4</span> Kuzbass</td><td><span class="match-key">D</span> USA</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-D, 2-A, 3-B, 4-C</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-D, 3-B, 4-C</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-D, 2-A, 3-C, 4-B</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-C, 2-A, 3-B, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Appalachian–USA; Lancashire–England; Ruhr–Germany; Kuzbass–Russia.
+
+**Logic:** Donetsk/Donbas is Ukraine’s coal centre — do not dump it onto Kuzbass.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Mount Newman / Pilbara / Hamersley are famous for which mineral?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Manganese</div><div class="pyq-opt"><span class="opt-letter">B</span> Iron ore</div><div class="pyq-opt"><span class="opt-letter">C</span> Bauxite</div><div class="pyq-opt"><span class="opt-letter">D</span> Copper</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Western Australia iron ore.
+
+**Logic:** Weipa/Gove = bauxite; Chile Andes = copper; Postmasburg = manganese.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following country–iron-ore pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Australia — Mount Newman</div><div class="pyq-opt"><span class="opt-letter">B</span> Ukraine — Krivoy Rog</div><div class="pyq-opt"><span class="opt-letter">C</span> Germany — Normandy</div><div class="pyq-opt"><span class="opt-letter">D</span> Sweden — Kiruna</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Normandy is in France, not Germany.
+
+**Logic:** Lorraine/Normandy iron belongs with France; Mesabi = USA.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Chile is the leading producer of copper in the world in the usual porphyry teaching frame.<br>Reason (R): The Andes region of northern Chile holds large porphyry copper deposits.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R explains A.
+
+**A/R logic:** A and R both true; northern Andes porphyry is the reason Chile leads.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In Malaysia, the Kinta Valley is famous for:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rubber production</div><div class="pyq-opt"><span class="opt-letter">B</span> Tea production</div><div class="pyq-opt"><span class="opt-letter">C</span> Tin production</div><div class="pyq-opt"><span class="opt-letter">D</span> Coffee production</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kinta Valley = tin (cassiterite).
+
+**Logic:** Malaysia grows rubber elsewhere — Kinta is still the tin match. Pegu Yoma (Myanmar) = oil, not tin.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which one of the following country–oil-field pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Iran — Haft Kel</div><div class="pyq-opt"><span class="opt-letter">B</span> Kuwait — Kashagan</div><div class="pyq-opt"><span class="opt-letter">C</span> Saudi Arabia — Dhahran</div><div class="pyq-opt"><span class="opt-letter">D</span> Iraq — Zubair</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kashagan is in Kazakhstan; Kuwait’s classic giant is Burgan.
+
+**Logic:** Ghawar/Dhahran = Saudi; Kirkuk/Zubair = Iraq; Baku = Azerbaijan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The main constituent of natural gas is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Butane</div><div class="pyq-opt"><span class="opt-letter">B</span> Hexane</div><div class="pyq-opt"><span class="opt-letter">C</span> Benzene</div><div class="pyq-opt"><span class="opt-letter">D</span> Methane</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Methane (CH₄).
+
+**Logic:** LPG = propane–butane; CNG is also methane-based — do not equate LPG with CNG.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Postmasburg and adjacent areas of South Africa are a major producer of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Uranium</div><div class="pyq-opt"><span class="opt-letter">B</span> Bauxite</div><div class="pyq-opt"><span class="opt-letter">C</span> Manganese</div><div class="pyq-opt"><span class="opt-letter">D</span> Mica</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Postmasburg = manganese.
+
+**Logic:** Witwatersrand = gold; Weipa = bauxite; mica classic = India.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to critical minerals, which of the following statements is/are correct?<br><br>1. The Lithium Triangle is Chile–Argentina–Bolivia.<br>2. Brazil is a member of the Lithium Triangle.<br>3. Cobalt volume leadership often tags the DRC.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** Brazil is the classic wrong fourth country dumped into the triangle. REE processing fact = China.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following energy sources is/are NOT ultimately derived from the Sun’s energy?<br><br>1. Biomass energy<br>2. Nuclear energy<br>3. Wind energy<br>4. Geothermal energy</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nuclear and geothermal are not stored solar energy.
+
+**Logic:** Wind and biomass are solar-linked. Tidal is Moon-linked in usual teaching.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">OPEC headquarters is located at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Paris</div><div class="pyq-opt"><span class="opt-letter">B</span> Abu Dhabi</div><div class="pyq-opt"><span class="opt-letter">C</span> Vienna</div><div class="pyq-opt"><span class="opt-letter">D</span> Geneva</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> OPEC HQ = Vienna.
+
+**Logic:** IAEA is also Vienna (different job). IEA = Paris; IRENA = Abu Dhabi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>1. Itaipu — Brazil–Paraguay<br>2. Three Gorges — China (Yangtze)<br>3. Uranium City — Australia<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1 and 2 are correct.
+
+**Logic:** Uranium City = Canada (Athabasca). Olympic Dam = Australia U+Cu+Au.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which one of the following statements about German silver is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It is pure silver from Germany</div><div class="pyq-opt"><span class="opt-letter">B</span> It is a Cu–Ni–Zn alloy containing no silver</div><div class="pyq-opt"><span class="opt-letter">C</span> It is silver mined in the Ruhr</div><div class="pyq-opt"><span class="opt-letter">D</span> It is the same as platinum</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> German silver = Cu–Ni–Zn with no silver metal.
+
+**Logic:** Name comes from appearance, not composition.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Qatar’s North Field and Iran’s South Pars form one continuous Gulf gas giant.<br>Reason (R): Natural gas is mainly propane and butane.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** A true (shared reservoir). R false (methane, not LPG mix).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Broken Hill — Australia lead–zinc</div><div class="pyq-opt"><span class="opt-letter">B</span> Mesabi — copper</div><div class="pyq-opt"><span class="opt-letter">C</span> Morocco — oil reserves king in all frames</div><div class="pyq-opt"><span class="opt-letter">D</span> Sudbury — tin</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Broken Hill / Mount Isa = Australia Pb–Zn.
+
+**Logic:** Mesabi = iron; Morocco = phosphate; Sudbury = Ni (+Cu).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to coal rank, which of the following sequences is correct (rising carbon)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Anthracite → bituminous → lignite → peat</div><div class="pyq-opt"><span class="opt-letter">B</span> Peat → lignite → bituminous → anthracite</div><div class="pyq-opt"><span class="opt-letter">C</span> Lignite → anthracite → peat → bituminous</div><div class="pyq-opt"><span class="opt-letter">D</span> Bituminous → peat → anthracite → lignite</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Peat → lignite → bituminous → anthracite.
+
+**Logic:** Coking coal is for steel; lignite is thermal-only.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which country is the usual modern volume leader for gold in recent teaching frames (e.g. 2023)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> U.S.A.</div><div class="pyq-opt"><span class="opt-letter">B</span> Canada</div><div class="pyq-opt"><span class="opt-letter">C</span> South Africa</div><div class="pyq-opt"><span class="opt-letter">D</span> China</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> China leads recent world gold output.
+
+**Logic:** South Africa / Witwatersrand is the historic trap, not the modern volume key.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Hematite is the red bulk iron ore of world trade.<br>2. Magnetite is the black highest-grade iron ore.<br>3. Carajás is an Australian iron mine in the Pilbara.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Carajás = Brazil; Pilbara/Newman = Australia.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The Peace Pipeline name refers to a gas line between:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Iran and Pakistan</div><div class="pyq-opt"><span class="opt-letter">B</span> Russia and Germany</div><div class="pyq-opt"><span class="opt-letter">C</span> Qatar and India</div><div class="pyq-opt"><span class="opt-letter">D</span> USA and Mexico</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Peace Pipeline = Iran–Pakistan.
+
+**Logic:** Do not dump it onto Russia–Europe Nord Stream-type stories.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bushveld — chromite / platinum (South Africa)</div><div class="pyq-opt"><span class="opt-letter">B</span> Great Dyke — Zimbabwe chromite</div><div class="pyq-opt"><span class="opt-letter">C</span> Weipa — Australian bauxite</div><div class="pyq-opt"><span class="opt-letter">D</span> Pegu Yoma — Myanmar tin</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pegu Yoma = mineral oil; Myanmar tin sits in Tenasserim.
+
+**Logic:** Kinta / Bangka are the tin-street names.</div>
+  </div>
+</div>

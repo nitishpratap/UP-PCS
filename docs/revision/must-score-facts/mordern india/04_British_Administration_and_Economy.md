@@ -162,6 +162,21 @@ hide:
     - **Mahalwari System (1822/1833):** ~**30%** of British India (NWP/UP, Punjab, Central Provinces).
 49. **Poverty and Un-British Rule in India (1901):** Published in London; contained Naoroji’s six essays demonstrating the mathematical Drain from Indian revenue and production shipped to Britain without economic equivalent.
 50. **Three Administrative Pillars of the British Raj:**
+51. **Dadabhai Naoroji & Drain of Wealth:** First articulated in paper *England's Debt to India* (1867); crystallized in landmark book *Poverty and Un-British Rule in India* (1901); estimated per capita income of India at **₹20 per year** in 1867–68; termed British drain as 'bleeding of the nation'.
+52. **Components of Home Charges:** Interest on Indian public debt contracted in England, guaranteed interest on British railway capital investments, pensions and furloughs of retired civil and military personnel, stores purchased in Britain for Indian administration, and diplomatic expenses of India Office in London.
+53. **R.C. Dutt's Economic History:** Authored monumental two-volume *The Economic History of India* (1901–02); argued that heavy taxation and land revenue assessments crippled Indian peasantry, turning famines from food crises into purchasing power crises.
+54. **Other Nationalist Economic Critics:** **G.V. Joshi**, **G.K. Gokhale**, **P.C. Ray**, and **Dinshaw Wacha**; Gokhale exposed financial drain in his annual Imperial Legislative Council budget speeches; Wacha exposed military expenditures before the Welby Commission.
+55. **Welby Commission (Royal Commission on Indian Expenditure, 1895):** Appointed to investigate distribution of administrative and military expenses between British Exchequer and Indian revenues; **Dadabhai Naoroji** was the first Indian appointed as a member of a Royal Commission.
+56. **De-industrialization & Ruin of Artisans:** Karl Marx famously observed: *'The British intruder broke down the Indian hand-loom and destroyed the spinning wheel. England began with driving the Indian cottons from the European market; it then introduced twist into India and in the end inundated the very mother country of cotton with cottons.'*
+57. **Commercialization of Agriculture:** Shift from subsistence food grains to export cash crops (cotton, jute, indigo, tea, opium, sugarcane); heightened vulnerability to famine as peasant food security reserves disappeared; promoted rural indebtedness to moneylenders (*sahukars*).
+58. **Permanent Settlement (Zamindari System, 1793):** Introduced by Lord Cornwallis in **Bengal, Bihar, and Orissa** (covered **19% of British India**); planned by **John Shore**; recognized Zamindars as permanent owners of land; revenue demand fixed perpetually: **10/11th to British Government** and **1/11th retained by Zamindar**.
+59. **Sunset Law (1794):** If a Zamindar failed to pay the stipulated revenue installment by sunset of the specified date, his zamindari estate was immediately confiscated and auctioned off to highest bidders, ruining traditional aristocracies.
+60. **Ryotwari System (1820):** Introduced by **Sir Thomas Munro** and **Captain Alexander Read** in **Madras, Bombay, parts of Assam and Coorg** (covered **51% of British India**); direct settlement with individual cultivator (*Ryot*); peasant owned land as long as revenue was paid; revenue periodically revised (every 20–30 years); initial tax rate set at 50% to 55% of gross produce.
+61. **Mahalwari System (1822 / 1833):** Conceived by **Holt Mackenzie (1822)** and reformed under **Robert Merttins Bird (1833)** ('Father of Land Settlement in Northern India') under Lord William Bentinck; introduced in **North-Western Provinces, Agra, Central Provinces, and Punjab** (covered **30% of British India**); settlement made with village community or estate (*Mahal*) collectively through village headman (*Lambardar*).
+62. **Major British Famine Commissions:** (1) **Campbell Commission (1866–67)** for Orissa Famine; (2) **Strachey Commission (1880)** under Lord Lytton (drafted first Famine Code); (3) **Lyall Commission (1898)**; (4) **MacDonnell Commission (1901)** under Lord Curzon (advocated 'moral strategy' and established Agricultural Colleges); (5) **Woodhead Commission (1944–45)** for catastrophic Bengal Famine of 1943 (over 3 million died).
+63. **Tinkathia & Dadni Systems:** **Tinkathia System** in Champaran forced peasants to grow indigo on 3/20th of land; **Dadni System** was an advance payment system where EIC agents bound Indian artisans to deliver goods at below-market prices.
+64. **First Modern Industries in India:** First modern cotton textile mill founded by **Cowasjee Nanabhai Davar (1854)** at Bombay; first modern jute mill established at **Rishra (near Calcutta, 1855)** by George Acland; **TISCO (Tata Iron and Steel Company)** established at Sakchi (Jamshedpur) in **1907** by Dorabji Tata under vision of Jamsetji Tata.
+65. **First Factory Act of 1881:** Enacted under Lord Ripon; prohibited employment of children under 7 years; fixed working hours for children aged 7–12 to 9 hours a day; provided 4 holidays a month; inspected safety of machinery (applicable only to factories with 100+ workers).
     1. **Civil Service (Steel Frame):** Policy implementation and revenue administration.
     2. **Army:** External defense, regional conquest, and internal suppression.
     3. **Police:** Maintenance of internal order, crime suppression, and monitoring political movements.
@@ -290,24 +305,6 @@ hide:
 | **1929** | Whitley Commission | Lord Irwin | Royal Commission on Labour conditions in factories and mines |
 | **1944** | Woodhead Commission | Lord Wavell | Inquired into 1943 Great Bengal Famine |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Permanent Settlement (~19%)**| **Ryotwari System (~51%)** | Zamindar owns land in Bengal vs Ryot owns land in Madras/Bombay | स्थायी बंदोबस्त / रैयतवाड़ी |
-| **Ryotwari (~51%)** | **Mahalwari (~30%)** | Direct settlement with individual ryot vs collective settlement with village community (*mahal*) | रैयतवाड़ी / महलवाड़ी |
-| **Cornwallis & Shore** | **Munro & Read** | Architects of Permanent Settlement (1793) vs Architects of Ryotwari System (1792/1820) | कॉर्नवालिस / मुनरो |
-| **Munro (1820)** | **Holt Mackenzie (1822)** | Ryotwari in Madras vs Mahalwari in NWP/UP | मुनरो / मैकेंज़ी |
-| **Sunset Law** | **Lex Loci Act (1850)** | Confiscation of zamindari on payment default vs protecting ancestral inheritance on religious conversion | सूर्यास्त कानून / लेक्स लोकी |
-| **Drain of Wealth** | **Deindustrialization** | Unrequited transfer of Indian surplus to Britain vs destruction of indigenous Indian handlooms & artisan crafts | धन निष्कासन / विऔद्योगीकरण |
-| **Home Charges** | **External War Costs** | London establishment, pensions & railway guaranteed interest vs costs of wars outside India (not Home Charges) | गृह प्रभार / विदेशी युद्ध व्यय |
-| **Dadabhai Naoroji (1901)** | **R.C. Dutt (1902)** | *Poverty and Un-British Rule in India* vs *The Economic History of India* (two volumes) | नौरोजी / आर.सी. दत्त |
-| **First Per Capita Estimate (1867)**| **First Scientific Estimate (1931)** | Dadabhai Naoroji (₹20/year) vs Dr. V.K.R.V. Rao (₹62/year) | प्रारंभिक अनुमान / वैज्ञानिक अनुमान |
-| **First Factory Act (1881)** | **Second Factory Act (1891)** | Ripon: child labour below 7 banned vs Lansdowne: children below 9 banned & women's hours limited to 11 hrs | प्रथम / द्वितीय फैक्टरी एक्ट |
-| **Fort William College (1800)**| **Haileybury College (1806)** | Calcutta (Wellesley, Indian languages) vs England (Company civil service training academy) | फोर्ट विलियम / हेलीबरी |
-| **Charter Act 1833 (Proposed ICS)**| **Charter Act 1853 (Actual ICS)** | Proposed open competition (nullified by Directors) vs Actually instituted open competitive examinations | 1833 प्रस्ताव / 1853 वास्तविक |
-| **First Municipal Corp (Madras, 1688)**| **First Presidency Bank (Bengal, 1806)**| Earliest civic local body in India vs First Presidency commercial banking institution | मद्रास निगम / बंगाल बैंक |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Three Land Settlements Percentage Share:**
@@ -333,370 +330,282 @@ hide:
 5. **Famine Code Commission:**
    - **S**trachey = **S**tate Code (**1880** Strachey Commission created **1883** Famine Code).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** With reference to colonial land-revenue systems, which of the following statements is/are correct?
-
-1. Permanent Settlement (1793) under Cornwallis made the zamindar proprietor mainly in Madras and Bombay.
-2. Ryotwari settled revenue with the ryot mainly in Madras and Bombay.
-3. Mahalwari settled revenue with the individual ryot in Bengal alone.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 2
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Stmt 1 false: Permanent Settlement is Bengal–Bihar–Orissa–Varanasi; Madras/Bombay are mainly Ryotwari. Stmt 3 remains false: Mahalwari is village/mahal in NWP/Punjab, not Bengal ryot.
-
-</details>
-
-**Q2.** With reference to land-system architects, which of the following statements is/are correct?
-
-1. Cornwallis designed Ryotwari for Madras.
-2. Munro / Read are tagged to Permanent Settlement.
-3. Holt Mackenzie is tagged to Mahalwari (1822).
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: Munro/Read = Ryotwari; Cornwallis = Permanent Settlement. Stmt 1 remains false: Cornwallis did not design Ryotwari.
-
-</details>
-
-**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-
-**Assertion (A):** Drain of Wealth and deindustrialization are two names for the same process.
-
-**Reason (R):** Dadabhai Naoroji published Poverty and Un-British Rule in India in 1901.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Drain = unrequited transfer; deindustrialization = handicraft decline — confused pair.
-
-</details>
-
-**Q4.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (System) | List-II (Approx share / unit) |
-|-----------------|-------------------------------|
-| A. Permanent Settlement | 1. ~51%; ryot |
-| B. Ryotwari | 2. ~19%; zamindar |
-| C. Mahalwari | 3. ~30%; village / mahal |
-| D. Istamrari | 4. Another name for Permanent Settlement |
-
-*Row order is not the answer code.*
-
-
-A. A-2, B-1, C-3, D-4
-
-B. A-1, B-2, C-3, D-4
-
-C. A-2, B-3, C-1, D-4
-
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** PS ~19% zamindar; Ryotwari ~51%; Mahalwari ~30%; Istamrari = PS alias.
-
-**Logic:** Percentage and payer tags from Must-Score.
-
-</details>
-
-**Q5.** Which of the following pairs is NOT correctly matched?
-
-
-A. Haileybury College (1806) — Company training college in England
-
-B. Charter Act 1833 — actually opened ICS open competition
-
-C. Fort William College (1800) — Wellesley’s Calcutta language college
-
-D. First Indian ICS — Satyendranath Tagore (1863)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1833 only carried the spirit; real opening was Charter Act 1853.
-
-**Logic:** 1833 ↔ 1853 competition trap.
-
-</details>
-
-**Q6.** Arrange the following in chronological order:
-
-1. First passenger railway (Bombay–Thane)
-2. Haileybury College opened
-3. Fort William College founded
-4. Simultaneous ICS examinations begin in India
-
-
-A. 3, 2, 1, 4
-
-B. 2, 3, 1, 4
-
-C. 3, 1, 2, 4
-
-D. 3, 2, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Fort William 1800 → Haileybury 1806 → railway 1853 → simultaneous 1922.
-
-**Logic:** Civil-service and infrastructure ladder.
-
-</details>
-
-**Q7.** With reference to the Cornwallis judiciary, which of the following statements is/are correct?
-
-1. Sadar Nizamat Adalat was the lowest civil court for petty claims.
-2. Munsiff’s Court was the final civil court at Calcutta.
-3. Sadar Diwani Adalat was the final civil court at Calcutta.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: Munsiff handled small civil claims; Sadar Diwani Adalat was the final civil court. Stmt 1 remains false: Sadar Nizamat = top criminal, not lowest civil.
-
-</details>
-
-**Q8.** With reference to Drain critics, which of the following statements is/are correct?
-
-1. Naoroji called Drain the “evil of all evils.”
-2. R.C. Dutt wrote Poverty and Un-British Rule in India.
-3. Sir Syed Ahmad Khan accepted Drain Theory as INC’s official creed in 1875.
-
-A. Only 1
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: Poverty and Un-British Rule = Naoroji; R.C. Dutt wrote Economic History of India. Stmt 3 remains false: Sir Syed rejected Drain Theory.
-
-</details>
-
-**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-
-**Assertion (A):** Home Charges include the costs of British wars fought outside India.
-
-**Reason (R):** Home Charges cover India Office, pensions, debt interest and store purchases in England.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Overseas war costs ≠ Home Charges — standing definition trap.
-
-</details>
-
-**Q10.** With reference to railways and managing agencies, which of the following statements is/are correct?
-
-1. The Guarantee System promised about a 5% return on British capital from Indian revenues.
-2. Guarantee System and Managing Agency System are two names for the same railway contract.
-3. The Managing Agency System let British firms run companies largely on Indian-raised capital.
-
-A. Only 1
-
-B. 1 and 3
-
-C. Only 2
-
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 3 only are correct.
-
-**Logic:** Guarantee = railway return; Managing Agency = firm control fees — confused pair.
-
-</details>
-
-**Q11.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I | List-II |
-|--------|---------|
-| A. Mayo 1870 | 1. Father of local self-government resolution |
-| B. Ripon 1882 | 2. Financial decentralisation |
-| C. Montford 1919 | 3. Actual transfer of local self-government under dyarchy |
-| D. Madras 1688 | 4. First Municipal Corporation |
-
-*Row order is not the answer code.*
-
-
-A. A-2, B-1, C-3, D-4
-
-B. A-1, B-2, C-3, D-4
-
-C. A-2, B-1, C-4, D-3
-
-D. A-2, B-3, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Mayo money; Ripon boards ideology; 1919 transfer; Madras first corporation.
-
-**Logic:** Local-administration ladder.
-
-</details>
-
-**Q12.** Which of the following pairs is NOT correctly matched?
-
-
-A. Indigo nij cultivation — planter’s own land
-
-B. Indigo ryoti cultivation — peasant’s land under dadan advance
-
-C. Famine Commission 1880 (Strachey) — led toward Famine Codes 1883
-
-D. Woodhead Commission 1945 — authored Wood’s Despatch of 1854
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Woodhead inquired after 1943; Wood’s Despatch is 1854 education.
-
-**Logic:** Wood ↔ Woodhead name trap.
-
-</details>
-
-**Q13.** With reference to famines, which of the following statements is/are correct?
-
-1. The 1770 Bengal famine belongs to the Dual Government years.
-2. The 1943 Bengal famine is tagged to Ripon’s local self-government year.
-3. The 1876–78 famine is tagged to Lytton’s laissez-faire.
-
-A. Only 1 and 3
-
-B. Only 1, 2 and 3
-
-C. Only 1 and 2
-
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1 and 3 only are correct.
-
-**Logic:** 1943 = Linlithgow / WWII — not Ripon.
-
-</details>
-
-**Q14.** Arrange the following currency / monetisation milestones in chronological order:
-
-1. Fowler Committee gold-exchange standard
-2. Herschell Committee closes free silver minting
-3. First passenger railway Bombay–Thane
-4. Uniform penny postage under Dalhousie
-
-
-A. 3, 4, 2, 1
-
-B. 4, 3, 2, 1
-
-C. 3, 2, 4, 1
-
-D. 3, 4, 1, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Railway 1853 → postage 1854 → Herschell 1893 → Fowler 1898.
-
-**Logic:** Infrastructure then currency-committee ladder.
-
-</details>
-
-**Q15.** With reference to colonial economic phases, which of the following statements is/are correct?
-
-1. Mercantilism dominates roughly Plassey to 1813.
-2. One-way free trade dominates roughly 1813–1858.
-3. After 1858, finance capital / Drain phases with railway guarantees and Home Charges.
-
-Select the correct answer from the code given below:
-
-
-A. Only 1 and 2
-
-B. 1, 2 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** All three statements are correct.
-
-**Logic:** Three-phase map from Consolidated Must-Score.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to colonial land-revenue systems, which of the following statements is/are correct?<br><br>1. Permanent Settlement (1793) under Cornwallis made the zamindar proprietor mainly in Madras and Bombay.<br>2. Ryotwari settled revenue with the ryot mainly in Madras and Bombay.<br>3. Mahalwari settled revenue with the individual ryot in Bengal alone.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 1 false: Permanent Settlement is Bengal–Bihar–Orissa–Varanasi; Madras/Bombay are mainly Ryotwari. Stmt 3 remains false: Mahalwari is village/mahal in NWP/Punjab, not Bengal ryot.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to land-system architects, which of the following statements is/are correct?<br><br>1. Cornwallis designed Ryotwari for Madras.<br>2. Munro / Read are tagged to Permanent Settlement.<br>3. Holt Mackenzie is tagged to Mahalwari (1822).</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: Munro/Read = Ryotwari; Cornwallis = Permanent Settlement. Stmt 1 remains false: Cornwallis did not design Ryotwari.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br><br>**Assertion (A):** Drain of Wealth and deindustrialization are two names for the same process.<br><br>**Reason (R):** Dadabhai Naoroji published Poverty and Un-British Rule in India in 1901.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Drain = unrequited transfer; deindustrialization = handicraft decline — confused pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (System)</th><th>List-II (Approx share / unit)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Permanent Settlement</td><td><span class="match-key">1</span> ~51%; ryot</td></tr>
+      <tr><td><span class="match-key">B</span> Ryotwari</td><td><span class="match-key">2</span> ~19%; zamindar</td></tr>
+      <tr><td><span class="match-key">C</span> Mahalwari</td><td><span class="match-key">3</span> ~30%; village / mahal</td></tr>
+      <tr><td><span class="match-key">D</span> Istamrari</td><td><span class="match-key">4</span> Another name for Permanent Settlement</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> PS ~19% zamindar; Ryotwari ~51%; Mahalwari ~30%; Istamrari = PS alias.
+
+**Logic:** Percentage and payer tags from Must-Score.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Haileybury College (1806) — Company training college in England</div><div class="pyq-opt"><span class="opt-letter">B</span> Charter Act 1833 — actually opened ICS open competition</div><div class="pyq-opt"><span class="opt-letter">C</span> Fort William College (1800) — Wellesley’s Calcutta language college</div><div class="pyq-opt"><span class="opt-letter">D</span> First Indian ICS — Satyendranath Tagore (1863)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1833 only carried the spirit; real opening was Charter Act 1853.
+
+**Logic:** 1833 ↔ 1853 competition trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order:<br><br>1. First passenger railway (Bombay–Thane)<br>2. Haileybury College opened<br>3. Fort William College founded<br>4. Simultaneous ICS examinations begin in India</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 1, 2, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 2, 4, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Fort William 1800 → Haileybury 1806 → railway 1853 → simultaneous 1922.
+
+**Logic:** Civil-service and infrastructure ladder.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the Cornwallis judiciary, which of the following statements is/are correct?<br><br>1. Sadar Nizamat Adalat was the lowest civil court for petty claims.<br>2. Munsiff’s Court was the final civil court at Calcutta.<br>3. Sadar Diwani Adalat was the final civil court at Calcutta.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: Munsiff handled small civil claims; Sadar Diwani Adalat was the final civil court. Stmt 1 remains false: Sadar Nizamat = top criminal, not lowest civil.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to Drain critics, which of the following statements is/are correct?<br><br>1. Naoroji called Drain the “evil of all evils.”<br>2. R.C. Dutt wrote Poverty and Un-British Rule in India.<br>3. Sir Syed Ahmad Khan accepted Drain Theory as INC’s official creed in 1875.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: Poverty and Un-British Rule = Naoroji; R.C. Dutt wrote Economic History of India. Stmt 3 remains false: Sir Syed rejected Drain Theory.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br><br>**Assertion (A):** Home Charges include the costs of British wars fought outside India.<br><br>**Reason (R):** Home Charges cover India Office, pensions, debt interest and store purchases in England.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Overseas war costs ≠ Home Charges — standing definition trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to railways and managing agencies, which of the following statements is/are correct?<br><br>1. The Guarantee System promised about a 5% return on British capital from Indian revenues.<br>2. Guarantee System and Managing Agency System are two names for the same railway contract.<br>3. The Managing Agency System let British firms run companies largely on Indian-raised capital.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3 only are correct.
+
+**Logic:** Guarantee = railway return; Managing Agency = firm control fees — confused pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Mayo 1870</td><td><span class="match-key">1</span> Father of local self-government resolution</td></tr>
+      <tr><td><span class="match-key">B</span> Ripon 1882</td><td><span class="match-key">2</span> Financial decentralisation</td></tr>
+      <tr><td><span class="match-key">C</span> Montford 1919</td><td><span class="match-key">3</span> Actual transfer of local self-government under dyarchy</td></tr>
+      <tr><td><span class="match-key">D</span> Madras 1688</td><td><span class="match-key">4</span> First Municipal Corporation</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-3, C-1, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mayo money; Ripon boards ideology; 1919 transfer; Madras first corporation.
+
+**Logic:** Local-administration ladder.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Indigo nij cultivation — planter’s own land</div><div class="pyq-opt"><span class="opt-letter">B</span> Indigo ryoti cultivation — peasant’s land under dadan advance</div><div class="pyq-opt"><span class="opt-letter">C</span> Famine Commission 1880 (Strachey) — led toward Famine Codes 1883</div><div class="pyq-opt"><span class="opt-letter">D</span> Woodhead Commission 1945 — authored Wood’s Despatch of 1854</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Woodhead inquired after 1943; Wood’s Despatch is 1854 education.
+
+**Logic:** Wood ↔ Woodhead name trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to famines, which of the following statements is/are correct?<br><br>1. The 1770 Bengal famine belongs to the Dual Government years.<br>2. The 1943 Bengal famine is tagged to Ripon’s local self-government year.<br>3. The 1876–78 famine is tagged to Lytton’s laissez-faire.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3 only are correct.
+
+**Logic:** 1943 = Linlithgow / WWII — not Ripon.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following currency / monetisation milestones in chronological order:<br><br>1. Fowler Committee gold-exchange standard<br>2. Herschell Committee closes free silver minting<br>3. First passenger railway Bombay–Thane<br>4. Uniform penny postage under Dalhousie</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 4, 3, 2, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 4, 1, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Railway 1853 → postage 1854 → Herschell 1893 → Fowler 1898.
+
+**Logic:** Infrastructure then currency-committee ladder.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to colonial economic phases, which of the following statements is/are correct?<br><br>1. Mercantilism dominates roughly Plassey to 1813.<br>2. One-way free trade dominates roughly 1813–1858.<br>3. After 1858, finance capital / Drain phases with railway guarantees and Home Charges.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Three-phase map from Consolidated Must-Score.</div>
+  </div>
+</div>

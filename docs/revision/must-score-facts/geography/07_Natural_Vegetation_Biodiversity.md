@@ -153,18 +153,6 @@ hide:
 | **Khejri** | *Prosopis cineraria* (खेजड़ी / शमी) | Tropical Thorn Forest (Rajasthan) | Sacred to Bishnoi community (Chipko precursor Amrita Devi, 1730); **State Tree of Rajasthan** |
 | **Chir Pine** | *Pinus roxburghii* (चीड़) | Montane Subtropical (Himalayas) | Yields **Turpentine and Resin (बिरोजा)**; highly inflammable needles cause summer forest fires |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Tropical Moist Deciduous** | **Tropical Dry Deciduous** | Rainfall 100–200 cm; dominated by **Teak and Sal**; most extensive forest in India (~37%) vs Rainfall 70–100 cm; dominated by **Tendu, Palas, and Khair**; open parkland canopy (~28%) | आर्द्र पर्णपाती / शुष्क पर्णपाती वन |
-| **Evergreen Forest** | **Deciduous Forest** | Leaves shed intermittently throughout the year (never look completely bare) vs Leaves shed **synchronously during dry spring/summer** for 6–8 weeks to prevent transpiration loss | सदाबहार / पर्णपाती वन |
-| **Sundari Tree** | **Chir Pine** | Halophytic mangrove species with stilt roots in **Sundarbans (West Bengal)** vs Coniferous gymnosperm tree yielding resin in **Himalayan mountain slopes** | सुंदरी (मैंग्रोव) / चीड़ (पर्वतीय) |
-| **Shola Forests** | **Terai Forests** | Stunted evergreen montane temperate forests found in sheltered valleys of **Nilgiri, Anamalai, and Palani Hills (South India)** vs Dense, marshy, humid tropical deciduous forests along the **foothills of the Himalayas (North India)** | शोला वन (दक्षिण) / तराई वन (उत्तर) |
-| **Forest Cover #1 Area** | **Forest Cover #1 Percentage** | **Madhya Pradesh** has the largest absolute forest area in India (77,493 km²) vs **Mizoram** has the highest forest cover as a percentage of its geographical area (~84.53%) | वन क्षेत्रफल (मप्र) / वन प्रतिशत (मिजोरम) |
-| **Pneumatophores** | **Epiphytes** | Specialized vertical **breathing roots** of mangroves growing upward out of saline mud (e.g. *Rhizophora*) vs Non-parasitic plants growing physically on other trees for support (e.g. Orchids in evergreen forests) | न्यूमेटोफोर (श्वसन मूल) / अधिपादप |
-| **Palas (Flame of the Forest)** | **Khejri** | **State Flower of Uttar Pradesh** (*Butea monosperma*); bright vermilion-red flowers vs **State Tree of Rajasthan** (*Prosopis cineraria*); sacred to Bishnois | पलाश (उप्र राज्य पुष्प) / खेजड़ी (राजस्थान) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Forest Cover State Rankings Lock:
@@ -194,375 +182,367 @@ hide:
 - **State Tree**: Ashoka
 - **State Flower**: Palas / Brahmakamal
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-“Vegetation is the true index of climate” is associated with:
-
-A. Köppen
-B. Thornthwaite
-C. Trewartha
-D. Humboldt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** The line is linked to **Thornthwaite**.
-
-**Logic:** Köppen is the letter-code climate system — the classic distractor.
-
-</details>
-
-**Q2.**
-With reference to India’s biodiversity hotspots, which of the following is/are correct?
-
-1. Four hotspots touch India: Himalaya, Western Ghats–Sri Lanka, Indo-Burma, Sundaland.
-2. Sundaland in the Indian context is represented by the Andaman Islands.
-3. The four hotspots are the same list as India’s 18 biosphere reserves.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only statement 1 is correct.
-
-**Logic:** Sundaland = **Nicobar** (not Andaman). Hotspots ≠ 18 biospheres.
-
-</details>
-
-**Q3.**
-Which forest type covers the largest area in India among the following?
-
-A. Tropical evergreen
-B. Moist deciduous
-C. Montane alpine
-D. Mangrove / littoral
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Moist deciduous (about **100–200 cm** rain) is the largest-area type (~37%).
-
-**Logic:** Evergreen is rainier but not the largest area.
-
-</details>
-
-**Q4.**
-Assertion (A): Botanical gardens are an example of in-situ conservation.
-Reason (R): In-situ conservation keeps species in their natural habitats such as National Parks and sacred groves.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Botanical gardens / zoos / seed banks are **ex-situ**. R correctly defines in-situ.
-
-</details>
-
-**Q5.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Park / reserve) | List-II (State) |
-|---|---|
-| 1. Simlipal | A. Meghalaya |
-| 2. Nokrek | B. Odisha |
-| 3. Nanda Devi | C. Uttarakhand |
-| 4. Keoladeo | D. Rajasthan |
-
-A. 1-B, 2-A, 3-C, 4-D
-B. 1-A, 2-B, 3-C, 4-D
-C. 1-B, 2-A, 3-D, 4-C
-D. 1-C, 2-A, 3-B, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Simlipal–Odisha; Nokrek–Meghalaya; Nanda Devi–UK; Keoladeo–Rajasthan.
-
-**Logic:** Row order is not the answer code. Traps: Simlipal→MP; Nokrek→Manipur; Nanda Devi→UP.
-
-</details>
-
-**Q6.**
-Uttar Pradesh’s only National Park is:
-
-A. Pilibhit
-B. Dudhwa
-C. Amangarh
-D. Chandraprabha
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Dudhwa** (Lakhimpur Kheri) is UP’s only NP.
-
-**Logic:** Pilibhit / Amangarh / Ranipur are Tiger Reserves; Chandraprabha is a sanctuary in Chandauli.
-
-</details>
-
-**Q7.**
-Project Tiger was launched on:
-
-A. 1 April 1972
-B. 1 April 1973
-C. 1 April 1992
-D. 1 April 2002
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Project Tiger began on **1 April 1973** after WLPA 1972.
-
-**Logic:** 1972 is the Act year; 1992 is Project Elephant; 2002 is BDA.
-
-</details>
-
-**Q8.**
-With reference to mangroves, which of the following statements is/are correct?
-
-1. Pneumatophores are breathing roots of many mangroves.
-2. MISHTI is a Budget 2023–24 mangrove programme.
-3. Vembanad mangrove teaching pair is Karnataka.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** **Vembanad = Kerala**, not Karnataka.
-
-</details>
-
-**Q9.**
-Hangul (Kashmir stag) is protected mainly in:
-
-A. Kaziranga
-B. Dachigam
-C. Gir
-D. Keibul Lamjao
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Hangul’s home is **Dachigam**.
-
-**Logic:** Keibul Lamjao / Loktak = Sangai; Gir = lion; Kaziranga = rhino.
-
-</details>
-
-**Q10.**
-Assertion (A): Southern slopes of the Himalaya generally support denser vegetation than northern slopes.
-Reason (R): Southern slopes receive more rainfall and sunlight than northern slopes.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both are true and R explains A.
-
-**A/R logic:** Aspect + monsoon exposure make southern slopes denser — reverse claims are false.
-
-</details>
-
-**Q11.**
-Which one of the following is India’s first National Park?
-
-A. Dudhwa
-B. Jim Corbett
-C. Kanha
-D. Gir
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Jim Corbett** (1936 as Hailey NP) is India’s first National Park.
-
-**Logic:** Dudhwa is UP’s only NP, not India’s first.
-
-</details>
-
-**Q12.**
-Surha Tal / JP Narayan Bird Sanctuary (Ballia) is important because:
-
-A. It is Uttar Pradesh’s only National Park
-B. It was notified as India’s 100th Ramsar site (June 2026)
-C. It has the highest forest cover among UP districts
-D. It is a Project Elephant reserve in Bundelkhand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Surha Tal is India’s **100th Ramsar** and UP’s 13th.
-
-**Logic:** Ballia has near-nil forest cover — wetland fame, not forest fame.
-
-</details>
-
-**Q13.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Vegetation name) | List-II (Region) |
-|---|---|
-| 1. Maquis | A. California |
-| 2. Fynbos | B. Mediterranean |
-| 3. Chaparral | C. Chile |
-| 4. Matorral | D. South Africa |
-
-A. 1-B, 2-D, 3-A, 4-C
-B. 1-D, 2-B, 3-A, 4-C
-C. 1-B, 2-A, 3-D, 4-C
-D. 1-C, 2-D, 3-A, 4-B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Maquis–Mediterranean; Fynbos–SA; Chaparral–California; Matorral–Chile.
-
-**Logic:** Row order is not the answer code. Same-climate four-name trap.
-
-</details>
-
-**Q14.**
-Which of the following is an ex-situ conservation method?
-
-A. National Park
-B. Wildlife Sanctuary
-C. Sacred grove
-D. Seed bank
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Seed banks (with zoos / botanical gardens) are **ex-situ**.
-
-**Logic:** Sacred groves are in-situ community patches.
-
-</details>
-
-**Q15.**
-Coral bleaching in Indian Ocean teaching notes is linked mainly to:
-
-A. A fall of about 2°C in sea-surface temperature
-B. A rise of about 2°C in sea-surface temperature
-C. Freshwater flood alone without heat stress
-D. Permanent extinction of all zooxanthellae on day one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** About **2°C warming** drives bleaching via loss of zooxanthellae.
-
-**Logic:** Cooling is the reverse trap; bleaching ≠ instant death of the reef.
-
-</details>
-
-**Q16.**
-Flame of the forest (Palash / Dhak) is:
-
-A. The state flower of Uttar Pradesh (*Butea monosperma*)
-B. The state tree of Rajasthan only
-C. A Himalayan conifer at 3500 m
-D. The source tree of katha
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Palash / Dhak = UP state flower.
-
-**Logic:** Katha comes from **khair**, not Palash.
-
-</details>
-
-**Q17.**
-With reference to forest cover statistics, which of the following statements is/are correct?
-
-1. Forest cover in ISFR is the same as Recorded Forest Area.
-2. National Forest Policy 1988 aims at about 33% forest cover.
-3. Madhya Pradesh leads among states in forest area in the usual ISFR ranking.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Statements 2 and 3 are correct.
-
-**Logic:** ISFR **cover ≠** legal RFA. Always read the report year for percentages.
-
-</details>
-
-**Q18.**
-Assertion (A): Dry evergreen forests of the Coromandel grow under about 100 cm of north-east monsoon rainfall.
-Reason (R): Dry evergreen forests are identical to Western Ghat wet evergreen rainforests.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** Coromandel dry evergreen ≠ WG wet rainforest; rainfall and species sets differ.
-
-</details>
-
-**Q19.**
-Operation Olivia is associated with:
-
-A. Project Tiger census in Dudhwa
-B. Coast Guard protection of Olive Ridley nesting in Odisha (Nov–May)
-C. Mangrove plantation under MISHTI in Gujarat only
-D. Coral transplantation in Lakshadweep in August only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Olivia = Olive Ridley programme; season **Nov–May**.
-
-**Logic:** August nesting is the false season trap.
-
-</details>
-
-**Q20.**
-Which Ramsar site is NOT in Uttar Pradesh?
-
-A. Surha Tal (Ballia)
-B. Rudrasagar (Tripura)
-C. A recent UP bird sanctuary wetland on the state list
-D. An UP Ramsar added in the 2020 six-site batch
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Rudrasagar** is in **Tripura**, not UP.
-
-**Logic:** Sultanpur (Haryana) and Surinsar–Mansar (J&K) are the other classic “NOT UP” traps.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">“Vegetation is the true index of climate” is associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Köppen</div><div class="pyq-opt"><span class="opt-letter">B</span> Thornthwaite</div><div class="pyq-opt"><span class="opt-letter">C</span> Trewartha</div><div class="pyq-opt"><span class="opt-letter">D</span> Humboldt</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The line is linked to **Thornthwaite**.
+
+**Logic:** Köppen is the letter-code climate system — the classic distractor.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to India’s biodiversity hotspots, which of the following is/are correct?<br><br>1. Four hotspots touch India: Himalaya, Western Ghats–Sri Lanka, Indo-Burma, Sundaland.<br>2. Sundaland in the Indian context is represented by the Andaman Islands.<br>3. The four hotspots are the same list as India’s 18 biosphere reserves.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only statement 1 is correct.
+
+**Logic:** Sundaland = **Nicobar** (not Andaman). Hotspots ≠ 18 biospheres.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which forest type covers the largest area in India among the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tropical evergreen</div><div class="pyq-opt"><span class="opt-letter">B</span> Moist deciduous</div><div class="pyq-opt"><span class="opt-letter">C</span> Montane alpine</div><div class="pyq-opt"><span class="opt-letter">D</span> Mangrove / littoral</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Moist deciduous (about **100–200 cm** rain) is the largest-area type (~37%).
+
+**Logic:** Evergreen is rainier but not the largest area.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Botanical gardens are an example of in-situ conservation.<br>Reason (R): In-situ conservation keeps species in their natural habitats such as National Parks and sacred groves.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Botanical gardens / zoos / seed banks are **ex-situ**. R correctly defines in-situ.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Park / reserve)</th><th>List-II (State)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Simlipal</td><td><span class="match-key">A</span> Meghalaya</td></tr>
+      <tr><td><span class="match-key">2</span> Nokrek</td><td><span class="match-key">B</span> Odisha</td></tr>
+      <tr><td><span class="match-key">3</span> Nanda Devi</td><td><span class="match-key">C</span> Uttarakhand</td></tr>
+      <tr><td><span class="match-key">4</span> Keoladeo</td><td><span class="match-key">D</span> Rajasthan</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-C, 2-A, 3-B, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Simlipal–Odisha; Nokrek–Meghalaya; Nanda Devi–UK; Keoladeo–Rajasthan.
+
+**Logic:** Row order is not the answer code. Traps: Simlipal→MP; Nokrek→Manipur; Nanda Devi→UP.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Uttar Pradesh’s only National Park is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pilibhit</div><div class="pyq-opt"><span class="opt-letter">B</span> Dudhwa</div><div class="pyq-opt"><span class="opt-letter">C</span> Amangarh</div><div class="pyq-opt"><span class="opt-letter">D</span> Chandraprabha</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Dudhwa** (Lakhimpur Kheri) is UP’s only NP.
+
+**Logic:** Pilibhit / Amangarh / Ranipur are Tiger Reserves; Chandraprabha is a sanctuary in Chandauli.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Project Tiger was launched on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 April 1972</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 April 1973</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 April 1992</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 April 2002</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Project Tiger began on **1 April 1973** after WLPA 1972.
+
+**Logic:** 1972 is the Act year; 1992 is Project Elephant; 2002 is BDA.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to mangroves, which of the following statements is/are correct?<br><br>1. Pneumatophores are breathing roots of many mangroves.<br>2. MISHTI is a Budget 2023–24 mangrove programme.<br>3. Vembanad mangrove teaching pair is Karnataka.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** **Vembanad = Kerala**, not Karnataka.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Hangul (Kashmir stag) is protected mainly in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kaziranga</div><div class="pyq-opt"><span class="opt-letter">B</span> Dachigam</div><div class="pyq-opt"><span class="opt-letter">C</span> Gir</div><div class="pyq-opt"><span class="opt-letter">D</span> Keibul Lamjao</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hangul’s home is **Dachigam**.
+
+**Logic:** Keibul Lamjao / Loktak = Sangai; Gir = lion; Kaziranga = rhino.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Southern slopes of the Himalaya generally support denser vegetation than northern slopes.<br>Reason (R): Southern slopes receive more rainfall and sunlight than northern slopes.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true and R explains A.
+
+**A/R logic:** Aspect + monsoon exposure make southern slopes denser — reverse claims are false.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is India’s first National Park?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dudhwa</div><div class="pyq-opt"><span class="opt-letter">B</span> Jim Corbett</div><div class="pyq-opt"><span class="opt-letter">C</span> Kanha</div><div class="pyq-opt"><span class="opt-letter">D</span> Gir</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Jim Corbett** (1936 as Hailey NP) is India’s first National Park.
+
+**Logic:** Dudhwa is UP’s only NP, not India’s first.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Surha Tal / JP Narayan Bird Sanctuary (Ballia) is important because:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It is Uttar Pradesh’s only National Park</div><div class="pyq-opt"><span class="opt-letter">B</span> It was notified as India’s 100th Ramsar site (June 2026)</div><div class="pyq-opt"><span class="opt-letter">C</span> It has the highest forest cover among UP districts</div><div class="pyq-opt"><span class="opt-letter">D</span> It is a Project Elephant reserve in Bundelkhand</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Surha Tal is India’s **100th Ramsar** and UP’s 13th.
+
+**Logic:** Ballia has near-nil forest cover — wetland fame, not forest fame.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Vegetation name)</th><th>List-II (Region)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Maquis</td><td><span class="match-key">A</span> California</td></tr>
+      <tr><td><span class="match-key">2</span> Fynbos</td><td><span class="match-key">B</span> Mediterranean</td></tr>
+      <tr><td><span class="match-key">3</span> Chaparral</td><td><span class="match-key">C</span> Chile</td></tr>
+      <tr><td><span class="match-key">4</span> Matorral</td><td><span class="match-key">D</span> South Africa</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-D, 3-A, 4-C</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-D, 2-B, 3-A, 4-C</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-C, 2-D, 3-A, 4-B</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Maquis–Mediterranean; Fynbos–SA; Chaparral–California; Matorral–Chile.
+
+**Logic:** Row order is not the answer code. Same-climate four-name trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following is an ex-situ conservation method?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> National Park</div><div class="pyq-opt"><span class="opt-letter">B</span> Wildlife Sanctuary</div><div class="pyq-opt"><span class="opt-letter">C</span> Sacred grove</div><div class="pyq-opt"><span class="opt-letter">D</span> Seed bank</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Seed banks (with zoos / botanical gardens) are **ex-situ**.
+
+**Logic:** Sacred groves are in-situ community patches.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Coral bleaching in Indian Ocean teaching notes is linked mainly to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A fall of about 2°C in sea-surface temperature</div><div class="pyq-opt"><span class="opt-letter">B</span> A rise of about 2°C in sea-surface temperature</div><div class="pyq-opt"><span class="opt-letter">C</span> Freshwater flood alone without heat stress</div><div class="pyq-opt"><span class="opt-letter">D</span> Permanent extinction of all zooxanthellae on day one</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> About **2°C warming** drives bleaching via loss of zooxanthellae.
+
+**Logic:** Cooling is the reverse trap; bleaching ≠ instant death of the reef.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Flame of the forest (Palash / Dhak) is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The state flower of Uttar Pradesh (*Butea monosperma*)</div><div class="pyq-opt"><span class="opt-letter">B</span> The state tree of Rajasthan only</div><div class="pyq-opt"><span class="opt-letter">C</span> A Himalayan conifer at 3500 m</div><div class="pyq-opt"><span class="opt-letter">D</span> The source tree of katha</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Palash / Dhak = UP state flower.
+
+**Logic:** Katha comes from **khair**, not Palash.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to forest cover statistics, which of the following statements is/are correct?<br><br>1. Forest cover in ISFR is the same as Recorded Forest Area.<br>2. National Forest Policy 1988 aims at about 33% forest cover.<br>3. Madhya Pradesh leads among states in forest area in the usual ISFR ranking.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 2 and 3 are correct.
+
+**Logic:** ISFR **cover ≠** legal RFA. Always read the report year for percentages.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Dry evergreen forests of the Coromandel grow under about 100 cm of north-east monsoon rainfall.<br>Reason (R): Dry evergreen forests are identical to Western Ghat wet evergreen rainforests.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** Coromandel dry evergreen ≠ WG wet rainforest; rainfall and species sets differ.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Operation Olivia is associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Project Tiger census in Dudhwa</div><div class="pyq-opt"><span class="opt-letter">B</span> Coast Guard protection of Olive Ridley nesting in Odisha (Nov–May)</div><div class="pyq-opt"><span class="opt-letter">C</span> Mangrove plantation under MISHTI in Gujarat only</div><div class="pyq-opt"><span class="opt-letter">D</span> Coral transplantation in Lakshadweep in August only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Olivia = Olive Ridley programme; season **Nov–May**.
+
+**Logic:** August nesting is the false season trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which Ramsar site is NOT in Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Surha Tal (Ballia)</div><div class="pyq-opt"><span class="opt-letter">B</span> Rudrasagar (Tripura)</div><div class="pyq-opt"><span class="opt-letter">C</span> A recent UP bird sanctuary wetland on the state list</div><div class="pyq-opt"><span class="opt-letter">D</span> An UP Ramsar added in the 2020 six-site batch</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rudrasagar** is in **Tripura**, not UP.
+
+**Logic:** Sultanpur (Haryana) and Surinsar–Mansar (J&K) are the other classic “NOT UP” traps.</div>
+  </div>
+</div>

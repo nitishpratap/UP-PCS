@@ -202,21 +202,6 @@ hide:
 | **Dynamite** | Nitroglycerin absorbed in kieselguhr | $C_3H_5(NO_3)_3$ in earth | Invented by **Alfred Nobel (1867)**; safe handling of volatile nitroglycerin |
 | **Gunpowder (Black Powder)**| Saltpetre + Charcoal + Sulfur | **$KNO_3 (75\%) + C (15\%) + S (10\%)$**| Oldest known chemical explosive; invented in ancient China; used in fireworks and artillery propellant |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Antiseptic** | **Disinfectant** | **Antiseptics (Dettol, Tincture of Iodine)** are applied safely to **LIVING tissues** (cuts, wounds). **Disinfectants ($1\%$ Phenol, Bleaching powder)** are toxic and applied only to **NON-LIVING objects** (floors, drains). | एंटीसेप्टिक = जीवित ऊतकों पर (घाव, कटने पर); कीटाणुनाशक (Disinfectant) = निर्जीव वस्तुओं (फर्श) पर |
-| **Phenol Dual Nature** | **Concentration Trap** | Phenol acts as an **ANTISEPTIC at dilute $0.2\%$ concentration**, but acts as a **DISINFECTANT at stronger $1.0\%$ concentration**. | फिनोल $0.2\%$ सांद्रता पर एंटीसेप्टिक है, जबकि $1\%$ सांद्रता पर कीटाणुनाशक (Disinfectant) है |
-| **Urea Nitrogen Percentage** | **Nitrogen Content Confusion** | Commercial fertilizer **Urea contains exactly $46\% \text{ Nitrogen}$**. It has the highest nitrogen content among all solid commercial nitrogenous fertilizers. | यूरिया में नाइट्रोजन की मात्रा ठीक $46\%$ होती है |
-| **RDX Alternative Names** | **Country Confusion** | RDX is identical to **Cyclonite (USA)**, **Hexogen (Germany)**, and **T4 (Italy)**. It is an explosive compound, NOT a biological gas or fertilizer! | आरडीएक्स (RDX) = साइक्लोनाइट (अमेरिका) = हेक्सोजन (जर्मनी) |
-| **Aspartame Cooking Stability**| **Sucralose Cooking Stability**| **Aspartame decomposes upon heating**, so it can be used ONLY in cold desserts and cold drinks. **Sucralose is completely heat-stable** and can be used in baking and hot cooking. | एस्पार्टेम गर्म करने पर विघटित हो जाता है (केवल ठंडे पेय पदार्थों में प्रयुक्त); सुक्रालोज़ पकाने हेतु सुरक्षित है |
-| **Dettol Active Ingredients** | **Pure Chemical Confusion** | Dettol is a proprietary antiseptic blend of **Chloroxylenol** (antibacterial agent) and **$\alpha$-Terpineol** (fragrant solvent). | डेटॉल = क्लोरोज़ाइलीनॉल + टरपिनिऑल का मिश्रण |
-| **Tincture of Iodine** | **Iodized Salt** | **Tincture of Iodine** is an antiseptic solution of **$2–3\%$ elemental Iodine ($I_2$) dissolved in an alcohol-water mixture**. Iodized salt is dietary table salt containing trace Potassium Iodate ($KIO_3$). | टिंचर आयोडीन = एल्कोहॉल-जल मिश्रण में $2–3\%$ आयोडीन का घोल (एंटीसेप्टिक) |
-| **Neem-Coated Urea** | **Ordinary Urea** | Neem coating retards the nitrification process by soil bacteria, **slowing nitrogen release and reducing leaching loss by $10–15\%$**, while completely preventing illegal diversion to non-agricultural industries. | नीम लेपित यूरिया नाइट्रोजन के धीमे विमोचन को सुनिश्चित करता है तथा रासायनिक दुरुपयोग रोकता है |
-| **Gunpowder (Black Powder)** | **Smokeless Powder (Cordite)** | Traditional **Gunpowder is a mechanical mixture of Potassium Nitrate ($KNO_3, 75\%$), Charcoal ($15\%$), and Sulfur ($10\%$)**. It is not a single chemical compound. | बारूद (Gunpowder) = पोटेशियम नाइट्रेट ($KNO_3$) + चारकोल + सल्फर का मिश्रण |
-| **DAP Nitrogen Content** | **Phosphorus Content** | Diammonium Phosphate (DAP) contains **$18\% \text{ Nitrogen}$ and $46\% \text{ Phosphorus } (P_2O_5)$**. Examiners repeatedly swap the percentages! | डीएपी (DAP) = $18\%$ नाइट्रोजन तथा $46\%$ फास्फोरस ($P_2O_5$) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Urea Identity Hook:
@@ -237,276 +222,232 @@ hide:
 - $15\%$ **Charcoal (Carbon)**
 - $10\%$ **Gandhak (Sulfur)**
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-What is the percentage of nitrogen present in commercial Urea fertilizer?
-(a) $21\%$  
-(b) $28\%$  
-(c) $46\%$  
-(d) $60\%$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches $46\%$.
-
-**Ans: C.** $46\%$
-</details>
-
----
-
-**Q2.**
-
-Which specialty glass is designed with cerium oxide to cut off harmful ultraviolet radiation?
-(a) Soda glass  
-(b) Flint glass  
-(c) Crookes glass  
-(d) Pyrex glass  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Crookes glass contains cerium oxide ($CeO2$), which absorbs UV rays in sunglasses.
-
-**Ans: C.** Crookes glass
-</details>
-
----
-
-**Q3.**
-
-Which chemical salt is used as a light-sensitive emulsion on photographic film?
-(a) Silver bromide ($AgBr$)  
-(b) Silver iodide ($AgI$)  
-(c) Silver nitrate ($AgNO_3$)  
-(d) Silver oxide ($Ag_2O$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Silver bromide ($AgBr$) is the light-sensitive compound in photographic emulsions.
-
-**Ans: A.** Silver bromide ($AgBr$)
-</details>
-
----
-
-**Q4.**
-
-Which compound is used for cloud seeding to generate artificial rain?
-(a) Silver bromide  
-(b) Silver iodide ($AgI$)  
-(c) Sodium chloride only  
-(d) Calcium carbonate  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Silver iodide ($AgI$) serves as an ice-nucleating agent in clouds due to its crystalline resemblance to ice.
-
-**Ans: B.** Silver iodide ($AgI$)
-</details>
-
----
-
-**Q5.**
-
-Sodium chlorate ($NaClO_3$) is commercially used in agriculture as a:
-(a) Fertilizer  
-(b) Non-selective herbicide  
-(c) Rodenticide  
-(d) Fungicide  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sodium chlorate is a broad-spectrum herbicide used to clear vegetation.
-
-**Ans: B.** Non-selective herbicide
-</details>
-
----
-
-**Q6.**
-
-Zinc phosphide ($Zn_3P_2$) is widely used as a:
-(a) Rodenticide (rat poison)  
-(b) Fertilizer  
-(c) Selective herbicide  
-(d) Fungicide  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Zinc phosphide releases toxic phosphine gas in rodent stomachs, acting as a rodenticide.
-
-**Ans: A.** Rodenticide (rat poison)
-</details>
-
----
-
-**Q7.**
-
-Why is DDT banned globally under the Stockholm Convention?
-(a) It is too expensive to manufacture  
-(b) It is non-biodegradable and biomagnifies in food chains  
-(c) It turns soil alkaline  
-(d) It causes rust on farm machinery  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** DDT persists in the environment and accumulates in food webs, causing ecological damage such as avian eggshell thinning.
-
-**Ans: B.** It is non-biodegradable and biomagnifies in food chains
-</details>
-
----
-
-**Q8.**
-
-What is the commercial chemical name of the photographic fixer "Hypo"?
-(a) Sodium thiosulphate pentahydrate  
-(b) Sodium sulphate  
-(c) Sodium sulphite  
-(d) Sodium bisulphite  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hypo is sodium thiosulphate ($Na2S2O3 \cdot 5H2O$), which dissolves unexposed silver bromide from film.
-
-**Ans: A.** Sodium thiosulphate pentahydrate
-</details>
-
----
-
-**Q9.**
-
-Aspirin is chemically:
-(a) Acetylsalicylic acid  
-(b) Methyl salicylate  
-(c) Phenyl salicylate  
-(d) Benzoic acid  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Aspirin is acetylsalicylic acid, an analgesic, antipyretic, and antiplatelet drug.
-
-**Ans: A.** Acetylsalicylic acid
-</details>
-
----
-
-**Q10.**
-
-What byproduct is generated during the manufacture of soap by saponification?
-(a) Methanol  
-(b) Glycerol (Glycerine)  
-(c) Ethanol  
-(d) Acetone  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Saponification of triglycerides yields soap and glycerol.
-
-**Ans: B.** Glycerol (Glycerine)
-</details>
-
----
-
-**Q11.**
-
-Which of the following compounds is used as a food preservative in tomato ketchup and fruit squashes?
-(a) Sodium benzoate  
-(b) Sodium chlorate  
-(c) Calcium carbide  
-(d) Zinc phosphide  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sodium benzoate ($C6H5COONa$) inhibits yeast and mold growth in acidic foods.
-
-**Ans: A.** Sodium benzoate
-</details>
-
----
-
-**Q12.**
-
-What type of glass contains lead oxide ($PbO$) and possesses a high refractive index used for lenses and prisms?
-(a) Soda glass  
-(b) Flint glass  
-(c) Pyrex glass  
-(d) Crookes glass  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Flint glass contains lead oxide, providing high optical dispersion and refractive index for lenses and prisms.
-
-**Ans: B.** Flint glass
-</details>
-
----
-
-**Q13.**
-
-Why is gypsum added to Portland cement during the grinding process?
-(a) To retard initial setting time  
-(b) To accelerate hardening  
-(c) To impart color  
-(d) To increase water solubility  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gypsum slows the hydration of tricalcium aluminate, preventing flash setting.
-
-**Ans: A.** To retard initial setting time
-</details>
-
----
-
-**Q14.**
-
-Which soil amendment is added to reclaim acidic soils ($\text{pH} < 6$)?
-(a) Gypsum  
-(b) Agricultural lime ($CaCO_3 / Ca(OH)_2$)  
-(c) Urea  
-(d) Ammonium sulphate  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Liming neutralizes excess $H^+$ ions in acidic soils.
-
-**Ans: B.** Agricultural lime ($CaCO3 / Ca(OH)2$)
-</details>
-
----
-
-**Q15.**
-
-What is added to reclaim alkaline/sodic soils ($\text{pH} > 8.5$)?
-(a) Slaked lime  
-(b) Gypsum ($CaSO_4 \cdot 2H_2O$)  
-(c) Sodium carbonate  
-(d) Chalk  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gypsum supplies calcium ions to displace sodium from sodic soils, restoring soil structure.
-
-**Ans: B.** Gypsum ($CaSO4 \cdot 2H2O$)
-</details>
-
----
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">What is the percentage of nitrogen present in commercial Urea fertilizer?<br>(a) $21\%$  <br>(b) $28\%$  <br>(c) $46\%$  <br>(d) $60\%$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches $46\%$.
+
+**Ans: C.** $46\%$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which specialty glass is designed with cerium oxide to cut off harmful ultraviolet radiation?<br>(a) Soda glass  <br>(b) Flint glass  <br>(c) Crookes glass  <br>(d) Pyrex glass</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Crookes glass contains cerium oxide ($CeO2$), which absorbs UV rays in sunglasses.
+
+**Ans: C.** Crookes glass</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which chemical salt is used as a light-sensitive emulsion on photographic film?<br>(a) Silver bromide ($AgBr$)  <br>(b) Silver iodide ($AgI$)  <br>(c) Silver nitrate ($AgNO_3$)  <br>(d) Silver oxide ($Ag_2O$)</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Silver bromide ($AgBr$) is the light-sensitive compound in photographic emulsions.
+
+**Ans: A.** Silver bromide ($AgBr$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which compound is used for cloud seeding to generate artificial rain?<br>(a) Silver bromide  <br>(b) Silver iodide ($AgI$)  <br>(c) Sodium chloride only  <br>(d) Calcium carbonate</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Silver iodide ($AgI$) serves as an ice-nucleating agent in clouds due to its crystalline resemblance to ice.
+
+**Ans: B.** Silver iodide ($AgI$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Sodium chlorate ($NaClO_3$) is commercially used in agriculture as a:<br>(a) Fertilizer  <br>(b) Non-selective herbicide  <br>(c) Rodenticide  <br>(d) Fungicide</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Sodium chlorate is a broad-spectrum herbicide used to clear vegetation.
+
+**Ans: B.** Non-selective herbicide</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Zinc phosphide ($Zn_3P_2$) is widely used as a:<br>(a) Rodenticide (rat poison)  <br>(b) Fertilizer  <br>(c) Selective herbicide  <br>(d) Fungicide</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Zinc phosphide releases toxic phosphine gas in rodent stomachs, acting as a rodenticide.
+
+**Ans: A.** Rodenticide (rat poison)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Why is DDT banned globally under the Stockholm Convention?<br>(a) It is too expensive to manufacture  <br>(b) It is non-biodegradable and biomagnifies in food chains  <br>(c) It turns soil alkaline  <br>(d) It causes rust on farm machinery</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** DDT persists in the environment and accumulates in food webs, causing ecological damage such as avian eggshell thinning.
+
+**Ans: B.** It is non-biodegradable and biomagnifies in food chains</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">What is the commercial chemical name of the photographic fixer "Hypo"?<br>(a) Sodium thiosulphate pentahydrate  <br>(b) Sodium sulphate  <br>(c) Sodium sulphite  <br>(d) Sodium bisulphite</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Hypo is sodium thiosulphate ($Na2S2O3 \cdot 5H2O$), which dissolves unexposed silver bromide from film.
+
+**Ans: A.** Sodium thiosulphate pentahydrate</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Aspirin is chemically:<br>(a) Acetylsalicylic acid  <br>(b) Methyl salicylate  <br>(c) Phenyl salicylate  <br>(d) Benzoic acid</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Aspirin is acetylsalicylic acid, an analgesic, antipyretic, and antiplatelet drug.
+
+**Ans: A.** Acetylsalicylic acid</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">What byproduct is generated during the manufacture of soap by saponification?<br>(a) Methanol  <br>(b) Glycerol (Glycerine)  <br>(c) Ethanol  <br>(d) Acetone</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Saponification of triglycerides yields soap and glycerol.
+
+**Ans: B.** Glycerol (Glycerine)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following compounds is used as a food preservative in tomato ketchup and fruit squashes?<br>(a) Sodium benzoate  <br>(b) Sodium chlorate  <br>(c) Calcium carbide  <br>(d) Zinc phosphide</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Sodium benzoate ($C6H5COONa$) inhibits yeast and mold growth in acidic foods.
+
+**Ans: A.** Sodium benzoate</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">What type of glass contains lead oxide ($PbO$) and possesses a high refractive index used for lenses and prisms?<br>(a) Soda glass  <br>(b) Flint glass  <br>(c) Pyrex glass  <br>(d) Crookes glass</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Flint glass contains lead oxide, providing high optical dispersion and refractive index for lenses and prisms.
+
+**Ans: B.** Flint glass</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Why is gypsum added to Portland cement during the grinding process?<br>(a) To retard initial setting time  <br>(b) To accelerate hardening  <br>(c) To impart color  <br>(d) To increase water solubility</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Gypsum slows the hydration of tricalcium aluminate, preventing flash setting.
+
+**Ans: A.** To retard initial setting time</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which soil amendment is added to reclaim acidic soils ($\text{pH} < 6$)?<br>(a) Gypsum  <br>(b) Agricultural lime ($CaCO_3 / Ca(OH)_2$)  <br>(c) Urea  <br>(d) Ammonium sulphate</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Liming neutralizes excess $H^+$ ions in acidic soils.
+
+**Ans: B.** Agricultural lime ($CaCO3 / Ca(OH)2$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">What is added to reclaim alkaline/sodic soils ($\text{pH} > 8.5$)?<br>(a) Slaked lime  <br>(b) Gypsum ($CaSO_4 \cdot 2H_2O$)  <br>(c) Sodium carbonate  <br>(d) Chalk</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Gypsum supplies calcium ions to displace sodium from sodic soils, restoring soil structure.
+
+**Ans: B.** Gypsum ($CaSO4 \cdot 2H2O$)</div>
+  </div>
+</div>

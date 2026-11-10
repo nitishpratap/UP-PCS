@@ -184,29 +184,6 @@ C₂          = A₂ + FL + owned-land rent + interest on fixed capital
             → Swaminathan recommendation: C₂ + 50%  (not the current fixing rule)
 ```
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Correct distinction |
-|---|----|---------------------|
-| Father of Green Revolution (World) | Father of Green Revolution (India) | **Norman Borlaug** (Nobel 1970) vs **M.S. Swaminathan** (Bharat Ratna 2024). |
-| White Revolution | Green Revolution | Milk / Operation Flood (**Kurien, 1970**) vs HYV wheat–rice (**Swaminathan, 1966**). |
-| NDDB founding | Operation Flood launch | NDDB **1965** (Anand) vs Flood **1970**. |
-| Yellow Revolution | Golden Revolution | **Oilseeds** (Sam Pitroda) vs **horticulture / honey / fruits** (Nirpakh Tutej). |
-| Golden Fibre | Silver Fibre | **Jute** vs **cotton**. |
-| Silver Revolution | Silver Fibre | **Eggs / poultry** vs **cotton**. |
-| Round Revolution | Grey Revolution | **Potato** (CPRI Kufri) vs **fertilizers**. |
-| Pink Revolution | Red Revolution | **Onion / prawn / pharma** vs **meat / tomato**. |
-| Sweet Revolution | Sugarcane / FRP | Sweet = **honey / beekeeping**; sugarcane price = **FRP / SAP**. |
-| Cost A₂ + FL | Cost C₂ | A₂+FL = paid costs + family labour (govt **1.5×** base) vs C₂ adds land rent + fixed-capital interest (**Swaminathan C₂+50%**). |
-| MSP | FRP | Floor for **22 crops** (CACP → CCEA) vs statutory **sugarcane** price (Control Order 1966). |
-| FRP | SAP | Central statutory floor vs **State** advised price (often higher). |
-| CACP | CCEA | **Recommends** MSP vs **approves** MSP. |
-| FCI | NAFED / NCCF | Mainly **wheat–rice** procurement vs **pulses / oilseeds / copra** under PSS. |
-| Priority Households | AAY | **5 kg per person / month** vs **35 kg per household / month**. |
-| PM-KISAN | PMFBY | Income support **₹6,000/year** vs crop **insurance** premiums 2% / 1.5% / 5%. |
-| e-NAM | APMC abolition | e-NAM **networks** mandis digitally; it does not abolish physical APMCs. |
-| Palm oil support | CACP MSP oilseeds | Palm uses **Viability Price** (NMEO-OP), not the 22-crop MSP list. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### Key Mnemonics & Cognitive Hooks
@@ -231,279 +208,262 @@ C₂          = A₂ + FL + owned-land rent + interest on fixed capital
   - **Rabi crops:** **1.5%** (Lower weather risk).
   - **Commercial / Horticultural crops:** **5.0%**.
 
-## 🎯 High-Yield PYQ Drill (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which of the following bodies recommends the Minimum Support Prices (MSP) for agricultural crops to the Government of India?
-
-A. Commission for Agricultural Costs and Prices (CACP)
-B. NITI Aayog
-C. Food Corporation of India (FCI)
-D. Indian Council of Agricultural Research (ICAR)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** FCI procures; ICAR does research; NITI Aayog is not the MSP recommender.
-
-**Ans: A.** CACP is the advisory recommender; CCEA gives final approval.
-
-</details>
-
-**Q2.**
-The National Food Security Act (NFSA) was enacted in which year in India?
-
-A. 2013
-B. 2011
-C. 2015
-D. 2009
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Do not confuse with TPDS 1997 or AAY 2000.
-
-**Ans: A.** NFSA enactment date is 10 September 2013 (deemed effective 5 July 2013).
-
-</details>
-
-**Q3.**
-Who is known as the “Father of the White Revolution” in India?
-
-A. Dr. Verghese Kurien
-B. Dr. M.S. Swaminathan
-C. Dr. Norman Borlaug
-D. Dr. Hiralal Chaudhuri
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Swaminathan = Green (India).
-
-**Ans: A.** Kurien = White / Operation Flood.
-
-</details>
-
-**Q4.**
-
-For how many mandated crops does CACP recommend Minimum Support Price (excluding sugarcane)?
-
-A. 22 crops
-B. 24 crops
-C. 20 crops
-D. 26 crops
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CACP recommends MSP for 22 mandated crops plus FRP for sugarcane.
-
-**Ans: A.** Count is fixed as 7+5+7+3 = 22; sugarcane is FRP, not an MSP crop.
-
-</details>
-
-**Q5.**
-
-Match the Agricultural Revolution with its associated commodity:
-
-| Revolution | Commodity |
-|---|---|
-| A. Yellow Revolution | 1. Oilseeds |
-| B. Blue Revolution | 2. Fish & Aquaculture |
-| C. Golden Revolution | 3. Fruits & Honey |
-| D. Grey Revolution | 4. Fertilizers |
-
-> Note: Row order is **not** the answer code.
-
-A. A-1, B-2, C-3, D-4
-B. A-2, B-1, C-4, D-3
-C. A-1, B-3, C-2, D-4
-D. A-4, B-2, C-3, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Swap traps usually mix Golden with Yellow.
-
-**Ans: A.** Yellow→oilseeds; Blue→fish; Golden→fruits/honey; Grey→fertilizers.
-
-</details>
-
-**Q6.**
-
-Under PMFBY, what is the maximum farmer premium for annual commercial and horticultural crops?
-
-A. 5.0% of Sum Insured
-B. 2.0% of Sum Insured
-C. 1.5% of Sum Insured
-D. 10.0% of Sum Insured
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Commercial/horticultural farmer premium is 5.0% of Sum Insured.
-
-**Ans: A.** Caps are 2% Kharif, 1.5% Rabi, 5% commercial/horticultural — do not park 5% on Kharif.
-
-</details>
-
-**Q7.**
-
-Annual financial assistance under PM-KISAN is:
-
-A. ₹6,000 in three equal instalments of ₹2,000
-B. ₹10,000 in two equal instalments of ₹5,000
-C. ₹5,000 as a one-time annual grant
-D. ₹12,000 in monthly instalments of ₹1,000
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ₹6,000 in three instalments of ₹2,000.
-
-**Ans: A.** Fixed ₹6,000/year via three DBT instalments of ₹2,000 every four months.
-
-</details>
-
-**Q8.**
-
-Lead implementing agency for the e-NAM portal is:
-
-A. Small Farmers' Agribusiness Consortium (SFAC)
-B. NAFED
-C. FCI
-D. APEDA
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** SFAC is the lead agency for e-NAM.
-
-**Ans: A.** SFAC runs e-NAM for the Agriculture Ministry; FCI is foodgrain logistics; APEDA is export promotion.
-
-</details>
-
-**Q9.**
-
-Under NFSA 2013, monthly foodgrain entitlement for Priority Households is:
-
-A. 5 kg per person per month
-B. 35 kg per person per month
-C. 10 kg per family per month
-D. 25 kg per family per month
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Priority Households get 5 kg per person per month.
-
-**Ans: A.** PHH = 5 kg/person; AAY = 35 kg/household — never swap person vs household units.
-
-</details>
-
-**Q10.**
-
-Operation Greens was originally launched to stabilize supply and prices of:
-
-A. TOP crops (Tomato, Onion, Potato)
-B. Green leafy vegetables only
-C. Pulses and coarse cereals
-D. Organic dairy products
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Originally Tomato, Onion, and Potato (TOP).
-
-**Ans: A.** Budget 2018–19 TOP focus on the lines of Operation Flood; later expansion does not change the original TOP launch fact.
-
-</details>
-
-**Q11.**
-
-Food Corporation of India (FCI) was established in:
-
-A. 1965
-B. 1950
-C. 1975
-D. 1982
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Do not confuse with CACP (also 1965) or NABARD (1982).
-
-**Ans: A.** Act 1964; operations from 14 January 1965.
-
-</details>
-
-**Q12.**
-
-Pricing of sugarcane in India is governed by:
-
-A. Fair and Remunerative Price (FRP) under Sugarcane (Control) Order, 1966
-B. Minimum Support Price (MSP) under the Essential Commodities Act alone
-C. APMC Mandi Auction rate only
-D. NAFED Floor Price
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** FRP under the Sugarcane (Control) Order, 1966.
-
-**Ans: A.** Sugarcane is FRP (statutory), not one of the 22 MSP crops.
-
-</details>
-
-**Q13.**
-
-Which is NOT a component of FCI’s economic cost of foodgrains?
-
-A. Corporate Income Tax paid by private traders
-B. Minimum Support Price (acquisition cost)
-C. Procurement Incidentals
-D. Distribution Cost
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Private traders’ income tax is unrelated.
-
-**Ans: A.** Economic cost = acquisition + incidentals + distribution.
-
-</details>
-
-**Q14.**
-
-Silver Fibre Revolution is associated with:
-
-A. Cotton
-B. Jute
-C. Silk
-D. Wool
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Silver Fibre = cotton; Golden Fibre = jute; Silver (alone) = eggs/poultry — Cotton
-
-**Ans: A.** Cotton
-</details>
-
-**Q15.**
-
-A. Onion, Prawn, and Pharmaceutical production
-B. Rose flower floriculture only
-C. Strawberry farming only
-D. Cotton processing
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Onion, prawn, and pharmaceuticals.
-
-**Ans: A.** Pink = onion + pharma + prawn/meat exports (Durgesh Patel), not floriculture.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following bodies recommends the Minimum Support Prices (MSP) for agricultural crops to the Government of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Commission for Agricultural Costs and Prices (CACP)</div><div class="pyq-opt"><span class="opt-letter">B</span> NITI Aayog</div><div class="pyq-opt"><span class="opt-letter">C</span> Food Corporation of India (FCI)</div><div class="pyq-opt"><span class="opt-letter">D</span> Indian Council of Agricultural Research (ICAR)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** FCI procures; ICAR does research; NITI Aayog is not the MSP recommender.
+
+**Ans: A.** CACP is the advisory recommender; CCEA gives final approval.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The National Food Security Act (NFSA) was enacted in which year in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2013</div><div class="pyq-opt"><span class="opt-letter">B</span> 2011</div><div class="pyq-opt"><span class="opt-letter">C</span> 2015</div><div class="pyq-opt"><span class="opt-letter">D</span> 2009</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Do not confuse with TPDS 1997 or AAY 2000.
+
+**Ans: A.** NFSA enactment date is 10 September 2013 (deemed effective 5 July 2013).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who is known as the “Father of the White Revolution” in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dr. Verghese Kurien</div><div class="pyq-opt"><span class="opt-letter">B</span> Dr. M.S. Swaminathan</div><div class="pyq-opt"><span class="opt-letter">C</span> Dr. Norman Borlaug</div><div class="pyq-opt"><span class="opt-letter">D</span> Dr. Hiralal Chaudhuri</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Swaminathan = Green (India).
+
+**Ans: A.** Kurien = White / Operation Flood.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">For how many mandated crops does CACP recommend Minimum Support Price (excluding sugarcane)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 22 crops</div><div class="pyq-opt"><span class="opt-letter">B</span> 24 crops</div><div class="pyq-opt"><span class="opt-letter">C</span> 20 crops</div><div class="pyq-opt"><span class="opt-letter">D</span> 26 crops</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** CACP recommends MSP for 22 mandated crops plus FRP for sugarcane.
+
+**Ans: A.** Count is fixed as 7+5+7+3 = 22; sugarcane is FRP, not an MSP crop.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match the Agricultural Revolution with its associated commodity:<br><br>| Revolution | Commodity |<br>|---|---|<br>| A. Yellow Revolution | 1. Oilseeds |<br>| B. Blue Revolution | 2. Fish & Aquaculture |<br>| C. Golden Revolution | 3. Fruits & Honey |<br>| D. Grey Revolution | 4. Fertilizers |<br><br>> Note: Row order is **not** the answer code.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-3, C-2, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-2, C-3, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Swap traps usually mix Golden with Yellow.
+
+**Ans: A.** Yellow→oilseeds; Blue→fish; Golden→fruits/honey; Grey→fertilizers.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Under PMFBY, what is the maximum farmer premium for annual commercial and horticultural crops?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 5.0% of Sum Insured</div><div class="pyq-opt"><span class="opt-letter">B</span> 2.0% of Sum Insured</div><div class="pyq-opt"><span class="opt-letter">C</span> 1.5% of Sum Insured</div><div class="pyq-opt"><span class="opt-letter">D</span> 10.0% of Sum Insured</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Commercial/horticultural farmer premium is 5.0% of Sum Insured.
+
+**Ans: A.** Caps are 2% Kharif, 1.5% Rabi, 5% commercial/horticultural — do not park 5% on Kharif.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Annual financial assistance under PM-KISAN is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> ₹6,000 in three equal instalments of ₹2,000</div><div class="pyq-opt"><span class="opt-letter">B</span> ₹10,000 in two equal instalments of ₹5,000</div><div class="pyq-opt"><span class="opt-letter">C</span> ₹5,000 as a one-time annual grant</div><div class="pyq-opt"><span class="opt-letter">D</span> ₹12,000 in monthly instalments of ₹1,000</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** ₹6,000 in three instalments of ₹2,000.
+
+**Ans: A.** Fixed ₹6,000/year via three DBT instalments of ₹2,000 every four months.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Lead implementing agency for the e-NAM portal is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Small Farmers' Agribusiness Consortium (SFAC)</div><div class="pyq-opt"><span class="opt-letter">B</span> NAFED</div><div class="pyq-opt"><span class="opt-letter">C</span> FCI</div><div class="pyq-opt"><span class="opt-letter">D</span> APEDA</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** SFAC is the lead agency for e-NAM.
+
+**Ans: A.** SFAC runs e-NAM for the Agriculture Ministry; FCI is foodgrain logistics; APEDA is export promotion.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Under NFSA 2013, monthly foodgrain entitlement for Priority Households is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 5 kg per person per month</div><div class="pyq-opt"><span class="opt-letter">B</span> 35 kg per person per month</div><div class="pyq-opt"><span class="opt-letter">C</span> 10 kg per family per month</div><div class="pyq-opt"><span class="opt-letter">D</span> 25 kg per family per month</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Priority Households get 5 kg per person per month.
+
+**Ans: A.** PHH = 5 kg/person; AAY = 35 kg/household — never swap person vs household units.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Operation Greens was originally launched to stabilize supply and prices of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> TOP crops (Tomato, Onion, Potato)</div><div class="pyq-opt"><span class="opt-letter">B</span> Green leafy vegetables only</div><div class="pyq-opt"><span class="opt-letter">C</span> Pulses and coarse cereals</div><div class="pyq-opt"><span class="opt-letter">D</span> Organic dairy products</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Originally Tomato, Onion, and Potato (TOP).
+
+**Ans: A.** Budget 2018–19 TOP focus on the lines of Operation Flood; later expansion does not change the original TOP launch fact.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Food Corporation of India (FCI) was established in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1965</div><div class="pyq-opt"><span class="opt-letter">B</span> 1950</div><div class="pyq-opt"><span class="opt-letter">C</span> 1975</div><div class="pyq-opt"><span class="opt-letter">D</span> 1982</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Do not confuse with CACP (also 1965) or NABARD (1982).
+
+**Ans: A.** Act 1964; operations from 14 January 1965.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Pricing of sugarcane in India is governed by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Fair and Remunerative Price (FRP) under Sugarcane (Control) Order, 1966</div><div class="pyq-opt"><span class="opt-letter">B</span> Minimum Support Price (MSP) under the Essential Commodities Act alone</div><div class="pyq-opt"><span class="opt-letter">C</span> APMC Mandi Auction rate only</div><div class="pyq-opt"><span class="opt-letter">D</span> NAFED Floor Price</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** FRP under the Sugarcane (Control) Order, 1966.
+
+**Ans: A.** Sugarcane is FRP (statutory), not one of the 22 MSP crops.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which is NOT a component of FCI’s economic cost of foodgrains?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Corporate Income Tax paid by private traders</div><div class="pyq-opt"><span class="opt-letter">B</span> Minimum Support Price (acquisition cost)</div><div class="pyq-opt"><span class="opt-letter">C</span> Procurement Incidentals</div><div class="pyq-opt"><span class="opt-letter">D</span> Distribution Cost</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Private traders’ income tax is unrelated.
+
+**Ans: A.** Economic cost = acquisition + incidentals + distribution.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Silver Fibre Revolution is associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cotton</div><div class="pyq-opt"><span class="opt-letter">B</span> Jute</div><div class="pyq-opt"><span class="opt-letter">C</span> Silk</div><div class="pyq-opt"><span class="opt-letter">D</span> Wool</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Silver Fibre = cotton; Golden Fibre = jute; Silver (alone) = eggs/poultry — Cotton
+
+**Ans: A.** Cotton</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem"></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Onion, Prawn, and Pharmaceutical production</div><div class="pyq-opt"><span class="opt-letter">B</span> Rose flower floriculture only</div><div class="pyq-opt"><span class="opt-letter">C</span> Strawberry farming only</div><div class="pyq-opt"><span class="opt-letter">D</span> Cotton processing</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Onion, prawn, and pharmaceuticals.
+
+**Ans: A.** Pink = onion + pharma + prawn/meat exports (Durgesh Patel), not floriculture.</div>
+  </div>
+</div>

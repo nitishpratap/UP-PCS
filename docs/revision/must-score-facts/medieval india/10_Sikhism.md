@@ -156,26 +156,6 @@ hide:
 | **11. Karorsinghia** | Karora Singh / Baghel Singh | Hoshiarpur / Delhi | **Baghel Singh** captured Delhi in 1783 and built all historic Delhi Gurdwaras |
 | **12. Nakai** | Hira Singh Nakai | Chunian / South of Lahore | Ranjit Singh's second wife Datar Kaur (Raj Kaur) was from this misl |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Lehna | Sri Chand | Nanak’s chosen successor (Angad) vs Nanak’s son (not Guru) | लेहना / श्रीचंद |
-| Manji | Masand | Amar Das’s 22 preaching circles vs Arjan’s tenth collection | मंजी / मसंद |
-| Nanak | Gobind Singh | Founder 1469 vs 10th Guru + Khalsa 1699 | नानक / गोबिंद सिंह |
-| Adi Granth | Guru Granth Sahib | Compiled 1604 by Arjan vs eternal Guru after 1708 | आदि ग्रंथ / गुरु ग्रंथ साहिब |
-| Harmandir | Akal Takht | Golden Temple (spiritual) vs temporal seat (Hargobind) | हरमंदिर / अकाल तख़्त |
-| Miri | Piri | Temporal sword vs spiritual sword (Hargobind) | मीरी / पीरी |
-| Arjan | Tegh Bahadur | 1606 Jahangir vs 1675 Aurangzeb | अर्जुन / तेग बहादुर |
-| Khalsa (Sikh) | Khalsa (Mughal) | 1699 initiated Panth vs crown land | सिख खालसा / मुगल खालसा |
-| Mardana | Nanak | Disciple/rababi vs Guru | मर्दाना / नानक |
-| Anandpur | Amritsar | Khalsa 1699 vs Ram Das tank / Harmandir | अनंदपुर / अमृतसर |
-| Hargobind | Gobind Singh | Miri-Piri start vs Khalsa ritual | हरगोबिंद / गोबिंद सिंह |
-| Har Krishan | Gobind Singh | 8th child Guru vs 10th last human Guru | हर कृष्ण / गोबिंद सिंह |
-| Dasam Granth | Guru Granth | Gobind Singh corpus vs eternal Guru | दसम ग्रंथ / गुरु ग्रंथ |
-| Panj Pyare | Ten Gurus | First five Khalsa 1699 vs 1469–1708 line | पंज प्यारे / दस गुरु |
-| Langar | Sangat | Community kitchen vs congregation | लंगर / संगत |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Chronological Order of Ten Sikh Gurus: N–A–A–R–A–H–H–H–T–G**
@@ -208,25 +188,23 @@ hide:
    - Pool excavated by **Guru Ram Das** (4th Guru).
    - Temple built by **Guru Arjan Dev** (5th Guru); foundation by Sufi saint **Mian Mir**.
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.** With reference to Guru Nanak, which of the following statements is/are correct?
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-1. Born at Talwandi (Nankana Sahib) in 1469.
-2. Started langar and sangat institutions.
-3. Chose Lehna (Angad) over his own sons as successor.
-
-A. 1 and 2
-B. 2 and 3
-C. 1 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (All 1, 2 and 3 are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Guru Nanak, which of the following statements is/are correct?<br><br>1. Born at Talwandi (Nankana Sahib) in 1469.<br>2. Started langar and sangat institutions.<br>3. Chose Lehna (Angad) over his own sons as successor.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** Guru Nanak Dev was born on 15 April 1469 CE at Rai Bhoi di Talwandi (renamed Nankana Sahib, now in Punjab, Pakistan) to Mehta Kalu and Mata Tripta.
@@ -234,26 +212,22 @@ D. 1, 2 and 3
 - **Statement 3 is correct:** Rejecting dynastic succession and overlooking his two biological sons (Sri Chand, who founded the ascetic Udasi sect, and Lakhmi Das), Guru Nanak nominated his devoted disciple **Bhai Lehna**, renaming him **Guru Angad** ("a limb of my own body"), as his apostolic successor in 1539 CE at Kartarpur.
 
 **Key Exam Takeaway / Trap:**
-- *Succession Precedent:* Guru Nanak set the supreme precedent that spiritual succession must be determined by divine merit and devotion, not by biological hereditary inheritance.
+- *Succession Precedent:* Guru Nanak set the supreme precedent that spiritual succession must be determined by divine merit and devotion, not by biological hereditary inheritance.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.** Arrange the following Gurus in chronological order of the guruship line:
-
-1. Guru Ram Das
-2. Guru Angad
-3. Guru Arjan
-4. Guru Amar Das
-
-A. 2-4-1-3
-B. 2-1-4-3
-C. 4-2-1-3
-D. 2-4-3-1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2-4-1-3: Angad → Amar Das → Ram Das → Arjan)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Gurus in chronological order of the guruship line:<br><br>1. Guru Ram Das<br>2. Guru Angad<br>3. Guru Arjan<br>4. Guru Amar Das</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2-4-1-3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2-1-4-3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4-2-1-3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2-4-3-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2-4-1-3: Angad → Amar Das → Ram Das → Arjan)
 
 **Detailed Explanation:**
 - **2. Guru Angad Dev (2nd Guru, 1539–1552 CE):** Standardized Gurmukhi script; promoted physical fitness (*Akhara*) and expanded Langar.
@@ -263,27 +237,22 @@ D. 2-4-3-1
 - **Chronological Sequence:** 2 → 4 → 1 → 3 = **2-4-1-3**.
 
 **Key Exam Takeaway / Trap:**
-- *First Five Gurus Mnemonic:* **N**anak (1) → **A**ngad (2) → **A**mar Das (3) → **R**am Das (4) → **A**rjan (5) (**NAARA**).
+- *First Five Gurus Mnemonic:* **N**anak (1) → **A**ngad (2) → **A**mar Das (3) → **R**am Das (4) → **A**rjan (5) (**NAARA**).</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.** Which of the following pairs is/are NOT correctly matched?
-
-1. Guru Angad — Gurmukhi standardisation
-2. Guru Arjan — Adi Granth (1604)
-3. Guru Gobind Singh — Dasam Granth as the eternal Guru replacing Adi Granth
-
-Select the correct answer from the code given below:
-
-A. 1 only
-B. 3 only
-C. 1 and 2 only
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3 only is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Guru Angad — Gurmukhi standardisation<br>2. Guru Arjan — Adi Granth (1604)<br>3. Guru Gobind Singh — Dasam Granth as the eternal Guru replacing Adi Granth<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3 only is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** Guru Angad standardized and popularized the **Gurmukhi script**, enabling sacred literature to be read directly in the Punjabi vernacular.
@@ -291,27 +260,22 @@ D. 2 and 3 only
 - **Pair 3 is NOT correctly matched (Correct Answer):** Guru Gobind Singh decreed that the **Guru Granth Sahib** (the augmented Adi Granth, containing hymns of the first five Gurus, Guru Tegh Bahadur, and 15 Bhaktas/Sufis) would be the eternal living Guru of the Sikhs. The *Dasam Granth* is a separate collection of Guru Gobind Singh's own poetic works (e.g., *Jaap Sahib*, *Chandi di Var*, *Zafarnama*), which never replaced the Guru Granth Sahib.
 
 **Key Exam Takeaway / Trap:**
-- *Eternal Guru:* The **Guru Granth Sahib** is the eternal Guru of the Sikhs, NOT the *Dasam Granth*.
+- *Eternal Guru:* The **Guru Granth Sahib** is the eternal Guru of the Sikhs, NOT the *Dasam Granth*.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Guru Arjan was martyred under Jahangir in 1606 after aiding Khusrau.
-
-Reason (R): Guru Tegh Bahadur was executed in Delhi in 1675 under Aurangzeb.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is NOT the correct explanation of (A))
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Guru Arjan was martyred under Jahangir in 1606 after aiding Khusrau.<br><br>Reason (R): Guru Tegh Bahadur was executed in Delhi in 1675 under Aurangzeb.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Both (A) and (R) are true, but (R) is NOT the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** Guru Arjan Dev (5th Guru) was arrested, subjected to brutal tortures on burning hot plates, and attained martyrdom at Lahore in May 1606 CE on the orders of Emperor Jahangir, who accused the Guru of blessing and extending financial support to his rebellious son Prince Khusrau.
@@ -319,30 +283,32 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Why (R) does NOT explain (A):** Both statements are historical facts describing the two major martyrdoms of Sikh Gurus under different Mughal emperors separated by nearly 70 years; Reason (R) is not the causal explanation of Assertion (A).
 
 **Key Exam Takeaway / Trap:**
-- *Twin Martyrdoms:* **Guru Arjan Dev (1606 CE, Lahore)** by **Jahangir**; **Guru Tegh Bahadur (1675 CE, Delhi)** by **Aurangzeb**. Never swap the emperors or years.
+- *Twin Martyrdoms:* **Guru Arjan Dev (1606 CE, Lahore)** by **Jahangir**; **Guru Tegh Bahadur (1675 CE, Delhi)** by **Aurangzeb**. Never swap the emperors or years.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (Guru) | List-II (Key Institution / Contribution) |
-|---------------|------------------------------------------|
-| A. Guru Angad | 1. 22 Manjis; Goindwal langar |
-| B. Guru Amar Das | 2. Gurmukhi standardisation |
-| C. Guru Ram Das | 3. Amritsar / Ramdaspur (Akbar grant to Bibi Bhani) |
-| D. Guru Hargobind | 4. Miri–Piri; Akal Takht |
-
-*Row order is not the answer code.*
-
-A. A-3, B-1, C-2, D-4
-B. A-1, B-2, C-4, D-3
-C. A-2, B-3, C-1, D-4
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (A-2, B-1, C-3, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Guru)</th><th>List-II (Key Institution / Contribution)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Guru Angad</td><td><span class="match-key">1</span> 22 Manjis; Goindwal langar</td></tr>
+      <tr><td><span class="match-key">B</span> Guru Amar Das</td><td><span class="match-key">2</span> Gurmukhi standardisation</td></tr>
+      <tr><td><span class="match-key">C</span> Guru Ram Das</td><td><span class="match-key">3</span> Amritsar / Ramdaspur (Akbar grant to Bibi Bhani)</td></tr>
+      <tr><td><span class="match-key">D</span> Guru Hargobind</td><td><span class="match-key">4</span> Miri–Piri; Akal Takht</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-2, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (A-2, B-1, C-3, D-4)
 
 **Detailed Explanation:**
 - **A. Guru Angad Dev → 2. Gurmukhi standardisation:** Formalized Gurmukhi script for writing hymns.
@@ -351,27 +317,22 @@ D. A-2, B-1, C-3, D-4
 - **D. Guru Hargobind → 4. Miri–Piri; Akal Takht:** Donned two swords representing temporal power (*Miri*) and spiritual authority (*Piri*), and constructed the *Akal Takht* ("Throne of the Timeless") in 1606–1609 CE.
 
 **Key Exam Takeaway / Trap:**
-- *Matching Code:* A-2, B-1, C-3, D-4 (**Option D**).
+- *Matching Code:* A-2, B-1, C-3, D-4 (**Option D**).</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.** With reference to the Khalsa, which of the following statements is/are correct?
-
-1. Guru Gobind Singh founded the Khalsa at Anandpur on Vaisakhi 1699 with the Panj Pyare.
-2. Five Ks are Kesh, Kangha, Kara, Kachha, and Kirpan.
-3. Guru Hargobind created the Khalsa ritual in the early 17th century.
-
-Select the correct answer from the code given below:
-
-A. Only 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1 and 2 only are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the Khalsa, which of the following statements is/are correct?<br><br>1. Guru Gobind Singh founded the Khalsa at Anandpur on Vaisakhi 1699 with the Panj Pyare.<br>2. Five Ks are Kesh, Kangha, Kara, Kachha, and Kirpan.<br>3. Guru Hargobind created the Khalsa ritual in the early 17th century.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (1 and 2 only are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** On **Vaisakhi day (30 March 1699 CE)** at Anandpur Sahib (Kesgarh Sahib), Guru Gobind Singh created the **Khalsa** (the brotherhood of the pure) through the baptismal nectar ceremony (*Khande di Pahul*), initiating the **Panj Pyare** (Five Beloved Ones from diverse castes and regions: Daya Ram, Dharam Das, Himmat Rai, Mohkam Chand, Sahib Chand).
@@ -379,27 +340,22 @@ D. Only 1
 - **Statement 3 is incorrect:** Guru Hargobind introduced the concepts of *Miri-Piri* and constructed the Akal Takht in 1606–1609 CE, but the **Khalsa** was instituted exclusively by the 10th Guru, **Guru Gobind Singh**, in **1699 CE**.
 
 **Key Exam Takeaway / Trap:**
-- *Khalsa Founder & Date:* Created by **Guru Gobind Singh** on **Vaisakhi 1699** at **Anandpur Sahib**. Initiated men took the surname **Singh** ("Lion") and women took the surname **Kaur** ("Princess").
+- *Khalsa Founder & Date:* Created by **Guru Gobind Singh** on **Vaisakhi 1699** at **Anandpur Sahib**. Initiated men took the surname **Singh** ("Lion") and women took the surname **Kaur** ("Princess").</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.** Consider Cause–Course–Result linking martyrdom to militarisation:
-
-1. Cause: Arjan’s martyrdom (1606) under Jahangir.
-2. Course: Hargobind developed miri–piri and the Akal Takht.
-3. Result: Tegh Bahadur’s martyrdom (1675) later fed Gobind Singh’s path toward the Khalsa.
-
-Which of the statements given above is/are correct?
-
-A. Only 2 and 3
-B. Only 1
-C. 1 and 2
-D. Only 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (All 1, 2 and 3 are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider Cause–Course–Result linking martyrdom to militarisation:<br><br>1. Cause: Arjan’s martyrdom (1606) under Jahangir.<br>2. Course: Hargobind developed miri–piri and the Akal Takht.<br>3. Result: Tegh Bahadur’s martyrdom (1675) later fed Gobind Singh’s path toward the Khalsa.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct (Cause):** The execution of Guru Arjan Dev in 1606 demonstrated that passive piety was vulnerable to state persecution.
@@ -407,27 +363,22 @@ D. Only 1, 2 and 3
 - **Statement 3 is correct (Result):** The subsequent martyrdom of Guru Tegh Bahadur in 1675 in Delhi convinced the 10th Guru, Guru Gobind Singh, that armed resistance against tyranny (*Dharam Yudh*) was righteous, culminating in the creation of the martial brotherhood of the **Khalsa in 1699**.
 
 **Key Exam Takeaway / Trap:**
-- *Militarization Milestones:* First Wave of Militarization = **Guru Hargobind** (Miri-Piri, Akal Takht, 1606); Final Institutionalization = **Guru Gobind Singh** (Khalsa, 1699).
+- *Militarization Milestones:* First Wave of Militarization = **Guru Hargobind** (Miri-Piri, Akal Takht, 1606); Final Institutionalization = **Guru Gobind Singh** (Khalsa, 1699).</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): In 1708 at Nanded (Hazur Sahib), Gobind Singh made Guru Granth Sahib the eternal Guru.
-
-Reason (R): There is no 11th human Guru after Gobind Singh.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true and (R) is the correct explanation of (A))
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): In 1708 at Nanded (Hazur Sahib), Gobind Singh made Guru Granth Sahib the eternal Guru.<br><br>Reason (R): There is no 11th human Guru after Gobind Singh.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true and (R) is the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** Shortly before his demise in October 1708 CE at Nanded (Maharashtra, where Takht Sachkhand Sri Hazur Sahib stands), Guru Gobind Singh bowed before the holy Granth, conferring eternal Guruship upon it: *"Sab Sikhan ko hukam hai, Guru manyo Granth"* (All Sikhs are commanded to accept the Granth as their Guru).
@@ -435,53 +386,44 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Why (R) does NOT explain (A): Consequence / Aftermath of the assertion, not the cause. Both statements are true facts, but Reason (R) is not the cause of Assertion (A).** The doctrine of the eternal Granth was specifically promulgated to bring the personal succession of human Gurus to an end, forever vesting spiritual authority in the *Shabad Guru* (Guru Granth Sahib) and temporal authority in the corporate community (*Guru Panth*).
 
 **Key Exam Takeaway / Trap:**
-- *End of Human Guruship:* Human Gurus: exactly **Ten** (1469–1708 CE); 11th Guru: **Guru Granth Sahib** (Eternal Living Guru).
+- *End of Human Guruship:* Human Gurus: exactly **Ten** (1469–1708 CE); 11th Guru: **Guru Granth Sahib** (Eternal Living Guru).</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.** With reference to Harmandir Sahib and Akal Takht, which of the following statements is/are correct?
-
-1. Harmandir Sahib is the spiritual centre.
-2. Akal Takht is the temporal seat associated with Hargobind.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Both 1 and 2 are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to Harmandir Sahib and Akal Takht, which of the following statements is/are correct?<br><br>1. Harmandir Sahib is the spiritual centre.<br>2. Akal Takht is the temporal seat associated with Hargobind.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Both 1 and 2 are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** **Sri Harmandir Sahib** (Golden Temple), designed by Guru Arjan Dev with four open doors symbolizing accessibility to all four varnas and faiths, is the supreme **spiritual sanctum** dedicated exclusively to prayer, meditation, and devotional singing (*Gurbani Kirtan*).
 - **Statement 2 is correct:** The **Akal Takht** ("Throne of the Timeless One"), built directly opposite Harmandir Sahib by Guru Hargobind in 1606–1609 CE, is the supreme **temporal and political seat** of the Sikh Panth, from where imperial edicts (*Hukamnamas*) are issued and political-military decisions were made.
 
 **Key Exam Takeaway / Trap:**
-- *Architectural Symbolism:* Harmandir Sahib (Spiritual, built at a lower elevation) represents humility and divine worship; Akal Takht (Temporal, built on an elevated plinth) represents sovereignty and political justice.
+- *Architectural Symbolism:* Harmandir Sahib (Spiritual, built at a lower elevation) represents humility and divine worship; Akal Takht (Temporal, built on an elevated plinth) represents sovereignty and political justice.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.** Which of the following pairs is/are NOT correctly matched?
-
-1. Sikh Khalsa — 1699 initiated Panth
-2. Mughal Khalsa — crown land directly managed by the imperial treasury
-3. Sikh Khalsa — Mughal crown land under Akbar
-
-Select the correct answer from the code given below:
-
-A. 1 only
-B. 3 only
-C. 1 and 2 only
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3 only is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Sikh Khalsa — 1699 initiated Panth<br>2. Mughal Khalsa — crown land directly managed by the imperial treasury<br>3. Sikh Khalsa — Mughal crown land under Akbar<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3 only is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** In Sikh history, **Khalsa** (from Arabic *Khalis* = pure, unmediated) refers to the collective body of initiated Sikhs created by Guru Gobind Singh in 1699 CE who maintain a direct spiritual connection with the Guru without intermediaries.
@@ -489,28 +431,22 @@ D. 2 and 3 only
 - **Pair 3 is NOT correctly matched (Correct Answer):** Conflates two entirely different historical terms that happen to share an etymological root. The Sikh Khalsa was a socio-religious order, not Mughal crown land.
 
 **Key Exam Takeaway / Trap:**
-- *Homonym Alert:* **Sikh Khalsa** = Brotherhood of initiated Sikhs (1699); **Mughal Khalsa** = Crown domain land.
+- *Homonym Alert:* **Sikh Khalsa** = Brotherhood of initiated Sikhs (1699); **Mughal Khalsa** = Crown domain land.</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.** Arrange the following events in chronological order:
-
-1. Compilation of Adi Granth
-2. Martyrdom of Guru Tegh Bahadur
-3. Founding of the Khalsa
-4. Battle of Bhangani
-
-Select the correct answer from the code given below:
-
-A. 1-2-3-4
-B. 1-4-2-3
-C. 1-2-4-3
-D. 4-1-2-3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (1-2-4-3: Adi Granth → Tegh Bahadur martyrdom → Battle of Bhangani → Khalsa)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in chronological order:<br><br>1. Compilation of Adi Granth<br>2. Martyrdom of Guru Tegh Bahadur<br>3. Founding of the Khalsa<br>4. Battle of Bhangani<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-2-3-4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-4-2-3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-2-4-3</div><div class="pyq-opt"><span class="opt-letter">D</span> 4-1-2-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (1-2-4-3: Adi Granth → Tegh Bahadur martyrdom → Battle of Bhangani → Khalsa)
 
 **Detailed Explanation:**
 - **1. Compilation of the Adi Granth (August 1604 CE):** Completed by Guru Arjan Dev at Amritsar.
@@ -520,30 +456,32 @@ D. 4-1-2-3
 - **Chronological Sequence:** 1 (1604) → 2 (1675) → 4 (1688) → 3 (1699) = **1-2-4-3**.
 
 **Key Exam Takeaway / Trap:**
-- *Battle of Bhangani Timing:* Bhangani was fought in **1688 CE**, eleven years *before* the formal creation of the Khalsa in **1699 CE**.
+- *Battle of Bhangani Timing:* Bhangani was fought in **1688 CE**, eleven years *before* the formal creation of the Khalsa in **1699 CE**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (City) | List-II (Historical Association) |
-|---------------|----------------------------------|
-| A. Patna | 1. Gobind Singh death; eternal Granth (1708) |
-| B. Nanded / Hazur Sahib | 2. Gobind Singh birth (1666) |
-| C. Anandpur Sahib | 3. Khalsa founding (1699) |
-| D. Amritsar | 4. Ramdaspur / Harmandir Sahib |
-
-*Row order is not the answer code.*
-
-A. A-2, B-1, C-3, D-4
-B. A-1, B-2, C-4, D-3
-C. A-2, B-3, C-1, D-4
-D. A-3, B-1, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (City)</th><th>List-II (Historical Association)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Patna</td><td><span class="match-key">1</span> Gobind Singh death; eternal Granth (1708)</td></tr>
+      <tr><td><span class="match-key">B</span> Nanded / Hazur Sahib</td><td><span class="match-key">2</span> Gobind Singh birth (1666)</td></tr>
+      <tr><td><span class="match-key">C</span> Anandpur Sahib</td><td><span class="match-key">3</span> Khalsa founding (1699)</td></tr>
+      <tr><td><span class="match-key">D</span> Amritsar</td><td><span class="match-key">4</span> Ramdaspur / Harmandir Sahib</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
 **Detailed Explanation:**
 - **A. Patna Sahib (Bihar) → 2. Birth of Guru Gobind Singh (1666 CE):** Born as Gobind Rai at Patna while his father Guru Tegh Bahadur was traveling in Assam.
@@ -552,80 +490,66 @@ D. A-3, B-1, C-2, D-4
 - **D. Amritsar (Punjab) → 4. Ramdaspur / Harmandir Sahib:** Sacred city founded by Guru Ram Das and center of the Golden Temple.
 
 **Key Exam Takeaway / Trap:**
-- *Matching Code:* A-2, B-1, C-3, D-4 (**Option A**). Do not confuse Patna (Birth, Takht Patna Sahib) with Nanded (Demise, Takht Hazur Sahib).
+- *Matching Code:* A-2, B-1, C-3, D-4 (**Option A**). Do not confuse Patna (Birth, Takht Patna Sahib) with Nanded (Demise, Takht Hazur Sahib).</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.** With reference to Zafarnama, which of the following statements is/are correct?
-
-1. It is Gobind Singh’s Persian letter to Aurangzeb.
-2. It is the opening hymn of the Adi Granth composed by Kabir.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Only 1 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Zafarnama, which of the following statements is/are correct?<br><br>1. It is Gobind Singh’s Persian letter to Aurangzeb.<br>2. It is the opening hymn of the Adi Granth composed by Kabir.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Only 1 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** **Zafarnama** ("Epistle of Victory") is a famous philosophical and moral letter composed in 111 Persian couplets by Guru Gobind Singh in 1705 CE from Dina Kangar (Punjab) addressed to Mughal Emperor Aurangzeb. The letter reproaches Aurangzeb for breaking sacred oaths taken on the Quran during the siege of Anandpur and articulates the famous principle: *"Chun kar az hameh heelate dar guzasht, Halal ast burdan ba-shamsheer dast"* (When all other avenues fail, it is righteous to draw the sword).
 - **Statement 2 is incorrect:** The opening hymn of the Adi Granth is the **Japji Sahib**, composed by **Guru Nanak Dev**, not the Zafarnama.
 
 **Key Exam Takeaway / Trap:**
-- *Zafarnama Profile:* Author: **Guru Gobind Singh**; Language: **Persian**; Recipient: **Emperor Aurangzeb**; Year: **1705 CE**.
+- *Zafarnama Profile:* Author: **Guru Gobind Singh**; Language: **Persian**; Recipient: **Emperor Aurangzeb**; Year: **1705 CE**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Kabir founded Sikhism as the first Guru.
-
-Reason (R): Hymns of Kabir, Namdev, Ravidas, and Sheikh Farid appear in the Granth.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** ((A) is false, but (R) is true)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Kabir founded Sikhism as the first Guru.<br><br>Reason (R): Hymns of Kabir, Namdev, Ravidas, and Sheikh Farid appear in the Granth.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** ((A) is false, but (R) is true)
 
 **Detailed Explanation:**
 - **Assertion (A) is completely false:** **Guru Nanak Dev** (1469–1539 CE) is the sole founder and First Guru of Sikhism. Sant Kabir was a revered 15th-century Bhakti saint of Varanasi who did not establish the Sikh faith.
 - **Reason (R) is completely true:** Guru Arjan Dev incorporated the devotional verses (*Bhagat Bani*) of 15 non-Sikh saints into the Adi Granth in 1604 CE, including Kabir (541 hymns), Namdev (61 hymns), Ravidas (41 hymns), Sheikh Farid (134 hymns), Trilochan, Dhanna, Sain, and Jaidev.
 
 **Key Exam Takeaway / Trap:**
-- *Inclusion vs Authorship:* Non-Sikh Bhaktas and Sufis contributed compositions (*Bhagat Bani*) to the Guru Granth Sahib, but they were not Sikh Gurus.
+- *Inclusion vs Authorship:* Non-Sikh Bhaktas and Sufis contributed compositions (*Bhagat Bani*) to the Guru Granth Sahib, but they were not Sikh Gurus.</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.** Consider the following statements about Manji and Masand:
-
-1. Manjis were Amar Das’s 22 preaching circles.
-2. Masand related to Arjan’s tenth collection.
-3. Manji and Masand are identical offices created by Nanak alone.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-B. Only 1 and 2
-C. Only 3
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1 and 2 only are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Manji and Masand:<br><br>1. Manjis were Amar Das’s 22 preaching circles.<br>2. Masand related to Arjan’s tenth collection.<br>3. Manji and Masand are identical offices created by Nanak alone.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (1 and 2 only are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** **Guru Amar Das** (3rd Guru) established the **Manji system**, dividing the expanding Sikh community into 22 administrative dioceses or preaching jurisdictions called *Manjis* (literally "wooden cot" upon which the missionary sat to teach).
@@ -633,6 +557,6 @@ D. 1 and 3
 - **Statement 3 is incorrect:** Neither institution was created by Guru Nanak. Furthermore, Manji and Masand were distinct systems instituted by different Gurus for different administrative purposes. Guru Gobind Singh later abolished the Masand system in 1698 due to rampant corruption.
 
 **Key Exam Takeaway / Trap:**
-- *Institution Founders:* **Manji System (22 circles)** = **Guru Amar Das**; **Masand System & Daswandh (tithe)** = **Guru Arjan Dev**; **Abolition of Masands** = **Guru Gobind Singh**.
-
-</details>
+- *Institution Founders:* **Manji System (22 circles)** = **Guru Amar Das**; **Masand System & Daswandh (tithe)** = **Guru Arjan Dev**; **Abolition of Masands** = **Guru Gobind Singh**.</div>
+  </div>
+</div>

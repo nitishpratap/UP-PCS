@@ -75,6 +75,21 @@ hide:
 48. **NGT Principal Bench and Zonal Benches:** Principal Bench at **New Delhi**; 4 regional zonal benches at **Bhopal, Pune, Kolkata, and Chennai**.
 49. **National Commission for Protection of Child Rights (NCPCR):** Statutory body established in **March 2007** under the **Commissions for Protection of Child Rights (CPCR) Act, 2005**; monitors implementation of the **POCSO Act, 2012** and **RTE Act, 2009**.
 50. **Central Pollution Control Board (CPCB):** Statutory organization constituted in **September 1974** under the **Water (Prevention and Control of Pollution) Act, 1974**; later entrusted with functions under the Air (Prevention and Control of Pollution) Act, 1981.
+51. **NITI Aayog Structure & Governing Council:** Replaced Planning Commission on **1 January 2015**; acts as think-tank embodying 'Cooperative Federalism'; Prime Minister is **Chairperson**; Governing Council comprises **Chief Ministers of all States and Lt. Governors of UTs**; Vice-Chairperson appointed by PM (rank of Cabinet Minister); Chief Executive Officer (CEO) appointed by PM for fixed tenure (rank of Secretary to GoI); Full-time members, Part-time members (max 2 from universities), and Ex-officio members (max 4 Union Ministers).
+52. **National Development Council (NDC):** Established on **6 August 1952** by executive resolution to coordinate policies and approve Five-Year Plans; comprised PM, Union Cabinet Ministers, Chief Ministers of all States, and Planning Commission members; rendered defunct following establishment of NITI Aayog Governing Council.
+53. **National Human Rights Commission - NHRC (Protection of Human Rights Act, 1993):** Statutory body constituted on **12 October 1993**; amended in 2006 and 2019; Composition: Chairperson (person who has been **Chief Justice of India OR a Judge of the Supreme Court**); 5 full-time members (1 SC judge, 1 HC Chief Justice, 3 persons with HR expertise of which at least 1 must be a woman) + 7 ex-officio chairpersons of national commissions (NCSC, NCST, NCBC, NCW, NCPCR, NCM, Chief Commissioner for PwDs).
+54. **NHRC Appointment & Tenure (2019 Amendment):** Appointed by President on recommendation of a **6-member Committee**: (1) Prime Minister (Chairperson), (2) Speaker of Lok Sabha, (3) Deputy Chairman of Rajya Sabha, (4) Leaders of Opposition in Lok Sabha, (5) Leader of Opposition in Rajya Sabha, and (6) Union Home Minister; Tenure reduced in 2019 from 5 years to **3 years or until age of 70 years**, whichever is earlier; eligible for reappointment.
+55. **Powers and Limitations of NHRC:** Vested with all powers of a **Civil Court**; can intervene in judicial proceedings relating to HR violations; inspects jails; **Recommendations are purely recommendatory** (not binding on government); has no power to punish violators or award monetary relief directly; Armed Forces violations can only be inquired via report sought from Central Govt; complaints older than **1 year** cannot be investigated (statute of limitations).
+56. **Central Information Commission - CIC (Right to Information Act, 2005):** Statutory body constituted on **12 October 2005**; consists of **Chief Information Commissioner and not more than 10 Information Commissioners**; Appointed by President on recommendation of 3-member committee: (1) PM (Chairperson), (2) Leader of Opposition in Lok Sabha, and (3) a Union Cabinet Minister nominated by PM.
+57. **RTI Amendment Act, 2019 (CIC Tenure & Salaries):** Removed original fixed 5-year tenure/salary parity with CEC; amended provisions so that tenure, salaries, allowances, and terms of service of Chief Information Commissioner and ICs are **prescribed by the Central Government by rules**; currently fixed at **3 years** or 65 years of age.
+58. **Central Vigilance Commission - CVC (CVC Act, 2003):** Apex vigilance institution set up in **February 1964** on recommendations of **K. Santhanam Committee on Prevention of Corruption**; given statutory status by the Central Vigilance Commission Act, 2003; consists of a **Central Vigilance Commissioner (Chairperson) and not more than 2 Vigilance Commissioners**.
+59. **CVC Appointment and Unique 4-Year Tenure:** Appointed by President on recommendation of a 3-member committee: (1) PM (Chairperson), (2) Union Home Minister, and (3) Leader of Opposition in Lok Sabha; Tenure is uniquely **4 years or until age of 65 years**, whichever is earlier (only major body with 4-year tenure); ineligible for further employment under Central or State Government.
+60. **Lokpal and Lokayuktas Act, 2013 (Key Statutory Markers):** Passed following Anna Hazare’s Jan Lokpal movement; came into force on **16 January 2014**; Lokpal is an anti-corruption ombudsman for Union consisting of a **Chairperson (former CJI or SC Judge or eminent person) and up to 8 Members** (50% judicial members; 50% from SC/ST/OBC/Minorities/Women); **Pinaki Chandra Ghose** appointed first Lokpal of India in March 2019.
+61. **Lokpal Selection Committee (5 Members):** (1) Prime Minister (Chairperson), (2) Speaker of Lok Sabha, (3) Leader of Opposition in Lok Sabha, (4) Chief Justice of India (or SC Judge nominated by CJI), and (5) an eminent jurist nominated by President based on recommendations of first 4 members.
+62. **Jurisdiction of Lokpal:** Covers **Prime Minister** (with exceptions: allegations relating to international relations, external/internal security, public order, atomic energy, space, or unless full bench approves inquiry and 2/3rd members assent), Union Ministers, MPs (except votes cast or speeches made in Parliament under Art. 105), and Group A, B, C, and D public servants.
+63. **Lokayukta Institution in States (Historical Evolution):** Recommended by First Administrative Reforms Commission (ARC) in 1966; **Odisha passed the first Lokayukta Act in 1970**, but **Maharashtra was the first state to actually establish and operationalize the office of Lokayukta in 1971**; Rajasthan established in 1973; Uttar Pradesh established Lokayukta under UP Lokayukta and Up-Lokayuktas Act, **1975** (first UP Lokayukta was Justice **Vishwambhar Dayal**).
+64. **Central Bureau of Investigation - CBI (Genesis & Nature):** Set up in **1963** by a resolution of the Ministry of Home Affairs on Santhanam Committee recommendations; derives its statutory police investigating powers from the **Delhi Special Police Establishment (DSPE) Act, 1946**; not a statutory body per se (functions under Ministry of Personnel, Public Grievances and Pensions); Director appointed on recommendation of 3-member committee: (1) PM, (2) CJI or nominee, and (3) Leader of Opposition in LS; statutory minimum tenure of 2 years (can be extended up to 5 years via annual extensions under DSPE Amendment Act 2021).
+65. **National Disaster Management Authority - NDMA (Disaster Management Act, 2005):** Apex statutory body for disaster management; constituted on 27 September 2006; **headed ex-officio by the Prime Minister of India**; consists of Vice-Chairperson and up to 8 members; State Disaster Management Authorities (SDMAs) are headed ex-officio by the respective **Chief Ministers**; District DMAs headed by District Magistrate.
 
 ## ⏱️ Timeline / Chronology
 
@@ -133,20 +148,6 @@ hide:
 | **NGT** | Statutory (NGT Act, 2010) | Central Govt (in consultation with CJI) | Judicial/Expert selection panel | **5 years** (Not eligible for reappointment) |
 | **CBI Director** | Under DSPE Act, 1946 / CVC Act | Central Govt | 3 members: PM, LoP in Lok Sabha, CJI (or nominee) | Min 2 years (extendable up to 5 yrs) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| CVC Tenure vs UPSC/CAG Tenure | CVC tenure is **4 YEARS or 65 years** (Unique 4-year term in Indian Polity!) | Give CVC a 5-year or 6-year tenure | CVC का कार्यकाल = 4 वर्ष या 65 वर्ष |
-| NHRC Tenure post-2019 | **3 years or 70 years** (amended in 2019; originally 5 years) | Quote old 5-year tenure | NHRC कार्यकाल = 3 वर्ष या 70 वर्ष |
-| SHRC Appointment vs Removal | Appointed by **Governor**; removed **ONLY by President** (on SC inquiry) | Allow Governor to remove SHRC members | नियुक्ति = राज्यपाल; निष्कासन = राष्ट्रपति |
-| NITI Aayog Legal Status | **Non-Constitutional, Non-Statutory** (Cabinet Resolution). NOT a statutory body! | Call NITI Aayog a statutory or constitutional body | नीति आयोग = गैर-संवैधानिक, गैर-संविधिक |
-| NHRC Armed Forces Jurisdiction | NHRC **CANNOT directly investigate** armed forces; can only seek report from Central Govt | Award full investigative powers over armed forces | सशस्त्र बलों पर NHRC की सीमित शक्तियाँ |
-| First State with Lokayukta | **Maharashtra (1971)** established first office; Odisha passed Act first (1970) | Name Odisha as first established office | पहला लोकायुक्त स्थापित = महाराष्ट्र (1971) |
-| CBI Legal Base | Derives police powers from **DSPE Act, 1946**. NOT an independent statutory body per se! | Call CBI a constitutional body | CBI = DSPE अधिनियम 1946 |
-| Lokpal Age Ceiling | **70 years of age** (5 years or 70 years) | Cap Lokpal age at 65 years | लोकपाल आयु सीमा = 70 वर्ष |
-| NGT CPC Exemption | NGT is **NOT BOUND by the Code of Civil Procedure (CPC)**; follows Principles of Natural Justice | Subject NGT strictly to civil court procedure | NGT नागरिक प्रक्रिया संहिता से बाध्य नहीं |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **The Unique "4-Year" Body:**
@@ -163,230 +164,232 @@ hide:
    - **Lokpal (5):** PM + Speaker + LoP LS + CJI + Eminent Jurist
    - **NHRC (6):** PM + Speaker + Dy Chair RS + LoP LS + LoP RS + Home Minister
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
-Which of the following functions is performed by the Reserve Bank of India?
-A. Collection of income tax
-B. Issue of currency notes
-C. Conducting population census
-D. Foreign policy formulation
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following functions is performed by the Reserve Bank of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Collection of income tax</div><div class="pyq-opt"><span class="opt-letter">B</span> Issue of currency notes</div><div class="pyq-opt"><span class="opt-letter">C</span> Conducting population census</div><div class="pyq-opt"><span class="opt-letter">D</span> Foreign policy formulation</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
 
-**Ans: B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Who recommends the MSP for agricultural crops?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> RBI</div><div class="pyq-opt"><span class="opt-letter">B</span> NITI Aayog</div><div class="pyq-opt"><span class="opt-letter">C</span> Commission for Agricultural Costs and Prices</div><div class="pyq-opt"><span class="opt-letter">D</span> Ministry of Finance</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Lokpal Selection Committee, PM as chairperson, among others:<br>1. CJI or an SC Judge nominated by him<br>2. Chairman of the Rajya Sabha<br>3. Speaker of the Lok Sabha<br>4. Leader of Opposition in the Lok Sabha</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
 
-**Q2.**
-Who recommends the MSP for agricultural crops?
-A. RBI
-B. NITI Aayog
-C. Commission for Agricultural Costs and Prices
-D. Ministry of Finance
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">'BHARATPOL', an online portal for International Police Co-operation has been developed by which of the following?<br>1. Central Bureau of Investigation<br>2. Research and Analysis Wing<br>3. Intelligence Bureau<br>4. Enforcement Directorate</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 (CBI).</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br>1. National Voters' Day (India) — 25 January<br>2. Constitution Day (India) — 27 January<br>3. Human Rights Day (World) — 29 January</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 and 3.** Voters’ Day **25 Jan** is right. Constitution Day = **26 November**, not 27 Jan. World Human Rights Day = **10 December**, not 29 Jan. (NHRC home.)</div>
+  </div>
+</div>
 
-**Ans: C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the Union Finance Commission, which of the following statement(s) is/are correct?<br>1. Finance Commission has a Chairman and six members.<br>2. It submits its report to the NITI Aayog.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chair + **four** (चातुर्याम); report to **President**. NITI is **not** the FC.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following three States of India were the top-performing States under 'NITI Aayog's State Energy and Climate Index' declared on 10th April 2022?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Manipur, Tripura, Mizoram</div><div class="pyq-opt"><span class="opt-letter">B</span> Tamil Nadu (नाडु), Kerala, Karnataka</div><div class="pyq-opt"><span class="opt-letter">C</span> Gujarat, Kerala, Punjab</div><div class="pyq-opt"><span class="opt-letter">D</span> Punjab, Uttar Pradesh, West Bengal</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
 
-**Q3.**
-Lokpal Selection Committee, PM as chairperson, among others:
-1. CJI or an SC Judge nominated by him
-2. Chairman of the Rajya Sabha
-3. Speaker of the Lok Sabha
-4. Leader of Opposition in the Lok Sabha
-A. 1, 2 and 3
-B. 2, 3 and 4
-C. 1, 2, 3 and 4
-D. 1, 3 and 4
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">How many districts of Uttar Pradesh has been covered under the Aspirational District Programme run by NITI Aayog, up to June, 2021?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 6</div><div class="pyq-opt"><span class="opt-letter">C</span> 8</div><div class="pyq-opt"><span class="opt-letter">D</span> 10</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 8</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The Prime Minister</div><div class="pyq-opt"><span class="opt-letter">B</span> The Home Minister</div><div class="pyq-opt"><span class="opt-letter">C</span> The Defence Minister</div><div class="pyq-opt"><span class="opt-letter">D</span> The Health and Family Welfare Minister</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Prime Minister</div>
+  </div>
+</div>
 
-**Ans: D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The Reserve Bank of India</div><div class="pyq-opt"><span class="opt-letter">B</span> The Ministry of Commerce and Industry</div><div class="pyq-opt"><span class="opt-letter">C</span> The Ministry of Finance</div><div class="pyq-opt"><span class="opt-letter">D</span> The Ministry of Consumer Affairs, Food and Public Distribution</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> RBI is the trap — **not** a WPI publisher.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which Article of the Indian Constitution describes the Central Vigilance Commission?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 268</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 280</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 276</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
 
-**Q4.**
-'BHARATPOL', an online portal for International Police Co-operation has been developed by which of the following?
-1. Central Bureau of Investigation
-2. Research and Analysis Wing
-3. Intelligence Bureau
-4. Enforcement Directorate
-A. 2 and 3
-B. 3 and 4
-C. Only 3
-D. Only 1
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Who among the following is NOT a member of the Committee for the appointment of the Chairperson and Members of the National Human Rights Commission (NHRC)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Prime Minister</div><div class="pyq-opt"><span class="opt-letter">B</span> Speaker of the House of the People (Lok Sabha)</div><div class="pyq-opt"><span class="opt-letter">C</span> Leader of Opposition in the Council of States (Rajya Sabha)</div><div class="pyq-opt"><span class="opt-letter">D</span> Chief Justice of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Under the Protection of Human Rights Act, 1993, the selection committee consists of: Prime Minister (Chairperson), Speaker of Lok Sabha, Deputy Chairman of Rajya Sabha, Leaders of Opposition in both Houses, and the Union Home Minister. The Chief Justice of India is NOT a member.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The Atal Innovation Mission (AIM) is a flagship initiative set up by—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ministry of Human Resource Development</div><div class="pyq-opt"><span class="opt-letter">B</span> NITI Aayog</div><div class="pyq-opt"><span class="opt-letter">C</span> Ministry of Social Justice and Empowerment</div><div class="pyq-opt"><span class="opt-letter">D</span> Ministry of Science and Technology</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
 
-**Ans: D — Only 1 (CBI).**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">According to the Report released by NITI Aayog in December 2019 on 'Sustainable Development Goals India Index 2019-20', Uttar Pradesh is grouped under which of the following categories?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Aspirant</div><div class="pyq-opt"><span class="opt-letter">B</span> Performer</div><div class="pyq-opt"><span class="opt-letter">C</span> Front runner</div><div class="pyq-opt"><span class="opt-letter">D</span> Achiever</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Aspirant</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-Which of the following pairs is/are NOT correctly matched?
-1. National Voters' Day (India) — 25 January
-2. Constitution Day (India) — 27 January
-3. Human Rights Day (World) — 29 January
-A. 1 and 2
-B. 2 and 3
-C. Only 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 2 and 3.** Voters’ Day **25 Jan** is right. Constitution Day = **26 November**, not 27 Jan. World Human Rights Day = **10 December**, not 29 Jan. (NHRC home.)
-
-</details>
-
-**Q6.**
-With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
-1. Finance Commission has a Chairman and six members.
-2. It submits its report to the NITI Aayog.
-A. Only 2
-B. Both 1 and 2
-C. Only 1
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Chair + **four** (चातुर्याम); report to **President**. NITI is **not** the FC.
-
-</details>
-
-**Q7.**
-Which of the following three States of India were the top-performing States under 'NITI Aayog's State Energy and Climate Index' declared on 10th April 2022?
-A. Manipur, Tripura, Mizoram
-B. Tamil Nadu (नाडु), Kerala, Karnataka
-C. Gujarat, Kerala, Punjab
-D. Punjab, Uttar Pradesh, West Bengal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q8.**
-How many districts of Uttar Pradesh has been covered under the Aspirational District Programme run by NITI Aayog, up to June, 2021?
-A. 4
-B. 6
-C. 8
-D. 10
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 8**
-
-</details>
-
-**Q9.**
-The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?
-A. The Prime Minister
-B. The Home Minister
-C. The Defence Minister
-D. The Health and Family Welfare Minister
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Prime Minister**
-
-</details>
-
-**Q10.**
-Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India?
-A. The Reserve Bank of India
-B. The Ministry of Commerce and Industry
-C. The Ministry of Finance
-D. The Ministry of Consumer Affairs, Food and Public Distribution
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — RBI is the trap — **not** a WPI publisher.
-
-</details>
-
-**Q11.**
-Which Article of the Indian Constitution describes the Central Vigilance Commission?
-A. Article 268
-B. Article 280
-C. Article 276
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q12.**
-Who among the following is NOT a member of the Committee for the appointment of the Chairperson and Members of the National Human Rights Commission (NHRC)?
-
-A. Prime Minister
-B. Speaker of the House of the People (Lok Sabha)
-C. Leader of Opposition in the Council of States (Rajya Sabha)
-D. Chief Justice of India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Under the Protection of Human Rights Act, 1993, the selection committee consists of: Prime Minister (Chairperson), Speaker of Lok Sabha, Deputy Chairman of Rajya Sabha, Leaders of Opposition in both Houses, and the Union Home Minister. The Chief Justice of India is NOT a member.
-
-</details>
-
-**Q13.**
-The Atal Innovation Mission (AIM) is a flagship initiative set up by—
-A. Ministry of Human Resource Development
-B. NITI Aayog
-C. Ministry of Social Justice and Empowerment
-D. Ministry of Science and Technology
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.**
-According to the Report released by NITI Aayog in December 2019 on 'Sustainable Development Goals India Index 2019-20', Uttar Pradesh is grouped under which of the following categories?
-A. Aspirant
-B. Performer
-C. Front runner
-D. Achiever
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Aspirant**
-
-</details>
-
-**Q15.**
-The Development, Monitoring and Evaluation Office, which monitors the progress of long term policies is an attached office under—
-A. Prime Minister Office
-B. Ministry of Home Affairs
-C. Cabinet Secretariat
-D. NITI Aayog
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The Development, Monitoring and Evaluation Office, which monitors the progress of long term policies is an attached office under—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Prime Minister Office</div><div class="pyq-opt"><span class="opt-letter">B</span> Ministry of Home Affairs</div><div class="pyq-opt"><span class="opt-letter">C</span> Cabinet Secretariat</div><div class="pyq-opt"><span class="opt-letter">D</span> NITI Aayog</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>

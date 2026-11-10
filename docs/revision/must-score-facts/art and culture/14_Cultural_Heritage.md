@@ -144,17 +144,6 @@ hide:
 | **Gwalior** | Madhya Pradesh | **2023** | **Music** | Cradle of Gwalior Gharana, Tansen festival, classical Khayal |
 | **Kozhikode** | Kerala | **2023** | **Literature** | **India's First City of Literature**; rich literary publishing hub |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Tangible Heritage (1972)** | **Intangible Heritage (2003)** | Tangible = Physical immovable monuments/sites (45 sites in India); Intangible = Living traditions, performing arts, folklore, and rituals (15 elements in India) | मूर्त धरोहर (स्मारक / 45 स्थल) / अमूर्त धरोहर (परंपराएं / 15 तत्व) |
-| **Ramman (Uttarakhand)** | **Ramlila (UP / Pan-India)** | Ramman = **Chamoli village mask festival** in April with wooden masks (*Pattar*); Ramlila = Dramatic open-air performance of **Ramayana** during Navratri | रम्माण (उत्तराखंड चमोली मुखौटा मेला) / रामलीला (उ.प्र. रामायण मंचन) |
-| **Ahmadabad (2017)** | **Jaipur (2019)** | Ahmadabad = India’s **First World Heritage City** (medieval Pols & mosques); Jaipur = India’s **Second World Heritage City** (grid-planned pink city) | अहमदाबाद (प्रथम विश्व धरोहर नगर) / जयपुर (द्वितीय विश्व धरोहर नगर) |
-| **Kozhikode (Literature)** | **Gwalior (Music)** | Kozhikode = India's first UNESCO **City of Literature** (joined 2023); Gwalior = UNESCO **City of Music** (joined 2023) | कोझिकोड (साहित्य का शहर) / ग्वालियर (संगीत का शहर) |
-| **Sarnath (WHS 2026)** | **Kumbh Mela (ICH 2017)** | Sarnath = Physical archaeological monument inscribed as **Tangible WHS**; Kumbh Mela = Pilgrimage congregation inscribed as **Intangible ICH** | सारनाथ (मूर्त विश्व धरोहर) / कुंभ मेला (अमूर्त सांस्कृतिक धरोहर) |
-| **Prohibited Area (100m)** | **Regulated Area (200m)** | Under AMASR Act: Prohibited Area = Strictly **100 meters** around monument (NO construction); Regulated Area = Further **200 meters** (construction with permission) | निषिद्ध क्षेत्र (100 मीटर / निर्माण वर्जित) / विनियमित क्षेत्र (200 मीटर) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Four UNESCO Cultural Heritage Properties of Uttar Pradesh — Mnemonic: `A-T-F-S`
@@ -174,324 +163,303 @@ hide:
 ### 3. Sole Mixed World Heritage Site in India:
 - **Khangchendzonga National Park (Sikkim)** — 2016.
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-Consider the following events and arrange them in chronological order:
-
-1. World Heritage Day
-2. World Thyroid Day
-3. World No Tobacco Day
-4. International Day of Light
-
-Select the correct answer from the codes given below:
-
-A. 3, 1, 2, 4
-B. 1, 4, 2, 3
-C. 2, 3, 1, 4
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** World Heritage Day **18 April** → International Day of Light **16 May** → World Thyroid Day **25 May** → World No Tobacco Day **31 May**.
-
-</details>
-
-**Q2.**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Day)**
-A. April 18
-B. May 22
-C. July 29
-D. December 5
-
-**List-II (Event)**
-1. International Tiger Day
-2. World Heritage Day
-3. World Soil Day
-4. International Day of Biodiversity
-
-A. 4, 3, 2, 1
-B. 1, 2, 3, 4
-C. 2, 4, 1, 3
-D. 3, 2, 1, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A-2, B-4, C-1, D-3.
-
-</details>
-
-**Q3.**
-
-Jaipur was listed as 'World Heritage Site by the UNESCO World Heritage Committee in its 43rd Session held in the city
-
-A. Baku (Azerbaizan)
-B. Bishkek (Kyrgyzstan)
-C. Istanbul (Turkey)
-D. Marakesh (Morocco)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Baku (Azerbaijan), 2019.**
-
-</details>
-
-**Q4.** With reference to cultural heritage categories, which of the following statements is/are correct?
-
-1. Tangible heritage is a monument or site you can touch.
-2. Intangible heritage is identical with Ramsar wetland listing.
-3. Ramsar 1971 is the World Heritage Sites convention.
-
-A. Only 1
-B. Only 1 and 2
-C. 1, 2 and 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Intangible heritage is a living practice or skill. Ramsar is wetlands 1971; World Heritage Convention is 1972.
-
-</details>
-
-**Q5.** Consider the following pairs:
-
-| Convention / body | Tag |
-|-------------------|-----|
-| 1. World Heritage Convention | 1972 |
-| 2. ICH Convention | 2003 |
-| 3. World Heritage Committee | 21 states |
-
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3
-B. Only 1
-C. Only 1 and 2
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** ICOMOS advises cultural sites. IUCN advises natural sites.
-
-</details>
-
-**Q6.** Which of the following pairs is NOT correctly matched?
-
-A. Taj Mahal — UP WHS 1983
-B. Agra Fort — UP WHS 1983
-C. Varanasi ghats — UP WHS inscribed 2026
-D. Fatehpur Sikri — UP WHS 1986
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Varanasi ghats remain Tentative. Sarnath is the 2026 UP WHS.
-
-**Logic:** Do not count Varanasi ghats as a fifth UP WHS.
-
-</details>
-
-**Q7.** Assertion (A): India has only one mixed World Heritage Site, Khangchendzonga in Sikkim.
-Reason (R): Mixed sites need both cultural (i–vi) and natural (vii–x) criteria sets.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
-
-**A/R logic:** Khangchendzonga’s mixed status follows from satisfying both criteria sets.
-
-</details>
-
-**Q8.** Arrange the following India ICH inscriptions in chronological order:
-
-1. Yoga
-2. Kumbh Mela
-3. Durga Puja of Kolkata
-4. Garba of Gujarat
-
-Select the correct order.
-
-A. 2-1-3-4
-B. 1-2-3-4
-C. 1-2-4-3
-D. 1-3-2-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Yoga 2016 → Kumbh 2017 → Durga Puja 2021 → Garba 2023.
-
-**Logic:** Deepavali 2025 is a later sixteenth-element fact.
-
-</details>
-
-**Q9.** With reference to India’s World Heritage count teaching, which of the following statements is/are correct?
-
-1. India has 45 World Heritage Sites in the chapter tally.
-2. The split is about 20 cultural, 20 natural and 5 mixed.
-3. Cultural criteria are vii–x and natural criteria are i–vi.
-
-A. Only 3
-B. Only 1 and 3
-C. Only 1
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** The usual teaching split is about 37 cultural, 7 natural and 1 mixed. Cultural criteria are i–vi; natural are vii–x.
-
-</details>
-
-**Q10.** Match List-I with List-II and select the correct answer using the code given below the Lists.
-
-**List-I (UP WHS)**
-A. Taj Mahal
-B. Agra Fort
-C. Fatehpur Sikri
-D. Sarnath
-
-**List-II (Year)**
-1. 1983
-2. 1983
-3. 1986
-4. 2026
-
-*Row order is not the answer code.*
-
-A. 1 3 2 4
-B. 1 2 3 4
-C. 2 1 3 4
-D. 1 2 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Taj and Agra Fort 1983, Fatehpur Sikri 1986, Sarnath 2026.
-
-**Logic:** Four UP WHS. Varanasi ghats stay Tentative.
-
-</details>
-
-**Q11.** With reference to early Masterpiece proclamations and the Representative List, which of the following statements is/are correct?
-
-1. Kutiyattam was proclaimed in 2001.
-2. Vedic chanting was proclaimed in 2003 and Ramlila in 2005.
-3. All three entered the Representative List in 2008.
-
-A. Only 1
-B. Only 1 and 2
-C. Only 1, 2 and 3
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** All three statements are correct.
-
-**Logic:** Masterpiece years are not the same as the common 2008 Representative List year.
-
-</details>
-
-**Q12.** Which of the following is/are NOT named UNESCO ICH elements?
-
-1. Bharatanatyam
-2. Kathak
-3. Ramlila
-4. Holi as a standalone Indian element
-
-A. 2, 3 and 4 only
-B. 1, 2 and 3 only
-C. 1, 2 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Bharatanatyam, Kathak and standalone Holi are not named ICH elements. Ramlila is.
-
-**Logic:** Nautanki is also not a named UNESCO ICH element.
-
-</details>
-
-**Q13.** Assertion (A): An ASI monument under AMASR 1958 is automatically a UNESCO World Heritage Site.
-Reason (R): ASI national protection and UNESCO inscription are different legal doors.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false, but (R) is true.
-
-**A/R logic:** National protection does not equal WHC inscription.
-
-</details>
-
-**Q14.** With reference to heritage lists, which of the following statements is/are correct?
-
-1. Tentative List is India’s proposed pipeline.
-2. Representative List and Urgent Safeguarding List are identical ICH lists.
-3. Inscribed List is the official World Heritage roll.
-
-A. Only 2 and 3
-B. Only 1
-C. 1 and 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1 and 3 only are correct.
-
-**Logic:** Urgent Safeguarding is for endangered ICH needing emergency action.
-
-</details>
-
-**Q15.** Consider the following pairs:
-
-| Day / date | Tag |
-|------------|-----|
-| 1. World Heritage Day | 18 April (ICOMOS) |
-| 2. ICH Convention date | 17 October 2003 |
-| 3. India ICH ratification | 2005 |
-
-Which of the pairs given above is/are correctly matched?
-
-A. Only 1 and 2
-B. 1, 2 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** All three statements are correct.
-
-**Logic:** Convention order: Ramsar 1971, WH 1972, ICH 2003, India ICH 2005.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following events and arrange them in chronological order:<br><br>1. World Heritage Day<br>2. World Thyroid Day<br>3. World No Tobacco Day<br>4. International Day of Light<br><br>Select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 1, 2, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 4, 2, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> World Heritage Day **18 April** → International Day of Light **16 May** → World Thyroid Day **25 May** → World No Tobacco Day **31 May**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Observance Day)</th>
+      <th>List-II (Event / Theme)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> April 18</td>
+      <td><span class="match-key">1</span> International Tiger Day</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> May 22</td>
+      <td><span class="match-key">2</span> World Heritage Day</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> July 29</td>
+      <td><span class="match-key">3</span> World Soil Day</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> December 5</td>
+      <td><span class="match-key">4</span> International Day of Biodiversity</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 3, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 2, 1, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-4, C-1, D-3.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Jaipur was listed as 'World Heritage Site by the UNESCO World Heritage Committee in its 43rd Session held in the city</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Baku (Azerbaizan)</div><div class="pyq-opt"><span class="opt-letter">B</span> Bishkek (Kyrgyzstan)</div><div class="pyq-opt"><span class="opt-letter">C</span> Istanbul (Turkey)</div><div class="pyq-opt"><span class="opt-letter">D</span> Marakesh (Morocco)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Baku (Azerbaijan), 2019.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to cultural heritage categories, which of the following statements is/are correct?<br><br>1. Tangible heritage is a monument or site you can touch.<br>2. Intangible heritage is identical with Ramsar wetland listing.<br>3. Ramsar 1971 is the World Heritage Sites convention.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Intangible heritage is a living practice or skill. Ramsar is wetlands 1971; World Heritage Convention is 1972.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Convention / body | Tag |<br>|-------------------|-----|<br>| 1. World Heritage Convention | 1972 |<br>| 2. ICH Convention | 2003 |<br>| 3. World Heritage Committee | 21 states |<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** ICOMOS advises cultural sites. IUCN advises natural sites.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Taj Mahal — UP WHS 1983</div><div class="pyq-opt"><span class="opt-letter">B</span> Agra Fort — UP WHS 1983</div><div class="pyq-opt"><span class="opt-letter">C</span> Varanasi ghats — UP WHS inscribed 2026</div><div class="pyq-opt"><span class="opt-letter">D</span> Fatehpur Sikri — UP WHS 1986</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Varanasi ghats remain Tentative. Sarnath is the 2026 UP WHS.
+
+**Logic:** Do not count Varanasi ghats as a fifth UP WHS.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): India has only one mixed World Heritage Site, Khangchendzonga in Sikkim.<br>Reason (R): Mixed sites need both cultural (i–vi) and natural (vii–x) criteria sets.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Khangchendzonga’s mixed status follows from satisfying both criteria sets.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Arrange the following India ICH inscriptions in chronological order:<br><br>1. Yoga<br>2. Kumbh Mela<br>3. Durga Puja of Kolkata<br>4. Garba of Gujarat<br><br>Select the correct order.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2-1-3-4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-2-3-4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-2-4-3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-3-2-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Yoga 2016 → Kumbh 2017 → Durga Puja 2021 → Garba 2023.
+
+**Logic:** Deepavali 2025 is a later sixteenth-element fact.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to India’s World Heritage count teaching, which of the following statements is/are correct?<br><br>1. India has 45 World Heritage Sites in the chapter tally.<br>2. The split is about 20 cultural, 20 natural and 5 mixed.<br>3. Cultural criteria are vii–x and natural criteria are i–vi.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** The usual teaching split is about 37 cultural, 7 natural and 1 mixed. Cultural criteria are i–vi; natural are vii–x.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (UP Heritage Site)</th>
+      <th>List-II (Inscribed Year)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Taj Mahal</td>
+      <td><span class="match-key">1</span> 1983</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Agra Fort</td>
+      <td><span class="match-key">2</span> 1983</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Fatehpur Sikri</td>
+      <td><span class="match-key">3</span> 1986</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Sarnath</td>
+      <td><span class="match-key">4</span> 2026
+
+*Row order is not the answer code.*</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 3 2 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 2 3 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 1 3 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 2 4 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Taj and Agra Fort 1983, Fatehpur Sikri 1986, Sarnath 2026.
+
+**Logic:** Four UP WHS. Varanasi ghats stay Tentative.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to early Masterpiece proclamations and the Representative List, which of the following statements is/are correct?<br><br>1. Kutiyattam was proclaimed in 2001.<br>2. Vedic chanting was proclaimed in 2003 and Ramlila in 2005.<br>3. All three entered the Representative List in 2008.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Masterpiece years are not the same as the common 2008 Representative List year.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following is/are NOT named UNESCO ICH elements?<br><br>1. Bharatanatyam<br>2. Kathak<br>3. Ramlila<br>4. Holi as a standalone Indian element</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Bharatanatyam, Kathak and standalone Holi are not named ICH elements. Ramlila is.
+
+**Logic:** Nautanki is also not a named UNESCO ICH element.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): An ASI monument under AMASR 1958 is automatically a UNESCO World Heritage Site.<br>Reason (R): ASI national protection and UNESCO inscription are different legal doors.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false, but (R) is true.
+
+**A/R logic:** National protection does not equal WHC inscription.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to heritage lists, which of the following statements is/are correct?<br><br>1. Tentative List is India’s proposed pipeline.<br>2. Representative List and Urgent Safeguarding List are identical ICH lists.<br>3. Inscribed List is the official World Heritage roll.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3 only are correct.
+
+**Logic:** Urgent Safeguarding is for endangered ICH needing emergency action.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Day / date | Tag |<br>|------------|-----|<br>| 1. World Heritage Day | 18 April (ICOMOS) |<br>| 2. ICH Convention date | 17 October 2003 |<br>| 3. India ICH ratification | 2005 |<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Convention order: Ramsar 1971, WH 1972, ICH 2003, India ICH 2005.</div>
+  </div>
+</div>

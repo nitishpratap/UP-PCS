@@ -90,6 +90,31 @@ hide:
 48. **Constitutional vs Statutory vs Executive Bodies:** Constitutional (ECI Art. 324, UPSC Art. 315, FC Art. 280, NCSC Art. 338, NCST Art. 338A, NCBC Art. 338B, CAG Art. 148, AG Art. 76); Statutory (NHRC, CVC, CIC, Lokpal, NCW, NGT, UIDAI, NDMA); Executive (NITI Aayog, Law Commission, NDC).
 49. **Age Limits in Indian Constitution:** Minimum age to vote = **18 years** (Art. 326); Panchayat/Municipality election = **21 years** (Arts. 243V, 243ZG); Lok Sabha / Vidhan Sabha MLA = **25 years** (Arts. 84, 173); Rajya Sabha / Vidhan Parishad MLC = **30 years** (Arts. 84, 173); President / Vice-President / Governor = **35 years** (Arts. 58, 66, 157); High Court judge retirement = **62 years** (Art. 217); Supreme Court judge / CAG / CEC / UPSC retirement = **65 years** (Arts. 124, 148, 316, 324).
 50. **Oaths Constitutional Placement:** Oaths of President (**Article 60**), Vice-President (**Article 69**), and Governor (**Article 159**) are placed in dedicated constitutional articles; all other constitutional functionaries (Ministers, Judges, CAG, MPs, MLAs) take oath under the **Third Schedule**.
+51. **Article 1:** India, that is Bharat, shall be a Union of States (indestructible union of destructible units).
+52. **Article 2:** Parliament can admit or establish new States not part of India on such terms as it thinks fit.
+53. **Article 3:** Parliament can form new states, alter areas, boundaries, or names of existing states by simple majority.
+54. **Article 12:** Definition of 'State' for Part III (includes GoI, Parliament, State Govts/Legislatures, local & statutory authorities).
+55. **Article 13:** Any law inconsistent with or in derogation of Fundamental Rights is void to the extent of inconsistency.
+56. **Article 14:** State shall not deny to any person equality before the law or equal protection of the laws within India.
+57. **Article 15:** Prohibition of discrimination on grounds ONLY of religion, race, caste, sex, or place of birth.
+58. **Article 16:** Equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.
+59. **Article 17:** Abolition of 'Untouchability' and prohibition of its practice in any form (absolute Fundamental Right).
+60. **Article 18:** Abolition of all titles except military and academic distinctions.
+61. **Article 19:** Protection of 6 basic freedoms for Indian citizens only (speech, assembly, association, movement, residence, profession).
+62. **Article 20:** Protection in respect of conviction for offences (no ex-post facto criminal law, no double jeopardy, no self-incrimination).
+63. **Article 21:** Protection of life and personal liberty; cannot be deprived except according to procedure established by law.
+64. **Article 21A:** Right to free and compulsory education for all children aged 6 to 14 years (inserted by 86th CAA 2002).
+65. **Article 22:** Protection against arrest and detention in certain cases; mandatory magistrate production within 24 hours.
+66. **Article 23:** Prohibition of traffic in human beings, begar, and other similar forms of forced labour.
+67. **Article 24:** Prohibition of employment of children below 14 years in factories, mines, or any hazardous work.
+68. **Article 25:** Freedom of conscience and free profession, practice, and propagation of religion to all persons.
+69. **Article 26:** Freedom to manage religious affairs for religious denominations.
+70. **Article 27:** Freedom from payment of taxes for promotion of any particular religion.
+71. **Article 28:** Freedom from attending religious instruction in educational institutions wholly maintained out of State funds.
+72. **Article 29:** Protection of language, script, and culture of any section of citizens residing in India.
+73. **Article 30:** Right of religious and linguistic minorities to establish and administer educational institutions of their choice.
+74. **Article 32:** Right to constitutional remedies for enforcement of Fundamental Rights by moving the Supreme Court directly.
+75. **Article 39A:** Equal justice and free legal aid to the poor (inserted by 42nd CAA 1976).
 
 ## ⏱️ Timeline / Chronology
 
@@ -160,27 +185,6 @@ hide:
 | **104th CAA, 2019** | Extended SC/ST seat reservation in LS/Assemblies for 10 years; **abolished Anglo-Indian quota**. | Articles 334 amended; terminated Anglo-Indian nomination in LS and Assemblies. |
 | **106th CAA, 2023** | **Nari Shakti Vandan Adhiniyam**: 33% reservation for women in LS and State Assemblies. | Effective after post-2026 delimitation; valid for 15 years from commencement. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Trap | What Examiner Falsely Claims | True Exam Position | Hindi Key |
-|---|---|---|---|
-| **Part XI vs Part IXA vs Part XIVA** | Confusing Part XI with Municipalities or Tribunals. | **Part XI** = Centre-State Relations; **Part IXA** = Municipalities; **Part XIVA** = Tribunals. | भाग 11 / भाग 9A / भाग 14A |
-| **Attorney General Placement** | Trapping Attorney General in Part XIII or Part XIV. | AG sits in **Part V (Union Executive, Article 76)**. | महान्यायवादी (भाग 5, अनुच्छेद 76) |
-| **Fourth vs Ninth Schedule** | Claiming Ninth Schedule allocates Rajya Sabha seats. | **Fourth Schedule** allocates Rajya Sabha seats; Ninth Schedule is land reforms / acts. | चौथी अनुसूची (राज्यसभा) / 9वीं (भूमि सुधार) |
-| **Eighth Schedule Languages** | Claiming English or Bhojpuri is an 8th Schedule language. | **Neither English nor Bhojpuri** is in the Eighth Schedule (22 languages only). | 8वीं अनुसूची (अंग्रेजी व भोजपुरी बाहर) |
-| **11th vs 12th Schedule Subjects** | Interchanging 29 and 18 functional items. | **11th Schedule (Panchayats) = 29 subjects**; **12th Schedule (Municipalities) = 18 subjects**. | 11वीं (29 विषय) / 12वीं (18 विषय) |
-| **Sixth Schedule States** | Claiming UP or Bihar is in the Sixth Schedule. | Sixth Schedule applies strictly to **AMTM (Assam, Meghalaya, Tripura, Mizoram)**. | छठी अनुसूची (असम, मेघालय, त्रिपुरा, मिजोरम) |
-| **Article 32 vs Article 226 Scope** | Claiming Article 32 is wider than Article 226. | **Article 226 is WIDER** (covers FRs + ordinary legal rights); Art. 32 covers ONLY FRs. | अनुच्छेद 226 व्यापक है (अनुच्छेद 32 से) |
-| **Vice-President vs President Electors** | Claiming State MLAs vote in Vice-President election. | Vice-President is elected by **Parliament members ONLY (both elected & nominated)**; NO MLAs. | उपराष्ट्रपति चुनाव (केवल सांसद, विधायक नहीं) |
-| **Article 352 Grounds** | Stating "internal disturbance" is a valid ground today. | "Internal disturbance" was replaced with **"Armed Rebellion"** by the 44th CAA 1978. | सशस्त्र विद्रोह (44वां संशोधन) |
-| **Financial Emergency Invocations** | Stating Article 360 was imposed during 1991 BOP crisis. | Article 360 has **NEVER been declared in India**. | वित्तीय आपातकाल (कभी लागू नहीं हुआ) |
-| **Article 358 vs 359 Operation** | Claiming Article 358 suspends all Fundamental Rights. | Art. 358 automatically suspends **Article 19 ONLY** (and only during war/aggression). | अनुच्छेद 358 (केवल अनुच्छेद 19) |
-| **Non-Suspendable Rights** | Claiming Article 21 can be suspended by Presidential order. | Under Article 359, **Articles 20 and 21 CAN NEVER BE SUSPENDED**. | अनुच्छेद 20 व 21 कभी निलंबित नहीं |
-| **Panchayat Election Conduct** | Claiming ECI conducts Panchayat and Municipal elections. | Conducted exclusively by the **State Election Commission (Articles 243K & 243ZA)**. | पंचायत चुनाव (राज्य निर्वाचन आयोग) |
-| **President's Oath vs Third Schedule** | Claiming President takes oath under the Third Schedule. | President takes oath under **Article 60**; Governor under **Article 159**. | राष्ट्रपति शपथ (अनुच्छेद 60) |
-| **42nd vs 44th CAA Years** | Interchanging 1976 and 1978. | **42nd CAA = 1976** (Emergency); **44th CAA = 1978** (Janata Govt restoration). | 42वां (1976) / 44वां (1978) |
-| **Residuary Powers Origin** | Claiming Residuary Powers lie with States like in the US. | Borrowed from **Canada**; Residuary powers vest strictly with the **Centre (Article 248)**. | अवशिष्ट शक्तियां (कनाडा / केंद्र के पास) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Twelve Schedules Master Mnemonic: "TEARS OF OLD PM"
@@ -215,225 +219,239 @@ hide:
 *(Manipurs, Nagaland, and Arunachal are NOT in the Sixth Schedule!)*
 
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** correctly matched?
-A. IVA — Fundamental Duties
-B. VI — States
-C. XI — Municipalities
-D. XVII — Official Language
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Municipalities = **IXA**. XI = Union–State relations.
-
-</details>
-
-**Q2.** Tribunals are in which of the following?
-A. Part XI
-B. Part XIV
-C. Part XIVA
-D. Part XVIII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q3.** Attorney-General of India is provided in which of the following?
-A. Part XIII
-B. Part V
-C. Part XIV
-D. Part XIX
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Art. **76**.
-
-</details>
-
-**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Schedule)**
-
-| Code | Schedule |
-|------|----------|
-| A | Third Schedule |
-| B | Fourth Schedule |
-| C | Seventh Schedule |
-| D | Eighth Schedule |
-
-**List-II (Subject)**
-
-| Code | Subject |
-|------|---------|
-| 1 | Forms of Oaths or Affirmations |
-| 2 | Allocation of seats in Rajya Sabha |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Languages |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. Lists, Languages, Oaths, RS seats
-B. Oaths, RS seats, Lists, Languages
-C. RS seats, Oaths, Languages, Lists
-D. Oaths, Lists, RS seats, Languages
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q5.** correctly matched?
-A. Third — Oaths
-B. Eighth — Languages
-C. Ninth — Rajya Sabha seats
-D. Tenth — Defection
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — RS seats = **Fourth**. Ninth = validation of Acts.
-
-</details>
-
-**Q6.** in the Eighth Schedule?
-A. Nepali
-B. Dogri
-C. Bodo
-D. Bhojpuri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q7.** Eleventh Schedule has ___ subjects; Twelfth has ___.
-A. 18, 29
-B. 29, 18
-C. 29, 29
-D. 12, 18
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q8.** Sixth Schedule presently applies to which of the following?
-A. All Fifth-Schedule States
-B. Assam, Meghalaya, Tripura, Mizoram
-C. J&K and Ladakh
-D. Uttar Pradesh hill districts
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9.** Ninth Schedule was added by the?
-A. 7th Amd
-B. 1st Amd, 1951
-C. 9th Amd, 1960
-D. 42nd Amd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.** Present Tenth Schedule (defection) was added by the?
-A. 35th Amd
-B. 36th Amd
-C. 52nd Amd, 1985
-D. 91st Amd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 35th’s old 10th Sch. was Sikkim terms, repealed by the 36th.
-
-</details>
-
-**Q11.** Which of the following is/are correct?
-1. Originally there were 8 Schedules.
-2. Originally there were 22 Parts.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q12.** Part IXB (Cooperatives) was inserted by the?
-A. 73rd
-B. 74th
-C. 97th
-D. 101st
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q13.** Article 4 says a law under Articles 2–3 is?
-A. A 368 amendment needing half the States
-B. Not deemed an amendment under 368
-C. Void unless the State consents
-D. A Money Bill
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** a ground of discrimination in Article 15(1)?
-A. Religion
-B. Caste
-C. Place of birth
-D. **Residence** (that extra ground is in **16**, and Parliament may prescribe it)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q15.** Property as a Fundamental Right was deleted by the?
-A. 42nd
-B. 44th
-C. 1st
-D. 25th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — now **300A**, a legal right.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> IVA — Fundamental Duties</div><div class="pyq-opt"><span class="opt-letter">B</span> VI — States</div><div class="pyq-opt"><span class="opt-letter">C</span> XI — Municipalities</div><div class="pyq-opt"><span class="opt-letter">D</span> XVII — Official Language</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Municipalities = **IXA**. XI = Union–State relations.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Tribunals are in which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Part XI</div><div class="pyq-opt"><span class="opt-letter">B</span> Part XIV</div><div class="pyq-opt"><span class="opt-letter">C</span> Part XIVA</div><div class="pyq-opt"><span class="opt-letter">D</span> Part XVIII</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Attorney-General of India is provided in which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Part XIII</div><div class="pyq-opt"><span class="opt-letter">B</span> Part V</div><div class="pyq-opt"><span class="opt-letter">C</span> Part XIV</div><div class="pyq-opt"><span class="opt-letter">D</span> Part XIX</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Art. **76**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br>**List-I (Schedule)**<br>| Code | Schedule |<br>|------|----------|<br>| A | Third Schedule |<br>| B | Fourth Schedule |<br>| C | Seventh Schedule |<br>| D | Eighth Schedule |<br>**List-II (Subject)**<br>| Code | Subject |<br>|------|---------|<br>| 1 | Forms of Oaths or Affirmations |<br>| 2 | Allocation of seats in Rajya Sabha |<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>3</th><th>Union, State and Concurrent Lists</th></tr>
+  </thead>
+  <tbody>
+      <tr><td>4</td><td>Languages</td></tr>
+  </tbody>
+</table><br>> Note: Row order in the tables is **not** the answer.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Lists, Languages, Oaths, RS seats</div><div class="pyq-opt"><span class="opt-letter">B</span> Oaths, RS seats, Lists, Languages</div><div class="pyq-opt"><span class="opt-letter">C</span> RS seats, Oaths, Languages, Lists</div><div class="pyq-opt"><span class="opt-letter">D</span> Oaths, Lists, RS seats, Languages</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Third — Oaths</div><div class="pyq-opt"><span class="opt-letter">B</span> Eighth — Languages</div><div class="pyq-opt"><span class="opt-letter">C</span> Ninth — Rajya Sabha seats</div><div class="pyq-opt"><span class="opt-letter">D</span> Tenth — Defection</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> RS seats = **Fourth**. Ninth = validation of Acts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">in the Eighth Schedule?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nepali</div><div class="pyq-opt"><span class="opt-letter">B</span> Dogri</div><div class="pyq-opt"><span class="opt-letter">C</span> Bodo</div><div class="pyq-opt"><span class="opt-letter">D</span> Bhojpuri</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Eleventh Schedule has ___ subjects; Twelfth has ___.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 18, 29</div><div class="pyq-opt"><span class="opt-letter">B</span> 29, 18</div><div class="pyq-opt"><span class="opt-letter">C</span> 29, 29</div><div class="pyq-opt"><span class="opt-letter">D</span> 12, 18</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Sixth Schedule presently applies to which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> All Fifth-Schedule States</div><div class="pyq-opt"><span class="opt-letter">B</span> Assam, Meghalaya, Tripura, Mizoram</div><div class="pyq-opt"><span class="opt-letter">C</span> J&K and Ladakh</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh hill districts</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">Ninth Schedule was added by the?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 7th Amd</div><div class="pyq-opt"><span class="opt-letter">B</span> 1st Amd, 1951</div><div class="pyq-opt"><span class="opt-letter">C</span> 9th Amd, 1960</div><div class="pyq-opt"><span class="opt-letter">D</span> 42nd Amd</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Present Tenth Schedule (defection) was added by the?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 35th Amd</div><div class="pyq-opt"><span class="opt-letter">B</span> 36th Amd</div><div class="pyq-opt"><span class="opt-letter">C</span> 52nd Amd, 1985</div><div class="pyq-opt"><span class="opt-letter">D</span> 91st Amd</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 35th’s old 10th Sch. was Sikkim terms, repealed by the 36th.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following is/are correct?<br>1. Originally there were 8 Schedules.<br>2. Originally there were 22 Parts.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Part IXB (Cooperatives) was inserted by the?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 73rd</div><div class="pyq-opt"><span class="opt-letter">B</span> 74th</div><div class="pyq-opt"><span class="opt-letter">C</span> 97th</div><div class="pyq-opt"><span class="opt-letter">D</span> 101st</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Article 4 says a law under Articles 2–3 is?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A 368 amendment needing half the States</div><div class="pyq-opt"><span class="opt-letter">B</span> Not deemed an amendment under 368</div><div class="pyq-opt"><span class="opt-letter">C</span> Void unless the State consents</div><div class="pyq-opt"><span class="opt-letter">D</span> A Money Bill</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">a ground of discrimination in Article 15(1)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Religion</div><div class="pyq-opt"><span class="opt-letter">B</span> Caste</div><div class="pyq-opt"><span class="opt-letter">C</span> Place of birth</div><div class="pyq-opt"><span class="opt-letter">D</span> **Residence** (that extra ground is in **16**, and Parliament may prescribe it)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Property as a Fundamental Right was deleted by the?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 42nd</div><div class="pyq-opt"><span class="opt-letter">B</span> 44th</div><div class="pyq-opt"><span class="opt-letter">C</span> 1st</div><div class="pyq-opt"><span class="opt-letter">D</span> 25th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> now **300A**, a legal right.</div>
+  </div>
+</div>

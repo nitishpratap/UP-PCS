@@ -75,6 +75,21 @@ hide:
 48. **Mission Karmayogi (NPCSCB):** Approved by Cabinet in September 2020 as the National Programme for Civil Services Capacity Building; overseen by the Prime Minister's Public Human Resources Council; operationalized by the **Capacity Building Commission (CBC)** and the **iGOT Karmayogi platform** for anytime-anywhere digital learning.
 49. **Second Administrative Reforms Commission (2nd ARC):** Constituted in August 2005 under **Veerappa Moily** (later succeeded by Ramachandran); submitted **15 landmark reports**; Report 1: "Right to Information: Master Key to Good Governance"; Report 4: "Ethics in Governance" (recommended Civil Service Code); Report 12: "Citizen Centric Administration".
 50. **Social Audit (सामाजिक अंकेक्षण):** A process wherein the beneficiaries and citizens audit the implementation of public programs and expenditures against official records; institutionalized under **Section 17 of MGNREGA, 2005** to be conducted by the **Gram Sabha**; **Meghalaya** was the first State to pass a dedicated Social Audit law in 2017.
+51. **Right to Information (RTI) Act, 2005 Timelines:** Normal application response time is **30 days**; if information concerns **life or liberty of a person**, information must be provided within **48 hours**; if application submitted to an Assistant Public Information Officer (APIO), add **5 days** (35 days total); if third party interests involved (Section 11), timeline is **40 days**; failure to decide within specified period deemed refusal.
+52. **RTI Act Appeals & Penalties:** First Appeal under Section 19(1) to senior officer in same public authority within **30 days** (decided within 30–45 days); Second Appeal under Section 19(3) to Central/State Information Commission within **90 days**; Central/State IC can impose penalty of **₹250 per day up to maximum ₹25,000** under Section 20(1) on defaulting PIO for malafide delay/denial, and recommend disciplinary action under Section 20(2).
+53. **RTI Section 8 Exemptions (High-Yield):** Section 8(1) lists 10 categories of exempted information: (a) Sovereignty and integrity of India, security, strategic/scientific interests; (b) Forbidden by court of law or contempt of court; (c) Breach of parliamentary privilege; (d) Commercial confidence, trade secrets, intellectual property; (e) Fiduciary relationship; (f) Information received in confidence from foreign government; (g) Endanger life or physical safety of any person; (h) Impede investigation or apprehension of offenders; (i) Cabinet papers (exempt during deliberations; open after decision made); (j) Personal information with no public interest.
+54. **Citizen's Charter Origin and Evolution in India:** Concept originated in the United Kingdom under Prime Minister **John Major in 1991**; introduced in India at the Chief Ministers' Conference in **May 1997**; Citizen's Charter is a voluntary declaration by public service delivery agencies about their service standards, choice, accessibility, non-discrimination, transparency, and accountability; Charters are **NOT legally enforceable / non-justiciable** in courts of law.
+55. **Sevottam Model of Public Service Delivery:** Developed by Department of Administrative Reforms and Public Grievances (DARPG) in 2006; an assessment-improvement framework for public service delivery consisting of 3 modules: (1) Citizen’s Charter, (2) Public Grievance Redress Mechanism, and (3) Service Delivery Capability.
+56. **Central Public Grievance Redress and Monitoring System (CPGRAMS):** Online web-enabled system developed by DARPG in 2007 for lodging, tracking, and redressing citizen grievances across central ministries and departments; mapped to single citizen grievance portal with mandated redressal timeline (presently 21–30 days).
+57. **Whistle Blowers Protection Act, 2011 (Enacted 2014):** Provides a statutory mechanism for receiving and investigating complaints relating to corruption or willful misuse of power by public servants and protecting whistleblowers from victimization; Central Vigilance Commission (CVC) designated as the competent authority to receive public interest disclosures; provides penalty of imprisonment up to 2 years and fine up to ₹30,000 for false or frivolous disclosures.
+58. **Prevention of Corruption Act, 1988 (2018 Amendment Highlights):** Amended in 2018 to align with UN Convention Against Corruption (UNCAC); Section 7 makes both bribe-taking and **bribe-giving a specific penal offence** (bribe-giver punishable with up to 7 years imprisonment unless reported within 7 days); Section 17A introduces mandatory **prior approval of competent authority** before investigating any decision taken by a public servant in discharge of official functions.
+59. **Lokpal and Lokayuktas Act, 2013 Inquiry Machinery:** Lokpal can refer complaints to its own Inquiry Wing or to the **Central Bureau of Investigation (CBI)**; CBI officers investigating Lokpal cases cannot be transferred without Lokpal's prior approval; Lokpal has powers of search, seizure, and provisional attachment of property under Prevention of Money Laundering Act (PMLA).
+60. **Mission Karmayogi (National Programme for Civil Services Capacity Building - NPCSCB):** Launched in September 2020 by Union Cabinet; aims to transition civil servants from 'rules-based' to 'roles-based' competency framework; operates through digital learning platform **iGOT Karmayogi** (Integrated Government Online Training); overseen by Capacity Building Commission (CBC).
+61. **Direct Benefit Transfer (DBT) Governance Architecture:** Launched on **1 January 2013** across 20 districts in India; transfers subsidies and welfare entitlements directly into bank accounts of beneficiaries; underpinned by the **JAM Trinity** (Jan Dhan Yojana, Aadhaar, Mobile numbers) to eliminate middlemen, ghost beneficiaries, and administrative leakage.
+62. **Aadhaar (Targeted Delivery of Financial and Other Subsidies) Act, 2016:** Enacted as a Money Bill; statutory basis for UIDAI (Unique Identification Authority of India); in *K.S. Puttaswamy (Aadhaar Judgment, 2018)*, 5-judge bench upheld constitutional validity of Aadhaar for welfare subsidies (Section 7), but struck down Section 57 (private companies cannot demand Aadhaar) and requirement for bank accounts and school admissions.
+63. **e-Governance National E-Governance Plan (NeGP):** Approved in May 2006 with 27 Mission Mode Projects (MMPs) (expanded to 31 MMPs); foundational core infrastructure comprises: State Data Centres (SDC), State Wide Area Networks (SWAN), and Common Services Centres (CSCs); Digital India programme launched on **1 July 2015** to transform India into a digitally empowered society and knowledge economy.
+64. **Gram Nyayalayas Implementation Issues:** Recommended by Law Commission 114th Report and enacted in 2008; aimed at establishing 5,000+ courts; as of 2024, fewer than 300 Gram Nyayalayas are operational across 15 states due to reluctant state funding, lack of police infrastructure, and opposition from local bar associations.
+65. **Right to Public Services Legislation in Indian States:** **Madhya Pradesh was the first State in India to enact a Public Service Guarantee Act (Madhya Pradesh Lok Sewaon Ke Pradan Ki Guarantee Adhiniyam, 2010)**; Uttar Pradesh enacted the **Uttar Pradesh Janhit Guarantee Adhiniyam, 2011** guaranteeing time-bound delivery of notified public services with penal fines on defaulting officers.
 
 ## ⏱️ Timeline / Chronology
 
@@ -127,33 +142,6 @@ hide:
 | **Code on Social Security** | 2020 | EPF Act 1952, ESI Act 1948, Maternity Benefit Act 1961, Gratuity Act 1972, Unorganised Workers' Social Security Act 2008, etc. (9 Acts) | Extends social security coverage to gig workers and platform workers; creates National Social Security Board. |
 | **OSH Code** | 2020 | Factories Act 1948, Mines Act 1952, Dock Workers Act 1986, Contract Labour Act 1970, Inter-State Migrant Workmen Act 1979, etc. (13 Acts) | Standardizes working conditions, health and safety; covers contract labour and inter-state migrant workers. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Term A | Term B | Core Difference | Hindi Terminology |
-|--------|--------|-----------------|-------------------|
-| **RTI Act, 2005** | **RTE Act, 2009** | Information transparency (MKSS movement) vs Elementary education guarantee (86th CAA / Art 21A) | आरटीआई 2005 / आरटीई 2009 |
-| **NFSA (5 July 2013)** | **RTE (1 April 2010)** | Food security law; **not** 2010 vs Elementary education law enforcement date | खाद्य सुरक्षा 2013 / आरटीई लागू (2010) |
-| **PESA Act, 1996** | **73rd CAA, 1992** | Extends Part IX to **Fifth Schedule** tribal areas (10 States) vs Constitutional baseline for general PRIs | पेसा 1996 / 73वां संविधान संशोधन |
-| **CPA 1986** | **CPA 2019** | Redressal commissions only vs Established **CCPA** + product liability + e-commerce rules | उपभोक्ता संरक्षण 1986 / 2019 |
-| **Pre-2019 Labour Acts** | **Four Labour Codes** | 29 fragmented central enactments vs Four consolidated codes (Wages 2019, IR 2020, SS 2020, OSH 2020) | पुराने 29 श्रम कानून / चार श्रम संहिताएं |
-| **POCSO Act, 2012** | **JJ Act, 2015** | Sexual offences against children (**<18**) vs Children in conflict with law & children in need of care | पॉक्सो (POCSO) / किशोर न्याय (JJ Act) |
-| **PoA Act, 1989** | **PCR Act, 1955** | Prevention of Atrocities (stringent offences, s.18A) vs Protection of Civil Rights (untouchability offences) | अत्याचार निवारण 1989 / नागरिक अधिकार 1955 |
-| **NDMA** | **MHA DM Division** | Apex statutory authority (**PM is Chairperson**) vs Administrative nodal **division** within Ministry of Home Affairs | आपदा प्राधिकरण / गृह मंत्रालय प्रभाग |
-| **NDRF (Force)** | **NDRF (Fund)** | Multi-skilled operational battalions on deputation from CAPFs vs National Disaster **Response Fund** under s.46 | एनडीआरएफ बल / राष्ट्रीय आपदा मोचन निधि |
-| **RPA 1950** | **RPA 1951** | Seat allocation, delimitation, voter qualifications & rolls vs Conduct of polls, disqualifications, corrupt practices, s.29A | जनप्रतिनिधित्व 1950 / 1951 |
-| **EPA 1986** | **NGT Act 2010** | Umbrella substantive environmental protection statute vs Specialized green judicial tribunal for speedy disposal | पर्यावरण संरक्षण 1986 / एनजीटी 2010 |
-| **POSH Act, 2013** | **POCSO Act, 2012** | Workplace sexual harassment of women (ICC for **>=10** employees) vs Sexual offences against children under 18 | कार्यस्थल उत्पीड़न (पॉश) / पॉक्सो |
-| **NeGP (2006)** | **Digital India (2015)** | 31 Mission Mode Projects plan vs Umbrella transformative program with 9 core pillars | राष्ट्रीय ई-शासन / डिजिटल इंडिया |
-| **Citizen Charter** | **Sevottam Model** | Voluntary declaration of service commitments (UK 1991, India 1997) vs 2006 **3-module** service delivery quality framework | नागरिक अधिकार-पत्र / सेवोत्तम मॉडल |
-| **Code of Conduct** | **Code of Ethics** | Enforceable rules & prohibitions (CCS Conduct Rules 1964) vs Broad moral values, integrity, and ethical principles | आचरण नियमावली / नैतिक संहिता |
-| **Mission Karmayogi** | **Adi Karmayogi 2025** | DoPT / CBC civil services capacity building program vs **Ministry of Tribal Affairs (MoTA)** tribal governance initiative | मिशन कर्मयोगी / आदि कर्मयोगी |
-| **Social Audit** | **CAG Audit** | Participatory audit by citizens/Gram Sabha (MGNREGA s.17) vs Constitutional audit by independent CAG (Art. 148) | सामाजिक अंकेक्षण / कैग लेखापरीक्षा |
-| **1st ARC (1966–70)** | **2nd ARC (2005–09)** | Morarji Desai / K. Hanumanthaiah (**20 reports**) vs Veerappa Moily / V. Ramachandran (**15 reports**) | प्रथम एआरसी / द्वितीय एआरसी |
-| **G2C** | **G2G** | Government-to-Citizen services (UMANG, DigiLocker, CPGRAMS) vs Government-to-Government intra-departmental workflows (e-Office, PFMS) | जी2सी (नागरिक) / जी2जी (अंतर-सरकारी) |
-| **FRA Nodal Agency** | **Wildlife Act Nodal** | **Ministry of Tribal Affairs (MoTA)** vs Ministry of Environment, Forest & Climate Change (MoEFCC) | वन अधिकार (जनजातीय मंत्रालय) / पर्यावरण |
-| **Whistleblowers Act** | **Lokpal Act** | Safeguards whistleblower identity; competent authority is **CVC** vs Independent anti-corruption ombudsman with inquiry/prosecution wings | व्हिसलब्लोअर अधिनियम / लोकपाल अधिनियम |
-| **RTI Fee Exemption** | **Normal RTI Fee** | ₹0 (Completely **free for BPL citizens** and after 30-day delay) vs Statutory nominal application fee of **₹10** | बीपीएल निशुल्क / सामान्य आवेदन शुल्क |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. RTI Response Timelines: "48H - 30D - 35D - 40D - 90D"
@@ -186,238 +174,238 @@ Remember: **BIHAR IS NOT IN PESA!** (No Fifth Schedule areas in Bihar or UP).
 - **O:** **O**ccupational Safety, Health & Working Conditions (OSH) Code, 2020 (Contract labour, safety).
 
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which of the following is/are NOT a dimension of food security?
-1. Availability
-2. Accessibility
-3. Affordability
-4. Accountability
-A. 1 and 2
-B. Only 4
-C. 2, 3 and 4
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q2.** Consumers can bargain below the Maximum Retail Price (MRP).
-
-**Reason (R):** MRP is the price above which a seller cannot charge a buyer.
-A. Both true, R not explanation
-B. A false R true
-C. A true R false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q3.**
-Adi Karmayogi Beta Version (June 2025) launched by which Ministry?
-1. AYUSH
-2. WCD
-3. Social Justice
-4. Tribal Affairs
-A. 1 and 2 only
-B. Only 4
-C. 2 and 3 only
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Ministry of Tribal Affairs.** ≠ Mission Karmayogi / DoPT.
-
-</details>
-
-**Q4.**
-NFSA: (1) 75% rural 50% urban (2) nutrition focus women/children (3) enforced 5 July 2010
-A. 2 and 3
-B. 1 and 3
-C. 1, 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q5.**
-ICT-based e-Governance: (1) reduces transparency (2) reduces cost (3) increases citizens’ input (4) increases red-tapism
-A. 2 and 4
-B. 2 and 3
-C. 1, 2 and 3
-D. 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6.**
-When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
-A. 1998
-B. 1996
-C. 1995
-D. 1993
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q7.**
-The symbol ‘ECOMARC’ is related to—
-A. Goods of best quality
-B. Safe goods for environment
-C. Exported goods
-D. Imported goods
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q8.**
-Ex-officio Chairman of NDMA?
-A. Prime Minister
-B. Home Minister
-C. Defence Minister
-D. Health Minister
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.**
-Code on Wages 2019 amalgamated: I Minimum Wages II Payment of Bonus III Contract Labour IV Equal Remuneration
-A. I and II
-B. II and III
-C. I, II and IV
-D. All four
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q10.**
-P.C. Hota Committee on Civil Services Reforms was constituted in—
-A. 2003
-B. 2004
-C. 2005
-D. 2006
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 2004.** Not the 2nd ARC (2005, Moily).
-
-</details>
-
-**Q11.**
-NFSA: I 75/50 II nutrition women/children III eldest woman ≥18 head
-A. I and II
-B. II and III
-C. I, II and III
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q12.**
-MKSS associated with—
-A. RTE Act
-B. RTI Act
-C. MGNREGA
-D. NHM
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q13.**
-
-In which year was Prevention of Food Adulteration Act first enacted?
-
-A. 1951
-B. 1954
-C. 1964
-D. 1956
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Prevention of Food Adulteration Act, 1954 came into effect on 1st June, 1955.
-
-**Ans: B. 1954**
-
-</details>
-
-**Q14.**
-
-All offences punishable under the Protection of Civil Rights Act, 1955 are :
-
-A. Cognizable and Non-bailable
-B. Cognizable and Summarily Triable
-C. Non-congnizable and Bailable
-D. Non-cognizable and Compoundable
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** According to Section 15 of the Protection of Civil Rights Act, 1955 all the offences punishable under the Act are cognizable and summarily triable.
-
-**Ans: B. Cognizable and Summarily Triable**
-
-</details>
-
-**Q15.**
-
-Offences are tried under the Protection of Civil Rights Act, 1955 by the Courts of
-
-A. Sessions Court
-B. Judicial Magistrate First Class
-C. Judicial Magistrate Second Class
-D. Chief Judicial Magistrate
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The first-class Judicial Magistrates were empowered to hold special courts for the trial of offences under the Protection of Civil Rights Act, 1955.
-
-**Ans: B. Judicial Magistrate First Class**
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following is/are NOT a dimension of food security?<br>1. Availability<br>2. Accessibility<br>3. Affordability<br>4. Accountability</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consumers can bargain below the Maximum Retail Price (MRP).<br><br>**Reason (R):** MRP is the price above which a seller cannot charge a buyer.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true, R not explanation</div><div class="pyq-opt"><span class="opt-letter">B</span> A false R true</div><div class="pyq-opt"><span class="opt-letter">C</span> A true R false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Adi Karmayogi Beta Version (June 2025) launched by which Ministry?<br>1. AYUSH<br>2. WCD<br>3. Social Justice<br>4. Tribal Affairs</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ministry of Tribal Affairs.** ≠ Mission Karmayogi / DoPT.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">NFSA: (1) 75% rural 50% urban (2) nutrition focus women/children (3) enforced 5 July 2010</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">ICT-based e-Governance: (1) reduces transparency (2) reduces cost (3) increases citizens’ input (4) increases red-tapism</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1998</div><div class="pyq-opt"><span class="opt-letter">B</span> 1996</div><div class="pyq-opt"><span class="opt-letter">C</span> 1995</div><div class="pyq-opt"><span class="opt-letter">D</span> 1993</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The symbol ‘ECOMARC’ is related to—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Goods of best quality</div><div class="pyq-opt"><span class="opt-letter">B</span> Safe goods for environment</div><div class="pyq-opt"><span class="opt-letter">C</span> Exported goods</div><div class="pyq-opt"><span class="opt-letter">D</span> Imported goods</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Ex-officio Chairman of NDMA?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Prime Minister</div><div class="pyq-opt"><span class="opt-letter">B</span> Home Minister</div><div class="pyq-opt"><span class="opt-letter">C</span> Defence Minister</div><div class="pyq-opt"><span class="opt-letter">D</span> Health Minister</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">Code on Wages 2019 amalgamated: I Minimum Wages II Payment of Bonus III Contract Labour IV Equal Remuneration</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I and II</div><div class="pyq-opt"><span class="opt-letter">B</span> II and III</div><div class="pyq-opt"><span class="opt-letter">C</span> I, II and IV</div><div class="pyq-opt"><span class="opt-letter">D</span> All four</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">P.C. Hota Committee on Civil Services Reforms was constituted in—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2003</div><div class="pyq-opt"><span class="opt-letter">B</span> 2004</div><div class="pyq-opt"><span class="opt-letter">C</span> 2005</div><div class="pyq-opt"><span class="opt-letter">D</span> 2006</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2004.** Not the 2nd ARC (2005, Moily).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">NFSA: I 75/50 II nutrition women/children III eldest woman ≥18 head</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I and II</div><div class="pyq-opt"><span class="opt-letter">B</span> II and III</div><div class="pyq-opt"><span class="opt-letter">C</span> I, II and III</div><div class="pyq-opt"><span class="opt-letter">D</span> None</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">MKSS associated with—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> RTE Act</div><div class="pyq-opt"><span class="opt-letter">B</span> RTI Act</div><div class="pyq-opt"><span class="opt-letter">C</span> MGNREGA</div><div class="pyq-opt"><span class="opt-letter">D</span> NHM</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">In which year was Prevention of Food Adulteration Act first enacted?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1951</div><div class="pyq-opt"><span class="opt-letter">B</span> 1954</div><div class="pyq-opt"><span class="opt-letter">C</span> 1964</div><div class="pyq-opt"><span class="opt-letter">D</span> 1956</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Prevention of Food Adulteration Act, 1954 came into effect on 1st June, 1955.
+
+**Ans: B. 1954</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">All offences punishable under the Protection of Civil Rights Act, 1955 are :</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cognizable and Non-bailable</div><div class="pyq-opt"><span class="opt-letter">B</span> Cognizable and Summarily Triable</div><div class="pyq-opt"><span class="opt-letter">C</span> Non-congnizable and Bailable</div><div class="pyq-opt"><span class="opt-letter">D</span> Non-cognizable and Compoundable</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** According to Section 15 of the Protection of Civil Rights Act, 1955 all the offences punishable under the Act are cognizable and summarily triable.
+
+**Ans: B. Cognizable and Summarily Triable</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Offences are tried under the Protection of Civil Rights Act, 1955 by the Courts of</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sessions Court</div><div class="pyq-opt"><span class="opt-letter">B</span> Judicial Magistrate First Class</div><div class="pyq-opt"><span class="opt-letter">C</span> Judicial Magistrate Second Class</div><div class="pyq-opt"><span class="opt-letter">D</span> Chief Judicial Magistrate</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The first-class Judicial Magistrates were empowered to hold special courts for the trial of offences under the Protection of Civil Rights Act, 1955.
+
+**Ans: B. Judicial Magistrate First Class</div>
+  </div>
+</div>

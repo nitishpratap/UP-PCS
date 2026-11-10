@@ -80,6 +80,21 @@ hide:
 48. **Council of Ministers Minimum 12 Rule:** In smaller Assemblies like Goa (40), Sikkim (32), or Mizoram (40), 15% would yield only 5–6 ministers; hence Art. 164(1A) guarantees a floor of **at least 12 ministers** for governance viability.
 49. **4-Month Maximum Delay Rule for Vidhan Parishad:** First transit = max 3 months delay; Second transit = max 1 month delay. Thus, the Legislative Council is only a **dilatory chamber**, having no ultimate power to block the Assembly.
 50. **Quorum in State Legislature (Article 189(3)):** Minimum quorum is **10 members or 1/10th of total membership of the House, whichever is greater** (unlike Parliament which is strictly 1/10th).
+51. **Governor Appointment and Dual Role (Articles 153 to 155):** Article 153 mandates a Governor for each State (7th CAA 1956 permitted same person as Governor for two or more States); appointed by the **President under his hand and seal** (Article 155); acts as constitutional head of state and key federal link between Centre and State.
+52. **Tenure and Qualifications of Governor (Articles 156 & 157):** Holds office during the **pleasure of the President** (no security of tenure; normal term 5 years; *B.P. Singhal v. UOI, 2010* ruled pleasure is justiciable against arbitrariness); Qualifications: Citizen of India and completed **35 years of age**; does not hold office of profit; not a member of Parliament or State Legislature.
+53. **Governor’s Discretionary Powers (Article 163):** Unlike President, Governor has **constitutional discretionary powers** (Article 163(1)); Article 163(2) provides that if any question arises whether a matter falls within Governor’s discretion, the **decision of the Governor in his discretion shall be final** and cannot be called into question; Examples: reserving a bill for President (Art. 200), recommending President's Rule (Art. 356), selecting CM in hung assembly.
+54. **Assent to Bills and Reservation for President (Articles 200 & 201):** Governor has 4 options: assent, withhold assent, return bill (if not Money Bill) for reconsideration, or **reserve bill for consideration of the President**; Reservation is mandatory if bill endangers constitutional position of the High Court; When President reconsiders a reserved state bill (Art. 201), President may direct Governor to return it to legislature; state legislature must reconsider within 6 months, but even if passed again, **President is NOT bound to give assent**.
+55. **Governor's Ordinance-Making Power (Article 213):** Promulgated when State Legislature (or either House in bicameral state) is not in session; ceases to operate **6 weeks after reassembly** of legislature; requires President's prior instruction if bill containing same provisions required President's previous sanction.
+56. **Governor’s Pardoning Power (Article 161) vs President (Article 72):** Governor can pardon, reprieve, respite, remit, or commute sentences under State laws; Governor **CANNOT pardon death sentences** (can only suspend, remit or commute death penalty); Governor has **NO power over court-martial sentences**.
+57. **State Council of Ministers & Chief Minister (Articles 163 & 164):** CM appointed by Governor; other ministers appointed by Governor on CM's advice; Ministers hold office during pleasure of Governor; Council of Ministers is **collectively responsible to the Legislative Assembly (Vidhan Sabha)**; 91st Amendment 2003: total ministers including CM shall not exceed **15% of total MLAs**, and shall **not be less than 12 members**.
+58. **Advocate-General for the State (Article 165):** Highest law officer in the State; appointed by Governor; must be qualified to be appointed a **Judge of a High Court**; holds office during the **pleasure of the Governor**; has right to speak and take part in proceedings of State Legislature without right to vote (Article 177).
+59. **State Legislative Council (Vidhan Parishad) Creation / Abolition (Article 169):** Parliament can abolish or create a Legislative Council if the **State Legislative Assembly passes a resolution by a Special Majority** (majority of total membership + 2/3rd members present and voting); Parliament then passes an ordinary bill by simple majority (not an amendment under Art. 368).
+60. **6 States with Bicameral Legislature (Vidhan Parishad):** Currently 6 States have Legislative Councils: **Uttar Pradesh (100 seats - highest)**, Bihar (75 seats), Maharashtra (78 seats), Karnataka (75 seats), Andhra Pradesh (58 seats), and Telangana (40 seats).
+61. **Composition of State Legislative Council (Article 171):** Maximum strength is **1/3rd of total MLAs of the State**; minimum strength is **40 members**; Election breakdown: (1) **1/3rd elected by Local Authorities** (Municipalities, District Boards); (2) **1/12th elected by Graduates** of 3 years' standing; (3) **1/12th elected by Teachers** of 3 years' secondary standing; (4) **1/3rd elected by MLAs** from non-assembly members; (5) **1/6th nominated by Governor** from literature, science, art, cooperative movement, and social service.
+62. **Composition of State Legislative Assembly (Vidhan Sabha - Article 170):** Maximum strength **500 members**; minimum strength **60 members** (exceptions with smaller assemblies: Goa 40, Mizoram 40, Sikkim 32, Puducherry 30); Uttar Pradesh has the largest Legislative Assembly in India with **403 elected members**.
+63. **Disproportionate Power of Vidhan Sabha over Vidhan Parishad:** In passing ordinary bills, Legislative Council has only dilatory power: can delay bill for max **3 months** in first instance, and **1 month** in second instance (total maximum delay = **4 months**); there is **NO provision for a Joint Sitting** in state legislatures.
+64. **Money Bills in State Legislature (Article 198):** Can be introduced ONLY in Vidhan Sabha on Governor's recommendation; Vidhan Parishad cannot reject or amend, must return within **14 days**; Vidhan Sabha may accept or reject recommendations.
+65. **Secretariat of State Legislature (Article 187):** Each House of State Legislature has a separate secretarial staff; recruitment and conditions of service regulated by State Legislature by law.
 
 ## ⏱️ Timeline / Chronology
 
@@ -134,19 +149,6 @@ hide:
 | **1/3rd** | Elected by **Members of Legislative Assembly (MLAs)** from non-MLAs | PR-STV |
 | **1/6th** | **Nominated by Governor** (Literature, Science, Art, Co-op, Social Service) | Direct Gubernatorial nomination |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| Pardoning Power: Death Sentence | President (Art. 72) can **Pardon** death sentences. Governor (Art. 161) **CANNOT pardon death sentences** (can only suspend/remit/commute). | Claim Governor can pardon death sentence | राज्यपाल मृत्युदंड क्षमा नहीं कर सकता |
-| Repassed State Bill Assent | If State Assembly repasses bill returned by President, President **CAN STILL WITHHOLD ASSENT** (Art. 201). Not bound! | Assume President must assent to repassed state bill | राष्ट्रपति पुनर्विचारित राज्य विधेयक पर बाध्य नहीं |
-| Legislative Council Max Delay | Council can delay an ordinary bill for **max 4 months** (3 months first + 1 month second). Has NO veto! | Claim Council can kill a bill or delay for 6 months | विधान परिषद अधिकतम 4 माह रोक सकती है |
-| Joint Sitting in States | There is **NO JOINT SITTING** in State Legislatures under any circumstance. | Apply Art. 108 joint sitting to States | राज्यों में संयुक्त बैठक का कोई प्रावधान नहीं |
-| 1/6th Council Nomination Fields | Literature, Science, Art, **Co-operative Movement**, Social Service. (*Co-operatives is in Art. 171, NOT in Art. 80!*) | Exclude co-operatives or add it to President | सहकारिता केवल राज्यपाल के मनोनयन में |
-| Quorum in State Legislature | **10 members or 1/10th of total membership**, whichever is greater (Art. 189(3)). | Cite only 1/10th (Parliament rule) | 10 सदस्य या 1/10 (जो भी अधिक हो) |
-| State Council of Ministers Floor | Minimum **12 ministers** (Art. 164(1A)). Upper cap is 15% of SLA. | Omit the minimum floor of 12 | न्यूनतम 12 मंत्री अनिवार्य |
-| Advocate-General vs Attorney-General Tenure | Both hold office during **Executive Pleasure** (Governor/President). No fixed tenure! | Give 5 or 6 years fixed tenure | महाधिवक्ता = राज्यपाल के प्रसादपर्यंत |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Six Bicameral States Mnemonic:**
@@ -164,273 +166,250 @@ hide:
    - **3 + 1 = 4 Months Maximum!**
    - 3 months on first arrival; 1 month on second arrival. Assembly always wins!
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which one of the following is not correctly matched?
-A. Article 153 – Office of the Governor
-B. Article 154 – Executive Authority of the Governor
-C. Article 155 – Removal of the Governor
-D. Article 156 – Term of the Governor
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 155 is **appointment**.
-
-</details>
-
-**Q2.** According to the Constitution of India, the same person cannot function as the Governor of two or more States at the same time.
-
-**Reason (R):** Article 153 of the Indian Constitution states that there shall be a Governor for each State.
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 7th Amendment **allows** one person for two or more States.
-
-</details>
-
-**Q3.**
-With reference to the composition of the Legislative Council in a State of India, which statement(s) is/are correct?
-1. The Legislative Council may not have more than one-third of the total membership of the Legislative Assembly of that State.
-2. The Legislative Council of a State must have at least forty members.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both.**
-
-</details>
-
-**Q4.**
-What can be the minimum strength of Council of Ministers including Chief Minister in the States?
-A. 10
-B. 12
-C. 13
-D. 14
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 12.**
-
-</details>
-
-**Q5.**
-Which of the following is correct about the heading of the Article 162 of the Constitution of India?
-A. Executive Power of State
-B. Conditions of Governor's Office
-C. Term of the Office of Governor
-D. Extension of Executive Power of State
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — official heading of 162 is **Extent** of executive power of State (papers: “Extension”). A = 154; B = 158; C = 156.
-
-</details>
-
-**Q6.**
-Which of the following CAN NOT be dissolved but abolished?
-A. House of People
-B. Council of State
-C. Legislative Assembly
-D. Legislative Council
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Legislative Council.**
-
-</details>
-
-**Q7.**
-
-Consider the following statements regarding the office of Governor in India:
-1. The Constituent Assembly initially envisaged a directly elected Governor.
-2. The Governor of a State is elected by the State Legislative Assembly.
-3. India adopted the Canadian model of a Governor appointed by the Centre.
-4. Direct election was dropped partly to avoid a rival centre of power to the Chief Minister and to preserve Centre–State coordination.
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The nominated Governor fits parliamentary government; election was rejected to prevent conflict with the CM and separatist drift.
-
-**Ans: C. Statements 1, 3 and 4 are correct; the Governor is not elected by the Assembly.**
-
-</details>
-
-**Q8.**
-
-Who is the Constitutional Head of the State Government in India?
-
-A. Chief Minister
-B. Governor
-C. Chief Secretary
-D. Speaker of the Legislative Assembly
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Part VI follows the parliamentary pattern: Governor = nominal head; Council of Ministers headed by the CM = real executive.
-
-**Ans: B. The Governor is the constitutional head of the State Government.**
-
-</details>
-
-**Q9.**
-
-The Governor of a State is appointed by the
-
-A. President
-B. Prime Minister
-C. Chief Minister of the State
-D. Chief Justice of India
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Article 155 vests appointment in the President by warrant under his hand and seal.
-
-**Ans: A. President of India.**
-
-</details>
-
-**Q10.**
-
-The Governor of a State is appointed by the
-
-A. Prime Minister of India
-B. President of India
-C. Chief Minister of the State
-D. Chief Justice of the High Court
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same Art. 155 fact as other State PCS papers.
-
-**Ans: B. President of India.**
-
-</details>
-
-**Q11.**
-
-The appointment of the Governor of a State is made under which Article of the Constitution of India?
-
-A. Article 153
-B. Article 154
-C. Article 155
-D. Article 156
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 153 creates the office; 155 is appointment; 156 is term and pleasure.
-
-**Ans: C. Article 155.**
-
-</details>
-
-**Q12.**
-
-Consider the following statements about the Governor of a State:
-1. He must be a citizen of India by birth.
-2. He must have completed thirty-five years of age.
-3. He must be qualified to be chosen as a member of the Lok Sabha.
-4. The same person may be appointed Governor of two or more States.
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 4 only
-D. 2 and 4 only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Art. 157 needs citizenship and 35 years only — not birth, not LS/RS eligibility; the 7th Amendment proviso allows one person for two or more States.
-
-**Ans: D. Only statements 2 and 4 are correct.**
-
-</details>
-
-**Q13.**
-
-The qualifications for the office of Governor of a State are prescribed under which Article of the Constitution?
-
-A. Article 155
-B. Article 156
-C. Article 157
-D. Article 158
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 157 = qualifications; 158 = conditions of office.
-
-**Ans: C. Article 157.**
-
-</details>
-
-**Q14.**
-
-With reference to the oath of the Governor of a State, consider the following statements:
-1. It is administered by the Chief Justice of the High Court exercising jurisdiction in relation to the State.
-2. The form of oath is prescribed in the Third Schedule.
-3. In the absence of the Chief Justice, the senior-most judge of that High Court available administers the oath.
-4. The Governor swears to preserve, protect and defend the Constitution and devote himself to the service and well-being of the people of the State.
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 1, 3 and 4 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Governor’s oath is under Art. 159, not the Third Schedule; CJI does not administer — the State HC Chief Justice (or senior-most judge) does.
-
-**Ans: B. Statements 1, 3 and 4 only are correct.**
-
-</details>
-
-**Q15.**
-
-The oath of office to the Governor of a State is administered by the
-
-A. President of India
-B. Chief Justice of India
-C. Chief Justice of the High Court exercising jurisdiction in relation to the State
-D. Speaker of the Legislative Assembly
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Art. 159 read with the Schedule to that article; in the CJ’s absence the senior-most HC judge available acts.
-
-**Ans: C. Chief Justice of the High Court of the State.**
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is not correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 153 – Office of the Governor</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 154 – Executive Authority of the Governor</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 155 – Removal of the Governor</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 156 – Term of the Governor</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 155 is **appointment**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">According to the Constitution of India, the same person cannot function as the Governor of two or more States at the same time.<br><br>**Reason (R):** Article 153 of the Indian Constitution states that there shall be a Governor for each State.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is true, but (R) is false</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 7th Amendment **allows** one person for two or more States.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the composition of the Legislative Council in a State of India, which statement(s) is/are correct?<br>1. The Legislative Council may not have more than one-third of the total membership of the Legislative Assembly of that State.<br>2. The Legislative Council of a State must have at least forty members.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">What can be the minimum strength of Council of Ministers including Chief Minister in the States?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 10</div><div class="pyq-opt"><span class="opt-letter">B</span> 12</div><div class="pyq-opt"><span class="opt-letter">C</span> 13</div><div class="pyq-opt"><span class="opt-letter">D</span> 14</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 12.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following is correct about the heading of the Article 162 of the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Executive Power of State</div><div class="pyq-opt"><span class="opt-letter">B</span> Conditions of Governor's Office</div><div class="pyq-opt"><span class="opt-letter">C</span> Term of the Office of Governor</div><div class="pyq-opt"><span class="opt-letter">D</span> Extension of Executive Power of State</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> official heading of 162 is **Extent** of executive power of State (papers: “Extension”). A = 154; B = 158; C = 156.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following CAN NOT be dissolved but abolished?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> House of People</div><div class="pyq-opt"><span class="opt-letter">B</span> Council of State</div><div class="pyq-opt"><span class="opt-letter">C</span> Legislative Assembly</div><div class="pyq-opt"><span class="opt-letter">D</span> Legislative Council</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Legislative Council.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements regarding the office of Governor in India:<br>1. The Constituent Assembly initially envisaged a directly elected Governor.<br>2. The Governor of a State is elected by the State Legislative Assembly.<br>3. India adopted the Canadian model of a Governor appointed by the Centre.<br>4. Direct election was dropped partly to avoid a rival centre of power to the Chief Minister and to preserve Centre–State coordination.<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The nominated Governor fits parliamentary government; election was rejected to prevent conflict with the CM and separatist drift.
+
+**Ans: C. Statements 1, 3 and 4 are correct; the Governor is not elected by the Assembly.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Who is the Constitutional Head of the State Government in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chief Minister</div><div class="pyq-opt"><span class="opt-letter">B</span> Governor</div><div class="pyq-opt"><span class="opt-letter">C</span> Chief Secretary</div><div class="pyq-opt"><span class="opt-letter">D</span> Speaker of the Legislative Assembly</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Part VI follows the parliamentary pattern: Governor = nominal head; Council of Ministers headed by the CM = real executive.
+
+**Ans: B. The Governor is the constitutional head of the State Government.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">The Governor of a State is appointed by the</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> President</div><div class="pyq-opt"><span class="opt-letter">B</span> Prime Minister</div><div class="pyq-opt"><span class="opt-letter">C</span> Chief Minister of the State</div><div class="pyq-opt"><span class="opt-letter">D</span> Chief Justice of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Article 155 vests appointment in the President by warrant under his hand and seal.
+
+**Ans: A. President of India.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The Governor of a State is appointed by the</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Prime Minister of India</div><div class="pyq-opt"><span class="opt-letter">B</span> President of India</div><div class="pyq-opt"><span class="opt-letter">C</span> Chief Minister of the State</div><div class="pyq-opt"><span class="opt-letter">D</span> Chief Justice of the High Court</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Same Art. 155 fact as other State PCS papers.
+
+**Ans: B. President of India.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The appointment of the Governor of a State is made under which Article of the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 153</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 154</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 155</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 156</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 153 creates the office; 155 is appointment; 156 is term and pleasure.
+
+**Ans: C. Article 155.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about the Governor of a State:<br>1. He must be a citizen of India by birth.<br>2. He must have completed thirty-five years of age.<br>3. He must be qualified to be chosen as a member of the Lok Sabha.<br>4. The same person may be appointed Governor of two or more States.<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 4 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Art. 157 needs citizenship and 35 years only — not birth, not LS/RS eligibility; the 7th Amendment proviso allows one person for two or more States.
+
+**Ans: D. Only statements 2 and 4 are correct.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The qualifications for the office of Governor of a State are prescribed under which Article of the Constitution?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 155</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 156</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 157</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 158</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 157 = qualifications; 158 = conditions of office.
+
+**Ans: C. Article 157.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to the oath of the Governor of a State, consider the following statements:<br>1. It is administered by the Chief Justice of the High Court exercising jurisdiction in relation to the State.<br>2. The form of oath is prescribed in the Third Schedule.<br>3. In the absence of the Chief Justice, the senior-most judge of that High Court available administers the oath.<br>4. The Governor swears to preserve, protect and defend the Constitution and devote himself to the service and well-being of the people of the State.<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Governor’s oath is under Art. 159, not the Third Schedule; CJI does not administer — the State HC Chief Justice (or senior-most judge) does.
+
+**Ans: B. Statements 1, 3 and 4 only are correct.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The oath of office to the Governor of a State is administered by the</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> President of India</div><div class="pyq-opt"><span class="opt-letter">B</span> Chief Justice of India</div><div class="pyq-opt"><span class="opt-letter">C</span> Chief Justice of the High Court exercising jurisdiction in relation to the State</div><div class="pyq-opt"><span class="opt-letter">D</span> Speaker of the Legislative Assembly</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Art. 159 read with the Schedule to that article; in the CJ’s absence the senior-most HC judge available acts.
+
+**Ans: C. Chief Justice of the High Court of the State.</div>
+  </div>
+</div>

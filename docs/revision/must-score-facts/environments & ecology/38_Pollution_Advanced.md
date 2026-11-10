@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 38 — Pollution (Advanced)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Primary** air pollutants are emitted directly (SO₂, PM, CO, NOx, lead). **Secondary** pollutants form in air (O₃, PAN, photochemical smog, acid mist).
@@ -75,22 +64,6 @@ hide:
 49. **Catalytic converters** use **platinum, palladium, and rhodium** to convert CO → CO₂, NOx → N₂, and HC → CO₂ + H₂O.
 50. **H-CNG** (hydrogen-enriched CNG) can cut CO/HC/CO₂ versus CNG; hydrogen up to about **one-fifth** by volume can be blended; it does **not eliminate** CO and is **not** cheaper than CNG.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Atmospheric & Pollution Milestones
-
-```
-1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
-1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
-1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
-1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
-1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
-1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
-2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
-2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
-```
-
 ## 📊 Quick Reference Grid
 
 ### Air / water
@@ -107,316 +80,253 @@ hide:
 | CGWB ≠ CPCB | GW quality report / ambient air–surface water |
 | Disease locks | Fluoride knock-knee · As Black Foot · Hg Minamata · Cd Itai-itai |
 | Damodar / Ganga BOD | Biological desert / Kanpur–Allahabad peak class |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Primary Air Pollutant** | **Secondary Air Pollutant** | Emitted directly from identifiable sources (CO, SO₂, NO, PM) vs formed in atmosphere through photochemical reactions (Ozone, PAN, Smog, Acid Rain) | प्राथमिक प्रदूषक (सीधे उत्सर्जित) / द्वितीयक प्रदूषक (रासायनिक क्रिया) |
-| **Biological Oxygen Demand (BOD)** | **Chemical Oxygen Demand (COD)** | Amount of dissolved O₂ required by aerobic bacteria to decompose organic matter vs amount of oxygen required to chemically oxidize all biodegradable and non-biodegradable matter | जैव रासायनिक ऑक्सीजन मांग (BOD) / रासायनिक ऑक्सीजन मांग (COD) |
-| **Classical (London) Smog** | **Photochemical (Los Angeles) Smog** | Occurs in cool, humid winter mornings; sulfurous, reducing, coal-smoke based vs occurs in dry, sunny afternoons; oxidizing, auto-exhaust NOx + VOCs generating ground ozone and PAN | लंदन स्मॉग (सल्फ्यूरस, अपचायक) / प्रकाश रासायनिक स्मॉग (ऑक्सीकारक) |
-| **Central Pollution Control Board (CPCB)** | **Central Ground Water Board (CGWB)** | Statutory body under Water Act 1974 for overall air/water quality monitoring vs apex subordinate office under Jal Shakti Ministry for groundwater management | सीपीसीबी (प्रदूषण नियंत्रण) / सीजीडब्ल्यूबी (भूजल बोर्ड) |
-| **SAFAR** | **NCAP** | Ministry of Earth Sciences real-time metropolitan air quality forecasting system vs MoEFCC national targeted programme to cut PM2.5/PM10 by 20–30% across 131 non-attainment cities | सफर (सटीक पूर्वानुमान प्रणाली) / राष्ट्रीय स्वच्छ वायु कार्यक्रम |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Consider the following statements:
-
-1. Lichens are very good indicators of pollution.
-2. Lichens grow well in polluted areas.
-
-A. Only 2
-B. Neither
-C. Both
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lichens are sensitive bio-indicators — they die back in polluted air; they do not thrive in it.
-
-**Ans: D (Only 1).** Statement 1 true; statement 2 false — lichens are **sensitive**, not pollution-tolerant. **Trap:** “Indicator” mistaken for “thrives in dirty air.”
-
-</details>
-
-**Q2.**
-
-Annual Groundwater Quality Report 2024 was prepared by:
-
-1. Central Pollution Control Board (CPCB)
-2. Central Water Commission (CWC)
-3. Central Ground Water Board (CGWB)
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Groundwater quality reporting is CGWB’s mandate — not CPCB or CWC.
-
-**Ans: B (Only 3).** **CGWB** publishes the annual groundwater quality report. **Trap:** Swapping CPCB (air/surface water) with CGWB.
-
-</details>
-
-**Q3.**
-
-Biological Oxygen Demand (BOD) is a standard criterion for—
-
-A. Pollution assay in aquatic ecosystems
-B. High-altitude O₂
-C. Blood O₂
-D. Forest O₂
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** BOD measures microbial oxygen demand in water — an aquatic pollution assay, not blood oxygen.
-
-**Ans: A.** **BOD** assays organic pollution in rivers/lakes. **Trap:** “Oxygen” in the name → blood or altitude distractors.
-
-</details>
-
-**Q4.**
-
-Which is not a biodegradable pollutant?
-
-A. Domestic waste
-B. Urine
-C. Faecal matter
-D. Pesticide
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Pesticides persist and are not readily biodegradable unlike domestic organic waste.
-
-**Ans: D.** **Pesticides** are persistent; domestic waste, urine, and faecal matter biodegrade. **Trap:** Assuming all “natural” chemicals biodegrade quickly.
-
-</details>
-
-**Q5.**
-
-Photochemical smog always contains—
-
-A. Phosphorus
-B. Ozone
-C. Methane
-D. Aluminium ion
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Photochemical smog always contains ozone as a key secondary product.
-
-**Ans: B.** NOx + VOCs + sunlight → **O₃** (+ PAN). **Trap:** London SO₂ smog without ozone chemistry.
-
-</details>
-
-**Q6.**
-
-According to UNEP Frontier Report 2022, the second most noise-polluted city was:
-
-A. Kota
-B. Moradabad
-C. Indore
-D. Patna
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UNEP Frontier Report 2022 ranked Moradabad among the world’s noisiest cities.
-
-**Ans: B.** **Moradabad** (UP brassware hub) was #2 in that report. **Trap:** Kota/Indore as generic UP/North India distractors.
-
-</details>
-
-**Q7.**
-
-Which country has natural arsenic water contamination?
-
-A. Sri Lanka
-B. Bangladesh
-C. Bhutan
-D. Pakistan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Natural arsenic in groundwater is classically associated with Bangladesh / lower Gangetic basin.
-
-**Ans: B.** **Bangladesh** is the textbook arsenic hotspot (Gangetic plains geology). **Trap:** Assuming arsenic is India-exclusive only.
-
-</details>
-
-**Q8.**
-
-Match the area with permissible noise level (daytime, as in paper):
-
-| Area | Level (dB) |
-| --- | --- |
-| Residential | 55 |
-| Silence zone | 50 |
-| Industrial | 70 |
-| Commercial | 65 |
-
-*Row order is not the answer code.*
-
-A. Residential–50; Silence–55; Industrial–65; Commercial–70
-B. Residential–65; Silence–75; Industrial–50; Commercial–55
-C. Residential–55; Silence–50; Industrial–70; Commercial–65
-D. All zones at 75 dB
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CPCB daytime noise limits — silence zone lowest, then residential, commercial, industrial highest.
-
-**Ans: C.** Residential **55**, Silence **50**, Industrial **70**, Commercial **65** — silence < residential < commercial < industrial (paper industrial **70**; teach CPCB day industrial **75 dB** in notes). **Trap:** Reversing silence vs residential or using one dB for all zones.
-
-</details>
-
-**Q9.**
-
-Flyash pollution is caused by
-
-A. Oil refining
-B. Fertilizer industry
-C. Thermal power plant
-D. Mining
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Fly ash is a primary pollutant from coal thermal power plants — usable in bricks/cement.
-
-**Ans: C.** **Thermal power plants** emit fly ash (SiO₂/Al₂O₃/CaO plus toxic metals). **Trap:** Calling fly ash a secondary pollutant like smog.
-
-</details>
-
-**Q10.**
-
-With reference to smog, consider the following:
-
-1. Smog is essentially caused by oxides of nitrogen and sulphur in the atmosphere.
-2. Among CO, CO₂, and fly ash, smog is the secondary pollutant.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Smog is a secondary pollutant; classical smog links to oxides of nitrogen and sulphur.
-
-**Ans: C.** Statement 1 matches **2019 Q136** (oxides of N and S); statement 2 matches **2018 Q121** (smog secondary; fly ash/CO primary). **Trap:** Treating fly ash or stack SO₂ alone as “smog” without atmospheric formation.
-
-</details>
-
-**Q11.** Human-made pollutants / human-modified environment are called—
-
-A. Natural only
-
-B. Anthropogenic
-
-C. Xenobiotic antibiotics only
-
-D. Humalins
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** These stems recycle bank traps on anthropogenic pollution, AQI gases, control devices, diseases, and remediation.
-
-**Ans: B.** Anthropogenic means caused or influenced by humans.
-
-</details>
-
-**Q12.** Which is biodegradable among typical options?
-
-A. Mercury
-
-B. Plastic / asbestos
-
-C. Sewage
-
-D. Pesticide
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Sewage/domestic organic waste biodegrades; pesticide/plastic/Hg/asbestos do not (or only very slowly).
-
-</details>
-
-**Q13.** India’s AQI includes which set?
-
-A. CO₂ and CH₄ only
-
-B. PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb
-
-C. Only methane and CFC
-
-D. Only radon and neon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Eight criteria pollutants — not CO₂/CH₄.
-
-</details>
-
-**Q14.** Powerful eye irritant in photochemical smog—
-
-A. Argon
-
-B. Peroxyacetyl nitrate (PAN)
-
-C. Pure nitrogen
-
-D. Helium
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** PAN is a secondary lachrymator in photochemical smog.
-
-</details>
-
-**Q15.** Most important classic indoor air pollutant gas—
-
-A. Outdoor ozone only
-
-B. Radon
-
-C. Stratospheric CFCs only
-
-D. Pure oxygen
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Radon from soil/radium accumulates indoors and raises lung-cancer risk.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Lichens are very good indicators of pollution.<br>2. Lichens grow well in polluted areas.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither</div><div class="pyq-opt"><span class="opt-letter">C</span> Both</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Lichens are sensitive bio-indicators — they die back in polluted air; they do not thrive in it.
+
+**Ans: D (Only 1).** Statement 1 true; statement 2 false — lichens are **sensitive**, not pollution-tolerant. **Trap:** “Indicator” mistaken for “thrives in dirty air.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Annual Groundwater Quality Report 2024 was prepared by:<br><br>1. Central Pollution Control Board (CPCB)<br>2. Central Water Commission (CWC)<br>3. Central Ground Water Board (CGWB)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Groundwater quality reporting is CGWB’s mandate — not CPCB or CWC.
+
+**Ans: B (Only 3).** **CGWB** publishes the annual groundwater quality report. **Trap:** Swapping CPCB (air/surface water) with CGWB.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Biological Oxygen Demand (BOD) is a standard criterion for—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pollution assay in aquatic ecosystems</div><div class="pyq-opt"><span class="opt-letter">B</span> High-altitude O₂</div><div class="pyq-opt"><span class="opt-letter">C</span> Blood O₂</div><div class="pyq-opt"><span class="opt-letter">D</span> Forest O₂</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** BOD measures microbial oxygen demand in water — an aquatic pollution assay, not blood oxygen.
+
+**Ans: A.** **BOD** assays organic pollution in rivers/lakes. **Trap:** “Oxygen” in the name → blood or altitude distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which is not a biodegradable pollutant?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Domestic waste</div><div class="pyq-opt"><span class="opt-letter">B</span> Urine</div><div class="pyq-opt"><span class="opt-letter">C</span> Faecal matter</div><div class="pyq-opt"><span class="opt-letter">D</span> Pesticide</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Pesticides persist and are not readily biodegradable unlike domestic organic waste.
+
+**Ans: D.** **Pesticides** are persistent; domestic waste, urine, and faecal matter biodegrade. **Trap:** Assuming all “natural” chemicals biodegrade quickly.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Photochemical smog always contains—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Phosphorus</div><div class="pyq-opt"><span class="opt-letter">B</span> Ozone</div><div class="pyq-opt"><span class="opt-letter">C</span> Methane</div><div class="pyq-opt"><span class="opt-letter">D</span> Aluminium ion</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Photochemical smog always contains ozone as a key secondary product.
+
+**Ans: B.** NOx + VOCs + sunlight → **O₃** (+ PAN). **Trap:** London SO₂ smog without ozone chemistry.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">According to UNEP Frontier Report 2022, the second most noise-polluted city was:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kota</div><div class="pyq-opt"><span class="opt-letter">B</span> Moradabad</div><div class="pyq-opt"><span class="opt-letter">C</span> Indore</div><div class="pyq-opt"><span class="opt-letter">D</span> Patna</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UNEP Frontier Report 2022 ranked Moradabad among the world’s noisiest cities.
+
+**Ans: B.** **Moradabad** (UP brassware hub) was #2 in that report. **Trap:** Kota/Indore as generic UP/North India distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which country has natural arsenic water contamination?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sri Lanka</div><div class="pyq-opt"><span class="opt-letter">B</span> Bangladesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Bhutan</div><div class="pyq-opt"><span class="opt-letter">D</span> Pakistan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Natural arsenic in groundwater is classically associated with Bangladesh / lower Gangetic basin.
+
+**Ans: B.** **Bangladesh** is the textbook arsenic hotspot (Gangetic plains geology). **Trap:** Assuming arsenic is India-exclusive only.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match the area with permissible noise level (daytime, as in paper):<br><br>| Area | Level (dB) |<br>| --- | --- |<br>| Residential | 55 |<br>| Silence zone | 50 |<br>| Industrial | 70 |<br>| Commercial | 65 |<br><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Residential–50; Silence–55; Industrial–65; Commercial–70</div><div class="pyq-opt"><span class="opt-letter">B</span> Residential–65; Silence–75; Industrial–50; Commercial–55</div><div class="pyq-opt"><span class="opt-letter">C</span> Residential–55; Silence–50; Industrial–70; Commercial–65</div><div class="pyq-opt"><span class="opt-letter">D</span> All zones at 75 dB</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** CPCB daytime noise limits — silence zone lowest, then residential, commercial, industrial highest.
+
+**Ans: C.** Residential **55**, Silence **50**, Industrial **70**, Commercial **65** — silence < residential < commercial < industrial (paper industrial **70**; teach CPCB day industrial **75 dB** in notes). **Trap:** Reversing silence vs residential or using one dB for all zones.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Flyash pollution is caused by</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Oil refining</div><div class="pyq-opt"><span class="opt-letter">B</span> Fertilizer industry</div><div class="pyq-opt"><span class="opt-letter">C</span> Thermal power plant</div><div class="pyq-opt"><span class="opt-letter">D</span> Mining</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Fly ash is a primary pollutant from coal thermal power plants — usable in bricks/cement.
+
+**Ans: C.** **Thermal power plants** emit fly ash (SiO₂/Al₂O₃/CaO plus toxic metals). **Trap:** Calling fly ash a secondary pollutant like smog.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to smog, consider the following:<br><br>1. Smog is essentially caused by oxides of nitrogen and sulphur in the atmosphere.<br>2. Among CO, CO₂, and fly ash, smog is the secondary pollutant.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Smog is a secondary pollutant; classical smog links to oxides of nitrogen and sulphur.
+
+**Ans: C.** Statement 1 matches **2019 Q136** (oxides of N and S); statement 2 matches **2018 Q121** (smog secondary; fly ash/CO primary). **Trap:** Treating fly ash or stack SO₂ alone as “smog” without atmospheric formation.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Human-made pollutants / human-modified environment are called—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Natural only</div><div class="pyq-opt"><span class="opt-letter">B</span> Anthropogenic</div><div class="pyq-opt"><span class="opt-letter">C</span> Xenobiotic antibiotics only</div><div class="pyq-opt"><span class="opt-letter">D</span> Humalins</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** These stems recycle bank traps on anthropogenic pollution, AQI gases, control devices, diseases, and remediation.
+
+**Ans: B.** Anthropogenic means caused or influenced by humans.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which is biodegradable among typical options?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mercury</div><div class="pyq-opt"><span class="opt-letter">B</span> Plastic / asbestos</div><div class="pyq-opt"><span class="opt-letter">C</span> Sewage</div><div class="pyq-opt"><span class="opt-letter">D</span> Pesticide</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sewage/domestic organic waste biodegrades; pesticide/plastic/Hg/asbestos do not (or only very slowly).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">India’s AQI includes which set?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> CO₂ and CH₄ only</div><div class="pyq-opt"><span class="opt-letter">B</span> PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb</div><div class="pyq-opt"><span class="opt-letter">C</span> Only methane and CFC</div><div class="pyq-opt"><span class="opt-letter">D</span> Only radon and neon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Eight criteria pollutants — not CO₂/CH₄.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Powerful eye irritant in photochemical smog—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Argon</div><div class="pyq-opt"><span class="opt-letter">B</span> Peroxyacetyl nitrate (PAN)</div><div class="pyq-opt"><span class="opt-letter">C</span> Pure nitrogen</div><div class="pyq-opt"><span class="opt-letter">D</span> Helium</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> PAN is a secondary lachrymator in photochemical smog.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Most important classic indoor air pollutant gas—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Outdoor ozone only</div><div class="pyq-opt"><span class="opt-letter">B</span> Radon</div><div class="pyq-opt"><span class="opt-letter">C</span> Stratospheric CFCs only</div><div class="pyq-opt"><span class="opt-letter">D</span> Pure oxygen</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Radon from soil/radium accumulates indoors and raises lung-cancer risk.</div>
+  </div>
+</div>

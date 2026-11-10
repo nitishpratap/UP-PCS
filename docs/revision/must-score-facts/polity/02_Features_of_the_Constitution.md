@@ -85,6 +85,21 @@ hide:
 48. **Federalism as Basic Structure:** In *S.R. Bommai (1994)*, the Supreme Court unequivocally ruled that **Federalism is a part of the Basic Structure** of the Constitution; States are not mere vassals or administrative agencies of the Centre.
 49. **Harmony between Rights and Directives:** In *Minerva Mills (1980)*, CJI Y.V. Chandrachud observed: "To give absolute primacy to one over the other is to disturb the harmony of the Constitution. Part III and Part IV are like two wheels of a chariot."
 50. **Balance of Rigidity and Flexibility Matrix:** Article 368 does not follow a monolithic formula: simple majority provisions ensure daily adaptability, special majority ensures national consensus, and state ratification ensures federal integrity.
+51. **Preamble Text Sequence & Landmark Landmark:** The exact preamble sequence of sovereign declarations is: **SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC**; 'Socialist', 'Secular', and 'Integrity' were incorporated by the **42nd Constitutional Amendment Act, 1976**.
+52. **Three Dimensions of Justice:** Justice in the Preamble encompasses **Social, Economic, and Political** dimensions; this noble ideal was directly inspired by the **Russian Revolution of 1917**.
+53. **Five Facets of Liberty:** The Preamble guarantees Liberty of **Thought, Expression, Belief, Faith, and Worship**; these ideals of Liberty, Equality, and Fraternity were adopted from the **French Revolution (1789–1799)**.
+54. **Two Facets of Equality:** The Preamble secures Equality of **Status** and of **Opportunity**, aiming to eradicate artificial civic, economic, and political distinctions (enforced via Articles 14–18 and Article 325/326).
+55. **Preamble Adoption Date in Hindi Calendar:** The English date is **26th November 1949**; the Preamble also records the traditional Hindi calendar date: **Miti Margashirsha Shukla Saptami, Samvat 2006 Vikrami**.
+56. **Berubari Union (1960) vs Kesavananda Bharati (1973):** In *Berubari Union case (1960)*, the SC held Preamble is NOT part of the Constitution; in *Kesavananda Bharati (1973)*, a 13-judge bench overruled Berubari, holding the **Preamble IS an integral part of the Constitution** and subject to Article 368 without altering basic structure.
+57. **LIC of India Case (1995):** The Supreme Court once again reaffirmed that the **Preamble is an integral part of the Constitution**, though it remains non-justiciable and cannot be directly enforced in a court of law.
+58. **Indestructible Union of Destructible States:** Dr. B.R. Ambedkar termed the Indian federation an 'Indestructible Union of destructible states' because states have no right to secede (Article 1) and Parliament can alter state boundaries without state consent (Article 3).
+59. **Scholarly Characterizations of Indian Federalism:** **K.C. Wheare** classified it as *'Quasi-Federal'*; **Granville Austin** designated it *'Cooperative Federalism'*; **Morris-Jones** termed it *'Bargaining Federalism'*; **Ivor Jennings** described it as a *'Federation with a strong centralizing tendency'*.
+60. **Doctrine of Basic Structure Evolution:** First articulated in *Kesavananda Bharati (1973)*; reaffirmed in *Minerva Mills (1980)* (balance between Fundamental Rights and DPSPs is part of basic structure); *S.R. Bommai (1994)* held secularism and federalism are basic structure components.
+61. **Parliamentary Executive - Dual Executive System:** The **President is the de jure (nominal/titular) executive**, while the **Prime Minister is the de facto (real) executive**; Article 75(3) mandates collective responsibility of the Council of Ministers exclusively to the House of the People (Lok Sabha).
+62. **Independent vs Integrated Judiciary:** The Indian Constitution establishes an **integrated judicial hierarchy** (Supreme Court at apex, High Courts, Subordinate Courts enforcing both Central and State laws), distinct from the dual court system of the United States.
+63. **Universal Adult Suffrage (Article 326):** Adopted from the commencement of the Constitution; the voting age was reduced from 21 years to **18 years** by the **61st Constitutional Amendment Act, 1988** (enforced 28 March 1989).
+64. **Single Citizenship Exceptionless Principle:** Unlike dual-citizenship federations (USA, Switzerland), the Indian Constitution provides **only single Indian citizenship** for the entire nation, guaranteeing equal civil and political rights irrespective of state domicile.
+65. **Three-Tier Governance Innovation:** Originally bicameral at Centre and States; the **73rd and 74th Amendments (1992)** added constitutional status to rural Panchayats (Part IX) and urban Municipalities (Part IX-A), creating a unique 3-tier federal governance structure found in no other major world constitution.
 
 ## ⏱️ Timeline / Chronology
 
@@ -147,23 +162,6 @@ hide:
 | **South Africa** | Procedure for amendment of the Constitution (Art. 368), Election of members of Rajya Sabha |
 | **Japan** | Procedure established by Law (Art. 21) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| Quasi-Federal vs Cooperative Federalism | **Quasi-Federal** = K.C. Wheare; **Cooperative** = Granville Austin | Swap the scholars | अर्द्ध-संघीय = के.सी. व्हेयर; सहकारी = ऑस्टिन |
-| Bargaining Federalism vs Centralising Tendency | **Bargaining** = Morris-Jones; **Centralising** = Sir Ivor Jennings | Swap the authors | सौदेबाजी = मॉरिस जोन्स; केंद्रीकरण = जेनिंग्स |
-| Residuary Powers Source | Borrowed from **Canada** (vested in Centre) | Attribute to Australia or USA | अवशिष्ट शक्तियाँ = कनाडा (केंद्र में) |
-| Concurrent List Source | Borrowed from **Australia** | Attribute to Canada | समवर्ती सूची = ऑस्ट्रेलिया |
-| Procedure Established by Law vs Due Process | **Procedure Established by Law** = Japan (Art. 21); **Due Process** = USA (Maneka Gandhi interpretation) | Say Due Process is explicitly written in Art. 21 | विधि द्वारा स्थापित प्रक्रिया = जापान |
-| Suspension of FRs Source | **Weimar Constitution (Germany)** | Claim it is from UK or USA | आपातकाल में मूल अधिकार निलंबन = जर्मनी |
-| DPSP Source vs FR Source | **DPSP** = Ireland; **FR** = USA | Swap countries | नीति निदेशक तत्व = आयरलैंड; मूल अधिकार = अमेरिका |
-| Single Citizenship Source | Borrowed from **UK** (India has NO state citizenship) | Claim USA model (USA has dual citizenship) | एकल नागरिकता = ब्रिटेन |
-| Emergency Provisions Core vs FR Suspension | General emergency provisions = **GOI Act 1935**; Suspension of FRs = **Germany** | Attribute entire emergency chapter to Germany | आपात उपबंध = 1935 अधिनियम; निलंबन = जर्मनी |
-| Election of Rajya Sabha Members vs Nomination | Election of RS members = **South Africa**; Nomination of 12 members = **Ireland** | Attribute both to Ireland | राज्यसभा सदस्य चुनाव = द. अफ्रीका; मनोनयन = आयरलैंड |
-| Amendment Procedure Source | Borrowed from **South Africa** (Art. 368) | Attribute to USA or UK | संविधान संशोधन = दक्षिण अफ्रीका |
-| Preamble Words Source | 'Socialist, Secular, Integrity' = **42nd Amd 1976**; 'Liberty, Equality, Fraternity' = **French Revolution** | Attribute Socialist/Secular to 1950 Preamble | बंधुत्व/समानता = फ्रांस; समाजवादी = 42वां |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Constitutional Source Acronyms:**
@@ -180,269 +178,258 @@ hide:
 3. **The Four Democratic Bulwarks:**
    - **ECI + CAG + UPSC + SPSC** &rarr; The 4 non-negotiable institutional pillars.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-**Assertion (A):** India has a parliamentary system of government.
-**Reason (R):** In India, the executive is collectively responsible to the legislature.
-
-Select the correct answer from the codes given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — In a parliamentary system, the core defining feature is executive accountability to the legislature (Council of Ministers responsible to Lok Sabha).
-</details>
-
-**Q2.**
-Which of the following words were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment Act, 1976?
-
-1. Socialist
-2. Secular
-3. Sovereignty
-4. Republic
-
-Select the correct answer using the code given below:
-
-A. 1 and 3
-B. 3 and 4
-C. 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — The 42nd Amendment added three words: 'Socialist', 'Secular', and 'Integrity'. The original 1950 Preamble already declared India a 'Sovereign Democratic Republic'.
-</details>
-
-**Q3.**
-Which of the following provisions and their constitutional sources are correctly matched?
-
-1. Directive Principles of State Policy — Ireland
-2. Residuary Powers of the Centre — Canada
-3. Procedure for Constitutional Amendment — South Africa
-4. Suspension of Fundamental Rights during Emergency — Germany (Weimar Constitution)
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All four are correctly matched: DPSP (Ireland), Residuary powers (Canada), Amendment procedure (South Africa), and Emergency FR suspension (Germany).
-</details>
-
-**Q4.**
-Identify the correct chronological sequence of landmark Supreme Court cases on Constitutional Amendments and Basic Structure:
-
-1. Shankari Prasad vs Union of India
-2. Sajjan Singh vs State of Rajasthan
-3. Golaknath vs State of Punjab
-4. Kesavananda Bharati vs State of Kerala
-
-Select the correct code:
-
-A. 1, 4, 3, 2
-B. 3, 2, 1, 4
-C. 1, 2, 3, 4
-D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Shankari Prasad (1951) → Sajjan Singh (1965) → Golaknath (1967) → Kesavananda Bharati (1973).
-</details>
-
-**Q5.**
-Match List-I (Scholar / Political Scientist) with List-II (Description of Indian Federalism):
-
-**List-I**
-A. Cooperative Federalism
-B. Bargaining Federalism
-C. Quasi-Federalism
-D. Federalism with a Centralising Tendency
-
-**List-II**
-1. K.C. Wheare
-2. Sir Ivor Jennings
-3. Morris-Jones
-4. Granville Austin
-
-Select the correct code:
-
-A. 2 4 3 1
-B. 2 1 4 3
-C. 4 3 1 2
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Cooperative = Granville Austin; Bargaining = Morris-Jones; Quasi-Federal = K.C. Wheare; Centralising Tendency = Sir Ivor Jennings.
-</details>
-
-**Q6.**
-The doctrine of 'Basic Structure of the Constitution' was enunciated by the Supreme Court of India in which landmark verdict?
-
-A. Kesavananda Bharati vs State of Kerala (1973)
-B. Golaknath vs State of Punjab (1967)
-C. Minerva Mills vs Union of India (1980)
-D. Shankari Prasad vs Union of India (1951)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — A 13-judge bench in Kesavananda Bharati (24 April 1973) propounded the Basic Structure doctrine, limiting Parliament's amending power under Art. 368.
-</details>
-
-**Q7.**
-Arrange the following constitutional milestones in chronological sequence:
-
-I. Golaknath Case verdict
-II. 24th Constitutional Amendment Act
-III. Kesavananda Bharati Case verdict
-IV. 42nd Constitutional Amendment Act
-
-Select the correct code:
-
-A. I, II, III, IV
-B. I, III, II, IV
-C. III, I, II, IV
-D. III, I, IV, II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Golaknath (Feb 1967) → 24th Amendment (Nov 1971) → Kesavananda Bharati (Apr 1973) → 42nd Amendment (1976).
-</details>
-
-**Q8.**
-Which of the following terms is NOT mentioned in the Preamble of the Constitution of India?
-
-A. Sovereign
-B. Democratic
-C. Secular
-D. Federal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — The word 'Federal' does not appear anywhere in the Preamble (nor in Article 1, which uses 'Union of States').
-</details>
-
-**Q9.**
-When was the institutional 'third tier' of democratic decentralization (Panchayats and Municipalities) constitutionally added to the Indian federal system?
-
-A. 1990
-B. 1991
-C. 1992
-D. 1995
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — The 73rd and 74th Constitutional Amendment Acts were enacted by Parliament in 1992 (enforced in 1993), formally establishing the third tier of local self-government.
-</details>
-
-**Q10.**
-By which Constitutional Amendment Act was the voting age for Lok Sabha and State Legislative Assembly elections reduced from 21 years to 18 years?
-
-A. 42nd Amendment Act
-B. 44th Amendment Act
-C. 61st Amendment Act
-D. 73rd Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — The 61st Constitutional Amendment Act (enacted 1988, enforced 1989) amended Article 326 to lower the voting age from 21 to 18 years.
-</details>
-
-**Q11.**
-**Assertion (A):** The Constitution of India describes a 'Quasi-Federal' system with a strong unitary bias.
-**Reason (R):** India has an independent judiciary with the power of judicial review.
-
-Select the correct code:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both statements are true, but independent judiciary is a federal safeguard, not the reason why India is called quasi-federal (which is due to unitary features like single citizenship, emergency powers, and Centre's overriding powers).
-</details>
-
-**Q12.**
-With reference to the federal system in India, which of the following statements is/are correct?
-
-1. States have no constitutional right to secede from the Union of India.
-2. Mere advocacy of secession enjoys the absolute protection of freedom of expression under Article 19(1)(a).
-
-Select the correct code:
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1 only. India is an 'indestructible Union of destructible States'; States cannot secede. Under the 16th Amendment (1963), freedom of speech is subject to reasonable restrictions in the interests of the sovereignty and integrity of India.
-</details>
-
-**Q13.**
-Which prominent constitutional scholar coined the term that the Indian Constitution is "Quasi-Federal"?
-
-A. Lord Bryce
-B. Sir Ivor Jennings
-C. Harold Laski
-D. K.C. Wheare
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Professor K.C. Wheare described the Indian Constitution as 'quasi-federal' (unitary state with subsidiary federal features rather than a federal state with subsidiary unitary features).
-</details>
-
-**Q14.**
-What is the legal status and enforceability of the Preamble of the Indian Constitution in courts of law?
-
-A. It is legally enforceable as an independent fundamental right
-B. It is not enforceable in a court of law on its own
-C. It can be enforced by issuing writs under Article 32
-D. It has higher judicial authority than the operative Articles of Part III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — As affirmed in Union of India v. LIC of India and Kesavananda Bharati, while the Preamble is an integral part of the Constitution, it is non-justiciable and not directly enforceable in a court of law.
-</details>
-
-**Q15.**
-How many types of Justice, Liberty, Equality, and Fraternity (in that exact sequence) are enshrined in the Preamble to the Constitution of India?
-
-A. 3, 5, 2, 1
-B. 1, 3, 5, 2
-C. 2, 5, 3, 1
-D. 5, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Justice (3: Social, Economic, Political); Liberty (5: Thought, Expression, Belief, Faith, Worship); Equality (2: Status, Opportunity); Fraternity (1: Assuring dignity of individual and unity/integrity of Nation). Total = 3, 5, 2, 1.
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">**Assertion (A):** India has a parliamentary system of government.<br>**Reason (R):** In India, the executive is collectively responsible to the legislature.<br><br>Select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> In a parliamentary system, the core defining feature is executive accountability to the legislature (Council of Ministers responsible to Lok Sabha).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following words were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment Act, 1976?<br><br>1. Socialist<br>2. Secular<br>3. Sovereignty<br>4. Republic<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The 42nd Amendment added three words: 'Socialist', 'Secular', and 'Integrity'. The original 1950 Preamble already declared India a 'Sovereign Democratic Republic'.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following provisions and their constitutional sources are correctly matched?<br><br>1. Directive Principles of State Policy — Ireland<br>2. Residuary Powers of the Centre — Canada<br>3. Procedure for Constitutional Amendment — South Africa<br>4. Suspension of Fundamental Rights during Emergency — Germany (Weimar Constitution)<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All four are correctly matched: DPSP (Ireland), Residuary powers (Canada), Amendment procedure (South Africa), and Emergency FR suspension (Germany).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Identify the correct chronological sequence of landmark Supreme Court cases on Constitutional Amendments and Basic Structure:<br><br>1. Shankari Prasad vs Union of India<br>2. Sajjan Singh vs State of Rajasthan<br>3. Golaknath vs State of Punjab<br>4. Kesavananda Bharati vs State of Kerala<br><br>Select the correct code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 4, 3, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 4, 2, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Shankari Prasad (1951) → Sajjan Singh (1965) → Golaknath (1967) → Kesavananda Bharati (1973).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Concept / Term)</th>
+      <th>List-II (Scholar / Political Scientist)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Cooperative Federalism</td>
+      <td><span class="match-key">1</span> K.C. Wheare</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Bargaining Federalism</td>
+      <td><span class="match-key">2</span> Sir Ivor Jennings</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Quasi-Federalism</td>
+      <td><span class="match-key">3</span> Morris-Jones</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Federalism with a Centralising Tendency</td>
+      <td><span class="match-key">4</span> Granville Austin
+
+Select the correct code:</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4 3 1 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 2 4 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cooperative = Granville Austin; Bargaining = Morris-Jones; Quasi-Federal = K.C. Wheare; Centralising Tendency = Sir Ivor Jennings.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The doctrine of 'Basic Structure of the Constitution' was enunciated by the Supreme Court of India in which landmark verdict?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kesavananda Bharati vs State of Kerala (1973)</div><div class="pyq-opt"><span class="opt-letter">B</span> Golaknath vs State of Punjab (1967)</div><div class="pyq-opt"><span class="opt-letter">C</span> Minerva Mills vs Union of India (1980)</div><div class="pyq-opt"><span class="opt-letter">D</span> Shankari Prasad vs Union of India (1951)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A 13-judge bench in Kesavananda Bharati (24 April 1973) propounded the Basic Structure doctrine, limiting Parliament's amending power under Art. 368.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following constitutional milestones in chronological sequence:<br><br>I. Golaknath Case verdict<br>II. 24th Constitutional Amendment Act<br>III. Kesavananda Bharati Case verdict<br>IV. 42nd Constitutional Amendment Act<br><br>Select the correct code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, III, IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I, III, II, IV</div><div class="pyq-opt"><span class="opt-letter">C</span> III, I, II, IV</div><div class="pyq-opt"><span class="opt-letter">D</span> III, I, IV, II</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Golaknath (Feb 1967) → 24th Amendment (Nov 1971) → Kesavananda Bharati (Apr 1973) → 42nd Amendment (1976).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following terms is NOT mentioned in the Preamble of the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sovereign</div><div class="pyq-opt"><span class="opt-letter">B</span> Democratic</div><div class="pyq-opt"><span class="opt-letter">C</span> Secular</div><div class="pyq-opt"><span class="opt-letter">D</span> Federal</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The word 'Federal' does not appear anywhere in the Preamble (nor in Article 1, which uses 'Union of States').</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">When was the institutional 'third tier' of democratic decentralization (Panchayats and Municipalities) constitutionally added to the Indian federal system?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1990</div><div class="pyq-opt"><span class="opt-letter">B</span> 1991</div><div class="pyq-opt"><span class="opt-letter">C</span> 1992</div><div class="pyq-opt"><span class="opt-letter">D</span> 1995</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The 73rd and 74th Constitutional Amendment Acts were enacted by Parliament in 1992 (enforced in 1993), formally establishing the third tier of local self-government.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">By which Constitutional Amendment Act was the voting age for Lok Sabha and State Legislative Assembly elections reduced from 21 years to 18 years?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 42nd Amendment Act</div><div class="pyq-opt"><span class="opt-letter">B</span> 44th Amendment Act</div><div class="pyq-opt"><span class="opt-letter">C</span> 61st Amendment Act</div><div class="pyq-opt"><span class="opt-letter">D</span> 73rd Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The 61st Constitutional Amendment Act (enacted 1988, enforced 1989) amended Article 326 to lower the voting age from 21 to 18 years.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">**Assertion (A):** The Constitution of India describes a 'Quasi-Federal' system with a strong unitary bias.<br>**Reason (R):** India has an independent judiciary with the power of judicial review.<br><br>Select the correct code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both statements are true, but independent judiciary is a federal safeguard, not the reason why India is called quasi-federal (which is due to unitary features like single citizenship, emergency powers, and Centre's overriding powers).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to the federal system in India, which of the following statements is/are correct?<br><br>1. States have no constitutional right to secede from the Union of India.<br>2. Mere advocacy of secession enjoys the absolute protection of freedom of expression under Article 19(1)(a).<br><br>Select the correct code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 only. India is an 'indestructible Union of destructible States'; States cannot secede. Under the 16th Amendment (1963), freedom of speech is subject to reasonable restrictions in the interests of the sovereignty and integrity of India.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which prominent constitutional scholar coined the term that the Indian Constitution is "Quasi-Federal"?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Lord Bryce</div><div class="pyq-opt"><span class="opt-letter">B</span> Sir Ivor Jennings</div><div class="pyq-opt"><span class="opt-letter">C</span> Harold Laski</div><div class="pyq-opt"><span class="opt-letter">D</span> K.C. Wheare</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Professor K.C. Wheare described the Indian Constitution as 'quasi-federal' (unitary state with subsidiary federal features rather than a federal state with subsidiary unitary features).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">What is the legal status and enforceability of the Preamble of the Indian Constitution in courts of law?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It is legally enforceable as an independent fundamental right</div><div class="pyq-opt"><span class="opt-letter">B</span> It is not enforceable in a court of law on its own</div><div class="pyq-opt"><span class="opt-letter">C</span> It can be enforced by issuing writs under Article 32</div><div class="pyq-opt"><span class="opt-letter">D</span> It has higher judicial authority than the operative Articles of Part III</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> As affirmed in Union of India v. LIC of India and Kesavananda Bharati, while the Preamble is an integral part of the Constitution, it is non-justiciable and not directly enforceable in a court of law.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">How many types of Justice, Liberty, Equality, and Fraternity (in that exact sequence) are enshrined in the Preamble to the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 5, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 3, 5, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 5, 3, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 5, 2, 1, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Justice (3: Social, Economic, Political); Liberty (5: Thought, Expression, Belief, Faith, Worship); Equality (2: Status, Opportunity); Fraternity (1: Assuring dignity of individual and unity/integrity of Nation). Total = 3, 5, 2, 1.</div>
+  </div>
+</div>

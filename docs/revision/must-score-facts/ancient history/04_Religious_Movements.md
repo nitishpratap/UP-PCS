@@ -111,6 +111,16 @@ hide:
 48. **First Council Compilation Details**: Sutta Pitaka divided into 5 Nikayas; Vinaya Pitaka into Suttavibhanga, Khandhaka, and Parivara. First Council took place in the year of Buddha’s death (483 BCE).
 49. **Jamali**: The first disciple and later the first schismatic rebel (*Bahurata-vada*) of Vardhamana Mahavira was his own son-in-law **Jamali** (husband of Anojja/Priyadarsana).
 50. **Samannaphala Sutta**: The celebrated Buddhist text in the *Digha Nikaya* where king **Ajatashatru** visits Gautama Buddha in the mango grove of physician Jivaka at Rajagriha to inquire about the immediate fruits of the contemplative life, presenting a critique of the six contemporary heretical teachers (Purana Kassapa, Makkhali Gosala, Ajita Kesakambali, Pakudha Kaccayana, Sanjaya Belatthiputta, and Nigantha Nataputta/Mahavira).
+51. **Gautama Buddha Life Milestones (Sequence & Places):** Born in **563 BCE at Lumbini** (near Kapilavastu, Nepal) to King Shuddhodana (Shakya clan) and Queen Mahamaya (died 7 days after birth; raised by stepmother Gautami); original name **Siddhartha**; married Yashodhara, had son **Rahula**; Four Great Sights: Old man, Sick man, Dead body, and Ascetic; **Mahabhinishkramana** (Great Renunciation) at age 29 on horse Kanthaka accompanied by charioteer Channa.
+52. **Enlightenment & Preaching:** Attained Enlightenment (**Nirvana / Sambodhi**) at age 35 under a Peepal tree (Bodhi tree) on the banks of **River Niranjana (Phalgu)** at **Bodh Gaya**; first sermon preached at Deer Park in **Sarnath (Rishipattana)** to 5 former ascetic companions, an event called **Dharmachakra Pravartana** ('Turning the Wheel of Law'); preached primarily in **Pali**; attained **Mahaparinirvana** at age 80 (483 BCE) at **Kushinagar** (capital of Mallas) under a Sal tree; last words: *'Decay is inherent in all component things; work out your salvation with diligence'*; last disciple converted was **Subhadda**.
+53. **Four Buddhist Councils (Chronology & Patrons):** (1) **1st Council (483 BCE):** At **Sattapanni Cave, Rajgriha**; Patron: **Ajatashatru** (Haryanka); President: **Mahakassapa**; compiled Buddhist canon into **Vinaya Pitaka** (rules of monastic discipline, recited by Upali) and **Sutta Pitaka** (sermons and philosophical doctrines, recited by Ananda); (2) **2nd Council (383 BCE):** At **Vaishali**; Patron: **Kalasoka** (Shishunaga); President: **Sabbakami**; first schism between orthodox **Sthaviravadins** (Theravada) and liberal **Mahasanghikas**; (3) **3rd Council (250 BCE):** At **Pataliputra**; Patron: **Emperor Ashoka** (Maurya); President: **Moggaliputta Tissa**; compiled **Abhidhamma Pitaka** (philosophical analysis) and book *Kathavatthu*; decided to send missionary monks abroad (Mahendra & Sanghamitra to Sri Lanka); (4) **4th Council (72 CE):** At **Kundalvana, Kashmir**; Patron: **Kanishka** (Kushan); President: **Vasumitra**, Vice-President: **Ashvaghosha**; final division of Buddhism into **Hinayana** ('Lesser Vehicle' - orthodox, Pali, monastic) and **Mahayana** ('Greater Vehicle' - liberal, Sanskrit, Bodhisattva worship, Buddha as divine deity).
+54. **Three Jewels (Triratna) & Four Noble Truths (Arya Satya):** Triratna: **Buddha, Dhamma, and Sangha**; Four Noble Truths: (1) *Dukkha* (World is full of suffering); (2) *Samudaya* (Desire/*Tanha* is the cause of suffering); (3) *Nirodha* (Suffering can be ended by extinguishing desire); (4) *Magga* (The path to end suffering is the **Eightfold Path / Ashtangika Marga**).
+55. **Eightfold Path (Ashtangika Marga - Middle Path):** Right View (*Samyak Drishti*), Right Resolve (*Samyak Sankalpa*), Right Speech (*Samyak Vak*), Right Action (*Samyak Karmanta*), Right Livelihood (*Samyak Ajiva*), Right Effort (*Samyak Vyayama*), Right Mindfulness (*Samyak Smriti*), and Right Samadhi (*Samyak Samadhi*); avoids extremes of severe self-mortification and sensual indulgence.
+56. **Vardhamana Mahavira Life & Lineage:** 24th and last Tirthankara of Jainism; born in **540 BCE at Kundagrama** (near Vaishali) into the Jnatrika Kshatriya clan; father Siddhartha, mother **Trishala** (Lichchhavi princess, sister of King Chetaka); married Yashoda, had daughter Anojja (Priyadarsana); renounced household life at age 30 after parents' death; wandered 12 years as an ascetic.
+57. **Mahavira Enlightenment & Kaivalya:** Attained supreme omniscience (**Kaivalya**) at age 42 under a Sal tree on the banks of **River Rijupalika** near **Jrimbhikagrama**; became known as **Jina** ('Conqueror' of senses), **Kevalin**, **Mahavira**, and **Nirgrantha** ('Free from all bonds'); preached first sermon at Vipulachala hill in **Rajgriha**; passed away / attained Nirvana at age 72 (468 BCE) at **Pavapuri** (near Rajgir, Bihar) in the palace of King Hastipal of Mallas.
+58. **24 Tirthankaras & Symbols (Exam Key):** (1) **Rishabhanatha / Adinatha:** First Tirthankara (Symbol: **Bull**); born at Ayodhya; mentioned in Rigveda and Bhagavata Purana; (2) Ajitanatha (Elephant); (22) **Neminatha / Arishtanemi:** (Conch shell); associated with Krishna; (23) **Parshvanatha:** (Serpent hood); Prince of Varanasi; lived 250 years before Mahavira; established four vows: Ahimsa (Non-violence), Satya (Truth), Asteya (Non-stealing), and Aparigraha (Non-possession); (24) **Mahavira:** (Symbol: **Lion**); added the fifth vow: **Brahmacharya** (Celibacy).
+59. **Two Jain Councils (Sangeeti):** (1) **1st Jain Council (300 BCE):** Held at **Pataliputra**; Presided by **Sthulabhadra** under patronage of Chandragupta Maurya; compiled 12 Angas; formal split into **Digambaras** ('Sky-clad' / naked, led by Bhadrabahu who migrated to Shravanabelagola, Karnataka during famine) and **Svetambaras** ('White-clad', led by Sthulabhadra who stayed in Magadha); (2) **2nd Jain Council (512 CE):** Held at **Vallabhi (Gujarat)**; Presided by **Devardhi Kshamasramana**; finalized and committed all Jain Agamas and canonical texts to writing in Ardhamagadhi Prakrit.
+60. **Jain Epistemology & Doctrines:** (1) **Anekantavada:** Doctrine of the manifold nature of reality / pluralism; truth has infinite aspects; (2) **Syadvada:** Doctrine of conditional predication (Seven-fold judgment - *Sapta-bhangi naya*): 'May be it is', 'May be it is not', etc.; (3) Strict **Ahimsa** carried to extreme levels (filtering drinking water, sweeping ground before walking, wearing mouth cloth); rejection of Vedic authority and animal sacrifices; belief that even inanimate objects possess souls (*Jiva*).
 
 ## ⏱️ Timeline / Chronology
 
@@ -208,44 +218,27 @@ hide:
 | **Sanjaya Belatthiputta** | **Ajnanavada (Scepticism)** | Sceptical agnosticism; suspends judgment on metaphysical questions. |
 | **Nigantha Nataputta** | **Jainism (Mahavira)** | Kiriyavada; rigorous Ahimsa, asceticism, and soul purification through karma exhaustion. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Shramana** | **Brahmana** | Renouncer, often **nastika** (rejects Vedas) vs Vedic priestly orthodoxy | श्रमण / ब्राह्मण |
-| **Nastika** | **Astika** | Reject Vedas (Buddhism, Jainism, Charvaka, Ajivika) vs Accept Vedas (Shad-Darshana) | नास्तिक / आस्तिक |
-| **Four Noble Truths** | **Eightfold Path** | Diagnosis of suffering (*Dukkha*) vs Prescription to cure it (*Magga*) | चार आर्य सत्य / अष्टांग मार्ग |
-| **Hinayana** | **Mahayana** | **Arhat**, Pali texts, personal self-liberation vs **Bodhisattva**, Sanskrit, universal savior | हीनयान / महायान |
-| **Mahayana** | **Vajrayana** | Sutra, Prajna, Bodhisattva path vs **Tantra**, mantras, Taras, mystic rituals | महायान / वज्रयान |
-| **Sthaviravada** | **Mahasanghika** | Vaishali conservative **elders** vs liberal **great assembly** split (2nd Council) | स्थविर / महासंघ |
-| **Theravada** | **Sarvastivada** | **Pali** southern transmission vs **Sanskrit** northern Sarvastivadin school (4th Council) | थेरवाद / सर्वास्तिवाद |
-| **Nagarjuna** | **Nagasena** | **Madhyamaka** philosopher (Sunyavada) vs **Milinda Panha** debate monk with Menander | नागार्जुन / नागसेन |
-| **Vinaya Pitaka** | **Sutta Pitaka** | Monastic rules and discipline (**Upali**) vs Buddha's sermons and discourses (**Ananda**) | विनय / सुत्त |
-| **Chaitya** | **Vihara** | Buddhist rock-cut **prayer hall with stupa** vs Residential **monastery** for monks | चैत्य / विहार |
-| **Barabar Caves** | **Ajanta Caves** | Mauryan rock-cut caves gifted to **Ajivikas** vs Classical painted caves dedicated to **Buddhism** | बराबर / अजंता |
-| **Digambara** | **Svetambara** | Sky-clad (naked); women cannot attain moksha vs White-clad; women can attain moksha | दिगंबर / श्वेतांबर |
-| **Mahavira (24th)** | **Parshvanatha (23rd)** | 5 vows, **Lion**, Pavapuri death vs 4 vows (*Chaturyama*), **Serpent**, Sammed Shikhar | महावीर / पार्श्वनाथ |
-| **Pavapuri** | **Sammed Shikhar** | Death place of **Mahavira alone** vs Nirvana place of **20 Tirthankaras** (Mount Parasnath) | पावापुरी / सम्मेद शिखर |
-| **Charvaka** | **Ajivika** | Materialist (*Pratyaksha-only*, no fate) vs **Fatalist (*Niyati-only*, all predetermined)** | चार्वाक / आजीविक |
-| **Anekantavada** | **Syadvada** | Many-sided nature of **reality** (metaphysics) vs Seven-fold conditional **predication** (*Syat*) | अनेकान्तवाद / स्याद्वाद |
-| **Anatta** | **Jiva** | Buddhism: **No** eternal soul exists vs Jainism: **Eternal** conscious soul in all beings | अनात्मा / जीव |
-| **Pataliputra Council (Jain)**| **Vallabhi Council (Jain)**| 1st Council (c. 300 BCE; Sthulabhadra) vs 2nd Council (512 CE; Devardhi Agamas written) | पाटलिपुत्र / वल्लभी |
-| **Alara Kalama** | **Uddaka Ramaputta** | Buddha's 1st teacher at Vaishali (Samkhya/meditation) vs 2nd teacher at Rajagriha | आलार कालाम / उद्रक रामपुत्र |
-| **Sarnath** | **Kushinagar** | Site of **First Sermon** (Dharmachakra) vs Site of **Death** (Mahaparinirvana) | सारनाथ / कुशीनगर |
-| **Bodh Gaya** | **Lumbini** | Place of **Enlightenment** (Niranjana river) vs Place of **Birth** (Nepal, Rummindei) | बोधगया / लुम्बिनी |
-| **Jamali** | **Makkhali Gosala** | Mahavira's son-in-law & first rebel disciple vs Ajivika founder who broke away from Mahavira | जमालि / मक्खलि गोसाल |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **The Four Buddhist Councils Master Peg:**
    - **Places:** **R - V - P - K** (*"Raja Vaishali Ke Patliputra Ka Kashmir"*)
-     - **R**ajagriha $ightarrow$ **V**aishali $ightarrow$ **P**ataliputra $ightarrow$ **K**undalvana.
+     - **R**ajagriha $
+ightarrow$ **V**aishali $
+ightarrow$ **P**ataliputra $
+ightarrow$ **K**undalvana.
    - **Kings:** **A - K - A - K**
-     - **A**jatashatru $ightarrow$ **K**alashoka $ightarrow$ **A**shoka $ightarrow$ **K**anishka.
+     - **A**jatashatru $
+ightarrow$ **K**alashoka $
+ightarrow$ **A**shoka $
+ightarrow$ **K**anishka.
    - **Presidents:** **M - S - M - V**
-     - **M**ahakassapa $ightarrow$ **S**abakami $ightarrow$ **M**oggaliputta Tissa $ightarrow$ **V**asumitra.
+     - **M**ahakassapa $
+ightarrow$ **S**abakami $
+ightarrow$ **M**oggaliputta Tissa $
+ightarrow$ **V**asumitra.
 2. **Buddha's Five Life Events & Symbols Chronology:**
-   - **B - R - E - S - D** $ightarrow$ **L - H - B - W - S**
+   - **B - R - E - S - D** $
+ightarrow$ **L - H - B - W - S**
    - **B**irth = **L**otus & Bull
    - **R**enunciation = **H**orse
    - **E**nlightenment = **B**odhi Tree
@@ -253,7 +246,9 @@ hide:
    - **D**eath = **S**tupa / Footprints
 3. **Jain Triratna (Three Jewels):**
    - **Mnemonic:** **K - F - C** (*"Know Faithfully the Conduct"*)
-   - **K**nowledge (Samyag Jnana) $ightarrow$ **F**aith (Samyag Darshana) $ightarrow$ **C**onduct (Samyag Charitra).
+   - **K**nowledge (Samyag Jnana) $
+ightarrow$ **F**aith (Samyag Darshana) $
+ightarrow$ **C**onduct (Samyag Charitra).
 4. **Parshvanatha vs Mahavira Vows:**
    - **Parshva (4 letters)** = Propounded **4 vows** (Ahimsa, Satya, Asteya, Aparigraha).
    - **Mahavira (added 1)** = Added **Brahmacharya** as the **5th vow**.
@@ -264,336 +259,266 @@ hide:
    - **Yogachara** = **Vijnana** (Only Consciousness exists)
 
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.
-
-1. Vaishali
-2. Rajagriha
-3. Kundalvana
-4. Pataliputra
-
-A. 1, 2, 4, 3 B. 2, 1, 3, 4 C. 2, 1, 4, 3 D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 2-1-4-3: Rajagriha → Vaishali → Pataliputra → Kundalvana.
-
-</details>
-
-**Q2.**
-
-Consider the following statements with respect to Ashoka:
-
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
-2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
-
-Which of the above statements is/are correct?
-
-A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 2.** Rahulovada as *the* definition is the trap. Dhamma-mahamatras stand.
-
-</details>
-
-**Q3.**
-
-*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
-
-A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Nagasena.**
-
-</details>
-
-**Q4.**
-
-In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
-
-A. Nagarjunakonda B. Ghantasala C. Amaravati D. Bodhgaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Ghantasala.**
-
-</details>
-
-**Q5.** With reference to Buddha’s life geography, which of the following statements is/are correct?
-
-1. Birth at Lumbini (Nepal), enlightenment at Bodh Gaya.
-2. First sermon at Bodh Gaya (Bihar) and Mahaparinirvana at Lumbini (Nepal).
-3. Lumbini lies in Uttar Pradesh.
-
-A. Only 1
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: First sermon = Sarnath; Mahaparinirvana = Kushinagar; Bodh Gaya = enlightenment; Lumbini = birth. Stmt 3 remains false: Lumbini is in Nepal, not UP.
-
-</details>
-
-**Q6.** Arrange the Buddhist Councils in correct chronological order of place:
-
-1. Pataliputra
-2. Rajagriha
-3. Kundalvana
-4. Vaishali
-
-Select the correct answer from the code given below:
-
-A. 4, 2, 1, 3
-
-B. 2, 1, 4, 3
-
-C. 2, 4, 1, 3
-
-D. 2, 4, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Rajagriha → Vaishali → Pataliputra → Kundalvana.
-
-**Logic:** Place order, not a bare code, is the Must-Score memory.
-
-</details>
-
-**Q7.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Person) | List-II (Association) |
-|---|---|
-| 1. Yashodhara | A. First nun |
-| 2. Ananda | B. Buddha’s wife |
-| 3. Upali | C. Attendant |
-| 4. Mahapajapati | D. Vinaya specialist |
-
-*Row order is not the answer code.*
-
-A. 1-B, 2-D, 3-C, 4-A
-
-B. 1-B, 2-C, 3-D, 4-A
-
-C. 1-C, 2-B, 3-D, 4-A
-
-D. 1-B, 2-C, 3-A, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Wife–attendant–Vinaya–first nun.
-
-**Logic:** Devadatta is the schismatic; Rahula is the son.
-
-</details>
-
-**Q8.** Consider the following statements about Buddhist schools:
-
-1. Hinayana aims at the bodhisattva ideal and uses Sanskrit.
-2. Mahasanghika and Mahayana are identical names for the same early Vaishali event.
-3. Mahayana elevates the bodhisattva ideal and uses Sanskrit.
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: Hinayana aims at the arhat and uses Pali; bodhisattva + Sanskrit = Mahayana. Stmt 2 remains false: Mahasanghika ≠ Mahayana.
-
-</details>
-
-**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Buddhism teaches anatta (no permanent soul).
-
-**Reason (R):** Jainism teaches a real jiva.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R states Jain doctrine but does not explain why Buddhism teaches anatta.
-
-**A/R logic:** Soul contrast is a standard confused pair; explanation relation fails.
-
-</details>
-
-**Q10.** With reference to Jain tirthankaras, which of the following is/are correct?
-
-1. Bahubali / Gomateshwara is one of the 24 tirthankaras.
-2. Mahavira is the 24th with the lion symbol and nirvana at Pavapuri.
-3. Parshvanatha is the 24th tirthankara with the lion symbol and nirvana at Pavapuri.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 2
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Stmt 3 false: Parshvanatha is 23rd (serpent, Varanasi tradition); Mahavira is 24th (lion, Pavapuri). Stmt 1 remains false: Bahubali is not among the 24.
-
-</details>
-
-**Q11.** Which one of the following pairs is NOT correctly matched?
-
-A. Chaitya — prayer hall
-
-B. Vihara — monastery
-
-C. Barabar caves — gifted to Ajivikas
-
-D. Barabar caves — Ajanta-style Buddhist painted caves of the same age
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Barabar is Mauryan Ajivika gift; Ajanta is later Buddhist painted caves.
-
-**Logic:** Classic Barabar vs Ajanta confused pair.
-
-</details>
-
-**Q12.** With reference to the Tripitaka, which of the following is/are correct?
-
-1. Vinaya contains monk rules.
-2. Sutta contains discourses.
-3. Abhidhamma contains philosophy.
-
-Select the correct answer from the code given below:
-
-A. All 1, 2 and 3
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three statements are correct.
-
-**Logic:** Vinaya / Sutta / Abhidhamma triad.
-
-</details>
-
-**Q13.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Council / School) | List-II (Tag) |
-|---|---|
-| 1. Second Council | A. Moggaliputta Tissa |
-| 2. Third Council | B. Sthaviravada vs Mahasanghika split |
-| 3. Fourth Council | C. Sarvastivada / Kundalvana |
-| 4. Theravada | D. Surviving Hinayana line linked with Third Council |
-
-*Row order is not the answer code.*
-
-A. 1-B, 2-C, 3-A, 4-D
-
-B. 1-A, 2-B, 3-C, 4-D
-
-C. 1-B, 2-A, 3-C, 4-D
-
-D. 1-B, 2-A, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Vaishali split; Pataliputra/Tissa; Kundalvana/Sarvastivada; Theravada line.
-
-**Logic:** Presidents: Mahakassapa (1st), Sabakami (2nd), Moggaliputta Tissa (3rd), Vasumitra (4th).
-
-</details>
-
-**Q14.** Consider the following statements about Digambara and Svetambara:
-
-1. Digambara monks are sky-clad and deny women’s moksha as women.
-2. Svetambara monks are sky-clad and deny women’s moksha as women.
-3. Tattvartha Sutra is rejected by both sects.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: Sky-clad + deny women’s moksha as women = Digambara; Svetambara wear white and allow women’s liberation. Stmt 3 remains false: Tattvartha Sutra is accepted by both.
-
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Ashoka convened the Third Council at Pataliputra.
-
-**Reason (R):** Barabar caves were gifted by Ashoka to Buddhists as painted chaityas.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true; R false — Barabar gifted to Ajivikas, not Buddhists.
-
-**A/R logic:** Dhamma-mahamatras in 14th year; Barabar ≠ Ajanta.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.<br><br>1. Vaishali<br>2. Rajagriha<br>3. Kundalvana<br>4. Pataliputra<br><br>A. 1, 2, 4, 3 B. 2, 1, 3, 4 C. 2, 1, 4, 3 D. 1, 2, 3, 4</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2-1-4-3: Rajagriha → Vaishali → Pataliputra → Kundalvana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with respect to Ashoka:<br><br>1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".<br>2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.<br><br>Which of the above statements is/are correct?<br><br>A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2.** Rahulovada as *the* definition is the trap. Dhamma-mahamatras stand.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—<br><br>A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nagasena.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?<br><br>A. Nagarjunakonda B. Ghantasala C. Amaravati D. Bodhgaya</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ghantasala.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to Buddha’s life geography, which of the following statements is/are correct?<br><br>1. Birth at Lumbini (Nepal), enlightenment at Bodh Gaya.<br>2. First sermon at Bodh Gaya (Bihar) and Mahaparinirvana at Lumbini (Nepal).<br>3. Lumbini lies in Uttar Pradesh.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: First sermon = Sarnath; Mahaparinirvana = Kushinagar; Bodh Gaya = enlightenment; Lumbini = birth. Stmt 3 remains false: Lumbini is in Nepal, not UP.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the Buddhist Councils in correct chronological order of place:<br><br>1. Pataliputra<br>2. Rajagriha<br>3. Kundalvana<br>4. Vaishali<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 2, 1, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 4, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rajagriha → Vaishali → Pataliputra → Kundalvana.
+
+**Logic:** Place order, not a bare code, is the Must-Score memory.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Person)</th><th>List-II (Association)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Yashodhara</td><td><span class="match-key">A</span> First nun</td></tr>
+      <tr><td><span class="match-key">2</span> Ananda</td><td><span class="match-key">B</span> Buddha’s wife</td></tr>
+      <tr><td><span class="match-key">3</span> Upali</td><td><span class="match-key">C</span> Attendant</td></tr>
+      <tr><td><span class="match-key">4</span> Mahapajapati</td><td><span class="match-key">D</span> Vinaya specialist</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-D, 3-C, 4-A</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-C, 3-D, 4-A</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-C, 2-B, 3-D, 4-A</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-B, 2-C, 3-A, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Wife–attendant–Vinaya–first nun.
+
+**Logic:** Devadatta is the schismatic; Rahula is the son.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Buddhist schools:<br><br>1. Hinayana aims at the bodhisattva ideal and uses Sanskrit.<br>2. Mahasanghika and Mahayana are identical names for the same early Vaishali event.<br>3. Mahayana elevates the bodhisattva ideal and uses Sanskrit.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: Hinayana aims at the arhat and uses Pali; bodhisattva + Sanskrit = Mahayana. Stmt 2 remains false: Mahasanghika ≠ Mahayana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Buddhism teaches anatta (no permanent soul).<br><br>**Reason (R):** Jainism teaches a real jiva.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R states Jain doctrine but does not explain why Buddhism teaches anatta.
+
+**A/R logic:** Soul contrast is a standard confused pair; explanation relation fails.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to Jain tirthankaras, which of the following is/are correct?<br><br>1. Bahubali / Gomateshwara is one of the 24 tirthankaras.<br>2. Mahavira is the 24th with the lion symbol and nirvana at Pavapuri.<br>3. Parshvanatha is the 24th tirthankara with the lion symbol and nirvana at Pavapuri.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 3 false: Parshvanatha is 23rd (serpent, Varanasi tradition); Mahavira is 24th (lion, Pavapuri). Stmt 1 remains false: Bahubali is not among the 24.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chaitya — prayer hall</div><div class="pyq-opt"><span class="opt-letter">B</span> Vihara — monastery</div><div class="pyq-opt"><span class="opt-letter">C</span> Barabar caves — gifted to Ajivikas</div><div class="pyq-opt"><span class="opt-letter">D</span> Barabar caves — Ajanta-style Buddhist painted caves of the same age</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Barabar is Mauryan Ajivika gift; Ajanta is later Buddhist painted caves.
+
+**Logic:** Classic Barabar vs Ajanta confused pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to the Tripitaka, which of the following is/are correct?<br><br>1. Vinaya contains monk rules.<br>2. Sutta contains discourses.<br>3. Abhidhamma contains philosophy.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Vinaya / Sutta / Abhidhamma triad.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Council / School)</th><th>List-II (Tag)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Second Council</td><td><span class="match-key">A</span> Moggaliputta Tissa</td></tr>
+      <tr><td><span class="match-key">2</span> Third Council</td><td><span class="match-key">B</span> Sthaviravada vs Mahasanghika split</td></tr>
+      <tr><td><span class="match-key">3</span> Fourth Council</td><td><span class="match-key">C</span> Sarvastivada / Kundalvana</td></tr>
+      <tr><td><span class="match-key">4</span> Theravada</td><td><span class="match-key">D</span> Surviving Hinayana line linked with Third Council</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-C, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-B, 2-A, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Vaishali split; Pataliputra/Tissa; Kundalvana/Sarvastivada; Theravada line.
+
+**Logic:** Presidents: Mahakassapa (1st), Sabakami (2nd), Moggaliputta Tissa (3rd), Vasumitra (4th).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Digambara and Svetambara:<br><br>1. Digambara monks are sky-clad and deny women’s moksha as women.<br>2. Svetambara monks are sky-clad and deny women’s moksha as women.<br>3. Tattvartha Sutra is rejected by both sects.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: Sky-clad + deny women’s moksha as women = Digambara; Svetambara wear white and allow women’s liberation. Stmt 3 remains false: Tattvartha Sutra is accepted by both.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Ashoka convened the Third Council at Pataliputra.<br><br>**Reason (R):** Barabar caves were gifted by Ashoka to Buddhists as painted chaityas.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true; R false — Barabar gifted to Ajivikas, not Buddhists.
+
+**A/R logic:** Dhamma-mahamatras in 14th year; Barabar ≠ Ajanta.</div>
+  </div>
+</div>

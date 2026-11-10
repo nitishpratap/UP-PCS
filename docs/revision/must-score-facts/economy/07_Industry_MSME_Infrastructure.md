@@ -204,21 +204,6 @@ hide:
 | **Indian Railways Net Zero Target** | Target year 2030; 100% electrification of broad-gauge network |
 | **Delhi–Mumbai Industrial Corridor (DMIC)** | Technical and financial collaboration with Japan |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Conceptual Distinction & Mechanics | Key Memorization Anchor |
-|---|---|---|---|
-| **Make in India Launch (2014)** | **PM Gati Shakti Launch (2021)** | Make in India launched 25 September 2014 for manufacturing; Gati Shakti launched 13 October 2021 for infrastructure. | Make in India = 2014; Gati Shakti = 2021 |
-| **Gati Shakti Launch Year** | **2021 vs 2022 Trap** | Official launch date was 13 October 2021 (frequently misstated as 2022 in exam distractors). | Launch year: 2021 |
-| **MSME 2020 Classification** | **Pre-2020 Historical Split** | 2020 criteria combine Investment + Turnover and treat manufacturing and services identically. | 2020 = Composite Investment + Turnover |
-| **MSME 2020 Ceilings** | **MSME 2025 Revised Ceilings** | 2020: Micro ₹1cr/₹5cr; 2025: Micro ₹2.5cr/₹10cr. Check question year benchmark. | 2020 = 1/10/50 cr; 2025 = 2.5/25/125 cr |
-| **Foreign Direct Investment (FDI)** | **Foreign Portfolio Investment (FPI)** | FDI entails lasting management control (≥10% equity); FPI is passive portfolio investment in traded stocks. | FDI = Management control; FPI = Passive market trading |
-| **Disinvestment** | **Strategic Disinvestment / Privatization** | Disinvestment sells minority equity; Strategic disinvestment transfers majority ownership (≥50%) and management control. | Disinvestment = Minority shares; Strategic = Management transfer |
-| **Cottage Industry** | **Small Scale Enterprise** | Cottage units are home-based artisan activities; Small scale units utilize power machinery in distinct premises. | Cottage = Household artisans; Small = Power machinery factory |
-| **Index of Industrial Production** | **Construction & Utilities in IIP** | IIP measures Mining, Manufacturing, and Electricity; Construction, gas, and water supply are NOT in IIP. | Construction is NOT in IIP |
-| **Eight Core Industries** | **Chemicals & Textiles** | Eight Core Industries comprise Refineries, Electricity, Steel, Coal, Crude, Gas, Cement, Fertilizers (No Chemicals or Textiles). | Chemicals & Textiles are NOT Core Industries |
-| **Bharatmala Pariyojana** | **Sagarmala Programme** | Bharatmala develops highways, economic corridors, and logistics parks; Sagarmala develops ports and coastal trade. | Bharatmala = Roads/highways; Sagarmala = Ports/shipping |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### Key Mnemonics & Cognitive Hooks
@@ -242,269 +227,262 @@ hide:
   - Compulsory licensing remains for only **4 industries**: (1) Aerospace and defense equipment, (2) Industrial explosives, (3) Hazardous chemicals, (4) Cigars, cigarettes, and manufactured tobacco substitutes.
   - Reserved exclusively for Public Sector: **Atomic Energy** and **Railway Operations**.
 
-## 🎯 High-Yield PYQ Drill (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Which of the following statement(s) is/are correct about the 'Make in India' Programme?
-
-1. The 'Make in India' Programme was launched in the year 2014.
-2. It aims at encouraging companies for manufacturing in India and facilitating investment.
-
-Select the correct answer from the codes given below:
-
-A. Both 1 and 2
-B. Only 1
-C. Neither 1 nor 2
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 2014 launch + manufacturing/investment aim — Both 1 and 2
-
-**Ans: A.** Both 1 and 2
-</details>
-
-**Q2.**
-
-With reference to PM Gati Shakti Scheme, which of the following statements is/are correct?
-
-1. PM Gati Shakti National Master Plan was launched in 2022.
-2. It integrates seven engines including roads, railways, airports, ports, mass transport, waterways and logistics infrastructure.
-
-Select the correct answer from the codes given below:
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Seven engines true; 2022 launch false — Only 2
-
-**Ans: B.** Only 2
-</details>
-
-**Q3.**
-
-Arrange the following Committees formed for small scale sector in a chronological order and select the correct answer from the codes given below.
-
-I. Nayak Committee
-II. Abid Hussain Committee
-III. S.S. Kohli Committee
-IV. Karve Committee
-
-A. I, II, IV, III
-B. III, II, I, IV
-C. IV, II, I, III
-D. I, II, III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Keyed Karve → Abid Hussain → Nayak → Kohli — IV, II, I, III
-
-**Ans: C.** IV, II, I, III
-</details>
-
-**Q4.**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): During 2023-24, Singapore emerged as the largest source of FDI to India.
-
-Reason (R): The India-Mauritius Tax Treaty amendment has brought a major shift in countries as major sources of FDI to India.
-
-Select the correct answer from the codes given below:
-
-A. Both true, R does not explain A
-B. A false, R true
-C. Both true and R explains A
-D. A true, R false
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key: Both true and R explains A.
-
-**Ans: C.** Both true and R explains A
-</details>
-
-**Q5.**
-Assertion (A): Government launched NIP for 2020–30.
-Reason (R): NIP objective is equitable access to infrastructure for all.
-A. Both true and R explains
-B. Both true R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches A false R true.
-
-**Ans: D.** A false R true
-</details>
-
-**Q6.**
-PM Gati Shakti launched in 2022; seven engines include roads, railways, airports, ports, mass transport, waterways, logistics — which is correct?
-A. Only 2
-B. Only 1
-C. Neither
-D. Both
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Only seven-engines statement.
-
-**Ans: A.** Launch year is 2021, not 2022.
-
-</details>
-
-**Q7.**
-Make in India launched 2014; aims to encourage manufacturing and facilitate investment — correct?
-A. Both 1 and 2
-B. Only 1
-C. Neither
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Already standard key — Both 1 and 2
-
-**Ans: A.** Both 1 and 2
-</details>
-
-**Q8.**
-Match States with infrastructure expenditure rank 2019–23: Maharashtra, UP, Tamil Nadu, Karnataka.
-A. 1 2 3 4
-B. 2 1 3 4
-C. 4 1 2 3
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP 1st, Maharashtra 2nd, TN 3rd, Karnataka 4th.
-
-**Ans: B.** UP topped that expenditure ranking.
-
-</details>
-
-**Q9.**
-Assertion (A): India is the second largest mobile gaming market.
-Reason (R): More than 950 million internet users in India.
-A. Both true R not explanation
-B. A false R true
-C. A true R false
-D. Both true and R explains
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches A false R true.
-
-**Ans: B.** A false R true
-</details>
-
-**Q10.**
-Pradhan Mantri Mudra Yojana comes under Ministry of Finance only — correct code?
-A. 1 and 2
-B. Only 3 (Finance)
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Only Finance (DFS).
-
-**Ans: B.** Not Corporate Affairs / Rural Development.
-
-</details>
-
-**Q11.**
-Minimum Wages Act, Industries (D&R) Act, MRTP, FERA — correct chronological order?
-A. 2,3,4,1
-B. 2,3,1,4
-C. 4,2,1,3
-D. 4,2,3,1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 1948 → 1951 → 1969 → 1973.
-
-**Ans: C.** Code 4-2-1-3.
-
-</details>
-
-**Q12.**
-Which is not included in IIP?
-A. Manufacturing
-B. Mining
-C. Electricity
-D. Construction
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Construction.
-
-**Ans: D.** IIP trio only.
-
-</details>
-
-**Q13.**
-Start-up finance through angel / VC / crowdfunding?
-A. Angel only
-B. VC only
-C. Crowdfunding only
-D. All the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** New-age financing — All the above
-
-**Ans: D.** All the above
-</details>
-
-**Q14.**
-Stand-up India scheme is related to:
-A. Minorities
-B. OBC
-C. Handicapped
-D. Women, SC and ST
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Women, SC and ST.
-
-**Ans: D.** Greenfield entrepreneurship.
-
-</details>
-
-**Q15.**
-Which was the first Indian Private Sector Company to find place in Global 500 list of Fortune Magazine?
-A. Wipro
-B. Infosys
-C. TCS
-D. Reliance Industries Ltd.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Reliance Industries Ltd.
-
-**Ans: D.** 2006 Global 500 teaching — RIL first Indian private entrant.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following statement(s) is/are correct about the 'Make in India' Programme?<br><br>1. The 'Make in India' Programme was launched in the year 2014.<br>2. It aims at encouraging companies for manufacturing in India and facilitating investment.<br><br>Select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 2014 launch + manufacturing/investment aim — Both 1 and 2
+
+**Ans: A.** Both 1 and 2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to PM Gati Shakti Scheme, which of the following statements is/are correct?<br><br>1. PM Gati Shakti National Master Plan was launched in 2022.<br>2. It integrates seven engines including roads, railways, airports, ports, mass transport, waterways and logistics infrastructure.<br><br>Select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Seven engines true; 2022 launch false — Only 2
+
+**Ans: B.** Only 2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Committees formed for small scale sector in a chronological order and select the correct answer from the codes given below.<br><br>I. Nayak Committee<br>II. Abid Hussain Committee<br>III. S.S. Kohli Committee<br>IV. Karve Committee</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, IV, III</div><div class="pyq-opt"><span class="opt-letter">B</span> III, II, I, IV</div><div class="pyq-opt"><span class="opt-letter">C</span> IV, II, I, III</div><div class="pyq-opt"><span class="opt-letter">D</span> I, II, III, IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Keyed Karve → Abid Hussain → Nayak → Kohli — IV, II, I, III
+
+**Ans: C.** IV, II, I, III</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): During 2023-24, Singapore emerged as the largest source of FDI to India.<br><br>Reason (R): The India-Mauritius Tax Treaty amendment has brought a major shift in countries as major sources of FDI to India.<br><br>Select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true, R does not explain A</div><div class="pyq-opt"><span class="opt-letter">B</span> A false, R true</div><div class="pyq-opt"><span class="opt-letter">C</span> Both true and R explains A</div><div class="pyq-opt"><span class="opt-letter">D</span> A true, R false</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key: Both true and R explains A.
+
+**Ans: C.** Both true and R explains A</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Government launched NIP for 2020–30.<br>Reason (R): NIP objective is equitable access to infrastructure for all.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true and R explains</div><div class="pyq-opt"><span class="opt-letter">B</span> Both true R not explanation</div><div class="pyq-opt"><span class="opt-letter">C</span> A true R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches A false R true.
+
+**Ans: D.** A false R true</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">PM Gati Shakti launched in 2022; seven engines include roads, railways, airports, ports, mass transport, waterways, logistics — which is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Neither</div><div class="pyq-opt"><span class="opt-letter">D</span> Both</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Only seven-engines statement.
+
+**Ans: A.** Launch year is 2021, not 2022.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Make in India launched 2014; aims to encourage manufacturing and facilitate investment — correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Neither</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Already standard key — Both 1 and 2
+
+**Ans: A.** Both 1 and 2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match States with infrastructure expenditure rank 2019–23: Maharashtra, UP, Tamil Nadu, Karnataka.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 2 3 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 3 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 4 1 2 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 3 4 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP 1st, Maharashtra 2nd, TN 3rd, Karnataka 4th.
+
+**Ans: B.** UP topped that expenditure ranking.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): India is the second largest mobile gaming market.<br>Reason (R): More than 950 million internet users in India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true R not explanation</div><div class="pyq-opt"><span class="opt-letter">B</span> A false R true</div><div class="pyq-opt"><span class="opt-letter">C</span> A true R false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both true and R explains</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches A false R true.
+
+**Ans: B.** A false R true</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Pradhan Mantri Mudra Yojana comes under Ministry of Finance only — correct code?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3 (Finance)</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Only Finance (DFS).
+
+**Ans: B.** Not Corporate Affairs / Rural Development.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Minimum Wages Act, Industries (D&R) Act, MRTP, FERA — correct chronological order?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2,3,4,1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2,3,1,4</div><div class="pyq-opt"><span class="opt-letter">C</span> 4,2,1,3</div><div class="pyq-opt"><span class="opt-letter">D</span> 4,2,3,1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 1948 → 1951 → 1969 → 1973.
+
+**Ans: C.** Code 4-2-1-3.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which is not included in IIP?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Manufacturing</div><div class="pyq-opt"><span class="opt-letter">B</span> Mining</div><div class="pyq-opt"><span class="opt-letter">C</span> Electricity</div><div class="pyq-opt"><span class="opt-letter">D</span> Construction</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Construction.
+
+**Ans: D.** IIP trio only.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Start-up finance through angel / VC / crowdfunding?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Angel only</div><div class="pyq-opt"><span class="opt-letter">B</span> VC only</div><div class="pyq-opt"><span class="opt-letter">C</span> Crowdfunding only</div><div class="pyq-opt"><span class="opt-letter">D</span> All the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** New-age financing — All the above
+
+**Ans: D.** All the above</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Stand-up India scheme is related to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Minorities</div><div class="pyq-opt"><span class="opt-letter">B</span> OBC</div><div class="pyq-opt"><span class="opt-letter">C</span> Handicapped</div><div class="pyq-opt"><span class="opt-letter">D</span> Women, SC and ST</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Women, SC and ST.
+
+**Ans: D.** Greenfield entrepreneurship.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which was the first Indian Private Sector Company to find place in Global 500 list of Fortune Magazine?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Wipro</div><div class="pyq-opt"><span class="opt-letter">B</span> Infosys</div><div class="pyq-opt"><span class="opt-letter">C</span> TCS</div><div class="pyq-opt"><span class="opt-letter">D</span> Reliance Industries Ltd.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Reliance Industries Ltd.
+
+**Ans: D.** 2006 Global 500 teaching — RIL first Indian private entrant.</div>
+  </div>
+</div>

@@ -216,24 +216,6 @@ hide:
 | **Kalidas Samman** | Govt of Madhya Pradesh| 1980 | Classical Arts | Conferred across Classical Music, Dance, Theatre, and Visual Arts |
 | **Tansen Samman** | Govt of Madhya Pradesh| 1980 | Hindustani Music | Conferred annually at the Tansen Music Festival in Gwalior |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **24 Sahitya Akademi Languages**| **22 Eighth Schedule Languages**| Sahitya Akademi recognizes **24 languages** (22 Constitutional Schedule languages + **English** + **Rajasthani**); Eighth Schedule currently has strictly **22 languages** | 24 भाषाएं (साहित्य अकादेमी: +अंग्रेजी व राजस्थानी) / 22 अनुसूची |
-| **Jnanpith Award** | **Sahitya Akademi Award** | Jnanpith = Single highest lifetime literary prize across India (instituted by private trust Bharatiya Jnanpith); Sahitya Akademi Award = Annual prize awarded to **24 authors simultaneously** (one for each language) | ज्ञानपीठ (एकल सर्वोच्च सम्मान) / साहित्य अकादेमी (24 भाषाओं में प्रतिवर्ष) |
-| **Saraswati Samman** | **Vyas Samman** | Both by K.K. Birla Foundation; Saraswati Samman covers all **22 Eighth Schedule languages**; Vyas Samman is conferred **strictly for Hindi literature** only | सरस्वती सम्मान (22 भाषाएं) / व्यास सम्मान (केवल हिंदी) |
-| **SNA (1952)** | **Sahitya Akademi (1954)** | Sangeet Natak Akademi was founded in **1952** (performing arts); Sahitya Akademi and Lalit Kala Akademi were founded in **1954** | संगीत नाटक (1952) / साहित्य व ललित कला (1954) |
-| **Ustad Bismillah Khan Yuva**| **Sahitya Akademi Yuva** | Bismillah Khan Yuva Puraskar is conferred by **SNA** for performing arts (<35 yrs); Sahitya Akademi Yuva is conferred by **Sahitya Akademi** for literature (<35 yrs) | बिस्मिल्लाह युवा (संगीत-नृत्य-नाटक) / साहित्य अकादेमी युवा (साहित्य) |
-| **Dr. Zakir Husain (1963)** | **Ustad Zakir Hussain** | Dr. Zakir Husain = 3rd **President of India**, Bharat Ratna in 1963; Ustad Zakir Hussain = Renowned **Tabla maestro**, Padma Vibhushan in 2023 | राष्ट्रपति ज़ाकिर हुसैन (1963) / तबला उस्ताद ज़ाकिर हुसैन |
-| **Darjeeling Tea (2004)** | **Pochampally Ikat (2004)** | Darjeeling Tea was India's **very first GI tag** (agricultural); Pochampally Ikat (Telangana) was India's **first textile/handicraft GI tag** | दार्जिलिंग चाय (प्रथम कृषि GI) / पोचमपल्ली इकत (प्रथम हथकरघा GI) |
-| **GI Validity (10 Years)** | **Patent Validity (20 Years)** | A GI tag registration is valid for **10 years** (renewable indefinitely); an invention patent is valid for **20 years** (non-renewable) | GI पंजीकरण (10 वर्ष, नवीकरणीय) / पेटेंट (20 वर्ष, गैर-नवीकरणीय) |
-| **GI Registry (Chennai)** | **National Archives (New Delhi)**| GI Registry headquarters is in **Chennai, Tamil Nadu**; National Archives of India is in **New Delhi** | GI रजिस्ट्री (चेन्नई) / राष्ट्रीय अभिलेखागार (नई दिल्ली) |
-| **Bhojpuri in Sahitya Akademi**| **Rajasthani in Sahitya Akademi**| **Rajasthani** is recognized by Sahitya Akademi; **Bhojpuri** is **NOT** recognized as an independent language by either Sahitya Akademi or the Eighth Schedule | राजस्थानी (अकादेमी मान्यता प्राप्त) / भोजपुरी (मान्यता नहीं) |
-| **Khurja Pottery (Bulandshahr)**| **Nizamabad Black Pottery (Azamgarh)**| Khurja Pottery = Brightly glazed multi-colour ceramic tableware and tiles; Nizamabad Pottery = Burnished **deep black clay** with lustrous silvery mercury-zinc foil engraving | खुर्जा (रंग-बिरंगी ग्लेज्ड सिरेमिक) / निजामाबाद (काली मिट्टी व चांदी नक्काशी) |
-| **Mainpuri Tarkashi** | **Kannauj Attar** | Tarkashi = Embedding brass wire into sheesham wood; Attar = Natural perfume distilled through copper stills (*Deg-Bhapka*) into sandalwood oil | तारकशी (मैनपुरी, पीतल तार जड़ाई) / इत्र (कन्नौज, डेग-भपका आसवन) |
-| **Munsyari Rajma** | **Kalanamak Rice** | Munsyari Rajma = High-altitude white kidney beans of **Pithoragarh, Uttarakhand**; Kalanamak Rice = Fragrant black-husked ancient rice of **Siddharthnagar, UP** | मुनस्यारी राजमा (उत्तराखंड) / काला नमक चावल (उ.प्र. बुद्ध का महाप्रसाद) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Three National Cultural Academies of India — Chronology: `S-S-L`
@@ -261,317 +243,301 @@ hide:
 - **Sahitya Akademi:** **24** languages (**22 + English + Rajasthani**).
 - *Remember:* Neither includes Bhojpuri or Maithili-Bhojpuri mix!
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?
-
-1. Yuva Puraskar was announced in 23 Indian languages.
-2. There is no Yuva Puraskar in Dogri this year.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both 1 and 2.**
-
-</details>
-
-**Q2.**
-
-With reference to Jnanpith Award, which of the following statements is/are correct?
-
-1. The 58th Jnanpith Award was conferred upon Sanskrit scholar Jagadguru Rambhadracharya Ji.
-2. The first Jnanpith Award was given in 1965.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both 1 and 2.** Trust = Bharatiya Jnanpith. First winner = G. Sankara Kurup.
-
-</details>
-
-**Q3.**
-
-Match List-I with List-II and select the correct answer using the code given below.
-
-**List-I (Field)**
-A. Trade and Industry
-B. Literature and Education
-C. Medicine
-D. Art
-
-**List-II (Awardee, 2025)**
-1. Shri Lakshminarayanan Subramaniam
-2. Shri Osamu Suzuki
-3. Shri M. T. Vasudevan Nair
-4. Shri D. Nageshwar Reddy
-
-A. 3 2 1 4
-B. 2 3 4 1
-C. 2 3 1 4
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Art = L. Subramaniam. Literature = M. T. Vasudevan Nair.
-
-</details>
-
-**Q4.**
-
-Who is the author of the novel **"All the Lives We Never Lived"**, which received the Sahitya Akademi Award 2022?
-
-A. Anita Desai
-B. Anuradha Roy
-C. Shobha De
-D. Sudha Murthy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Anuradha Roy.**
-
-</details>
-
-**Q5.** With reference to the three Culture akademis at Rabindra Bhavan, which of the following statements is/are correct?
-
-1. Sangeet Natak Akademi (1952) covers performing arts.
-2. Sahitya Akademi (1952) covers letters and predates SNA.
-3. Lalit Kala Akademi (1952) covers visual arts in the same year as SNA.
-
-A. Only 1
-B. Only 1 and 2
-C. 1, 2 and 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Sahitya Akademi and Lalit Kala Akademi both date to 1954, after SNA (1952).
-
-</details>
-
-**Q6.** Consider the following pairs:
-
-| Award / body | Tag |
-|--------------|-----|
-| 1. Sahitya Akademi Award | Annual Culture-academy book prize |
-| 2. Jnanpith | Bharatiya Jnanpith trust from 1965 |
-| 3. Jnanpith | Identical to Sahitya Akademi Fellowship |
-
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3
-B. Only 1
-C. Only 1 and 2
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1 and 2 only are correct.
-
-**Logic:** Jnanpith is a trust award, not a Sahitya Akademi prize.
-
-</details>
-
-**Q7.** Which of the following pairs is NOT correctly matched?
-
-A. M. S. Subbulakshmi — first musician Bharat Ratna (1998)
-B. Bismillah Khan — shehnai, Varanasi, Bharat Ratna 2001
-C. Birju Maharaj — Lucknow Kathak, Bharat Ratna
-D. Lata Mangeshkar — playback Bharat Ratna 2001
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Birju Maharaj is not Bharat Ratna.
-
-**Logic:** Also not BR: Ustad Zakir Hussain (tabla) and Tagore Nobel-era trap.
-
-</details>
-
-**Q8.** Assertion (A): Dr Zakir Husain (Bharat Ratna 1963) was the statesman-President.
-Reason (R): Ustad Zakir Hussain the tabla maestro is the same person as President Zakir Husain.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true, but (R) is false.
-
-**A/R logic:** President Zakir Husain ≠ tabla maestro Ustad Zakir Hussain.
-
-</details>
-
-**Q9.** Arrange the following akademi founding years in chronological order:
-
-1. Sahitya Akademi
-2. Sangeet Natak Akademi
-3. Lalit Kala Akademi
-
-Select the correct order (treating same-year bodies as listed after SNA).
-
-A. 1-2-3
-B. 2-1-3
-C. 2-3-1
-D. 3-2-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** SNA 1952, then Sahitya and Lalit Kala in 1954.
-
-**Logic:** Year order is a frequent match trap.
-
-</details>
-
-**Q10.** With reference to Sahitya Akademi languages, which of the following statements is/are correct?
-
-1. Sahitya works in 24 languages.
-2. The set is 22 Eighth Schedule languages plus Sanskrit and Pali only.
-3. Bhojpuri is a separate Sahitya Akademi language.
-
-A. Only 1
-B. Only 1 and 2
-C. All 1, 2 and 3
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** The set is 22 Eighth Schedule languages plus English and Rajasthani. Bhojpuri is not a separate Akademi language.
-
-</details>
-
-**Q11.** Match List-I with List-II and select the correct answer using the code given below the Lists.
-
-**List-I (Award)**
-A. Sangeet Natak Akademi Award
-B. Sangeet Natak Akademi Fellowship (Ratna)
-C. Ustad Bismillah Khan Yuva Puraskar
-D. Sahitya Akademi Yuva Puraskar
-
-**List-II**
-1. Lifetime Fellowship (small living cohort)
-2. Annual discipline prize
-3. Young authors ≤35
-4. Young performing artists (SNA)
-
-*Row order is not the answer code.*
-
-A. 2 1 3 4
-B. 2 1 4 3
-C. 1 2 4 3
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Award–annual, Ratna–Fellowship, Bismillah Yuva–performing, Sahitya Yuva–authors ≤35.
-
-**Logic:** Do not swap the two Yuva names.
-
-</details>
-
-**Q12.** With reference to GI, which of the following statements is/are correct?
-
-1. Culture ministry runs the GI Registry.
-2. GI follows the 1999 Act with Registry at Chennai under DPIIT / Commerce.
-3. First Indian GI was Basmati Rice in 1950 under ASI custody.
-
-A. 1 and 2
-B. Only 2
-C. Only 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Culture runs akademis; Commerce / DPIIT runs GI. First Indian GI was Darjeeling Tea (2004).
-
-</details>
-
-**Q13.** Which of the following pairs is/are NOT correctly matched?
-
-1. Lalit Kala — visual academy
-2. NGMA — modern-art gallery
-3. Lalit Kala — identical to NGMA as one body
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only pair 3 is not correctly matched.
-
-**Logic:** Academy and gallery must not be merged.
-
-</details>
-
-**Q14.** Assertion (A): Sahitya Yuva Puraskar is for young authors aged ≤35.
-Reason (R): Bismillah Khan Yuva is SNA’s young performing award.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-**A/R logic:** Both are true but refer to different bodies and fields.
-
-</details>
-
-**Q15.** With reference to Bharat Ratna culture musicians, which of the following statements is/are correct?
-
-1. Ravi Shankar received Bharat Ratna in 1999.
-2. Bhimsen Joshi received it in 2008.
-3. Bhupen Hazarika received it in 2019 (posthumous).
-
-A. 2 and 3
-B. Only 1
-C. Only 1 and 2
-D. Only 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** Jasraj 2020 is another posthumous culture fact.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?<br><br>1. Yuva Puraskar was announced in 23 Indian languages.<br>2. There is no Yuva Puraskar in Dogri this year.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to Jnanpith Award, which of the following statements is/are correct?<br><br>1. The 58th Jnanpith Award was conferred upon Sanskrit scholar Jagadguru Rambhadracharya Ji.<br>2. The first Jnanpith Award was given in 1965.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2.** Trust = Bharatiya Jnanpith. First winner = G. Sankara Kurup.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Field)</th>
+      <th>List-II (Awardee, 2025)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Trade and Industry</td>
+      <td><span class="match-key">1</span> Shri Lakshminarayanan Subramaniam</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Literature and Education</td>
+      <td><span class="match-key">2</span> Shri Osamu Suzuki</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Medicine</td>
+      <td><span class="match-key">3</span> Shri M. T. Vasudevan Nair</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Art</td>
+      <td><span class="match-key">4</span> Shri D. Nageshwar Reddy</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 2 1 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 3 1 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 2 4 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Art = L. Subramaniam. Literature = M. T. Vasudevan Nair.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who is the author of the novel **"All the Lives We Never Lived"**, which received the Sahitya Akademi Award 2022?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Anita Desai</div><div class="pyq-opt"><span class="opt-letter">B</span> Anuradha Roy</div><div class="pyq-opt"><span class="opt-letter">C</span> Shobha De</div><div class="pyq-opt"><span class="opt-letter">D</span> Sudha Murthy</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Anuradha Roy.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to the three Culture akademis at Rabindra Bhavan, which of the following statements is/are correct?<br><br>1. Sangeet Natak Akademi (1952) covers performing arts.<br>2. Sahitya Akademi (1952) covers letters and predates SNA.<br>3. Lalit Kala Akademi (1952) covers visual arts in the same year as SNA.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Sahitya Akademi and Lalit Kala Akademi both date to 1954, after SNA (1952).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Award / body | Tag |<br>|--------------|-----|<br>| 1. Sahitya Akademi Award | Annual Culture-academy book prize |<br>| 2. Jnanpith | Bharatiya Jnanpith trust from 1965 |<br>| 3. Jnanpith | Identical to Sahitya Akademi Fellowship |<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** Jnanpith is a trust award, not a Sahitya Akademi prize.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> M. S. Subbulakshmi — first musician Bharat Ratna (1998)</div><div class="pyq-opt"><span class="opt-letter">B</span> Bismillah Khan — shehnai, Varanasi, Bharat Ratna 2001</div><div class="pyq-opt"><span class="opt-letter">C</span> Birju Maharaj — Lucknow Kathak, Bharat Ratna</div><div class="pyq-opt"><span class="opt-letter">D</span> Lata Mangeshkar — playback Bharat Ratna 2001</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Birju Maharaj is not Bharat Ratna.
+
+**Logic:** Also not BR: Ustad Zakir Hussain (tabla) and Tagore Nobel-era trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Dr Zakir Husain (Bharat Ratna 1963) was the statesman-President.<br>Reason (R): Ustad Zakir Hussain the tabla maestro is the same person as President Zakir Husain.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true, but (R) is false.
+
+**A/R logic:** President Zakir Husain ≠ tabla maestro Ustad Zakir Hussain.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Arrange the following akademi founding years in chronological order:<br><br>1. Sahitya Akademi<br>2. Sangeet Natak Akademi<br>3. Lalit Kala Akademi<br><br>Select the correct order (treating same-year bodies as listed after SNA).</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-2-3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2-1-3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2-3-1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3-2-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> SNA 1952, then Sahitya and Lalit Kala in 1954.
+
+**Logic:** Year order is a frequent match trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to Sahitya Akademi languages, which of the following statements is/are correct?<br><br>1. Sahitya works in 24 languages.<br>2. The set is 22 Eighth Schedule languages plus Sanskrit and Pali only.<br>3. Bhojpuri is a separate Sahitya Akademi language.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** The set is 22 Eighth Schedule languages plus English and Rajasthani. Bhojpuri is not a separate Akademi language.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I</th>
+      <th>List-II</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Sangeet Natak Akademi Award</td>
+      <td><span class="match-key">1</span> Lifetime Fellowship (small living cohort)</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Sangeet Natak Akademi Fellowship (Ratna)</td>
+      <td><span class="match-key">2</span> Annual discipline prize</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Ustad Bismillah Khan Yuva Puraskar</td>
+      <td><span class="match-key">3</span> Young authors ≤35</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Sahitya Akademi Yuva Puraskar</td>
+      <td><span class="match-key">4</span> Young performing artists (SNA)
+
+*Row order is not the answer code.*</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 1 3 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 2 4 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 4 1 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Award–annual, Ratna–Fellowship, Bismillah Yuva–performing, Sahitya Yuva–authors ≤35.
+
+**Logic:** Do not swap the two Yuva names.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to GI, which of the following statements is/are correct?<br><br>1. Culture ministry runs the GI Registry.<br>2. GI follows the 1999 Act with Registry at Chennai under DPIIT / Commerce.<br>3. First Indian GI was Basmati Rice in 1950 under ASI custody.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Culture runs akademis; Commerce / DPIIT runs GI. First Indian GI was Darjeeling Tea (2004).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Lalit Kala — visual academy<br>2. NGMA — modern-art gallery<br>3. Lalit Kala — identical to NGMA as one body</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only pair 3 is not correctly matched.
+
+**Logic:** Academy and gallery must not be merged.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Sahitya Yuva Puraskar is for young authors aged ≤35.<br>Reason (R): Bismillah Khan Yuva is SNA’s young performing award.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both are true but refer to different bodies and fields.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to Bharat Ratna culture musicians, which of the following statements is/are correct?<br><br>1. Ravi Shankar received Bharat Ratna in 1999.<br>2. Bhimsen Joshi received it in 2008.<br>3. Bhupen Hazarika received it in 2019 (posthumous).</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Jasraj 2020 is another posthumous culture fact.</div>
+  </div>
+</div>

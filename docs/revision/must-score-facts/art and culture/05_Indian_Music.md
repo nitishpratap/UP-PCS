@@ -174,24 +174,6 @@ hide:
 | **Muthuswami Dikshitar** | 1775–1835 | **Sanskrit** | Intellectual, slow tempo (*Vilambita*); **Navagraha Kritis**, **Kamalamba Navavarna Kritis**; Mudra: *Guruguha* |
 | **Syama Sastri** | 1762–1827 | **Telugu & Sanskrit** | Intricate rhythmic patterns (*Talas*, e.g., Misra Chapu); **Navaratnamalika**; devotee of Kanchi Goddess Kamakshi |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Dhrupad** | **Khayal** | Dhrupad = Oldest, austere, masculine, accompanied strictly by **Pakhawaj**; Khayal = Lyrical, romantic, highly ornamented with taans, accompanied strictly by **Tabla** | ध्रुपद (गंभीर, पखावज) / ख्याल (कल्पना, तबला) |
-| **Pakhawaj** | **Mridangam** | Both double-headed barrel drums; Pakhawaj = Used in **North Indian Hindustani** Dhrupad; Mridangam = Used in **South Indian Carnatic** music | पखावज (हिंदुस्तानी ध्रुपद) / मृदंगम (कर्नाटक संगीत) |
-| **Tansen (Mughal)** | **Tyagaraja (Carnatic)** | Tansen = 16th-century Hindustani court musician of **Akbar** (composed Dhrupad/Darbari in Braj); Tyagaraja = 18th-century Carnatic saint-composer of **Thiruvarur** (composed Kritis in Telugu) | तानसेन (उत्तर / अकबर) / त्यागराज (दक्षिण / राम भक्ति) |
-| **Tyagaraja** | **Muthuswami Dikshitar** | Both of Carnatic Trinity; Tyagaraja composed predominantly in **Telugu** (Pancharatna); Dikshitar composed exclusively in **Sanskrit** (Navagraha kritis) | त्यागराज (तेलुगु रचनाएं) / मुत्तुस्वामी दीक्षितर (संस्कृत रचनाएं) |
-| **Purandara Dasa** | **Venkatamakhin** | Purandara Dasa = 16th-century **'Pitamaha of Carnatic Music'** (structured vocal exercises); Venkatamakhin = 17th-century musicologist who classified the **72 Melakarta system** | पुरंदर दास (कर्नाटक पितामह) / वेंकटमखीन (72 मेलकर्ता प्रणाली) |
-| **Thumri** | **Tappa** | Thumri = Slow expressive semi-classical genre of **Lucknow/Banaras** in Braj Bhasha; Tappa = Fast, breathless, acrobatic taan genre derived from **Punjab camel drivers** | ठुमरी (उ.प्र. भाव व नज़ाकत) / टप्पा (पंजाब, द्रुत तानें) |
-| **Bhatkhande (10 Thaats)** | **Venkatamakhin (72 Melakartas)**| Bhatkhande = Classified **Hindustani ragas** into 10 parent scales; Venkatamakhin = Classified **Carnatic ragas** into 72 mathematical parent scales | भातखंडे (10 ठाठ / उत्तर) / वेंकटमखीन (72 मेलकर्ता / दक्षिण) |
-| **Sitar** | **Sarod** | Sitar = Fretted plucked string instrument (Amir Khusrau / Ravi Shankar); Sarod = **Fretless** plucked instrument with metal fingerboard (Afghan Rabab origin / Amjad Ali Khan) | सितार (पर्देदार / रविशंकर) / सरोद (बिना पर्दे का / अमजद अली खां) |
-| **Kirana Gharana** | **Jaipur Gharana** | Kirana = Slow note-by-note melodic expansion (*swara-centric*, Bhimsen Joshi); Jaipur = Rapid asymmetric taans and complex joint ragas (*laya-centric*, Kishori Amonkar) | किराना (स्वर प्रधान / भीमसेन) / जयपुर (लय व जटिल तान / किशोरी) |
-| **Gwalior Gharana** | **Agra Gharana** | Gwalior = **Oldest Khayal gharana** (open throat, straightforward); Agra = Blends **Dhrupad with Khayal** (deep Nom-Tom alap, *Rangeela* style) | ग्वालियर (प्राचीनतम ख्याल) / आगरा (ध्रुपद-ख्याल समन्वय) |
-| **Ustad Bismillah Khan** | **Ustad Zakir Hussain** | Bismillah Khan = Supreme maestro of **Shehnai** (Varanasi; Bharat Ratna 2001); Zakir Hussain = Supreme maestro of **Tabla** (Punjab gharana; Padma Vibhushan 2023) | बिस्मिल्लाह खां (शहनाई) / ज़ाकिर हुसैन (तबला) |
-| **Pandit Shivkumar Sharma** | **Pandit Hariprasad Chaurasia** | Shivkumar Sharma = Doyen of the **Santoor** (Kashmiri hammered dulcimer); Hariprasad Chaurasia = Doyen of the **Bansuri** (North Indian bamboo flute) | शिवकुमार शर्मा (संतूर) / हरिप्रसाद चौरसिया (बांसुरी) |
-| **Brihaddesi (Matanga)** | **Sangita Ratnakara (Sarangadeva)**| Brihaddesi (8th–9th c.) = First defined the word and concept of **Raga**; Sangita Ratnakara (13th c.) = Crown jewel treatise summarizing the complete medieval Indian musical system | बृहद्देशी (राग की प्रथम परिभाषा) / संगीत रत्नाकर (मध्यकालीन महाग्रंथ) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The Trinity of Carnatic Music — Mnemonic: `T-D-S` (तिरुवारूर के संत)
@@ -221,332 +203,299 @@ hide:
 - **B**himsen Joshi (2009)
 - **H**azarika, Bhupen (2019)
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-The Tappa style of music was refined and developed in the court of which of the following Mughal Emperors?
-
-A. Akbar
-B. Jahangir
-C. Shah Jahan
-D. Muhammad Shah
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Muhammad Shah.**
-
-</details>
-
-**Q2.**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Text)**
-A. Ragmala
-B. Rasakaumudi
-C. Ragvivodh
-D. Chaturdandi Prakashika
-
-**List-II (Writer)**
-1. Somnath
-2. Venkatraman
-3. Pundarik Vitthal
-4. Srikantha
-
-A. A-1, B-2, C-3, D-4
-B. A-2, B-4, C-3, D-1
-C. A-4, B-2, C-1, D-3
-D. A-3, B-4, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Ragmala = Pundarik Vitthal, Rasakaumudi = Srikantha, Ragvivodh = Somnath, Chaturdandi = Venkatraman.
-
-</details>
-
-**Q3.**
-
-Match List-I with List-II and select the correct answer using the codes given below the lists.
-
-**List-I (Text)**
-A. Ragamala
-B. Rasa Kaumudi
-C. Raga Vibodh
-D. Chaturdandi Prakashika
-
-**List-II (Author)**
-1. Somanath
-2. Venkatraman
-3. Pundrik Vitthal
-4. Sri Kantha
-
-A. 3 4 1 2
-B. 4 2 1 3
-C. 2 3 4 1
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 3 4 1 2.** Same four pairs as 2022 Q108; option order differs.
-
-</details>
-
-**Q4.**
-
-Who among the following kings had given patronage to Tansen before Akbar?
-
-A. Raja Ramchandra Singh of Bhata
-B. Rajbahadur of Malwa
-C. Uday Singh of Mewar
-D. Muzaffar Shah of Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Raja Ramchandra Singh of Bhata** (Rewa).
-
-</details>
-
-**Q5.** With reference to the meaning of sangeet and early theory, which of the following statements is/are correct?
-
-1. The first clear use of the word raga is in Bharata’s Natyashastra alone, with no later treatise role.
-2. Sangeet means gita + vadya + nritya.
-3. The earliest chant fact is the Atharvaveda alone, not the Samaveda.
-
-A. Only 2
-B. Only 2 and 3
-C. Only 1
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** The first clear use of raga is linked with Matanga’s Brihaddeshi. The earliest chant fact is the Samaveda.
-
-</details>
-
-**Q6.** Consider the following pairs:
-
-| Treatise | Author / tag |
-|----------|--------------|
-| 1. Natyashastra | Bharata Muni |
-| 2. Brihaddeshi | Matanga; early clear raga usage |
-| 3. Sangeet Ratnakar | Sharngadeva; 13th century Devagiri |
-| 4. Chaturdandi Prakashika | Pundrik Vitthal |
-
-Which of the pairs given above are correctly matched?
-
-A. 1 and 4 only
-B. 1, 2 and 3 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Pairs 1–3 are correct.
-
-**Logic:** Chaturdandi Prakashika is Venkatamakhin. Ragamala is Pundrik Vitthal.
-
-</details>
-
-**Q7.** With reference to Hindustani and Carnatic systems, which of the following statements is/are correct?
-
-1. Hindustani centres on khayal / dhrupad with gharanas.
-2. Carnatic centres on khayal gharanas with tabla as the main drum.
-3. Tabla is the primary Carnatic drum while mridangam is the primary Hindustani drum.
-
-A. Only 3
-B. 1 and 3
-C. Only 1
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Carnatic centres on kriti and 72 melakarta with mridangam. Tabla pairs with Hindustani; mridangam with Carnatic.
-
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Dhrupad is the oldest surviving classical form and traditionally uses pakhawaj.
-
-Reason (R): Khayal is dominant today and traditionally uses tabla.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is a parallel contrast, not the cause of dhrupad’s age or pakhawaj pairing.
-
-**A/R logic:** Dhrupad–pakhawaj and khayal–tabla are paired facts. One does not explain the other.
-
-</details>
-
-**Q9.** With reference to light classical and related forms, which of the following pairs is/are correctly matched?
-
-1. Thumri — Awadh–Banaras romantic song
-2. Tappa — camel-song origin; Muhammad Shah’s court link
-3. Tarana — nonsense syllables
-4. Qawwali — Amir Khusrau at Nizamuddin’s circle
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1, 2 and 3 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All four pairs are correctly matched.
-
-**Logic:** Do not park Tappa at Akbar’s court.
-
-</details>
-
-**Q10.** a member of the Carnatic Trinity?
-
-A. Tyagaraja
-B. Muthuswami Dikshitar
-C. Syama Sastri
-D. Tansen
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Tansen is a Hindustani dhrupad master of Akbar’s Navaratna.
-
-**Logic:** Trinity = Tyagaraja, Dikshitar, Syama Sastri.
-
-</details>
-
-**Q11.** Consider the following gharana statements:
-
-1. Gwalior is the oldest khayal gharana.
-2. Agra gharana is of Agra city in UP.
-3. Kirana gharana is linked with Kirana village in the western UP belt and with Bhimsen Joshi.
-4. Maihar gharana is of Uttar Pradesh.
-
-Which of the statements given above are correct?
-
-A. 2, 3 and 4 only
-B. 1 and 4 only
-C. 1, 2 and 3 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1, 2 and 3 are correct.
-
-**Logic:** Maihar is in Madhya Pradesh and is linked with Allauddin Khan.
-
-</details>
-
-**Q12.** Arrange the following Bharat Ratna musician years in chronological order:
-
-1. Bismillah Khan
-2. M.S. Subbulakshmi
-3. Bhimsen Joshi
-4. Ravi Shankar
-
-Select the correct answer from the code given below:
-
-A. 2–1–4–3
-B. 2–4–1–3
-C. 4–2–1–3
-D. 2–4–3–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** The order is 1998 → 1999 → 2001 → 2008.
-
-**Logic:** Subbulakshmi 1998, Ravi Shankar 1999, Bismillah Khan 2001, Bhimsen Joshi 2008.
-
-</details>
-
-**Q13.** With reference to instrument families, which of the following pairs is/are correctly matched?
-
-1. Tata — plucked string
-2. Vitat — bowed string
-3. Sushira — wind
-4. Avanaddha — solid idiophone
-
-Select the correct answer from the code given below:
-
-A. 2, 3 and 4 only
-B. 1 and 4 only
-C. 1, 2 and 3 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Pairs 1–3 are correct.
-
-**Logic:** Avanaddha is membrane. Ghana is solid / idiophone.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Shehnai is the Hindustani reed associated with Banaras.
-
-Reason (R): Nadaswaram is the Carnatic temple reed.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is a parallel south Indian fact, not the explanation of Banaras shehnai.
-
-**A/R logic:** Shehnai vs nadaswaram is a confused pair, not cause and effect.
-
-</details>
-
-**Q15.** With reference to raga and tala, which of the following statements is/are correct?
-
-1. A raga is a melody framework.
-2. A tala is a melody framework identical with raga.
-3. Teental is 8 beats and Carnatic Adi tala is 16.
-
-Select the correct answer from the code given below:
-
-A. Only 2 and 3
-B. Only 1
-C. Only 1 and 2
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** A tala is a beat-cycle, not a melody framework. Teental is 16 beats; Carnatic Adi tala is 8.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">The Tappa style of music was refined and developed in the court of which of the following Mughal Emperors?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Akbar</div><div class="pyq-opt"><span class="opt-letter">B</span> Jahangir</div><div class="pyq-opt"><span class="opt-letter">C</span> Shah Jahan</div><div class="pyq-opt"><span class="opt-letter">D</span> Muhammad Shah</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Muhammad Shah.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Text)</th>
+      <th>List-II (Writer)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Ragmala</td>
+      <td><span class="match-key">1</span> Somnath</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Rasakaumudi</td>
+      <td><span class="match-key">2</span> Venkatraman</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Ragvivodh</td>
+      <td><span class="match-key">3</span> Pundarik Vitthal</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Chaturdandi Prakashika</td>
+      <td><span class="match-key">4</span> Srikantha</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-4, C-3, D-1</div><div class="pyq-opt"><span class="opt-letter">C</span> A-4, B-2, C-1, D-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-4, C-1, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ragmala = Pundarik Vitthal, Rasakaumudi = Srikantha, Ragvivodh = Somnath, Chaturdandi = Venkatraman.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I</th>
+      <th>List-II (Author)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Ragamala</td>
+      <td><span class="match-key">1</span> Somanath</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Rasa Kaumudi</td>
+      <td><span class="match-key">2</span> Venkatraman</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Raga Vibodh</td>
+      <td><span class="match-key">3</span> Pundrik Vitthal</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Chaturdandi Prakashika</td>
+      <td><span class="match-key">4</span> Sri Kantha</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 4 2 1 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 2 3 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 3 4 1 2.** Same four pairs as 2022 Q108; option order differs.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who among the following kings had given patronage to Tansen before Akbar?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Raja Ramchandra Singh of Bhata</div><div class="pyq-opt"><span class="opt-letter">B</span> Rajbahadur of Malwa</div><div class="pyq-opt"><span class="opt-letter">C</span> Uday Singh of Mewar</div><div class="pyq-opt"><span class="opt-letter">D</span> Muzaffar Shah of Gujarat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Raja Ramchandra Singh of Bhata** (Rewa).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to the meaning of sangeet and early theory, which of the following statements is/are correct?<br><br>1. The first clear use of the word raga is in Bharata’s Natyashastra alone, with no later treatise role.<br>2. Sangeet means gita + vadya + nritya.<br>3. The earliest chant fact is the Atharvaveda alone, not the Samaveda.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** The first clear use of raga is linked with Matanga’s Brihaddeshi. The earliest chant fact is the Samaveda.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Treatise | Author / tag |<br>|----------|--------------|<br>| 1. Natyashastra | Bharata Muni |<br>| 2. Brihaddeshi | Matanga; early clear raga usage |<br>| 3. Sangeet Ratnakar | Sharngadeva; 13th century Devagiri |<br>| 4. Chaturdandi Prakashika | Pundrik Vitthal |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1–3 are correct.
+
+**Logic:** Chaturdandi Prakashika is Venkatamakhin. Ragamala is Pundrik Vitthal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Hindustani and Carnatic systems, which of the following statements is/are correct?<br><br>1. Hindustani centres on khayal / dhrupad with gharanas.<br>2. Carnatic centres on khayal gharanas with tabla as the main drum.<br>3. Tabla is the primary Carnatic drum while mridangam is the primary Hindustani drum.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Carnatic centres on kriti and 72 melakarta with mridangam. Tabla pairs with Hindustani; mridangam with Carnatic.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Dhrupad is the oldest surviving classical form and traditionally uses pakhawaj.<br><br>Reason (R): Khayal is dominant today and traditionally uses tabla.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is a parallel contrast, not the cause of dhrupad’s age or pakhawaj pairing.
+
+**A/R logic:** Dhrupad–pakhawaj and khayal–tabla are paired facts. One does not explain the other.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to light classical and related forms, which of the following pairs is/are correctly matched?<br><br>1. Thumri — Awadh–Banaras romantic song<br>2. Tappa — camel-song origin; Muhammad Shah’s court link<br>3. Tarana — nonsense syllables<br>4. Qawwali — Amir Khusrau at Nizamuddin’s circle<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All four pairs are correctly matched.
+
+**Logic:** Do not park Tappa at Akbar’s court.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">a member of the Carnatic Trinity?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tyagaraja</div><div class="pyq-opt"><span class="opt-letter">B</span> Muthuswami Dikshitar</div><div class="pyq-opt"><span class="opt-letter">C</span> Syama Sastri</div><div class="pyq-opt"><span class="opt-letter">D</span> Tansen</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tansen is a Hindustani dhrupad master of Akbar’s Navaratna.
+
+**Logic:** Trinity = Tyagaraja, Dikshitar, Syama Sastri.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following gharana statements:<br><br>1. Gwalior is the oldest khayal gharana.<br>2. Agra gharana is of Agra city in UP.<br>3. Kirana gharana is linked with Kirana village in the western UP belt and with Bhimsen Joshi.<br>4. Maihar gharana is of Uttar Pradesh.<br><br>Which of the statements given above are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1, 2 and 3 are correct.
+
+**Logic:** Maihar is in Madhya Pradesh and is linked with Allauddin Khan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Bharat Ratna musician years in chronological order:<br><br>1. Bismillah Khan<br>2. M.S. Subbulakshmi<br>3. Bhimsen Joshi<br>4. Ravi Shankar<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–1–4–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–4–1–3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4–2–1–3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–4–3–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The order is 1998 → 1999 → 2001 → 2008.
+
+**Logic:** Subbulakshmi 1998, Ravi Shankar 1999, Bismillah Khan 2001, Bhimsen Joshi 2008.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to instrument families, which of the following pairs is/are correctly matched?<br><br>1. Tata — plucked string<br>2. Vitat — bowed string<br>3. Sushira — wind<br>4. Avanaddha — solid idiophone<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1–3 are correct.
+
+**Logic:** Avanaddha is membrane. Ghana is solid / idiophone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Shehnai is the Hindustani reed associated with Banaras.<br><br>Reason (R): Nadaswaram is the Carnatic temple reed.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is a parallel south Indian fact, not the explanation of Banaras shehnai.
+
+**A/R logic:** Shehnai vs nadaswaram is a confused pair, not cause and effect.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to raga and tala, which of the following statements is/are correct?<br><br>1. A raga is a melody framework.<br>2. A tala is a melody framework identical with raga.<br>3. Teental is 8 beats and Carnatic Adi tala is 16.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** A tala is a beat-cycle, not a melody framework. Teental is 16 beats; Carnatic Adi tala is 8.</div>
+  </div>
+</div>

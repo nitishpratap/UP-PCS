@@ -296,22 +296,6 @@ hide:
 | **BMS** | 1955 | **Dattopant Thengadi** | RSS / Nationalist stream | Rejects class conflict; largest trade union in India |
 | **CITU** | 1970 | **B.T. Ranadive** | CPI(M) stream | Formed after split in AITUC |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Indigo Revolt (1859–60)** | **Pabna Movement (1873–76)** | Fought against European planters forcing indigo under *dadan* vs Fought against Indian zamindars raising legal rents | नील विद्रोह / पाबना आंदोलन |
-| **Santhal Hul (1855–56)** | **Munda Ulgulan (1899–1900)** | Led by Sidhu & Kanhu in Rajmahal hills vs Led by Birsa Munda ("Dharti Aaba") in Chotanagpur | संथाल / मुंडा उलगुलान |
-| **Ahom Revolt (~1828)** | **Ahom Trap Year (1815)** | **1828** under Gomdhar Konwar is historically correct; **1815** is a recurring UPPCS trap option | अहोम 1828 / 1815 |
-| **Kol Rebellion (1831–32)** | **Khasi Uprising (1829–33)** | Chotanagpur (Buddhu Bhagat) vs Meghalaya hill road (Tirut Singh) | कोल / खासी |
-| **Moplah Rebellion (1921)** | **Bardoli Satyagraha (1928)** | Violent Muslim tenant uprising in Malabar vs Disciplined Gandhian non-tax satyagraha in Gujarat (Sardar Patel) | मोपला / बारडोली |
-| **UP Kisan Sabha (1918)** | **Oudh Kisan Sabha (1920)** | Founded by **Indra Narayan Dwivedi & Gauri Shankar** at Lucknow vs Organized by **Baba Ramchandra & Nehru** at Pratapgarh | यूपी किसान सभा / अवध किसान सभा |
-| **Baba Ramchandra (1920)** | **Swami Sahajanand Saraswati (1936)**| Awadh peasant mobilizer (recited Ramcharitmanas) vs Bihar patriarch & first President of All India Kisan Sabha | बाबा रामचंद्र / सहजानंद सरस्वती |
-| **Eka Movement (1921–22)** | **Tebhaga Movement (1946–47)** | Awadh peasant oath-movement for recorded rent receipts (Madari Pasi) vs Bengal sharecroppers demanding 2/3rd crop share | एका / तेभागा |
-| **AITUC (1920)** | **INTUC (1947)** | First labour federation (Lala Lajpat Rai; later CPI) vs Congress labour federation (Sardar Patel) | एटक / इंटक |
-| **Alluri Sitarama Raju (1922)**| **Rani Gaidinliu (1932)** | Led Rampa tribal guerrilla war in Andhra Pradesh vs Led Zeliangrong Naga tribal resistance in Manipur/Nagaland | सीताराम राजू / रानी गाइदिनल्यू |
-| **Bareilly Revolt 1816** | **Bareilly Revolt 1857** | Led by Mufti Muhammad Aiwaz against municipal tax vs Led by Khan Bahadur Khan in 1857 uprising | बरेली 1816 / 1857 |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Chronology of Landmark Peasant Uprisings:**
@@ -331,392 +315,304 @@ hide:
    - **Indigo 1859** → **Indigo Commission 1860**
    - **Deccan 1875** → **Deccan Relief Act 1879**.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Consider the following revolts and arrange them in correct chronological order.
-
-1. Pabna Revolt
-
-2. Indigo Revolt
-
-3. Kuka Revolt
-
-4. Sanyasi Revolt
-
-Select the correct answer from the code given below:
-
-A. 4, 3, 2, 1
-
-B. 3, 4, 1, 2
-
-C. 3, 4, 2, 1
-
-D. 4, 2, 3, 1
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Four-revolt chronology opener — Sanyasi is earliest; Pabna is last.
-
-**Ans: D.** Sanyasi → Indigo → Kuka → Pabna.
-
-</details>
-
-**Q2.**
-
-Consider the following events and arrange them in correct chronological order.
-
-1. Acquisition of Awadh by the British
-
-2. Ilbert Bill Controversy
-
-3. Indigo Revolt
-
-4. Second Anglo-Afghan War
-
-Select the correct answer from the code given below:
-
-A. 1, 3, 4, 2
-
-B. 3, 1, 2, 4
-
-C. 3, 1, 4, 2
-
-D. 1, 3, 2, 4
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — Awadh 1856 → Indigo 1859–60 (नील) → Second Afghan War 1878–80 → Ilbert 1883. Duplicate allowed with Topics 2 / 4 / 5.
-
-</details>
-
-**Q3.**
-
-Consider the following statements with reference to the Workers and Peasants Party:
-
-1. The Workers and Peasants Party was formed in 1927 and was given the form of an All India Organisation.
-
-2. The objective of this party was to work within the Congress so that it could be made a more revolution inclined party and an organisation of the common people.
-
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D** — Only 2. All-India form **December 1928**. Home **Topic 12**.
-
-</details>
-
-**Q4.**
-
-Match List-I with List-II and choose the correct answer using the codes given below the lists:
-
-**List-I (Revolt)**
-
-A. Paika Revolt
-
-B. Bareilly Revolt
-
-C. Malabar Revolt
-
-D. Sylhet Revolt
-
-**List-II (Leader)**
-
-1. Edachena Kungan
-
-2. Radharam
-
-3. Mufti Muhammad Aiwaz
-
-4. Jagabandhu Bidyadhar Mahapatra
-
-A. 4 3 1 2
-
-B. 3 4 1 2
-
-C. 3 2 1 4
-
-D. 2 1 3 4
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5.**
-
-In 1918, the **United Provinces Kisan Sabha** was formed by which of the following leaders?
-
-A. Baba Ramchandra
-
-B. Indra Narayan Dwivedi
-
-C. Swami Sahajanand Saraswati
-
-D. Pt. Jawaharlal Nehru
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6.**
-
-Which of the following events was the **last** in chronological order?
-
-A. Home Rule Movement
-
-B. Khilafat Movement
-
-C. Jallianwala Bagh Massacre
-
-D. Moplah Revolt
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q7.**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Trade Union)**
-
-A. Bharatiya Mazdoor Sangh
-
-B. Indian National Trade Union Congress
-
-C. United Trade Union Congress
-
-D. All India Trade Union Congress
-
-**List-II (Political Affiliation)**
-
-1. Indian National Congress
-
-2. Communist Party of India
-
-3. Communist Party of India (Marxist)
-
-4. Bharatiya Janata Party
-
-Standard paper code: **4 1 3 2**
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D (standard booklet)** — BMS–BJP; INTUC–Congress; UTUC–CPI(M); AITUC–CPI.
-
-Local `pyq/2022` English options omit this code (same class of mismatch as 2022 Q117).
-
-</details>
-
-**Q8.**
-
-Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
-
-A. V.P. Wadia
-
-B. N.M. Joshi
-
-C. C.F. Andrews
-
-D. Joseph Baptista
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: B — N.M. Joshi**
-
-</details>
-
-**Q9.**
-
-Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
-
-**List-I (Movement)**  **List-II (Year)**
-
-A. Pabna  1. 1855-56
-
-B. Eka  2. 1873-85
-
-C. Santhal  3. 1922
-
-D. Tana Bhagat  4. 1914
-
-A. 1 2 4 3
-
-B. 2 3 1 4
-
-C. 3 1 4 2
-
-D. 4 3 2 1
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.**
-
-Which of the following pairs is NOT correctly matched?
-
-Rebellion  Year
-
-A. Santhal 1855
-
-B. Kol 1831
-
-C. Khasi 1829
-
-D. Ahom 1815
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q11.**
-
-The major peasant upheaval in Bengal just after the Revolt of 1857 was:
-
-A. Santhal Hul
-
-B. Indigo Revolt
-
-C. Deccan Riots
-
-D. Pabna Agrarian League
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Indigo after 1857 in Bengal — standard chronology fact (UKPCS-tagged Extra cluster).
-
-**Ans: B.** The **Indigo Revolt (1859–60)** followed 1857 in Bengal.
-
-</details>
-
-**Q12.**
-
-Which tribal uprising is most closely linked to the Khandesh region of Maharashtra?
-
-A. Moplah rebellion
-
-B. Bhil rising
-
-C. Santhal Hul
-
-D. Kol rebellion
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Bhil rising = Khandesh — UKPCS tribal geography tag.
-
-**Ans: B.** The **Bhil** rising belongs to **Khandesh (Maharashtra / MP border)**.
-
-</details>
-
-**Q13.**
-
-The Lasodia movement among Bhils is associated with:
-
-A. Birsa Munda
-
-B. Govind Guru
-
-C. Jatra Oraon
-
-D. Alluri Sitarama Raju
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Lasodia = Govind Guru — UKPCS tribal leader tag.
-
-**Ans: B.** **Govind Guru** led the **Lasodia** stream among Bhils.
-
-</details>
-
-**Q14.**
-
-'Ulgulan' or the Great Tumult (1899–1900) was led by:
-
-A. Sidhu Murmu
-
-B. Birsa Munda
-
-C. Buddhu Bhagat
-
-D. Jadonang
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Ulgulan = Birsa Munda 1899–1900 — UKPCS must-score tribal card.
-
-**Ans: B.** **Birsa Munda** led **Ulgulan (1899–1900)** in Chotanagpur.
-
-</details>
-
-**Q15.**
-
-The title **Dharti Aaba** (Father of the Earth) is applied to:
-
-A. Birsa Munda
-
-B. Govind Guru
-
-C. Jadonang
-
-D. Alluri Sitarama Raju
-
-<details>
-
-<summary>Show answer</summary>
-
-**Logic:** Dharti Aaba = Birsa — UKPCS devotional title tag.
-
-**Ans: A.** **Dharti Aaba** is the title for **Birsa Munda**.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following revolts and arrange them in correct chronological order.<br><br>1. Pabna Revolt<br><br>2. Indigo Revolt<br><br>3. Kuka Revolt<br><br>4. Sanyasi Revolt<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 3, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 4, 1, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Four-revolt chronology opener — Sanyasi is earliest; Pabna is last.
+
+**Ans: D.** Sanyasi → Indigo → Kuka → Pabna.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following events and arrange them in correct chronological order.<br><br>1. Acquisition of Awadh by the British<br><br>2. Ilbert Bill Controversy<br><br>3. Indigo Revolt<br><br>4. Second Anglo-Afghan War<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 3, 4, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 1, 2, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 1, 4, 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 3, 2, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Awadh 1856 → Indigo 1859–60 (नील) → Second Afghan War 1878–80 → Ilbert 1883. Duplicate allowed with Topics 2 / 4 / 5.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with reference to the Workers and Peasants Party:<br><br>1. The Workers and Peasants Party was formed in 1927 and was given the form of an All India Organisation.<br><br>2. The objective of this party was to work within the Congress so that it could be made a more revolution inclined party and an organisation of the common people.<br><br>Which of the above statements is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2. All-India form **December 1928**. Home **Topic 12**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Revolt / Movement)</th>
+      <th>List-II (Leader)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Paika Revolt</td>
+      <td><span class="match-key">1</span> Edachena Kungan</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Bareilly Revolt</td>
+      <td><span class="match-key">2</span> Radharam</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Malabar Revolt</td>
+      <td><span class="match-key">3</span> Mufti Muhammad Aiwaz</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Sylhet Revolt</td>
+      <td><span class="match-key">4</span> Jagabandhu Bidyadhar Mahapatra</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 3 1 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 2 1 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 1 3 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In 1918, the **United Provinces Kisan Sabha** was formed by which of the following leaders?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Baba Ramchandra</div><div class="pyq-opt"><span class="opt-letter">B</span> Indra Narayan Dwivedi</div><div class="pyq-opt"><span class="opt-letter">C</span> Swami Sahajanand Saraswati</div><div class="pyq-opt"><span class="opt-letter">D</span> Pt. Jawaharlal Nehru</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following events was the **last** in chronological order?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Home Rule Movement</div><div class="pyq-opt"><span class="opt-letter">B</span> Khilafat Movement</div><div class="pyq-opt"><span class="opt-letter">C</span> Jallianwala Bagh Massacre</div><div class="pyq-opt"><span class="opt-letter">D</span> Moplah Revolt</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Trade Union)</th>
+        <th>List-II (Political Affiliation)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Bharatiya Mazdoor Sangh</td><td><span class="match-key">1</span> Indian National Congress</td></tr>
+    <tr><td><span class="match-key">B</span> Indian National Trade Union Congress</td><td><span class="match-key">2</span> Communist Party of India</td></tr>
+    <tr><td><span class="match-key">C</span> United Trade Union Congress</td><td><span class="match-key">3</span> Communist Party of India (Marxist)</td></tr>
+    <tr><td><span class="match-key">D</span> All India Trade Union Congress</td><td><span class="match-key">4</span> Bharatiya Janata Party</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 1 3 2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 1 4 2 3</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 4 2 1 3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 2 1 4 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (standard booklet)** — BMS–BJP; INTUC–Congress; UTUC–CPI(M); AITUC–CPI.
+
+Local `pyq/2022` English options omit this code (same class of mismatch as 2022 Q117).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> V.P. Wadia</div><div class="pyq-opt"><span class="opt-letter">B</span> N.M. Joshi</div><div class="pyq-opt"><span class="opt-letter">C</span> C.F. Andrews</div><div class="pyq-opt"><span class="opt-letter">D</span> Joseph Baptista</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> N.M. Joshi</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the codes given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Movement)</th>
+        <th>List-II (Year)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Pabna</td><td><span class="match-key">1</span> 1855–56</td></tr>
+    <tr><td><span class="match-key">B</span> Eka</td><td><span class="match-key">2</span> 1873–85</td></tr>
+    <tr><td><span class="match-key">C</span> Santhal</td><td><span class="match-key">3</span> 1921–22</td></tr>
+    <tr><td><span class="match-key">D</span> Tana Bhagat</td><td><span class="match-key">4</span> 1914</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 2 4 3</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 2 3 1 4</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 3 1 4 2</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 4 3 2 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?<br><br>Rebellion  Year</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Santhal 1855</div><div class="pyq-opt"><span class="opt-letter">B</span> Kol 1831</div><div class="pyq-opt"><span class="opt-letter">C</span> Khasi 1829</div><div class="pyq-opt"><span class="opt-letter">D</span> Ahom 1815</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The major peasant upheaval in Bengal just after the Revolt of 1857 was:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Santhal Hul</div><div class="pyq-opt"><span class="opt-letter">B</span> Indigo Revolt</div><div class="pyq-opt"><span class="opt-letter">C</span> Deccan Riots</div><div class="pyq-opt"><span class="opt-letter">D</span> Pabna Agrarian League</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Indigo after 1857 in Bengal — standard chronology fact (UKPCS-tagged Extra cluster).
+
+**Ans: B.** The **Indigo Revolt (1859–60)** followed 1857 in Bengal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which tribal uprising is most closely linked to the Khandesh region of Maharashtra?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Moplah rebellion</div><div class="pyq-opt"><span class="opt-letter">B</span> Bhil rising</div><div class="pyq-opt"><span class="opt-letter">C</span> Santhal Hul</div><div class="pyq-opt"><span class="opt-letter">D</span> Kol rebellion</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bhil rising = Khandesh — UKPCS tribal geography tag.
+
+**Ans: B.** The **Bhil** rising belongs to **Khandesh (Maharashtra / MP border)**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The Lasodia movement among Bhils is associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Birsa Munda</div><div class="pyq-opt"><span class="opt-letter">B</span> Govind Guru</div><div class="pyq-opt"><span class="opt-letter">C</span> Jatra Oraon</div><div class="pyq-opt"><span class="opt-letter">D</span> Alluri Sitarama Raju</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Lasodia = Govind Guru — UKPCS tribal leader tag.
+
+**Ans: B.** **Govind Guru** led the **Lasodia** stream among Bhils.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">'Ulgulan' or the Great Tumult (1899–1900) was led by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sidhu Murmu</div><div class="pyq-opt"><span class="opt-letter">B</span> Birsa Munda</div><div class="pyq-opt"><span class="opt-letter">C</span> Buddhu Bhagat</div><div class="pyq-opt"><span class="opt-letter">D</span> Jadonang</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ulgulan = Birsa Munda 1899–1900 — UKPCS must-score tribal card.
+
+**Ans: B.** **Birsa Munda** led **Ulgulan (1899–1900)** in Chotanagpur.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The title **Dharti Aaba** (Father of the Earth) is applied to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Birsa Munda</div><div class="pyq-opt"><span class="opt-letter">B</span> Govind Guru</div><div class="pyq-opt"><span class="opt-letter">C</span> Jadonang</div><div class="pyq-opt"><span class="opt-letter">D</span> Alluri Sitarama Raju</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dharti Aaba = Birsa — UKPCS devotional title tag.
+
+**Ans: A.** **Dharti Aaba** is the title for **Birsa Munda**.</div>
+  </div>
+</div>

@@ -141,27 +141,6 @@ hide:
 | **Sanctioned Judicial Strength** | **160 Judges** (120 Permanent + 40 Additional) | **Largest sanctioned bench** of any High Court in India. |
 | **First Chief Justice** | **Sir Walter Morgan** (1866–1871) | First Indian CJ: **Sir Shah Muhammad Sulaiman (1932)**. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Trap | What Examiner Falsely Claims | True Exam Position | Hindi Key |
-|---|---|---|---|
-| **UP Assembly Strength** | Claiming UP Assembly has 425 or 500 members. | Present strength is **403 directly elected members**; 425 was pre-2000; Anglo-Indian seat abolished. | उप्र विधानसभा सदस्य संख्या (403) |
-| **UP Legislative Council Strength** | Claiming Council strength is 134 or 108. | Actual strength is **100 members**; 134 is the theoretical constitutional cap (403/3); 108 was pre-2000. | उप्र विधान परिषद सदस्य संख्या (100) |
-| **Dissolution of Vidhan Parishad** | Stating Governor dissolved the Vidhan Parishad. | Vidhan Parishad is a **Permanent House and CANNOT be dissolved**; can only be abolished under Art. 169. | विधान परिषद विघटन भ्रम (स्थायी सदन) |
-| **UP Parliamentary Representation** | Claiming LS is 85 and RS is 34. | Post-Uttarakhand: **Lok Sabha = 80 seats**; **Rajya Sabha = 31 seats**. | उप्र संसदीय सीटें (80 लोकसभा, 31 राज्यसभा) |
-| **State Capital vs High Court Seat** | Claiming Prayagraj is the capital because of the HC. | Administrative capital is **Lucknow**; Principal seat of High Court is **Prayagraj (Allahabad)**. | प्रशासनिक राजधानी (लखनऊ) / मुख्य पीठ (प्रयागराज) |
-| **Lucknow High Court Status** | Treating Lucknow as a separate High Court. | Lucknow is a **Bench** of Allahabad High Court (created 1948), not an independent HC. | लखनऊ खंडपीठ (इलाहाबाद हाईकोर्ट का भाग) |
-| **First Governor vs First CM** | Interchanging Sarojini Naidu and G.B. Pant. | First Governor = **Sarojini Naidu**; First Chief Minister = **Govind Ballabh Pant**. | प्रथम राज्यपाल (सरोजिनी नायडू) / प्रथम सीएम (पंत) |
-| **Official Language Status of Urdu** | Stating Urdu is the sole official language of UP. | **Hindi is the Primary Official Language (1951)**; Urdu was added as **Second Official Language in 1989**. | द्वितीय राजभाषा उर्दू (1989) |
-| **Creation Date of Uttarakhand** | Trapping Uttarakhand creation as 1 November 2000. | Created on **9 November 2000** (1 Nov 2000 was Chhattisgarh; 15 Nov 2000 was Jharkhand). | उत्तराखंड गठन तिथि (9 नवंबर 2000) |
-| **Original Name of Uttarakhand** | Claiming it was always named Uttarakhand. | Named **Uttaranchal** from 2000 until **1 January 2007**, when it was renamed Uttarakhand. | उत्तरांचल से उत्तराखंड (1 जनवरी 2007) |
-| **Number of Administrative Divisions** | Stating UP has 17 or 75 divisions. | UP has **18 Divisions** and **75 Districts** (Aligarh was 18th in 2008). | मंडल (18) / जिले (75) |
-| **Devipatan Division Headquarters** | Trapping Devipatan HQ as Lucknow or Bahraich. | Devipatan Division HQ is at **Gonda** (Bahraich, Balrampur, Gonda, Shravasti). | देवीपाटन मंडल मुख्यालय (गोंडा) |
-| **UPPSC Headquarters Location** | Stating UPPSC is headquartered in Lucknow. | UPPSC is headquartered in **Prayagraj (Allahabad)**, NOT Lucknow. | उप्र लोक सेवा आयोग मुख्यालय (प्रयागराज) |
-| **Removal of UPPSC Members** | Stating Governor removes UPPSC members. | Appointed by Governor, but **REMOVED ONLY BY THE PRESIDENT** under Article 317. | उप्र लोक सेवा आयोग पदमुक्ति (केवल राष्ट्रपति) |
-| **UP Lokayukta Term of Office** | Trapping tenure as 5 or 6 years like other bodies. | Term of UP Lokayukta is **8 YEARS** (extended by 2012 amendment from 6 yrs). | उप्र लोकायुक्त कार्यकाल (8 वर्ष) |
-| **Women Reservation in UP Panchayats** | Claiming UP provides 50% reservation for women. | UP provides **33% (one-third) reservation** for women; 50% is in Bihar and MP. | उप्र पंचायत महिला आरक्षण (33% मात्र) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. UP Legislative Representation: "403 - 100 - 80 - 31"
@@ -185,319 +164,282 @@ hide:
 - While most constitutional/statutory ombudsmen have 3, 5, or 6-year terms, **UP Lokayukta serves an 8-YEAR TERM** (2012 Amendment Act).
 
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** With reference to Uttar Pradesh’s geography of power, which of the following statements is/are correct?
-
-1. Capital (Raj Bhavan / Vidhan Bhavan) is Lucknow.
-2. High Court principal seat is Lucknow; Prayagraj hosts only a Bench.
-3. The Governor of UP is elected by the State Assembly.
-
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Capital is Lucknow. High Court principal seat is Prayagraj; Lucknow hosts a Bench. UPPSC HQ is Prayagraj, not Lucknow.
-
-</details>
-
-**Q2.** correctly matched?
-
-A. First Governor — Sarojini Naidu (15 Aug 1947)
-B. First CM — Govind Ballabh Pant
-C. First woman CM — Sucheta Kripalani (1963)
-D. First Governor — Govind Ballabh Pant
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Pant was first CM, not first Governor.
-
-**Logic:** Do not swap Governor and CM firsts.
-
-</details>
-
-**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): After 9 November 2000, UP Assembly strength is 403, Lok Sabha 80 and Rajya Sabha 31.
-
-Reason (R): Uttarakhand was created by the UP Reorganisation Act 2000 (then named Uttaranchal).
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R correctly explains the arithmetic change in A.
-
-**A/R logic:** Reorganisation carved 13 districts; seat counts fell 425/85/34 → 403/80/31.
-
-</details>
-
-**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I | List-II |
-|--------|--------|
-| A. UP LA | 1. 100 members; 1/3 retire every 2 years |
-| B. UP LC | 2. 403 elected |
-| C. CoM cap (91st) | 3. ≤15% of LA (≈60 incl. CM); floor 12 |
-| D. Art. 371 series for UP | 4. None |
-
-> Note: Row order is **not** the answer.
-
-Select the correct answer using the code given below:
-
-A. A-1, B-2, C-3, D-4
-B. A-2, B-1, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A-2, B-1, C-3, D-4.
-
-**Logic:** UP has no 371–371J special provision.
-
-</details>
-
-**Q5.** Arrange chronologically: I. Allahabad HC Letters Patent II. Lucknow Bench amalgamation order III. Uttaranchal creation IV. Rename to Uttarakhand
-
-Select the correct answer from the code given below:
-
-A. II–I–III–IV
-B. I–II–III–IV
-C. I–III–II–IV
-D. I–II–IV–III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1866 → 1948 → 9 Nov 2000 → 1 Jan 2007.
-
-**Logic:** First seat Agra (1866); Lucknow Bench 1948; reorganisation then rename.
-
-</details>
-
-**Q6.** With reference to UP Legislative Council composition (100), which of the following is/are correct?
-
-1. UP Legislative Council composition is 36 + 8 + 8 + 36 + 12 = 100.
-2. Article 171 caps a Council at half the Assembly with no minimum strength; UP chose 250.
-3. State Election Commission of UP is identical with the Election Commission of India.
-
-A. 1 and 2
-B. Only 1
-C. Only 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** UP LC composition is 36+8+8+36+12 = 100. Article 171 caps at one-third of the Assembly with a minimum of 40. The Council cannot be dissolved like the Assembly. UP Panchayat law provides 50% women’s reservation, above the constitutional one-third floor.
-
-</details>
-
-**Q7.** With reference to UP in Parliament, which of the following is/are correct?
-
-1. UP sends 80 Lok Sabha and 31 Rajya Sabha members — both largest State contingents.
-2. Lok Sabha reserved seats from UP are 17 SC and 0 ST.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Both 1 and 2
-C. Only 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both 1 and 2 are correct.
-
-**Logic:** Pre-2000 figures were 85 LS and 34 RS.
-
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): There is a “Panchayati Raj Commission of India” that runs UP local polls instead of the SEC.
-
-Select the correct answer from the code given below:
-
-Reason (R): UP State Election Commission conducts Panchayat and urban local body polls.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A false, R true.
-
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Local polls = SEC (243K/243ZA); legislature polls = ECI. No PR Commission of India.
-
-</details>
-
-**Q9.** correctly matched?
-
-A. Official language — Hindi in Devanagari (1951 Act)
-B. Second official language — Urdu (1989)
-C. Allahabad HC — one of the 1862 Chartered High Courts with Bombay/Calcutta/Madras
-D. First HC seat — Agra (1866), moved to Allahabad 1869
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Allahabad HC is not one of the 1862 Chartered High Courts.
-
-**Logic:** Letters Patent 17 Mar 1866 for NWP; Chartered three are Bombay/Calcutta/Madras.
-
-</details>
-
-**Q10.** With reference to UPPSC, which of the following is/are correct?
-
-1. HQ Prayagraj; Governor appoints; President removes after SC path on misbehaviour.
-2. Age limit 62 / six years.
-3. Functions are extended by the UP Legislature under Article 321.
-
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-B. Only 2 and 3
-C. Only 1
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three statements are correct.
-
-**Logic:** UPPSC ≠ UPSC (Delhi) ≠ UP SEC (Lucknow).
-
-</details>
-
-**Q11.** With reference to Assembly-strength traps, which of the following is/are correct?
-
-1. Manipur Assembly is 62.
-
-Select the correct answer from the code given below:
-2. UP Assembly is 403; Uttarakhand Assembly is 70.
-
-A. Only 2
-B. Only 1
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Manipur is 60, not 62 — a known NOT-matched trap.
-
-</details>
-
-**Q12.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I | List-II |
-|--------|--------|
-| A. Gram Panchayat head | 1. Adhyaksha |
-| B. Kshetra Panchayat head | 2. Pradhan |
-| C. Zila Panchayat head | 3. Pramukh |
-| D. UP intermediate tier name | 4. Kshetra Panchayat |
-
-> Note: Row order is **not** the answer.
-
-Select the correct answer using the code given below:
-
-A. A-3, B-2, C-1, D-4
-B. A-2, B-3, C-1, D-4
-C. A-2, B-1, C-3, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A-2, B-3, C-1, D-4.
-
-**Logic:** UP uses Kshetra Panchayat — not the generic Panchayat Samiti label.
-
-</details>
-
-**Q13.** Arrange: I. UP Panchayat Raj village Act II. Kshetra–Zila Adhiniyam III. UP Lokayukta Act IV. Union Lokpal Act
-
-Select the correct chronological answer:
-
-A. I–II–III–IV
-B. II–I–III–IV
-C. I–III–II–IV
-D. I–II–IV–III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1947 → 1961 → 1975 → 2013.
-
-**Logic:** UP Lokayukta precedes Union Lokpal.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Noida, Greater Noida and YEIDA are industrial township exceptions under Article 243Q.
-
-Reason (R): Therefore they are Nagar Nigams under the Municipal Corporation Act 1959.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** Industrial development authorities ≠ elected Nagar Nigams.
-
-</details>
-
-**Q15.** With reference to urban local bodies in UP, which of the following is/are correct?
-
-1. Cantonment Boards are under the 74th municipal track of the State.
-2. Three types: Nagar Nigam (1959 Act), Nagar Palika Parishad and Nagar Panchayat (1916 Act track).
-3. Mayor is political head; Nagar Ayukt/Commissioner is the executive.
-
-A. Only 1
-B. Only 1 and 2
-C. Only 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** 2 and 3 only are correct.
-
-**Logic:** Cantonment Boards are under Defence / Cantonments Act.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Uttar Pradesh’s geography of power, which of the following statements is/are correct?<br><br>1. Capital (Raj Bhavan / Vidhan Bhavan) is Lucknow.<br>2. High Court principal seat is Lucknow; Prayagraj hosts only a Bench.<br>3. The Governor of UP is elected by the State Assembly.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Capital is Lucknow. High Court principal seat is Prayagraj; Lucknow hosts a Bench. UPPSC HQ is Prayagraj, not Lucknow.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> First Governor — Sarojini Naidu (15 Aug 1947)</div><div class="pyq-opt"><span class="opt-letter">B</span> First CM — Govind Ballabh Pant</div><div class="pyq-opt"><span class="opt-letter">C</span> First woman CM — Sucheta Kripalani (1963)</div><div class="pyq-opt"><span class="opt-letter">D</span> First Governor — Govind Ballabh Pant</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pant was first CM, not first Governor.
+
+**Logic:** Do not swap Governor and CM firsts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): After 9 November 2000, UP Assembly strength is 403, Lok Sabha 80 and Rajya Sabha 31.<br><br>Reason (R): Uttarakhand was created by the UP Reorganisation Act 2000 (then named Uttaranchal).<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R correctly explains the arithmetic change in A.
+
+**A/R logic:** Reorganisation carved 13 districts; seat counts fell 425/85/34 → 403/80/31.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> UP LA</td><td><span class="match-key">1</span> 100 members; 1/3 retire every 2 years</td></tr>
+      <tr><td><span class="match-key">B</span> UP LC</td><td><span class="match-key">2</span> 403 elected</td></tr>
+      <tr><td><span class="match-key">C</span> CoM cap (91st)</td><td><span class="match-key">3</span> ≤15% of LA (≈60 incl. CM); floor 12</td></tr>
+      <tr><td><span class="match-key">D</span> Art. 371 series for UP</td><td><span class="match-key">4</span> None</td></tr>
+  </tbody>
+</table><br>> Note: Row order is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3, D-4.
+
+**Logic:** UP has no 371–371J special provision.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange chronologically: I. Allahabad HC Letters Patent II. Lucknow Bench amalgamation order III. Uttaranchal creation IV. Rename to Uttarakhand<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> II–I–III–IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I–II–III–IV</div><div class="pyq-opt"><span class="opt-letter">C</span> I–III–II–IV</div><div class="pyq-opt"><span class="opt-letter">D</span> I–II–IV–III</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1866 → 1948 → 9 Nov 2000 → 1 Jan 2007.
+
+**Logic:** First seat Agra (1866); Lucknow Bench 1948; reorganisation then rename.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to UP Legislative Council composition (100), which of the following is/are correct?<br><br>1. UP Legislative Council composition is 36 + 8 + 8 + 36 + 12 = 100.<br>2. Article 171 caps a Council at half the Assembly with no minimum strength; UP chose 250.<br>3. State Election Commission of UP is identical with the Election Commission of India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** UP LC composition is 36+8+8+36+12 = 100. Article 171 caps at one-third of the Assembly with a minimum of 40. The Council cannot be dissolved like the Assembly. UP Panchayat law provides 50% women’s reservation, above the constitutional one-third floor.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to UP in Parliament, which of the following is/are correct?<br><br>1. UP sends 80 Lok Sabha and 31 Rajya Sabha members — both largest State contingents.<br>2. Lok Sabha reserved seats from UP are 17 SC and 0 ST.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct.
+
+**Logic:** Pre-2000 figures were 85 LS and 34 RS.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): There is a “Panchayati Raj Commission of India” that runs UP local polls instead of the SEC.<br><br>Select the correct answer from the code given below:<br><br>Reason (R): UP State Election Commission conducts Panchayat and urban local body polls.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A false, R true.
+
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Local polls = SEC (243K/243ZA); legislature polls = ECI. No PR Commission of India.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Official language — Hindi in Devanagari (1951 Act)</div><div class="pyq-opt"><span class="opt-letter">B</span> Second official language — Urdu (1989)</div><div class="pyq-opt"><span class="opt-letter">C</span> Allahabad HC — one of the 1862 Chartered High Courts with Bombay/Calcutta/Madras</div><div class="pyq-opt"><span class="opt-letter">D</span> First HC seat — Agra (1866), moved to Allahabad 1869</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Allahabad HC is not one of the 1862 Chartered High Courts.
+
+**Logic:** Letters Patent 17 Mar 1866 for NWP; Chartered three are Bombay/Calcutta/Madras.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to UPPSC, which of the following is/are correct?<br><br>1. HQ Prayagraj; Governor appoints; President removes after SC path on misbehaviour.<br>2. Age limit 62 / six years.<br>3. Functions are extended by the UP Legislature under Article 321.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** UPPSC ≠ UPSC (Delhi) ≠ UP SEC (Lucknow).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Assembly-strength traps, which of the following is/are correct?<br><br>1. Manipur Assembly is 62.<br><br>Select the correct answer from the code given below:<br>2. UP Assembly is 403; Uttarakhand Assembly is 70.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Manipur is 60, not 62 — a known NOT-matched trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Gram Panchayat head</td><td><span class="match-key">1</span> Adhyaksha</td></tr>
+      <tr><td><span class="match-key">B</span> Kshetra Panchayat head</td><td><span class="match-key">2</span> Pradhan</td></tr>
+      <tr><td><span class="match-key">C</span> Zila Panchayat head</td><td><span class="match-key">3</span> Pramukh</td></tr>
+      <tr><td><span class="match-key">D</span> UP intermediate tier name</td><td><span class="match-key">4</span> Kshetra Panchayat</td></tr>
+  </tbody>
+</table><br>> Note: Row order is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-2, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-3, C-4, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-3, C-1, D-4.
+
+**Logic:** UP uses Kshetra Panchayat — not the generic Panchayat Samiti label.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Arrange: I. UP Panchayat Raj village Act II. Kshetra–Zila Adhiniyam III. UP Lokayukta Act IV. Union Lokpal Act<br><br>Select the correct chronological answer:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I–II–III–IV</div><div class="pyq-opt"><span class="opt-letter">B</span> II–I–III–IV</div><div class="pyq-opt"><span class="opt-letter">C</span> I–III–II–IV</div><div class="pyq-opt"><span class="opt-letter">D</span> I–II–IV–III</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1947 → 1961 → 1975 → 2013.
+
+**Logic:** UP Lokayukta precedes Union Lokpal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Noida, Greater Noida and YEIDA are industrial township exceptions under Article 243Q.<br><br>Reason (R): Therefore they are Nagar Nigams under the Municipal Corporation Act 1959.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** Industrial development authorities ≠ elected Nagar Nigams.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to urban local bodies in UP, which of the following is/are correct?<br><br>1. Cantonment Boards are under the 74th municipal track of the State.<br>2. Three types: Nagar Nigam (1959 Act), Nagar Palika Parishad and Nagar Panchayat (1916 Act track).<br>3. Mayor is political head; Nagar Ayukt/Commissioner is the executive.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 and 3 only are correct.
+
+**Logic:** Cantonment Boards are under Defence / Cantonments Act.</div>
+  </div>
+</div>

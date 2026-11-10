@@ -73,6 +73,17 @@ hide:
 ---
 49. **Tehri Dam Characteristics**: Located at the confluence of **Bhagirathi and Bhilangna** rivers in Tehri Garhwal, Uttarakhand; at **260.5 m (855 ft)** it is the **highest dam in India** and 4th highest earth-and-rock fill dam in the world; creates Swami Ramtirth Sagar reservoir.
 50. **Hirakud Dam Dimensions**: Constructed across the **Mahanadi River** near Sambalpur in Odisha; with an overall dyke length of **25.8 km (main dam 4.8 km)**, it is the **longest earthen dam in India**; operational since 1957.
+51. **Wular Lake (Bandipora, J&K):** Largest freshwater lake in India; tectonic origin, fed and drained by the **Jhelum River**; hosts Tulbul Navigation Project; designated Ramsar Wetland (1990).
+52. **Dal Lake (Srinagar, J&K):** 'Jewel in the crown of Kashmir'; fed by Telbal nallah; famous for **Shikaras**, houseboats, and floating gardens (*Radh*); connected to Nagin Lake.
+53. **Chilika Lake (Odisha):** Largest brackish water coastal lagoon in India and second largest in the world; separated from Bay of Bengal by 60 km long sand spit; designated India's **first Ramsar site (1981)**; home to endangered **Irrawaddy dolphins**; hosts Nalabana Bird Sanctuary.
+54. **Pulicat Lake (Andhra Pradesh & Tamil Nadu border):** Second largest brackish water lagoon in India; 84% in AP (Nellore), 16% in TN; separated from Bay of Bengal by barrier island of **Sriharikota** (ISRO Satish Dhawan Space Centre); famous for greater flamingos.
+55. **Vembanad Lake (Kerala):** Longest lake in India (96 km) and largest in Kerala; covers Kottayam, Alappuzha, and Ernakulam districts; famous for **Nehru Trophy Snake Boat Race (*Vallam Kali*)** held at Punnamada; feeds Cochin port; separated from sea by barrier spit; Kumarakom Bird Sanctuary on eastern bank.
+56. **Loktak Lake (Bishnupur, Manipur):** Largest freshwater lake in North-East India; unique for **Phumdis** (floating heterogeneous masses of vegetation, soil, and organic matter); hosts **Keibul Lamjao National Park** (the world's ONLY floating national park), the sole natural habitat of the endangered brow-antlered deer (**Sangai** / 'dancing deer').
+57. **Sambhar Salt Lake (Jaipur/Nagaur, Rajasthan):** India's largest inland saline lake; Ramsar wetland; key source of salt production in Rajasthan; shallow playa depression fed by Mendha, Runpangarh, Khari, and Khandel rivers.
+58. **Lonar Crater Lake (Buldhana, Maharashtra):** Unique hyper-velocity meteorite impact crater lake formed ~50,000 years ago during Pleistocene epoch; basaltic rock; saline and alkaline water; turned bright pink in 2020 due to Haloarchaea microbes.
+59. **Pangong Tso & Tso Moriri (Ladakh):** **Pangong Tso** is the world's highest saltwater endorheic lake (4,225 m), extending across Ladakh (40%) and Tibet (60%); **Tso Moriri** (Mountain Lake) is a high-altitude freshwater-to-brackish Ramsar wetland in Changthang plateau.
+60. **Highest Altitude Lakes of India:** (1) **Cholamu / Tso Lhamo Lake (Sikkim):** 5,330 m (source of Teesta River) - highest lake in India; (2) **Gurudongmar Lake (Sikkim):** 5,154 m (sacred to Buddhists and Sikhs); (3) Suraj Tal (Himachal Pradesh - source of Bhaga river, 4,883 m).
+61. **Major Waterfalls of India (Exam Frequency):** (1) **Kunchikal Falls (Shimoga, Karnataka):** 455 m on Varahi river (tiered cascading waterfall); (2) **Nohkalikai Falls (East Khasi Hills, Meghalaya):** 340 m (tallest plunge waterfall in India near Cherrapunji); (3) **Jog / Gersoppa Falls (Shimoga, Karnataka):** 253 m on **Sharavathi River** (four distinct cascades: Raja, Roarer, Rocket, Rani); (4) **Dhuandhar Falls (Jabalpur, MP):** On **Narmada River** cutting through white marble rocks at Bhedaghat; (5) **Dudhsagar Falls (Goa/Karnataka border):** 310 m tiered waterfall on **Mandovi River**; (6) **Chitrakote Falls (Bastar, Chhattisgarh):** 30 m horse-shoe waterfall on **Indravati River** ('Niagara of India'); (7) **Hundru Falls (Ranchi, Jharkhand):** 98 m on **Subarnarekha River**; (8) **Kapildhara & Dudhdhara Falls (Amarkantak, MP):** On Narmada river; (9) **Shivasamudram Falls (Mandya/Chamarajanagar, Karnataka):** On **Kaveri River** (Barachukki and Gaganachukki branches).
 
 ## ⏱️ Timeline / Chronology
 
@@ -164,21 +175,6 @@ hide:
 | **Rihand Dam** | **Rihand River** | **Govind Ballabh Pant Sagar** | **Uttar Pradesh** (Sonbhadra) | Concrete gravity dam (91.4 m); feeds thermal power plants of Singrauli and Renukoot aluminium smelter |
 | **Matatila Dam** | **Betwa River** | Matatila Reservoir | **UP and MP** (Lalitpur/Jhansi) | Multipurpose joint undertaking of Uttar Pradesh and Madhya Pradesh |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Wular Lake** | **Chilika Lake** | Largest **freshwater lake** in India (J&K, tectonic origin on Jhelum) vs Largest **brackish water coastal lagoon** in India (Odisha, Ramsar site) | वुलर (मीठा जल) / चिल्का (खारा लैगून) |
-| **Chilika Lake** | **Sambhar Lake** | Largest coastal **brackish water lagoon** (Bay of Bengal) vs Largest **inland saline lake** (Thar Desert, Rajasthan) | चिल्का / सांभर झील |
-| **Jog Falls (Gersoppa)** | **Kunchikal Falls** | Single **unbroken plunge waterfall** on Sharavathi River (253 m) vs **Multi-tiered cascading waterfall** on Varahi River (455 m total drop) | जोग (प्रपात) / कुंचिकल प्रपात |
-| **Chitrakote Falls** | **Chulia Falls** | Horseshoe-shaped "Niagara of India" on **Indravati River** in Bastar, Chhattisgarh vs Rapids waterfall on **Chambal River** in Rawatbhata, Rajasthan | चित्रकूट (इंद्रावती) / चूलिया (चंबल) |
-| **Tehri Dam** | **Bhakra Dam** | **Highest dam in India (260.5 m)**, rock-and-earth fill type on Bhagirathi vs **Highest concrete gravity dam (226 m)** on Sutlej River | टिहरी (सबसे ऊंचा) / भाखड़ा (गुरुत्वीय) |
-| **Bhakra Dam** | **Hirakud Dam** | Concrete gravity dam on **Sutlej River** in HP vs Longest earthen dam (25.8 km) on **Mahanadi River** in Odisha | भाखड़ा / हीराकुंड बांध |
-| **Pulicat Lake** | **Kolleru Lake** | Brackish water lagoon separated by **Sriharikota Island** on AP–TN border vs Purely **freshwater lake** nestled between Krishna and Godavari deltas in AP | पुलिकट / कोल्लेरू झील |
-| **Lonar Lake** | **Roopkund Lake** | Meteorite impact crater lake in **Maharashtra basalt** vs High-altitude glacial "Skeleton Lake" in **Uttarakhand Himalayas** | लोनार / रूपकुंड झील |
-| **Govind Ballabh Pant Sagar** | **Gobind Sagar** | Artificial reservoir of **Rihand Dam in Sonbhadra (UP)** vs Artificial reservoir of **Bhakra Dam in Bilaspur (HP)** | गोविंद बल्लभ पंत सागर / गोबिंद सागर |
-| **Dhuandhar Falls** | **Kapildhara Falls** | Marble Rocks gorge waterfall near **Jabalpur (MP)** vs Headwater waterfall near **Amarkantak source (MP)** — both on Narmada | धुआंधार / कपिलधारा प्रपात |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The Lake Extremes of India:
@@ -193,371 +189,360 @@ hide:
 - **R-R-R-R**: **R**aja, **R**oarer, **R**ocket, and **R**ani
 - *(Located on **Sharavathi River**, Shimoga, Karnataka)*
 
-### 3. Dam Twin-Name Examiner Traps:
-- **Govind Ballabh Pant Sagar** = **Rihand Dam** (Sonbhadra, UP)
-- **Gobind Sagar** = **Bhakra Dam** (Bilaspur, HP)
-- *(Exam Lock: UP Chief Minister Pant = UP Sonbhadra; Sikh Guru Gobind Singh = Punjab/HP border!)*
-
 ### 4. Niagara of India:
 - **Chitrakote Falls** on **Indravati River** (Bastar, Chhattisgarh — horseshoe crest in monsoon).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which one of the following is the largest east-coast lagoon of India?
-
-A. Chilika
-B. Sambhar
-C. Wular
-D. Loktak
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Chilika** is the largest east-coast lagoon (Odisha).
-
-**Logic:** Sambhar = largest **inland** saline; Wular = freshwater volume king; Loktak = Manipur phumdis.
-
-</details>
-
-**Q2.**
-With reference to Indian lakes, which of the following pairs is/are correctly matched?
-
-1. Lonar — meteorite crater in Maharashtra basalt
-2. Kabartal — oxbow Ramsar lake of Bihar
-3. Vembanad — India’s overall largest lake by area
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Vembanad is Kerala’s largest and India’s **longest** west-coast kayal — not the overall largest lake.
-
-</details>
-
-**Q3.**
-India’s 100th Ramsar site (5 June 2026) is:
-
-A. Surha Tal / JP Narayan Bird Sanctuary, Ballia, UP
-B. Sultanpur, Haryana
-C. Rudrasagar, Tripura
-D. Hokera, Punjab
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Surha Tal / JP Narayan BS, Ballia — India’s 100th Ramsar; UP total **13**.
-
-**Logic:** Sultanpur/Rudrasagar/Hokera are not-UP or wrong-state traps (Hokera is J&K, not Punjab).
-
-</details>
-
-**Q4.**
-Assertion (A): Kunchikal is the usual highest waterfall key in UPPCS-type teaching sets.
-Reason (R): Jog Falls on the Sharavati is famous mainly for its width, not for being India’s highest fall.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R correctly contrasts Jog but does not itself prove why Kunchikal is the height key (Nohkalikai is tallest plunge).
-
-**A/R logic:** Height crowns split as Kunchikal (highest total) vs Nohkalikai (tallest plunge) vs Jog (width).
-
-</details>
-
-**Q5.**
-Which dam–river pair is correctly matched?
-
-A. Hirakud — Mahanadi
-B. Bhakra–Nangal — Beas
-C. Tehri — Alaknanda alone
-D. Ban Sagar — Narmada
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Hirakud is on the **Mahanadi** (Odisha).
-
-**Logic:** Bhakra = Sutlej; Tehri = Bhagirathi (+ Bhilangana); Ban Sagar = Son.
-
-</details>
-
-**Q6.**
-Sardar Sarovar and Indira Sagar are correctly distinguished as:
-
-A. Both on Krishna in Andhra Pradesh
-B. SSP on Narmada in Gujarat; Indira Sagar on Narmada in Madhya Pradesh
-C. Both on Son in Bundelkhand
-D. SSP on Tapi; Indira Sagar on Mahi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** SSP = Narmada Gujarat; Indira Sagar = Narmada MP (volume king).
-
-**Logic:** State swap and Ban Sagar–Son confusion are common.
-
-</details>
-
-**Q7.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Feature) | List-II (Association) |
-|---|---|
-| 1. DVC | A. First multipurpose valley project of independent India (1948) |
-| 2. Sidrapong | B. Oldest hydro (Darjeeling, 1897) |
-| 3. Shivasamudram | C. Second hydro (Cauvery, 1902) |
-| 4. Farakka | D. Barrage diverting ~40,000 cusec to Hooghly |
-
-A. 1-B, 2-A, 3-C, 4-D
-B. 1-A, 2-B, 3-C, 4-D
-C. 1-A, 2-C, 3-B, 4-D
-D. 1-A, 2-B, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** DVC 1948; Sidrapong 1897; Shivasamudram 1902; Farakka = diversion barrage.
-
-**Logic:** Row order is not the answer code. Dam stores vs barrage diverts is the Farakka trap.
-
-</details>
-
-**Q8.**
-National Water Policy 2012 places first priority on:
-
-A. Irrigation
-B. Drinking water
-C. Hydropower
-D. Industrial use
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** NWP 2012 puts **drinking** first.
-
-**Logic:** PMKSY / Atal Jal are scheme overlays, not the policy priority line.
-
-</details>
-
-**Q9.**
-Which waterfall–river pair is correctly matched?
-
-A. Kapildhara — Godavari
-B. Shivanasamudra — Cauvery
-C. Jog — Cauvery
-D. Lodh / Budha Ghagh — Kanchi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Shivanasamudra is on the **Cauvery** (volume king).
-
-**Logic:** Kapildhara = Narmada; Jog = Sharavati; Lodh = Burha (Jharkhand highest).
-
-</details>
-
-**Q10.**
-Indira Gandhi Canal takes off from:
-
-A. Bhimgoda / Haridwar
-B. Harike Barrage
-C. Narora
-D. Gandhi Sagar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** IGC offtake = **Harike Barrage** (Sutlej–Beas–Ravi waters → western Rajasthan).
-
-**Logic:** Upper Ganga Canal = Bhimgoda/Haridwar; Lower Ganga Canal = Narora; Gang Canal (1927) is the older RJ system.
-
-</details>
-
-**Q11.**
-Consider the following statements on water resources:
-
-1. India has about 4% of the world’s water resources and over 17% of world population.
-2. Groundwater now covers more than 60% of irrigated area.
-3. Minor irrigation (CCA ≤ 2000 ha) accounts for about 62% of irrigation potential.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** All three statements are correct.
-
-**Logic:** People–water–land mismatch, GW dominance, and CCA size bands are standard resource stems.
-
-</details>
-
-**Q12.**
-Which lake is associated with phumdis and Keibul Lamjao?
-
-A. Wular
-B. Dal
-C. Loktak
-D. Pulicat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Loktak** (Manipur) — phumdis, Keibul Lamjao, Sangai.
-
-**Logic:** Do not park Keibul on Wular/Dal.
-
-</details>
-
-**Q13.**
-Assertion (A): A dam stores water whereas a barrage mainly diverts water.
-Reason (R): Farakka Barrage was built primarily as India’s tallest rock-fill storage dam on the Bhagirathi.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A is true; R is false.
-
-**A/R logic:** Farakka diverts ~40,000 cusec to the Hooghly. Tallest rock-fill = **Tehri** on Bhagirathi.
-
-</details>
-
-**Q14.**
-Narmada Bachao Andolan / Medha Patkar is classically linked with opposition to:
-
-A. Hirakud height
-B. Tehri rock-fill design
-C. Sardar Sarovar height
-D. Bhakra–Nangal reservoir
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** NBA / Medha Patkar opposed **Sardar Sarovar** height.
-
-**Logic:** Do not tag the movement only to Indira Sagar.
-
-</details>
-
-**Q15.**
-Which one of the following is NOT correctly matched?
-
-A. Dudhsagar — Goa (Mandovi)
-B. Chitrakote — Indravati
-C. Chachai — Bihad
-D. Dhuandhar — Narmada at Bhedaghat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Chachai–Bihad** is a wrong pair.
-
-**Logic:** Other three fall–river/state pairs are standard correct matches.
-
-</details>
-
-**Q16.**
-Oldest hydro-electric project among the following is:
-
-A. Shivasamudram (1902)
-B. Koyna (1960s)
-C. Idukki arch dam
-D. Sidrapong (1897)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **Sidrapong (Darjeeling, 1897)** is the oldest; Shivasamudram (1902) is second.
-
-**Logic:** Age order is a frequent swap trap.
-
-</details>
-
-**Q17.**
-Pulicat and Kolleru are correctly distinguished as:
-
-A. Both are freshwater lagoons of Kerala
-B. Both are tectonic lakes of Jammu & Kashmir
-C. Pulicat is inland saline; Kolleru is a west-coast kayal
-D. Pulicat is a major brackish lagoon (AP–TN); Kolleru is mainly freshwater
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Pulicat = 2nd major brackish lagoon; Kolleru = mainly freshwater.
-
-**Logic:** Do not crown Kolleru as a lagoon king.
-
-</details>
-
-**Q18.**
-Cauvery water dispute parties are:
-
-A. Tamil Nadu, Karnataka and Gujarat only
-B. Karnataka, Andhra Pradesh and Odisha
-C. Tamil Nadu and Maharashtra only
-D. Tamil Nadu, Karnataka, Kerala and Puducherry
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **TN–KA–KL–Puducherry**.
-
-**Logic:** Adding Gujarat or dropping Puducherry is the distractor set.
-
-</details>
-
-**Q19.**
-Telugu Ganga project is associated with supplying Krishna water to:
-
-A. Bengaluru
-B. Hyderabad
-C. Madurai
-D. Chennai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Telugu Ganga = Krishna water to **Chennai**.
-
-**Logic:** City swap with Bengaluru/Hyderabad/Madurai is common.
-
-</details>
-
-**Q20.**
-Which one of the following correctly states utilisable water resources in the standard teaching figures?
-
-A. About 4000 BCM utilisable; 1122 BCM precipitation
-B. About 1869 BCM utilisable; 1122 BCM available
-C. About 690 BCM groundwater and 433 BCM surface utilisable
-D. About 1122 BCM utilisable (surface ~690 + groundwater ~433)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Utilisable ≈ **1122 BCM** (surface ~690 + GW ~433).
-
-**Logic:** Precipitation ~4000 BCM and available ~1869 BCM are upstream figures; do not swap the three.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is the largest east-coast lagoon of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chilika</div><div class="pyq-opt"><span class="opt-letter">B</span> Sambhar</div><div class="pyq-opt"><span class="opt-letter">C</span> Wular</div><div class="pyq-opt"><span class="opt-letter">D</span> Loktak</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chilika** is the largest east-coast lagoon (Odisha).
+
+**Logic:** Sambhar = largest **inland** saline; Wular = freshwater volume king; Loktak = Manipur phumdis.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to Indian lakes, which of the following pairs is/are correctly matched?<br><br>1. Lonar — meteorite crater in Maharashtra basalt<br>2. Kabartal — oxbow Ramsar lake of Bihar<br>3. Vembanad — India’s overall largest lake by area</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Vembanad is Kerala’s largest and India’s **longest** west-coast kayal — not the overall largest lake.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">India’s 100th Ramsar site (5 June 2026) is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Surha Tal / JP Narayan Bird Sanctuary, Ballia, UP</div><div class="pyq-opt"><span class="opt-letter">B</span> Sultanpur, Haryana</div><div class="pyq-opt"><span class="opt-letter">C</span> Rudrasagar, Tripura</div><div class="pyq-opt"><span class="opt-letter">D</span> Hokera, Punjab</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Surha Tal / JP Narayan BS, Ballia — India’s 100th Ramsar; UP total **13**.
+
+**Logic:** Sultanpur/Rudrasagar/Hokera are not-UP or wrong-state traps (Hokera is J&K, not Punjab).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Kunchikal is the usual highest waterfall key in UPPCS-type teaching sets.<br>Reason (R): Jog Falls on the Sharavati is famous mainly for its width, not for being India’s highest fall.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R correctly contrasts Jog but does not itself prove why Kunchikal is the height key (Nohkalikai is tallest plunge).
+
+**A/R logic:** Height crowns split as Kunchikal (highest total) vs Nohkalikai (tallest plunge) vs Jog (width).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which dam–river pair is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hirakud — Mahanadi</div><div class="pyq-opt"><span class="opt-letter">B</span> Bhakra–Nangal — Beas</div><div class="pyq-opt"><span class="opt-letter">C</span> Tehri — Alaknanda alone</div><div class="pyq-opt"><span class="opt-letter">D</span> Ban Sagar — Narmada</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hirakud is on the **Mahanadi** (Odisha).
+
+**Logic:** Bhakra = Sutlej; Tehri = Bhagirathi (+ Bhilangana); Ban Sagar = Son.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Sardar Sarovar and Indira Sagar are correctly distinguished as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both on Krishna in Andhra Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> SSP on Narmada in Gujarat; Indira Sagar on Narmada in Madhya Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Both on Son in Bundelkhand</div><div class="pyq-opt"><span class="opt-letter">D</span> SSP on Tapi; Indira Sagar on Mahi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> SSP = Narmada Gujarat; Indira Sagar = Narmada MP (volume king).
+
+**Logic:** State swap and Ban Sagar–Son confusion are common.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Feature)</th><th>List-II (Association)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> DVC</td><td><span class="match-key">A</span> First multipurpose valley project of independent India (1948)</td></tr>
+      <tr><td><span class="match-key">2</span> Sidrapong</td><td><span class="match-key">B</span> Oldest hydro (Darjeeling, 1897)</td></tr>
+      <tr><td><span class="match-key">3</span> Shivasamudram</td><td><span class="match-key">C</span> Second hydro (Cauvery, 1902)</td></tr>
+      <tr><td><span class="match-key">4</span> Farakka</td><td><span class="match-key">D</span> Barrage diverting ~40,000 cusec to Hooghly</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-A, 2-C, 3-B, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> DVC 1948; Sidrapong 1897; Shivasamudram 1902; Farakka = diversion barrage.
+
+**Logic:** Row order is not the answer code. Dam stores vs barrage diverts is the Farakka trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">National Water Policy 2012 places first priority on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Irrigation</div><div class="pyq-opt"><span class="opt-letter">B</span> Drinking water</div><div class="pyq-opt"><span class="opt-letter">C</span> Hydropower</div><div class="pyq-opt"><span class="opt-letter">D</span> Industrial use</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> NWP 2012 puts **drinking** first.
+
+**Logic:** PMKSY / Atal Jal are scheme overlays, not the policy priority line.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which waterfall–river pair is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kapildhara — Godavari</div><div class="pyq-opt"><span class="opt-letter">B</span> Shivanasamudra — Cauvery</div><div class="pyq-opt"><span class="opt-letter">C</span> Jog — Cauvery</div><div class="pyq-opt"><span class="opt-letter">D</span> Lodh / Budha Ghagh — Kanchi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Shivanasamudra is on the **Cauvery** (volume king).
+
+**Logic:** Kapildhara = Narmada; Jog = Sharavati; Lodh = Burha (Jharkhand highest).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Indira Gandhi Canal takes off from:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bhimgoda / Haridwar</div><div class="pyq-opt"><span class="opt-letter">B</span> Harike Barrage</div><div class="pyq-opt"><span class="opt-letter">C</span> Narora</div><div class="pyq-opt"><span class="opt-letter">D</span> Gandhi Sagar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> IGC offtake = **Harike Barrage** (Sutlej–Beas–Ravi waters → western Rajasthan).
+
+**Logic:** Upper Ganga Canal = Bhimgoda/Haridwar; Lower Ganga Canal = Narora; Gang Canal (1927) is the older RJ system.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements on water resources:<br><br>1. India has about 4% of the world’s water resources and over 17% of world population.<br>2. Groundwater now covers more than 60% of irrigated area.<br>3. Minor irrigation (CCA ≤ 2000 ha) accounts for about 62% of irrigation potential.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** People–water–land mismatch, GW dominance, and CCA size bands are standard resource stems.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which lake is associated with phumdis and Keibul Lamjao?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Wular</div><div class="pyq-opt"><span class="opt-letter">B</span> Dal</div><div class="pyq-opt"><span class="opt-letter">C</span> Loktak</div><div class="pyq-opt"><span class="opt-letter">D</span> Pulicat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Loktak** (Manipur) — phumdis, Keibul Lamjao, Sangai.
+
+**Logic:** Do not park Keibul on Wular/Dal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): A dam stores water whereas a barrage mainly diverts water.<br>Reason (R): Farakka Barrage was built primarily as India’s tallest rock-fill storage dam on the Bhagirathi.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is true; R is false.
+
+**A/R logic:** Farakka diverts ~40,000 cusec to the Hooghly. Tallest rock-fill = **Tehri** on Bhagirathi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Narmada Bachao Andolan / Medha Patkar is classically linked with opposition to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hirakud height</div><div class="pyq-opt"><span class="opt-letter">B</span> Tehri rock-fill design</div><div class="pyq-opt"><span class="opt-letter">C</span> Sardar Sarovar height</div><div class="pyq-opt"><span class="opt-letter">D</span> Bhakra–Nangal reservoir</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> NBA / Medha Patkar opposed **Sardar Sarovar** height.
+
+**Logic:** Do not tag the movement only to Indira Sagar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dudhsagar — Goa (Mandovi)</div><div class="pyq-opt"><span class="opt-letter">B</span> Chitrakote — Indravati</div><div class="pyq-opt"><span class="opt-letter">C</span> Chachai — Bihad</div><div class="pyq-opt"><span class="opt-letter">D</span> Dhuandhar — Narmada at Bhedaghat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chachai–Bihad** is a wrong pair.
+
+**Logic:** Other three fall–river/state pairs are standard correct matches.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Oldest hydro-electric project among the following is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shivasamudram (1902)</div><div class="pyq-opt"><span class="opt-letter">B</span> Koyna (1960s)</div><div class="pyq-opt"><span class="opt-letter">C</span> Idukki arch dam</div><div class="pyq-opt"><span class="opt-letter">D</span> Sidrapong (1897)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sidrapong (Darjeeling, 1897)** is the oldest; Shivasamudram (1902) is second.
+
+**Logic:** Age order is a frequent swap trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Pulicat and Kolleru are correctly distinguished as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both are freshwater lagoons of Kerala</div><div class="pyq-opt"><span class="opt-letter">B</span> Both are tectonic lakes of Jammu & Kashmir</div><div class="pyq-opt"><span class="opt-letter">C</span> Pulicat is inland saline; Kolleru is a west-coast kayal</div><div class="pyq-opt"><span class="opt-letter">D</span> Pulicat is a major brackish lagoon (AP–TN); Kolleru is mainly freshwater</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pulicat = 2nd major brackish lagoon; Kolleru = mainly freshwater.
+
+**Logic:** Do not crown Kolleru as a lagoon king.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Cauvery water dispute parties are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tamil Nadu, Karnataka and Gujarat only</div><div class="pyq-opt"><span class="opt-letter">B</span> Karnataka, Andhra Pradesh and Odisha</div><div class="pyq-opt"><span class="opt-letter">C</span> Tamil Nadu and Maharashtra only</div><div class="pyq-opt"><span class="opt-letter">D</span> Tamil Nadu, Karnataka, Kerala and Puducherry</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> TN–KA–KL–Puducherry**.
+
+**Logic:** Adding Gujarat or dropping Puducherry is the distractor set.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Telugu Ganga project is associated with supplying Krishna water to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bengaluru</div><div class="pyq-opt"><span class="opt-letter">B</span> Hyderabad</div><div class="pyq-opt"><span class="opt-letter">C</span> Madurai</div><div class="pyq-opt"><span class="opt-letter">D</span> Chennai</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Telugu Ganga = Krishna water to **Chennai**.
+
+**Logic:** City swap with Bengaluru/Hyderabad/Madurai is common.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following correctly states utilisable water resources in the standard teaching figures?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> About 4000 BCM utilisable; 1122 BCM precipitation</div><div class="pyq-opt"><span class="opt-letter">B</span> About 1869 BCM utilisable; 1122 BCM available</div><div class="pyq-opt"><span class="opt-letter">C</span> About 690 BCM groundwater and 433 BCM surface utilisable</div><div class="pyq-opt"><span class="opt-letter">D</span> About 1122 BCM utilisable (surface ~690 + groundwater ~433)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Utilisable ≈ **1122 BCM** (surface ~690 + GW ~433).
+
+**Logic:** Precipitation ~4000 BCM and available ~1869 BCM are upstream figures; do not swap the three.</div>
+  </div>
+</div>

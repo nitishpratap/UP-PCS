@@ -168,20 +168,6 @@ hide:
 | **8. Ghatakarpara** | Poetry & Sculpture | Classical Sanskrit lyrics |
 | **9. Vetala Bhatta** | Philosophy & Tantra | *Mantrashastra*; legendary associated teller of Baital Pachisi |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Alamgirpur (UP)** | **Rakhigarhi (HR)** | Alamgirpur = Easternmost IVC site in **Meerut, UP** on Hindon river; Rakhigarhi = **Largest IVC site** overall, located in Hisar, Haryana | आलमगीरपुर (उ.प्र. मेरठ, हिंडन) / राखीगढ़ी (हरियाणा, विशालतम) |
-| **Dholavira (Stone)** | **Mohenjo-daro (Brick)** | Dholavira = Built with **cut stone blocks** and tripartite city plan (3 zones); Mohenjo-daro = Built with **standard kiln-burnt bricks** and bipartite plan (Citadel + Lower town) | धोलावीरा (प्रस्तर स्थापत्य, 3 भाग) / मोहनजोदड़ो (पक्की ईंट, 2 भाग) |
-| **Sinauli (UP)** | **Inamgaon (MH)** | Sinauli = Baghpat (UP) Bronze Age war **chariots and royal copper swords**; Inamgaon = Chalcolithic agricultural settlement in Maharashtra | सनौली (उ.प्र. कांस्य युगीन रथ) / इनामगांव (महाराष्ट्र ताम्रपाषाण) |
-| **Sabha (Vedic)** | **Samiti (Vedic)** | Sabha = Exclusive council of **elders and aristocratic nobles**; Samiti = General democratic assembly of the **entire common populace** | सभा (वरिष्ठ अभिजात परिषद) / समिति (जनसाधारण की लोक सभा) |
-| **PGW (Later Vedic)** | **NBPW (Second Urbanization)**| PGW (Painted Grey Ware) = Associated with **Later Vedic iron era** (~1000–600 BCE); NBPW (Northern Black Polished Ware) = Associated with **Urban Mahajanapadas and Mauryas** (~600–200 BCE) | PGW (उत्तर वैदिक / चित्रित धूसर) / NBPW (महाजनपद / उत्तरी काली चमकदार) |
-| **Brahmi Script** | **Kharosthi Script** | Brahmi = Written **left-to-right** (ancestor of all modern Indian scripts); Kharosthi = Written **right-to-left** (derived from Persian Aramaic, confined to North-West) | ब्राह्मी (बाएं से दाएं) / खरोष्ठी (दाएं से बाएं) |
-| **Aryabhata** | **Brahmagupta** | Aryabhata = Formulated **spherical Earth rotation**, value of Pi, and cause of eclipses; Brahmagupta = Formulated **mathematical rules for Zero and negative numbers**, defined gravity | आर्यभट (पृथ्वी घूर्णन, पाई) / ब्रह्मगुप्त (शून्य के नियम, गुरुत्वाकर्षण) |
-| **Charaka Samhita** | **Sushruta Samhita** | Charaka = Encyclopedia of **internal medicine and herbs** (*Kaya-chikitsa*); Sushruta = Encyclopedia of **surgery and plastic surgery / rhinoplasty** (*Shalya-tantra*) | चरक (कायचिकित्सा / आंतरिक औषधियां) / सुश्रुत (शल्यचिकित्सा / प्लास्टिक सर्जरी) |
-| **Prayag Prashasti (Gupta)**| **Mehrauli Pillar (Gupta)** | Prayag Prashasti = Sandstone pillar at Prayagraj celebrating military conquests of **Samudragupta** (composed by Harisena); Mehrauli Pillar = Rustless wrought iron pillar in Delhi erected by **Chandragupta II** | प्रयाग प्रशस्ति (समुद्रगुप्त / हरिषेण) / महरौली लौह स्तंभ (चंद्रगुप्त द्वितीय) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Pashupati Seal Animals — Formula: `T-E-R-B` + `2 Deer`
@@ -204,294 +190,285 @@ hide:
 - **Kharosthi:** North-Western frontier (Shahbazgarhi & Mansehra).
 - **Aramaic & Greek:** Afghanistan (Kandahar bilingual edict).
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
-
-1. Mandi
-2. Rakhigarhi
-3. Hulas
-
-A. 1 and 2
-B. Only 3
-C. 1 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 1 and 3.** Mandi and Hulas = UP. Rakhigarhi = Haryana.
-
-</details>
-
-**Q2.**
-
-Consider the following statements with respect to Ashoka:
-
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
-2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
-
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Both 1 and 2.**
-
-</details>
-
-**Q3.**
-
-The eastern boundary of the Harappan culture is indicated by which of the following?
-
-A. Harappa
-B. Alamgirpur
-C. Rakhigarhi
-D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Alamgirpur.**
-
-</details>
-
-**Q4.**
-
-From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
-
-A. Dholavira and Bhagatrav
-B. Harappa and Kot Diji
-C. Mohenjo-daro and Lothal
-D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Mohenjo-daro and Lothal.**
-
-</details>
-
-**Q5.**
-
-In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
-
-A. Nagarjunakonda
-B. Ghantasala
-C. Amaravati
-D. Bodhgaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Amaravati.**
-
-</details>
-
-**Q6.**
-
-In which State of India is the Harappan Civilization site Mandi situated?
-
-A. Gujarat
-B. Haryana
-C. Rajasthan
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Uttar Pradesh.**
-
-</details>
-
-**Q7.**
-
-Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
-
-A. Madho Swaroop Vatsa
-B. H.D. Sankalia
-C. V.S. Wakankar
-D. V.N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — V.S. Wakankar.**
-
-</details>
-
-**Q8.**
-
-Match List-I with List-II.
-
-**List-I (Harappan Site)**
-A. Balu
-B. Manda
-C. Padri
-D. Hulas
-
-**List-II (UT/State)**
-1. Uttar Pradesh
-2. Jammu & Kashmir
-3. Haryana
-4. Gujarat
-
-A. 3 2 1 4
-B. 2 3 4 1
-C. 2 4 3 1
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — 3 2 4 1.** Balu Haryana, Manda J&K, Padri Gujarat, Hulas UP.
-
-</details>
-
-**Q9.**
-
-Match List-I with List-II.
-
-**List-I**
-A. Indus Valley Civilization
-B. Later Vedic Society
-C. Rigvedic Society
-D. Medieval Period
-
-**List-II**
-1. Pastoral
-2. Landlordism
-3. Agrarian
-4. Urban
-
-A. 4 2 3 1
-B. 2 1 4 3
-C. 3 4 1 2
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — 4 3 1 2.** IVC urban, Later Vedic agrarian, Rigvedic pastoral, Medieval landlordism.
-
-</details>
-
-**Q10.**
-
-Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
-
-I. Kalibanga
-II. Lothal
-III. Alamgirpur
-IV. Hulas
-
-A. I, II, III, IV
-B. I, II
-C. II, III
-D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — III, IV.** Alamgirpur and Hulas. Kalibangan = Rajasthan. Lothal = Gujarat.
-
-</details>
-
-**Q11.**
-
-Which of the following institutions belonged to foreign trade?
-
-A. Sreni
-B. Nagaram
-C. Nanadesis
-D. Manigrama
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Manigrama.**
-
-</details>
-
-**Q12.** With reference to Indus Valley cultural remains, which of the following statements is/are correct?
-
-1. Steatite seals and terracotta mother goddess figurines are Indus art facts.
-2. Northern Black Polished Ware is the classic Indus pottery of Mature Harappan cities.
-3. The Dancing Girl is a Mauryan polished sandstone pillar capital.
-
-A. Only 1
-B. Only 1 and 2
-C. Only 3
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** NBPW is a Mauryan fine pottery fact, not Mature Harappan ware. The Dancing Girl is a lost-wax bronze figurine.
-
-</details>
-
-**Q13.** Consider the following pairs:
-
-| School | Material / region |
-|--------|-------------------|
-| 1. Gandhara | Grey schist; north-west Greco-Roman style |
-| 2. Mathura | Red sandstone; indigenous; Uttar Pradesh |
-| 3. Amaravati | Black basalt freestanding icons of Punjab |
-
-Which of the pairs given above is/are correctly matched?
-
-A. Only 1
-B. Only 1 and 2
-C. Only 3
-D. Only 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2 only are correct.
-
-**Logic:** Amaravati uses white limestone narrative panels in Andhra.
-
-</details>
-
-**Q14.** Which of the following pairs is NOT correctly matched?
-
-A. Stupa — solid relic mound
-B. Chaitya — rock-cut prayer hall with apse stupa
-C. Barabar caves — Gupta structural temples
-D. Deogarh / Bhitargaon — early Gupta structural temples
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Barabar caves are Mauryan rock-cut caves, not Gupta structural temples.
-
-**Logic:** Rock-cut versus structural is a standing architecture trap.
-
-</details>
-
-**Q15.** Assertion (A): Alamgirpur in the Meerut belt is the easternmost Indus site.
-Reason (R): Rakhigarhi is in Haryana and is the largest Indus site in India.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-**A/R logic:** Both statements are correct; however, Rakhigarhi’s size does not explain why Alamgirpur marks the easternmost boundary of the civilization.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?<br><br>1. Mandi<br>2. Rakhigarhi<br>3. Hulas</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3.** Mandi and Hulas = UP. Rakhigarhi = Haryana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with respect to Ashoka:<br><br>1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".<br>2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The eastern boundary of the Harappan culture is indicated by which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Harappa</div><div class="pyq-opt"><span class="opt-letter">B</span> Alamgirpur</div><div class="pyq-opt"><span class="opt-letter">C</span> Rakhigarhi</div><div class="pyq-opt"><span class="opt-letter">D</span> Manda</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Alamgirpur.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">From which archaeological site of the Indus Valley Civilization are figures or models of boats found?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dholavira and Bhagatrav</div><div class="pyq-opt"><span class="opt-letter">B</span> Harappa and Kot Diji</div><div class="pyq-opt"><span class="opt-letter">C</span> Mohenjo-daro and Lothal</div><div class="pyq-opt"><span class="opt-letter">D</span> Kalibangan and Ropar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mohenjo-daro and Lothal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nagarjunakonda</div><div class="pyq-opt"><span class="opt-letter">B</span> Ghantasala</div><div class="pyq-opt"><span class="opt-letter">C</span> Amaravati</div><div class="pyq-opt"><span class="opt-letter">D</span> Bodhgaya</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Amaravati.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In which State of India is the Harappan Civilization site Mandi situated?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gujarat</div><div class="pyq-opt"><span class="opt-letter">B</span> Haryana</div><div class="pyq-opt"><span class="opt-letter">C</span> Rajasthan</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Uttar Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Madho Swaroop Vatsa</div><div class="pyq-opt"><span class="opt-letter">B</span> H.D. Sankalia</div><div class="pyq-opt"><span class="opt-letter">C</span> V.S. Wakankar</div><div class="pyq-opt"><span class="opt-letter">D</span> V.N. Mishra</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> V.S. Wakankar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Harappan Site)</th>
+      <th>List-II (State / UT)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Balu</td>
+      <td><span class="match-key">1</span> Uttar Pradesh</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Manda</td>
+      <td><span class="match-key">2</span> Jammu & Kashmir</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Padri</td>
+      <td><span class="match-key">3</span> Haryana</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Hulas</td>
+      <td><span class="match-key">4</span> Gujarat</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 2 1 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 2 4 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 3 2 4 1.** Balu Haryana, Manda J&K, Padri Gujarat, Hulas UP.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I</th>
+      <th>List-II</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Indus Valley Civilization</td>
+      <td><span class="match-key">1</span> Pastoral</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Later Vedic Society</td>
+      <td><span class="match-key">2</span> Landlordism</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Rigvedic Society</td>
+      <td><span class="match-key">3</span> Agrarian</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Medieval Period</td>
+      <td><span class="match-key">4</span> Urban</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 2 3 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 3 1 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 4 3 1 2.** IVC urban, Later Vedic agrarian, Rigvedic pastoral, Medieval landlordism.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following centres related to Indus Valley are situated in Uttar Pradesh?<br><br>I. Kalibanga<br>II. Lothal<br>III. Alamgirpur<br>IV. Hulas</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, III, IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I, II</div><div class="pyq-opt"><span class="opt-letter">C</span> II, III</div><div class="pyq-opt"><span class="opt-letter">D</span> III, IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> III, IV.** Alamgirpur and Hulas. Kalibangan = Rajasthan. Lothal = Gujarat.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following institutions belonged to foreign trade?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sreni</div><div class="pyq-opt"><span class="opt-letter">B</span> Nagaram</div><div class="pyq-opt"><span class="opt-letter">C</span> Nanadesis</div><div class="pyq-opt"><span class="opt-letter">D</span> Manigrama</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Manigrama.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Indus Valley cultural remains, which of the following statements is/are correct?<br><br>1. Steatite seals and terracotta mother goddess figurines are Indus art facts.<br>2. Northern Black Polished Ware is the classic Indus pottery of Mature Harappan cities.<br>3. The Dancing Girl is a Mauryan polished sandstone pillar capital.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** NBPW is a Mauryan fine pottery fact, not Mature Harappan ware. The Dancing Girl is a lost-wax bronze figurine.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| School | Material / region |<br>|--------|-------------------|<br>| 1. Gandhara | Grey schist; north-west Greco-Roman style |<br>| 2. Mathura | Red sandstone; indigenous; Uttar Pradesh |<br>| 3. Amaravati | Black basalt freestanding icons of Punjab |<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** Amaravati uses white limestone narrative panels in Andhra.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Stupa — solid relic mound</div><div class="pyq-opt"><span class="opt-letter">B</span> Chaitya — rock-cut prayer hall with apse stupa</div><div class="pyq-opt"><span class="opt-letter">C</span> Barabar caves — Gupta structural temples</div><div class="pyq-opt"><span class="opt-letter">D</span> Deogarh / Bhitargaon — early Gupta structural temples</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Barabar caves are Mauryan rock-cut caves, not Gupta structural temples.
+
+**Logic:** Rock-cut versus structural is a standing architecture trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Alamgirpur in the Meerut belt is the easternmost Indus site.<br>Reason (R): Rakhigarhi is in Haryana and is the largest Indus site in India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both statements are correct; however, Rakhigarhi’s size does not explain why Alamgirpur marks the easternmost boundary of the civilization.</div>
+  </div>
+</div>

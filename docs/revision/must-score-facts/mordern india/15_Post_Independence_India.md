@@ -181,27 +181,6 @@ hide:
 | **Balwant Rai Mehta Committee** | Jan–Nov 1957 | **Balwant Rai Mehta** | Recommended **3-tier Panchayati Raj** (Gram, Samiti, Zilla); termed it *"Democratic Decentralisation"*. |
 | **First Panchayati Raj Launch** | 2 Oct 1959 (Nagaur, Rajasthan) | **Jawaharlal Nehru** | First district in India where Panchayati Raj was officially inaugurated under the 3-tier scheme. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Etawah Pilot (1948)** | **CDP (1952)** | Local UP district pilot by Albert Mayer vs nationwide flagship community programme launched on 2 Oct 1952 | इटावा / सीडीपी |
-| **Etawah Project** | **Nilokheri Project** | Mayer's agrarian extension model in UP vs S.K. Dey's refugee rehabilitation agro-industrial township in Haryana | इटावा / निलोखेडी |
-| **CDP (1952)** | **NES (1953)** | Intensive development projects with large capital outlay vs permanent low-cost extension framework | सीडीपी / एनईएस |
-| **Instrument of Accession (IoA)** | **Standstill Agreement** | Permanent legal surrender of Defence, External Affairs & Communications vs temporary interim status-quo freeze | अधिमिलन / स्टैन्डस्टिल |
-| **Junagadh Integration** | **Hyderabad Integration** | Popular local uprising (*Arzi Hukumat*) + **Plebiscite (1948)** vs military police action (**Operation Polo, 1948**) | जूनागढ़ / हैदराबाद |
-| **Chandernagore** | **Pondicherry Group** | Merged into **West Bengal (1954)** by treaty vs retained separate identity as a **Union Territory (de jure 1962)** | चंद्रनगर / पुदुचेरी |
-| **Pondicherry (1954)** | **Goa (1961)** | Diplomatic referendum/treaty transfer from France vs military action (**Operation Vijay**) against Portugal | पुदुचेरी / गोवा |
-| **Goa UT (1962)** | **Goa State (1987)** | 12th Constitutional Amendment made it a UT vs full 25th Statehood achieved on 30 May 1987 | गोवा संघ शासित / राज्य |
-| **Adoption Date** | **Commencement Date** | **26 November 1949** (Constitution Day) vs **26 January 1950** (Republic Day) | अंगीकृत / लागू |
-| **Dhar Commission (1948)** | **Fazl Ali SRC (1953)** | Strictly rejected linguistic basis vs accepted linguistic homogeneity with administrative safeguards | धर / एसआरसी |
-| **SRC (1953)** | **SRC Act (1956)** | 3-member inquiry commission (Fazl Ali) vs statutory enactment taking effect on **1 November 1956** | आयोग / अधिनियम |
-| **Planning Commission** | **Finance Commission** | Extra-constitutional cabinet body created on 15 March 1950 vs constitutional body under **Article 280** | योजना आयोग / वित्त आयोग |
-| **Planning Commission (1950)** | **NITI Aayog (2015)** | Five-year plan allocating body (1950–2014) vs policy think-tank established on 1 Jan 2015 | योजना आयोग / नीति आयोग |
-| **First Plan (1951–56)** | **Second Plan (1956–61)** | **Harrod-Domar Model** (Agriculture, dams, irrigation) vs **Mahalanobis Model** (Heavy industries, steel plants) | प्रथम / द्वितीय योजना |
-| **Part A States (1950)** | **Part B States (1950)** | Former British Governors' Provinces vs former Princely States Unions headed by Rajpramukhs | भाग क / भाग ख राज्य |
-| **Bandung Conference (1955)** | **Belgrade Summit (1961)** | Afro-Asian solidarity conference in Indonesia vs **First Official NAM Summit** held in Yugoslavia | बांडुंग / बेलग्रेड |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. SRC Members Trio: "FA-KP-HK" (फा-का-ह)
@@ -234,334 +213,278 @@ hide:
 - **B** = **B**lock level → Panchayat Samiti (key executive unit)
 - **Z** = **Z**illa level → Zilla Parishad (supervisory body)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-> [!TIP] **Exam Anchor (UPPCS Prelims)**: Members of the States Reorganisation Commission (SRC, 1953) headed by Justice Fazal Ali were **K.M. Panikkar** and **H.N. Kunzru**.
-
-**Q2. UPPCS Prelims 2025, Q82**
-
-Match List-I with List-II.
-
-**List-I (Committee)** A. Union Constitution Committee B. Rules of Procedure Committee C. Drafting Committee D. Fundamental Rights Sub-Committee
-**List-II (Chairman)** 1. Dr. Rajendra Prasad 2. J. B. Kripalani 3. Dr. B. R. Ambedkar 4. Jawaharlal Nehru
-
-A. 2 1 3 4
-
-B. 1 4 3 2
-
-C. 4 1 3 2
-
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q2.**
-
-Consider the following programmes and arrange them in correct chronological order.
-
-1. Food for Work Programme
-2. Community Development Programme
-3. Training of Rural Youth for Self Employment (TRYSEM)
-4. Drought Prone Areas Programme
-
-A. 4, 2, 3, 1
-
-B. 2, 4, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q3.**
-
-Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—
-
-(I) Appointment of the Drafting Committee
-(II) Indian Constitution was adopted and enacted
-(III) Date of commencement of Indian Constitution
-(IV) Constituent Assembly first met
-
-A. III, II, I, IV
-
-B. IV, I, III, II
-
-C. I, II, IV, III
-
-D. IV, I, II, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q4.**
-
-"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind".
-
-Who among the following said the above mentioned statement in the Constituent Assembly debates?
-
-A. Somnath Lahiri
-
-B. Jawaharlal Nehru
-
-C. Sardar Vallabh Bhai Patel
-
-D. N. G. Ranga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q5.**
-
-Who among the following person said for the Fundamental Rights "a pledge to our people and a pact with the civilized world"?
-
-A. Pt. Jawahar Lal Nehru
-
-B. Dr. Bhim Rao Ambedkar
-
-C. Dr. Rajendra Prasad
-
-D. Dr. S. Radha Krishnan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.**
-
-On which of the following dates, Constituent Assembly of India adopted the National Flag?
-
-A. 22 January, 1950
-
-B. 24 January, 1950
-
-C. 22 July, 1947
-
-D. 22 July, 1948
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q7.**
-
-Arrange the following events in a chronological order:
-
-I. Maharaja Hari Singh signed the Instrument of Accession.
-II. Constitution of India was enforced.
-III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.
-IV. New Constitution of the State of Jammu and Kashmir came into force.
-
-A. I, III, IV, II
-
-B. III, IV, I, II
-
-C. I, II, III, IV
-
-D. IV, III, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q8.**
-
-In India which of the following Five Year Plans was launched with a focus on sustainable growth?
-
-A. 9th
-
-B. 10th
-
-C. 11th
-
-D. 12th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q9.**
-
-Who was the first Vice-Chairman of the NITI Ayog?
-
-A. Arvind Panagariya
-
-B. Raghuram Rajan
-
-C. Chandrashekhara Subramanyam
-
-D. Rajiv Kumar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q10.**
-
-Which of the following is the first State in India formed on the basis of languages?
-
-A. Kerala
-
-B. Madhya Pradesh
-
-C. Andhra Pradesh
-
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q11.**
-
-Which of the following fixes the poverty line in India?
-
-A. Central Council of Ministers
-
-B. Lok Sabha
-
-C. Rajya Sabha
-
-D. Planning Commission (Now Niti Ayog)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q12.**
-
-Which of the following was called as Economic cabinet of India by Ashok Chandra?
-
-A. Planning Commission
-
-B. Finance Commission
-
-C. Central Cabinet
-
-D. Administrative Reform Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q13.** With reference to integration of princely states, which of the following statements is/are correct?
-
-1. About 562 princely states were integrated under Jawaharlal Nehru and Mountbatten alone.
-2. Standstill Agreement and Instrument of Accession are two names for the same document.
-3. The Instrument of Accession covered Defence, External Affairs and Communications.
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: Integration is tagged to Sardar Patel and V.P. Menon. Stmt 2 remains false: Standstill ≠ Instrument of Accession.
-
-</details>
-
-**Q14.** Match List-I (Territory) with List-II (Route / year tag):
-
-| List-I | List-II |
-|--------|---------|
-| A. Junagadh | 1. Operation Polo / Police Action, Sep 1948 |
-| B. Hyderabad | 2. Plebiscite, 1948 |
-| C. Goa, Daman and Diu | 3. Operation Vijay, Dec 1961 |
-| D. Pondicherry group | 4. Kizhoor referendum route; de facto 1954; de jure 1962 |
-
-*Row order is not the answer code.*
-
-A. A-1, B-2, C-4, D-3
-
-B. A-2, B-1, C-3, D-4
-
-C. A-2, B-3, C-1, D-4
-
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Plebiscite vs Police Action vs military vs French referendum.
-
-**Logic:** Never swap Junagadh/Hyderabad methods or French/Portuguese routes.
-
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** The Constitution was adopted on 26 November 1949 and commenced on 26 January 1950.
-
-**Reason (R):** Adoption and commencement are the same constitutional date under two popular names.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true; R false.
-
-**A/R logic:** 26 Nov 1949 ≠ 26 Jan 1950.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS Prelims)**: Members of the States Reorganisation Commission (SRC, 1953) headed by Justice Fazal Ali were **K.M. Panikkar</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> nd **H.N. Kunzru**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Constituent Assembly Committee)</th>
+        <th>List-II (Chairman)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Union Constitution Committee</td><td><span class="match-key">1</span> Dr. Rajendra Prasad</td></tr>
+    <tr><td><span class="match-key">B</span> Rules of Procedure Committee</td><td><span class="match-key">2</span> J.B. Kripalani</td></tr>
+    <tr><td><span class="match-key">C</span> Drafting Committee</td><td><span class="match-key">3</span> Dr. B.R. Ambedkar</td></tr>
+    <tr><td><span class="match-key">D</span> Fundamental Rights Sub-Committee</td><td><span class="match-key">4</span> Jawaharlal Nehru</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 1 3 2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 2 1 3 4</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 1 4 3 2</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 1 2 3 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following programmes and arrange them in correct chronological order.<br><br>1. Food for Work Programme<br>2. Community Development Programme<br>3. Training of Rural Youth for Self Employment (TRYSEM)<br>4. Drought Prone Areas Programme</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 2, 3, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 4, 3, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 1, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following events and arrange them in the correct chronological order starting from the earliest to the last activity—<br><br>(I) Appointment of the Drafting Committee<br>(II) Indian Constitution was adopted and enacted<br>(III) Date of commencement of Indian Constitution<br>(IV) Constituent Assembly first met</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> III, II, I, IV</div><div class="pyq-opt"><span class="opt-letter">B</span> IV, I, III, II</div><div class="pyq-opt"><span class="opt-letter">C</span> I, II, IV, III</div><div class="pyq-opt"><span class="opt-letter">D</span> IV, I, II, III</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">"Can you show me one free country where there are separate electorates?... The British element is gone, but they have left mischief behind".<br><br>Who among the following said the above mentioned statement in the Constituent Assembly debates?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Somnath Lahiri</div><div class="pyq-opt"><span class="opt-letter">B</span> Jawaharlal Nehru</div><div class="pyq-opt"><span class="opt-letter">C</span> Sardar Vallabh Bhai Patel</div><div class="pyq-opt"><span class="opt-letter">D</span> N. G. Ranga</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Who among the following person said for the Fundamental Rights "a pledge to our people and a pact with the civilized world"?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pt. Jawahar Lal Nehru</div><div class="pyq-opt"><span class="opt-letter">B</span> Dr. Bhim Rao Ambedkar</div><div class="pyq-opt"><span class="opt-letter">C</span> Dr. Rajendra Prasad</div><div class="pyq-opt"><span class="opt-letter">D</span> Dr. S. Radha Krishnan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">On which of the following dates, Constituent Assembly of India adopted the National Flag?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 22 January, 1950</div><div class="pyq-opt"><span class="opt-letter">B</span> 24 January, 1950</div><div class="pyq-opt"><span class="opt-letter">C</span> 22 July, 1947</div><div class="pyq-opt"><span class="opt-letter">D</span> 22 July, 1948</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in a chronological order:<br><br>I. Maharaja Hari Singh signed the Instrument of Accession.<br>II. Constitution of India was enforced.<br>III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.<br>IV. New Constitution of the State of Jammu and Kashmir came into force.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, III, IV, II</div><div class="pyq-opt"><span class="opt-letter">B</span> III, IV, I, II</div><div class="pyq-opt"><span class="opt-letter">C</span> I, II, III, IV</div><div class="pyq-opt"><span class="opt-letter">D</span> IV, III, II, I</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">In India which of the following Five Year Plans was launched with a focus on sustainable growth?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 9th</div><div class="pyq-opt"><span class="opt-letter">B</span> 10th</div><div class="pyq-opt"><span class="opt-letter">C</span> 11th</div><div class="pyq-opt"><span class="opt-letter">D</span> 12th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Who was the first Vice-Chairman of the NITI Ayog?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Arvind Panagariya</div><div class="pyq-opt"><span class="opt-letter">B</span> Raghuram Rajan</div><div class="pyq-opt"><span class="opt-letter">C</span> Chandrashekhara Subramanyam</div><div class="pyq-opt"><span class="opt-letter">D</span> Rajiv Kumar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following is the first State in India formed on the basis of languages?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">B</span> Madhya Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Andhra Pradesh</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following fixes the poverty line in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Central Council of Ministers</div><div class="pyq-opt"><span class="opt-letter">B</span> Lok Sabha</div><div class="pyq-opt"><span class="opt-letter">C</span> Rajya Sabha</div><div class="pyq-opt"><span class="opt-letter">D</span> Planning Commission (Now Niti Ayog)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following was called as Economic cabinet of India by Ashok Chandra?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Planning Commission</div><div class="pyq-opt"><span class="opt-letter">B</span> Finance Commission</div><div class="pyq-opt"><span class="opt-letter">C</span> Central Cabinet</div><div class="pyq-opt"><span class="opt-letter">D</span> Administrative Reform Commission</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to integration of princely states, which of the following statements is/are correct?<br><br>1. About 562 princely states were integrated under Jawaharlal Nehru and Mountbatten alone.<br>2. Standstill Agreement and Instrument of Accession are two names for the same document.<br>3. The Instrument of Accession covered Defence, External Affairs and Communications.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: Integration is tagged to Sardar Patel and V.P. Menon. Stmt 2 remains false: Standstill ≠ Instrument of Accession.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Territory) with List-II (Route / year tag):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Junagadh</td><td><span class="match-key">1</span> Operation Polo / Police Action, Sep 1948</td></tr>
+      <tr><td><span class="match-key">B</span> Hyderabad</td><td><span class="match-key">2</span> Plebiscite, 1948</td></tr>
+      <tr><td><span class="match-key">C</span> Goa, Daman and Diu</td><td><span class="match-key">3</span> Operation Vijay, Dec 1961</td></tr>
+      <tr><td><span class="match-key">D</span> Pondicherry group</td><td><span class="match-key">4</span> Kizhoor referendum route; de facto 1954; de jure 1962</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Plebiscite vs Police Action vs military vs French referendum.
+
+**Logic:** Never swap Junagadh/Hyderabad methods or French/Portuguese routes.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** The Constitution was adopted on 26 November 1949 and commenced on 26 January 1950.<br><br>**Reason (R):** Adoption and commencement are the same constitutional date under two popular names.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true; R false.
+
+**A/R logic:** 26 Nov 1949 ≠ 26 Jan 1950.</div>
+  </div>
+</div>

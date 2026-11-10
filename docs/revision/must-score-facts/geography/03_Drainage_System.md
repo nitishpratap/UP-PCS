@@ -70,6 +70,21 @@ hide:
 48. River rejuvenation / knickpoints matter for waterfall chapters, but drainage stems still ask rejuvenated Himalayan / peninsular course evidence via gorges and terraces.
 49. Inland drainage classic = **Luni** (Thar) plus centripetal playa catchments such as **Sambhar** — not Barak / Meghna.
 50. Namami Gange / GAP are **cleaning programmes**, not river-origin facts; do not use them to answer confluence or source stems.
+51. **Himalayan vs Peninsular River Systems (Key Distinctions):** Himalayan rivers are antecedent, perennial (snow and rain-fed), youth-stage with deep V-shaped valleys and gorges, long courses with extensive meanders and braided channels, and form massive deltas; Peninsular rivers are superimposed/consequent, seasonal/rain-fed, mature-stage with graded shallow U-shaped valleys, fixed courses with little meander, and flow along rift valleys (forming estuaries) or into shallow deltas.
+52. **Panch Prayag Confluences of Alaknanda (North to South Order):** (1) **Vishnuprayag:** Alaknanda meets **Dhauliganga**; (2) **Nandaprayag:** Alaknanda meets **Nandakini**; (3) **Karnaprayag:** Alaknanda meets **Pindar**; (4) **Rudraprayag:** Alaknanda meets **Mandakini (Kali Ganga)**; (5) **Devprayag:** Alaknanda meets **Bhagirathi** to formally form the **Ganga**.
+53. **Sources of Major Himalayan Rivers:** Ganga: Gangotri Glacier (Gaumukh) as Bhagirathi; Yamuna: Yamunotri Glacier (Bandarpunch range); Indus: Bokhar Chu glacier near Lake Mansarovar (Tibet); Brahmaputra: Chemayungdung / Angsi Glacier (Tibet); Sutlej: Rakas Lake (Raksas Tal) near Mansarovar; Kosi: Mount Everest region (confluence of Sun Kosi, Arun, and Tamur); Gandak: Dhaulagiri and Annapurna; Ghaghara: Mapchachungo Glacier near Mansarovar.
+54. **Indus River & Key Tributaries:** Enters India in Ladakh, flows between Ladakh and Zanskar ranges; joined by Shyok, Gilgit, Zanskar, Hunza, and Kabul; left-bank tributaries (Panjnad): (1) **Jhelum:** Originates at Verinag spring (Kashmir), flows through Wular Lake, forms boundary between India and Pakistan; (2) **Chenab (Asikni):** Formed by confluence of Chandra and Bhaga at Tandi (Himachal Pradesh); largest tributary of Indus; (3) **Ravi (Parushni):** Originates near Rohtang Pass, flows between Pir Panjal and Dhauladhar; (4) **Beas (Vipasha):** Originates near Beas Kund (Rohtang Pass), meets Sutlej at **Harike (Punjab)**; entirely within India; (5) **Sutlej (Shutudri):** Enters India through Shipki La, feeds Bhakra Dam.
+55. **Indus Waters Treaty (1960):** Brokered by the World Bank; signed by Jawaharlal Nehru and Ayub Khan; allocated three **Eastern Rivers (Ravi, Beas, Sutlej)** exclusively to India; allocated three **Western Rivers (Indus, Jhelum, Chenab)** to Pakistan, with India permitted specified run-of-the-river hydroelectric generation and non-consumptive agricultural use.
+56. **Ganga Left-Bank Tributaries (West to East Sequence):** **Ramganga** (originates in Garhwal, flows through Jim Corbett NP, meets Ganga near Kannauj) -> **Gomti** (originates from Fulhar / Gomat Taal in Pilibhit, UP; Lucknow and Jaunpur on banks; meets Ganga near Saidpur, Ghazipur) -> **Ghaghara / Saryu** (largest tributary by water volume, meets Ganga at Chhapra, Bihar) -> **Gandak** (meets Ganga at Sonpur / Hajipur, Bihar) -> **Burhi Gandak** -> **Kosi** ('Sorrow of Bihar' due to frequent course shifts, meets Ganga at Kursela, Katihar) -> **Mahananda** (easternmost left-bank tributary, originates in Darjeeling hills).
+57. **Ganga Right-Bank Tributaries:** (1) **Yamuna:** Longest right-bank tributary (1,376 km); joins Ganga at Prayagraj (Triveni Sangam); right-bank tributaries of Yamuna: **Chambal** (originates in Janapao Hills, Singar Chouri peak near Mhow, MP; famous for badland topography/ravines), **Sindh**, **Betwa** (originates in Vindhyan range near Raisen, MP; meets Yamuna near Hamirpur), **Ken** (originates in Kaimur range, meets Yamuna at Chilla, Banda); (2) **Tons (Tamas):** Originates in Kaimur Hills, joins Ganga at Sirsa, Prayagraj; (3) **Son:** Originates at Amarkantak plateau, flows north through Kaimur escarpment, joins Ganga near Patna; right-bank tributary is Rihand (Govind Ballabh Pant Sagar).
+58. **Brahmaputra Course & Key Features:** Known as **Tsangpo** ('Purifier') in Tibet; cuts deep gorge at **Namcha Barwa** and enters Arunachal Pradesh as **Siang / Dihang**; joined by Dibang and Lohit at Sadiya (Assam) to become **Brahmaputra**; forms world's largest inhabited riverine island, **Majuli**; right-bank tributaries: Subansiri, Kameng (Jia Bhoreli), Manas, Sankosh, Teesta; left-bank tributaries: Burhi Dihing, Dhansiri, Kalang; enters Bangladesh as **Jamuna**, joins Padma (Ganga), and finally empties as **Meghna** into Bay of Bengal.
+59. **Teesta River Dynamics:** Originates from Tso Lhamo Lake / Pahunri Glacier in Sikkim; previously a tributary of Ganga, shifted eastward in 1787 megaflood to join Brahmaputra (Jamuna) in Bangladesh; river dispute subject between India and Bangladesh.
+60. **Godavari Basin ('Dakshin Ganga' / 'Vridha Ganga'):** Longest peninsular river (1,465 km); originates at **Trimbakeshwar (Nashik, Maharashtra)**; left-bank tributaries: **Penganga, Wardha, Wainganga** (confluence forms **Pranhita**), **Indravati** (Chitrakote Falls, Bastar), and **Sabari**; right-bank tributaries: **Manjra / Manjira** (Nizam Sagar); empties into Bay of Bengal forming lobate delta with Rajahmundry as apex.
+61. **Krishna River Basin:** Second largest east-flowing peninsular river (1,401 km); originates at **Mahabaleshwar (Maharashtra)**; right-bank tributaries: **Koyna** (Shivajisagar), **Ghataprabha, Malaprabha, Tungabhadra** (formed by Tunga and Bhadra, passes Hampi); left-bank tributaries: **Bhima, Musi** (Hyderabad on banks), **Munneru**; major dams: Nagarjuna Sagar, Srisailam, Almatti.
+62. **Kaveri River ('Ganga of the South'):** Originates at **Talakaveri in Brahmagiri Hills (Kodagu / Coorg, Karnataka)**; unique peninsular river with perennial flow because upper catchment receives South-West Monsoon and lower catchment receives North-East Monsoon; forms riverine islands of **Srirangapatna and Shivanasamudra** (second oldest hydroelectric plant in India, 1902); left-bank tributaries: Harangi, Hemavati, Shimsha, Arkavathi; right-bank tributaries: Lakshmantirtha, Kabini, Bhavani, Noyyal, Amaravati; major dams: Krishnarajasagara (KRS, Mysuru), Mettur Dam (Stanley Reservoir, TN).
+63. **Mahanadi River Basin:** Originates near **Sihawa in Dhamtari district, Chhattisgarh (Dandakaranya)**; flows through Odisha; major tributaries: Seonath, Hasdeo, Mand, Ib (left bank); Ong, Tel, Jonk (right bank); hosts **Hirakud Dam** (longest earthen dam in the world).
+64. **West-Flowing Peninsular Rivers (Rift Valley Rivers):** (1) **Narmada (1,312 km):** Originates at **Amarkantak Plateau (MP)**; flows westward in a rift valley between Vindhyas (north) and Satpuras (south); famous marble rocks and **Dhuandhar Falls** at Bhedaghat (Jabalpur); major project: Sardar Sarovar Dam; (2) **Tapi / Tapti (724 km):** Originates at **Multai in Betul district (MP)**; flows westward between Satpura range and Ajanta hills; major projects: Ukai Dam and Kakrapar; (3) **Mahi:** Originates in Vindhyan hills (MP), cuts across the **Tropic of Cancer twice**, and empties into Gulf of Khambhat; (4) **Sabarmati:** Originates in Aravalli hills (Udaipur, Rajasthan), Ahmedabad and Gandhinagar on banks; (5) **Luni:** Only major river in western arid Rajasthan; originates near Ajmer (Govindgarh) as Sabarmati and Saraswati; inland drainage river, loses itself into the marshy **Rann of Kutch**.
+65. **West-Flowing Coastal Rivers of Goa, Karnataka & Kerala:** Goa: **Mandovi** (Dudh Sagar Falls) and **Zuari**; Karnataka: **Sharavathi** (creates **Jog Falls / Gersoppa Falls**, 253 m high), **Kalinadi**, **Netravati**; Kerala: **Periyar** (longest river of Kerala, Idukki Arch Dam), **Bharatpuzha / Ponnani** (second longest), **Pamba** (sacred river of Sabarimala).
 
 ## ⏱️ Timeline / Chronology
 
@@ -163,31 +178,6 @@ hide:
 | **Betwa (Vetravati)** | Kumra village (Vindhyas, Raisen, MP) | Lalitpur / Jhansi | Joins **Yamuna near Hamirpur** | Matatila Dam, Rajghat Dam, Parichha Dam |
 | **Ken (Karnavati)** | Kaimur Hills (Jabalpur/Katni, MP) | Banda | Joins **Yamuna near Chilla (Banda)** | Cuts scenic deep canyon; Ken-Betwa link |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Ganga Basin** | **Godavari Basin** | Largest river basin in **all India** (26.2% area) vs largest river basin in **Peninsular India** (9.7% area) | गंगा बेसिन / गोदावरी बेसिन |
-| **Left-bank Ganga** | **Right-bank Ganga** | Originates in Himalayas/plains (Ramganga, Gomti, Ghaghara, Gandak, Kosi) vs Peninsular origin (Yamuna, Son, Punpun) | बायाँ तट / दायाँ तट |
-| **Delta** | **Estuary** | Triangular depositional feature on low-gradient coasts (Ganga, Mahanadi, Godavari) vs funnel-shaped tidal mouth without silt delta (Narmada, Tapi, Sharavathi) | डेल्टा / ज्वारनदमुख |
-| **Arcuate Delta** | **Bird's-foot Delta** | Fan-shaped curved delta with arc outline (**Ganga–Brahmaputra Sundarbans**, Nile) vs finger-like distributary ridges (**Mississippi River**) | चापाकार / पक्षी-पाद डेल्टा |
-| **Antecedent River** | **Superimposed River** | River existed before mountain uplift and cut gorges as land rose (**Indus, Sutlej, Brahmaputra, Ganga, Kosi**) vs river course epigenetic, etched into newly exposed underlying rocks (**Chambal, Subarnarekha, Banas, Damodar**) | पूर्ववर्ती / अध्यारोपित नदी |
-| **Trans-Himalayan River** | **Himalayan-Origin River** | Originates north of Great Himalayas in Tibet/Trans-Himalaya (**Indus, Sutlej, Brahmaputra**) vs originates on Himalayan slopes (**Jhelum, Chenab, Ravi, Beas, Ganga, Yamuna**) | पार-हिमालयी / हिमालयी नदी |
-| **Devprayag** | **Rudraprayag** | Confluence of Alaknanda + **Bhagirathi** (forms Ganga) vs confluence of Alaknanda + **Mandakini** | देवप्रयाग / रुद्रप्रयाग |
-| **Karnaprayag** | **Vishnuprayag** | Confluence of Alaknanda + **Pindar** vs confluence of Alaknanda + **Dhauliganga** | कर्णप्रयाग / विष्णुप्रयाग |
-| **Pranhita** | **Jonk / Ong** | Largest tributary of **Godavari** (Penganga + Wardha + Wainganga) vs right-bank tributaries of **Mahanadi** | प्राणहिता / जोंक-ओंग |
-| **Betwa Confluence** | **Ken Confluence** | Joins Yamuna at **Hamirpur** (UP) vs joins Yamuna at **Chilla, Banda** (UP) | बेतवा / केन संगम |
-| **Srisailam Dam** | **Pandoh Dam** | Located on **Krishna River** (Andhra Pradesh/Telangana) vs located on **Beas River** (Himachal Pradesh) | श्रीशैलम / पंडोह बांध |
-| **Pennar / Palar** | **Periyar / Pamba** | East-flowing rivers into **Bay of Bengal** (Karnataka/TN/AP) vs west-flowing rivers into **Arabian Sea** (Kerala) | पेन्नार-पालार / पेरियार-पम्बा |
-| **Trellis Drainage** | **Dendritic Drainage** | Alternating hard and soft rocks joining at right angles vs tree-branch-like random drainage on uniform bedrock | जालीनुमा / वृक्षाकार अपवाह |
-| **Radial Drainage** | **Centripetal Drainage** | Streams diverge outward in all directions from a central peak (Amarkantak: Narmada, Son, Johilla) vs streams converge inward toward a central depression/lake (Loktak lake, Manipur) | अरीय (रेडियल) / अभिकेंद्रीय अपवाह |
-| **National Chambal Sanctuary** | **Haryana Boundary** | Spread across **UP, MP, and Rajasthan** only; Haryana is NOT part of it | चंबल अभयारण्य / हरियाणा ट्रैप |
-| **Gomti River** | **Himalayan Ganga Tributaries** | Rises in **plains** (Fulhar Jheel, Pilibhit, UP), NOT in glaciers/mountains; declared "biological disaster" stretch | गोमती / मैदानी उद्गम |
-| **Barak River** | **Luni River** | Flowing through Manipur/Mizoram/Assam into Meghna/BoB vs inland saline drainage ending in Rann of Kutch | बराक / लूनी |
-| **Tapi Origin** | **Narmada Origin** | Rises in **Multai (Satpura Range, Betul, MP)** vs rises in **Amarkantak Plateau (Maikal Range, MP)** | तापी / नर्मदा उद्गम |
-| **Mahi River** | **Sabarmati River** | Cuts the **Tropic of Cancer twice** (MP → RJ → GJ) vs originates in Aravallis (Udaipur, RJ) and flows south without cutting Tropic of Cancer twice | माही / साबरमती |
-| **Damodar Valley** | **Chambal Valley** | Tectonic fault rift valley with Gondwana coal fields vs river rejuvenated badlands / ravines (*Khad*) | दामोदर भ्रंश / चंबल बीहड़ |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Sacred Panch Prayags North to South: **V-N-K-R-D**
@@ -221,370 +211,357 @@ hide:
 - Northward: **Son** (to Ganga / Bay of Bengal)
 - Southward/Eastward: **Johilla / Mahanadi headwaters**
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-About what share of India’s drainage area faces the Bay of Bengal?
-
-A. About 77%
-B. About 23%
-C. About 50%
-D. About 90%
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** About **77%** of drainage **area** faces the Bay of Bengal.
-
-**Logic:** Arabian Sea ≈ 23% area; water volume to the Bay is still >90%. Do not confuse area share with water share.
-
-</details>
-
-**Q2.**
-Which one of the following is the largest river basin inside India?
-
-A. Ganga
-B. Godavari
-C. Brahmaputra
-D. Indus
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Ganga** is the largest basin **inside India**.
-
-**Logic:** Godavari is the largest **peninsular** basin; Brahmaputra leads water volume.
-
-</details>
-
-**Q3.**
-With reference to drainage types, which of the following pairs is/are correctly matched?
-
-1. Antecedent — Indus, Sutlej, Brahmaputra
-2. Superimposed — Chambal
-3. Consequent — follows weak belts later
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Consequent follows the **original slope**; subsequent follows weak belts later.
-
-</details>
-
-**Q4.**
-Assertion (A): The river is named Ganga only from Devprayag onward.
-Reason (R): At Devprayag the Alaknanda meets the Mandakini.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A is true; R is false.
-
-**A/R logic:** Devprayag = Alaknanda + **Bhagirathi**. Mandakini meets at Rudraprayag.
-
-</details>
-
-**Q5.**
-Panch Prayag upstream to downstream is:
-
-A. Vishnu → Nanda → Karn → Rudra → Dev
-B. Dev → Rudra → Karn → Nanda → Vishnu
-C. Karn → Vishnu → Nanda → Rudra → Dev
-D. Vishnu → Rudra → Nanda → Karn → Dev
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Vishnu → Nanda → Karn → Rudra → Dev (= Ganga).
-
-**Logic:** Upstream–downstream order is heavily tested; reverse order is the trap.
-
-</details>
-
-**Q6.**
-Under the Indus Waters Treaty, India gets which set?
-
-A. Indus, Jhelum, Chenab
-B. Ravi, Beas, Sutlej
-C. Sutlej, Jhelum, Ravi
-D. Beas, Chenab, Indus
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** India = Ravi, Beas, Sutlej; Pakistan = Indus, Jhelum, Chenab.
-
-**Logic:** Eastern rivers to India is the treaty lock.
-
-</details>
-
-**Q7.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Dam / feature) | List-II (River) |
-|---|---|
-| 1. Baglihar | A. Krishna |
-| 2. Pandoh | B. Chenab |
-| 3. Srisailam | C. Beas |
-| 4. Tulbul | D. Jhelum / Wular |
-
-A. 1-C, 2-B, 3-A, 4-D
-B. 1-B, 2-C, 3-A, 4-D
-C. 1-B, 2-A, 3-C, 4-D
-D. 1-D, 2-C, 3-A, 4-B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Baglihar–Chenab; Pandoh–Beas; Srisailam–Krishna; Tulbul–Jhelum/Wular.
-
-**Logic:** Pandoh ≠ Ravi and Srisailam ≠ Tungabhadra are the main swaps.
-
-</details>
-
-**Q8.**
-Which one of the following is a west-flowing river that forms an estuary in a rift valley?
-
-A. Godavari
-B. Narmada
-C. Mahanadi
-D. Cauvery
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Narmada** (and Tapi) = rift-valley estuary builders.
-
-**Logic:** Most east-flowing peninsular rivers build deltas.
-
-</details>
-
-**Q9.**
-Ken–Betwa is correctly described as:
-
-A. One of 16 Himalayan links already completed
-B. The only National Perspective Plan link under implementation (Bundelkhand MP–UP)
-C. A National Waterway from Ganga to Hooghly
-D. An inland drainage canal of the Thar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Ken–Betwa is the only NPP link under implementation.
-
-**Logic:** “How many links operational?” traps invent multiple completed national links.
-
-</details>
-
-**Q10.**
-Yamuna right-bank tributaries from west to east are:
-
-A. Ken–Betwa–Sind–Chambal
-B. Chambal–Sind–Betwa–Ken
-C. Betwa–Chambal–Ken–Sind
-D. Sind–Ken–Betwa–Chambal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Chambal–Sind–Betwa–Ken**.
-
-**Logic:** Betwa meets at Hamirpur and does **not** join at Prayagraj.
-
-</details>
-
-**Q11.**
-Which of the following statements is/are correct?
-
-1. Kosi is called the Sorrow of Bihar.
-2. Damodar is called the Sorrow of Bengal.
-3. Luni is an inland drainage river with a saline lower course.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** All three statements are correct.
-
-**Logic:** Sorrow titles swap easily; Luni ≠ Barak (Bay via Meghna).
-
-</details>
-
-**Q12.**
-Among the following, the trans-Himalayan river is:
-
-A. Jhelum
-B. Ravi
-C. Sutlej
-D. Ganga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Sutlej** rises north of the Great Himalaya and cuts through.
-
-**Logic:** Indus and Brahmaputra are also trans-Himalayan; Jhelum/Ravi are not the Tibet-cut pick in this option set.
-
-</details>
-
-**Q13.**
-Assertion (A): Most east-flowing peninsular rivers form deltas.
-Reason (R): Narmada and Tapi flow through rift valleys and form estuaries.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true, but R explains west-flowing rift rivers, not why east-flowing rivers build deltas.
-
-**A/R logic:** Contrast delta vs estuary; R is true but not the cause of A.
-
-</details>
-
-**Q14.**
-National Waterway-1 corresponds to:
-
-A. Brahmaputra
-B. Kerala backwaters
-C. Ganga–Hooghly
-D. Krishna–Godavari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **NW-1** = Ganga–Hooghly.
-
-**Logic:** NW-2 Brahmaputra; NW-3 Kerala; NW-4 Krishna–Godavari; NW-5 Brahmani–Mahanadi.
-
-</details>
-
-**Q15.**
-Which confluence is correctly matched?
-
-A. Yamuna meets Ganga at Kannauj
-B. Ghaghara meets Ganga at Prayagraj
-C. Son meets Ganga at Patna
-D. Kosi meets Ganga at Sonpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Son meets Ganga at **Patna**.
-
-**Logic:** Yamuna–Prayagraj; Ramganga–Kannauj; Gandak–Sonpur; Kosi–Kursela.
-
-</details>
-
-**Q16.**
-Tapi rises from:
-
-A. Western Ghats near Mahabaleshwar
-B. Amarkantak plateau
-C. Brahmagiri hills
-D. Multai in the Satpura range
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Tapi rises at **Multai (Satpura)** — not the Western Ghats.
-
-**Logic:** Narmada–Amarkantak; Krishna–Mahabaleshwar; Kaveri–Brahmagiri.
-
-</details>
-
-**Q17.**
-Arcuate and bird’s-foot deltas are correctly paired as:
-
-A. Mississippi — arcuate; Sundarbans — bird’s-foot
-B. Both Sundarbans and Mississippi — bird’s-foot
-C. Both Sundarbans and Mississippi — arcuate
-D. Sundarbans — arcuate; Mississippi — bird’s-foot
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Sundarbans = arcuate; Mississippi = bird’s-foot.
-
-**Logic:** Do not call the Ganga delta bird’s-foot.
-
-</details>
-
-**Q18.**
-Gandak:
-
-A. Flows through Lucknow as the Gomti
-B. Is a right-bank tributary of the Yamuna
-C. Is an inland drainage river of Rajasthan
-D. Joins Ganga at Sonpur and does not flow through Uttar Pradesh in the usual state list
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Gandak joins at Sonpur and is not a UP river in the usual list.
-
-**Logic:** Gomti = Lucknow; Ghaghara = Ayodhya.
-
-</details>
-
-**Q19.**
-Consider the following city–river pairs:
-
-1. Hyderabad — Musi
-2. Ludhiana — Sutlej
-3. Hampi — Tungabhadra
-4. Leh — left bank of the Indus
-
-Which of the pairs given above are correctly matched?
-
-A. 1, 2 and 4 only
-B. 2, 3 and 4 only
-C. 1, 2, 3 and 4
-D. 1, 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Pairs 1–3 are correct; Leh is on the **right bank** of the Indus.
-
-**Logic:** Hyderabad ≠ Krishna stem; Ludhiana ≠ Ravi.
-
-</details>
-
-**Q20.**
-Which drainage pattern is typical of Amarkantak?
-
-A. Trellis
-B. Dendritic
-C. Centripetal
-D. Radial
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Amarkantak shows **radial** drainage (Narmada west, Son toward Ganga).
-
-**Logic:** Trellis ≈ Singhbhum folds; centripetal ≈ Loktak / Sambhar; dendritic ≈ homogeneous plains/peninsula stems.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">About what share of India’s drainage area faces the Bay of Bengal?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> About 77%</div><div class="pyq-opt"><span class="opt-letter">B</span> About 23%</div><div class="pyq-opt"><span class="opt-letter">C</span> About 50%</div><div class="pyq-opt"><span class="opt-letter">D</span> About 90%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> About **77%** of drainage **area** faces the Bay of Bengal.
+
+**Logic:** Arabian Sea ≈ 23% area; water volume to the Bay is still >90%. Do not confuse area share with water share.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is the largest river basin inside India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ganga</div><div class="pyq-opt"><span class="opt-letter">B</span> Godavari</div><div class="pyq-opt"><span class="opt-letter">C</span> Brahmaputra</div><div class="pyq-opt"><span class="opt-letter">D</span> Indus</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ganga** is the largest basin **inside India**.
+
+**Logic:** Godavari is the largest **peninsular** basin; Brahmaputra leads water volume.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to drainage types, which of the following pairs is/are correctly matched?<br><br>1. Antecedent — Indus, Sutlej, Brahmaputra<br>2. Superimposed — Chambal<br>3. Consequent — follows weak belts later</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Consequent follows the **original slope**; subsequent follows weak belts later.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): The river is named Ganga only from Devprayag onward.<br>Reason (R): At Devprayag the Alaknanda meets the Mandakini.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is true; R is false.
+
+**A/R logic:** Devprayag = Alaknanda + **Bhagirathi**. Mandakini meets at Rudraprayag.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Panch Prayag upstream to downstream is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vishnu → Nanda → Karn → Rudra → Dev</div><div class="pyq-opt"><span class="opt-letter">B</span> Dev → Rudra → Karn → Nanda → Vishnu</div><div class="pyq-opt"><span class="opt-letter">C</span> Karn → Vishnu → Nanda → Rudra → Dev</div><div class="pyq-opt"><span class="opt-letter">D</span> Vishnu → Rudra → Nanda → Karn → Dev</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Vishnu → Nanda → Karn → Rudra → Dev (= Ganga).
+
+**Logic:** Upstream–downstream order is heavily tested; reverse order is the trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Under the Indus Waters Treaty, India gets which set?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Indus, Jhelum, Chenab</div><div class="pyq-opt"><span class="opt-letter">B</span> Ravi, Beas, Sutlej</div><div class="pyq-opt"><span class="opt-letter">C</span> Sutlej, Jhelum, Ravi</div><div class="pyq-opt"><span class="opt-letter">D</span> Beas, Chenab, Indus</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> India = Ravi, Beas, Sutlej; Pakistan = Indus, Jhelum, Chenab.
+
+**Logic:** Eastern rivers to India is the treaty lock.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Dam / feature)</th><th>List-II (River)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Baglihar</td><td><span class="match-key">A</span> Krishna</td></tr>
+      <tr><td><span class="match-key">2</span> Pandoh</td><td><span class="match-key">B</span> Chenab</td></tr>
+      <tr><td><span class="match-key">3</span> Srisailam</td><td><span class="match-key">C</span> Beas</td></tr>
+      <tr><td><span class="match-key">4</span> Tulbul</td><td><span class="match-key">D</span> Jhelum / Wular</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-C, 2-B, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-C, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-C, 3-A, 4-B</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Baglihar–Chenab; Pandoh–Beas; Srisailam–Krishna; Tulbul–Jhelum/Wular.
+
+**Logic:** Pandoh ≠ Ravi and Srisailam ≠ Tungabhadra are the main swaps.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is a west-flowing river that forms an estuary in a rift valley?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Godavari</div><div class="pyq-opt"><span class="opt-letter">B</span> Narmada</div><div class="pyq-opt"><span class="opt-letter">C</span> Mahanadi</div><div class="pyq-opt"><span class="opt-letter">D</span> Cauvery</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Narmada** (and Tapi) = rift-valley estuary builders.
+
+**Logic:** Most east-flowing peninsular rivers build deltas.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Ken–Betwa is correctly described as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> One of 16 Himalayan links already completed</div><div class="pyq-opt"><span class="opt-letter">B</span> The only National Perspective Plan link under implementation (Bundelkhand MP–UP)</div><div class="pyq-opt"><span class="opt-letter">C</span> A National Waterway from Ganga to Hooghly</div><div class="pyq-opt"><span class="opt-letter">D</span> An inland drainage canal of the Thar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ken–Betwa is the only NPP link under implementation.
+
+**Logic:** “How many links operational?” traps invent multiple completed national links.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Yamuna right-bank tributaries from west to east are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ken–Betwa–Sind–Chambal</div><div class="pyq-opt"><span class="opt-letter">B</span> Chambal–Sind–Betwa–Ken</div><div class="pyq-opt"><span class="opt-letter">C</span> Betwa–Chambal–Ken–Sind</div><div class="pyq-opt"><span class="opt-letter">D</span> Sind–Ken–Betwa–Chambal</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chambal–Sind–Betwa–Ken**.
+
+**Logic:** Betwa meets at Hamirpur and does **not** join at Prayagraj.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements is/are correct?<br><br>1. Kosi is called the Sorrow of Bihar.<br>2. Damodar is called the Sorrow of Bengal.<br>3. Luni is an inland drainage river with a saline lower course.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Sorrow titles swap easily; Luni ≠ Barak (Bay via Meghna).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Among the following, the trans-Himalayan river is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jhelum</div><div class="pyq-opt"><span class="opt-letter">B</span> Ravi</div><div class="pyq-opt"><span class="opt-letter">C</span> Sutlej</div><div class="pyq-opt"><span class="opt-letter">D</span> Ganga</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sutlej** rises north of the Great Himalaya and cuts through.
+
+**Logic:** Indus and Brahmaputra are also trans-Himalayan; Jhelum/Ravi are not the Tibet-cut pick in this option set.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Most east-flowing peninsular rivers form deltas.<br>Reason (R): Narmada and Tapi flow through rift valleys and form estuaries.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true, but R explains west-flowing rift rivers, not why east-flowing rivers build deltas.
+
+**A/R logic:** Contrast delta vs estuary; R is true but not the cause of A.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">National Waterway-1 corresponds to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Brahmaputra</div><div class="pyq-opt"><span class="opt-letter">B</span> Kerala backwaters</div><div class="pyq-opt"><span class="opt-letter">C</span> Ganga–Hooghly</div><div class="pyq-opt"><span class="opt-letter">D</span> Krishna–Godavari</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> NW-1** = Ganga–Hooghly.
+
+**Logic:** NW-2 Brahmaputra; NW-3 Kerala; NW-4 Krishna–Godavari; NW-5 Brahmani–Mahanadi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which confluence is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Yamuna meets Ganga at Kannauj</div><div class="pyq-opt"><span class="opt-letter">B</span> Ghaghara meets Ganga at Prayagraj</div><div class="pyq-opt"><span class="opt-letter">C</span> Son meets Ganga at Patna</div><div class="pyq-opt"><span class="opt-letter">D</span> Kosi meets Ganga at Sonpur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Son meets Ganga at **Patna**.
+
+**Logic:** Yamuna–Prayagraj; Ramganga–Kannauj; Gandak–Sonpur; Kosi–Kursela.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Tapi rises from:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Western Ghats near Mahabaleshwar</div><div class="pyq-opt"><span class="opt-letter">B</span> Amarkantak plateau</div><div class="pyq-opt"><span class="opt-letter">C</span> Brahmagiri hills</div><div class="pyq-opt"><span class="opt-letter">D</span> Multai in the Satpura range</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tapi rises at **Multai (Satpura)** — not the Western Ghats.
+
+**Logic:** Narmada–Amarkantak; Krishna–Mahabaleshwar; Kaveri–Brahmagiri.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arcuate and bird’s-foot deltas are correctly paired as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mississippi — arcuate; Sundarbans — bird’s-foot</div><div class="pyq-opt"><span class="opt-letter">B</span> Both Sundarbans and Mississippi — bird’s-foot</div><div class="pyq-opt"><span class="opt-letter">C</span> Both Sundarbans and Mississippi — arcuate</div><div class="pyq-opt"><span class="opt-letter">D</span> Sundarbans — arcuate; Mississippi — bird’s-foot</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sundarbans = arcuate; Mississippi = bird’s-foot.
+
+**Logic:** Do not call the Ganga delta bird’s-foot.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Gandak:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Flows through Lucknow as the Gomti</div><div class="pyq-opt"><span class="opt-letter">B</span> Is a right-bank tributary of the Yamuna</div><div class="pyq-opt"><span class="opt-letter">C</span> Is an inland drainage river of Rajasthan</div><div class="pyq-opt"><span class="opt-letter">D</span> Joins Ganga at Sonpur and does not flow through Uttar Pradesh in the usual state list</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Gandak joins at Sonpur and is not a UP river in the usual list.
+
+**Logic:** Gomti = Lucknow; Ghaghara = Ayodhya.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following city–river pairs:<br><br>1. Hyderabad — Musi<br>2. Ludhiana — Sutlej<br>3. Hampi — Tungabhadra<br>4. Leh — left bank of the Indus<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1–3 are correct; Leh is on the **right bank** of the Indus.
+
+**Logic:** Hyderabad ≠ Krishna stem; Ludhiana ≠ Ravi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which drainage pattern is typical of Amarkantak?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Trellis</div><div class="pyq-opt"><span class="opt-letter">B</span> Dendritic</div><div class="pyq-opt"><span class="opt-letter">C</span> Centripetal</div><div class="pyq-opt"><span class="opt-letter">D</span> Radial</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Amarkantak shows **radial** drainage (Narmada west, Son toward Ganga).
+
+**Logic:** Trellis ≈ Singhbhum folds; centripetal ≈ Loktak / Sambhar; dendritic ≈ homogeneous plains/peninsula stems.</div>
+  </div>
+</div>

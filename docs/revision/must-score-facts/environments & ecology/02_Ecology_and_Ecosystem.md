@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 2 — Ecology (पारिस्थितिकी) & Ecosystem (पारिस्थितिकी तंत्र)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Ecology** is the **study** of organism–environment (पर्यावरण) interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology. **Bionomics** (बायोनॉमिक्स) is synonymous with ecology; it does **not** mean “management of life.”
@@ -74,22 +63,13 @@ hide:
 48. **Autoecology** studies one species in its environment.
 49. **Synecology** studies communities and ecosystems together.
 50. **A.G. Tansley** introduced the term **ecosystem** in **1935**.
-
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Environmental Legislation & Governance in India
-
-```
-1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
-1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
-1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
-1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
-1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
-1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
-2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
-2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
-2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
-```
+51. **Ecology Terminological Origins:** Term 'Ecology' (*Oekologie*) coined in 1866 by German biologist **Ernst Haeckel** (from Greek *oikos* meaning home/household and *logos* meaning study); term 'Ecosystem' coined in 1935 by British ecologist **A.G. Tansley**; term 'Biosphere' introduced by geologist **Eduard Suess (1875)**; **Eugene Odum** is regarded as the 'Father of Modern Ecology'.
+52. **Ecological Niche Concept:** First formulated by **Joseph Grinnell (1917)** and refined by **G. Evelyn Hutchinson (1957)**; represents the specific functional role and physical position of an organism within its ecosystem ('Address is habitat, profession is niche'); two species cannot coexist indefinitely in the same niche if they compete for identical resources (**Gause's Principle of Competitive Exclusion**).
+53. **Ecotone & Edge Effect:** **Ecotone** is a transitional zone of junction between two diverse ecological communities/biomes (e.g. mangrove between terrestrial and marine; marshland between aquatic and dry land); exhibits high species richness and population density known as the **Edge Effect**; organisms occurring primarily or most abundantly in this transition zone are called **Edge Species** (e.g. birds in forest borders).
+54. **Ecological Succession Stages:** Directional and predictable process of community change over time; (1) **Primary Succession:** Initiated on previously uncolonized, barren, soil-less surfaces (bare rock, cooled lava, sand dune); pioneer species on bare rock are **Lichens and Mosses** (secrete acids to weather rock into soil); (2) **Secondary Succession:** Occurs in areas where an existing community has been destroyed (forest fire, abandoned farmland, flood) but where soil and seeds already exist (much faster); final stable, self-perpetuating terminal community is the **Climax Community**.
+55. **Ecological Pyramids (Charles Elton, 1927):** (1) **Pyramid of Numbers:** Upright in grassland and pond ecosystems; **Inverted in parasitic food chains and single tree ecosystem** (one large tree supports hundreds of herbivorous birds, which host thousands of lice/parasites); (2) **Pyramid of Biomass:** Upright in terrestrial ecosystems; **Inverted in aquatic / ocean ecosystems** (biomass of primary producers [phytoplankton] at any given time is much smaller than the biomass of consumers [zooplankton, fish] due to rapid turnover rate of microscopic algae); (3) **Pyramid of Energy:** **ALWAYS UPRIGHT** without any exception in all ecosystems, governed by the Second Law of Thermodynamics.
+56. **Lindeman's 10% Energy Transfer Law (1942):** Formulated by Raymond Lindeman; states that during the transfer of organic energy from one trophic level to the next higher level, only about **10% of the energy is conserved and stored as biomass**, while the remaining **90% is dissipated as heat** during metabolic respiration and waste.
+57. **Bioaccumulation vs Biomagnification:** (1) **Bioaccumulation:** Gradual buildup of a persistent, fat-soluble, non-biodegradable chemical substance (like DDT, heavy metals) within the tissues of a single individual organism over its lifetime directly from its environment; (2) **Biomagnification / Bioamplification:** Progressive increase in concentration of the toxic substance at **successively higher trophic levels** across a food chain (e.g. DDT concentration increases from water [0.000003 ppm] -> zooplankton [0.04 ppm] -> small fish [0.5 ppm] -> large fish [2 ppm] -> fish-eating birds [25 ppm], causing eggshell thinning and population collapse of eagles/pelicans).
 
 ## 📊 Quick Reference Grid
 
@@ -116,316 +96,231 @@ hide:
 | Eutrophication | Nutrient overload → bloom → DO crash |
 | Energy vs nutrients | Energy **one-way**; nutrients **cycle** |
 | Ecotone / Deep ecology | Transition zone / Arne Næss **1973** |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Ecology (Haeckel 1866)** | **Ecosystem (Tansley 1935)** | Scientific academic study of organism-environment interactions vs concrete structural-functional unit of nature combining biotic and abiotic components | पारिस्थितिकी / पारिस्थितिक तंत्र |
-| **Habitat** | **Ecological Niche** | Physical place or environmental zone where a species resides vs unique functional role, trophic position, and resource utilization pattern (Grinnell) | वास स्थान / पारिस्थितिक निकेत |
-| **Population** | **Ecological Community** | Group of interbreeding individuals of the *same* species in an area vs assemblage of populations of *different* interacting species in an area | जनसंख्या (समष्टि) / जैविक समुदाय |
-| **Gross Primary Productivity (GPP)** | **Net Primary Productivity (NPP)** | Total rate of organic matter synthesized by producers via photosynthesis vs actual biomass available to consumers after plant respiration losses (NPP = GPP - R) | सकल प्राथमिक उत्पादकता (GPP) / शुद्ध प्राथमिक उत्पादकता (NPP) |
-| **Fundamental Niche** | **Realized Niche** | Full theoretical potential range of environmental conditions and resources a species can use without competition vs actual restricted niche occupied due to biotic competition | मूल (मौलिक) निकेत / वास्तविक निकेत |
-| **Primary Succession** | **Secondary Succession** | Ecological succession beginning on barren, lifeless substrate with no pre-existing soil (cooled lava, bare rock) vs succession on disturbed areas where soil already exists (after forest fire, flood) | प्राथमिक अनुक्रमण / द्वितीयक अनुक्रमण |
-| **r-Selected Species** | **K-Selected Species** | High reproductive rate, small body, short lifespan, little parental care (insects, rodents, weeds) vs low reproductive rate, large body, long lifespan, high parental care (elephants, whales, humans) | r-रणनीतिकारी / K-रणनीतिकारी प्रजाति |
-| **Ecotone** | **Ecotype** | Sharp transition boundary zone between two distinct ecological communities (mangroves, forest-grassland edge) vs genetically distinct geographic variety or sub-population within a species | इकोटोन (संक्रमण क्षेत्र) / इकोटाइप |
-| **Sere** | **Climax Community** | Entire chronological transitional sequence of developmental communities during ecological succession vs final, stable, self-perpetuating terminal community in equilibrium with regional climate | क्रमक (Sere) / चरम समुदाय |
-| **Bionomics** | **Ecology** | Historical 19th-century synonym of ecology meaning "laws of life" (UPPCS trap: bionomics is NOT management of life) vs modern ecology | बायोनॉमिक्स / पारिस्थितिकी |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to 'Ecosystem', which of the following statements is/are correct?
-
-1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
-2. Around 10% of organic matter reaches to the next higher level of consumers.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Both NCERT standard facts.
-
-</details>
-
-**Q2.**
-
-With reference to lichens, which of the following statements is/are correct?
-
-1. Lichens are very good indicators of pollution.
-2. Lichens grow well in polluted areas.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Sensitive bio-indicators; fail in polluted air.
-
-</details>
-
-**Q3.**
-
-Which of the following statements is not true about "ecological niche"?
-
-Options:
-A. Dominant species occupy extensive and broader ecological niche.
-B. Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.
-C. Number of species becomes small in ecological niche, if resources are sufficient.
-D. Dominance of single species becomes minimum if the resource distribution is equitable in a habitat.
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — More resources → more species.
-
-</details>
-
-**Q4.**
-
-Which of the following is the correct sequence of phases of Biotic succession?
-
-Options:
-A. Ecesis – Migration – Reaction – Stabilisation
-B. Ecesis – Migration – Stabilisation – Reaction
-C. Migration – Reaction – Stabilisation – Ecesis
-D. Migration – Ecesis – Reaction – Stabilisation
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q5.**
-
-Plants and animals that live on land are called:
-
-A. Abiotic
-
-B. Aquatic habitants
-
-C. Terrestrial habitants
-
-D. Biotic
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q6.**
-
-Most important factor for loss of biodiversity?
-
-A. Genetic assimilation
-
-B. Control of predators
-
-C. Destruction of natural habitat
-
-D. Pest control
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q7.**
-
-Aquatic plant used as biofertilizer in water-logged rice fields:
-
-A. Lemna
-
-B. Azolla
-
-C. Wolffia
-
-D. Trapa
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Azolla–Anabaena mutualism.
-
-</details>
-
-**Q8.**
-
-Which of the following is an example of a Lotic Ecosystem?
-
-A. Swamps
-
-B. Ponds
-
-C. Rivers
-
-D. Marshy areas
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q9.**
-
-Desert-dwelling animals are called:
-
-A. Arboreal
-
-B. Terrestrial
-
-C. Fossorial
-
-D. Xericole
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q10.**
-
-Trophic levels are formed by—
-
-A. Organisms linked in a food chain
-
-B. Plants only
-
-C. Animals only
-
-D. Carnivorous animals only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q11.**
-
-Assertion (A): Population control is necessary to maintain the environment of the country.
-
-Reason (R): Due to the rapid increase in population, environmental balance is maintained.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Rapid growth disrupts balance.
-
-</details>
-
-**Q12.**
-
-Assertion (A): Phytoplankton grow in abundance in the limnetic zone.
-
-Reason (R): The limnetic zone is the open-water zone.
-
-A. A false, R true
-
-B. A true, R false
-
-C. Both true; R not explanation
-
-D. Both true; R explains A
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q13.**
-
-With reference to 'ecological niche', which statements is/are correct?
-
-1. It represents the range of conditions that a species can tolerate, the resources it utilizes, and its functional role in ecological systems.
-2. Each species has a distinct niche.
-
-A. Neither 1 nor 2
-
-B. Both 1 and 2
-
-C. Only 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.**
-
-Assertion (A): Various components of an ecosystem are not interdependent.
-
-Reason (R): Human activities have impacts on the environment.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q15.**
-
-Indicator of air pollution:
-
-A. Puffballs
-
-B. Algae
-
-C. Lichen
-
-D. Moss
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to 'Ecosystem', which of the following statements is/are correct?<br><br>1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.<br>2. Around 10% of organic matter reaches to the next higher level of consumers.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both NCERT standard facts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to lichens, which of the following statements is/are correct?<br><br>1. Lichens are very good indicators of pollution.<br>2. Lichens grow well in polluted areas.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sensitive bio-indicators; fail in polluted air.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements is not true about "ecological niche"?<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dominant species occupy extensive and broader ecological niche.</div><div class="pyq-opt"><span class="opt-letter">B</span> Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.</div><div class="pyq-opt"><span class="opt-letter">C</span> Number of species becomes small in ecological niche, if resources are sufficient.</div><div class="pyq-opt"><span class="opt-letter">D</span> Dominance of single species becomes minimum if the resource distribution is equitable in a habitat.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> More resources → more species.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following is the correct sequence of phases of Biotic succession?<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ecesis – Migration – Reaction – Stabilisation</div><div class="pyq-opt"><span class="opt-letter">B</span> Ecesis – Migration – Stabilisation – Reaction</div><div class="pyq-opt"><span class="opt-letter">C</span> Migration – Reaction – Stabilisation – Ecesis</div><div class="pyq-opt"><span class="opt-letter">D</span> Migration – Ecesis – Reaction – Stabilisation</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Plants and animals that live on land are called:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Abiotic</div><div class="pyq-opt"><span class="opt-letter">B</span> Aquatic habitants</div><div class="pyq-opt"><span class="opt-letter">C</span> Terrestrial habitants</div><div class="pyq-opt"><span class="opt-letter">D</span> Biotic</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Most important factor for loss of biodiversity?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Genetic assimilation</div><div class="pyq-opt"><span class="opt-letter">B</span> Control of predators</div><div class="pyq-opt"><span class="opt-letter">C</span> Destruction of natural habitat</div><div class="pyq-opt"><span class="opt-letter">D</span> Pest control</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Aquatic plant used as biofertilizer in water-logged rice fields:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Lemna</div><div class="pyq-opt"><span class="opt-letter">B</span> Azolla</div><div class="pyq-opt"><span class="opt-letter">C</span> Wolffia</div><div class="pyq-opt"><span class="opt-letter">D</span> Trapa</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Azolla–Anabaena mutualism.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following is an example of a Lotic Ecosystem?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Swamps</div><div class="pyq-opt"><span class="opt-letter">B</span> Ponds</div><div class="pyq-opt"><span class="opt-letter">C</span> Rivers</div><div class="pyq-opt"><span class="opt-letter">D</span> Marshy areas</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Desert-dwelling animals are called:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Arboreal</div><div class="pyq-opt"><span class="opt-letter">B</span> Terrestrial</div><div class="pyq-opt"><span class="opt-letter">C</span> Fossorial</div><div class="pyq-opt"><span class="opt-letter">D</span> Xericole</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Trophic levels are formed by—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Organisms linked in a food chain</div><div class="pyq-opt"><span class="opt-letter">B</span> Plants only</div><div class="pyq-opt"><span class="opt-letter">C</span> Animals only</div><div class="pyq-opt"><span class="opt-letter">D</span> Carnivorous animals only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Population control is necessary to maintain the environment of the country.<br><br>Reason (R): Due to the rapid increase in population, environmental balance is maintained.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true; R explains A</div><div class="pyq-opt"><span class="opt-letter">B</span> Both true; R not explanation</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false, R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rapid growth disrupts balance.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Phytoplankton grow in abundance in the limnetic zone.<br><br>Reason (R): The limnetic zone is the open-water zone.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A false, R true</div><div class="pyq-opt"><span class="opt-letter">B</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">C</span> Both true; R not explanation</div><div class="pyq-opt"><span class="opt-letter">D</span> Both true; R explains A</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to 'ecological niche', which statements is/are correct?<br><br>1. It represents the range of conditions that a species can tolerate, the resources it utilizes, and its functional role in ecological systems.<br>2. Each species has a distinct niche.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Various components of an ecosystem are not interdependent.<br><br>Reason (R): Human activities have impacts on the environment.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true; R explains A</div><div class="pyq-opt"><span class="opt-letter">B</span> Both true; R not explanation</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false, R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Indicator of air pollution:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Puffballs</div><div class="pyq-opt"><span class="opt-letter">B</span> Algae</div><div class="pyq-opt"><span class="opt-letter">C</span> Lichen</div><div class="pyq-opt"><span class="opt-letter">D</span> Moss</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>

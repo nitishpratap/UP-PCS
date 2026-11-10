@@ -95,6 +95,16 @@ hide:
 48. **Single Citizenship Constitutional Ideal:** Borrowed from the United Kingdom; promotes national integration; no domicile-based political distinctions; all citizens enjoy equal Fundamental Rights throughout the territory of India.
 49. **Overseas Citizens of India (OCI) Cardholders:** Not full citizens; created by Citizenship (Amendment) Act, 2005; granted multi-purpose, life-long visa to visit India; do NOT have voting rights, cannot hold constitutional office (President, Judge, MP, MLA), and cannot acquire agricultural land.
 50. **Citizenship Amendment Act (CAA), 2019 Specifics:** Extends fast-track Indian citizenship to 6 non-Muslim persecuted minority communities (**Hindus, Sikhs, Buddhists, Jains, Parsis, Christians**) from **Pakistan, Bangladesh, and Afghanistan** who entered India on or before **31 December 2014**; reduces residency requirement for naturalisation from 11 years to **5 years**; exempts 6th Schedule tribal areas and Inner Line Permit (ILP) areas.
+51. **Article 1 - Nature and Territorial Scope:** Article 1(1) declares 'India, that is Bharat, shall be a Union of States'; Article 1(2) refers to States and territories specified in the First Schedule; Article 1(3) categorizes 'Territory of India' into: (a) Territories of States, (b) Union Territories, and (c) Such other territories as may be acquired by Govt of India; 'Territory of India' is a wider expression than 'Union of India' (which includes only States).
+52. **Article 2 vs Article 3 Nuance:** Article 2 relates to admission or establishment of **new States that are not part of the Union of India** (e.g. admission of Sikkim via 36th CAA 1975); Article 3 relates to the formation of or changes in the existing States of the Union of India (internal reorganization).
+53. **Article 3 Procedure for State Reorganisation:** Bill can be introduced in either House ONLY on the **prior recommendation of the President**; President must refer the bill to the concerned State Legislature for expressing its views within a specified period; **Parliament / President is NOT bound by the views of the State Legislature** and can accept or reject them; for Union Territories, no reference to legislature is needed.
+54. **Cession of Indian Territory (Berubari Union Reference, 1960):** Supreme Court held that the power of Parliament to alter boundaries under Article 3 does NOT include the power to cede Indian territory to a foreign country; Indian territory can be ceded **ONLY by amending the Constitution under Article 368** (hence 9th CAA 1960 enacted for Berubari, and 100th CAA 2015 enacted for Bangladesh enclaves exchange).
+55. **Settlement of Boundary Disputes (Magannbhai Ishwarbhai Patel Case, 1969):** Supreme Court ruled that settlement of a boundary dispute between India and another country does **NOT require a constitutional amendment under Article 368**; it can be implemented by executive action as it does not involve cession of Indian territory.
+56. **S.K. Dhar Commission (June 1948):** Appointed by President of Constituent Assembly (Dr. Rajendra Prasad) to examine feasibility of linguistic provinces; submitted report in December 1948 recommending reorganization on basis of **administrative convenience** rather than linguistic considerations.
+57. **JVP Committee (December 1948):** Consisted of **Jawaharlal Nehru, Vallabhbhai Patel, and Pattabhi Sitaramayya**; appointed by Congress Jaipur Session; submitted report in April 1949 formally rejecting language as the basis for reorganization of states.
+58. **Creation of First Linguistic State (Andhra State, 1953):** Potti Sreeramulu underwent a 56-day hunger strike demanding a separate Telugu state from Madras Presidency and died on 15 December 1952; government was forced to create the **first linguistic state of Andhra on 1 October 1953** (capital Kurnool; High Court Guntur).
+59. **Fazl Ali Commission / States Reorganisation Commission (1953–1955):** 3-member Commission: **Justice Fazl Ali (Chairman), H.N. Kunzru, and K.M. Panikkar**; accepted language as broad basis for reorganization but rejected 'one language, one state' theory; recommended abolition of 4-tier state classification (Part A, B, C, D) and creation of 16 states and 3 UTs.
+60. **States Reorganisation Act, 1956 & 7th CAA 1956:** Enacted in November 1956; established **14 States** (Andhra Pradesh, Assam, Bihar, Bombay, Jammu & Kashmir, Kerala, Madhya Pradesh, Madras, Mysore, Orissa, Punjab, Rajasthan, Uttar Pradesh, West Bengal) and **6 Union Territories** (Andaman & Nicobar, Delhi, Himachal Pradesh, Laccadive/Minicoy/Amindivi, Manipur, Tripura).
 
 ## ⏱️ Timeline / Chronology
 
@@ -161,20 +171,6 @@ hide:
 | **JVP Committee** | December 1948 | Jawaharlal Nehru, Vallabhbhai Patel, Pattabhi Sitaramayya | Formally rejected language as basis |
 | **Fazl Ali Commission (SRC)** | December 1953 | Fazl Ali (Chair), K.M. Panikkar, H.N. Kunzru | Language accepted as major factor; rejected "one language, one state"; proposed 14 states + 6 UTs |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| Article 2 vs Article 3 | **Art. 2** = Admission/establishment of NEW territories not part of India. **Art. 3** = Internal reorganization of EXISTING Indian States. | Swap the two articles | अनुच्छेद 2 = नए राज्य प्रवेश; अनुच्छेद 3 = आंतरिक पुनर्गठन |
-| Art. 3 Majority Requirement | Passed by **Simple Majority** in Parliament (Art. 4). NOT an amendment under Art. 368. | Require special majority for state creation | राज्य निर्माण = संसद में साधारण बहुमत |
-| State Assembly Views on Art. 3 | President must refer to State Assembly, but Parliament is **NOT BOUND** by its views. | Claim State consent is mandatory to alter boundaries | राज्य विधानसभा की राय बाध्यकारी नहीं |
-| Cession of Territory vs Boundary Settlement | **Cession** requires Art. 368 amendment (*Berubari*). **Boundary settlement** done by executive action. | Claim cession can be done by ordinary law | भूभाग सौंपना = संविधान संशोधन अनिवार्य |
-| First Linguistic State | **Andhra State (1953)** (NOT Andhra Pradesh 1956). | Name Andhra Pradesh as first linguistic state | पहला भाषाई राज्य = आंध्र राज्य (1953) |
-| Sikkim 35th vs 36th Amendment | **35th (1974)** = Associate State. **36th (1975)** = Full-fledged 22nd State. | Confuse associate status with full statehood | 35वां = सह-राज्य; 36वां = पूर्ण राज्य |
-| Acquisition vs Cessation (100th Amd) | 100th Amendment (2015) was enacted to exchange enclaves with **Bangladesh** under Art. 368. | Credit it to normal executive agreement | भारत-बांग्लादेश एंक्लेव = 100वां संशोधन |
-| Loss of Citizenship: Termination vs Deprivation | **Termination** = Automatic on acquiring foreign passport. **Deprivation** = Compulsory order by govt for fraud/disloyalty. | Swap the terms | पर्यवसान = स्वतः; वंचित करना = सरकारी आदेश |
-| Present States and UTs Count | **28 States and 8 Union Territories**. | Say 29 States or 9 UTs | 28 राज्य और 8 केंद्र शासित प्रदेश |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **State Creation Committees Sequence:**
@@ -196,265 +192,245 @@ hide:
    - **N**aturalisation
    - **D**escent
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which of the following persons were members of the States Reorganisation Commission?
-
-1. K. T. Shah
-2. K. M. Panikkar
-3. P. Sitaramayya
-4. H. N. Kunzru
-
-A. 1 and 3
-B. 2 and 4
-C. 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 2 and 4. SRC = Fazl Ali (chair), K.M. Panikkar, H.N. Kunzru.
-
-</details>
-
-**Q2.**
-Which one of the following pairs is not correctly matched?
-
-A. Equality before Law — Guaranteed to both citizens and non-citizens
-B. Equality of opportunity in public employment — Guaranteed only to Indian citizens
-C. Creating a new State — Power of Parliament
-D. Altering the name of a State — Power of a State Legislature
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Name of a State is altered by **Parliament (Art. 3)**.
-
-</details>
-
-**Q3.**
-Which among the following (Provision — Part of the Constitution) is not correctly matched?
-
-A. The Union Territories — Part VIII
-B. The Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Tribunals = Part XIVA. (UTs = Part VIII is correct.)
-
-</details>
-
-**Q4.**
-Consider the following subjects and arrange them in sequential order as mentioned in the Constitution.
-
-I. The Union and its territory
-II. Fundamental duties
-III. Citizenship
-IV. Directive Principles of State Policy
-
-A. II, IV, I, III
-B. I, III, IV, II
-C. III, I, II, IV
-D. IV, II, III, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — I (Part I), III (Part II), IV (Part IV), II (Part IVA).
-
-</details>
-
-**Q5.**
-By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?
-
-A. 75th
-B. 73rd
-C. 70th
-D. 69th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 69th Amendment, 1991 (NCT; NCR is a separate statutory region).
-
-</details>
-
-**Q6.**
-Which of the following is NOT possible by a law of Parliament under Article 3 of the Constitution?
-
-A. Formation of new States
-B. Alteration of areas of States
-C. Alteration of boundaries of States
-D. Admission of new States
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Admission = **Art. 2**.
-
-</details>
-
-**Q7.**
-Which Articles of Indian Constitution are related to citizenship?
-
-A. Article 3 to 10
-B. Article 4 to 11
-C. Article 5 to 11
-D. Article 6 to 11
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Articles 5 to 11.
-
-</details>
-
-**Q8.**
-In which Part of the Constitution of India do we find the provisions relating to citizenship?
-
-A. Part I
-B. Part II
-C. Part VII
-D. Part IX
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Part II.
-
-</details>
-
-**Q9.**
-What can be the maximum representation from the Union Territories to the Lok Sabha?
-
-A. 15
-B. 20
-C. 25
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 20.
-
-</details>
-
-**Q10.**
-
-Consider the following statements about Union and its Territory.
-
-1. India comprises 28 States and 8 Union Territories.
-2. India, a Union of States, is a Sovereign, Socialist Secular Democratic Republic with a parliamentary system of Government.
-
-Which of the Statement/s given above is/are correct?
-
-A. 1 Only
-B. 2 Only
-C. Both 1 and 2
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Present map + Preamble-style description of the Union.
-
-**Ans: C** — Both statements are correct. India is a **Union of States** with **28 States and 8 UTs** and a parliamentary system. Trap: outdated counts such as 29 States or 7/9 UTs.
-
-</details>
-
-**Q11.**
-
-By which name/names is our country mentioned in the Constitution?
-
-A. Bharat and India
-B. Bharat only
-C. Hindustan and Indian
-D. Bharat, Hindustan and India
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Art. 1(1) naming formula.
-
-**Ans: A** — **Article 1** says **India, that is Bharat**. Hindustan is not a constitutional name. Trap: adding Hindustan as a third official label.
-
-</details>
-
-**Q12.**
-
-According to Article 1 of Indian Constitution, India is –
-
-A. Group of States
-B. Federation of States
-C. Confederation of States
-D. The Union of States
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Art. 1 wording — Union not federation.
-
-**Ans: D** — **Article 1** declares India to be a **Union of States**. Territory = States + UTs + acquired territory. Trap: calling it a federation or confederation in the Art. 1 sense.
-
-</details>
-
-**Q13.**
-
-Indian Parliament has the power to create a new State under which of the following Constitutional provisions?
-
-A. Article 1
-B. Article 2
-C. Article 3
-D. Article 4
-E. Article 5
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Art. 3 forms/alters existing map; Art. 2 admits new.
-
-**Ans: C** — **Article 3** empowers Parliament to form a new State by separation or union of existing territory. **Article 2** is admission/establishment of a State that was not already a State of the Union. Trap: swapping Art. 2 and Art. 3.
-
-</details>
-
-**Q14.**
-
-The power to carve out a new State is vested in –
-
-A. The Parliament
-B. The President
-C. The Council of Ministers
-D. States’ Reorganisation Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Who legislates under Art. 3.
-
-**Ans: A** — Only **Parliament** may form a new State under **Article 3**. The President recommends and refers for views; SRC only recommended. Trap: treating the President or SRC as the carving authority.
-
-</details>
-
-**Q15.**
-
-Which one of the following is empowered to alter the boundaries of States under the Constitution of India?
-
-A. Parliament
-B. Lok Sabha
-C. President
-D. Supreme Court
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Art. 3 boundary power.
-
-**Ans: A** — **Parliament** alters State boundaries under **Article 3**. Trap: Lok Sabha alone or President by fiat.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following persons were members of the States Reorganisation Commission?<br><br>1. K. T. Shah<br>2. K. M. Panikkar<br>3. P. Sitaramayya<br>4. H. N. Kunzru</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 and 4. SRC = Fazl Ali (chair), K.M. Panikkar, H.N. Kunzru.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is not correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Equality before Law — Guaranteed to both citizens and non-citizens</div><div class="pyq-opt"><span class="opt-letter">B</span> Equality of opportunity in public employment — Guaranteed only to Indian citizens</div><div class="pyq-opt"><span class="opt-letter">C</span> Creating a new State — Power of Parliament</div><div class="pyq-opt"><span class="opt-letter">D</span> Altering the name of a State — Power of a State Legislature</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Name of a State is altered by **Parliament (Art. 3)**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which among the following (Provision — Part of the Constitution) is not correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The Union Territories — Part VIII</div><div class="pyq-opt"><span class="opt-letter">B</span> The Scheduled and Tribal Areas — Part X</div><div class="pyq-opt"><span class="opt-letter">C</span> Tribunals — Part XI</div><div class="pyq-opt"><span class="opt-letter">D</span> Official Language — Part XVII</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tribunals = Part XIVA. (UTs = Part VIII is correct.)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following subjects and arrange them in sequential order as mentioned in the Constitution.<br><br>I. The Union and its territory<br>II. Fundamental duties<br>III. Citizenship<br>IV. Directive Principles of State Policy</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> II, IV, I, III</div><div class="pyq-opt"><span class="opt-letter">B</span> I, III, IV, II</div><div class="pyq-opt"><span class="opt-letter">C</span> III, I, II, IV</div><div class="pyq-opt"><span class="opt-letter">D</span> IV, II, III, I</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> I (Part I), III (Part II), IV (Part IV), II (Part IVA).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">By which amendment of the Constitution has ‘Delhi’ been made the National Capital Region?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 75th</div><div class="pyq-opt"><span class="opt-letter">B</span> 73rd</div><div class="pyq-opt"><span class="opt-letter">C</span> 70th</div><div class="pyq-opt"><span class="opt-letter">D</span> 69th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 69th Amendment, 1991 (NCT; NCR is a separate statutory region).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT possible by a law of Parliament under Article 3 of the Constitution?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Formation of new States</div><div class="pyq-opt"><span class="opt-letter">B</span> Alteration of areas of States</div><div class="pyq-opt"><span class="opt-letter">C</span> Alteration of boundaries of States</div><div class="pyq-opt"><span class="opt-letter">D</span> Admission of new States</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Admission = **Art. 2**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which Articles of Indian Constitution are related to citizenship?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 3 to 10</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 4 to 11</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 5 to 11</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 6 to 11</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Articles 5 to 11.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">In which Part of the Constitution of India do we find the provisions relating to citizenship?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Part I</div><div class="pyq-opt"><span class="opt-letter">B</span> Part II</div><div class="pyq-opt"><span class="opt-letter">C</span> Part VII</div><div class="pyq-opt"><span class="opt-letter">D</span> Part IX</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Part II.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">What can be the maximum representation from the Union Territories to the Lok Sabha?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 15</div><div class="pyq-opt"><span class="opt-letter">B</span> 20</div><div class="pyq-opt"><span class="opt-letter">C</span> 25</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 20.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Union and its Territory.<br><br>1. India comprises 28 States and 8 Union Territories.<br>2. India, a Union of States, is a Sovereign, Socialist Secular Democratic Republic with a parliamentary system of Government.<br><br>Which of the Statement/s given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 Only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 Only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Present map + Preamble-style description of the Union.
+
+**Ans: C** — Both statements are correct. India is a **Union of States** with **28 States and 8 UTs** and a parliamentary system. Trap: outdated counts such as 29 States or 7/9 UTs.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">By which name/names is our country mentioned in the Constitution?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bharat and India</div><div class="pyq-opt"><span class="opt-letter">B</span> Bharat only</div><div class="pyq-opt"><span class="opt-letter">C</span> Hindustan and Indian</div><div class="pyq-opt"><span class="opt-letter">D</span> Bharat, Hindustan and India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Art. 1(1) naming formula.
+
+**Ans: A** — **Article 1** says **India, that is Bharat**. Hindustan is not a constitutional name. Trap: adding Hindustan as a third official label.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">According to Article 1 of Indian Constitution, India is –</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Group of States</div><div class="pyq-opt"><span class="opt-letter">B</span> Federation of States</div><div class="pyq-opt"><span class="opt-letter">C</span> Confederation of States</div><div class="pyq-opt"><span class="opt-letter">D</span> The Union of States</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Art. 1 wording — Union not federation.
+
+**Ans: D** — **Article 1** declares India to be a **Union of States**. Territory = States + UTs + acquired territory. Trap: calling it a federation or confederation in the Art. 1 sense.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Indian Parliament has the power to create a new State under which of the following Constitutional provisions?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 4
+E. Article 5</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Art. 3 forms/alters existing map; Art. 2 admits new.
+
+**Ans: C** — **Article 3** empowers Parliament to form a new State by separation or union of existing territory. **Article 2** is admission/establishment of a State that was not already a State of the Union. Trap: swapping Art. 2 and Art. 3.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The power to carve out a new State is vested in –</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The Parliament</div><div class="pyq-opt"><span class="opt-letter">B</span> The President</div><div class="pyq-opt"><span class="opt-letter">C</span> The Council of Ministers</div><div class="pyq-opt"><span class="opt-letter">D</span> States’ Reorganisation Commission</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Who legislates under Art. 3.
+
+**Ans: A** — Only **Parliament** may form a new State under **Article 3**. The President recommends and refers for views; SRC only recommended. Trap: treating the President or SRC as the carving authority.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is empowered to alter the boundaries of States under the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Parliament</div><div class="pyq-opt"><span class="opt-letter">B</span> Lok Sabha</div><div class="pyq-opt"><span class="opt-letter">C</span> President</div><div class="pyq-opt"><span class="opt-letter">D</span> Supreme Court</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Art. 3 boundary power.
+
+**Ans: A** — **Parliament** alters State boundaries under **Article 3**. Trap: Lok Sabha alone or President by fiat.</div>
+  </div>
+</div>

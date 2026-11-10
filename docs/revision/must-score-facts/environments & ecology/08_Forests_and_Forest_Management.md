@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 8 — Forests & Forest Management</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Forest cover (वन आवरण) in ISFR means a patch of at least **1 ha** with canopy **≥10%**, on any land ownership.
@@ -75,22 +64,6 @@ hide:
 49. **Tropical Moist Deciduous** forest (about **100–200 cm** rain) drops leaves in the dry season; **teak** is the dominant commercial species. **Madhya Pradesh** has the maximum teak area among common state options. Other species: bamboo, sal, shisham, sandalwood, khair, arjun.
 50. **Taxus** grows naturally in the Himalaya, is Red Data–listed, and yields **taxol** (anti-cancer; older stems also cite Parkinson’s).
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Wildlife Conservation Projects in India
-
-```
-1972 ──► Wildlife (Protection) Act enacted (6 Schedules; rationalized to 4 via 2022 Amendment)
-1973 ──► Project Tiger launched at Corbett National Park (9 initial reserves; now 55 Tiger Reserves)
-1975 ──► Crocodile Conservation Project launched with UNDP/FAO support (Mugger, Gharial, Saltwater)
-1986 ──► Nilgiri Biosphere Reserve designated (India's 1st Biosphere Reserve under UNESCO MAB)
-1992 ──► Project Elephant launched (Centrally Sponsored Scheme for wild elephant habitat & corridors)
-1996 ──► Vulture Conservation Action Plan initiated (banning veterinary diclofenac post-crash)
-2007 ──► Project Snow Leopard launched (covering Ladakh, HP, Uttarakhand, Sikkim, Arunachal)
-2020 ──► Project Dolphin & Project Lion announced on Independence Day
-2022 ──► Project Cheetah launched (intercontinental relocation of African cheetahs to Kuno NP, MP)
-```
-
 ## 📊 Quick Reference Grid
 
 ### Cover definitions
@@ -117,329 +90,273 @@ hide:
 ---
 
 ![India Forest Canopy Architecture & ISFR Forest Types](images/env_ch08_01_india_forest_canopy_classification.png)
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-## ⚡ Confused Pairs & Common Examiner Traps
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Forest Cover** | **Tree Cover** | All land patches with tree canopy density ≥10% and area ≥1 hectare irrespective of ownership or legal status (FSI remote sensing) vs scattered tree patches, linear trees along canals/roads, and isolated trees <1 hectare outside recorded forest area | वन आवरण (≥1 हे., ≥10% छतरी) / वृक्ष आवरण (<1 हेक्टेयर) |
-| **Reserved Forest (RF)** | **Protected Forest (PF)** | Highest degree of protection under Indian Forest Act 1927; all activities (grazing, timber felling) are strictly prohibited unless expressly permitted vs forest where all activities are permitted unless specifically prohibited by notification | आरक्षित वन (RF, पूर्णतः प्रतिबंधित) / संरक्षित वन (PF, सशर्त अनुमत) |
-| **Recorded Forest Area (RFA)** | **Forest Cover** | Land legally recorded or notified as forest in government records (RF + PF + Unclassed) regardless of actual tree presence vs physical presence of tree canopy detected by satellite imagery (even on private orchards/tea estates) | अभिलिखित वन क्षेत्र (कानूनी अभिलेख) / वन आवरण (भौतिक वृक्ष आच्छादन) |
-| **Forest Conservation Act (FCA 1980)** | **Forest Rights Act (FRA 2006)** | Central regulatory statute preventing de-reservation or diversion of forest land for non-forest purposes without prior central approval vs restorative rights law vesting individual and community forest rights in traditional forest-dwelling tribes and OTFDs | वन संरक्षण अधिनियम 1980 / वन अधिकार अधिनियम 2006 |
-| **Social Forestry** | **Agroforestry** | Growing trees on non-forest communal lands, roadside strips, and wastelands to meet rural fodder and fuel needs (National Commission on Agriculture 1976) vs deliberate integration of woody perennials (trees/shrubs) with agricultural crops and/or livestock on the same land unit | सामाजिक वानिकी / कृषि वानिकी |
-| **Joint Forest Management (JFM)** | **Community Forest Resource (CFR)** | Collaborative institutional partnership between state forest department and village committees to protect and regenerate degraded forests vs statutory community ownership and governance right recognized under Section 3(1)(i) of FRA 2006 | संयुक्त वन प्रबंधन (JFM) / सामुदायिक वन संसाधन अधिकार (CFR) |
-| **Tropical Wet Evergreen Forest** | **Tropical Moist Deciduous Forest** | Dense multi-layered forest with rainfall >200 cm, no distinct leafless season (Ebony, Mahogany, Rosewood) vs most widespread forest in India with rainfall 100–200 cm, shedding leaves for 6–8 weeks in dry spring (Teak, Sal, Shisham) | उष्णकटिबंधीय आर्द्र सदाबहार / उष्णकटिबंधीय नम पर्णपाती वन |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-As per **ISFR 2023**, which districts of Uttar Pradesh had forest cover on **more than 20%** of their total geographical area?
-
-1. Bahraich 
-2. Chandauli 
-3. Shravasti 
-
-A. 1 and 2 only 
-B. 3 only 
-C. 2 and 3 only 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ISFR district-level UP trap — only two districts cross the 20% forest-cover threshold.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">As per **ISFR 2023**, which districts of Uttar Pradesh had forest cover on **more than 20%** of their total geographical area?<br><br>1. Bahraich <br>2. Chandauli <br>3. Shravasti</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** ISFR district-level UP trap — only two districts cross the 20% forest-cover threshold.
 
 **Ans: C.** **Chandauli** and **Shravasti** exceed 20%; Bahraich is below that mark despite Terai forest presence.
 
-**Trap:** Bahraich is a Terai forest district but **does not** cross the 20% ISFR threshold — a frequent wrong pick.
+**Trap:** Bahraich is a Terai forest district but **does not** cross the 20% ISFR threshold — a frequent wrong pick.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-With reference to the **"Piral Lao – Paise Pao"** campaign, consider the following statements:
-
-1. It helps reduce forest fires and provides income to villagers by collecting pine needles. 
-2. It was launched by the Chief Minister of Uttarakhand. 
-
-A. 2 only 
-B. Neither 1 nor 2 
-C. 1 only 
-D. Both 1 and 2 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests Uttarakhand chir-pine fire-fuel management campaign — purpose and launch authority.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to the **"Piral Lao – Paise Pao"** campaign, consider the following statements:<br><br>1. It helps reduce forest fires and provides income to villagers by collecting pine needles. <br>2. It was launched by the Chief Minister of Uttarakhand.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">D</span> Both 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tests Uttarakhand chir-pine fire-fuel management campaign — purpose and launch authority.
 
 **Ans: D.** Villagers collect pine needles (**piral**) for cash while reducing summer fuel load; the campaign was launched under the **Uttarakhand CM**.
 
-**Trap:** This is a **Uttarakhand** scheme — not a default Uttar Pradesh flagship programme.
+**Trap:** This is a **Uttarakhand** scheme — not a default Uttar Pradesh flagship programme.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-**Joint Forest Management (JFM)** in India was launched through a MoEF resolution in—
-
-A. 1982 
-B. 1986 
-C. 1990 
-D. 1992 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Year fact for community–State co-management of degraded forest — distinct from FRA 2006.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">**Joint Forest Management (JFM)** in India was launched through a MoEF resolution in—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1982</div><div class="pyq-opt"><span class="opt-letter">B</span> 1986</div><div class="pyq-opt"><span class="opt-letter">C</span> 1990</div><div class="pyq-opt"><span class="opt-letter">D</span> 1992</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Year fact for community–State co-management of degraded forest — distinct from FRA 2006.
 
 **Ans: C.** JFM began with a **June 1990** MoEF resolution creating Van Samrakshan Samitis / Forest Protection Committees.
 
-**Trap:** **1992** is Project Elephant — JFM is **1990**, eight years earlier.
+**Trap:** **1992** is Project Elephant — JFM is **1990**, eight years earlier.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-According to the **India State of Forest Report, 2017**, what percentage of India's total geographical area was under forest cover?
-
-A. 20.34% 
-B. 22.34% 
-C. 21.54% 
-D. 23.54% 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** National ISFR 2017 headline forest-cover percentage from FSI Dehradun.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">According to the **India State of Forest Report, 2017**, what percentage of India's total geographical area was under forest cover?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 20.34%</div><div class="pyq-opt"><span class="opt-letter">B</span> 22.34%</div><div class="pyq-opt"><span class="opt-letter">C</span> 21.54%</div><div class="pyq-opt"><span class="opt-letter">D</span> 23.54%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** National ISFR 2017 headline forest-cover percentage from FSI Dehradun.
 
 **Ans: C.** ISFR 2017 reported forest cover at about **21.54%** of India's geographical area.
 
-**Trap:** Do not confuse with the **33% national policy target** — that is aspirational, not the 2017 measured cover.
+**Trap:** Do not confuse with the **33% national policy target** — that is aspirational, not the 2017 measured cover.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Consider the following statements about **Uttar Pradesh**:
-
-1. Forests constitute about **12.8%** of the total geographical area of the State. 
-2. The districts of **Jaunpur, Ghazipur and Ballia** have no forest land. 
-
-A. 1 only 
-B. Both 1 and 2 
-C. 2 only 
-D. Neither 1 nor 2 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ISFR 2023 UP figure trap — outdated high percentage vs eastern UP zero-forest districts.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about **Uttar Pradesh**:<br><br>1. Forests constitute about **12.8%** of the total geographical area of the State. <br>2. The districts of **Jaunpur, Ghazipur and Ballia** have no forest land.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** ISFR 2023 UP figure trap — outdated high percentage vs eastern UP zero-forest districts.
 
 **Ans: C.** ISFR 2023 gives UP forest cover about **6.24%**, not 12.8%; Jaunpur–Ghazipur–Ballia indeed have negligible forest land.
 
-**Trap:** Statement 1 uses an **outdated/higher** figure — do not accept both statements as true.
+**Trap:** Statement 1 uses an **outdated/higher** figure — do not accept both statements as true.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-As per **India State of Forest Report–2021**, which State registered the **maximum increase in forest cover** during the last two years?
-
-A. Kerala 
-B. Assam 
-C. Arunachal Pradesh 
-D. Andhra Pradesh 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ISFR 2021 state-wise absolute gain ranking — distinct from highest percentage cover (Mizoram) or largest area (MP).
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">As per **India State of Forest Report–2021**, which State registered the **maximum increase in forest cover** during the last two years?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">B</span> Assam</div><div class="pyq-opt"><span class="opt-letter">C</span> Arunachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">D</span> Andhra Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** ISFR 2021 state-wise absolute gain ranking — distinct from highest percentage cover (Mizoram) or largest area (MP).
 
 **Ans: D.** **Andhra Pradesh** led absolute forest-cover gains (~647 km²), followed by Telangana and Odisha in ISFR 2021.
 
-**Trap:** Mizoram leads **percentage** cover; Madhya Pradesh leads **total area** — neither is the ISFR 2021 **maximum increase** answer.
+**Trap:** Mizoram leads **percentage** cover; Madhya Pradesh leads **total area** — neither is the ISFR 2021 **maximum increase** answer.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-Under the **Forest Rights Act, 2006**, the maximum area recognised under an **Individual Forest Right (IFR)** for cultivation/habitation is—
-
-A. 2 hectares 
-B. 4 hectares 
-C. 10 hectares 
-D. No statutory cap 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** FRA IFR ceiling per household — a standard coaching fact distinct from JFM benefit-sharing.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Under the **Forest Rights Act, 2006**, the maximum area recognised under an **Individual Forest Right (IFR)** for cultivation/habitation is—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 hectares</div><div class="pyq-opt"><span class="opt-letter">B</span> 4 hectares</div><div class="pyq-opt"><span class="opt-letter">C</span> 10 hectares</div><div class="pyq-opt"><span class="opt-letter">D</span> No statutory cap</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** FRA IFR ceiling per household — a standard coaching fact distinct from JFM benefit-sharing.
 
 **Ans: B.** IFR is capped at **4 hectares** per eligible household under FRA 2006.
 
-**Trap:** **10 hectares** is a common wrong guess — the statutory cap is **4 ha**.
+**Trap:** **10 hectares** is a common wrong guess — the statutory cap is **4 ha**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-The **Forest (Conservation) Act, 1980** was enacted primarily to—
-
-A. Grant permanent land titles to forest dwellers 
-B. Regulate diversion of forest land for non-forest use with prior central approval 
-C. Establish Joint Forest Management committees nationwide 
-D. Fix a 33% national forest-cover target by 1988 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Distinguishes FCA (diversion control) from FRA (rights), JFM (co-management), and NFP targets.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The **Forest (Conservation) Act, 1980** was enacted primarily to—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Grant permanent land titles to forest dwellers</div><div class="pyq-opt"><span class="opt-letter">B</span> Regulate diversion of forest land for non-forest use with prior central approval</div><div class="pyq-opt"><span class="opt-letter">C</span> Establish Joint Forest Management committees nationwide</div><div class="pyq-opt"><span class="opt-letter">D</span> Fix a 33% national forest-cover target by 1988</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Distinguishes FCA (diversion control) from FRA (rights), JFM (co-management), and NFP targets.
 
 **Ans: B.** FCA 1980 requires **prior approval** from the Centre/State for using forest land for non-forest purposes — the core anti-deforestation check.
 
-**Trap:** Forest dweller rights belong to **FRA 2006**, not FCA 1980.
+**Trap:** Forest dweller rights belong to **FRA 2006**, not FCA 1980.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-Which of the following is **NOT** correctly matched?
-
-A. ICRAF — Nairobi 
-B. IIFM — Bhopal 
-C. CAFRI — Banda 
-D. TERI — New Delhi 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Institution–headquarters matching for forestry/agroforestry research bodies.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which of the following is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> ICRAF — Nairobi</div><div class="pyq-opt"><span class="opt-letter">B</span> IIFM — Bhopal</div><div class="pyq-opt"><span class="opt-letter">C</span> CAFRI — Banda</div><div class="pyq-opt"><span class="opt-letter">D</span> TERI — New Delhi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Institution–headquarters matching for forestry/agroforestry research bodies.
 
 **Ans: C.** **Central Agroforestry Research Institute (CAFRI)** is at **Jhansi, Uttar Pradesh**, not Banda.
 
-**Trap:** CAFRI sounds like it could be in Bundelkhand's Banda — the correct UP city is **Jhansi**.
+**Trap:** CAFRI sounds like it could be in Bundelkhand's Banda — the correct UP city is **Jhansi**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.**
-
-In which of the following are provisions for the **protection and improvement of the environment** and **safeguarding of forests and wildlife** found in the Constitution of India?
-
-A. Only in the Directive Principles of State Policy 
-B. Only in the Fundamental Duties 
-C. Both (a) and (b) 
-D. None of the above 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Constitutional environment mandate spans DPSP **Article 48A** and Fundamental Duty **Article 51A(g)**.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">In which of the following are provisions for the **protection and improvement of the environment** and **safeguarding of forests and wildlife** found in the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only in the Directive Principles of State Policy</div><div class="pyq-opt"><span class="opt-letter">B</span> Only in the Fundamental Duties</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (a) and (b)</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Constitutional environment mandate spans DPSP **Article 48A** and Fundamental Duty **Article 51A(g)**.
 
 **Ans: C.** **Art 48A** (DPSP) directs the State to protect environment, forests, and wildlife; **Art 51A(g)** makes it every citizen's duty.
 
-**Trap:** Neither provision sits alone — both pillars carry forest/environment language.
+**Trap:** Neither provision sits alone — both pillars carry forest/environment language.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Tropical evergreen forests in India are typically found in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Malwa Plateau</div><div class="pyq-opt"><span class="opt-letter">B</span> Chhotanagpur Plateau</div><div class="pyq-opt"><span class="opt-letter">C</span> Western Ghats</div><div class="pyq-opt"><span class="opt-letter">D</span> Only Himachal Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** These stems recycle evergreen/teak/mangrove/NFP/ISFR traps from standard banks.
 
-**Q11.** Tropical evergreen forests in India are typically found in:
+**Ans: C.** Evergreen belts need >**200 cm** rain — Western Ghats, NE hills, A&N. Himachal is mainly pine/temperate, not tropical wet evergreen.</div>
+  </div>
+</div>
 
-A. Malwa Plateau
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Teak is the dominant tree species of which forest type?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tropical rainforest</div><div class="pyq-opt"><span class="opt-letter">B</span> Tropical moist deciduous forest</div><div class="pyq-opt"><span class="opt-letter">C</span> Tropical thorn scrub</div><div class="pyq-opt"><span class="opt-letter">D</span> Temperate grassland forest</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Teak dominates tropical moist deciduous (100–200 cm). **Madhya Pradesh** leads teak area among common options.</div>
+  </div>
+</div>
 
-B. Chhotanagpur Plateau
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Red Sanders, which is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It is a tropical rainforest tree of South India</div><div class="pyq-opt"><span class="opt-letter">B</span> It is endemic to dry deciduous South India / southern Eastern Ghats</div><div class="pyq-opt"><span class="opt-letter">C</span> It is a Himalayan conifer</div><div class="pyq-opt"><span class="opt-letter">D</span> It is found only in Sundarbans</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pterocarpus santalinus* — Palkonda–Seshachalam / southern Eastern Ghats dry deciduous. Statement pairing it with tropical rainforest is false.</div>
+  </div>
+</div>
 
-C. Western Ghats
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Mangroves function as a safety hedge against coastal calamities mainly because:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> People never live near mangrove coasts</div><div class="pyq-opt"><span class="opt-letter">B</span> Trees provide post-disaster food and medicine only</div><div class="pyq-opt"><span class="opt-letter">C</span> Dense canopies alone stop every cyclone</div><div class="pyq-opt"><span class="opt-letter">D</span> Extensive roots keep trees from being uprooted by storms and tides</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Classic root-system explanation. Odisha is most cyclone-prone; Mahanadi mangrove loss raises risk.</div>
+  </div>
+</div>
 
-D. Only Himachal Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** These stems recycle evergreen/teak/mangrove/NFP/ISFR traps from standard banks.
-
-**Ans: C.** Evergreen belts need >**200 cm** rain — Western Ghats, NE hills, A&N. Himachal is mainly pine/temperate, not tropical wet evergreen.
-
-</details>
-
-**Q12.** Teak is the dominant tree species of which forest type?
-
-A. Tropical rainforest
-
-B. Tropical moist deciduous forest
-
-C. Tropical thorn scrub
-
-D. Temperate grassland forest
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Teak dominates tropical moist deciduous (100–200 cm). **Madhya Pradesh** leads teak area among common options.
-
-</details>
-
-**Q13.** With reference to Red Sanders, which is correct?
-
-A. It is a tropical rainforest tree of South India
-
-B. It is endemic to dry deciduous South India / southern Eastern Ghats
-
-C. It is a Himalayan conifer
-
-D. It is found only in Sundarbans
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** *Pterocarpus santalinus* — Palkonda–Seshachalam / southern Eastern Ghats dry deciduous. Statement pairing it with tropical rainforest is false.
-
-</details>
-
-**Q14.** Mangroves function as a safety hedge against coastal calamities mainly because:
-
-A. People never live near mangrove coasts
-
-B. Trees provide post-disaster food and medicine only
-
-C. Dense canopies alone stop every cyclone
-
-D. Extensive roots keep trees from being uprooted by storms and tides
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Classic root-system explanation. Odisha is most cyclone-prone; Mahanadi mangrove loss raises risk.
-
-</details>
-
-**Q15.** Which region has mangrove + evergreen + deciduous forests together?
-
-A. Southern Saurashtra
-
-B. North Coastal Andhra Pradesh
-
-C. Andaman and Nicobar Islands
-
-D. Himalayan Terai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A&N mangrove cover ~**616–617 km²** (ISFR 2021-style). Coringa = Godavari (AP); Bhitarkanika = Brahmani–Baitarni (Odisha).
-
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which region has mangrove + evergreen + deciduous forests together?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Southern Saurashtra</div><div class="pyq-opt"><span class="opt-letter">B</span> North Coastal Andhra Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Andaman and Nicobar Islands</div><div class="pyq-opt"><span class="opt-letter">D</span> Himalayan Terai</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A&N mangrove cover ~**616–617 km²** (ISFR 2021-style). Coringa = Godavari (AP); Bhitarkanika = Brahmani–Baitarni (Odisha).</div>
+  </div>
+</div>

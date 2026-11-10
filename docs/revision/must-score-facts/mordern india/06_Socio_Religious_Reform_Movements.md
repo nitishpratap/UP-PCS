@@ -192,6 +192,26 @@ hide:
     - *Kudi Arasu* → **Periyar E.V. Ramasamy**
     - *Mooknayak* → **Dr. B.R. Ambedkar**.
 50. **Core Philosophical Convergence:** Despite theological differences (reason vs Vedic infallibility vs rationalism), all 19th-century socio-religious reform movements shared three universal goals:
+51. **Raja Ram Mohan Roy's Landmark Works:** Authored *Tuhfat-ul-Muwahhidin* ('A Gift to Monotheists', 1803 in Persian with Arabic preface); *Precepts of Jesus: The Guide to Peace and Happiness* (1820); translated Kena, Katha, Mundaka, and Mandukya Upanishads into Bengali (1815–19).
+52. **Ram Mohan Roy's Press & Public Initiatives:** Founded Bengali weekly **Sambad Kaumudi (1821)** (advocated abolition of Sati); founded Persian weekly **Mirat-ul-Akhbar (1822)**; co-founded **Hindu College, Calcutta (1817)** with David Hare and Sir Edward Hyde East; founded **Anglo-Hindu School (1822)** and **Vedanta College (1825)**.
+53. **Ram Mohan Roy's Title & Passing:** Mughal Emperor **Akbar II** bestowed upon him the title of **'Raja'** in 1830 and sent him as his envoy to the court of King William IV in England to demand increased pension; passed away at **Stapleton Grove near Bristol** on 27 September 1833, where his tomb stands.
+54. **Young Bengal Movement & Henry Louis Vivian Derozio:** Derozio was teacher at Hindu College (1826–31); inspired students to think freely, question authority, and cherish liberty and equality; hailed by Surendranath Banerjee as *'the pioneer of modern civilization in Bengal'*; died of cholera at age 22.
+55. **Debendranath Tagore & Tattvabodhini Sabha:** Established **Tattvabodhini Sabha (1839)** at Calcutta to promote study of India's past and Upanishadic monotheism; ran monthly journal **Tattvabodhini Patrika** (edited by Akshay Kumar Dutt); joined Brahmo Samaj in 1842.
+56. **Keshab Chandra Sen & Brahmo Schisms:** Joined Brahmo Samaj in 1857; expelled by Debendranath in 1865 due to radical universalist views, leading to first schism: Debendranath headed **Adi Brahmo Samaj** while Keshab founded **Brahmo Samaj of India (1866)**; second schism in 1878 occurred when Keshab married his 13-year-old daughter to the Maharaja of Cooch Behar violating his own Native Marriage Act 1872, leading Anand Mohan Bose and Shibnath Shastri to form **Sadharan Brahmo Samaj**.
+57. **Prarthana Samaj (1867, Bombay):** Founded by **Dr. Atmaram Pandurang** with guidance of Keshab Chandra Sen; prominent leaders included **Justice Mahadev Govind Ranade** and **R.G. Bhandarkar**; focused on social reform: widow remarriage, women's education, inter-caste dining, and uplift of depressed classes.
+58. **M.G. Ranade's Broad Contributions:** Co-founded **Poona Sarvajanik Sabha (1870)**; founded **Indian National Social Conference (1887)** ('social reform wing of INC', started 'Pledge Movement' against child marriage); founded Widow Remarriage Association (1861).
+59. **Ishwar Chandra Vidyasagar's Crusade:** Principal of Sanskrit College, Calcutta (1851); opened college to non-Brahmin students; led relentless campaign for widow remarriage citing Parashara Samhita; submitted petition to government culminating in **Hindu Widows' Remarriage Act (Act XV of 1856)** passed on 26 July 1856 under Lord Canning; established first model schools for girls as secretary of Bethune School (1849).
+60. **Dayanand Saraswati's Life & Teachings:** Born Mula Shankar (1824) in Tankara (Gujarat); studied under blind guru **Swami Virjanand** at Mathura; gave clarion calls: **'Go Back to the Vedas'** and **'India for the Indians'**; proclaimed Vedas alone are infallible; founded **Arya Samaj on 10 April 1875 at Bombay** (shifted headquarters to **Lahore in 1877**).
+61. **Dayanand's Magnum Opus & Reforms:** Authored **Satyarth Prakash (1875)** in Hindi; founded **Gaurakshini Sabhas (1882)**; initiated **Shuddhi Movement** for reconverting non-Hindus; condemned caste by birth, idol worship, untouchability, child marriage, and animal sacrifice; first to use the word **'Swaraj'** and promote Hindi as national language.
+62. **Arya Samaj Educational Split (1893):** Split over curriculum (Western vs Sanskrit) and dietary habits (vegetarianism); **Lala Lajpat Rai and Lala Hansraj** founded the moderate **DAV (Dayanand Anglo-Vedic) College at Lahore (1886)**; orthodox section led by **Swami Shraddhanand (Mahatma Munshi Ram)** founded **Gurukul Kangri at Haridwar (1902)**.
+63. **Swami Vivekananda & Ramakrishna Mission:** Born Narendranath Datta (1863); disciple of Ramakrishna Paramahamsa; electrifying speech at the **World Parliament of Religions, Chicago (11 September 1893)** ('Sisters and brothers of America'); founded **Ramakrishna Mission on 1 May 1897** at Belur near Calcutta; doctrine of *Daridra Narayana* (service to poor is worship of God).
+64. **Theosophical Society (1875):** Founded in **New York** by Russian noblewoman **Madame H.P. Blavatsky** and American Colonel **H.S. Olcott**; headquarters shifted to **Adyar (near Madras) in 1886**; **Annie Besant** arrived in India in 1893, became Society's President in 1907; founded **Central Hindu College, Benaras (1898)** (developed into Banaras Hindu University by Madan Mohan Malaviya in 1916).
+65. **Jyotirao Phule & Satyashodhak Samaj:** Born into Mali (gardener) caste in Pune (1827); founded **Satyashodhak Samaj (Truth Seekers' Society) on 24 September 1873**; championed rights of Shudras and Ati-Shudras; authored **Gulamgiri (1873)** (dedicated to American abolitionists fighting slavery) and *Shetkaryacha Asud* ('The Cultivator's Whipcord'); opened first school for girls at Bhidewada, Pune (1848) with wife **Savitribai Phule**.
+66. **Sir Syed Ahmad Khan & Aligarh Movement:** Founded Scientific Society at Ghazipur (1864, translated English scientific books into Urdu); founded **Muhammadan Anglo-Oriental (MAO) College at Aligarh (1875)** (elevated to Aligarh Muslim University in 1920); published Urdu journal **Tahzib-ul-Akhlaq** ('Social Reformer'); advocated modern western scientific education for Muslims; opposed INC as representative solely of Hindu interests.
+67. **Pandita Ramabai:** Pioneering woman reformer; testified before Hunter Education Commission (1882); founded **Arya Mahila Samaj (1882)** in Pune; established **Sharada Sadan (1889)** in Bombay for destitute Hindu widows; established Mukti Mission (1898) at Kedgaon; authored *The High-Caste Hindu Woman* (1887).
+68. **E.V. Ramasamy Naicker (Periyar) & Self-Respect Movement:** Founded **Self-Respect Movement (1925)** in Tamil Nadu; advocated anti-Brahminism, rationalism, women's liberation, and self-respect marriages without Brahmin priests; published Tamil journal **Kudi Arasu**; founded Dravidar Kazhagam (DK) in 1944.
+69. **SNDP Movement (Kerala):** Founded in 1903 by **Sri Narayana Guru** among the oppressed Ezhava community; gave immortal slogan: **'One Caste, One Religion, One God for All Men'** (*Oru Jathi, Oru Matham, Oru Daivam Manushyanu*); consecrated Shiva linga at Aruvippuram (1888) defying Brahmin monopoly.
+70. **Child Marriage Legislation Milestones:** **Age of Consent Act (1891)** (fathered by Behramji Malabari, raised consent age from 10 to 12 years; opposed by Bal Gangadhar Tilak); **Child Marriage Restraint Act / Sharda Act (1929)** (sponsored by Harbilas Sarda, fixed minimum marriage age at **14 for girls** and **18 for boys**).
     1. **Eradication of caste oppression and untouchability.**
     2. **Liberation, education, and legal protection of women.**
     3. **Application of humanistic rationality to religious dogmas.**
@@ -328,22 +348,6 @@ hide:
 | **1891** | Age of Consent Act (Act X) | Lord Lansdowne | Behramji Merwanji Malabari | Raised age of consent for girls from 10 to 12; opposed by Tilak |
 | **1929** | Child Marriage Restraint Act (Sharda Act) | Lord Irwin | Rai Sahib Harbilas Sharda | Fixed minimum age of marriage: 14 for girls, 18 for boys |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Brahmo Samaj (1828)** | **Arya Samaj (1875)** | Reasoned monotheism based on Upanishads (Bengal) vs "Back to the Vedas" and Shuddhi (Bombay/Punjab) | ब्रह्म समाज / आर्य समाज |
-| **Aligarh Movement (1875)** | **Deoband Movement (1866)** | Modern English-medium college & pro-British vs Traditional madrasa revival & anti-British Congress ally | अलीगढ़ / देवबंद |
-| **Jyotiba Phule (1873)** | **Raja Ram Mohan Roy (1828)**| Non-Brahmin anti-caste grassroots movement in Maharashtra vs Elite intellectual monotheistic reform in Bengal | ज्योतिबा फुले / राम मोहन राय |
-| **Behramji Malabari** | **Bal Gangadhar Tilak** | Championed Age of Consent Act 1891 vs Opposed British legislative interference in Hindu domestic customs | मालाबारी / तिलक |
-| **Ishwar Chandra Vidyasagar** | **Dhondo Keshav Karve** | Bengal widow remarriage pioneer (Act 1856) vs Western India widow homes and women's university (SNDT 1916) | विद्यासागर / कर्वे |
-| **Ramakrishna Paramahansa** | **Swami Vivekananda** | Mystical saint of Dakshineswar (teacher) vs World-traveling founder of Ramakrishna Mission (disciple) | रामकृष्ण / विवेकानंद |
-| **Prarthana Samaj (1867)** | **Satyashodhak Samaj (1873)**| Liberal upper-caste reform (Ranade, Bombay) vs Radical anti-Brahmin backward-caste revolt (Phule, Pune) | प्रार्थना समाज / सत्यशोधक समाज |
-| **SNDP Yogam (1903)** | **Self-Respect Movement (1925)**| Spiritual Ezhava uplift ("One God") in Kerala vs Atheistic anti-Brahmin rationalism (Periyar) in Tamil Nadu | एसएनडीपी / आत्म-सम्मान आंदोलन |
-| **Paramahansa Mandali (1849)**| **Radhasoami Satsang (1861)**| Secret Bombay society against caste vs Agra devotional sect founded by Shiv Dayal Saheb | परमहंस मंडली / राधास्वामी सत्संग |
-| **Swami Shraddhanand** | **Lala Hansraj** | Gurukul Kangri founder (orthodox Vedic/vegetarian) vs DAV College founder (progressive English-medium) | श्रद्धानंद / हंसराज |
-| **Dharma Sabha (1830)** | **Brahmo Samaj (1828)** | Radhakant Deb's orthodox association defending Sati vs Roy's reformist association abolishing Sati | धर्म सभा / ब्रह्म समाज |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Chronological Founding Sequence of Major Samajes:**
@@ -375,359 +379,307 @@ hide:
    - **N**arayana Guru = **N**ear God ("One God, One Religion")
    - **P**eriyar = **P**ure Atheism & Anti-Priest ("No God, No Brahmin").
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to the Age of Consent Act, 1891 consider the following statements:
-
-> [!TIP] **Exam Anchor (UPPCS 2024 Q17):** **Age of Consent Act (1891)** was enacted due to relentless advocacy by Parsi reformer **Behramji M. Malabari**. It was **opposed** by Bal Gangadhar Tilak and orthodox Hindus as colonial encroachment.
-
-### UPPCS Prelims 2023
-
-**Q2. UPPCS Prelims 2023, Q44**
-
-With reference to **E. V. Ramaswami Naicker**, which of the following statement(s) is/are correct?
-
-1. He participated in the Non-Cooperation Movement.
-2. He left the Indian National Congress in 1925.
-
-Options:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both 1 and 2**
-
-</details>
-
-**Q2.**
-
-Jyotiba Phule was associated with—
-
-Options:
-A. Civil Disobedience Movement
-B. Trade Union Movement
-C. Anti-caste Movement
-D. Peasant Movement
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Anti-caste Movement**
-
-</details>
-
-**Q3.**
-
-Which one of the following is correctly matched?
-
-Options:
-A. Radhaswami Satsang — Lahore
-B. Bharat Dharma Mahamandal — Delhi
-C. Sanatan Dharma Rakshini Sabha — Calcutta
-D. Deva Samaj — Banaras
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Radhasoami = Agra; Bharat Dharma Mahamandal = Varanasi; Deva Samaj = Lahore.
-
-</details>
-
-**Q4.**
-
-Who was the founder of **'Satyashodhak Samaj'**, having its primary emphasis on the seeking of truth?
-
-Options:
-A. Tarabai Shinde
-B. M. G. Ranade
-C. Jyotiba Phule
-D. Raja Ram Mohan Roy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Jyotiba Phule**
-
-</details>
-
-**Q5.**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Person)**
-A. D. K. Karve
-B. J. E. D. Bethune
-C. Ishwar Chandra Vidyasagar
-D. B. M. Malabari
-
-**List-II > [!TIP] **Exam Anchor (UPPCS 2022 Q90):** Key Reformer Matches: **D.K. Karve** ↔ Secretary, Widow Remarriage Association; **J.E.D. Bethune** ↔ Girls School in Calcutta (Bethune College 1849); **Ishwar Chandra Vidyasagar** ↔ Principal, Sanskrit College Calcutta; **B.M. Malabari** ↔ Campaign against child marriage.
-
-### UPPCS Prelims 2019
-
-**Q7. UPPCS Prelims 2019, Q17**
-
-In which year was the 'Native Marriage Act' passed?
-
-A. 1870
-
-B. 1872
-
-C. 1874
-
-D. 1876
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1872**
-
-</details>
-
-**Q6.** With reference to Raja Ram Mohan Roy, which of the following statements is/are correct?
-
-1. He founded Atmiya Sabha (1815) and Brahmo Sabha / Brahmo Samaj (1828).
-2. He campaigned against Sati; Bentinck banned Sati in 1856 under the Widow Remarriage Act.
-3. He founded Arya Samaj on the slogan “Back to the Vedas.”
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 1
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: Sati ban is Regulation XVII of 1829 under Bentinck; 1856 is Widow Remarriage (Dalhousie/Canning era). Stmt 3 remains false: Arya Samaj = Dayanand 1875.
-
-</details>
-
-**Q7.** With reference to Brahmo Samaj and Arya Samaj, which of the following statements is/are correct?
-
-1. Brahmo Samaj stressed Vedic infallibility and ‘Back to the Vedas’ as its core slogan.
-2. Arya Samaj was founded by Dayanand Saraswati at Bombay in 1875.
-3. Arya Samaj and Brahmo Samaj are two names for the same Calcutta body.
-
-A. 1 and 2
-
-B. Only 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Stmt 1 false: ‘Back to the Vedas’ is Arya Samaj (Dayanand); Brahmo stressed reasoned monotheism and anti-idolatry. Stmt 3 remains false: Brahmo ≠ Arya.
-
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-
-**Assertion (A):** Aligarh and Deoband shared the same educational orientation for Muslims.
-
-**Reason (R):** Sir Syed’s Aligarh (1875) pushed modern Western-style education while Deoband (1866) was traditional madrasa revival.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Aligarh ↔ Deoband is an orientation twin.
-
-</details>
-
-**Q9.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (Person) | List-II (Institution / year) |
-|-----------------|------------------------------|
-| A. Jyotiba Phule | 1. Prarthana Samaj, 1867 |
-| B. Atmaram Pandurang | 2. Satyashodhak Samaj, 1873 |
-| C. Vivekananda | 3. Ramakrishna Mission, 1897 |
-| D. Dayanand | 4. Arya Samaj, 1875 |
-
-*Row order is not the answer code.*
-
-
-A. A-2, B-1, C-3, D-4
-
-B. A-1, B-2, C-3, D-4
-
-C. A-2, B-1, C-4, D-3
-
-D. A-2, B-3, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Phule–Satyashodhak; Pandurang–Prarthana; Vivekananda–Mission; Dayanand–Arya.
-
-**Logic:** Founder↔institution grid.
-
-</details>
-
-**Q10.** Which of the following pairs is NOT correctly matched?
-
-
-A. Behramji Malabari — pushed Age of Consent Act, 1891
-
-B. Bal Gangadhar Tilak — opposed British interference in Hindu marriage on that issue
-
-C. Vidyasagar — Widow Remarriage Act, 1856 campaign
-
-D. D.K. Karve — founded Arya Samaj at Bombay in 1875
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Karve = widows’ education / SNDT stream; Arya Samaj = Dayanand.
-
-**Logic:** Western-India reformer swap.
-
-</details>
-
-**Q11.** Arrange the following in chronological order:
-
-1. Age of Consent Act
-2. Sati ban under Bentinck
-3. Widow Remarriage Act
-4. Native / Brahmo Marriage Act
-
-
-A. 2, 3, 4, 1
-
-B. 2, 4, 3, 1
-
-C. 3, 2, 4, 1
-
-D. 2, 3, 1, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1829 Sati → 1856 Widow Remarriage → 1872 Marriage Act → 1891 Age of Consent.
-
-**Logic:** Law ladder from Must-Score.
-
-</details>
-
-**Q12.** With reference to Prarthana Samaj and Paramahansa Mandali, which of the following statements is/are correct?
-
-1. Paramahansa Mandali (1849, Dadoba Pandurang) was a secret precursor against caste and idolatry.
-2. Prarthana Samaj rose in Bombay in 1867 under Jyotirao Phule.
-3. Prarthana Samaj is identical with Phule’s Satyashodhak Samaj.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: Prarthana = Atmaram Pandurang / Ranade; Phule founded Satyashodhak Samaj. Stmt 3 remains false: Prarthana ≠ Satyashodhak.
-
-</details>
-
-**Q13.** With reference to the Theosophical Society, which of the following statements is/are correct?
-
-1. Annie Besant founded the Society at Calcutta in 1828.
-2. It was founded by Blavatsky and Olcott in 1875 at Adyar (Madras).
-3. Indian HQ shifted to Adyar in 1882.
-
-A. Only 3
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: Founded at New York in 1875; Indian HQ shifted to Adyar in 1882. Stmt 1 remains false: Besant was not the 1828 Calcutta founder.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-
-**Assertion (A):** Ramakrishna Paramahansa founded the Ramakrishna Mission in 1897.
-
-**Reason (R):** Vivekananda founded the Mission in 1897 after his Chicago address of 1893.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Saint ≠ Mission founder — standing twin.
-
-</details>
-
-**Q15.** With reference to SNDP and Self-Respect, which of the following statements is/are correct?
-
-1. Sri Narayana Guru’s SNDP Yogam (1903) worked for Ezhava uplift in Kerala.
-2. Periyar launched the Self-Respect Movement in 1925 in the Tamil country.
-3. Self-Respect Movement is only another name for SNDP Yogam.
-
-A. Only 1 and 2
-
-B. Only 3
-
-C. Only 1 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1 and 2 only are correct.
-
-**Logic:** Kerala one-caste–one-god ≠ Tamil anti-Brahmin rationalism.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the Age of Consent Act, 1891 consider the following statements:<br><br>> [!TIP] **Exam Anchor (UPPCS 2024 Q17):**</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> ge of Consent Act (1891)** was enacted due to relentless advocacy by Parsi reformer **Behramji M. Malabari**. It was **opposed** by Bal Gangadhar Tilak and orthodox Hindus as colonial encroachment.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to **E. V. Ramaswami Naicker**, which of the following statement(s) is/are correct?<br><br>1. He participated in the Non-Cooperation Movement.<br>2. He left the Indian National Congress in 1925.<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Jyotiba Phule was associated with—<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Civil Disobedience Movement</div><div class="pyq-opt"><span class="opt-letter">B</span> Trade Union Movement</div><div class="pyq-opt"><span class="opt-letter">C</span> Anti-caste Movement</div><div class="pyq-opt"><span class="opt-letter">D</span> Peasant Movement</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Anti-caste Movement</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly matched?<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Radhaswami Satsang — Lahore</div><div class="pyq-opt"><span class="opt-letter">B</span> Bharat Dharma Mahamandal — Delhi</div><div class="pyq-opt"><span class="opt-letter">C</span> Sanatan Dharma Rakshini Sabha — Calcutta</div><div class="pyq-opt"><span class="opt-letter">D</span> Deva Samaj — Banaras</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Radhasoami = Agra; Bharat Dharma Mahamandal = Varanasi; Deva Samaj = Lahore.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who was the founder of **'Satyashodhak Samaj'**, having its primary emphasis on the seeking of truth?<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tarabai Shinde</div><div class="pyq-opt"><span class="opt-letter">B</span> M. G. Ranade</div><div class="pyq-opt"><span class="opt-letter">C</span> Jyotiba Phule</div><div class="pyq-opt"><span class="opt-letter">D</span> Raja Ram Mohan Roy</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Jyotiba Phule</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Social Reformer)</th>
+        <th>List-II (Institution / Cause)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> D.K. Karve</td><td><span class="match-key">1</span> Secretary, Bethune Female School</td></tr>
+    <tr><td><span class="match-key">B</span> J.E.D. Bethune</td><td><span class="match-key">2</span> Child marriage / Age of Consent Bill</td></tr>
+    <tr><td><span class="match-key">C</span> Ishwar Chandra Vidyasagar</td><td><span class="match-key">3</span> Principal, Sanskrit College / Widow Remarriage</td></tr>
+    <tr><td><span class="match-key">D</span> B.M. Malabari</td><td><span class="match-key">4</span> Widows' Home Association / SNDT University</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-4, B-1, C-3, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-4, C-2, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-3, B-1, C-4, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-3, C-1, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> D. K. Karve</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">In which year was the 'Native Marriage Act' passed?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1870</div><div class="pyq-opt"><span class="opt-letter">B</span> 1872</div><div class="pyq-opt"><span class="opt-letter">C</span> 1874</div><div class="pyq-opt"><span class="opt-letter">D</span> 1876</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1872</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Raja Ram Mohan Roy, which of the following statements is/are correct?<br><br>1. He founded Atmiya Sabha (1815) and Brahmo Sabha / Brahmo Samaj (1828).<br>2. He campaigned against Sati; Bentinck banned Sati in 1856 under the Widow Remarriage Act.<br>3. He founded Arya Samaj on the slogan “Back to the Vedas.”</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: Sati ban is Regulation XVII of 1829 under Bentinck; 1856 is Widow Remarriage (Dalhousie/Canning era). Stmt 3 remains false: Arya Samaj = Dayanand 1875.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Brahmo Samaj and Arya Samaj, which of the following statements is/are correct?<br><br>1. Brahmo Samaj stressed Vedic infallibility and ‘Back to the Vedas’ as its core slogan.<br>2. Arya Samaj was founded by Dayanand Saraswati at Bombay in 1875.<br>3. Arya Samaj and Brahmo Samaj are two names for the same Calcutta body.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 1 false: ‘Back to the Vedas’ is Arya Samaj (Dayanand); Brahmo stressed reasoned monotheism and anti-idolatry. Stmt 3 remains false: Brahmo ≠ Arya.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br><br>**Assertion (A):** Aligarh and Deoband shared the same educational orientation for Muslims.<br><br>**Reason (R):** Sir Syed’s Aligarh (1875) pushed modern Western-style education while Deoband (1866) was traditional madrasa revival.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Aligarh ↔ Deoband is an orientation twin.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Person)</th><th>List-II (Institution / year)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Jyotiba Phule</td><td><span class="match-key">1</span> Prarthana Samaj, 1867</td></tr>
+      <tr><td><span class="match-key">B</span> Atmaram Pandurang</td><td><span class="match-key">2</span> Satyashodhak Samaj, 1873</td></tr>
+      <tr><td><span class="match-key">C</span> Vivekananda</td><td><span class="match-key">3</span> Ramakrishna Mission, 1897</td></tr>
+      <tr><td><span class="match-key">D</span> Dayanand</td><td><span class="match-key">4</span> Arya Samaj, 1875</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-3, C-1, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Phule–Satyashodhak; Pandurang–Prarthana; Vivekananda–Mission; Dayanand–Arya.
+
+**Logic:** Founder↔institution grid.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Behramji Malabari — pushed Age of Consent Act, 1891</div><div class="pyq-opt"><span class="opt-letter">B</span> Bal Gangadhar Tilak — opposed British interference in Hindu marriage on that issue</div><div class="pyq-opt"><span class="opt-letter">C</span> Vidyasagar — Widow Remarriage Act, 1856 campaign</div><div class="pyq-opt"><span class="opt-letter">D</span> D.K. Karve — founded Arya Samaj at Bombay in 1875</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Karve = widows’ education / SNDT stream; Arya Samaj = Dayanand.
+
+**Logic:** Western-India reformer swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order:<br><br>1. Age of Consent Act<br>2. Sati ban under Bentinck<br>3. Widow Remarriage Act<br>4. Native / Brahmo Marriage Act</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 4, 3, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 3, 1, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1829 Sati → 1856 Widow Remarriage → 1872 Marriage Act → 1891 Age of Consent.
+
+**Logic:** Law ladder from Must-Score.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Prarthana Samaj and Paramahansa Mandali, which of the following statements is/are correct?<br><br>1. Paramahansa Mandali (1849, Dadoba Pandurang) was a secret precursor against caste and idolatry.<br>2. Prarthana Samaj rose in Bombay in 1867 under Jyotirao Phule.<br>3. Prarthana Samaj is identical with Phule’s Satyashodhak Samaj.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: Prarthana = Atmaram Pandurang / Ranade; Phule founded Satyashodhak Samaj. Stmt 3 remains false: Prarthana ≠ Satyashodhak.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to the Theosophical Society, which of the following statements is/are correct?<br><br>1. Annie Besant founded the Society at Calcutta in 1828.<br>2. It was founded by Blavatsky and Olcott in 1875 at Adyar (Madras).<br>3. Indian HQ shifted to Adyar in 1882.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: Founded at New York in 1875; Indian HQ shifted to Adyar in 1882. Stmt 1 remains false: Besant was not the 1828 Calcutta founder.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br><br>**Assertion (A):** Ramakrishna Paramahansa founded the Ramakrishna Mission in 1897.<br><br>**Reason (R):** Vivekananda founded the Mission in 1897 after his Chicago address of 1893.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Saint ≠ Mission founder — standing twin.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to SNDP and Self-Respect, which of the following statements is/are correct?<br><br>1. Sri Narayana Guru’s SNDP Yogam (1903) worked for Ezhava uplift in Kerala.<br>2. Periyar launched the Self-Respect Movement in 1925 in the Tamil country.<br>3. Self-Respect Movement is only another name for SNDP Yogam.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** Kerala one-caste–one-god ≠ Tamil anti-Brahmin rationalism.</div>
+  </div>
+</div>

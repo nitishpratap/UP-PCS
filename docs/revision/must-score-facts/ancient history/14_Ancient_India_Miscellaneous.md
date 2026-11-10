@@ -205,30 +205,6 @@ hide:
 
 ---
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Key Difference (Exam Trap) | Hindi Key |
-|---|---|---|---|
-| **Mesopotamia** | **Ancient Egypt** | Independent warring city-states (Tigris-Euphrates) vs unified divine monarchy under Pharaoh (Nile) | मेसोपोटामिया / मिस्र |
-| **Ziggurat** | **Pyramid** | Stepped mud-brick **temple-tower** to gods vs colossal stone **royal funerary tomb** for pharaohs | जिग्गुरात / पिरामिड |
-| **Cuneiform** | **Hieroglyphs** | Wedge-shaped clay tablet script (Mesopotamia) vs pictographic papyrus script (Egypt) | कीलाक्षर / चित्रलिपि |
-| **Indus Script** | **Oracle-Bone Script** | Undeciphered Harappan seal script vs fully **deciphered** earliest Chinese Shang writing | सिन्धु लिपि / अस्थि लेख |
-| **Mahapurana** | **Upapurana** | 18 major canonical Puranas (with 5 traits) vs 18 secondary regional/sectarian minor Puranas | महापुराण / उपपुराण |
-| **Vishnu Purana** | **Vayu Purana** | Complete dynastic list of **Mauryas** vs list of early **Gupta emperors** (not admin manual) | विष्णु / वायु पुराण |
-| **Matsya Purana** | **Vishnu Purana** | Longest list of **Andhra/Satavahana** rulers (~30 kings) vs **Mauryan** dynastic genealogy | मत्स्य / विष्णु पुराण |
-| **Puranic Shriparvatiya** | **Vakataka Dynasty** | **Ikshvakus of Nagarjunakonda** (Andhra) vs Brahmanical dynasty of Vidarbha/Maharashtra | श्रीपर्वतीय / वाकाटक |
-| **Charvaka** | **Charaka** | Radical materialist **philosopher/school** vs celebrated ancient Ayurvedic **physician/author** | चार्वाक / चरक |
-| **Charvaka** | **Buddhism** | Rejects karma, soul, and rebirth completely vs accepts **karma & rebirth** while denying soul (*Anatta*) | चार्वाक / बौद्ध धर्म |
-| **Charaka Samhita** | **Sushruta Samhita** | Foundational text on **internal medicine** (120 ch/8 sthanas) vs manual on **surgery & rhinoplasty** | चरक / सुश्रुत संहिता |
-| **Kakatiya Dynasty** | **Yadava Dynasty** | Capital at **Warangal (Orugallu)**, Telangana vs capital at **Devagiri (Daulatabad)**, Maharashtra | काकतीय / यादव |
-| **Warangal Citadel** | **Hanamkonda** | Later Kakatiya capital (Ganapati/Rudrama) vs early capital with **Thousand Pillar Temple** (Rudradeva) | वारंगल / हनमकोंडा |
-| **Ramappa Temple** | **Thousand Pillar Temple** | Palampet (**UNESCO 2021**, floating bricks) vs Hanamkonda (1163 CE, triple shrine) | रामप्पा / सहस्र स्तंभ |
-| **Ramachandra Deva** | **Prataparudra II** | Yadava ruler of **Devagiri** vs last Kakatiya ruler of **Warangal** (1323 fall) | रामचंद्र देव / प्रतापरुद्र II |
-| **K.P. Jayaswal** | **Vincent Arthur Smith** | Nationalist *Hindu Polity* (ancient republics) vs colonial *Early History of India* (autocracy) | जयसवाल / विन्सेंट स्मिथ |
-| **D.D. Kosambi** | **A.L. Basham** | Marxist socio-economic *Introduction* vs cultural civilizational *Wonder That Was India* | कोसांबी / बैशम |
-
----
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The Four Bronze Cores & Writing: "M-E-I-S"
@@ -259,284 +235,262 @@ hide:
 
 ---
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Match List-I (Book) with List-II (Author) and select the correct answer using the codes given below: (UPPCS Prelims 2024, Q134)
-
-| List-I (Book) | List-II (Author) |
-|---|---|
-| A. Hindu Polity | 1. D.D. Kosambi |
-| B. The Wonder That Was India | 2. A.L. Basham |
-| C. An Introduction to the Study of Indian History | 3. K.P. Jayaswal |
-| D. The Early History of India | 4. Vincent Arthur Smith |
-
-Codes: A B C D
-
-A. 3 2 4 1
-B. 1 2 4 3
-C. 3 2 1 4
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (3-2-1-4).** *Hindu Polity* = K.P. Jayaswal (nationalist analysis of republics/assemblies); *The Wonder That Was India* = A.L. Basham (cultural-civilizational survey); *An Introduction to the Study of Indian History* = D.D. Kosambi (pioneering Marxist socio-economic analysis); *The Early History of India* = Vincent Arthur Smith (colonial dynastic framework).
-
-</details>
-
-**Q2.** *Charaka Samhita* is divided into how many chapters and sections? (UPPCS Prelims)
-
-A. 120 chapters and 8 sections
-B. 100 chapters and 5 sections
-C. 80 chapters and 7 sections
-D. 60 chapters and 8 sections
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** *Charaka Samhita* consists of **120 chapters** (*adhyayas*) divided into **8 sections** (*sthanas*): Sutra-sthana (30), Nidana-sthana (8), Vimana-sthana (8), Sharira-sthana (8), Indriya-sthana (12), Chikitsa-sthana (30), Kalpa-sthana (12), and Siddhi-sthana (12).
-
-</details>
-
-**Q3.** With reference to the Puranas, which one of the following statements is correct? (UPPCS Prelims 2023, Q29)
-
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.
-2. Vayu Purana throws light on the Gupta system of governance.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1.** Statement 1 is correct: the Vishnu Purana contains detailed genealogical lists of the Maurya dynasty. Statement 2 is incorrect: while the Vayu Purana lists early Gupta rulers and their territories, it does NOT provide an account of the Gupta administrative or governmental system.
-
-</details>
-
-**Q4.** The rulers of which of the following dynasty have been called as ‘Shriparvatiya’ in Puranas? (UPPCS Prelims 2020, Q2)
-
-A. Vakatakas
-B. Ikshvakus
-C. Shakas
-D. Kharavelas
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** In the Puranas, the **Ikshvakus of Vijayapuri** (Nagarjunakonda, Andhra Pradesh) are styled as *Shriparvatiya Andhrabhrityas* ("Servants of the Andhras ruling near Sriparvata / Nagarjunakonda hill").
-
-</details>
-
-**Q5.** Match List-I (Ruling Dynasty) with List-II (Capital) and select the correct answer: (UPPCS Prelims 2019)
-
-| List-I (Dynasty) | List-II (Capital) |
-|---|---|
-| A. Pallava | 1. Warangal |
-| B. Pandya | 2. Kanchi |
-| C. Yadava | 3. Madura |
-| D. Kakatiya | 4. Devagiri |
-
-Codes: A B C D
-
-A. 2 1 4 3
-B. 2 3 4 1
-C. 1 2 3 4
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B (2-3-4-1).** Pallava — Kanchi (Kanchipuram); Pandya — Madura (Madurai); Yadava (Seuna) — Devagiri (Daulatabad); Kakatiya — Warangal (Orugallu).
-
-</details>
-
-**Q6.** Which of the following pairs is NOT correctly matched? (UPPCS Prelims)
-
-A. Devagiri — Shankaradeva
-B. Warangal — Ramachandra Deva
-C. Hoysala — Veera Ballala III
-D. Madura — Veera Pandya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Ramachandra Deva was the Yadava king of **Devagiri** (conquered by Alauddin Khalji and Malik Kafur). The ruler of **Warangal** during the Khalji invasions was Kakatiya king **Prataparudra II**.
-
-</details>
-
-**Q7.** Which of the following pairs (School of Thought — Proponent) is correctly matched? (UPPCS Prelims)
-
-A. Vaisheshika — Patanjali
-B. Mimansa — Kanada
-C. Nyaya — Gautama
-D. Uttara Mimansa — Kapila
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Nyaya was founded by Akshapada Gautama. Vaisheshika was founded by Kanada (Uluka); Yoga by Patanjali; Purva Mimamsa by Jaimini; Samkhya by Kapila; Uttara Mimamsa (Vedanta) by Badarayana.
-
-</details>
-
-**Q8.** With reference to the ancient materialist school of Charvaka / Lokayata, which of the following statements is/are correct?
-
-1. It admits only direct perception (*pratyaksha*) as a valid means of knowledge (*pramana*).
-2. It rejects the existence of a permanent soul (*atman*), karmic retribution, and rebirth.
-3. Charvaka philosophy forms an integral school of the Vedic orthodox *Astika* systems.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. 2 and 3
-C. Only 1
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1 and 2 are correct. Statement 3 is false: Charvaka is an uncompromisingly heterodox (*Nastika*) school that openly repudiates the authority of the Vedas, caste hierarchy, and priestly sacrifices.
-
-</details>
-
-**Q9.** Match List-I (Old World Bronze Civilization) with List-II (Diagnostic Cultural Feature) and select the correct code:
-
-| List-I (Civilization) | List-II (Hallmark Feature) |
-|---|---|
-| A. Mesopotamia | 1. Stepped temple-towers (Ziggurats) & Cuneiform clay tablets |
-| B. Ancient Egypt | 2. Monumental royal tombs (Pyramids) & Hieroglyphic papyrus |
-| C. Indus Civilization | 3. Orthogonal grid cities, covered drainage & undeciphered script |
-| D. Shang China | 4. Divinatory Oracle-bone script & cast bronze ritual vessels (*ding*) |
-
-Codes: A B C D
-
-A. 1 2 3 4
-B. 2 1 4 3
-C. 1 3 2 4
-D. 3 2 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (1-2-3-4).** Mesopotamia = Ziggurats and Cuneiform; Egypt = Pyramids and Hieroglyphs; Indus = Planned grid cities and undeciphered script; Shang China = Oracle bones and ritual bronze ding vessels.
-
-</details>
-
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Mesopotamian commercial and royal inscriptions regularly refer to the land of 'Meluhha'.  
-**Reason (R):** Archaeological excavations in Mesopotamia have yielded Harappan steatite seals, etched carnelian beads, and Indus weight units.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both (A) and (R) are true and (R) provides the direct archaeological evidence corroborating that the Mesopotamian toponym 'Meluhha' designates the Indus Valley Civilization.
-
-</details>
-
-**Q11.** Arrange the following Kakatiya sovereigns in correct chronological sequence:
-
-1. Queen Rudrama Devi
-2. Prola II
-3. Prataparudra II
-4. Ganapati Deva
-
-Select the correct answer from the code given below:
-
-A. 2–1–4–3
-B. 2–4–1–3
-C. 4–2–1–3
-D. 2–4–3–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Prola II (established independence) → Ganapati Deva (1199–1262) → Rudrama Devi (1262–1289) → Prataparudra II (1296–1323, last ruler).
-
-</details>
-
-**Q12.** Consider the following statements regarding Queen Rudrama Devi of the Kakatiya dynasty:
-
-1. She assumed the male throne-name 'Rudradeva Maharaja' in her royal inscriptions and official charters.
-2. The Venetian traveler Marco Polo visited the Andhra coast during her reign and recorded her able administration.
-3. She was the queen-consort of a Chola monarch who took refuge in Warangal.
-
-Which of the statements given above are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1 and 2 are correct. Statement 3 is false: Rudrama Devi was the daughter of Kakatiya Emperor Ganapati Deva, who formally designated her as his sovereign successor (*Puttrika*), ruling Warangal independently in her own right.
-
-</details>
-
-**Q13.** With reference to the Ramappa (Rudreshwara) Temple, which of the following statements is/are correct?
-
-1. It is located at Palampet in Mulugu district of Telangana.
-2. It was constructed in 1213 CE during the reign of Kakatiya ruler Ganapati Deva by his general Recharla Rudra.
-3. Its shikhara was engineered using ultra-light porous bricks that can float on water.
-4. It was inscribed as a UNESCO World Heritage Site in 2021.
-
-Select the correct answer from the code given below:
-
-A. 1 and 4 only
-B. 2 and 3 only
-C. 1, 2 and 3 only
-D. All 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All four statements are correct. Ramappa Temple represents the pinnacle of Kakatiya architecture with sandbox foundation technology, floating bricks, and bracket sculptures.
-
-</details>
-
-**Q14.** Which one of the following pairs of ancient Indian texts and authors is NOT correctly matched?
-
-A. *Brahmasphutasiddhanta* — Brahmagupta
-B. *Sushruta Samhita* — Sushruta (Surgical procedures)
-C. *Brihat Samhita* — Aryabhata
-D. *Charaka Samhita* — Charaka (Internal medicine)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** *Brihat Samhita* (an encyclopedia of astronomy, astrology, geography, and weather) was composed by **Varahamihira**. Aryabhata's seminal works are the *Aryabhatiya* and *Arya-siddhanta*.
-
-</details>
-
-**Q15.** Consider the following statements about ancient Indian philosophical and scientific developments:
-
-1. Unlike Charvaka materialism, early Buddhism accepts the doctrine of karma and rebirth while repudiating an eternal soul (*Anatta*).
-2. The *Matsya Purana* contains the most exhaustive genealogical list of Andhra/Satavahana kings.
-3. The traditional five characteristics (*Panchalakshana*) of a Mahapurana are Sarga, Pratisarga, Vamsha, Manvantara, and Vamshanucharita.
-
-Which of the statements given above are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct and represent classic high-yield prelims facts.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Book) with List-II (Author) and select the correct answer using the codes given below: (UPPCS Prelims 2024, Q134)<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Book)</th><th>List-II (Author)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Hindu Polity</td><td><span class="match-key">1</span> D.D. Kosambi</td></tr>
+      <tr><td><span class="match-key">B</span> The Wonder That Was India</td><td><span class="match-key">2</span> A.L. Basham</td></tr>
+      <tr><td><span class="match-key">C</span> An Introduction to the Study of Indian History</td><td><span class="match-key">3</span> K.P. Jayaswal</td></tr>
+      <tr><td><span class="match-key">D</span> The Early History of India</td><td><span class="match-key">4</span> Vincent Arthur Smith</td></tr>
+  </tbody>
+</table><br>Codes: A B C D</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 2 4 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 2 4 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 2 1 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 2 3 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (3-2-1-4).** *Hindu Polity* = K.P. Jayaswal (nationalist analysis of republics/assemblies); *The Wonder That Was India* = A.L. Basham (cultural-civilizational survey); *An Introduction to the Study of Indian History* = D.D. Kosambi (pioneering Marxist socio-economic analysis); *The Early History of India* = Vincent Arthur Smith (colonial dynastic framework).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">*Charaka Samhita* is divided into how many chapters and sections? (UPPCS Prelims)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 120 chapters and 8 sections</div><div class="pyq-opt"><span class="opt-letter">B</span> 100 chapters and 5 sections</div><div class="pyq-opt"><span class="opt-letter">C</span> 80 chapters and 7 sections</div><div class="pyq-opt"><span class="opt-letter">D</span> 60 chapters and 8 sections</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Charaka Samhita* consists of **120 chapters** (*adhyayas*) divided into **8 sections** (*sthanas*): Sutra-sthana (30), Nidana-sthana (8), Vimana-sthana (8), Sharira-sthana (8), Indriya-sthana (12), Chikitsa-sthana (30), Kalpa-sthana (12), and Siddhi-sthana (12).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Puranas, which one of the following statements is correct? (UPPCS Prelims 2023, Q29)<br><br>1. Information about the Mauryan dynasty is found in the Vishnu Purana.<br>2. Vayu Purana throws light on the Gupta system of governance.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1.** Statement 1 is correct: the Vishnu Purana contains detailed genealogical lists of the Maurya dynasty. Statement 2 is incorrect: while the Vayu Purana lists early Gupta rulers and their territories, it does NOT provide an account of the Gupta administrative or governmental system.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The rulers of which of the following dynasty have been called as ‘Shriparvatiya’ in Puranas? (UPPCS Prelims 2020, Q2)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vakatakas</div><div class="pyq-opt"><span class="opt-letter">B</span> Ikshvakus</div><div class="pyq-opt"><span class="opt-letter">C</span> Shakas</div><div class="pyq-opt"><span class="opt-letter">D</span> Kharavelas</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> In the Puranas, the **Ikshvakus of Vijayapuri** (Nagarjunakonda, Andhra Pradesh) are styled as *Shriparvatiya Andhrabhrityas* ("Servants of the Andhras ruling near Sriparvata / Nagarjunakonda hill").</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Ruling Dynasty) with List-II (Capital) and select the correct answer: (UPPCS Prelims 2019)<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Dynasty)</th><th>List-II (Capital)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Pallava</td><td><span class="match-key">1</span> Warangal</td></tr>
+      <tr><td><span class="match-key">B</span> Pandya</td><td><span class="match-key">2</span> Kanchi</td></tr>
+      <tr><td><span class="match-key">C</span> Yadava</td><td><span class="match-key">3</span> Madura</td></tr>
+      <tr><td><span class="match-key">D</span> Kakatiya</td><td><span class="match-key">4</span> Devagiri</td></tr>
+  </tbody>
+</table><br>Codes: A B C D</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 2 3 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 4 3 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (2-3-4-1).** Pallava — Kanchi (Kanchipuram); Pandya — Madura (Madurai); Yadava (Seuna) — Devagiri (Daulatabad); Kakatiya — Warangal (Orugallu).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched? (UPPCS Prelims)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Devagiri — Shankaradeva</div><div class="pyq-opt"><span class="opt-letter">B</span> Warangal — Ramachandra Deva</div><div class="pyq-opt"><span class="opt-letter">C</span> Hoysala — Veera Ballala III</div><div class="pyq-opt"><span class="opt-letter">D</span> Madura — Veera Pandya</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ramachandra Deva was the Yadava king of **Devagiri** (conquered by Alauddin Khalji and Malik Kafur). The ruler of **Warangal** during the Khalji invasions was Kakatiya king **Prataparudra II**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs (School of Thought — Proponent) is correctly matched? (UPPCS Prelims)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vaisheshika — Patanjali</div><div class="pyq-opt"><span class="opt-letter">B</span> Mimansa — Kanada</div><div class="pyq-opt"><span class="opt-letter">C</span> Nyaya — Gautama</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttara Mimansa — Kapila</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nyaya was founded by Akshapada Gautama. Vaisheshika was founded by Kanada (Uluka); Yoga by Patanjali; Purva Mimamsa by Jaimini; Samkhya by Kapila; Uttara Mimamsa (Vedanta) by Badarayana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to the ancient materialist school of Charvaka / Lokayata, which of the following statements is/are correct?<br><br>1. It admits only direct perception (*pratyaksha*) as a valid means of knowledge (*pramana*).<br>2. It rejects the existence of a permanent soul (*atman*), karmic retribution, and rebirth.<br>3. Charvaka philosophy forms an integral school of the Vedic orthodox *Astika* systems.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 are correct. Statement 3 is false: Charvaka is an uncompromisingly heterodox (*Nastika*) school that openly repudiates the authority of the Vedas, caste hierarchy, and priestly sacrifices.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Old World Bronze Civilization) with List-II (Diagnostic Cultural Feature) and select the correct code:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Civilization)</th><th>List-II (Hallmark Feature)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Mesopotamia</td><td><span class="match-key">1</span> Stepped temple-towers (Ziggurats) & Cuneiform clay tablets</td></tr>
+      <tr><td><span class="match-key">B</span> Ancient Egypt</td><td><span class="match-key">2</span> Monumental royal tombs (Pyramids) & Hieroglyphic papyrus</td></tr>
+      <tr><td><span class="match-key">C</span> Indus Civilization</td><td><span class="match-key">3</span> Orthogonal grid cities, covered drainage & undeciphered script</td></tr>
+      <tr><td><span class="match-key">D</span> Shang China</td><td><span class="match-key">4</span> Divinatory Oracle-bone script & cast bronze ritual vessels (*ding*)</td></tr>
+  </tbody>
+</table><br>Codes: A B C D</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 2 3 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 3 2 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 2 1 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (1-2-3-4).** Mesopotamia = Ziggurats and Cuneiform; Egypt = Pyramids and Hieroglyphs; Indus = Planned grid cities and undeciphered script; Shang China = Oracle bones and ritual bronze ding vessels.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Mesopotamian commercial and royal inscriptions regularly refer to the land of 'Meluhha'.  <br>**Reason (R):** Archaeological excavations in Mesopotamia have yielded Harappan steatite seals, etched carnelian beads, and Indus weight units.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true and (R) provides the direct archaeological evidence corroborating that the Mesopotamian toponym 'Meluhha' designates the Indus Valley Civilization.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Kakatiya sovereigns in correct chronological sequence:<br><br>1. Queen Rudrama Devi<br>2. Prola II<br>3. Prataparudra II<br>4. Ganapati Deva<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–1–4–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–4–1–3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4–2–1–3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–4–3–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Prola II (established independence) → Ganapati Deva (1199–1262) → Rudrama Devi (1262–1289) → Prataparudra II (1296–1323, last ruler).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements regarding Queen Rudrama Devi of the Kakatiya dynasty:<br><br>1. She assumed the male throne-name 'Rudradeva Maharaja' in her royal inscriptions and official charters.<br>2. The Venetian traveler Marco Polo visited the Andhra coast during her reign and recorded her able administration.<br>3. She was the queen-consort of a Chola monarch who took refuge in Warangal.<br><br>Which of the statements given above are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 are correct. Statement 3 is false: Rudrama Devi was the daughter of Kakatiya Emperor Ganapati Deva, who formally designated her as his sovereign successor (*Puttrika*), ruling Warangal independently in her own right.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to the Ramappa (Rudreshwara) Temple, which of the following statements is/are correct?<br><br>1. It is located at Palampet in Mulugu district of Telangana.<br>2. It was constructed in 1213 CE during the reign of Kakatiya ruler Ganapati Deva by his general Recharla Rudra.<br>3. Its shikhara was engineered using ultra-light porous bricks that can float on water.<br>4. It was inscribed as a UNESCO World Heritage Site in 2021.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All four statements are correct. Ramappa Temple represents the pinnacle of Kakatiya architecture with sandbox foundation technology, floating bricks, and bracket sculptures.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs of ancient Indian texts and authors is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> *Brahmasphutasiddhanta* — Brahmagupta</div><div class="pyq-opt"><span class="opt-letter">B</span> *Sushruta Samhita* — Sushruta (Surgical procedures)</div><div class="pyq-opt"><span class="opt-letter">C</span> *Brihat Samhita* — Aryabhata</div><div class="pyq-opt"><span class="opt-letter">D</span> *Charaka Samhita* — Charaka (Internal medicine)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Brihat Samhita* (an encyclopedia of astronomy, astrology, geography, and weather) was composed by **Varahamihira**. Aryabhata's seminal works are the *Aryabhatiya* and *Arya-siddhanta*.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about ancient Indian philosophical and scientific developments:<br><br>1. Unlike Charvaka materialism, early Buddhism accepts the doctrine of karma and rebirth while repudiating an eternal soul (*Anatta*).<br>2. The *Matsya Purana* contains the most exhaustive genealogical list of Andhra/Satavahana kings.<br>3. The traditional five characteristics (*Panchalakshana*) of a Mahapurana are Sarga, Pratisarga, Vamsha, Manvantara, and Vamshanucharita.<br><br>Which of the statements given above are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct and represent classic high-yield prelims facts.</div>
+  </div>
+</div>

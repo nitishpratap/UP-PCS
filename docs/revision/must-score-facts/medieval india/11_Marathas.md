@@ -163,25 +163,6 @@ hide:
 | **4. Gaekwads** | **Baroda (Vadodara)** | Gujarat | Damaji Gaekwad / Pilaji Gaekwad |
 | **5. Bhonsles** | **Nagpur** | Berar & Central Provinces | Raghuji Bhonsle I (raided Bengal) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Chauth | Sardeshmukhi | 25% protection vs extra 10% chief claim | चौथ / सरदेशमुखी |
-| Shivaji | Peshwa | Chhatrapati founder vs later de facto ruler | शिवाजी / पेशवा |
-| Bajirao I | Balaji Bajirao | Father 1720–40 vs son 1740–61 (Panipat) | बाजीराव I / बालाजी बाजीराव |
-| Madhav Rao I | Narayan Rao | 1761–72 recovery vs 1772–73 murdered | माधवराव / नारायणराव |
-| Panipat I | II vs III | 1526 Babur / 1556 Akbar–Hemu / 1761 Maratha–Abdali | पानीपत I / II / III |
-| Abdali | Nadir Shah | Panipat 1761 vs Delhi sack 1739 | अब्दाली / नादिर शाह |
-| Bhau | Bajirao I | 1761 commander vs died 1740 | भाऊ / बाजीराव |
-| Raigad | Pune | Shivaji coronation vs Peshwa seat | रायगढ़ / पुणे |
-| Sangola | Lanavada | 1750 Peshwa supremacy vs 1718 chauth recognition | सांगोला / लानावड़ा |
-| Chauth | Saranzami | 25% protection levy vs jagirdar livelihood land | चौथ / सरंजामी |
-| Deshmukh | Ashtapradhan | Feudal Bijapur chiefs vs Shivaji’s 8 ministers | देशमुख / अष्टप्रधान |
-| Purandar | Lanavada | 1665 Shivaji–Jai Singh vs 1718 Shahu–Mughals | पुरंदर / लणवाडा |
-| Sambhaji | Shahu | Executed 1689 vs released 1707, Peshwa rise | सम्भाजी / शाहू |
-| Sikh Khalsa | Chauth | 1699 Panth vs Maratha 25% levy | खालसा / चौथ |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Shivaji's 4 Key Encounters in Exact Sequence (1659–1666):**
@@ -207,25 +188,23 @@ hide:
    - **G**aekwad = **B**aroda (**G–B**)
    - **B**honsle = **N**agpur (**B–N**)
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.** With reference to Shivaji, which of the following statements is/are correct?
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-1. He personally commanded the Maratha army at Panipat III in 1761.
-2. He was crowned Chhatrapati at Raigad in 1674; Gaga Bhatt of Banaras declared him Kshatriya.
-3. He was born at Shivneri to Shahji Bhonsle and Jijabai.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (2 and 3 only)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Shivaji, which of the following statements is/are correct?<br><br>1. He personally commanded the Maratha army at Panipat III in 1761.<br>2. He was crowned Chhatrapati at Raigad in 1674; Gaga Bhatt of Banaras declared him Kshatriya.<br>3. He was born at Shivneri to Shahji Bhonsle and Jijabai.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (2 and 3 only)
 
 **Detailed Explanation:**
 - **Statement 1 is incorrect:** Shivaji passed away at Raigad in **1680**. The Third Battle of Panipat took place in **1761** (eighty-one years after Shivaji's death) and was commanded by **Sadashivrao Bhau** during the Peshwa period.
@@ -233,25 +212,22 @@ D. Only 1
 - **Statement 3 is correct:** Shivaji was born at the hill fort of **Shivneri** (near Junnar, Pune district) to **Shahji Bhonsle** (a prominent military commander in the Nizam Shahi and Adil Shahi sultanates) and **Jijabai**.
 
 **Key Exam Takeaway / Trap:**
-- Do not let timeline anachronisms slip past you: Shivaji (1630–1680) lived entirely in the 17th century; the Panipat battles belong to 1526 (Babur), 1556 (Akbar), and 1761 (Abdali vs Marathas).
+- Do not let timeline anachronisms slip past you: Shivaji (1630–1680) lived entirely in the 17th century; the Panipat battles belong to 1526 (Babur), 1556 (Akbar), and 1761 (Abdali vs Marathas).</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.** Consider Cause–Course–Result for the Treaty of Purandar (1665):
-
-1. Cause: Aurangzeb sent Raja Jai Singh I against Shivaji.
-2. Course: Shivaji surrendered 23 forts under the treaty; Agra detention followed in 1666.
-3. Result: Shivaji never recovered strength and abandoned the 1674 coronation.
-
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. Only 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1 and 2 only)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider Cause–Course–Result for the Treaty of Purandar (1665):<br><br>1. Cause: Aurangzeb sent Raja Jai Singh I against Shivaji.<br>2. Course: Shivaji surrendered 23 forts under the treaty; Agra detention followed in 1666.<br>3. Result: Shivaji never recovered strength and abandoned the 1674 coronation.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (1 and 2 only)
 
 **Detailed Explanation:**
 - **Statement 1 is correct (Cause):** Following Shivaji's daring night raid on Shaista Khan (1663) and the first sack of Surat (1664), Emperor Aurangzeb dispatched his most capable veteran diplomat and general, **Mirza Raja Jai Singh I of Amber**, alongside Diler Khan, to decisively subdue Shivaji.
@@ -259,27 +235,22 @@ D. Only 1 and 3
 - **Statement 3 is incorrect (Result):** The treaty was merely a temporary tactical setback. By 1670, Shivaji renewed war against the Mughals, recaptured almost all his surrendered forts (including Kondana/Sinhagad in 1670), sacked Surat a second time, defeated Mughal armies at Salher (1672), and triumphantly crowned himself **Chhatrapati in 1674**.
 
 **Key Exam Takeaway / Trap:**
-- The Treaty of Purandar was an intermediate retreat, not the end of Shivaji's power. By 1674, Shivaji had rebuilt a much larger and formally sovereign kingdom.
+- The Treaty of Purandar was an intermediate retreat, not the end of Shivaji's power. By 1674, Shivaji had rebuilt a much larger and formally sovereign kingdom.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.** Which of the following pairs is/are NOT correctly matched?
-
-1. Chauth — 25% protection levy
-2. Sardeshmukhi — extra 10% hereditary chief claim
-3. Chauth — Mughal crown land under Akbar
-
-Select the correct answer from the code given below:
-
-A. 1 only
-B. 3 only
-C. 1 and 2 only
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3 only)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Chauth — 25% protection levy<br>2. Sardeshmukhi — extra 10% hereditary chief claim<br>3. Chauth — Mughal crown land under Akbar<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3 only)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** **Chauth** was a military tribute amounting to **one-fourth (25%)** of the standard land revenue assessment levied on non-Maratha territories in exchange for protection from raids.
@@ -287,27 +258,22 @@ D. 2 and 3 only
 - **Pair 3 is NOT correctly matched:** Chauth was never a category of Mughal land; crown lands directly administered by the Mughal royal imperial treasury under Akbar were designated as **Khalisa** (or *Khalsa*).
 
 **Key Exam Takeaway / Trap:**
-- Always distinguish Maratha revenue instruments from Mughal agrarian categories: **Khalisa** = Imperial Crown land; **Jagir** = Revenue assignment in lieu of salary; **Chauth** = Maratha 25% protection levy.
+- Always distinguish Maratha revenue instruments from Mughal agrarian categories: **Khalisa** = Imperial Crown land; **Jagir** = Revenue assignment in lieu of salary; **Chauth** = Maratha 25% protection levy.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Big Deshmukhs opposed an independent Maratha state.
-
-Reason (R): They preferred remaining Bijapur feudal lords rather than accepting Shivaji’s swaraj order.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Big Deshmukhs opposed an independent Maratha state.<br><br>Reason (R): They preferred remaining Bijapur feudal lords rather than accepting Shivaji’s swaraj order.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is true:** The established Maratha aristocracy—hereditary revenue chiefs known as **Deshmukhs** (e.g., Chandrarao More of Javli, Ghorpades of Mudhol, Sawants of Sawantwadi)—consistently opposed and resisted Shivaji's centralized Swarajya project.
@@ -315,28 +281,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Why (R) explains (A):** The desire to protect their entrenched feudal privileges and status within the Bijapuri system was the primary causal reason why the Deshmukhs opposed Shivaji.
 
 **Key Exam Takeaway / Trap:**
-- UPPCS 2024 tested this exact sociological dynamic. The consolidation of Maratha power required subduing both regional Muslim sultanates and local conservative Maratha watandars.
+- UPPCS 2024 tested this exact sociological dynamic. The consolidation of Maratha power required subduing both regional Muslim sultanates and local conservative Maratha watandars.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.** Arrange the core Peshwa order:
-
-1. Balaji Vishwanath
-2. Bajirao I
-3. Balaji Bajirao
-4. Madhav Rao I
-
-Select the correct answer from the code given below:
-
-A. 1, 2, 3, 4
-B. 2, 1, 4, 3
-C. 1, 3, 2, 4
-D. 3, 1, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1, 2, 3, 4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the core Peshwa order:<br><br>1. Balaji Vishwanath<br>2. Bajirao I<br>3. Balaji Bajirao<br>4. Madhav Rao I<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 1, 2, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (1, 2, 3, 4)
 
 **Detailed Explanation:**
 - **1. Balaji Vishwanath (1713–1720):** Established hereditary Peshwa authority; negotiated the 1719 treaty with the Sayyid brothers.
@@ -345,34 +305,39 @@ D. 3, 1, 2, 4
 - **4. Madhav Rao I (1761–1772):** Orchestrated the remarkable post-Panipat recovery, subduing the Nizam, Hyder Ali, and re-establishing Maratha supremacy in Delhi (1771).
 
 **Key Exam Takeaway / Trap:**
-- The foundation quartet of the Peshwaship follows the exact sequence: **Balaji Vishwanath $\rightarrow$ Bajirao I $\rightarrow$ Balaji Bajirao $\rightarrow$ Madhav Rao I**.
+- The foundation quartet of the Peshwaship follows the exact sequence: **Balaji Vishwanath $\rightarrow$ Bajirao I $\rightarrow$ Balaji Bajirao $\rightarrow$ Madhav Rao I**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.** Match List-I with List-II and select the correct answer from the code given below:
-
-List-I (Minister)
-(a) Peshwa
-(b) Amatya
-(c) Senapati
-(d) Sumant
-
-List-II (Portfolio)
-1. Administration / Prime Minister
-2. Finance / Accounts
-3. Military Commander
-4. Foreign Affairs
-
-Code:
-A. a-1, b-2, c-3, d-4
-B. a-2, b-1, c-4, d-3
-C. a-1, b-3, c-2, d-4
-D. a-4, b-2, c-3, d-1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (a-1, b-2, c-3, d-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Ashtapradhan Minister)</th>
+        <th>List-II (Portfolio / Duty)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Peshwa</td><td><span class="match-key">1</span> Administration / Prime Minister</td></tr>
+    <tr><td><span class="match-key">B</span> Amatya</td><td><span class="match-key">2</span> Finance / Accounts</td></tr>
+    <tr><td><span class="match-key">C</span> Senapati</td><td><span class="match-key">3</span> Military Commander</td></tr>
+    <tr><td><span class="match-key">D</span> Sumant</td><td><span class="match-key">4</span> Foreign Affairs</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-4, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-3, C-2, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-2, C-3, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (a-1, b-2, c-3, d-4)
 
 **Detailed Explanation:**
 - **(a) Peshwa (Mukhya Pradhan):** Head of the council and overall general administration; oversaw all state activities (List-II: 1).
@@ -381,25 +346,22 @@ D. a-4, b-2, c-3, d-1
 - **(d) Sumant (Dabir):** Foreign minister; managed diplomatic relations with foreign powers and received ambassadors (List-II: 4).
 
 **Key Exam Takeaway / Trap:**
-- The eight ministers of the Ashtapradhan are standard match-the-column fare in UPPCS. Keep their portfolios distinct: Peshwa (General Admin), Amatya (Finance), Sachiv (Secretariat), Mantri (Intelligence), Senapati (Army), Sumant (Foreign), Nyayadhish (Law), Panditrao (Charity).
+- The eight ministers of the Ashtapradhan are standard match-the-column fare in UPPCS. Keep their portfolios distinct: Peshwa (General Admin), Amatya (Finance), Sachiv (Secretariat), Mantri (Intelligence), Senapati (Army), Sumant (Foreign), Nyayadhish (Law), Panditrao (Charity).</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.** With reference to Panipat III (14 January 1761), which of the following statements is/are correct?
-
-1. Ahmad Shah Abdali allied with Najib-ud-Daulah (Rohillas) and Shuja-ud-Daulah (Awadh).
-2. Sadashivrao Bhau and Vishwasrao commanded the Maratha army.
-3. Ibrahim Khan Gardi commanded the Maratha artillery.
-
-A. 1 and 2
-B. 1, 2 and 3
-C. Only 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1, 2 and 3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Panipat III (14 January 1761), which of the following statements is/are correct?<br><br>1. Ahmad Shah Abdali allied with Najib-ud-Daulah (Rohillas) and Shuja-ud-Daulah (Awadh).<br>2. Sadashivrao Bhau and Vishwasrao commanded the Maratha army.<br>3. Ibrahim Khan Gardi commanded the Maratha artillery.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (1, 2 and 3)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** Abdali successfully forged a grand northern coalition by securing the military support of **Najib-ud-Daulah** (Rohilla Afghan chief) and **Shuja-ud-Daulah** (Nawab of Awadh, who joined Abdali despite Maratha diplomatic overtures).
@@ -407,25 +369,22 @@ D. Only 1
 - **Statement 3 is correct:** **Ibrahim Khan Gardi**, a highly skilled artillery general trained in French modern military tactics under Marquis de Bussy, commanded the Maratha modernized artillery and European-style musket infantry battalions (*Gardis*).
 
 **Key Exam Takeaway / Trap:**
-- Ibrahim Khan Gardi's left wing wreaked havoc on Abdali's right wing during the early hours of the battle. All three statements are historically accurate and frequently tested.
+- Ibrahim Khan Gardi's left wing wreaked havoc on Abdali's right wing during the early hours of the battle. All three statements are historically accurate and frequently tested.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.** Consider Cause–Course–Result for Panipat III:
-
-1. Cause: Expulsion of Abdali's son Timur Shah from Lahore by Marathas in 1758.
-2. Course: Bitter field battle fought on 14 January 1761; Marathas suffered catastrophic casualties.
-3. Result: Maratha northern expansion was checked; paved the way for the rise of British colonial power in Bengal and India.
-
-A. 1 and 2
-B. Only 2
-C. 1, 2 and 3
-D. Only 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (1, 2 and 3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Consider Cause–Course–Result for Panipat III:<br><br>1. Cause: Expulsion of Abdali's son Timur Shah from Lahore by Marathas in 1758.<br>2. Course: Bitter field battle fought on 14 January 1761; Marathas suffered catastrophic casualties.<br>3. Result: Maratha northern expansion was checked; paved the way for the rise of British colonial power in Bengal and India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (1, 2 and 3)
 
 **Detailed Explanation:**
 - **Statement 1 is correct (Cause):** In 1758, Raghunath Rao's Maratha forces marched into Punjab, expelled **Timur Shah** (Abdali's son and viceroy), and planted the Maratha banner at Attock. This direct challenge prompted Abdali's retaliatory fifth invasion.
@@ -433,27 +392,22 @@ D. Only 1 and 3
 - **Statement 3 is correct (Result):** While Maratha military power recovered under Madhav Rao I a decade later, the disaster broke the political unity of the confederacy and eliminated the only native power capable of replacing the Mughals, creating a power vacuum that facilitated the consolidation of the British East India Company.
 
 **Key Exam Takeaway / Trap:**
-- Historian Sardesai observed: *"Panipat did not decide who was to rule India, but rather who was not to rule India."* It eliminated the Maratha bid for an all-India empire and opened the path for the British.
+- Historian Sardesai observed: *"Panipat did not decide who was to rule India, but rather who was not to rule India."* It eliminated the Maratha bid for an all-India empire and opened the path for the British.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): From 1713 Balaji Vishwanath made the Peshwa office hereditary and de facto ruling under Shahu.
-
-Reason (R): By the Sangola agreement (1750) the Chhatrapati became a do-nothing king and the Peshwa the real head.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A))
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): From 1713 Balaji Vishwanath made the Peshwa office hereditary and de facto ruling under Shahu.<br><br>Reason (R): By the Sangola agreement (1750) the Chhatrapati became a do-nothing king and the Peshwa the real head.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is true:** In 1713, Chhatrapati Shahu appointed **Balaji Vishwanath** as Peshwa. Balaji proved so indispensable in consolidating Shahu's fragile kingdom that the Peshwaship became hereditary in his Chitpavan Brahmin family (passed to Baji Rao I upon Balaji's death in 1720), making the Peshwa the de facto administrative executive.
@@ -461,25 +415,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Why (R) does NOT explain (A):** The Sangola Agreement of 1750 was a later constitutional milestone in the consolidation of Peshwa supremacy; it occurred decades after the hereditary nature of the Peshwaship had already been established in 1713. A later event cannot be the historical cause of an earlier one.
 
 **Key Exam Takeaway / Trap:**
-- Classic chronology-causality trap in UPPCS A/R questions: both milestones are true facts regarding the rise of the Peshwas, but 1750 cannot explain 1713.
+- Classic chronology-causality trap in UPPCS A/R questions: both milestones are true facts regarding the rise of the Peshwas, but 1750 cannot explain 1713.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.** With reference to revenue terms, which of the following statements is/are correct?
-
-1. Chauth was an internal tax collected only from the Swarajya homeland.
-2. Sardeshmukhi was an additional 10% levy based on hereditary claims.
-3. Chauth and Sardeshmukhi together exceeded 50% of the land revenue.
-
-A. 1 and 2
-B. Only 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only 2)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to revenue terms, which of the following statements is/are correct?<br><br>1. Chauth was an internal tax collected only from the Swarajya homeland.<br>2. Sardeshmukhi was an additional 10% levy based on hereditary claims.<br>3. Chauth and Sardeshmukhi together exceeded 50% of the land revenue.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Only 2)
 
 **Detailed Explanation:**
 - **Statement 1 is incorrect:** **Chauth** was strictly an **external** levy extracted from regions outside the Maratha Swarajya (such as Mughal provinces, Bijapur, or Golconda) in exchange for non-aggression and protection. Swarajya lands paid standard state land revenue assessed via the Kathi system, not Chauth.
@@ -487,28 +438,22 @@ D. Only 1
 - **Statement 3 is incorrect:** Combined, Chauth (25% or 1/4th) + Sardeshmukhi (10% or 1/10th) equalled **35%**, not over 50%.
 
 **Key Exam Takeaway / Trap:**
-- Swarajya lands = Direct state revenue. External neighboring lands = Chauth (25%) + Sardeshmukhi (10%) = Total 35%.
+- Swarajya lands = Direct state revenue. External neighboring lands = Chauth (25%) + Sardeshmukhi (10%) = Total 35%.</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.** Arrange the following in chronological order:
-
-1. Battle of Pratapgad (Afzal Khan episode)
-2. Treaty of Purandar
-3. Battle of Salher
-4. Coronation of Shivaji at Raigad
-
-Select the correct answer from the code given below:
-
-A. 1, 2, 3, 4
-B. 2, 1, 4, 3
-C. 1, 3, 2, 4
-D. 3, 1, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1, 2, 3, 4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order:<br><br>1. Battle of Pratapgad (Afzal Khan episode)<br>2. Treaty of Purandar<br>3. Battle of Salher<br>4. Coronation of Shivaji at Raigad<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 1, 2, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (1, 2, 3, 4)
 
 **Detailed Explanation:**
 - **1. Battle of Pratapgad (November 1659):** Shivaji killed Afzal Khan and routed the Bijapuri invading army.
@@ -517,34 +462,39 @@ D. 3, 1, 2, 4
 - **4. Coronation at Raigad (6 June 1674):** Formal Vedic coronation of Shivaji as Chhatrapati by Gaga Bhatt.
 
 **Key Exam Takeaway / Trap:**
-- Chronological anchor: **Pratapgad (1659) $\rightarrow$ Purandar (1665) $\rightarrow$ Salher (1672) $\rightarrow$ Raigad Coronation (1674)**.
+- Chronological anchor: **Pratapgad (1659) $\rightarrow$ Purandar (1665) $\rightarrow$ Salher (1672) $\rightarrow$ Raigad Coronation (1674)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.** Match List-I with List-II and select the correct answer from the code given below:
-
-List-I (Confederacy Branch)
-(a) Peshwa
-(b) Scindia (Shinde)
-(c) Holkar
-(d) Gaekwad
-
-List-II (Capital Seat)
-1. Pune
-2. Gwalior
-3. Indore
-4. Baroda
-
-Code:
-A. a-1, b-2, c-3, d-4
-B. a-2, b-1, c-4, d-3
-C. a-1, b-3, c-2, d-4
-D. a-4, b-2, c-3, d-1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (a-1, b-2, c-3, d-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Confederacy Branch)</th>
+        <th>List-II (Capital Seat)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Peshwa</td><td><span class="match-key">1</span> Pune</td></tr>
+    <tr><td><span class="match-key">B</span> Scindia (Shinde)</td><td><span class="match-key">2</span> Gwalior</td></tr>
+    <tr><td><span class="match-key">C</span> Holkar</td><td><span class="match-key">3</span> Indore</td></tr>
+    <tr><td><span class="match-key">D</span> Gaekwad</td><td><span class="match-key">4</span> Baroda</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-4, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-3, C-2, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-2, C-3, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (a-1, b-2, c-3, d-4)
 
 **Detailed Explanation:**
 - **(a) Peshwa:** Ruled from **Pune** (Shaniwar Wada); executive head of the Maratha confederacy.
@@ -554,51 +504,44 @@ D. a-4, b-2, c-3, d-1
 - *(Note: Bhonsles ruled from Nagpur).*
 
 **Key Exam Takeaway / Trap:**
-- A staple UPPCS match: Peshwa (Pune), Scindia (Gwalior), Holkar (Indore), Gaekwad (Baroda), Bhonsle (Nagpur).
+- A staple UPPCS match: Peshwa (Pune), Scindia (Gwalior), Holkar (Indore), Gaekwad (Baroda), Bhonsle (Nagpur).</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.** With reference to Bajirao I and Balaji Bajirao, which of the following statements is/are correct?
-
-1. Bajirao I championed expansion into North India under the ideal of Hindu Pad Padshahi.
-2. Balaji Bajirao oversaw the Sangola Agreement of 1750 which transferred supreme power to the Peshwa.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Both 1 and 2)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Bajirao I and Balaji Bajirao, which of the following statements is/are correct?<br><br>1. Bajirao I championed expansion into North India under the ideal of Hindu Pad Padshahi.<br>2. Balaji Bajirao oversaw the Sangola Agreement of 1750 which transferred supreme power to the Peshwa.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Both 1 and 2)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** **Bajirao I (1720–1740)** formulated the forward policy of striking at the decaying Mughal Empire's heart (*"Let us strike at the trunk of the withering tree, and the branches will fall off themselves"*), promoting the ideal of **Hindu Pad Padshahi** (Hindu Empire) and leading victorious campaigns across Malwa, Gujarat, and Bundelkhand.
 - **Statement 2 is correct:** **Balaji Bajirao (Nana Saheb, 1740–1761)** signed the **Sangola Agreement (1750)** with Chhatrapati Ramaraja, whereby the Maratha King became a ceremonial monarch at Satara and the Peshwa became the undisputed constitutional and executive head of the Maratha state.
 
 **Key Exam Takeaway / Trap:**
-- Bajirao I = Military expansionist (*Hindu Pad Padshahi*). Balaji Bajirao = Administrative centralizer (Sangola Agreement 1750). Both statements are accurate.
+- Bajirao I = Military expansionist (*Hindu Pad Padshahi*). Balaji Bajirao = Administrative centralizer (Sangola Agreement 1750). Both statements are accurate.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.** Which of the following pairs is/are NOT correctly matched?
-
-1. Lanavada (1718) — Mughal recognition of Maratha chauth rights
-2. Sangola (1750) — Peshwa becomes real head
-3. Lanavada (1718) — Shivaji–Jai Singh fort surrender of 23 forts
-
-Select the correct answer from the code given below:
-
-A. 1 only
-B. 3 only
-C. 1 and 2 only
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3 only)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Lanavada (1718) — Mughal recognition of Maratha chauth rights<br>2. Sangola (1750) — Peshwa becomes real head<br>3. Lanavada (1718) — Shivaji–Jai Singh fort surrender of 23 forts<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3 only)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** In 1718–1719, negotiations between Peshwa Balaji Vishwanath and Sayyid Hussain Ali Khan led to imperial decrees recognizing Maratha rights to collect Chauth and Sardeshmukhi across six Deccan provinces.
@@ -606,27 +549,22 @@ D. 2 and 3 only
 - **Pair 3 is NOT correctly matched:** The surrender of 23 forts to the Mughals took place under the **Treaty of Purandar (1665)** between Shivaji and Mirza Raja Jai Singh, not at Lanavada in 1718.
 
 **Key Exam Takeaway / Trap:**
-- Fort surrender of 23 forts = **Treaty of Purandar (1665)**. Never confuse 17th-century treaties of Shivaji with 18th-century Peshwa diplomatic settlements.
+- Fort surrender of 23 forts = **Treaty of Purandar (1665)**. Never confuse 17th-century treaties of Shivaji with 18th-century Peshwa diplomatic settlements.</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Narayan Rao ruled the long recovery decade immediately after Panipat III before Madhav Rao I.
-
-Reason (R): Madhav Rao I (1761–72) comes before Narayan Rao (1772–73).
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** ((A) is false, but (R) is true)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Narayan Rao ruled the long recovery decade immediately after Panipat III before Madhav Rao I.<br><br>Reason (R): Madhav Rao I (1761–72) comes before Narayan Rao (1772–73).<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** ((A) is false, but (R) is true)
 
 **Detailed Explanation:**
 - **Assertion (A) is false:** The long recovery decade immediately following the disaster of Panipat III (1761) was led by **Madhav Rao I (1761–1772)**, not Narayan Rao. Under Madhav Rao's leadership, the Marathas defeated Hyder Ali of Mysore, subdued the Nizam, and restored Mughal Emperor Shah Alam II to the throne of Delhi in 1771.
@@ -634,6 +572,6 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - Therefore, Assertion (A) is false, and Reason (R) is true.
 
 **Key Exam Takeaway / Trap:**
-- The great post-Panipat restorer was **Madhav Rao I**. English historian Grant Duff famously wrote: *"The plains of Panipat were not more fatal to the Maratha Empire than the early death of this excellent prince."*
-
-</details>
+- The great post-Panipat restorer was **Madhav Rao I**. English historian Grant Duff famously wrote: *"The plains of Panipat were not more fatal to the Maratha Empire than the early death of this excellent prince."</div>
+  </div>
+</div>

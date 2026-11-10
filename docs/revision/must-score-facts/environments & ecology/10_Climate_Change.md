@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 10 — Climate Change (जलवायु परिवर्तन)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Global warming** is the long-term rise in average surface temperature. It is a subset of broader **climate change**, which also includes rainfall, extremes, and sea-level shifts.
@@ -75,26 +64,61 @@ hide:
 49. **Rice** is a major anthropogenic source of **both methane and nitrous oxide** (anaerobic soils + nitrogen fertiliser).
 50. **Nitrous oxide (N₂O)** has **GWP around 265** and links strongly to synthetic fertilisers.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Climate Summits & Treaties
-
-```
-1972 ──► UN Conference on Human Environment (Stockholm) ➔ Creation of UNEP (Nairobi) & World Environment Day (5 June)
-1979 ──► First World Climate Conference (Geneva) ➔ Established World Climate Programme
-1987 ──► Montreal Protocol on Substances that Deplete the Ozone Layer (Signed 16 Sep; ODS phase-out)
-1988 ──► IPCC established by UNEP and WMO (Co-founders: Bert Bolin; Headquarters: Geneva)
-1992 ──► UN Conference on Environment & Development (Rio Earth Summit) ➔ Rio Declaration, Agenda 21, UNFCCC, CBD, UNCCD
-1997 ──► Kyoto Protocol (COP 3) ➔ Legally binding Annex-I emission reduction targets (Common But Differentiated Responsibilities)
-2002 ──► World Summit on Sustainable Development (Johannesburg Earth Summit) ➔ Focus on water, energy, health, agriculture
-2012 ──► Rio+20 Conference (UNCSD, Rio de Janeiro) ➔ "The Future We Want", process to launch SDGs
-2015 ──► Paris Agreement (COP 21) ➔ Universal pledge-and-review; limit warming to "well below 2°C, pursue 1.5°C"; NDCs
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Phase-down of climate-warming Hydrofluorocarbons (HFCs)
-2021 ──► Glasgow Climate Pact (COP 26) ➔ "Phase-down" of unabated coal; launch of LiFE (Lifestyle for Environment) by India
-2022 ──► Sharm el-Sheikh Implementation Plan (COP 27) ➔ Landmark decision to establish a Loss and Damage Fund
-2022 ──► Kunming-Montreal Global Biodiversity Framework (CBD COP 15) ➔ 30×30 conservation target by 2030
-2023 ──► COP 28 (Dubai, UAE) ➔ "UAE Consensus", First Global Stocktake, agreement to "transition away from fossil fuels"
-```
+51. IPCC AR6 places warming near **1.1°C** above **1850–1900**, with human influence dominant. Past-century rise ≈ **1°C / 1.8°F**.
+52. The **Keeling Curve** records atmospheric **CO₂** at **Mauna Loa** since **1958**.
+53. The **Emissions Gap Report** (उत्सर्जन अंतराल रिपोर्ट) is an annual **UNEP** (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) product. It is **not** published by the IPCC.
+54. WMO-style relative (सापेक्ष) shares often tested: **CO₂ ~64% > CH₄ ~19% > CFCs+others ~11% > N₂O ~6%**. Water vapour dominates the **natural** effect.
+55. India ranks near the top in **absolute** (निरपेक्ष) emissions (**China #1**, India ~**3rd**) but stays **low per capita**. **Bhutan** is often carbon-negative.
+56. A **carbon credit** equals **1 tonne of CO₂ equivalent**. Carbon trading is the market for credits or allowances (Kyoto (क्योटो) origin).
+57. **Green Credit (2023)** (ग्रीन क्रेडिट) and **PAT ESCert** are **not** the same thing as a Kyoto-style carbon credit.
+58. **Kyoto** (क्योटो) is climate mitigation (जलवायु शमन). **Montreal** is ozone protection. Do not swap the two treaties.
+59. India’s **Carbon Credit Trading Scheme (2023)** sits with **BEE** under the Power Ministry.
+60. The **IPCC** does science assessment under **WMO + UNEP** parents. It does **not** set national targets or write the Emissions Gap Report.
+61. The **carbon cycle** moves carbon among atmosphere, oceans, land, and fossil pools. Sequestration is the storing process.
+62. Carbon trading grew from Kyoto-era market tools; Paris-era systems use national NDCs and domestic markets.
+63. Do not treat IPCC Assessment Reports as UNFCCC (यूएनएफसीसीसी) treaty text. Science reports and the climate convention are different homes.
+64. Adaptation examples include early warning, climate-resilient crops, coastal defence, and heat-action plans — not only emission cuts.
+65. **Methane hydrates**, paddy+fertiliser (CH₄+N₂O), and wetland CH₄ are high-yield source traps.
+66. **Forest Carbon Partnership Facility** and **BioCarbon Fund ISFL** are **World Bank** programmes — FCPF does **not** fund universities/individuals for research grants.
+67. **Climate Action Tracker** = Climate Analytics + New Climate Institute (not IPCC/UNEP wing).
+68. **Deep Carbon Observatory** maps deep-Earth carbon (physics, reservoirs, deep energy, deep life).
+69. **Common Carbon Metric** (UNEP-linked) measures building-operation carbon footprints.
+70. Primary recent warming drivers are fossil fuels, autos, deforestation — **not** solar flares.
+71. **Radiative forcing** (W/m²) measures the net energy imbalance driving warming.
+72. **WMO** publishes the **State of the Global Climate** report.
+73. **NOAA** and **NASA GISS** maintain key global temperature datasets.
+74. **Global Carbon Project** issues the annual **Global Carbon Budget**.
+75. **Emissions Gap Report** is published by **UNEP** — it measures the gap between NDCs and 1.5–2°C pathways.
+76. **Energy and electricity** (coal, oil, gas) dominate CO₂.
+77. **Industry** adds process CO₂ (cement, steel) plus F-gases.
+78. **AFOLU** (agriculture, forestry, land use): **CH₄** from livestock/rice; **N₂O** from fertilisers; CO₂ from deforestation.
+79. **Transport** and **buildings** add fossil CO₂; **waste** adds landfill methane.
+80. **Argon is not a greenhouse gas.**
+81. **Fast cycle:** atmosphere ↔ plants ↔ soils ↔ surface ocean (years to decades).
+82. **Slow cycle:** rock weathering, sediment burial, fossil carbon (millions of years).
+83. **Photosynthesis** **consumes** CO₂ and releases oxygen. It does **not** add carbon dioxide to the carbon cycle on Earth.
+84. **CO₂** has **GWP = 1**. It dominates long-term forcing from fossil fuels, cement, and deforestation.
+85. **Methane (CH₄)** has GWP about **28–36**, a shorter lifetime near **12 years**, and strong links to paddies, cattle, landfills, termites, and wetlands (**marsh gas**).
+86. **Tropospheric ozone** (क्षोभमंडलीय ओजोन) is a greenhouse gas and pollutant. **Stratospheric ozone** (समतापमंडलीय ओजोन) is the UV shield.
+87. **CFCs** are both greenhouse gases and ozone-depleting substances and fall under Montreal controls.
+88. **HFCs** are greenhouse gases only (not classic ODS) and are phased down under **Kigali 2016**.
+89. **GWP** compares heat-trapping power to CO₂ over a stated horizon, usually **100 years**. Methane’s short-horizon GWP is much higher than CO₂ — CH₄ is more potent per molecule.
+90. **CO₂e** converts all greenhouse gases into carbon-dioxide equivalent using GWP.
+91. Biogas (बायोगैस) is mainly **methane plus CO₂**. Do not treat biogas as CO₂-only.
+92. Paddy fields are a classic **methane** source fact in Indian papers.
+93. CFC versus HFC is dual-role ODS+GHG versus climate-only substitute under Kigali.
+94. N₂O is not the same as N₂. Molecular nitrogen is inert as a greenhouse gas.
+95. Water vapour rises as Earth warms; that feedback amplifies warming but does not replace fossil CO₂ as the driver.
+96. F-gases (HFCs, PFCs, SF₆) are small by mass but can be huge by GWP.
+97. Cement process emissions are a major industrial CO₂ source beyond fuel combustion.
+98. Methane’s shorter lifetime still matters because near-term warming impact is strong.
+99. Ozone’s greenhouse role is mainly **tropospheric**; do not call stratospheric ozone the main GHG form.
+100. CO₂ is both **useful** (photosynthesis) and **harmful** (enhanced greenhouse effect (मानवजनित संवर्धित प्रभाव)) to life on Earth.
+101. **Livestock** enteric fermentation (cattle/buffalo) is a major Indian source.
+102. **N₂O** is a long-lived GHG with **GWP ≈ 265** (100-year) and lifetime ~**100+ years**.
+103. **Stratospheric ozone** is the UV shield — its ma role is protection, not climate forcing.
+104. **CFCs** are human-made compounds once used in refrigeration, aerosols, and foam blowing.
+105. **HFCs** replaced many CFCs/HCFCs in air-conditioning and refrigeration.
 
 ## 📊 Quick Reference Grid
 
@@ -112,309 +136,261 @@ hide:
 | India rank / Bhutan | ~3rd absolute (निरपेक्ष) / often carbon-negative |
 | Sink / sequestration | Net CO₂ absorb / storage process |
 | Blue carbon | Ocean–coastal sinks (mangroves etc.) |
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-### Table: Global Environmental Reports & Flagship Publications
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| Publication / Report | Publishing Agency | Frequency / Milestone | Core Prelims Focus Area |
-| :--- | :--- | :--- | :--- |
-| **Assessment Reports (AR1 to AR6)** | **IPCC** (Intergovernmental Panel on Climate Change) | Every 6–7 years (AR6 Synthesis: 2023) | Scientific consensus on climate change, carbon budgets, 1.5°C pathways |
-| **Emissions Gap Report** | **UNEP** (United Nations Environment Programme) | Annual | Gap between national NDC pledges and 1.5°C / 2°C temperature trajectories |
-| **Adaptation Gap Report** | **UNEP** | Annual | Assessment of global adaptation financing, planning, and implementation deficit |
-| **Global Environment Outlook (GEO)** | **UNEP** | Periodic flagship | Comprehensive state of the global environment, policy responses |
-| **Living Planet Report** | **WWF** (World Wide Fund for Nature) | Biennial | Living Planet Index tracking vertebrate population declines (~69% decline) |
-| **IUCN Red List of Threatened Species** | **IUCN** (Gland, Switzerland) | Continuous / Annual update | 9 categories: EX, EW, CR, EN, VU, NT, LC, DD, NE |
-| **Global Biodiversity Outlook (GBO)** | **CBD Secretariat** | Periodic (GBO-5 in 2020) | Progress against Aichi Biodiversity Targets / Kunming-Montreal GBF |
-| **State of the World's Forests (SOFO)** | **FAO** (Food and Agriculture Organization) | Biennial | Global forest cover, deforestation rates, agroforestry and livelihoods |
-| **World Air Quality Report** | **IQAir** | Annual | Global PM2.5 city rankings and WHO guidelines compliance |
-| **SDG India Index & Dashboard** | **NITI Aayog** | Annual | Performance of Indian States/UTs across 16 SDGs (Kerala consistently #1) |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Global Warming** | **Climate Change** | Long-term monotonic increase in Earth's average surface and tropospheric temperature driven by greenhouse gas buildup vs broad spectrum of shifting weather patterns, rising sea levels, altering precipitation, and intensifying extreme climate anomalies | भूमंडलीय तापन (ग्लोबल वार्मिंग) / जलवायु परिवर्तन |
-| **Climate Mitigation** | **Climate Adaptation** | Interventions designed to reduce greenhouse gas emissions at the source or enhance carbon sinks (renewable energy, afforestation, carbon capture) vs adjustments in natural or human systems to moderate harm, exploit beneficial opportunities, and cope with actual/expected climate impacts (flood barriers, drought-tolerant seeds) | जलवायु शमन (उत्सर्जन रोकथाम) / जलवायु अनुकूलन (सहनशीलता वृद्धि) |
-| **Natural Greenhouse Effect** | **Enhanced Greenhouse Effect** | Essential natural phenomenon keeping Earth's surface habitable at an average ~15°C (without it Earth would freeze at -18°C) vs excessive anthropogenic heat-trapping caused by fossil fuel combustion and industrial emissions driving global warming | प्राकृतिक ग्रीनहाउस प्रभाव / मानवजनित संवर्धित प्रभाव |
-| **Global Warming Potential (GWP)** | **Radiative Forcing** | Metric measuring the cumulative heat-trapping ability of 1 kg of a specific GHG over 100 years relative to CO₂ (=1.0) vs the net change in Earth's radiative energy balance (measured in Watts/m²) caused by changes in atmospheric gas concentrations | वैश्विक तापन क्षमता (GWP) / विकिरण दबाव |
-| **Carbon Sink** | **Carbon Sequestration** | Natural or artificial reservoir that absorbs and stores more carbon than it releases into the atmosphere (oceans, boreal forests, soil) vs the actual physical, biological, or chemical process of capturing and securing carbon dioxide in long-term storage | कार्बन सिंक (अवशोषक भंडार) / कार्बन पृथक्करण (भंडारण प्रक्रिया) |
-| **Carbon Credit** | **Carbon Offset** | Formal tradable permit or certificate representing the reduction or removal of 1 metric tonne of CO₂ equivalent under a compliance cap-and-trade system vs voluntary purchase of emission reduction units to neutralize an individual's or company's carbon footprint | कार्बन क्रेडिट (1 टन CO₂e प्रमाण-पत्र) / कार्बन ऑफसेट |
-| **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Top-down legally binding emission reduction targets imposed exclusively on developed nations (Annex-I) with Common But Differentiated Responsibilities vs bottom-up universal framework requiring all countries to submit voluntary Nationally Determined Contributions (NDCs) aiming to cap warming well below 2.0°C/1.5°C | क्योटो प्रोटोकॉल (बाध्यकारी/विकसित देश) / पेरिस समझौता (सार्वभौमिक NDCs) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to the **LiFE (Lifestyle for Environment)** Mission, consider the following statements:
-
-1. LiFE was launched in **June 2022**. 
-2. The idea was first proposed at **COP-25 in Madrid**. 
-
-A. 2 only 
-B. Neither 1 nor 2 
-C. Both 1 and 2 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** LiFE launch date vs COP venue where PM Modi first floated the concept.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the **LiFE (Lifestyle for Environment)** Mission, consider the following statements:<br><br>1. LiFE was launched in **June 2022**. <br>2. The idea was first proposed at **COP-25 in Madrid**.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** LiFE launch date vs COP venue where PM Modi first floated the concept.
 
 **Ans: D.** LiFE launched **June 2022**; the idea was announced at **COP-26 Glasgow (2021)**, not COP-25 Madrid.
 
-**Trap:** COP-25 Madrid is a plausible-sounding UN climate venue — the correct pitch was **Glasgow 2021**.
+**Trap:** COP-25 Madrid is a plausible-sounding UN climate venue — the correct pitch was **Glasgow 2021**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-Which of the following international agreements relates to **climate change mitigation**?
-
-A. Montreal Protocol 
-B. Ramsar Convention 
-C. Kyoto Protocol 
-D. CITES 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Treaty-family trap — Montreal controls ozone; Kyoto/Paris address greenhouse-gas mitigation.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following international agreements relates to **climate change mitigation**?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Montreal Protocol</div><div class="pyq-opt"><span class="opt-letter">B</span> Ramsar Convention</div><div class="pyq-opt"><span class="opt-letter">C</span> Kyoto Protocol</div><div class="pyq-opt"><span class="opt-letter">D</span> CITES</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Treaty-family trap — Montreal controls ozone; Kyoto/Paris address greenhouse-gas mitigation.
 
 **Ans: C.** The **Kyoto Protocol (1997)** imposed binding emission cuts on developed (Annex I) parties.
 
-**Trap:** **Montreal Protocol** is the most picked wrong answer — it phases out **ODS**, not CO₂ mitigation.
+**Trap:** **Montreal Protocol** is the most picked wrong answer — it phases out **ODS**, not CO₂ mitigation.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Coral bleaching in the **Andaman & Nicobar Islands** was primarily caused by—
-
-A. Increased coastal industrial effluents alone 
-B. About **+2°C warming** of the Indian Ocean 
-C. Heavy marine pollution alone 
-D. A **−4°C** drop in sea-surface temperature 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Climate-impact stem — thermal stress on reef symbionts drives bleaching events.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Coral bleaching in the **Andaman & Nicobar Islands** was primarily caused by—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Increased coastal industrial effluents alone</div><div class="pyq-opt"><span class="opt-letter">B</span> About **+2°C warming** of the Indian Ocean</div><div class="pyq-opt"><span class="opt-letter">C</span> Heavy marine pollution alone</div><div class="pyq-opt"><span class="opt-letter">D</span> A **−4°C** drop in sea-surface temperature</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Climate-impact stem — thermal stress on reef symbionts drives bleaching events.
 
 **Ans: B.** **+2°C Indian Ocean warming** triggered bleaching; pollution adds stress but warming is primary.
 
-**Trap:** Cooling (−4°C) would not expel zooxanthellae — bleaching follows **heat stress**.
+**Trap:** Cooling (−4°C) would not expel zooxanthellae — bleaching follows **heat stress**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-What was India's rank in the world in **greenhouse gas emissions** in 2022 (as framed in the paper)?
-
-A. 9th 
-B. 10th 
-C. 11th 
-D. 12th 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rank framing trap — paper used a 9th–12th band; absolute total-emission rank is ~3rd.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">What was India's rank in the world in **greenhouse gas emissions** in 2022 (as framed in the paper)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 9th</div><div class="pyq-opt"><span class="opt-letter">B</span> 10th</div><div class="pyq-opt"><span class="opt-letter">C</span> 11th</div><div class="pyq-opt"><span class="opt-letter">D</span> 12th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rank framing trap — paper used a 9th–12th band; absolute total-emission rank is ~3rd.
 
 **Ans: B.** The keyed answer is **10th** (performance-index style framing in the paper).
 
-**Trap:** India is ~**3rd in absolute total emissions** — do not confuse with the paper's **10th** option key.
+**Trap:** India is ~**3rd in absolute total emissions** — do not confuse with the paper's **10th** option key.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Which of the following is **NOT** a greenhouse gas?
-
-A. Argon 
-B. Methane 
-C. Carbon dioxide 
-D. Nitrous oxide 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Non-GHG noble gas trap among Kyoto-basket gases.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following is **NOT** a greenhouse gas?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Argon</div><div class="pyq-opt"><span class="opt-letter">B</span> Methane</div><div class="pyq-opt"><span class="opt-letter">C</span> Carbon dioxide</div><div class="pyq-opt"><span class="opt-letter">D</span> Nitrous oxide</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Non-GHG noble gas trap among Kyoto-basket gases.
 
 **Ans: A.** **Argon** is an inert atmospheric component and **not** a greenhouse gas.
 
-**Trap:** **Water vapour** is a natural GHG but absent here — **argon** is the keyed non-GHG distractor set.
+**Trap:** **Water vapour** is a natural GHG but absent here — **argon** is the keyed non-GHG distractor set.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-Global warming is most directly linked to an increased frequency and intensity of—
-
-A. Total solar eclipses 
-B. **Extreme weather events** such as heat waves and intense rainfall 
-C. Milankovitch ice-age cycles alone 
-D. Stratospheric ozone recovery 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Climate-impact consequence — enhanced greenhouse effect raises extreme-event probability.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Global warming is most directly linked to an increased frequency and intensity of—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Total solar eclipses</div><div class="pyq-opt"><span class="opt-letter">B</span> **Extreme weather events** such as heat waves and intense rainfall</div><div class="pyq-opt"><span class="opt-letter">C</span> Milankovitch ice-age cycles alone</div><div class="pyq-opt"><span class="opt-letter">D</span> Stratospheric ozone recovery</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Climate-impact consequence — enhanced greenhouse effect raises extreme-event probability.
 
 **Ans: B.** Warming intensifies **heat waves, droughts, floods, and cyclone rainfall** — core IPCC impact framing.
 
-**Trap:** Milankovitch cycles operate on **millennial** scales — they do not explain recent decadal extreme-weather rise.
+**Trap:** Milankovitch cycles operate on **millennial** scales — they do not explain recent decadal extreme-weather rise.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-Under the **Kyoto Protocol**, quantified emission-reduction commitments applied primarily to—
-
-A. All UN member states equally 
-B. **Annex I developed countries** 
-C. Only Least Developed Countries 
-D. Only island nations 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CBDR architecture — Kyoto bound industrialised Annex I parties, not India or other developing countries.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Under the **Kyoto Protocol**, quantified emission-reduction commitments applied primarily to—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> All UN member states equally</div><div class="pyq-opt"><span class="opt-letter">B</span> **Annex I developed countries**</div><div class="pyq-opt"><span class="opt-letter">C</span> Only Least Developed Countries</div><div class="pyq-opt"><span class="opt-letter">D</span> Only island nations</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** CBDR architecture — Kyoto bound industrialised Annex I parties, not India or other developing countries.
 
 **Ans: B.** Kyoto's binding cuts targeted **Annex I (developed) countries**; developing nations had no binding targets.
 
-**Trap:** India is a major emitter today but was **not** under Kyoto binding cuts — Paris uses voluntary NDCs instead.
+**Trap:** India is a major emitter today but was **not** under Kyoto binding cuts — Paris uses voluntary NDCs instead.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The greenhouse-effect concept was postulated by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> C.C. Park</div><div class="pyq-opt"><span class="opt-letter">B</span> Joseph Fourier</div><div class="pyq-opt"><span class="opt-letter">C</span> L. Zobler</div><div class="pyq-opt"><span class="opt-letter">D</span> Arrhenius only in 1990s</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Joseph Fourier in the **1820s**.</div>
+  </div>
+</div>
 
-**Q8.** The greenhouse-effect concept was postulated by:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">responsible for global warming?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Methane</div><div class="pyq-opt"><span class="opt-letter">B</span> Water vapour</div><div class="pyq-opt"><span class="opt-letter">C</span> Argon</div><div class="pyq-opt"><span class="opt-letter">D</span> Carbon dioxide</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Argon is **not** a greenhouse gas.</div>
+  </div>
+</div>
 
-A. C.C. Park 
-B. Joseph Fourier 
-C. L. Zobler 
-D. Arrhenius only in 1990s 
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Decreasing order of contribution commonly tested:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> CO₂ > CH₄ > CFCs > N₂O</div><div class="pyq-opt"><span class="opt-letter">B</span> CH₄ > CO₂ > CFCs > N₂O</div><div class="pyq-opt"><span class="opt-letter">C</span> CO₂ > N₂O > CH₄ > CFCs</div><div class="pyq-opt"><span class="opt-letter">D</span> CFCs > CO₂ > CH₄ > N₂O</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> WMO-style share order used in many Indian papers.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">methane and nitrous oxide is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cotton</div><div class="pyq-opt"><span class="opt-letter">B</span> Rice</div><div class="pyq-opt"><span class="opt-letter">C</span> Sugarcane</div><div class="pyq-opt"><span class="opt-letter">D</span> Wheat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Paddy anaerobic CH₄ + fertiliser N₂O.</div>
+  </div>
+</div>
 
-**Ans: B.** Joseph Fourier in the **1820s**.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Carbon fertilization best describes:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ocean acidification from CO₂</div><div class="pyq-opt"><span class="opt-letter">B</span> Increased plant growth from higher atmospheric CO₂</div><div class="pyq-opt"><span class="opt-letter">C</span> Global warming from CO₂ alone</div><div class="pyq-opt"><span class="opt-letter">D</span> Adaptation of all species to climate change</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> More photosynthesis / greening from elevated CO₂.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Without the greenhouse effect, Earth’s average surface temperature would be about:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 0°C</div><div class="pyq-opt"><span class="opt-letter">B</span> −18°C</div><div class="pyq-opt"><span class="opt-letter">C</span> 5°C</div><div class="pyq-opt"><span class="opt-letter">D</span> −20°C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Roughly **−18°C**.</div>
+  </div>
+</div>
 
-**Q9.** responsible for global warming?
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">above pre-industrial levels, which impacts are plausible?<br><br>1. Terrestrial biosphere tends toward a net carbon source <br>2. Widespread coral mortality <br>3. All global wetlands permanently disappear <br>4. Cereals cannot be cultivated anywhere</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> All four</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** +2°C already implies widespread coral mortality; +3°C adds net carbon-source risk. Absolute “all wetlands” / “no cereals anywhere” are overstated.
 
-A. Methane 
-B. Water vapour 
-C. Argon 
-D. Carbon dioxide 
+**Ans: B</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Argon is **not** a greenhouse gas.
-
-</details>
-
-**Q10.** Decreasing order of contribution commonly tested:
-
-A. CO₂ > CH₄ > CFCs > N₂O 
-B. CH₄ > CO₂ > CFCs > N₂O 
-C. CO₂ > N₂O > CH₄ > CFCs 
-D. CFCs > CO₂ > CH₄ > N₂O 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** WMO-style share order used in many Indian papers.
-
-</details>
-
-**Q11.** methane and nitrous oxide is:
-
-A. Cotton 
-B. Rice 
-C. Sugarcane 
-D. Wheat 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Paddy anaerobic CH₄ + fertiliser N₂O.
-
-</details>
-
-**Q12.** Carbon fertilization best describes:
-
-A. Ocean acidification from CO₂ 
-B. Increased plant growth from higher atmospheric CO₂ 
-C. Global warming from CO₂ alone 
-D. Adaptation of all species to climate change 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** More photosynthesis / greening from elevated CO₂.
-
-</details>
-
-**Q13.** Without the greenhouse effect, Earth’s average surface temperature would be about:
-
-A. 0°C 
-B. −18°C 
-C. 5°C 
-D. −20°C 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Roughly **−18°C**.
-
-</details>
-
-**Q14.** above pre-industrial levels, which impacts are plausible?
-
-1. Terrestrial biosphere tends toward a net carbon source 
-2. Widespread coral mortality 
-3. All global wetlands permanently disappear 
-4. Cereals cannot be cultivated anywhere 
-
-A. 1 only 
-B. 1 and 2 only 
-C. 2, 3 and 4 only 
-D. All four 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** +2°C already implies widespread coral mortality; +3°C adds net carbon-source risk. Absolute “all wetlands” / “no cereals anywhere” are overstated.
-
-**Ans: B**
-
-</details>
-
-**Q15.** Green Climate Fund was established at:
-
-A. Durban COP 
-B. Cancun COP-16 (2010) 
-C. Paris COP-21 only as first idea 
-D. Stockholm 1972 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Cancun **2010** under UNFCCC.
-
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Green Climate Fund was established at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Durban COP</div><div class="pyq-opt"><span class="opt-letter">B</span> Cancun COP-16 (2010)</div><div class="pyq-opt"><span class="opt-letter">C</span> Paris COP-21 only as first idea</div><div class="pyq-opt"><span class="opt-letter">D</span> Stockholm 1972</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cancun **2010** under UNFCCC.</div>
+  </div>
+</div>

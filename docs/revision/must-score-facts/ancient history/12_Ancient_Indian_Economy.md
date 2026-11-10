@@ -193,26 +193,6 @@ hide:
 
 ---
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Key Difference (Exam Trap) | Hindi Key |
-|---|---|---|---|
-| **Punch-Marked Coin** | **Gupta Dinara** | Earliest Indian **silver** coins (no portrait) vs classical **gold** imperial prestige currency | पंच-मार्क / दीनार |
-| **Dinara** | **Rupaka** | Gupta **gold** currency (~120–144 grains) vs Chandragupta II **silver** coin (~33 grains) | दीनार / रूपक |
-| **Nishka** | **Karshapana** | Vedic gold **bullion unit / neck ornament** vs minted 6th c. BCE **punch-marked coin** | निष्क / कार्षापण |
-| **Shreni** | **Manigrama** | Autonomous guild of **single craft/trade** vs specialized **foreign/overseas merchant guild** | श्रेणी / मणिग्राम |
-| **Nanadesi** | **Manigrama** | Guild of merchants from **many regions** vs overseas ocean-going **Manigrama** | नानादेशी / मणिग्राम |
-| **Lothal** | **Muziris** | Bronze Age Harappan **dockyard** (Gujarat) vs Sangam-Roman **pepper emporium** (Kerala) | लोथल / मुज़िरिस |
-| **Barygaza** | **Barbarikon** | **Broach** at Narmada mouth (Gujarat) vs **Indus mouth port** in Sindh | भरूच / बारबारिकोन |
-| **Tamralipti** | **Barygaza** | Supreme **east-coast** Bay of Bengal gateway vs supreme **west-coast** Arabian Sea entrepôt | ताम्रलिप्ति / भृगुकच्छ |
-| **Uttarapatha** | **Dakshinapatha** | NW to Bengal overland arterial highway vs North to **Deccan** overland arterial highway | उत्तरापथ / दक्षिणापथ |
-| **Port** | **Entrepôt** | Simple coastal landing jetty vs massive **warehousing & redistribution hub** | साधारण पत्तन / एंट्रेपो |
-| **Urban** | **Pastoral** | Indus Valley Civilization (2020 key) vs **Rigvedic society** | नगरीय / पशुपालक |
-| **Udranga** | **Uparikara** | Tax on **permanent/resident** tenants vs tax on **temporary/extra** cultivators | उद्रंग / उपरिकर |
-| **Hiranya** | **Dhanya** | Tax collected in **cash/gold** vs tax collected in **kind/grain** | हिरण्य / धान्य |
-
----
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The Coin Evolution Spine: "P-I-K-G"
@@ -239,285 +219,262 @@ hide:
 
 ---
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Consider the following statements with reference to early trade:
-
-1. There are references of numerous river-ports in ancient India.
-2. There were large entrepots of goods and traffic.
-
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both 1 and 2 are correct. Ancient literary sources (Jatakas, Arthashastra, Periplus) and archaeological excavations confirm numerous riverine landing ports (*nadi-pattana*) along the Ganga, Yamuna, Narmada, and Godavari, as well as major inland entrepôts (*bhandagaras* / redistribution centers) like Pataliputra, Ujjain, Varanasi, and Kaushambi.
-
-</details>
-
-**Q2.** With reference to Chandragupta-II, which of the following statements is/are correct?
-
-1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.
-2. The weight of these coins used to be about 33 grains.
-
-A. Neither 1 nor 2
-B. Both 1 and 2
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both 1 and 2 are correct. Chandragupta II Vikramaditya issued silver coins (*rupaka*) closely modeled on the Western Shaka Kshatrapa silver drachms (~33 grains) to commemorate his conquest of Gujarat and Saurashtra. Gold dinaras (~120–144 grains) are the classic exam distractor.
-
-</details>
-
-**Q3.** From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
-
-A. Dholavira and Bhagatrav
-B. Harappa and Kot Diji
-C. Mohenjo-daro and Lothal
-D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Terracotta boat models and representations on seals have been excavated from **Mohenjo-daro** (seal with boat and mast) and **Lothal** (terracotta boat models with provision for oars and masts). Lothal also possesses the world's earliest artificial tidal dockyard.
-
-</details>
-
-**Q4.** Match List-I with List-II:
-
-| List-I (Society / Era) | List-II (Economic Character) |
-|---|---|
-| A. Indus Valley Civilization | 1. Pastoral |
-| B. Later Vedic Society | 2. Land Lordism / Feudalism |
-| C. Rigvedic Society | 3. Agrarian |
-| D. Medieval Period | 4. Urban |
-
-Codes: A B C D
-
-A. 4 2 3 1
-B. 2 1 4 3
-C. 3 4 1 2
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (4-3-1-2).** Indus Valley = Urban (bronze age city crafts & trade); Later Vedic = Agrarian (settled agriculture, iron ploughshares, PGW); Rigvedic = Pastoral (cattle-rearing, voluntary *bali*); Medieval = Landlordism (feudal agrarian estates, jagirs).
-
-</details>
-
-**Q5.** Which of the following institutions belonged to foreign trade?
-
-A. Śreni
-B. Nagaram
-C. Nānādesis
-D. Manigrama
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Manigrama (मणिग्रामम) was an influential guild of South Indian merchants specifically engaged in maritime and trans-oceanic foreign trade, active from the Pallava-Chola era across Southeast Asia (confirmed by the 9th-century Takua Pa inscription in Thailand).
-
-</details>
-
-**Q6.** With reference to the economy-type ladder, which of the following statements is/are correct?
-
-1. Vedic nishka is a minted punch-marked silver coin.
-2. Indus = Pastoral; Rigvedic = Urban; Later Vedic = Agrarian; medieval slot = landlordism.
-3. The Indus uses weights and seals but has no coins.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 3 is correct. Statement 1 is false: Vedic *nishka* was a gold bullion unit or neck ornament, not a minted coin. Statement 2 is false: Indus was Urban, Rigvedic was Pastoral, and Later Vedic was Agrarian.
-
-</details>
-
-**Q7.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Coin Stage) | List-II (Key Numismatic Feature) |
-|---|---|
-| 1. Punch-marked silver | A. First portrait die-struck coins |
-| 2. Indo-Greek | B. First coins (~6th c. BCE); *karshapana / pana* |
-| 3. Kushan (Vima Kadphises) | C. Gold coinage becomes regular and common |
-| 4. Gupta dinara | D. High-prestige gold (~120–144 grains) |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-B, 2-C, 3-A, 4-D
-D. 1-D, 2-A, 3-C, 4-B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1-B, 2-A, 3-C, 4-D. Punch-marked silver are earliest (~6th c. BCE); Indo-Greeks introduced die-struck portraits; Kushanas under Vima Kadphises issued the first regular high-purity gold standard; Guptas issued imperial prestige dinaras.
-
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Chandragupta II’s Shaka-victory proof is silver rupaka coins of about 33 grains.  
-**Reason (R):** The Western Kshatrapas had a well-established silver coinage circulating in Malwa and Gujarat, which Chandragupta II continued after vanquishing them.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A). Because the local population in the conquered Western Kshatrapa territories was accustomed to silver drachms, Chandragupta II minted the first Gupta silver coins conforming to the Kshatrapa weight standard (~33 grains).
-
-</details>
-
-**Q9.** Arrange the following coin stages in chronological order:
-
-1. Gupta dinara
-2. Punch-marked silver
-3. Indo-Greek portraits
-4. Kushan regular gold
-
-Select the correct answer from the code given below:
-
-A. 2–4–3–1
-B. 2–3–4–1
-C. 3–2–4–1
-D. 2–3–1–4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 2 (Punch-marked, c. 6th c. BCE) → 3 (Indo-Greek, c. 2nd c. BCE) → 4 (Kushan gold, c. 1st c. CE) → 1 (Gupta dinara, c. 4th c. CE).
-
-</details>
-
-**Q10.** Which one of the following pairs is NOT correctly matched?
-
-A. Shreni — general craft or trade guild headed by a shreshthin
-B. Manigrama — foreign / overseas trade institution
-C. Nanadesi — merchant guild operating across varied regions
-D. Sarthavaha — permanently settled urban banker guild
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Sarthavaha was the leader/caravan conductor of mobile caravan merchants (*sartha*), NOT a permanently settled urban banker. Settled bankers/guild heads were called *Shreshthin* or *Nagara-sreshthi*.
-
-</details>
-
-**Q11.** With reference to ports in the *Periplus of the Erythraean Sea*, which of the following statements is/are correct?
-
-1. Barygaza is Broach at the Narmada mouth; Barbarikon is the Indus-mouth port.
-2. Tamralipti at the Ganga mouth faces the Bay of Bengal.
-3. Muziris (Muchiri) on the Malabar is the primary Roman pepper port.
-
-Select the correct answer from the code given below:
-
-A. All 1, 2 and 3
-B. Only 2 and 3
-C. Only 1
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three statements are correct and form key geographic markers in ancient Indian maritime trade.
-
-</details>
-
-**Q12.** Consider the following statements about inland trade routes:
-
-1. Uttarapatha ran from Taxila through Mathura and Kaushambi towards Pataliputra and Tamralipti.
-2. Dakshinapatha was an overland commercial highway connecting the Ganga plains through Ujjain with Pratishthana and the Deccan.
-3. Dakshinapatha was purely a maritime coastal shipping route along the Coromandel coast.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. 2 and 3
-C. Only 1
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1 and 2 are correct. Statement 3 is false because Dakshinapatha was primarily an overland arterial highway system traversing central India into the Deccan.
-
-</details>
-
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** The earliest royal portrait coins in India were introduced by the Indo-Greeks.  
-**Reason (R):** Punch-marked coins of the Mahajanapadas and Mauryas carried geometric and floral symbols without kings' names or portraits.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the causal explanation of (A); the introduction of portraits was an adoption of Hellenistic minting techniques by Bactrian Greek rulers.
-
-</details>
-
-**Q14.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Port / Trading Center) | List-II (Key Historical / Trade Landmark) |
-|---|---|
-| 1. Lothal | A. *Periplus* Poduke; Roman amphorae and Arretine ware |
-| 2. Arikamedu | B. Earliest tidal dockyard and bead factories |
-| 3. Puhar / Kaveripattinam | C. Sangam Chola premier port at the mouth of the Kaveri |
-| 4. Uraiyur | D. Sangam Chola inland capital celebrated for cotton textiles |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-B, 2-C, 3-A, 4-D
-D. 1-D, 2-A, 3-C, 4-B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1-B, 2-A, 3-C, 4-D.
-
-</details>
-
-**Q15.** With reference to Indo-Roman maritime commerce, which of the following statements is/are correct?
-
-1. Roman trade reached its zenith between the 1st century BCE and the 2nd century CE.
-2. Pliny the Elder in his *Natural History* lamented the huge drain of Roman gold bullion (*denarii* and *aurei*) to India in exchange for luxury goods.
-3. Tamralipti on the east coast was the main port for the Roman pepper trade.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2 are correct. Statement 3 is false because the Roman pepper trade was overwhelmingly concentrated along the Malabar and Konkan coasts of western India (Muziris, Nelcynda, and Barygaza), whereas Tamralipti faced east toward Southeast Asia and Sri Lanka.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with reference to early trade:<br><br>1. There are references of numerous river-ports in ancient India.<br>2. There were large entrepots of goods and traffic.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct. Ancient literary sources (Jatakas, Arthashastra, Periplus) and archaeological excavations confirm numerous riverine landing ports (*nadi-pattana*) along the Ganga, Yamuna, Narmada, and Godavari, as well as major inland entrepôts (*bhandagaras* / redistribution centers) like Pataliputra, Ujjain, Varanasi, and Kaushambi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to Chandragupta-II, which of the following statements is/are correct?<br><br>1. The strongest evidence in the context of Shaka Victory is the silver coins of this king.<br>2. The weight of these coins used to be about 33 grains.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct. Chandragupta II Vikramaditya issued silver coins (*rupaka*) closely modeled on the Western Shaka Kshatrapa silver drachms (~33 grains) to commemorate his conquest of Gujarat and Saurashtra. Gold dinaras (~120–144 grains) are the classic exam distractor.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">From which archaeological site of the Indus Valley Civilization are figures or models of boats found?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dholavira and Bhagatrav</div><div class="pyq-opt"><span class="opt-letter">B</span> Harappa and Kot Diji</div><div class="pyq-opt"><span class="opt-letter">C</span> Mohenjo-daro and Lothal</div><div class="pyq-opt"><span class="opt-letter">D</span> Kalibangan and Ropar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Terracotta boat models and representations on seals have been excavated from **Mohenjo-daro** (seal with boat and mast) and **Lothal** (terracotta boat models with provision for oars and masts). Lothal also possesses the world's earliest artificial tidal dockyard.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Society / Era)</th><th>List-II (Economic Character)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Indus Valley Civilization</td><td><span class="match-key">1</span> Pastoral</td></tr>
+      <tr><td><span class="match-key">B</span> Later Vedic Society</td><td><span class="match-key">2</span> Land Lordism / Feudalism</td></tr>
+      <tr><td><span class="match-key">C</span> Rigvedic Society</td><td><span class="match-key">3</span> Agrarian</td></tr>
+      <tr><td><span class="match-key">D</span> Medieval Period</td><td><span class="match-key">4</span> Urban</td></tr>
+  </tbody>
+</table><br>Codes: A B C D</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 2 3 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 3 1 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (4-3-1-2).** Indus Valley = Urban (bronze age city crafts & trade); Later Vedic = Agrarian (settled agriculture, iron ploughshares, PGW); Rigvedic = Pastoral (cattle-rearing, voluntary *bali*); Medieval = Landlordism (feudal agrarian estates, jagirs).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following institutions belonged to foreign trade?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Śreni</div><div class="pyq-opt"><span class="opt-letter">B</span> Nagaram</div><div class="pyq-opt"><span class="opt-letter">C</span> Nānādesis</div><div class="pyq-opt"><span class="opt-letter">D</span> Manigrama</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Manigrama (मणिग्रामम) was an influential guild of South Indian merchants specifically engaged in maritime and trans-oceanic foreign trade, active from the Pallava-Chola era across Southeast Asia (confirmed by the 9th-century Takua Pa inscription in Thailand).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the economy-type ladder, which of the following statements is/are correct?<br><br>1. Vedic nishka is a minted punch-marked silver coin.<br>2. Indus = Pastoral; Rigvedic = Urban; Later Vedic = Agrarian; medieval slot = landlordism.<br>3. The Indus uses weights and seals but has no coins.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct. Statement 1 is false: Vedic *nishka* was a gold bullion unit or neck ornament, not a minted coin. Statement 2 is false: Indus was Urban, Rigvedic was Pastoral, and Later Vedic was Agrarian.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Coin Stage)</th><th>List-II (Key Numismatic Feature)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Punch-marked silver</td><td><span class="match-key">A</span> First portrait die-struck coins</td></tr>
+      <tr><td><span class="match-key">2</span> Indo-Greek</td><td><span class="match-key">B</span> First coins (~6th c. BCE); *karshapana / pana*</td></tr>
+      <tr><td><span class="match-key">3</span> Kushan (Vima Kadphises)</td><td><span class="match-key">C</span> Gold coinage becomes regular and common</td></tr>
+      <tr><td><span class="match-key">4</span> Gupta dinara</td><td><span class="match-key">D</span> High-prestige gold (~120–144 grains)</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-C, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-C, 4-B</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1-B, 2-A, 3-C, 4-D. Punch-marked silver are earliest (~6th c. BCE); Indo-Greeks introduced die-struck portraits; Kushanas under Vima Kadphises issued the first regular high-purity gold standard; Guptas issued imperial prestige dinaras.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Chandragupta II’s Shaka-victory proof is silver rupaka coins of about 33 grains.  <br>**Reason (R):** The Western Kshatrapas had a well-established silver coinage circulating in Malwa and Gujarat, which Chandragupta II continued after vanquishing them.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true and (R) is the correct explanation of (A). Because the local population in the conquered Western Kshatrapa territories was accustomed to silver drachms, Chandragupta II minted the first Gupta silver coins conforming to the Kshatrapa weight standard (~33 grains).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Arrange the following coin stages in chronological order:<br><br>1. Gupta dinara<br>2. Punch-marked silver<br>3. Indo-Greek portraits<br>4. Kushan regular gold<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–4–3–1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–3–4–1</div><div class="pyq-opt"><span class="opt-letter">C</span> 3–2–4–1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–3–1–4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 (Punch-marked, c. 6th c. BCE) → 3 (Indo-Greek, c. 2nd c. BCE) → 4 (Kushan gold, c. 1st c. CE) → 1 (Gupta dinara, c. 4th c. CE).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shreni — general craft or trade guild headed by a shreshthin</div><div class="pyq-opt"><span class="opt-letter">B</span> Manigrama — foreign / overseas trade institution</div><div class="pyq-opt"><span class="opt-letter">C</span> Nanadesi — merchant guild operating across varied regions</div><div class="pyq-opt"><span class="opt-letter">D</span> Sarthavaha — permanently settled urban banker guild</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sarthavaha was the leader/caravan conductor of mobile caravan merchants (*sartha*), NOT a permanently settled urban banker. Settled bankers/guild heads were called *Shreshthin* or *Nagara-sreshthi*.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to ports in the *Periplus of the Erythraean Sea*, which of the following statements is/are correct?<br><br>1. Barygaza is Broach at the Narmada mouth; Barbarikon is the Indus-mouth port.<br>2. Tamralipti at the Ganga mouth faces the Bay of Bengal.<br>3. Muziris (Muchiri) on the Malabar is the primary Roman pepper port.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct and form key geographic markers in ancient Indian maritime trade.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about inland trade routes:<br><br>1. Uttarapatha ran from Taxila through Mathura and Kaushambi towards Pataliputra and Tamralipti.<br>2. Dakshinapatha was an overland commercial highway connecting the Ganga plains through Ujjain with Pratishthana and the Deccan.<br>3. Dakshinapatha was purely a maritime coastal shipping route along the Coromandel coast.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 are correct. Statement 3 is false because Dakshinapatha was primarily an overland arterial highway system traversing central India into the Deccan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** The earliest royal portrait coins in India were introduced by the Indo-Greeks.  <br>**Reason (R):** Punch-marked coins of the Mahajanapadas and Mauryas carried geometric and floral symbols without kings' names or portraits.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is not the causal explanation of (A); the introduction of portraits was an adoption of Hellenistic minting techniques by Bactrian Greek rulers.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Port / Trading Center)</th><th>List-II (Key Historical / Trade Landmark)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Lothal</td><td><span class="match-key">A</span> *Periplus* Poduke; Roman amphorae and Arretine ware</td></tr>
+      <tr><td><span class="match-key">2</span> Arikamedu</td><td><span class="match-key">B</span> Earliest tidal dockyard and bead factories</td></tr>
+      <tr><td><span class="match-key">3</span> Puhar / Kaveripattinam</td><td><span class="match-key">C</span> Sangam Chola premier port at the mouth of the Kaveri</td></tr>
+      <tr><td><span class="match-key">4</span> Uraiyur</td><td><span class="match-key">D</span> Sangam Chola inland capital celebrated for cotton textiles</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-C, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-C, 4-B</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1-B, 2-A, 3-C, 4-D.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to Indo-Roman maritime commerce, which of the following statements is/are correct?<br><br>1. Roman trade reached its zenith between the 1st century BCE and the 2nd century CE.<br>2. Pliny the Elder in his *Natural History* lamented the huge drain of Roman gold bullion (*denarii* and *aurei*) to India in exchange for luxury goods.<br>3. Tamralipti on the east coast was the main port for the Roman pepper trade.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 are correct. Statement 3 is false because the Roman pepper trade was overwhelmingly concentrated along the Malabar and Konkan coasts of western India (Muziris, Nelcynda, and Barygaza), whereas Tamralipti faced east toward Southeast Asia and Sri Lanka.</div>
+  </div>
+</div>

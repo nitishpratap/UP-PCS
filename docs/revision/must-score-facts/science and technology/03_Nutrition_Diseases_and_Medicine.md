@@ -69,6 +69,16 @@ hide:
 48. **Vaccine Platforms**: **Inactivated / Killed Vaccines**: Pathogen destroyed by heat or chemical formalin (e.g., Covaxin, Salk Polio vaccine, Rabies vaccine); **Live Attenuated Vaccines**: Weakened living pathogen inducing strong lifelong immunity (e.g., BCG, MMR, Sabin Oral Polio vaccine, Yellow Fever vaccine); **Subunit / Recombinant Vaccines**: Specific antigenic fragments (e.g., Hepatitis B recombinant surface antigen, Corbevax); **mRNA Vaccines**: Synthetic mRNA in lipid nanoparticles (e.g., Pfizer-BioNTech, Moderna); **DNA Vaccines**: Plasmid DNA encoding viral antigen (e.g., ZyCoV-D, world's first needle-free plasmid DNA vaccine).
 49. **Landmark Clinical Diagnostic Tests**: **ELISA (Enzyme-Linked Immunosorbent Assay)** and **Western Blot**: Standard screening and confirmatory tests for HIV / AIDS antibodies; **Widal Test**: Diagnostic agglutination test for Typhoid fever; **Mantoux Test / Tuberculin Skin Test**: Diagnostic delayed hypersensitivity test for Tuberculosis exposure; **Schick Test**: Susceptibility test for Diphtheria; **Biopsy / Histopathology**: Gold-standard definitive diagnostic test for cancer malignancy; **Amniocentesis**: Prenatal testing of amniotic fluid for fetal chromosomal abnormalities (e.g., Down syndrome), strictly regulated in India under the PCPNDT Act to prevent female foeticide.
 50. **Clinical Diagnostic Instruments**: **Electrocardiogram (ECG)**: Graphical recording of cardiac electrical conduction; **Electroencephalogram (EEG)**: Recording of cerebral cortex neuroelectrical activity (diagnoses epilepsy, coma, brain death); **Electromyogram (EMG)**: Recording of skeletal muscle and peripheral nerve electrical potential; **Endoscopy**: Uses flexible fiber-optic bundles applying **Total Internal Reflection** to inspect hollow internal viscera (stomach, duodenum).
+51. **Vitamins Classification & Solubilities:** Term 'Vitamine' coined by Polish biochemist **Casimir Funk (1912)**; organic micronutrients essential in trace amounts; classified into: (1) **Fat-Soluble Vitamins:** **A, D, E, K** (stored in liver and adipose tissue; excess can cause hypervitaminosis); (2) **Water-Soluble Vitamins:** **B-Complex and Vitamin C** (excreted in urine; require daily dietary replenishment; destroyed by heat/cooking).
+52. **Vitamin A (Retinol):** Precursor is beta-carotene (yellow/orange fruits, carrots, golden rice); component of visual pigment **Rhodopsin** in rod cells of retina; deficiency causes **Nyctalopia (Night Blindness)** and **Xerophthalmia** (dry keratinized cornea leading to irreversible blindness); Bitot's spots.
+53. **Vitamin B-Complex Spectrum:** (1) **B1 (Thiamine):** Deficiency causes **Beriberi** (wet beriberi affects heart, dry beriberi affects nervous system); common in populations consuming polished/milled white rice; (2) **B2 (Riboflavin):** Yellow enzyme cofactor (FMN/FAD); deficiency causes **Cheilosis** (cracking at corners of mouth), glossitis (red tongue), and photophobia; (3) **B3 (Niacin / Nicotinic acid):** Deficiency causes **Pellagra** (characterized by the **4Ds: Dermatitis, Diarrhea, Dementia, and Death**); common in maize-staple diets.
+54. **Vitamin B-Complex Spectrum (Continued):** (4) **B5 (Pantothenic Acid):** Part of Coenzyme A; deficiency causes 'Burning Feet Syndrome'; (5) **B6 (Pyridoxine):** Essential for amino acid metabolism and neurotransmitter synthesis; deficiency causes peripheral neuropathy and convulsions in infants; (6) **B7 / H (Biotin):** Sulphur-containing; egg white contains *Avidin* which binds biotin preventing absorption; (7) **B9 (Folic Acid):** Deficiency causes **Megaloblastic Anemia** and fetal **Neural Tube Defects (Spina Bifida)** during pregnancy; (8) **B12 (Cyanocobalamin):** Only vitamin containing a metal ion (**Cobalt**); synthesized only by intestinal microbes (absent in plant foods); absorbed with gastric **Intrinsic Factor of Castle**; deficiency causes **Pernicious Anemia** (destruction of gastric parietal cells) and spinal cord degeneration.
+55. **Vitamin C (Ascorbic Acid):** Strong water-soluble antioxidant; essential for **Collagen synthesis**, wound healing, and non-heme iron absorption; heat-labile (destroyed by boiling); richest natural sources: **Aonla (Indian Gooseberry)**, Guava, Citrus fruits (lemons, oranges); deficiency causes **Scurvy** (bleeding gums, skin petechiae, delayed wound healing, loose teeth).
+56. **Vitamin D (Calciferol) & Vitamin E & K:** (1) **Vitamin D (Cholecalciferol):** 'Sunshine Vitamin'; synthesized in skin from 7-dehydrocholesterol by solar UV-B radiation; functions as a hormone regulating calcium and phosphate absorption; deficiency causes **Rickets** in children (bowed legs, pigeon chest) and **Osteomalacia** in adults (soft brittle bones); (2) **Vitamin E (Tocopherol):** 'Beauty Vitamin' / Anti-sterility vitamin; potent lipid antioxidant protecting cell membranes; deficiency causes hemolytic anemia and infertility; (3) **Vitamin K (Phylloquinone / Menaquinone):** Essential for hepatic synthesis of blood clotting factors **II (Prothrombin), VII, IX, and X**; deficiency causes delayed blood coagulation and hemorrhagic disease.
+57. **Major Bacterial Diseases in Humans:** (1) **Tuberculosis (TB):** *Mycobacterium tuberculosis*; acid-fast bacillus discovered by **Robert Koch (1882)**; airborne; Mantoux test diagnostic; BCG vaccine preventive; (2) **Cholera:** *Vibrio cholerae*; waterborne comma-shaped bacterium; profuse 'rice-water stools'; dehydration treated with ORS; (3) **Typhoid:** *Salmonella typhi*; transmitted via contaminated food/water; affects Peyer's patches of intestine; diagnosed by **Widal Test**; (4) **Tetanus ('Lockjaw'):** *Clostridium tetani*; anaerobic spore-former in soil; produces neurotoxin *tetanospasmin*; prevented by ATS / Tetanus toxoid vaccine; (5) **Diphtheria:** *Corynebacterium diphtheriae*; greyish pseudomembrane over throat; **Schick Test** diagnostic; part of DPT triple vaccine.
+58. **Major Viral Diseases in Humans:** (1) **Poliomyelitis:** Enterovirus; destroys anterior horn motor neurons of spinal cord causing infantile flaccid paralysis; injectable killed Salk vaccine (1955) and oral live Sabin vaccine (1961); India declared polio-free by WHO in 2014; (2) **Rabies (Hydrophobia):** Rhabdovirus; bullet-shaped negative-strand RNA; transmitted via bite of rabid animals (dogs, bats); fatal acute encephalomyelitis; Louis Pasteur developed rabies vaccine; (3) **Hepatitis:** Viral inflammation of liver; Hepatitis A & E waterborne (fecal-oral route); Hepatitis B & C blood-borne and sexually transmitted (Hepatitis B has recombinant DNA vaccine); (4) **Dengue Fever ('Breakbone Fever'):** Flavivirus transmitted by daytime-biting female **Aedes aegypti** mosquito; causes acute drop in blood platelet count (thrombocytopenia); (5) **Chikungunya & Zika:** Also transmitted by *Aedes aegypti* mosquito.
+59. **Protozoan & Helminthic Infections:** (1) **Malaria:** Caused by protozoan parasite **Plasmodium** (*P. vivax, P. falciparum* [deadliest, causes cerebral malaria], *P. malariae, P. ovale*); life cycle elucidated by **Sir Ronald Ross (1897)** at Begumpet, Hyderabad (awarded Nobel Prize 1902); vector is female **Anopheles** mosquito; parasite infects human liver cells (*sporozoites*) and RBCs (*merozoites*); rupture of RBCs releases toxic pigment **Haemozoin** causing cyclic chills and high fever; treated with **Quinine** (extracted from bark of *Cinchona* tree) and Artemisinin; (2) **Kala-Azar (Visceral Leishmaniasis / 'Black Fever'):** Caused by *Leishmania donovani*; vector is the **Sandfly (Phlebotomus)**; causes enlargement of spleen (splenomegaly), liver, and severe anemia; (3) **Amoebiasis / Amoebic Dysentery:** *Entamoeba histolytica*; infects large intestine; cysts passed in stool; (4) **Filariasis / Elephantiasis:** Helminthic roundworm *Wuchereria bancrofti*; transmitted by **Culex mosquito**; blocks lymphatic vessels causing grotesque swelling of lower limbs and scrotum.
+60. **Antibiotics & Diagnostic Tests Master Key:** **Penicillin:** First commercial antibiotic discovered accidentally by **Alexander Fleming (1928)** from fungus *Penicillium notatum*; **Diagnostic Tests:** (1) Widal Test -> Typhoid; (2) Mantoux Test -> Tuberculosis; (3) ELISA & Western Blot -> HIV/AIDS; (4) Schick Test -> Diphtheria; (5) Dick Test -> Scarlet Fever; (6) VDRL / Wassermann Test -> Syphilis; (7) Biopsy -> Cancer diagnosis.
 
 ## ⏱️ Timeline / Chronology
 
@@ -185,21 +195,6 @@ hide:
 | **Phosphorus-32 ($^{32}P$)** | Treatment of **Leukemia & Polycythemia vera** | Beta emitter; incorporated into active nucleic acids |
 | **Sodium-24 ($^{24}Na$)** | Detection of **Blood clots & vascular circulation** | Beta/gamma emitter tracer injected into circulation |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Kwashiorkor** | **Marasmus** | **Kwashiorkor** is caused by protein deficiency despite adequate calories; presents with **edema (swollen belly/limbs)**. **Marasmus** is caused by severe deficiency of BOTH protein and calories; presents with **no edema**, dry skin, and extreme emaciation. | क्वाशियोरकोर = केवल प्रोटीन की कमी + सूजन (Edema); मेरास्मस = प्रोटीन व कैलोरी दोनों की कमी + कोई सूजन नहीं |
-| **Fat-Soluble Vitamins** | **Water-Soluble Vitamins** | Fat-soluble vitamins (**A, D, E, K**) are stored in adipose tissue and liver; excessive intake causes hypervitaminosis. Water-soluble vitamins (**B-complex and C**) are NOT stored (except B12 in liver) and must be supplied daily. | वसा में घुलनशील = A, D, E, K; जल में घुलनशील = B-Complex तथा C |
-| **Night Blindness (Nyctalopia)**| **Rickets** | **Night blindness** is caused strictly by Vitamin **A** deficiency (rhodopsin failure). **Rickets** is caused strictly by Vitamin **D** and Calcium deficiency. | रतौंधी = विटामिन A; रिकेट्स = विटामिन D |
-| **Beriberi** | **Pellagra** | **Beriberi** is caused by Vitamin **B1 (Thiamine)** deficiency. **Pellagra** is caused by Vitamin **B3 (Niacin)** deficiency and characterized by the 4 Ds (Dermatitis, Diarrhea, Dementia, Death). | बेरी-बेरी = विटामिन B1; पेलाग्रा = विटामिन B3 |
-| **Minamata Disease** | **Itai-Itai Disease** | **Minamata** is caused strictly by **Methyl Mercury ($CH_3Hg$)** poisoning. **Itai-Itai** is caused strictly by **Cadmium ($Cd$)** poisoning. | मिनामाता = पारा (Mercury); इटाई-इटाई = कैडमियम (Cadmium) |
-| **Blue Baby Syndrome** | **Dental Fluorosis** | **Blue Baby Syndrome** is caused by excessive **Nitrates** in drinking water. **Fluorosis** is caused by excessive **Fluoride** ($>1.5	ext{ ppm}$). | ब्लू बेबी = नाइट्रेट ($NO_3^-$); फ्लोरोसिस = फ्लोराइड ($F^-$) |
-| **Malaria Vector** | **Dengue / Chikungunya Vector**| Malaria is transmitted exclusively by the **female *Anopheles* mosquito** (night-biter). Dengue, Chikungunya, and Zika are transmitted by the **female *Aedes aegypti* mosquito** (day-biter). | मलेरिया = मादा एनोफिलीज़; डेंगू व चिकनगुनिया = मादा एडीज़ एजिप्टी |
-| **Widal Test** | **Mantoux Test** | **Widal test** is the agglutination test for **Typhoid**. **Mantoux test** is the intradermal tuberculin skin test for **Tuberculosis**. | विडाल परीक्षण = टाइफाइड; मोंटू परीक्षण = क्षयरोग (TB) |
-| **Diabetes Mellitus** | **Diabetes Insipidus** | **Diabetes mellitus** is caused by deficiency/resistance of **Insulin** (elevated blood glucose). **Diabetes insipidus** is caused by deficiency of **Antidiuretic Hormone (ADH / Vasopressin)** (profuse watery urination, normal glucose). | डाइबिटीज मेलिटस = इंसुलिन (ग्लूकोज); डाइबिटीज इन्सिपिडस = एडीएच हार्मोन (जल संतुलन) |
-| **Vitamin B12 Plant Myth** | **Animal Dietary Source** | Vitamin B12 (**Cyanocobalamin**) contains metallic **Cobalt** and is synthesized strictly by bacteria; it is **completely absent from ordinary plant foods** (vegetables, fruits, cereals). Strict vegans must supplement. | विटामिन B12 में कोबाल्ट धातु होती है; यह वनस्पति खाद्य पदार्थों में अनुपस्थित होता है |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Fat-Soluble Vitamins: **K-E-D-A**
@@ -232,264 +227,272 @@ hide:
 - **Aedes** $	o$ **Dengue, Chikungunya, Yellow Fever, Zika** (Flaviviruses)
 - **Culex** $	o$ **Filariasis** (Elephantiasis) & Japanese Encephalitis
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to nutritional vitamins, which of the following statements is/are correct?
-1. Vitamin B12 contains the trace element cobalt and can be stored in the human liver for several years.
-2. Vitamin C is extremely heat-stable and is not destroyed by prolonged boiling.
-3. Ergocalciferol ($D_2$) and Cholecalciferol ($D_3$) are fat-soluble forms of Vitamin D.
-
-Select the correct answer from the code given below:  
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement 1 is correct: Vitamin B12 (Cyanocobalamin) contains cobalt; uniquely among water-soluble vitamins, it is stored in the liver for 3–5 years.
-
-**Ans: B.** 1 and 3 only
-</details>
-
-**Q2.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-Assertion (A): Consumption of polished rice as a dietary staple frequently leads to the development of Beriberi.  
-Reason (R): Mechanical polishing of rice removes the outer aleurone layer and embryo, which are rich in Vitamin B1 (Thiamine).  
-
-Select the correct answer from the code given below:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Both statements are true and R provides the exact causal biochemical explanation: the outer bran and aleurone layer contain the majority of thiamine in the rice grain.
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q3.**
-
-Match List-I with List-II:
-
-| List-I (Syndrome / Disease) | List-II (Specific Environmental Toxin / Defect) |
-|---|---|
-| A. Minamata Disease | 1. Excessive Nitrate ($NO_3^-$) in drinking water |
-| B. Itai-Itai Disease | 2. Organic Methyl Mercury ($Hg$) poisoning |
-| C. Blue Baby Syndrome | 3. Cadmium ($Cd$) water contamination |
-| D. Blackfoot Disease | 4. Chronic Arsenic ($As$) exposure |
-
-Select the correct answer from the code given below:  
-A. A-2, B-3, C-1, D-4  
-B. A-3, B-2, C-1, D-4  
-C. A-2, B-1, C-3, D-4  
-D. A-4, B-3, C-1, D-2  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Minamata = Methyl Mercury (A-2).
-
-**Ans: A.** A-2, B-3, C-1, D-4
-</details>
-
-**Q4.**
-
-Which of the following diagnostic tests is specifically employed for the confirmation of Typhoid fever?
-A. Mantoux test  
-B. Widal test  
-C. Schick test  
-D. Western blot  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Widal test detects agglutinating antibodies against Salmonella typhi.
-
-**Ans: B.** Widal test
-</details>
-
-**Q5.**
-
-Pellagra, characterized by the clinical triad of dermatitis, diarrhoea, and dementia, is caused by the dietary deficiency of:
-A. Thiamine (B1)  
-B. Riboflavin (B2)  
-C. Niacin (B3)  
-D. Pyridoxine (B6)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Pellagra is caused by deficiency of Vitamin B3 (Niacin / Nicotinic acid), common in populations eating maize-dominated diets lacking tryptophan.
-
-**Ans: C.** Niacin / B3
-</details>
-
-**Q6.**
-
-In which of the following diseases is blood platelet count (thrombocyte count) characteristically depleted rapidly?
-A. Malaria  
-B. Dengue  
-C. Tuberculosis  
-D. Filariasis  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Dengue.
-
-**Ans: B.** Dengue
-</details>
-
-**Q7.**
-
-Which of the following is an autoimmune disorder characterized by destruction of pancreatic $\beta$-cells?
-A. Diabetes Insipidus  
-B. Diabetes Mellitus Type 1  
-C. Diabetes Mellitus Type 2  
-D. Gestational Diabetes  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Type 1 Diabetes Mellitus is an autoimmune condition where T-lymphocytes destroy the insulin-producing $\beta$-cells of the Islets of Langerhans.
-
-**Ans: B.** Diabetes Mellitus Type 1
-</details>
-
-**Q8.**
-
-The Pap Smear (Papanicolaou test) is universally recommended for early clinical detection of cancer of the:
-A. Breast  
-B. Cervix  
-C. Ovary  
-D. Stomach  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Cervix.
-
-**Ans: B.** Cervix
-</details>
-
-**Q9.**
-
-Which of the following COVID-19 vaccines is developed on an inactivated whole-virus platform?
-A. Covishield  
-B. Sputnik V  
-C. Covaxin  
-D. Moderna  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Covaxin.
-
-**Ans: C.** Covaxin
-</details>
-
-**Q10.**
-
-The disease Rabies (Hydrophobia) is caused by a virus that specifically attacks which physiological system?
-A. Circulatory system  
-B. Central nervous system  
-C. Excretory system  
-D. Respiratory epithelium  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rabies virus (Rhabdovirus) travels via axoplasmic flow to the central nervous system, multiplying in neurons and producing pathognomonic Negri bodies.
-
-**Ans: B.** Central nervous system
-</details>
-
-**Q11.**
-
-Severe protein deficiency in young children accompanied by prominent oedema, a swollen abdomen, and flaky-paint skin is termed:
-A. Marasmus  
-B. Kwashiorkor  
-C. Rickets  
-D. Scurvy  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Kwashiorkor is protein malnutrition characterized by fluid retention and pitting oedema.
-
-**Ans: B.** Kwashiorkor
-</details>
-
-**Q12.**
-
-Which of the following vitamins acts as a cofactor in the synthesis of prothrombin in the liver?
-A. Vitamin A  
-B. Vitamin C  
-C. Vitamin E  
-D. Vitamin K  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Vitamin K is essential for post-translational $\gamma$-carboxylation of prothrombin (Factor II) and factors VII, IX, and X.
-
-**Ans: D.** Vitamin K
-</details>
-
-**Q13.**
-
-The presence of golden-brown Kayser-Fleischer (KF) rings in the cornea of the eye is pathognomonic of which toxic disorder?
-A. Plumbism (Lead)  
-B. Wilson's disease (Copper)  
-C. Minamata disease (Mercury)  
-D. Itai-Itai disease (Cadmium)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Wilson's disease causes toxic copper accumulation in tissues, visible as circular Kayser-Fleischer rings at the corneal-scleral junction.
-
-**Ans: B.** Wilson's disease / Copper
-</details>
-
-**Q14.**
-
-Which of the following is **not** a water-soluble vitamin?
-A. Vitamin B6  
-B. Vitamin C  
-C. Vitamin B12  
-D. Vitamin E  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Vitamins A, D, E, and K are fat-soluble.
-
-**Ans: D.** Vitamin E
-</details>
-
-**Q15.**
-
-The diagnostic laboratory test known as Mantoux test is used to evaluate infection by:
-A. *Salmonella typhi*  
-B. *Mycobacterium tuberculosis*  
-C. *Corynebacterium diphtheriae*  
-D. *Treponema pallidum*  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Mantoux test injects tuberculin PPD intradermally to test for cell-mediated immunity against Mycobacterium tuberculosis.
-
-**Ans: B.** Mycobacterium tuberculosis
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to nutritional vitamins, which of the following statements is/are correct?<br>1. Vitamin B12 contains the trace element cobalt and can be stored in the human liver for several years.<br>2. Vitamin C is extremely heat-stable and is not destroyed by prolonged boiling.<br>3. Ergocalciferol ($D_2$) and Cholecalciferol ($D_3$) are fat-soluble forms of Vitamin D.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement 1 is correct: Vitamin B12 (Cyanocobalamin) contains cobalt; uniquely among water-soluble vitamins, it is stored in the liver for 3–5 years.
+
+**Ans: B.** 1 and 3 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br>Assertion (A): Consumption of polished rice as a dietary staple frequently leads to the development of Beriberi.  <br>Reason (R): Mechanical polishing of rice removes the outer aleurone layer and embryo, which are rich in Vitamin B1 (Thiamine).  <br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Both statements are true and R provides the exact causal biochemical explanation: the outer bran and aleurone layer contain the majority of thiamine in the rice grain.
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Syndrome / Disease)</th><th>List-II (Specific Environmental Toxin / Defect)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Minamata Disease</td><td><span class="match-key">1</span> Excessive Nitrate ($NO_3^-$) in drinking water</td></tr>
+      <tr><td><span class="match-key">B</span> Itai-Itai Disease</td><td><span class="match-key">2</span> Organic Methyl Mercury ($Hg$) poisoning</td></tr>
+      <tr><td><span class="match-key">C</span> Blue Baby Syndrome</td><td><span class="match-key">3</span> Cadmium ($Cd$) water contamination</td></tr>
+      <tr><td><span class="match-key">D</span> Blackfoot Disease</td><td><span class="match-key">4</span> Chronic Arsenic ($As$) exposure</td></tr>
+  </tbody>
+</table><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-2, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-3, C-1, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Minamata = Methyl Mercury (A-2).
+
+**Ans: A.** A-2, B-3, C-1, D-4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following diagnostic tests is specifically employed for the confirmation of Typhoid fever?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mantoux test</div><div class="pyq-opt"><span class="opt-letter">B</span> Widal test</div><div class="pyq-opt"><span class="opt-letter">C</span> Schick test</div><div class="pyq-opt"><span class="opt-letter">D</span> Western blot</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Widal test detects agglutinating antibodies against Salmonella typhi.
+
+**Ans: B.** Widal test</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Pellagra, characterized by the clinical triad of dermatitis, diarrhoea, and dementia, is caused by the dietary deficiency of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Thiamine (B1)</div><div class="pyq-opt"><span class="opt-letter">B</span> Riboflavin (B2)</div><div class="pyq-opt"><span class="opt-letter">C</span> Niacin (B3)</div><div class="pyq-opt"><span class="opt-letter">D</span> Pyridoxine (B6)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Pellagra is caused by deficiency of Vitamin B3 (Niacin / Nicotinic acid), common in populations eating maize-dominated diets lacking tryptophan.
+
+**Ans: C.** Niacin / B3</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In which of the following diseases is blood platelet count (thrombocyte count) characteristically depleted rapidly?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Malaria</div><div class="pyq-opt"><span class="opt-letter">B</span> Dengue</div><div class="pyq-opt"><span class="opt-letter">C</span> Tuberculosis</div><div class="pyq-opt"><span class="opt-letter">D</span> Filariasis</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Dengue.
+
+**Ans: B.** Dengue</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is an autoimmune disorder characterized by destruction of pancreatic $\beta$-cells?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Diabetes Insipidus</div><div class="pyq-opt"><span class="opt-letter">B</span> Diabetes Mellitus Type 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Diabetes Mellitus Type 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Gestational Diabetes</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Type 1 Diabetes Mellitus is an autoimmune condition where T-lymphocytes destroy the insulin-producing $\beta$-cells of the Islets of Langerhans.
+
+**Ans: B.** Diabetes Mellitus Type 1</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The Pap Smear (Papanicolaou test) is universally recommended for early clinical detection of cancer of the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Breast</div><div class="pyq-opt"><span class="opt-letter">B</span> Cervix</div><div class="pyq-opt"><span class="opt-letter">C</span> Ovary</div><div class="pyq-opt"><span class="opt-letter">D</span> Stomach</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Cervix.
+
+**Ans: B.** Cervix</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which of the following COVID-19 vaccines is developed on an inactivated whole-virus platform?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Covishield</div><div class="pyq-opt"><span class="opt-letter">B</span> Sputnik V</div><div class="pyq-opt"><span class="opt-letter">C</span> Covaxin</div><div class="pyq-opt"><span class="opt-letter">D</span> Moderna</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Covaxin.
+
+**Ans: C.** Covaxin</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The disease Rabies (Hydrophobia) is caused by a virus that specifically attacks which physiological system?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Circulatory system</div><div class="pyq-opt"><span class="opt-letter">B</span> Central nervous system</div><div class="pyq-opt"><span class="opt-letter">C</span> Excretory system</div><div class="pyq-opt"><span class="opt-letter">D</span> Respiratory epithelium</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rabies virus (Rhabdovirus) travels via axoplasmic flow to the central nervous system, multiplying in neurons and producing pathognomonic Negri bodies.
+
+**Ans: B.** Central nervous system</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Severe protein deficiency in young children accompanied by prominent oedema, a swollen abdomen, and flaky-paint skin is termed:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Marasmus</div><div class="pyq-opt"><span class="opt-letter">B</span> Kwashiorkor</div><div class="pyq-opt"><span class="opt-letter">C</span> Rickets</div><div class="pyq-opt"><span class="opt-letter">D</span> Scurvy</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Kwashiorkor is protein malnutrition characterized by fluid retention and pitting oedema.
+
+**Ans: B.** Kwashiorkor</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following vitamins acts as a cofactor in the synthesis of prothrombin in the liver?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vitamin A</div><div class="pyq-opt"><span class="opt-letter">B</span> Vitamin C</div><div class="pyq-opt"><span class="opt-letter">C</span> Vitamin E</div><div class="pyq-opt"><span class="opt-letter">D</span> Vitamin K</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Vitamin K is essential for post-translational $\gamma$-carboxylation of prothrombin (Factor II) and factors VII, IX, and X.
+
+**Ans: D.** Vitamin K</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The presence of golden-brown Kayser-Fleischer (KF) rings in the cornea of the eye is pathognomonic of which toxic disorder?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Plumbism (Lead)</div><div class="pyq-opt"><span class="opt-letter">B</span> Wilson's disease (Copper)</div><div class="pyq-opt"><span class="opt-letter">C</span> Minamata disease (Mercury)</div><div class="pyq-opt"><span class="opt-letter">D</span> Itai-Itai disease (Cadmium)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Wilson's disease causes toxic copper accumulation in tissues, visible as circular Kayser-Fleischer rings at the corneal-scleral junction.
+
+**Ans: B.** Wilson's disease / Copper</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following is **not** a water-soluble vitamin?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vitamin B6</div><div class="pyq-opt"><span class="opt-letter">B</span> Vitamin C</div><div class="pyq-opt"><span class="opt-letter">C</span> Vitamin B12</div><div class="pyq-opt"><span class="opt-letter">D</span> Vitamin E</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Vitamins A, D, E, and K are fat-soluble.
+
+**Ans: D.** Vitamin E</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The diagnostic laboratory test known as Mantoux test is used to evaluate infection by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> *Salmonella typhi*</div><div class="pyq-opt"><span class="opt-letter">B</span> *Mycobacterium tuberculosis*</div><div class="pyq-opt"><span class="opt-letter">C</span> *Corynebacterium diphtheriae*</div><div class="pyq-opt"><span class="opt-letter">D</span> *Treponema pallidum*</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Mantoux test injects tuberculin PPD intradermally to test for cell-mediated immunity against Mycobacterium tuberculosis.
+
+**Ans: B.** Mycobacterium tuberculosis</div>
+  </div>
+</div>

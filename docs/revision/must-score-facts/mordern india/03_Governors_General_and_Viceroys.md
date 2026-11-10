@@ -126,6 +126,26 @@ hide:
     - First Factory Act (**1881, Lord Ripon**): Child labour below 7 banned; 7–12 age work limited to 9 hours.
     - Second Factory Act (**1891, Lord Lansdowne**): Weekly holiday; women limited to 11 hours; children below 9 banned.
 50. **Summary of British Office Ladder:**
+51. **Warren Hastings (1773–1785) Judicial Reforms:** Established Diwani Adalat (Civil) under Collector and Faujdari Adalat (Criminal) under Indian judges in each district; established **Sadar Diwani Adalat** and **Sadar Nizamat Adalat** at Calcutta; codified Hindu laws under *Gentoo Code* (Halhed, 1776).
+52. **Warren Hastings' Impeachment:** Impeached by British Parliament (led by Edmund Burke, Charles James Fox, and Sheridan) for trial of Maharaja Nand Kumar ('judicial murder'), Rohilla War, and extortion of Raja Chait Singh of Benaras and Begums of Awadh; acquitted in 1795 after 7-year trial.
+53. **Cornwallis Code (1793):** Enacted principle of **Separation of Powers**; stripped Collectors of all judicial and magisterial duties; created 4 Provincial Courts of Appeal at Calcutta, Dacca, Murshidabad, and Patna; introduced civil police force under Darogas (head of Thanas).
+54. **Lord Wellesley's Subsidiary Alliance Chronology:** First adopted by **Hyderabad (1798 & 1800)**, **Mysore (1799)**, **Tanjore (Oct 1799)**, **Awadh (Nov 1801)**, **Peshwa (Dec 1802)**, **Bhonsle of Berar (Dec 1803)**, **Scindia (Feb 1804)**, Jodhpur, Jaipur, Macheri, Bundi, and Bharatpur (1818).
+55. **Fort William College, Calcutta (1800):** Established by Lord Wellesley to train young British civil servants in Indian languages, customs, and law; court of directors disapproved and ordered closure, moving training to Haileybury College (England) in 1806.
+56. **Lord Minto I (1807–1813):** Sent **Charles Metcalfe** to sign **Treaty of Amritsar (25 April 1809)** with Maharaja Ranjit Singh, fixing the Sutlej River as the boundary between Lahore Kingdom and British territory.
+57. **Lord Hastings (1813–1823) Paramountcy:** Fought Anglo-Nepalese / Gurkha War (1814–16) ended by **Treaty of Sagauli (March 1816)** (ceded Garhwal, Kumaon, and Terai; British Resident stationed at Kathmandu); crushed Pindaris under Karim Khan, Wasil Muhammad, and Chitu; defeated Maratha confederacy in Third Anglo-Maratha War (1817–18) and abolished Peshwaship.
+58. **Lord William Bentinck (1828–1835) Humane Reforms:** Abolished **Sati (Regulation XVII of 1829)** initially in Bengal, extended to Madras/Bombay in 1830; suppressed **Thuggee** under **Captain William Sleeman** (1830); abolished female infanticide; declared English as official medium of higher education (Macaulay's Minute 1835).
+59. **Sir Charles Metcalfe (1835–1836):** Known as the **'Liberator of the Indian Press'**; repealed the repressive Licensing Regulations of 1823 through the Press Act of 1835.
+60. **Lord Dalhousie's Doctrine of Lapse Chronology:** **Satara (1848)**, **Jaitpur (1849)**, **Sambalpur (1849)**, **Baghat (1850)**, **Udaipur (1852)**, **Jhansi (1853)**, and **Nagpur (1854)**. (Note: Awadh annexed on grounds of misrule in 1856, NOT Doctrine of Lapse).
+61. **Dalhousie's Infrastructure Triad (1853–1854):** First passenger railway line from **Bombay (Bori Bunder) to Thane (34 km)** on **16 April 1853**; first experimental telegraph line from **Calcutta to Diamond Harbour** (opened 1851, regular line Calcutta to Agra 1854); modernized Post Office Act 1854 with uniform 1/2 anna postal rate.
+62. **Lord Canning (1856–1862) Dual Title:** Last Governor-General of the East India Company and first **Viceroy of India** under the Government of India Act 1858; enacted Indian Penal Code (1860, drafted by Macaulay) and Code of Criminal Procedure (1861); established 3 Presidency Universities (Calcutta, Bombay, Madras) in 1857.
+63. **Lord Lawrence (1864–1869):** Pursued policy of **'Masterly Inactivity'** towards Afghanistan; established High Courts at Calcutta, Bombay, and Madras under Indian High Courts Act 1861.
+64. **Lord Mayo (1869–1872):** Introduced **Financial Decentralization (1870)**; established Mayo College at Ajmer and Rajkot College; organized first synchronous/informal **Census of India in 1872**; only Viceroy **assassinated in office** (stabbed by Sher Ali Afridi at Port Blair, Andaman Islands, on 8 Feb 1872).
+65. **Lord Lytton (1876–1880) Imperial Reaction:** Held first **Delhi Durbar (1 January 1877)** during devastating famine (Strachey Famine Commission appointed); passed Royal Titles Act 1876 granting Queen Victoria title of *Kaiser-i-Hind*; passed **Vernacular Press Act (Act IX of 1878)** ('Gagging Act'); passed **Arms Act (Act XI of 1878)**; reduced ICS maximum age from 21 to **19 years**.
+66. **Lord Ripon (1880–1884) 'Father of Local Self-Government':** Repealed Vernacular Press Act (1882); passed **Local Self-Government Resolution (1882)**; passed First Factory Act (1881) for child labour; appointed **Hunter Education Commission (1882)**; sponsored **Ilbert Bill (1883)** drafted by Sir C.P. Ilbert (sought to empower Indian district magistrates to try European offenders; diluted after European 'White Mutiny').
+67. **Lord Curzon (1899–1905) Imperial Efficiency:** Passed Indian Universities Act 1904 (Raleigh Commission); passed **Ancient Monuments Preservation Act 1904**; set up Department of Commerce & Industry; established Police Commission under Sir Andrew Fraser (1902); proclaimed **Partition of Bengal** on **20 July 1905** (effective **16 October 1905**); resigned over military supply controversy with Commander-in-Chief Lord Kitchener.
+68. **Lord Chelmsford (1916–1921):** Witnessed Home Rule League movement, Lucknow Pact (1916), Champaran (1917), Kheda/Ahmedabad (1918), Rowlatt Act (1919), Jallianwala Bagh massacre (13 April 1919), Montagu-Chelmsford Reforms (1919), and launch of Non-Cooperation / Khilafat Movement (1920).
+69. **Lord Irwin (1926–1931):** Issued Deepavali Declaration (1929) offering Dominion Status; witnessed Nehru Report (1928), Lahore Congress Purna Swaraj declaration (1929), Salt March & Civil Disobedience (1930); signed **Gandhi-Irwin Pact (5 March 1931)** in New Delhi.
+70. **Lord Mountbatten (March–August 1947):** Last Viceroy of British India and first Governor-General of independent Dominion of India; announced **June 3rd Plan (Mountbatten Plan)** for partition; enacted Indian Independence Act 1947 (received Royal Assent on 18 July 1947); appointed Sir Cyril Radcliffe to head Bengal and Punjab Boundary Commissions.
     - Governor of Bengal: Clive (1757)
     - Governor-General of Bengal: Warren Hastings (1773, Regulating Act)
     - Governor-General of India: William Bentinck (1833, Charter Act)
@@ -263,27 +283,6 @@ hide:
 | **Famine** | MacDonnell Commission | 1900 | Lord Curzon | Emphasized "moral strategy" and appointment of Famine Commissioner |
 | **Famine** | Woodhead Commission | 1944 | Lord Wavell | Investigated 1943 Great Bengal Famine; recommended food procurement policy |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Governor-General of Bengal (1773)**| **Governor-General of India (1833)** | Warren Hastings (Regulating Act 1773) vs William Bentinck (Charter Act 1833) | बंगाल का जीजी / भारत का जीजी |
-| **Governor-General of India (1833)** | **Viceroy of India (1858)** | Company executive head (Bentinck) vs Crown's direct representative (Canning, 1858) | जीजी / वायसराय |
-| **Warren Hastings (1772–1785)** | **Lord Hastings (1813–1823)** | First GG of Bengal (Dual govt end, Salbai, Banaras) vs GG of India (Gurkha War, Pindaris, 3rd Maratha) | वारेन / लॉर्ड हेस्टिंग्स |
-| **Regulating Act 1773** | **Pitt's India Act 1784** | Created office of GG + Supreme Court vs Created Dual Control (Board of Control + Court of Directors) | रेगुलेटिंग / पिट्स एक्ट |
-| **Charter Act 1813** | **Charter Act 1833** | Ended India trade monopoly (kept tea/China, ₹1L education) vs Ended ALL trade, created GG of India | 1813 / 1833 एक्ट |
-| **Cornwallis** | **Bentinck** | Permanent Settlement 1793 & Civil Services vs Abolition of Sati 1829 & English education | कॉर्नवालिस / बेंटिंक |
-| **Wellesley** | **Dalhousie** | Subsidiary Alliance (native rulers keep thrones) vs Doctrine of Lapse (states annexed to British Crown) | वेलेज़ली / डलहौज़ी |
-| **Ring Fence Policy** | **Subsidiary Alliance** | Hastings: buffer states around borders vs Wellesley: forces inside states at native ruler's expense | रिंग फेंस / सहायक संधि |
-| **Charles Metcalfe** | **Lord Ripon** | Liberator of Press (repealed 1823 licensing rules) vs Repealed 1878 Vernacular Press Act | मेटकाफ़ / रिपन |
-| **First Census (1872)** | **First Synchronous Census (1881)**| Lord Mayo (experimental/non-synchronous) vs Lord Ripon (first regular decennial nationwide census) | प्रथम जनगणना 1872 / 1881 |
-| **Lord Mayo's Assassination** | **Plague Commissioner Rand** | Mayo killed by Sher Ali Afridi at Port Blair (1872) vs Rand killed by Chapekar brothers in Pune (1897) | मेयो / रैंड हत्या |
-| **Vernacular Press Act (1878)** | **Arms Act (1878)** | Both passed by Lord Lytton: muzzled Indian press vs disarmed Indians without licenses | प्रेस एक्ट / शस्त्र अधिनियम |
-| **Masterly Inactivity** | **Proud Reserve** | Sir John Lawrence (Afghan non-interference) vs Lord Lytton (aggressive forward policy causing 2nd Afghan War) | निष्क्रियता / गर्वित नीति |
-| **1909 Act (Morley-Minto)** | **1919 Act (Montford)** | Separate Muslim electorates (NO dyarchy) vs Provincial Dyarchy & bicameral centre | 1909 / 1919 सुधार |
-| **1919 Act (Diarchy in Provinces)** | **1935 Act (Autonomy in Provinces)**| Diarchy created in provinces (1919) vs Provincial Autonomy granted & dyarchy proposed at Centre (1935) | प्रांतों में द्वैध / स्वायत्तता |
-| **Lord Mountbatten** | **C. Rajagopalachari** | Last British Viceroy & 1st GG of Dominion of India vs Last Governor-General & ONLY Indian Governor-General | माउंटबेटन / राजाजी |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Constitutional Evolution of the Top Office:**
@@ -310,367 +309,282 @@ hide:
    - **L**awrence = **L**eave alone ("Masterly Inactivity")
    - **L**ytton = **L**unge forward ("Proud Reserve" / War).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** With reference to the Regulating Act of 1773, which of the following statements is/are correct?
-
-1. It created the office of Governor-General of India (not Bengal).
-2. Warren Hastings was the first Governor-General of Bengal.
-3. It created the office of Viceroy of India.
-
-A. 1 and 2
-
-B. Only 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Stmt 1 false: Regulating Act 1773 created GG of Bengal; GG of India comes with Charter 1833. Stmt 3 remains false: Viceroy begins with GOI Act 1858.
-
-</details>
-
-**Q2.** With reference to the Charter Acts, which of the following statements is/are correct?
-
-1. Charter Act 1833 was the Act that first created the Viceroy.
-2. Charter Act 1813 created the Governor-General of India and ended all Company trade.
-3. Charter Act 1833 created the Governor-General of India and ended all Company trade.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: 1813 ended monopoly except tea/China and set aside ₹1 lakh for education; GG of India + end of all trade = 1833. Stmt 1 remains false: Viceroy = 1858.
-
-</details>
-
-**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-
-**Assertion (A):** Under Pitt’s India Act, 1784, the Board of Control handled political affairs.
-
-**Reason (R):** The Court of Directors continued to handle commercial affairs.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R completes the dual-control design that explains A.
-
-**A/R logic:** Pitt’s Act = Board (political) + Directors (commercial).
-
-</details>
-
-**Q4.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (Person) | List-II (Tag) |
-|-----------------|---------------|
-| A. Cornwallis | 1. Subsidiary Alliance |
-| B. Wellesley | 2. Permanent Settlement 1793 |
-| C. Bentinck | 3. Doctrine of Lapse |
-| D. Dalhousie | 4. Abolition of Sati 1829 |
-
-*Row order is not the answer code.*
-
-
-A. A-2, B-1, C-4, D-3
-
-B. A-1, B-2, C-4, D-3
-
-C. A-2, B-1, C-3, D-4
-
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Cornwallis–PS; Wellesley–Subsidiary; Bentinck–Sati; Dalhousie–Lapse.
-
-**Logic:** Four standing GG↔reform tags.
-
-</details>
-
-**Q5.** Which of the following pairs is NOT correctly matched?
-
-
-A. Indian Councils Act 1861 — portfolio system and Indian nomination
-
-B. Indian Councils Act 1909 — provincial dyarchy introduced
-
-C. Indian Councils Act 1892 — budget discussion and indirect election
-
-D. GOI Act 1919 — provincial dyarchy and Chamber of Princes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1909 = Muslim separate electorates; dyarchy is 1919.
-
-**Logic:** 1909 ↔ 1919 is a classic Act-provision swap.
-
-</details>
-
-**Q6.** Arrange the following in chronological order:
-
-1. Government of India Act, 1919
-2. Indian Councils Act, 1909
-3. Government of India Act, 1858
-4. Indian Councils Act, 1861
-
-
-A. 3, 4, 2, 1
-
-B. 3, 2, 4, 1
-
-C. 4, 3, 2, 1
-
-D. 3, 4, 1, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1858 → 1861 → 1909 → 1919.
-
-**Logic:** Company end → portfolio → separate electorates → dyarchy.
-
-</details>
-
-**Q7.** With reference to Lytton and Ripon, which of the following statements is/are correct?
-
-1. Ripon passed the Vernacular Press Act, 1878.
-2. Ripon repealed that Press Act and pushed local self-government (1882).
-3. Ripon also authored the Vernacular Press Act as a wartime measure.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 2 is correct.
-
-**Logic:** Stmt 1 false: Lytton passed the Vernacular Press Act 1878; Ripon repealed it. Stmt 3 remains false: Ripon did not author that Act.
-
-</details>
-
-**Q8.** With reference to Curzon and Hardinge II, which of the following statements is/are correct?
-
-1. Dufferin, not Curzon, partitioned Bengal.
-2. Curzon partitioned Bengal on 16 October 1911.
-3. Hardinge II moved the capital to Delhi in 1911 and annulled the Partition.
-
-A. Only 3
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: Partition was 16 October 1905; 1911 is annulment under Hardinge II. Stmt 1 remains false: Dufferin did not partition Bengal.
-
-</details>
-
-**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-
-**Assertion (A):** Warren Hastings was the first Viceroy of India.
-
-**Reason (R):** Lord Canning became the first Viceroy after the Government of India Act, 1858.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Hastings = first GG of Bengal; Canning = first Viceroy.
-
-</details>
-
-**Q10.** With reference to the Government of India Acts of 1919 and 1935, which of the following statements is/are correct?
-
-1. The 1919 Act introduced provincial dyarchy.
-2. The 1935 federation and centre dyarchy fully came into force as planned.
-3. The 1935 Act gave provincial autonomy that actually worked.
-
-A. Only 3
-
-B. 1 and 3
-
-C. Only 1
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 3 only are correct.
-
-**Logic:** Federation / centre dyarchy stayed largely on paper.
-
-</details>
-
-**Q11.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (GG/Viceroy) | List-II (War / event) |
-|---------------------|------------------------|
-| A. Cornwallis | 1. First Anglo-Afghan War |
-| B. Amherst | 2. Third Anglo-Mysore War |
-| C. Auckland | 3. First Anglo-Burmese War |
-| D. Hardinge I | 4. First Anglo-Sikh War |
-
-*Row order is not the answer code.*
-
-
-A. A-2, B-3, C-1, D-4
-
-B. A-3, B-2, C-1, D-4
-
-C. A-2, B-1, C-3, D-4
-
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Cornwallis–Mysore III; Amherst–Burma I; Auckland–Afghan I; Hardinge I–Sikh I.
-
-**Logic:** War-tag ladder from Must-Score.
-
-</details>
-
-**Q12.** Which of the following pairs is NOT correctly matched?
-
-
-A. Mayo — first census attempt 1872; assassinated at the Andamans
-
-B. Lawrence — Proud Reserve on Afghanistan
-
-C. Ripon — first regular decennial census 1881
-
-D. Metcalfe — Liberator of the Press, 1835
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Lawrence = Masterly Inactivity; Lytton = Proud Reserve.
-
-**Logic:** Afghan-policy confused pair.
-
-</details>
-
-**Q13.** With reference to Macaulay and Wood, which of the following statements is/are correct?
-
-1. Wood’s Despatch is the same document as Macaulay’s Minute under another name.
-2. Macaulay’s Minute (1835) set English for higher education.
-3. Wood’s Despatch (1854) belongs to Dalhousie’s years.
-
-A. Only 2
-
-B. Only 2 and 3
-
-C. Only 1
-
-D. Only 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 2 and 3 only are correct.
-
-**Logic:** Minute = English policy; Wood = full education ladder — different decades.
-
-</details>
-
-**Q14.** Arrange the following office shapes in chronological order of creation:
-
-1. Governor-General of India
-2. Viceroy
-3. Governor-General of Bengal
-4. End of Company rule by statute
-
-
-A. 3, 1, 4, 2
-
-B. 3, 1, 2, 4
-
-C. 1, 3, 4, 2
-
-D. 3, 4, 1, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** GG Bengal 1773 → GG India 1833 → 1858 statute → Viceroy title with Crown.
-
-**Logic:** Same man becomes Viceroy in 1858; office ladder has four shapes.
-
-</details>
-
-**Q15.** With reference to late Viceroys, which of the following statements is/are correct?
-
-1. Linlithgow is tagged to the August Offer (1940) and Quit India (1942).
-2. Wavell offered the Wavell Plan / Simla Conference (1945).
-3. Mountbatten announced the 3 June Plan (1947) and was the first Viceroy.
-
-A. Only 1
-
-B. 1 and 2
-
-C. 1, 2 and 3
-
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2 only are correct.
-
-**Logic:** Mountbatten is the last Viceroy; Canning is first.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the Regulating Act of 1773, which of the following statements is/are correct?<br><br>1. It created the office of Governor-General of India (not Bengal).<br>2. Warren Hastings was the first Governor-General of Bengal.<br>3. It created the office of Viceroy of India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 1 false: Regulating Act 1773 created GG of Bengal; GG of India comes with Charter 1833. Stmt 3 remains false: Viceroy begins with GOI Act 1858.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to the Charter Acts, which of the following statements is/are correct?<br><br>1. Charter Act 1833 was the Act that first created the Viceroy.<br>2. Charter Act 1813 created the Governor-General of India and ended all Company trade.<br>3. Charter Act 1833 created the Governor-General of India and ended all Company trade.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: 1813 ended monopoly except tea/China and set aside ₹1 lakh for education; GG of India + end of all trade = 1833. Stmt 1 remains false: Viceroy = 1858.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br><br>**Assertion (A):** Under Pitt’s India Act, 1784, the Board of Control handled political affairs.<br><br>**Reason (R):** The Court of Directors continued to handle commercial affairs.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R completes the dual-control design that explains A.
+
+**A/R logic:** Pitt’s Act = Board (political) + Directors (commercial).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Person)</th><th>List-II (Tag)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Cornwallis</td><td><span class="match-key">1</span> Subsidiary Alliance</td></tr>
+      <tr><td><span class="match-key">B</span> Wellesley</td><td><span class="match-key">2</span> Permanent Settlement 1793</td></tr>
+      <tr><td><span class="match-key">C</span> Bentinck</td><td><span class="match-key">3</span> Doctrine of Lapse</td></tr>
+      <tr><td><span class="match-key">D</span> Dalhousie</td><td><span class="match-key">4</span> Abolition of Sati 1829</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-4, C-1, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cornwallis–PS; Wellesley–Subsidiary; Bentinck–Sati; Dalhousie–Lapse.
+
+**Logic:** Four standing GG↔reform tags.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Indian Councils Act 1861 — portfolio system and Indian nomination</div><div class="pyq-opt"><span class="opt-letter">B</span> Indian Councils Act 1909 — provincial dyarchy introduced</div><div class="pyq-opt"><span class="opt-letter">C</span> Indian Councils Act 1892 — budget discussion and indirect election</div><div class="pyq-opt"><span class="opt-letter">D</span> GOI Act 1919 — provincial dyarchy and Chamber of Princes</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1909 = Muslim separate electorates; dyarchy is 1919.
+
+**Logic:** 1909 ↔ 1919 is a classic Act-provision swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order:<br><br>1. Government of India Act, 1919<br>2. Indian Councils Act, 1909<br>3. Government of India Act, 1858<br>4. Indian Councils Act, 1861</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 3, 2, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 4, 1, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1858 → 1861 → 1909 → 1919.
+
+**Logic:** Company end → portfolio → separate electorates → dyarchy.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Lytton and Ripon, which of the following statements is/are correct?<br><br>1. Ripon passed the Vernacular Press Act, 1878.<br>2. Ripon repealed that Press Act and pushed local self-government (1882).<br>3. Ripon also authored the Vernacular Press Act as a wartime measure.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 1 false: Lytton passed the Vernacular Press Act 1878; Ripon repealed it. Stmt 3 remains false: Ripon did not author that Act.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to Curzon and Hardinge II, which of the following statements is/are correct?<br><br>1. Dufferin, not Curzon, partitioned Bengal.<br>2. Curzon partitioned Bengal on 16 October 1911.<br>3. Hardinge II moved the capital to Delhi in 1911 and annulled the Partition.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: Partition was 16 October 1905; 1911 is annulment under Hardinge II. Stmt 1 remains false: Dufferin did not partition Bengal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br><br>**Assertion (A):** Warren Hastings was the first Viceroy of India.<br><br>**Reason (R):** Lord Canning became the first Viceroy after the Government of India Act, 1858.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Hastings = first GG of Bengal; Canning = first Viceroy.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to the Government of India Acts of 1919 and 1935, which of the following statements is/are correct?<br><br>1. The 1919 Act introduced provincial dyarchy.<br>2. The 1935 federation and centre dyarchy fully came into force as planned.<br>3. The 1935 Act gave provincial autonomy that actually worked.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3 only are correct.
+
+**Logic:** Federation / centre dyarchy stayed largely on paper.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (GG/Viceroy)</th><th>List-II (War / event)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Cornwallis</td><td><span class="match-key">1</span> First Anglo-Afghan War</td></tr>
+      <tr><td><span class="match-key">B</span> Amherst</td><td><span class="match-key">2</span> Third Anglo-Mysore War</td></tr>
+      <tr><td><span class="match-key">C</span> Auckland</td><td><span class="match-key">3</span> First Anglo-Burmese War</td></tr>
+      <tr><td><span class="match-key">D</span> Hardinge I</td><td><span class="match-key">4</span> First Anglo-Sikh War</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-2, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-3, C-4, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cornwallis–Mysore III; Amherst–Burma I; Auckland–Afghan I; Hardinge I–Sikh I.
+
+**Logic:** War-tag ladder from Must-Score.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mayo — first census attempt 1872; assassinated at the Andamans</div><div class="pyq-opt"><span class="opt-letter">B</span> Lawrence — Proud Reserve on Afghanistan</div><div class="pyq-opt"><span class="opt-letter">C</span> Ripon — first regular decennial census 1881</div><div class="pyq-opt"><span class="opt-letter">D</span> Metcalfe — Liberator of the Press, 1835</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Lawrence = Masterly Inactivity; Lytton = Proud Reserve.
+
+**Logic:** Afghan-policy confused pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Macaulay and Wood, which of the following statements is/are correct?<br><br>1. Wood’s Despatch is the same document as Macaulay’s Minute under another name.<br>2. Macaulay’s Minute (1835) set English for higher education.<br>3. Wood’s Despatch (1854) belongs to Dalhousie’s years.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 and 3 only are correct.
+
+**Logic:** Minute = English policy; Wood = full education ladder — different decades.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following office shapes in chronological order of creation:<br><br>1. Governor-General of India<br>2. Viceroy<br>3. Governor-General of Bengal<br>4. End of Company rule by statute</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 1, 4, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 1, 2, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3, 4, 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 4, 1, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> GG Bengal 1773 → GG India 1833 → 1858 statute → Viceroy title with Crown.
+
+**Logic:** Same man becomes Viceroy in 1858; office ladder has four shapes.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to late Viceroys, which of the following statements is/are correct?<br><br>1. Linlithgow is tagged to the August Offer (1940) and Quit India (1942).<br>2. Wavell offered the Wavell Plan / Simla Conference (1945).<br>3. Mountbatten announced the 3 June Plan (1947) and was the first Viceroy.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** Mountbatten is the last Viceroy; Canning is first.</div>
+  </div>
+</div>

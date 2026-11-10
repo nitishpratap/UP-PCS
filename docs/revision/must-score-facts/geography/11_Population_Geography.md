@@ -140,19 +140,6 @@ hide:
 | **Stage 4: Low Stationary** | Low (~10–12‰) | Low (~10–12‰) | Near zero / stable | Highly industrialized, urbanized affluent society; aging population | USA, Australia, China today |
 | **Stage 5: Declining** | Lower than DR | Rises slightly (aging) | **Negative Natural Decrease** | Death rate exceeds birth rate; severe demographic aging crisis | Japan, Germany, Italy, South Korea today |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Highest Population Density** | **Highest Population Growth** | **Bihar (1,106/km²)** has highest density in India vs **Meghalaya (27.9%)** had highest decadal population growth rate (2001–11) | सर्वाधिक जनघनत्व (बिहार) / सर्वाधिक दशकीय वृद्धि (मेघालय) |
-| **Highest Sex Ratio State** | **Highest Sex Ratio UT** | **Kerala (1,084)** is the highest among States vs **Puducherry (1,037)** is the highest among Union Territories | लिंगानुपात: राज्य (केरल) / यूटी (पुडुचेरी) |
-| **Lowest Sex Ratio State** | **Lowest Sex Ratio UT** | **Haryana (879)** is the lowest among States vs **Daman & Diu (618)** is the lowest among Union Territories | न्यूनतम लिंगानुपात: राज्य (हरियाणा) / यूटी (दमन और दीव) |
-| **Highest Urban % State** | **Highest Urban Population State** | **Goa (62.2%)** has the highest percentage of urban population vs **Maharashtra (5.08 crore)** has the largest absolute urban population | सर्वाधिक नगरीकरण प्रतिशत (गोवा) / जनसंख्या (महाराष्ट्र) |
-| **Lowest Urban % State** | **Lowest Population Density State** | **Himachal Pradesh (10.0% urban)** is the least urbanized state vs **Arunachal Pradesh (17 persons/km²)** has the lowest population density | न्यूनतम नगरीकरण (हिप्र) / न्यूनतम घनत्व (अरुणाचल) |
-| **Nagaland Growth 2001–11** | **All-India Growth** | Recorded **negative growth (-0.6%)** due to census correction and migration vs All-India recorded **+17.70%** decadal growth | नागालैंड (-0.6% ऋणात्मक) / अखिल भारतीय (17.7%) |
-| **Year of Great Divide (1921)** | **First Synchronous Census (1881)** | Only census showing **negative growth (-0.31%)** due to 1918 flu epidemic vs First nationwide simultaneous synchronous census under **Lord Ripon** | महाविभाजक वर्ष (1921) / प्रथम समकालिक जनगणना (1881) |
-| **Highest SC Population** | **Highest SC Percentage** | **Uttar Pradesh (~4.14 crore)** has the highest absolute SC count vs **Punjab (31.9%)** has the highest proportion of SCs in its population | सर्वाधिक अनु. जाति जनसंख्या (उप्र) / प्रतिशत (पंजाब) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Population Density Top 4 States: **B-W-K-U**
@@ -176,379 +163,357 @@ hide:
 ### 4. Lowest Density:
 - **Arunachal Pradesh** = **17 persons / km²** (Lowest in India)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-With reference to the Census of India, which of the following statements is/are correct?
-
-1. The first synchronous all-India census was in 1881.
-2. 1921 is called the Great Divide year.
-3. Census 2011 was the 14th census of India.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** 2011 was the **15th** census and the **7th** after Independence.
-
-</details>
-
-**Q2.**
-India’s arithmetic population density in Census 2011 was:
-
-A. 324 persons/km²
-B. 382 persons/km²
-C. 829 persons/km²
-D. 1106 persons/km²
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** National arithmetic density = **382**/km².
-
-**Logic:** 324 echoes 2001; 829 is UP; 1106 is Bihar.
-
-</details>
-
-**Q3.**
-Which of the following density definitions is/are correct?
-
-1. Arithmetic density = population / total area
-2. Physiological density = agricultural population / net sown area
-3. Agricultural density = population / net sown area
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only statement 1 is correct.
-
-**Logic:** Physiological = population / net sown; agricultural = agricultural population / net sown. Statements 2 and 3 are swapped.
-
-</details>
-
-**Q4.**
-Assertion (A): Natural growth of population equals CBR minus CDR.
-Reason (R): TFR is also expressed per thousand of population like CBR.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A is true; R is false.
-
-**A/R logic:** TFR is children **per woman**, not per thousand.
-
-</details>
-
-**Q5.**
-Among Indian States in Census 2011, the highest population density is in:
-
-A. West Bengal
-B. Uttar Pradesh
-C. Bihar
-D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Bihar (**1106**) leads State density.
-
-**Logic:** WB and Kerala are high but below Bihar; UP is 829.
-
-</details>
-
-**Q6.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Concept) | List-II (Name) |
-|---|---|
-| 1. Demographic Transition | A. Thompson / Notestein |
-| 2. Optimum population | B. Edwin Cannan |
-| 3. Social mal-adjustment | C. Henry George |
-| 4. Social capillarity | D. Arsène Dumont |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-A, 2-C, 3-B, 4-D
-D. 1-A, 2-B, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Standard theory–name pairs.
-
-**Logic:** Row order is not the answer code. Cannan vs George vs Dumont is the trap cluster.
-
-</details>
-
-**Q7.**
-Which one of the following is the largest internal migration stream in India?
-
-A. Rural → urban
-B. Urban → urban
-C. Rural → rural
-D. Urban → rural
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Rural → rural** is the largest internal stream.
-
-**Logic:** Rural→urban is visible in metros but not the largest stream.
-
-</details>
-
-**Q8.**
-With reference to Census 2011, which of the following statements is/are correct?
-
-1. Sex ratio was 943.
-2. Child sex ratio was 919.
-3. Literacy rate was counted for age 18+.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Literacy is for age **7+**, not 18+.
-
-</details>
-
-**Q9.**
-The National Population Policy 2000 aimed at population stability by:
-
-A. 2025
-B. 2030
-C. 2045
-D. 2050
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Stability target year is **2045**.
-
-**Logic:** Do not confuse with SDG 2030 horizons.
-
-</details>
-
-**Q10.**
-Which religion is the most urbanised in the usual Census teaching set?
-
-A. Hindus
-B. Muslims
-C. Christians
-D. Jains
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **Jains** are the most urbanised.
-
-**Logic:** Christian urban share is high but Jains lead the classic key.
-
-</details>
-
-**Q11.**
-Consider the following statements:
-
-1. Bihar has the lowest State literacy in the usual 2011 set.
-2. Kerala has the highest State sex ratio.
-3. Arunachal Pradesh has the lowest State density.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three are correct.
-
-**Logic:** These are the standard State extreme tags for 2011.
-
-</details>
-
-**Q12.**
-A census town must satisfy which of the following?
-
-A. Population ≥10,000 only
-B. Population ≥5,000; density ≥400/km²; ≥75% male main workers in non-agriculture
-C. Presence of a municipality only
-D. Population ≥1 lakh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** The triple test is 5,000 + 400/km² + 75% non-agri male main workers.
-
-**Logic:** Municipality is for statutory towns, not the census-town definition.
-
-</details>
-
-**Q13.**
-Assertion (A): Demographic dividend is linked to a large share of population in ages 15–59.
-Reason (R): Dependency ratio compares young and aged dependants with the working-age group.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both are true and R explains why the 15–59 bulge matters.
-
-**A/R logic:** Dividend = workers; dependency framing is the mirror concept.
-
-</details>
-
-**Q14.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Kanpur million mark — 1971
-B. Lucknow million mark — 1981
-C. Lorenz curve — income inequality
-D. World Population Report — IMF
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** World Population Report is linked to **UNFPA**, not IMF.
-
-**Logic:** A–C are standard correct pairs.
-
-</details>
-
-**Q15.**
-Malthus’s positive checks and preventive checks are correctly distinguished as:
-
-A. Positive = lower births; preventive = higher deaths
-B. Positive = higher deaths; preventive = lower births
-C. Both only raise deaths
-D. Both only lower births
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Positive checks raise mortality; preventive checks reduce fertility.
-
-**Logic:** Swap of the two check types is the classic trap.
-
-</details>
-
-**Q16.**
-With reference to Uttar Pradesh (Census 2011), which of the following is/are correct?
-
-1. State sex ratio was 912.
-2. Ghaziabad was the densest district.
-3. Shrawasti had the lowest female literacy among districts.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three are correct.
-
-**Logic:** UP vs India gaps (912 vs 943; literacy ~67.7% vs 74%) often sit beside district extremes.
-
-</details>
-
-**Q17.**
-Urbanisation acceleration in the classic demographic-transition curve is linked mainly to the:
-
-A. First stage
-B. Second stage
-C. Fourth stage
-D. Post-transition only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Acceleration is classically linked to the **second** stage.
-
-**Logic:** Stage-3/4 keys are common distractors.
-
-</details>
-
-**Q18.**
-Which of the following statements is/are correct?
-
-1. Sex ratio improved from 2001 to 2011.
-2. Child sex ratio improved from 2001 to 2011.
-3. Literacy rate in 2011 was 74.04%.
-
-A. 1 and 3
-B. Only 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 3 are correct.
-
-**Logic:** CSR fell from **927 to 919** — opposite direction from overall sex ratio.
-
-</details>
-
-**Q19.**
-Which State showed negative decadal growth in 2001–11?
-
-A. Kerala
-B. Goa
-C. Nagaland
-D. Sikkim
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Nagaland** recorded negative growth (−0.6%).
-
-**Logic:** Kerala/Goa are low-growth, not negative; Sikkim is least populous, not negative-growth.
-
-</details>
-
-**Q20.**
-Replacement-level fertility is:
-
-A. TFR 2.1 children per woman
-B. CBR 2.1 per thousand
-C. TFR 2.1 per thousand
-D. CDR 2.1 per thousand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Replacement TFR ≈ **2.1 children per woman**.
-
-**Logic:** “Per thousand” wording belongs to CBR/CDR, not TFR.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the Census of India, which of the following statements is/are correct?<br><br>1. The first synchronous all-India census was in 1881.<br>2. 1921 is called the Great Divide year.<br>3. Census 2011 was the 14th census of India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** 2011 was the **15th** census and the **7th** after Independence.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">India’s arithmetic population density in Census 2011 was:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 324 persons/km²</div><div class="pyq-opt"><span class="opt-letter">B</span> 382 persons/km²</div><div class="pyq-opt"><span class="opt-letter">C</span> 829 persons/km²</div><div class="pyq-opt"><span class="opt-letter">D</span> 1106 persons/km²</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> National arithmetic density = **382**/km².
+
+**Logic:** 324 echoes 2001; 829 is UP; 1106 is Bihar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following density definitions is/are correct?<br><br>1. Arithmetic density = population / total area<br>2. Physiological density = agricultural population / net sown area<br>3. Agricultural density = population / net sown area</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only statement 1 is correct.
+
+**Logic:** Physiological = population / net sown; agricultural = agricultural population / net sown. Statements 2 and 3 are swapped.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Natural growth of population equals CBR minus CDR.<br>Reason (R): TFR is also expressed per thousand of population like CBR.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is true; R is false.
+
+**A/R logic:** TFR is children **per woman**, not per thousand.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Among Indian States in Census 2011, the highest population density is in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> West Bengal</div><div class="pyq-opt"><span class="opt-letter">B</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Bihar</div><div class="pyq-opt"><span class="opt-letter">D</span> Kerala</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Bihar (**1106**) leads State density.
+
+**Logic:** WB and Kerala are high but below Bihar; UP is 829.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Concept)</th><th>List-II (Name)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Demographic Transition</td><td><span class="match-key">A</span> Thompson / Notestein</td></tr>
+      <tr><td><span class="match-key">2</span> Optimum population</td><td><span class="match-key">B</span> Edwin Cannan</td></tr>
+      <tr><td><span class="match-key">3</span> Social mal-adjustment</td><td><span class="match-key">C</span> Henry George</td></tr>
+      <tr><td><span class="match-key">4</span> Social capillarity</td><td><span class="match-key">D</span> Arsène Dumont</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-A, 2-C, 3-B, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard theory–name pairs.
+
+**Logic:** Row order is not the answer code. Cannan vs George vs Dumont is the trap cluster.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is the largest internal migration stream in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rural → urban</div><div class="pyq-opt"><span class="opt-letter">B</span> Urban → urban</div><div class="pyq-opt"><span class="opt-letter">C</span> Rural → rural</div><div class="pyq-opt"><span class="opt-letter">D</span> Urban → rural</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rural → rural** is the largest internal stream.
+
+**Logic:** Rural→urban is visible in metros but not the largest stream.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to Census 2011, which of the following statements is/are correct?<br><br>1. Sex ratio was 943.<br>2. Child sex ratio was 919.<br>3. Literacy rate was counted for age 18+.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Literacy is for age **7+**, not 18+.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">The National Population Policy 2000 aimed at population stability by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2025</div><div class="pyq-opt"><span class="opt-letter">B</span> 2030</div><div class="pyq-opt"><span class="opt-letter">C</span> 2045</div><div class="pyq-opt"><span class="opt-letter">D</span> 2050</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Stability target year is **2045**.
+
+**Logic:** Do not confuse with SDG 2030 horizons.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which religion is the most urbanised in the usual Census teaching set?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hindus</div><div class="pyq-opt"><span class="opt-letter">B</span> Muslims</div><div class="pyq-opt"><span class="opt-letter">C</span> Christians</div><div class="pyq-opt"><span class="opt-letter">D</span> Jains</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Jains** are the most urbanised.
+
+**Logic:** Christian urban share is high but Jains lead the classic key.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Bihar has the lowest State literacy in the usual 2011 set.<br>2. Kerala has the highest State sex ratio.<br>3. Arunachal Pradesh has the lowest State density.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three are correct.
+
+**Logic:** These are the standard State extreme tags for 2011.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">A census town must satisfy which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Population ≥10,000 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Population ≥5,000; density ≥400/km²; ≥75% male main workers in non-agriculture</div><div class="pyq-opt"><span class="opt-letter">C</span> Presence of a municipality only</div><div class="pyq-opt"><span class="opt-letter">D</span> Population ≥1 lakh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The triple test is 5,000 + 400/km² + 75% non-agri male main workers.
+
+**Logic:** Municipality is for statutory towns, not the census-town definition.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Demographic dividend is linked to a large share of population in ages 15–59.<br>Reason (R): Dependency ratio compares young and aged dependants with the working-age group.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true and R explains why the 15–59 bulge matters.
+
+**A/R logic:** Dividend = workers; dependency framing is the mirror concept.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kanpur million mark — 1971</div><div class="pyq-opt"><span class="opt-letter">B</span> Lucknow million mark — 1981</div><div class="pyq-opt"><span class="opt-letter">C</span> Lorenz curve — income inequality</div><div class="pyq-opt"><span class="opt-letter">D</span> World Population Report — IMF</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> World Population Report is linked to **UNFPA**, not IMF.
+
+**Logic:** A–C are standard correct pairs.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Malthus’s positive checks and preventive checks are correctly distinguished as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Positive = lower births; preventive = higher deaths</div><div class="pyq-opt"><span class="opt-letter">B</span> Positive = higher deaths; preventive = lower births</div><div class="pyq-opt"><span class="opt-letter">C</span> Both only raise deaths</div><div class="pyq-opt"><span class="opt-letter">D</span> Both only lower births</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Positive checks raise mortality; preventive checks reduce fertility.
+
+**Logic:** Swap of the two check types is the classic trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Uttar Pradesh (Census 2011), which of the following is/are correct?<br><br>1. State sex ratio was 912.<br>2. Ghaziabad was the densest district.<br>3. Shrawasti had the lowest female literacy among districts.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three are correct.
+
+**Logic:** UP vs India gaps (912 vs 943; literacy ~67.7% vs 74%) often sit beside district extremes.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Urbanisation acceleration in the classic demographic-transition curve is linked mainly to the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> First stage</div><div class="pyq-opt"><span class="opt-letter">B</span> Second stage</div><div class="pyq-opt"><span class="opt-letter">C</span> Fourth stage</div><div class="pyq-opt"><span class="opt-letter">D</span> Post-transition only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Acceleration is classically linked to the **second** stage.
+
+**Logic:** Stage-3/4 keys are common distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements is/are correct?<br><br>1. Sex ratio improved from 2001 to 2011.<br>2. Child sex ratio improved from 2001 to 2011.<br>3. Literacy rate in 2011 was 74.04%.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** CSR fell from **927 to 919** — opposite direction from overall sex ratio.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which State showed negative decadal growth in 2001–11?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">B</span> Goa</div><div class="pyq-opt"><span class="opt-letter">C</span> Nagaland</div><div class="pyq-opt"><span class="opt-letter">D</span> Sikkim</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nagaland** recorded negative growth (−0.6%).
+
+**Logic:** Kerala/Goa are low-growth, not negative; Sikkim is least populous, not negative-growth.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Replacement-level fertility is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> TFR 2.1 children per woman</div><div class="pyq-opt"><span class="opt-letter">B</span> CBR 2.1 per thousand</div><div class="pyq-opt"><span class="opt-letter">C</span> TFR 2.1 per thousand</div><div class="pyq-opt"><span class="opt-letter">D</span> CDR 2.1 per thousand</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Replacement TFR ≈ **2.1 children per woman**.
+
+**Logic:** “Per thousand” wording belongs to CBR/CDR, not TFR.</div>
+  </div>
+</div>

@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 15 — Sustainable Development & Environmental Governance</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Sustainable development** (Brundtland **1987**, *Our Common Future*) means meeting present needs without compromising future generations’ ability to meet theirs.
@@ -75,27 +64,6 @@ hide:
 49. **Environmental justice** means fair treatment of all in environmental benefits and burdens — both **distributive** (who gets pollution) and **procedural** (who participates in decisions).
 50. **Environmental ethics** asks what moral duties humans owe to nature.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Climate Summits & Treaties
-
-```
-1972 ──► UN Conference on Human Environment (Stockholm) ➔ Creation of UNEP (Nairobi) & World Environment Day (5 June)
-1979 ──► First World Climate Conference (Geneva) ➔ Established World Climate Programme
-1987 ──► Montreal Protocol on Substances that Deplete the Ozone Layer (Signed 16 Sep; ODS phase-out)
-1988 ──► IPCC established by UNEP and WMO (Co-founders: Bert Bolin; Headquarters: Geneva)
-1992 ──► UN Conference on Environment & Development (Rio Earth Summit) ➔ Rio Declaration, Agenda 21, UNFCCC, CBD, UNCCD
-1997 ──► Kyoto Protocol (COP 3) ➔ Legally binding Annex-I emission reduction targets (Common But Differentiated Responsibilities)
-2002 ──► World Summit on Sustainable Development (Johannesburg Earth Summit) ➔ Focus on water, energy, health, agriculture
-2012 ──► Rio+20 Conference (UNCSD, Rio de Janeiro) ➔ "The Future We Want", process to launch SDGs
-2015 ──► Paris Agreement (COP 21) ➔ Universal pledge-and-review; limit warming to "well below 2°C, pursue 1.5°C"; NDCs
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Phase-down of climate-warming Hydrofluorocarbons (HFCs)
-2021 ──► Glasgow Climate Pact (COP 26) ➔ "Phase-down" of unabated coal; launch of LiFE (Lifestyle for Environment) by India
-2022 ──► Sharm el-Sheikh Implementation Plan (COP 27) ➔ Landmark decision to establish a Loss and Damage Fund
-2022 ──► Kunming-Montreal Global Biodiversity Framework (CBD COP 15) ➔ 30×30 conservation target by 2030
-2023 ──► COP 28 (Dubai, UAE) ➔ "UAE Consensus", First Global Stocktake, agreement to "transition away from fossil fuels"
-```
-
 ## 📊 Quick Reference Grid
 
 ### Spine
@@ -110,373 +78,301 @@ hide:
 | Conference chain | Stockholm 72 → Brundtland 87 → Rio 92 → SDGs 15 |
 | Agenda 21 | Rio **1992** (≠ 1995) |
 | NITI SDG Index top | Kerala repeatedly first; HP/TN near top |
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-### Table: Global Environmental Reports & Flagship Publications
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| Publication / Report | Publishing Agency | Frequency / Milestone | Core Prelims Focus Area |
-| :--- | :--- | :--- | :--- |
-| **Assessment Reports (AR1 to AR6)** | **IPCC** (Intergovernmental Panel on Climate Change) | Every 6–7 years (AR6 Synthesis: 2023) | Scientific consensus on climate change, carbon budgets, 1.5°C pathways |
-| **Emissions Gap Report** | **UNEP** (United Nations Environment Programme) | Annual | Gap between national NDC pledges and 1.5°C / 2°C temperature trajectories |
-| **Adaptation Gap Report** | **UNEP** | Annual | Assessment of global adaptation financing, planning, and implementation deficit |
-| **Global Environment Outlook (GEO)** | **UNEP** | Periodic flagship | Comprehensive state of the global environment, policy responses |
-| **Living Planet Report** | **WWF** (World Wide Fund for Nature) | Biennial | Living Planet Index tracking vertebrate population declines (~69% decline) |
-| **IUCN Red List of Threatened Species** | **IUCN** (Gland, Switzerland) | Continuous / Annual update | 9 categories: EX, EW, CR, EN, VU, NT, LC, DD, NE |
-| **Global Biodiversity Outlook (GBO)** | **CBD Secretariat** | Periodic (GBO-5 in 2020) | Progress against Aichi Biodiversity Targets / Kunming-Montreal GBF |
-| **State of the World's Forests (SOFO)** | **FAO** (Food and Agriculture Organization) | Biennial | Global forest cover, deforestation rates, agroforestry and livelihoods |
-| **World Air Quality Report** | **IQAir** | Annual | Global PM2.5 city rankings and WHO guidelines compliance |
-| **SDG India Index & Dashboard** | **NITI Aayog** | Annual | Performance of Indian States/UTs across 16 SDGs (Kerala consistently #1) |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Brundtland Report (1987)** | **Limits to Growth (1972)** | UN World Commission on Environment & Development (*Our Common Future*) coining the definition of Sustainable Development vs Club of Rome computer-simulation study modeling impending resource depletion and economic collapse | ब्रंटलैंड रिपोर्ट (1987, सतत विकास) / लिमिट्स टू ग्रोथ (1972) |
-| **Millennium Development Goals (MDGs)** | **Sustainable Development Goals (SDGs)** | 8 anti-poverty targets for 2000–2015 focused primarily on developing nations funded by rich countries vs 17 universal, integrated economic-social-environmental goals (Agenda 2030) adopted in 2015 applying to all nations equally | सहस्राब्दी विकास लक्ष्य (MDGs) / सतत विकास लक्ष्य (SDGs 2030) |
-| **Green Economy** | **Circular Economy** | Macro-economic development paradigm promoting low-carbon growth, resource efficiency, and social equity (UNEP) vs regenerative industrial design philosophy eliminating waste and keeping materials in closed continuous cycles | हरित अर्थव्यवस्था (व्यापक मॉडल) / चक्रीय अर्थव्यवस्था (पुनर्चक्रण लूप) |
-| **Linear Economy** | **Circular Economy** | Traditional unsustainable industrial model based on "take, make, use, and dispose" vs restorative circular model based on "reduce, reuse, repair, refurbish, and recycle" | रैखिक अर्थव्यवस्था (कचरा उत्पादक) / चक्रीय अर्थव्यवस्था (शून्य अपशिष्ट) |
-| **Mission LiFE (2022)** | **Agenda 21 (1992)** | Mass global citizen movement conceptualized by India to replace mindless consumption with mindful individual sustainable lifestyle actions vs Rio 1992 comprehensive non-binding intergovernmental action plan for sustainable governance | मिशन लाइफ (LiFE, व्यक्तिगत जीवनशैली) / एजेंडा 21 (सरकारी कार्ययोजना) |
-| **Natural Capital** | **Manufactured Capital** | World's natural ecological assets including geology, soil, air, water, biodiversity, and ecosystem services vs human-created physical infrastructure, machinery, factories, and financial assets | प्राकृतिक पूंजी (पारिस्थितिक संपदा) / निर्मित पूंजी (मानव-निर्मित संपत्ति) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-**Assertion (A):** Sustainable development should occur without harming the environment or compromising the needs of future generations.
-
-**Reason (R):** Agenda 21 was signed by world leaders in **1995**.
-
-A. Both (A) and (R) are true but (R) is not the correct explanation of (A). 
-B. (A) is false but (R) is true. 
-C. (A) is true but (R) is false. 
-D. Both (A) and (R) are true and (R) is the correct explanation of (A). 
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests Brundtland-style SD definition; R tests Agenda 21 signing year at Rio.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">**Assertion (A):** Sustainable development should occur without harming the environment or compromising the needs of future generations.<br><br>**Reason (R):** Agenda 21 was signed by world leaders in **1995**.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true but (R) is not the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false but (R) is true.</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true but (R) is false.</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A).</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** A tests Brundtland-style SD definition; R tests Agenda 21 signing year at Rio.
 
 **Ans: C.** A states the core SD principle correctly; R is false — **Agenda 21 was adopted at Rio 1992**, not 1995.
 
-**Trap:** 1995 sounds like a plausible post-Rio follow-up year — the Earth Summit was **1992**.
+**Trap:** 1995 sounds like a plausible post-Rio follow-up year — the Earth Summit was **1992**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-**Assertion (A):** Sustainable development was popularised by the Brundtland Report.
-
-**Reason (R):** The Brundtland Report is also known as *The Limits to Growth*.
-
-A. Both (A) and (R) are true but (R) is not the correct explanation of (A). 
-B. (A) is false but (R) is true. 
-C. Both (A) and (R) are true and (R) is the correct explanation of (A). 
-D. (A) is true but (R) is false. 
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests Brundtland authorship of SD concept; R tests alternate book-title trap.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">**Assertion (A):** Sustainable development was popularised by the Brundtland Report.<br><br>**Reason (R):** The Brundtland Report is also known as *The Limits to Growth*.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true but (R) is not the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false but (R) is true.</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (A) and (R) are true and (R) is the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is true but (R) is false.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** A tests Brundtland authorship of SD concept; R tests alternate book-title trap.
 
 **Ans: D.** Brundtland did popularise SD in ***Our Common Future* (1987)**; *The Limits to Growth* is a **different 1972 Club of Rome report**.
 
-**Trap:** Both are famous environment reports — titles are **not interchangeable**.
+**Trap:** Both are famous environment reports — titles are **not interchangeable**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Match **SDG number** with **official goal name**:
-
-| List I (Goal) | List II (Name) |
-|---------------|----------------|
-| 1. Goal 1 | A. Clean Water and Sanitation |
-| 2. Goal 3 | B. Quality Education |
-| 3. Goal 4 | C. No Poverty |
-| 4. Goal 6 | D. Good Health and Well-being |
-
-*Row order is not the answer code.*
-
-A. 1–C, 2–D, 3–B, 4–A 
-B. 1–D, 2–C, 3–A, 4–B 
-C. 1–A, 2–B, 3–C, 4–D 
-D. 1–B, 2–A, 3–D, 4–C 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** SDG number–name matching for high-frequency goals 1, 3, 4, 6.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match **SDG number** with **official goal name**:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List I (Goal)</th><th>List II (Name)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Goal 1</td><td><span class="match-key">A</span> Clean Water and Sanitation</td></tr>
+      <tr><td><span class="match-key">2</span> Goal 3</td><td><span class="match-key">B</span> Quality Education</td></tr>
+      <tr><td><span class="match-key">3</span> Goal 4</td><td><span class="match-key">C</span> No Poverty</td></tr>
+      <tr><td><span class="match-key">4</span> Goal 6</td><td><span class="match-key">D</span> Good Health and Well-being</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1–C, 2–D, 3–B, 4–A</div><div class="pyq-opt"><span class="opt-letter">B</span> 1–D, 2–C, 3–A, 4–B</div><div class="pyq-opt"><span class="opt-letter">C</span> 1–A, 2–B, 3–C, 4–D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1–B, 2–A, 3–D, 4–C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** SDG number–name matching for high-frequency goals 1, 3, 4, 6.
 
 **Ans: B.** Goal **1 = No Poverty**; **3 = Good Health**; **4 = Quality Education**; **6 = Clean Water and Sanitation** (code **3 4 2 1** in paper notation).
 
-**Trap:** Swapping Goals **3 and 4** (health vs education) is the most common match-list error.
+**Trap:** Swapping Goals **3 and 4** (health vs education) is the most common match-list error.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-**Assertion (A):** India's success is critical for global SDG success.
-
-**Reason (R):** India accounts for nearly **one-sixth** of the world's population.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A). 
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A). 
-C. (A) is true but (R) is false. 
-D. (A) is false but (R) is true. 
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests India's weight in global SDG outcomes; R tests demographic scale as the explaining factor.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">**Assertion (A):** India's success is critical for global SDG success.<br><br>**Reason (R):** India accounts for nearly **one-sixth** of the world's population.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true but (R) is not the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true but (R) is false.</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false but (R) is true.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** A tests India's weight in global SDG outcomes; R tests demographic scale as the explaining factor.
 
 **Ans: A.** With ~**1/6 of world population**, India's SDG performance heavily shapes global totals — R correctly explains A.
 
-**Trap:** "Critical for global success" follows from **population scale + development footprint**, not geography alone.
+**Trap:** "Critical for global success" follows from **population scale + development footprint**, not geography alone.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-The **SDG National Indicator Framework Progress Report** for Uttar Pradesh is prepared by the State's—
-
-A. Finance Department 
-B. **Planning Department** 
-C. Education Department 
-D. Forest Department 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP governance fact — SDG indicator reporting sits with state planning machinery.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The **SDG National Indicator Framework Progress Report** for Uttar Pradesh is prepared by the State's—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Finance Department</div><div class="pyq-opt"><span class="opt-letter">B</span> **Planning Department**</div><div class="pyq-opt"><span class="opt-letter">C</span> Education Department</div><div class="pyq-opt"><span class="opt-letter">D</span> Forest Department</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP governance fact — SDG indicator reporting sits with state planning machinery.
 
 **Ans: B.** UP's **Planning Department** prepares the SDG National Indicator Framework Progress Report.
 
-**Trap:** Finance Department handles budgets — **Planning Department** owns SDG indicator reporting.
+**Trap:** Finance Department handles budgets — **Planning Department** owns SDG indicator reporting.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-With reference to **LiFE (Lifestyle for Environment)**, consider the following:
-
-1. LiFE was launched in **June 2022**. 
-2. The idea was proposed at **COP-25 in Madrid**. 
-
-A. 2 only 
-B. Neither 1 nor 2 
-C. Both 1 and 2 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Governance/mission fact — LiFE launch vs COP venue of original announcement.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to **LiFE (Lifestyle for Environment)**, consider the following:<br><br>1. LiFE was launched in **June 2022**. <br>2. The idea was proposed at **COP-25 in Madrid**.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Governance/mission fact — LiFE launch vs COP venue of original announcement.
 
 **Ans: D.** LiFE launched **June 2022**; the concept was announced at **COP-26 Glasgow (2021)**, not COP-25.
 
-**Trap:** COP-25 Madrid is geographically plausible — Glasgow **2021** is correct.
+**Trap:** COP-25 Madrid is geographically plausible — Glasgow **2021** is correct.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-Which of the following are essential for achieving **SDG 4 (Quality Education)**?
-
-1. Free and compulsory education 
-2. School infrastructure and digital transformation 
-3. Expansion of agricultural programmes 
-4. Increasing investment in technology 
-
-A. 1 and 2 only 
-B. 1, 2 and 4 only 
-C. 2 and 3 only 
-D. All four 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** SDG 4 core targets vs unrelated agricultural expansion distractor.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following are essential for achieving **SDG 4 (Quality Education)**?<br><br>1. Free and compulsory education <br>2. School infrastructure and digital transformation <br>3. Expansion of agricultural programmes <br>4. Increasing investment in technology</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> All four</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** SDG 4 core targets vs unrelated agricultural expansion distractor.
 
 **Ans: A.** SDG 4 centres on **access, quality, and infrastructure** — agricultural programme expansion is not a core SDG 4 pillar.
 
-**Trap:** Statement 4 (technology investment) sounds education-relevant but the keyed combo is **1 and 2** — statement 3 is clearly off-topic.
+**Trap:** Statement 4 (technology investment) sounds education-relevant but the keyed combo is **1 and 2** — statement 3 is clearly off-topic.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-With reference to **carrying capacity**, consider the following:
-
-1. Resource extraction should remain **above** regeneration. 
-2. Waste should stay within environmental **absorption capacity**. 
-
-A. 2 only 
-B. Neither 1 nor 2 
-C. Both 1 and 2 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** SD operational test — sustainable development requires living within regeneration and absorption limits.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to **carrying capacity**, consider the following:<br><br>1. Resource extraction should remain **above** regeneration. <br>2. Waste should stay within environmental **absorption capacity**.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** SD operational test — sustainable development requires living within regeneration and absorption limits.
 
 **Ans: A.** Statement 2 defines sustainable waste limits; statement 1 reverses the regeneration rule.
 
-**Trap:** SD governance stems often embed this carrying-capacity pair — only statement 2 survives scrutiny.
+**Trap:** SD governance stems often embed this carrying-capacity pair — only statement 2 survives scrutiny.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-The **Bhopal Gas Tragedy (1984)** directly catalysed enactment of the—
-
-A. Stockholm Declaration enforcement Act 
-B. **Environment (Protection) Act, 1986** 
-C. Biological Diversity Act, 2002 
-D. NGT Act, 2010 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Environmental governance timeline — Bhopal exposed regulatory gaps leading to EPA.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">The **Bhopal Gas Tragedy (1984)** directly catalysed enactment of the—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Stockholm Declaration enforcement Act</div><div class="pyq-opt"><span class="opt-letter">B</span> **Environment (Protection) Act, 1986**</div><div class="pyq-opt"><span class="opt-letter">C</span> Biological Diversity Act, 2002</div><div class="pyq-opt"><span class="opt-letter">D</span> NGT Act, 2010</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Environmental governance timeline — Bhopal exposed regulatory gaps leading to EPA.
 
 **Ans: B.** Bhopal **1984** led to India's comprehensive **EPA 1986** and later EIA notification.
 
-**Trap:** NGT (**2010**) is much later — the **immediate legislative response** was EPA **1986**.
+**Trap:** NGT (**2010**) is much later — the **immediate legislative response** was EPA **1986**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.**
-
-The **green economy** (UNEP, 2011) emphasises—
-
-A. High-coal growth with waste maximisation 
-B. **Low-carbon, resource-efficient, socially inclusive growth** 
-C. Ozone-layer depletion as a development goal 
-D. Elimination of all industrial activity 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UNEP green economy definition — well-being + equity + lower environmental risk.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The **green economy** (UNEP, 2011) emphasises—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> High-coal growth with waste maximisation</div><div class="pyq-opt"><span class="opt-letter">B</span> **Low-carbon, resource-efficient, socially inclusive growth**</div><div class="pyq-opt"><span class="opt-letter">C</span> Ozone-layer depletion as a development goal</div><div class="pyq-opt"><span class="opt-letter">D</span> Elimination of all industrial activity</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UNEP green economy definition — well-being + equity + lower environmental risk.
 
 **Ans: B.** Green economy pursues improved well-being and equity while **cutting environmental risk and ecological scarcity**.
 
-**Trap:** Green economy is **not** anti-industry — it redesigns growth to be **resource-efficient and inclusive**.
+**Trap:** Green economy is **not** anti-industry — it redesigns growth to be **resource-efficient and inclusive**.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to sustainable development, which of the following statements is/are correct?<br><br>1. Brundtland 1997 (*Our Common Future*) defines meeting present needs without compromising future generations.<br>2. Brundtland is identical to *Limits to Growth* (1972).<br>3. SD rests on economic, social, and environmental pillars.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
 
-**Q11.** With reference to sustainable development, which of the following statements is/are correct?
+**Logic:** Only statement 3 remains true among the numbered claims. Statement 1 is false. Statement 2 is false. Statement 3 is true.</div>
+  </div>
+</div>
 
-1. Brundtland 1997 (*Our Common Future*) defines meeting present needs without compromising future generations.
-2. Brundtland is identical to *Limits to Growth* (1972).
-3. SD rests on economic, social, and environmental pillars.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Arrange conference chain:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> SDGs 2015 → Rio 1992 → Stockholm 1972</div><div class="pyq-opt"><span class="opt-letter">B</span> Rio 1992 → Stockholm 1972 → Brundtland 1987</div><div class="pyq-opt"><span class="opt-letter">C</span> Stockholm 1972 → Brundtland 1987 → Rio 1992 → SDGs 2015</div><div class="pyq-opt"><span class="opt-letter">D</span> Brundtland 1987 → Stockholm 1972 → SDGs 2015</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1972 → 1987 → 1992 → 2015.
 
-A. Only 3
-B. Only 1
-C. 1 and 2
-D. 2 and 3
+**Logic:** Stockholm–Brundtland–Rio–SDGs.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to SDGs, which of the following statements is/are correct?<br><br>1. Adopted September 2007; run to 2030.<br>2. 17 goals and 169 targets.<br>3. SDGs apply only to developing countries and did not replace the MDGs.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
 
-**Ans: A.** Only 3 is correct.
+**Logic:** Statement 2 is correct (17/169). Statement 1 is false — SDGs were adopted in 2015, not 2007. Statement 3 is false — SDGs replaced MDGs and apply universally.</div>
+  </div>
+</div>
 
-**Logic:** Only statement 3 remains true among the numbered claims. Statement 1 is false. Statement 2 is false. Statement 3 is true.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> SDG 6</td><td><span class="match-key">1</span> Climate</td></tr>
+      <tr><td><span class="match-key">B</span> SDG 7</td><td><span class="match-key">2</span> Water</td></tr>
+      <tr><td><span class="match-key">C</span> SDG 13</td><td><span class="match-key">3</span> Energy</td></tr>
+      <tr><td><span class="match-key">D</span> SDG 15</td><td><span class="match-key">4</span> Life on land</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-2, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-3, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-3, C-1, D-4.
 
-</details>
+**Logic:** 6 water; 7 energy; 13 climate; 15 land.</div>
+  </div>
+</div>
 
-**Q12.** Arrange conference chain:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Agenda 21 belongs to Rio 1992.<br><br>Reason (R): Agenda 21 was signed in 1995 as a binding climate treaty.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true, R false.
 
-A. SDGs 2015 → Rio 1992 → Stockholm 1972
-B. Rio 1992 → Stockholm 1972 → Brundtland 1987
-C. Stockholm 1972 → Brundtland 1987 → Rio 1992 → SDGs 2015
-D. Brundtland 1987 → Stockholm 1972 → SDGs 2015
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1972 → 1987 → 1992 → 2015.
-
-**Logic:** Stockholm–Brundtland–Rio–SDGs.
-
-</details>
-
-**Q13.** With reference to SDGs, which of the following statements is/are correct?
-
-1. Adopted September 2007; run to 2030.
-2. 17 goals and 169 targets.
-3. SDGs apply only to developing countries and did not replace the MDGs.
-
-A. 1 and 2
-B. Only 3
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Statement 2 is correct (17/169). Statement 1 is false — SDGs were adopted in 2015, not 2007. Statement 3 is false — SDGs replaced MDGs and apply universally.
-
-</details>
-
-**Q14.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. SDG 6 | 1. Climate |
-| B. SDG 7 | 2. Water |
-| C. SDG 13 | 3. Energy |
-| D. SDG 15 | 4. Life on land |
-
-Code:
-
-A. A-2, B-3, C-1, D-4
-B. A-3, B-2, C-1, D-4
-C. A-2, B-1, C-3, D-4
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** A-2, B-3, C-1, D-4.
-
-**Logic:** 6 water; 7 energy; 13 climate; 15 land.
-
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Agenda 21 belongs to Rio 1992.
-
-Reason (R): Agenda 21 was signed in 1995 as a binding climate treaty.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true, R false.
-
-**A/R logic:** 1992 non-binding SD action plan — not 1995 climate treaty.
-
-</details>
+**A/R logic:** 1992 non-binding SD action plan — not 1995 climate treaty.</div>
+  </div>
+</div>

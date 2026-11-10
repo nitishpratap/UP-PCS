@@ -201,21 +201,6 @@ hide:
 | **Silver Nitrate ($AgNO_3$)** | Indelible Marker | **Voter's Ink** (Stains fingernail during democratic elections) | Match: Silver Nitrate $\leftrightarrow$ Voter's Ink |
 | **Potassium Chlorate ($KClO_3$)**| Strong Oxidizer | **Matchstick Heads** (Friction ignition with red phosphorus) | Match: $KClO_3 \leftrightarrow$ Matchstick ignition |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Laughing Gas** | **Tear Gas** | **Laughing gas is NITROUS OXIDE ($N_2O$)**, an odorless/sweet gas used as a mild anaesthetic. **Tear gas is CHLOROPICRIN ($CCl_3NO_2$)** or CS gas, an irritating fuming lacrimator. | लाफिंग गैस = नाइट्रस ऑक्साइड ($N_2O$); आंसू गैस = क्लोरोपिक्रिन ($CCl_3NO_2$) |
-| **Silver Nitrate ($AgNO_3$)** | **Silver Iodide ($AgI$)** | **Silver Nitrate ($AgNO_3$) is used in VOTER'S INDELIBLE INK** (reacts with skin protein and sunlight). **Silver Iodide ($AgI$) is used for ARTIFICIAL RAIN (Cloud Seeding)**. | सिल्वर नाइट्रेट = मतदान की अमिट स्याही; सिल्वर आयोडाइड = कृत्रिम वर्षा (Cloud Seeding) |
-| **Silver Bromide ($AgBr$)** | **Silver Nitrate** | **Silver Bromide ($AgBr$) is used in BLACK-AND-WHITE PHOTOGRAPHY** film emulsions (sensitive to light). | सिल्वर ब्रोमाइड = श्वेत-श्याम फोटोग्राफी फिल्म में प्रयुक्त |
-| **Densest Metal** | **Heaviest Natural Element**| The **DENSEST metal is OSMIUM ($Os, 22.59\text{ g/cm}^3$)**, which has the highest mass-per-volume. The **HEAVIEST natural element by atomic number/mass is URANIUM ($Z=92, 238\text{ u}$)**. | सबसे भारी (घना) तत्व = ओस्मियम (घनत्व $22.59\text{ g/cm}^3$); सबसे भारी प्राकृतिक तत्व = यूरेनियम ($Z=92$) |
-| **Blue Vitriol** | **Green Vitriol** | **Blue Vitriol is COPPER Sulphate ($CuSO_4 \cdot 5H_2O$)**. **Green Vitriol is FERROUS (Iron) Sulphate ($FeSO_4 \cdot 7H_2O$)**. **White Vitriol is ZINC Sulphate ($ZnSO_4 \cdot 7H_2O$)**. | नीला थोथा = कॉपर सल्फेट; हरा कसीस = फेरस सल्फेट; सफेद थोथा = जिंक सल्फेट |
-| **Rat Poison (Rodenticide)** | **Zinc Oxide Confusion** | The classic chemical rat poison is **ZINC PHOSPHIDE ($Zn_3P_2$)**, which reacts with stomach acid to release lethal phosphine gas ($PH_3$). Zinc Oxide ($ZnO$) is merely an antiseptic ointment (Philosopher's wool). | चूहे मारने की दवा (Rodenticide) = जिंक फॉस्फाइड ($Zn_3P_2$) |
-| **Tallow in Soap** | **Castor Oil in Transparent Soap**| Transparent soaps (e.g. Pears) are prepared by dissolving ordinary soap in **Ethanol (Alcohol)** and evaporating the excess. Tallow/fats are used for opaque laundry soaps. | पारदर्शी साबुन बनाने हेतु साबुन को एथेनॉल (एल्कोहॉल) में घोला जाता है |
-| **Chloroform Storage Danger** | **Phosgene Formation** | Chloroform ($CHCl_3$) must be stored in dark amber bottles completely filled to the brim. In the presence of sunlight and air, it **photochemically oxidizes into PHOSGENE ($COCl_2$), a lethal choking gas**. | क्लोरोफॉर्म को धूप में खुला छोड़ने पर विषैली फॉसजीन गैस ($COCl_2$) बन जाती है |
-| **Vermillion (Sindoor)** | **Red Lead Confusion** | Traditional cosmetic vermillion is pure **Mercuric Sulphide ($HgS$)**. Red lead (*Sindoor* substitute) is trilead tetroxide ($Pb_3O_4$). | पारंपरिक सिंदूर = मरक्युरिक सल्फाइड ($HgS$); लाल सिंदूर = लेड ऑक्साइड ($Pb_3O_4$) |
-| **Gold Dissolving Solvent** | **Concentrated Nitric Acid Myth**| Pure gold **DOES NOT dissolve in concentrated nitric acid alone**. It dissolves only in **AQUA REGIA ($3\text{ HCl} + 1\text{ HNO}_3$)**, where nascent chlorine attacks gold to form soluble chlorauric acid. | सोना शुद्ध नाइट्रिक अम्ल में नहीं घुलता; यह केवल अम्लराज (Aqua Regia) में घुलता है |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The Three Silver Champions of PCS Prelims:
@@ -235,246 +220,232 @@ hide:
 - **Hardest**: **D**iamond.
 - **Highest Melting Metal**: **W**olfram / Tungsten ($3422^\circ\text{C}$).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Who is celebrated as the "Father of Modern Chemistry"?
-(a) John Dalton  
-(b) Antoine Lavoisier  
-(c) Robert Boyle  
-(d) Jöns Jacob Berzelius  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Antoine Lavoisier formulated the law of conservation of mass, named oxygen and hydrogen, and published the first modern list of elements.
-
-**Ans: B.** Antoine Lavoisier
-</details>
-
-**Q2.**
-
-Which chemical salt is used as a light-sensitive indelible marker in Indian election voting ink?
-(a) Silver chloride  
-(b) Silver nitrate (Lunar Caustic)  
-(c) Silver iodide  
-(d) Silver bromide  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Silver nitrate ($AgNO3$) photoreduces on skin into metallic silver, leaving an indelible stain.
-
-**Ans: B.** Silver nitrate (Lunar Caustic)
-</details>
-
-**Q3.**
-
-What is the primary function of Heavy Water ($D_2O$) in Pressurized Heavy Water Reactors (PHWRs)?
-(a) Nuclear fuel  
-(b) Moderator to slow down neutrons  
-(c) Absorber to stop neutrons  
-(d) Radiation detector  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Heavy water slows fast fission neutrons to thermal speeds without absorbing them, sustaining the chain reaction.
-
-**Ans: B.** Moderator to slow down neutrons
-</details>
-
-**Q4.**
-
-What is the chemical formula of "Sindoor" (Red Lead / Minium)?
-(a) $PbO$  
-(b) $PbO_2$  
-(c) $Pb_3O_4$  
-(d) $Pb(NO_3)_2$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches $Pb3O4$.
-
-**Ans: C.** $Pb3O4$
-</details>
-
-**Q5.**
-
-Temporary hardness of water is caused by dissolved:
-(a) Chlorides of calcium and magnesium  
-(b) Bicarbonates of calcium and magnesium  
-(c) Sulphates of calcium and magnesium  
-(d) Nitrates of sodium  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bicarbonates ($Ca(HCO3)2, Mg(HCO3)2$) cause temporary hardness, removable by boiling.
-
-**Ans: B.** Bicarbonates of calcium and magnesium
-</details>
-
-**Q6.**
-
-Which reagent is added in Clark's process to remove temporary water hardness?
-(a) Common salt ($NaCl$)  
-(b) Slaked lime ($Ca(OH)_2$)  
-(c) Hydrochloric acid  
-(d) Nitric acid  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Clark's process uses slaked lime to precipitate calcium carbonate.
-
-**Ans: B.** Slaked lime ($Ca(OH)2$)
-</details>
-
-**Q7.**
-
-Which of the following compounds is commonly known as "Calomel"?
-(a) $HgCl_2$  
-(b) $Hg_2Cl_2$  
-(c) $HgO$  
-(d) $HgS$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Calomel is mercurous chloride ($Hg2Cl2$).
-
-**Ans: B.** $Hg2Cl2$
-</details>
-
-**Q8.**
-
-"Dry Ice" is the solid form of which gas?
-(a) Nitrogen  
-(b) Carbon dioxide  
-(c) Oxygen  
-(d) Sulphur dioxide  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dry ice is solid $CO2$, subliming at $-78.5^\circ\text{C}$.
-
-**Ans: B.** Carbon dioxide
-</details>
-
-**Q9.**
-
-Who synthesized the first organic compound (urea) from an inorganic substance in 1828?
-(a) Friedrich Wöhler  
-(b) Jöns Jacob Berzelius  
-(c) August Kekulé  
-(d) Louis Pasteur  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Friedrich Wöhler synthesized urea from ammonium cyanate, overturning the Vital Force Theory.
-
-**Ans: A.** Friedrich Wöhler
-</details>
-
-**Q10.**
-
-Acharya Prafulla Chandra Ray is famous for discovering and synthesizing:
-(a) Heavy water  
-(b) Mercurous nitrite  
-(c) Benzene  
-(d) Dynamite  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Mercurous nitrite.
-
-**Ans: B.** Mercurous nitrite
-</details>
-
-**Q11.**
-
-What is the red dye used as a coloring agent in commercial red ink?
-(a) Methylene blue  
-(b) Eosin  
-(c) Malachite green  
-(d) Indigo  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Eosin.
-
-**Ans: B.** Eosin
-</details>
-
-**Q12.**
-
-What is the common name for Lead Monoxide ($PbO$)?
-(a) Sindoor  
-(b) Litharge  
-(c) Calomel  
-(d) Corrosive sublimate  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Litharge is lead monoxide ($PbO$).
-
-**Ans: B.** Litharge
-</details>
-
-**Q13.**
-
-Which radioactive isotope of hydrogen has a half-life of $\approx 12.3\text{ years}$?
-(a) Protium  
-(b) Deuterium  
-(c) Tritium  
-(d) Helium-3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Tritium.
-
-**Ans: C.** Tritium
-</details>
-
-**Q14.**
-
-Calgon used in water softening is chemically:
-(a) Sodium hexametaphosphate  
-(b) Sodium carbonate  
-(c) Sodium chloride  
-(d) Calcium carbonate  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Calgon is sodium hexametaphosphate ($Na6P6O{18}$), which sequesters calcium and magnesium ions.
-
-**Ans: A.** Sodium hexametaphosphate
-</details>
-
-**Q15.**
-
-The exhausted zeolite bed in water softening is regenerated using an aqueous solution of:
-(a) Common salt ($NaCl$ brine)  
-(b) Sulphuric acid  
-(c) Sodium hydroxide  
-(d) Bleaching powder  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Zeolite beds are regenerated by backwashing with a $10\%$ $NaCl$ brine solution to replace captured $Ca^{2+}$ with $Na^+$.
-
-**Ans: A.** Common salt ($NaCl$ brine)
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Who is celebrated as the "Father of Modern Chemistry"?<br>(a) John Dalton  <br>(b) Antoine Lavoisier  <br>(c) Robert Boyle  <br>(d) Jöns Jacob Berzelius</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Antoine Lavoisier formulated the law of conservation of mass, named oxygen and hydrogen, and published the first modern list of elements.
+
+**Ans: B.** Antoine Lavoisier</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which chemical salt is used as a light-sensitive indelible marker in Indian election voting ink?<br>(a) Silver chloride  <br>(b) Silver nitrate (Lunar Caustic)  <br>(c) Silver iodide  <br>(d) Silver bromide</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Silver nitrate ($AgNO3$) photoreduces on skin into metallic silver, leaving an indelible stain.
+
+**Ans: B.** Silver nitrate (Lunar Caustic)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">What is the primary function of Heavy Water ($D_2O$) in Pressurized Heavy Water Reactors (PHWRs)?<br>(a) Nuclear fuel  <br>(b) Moderator to slow down neutrons  <br>(c) Absorber to stop neutrons  <br>(d) Radiation detector</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Heavy water slows fast fission neutrons to thermal speeds without absorbing them, sustaining the chain reaction.
+
+**Ans: B.** Moderator to slow down neutrons</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">What is the chemical formula of "Sindoor" (Red Lead / Minium)?<br>(a) $PbO$  <br>(b) $PbO_2$  <br>(c) $Pb_3O_4$  <br>(d) $Pb(NO_3)_2$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches $Pb3O4$.
+
+**Ans: C.** $Pb3O4$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Temporary hardness of water is caused by dissolved:<br>(a) Chlorides of calcium and magnesium  <br>(b) Bicarbonates of calcium and magnesium  <br>(c) Sulphates of calcium and magnesium  <br>(d) Nitrates of sodium</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bicarbonates ($Ca(HCO3)2, Mg(HCO3)2$) cause temporary hardness, removable by boiling.
+
+**Ans: B.** Bicarbonates of calcium and magnesium</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which reagent is added in Clark's process to remove temporary water hardness?<br>(a) Common salt ($NaCl$)  <br>(b) Slaked lime ($Ca(OH)_2$)  <br>(c) Hydrochloric acid  <br>(d) Nitric acid</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Clark's process uses slaked lime to precipitate calcium carbonate.
+
+**Ans: B.** Slaked lime ($Ca(OH)2$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following compounds is commonly known as "Calomel"?<br>(a) $HgCl_2$  <br>(b) $Hg_2Cl_2$  <br>(c) $HgO$  <br>(d) $HgS$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Calomel is mercurous chloride ($Hg2Cl2$).
+
+**Ans: B.** $Hg2Cl2$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">"Dry Ice" is the solid form of which gas?<br>(a) Nitrogen  <br>(b) Carbon dioxide  <br>(c) Oxygen  <br>(d) Sulphur dioxide</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dry ice is solid $CO2$, subliming at $-78.5^\circ\text{C}$.
+
+**Ans: B.** Carbon dioxide</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Who synthesized the first organic compound (urea) from an inorganic substance in 1828?<br>(a) Friedrich Wöhler  <br>(b) Jöns Jacob Berzelius  <br>(c) August Kekulé  <br>(d) Louis Pasteur</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Friedrich Wöhler synthesized urea from ammonium cyanate, overturning the Vital Force Theory.
+
+**Ans: A.** Friedrich Wöhler</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Acharya Prafulla Chandra Ray is famous for discovering and synthesizing:<br>(a) Heavy water  <br>(b) Mercurous nitrite  <br>(c) Benzene  <br>(d) Dynamite</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Mercurous nitrite.
+
+**Ans: B.** Mercurous nitrite</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">What is the red dye used as a coloring agent in commercial red ink?<br>(a) Methylene blue  <br>(b) Eosin  <br>(c) Malachite green  <br>(d) Indigo</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Eosin.
+
+**Ans: B.** Eosin</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">What is the common name for Lead Monoxide ($PbO$)?<br>(a) Sindoor  <br>(b) Litharge  <br>(c) Calomel  <br>(d) Corrosive sublimate</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Litharge is lead monoxide ($PbO$).
+
+**Ans: B.** Litharge</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which radioactive isotope of hydrogen has a half-life of $\approx 12.3\text{ years}$?<br>(a) Protium  <br>(b) Deuterium  <br>(c) Tritium  <br>(d) Helium-3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Tritium.
+
+**Ans: C.** Tritium</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Calgon used in water softening is chemically:<br>(a) Sodium hexametaphosphate  <br>(b) Sodium carbonate  <br>(c) Sodium chloride  <br>(d) Calcium carbonate</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Calgon is sodium hexametaphosphate ($Na6P6O{18}$), which sequesters calcium and magnesium ions.
+
+**Ans: A.** Sodium hexametaphosphate</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The exhausted zeolite bed in water softening is regenerated using an aqueous solution of:<br>(a) Common salt ($NaCl$ brine)  <br>(b) Sulphuric acid  <br>(c) Sodium hydroxide  <br>(d) Bleaching powder</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Zeolite beds are regenerated by backwashing with a $10\%$ $NaCl$ brine solution to replace captured $Ca^{2+}$ with $Na^+$.
+
+**Ans: A.** Common salt ($NaCl$ brine)</div>
+  </div>
+</div>

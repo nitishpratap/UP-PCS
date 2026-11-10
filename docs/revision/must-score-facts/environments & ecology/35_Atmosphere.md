@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 35 — Atmosphere</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. From bottom to top the layers run **Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere**.
@@ -67,22 +56,6 @@ hide:
 41. Assertion (A): Oxygen and helium are not greenhouse gases.
 42. Reason (R): Only CO₂ among all atmospheric gases can ever affect radiation.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Atmospheric & Pollution Milestones
-
-```
-1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
-1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
-1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
-1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
-1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
-1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
-2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
-2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
-```
-
 ## 📊 Quick Reference Grid
 
 ### Structure
@@ -98,348 +71,270 @@ hide:
 | Not GHGs | Ar, N₂, O₂, He |
 | Air heating | Mainly longwave from warmed surface |
 | Homosphere | Well mixed to ~**80 km** |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Troposphere** | **Stratosphere** | Lowest weather layer, temperature decreases with altitude (normal lapse rate 6.5°C/km) vs calm dry layer where temperature increases with height due to UV absorption by ozone | क्षोभमंडल (मौसम परत) / समतापमंडल (ओजोन परत) |
-| **Stratosphere** | **Mesosphere** | Contains protective ozone layer; stable air suited for jet aircraft vs coldest atmospheric layer (-90°C) where incoming meteors burn upon entry | समतापमंडल / मध्यमंडल (उल्कापिंड दहन) |
-| **Mesosphere** | **Thermosphere (Ionosphere)** | Temperature plummets to lowest levels vs temperature surges past 1500°C; contains ionized gas reflecting terrestrial radio waves and hosting auroras | मध्यमंडल / तापमंडल (आयनमंडल) |
-| **Homosphere** | **Heterosphere** | Lower ~85 km where atmospheric gases remain uniformly mixed in proportion vs upper layer where gases stratify by molecular weight (N₂, O, He, H) | सममंडल (समान मिश्रण) / विषममंडल (गुरुत्वाकर्षण परतें) |
-| **Insolation** | **Terrestrial Radiation** | Shortwave electromagnetic solar radiation received by Earth vs outgoing longwave infrared radiation re-radiated by Earth's heated surface | सूर्यताप (लघुतरंग) / भौमिक विकिरण (दीर्घतरंग) |
-| **Good Ozone** | **Bad Ozone** | Naturally occurring stratospheric ozone shielding Earth from solar UV-B vs ground-level tropospheric ozone acting as secondary pollutant and respiratory irritant | अच्छा ओजोन (समतापमंडल) / बुरा ओजोन (क्षोभमंडल) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-The ozone layer, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
-
-A. Troposphere
-
-B. Mesosphere
-
-C. Stratosphere
-
-D. Thermosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ozone layer location — ~90% of atmospheric ozone sits in the stratosphere, not troposphere.
-
-**Ans: C.** Protective ozone maximum is in the **stratosphere** (~15–35 km). **Trap:** Troposphere because of ground-level photochemical ozone pollution.
-
-</details>
-
-**Q2.**
-
-The Earth's atmosphere is mainly heated by which one of the following?
-
-A. Long-wave terrestrial radiation
-
-B. Scattered solar radiation
-
-C. Reflected solar radiation
-
-D. Short-wave solar radiation
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Atmospheric heating — surface emits longwave IR that warms the lower atmosphere from below.
-
-**Ans: A.** The surface absorbs shortwave solar energy and re-emits **longwave terrestrial radiation** that heats the troposphere. **Trap:** Direct shortwave heats the ground first, not the main lower-air heating mechanism.
-
-</details>
-
-**Q3.**
-
-The maximum concentration of Ozone is found in which of the following?
-
-A. Troposphere
-
-B. Mesosphere
-
-C. Stratosphere
-
-D. Exosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Maximum ozone concentration layer — stratosphere in both 2018 and 2023 stems.
-
-**Ans: C.** **Stratosphere** holds peak ozone column. **Trap:** Mesosphere (meteors) or exosphere (satellites).
-
-</details>
-
-**Q4.**
-
-Which of the following pairs is **NOT** correctly matched?
-
-A. Renneting — Cheese
-
-B. Genetic Engineering — Plasmids
-
-C. Golden rice — Vitamin A
-
-D. Ozone layer — Troposphere
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Wrong pair trap — ozone layer is never in troposphere on match lists.
-
-**Ans: D.** Ozone layer = **stratosphere**. A, B, C are correctly matched distractors. **Trap:** Accepting ozone anywhere in the atmosphere as the protective layer location.
-
-</details>
-
-**Q5.**
-
-With reference to the ozone layer:
-
-1. It protects Earth's surface from solar ultraviolet radiation.
-2. Ozone depletion has been linked to CFCs.
-
-A. Only 2
-
-B. Neither
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stratospheric ozone protects from UV; CFCs linked to depletion — both statements true.
-
-**Ans: C.** Good stratospheric ozone shields **UV**; **CFCs/ODS** drive anthropogenic depletion. **Trap:** Denying CFC link or treating all ozone as harmful ground pollutant.
-
-</details>
-
-**Q6.**
-
-Diffusion of light in the atmosphere takes place due to
-
-A. Carbon dioxide
-
-B. Dust particles
-
-C. Helium
-
-D. Water vapours
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Light scattering — dust aerosols scatter sunlight (blue sky, red sunset).
-
-**Ans: B.** **Dust/aerosols** scatter visible light. **Trap:** CO2 (GHG IR trapping) or water vapour alone without aerosol context.
-
-</details>
-
-**Q7.**
-
-Which is **NOT** a greenhouse gas found naturally in the atmosphere?
-
-A. Nitrogen oxide
-
-B. Carbon dioxide
-
-C. Methane
-
-D. Ozone
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Natural GHG set — CO2, CH4, O3 yes; nitrogen oxides not in the classic natural GHG list tested here.
-
-**Ans: A.** **CO2, CH4, O3** are natural GHGs in this stem set; **NOx** is not treated as that major natural GHG basket. **Trap:** Confusing N2 (not GHG) with N2O (is GHG).
-
-</details>
-
-**Q8.**
-
-Weather (clouds, storms, rainfall) occurs mainly in the:
-
-A. Troposphere
-
-B. Stratosphere
-
-C. Mesosphere
-
-D. Thermosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Weather phenomena — confined to troposphere where water vapour and convection dominate.
-
-**Ans: A.** **Troposphere** alone has day-to-day weather. **Trap:** Stratosphere because ozone or jet streams are taught nearby.
-
-</details>
-
-**Q9.**
-
-Which pair is correctly matched?
-
-A. Meteors burning up — Mesosphere
-
-B. Meteors burning up — Troposphere
-
-C. Aurora borealis — Troposphere only
-
-D. International Space Station orbit — Exosphere only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Meteors burn in mesosphere; aurora/ISS in thermosphere — layer-function pairing.
-
-**Ans: A.** **Meteors ~50–85 km (mesosphere)**; aurora/ISS sit in **thermosphere** band. **Trap:** Putting meteors in troposphere because shooting stars appear in the sky below.
-
-</details>
-
-**Q10.**
-
-Near-surface dry air composition includes:
-
-A. Nitrogen ~78%, Oxygen ~21%, Argon ~0.93%
-
-B. Oxygen ~78%, Nitrogen ~21%, CO2 ~21%
-
-C. Argon ~21%, Nitrogen ~0.04%, CO2 ~78%
-
-D. Nitrogen and oxygen both major greenhouse gases
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dry air composition — N2 ~78%, O2 ~21%, Ar ~0.93%; N2 is not a GHG.
-
-**Ans: A.** Permanent gases **N2/O2/Ar** dominate by volume; trace **CO2 ~0.04%** still drives enhanced greenhouse effect. **Trap:** Percentage dominance mistaken for radiative importance, or argon listed as GHG.
-
-</details>
-
-**Q11.** With reference to atmospheric layers (bottom to top), which of the following statements is/are correct?
-
-1. Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere.
-2. Weather lives in the stratosphere.
-3. Ozone layer maximum is in the troposphere.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
-
-</details>
-
-**Q12.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. Troposphere | 1. Ozone layer; T rises with height |
-| B. Stratosphere | 2. Weather; T falls with height |
-| C. Mesosphere | 3. Coldest; most meteors burn |
-
-Code:
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A-2, B-1, C-3.
-
-**Logic:** Tropo/strato/meso.
-
-</details>
-
-**Q13.** Which of the following pairs is/are correctly matched?
-
-1. Thermosphere is a cold dense weather layer with no link to auroras or the ionosphere.
-2. Exosphere — outermost fringe merges into space
-3. Exosphere — main weather layer
-
-A. Only 1
-B. Only 2
-C. 1 and 2
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Statement 2 is true (exosphere = outermost fringe). Statement 1 is false — thermosphere is hot but thin and hosts aurora/ISS/ionosphere neighbourhood facts. Statement 3 is false — weather is tropospheric.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Dry air is about N₂ 78%, O₂ 21%, argon ~0.93%, CO₂ ~0.04%.
-
-Reason (R): Argon is a major greenhouse gas.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true, R false.
-
-**A/R logic:** Argon is not a GHG.
-
-</details>
-
-**Q15.** With reference to N₂ vs N₂O, which of the following statements is/are correct?
-
-1. Nitrogen gas (N₂) is not a greenhouse gas.
-2. Nitrous oxide (N₂O) is a greenhouse gas.
-3. N₂ and N₂O are identical greenhouse gases.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 and 2.
-
-**Logic:** Do not confuse N₂ with N₂O.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">The ozone layer, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Troposphere</div><div class="pyq-opt"><span class="opt-letter">B</span> Mesosphere</div><div class="pyq-opt"><span class="opt-letter">C</span> Stratosphere</div><div class="pyq-opt"><span class="opt-letter">D</span> Thermosphere</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ozone layer location — ~90% of atmospheric ozone sits in the stratosphere, not troposphere.
+
+**Ans: C.** Protective ozone maximum is in the **stratosphere** (~15–35 km). **Trap:** Troposphere because of ground-level photochemical ozone pollution.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The Earth's atmosphere is mainly heated by which one of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Long-wave terrestrial radiation</div><div class="pyq-opt"><span class="opt-letter">B</span> Scattered solar radiation</div><div class="pyq-opt"><span class="opt-letter">C</span> Reflected solar radiation</div><div class="pyq-opt"><span class="opt-letter">D</span> Short-wave solar radiation</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Atmospheric heating — surface emits longwave IR that warms the lower atmosphere from below.
+
+**Ans: A.** The surface absorbs shortwave solar energy and re-emits **longwave terrestrial radiation** that heats the troposphere. **Trap:** Direct shortwave heats the ground first, not the main lower-air heating mechanism.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The maximum concentration of Ozone is found in which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Troposphere</div><div class="pyq-opt"><span class="opt-letter">B</span> Mesosphere</div><div class="pyq-opt"><span class="opt-letter">C</span> Stratosphere</div><div class="pyq-opt"><span class="opt-letter">D</span> Exosphere</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Maximum ozone concentration layer — stratosphere in both 2018 and 2023 stems.
+
+**Ans: C.** **Stratosphere** holds peak ozone column. **Trap:** Mesosphere (meteors) or exosphere (satellites).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Renneting — Cheese</div><div class="pyq-opt"><span class="opt-letter">B</span> Genetic Engineering — Plasmids</div><div class="pyq-opt"><span class="opt-letter">C</span> Golden rice — Vitamin A</div><div class="pyq-opt"><span class="opt-letter">D</span> Ozone layer — Troposphere</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Wrong pair trap — ozone layer is never in troposphere on match lists.
+
+**Ans: D.** Ozone layer = **stratosphere**. A, B, C are correctly matched distractors. **Trap:** Accepting ozone anywhere in the atmosphere as the protective layer location.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to the ozone layer:<br><br>1. It protects Earth's surface from solar ultraviolet radiation.<br>2. Ozone depletion has been linked to CFCs.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Stratospheric ozone protects from UV; CFCs linked to depletion — both statements true.
+
+**Ans: C.** Good stratospheric ozone shields **UV**; **CFCs/ODS** drive anthropogenic depletion. **Trap:** Denying CFC link or treating all ozone as harmful ground pollutant.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Diffusion of light in the atmosphere takes place due to</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Carbon dioxide</div><div class="pyq-opt"><span class="opt-letter">B</span> Dust particles</div><div class="pyq-opt"><span class="opt-letter">C</span> Helium</div><div class="pyq-opt"><span class="opt-letter">D</span> Water vapours</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Light scattering — dust aerosols scatter sunlight (blue sky, red sunset).
+
+**Ans: B.** **Dust/aerosols** scatter visible light. **Trap:** CO2 (GHG IR trapping) or water vapour alone without aerosol context.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which is **NOT** a greenhouse gas found naturally in the atmosphere?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nitrogen oxide</div><div class="pyq-opt"><span class="opt-letter">B</span> Carbon dioxide</div><div class="pyq-opt"><span class="opt-letter">C</span> Methane</div><div class="pyq-opt"><span class="opt-letter">D</span> Ozone</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Natural GHG set — CO2, CH4, O3 yes; nitrogen oxides not in the classic natural GHG list tested here.
+
+**Ans: A.** **CO2, CH4, O3** are natural GHGs in this stem set; **NOx** is not treated as that major natural GHG basket. **Trap:** Confusing N2 (not GHG) with N2O (is GHG).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Weather (clouds, storms, rainfall) occurs mainly in the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Troposphere</div><div class="pyq-opt"><span class="opt-letter">B</span> Stratosphere</div><div class="pyq-opt"><span class="opt-letter">C</span> Mesosphere</div><div class="pyq-opt"><span class="opt-letter">D</span> Thermosphere</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Weather phenomena — confined to troposphere where water vapour and convection dominate.
+
+**Ans: A.** **Troposphere** alone has day-to-day weather. **Trap:** Stratosphere because ozone or jet streams are taught nearby.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which pair is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Meteors burning up — Mesosphere</div><div class="pyq-opt"><span class="opt-letter">B</span> Meteors burning up — Troposphere</div><div class="pyq-opt"><span class="opt-letter">C</span> Aurora borealis — Troposphere only</div><div class="pyq-opt"><span class="opt-letter">D</span> International Space Station orbit — Exosphere only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Meteors burn in mesosphere; aurora/ISS in thermosphere — layer-function pairing.
+
+**Ans: A.** **Meteors ~50–85 km (mesosphere)**; aurora/ISS sit in **thermosphere** band. **Trap:** Putting meteors in troposphere because shooting stars appear in the sky below.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Near-surface dry air composition includes:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nitrogen ~78%, Oxygen ~21%, Argon ~0.93%</div><div class="pyq-opt"><span class="opt-letter">B</span> Oxygen ~78%, Nitrogen ~21%, CO2 ~21%</div><div class="pyq-opt"><span class="opt-letter">C</span> Argon ~21%, Nitrogen ~0.04%, CO2 ~78%</div><div class="pyq-opt"><span class="opt-letter">D</span> Nitrogen and oxygen both major greenhouse gases</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dry air composition — N2 ~78%, O2 ~21%, Ar ~0.93%; N2 is not a GHG.
+
+**Ans: A.** Permanent gases **N2/O2/Ar** dominate by volume; trace **CO2 ~0.04%** still drives enhanced greenhouse effect. **Trap:** Percentage dominance mistaken for radiative importance, or argon listed as GHG.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to atmospheric layers (bottom to top), which of the following statements is/are correct?<br><br>1. Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere.<br>2. Weather lives in the stratosphere.<br>3. Ozone layer maximum is in the troposphere.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Troposphere</td><td><span class="match-key">1</span> Ozone layer; T rises with height</td></tr>
+      <tr><td><span class="match-key">B</span> Stratosphere</td><td><span class="match-key">2</span> Weather; T falls with height</td></tr>
+      <tr><td><span class="match-key">C</span> Mesosphere</td><td><span class="match-key">3</span> Coldest; most meteors burn</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
+
+**Logic:** Tropo/strato/meso.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. Thermosphere is a cold dense weather layer with no link to auroras or the ionosphere.<br>2. Exosphere — outermost fringe merges into space<br>3. Exosphere — main weather layer</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Statement 2 is true (exosphere = outermost fringe). Statement 1 is false — thermosphere is hot but thin and hosts aurora/ISS/ionosphere neighbourhood facts. Statement 3 is false — weather is tropospheric.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Dry air is about N₂ 78%, O₂ 21%, argon ~0.93%, CO₂ ~0.04%.<br><br>Reason (R): Argon is a major greenhouse gas.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true, R false.
+
+**A/R logic:** Argon is not a GHG.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to N₂ vs N₂O, which of the following statements is/are correct?<br><br>1. Nitrogen gas (N₂) is not a greenhouse gas.<br>2. Nitrous oxide (N₂O) is a greenhouse gas.<br>3. N₂ and N₂O are identical greenhouse gases.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 and 2.
+
+**Logic:** Do not confuse N₂ with N₂O.</div>
+  </div>
+</div>

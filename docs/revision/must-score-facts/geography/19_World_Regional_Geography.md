@@ -153,19 +153,6 @@ hide:
 | **Himadri** | Ny-Ålesund, Spitsbergen (Svalbard) | **Arctic** (Norway) | **2008** | India's first permanent Arctic research station situated at 79° N; Arctic climate & aerosol studies |
 | **IndARC** | Kongsfjorden (Svalbard) | **Arctic** | **2014** | India's first multi-sensor moored underwater observatory in the Arctic Ocean |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Scandinavia** | **Nordic Countries** | Strictly comprises **Norway, Sweden, and Denmark** vs Broader cultural group including **Scandinavia + Finland + Iceland** | स्कैंडिनेविया / नॉर्डिक देश |
-| **Baltic States** | **Balkan States** | Three northeastern European nations on Baltic Sea (**Estonia, Latvia, Lithuania**) vs Southeastern European peninsula nations (**Greece, Bulgaria, Serbia, etc.**) | बाल्टिक देश / बाल्कन देश |
-| **Golden Crescent** | **Golden Triangle** | Opium producing region in **Southwest Asia (Iran, Afghanistan, Pakistan)** vs Opium producing region in **Southeast Asia (Myanmar, Laos, Thailand)** | स्वर्ण अर्धचंद्राकार / स्वर्ण त्रिभुज |
-| **Maghreb** | **Mashriq** | Western Arab world of North-West Africa (**Morocco, Algeria, Tunisia**) vs Eastern Arab world of Levant and Mesopotamia (**Egypt, Iraq, Syria, Jordan**) | मगरेब (पश्चिम) / मशरिक (पूर्व) |
-| **Maitri** | **Bharati** | India's second Antarctic station located at **Schirmacher Oasis (estd. 1989)** vs India's third Antarctic station located at **Larsemann Hills (estd. 2012)** | मैत्री (1989) / भारती (2012) |
-| **Maitri (Antarctica)** | **Himadri (Arctic)** | Research station in **Antarctica (South Pole / 70°S)** vs Research station in **Svalbard, Norway (North Pole / 79°N)** | मैत्री (अंटार्कटिका) / हिमाद्रि (आर्कटिक) |
-| **Horn of Africa** | **Sahel** | Triangular eastern promontory of Africa (**Somalia, Ethiopia, Eritrea, Djibouti**) vs Semi-arid transitional belt running across Africa **from Atlantic to Red Sea** | हॉर्न ऑफ अफ्रीका / साहेल |
-| **Sinai Peninsula** | **Iberian Peninsula** | Triangular Asian territory of Egypt between Gulf of Suez and Aqaba vs European peninsula comprising Spain and Portugal | सिनाई प्रायद्वीप / इबेरियन प्रायद्वीप |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Baltic States North to South: **E-L-L**
@@ -188,367 +175,357 @@ hide:
 - **D-M-B** (Antarctica): **D**akshin Gangotri (1983) → **M**aitri (1989) → **B**harati (2012)
 - **H**imadri (2008): **H**igh North (Arctic, Svalbard, Norway)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Nobi and Kanto plains are in:
-
-A. Korea
-B. Japan
-C. China
-D. Vietnam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both plains are in **Japan**.
-
-**Logic:** Korea is the planted trap.
-
-</details>
-
-**Q2.**
-Iraq’s Sunni Triangle includes:
-
-A. Baghdad, Tikrit and Basra
-B. Baghdad, Tikrit and Ramadi
-C. Basra, Mosul and Kirkuk only
-D. Baghdad, Basra and Ramadi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Baghdad–Tikrit–**Ramadi**; Basra is Shia south.
-
-**Logic:** Basra substitution is the classic wrong corner.
-
-</details>
-
-**Q3.**
-With reference to Central Asia, which pair is/are correct?
-
-1. Tashkent — Uzbekistan
-2. Ashgabat — Turkmenistan
-3. Bishkek — Tajikistan
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Bishkek = **Kyrgyzstan**; Dushanbe = Tajikistan.
-
-</details>
-
-**Q4.**
-Assertion (A): Western Europe receives rainfall in all months under westerlies.
-Reason (R): Mediterranean climate also has rainfall in all months like Western Europe.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A is true; R is false.
-
-**A/R logic:** Mediterranean rain is mainly **winter**.
-
-</details>
-
-**Q5.**
-South America’s landlocked countries are:
-
-A. Bolivia and Uruguay
-B. Bolivia and Paraguay
-C. Paraguay and Peru
-D. Bolivia and Suriname
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Bolivia and Paraguay**.
-
-**Logic:** Uruguay/Peru/Suriname have coasts.
-
-</details>
-
-**Q6.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Country) | List-II (Capital) |
-|---|---|
-| 1. Turkey | A. Ankara |
-| 2. Australia | B. Canberra |
-| 3. Brazil | C. Brasília |
-| 4. New Zealand | D. Wellington |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-A, 2-C, 3-B, 4-D
-D. 1-A, 2-B, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Capitals that are not the tourist-famous cities.
-
-**Logic:** Istanbul/Sydney/Rio/Auckland are distractors outside the key.
-
-</details>
-
-**Q7.**
-Double-landlocked states in the usual set are:
-
-A. Uzbekistan and Kazakhstan
-B. Uzbekistan and Liechtenstein
-C. Liechtenstein and Switzerland
-D. Bolivia and Paraguay
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Uzbekistan** and **Liechtenstein**.
-
-**Logic:** Bolivia/Paraguay are landlocked but not double-landlocked.
-
-</details>
-
-**Q8.**
-Madeira is correctly placed in the:
-
-A. Caribbean
-B. North-east Atlantic (Portugal)
-C. Pacific
-D. Red Sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Atlantic Portugal — not Caribbean.
-
-**Logic:** West Indies dump is the trap.
-
-</details>
-
-**Q9.**
-Australia’s north is mainly:
-
-A. Temperate
-B. Tropical
-C. Polar
-D. Mediterranean only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Northern Australia = **tropical**; interior = desert.
-
-**Logic:** Temperate is a common wrong climate tag.
-
-</details>
-
-**Q10.**
-Which language–place pair is correct?
-
-A. Bahasa — Thailand
-B. Tamil — official set in Singapore
-C. Spanish — Congo
-D. Esperanto — mountain range in Andes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Tamil is in Singapore’s official set; Bahasa = Indonesia; Esperanto = artificial language.
-
-**Logic:** Language–country swaps are frequent.
-
-</details>
-
-**Q11.**
-Consider the following statements:
-
-1. Ethiopia became landlocked after Eritrea’s secession.
-2. Eritrea holds Red Sea coast in the Horn.
-3. Djibouti is landlocked.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Djibouti has a coast on the Bab-el-Mandeb approaches.
-
-</details>
-
-**Q12.**
-Kara Kum desert is in:
-
-A. Kazakhstan
-B. Turkmenistan
-C. Tajikistan
-D. Kyrgyzstan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Kara Kum = **Turkmenistan**.
-
-**Logic:** Stan desert/capital swaps cluster together.
-
-</details>
-
-**Q13.**
-Assertion (A): Igarka is in China.
-Reason (R): Many Siberian place names appear in “not China” traps.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A is false (Igarka = **Russia**); R is true as a teaching note.
-
-**A/R logic:** Place-country misattribution is the stem’s point.
-
-</details>
-
-**Q14.**
-Indonesia west→east island order begins:
-
-A. Java → Sumatra → Bali → Lombok
-B. Sumatra → Java → Bali → Lombok
-C. Bali → Java → Sumatra → Lombok
-D. Sumatra → Bali → Java → Lombok
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Sumatra → Java → Bali → Lombok.
-
-**Logic:** Putting Java first is the usual error.
-
-</details>
-
-**Q15.**
-Boundary parallels: 38th and 49th refer mainly to:
-
-A. Koreas and USA–Canada
-B. India–China and USA–Mexico
-C. Vietnam split and Brazil–Argentina
-D. Egypt–Sudan and France–Spain
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **38th** ≈ Koreas; **49th** ≈ Canada–USA.
-
-**Logic:** Do not invent India–China parallel keys here.
-
-</details>
-
-**Q16.**
-Which capital–country pair is correct for Maghreb?
-
-A. Morocco — Casablanca as capital
-B. Algeria — Algiers
-C. Tunisia — Tripoli
-D. Mali — Praia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Algeria = **Algiers**; Morocco capital = **Rabat**; Tunisia = **Tunis**.
-
-**Logic:** Praia = Cape Verde; Bamako = Mali; Tripoli = Libya.
-
-</details>
-
-**Q17.**
-Mekong delta lies in:
-
-A. Cambodia
-B. Southern Vietnam
-C. Laos
-D. Thailand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Southern **Vietnam**.
-
-**Logic:** Same Cambodia trap as in rivers/landforms chapters.
-
-</details>
-
-**Q18.**
-Which of the following is/are correct?
-
-1. Seoul is in South Korea; Pyongyang in North Korea.
-2. China’s capital is Shanghai.
-3. Honshu is Japan’s main island.
-
-A. 1 and 3
-B. Only 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 3 are correct.
-
-**Logic:** China’s capital is **Beijing**.
-
-</details>
-
-**Q19.**
-Cape Verde’s capital is:
-
-A. Bamako
-B. Praia
-C. Rabat
-D. Dakar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Praia**.
-
-**Logic:** Bamako = Mali swap trap.
-
-</details>
-
-**Q20.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Maghreb — Morocco–Algeria–Tunisia
-B. Sahel — semi-arid belt south of Sahara
-C. Cook Strait — Australia–Tasmania
-D. Suez shortening — about 7000 km on India–Europe sea route
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Cook Strait separates New Zealand’s North and South Islands.
-
-**Logic:** Tasmania’s water is Bass Strait in Australian teaching.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Nobi and Kanto plains are in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Korea</div><div class="pyq-opt"><span class="opt-letter">B</span> Japan</div><div class="pyq-opt"><span class="opt-letter">C</span> China</div><div class="pyq-opt"><span class="opt-letter">D</span> Vietnam</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both plains are in **Japan**.
+
+**Logic:** Korea is the planted trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Iraq’s Sunni Triangle includes:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Baghdad, Tikrit and Basra</div><div class="pyq-opt"><span class="opt-letter">B</span> Baghdad, Tikrit and Ramadi</div><div class="pyq-opt"><span class="opt-letter">C</span> Basra, Mosul and Kirkuk only</div><div class="pyq-opt"><span class="opt-letter">D</span> Baghdad, Basra and Ramadi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Baghdad–Tikrit–**Ramadi**; Basra is Shia south.
+
+**Logic:** Basra substitution is the classic wrong corner.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to Central Asia, which pair is/are correct?<br><br>1. Tashkent — Uzbekistan<br>2. Ashgabat — Turkmenistan<br>3. Bishkek — Tajikistan</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Bishkek = **Kyrgyzstan**; Dushanbe = Tajikistan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Western Europe receives rainfall in all months under westerlies.<br>Reason (R): Mediterranean climate also has rainfall in all months like Western Europe.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is true; R is false.
+
+**A/R logic:** Mediterranean rain is mainly **winter**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">South America’s landlocked countries are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bolivia and Uruguay</div><div class="pyq-opt"><span class="opt-letter">B</span> Bolivia and Paraguay</div><div class="pyq-opt"><span class="opt-letter">C</span> Paraguay and Peru</div><div class="pyq-opt"><span class="opt-letter">D</span> Bolivia and Suriname</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Bolivia and Paraguay**.
+
+**Logic:** Uruguay/Peru/Suriname have coasts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Country)</th><th>List-II (Capital)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Turkey</td><td><span class="match-key">A</span> Ankara</td></tr>
+      <tr><td><span class="match-key">2</span> Australia</td><td><span class="match-key">B</span> Canberra</td></tr>
+      <tr><td><span class="match-key">3</span> Brazil</td><td><span class="match-key">C</span> Brasília</td></tr>
+      <tr><td><span class="match-key">4</span> New Zealand</td><td><span class="match-key">D</span> Wellington</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-A, 2-C, 3-B, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Capitals that are not the tourist-famous cities.
+
+**Logic:** Istanbul/Sydney/Rio/Auckland are distractors outside the key.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Double-landlocked states in the usual set are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Uzbekistan and Kazakhstan</div><div class="pyq-opt"><span class="opt-letter">B</span> Uzbekistan and Liechtenstein</div><div class="pyq-opt"><span class="opt-letter">C</span> Liechtenstein and Switzerland</div><div class="pyq-opt"><span class="opt-letter">D</span> Bolivia and Paraguay</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Uzbekistan** and **Liechtenstein**.
+
+**Logic:** Bolivia/Paraguay are landlocked but not double-landlocked.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Madeira is correctly placed in the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Caribbean</div><div class="pyq-opt"><span class="opt-letter">B</span> North-east Atlantic (Portugal)</div><div class="pyq-opt"><span class="opt-letter">C</span> Pacific</div><div class="pyq-opt"><span class="opt-letter">D</span> Red Sea</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Atlantic Portugal — not Caribbean.
+
+**Logic:** West Indies dump is the trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Australia’s north is mainly:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Temperate</div><div class="pyq-opt"><span class="opt-letter">B</span> Tropical</div><div class="pyq-opt"><span class="opt-letter">C</span> Polar</div><div class="pyq-opt"><span class="opt-letter">D</span> Mediterranean only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Northern Australia = **tropical**; interior = desert.
+
+**Logic:** Temperate is a common wrong climate tag.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which language–place pair is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bahasa — Thailand</div><div class="pyq-opt"><span class="opt-letter">B</span> Tamil — official set in Singapore</div><div class="pyq-opt"><span class="opt-letter">C</span> Spanish — Congo</div><div class="pyq-opt"><span class="opt-letter">D</span> Esperanto — mountain range in Andes</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tamil is in Singapore’s official set; Bahasa = Indonesia; Esperanto = artificial language.
+
+**Logic:** Language–country swaps are frequent.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Ethiopia became landlocked after Eritrea’s secession.<br>2. Eritrea holds Red Sea coast in the Horn.<br>3. Djibouti is landlocked.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Djibouti has a coast on the Bab-el-Mandeb approaches.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Kara Kum desert is in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kazakhstan</div><div class="pyq-opt"><span class="opt-letter">B</span> Turkmenistan</div><div class="pyq-opt"><span class="opt-letter">C</span> Tajikistan</div><div class="pyq-opt"><span class="opt-letter">D</span> Kyrgyzstan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kara Kum = **Turkmenistan**.
+
+**Logic:** Stan desert/capital swaps cluster together.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Igarka is in China.<br>Reason (R): Many Siberian place names appear in “not China” traps.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is false (Igarka = **Russia**); R is true as a teaching note.
+
+**A/R logic:** Place-country misattribution is the stem’s point.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Indonesia west→east island order begins:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Java → Sumatra → Bali → Lombok</div><div class="pyq-opt"><span class="opt-letter">B</span> Sumatra → Java → Bali → Lombok</div><div class="pyq-opt"><span class="opt-letter">C</span> Bali → Java → Sumatra → Lombok</div><div class="pyq-opt"><span class="opt-letter">D</span> Sumatra → Bali → Java → Lombok</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sumatra → Java → Bali → Lombok.
+
+**Logic:** Putting Java first is the usual error.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Boundary parallels: 38th and 49th refer mainly to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Koreas and USA–Canada</div><div class="pyq-opt"><span class="opt-letter">B</span> India–China and USA–Mexico</div><div class="pyq-opt"><span class="opt-letter">C</span> Vietnam split and Brazil–Argentina</div><div class="pyq-opt"><span class="opt-letter">D</span> Egypt–Sudan and France–Spain</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 38th** ≈ Koreas; **49th** ≈ Canada–USA.
+
+**Logic:** Do not invent India–China parallel keys here.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which capital–country pair is correct for Maghreb?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Morocco — Casablanca as capital</div><div class="pyq-opt"><span class="opt-letter">B</span> Algeria — Algiers</div><div class="pyq-opt"><span class="opt-letter">C</span> Tunisia — Tripoli</div><div class="pyq-opt"><span class="opt-letter">D</span> Mali — Praia</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Algeria = **Algiers**; Morocco capital = **Rabat**; Tunisia = **Tunis**.
+
+**Logic:** Praia = Cape Verde; Bamako = Mali; Tripoli = Libya.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Mekong delta lies in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cambodia</div><div class="pyq-opt"><span class="opt-letter">B</span> Southern Vietnam</div><div class="pyq-opt"><span class="opt-letter">C</span> Laos</div><div class="pyq-opt"><span class="opt-letter">D</span> Thailand</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Southern **Vietnam**.
+
+**Logic:** Same Cambodia trap as in rivers/landforms chapters.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following is/are correct?<br><br>1. Seoul is in South Korea; Pyongyang in North Korea.<br>2. China’s capital is Shanghai.<br>3. Honshu is Japan’s main island.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** China’s capital is **Beijing**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Cape Verde’s capital is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bamako</div><div class="pyq-opt"><span class="opt-letter">B</span> Praia</div><div class="pyq-opt"><span class="opt-letter">C</span> Rabat</div><div class="pyq-opt"><span class="opt-letter">D</span> Dakar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Praia**.
+
+**Logic:** Bamako = Mali swap trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Maghreb — Morocco–Algeria–Tunisia</div><div class="pyq-opt"><span class="opt-letter">B</span> Sahel — semi-arid belt south of Sahara</div><div class="pyq-opt"><span class="opt-letter">C</span> Cook Strait — Australia–Tasmania</div><div class="pyq-opt"><span class="opt-letter">D</span> Suez shortening — about 7000 km on India–Europe sea route</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cook Strait separates New Zealand’s North and South Islands.
+
+**Logic:** Tasmania’s water is Bass Strait in Australian teaching.</div>
+  </div>
+</div>

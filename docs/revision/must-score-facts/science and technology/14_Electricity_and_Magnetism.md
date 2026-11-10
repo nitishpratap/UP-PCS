@@ -152,21 +152,6 @@ ho$ | **Silver ($Ag$) has the HIGHEST electrical conductivity of all metals** |
 | **Step-Up Transformer** | $N_s > N_p \implies V_s > V_p \implies I_s < I_p$ | **Increases voltage, decreases current**; minimizes $I^2R$ power grid losses |
 | **Step-Down Transformer** | $N_s < N_p \implies V_s < V_p \implies I_s > I_p$ | **Decreases voltage, increases current**; substations step down to $220	ext{ V}$ |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Fuse Wire Properties** | **Heating Element Properties**| **Fuse wire** must have a **LOW melting point** (melts during overload) and high resistivity (alloy of $Sn + Pb$). **Heating element (Nichrome)** must have a **HIGH melting point** ($1400^\circ	ext{C}$) so it glows red without melting. | फ्यूज तार = कम गलनांक (Low melting point); हीटर तार (नाइक्रोम) = उच्च गलनांक |
-| **Household Wiring (Parallel)**| **Series Connection Myth** | Household appliances are wired strictly in **PARALLEL** so each receives the full $220	ext{ V}$ and one broken appliance does not shut off others. Festive fairy lights are wired in **SERIES**. | घरेलू वायरिंग समानांतर क्रम (Parallel) में होती है, श्रेणी क्रम में नहीं |
-| **Step-Up Transformer Power**| **Energy Creation Myth** | A step-up transformer increases voltage, but **DOES NOT increase power or energy** ($P = VI$ remains constant, ignoring efficiency losses). When voltage is stepped up, **current decreases proportionally**. | ट्रांसफॉर्मर वोल्टेज बढ़ाता है, शक्ति या ऊर्जा नहीं (वोल्टेज बढ़ने पर धारा घटती है) |
-| **Transformer Operating Current**| **DC Supply Input** | A transformer operates strictly on **Alternating Current (AC)** via Mutual Induction. If connected to a Direct Current (DC) battery, rate of flux change is zero ($d\Phi/dt = 0$) and the **primary coil burns out**! | ट्रांसफॉर्मर केवल प्रत्यावर्ती धारा (AC) पर कार्य करता है, दिष्ट धारा (DC) पर नहीं |
-| **Dynamo (Generator)** | **Electric Motor** | A **Dynamo converts MECHANICAL energy into ELECTRICAL energy** (Faraday induction). An **Electric Motor converts ELECTRICAL energy into MECHANICAL energy** (magnetic Lorentz force). | डायनेमो = यांत्रिक ऊर्जा को विद्युत ऊर्जा में; मोटर = विद्युत ऊर्जा को यांत्रिक ऊर्जा में |
-| **Inverter** | **Rectifier** | An **Inverter converts DC (battery) into AC (household appliances)**. A **Rectifier (diode) converts AC into DC** (for battery charging). | इन्वर्टर = DC को AC में; रेक्टिफायर = AC को DC में बदलता है |
-| **Electrical Conductivity Champion**| **Copper vs Silver** | **Silver ($Ag$) has the highest electrical conductivity of all metals**, followed by Copper ($Cu$), Gold ($Au$), and Aluminium ($Al$). Copper is used commercially solely due to cost. | विद्युत की सर्वोत्तम सुचालक धातु = चांदी (Silver) |
-| **Earth Magnetic Poles** | **Geographic Poles** | The magnetic pole situated near the geographic North Pole is actually a **magnetic SOUTH pole** (which attracts the North-seeking pole of a compass needle). | पृथ्वी का उत्तरी भौगोलिक ध्रुव चुंबकीय दक्षिणी ध्रुव (Magnetic South) की भांति व्यवहार करता है |
-| **Curie Temperature** | **Critical Temperature** | **Curie Temperature** is the threshold above which a **ferromagnetic material loses spontaneous magnetism and becomes paramagnetic** (Iron $= 770^\circ	ext{C}$). | क्यूरी ताप = वह ताप जिसके ऊपर लौह-चुंबकीय पदार्थ अनुचुंबकीय बन जाता है |
-| **Resistance vs Temperature** | **Conductor vs Semiconductor** | With rising temperature, the resistance of **metallic conductors INCREASES** (positive temperature coefficient). The resistance of **semiconductors DECREASES** (negative coefficient). | ताप बढ़ने पर चालकों का प्रतिरोध बढ़ता है, जबकि अर्धचालकों का प्रतिरोध घटता है |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Electrical Power Triumvirate:
@@ -186,298 +171,232 @@ $$P = V 	imes I = I^2 R = rac{V^2}{R}$$
 - **S**ilver > **C**opper > **G**old > **A**luminium
 - Silver is #1 in electrical and thermal conductivity.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-What is the total electrical energy consumed by a household using three $100\text{ W}$ fans for $10\text{ hours}$ each day in a month of 30 days?
-- (A) $9\text{ units}$
-- (B) $30\text{ units}$
-- (C) $90\text{ units}$
-- (D) $900\text{ units}$
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** $\text{Units} = \frac{3 \times 100\text{ W} \times 10\text{ h/day} \times 30\text{ days}}{1000} = 90\text{ kWh (units)}$.
-
-**Ans: C.** $90\text{ units}$
-</details>
-
-**Q2.**
-
-Two electric bulbs rated $25\text{ W}, 220\text{ V}$ and $100\text{ W}, 220\text{ V}$ are connected in series across a $220\text{ V}$ supply. Which bulb will glow brighter?
-- (A) $100\text{ W}$ bulb
-- (B) $25\text{ W}$ bulb
-- (C) Both will glow with equal brightness
-- (D) Neither will glow
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** $R = V^2 / P$.
-
-**Ans: B.** $25\text{ W}$ bulb
-</details>
-
-**Q3.**
-
-An electric fuse wire melts at $5\text{ A}$. If a fuse of the same material is to be made with a current rating of $10\text{ A}$, the new wire must have:
-- (A) Smaller radius
-- (B) Larger radius
-- (C) Greater length
-- (D) Smaller length
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** By Preece's Law for fuse wires, the fusing current $I \propto r^{3/2}$.
-
-**Ans: B.** Larger radius
-</details>
-
-**Q4.**
-
-A transformer is used to:
-- (A) Convert AC into DC
-- (B) Convert DC into AC
-- (C) Step-up or step-down AC voltage
-- (D) Step-up or step-down DC voltage
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Transformers operate strictly on alternating current via electromagnetic induction; they cannot function on direct current.
-
-**Ans: C.** Step-up or step-down AC voltage
-</details>
-
-**Q5.**
-
-In an electric vehicle Lithium-ion battery, which of the following materials is typically utilized for the ANODE?
-- (A) Cobalt oxide
-- (B) Lithium phosphate
-- (C) Nickel oxide
-- (D) Graphite
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The anode is made of graphite (carbon) coated on copper foil, which intercalates lithium ions during charging.
-
-**Ans: D.** Graphite
-</details>
-
----
-
-**Q6. (UP RO/ARO (Pre) 2023)**
-
-15 bulbs each of 200 watt capacity in a Silkyara
-
-tunnel are illuminated continuously for 24 hours. The
-
-consumption of electricity will be :
-
-(a) 71 units (b) 72 units
-
-(c) 73 units (d) None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Consumption of electricity by one bulb = watt × hours 1000 = 200 × 24 1000 = 4.8 units Hence, total consumption of electricity by 15 bulbs = 15 × 4.8 = 72 units
-
-**Ans: B.** 72 units
-</details>
-
-**Q7. (UPPCS (Pre) 2017)**
-
-Five bulbs each of 100 watt capacity in a tunnel
-
-are illuminated continuously for twenty hours. The
-
-consumption of electricity will be:
-
-(a) One unit (b) Two units
-
-(c) Ten units (d) Twenty units
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Consumption of electricity by one bulb = 2 units Thus, consumption of electricity by 5 bulbs = 2 × 5 = 10 units
-
-**Ans: C.** Ten units (d) Twenty units
-</details>
-
-**Q8. (UPPCS (Pre) 2006)**
-
-The value of 1 kilowatt hour is –
-
-(a) 3.6 × 106
-
- J (b) 3.6 × 103
-
- J
-
-(c) 103 J (d) 105
-
- J
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 1 Kilowatt hour = 1 (kilowatt) (1 hour) = (1000 joule/sec.) (3600 sec.) = 36 × 105 Joule = 3.6 × 106 Joule Thus, option (a) is correct.
-
-**Ans: A.** 3.6 × 106
-</details>
-
-**Q9. (UP Lower Sub (Pre) 2009)**
-
-An electric bulb of 100 watt is used for 4 hours. The
-
-unit of electric energy used is –
-
-(a) 400 (b) 25
-
-(c) 4 (d) 0.4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The electric energy consumed = 100 watt × 4 hour = 400 watt hour kilowatt hour = 0.4 kilowatt hour = 0.4 unit
-
-**Ans: D.** 0.4
-</details>
-
-**Q10. (UP Lower Sub (Pre) 2008 / UPPCS (Pre) 2009)**
-
-Of the two bulbs in a house, one glows brighter than the
-
-other. In this context which of the following statements
-
-is correct ?
-
-(a) The brightness does not depend on the resistance.
-
-(b) Both the bulbs have same the resistance.
-
-(c) The bright bulb has larger resistance.
-
-(d) The dim bulb has larger resistance.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The bulb which decays more energy will generate more brightness.
-
-**Ans: D.** The dim bulb has larger resistance
-</details>
-
-**Q11. (UPPCS (Mains) 2013)**
-
-Of the two bulbs in a house, one glows brighter than
-
-the other. Which of the two has a larger resistance ?
-
-(a) The dim bulb
-
-(b) The brighter bulb
-
-(c) Both have the same resistance
-
-(d) The brightness does not depend on the resistance
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches The dim bulb.
-
-**Ans: A.** The dim bulb
-</details>
-
-**Q12. (UP RO/ARO (Pre) 2023)**
-
-A voltage of 15 volt is applied across a colour coded
-
-carbon resistor with first, second and third rings of
-
-brown, green and black colours. What is the current
-
-flowing through the resistor?
-
-(a) 3 ampere (b) 2 ampere
-
-(c) 1 ampere (d) None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Resistor code value for brown colour = 1 (A) Resistor code value for green colour = 5 (B) Resistor code value for black colour = 0 (C) We know that first two bands (rings) indicate the first two significant digits of re…
-
-**Ans: C.** 1 ampere (d) None of the above
-</details>
-
-**Q13. (UPPCS (Mains) 2009)**
-
-A dynamo which is said to generate electricity actually
-
-acts as a :
-
-(a) Source of ions
-
-(b) Source of electric charge
-
-(c) Converter of energy
-
-(d) Source of electrons
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** A dynamo, which is also known as an electrical generator produces direct current through a commutator.
-
-**Ans: C.** Converter of energy
-</details>
-
-**Q14. (UPPCS (Pre) 2016 / 39th B.P.S.C. (Pre) 1994 / UPPCS ( Pre) 1993 / UPPCS ( Pre) 1992)**
-
-‘Dynamo’ is a device, which converts :
-
-(a) Chemical energy into electrical energy
-
-(b) Electrical energy into mechanical energy
-
-(c) Mechanical energy into electrical energy
-
-(d) Electrical energy into chemical energy
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** A dynamo is an electrical generator that produces direct current with the use of a commutator.
-
-**Ans: C.** Mechanical energy into electrical energy
-</details>
-
-**Q15. (UPPCS (Mains) 2012 / RAS/RTS(Pre) 2012)**
-
-Dynamo is a machine which is used for –
-
-(a) Conversion of high voltage to low voltage
-
-(b) Conversion of electrical energy to mechanical energy
-
-(c) Conversion of mechanical energy to electrical energy
-
-(d) Conversion of low voltage to high voltage
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Conversion of mechanical energy to electrical energy.
-
-**Ans: C.** Conversion of mechanical energy to electrical energy
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">What is the total electrical energy consumed by a household using three $100\text{ W}$ fans for $10\text{ hours}$ each day in a month of 30 days?<br>- (A) $9\text{ units}$<br>- (B) $30\text{ units}$<br>- (C) $90\text{ units}$<br>- (D) $900\text{ units}$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** $\text{Units} = \frac{3 \times 100\text{ W} \times 10\text{ h/day} \times 30\text{ days}}{1000} = 90\text{ kWh (units)}$.
+
+**Ans: C.** $90\text{ units}$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Two electric bulbs rated $25\text{ W}, 220\text{ V}$ and $100\text{ W}, 220\text{ V}$ are connected in series across a $220\text{ V}$ supply. Which bulb will glow brighter?<br>- (A) $100\text{ W}$ bulb<br>- (B) $25\text{ W}$ bulb<br>- (C) Both will glow with equal brightness<br>- (D) Neither will glow</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** $R = V^2 / P$.
+
+**Ans: B.** $25\text{ W}$ bulb</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">An electric fuse wire melts at $5\text{ A}$. If a fuse of the same material is to be made with a current rating of $10\text{ A}$, the new wire must have:<br>- (A) Smaller radius<br>- (B) Larger radius<br>- (C) Greater length<br>- (D) Smaller length</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** By Preece's Law for fuse wires, the fusing current $I \propto r^{3/2}$.
+
+**Ans: B.** Larger radius</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">A transformer is used to:<br>- (A) Convert AC into DC<br>- (B) Convert DC into AC<br>- (C) Step-up or step-down AC voltage<br>- (D) Step-up or step-down DC voltage</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Transformers operate strictly on alternating current via electromagnetic induction; they cannot function on direct current.
+
+**Ans: C.** Step-up or step-down AC voltage</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In an electric vehicle Lithium-ion battery, which of the following materials is typically utilized for the ANODE?<br>- (A) Cobalt oxide<br>- (B) Lithium phosphate<br>- (C) Nickel oxide<br>- (D) Graphite</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The anode is made of graphite (carbon) coated on copper foil, which intercalates lithium ions during charging.
+
+**Ans: D.** Graphite</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">(UP RO/ARO (Pre) 2023)</span>
+  </div>
+  <div class="pyq-stem">15 bulbs each of 200 watt capacity in a Silkyara<br><br>tunnel are illuminated continuously for 24 hours. The<br><br>consumption of electricity will be :<br><br>(a) 71 units (b) 72 units<br><br>(c) 73 units (d) None of the above</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Consumption of electricity by one bulb = watt × hours 1000 = 200 × 24 1000 = 4.8 units Hence, total consumption of electricity by 15 bulbs = 15 × 4.8 = 72 units
+
+**Ans: B.** 72 units</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2017)</span>
+  </div>
+  <div class="pyq-stem">Five bulbs each of 100 watt capacity in a tunnel<br><br>are illuminated continuously for twenty hours. The<br><br>consumption of electricity will be:<br><br>(a) One unit (b) Two units<br><br>(c) Ten units (d) Twenty units</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Consumption of electricity by one bulb = 2 units Thus, consumption of electricity by 5 bulbs = 2 × 5 = 10 units
+
+**Ans: C.** Ten units (d) Twenty units</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2006)</span>
+  </div>
+  <div class="pyq-stem">The value of 1 kilowatt hour is –<br><br>(a) 3.6 × 106<br><br> J (b) 3.6 × 103<br><br> J<br><br>(c) 103 J (d) 105<br><br> J</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 1 Kilowatt hour = 1 (kilowatt) (1 hour) = (1000 joule/sec.) (3600 sec.) = 36 × 105 Joule = 3.6 × 106 Joule Thus, option (a) is correct.
+
+**Ans: A.** 3.6 × 106</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">An electric bulb of 100 watt is used for 4 hours. The<br><br>unit of electric energy used is –<br><br>(a) 400 (b) 25<br><br>(c) 4 (d) 0.4</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The electric energy consumed = 100 watt × 4 hour = 400 watt hour kilowatt hour = 0.4 kilowatt hour = 0.4 unit
+
+**Ans: D.** 0.4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">(UP Lower Sub (Pre) 2008 / UPPCS (Pre) 2009)</span>
+  </div>
+  <div class="pyq-stem">Of the two bulbs in a house, one glows brighter than the<br><br>other. In this context which of the following statements<br><br>is correct ?<br><br>(a) The brightness does not depend on the resistance.<br><br>(b) Both the bulbs have same the resistance.<br><br>(c) The bright bulb has larger resistance.<br><br>(d) The dim bulb has larger resistance.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The bulb which decays more energy will generate more brightness.
+
+**Ans: D.** The dim bulb has larger resistance</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">(UPPCS (Mains) 2013)</span>
+  </div>
+  <div class="pyq-stem">Of the two bulbs in a house, one glows brighter than<br><br>the other. Which of the two has a larger resistance ?<br><br>(a) The dim bulb<br><br>(b) The brighter bulb<br><br>(c) Both have the same resistance<br><br>(d) The brightness does not depend on the resistance</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches The dim bulb.
+
+**Ans: A.** The dim bulb</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">(UP RO/ARO (Pre) 2023)</span>
+  </div>
+  <div class="pyq-stem">A voltage of 15 volt is applied across a colour coded<br><br>carbon resistor with first, second and third rings of<br><br>brown, green and black colours. What is the current<br><br>flowing through the resistor?<br><br>(a) 3 ampere (b) 2 ampere<br><br>(c) 1 ampere (d) None of the above</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Resistor code value for brown colour = 1 (A) Resistor code value for green colour = 5 (B) Resistor code value for black colour = 0 (C) We know that first two bands (rings) indicate the first two significant digits of re…
+
+**Ans: C.** 1 ampere (d) None of the above</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">(UPPCS (Mains) 2009)</span>
+  </div>
+  <div class="pyq-stem">A dynamo which is said to generate electricity actually<br><br>acts as a :<br><br>(a) Source of ions<br><br>(b) Source of electric charge<br><br>(c) Converter of energy<br><br>(d) Source of electrons</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** A dynamo, which is also known as an electrical generator produces direct current through a commutator.
+
+**Ans: C.** Converter of energy</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2016 / 39th B.P.S.C. (Pre) 1994 / UPPCS ( Pre) 1993 / UPPCS ( Pre) 1992)</span>
+  </div>
+  <div class="pyq-stem">‘Dynamo’ is a device, which converts :<br><br>(a) Chemical energy into electrical energy<br><br>(b) Electrical energy into mechanical energy<br><br>(c) Mechanical energy into electrical energy<br><br>(d) Electrical energy into chemical energy</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** A dynamo is an electrical generator that produces direct current with the use of a commutator.
+
+**Ans: C.** Mechanical energy into electrical energy</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">(UPPCS (Mains) 2012 / RAS/RTS(Pre) 2012)</span>
+  </div>
+  <div class="pyq-stem">Dynamo is a machine which is used for –<br><br>(a) Conversion of high voltage to low voltage<br><br>(b) Conversion of electrical energy to mechanical energy<br><br>(c) Conversion of mechanical energy to electrical energy<br><br>(d) Conversion of low voltage to high voltage</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Conversion of mechanical energy to electrical energy.
+
+**Ans: C.** Conversion of mechanical energy to electrical energy</div>
+  </div>
+</div>

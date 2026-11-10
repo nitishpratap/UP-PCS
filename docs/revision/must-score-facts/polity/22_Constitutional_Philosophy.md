@@ -128,26 +128,6 @@ hide:
 | **Justice (Social, Economic, Political)** | **Russian Revolution (1917)** | Secured via Fundamental Rights and Directive Principles. | Order: Social &rarr; Economic &rarr; Political. |
 | **Liberty, Equality, Fraternity** | **French Revolution (1789)** | Dignity of the individual and unity and integrity of the nation. | Liberty of thought, expression, belief, faith, worship (5 items). |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Trap | What Examiner Falsely Claims | True Exam Position | Hindi Key |
-|---|---|---|---|
-| **Constitution vs Constitutionalism** | Claiming any country with a written constitution has constitutionalism. | A country can have a constitution without constitutionalism; constitutionalism requires **substantive limitations on government power**. | संविधान / संविधानवाद |
-| **Constitutional Morality vs Public Morality** | Equating constitutional morality with prevailing public/societal morality. | Constitutional morality is **diametrically opposed to majoritarian public morality**; upholds constitutional rights against social prejudices. | संवैधानिक नैतिकता / जन नैतिकता |
-| **Dicey's 3rd Postulate in India** | Stating that all three of Dicey's Rule of Law postulates apply in India. | **Third postulate DOES NOT apply in India**; rights flow from the written Constitution, not ordinary court judgments. | डायसी के तीन नियम (तीसरा भारत में लागू नहीं) |
-| **Equality Before Law vs Equal Protection** | Treating them as identical concepts. | **Equality before law** = UK origin (negative concept); **Equal protection of laws** = US origin (positive concept). | विधि के समक्ष समता / विधियों का समान संरक्षण |
-| **Procedure Established by Law vs Due Process** | Stating Article 21 explicitly contains the words "Due Process of Law". | Article 21 uses **"Procedure Established by Law"** (from Japan); substantive due process was **read into it judicially** in *Maneka Gandhi (1978)*. | विधि द्वारा स्थापित प्रक्रिया / सम्यक प्रक्रिया |
-| **B.N. Rau's Advice on Due Process** | Falsely stating B.N. Rau inserted Due Process into the draft. | B.N. Rau **deliberately advised against "Due Process"** after meeting US Justice Felix Frankfurter. | बी.एन. राव की सलाह |
-| **Separation of Powers Model in India** | Claiming India has strict separation of powers like the USA. | India has **functional separation of powers with checks and balances**; executive is part of and responsible to legislature. | शक्ति पृथक्करण (कठोर नहीं, कार्यात्मक) |
-| **Article 50 Status** | Trapping Article 50 as a Fundamental Right. | Article 50 is a **Directive Principle of State Policy (Part IV)**, not an enforceable fundamental right. | अनुच्छेद 50 (नीति निर्देशक तत्व) |
-| **Parliamentary Sovereignty in India** | Claiming Indian Parliament is sovereign like the British Parliament. | Indian Parliament is **NOT sovereign**; India has **Constitutional Supremacy** with judicial review. | संसदीय संप्रभुता (ब्रिटेन) / संवैधानिक सर्वोच्चता (भारत) |
-| **Preamble Judicial Enforceability** | Claiming Preamble provisions can be directly enforced in court like FRs. | Preamble is **NON-JUSTICIABLE** (cannot be directly enforced in courts of law). | प्रस्तावना (गैर-न्यायप्रवर्तनीय) |
-| **Order of Preamble Adjectives** | Scrambling the sequence of adjectives in MCQs. | Exact sequence: **SOVEREIGN &rarr; SOCIALIST &rarr; SECULAR &rarr; DEMOCRATIC &rarr; REPUBLIC**. | संप्रभु, समाजवादी, पंथनिरपेक्ष, लोकतंत्रात्मक, गणराज्य |
-| **Order of Preamble Objectives** | Scrambling the sequence of core objectives. | Exact sequence: **JUSTICE &rarr; LIBERTY &rarr; EQUALITY &rarr; FRATERNITY**. | न्याय, स्वतंत्रता, समता, बंधुता |
-| **Sources of Preamble Ideals** | Interchanging Russian and French revolution borrowings. | **Justice** = Russian Revolution (1917); **Liberty, Equality, Fraternity** = French Revolution (1789). | रूसी क्रांति (न्याय) / फ्रांसीसी क्रांति (स्वतंत्रता, समता, बंधुता) |
-| **Doctrine of Eclipse Scope** | Claiming Eclipse applies to post-constitutional laws under Art. 13(2). | Applies primarily to **pre-constitutional laws under Article 13(1)** (*Deep Chand* / *Mahendra Lal Jain*). | आच्छादन का सिद्धांत (संविधान-पूर्व कानून) |
-| **Res Judicata in Habeas Corpus** | Claiming Res Judicata bars fresh Habeas Corpus writ petitions. | **Habeas Corpus is an EXCEPTION** to the rule of Res Judicata; fresh petition lies on new grounds. | बंदी प्रत्यक्षीकरण / प्रांग न्याय अपवाद |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Preamble 5 Descriptors: "SO-SO-SE-DE-RE"
@@ -174,321 +154,282 @@ hide:
 - **I:** **I**ntegrity (और अखंडता)
 
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** With reference to Preamble counts and words, which of the following statements is/are correct?
-
-1. Justice has 3 limbs; Liberty 5; Equality 2; Fraternity 1.
-2. Rule of Law means the executive is above the Constitution.
-3. The 42nd Amendment deleted Socialist and Secular from the Preamble.
-
-A. 1 and 3
-B. Only 1
-C. 1 and 2
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Justice 3 / Liberty 5 / Equality 2 / Fraternity 1 is the count map. “Federal” is not in the Preamble. The 42nd added Socialist, Secular and integrity.
-
-</details>
-
-**Q2.** correctly matched?
-
-A. Constitutionalism — limited government under a higher law
-B. Constitutional morality — fidelity to constitutional norms (Ambedkar CAD)
-C. Rule by law — law binds the ruler too
-D. Rule of Law — Basic Structure (Indira Gandhi, 1975)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Rule by law is the trap opposite: ruler uses statutes as a whip.
-
-**Logic:** Rule of Law = law binds the ruler; rule by law ≠ that.
-
-</details>
-
-**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Article 21’s text uses “procedure established by law”.
-
-Reason (R): After Maneka Gandhi (1978), the procedure must be fair, just and reasonable, reading Articles 14, 19 and 21 together.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R does not rewrite the text of A.
-
-**A/R logic:** Text remains Japan-sourced “procedure established by law”; Maneka imports due-process content without changing the words — so R does not explain why the text reads that way.
-
-</details>
-
-**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I | List-II |
-|--------|--------|
-| A. Gopalan (1950) | 1. Fair/just/reasonable; 14-19-21 together |
-| B. Maneka (1978) | 2. Any procedure in a valid law; FRs in silos |
-| C. Dicey limb 3 | 3. UK story India rejects |
-| D. Art. 50 | 4. DPSP — judiciary↔executive in public services |
-
-> Note: Row order is **not** the answer.
-
-Select the correct answer using the code given below:
-
-A. A-1, B-2, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A-2, B-1, C-3, D-4.
-
-**Logic:** India takes Dicey limbs 1–2; rejects limb 3.
-
-</details>
-
-**Q5.** Arrange the following chronologically:
-
-1. A.K. Gopalan
-2. Kesavananda Bharati
-3. Maneka Gandhi
-4. S.R. Bommai
-
-Select the correct answer from the code given below:
-
-A. 2–1–3–4
-B. 1–2–3–4
-C. 1–3–2–4
-D. 1–2–4–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1950 → 1973 → 1978 → 1994.
-
-**Logic:** Gopalan precedes Basic Structure; Maneka after Emergency era; Bommai later.
-
-</details>
-
-**Q6.** With reference to separation of powers in India, which of the following is/are correct?
-
-1. Ram Jawaya Kapur (1955) rejected American-style rigid separation; India has functional separation with fusion of executive and legislature.
-2. India has American-style rigid separation with no fusion of executive and legislature.
-3. Fraternity in the Preamble excludes dignity of the individual.
-
-A. 1 and 2
-B. Only 1
-C. Only 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Ram Jawaya Kapur (1955) rejected American-style rigid separation. India has functional separation with fusion of executive and legislature. Separation of powers is Basic Structure. Secularism is not a theocratic State-religion model.
-
-</details>
-
-**Q7.** With reference to parliamentary sovereignty vs constitutional supremacy, which of the following is/are correct?
-
-1. UK classic is parliamentary sovereignty; India’s working model is constitutional supremacy.
-2. The 42nd Amendment’s Articles 368(4)/(5) attempt to bar review of amendments was struck in Minerva Mills (1980).
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Both 1 and 2 are correct.
-
-**Logic:** Judicial review ≠ claim of judicial supremacy.
-
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Indian secularism is a hard US-style wall of separation between State and religion.
-
-Reason (R): Bommai (1994) treats secularism as Basic Structure; Articles 25–28 operated from 1950.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Indian secularism is positive/equal respect with Art. 25(2) reform power — not a US wall.
-
-</details>
-
-**Q9.** correctly matched?
-
-A. Preamble Liberty (5) — thought, expression, belief, faith, worship
-B. Article 19 freedoms (6) — speech, assembly, association, movement, residence, profession
-C. Equality of opportunity — primarily Articles 14/15/17
-D. Equality of status — Articles 14/15/17 track
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Equality of opportunity links to Article 16; status to 14/15/17.
-
-**Logic:** Do not swap status and opportunity articles.
-
-</details>
-
-**Q10.** With reference to welfare state and socialism, which of the following is/are correct?
-
-1. Article 38 and Part IV are main welfare instruments; Article 37 makes DPSPs fundamental in governance though not directly enforceable.
-2. The 1991 reforms deleted the word Socialist from the Preamble.
-3. Indian socialism in the Preamble is democratic/mixed-economy, not a USSR one-party textbook model.
-
-A. Only 2
-B. 2 and 3
-C. Only 1
-D. Only 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** 1 and 3 only are correct.
-
-**Logic:** 1991 did not delete Socialist from the Preamble.
-
-</details>
-
-**Q11.** With reference to democracy and republic, which of the following is/are correct?
-
-1. Democracy concerns rule by the people with free and fair elections.
-2. Republic means an elected Head of State (Art. 54 track), not a hereditary monarch.
-3. The UK is a republic because it is a democracy.
-
-A. 1 and 3
-B. Only 1
-C. 1 and 2
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1 and 2 only are correct.
-
-**Logic:** UK can be a democracy without being a republic.
-
-</details>
-
-**Q12.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Preamble justice) | List-II (Article map) |
-|---------------------------|------------------------|
-| A. Social | 1. Article 39 |
-| B. Economic | 2. Articles 15/17 |
-| C. Political | 3. Article 326 |
-| D. Fraternity theme | 4. Dignity + unity and integrity |
-
-> Note: Row order is **not** the answer.
-
-Select the correct answer using the code given below:
-
-A. A-2, B-1, C-3, D-4
-B. A-1, B-2, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** A-2, B-1, C-3, D-4.
-
-**Logic:** Justice three-way map; fraternity assures dignity and unity/integrity.
-
-</details>
-
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Political sovereignty rests with the people (“We, the People”).
-
-Reason (R): Legal sovereignty in India rests with the Constitution rather than classic Dicey parliamentary sovereignty.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R is a related but distinct sovereignty plane.
-
-**A/R logic:** People’s political sovereignty and Constitution’s legal sovereignty are both true; R does not cause A.
-
-</details>
-
-**Q14.** With reference to amending power, which of the following is/are correct?
-
-1. Constituent power under Article 368 is not ordinary legislative power under Article 245.
-2. The 24th Amendment inserted Article 13(4) so a 368 amendment is not “law” under Article 13.
-3. Basic Structure still ceilings Article 368.
-
-Select the correct answer from the code given below:
-
-A. Only 1, 2 and 3
-B. Only 2 and 3
-C. Only 1
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three statements are correct.
-
-**Logic:** Kesavananda/Minerva keep limited amending power.
-
-</details>
-
-**Q15.** correctly matched?
-
-A. Checks and balances — judicial review, impeachment, no-confidence, ordinance return
-B. Judicial review — court tests law against the Constitution
-C. Judicial supremacy — India’s official claim that the Court is the sovereign
-D. French triad — Liberty, Equality, Fraternity; India prefixes Justice
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** India claims judicial review, not judicial supremacy as sovereignty.
-
-**Logic:** Review tests; supremacy would make the Court the sovereign.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Preamble counts and words, which of the following statements is/are correct?<br><br>1. Justice has 3 limbs; Liberty 5; Equality 2; Fraternity 1.<br>2. Rule of Law means the executive is above the Constitution.<br>3. The 42nd Amendment deleted Socialist and Secular from the Preamble.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Justice 3 / Liberty 5 / Equality 2 / Fraternity 1 is the count map. “Federal” is not in the Preamble. The 42nd added Socialist, Secular and integrity.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Constitutionalism — limited government under a higher law</div><div class="pyq-opt"><span class="opt-letter">B</span> Constitutional morality — fidelity to constitutional norms (Ambedkar CAD)</div><div class="pyq-opt"><span class="opt-letter">C</span> Rule by law — law binds the ruler too</div><div class="pyq-opt"><span class="opt-letter">D</span> Rule of Law — Basic Structure (Indira Gandhi, 1975)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rule by law is the trap opposite: ruler uses statutes as a whip.
+
+**Logic:** Rule of Law = law binds the ruler; rule by law ≠ that.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Article 21’s text uses “procedure established by law”.<br><br>Reason (R): After Maneka Gandhi (1978), the procedure must be fair, just and reasonable, reading Articles 14, 19 and 21 together.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R does not rewrite the text of A.
+
+**A/R logic:** Text remains Japan-sourced “procedure established by law”; Maneka imports due-process content without changing the words — so R does not explain why the text reads that way.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Gopalan (1950)</td><td><span class="match-key">1</span> Fair/just/reasonable; 14-19-21 together</td></tr>
+      <tr><td><span class="match-key">B</span> Maneka (1978)</td><td><span class="match-key">2</span> Any procedure in a valid law; FRs in silos</td></tr>
+      <tr><td><span class="match-key">C</span> Dicey limb 3</td><td><span class="match-key">3</span> UK story India rejects</td></tr>
+      <tr><td><span class="match-key">D</span> Art. 50</td><td><span class="match-key">4</span> DPSP — judiciary↔executive in public services</td></tr>
+  </tbody>
+</table><br>> Note: Row order is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3, D-4.
+
+**Logic:** India takes Dicey limbs 1–2; rejects limb 3.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the following chronologically:<br><br>1. A.K. Gopalan<br>2. Kesavananda Bharati<br>3. Maneka Gandhi<br>4. S.R. Bommai<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–1–3–4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1–2–3–4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1–3–2–4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1–2–4–3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1950 → 1973 → 1978 → 1994.
+
+**Logic:** Gopalan precedes Basic Structure; Maneka after Emergency era; Bommai later.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to separation of powers in India, which of the following is/are correct?<br><br>1. Ram Jawaya Kapur (1955) rejected American-style rigid separation; India has functional separation with fusion of executive and legislature.<br>2. India has American-style rigid separation with no fusion of executive and legislature.<br>3. Fraternity in the Preamble excludes dignity of the individual.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Ram Jawaya Kapur (1955) rejected American-style rigid separation. India has functional separation with fusion of executive and legislature. Separation of powers is Basic Structure. Secularism is not a theocratic State-religion model.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to parliamentary sovereignty vs constitutional supremacy, which of the following is/are correct?<br><br>1. UK classic is parliamentary sovereignty; India’s working model is constitutional supremacy.<br>2. The 42nd Amendment’s Articles 368(4)/(5) attempt to bar review of amendments was struck in Minerva Mills (1980).<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct.
+
+**Logic:** Judicial review ≠ claim of judicial supremacy.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Indian secularism is a hard US-style wall of separation between State and religion.<br><br>Reason (R): Bommai (1994) treats secularism as Basic Structure; Articles 25–28 operated from 1950.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Indian secularism is positive/equal respect with Art. 25(2) reform power — not a US wall.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Preamble Liberty (5) — thought, expression, belief, faith, worship</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 19 freedoms (6) — speech, assembly, association, movement, residence, profession</div><div class="pyq-opt"><span class="opt-letter">C</span> Equality of opportunity — primarily Articles 14/15/17</div><div class="pyq-opt"><span class="opt-letter">D</span> Equality of status — Articles 14/15/17 track</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Equality of opportunity links to Article 16; status to 14/15/17.
+
+**Logic:** Do not swap status and opportunity articles.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to welfare state and socialism, which of the following is/are correct?<br><br>1. Article 38 and Part IV are main welfare instruments; Article 37 makes DPSPs fundamental in governance though not directly enforceable.<br>2. The 1991 reforms deleted the word Socialist from the Preamble.<br>3. Indian socialism in the Preamble is democratic/mixed-economy, not a USSR one-party textbook model.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3 only are correct.
+
+**Logic:** 1991 did not delete Socialist from the Preamble.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to democracy and republic, which of the following is/are correct?<br><br>1. Democracy concerns rule by the people with free and fair elections.<br>2. Republic means an elected Head of State (Art. 54 track), not a hereditary monarch.<br>3. The UK is a republic because it is a democracy.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** UK can be a democracy without being a republic.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Preamble justice)</th><th>List-II (Article map)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Social</td><td><span class="match-key">1</span> Article 39</td></tr>
+      <tr><td><span class="match-key">B</span> Economic</td><td><span class="match-key">2</span> Articles 15/17</td></tr>
+      <tr><td><span class="match-key">C</span> Political</td><td><span class="match-key">3</span> Article 326</td></tr>
+      <tr><td><span class="match-key">D</span> Fraternity theme</td><td><span class="match-key">4</span> Dignity + unity and integrity</td></tr>
+  </tbody>
+</table><br>> Note: Row order is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3, D-4.
+
+**Logic:** Justice three-way map; fraternity assures dignity and unity/integrity.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Political sovereignty rests with the people (“We, the People”).<br><br>Reason (R): Legal sovereignty in India rests with the Constitution rather than classic Dicey parliamentary sovereignty.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R is a related but distinct sovereignty plane.
+
+**A/R logic:** People’s political sovereignty and Constitution’s legal sovereignty are both true; R does not cause A.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to amending power, which of the following is/are correct?<br><br>1. Constituent power under Article 368 is not ordinary legislative power under Article 245.<br>2. The 24th Amendment inserted Article 13(4) so a 368 amendment is not “law” under Article 13.<br>3. Basic Structure still ceilings Article 368.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Kesavananda/Minerva keep limited amending power.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Checks and balances — judicial review, impeachment, no-confidence, ordinance return</div><div class="pyq-opt"><span class="opt-letter">B</span> Judicial review — court tests law against the Constitution</div><div class="pyq-opt"><span class="opt-letter">C</span> Judicial supremacy — India’s official claim that the Court is the sovereign</div><div class="pyq-opt"><span class="opt-letter">D</span> French triad — Liberty, Equality, Fraternity; India prefixes Justice</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> India claims judicial review, not judicial supremacy as sovereignty.
+
+**Logic:** Review tests; supremacy would make the Court the sovereign.</div>
+  </div>
+</div>

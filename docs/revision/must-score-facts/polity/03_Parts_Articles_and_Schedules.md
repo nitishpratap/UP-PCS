@@ -73,6 +73,31 @@ hide:
 48. **Article 323A vs 323B (Tribunals Comparison):** **Article 323A** permits tribunals exclusively for administrative and service matters of public employees and can ONLY be established by **Parliament** (Administrative Tribunals Act, 1985); **Article 323B** covers tribunals for other subjects (taxation, foreign exchange, land reforms, election to legislatures) and can be established by **both Parliament and State Legislatures**.
 49. **Articles 338, 338A, and 338B (Three Commissions Ladder):** **Article 338** governs the **National Commission for Scheduled Castes (NCSC)**; **Article 338A** governs the **National Commission for Scheduled Tribes (NCST)** (bifurcated by 89th Amd 2003); **Article 338B** governs the **National Commission for Backward Classes (NCBC)** (elevated from statutory to constitutional status by 102nd Amd 2018).
 50. **Articles 350A and 350B (Linguistic Safeguards):** **Article 350A** places a constitutional duty on every State and local authority to provide adequate facilities for instruction in the **mother tongue at the primary stage** of education to children belonging to linguistic minority groups; **Article 350B** provides for a **Special Officer for Linguistic Minorities** appointed by the President to investigate and report on statutory safeguards.
+51. **Schedule 1 (States and UTs):** Enumerates the names of 28 States and 8 Union Territories and specifies their territorial extents and jurisdictions.
+52. **Schedule 2 (Emoluments & Allowances):** Specifies provisions relating to salaries and allowances of President, Governors, Speaker/Deputy Speaker of LS/LA, Chairman/Deputy Chairman of RS/LC, Judges of SC/HC, and the CAG (Note: PM and Ministers are NOT mentioned in Schedule 2).
+53. **Schedule 3 (Forms of Oaths and Affirmations):** Contains 8 oath templates for Union Ministers, MPs, SC Judges, CAG, State Ministers, MLAs/MLCs, and HC Judges (Note: Oaths of President [Art. 60], Vice-President [Art. 69], and Governor [Art. 159] are NOT in Schedule 3).
+54. **Schedule 4 (Rajya Sabha Seat Allocation):** Details the allocation of seats in the Council of States to States and UTs based on population; Uttar Pradesh has the highest allocation (**31 seats**), followed by Maharashtra (**19 seats**); 3 UTs have representation: Delhi (3), Puducherry (1), Jammu & Kashmir (4).
+55. **Schedule 5 (Scheduled Areas & Tribes Administration):** Governs administration and control of Scheduled Areas and STs in 10 states (excluding the 4 Assam/Meghalaya/Tripura/Mizoram states); mandates Tribes Advisory Councils (TAC) consisting of up to 20 members (3/4th ST legislators).
+56. **Schedule 6 (Tribal Areas in 4 NE States - ATM-M):** Special autonomous administration for **Assam, Meghalaya, Tripura, and Mizoram** through Autonomous District Councils (ADCs) of up to 30 members (26 elected, 4 nominated by Governor) with legislative, executive, and judicial powers.
+57. **Schedule 7 (Three Legislative Lists):** Division of legislative powers under Article 246; **List I (Union List):** 97 original (100 present) items; **List II (State List):** 66 original (61 present) items; **List III (Concurrent List):** 47 original (52 present) items.
+58. **Five Subjects Transferred by 42nd Amendment (1976):** Transferred from State List to Concurrent List: (1) Education, (2) Forests, (3) Weights and Measures, (4) Protection of wild animals and birds, and (5) Administration of justice, constitution and organization of all courts except SC and HCs.
+59. **Schedule 8 (Official Languages Evolution):** Originally listed **14 languages**; currently **22 languages**; 21st Amendment 1967 added **Sindhi**; 71st Amendment 1992 added **Konkani, Manipuri, Nepali** (KMN); 92nd Amendment 2003 added **Bodo, Dogri, Maithili, Santhali** (BDMS); English is NOT in the 8th Schedule.
+60. **Schedule 9 (Validation of Certain Acts):** Added by the **First Amendment Act, 1951** to protect land agrarian reform laws from judicial review on Fundamental Rights grounds; *I.R. Coelho (2007)* held laws placed in 9th Schedule after **24 April 1973** are open to judicial review.
+61. **Schedule 10 (Anti-Defection Law):** Inserted by the **52nd Amendment Act, 1985** under Rajiv Gandhi; specifies disqualification of legislators on grounds of defection; split exception (1/3rd) was deleted by the **91st Amendment Act, 2003** (now only 2/3rd merger is protected).
+62. **Schedule 11 (Panchayati Raj Functional Items):** Added by the **73rd Amendment Act, 1992**; lists **29 functional matters** within the jurisdiction of Panchayats (Article 243G), ranging from agriculture, minor irrigation, and animal husbandry to poverty alleviation and rural roads.
+63. **Schedule 12 (Municipalities Functional Items):** Added by the **74th Amendment Act, 1992**; specifies **18 functional items** entrusted to Urban Local Bodies (Article 243W), including urban planning, regulation of land use, roads, bridges, and public health.
+64. **Part IV-A (Fundamental Duties - Article 51A):** Inserted by the **42nd Amendment Act, 1976** on the recommendation of the **Swaran Singh Committee**; originally 10 duties; 11th duty (education for children 6–14 years) added by **86th Amendment Act, 2002**.
+65. **Part IX-B (The Co-operative Societies - Articles 243ZH to 243ZT):** Added by the **97th Amendment Act, 2011**; gave constitutional status to cooperatives; Supreme Court in *Union of India v. Rajendra N. Shah (2021)* struck down Part IX-B in so far as it applies to state-level cooperatives for lack of state ratification under Article 368(2).
+66. **Part XIV-A (Tribunals - Articles 323A and 323B):** Added by the **42nd Amendment Act, 1976**; Article 323A provides for Administrative Tribunals (CAT and SATs) for public service matters; Article 323B covers tribunals for other matters (taxation, foreign exchange, industrial disputes).
+67. **Part XVIII (Emergency Provisions - Articles 352 to 360):** Article 352 (National Emergency on grounds of War, External Aggression, or Armed Rebellion); Article 356 (President’s Rule on failure of constitutional machinery in a State); Article 360 (Financial Emergency - never invoked so far).
+68. **Part XX (Amendment of the Constitution - Article 368):** Outlines two specific amendment procedures: (a) by special majority of Parliament, and (b) by special majority plus ratification by at least half of State Legislatures by simple majority.
+69. **Article 370 & Article 371 Series (Special Provisions):** Article 371 (Maharashtra & Gujarat); Article 371A (Nagaland); Article 371B (Assam); Article 371C (Manipur); Article 371D & 371E (Andhra Pradesh & Telangana); Article 371F (Sikkim); Article 371G (Mizoram); Article 371H (Arunachal Pradesh); Article 371-I (Goa); Article 371J (Karnataka - Hyderabad-Karnataka region).
+70. **Article 1 to Article 4 (Part I Summary):** Article 1 (India, that is Bharat, shall be a Union of States); Article 2 (Admission or establishment of new States by Parliament); Article 3 (Formation of new States and alteration of areas, boundaries or names of existing States by ordinary law); Article 4 (Laws under Art. 2 and 3 not deemed amendments under Art. 368).
+71. **Article 12 (Definition of 'State'):** Encompasses: (1) Government and Parliament of India, (2) Government and Legislature of each State, (3) All local authorities (Panchayats, Municipalities), and (4) Other authorities under control of Govt of India (ONGC, LIC, SAIL, statutory corporations).
+72. **Article 13 (Laws Inconsistent with Fundamental Rights):** Article 13(1) pre-constitutional laws; 13(2) post-constitutional laws void to the extent of contravention; 13(3) defines 'law' to include ordinances, orders, bye-laws, rules, regulations, and customs; 13(4) inserted by 24th CAA 1971 declaring Art. 368 amendments outside Art. 13.
+73. **Article 248 (Residuary Powers):** Exclusively vests residuary powers of legislation (matters not enumerated in any of the three Lists of the 7th Schedule) in the **Parliament of India**; borrowed from Canada.
+74. **Article 280 (Finance Commission Composition):** Mandates President to constitute a Finance Commission every 5th year; consists of a Chairman and **4 other members** appointed by the President based on qualifications determined by Parliament (Finance Commission Act, 1951).
+75. **Article 312 (All-India Services):** Parliament can create new All-India Services common to Union and States only if the **Rajya Sabha passes a resolution supported by not less than two-thirds of members present and voting** declaring it necessary in the national interest.
 
 ## ⏱️ Timeline / Chronology
 
@@ -177,35 +202,6 @@ hide:
 | **Art. 371-I** | **Goa** | Legislative Assembly to consist of not less than 30 members; 56th Amd 1987 | **I** = Island/Goa beaches |
 | **Art. 371J** | **Karnataka** | Hyderabad-Karnataka region (Kalyana-Karnataka) development board; 98th Amd 2012 | **J** = Josh for Kalyana |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| Part IX vs Part IXA vs Part IXB | **IX** = Panchayats (243–243O); **IXA** = Municipalities (243P–243ZG); **IXB** = Co-ops (243ZH–243ZT) | Swap roman suffixes | IX = पंचायत; IXA = पालिका; IXB = सहकारिता |
-| Part IVA vs Part XIVA | **IVA** = Fundamental Duties (51A); **XIVA** = Tribunals (323A–323B) | Confuse IV with XIV | IVA = कर्तव्य; XIVA = अधिकरण |
-| 5th vs 6th Schedule | **5th** = Scheduled areas in 10 States; **6th** = AMTM (Assam, Meghalaya, Tripura, Mizoram) | Include Manipur in 6th Schedule | 6वीं = AMTM (मणिपुर नहीं) |
-| 11th vs 12th Schedule subjects | **11th** = 29 subjects (Panchayats); **12th** = 18 subjects (Municipalities) | Swap 29 and 18 | 11वीं = 29; 12वीं = 18 |
-| Article 32 vs Article 226 | **32** = SC (FR only, fundamental right itself); **226** = HC (FR + ordinary legal rights, wider) | Say Art. 32 has wider territorial/subject scope | 32 = केवल मूल अधिकार; 226 = विस्तृत |
-| Article 20 vs Article 21 during Emergency | Both **cannot be suspended** under Art. 359 (44th Amd 1978) | Claim Art. 21 can be suspended during war | 20 और 21 कभी निलंबित नहीं |
-| Article 358 vs Article 359 | **358** = Art. 19 auto-suspended only on War/External Aggression; **359** = other FR enforcement suspended by Presidential order | Say Art. 19 auto-suspends during Armed Rebellion | 358 = केवल बाह्य आपात; 359 = राष्ट्रपति आदेश |
-| Article 248 vs 7th Schedule Residuary | Residuary powers vest in **Parliament (Centre)** under Art. 248 (Canadian model) | Give residuary powers to States or Viceroy | अवशिष्ट शक्तियाँ = संसद |
-| Article 249 vs Article 250 | **249** = Rajya Sabha resolution in national interest (1 yr); **250** = During National Emergency | Mix triggering conditions | 249 = राज्यसभा संकल्प; 250 = राष्ट्रीय आपात |
-| Article 312 vs Article 315 | **312** = Creation of All-India Services by RS resolution; **315** = PSCs for Union and States | Attribute AIS creation to Lok Sabha | 312 = नई अखिल भारतीय सेवा |
-| Article 323A vs 323B | **323A** = Parliament only (CAT/SAT); **323B** = Parliament & State Legislatures (tax, land, etc.) | Allow State assemblies to create 323A tribunals | 323A = केवल संसद |
-| Article 338 vs 338A vs 338B | **338** = NCSC; **338A** = NCST (89th Amd 2003); **338B** = NCBC (102nd Amd 2018) | Confuse the alphabetical tags | 338 = SC; 338A = ST; 338B = OBC |
-| Article 343 vs Article 348 | **343** = Official language of Union (Hindi); **348** = Language of Supreme Court & High Courts (English) | Say SC functions in Hindi by default | 343 = संघ; 348 = उच्चतम न्यायालय |
-| 2nd Schedule vs 3rd Schedule exclusions | Ministers' salaries NOT in 2nd Sch; President/Governor/VP oaths NOT in 3rd Sch (take under 60, 159, 69) | Look for President oath in 3rd Sch | राष्ट्रपति शपथ 3री अनुसूची में नहीं |
-| 9th Schedule Judicial Review | Laws added after **24 April 1973** (Kesavananda judgment date) subject to judicial review (*I.R. Coelho*, 2007) | Say 9th Schedule is 100% immune from review | 24 अप्रैल 1973 के बाद न्यायिक समीक्षा संभव |
-| 8th Schedule Language count | 14 (original) → 15 (21st Amd 1967: Sindhi) → 18 (71st Amd 1992: KMN) → 22 (92nd Amd 2003: BDMS) | Assume English or Bhojpuri is included | अंग्रेजी और भोजपुरी 8वीं अनुसूची में नहीं |
-| Article 169 vs Article 171 | **169** = Creation/Abolition of Vidhan Parishad by Parliament; **171** = Composition of Vidhan Parishad | Swap abolition with composition | 169 = सृजन/उत्साद; 171 = संरचना |
-| Article 200 vs Article 201 | **200** = Governor's assent or reservation for President; **201** = President's action on reserved Bill | Treat Governor as final authority on reserved Bills | 200 = राज्यपाल आरक्षण; 201 = राष्ट्रपति निर्णय |
-| Article 266 vs Article 267 | **266** = Consolidated Fund & Public Account; **267** = Contingency Fund of India | Mix appropriation requirement | 266 = संचित निधि; 267 = आकस्मिकता निधि |
-| Article 371A vs 371F | **371A** = Nagaland; **371F** = Sikkim | Confuse 371A with Assam or Sikkim | 371A = नागालैंड; 371F = सिक्किम |
-| Article 371D vs 371J | **371D** = Andhra Pradesh & Telangana; **371J** = Karnataka (Hyderabad-Karnataka region) | Swap Southern States | 371D = आंध्र/तेलंगाना; 371J = कर्नाटक |
-| Article 110 vs Article 117 | **110** = Money Bill (Speaker final); **117** = Financial Bills (Category I & II) | Call all finance bills Money Bills | 110 = धन विधेयक; 117 = वित्त विधेयक |
-| Article 148 vs Article 76 | **148** = CAG (6 yr/65 yr, removed like SC judge); **76** = Attorney-General (pleasure of President) | Give AG a fixed 6-year tenure | 148 = CAG; 76 = महान्यायवादी (प्रसादपर्यंत) |
-| Article 356 vs Article 365 | **356** = Failure of constitutional machinery in State; **365** = Failure to obey Union directions triggers 356 | Treat 365 as emergency article itself | 365 = संघ के निदेशों का अनुपालन न करना |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **The 12 Schedules Mnemonic:**
@@ -245,304 +241,262 @@ hide:
    - 371**-I** = **I**sland beaches / Goa
    - 371**J** = **J**osh for Kalyana / Karnataka
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which of the following pairs of Parts and subjects are **NOT** correctly matched?
-
-1. Part IVA — Fundamental Duties
-2. Part VI — The States
-3. Part XI — The Municipalities
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 3 only
-C. 2 and 3 only
-D. 1 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 3 only.** Municipalities = **Part IXA**; Part XI = relations between the Union and the States.
-
-</details>
-
-**Q2.**
-Which of the following language(s) is/are **NOT** included in the Eighth Schedule of the Constitution of India?
-
-1. Nepali
-2. Dogri
-3. Bodo
-4. Bhojpuri
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 4 only
-C. 3 and 4 only
-D. 1 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 4 only (Bhojpuri).** Nepali, Dogri and Bodo are in the Eighth Schedule.
-
-</details>
-
-**Q3.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Schedule)**
-
-| Code | Schedule |
-|------|----------|
-| A | Seventh Schedule |
-| B | Eighth Schedule |
-| C | Ninth Schedule |
-| D | Tenth Schedule |
-
-**List-II (Subject)**
-
-| Code | Subject |
-|------|---------|
-| 1 | Languages |
-| 2 | Anti-defection |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Validation of certain Acts and Regulations |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. 3, 1, 2, 4
-B. 3, 1, 4, 2
-C. 2, 3, 4, 1
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).
-
-</details>
-
-**Q4.**
-Which of the following is/are included in the Concurrent List of the Seventh Schedule?
-
-1. Trade and Commerce
-2. Adulteration of Goods
-3. Succession
-
-Select the correct answer using the code given below:
-
-A. 1 and 3 only
-B. 1, 2 and 3
-C. 1 only
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — 2 and 3 only.** Unqualified “Trade and Commerce” is not treated as Concurrent as a whole.
-
-</details>
-
-**Q5.**
-Which among the following (Provision — Part of the Constitution) is **NOT** correctly matched?
-
-A. The Union Territories — Part VIII
-B. The Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Tribunals = **Part XIVA**. Part XI = Union–State relations.
-
-</details>
-
-**Q6.**
-Which one of the following Schedule—Subject pairs is **NOT** correctly matched?
-
-A. Third Schedule — Oaths and Affirmations
-B. Eighth Schedule — Languages
-C. Ninth Schedule — Allocation of seats in the Council of States
-D. Tenth Schedule — Anti-defection
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Rajya Sabha seat allocation = **Fourth Schedule**. Ninth Schedule = validation of certain Acts and Regulations.
-
-</details>
-
-**Q7.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Schedule)**
-
-| Code | Schedule |
-|------|----------|
-| A | Third Schedule |
-| B | Fourth Schedule |
-| C | Seventh Schedule |
-| D | Eighth Schedule |
-
-**List-II (Subject)**
-
-| Code | Subject |
-|------|---------|
-| 1 | Allocation of seats in Rajya Sabha |
-| 2 | Forms of Oaths or Affirmations |
-| 3 | Languages |
-| 4 | Union / State / Concurrent Lists |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-4, B-3, C-1, D-2
-B. A-3, B-4, C-2, D-1
-C. A-2, B-1, C-4, D-3
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — A-2, B-1, C-4, D-3** (Oaths; RS seats; Lists; Languages).
-
-</details>
-
-**Q8.**
-Which one of the following is **NOT** correctly matched?
-
-A. Fundamental Duties — Part IVA
-B. The States — Part VI
-C. Attorney-General — Part XIII
-D. Services under the Union and the States — Part XIV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Attorney-General is under **Part V** (Art. 76). Part XIII = Trade, Commerce and Intercourse.
-
-</details>
-
-**Q9.**
-Which one of the following is **NOT** correctly matched?
-
-A. Public Health and Sanitation — State List
-B. Census — Union List
-C. Allocation of seats in the Council of States — Second Schedule
-D. Anti-Defection — Tenth Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Allocation of Rajya Sabha seats = **Fourth Schedule**. Second Schedule = emoluments, allowances and privileges.
-
-</details>
-
-**Q10.**
-How many items are there in the 11th Schedule of the Constitution of India?
-
-A. 22
-B. 24
-C. 29
-D. 32
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 29.**
-
-</details>
-
-**Q11.**
-The Sixth Schedule of the Constitution is applicable in which of the following States?
-
-A. Tripura
-B. Sikkim
-C. Nagaland
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Tripura** (AMTM: Assam, Meghalaya, Tripura, Mizoram). Not Nagaland or Sikkim.
-
-</details>
-
-**Q12.**
-In which Part of the Constitution of India do we find the provisions relating to citizenship?
-
-A. Part I
-B. Part II
-C. Part VII
-D. Part IX
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Part II.**
-
-</details>
-
-**Q13.**
-
-The Indian Constitution is divided into –
-
-A. 16 Parts
-B. 22 Parts
-C. 24 Parts
-D. 25 Parts
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Original Parts = 22.
-
-**Ans: B.** Originally **22 Parts**. Later additions raise the working count to about **25**.
-
-</details>
-
-**Q14.**
-
-Consider the following subjects and arrange them into sequential order as mentioned in the Constitution.
-
-I. The union and its territory
-II. Fundamental duties
-III. Citizenship
-IV. Directive Principles of State Policy
-
-A. I, III, IV, II
-B. IV, II, III,I
-C. II, IV, I, III
-D. III, I, II, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Order: I → II → IV → IVA.
-
-**Ans: A.** Part I → Part II → Part IV → Part IVA.
-
-</details>
-
-**Q15.**
-
-Which one of the following is not matched correctly?
-
-A. Citizenship- Part II of Constitution
-B. Fundamental Rights- Part III of Constitution
-C. Fundamental Duties- Part VI-A of Constitution
-D. State- Part VI of Constitution
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Duties = IVA not VI-A.
-
-**Ans: C.** Fundamental Duties sit in **Part IVA**.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs of Parts and subjects are **NOT** correctly matched?<br><br>1. Part IVA — Fundamental Duties<br>2. Part VI — The States<br>3. Part XI — The Municipalities<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 3 only.** Municipalities = **Part IXA**; Part XI = relations between the Union and the States.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following language(s) is/are **NOT** included in the Eighth Schedule of the Constitution of India?<br><br>1. Nepali<br>2. Dogri<br>3. Bodo<br>4. Bhojpuri<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 4 only (Bhojpuri).** Nepali, Dogri and Bodo are in the Eighth Schedule.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br>**List-I (Schedule)**<br>| Code | Schedule |<br>|------|----------|<br>| A | Seventh Schedule |<br>| B | Eighth Schedule |<br>| C | Ninth Schedule |<br>| D | Tenth Schedule |<br>**List-II (Subject)**<br>| Code | Subject |<br>|------|---------|<br>| 1 | Languages |<br>| 2 | Anti-defection |<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>3</th><th>Union, State and Concurrent Lists</th></tr>
+  </thead>
+  <tbody>
+      <tr><td>4</td><td>Validation of certain Acts and Regulations</td></tr>
+  </tbody>
+</table><br>> Note: Row order in the tables is **not** the answer.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 1, 2, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 1, 4, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 1, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following is/are included in the Concurrent List of the Seventh Schedule?<br><br>1. Trade and Commerce<br>2. Adulteration of Goods<br>3. Succession<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 and 3 only.** Unqualified “Trade and Commerce” is not treated as Concurrent as a whole.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which among the following (Provision — Part of the Constitution) is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The Union Territories — Part VIII</div><div class="pyq-opt"><span class="opt-letter">B</span> The Scheduled and Tribal Areas — Part X</div><div class="pyq-opt"><span class="opt-letter">C</span> Tribunals — Part XI</div><div class="pyq-opt"><span class="opt-letter">D</span> Official Language — Part XVII</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tribunals = **Part XIVA**. Part XI = Union–State relations.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which one of the following Schedule—Subject pairs is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Third Schedule — Oaths and Affirmations</div><div class="pyq-opt"><span class="opt-letter">B</span> Eighth Schedule — Languages</div><div class="pyq-opt"><span class="opt-letter">C</span> Ninth Schedule — Allocation of seats in the Council of States</div><div class="pyq-opt"><span class="opt-letter">D</span> Tenth Schedule — Anti-defection</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rajya Sabha seat allocation = **Fourth Schedule**. Ninth Schedule = validation of certain Acts and Regulations.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Schedule)</th>
+        <th>List-II (Subject / Provision)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Third Schedule</td><td><span class="match-key">1</span> Allocation of seats in Rajya Sabha</td></tr>
+    <tr><td><span class="match-key">B</span> Fourth Schedule</td><td><span class="match-key">2</span> Forms of Oaths or Affirmations</td></tr>
+    <tr><td><span class="match-key">C</span> Seventh Schedule</td><td><span class="match-key">3</span> Languages</td></tr>
+    <tr><td><span class="match-key">D</span> Eighth Schedule</td><td><span class="match-key">4</span> Union / State / Concurrent Lists</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-4, B-3, C-1, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-4, C-2, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-4, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-2, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-4, D-3** (Oaths; RS seats; Lists; Languages).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Fundamental Duties — Part IVA</div><div class="pyq-opt"><span class="opt-letter">B</span> The States — Part VI</div><div class="pyq-opt"><span class="opt-letter">C</span> Attorney-General — Part XIII</div><div class="pyq-opt"><span class="opt-letter">D</span> Services under the Union and the States — Part XIV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Attorney-General is under **Part V** (Art. 76). Part XIII = Trade, Commerce and Intercourse.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Public Health and Sanitation — State List</div><div class="pyq-opt"><span class="opt-letter">B</span> Census — Union List</div><div class="pyq-opt"><span class="opt-letter">C</span> Allocation of seats in the Council of States — Second Schedule</div><div class="pyq-opt"><span class="opt-letter">D</span> Anti-Defection — Tenth Schedule</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Allocation of Rajya Sabha seats = **Fourth Schedule**. Second Schedule = emoluments, allowances and privileges.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">How many items are there in the 11th Schedule of the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 22</div><div class="pyq-opt"><span class="opt-letter">B</span> 24</div><div class="pyq-opt"><span class="opt-letter">C</span> 29</div><div class="pyq-opt"><span class="opt-letter">D</span> 32</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 29.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The Sixth Schedule of the Constitution is applicable in which of the following States?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tripura</div><div class="pyq-opt"><span class="opt-letter">B</span> Sikkim</div><div class="pyq-opt"><span class="opt-letter">C</span> Nagaland</div><div class="pyq-opt"><span class="opt-letter">D</span> All of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tripura** (AMTM: Assam, Meghalaya, Tripura, Mizoram). Not Nagaland or Sikkim.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">In which Part of the Constitution of India do we find the provisions relating to citizenship?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Part I</div><div class="pyq-opt"><span class="opt-letter">B</span> Part II</div><div class="pyq-opt"><span class="opt-letter">C</span> Part VII</div><div class="pyq-opt"><span class="opt-letter">D</span> Part IX</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Part II.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The Indian Constitution is divided into –</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 16 Parts</div><div class="pyq-opt"><span class="opt-letter">B</span> 22 Parts</div><div class="pyq-opt"><span class="opt-letter">C</span> 24 Parts</div><div class="pyq-opt"><span class="opt-letter">D</span> 25 Parts</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Original Parts = 22.
+
+**Ans: B.** Originally **22 Parts**. Later additions raise the working count to about **25**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following subjects and arrange them into sequential order as mentioned in the Constitution.<br><br>I. The union and its territory<br>II. Fundamental duties<br>III. Citizenship<br>IV. Directive Principles of State Policy</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, III, IV, II</div><div class="pyq-opt"><span class="opt-letter">B</span> IV, II, III,I</div><div class="pyq-opt"><span class="opt-letter">C</span> II, IV, I, III</div><div class="pyq-opt"><span class="opt-letter">D</span> III, I, II, IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Order: I → II → IV → IVA.
+
+**Ans: A.** Part I → Part II → Part IV → Part IVA.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is not matched correctly?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Citizenship- Part II of Constitution</div><div class="pyq-opt"><span class="opt-letter">B</span> Fundamental Rights- Part III of Constitution</div><div class="pyq-opt"><span class="opt-letter">C</span> Fundamental Duties- Part VI-A of Constitution</div><div class="pyq-opt"><span class="opt-letter">D</span> State- Part VI of Constitution</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Duties = IVA not VI-A.
+
+**Ans: C.** Fundamental Duties sit in **Part IVA**.</div>
+  </div>
+</div>

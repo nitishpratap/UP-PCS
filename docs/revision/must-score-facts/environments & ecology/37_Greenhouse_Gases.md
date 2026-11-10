@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 37 — Greenhouse Gases</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. A greenhouse gas absorbs outgoing infrared radiation and traps heat in the atmosphere.
@@ -70,22 +59,6 @@ hide:
 44. **CFCs** are human-made compounds once used in refrigeration, aerosols, and foam blowing.
 45. **HFCs** replaced many CFCs/HCFCs in air-conditioning and refrigeration.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Atmospheric & Pollution Milestones
-
-```
-1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
-1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
-1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
-1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
-1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
-1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
-2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
-2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
-```
-
 ## 📊 Quick Reference Grid
 
 ### Gases
@@ -101,322 +74,270 @@ hide:
 | CFCs / HFCs | GHG+ODS (Montreal) / GHG only (Kigali) |
 | Not GHGs | Ar, N₂, O₂, He, H₂, propane |
 | Kyoto basket | CO₂ CH₄ N₂O HFCs PFCs SF₆ (+NF₃) |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Global Warming Potential (GWP)** | **Radiative Forcing** | Heat absorption efficiency of 1 kg of a gas over 100 years relative to CO₂ (=1) vs net change in energy balance of Earth (W/m²) caused by that gas | वैश्विक तापन क्षमता (GWP) / विकिरण दबाव |
-| **Carbon Dioxide (CO₂)** | **Water Vapour (H₂O)** | Primary anthropogenic driver of long-term climate change (atmospheric residence 100+ yrs) vs dominant natural greenhouse gas acting as a fast temperature feedback | कार्बन डाइऑक्साइड (मानवजनित) / जलवाष्प (प्राकृतिक फीडबैक) |
-| **Methane (CH₄)** | **Nitrous Oxide (N₂O)** | GWP ~28–30 (residence ~12 yrs; rice paddies, enteric livestock, wetlands) vs GWP ~265–273 (residence ~114 yrs; chemical fertilizers, adipic acid) | मीथेन (धान/पशुपालन) / नाइट्रस ऑक्साइड (उर्वरक) |
-| **Sulfur Hexafluoride (SF₆)** | **Carbon Dioxide (CO₂)** | Most potent GHG known with GWP >23,500 (used in electrical switchgear) vs benchmark baseline GHG with GWP = 1 | सल्फर हेक्साफ्लोराइड (GWP 23,500) / CO₂ (मानक 1) |
-| **Kyoto Six GHGs** | **Montreal Phase-Out Gases** | CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ (later NF₃ added) targeted for climate reduction vs CFCs, Halons, CCl₄, HCFCs targeted for stratospheric ozone protection | क्योटो 6 ग्रीनहाउस गैसें / मॉन्ट्रियल ओजोन गैसें |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Major constituents of biogas:
-
-1. Methane
-2. Butane
-3. Carbon dioxide
-4. Carbon monoxide
-
-A. 1 and 3
-B. 3 and 4
-C. 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests biogas composition — methane plus carbon dioxide, not butane or CO alone.
-
-**Ans: A.** Biogas is mainly **CH₄ + CO₂** from anaerobic digestion. **Trap:** Butane and carbon monoxide are distractors; paddy gas is methane, not CO.
-
-</details>
-
-**Q2.**
-
-Consider the following statements:
-
-1. Chlorofluorocarbons (CFCs) are linked to stratospheric ozone depletion.
-2. CFCs have no role in the greenhouse effect.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CFC dual role — greenhouse gas and ozone-depleting substance under Montreal.
-
-**Ans: A (Only 1).** CFCs destroy stratospheric ozone **and** are potent GHGs — statement 2 is false. **Trap:** Treating CFC as ODS-only or as “not a GHG.”
-
-</details>
-
-**Q3.**
-
-Which is known as Laughing Gas?
-
-A. Ammonia
-B. Nitrous Oxide
-C. Carbon Monoxide
-D. Chlorofluorocarbon
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Common-name recall — laughing gas is nitrous oxide, not ammonia or CO.
-
-**Ans: B.** **N₂O** is laughing gas (GWP ~265; fertiliser soils). **Trap:** Ammonia (NH₃) or CFC as distractors.
-
-</details>
-
-**Q4.**
-
-Which is NOT a greenhouse gas?
-
-A. Argon
-B. CFC
-C. Methane
-D. Carbon dioxide
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Noble gases and dry-air major components are not greenhouse gases; CFC is a GHG.
-
-**Ans: A.** **Argon** does not absorb outgoing infrared; CFC, CH₄, and CO₂ are GHGs. **Trap:** Picking CFC because it is “synthetic/industrial.”
-
-</details>
-
-**Q5.**
-
-Photochemical smog always contains—
-
-A. Phosphorus
-B. Ozone
-C. Methane
-D. Aluminium ion
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Photochemical smog chemistry always yields tropospheric ozone as a secondary product.
-
-**Ans: B.** NOx + VOCs + sunlight → **O₃** (and PAN). **Trap:** Confusing with London SO₂ smog or stratospheric ozone shield.
-
-</details>
-
-**Q6.**
-
-CNG is mainly composed of—
-
-A. Methane
-B. Propane
-C. Ethane
-D. Butane
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CNG fuel composition — compressed natural gas is mainly methane.
-
-**Ans: A.** **CNG ≈ 90% methane.** **Trap:** Propane/butane as LPG distractors.
-
-</details>
-
-**Q7.**
-
-Gas emitted in paddy fields that increases Earth's temperature:
-
-A. Nitrogen
-B. Carbon dioxide
-C. Carbon monoxide
-D. Methane
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Flooded paddy fields emit marsh gas (methane) under anaerobic soils.
-
-**Ans: D.** Anaerobic rice paddies release **CH₄**. **Trap:** CO₂ or CO — paddies are classic methane stems.
-
-</details>
-
-**Q8.**
-
-Methane is emitted from:
-
-A. Paddy fields only
-B. Termitary only
-C. Both
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Methane sources include wetlands, paddies, and termite mounds — not “paddy only.”
-
-**Ans: C.** **Both** paddies and termites emit CH₄ (also landfills, cattle, wetlands). **Trap:** “Only one source” options.
-
-</details>
-
-**Q9.**
-
-Largest CO₂ emitter in 2015:
-
-A. China
-B. USA
-C. India
-D. France
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Absolute CO₂ emissions ranking — China was largest emitter in 2015 framing.
-
-**Ans: A.** **China** #1 by absolute CO₂; India ~3rd with low per capita. **Trap:** Picking India because of population alone.
-
-</details>
-
-**Q10.**
-
-Which is NOT a greenhouse gas found naturally (among the options)?
-
-A. Nitrogen oxide
-B. Carbon dioxide
-C. Methane
-D. Ozone
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Among listed options, nitrogen oxides are pollutants — CO₂, CH₄, and O₃ are treated as natural GHGs in the stem.
-
-**Ans: A.** **NO/NO₂** are air pollutants, not classic GHGs in this list; CO₂, CH₄, and tropospheric O₃ qualify. **Trap:** Confusing N₂O (GHG) with nitrogen oxide.
-
-</details>
-
-**Q11.** With reference to the greenhouse effect, which of the following statements is/are correct?
-
-1. GHGs absorb outgoing IR and trap heat.
-2. Without the natural greenhouse effect Earth would be about +15°C; with it about −18°C.
-3. Argon is the main greenhouse gas.
-
-A. 2 and 3
-B. Only 1
-C. 1 and 2
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Statement 1 is the GHG heat-trap mechanism. Statement 2 reverses the −18°C / +15°C teaching pair. Statement 3 is false — argon is not a main GHG.
-
-</details>
-
-**Q12.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. CO₂ GWP | 1. ~28–36; lifetime ~12 yr |
-| B. CH₄ GWP | 2. 1 |
-| C. N₂O | 3. Very high GWP (~265); fertiliser link |
-
-Code:
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A-2, B-1, C-3.
-
-**Logic:** GWP ladder.
-
-</details>
-
-**Q13.** Which of the following pairs is/are correctly matched?
-
-1. Pre-industrial CO₂ was about 415–420 ppm.
-2. Present >415–420 ppm teaching
-3. WMO-style share order is N₂O > CFCs > CH₄ > CO₂.
-
-A. Only 2
-B. 1 and 3
-C. Only 1
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Statement 2 is the present >415–420 ppm teaching. Statement 1 swaps pre-industrial (~280 ppm) with present levels. Statement 3 reverses the usual CO₂ > CH₄ > CFCs > N₂O share order.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Water vapour is the most abundant natural GHG (~half of natural effect).
-
-Reason (R): It mainly acts as a feedback, not the primary anthropogenic driver.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R clarifies its role vs fossil CO₂.
-
-**A/R logic:** Feedback ≠ primary driver.
-
-</details>
-
-**Q15.** With reference to CFC vs HFC, which of the following statements is/are correct?
-
-1. CFCs = ODS + GHG (Montreal).
-2. HFCs = GHG only; Kigali phase-down.
-3. HFCs are classic ODS identical to CFCs.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 and 2.
-
-**Logic:** HFC ≠ classic ODS.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Major constituents of biogas:<br><br>1. Methane<br>2. Butane<br>3. Carbon dioxide<br>4. Carbon monoxide</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tests biogas composition — methane plus carbon dioxide, not butane or CO alone.
+
+**Ans: A.** Biogas is mainly **CH₄ + CO₂** from anaerobic digestion. **Trap:** Butane and carbon monoxide are distractors; paddy gas is methane, not CO.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Chlorofluorocarbons (CFCs) are linked to stratospheric ozone depletion.<br>2. CFCs have no role in the greenhouse effect.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** CFC dual role — greenhouse gas and ozone-depleting substance under Montreal.
+
+**Ans: A (Only 1).** CFCs destroy stratospheric ozone **and** are potent GHGs — statement 2 is false. **Trap:** Treating CFC as ODS-only or as “not a GHG.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which is known as Laughing Gas?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ammonia</div><div class="pyq-opt"><span class="opt-letter">B</span> Nitrous Oxide</div><div class="pyq-opt"><span class="opt-letter">C</span> Carbon Monoxide</div><div class="pyq-opt"><span class="opt-letter">D</span> Chlorofluorocarbon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Common-name recall — laughing gas is nitrous oxide, not ammonia or CO.
+
+**Ans: B.** **N₂O** is laughing gas (GWP ~265; fertiliser soils). **Trap:** Ammonia (NH₃) or CFC as distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which is NOT a greenhouse gas?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Argon</div><div class="pyq-opt"><span class="opt-letter">B</span> CFC</div><div class="pyq-opt"><span class="opt-letter">C</span> Methane</div><div class="pyq-opt"><span class="opt-letter">D</span> Carbon dioxide</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Noble gases and dry-air major components are not greenhouse gases; CFC is a GHG.
+
+**Ans: A.** **Argon** does not absorb outgoing infrared; CFC, CH₄, and CO₂ are GHGs. **Trap:** Picking CFC because it is “synthetic/industrial.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Photochemical smog always contains—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Phosphorus</div><div class="pyq-opt"><span class="opt-letter">B</span> Ozone</div><div class="pyq-opt"><span class="opt-letter">C</span> Methane</div><div class="pyq-opt"><span class="opt-letter">D</span> Aluminium ion</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Photochemical smog chemistry always yields tropospheric ozone as a secondary product.
+
+**Ans: B.** NOx + VOCs + sunlight → **O₃** (and PAN). **Trap:** Confusing with London SO₂ smog or stratospheric ozone shield.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">CNG is mainly composed of—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Methane</div><div class="pyq-opt"><span class="opt-letter">B</span> Propane</div><div class="pyq-opt"><span class="opt-letter">C</span> Ethane</div><div class="pyq-opt"><span class="opt-letter">D</span> Butane</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** CNG fuel composition — compressed natural gas is mainly methane.
+
+**Ans: A.** **CNG ≈ 90% methane.** **Trap:** Propane/butane as LPG distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Gas emitted in paddy fields that increases Earth's temperature:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nitrogen</div><div class="pyq-opt"><span class="opt-letter">B</span> Carbon dioxide</div><div class="pyq-opt"><span class="opt-letter">C</span> Carbon monoxide</div><div class="pyq-opt"><span class="opt-letter">D</span> Methane</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Flooded paddy fields emit marsh gas (methane) under anaerobic soils.
+
+**Ans: D.** Anaerobic rice paddies release **CH₄**. **Trap:** CO₂ or CO — paddies are classic methane stems.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Methane is emitted from:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Paddy fields only</div><div class="pyq-opt"><span class="opt-letter">B</span> Termitary only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both</div><div class="pyq-opt"><span class="opt-letter">D</span> None</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Methane sources include wetlands, paddies, and termite mounds — not “paddy only.”
+
+**Ans: C.** **Both** paddies and termites emit CH₄ (also landfills, cattle, wetlands). **Trap:** “Only one source” options.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Largest CO₂ emitter in 2015:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> China</div><div class="pyq-opt"><span class="opt-letter">B</span> USA</div><div class="pyq-opt"><span class="opt-letter">C</span> India</div><div class="pyq-opt"><span class="opt-letter">D</span> France</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Absolute CO₂ emissions ranking — China was largest emitter in 2015 framing.
+
+**Ans: A.** **China** #1 by absolute CO₂; India ~3rd with low per capita. **Trap:** Picking India because of population alone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which is NOT a greenhouse gas found naturally (among the options)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nitrogen oxide</div><div class="pyq-opt"><span class="opt-letter">B</span> Carbon dioxide</div><div class="pyq-opt"><span class="opt-letter">C</span> Methane</div><div class="pyq-opt"><span class="opt-letter">D</span> Ozone</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Among listed options, nitrogen oxides are pollutants — CO₂, CH₄, and O₃ are treated as natural GHGs in the stem.
+
+**Ans: A.** **NO/NO₂** are air pollutants, not classic GHGs in this list; CO₂, CH₄, and tropospheric O₃ qualify. **Trap:** Confusing N₂O (GHG) with nitrogen oxide.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to the greenhouse effect, which of the following statements is/are correct?<br><br>1. GHGs absorb outgoing IR and trap heat.<br>2. Without the natural greenhouse effect Earth would be about +15°C; with it about −18°C.<br>3. Argon is the main greenhouse gas.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Statement 1 is the GHG heat-trap mechanism. Statement 2 reverses the −18°C / +15°C teaching pair. Statement 3 is false — argon is not a main GHG.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> CO₂ GWP</td><td><span class="match-key">1</span> ~28–36; lifetime ~12 yr</td></tr>
+      <tr><td><span class="match-key">B</span> CH₄ GWP</td><td><span class="match-key">2</span> 1</td></tr>
+      <tr><td><span class="match-key">C</span> N₂O</td><td><span class="match-key">3</span> Very high GWP (~265); fertiliser link</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
+
+**Logic:** GWP ladder.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. Pre-industrial CO₂ was about 415–420 ppm.<br>2. Present >415–420 ppm teaching<br>3. WMO-style share order is N₂O > CFCs > CH₄ > CO₂.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Statement 2 is the present >415–420 ppm teaching. Statement 1 swaps pre-industrial (~280 ppm) with present levels. Statement 3 reverses the usual CO₂ > CH₄ > CFCs > N₂O share order.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Water vapour is the most abundant natural GHG (~half of natural effect).<br><br>Reason (R): It mainly acts as a feedback, not the primary anthropogenic driver.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R clarifies its role vs fossil CO₂.
+
+**A/R logic:** Feedback ≠ primary driver.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to CFC vs HFC, which of the following statements is/are correct?<br><br>1. CFCs = ODS + GHG (Montreal).<br>2. HFCs = GHG only; Kigali phase-down.<br>3. HFCs are classic ODS identical to CFCs.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 and 2.
+
+**Logic:** HFC ≠ classic ODS.</div>
+  </div>
+</div>

@@ -148,23 +148,6 @@ ho}$). |
 | **C** | **Residential Area** | **$55	ext{ dB}$** | **$45	ext{ dB}$** |
 | **D** | **Silence Zone** (around hospitals, schools, courts; $100	ext{ m}$) | **$50	ext{ dB}$** | **$40	ext{ dB}$** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Sound in Vacuum** | **Light in Vacuum** | **Sound CANNOT travel through a vacuum** because it is a mechanical pressure wave requiring material particles. Light is an electromagnetic wave that travels fastest in vacuum ($3 	imes 10^8	ext{ m/s}$). | ध्वनि निर्वात में गमन नहीं कर सकती; प्रकाश निर्वात में सबसे तेज चलता है |
-| **Sound Speed in Humid Air**| **Sound Speed in Dry Air** | Sound travels **FASTER in humid (moist) air** than in dry air. Water vapor is lighter than dry air (molecular weight 18 vs 29), so humid air has lower density, increasing sound speed ($v \propto 1/\sqrt{
-ho}$). | आर्द्र (नम) वायु में ध्वनि की चाल शुष्क वायु से अधिक होती है |
-| **Effect of Pressure on Sound**| **Common Pressure Trap** | Changes in atmospheric pressure have **ZERO EFFECT on the speed of sound** at constant temperature (ratio $P/
-ho$ remains constant). | स्थिर ताप पर वायुदाब बदलने से ध्वनि की चाल पर कोई प्रभाव नहीं पड़ता |
-| **Effect of Temperature on Sound**| **Temperature Coefficient** | Speed of sound **INCREASES with temperature** in air: increases by **$0.61	ext{ m/s}$ for every $1^\circ	ext{C}$ rise** in temperature ($v \propto \sqrt{T}$). | तापमान बढ़ने पर ध्वनि की चाल बढ़ती है ($1^\circ	ext{C}$ बढ़ने पर $0.61	ext{ m/s}$) |
-| **Loudness (Amplitude)** | **Pitch (Frequency)** | **Loudness depends on AMPLITUDE** of vibration ($I \propto A^2$); measured in decibels. **Pitch depends on FREQUENCY** (shrillness); female voice has higher pitch/frequency than male voice. | तीव्रता (Loudness) = आयाम ($A^2$); तारत्व (Pitch) = आवृत्ति (Frequency) |
-| **Minimum Echo Distance** | **Persistence of Hearing** | Persistence of hearing in the human ear is **$0.1	ext{ second}$ ($1/10	ext{ s}$)**. To hear a distinct echo in air ($344	ext{ m/s}$), the reflecting wall must be at least **$17.2	ext{ meters}$ away** ($d = vt/2$). | स्पष्ट प्रतिध्वनि सुनने हेतु न्यूनतम दूरी $17.2$ मीटर होनी चाहिए |
-| **Infrasonic Animals** | **Ultrasonic Animals** | **Elephants, rhinoceroses, and whales** produce and hear **Infrasonic waves ($<20	ext{ Hz}$)**. **Bats, dolphins, and dogs** produce and detect **Ultrasonic waves ($>20,000	ext{ Hz}$)**. | हाथी/व्हेल = अपश्रव्य ($<20	ext{ Hz}$); चमगादड़/डॉल्फिन = पराश्रव्य ($>20	ext{ kHz}$) |
-| **Mach Number Definition** | **Decibel Scale** | **Mach Number** is the ratio of object velocity to sound velocity ($	ext{Mach} = v/c_s$; dimensionless speed metric). **Decibel ($	ext{dB}$)** is the logarithmic unit of sound intensity/loudness. | मैक संख्या = वस्तु की चाल / ध्वनि की चाल; डेसिबल = ध्वनि की तीव्रता |
-| **Speed Order Across States** | **Gas vs Liquid vs Solid** | Sound speed sequence is strictly: **$	ext{Solids} > 	ext{Liquids} > 	ext{Gases}$** (Steel $pprox 5100	ext{ m/s} >$ Water $1480	ext{ m/s} >$ Air $343	ext{ m/s}$). | ध्वनि की चाल: ठोस > द्रव > गैस |
-| **Sonic Boom** | **Thunder Sound** | A **Sonic Boom** is the intense shock wave produced when an aircraft exceeds Mach 1. **Thunder** is the explosive sound produced by rapid thermal expansion of lightning-heated air. | सोनिक बूम = पराध्वनिक विमान द्वारा निर्मित प्रघाती तरंग (Shock wave) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Speed of Sound Across States of Matter: **S > L > G**
@@ -182,280 +165,230 @@ $$d = rac{v 	imes t}{2} = rac{344	ext{ m/s} 	imes 0.1	ext{ s}}{2} = \mathbf{17
 - **Supersonic**: $	ext{Mach } 1–5$ (BrahMos $pprox 	ext{Mach } 2.8$)
 - **Hypersonic**: $	ext{Mach} > 5$ (HSTDV, Shaurya)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-A sound wave travels from water into steel. Which of the following quantities remains completely unchanged?
-- (A) Velocity
-- (B) Wavelength
-- (C) Frequency
-- (D) Amplitude
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Frequency is a fundamental characteristic of the vibrating source.
-
-**Ans: C.** Frequency
-</details>
-
-**Q2.**
-
-An astronaut on the Moon's surface drops a heavy hammer and a feather from the same height. If an explosion occurs concurrently $500\text{ m}$ away:
-- (A) He hears the explosion before seeing the hammer hit the surface
-- (B) He hears the explosion after seeing the hammer hit the surface
-- (C) He cannot hear the explosion at all
-- (D) The sound travels faster on the Moon due to low gravity
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Moon has no atmosphere (vacuum).
-
-**Ans: C.** He cannot hear the explosion at all
-</details>
-
-**Q3.**
-
-What is the minimum distance required between an observer and a cliff to hear a clear echo at $0^\circ\text{C}$ (Speed of sound in air at $0^\circ\text{C} = 331\text{ m/s}$)?
-- (A) $17.2\text{ m}$
-- (B) $16.55\text{ m}$
-- (C) $33.1\text{ m}$
-- (D) $8.28\text{ m}$
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Persistence of hearing $= 0.1\text{ s}$.
-
-**Ans: B.** $16.55\text{ m}$
-</details>
-
-**Q4.**
-
-The technique of crushing kidney stones using high-intensity sound waves without surgical incision is termed:
-- (A) Endoscopy
-- (B) Lithotripsy
-- (C) Dialysis
-- (D) Ultrasonography
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Extracorporeal Shock Wave Lithotripsy (ESWL) uses focused ultrasonic shockwaves to break kidney stones into small particles excreted via urine.
-
-**Ans: B.** Lithotripsy
-</details>
-
-**Q5.**
-
-Which of the following statements regarding FM (Frequency Modulation) is NOT correct?
-- (A) It was invented by Edwin H. Armstrong
-- (B) It has wider bandwidth than Amplitude Modulation
-- (C) It is less susceptible to atmospheric noise and static
-- (D) Carrier amplitude continuously changes according to the signal
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** In FM, the amplitude and phase of the carrier wave remain strictly constant; only its frequency varies in accordance with the modulating audio signal.
-
-**Ans: D.** Carrier amplitude continuously changes according to the signal
-</details>
-
----
-
-**Q6. (UP RO/ARO (Pre) 2021)**
-
-In a Sitar, which type of sound vibrations are produced?
-
-(a) Progressive and Longitudinal
-
-(b) Progressive and Transverse
-
-(c) Stationary and Longitudinal
-
-(d) Stationary and Transverse
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** When we pluck the string of an instrument, like the Sitar, the sound that we hear is not only that of the string.
-
-**Ans: D.** Stationary and Transverse
-</details>
-
-**Q7. (UPPCS (Pre) 1991)**
-
-Long radio waves are reflected by which of the
-
-following layer of Earth's surface –
-
-(a) Troposphere (b) Ionosphere
-
-(c) Tropopause (d) Stratosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The ionosphere is a region of Earth's upper atmosphere from about 50 to 400 miles altitude.
-
-**Ans: B.** Ionosphere
-</details>
-
-**Q8. (UPPCS (Pre) 1998)**
-
-Wireless communication is reflected back to the earth’s
-
-surface by the –
-
-(a) Troposphere (b) Stratosphere
-
-(c) Ionosphere (d) Exosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Ionosphere (d) Exosphere.
-
-**Ans: C.** Ionosphere (d) Exosphere
-</details>
-
-**Q9. (UP Lower Sub (Pre) 1998)**
-
-Which of the following atmospheric layers is
-
-responsible for the deflection of radiowaves ?
-
-(a) Troposphere (b) Stratosphere
-
-(c) Mesosphere (d) Ionosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Ionosphere
-</details>
-
-**Q10. (UPPCS (Pre) 2005)**
-
-Which one of the following statements is not true about
-
-cosmic rays?
-
-(a) They are electromagnetic waves.
-
-(b) They have very short wavelength.
-
-(c) They are made of highly energetic charged particles.
-
-(d) They originate from the Sun
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches They are electromagnetic waves.
-
-**Ans: A.** They are electromagnetic waves
-</details>
-
-**Q11. (UP RO/ARO (Mains) 2017)**
-
-Which of the following does not require a medium?
-
-(a) Radiation (b) Convection
-
-(c) Conduction (d) None of these
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** In physics, radiation is the emission or transmission of energy in the form of waves or particles through space or through a medium.
-
-**Ans: A.** Radiation (b) Convection
-</details>
-
-**Q12. (UPPCS (Pre) 2019)**
-
-Which one of the following is associated with 'Albedo'?
-
-(a) Transmitting power (b) Absorbing power
-
-(c) Emissive power (d) Reflecting power
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Albedo is the fraction of light or radiation that is reflected by a body or surface.
-
-**Ans: D.** Reflecting power
-</details>
-
-**Q13. (UPPCS (Pre) 2022)**
-
-The Earth's atmosphere is mainly heated by which one
-
-of the following?
-
-(a) Scattered solar radiation
-
- (b) Shortwave solar radiation
-
-(c) Longwave terrestrial radiation
-
- (d) Reflected solar radiation
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The energy released from the Sun is emitted as shortwave light and ultraviolet energy.
-
-**Ans: C.** Longwave terrestrial radiation
-</details>
-
-**Q14. (UPPCS (Pre) 2018 / UPPCS (Mains) 2005)**
-
-Which of the following electromagnetic radiations has
-
-the maximum energy?
-
-(a) Visible light (b) Infrared rays
-
-(c) Ultraviolet rays (d) X-rays
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Shorter the wavelength, greater is the frequency and energy.
-
-**Ans: D.** X-rays
-</details>
-
-**Q15. (UP RO/ARO (Pre) 2023)**
-
-Consider the following and arrange these in increasing
-
-order of frequency :
-
-I. X-rays II. Visible rays
-
-III. Infrared rays IV. Radio waves
-
-Select the correct answer using the code given below :
-
-Code :
-
-(a) III, II, I, IV (b) I, II, III, IV
-
-(c) II, III, IV, I (d) IV, III, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The correct increasing order of the given electromagnetic waves in terms of frequency is as follows : Radio waves < Infrared rays < Visible rays < X-rays.
-
-**Ans: D.** IV, III, II, I
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">A sound wave travels from water into steel. Which of the following quantities remains completely unchanged?<br>- (A) Velocity<br>- (B) Wavelength<br>- (C) Frequency<br>- (D) Amplitude</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Frequency is a fundamental characteristic of the vibrating source.
+
+**Ans: C.** Frequency</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">An astronaut on the Moon's surface drops a heavy hammer and a feather from the same height. If an explosion occurs concurrently $500\text{ m}$ away:<br>- (A) He hears the explosion before seeing the hammer hit the surface<br>- (B) He hears the explosion after seeing the hammer hit the surface<br>- (C) He cannot hear the explosion at all<br>- (D) The sound travels faster on the Moon due to low gravity</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Moon has no atmosphere (vacuum).
+
+**Ans: C.** He cannot hear the explosion at all</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">What is the minimum distance required between an observer and a cliff to hear a clear echo at $0^\circ\text{C}$ (Speed of sound in air at $0^\circ\text{C} = 331\text{ m/s}$)?<br>- (A) $17.2\text{ m}$<br>- (B) $16.55\text{ m}$<br>- (C) $33.1\text{ m}$<br>- (D) $8.28\text{ m}$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Persistence of hearing $= 0.1\text{ s}$.
+
+**Ans: B.** $16.55\text{ m}$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The technique of crushing kidney stones using high-intensity sound waves without surgical incision is termed:<br>- (A) Endoscopy<br>- (B) Lithotripsy<br>- (C) Dialysis<br>- (D) Ultrasonography</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Extracorporeal Shock Wave Lithotripsy (ESWL) uses focused ultrasonic shockwaves to break kidney stones into small particles excreted via urine.
+
+**Ans: B.** Lithotripsy</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements regarding FM (Frequency Modulation) is NOT correct?<br>- (A) It was invented by Edwin H. Armstrong<br>- (B) It has wider bandwidth than Amplitude Modulation<br>- (C) It is less susceptible to atmospheric noise and static<br>- (D) Carrier amplitude continuously changes according to the signal</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** In FM, the amplitude and phase of the carrier wave remain strictly constant; only its frequency varies in accordance with the modulating audio signal.
+
+**Ans: D.** Carrier amplitude continuously changes according to the signal</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">(UP RO/ARO (Pre) 2021)</span>
+  </div>
+  <div class="pyq-stem">In a Sitar, which type of sound vibrations are produced?<br><br>(a) Progressive and Longitudinal<br><br>(b) Progressive and Transverse<br><br>(c) Stationary and Longitudinal<br><br>(d) Stationary and Transverse</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** When we pluck the string of an instrument, like the Sitar, the sound that we hear is not only that of the string.
+
+**Ans: D.** Stationary and Transverse</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">(UPPCS (Pre) 1991)</span>
+  </div>
+  <div class="pyq-stem">Long radio waves are reflected by which of the<br><br>following layer of Earth's surface –<br><br>(a) Troposphere (b) Ionosphere<br><br>(c) Tropopause (d) Stratosphere</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The ionosphere is a region of Earth's upper atmosphere from about 50 to 400 miles altitude.
+
+**Ans: B.** Ionosphere</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">(UPPCS (Pre) 1998)</span>
+  </div>
+  <div class="pyq-stem">Wireless communication is reflected back to the earth’s<br><br>surface by the –<br><br>(a) Troposphere (b) Stratosphere<br><br>(c) Ionosphere (d) Exosphere</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Ionosphere (d) Exosphere.
+
+**Ans: C.** Ionosphere (d) Exosphere</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following atmospheric layers is<br><br>responsible for the deflection of radiowaves ?<br><br>(a) Troposphere (b) Stratosphere<br><br>(c) Mesosphere (d) Ionosphere</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ionosphere</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2005)</span>
+  </div>
+  <div class="pyq-stem">Which one of the following statements is not true about<br><br>cosmic rays?<br><br>(a) They are electromagnetic waves.<br><br>(b) They have very short wavelength.<br><br>(c) They are made of highly energetic charged particles.<br><br>(d) They originate from the Sun</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches They are electromagnetic waves.
+
+**Ans: A.** They are electromagnetic waves</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">(UP RO/ARO (Mains) 2017)</span>
+  </div>
+  <div class="pyq-stem">Which of the following does not require a medium?<br><br>(a) Radiation (b) Convection<br><br>(c) Conduction (d) None of these</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** In physics, radiation is the emission or transmission of energy in the form of waves or particles through space or through a medium.
+
+**Ans: A.** Radiation (b) Convection</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2019)</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is associated with 'Albedo'?<br><br>(a) Transmitting power (b) Absorbing power<br><br>(c) Emissive power (d) Reflecting power</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Albedo is the fraction of light or radiation that is reflected by a body or surface.
+
+**Ans: D.** Reflecting power</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2022)</span>
+  </div>
+  <div class="pyq-stem">The Earth's atmosphere is mainly heated by which one<br><br>of the following?<br><br>(a) Scattered solar radiation<br><br> (b) Shortwave solar radiation<br><br>(c) Longwave terrestrial radiation<br><br> (d) Reflected solar radiation</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The energy released from the Sun is emitted as shortwave light and ultraviolet energy.
+
+**Ans: C.** Longwave terrestrial radiation</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2018 / UPPCS (Mains) 2005)</span>
+  </div>
+  <div class="pyq-stem">Which of the following electromagnetic radiations has<br><br>the maximum energy?<br><br>(a) Visible light (b) Infrared rays<br><br>(c) Ultraviolet rays (d) X-rays</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Shorter the wavelength, greater is the frequency and energy.
+
+**Ans: D.** X-rays</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">(UP RO/ARO (Pre) 2023)</span>
+  </div>
+  <div class="pyq-stem">Consider the following and arrange these in increasing<br><br>order of frequency :<br><br>I. X-rays II. Visible rays<br><br>III. Infrared rays IV. Radio waves<br><br>Select the correct answer using the code given below :<br><br>Code :<br><br>(a) III, II, I, IV (b) I, II, III, IV<br><br>(c) II, III, IV, I (d) IV, III, II, I</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The correct increasing order of the given electromagnetic waves in terms of frequency is as follows : Radio waves < Infrared rays < Visible rays < X-rays.
+
+**Ans: D.** IV, III, II, I</div>
+  </div>
+</div>

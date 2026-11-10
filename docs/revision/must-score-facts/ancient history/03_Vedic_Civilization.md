@@ -164,10 +164,14 @@ hide:
 46. **Vedic Cosmology & Rta**:
     - **Rta** represented the inviolable cosmic rhythm, seasonal cycle, and moral order governing nature and human conduct, guarded by **Varuna** (*Rtasyagopa*).
 47. **Upavedas (Auxiliary Vedas)**:
-    - Rigveda $ightarrow$ **Ayurveda** (Medicine).
-    - Samaveda $ightarrow$ **Gandharvaveda** (Music, dance, fine arts).
-    - Yajurveda $ightarrow$ **Dhanurveda** (Archery and warfare).
-    - Atharvaveda $ightarrow$ **Shilpaveda / Arthashastra** (Architecture, mechanics, statecraft).
+    - Rigveda $
+ightarrow$ **Ayurveda** (Medicine).
+    - Samaveda $
+ightarrow$ **Gandharvaveda** (Music, dance, fine arts).
+    - Yajurveda $
+ightarrow$ **Dhanurveda** (Archery and warfare).
+    - Atharvaveda $
+ightarrow$ **Shilpaveda / Arthashastra** (Architecture, mechanics, statecraft).
 48. **Aranyakas (Forest Texts)**:
     - Transitional esoteric texts between ritualistic Brahmanas and philosophical Upanishads; intended for hermits and students meditating in forests; emphasize mental interpretation of sacrifices (*Prana-vidya*).
 49. **Mahavakyas (The 4 Great Upanishadic Truths)**:
@@ -176,6 +180,16 @@ hide:
     - **Tat Tvam Asi** ("That Thou Art") — *Chhandogya Upanishad* (Samaveda).
     - **Ayam Atma Brahma** ("This Self is Brahman") — *Mandukya Upanishad* (Atharvaveda).
 50. **Mandukya Upanishad**:
+51. **Vedic Geographical Horizons (Sapta Sindhu):** Rigvedic territory comprised Eastern Afghanistan, Punjab, Haryana, and Western UP; 7 sacred rivers: Indus (Sindhu), Saraswati (most sacred, termed *Naditama*, *Devitama*, *Ambitama*), Vitasta (Jhelum), Asikni (Chenab), Parushni (Ravi), Vipasha (Beas), and Shutudri (Sutlej); Ganga mentioned only **once**; Yamuna mentioned **three times**; Vindhyas and oceans (*Samudra*) barely referenced.
+52. **Rigvedic Tribal Battle - Battle of the Ten Kings (Dasarajna Yudha):** Fought on the banks of **River Parushni (Ravi)**; King **Sudas** of the **Bharata Tritsu clan** (advised by sage **Vasishtha**) decisively defeated a confederacy of 10 tribes (5 Aryans: Puru, Yadu, Turvasa, Anu, Druhyu; 5 non-Aryans: Alina, Pakhta, Bhalanas, Shiva, Vishanin) advised by sage **Vishwamitra**.
+53. **Rigvedic Political Institutions & Assemblies:** (1) **Sabha:** Council of tribal elders and elites; judicial functions; women attended in early Vedic period; (2) **Samiti:** General assembly of the entire tribe (*Vis*); elected and deposed the king (*Rajan*); presided over by *Ishan*; (3) **Vidatha:** Oldest folk assembly for military, secular, and religious deliberations; attended by men and women; (4) **Gana:** Troop assembly headed by *Ganapati*.
+54. **Rigvedic Deities Hierarchy:** **Indra** (Purandara - 'Breaker of Forts', god of thunder and rain; 250 hymns dedicated) -> **Agni** (god of fire, intermediary between gods and mortals; 200 hymns) -> **Varuna** (upholder of cosmic and moral order - *Ritasya Gopa*) -> **Soma** (god of plants and intoxicating drink; entire 9th Mandala dedicated) -> **Maruts** (storm gods) -> **Ushas** (goddess of dawn) and **Aditi** (mother of gods).
+55. **Four Vedas Taxonomy:** (1) **Rigveda:** Collection of 1,028 hymns (*Suktas*) divided into 10 Mandalas; Mandalas 2 to 7 are the oldest ('Family Books' by Gritsamada, Vishwamitra, Vamadeva, Atri, Bharadvaja, Vasishtha); 3rd Mandala contains **Gayatri Mantra** (composed by Vishwamitra dedicated to solar deity Savitr); 10th Mandala contains **Purusha Sukta** (first explicit mention of 4 varnas: Brahmana, Kshatriya, Vaishya, Shudra born from cosmic Purusha).
+56. **Samaveda, Yajurveda & Atharvaveda:** (2) **Samaveda:** Veda of melodies and chants; 1,810 verses set to musical notation (root of Indian classical music); chanted by *Udgatri* priests; (3) **Yajurveda:** Book of sacrificial formulas and rituals; chanted by *Adhvaryu* priests; divided into **Shukla Yajurveda** (White - only mantras, Vajasaneyi Samhita) and **Krishna Yajurveda** (Black - mantras mixed with prose commentaries); (4) **Atharvaveda:** Attributed to sages Atharvan and Angiras; collection of charms, magic spells, healing herbs, and curses against diseases and demons; recited by *Brahma* priest (overseer of sacrifice).
+57. **Brahmanas, Aranyakas & Upanishads:** **Brahmanas:** Prose commentaries explaining Vedic sacrificial rituals (Rigveda: Aitareya & Kaushitaki; Samaveda: Panchavimsha & Jaiminiya; Shukla Yajurveda: **Shatapatha Brahmana** - largest and most informative, mentions ploughing rituals of King Janaka and Videha Madhava story; Krishna Yajurveda: Taittiriya; Atharvaveda: **Gopatha Brahmana**); **Aranyakas:** 'Forest Texts' dealing with mysticism and philosophical symbolism; **Upanishads (Vedanta):** 108 philosophical texts marking transition from ritualism to spiritual monism (Brahman & Atman).
+58. **Famous Upanishadic Maxims & Dialogues:** (1) **Mundaka Upanishad:** Source of India's national motto **'Satyameva Jayate'** ('Truth Alone Triumphs'); (2) **Katha Upanishad:** Famous philosophical dialogue on death and immortality between **Nachiketa and Yama**; (3) **Brihadaranyaka Upanishad:** Dialogue between sage **Yajnavalkya and Gargi** (erudite female philosopher at King Janaka's court); contains prayer *'Asato Ma Sadgamaya, Tamaso Ma Jyotirgamaya'*; (4) **Chandogya Upanishad:** Contains doctrine of *Tat Tvam Asi* ('That Thou Art') and dialogue between Uddalaka Aruni and his son Shvetaketu; earliest reference to three ashramas; (5) **Jabala Upanishad:** First text to mention all **four Ashramas** (Brahmacharya, Grihastha, Vanaprastha, Sanyasa).
+59. **Six Vedangas (Auxiliary Sciences):** (1) **Shiksha** (Phonetics/Pronunciation - *Pratishakhya*); (2) **Kalpa** (Ritual rules: *Shrauta Sutras*, *Grihya Sutras*, and *Sulba Sutras* - earliest Indian geometry/altar measurements); (3) **Vyakarana** (Grammar - Panini's *Ashtadhyayi*, 5th century BCE); (4) **Nirukta** (Etymology - Yaska); (5) **Chhanda** (Metrics - Pingala); (6) **Jyotisha** (Astronomy - Lagadha).
+60. **Six Schools of Indian Classical Philosophy (Shad-Darshana):** (1) **Samkhya:** Founded by **Kapila** (oldest, dualism of *Purusha* [consciousness] and *Prakriti* [matter]); (2) **Yoga:** Founded by **Patanjali** (*Yoga Sutras* - 8-limbed Ashtanga Yoga); (3) **Nyaya:** Founded by **Gautama / Akshapada** (school of logic and epistemology); (4) **Vaisheshika:** Founded by **Kanada / Uluka** (atomic theory of matter - *Paramanu*); (5) **Mimamsa (Purva-Mimamsa):** Founded by **Jaimini** (orthodoxy of Vedic ritualism); (6) **Vedanta (Uttara-Mimamsa):** Founded by **Badarayana** (*Brahma Sutras*), commented upon by Adi Shankara (Advaita), Ramanuja (Vishishtadvaita), and Madhva (Dvaita).
     - The shortest Upanishad (only 12 verses), yet celebrated as the most philosophically condensed; analyzes the sacred syllable **AUM (OM)** and the **four states of consciousness**: *Jagrat* (waking), *Svapna* (dreaming), *Sushupti* (deep sleep), and *Turiya* (pure transcendental consciousness).
 
 ## ⏱️ Timeline / Chronology
@@ -244,402 +258,313 @@ c. 700–500 BCE   ── Upanishadic Age / Philosophical Awakening
 | 11 | **Kshattri** | Chamberlain / master of the royal gate | Manages palace entrance |
 | 12 | **Takshan / Rathakara**| Master carpenter and chariot builder | High status due to war chariots |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Early / Rigvedic** | **Later Vedic** | Pastoral, Punjab, assemblies strong vs Agrarian, Doab, absolute kingship, iron | ऋग्वैदिक / उत्तर वैदिक |
-| **Sabha** | **Samiti** | Elite judicial council of elders/Brahmanas vs Folk general assembly of whole clan with electoral power | सभा / समिति |
-| **Vidatha** | **Sabha** | Earliest folk-ritual assembly (women participated) vs Later judicial council of elders | विदथ / सभा |
-| **Akshavapa** | **Bhagadugha** | Superintendent of dice/gambling vs Royal tax and revenue collector | अक्षावाप / भागदुघ |
-| **Sangrahitri** | **Bhagadugha** | Treasurer (keeper of purse) vs Tax collector (gatherer of revenue) | संग्रहीतृ / भागदुघ |
-| **Mundaka Upanishad** | **Mandukya Upanishad** | Source of *"Satyam Eva Jayate"* vs Shortest Upanishad analyzing the syllable AUM & 4 states of consciousness | मुण्डक / माण्डूक्य |
-| **Brihadaranyaka** | **Chhandogya** | Largest Upanishad (Yajnavalkya-Gargi) vs Second largest (Satyakama Jabala, Tat Tvam Asi) | बृहदारण्यक / छान्दोग्य |
-| **Shukla Yajurveda** | **Krishna Yajurveda** | Purely poetic hymns (Vajasaneyi) vs Mixed prose commentaries and verses | शुक्ल / कृष्ण यजुर्वेद |
-| **Ayas (Rigvedic)** | **Shyama-ayas (Later Vedic)**| Copper or bronze in Rigveda vs True smelted iron in Later Vedic texts | अयस् / श्याम-अयस् |
-| **Aghanya** | **Gavishti** | "Not to be slain" (Cow) vs "Search for cows" (War/cattle raid) | अघन्या / गविष्टि |
-| **Vitasta** | **Asikni** | Ancient Jhelum river vs Ancient Chenab river | वितस्ता / असिक्नी |
-| **Parushni** | **Sutudri** | Ancient Ravi river (Battle of 10 Kings) vs Ancient Sutlej river | परुष्णी / शुतुद्री |
-| **Sadaneera** | **Saraswati** | Gandak river crossed by Videgha Mathava vs Ghaggar-Hakra river (*Naditama*) | सदानीरा / सरस्वती |
-| **Indra (250 hymns)** | **Agni (200 hymns)** | Primary thunder/war god (*Purandara*) vs Sacrificial messenger god of hearth | इन्द्र / अग्नि |
-| **Hotri priest** | **Adhvaryu priest** | Rigvedic reciter of hymns vs Yajurvedic performer of physical sacrifices | होतृ / अध्वर्यु |
-| **Udgatri priest** | **Brahma priest** | Samavedic singer of melodies vs Atharvavedic supervisor/overseer of sacrifice | उद्गातृ / ब्रह्मा |
-| **Samkhya (Kapila)** | **Yoga (Patanjali)** | Theoretical dualism (Purusha/Prakriti) vs Practical eightfold spiritual discipline | सांख्य / योग |
-| **Nyaya (Gautama)** | **Vaisheshika (Kanada)** | Logic and epistemology (4 Pramanas) vs Physical atomism (*Paramanu*) of 9 substances | न्याय / वैशेषिक |
-| **Purva Mimamsa** | **Uttara Mimamsa** | Jaimini's ritual action (*Karma-kanda*) vs Badarayana's Upanishadic knowledge (*Jnana-kanda*) | पूर्व मीमांसा / उत्तर मीमांसा |
-| **Bali (Rigvedic)** | **Bali (Later Vedic)** | Purely voluntary gift to Rajan vs Compulsory customary tax levied on agriculture | बलि (स्वैच्छिक / अनिवार्य) |
-| **Anuloma** | **Pratiloma** | Higher varna male + lower varna female vs Lower varna male + higher varna female (condemned) | अनुलोम / प्रतिलोम |
-| **Yava** | **Vrihi** | Barley (staple of Early Vedic) vs Rice (staple of Later Vedic) | यव / व्रीहि |
-| **Brahmana texts** | **Upanishad texts** | Sacrificial ritual prose manuals vs Esoteric philosophical dialogues on Atman-Brahman | ब्राह्मण / उपनिषद् |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **The Four Priests of the Four Vedas:**
-   - **R - S - Y - A** $ightarrow$ **H - U - A - B**
+   - **R - S - Y - A** $
+ightarrow$ **H - U - A - B**
    - **R**igveda = **H**otri (*"Hot Rigveda"*)
    - **S**amaveda = **U**dgatri (*"Udgatri sings Sama"*)
    - **Y**ajurveda = **A**dhvaryu (*"Adhvaryu performs Yajna"*)
    - **A**tharvaveda = **B**rahma (*"Brahma oversees All"*)
 2. **Sabha vs Samiti Functions:**
-   - **Sabha** = **S - E - J** $ightarrow$ **S**elect **E**lders dispensing **J**ustice (Judicial).
-   - **Samiti** = **S - M - E** $ightarrow$ **S**overeign **M**asses **E**lecting the King (Electoral).
+   - **Sabha** = **S - E - J** $
+ightarrow$ **S**elect **E**lders dispensing **J**ustice (Judicial).
+   - **Samiti** = **S - M - E** $
+ightarrow$ **S**overeign **M**asses **E**lecting the King (Electoral).
 3. **Rigvedic Rivers Sequence (North to South in Punjab):**
    - **I - J - C - R - B - S**
-   - **I**ndus (Sindhu) $ightarrow$ **J**helum (Vitasta) $ightarrow$ **C**henab (Asikni) $ightarrow$ **R**avi (Parushni) $ightarrow$ **B**eas (Vipas) $ightarrow$ **S**utlej (Sutudri).
+   - **I**ndus (Sindhu) $
+ightarrow$ **J**helum (Vitasta) $
+ightarrow$ **C**henab (Asikni) $
+ightarrow$ **R**avi (Parushni) $
+ightarrow$ **B**eas (Vipas) $
+ightarrow$ **S**utlej (Sutudri).
 4. **The Akshavapa Trap Buster:**
-   - **Aksha (अक्ष)** = **Dice** $ightarrow$ Superintendent of dice and gambling!
-   - **Bhaga (भाग)** = **Tax Share** $ightarrow$ Bhagadugha collects the tax share!
+   - **Aksha (अक्ष)** = **Dice** $
+ightarrow$ Superintendent of dice and gambling!
+   - **Bhaga (भाग)** = **Tax Share** $
+ightarrow$ Bhagadugha collects the tax share!
 5. **Mundaka vs Mandukya:**
    - **Mundaka** (3 syllables) = **Truth** (*Satyam Eva Jayate*).
    - **Mandukya** (Frog / Manduka) = Leaps through the 4 states of consciousness & AUM.
 
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Which officer was known as **'Bhagadugha'** during Vedic administration?
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which officer was known as **'Bhagadugha'** during Vedic administration?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Messenger</div><div class="pyq-opt"><span class="opt-letter">B</span> Chief Officer of Forests</div><div class="pyq-opt"><span class="opt-letter">C</span> Chief Officer of the Gambling Department</div><div class="pyq-opt"><span class="opt-letter">D</span> Revenue Collector</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> revenue collector (king’s **bhaga**). Option C describes **Akshavapa**.</div>
+  </div>
+</div>
 
-A. Messenger
-B. Chief Officer of Forests
-C. Chief Officer of the Gambling Department
-D. Revenue Collector
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — revenue collector (king’s **bhaga**). Option C describes **Akshavapa**.
-
-</details>
-
-**Q2.**
-
-Which of the following is a Samhita of Shukla Yajurveda?
-
-A. Vajasanami
-B. Maitrayani
-C. Taittiriya
-D. Kathak
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Identify the **Shukla** Samhita. B/C/D are all **Krishna (Black)** Yajurveda names — classic three-trap pattern.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following is a Samhita of Shukla Yajurveda?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vajasanami</div><div class="pyq-opt"><span class="opt-letter">B</span> Maitrayani</div><div class="pyq-opt"><span class="opt-letter">C</span> Taittiriya</div><div class="pyq-opt"><span class="opt-letter">D</span> Kathak</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Identify the **Shukla** Samhita. B/C/D are all **Krishna (Black)** Yajurveda names — classic three-trap pattern.
 
 **Ans: A** — Vajasaneyi (paper spelling Vajasanami).
-**B/C/D** = Krishna (Black) Yajurveda Samhitas. **Krishna** = Black school, not the deity.
-
-</details>
-
-**Q3.**
-
-Which of the following Vedas is divided into two branches as Krishna and Shukla?
-
-A. Rig Veda
-B. Sama Veda
-C. Yajur Veda
-D. Atharva Veda
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same Krishna/Shukla split as UPPCS 2018, but the stem asks for the **Veda**, not the Samhita name.
-
-**Ans: C (Series B provisional key).** Only the Yajurveda has Krishna (Black) and Shukla (White) branches. Krishna mixes mantra with prose; Shukla keeps them apart.
-
-</details>
-
-**Q4.** With reference to Early and Later Vedic ages, which of the following statements is/are correct?
-
-1. Early / Rigvedic age (~1500–1000 BCE) is centred on the Ganga–Yamuna doab and is agrarian.
-2. Later Vedic age (~1000–600 BCE) is centred on the Ganga–Yamuna doab and is agrarian.
-3. Rigvedic culture is primarily a Uttar Pradesh heartland story.
-
-A. Only 2
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Stmt 1 false: Rigvedic age is Sapta Sindhu / pastoral; Ganga doab agrarian is Later Vedic. Stmt 3 remains false: Rigvedic core is not UP heartland.
-
-</details>
-
-**Q5.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Assembly / Official) | List-II (Role) |
-|---|---|
-| 1. Sabha | A. Collects king’s share (bhaga) |
-| 2. Samiti | B. Elders/nobles assembly |
-| 3. Bhagadugha | C. Wider tribal assembly that can choose the rajan |
-| 4. Akshavapa | D. Dice / gambling officer |
-
-*Row order is not the answer code.*
-
-A. 1-C, 2-B, 3-A, 4-D
-
-B. 1-B, 2-C, 3-A, 4-D
-
-C. 1-B, 2-C, 3-D, 4-A
-
-D. 1-B, 2-A, 3-C, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Sabha–elders; Samiti–chooses rajan; Bhagadugha–bhaga; Akshavapa–dice.
-
-**Logic:** Never swap Bhagadugha (revenue) with Akshavapa (dice) or Sangrahitri (treasurer).
-
-</details>
-
-**Q6.** Consider the following statements about Vedic assemblies:
-
-1. Vidatha is the oldest gathering with economic and ritual roles and women’s presence.
-2. Vidatha fades first in Later Vedic times.
-3. Sabha becomes more exclusive while Samiti remains the broader tribal body in Early Vedic memory.
-
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-
-B. 2 and 3
-
-C. Only 1
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three statements are correct.
-
-**Logic:** Sabha / Samiti / Vidatha triad is a high-yield confused-pair set.
-
-</details>
-
-**Q7.** Arrange the following layers of Vedic literature in correct order:
-
-1. Upanishad
-2. Samhita
-3. Brahmana
-4. Aranyaka
-
-Select the correct answer from the code given below:
-
-A. 2, 4, 3, 1
-
-B. 2, 3, 4, 1
-
-C. 3, 2, 4, 1
-
-D. 2, 3, 1, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Samhita → Brahmana → Aranyaka → Upanishad.
-
-**Logic:** Samhitas = hymns; Brahmanas = ritual prose; Aranyakas = forest symbolic ritual; Upanishads = Vedanta.
-
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Samiti could choose the rajan in Early Vedic polity.
-
-**Reason (R):** Sabha was the wider tribal assembly while Samiti was only an elders’ council.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true; R reverses Sabha and Samiti.
-
-**A/R logic:** Sabha = elders/nobles; Samiti = wider body that chooses the rajan.
-
-</details>
-
-**Q9.** With reference to the Rigveda, which of the following statements is/are correct?
-
-1. It has 1028 hymns in 10 mandalas.
-2. Mandalas 2–7 are the oldest family books; Mandala 9 is Soma.
-3. Mandalas 1 and 10 are among the latest.
-
-Select the correct answer from the code given below:
-
-A. Only 2 and 3
-
-B. Only 1
-
-C. 1 and 2
-
-D. Only 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** Standard Rigveda structure tags.
-
-</details>
-
-**Q10.** Which of the following hymn-count statements is/are correct?
-
-1. Varuna has the largest number of hymns, exceeding Indra.
-2. Indra has roughly 250 hymns.
-3. Agni has roughly 250 hymns, exceeding Indra.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 2
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Stmt 3 false: Indra has ~250 hymns; Agni ~200. Stmt 1 remains false: Varuna does not exceed Indra in hymn count.
-
-</details>
-
-**Q11.** Which one of the following pairs is NOT correctly matched?
-
-A. Shukla Yajurveda — Vajasaneyi (mantra and prose separate)
-
-B. Krishna Yajurveda — Black Yajurveda schools with mixed mantra-prose
-
-C. Krishna Yajurveda — devotion to the god Krishna as its defining feature
-
-D. Taittiriya / Kathaka / Maitrayani — Black Yajurveda schools
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Krishna here means Black Yajurveda, not the god Krishna.
-
-**Logic:** Classic trap: Krishna Yajurveda ≠ Krishna-bhakti text.
-
-</details>
-
-**Q12.** With reference to Later Vedic officials and terms, which of the following is/are correct?
-
-1. Sangrahitri was the treasurer.
-2. Nishka was coined silver money of the Rigvedic age.
-3. Gavishti means coined silver money of the Rigvedic age.
-
-A. 1 and 2
-
-B. Only 1
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Stmt 3 false: Gavishti = cattle-raid / war for cows; coined money is absent. Stmt 2 remains false: Nishka = gold ornament/value-unit, not coined silver.
-
-</details>
-
-**Q13.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Term) | List-II (Meaning) |
-|---|---|
-| 1. Shruti | A. Remembered later dharma literature |
-| 2. Smriti | B. Heard Vedic revelation |
-| 3. PGW | C. Later Vedic doab painted grey ware |
-| 4. shyama ayas | D. Later Vedic iron |
-
-*Row order is not the answer code.*
-
-A. 1-B, 2-A, 3-D, 4-C
-
-B. 1-A, 2-B, 3-C, 4-D
-
-C. 1-B, 2-A, 3-C, 4-D
-
-D. 1-B, 2-C, 3-A, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Shruti–heard; Smriti–remembered; PGW–Later Vedic; shyama ayas–iron.
-
-**Logic:** Early Rigvedic ayas usually means copper/bronze, not iron.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Vishnu and Rudra are minor in the Rigveda.
-
-**Reason (R):** In Later Vedic religion Vishnu and Rudra rise in importance beside older storm and fire gods.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Chronological reversal: later development cannot explain prior state.
-
-</details>
-
-**Q15.** Consider the following statements about Vedangas:
-
-1. The six Vedangas are Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda and Upanishad.
-2. Vedangas teach Brahman–Atman philosophy as their primary content.
-3. Vedangas are tools of the Veda, not identical with the Upanishads.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: Sixth Vedanga is Jyotisha, not Upanishad. Stmt 2 remains false: Brahman–Atman = Upanishads/Vedanta, not Vedangas.
-
-</details>
+**B/C/D** = Krishna (Black) Yajurveda Samhitas. **Krishna** = Black school, not the deity.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following Vedas is divided into two branches as Krishna and Shukla?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rig Veda</div><div class="pyq-opt"><span class="opt-letter">B</span> Sama Veda</div><div class="pyq-opt"><span class="opt-letter">C</span> Yajur Veda</div><div class="pyq-opt"><span class="opt-letter">D</span> Atharva Veda</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Same Krishna/Shukla split as UPPCS 2018, but the stem asks for the **Veda**, not the Samhita name.
+
+**Ans: C (Series B provisional key).** Only the Yajurveda has Krishna (Black) and Shukla (White) branches. Krishna mixes mantra with prose; Shukla keeps them apart.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to Early and Later Vedic ages, which of the following statements is/are correct?<br><br>1. Early / Rigvedic age (~1500–1000 BCE) is centred on the Ganga–Yamuna doab and is agrarian.<br>2. Later Vedic age (~1000–600 BCE) is centred on the Ganga–Yamuna doab and is agrarian.<br>3. Rigvedic culture is primarily a Uttar Pradesh heartland story.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 1 false: Rigvedic age is Sapta Sindhu / pastoral; Ganga doab agrarian is Later Vedic. Stmt 3 remains false: Rigvedic core is not UP heartland.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Assembly / Official)</th><th>List-II (Role)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Sabha</td><td><span class="match-key">A</span> Collects king’s share (bhaga)</td></tr>
+      <tr><td><span class="match-key">2</span> Samiti</td><td><span class="match-key">B</span> Elders/nobles assembly</td></tr>
+      <tr><td><span class="match-key">3</span> Bhagadugha</td><td><span class="match-key">C</span> Wider tribal assembly that can choose the rajan</td></tr>
+      <tr><td><span class="match-key">4</span> Akshavapa</td><td><span class="match-key">D</span> Dice / gambling officer</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-C, 2-B, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-C, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-C, 3-D, 4-A</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-B, 2-A, 3-C, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sabha–elders; Samiti–chooses rajan; Bhagadugha–bhaga; Akshavapa–dice.
+
+**Logic:** Never swap Bhagadugha (revenue) with Akshavapa (dice) or Sangrahitri (treasurer).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Vedic assemblies:<br><br>1. Vidatha is the oldest gathering with economic and ritual roles and women’s presence.<br>2. Vidatha fades first in Later Vedic times.<br>3. Sabha becomes more exclusive while Samiti remains the broader tribal body in Early Vedic memory.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Sabha / Samiti / Vidatha triad is a high-yield confused-pair set.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following layers of Vedic literature in correct order:<br><br>1. Upanishad<br>2. Samhita<br>3. Brahmana<br>4. Aranyaka<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 4, 3, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 3, 1, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Samhita → Brahmana → Aranyaka → Upanishad.
+
+**Logic:** Samhitas = hymns; Brahmanas = ritual prose; Aranyakas = forest symbolic ritual; Upanishads = Vedanta.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Samiti could choose the rajan in Early Vedic polity.<br><br>**Reason (R):** Sabha was the wider tribal assembly while Samiti was only an elders’ council.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true; R reverses Sabha and Samiti.
+
+**A/R logic:** Sabha = elders/nobles; Samiti = wider body that chooses the rajan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to the Rigveda, which of the following statements is/are correct?<br><br>1. It has 1028 hymns in 10 mandalas.<br>2. Mandalas 2–7 are the oldest family books; Mandala 9 is Soma.<br>3. Mandalas 1 and 10 are among the latest.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Standard Rigveda structure tags.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following hymn-count statements is/are correct?<br><br>1. Varuna has the largest number of hymns, exceeding Indra.<br>2. Indra has roughly 250 hymns.<br>3. Agni has roughly 250 hymns, exceeding Indra.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 3 false: Indra has ~250 hymns; Agni ~200. Stmt 1 remains false: Varuna does not exceed Indra in hymn count.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shukla Yajurveda — Vajasaneyi (mantra and prose separate)</div><div class="pyq-opt"><span class="opt-letter">B</span> Krishna Yajurveda — Black Yajurveda schools with mixed mantra-prose</div><div class="pyq-opt"><span class="opt-letter">C</span> Krishna Yajurveda — devotion to the god Krishna as its defining feature</div><div class="pyq-opt"><span class="opt-letter">D</span> Taittiriya / Kathaka / Maitrayani — Black Yajurveda schools</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Krishna here means Black Yajurveda, not the god Krishna.
+
+**Logic:** Classic trap: Krishna Yajurveda ≠ Krishna-bhakti text.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Later Vedic officials and terms, which of the following is/are correct?<br><br>1. Sangrahitri was the treasurer.<br>2. Nishka was coined silver money of the Rigvedic age.<br>3. Gavishti means coined silver money of the Rigvedic age.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 3 false: Gavishti = cattle-raid / war for cows; coined money is absent. Stmt 2 remains false: Nishka = gold ornament/value-unit, not coined silver.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Term)</th><th>List-II (Meaning)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Shruti</td><td><span class="match-key">A</span> Remembered later dharma literature</td></tr>
+      <tr><td><span class="match-key">2</span> Smriti</td><td><span class="match-key">B</span> Heard Vedic revelation</td></tr>
+      <tr><td><span class="match-key">3</span> PGW</td><td><span class="match-key">C</span> Later Vedic doab painted grey ware</td></tr>
+      <tr><td><span class="match-key">4</span> shyama ayas</td><td><span class="match-key">D</span> Later Vedic iron</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-B, 2-C, 3-A, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Shruti–heard; Smriti–remembered; PGW–Later Vedic; shyama ayas–iron.
+
+**Logic:** Early Rigvedic ayas usually means copper/bronze, not iron.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Vishnu and Rudra are minor in the Rigveda.<br><br>**Reason (R):** In Later Vedic religion Vishnu and Rudra rise in importance beside older storm and fire gods.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Chronological reversal: later development cannot explain prior state.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Vedangas:<br><br>1. The six Vedangas are Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda and Upanishad.<br>2. Vedangas teach Brahman–Atman philosophy as their primary content.<br>3. Vedangas are tools of the Veda, not identical with the Upanishads.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: Sixth Vedanga is Jyotisha, not Upanishad. Stmt 2 remains false: Brahman–Atman = Upanishads/Vedanta, not Vedangas.</div>
+  </div>
+</div>

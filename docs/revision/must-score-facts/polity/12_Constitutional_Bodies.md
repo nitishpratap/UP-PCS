@@ -76,6 +76,21 @@ hide:
 48. **NCBC Evolution Timeline:** Set up as statutory body in 1993 pursuant to *Indra Sawhney (1992)* judgment; granted constitutional status via **102nd Amendment Act, 2018** (Art. 338B); State OBC identification power restored via **105th Amendment Act, 2021**.
 49. **CAG Audit vs Accounting Separation (1976):** Until 1976, CAG maintained accounts and conducted audits for both Union and States; in 1976, accounting functions for the Union were transferred to the **Controller General of Accounts (CGA)** under the Ministry of Finance; CAG continues to compile and maintain accounts for **State Governments**.
 50. **Constitutional Removal Procedures Classification:**
+51. **Election Commission Multi-Member Evolution (Article 324):** Originally a single-member body from 1950 to 1989; 2 Election Commissioners first appointed on 16 October 1989 (reversed in 1990); permanently made a **multi-member commission with 1 CEC and 2 ECs on 1 October 1993**; CEC and ECs have equal power, salary and perks (equal to a Supreme Court judge); in case of difference of opinion, matter decided by **majority vote**.
+52. **Removal and Protection of CEC vs ECs:** CEC has security of tenure and can be removed **ONLY in like manner and on like grounds as a Judge of the Supreme Court** (Art. 324(5)); Election Commissioners CANNOT be removed except on the **recommendation of the Chief Election Commissioner**.
+53. **Chief Election Commissioner & Other ECs Act, 2023:** Appointed by President on recommendation of a Selection Committee consisting of: (1) Prime Minister (Chairperson), (2) Leader of Opposition/Single Largest Opposition Party in Lok Sabha, and (3) a Union Cabinet Minister nominated by PM; Search Committee headed by Cabinet Secretary.
+54. **UPSC Composition & Tenure (Articles 315 to 319):** Strength determined by President (usually 9–11 members); nearly half the members must have held office for at least 10 years under GoI or State Govt; Tenure is **6 years or until age of 65 years**, whichever is earlier; resigns to President.
+55. **SPSC & Joint SPSC (JSPSC) Nuances:** State Public Service Commission members appointed by **Governor**, but **removable ONLY by the President**; tenure is **6 years or age of 62 years**; **Joint State Public Service Commission (JSPSC)** is a **statutory body** (not constitutional), created by Parliament by law on request of concerned state legislatures; JSPSC members appointed and removed by the **President**.
+56. **Removal of UPSC/SPSC Members (Article 317):** President can remove Chairman or member on ground of misbehaviour ONLY after the **Supreme Court conducts an inquiry under Article 145 and recommends removal**; SC's advice is **binding on the President**; can be removed without inquiry if adjudged insolvent, engages in paid employment outside duties, or infirmity of mind/body.
+57. **Finance Commission Qualifications (Finance Commission Act, 1951):** Article 280; Chairman must have experience in public affairs; 4 members selected from: (1) Judge of High Court or qualified to be such; (2) Special knowledge of finance and accounts of Govt; (3) Wide experience in financial matters and administration; (4) Special knowledge of economics; 15th FC Chairman was **N.K. Singh** (recommended 41% devolution to states); 16th FC constituted in Dec 2023 chaired by **Dr. Arvind Panagariya**.
+58. **Comptroller and Auditor General of India - CAG (Article 148):** Appointed by President by warrant under hand and seal; tenure **6 years or age of 65 years**; removed in like manner as a **Supreme Court Judge**; ineligible for further office under GoI or State Govt after retirement; salary and expenses charged on Consolidated Fund of India (non-votable); submits 3 audit reports (Appropriation, Finance, Public Undertakings) under **Article 151** to President (laid before Parliament).
+59. **CAG as Guardian of Public Purse:** B.R. Ambedkar stated CAG is the most important officer in the Constitution of India; audits all receipts and expenditure of Union, States, and bodies substantially financed by government; Comptroller function is theoretical (CAG audits post-expenditure, unlike UK Comptroller who authorizes issuance of funds).
+60. **National Commission for Scheduled Castes - NCSC (Article 338):** Originally a combined special officer (Commissioner for SCs/STs); 65th CAA 1990 created multi-member National Commission for SCs and STs; **89th CAA 2003 bifurcated** it into separate NCSC (Art. 338) and NCST (Art. 338A) effective 2004; consists of Chairperson, Vice-Chairperson, and 3 other members appointed by President; has powers of a **Civil Court** while investigating complaints.
+61. **National Commission for Scheduled Tribes - NCST (Article 338A):** Created by **89th CAA 2003**; investigates all matters relating to constitutional safeguards for STs; oversees implementation of Forest Rights Act 2006, PESA Act 1996; reports annually to President (laid before Parliament with action taken memorandum).
+62. **National Commission for Backward Classes - NCBC (Article 338B):** Originally established as a statutory body in 1993 following *Indra Sawhney (1992)*; conferred **constitutional status by the 102nd Constitutional Amendment Act, 2018**; consists of Chairperson, Vice-Chairperson, and 3 members; investigates complaints of deprivation of rights of Socially and Educationally Backward Classes (SEBCs).
+63. **Special Officer for Linguistic Minorities (Article 350-B):** Inserted by the **7th Constitutional Amendment Act, 1956** on recommendation of States Reorganisation Commission; appointed by the President; investigates all matters relating to safeguards provided for linguistic minorities; Commissioner for Linguistic Minorities has headquarters at **Prayagraj (Allahabad)** with regional offices at Belgaum, Chennai, and Kolkata.
+64. **Advocate-General for the State (Article 165) & Attorney-General (Article 76) Comparison:** Attorney-General holds office during President’s pleasure (removable by Centre); Advocate-General holds office during Governor’s pleasure (removable by State); both have right of audience in courts and right to speak in legislatures without voting power; neither is a whole-time government servant and both can undertake private legal practice (subject to not advising against government).
+65. **Non-Constitutional Status of Planning Commission / NITI Aayog:** Planning Commission (established 15 March 1950 by executive resolution) and NITI Aayog (established 1 January 2015 by cabinet resolution) are **non-constitutional and non-statutory extra-constitutional bodies**, created neither by Constitution nor by an Act of Parliament.
    - **Group A (Impeachment / Address by Parliament):** SC Judge, HC Judge, **CAG (Art. 148)**, **CEC (Art. 324)**, and **SEC (Art. 243K)**.
    - **Group B (Supreme Court Inquiry under Art. 145):** **UPSC Members (Art. 317)** and **SPSC Members (Art. 317)**.
    - **Group C (Pleasure of Executive):** **Attorney-General (Art. 76)**, **Advocate-General (Art. 165)**, and Governors.
@@ -148,22 +163,6 @@ hide:
 | **15th FC** | 2017 | **N.K. Singh** | 2021–2026 | Recommended **41%** devolution (1% adjusted for J&K/Ladakh UTs) |
 | **16th FC** | 2023 | **Dr. Arvind Panagariya** | 2026–2031 | Ritwik Ranjanam Pandey as Secretary; disaster & local finance focus |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| SPSC Member Appointment vs Removal | **Appointed by Governor**; removed **ONLY by President** (on SC inquiry) | Allow Governor to remove SPSC members | नियुक्ति = राज्यपाल; निष्कासन = राष्ट्रपति |
-| SPSC vs UPSC Retirement Age | SPSC = **62 years**; UPSC = **65 years** | Make both 65 years | SPSC = 62 वर्ष; UPSC = 65 वर्ष |
-| CEC vs Other ECs Removal | **CEC**: Removed like SC Judge. **Other ECs**: Removed by President on **CEC recommendation**. | Require parliamentary address for all 3 commissioners | CEC = SC जज समान; अन्य आयुक्त = CEC की सिफारिश पर |
-| ECI vs State Election Commission | ECI conducts Parliament, Assembly, President, VP elections. SEC conducts **Panchayat and Municipality elections ONLY**. | Give ECI jurisdiction over local panchayat polls | पंचायत चुनाव = राज्य निर्वाचन आयोग |
-| CAG Post-Retirement Employment | **Completely barred** from any further office under Union or State governments. | Allow CAG to take up tribunal appointments | CAG सेवानिवृत्ति के बाद पुनः नियोजन के अयोग्य |
-| CAG Accounting Functions | Relieved of Union accounting in **1976** (now done by CGA). Still maintains **State accounts**. | Claim CAG does no accounting work anywhere | संघ के लेखांकन से मुक्त (1976); राज्यों का लेखांकन जारी |
-| Finance Commission Status | **Quasi-judicial** recommendatory body under Art. 280; recommendations **NOT legally binding**. | Assume FC recommendations are mandatory | वित्त आयोग = अर्द्ध-न्यायिक, सिफारिशें सलाहकारी |
-| NITI Aayog vs Finance Commission | Finance Commission is **Constitutional (Art. 280)**; NITI Aayog is **Non-statutory, Extra-constitutional** (Cabinet resolution). | Call NITI Aayog a statutory or constitutional body | नीति आयोग = गैर-संवैधानिक; वित्त आयोग = संवैधानिक |
-| Inter-State Council Status | **Constitutional body (Art. 263)**; first formed in 1990 by Presidential Order. | Treat Inter-State Council as statutory (Zonal Councils are statutory) | अंतर-राज्य परिषद = संवैधानिक (अनुच्छेद 263) |
-| AG vs Solicitor General | Attorney-General is **Constitutional (Art. 76)**; Solicitor General is **Statutory / Executive creation** (not in Constitution). | Look for Solicitor General in the Constitution | सॉलिसिटर जनरल संविधान में नहीं है |
-| NCBC Status | Granted **Constitutional status** by 102nd Amendment, 2018 under **Article 338B**. | Call NCBC merely a statutory commission | NCBC अब संवैधानिक निकाय है (अनुच्छेद 338B) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Retirement Age 62 vs 65 Rule:**
@@ -184,259 +183,283 @@ hide:
    - All States: **2/3rd** vote weight
    - Approval requires **3/4th (75%)** majority. Neither can bulldoze the other!
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Match List-I (Finance Commission) with List-II (Chairman):
-A. Eleventh
-B. Twelfth
-C. Thirteenth
-D. Fourteenth
-1. C. Rangarajan
-2. Y.V. Reddy
-3. A.M. Khusro
-4. Vijay L. Kelkar
-A. A-3, B-1, C-4, D-2
-B. A-2, B-3, C-4, D-1
-C. A-3, B-2, C-1, D-4
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Khusro, Rangarajan, Kelkar, Y.V. Reddy.
-
-</details>
-
-**Q2.**
-Which of the following are the functions of the Election Commission of India?
-1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.
-2. Conduct of elections of the Municipal Corporations and Municipalities.
-3. Deciding on all doubts and disputes arising out of the above elections.
-A. 2 and 3
-B. 1 and 2
-C. 1 and 3
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — None.**
-
-</details>
-
-**Q3.**
-Match List-I with List-II:
-A. Consolidated Fund of India
-B. Finance Commission
-C. Financial Emergency (वित्तीय आपात)
-D. CAG
-1. Art. 266
-2. Art. 360
-3. Art. 280
-4. Art. 148
-A. A-3, B-1, C-2, D-4
-B. A-4, B-1, C-3, D-2
-C. A-1, B-3, C-2, D-4
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 266, 280, 360, 148.
-
-</details>
-
-**Q4.**
-The UPSC derives its functions from which of the following sources?
-1. The Constitution
-2. Parliamentary Laws
-3. Executive Rules and Orders
-4. Conventions
-A. 1 and 2
-B. 1 and 3
-C. Only 1
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q5.**
-Which one of the following is correctly matched?
-A. Election Commission — Article 165
-B. National Commission for Scheduled Castes — Article 148
-C. Finance Commission — Article 263
-D. National Commission for Backward Classes — Article 340
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** (among those options). Standing NCBC = **338B**; **340** = investigating commission. 165 = AdvG. 148 = CAG. FC = **280**.
-
-</details>
-
-**Q6.**
-Consider the following statements with reference to Special Officer for Linguistic Minorities:
-1. In the Constitution, there is a provision for the post of Special Officer for Linguistic Minorities for every State.
-2. A new Article 350B was added for this by the 9th Constitution Amendment Act.
-A. Only 2
-B. Neither 1 nor 2
-C. Only 1
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q7.**
-Match List-I with List-II:
-A. Art. 324
-B. Art. 315
-C. Art. 280
-D. Art. 338
-1. NCSC
-2. Finance Commission
-3. Public Service Commission
-4. Election Commission
-A. A-3, B-2, C-4, D-1
-B. A-4, B-3, C-2, D-1
-C. A-3, B-2, C-1, D-4
-D. A-1, B-3, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q8.**
-With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
-1. Finance Commission has a Chairman and six members.
-2. It submits its report to the NITI Aayog.
-A. Only 2
-B. Both 1 and 2
-C. Only 1
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q9.**
-With reference to the Attorney General of India, which of the following statement(s) is/are correct?
-1. A person is appointed as Attorney General who is qualified to be appointed as a Judge of the Supreme Court.
-2. The Attorney General can be removed through the same process as the Judges of the Supreme Court.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q10.**
-The audit report of the Comptroller and Auditor General of India is examined by—
-A. Public Accounts Committee
-B. Public Undertakings Committee
-C. Estimates Committee
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q11.**
-Who was the Chairman of the First Finance Commission of India?
-
-A. K. Santhanam
-B. K.C. Neogy
-C. A.K. Chanda
-D. Mahavir Tyagi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — K.C. Neogy was the Chairman of the First Finance Commission (constituted in 1951). K. Santhanam was Chairman of the Second Finance Commission.
-
-</details>
-
-**Q12.**
-Consider the following statements regarding the Election Commission of India:
-1. Sukumar Sen was the first Chief Election Commissioner of India.
-2. V.S. Ramadevi was the first woman Chief Election Commissioner of India.
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both 1 and 2 are correct. Sukumar Sen served as the first Chief Election Commissioner (1950–1958) and V.S. Ramadevi was the first woman to hold the post of CEC (in 1990).
-
-</details>
-
-**Q13.**
-The functions of the State Public Service Commission of Uttar Pradesh can be extended by
-A. Prime Minister
-B. Union Ministry of Personnel
-C. The President
-D. Uttar Pradesh State Legislature
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q14.**
-The superintendence, direction and control of all elections to the Panchayats are vested in
-A. The Governor
-B. The Election Commission of India
-C. The District Panchayat Raj Officer
-D. The State Election Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q15.**
-Which one of the following is NOT correctly matched?
-A. Fundamental Duties — Part IVA
-B. The States — Part VI
-C. Attorney General of India — Part XIII
-D. Services under the Union and States — Part XIV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Finance Commission) with List-II (Chairman):</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Finance Commission)</th>
+        <th>List-II (Chairman)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Eleventh Commission</td><td><span class="match-key">1</span> C. Rangarajan</td></tr>
+    <tr><td><span class="match-key">B</span> Twelfth Commission</td><td><span class="match-key">2</span> Y.V. Reddy</td></tr>
+    <tr><td><span class="match-key">C</span> Thirteenth Commission</td><td><span class="match-key">3</span> A.M. Khusro</td></tr>
+    <tr><td><span class="match-key">D</span> Fourteenth Commission</td><td><span class="match-key">4</span> Vijay L. Kelkar</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-4, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-3, C-4, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-3, B-2, C-1, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-3, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Khusro, Rangarajan, Kelkar, Y.V. Reddy.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following are the functions of the Election Commission of India?<br>1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.<br>2. Conduct of elections of the Municipal Corporations and Municipalities.<br>3. Deciding on all doubts and disputes arising out of the above elections.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> None.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Constitutional Provision)</th>
+        <th>List-II (Article)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Consolidated Fund of India</td><td><span class="match-key">1</span> Article 266</td></tr>
+    <tr><td><span class="match-key">B</span> Finance Commission</td><td><span class="match-key">2</span> Article 360</td></tr>
+    <tr><td><span class="match-key">C</span> Financial Emergency</td><td><span class="match-key">3</span> Article 280</td></tr>
+    <tr><td><span class="match-key">D</span> Comptroller & Auditor General</td><td><span class="match-key">4</span> Article 148</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-2, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-4, B-1, C-3, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-3, C-2, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-2, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 266, 280, 360, 148.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The UPSC derives its functions from which of the following sources?<br>1. The Constitution<br>2. Parliamentary Laws<br>3. Executive Rules and Orders<br>4. Conventions</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Election Commission — Article 165</div><div class="pyq-opt"><span class="opt-letter">B</span> National Commission for Scheduled Castes — Article 148</div><div class="pyq-opt"><span class="opt-letter">C</span> Finance Commission — Article 263</div><div class="pyq-opt"><span class="opt-letter">D</span> National Commission for Backward Classes — Article 340</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (among those options). Standing NCBC = **338B**; **340** = investigating commission. 165 = AdvG. 148 = CAG. FC = **280**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with reference to Special Officer for Linguistic Minorities:<br>1. In the Constitution, there is a provision for the post of Special Officer for Linguistic Minorities for every State.<br>2. A new Article 350B was added for this by the 9th Constitution Amendment Act.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Both 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Constitutional Article)</th>
+        <th>List-II (Institution)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Article 324</td><td><span class="match-key">1</span> National Commission for Scheduled Castes (NCSC)</td></tr>
+    <tr><td><span class="match-key">B</span> Article 315</td><td><span class="match-key">2</span> Finance Commission</td></tr>
+    <tr><td><span class="match-key">C</span> Article 280</td><td><span class="match-key">3</span> Public Service Commission</td></tr>
+    <tr><td><span class="match-key">D</span> Article 338</td><td><span class="match-key">4</span> Election Commission</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-2, C-4, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-4, B-3, C-2, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-3, B-2, C-1, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-3, C-4, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to the Union Finance Commission, which of the following statement(s) is/are correct?<br>1. Finance Commission has a Chairman and six members.<br>2. It submits its report to the NITI Aayog.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">With reference to the Attorney General of India, which of the following statement(s) is/are correct?<br>1. A person is appointed as Attorney General who is qualified to be appointed as a Judge of the Supreme Court.<br>2. The Attorney General can be removed through the same process as the Judges of the Supreme Court.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The audit report of the Comptroller and Auditor General of India is examined by—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Public Accounts Committee</div><div class="pyq-opt"><span class="opt-letter">B</span> Public Undertakings Committee</div><div class="pyq-opt"><span class="opt-letter">C</span> Estimates Committee</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Who was the Chairman of the First Finance Commission of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> K. Santhanam</div><div class="pyq-opt"><span class="opt-letter">B</span> K.C. Neogy</div><div class="pyq-opt"><span class="opt-letter">C</span> A.K. Chanda</div><div class="pyq-opt"><span class="opt-letter">D</span> Mahavir Tyagi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> K.C. Neogy was the Chairman of the First Finance Commission (constituted in 1951). K. Santhanam was Chairman of the Second Finance Commission.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements regarding the Election Commission of India:<br>1. Sukumar Sen was the first Chief Election Commissioner of India.<br>2. V.S. Ramadevi was the first woman Chief Election Commissioner of India.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct. Sukumar Sen served as the first Chief Election Commissioner (1950–1958) and V.S. Ramadevi was the first woman to hold the post of CEC (in 1990).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The functions of the State Public Service Commission of Uttar Pradesh can be extended by</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Prime Minister</div><div class="pyq-opt"><span class="opt-letter">B</span> Union Ministry of Personnel</div><div class="pyq-opt"><span class="opt-letter">C</span> The President</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh State Legislature</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The superintendence, direction and control of all elections to the Panchayats are vested in</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The Governor</div><div class="pyq-opt"><span class="opt-letter">B</span> The Election Commission of India</div><div class="pyq-opt"><span class="opt-letter">C</span> The District Panchayat Raj Officer</div><div class="pyq-opt"><span class="opt-letter">D</span> The State Election Commission</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Fundamental Duties — Part IVA</div><div class="pyq-opt"><span class="opt-letter">B</span> The States — Part VI</div><div class="pyq-opt"><span class="opt-letter">C</span> Attorney General of India — Part XIII</div><div class="pyq-opt"><span class="opt-letter">D</span> Services under the Union and States — Part XIV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>

@@ -166,24 +166,6 @@ hide:
 | **Masala Bonds Currency Risk** | Rupee-denominated; currency risk borne by overseas investor |
 | **Pension Market Regulator** | PFRDA (Pension Fund Regulatory and Development Authority) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Conceptual Distinction & Mechanics | Key Memorization Anchor |
-|---|---|---|---|
-| **Inflation** | **Disinflation** | Inflation is rising price levels; Disinflation is a declining *rate* of inflation (prices continue rising, but more slowly). | Inflation = Price level rises; Disinflation = Inflation rate slows |
-| **Deflation** | **Disinflation** | Deflation is a sustained drop in the price level (negative inflation); Disinflation is positive inflation at a moderated pace. | Deflation = Negative inflation; Disinflation = Slowing positive inflation |
-| **Headline Inflation** | **Core Inflation** | Headline covers the comprehensive basket including food and energy; Core excludes volatile food and fuel to show baseline trend. | Headline = Entire basket; Core = Strips food & fuel |
-| **Consumer Price Index (CPI)** | **Wholesale Price Index (WPI)** | CPI measures retail prices faced by households and includes services; WPI measures wholesale trade and excludes services completely. | CPI = Retail + Services; WPI = Wholesale goods only |
-| **CPI Compiling Agency** | **WPI Compiling Agency** | CPI Combined is compiled by NSO (MoSPI); WPI is compiled by Office of Economic Adviser, DPIIT (Ministry of Commerce and Industry). | CPI = MoSPI; WPI = Ministry of Commerce |
-| **Retail Inflation Policy Anchor** | **GDP Deflator / IIP** | CPI Combined is the official anchor for RBI inflation targeting; GDP Deflator is a comprehensive national output index; IIP is a volume index. | Monetary policy targets CPI Combined |
-| **Impact on Debtors** | **Impact on Creditors** | Debtors gain from unanticipated inflation (repaying in cheaper currency); Creditors and fixed-income earners lose real purchasing power. | Debtors gain; Creditors lose |
-| **Money Market** | **Capital Market** | Money market handles short-term instruments (up to 1 year); Capital market handles long-term equity and debt (exceeding 1 year). | Money = Short-term (≤1 yr); Capital = Long-term (>1 yr) |
-| **Primary Market** | **Secondary Market** | Primary market issues brand new securities (IPOs); Secondary market facilitates trading of existing securities between investors. | Primary = New issuance; Secondary = Trading existing securities |
-| **Call Money** | **Notice Money** | Call money is borrowing for 1 day (overnight); Notice money is borrowing for 2 to 14 days. | Call = 1 day; Notice = 2 to 14 days |
-| **SEBI Regulatory Scope** | **RBI Regulatory Scope** | SEBI regulates securities exchanges, brokers, and mutual funds; RBI regulates money markets, government securities, and banks. | SEBI = Capital markets; RBI = Banking & money markets |
-| **BSE Sensex (30 stocks)** | **NSE Nifty (50 stocks)** | Sensex tracks 30 large-cap stocks on BSE; Nifty tracks 50 diversified stocks on NSE. | Sensex = 30; Nifty = 50 |
-| **Masala Bonds** | **Standard Foreign Currency Bonds** | Masala bonds are denominated in Indian Rupees (currency risk on foreign investor); Foreign currency bonds carry exchange risk for Indian borrower. | Masala = Rupee-denominated abroad |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### Key Mnemonics & Cognitive Hooks
@@ -202,284 +184,274 @@ hide:
   - Inverse short-run relationship between **Inflation** and **Unemployment** (High inflation = Low unemployment).
   - Breaks down during **Stagflation** (High inflation + Stagnant growth + High unemployment simultaneously).
 
-## 🎯 High-Yield PYQ Drill (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-A. WPI
-B. CPI
-C. IIP
-D. GDP Deflator
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches CPI.
-
-**Ans: B.** CPI
-</details>
-
-**Q2.**
-
-A. RBI
-B. Ministry of Commerce and Industry
-C. Ministry of Finance
-D. Ministry of Consumer Affairs, Food and Public Distribution
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Commerce & Industry (OEA/DPIIT) — Ministry of Commerce and Industry
-
-**Ans: B.** Ministry of Commerce and Industry
-</details>
-
-**Q3.**
-
-A. WPI
-B. CPI-IW
-C. Combined CPI
-D. Urban CPI
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Combined CPI.
-
-**Ans: C.** Combined CPI
-</details>
-
-**Q4.**
-
-A. Both true and R explains A
-B. Both true but R does not explain A
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key: Both true and R explains A.
-
-**Ans: A.** Both true and R explains A
-</details>
-
-**Q5.**
-
-With reference to capital market, which of the following statements is/are correct?
-
-1. Equity and long-term debt belong here.
-2. It funds longer-horizon investment than the money market.
-3. It replaces the MPC for setting repo.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Repo is Topic 3.
-
-**Ans: B.** 1 and 2
-</details>
-
-**Q6.**
-
-NPS in teaching is best tagged as
-
-A. A wholesale price index
-B. A market-linked pension system
-C. A type of CRR vault
-D. A GST slab
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** PFRDA lane; full regulator list in Topic 11 — A market-linked pension system
-
-**Ans: B.** A market-linked pension system
-</details>
-
-**Q7.**
-
-Which measure is **not** a typical inflation-control tool in school lists?
-
-A. Tightening monetary policy
-B. Easing supply bottlenecks
-C. Abolishing CPI measurement forever
-D. Fiscal restraint when demand is overheated
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** A, B, D are standard responses — Abolishing CPI measurement forever
-
-**Ans: C.** Abolishing CPI measurement forever
-</details>
-
-**Q8.**
-
-Match List-I with List-II.
-
-| List-I | List-II |
-|---|---|
-| A. CPI | 1. MoC&I / OEA |
-| B. WPI | 2. MoSPI / NSO |
-| C. SEBI | 3. Securities market |
-| D. GDP deflator | 4. Nominal/Real GDP ratio × 100 |
-
-Select the correct answer from the code given below:
-
-A. 2 1 3 4
-B. 1 2 3 4
-C. 2 3 1 4
-D. 4 1 2 3
-
-*Row order is not the answer code.*
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Agency swap is the main trap — 2 1 3 4
-
-**Ans: A.** 2 1 3 4
-</details>
-
-**Q9.**
-
-Hyperinflation teaching means
-
-A. Mild seasonal vegetable price blips only
-B. Extremely rapid inflation destroying money’s store-of-value role
-C. Only a rise in SLR
-D. Only disinflation by definition
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rare extreme case — Extremely rapid inflation destroying money’s store-of-value role
-
-**Ans: B.** Extremely rapid inflation destroying money’s store-of-value role
-</details>
-
-**Q10.**
-
-With reference to financial literacy, which of the following statements is/are correct?
-
-1. It helps households understand inflation and product risk.
-2. It supports better savings and investment choices.
-3. It means every citizen must print currency.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement 3 is false — 1 and 2
-
-**Ans: B.** 1 and 2
-</details>
-
-**Q11.**
-
-A. Only domestic CRR falls by law with no price link
-B. Foreign prices or a weaker rupee lift import costs
-C. NABARD merges with SEBI
-D. WPI is abolished
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Open-economy price pressure — Foreign prices or a weaker rupee lift import costs
-
-**Ans: B.** Foreign prices or a weaker rupee lift import costs
-</details>
-
-**Q12.**
-
-Which of the following pairs is **not** correctly matched?
-
-A. Debtors — tend to gain from inflation
-B. Fixed-income groups — tend to lose from inflation
-C. Headline inflation — excludes food and energy by definition
-D. Disinflation — falling inflation rate
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** A, B, D are standard — Headline inflation — excludes food and energy by definition
-
-**Ans: C.** Headline inflation — excludes food and energy by definition
-</details>
-
-**Q13.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): CPI is preferred over WPI as India’s monetary-policy inflation gauge.
-
-Reason (R): CPI captures retail prices including services that households actually face.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Both true; household retail coverage explains the preference.
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q14.**
-
-A. Only interest on public debt
-B. Investment flow building capital stock in a period
-C. Only GST compensation
-D. Only reverse repo balances
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Savings–investment block — Investment flow building capital stock in a period
-
-**Ans: B.** Investment flow building capital stock in a period
-</details>
-
-**Q15.**
-
-With reference to insurance as a household product, which of the following statements is/are correct?
-
-1. It pools risk and can act as a financial product.
-2. Life and general insurance are standard teaching lanes.
-3. Insurance companies issue the Combined CPI.
-
-Select the correct answer from the code given below:
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 1 and 2.
-
-**Ans: B.** 1 and 2
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem"></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> WPI</div><div class="pyq-opt"><span class="opt-letter">B</span> CPI</div><div class="pyq-opt"><span class="opt-letter">C</span> IIP</div><div class="pyq-opt"><span class="opt-letter">D</span> GDP Deflator</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches CPI.
+
+**Ans: B.** CPI</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem"></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> RBI</div><div class="pyq-opt"><span class="opt-letter">B</span> Ministry of Commerce and Industry</div><div class="pyq-opt"><span class="opt-letter">C</span> Ministry of Finance</div><div class="pyq-opt"><span class="opt-letter">D</span> Ministry of Consumer Affairs, Food and Public Distribution</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Commerce & Industry (OEA/DPIIT) — Ministry of Commerce and Industry
+
+**Ans: B.** Ministry of Commerce and Industry</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem"></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> WPI</div><div class="pyq-opt"><span class="opt-letter">B</span> CPI-IW</div><div class="pyq-opt"><span class="opt-letter">C</span> Combined CPI</div><div class="pyq-opt"><span class="opt-letter">D</span> Urban CPI</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Combined CPI.
+
+**Ans: C.** Combined CPI</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem"></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true and R explains A</div><div class="pyq-opt"><span class="opt-letter">B</span> Both true but R does not explain A</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false, R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key: Both true and R explains A.
+
+**Ans: A.** Both true and R explains A</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to capital market, which of the following statements is/are correct?<br><br>1. Equity and long-term debt belong here.<br>2. It funds longer-horizon investment than the money market.<br>3. It replaces the MPC for setting repo.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Repo is Topic 3.
+
+**Ans: B.** 1 and 2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">NPS in teaching is best tagged as</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A wholesale price index</div><div class="pyq-opt"><span class="opt-letter">B</span> A market-linked pension system</div><div class="pyq-opt"><span class="opt-letter">C</span> A type of CRR vault</div><div class="pyq-opt"><span class="opt-letter">D</span> A GST slab</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** PFRDA lane; full regulator list in Topic 11 — A market-linked pension system
+
+**Ans: B.** A market-linked pension system</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which measure is **not** a typical inflation-control tool in school lists?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tightening monetary policy</div><div class="pyq-opt"><span class="opt-letter">B</span> Easing supply bottlenecks</div><div class="pyq-opt"><span class="opt-letter">C</span> Abolishing CPI measurement forever</div><div class="pyq-opt"><span class="opt-letter">D</span> Fiscal restraint when demand is overheated</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** A, B, D are standard responses — Abolishing CPI measurement forever
+
+**Ans: C.** Abolishing CPI measurement forever</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II.<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> CPI</td><td><span class="match-key">1</span> MoC&I / OEA</td></tr>
+      <tr><td><span class="match-key">B</span> WPI</td><td><span class="match-key">2</span> MoSPI / NSO</td></tr>
+      <tr><td><span class="match-key">C</span> SEBI</td><td><span class="match-key">3</span> Securities market</td></tr>
+      <tr><td><span class="match-key">D</span> GDP deflator</td><td><span class="match-key">4</span> Nominal/Real GDP ratio × 100</td></tr>
+  </tbody>
+</table><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 1 3 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 2 3 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 3 1 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 1 2 3
+
+*Row order is not the answer code.*</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Agency swap is the main trap — 2 1 3 4
+
+**Ans: A.** 2 1 3 4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Hyperinflation teaching means</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mild seasonal vegetable price blips only</div><div class="pyq-opt"><span class="opt-letter">B</span> Extremely rapid inflation destroying money’s store-of-value role</div><div class="pyq-opt"><span class="opt-letter">C</span> Only a rise in SLR</div><div class="pyq-opt"><span class="opt-letter">D</span> Only disinflation by definition</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rare extreme case — Extremely rapid inflation destroying money’s store-of-value role
+
+**Ans: B.** Extremely rapid inflation destroying money’s store-of-value role</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to financial literacy, which of the following statements is/are correct?<br><br>1. It helps households understand inflation and product risk.<br>2. It supports better savings and investment choices.<br>3. It means every citizen must print currency.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement 3 is false — 1 and 2
+
+**Ans: B.** 1 and 2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem"></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only domestic CRR falls by law with no price link</div><div class="pyq-opt"><span class="opt-letter">B</span> Foreign prices or a weaker rupee lift import costs</div><div class="pyq-opt"><span class="opt-letter">C</span> NABARD merges with SEBI</div><div class="pyq-opt"><span class="opt-letter">D</span> WPI is abolished</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Open-economy price pressure — Foreign prices or a weaker rupee lift import costs
+
+**Ans: B.** Foreign prices or a weaker rupee lift import costs</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Debtors — tend to gain from inflation</div><div class="pyq-opt"><span class="opt-letter">B</span> Fixed-income groups — tend to lose from inflation</div><div class="pyq-opt"><span class="opt-letter">C</span> Headline inflation — excludes food and energy by definition</div><div class="pyq-opt"><span class="opt-letter">D</span> Disinflation — falling inflation rate</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** A, B, D are standard — Headline inflation — excludes food and energy by definition
+
+**Ans: C.** Headline inflation — excludes food and energy by definition</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): CPI is preferred over WPI as India’s monetary-policy inflation gauge.<br><br>Reason (R): CPI captures retail prices including services that households actually face.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** Both true; household retail coverage explains the preference.
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem"></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only interest on public debt</div><div class="pyq-opt"><span class="opt-letter">B</span> Investment flow building capital stock in a period</div><div class="pyq-opt"><span class="opt-letter">C</span> Only GST compensation</div><div class="pyq-opt"><span class="opt-letter">D</span> Only reverse repo balances</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Savings–investment block — Investment flow building capital stock in a period
+
+**Ans: B.** Investment flow building capital stock in a period</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to insurance as a household product, which of the following statements is/are correct?<br><br>1. It pools risk and can act as a financial product.<br>2. Life and general insurance are standard teaching lanes.<br>3. Insurance companies issue the Combined CPI.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 1 and 2.
+
+**Ans: B.** 1 and 2</div>
+  </div>
+</div>

@@ -205,26 +205,6 @@ hide:
 | **2025** | **Maratha Military Landscapes of India** | MH & TN | 12 strategic Maratha forts (11 in Maharashtra + Gingee in TN) |
 | **2026** | **Ancient Buddhist Site of Sarnath** | **Uttar Pradesh** | Dhamek Stupa, Chaukhandi Stupa, Ashokan pillar foundation; 4th in UP |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Shikhara (Nagara)** | **Shikhara (Dravida)** | In Nagara temples, Shikhara refers to the **entire main spire** over the sanctum; in Dravida temples, the tower is the **Vimana**, while 'Shikhara' strictly denotes only the **crowning dome/stupi capstone** at the very top | नागर का संपूर्ण शिखर / द्रविड़ का शीर्ष कलश-भाग |
-| **Vimana** | **Gopuram** | Vimana = The pyramidical tower rising directly above the **Garbhagriha** (sanctum); Gopuram = The colossal entrance **gateway** built at the boundary walls (*Prakara*) | विमान (गर्भगृह के ऊपर) / गोपुरम (प्रवेश द्वार) |
-| **Konark Sun Temple** | **Brihadeeswara Temple** | Konark = Nagara (Kalinga) style stone chariot with 24 wheels in **Odisha**; Brihadeeswara = Dravida style granite monolith with colossal Vimana in **Tamil Nadu** | कोणार्क (नागर/ओडिशा) / बृहदीश्वर (द्रविड़/तमिल नाडु) |
-| **Khajuraho (MP)** | **Bhitargaon (UP)** | Khajuraho = Sandeshwar/Panchayatana Nagara sandstone group in **Madhya Pradesh** (Chandela); Bhitargaon = Oldest complete terracotta brick temple of Gupta era in **Kanpur, UP** | खजुराहो (म.प्र. बलुआ पत्थर) / भीतरगांव (उ.प्र. ईंट मंदिर) |
-| **Monolithic Rathas** | **Shore Temple** | Both at Mahabalipuram (Pallava); Rathas = Monolithic **rock-cut** single boulders (Mamalla / Narasimhavarman I); Shore Temple = Freestanding **structural stone** temple (Rajasimha / Narasimhavarman II) | रथ मंदिर (एकाश्म शैलकृत) / शोर मंदिर (संरचनात्मक प्रस्तर) |
-| **Ajanta Caves** | **Ellora Caves** | Ajanta (29 caves) = Exclusively **Buddhist** rock-cut caves with world-famous murals; Ellora (34 caves) = Multi-religious harmony (**Buddhist, Hindu, Jain**) with monumental sculptures like Kailasa monolith (Cave 16) | अजंता (केवल बौद्ध भित्तिचित्र) / एलोरा (बौद्ध-हिंदू-जैन त्रिवेणी) |
-| **Kailasa Temple (Ellora)**| **Elephanta Caves** | Kailasa Temple = Monolithic rock excavation at **Ellora Cave 16** (Rashtrakuta Krishna I); Elephanta = Rock-cut Shaivite cave on Gharapuri Island Mumbai, famous for 3-headed **Trimurti Sadashiva** | कैलाश (एलोरा गुफा 16) / त्रिमूर्ति शिव (एलीफेंटा) |
-| **Adina Masjid (Pandua)**| **Hindola Mahal (Mandu)** | Adina Masjid = Massive hypostyle brick mosque in **Pandua, West Bengal**; Hindola Mahal / Jahaz Mahal = Sloping-wall palaces in **Mandu, Madhya Pradesh** (Malwa Sultanate) | अदीना (पंडुआ, प. बंगाल) / हिंडोला महल (मांडू, म.प्र.) |
-| **Alai Darwaza** | **Buland Darwaza** | Alai Darwaza = Delhi, built by **Alauddin Khalji** (1311; first true arch & dome); Buland Darwaza = Fatehpur Sikri (UP), built by **Akbar** (1601; Gujarat victory gateway) | अलाई (अलाउद्दीन, दिल्ली) / बुलंद (अकबर, फतेहपुर सीकरी) |
-| **Double Dome (Sikandar Lodi)**| **Pietra Dura (Itmad-ud-Daulah)**| Double Dome first appeared at **Sikandar Lodi Tomb** (Delhi); Complete white marble with extensive Pietra Dura first appeared at **Itmad-ud-Daulah Tomb** (Agra) | दोहरा गुंबद (लोदी मकबरा) / पित्रा दुरा (एतमादुद्दौला, नूरजहां) |
-| **Bara Imambara** | **Chhota Imambara** | Bara Imambara (Asaf-ud-Daula, 1784; beam-less vaulted hall, Bhool Bhulaiya); Chhota Imambara / Imambara Husainabad (Muhammad Ali Shah, 1838; gilded dome, chandelier hall) | बड़ा इमामबाड़ा (आसफ-उद-दौला) / छोटा इमामबाड़ा (मुहम्मद अली शाह) |
-| **Atala Masjid (Jaunpur)**| **Jama Masjid (Delhi)** | Atala Masjid = Jaunpur Sharqi style, massive sloping propylons masking dome, **no minarets**; Jama Masjid Delhi = Shah Jahan Mughal style, expansive courtyard, two tall minarets | अटाला (जौनपुर, बिना मीनार) / जामा मस्जिद (दिल्ली, दो मीनारें) |
-| **Sanchi Stupa** | **Amaravati Stupa** | Sanchi = MP, red sandstone, four carved Toranas (Satavahana); Amaravati = Andhra Pradesh, Krishna river, white **Palnad limestone/marble** panels with projecting **Aryaka pillars** | सांची (बलुआ पत्थर, तोरण) / अमरावती (सफेद संगमरमर, आर्यक स्तंभ) |
-| **Rekha Deul** | **Pidha Deul** | In Kalinga architecture: Rekha Deul = Tall curving vertical tower sheltering the **Garbhagriha**; Pidha Deul (Jagamohana) = Stepped pyramidal roof covering the **Mandapa / assembly hall** | रेखा देउल (गर्भगृह शिखर) / पीढ़ा देउल (मंडप की छत) |
-| **Vesara Style** | **Dravida Style** | Vesara = Stellate star-shaped plan on elevated platform with soft soapstone carvings (Hoysala/Kalyani Chalukya); Dravida = Rigid square sanctum, rising stepped pyramid Vimana with Gopuram gateways (Chola/Pallava) | वेसर (तारकीय योजना/सोपस्टोन) / द्रविड़ (सीढ़ीदार विमान/गोपुरम) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Pallava Architectural Chronology — Mnemonic: `M-M-R-N`
@@ -251,312 +231,289 @@ hide:
 - **Y**asti (Central axis shaft)
 - **C**hhatravali (Three umbrellas for Buddha, Dharma, Sangha)
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.
-
-Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Gujarat victory, not Jahangir’s birth.
-
-</details>
-
-**Q2.**
-
-Match List-I with List-II and select the correct answer using the code given below the lists.
-
-**List-I (Emperor)**
-A. Babur
-B. Humayun
-C. Jahangir
-D. Shah Jahan
-
-**List-II (City where tomb is situated)**
-1. Agra
-2. Lahore
-3. Delhi
-4. Kabul
-
-A. 4 3 2 1
-B. 3 4 1 2
-C. 3 4 2 1
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q3.**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-**List-I (Building)**
-A. Sultan Garhi
-B. Red Palace
-C. Jamat Khana Masjid
-D. Dhai Din Ka Jhopra
-
-**List-II (Builder)**
-1. Alauddin Khilji
-2. Qutbuddin Aibak
-3. Iltutmish
-4. Balban
-
-A. 3, 4, 1, 2
-B. 3, 4, 2, 1
-C. 4, 3, 1, 2
-D. 4, 3, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q4.**
-
-In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
-
-A. Nagarjunakonda
-B. Ghantasala
-C. Amaravati
-D. Bodhgaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Amaravati.**
-
-</details>
-
-**Q5.**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** We have much more information about Cholas than their predecessors.
-
-**Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q6.**
-
-Arrange the following monuments in a chronological order and select the correct answer from the codes given below:
-
-I. Rabia Daurani's Tomb, Aurangabad
-II. Shershah Suri's Tomb, Sasaram
-III. Humayun's Tomb, Delhi
-IV. Aiala Mosque, Jaunpur
-
-A. I, II, IV, III
-B. IV, II, III, I
-C. II, I, III, IV
-D. III, IV, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q7.**
-
-Which of the following temples is also known as Khajuraho of Vidarbha?
-
-A. Markandeshwar
-B. Kailash
-C. Manudevi
-D. Bhimashankar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Markandeshwar.**
-
-</details>
-
-**Q8.**
-
-The inscription of Hathigumpha is the source of information about which king?
-
-A. Kharvela
-B. Ashok
-C. Harshavardhan
-D. Kanishka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Kharavela.**
-
-</details>
-
-**Q9.**
-
-Which of the following pairs is NOT correctly matched?
-
-A. Adina Masjid – Mandu
-B. Lal Darwaza Masjid – Jaunpur
-C. Dakhil Darwaza – Gaour
-D. Tin Darwaza – Ahmedabad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Adina Masjid = Pandua, not Mandu.
-
-</details>
-
-**Q10.** With reference to temple styles, which of the following statements is/are correct?
-
-1. A gopuram is the Nagara sanctum tower.
-2. Nagara temples have a curvilinear shikhara and generally no monumental gopuram.
-3. Dravida temples have a curvilinear shikhara identical to the Nagara tower.
-
-A. Only 1 and 2
-B. Only 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Gopuram is the Dravida gateway. Dravida sanctum tower is the pyramidal vimana, not a Nagara-style curvilinear shikhara.
-
-</details>
-
-**Q11.** Consider the following pairs:
-
-| Term | Meaning |
-|------|---------|
-| 1. Stupa | Solid relic mound |
-| 2. Chaitya | Congregational hall with apse stupa |
-| 3. Vihara | Monastic residence |
-| 4. Charbagh | Hindu five-shrine plan |
-
-Which of the pairs given above are correctly matched?
-
-A. 2, 3 and 4 only
-B. 1 and 4 only
-C. 1, 2 and 3 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Pairs 1–3 are correct.
-
-**Logic:** Charbagh is the Islamic four-part garden. Panchayatana is the five-shrine plan.
-
-</details>
-
-**Q12.** Arrange the following Odisha temples in the usual teaching chronological order:
-
-1. Lingaraja
-2. Parasuramesvara
-3. Konark
-4. Mukteshvara
-
-Select the correct answer from the code given below:
-
-A. 4–2–1–3
-B. 2–4–1–3
-C. 2–1–4–3
-D. 2–4–3–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** The spine is Parasuramesvara → Mukteshvara → Lingaraja → Jagannath → Konark.
-
-**Logic:** Rekha deul is the sanctum tower. Pidha deul is the jagamohana.
-
-</details>
-
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Konark Sun Temple is also called the Black Pagoda.
-
-Reason (R): It was built by Eastern Ganga Narasimhadeva I in the 13th century as a stone chariot of Surya with 24 wheels and 7 horses.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-**A/R logic:** Black Pagoda is the European sailors’ dark-landmark nickname (contrast White Pagoda = Puri Jagannath). Eastern Ganga patronage and chariot iconography are true but do not explain the nickname.
-
-</details>
-
-**Q14.** With reference to Khajuraho, which of the following statements is/are correct?
-
-1. It is Chandela Nagara work in Madhya Pradesh sandstone.
-2. Kandariya Mahadeva is a Pallava rock-cut ratha at Mahabalipuram.
-3. Markandeshwar in Vidarbha is the same complex as Khajuraho.
-
-A. Only 1
-B. Only 1 and 2
-C. Only 3
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Kandariya Mahadeva is the largest surviving temple at Khajuraho. Markandeshwar is called the Khajuraho of Vidarbha, not Khajuraho itself.
-
-</details>
-
-**Q15.** correctly matched?
-
-A. Modhera Sun Temple — Solanki Gujarat milieu
-B. Dilwara temples — Mount Abu; marble
-C. Rani ki Vav — Patan; UNESCO 2014
-D. Dilwara temples — Chandela sandstone Nagara of Madhya Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Dilwara is Solanki marble work at Mount Abu, not Chandela Khajuraho sandstone.
-
-**Logic:** Bhima I’s Solanki world covers Modhera, Dilwara and Rani ki Vav.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.<br><br>Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Gujarat victory, not Jahangir’s birth.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Emperor)</th>
+      <th>List-II (City of Tomb)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Babur</td>
+      <td><span class="match-key">1</span> Agra</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Humayun</td>
+      <td><span class="match-key">2</span> Lahore</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Jahangir</td>
+      <td><span class="match-key">3</span> Delhi</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Shah Jahan</td>
+      <td><span class="match-key">4</span> Kabul</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 3 2 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 4 2 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 3 1 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I</th>
+      <th>List-II (Builder)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Sultan Garhi</td>
+      <td><span class="match-key">1</span> Alauddin Khilji</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Red Palace</td>
+      <td><span class="match-key">2</span> Qutbuddin Aibak</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Jamat Khana Masjid</td>
+      <td><span class="match-key">3</span> Iltutmish</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Dhai Din Ka Jhopra</td>
+      <td><span class="match-key">4</span> Balban</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 4, 1, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 3, 1, 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 3, 2, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nagarjunakonda</div><div class="pyq-opt"><span class="opt-letter">B</span> Ghantasala</div><div class="pyq-opt"><span class="opt-letter">C</span> Amaravati</div><div class="pyq-opt"><span class="opt-letter">D</span> Bodhgaya</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Amaravati.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):<br><br>**Assertion (A):** We have much more information about Cholas than their predecessors.<br><br>**Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following monuments in a chronological order and select the correct answer from the codes given below:<br><br>I. Rabia Daurani's Tomb, Aurangabad<br>II. Shershah Suri's Tomb, Sasaram<br>III. Humayun's Tomb, Delhi<br>IV. Aiala Mosque, Jaunpur</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, IV, III</div><div class="pyq-opt"><span class="opt-letter">B</span> IV, II, III, I</div><div class="pyq-opt"><span class="opt-letter">C</span> II, I, III, IV</div><div class="pyq-opt"><span class="opt-letter">D</span> III, IV, II, I</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following temples is also known as Khajuraho of Vidarbha?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Markandeshwar</div><div class="pyq-opt"><span class="opt-letter">B</span> Kailash</div><div class="pyq-opt"><span class="opt-letter">C</span> Manudevi</div><div class="pyq-opt"><span class="opt-letter">D</span> Bhimashankar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Markandeshwar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The inscription of Hathigumpha is the source of information about which king?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kharvela</div><div class="pyq-opt"><span class="opt-letter">B</span> Ashok</div><div class="pyq-opt"><span class="opt-letter">C</span> Harshavardhan</div><div class="pyq-opt"><span class="opt-letter">D</span> Kanishka</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kharavela.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Adina Masjid – Mandu</div><div class="pyq-opt"><span class="opt-letter">B</span> Lal Darwaza Masjid – Jaunpur</div><div class="pyq-opt"><span class="opt-letter">C</span> Dakhil Darwaza – Gaour</div><div class="pyq-opt"><span class="opt-letter">D</span> Tin Darwaza – Ahmedabad</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Adina Masjid = Pandua, not Mandu.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to temple styles, which of the following statements is/are correct?<br><br>1. A gopuram is the Nagara sanctum tower.<br>2. Nagara temples have a curvilinear shikhara and generally no monumental gopuram.<br>3. Dravida temples have a curvilinear shikhara identical to the Nagara tower.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Gopuram is the Dravida gateway. Dravida sanctum tower is the pyramidal vimana, not a Nagara-style curvilinear shikhara.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Term | Meaning |<br>|------|---------|<br>| 1. Stupa | Solid relic mound |<br>| 2. Chaitya | Congregational hall with apse stupa |<br>| 3. Vihara | Monastic residence |<br>| 4. Charbagh | Hindu five-shrine plan |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1–3 are correct.
+
+**Logic:** Charbagh is the Islamic four-part garden. Panchayatana is the five-shrine plan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Odisha temples in the usual teaching chronological order:<br><br>1. Lingaraja<br>2. Parasuramesvara<br>3. Konark<br>4. Mukteshvara<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4–2–1–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–4–1–3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–1–4–3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–4–3–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The spine is Parasuramesvara → Mukteshvara → Lingaraja → Jagannath → Konark.
+
+**Logic:** Rekha deul is the sanctum tower. Pidha deul is the jagamohana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Konark Sun Temple is also called the Black Pagoda.<br><br>Reason (R): It was built by Eastern Ganga Narasimhadeva I in the 13th century as a stone chariot of Surya with 24 wheels and 7 horses.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Black Pagoda is the European sailors’ dark-landmark nickname (contrast White Pagoda = Puri Jagannath). Eastern Ganga patronage and chariot iconography are true but do not explain the nickname.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Khajuraho, which of the following statements is/are correct?<br><br>1. It is Chandela Nagara work in Madhya Pradesh sandstone.<br>2. Kandariya Mahadeva is a Pallava rock-cut ratha at Mahabalipuram.<br>3. Markandeshwar in Vidarbha is the same complex as Khajuraho.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Kandariya Mahadeva is the largest surviving temple at Khajuraho. Markandeshwar is called the Khajuraho of Vidarbha, not Khajuraho itself.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Modhera Sun Temple — Solanki Gujarat milieu</div><div class="pyq-opt"><span class="opt-letter">B</span> Dilwara temples — Mount Abu; marble</div><div class="pyq-opt"><span class="opt-letter">C</span> Rani ki Vav — Patan; UNESCO 2014</div><div class="pyq-opt"><span class="opt-letter">D</span> Dilwara temples — Chandela sandstone Nagara of Madhya Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Dilwara is Solanki marble work at Mount Abu, not Chandela Khajuraho sandstone.
+
+**Logic:** Bhima I’s Solanki world covers Modhera, Dilwara and Rani ki Vav.</div>
+  </div>
+</div>

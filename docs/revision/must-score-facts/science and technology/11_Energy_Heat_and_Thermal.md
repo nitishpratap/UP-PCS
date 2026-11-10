@@ -143,21 +143,6 @@ hide:
 | **Latent Heat of Fusion (Ice)**| **$80	ext{ cal/g} pprox 334	ext{ J/g}$** | Heat required to melt $1	ext{ g}$ of ice at $0^\circ	ext{C}$ to water at $0^\circ	ext{C}$ without temperature change |
 | **Latent Heat of Vaporization**| **$540	ext{ cal/g} pprox 2260	ext{ J/g}$** | Heat required to convert $1	ext{ g}$ of water at $100^\circ	ext{C}$ to steam at $100^\circ	ext{C}$; explains severe steam burns |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Open Refrigerator Door** | **Room Cooling Myth** | Leaving a domestic refrigerator door open in a closed room **WARMS UP THE ROOM**, not cools it. The motor expels more heat at the back ($Q_H = Q_C + W$) than it absorbs inside. | बंद कमरे में फ्रिज का दरवाजा खुला छोड़ने पर कमरा ठंडा होने के बजाय गर्म हो जाता है |
-| **Steam Burns ($100^\circ	ext{C}$)**| **Boiling Water Burns ($100^\circ	ext{C}$)**| Steam at $100^\circ	ext{C}$ causes far more severe tissue burns than boiling water at $100^\circ	ext{C}$ because steam possesses an additional **$540	ext{ cal/g}$ of Latent Heat of Vaporization**. | $100^\circ	ext{C}$ की भाप उबलते जल की तुलना में अधिक गंभीर जलन पैदा करती है (गुप्त ऊष्मा के कारण) |
-| **Water Density at $4^\circ	ext{C}$**| **Water Volume at $4^\circ	ext{C}$** | At $4^\circ	ext{C}$, the density of water is **MAXIMUM**, while its specific volume is **MINIMUM**. Confusing density with volume is a classic prelims trap. | $4^\circ	ext{C}$ पर जल का घनत्व अधिकतम तथा आयतन न्यूनतम होता है |
-| **Evaporation** | **Boiling** | **Evaporation occurs at ANY temperature** from the exposed liquid surface (cooling phenomenon). **Boiling occurs only at a FIXED boiling point** throughout the bulk liquid. | वाष्पीकरण प्रत्येक तापमान पर होता है (सतही क्रिया); क्वथन केवल क्वथनांक पर होता है |
-| **Pressure Cooker Cooking** | **Atmospheric Pressure Effect** | A pressure cooker cooks food faster because trapped steam increases internal pressure, which **RAISES water's boiling point from $100^\circ	ext{C}$ to $pprox 120^\circ	ext{C}$**. | प्रेशर कुकर में दाब बढ़ने से जल का क्वथनांक बढ़ जाता है, जिससे भोजन शीघ्र पकता है |
-| **Kirchhoff's Radiation Law** | **Reflection vs Absorption** | Good absorbers of heat are **good emitters** of heat ($a = e$). A perfectly black surface absorbs all radiation and also radiates maximum heat when hot. | अच्छे अवशोषक ही अच्छे उत्सर्जक होते हैं (किरचॉफ का नियम) |
-| **Thermal Radiation Medium**| **Conduction / Convection** | Thermal radiation is electromagnetic wave transmission that **requires NO material medium** (can travel through perfect vacuum). Conduction and convection strictly require matter. | तापीय विकिरण निर्वात (Vacuum) में भी गमन कर सकता है, माध्यम की आवश्यकता नहीं |
-| **Thermos Flask Double Walls**| **Silvered Coating Purpose** | The double-walled **vacuum** prevents Conduction and Convection. The **silvered mirrored coating** on the glass walls prevents heat loss by **Radiation** (reflects waves back). | थर्मस फ्लास्क का निर्वात चालन व संवहन रोकता है; चांदी की कलई विकिरण रोकती है |
-| **White Clothes in Summer** | **Dark Clothes in Winter** | White clothes **reflect maximum radiant solar heat** and absorb very little, keeping body cool. Dark clothes absorb maximum solar radiation, keeping body warm. | सफेद कपड़े ऊष्मा के अच्छे परावर्तक तथा बुरे अवशोषक होते हैं |
-| **Water Pipe Burst in Winter**| **Freezing Expansion Trap** | Water pipes burst in freezing sub-zero winter because water **EXPANDS when it freezes into ice** (volume increases by $pprox 9\%$), exerting tremendous outward hydrostatic pressure. | जल जमने पर फैलता है (आयतन बढ़ता है), जिससे सर्दियों में पाइप फट जाते हैं |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Temperature Conversion Anchor:
@@ -176,313 +161,261 @@ $$\mathbf{rac{C}{5} = rac{F - 32}{9} = rac{K - 273.15}{5}}$$
   - Volume = **MIN**
   - Lake top freezes at $0^\circ	ext{C}$, bottom fish swim comfortably at $4^\circ	ext{C}$!
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to heat transfer, which of the following statements is/are correct?
-1. Convection is possible in both liquids and gases.
-2. Heat can travel through vacuum only by radiation.
-3. Conduction involves the bulk physical displacement of heated matter.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) 1 and 2 only
-
-**Ans: A.** 1 and 2 only
-</details>
-
-**Q2.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** In severe winters, freshwater lakes freeze from the top surface downwards, leaving liquid water at the bottom.
-- **Reason (R):** Water has its maximum density at $4^\circ\text{C}$ due to anomalous thermal expansion.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q3.**
-
-Match List-I (Thermodynamic Law / Principle) with List-II (Key Scientific Definition):
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Zeroth Law of Thermodynamics | 1. Conservation of energy in thermal systems |
-| B. First Law of Thermodynamics | 2. Operational definition of Temperature |
-| C. Second Law of Thermodynamics | 3. Entropy of a pure crystal is zero at absolute zero |
-| D. Third Law of Thermodynamics | 4. Spontaneous processes increase the entropy of the universe |
-
-Select the correct code:
-- (A) A-2, B-1, C-4, D-3
-- (B) A-1, B-2, C-3, D-4
-- (C) A-2, B-4, C-1, D-3
-- (D) A-4, B-1, C-2, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) A-2, B-1, C-4, D-3
-
-**Ans: A.** A-2, B-1, C-4, D-3
-</details>
-
-**Q4.**
-
-Which of the following statements is/are correct regarding the specific heat capacity of water?
-1. Water's high specific heat capacity makes it an ideal coolant for automotive radiators.
-2. It moderates climate swings in coastal geographical zones.
-3. Specific heat capacity of liquid water is lower than that of ice.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) 1 and 2 only
-
-**Ans: A.** 1 and 2 only
-</details>
-
-**Q5.**
-
-Which of the following pairs is **NOT** correctly matched?
-- (A) Hydrogen — Highest calorific value among fuels
-- (B) Bimetallic strip — Differential linear thermal expansion
-- (C) Pressure cooker — Decreases boiling point of water
-- (D) Thermos flask — Prevents conduction, convection, and radiation
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (C) Pressure cooker — Decreases boiling point of water
-
-**Ans: C.** Pressure cooker — Decreases boiling point of water
-</details>
-
-**Q6.**
-
-Arrange the following substances in descending order of their thermal conductivities:
-1. Silver
-2. Glass
-3. Aluminum
-4. Copper
-
-Select the correct code:
-- (A) $1 > 4 > 3 > 2$
-- (B) $4 > 1 > 3 > 2$
-- (C) $1 > 3 > 4 > 2$
-- (D) $3 > 1 > 4 > 2$
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) $1 > 4 > 3 > 2$
-
-**Ans: A.** $1 > 4 > 3 > 2$
-</details>
-
-**Q7.**
-
-With reference to latent heat, which of the following statements is/are correct?
-1. Latent heat of vaporization of water is approximately $540\text{ cal/g}$.
-2. Latent heat of fusion of ice is approximately $80\text{ cal/g}$.
-3. Temperature of a substance rises rapidly while absorbing latent heat.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) 1 and 2 only
-
-**Ans: A.** 1 and 2 only
-</details>
-
-**Q8.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** In summer, a pendulum clock loses time and runs slow.
-- **Reason (R):** The length of the pendulum rod increases due to thermal expansion, increasing its time period of oscillation.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q9.**
-
-With reference to radiation laws, which of the following statements is/are correct?
-1. Stefan-Boltzmann Law states that radiant power is proportional to the square of absolute temperature.
-2. Wien's Law explains why hotter stars radiate maximum power at shorter wavelengths.
-3. According to Kirchhoff's Law, good absorbers are poor emitters.
-
-Select the correct answer using the code given below:
-- (A) 2 only
-- (B) 1 and 2 only
-- (C) 2 and 3 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 2 only.
-
-**Ans: A.** 2 only
-</details>
-
-**Q10.**
-
-Which of the following conditions is **NOT** favorable for the formation of dew?
-- (A) Clear sky
-- (B) Calm, still air
-- (C) High relative humidity
-- (D) Heavy overcast cloud cover
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (D) Heavy overcast cloud cover
-
-**Ans: D.** Heavy overcast cloud cover
-</details>
-
-**Q11.**
-
-Match List-I (Everyday Phenomenon) with List-II (Underlying Physics Principle):
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Cooling of water in an earthen pot | 1. Thermal shock from poor thermal conduction |
-| B. Cracking of thick glass with boiling water | 2. Evaporative cooling extracting latent heat |
-| C. Operation of a domestic bimetallic thermostat | 3. Trapped stationary air layer |
-| D. Heat retention by two thin blankets | 4. Differential linear thermal expansion |
-
-Select the correct code:
-- (A) A-2, B-1, C-4, D-3
-- (B) A-1, B-2, C-4, D-3
-- (C) A-2, B-4, C-1, D-3
-- (D) A-3, B-1, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) A-2, B-1, C-4, D-3
-
-**Ans: A.** A-2, B-1, C-4, D-3
-</details>
-
-**Q12.**
-
-Which of the following statements regarding the Carnot engine is correct?
-- (A) A Carnot engine can achieve $100\%$ efficiency if operating with an ideal gas
-- (B) Efficiency of a Carnot engine depends on the nature of the working fluid
-- (C) Efficiency of a Carnot engine depends solely on source and sink temperatures
-- (D) Carnot cycle consists of two isobaric and two isochoric processes
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (C) Efficiency of a Carnot engine depends solely on source and sink temperatures
-
-**Ans: C.** Efficiency of a Carnot engine depends solely on source and sink temperatures
-</details>
-
-**Q13.**
-
-With reference to thermal expansion of water, which of the following statements is/are correct?
-1. When water is heated from $0^\circ\text{C}$ to $4^\circ\text{C}$, its volume expands continuously.
-2. At $4^\circ\text{C}$, density of water is at its maximum value.
-3. Above $4^\circ\text{C}$, water expands uniformly like normal liquids.
-
-Select the correct answer using the code given below:
-- (A) 2 and 3 only
-- (B) 1 and 2 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) 2 and 3 only
-
-**Ans: A.** 2 and 3 only
-</details>
-
-**Q14.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** Running a domestic refrigerator with its door open inside a closed room heats up the room.
-- **Reason (R):** The heat rejected by the condenser coils into the room exceeds the heat extracted from the interior by the amount of electrical work performed by the compressor motor.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q15.**
-
-Which of the following units represents energy?
-1. Kilowatt-hour (kWh)
-2. Electron-volt (eV)
-3. Joule
-4. Watt
-
-Select the correct answer using the code given below:
-- (A) 1, 2 and 3 only
-- (B) 1 and 3 only
-- (C) 3 and 4 only
-- (D) 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) 1, 2 and 3 only
-
-**Ans: A.** 1, 2 and 3 only
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to heat transfer, which of the following statements is/are correct?<br>1. Convection is possible in both liquids and gases.<br>2. Heat can travel through vacuum only by radiation.<br>3. Conduction involves the bulk physical displacement of heated matter.<br><br>Select the correct answer using the code given below:<br>- (A) 1 and 2 only<br>- (B) 2 and 3 only<br>- (C) 1 only<br>- (D) 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):<br>- **Assertion (A):** In severe winters, freshwater lakes freeze from the top surface downwards, leaving liquid water at the bottom.<br>- **Reason (R):** Water has its maximum density at $4^\circ\text{C}$ due to anomalous thermal expansion.<br><br>Select the correct answer:<br>- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)<br>- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)<br>- (C) (A) is true but (R) is false<br>- (D) (A) is false but (R) is true</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Thermodynamic Law / Principle) with List-II (Key Scientific Definition):</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Thermodynamic Law / Principle)</th>
+        <th>List-II (Key Scientific Definition)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Zeroth Law of Thermodynamics</td><td><span class="match-key">1</span> Thermal equilibrium & definition of temperature</td></tr>
+    <tr><td><span class="match-key">B</span> First Law of Thermodynamics</td><td><span class="match-key">2</span> Conservation of energy (ΔU = Q - W)</td></tr>
+    <tr><td><span class="match-key">C</span> Second Law of Thermodynamics</td><td><span class="match-key">3</span> Entropy always increases in irreversible processes</td></tr>
+    <tr><td><span class="match-key">D</span> Third Law of Thermodynamics</td><td><span class="match-key">4</span> Entropy approaches constant minimum at absolute zero</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-4, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-3, C-2, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-3, C-2, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) A-2, B-1, C-4, D-3
+
+**Ans: A.** A-2, B-1, C-4, D-3</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements is/are correct regarding the specific heat capacity of water?<br>1. Water's high specific heat capacity makes it an ideal coolant for automotive radiators.<br>2. It moderates climate swings in coastal geographical zones.<br>3. Specific heat capacity of liquid water is lower than that of ice.<br><br>Select the correct answer using the code given below:<br>- (A) 1 and 2 only<br>- (B) 2 and 3 only<br>- (C) 1 only<br>- (D) 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is **NOT** correctly matched?<br>- (A) Hydrogen — Highest calorific value among fuels<br>- (B) Bimetallic strip — Differential linear thermal expansion<br>- (C) Pressure cooker — Decreases boiling point of water<br>- (D) Thermos flask — Prevents conduction, convection, and radiation</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (C) Pressure cooker — Decreases boiling point of water
+
+**Ans: C.** Pressure cooker — Decreases boiling point of water</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following substances in descending order of their thermal conductivities:<br>1. Silver<br>2. Glass<br>3. Aluminum<br>4. Copper<br><br>Select the correct code:<br>- (A) $1 > 4 > 3 > 2$<br>- (B) $4 > 1 > 3 > 2$<br>- (C) $1 > 3 > 4 > 2$<br>- (D) $3 > 1 > 4 > 2$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) $1 > 4 > 3 > 2$
+
+**Ans: A.** $1 > 4 > 3 > 2$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to latent heat, which of the following statements is/are correct?<br>1. Latent heat of vaporization of water is approximately $540\text{ cal/g}$.<br>2. Latent heat of fusion of ice is approximately $80\text{ cal/g}$.<br>3. Temperature of a substance rises rapidly while absorbing latent heat.<br><br>Select the correct answer using the code given below:<br>- (A) 1 and 2 only<br>- (B) 2 and 3 only<br>- (C) 1 only<br>- (D) 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):<br>- **Assertion (A):** In summer, a pendulum clock loses time and runs slow.<br>- **Reason (R):** The length of the pendulum rod increases due to thermal expansion, increasing its time period of oscillation.<br><br>Select the correct answer:<br>- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)<br>- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)<br>- (C) (A) is true but (R) is false<br>- (D) (A) is false but (R) is true</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to radiation laws, which of the following statements is/are correct?<br>1. Stefan-Boltzmann Law states that radiant power is proportional to the square of absolute temperature.<br>2. Wien's Law explains why hotter stars radiate maximum power at shorter wavelengths.<br>3. According to Kirchhoff's Law, good absorbers are poor emitters.<br><br>Select the correct answer using the code given below:<br>- (A) 2 only<br>- (B) 1 and 2 only<br>- (C) 2 and 3 only<br>- (D) 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 2 only.
+
+**Ans: A.** 2 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following conditions is **NOT** favorable for the formation of dew?<br>- (A) Clear sky<br>- (B) Calm, still air<br>- (C) High relative humidity<br>- (D) Heavy overcast cloud cover</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (D) Heavy overcast cloud cover
+
+**Ans: D.** Heavy overcast cloud cover</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Everyday Phenomenon) with List-II (Underlying Physics Principle):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Cooling of water in an earthen pot</td><td><span class="match-key">1</span> Thermal shock from poor thermal conduction</td></tr>
+      <tr><td><span class="match-key">B</span> Cracking of thick glass with boiling water</td><td><span class="match-key">2</span> Evaporative cooling extracting latent heat</td></tr>
+      <tr><td><span class="match-key">C</span> Operation of a domestic bimetallic thermostat</td><td><span class="match-key">3</span> Trapped stationary air layer</td></tr>
+      <tr><td><span class="match-key">D</span> Heat retention by two thin blankets</td><td><span class="match-key">4</span> Differential linear thermal expansion</td></tr>
+  </tbody>
+</table><br>Select the correct code:<br>- (A) A-2, B-1, C-4, D-3<br>- (B) A-1, B-2, C-4, D-3<br>- (C) A-2, B-4, C-1, D-3<br>- (D) A-3, B-1, C-4, D-2</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) A-2, B-1, C-4, D-3
+
+**Ans: A.** A-2, B-1, C-4, D-3</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements regarding the Carnot engine is correct?<br>- (A) A Carnot engine can achieve $100\%$ efficiency if operating with an ideal gas<br>- (B) Efficiency of a Carnot engine depends on the nature of the working fluid<br>- (C) Efficiency of a Carnot engine depends solely on source and sink temperatures<br>- (D) Carnot cycle consists of two isobaric and two isochoric processes</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (C) Efficiency of a Carnot engine depends solely on source and sink temperatures
+
+**Ans: C.** Efficiency of a Carnot engine depends solely on source and sink temperatures</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to thermal expansion of water, which of the following statements is/are correct?<br>1. When water is heated from $0^\circ\text{C}$ to $4^\circ\text{C}$, its volume expands continuously.<br>2. At $4^\circ\text{C}$, density of water is at its maximum value.<br>3. Above $4^\circ\text{C}$, water expands uniformly like normal liquids.<br><br>Select the correct answer using the code given below:<br>- (A) 2 and 3 only<br>- (B) 1 and 2 only<br>- (C) 1 only<br>- (D) 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) 2 and 3 only
+
+**Ans: A.** 2 and 3 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):<br>- **Assertion (A):** Running a domestic refrigerator with its door open inside a closed room heats up the room.<br>- **Reason (R):** The heat rejected by the condenser coils into the room exceeds the heat extracted from the interior by the amount of electrical work performed by the compressor motor.<br><br>Select the correct answer:<br>- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)<br>- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)<br>- (C) (A) is true but (R) is false<br>- (D) (A) is false but (R) is true</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which of the following units represents energy?<br>1. Kilowatt-hour (kWh)<br>2. Electron-volt (eV)<br>3. Joule<br>4. Watt<br><br>Select the correct answer using the code given below:<br>- (A) 1, 2 and 3 only<br>- (B) 1 and 3 only<br>- (C) 3 and 4 only<br>- (D) 1, 2, 3 and 4</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) 1, 2 and 3 only
+
+**Ans: A.** 1, 2 and 3 only</div>
+  </div>
+</div>

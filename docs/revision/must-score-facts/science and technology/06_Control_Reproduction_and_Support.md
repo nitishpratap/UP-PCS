@@ -159,21 +159,6 @@ hide:
 | ── *Gliding (Plane) Joint* | Nonaxial sliding | Flat articular surfaces glide over each other | Between **Carpal bones** of wrist, between Tarsals |
 | ── *Saddle Joint* | Biaxial movement | Reciprocally concavo-convex surfaces | **Carpometacarpal joint of the human Thumb** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Cerebrum (Forebrain)** | **Cerebellum (Hindbrain)** | **Cerebrum** governs intelligence, conscious thought, memory, and voluntary decisions. **Cerebellum** governs **muscle coordination, equilibrium, balance, and posture**. Alcohol intoxication directly impairs the cerebellum. | प्रमस्तिष्क (Cerebrum) = बुद्धि व स्मृति; अनुमस्तिष्क (Cerebellum) = शरीर का संतुलन व समन्वय |
-| **Calcitonin** | **Parathormone (PTH)** | **Calcitonin** (from thyroid) **LOWERS blood $Ca^{2+}$** by inhibiting bone resorption. **PTH** (from parathyroid) **RAISES blood $Ca^{2+}$** by stimulating osteoclasts and renal reabsorption. | कैल्सिटोनिन = रक्त कैल्शियम घटाता है; पैराथारमोन = रक्त कैल्शियम बढ़ाता है |
-| **Insulin Hormone** | **Glucagon Hormone** | **Insulin** ($eta$-cells) **lowers blood glucose** by converting glucose to glycogen. **Glucagon** ($lpha$-cells) **raises blood glucose** by breaking down glycogen into glucose. | इंसुलिन = रक्त शर्करा घटाता है; ग्लूकागन = रक्त शर्करा बढ़ाता है |
-| **Oxytocin Action** | **Prolactin Action** | **Prolactin** (anterior pituitary) stimulates **milk SYNTHESIS** in mammary glands. **Oxytocin** (posterior pituitary) stimulates **milk EJECTION / let-down** and uterine labor contractions. | प्रोलैक्टिन = दुग्ध निर्माण; ऑक्सीटोसिन = दुग्ध निष्कासन (Let-down reflex) |
-| **Vasectomy (Male)** | **Tubectomy (Female)** | **Vasectomy** surgically cuts and ties the **Vas deferens** in males (sperm still produced but cannot exit). **Tubectomy** surgically cuts and ties the **Fallopian tubes** in females (prevents ovum fertilization). | पुरुष नसबंदी = शुक्रवाहक (Vas deferens); महिला नसबंदी = डिंबवाहिनी (Fallopian tube) |
-| **Tendon Connective Tissue**| **Ligament Connective Tissue**| A **Tendon** connects **Muscle to Bone** (dense collagenous). A **Ligament** connects **Bone to Bone** (elastic fibrous). | टेंडन (कंडरा) = पेशी से अस्थि; लिगामेंट (स्नायु) = अस्थि से अस्थि |
-| **Diabetes Mellitus** | **Diabetes Insipidus** | **Mellitus** is caused by insulin deficiency with sweet urine (**glycosuria**). **Insipidus** is caused by **ADH (Vasopressin)** deficiency with massive tasteless dilute urine (**no sugar**). | डाइबिटीज मेलिटस = इंसुलिन/शर्करा; इन्सिपिडस = एडीएच/जल संतुलन (शर्करा रहित) |
-| **Medulla Oblongata** | **Spinal Cord Reflex** | The **Medulla** controls involuntary visceral functions (heartbeat, breathing, vomiting, swallowing). Simple somatic reflex arcs (e.g. knee jerk, withdraw hand from hot flame) are coordinated directly by the **Spinal Cord**. | मज्जा (Medulla) = अनैच्छिक आंतरिक क्रियाएं; मेरुरज्जु (Spinal Cord) = प्रतिवर्ती क्रियाएं (Reflexes) |
-| **Adrenal Medulla** | **Adrenal Cortex** | Medulla secretes **Epinephrine/Norepinephrine** (derived from amino acids; rapid fight-or-flight). Cortex secretes **Corticosteroids** (steroid hormones derived from cholesterol; long-term stress & mineral balance). | एड्रिनल मेडुला = आपातकालीन हार्मोन (एपिनेफ्रिन); कॉर्टेक्स = स्टेरॉयड हार्मोन (कोर्टिसोल) |
-| **Femur Bone** | **Stapes Bone** | The **Femur** (thigh bone) is the **largest, heaviest, and strongest** bone. The **Stapes** (middle ear ossicle) is the **smallest and lightest** bone in the human body. | फीमर = सबसे बड़ी व मजबूत अस्थि; स्टेपीज = सबसे छोटी अस्थि (मध्य कर्ण) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Muscle vs Bone Connective Tissues: **M-T-B** vs **B-L-B**
@@ -198,264 +183,272 @@ hide:
 - **M**alleus (Hammer) $	o$ **I**ncus (Anvil) $	o$ **S**tapes (Stirrup).
 - Stapes transmits vibrations to the oval window of the cochlea.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to human eye defects and their optical corrections, which of the following statements is/are correct?
-1. In myopia, the image of a distant object is formed in front of the retina.
-2. Hypermetropia is corrected by wearing spectacles fitted with concave lenses.
-3. Presbyopia is caused by an age-related loss of elasticity of the crystalline lens and weakening of ciliary muscles.
-
-Select the correct answer from the code given below:  
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement 1 is correct: In myopia (short-sightedness), rays focus in front of the retina; corrected by concave lenses.
-
-**Ans: B.** 1 and 3 only
-</details>
-
-**Q2.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-Assertion (A): Human testes are located outside the abdominal pelvic cavity inside the scrotum.  
-Reason (R): Spermatogenesis requires an optimal temperature approximately $2.0–2.5^\circ\text{C}$ lower than internal core body temperature.  
-
-Select the correct answer from the code given below:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The scrotum functions as a physical thermoregulator maintaining testes $2–2.5^\circ\text{C}$ below normal body temperature ($37^\circ\text{C}$), which is vital for sperm production.
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q3.**
-
-Match List-I with List-II:
-
-| List-I (Endocrine Hormone) | List-II (Specific Physiological Action / Target) |
-|---|---|
-| A. Oxytocin | 1. Elevates blood calcium levels |
-| B. Glucagon | 2. Stimulates milk letdown & uterine contraction |
-| C. Parathyroid Hormone (PTH) | 3. Regulates sleep-wake circadian rhythm |
-| D. Melatonin | 4. Stimulates glycogenolysis to raise blood sugar |
-
-Select the correct answer from the code given below:  
-A. A-2, B-4, C-1, D-3  
-B. A-4, B-2, C-1, D-3  
-C. A-2, B-4, C-3, D-1  
-D. A-1, B-3, C-4, D-2  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Oxytocin = Uterine contraction and milk letdown (A-2).
-
-**Ans: A.** A-2, B-4, C-1, D-3
-</details>
-
-**Q4.**
-
-The smallest bone in the human body is:
-A. Malleus  
-B. Incus  
-C. Stapes  
-D. Patella  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Stapes.
-
-**Ans: C.** Stapes
-</details>
-
-**Q5.**
-
-Which part of the human brain is primarily responsible for maintaining posture, muscle coordination, and physical body balance?
-A. Cerebrum  
-B. Cerebellum  
-C. Hypothalamus  
-D. Medulla Oblongata  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The cerebellum coordinates voluntary muscular activity and maintains equilibrium; affected by alcohol causing ataxia.
-
-**Ans: B.** Cerebellum
-</details>
-
-**Q6.**
-
-The dense fibrous connective tissue that securely attaches a skeletal muscle to a bone is called a:
-A. Ligament  
-B. Tendon  
-C. Cartilage  
-D. Synovium  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Tendon.
-
-**Ans: B.** Tendon
-</details>
-
-**Q7.**
-
-Which endocrine hormone is commonly referred to as the "Emergency Hormone" or "Fight, Fright or Flight" hormone?
-A. Thyroxine  
-B. Insulin  
-C. Adrenaline (Epinephrine)  
-D. Melatonin  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Adrenaline secreted by the adrenal medulla prepares the body for sudden fight or flight during acute stress.
-
-**Ans: C.** Adrenaline / Epinephrine
-</details>
-
-**Q8.**
-
-In the human female, fertilisation of the ovum by a spermatozoon normally occurs within the:
-A. Ovary  
-B. Ampulla of the Fallopian Tube  
-C. Uterine cavity  
-D. Cervix  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Fertilisation takes place in the ampullary region of the fallopian tube (oviduct).
-
-**Ans: B.** Ampulla of the Fallopian Tube
-</details>
-
-**Q9.**
-
-The non-hormonal, non-steroidal oral contraceptive pill "Saheli" was developed by scientists at:
-A. AIIMS, New Delhi  
-B. CDRI, Lucknow  
-C. CCMB, Hyderabad  
-D. NIV, Pune  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Saheli (Centchroman) was developed by the Central Drug Research Institute (CDRI), Lucknow.
-
-**Ans: B.** CDRI, Lucknow
-</details>
-
-**Q10.**
-
-The total number of cervical vertebrae present in the human neck is:
-A. 5  
-B. 7  
-C. 12  
-D. 4  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 7.
-
-**Ans: B.** 7
-</details>
-
-**Q11.**
-
-Severe iodine deficiency in an expectant mother leading to stunted physical growth and severe mental retardation in the newborn child causes:
-A. Dwarfism  
-B. Cretinism  
-C. Acromegaly  
-D. Myxedema  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Congenital hypothyroidism in infancy causes cretinism (mental and growth stunting).
-
-**Ans: B.** Cretinism
-</details>
-
-**Q12.**
-
-What type of joint is found between the Atlas ($C_1$) and Axis ($C_2$) vertebrae in the neck?
-A. Hinge joint  
-B. Pivot joint  
-C. Ball-and-socket joint  
-D. Gliding joint  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The atlanto-axial joint is a pivot joint allowing rotational movement of the skull.
-
-**Ans: B.** Pivot joint
-</details>
-
-**Q13.**
-
-Human Chorionic Gonadotropin (hCG), the hormone detected in home urine pregnancy tests, is secreted by the:
-A. Ovary  
-B. Trophoblast / Placenta  
-C. Anterior pituitary  
-D. Adrenal gland  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** hCG is secreted by the trophoblastic tissue of the developing blastocyst/placenta to maintain the corpus luteum.
-
-**Ans: B.** Trophoblast / Placenta
-</details>
-
-**Q14.**
-
-In the human eye, the photoreceptor cells responsible for twilight (dim-light) vision without colour discrimination are:
-A. Cones  
-B. Rods  
-C. Ganglion cells  
-D. Amacrine cells  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Rods.
-
-**Ans: B.** Rods
-</details>
-
-**Q15.**
-
-The longest, heaviest, and strongest bone in the human body is the:
-A. Tibia  
-B. Humerus  
-C. Femur  
-D. Fibula  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Femur.
-
-**Ans: C.** Femur
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to human eye defects and their optical corrections, which of the following statements is/are correct?<br>1. In myopia, the image of a distant object is formed in front of the retina.<br>2. Hypermetropia is corrected by wearing spectacles fitted with concave lenses.<br>3. Presbyopia is caused by an age-related loss of elasticity of the crystalline lens and weakening of ciliary muscles.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement 1 is correct: In myopia (short-sightedness), rays focus in front of the retina; corrected by concave lenses.
+
+**Ans: B.** 1 and 3 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br>Assertion (A): Human testes are located outside the abdominal pelvic cavity inside the scrotum.  <br>Reason (R): Spermatogenesis requires an optimal temperature approximately $2.0–2.5^\circ\text{C}$ lower than internal core body temperature.  <br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The scrotum functions as a physical thermoregulator maintaining testes $2–2.5^\circ\text{C}$ below normal body temperature ($37^\circ\text{C}$), which is vital for sperm production.
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Endocrine Hormone)</th><th>List-II (Specific Physiological Action / Target)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Oxytocin</td><td><span class="match-key">1</span> Elevates blood calcium levels</td></tr>
+      <tr><td><span class="match-key">B</span> Glucagon</td><td><span class="match-key">2</span> Stimulates milk letdown & uterine contraction</td></tr>
+      <tr><td><span class="match-key">C</span> Parathyroid Hormone (PTH)</td><td><span class="match-key">3</span> Regulates sleep-wake circadian rhythm</td></tr>
+      <tr><td><span class="match-key">D</span> Melatonin</td><td><span class="match-key">4</span> Stimulates glycogenolysis to raise blood sugar</td></tr>
+  </tbody>
+</table><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-4, C-1, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-4, B-2, C-1, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-4, C-3, D-1</div><div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-3, C-4, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Oxytocin = Uterine contraction and milk letdown (A-2).
+
+**Ans: A.** A-2, B-4, C-1, D-3</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The smallest bone in the human body is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Malleus</div><div class="pyq-opt"><span class="opt-letter">B</span> Incus</div><div class="pyq-opt"><span class="opt-letter">C</span> Stapes</div><div class="pyq-opt"><span class="opt-letter">D</span> Patella</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Stapes.
+
+**Ans: C.** Stapes</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which part of the human brain is primarily responsible for maintaining posture, muscle coordination, and physical body balance?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cerebrum</div><div class="pyq-opt"><span class="opt-letter">B</span> Cerebellum</div><div class="pyq-opt"><span class="opt-letter">C</span> Hypothalamus</div><div class="pyq-opt"><span class="opt-letter">D</span> Medulla Oblongata</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The cerebellum coordinates voluntary muscular activity and maintains equilibrium; affected by alcohol causing ataxia.
+
+**Ans: B.** Cerebellum</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The dense fibrous connective tissue that securely attaches a skeletal muscle to a bone is called a:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ligament</div><div class="pyq-opt"><span class="opt-letter">B</span> Tendon</div><div class="pyq-opt"><span class="opt-letter">C</span> Cartilage</div><div class="pyq-opt"><span class="opt-letter">D</span> Synovium</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Tendon.
+
+**Ans: B.** Tendon</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which endocrine hormone is commonly referred to as the "Emergency Hormone" or "Fight, Fright or Flight" hormone?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Thyroxine</div><div class="pyq-opt"><span class="opt-letter">B</span> Insulin</div><div class="pyq-opt"><span class="opt-letter">C</span> Adrenaline (Epinephrine)</div><div class="pyq-opt"><span class="opt-letter">D</span> Melatonin</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Adrenaline secreted by the adrenal medulla prepares the body for sudden fight or flight during acute stress.
+
+**Ans: C.** Adrenaline / Epinephrine</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">In the human female, fertilisation of the ovum by a spermatozoon normally occurs within the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ovary</div><div class="pyq-opt"><span class="opt-letter">B</span> Ampulla of the Fallopian Tube</div><div class="pyq-opt"><span class="opt-letter">C</span> Uterine cavity</div><div class="pyq-opt"><span class="opt-letter">D</span> Cervix</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Fertilisation takes place in the ampullary region of the fallopian tube (oviduct).
+
+**Ans: B.** Ampulla of the Fallopian Tube</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">The non-hormonal, non-steroidal oral contraceptive pill "Saheli" was developed by scientists at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> AIIMS, New Delhi</div><div class="pyq-opt"><span class="opt-letter">B</span> CDRI, Lucknow</div><div class="pyq-opt"><span class="opt-letter">C</span> CCMB, Hyderabad</div><div class="pyq-opt"><span class="opt-letter">D</span> NIV, Pune</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Saheli (Centchroman) was developed by the Central Drug Research Institute (CDRI), Lucknow.
+
+**Ans: B.** CDRI, Lucknow</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The total number of cervical vertebrae present in the human neck is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 5</div><div class="pyq-opt"><span class="opt-letter">B</span> 7</div><div class="pyq-opt"><span class="opt-letter">C</span> 12</div><div class="pyq-opt"><span class="opt-letter">D</span> 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 7.
+
+**Ans: B.** 7</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Severe iodine deficiency in an expectant mother leading to stunted physical growth and severe mental retardation in the newborn child causes:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dwarfism</div><div class="pyq-opt"><span class="opt-letter">B</span> Cretinism</div><div class="pyq-opt"><span class="opt-letter">C</span> Acromegaly</div><div class="pyq-opt"><span class="opt-letter">D</span> Myxedema</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Congenital hypothyroidism in infancy causes cretinism (mental and growth stunting).
+
+**Ans: B.** Cretinism</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">What type of joint is found between the Atlas ($C_1$) and Axis ($C_2$) vertebrae in the neck?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hinge joint</div><div class="pyq-opt"><span class="opt-letter">B</span> Pivot joint</div><div class="pyq-opt"><span class="opt-letter">C</span> Ball-and-socket joint</div><div class="pyq-opt"><span class="opt-letter">D</span> Gliding joint</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The atlanto-axial joint is a pivot joint allowing rotational movement of the skull.
+
+**Ans: B.** Pivot joint</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Human Chorionic Gonadotropin (hCG), the hormone detected in home urine pregnancy tests, is secreted by the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ovary</div><div class="pyq-opt"><span class="opt-letter">B</span> Trophoblast / Placenta</div><div class="pyq-opt"><span class="opt-letter">C</span> Anterior pituitary</div><div class="pyq-opt"><span class="opt-letter">D</span> Adrenal gland</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** hCG is secreted by the trophoblastic tissue of the developing blastocyst/placenta to maintain the corpus luteum.
+
+**Ans: B.** Trophoblast / Placenta</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">In the human eye, the photoreceptor cells responsible for twilight (dim-light) vision without colour discrimination are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cones</div><div class="pyq-opt"><span class="opt-letter">B</span> Rods</div><div class="pyq-opt"><span class="opt-letter">C</span> Ganglion cells</div><div class="pyq-opt"><span class="opt-letter">D</span> Amacrine cells</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Rods.
+
+**Ans: B.** Rods</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The longest, heaviest, and strongest bone in the human body is the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tibia</div><div class="pyq-opt"><span class="opt-letter">B</span> Humerus</div><div class="pyq-opt"><span class="opt-letter">C</span> Femur</div><div class="pyq-opt"><span class="opt-letter">D</span> Fibula</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Femur.
+
+**Ans: C.** Femur</div>
+  </div>
+</div>

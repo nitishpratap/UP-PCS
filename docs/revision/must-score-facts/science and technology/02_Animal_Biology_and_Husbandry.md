@@ -175,21 +175,6 @@ Cenozoic Era ('Age of Mammals' — Radiation of placental and marsupial mammals)
 | **Sheep** | **Changthangi (Pashmina)**| Ladakh (Changthang plateau) | Produces ultra-fine **Pashmina wool** (undercoat of high-altitude Capra hircus) |
 | **Poultry** | **Kadaknath** | Jhabua / Dhar (Madhya Pradesh) | Black meat, bones, and blood due to high **melanin** deposition; MP GI tag |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Pearl Source (Mollusca)** | **Insect Animal Products** | **Pearls** are produced exclusively by marine **bivalve molluscs** (*Pinctada fucata* / pearl oyster) via nacre secretion. Silk, honey, and lac are insect products. | मोती सीप (Mollusca) से प्राप्त होता है, किसी कीट (Insect) से नहीं |
-| **Sea Horse (*Hippocampus*)**| **Jellyfish / Starfish** | **Sea horse** is a **true bony fish** (Class Osteichthyes); Jellyfish is a Cnidarian; Starfish is an Echinoderm. Male sea horse carries eggs in a brood pouch. | समुद्री घोड़ा (Sea Horse) एक सत्य मछली है, जबकि जेलीफिश/स्टारफिश मछली नहीं हैं |
-| **Poikilotherms (Cold-blooded)**| **Homeotherms (Warm-blooded)**| Fishes, Amphibians, and Reptiles are **cold-blooded** (body temp varies with ambient). Birds and Mammals are **warm-blooded** (maintain constant internal temperature). | असमतापी = मत्स्य, उभयचर, सरीसृप; समतापी = पक्षी व स्तनधारी |
-| **Monotremes (Egg-laying)** | **Eutherians (Placental Mammals)**| Platypus (*Ornithorhynchus*) and Spiny Anteater (*Echidna*) are **egg-laying primitive mammals**; they possess mammary glands (without teats) and hair, but lack placenta. | प्लैटिपस और एकिडना अंडे देने वाले स्तनधारी (Monotremes) हैं |
-| **Natural Pure Silk** | **Cotton Fiber** | Natural silk is **pure animal protein (fibroin + sericin)** and contains **nitrogen** (releases burning-hair odor when burned). Cotton is pure **cellulose** (plant carbohydrate, no nitrogen). | प्राकृतिक रेशम प्रोटीन (नाइट्रोजन युक्त) है; कपास सेल्यूलोस है |
-| **Honey Bee Drones** | **Worker Bees** | **Drones are fertile males** that develop parthenogenetically from **unfertilised eggs** (haploid, $n$). Workers and queens are diploid ($2n$) females from fertilised eggs. | ड्रोन नर मधुमक्खी अनिषेचित अंडे (Parthenogenesis) से विकसित होते हैं |
-| **Lac Insect Product** | **Plant Gum / Resin** | **Lac** is a commercial **resinous secretion** of the scale insect *Kerria lacca* feeding on host trees (Palas, Ber, Kusum); it is NOT a plant exudate. | लाख (Lac) कीट का स्राव (Animal secretion) है, न कि वनस्पति गोंद |
-| **Crocodile Heart** | **Reptilian 3-Chambered Heart**| Typical reptiles possess an incomplete 3-chambered heart (2 auricles, 1 partially divided ventricle). **Crocodiles possess a completely divided 4-chambered heart**. | मगरमच्छ एकमात्र सरीसृप है जिसका हृदय पूर्ण 4-कक्षीय (4 chambers) होता है |
-| **Bat (*Chiroptera*)** | **Bird (*Aves*)** | Bats are true **placental flying mammals** (hair on body, mammary glands, viviparous, give birth to young); they are NOT birds despite having powered flight. | चमगादड़ स्तनधारी (Mammal) वर्ग में आता है, पक्षी में नहीं |
-| **Ruminant True Stomach** | **Rumen Storage Chamber** | The ruminant stomach has 4 chambers (Rumen, Reticulum, Omasum, Abomasum). **Abomasum** is the only **true glandular stomach** producing $HCl$ and gastric enzymes. | रोमंथी पशुओं का 'सत्य अमाशय' (True stomach) अबोमेसम (Abomasum) होता है |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Ruminant Stomach Chambers: **R-R-O-A**
@@ -220,264 +205,272 @@ Cenozoic Era ('Age of Mammals' — Radiation of placental and marsupial mammals)
 - **E**ri = *Samia cynthia ricini* (Ahimsa silk on Castor, Assam).
 - **M**uga = *Antheraea assamensis* (Golden silk, strictly endemic to Assam GI).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to respiration in animals, which of the following statements is/are correct?
-1. Spiders and scorpions breathe primarily through book lungs.
-2. Insects transport oxygen throughout their body primarily via haemocyanin dissolved in haemolymph.
-3. Whales and dolphins possess branchial gills during their embryonic stages only.
-
-Select the correct answer from the code given below:  
-A. Only 1  
-B. 1 and 2  
-C. 2 and 3  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Only 1.
-
-**Ans: A.** Only 1
-</details>
-
-**Q2.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-Assertion (A): Natural silk burns with the characteristic smell of burning hair, whereas pure cotton burns with the smell of burning paper.  
-Reason (R): Natural silk is an animal protein composed of fibroin, whereas cotton is a plant polysaccharide composed of cellulose.  
-
-Select the correct answer from the code given below:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Silk and hair are both proteins containing nitrogenous peptide bonds that emit the smell of burning keratin/fibroin when burned.
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q3.**
-
-Match List-I with List-II:
-
-| List-I (Animal Product / Breed) | List-II (Source Organism / Origin) |
-|---|---|
-| A. Pashmina | 1. *Pinctada vulgaris* (Mollusc) |
-| B. Muga Silk | 2. Changthangi Goat of Ladakh |
-| C. Pearl | 3. *Antheraea assamensis* of Assam |
-| D. Black Gold Buffalo | 4. Murrah breed of Haryana |
-
-Select the correct answer from the code given below:  
-A. A-2, B-3, C-1, D-4  
-B. A-3, B-2, C-1, D-4  
-C. A-2, B-1, C-3, D-4  
-D. A-4, B-3, C-1, D-2  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Pashmina = Fine undercoat of Changthangi goat (A-2).
-
-**Ans: A.** A-2, B-3, C-1, D-4
-</details>
-
-**Q4.**
-
-Which of the following animal groups has a four-chambered heart?
-A. Shark, Frog, Lizard  
-B. Crocodile, Pigeon, Whale  
-C. Rohu, Chameleon, Ostrich  
-D. Toad, Cobra, Bat  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** All birds (pigeon) and mammals (whale) have a 4-chambered heart.
-
-**Ans: B.** Crocodile, Pigeon, Whale
-</details>
-
-**Q5.**
-
-Which of the following buffalo breeds is indigenous to Uttar Pradesh and is renowned for the highest milk fat percentage (up to 13%)?
-A. Murrah  
-B. Jaffarabadi  
-C. Bhadawari  
-D. Nili-Ravi  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Bhadawari buffalo, native to the Agra–Etawah belt of UP and Bhind–Morena in MP, yields milk with the highest fat percentage (up to 12.5–13%).
-
-**Ans: C.** Bhadawari
-</details>
-
-**Q6.**
-
-The water vascular (ambulacral) system operating tube feet is the unique distinguishing characteristic of which animal phylum?
-A. Mollusca  
-B. Arthropoda  
-C. Echinodermata  
-D. Annelida  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Echinoderms (starfish, sea urchins, sea cucumbers) uniquely possess a hydraulic water vascular system for locomotion and prey capture.
-
-**Ans: C.** Echinodermata
-</details>
-
-**Q7.**
-
-Which of the following animals is a true pseudoruminant, possessing an active fermentation rumen but lacking the omasum?
-A. Cow  
-B. Camel  
-C. Goat  
-D. Buffalo  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Camel.
-
-**Ans: B.** Camel
-</details>
-
-**Q8.**
-
-Flame cells (solenocytes) are the specialized excretory and osmoregulatory structures of:
-A. Roundworms (Nematoda)  
-B. Segmented worms (Annelida)  
-C. Flatworms (Platyhelminthes)  
-D. Sponges (Porifera)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Flame cells are found in flatworms (Planaria, Taenia, Fasciola).
-
-**Ans: C.** Flatworms / Platyhelminthes
-</details>
-
-**Q9.**
-
-With reference to livestock revolutions in India, which of the following pairs is **not** correctly matched?
-A. White Revolution — Milk production (Dr. Verghese Kurien)  
-B. Silver Revolution — Egg and poultry production  
-C. Blue Revolution — Fish production  
-D. Yellow Revolution — Cattle meat production  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Yellow Revolution refers to Oilseeds production (mustard, sunflower).
-
-**Ans: D.** Yellow Revolution — Cattle meat production
-</details>
-
-**Q10.**
-
-The Kadaknath fowl, renowned for its black-coloured meat, bones, and internal organs, is native to which Indian state?
-A. Uttar Pradesh  
-B. Madhya Pradesh  
-C. Rajasthan  
-D. Andhra Pradesh  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Kadaknath (Kalamasi) is native to Jhabua and Dhar districts of Madhya Pradesh and holds a GI tag.
-
-**Ans: B.** Madhya Pradesh
-</details>
-
-**Q11.**
-
-Which of the following is an egg-laying mammal (Monotreme)?
-A. Kangaroo  
-B. Bat  
-C. Duck-billed Platypus  
-D. Blue Whale  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Duck-billed Platypus (Ornithorhynchus) and Echidna are the world's only oviparous (egg-laying) mammals.
-
-**Ans: C.** Duck-billed Platypus
-</details>
-
-**Q12.**
-
-In honeybee colonies, the famous "waggle dance" performed by scout bees communicates:
-A. Threat of predatory hornets  
-B. Presence of queen bee pheromone  
-C. Distance and direction of distant floral nectar sources  
-D. Swarming time  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Karl von Frisch demonstrated that the waggle dance communicates distance ($>50\text{ m}$) and angle relative to the sun to locate rich nectar flowers.
-
-**Ans: C.** Distance and direction of distant floral nectar sources
-</details>
-
-**Q13.**
-
-Which of the following silkworms feeds on the leaves of Arjun (*Terminalia arjuna*) and Asan trees?
-A. Mulberry silkworm (*Bombyx mori*)  
-B. Tasar silkworm (*Antheraea mylitta*)  
-C. Muga silkworm (*Antheraea assamensis*)  
-D. Eri silkworm (*Samia ricini*)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tasar silkworms feed on Arjun and Asan trees in Jharkhand and Chhattisgarh.
-
-**Ans: B.** Tasar silkworm
-</details>
-
-**Q14.**
-
-Foot and Mouth Disease (FMD) affecting cloven-hoofed domestic livestock is caused by a:
-A. Bacterium  
-B. Fungus  
-C. Virus  
-D. Protozoan  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Virus.
-
-**Ans: C.** Virus
-</details>
-
-**Q15.**
-
-The Ganges River Dolphin (*Platanista gangetica*), India's National Aquatic Animal, navigates and hunts prey using:
-A. Keen underwater vision  
-B. Electro-reception via ampullae  
-C. High-frequency ultrasonic echolocation  
-D. Olfactory scent trails  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Ganges river dolphin has a rudimentary lensless eye (functionally blind) and relies strictly on ultrasonic bio-sonar / echolocation to navigate muddy river waters.
-
-**Ans: C.** High-frequency ultrasonic echolocation
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to respiration in animals, which of the following statements is/are correct?<br>1. Spiders and scorpions breathe primarily through book lungs.<br>2. Insects transport oxygen throughout their body primarily via haemocyanin dissolved in haemolymph.<br>3. Whales and dolphins possess branchial gills during their embryonic stages only.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Only 1.
+
+**Ans: A.** Only 1</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br>Assertion (A): Natural silk burns with the characteristic smell of burning hair, whereas pure cotton burns with the smell of burning paper.  <br>Reason (R): Natural silk is an animal protein composed of fibroin, whereas cotton is a plant polysaccharide composed of cellulose.  <br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Silk and hair are both proteins containing nitrogenous peptide bonds that emit the smell of burning keratin/fibroin when burned.
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Animal Product / Breed)</th><th>List-II (Source Organism / Origin)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Pashmina</td><td><span class="match-key">1</span> *Pinctada vulgaris* (Mollusc)</td></tr>
+      <tr><td><span class="match-key">B</span> Muga Silk</td><td><span class="match-key">2</span> Changthangi Goat of Ladakh</td></tr>
+      <tr><td><span class="match-key">C</span> Pearl</td><td><span class="match-key">3</span> *Antheraea assamensis* of Assam</td></tr>
+      <tr><td><span class="match-key">D</span> Black Gold Buffalo</td><td><span class="match-key">4</span> Murrah breed of Haryana</td></tr>
+  </tbody>
+</table><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-2, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-3, C-1, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Pashmina = Fine undercoat of Changthangi goat (A-2).
+
+**Ans: A.** A-2, B-3, C-1, D-4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following animal groups has a four-chambered heart?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shark, Frog, Lizard</div><div class="pyq-opt"><span class="opt-letter">B</span> Crocodile, Pigeon, Whale</div><div class="pyq-opt"><span class="opt-letter">C</span> Rohu, Chameleon, Ostrich</div><div class="pyq-opt"><span class="opt-letter">D</span> Toad, Cobra, Bat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** All birds (pigeon) and mammals (whale) have a 4-chambered heart.
+
+**Ans: B.** Crocodile, Pigeon, Whale</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following buffalo breeds is indigenous to Uttar Pradesh and is renowned for the highest milk fat percentage (up to 13%)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Murrah</div><div class="pyq-opt"><span class="opt-letter">B</span> Jaffarabadi</div><div class="pyq-opt"><span class="opt-letter">C</span> Bhadawari</div><div class="pyq-opt"><span class="opt-letter">D</span> Nili-Ravi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Bhadawari buffalo, native to the Agra–Etawah belt of UP and Bhind–Morena in MP, yields milk with the highest fat percentage (up to 12.5–13%).
+
+**Ans: C.** Bhadawari</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The water vascular (ambulacral) system operating tube feet is the unique distinguishing characteristic of which animal phylum?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mollusca</div><div class="pyq-opt"><span class="opt-letter">B</span> Arthropoda</div><div class="pyq-opt"><span class="opt-letter">C</span> Echinodermata</div><div class="pyq-opt"><span class="opt-letter">D</span> Annelida</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Echinoderms (starfish, sea urchins, sea cucumbers) uniquely possess a hydraulic water vascular system for locomotion and prey capture.
+
+**Ans: C.** Echinodermata</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following animals is a true pseudoruminant, possessing an active fermentation rumen but lacking the omasum?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cow</div><div class="pyq-opt"><span class="opt-letter">B</span> Camel</div><div class="pyq-opt"><span class="opt-letter">C</span> Goat</div><div class="pyq-opt"><span class="opt-letter">D</span> Buffalo</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Camel.
+
+**Ans: B.** Camel</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Flame cells (solenocytes) are the specialized excretory and osmoregulatory structures of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Roundworms (Nematoda)</div><div class="pyq-opt"><span class="opt-letter">B</span> Segmented worms (Annelida)</div><div class="pyq-opt"><span class="opt-letter">C</span> Flatworms (Platyhelminthes)</div><div class="pyq-opt"><span class="opt-letter">D</span> Sponges (Porifera)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Flame cells are found in flatworms (Planaria, Taenia, Fasciola).
+
+**Ans: C.** Flatworms / Platyhelminthes</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to livestock revolutions in India, which of the following pairs is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> White Revolution — Milk production (Dr. Verghese Kurien)</div><div class="pyq-opt"><span class="opt-letter">B</span> Silver Revolution — Egg and poultry production</div><div class="pyq-opt"><span class="opt-letter">C</span> Blue Revolution — Fish production</div><div class="pyq-opt"><span class="opt-letter">D</span> Yellow Revolution — Cattle meat production</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Yellow Revolution refers to Oilseeds production (mustard, sunflower).
+
+**Ans: D.** Yellow Revolution — Cattle meat production</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The Kadaknath fowl, renowned for its black-coloured meat, bones, and internal organs, is native to which Indian state?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Madhya Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Rajasthan</div><div class="pyq-opt"><span class="opt-letter">D</span> Andhra Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Kadaknath (Kalamasi) is native to Jhabua and Dhar districts of Madhya Pradesh and holds a GI tag.
+
+**Ans: B.** Madhya Pradesh</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following is an egg-laying mammal (Monotreme)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kangaroo</div><div class="pyq-opt"><span class="opt-letter">B</span> Bat</div><div class="pyq-opt"><span class="opt-letter">C</span> Duck-billed Platypus</div><div class="pyq-opt"><span class="opt-letter">D</span> Blue Whale</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Duck-billed Platypus (Ornithorhynchus) and Echidna are the world's only oviparous (egg-laying) mammals.
+
+**Ans: C.** Duck-billed Platypus</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">In honeybee colonies, the famous "waggle dance" performed by scout bees communicates:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Threat of predatory hornets</div><div class="pyq-opt"><span class="opt-letter">B</span> Presence of queen bee pheromone</div><div class="pyq-opt"><span class="opt-letter">C</span> Distance and direction of distant floral nectar sources</div><div class="pyq-opt"><span class="opt-letter">D</span> Swarming time</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Karl von Frisch demonstrated that the waggle dance communicates distance ($>50\text{ m}$) and angle relative to the sun to locate rich nectar flowers.
+
+**Ans: C.** Distance and direction of distant floral nectar sources</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following silkworms feeds on the leaves of Arjun (*Terminalia arjuna*) and Asan trees?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mulberry silkworm (*Bombyx mori*)</div><div class="pyq-opt"><span class="opt-letter">B</span> Tasar silkworm (*Antheraea mylitta*)</div><div class="pyq-opt"><span class="opt-letter">C</span> Muga silkworm (*Antheraea assamensis*)</div><div class="pyq-opt"><span class="opt-letter">D</span> Eri silkworm (*Samia ricini*)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tasar silkworms feed on Arjun and Asan trees in Jharkhand and Chhattisgarh.
+
+**Ans: B.** Tasar silkworm</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Foot and Mouth Disease (FMD) affecting cloven-hoofed domestic livestock is caused by a:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bacterium</div><div class="pyq-opt"><span class="opt-letter">B</span> Fungus</div><div class="pyq-opt"><span class="opt-letter">C</span> Virus</div><div class="pyq-opt"><span class="opt-letter">D</span> Protozoan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Virus.
+
+**Ans: C.** Virus</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The Ganges River Dolphin (*Platanista gangetica*), India's National Aquatic Animal, navigates and hunts prey using:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Keen underwater vision</div><div class="pyq-opt"><span class="opt-letter">B</span> Electro-reception via ampullae</div><div class="pyq-opt"><span class="opt-letter">C</span> High-frequency ultrasonic echolocation</div><div class="pyq-opt"><span class="opt-letter">D</span> Olfactory scent trails</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Ganges river dolphin has a rudimentary lensless eye (functionally blind) and relies strictly on ultrasonic bio-sonar / echolocation to navigate muddy river waters.
+
+**Ans: C.** High-frequency ultrasonic echolocation</div>
+  </div>
+</div>

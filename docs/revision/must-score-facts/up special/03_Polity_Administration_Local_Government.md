@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 3 — Polity, Constitutional Framework, Administration and Local Governance</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2025** | **UP Annual Budget Milestone** — State budget crosses **₹7.36 Lakh Crore**, pacing the target of becoming a **$1 Trillion Economy by 2027** | Macroeconomic scale and state fiscal priorities |
-| **2023–2024** | **Ranipur Wildlife Sanctuary (Chitrakoot)** — Notified as UP's **4th Tiger Reserve** and India's **53rd Tiger Reserve** | Core wildlife conservation & protected areas |
-| **2023** | **Ganga Expressway Execution (594 km)** — 6-lane access-controlled expressway connecting Meerut to Prayagraj via 12 districts | Critical infrastructure & logistics corridor |
-| **2023** | **UP ODOP Global Integration** — State ODOP products onboarded to ONDC and international trade pavilions | Industrial promotion & district craft branding |
-| **2022** | **Bakhira Bird Sanctuary (Sant Kabir Nagar)** — Added as UP's **10th Ramsar Wetland** (Wetland of International Importance) | Environmental geography & wetland conservation |
-| **Rolling** | **District Administrative Realignment** — 75 Districts, 18 Divisions, 17 Municipal Corporations (Shahjahanpur 17th) | State administrative architecture baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Uttar Pradesh has the largest **Legislative Assembly (Vidhan Sabha)** in India with **403 elected members**.
@@ -129,23 +118,6 @@ hide:
 | **Nagar Nigam (Municipal Corporation)** | **Mayor (Mahapaur)** (Political);<br>**Municipal Commissioner (Nagar Ayukt - IAS)** (Executive) | UP Municipal Corporation Act, 1959 | **17 Municipal Corporations** | • Urban local bodies for large metropolitan cities (Lucknow, Kanpur, Prayagraj, Varanasi, Agra, Ghaziabad, Meerut, Bareilly, Aligarh, Moradabad, Gorakhpur, Jhansi, Saharanpur, Firozabad, Ayodhya, Mathura-Vrindavan, Shahjahanpur). |
 | **Industrial Townships (Exception under Art. 243Q)** | **Chief Executive Officer (CEO - IAS)** | UP Industrial Area Development Act, 1976 | **NOIDA, Greater Noida, YEIDA** | • Governed by statutory industrial authorities providing civic amenities; exempt from forming elected Municipal Corporations under the proviso to Art. 243Q. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
-| :--- | :--- | :--- |
-| **Lucknow (State Capital)** | **Prayagraj (Judicial Capital)** | Executive and Legislature sit in **Lucknow**; Principal Seat of High Court and UPPSC are in **Prayagraj**. |
-| **Lucknow Bench of High Court** | **Uttarakhand High Court (Nainital)** | Lucknow is a **Bench of Allahabad HC** (est. 1948); Nainital is a **separate High Court** for Uttarakhand (est. 2000). |
-| **State Election Commission (SEC)** | **Election Commission of India (ECI)** | SEC conducts **Panchayat and Municipality elections**; ECI conducts **Lok Sabha, Rajya Sabha, Assembly, and Council elections**. |
-| **Removal of UPPSC Members** | **Appointment of UPPSC Members** | UPPSC members are **appointed by the Governor**, but can be **removed ONLY by the President of India** (Art. 317). |
-| **Legislative Assembly (403 Seats)** | **Constitutional Ceiling (500 Seats)** | 403 is the **actual elected strength** of UP Assembly; 500 is the **maximum theoretical ceiling** under Article 170. |
-| **Legislative Council (100 Seats)** | **Constitutional Ceiling (134 Seats)** | 100 is UP's **chosen strength**; 134 is the **maximum permissible ceiling** (1/3rd of 403) under Article 171. |
-| **Pre-2000 Lok Sabha (85 Seats)** | **Post-2000 Lok Sabha (80 Seats)** | 5 Lok Sabha seats were transferred to Uttarakhand in Nov 2000, reducing UP's quota from **85 to 80**. |
-| **Pre-2000 Rajya Sabha (34 Seats)** | **Post-2000 Rajya Sabha (31 Seats)** | 3 Rajya Sabha seats were transferred to Uttarakhand in Nov 2000, reducing UP's quota from **34 to 31**. |
-| **Mayor (Mahapaur)** | **Municipal Commissioner (Nagar Ayukt)** | Mayor is the **directly elected political head**; Municipal Commissioner is the **state-appointed IAS executive head**. |
-| **NOIDA Authority** | **Nagar Nigam** | NOIDA is an **Industrial Township** under Art. 243Q proviso; it has **no elected Municipal Corporation**. |
-| **Devipatan Division HQ** | **Chitrakoot Division HQ** | Devipatan Division HQ is at **Gonda**; Chitrakoot Division HQ is at **Banda**. |
-| **Hindi Official (1951)** | **Urdu Official (1989)** | Hindi was made official language in **1951**; Urdu became the second official language in **1989**. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **UP Legislative Representation (Constitutional Giants)**:
@@ -157,263 +129,273 @@ hide:
   - Largest Mandals (6 districts each): **Lucknow, Kanpur, Meerut**
 - **Local Bodies**: 17 Municipal Corporations (Nagar Nigam); 17th is **Shahjahanpur (2018)**.
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-**Q1.**
-With reference to the composition of the Legislative Council in a State:
-1. Council may not have more than one-third members of the Assembly.
-2. Council must have at least forty members.
-Select the correct answer:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the composition of the Legislative Council in a State:<br>1. Council may not have more than one-third members of the Assembly.<br>2. Council must have at least forty members.<br>Select the correct answer:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP Vidhan Parishad strength is 100; Assembly 403 — within the 1/3 ceiling and above the 40 floor.
 
-<details>
-<summary>Show answer</summary>
+**Ans: C.** Both (Art. 171).</div>
+  </div>
+</div>
 
-**Logic:** UP Vidhan Parishad strength is 100; Assembly 403 — within the 1/3 ceiling and above the 40 floor.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which statements are correct?<br>1. Uttar Pradesh has 31 seats allotted for Rajya Sabha.<br>2. Eighty members of the Lok Sabha are elected from Uttar Pradesh.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Both 1 and 2.
 
-**Ans: C.** Both (Art. 171).
+**Ans: C.** Both 1 and 2</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Total seats in UP Legislative Assembly are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 400</div><div class="pyq-opt"><span class="opt-letter">B</span> 403</div><div class="pyq-opt"><span class="opt-letter">C</span> 404</div><div class="pyq-opt"><span class="opt-letter">D</span> 425</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 403.
 
-**Q2.**
-Which statements are correct?
-1. Uttar Pradesh has 31 seats allotted for Rajya Sabha.
-2. Eighty members of the Lok Sabha are elected from Uttar Pradesh.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither
+**Ans: B.** 403</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Census is a subject of which List of the Seventh Schedule?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> State List</div><div class="pyq-opt"><span class="opt-letter">B</span> Concurrent List</div><div class="pyq-opt"><span class="opt-letter">C</span> Union List</div><div class="pyq-opt"><span class="opt-letter">D</span> Residuary only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Asked across State PCS; Census is not a State subject.
 
-**Logic:** Standard key matches Both 1 and 2.
+**Ans: C.** Union List (Entry 69).</div>
+  </div>
+</div>
 
-**Ans: C.** Both 1 and 2
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">As per India’s National Population Policy, 2000, by which year is it our long-term objective to achieve population stabilisation?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2025</div><div class="pyq-opt"><span class="opt-letter">B</span> 2035</div><div class="pyq-opt"><span class="opt-letter">C</span> 2045</div><div class="pyq-opt"><span class="opt-letter">D</span> 2055</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 2045.
 
-**Q3.**
-Total seats in UP Legislative Assembly are:
-A. 400
-B. 403
-C. 404
-D. 425
+**Ans: C.** 2045</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Uttar Pradesh Vidhan Sabha has how many seats (constituencies)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 240</div><div class="pyq-opt"><span class="opt-letter">B</span> 294</div><div class="pyq-opt"><span class="opt-letter">C</span> 403</div><div class="pyq-opt"><span class="opt-letter">D</span> 543</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 403.
 
-**Logic:** Standard key matches 403.
+**Ans: C.** 403</div>
+  </div>
+</div>
 
-**Ans: B.** 403
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Uttar Pradesh Vidhan Parishad (Legislative Council) has a total membership of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 75</div><div class="pyq-opt"><span class="opt-letter">B</span> 100</div><div class="pyq-opt"><span class="opt-letter">C</span> 125</div><div class="pyq-opt"><span class="opt-letter">D</span> 150</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 100.
 
-**Q4.**
-Census is a subject of which List of the Seventh Schedule?
-A. State List
-B. Concurrent List
-C. Union List
-D. Residuary only
+**Ans: B.** 100</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Under the 73rd Constitutional Amendment (1992), which tier corresponds to the 'Block Level' in Uttar Pradesh's Panchayati Raj structure?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gram Panchayat</div><div class="pyq-opt"><span class="opt-letter">B</span> Kshetra Panchayat</div><div class="pyq-opt"><span class="opt-letter">C</span> Zila Panchayat</div><div class="pyq-opt"><span class="opt-letter">D</span> Nagar Panchayat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP has a 3-tier PRIsystem.
 
-**Logic:** Asked across State PCS; Census is not a State subject.
+**Ans: B.** Kshetra Panchayat.</div>
+  </div>
+</div>
 
-**Ans: C.** Union List (Entry 69).
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Uttar Pradesh sends how many members to the Lok Sabha (House of the People)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 40</div><div class="pyq-opt"><span class="opt-letter">B</span> 60</div><div class="pyq-opt"><span class="opt-letter">C</span> 80</div><div class="pyq-opt"><span class="opt-letter">D</span> 84</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 80.
 
-</details>
+**Ans: C.** 80</div>
+  </div>
+</div>
 
-**Q5.**
-As per India’s National Population Policy, 2000, by which year is it our long-term objective to achieve population stabilisation?
-A. 2025
-B. 2035
-C. 2045
-D. 2055
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 2045.
-
-**Ans: C.** 2045
-</details>
-
-**Q6.**
-The Uttar Pradesh Vidhan Sabha has how many seats (constituencies)?
-A. 240
-B. 294
-C. 403
-D. 543
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 403.
-
-**Ans: C.** 403
-</details>
-
-**Q7.**
-The Uttar Pradesh Vidhan Parishad (Legislative Council) has a total membership of:
-A. 75
-B. 100
-C. 125
-D. 150
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 100.
-
-**Ans: B.** 100
-</details>
-
-**Q8.**
-Under the 73rd Constitutional Amendment (1992), which tier corresponds to the 'Block Level' in Uttar Pradesh's Panchayati Raj structure?
-A. Gram Panchayat
-B. Kshetra Panchayat
-C. Zila Panchayat
-D. Nagar Panchayat
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP has a 3-tier PRIsystem.
-
-**Ans: B.** Kshetra Panchayat.
-
-</details>
-
-**Q9.**
-Uttar Pradesh sends how many members to the Lok Sabha (House of the People)?
-A. 40
-B. 60
-C. 80
-D. 84
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 80.
-
-**Ans: C.** 80
-</details>
-
-**Q10.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Smt. Sarojini Naidu was the First Woman Governor of Uttar Pradesh and the first woman Governor in India (1947–1949).
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Smt. Sarojini Naidu was the First Woman Governor of Uttar Pradesh and the first woman Governor in India (1947–1949).</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Smt. Sarojini Naidu** was the **First Woman Governor** of Uttar Pradesh and the first woman Governor in India (1947–1949).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q11.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Pandit applies only to union territories and not state jurisdictions.
-B. Pandit Govind Ballabh Pant was the First Chief Minister of Uttar Pradesh (1950–1954).
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Pandit applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Pandit Govind Ballabh Pant was the First Chief Minister of Uttar Pradesh (1950–1954).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Recognized by UNESCO under World Heritage natural criteria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Pandit Govind Ballabh Pant** was the **First Chief Minister** of Uttar Pradesh (1950–1954).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q12.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Smt. applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Smt. Sucheta Kripalani became the First Woman Chief Minister of Uttar Pradesh and India in October 1963.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Smt. applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> Smt. Sucheta Kripalani became the First Woman Chief Minister of Uttar Pradesh and India in October 1963.</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Smt. Sucheta Kripalani** became the **First Woman Chief Minister** of Uttar Pradesh and India in October 1963.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q13.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Chaudhary applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Chaudhary Charan Singh served as the first non-Congress Chief Minister of UP (1967) and later became Prime Minister of India.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Chaudhary applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Enacted under Article 356 of the Constitution of India</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Chaudhary Charan Singh served as the first non-Congress Chief Minister of UP (1967) and later became Prime Minister of India.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Chaudhary Charan Singh** served as the first non-Congress Chief Minister of UP (1967) and later became Prime Minister of India.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q14.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Hapur is the smallest district of UP by geographic area (660 km²), while Lakhimpur Kheri is the largest (7,680 km²).
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hapur is the smallest district of UP by geographic area (660 km²), while Lakhimpur Kheri is the largest (7,680 km²).</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Hapur** is the smallest district of UP by geographic area (660 km²), while **Lakhimpur Kheri** is the largest (7,680 km²).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q15.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, NOIDA, applies only to union territories and not state jurisdictions.
-B. NOIDA, Greater Noida, and YEIDA are not Nagar Nigams; they are Industrial Townships constituted under Article 243Q proviso.
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, NOIDA, applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> NOIDA, Greater Noida, and YEIDA are not Nagar Nigams; they are Industrial Townships constituted under Article 243Q proviso.</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Excavated primarily in the Belan and Son River valleys</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **NOIDA, Greater Noida, and YEIDA** are not Nagar Nigams; they are **Industrial Townships** constituted under Article 243Q proviso.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>

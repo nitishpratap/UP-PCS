@@ -161,21 +161,6 @@ hide:
 | **Daphnia (Water flea)** | Freshwater Micro-crustacean | Heavy metal & pesticide toxicity | Extreme sensitivity; immobilized by trace toxic industrial discharge |
 | **Mosses (*Bryophytes*)** | Non-vascular land plants | Heavy metals (Lead, Cadmium, Copper) in air | Bioaccumulate atmospheric particulate toxic heavy metals |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Virus Structure** | **Viroid Structure** | **Viruses** possess a protective protein capsid coat enclosing genetic material (DNA or RNA). **Viroids consist strictly of naked, free circular ssRNA with NO protein coat whatsoever**. | वायरस = प्रोटीन आवरण (Capsid) युक्त; वाइरॉइड = प्रोटीन आवरण रहित (केवल नग्न आरएनए) |
-| **Prion Entity** | **Conventional Pathogen** | **Prions contain ZERO nucleic acids (no DNA, no RNA)**. They are strictly infectious misfolded proteins ($PrP^{Sc}$) that induce normal brain proteins to misfold. | प्रियन (Prions) में कोई आनुवंशिक पदार्थ (डीएनए/आरएनए) नहीं होता; केवल संक्रामक प्रोटीन |
-| **Antibiotic Action on Viruses**| **Bacterial Cell Wall Targets**| Antibiotics (**Penicillin, Ampicillin**) kill bacteria by inhibiting peptidoglycan cell wall synthesis or bacterial 70S ribosomes; they have **ZERO efficacy against viruses**, which lack cell walls. | एंटीबायोटिक्स केवल जीवाणुओं पर प्रभावी हैं, विषाणुओं (Viruses) पर सर्वथा निष्प्रभावी हैं |
-| **Rhizobium vs Azotobacter** | **Symbiosis Status** | ***Rhizobium* is strictly SYMBIOTIC** living inside leguminous root nodules. ***Azotobacter* is FREE-LIVING (non-symbiotic)** in aerated soils. | राइजोबियम = दलहनी फसलों में सहजीवी; एजोटोबैक्टर = मृदा में स्वतंत्रजीवी (Free-living) |
-| **Leghemoglobin Role** | **Human Hemoglobin** | Human hemoglobin transports $O_2$ to tissues. In leguminous nodules, **Leghemoglobin acts as an OXYGEN SCAVENGER** to protect the oxygen-sensitive **Nitrogenase enzyme** from being inactivated. | लेगहीमोग्लोबिन = नाइट्रोजिनेस एंजाइम को ऑक्सीजन से बचाने वाला 'ऑक्सीजन स्केवेंजर' |
-| **Azolla Fern Biofertilizer** | **BGA Anabaena Partner** | *Azolla* is a floating **aquatic pteridophyte fern**; the actual nitrogen-fixing agent is its symbiotic **cyanobacterium (*Anabaena azollae*)** residing in its leaf cavities. | अजोला एक जलीय फर्न है जिसके पत्तों में सहजीवी सायनोबैक्टीरिया (एनाबीना) वास करता है |
-| **BOD (Biochemical Oxygen Demand)**| **Dissolved Oxygen (DO)** | As organic water pollution increases, microbial decomposition consumes oxygen: **BOD surges UPWARD** while **Dissolved Oxygen (DO) plunges DOWNWARD**. | जल प्रदूषण बढ़ने पर BOD बढ़ता है तथा घुलित ऑक्सीजन (DO) घटती है |
-| **Lichens as Bioindicators** | **$CO_2$ vs $SO_2$ Pollution** | Lichens are exquisitely sensitive specifically to **Sulfur Dioxide ($SO_2$) air pollution**, NOT carbon dioxide ($CO_2$). Lichens die off rapidly downwind of coal power plants. | लाइकेन मुख्य रूप से सल्फर डाइऑक्साइड ($SO_2$) वायु प्रदूषण के संवेदनशील सूचक हैं |
-| **Bt Toxin Activation** | **Human Safety** | *Bacillus thuringiensis* (Bt) Cry endotoxin is harmless in acidic human stomachs; it is solubilized and **activated strictly in the ALKALINE midgut of insect larvae** ($	ext{pH } > 9$). | बीटी टॉक्सिन केवल कीटों की क्षारीय आहारनाल में सक्रिय होता है, मनुष्यों में नहीं |
-| **Bioremediation "Superbug"**| **Pathogenic Pseudomonas** | The "Superbug" is a genetically engineered, non-pathogenic multi-plasmid strain of ***Pseudomonas putida*** created by Dr. A. M. Chakrabarty to digest aliphatic, aromatic, and terpene hydrocarbons. | सुपरबग = आनंद मोहन चक्रवर्ती द्वारा विकसित तेल-भक्षी *Pseudomonas putida* जीवाणु |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Microbial Scale of Simplicity: **B $	o$ V $	o$ V $	o$ P**
@@ -194,346 +179,282 @@ hide:
 - ***E. coli*** $	o$ Fecal Sewage in Water.
 - ***Tubifex*** $	o$ Severe organic sewage & zero oxygen mud.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to bacteria and viruses, which of the following statements is/are correct?
-
-1. Bacteria are prokaryotic organisms possessing a peptidoglycan cell wall.
-2. A virus contains both DNA and RNA simultaneously within its protein capsid.
-3. Antibiotics that inhibit bacterial wall synthesis are ineffective against viral infections.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Statements 1 and 3 are correct.
-
-**Logic:** Bacteria are classic prokaryotes with peptidoglycan cell walls. Antibiotics target bacterial mechanisms (such as peptidoglycan synthesis or 70S ribosomes) and have zero efficacy against viruses. Statement 2 is incorrect because a virus contains either DNA or RNA, never both together.
-
-</details>
-
-**Q2.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Secondary biological treatment of sewage drastically reduces the Biochemical Oxygen Demand (BOD) of wastewater.  
-Reason (R): Aerobic microbial flocs consume the major fraction of dissolved and suspended organic matter present in the primary effluent.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
-D. (A) is false, but (R) is true  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, and (R) correctly explains (A).
-
-**Logic:** In the aeration tanks of an STP, aerobic bacteria and fungi grow vigorously as flocs, metabolizing the dissolved organic waste into biomass and $CO_2$, which directly reduces the BOD.
-
-</details>
-
-**Q3.**
-
-Match List-I (Industrial Product / Microbe) with List-II (Microorganism / Application) and select the correct answer using the code given below:
-
-| List-I (Agent / Product) | List-II (Source / Action) |
-|---|---|
-| A. Streptokinase | 1. Immunosuppressive agent in organ transplants |
-| B. Cyclosporin A | 2. Blood cholesterol-lowering statin |
-| C. *Monascus purpureus* | 3. "Clot buster" enzyme from *Streptococcus* |
-| D. *Aspergillus niger* | 4. Commercial production of Citric acid |
-
-Code:
-
-A. A-3, B-1, C-2, D-4  
-B. A-1, B-3, C-2, D-4  
-C. A-3, B-2, C-1, D-4  
-D. A-4, B-1, C-2, D-3  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** A-3, B-1, C-2, D-4.
-
-**Logic:** Streptokinase dissolves intravascular blood clots (clot buster). Cyclosporin A from *Trichoderma polysporum* suppresses graft rejection. *Monascus purpureus* produces statins that inhibit cholesterol synthesis. *Aspergillus niger* yields citric acid.
-
-</details>
-
-**Q4.**
-
-Which of the following pollutants are non-biodegradable?
-
-1. Dichloro-diphenyl-trichloroethane (DDT)
-2. Polyvinyl chloride (PVC) plastic pipes
-3. Cattle dung
-4. Aluminium foil
-
-Select the correct answer from the code given below:
-
-A. 1, 2 and 4 only  
-B. 1 and 2 only  
-C. 2, 3 and 4 only  
-D. 1, 2, 3 and 4  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1, 2 and 4 only.
-
-**Logic:** DDT (synthetic pesticide), PVC (synthetic polymer), and aluminium (metal) cannot be broken down by saprophytic microorganisms. Cattle dung is biological organic waste and is readily biodegradable.
-
-</details>
-
-**Q5.**
-
-Which of the following pairs is **not** correctly matched?
-
-A. Curd — *Lactobacillus* and Lactic acid  
-B. Vinegar — *Acetobacter aceti* and Acetic acid  
-C. Swiss Cheese — Large holes due to *Propionibacterium shermanii*  
-D. Antibiotic Streptomycin — Discovered by Alexander Fleming  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Antibiotic Streptomycin — Discovered by Alexander Fleming.
-
-**Logic:** Fleming discovered Penicillin in 1928. Streptomycin was discovered in 1943 by Selman Waksman and Albert Schatz from the soil actinomycete *Streptomyces griseus*.
-
-</details>
-
-**Q6.**
-
-Arrange the following scientific discoveries and milestones in chronological order:
-
-1. Edward Jenner's smallpox cowpox vaccination
-2. Alexander Fleming's discovery of Penicillin
-3. Antonie van Leeuwenhoek's observation of living "animalcules"
-4. Robert Koch's identification of the Tuberculosis bacillus
-
-Select the correct answer from the code given below:
-
-A. 3, 1, 4, 2  
-B. 1, 3, 4, 2  
-C. 3, 4, 1, 2  
-D. 1, 4, 3, 2  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 3, 1, 4, 2.
-
-**Logic:** Leeuwenhoek observed living microbes in the 1670s (1674); Jenner performed the first smallpox inoculation in 1796; Koch identified *Mycobacterium tuberculosis* in 1882; Fleming discovered penicillin in 1928.
-
-</details>
-
-**Q7.**
-
-With reference to Gram staining of bacteria, which of the following statements is/are correct?
-
-1. Gram-positive bacteria retain the crystal violet stain and appear purple under a microscope.
-2. Gram-negative bacteria possess a thicker peptidoglycan wall than Gram-positive bacteria.
-3. The presence of an outer lipopolysaccharide membrane confers higher antibiotic resistance to Gram-negative bacteria.
-
-Select the correct answer from the code given below:
-
-A. 1 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 3 are correct.
-
-**Logic:** Gram-positive bacteria retain crystal violet (purple) due to their thick peptidoglycan wall. Gram-negative bacteria have a **thin** peptidoglycan wall covered by an outer lipopolysaccharide membrane that acts as an impermeable barrier against many antibiotics.
-
-</details>
-
-**Q8.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): High concentration of DDT causes a catastrophic decline in the population of predatory birds like eagles and pelicans.  
-Reason (R): DDT accumulates in avian fatty tissues and interferes with calcium metabolism, leading to abnormally thin eggshells that break prematurely.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
-D. (A) is false, but (R) is true  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, and (R) correctly explains (A).
-
-**Logic:** Biomagnification of DDT in top carnivorous birds disrupts calcium deposition by inhibiting carbonic anhydrase, causing eggshell thinning and egg breakage during brooding.
-
-</details>
-
-**Q9.**
-
-Match List-I (Institute) with List-II (Location in Uttar Pradesh) and select the correct answer using the code given below:
-
-| List-I (Research Institute) | List-II (City in UP) |
-|---|---|
-| A. Central Drug Research Institute (CDRI) | 1. Izatnagar, Bareilly |
-| B. Indian Veterinary Research Institute (IVRI) | 2. Varanasi |
-| C. Indian Institute of Vegetable Research (IIVR) | 3. Lucknow |
-| D. Indian Grassland and Fodder Research Institute (IGFRI) | 4. Jhansi |
-
-Code:
-
-A. A-3, B-1, C-2, D-4  
-B. A-1, B-3, C-2, D-4  
-C. A-3, B-4, C-2, D-1  
-D. A-2, B-1, C-3, D-4  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** A-3, B-1, C-2, D-4.
-
-**Logic:** CDRI is in Lucknow, IVRI is at Izatnagar (Bareilly), IIVR is in Varanasi, and IGFRI is in Jhansi.
-
-</details>
-
-**Q10.**
-
-With reference to traditional Indian seasons (*Shad Ritus*), which of the following pairs is **not** correctly matched?
-
-A. Vasanta — Spring, flowering of trees, Chaitra–Vaishakha  
-B. Grishma — Summer, scorching winds (*Loo*), Jyeshtha–Ashadha  
-C. Varsha — Monsoon rains, Kharif sowing, Shravana–Bhadrapada  
-D. Shishira — Autumn retreat of monsoon, Ashwina–Kartika  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Shishira — Autumn retreat of monsoon, Ashwina–Kartika.
-
-**Logic:** Shishira is the peak winter season (Magha–Phalguna, mid-December to mid-February). The autumn retreat of the monsoon is **Sharad** (Ashwina–Kartika).
-
-</details>
-
-**Q11.**
-
-With reference to water quality parameters, consider the following statements:
-
-1. Biochemical Oxygen Demand (BOD) measures the amount of oxygen required to chemically oxidize both biodegradable and non-biodegradable wastes.
-2. In any polluted water body, Chemical Oxygen Demand (COD) is always greater than BOD.
-3. If the Dissolved Oxygen (DO) level in water drops below $4\text{ mg/L}$, fish mortality occurs.
-
-Which of the statements given above are correct?
-
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 2 and 3 are correct.
-
-**Logic:** Statement 1 is incorrect because BOD measures only biologically degradable organic matter; COD measures total oxidizable matter using a strong chemical oxidizer ($K_2Cr_2O_7$). Therefore, COD is always greater than BOD. Dissolved oxygen below $4\text{ mg/L}$ is fatal to aquatic fish.
-
-</details>
-
-**Q12.**
-
-In a Biogas (Gobar gas) plant, the primary microbiological process is carried out by:
-
-A. Aerobic photosynthetic cyanobacteria  
-B. Obligate anaerobic methanogenic archaebacteria  
-C. Saprophytic moulds like *Penicillium*  
-D. Halophilic bacteria  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Obligate anaerobic methanogenic archaebacteria.
-
-**Logic:** Methanogenic archaebacteria (such as *Methanobacterium*) thrive strictly under anaerobic conditions, breaking down cellulose and organic acids into Methane ($CH_4$, 50–70%) and Carbon Dioxide ($CO_2$).
-
-</details>
-
-**Q13.**
-
-Which of the following statements about *Haemophilus influenzae* is/are correct?
-
-1. It is a bacterium, not a virus.
-2. It is a major cause of bacterial meningitis in children under 5 years.
-3. It is the direct causative organism of seasonal epidemic flu.
-
-Select the correct answer from the code given below:
-
-A. 1 only  
-B. 1 and 2 only  
-C. 2 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** *Haemophilus influenzae* is a coccobacillus bacterium that causes pediatric meningitis, epiglottitis, and pneumonia. Epidemic seasonal flu (influenza) is caused by the Influenza virus (an Orthomyxovirus).
-
-</details>
-
-**Q14.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Glass containers and aluminium beverage cans are considered non-biodegradable pollutants.  
-Reason (R): Microorganisms in soil lack the metabolic enzymes necessary to hydrolyze the inorganic bonds of silicates and metallic aluminium.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-C. (A) is true, but (R) is false  
-D. (A) is false, but (R) is true  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, and (R) correctly explains (A).
-
-**Logic:** Glass and aluminium can be melted down and recycled physically, but saprophytic bacteria cannot decompose their chemical bonds, making them non-biodegradable.
-
-</details>
-
-**Q15.**
-
-The "Superbug" developed by Dr. Ananda Mohan Chakrabarty through genetic engineering for clearing marine oil spills is a strain of:
-
-A. *Bacillus thuringiensis*  
-B. *Pseudomonas putida*  
-C. *Agrobacterium tumefaciens*  
-D. *Escherichia coli*  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Decide from the stem options; keyed answer is Pseudomonas putida.
-
-**Ans: B.** Pseudomonas putida
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to bacteria and viruses, which of the following statements is/are correct?<br><br>1. Bacteria are prokaryotic organisms possessing a peptidoglycan cell wall.<br>2. A virus contains both DNA and RNA simultaneously within its protein capsid.<br>3. Antibiotics that inhibit bacterial wall synthesis are ineffective against viral infections.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** Bacteria are classic prokaryotes with peptidoglycan cell walls. Antibiotics target bacterial mechanisms (such as peptidoglycan synthesis or 70S ribosomes) and have zero efficacy against viruses. Statement 2 is incorrect because a virus contains either DNA or RNA, never both together.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Secondary biological treatment of sewage drastically reduces the Biochemical Oxygen Demand (BOD) of wastewater.  <br>Reason (R): Aerobic microbial flocs consume the major fraction of dissolved and suspended organic matter present in the primary effluent.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, and (R) correctly explains (A).
+
+**Logic:** In the aeration tanks of an STP, aerobic bacteria and fungi grow vigorously as flocs, metabolizing the dissolved organic waste into biomass and $CO_2$, which directly reduces the BOD.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Industrial Product / Microbe) with List-II (Microorganism / Application) and select the correct answer using the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Agent / Product)</th><th>List-II (Source / Action)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Streptokinase</td><td><span class="match-key">1</span> Immunosuppressive agent in organ transplants</td></tr>
+      <tr><td><span class="match-key">B</span> Cyclosporin A</td><td><span class="match-key">2</span> Blood cholesterol-lowering statin</td></tr>
+      <tr><td><span class="match-key">C</span> *Monascus purpureus*</td><td><span class="match-key">3</span> "Clot buster" enzyme from *Streptococcus*</td></tr>
+      <tr><td><span class="match-key">D</span> *Aspergillus niger*</td><td><span class="match-key">4</span> Commercial production of Citric acid</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-2, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-3, C-2, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-3, B-2, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-1, C-2, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-3, B-1, C-2, D-4.
+
+**Logic:** Streptokinase dissolves intravascular blood clots (clot buster). Cyclosporin A from *Trichoderma polysporum* suppresses graft rejection. *Monascus purpureus* produces statins that inhibit cholesterol synthesis. *Aspergillus niger* yields citric acid.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following pollutants are non-biodegradable?<br><br>1. Dichloro-diphenyl-trichloroethane (DDT)<br>2. Polyvinyl chloride (PVC) plastic pipes<br>3. Cattle dung<br>4. Aluminium foil<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1, 2 and 4 only.
+
+**Logic:** DDT (synthetic pesticide), PVC (synthetic polymer), and aluminium (metal) cannot be broken down by saprophytic microorganisms. Cattle dung is biological organic waste and is readily biodegradable.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Curd — *Lactobacillus* and Lactic acid</div><div class="pyq-opt"><span class="opt-letter">B</span> Vinegar — *Acetobacter aceti* and Acetic acid</div><div class="pyq-opt"><span class="opt-letter">C</span> Swiss Cheese — Large holes due to *Propionibacterium shermanii*</div><div class="pyq-opt"><span class="opt-letter">D</span> Antibiotic Streptomycin — Discovered by Alexander Fleming</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Antibiotic Streptomycin — Discovered by Alexander Fleming.
+
+**Logic:** Fleming discovered Penicillin in 1928. Streptomycin was discovered in 1943 by Selman Waksman and Albert Schatz from the soil actinomycete *Streptomyces griseus*.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following scientific discoveries and milestones in chronological order:<br><br>1. Edward Jenner's smallpox cowpox vaccination<br>2. Alexander Fleming's discovery of Penicillin<br>3. Antonie van Leeuwenhoek's observation of living "animalcules"<br>4. Robert Koch's identification of the Tuberculosis bacillus<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 1, 4, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 3, 4, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 4, 1, 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 4, 3, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 3, 1, 4, 2.
+
+**Logic:** Leeuwenhoek observed living microbes in the 1670s (1674); Jenner performed the first smallpox inoculation in 1796; Koch identified *Mycobacterium tuberculosis* in 1882; Fleming discovered penicillin in 1928.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Gram staining of bacteria, which of the following statements is/are correct?<br><br>1. Gram-positive bacteria retain the crystal violet stain and appear purple under a microscope.<br>2. Gram-negative bacteria possess a thicker peptidoglycan wall than Gram-positive bacteria.<br>3. The presence of an outer lipopolysaccharide membrane confers higher antibiotic resistance to Gram-negative bacteria.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** Gram-positive bacteria retain crystal violet (purple) due to their thick peptidoglycan wall. Gram-negative bacteria have a **thin** peptidoglycan wall covered by an outer lipopolysaccharide membrane that acts as an impermeable barrier against many antibiotics.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): High concentration of DDT causes a catastrophic decline in the population of predatory birds like eagles and pelicans.  <br>Reason (R): DDT accumulates in avian fatty tissues and interferes with calcium metabolism, leading to abnormally thin eggshells that break prematurely.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, and (R) correctly explains (A).
+
+**Logic:** Biomagnification of DDT in top carnivorous birds disrupts calcium deposition by inhibiting carbonic anhydrase, causing eggshell thinning and egg breakage during brooding.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Institute) with List-II (Location in Uttar Pradesh) and select the correct answer using the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Research Institute)</th><th>List-II (City in UP)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Central Drug Research Institute (CDRI)</td><td><span class="match-key">1</span> Izatnagar, Bareilly</td></tr>
+      <tr><td><span class="match-key">B</span> Indian Veterinary Research Institute (IVRI)</td><td><span class="match-key">2</span> Varanasi</td></tr>
+      <tr><td><span class="match-key">C</span> Indian Institute of Vegetable Research (IIVR)</td><td><span class="match-key">3</span> Lucknow</td></tr>
+      <tr><td><span class="match-key">D</span> Indian Grassland and Fodder Research Institute (IGFRI)</td><td><span class="match-key">4</span> Jhansi</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-2, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-3, C-2, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-3, B-4, C-2, D-1</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-3, B-1, C-2, D-4.
+
+**Logic:** CDRI is in Lucknow, IVRI is at Izatnagar (Bareilly), IIVR is in Varanasi, and IGFRI is in Jhansi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to traditional Indian seasons (*Shad Ritus*), which of the following pairs is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vasanta — Spring, flowering of trees, Chaitra–Vaishakha</div><div class="pyq-opt"><span class="opt-letter">B</span> Grishma — Summer, scorching winds (*Loo*), Jyeshtha–Ashadha</div><div class="pyq-opt"><span class="opt-letter">C</span> Varsha — Monsoon rains, Kharif sowing, Shravana–Bhadrapada</div><div class="pyq-opt"><span class="opt-letter">D</span> Shishira — Autumn retreat of monsoon, Ashwina–Kartika</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Shishira — Autumn retreat of monsoon, Ashwina–Kartika.
+
+**Logic:** Shishira is the peak winter season (Magha–Phalguna, mid-December to mid-February). The autumn retreat of the monsoon is **Sharad** (Ashwina–Kartika).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to water quality parameters, consider the following statements:<br><br>1. Biochemical Oxygen Demand (BOD) measures the amount of oxygen required to chemically oxidize both biodegradable and non-biodegradable wastes.<br>2. In any polluted water body, Chemical Oxygen Demand (COD) is always greater than BOD.<br>3. If the Dissolved Oxygen (DO) level in water drops below $4\text{ mg/L}$, fish mortality occurs.<br><br>Which of the statements given above are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 2 and 3 are correct.
+
+**Logic:** Statement 1 is incorrect because BOD measures only biologically degradable organic matter; COD measures total oxidizable matter using a strong chemical oxidizer ($K_2Cr_2O_7$). Therefore, COD is always greater than BOD. Dissolved oxygen below $4\text{ mg/L}$ is fatal to aquatic fish.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">In a Biogas (Gobar gas) plant, the primary microbiological process is carried out by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Aerobic photosynthetic cyanobacteria</div><div class="pyq-opt"><span class="opt-letter">B</span> Obligate anaerobic methanogenic archaebacteria</div><div class="pyq-opt"><span class="opt-letter">C</span> Saprophytic moulds like *Penicillium*</div><div class="pyq-opt"><span class="opt-letter">D</span> Halophilic bacteria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Obligate anaerobic methanogenic archaebacteria.
+
+**Logic:** Methanogenic archaebacteria (such as *Methanobacterium*) thrive strictly under anaerobic conditions, breaking down cellulose and organic acids into Methane ($CH_4$, 50–70%) and Carbon Dioxide ($CO_2$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements about *Haemophilus influenzae* is/are correct?<br><br>1. It is a bacterium, not a virus.<br>2. It is a major cause of bacterial meningitis in children under 5 years.<br>3. It is the direct causative organism of seasonal epidemic flu.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** *Haemophilus influenzae* is a coccobacillus bacterium that causes pediatric meningitis, epiglottitis, and pneumonia. Epidemic seasonal flu (influenza) is caused by the Influenza virus (an Orthomyxovirus).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Glass containers and aluminium beverage cans are considered non-biodegradable pollutants.  <br>Reason (R): Microorganisms in soil lack the metabolic enzymes necessary to hydrolyze the inorganic bonds of silicates and metallic aluminium.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, and (R) correctly explains (A).
+
+**Logic:** Glass and aluminium can be melted down and recycled physically, but saprophytic bacteria cannot decompose their chemical bonds, making them non-biodegradable.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The "Superbug" developed by Dr. Ananda Mohan Chakrabarty through genetic engineering for clearing marine oil spills is a strain of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> *Bacillus thuringiensis*</div><div class="pyq-opt"><span class="opt-letter">B</span> *Pseudomonas putida*</div><div class="pyq-opt"><span class="opt-letter">C</span> *Agrobacterium tumefaciens*</div><div class="pyq-opt"><span class="opt-letter">D</span> *Escherichia coli*</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Decide from the stem options; keyed answer is Pseudomonas putida.
+
+**Ans: B.** Pseudomonas putida</div>
+  </div>
+</div>

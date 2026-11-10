@@ -156,21 +156,6 @@ hide:
 | **Stability** | Completely stable; never settles | Stable; does not settle under gravity | **Unstable; particles settle out as sediment** |
 | **Examples** | Salt in water, sugar in water | **Milk, blood, starch sol, gum, ink** | Sand in water, chalk powder in water, muddy water |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Sublimation** | **Evaporation** | **Sublimation** is the direct phase change from **SOLID TO GAS** without passing through liquid (Camphor, Naphthalene, $NH_4Cl$, Dry Ice, Iodine). Evaporation is liquid to gas. | उर्ध्वपातन (Sublimation) = ठोस का सीधे वाष्प में बदलना (कपूर, नौसादर, नेफ़थलीन, शुष्क बर्फ) |
-| **Emulsion** | **Gel** | An **Emulsion** is a colloidal system of **Liquid dispersed in Liquid** (Milk). A **Gel** is a colloidal system of **Liquid dispersed in Solid** (Butter, Cheese, Jellies). | पायस (Emulsion) = द्रव में द्रव (दूध); जेल (Gel) = ठोस में द्रव (मक्खन, पनीर) |
-| **Molarity ($M$)** | **Molality ($m$)** | **Molarity ($M$)** = moles of solute per **Litre of solution**; depends on volume, so **CHANGES WITH TEMPERATURE**. **Molality ($m$)** = moles per **kg of solvent**; independent of temperature. | मोलरता ताप पर निर्भर करती है (आयतन प्रसार के कारण); मोललता ताप पर निर्भर नहीं करती |
-| **Milk Colloid Type** | **Pure Solution Myth** | Milk is not a simple liquid; it is an **Emulsion of liquid fat dispersed in water**, stabilized by the milk protein **Casein** acting as an emulsifying agent. | दूध एक प्राकृतिक पायस (Emulsion) है जिसमें वसा जल में परिक्षिप्त होती है |
-| **Tyndall Effect Condition** | **True Solution Scattering** | Tyndall scattering occurs ONLY when colloidal particle diameter is comparable to wavelength of light ($1–1000	ext{ nm}$). **True solutions (e.g. sugar in water) CANNOT show Tyndall effect**. | टिंडल प्रभाव केवल कोलॉइडी विलयनों में दिखाई देता है, वास्तविक विलयनों (जैसे नमक का घोल) में नहीं |
-| **Reverse Osmosis Pressure** | **Natural Osmosis** | In natural osmosis, water flows from dilute to concentrated solution. In **Reverse Osmosis (RO)**, an **external pressure GREATER than osmotic pressure ($P > \pi$)** forces water from concentrated to pure water side. | रिवर्स ऑस्मोसिस में परासरण दाब से अधिक बाहरी दाब लगाकर जल को शुद्ध किया जाता है |
-| **Fractional Distillation** | **Simple Distillation** | Simple distillation is used when boiling point difference is large ($>25^\circ	ext{C}$). **Fractional distillation (with fractionating column) is REQUIRED when boiling point difference is small ($<25^\circ	ext{C}$)**. | प्रभाजी आसवन (Fractional Distillation) का प्रयोग क्वथनांकों में कम अंतर ($<25^\circ	ext{C}$) होने पर होता है |
-| **Brownian Motion Cause** | **Gravity Effect** | Brownian motion is caused by **unequal collisions of dispersion medium molecules** bombarding colloidal particles; it prevents colloidal particles from settling down under gravity. | ब्राउनी गति परिक्षेपण माध्यम के अणुओं के असमान टकराव से होती है, जो कोलॉइड को स्थिर रखती है |
-| **Dry Ice** | **Ordinary Ice** | **Dry Ice is SOLID Carbon Dioxide ($CO_2$)**. At atmospheric pressure, it sublimes directly into gaseous $CO_2$ at $-78.5^\circ	ext{C}$ without wetting surfaces; it is NOT frozen water! | शुष्क बर्फ (Dry Ice) = ठोस कार्बन डाइऑक्साइड ($CO_2$) |
-| **Camphor Purification** | **Distillation Trap** | Crude camphor contaminated with non-volatile impurities is purified strictly by **Sublimation**, not by chemical reaction or simple boiling. | अशुद्ध कपूर का शुद्धिकरण उर्ध्वपातन (Sublimation) विधि द्वारा किया जाता है |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Sublimating Chemical Roster: **C-A-N-D-I**
@@ -188,276 +173,232 @@ hide:
 - **Emulsion**: Liquid in Liquid (Milk, Cold Cream).
 - **Gel**: Liquid in Solid (Jelly, Butter, Cheese).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-What is the fourth state of matter called, and what are its primary constituent particles?
-(a) Superfluid; paired neutrons  
-(b) Plasma; ionized gas containing free electrons and positive ions  
-(c) Bose-Einstein Condensate; ground state bosons  
-(d) Liquid crystal; polarized dipoles  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Plasma is an ionized gas created at high temperatures or intense electric fields, consisting of free electrons and positive ions.
-
-**Ans: B.** Plasma; ionized gas containing free electrons and positive ions
-</details>
-
----
-
-**Q2.**
-
-Which of the following substances does NOT undergo sublimation under ambient atmospheric conditions?
-(a) Camphor  
-(b) Naphthalene  
-(c) Sodium chloride  
-(d) Dry ice (solid $CO_2$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sodium chloride ($NaCl$) is an ionic solid with high lattice energy (melting point $801^\circ\text{C}$); it does not sublime under ambient conditions.
-
-**Ans: C.** Sodium chloride
-</details>
-
----
-
-**Q3.**
-
-An aqueous solution of copper sulphate is classified as a:
-(a) Heterogeneous suspension  
-(b) Homogeneous true solution  
-(c) Colloidal sol  
-(d) Emulsion  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dissolved copper sulphate dissociates into hydrated $Cu^{2+}$ and $SO4^{2-}$ ions ($<1\text{ nm}$ in diameter).
-
-**Ans: B.** Homogeneous true solution
-</details>
-
----
-
-**Q4.**
-
-Why is molality preferred over molarity in reporting high-precision thermodynamic and colligative data?
-(a) Molality is easier to calculate in practice  
-(b) Molality depends strictly on masses, which do not change with temperature  
-(c) Molality is always numerically smaller than molarity  
-(d) Molality is only applicable to non-polar solvents  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Molality is defined as moles of solute per kilogram of solvent ($\text{mol/kg}$).
-
-**Ans: B.** Molality depends strictly on masses, which do not change with temperature
-</details>
-
----
-
-**Q5.**
-
-Which of the following $0.1\text{ m}$ aqueous solutions will exhibit the lowest freezing point?
-(a) $0.1\text{ m}$ Glucose ($C_6H_{12}O_6$)  
-(b) $0.1\text{ m}$ Sodium chloride ($NaCl$)  
-(c) $0.1\text{ m}$ Barium chloride ($BaCl_2$)  
-(d) $0.1\text{ m}$ Aluminium chloride ($AlCl_3$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Freezing point depression follows $\Delta Tf = i \cdot Kf \cdot m$.
-
-**Ans: D.** $0.1\text{ m}$ Aluminium chloride ($AlCl3$)
-</details>
-
----
-
-**Q6.**
-
-The semi-permeable membrane used in commercial Reverse Osmosis (RO) plants is commonly manufactured from:
-(a) Porous ceramic clay  
-(b) Polyamide or cellulose acetate thin-film composite  
-(c) Vulcanized rubber  
-(d) Teflon mesh  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Modern RO membranes are thin-film composite membranes made of cross-linked aromatic polyamides or cellulose acetate.
-
-**Ans: B.** Polyamide or cellulose acetate thin-film composite
-</details>
-
----
-
-**Q7.**
-
-Which of the following colloidal systems represents a "Gel"?
-(a) Shaving cream  
-(b) Milk  
-(c) Cheese  
-(d) Fog  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Cheese.
-
-**Ans: C.** Cheese
-</details>
-
----
-
-**Q8.**
-
-According to the Hardy-Schulze rule, which of the following ions will have the highest coagulating power for a negatively charged arsenious sulphide ($As_2S_3$) sol?
-(a) $Na^+$  
-(b) $Mg^{2+}$  
-(c) $Al^{3+}$  
-(d) $K^+$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** For a negatively charged sol, coagulation is effected by positive cations.
-
-**Ans: C.** $Al^{3+}$
-</details>
-
----
-
-**Q9.**
-
-If a beam of light is passed through milk diluted with water, the path of the beam becomes clearly visible. This demonstrates:
-(a) Brownian motion  
-(b) Tyndall effect  
-(c) Electrophoresis  
-(d) Dialysis  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Diluted milk contains colloidal fat droplets and protein micelles that scatter visible light photons, illuminating the beam's path.
-
-**Ans: B.** Tyndall effect
-</details>
-
----
-
-**Q10.**
-
-The process of separating butter from curd or cream from milk in a domestic setting relies on:
-(a) Simple filtration  
-(b) Centrifugation  
-(c) Fractional distillation  
-(d) Sedimentation under normal gravity  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Centrifugation spins the liquid at high angular velocities.
-
-**Ans: B.** Centrifugation
-</details>
-
----
-
-**Q11.**
-
-Which of the following is an irreversible chemical change?
-(a) Glowing of an electric tungsten filament  
-(b) Rusting of an iron anchor  
-(c) Sublimation of iodine crystals  
-(d) Condensation of steam on a cold mirror  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rusting of iron forms hydrated ferric oxide ($Fe2O3 \cdot xH2O$) through an electrochemical redox reaction, which cannot be reversed by simple physical cooling or heating.
-
-**Ans: B.** Rusting of an iron anchor
-</details>
-
----
-
-**Q12.**
-
-What happens to the boiling point of pure water inside a vacuum chamber when the pressure is reduced to $0.1\text{ atm}$?
-(a) It rises above $100^\circ\text{C}$  
-(b) It drops significantly below $100^\circ\text{C}$  
-(c) It remains exactly at $100^\circ\text{C}$  
-(d) Water freezes and boils simultaneously at $500^\circ\text{C}$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Boiling occurs when a liquid's vapor pressure equals external pressure.
-
-**Ans: B.** It drops significantly below $100^\circ\text{C}$
-</details>
-
----
-
-**Q13.**
-
-Which of the following mixtures can be cleanly separated using a simple separating funnel?
-(a) Ethanol and water  
-(b) Kerosene and water  
-(c) Acetone and water  
-(d) Salt and water  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** A separating funnel is used to separate two immiscible liquids that form distinct layers based on density.
-
-**Ans: B.** Kerosene and water
-</details>
-
----
-
-**Q14.**
-
-The concentration of toxic heavy metals such as arsenic or lead in drinking water is typically measured in:
-(a) Molarity ($M$)  
-(b) Molality ($m$)  
-(c) Parts per million (ppm) or parts per billion (ppb)  
-(d) Normality ($N$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Trace concentrations of contaminants in water are measured in parts per million ($\text{ppm} = 1\text{ mg/L}$) or parts per billion ($\text{ppb} = 1\text{ }\mu\text{g/L}$).
-
-**Ans: C.** Parts per million (ppm) or parts per billion (ppb)
-</details>
-
----
-
-**Q15.**
-
-Which of the following statements about Bose-Einstein Condensate is FALSE?
-(a) It was theoretically predicted by Satyendra Nath Bose and Albert Einstein.  
-(b) It is achieved by heating gases to stellar core temperatures.  
-(c) It was experimentally realized in 1995 using rubidium and sodium atoms.  
-(d) In this state, atoms occupy the lowest available quantum ground state.  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement (b) is false: BEC is achieved by cooling bosonic gases to near absolute zero ($< 100\text{ nK}$), not by heating them.
-
-**Ans: B.** It is achieved by heating gases to stellar core temperatures
-</details>
-
----
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">What is the fourth state of matter called, and what are its primary constituent particles?<br>(a) Superfluid; paired neutrons  <br>(b) Plasma; ionized gas containing free electrons and positive ions  <br>(c) Bose-Einstein Condensate; ground state bosons  <br>(d) Liquid crystal; polarized dipoles</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Plasma is an ionized gas created at high temperatures or intense electric fields, consisting of free electrons and positive ions.
+
+**Ans: B.** Plasma; ionized gas containing free electrons and positive ions</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following substances does NOT undergo sublimation under ambient atmospheric conditions?<br>(a) Camphor  <br>(b) Naphthalene  <br>(c) Sodium chloride  <br>(d) Dry ice (solid $CO_2$)</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Sodium chloride ($NaCl$) is an ionic solid with high lattice energy (melting point $801^\circ\text{C}$); it does not sublime under ambient conditions.
+
+**Ans: C.** Sodium chloride</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">An aqueous solution of copper sulphate is classified as a:<br>(a) Heterogeneous suspension  <br>(b) Homogeneous true solution  <br>(c) Colloidal sol  <br>(d) Emulsion</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dissolved copper sulphate dissociates into hydrated $Cu^{2+}$ and $SO4^{2-}$ ions ($<1\text{ nm}$ in diameter).
+
+**Ans: B.** Homogeneous true solution</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Why is molality preferred over molarity in reporting high-precision thermodynamic and colligative data?<br>(a) Molality is easier to calculate in practice  <br>(b) Molality depends strictly on masses, which do not change with temperature  <br>(c) Molality is always numerically smaller than molarity  <br>(d) Molality is only applicable to non-polar solvents</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Molality is defined as moles of solute per kilogram of solvent ($\text{mol/kg}$).
+
+**Ans: B.** Molality depends strictly on masses, which do not change with temperature</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following $0.1\text{ m}$ aqueous solutions will exhibit the lowest freezing point?<br>(a) $0.1\text{ m}$ Glucose ($C_6H_{12}O_6$)  <br>(b) $0.1\text{ m}$ Sodium chloride ($NaCl$)  <br>(c) $0.1\text{ m}$ Barium chloride ($BaCl_2$)  <br>(d) $0.1\text{ m}$ Aluminium chloride ($AlCl_3$)</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Freezing point depression follows $\Delta Tf = i \cdot Kf \cdot m$.
+
+**Ans: D.** $0.1\text{ m}$ Aluminium chloride ($AlCl3$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The semi-permeable membrane used in commercial Reverse Osmosis (RO) plants is commonly manufactured from:<br>(a) Porous ceramic clay  <br>(b) Polyamide or cellulose acetate thin-film composite  <br>(c) Vulcanized rubber  <br>(d) Teflon mesh</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Modern RO membranes are thin-film composite membranes made of cross-linked aromatic polyamides or cellulose acetate.
+
+**Ans: B.** Polyamide or cellulose acetate thin-film composite</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following colloidal systems represents a "Gel"?<br>(a) Shaving cream  <br>(b) Milk  <br>(c) Cheese  <br>(d) Fog</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Cheese.
+
+**Ans: C.** Cheese</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">According to the Hardy-Schulze rule, which of the following ions will have the highest coagulating power for a negatively charged arsenious sulphide ($As_2S_3$) sol?<br>(a) $Na^+$  <br>(b) $Mg^{2+}$  <br>(c) $Al^{3+}$  <br>(d) $K^+$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** For a negatively charged sol, coagulation is effected by positive cations.
+
+**Ans: C.** $Al^{3+}$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">If a beam of light is passed through milk diluted with water, the path of the beam becomes clearly visible. This demonstrates:<br>(a) Brownian motion  <br>(b) Tyndall effect  <br>(c) Electrophoresis  <br>(d) Dialysis</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Diluted milk contains colloidal fat droplets and protein micelles that scatter visible light photons, illuminating the beam's path.
+
+**Ans: B.** Tyndall effect</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The process of separating butter from curd or cream from milk in a domestic setting relies on:<br>(a) Simple filtration  <br>(b) Centrifugation  <br>(c) Fractional distillation  <br>(d) Sedimentation under normal gravity</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Centrifugation spins the liquid at high angular velocities.
+
+**Ans: B.** Centrifugation</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following is an irreversible chemical change?<br>(a) Glowing of an electric tungsten filament  <br>(b) Rusting of an iron anchor  <br>(c) Sublimation of iodine crystals  <br>(d) Condensation of steam on a cold mirror</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rusting of iron forms hydrated ferric oxide ($Fe2O3 \cdot xH2O$) through an electrochemical redox reaction, which cannot be reversed by simple physical cooling or heating.
+
+**Ans: B.** Rusting of an iron anchor</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">What happens to the boiling point of pure water inside a vacuum chamber when the pressure is reduced to $0.1\text{ atm}$?<br>(a) It rises above $100^\circ\text{C}$  <br>(b) It drops significantly below $100^\circ\text{C}$  <br>(c) It remains exactly at $100^\circ\text{C}$  <br>(d) Water freezes and boils simultaneously at $500^\circ\text{C}$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Boiling occurs when a liquid's vapor pressure equals external pressure.
+
+**Ans: B.** It drops significantly below $100^\circ\text{C}$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following mixtures can be cleanly separated using a simple separating funnel?<br>(a) Ethanol and water  <br>(b) Kerosene and water  <br>(c) Acetone and water  <br>(d) Salt and water</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** A separating funnel is used to separate two immiscible liquids that form distinct layers based on density.
+
+**Ans: B.** Kerosene and water</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The concentration of toxic heavy metals such as arsenic or lead in drinking water is typically measured in:<br>(a) Molarity ($M$)  <br>(b) Molality ($m$)  <br>(c) Parts per million (ppm) or parts per billion (ppb)  <br>(d) Normality ($N$)</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Trace concentrations of contaminants in water are measured in parts per million ($\text{ppm} = 1\text{ mg/L}$) or parts per billion ($\text{ppb} = 1\text{ }\mu\text{g/L}$).
+
+**Ans: C.** Parts per million (ppm) or parts per billion (ppb)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements about Bose-Einstein Condensate is FALSE?<br>(a) It was theoretically predicted by Satyendra Nath Bose and Albert Einstein.  <br>(b) It is achieved by heating gases to stellar core temperatures.  <br>(c) It was experimentally realized in 1995 using rubidium and sodium atoms.  <br>(d) In this state, atoms occupy the lowest available quantum ground state.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement (b) is false: BEC is achieved by cooling bosonic gases to near absolute zero ($< 100\text{ nK}$), not by heating them.
+
+**Ans: B.** It is achieved by heating gases to stellar core temperatures</div>
+  </div>
+</div>

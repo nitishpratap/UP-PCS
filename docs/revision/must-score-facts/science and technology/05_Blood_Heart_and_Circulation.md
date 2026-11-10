@@ -202,21 +202,6 @@ hide:
 | **Stethoscope** | Invented by René Laennec (1816) | Auscultates heart sounds: **'LUB'** (closure of AV tricuspid/bicuspid valves) & **'DUB'** (closure of semilunar valves)|
 | **Electrocardiogram (ECG)**| Willem Einthoven (1903) | **P wave**: Atrial depolarization; **QRS complex**: Ventricular depolarization; **T wave**: Ventricular repolarization |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Universal Donor ($O	ext{ }Rh^-$)**| **Universal Recipient ($AB	ext{ }Rh^+$)**| **$O	ext{ }Rh^-$** is the true universal donor because its RBCs lack A, B, and Rh antigens. **$AB	ext{ }Rh^+$** is the universal recipient because its plasma lacks Anti-A, Anti-B, and Anti-Rh antibodies. | सर्वदाता = $O	ext{ }Rh^-$ (एंटीजन रहित); सर्वग्राही = $AB	ext{ }Rh^+$ (एंटीबॉडी रहित) |
-| **Pulmonary Artery** | **Pulmonary Vein** | Unlike systemic arteries, the **Pulmonary Artery carries deoxygenated blood** from right ventricle to lungs. Unlike systemic veins, the **Pulmonary Vein carries oxygenated blood** from lungs to left atrium. | फुफ्फुस धमनी = अशुद्ध रक्त (फेफड़ों को); फुफ्फुस शिरा = शुद्ध रक्त (हृदय को) |
-| **SA Node (Pacemaker)** | **AV Node** | The **SA Node** (in upper right atrium) is the primary **pacemaker** generating impulses. The **AV Node** acts as a relay station / pace-setter delaying impulses before transmitting to the Bundle of His. | पेसमेकर = एसए नोड (SA Node); गति नियंत्रक = एवी नोड (AV Node) |
-| **First Heart Sound (LUB)**| **Second Heart Sound (DUB)**| **LUB** is low-pitched, longer duration; caused by closure of **atrioventricular (Tricuspid & Bicuspid/Mitral) valves**. **DUB** is high-pitched, shorter; caused by closure of **Semilunar valves** (aortic & pulmonary). | प्रथम ध्वनि (LUB) = त्रिवलनी/द्विवलनी कपाट बंद होना; द्वितीय ध्वनि (DUB) = अर्धचंद्राकार कपाट बंद होना |
-| **Blood Plasma** | **Blood Serum** | **Plasma** is whole liquid blood minus blood cells (contains clotting factors including fibrinogen). **Serum = Plasma minus Fibrinogen (clotting factors)**; serum cannot clot. | सीरम = प्लाज्मा माइनस फाइब्रिनोजेन (रक्त स्कंदन कारक रहित) |
-| **Artery Wall** | **Vein Wall** | Arteries have thick, highly muscular, elastic walls with a narrow lumen and **NO internal valves** (high pressure). Veins have thinner walls, wide lumen, and **possess internal semilunar valves** to prevent backflow. | धमनी = मोटी दीवार, कपाट रहित; शिरा = पतली दीवार, कपाट (Valves) युक्त |
-| **Erythroblastosis Fetalis**| **Rh Compatibility Pairing**| Occurs strictly when an **$Rh^-	ext{ mother}$** carries an **$Rh^+	ext{ fetus}$** during a second or subsequent pregnancy; maternal anti-Rh antibodies cross placenta and destroy fetal RBCs. Prevented by **Rho(D) immune globulin (RhoGAM)**. | गर्भ रक्ताणुकोरकता = $Rh^-$ माता तथा $Rh^+$ भ्रूण का संयोजन |
-| **Heparin** | **Histamine** | Both secreted by basophils and mast cells; but **Heparin is a natural anticoagulant** preventing intravascular clotting, while **Histamine is a vasodilator** mediating allergic inflammation. | हेपरिन = प्राकृतिक थक्कारोधी (Anticoagulant); हिस्टामिन = वाहिकाविस्फारक |
-| **Blood Clotting Ion** | **Iron in Hemoglobin** | **Calcium ions ($Ca^{2+}$, Factor IV)** are indispensable for the blood clotting cascade. **Iron ($Fe^{2+}$, Ferrous ion)** is the metallic core of hemoglobin responsible for oxygen transport. | रक्त का थक्का जमने हेतु आवश्यक आयन = कैल्शियम ($Ca^{2+}$); हीमोग्लोबिन में = आयरन ($Fe^{2+}$) |
-| **Mature Mammalian RBCs** | **Camel / Llama RBC Exception**| Mature human and mammalian RBCs are circular, biconcave, and **enucleated (lack nucleus, mitochondria, ER)** to maximize hemoglobin space. **Camels and Llamas are exceptions: their RBCs are oval and nucleated**. | स्तनधारियों के परिपक्व RBC केन्द्रक रहित होते हैं; अपवाद: ऊंट व लामा (केन्द्रक युक्त) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Relative Abundance of WBC Types: **NLMEB**
@@ -242,264 +227,272 @@ hide:
 - **QRS complex**: Ventricular depolarization (powerful ventricular contraction).
 - **T wave**: Ventricular repolarization (ventricles relax).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to blood composition, which of the following statements is/are correct?
-1. Mature mammalian red blood cells lack nuclei and mitochondria.
-2. Blood serum is defined as blood plasma from which fibrinogen and clotting factors have been removed.
-3. The normal lifespan of a human erythrocyte is approximately 120 days.
-
-Select the correct answer from the code given below:  
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** All three statements are factually accurate: mammalian RBCs lose nuclei and mitochondria to maximize oxygen payload; serum equals plasma minus clotting proteins; and human RBCs circulate for ~120 days before splenic des…
-
-**Ans: D.** 1, 2 and 3
-</details>
-
-**Q2.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-Assertion (A): Blood group O negative individuals are widely recognized as universal donors for erythrocyte transfusions.  
-Reason (R): Erythrocytes of blood group O negative individuals lack antigen A, antigen B, and the Rh antigen on their cell membranes.  
-
-Select the correct answer from the code given below:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Because $O^-$ erythrocytes carry no A, B, or Rh surface antigens, recipient antibodies cannot agglutinate or lyse them, making $O^-$ red cells universally safe for transfusion.
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q3.**
-
-Match List-I with List-II:
-
-| List-I (Heart Structure / Chamber) | List-II (Specific Physiological Valve / Vessel) |
-|---|---|
-| A. Right Atrioventricular Orifice | 1. Mitral (Bicuspid) Valve |
-| B. Left Atrioventricular Orifice | 2. Tricuspid Valve |
-| C. Exit of Right Ventricle | 3. Ascending Aorta (Aortic Semilunar) |
-| D. Exit of Left Ventricle | 4. Pulmonary Artery (Pulmonary Semilunar) |
-
-Select the correct answer from the code given below:  
-A. A-2, B-1, C-4, D-3  
-B. A-1, B-2, C-4, D-3  
-C. A-2, B-1, C-3, D-4  
-D. A-4, B-3, C-2, D-1  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Right AV orifice = Tricuspid valve (A-2).
-
-**Ans: A.** A-2, B-1, C-4, D-3
-</details>
-
-**Q4.**
-
-The natural pacemaker of the human heart, responsible for initiating spontaneous rhythmic cardiac impulses, is the:
-A. Atrioventricular (AV) Node  
-B. Sinoatrial (SA) Node  
-C. Bundle of His  
-D. Purkinje Network  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The SA node in the right atrium exhibits the highest intrinsic rate of automaticity (70–75 action potentials/min) and dictates the pace of the heartbeat.
-
-**Ans: B.** Sinoatrial / SA Node
-</details>
-
-**Q5.**
-
-The first heart sound ("LUBB") heard during auscultation is produced by the:
-A. Closure of semilunar valves at the onset of ventricular diastole  
-B. Closure of atrioventricular valves (tricuspid and bicuspid) at the onset of ventricular systole  
-C. Rush of blood through the aorta  
-D. Contraction of the ventricular myocardium  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The first heart sound "Lubb" is generated by the sudden closure of the tricuspid and bicuspid (mitral) valves when intraventricular pressure rises at the start of systole.
-
-**Ans: B.** Closure of atrioventricular valves at the onset of ventricular systole
-</details>
-
-**Q6.**
-
-Which of the following blood vessels carries fully oxygenated blood into the left atrium of the heart?
-A. Superior Vena Cava  
-B. Pulmonary Artery  
-C. Pulmonary Veins  
-D. Hepatic Portal Vein  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The four pulmonary veins are unique among veins because they transport oxygenated blood from the alveolar capillaries of the lungs into the left atrium.
-
-**Ans: C.** Pulmonary Veins
-</details>
-
-**Q7.**
-
-Which of the following mineral ions plays an indispensable role as Factor IV in the blood coagulation cascade?
-A. Iron ($Fe^{2+}$)  
-B. Calcium ($Ca^{2+}$)  
-C. Magnesium ($Mg^{2+}$)  
-D. Potassium ($K^+$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Calcium ions ($Ca^{2+}$, Blood Clotting Factor IV) are essential for prothrombinase formation, conversion of prothrombin to thrombin, and fibrin cross-linking.
-
-**Ans: B.** Calcium / $Ca^{2+}$
-</details>
-
-**Q8.**
-
-In a standard clinical Electrocardiogram (ECG), ventricular depolarization triggering ventricular contraction is represented by the:
-A. P Wave  
-B. QRS Complex  
-C. T Wave  
-D. PR Segment  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The QRS complex represents the rapid electrical depolarization of the ventricular myocardium preceding ventricular systole.
-
-**Ans: B.** QRS Complex
-</details>
-
-**Q9.**
-
-Erythroblastosis Fetalis can occur in a pregnancy where the parental Rh blood types are:
-A. Rh-positive Mother and Rh-negative Father  
-B. Rh-negative Mother and Rh-positive Father  
-C. Both Mother and Father Rh-negative  
-D. Both Mother and Father Rh-positive  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** If the mother is Rh-negative and the father is Rh-positive, the fetus inherits the Rh-positive gene, sensitizing the mother during delivery to produce anti-Rh antibodies that threaten subsequent Rh-positive pregnancies.
-
-**Ans: B.** Rh-negative Mother and Rh-positive Father
-</details>
-
-**Q10.**
-
-The unique rare blood phenotype that lacks the universal precursor H-antigen and was first discovered in India is known as the:
-A. Madras blood group  
-B. Bengal blood group  
-C. Bombay blood group  
-D. Delhi blood group  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Bombay blood group ($hh$ phenotype), discovered by Dr.
-
-**Ans: C.** Bombay blood group
-</details>
-
-**Q11.**
-
-Which blood cell type plays the central role in cell-mediated adaptive immunity and matures within the thymus gland?
-A. B-Lymphocyte  
-B. T-Lymphocyte  
-C. Monocyte  
-D. Neutrophil  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** T-lymphocytes originate in bone marrow, migrate to the thymus for immunological education/maturation, and mediate cellular immunity.
-
-**Ans: B.** T-Lymphocyte
-</details>
-
-**Q12.**
-
-What is the duration of one complete cardiac cycle in a healthy adult human resting at 72 beats per minute?
-A. 0.1 second  
-B. 0.3 second  
-C. 0.8 second  
-D. 1.2 seconds  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** At 72 beats/min, each cardiac cycle takes $\frac{60}{72} \approx 0.8\text{ seconds}$ (Atrial systole 0.1s + Ventricular systole 0.3s + Joint diastole 0.4s).
-
-**Ans: C.** 0.8 second
-</details>
-
-**Q13.**
-
-An individual with a persistent resting arterial blood pressure reading of $150/95\text{ mm Hg}$ is clinically diagnosed with:
-A. Hypotension  
-B. Hypertension  
-C. Bradycardia  
-D. Arteriosclerosis obliterans  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Persistent resting blood pressure exceeding $140/90\text{ mm Hg}$ defines clinical hypertension.
-
-**Ans: B.** Hypertension
-</details>
-
-**Q14.**
-
-The largest mass of lymphatic tissue in the human body, serving as both a filter for blood and the "graveyard of RBCs", is the:
-A. Liver  
-B. Thymus  
-C. Spleen  
-D. Appendix  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Spleen.
-
-**Ans: C.** Spleen
-</details>
-
-**Q15.**
-
-Which blood vessel collects nutrient-rich venous blood from the stomach and intestines and transports it directly to the liver?
-A. Renal vein  
-B. Hepatic artery  
-C. Hepatic portal vein  
-D. Inferior vena cava  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The hepatic portal vein carries venous blood containing newly absorbed gastrointestinal nutrients directly into the liver sinusoids.
-
-**Ans: C.** Hepatic portal vein
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to blood composition, which of the following statements is/are correct?<br>1. Mature mammalian red blood cells lack nuclei and mitochondria.<br>2. Blood serum is defined as blood plasma from which fibrinogen and clotting factors have been removed.<br>3. The normal lifespan of a human erythrocyte is approximately 120 days.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** All three statements are factually accurate: mammalian RBCs lose nuclei and mitochondria to maximize oxygen payload; serum equals plasma minus clotting proteins; and human RBCs circulate for ~120 days before splenic des…
+
+**Ans: D.** 1, 2 and 3</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br>Assertion (A): Blood group O negative individuals are widely recognized as universal donors for erythrocyte transfusions.  <br>Reason (R): Erythrocytes of blood group O negative individuals lack antigen A, antigen B, and the Rh antigen on their cell membranes.  <br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Because $O^-$ erythrocytes carry no A, B, or Rh surface antigens, recipient antibodies cannot agglutinate or lyse them, making $O^-$ red cells universally safe for transfusion.
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Heart Structure / Chamber)</th><th>List-II (Specific Physiological Valve / Vessel)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Right Atrioventricular Orifice</td><td><span class="match-key">1</span> Mitral (Bicuspid) Valve</td></tr>
+      <tr><td><span class="match-key">B</span> Left Atrioventricular Orifice</td><td><span class="match-key">2</span> Tricuspid Valve</td></tr>
+      <tr><td><span class="match-key">C</span> Exit of Right Ventricle</td><td><span class="match-key">3</span> Ascending Aorta (Aortic Semilunar)</td></tr>
+      <tr><td><span class="match-key">D</span> Exit of Left Ventricle</td><td><span class="match-key">4</span> Pulmonary Artery (Pulmonary Semilunar)</td></tr>
+  </tbody>
+</table><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-3, C-2, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Right AV orifice = Tricuspid valve (A-2).
+
+**Ans: A.** A-2, B-1, C-4, D-3</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The natural pacemaker of the human heart, responsible for initiating spontaneous rhythmic cardiac impulses, is the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Atrioventricular (AV) Node</div><div class="pyq-opt"><span class="opt-letter">B</span> Sinoatrial (SA) Node</div><div class="pyq-opt"><span class="opt-letter">C</span> Bundle of His</div><div class="pyq-opt"><span class="opt-letter">D</span> Purkinje Network</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The SA node in the right atrium exhibits the highest intrinsic rate of automaticity (70–75 action potentials/min) and dictates the pace of the heartbeat.
+
+**Ans: B.** Sinoatrial / SA Node</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The first heart sound ("LUBB") heard during auscultation is produced by the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Closure of semilunar valves at the onset of ventricular diastole</div><div class="pyq-opt"><span class="opt-letter">B</span> Closure of atrioventricular valves (tricuspid and bicuspid) at the onset of ventricular systole</div><div class="pyq-opt"><span class="opt-letter">C</span> Rush of blood through the aorta</div><div class="pyq-opt"><span class="opt-letter">D</span> Contraction of the ventricular myocardium</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The first heart sound "Lubb" is generated by the sudden closure of the tricuspid and bicuspid (mitral) valves when intraventricular pressure rises at the start of systole.
+
+**Ans: B.** Closure of atrioventricular valves at the onset of ventricular systole</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following blood vessels carries fully oxygenated blood into the left atrium of the heart?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Superior Vena Cava</div><div class="pyq-opt"><span class="opt-letter">B</span> Pulmonary Artery</div><div class="pyq-opt"><span class="opt-letter">C</span> Pulmonary Veins</div><div class="pyq-opt"><span class="opt-letter">D</span> Hepatic Portal Vein</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The four pulmonary veins are unique among veins because they transport oxygenated blood from the alveolar capillaries of the lungs into the left atrium.
+
+**Ans: C.** Pulmonary Veins</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following mineral ions plays an indispensable role as Factor IV in the blood coagulation cascade?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Iron ($Fe^{2+}$)</div><div class="pyq-opt"><span class="opt-letter">B</span> Calcium ($Ca^{2+}$)</div><div class="pyq-opt"><span class="opt-letter">C</span> Magnesium ($Mg^{2+}$)</div><div class="pyq-opt"><span class="opt-letter">D</span> Potassium ($K^+$)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Calcium ions ($Ca^{2+}$, Blood Clotting Factor IV) are essential for prothrombinase formation, conversion of prothrombin to thrombin, and fibrin cross-linking.
+
+**Ans: B.** Calcium / $Ca^{2+}$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">In a standard clinical Electrocardiogram (ECG), ventricular depolarization triggering ventricular contraction is represented by the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> P Wave</div><div class="pyq-opt"><span class="opt-letter">B</span> QRS Complex</div><div class="pyq-opt"><span class="opt-letter">C</span> T Wave</div><div class="pyq-opt"><span class="opt-letter">D</span> PR Segment</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The QRS complex represents the rapid electrical depolarization of the ventricular myocardium preceding ventricular systole.
+
+**Ans: B.** QRS Complex</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Erythroblastosis Fetalis can occur in a pregnancy where the parental Rh blood types are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rh-positive Mother and Rh-negative Father</div><div class="pyq-opt"><span class="opt-letter">B</span> Rh-negative Mother and Rh-positive Father</div><div class="pyq-opt"><span class="opt-letter">C</span> Both Mother and Father Rh-negative</div><div class="pyq-opt"><span class="opt-letter">D</span> Both Mother and Father Rh-positive</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** If the mother is Rh-negative and the father is Rh-positive, the fetus inherits the Rh-positive gene, sensitizing the mother during delivery to produce anti-Rh antibodies that threaten subsequent Rh-positive pregnancies.
+
+**Ans: B.** Rh-negative Mother and Rh-positive Father</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The unique rare blood phenotype that lacks the universal precursor H-antigen and was first discovered in India is known as the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Madras blood group</div><div class="pyq-opt"><span class="opt-letter">B</span> Bengal blood group</div><div class="pyq-opt"><span class="opt-letter">C</span> Bombay blood group</div><div class="pyq-opt"><span class="opt-letter">D</span> Delhi blood group</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Bombay blood group ($hh$ phenotype), discovered by Dr.
+
+**Ans: C.** Bombay blood group</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which blood cell type plays the central role in cell-mediated adaptive immunity and matures within the thymus gland?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> B-Lymphocyte</div><div class="pyq-opt"><span class="opt-letter">B</span> T-Lymphocyte</div><div class="pyq-opt"><span class="opt-letter">C</span> Monocyte</div><div class="pyq-opt"><span class="opt-letter">D</span> Neutrophil</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** T-lymphocytes originate in bone marrow, migrate to the thymus for immunological education/maturation, and mediate cellular immunity.
+
+**Ans: B.** T-Lymphocyte</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">What is the duration of one complete cardiac cycle in a healthy adult human resting at 72 beats per minute?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 0.1 second</div><div class="pyq-opt"><span class="opt-letter">B</span> 0.3 second</div><div class="pyq-opt"><span class="opt-letter">C</span> 0.8 second</div><div class="pyq-opt"><span class="opt-letter">D</span> 1.2 seconds</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** At 72 beats/min, each cardiac cycle takes $\frac{60}{72} \approx 0.8\text{ seconds}$ (Atrial systole 0.1s + Ventricular systole 0.3s + Joint diastole 0.4s).
+
+**Ans: C.** 0.8 second</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">An individual with a persistent resting arterial blood pressure reading of $150/95\text{ mm Hg}$ is clinically diagnosed with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hypotension</div><div class="pyq-opt"><span class="opt-letter">B</span> Hypertension</div><div class="pyq-opt"><span class="opt-letter">C</span> Bradycardia</div><div class="pyq-opt"><span class="opt-letter">D</span> Arteriosclerosis obliterans</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Persistent resting blood pressure exceeding $140/90\text{ mm Hg}$ defines clinical hypertension.
+
+**Ans: B.** Hypertension</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The largest mass of lymphatic tissue in the human body, serving as both a filter for blood and the "graveyard of RBCs", is the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Liver</div><div class="pyq-opt"><span class="opt-letter">B</span> Thymus</div><div class="pyq-opt"><span class="opt-letter">C</span> Spleen</div><div class="pyq-opt"><span class="opt-letter">D</span> Appendix</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Spleen.
+
+**Ans: C.** Spleen</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which blood vessel collects nutrient-rich venous blood from the stomach and intestines and transports it directly to the liver?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Renal vein</div><div class="pyq-opt"><span class="opt-letter">B</span> Hepatic artery</div><div class="pyq-opt"><span class="opt-letter">C</span> Hepatic portal vein</div><div class="pyq-opt"><span class="opt-letter">D</span> Inferior vena cava</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The hepatic portal vein carries venous blood containing newly absorbed gastrointestinal nutrients directly into the liver sinusoids.
+
+**Ans: C.** Hepatic portal vein</div>
+  </div>
+</div>

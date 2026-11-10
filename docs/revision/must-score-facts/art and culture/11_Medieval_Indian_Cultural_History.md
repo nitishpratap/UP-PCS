@@ -189,21 +189,6 @@ hide:
 | **Francois Bernier** | France | 1656–1668 (Shah Jahan / Aurangzeb)| **Travels in the Mogul Empire** | Physician; described War of Succession, crown land ownership |
 | **Jean-Baptiste Tavernier**| France | 1630–1668 (Shah Jahan / Aurangzeb)| *Six Voyages* | Jeweler; detailed Golconda diamond mines & Peacock Throne |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Diwan-i-Arz** | **Diwan-i-Insha** | Diwan-i-Arz = **Military department** created by Balban (*Ariz-i-Mamalik*); Diwan-i-Insha = **Royal correspondence department** (*Dabir-i-Khas*) | दीवान-ए-अर्ज (सैन्य विभाग / बलबन) / दीवान-ए-इंशा (शाही पत्राचार) |
-| **Diwan-i-Mustakhraj** | **Diwan-i-Kohi** | Mustakhraj = **Revenue arrears recovery** created by Alauddin Khalji; Kohi = **Agricultural expansion & loans** created by Muhammad bin Tughlaq | मुस्तखराज (अलाउद्दीन / बकाया वसूली) / कोही (मुहम्मद तुगलक / कृषि विकास) |
-| **Zat Rank** | **Sawar Rank** | Zat = Indicates personal status, court precedence, and **salary scale**; Sawar = Indicates the **cavalry contingent** the mansabdar must maintain | ज़ात (व्यक्तिगत पद व वेतन) / सवार (घोड़ों व घुड़सवारों की संख्या) |
-| **Du-aspa Sih-aspa** | **Mansabdari Introduction** | Mansabdari was introduced by **Akbar** (1571); Du-aspa Sih-aspa modification was introduced by **Jahangir** | मनसबदारी (अकबर 1571) / दो-अस्पा सिह-अस्पा (जहांगीर) |
-| **Mahzarnama (1579)** | **Din-i-Ilahi (1582)** | Mahzarnama = Legal decree granting Akbar **supreme judicial/theological arbitral power**; Din-i-Ilahi = Universal ethical-religious code of conduct | महज़रनामा (धार्मिक सर्वोच्चता अध्यादेश) / दीन-ए-इलाही (नैतिक आचार संहिता) |
-| **Tuzuk-i-Baburi** | **Akbarnama** | Tuzuk-i-Baburi = Written in **Chagatai Turkish by Babur** himself; Akbarnama = Written in **Persian by Abul Fazl** in 3 volumes | तुज़ुक-ए-बाबरी (तुर्की / बाबर) / अकबरनामा (फारसी / अबुल फज़ल) |
-| **Razmnama** | **Hamzanama** | Razmnama = Persian translation of the **Mahabharata** (Badauni/Faizi); Hamzanama = 1400 giant cloth paintings of the **exploits of Amir Hamza** | रज़्मनामा (महाभारत फारसी अनुवाद) / हम्ज़ानामा (अमीर हम्ज़ा की दास्तान) |
-| **Hawkins** | **Sir Thomas Roe** | Hawkins = Merchant envoy (1608; received *English Khan* title); Roe = **Official ambassador of British Crown** (1615; secured formal trade treaty) | हॉकिन्स (व्यापारी दूत, 1608) / थॉमस रो (शाही राजदूत, 1615) |
-| **Polaj Land** | **Parauti Land** | Polaj = Cultivated **every year without rest**; Parauti = Left fallow for **1 to 2 years** to regain fertility | पोलज (प्रतिवर्ष खेती) / परौती (1-2 वर्ष परती) |
-| **Badauni** | **Abul Fazl** | Abul Fazl = Akbar’s liberal court biographer (*Akbarnama*); Badauni = Orthodox orthodox critic of Akbar’s religious policies (*Muntakhab-ut-Tawarikh*) | अबुल फज़ल (अकबर का प्रशंसक व जीवनीकार) / बदायूंनी (रूढ़िवादी आलोचक) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Four Sultanate Central Ministries — Mnemonic: `W-A-I-R` (वज़ीर आया इंशा रसूल)
@@ -226,274 +211,253 @@ hide:
 - **1582:** **D**in-i-Ilahi declared
 - **1601:** **B**uland Darwaza built for Gujarat victory
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.
-Reason (R): Turki was the official language of the Mughal Court.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Memoir = Turki. Court = **Persian**.
-
-</details>
-
-**Q2.**
-
-Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.
-Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Cause = **Gujarat victory**, not Jahangir’s birth.
-
-</details>
-
-**Q3.**
-
-Match List-I with List-II.
-
-**List-I (Emperor)**
-A. Babur
-B. Humayun
-C. Jahangir
-D. Shah Jahan
-
-**List-II (City of tomb)**
-1. Agra
-2. Lahore
-3. Delhi
-4. Kabul
-
-A. 4 3 2 1
-B. 3 4 1 2
-C. 3 4 2 1
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 4 3 2 1.**
-
-</details>
-
-**Q4.**
-
-Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.
-Reason (R): The Jagirs comprised the land under the direct control of the State.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Direct control = **Khalsa**, not jagir.
-
-</details>
-
-**Q5.**
-
-Consider the following statements with reference to Bairam Khan:
-
-1. Akbar gave the title of Khan-i-Khana to Bairam Khan.
-2. This title was not given at the time of appointment of Bairam Khan as Vazir of Empire.
-
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 2.Humayun** conferred Khan-i-Khanan.
-
-</details>
-
-**Q6.**
-
-Arrange in chronological order:
-
-1. Murder of Abul Fazl
-2. Death of Sheikh Mubarak
-3. Death of Faizi
-4. Death of Daniyal
-
-A. 2, 1, 4, 3
-B. 3, 2, 1, 4
-C. 2, 3, 1, 4
-D. 2, 4, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Faizi 1595 → Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604.
-
-</details>
-
-**Q7.**
-
-Which of the following is **not** correctly matched?
-
-A. Iltutmish — Father of Razia
-B. Shah Turkan — Wife of Iltutmish
-C. Hamida Banu Begum — Wife of Alauddin Khilji
-D. Gulbadan Begum — Daughter of Babur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Hamida Banu = Humayun’s wife.
-
-</details>
-
-**Q8.**
-
-Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
-
-A. Azizuddin Khan
-B. Talib Amuli
-C. Mulla Abdul Baqi
-D. Mirza Muhammad Ali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Azizuddin Khan.**
-
-</details>
-
-**Q9.**
-
-Who among the following translated Chintamani Bhatt's Sanskrit text *Suka Saptati* into Persian and gave it the title *Tutinama*?
-
-A. Khwaja Ziya-ud-din Nakhshabi
-B. Abdur Razzak
-C. Shihabuddin-al-Umari
-D. Amir Khusro
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Nakhshabi.**
-
-</details>
-
-**Q10.**
-
-Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi?
-
-A. Shah Jahan
-B. Jahangir
-C. Akbar
-D. Humayun
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Shah Jahan.**
-
-</details>
-
-**Q11.**
-
-Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.
-Reason (R): As in Sher Shah's currency, the chief copper coin of Akbar's time was the Dam.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q12.**
-
-Which one of the following is NOT the characteristics of Iqta System?
-
-A. Iqta was a revenue collection system
-B. Siyasatnama was the source of information for Iqta System
-C. Revenue from Iqta was directly deposited in Sultan's account
-D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q13.**
-
-Which of the following is NOT correctly matched?
-
-A. Tabaqat-i-Nasiri — Minhaj-us-Siraj
-B. Tarikh-i-Firozshahi — Shams-i-Siraj Afif
-C. Tughlaqnama — Ibn Battuta
-D. Humayunnama — Gulbadan Begam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** *Tughlaqnama* = **Amir Khusrau**.
-
-</details>
-
-**Q14.**
-
-Who among the following kings had given patronage to Tansen before Akbar?
-
-A. Raja Ramchandra Singh of Bhata
-B. Rajbahadur of Malwa
-C. Uday Singh of Mewar
-D. Muzaffar Shah of Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Ramchandra of Bhata.**
-
-</details>
-
-**Q15.**
-
-Arrange the following monuments in chronological order.
-
-I. Rabia Daurani's Tomb, Aurangabad
-II. Shershah Suri's Tomb, Sasaram
-III. Humayun's Tomb, Delhi
-IV. Atala Mosque, Jaunpur
-
-A. I, II, IV, III
-B. IV, II, III, I
-C. II, I, III, IV
-D. III, IV, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Atala (~1408) → Sasaram (~1545) → Humayun (~1570) → Bibi ka Maqbara (~1660).
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Babur wrote Tuzk-e-Babri in Chagatai Turki.<br>Reason (R): Turki was the official language of the Mughal Court.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Memoir = Turki. Court = **Persian**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Mughal Emperor Akbar got the Buland Darwaza constructed at Fatehpur Sikri.<br>Reason (R): Akbar got this monument constructed in memory of the birth of his son Jahangir.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cause = **Gujarat victory**, not Jahangir’s birth.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Emperor)</th>
+      <th>List-II (City of Tomb)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Babur</td>
+      <td><span class="match-key">1</span> Agra</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Humayun</td>
+      <td><span class="match-key">2</span> Lahore</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Jahangir</td>
+      <td><span class="match-key">3</span> Delhi</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Shah Jahan</td>
+      <td><span class="match-key">4</span> Kabul</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 3 2 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 4 2 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 3 1 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 4 3 2 1.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.<br>Reason (R): The Jagirs comprised the land under the direct control of the State.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Direct control = **Khalsa**, not jagir.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with reference to Bairam Khan:<br><br>1. Akbar gave the title of Khan-i-Khana to Bairam Khan.<br>2. This title was not given at the time of appointment of Bairam Khan as Vazir of Empire.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2.Humayun** conferred Khan-i-Khanan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange in chronological order:<br><br>1. Murder of Abul Fazl<br>2. Death of Sheikh Mubarak<br>3. Death of Faizi<br>4. Death of Daniyal</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 4, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Faizi 1595 → Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Iltutmish — Father of Razia</div><div class="pyq-opt"><span class="opt-letter">B</span> Shah Turkan — Wife of Iltutmish</div><div class="pyq-opt"><span class="opt-letter">C</span> Hamida Banu Begum — Wife of Alauddin Khilji</div><div class="pyq-opt"><span class="opt-letter">D</span> Gulbadan Begum — Daughter of Babur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hamida Banu = Humayun’s wife.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Azizuddin Khan</div><div class="pyq-opt"><span class="opt-letter">B</span> Talib Amuli</div><div class="pyq-opt"><span class="opt-letter">C</span> Mulla Abdul Baqi</div><div class="pyq-opt"><span class="opt-letter">D</span> Mirza Muhammad Ali</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Azizuddin Khan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Who among the following translated Chintamani Bhatt's Sanskrit text *Suka Saptati* into Persian and gave it the title *Tutinama*?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Khwaja Ziya-ud-din Nakhshabi</div><div class="pyq-opt"><span class="opt-letter">B</span> Abdur Razzak</div><div class="pyq-opt"><span class="opt-letter">C</span> Shihabuddin-al-Umari</div><div class="pyq-opt"><span class="opt-letter">D</span> Amir Khusro</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nakhshabi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shah Jahan</div><div class="pyq-opt"><span class="opt-letter">B</span> Jahangir</div><div class="pyq-opt"><span class="opt-letter">C</span> Akbar</div><div class="pyq-opt"><span class="opt-letter">D</span> Humayun</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Shah Jahan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Akbar, like Sher Shah, tried to regulate the currency of the state.<br>Reason (R): As in Sher Shah's currency, the chief copper coin of Akbar's time was the Dam.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT the characteristics of Iqta System?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Iqta was a revenue collection system</div><div class="pyq-opt"><span class="opt-letter">B</span> Siyasatnama was the source of information for Iqta System</div><div class="pyq-opt"><span class="opt-letter">C</span> Revenue from Iqta was directly deposited in Sultan's account</div><div class="pyq-opt"><span class="opt-letter">D</span> Muqti was supposed to maintain troops out of the revenue collected from Iqta</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tabaqat-i-Nasiri — Minhaj-us-Siraj</div><div class="pyq-opt"><span class="opt-letter">B</span> Tarikh-i-Firozshahi — Shams-i-Siraj Afif</div><div class="pyq-opt"><span class="opt-letter">C</span> Tughlaqnama — Ibn Battuta</div><div class="pyq-opt"><span class="opt-letter">D</span> Humayunnama — Gulbadan Begam</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tughlaqnama* = **Amir Khusrau**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Who among the following kings had given patronage to Tansen before Akbar?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Raja Ramchandra Singh of Bhata</div><div class="pyq-opt"><span class="opt-letter">B</span> Rajbahadur of Malwa</div><div class="pyq-opt"><span class="opt-letter">C</span> Uday Singh of Mewar</div><div class="pyq-opt"><span class="opt-letter">D</span> Muzaffar Shah of Gujarat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ramchandra of Bhata.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Arrange the following monuments in chronological order.<br><br>I. Rabia Daurani's Tomb, Aurangabad<br>II. Shershah Suri's Tomb, Sasaram<br>III. Humayun's Tomb, Delhi<br>IV. Atala Mosque, Jaunpur</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, IV, III</div><div class="pyq-opt"><span class="opt-letter">B</span> IV, II, III, I</div><div class="pyq-opt"><span class="opt-letter">C</span> II, I, III, IV</div><div class="pyq-opt"><span class="opt-letter">D</span> III, IV, II, I</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Atala (~1408) → Sasaram (~1545) → Humayun (~1570) → Bibi ka Maqbara (~1660).</div>
+  </div>
+</div>

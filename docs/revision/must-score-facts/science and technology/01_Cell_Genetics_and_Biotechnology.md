@@ -63,7 +63,9 @@ hide:
 37. **Chargaff's Rule**: In double-stranded DNA, the ratio of Adenine to Thymine and Guanine to Cytosine is equal, i.e., $A + G = T + C$ or $(A+G)/(T+C) = 1$.
 38. **RNA** is typically single-stranded, contains **Ribose sugar**, and replaces Thymine with **Uracil**; three functional types: mRNA (messenger), tRNA (transfer / soluble adaptor with cloverleaf secondary structure), and rRNA (ribosomal, structural and catalytic).
 39. Nitrogen is an essential constituent of **DNA, RNA, proteins, and chlorophyll**, but is **not** an essential constituent of ordinary **carbohydrates** (composed solely of C, H, and O).
-40. The **Cell Cycle** consists of Interphase ($G_1 ightarrow S ightarrow G_2$) and M-Phase; **DNA replication and centriole duplication occur strictly during the S (Synthesis) phase**; chromosome number remains $2n$ while DNA content doubles from $2C$ to $4C$.
+40. The **Cell Cycle** consists of Interphase ($G_1 
+ightarrow S 
+ightarrow G_2$) and M-Phase; **DNA replication and centriole duplication occur strictly during the S (Synthesis) phase**; chromosome number remains $2n$ while DNA content doubles from $2C$ to $4C$.
 41. **Mitosis** (equational division) occurs in somatic cells, yielding 2 genetically identical diploid ($2n$) daughter cells; metaphase is the best stage to study chromosome morphology and count; anaphase is the stage where sister chromatids separate.
 42. **Colchicine** (alkaloid from *Colchicum autumnale*) inhibits mitotic spindle microtubule formation, arresting cell division at **metaphase**; widely used to induce artificial **polyploidy** in plant breeding.
 43. **Meiosis** (reductional division) occurs in germ cells, producing 4 genetically diverse haploid ($n$) daughter cells; chromosome number is halved during **Anaphase-I**.
@@ -72,8 +74,19 @@ hide:
 46. Mendel's phenotypic ratios: Monohybrid = **3:1** (genotypic **1:2:1**); Dihybrid = **9:3:3:1**; Test cross ratios = **1:1** (monohybrid) and **1:1:1:1** (dihybrid).
 47. **Non-Mendelian inheritance**: **Incomplete dominance** gives an intermediate phenotype (e.g., pink 4 o'clock plant *Mirabilis jalapa* and snapdragon *Antirrhinum* with 1:2:1 phenotypic ratio); **Codominance** expresses both alleles fully (e.g., ABO blood group $I^A I^B$ producing AB blood); **Multiple alleles** (ABO system has 3 alleles $I^A, I^B, i$, yielding 6 genotypes and 4 phenotypes).
 48. **Pleiotropy** is when a single gene influences multiple phenotypic traits (e.g., Phenylketonuria, Sickle-cell anaemia); **Polygenic inheritance** is when a single trait is controlled by three or more genes (e.g., human skin colour, human height).
-49. **Sickle-cell anaemia** is an autosomal recessive point mutation on chromosome 11: substitution of **Glutamic acid by Valine** at position 6 of the $eta$-globin chain ($GAG ightarrow GUG$).
+49. **Sickle-cell anaemia** is an autosomal recessive point mutation on chromosome 11: substitution of **Glutamic acid by Valine** at position 6 of the $eta$-globin chain ($GAG 
+ightarrow GUG$).
 50. Sex-linked recessive disorders carried on the X chromosome include **Haemophilia** (bleeder's / royal disease, factor VIII or IX deficiency) and **Red-Green Colour Blindness** (Daltonism); males are affected far more frequently ($XY$) while females are usually carriers ($X^h X$).
+51. **Cell Discovery Milestones:** **Robert Hooke (1665)** first observed cells in dead cork tissue using compound microscope, coining term 'cell' (*Micrographia*); **Anton van Leeuwenhoek (1674)** first observed living free cells (bacteria, protozoa, RBCs, sperm); **Robert Brown (1831)** discovered the cell **Nucleus** in orchid root cells; **J.E. Purkinje (1839)** coined term **Protoplasm** for the living fluid substance of cell.
+52. **Cell Theory:** Formulated by **Matthias Schleiden (1838 - botanist)** and **Theodor Schwann (1839 - zoologist)**; stated: (1) All living organisms are composed of one or more cells; (2) Cell is the basic structural and functional unit of life; expanded by **Rudolf Virchow (1855)** with immortal aphorism: **'Omnis cellula e cellula'** (all living cells arise from pre-existing cells); **Viruses are an exception to Cell Theory** because they lack cellular machinery and metabolic autonomy.
+53. **Smallest and Largest Cells:** Smallest known living cell is **Mycoplasma genitalium / PPLO** (Pleuropneumonia-like organisms, ~0.1 to 0.3 micrometers); largest single isolated cell is the **unfertilized egg of an Ostrich** (~15 to 18 cm); longest animal cell is the human **Nerve Cell (Neuron)** (can exceed 1 metre in length); human RBC is anucleated with biconcave disc shape (~7 micrometers).
+54. **Mitochondria ('Powerhouse of the Cell'):** Discovered by Albert von Kolliker (1857), termed 'bioblasts' by Richard Altmann (1890), named 'Mitochondria' by **Carl Benda (1898)**; site of aerobic cellular respiration generating ATP (**Adenosine Triphosphate** - 'Energy Currency of the Cell') through **Krebs Cycle** (Citric Acid Cycle) on inner membrane foldings called **Cristae**; contains its own circular DNA and 70S ribosomes (semi-autonomous organelle; derived via endosymbiosis).
+55. **Ribosomes & Protein Synthesis:** Discovered by Romanian-American cell biologist **George Palade (1955)** using electron microscopy ('Palade granules'); non-membrane bound granules made of ribosomal RNA (rRNA) and proteins; site of **Protein Synthesis** (Translation); Prokaryotes possess **70S ribosomes** (50S + 30S subunits); Eukaryotes possess **80S ribosomes** (60S + 40S subunits); 'S' represents Svedberg unit (sedimentation coefficient).
+56. **Lysosomes ('Suicidal Bags of the Cell'):** Discovered by Belgian cytologist **Christian de Duve (1955)**; single-membrane vesicles containing over 50 acidic hydrolytic enzymes (hydrolases: proteases, lipases, nucleases) active at acidic pH (~4.5 to 5.0 maintained by proton pumps); digest foreign bacteria, cellular debris, and damaged organelles (autophagy); when cell is fatally damaged, lysosomes burst and digest the host cell itself.
+57. **Mendel's Laws of Heredity:** Formulated by Austrian monk **Gregor Johann Mendel (1866)** through hybridization experiments on garden pea (**Pisum sativum**) tracking 7 contrasting pairs of traits; rediscovered independently in 1900 by **Hugo de Vries, Carl Correns, and Erich von Tschermak**; (1) **Law of Segregation** (Purity of Gametes): Allele pairs separate during gamete formation so each gamete carries only one allele; (2) **Law of Independent Assortment:** Genes for different traits assort independently during gamete formation; (3) Monohybrid phenotypic ratio = **3:1** (genotypic 1:2:1); Dihybrid phenotypic ratio = **9:3:3:1**.
+58. **DNA Structure & Genetic Code:** Double-helical model elucidated in 1953 by **James Watson and Francis Crick** using X-ray diffraction images of **Rosalind Franklin and Maurice Wilkins** (awarded Nobel Prize 1962); antiparallel strands with sugar-phosphate backbone; purine bases (**Adenine [A], Guanine [G]**) pair with pyrimidine bases (**Thymine [T], Cytosine [C]**) via hydrogen bonds ($A=T$ with 2 H-bonds, $G \equiv C$ with 3 H-bonds); **RNA contains Uracil [U] instead of Thymine**; **Dr. Har Gobind Khorana** shared Nobel Prize in 1968 for deciphering the genetic triplet codon.
+59. **Recombinant DNA Technology & PCR:** **Restriction Endonucleases ('Molecular Scissors'):** Discovered by Arber, Nathans, and Smith (1970); cleave double-stranded DNA at specific palindromic sequences; **DNA Ligase ('Molecular Glue')** seals DNA fragments; **Polymerase Chain Reaction (PCR):** Invented by **Kary Mullis (1983)**; uses heat-stable *Taq polymerase* (from thermophilic bacterium *Thermus aquaticus*) to amplify millions of copies of DNA target sequence in vitro in minutes.
+60. **CRISPR-Cas9 & Gene Editing:** Revolutionary bacterial adaptive immune system adapted for targeted genome editing by **Emmanuelle Charpentier and Jennifer Doudna** (awarded Nobel Prize in Chemistry 2020); guide RNA (gRNA) directs the Cas9 endonuclease enzyme to introduce precise double-stranded breaks at target DNA locations, enabling gene deletion, correction, or insertion.
 
 ## ⏱️ Timeline / Chronology
 
@@ -187,21 +200,6 @@ hide:
 | **Haemophilia A / B** | X-linked Recessive | Deficiency of Factor VIII (A) or Factor IX (B) | Prolonged clotting time; "Bleeder's / Royal disease" |
 | **Colour Blindness** | X-linked Recessive | Defect in red or green cone opsin pigments | Inability to distinguish red from green (Daltonism) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Prokaryotic Nucleus** | **Eukaryotic Nucleus** | Bacteria have **no true nucleus**; DNA is naked circular double-strand in the **nucleoid**. Eukaryotes possess a membrane-bound nucleus with histones and nucleolus. | प्रोकैरियोट = केन्द्रक झिल्ली रहित (Nucleoid); यूकैरियोट = सत्य केन्द्रक (True Nucleus) |
-| **70S Ribosomes** | **80S Ribosomes** | Prokaryotes have **70S** (50S+30S). Eukaryotes have cytoplasmic **80S** (60S+40S), but eukaryotic mitochondria and chloroplasts retain **70S** (endosymbiont proof). | माइटोकॉन्ड्रिया व क्लोरोप्लास्ट में 70S राइबोसोम होते हैं, 80S नहीं |
-| **Mitochondrial DNA** | **Chloroplast DNA** | Both contain circular DNA and divide by fission; but **chloroplasts exclusively perform photosynthesis**, whereas mitochondria perform oxidative ATP phosphorylation. | दोनों में स्व-प्रतिकृति डीएनए होता है; माइटोकॉन्ड्रिया केवल मातृ वंश से मिलता है |
-| **Metaphase (Mitosis)** | **Anaphase (Mitosis)** | **Metaphase** is the best stage to study chromosome morphology, count, and size (aligned at equatorial plate). **Anaphase** is best for chromosome shapes (V, L, J, I shapes during centromere split). | गुणसूत्रों की संख्या व आकारिकी = मध्यावस्था (Metaphase); गुणसूत्र का आकार = पश्चावस्था (Anaphase) |
-| **DNA Sugar & Bases** | **RNA Sugar & Bases** | DNA contains **Deoxyribose** sugar and **Thymine ($T$)**; RNA contains **Ribose** sugar and **Uracil ($U$)** instead of Thymine. | डीएनए में थाइमिन; आरएनए में थाइमिन के स्थान पर यूरेसिल होता है |
-| **Transcription** | **Translation** | **Transcription** synthesizes RNA from a DNA template in the nucleus; **Translation** synthesizes a polypeptide protein from mRNA on cytoplasmic ribosomes. | अनुलेखन (Transcription) = डीएनए से आरएनए; अनुवादन (Translation) = आरएनए से प्रोटीन |
-| **Miller-Urey Atmosphere** | **Present Earth Atmosphere** | Miller-Urey primitive atmosphere was **strictly reducing** with **free $O_2$ absent**; gaseous ratio was $CH_4 : NH_3 : H_2 = 2 : 1 : 2$. Present atmosphere is strongly oxidizing ($21\% O_2$). | आदिम पृथ्वी पर स्वतंत्र ऑक्सीजन (Free $O_2$) सर्वथा अनुपस्थित थी |
-| **Plant Cell Wall** | **Fungal Cell Wall** | Plant cell wall consists of **Cellulose, Hemicellulose, and Pectin**; Fungal cell wall consists strictly of **Chitin** (polymer of N-acetylglucosamine). | पौधों की भित्ति = सेल्यूलोस; कवकों की भित्ति = काइटिन (Chitin) |
-| **Meiotic Crossing Over** | **Mitotic Division** | Crossing over occurs strictly during **Pachytene of Prophase-I of Meiosis** (via enzyme recombinase); mitosis exhibits zero crossing over and produces identical clones. | क्रॉसिंग ओवर केवल अर्धसूत्री विभाजन-I की पैकीटीन (Pachytene) अवस्था में होता है |
-| **Cloned Organism** | **Transgenic Organism** | A clone is an identical genetic copy derived by somatic cell nuclear transfer; a transgenic organism carries a **foreign inserted gene** from a different species (e.g. Bt cotton). | क्लोन = सटीक जेनेटिक प्रतिलिपि; ट्रांसजेनिक = पराया जीन (Foreign gene) समाविष्ट |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Meiosis Prophase-I Sequential Stages: **L-Z-P-D-D**
@@ -233,299 +231,282 @@ hide:
 > **"Pea-soup Early Oligo-Mio-Plio Pleisto-Holo"**
 - **P**aleocene $	o$ **E**ocene $	o$ **O**ligocene $	o$ **M**iocene $	o$ **P**liocene $	o$ **P**leistocene $	o$ **H**olocene.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to Whittaker’s five-kingdom classification, which of the following statements is/are correct?
-1. Monera includes bacteria, which are prokaryotes with peptidoglycan walls.
-2. Viruses form the sixth kingdom in this phylogenetic system.
-3. Fungi are placed in Plantae because both groups possess rigid cell walls.
-
-Select the correct answer from the code given below:  
-A. 1 and 3  
-B. Only 1  
-C. 2 and 3  
-D. Only 2  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Only 1.
-
-**Ans: B.** Only 1
-</details>
-
-**Q2.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-Assertion (A): In a double-stranded DNA molecule, the ratio of $(A+G)$ to $(T+C)$ is always equal to 1.  
-Reason (R): A purine base always pairs strictly with a pyrimidine base via hydrogen bonding across the two antiparallel strands.  
-
-Select the correct answer from the code given below:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** According to Chargaff's rules, in double-stranded DNA, Adenine pairs with Thymine ($A = T$) and Guanine pairs with Cytosine ($G = C$).
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q3.**
-
-Match List-I with List-II:
-
-| List-I (Scientist) | List-II (Discovery / Concept) |
-|---|---|
-| A. Robert Hooke | 1. Identified ribosomes |
-| B. Robert Brown | 2. Postulated *Omnis cellula-e cellula* |
-| C. George Palade | 3. Discovered the cell nucleus |
-| D. Rudolf Virchow | 4. Coined the word cell from cork |
-
-Select the correct answer from the code given below:  
-A. A-4, B-3, C-2, D-1  
-B. A-1, B-2, C-3, D-4  
-C. A-4, B-3, C-1, D-2  
-D. A-2, B-4, C-1, D-3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Robert Hooke (1665) observed honey-comb cork compartments and coined "cell" (A-4).
-
-**Ans: C.** A-4, B-3, C-1, D-2
-</details>
-
-**Q4.**
-
-With reference to cell division, which of the following statements is/are correct?
-1. Meiosis results in four genetically diverse haploid daughter nuclei.
-2. Crossing over occurs during the pachytene stage of prophase-I in meiosis.
-3. DNA replication occurs during the $G_2$ phase of interphase.
-
-Select the correct answer from the code given below:  
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1, 2 and 3  
-D. Only 1  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statements 1 and 2 are correct: Meiosis is a reductional division producing 4 haploid gametes; crossing over between non-sister chromatids occurs at pachytene mediated by recombinase.
-
-**Ans: A.** 1 and 2 only
-</details>
-
-**Q5.**
-
-Which of the following pairs is **not** correctly matched?
-A. Kary Mullis — Polymerase Chain Reaction (PCR)  
-B. Hugo de Vries — Laws of inheritance worked out on garden pea  
-C. Alec Jeffreys — DNA Fingerprinting  
-D. Ian Wilmut — Dolly the cloned sheep  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The laws of inheritance using the garden pea were discovered by Gregor Johann Mendel.
-
-**Ans: B.** Hugo de Vries — Laws of inheritance worked out on garden pea
-</details>
-
-**Q6.**
-
-Arrange the following biological milestones in correct chronological order:
-1. Watson and Crick's double-helix model of DNA
-2. Robert Hooke's description of cork cells
-3. Rudolf Virchow's doctrine *Omnis cellula-e cellula*
-4. Schleiden and Schwann's formulation of Cell Theory
-
-Select the correct answer from the code given below:  
-A. 1, 2, 4, 3  
-B. 2, 3, 4, 1  
-C. 4, 2, 3, 1  
-D. 2, 4, 3, 1  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 2, 4, 3, 1.
-
-**Ans: D.** 2, 4, 3, 1
-</details>
-
-**Q7.**
-
-With reference to nucleic acids and genetic codons, which of the following statements is/are correct?
-1. AUG functions as the universal start codon and codes for Methionine.
-2. UAA, UAG, and UGA are nonsense termination codons.
-3. RNA contains Thymine in place of Uracil.
-4. Human somatic diploid cells contain 46 chromosomes.
-
-Select the correct answer from the code given below:  
-A. 1 and 3  
-B. Only 4  
-C. 1, 2 and 4  
-D. 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statements 1, 2, and 4 are correct.
-
-**Ans: C.** 1, 2 and 4
-</details>
-
-**Q8.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-Assertion (A): *Agrobacterium tumefaciens* is widely referred to as the natural genetic engineer of plants.  
-Reason (R): It naturally carries a Ti plasmid that transfers a specific segment of DNA (T-DNA) into the genome of host plant cells.  
-
-Select the correct answer from the code given below:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Agrobacterium tumefaciens is called the natural genetic engineer precisely because its Ti plasmid integrates T-DNA directly into plant chromosomes, making it an ideal modified vector for transgenic plant creation.
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q9.**
-
-With reference to prokaryotic bacterial cells, which of the following statements is/are correct?
-1. They lack membrane-bound cellular organelles such as mitochondria and chloroplasts.
-2. Their cytoplasmic ribosomes are 70S.
-3. Their cell walls contain peptidoglycan.
-
-Select the correct answer from the code given below:  
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** All three statements accurately describe prokaryotic bacteria: they lack membrane-enclosed organelles; have 70S ribosomes (50S + 30S); and maintain cell shape via peptidoglycan (murein) walls.
-
-**Ans: D.** 1, 2 and 3
-</details>
-
-**Q10.**
-
-Match List-I with List-II:
-
-| List-I (Biotechnology Product / Tool) | List-II (Key Association / Feature) |
-|---|---|
-| A. Humulin | 1. Transgenic pest-resistant cotton |
-| B. Ti Plasmid | 2. Recombinant human insulin (1982) |
-| C. *Bacillus thuringiensis* | 3. Gene vector from *Agrobacterium* |
-| D. *Thermus aquaticus* | 4. Source of heat-stable *Taq* polymerase |
-
-Select the correct answer from the code given below:  
-A. A-2, B-3, C-1, D-4  
-B. A-3, B-2, C-1, D-4  
-C. A-2, B-3, C-4, D-1  
-D. A-1, B-4, C-2, D-3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Humulin = First recombinant human insulin produced by Eli Lilly (A-2).
-
-**Ans: A.** A-2, B-3, C-1, D-4
-</details>
-
-**Q11.**
-
-In the human cell, which of the following organelles contains its own genetic material (DNA) and 70S ribosomes?
-A. Endoplasmic reticulum  
-B. Mitochondria  
-C. Golgi apparatus  
-D. Lysosome  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Mitochondria and chloroplasts are semi-autonomous organelles containing their own circular double-stranded DNA and 70S ribosomes, reflecting their endosymbiotic prokaryotic ancestry.
-
-**Ans: B.** Mitochondria
-</details>
-
-**Q12.**
-
-In meiosis, the physical exchange of genetic material (crossing over) between non-sister chromatids occurs during which specific stage?
-A. Leptotene  
-B. Zygotene  
-C. Pachytene  
-D. Diakinesis  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Crossing over takes place during the pachytene stage of prophase-I, mediated by the enzyme recombinase.
-
-**Ans: C.** Pachytene
-</details>
-
-**Q13.**
-
-Which of the following human genetic disorders is caused by an extra copy of chromosome 21 (Trisomy 21)?
-A. Klinefelter syndrome  
-B. Turner syndrome  
-C. Down syndrome  
-D. Thalassemia  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Down syndrome is caused by trisomy of autosome 21 ($47, 21+1$).
-
-**Ans: C.** Down syndrome
-</details>
-
-**Q14.**
-
-Sickle-cell anaemia is caused by a point mutation in the $\beta$-globin gene that results in the replacement of:
-A. Valine by Glutamic acid  
-B. Glutamic acid by Valine  
-C. Alanine by Glycine  
-D. Leucine by Proline  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** In sickle-cell anaemia, a transversion mutation ($GAG \rightarrow GUG$) substitutes hydrophilic Glutamic acid with hydrophobic Valine at position 6 of the $\beta$-globin polypeptide chain.
-
-**Ans: B.** Glutamic acid by Valine
-</details>
-
-**Q15.**
-
-The chemical substance known as Colchicine, used in plant breeding to induce polyploidy, acts by:
-A. Inhibiting DNA replication in S-phase  
-B. Preventing mitotic spindle formation, arresting cells at metaphase  
-C. Accelerating cytokinesis  
-D. Promoting rapid crossing over  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Colchicine inhibits microtubule polymerisation, preventing mitotic spindle assembly and arresting dividing cells at metaphase, causing chromosome doubling (polyploidy).
-
-**Ans: B.** Preventing mitotic spindle formation, arresting cells at metaphase
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Whittaker’s five-kingdom classification, which of the following statements is/are correct?<br>1. Monera includes bacteria, which are prokaryotes with peptidoglycan walls.<br>2. Viruses form the sixth kingdom in this phylogenetic system.<br>3. Fungi are placed in Plantae because both groups possess rigid cell walls.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Only 1.
+
+**Ans: B.** Only 1</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br>Assertion (A): In a double-stranded DNA molecule, the ratio of $(A+G)$ to $(T+C)$ is always equal to 1.  <br>Reason (R): A purine base always pairs strictly with a pyrimidine base via hydrogen bonding across the two antiparallel strands.  <br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** According to Chargaff's rules, in double-stranded DNA, Adenine pairs with Thymine ($A = T$) and Guanine pairs with Cytosine ($G = C$).
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Scientist)</th><th>List-II (Discovery / Concept)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Robert Hooke</td><td><span class="match-key">1</span> Identified ribosomes</td></tr>
+      <tr><td><span class="match-key">B</span> Robert Brown</td><td><span class="match-key">2</span> Postulated *Omnis cellula-e cellula*</td></tr>
+      <tr><td><span class="match-key">C</span> George Palade</td><td><span class="match-key">3</span> Discovered the cell nucleus</td></tr>
+      <tr><td><span class="match-key">D</span> Rudolf Virchow</td><td><span class="match-key">4</span> Coined the word cell from cork</td></tr>
+  </tbody>
+</table><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-4, B-3, C-2, D-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-4, B-3, C-1, D-2</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-4, C-1, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Robert Hooke (1665) observed honey-comb cork compartments and coined "cell" (A-4).
+
+**Ans: C.** A-4, B-3, C-1, D-2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to cell division, which of the following statements is/are correct?<br>1. Meiosis results in four genetically diverse haploid daughter nuclei.<br>2. Crossing over occurs during the pachytene stage of prophase-I in meiosis.<br>3. DNA replication occurs during the $G_2$ phase of interphase.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statements 1 and 2 are correct: Meiosis is a reductional division producing 4 haploid gametes; crossing over between non-sister chromatids occurs at pachytene mediated by recombinase.
+
+**Ans: A.** 1 and 2 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kary Mullis — Polymerase Chain Reaction (PCR)</div><div class="pyq-opt"><span class="opt-letter">B</span> Hugo de Vries — Laws of inheritance worked out on garden pea</div><div class="pyq-opt"><span class="opt-letter">C</span> Alec Jeffreys — DNA Fingerprinting</div><div class="pyq-opt"><span class="opt-letter">D</span> Ian Wilmut — Dolly the cloned sheep</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The laws of inheritance using the garden pea were discovered by Gregor Johann Mendel.
+
+**Ans: B.** Hugo de Vries — Laws of inheritance worked out on garden pea</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following biological milestones in correct chronological order:<br>1. Watson and Crick's double-helix model of DNA<br>2. Robert Hooke's description of cork cells<br>3. Rudolf Virchow's doctrine *Omnis cellula-e cellula*<br>4. Schleiden and Schwann's formulation of Cell Theory<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2, 4, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 2, 3, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 4, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 2, 4, 3, 1.
+
+**Ans: D.** 2, 4, 3, 1</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to nucleic acids and genetic codons, which of the following statements is/are correct?<br>1. AUG functions as the universal start codon and codes for Methionine.<br>2. UAA, UAG, and UGA are nonsense termination codons.<br>3. RNA contains Thymine in place of Uracil.<br>4. Human somatic diploid cells contain 46 chromosomes.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statements 1, 2, and 4 are correct.
+
+**Ans: C.** 1, 2 and 4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br>Assertion (A): *Agrobacterium tumefaciens* is widely referred to as the natural genetic engineer of plants.  <br>Reason (R): It naturally carries a Ti plasmid that transfers a specific segment of DNA (T-DNA) into the genome of host plant cells.  <br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Agrobacterium tumefaciens is called the natural genetic engineer precisely because its Ti plasmid integrates T-DNA directly into plant chromosomes, making it an ideal modified vector for transgenic plant creation.
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to prokaryotic bacterial cells, which of the following statements is/are correct?<br>1. They lack membrane-bound cellular organelles such as mitochondria and chloroplasts.<br>2. Their cytoplasmic ribosomes are 70S.<br>3. Their cell walls contain peptidoglycan.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** All three statements accurately describe prokaryotic bacteria: they lack membrane-enclosed organelles; have 70S ribosomes (50S + 30S); and maintain cell shape via peptidoglycan (murein) walls.
+
+**Ans: D.** 1, 2 and 3</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Biotechnology Product / Tool)</th><th>List-II (Key Association / Feature)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Humulin</td><td><span class="match-key">1</span> Transgenic pest-resistant cotton</td></tr>
+      <tr><td><span class="match-key">B</span> Ti Plasmid</td><td><span class="match-key">2</span> Recombinant human insulin (1982)</td></tr>
+      <tr><td><span class="match-key">C</span> *Bacillus thuringiensis*</td><td><span class="match-key">3</span> Gene vector from *Agrobacterium*</td></tr>
+      <tr><td><span class="match-key">D</span> *Thermus aquaticus*</td><td><span class="match-key">4</span> Source of heat-stable *Taq* polymerase</td></tr>
+  </tbody>
+</table><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-2, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-4, D-1</div><div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-4, C-2, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Humulin = First recombinant human insulin produced by Eli Lilly (A-2).
+
+**Ans: A.** A-2, B-3, C-1, D-4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">In the human cell, which of the following organelles contains its own genetic material (DNA) and 70S ribosomes?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Endoplasmic reticulum</div><div class="pyq-opt"><span class="opt-letter">B</span> Mitochondria</div><div class="pyq-opt"><span class="opt-letter">C</span> Golgi apparatus</div><div class="pyq-opt"><span class="opt-letter">D</span> Lysosome</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Mitochondria and chloroplasts are semi-autonomous organelles containing their own circular double-stranded DNA and 70S ribosomes, reflecting their endosymbiotic prokaryotic ancestry.
+
+**Ans: B.** Mitochondria</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">In meiosis, the physical exchange of genetic material (crossing over) between non-sister chromatids occurs during which specific stage?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Leptotene</div><div class="pyq-opt"><span class="opt-letter">B</span> Zygotene</div><div class="pyq-opt"><span class="opt-letter">C</span> Pachytene</div><div class="pyq-opt"><span class="opt-letter">D</span> Diakinesis</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Crossing over takes place during the pachytene stage of prophase-I, mediated by the enzyme recombinase.
+
+**Ans: C.** Pachytene</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following human genetic disorders is caused by an extra copy of chromosome 21 (Trisomy 21)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Klinefelter syndrome</div><div class="pyq-opt"><span class="opt-letter">B</span> Turner syndrome</div><div class="pyq-opt"><span class="opt-letter">C</span> Down syndrome</div><div class="pyq-opt"><span class="opt-letter">D</span> Thalassemia</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Down syndrome is caused by trisomy of autosome 21 ($47, 21+1$).
+
+**Ans: C.** Down syndrome</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Sickle-cell anaemia is caused by a point mutation in the $\beta$-globin gene that results in the replacement of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Valine by Glutamic acid</div><div class="pyq-opt"><span class="opt-letter">B</span> Glutamic acid by Valine</div><div class="pyq-opt"><span class="opt-letter">C</span> Alanine by Glycine</div><div class="pyq-opt"><span class="opt-letter">D</span> Leucine by Proline</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** In sickle-cell anaemia, a transversion mutation ($GAG \rightarrow GUG$) substitutes hydrophilic Glutamic acid with hydrophobic Valine at position 6 of the $\beta$-globin polypeptide chain.
+
+**Ans: B.** Glutamic acid by Valine</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The chemical substance known as Colchicine, used in plant breeding to induce polyploidy, acts by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Inhibiting DNA replication in S-phase</div><div class="pyq-opt"><span class="opt-letter">B</span> Preventing mitotic spindle formation, arresting cells at metaphase</div><div class="pyq-opt"><span class="opt-letter">C</span> Accelerating cytokinesis</div><div class="pyq-opt"><span class="opt-letter">D</span> Promoting rapid crossing over</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Colchicine inhibits microtubule polymerisation, preventing mitotic spindle assembly and arresting dividing cells at metaphase, causing chromosome doubling (polyploidy).
+
+**Ans: B.** Preventing mitotic spindle formation, arresting cells at metaphase</div>
+  </div>
+</div>

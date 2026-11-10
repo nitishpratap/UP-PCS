@@ -115,26 +115,6 @@ hide:
 | **CJI / SC Judges** | Art. 124 (Part V) | President | Up to **65 yrs** | **President** (Special majority in Parliament, Art. 124(4)) | Form IV, 3rd Schedule (Before President) | Barred from pleading before any court |
 | **HC Judges** | Art. 217 (Part VI) | President | Up to **62 yrs** | **President** (Special majority in Parliament, Art. 124(4)) | Form VIII, 3rd Schedule (Before **Governor**) | Barred except SC and other HCs |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Trap | What Examiner Falsely Claims | True Exam Position | Hindi Key |
-|---|---|---|---|
-| **Attorney General Removal** | Trapped as being removed like an SC Judge. | AG holds office during the **Pleasure of the President**; can be removed anytime without grounds. | महान्यायवादी पदमुक्ति (राष्ट्रपति का प्रसादपर्यंत) |
-| **Solicitor General Status** | Claimed to be a constitutional post under Art. 76. | SG is a **Statutory post**, NOT mentioned anywhere in the Constitution. | सॉलिसिटर जनरल (गैर-संवैधानिक) |
-| **Article 88 vs Article 177** | Interchanging Parliamentary and Assembly rights. | **Article 88** = Attorney General in Parliament; **Article 177** = Advocate General in State Legislature. | अनुच्छेद 88 (संसद) / अनुच्छेद 177 (विधानसभा) |
-| **Advocate General Qualifications** | Trapped as qualified to be an SC Judge. | AdvG must be qualified to be a **High Court Judge** (Art. 165). | महाधिवक्ता योग्यता (उच्च न्यायालय न्यायाधीश) |
-| **Advocate General Removal** | Trapped as requiring impeachment by State Assembly. | Holds office during the **Pleasure of the Governor** (Art. 165(3)). | महाधिवक्ता पदमुक्ति (राज्यपाल का प्रसाद) |
-| **CAG Removal Procedure** | Claimed to hold office during Presidential pleasure. | CAG has **guaranteed security of tenure**; removed ONLY like an SC Judge under Art. 124(4). | कैग पदमुक्ति (उच्चतम न्यायालय न्यायाधीश समान) |
-| **CAG Third Schedule Oath** | Falsely claimed CAG oath is outside 3rd Schedule. | CAG takes oath strictly under **Form III of the Third Schedule**. | कैग शपथ (तृतीय अनुसूची प्रारूप 3) |
-| **CAG Future Employment Bar** | Claimed CAG can be appointed State Governor or Ambassador. | Article 148(4) strictly **bars further employment under Union or State Govt**. | कैग पुनर्नियुक्ति प्रतिबंध (अनुच्छेद 148(4)) |
-| **SPSC Removal Authority** | Claimed SPSC Chairman is removed by the Governor. | Appointed by Governor, but **REMOVED ONLY BY THE PRESIDENT** under Article 317. | राज्य लोक सेवा आयोग पदमुक्ति (केवल राष्ट्रपति) |
-| **SPSC Retirement Age** | Trapped as 65 years like UPSC. | SPSC retirement age is **62 years** (UPSC is 65 years). | राज्य लोक सेवा आयोग आयु सीमा (62 वर्ष) |
-| **Joint SPSC Nature** | Claimed JSPSC is a constitutional body. | JSPSC is a **Statutory body** created by an Act of Parliament (Art. 315(2)). | संयुक्त राज्य लोक सेवा आयोग (सांविधिक) |
-| **Oaths of President/VP/Governor** | Trapped as taking oath under the Third Schedule. | **Outside 3rd Schedule**: President (Art. 60), VP (Art. 69), Governor (Art. 159). | राष्ट्रपति/उपराष्ट्रपति/राज्यपाल शपथ (अनुसूची 3 से बाहर) |
-| **Other Election Commissioners Removal** | Claimed other ECs are removed like an SC Judge. | Only CEC is removed like SC Judge; other ECs removed **on recommendation of CEC**. | चुनाव आयुक्त पदमुक्ति (सीईसी की सिफारिश) |
-| **CJI on CEC Selection Panel** | Stating CJI is a member of the CEC Selection Committee. | Under the 2023 Act, the panel is **PM + LoP + Cabinet Minister**; CJI is **NOT** included. | सीईसी चयन समिति (सीजेआई शामिल नहीं) |
-| **CAG Audit of Advance Expenditure** | Claimed Indian CAG gives prior sanction before money is spent. | Indian CAG conducts **ex-post-facto audit** (after money is spent); does not control issuance of money like UK CAG. | कैग लेखापरीक्षा (व्यय के बाद) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Oaths Outside Third Schedule: "P-V-G"
@@ -161,322 +141,282 @@ Only three categories of offices have the constitutional protection of being rem
 - **Removed ONLY by:** **P**resident (राष्ट्रपति) after Supreme Court inquiry under Art. 317!
 
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** With reference to the Attorney General, which of the following statements is/are correct?
-
-1. Removal is by the same impeachment process as a Supreme Court judge.
-2. The CAG is appointed by the Prime Minister and removable by the Finance Minister.
-3. Under Article 88, the AG may speak in both Houses and can vote in either House.
-
-A. Only 2 and 3
-B. Only 1
-C. 1 and 2
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** AG qualification matches a Supreme Court judge. Removal is not by judge impeachment — office during pleasure of the President. Under Article 88 the AG may speak but has no vote.
-
-</details>
-
-**Q2.** correctly matched?
-
-A. Attorney General — Article 76; constitutional
-B. Solicitor General — not in the Constitution; no Article 88 by office
-C. Advocate General — Article 165; State; HC-judge qualification
-D. Advocate General of India — Article 76A Union AdvG
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** There is no Advocate General of India.
-
-**Logic:** Union = AG + SG; State = Advocate General.
-
-</details>
-
-**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): The Attorney General faces the same Article 148(4) further-office bar.
-
-Select the correct answer from the code given below:
-
-Reason (R): The CAG is removed like a Supreme Court judge and faces an Article 148(4) bar on further Union/State office.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A false, R true.
-
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. CAG has hard removal + 148(4); AG is pleasure tenure without that bar.
-
-</details>
-
-**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I | List-II |
-|--------|--------|
-| A. ECI | 1. Article 165 |
-| B. Advocate General | 2. Article 324 |
-| C. CAG | 3. Articles 148–151 |
-| D. UPSC | 4. Articles 315–323 |
-
-> Note: Row order is **not** the answer.
-
-Select the correct answer using the code given below:
-
-A. A-1, B-2, C-3, D-4
-B. A-2, B-1, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A-2, B-1, C-3, D-4.
-
-**Logic:** 2024 trap mixes 324 with 165 — keep numbers with offices.
-
-</details>
-
-**Q5.** Arrange resignation addresses correctly and pick the chronological office list by first appearance in this teaching set:
-
-Consider who resigns to whom:
-1. President → Vice-President
-2. SC judge → President
-3. Lok Sabha Speaker → Deputy Speaker
-4. SPSC member → Governor
-
-Which statements are correct?
-
-A. 1, 2 and 3 only
-B. 1, 2 and 4 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All four resignation facts are correct.
-
-**Logic:** HC oath is before Governor; HC resignation is to President — separate axes.
-
-</details>
-
-**Q6.** With reference to CEC / Election Commissioners, which of the following is/are correct?
-
-1. Under the 2023 Act, selection panel is PM + LoP LS + a Cabinet Minister; CJI is not on the panel.
-2. CEC is removed like a Supreme Court judge.
-3. Other Election Commissioners are removed only on the CEC’s recommendation.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. 1 and 2
-C. Only 1, 2 and 3
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** All three statements are correct.
-
-**Logic:** Votes are equal; removal protection is not.
-
-</details>
-
-**Q7.** With reference to UPSC and SPSC, which of the following is/are correct?
-
-1. UPSC Chair: six years or age 65; Article 319 total further-office bar.
-2. SPSC Chair is appointed by the Governor but removed by the President after SC inquiry on misbehaviour.
-3. Extension of SPSC functions under Article 321 is by the President alone.
-
-A. Only 3
-B. 1 and 3
-C. Only 1
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** 1 and 2 only are correct.
-
-**Logic:** Article 321 extension is by the State Legislature.
-
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Indian CAG audits after expenditure.
-
-Reason (R): The classic UK Comptroller could block payment first — a contrast often taught with the Indian CAG.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R correctly explains the contrast that clarifies A.
-
-**A/R logic:** Post-audit vs pre-block is the UK–India teaching contrast.
-
-</details>
-
-**Q9.** correctly matched?
-
-A. First CEC — Sukumar Sen
-B. First woman CEC — V.S. Ramadevi (1990)
-C. First AG — M.C. Setalvad
-D. CAG reports in States — go directly to the Accountant General as a House
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** State CAG reports go Governor → Legislature (Art. 151).
-
-**Logic:** Accountant General is the CAG’s field officer — not the House.
-
-</details>
-
-**Q10.** With reference to Third Schedule oaths, which of the following is/are correct?
-
-1. Third Schedule covers ministers, MPs/MLAs, SC/HC judges and CAG.
-2. President, Vice-President, Governor, AG, SG, Advocate General and CEC are not Third Schedule oath offices.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Both 1 and 2
-C. Only 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both 1 and 2 are correct.
-
-**Logic:** President/VP/Governor use Arts. 60/69/159 forms.
-
-</details>
-
-**Q11.** Arrange CJI / CJ HC age and oath facts — which statements are correct?
-
-1. CJI retires at 65; oath before President; resigns to President.
-2. SC Collegium is CJI+2; HC Collegium is CJI+4.
-3. High Court CJ retires at 62; oath before Governor; resigns to President.
-
-A. Only 2
-B. 2 and 3
-C. Only 1
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** 1 and 3 only are correct.
-
-**Logic:** SC Collegium is CJI+4; HC Collegium is CJI+2 (Third Judges).
-
-</details>
-
-**Q12.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I | List-II |
-|--------|--------|
-| A. CEC 2023 panel | 1. Includes CJI (or nominee) |
-| B. Lokpal panel | 2. PM + LoP LS + Cabinet Minister (no CJI) |
-| C. SEC (243K) | 3. Local-body polls |
-| D. ECI (324) | 4. Parliament / State legislature / President–VP polls |
-
-> Note: Row order is **not** the answer.
-
-Select the correct answer using the code given below:
-
-A. A-2, B-1, C-3, D-4
-B. A-1, B-2, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** A-2, B-1, C-3, D-4.
-
-**Logic:** CEC panel ≠ Lokpal panel on CJI presence.
-
-</details>
-
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): A Joint Public Service Commission is created by Parliament if the States request it.
-
-Reason (R): UPPSC headquarters is Prayagraj.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R does not explain A.
-
-**A/R logic:** JPSC creation rule and UPPSC HQ are separate facts.
-
-</details>
-
-**Q14.** With reference to CAG salary and oath, which of the following is/are correct?
-
-1. CAG takes a Third Schedule oath before the President.
-2. CAG salary is in the Second Schedule and charged.
-3. AG’s pay is fixed by the President and is a Second Schedule charged office like CAG.
-
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2 only are correct.
-
-**Logic:** AG pay is not a Second Schedule charged office like CAG/judges.
-
-</details>
-
-**Q15.** correctly matched?
-
-A. Advocate General — pleasure of the Governor
-B. CAG — pleasure of the President without parliamentary removal path
-C. Attorney General — pleasure of the President
-D. CEC — removal like Supreme Court judge
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** CAG is removed like a Supreme Court judge — not simple pleasure.
-
-**Logic:** Pleasure is AG/AdvG story; hard path is CAG/judges/CEC.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the Attorney General, which of the following statements is/are correct?<br><br>1. Removal is by the same impeachment process as a Supreme Court judge.<br>2. The CAG is appointed by the Prime Minister and removable by the Finance Minister.<br>3. Under Article 88, the AG may speak in both Houses and can vote in either House.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** AG qualification matches a Supreme Court judge. Removal is not by judge impeachment — office during pleasure of the President. Under Article 88 the AG may speak but has no vote.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Attorney General — Article 76; constitutional</div><div class="pyq-opt"><span class="opt-letter">B</span> Solicitor General — not in the Constitution; no Article 88 by office</div><div class="pyq-opt"><span class="opt-letter">C</span> Advocate General — Article 165; State; HC-judge qualification</div><div class="pyq-opt"><span class="opt-letter">D</span> Advocate General of India — Article 76A Union AdvG</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> There is no Advocate General of India.
+
+**Logic:** Union = AG + SG; State = Advocate General.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): The Attorney General faces the same Article 148(4) further-office bar.<br><br>Select the correct answer from the code given below:<br><br>Reason (R): The CAG is removed like a Supreme Court judge and faces an Article 148(4) bar on further Union/State office.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A false, R true.
+
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. CAG has hard removal + 148(4); AG is pleasure tenure without that bar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> ECI</td><td><span class="match-key">1</span> Article 165</td></tr>
+      <tr><td><span class="match-key">B</span> Advocate General</td><td><span class="match-key">2</span> Article 324</td></tr>
+      <tr><td><span class="match-key">C</span> CAG</td><td><span class="match-key">3</span> Articles 148–151</td></tr>
+      <tr><td><span class="match-key">D</span> UPSC</td><td><span class="match-key">4</span> Articles 315–323</td></tr>
+  </tbody>
+</table><br>> Note: Row order is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3, D-4.
+
+**Logic:** 2024 trap mixes 324 with 165 — keep numbers with offices.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange resignation addresses correctly and pick the chronological office list by first appearance in this teaching set:<br><br>Consider who resigns to whom:<br>1. President → Vice-President<br>2. SC judge → President<br>3. Lok Sabha Speaker → Deputy Speaker<br>4. SPSC member → Governor<br><br>Which statements are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All four resignation facts are correct.
+
+**Logic:** HC oath is before Governor; HC resignation is to President — separate axes.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to CEC / Election Commissioners, which of the following is/are correct?<br><br>1. Under the 2023 Act, selection panel is PM + LoP LS + a Cabinet Minister; CJI is not on the panel.<br>2. CEC is removed like a Supreme Court judge.<br>3. Other Election Commissioners are removed only on the CEC’s recommendation.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Votes are equal; removal protection is not.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to UPSC and SPSC, which of the following is/are correct?<br><br>1. UPSC Chair: six years or age 65; Article 319 total further-office bar.<br>2. SPSC Chair is appointed by the Governor but removed by the President after SC inquiry on misbehaviour.<br>3. Extension of SPSC functions under Article 321 is by the President alone.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** Article 321 extension is by the State Legislature.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Indian CAG audits after expenditure.<br><br>Reason (R): The classic UK Comptroller could block payment first — a contrast often taught with the Indian CAG.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R correctly explains the contrast that clarifies A.
+
+**A/R logic:** Post-audit vs pre-block is the UK–India teaching contrast.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> First CEC — Sukumar Sen</div><div class="pyq-opt"><span class="opt-letter">B</span> First woman CEC — V.S. Ramadevi (1990)</div><div class="pyq-opt"><span class="opt-letter">C</span> First AG — M.C. Setalvad</div><div class="pyq-opt"><span class="opt-letter">D</span> CAG reports in States — go directly to the Accountant General as a House</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> State CAG reports go Governor → Legislature (Art. 151).
+
+**Logic:** Accountant General is the CAG’s field officer — not the House.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to Third Schedule oaths, which of the following is/are correct?<br><br>1. Third Schedule covers ministers, MPs/MLAs, SC/HC judges and CAG.<br>2. President, Vice-President, Governor, AG, SG, Advocate General and CEC are not Third Schedule oath offices.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct.
+
+**Logic:** President/VP/Governor use Arts. 60/69/159 forms.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange CJI / CJ HC age and oath facts — which statements are correct?<br><br>1. CJI retires at 65; oath before President; resigns to President.<br>2. SC Collegium is CJI+2; HC Collegium is CJI+4.<br>3. High Court CJ retires at 62; oath before Governor; resigns to President.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3 only are correct.
+
+**Logic:** SC Collegium is CJI+4; HC Collegium is CJI+2 (Third Judges).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> CEC 2023 panel</td><td><span class="match-key">1</span> Includes CJI (or nominee)</td></tr>
+      <tr><td><span class="match-key">B</span> Lokpal panel</td><td><span class="match-key">2</span> PM + LoP LS + Cabinet Minister (no CJI)</td></tr>
+      <tr><td><span class="match-key">C</span> SEC (243K)</td><td><span class="match-key">3</span> Local-body polls</td></tr>
+      <tr><td><span class="match-key">D</span> ECI (324)</td><td><span class="match-key">4</span> Parliament / State legislature / President–VP polls</td></tr>
+  </tbody>
+</table><br>> Note: Row order is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3, D-4.
+
+**Logic:** CEC panel ≠ Lokpal panel on CJI presence.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): A Joint Public Service Commission is created by Parliament if the States request it.<br><br>Reason (R): UPPSC headquarters is Prayagraj.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R does not explain A.
+
+**A/R logic:** JPSC creation rule and UPPSC HQ are separate facts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to CAG salary and oath, which of the following is/are correct?<br><br>1. CAG takes a Third Schedule oath before the President.<br>2. CAG salary is in the Second Schedule and charged.<br>3. AG’s pay is fixed by the President and is a Second Schedule charged office like CAG.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** AG pay is not a Second Schedule charged office like CAG/judges.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Advocate General — pleasure of the Governor</div><div class="pyq-opt"><span class="opt-letter">B</span> CAG — pleasure of the President without parliamentary removal path</div><div class="pyq-opt"><span class="opt-letter">C</span> Attorney General — pleasure of the President</div><div class="pyq-opt"><span class="opt-letter">D</span> CEC — removal like Supreme Court judge</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> CAG is removed like a Supreme Court judge — not simple pleasure.
+
+**Logic:** Pleasure is AG/AdvG story; hard path is CAG/judges/CEC.</div>
+  </div>
+</div>

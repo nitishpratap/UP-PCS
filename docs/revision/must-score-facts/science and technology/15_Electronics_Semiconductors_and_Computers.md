@@ -149,21 +149,6 @@ hide:
 | **Hard Disk Drive (HDD)** | Slow ($5–15	ext{ ms}$) | **NON-VOLATILE** | Lowest | Magnetic spinning platters with read/write heads |
 | **Data Units Hierarchy** | **$1	ext{ Nibble} = 4	ext{ bits}$**; **$1	ext{ Byte} = 8	ext{ bits}$**; $1	ext{ KB} = 1024	ext{ Bytes}$; $1	ext{ MB} = 1024	ext{ KB}$; $1	ext{ GB} = 1024	ext{ MB}$; $1	ext{ TB} = 1024	ext{ GB}$; $1	ext{ PB} = 1024	ext{ TB}$ |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **n-type Semiconductor Charge**| **Negative Net Charge Myth** | An n-type semiconductor has majority negative electrons, but its **NET ELECTRICAL CHARGE IS STRICTLY ZERO (NEUTRAL)**. Neutral donor atoms are simply embedded in a neutral silicon crystal lattice. | n-प्रकार का अर्धचालक विद्युत रूप से पूर्णतः उदासीन (Neutral) होता है, ऋणावेशित नहीं |
-| **p-type Semiconductor Charge**| **Positive Net Charge Myth** | Similarly, a p-type semiconductor has majority positive holes, but **ITS NET CHARGE IS STRICTLY ZERO (NEUTRAL)**. Every atom in the crystal lattice has balanced protons and electrons. | p-प्रकार का अर्धचालक भी विद्युत रूप से पूर्णतः उदासीन होता है |
-| **Semiconductor at $0	ext{ K}$** | **Conductor at $0	ext{ K}$** | At Absolute Zero ($0	ext{ K}$), all valence electrons in a semiconductor are bound; it acts as a **PERFECT INSULATOR** (zero conductivity). A conductor exhibits maximum conductivity (superconductivity) near $0	ext{ K}$. | परम शून्य ताप ($0	ext{ K}$) पर अर्धचालक एक आदर्श अचालक (Insulator) की भांति व्यवहार करता है |
-| **RAM (Random Access Memory)**| **ROM (Read Only Memory)** | **RAM is VOLATILE** (all stored data disappears immediately when power is turned off). **ROM is NON-VOLATILE** (permanently retains factory boot instructions / BIOS). | रैम (RAM) अस्थायी / अस्थिर (Volatile) है; रोम (ROM) स्थायी (Non-volatile) है |
-| **Universal Logic Gates** | **Basic Logic Gates** | Basic gates are AND, OR, NOT. The **UNIVERSAL GATES are strictly NAND and NOR**; any boolean expression or logic circuit can be built exclusively with NAND or NOR gates alone. | सार्वत्रिक लॉजिक गेट = केवल NAND तथा NOR गेट |
-| **Bit vs Byte vs Nibble** | **Data Unit Conversions** | **$1	ext{ Bit} = 0	ext{ or }1$** (binary digit). **$1	ext{ Nibble} = \mathbf{4	ext{ bits}}$**. **$1	ext{ Byte} = \mathbf{8	ext{ bits}}$**. Confusing nibbles with bytes is a classic computer Prelims trap. | 1 निबल = 4 बिट; 1 बाइट = 8 बिट |
-| **Zener Diode Application** | **Rectifier Diode Application**| A standard p-n junction diode acts as a **Rectifier** in forward bias (converting AC to DC). A **Zener Diode operates in REVERSE BREAKDOWN** to provide **constant Voltage Regulation**. | जेनर डायोड = वोल्टेज नियामक (Voltage Regulator); साधारण डायोड = दिष्टकारी (Rectifier) |
-| **Supercomputer Pratyush / Mihir**| **C-DAC PARAM Series** | **Pratyush and Mihir** are high-performance supercomputers dedicated exclusively to **weather forecasting and climate modeling** (MoES / IITM Pune). **PARAM series** are general-purpose supercomputers developed by C-DAC. | प्रत्युष व मिहिर = मौसम व जलवायु पूर्वानुमान हेतु सुपरकंप्यूटर (IITM पुणे) |
-| **LED Light Emission Mechanism**| **Incandescent Bulb Emission** | An **LED emits light via direct electron-hole recombination** across a forward-biased direct bandgap semiconductor (cold luminescence, $>80\%$ efficiency). Incandescent bulbs emit light via resistive heating ($I^2R$). | एलईडी = इलेक्ट्रॉन-होल पुनर्संयोजन (Cold light); तंतु बल्ब = तापीय उद्दीपन |
-| **1st vs 2nd Generation Computers**| **Core Hardware Switching Tech**| 1st Generation ($1940	ext{s}–50	ext{s}$) used **Vacuum Tubes**. 2nd Generation ($1950	ext{s}–60	ext{s}$) used **Transistors**. 3rd Generation used **Integrated Circuits (ICs)**. 4th Generation used **VLSI Microprocessors**. | प्रथम पीढ़ी = वैक्यूम ट्यूब; द्वितीय पीढ़ी = ट्रांजिस्टर; तृतीय = IC; चतुर्थ = माइक्रोप्रोसेसर |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Extrinsic Semiconductor Doping Anchors:
@@ -184,312 +169,226 @@ hide:
 - **Registers > Cache > RAM > SSD > HDD**
 - Fast & Volatile $	o$ Slow & Permanent.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-What is the minimum length of a standard MAC (Media Access Control) address?
-- (A) $16\text{ bits}$
-- (B) $32\text{ bits}$
-- (C) $48\text{ bits}$
-- (D) $64\text{ bits}$
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** A MAC address is a 48-bit (6-byte) physical hardware address burned into the network interface card (NIC), operating at the Data Link Layer (Layer 2) of the OSI model.
-
-**Ans: C.** $48\text{ bits}$
-</details>
-
-**Q2.**
-
-Which of the following optical disc formats utilizes a blue-violet laser with a wavelength of $405\text{ nm}$?
-- (A) CD-ROM
-- (B) DVD-R
-- (C) Blu-ray Disc
-- (D) Floppy Disk
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Blu-ray Discs use a $405\text{ nm}$ blue-violet laser, allowing a much tighter focus than the $650\text{ nm}$ red laser of DVDs, giving $25\text{ GB}$ storage per layer.
-
-**Ans: C.** Blu-ray Disc
-</details>
-
-**Q3.**
-
-In a 4-bit binary weighted code, which of the following is an example of a self-complementing code?
-- (A) $8421\text{ code}$
-- (B) $5211\text{ code}$
-- (C) $5421\text{ code}$
-- (D) Gray code
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** A code is self-complementing if the sum of its weights equals 9.
-
-**Ans: B.** $5211\text{ code}$
-</details>
-
-**Q4.**
-
-The international AI Action Summit held in February 2025 took place in:
-- (A) London
-- (B) Seoul
-- (C) Paris
-- (D) New Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Paris.
-
-**Ans: C.** Paris
-</details>
-
-**Q5.**
-
-In the context of computer security, a software that disguises itself as useful legitimate software while executing unauthorized background actions without self-replicating is called:
-- (A) Virus
-- (B) Worm
-- (C) Trojan Horse
-- (D) Keylogger
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Unlike viruses and worms, Trojans do not attempt to self-replicate or inject code into other files.
-
-**Ans: C.** Trojan Horse
-</details>
-
----
-
-**Q6. (UPPCS (Mains) 2015)**
-
-Which one of the following is the best conductor of
-
-electricity?
-
-(a) Mica (b) Copper
-
-(c) Gold (d) Silver
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Silver
-</details>
-
-**Q7. (UPPCS (Mains) 2012 / RAS/RTS(Pre) 2012)**
-
-Which of the following is the best conductor of
-
-electricity?
-
-(a) Aluminium (b) Copper
-
-(c) Silver (d) Gold
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Silver (d) Gold.
-
-**Ans: C.** Silver (d) Gold
-</details>
-
-**Q8. (UP RO/ARO (Mains) 2013)**
-
-Assertion (A): Copper rods are generally preferred
-
-to iron rods for making lightning
-
-conductors.
-
-Reason (R) : Copper is better conductor of electricity
-
-than iron and is not easily oxidized
-
-under atmospheric conditions.
-
-Code :
-
-(a) Both (A) and (R) are true and (R) is the correct
-
-explanation of (A).
-
-(b) Both (A) and (R) are true, but (R) is not the correct
-
-explanation of (A).
-
-CLICK HERE - JOIN @APNAPDFS
-
-Join @Apnapdfs
-
-G–141 General Studies General Science
-
-(c) (A) is true, but (R) is false.
-
-(d) (A) is false, but (R) is true.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Copper rods are preferred for making lightning conductor because : (i) Copper is a better conductor of electricity than iron.
-
-**Ans: A.** Both (A) and (R) are true and (R) is the correct
-</details>
-
-**Q9. (UP RO/ARO (Pre) 2023)**
-
-Given below are two statements, in which one is
-
-labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A) : A person travelling in a car with closed
-
-glass windows and doors is safe from the lightening
-
-strike.
-
-Reason (R) : Actually a closed car behaves like a hollow
-
-conductor, so charges cannot enter inside the car.
-
-Select the correct answer using the code given belowCode :
-
-(a) (A) is true but (R) is false.
-
-(b) Both (A) and (R) are true and (R) is correct explanation
-
-of (A).
-
-(c) (A) is false but (R) is true.
-
-(d) Both (A) and (R) are true but (R) is not correct
-
-explanation of (A).
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** A person travelling in a car with closed glass windows and doors is safe from the lightening strike, because closed car behaves like a closed hollow conductor (as a Faraday cage) and electric field or charge inside a cl…
-
-**Ans: B.** Both (A) and (R) are true and (R) is correct explanation
-</details>
-
-**Q10. (UPPCS (Pre) 2000)**
-
-At which temperature superconductivity can be
-
-of tremendous economic interest saving billions of
-
-rupees?
-
-(a) At very low temperature
-
-(b) At a temperature when semiconductor becomes a
-
-superconductor
-
-(c) at room temperature
-
-(d) At a very high temperature
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** If we could achieve superconductivity at room temperature then we can save billions of rupee through electric transmission without any power loss.
-
-**Ans: C.** at room temperature
-</details>
-
-**Q11. (UP Lower Sub (Pre) 2013)**
-
-The highest temperature attained by a superconductor
-
-is :
-
-(a) 24 K (b) 133 K
-
-(c) 150 K (d) 300 K
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** When superconductivity was discovered in 1911, it was found only at temperatures close to absolute zero (– 273.15°C).
-
-**Ans:** When superconductivity was discovered in 1911, it was found only at temperatures close to absolute zero (– 273.15°C).
-</details>
-
-**Q12. (Uttarakhand P.C.S. (Pre) 2006 / UPPCS (Pre) 2000)**
-
-The newly discovered high temperature super
-
-conductors are –
-
-(a) Metal alloys (b) Pure rare earth metals
-
-(c) Ceramic oxides (d) Inorganic polymers
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ceramic oxides play a vital role in the field of research and discovery towards superconductivity.
-
-**Ans: C.** Ceramic oxides
-</details>
-
-**Q13. (UPPCS (Mains) 2015)**
-
-The resistance of a semiconductor on heating :
-
-(a) Remains constant (b) Decreases
-
-(c) Increases (d) None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** With the increase in temperature, the conductivity of the semiconductor material increases.
-
-**Ans: B.** Decreases
-</details>
-
-**Q14. (UPPCS (Pre) 2015)**
-
-The most commonly used material for making
-
-transistors is –
-
-(a) Aluminium (b) Silicon
-
-(c) Copper (d) Silver
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Silicon
-</details>
-
-**Q15. (UP RO/ARO (Pre) 2016)**
-
-Which one of the following is an important component
-
-of a transistor?
-
-(a) Arsenic (b) Germanium
-
-(c) Osmium (d) Radium
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Germanium
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">What is the minimum length of a standard MAC (Media Access Control) address?<br>- (A) $16\text{ bits}$<br>- (B) $32\text{ bits}$<br>- (C) $48\text{ bits}$<br>- (D) $64\text{ bits}$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** A MAC address is a 48-bit (6-byte) physical hardware address burned into the network interface card (NIC), operating at the Data Link Layer (Layer 2) of the OSI model.
+
+**Ans: C.** $48\text{ bits}$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following optical disc formats utilizes a blue-violet laser with a wavelength of $405\text{ nm}$?<br>- (A) CD-ROM<br>- (B) DVD-R<br>- (C) Blu-ray Disc<br>- (D) Floppy Disk</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Blu-ray Discs use a $405\text{ nm}$ blue-violet laser, allowing a much tighter focus than the $650\text{ nm}$ red laser of DVDs, giving $25\text{ GB}$ storage per layer.
+
+**Ans: C.** Blu-ray Disc</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">In a 4-bit binary weighted code, which of the following is an example of a self-complementing code?<br>- (A) $8421\text{ code}$<br>- (B) $5211\text{ code}$<br>- (C) $5421\text{ code}$<br>- (D) Gray code</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** A code is self-complementing if the sum of its weights equals 9.
+
+**Ans: B.** $5211\text{ code}$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The international AI Action Summit held in February 2025 took place in:<br>- (A) London<br>- (B) Seoul<br>- (C) Paris<br>- (D) New Delhi</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Paris.
+
+**Ans: C.** Paris</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In the context of computer security, a software that disguises itself as useful legitimate software while executing unauthorized background actions without self-replicating is called:<br>- (A) Virus<br>- (B) Worm<br>- (C) Trojan Horse<br>- (D) Keylogger</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Unlike viruses and worms, Trojans do not attempt to self-replicate or inject code into other files.
+
+**Ans: C.** Trojan Horse</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">(UPPCS (Mains) 2015)</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is the best conductor of<br><br>electricity?<br><br>(a) Mica (b) Copper<br><br>(c) Gold (d) Silver</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Silver</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">(UPPCS (Mains) 2012 / RAS/RTS(Pre) 2012)</span>
+  </div>
+  <div class="pyq-stem">Which of the following is the best conductor of<br><br>electricity?<br><br>(a) Aluminium (b) Copper<br><br>(c) Silver (d) Gold</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Silver (d) Gold.
+
+**Ans: C.** Silver (d) Gold</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">(UP RO/ARO (Mains) 2013)</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Copper rods are generally preferred<br><br>to iron rods for making lightning<br><br>conductors.<br><br>Reason (R) : Copper is better conductor of electricity<br><br>than iron and is not easily oxidized<br><br>under atmospheric conditions.<br><br>Code :<br><br>(a) Both (A) and (R) are true and (R) is the correct<br><br>explanation of (A).<br><br>(b) Both (A) and (R) are true, but (R) is not the correct<br><br>explanation of (A).<br><br>CLICK HERE - JOIN @APNAPDFS<br><br>Join @Apnapdfs<br><br>G–141 General Studies General Science<br><br>(c) (A) is true, but (R) is false.<br><br>(d) (A) is false, but (R) is true.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Copper rods are preferred for making lightning conductor because : (i) Copper is a better conductor of electricity than iron.
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">(UP RO/ARO (Pre) 2023)</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, in which one is<br><br>labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A) : A person travelling in a car with closed<br><br>glass windows and doors is safe from the lightening<br><br>strike.<br><br>Reason (R) : Actually a closed car behaves like a hollow<br><br>conductor, so charges cannot enter inside the car.<br><br>Select the correct answer using the code given belowCode :<br><br>(a) (A) is true but (R) is false.<br><br>(b) Both (A) and (R) are true and (R) is correct explanation<br><br>of (A).<br><br>(c) (A) is false but (R) is true.<br><br>(d) Both (A) and (R) are true but (R) is not correct<br><br>explanation of (A).</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** A person travelling in a car with closed glass windows and doors is safe from the lightening strike, because closed car behaves like a closed hollow conductor (as a Faraday cage) and electric field or charge inside a cl…
+
+**Ans: B.** Both (A) and (R) are true and (R) is correct explanation</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2000)</span>
+  </div>
+  <div class="pyq-stem">At which temperature superconductivity can be<br><br>of tremendous economic interest saving billions of<br><br>rupees?<br><br>(a) At very low temperature<br><br>(b) At a temperature when semiconductor becomes a<br><br>superconductor<br><br>(c) at room temperature<br><br>(d) At a very high temperature</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** If we could achieve superconductivity at room temperature then we can save billions of rupee through electric transmission without any power loss.
+
+**Ans: C.** at room temperature</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The highest temperature attained by a superconductor<br><br>is :<br><br>(a) 24 K (b) 133 K<br><br>(c) 150 K (d) 300 K</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** When superconductivity was discovered in 1911, it was found only at temperatures close to absolute zero (– 273.15°C).
+
+**Ans:** When superconductivity was discovered in 1911, it was found only at temperatures close to absolute zero (– 273.15°C).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">(Uttarakhand P.C.S. (Pre) 2006 / UPPCS (Pre) 2000)</span>
+  </div>
+  <div class="pyq-stem">The newly discovered high temperature super<br><br>conductors are –<br><br>(a) Metal alloys (b) Pure rare earth metals<br><br>(c) Ceramic oxides (d) Inorganic polymers</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ceramic oxides play a vital role in the field of research and discovery towards superconductivity.
+
+**Ans: C.** Ceramic oxides</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">(UPPCS (Mains) 2015)</span>
+  </div>
+  <div class="pyq-stem">The resistance of a semiconductor on heating :<br><br>(a) Remains constant (b) Decreases<br><br>(c) Increases (d) None of the above</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** With the increase in temperature, the conductivity of the semiconductor material increases.
+
+**Ans: B.** Decreases</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2015)</span>
+  </div>
+  <div class="pyq-stem">The most commonly used material for making<br><br>transistors is –<br><br>(a) Aluminium (b) Silicon<br><br>(c) Copper (d) Silver</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Silicon</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">(UP RO/ARO (Pre) 2016)</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is an important component<br><br>of a transistor?<br><br>(a) Arsenic (b) Germanium<br><br>(c) Osmium (d) Radium</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Germanium</div>
+  </div>
+</div>

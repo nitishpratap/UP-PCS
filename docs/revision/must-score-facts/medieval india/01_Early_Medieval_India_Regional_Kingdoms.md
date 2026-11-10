@@ -204,40 +204,6 @@ hide:
 | **Kalinjar (Banda)** | **Kalinjaradurg** | Chandela military fort; held against Mahmud Ghazni (1019, 1022) |
 | **Aligarh** | **Koil / Kol** | Annexed by Qutbuddin Aibak in 1194 CE |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Early Medieval | Delhi Sultanate | ~750–1200 regional/feudal vs from **1206** Turkish rule | प्रारंभिक मध्यकाल / दिल्ली सल्तनत |
-| Tripartite Struggle | South P-C-R-C cycle | Kannauj contest (Pala+Pratihara+Rashtrakuta) vs Tamil–Deccan power rotation | त्रिपक्षीय संघर्ष / दक्षिण चक्र |
-| Pallava | Chola | **Kanchi**, pre-9th structural temples vs **Thanjavur** empire from Vijayalaya **850** | पल्लव / चोल |
-| Early Chalukya | Western Chalukya | **Badami/Vatapi** (6th–8th) vs **Kalyani** (10th–12th) | प्राचीन चालुक्य / पश्चिमी चालुक्य |
-| Ur | Sabha/Mahasabha | General village assembly vs Brahmana **agrahara** assembly | उर / सभा |
-| Nadu | Mandalam | Basic unit (village cluster) vs province (empire had **4**) | नाडु / मंडलम |
-| Mihir Bhoja | Bhoja I (Paramara) | **Pratihara**, title **Adivaraha**, Kannauj vs **Malwa/Dhara** scholar-king | मिहिर भोज / परमार भोज |
-| Gahadavala | Pratihara | 11th–12th Kannauj+Banaras Rajputs vs 8th–10th imperial Kannauj holders | गहड़वाल / गुर्जर-प्रतिहार |
-| Chandela | Paramara | Bundelkhand/**Khajuraho**/Mahoba vs Malwa/**Dhara** | चंदेल / परमार |
-| Devagiri | Warangal | **Yadava** (later Daulatabad) vs **Kakatiya** (Orugallu) | देवगिरी / वारंगल |
-| Kannauj | Kanchi | UP sovereignty prize vs Tamil Pallava capital | कन्नौज / कांची |
-| Shore Temple | Brihadishwara | Pallava Mahabalipuram ~7th vs Chola Rajaraja **1010** Tanjore | शोर मंदिर / बृहदीश्वर |
-| Adivaraha | Gangaikondachola | Mihir Bhoja (Pratihara) vs Rajendra I (Chola) | आदिवराह / गंगैकोंडचोल |
-| Vijayalaya | Rajaraja I | Imperial Chola **founder ~850** vs peak navy / Brihadishwara builder | विजयालय / राजराज |
-| Rajaraja I (N. Lanka) | Rajendra I (whole Lanka) | Northern conquest vs full island + Mahendra V prisoner | राजराज / राजेन्द्र |
-| Thotta Variyam | Eri Variyam | Gardens / horticulture vs tanks and water | तोट्टा / एरी |
-| Eripatti | Taniyur | Tank-maintenance land vs large single-unit village | एरिपट्टी / तनियूर |
-| Nataraja | Dakshinamurti | Four-armed dancing Shiva vs teacher form facing south | नटराज / दक्षिणामूर्ति |
-| Badami / Vatapi | Vanavasi | Early Chalukya capital vs **Kadamba** capital | वातापी / वनवासी |
-| Vengi (Pedavegi) | Rajahmundry | Eastern Chalukya capital **Pedavegi** near **Eluru** vs later seat **Rajamahendravaram** | वेंगी / राजमहेन्द्रवरम |
-| Vanchi / Karur | Madurai | Chera capital vs Pandya capital | वंची / मदुरै |
-| Tarain | Chandawar | **1192** Prithviraj vs **1194** Jay Chandra | तराइन / चंदावर |
-| Mihir Bhoja (Pratihara) | Bhoja (Paramara) | Adivaraha / Kannauj vs Dhara scholar-king / Bhojshala | मिहिर भोज / परमार भोज |
-| Jejakabhukti | Kaushambi | Ancient **Bundelkhand** vs doab city | जेजाकभुक्ति / कौशांबी |
-| Vikramashila | Odantapuri | **Dharmapala** vs **Gopala** (Bihar seats) | विक्रमशिला / ओदन्तपुरी |
-| Prithviraj Raso | Prithviraja Vijaya | Chand Bardai vs **Jayanaka** | पृथ्वीराज रासो / विजय |
-| Hammir Raso | Hammira Mahakavya | **Sharangadeva** vs Nayachandra Suri epic | हम्मीर रासो / महाकाव्य |
-| Rajasekhara | Hemadri / Vijnaneshwara | Pratihara court poet vs early medieval **jurists** | राजशेखर / हेमाद्रि–विज्ञानेश्वर |
-| Anhilwada | Dhara | Solanki capital vs Paramara capital | अणहिलवाड़ / धारा |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **South Imperial Sequence: P–C–R–C**
@@ -271,31 +237,33 @@ hide:
    - **Mihir Bhoja:** Gurjara-Pratihara emperor, capital Kannauj, title **Adivaraha**, praised by Arab chronicler Sulaiman / Al-Masudi (Baura).
    - **Raja Bhoja (Bhoja I):** Paramara king of Malwa, capital **Dhara (Dhar)**, scholar-polymath, wrote *Samarangana Sutradhara*, built **Bhojshala** (Saraswati temple).
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Match List-I (Ruler) with List-II (Dynasty):
-
-| List-I | List-II |
-|--------|---------|
-| A. Mahendravarman I | 1. Rashtrakuta |
-| B. Kadungon | 2. Pallava |
-| C. Amoghavarsha I | 3. Chola |
-| D. Rajaraja I | 4. Pandya |
-
-*Row order in the table is not the answer code.*
-
-A. 4 2 3 1
-B. 2 4 1 3
-C. 2 4 3 1
-D. 4 2 1 3
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (2–4–1–3 / A-2, B-4, C-1, D-3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Ruler) with List-II (Dynasty):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Mahendravarman I</td><td><span class="match-key">1</span> Rashtrakuta</td></tr>
+      <tr><td><span class="match-key">B</span> Kadungon</td><td><span class="match-key">2</span> Pallava</td></tr>
+      <tr><td><span class="match-key">C</span> Amoghavarsha I</td><td><span class="match-key">3</span> Chola</td></tr>
+      <tr><td><span class="match-key">D</span> Rajaraja I</td><td><span class="match-key">4</span> Pandya</td></tr>
+  </tbody>
+</table><br>*Row order in the table is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 2 3 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 4 1 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 2 1 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (2–4–1–3 / A-2, B-4, C-1, D-3)
 
 **Detailed Explanation:**
 - **A. Mahendravarman I → 2. Pallava:** Early 7th-century Pallava king of Kanchi; author of the Sanskrit farce *Mattavilasa Prahasana*; fought against Badami Chalukya king Pulakeshin II.
@@ -305,28 +273,22 @@ D. 4 2 1 3
 
 **Key Exam Takeaway / Trap:**
 - Kadungon revived the **Pandyas** (Madurai), while Simhavishnu simultaneously revived the **Pallavas** (Kanchi) around 575–590 CE.
-- Amoghavarsha I ruled for 64 years at **Manyakheta** (Rashtrakuta), completely separate from the Chola line.
+- Amoghavarsha I ruled for 64 years at **Manyakheta** (Rashtrakuta), completely separate from the Chola line.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-Arrange the following Sen rulers of Bengal in ascending chronological order:
-
-1. Ballal Sen
-2. Lakshman Sen
-3. Hemant Sen
-4. Vijaya Sen
-
-Select the correct answer from the codes given below:
-A. 4, 3, 2, 1
-B. 2, 1, 4, 3
-C. 1, 2, 3, 4
-D. 3, 4, 1, 2
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **D** (3–4–1–2 / Hemant Sen → Vijaya Sen → Ballal Sen → Lakshman Sen)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Sen rulers of Bengal in ascending chronological order:<br><br>1. Ballal Sen<br>2. Lakshman Sen<br>3. Hemant Sen<br>4. Vijaya Sen<br><br>Select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 3, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 4, 1, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (3–4–1–2 / Hemant Sen → Vijaya Sen → Ballal Sen → Lakshman Sen)
 
 **Detailed Explanation:**
 The chronological sequence of the Sena kings of Bengal is:
@@ -337,27 +299,22 @@ The chronological sequence of the Sena kings of Bengal is:
 
 **Mnemonic / Exam Trap:**
 - Use the mnemonic **H–V–B–L** (Hemant → Vijaya → Ballal → Lakshman).
-- Never place Ballal Sen before Vijaya Sen or reverse the Ballal–Lakshman order.
+- Never place Ballal Sen before Vijaya Sen or reverse the Ballal–Lakshman order.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** We have much more information about Cholas than their predecessors.
-
-**Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
-
-Select the correct answer from the codes given below.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both A and R are true, and R is the correct explanation of A)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):<br><br>**Assertion (A):** We have much more information about Cholas than their predecessors.<br><br>**Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.<br><br>Select the correct answer from the codes given below.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Both A and R are true, and R is the correct explanation of A)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** Modern historians possess significantly greater and more reliable historical data regarding the Imperial Cholas than for any preceding South Indian dynasty.
@@ -365,31 +322,32 @@ D. (A) is false but (R) is true
 - **Why (R) explains (A):** The deliberate engraving of detailed historical accounts on permanent stone temple walls preserved a massive epigraphic archive, which directly accounts for the wealth of historical information available about the Cholas.
 
 **Key Exam Takeaway / Trap:**
-- The *Meikeerthi* tradition was an epigraphic innovation of the Imperial Cholas, initiated by Rajaraja I.
+- The *Meikeerthi* tradition was an epigraphic innovation of the Imperial Cholas, initiated by Rajaraja I.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-Match List-I (Ruling Dynasties) with List-II (Capitals):
-
-| List-I | List-II |
-|--------|---------|
-| A. Pallava | 1. Warangal |
-| B. Pandya | 2. Kanchi |
-| C. Yadava | 3. Madura |
-| D. Kakatiya | 4. Devagiri |
-
-*Row order in the table is not the answer code.*
-
-A. 2 1 4 3
-B. 2 3 4 1
-C. 1 2 3 4
-D. 2 4 3 1
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (2–3–4–1 / A-2, B-3, C-4, D-1)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Ruling Dynasties) with List-II (Capitals):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Pallava</td><td><span class="match-key">1</span> Warangal</td></tr>
+      <tr><td><span class="match-key">B</span> Pandya</td><td><span class="match-key">2</span> Kanchi</td></tr>
+      <tr><td><span class="match-key">C</span> Yadava</td><td><span class="match-key">3</span> Madura</td></tr>
+      <tr><td><span class="match-key">D</span> Kakatiya</td><td><span class="match-key">4</span> Devagiri</td></tr>
+  </tbody>
+</table><br>*Row order in the table is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 2 3 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 4 3 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (2–3–4–1 / A-2, B-3, C-4, D-1)
 
 **Detailed Explanation:**
 - **A. Pallava → 2. Kanchi:** Capital at Kanchipuram (Tamil Nadu), celebrated for silk and religious learning.
@@ -398,28 +356,22 @@ D. 2 4 3 1
 - **D. Kakatiya → 1. Warangal:** Capital at Warangal (Orugallu, Telangana), famous for its rock fort and Thousand Pillar temple.
 
 **Key Exam Takeaway / Trap:**
-- Do not invert Devagiri (Yadava) and Warangal (Kakatiya).
+- Do not invert Devagiri (Yadava) and Warangal (Kakatiya).</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Arrange the following temples in a chronological order and select the correct answer from the codes given below:
-
-I. Brihdishwar temple
-II. Gangaikonda cholapuram temple
-III. Shore temple of Mahabalipuram
-IV. Sapt pagoda
-
-Options:
-A. I, II, IV, III
-B. II, I, III, IV
-C. III, II, I, IV
-D. IV, III, I, II
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **D** (IV, III, I, II)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the following temples in a chronological order and select the correct answer from the codes given below:<br><br>I. Brihdishwar temple<br>II. Gangaikonda cholapuram temple<br>III. Shore temple of Mahabalipuram<br>IV. Sapt pagoda<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, IV, III</div><div class="pyq-opt"><span class="opt-letter">B</span> II, I, III, IV</div><div class="pyq-opt"><span class="opt-letter">C</span> III, II, I, IV</div><div class="pyq-opt"><span class="opt-letter">D</span> IV, III, I, II</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (IV, III, I, II)
 
 **Detailed Explanation:**
 Chronological sequence of temple construction:
@@ -430,24 +382,22 @@ Chronological sequence of temple construction:
 
 **Key Exam Takeaway / Trap:**
 - Rock-cut architecture (Sapt Pagoda) preceded structural masonry (Shore Temple).
-- Thanjavur (Rajaraja I, 1010) preceded Gangaikondacholapuram (Rajendra I, ~1035).
+- Thanjavur (Rajaraja I, 1010) preceded Gangaikondacholapuram (Rajendra I, ~1035).</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-Which of the following pairs is NOT correctly matched?
-
-State — Ruler
-
-A. Devgiri — Shankar Dev
-B. Warangal — Ramchandra Dev
-C. Hoysal — Veer Ballal
-D. Madura — Veer Pandya
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (Warangal — Ramchandra Dev is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?<br><br>State — Ruler</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Devgiri — Shankar Dev</div><div class="pyq-opt"><span class="opt-letter">B</span> Warangal — Ramchandra Dev</div><div class="pyq-opt"><span class="opt-letter">C</span> Hoysal — Veer Ballal</div><div class="pyq-opt"><span class="opt-letter">D</span> Madura — Veer Pandya</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Warangal — Ramchandra Dev is NOT correctly matched)
 
 **Detailed Explanation:**
 - **A. Devgiri — Shankar Dev (Correct):** Shankaradeva was the crown prince and ruler of the Yadavas of Devagiri who resisted Malik Kafur in 1312 CE.
@@ -456,28 +406,22 @@ D. Madura — Veer Pandya
 - **D. Madura — Veer Pandya (Correct):** Vira Pandya was a co-ruler in the Pandyan kingdom at Madurai during the 1311 CE invasion.
 
 **Key Exam Takeaway / Trap:**
-- Ramachandra Dev is inextricably linked to **Devagiri (Maharashtra)**, not Warangal (Telangana).
+- Ramachandra Dev is inextricably linked to **Devagiri (Maharashtra)**, not Warangal (Telangana).</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.** With reference to Early Medieval India, which of the following statements is/are correct?
-
-1. The period is roughly dated about 1206–1526 CE as the Delhi Sultanate age.
-2. The Delhi Sultanate begins in 1206 CE.
-3. Early Medieval India is identical with the Delhi Sultanate phase.
-
-A. Only 2
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Only Statement 2 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Early Medieval India, which of the following statements is/are correct?<br><br>1. The period is roughly dated about 1206–1526 CE as the Delhi Sultanate age.<br>2. The Delhi Sultanate begins in 1206 CE.<br>3. Early Medieval India is identical with the Delhi Sultanate phase.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Only Statement 2 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is incorrect:** Early Medieval India spans roughly **c. 750–1200 CE** (from the fragmentation of Harsha's empire to the eve of Turkish conquests). The period 1206–1526 CE designates the Delhi Sultanate.
@@ -485,32 +429,32 @@ D. 1 and 3
 - **Statement 3 is incorrect:** Early Medieval India is characterized by regional Rajput and Deccan kingdoms (Gurjara-Pratihara, Pala, Rashtrakuta, Chola), completely distinct from the centralized Turkish sultanate phase.
 
 **Key Exam Takeaway / Trap:**
-- UPPCS strictly demarcates the Early Medieval phase as c. 750–1200 CE, distinct from the Sultanate (1206–1526 CE).
+- UPPCS strictly demarcates the Early Medieval phase as c. 750–1200 CE, distinct from the Sultanate (1206–1526 CE).</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (Dynasty) | List-II (Capital / seat) |
-|------------------|--------------------------|
-| A. Pallava | 1. Madurai |
-| B. Pandya | 2. Kanchi |
-| C. Rashtrakuta | 3. Manyakheta |
-| D. Early Chalukya | 4. Badami / Vatapi |
-
-*Row order is not the answer code.*
-
-Code:
-
-A. A-1, B-2, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-4, B-1, C-2, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (A-2, B-1, C-3, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Dynasty)</th><th>List-II (Capital / seat)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Pallava</td><td><span class="match-key">1</span> Madurai</td></tr>
+      <tr><td><span class="match-key">B</span> Pandya</td><td><span class="match-key">2</span> Kanchi</td></tr>
+      <tr><td><span class="match-key">C</span> Rashtrakuta</td><td><span class="match-key">3</span> Manyakheta</td></tr>
+      <tr><td><span class="match-key">D</span> Early Chalukya</td><td><span class="match-key">4</span> Badami / Vatapi</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*<br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-1, C-2, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (A-2, B-1, C-3, D-4)
 
 **Detailed Explanation:**
 - **A. Pallava → 2. Kanchi:** Capital at Kanchipuram (Tamil Nadu).
@@ -519,25 +463,22 @@ D. A-4, B-1, C-2, D-3
 - **D. Early Chalukya → 4. Badami / Vatapi:** Capital at Vatapi (modern Badami, Bagalkot district, Karnataka) founded by Pulakeshin I.
 
 **Key Exam Takeaway / Trap:**
-- Early Chalukyas ruled from **Badami**, whereas Later Western Chalukyas ruled from **Kalyani**. Do not combine them.
+- Early Chalukyas ruled from **Badami**, whereas Later Western Chalukyas ruled from **Kalyani**. Do not combine them.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): The Tripartite Struggle was fought for control of Kannauj.
-
-Reason (R): Pala, Gurjara-Pratihara, and Rashtrakuta powers contested the city.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): The Tripartite Struggle was fought for control of Kannauj.<br><br>Reason (R): Pala, Gurjara-Pratihara, and Rashtrakuta powers contested the city.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** The Western Chalukyas of Kalyani and the Imperial Cholas were locked in fierce, continuous conflict across the 11th and 12th centuries.
@@ -545,25 +486,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Why (R) explains (A):** The geopolitical competition over these fertile borderlands and commercial trade corridors directly caused recurring warfare between the two rival powers.
 
 **Key Exam Takeaway / Trap:**
-- The conflict between Kalyani Chalukyas and Cholas centered specifically on **Vengi and the Tungabhadra doab**.
+- The conflict between Kalyani Chalukyas and Cholas centered specifically on **Vengi and the Tungabhadra doab**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.** Arrange the following temple-building landmarks in chronological order:
-
-1. Brihadishwara (Thanjavur)
-2. Shore Temple (Mahabalipuram)
-3. Gangaikondacholapuram temple complex (Rajendra phase)
-
-A. 1–2–3
-B. 2–1–3
-C. 2–3–1
-D. 3–2–1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3–1–2 / Shore Temple → Brihadishwara → Gangaikondacholapuram)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Arrange the following temple-building landmarks in chronological order:<br><br>1. Brihadishwara (Thanjavur)<br>2. Shore Temple (Mahabalipuram)<br>3. Gangaikondacholapuram temple complex (Rajendra phase)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1–2–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–1–3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–3–1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3–2–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3–1–2 / Shore Temple → Brihadishwara → Gangaikondacholapuram)
 
 **Detailed Explanation:**
 The correct ascending chronological order is:
@@ -573,25 +511,22 @@ The correct ascending chronological order is:
 
 **Key Exam Takeaway / Trap:**
 - Remember: Pallava structural temples (~8th c.) preceded Chola imperial temples (11th c.).
-- Brihadishwara (father Rajaraja I) preceded Gangaikondacholapuram (son Rajendra I).
+- Brihadishwara (father Rajaraja I) preceded Gangaikondacholapuram (son Rajendra I).</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.** Which of the following pairs is/are NOT correctly matched?
-
-1. Mihir Bhoja — Paramara scholar-king of Dhara
-2. Mihir Bhoja — Pratihara ruler with title Adivaraha
-3. Bhoja I — Paramara of Malwa / Dhara
-
-A. 1 only
-B. 2 only
-C. 2 and 3 only
-D. 1 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Only pair 1 is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Mihir Bhoja — Paramara scholar-king of Dhara<br>2. Mihir Bhoja — Pratihara ruler with title Adivaraha<br>3. Bhoja I — Paramara of Malwa / Dhara</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Only pair 1 is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1: Mihir Bhoja — Paramara scholar-king of Dhara (INCORRECT):** **Mihir Bhoja (c. 836–885 CE)** was the greatest emperor of the **Gurjara-Pratihara dynasty** of Kannauj, who bore the title *Adivaraha*. The famous scholar-king of Dhara in Malwa was **Bhoja I (c. 1010–1055 CE)** of the **Paramara dynasty**.
@@ -599,25 +534,22 @@ D. 1 and 3 only
 - **Pair 3: Amoghavarsha I — Rashtrakuta of Manyakheta (Correct):** Long-reigning monarch and author of *Kavirajamarga*.
 
 **Key Exam Takeaway / Trap:**
-- Confusing **Mihir Bhoja** (Gurjara-Pratihara of Kannauj; title *Adivaraha*) with **Bhoja I** (Paramara of Dhara; scholar-king) is one of the oldest UPPCS traps.
+- Confusing **Mihir Bhoja** (Gurjara-Pratihara of Kannauj; title *Adivaraha*) with **Bhoja I** (Paramara of Dhara; scholar-king) is one of the oldest UPPCS traps.</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.** With reference to Chola administration, which of the following statements is/are correct?
-
-1. The hierarchy ran Mandalam → Valanadu → Nadu → Village.
-2. The empire had four mandalams at its peak.
-3. Ur was the Brahmana agrahara assembly.
-
-A. Only 1, 2 and 3
-B. Only 1 and 2
-C. Only 2 and 3
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Statements 1 and 2 only are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Chola administration, which of the following statements is/are correct?<br><br>1. The hierarchy ran Mandalam → Valanadu → Nadu → Village.<br>2. The empire had four mandalams at its peak.<br>3. Ur was the Brahmana agrahara assembly.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Statements 1 and 2 only are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** The territorial administrative hierarchy of the Chola Empire ran: **Mandalam** (province) → **Valanadu / Kottam** (district cluster) → **Nadu** (district/taluk) → **Gramam / Kurram** (village unit).
@@ -625,27 +557,22 @@ D. 1 and 3
 - **Statement 3 is incorrect:** The empire was **not** divided into 20 mandalams; even at its greatest expansion under Rajendra I (including overseas territories), the total formal mandalams never reached 20.
 
 **Key Exam Takeaway / Trap:**
-- Keep the descending administrative ladder clear: **Mandalam → Valanadu → Nadu → Kurram / Village**.
+- Keep the descending administrative ladder clear: **Mandalam → Valanadu → Nadu → Kurram / Village**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.** Consider the following pairs:
-
-1. Hoysala — Halebid / Dvarasamudra
-2. Kakatiya — Warangal
-3. Yadava — Devagiri
-
-Which of the pairs given above is/are correctly matched?
-
-A. Only 1
-B. 1 and 2
-C. All 1, 2 and 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (All three statements are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>1. Hoysala — Halebid / Dvarasamudra<br>2. Kakatiya — Warangal<br>3. Yadava — Devagiri<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (All three statements are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** The **Hoysalas** ruled from **Halebid** (ancient **Dvarasamudra**) in modern Hassan district, Karnataka, noted for the star-shaped Hoysaleswara Temple.
@@ -653,25 +580,22 @@ D. 2 and 3
 - **Statement 3 is correct:** The **Yadavas (Seunas)** ruled from the hill-fort capital of **Devagiri** (modern Daulatabad) in Maharashtra.
 
 **Key Exam Takeaway / Trap:**
-- Memorize the Deccan triangle: Hoysala–Halebid | Kakatiya–Warangal | Yadava–Devagiri.
+- Memorize the Deccan triangle: Hoysala–Halebid | Kakatiya–Warangal | Yadava–Devagiri.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): The Battle of Takkolam (949) broke Chola power for a generation.
-
-Reason (R): Rashtrakuta Krishna III’s confederacy killed Chola prince Rajaditya.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): The Battle of Takkolam (949) broke Chola power for a generation.<br><br>Reason (R): Rashtrakuta Krishna III’s confederacy killed Chola prince Rajaditya.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** During the 11th century, the Bay of Bengal earned the famous historical nickname **"Chola Lake"**.
@@ -679,32 +603,32 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Why (R) explains (A):** The complete maritime subjugation of the littoral states along the Bay of Bengal converted this vast body of water into an internal Chola highway.
 
 **Key Exam Takeaway / Trap:**
-- The naval assault on Kadaram occurred in **1025 CE** under **Rajendra I**.
+- The naval assault on Kadaram occurred in **1025 CE** under **Rajendra I**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.** Match List-I with List-II:
-
-| List-I (Ruler) | List-II (Dynasty) |
-|----------------|-------------------|
-| A. Mahendravarman | 1. Chola |
-| B. Amoghavarsha | 2. Pallava |
-| C. Rajaraja | 3. Rashtrakuta |
-| D. Kadungon | 4. Pandya |
-
-*Row order is not the answer code.*
-
-Code:
-
-A. A-2, B-3, C-1, D-4
-B. A-1, B-2, C-3, D-4
-C. A-2, B-1, C-4, D-3
-D. A-3, B-2, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-2, B-3, C-1, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Ruler)</th><th>List-II (Dynasty)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Mahendravarman</td><td><span class="match-key">1</span> Chola</td></tr>
+      <tr><td><span class="match-key">B</span> Amoghavarsha</td><td><span class="match-key">2</span> Pallava</td></tr>
+      <tr><td><span class="match-key">C</span> Rajaraja</td><td><span class="match-key">3</span> Rashtrakuta</td></tr>
+      <tr><td><span class="match-key">D</span> Kadungon</td><td><span class="match-key">4</span> Pandya</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*<br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-2, C-1, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (A-2, B-3, C-1, D-4)
 
 **Detailed Explanation:**
 - **A. Mahendravarman I → 2. Pallava; *Mattavilasa Prahasana*:** Celebrated Pallava royal dramatist and builder.
@@ -714,6 +638,6 @@ D. A-3, B-2, C-1, D-4
 
 **Key Exam Takeaway / Trap:**
 - *Vatapikonda* is **Narasimhavarman I** (Pallava).
-- *Hiranyagarbha at Ujjain* was performed by **Dantidurga** (Rashtrakuta founder).
-
-</details>
+- *Hiranyagarbha at Ujjain* was performed by **Dantidurga** (Rashtrakuta founder).</div>
+  </div>
+</div>

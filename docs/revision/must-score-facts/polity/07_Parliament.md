@@ -74,6 +74,31 @@ hide:
 48. **Leader of the Opposition (LoP):** Leader of the largest opposition party having at least **1/10th of the total strength (55 seats in Lok Sabha)**; accorded statutory recognition by the **Salaries and Allowances of Leaders of Opposition in Parliament Act, 1977**; given rank and salary of a Cabinet Minister; serves on statutory selection committees for CVC, CBI Director, CIC, Lokpal, and NHRC.
 49. **Whip Architecture:** Derived from British conventions (not mentioned in Constitution, Rules of Procedure, or Parliamentary Statutes); issued by political parties to enforce party discipline and mandatory voting; defying a three-line whip triggers disqualification under the **10th Schedule (Anti-Defection Law)** unless condoned by party within 15 days.
 50. **Parliamentary Majorities Classification:**
+51. **Composition of Lok Sabha (Article 81):** Maximum permissible strength originally 552 (530 States + 20 UTs + 2 Anglo-Indians); **104th Amendment Act, 2019** discontinued nomination of 2 Anglo-Indians (Art. 331); current maximum strength is **550 (530 States + 20 UTs)**; current actual strength is 543.
+52. **Composition of Rajya Sabha (Article 80):** Maximum strength **250** (238 representatives of States and UTs + 12 nominated by President for expertise in Literature, Science, Art, and Social Service); current actual strength is 245 (229 States + 4 UTs [Delhi 3, Puducherry 1] + 12 Nominated; 4 J&K seats currently vacant); Rajya Sabha is a **permanent chamber** not subject to dissolution; one-third of its members retire every second year (member's tenure is **6 years**).
+53. **Qualifications for Parliament Membership (Article 84):** Citizen of India; age not less than **30 years for Rajya Sabha** and not less than **25 years for Lok Sabha**; registered elector in any parliamentary constituency in India (representation in RS does NOT require domicile in that state, upheld in *Kuldip Nayar v. UOI, 2006*).
+54. **Disqualification on Ground of Defection (Tenth Schedule):** Decided by the **Speaker/Chairman of the House**; in *Kihoto Hollohan v. Zachillhu (1992)*, SC held that the Presiding Officer acts as a tribunal and their decision is subject to **Judicial Review**.
+55. **Other Disqualifications (Article 102 & 103):** Holding office of profit under Union/State government, unsound mind, undischarged insolvent, alien citizenship; questions under Article 102 are decided by the **President in consultation with the Election Commission of India**, whose opinion is binding.
+56. **Speaker of Lok Sabha (Article 93):** Elected by Lok Sabha members from amongst themselves by simple majority; resigns by writing to the **Deputy Speaker** (and vice-versa); when a resolution for removal of Speaker is under consideration, Speaker **cannot preside**, can speak and take part in proceedings, has right to vote in first instance, but CANNOT vote in case of equality of votes (Article 96).
+57. **Speaker Pro Tem:** Appointed by the President (usually the senior-most elected member of Lok Sabha) to administer oaths to newly elected MPs and preside over the election of the new Speaker.
+58. **Casting Vote of Presiding Officers (Article 100):** Chairman of RS and Speaker of LS do not vote in the first instance; they exercise a **casting vote ONLY in the case of an equality of votes (tie)**.
+59. **Quorum in Parliament (Article 100(3)):** Minimum presence required to constitute a meeting of either House is **one-tenth (10%) of the total number of members** of that House (55 in Lok Sabha, 25 in Rajya Sabha).
+60. **Sessions of Parliament (Article 85):** President summons each House; maximum gap between two sessions of Parliament cannot exceed **6 months**; Parliament must meet at least twice a year; India holds 3 annual sessions by convention: Budget Session (Feb–May), Monsoon Session (July–Sep), Winter Session (Nov–Dec).
+61. **Joint Sitting of Parliament (Article 108):** Summoned by President if a bill passed by one House is rejected by the other, or Houses disagree on amendments, or more than 6 months elapse without passing; Presided over by the **Speaker of Lok Sabha** (in his absence, Deputy Speaker; in his absence, Deputy Chairman of Rajya Sabha; Chairman of Rajya Sabha NEVER presides); Joint Sitting applies ONLY to **Ordinary Bills and Financial Bills Type II**; it does NOT apply to **Money Bills** (Art. 110) or **Constitutional Amendment Bills** (Art. 368); passed by simple majority of total members present and voting.
+62. **Three Historical Joint Sittings in India:** (1) Dowry Prohibition Bill (1961), (2) Banking Service Commission (Repeal) Bill (1978), and (3) Prevention of Terrorism Bill (POTA, 2002).
+63. **Definition of Money Bill (Article 110):** A bill dealing ONLY with imposition, abolition, remission, alteration or regulation of any tax; borrowing of money; custody of Consolidated/Contingency Fund; appropriation of moneys out of Consolidated Fund; Speaker's certificate that a bill is a Money Bill is **final and conclusive** and cannot be questioned in any court.
+64. **Procedure in Respect of Money Bills (Article 109):** Can be introduced ONLY in **Lok Sabha** and ONLY on **prior recommendation of the President**; cannot be introduced in Rajya Sabha; Rajya Sabha cannot reject or amend a Money Bill; RS must return it with/without recommendations within **14 days**; if not returned within 14 days, deemed passed by both Houses in the form passed by Lok Sabha.
+65. **Financial Bills Classification (Article 117):** **Financial Bill (I) (Art. 117(1)):** Contains matters of Art. 110 plus general legislation; introduced ONLY in Lok Sabha on President's recommendation, but otherwise treated as Ordinary Bill (RS can reject/amend; Joint sitting possible); **Financial Bill (II) (Art. 117(3)):** Involves expenditure from Consolidated Fund; can be introduced in either House without prior recommendation, but requires President's recommendation for consideration/passage in either House.
+66. **Budget in Parliament (Article 112):** Referred to in Constitution as **'Annual Financial Statement'**; expenditure is divided into: (a) **Expenditure Charged upon Consolidated Fund** (non-votable; discussed by Parliament; e.g. salaries of President, SC judges, CAG, debt charges), and (b) **Expenditure Made from Consolidated Fund** (votable by Lok Sabha in form of Demands for Grants).
+67. **Cut Motions in Budget Scrutiny:** (1) **Policy Cut Motion:** Demands amount be reduced to ₹1 (disapproval of policy); (2) **Economy Cut Motion:** Demands amount be reduced by a specified amount; (3) **Token Cut Motion:** Demands amount be reduced by ₹100 (ventilates a specific grievance).
+68. **Guillotine Procedure:** On the last day of allotted days for discussing Demands for Grants, the Speaker puts all remaining undiscovered demands to vote without any further discussion.
+69. **Appropriation Bill (Article 114) & Vote on Account (Article 116):** No money can be withdrawn from the Consolidated Fund of India except under appropriation made by law (Art. 114); **Vote on Account** grants advance money to government to cover expenditure for a part of the financial year (usually 2 months) pending passage of the full Appropriation Bill.
+70. **Consolidated Fund vs Contingency Fund vs Public Account:** (1) **Consolidated Fund of India (Art. 266(1)):** All revenues, loans, and recoveries; operated under Parliamentary appropriation; (2) **Public Account of India (Art. 266(2)):** Provident funds, judicial deposits, savings bank deposits; executive operated without parliamentary vote; (3) **Contingency Fund of India (Art. 267):** ₹500 crore corpus placed at disposal of President to meet unforeseen expenditure pending authorization by Parliament.
+71. **Public Accounts Committee (PAC):** Oldest parliamentary financial committee (set up 1921 under GOI Act 1919); consists of **22 members (15 Lok Sabha + 7 Rajya Sabha)** elected annually by PR-STV; a Minister CANNOT be elected; Chairman appointed by Speaker from Lok Sabha members (by convention since 1967, Chairman belongs to the **Opposition**); examines appropriation accounts and CAG audit reports; CAG acts as 'friend, philosopher, and guide' of PAC.
+72. **Estimates Committee:** Largest Parliamentary Committee; set up in 1950 on recommendation of Finance Minister **John Matthai**; consists of **30 members, ALL exclusively from Lok Sabha** (Rajya Sabha has NO representation); ministers barred from membership; Chairman appointed by Speaker from ruling party; examines estimates to suggest economies and administrative reforms ('Continuous Economy Committee').
+73. **Committee on Public Undertakings (COPU):** Created in 1964 on recommendation of **Krishna Menon Committee**; consists of **22 members (15 Lok Sabha + 7 Rajya Sabha)**; examines reports and accounts of PSUs and CAG commercial audit reports; ministers barred from membership.
+74. **Departmentally Related Standing Committees (DRSCs):** 24 DRSCs (16 under Lok Sabha Speaker, 8 under Rajya Sabha Chairman); each DRSC consists of **31 members (21 Lok Sabha + 10 Rajya Sabha)**; ministers barred from membership; scrutinize Demands for Grants, examine bills, and consider annual reports.
+75. **Key Parliamentary Motions:** **No-Confidence Motion:** Admissible ONLY in Lok Sabha; requires support of at least **50 members**; if passed, Ministry must resign; **Censure Motion:** Can be moved against individual minister or entire ministry in Lok Sabha for specific policies; ministry need not resign if passed; **Calling Attention Motion:** Introduced by an MP to call attention of a minister to an urgent public matter (Indian innovation since 1954); **Adjournment Motion:** Introduced in Lok Sabha only to draw attention to definite matter of urgent public importance involving censure of government; requires support of 50 members.
    - **Simple Majority:** Majority of members present and voting (Ordinary bills, Money bills, No-Confidence, President's Rule, Financial Emergency, Art. 2/3 state formation).
    - **Effective Majority:** Majority of all 'then' members, excluding vacancies (Removal of VP in Rajya Sabha under Art. 67(b), Removal of Speaker/Deputy Speaker under Art. 94(c)).
    - **Special Majority (Art. 249 & 312):** 2/3rd of members present and voting.
@@ -160,25 +185,6 @@ hide:
 | Bill returned by President for reconsideration | **DOES NOT LAPSE** | Passed by both Houses already; reconsidered by new LS |
 | Joint sitting notified by President before dissolution | **DOES NOT LAPSE** | Presidential notification under Art. 108 supersedes dissolution |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| Rajya Sabha vs Lok Sabha Tenure | RS is **permanent body** (members 6 yrs, 1/3 retire every 2 yrs); LS is **5 years** | Say Rajya Sabha has a 6-year tenure | राज्यसभा स्थायी है (सदस्य 6 वर्ष) |
-| Money Bill 14-day rule | If RS does not return bill within **14 days**, deemed passed by both Houses | Give RS 30 or 60 days | 14 दिन में स्वतः पारित |
-| Joint Sitting Presiding Officer | Presided by **Speaker &rarr; Deputy Speaker &rarr; Deputy Chairman of RS**. Chairman of RS **NEVER** presides. | Let Vice-President preside over joint sitting | राज्यसभा सभापति कभी अध्यक्षता नहीं करता |
-| Joint Sitting Permissibility | Permissible for **Ordinary Bills** and **Financial Bills**. **FORBIDDEN** for Money Bills and Constitution Amendment Bills. | Allow joint sitting for Art. 368 bills | धन और संविधान संशोधन विधेयक में संयुक्त बैठक नहीं |
-| Estimates Committee Membership | **30 members, ALL FROM LOK SABHA**. Rajya Sabha has ZERO representation. | Include 7 Rajya Sabha members in Estimates | प्राक्कलन समिति = केवल लोकसभा (30) |
-| PAC Chairperson Convention | Appointed by Speaker from **Opposition** (convention since 1967). | Claim PAC chairman is chosen by election | लोक लेखा समिति अध्यक्ष = विपक्ष से |
-| Speaker Resignation Address | Resigns to **Deputy Speaker of Lok Sabha** (not President). | Address resignation to the President | अध्यक्ष उपाध्यक्ष को त्यागपत्र देता है |
-| Speaker Casting Vote | Votes **ONLY in a tie** (casting vote, Art. 100); cannot vote in first instance. | Give Speaker a vote in first instance | अध्यक्ष का केवल निर्णायक मत (टाई पर) |
-| Speaker Voting during Removal | Can vote in **first instance**, but **CANNOT cast a casting vote** in a tie (Art. 96). | Deny Speaker any vote during removal | हटाने के संकल्प पर प्रथम दृष्टया मत, निर्णायक नहीं |
-| Starred vs Unstarred Questions | **Starred** = Oral answer &rarr; Supplementary questions allowed. **Unstarred** = Written answer &rarr; NO supplementaries. | Allow supplementary questions on unstarred | तारांकित = मौखिक + पूरक प्रश्न अनुमेय |
-| Calling Attention vs Adjournment Motion | Calling attention = **No censure**; Adjournment motion = **Censure**, requires 50 members, LS only. | Treat calling attention as censure | ध्यानाकर्षण में निंदा नहीं होती |
-| High Court Judges Pension vs Salary | **Salaries** charged on **State Consolidated Fund**; **Pensions** charged on **Consolidated Fund of INDIA**. | Charge HC salaries on Union fund | उच्च न्यायालय न्यायाधीश पेंशन = भारत संचित निधि |
-| Quorum for Parliament | **1/10th of total membership** of each House (Art. 100(3)) = 55 in LS, 25 in RS. | Say 1/3rd or 1/6th | गणपूर्ति = 1/10 कुल सदस्य संख्या |
-| Art. 102 vs 10th Schedule Disqualification | Art. 102 (office of profit) decided by **President on ECI advice**; 10th Schedule (defection) decided by **Speaker/Chairman**. | Give ECI power to decide defection cases | दलबदल = अध्यक्ष; अयोग्यता = राष्ट्रपति (ECI सलाह) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Estimates Committee — The All-Lok Sabha Body:**
@@ -196,312 +202,300 @@ hide:
    - **Speaker &rarr; Deputy Speaker &rarr; Deputy Chairman of RS.**
    - *Chairman of Rajya Sabha is NOT an MP (he is the Vice-President of India), hence cannot preside over MPs assembled together!*
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-With reference to creation of new All India Service, which of the following statements is/are correct?
-1. In the national interest, the Rajya Sabha can pass a resolution for creation of new All India Service.
-2. The resolution for creation of new All India Service must be passed by the Rajya Sabha by two-third majority of the total members of the House.
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1** (2/3 **present and voting**, not total membership).
-
-</details>
-
-**Q2.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (State)**
-
-| Code | State |
-|------|-------|
-| A | Maharashtra |
-| B | Karnataka |
-| C | Bihar |
-| D | Tamil Nadu |
-
-**List-II (Rajya Sabha seats)**
-
-| Code | Seats |
-|------|-------|
-| 1 | 16 |
-| 2 | 18 |
-| 3 | 19 |
-| 4 | 12 |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-1, C-3, D-4
-B. A-2, B-4, C-3, D-1
-C. A-1, B-2, C-4, D-3
-D. A-3, B-4, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 19, 12, 16, 18.
-
-</details>
-
-**Q3.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Lok Sabha)**
-
-| Code | Lok Sabha |
-|------|-----------|
-| A | 11th |
-| B | 12th |
-| C | 14th |
-| D | 17th |
-
-**List-II (Speaker)**
-
-| Code | Speaker |
-|------|---------|
-| 1 | Om Birla |
-| 2 | P.A. Sangma |
-| 3 | Somnath Chatterjee |
-| 4 | G.M.C. Balayogi |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-4, C-3, D-1
-B. A-4, B-2, C-3, D-1
-C. A-3, B-2, C-4, D-1
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q4.**
-With reference to the Vice-President of India, which of the following statements is/are correct?
-1. The Vice-President is the ex-officio Chairman of the Rajya Sabha.
-2. The Vice-President is a member of the Rajya Sabha.
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1.**
-
-</details>
-
-**Q5.**
-With reference to the Joint Sitting of Parliament, which of the following statements is/are correct?
-1. Article 109 of the Constitution of India provides for the Joint Sitting of Parliament.
-2. A Joint Sitting of Parliament may be called to pass a Constitution Amendment Bill.
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Neither.**
-
-</details>
-
-**Q6.**
-Which of the following is/are stated in the Constitution of India?
-1. The President shall not be a member of either of the Houses of the Parliament.
-2. The Parliament shall consist of the President and both Houses.
-A. Both 1 and 2
-B. Only 2
-C. Neither 1 nor 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Both.**
-
-</details>
-
-**Q7.**
-Which of the following statements regarding Rajya Sabha is correct?
-A. It can never be dissolved.
-B. It is elected directly by the people.
-C. It has a tenure of five years.
-D. It is presided over by the Prime Minister.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q8.**
-Who among the following is the first woman Speaker of the Lok Sabha?
-A. Pratibha Patil
-B. Urmila Singh
-C. Meira Kumar
-D. Sushma Swaraj
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Meira Kumar.**
-
-</details>
-
-**Q9.**
-With reference to the representation of Uttar Pradesh in Parliament, which statement(s) is/are correct?
-1. Uttar Pradesh has 31 seats allotted for Rajya Sabha.
-2. Eighty members of the Lok Sabha are elected from Uttar Pradesh.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Both.**
-
-</details>
-
-**Q10.**
-With reference to the joint sitting of Parliament, which statement(s) is/are correct?
-1. Article 109 provides for the joint sitting of both Houses in certain cases.
-2. The Speaker presides over the joint sitting of the two Houses of Parliament.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Only 2.**
-
-</details>
-
-**Q11.**
-Which one of the following pairs is **NOT** correctly matched?
-A. 13th Lok Sabha — 1999
-B. 11th Lok Sabha — 1996
-C. 9th Lok Sabha — 1989
-D. 7th Lok Sabha — 1982
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** (7th LS = **1980**).
-
-</details>
-
-**Q12.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (State)**
-
-| Code | State |
-|------|-------|
-| A | Rajasthan |
-| B | Gujarat |
-| C | Karnataka |
-| D | Punjab |
-
-**List-II (Rajya Sabha seats)**
-
-| Code | Seats |
-|------|-------|
-| 1 | 10 |
-| 2 | 7 |
-| 3 | 11 |
-| 4 | 12 |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-1, B-3, C-4, D-2
-B. A-2, B-3, C-4, D-1
-C. A-1, B-2, C-3, D-4
-D. A-4, B-3, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q13.**
-Joint sitting of Lok Sabha and Rajya Sabha can take place to resolve deadlock over
-A. Ordinary Legislation
-B. Money Bill
-C. Constitutional Amendment Bill
-D. Appropriation Bill
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q14.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Article)**
-
-| Code | Article |
-|------|---------|
-| A | Article 61 |
-| B | Article 67(b) |
-| C | Article 94 |
-| D | Article 90 |
-
-**List-II (Provision)**
-
-| Code | Provision |
-|------|-----------|
-| 1 | Removal of Deputy Chairman of Rajya Sabha |
-| 2 | Impeachment of the President |
-| 3 | Removal of the Vice-President |
-| 4 | Removal of the Speaker |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-4, C-3, D-1
-B. A-3, B-2, C-4, D-1
-C. A-2, B-3, C-4, D-1
-D. A-4, B-1, C-3, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q15.**
-The Council of States has exclusive powers in relation to which of the following?
-A. To initiate proceedings for the removal of the President
-B. To initiate proceedings for the removal of a judge of the Supreme Court
-C. To recommend creation of a new All India Service
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to creation of new All India Service, which of the following statements is/are correct?<br>1. In the national interest, the Rajya Sabha can pass a resolution for creation of new All India Service.<br>2. The resolution for creation of new All India Service must be passed by the Rajya Sabha by two-third majority of the total members of the House.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1** (2/3 **present and voting**, not total membership).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (State)</th>
+        <th>List-II (Rajya Sabha Seats)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Maharashtra</td><td><span class="match-key">1</span> 16</td></tr>
+    <tr><td><span class="match-key">B</span> Karnataka</td><td><span class="match-key">2</span> 18</td></tr>
+    <tr><td><span class="match-key">C</span> Bihar</td><td><span class="match-key">3</span> 19</td></tr>
+    <tr><td><span class="match-key">D</span> Tamil Nadu</td><td><span class="match-key">4</span> 12</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-4, C-3, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-2, C-4, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-4, C-1, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 19, 12, 16, 18.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Lok Sabha)</th>
+        <th>List-II (Speaker)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> 11th Lok Sabha</td><td><span class="match-key">1</span> Om Birla</td></tr>
+    <tr><td><span class="match-key">B</span> 12th Lok Sabha</td><td><span class="match-key">2</span> P.A. Sangma</td></tr>
+    <tr><td><span class="match-key">C</span> 14th Lok Sabha</td><td><span class="match-key">3</span> Somnath Chatterjee</td></tr>
+    <tr><td><span class="match-key">D</span> 17th Lok Sabha</td><td><span class="match-key">4</span> G.M.C. Balayogi</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-4, C-3, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-4, B-2, C-3, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-3, B-2, C-4, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-3, C-4, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Vice-President of India, which of the following statements is/are correct?<br>1. The Vice-President is the ex-officio Chairman of the Rajya Sabha.<br>2. The Vice-President is a member of the Rajya Sabha.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to the Joint Sitting of Parliament, which of the following statements is/are correct?<br>1. Article 109 of the Constitution of India provides for the Joint Sitting of Parliament.<br>2. A Joint Sitting of Parliament may be called to pass a Constitution Amendment Bill.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Neither.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is/are stated in the Constitution of India?<br>1. The President shall not be a member of either of the Houses of the Parliament.<br>2. The Parliament shall consist of the President and both Houses.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements regarding Rajya Sabha is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It can never be dissolved.</div><div class="pyq-opt"><span class="opt-letter">B</span> It is elected directly by the people.</div><div class="pyq-opt"><span class="opt-letter">C</span> It has a tenure of five years.</div><div class="pyq-opt"><span class="opt-letter">D</span> It is presided over by the Prime Minister.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Who among the following is the first woman Speaker of the Lok Sabha?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pratibha Patil</div><div class="pyq-opt"><span class="opt-letter">B</span> Urmila Singh</div><div class="pyq-opt"><span class="opt-letter">C</span> Meira Kumar</div><div class="pyq-opt"><span class="opt-letter">D</span> Sushma Swaraj</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Meira Kumar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">With reference to the representation of Uttar Pradesh in Parliament, which statement(s) is/are correct?<br>1. Uttar Pradesh has 31 seats allotted for Rajya Sabha.<br>2. Eighty members of the Lok Sabha are elected from Uttar Pradesh.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to the joint sitting of Parliament, which statement(s) is/are correct?<br>1. Article 109 provides for the joint sitting of both Houses in certain cases.<br>2. The Speaker presides over the joint sitting of the two Houses of Parliament.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 13th Lok Sabha — 1999</div><div class="pyq-opt"><span class="opt-letter">B</span> 11th Lok Sabha — 1996</div><div class="pyq-opt"><span class="opt-letter">C</span> 9th Lok Sabha — 1989</div><div class="pyq-opt"><span class="opt-letter">D</span> 7th Lok Sabha — 1982</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (7th LS = **1980**).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (State)</th>
+        <th>List-II (Rajya Sabha Seats)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Rajasthan</td><td><span class="match-key">1</span> 10</td></tr>
+    <tr><td><span class="match-key">B</span> Gujarat</td><td><span class="match-key">2</span> 7</td></tr>
+    <tr><td><span class="match-key">C</span> Karnataka</td><td><span class="match-key">3</span> 11</td></tr>
+    <tr><td><span class="match-key">D</span> Punjab</td><td><span class="match-key">4</span> 12</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-3, C-4, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-3, C-4, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-2, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-3, C-1, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Joint sitting of Lok Sabha and Rajya Sabha can take place to resolve deadlock over</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ordinary Legislation</div><div class="pyq-opt"><span class="opt-letter">B</span> Money Bill</div><div class="pyq-opt"><span class="opt-letter">C</span> Constitutional Amendment Bill</div><div class="pyq-opt"><span class="opt-letter">D</span> Appropriation Bill</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Article)</th>
+        <th>List-II (Removal Provision)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Article 61</td><td><span class="match-key">1</span> Removal of Deputy Chairman of Rajya Sabha</td></tr>
+    <tr><td><span class="match-key">B</span> Article 67(b)</td><td><span class="match-key">2</span> Impeachment of the President</td></tr>
+    <tr><td><span class="match-key">C</span> Article 94</td><td><span class="match-key">3</span> Removal of the Vice-President</td></tr>
+    <tr><td><span class="match-key">D</span> Article 90</td><td><span class="match-key">4</span> Removal of the Speaker</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-4, C-3, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-2, C-4, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-4, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-1, C-3, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The Council of States has exclusive powers in relation to which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> To initiate proceedings for the removal of the President</div><div class="pyq-opt"><span class="opt-letter">B</span> To initiate proceedings for the removal of a judge of the Supreme Court</div><div class="pyq-opt"><span class="opt-letter">C</span> To recommend creation of a new All India Service</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>

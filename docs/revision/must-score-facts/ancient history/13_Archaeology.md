@@ -203,25 +203,6 @@ hide:
 
 ---
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Key Difference (Exam Trap) | Hindi Key |
-|---|---|---|---|
-| **Archaeological Site** | **Excavation** | Geographic location where ancient remains exist vs the physical **act of digging** | स्थल / उत्खनन |
-| **Stratigraphy** | **Carbon-14 (C-14)** | **Relative** dating ordering layers (deeper = older) vs **absolute** clock measuring calendar years | स्तरिकी / कार्बन-14 |
-| **Relative Dating** | **Absolute Dating** | Answers "which is older/younger" vs answers "how many calendar years ago" | सापेक्ष काल / निरपेक्ष काल |
-| **John Marshall** | **Mortimer Wheeler** | Announced IVC to the world (**1924**) vs introduced scientific **balk-and-grid** method (**1946**) | मार्शल / व्हीलर |
-| **Daya Ram Sahni** | **Rakhaldas Banerjee** | Excavated **Harappa (1921)** in Punjab vs discovered **Mohenjo-daro (1922)** in Sindh | साहनी / बनर्जी |
-| **V.S. Wakankar** | **H.D. Sankalia** | Discovered **Bhimbetka rock art (MP)** vs pioneer of **Deccan proto-history (Nevasa/Inamgaon)** | वाकणकर / संकलिया |
-| **Alamgirpur** | **Rakhigarhi** | Easternmost IVC site in India (**Meerut, UP**) vs largest IVC mound in India (**Hisar, Haryana**) | आलमगीरपुर / राखीगढ़ी |
-| **Mandi** | **Manda** | Harappan gold hoard site in **Muzaffarnagar, UP** vs northernmost IVC outpost in **J&K** | मंडी (UP) / मांडा (J&K) |
-| **Hulas** | **Lothal** | Late Harappan agricultural settlement in **UP** vs Mature Harappan **dockyard in Gujarat** | हुलास / लोथल |
-| **Rock Shelter** | **Natural Cave** | Overhanging rock cliff used as shallow shelter (Bhimbetka) vs deep subterranean cavern | शैल आश्रय / गुफा |
-| **ASI Headquarters** | **Lucknow** | Statutory HQ is in **New Delhi** (24 Tilak Marg) vs UP State Archaeology Directorate | दिल्ली HQ / लखनऊ |
-| **C-14 Dating** | **Thermoluminescence** | Absolute clock for **organic samples** (bone, charcoal) vs clock for **fired pottery & bricks** | कार्बन-14 / थर्मोल्यूमिनेशन |
-
----
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The IVC Discovery Sequence: "S-B-M-W"
@@ -248,287 +229,262 @@ hide:
 
 ---
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh? (UPPCS Prelims 2025)
-
-1. Mandi
-2. Rakhigarhi
-3. Hulas
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. Only 3
-C. 1 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1 and 3 are in Uttar Pradesh (Mandi is in Muzaffarnagar/Bijnor district; Hulas is in Saharanpur district). Rakhigarhi is the largest Harappan site in India, located in Hisar district of Haryana.
-
-</details>
-
-**Q2.** Match List-I (Prehistoric Site) with List-II (State) and select the correct code: (UPPCS Prelims 2023)
-
-| List-I (Site) | List-II (State) |
-|---|---|
-| A. Nevasa | 1. Rajasthan |
-| B. Isampur | 2. Tamil Nadu |
-| C. Didwana | 3. Maharashtra |
-| D. Gudiyam Cave | 4. Karnataka |
-
-Codes: A B C D
-
-A. 3 4 1 2
-B. 4 3 1 2
-C. 3 4 2 1
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (3-4-1-2).** Nevasa is on the Pravara river in Maharashtra (Middle Paleolithic/Nevasan culture); Isampur is an Acheulian quarry in Karnataka; Didwana is a Lower Paleolithic site in Rajasthan (Thar margin); Gudiyam Cave is an Acheulian rock-shelter in Tamil Nadu (near Attirampakkam).
-
-</details>
-
-**Q3.** The eastern boundary of the Harappan culture is indicated by which of the following? (UPPCS Prelims 2023)
-
-A. Harappa
-B. Alamgirpur
-C. Rakhigarhi
-D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Alamgirpur (located on the Hindon River in Meerut district, Uttar Pradesh) marks the easternmost geographical limit of the Indus Valley Civilization. Manda (J&K) is the northernmost, Daimabad (Maharashtra) the southernmost, and Sutkagen-dor (Makran, Pakistan) the westernmost.
-
-</details>
-
-**Q4.** Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered the prehistoric significance of its rock paintings? (UPPCS Prelims 2020)
-
-A. Madho Swaroop Vatsa
-B. H.D. Sankalia
-C. V.S. Wakankar
-D. V.N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Dr. Vishnu Shridhar Wakankar (Vikram University, Ujjain) discovered the Bhimbetka rock-shelters in Raisen district, Madhya Pradesh, in 1957–58. H.D. Sankalia was renowned for excavations at Nevasa and Inamgaon; M.S. Vatsa excavated Harappa.
-
-</details>
-
-**Q5.** Match List-I (Harappan Site) with List-II (State / UT of India) and select the correct code: (UPPCS Prelims 2020)
-
-| List-I (Site) | List-II (State / UT) |
-|---|---|
-| A. Balu | 1. Uttar Pradesh |
-| B. Manda | 2. Jammu & Kashmir |
-| C. Padri | 3. Haryana |
-| D. Hulas | 4. Gujarat |
-
-Codes: A B C D
-
-A. 3 2 1 4
-B. 2 3 4 1
-C. 2 4 3 1
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (3-2-4-1).** Balu is in Kaithal district, Haryana; Manda is on the right bank of the Chenab in Jammu & Kashmir; Padri is in Bhavnagar district, Gujarat; Hulas is in Saharanpur district, Uttar Pradesh.
-
-</details>
-
-**Q6.** From which archaeological site of the Indus Valley Civilization are figures or models of boats found? (UPPCS Prelims 2022)
-
-A. Dholavira and Bhagatrav
-B. Harappa and Kot Diji
-C. Mohenjo-daro and Lothal
-D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A terracotta boat model was found at Lothal, and an amulet/seal depicting a boat with a central cabin and mast was discovered at Mohenjo-daro.
-
-</details>
-
-**Q7.** In which State of India is the Harappan Civilization site Mandi situated? (UPPCS Prelims 2021)
-
-A. Gujarat
-B. Haryana
-C. Rajasthan
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Mandi is an Indus Valley site situated in Muzaffarnagar district (near Bijnor border), Uttar Pradesh, famous for the accidental discovery of a massive hoard of Harappan gold jewelry and beads.
-
-</details>
-
-**Q8.** Which of the following centres related to Indus Valley Civilization are situated in Uttar Pradesh? (UPPCS Prelims 2018)
-
-I. Kalibangan  
-II. Lothal  
-III. Alamgirpur  
-IV. Hulas  
-
-Select the correct answer from the code given below:
-
-A. I, II, III, IV
-B. I, II
-C. II, III
-D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Alamgirpur (Meerut) and Hulas (Saharanpur) are in Uttar Pradesh. Kalibangan is in Hanumangarh district of Rajasthan, and Lothal is in Ahmedabad district of Gujarat.
-
-</details>
-
-**Q9.** With reference to the Archaeological Survey of India (ASI), which of the following statements is/are correct?
-
-1. ASI was formally founded in 1861 under Viceroy Lord Canning.
-2. Alexander Cunningham served as its first Director-General and is hailed as the "Father of Indian Archaeology".
-3. The statutory headquarters of the Archaeological Survey of India is situated in Lucknow, Uttar Pradesh.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. 1 and 2
-C. All 1, 2 and 3
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2 are correct. Statement 3 is false: ASI headquarters is located at 24 Tilak Marg, New Delhi (Dharohar Bhawan). Lucknow houses the Directorate of UP State Archaeology and the UP State Museum, which are state-level bodies separate from ASI HQ.
-
-</details>
-
-**Q10.** Match List-I (Archaeologist) with List-II (Key Contribution / Excavation Landmark) and select the correct code:
-
-| List-I (Archaeologist) | List-II (Contribution) |
-|---|---|
-| A. Daya Ram Sahni | 1. Stratigraphic balk-and-grid method; Harappa re-excavation (1946) |
-| B. John Marshall | 2. World announcement of Indus Civilization discovery (1924) |
-| C. Mortimer Wheeler | 3. Discovery of earliest Paleolithic tools at Pallavaram (1863) |
-| D. Robert Bruce Foote | 4. First systematic excavation of Harappa (1921) |
-
-Codes: A B C D
-
-A. 4 2 1 3
-B. 2 4 1 3
-C. 4 1 2 3
-D. 3 2 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (4-2-1-3).** Daya Ram Sahni excavated Harappa in 1921; John Marshall announced the civilization in 1924; Mortimer Wheeler introduced the balk-and-grid stratigraphic technique in 1944–46; Robert Bruce Foote discovered the first Indian handaxe at Pallavaram in 1863.
-
-</details>
-
-**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** In an undisturbed archaeological trench, lower stratigraphic layers are older than upper layers.  
-**Reason (R):** The archaeological law of superposition states that sedimentary and cultural deposits accumulate sequentially from bottom to top over time.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both (A) and (R) are true and (R) correctly explains (A). Stratigraphy is the primary method of relative dating based on the geological/archaeological law of superposition.
-
-</details>
-
-**Q12.** With reference to scientific dating methods in archaeology, which of the following statements is/are correct?
-
-1. Carbon-14 (C-14) dating can determine the absolute age of stone handaxes and copper ingots directly.
-2. The half-life of Carbon-14 is approximately 5,730 years and its effective dating range extends up to ~50,000 years before present.
-3. Thermoluminescence (TL) dating is utilized to date fired pottery, bricks, and burnt flint by measuring trapped electrons released upon heating.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. 2 and 3
-C. Only 2
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 2 and 3 are correct. Statement 1 is false: C-14 works exclusively on organic materials (charcoal, bone, wood, seeds, shell) that once exchanged carbon with the atmosphere; it cannot directly date inorganic stone tools or metallic objects (which must be dated via the associated organic stratum).
-
-</details>
-
-**Q13.** Arrange the following archaeological milestones in chronological order:
-
-1. John Marshall's announcement of the Indus Valley Civilization
-2. Foundation of the Archaeological Survey of India (ASI)
-3. Robert Bruce Foote's discovery of the Pallavaram handaxe
-4. Sir Mortimer Wheeler's balk-and-grid excavation at Harappa
-
-Select the correct answer from the code given below:
-
-A. 2–3–1–4
-B. 3–2–1–4
-C. 2–1–3–4
-D. 2–3–4–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 2 (ASI founded 1861) → 3 (Pallavaram handaxe 1863) → 1 (Marshall's IVC announcement 1924) → 4 (Wheeler's grid excavation at Harappa 1946).
-
-</details>
-
-**Q14.** Which one of the following pairs is NOT correctly matched?
-
-A. S.R. Rao — Lothal tidal dockyard excavation
-B. B.B. Lal — Kalibangan ploughed field and fire altars
-C. R.S. Bisht — Dholavira stone reservoirs and signboard
-D. V.S. Wakankar — Sanauli royal chariot burials
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Sanauli in Baghpat district (UP) was excavated in 2018 by the ASI team led by Dr. Sanjay Kumar Manjul. Dr. V.S. Wakankar is world-famous for discovering the Bhimbetka rock shelters in Madhya Pradesh (1957–58).
-
-</details>
-
-**Q15.** Consider the following archaeological sites situated in Uttar Pradesh:
-
-1. Sanauli (Baghpat) — Copper-sheathed solid-wheel chariots and antenna swords (Late Harappan/OCP context)
-2. Koldihwa and Mahagara (Belan Valley) — Early evidence of rice cultivation in a Neolithic-Chalcolithic horizon
-3. Atranjikhera (Etah) — Crucial stratified sequence establishing Ochre Coloured Pottery (OCP) followed by Painted Grey Ware (PGW) with iron tools
-
-Which of the statements given above are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct and represent fundamental UP archaeological landmarks tested in UPPCS examinations.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh? (UPPCS Prelims 2025)<br><br>1. Mandi<br>2. Rakhigarhi<br>3. Hulas<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3 are in Uttar Pradesh (Mandi is in Muzaffarnagar/Bijnor district; Hulas is in Saharanpur district). Rakhigarhi is the largest Harappan site in India, located in Hisar district of Haryana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Prehistoric Site) with List-II (State) and select the correct code: (UPPCS Prelims 2023)<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Site)</th><th>List-II (State)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Nevasa</td><td><span class="match-key">1</span> Rajasthan</td></tr>
+      <tr><td><span class="match-key">B</span> Isampur</td><td><span class="match-key">2</span> Tamil Nadu</td></tr>
+      <tr><td><span class="match-key">C</span> Didwana</td><td><span class="match-key">3</span> Maharashtra</td></tr>
+      <tr><td><span class="match-key">D</span> Gudiyam Cave</td><td><span class="match-key">4</span> Karnataka</td></tr>
+  </tbody>
+</table><br>Codes: A B C D</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 4 3 1 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 4 2 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 2 4 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (3-4-1-2).** Nevasa is on the Pravara river in Maharashtra (Middle Paleolithic/Nevasan culture); Isampur is an Acheulian quarry in Karnataka; Didwana is a Lower Paleolithic site in Rajasthan (Thar margin); Gudiyam Cave is an Acheulian rock-shelter in Tamil Nadu (near Attirampakkam).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The eastern boundary of the Harappan culture is indicated by which of the following? (UPPCS Prelims 2023)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Harappa</div><div class="pyq-opt"><span class="opt-letter">B</span> Alamgirpur</div><div class="pyq-opt"><span class="opt-letter">C</span> Rakhigarhi</div><div class="pyq-opt"><span class="opt-letter">D</span> Manda</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Alamgirpur (located on the Hindon River in Meerut district, Uttar Pradesh) marks the easternmost geographical limit of the Indus Valley Civilization. Manda (J&K) is the northernmost, Daimabad (Maharashtra) the southernmost, and Sutkagen-dor (Makran, Pakistan) the westernmost.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered the prehistoric significance of its rock paintings? (UPPCS Prelims 2020)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Madho Swaroop Vatsa</div><div class="pyq-opt"><span class="opt-letter">B</span> H.D. Sankalia</div><div class="pyq-opt"><span class="opt-letter">C</span> V.S. Wakankar</div><div class="pyq-opt"><span class="opt-letter">D</span> V.N. Mishra</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Dr. Vishnu Shridhar Wakankar (Vikram University, Ujjain) discovered the Bhimbetka rock-shelters in Raisen district, Madhya Pradesh, in 1957–58. H.D. Sankalia was renowned for excavations at Nevasa and Inamgaon; M.S. Vatsa excavated Harappa.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Harappan Site) with List-II (State / UT of India) and select the correct code: (UPPCS Prelims 2020)<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Site)</th><th>List-II (State / UT)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Balu</td><td><span class="match-key">1</span> Uttar Pradesh</td></tr>
+      <tr><td><span class="match-key">B</span> Manda</td><td><span class="match-key">2</span> Jammu & Kashmir</td></tr>
+      <tr><td><span class="match-key">C</span> Padri</td><td><span class="match-key">3</span> Haryana</td></tr>
+      <tr><td><span class="match-key">D</span> Hulas</td><td><span class="match-key">4</span> Gujarat</td></tr>
+  </tbody>
+</table><br>Codes: A B C D</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 2 1 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 2 4 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (3-2-4-1).** Balu is in Kaithal district, Haryana; Manda is on the right bank of the Chenab in Jammu & Kashmir; Padri is in Bhavnagar district, Gujarat; Hulas is in Saharanpur district, Uttar Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">From which archaeological site of the Indus Valley Civilization are figures or models of boats found? (UPPCS Prelims 2022)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dholavira and Bhagatrav</div><div class="pyq-opt"><span class="opt-letter">B</span> Harappa and Kot Diji</div><div class="pyq-opt"><span class="opt-letter">C</span> Mohenjo-daro and Lothal</div><div class="pyq-opt"><span class="opt-letter">D</span> Kalibangan and Ropar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A terracotta boat model was found at Lothal, and an amulet/seal depicting a boat with a central cabin and mast was discovered at Mohenjo-daro.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In which State of India is the Harappan Civilization site Mandi situated? (UPPCS Prelims 2021)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gujarat</div><div class="pyq-opt"><span class="opt-letter">B</span> Haryana</div><div class="pyq-opt"><span class="opt-letter">C</span> Rajasthan</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mandi is an Indus Valley site situated in Muzaffarnagar district (near Bijnor border), Uttar Pradesh, famous for the accidental discovery of a massive hoard of Harappan gold jewelry and beads.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following centres related to Indus Valley Civilization are situated in Uttar Pradesh? (UPPCS Prelims 2018)<br><br>I. Kalibangan  <br>II. Lothal  <br>III. Alamgirpur  <br>IV. Hulas  <br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, III, IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I, II</div><div class="pyq-opt"><span class="opt-letter">C</span> II, III</div><div class="pyq-opt"><span class="opt-letter">D</span> III, IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Alamgirpur (Meerut) and Hulas (Saharanpur) are in Uttar Pradesh. Kalibangan is in Hanumangarh district of Rajasthan, and Lothal is in Ahmedabad district of Gujarat.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to the Archaeological Survey of India (ASI), which of the following statements is/are correct?<br><br>1. ASI was formally founded in 1861 under Viceroy Lord Canning.<br>2. Alexander Cunningham served as its first Director-General and is hailed as the "Father of Indian Archaeology".<br>3. The statutory headquarters of the Archaeological Survey of India is situated in Lucknow, Uttar Pradesh.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 are correct. Statement 3 is false: ASI headquarters is located at 24 Tilak Marg, New Delhi (Dharohar Bhawan). Lucknow houses the Directorate of UP State Archaeology and the UP State Museum, which are state-level bodies separate from ASI HQ.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Archaeologist) with List-II (Key Contribution / Excavation Landmark) and select the correct code:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Archaeologist)</th><th>List-II (Contribution)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Daya Ram Sahni</td><td><span class="match-key">1</span> Stratigraphic balk-and-grid method; Harappa re-excavation (1946)</td></tr>
+      <tr><td><span class="match-key">B</span> John Marshall</td><td><span class="match-key">2</span> World announcement of Indus Civilization discovery (1924)</td></tr>
+      <tr><td><span class="match-key">C</span> Mortimer Wheeler</td><td><span class="match-key">3</span> Discovery of earliest Paleolithic tools at Pallavaram (1863)</td></tr>
+      <tr><td><span class="match-key">D</span> Robert Bruce Foote</td><td><span class="match-key">4</span> First systematic excavation of Harappa (1921)</td></tr>
+  </tbody>
+</table><br>Codes: A B C D</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 2 1 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 4 1 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4 1 2 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 2 1 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (4-2-1-3).** Daya Ram Sahni excavated Harappa in 1921; John Marshall announced the civilization in 1924; Mortimer Wheeler introduced the balk-and-grid stratigraphic technique in 1944–46; Robert Bruce Foote discovered the first Indian handaxe at Pallavaram in 1863.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** In an undisturbed archaeological trench, lower stratigraphic layers are older than upper layers.  <br>**Reason (R):** The archaeological law of superposition states that sedimentary and cultural deposits accumulate sequentially from bottom to top over time.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true and (R) correctly explains (A). Stratigraphy is the primary method of relative dating based on the geological/archaeological law of superposition.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to scientific dating methods in archaeology, which of the following statements is/are correct?<br><br>1. Carbon-14 (C-14) dating can determine the absolute age of stone handaxes and copper ingots directly.<br>2. The half-life of Carbon-14 is approximately 5,730 years and its effective dating range extends up to ~50,000 years before present.<br>3. Thermoluminescence (TL) dating is utilized to date fired pottery, bricks, and burnt flint by measuring trapped electrons released upon heating.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 and 3 are correct. Statement 1 is false: C-14 works exclusively on organic materials (charcoal, bone, wood, seeds, shell) that once exchanged carbon with the atmosphere; it cannot directly date inorganic stone tools or metallic objects (which must be dated via the associated organic stratum).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Arrange the following archaeological milestones in chronological order:<br><br>1. John Marshall's announcement of the Indus Valley Civilization<br>2. Foundation of the Archaeological Survey of India (ASI)<br>3. Robert Bruce Foote's discovery of the Pallavaram handaxe<br>4. Sir Mortimer Wheeler's balk-and-grid excavation at Harappa<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–3–1–4</div><div class="pyq-opt"><span class="opt-letter">B</span> 3–2–1–4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–1–3–4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–3–4–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 (ASI founded 1861) → 3 (Pallavaram handaxe 1863) → 1 (Marshall's IVC announcement 1924) → 4 (Wheeler's grid excavation at Harappa 1946).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> S.R. Rao — Lothal tidal dockyard excavation</div><div class="pyq-opt"><span class="opt-letter">B</span> B.B. Lal — Kalibangan ploughed field and fire altars</div><div class="pyq-opt"><span class="opt-letter">C</span> R.S. Bisht — Dholavira stone reservoirs and signboard</div><div class="pyq-opt"><span class="opt-letter">D</span> V.S. Wakankar — Sanauli royal chariot burials</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sanauli in Baghpat district (UP) was excavated in 2018 by the ASI team led by Dr. Sanjay Kumar Manjul. Dr. V.S. Wakankar is world-famous for discovering the Bhimbetka rock shelters in Madhya Pradesh (1957–58).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Consider the following archaeological sites situated in Uttar Pradesh:<br><br>1. Sanauli (Baghpat) — Copper-sheathed solid-wheel chariots and antenna swords (Late Harappan/OCP context)<br>2. Koldihwa and Mahagara (Belan Valley) — Early evidence of rice cultivation in a Neolithic-Chalcolithic horizon<br>3. Atranjikhera (Etah) — Crucial stratified sequence establishing Ochre Coloured Pottery (OCP) followed by Painted Grey Ware (PGW) with iron tools<br><br>Which of the statements given above are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct and represent fundamental UP archaeological landmarks tested in UPPCS examinations.</div>
+  </div>
+</div>

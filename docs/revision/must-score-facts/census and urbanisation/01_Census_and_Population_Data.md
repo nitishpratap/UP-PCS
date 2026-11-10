@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Census and Urbanisation Topic 1 — Census and Population Data</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2026** | **Digital Census Architecture & Self-Enumeration Portal** — Office of RGCCI preparing first fully digital, geo-referenced national census with mobile app enumeration | Next decennial census enumeration methodology |
-| **2023** | **Bihar Caste-Based Survey (बिहार जाति गणना)** — Published detailed headcount showing EBC (36%), OBC (27.1%), SC (19.7%), ST (1.7%), General (15.5%) | First published state caste demographic survey since 1931 |
-| **2022–2023** | **UN World Population Prospects (WPP 2022/2023)** — Formally recognised India overtaking China as the most populous nation with ~142.86 Crore population | Global demographic rank shifts |
-| **2021** | **National Family Health Survey (NFHS-5)** — National TFR declined to **2.0** (below replacement level 2.1); UP TFR recorded at **2.35** (down from 2.74 in NFHS-4) | Key fertility & vital statistics benchmark |
-| **2020** | **Sample Registration System (SRS) Statistical Report** — National IMR declined to **28 per 1,000 live births**; UP IMR dropped to **38** | Annual vital statistics tracking |
-| **Rolling** | **Census 2011 Statutory Baseline** — Remains the binding official reference benchmark for all UPPSC/UKPCS examination questions until Census 2021/2026 notification | Core exam master data baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Under the Constitution of India, the **Census** is a subject enumerated in **Entry 69 of the Union List (List I)** of the Seventh Schedule.
@@ -138,21 +127,6 @@ hide:
 | **Overall Literacy Rate (%)** | **1. Gautam Buddha Nagar (80.12%)**<br>2. Kanpur Nagar (79.65%)<br>3. Auraiya (78.95%)<br>4. Etawah (78.41%)<br>5. Ghaziabad (78.07%) | **1. Shravasti (46.74%)**<br>2. Bahraich (49.36%)<br>3. Balrampur (49.51%)<br>4. Badaun (51.29%)<br>5. Rampur (53.34%) |
 | **Female Literacy Rate (%)** | **1. Kanpur Nagar (75.05%)**<br>2. Lucknow (71.54%)<br>3. Gautam Buddha Nagar (70.82%)<br>4. Auraiya (70.41%)<br>5. Ghaziabad (69.79%) | **1. Shravasti (34.78%)**<br>2. Balrampur (38.43%)<br>3. Bahraich (39.18%)<br>4. Badaun (40.09%)<br>5. Rampur (44.44%) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **First Census in Modern India**: **1872** (Lord Mayo, non-synchronous) | **First Synchronous Decennial Census**: **1881** (Lord Ripon, W. C. Plowden) | **Trap**: If the question asks for the *first census*, the answer is 1872. If it asks for the *first regular/complete decennial synchronous census*, the answer is strictly 1881. |
-| **National Sex Ratio (Census 2011)**: **943** (up by 10 from 933) | **Child Sex Ratio 0–6 Years (2011)**: **919** (declined by 8 from 927) | **Trap**: Overall sex ratio improved, but Child Sex Ratio *worsened* significantly in 2011. Do not confuse 943 with 919. |
-| **Highest SC Percentage State**: **Punjab (31.9%)** | **Highest SC Absolute Population State**: **Uttar Pradesh (4.14 Crore)** | **Trap**: UP has the most SC people in numbers, but Punjab has the highest SC population as a proportion of total state population. |
-| **Highest ST Percentage State**: **Mizoram (94.4%)** / Lakshadweep (94.8%) | **Highest ST Absolute Population State**: **Madhya Pradesh (1.53 Crore)** | **Trap**: MP has highest absolute tribal count; Mizoram/Lakshadweep have highest tribal concentration percentage. |
-| **States with ZERO Scheduled Tribes**: Punjab, Haryana, Delhi, Chandigarh, Puducherry | **States with ZERO Scheduled Castes**: Nagaland, Mizoram, Meghalaya, Lakshadweep, A&N | **Trap**: Punjab and Haryana have high SC populations but ZERO STs. Nagaland and Mizoram have high ST populations but ZERO SCs. |
-| **UP Highest Literacy District**: **Gautam Buddha Nagar (80.12%)** | **UP Highest Female Literacy District**: **Kanpur Nagar (75.05%)** | **Trap**: GB Nagar is #1 in overall and male literacy, but Kanpur Nagar is #1 in *female literacy* (GB Nagar female literacy is 70.82%). |
-| **UP Highest Sex Ratio District**: **Jaunpur (1,024)** | **UP Highest Child Sex Ratio District**: **Balrampur (950)** | **Trap**: Jaunpur is #1 in overall sex ratio; Balrampur is #1 in 0-6 child sex ratio. |
-| **Highest Density State**: **Bihar (1,106 / km²)** | **Highest Density UT**: **Delhi (11,320 / km²)** | **Trap**: In 2001, West Bengal was #1 state in density. In 2011, Bihar surpassed West Bengal to take 1st rank. |
-| **Lowest Decadal Growth State**: **Nagaland (-0.58%)** | **Second Lowest Decadal Growth State**: **Kerala (4.91%)** | **Trap**: Nagaland is the only state with negative growth (-0.58%). Kerala has the lowest *positive* growth among states. |
-| **Civil Registration System (CRS)**: Continuous legal registration of births/deaths | **Sample Registration System (SRS)**: Annual dual-record demographic sample survey | **Trap**: SRS provides official annual demographic estimates (IMR, TFR, CBR); CRS is administrative civil record registration. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **State Literacy Top 4**: **K-M-G-T** (Kerala 94% > Mizoram 91.3% > Goa 88.7% > Tripura 87.2%)
@@ -162,250 +136,261 @@ hide:
 - **Zero Scheduled Castes**: **N-M-M-L-A** (Nagaland, Mizoram, Meghalaya, Lakshadweep, A&N have NO SCs)
 - **Modified Counting Approach**: India follows **Extended De Facto / Modified De Jure** (enumerated at habitual residence over 20-day window, homeless on final night).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-When was the Census work done for the first time in India?
-A. 1850
-B. 1861
-C. 1871
-D. 1881
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 1871.
-
-**Ans: C.** 1871
-</details>
-
-**Q2.**
-Write in descending order the following States on the basis of their population as per Census, 2011:
-1. Bihar
-2. Andhra Pradesh
-3. Uttar Pradesh
-4. West Bengal
-Choose the correct answer:
-A. 3, 4, 1, 2
-B. 1, 3, 2, 4
-C. 1, 3, 4, 2
-D. 3, 1, 4, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Census 2011 population order: Uttar Pradesh (~19.98 Cr), Bihar (~10.41 Cr), West Bengal (~9.13 Cr), Andhra Pradesh (~8.47 Cr, undivided).
-
-**Ans: D.** 3, 1, 4, 2 — UP > Bihar > West Bengal > Andhra Pradesh.
-
-</details>
-
-**Q3.**
-As per the Census, 2011 estimates, which one of the following is the most populous State in India?
-A. Bihar
-B. Madhya Pradesh
-C. Maharashtra
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP remained India’s most populous State in Census 2011 (~19.98 crore), ahead of Maharashtra and Bihar.
-
-**Ans: D.** Uttar Pradesh.
-
-</details>
-
-**Q4.**
-Which of the following State has the lowest density of population as per the Census of 2011?
-A. Himachal Pradesh
-B. Arunachal Pradesh
-C. West Bengal
-D. Mizoram
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Arunachal Pradesh had the lowest State density (~17 persons/km²).
-
-**Ans: B.** Arunachal Pradesh.
-
-</details>
-
-**Q5.**
-According to 2011 census, which of the following states has the largest rural population?
-A. Madhya Pradesh
-B. Maharashtra
-C. Punjab
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Absolute rural population is highest in UP even though some States have a higher rural percentage.
-
-**Ans: D.** Uttar Pradesh.
-
-</details>
-
-**Q6.**
-Which of the following is NOT correctly matched?
-A. Public Health and Sanitation — State List
-B. Census — Union List
-C. Allocation of seats in the Council of States — Second Schedule
-D. Anti-Defection — Tenth Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Census is correctly Entry 69 Union List.
-
-**Ans: C.** Allocation of Rajya Sabha seats is in the Fourth Schedule, not the Second.
-
-</details>
-
-**Q7.**
-World Population Day is observed on
-A. 11 July
-B. 8 May
-C. 5 June
-D. 16 October
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** World Population Day (UN) is 11 July; 5 June is World Environment Day; 16 October is World Food Day.
-
-**Ans: A.** 11 July.
-
-</details>
-
-**Q8.**
-According to Census 2011, what was the level of urbanisation (in per cent) in India’s total population of about 1.21 billion?
-A. 33.15%
-B. 32.15%
-C. 30.15%
-D. 31.15%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Urban share rose from ~27.8% (2001) to ~31.16% (2011).
-
-**Ans: D.** About 31.15% (commonly cited as 31.16%).
-
-</details>
-
-**Q9.**
-As per Census 2011, which State has the highest population density among Indian States?
-A. West Bengal
-B. Kerala
-C. Bihar
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bihar ranks 1st among States in density; West Bengal and Kerala follow; UP is lower than these three.
-
-**Ans: C.** Bihar (~1,102–1,106 persons/km²).
-
-</details>
-
-**Q10.**
-According to Census 2011, India’s total population was approximately:
-A. 100 crore
-B. 110 crore
-C. 121 crore
-D. 130 crore
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Provisional/final totals centre on 1,210 million; decadal growth 2001–11 was ~17.7%.
-
-**Ans: C.** About 121 crore (1.21 billion).
-
-</details>
-
-**Q11.**
-Which State recorded the highest sex ratio in Census 2011?
-A. Tamil Nadu
-B. Kerala
-C. Andhra Pradesh
-D. Chhattisgarh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Haryana had the lowest State sex ratio; national sex ratio improved to 943 (often listed 940 in provisional sheets).
-
-**Ans: B.** Kerala (1,084 females per 1,000 males).
-
-</details>
-
-**Q12.**
-Which State had the lowest literacy rate in Census 2011?
-A. Rajasthan
-B. Bihar
-C. Uttar Pradesh
-D. Jharkhand
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Kerala leads literacy; Bihar is the durable low-literacy trap in State PCS papers.
-
-**Ans: B.** Bihar (~63.8% / 61.8% in some older tables — lowest among States).
-
-</details>
-
-**Q13.**
-The Census of India is conducted every:
-A. 5 years
-B. 10 years
-C. 15 years
-D. 20 years
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statutory decennial series since 1881; Census 2021 was deferred.
-
-**Ans: B.** 10 years (decennial).
-
-</details>
-
-**Q14.**
-Census is a subject of which List of the Seventh Schedule?
-A. Union List
-B. State List
-C. Concurrent List
-D. Residuary
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Conducted by the Registrar General & Census Commissioner under the Census Act, 1948.
-
-**Ans: A.** Union List (Entry 69).
-
-</details>
-
-**Q15.**
-Which State had the lowest sex ratio in Census 2011?
-A. Punjab
-B. Haryana
-C. Rajasthan
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Haryana also posted the lowest child sex ratio — a recurring twin trap with adult sex ratio.
-
-**Ans: B.** Haryana.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">When was the Census work done for the first time in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1850</div><div class="pyq-opt"><span class="opt-letter">B</span> 1861</div><div class="pyq-opt"><span class="opt-letter">C</span> 1871</div><div class="pyq-opt"><span class="opt-letter">D</span> 1881</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 1871.
+
+**Ans: C.** 1871</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Write in descending order the following States on the basis of their population as per Census, 2011:<br>1. Bihar<br>2. Andhra Pradesh<br>3. Uttar Pradesh<br>4. West Bengal<br>Choose the correct answer:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 4, 1, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3, 4, 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 1, 4, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Census 2011 population order: Uttar Pradesh (~19.98 Cr), Bihar (~10.41 Cr), West Bengal (~9.13 Cr), Andhra Pradesh (~8.47 Cr, undivided).
+
+**Ans: D.** 3, 1, 4, 2 — UP > Bihar > West Bengal > Andhra Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">As per the Census, 2011 estimates, which one of the following is the most populous State in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bihar</div><div class="pyq-opt"><span class="opt-letter">B</span> Madhya Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Maharashtra</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP remained India’s most populous State in Census 2011 (~19.98 crore), ahead of Maharashtra and Bihar.
+
+**Ans: D.** Uttar Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following State has the lowest density of population as per the Census of 2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Himachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Arunachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> West Bengal</div><div class="pyq-opt"><span class="opt-letter">D</span> Mizoram</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Arunachal Pradesh had the lowest State density (~17 persons/km²).
+
+**Ans: B.** Arunachal Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">According to 2011 census, which of the following states has the largest rural population?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Madhya Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Maharashtra</div><div class="pyq-opt"><span class="opt-letter">C</span> Punjab</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Absolute rural population is highest in UP even though some States have a higher rural percentage.
+
+**Ans: D.** Uttar Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Public Health and Sanitation — State List</div><div class="pyq-opt"><span class="opt-letter">B</span> Census — Union List</div><div class="pyq-opt"><span class="opt-letter">C</span> Allocation of seats in the Council of States — Second Schedule</div><div class="pyq-opt"><span class="opt-letter">D</span> Anti-Defection — Tenth Schedule</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Census is correctly Entry 69 Union List.
+
+**Ans: C.** Allocation of Rajya Sabha seats is in the Fourth Schedule, not the Second.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">World Population Day is observed on</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 11 July</div><div class="pyq-opt"><span class="opt-letter">B</span> 8 May</div><div class="pyq-opt"><span class="opt-letter">C</span> 5 June</div><div class="pyq-opt"><span class="opt-letter">D</span> 16 October</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** World Population Day (UN) is 11 July; 5 June is World Environment Day; 16 October is World Food Day.
+
+**Ans: A.** 11 July.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">According to Census 2011, what was the level of urbanisation (in per cent) in India’s total population of about 1.21 billion?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 33.15%</div><div class="pyq-opt"><span class="opt-letter">B</span> 32.15%</div><div class="pyq-opt"><span class="opt-letter">C</span> 30.15%</div><div class="pyq-opt"><span class="opt-letter">D</span> 31.15%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Urban share rose from ~27.8% (2001) to ~31.16% (2011).
+
+**Ans: D.** About 31.15% (commonly cited as 31.16%).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">As per Census 2011, which State has the highest population density among Indian States?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> West Bengal</div><div class="pyq-opt"><span class="opt-letter">B</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">C</span> Bihar</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bihar ranks 1st among States in density; West Bengal and Kerala follow; UP is lower than these three.
+
+**Ans: C.** Bihar (~1,102–1,106 persons/km²).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">According to Census 2011, India’s total population was approximately:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 100 crore</div><div class="pyq-opt"><span class="opt-letter">B</span> 110 crore</div><div class="pyq-opt"><span class="opt-letter">C</span> 121 crore</div><div class="pyq-opt"><span class="opt-letter">D</span> 130 crore</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Provisional/final totals centre on 1,210 million; decadal growth 2001–11 was ~17.7%.
+
+**Ans: C.** About 121 crore (1.21 billion).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which State recorded the highest sex ratio in Census 2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tamil Nadu</div><div class="pyq-opt"><span class="opt-letter">B</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">C</span> Andhra Pradesh</div><div class="pyq-opt"><span class="opt-letter">D</span> Chhattisgarh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Haryana had the lowest State sex ratio; national sex ratio improved to 943 (often listed 940 in provisional sheets).
+
+**Ans: B.** Kerala (1,084 females per 1,000 males).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which State had the lowest literacy rate in Census 2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rajasthan</div><div class="pyq-opt"><span class="opt-letter">B</span> Bihar</div><div class="pyq-opt"><span class="opt-letter">C</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">D</span> Jharkhand</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Kerala leads literacy; Bihar is the durable low-literacy trap in State PCS papers.
+
+**Ans: B.** Bihar (~63.8% / 61.8% in some older tables — lowest among States).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The Census of India is conducted every:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 5 years</div><div class="pyq-opt"><span class="opt-letter">B</span> 10 years</div><div class="pyq-opt"><span class="opt-letter">C</span> 15 years</div><div class="pyq-opt"><span class="opt-letter">D</span> 20 years</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statutory decennial series since 1881; Census 2021 was deferred.
+
+**Ans: B.** 10 years (decennial).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Census is a subject of which List of the Seventh Schedule?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Union List</div><div class="pyq-opt"><span class="opt-letter">B</span> State List</div><div class="pyq-opt"><span class="opt-letter">C</span> Concurrent List</div><div class="pyq-opt"><span class="opt-letter">D</span> Residuary</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Conducted by the Registrar General & Census Commissioner under the Census Act, 1948.
+
+**Ans: A.** Union List (Entry 69).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which State had the lowest sex ratio in Census 2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Punjab</div><div class="pyq-opt"><span class="opt-letter">B</span> Haryana</div><div class="pyq-opt"><span class="opt-letter">C</span> Rajasthan</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Haryana also posted the lowest child sex ratio — a recurring twin trap with adult sex ratio.
+
+**Ans: B.** Haryana.</div>
+  </div>
+</div>

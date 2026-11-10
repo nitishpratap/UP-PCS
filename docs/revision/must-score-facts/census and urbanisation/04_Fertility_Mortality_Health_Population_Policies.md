@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Census and Urbanisation Topic 4 — Fertility, Mortality, Health and Population Policies</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2026** | **Digital Census Architecture & Self-Enumeration Portal** — Office of RGCCI preparing first fully digital, geo-referenced national census with mobile app enumeration | Next decennial census enumeration methodology |
-| **2023** | **Bihar Caste-Based Survey (बिहार जाति गणना)** — Published detailed headcount showing EBC (36%), OBC (27.1%), SC (19.7%), ST (1.7%), General (15.5%) | First published state caste demographic survey since 1931 |
-| **2022–2023** | **UN World Population Prospects (WPP 2022/2023)** — Formally recognised India overtaking China as the most populous nation with ~142.86 Crore population | Global demographic rank shifts |
-| **2021** | **National Family Health Survey (NFHS-5)** — National TFR declined to **2.0** (below replacement level 2.1); UP TFR recorded at **2.35** (down from 2.74 in NFHS-4) | Key fertility & vital statistics benchmark |
-| **2020** | **Sample Registration System (SRS) Statistical Report** — National IMR declined to **28 per 1,000 live births**; UP IMR dropped to **38** | Annual vital statistics tracking |
-| **Rolling** | **Census 2011 Statutory Baseline** — Remains the binding official reference benchmark for all UPPSC/UKPCS examination questions until Census 2021/2026 notification | Core exam master data baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. India was the **first country in the world** to launch an official National Family Planning Programme in **1952**.
@@ -134,21 +123,6 @@ ight]$ | **Surviving Daughters per Woman** | **NRR = 1.0** represents exact demo
 | **Maternal Mortality Ratio (MMR per 1 Lakh)** | **1. Kerala (19)**<br>2. Maharashtra (33)<br>3. Telangana (43)<br>4. Andhra Pradesh (45)<br>5. Tamil Nadu (54) | **1. Assam (195)**<br>2. Madhya Pradesh (173)<br>3. Uttar Pradesh (167)<br>4. Chhattisgarh (137)<br>5. Odisha (119) | **MMR: 167 per Lakh Live Births** (Down from 359 in 2007–09; high-priority intervention state). |
 | **Institutional Deliveries (%)** | **1. Kerala (99.8%)**<br>2. Tamil Nadu (99.5%)<br>3. Goa (99.5%) | **1. Nagaland (45.7%)**<br>2. Meghalaya (58.1%)<br>3. Bihar (76.2%) | **Institutional Deliveries: 83.4%** in NFHS-5 (up from 67.8% in NFHS-4 and 20.6% in NFHS-3). |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **Infant Mortality Rate (IMR)**: Deaths under 1 year per **1,000 Live Births** | **Maternal Mortality Ratio (MMR)**: Maternal deaths per **100,000 (1 Lakh) Live Births** | **Trap**: The most common unit trap in competitive exams! IMR denominator is 1,000; MMR denominator is strictly 100,000 (1 Lakh). |
-| **Gross Reproduction Rate (GRR)**: Daughters born ignoring mortality | **Net Reproduction Rate (NRR)**: Daughters surviving to adulthood accounting for mortality | **Trap**: NRR is always less than or equal to GRR because NRR discounts for female child mortality. NRR = 1.0 means exact replacement. |
-| **Crude Birth Rate (CBR)**: Total births per 1,000 total population | **General Fertility Rate (GFR)**: Total births per 1,000 women aged 15–49 | **Trap**: CBR denominator is the entire population (including men and children); GFR denominator is strictly women in reproductive age. |
-| **NPP 2000 Medium-Term Goal**: TFR 2.1 by **2010** | **NPP 2000 Long-Term Goal**: Population stabilization by **2045** | **Trap**: Do not mix up the milestone years: 2010 was for TFR 2.1; 2045 was for total population stabilization. |
-| **National Commission on Population**: Chaired by the **Prime Minister** | **State Population Commission**: Chaired by the **Chief Minister** | **Trap**: NCP is chaired by the Prime Minister (not the Union Health Minister). |
-| **Janani Suraksha Yojana (JSY, 2005)**: Cash assistance for institutional delivery | **Janani Shishu Suraksha Karyakram (JSSK, 2011)**: 100% cashless, zero-expense deliveries | **Trap**: JSY provides cash incentives (Rs 1,400 rural); JSSK eliminates all out-of-pocket expenses (free drugs, tests, transport, c-section). |
-| **Neonatal Mortality (NMR)**: Deaths within **first 28 days of life** | **Infant Mortality (IMR)**: Deaths within **first 1 year (365 days) of life** | **Trap**: NMR is a subset of IMR. Neonatal deaths account for over 70% of all infant deaths in India. |
-| **National Health Mission (NHM)**: Integrates NRHM (2005) + NUHM (2013) | **Ayushman Bharat (2018)**: Integrates HWCs + PM-JAY | **Trap**: NHM is the overarching health system architecture; Ayushman Bharat is the flagship assurance & wellness scheme. |
-| **Lowest TFR State**: **Sikkim (1.1)** | **Highest TFR State**: **Bihar (3.0)** | **Trap**: Sikkim has the lowest TFR in India (1.1), far below replacement. Bihar is the highest (3.0). |
-| **SDG Target 3.1 for MMR**: Less than **70 per 100,000 live births by 2030** | **Current India MMR (SRS 2018–20)**: **97 per 100,000 live births** | **Trap**: India has reduced MMR from 130 to 97, and is on track to achieve the SDG target of $< 70$ by 2030. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **Vital Rate Denominators**:
@@ -161,232 +135,244 @@ ight]$ | **Surviving Daughters per Woman** | **NRR = 1.0** represents exact demo
   - Lowest IMR = **Kerala (6 per 1,000)** | Highest IMR = **Madhya Pradesh (43)**
   - National TFR = **2.0** (NFHS-5) | UP TFR = **2.35** (declined from 2.74 in NFHS-4).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-What should be Total Fertility Rate (TFR) of a population in order to reach at the replacement level of fertility?
-A. 1.0
-B. 1.6
-C. 2.1
-D. 2.3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Replacement-level TFR ≈ 2.1 children per woman in low-mortality settings.
-
-**Ans: C.** About 2.1.
-
-</details>
-
-**Q2.**
-What is the current Total Fertility Rate (TFR) of India according to NFHS (2015-16)?
-A. 2.2
-B. 2.4
-C. 3.2
-D. 3.4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NFHS-4 (2015–16) TFR was 2.2; later NFHS-5 fell further toward/below replacement nationally.
-
-**Ans: A.** 2.2 (NFHS-4).
-
-</details>
-
-**Q3.**
-With reference to ‘birth rate’ which statement(s) is/are correct?
-1. Urbanization helps in reducing the birth rate.
-2. High literacy rate is directly related to low birth rate.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Urbanisation and female literacy are standard inverse correlates of fertility in Indian demography stems.
-
-**Ans: C.** Both 1 and 2.
-
-</details>
-
-**Q4.**
-By which year has India fixed the target of achieving population stability?
-A. 2045
-B. 2070
-C. 2047
-D. 2050
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Trap is 2045 from NPP 2000’s older long-term wording (also UPSC 2008).
-
-**Ans: B.** 2070 (UPPCS 2023 official key).
-
-</details>
-
-**Q5.**
-National Population Policy 2000 aimed to achieve replacement-level fertility by:
-A. 2005
-B. 2010
-C. 2020
-D. 2025
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Also targeted IMR <30 and MMR <100 — timelines slipped, but the stated NPP year is 2010.
-
-**Ans: B.** 2010 (TFR 2.1).
-
-</details>
-
-**Q6.**
-As per India’s National Population Policy, 2000, the long-term objective of population stabilisation was set for:
-A. 2025
-B. 2035
-C. 2045
-D. 2055
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 2045.
-
-**Ans: C.** 2045
-</details>
-
-**Q7.**
-IMR is defined as deaths of children under age one per:
-A. 100 live births
-B. 1,000 live births
-C. 1,000 mid-year population
-D. 100,000 live births
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** MMR uses 1,00,000 live births — common unit trap.
-
-**Ans: B.** 1,000 live births.
-
-</details>
-
-**Q8.**
-The total fertility rate in an economy is defined as:
-A. the number of children born per 1,000 people in the population in a year
-B. the number of children born to a couple in their lifetime in a given population
-C. the birth rate minus death rate
-D. the average number of live births a woman would have by the end of her child-bearing age
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** A is CBR; C is natural increase; B is vague — TFR is the period fertility measure.
-
-**Ans: D.** Synthetic cohort average live births per woman.
-
-</details>
-
-**Q9.**
-As per India’s National Population Policy, 2000, by which year is it our long-term objective to achieve population stabilisation?
-A. 2025
-B. 2035
-C. 2045
-D. 2055
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 2045.
-
-**Ans: C.** 2045
-</details>
-
-**Q10.**
-Consider the following statements:
-1. Infant mortality rate takes into account the death of infants within a month after birth.
-2. Infant mortality rate is the number of infant deaths in a particular year per 100 live births during that year.
-Which is/are correct?
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** IMR = deaths under age one per 1,000 live births — not one month, not per 100.
-
-**Ans: D.** Neither 1 nor 2.
-
-</details>
-
-**Q11.**
-A high birth rate is associated with:
-A. A female literacy rate
-B. A low female literacy rate
-C. A high male literacy rate
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Female education is the classic inverse correlate of fertility.
-
-**Ans: B.** A low female literacy rate.
-
-</details>
-
-**Q12.**
-India launched the world's first National Family Planning Programme in which year?
-A. 1947
-B. 1952
-C. 1956
-D. 1960
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 1952.
-
-**Ans: B.** 1952
-</details>
-
-**Q13.**
-The National Family Health Survey (NFHS) in India is implemented by which institution?
-A. AIIMS New Delhi
-B. National Statistical Office (NSO)
-C. International Institute for Population Sciences (IIPS), Mumbai
-D. NITI Aayog
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NFHS is conducted by **IIPS Mumbai** (International Institute for Population Sciences) under the Ministry of Health and Family Welfare (MoHFW).
-
-**Ans: C.** IIPS Mumbai.
-
-</details>
-
-**Q14.**
-Which of the following correctly defines the Maternal Mortality Ratio (MMR)?
-A. Number of maternal deaths per 1,000 live births
-B. Number of maternal deaths per 1,00,000 live births
-C. Number of infant deaths per 1,000 live births
-D. Number of child deaths under 5 per 1,000 population
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** MMR = number of maternal deaths per **1,00,000 live births**.
-
-**Ans: B.** Per 1,00,000 live births.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">What should be Total Fertility Rate (TFR) of a population in order to reach at the replacement level of fertility?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1.0</div><div class="pyq-opt"><span class="opt-letter">B</span> 1.6</div><div class="pyq-opt"><span class="opt-letter">C</span> 2.1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2.3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Replacement-level TFR ≈ 2.1 children per woman in low-mortality settings.
+
+**Ans: C.** About 2.1.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">What is the current Total Fertility Rate (TFR) of India according to NFHS (2015-16)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2.2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2.4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3.2</div><div class="pyq-opt"><span class="opt-letter">D</span> 3.4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** NFHS-4 (2015–16) TFR was 2.2; later NFHS-5 fell further toward/below replacement nationally.
+
+**Ans: A.** 2.2 (NFHS-4).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to ‘birth rate’ which statement(s) is/are correct?<br>1. Urbanization helps in reducing the birth rate.<br>2. High literacy rate is directly related to low birth rate.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Urbanisation and female literacy are standard inverse correlates of fertility in Indian demography stems.
+
+**Ans: C.** Both 1 and 2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">By which year has India fixed the target of achieving population stability?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2045</div><div class="pyq-opt"><span class="opt-letter">B</span> 2070</div><div class="pyq-opt"><span class="opt-letter">C</span> 2047</div><div class="pyq-opt"><span class="opt-letter">D</span> 2050</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Trap is 2045 from NPP 2000’s older long-term wording (also UPSC 2008).
+
+**Ans: B.** 2070 (UPPCS 2023 official key).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">National Population Policy 2000 aimed to achieve replacement-level fertility by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2005</div><div class="pyq-opt"><span class="opt-letter">B</span> 2010</div><div class="pyq-opt"><span class="opt-letter">C</span> 2020</div><div class="pyq-opt"><span class="opt-letter">D</span> 2025</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Also targeted IMR <30 and MMR <100 — timelines slipped, but the stated NPP year is 2010.
+
+**Ans: B.** 2010 (TFR 2.1).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">As per India’s National Population Policy, 2000, the long-term objective of population stabilisation was set for:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2025</div><div class="pyq-opt"><span class="opt-letter">B</span> 2035</div><div class="pyq-opt"><span class="opt-letter">C</span> 2045</div><div class="pyq-opt"><span class="opt-letter">D</span> 2055</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 2045.
+
+**Ans: C.** 2045</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">IMR is defined as deaths of children under age one per:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 100 live births</div><div class="pyq-opt"><span class="opt-letter">B</span> 1,000 live births</div><div class="pyq-opt"><span class="opt-letter">C</span> 1,000 mid-year population</div><div class="pyq-opt"><span class="opt-letter">D</span> 100,000 live births</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** MMR uses 1,00,000 live births — common unit trap.
+
+**Ans: B.** 1,000 live births.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The total fertility rate in an economy is defined as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> the number of children born per 1,000 people in the population in a year</div><div class="pyq-opt"><span class="opt-letter">B</span> the number of children born to a couple in their lifetime in a given population</div><div class="pyq-opt"><span class="opt-letter">C</span> the birth rate minus death rate</div><div class="pyq-opt"><span class="opt-letter">D</span> the average number of live births a woman would have by the end of her child-bearing age</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** A is CBR; C is natural increase; B is vague — TFR is the period fertility measure.
+
+**Ans: D.** Synthetic cohort average live births per woman.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">As per India’s National Population Policy, 2000, by which year is it our long-term objective to achieve population stabilisation?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2025</div><div class="pyq-opt"><span class="opt-letter">B</span> 2035</div><div class="pyq-opt"><span class="opt-letter">C</span> 2045</div><div class="pyq-opt"><span class="opt-letter">D</span> 2055</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 2045.
+
+**Ans: C.** 2045</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br>1. Infant mortality rate takes into account the death of infants within a month after birth.<br>2. Infant mortality rate is the number of infant deaths in a particular year per 100 live births during that year.<br>Which is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** IMR = deaths under age one per 1,000 live births — not one month, not per 100.
+
+**Ans: D.** Neither 1 nor 2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">A high birth rate is associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A female literacy rate</div><div class="pyq-opt"><span class="opt-letter">B</span> A low female literacy rate</div><div class="pyq-opt"><span class="opt-letter">C</span> A high male literacy rate</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Female education is the classic inverse correlate of fertility.
+
+**Ans: B.** A low female literacy rate.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">India launched the world's first National Family Planning Programme in which year?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1947</div><div class="pyq-opt"><span class="opt-letter">B</span> 1952</div><div class="pyq-opt"><span class="opt-letter">C</span> 1956</div><div class="pyq-opt"><span class="opt-letter">D</span> 1960</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 1952.
+
+**Ans: B.** 1952</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The National Family Health Survey (NFHS) in India is implemented by which institution?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> AIIMS New Delhi</div><div class="pyq-opt"><span class="opt-letter">B</span> National Statistical Office (NSO)</div><div class="pyq-opt"><span class="opt-letter">C</span> International Institute for Population Sciences (IIPS), Mumbai</div><div class="pyq-opt"><span class="opt-letter">D</span> NITI Aayog</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** NFHS is conducted by **IIPS Mumbai** (International Institute for Population Sciences) under the Ministry of Health and Family Welfare (MoHFW).
+
+**Ans: C.** IIPS Mumbai.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following correctly defines the Maternal Mortality Ratio (MMR)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Number of maternal deaths per 1,000 live births</div><div class="pyq-opt"><span class="opt-letter">B</span> Number of maternal deaths per 1,00,000 live births</div><div class="pyq-opt"><span class="opt-letter">C</span> Number of infant deaths per 1,000 live births</div><div class="pyq-opt"><span class="opt-letter">D</span> Number of child deaths under 5 per 1,000 population</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** MMR = number of maternal deaths per **1,00,000 live births**.
+
+**Ans: B.** Per 1,00,000 live births.</div>
+  </div>
+</div>

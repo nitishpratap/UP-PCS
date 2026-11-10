@@ -166,20 +166,6 @@ hide:
 | **Kalighat** | **West Bengal** (Kolkata) | Cheap paper / watercolor | Bold sweeping outlines, satirical caricatures of colonial babus, Goddess Kali |
 | **Aipan** | **Uttarakhand** (Kumaon) | Red ochre floor/wall (*Geru*) | Traditional white rice-paste (*Biswar*) geometric ritual floor and doorway art |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **8 Classical Dances** | **11 Classical Languages** | Classical dances = **8** (SNA list; Sattriya added 2000); Classical languages = **11** (Tamil, Sanskrit, Telugu, Kannada, Malayalam, Odia + Marathi, Pali, Prakrit, Assamese, Bengali [2024]) | 8 शास्त्रीय नृत्य / 11 शास्त्रीय भाषाएं |
-| **Kalaripayattu (Kerala)** | **Silambam (Tamil Nadu)** | Kalaripayattu = Kerala martial art using *Urumi* flexible sword in a *Kalari* pit; Silambam = Tamil Nadu martial art focused on **bamboo staff combat** | कलारिपयट्टू (केरल / उरुमी) / सिलंबम (तमिल नाडु / लाठी) |
-| **Thang-Ta (Manipur)** | **Gatka (Punjab)** | Thang-Ta = Manipuri sword and spear martial art (*Huyen Langlon*); Gatka = Sikh wooden stick and leather shield martial tradition of Punjab | थांग-ता (मणिपुर / तलवार-भाला) / गतका (पंजाब / सिख लाठी-ढाल) |
-| **Mundaka Upanishad** | **Mandukya Upanishad** | Mundaka = Source of national motto **"Satyameva Jayate"**; Mandukya = **Shortest Upanishad** expounding AUM and 4 states of consciousness | मुंडक (सत्यमेव जयते) / मांडूक्य (ओम् व चेतना अवस्थाएं) |
-| **Sarnath Lion Capital** | **Rampurva Bull Capital** | Sarnath Capital = Four back-to-back lions (National Emblem); Rampurva Capital = Polished zebu bull (Rashtrapati Bhavan) | सारनाथ सिंह शीर्ष / रामपुरवा वृषभ शीर्ष |
-| **Alha (Bundelkhand)** | **Kajari (Mirzapur)** | Alha = Heroic martial ballad of 52 battles sung by **men in monsoon**; Kajari = Lyrical romantic monsoon song of longing sung by **women** | आल्हा (वीर गाथा) / कजरी (वर्षा विरह गीत) |
-| **Ramman (Uttarakhand)** | **Ramlila (UP)** | Ramman = **Chamoli village mask festival** in April (UNESCO ICH 2009); Ramlila = Dramatic open-air performance of **Ramayana** across North India (UNESCO ICH 2008) | रम्माण (उत्तराखंड चमोली) / रामलीला (रामायण मंचन) |
-| **Patan Patola (Double Ikat)**| **Bandhani (Tie-and-Dye)** | Patola = Yarns are **resist-dyed before weaving** (Double Ikat); Bandhani = Finished fabric is **tied and dyed** | पटोला (डबल इकत) / बंधेज (टाई-एंड-डाई) |
-| **Robert Bruce Foote** | **Alexander Cunningham** | Foote = **'Father of Indian Prehistory'** (discovered stone hand-axe at Pallavaram 1863); Cunningham = **'Father of Indian Archaeology'** (founder-DG of ASI 1861) | रॉबर्ट ब्रूस फुट (प्रागैतिहास) / कनिंघम (पुरातत्व) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The 11 Classical Languages of India:
@@ -202,290 +188,289 @@ hide:
 - **F**atehpur Sikri (1986)
 - **S**arnath Buddhist Site (2026)
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-**Q1.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Tamil (Declared in 2004) — Conferred status as India's first Classical Language.
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tamil (Declared in 2004) — Conferred status as India's first Classical Language.</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Tamil** (Declared in **2004**) — Conferred status as India's first Classical Language.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q2.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Both statements are true and explain the phenomenon
-B. Sanskrit (Declared in 2005).
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">B</span> Sanskrit (Declared in 2005).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Recognized by UNESCO under World Heritage natural criteria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Sanskrit** (Declared in **2005**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q3.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. It was established during the First Five-Year Plan period
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Telugu (Declared in 2008).
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It was established during the First Five-Year Plan period</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> Telugu (Declared in 2008).</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Telugu** (Declared in **2008**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q4.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Recognized by UNESCO under World Heritage natural criteria
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Kannada (Declared in 2008).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">B</span> Enacted under Article 356 of the Constitution of India</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Kannada (Declared in 2008).</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Kannada** (Declared in **2008**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q5.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Malayalam (Declared in 2013).
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Malayalam (Declared in 2013).</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Malayalam** (Declared in **2013**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q6.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Reported by the Law Commission in its 214th consultation paper
-B. Odia (Declared in 2014).
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">B</span> Odia (Declared in 2014).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Excavated primarily in the Belan and Son River valleys</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Odia** (Declared in **2014**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q7.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Marathi applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Marathi (Approved by the Union Cabinet on 3 October 2024).
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Marathi applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Excavated primarily in the Belan and Son River valleys</div><div class="pyq-opt"><span class="opt-letter">C</span> Marathi (Approved by the Union Cabinet on 3 October 2024).</div><div class="pyq-opt"><span class="opt-letter">D</span> Classified under Schedule VII List II (State List)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Marathi** (Approved by the Union Cabinet on **3 October 2024**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q8.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Pali applies only to union territories and not state jurisdictions.
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Pali (Approved on 3 October 2024).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Pali applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Classified under Schedule VII List II (State List)</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Pali (Approved on 3 October 2024).</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Pali** (Approved on **3 October 2024**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q9.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Prakrit (Approved on 3 October 2024).
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Prakrit (Approved on 3 October 2024).</div><div class="pyq-opt"><span class="opt-letter">B</span> Originated during the Later Vedic transitional period</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Statement I is correct but Statement II is incorrect</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Prakrit** (Approved on **3 October 2024**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q10.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Assamese applies only to union territories and not state jurisdictions.
-B. Assamese (Approved on 3 October 2024).
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Assamese applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Assamese (Approved on 3 October 2024).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Both statements are true and explain the phenomenon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Assamese** (Approved on **3 October 2024**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q11.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Bengali applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Bengali (Approved on 3 October 2024).
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Bengali applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> Bengali (Approved on 3 October 2024).</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Bengali** (Approved on **3 October 2024**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q12.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, High applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. High Antiquity: Recorded history and early literary texts spanning a historical antiquity of 1500 to 2000 years.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, High applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> It was established during the First Five-Year Plan period</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> High Antiquity: Recorded history and early literary texts spanning a historical antiquity of 1500 to 2000 years.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **High Antiquity:** Recorded history and early literary texts spanning a historical antiquity of **1500 to 2000 years**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q13.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Valuable Heritage: A treasured corpus of ancient literature and texts cherished as invaluable heritage by generations of speakers.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. None of the above statements are correct according to official Commission keys.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Valuable Heritage: A treasured corpus of ancient literature and texts cherished as invaluable heritage by generations of speakers.</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Valuable Heritage:** A treasured corpus of ancient literature and texts cherished as invaluable heritage by generations of speakers.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q14.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Original applies only to union territories and not state jurisdictions.
-B. Original Literary Tradition: A literary heritage that is demonstrably authentic and original, not borrowed from another speech community.
-C. None of the above statements are correct according to official Commission keys.
-D. Reported by the Law Commission in its 214th consultation paper
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Original applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Original Literary Tradition: A literary heritage that is demonstrably authentic and original, not borrowed from another speech community.</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Reported by the Law Commission in its 214th consultation paper</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Original Literary Tradition:** A literary heritage that is demonstrably authentic and original, not borrowed from another speech community.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q15.** in Art & Culture, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Linguistic applies only to union territories and not state jurisdictions.
-B. Reported by the Law Commission in its 214th consultation paper
-C. Linguistic Distinctiveness: A distinct divergence between the classical language and its modern forms or vernacular offshoots, acknowledging potential historical discontinuity across later evolutionary stages.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">in Art & Culture, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Linguistic applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> Linguistic Distinctiveness: A distinct divergence between the classical language and its modern forms or vernacular offshoots, acknowledging potential historical discontinuity across later evolutionary stages.</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Linguistic Distinctiveness:** A distinct divergence between the classical language and its modern forms or vernacular offshoots, acknowledging potential historical discontinuity across later evolutionary stages.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
-
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>

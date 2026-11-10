@@ -129,31 +129,6 @@ hide:
 | **I4C** | Ministry of Home Affairs (MHA) | Executive Division (2020) | Citizen cybercrime reporting (1930 / cybercrime.gov.in); coordination among States. |
 | **Indian Coast Guard** | **Ministry of Defence (MoD)** | Coast Guard Act, 1978 | Maritime law enforcement (12-200 nm); belongs to MoD, NOT MHA/CAPF. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Trap | Core Distinction / What Examiner Tests | True Position / Correct Fact | Hindi Key |
-|---|---|---|---|
-| **IB vs RAW** | IB handles **domestic** intelligence under MHA; RAW handles **external** intelligence under Cabinet Secretariat (PMO). | IB = MHA (आंतरिक); RAW = PMO (बाह्य) | आसूचना ब्यूरो / रॉ |
-| **NIA Consent vs CBI Consent** | CBI requires **State Government consent (s.6 DSPE Act)**; NIA has **all-India concurrent statutory power without State consent**. | NIA requires NO state permission. | एनआईए / सीबीआई राज्य सहमति |
-| **BHARATPOL Operation** | Often confused with IB or RAW portal. | Operated exclusively by **CBI** as India's Interpol National Central Bureau. | भारतपोल / सीबीआई इंटरपोल |
-| **BSF Border vs ITBP Border** | BSF guards Pakistan and Bangladesh; ITBP guards China (LAC). | BSF = Pak + Bangladesh; ITBP = China. | बीएसएफ / आईटीबीपी सीमा |
-| **SSB Border Coverage** | SSB guards Nepal **AND Bhutan**; NOT Nepal only. | Covers both northern friendly borders (Nepal + Bhutan). | एसएसबी (नेपाल + भूटान) |
-| **Assam Rifles Control** | AR is NOT a standard single-ministry CAPF; has **DUAL control**. | Administrative = **MHA**; Operational = **MoD / Army**; HQ = **Shillong**. | असम राइफल्स दोहरा नियंत्रण |
-| **NSG vs SPG** | NSG is federal counter-terror strike force; SPG provides proximate security **strictly to the Prime Minister**. | SPG = Only PM; NSG = Counter-terror. | एनएसजी / एसपीजी |
-| **NSC's SPG vs SPG Force** | SPG under NSC means **Strategic Policy Group** (chaired by Cabinet Secretary), NOT Special Protection Group. | SPG in NSC = Strategic Policy Group. | रणनीतिक नीति समूह (SPG) |
-| **NSC vs CCS** | NSC is an advisory architecture with experts and NSA; CCS is a **constitutional Cabinet Committee** of 5 ministers. | CCS takes binding decisions; NSC advises. | राष्ट्रीय सुरक्षा परिषद / सीसीएस |
-| **NCTC Status** | Often claimed to be an active wing under IB. | **Never established**; abandoned due to federalism objections. | एनसीटीसी (कभी लागू नहीं हुआ) |
-| **Indian Coast Guard Ministry** | Frequently trapped as a CAPF under MHA. | Operates under **Ministry of Defence (MoD)** under 1978 Act. | भारतीय तटरक्षक बल (रक्षा मंत्रालय) |
-| **April 2024 Encounter District** | Trapped as Gadchiroli (Maharashtra). | Occurred in **Kanker district, Chhattisgarh** (Abujhmad forest). | कांकेर मुठभेड़ (छत्तीसगढ़) |
-| **DRG vs C-60 Commando Forces** | DRG is **Chhattisgarh** District Reserve Guard; C-60 is **Maharashtra** Gadchiroli unit. | DRG = CG; C-60 = Maharashtra. | डीआरजी / सी-60 बल |
-| **CRPF vs BSF Raising Years** | CRPF was raised in **1939** (Crown Police); BSF was raised in **1965** post-war. | CRPF is older (1939); BSF is 1965. | सीआरपीएफ (1939) / बीएसएफ (1965) |
-| **CISF Primary Mandate** | CISF is NOT a riot-control force; RAF (under CRPF) does riot control. | CISF = Airports, Metro, PSUs, Industry. | सीआईएसएफ (औद्योगिक/हवाई अड्डा) |
-| **NATGRID Classification** | NATGRID is NOT an armed police force or CAPF. | NATGRID is an **integrated database framework** under MHA. | नैटग्रिड (डेटाबेस ढांचा) |
-| **Police & Public Order List** | Trapped as Union or Concurrent List. | Strictly **List II (State List), Entries 1 and 2**. | पुलिस व लोक व्यवस्था (राज्य सूची) |
-| **CERT-In vs I4C** | CERT-In handles technical cyber incident response under **MeitY**; I4C coordinates cyber crime under **MHA**. | CERT-In = MeitY; I4C = MHA. | सर्ट-इन (MeitY) / आई4सी (गृह मंत्रालय) |
-| **NCIIPC vs CERT-In** | NCIIPC is under **Section 70A (NTRO/PMO)** for critical infrastructure; CERT-In is under **Section 70B (MeitY)**. | NCIIPC = 70A (CII); CERT-In = 70B (incidents). | एनसीआईआईपीसी / सर्ट-इन |
-| **UAPA Individual Designation** | Pre-2019 only organizations could be designated. | Post-2019 **individuals** can also be designated under 4th Schedule. | यूएपीए व्यक्ति आतंकवादी घोषणा |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Border-Guarding Forces: "B-I-S-A" Border Clock
@@ -178,312 +153,278 @@ hide:
 - **Green Jungle:** **CoBRA** (2008) — Anti-Maoist jungle commando operations.
 
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-BHARATPOL developed by— 1 CBI 2 RAW 3 IB 4 ED
-A. 2 and 3
-B. 3 and 4
-C. Only 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — CBI.** Interpol NCB.
-
-</details>
-
-**Q2.**
-April 2024 anti-Maoist operation: (1) Gadchiroli, Maharashtra (2) BSF and District Reserve Guards
-A. Only 2
-B. Neither
-C. Only 1
-D. Both
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 2.** Place = **Kanker, Chhattisgarh**, not Gadchiroli.
-
-</details>
-
-**Q3.** With reference to ministries and forces, which of the following statements is/are correct?
-
-1. CAPFs sit under the Ministry of Home Affairs.
-2. The Indian Coast Guard sits under the Ministry of Home Affairs as a CAPF.
-3. NIA investigates only State List offences and never scheduled offences under Union law.
-
-A. 1 and 2
-B. All 1, 2 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** CAPFs sit under the Ministry of Home Affairs. The Indian Coast Guard sits under the Ministry of Defence. Police and public order are State List subjects.
-
-</details>
-
-**Q4.** correctly matched?
-
-A. IB — internal intelligence; MHA; 1887
-B. RAW — external intelligence; Cabinet Secretariat line; 1968
-C. NIA — Act 2008; needs DSPE section 6 State consent for scheduled offences
-D. CBI — India’s Interpol National Central Bureau
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** NIA investigates scheduled offences without State consent; CBI needs s.6 consent.
-
-**Logic:** NIA ≠ CBI on the consent trap.
-
-</details>
-
-**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): BHARATPOL is built and run as India’s Interpol cooperation portal by the Intelligence Bureau.
-
-Reason (R): India’s Interpol National Central Bureau is the CBI.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** BHARATPOL is the CBI-linked Interpol channel because CBI is the NCB — not IB/RAW/ED.
-
-</details>
-
-**Q6.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Force) | List-II (Primary beat) |
-|----------------|------------------------|
-| A. BSF | 1. China / LAC belt |
-| B. ITBP | 2. Pakistan and Bangladesh borders |
-| C. SSB | 3. Nepal and Bhutan borders |
-| D. CISF | 4. Industry / airports / metro static security |
-
-> Note: Row order is **not** the answer.
-
-Select the correct answer using the code given below:
-
-A. A-1, B-2, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-3, B-1, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A-2, B-1, C-3, D-4.
-
-**Logic:** BSF = W+E international land borders; ITBP = China/LAC; SSB = Nepal/Bhutan; CISF = static industry/airport.
-
-</details>
-
-**Q7.** Arrange the following in chronological order of establishment / raising:
-
-1. Intelligence Bureau (Central Special Branch origin)
-2. RAW
-3. NSG (post-1984 raising)
-4. NIA Act
-
-Select the correct answer from the code given below:
-
-A. 2–1–3–4
-B. 1–2–3–4
-C. 1–3–2–4
-D. 1–2–4–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1887 → 1968 → 1984 → 2008.
-
-**Logic:** IB is oldest; RAW 1968; NSG after 1984; NIA Act after 26/11 (2008).
-
-</details>
-
-**Q8.** With reference to the National Security Council, which of the following is/are correct?
-
-1. NSC (1998) is chaired by the Prime Minister.
-2. The Strategic Policy Group of the NSC is the same body as the Special Protection Group under the 1988 Act.
-3. The first NSA was A.B. Vajpayee himself, not Brajesh Mishra.
-
-A. 1 and 2
-B. Only 1
-C. Only 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** NSC (1998) is chaired by the Prime Minister. The Strategic Policy Group is not the Special Protection Group under the 1988 Act. The first NSA was Brajesh Mishra. Left-wing extremism is not confined to the National Capital Region.
-
-</details>
-
-**Q9.** With reference to cyber institutions, which of the following statements is/are correct?
-
-1. NCIIPC (section 70A) protects Critical Information Infrastructure and is identical to CERT-In.
-2. CERT-In is under MeitY and draws power from IT Act section 70B.
-3. I4C is an MHA cybercrime coordination ecosystem.
-
-A. Only 2 and 3
-B. Only 1
-C. 1 and 2
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 2 and 3 only are correct.
-
-**Logic:** NCIIPC ≠ CERT-In; NCIIPC sits on the NTRO/CII line.
-
-</details>
-
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): UAPA is a preventive detention law under the Article 22 track, identical to NSA 1980.
-
-Select the correct answer from the code given below:
-
-Reason (R): After the 2019 amendment, UAPA allows the Centre to designate individuals as terrorists.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A false, R true.
-
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 2019 Fourth Schedule individual designation is correct; UAPA is a criminal-trial statute, NSA is preventive detention.
-
-</details>
-
-**Q11.** correctly matched?
-
-A. AFSPA 1958 — applies in a notified disturbed area in the north-east
-B. AFSPA J&K 1990 — separate statute for Jammu & Kashmir
-C. NCTC (counter-terror) — established under IB in 2012 and still functional
-D. MAC — Multi-Agency Centre inside IB (2001)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Proposed NCTC was never stood up.
-
-**Logic:** Do not confuse never-born counter-terror NCTC with I4C’s National Cybercrime Training Centre.
-
-</details>
-
-**Q12.** With reference to NSG and SPG, which of the following is/are correct?
-
-1. NSG has SAG (Army) and SRG (CAPF) components and works under MHA.
-2. SPG Act 1988 is close protection of the Prime Minister; after 2019, ex-PM cover is five years from leaving office.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Both 1 and 2 are correct.
-
-**Logic:** NSG = federal strike; SPG = PM close protection — different jobs.
-
-</details>
-
-**Q13.** With reference to the April 2024 anti-Maoist operation fact often tested, which of the following is/are correct?
-
-1. The theatre was Gadchiroli district of Maharashtra.
-2. Forces included BSF and District Reserve Guards.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Theatre = Kanker, Chhattisgarh — not Gadchiroli; DRG is a Chhattisgarh police unit.
-
-</details>
-
-**Q14.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I | List-II |
-|--------|--------|
-| A. IT Act s.66A | 1. Critical Information Infrastructure |
-| B. IT Act s.70A | 2. Struck down in 2015 |
-| C. IT Act s.70B | 3. CERT-In statutory hook |
-| D. IT Act s.66F | 4. Cyber-terrorism |
-
-> Note: Row order is **not** the answer.
-
-Select the correct answer using the code given below:
-
-A. A-1, B-2, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-4, B-1, C-3, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A-2, B-1, C-3, D-4.
-
-**Logic:** Shreya Singhal struck 66A; 70A = NCIIPC/CII; 70B = CERT-In; 66F = cyber-terrorism.
-
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Assam Rifles is the oldest central paramilitary force, with administration under MHA and operations under the Army.
-
-Reason (R): Assam Rifles’ north-east headquarters is Shillong.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R does not explain A.
-
-**A/R logic:** Both facts are correct, but HQ location does not explain the dual MHA/Army control structure.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">BHARATPOL developed by— 1 CBI 2 RAW 3 IB 4 ED</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> CBI.** Interpol NCB.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">April 2024 anti-Maoist operation: (1) Gadchiroli, Maharashtra (2) BSF and District Reserve Guards</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Both</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2.** Place = **Kanker, Chhattisgarh**, not Gadchiroli.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to ministries and forces, which of the following statements is/are correct?<br><br>1. CAPFs sit under the Ministry of Home Affairs.<br>2. The Indian Coast Guard sits under the Ministry of Home Affairs as a CAPF.<br>3. NIA investigates only State List offences and never scheduled offences under Union law.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** CAPFs sit under the Ministry of Home Affairs. The Indian Coast Guard sits under the Ministry of Defence. Police and public order are State List subjects.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> IB — internal intelligence; MHA; 1887</div><div class="pyq-opt"><span class="opt-letter">B</span> RAW — external intelligence; Cabinet Secretariat line; 1968</div><div class="pyq-opt"><span class="opt-letter">C</span> NIA — Act 2008; needs DSPE section 6 State consent for scheduled offences</div><div class="pyq-opt"><span class="opt-letter">D</span> CBI — India’s Interpol National Central Bureau</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> NIA investigates scheduled offences without State consent; CBI needs s.6 consent.
+
+**Logic:** NIA ≠ CBI on the consent trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): BHARATPOL is built and run as India’s Interpol cooperation portal by the Intelligence Bureau.<br><br>Reason (R): India’s Interpol National Central Bureau is the CBI.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** BHARATPOL is the CBI-linked Interpol channel because CBI is the NCB — not IB/RAW/ED.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Force)</th><th>List-II (Primary beat)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> BSF</td><td><span class="match-key">1</span> China / LAC belt</td></tr>
+      <tr><td><span class="match-key">B</span> ITBP</td><td><span class="match-key">2</span> Pakistan and Bangladesh borders</td></tr>
+      <tr><td><span class="match-key">C</span> SSB</td><td><span class="match-key">3</span> Nepal and Bhutan borders</td></tr>
+      <tr><td><span class="match-key">D</span> CISF</td><td><span class="match-key">4</span> Industry / airports / metro static security</td></tr>
+  </tbody>
+</table><br>> Note: Row order is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3, D-4.
+
+**Logic:** BSF = W+E international land borders; ITBP = China/LAC; SSB = Nepal/Bhutan; CISF = static industry/airport.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order of establishment / raising:<br><br>1. Intelligence Bureau (Central Special Branch origin)<br>2. RAW<br>3. NSG (post-1984 raising)<br>4. NIA Act<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–1–3–4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1–2–3–4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1–3–2–4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1–2–4–3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1887 → 1968 → 1984 → 2008.
+
+**Logic:** IB is oldest; RAW 1968; NSG after 1984; NIA Act after 26/11 (2008).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to the National Security Council, which of the following is/are correct?<br><br>1. NSC (1998) is chaired by the Prime Minister.<br>2. The Strategic Policy Group of the NSC is the same body as the Special Protection Group under the 1988 Act.<br>3. The first NSA was A.B. Vajpayee himself, not Brajesh Mishra.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** NSC (1998) is chaired by the Prime Minister. The Strategic Policy Group is not the Special Protection Group under the 1988 Act. The first NSA was Brajesh Mishra. Left-wing extremism is not confined to the National Capital Region.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">With reference to cyber institutions, which of the following statements is/are correct?<br><br>1. NCIIPC (section 70A) protects Critical Information Infrastructure and is identical to CERT-In.<br>2. CERT-In is under MeitY and draws power from IT Act section 70B.<br>3. I4C is an MHA cybercrime coordination ecosystem.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 and 3 only are correct.
+
+**Logic:** NCIIPC ≠ CERT-In; NCIIPC sits on the NTRO/CII line.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): UAPA is a preventive detention law under the Article 22 track, identical to NSA 1980.<br><br>Select the correct answer from the code given below:<br><br>Reason (R): After the 2019 amendment, UAPA allows the Centre to designate individuals as terrorists.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A false, R true.
+
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 2019 Fourth Schedule individual designation is correct; UAPA is a criminal-trial statute, NSA is preventive detention.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> AFSPA 1958 — applies in a notified disturbed area in the north-east</div><div class="pyq-opt"><span class="opt-letter">B</span> AFSPA J&K 1990 — separate statute for Jammu & Kashmir</div><div class="pyq-opt"><span class="opt-letter">C</span> NCTC (counter-terror) — established under IB in 2012 and still functional</div><div class="pyq-opt"><span class="opt-letter">D</span> MAC — Multi-Agency Centre inside IB (2001)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Proposed NCTC was never stood up.
+
+**Logic:** Do not confuse never-born counter-terror NCTC with I4C’s National Cybercrime Training Centre.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to NSG and SPG, which of the following is/are correct?<br><br>1. NSG has SAG (Army) and SRG (CAPF) components and works under MHA.<br>2. SPG Act 1988 is close protection of the Prime Minister; after 2019, ex-PM cover is five years from leaving office.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct.
+
+**Logic:** NSG = federal strike; SPG = PM close protection — different jobs.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to the April 2024 anti-Maoist operation fact often tested, which of the following is/are correct?<br><br>1. The theatre was Gadchiroli district of Maharashtra.<br>2. Forces included BSF and District Reserve Guards.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Theatre = Kanker, Chhattisgarh — not Gadchiroli; DRG is a Chhattisgarh police unit.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> IT Act s.66A</td><td><span class="match-key">1</span> Critical Information Infrastructure</td></tr>
+      <tr><td><span class="match-key">B</span> IT Act s.70A</td><td><span class="match-key">2</span> Struck down in 2015</td></tr>
+      <tr><td><span class="match-key">C</span> IT Act s.70B</td><td><span class="match-key">3</span> CERT-In statutory hook</td></tr>
+      <tr><td><span class="match-key">D</span> IT Act s.66F</td><td><span class="match-key">4</span> Cyber-terrorism</td></tr>
+  </tbody>
+</table><br>> Note: Row order is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-1, C-3, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3, D-4.
+
+**Logic:** Shreya Singhal struck 66A; 70A = NCIIPC/CII; 70B = CERT-In; 66F = cyber-terrorism.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Assam Rifles is the oldest central paramilitary force, with administration under MHA and operations under the Army.<br><br>Reason (R): Assam Rifles’ north-east headquarters is Shillong.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R does not explain A.
+
+**A/R logic:** Both facts are correct, but HQ location does not explain the dual MHA/Army control structure.</div>
+  </div>
+</div>

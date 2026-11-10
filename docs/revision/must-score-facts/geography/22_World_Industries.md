@@ -149,22 +149,6 @@ hide:
 | **Soo Canal** | **Lake Superior** to **Lake Huron** | ~2.6 km | Navigation locks (bypasses St. Marys Rapids) | **USA and Canada** | High-tonnage iron ore and grain transit between Great Lakes |
 | **Welland Canal** | **Lake Erie** to **Lake Ontario** | 43 km | 8 ship locks (bypasses Niagara Falls) | **Canada** (Ontario) | Key component of the St. Lawrence Seaway; 99 m elevation drop |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Osaka** | **Detroit** | World-famous **Cotton textile center** ("Manchester of Japan") vs World-famous **Automobile manufacturing hub** ("Motor City", USA) | ओसाका / डेट्रॉइट |
-| **Cuba (Havana)** | **St. Petersburg** | Premier world producer of **Cigars and Sugar** vs Premier world center of **Shipbuilding and heavy engineering** | क्यूबा / सेंट पीटर्सबर्ग |
-| **Suez Canal** | **Panama Canal** | **Sea-level lockless canal** connecting Mediterranean to Red Sea (Egypt) vs **Lock-system canal** with freshwater Gatun Lake connecting Atlantic to Pacific (Panama) | स्वेज नहर / पनामा नहर |
-| **Port Said** | **Port Tewfik (Suez)** | **Northern Mediterranean entrance** of the Suez Canal vs **Southern Red Sea entrance** of the Suez Canal | पोर्ट सईद / पोर्ट तौफीक |
-| **Lake Manzala** | **Great Bitter Lake** | **Northernmost lake** entered by Suez Canal vs **Southern saline lake** on the Suez Canal course | मंज़ाला / ग्रेट बिटर झील |
-| **Kiel Canal** | **Corinth Canal** | Connects **North Sea with Baltic Sea** across Germany vs Connects **Gulf of Corinth with Saronic Gulf** across Greece | कील नहर / कोरिंथ नहर |
-| **Toulouse** | **Lyon** | World capital of **Aircraft manufacturing** (Airbus assembly) vs Historic European capital of **Silk textiles** | टूलूज़ / ल्योन |
-| **Turin (Torino)** | **Milan** | World capital of **Automobile manufacturing** (FIAT, "Detroit of Italy") vs Premier center of **Silk, fashion, and banking** ("Manchester of Italy") | तूरिन / मिलान |
-| **Belfast** | **Birmingham** | Historic center of **Shipbuilding** (Titanic) in Northern Ireland vs Historic center of **Iron & steel hardware** ("Black Country") in England | बेलफास्ट / बर्मिंघम |
-| **Weight-Losing Raw Material** | **Weight-Gaining Raw Material** | Material Index > 1 (e.g. Iron ore, sugarcane); factory located **near raw material source** vs Material Index < 1 (e.g. Bakeries, soft drinks); factory located **near consuming market** | भार-ह्रासी / भार-वर्धी कच्चा माल |
-| **Footloose Industry** | **Heavy Industry** | Industry with no strong raw material or market locational pull; can locate anywhere with transport access (e.g. Electronics, software) vs Industry tied strictly to heavy bulk raw material deposits (e.g. Iron and steel) | फुटलूज (स्वच्छंद) / भारी उद्योग |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Suez Canal Lakes North to South: **M-T-B-B**
@@ -173,14 +157,6 @@ hide:
 - **G**reat Bitter Lake
 - **L**ittle Bitter Lake (near Port Tewfik/Suez in South)
 - *(Mnemonic: **M**any **T**ravellers **B**oat **B**itterness)*
-
-### 2. Examiner Traps for Match-Lists:
-- **Osaka** = **COTTON**, NOT Automobile!
-- **Detroit** = **AUTOMOBILE**, NOT Cotton!
-- **Havana (Cuba)** = **CIGARS**, NOT Shipbuilding!
-- **St. Petersburg** = **SHIPBUILDING**, NOT Cigars!
-- **Toulouse** = **AIRCRAFT (Airbus)**, NOT Silk!
-- **Akron** = **SYNTHETIC RUBBER**, NOT Steel!
 
 ### 3. Panama Canal Terminals:
 - **Atlantic (Caribbean) side** = **Colón**
@@ -193,377 +169,357 @@ hide:
 - **Manchester of North India** = **Kanpur**
 - **Manchester of South India** = **Coimbatore**
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-With reference to industrial location, which of the following statements is/are correct?
-
-1. Weight-losing industries such as iron–steel tend to sit near bulky raw materials.
-2. Weight-gaining industries such as bottling tend to sit near the market.
-3. Aluminium smelting typically seeks cheap hydel power.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** Footloose electronics are the opposite case — not tied to a coalfield.
-
-</details>
-
-**Q2.**
-Which one of the following city–industry pairs is correctly matched?
-
-A. Osaka — automobiles
-B. Detroit — cotton textiles
-C. Cuba — cigar
-D. St Petersburg — cotton
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Cuba–cigar is the classic pair.
-
-**Logic:** Osaka = cotton; Detroit = auto; St Petersburg = shipbuilding.
-
-</details>
-
-**Q3.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Japan tag) | List-II (Meaning) |
-|---|---|
-| 1. Osaka | A. Detroit of Japan (autos) |
-| 2. Nagoya | B. Manchester of Japan (cotton) |
-| 3. Kawasaki | C. Pittsburgh of Japan (steel) |
-| 4. Keihin | D. Tokyo–Yokohama belt |
-
-*Row order is not the answer code.*
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-B, 2-A, 3-D, 4-C
-D. 1-C, 2-A, 3-B, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Osaka–Manchester/cotton; Nagoya–Detroit/autos; Kawasaki–Pittsburgh/steel; Keihin–Tokyo–Yokohama.
-
-**Logic:** Hanshin = Osaka–Kobe; Chukyo = Nagoya autos.
-
-</details>
-
-**Q4.**
-Assertion (A): The Suez Canal joins the Mediterranean Sea and the Red Sea.
-Reason (R): The Suez Canal uses a system of stepped chambers like Panama.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** A true (Med–Red). R false (no stepped chambers on Suez).
-
-</details>
-
-**Q5.**
-Arrange the Suez lakes from north to south:
-
-A. Timsah → Manzala → Great Bitter → Little Bitter
-B. Manzala → Timsah → Great Bitter → Little Bitter
-C. Great Bitter → Little Bitter → Manzala → Timsah
-D. Manzala → Great Bitter → Timsah → Little Bitter
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Manzala → Timsah → Great Bitter → Little Bitter.
-
-**Logic:** Port Said = north end; Suez town = south end.
-
-</details>
-
-**Q6.**
-Which one of the following port–country pairs is NOT correctly matched?
-
-A. Rotterdam — Netherlands
-B. Montevideo — Uruguay
-C. Jakarta — Indonesia
-D. Igarka — China
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Igarka is in Russia (Yenisei timber).
-
-**Logic:** Duisburg is an inland Rhine port in Germany, not a Dutch sea mouth.
-
-</details>
-
-**Q7.**
-Entrepôt classics in this chapter are:
-
-A. Detroit, Pittsburgh, Nagoya
-B. Akron, Toulouse, Seattle
-C. Singapore, Rotterdam, Hong Kong
-D. Lancashire, Yorkshire, Ruhr
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Singapore, Rotterdam, Hong Kong — import, store/sort, re-export.
-
-**Logic:** Shanghai leads many container-volume MCQs; Rhine mouth = Rotterdam.
-
-</details>
-
-**Q8.**
-Which canal correctly joins the North Sea and the Baltic?
-
-A. Suez
-B. Panama
-C. Kiel
-D. Suez and Panama both
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Kiel = North Sea–Baltic.
-
-**Logic:** Suez = Med–Red; Panama = Atlantic/Caribbean–Pacific.
-
-</details>
-
-**Q9.**
-With reference to local winds, which of the following statements is/are correct?
-
-1. Chinook is a warm dry wind of the Rockies.
-2. Foehn is the Alps equivalent of Chinook.
-3. Mistral is a southern Australian local wind.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Mistral = southern France / Rhône — not Australia. Brickfielder = Australia.
-
-</details>
-
-**Q10.**
-Which one of the following is NOT correctly matched?
-
-A. Shamal — Arabia / Persian Gulf
-B. Santa Ana — California
-C. Haboob — Sudan
-D. Willy-willy — Australian local wind like Brickfielder
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Willy-willy is an Australian cyclone name, not a local wind.
-
-**Logic:** Brickfielder is the Australian local-wind name; do not merge the two.
-
-</details>
-
-**Q11.**
-Italy’s industrial triangle is best described as:
-
-A. Ruhr–Saar–Lorraine
-B. Po Basin / Milan–Turin–Genoa
-C. Keihin–Hanshin–Chukyo
-D. Pearl River Delta only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Milan–Turin–Genoa / Po Basin.
-
-**Logic:** Wolfsburg and Turin are classic auto centres.
-
-</details>
-
-**Q12.**
-Consider the following statements:
-
-1. Lancashire is associated with cotton textiles.
-2. Yorkshire is associated with wool.
-3. Ruhr is Germany’s coal–steel–heavy engineering belt.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** Pittsburgh–Great Lakes = steel; Detroit = autos.
-
-</details>
-
-**Q13.**
-Silicon Valley is correctly associated with:
-
-A. Detroit automobiles
-B. Ruhr steel
-C. California electronics / IT
-D. Osaka cotton
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** California Bay Area electronics / IT — a footloose high-value cluster.
-
-**Logic:** Do not park Silicon Valley on Detroit.
-
-</details>
-
-**Q14.**
-Assertion (A): Break-of-bulk industries concentrate at ports, lakes and railheads.
-Reason (R): Cargo changes mode at such points, so refining and milling often cluster there.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R explains A.
-
-**A/R logic:** A and R both true; mode-change cost logic explains the clustering.
-
-</details>
-
-**Q15.**
-Which one of the following wind–region pairs is correctly matched?
-
-A. Khamsin — Egypt
-B. Harmattan — Alps
-C. Bora — warm Rockies wind
-D. Leveche — Japan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Khamsin = Egypt.
-
-**Logic:** Harmattan = West Africa; Bora = Adriatic cold; Leveche = Spain; Yamo = Japan.
-
-</details>
-
-**Q16.**
-Shipbuilding volume leaders in the usual modern frame are:
-
-A. USA–UK–Germany
-B. China–South Korea–Japan
-C. India–Brazil–Russia
-D. France–Italy–Spain
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** China–South Korea–Japan.
-
-**Logic:** St Petersburg remains the classic European city–shipbuilding match.
-
-</details>
-
-**Q17.**
-Which one of the following is correctly matched?
-
-A. Akron — tyres / rubber (USA)
-B. Toulouse — Boeing
-C. Seattle — Airbus
-D. Hollywood — watch industry
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Akron = tyres; Toulouse = Airbus; Seattle = Boeing; Hollywood = films.
-
-**Logic:** Swiss Jura = watches.
-
-</details>
-
-**Q18.**
-With reference to Japan’s industrial belts, which of the following is/are correct?
-
-1. Hanshin = Osaka–Kobe
-2. Chukyo = Nagoya autos
-3. Keihin = Osaka–Kobe
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Keihin = Tokyo–Yokohama, not Osaka–Kobe.
-
-</details>
-
-**Q19.**
-China’s classic coastal manufacturing story in this chapter includes the:
-
-A. Ruhr Valley
-B. Pearl River Delta
-C. Po Basin
-D. Mesabi Range
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Pearl River Delta; Shanghai leads common container-port MCQs.
-
-**Logic:** Ruhr = Germany; Po = Italy; Mesabi = USA iron.
-
-</details>
-
-**Q20.**
-Which of the following statements about canals is/are correct?
-
-1. Panama joins the Atlantic/Caribbean and the Pacific with stepped chambers and Gatun Lake.
-2. Suez cuts India–Europe distance by about 7000 km.
-3. Kiel joins the Mediterranean and the Red Sea.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Kiel is North Sea–Baltic, not Med–Red (that is Suez).
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to industrial location, which of the following statements is/are correct?<br><br>1. Weight-losing industries such as iron–steel tend to sit near bulky raw materials.<br>2. Weight-gaining industries such as bottling tend to sit near the market.<br>3. Aluminium smelting typically seeks cheap hydel power.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Footloose electronics are the opposite case — not tied to a coalfield.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which one of the following city–industry pairs is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Osaka — automobiles</div><div class="pyq-opt"><span class="opt-letter">B</span> Detroit — cotton textiles</div><div class="pyq-opt"><span class="opt-letter">C</span> Cuba — cigar</div><div class="pyq-opt"><span class="opt-letter">D</span> St Petersburg — cotton</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cuba–cigar is the classic pair.
+
+**Logic:** Osaka = cotton; Detroit = auto; St Petersburg = shipbuilding.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Japan tag)</th><th>List-II (Meaning)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Osaka</td><td><span class="match-key">A</span> Detroit of Japan (autos)</td></tr>
+      <tr><td><span class="match-key">2</span> Nagoya</td><td><span class="match-key">B</span> Manchester of Japan (cotton)</td></tr>
+      <tr><td><span class="match-key">3</span> Kawasaki</td><td><span class="match-key">C</span> Pittsburgh of Japan (steel)</td></tr>
+      <tr><td><span class="match-key">4</span> Keihin</td><td><span class="match-key">D</span> Tokyo–Yokohama belt</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-C, 2-A, 3-B, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Osaka–Manchester/cotton; Nagoya–Detroit/autos; Kawasaki–Pittsburgh/steel; Keihin–Tokyo–Yokohama.
+
+**Logic:** Hanshin = Osaka–Kobe; Chukyo = Nagoya autos.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): The Suez Canal joins the Mediterranean Sea and the Red Sea.<br>Reason (R): The Suez Canal uses a system of stepped chambers like Panama.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** A true (Med–Red). R false (no stepped chambers on Suez).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the Suez lakes from north to south:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Timsah → Manzala → Great Bitter → Little Bitter</div><div class="pyq-opt"><span class="opt-letter">B</span> Manzala → Timsah → Great Bitter → Little Bitter</div><div class="pyq-opt"><span class="opt-letter">C</span> Great Bitter → Little Bitter → Manzala → Timsah</div><div class="pyq-opt"><span class="opt-letter">D</span> Manzala → Great Bitter → Timsah → Little Bitter</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Manzala → Timsah → Great Bitter → Little Bitter.
+
+**Logic:** Port Said = north end; Suez town = south end.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which one of the following port–country pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rotterdam — Netherlands</div><div class="pyq-opt"><span class="opt-letter">B</span> Montevideo — Uruguay</div><div class="pyq-opt"><span class="opt-letter">C</span> Jakarta — Indonesia</div><div class="pyq-opt"><span class="opt-letter">D</span> Igarka — China</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Igarka is in Russia (Yenisei timber).
+
+**Logic:** Duisburg is an inland Rhine port in Germany, not a Dutch sea mouth.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Entrepôt classics in this chapter are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Detroit, Pittsburgh, Nagoya</div><div class="pyq-opt"><span class="opt-letter">B</span> Akron, Toulouse, Seattle</div><div class="pyq-opt"><span class="opt-letter">C</span> Singapore, Rotterdam, Hong Kong</div><div class="pyq-opt"><span class="opt-letter">D</span> Lancashire, Yorkshire, Ruhr</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Singapore, Rotterdam, Hong Kong — import, store/sort, re-export.
+
+**Logic:** Shanghai leads many container-volume MCQs; Rhine mouth = Rotterdam.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which canal correctly joins the North Sea and the Baltic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Suez</div><div class="pyq-opt"><span class="opt-letter">B</span> Panama</div><div class="pyq-opt"><span class="opt-letter">C</span> Kiel</div><div class="pyq-opt"><span class="opt-letter">D</span> Suez and Panama both</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kiel = North Sea–Baltic.
+
+**Logic:** Suez = Med–Red; Panama = Atlantic/Caribbean–Pacific.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to local winds, which of the following statements is/are correct?<br><br>1. Chinook is a warm dry wind of the Rockies.<br>2. Foehn is the Alps equivalent of Chinook.<br>3. Mistral is a southern Australian local wind.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Mistral = southern France / Rhône — not Australia. Brickfielder = Australia.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shamal — Arabia / Persian Gulf</div><div class="pyq-opt"><span class="opt-letter">B</span> Santa Ana — California</div><div class="pyq-opt"><span class="opt-letter">C</span> Haboob — Sudan</div><div class="pyq-opt"><span class="opt-letter">D</span> Willy-willy — Australian local wind like Brickfielder</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Willy-willy is an Australian cyclone name, not a local wind.
+
+**Logic:** Brickfielder is the Australian local-wind name; do not merge the two.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Italy’s industrial triangle is best described as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ruhr–Saar–Lorraine</div><div class="pyq-opt"><span class="opt-letter">B</span> Po Basin / Milan–Turin–Genoa</div><div class="pyq-opt"><span class="opt-letter">C</span> Keihin–Hanshin–Chukyo</div><div class="pyq-opt"><span class="opt-letter">D</span> Pearl River Delta only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Milan–Turin–Genoa / Po Basin.
+
+**Logic:** Wolfsburg and Turin are classic auto centres.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Lancashire is associated with cotton textiles.<br>2. Yorkshire is associated with wool.<br>3. Ruhr is Germany’s coal–steel–heavy engineering belt.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Pittsburgh–Great Lakes = steel; Detroit = autos.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Silicon Valley is correctly associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Detroit automobiles</div><div class="pyq-opt"><span class="opt-letter">B</span> Ruhr steel</div><div class="pyq-opt"><span class="opt-letter">C</span> California electronics / IT</div><div class="pyq-opt"><span class="opt-letter">D</span> Osaka cotton</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> California Bay Area electronics / IT — a footloose high-value cluster.
+
+**Logic:** Do not park Silicon Valley on Detroit.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Break-of-bulk industries concentrate at ports, lakes and railheads.<br>Reason (R): Cargo changes mode at such points, so refining and milling often cluster there.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R explains A.
+
+**A/R logic:** A and R both true; mode-change cost logic explains the clustering.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which one of the following wind–region pairs is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Khamsin — Egypt</div><div class="pyq-opt"><span class="opt-letter">B</span> Harmattan — Alps</div><div class="pyq-opt"><span class="opt-letter">C</span> Bora — warm Rockies wind</div><div class="pyq-opt"><span class="opt-letter">D</span> Leveche — Japan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Khamsin = Egypt.
+
+**Logic:** Harmattan = West Africa; Bora = Adriatic cold; Leveche = Spain; Yamo = Japan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Shipbuilding volume leaders in the usual modern frame are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> USA–UK–Germany</div><div class="pyq-opt"><span class="opt-letter">B</span> China–South Korea–Japan</div><div class="pyq-opt"><span class="opt-letter">C</span> India–Brazil–Russia</div><div class="pyq-opt"><span class="opt-letter">D</span> France–Italy–Spain</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> China–South Korea–Japan.
+
+**Logic:** St Petersburg remains the classic European city–shipbuilding match.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Akron — tyres / rubber (USA)</div><div class="pyq-opt"><span class="opt-letter">B</span> Toulouse — Boeing</div><div class="pyq-opt"><span class="opt-letter">C</span> Seattle — Airbus</div><div class="pyq-opt"><span class="opt-letter">D</span> Hollywood — watch industry</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Akron = tyres; Toulouse = Airbus; Seattle = Boeing; Hollywood = films.
+
+**Logic:** Swiss Jura = watches.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to Japan’s industrial belts, which of the following is/are correct?<br><br>1. Hanshin = Osaka–Kobe<br>2. Chukyo = Nagoya autos<br>3. Keihin = Osaka–Kobe</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Keihin = Tokyo–Yokohama, not Osaka–Kobe.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">China’s classic coastal manufacturing story in this chapter includes the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ruhr Valley</div><div class="pyq-opt"><span class="opt-letter">B</span> Pearl River Delta</div><div class="pyq-opt"><span class="opt-letter">C</span> Po Basin</div><div class="pyq-opt"><span class="opt-letter">D</span> Mesabi Range</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pearl River Delta; Shanghai leads common container-port MCQs.
+
+**Logic:** Ruhr = Germany; Po = Italy; Mesabi = USA iron.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements about canals is/are correct?<br><br>1. Panama joins the Atlantic/Caribbean and the Pacific with stepped chambers and Gatun Lake.<br>2. Suez cuts India–Europe distance by about 7000 km.<br>3. Kiel joins the Mediterranean and the Red Sea.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Kiel is North Sea–Baltic, not Med–Red (that is Suez).</div>
+  </div>
+</div>

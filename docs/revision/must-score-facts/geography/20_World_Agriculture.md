@@ -148,21 +148,6 @@ hide:
 | **Cotton (कपास)** | **China** / **India** | India, China, USA, Pakistan, Brazil | **USA** (#1 Cotton Exporter) | "White Gold"; measured in standard bales (480 lbs / 218 kg) |
 | **Olives & Olive Oil** | **Spain** (>40%) | Italy, Greece, Tunisia, Turkey | **Spain** | Signature crop of the **Mediterranean climate** (winter rain/dry summer) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Prairies** | **Pampas** | Temperate grassland of **North America** (USA/Canada; wheat/corn) vs Temperate grassland of **South America** (Argentina/Uruguay; cattle/alfalfa) | प्रेयरी / पंपास |
-| **Steppes** | **Veld** | Flat temperate grassland of **Eurasia** (Ukraine/Russia/Kazakhstan) vs High plateau temperate grassland of **South Africa** | स्टेपी / वेल्ड |
-| **Downs** | **Canterbury Plains** | Temperate grassland of **Australia** (Murray-Darling; Merino wool) vs Alluvial temperate plains of **New Zealand** (South Island) | डाउन्स / कैंटरबरी मैदान |
-| **Spring Wheat** | **Winter Wheat** | Sown in **Spring**, harvested in **late Summer** in severely cold northern latitudes (North Dakota, Canada) vs Sown in **Autumn**, harvested in **early Summer** in milder climates (Kansas, Europe) | वसंतकालीन / शीतकालीन गेहूं |
-| **Santos** | **São Paulo** | World-famous **Coffee exporting port** on the Atlantic coast of Brazil vs Inland financial and industrial **Coffee processing metropolis** of Brazil | सैंटोस (कॉफ़ी बंदरगाह) / साओ पाउलो |
-| **Fazendas** | **Estancias** | Large commercial **Coffee plantations in Brazil** vs Large commercial **Cattle ranches in Argentina (Pampas)** | फजेंडा / एस्टैंसिया |
-| **Viticulture** | **Sericulture** | Cultivation of **Grapes** for wine-making (Mediterranean signature) vs Rearing of **Silkworms** for raw silk production | अंगूर की खेती (विटिकल्चर) / रेशम कीट पालन |
-| **Truck Farming** | **Factory Farming** | Specialized intensive commercial **vegetable and fruit growing** for distant urban markets via road transport vs Highly industrialized, enclosed **confinement rearing of livestock** (poultry, swine) | ट्रक फार्मिंग / फैक्टरी फार्मिंग |
-| **Kolkhoz** | **Sovkhoz** | Soviet **collective cooperative farm** where members shared profits vs Soviet **state-owned industrial farm** where workers were paid state wages | कोलखोज़ / सोवखोज़ |
-| **Rice Producer #1** | **Rice Exporter #1** | **China** produces the highest volume of rice in the world vs **India** is the world's largest commercial exporter of rice | चावल उत्पादक / निर्यातक |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Temperate Grasslands Around the World: **P-P-S-V-D**
@@ -188,389 +173,357 @@ hide:
 - **Palm Oil** → **Indonesia** (#1)
 - **Olive Oil** → **Spain** (#1)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-With reference to plantation agriculture, which of the following statements is/are correct?
-
-1. Tea is the classic plantation crop in multi-option stems that also list wheat, rice and maize.
-2. Plantation agriculture means estate monoculture with hired labour for export.
-3. Fazenda is a Brazilian name for shifting cultivation.
-
-A. 1 and 2
-B. Only 1
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Fazenda is a Brazil plantation estate name, not jhum/shifting.
-
-</details>
-
-**Q2.**
-Arrange the following coffee-producing countries in descending order of production for the 2016 teaching frame:
-
-Brazil, Vietnam, Colombia, Indonesia
-
-A. Vietnam > Brazil > Colombia > Indonesia
-B. Brazil > Vietnam > Colombia > Indonesia
-C. Brazil > Colombia > Vietnam > Indonesia
-D. Colombia > Brazil > Vietnam > Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Brazil > Vietnam > Colombia > Indonesia.
-
-**Logic:** Brazil is arabica #1; Vietnam is robusta #2 in that frozen order. Trap starts with Vietnam or parks Colombia second.
-
-</details>
-
-**Q3.**
-Which one of the following is NOT a major cocoa-producing country in the usual West African belt?
-
-A. Côte d’Ivoire
-B. Ghana
-C. Cameroon
-D. Latvia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Latvia is temperate Baltic and not a cocoa grower.
-
-**Logic:** Cocoa majors = Côte d’Ivoire, Ghana, Cameroon. Growers ≠ Swiss/Belgian chocolate factories.
-
-</details>
-
-**Q4.**
-Assertion (A): India’s principal natural-rubber state is Kerala.
-Reason (R): The Kinta Valley of Malaysia is famous for rubber estates.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** A is true. R fails because Kinta is a tin match.
-
-</details>
-
-**Q5.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Name) | List-II (Region) |
-|---|---|
-| 1. Ladang | A. Mexico |
-| 2. Milpa | B. Malaysia |
-| 3. Roca | C. Sri Lanka |
-| 4. Chena | D. Brazil |
-
-*Row order is not the answer code.*
-
-A. 1-B, 2-A, 3-D, 4-C
-B. 1-A, 2-B, 3-D, 4-C
-C. 1-B, 2-A, 3-C, 4-D
-D. 1-D, 2-A, 3-B, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Ladang–Malaysia; Milpa–Mexico; Roca–Brazil; Chena–Sri Lanka.
-
-**Logic:** Classic shifting-name bank. Trap swaps Roca/Chena or Ladang/Milpa.
-
-</details>
-
-**Q6.**
-In which of the following regions is the production of citrus fruits classically well developed as a world belt?
-
-A. Equatorial rainforests
-B. Mediterranean west-coast belts near 30–45°
-C. Between Kangra and Dhauladhar as the world answer
-D. Polar tundra margins
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Mediterranean winter-rain west coasts are the citrus / vine / olive belt.
-
-**Logic:** Equatorial is too wet/cloudy; Himalayan distractors are not the world citrus answer.
-
-</details>
-
-**Q7.**
-Consider the following pairs:
-
-1. Sugarcane leader — Brazil
-2. Sugar beet belt — temperate Europe
-3. Oil palm majors — Indonesia and Malaysia
-
-Which of the pairs given above is/are correctly matched?
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three pairs are correct.
-
-**Logic:** Cane = tropics/Brazil; beet = Europe; oil palm volume = Indonesia + Malaysia.
-
-</details>
-
-**Q8.**
-With reference to rice, which of the following statements is/are correct?
-
-1. IRRI is located at Los Baños in the Philippines.
-2. Golden rice is genetically enriched with Vitamin A.
-3. China is the classic rice-export king in coaching frames.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** China/India lead volume; Thailand/Vietnam-type names own the export story. Producer ≠ exporter.
-
-</details>
-
-**Q9.**
-Which one of the following correctly distinguishes Von Thünen from Whittlesey?
-
-A. Both map thirteen world agricultural regions
-B. Von Thünen = distance rings from a market; Whittlesey = world agricultural region types
-C. Whittlesey = dairy ring nearest the city; Von Thünen = climate belts only
-D. Neither model concerns agriculture
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Thünen is market-distance rent rings; Whittlesey is the ~thirteen-type world map.
-
-**Logic:** Do not merge climate-region names into Thünen rings.
-
-</details>
-
-**Q10.**
-Which of the following crop–state pairs is correctly matched for India on the world plantation map?
-
-A. Gujarat — Tea
-B. Uttar Pradesh — Jute
-C. Kerala — Rubber
-D. Assam — Wheat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Kerala is India’s rubber state.
-
-**Logic:** Tea volume = Assam (not Gujarat); jute = WB/Bangladesh belt (not UP); wheat ≠ Assam.
-
-</details>
-
-**Q11.**
-With reference to tea processing, which of the following is/are correct?
-
-1. Black tea is fully fermented.
-2. Green tea is not fermented.
-3. The pluck fact is two leaves and a bud.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** Oolong is the semi-fermented middle case; CTC vs orthodox is a processing style split.
-
-</details>
-
-**Q12.**
-Assertion (A): Norman Borlaug received the Nobel Peace Prize in 1970 for HYV wheat work linked to CIMMYT, Mexico.
-Reason (R): FAO headquarters is in Rome and World Food Day is observed on 16 October.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both are true, but R does not explain A.
-
-**A/R logic:** Both true; R is parallel institutional trivia, not the reason for the Nobel.
-
-</details>
-
-**Q13.**
-Which one of the following is NOT correctly matched?
-
-A. Apiculture — bees
-B. Viticulture — grapes
-C. Sericulture — wool
-D. Olericulture — vegetables
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Sericulture is silk rearing, not wool.
-
-**Logic:** Wool/Merino is a livestock fibre story; sericulture volume often tags China.
-
-</details>
-
-**Q14.**
-Consider the following statements about wheat:
-
-1. Winter wheat is sown in autumn in mild-winter belts.
-2. Spring wheat is sown in spring in harsh-winter Prairie / Siberia belts.
-3. Durum wheat is the pasta wheat of the Mediterranean.
-
-A. Only 1
-B. 1 and 2
-C. 1, 2 and 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** All three statements are correct.
-
-**Logic:** Wheat needs cool growth and bright ripening (~50–75 cm rain).
-
-</details>
-
-**Q15.**
-To whom does the credit go for the development of coconut and sugarcane agriculture in the Philippines?
-
-A. French
-B. Britishers
-C. Hollanders
-D. Spanish and Americans
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Spanish colony then US period.
-
-**Logic:** Dutch = Indonesia; British = Malaya/Ceylon; French = Indochina.
-
-</details>
-
-**Q16.**
-Which of the following pairs is NOT correctly matched?
-
-A. Intensive subsistence — monsoon wet rice
-B. Extensive commercial grain — Prairie / Pampas wheat
-C. Mixed farming — crops plus livestock
-D. Mediterranean agriculture — equatorial cocoa belt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Mediterranean = citrus/vine/olive winter-rain belt, not equatorial cocoa.
-
-**Logic:** Cocoa is humid equatorial West Africa / Amazon-origin story.
-
-</details>
-
-**Q17.**
-With reference to dairy and livestock, which of the following statements is/are correct?
-
-1. India leads world milk volume.
-2. New Zealand and the Netherlands dominate the dairy-export story.
-3. India’s large cattle inventory automatically makes it the classic beef-export king.
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Beef-export leaders are usually Brazil / Australia / USA — herd size ≠ ship leadership.
-
-</details>
-
-**Q18.**
-The soy export triangle in the usual coaching map is:
-
-A. India–China–Japan
-B. USA–Brazil–Argentina
-C. Russia–Ukraine–Kazakhstan
-D. Nigeria–Ghana–Cameroon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** USA–Brazil–Argentina.
-
-**Logic:** China is a big user; India is not the soy-export triangle.
-
-</details>
-
-**Q19.**
-Which one of the following correctly states the Golden Crescent?
-
-A. Afghanistan–Iran–Pakistan opium belt
-B. Myanmar–Laos–Thailand only
-C. Colombia–Peru–Bolivia coffee belt
-D. Spain–Italy–Greece olive belt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Golden Crescent = Afghanistan–Iran–Pakistan.
-
-**Logic:** Do not drag Iraq into the Crescent or confuse it with Golden Triangle SE Asia.
-
-</details>
-
-**Q20.**
-Consider the following statements:
-
-1. Producer volume and exporter leadership are the same for rice and wheat.
-2. Assam leads Indian tea volume; Kerala is India’s rubber state.
-3. Jute world production is almost entirely India and Bangladesh.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Statements 2 and 3 are correct.
-
-**Logic:** Statement 1 is the classic false trap — producer ≠ exporter.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to plantation agriculture, which of the following statements is/are correct?<br><br>1. Tea is the classic plantation crop in multi-option stems that also list wheat, rice and maize.<br>2. Plantation agriculture means estate monoculture with hired labour for export.<br>3. Fazenda is a Brazilian name for shifting cultivation.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Fazenda is a Brazil plantation estate name, not jhum/shifting.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arrange the following coffee-producing countries in descending order of production for the 2016 teaching frame:<br><br>Brazil, Vietnam, Colombia, Indonesia</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vietnam > Brazil > Colombia > Indonesia</div><div class="pyq-opt"><span class="opt-letter">B</span> Brazil > Vietnam > Colombia > Indonesia</div><div class="pyq-opt"><span class="opt-letter">C</span> Brazil > Colombia > Vietnam > Indonesia</div><div class="pyq-opt"><span class="opt-letter">D</span> Colombia > Brazil > Vietnam > Indonesia</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Brazil > Vietnam > Colombia > Indonesia.
+
+**Logic:** Brazil is arabica #1; Vietnam is robusta #2 in that frozen order. Trap starts with Vietnam or parks Colombia second.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT a major cocoa-producing country in the usual West African belt?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Côte d’Ivoire</div><div class="pyq-opt"><span class="opt-letter">B</span> Ghana</div><div class="pyq-opt"><span class="opt-letter">C</span> Cameroon</div><div class="pyq-opt"><span class="opt-letter">D</span> Latvia</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Latvia is temperate Baltic and not a cocoa grower.
+
+**Logic:** Cocoa majors = Côte d’Ivoire, Ghana, Cameroon. Growers ≠ Swiss/Belgian chocolate factories.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): India’s principal natural-rubber state is Kerala.<br>Reason (R): The Kinta Valley of Malaysia is famous for rubber estates.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** A is true. R fails because Kinta is a tin match.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Name)</th><th>List-II (Region)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Ladang</td><td><span class="match-key">A</span> Mexico</td></tr>
+      <tr><td><span class="match-key">2</span> Milpa</td><td><span class="match-key">B</span> Malaysia</td></tr>
+      <tr><td><span class="match-key">3</span> Roca</td><td><span class="match-key">C</span> Sri Lanka</td></tr>
+      <tr><td><span class="match-key">4</span> Chena</td><td><span class="match-key">D</span> Brazil</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-B, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ladang–Malaysia; Milpa–Mexico; Roca–Brazil; Chena–Sri Lanka.
+
+**Logic:** Classic shifting-name bank. Trap swaps Roca/Chena or Ladang/Milpa.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In which of the following regions is the production of citrus fruits classically well developed as a world belt?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Equatorial rainforests</div><div class="pyq-opt"><span class="opt-letter">B</span> Mediterranean west-coast belts near 30–45°</div><div class="pyq-opt"><span class="opt-letter">C</span> Between Kangra and Dhauladhar as the world answer</div><div class="pyq-opt"><span class="opt-letter">D</span> Polar tundra margins</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mediterranean winter-rain west coasts are the citrus / vine / olive belt.
+
+**Logic:** Equatorial is too wet/cloudy; Himalayan distractors are not the world citrus answer.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>1. Sugarcane leader — Brazil<br>2. Sugar beet belt — temperate Europe<br>3. Oil palm majors — Indonesia and Malaysia<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three pairs are correct.
+
+**Logic:** Cane = tropics/Brazil; beet = Europe; oil palm volume = Indonesia + Malaysia.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to rice, which of the following statements is/are correct?<br><br>1. IRRI is located at Los Baños in the Philippines.<br>2. Golden rice is genetically enriched with Vitamin A.<br>3. China is the classic rice-export king in coaching frames.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** China/India lead volume; Thailand/Vietnam-type names own the export story. Producer ≠ exporter.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which one of the following correctly distinguishes Von Thünen from Whittlesey?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both map thirteen world agricultural regions</div><div class="pyq-opt"><span class="opt-letter">B</span> Von Thünen = distance rings from a market; Whittlesey = world agricultural region types</div><div class="pyq-opt"><span class="opt-letter">C</span> Whittlesey = dairy ring nearest the city; Von Thünen = climate belts only</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither model concerns agriculture</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Thünen is market-distance rent rings; Whittlesey is the ~thirteen-type world map.
+
+**Logic:** Do not merge climate-region names into Thünen rings.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following crop–state pairs is correctly matched for India on the world plantation map?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gujarat — Tea</div><div class="pyq-opt"><span class="opt-letter">B</span> Uttar Pradesh — Jute</div><div class="pyq-opt"><span class="opt-letter">C</span> Kerala — Rubber</div><div class="pyq-opt"><span class="opt-letter">D</span> Assam — Wheat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kerala is India’s rubber state.
+
+**Logic:** Tea volume = Assam (not Gujarat); jute = WB/Bangladesh belt (not UP); wheat ≠ Assam.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to tea processing, which of the following is/are correct?<br><br>1. Black tea is fully fermented.<br>2. Green tea is not fermented.<br>3. The pluck fact is two leaves and a bud.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Oolong is the semi-fermented middle case; CTC vs orthodox is a processing style split.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Norman Borlaug received the Nobel Peace Prize in 1970 for HYV wheat work linked to CIMMYT, Mexico.<br>Reason (R): FAO headquarters is in Rome and World Food Day is observed on 16 October.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true, but R does not explain A.
+
+**A/R logic:** Both true; R is parallel institutional trivia, not the reason for the Nobel.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Apiculture — bees</div><div class="pyq-opt"><span class="opt-letter">B</span> Viticulture — grapes</div><div class="pyq-opt"><span class="opt-letter">C</span> Sericulture — wool</div><div class="pyq-opt"><span class="opt-letter">D</span> Olericulture — vegetables</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sericulture is silk rearing, not wool.
+
+**Logic:** Wool/Merino is a livestock fibre story; sericulture volume often tags China.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about wheat:<br><br>1. Winter wheat is sown in autumn in mild-winter belts.<br>2. Spring wheat is sown in spring in harsh-winter Prairie / Siberia belts.<br>3. Durum wheat is the pasta wheat of the Mediterranean.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Wheat needs cool growth and bright ripening (~50–75 cm rain).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">To whom does the credit go for the development of coconut and sugarcane agriculture in the Philippines?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> French</div><div class="pyq-opt"><span class="opt-letter">B</span> Britishers</div><div class="pyq-opt"><span class="opt-letter">C</span> Hollanders</div><div class="pyq-opt"><span class="opt-letter">D</span> Spanish and Americans</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Spanish colony then US period.
+
+**Logic:** Dutch = Indonesia; British = Malaya/Ceylon; French = Indochina.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Intensive subsistence — monsoon wet rice</div><div class="pyq-opt"><span class="opt-letter">B</span> Extensive commercial grain — Prairie / Pampas wheat</div><div class="pyq-opt"><span class="opt-letter">C</span> Mixed farming — crops plus livestock</div><div class="pyq-opt"><span class="opt-letter">D</span> Mediterranean agriculture — equatorial cocoa belt</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mediterranean = citrus/vine/olive winter-rain belt, not equatorial cocoa.
+
+**Logic:** Cocoa is humid equatorial West Africa / Amazon-origin story.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to dairy and livestock, which of the following statements is/are correct?<br><br>1. India leads world milk volume.<br>2. New Zealand and the Netherlands dominate the dairy-export story.<br>3. India’s large cattle inventory automatically makes it the classic beef-export king.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Beef-export leaders are usually Brazil / Australia / USA — herd size ≠ ship leadership.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The soy export triangle in the usual coaching map is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> India–China–Japan</div><div class="pyq-opt"><span class="opt-letter">B</span> USA–Brazil–Argentina</div><div class="pyq-opt"><span class="opt-letter">C</span> Russia–Ukraine–Kazakhstan</div><div class="pyq-opt"><span class="opt-letter">D</span> Nigeria–Ghana–Cameroon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> USA–Brazil–Argentina.
+
+**Logic:** China is a big user; India is not the soy-export triangle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following correctly states the Golden Crescent?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Afghanistan–Iran–Pakistan opium belt</div><div class="pyq-opt"><span class="opt-letter">B</span> Myanmar–Laos–Thailand only</div><div class="pyq-opt"><span class="opt-letter">C</span> Colombia–Peru–Bolivia coffee belt</div><div class="pyq-opt"><span class="opt-letter">D</span> Spain–Italy–Greece olive belt</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Golden Crescent = Afghanistan–Iran–Pakistan.
+
+**Logic:** Do not drag Iraq into the Crescent or confuse it with Golden Triangle SE Asia.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Producer volume and exporter leadership are the same for rice and wheat.<br>2. Assam leads Indian tea volume; Kerala is India’s rubber state.<br>3. Jute world production is almost entirely India and Bangladesh.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 2 and 3 are correct.
+
+**Logic:** Statement 1 is the classic false trap — producer ≠ exporter.</div>
+  </div>
+</div>

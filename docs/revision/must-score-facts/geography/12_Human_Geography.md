@@ -134,7 +134,11 @@ hide:
 | **Rank-Size Rule (कोटि-आकार नियम)** | **George K. Zipf** | **1949** | Mathematical rule stating that the population of the $n$-th ranked city equals $P_1 / n$ (e.g. 2nd city has 1/2 of 1st city's population; 3rd has 1/3) |
 | **Central Place Theory** | **Walter Christaller** | **1933** | Geometric theory explaining the number, size, and location of human settlements using nested **hexagons** ($k=3$ Marketing, $k=4$ Transport, $k=7$ Administration) |
 | **Sector Model** | **Homer Hoyt** | **1939** | Urban land-use theory where different socio-economic zones expand outward along radial transport corridors / arterial highways in wedge-like sectors |
-| **Concentric Zone Model** | **Ernest Burgess** | **1925** | Urban growth model depicting concentric circular rings outward from the central CBD: CBD $ightarrow$ Transition $ightarrow$ Working class $ightarrow$ Better residences $ightarrow$ Commuters |
+| **Concentric Zone Model** | **Ernest Burgess** | **1925** | Urban growth model depicting concentric circular rings outward from the central CBD: CBD $
+ightarrow$ Transition $
+ightarrow$ Working class $
+ightarrow$ Better residences $
+ightarrow$ Commuters |
 
 ### 3. Human Settlement Patterns
 
@@ -145,18 +149,6 @@ hide:
 | **Linear (रैखिक प्रतिरूप)** | Alignment along transport arteries, river dykes, canals, or coastal beach ridges | Villages aligned along Grand Trunk Road, Ganga river banks, coastal Kerala |
 | **Radial / Star-like (अरीय / ताराकार)** | Multiple transport routes converging upon a central market crossroads | Plain crossroads settlements (e.g. junction towns of Uttar Pradesh, Haryana) |
 | **Circular / Ring (वृत्ताकार)** | Surrounding a central pond, lake, temple tank, or fortress | Villages around water tanks in Saurashtra and Tamil Nadu |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Environmental Determinism** | **Possibilism** | Nature **dictates and strictly determines** human society and actions (Ratzel, Semple) vs Nature offers **possibilities**, which humans exploit through cultural choice and tools (Vidal de la Blache) | पर्यावरणीय निश्चयवाद / संभववाद |
-| **Neo-Determinism** | **Environmental Determinism** | **Griffith Taylor's** "Stop-and-Go" middle path (nature as traffic signal) vs Rigid absolute environmental control of **Ratzel and Semple** | नव-निश्चयवाद / निश्चयवाद |
-| **Conurbation** | **Megalopolis** | Term coined by **Patrick Geddes (1915)** for coalesced contiguous towns vs Term popularized by **Jean Gottmann (1961)** for multi-metropolitan mega-regions (BosWash) | सन्नगर (पैट्रिक गेडिस) / मेगालोपोलिस (गॉटमैन) |
-| **Primate City** | **Conurbation** | A single city that overwhelmingly dominates a country by size (>2x second city, Mark Jefferson) vs A multi-centric continuous urbanized region | प्रधान नगर / सन्नगर |
-| **Burgess Concentric Model** | **Hoyt Sector Model** | Urban land use grows in **concentric circular rings** outward from central CBD vs Urban land use grows outward along **radial transportation wedges / sectors** | बर्गिस संकेंद्रीय मॉडल / हॉइट सेक्टर मॉडल |
-| **Marketing Principle ($k=3$)** | **Transport Principle ($k=4$)** | Christaller's Central Place hierarchy minimizing travel distance to nearest centers ($k=3$) vs Hierarchy maximizing settlements located along arterial transport lines ($k=4$) | $k=3$ बाजार नियम / $k=4$ परिवहन नियम |
-| **Nucleated Settlement** | **Dispersed Settlement** | Tightly clustered, compact farmhouses with shared community center (Ganga Plains) vs Isolated, scattered homesteads separated by rugged terrain (Himalayas) | सघन / प्रकीर्ण बस्ती |
 
 ## 🧠 Memory Anchors & Mnemonics
 
@@ -178,376 +170,357 @@ hide:
 - **Possibilism** = Man is Supreme (Vidal)
 - **Neo-Determinism** = Traffic Light Compromise (Griffith Taylor)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which of the following pairs is/are correctly matched?
-
-1. Determinism — Ratzel / Semple
-2. Possibilism — Vidal de la Blache
-3. Neo-determinism — Griffith Taylor
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three pairs are correct.
-
-**Logic:** These are the standard approach–name pairs for human geography.
-
-</details>
-
-**Q2.**
-A census town in India must have:
-
-A. A municipal corporation only
-B. Population ≥5,000; density ≥400/km²; ≥75% male main workers in non-agriculture
-C. Population ≥1 lakh
-D. Population ≥10,000 and a railway station
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** The triple census-town test is population, density and male non-agri work.
-
-**Logic:** Municipality defines statutory towns, not census towns.
-
-</details>
-
-**Q3.**
-With reference to rural settlement types, which of the following statements is/are correct?
-
-1. Dispersed villages typify Meghalaya, Uttarakhand, Himachal Pradesh and Kerala.
-2. The Thar is dispersed by default in every teaching key.
-3. Hamlet names include panna, para, palli, nagla and dhani.
-
-A. 1 and 3
-B. Only 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 3 are correct.
-
-**Logic:** Clustered villages also appear around Rajasthan water points — Thar ≠ automatically dispersed.
-
-</details>
-
-**Q4.**
-Assertion (A): In the NCERT Indian size ladder, mega cities are above 50 lakh population.
-Reason (R): A UN megacity threshold is 1 crore or more.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both are true thresholds, but R is a different scale definition, not the explanation of the NCERT mega-city cut.
-
-**A/R logic:** Mixing NCERT 50-lakh mega with UN 1-crore megacity is the trap.
-
-</details>
-
-**Q5.**
-The 2011 million-plus UA rank begins with:
-
-A. Mumbai > Kolkata > Delhi
-B. Mumbai > Delhi > Kolkata
-C. Delhi > Mumbai > Kolkata
-D. Kolkata > Mumbai > Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Mumbai > Delhi > Kolkata** is the 2011 order.
-
-**Logic:** Mumbai > Kolkata > Delhi is the **2001** trap.
-
-</details>
-
-**Q6.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Scheme) | List-II (Year / tag) |
-|---|---|
-| 1. JNNURM | A. 2005 |
-| 2. Smart Cities Mission | B. 25 June 2015 |
-| 3. SPMRM launch | C. 21 February 2016 |
-| 4. AMRUT 2.0 | D. 1 October 2021 |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-A, 2-C, 3-B, 4-D
-D. 1-A, 2-B, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Standard chronology pairs.
-
-**Logic:** SPMRM launch is **2016**, not 2015 Cabinet year alone.
-
-</details>
-
-**Q7.**
-Which city is NOT in Uttar Pradesh’s Central / Mission Smart City list of 10?
-
-A. Lucknow
-B. Varanasi
-C. Ghaziabad
-D. Jhansi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Ghaziabad is on the **State 2019** list, not the Mission Central-10.
-
-**Logic:** Papers often treat any large UP city as Mission-100 by default.
-
-</details>
-
-**Q8.**
-HRIDAY cities in Uttar Pradesh are:
-
-A. Prayagraj and Ayodhya
-B. Varanasi and Mathura
-C. Lucknow and Kanpur
-D. Agra and Varanasi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** UP HRIDAY pair = **Varanasi and Mathura**.
-
-**Logic:** Prayagraj/Ayodhya are heritage-famous distractors.
-
-</details>
-
-**Q9.**
-Smart Cities Mission and SPMRM are under which ministries respectively?
-
-A. Both MoHUA
-B. MoHUA and MoRD
-C. Both MoRD
-D. MoRD and MoHUA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Smart Cities = **MoHUA**; Rurban / SPMRM = **MoRD**.
-
-**Logic:** Ministry swap is the scheme trap.
-
-</details>
-
-**Q10.**
-Which one of the following cities is classically “not on a major river bank”?
-
-A. Agra
-B. Patna
-C. Kolkata
-D. Bhopal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **Bhopal** is the classic non-river-bank city trap.
-
-**Logic:** Agra–Yamuna, Patna–Ganga, Kolkata–Hooghly are river cities.
-
-</details>
-
-**Q11.**
-Consider the following statements:
-
-1. Class I towns have population ≥1 lakh.
-2. Metropolitan cities in the NCERT ladder are 10 lakh–50 lakh.
-3. There were 53 million-plus UAs in Census 2011.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three are correct.
-
-**Logic:** Do not raise Class I to the 10-lakh metropolitan cut.
-
-</details>
-
-**Q12.**
-Rurbanization as a sociological tag is linked to:
-
-A. M.N. Srinivas
-B. G.S. Ghurye
-C. Louis Wirth
-D. Griffith Taylor
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **G.S. Ghurye** is the rurbanization name in option sets.
-
-**Logic:** Srinivas is a common distractor.
-
-</details>
-
-**Q13.**
-Assertion (A): Site and situation mean the same thing for a settlement.
-Reason (R): Situation refers to the wider regional location relative to routes and resources.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A is false; R is true.
-
-**A/R logic:** Site = local ground; situation = wider location.
-
-</details>
-
-**Q14.**
-Which of the following is a modern planned city associated with Le Corbusier?
-
-A. Jaipur
-B. Lucknow
-C. Chandigarh
-D. Madurai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Chandigarh** is the Le Corbusier planned-city classic.
-
-**Logic:** Jaipur/Lucknow are medieval tags; Madurai is ancient.
-
-</details>
-
-**Q15.**
-With reference to economic activities, quaternary activities mainly refer to:
-
-A. Farming and fishing
-B. Manufacturing
-C. Knowledge / R&D services
-D. Retail trade only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Quaternary = knowledge / R&D in advanced teaching.
-
-**Logic:** Primary/secondary/tertiary cover extraction, manufacturing and general services.
-
-</details>
-
-**Q16.**
-SPMRM (Rurban) was launched on:
-
-A. 25 June 2015
-B. 21 February 2016
-C. 1 October 2021
-D. 15 August 2014
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Launch date is **21 February 2016**.
-
-**Logic:** 2015 is Cabinet-approval / Smart Cities–AMRUT year trap.
-
-</details>
-
-**Q17.**
-Which of the following statements is/are correct?
-
-1. Global Village rests on transport plus communication.
-2. Primate city means one city dominates far above the second city.
-3. Rank-size rule expects a regular step-down of city sizes.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three are correct.
-
-**Logic:** These are standard settlement-system tags.
-
-</details>
-
-**Q18.**
-Which ISAC-2020 pairing is correct?
-
-A. Culture — Bhopal
-B. Governance — Indore
-C. Urban environment — Bhopal
-D. Social — Vadodara
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Urban environment winner tag = **Bhopal**.
-
-**Logic:** Culture–Indore, Governance–Vadodara, Social–Tirupati are the other theme pairs.
-
-</details>
-
-**Q19.**
-Arrange the following in chronological order of launch / start year:
-
-1. JNNURM
-2. SAGY
-3. Smart Cities Mission
-4. AMRUT 2.0
-
-A. 1–2–3–4
-B. 2–1–3–4
-C. 1–3–2–4
-D. 1–2–4–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 2005 → 2014 → 2015 → 2021.
-
-**Logic:** SAGY (2014) sits between JNNURM and Smart Cities.
-
-</details>
-
-**Q20.**
-Which one of the following pairs is NOT correctly matched?
-
-A. AMRUT — June 2015
-B. HRIDAY in UP — Varanasi and Mathura
-C. Smart Cities — MoRD
-D. Chandigarh — Le Corbusier
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Smart Cities is under **MoHUA**, not MoRD.
-
-**Logic:** MoRD is the Rurban / SPMRM ministry.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. Determinism — Ratzel / Semple<br>2. Possibilism — Vidal de la Blache<br>3. Neo-determinism — Griffith Taylor</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three pairs are correct.
+
+**Logic:** These are the standard approach–name pairs for human geography.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">A census town in India must have:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A municipal corporation only</div><div class="pyq-opt"><span class="opt-letter">B</span> Population ≥5,000; density ≥400/km²; ≥75% male main workers in non-agriculture</div><div class="pyq-opt"><span class="opt-letter">C</span> Population ≥1 lakh</div><div class="pyq-opt"><span class="opt-letter">D</span> Population ≥10,000 and a railway station</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The triple census-town test is population, density and male non-agri work.
+
+**Logic:** Municipality defines statutory towns, not census towns.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to rural settlement types, which of the following statements is/are correct?<br><br>1. Dispersed villages typify Meghalaya, Uttarakhand, Himachal Pradesh and Kerala.<br>2. The Thar is dispersed by default in every teaching key.<br>3. Hamlet names include panna, para, palli, nagla and dhani.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** Clustered villages also appear around Rajasthan water points — Thar ≠ automatically dispersed.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): In the NCERT Indian size ladder, mega cities are above 50 lakh population.<br>Reason (R): A UN megacity threshold is 1 crore or more.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true thresholds, but R is a different scale definition, not the explanation of the NCERT mega-city cut.
+
+**A/R logic:** Mixing NCERT 50-lakh mega with UN 1-crore megacity is the trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The 2011 million-plus UA rank begins with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mumbai > Kolkata > Delhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Mumbai > Delhi > Kolkata</div><div class="pyq-opt"><span class="opt-letter">C</span> Delhi > Mumbai > Kolkata</div><div class="pyq-opt"><span class="opt-letter">D</span> Kolkata > Mumbai > Delhi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mumbai > Delhi > Kolkata** is the 2011 order.
+
+**Logic:** Mumbai > Kolkata > Delhi is the **2001** trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Scheme)</th><th>List-II (Year / tag)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> JNNURM</td><td><span class="match-key">A</span> 2005</td></tr>
+      <tr><td><span class="match-key">2</span> Smart Cities Mission</td><td><span class="match-key">B</span> 25 June 2015</td></tr>
+      <tr><td><span class="match-key">3</span> SPMRM launch</td><td><span class="match-key">C</span> 21 February 2016</td></tr>
+      <tr><td><span class="match-key">4</span> AMRUT 2.0</td><td><span class="match-key">D</span> 1 October 2021</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-A, 2-C, 3-B, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard chronology pairs.
+
+**Logic:** SPMRM launch is **2016**, not 2015 Cabinet year alone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which city is NOT in Uttar Pradesh’s Central / Mission Smart City list of 10?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Lucknow</div><div class="pyq-opt"><span class="opt-letter">B</span> Varanasi</div><div class="pyq-opt"><span class="opt-letter">C</span> Ghaziabad</div><div class="pyq-opt"><span class="opt-letter">D</span> Jhansi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ghaziabad is on the **State 2019** list, not the Mission Central-10.
+
+**Logic:** Papers often treat any large UP city as Mission-100 by default.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">HRIDAY cities in Uttar Pradesh are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Prayagraj and Ayodhya</div><div class="pyq-opt"><span class="opt-letter">B</span> Varanasi and Mathura</div><div class="pyq-opt"><span class="opt-letter">C</span> Lucknow and Kanpur</div><div class="pyq-opt"><span class="opt-letter">D</span> Agra and Varanasi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> UP HRIDAY pair = **Varanasi and Mathura**.
+
+**Logic:** Prayagraj/Ayodhya are heritage-famous distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Smart Cities Mission and SPMRM are under which ministries respectively?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both MoHUA</div><div class="pyq-opt"><span class="opt-letter">B</span> MoHUA and MoRD</div><div class="pyq-opt"><span class="opt-letter">C</span> Both MoRD</div><div class="pyq-opt"><span class="opt-letter">D</span> MoRD and MoHUA</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Smart Cities = **MoHUA**; Rurban / SPMRM = **MoRD**.
+
+**Logic:** Ministry swap is the scheme trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which one of the following cities is classically “not on a major river bank”?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Agra</div><div class="pyq-opt"><span class="opt-letter">B</span> Patna</div><div class="pyq-opt"><span class="opt-letter">C</span> Kolkata</div><div class="pyq-opt"><span class="opt-letter">D</span> Bhopal</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Bhopal** is the classic non-river-bank city trap.
+
+**Logic:** Agra–Yamuna, Patna–Ganga, Kolkata–Hooghly are river cities.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Class I towns have population ≥1 lakh.<br>2. Metropolitan cities in the NCERT ladder are 10 lakh–50 lakh.<br>3. There were 53 million-plus UAs in Census 2011.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three are correct.
+
+**Logic:** Do not raise Class I to the 10-lakh metropolitan cut.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Rurbanization as a sociological tag is linked to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> M.N. Srinivas</div><div class="pyq-opt"><span class="opt-letter">B</span> G.S. Ghurye</div><div class="pyq-opt"><span class="opt-letter">C</span> Louis Wirth</div><div class="pyq-opt"><span class="opt-letter">D</span> Griffith Taylor</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> G.S. Ghurye** is the rurbanization name in option sets.
+
+**Logic:** Srinivas is a common distractor.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Site and situation mean the same thing for a settlement.<br>Reason (R): Situation refers to the wider regional location relative to routes and resources.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is false; R is true.
+
+**A/R logic:** Site = local ground; situation = wider location.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following is a modern planned city associated with Le Corbusier?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jaipur</div><div class="pyq-opt"><span class="opt-letter">B</span> Lucknow</div><div class="pyq-opt"><span class="opt-letter">C</span> Chandigarh</div><div class="pyq-opt"><span class="opt-letter">D</span> Madurai</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chandigarh** is the Le Corbusier planned-city classic.
+
+**Logic:** Jaipur/Lucknow are medieval tags; Madurai is ancient.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to economic activities, quaternary activities mainly refer to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Farming and fishing</div><div class="pyq-opt"><span class="opt-letter">B</span> Manufacturing</div><div class="pyq-opt"><span class="opt-letter">C</span> Knowledge / R&D services</div><div class="pyq-opt"><span class="opt-letter">D</span> Retail trade only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Quaternary = knowledge / R&D in advanced teaching.
+
+**Logic:** Primary/secondary/tertiary cover extraction, manufacturing and general services.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">SPMRM (Rurban) was launched on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 25 June 2015</div><div class="pyq-opt"><span class="opt-letter">B</span> 21 February 2016</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 October 2021</div><div class="pyq-opt"><span class="opt-letter">D</span> 15 August 2014</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Launch date is **21 February 2016**.
+
+**Logic:** 2015 is Cabinet-approval / Smart Cities–AMRUT year trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements is/are correct?<br><br>1. Global Village rests on transport plus communication.<br>2. Primate city means one city dominates far above the second city.<br>3. Rank-size rule expects a regular step-down of city sizes.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three are correct.
+
+**Logic:** These are standard settlement-system tags.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which ISAC-2020 pairing is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Culture — Bhopal</div><div class="pyq-opt"><span class="opt-letter">B</span> Governance — Indore</div><div class="pyq-opt"><span class="opt-letter">C</span> Urban environment — Bhopal</div><div class="pyq-opt"><span class="opt-letter">D</span> Social — Vadodara</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Urban environment winner tag = **Bhopal**.
+
+**Logic:** Culture–Indore, Governance–Vadodara, Social–Tirupati are the other theme pairs.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order of launch / start year:<br><br>1. JNNURM<br>2. SAGY<br>3. Smart Cities Mission<br>4. AMRUT 2.0</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1–2–3–4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–1–3–4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1–3–2–4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1–2–4–3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2005 → 2014 → 2015 → 2021.
+
+**Logic:** SAGY (2014) sits between JNNURM and Smart Cities.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> AMRUT — June 2015</div><div class="pyq-opt"><span class="opt-letter">B</span> HRIDAY in UP — Varanasi and Mathura</div><div class="pyq-opt"><span class="opt-letter">C</span> Smart Cities — MoRD</div><div class="pyq-opt"><span class="opt-letter">D</span> Chandigarh — Le Corbusier</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Smart Cities is under **MoHUA**, not MoRD.
+
+**Logic:** MoRD is the Rurban / SPMRM ministry.</div>
+  </div>
+</div>

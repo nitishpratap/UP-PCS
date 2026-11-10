@@ -188,22 +188,6 @@ hide:
 | **Mahendravarman I** (7th c.)| **Mattavilasa Prahasana**| Prahasana (Farce) | Drunken Kapalika ascetic losing his skull-bowl; biting satire on corrupt monks |
 | **Bhatta Narayana** (8th c.)| **Venisamhara** | Nataka (6 Acts) | Bhima slaying Duryodhana to bind Draupadi's disheveled hair |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Nautanki (UP)** | **Tamasha (Maharashtra)** | Nautanki = Gangetic plains (Hathras/Kanpur) with Nagara drum and operatic verse; Tamasha = Maharashtra with Dholki drum, Lavani dance, and *Songadya* comedian | नौटंकी (उ.प्र. नगाड़ा) / तमाशा (महाराष्ट्र ढोलकी व लावणी) |
-| **Yakshagana (Karnataka)** | **Kathakali (Kerala)** | Yakshagana = Folk dance-drama of coastal **Karnataka** (led by singing *Bhagavata* and Chande drum); Kathakali = Classical dance-drama of **Kerala** (facial makeup *Chutti*, Sopanam) | यक्षगान (कर्नाटक तटीय लोक नाटक) / कथकली (केरल शास्त्रीय नृत्य) |
-| **Koodiyattam** | **Mudiyettu** | Both Kerala UNESCO traditions; Koodiyattam = **Sanskrit temple theatre** inside *Koothambalam*; Mudiyettu = **Kali-Darika ritual folk dance-drama** in temple courtyards | कूड़ियाट्टम (संस्कृत नाटक) / मुडियेट्टु (काली-दारिका अनुष्ठान) |
-| **Mrichchhakatika (Shudraka)**| **Mudrarakshasa (Vishakhadatta)**| Mrichchhakatika = Romantic/social comedy of merchant Charudatta and courtesan Vasantasena; Mudrarakshasa = Pure **political espionage thriller** (Chanakya & Chandragupta Maurya) without romance | मृच्छकटिकम् (शूद्रक / चारुदत्त-वसंतसेना) / मुद्राराक्षस (विशाखदत्त / चाणक्य राजनीति) |
-| **Abhijnanasakuntalam** | **Uttararamacharita** | Shakuntalam = Masterpiece of **Kalidasa** (Shringara / romantic love); Uttararamacharita = Masterpiece of **Bhavabhuti** (Karuna / tragic pathos of Rama) | शाकुंतलम् (कालिदास / शृंगार रस) / उत्तररामचरित (भवभूति / करुण रस) |
-| **Kathputli (String)** | **Tholu Bommalata (Shadow)** | Kathputli = Wooden **string puppets** of **Rajasthan** (without legs); Tholu Bommalata = Giant **translucent colored leather shadow puppets** of **Andhra Pradesh** | काठपुतली (राजस्थान / धागा कठपुतली) / तोलू बोम्मलता (आंध्र / चमड़े की छाया) |
-| **Ravanachhaya (Odisha)** | **Tholu Bommalata (AP)** | Ravanachhaya = **Opaque deerskin leather WITHOUT joints or color** (black silhouettes); Tholu Bommalata = Translucent multi-colored jointed leather puppets | रावणछाया (ओडिशा / रंगहीन अपारदर्शी छाया) / तोलू बोम्मलता (रंगीन पारदर्शी) |
-| **Bhavai (Gujarat)** | **Bhand Pather (Kashmir)** | Bhavai = Gujarat satirical folk theatre with long copper *Bhungal* horns and *Rangla*; Bhand Pather = Kashmir satirical folk theatre with *Surnai* reed pipe and dhol | भवाई (गुजरात / भूंगल वाद्य) / भांड पाथेर (कश्मीर / सुरनाई वाद्य) |
-| **Ankiya Nat (Assam)** | **Jatra (Bengal)** | Ankiya Nat = 15th-century Vaishnava one-act monastery plays created by Srimanta Sankaradeva in *Brajavali*; Jatra = 16th-century open-air melodramas inspired by Chaitanya | अंकिया नाट (असम / शंकरदेव) / जात्रा (बंगाल / चैतन्य) |
-| **Bidesiya (Bihar)** | **Maach (MP)** | Bidesiya = Bhojpuri theatre of **Bhikhari Thakur** addressing male migration to cities; Maach = Malwa operatic musical theatre performed on raised platforms | बिदेसिया (बिहार / भिखारी ठाकुर / पलायन) / माच (म.प्र. मालवा मंच) |
-| **Vidushaka** | **Sutradhara** | Sutradhara = The professional **director-stage manager** who recites the opening *Nandi* and introduces the play; Vidushaka = The **comic jester/Brahmin companion** of the hero | सूत्रधार (मंच निर्देशक / नांदी पाठ) / विदूषक (विदूषक / हास्य पात्र) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Classical Sanskrit Dramatists & Masterpieces — Formula: `B-K-S-V-B-H`
@@ -228,322 +212,259 @@ hide:
 - **Kashmir:** Bhand Pather
 - **Assam:** Ankiya Nat / Bhaona
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.** With reference to Natyashastra theatre theory, which of the following statements is/are correct?
-
-1. Bharata Muni’s Natyashastra codifies drama with about 10 rupaka and 9 rasa.
-2. Abhinavabharati is Kalidasa’s commentary on Natyashastra.
-3. Dasharupaka is Bharata’s original Natyashastra title, not a later summary.
-
-Select the correct answer from the code given below:
-
-A. 2 and 3
-B. Only 1
-C. Only 1 and 2
-D. Only 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Abhinavabharati is Abhinavagupta’s commentary. Dasharupaka is Dhananjaya’s later summary of play types.
-
-</details>
-
-**Q2.** Consider the following pairs:
-
-| Playwright | Work |
-|------------|------|
-| 1. Shudraka | Mrichchhakatika |
-| 2. Vishakhadatta | Mudrarakshasa |
-| 3. Bhavabhuti | Uttararamacharita |
-| 4. Bhartrihari | Abhijnanashakuntalam |
-
-Which of the pairs given above are correctly matched?
-
-A. 1 and 4 only
-B. 1, 2 and 3 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Pairs 1–3 are correct.
-
-**Logic:** Shringara Shataka is Bhartrihari. Shakuntala is Kalidasa.
-
-</details>
-
-**Q3.** With reference to Sanskrit stage vocabulary, which of the following pairs is/are correctly matched?
-
-1. Yavanika — curtain
-2. Nepathya — backstage
-3. Sutradhara — director-presenter
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. All 1, 2 and 3
-C. Only 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** All three statements are correct.
-
-**Logic:** These are frequent one-line traps in match lists.
-
-</details>
-
-**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Sitabenga at Ramgarh, Chhattisgarh, is the oldest rock amphitheatre fact in standard teaching.
-
-Reason (R): Neighbouring Jogimara is primarily the painting fact, not the theatre amphitheatre fact.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both (A) and (R) are true and (R) correctly separates the adjacent Ramgarh sites by discipline.
-
-**A/R logic:** Theatre vs painting is the local confused pair.
-
-</details>
-
-**Q5.** With reference to Koodiyattam, which of the following statements is/are correct?
-
-1. It is living Sanskrit theatre of Kerala’s Chakyar tradition.
-2. It uses the tabla as its main percussion instead of mizhavu.
-3. It is the ninth SNA classical dance.
-
-A. Only 1
-B. 1 and 2
-C. All 1, 2 and 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Koodiyattam uses the mizhavu drum. It is theatre (UNESCO), not a classical dance ninth.
-
-</details>
-
-**Q6.** correctly matched?
-
-A. Nautanki — UP folk opera; Kanpur and Lucknow schools
-B. Tamasha — Maharashtra; often linked with Lavani
-C. Yakshagana — coastal Karnataka
-D. Nautanki — Kerala Sanskrit temple theatre identical with Koodiyattam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Nautanki is UP folk opera, not Kerala Koodiyattam.
-
-**Logic:** Ain-i-Akbari names Nautanki. Nagara drum is a marker.
-
-</details>
-
-**Q7.** With reference to Ramlila and Raslila, which of the following statements is/are correct?
-
-1. Braj Raslila is identical with Manipuri classical Ras Lila.
-2. Ramlila of Ramnagar–Varanasi / Braj is UNESCO 2008.
-3. Raslila is the Kerala Chakyar Sanskrit play identical with Koodiyattam.
-
-A. Only 1 and 2
-B. 1, 2 and 3
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Raslila is the Braj Krishna folk play. Manipuri classical Ras Lila is a separate dance-chapter fact.
-
-</details>
-
-**Q8.** Arrange the following institutional foundations in chronological order:
-
-1. National School of Drama
-2. IPTA
-3. Sangeet Natak Akademi
-
-Select the correct answer from the code given below:
-
-A. 2–1–3
-B. 3–2–1
-C. 2–3–1
-D. 1–2–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** The order is IPTA 1943 → SNA 1952 → NSD 1959.
-
-**Logic:** Ebrahim Alkazi is the long NSD director fact.
-
-</details>
-
-**Q9.** Consider the following puppetry pairs:
-
-| Form | Tag |
-|------|-----|
-| 1. Kathputli | Rajasthan string marionette |
-| 2. Gulabo–Sitabo | Lucknow glove comic puppets |
-| 3. Kundhei | Odisha string puppetry |
-| 4. Tholu Bommalata | Andhra Pradesh shadow form |
-
-Which of the pairs given above are correctly matched?
-
-A. 1 and 2 only
-B. 1, 2 and 3 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All four puppetry pairs are correctly matched.
-
-**Logic:** Ravana Chhaya of Odisha is another shadow form.
-
-</details>
-
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Sanskrit plays as a rule end well and do not default to Greek-style tragedy.
-
-Reason (R): Stock figures include nayaka, nayika and vidushaka.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but stock figures do not by themselves explain the happy-ending convention.
-
-**A/R logic:** Ending convention and stock roles are related classroom facts, not a tight causal pair.
-
-</details>
-
-**Q11.** With reference to nataka and prakarana, which statement is correct?
-
-A. Nataka is pure dance; prakarana is curtain vocabulary
-B. Nataka is mythic heroic; prakarana invents a social plot
-C. Both are identical with nritta
-D. Both are UNESCO ICH listings of 2010 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Nataka vs prakarana is mythic heroic versus invented social plot.
-
-**Logic:** Natya is drama. Nritta is pure dance.
-
-</details>
-
-**Q12.** Which of the following UP modern-folk stage facts is/are correct?
-
-1. Indra Sabha by Amanat (Lucknow, 1853)
-2. Bidesiya of the eastern UP / Bhojpuri belt
-3. Bhartendu Harishchandra of Banaras as modern Hindi theatre fact
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. All 1, 2 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** All three statements are correct.
-
-**Logic:** These are the highest-yield UP theatre CA/history tags.
-
-</details>
-
-**Q13.** Consider the following regional theatre matches:
-
-| Form | Region |
-|------|--------|
-| 1. Swang | Haryana, western UP, Rajasthan |
-| 2. Jatra | Bengal and Odisha |
-| 3. Bhavai | Gujarat |
-| 4. Bhaona | Assam Majuli satras |
-
-Which of the pairs given above are correctly matched?
-
-A. 1 and 2 only
-B. 2, 3 and 4 only
-C. 1, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All four regional matches are correct.
-
-**Logic:** Ramman is Uttarakhand. Powada / Burrakatha are narrative theatre facts.
-
-</details>
-
-**Q14.** a UP form in the chapter’s exclusion list?
-
-A. Nautanki
-B. Kathputli
-C. Gulabo–Sitabo
-D. Ramlila of Ramnagar–Varanasi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Kathputli is Rajasthan string marionette.
-
-**Logic:** Also not UP: Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), Ramman (Uttarakhand).
-
-</details>
-
-**Q15.** With reference to Kalidasa and Bhasa, which of the following statements is/are correct?
-
-1. Bhasa left about 13 plays.
-2. Kalidasa wrote three dramas.
-3. Ashvaghosha is often tagged with the earliest Sanskrit play tradition.
-
-Select the correct answer from the code given below:
-
-A. Only 2 and 3
-B. Only 1
-C. Only 1 and 2
-D. Only 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** Harsha wrote Ratnavali among other plays.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Natyashastra theatre theory, which of the following statements is/are correct?<br><br>1. Bharata Muni’s Natyashastra codifies drama with about 10 rupaka and 9 rasa.<br>2. Abhinavabharati is Kalidasa’s commentary on Natyashastra.<br>3. Dasharupaka is Bharata’s original Natyashastra title, not a later summary.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Abhinavabharati is Abhinavagupta’s commentary. Dasharupaka is Dhananjaya’s later summary of play types.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Playwright | Work |<br>|------------|------|<br>| 1. Shudraka | Mrichchhakatika |<br>| 2. Vishakhadatta | Mudrarakshasa |<br>| 3. Bhavabhuti | Uttararamacharita |<br>| 4. Bhartrihari | Abhijnanashakuntalam |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1–3 are correct.
+
+**Logic:** Shringara Shataka is Bhartrihari. Shakuntala is Kalidasa.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to Sanskrit stage vocabulary, which of the following pairs is/are correctly matched?<br><br>1. Yavanika — curtain<br>2. Nepathya — backstage<br>3. Sutradhara — director-presenter<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** These are frequent one-line traps in match lists.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Sitabenga at Ramgarh, Chhattisgarh, is the oldest rock amphitheatre fact in standard teaching.<br><br>Reason (R): Neighbouring Jogimara is primarily the painting fact, not the theatre amphitheatre fact.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true and (R) correctly separates the adjacent Ramgarh sites by discipline.
+
+**A/R logic:** Theatre vs painting is the local confused pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to Koodiyattam, which of the following statements is/are correct?<br><br>1. It is living Sanskrit theatre of Kerala’s Chakyar tradition.<br>2. It uses the tabla as its main percussion instead of mizhavu.<br>3. It is the ninth SNA classical dance.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Koodiyattam uses the mizhavu drum. It is theatre (UNESCO), not a classical dance ninth.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nautanki — UP folk opera; Kanpur and Lucknow schools</div><div class="pyq-opt"><span class="opt-letter">B</span> Tamasha — Maharashtra; often linked with Lavani</div><div class="pyq-opt"><span class="opt-letter">C</span> Yakshagana — coastal Karnataka</div><div class="pyq-opt"><span class="opt-letter">D</span> Nautanki — Kerala Sanskrit temple theatre identical with Koodiyattam</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nautanki is UP folk opera, not Kerala Koodiyattam.
+
+**Logic:** Ain-i-Akbari names Nautanki. Nagara drum is a marker.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Ramlila and Raslila, which of the following statements is/are correct?<br><br>1. Braj Raslila is identical with Manipuri classical Ras Lila.<br>2. Ramlila of Ramnagar–Varanasi / Braj is UNESCO 2008.<br>3. Raslila is the Kerala Chakyar Sanskrit play identical with Koodiyattam.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Raslila is the Braj Krishna folk play. Manipuri classical Ras Lila is a separate dance-chapter fact.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Arrange the following institutional foundations in chronological order:<br><br>1. National School of Drama<br>2. IPTA<br>3. Sangeet Natak Akademi<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–1–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3–2–1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–3–1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1–2–3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The order is IPTA 1943 → SNA 1952 → NSD 1959.
+
+**Logic:** Ebrahim Alkazi is the long NSD director fact.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Consider the following puppetry pairs:<br><br>| Form | Tag |<br>|------|-----|<br>| 1. Kathputli | Rajasthan string marionette |<br>| 2. Gulabo–Sitabo | Lucknow glove comic puppets |<br>| 3. Kundhei | Odisha string puppetry |<br>| 4. Tholu Bommalata | Andhra Pradesh shadow form |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All four puppetry pairs are correctly matched.
+
+**Logic:** Ravana Chhaya of Odisha is another shadow form.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Sanskrit plays as a rule end well and do not default to Greek-style tragedy.<br><br>Reason (R): Stock figures include nayaka, nayika and vidushaka.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but stock figures do not by themselves explain the happy-ending convention.
+
+**A/R logic:** Ending convention and stock roles are related classroom facts, not a tight causal pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to nataka and prakarana, which statement is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nataka is pure dance; prakarana is curtain vocabulary</div><div class="pyq-opt"><span class="opt-letter">B</span> Nataka is mythic heroic; prakarana invents a social plot</div><div class="pyq-opt"><span class="opt-letter">C</span> Both are identical with nritta</div><div class="pyq-opt"><span class="opt-letter">D</span> Both are UNESCO ICH listings of 2010 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nataka vs prakarana is mythic heroic versus invented social plot.
+
+**Logic:** Natya is drama. Nritta is pure dance.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following UP modern-folk stage facts is/are correct?<br><br>1. Indra Sabha by Amanat (Lucknow, 1853)<br>2. Bidesiya of the eastern UP / Bhojpuri belt<br>3. Bhartendu Harishchandra of Banaras as modern Hindi theatre fact<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** These are the highest-yield UP theatre CA/history tags.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Consider the following regional theatre matches:<br><br>| Form | Region |<br>|------|--------|<br>| 1. Swang | Haryana, western UP, Rajasthan |<br>| 2. Jatra | Bengal and Odisha |<br>| 3. Bhavai | Gujarat |<br>| 4. Bhaona | Assam Majuli satras |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All four regional matches are correct.
+
+**Logic:** Ramman is Uttarakhand. Powada / Burrakatha are narrative theatre facts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">a UP form in the chapter’s exclusion list?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nautanki</div><div class="pyq-opt"><span class="opt-letter">B</span> Kathputli</div><div class="pyq-opt"><span class="opt-letter">C</span> Gulabo–Sitabo</div><div class="pyq-opt"><span class="opt-letter">D</span> Ramlila of Ramnagar–Varanasi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kathputli is Rajasthan string marionette.
+
+**Logic:** Also not UP: Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), Ramman (Uttarakhand).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to Kalidasa and Bhasa, which of the following statements is/are correct?<br><br>1. Bhasa left about 13 plays.<br>2. Kalidasa wrote three dramas.<br>3. Ashvaghosha is often tagged with the earliest Sanskrit play tradition.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Harsha wrote Ratnavali among other plays.</div>
+  </div>
+</div>

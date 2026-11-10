@@ -231,23 +231,6 @@ hide:
 | **Great Mughals** | **Babur (1526–30) → Humayun (1530–40, 1555–56) → Akbar (1556–1605) → Jahangir (1605–27) → Shah Jahan (1628–58) → Aurangzeb (1658–1707)** | **B–H–A–J–S–A** (Humayun broke by Sur interregnum 1540–55) |
 | **Sikh Gurus** | **Nanak → Angad → Amar Das → Ram Das → Arjan Dev → Hargobind → Har Rai → Har Krishan → Tegh Bahadur → Gobind Singh** | **N–A–A–R–A–H–H–H–T–G** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Tarain I (1191)** | **Tarain II (1192)** | Prithviraj Chauhan won Tarain I vs Muhammad Ghori won Tarain II | तराइन प्रथम / द्वितीय |
-| **Panipat I (1526)** | **Panipat II (1556)** | Babur defeated Ibrahim Lodi vs Akbar (Bairam Khan) defeated Hemu | पानीपत प्रथम / द्वितीय |
-| **Panipat III (1761)** | **Panipat I & II** | 1761 is Modern era: Ahmad Shah Abdali defeated Marathas (Sadashivrao Bhau) | पानीपत तृतीय |
-| **Chausa (1539)** | **Kannauj / Bilgram (1540)** | Chausa gave Sher Khan the title *Sher Shah* vs Kannauj expelled Humayun from India | चौसा / बिलग्राम |
-| **Daurah (1532)** | **Dharmat (1658)** | Humayun defeated Afghan Mahmud Lodi vs Aurangzeb defeated Jaswant Singh | दौराहा / धरमत |
-| **Samugarh (May 1658)** | **Deorai (Mar 1659)** | Decisive victory over Dara Shikoh vs final capture and execution of Dara | सामूगढ़ / देवराई |
-| **Shivaji Coronation (1674)** | **Khalsa Foundation (1699)** | Vedic coronation at Raigad (Gaga Bhatt) vs creation of Sikh military fraternity at Anandpur | राज्याभिषेक / खालसा |
-| **Reimposition of Jizya (1679)**| **Abolition of Jizya (1564)**| Reimposed by Aurangzeb after 115 years vs abolished by Akbar | जजिया कर |
-| **Vijayanagara (1336)** | **Bahmani Kingdom (1347)** | Hindu empire by Harihara & Bukka vs Deccan Muslim sultanate by Hasan Gangu | विजयनगर / बहमनी |
-| **Talikota (1565)** | **Haldighati (1576)** | Deccan alliance destroyed Vijayanagara vs Man Singh fought Maharana Pratap | तालीकोटा / हल्दीघाटी |
-| **Babur Tomb** | **Jahangir Tomb** | Kabul (Afghanistan) vs Shahdara, Lahore (Pakistan); only 2 great Mughals buried abroad | बाबर / जहांगीर मकबरा |
-| **Humayun Tomb** | **Taj Mahal** | Red sandstone prototype by Mirak Mirza Ghiyas vs white marble peak by Ustad Ahmad Lahori | हुमायूँ मकबरा / ताजमहल |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **The Three Battles of Panipat Memory Lock:**
@@ -274,26 +257,23 @@ hide:
 4. **War of Succession Battles Hook: B–D–S–K–D**
    - **B**ahadurpur (Feb 1658) → **D**harmat (Apr 1658) → **S**amugarh (May 1658) → **K**hajwa (Jan 1659) → **D**eorai (Mar 1659).
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.** Arrange the dynasties of the Delhi Sultanate in correct chronological order:
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-1. Tughlaq dynasty
-2. Slave (Mamluk) dynasty
-3. Lodi dynasty
-4. Khalji dynasty
-
-A. 2, 4, 1, 3
-B. 2, 1, 4, 3
-C. 2, 4, 3, 1
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2, 4, 1, 3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Arrange the dynasties of the Delhi Sultanate in correct chronological order:<br><br>1. Tughlaq dynasty<br>2. Slave (Mamluk) dynasty<br>3. Lodi dynasty<br>4. Khalji dynasty</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 4, 3, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 1, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2, 4, 1, 3)
 
 **Detailed Explanation:**
 - **2. Slave (Mamluk / Ilbari) dynasty (1206–1290):** Founded by Qutbuddin Aibak upon the death of Muhammad Ghori; ruled for 84 years.
@@ -303,26 +283,22 @@ D. 4, 2, 1, 3
 - **3. Lodi dynasty (1451–1526):** Founded by Bahlol Lodi as the first Afghan dynasty in India; ended at the First Battle of Panipat (1526).
 
 **Key Exam Takeaway / Trap:**
-- Mnemonic for Delhi Sultanate dynasties: **S-K-T-S-L** $\rightarrow$ **Slave $\rightarrow$ Khalji $\rightarrow$ Tughlaq $\rightarrow$ Sayyid $\rightarrow$ Lodi**. Longest reigning = Tughlaqs (94 yrs); Shortest reigning = Khaljis (30 yrs).
+- Mnemonic for Delhi Sultanate dynasties: **S-K-T-S-L** $\rightarrow$ **Slave $\rightarrow$ Khalji $\rightarrow$ Tughlaq $\rightarrow$ Sayyid $\rightarrow$ Lodi**. Longest reigning = Tughlaqs (94 yrs); Shortest reigning = Khaljis (30 yrs).</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.** Arrange the following events in chronological order:
-
-1. Second Battle of Tarain
-2. First Battle of Tarain
-3. Foundation of Delhi Sultanate
-4. Timur’s sack of Delhi
-
-A. 2, 1, 3, 4
-B. 1, 2, 3, 4
-C. 2, 1, 4, 3
-D. 2, 3, 1, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2, 1, 3, 4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in chronological order:<br><br>1. Second Battle of Tarain<br>2. First Battle of Tarain<br>3. Foundation of Delhi Sultanate<br>4. Timur’s sack of Delhi</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 3, 1, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2, 1, 3, 4)
 
 **Detailed Explanation:**
 - **2. First Battle of Tarain (1191):** Rajput confederacy led by Prithviraj Chauhan (Chahamana of Ajmer/Delhi) decisively defeated Mu'izz al-Din Muhammad Ghori.
@@ -331,26 +307,22 @@ D. 2, 3, 1, 4
 - **4. Timur's sack of Delhi (1398):** The Central Asian conqueror Amir Timur invaded India during the reign of Nasir-ud-din Mahmud Tughlaq, pillaging Delhi and dealing a fatal blow to the Tughlaq dynasty.
 
 **Key Exam Takeaway / Trap:**
-- Chronological anchor: **Tarain I (1191) $\rightarrow$ Tarain II (1192) $\rightarrow$ Sultanate founded (1206) $\rightarrow$ Timur's invasion (1398)**.
+- Chronological anchor: **Tarain I (1191) $\rightarrow$ Tarain II (1192) $\rightarrow$ Sultanate founded (1206) $\rightarrow$ Timur's invasion (1398)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.** Arrange the following Mughal and Maratha historical markers in chronological order:
-
-1. Second Battle of Panipat
-2. First Battle of Panipat
-3. Battle of Haldighati
-4. Coronation of Shivaji
-
-A. 2, 1, 3, 4
-B. 2, 3, 1, 4
-C. 1, 2, 3, 4
-D. 2, 1, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2, 1, 3, 4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Mughal and Maratha historical markers in chronological order:<br><br>1. Second Battle of Panipat<br>2. First Battle of Panipat<br>3. Battle of Haldighati<br>4. Coronation of Shivaji</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2, 1, 3, 4)
 
 **Detailed Explanation:**
 - **2. First Battle of Panipat (21 April 1526):** Babur defeated Ibrahim Lodi, establishing the Mughal Empire in northern India.
@@ -359,26 +331,22 @@ D. 2, 1, 4, 3
 - **4. Coronation of Shivaji at Raigad (6 June 1674):** Formal Vedic coronation of Shivaji as Chhatrapati by Gaga Bhatt of Varanasi.
 
 **Key Exam Takeaway / Trap:**
-- Chronological anchor: **Panipat I (1526) $\rightarrow$ Panipat II (1556) $\rightarrow$ Haldighati (1576) $\rightarrow$ Raigad Coronation (1674)**.
+- Chronological anchor: **Panipat I (1526) $\rightarrow$ Panipat II (1556) $\rightarrow$ Haldighati (1576) $\rightarrow$ Raigad Coronation (1674)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.** Arrange the following Sur–Mughal sequence in correct chronological order:
-
-1. Humayun recovers Delhi
-2. Battle of Chausa
-3. Sher Shah’s administrative peak
-4. Second Battle of Panipat
-
-A. 2, 3, 1, 4
-B. 2, 1, 3, 4
-C. 3, 2, 1, 4
-D. 2, 3, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2, 3, 1, 4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Sur–Mughal sequence in correct chronological order:<br><br>1. Humayun recovers Delhi<br>2. Battle of Chausa<br>3. Sher Shah’s administrative peak<br>4. Second Battle of Panipat</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 3, 4, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2, 3, 1, 4)
 
 **Detailed Explanation:**
 - **2. Battle of Chausa (June 1539):** Sher Khan routed Humayun's Mughal army on the banks of the Ganges, assuming the royal title *Sher Shah*.
@@ -387,26 +355,22 @@ D. 2, 3, 4, 1
 - **4. Second Battle of Panipat (November 1556):** Fought months after Humayun's death, establishing Akbar's reign against Hemu.
 
 **Key Exam Takeaway / Trap:**
-- Chronological anchor: **Chausa (1539) $\rightarrow$ Sur Empire peak (1540–45) $\rightarrow$ Mughal restoration (1555) $\rightarrow$ Panipat II (1556)**.
+- Chronological anchor: **Chausa (1539) $\rightarrow$ Sur Empire peak (1540–45) $\rightarrow$ Mughal restoration (1555) $\rightarrow$ Panipat II (1556)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.** Arrange the following Akbar-era markers in chronological order:
-
-1. Promulgation of Din-i-Ilahi (Tauhid-i-Ilahi)
-2. Second Battle of Panipat
-3. Battle of Haldighati
-4. Construction of Fatehpur Sikri and Ibadat Khana
-
-A. 2, 4, 3, 1
-B. 2, 3, 4, 1
-C. 2, 4, 1, 3
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2, 4, 3, 1)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Akbar-era markers in chronological order:<br><br>1. Promulgation of Din-i-Ilahi (Tauhid-i-Ilahi)<br>2. Second Battle of Panipat<br>3. Battle of Haldighati<br>4. Construction of Fatehpur Sikri and Ibadat Khana</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 4, 3, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2, 4, 3, 1)
 
 **Detailed Explanation:**
 - **2. Second Battle of Panipat (1556):** Inaugurated Akbar's reign.
@@ -415,26 +379,22 @@ D. 4, 2, 3, 1
 - **1. Promulgation of Din-i-Ilahi (1582):** Following the *Mahzar* (Infallibility Decree) of 1579, Akbar promulgated his syncretic ethical code **Din-i-Ilahi** (Tauhid-i-Ilahi) in **1582**.
 
 **Key Exam Takeaway / Trap:**
-- Akbar chronology anchors: **Panipat II (1556) $\rightarrow$ Abolition of Pilgrimage Tax (1563) & Jizya (1564) $\rightarrow$ Ibadat Khana (1575) $\rightarrow$ Haldighati (1576) $\rightarrow$ Mahzar (1579) $\rightarrow$ Din-i-Ilahi (1582)**.
+- Akbar chronology anchors: **Panipat II (1556) $\rightarrow$ Abolition of Pilgrimage Tax (1563) & Jizya (1564) $\rightarrow$ Ibadat Khana (1575) $\rightarrow$ Haldighati (1576) $\rightarrow$ Mahzar (1579) $\rightarrow$ Din-i-Ilahi (1582)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.** Arrange the following events in chronological order:
-
-1. Death of Aurangzeb
-2. Foundation of the Khalsa
-3. Coronation of Shivaji
-4. Reimposition of jizya by Aurangzeb
-
-A. 3, 4, 2, 1
-B. 3, 2, 4, 1
-C. 4, 3, 2, 1
-D. 3, 4, 1, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (3, 4, 2, 1)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in chronological order:<br><br>1. Death of Aurangzeb<br>2. Foundation of the Khalsa<br>3. Coronation of Shivaji<br>4. Reimposition of jizya by Aurangzeb</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 3, 2, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 4, 1, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (3, 4, 2, 1)
 
 **Detailed Explanation:**
 - **3. Coronation of Shivaji (1674):** Celebrated at Raigad Fort on 6 June 1674.
@@ -443,26 +403,22 @@ D. 3, 4, 1, 2
 - **1. Death of Aurangzeb (3 March 1707):** Passed away at Ahmadnagar in the Deccan after a 49-year reign, inaugurating the decline of the Mughal Empire.
 
 **Key Exam Takeaway / Trap:**
-- Chronological anchor: **Shivaji Coronation (1674) $\rightarrow$ Jizya reimposed (1679) $\rightarrow$ Khalsa founded (1699) $\rightarrow$ Aurangzeb dies (1707)**.
+- Chronological anchor: **Shivaji Coronation (1674) $\rightarrow$ Jizya reimposed (1679) $\rightarrow$ Khalsa founded (1699) $\rightarrow$ Aurangzeb dies (1707)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.** Arrange the following Vijayanagara–Bahmani markers in chronological order:
-
-1. Battle of Talikota (Rakshasi-Tangadi)
-2. Foundation of Vijayanagara Empire
-3. Foundation of Bahmani Kingdom
-4. Krishnadevaraya’s reign peak
-
-A. 2, 3, 4, 1
-B. 2, 3, 1, 4
-C. 3, 2, 4, 1
-D. 2, 4, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2, 3, 4, 1)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Vijayanagara–Bahmani markers in chronological order:<br><br>1. Battle of Talikota (Rakshasi-Tangadi)<br>2. Foundation of Vijayanagara Empire<br>3. Foundation of Bahmani Kingdom<br>4. Krishnadevaraya’s reign peak</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 4, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2, 3, 4, 1)
 
 **Detailed Explanation:**
 - **2. Foundation of Vijayanagara Empire (1336):** Founded by Harihara I and Bukka I of the Sangama dynasty on the banks of the Tungabhadra during the reign of Muhammad bin Tughlaq.
@@ -471,26 +427,22 @@ D. 2, 4, 3, 1
 - **1. Battle of Talikota / Rakshasi-Tangadi (23 January 1565):** Combined alliance of Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) routed the Vijayanagara army under Aliya Rama Raya, leading to the sack of Hampi.
 
 **Key Exam Takeaway / Trap:**
-- Vijayanagara (1336) was founded **before** the Bahmani kingdom (1347). Talikota (1565) occurred decades after Krishnadevaraya's death (1529).
+- Vijayanagara (1336) was founded **before** the Bahmani kingdom (1347). Talikota (1565) occurred decades after Krishnadevaraya's death (1529).</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.** Which of the following shows the correct succession sequence of the Mamluk (Slave) Sultans?
-
-1. Ghiyasuddin Balban
-2. Shamsuddin Iltutmish
-3. Qutbuddin Aibak
-4. Razia Sultan
-
-A. 3, 2, 4, 1
-B. 3, 4, 2, 1
-C. 2, 3, 4, 1
-D. 3, 2, 1, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (3, 2, 4, 1)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following shows the correct succession sequence of the Mamluk (Slave) Sultans?<br><br>1. Ghiyasuddin Balban<br>2. Shamsuddin Iltutmish<br>3. Qutbuddin Aibak<br>4. Razia Sultan</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 2, 1, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (3, 2, 4, 1)
 
 **Detailed Explanation:**
 - **3. Qutbuddin Aibak (1206–1210):** First Sultan of Delhi; founded the dynasty; died playing Chaugan (polo).
@@ -499,27 +451,22 @@ D. 3, 2, 1, 4
 - **1. Ghiyasuddin Balban (1266–1286):** Member of the Chahalgani who seized the throne; implemented the policy of "Blood and Iron", introduced Persian court etiquette (Sijda and Paibos), and celebrated Nauroz.
 
 **Key Exam Takeaway / Trap:**
-- Chronological anchor: **Aibak (1206–10) $\rightarrow$ Iltutmish (1211–36) $\rightarrow$ Razia (1236–40) $\rightarrow$ Balban (1266–86)**.
+- Chronological anchor: **Aibak (1206–10) $\rightarrow$ Iltutmish (1211–36) $\rightarrow$ Razia (1236–40) $\rightarrow$ Balban (1266–86)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): The Second Battle of Tarain in 1192 established Turkish Muslim political power in north India.
-
-Reason (R): The First Battle of Tarain in 1191 was won by Muhammad Ghori.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** ((A) is true, but (R) is false)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): The Second Battle of Tarain in 1192 established Turkish Muslim political power in north India.<br><br>Reason (R): The First Battle of Tarain in 1191 was won by Muhammad Ghori.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** ((A) is true, but (R) is false)
 
 **Detailed Explanation:**
 - **Assertion (A) is true:** The **Second Battle of Tarain (1192)** is recognized by historians as one of the most decisive battles in Indian history. Muhammad Ghori's victory over Prithviraj Chauhan shattered Rajput resistance in the Delhi-Ajmer region and laid the permanent foundation of Turkish Muslim rule in northern India.
@@ -527,26 +474,22 @@ D. (A) is false, but (R) is true
 - Therefore, Assertion (A) is true, while Reason (R) is false.
 
 **Key Exam Takeaway / Trap:**
-- Tarain I (1191) = **Prithviraj Chauhan won**. Tarain II (1192) = **Muhammad Ghori won**. Do not invert the victors!
+- Tarain I (1191) = **Prithviraj Chauhan won**. Tarain II (1192) = **Muhammad Ghori won**. Do not invert the victors!</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.** Arrange the following events in chronological order:
-
-1. Royal Charter to English East India Company
-2. Death of Emperor Akbar
-3. Sir Thomas Roe’s arrival at Jahangir’s court
-4. Accession of Emperor Shah Jahan
-
-A. 1, 2, 3, 4
-B. 2, 1, 3, 4
-C. 1, 2, 4, 3
-D. 2, 1, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1, 2, 3, 4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in chronological order:<br><br>1. Royal Charter to English East India Company<br>2. Death of Emperor Akbar<br>3. Sir Thomas Roe’s arrival at Jahangir’s court<br>4. Accession of Emperor Shah Jahan</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 4, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (1, 2, 3, 4)
 
 **Detailed Explanation:**
 - **1. Charter to English East India Company (31 December 1600):** Granted by Queen Elizabeth I.
@@ -555,26 +498,22 @@ D. 2, 1, 4, 3
 - **4. Accession of Shah Jahan (January 1628):** Ascended the Mughal throne after the death of Jahangir (1627) and defeating rival claimants.
 
 **Key Exam Takeaway / Trap:**
-- Chronological anchor: **1600 $\rightarrow$ 1605 $\rightarrow$ 1615 $\rightarrow$ 1628**.
+- Chronological anchor: **1600 $\rightarrow$ 1605 $\rightarrow$ 1615 $\rightarrow$ 1628**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.** Arrange the following events of Alauddin Khalji’s reign in chronological order:
-
-1. Malik Kafur’s deep southern expeditions (Warangal, Dwarasamudra, Madurai)
-2. Accession of Alauddin Khalji
-3. Capture of Chittor
-4. End of the Khalji dynasty
-
-A. 2, 3, 1, 4
-B. 2, 1, 3, 4
-C. 3, 2, 1, 4
-D. 2, 3, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2, 3, 1, 4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events of Alauddin Khalji’s reign in chronological order:<br><br>1. Malik Kafur’s deep southern expeditions (Warangal, Dwarasamudra, Madurai)<br>2. Accession of Alauddin Khalji<br>3. Capture of Chittor<br>4. End of the Khalji dynasty</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 3, 4, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2, 3, 1, 4)
 
 **Detailed Explanation:**
 - **2. Accession of Alauddin Khalji (1296):** Assassinated his uncle Jalaluddin at Kara-Manikpur and seized the throne.
@@ -583,34 +522,39 @@ D. 2, 3, 4, 1
 - **4. End of Khalji dynasty (1320):** Khusrau Khan murdered the last Khalji Sultan Mubarak Shah, before being overthrown by Ghiyasuddin Tughlaq in late 1320.
 
 **Key Exam Takeaway / Trap:**
-- Alauddin's campaigns followed a deliberate geographical progression: Northern Rajput forts first (**Ranthambore 1301 $\rightarrow$ Chittor 1303 $\rightarrow$ Malwa 1305**), followed by Southern trans-Vindhyan expeditions (**1307–1311**).
+- Alauddin's campaigns followed a deliberate geographical progression: Northern Rajput forts first (**Ranthambore 1301 $\rightarrow$ Chittor 1303 $\rightarrow$ Malwa 1305**), followed by Southern trans-Vindhyan expeditions (**1307–1311**).</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.** Match List-I with List-II and select the correct answer from the code given below:
-
-List-I (Ruler)
-(a) Babur
-(b) Akbar
-(c) Sher Shah
-(d) Shivaji
-
-List-II (Defining Marker / Event)
-1. Battle of Haldighati
-2. Battle of Khanwa
-3. Introduction of silver Rupiya & Grand Trunk Road
-4. Coronation at Raigad
-
-Code:
-A. a-2, b-1, c-3, d-4
-B. a-1, b-2, c-3, d-4
-C. a-2, b-1, c-4, d-3
-D. a-2, b-3, c-1, d-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (a-2, b-1, c-3, d-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Ruler)</th>
+        <th>List-II (Defining Marker / Event)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Babur</td><td><span class="match-key">1</span> Battle of Haldighati</td></tr>
+    <tr><td><span class="match-key">B</span> Akbar</td><td><span class="match-key">2</span> Battle of Khanwa</td></tr>
+    <tr><td><span class="match-key">C</span> Sher Shah</td><td><span class="match-key">3</span> Silver Rupiya & Grand Trunk Road</td></tr>
+    <tr><td><span class="match-key">D</span> Shivaji</td><td><span class="match-key">4</span> Coronation at Raigad</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-4, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-3, C-1, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (a-2, b-1, c-3, d-4)
 
 **Detailed Explanation:**
 - **(a) Babur:** Defeated Rana Sanga of Mewar at the historic **Battle of Khanwa (1527)**, assuming the title *Ghazi* (List-II: 2).
@@ -619,26 +563,22 @@ D. a-2, b-3, c-1, d-4
 - **(d) Shivaji:** Celebrated his grand Vedic coronation as Chhatrapati at **Raigad Fort in 1674** (List-II: 4).
 
 **Key Exam Takeaway / Trap:**
-- Four pillar figures of medieval Indian history matched with their primary signature achievements.
+- Four pillar figures of medieval Indian history matched with their primary signature achievements.</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.** Arrange the following 14th-century events in chronological order:
-
-1. Timur’s invasion of India
-2. Accession of Muhammad bin Tughlaq
-3. Reign of Firoz Shah Tughlaq
-4. Foundation of Vijayanagara Empire
-
-A. 2, 4, 3, 1
-B. 2, 3, 4, 1
-C. 4, 2, 3, 1
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2, 4, 3, 1)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Arrange the following 14th-century events in chronological order:<br><br>1. Timur’s invasion of India<br>2. Accession of Muhammad bin Tughlaq<br>3. Reign of Firoz Shah Tughlaq<br>4. Foundation of Vijayanagara Empire</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 4, 3, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 2, 3, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 4, 1, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2, 4, 3, 1)
 
 **Detailed Explanation:**
 - **2. Accession of Muhammad bin Tughlaq (1325):** Succeeded Ghiyasuddin Tughlaq; initiated his famous transfer of capital (1327) and token currency (1329–30).
@@ -647,26 +587,22 @@ D. 2, 4, 1, 3
 - **1. Timur's invasion of India (1398):** Plundered Delhi during the reign of the last Tughlaq ruler, Nasir-ud-din Mahmud.
 
 **Key Exam Takeaway / Trap:**
-- Chronological anchor: **Accession of MBT (1325) $\rightarrow$ Vijayanagara founded (1336) $\rightarrow$ Firoz Shah Tughlaq (1351) $\rightarrow$ Timur (1398)**.
+- Chronological anchor: **Accession of MBT (1325) $\rightarrow$ Vijayanagara founded (1336) $\rightarrow$ Firoz Shah Tughlaq (1351) $\rightarrow$ Timur (1398)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.** Arrange the following Deccan and Mughal events in chronological order:
-
-1. Annexation of Golconda by Aurangzeb
-2. Treaty of Purandar between Shivaji and Jai Singh
-3. Coronation of Shivaji
-4. Execution of Sambhaji
-
-A. 2, 3, 1, 4
-B. 2, 3, 4, 1
-C. 3, 2, 1, 4
-D. 2, 1, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2, 3, 1, 4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Deccan and Mughal events in chronological order:<br><br>1. Annexation of Golconda by Aurangzeb<br>2. Treaty of Purandar between Shivaji and Jai Singh<br>3. Coronation of Shivaji<br>4. Execution of Sambhaji</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 3, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2, 3, 1, 4)
 
 **Detailed Explanation:**
 - **2. Treaty of Purandar (June 1665):** Signed between Shivaji and Mirza Raja Jai Singh; Shivaji surrendered 23 forts.
@@ -675,21 +611,22 @@ D. 2, 1, 3, 4
 - **4. Execution of Sambhaji (March 1689):** Captured at Sangameshwar and executed by Aurangzeb at Tulapur.
 
 **Key Exam Takeaway / Trap:**
-- Chronological anchor: **Purandar (1665) $\rightarrow$ Shivaji Coronation (1674) $\rightarrow$ Bijapur annexed (1686) $\rightarrow$ Golconda annexed (1687) $\rightarrow$ Sambhaji executed (1689)**.
+- Chronological anchor: **Purandar (1665) $\rightarrow$ Shivaji Coronation (1674) $\rightarrow$ Bijapur annexed (1686) $\rightarrow$ Golconda annexed (1687) $\rightarrow$ Sambhaji executed (1689)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.** correctly matched?
-
-A. Somnath expedition (1025 CE) — Mahmud of Ghazni
-B. Battle of Talikota (1565) — Babur
-C. Second Battle of Panipat (1556) — Akbar / Bairam Khan
-D. Foundation of the Khalsa (1699) — Guru Gobind Singh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Battle of Talikota (1565) — Babur)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Somnath expedition (1025 CE) — Mahmud of Ghazni</div><div class="pyq-opt"><span class="opt-letter">B</span> Battle of Talikota (1565) — Babur</div><div class="pyq-opt"><span class="opt-letter">C</span> Second Battle of Panipat (1556) — Akbar / Bairam Khan</div><div class="pyq-opt"><span class="opt-letter">D</span> Foundation of the Khalsa (1699) — Guru Gobind Singh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Battle of Talikota (1565) — Babur)
 
 **Detailed Explanation:**
 - **Pair B is NOT correctly matched (hence the correct answer):** The **Battle of Talikota (1565)** was fought between the **Vijayanagara Empire** (commanded by Aliya Rama Raya) and the combined forces of the **Deccan Sultanates** (Bijapur, Golconda, Ahmadnagar, Bidar). **Babur** died in **1530** (35 years before Talikota) and had no connection with the Deccan or Talikota.
@@ -698,6 +635,6 @@ D. Foundation of the Khalsa (1699) — Guru Gobind Singh
 - **Pair D is correctly matched:** Guru Gobind Singh, the tenth Sikh Guru, instituted the **Khalsa Panth at Anandpur Sahib in 1699**.
 
 **Key Exam Takeaway / Trap:**
-- Talikota was an exclusively southern peninsular clash (Deccan Sultanates vs Vijayanagara in 1565).
-
-</details>
+- Talikota was an exclusively southern peninsular clash (Deccan Sultanates vs Vijayanagara in 1565).</div>
+  </div>
+</div>

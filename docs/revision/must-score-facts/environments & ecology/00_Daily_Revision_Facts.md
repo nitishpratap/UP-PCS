@@ -60,67 +60,7 @@ hide:
 34. **Carbon Dioxide (CO2)**: Primary anthropogenic driver of global climate change due to massive volume and century-long residence time.
 35. **Methane (CH4)**: Major sources: Paddy/rice fields, ruminant livestock enteric fermentation, landfills, wetlands, coal mining.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Environmental Legislation & Governance in India
-
-```
-1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
-1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
-1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
-1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
-1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
-1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
-2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
-2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
-2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
-```
-
 ## 📊 Quick Reference Grid
-
-### Table: Key Ramsar Wetlands of India (Selected High-Yield & State-Wise)
-
-| Ramsar Site | State / UT | Area / Special Significance | Exam Trap & Distinction |
-| :--- | :--- | :--- | :--- |
-| **Chilika Lake** | Odisha | First Ramsar Site in India (1981); Largest coastal lagoon | Joined with Keoladeo Ghana in 1981; removed from Montreux Record post-restoration |
-| **Keoladeo Ghana National Park** | Rajasthan | Wetland & NP; placed on Montreux Record | On Montreux Record due to water shortage & grazing pressure |
-| **Loktak Lake** | Manipur | Freshwater lake with phumdis (floating mats); Keibul Lamjao NP | Only floating national park; home to Sangai (Dancing Deer); on Montreux Record |
-| **Vembanad-Kol Wetland** | Kerala | Largest wetland in India by surface area | Spans Alappuzha, Kottayam, Ernakulam; Nehru Trophy Boat Race held here |
-| **Sundarban Wetland** | West Bengal | Largest Ramsar site by protected area | Mangrove ecosystem; Royal Bengal Tiger; shared with Bangladesh |
-| **Renuka Wetland** | Himachal Pradesh | Smallest Ramsar site in India (~20 ha) | Natural wetland with freshwater springs; sacred lake |
-| **Upper Ganga River** | Uttar Pradesh | First Ramsar site of UP (2005; Brijghat to Narora) | Stretch of 82 km; habitat of Gangetic Dolphin, gharial, turtles |
-| **Bakhira Wildlife Sanctuary** | Uttar Pradesh | 10th Ramsar site of UP (Sant Kabir Nagar, 2022) | Natural freshwater marsh; migratory waterbirds |
-| **Haiderpur Wetland** | Uttar Pradesh | Muzaffarnagar & Bijnor (2021) | Human-made wetland in Hastinapur WLS within Ganga floodplain |
-| **Rudrasagar Lake** | Tripura | Lowland sedimentation reservoir | Located in Northeast (Tripura) — common trap confusing it with UP or MP |
-| **Bhoj Wetland** | Madhya Pradesh | Twin lakes: Upper Lake (Bada Talab) and Lower Lake | Created by Raja Bhoj; human-made wetland |
-| **Asan Barrage** | Uttarakhand | First Ramsar site of Uttarakhand (2020) | Located at confluence of Asan and Yamuna in Dehradun |
-| **Lonar Lake** | Maharashtra | Meteor impact crater lake; hyper-saline | Turned pink due to haloarchaea microbes in 2020 |
-| **Tso Kar Wetland Complex** | Ladakh | High-altitude saline lake (Startsapuk Tso + Tso Kar) | Breeding ground for Black-necked Crane |
-
-### Table: Global Environmental Reports & Flagship Publications
-
-| Publication / Report | Publishing Agency | Frequency / Milestone | Core Prelims Focus Area |
-| :--- | :--- | :--- | :--- |
-| **Assessment Reports (AR1 to AR6)** | **IPCC** (Intergovernmental Panel on Climate Change) | Every 6–7 years (AR6 Synthesis: 2023) | Scientific consensus on climate change, carbon budgets, 1.5°C pathways |
-| **Emissions Gap Report** | **UNEP** (United Nations Environment Programme) | Annual | Gap between national NDC pledges and 1.5°C / 2°C temperature trajectories |
-| **Adaptation Gap Report** | **UNEP** | Annual | Assessment of global adaptation financing, planning, and implementation deficit |
-| **Global Environment Outlook (GEO)** | **UNEP** | Periodic flagship | Comprehensive state of the global environment, policy responses |
-| **Living Planet Report** | **WWF** (World Wide Fund for Nature) | Biennial | Living Planet Index tracking vertebrate population declines (~69% decline) |
-| **IUCN Red List of Threatened Species** | **IUCN** (Gland, Switzerland) | Continuous / Annual update | 9 categories: EX, EW, CR, EN, VU, NT, LC, DD, NE |
-| **Global Biodiversity Outlook (GBO)** | **CBD Secretariat** | Periodic (GBO-5 in 2020) | Progress against Aichi Biodiversity Targets / Kunming-Montreal GBF |
-| **State of the World's Forests (SOFO)** | **FAO** (Food and Agriculture Organization) | Biennial | Global forest cover, deforestation rates, agroforestry and livelihoods |
-| **World Air Quality Report** | **IQAir** | Annual | Global PM2.5 city rankings and WHO guidelines compliance |
-| **SDG India Index & Dashboard** | **NITI Aayog** | Annual | Performance of Indian States/UTs across 16 SDGs (Kerala consistently #1) |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Ecology (Haeckel 1866)** | **Ecosystem (Tansley 1935)** | Scientific study of organism-environment interactions vs structural-functional physical unit of nature | पारिस्थितिकी / पारिस्थितिक तंत्र |
-| **Habitat (वास स्थान)** | **Ecological Niche (निकेत)** | Physical address / geographical location where a species lives vs functional role / professional job of the species | वास स्थान (पता) / निकेत (पेशा) |
-| **National Park (Sec 35 WPA)** | **Wildlife Sanctuary (Sec 18 WPA)** | Strictest PA, zero human settlement, grazing banned, state legislature boundary change vs regulated grazing and rights permitted | राष्ट्रीय उद्यान / वन्यजीव अभयारण्य |
-| **In-Situ Conservation** | **Ex-Situ Conservation** | On-site protection in natural habitat (National Parks, Biosphere Reserves, Sacred Groves) vs off-site protection (Zoos, Botanical Gardens, Seed Banks) | स्व-स्थाने / बाह्य-स्थाने संरक्षण |
-| **Vienna Convention (1985)** | **Montreal Protocol (1987)** | Non-binding framework convention on ozone protection vs legally binding operational treaty fixing specific ODS phase-out deadlines | विएना कन्वेंशन / मॉन्ट्रियल प्रोटोकॉल |
 
 ## 🧠 Memory Anchors & Mnemonics
 
@@ -135,291 +75,291 @@ hide:
 - **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
 - **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-**Q1.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Asan Conservation Reserve (Dehradun; confluence of Asan and Yamuna; first Ramsar of Uttarakhand, Oct 2020).
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Asan Conservation Reserve (Dehradun; confluence of Asan and Yamuna; first Ramsar of Uttarakhand, Oct 2020).</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Asan Conservation Reserve** (Dehradun; confluence of Asan and Yamuna; **first Ramsar of Uttarakhand, Oct 2020**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q2.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Jhilmil applies only to union territories and not state jurisdictions.
-B. Jhilmil Jheel Conservation Reserve (Haridwar, 2005) is the state’s swamp-deer / barasingha wetland — not the Ramsar first (that is Asan).
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Jhilmil applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Jhilmil Jheel Conservation Reserve (Haridwar, 2005) is the state’s swamp-deer / barasingha wetland — not the Ramsar first (that is Asan).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Recognized by UNESCO under World Heritage natural criteria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Jhilmil Jheel Conservation Reserve** (Haridwar, **2005**) is the state’s swamp-deer / barasingha wetland — **not** the Ramsar first (that is Asan).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q3.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Uttar applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Uttar Pradesh (12 Ramsar sites) — do not stop at the older list of 10:
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Uttar applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> Uttar Pradesh (12 Ramsar sites) — do not stop at the older list of 10:</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Uttar Pradesh (12 Ramsar sites)** — do not stop at the older list of 10:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q4.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Bakhira applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Bakhira Wildlife Sanctuary (Sant Kabir Nagar).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Bakhira applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Enacted under Article 356 of the Constitution of India</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Bakhira Wildlife Sanctuary (Sant Kabir Nagar).</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Bakhira Wildlife Sanctuary** (Sant Kabir Nagar).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q5.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Haiderpur Wetland (Muzaffarnagar–Bijnor; Solani / Hastinapur WLS).
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Haiderpur Wetland (Muzaffarnagar–Bijnor; Solani / Hastinapur WLS).</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Haiderpur Wetland** (Muzaffarnagar–Bijnor; Solani / Hastinapur WLS).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q6.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Nawabganj applies only to union territories and not state jurisdictions.
-B. Nawabganj Bird Sanctuary (Chandra Shekhar Azad, Unnao).
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Nawabganj applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Nawabganj Bird Sanctuary (Chandra Shekhar Azad, Unnao).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Excavated primarily in the Belan and Son River valleys</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Nawabganj Bird Sanctuary** (*Chandra Shekhar Azad*, Unnao).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q7.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Amended by the 44th Constitutional Amendment Act
-B. Excavated primarily in the Belan and Son River valleys
-C. Parvati Arga Bird Sanctuary (Gonda).
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Amended by the 44th Constitutional Amendment Act</div><div class="pyq-opt"><span class="opt-letter">B</span> Excavated primarily in the Belan and Son River valleys</div><div class="pyq-opt"><span class="opt-letter">C</span> Parvati Arga Bird Sanctuary (Gonda).</div><div class="pyq-opt"><span class="opt-letter">D</span> Classified under Schedule VII List II (State List)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Parvati Arga Bird Sanctuary** (Gonda).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q8.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Excavated primarily in the Belan and Son River valleys
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Saman Bird Sanctuary (Mainpuri).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Excavated primarily in the Belan and Son River valleys</div><div class="pyq-opt"><span class="opt-letter">B</span> Classified under Schedule VII List II (State List)</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Saman Bird Sanctuary (Mainpuri).</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Saman Bird Sanctuary** (Mainpuri).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q9.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Samaspur Bird Sanctuary (Rae Bareli).
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Samaspur Bird Sanctuary (Rae Bareli).</div><div class="pyq-opt"><span class="opt-letter">B</span> Originated during the Later Vedic transitional period</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Statement I is correct but Statement II is incorrect</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Samaspur Bird Sanctuary** (Rae Bareli).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q10.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Originated during the Later Vedic transitional period
-B. Sandi Bird Sanctuary (Hardoi).
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Originated during the Later Vedic transitional period</div><div class="pyq-opt"><span class="opt-letter">B</span> Sandi Bird Sanctuary (Hardoi).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Both statements are true and explain the phenomenon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Sandi Bird Sanctuary** (Hardoi).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q11.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Sarsai applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Sarsai Nawar Jheel (Etawah; Sarus Crane).
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Sarsai applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> Sarsai Nawar Jheel (Etawah; Sarus Crane).</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Sarsai Nawar Jheel** (Etawah; Sarus Crane).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q12.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Both statements are true and explain the phenomenon
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Sur Sarovar (Keetham Lake) (Agra).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">B</span> It was established during the First Five-Year Plan period</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Sur Sarovar (Keetham Lake) (Agra).</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Sur Sarovar (Keetham Lake)** (Agra).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q13.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Upper Ganga River (Brijghat to Narora).
-B. Recognized by UNESCO under World Heritage natural criteria
-C. None of the above statements are correct according to official Commission keys.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Upper Ganga River (Brijghat to Narora).</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Upper Ganga River** (Brijghat to Narora).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q14.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Recognized by UNESCO under World Heritage natural criteria
-B. Patna Bird Sanctuary (Etah).
-C. None of the above statements are correct according to official Commission keys.
-D. Reported by the Law Commission in its 214th consultation paper
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">B</span> Patna Bird Sanctuary (Etah).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Reported by the Law Commission in its 214th consultation paper</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Patna Bird Sanctuary** (Etah).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q15.** in Environment & Ecology, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Enacted under Article 356 of the Constitution of India
-B. Reported by the Law Commission in its 214th consultation paper
-C. Shekha Jheel (Aligarh).
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">in Environment & Ecology, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Enacted under Article 356 of the Constitution of India</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> Shekha Jheel (Aligarh).</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Shekha Jheel** (Aligarh).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>

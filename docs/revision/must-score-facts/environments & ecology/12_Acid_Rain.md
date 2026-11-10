@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 12 — Acid Rain (अम्ल वर्षा)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Acid rain** means wet or dry acidic deposition with pH below **5.6**.
@@ -75,21 +64,21 @@ hide:
 49. **CNG, LPG, and natural gas** produce **negligible SO₂** and lower NOx than coal.
 50. **CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) emission standards** under the Air Act cap SO₂ and NOx from TPPs, cement, steel, and refineries.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Atmospheric & Pollution Milestones
-
-```
-1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
-1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
-1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
-1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
-1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
-1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
-2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
-2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
-```
+51. The main strong acid pathway is **SO₂ → H₂SO₄**. **NOx → HNO₃** is the other major path.
+52. Reversed statements that call normal rain alkaline or acid rain alkaline are both false.
+53. Acid deposition harms conifers and weathers marble and limestone. The Taj marble → **gypsum** story is the classic Indian fact.
+54. The **Gothenburg Protocol (1999)** under **CLRTAP (1979)** targets acidifying air pollutants. **Montreal** targets ozone ODS — different problem.
+55. The **Singrauli** thermal belt and industrial NCR/Kanpur (कानपुर) airsheds are Indian acidifying-emission hotspots.
+56. SO₂ is denser than air and can travel long distances before deposition.
+57. Coal power and some industries are major SO₂ sources. Vehicles and combustion add NOx.
+58. Liming lakes is an emergency response, not a substitute for cutting emissions at source.
+59. Do not blame acid rain mainly on CO₂ just because normal rain is weakly acidic.
+60. Dry deposition can damage materials even on rainless days.
+61. Acid mist and acid fog are wet forms even when they are not classic rainfall.
+62. Cultural-heritage damage and forest dieback are both valid effect facts alongside aquatic harm.
+63. India’s focus pairs chemistry (SO₂/NOx) with Taj protection geography.
+64. **Conifers** (pine, spruce) are especially sensitive to acid fog and soil change.
+65. **Taj Trapezium Zone (~10,400 km²)** — Supreme Court-driven controls (1996 onward) forced gas switch/relocation of polluting units around Agra.
 
 ## 📊 Quick Reference Grid
 
@@ -109,343 +98,286 @@ hide:
 ---
 
 ![Acid Rain Pathways Landscape Profile & Taj Mahal Stone Cancer](images/env_ch12_01_acid_rain_mechanisms_impacts.png)
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-## ⚡ Confused Pairs & Common Examiner Traps
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Normal Rain** | **Acid Rain** | Slightly acidic precipitation with pH ~5.6 caused by dissolved atmospheric carbon dioxide forming weak carbonic acid (H₂CO₃) vs precipitation with pH strictly below 5.6 caused by anthropogenic emissions of sulfur dioxide (SO₂) and nitrogen oxides (NOx) | सामान्य वर्षा (pH ~5.6) / अम्ल वर्षा (pH < 5.6) |
-| **Sulfuric Acid (H₂SO₄)** | **Nitric Acid (HNO₃)** | Accounts for ~60–70% of total acid deposition acidity (primarily emitted by coal-fired thermal power plants and metal smelters) vs accounts for ~30–40% of acidity (primarily emitted by automobile exhausts and nitrogenous fertilizer use) | सल्फ्यूरिक अम्ल (60–70% भारांक) / नाइट्रिक अम्ल (30–40% भारांक) |
-| **Wet Acid Deposition** | **Dry Acid Deposition** | Direct transfer of acidic pollutants to Earth's surface incorporated into falling rain, fog, sleet, or snow vs settling of acidic gases, sulfate aerosols, and nitrate dust directly onto soil, vegetation, and buildings without moisture | आर्द्र निक्षेपण (वर्षा/कोहरा) / शुष्क निक्षेपण (गैस व धूलिकण) |
-| **Marble Cancer** | **Eutrophication** | Chemical weathering and yellowing/spalling of calcium carbonate structures (e.g. Taj Mahal) reacting with sulfuric acid to form soluble gypsum (CaSO₄) vs excessive nutrient enrichment of water bodies leading to dense algal blooms and dissolved oxygen crashes | संगमरमर कैंसर (ताजमहल क्षरण) / सुपोषण (जलीय पोषक संवर्धन) |
-| **Gothenburg Protocol (1999)** | **Montreal Protocol (1987)** | UNECE agreement under CLRTAP targeting multi-pollutant abatement of acidification, eutrophication, and ground-level ozone (SO₂, NOx, VOCs, NH₃) vs UNEP treaty targeting the global phase-out of ozone-depleting substances | गोथेनबर्ग प्रोटोकॉल (अम्लीकरण नियंत्रण) / मॉन्ट्रियल प्रोटोकॉल (ओजोन) |
-| **Taj Trapezium Zone (TTZ)** | **Eco-Sensitive Zone (ESZ)** | Specifically demarcated ~10,400 km² protective geographical zone covering Agra, Firozabad, Mathura, and Bharatpur to safeguard the Taj Mahal from industrial air pollution vs buffer belt up to 10 km declared around National Parks under EPA 1986 | ताज ट्रपेज़ियम ज़ोन (10,400 वर्ग किमी) / पारिस्थितिक संवेदनशील क्षेत्र |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-**Assertion (A):** CO₂, SO₂ and NO₂ dissolve in rainwater and produce acid rain.
-
-**Reason (R):** Air is polluted due to high concentration of CO₂, SO₂ and oxides of nitrogen.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A). 
-B. (A) is false but (R) is true. 
-C. Both (A) and (R) are true but (R) is **not** the correct explanation of (A). 
-D. (A) is true but (R) is false. 
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests whether all three gases dissolve in rain; R tests a generic air-pollution statement and whether it explains **strong acid rain** from SO₂/NOx vs weak carbonic acid from CO₂.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">**Assertion (A):** CO₂, SO₂ and NO₂ dissolve in rainwater and produce acid rain.<br><br>**Reason (R):** Air is polluted due to high concentration of CO₂, SO₂ and oxides of nitrogen.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false but (R) is true.</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (A) and (R) are true but (R) is **not** the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is true but (R) is false.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** A tests whether all three gases dissolve in rain; R tests a generic air-pollution statement and whether it explains **strong acid rain** from SO₂/NOx vs weak carbonic acid from CO₂.
 
 **Ans: C.** All three dissolve (A true) and polluted air (R true), but R does **not explain** why **SO₂/NOx** drive severe acid rain while **CO₂** gives only weakly acidic normal rain (~pH 5.6).
 
-**Trap:** "Both true; R explains A" ignores that **CO₂ alone** cannot explain coal-driven **H₂SO₄/HNO₃** acid rain.
+**Trap:** "Both true; R explains A" ignores that **CO₂ alone** cannot explain coal-driven **H₂SO₄/HNO₃** acid rain.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-Consider the following statements about **pH**:
-
-1. Acidic solutions have pH **more than 7**. 
-2. Basic solutions have pH **less than 7**. 
-
-A. 2 only 
-B. Neither 1 nor 2 
-C. Both 1 and 2 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Fundamental pH scale reversal trap — acidic < 7, basic > 7.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about **pH**:<br><br>1. Acidic solutions have pH **more than 7**. <br>2. Basic solutions have pH **less than 7**.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Fundamental pH scale reversal trap — acidic < 7, basic > 7.
 
 **Ans: B.** Both statements reverse the scale — **acidic < 7**, **basic > 7**.
 
-**Trap:** Statement 1 alone sounds plausible if you confuse "more acid" with "higher number" — pH numbers **decrease** as acidity rises.
+**Trap:** Statement 1 alone sounds plausible if you confuse "more acid" with "higher number" — pH numbers **decrease** as acidity rises.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Which of the following gas/gases is/are **lighter than air**?
-
-1. Hydrogen chloride 
-2. Sulfur dioxide 
-3. Helium 
-
-A. 1 and 2 only 
-B. 3 only 
-C. 2 and 3 only 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Molecular weight vs air (≈29 g/mol) — HCl and SO₂ are heavier; helium is lighter.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following gas/gases is/are **lighter than air**?<br><br>1. Hydrogen chloride <br>2. Sulfur dioxide <br>3. Helium</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Molecular weight vs air (≈29 g/mol) — HCl and SO₂ are heavier; helium is lighter.
 
 **Ans: B.** Only **helium** is lighter than air; **HCl** and **SO₂** are denser and accumulate near ground.
 
-**Trap:** SO₂ is linked to acid rain but is **heavier than air** — do not assume all acid-rain gases rise quickly.
+**Trap:** SO₂ is linked to acid rain but is **heavier than air** — do not assume all acid-rain gases rise quickly.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-Consider the following statements about **lichens**:
-
-1. Lichens are very good indicators of air pollution. 
-2. Lichens grow well in polluted areas. 
-
-A. 2 only 
-B. Neither 1 nor 2 
-C. Both 1 and 2 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bio-indicator sensitivity to SO₂ — presence signals clean air; absence signals pollution.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about **lichens**:<br><br>1. Lichens are very good indicators of air pollution. <br>2. Lichens grow well in polluted areas.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bio-indicator sensitivity to SO₂ — presence signals clean air; absence signals pollution.
 
 **Ans: D.** Lichens indicate pollution levels but **decline or die** in high SO₂ — they do not thrive there.
 
-**Trap:** "Good indicator" does not mean "grows well in pollution" — sensitivity means **loss**, not growth.
+**Trap:** "Good indicator" does not mean "grows well in pollution" — sensitivity means **loss**, not growth.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Normal unpolluted rain is slightly acidic (pH ≈ **5.6**) primarily because of dissolved—
-
-A. Sulphur dioxide from coal plants 
-B. **Carbon dioxide** forming weak carbonic acid 
-C. Nitrogen oxides from vehicles 
-D. Hydrochloric acid from volcanoes 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Natural rain acidity vs anthropogenic acid rain — CO₂ equilibrium vs SO₂/NOx strong acids.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Normal unpolluted rain is slightly acidic (pH ≈ **5.6**) primarily because of dissolved—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sulphur dioxide from coal plants</div><div class="pyq-opt"><span class="opt-letter">B</span> **Carbon dioxide** forming weak carbonic acid</div><div class="pyq-opt"><span class="opt-letter">C</span> Nitrogen oxides from vehicles</div><div class="pyq-opt"><span class="opt-letter">D</span> Hydrochloric acid from volcanoes</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Natural rain acidity vs anthropogenic acid rain — CO₂ equilibrium vs SO₂/NOx strong acids.
 
 **Ans: B.** Atmospheric **CO₂** dissolves to form weak **H₂CO₃**, giving natural rain pH about **5.6**.
 
-**Trap:** **SO₂/NOx** cause severe acid rain (pH < 5.6) — CO₂ alone cannot drop rain to ~4.
+**Trap:** **SO₂/NOx** cause severe acid rain (pH < 5.6) — CO₂ alone cannot drop rain to ~4.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-**Acid rain** is primarily caused by atmospheric emissions of—
-
-A. CO₂ and methane 
-B. **SO₂ and NOx** 
-C. CFCs and halons 
-D. Ozone and PAN only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Primary acid-rain precursors form H₂SO₄ and HNO₃ in the atmosphere.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">**Acid rain** is primarily caused by atmospheric emissions of—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> CO₂ and methane</div><div class="pyq-opt"><span class="opt-letter">B</span> **SO₂ and NOx**</div><div class="pyq-opt"><span class="opt-letter">C</span> CFCs and halons</div><div class="pyq-opt"><span class="opt-letter">D</span> Ozone and PAN only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Primary acid-rain precursors form H₂SO₄ and HNO₃ in the atmosphere.
 
 **Ans: B.** **SO₂** (coal, smelters) and **NOx** (vehicles, high-temperature combustion) are the main acid-rain precursors.
 
-**Trap:** CO₂ is emitted with coal but produces only **weak** acidity — not the main anthropogenic acid-rain driver.
+**Trap:** CO₂ is emitted with coal but produces only **weak** acidity — not the main anthropogenic acid-rain driver.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-**Flue Gas Desulphurisation (FGD)** scrubbers are installed mainly at—
-
-A. Vehicle exhaust pipes 
-B. **Thermal power plant chimneys** 
-C. Municipal landfill vents 
-D. Agricultural field boundaries 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** FGD hardware removes SO₂ from stack gas before release — TPP acid-rain prevention.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">**Flue Gas Desulphurisation (FGD)** scrubbers are installed mainly at—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vehicle exhaust pipes</div><div class="pyq-opt"><span class="opt-letter">B</span> **Thermal power plant chimneys**</div><div class="pyq-opt"><span class="opt-letter">C</span> Municipal landfill vents</div><div class="pyq-opt"><span class="opt-letter">D</span> Agricultural field boundaries</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** FGD hardware removes SO₂ from stack gas before release — TPP acid-rain prevention.
 
 **Ans: B.** FGD passes flue gas through lime/limestone slurry at **coal thermal power plants**, removing **90%+ SO₂**.
 
-**Trap:** Vehicle NOx uses **catalytic converters**, not FGD scrubbers.
+**Trap:** Vehicle NOx uses **catalytic converters**, not FGD scrubbers.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-Yellowing and pitting of the **Taj Mahal** marble is primarily attributed to—
-
-A. Carbon dioxide from tourist breathing 
-B. **SO₂ pollution** and acid deposition forming gypsum crust 
-C. Ozone hole ultraviolet alone 
-D. Plastic waste micro-abrasion only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Taj Trapezium classic case — sulphuric acid attack on calcium carbonate marble.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Yellowing and pitting of the **Taj Mahal** marble is primarily attributed to—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Carbon dioxide from tourist breathing</div><div class="pyq-opt"><span class="opt-letter">B</span> **SO₂ pollution** and acid deposition forming gypsum crust</div><div class="pyq-opt"><span class="opt-letter">C</span> Ozone hole ultraviolet alone</div><div class="pyq-opt"><span class="opt-letter">D</span> Plastic waste micro-abrasion only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Taj Trapezium classic case — sulphuric acid attack on calcium carbonate marble.
 
 **Ans: B.** **SO₂** from Mathura refinery and Firozabad industries caused **gypsum (CaSO₄) crust** on marble — acid deposition damage.
 
-**Trap:** CO₂ is present everywhere but **SO₂ + acid rain** is the documented Taj damage pathway.
+**Trap:** CO₂ is present everywhere but **SO₂ + acid rain** is the documented Taj damage pathway.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to acid rain, which of the following statements is/are correct?<br><br>1. Acid rain means wet or dry acidic deposition with pH below 5.6.<br>2. Normal unpolluted rain is exactly pH 7 because CO₂ never dissolves in rain.<br>3. Normal rain is exactly pH 7.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
 
-**Q9.** With reference to acid rain, which of the following statements is/are correct?
+**Logic:** Statement 1 is the acid-rain <5.6 definition. Statement 2 is false — normal rain is already ~pH 5.6 from CO₂ → H₂CO₃. Statement 3 repeats the pH-7 trap.</div>
+  </div>
+</div>
 
-1. Acid rain means wet or dry acidic deposition with pH below 5.6.
-2. Normal unpolluted rain is exactly pH 7 because CO₂ never dissolves in rain.
-3. Normal rain is exactly pH 7.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Wet deposition</td><td><span class="match-key">1</span> Gases/particles without rain</td></tr>
+      <tr><td><span class="match-key">B</span> Dry deposition</td><td><span class="match-key">2</span> Acids in rain/snow/fog</td></tr>
+      <tr><td><span class="match-key">C</span> SO₂ path</td><td><span class="match-key">3</span> → H₂SO₄</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
 
-A. 2 and 3
-B. Only 1
-C. 1 and 2
-D. Only 3
+**Logic:** Wet rain; dry particles; SO₂→H₂SO₄.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. NOx → HNO₃ comes mainly from quiet soil respiration, never from vehicles or high-temperature combustion.<br>2. SO₂ → H₂SO₄ — coal TPPs, smelters, refineries<br>3. CO₂ → severe acid rain main culprit</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
 
-**Ans: B.** Only 1 is correct.
+**Logic:** Statement 2 is true (SO₂ → H₂SO₄ from coal TPPs/smelters). Statement 1 denies the vehicle/combustion NOx pathway. Statement 3 is false — CO₂ sets weak baseline rain, not severe acid rain.</div>
+  </div>
+</div>
 
-**Logic:** Statement 1 is the acid-rain <5.6 definition. Statement 2 is false — normal rain is already ~pH 5.6 from CO₂ → H₂CO₃. Statement 3 repeats the pH-7 trap.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Freshwater below about pH 5 stresses fish and can release toxic Al³⁺.<br><br>Reason (R): Each pH step down multiplies H⁺ by 10.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; logarithmic scale fact does not specifically explain fish/Al³⁺ stress.
 
-</details>
+**A/R logic:** Related chemistry; R not the biological explanation.</div>
+  </div>
+</div>
 
-**Q10.** Match List-I with List-II:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to receptors, which of the following statements is/are correct?<br><br>1. Conifers are among the least sensitive forest receptors to acid deposition.<br>2. Marble/limestone can form gypsum crust under sulphuric attack.<br>3. Lichens thrive best in high SO₂ air.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
 
-| List-I | List-II |
-|--------|--------|
-| A. Wet deposition | 1. Gases/particles without rain |
-| B. Dry deposition | 2. Acids in rain/snow/fog |
-| C. SO₂ path | 3. → H₂SO₄ |
+**Logic:** Statement 2 is true (marble/limestone → gypsum crust). Statement 1 is false — conifers are especially sensitive. Statement 3 is false — lichens decline in high SO₂ air.</div>
+  </div>
+</div>
 
-Code:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange prevention tools teaching:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only ban all rain</div><div class="pyq-opt"><span class="opt-letter">B</span> FGD scrubbers, catalytic converters, low-sulphur coal, cleaner fuels/BS-VI</div><div class="pyq-opt"><span class="opt-letter">C</span> Increase SO₂ emissions only</div><div class="pyq-opt"><span class="opt-letter">D</span> Remove all oxygen from air</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> FGD, converters, cleaner fuels.
 
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-1, C-2
+**Logic:** Standard prevention set.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Gothenburg Protocol — acidifying emissions under CLRTAP family<br>2. Montreal — ozone ODS<br>3. Gothenburg — identical to Montreal ozone treaty</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only pair 3 is not correctly matched.
 
-**Ans: C.** A-2, B-1, C-3.
-
-**Logic:** Wet rain; dry particles; SO₂→H₂SO₄.
-
-</details>
-
-**Q11.** Which of the following pairs is/are correctly matched?
-
-1. NOx → HNO₃ comes mainly from quiet soil respiration, never from vehicles or high-temperature combustion.
-2. SO₂ → H₂SO₄ — coal TPPs, smelters, refineries
-3. CO₂ → severe acid rain main culprit
-
-A. Only 2
-B. 1 and 3
-C. Only 1
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Statement 2 is true (SO₂ → H₂SO₄ from coal TPPs/smelters). Statement 1 denies the vehicle/combustion NOx pathway. Statement 3 is false — CO₂ sets weak baseline rain, not severe acid rain.
-
-</details>
-
-**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Freshwater below about pH 5 stresses fish and can release toxic Al³⁺.
-
-Reason (R): Each pH step down multiplies H⁺ by 10.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; logarithmic scale fact does not specifically explain fish/Al³⁺ stress.
-
-**A/R logic:** Related chemistry; R not the biological explanation.
-
-</details>
-
-**Q13.** With reference to receptors, which of the following statements is/are correct?
-
-1. Conifers are among the least sensitive forest receptors to acid deposition.
-2. Marble/limestone can form gypsum crust under sulphuric attack.
-3. Lichens thrive best in high SO₂ air.
-
-A. 1 and 3
-B. Only 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Statement 2 is true (marble/limestone → gypsum crust). Statement 1 is false — conifers are especially sensitive. Statement 3 is false — lichens decline in high SO₂ air.
-
-</details>
-
-**Q14.** Arrange prevention tools teaching:
-
-A. Only ban all rain
-B. FGD scrubbers, catalytic converters, low-sulphur coal, cleaner fuels/BS-VI
-C. Increase SO₂ emissions only
-D. Remove all oxygen from air
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** FGD, converters, cleaner fuels.
-
-**Logic:** Standard prevention set.
-
-</details>
-
-**Q15.** Which of the following pairs is/are NOT correctly matched?
-
-1. Gothenburg Protocol — acidifying emissions under CLRTAP family
-2. Montreal — ozone ODS
-3. Gothenburg — identical to Montreal ozone treaty
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only pair 3 is not correctly matched.
-
-**Logic:** Different problems.
-
-</details>
+**Logic:** Different problems.</div>
+  </div>
+</div>

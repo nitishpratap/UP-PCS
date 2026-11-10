@@ -173,22 +173,6 @@ hide:
 | **"City of Canals"** | **Venice** (Italy) |
 | **"Horn of Africa"** | **Somalia, Ethiopia, Eritrea, Djibouti** (**SEED**) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Territorial Sea (12 nm)** | **Exclusive Economic Zone (200 nm)** | Coastal state has **full sovereign territorial authority** (including airspace and seabed) vs Coastal state has **exclusive economic rights to exploit marine living & non-living resources** only | प्रादेशिक समुद्र (12 समुद्री मील) / अनन्य आर्थिक क्षेत्र (200 समुद्री मील) |
-| **Contiguous Zone (24 nm)** | **Territorial Sea (12 nm)** | Coastal state exercises **customs, fiscal, immigration, and sanitary jurisdiction** up to 24 nm from baselines vs Full sovereign territorial waters | संलग्न क्षेत्र (24 nm) / प्रादेशिक जल |
-| **Bosphorus Strait** | **Dardanelles Strait** | Connects **Black Sea with Sea of Marmara** (divides Istanbul) vs Connects **Sea of Marmara with Aegean Sea** (Gallipoli) | बॉस्फोरस / डार्डानेल्स |
-| **Strait of Hormuz** | **Bab-el-Mandeb** | Chokepoint connecting **Persian Gulf with Gulf of Oman** (Iran/Oman) vs Chokepoint connecting **Red Sea with Gulf of Aden** (Yemen/Djibouti) | हॉर्मुज / बाब-अल-मंदेब |
-| **49th Parallel** | **38th Parallel** | Undefended international boundary between **USA and Canada** vs Heavily fortified Demilitarized Zone (DMZ) between **North Korea and South Korea** | 49वीं समानांतर रेखा / 38वीं समानांतर रेखा |
-| **Radcliffe Line** | **McMahon Line** | Boundary between **India and Pakistan / Bangladesh** (1947) vs Boundary between **India (Arunachal Pradesh) and China/Tibet** (1914) | रेडक्लिफ / मैकमोहन रेखा |
-| **Durand Line** | **McMahon Line** | Boundary between **Pakistan and Afghanistan** (1893) vs Boundary between **India and China** (1914) | डूरंड / मैकमोहन रेखा |
-| **Doubly Landlocked** | **Landlocked** | Surrounded **entirely by other landlocked countries** (Only 2 in world: **Liechtenstein and Uzbekistan**) vs Surrounded by land but bordering countries have ocean coasts | दोहरा भू-आवेष्ठित / भू-आवेष्ठित देश |
-| **Bolivia & Paraguay** | **Uruguay** | The only **two landlocked nations** in South America vs Atlantic coastal country south of Brazil | बोलीविया-पराग्वे / उरुग्वे |
-| **Horn of Africa (SEED)** | **Balkans** | Somalia, Ethiopia, Eritrea, Djibouti in East Africa vs Southeast European peninsula (Greece, Albania, Bulgaria, Serbia, etc.) | हॉर्न ऑफ अफ्रीका / बाल्कन प्रायद्वीप |
-| **Equator (0°)** | **Prime Meridian (0°)** | Circles the middle of Earth horizontally crossing 13 nations vs Vertical reference line passing through Greenwich, London and 8 nations; meet in **Gulf of Guinea** | भूमध्य रेखा / प्रधान मध्याह्न रेखा |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. UNCLOS Maritime Zones from Baseline:
@@ -220,375 +204,357 @@ hide:
 ### 6. Intersecting Point of Equator and Prime Meridian:
 - **0° Latitude, 0° Longitude** lies in the **Gulf of Guinea (Atlantic Ocean)**, off the coast of West Africa.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Under UNCLOS, which of the following distances is/are correctly matched?
-
-1. Territorial sea — 12 nm
-2. Contiguous zone — 24 nm
-3. EEZ — 200 nm
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three are correct.
-
-**Logic:** Shelf may extend to 350 nm for seabed rights, but that does not widen EEZ water beyond 200.
-
-</details>
-
-**Q2.**
-Innocent passage and transit passage are correctly distinguished as:
-
-A. Innocent passage — international straits; transit passage — territorial sea
-B. Innocent passage — territorial sea; transit passage — international straits
-C. Both apply only on the high seas
-D. Both apply only inside internal waters
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Innocent passage = territorial sea; transit passage = international straits.
-
-**Logic:** Transit passage is stronger and cannot be switched off like innocent passage.
-
-</details>
-
-**Q3.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Line) | List-II (Association) |
-|---|---|
-| 1. McMahon Line | A. Pakistan–Afghanistan (1893) |
-| 2. Durand Line | B. India–China (1914) |
-| 3. Radcliffe Line | C. USA–Canada (long stretch) |
-| 4. 49th Parallel | D. 1947 India–Pakistan/Bangladesh |
-
-*Row order is not the answer code.*
-
-A. 1-B, 2-A, 3-D, 4-C
-B. 1-A, 2-B, 3-D, 4-C
-C. 1-B, 2-A, 3-C, 4-D
-D. 1-D, 2-A, 3-B, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** McMahon–India–China 1914; Durand–Pak–Afghanistan 1893; Radcliffe–1947; 49th–USA–Canada.
-
-**Logic:** 38th Parallel ≈ Koreas; Rio Grande ≈ USA–Mexico; Oder–Neisse ≈ Germany–Poland.
-
-</details>
-
-**Q4.**
-Assertion (A): India’s longest land border is with Bangladesh.
-Reason (R): India’s shortest land border in the usual teaching frame is with Afghanistan.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both are true, but R does not explain A.
-
-**A/R logic:** Both true; shortest≠reason for longest.
-
-</details>
-
-**Q5.**
-Which one of the following correctly states India’s mainland latitudinal extent?
-
-A. 6°45′N to 37°6′N
-B. 8°4′N to 37°6′N
-C. 8°4′N to 36°12′N
-D. 6°4′N to 36°7′N
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Mainland ≈ 8°4′N to 37°6′N.
-
-**Logic:** 6°4′N is Indira Point (islands), not mainland Kanyakumari.
-
-</details>
-
-**Q6.**
-Which one of the following is NOT correctly matched?
-
-A. Uzbekistan — Tashkent
-B. Tajikistan — Dushanbe
-C. Kyrgyzstan — Bishkek
-D. Cape Verde — Bamako
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Cape Verde capital is Praia; Bamako is Mali.
-
-**Logic:** Turkmenistan = Ashgabat; Kazakhstan capital = Astana (not Almaty).
-
-</details>
-
-**Q7.**
-With reference to landlocked states, which of the following statements is/are correct?
-
-1. Laos is the only classic landlocked sovereign state in mainland Southeast Asia.
-2. Uzbekistan and Liechtenstein are the common double-landlocked pair.
-3. Bolivia is landlocked among common South America traps.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** Largest landlocked by area = Kazakhstan; most populous landlocked = Ethiopia; Lesotho = SA enclave.
-
-</details>
-
-**Q8.**
-Which strait is the classic Persian Gulf oil chokepoint?
-
-A. Malacca
-B. Hormuz
-C. Bosporus
-D. Gibraltar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Hormuz.
-
-**Logic:** Malacca = Indian Ocean–South China Sea; Gibraltar = Med–Atlantic; Bosporus = Black Sea–Marmara.
-
-</details>
-
-**Q9.**
-India’s area rank and land-share teaching pair is:
-
-A. 6th largest; about 2.4% of world land
-B. 7th largest; about 2.4% of world land
-C. 7th largest; about 4.2% of world land
-D. 5th largest; wholly tropical
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** India is 7th; about 2.4% of world land; Tropic through the middle — not wholly tropical.
-
-**Logic:** Tropic of Cancer does not cross Uttar Pradesh.
-
-</details>
-
-**Q10.**
-Which one of the following old→new name pairs is NOT correctly matched?
-
-A. Siam → Thailand
-B. Formosa → Taiwan
-C. Gold Coast → Ghana
-D. Dutch Guiana → Guyana
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Dutch Guiana → Suriname; British Guiana → Guyana.
-
-**Logic:** Southern Rhodesia → Zimbabwe; Ceylon → Sri Lanka; Burma → Myanmar.
-
-</details>
-
-**Q11.**
-Horn of Africa correctly includes:
-
-A. Djibouti, Eritrea, Ethiopia, Somalia
-B. Djibouti, Eritrea, Ethiopia, Sudan
-C. Ethiopia, Somalia, Kenya, Sudan
-D. Somalia, Yemen, Oman, Eritrea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Djibouti, Eritrea, Ethiopia, Somalia — not Sudan.
-
-**Logic:** Austria is not Balkan; Indonesia is not Oceania; Caspian five exclude Armenia/Iraq.
-
-</details>
-
-**Q12.**
-Assertion (A): Mediterranean climate (Köppen Cs) receives rain mainly in winter.
-Reason (R): Thornthwaite argued that vegetation is the true index of climate, while Köppen uses letter-code classes.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true, but R does not explain A.
-
-**A/R logic:** A true (winter rain). R true as a separate classification fact, not the cause of Cs winter rain.
-
-</details>
-
-**Q13.**
-Which sobriquet pair is correctly matched?
-
-A. Land of the Midnight Sun — Japan
-B. Land of the Rising Sun — Norway
-C. Thousand Lakes — Finland
-D. Morning Calm — Thailand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Finland = Thousand Lakes.
-
-**Logic:** Midnight Sun = Norway; Rising Sun = Japan; Morning Calm = Korea; White Elephants = Thailand.
-
-</details>
-
-**Q14.**
-Consider the following pairs:
-
-1. Pamir — Roof of the World
-2. Baikal — Pearl of Siberia
-3. Aberdeen — Oil Capital of Europe
-
-Which of the pairs given above is/are correctly matched?
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three pairs are correct.
-
-**Logic:** Ninety East Ridge = Indian Ocean; Bahrain = Island of Pearls.
-
-</details>
-
-**Q15.**
-Which canal joins the Atlantic/Caribbean and the Pacific?
-
-A. Suez
-B. Kiel
-C. Panama
-D. Suez and Kiel
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Panama (stepped chambers / Gatun Lake).
-
-**Logic:** Suez = Med–Red; Kiel = North Sea–Baltic.
-
-</details>
-
-**Q16.**
-Uttar Pradesh’s only foreign neighbour is:
-
-A. China
-B. Bhutan
-C. Nepal
-D. Bangladesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Nepal only.
-
-**Logic:** India has seven land neighbours; maritime neighbours are Sri Lanka and Maldives.
-
-</details>
-
-**Q17.**
-Which one of the following continent–highest-peak pairs is NOT correctly matched in the usual coaching bank?
-
-A. Asia — Everest
-B. Australia (continent) — Denali
-C. South America — Aconcagua
-D. Africa — Kilimanjaro
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Denali is North America; Australia continent peak is Kosciuszko (Carstensz if Oceania framing).
-
-**Logic:** Europe coaching peak often Elbrus; Antarctica Vinson.
-
-</details>
-
-**Q18.**
-With reference to rivers and lakes, which of the following statements is/are correct?
-
-1. The Volga drains to the Caspian Sea.
-2. Baikal is the deepest / largest-freshwater-by-volume lake in Siberia.
-3. The Rhine drains to the Mediterranean.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Rhine → North Sea; Danube → Black Sea; Nile → Mediterranean.
-
-</details>
-
-**Q19.**
-Which one of the following is correctly matched?
-
-A. Greenland — independent continent
-B. Baikonur — Ukraine
-C. Gaza — borders Egypt and Israel
-D. Afghanistan — borders Russia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Gaza borders Egypt and Israel.
-
-**Logic:** Greenland = Denmark politically / N America geographically; Baikonur = Kazakhstan; Afghanistan does not border Russia.
-
-</details>
-
-**Q20.**
-Köppen code Cs is best read as:
-
-A. Equatorial rainforest
-B. Hot desert
-C. Mediterranean winter rain
-D. Ice cap
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Cs = Mediterranean winter rain.
-
-**Logic:** Af = equatorial rainforest; BWh = hot desert; Cfb = marine west-coast all-year rain; ET/EF = tundra/ice.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Under UNCLOS, which of the following distances is/are correctly matched?<br><br>1. Territorial sea — 12 nm<br>2. Contiguous zone — 24 nm<br>3. EEZ — 200 nm</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three are correct.
+
+**Logic:** Shelf may extend to 350 nm for seabed rights, but that does not widen EEZ water beyond 200.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Innocent passage and transit passage are correctly distinguished as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Innocent passage — international straits; transit passage — territorial sea</div><div class="pyq-opt"><span class="opt-letter">B</span> Innocent passage — territorial sea; transit passage — international straits</div><div class="pyq-opt"><span class="opt-letter">C</span> Both apply only on the high seas</div><div class="pyq-opt"><span class="opt-letter">D</span> Both apply only inside internal waters</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Innocent passage = territorial sea; transit passage = international straits.
+
+**Logic:** Transit passage is stronger and cannot be switched off like innocent passage.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Line)</th><th>List-II (Association)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> McMahon Line</td><td><span class="match-key">A</span> Pakistan–Afghanistan (1893)</td></tr>
+      <tr><td><span class="match-key">2</span> Durand Line</td><td><span class="match-key">B</span> India–China (1914)</td></tr>
+      <tr><td><span class="match-key">3</span> Radcliffe Line</td><td><span class="match-key">C</span> USA–Canada (long stretch)</td></tr>
+      <tr><td><span class="match-key">4</span> 49th Parallel</td><td><span class="match-key">D</span> 1947 India–Pakistan/Bangladesh</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-B, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> McMahon–India–China 1914; Durand–Pak–Afghanistan 1893; Radcliffe–1947; 49th–USA–Canada.
+
+**Logic:** 38th Parallel ≈ Koreas; Rio Grande ≈ USA–Mexico; Oder–Neisse ≈ Germany–Poland.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): India’s longest land border is with Bangladesh.<br>Reason (R): India’s shortest land border in the usual teaching frame is with Afghanistan.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true, but R does not explain A.
+
+**A/R logic:** Both true; shortest≠reason for longest.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following correctly states India’s mainland latitudinal extent?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 6°45′N to 37°6′N</div><div class="pyq-opt"><span class="opt-letter">B</span> 8°4′N to 37°6′N</div><div class="pyq-opt"><span class="opt-letter">C</span> 8°4′N to 36°12′N</div><div class="pyq-opt"><span class="opt-letter">D</span> 6°4′N to 36°7′N</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mainland ≈ 8°4′N to 37°6′N.
+
+**Logic:** 6°4′N is Indira Point (islands), not mainland Kanyakumari.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Uzbekistan — Tashkent</div><div class="pyq-opt"><span class="opt-letter">B</span> Tajikistan — Dushanbe</div><div class="pyq-opt"><span class="opt-letter">C</span> Kyrgyzstan — Bishkek</div><div class="pyq-opt"><span class="opt-letter">D</span> Cape Verde — Bamako</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cape Verde capital is Praia; Bamako is Mali.
+
+**Logic:** Turkmenistan = Ashgabat; Kazakhstan capital = Astana (not Almaty).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to landlocked states, which of the following statements is/are correct?<br><br>1. Laos is the only classic landlocked sovereign state in mainland Southeast Asia.<br>2. Uzbekistan and Liechtenstein are the common double-landlocked pair.<br>3. Bolivia is landlocked among common South America traps.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Largest landlocked by area = Kazakhstan; most populous landlocked = Ethiopia; Lesotho = SA enclave.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which strait is the classic Persian Gulf oil chokepoint?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Malacca</div><div class="pyq-opt"><span class="opt-letter">B</span> Hormuz</div><div class="pyq-opt"><span class="opt-letter">C</span> Bosporus</div><div class="pyq-opt"><span class="opt-letter">D</span> Gibraltar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hormuz.
+
+**Logic:** Malacca = Indian Ocean–South China Sea; Gibraltar = Med–Atlantic; Bosporus = Black Sea–Marmara.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">India’s area rank and land-share teaching pair is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 6th largest; about 2.4% of world land</div><div class="pyq-opt"><span class="opt-letter">B</span> 7th largest; about 2.4% of world land</div><div class="pyq-opt"><span class="opt-letter">C</span> 7th largest; about 4.2% of world land</div><div class="pyq-opt"><span class="opt-letter">D</span> 5th largest; wholly tropical</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> India is 7th; about 2.4% of world land; Tropic through the middle — not wholly tropical.
+
+**Logic:** Tropic of Cancer does not cross Uttar Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which one of the following old→new name pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Siam → Thailand</div><div class="pyq-opt"><span class="opt-letter">B</span> Formosa → Taiwan</div><div class="pyq-opt"><span class="opt-letter">C</span> Gold Coast → Ghana</div><div class="pyq-opt"><span class="opt-letter">D</span> Dutch Guiana → Guyana</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Dutch Guiana → Suriname; British Guiana → Guyana.
+
+**Logic:** Southern Rhodesia → Zimbabwe; Ceylon → Sri Lanka; Burma → Myanmar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Horn of Africa correctly includes:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Djibouti, Eritrea, Ethiopia, Somalia</div><div class="pyq-opt"><span class="opt-letter">B</span> Djibouti, Eritrea, Ethiopia, Sudan</div><div class="pyq-opt"><span class="opt-letter">C</span> Ethiopia, Somalia, Kenya, Sudan</div><div class="pyq-opt"><span class="opt-letter">D</span> Somalia, Yemen, Oman, Eritrea</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Djibouti, Eritrea, Ethiopia, Somalia — not Sudan.
+
+**Logic:** Austria is not Balkan; Indonesia is not Oceania; Caspian five exclude Armenia/Iraq.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Mediterranean climate (Köppen Cs) receives rain mainly in winter.<br>Reason (R): Thornthwaite argued that vegetation is the true index of climate, while Köppen uses letter-code classes.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true, but R does not explain A.
+
+**A/R logic:** A true (winter rain). R true as a separate classification fact, not the cause of Cs winter rain.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which sobriquet pair is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Land of the Midnight Sun — Japan</div><div class="pyq-opt"><span class="opt-letter">B</span> Land of the Rising Sun — Norway</div><div class="pyq-opt"><span class="opt-letter">C</span> Thousand Lakes — Finland</div><div class="pyq-opt"><span class="opt-letter">D</span> Morning Calm — Thailand</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Finland = Thousand Lakes.
+
+**Logic:** Midnight Sun = Norway; Rising Sun = Japan; Morning Calm = Korea; White Elephants = Thailand.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>1. Pamir — Roof of the World<br>2. Baikal — Pearl of Siberia<br>3. Aberdeen — Oil Capital of Europe<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three pairs are correct.
+
+**Logic:** Ninety East Ridge = Indian Ocean; Bahrain = Island of Pearls.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which canal joins the Atlantic/Caribbean and the Pacific?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Suez</div><div class="pyq-opt"><span class="opt-letter">B</span> Kiel</div><div class="pyq-opt"><span class="opt-letter">C</span> Panama</div><div class="pyq-opt"><span class="opt-letter">D</span> Suez and Kiel</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Panama (stepped chambers / Gatun Lake).
+
+**Logic:** Suez = Med–Red; Kiel = North Sea–Baltic.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Uttar Pradesh’s only foreign neighbour is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> China</div><div class="pyq-opt"><span class="opt-letter">B</span> Bhutan</div><div class="pyq-opt"><span class="opt-letter">C</span> Nepal</div><div class="pyq-opt"><span class="opt-letter">D</span> Bangladesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nepal only.
+
+**Logic:** India has seven land neighbours; maritime neighbours are Sri Lanka and Maldives.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which one of the following continent–highest-peak pairs is NOT correctly matched in the usual coaching bank?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Asia — Everest</div><div class="pyq-opt"><span class="opt-letter">B</span> Australia (continent) — Denali</div><div class="pyq-opt"><span class="opt-letter">C</span> South America — Aconcagua</div><div class="pyq-opt"><span class="opt-letter">D</span> Africa — Kilimanjaro</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Denali is North America; Australia continent peak is Kosciuszko (Carstensz if Oceania framing).
+
+**Logic:** Europe coaching peak often Elbrus; Antarctica Vinson.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to rivers and lakes, which of the following statements is/are correct?<br><br>1. The Volga drains to the Caspian Sea.<br>2. Baikal is the deepest / largest-freshwater-by-volume lake in Siberia.<br>3. The Rhine drains to the Mediterranean.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Rhine → North Sea; Danube → Black Sea; Nile → Mediterranean.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Greenland — independent continent</div><div class="pyq-opt"><span class="opt-letter">B</span> Baikonur — Ukraine</div><div class="pyq-opt"><span class="opt-letter">C</span> Gaza — borders Egypt and Israel</div><div class="pyq-opt"><span class="opt-letter">D</span> Afghanistan — borders Russia</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Gaza borders Egypt and Israel.
+
+**Logic:** Greenland = Denmark politically / N America geographically; Baikonur = Kazakhstan; Afghanistan does not border Russia.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Köppen code Cs is best read as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Equatorial rainforest</div><div class="pyq-opt"><span class="opt-letter">B</span> Hot desert</div><div class="pyq-opt"><span class="opt-letter">C</span> Mediterranean winter rain</div><div class="pyq-opt"><span class="opt-letter">D</span> Ice cap</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cs = Mediterranean winter rain.
+
+**Logic:** Af = equatorial rainforest; BWh = hot desert; Cfb = marine west-coast all-year rain; ET/EF = tundra/ice.</div>
+  </div>
+</div>

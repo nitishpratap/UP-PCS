@@ -165,21 +165,6 @@ hide:
 | **Citrus (Lemon)** | **Citrus Canker** | *Xanthomonas axonopodis pv. citri* | Bacterial | Raised corky necrotic brown lesions on leaves, twigs, and fruit |
 | **Bhindi (Okra)** | **Yellow Vein Mosaic** | Bhendi Yellow Vein Mosaic Virus (BYVMV)| Viral (transmitted by Whitefly *Bemisia*) | Brilliant yellow network of veins against green leaf lamina |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Potato (Underground Tuber)**| **Sweet Potato (Tuberous Root)**| **Potato is a modified STEM (Tuber)** with nodes, internodes, and "eyes" (buds). **Sweet potato is a modified ROOT (Adventitious Tuber)** lacking nodes and scale leaves. | आलू = रूपांतरित तना (Tuber); शकरकंद = रूपांतरित जड़ (Root) |
-| **Onion Edible Part** | **Garlic Cloves** | In Onion and Garlic, the edible edible portion consists of **fleshy scale leaf bases** attached to a reduced discoid stem, storing sugar and sulfur compounds. | प्याज व लहसुन का खाने योग्य भाग = गूदेदार शल्क पत्र (Fleshy scale leaves) |
-| **Turmeric & Ginger** | **Root Vegetable Confusion**| Both Turmeric and Ginger are underground **Rhizomes (modified stems)** bearing distinct nodes, internodes, and scale leaves; they are NOT roots. | हल्दी व अदरक = राइजोम (भूमिगत रूपांतरित तना), न कि जड़ |
-| **Saffron (Kesar) Spice** | **Turmeric Spice** | **Saffron** consists of the dried delicate **stigmas and styles of the flower** of *Crocus sativus*. **Turmeric** is derived from the crushed underground **rhizome stem** of *Curcuma longa*. | केसर = फूल की वर्तिका व वर्तिकाग्र (Stigma & Style); हल्दी = प्रकंद (Rhizome) |
-| **Clove Spice (Laung)** | **Fruit / Seed Spice** | **Clove** is the aromatic dried unopened **flower bud** of *Syzygium aromaticum*; it is NOT a dried seed or berry. | लौंग = शुष्क बिना खिली पुष्प कलिका (Dried flower bud) |
-| **$C_3$ Crop Efficiency** | **$C_4$ Crop Photosynthesis** | $C_4$ plants (**Maize, Sugarcane, Millets**) possess **Kranz anatomy** and have **zero photorespiration**, yielding far higher biomass at high temperatures compared to $C_3$ crops (Rice, Wheat). | $C_4$ पौधे (मक्का, गन्ना) में क्रैंज शारीरिकी होती है तथा प्रकाश-श्वसन शून्य होता है |
-| **Khaira Disease of Rice** | **Fungal Blast of Rice** | **Khaira disease** is strictly an abiotic **Zinc ($Zn$) deficiency**, not a pathogen infection. Rice Blast is caused by the fungus *Magnaporthe oryzae*. | खैरा रोग = जिंक (जस्ता) की कमी; ब्लास्ट = कवक जनित रोग |
-| **Ethylene (Ripening)** | **Acetylene from Carbide** | **Ethylene is a natural gaseous plant hormone**. Commercial traders often use hazardous industrial **Calcium carbide ($CaC_2$)**, which reacts with moisture to release **Acetylene ($C_2H_2$) gas** (traces of toxic arsenic and phosphorus). | प्राकृतिक फल पकाने वाला हार्मोन = एथिलीन; कार्बाइड से निकलने वाली गैस = एसिटिलीन |
-| **Insectivorous Plants** | **Heterotrophic Parasite Myth**| Insectivorous plants (Pitcher plant *Nepenthes*, Sundew *Drosera*, Bladderwort *Utricularia*) are **green autotrophic plants** with chlorophyll; they trap insects strictly to obtain **Nitrogen** from nitrogen-deficient bogs. | कीटभक्षी पौधे स्वपोषी होते हैं; कीटों का भक्षण केवल नाइट्रोजन की पूर्ति हेतु करते हैं |
-| **Root Pressure** | **Transpiration Pull** | Root pressure is active osmotic pressure in root xylem pushing water up a few feet (causes **guttation** through hydathodes). Tall tree sap ascent ($>100	ext{ meters}$) is driven by physical **Transpiration Pull (Cohesion-Tension theory)**. | बिंदुस्राव (Guttation) = मूल दाब; ऊंचे वृक्षों में रसारोहण = वाष्पोत्सर्जन कर्षण |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Plant Hormone Functions: **A-G-C-E-A**
@@ -205,264 +190,272 @@ hide:
 > **"Nepenthes, Drosera, Utricularia"**
 - Trap insects strictly for **Nitrogen ($N_2$)**, NOT for carbohydrates (they have chlorophyll!).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to plant tissues and transport, which of the following statements is/are correct?
-1. Tracheids and vessels are the dead water-conducting elements of xylem.
-2. Sieve tube elements are enucleated at maturity yet remain metabolically living.
-3. Translocation of sugars in phloem is strictly unidirectional from roots to leaves.
-
-Select the correct answer from the code given below:  
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statements 1 and 2 are correct: Tracheids and vessels are dead lignified xylem tubes; mature sieve tube elements lack nuclei but are maintained living by adjacent companion cells.
-
-**Ans: A.** 1 and 2 only
-</details>
-
-**Q2.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-Assertion (A): Clove (*Laung*), widely used as a spice and culinary flavouring agent, is botanically a dried flower bud.  
-Reason (R): It is harvested from the unopened floral buds of the tree *Syzygium aromaticum* before the petals expand.  
-
-Select the correct answer from the code given below:  
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
-B. (A) is false, but (R) is true  
-C. (A) is true, but (R) is false  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Both statements are true and R provides the exact botanical identity: cloves are unopened aromatic flower buds rich in eugenol.
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q3.**
-
-Match List-I with List-II:
-
-| List-I (Crop Plant / Commercial Spice) | List-II (Morphological Edible Plant Part) |
-|---|---|
-| A. Saffron (*Kesar*) | 1. Modified Underground Stem (Tuber) |
-| B. Potato | 2. Dried Stigma and Style |
-| C. Coconut | 3. Fleshy Thalamus (False Fruit) |
-| D. Apple | 4. Cellular and Nuclear Endosperm |
-
-Select the correct answer from the code given below:  
-A. A-2, B-1, C-4, D-3  
-B. A-1, B-2, C-4, D-3  
-C. A-2, B-4, C-1, D-3  
-D. A-3, B-1, C-4, D-2  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Saffron = Stigma and style (A-2).
-
-**Ans: A.** A-2, B-1, C-4, D-3
-</details>
-
-**Q4.**
-
-The gaseous phytohormone responsible for stimulating natural ripening of fruits such as bananas and mangoes is:
-A. Auxin  
-B. Gibberellin  
-C. Ethylene  
-D. Abscisic acid  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ethylene ($C_2H_4$) is the only gaseous plant hormone, acting naturally to trigger climacteric fruit ripening.
-
-**Ans: C.** Ethylene
-</details>
-
-**Q5.**
-
-Which of the following plants possesses "Kranz Anatomy" and exhibits high photosynthetic efficiency with zero photorespiration?
-A. Wheat  
-B. Rice  
-C. Maize  
-D. Potato  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Maize.
-
-**Ans: C.** Maize
-</details>
-
-**Q6.**
-
-The catastrophic Irish Potato Famine of 1845 was caused by which destructive fungal plant pathogen?
-A. *Ustilago tritici*  
-B. *Phytophthora infestans*  
-C. *Puccinia graminis*  
-D. *Colletotrichum falcatum*  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Late blight of potato (Phytophthora infestans) wiped out Ireland's potato harvest in 1845, precipitating mass starvation.
-
-**Ans: B.** Phytophthora infestans
-</details>
-
-**Q7.**
-
-Which of the following is an example of an aquatic pteridophyte biofertiliser used extensively in waterlogged rice cultivation?
-A. *Azotobacter*  
-B. *Azolla*  
-C. *Wolffia*  
-D. *Spirulina*  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Azolla.
-
-**Ans: B.** Azolla
-</details>
-
-**Q8.**
-
-"Khaira Disease" of rice crops, characterized by chlorosis and rusty brown leaf pigmentation, is caused by deficiency of:
-A. Nitrogen  
-B. Zinc  
-C. Copper  
-D. Boron  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Zinc.
-
-**Ans: B.** Zinc
-</details>
-
-**Q9.**
-
-In photosynthesis, the oxygen released into the atmosphere originates from the photolytic breakdown of:
-A. Carbon dioxide ($CO_2$)  
-B. Water ($H_2O$)  
-C. Glucose ($C_6H_{12}O_6$)  
-D. Ribulose bisphosphate  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Photolysis of water in the thylakoid lumen during the light reaction produces atmospheric $O_2$, proven by Ruben and Kamen using $^{18}O$.
-
-**Ans: B.** Water / $H_2O$
-</details>
-
-**Q10.**
-
-The central metal atom coordinated within the porphyrin ring of the chlorophyll molecule is:
-A. Iron ($Fe$)  
-B. Magnesium ($Mg$)  
-C. Manganese ($Mn$)  
-D. Copper ($Cu$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Magnesium ($Mg^{2+}$) is the central coordinating atom in all chlorophyll molecules.
-
-**Ans: B.** Magnesium / $Mg$
-</details>
-
-**Q11.**
-
-The synthetic plant growth regulator 2,4-D (2,4-Dichlorophenoxyacetic acid) is commercially applied in agriculture as a:
-A. Fungicide  
-B. Selective herbicide / weedicide for broadleaf weeds  
-C. Rodenticide  
-D. Fruit ripener  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 2,4-D is a synthetic auxin used to eradicate broad-leaved dicotyledonous weeds in monocot cereal fields.
-
-**Ans: B.** Selective herbicide / weedicide for broadleaf weeds
-</details>
-
-**Q12.**
-
-Double fertilisation, where one male gamete forms the zygote ($2n$) and the second forms the triploid endosperm ($3n$), is unique to:
-A. Bryophytes  
-B. Pteridophytes  
-C. Gymnosperms  
-D. Angiosperms  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Double fertilisation and triple fusion (discovered by Nawaschin) are exclusive hallmarks of flowering plants (Angiosperms).
-
-**Ans: D.** Angiosperms
-</details>
-
-**Q13.**
-
-Yellow Vein Mosaic disease affecting Okra (Bhindi) crops is a viral infection transmitted by:
-A. Aphids  
-B. Whitefly (*Bemisia tabaci*)  
-C. Grasshoppers  
-D. Nematodes  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Yellow Vein Mosaic of bhindi is transmitted by the whitefly (Bemisia tabaci).
-
-**Ans: B.** Whitefly / Bemisia tabaci
-</details>
-
-**Q14.**
-
-The non-parasitic physiological disorder known as "Black Heart of Potato" occurs primarily due to:
-A. Severe fungal infection by *Fusarium*  
-B. Sub-oxidation / lack of oxygen during cold storage  
-C. Excessive nitrogen fertilization  
-D. Boron deficiency  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Black heart of potato is an internal asphyxiation of tuber core tissues caused by oxygen deficiency in poorly ventilated, high-temperature storage.
-
-**Ans: B.** Sub-oxidation / lack of oxygen during cold storage
-</details>
-
-**Q15.**
-
-The antimalarial drug Quinine is obtained from which part of the *Cinchona* tree?
-A. Leaves  
-B. Dried Stem Bark  
-C. Roots  
-D. Flowers  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Quinine is extracted from the dried bark of Cinchona trees.
-
-**Ans: B.** Dried Stem Bark
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to plant tissues and transport, which of the following statements is/are correct?<br>1. Tracheids and vessels are the dead water-conducting elements of xylem.<br>2. Sieve tube elements are enucleated at maturity yet remain metabolically living.<br>3. Translocation of sugars in phloem is strictly unidirectional from roots to leaves.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statements 1 and 2 are correct: Tracheids and vessels are dead lignified xylem tubes; mature sieve tube elements lack nuclei but are maintained living by adjacent companion cells.
+
+**Ans: A.** 1 and 2 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br>Assertion (A): Clove (*Laung*), widely used as a spice and culinary flavouring agent, is botanically a dried flower bud.  <br>Reason (R): It is harvested from the unopened floral buds of the tree *Syzygium aromaticum* before the petals expand.  <br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Both statements are true and R provides the exact botanical identity: cloves are unopened aromatic flower buds rich in eugenol.
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Crop Plant / Commercial Spice)</th><th>List-II (Morphological Edible Plant Part)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Saffron (*Kesar*)</td><td><span class="match-key">1</span> Modified Underground Stem (Tuber)</td></tr>
+      <tr><td><span class="match-key">B</span> Potato</td><td><span class="match-key">2</span> Dried Stigma and Style</td></tr>
+      <tr><td><span class="match-key">C</span> Coconut</td><td><span class="match-key">3</span> Fleshy Thalamus (False Fruit)</td></tr>
+      <tr><td><span class="match-key">D</span> Apple</td><td><span class="match-key">4</span> Cellular and Nuclear Endosperm</td></tr>
+  </tbody>
+</table><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-4, C-1, D-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-4, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Saffron = Stigma and style (A-2).
+
+**Ans: A.** A-2, B-1, C-4, D-3</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The gaseous phytohormone responsible for stimulating natural ripening of fruits such as bananas and mangoes is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Auxin</div><div class="pyq-opt"><span class="opt-letter">B</span> Gibberellin</div><div class="pyq-opt"><span class="opt-letter">C</span> Ethylene</div><div class="pyq-opt"><span class="opt-letter">D</span> Abscisic acid</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ethylene ($C_2H_4$) is the only gaseous plant hormone, acting naturally to trigger climacteric fruit ripening.
+
+**Ans: C.** Ethylene</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following plants possesses "Kranz Anatomy" and exhibits high photosynthetic efficiency with zero photorespiration?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Wheat</div><div class="pyq-opt"><span class="opt-letter">B</span> Rice</div><div class="pyq-opt"><span class="opt-letter">C</span> Maize</div><div class="pyq-opt"><span class="opt-letter">D</span> Potato</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Maize.
+
+**Ans: C.** Maize</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The catastrophic Irish Potato Famine of 1845 was caused by which destructive fungal plant pathogen?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> *Ustilago tritici*</div><div class="pyq-opt"><span class="opt-letter">B</span> *Phytophthora infestans*</div><div class="pyq-opt"><span class="opt-letter">C</span> *Puccinia graminis*</div><div class="pyq-opt"><span class="opt-letter">D</span> *Colletotrichum falcatum*</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Late blight of potato (Phytophthora infestans) wiped out Ireland's potato harvest in 1845, precipitating mass starvation.
+
+**Ans: B.** Phytophthora infestans</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is an example of an aquatic pteridophyte biofertiliser used extensively in waterlogged rice cultivation?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> *Azotobacter*</div><div class="pyq-opt"><span class="opt-letter">B</span> *Azolla*</div><div class="pyq-opt"><span class="opt-letter">C</span> *Wolffia*</div><div class="pyq-opt"><span class="opt-letter">D</span> *Spirulina*</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Azolla.
+
+**Ans: B.** Azolla</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">"Khaira Disease" of rice crops, characterized by chlorosis and rusty brown leaf pigmentation, is caused by deficiency of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nitrogen</div><div class="pyq-opt"><span class="opt-letter">B</span> Zinc</div><div class="pyq-opt"><span class="opt-letter">C</span> Copper</div><div class="pyq-opt"><span class="opt-letter">D</span> Boron</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Zinc.
+
+**Ans: B.** Zinc</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">In photosynthesis, the oxygen released into the atmosphere originates from the photolytic breakdown of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Carbon dioxide ($CO_2$)</div><div class="pyq-opt"><span class="opt-letter">B</span> Water ($H_2O$)</div><div class="pyq-opt"><span class="opt-letter">C</span> Glucose ($C_6H_{12}O_6$)</div><div class="pyq-opt"><span class="opt-letter">D</span> Ribulose bisphosphate</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Photolysis of water in the thylakoid lumen during the light reaction produces atmospheric $O_2$, proven by Ruben and Kamen using $^{18}O$.
+
+**Ans: B.** Water / $H_2O$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The central metal atom coordinated within the porphyrin ring of the chlorophyll molecule is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Iron ($Fe$)</div><div class="pyq-opt"><span class="opt-letter">B</span> Magnesium ($Mg$)</div><div class="pyq-opt"><span class="opt-letter">C</span> Manganese ($Mn$)</div><div class="pyq-opt"><span class="opt-letter">D</span> Copper ($Cu$)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Magnesium ($Mg^{2+}$) is the central coordinating atom in all chlorophyll molecules.
+
+**Ans: B.** Magnesium / $Mg$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The synthetic plant growth regulator 2,4-D (2,4-Dichlorophenoxyacetic acid) is commercially applied in agriculture as a:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Fungicide</div><div class="pyq-opt"><span class="opt-letter">B</span> Selective herbicide / weedicide for broadleaf weeds</div><div class="pyq-opt"><span class="opt-letter">C</span> Rodenticide</div><div class="pyq-opt"><span class="opt-letter">D</span> Fruit ripener</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 2,4-D is a synthetic auxin used to eradicate broad-leaved dicotyledonous weeds in monocot cereal fields.
+
+**Ans: B.** Selective herbicide / weedicide for broadleaf weeds</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Double fertilisation, where one male gamete forms the zygote ($2n$) and the second forms the triploid endosperm ($3n$), is unique to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bryophytes</div><div class="pyq-opt"><span class="opt-letter">B</span> Pteridophytes</div><div class="pyq-opt"><span class="opt-letter">C</span> Gymnosperms</div><div class="pyq-opt"><span class="opt-letter">D</span> Angiosperms</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Double fertilisation and triple fusion (discovered by Nawaschin) are exclusive hallmarks of flowering plants (Angiosperms).
+
+**Ans: D.** Angiosperms</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Yellow Vein Mosaic disease affecting Okra (Bhindi) crops is a viral infection transmitted by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Aphids</div><div class="pyq-opt"><span class="opt-letter">B</span> Whitefly (*Bemisia tabaci*)</div><div class="pyq-opt"><span class="opt-letter">C</span> Grasshoppers</div><div class="pyq-opt"><span class="opt-letter">D</span> Nematodes</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Yellow Vein Mosaic of bhindi is transmitted by the whitefly (Bemisia tabaci).
+
+**Ans: B.** Whitefly / Bemisia tabaci</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The non-parasitic physiological disorder known as "Black Heart of Potato" occurs primarily due to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Severe fungal infection by *Fusarium*</div><div class="pyq-opt"><span class="opt-letter">B</span> Sub-oxidation / lack of oxygen during cold storage</div><div class="pyq-opt"><span class="opt-letter">C</span> Excessive nitrogen fertilization</div><div class="pyq-opt"><span class="opt-letter">D</span> Boron deficiency</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Black heart of potato is an internal asphyxiation of tuber core tissues caused by oxygen deficiency in poorly ventilated, high-temperature storage.
+
+**Ans: B.** Sub-oxidation / lack of oxygen during cold storage</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The antimalarial drug Quinine is obtained from which part of the *Cinchona* tree?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Leaves</div><div class="pyq-opt"><span class="opt-letter">B</span> Dried Stem Bark</div><div class="pyq-opt"><span class="opt-letter">C</span> Roots</div><div class="pyq-opt"><span class="opt-letter">D</span> Flowers</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Quinine is extracted from the dried bark of Cinchona trees.
+
+**Ans: B.** Dried Stem Bark</div>
+  </div>
+</div>

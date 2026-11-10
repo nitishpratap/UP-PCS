@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 45 — Environment (पर्यावरण) PYQ Trend Analysis</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Recent UPPCS papers give roughly **15–20 tagged environment marks** most years. Planning for only 8–10 is outdated.
@@ -53,22 +42,6 @@ hide:
 27. **NOT correctly matched** — Treaty ↔ wrong purpose; wrong HQ; wrong year
 28. **Direct MCQ** — Movement identification; report publisher; single fact
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Environmental Legislation & Governance in India
-
-```
-1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
-1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
-1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
-1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
-1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
-1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
-2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
-2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
-2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
-```
-
 ## 📊 Quick Reference Grid
 
 ### Trend locks
@@ -84,360 +57,279 @@ hide:
 | DPAP / Net zero / GEF | **1973** / **2070** / **1991** |
 | UP negatives | Rudrasagar Tripura · Sultanpur Haryana · no UP BR · Nokrek≠Manipur |
 | Montreal / Kyoto–Paris | Ozone / climate |
-
-### Table: Key Ramsar Wetlands of India (Selected High-Yield & State-Wise)
-
-| Ramsar Site | State / UT | Area / Special Significance | Exam Trap & Distinction |
-| :--- | :--- | :--- | :--- |
-| **Chilika Lake** | Odisha | First Ramsar Site in India (1981); Largest coastal lagoon | Joined with Keoladeo Ghana in 1981; removed from Montreux Record post-restoration |
-| **Keoladeo Ghana National Park** | Rajasthan | Wetland & NP; placed on Montreux Record | On Montreux Record due to water shortage & grazing pressure |
-| **Loktak Lake** | Manipur | Freshwater lake with phumdis (floating mats); Keibul Lamjao NP | Only floating national park; home to Sangai (Dancing Deer); on Montreux Record |
-| **Vembanad-Kol Wetland** | Kerala | Largest wetland in India by surface area | Spans Alappuzha, Kottayam, Ernakulam; Nehru Trophy Boat Race held here |
-| **Sundarban Wetland** | West Bengal | Largest Ramsar site by protected area | Mangrove ecosystem; Royal Bengal Tiger; shared with Bangladesh |
-| **Renuka Wetland** | Himachal Pradesh | Smallest Ramsar site in India (~20 ha) | Natural wetland with freshwater springs; sacred lake |
-| **Upper Ganga River** | Uttar Pradesh | First Ramsar site of UP (2005; Brijghat to Narora) | Stretch of 82 km; habitat of Gangetic Dolphin, gharial, turtles |
-| **Bakhira Wildlife Sanctuary** | Uttar Pradesh | 10th Ramsar site of UP (Sant Kabir Nagar, 2022) | Natural freshwater marsh; migratory waterbirds |
-| **Haiderpur Wetland** | Uttar Pradesh | Muzaffarnagar & Bijnor (2021) | Human-made wetland in Hastinapur WLS within Ganga floodplain |
-| **Rudrasagar Lake** | Tripura | Lowland sedimentation reservoir | Located in Northeast (Tripura) — common trap confusing it with UP or MP |
-| **Bhoj Wetland** | Madhya Pradesh | Twin lakes: Upper Lake (Bada Talab) and Lower Lake | Created by Raja Bhoj; human-made wetland |
-| **Asan Barrage** | Uttarakhand | First Ramsar site of Uttarakhand (2020) | Located at confluence of Asan and Yamuna in Dehradun |
-| **Lonar Lake** | Maharashtra | Meteor impact crater lake; hyper-saline | Turned pink due to haloarchaea microbes in 2020 |
-| **Tso Kar Wetland Complex** | Ladakh | High-altitude saline lake (Startsapuk Tso + Tso Kar) | Breeding ground for Black-necked Crane |
-
-### Table: Global Environmental Reports & Flagship Publications
-
-| Publication / Report | Publishing Agency | Frequency / Milestone | Core Prelims Focus Area |
-| :--- | :--- | :--- | :--- |
-| **Assessment Reports (AR1 to AR6)** | **IPCC** (Intergovernmental Panel on Climate Change) | Every 6–7 years (AR6 Synthesis: 2023) | Scientific consensus on climate change, carbon budgets, 1.5°C pathways |
-| **Emissions Gap Report** | **UNEP** (United Nations Environment Programme) | Annual | Gap between national NDC pledges and 1.5°C / 2°C temperature trajectories |
-| **Adaptation Gap Report** | **UNEP** | Annual | Assessment of global adaptation financing, planning, and implementation deficit |
-| **Global Environment Outlook (GEO)** | **UNEP** | Periodic flagship | Comprehensive state of the global environment, policy responses |
-| **Living Planet Report** | **WWF** (World Wide Fund for Nature) | Biennial | Living Planet Index tracking vertebrate population declines (~69% decline) |
-| **IUCN Red List of Threatened Species** | **IUCN** (Gland, Switzerland) | Continuous / Annual update | 9 categories: EX, EW, CR, EN, VU, NT, LC, DD, NE |
-| **Global Biodiversity Outlook (GBO)** | **CBD Secretariat** | Periodic (GBO-5 in 2020) | Progress against Aichi Biodiversity Targets / Kunming-Montreal GBF |
-| **State of the World's Forests (SOFO)** | **FAO** (Food and Agriculture Organization) | Biennial | Global forest cover, deforestation rates, agroforestry and livelihoods |
-| **World Air Quality Report** | **IQAir** | Annual | Global PM2.5 city rankings and WHO guidelines compliance |
-| **SDG India Index & Dashboard** | **NITI Aayog** | Annual | Performance of Indian States/UTs across 16 SDGs (Kerala consistently #1) |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **UPPCS Direct Questions** | **2024–2025 Multi-Statement Format** | Historical single-line factual recall questions vs modern complex Assertion-Reasoning, 4-statement matching, and chronological order puzzles | प्रत्यक्ष स्मृति प्रश्न / बहु-कथनीय कूट प्रारूप |
-| **Dedicated Environment Questions** | **True Environmental Weightage** | Official subject classification (~10–12 questions) vs actual interdisciplinary paper presence (~18–22 questions when counting geography/economy overlaps) | प्रत्यक्ष पर्यावरण प्रश्न / वास्तविक विषय भारांक |
-| **MISHTI Scheme (2023)** | **Mangrove Alliance for Climate (2022)** | Indian Union Budget 2023–24 programme for coastline mangrove plantation via MGNREGA/CAMPA vs international climate initiative launched by UAE and Indonesia at COP27 Sharm el-Sheikh | मिष्टी योजना (बजट 2023) / मैंग्रोव गठबंधन (MAC) |
-| **Nokrek Biosphere Reserve** | **Keibul Lamjao National Park** | Biosphere Reserve located in Garo Hills, **Meghalaya** (zero BRs in UP) vs floating National Park on Loktak Lake, **Manipur** | नोकरेक (मेघालय) / केइबुल लामजाओ (मणिपुर) |
-| **Kigali Amendment (2016)** | **Paris Agreement (2015)** | Binding phase-down of Hydrofluorocarbons (HFCs) under the Montreal Protocol vs global climate framework under UNFCCC capping warming at 1.5°C | किगाली संशोधन (एचएफसी कटौती) / पेरिस समझौता |
-| **Stockholm 1972** | **Stockholm 2001** | First UN global conference on the environment giving birth to UNEP vs binding international treaty banning Persistent Organic Pollutants (POPs) | स्टॉकहोम सम्मेलन (1972) / स्टॉकहोम संधि (2001) |
-| **National Green Tribunal (NGT)** | **Central Pollution Control Board (CPCB)** | Specialized judicial tribunal established under NGT Act 2010 for environmental disputes vs statutory executive regulatory board established under Water Act 1974 | राष्ट्रीय हरित अधिकरण (न्यायिक) / सीपीसीबी (कार्यकारी बोर्ड) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** With reference to recent UPPCS environment weight, which of the following statements is/are correct?
-
-1. Roughly 15–20 tagged marks most years.
-2. Planning for only 8–10 tagged marks is still the current best estimate.
-3. Tagged volume fell to zero after 2018.
-
-A. 1 and 3
-B. Only 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Statement 1 is true (~15–20 tagged marks most years). Statement 2 is false — 8–10 planning is outdated. Statement 3 is false — tagged volume did not fall to zero after 2018.
-
-</details>
-
-**Q2.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. 2018–20 avg tagged | 1. ~17.7 |
-| B. 2023–25 avg tagged | 2. ~12 |
-| C. 2023 peak | 3. 25 questions |
-
-Code:
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A-2, B-1, C-3.
-
-**Logic:** Volume ladder.
-
-</details>
-
-**Q3.** Which of the following pairs is/are correctly matched?
-
-1. The hottest cluster is only Van Mahotsav ceremony dates.
-2. Then pollution; then ecology/ecosystem
-3. Hottest cluster — only Van Mahotsav dates
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 2 is correct.
-
-**Logic:** Statement 2 is true (pollution then ecology/ecosystem after the hottest SDG cluster). Statement 1 is false — SDGs/sustainable development is the hottest cluster. Statement 3 repeats the Van Mahotsav trap.
-
-</details>
-
-**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): 2025 environment paper shifted toward multi-statement, A/R, Match, and NOT-matched.
-
-Reason (R): About two-thirds multi-format teaching — practice must include two-statement and A/R drills.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R explains the practice implication.
-
-**A/R logic:** Format shift → drill mix.
-
-</details>
-
-**Q5.** With reference to scheme year traps, which of the following statements is/are correct?
-
-1. LiFE idea COP26 2021 / launch June 2022 — not COP25.
-2. MISHTI = 2023 Budget — not 2019.
-3. DPAP = 1973; India net zero = 2070; GEF = 1991.
-
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three.
-
-**Logic:** Year trap set.
-
-</details>
-
-**Q6.** Arrange Montreal vs Kyoto in trend checklist:
-
-A. Montreal = climate; Kyoto = ozone
-B. Montreal = ozone; Kyoto/Paris = climate
-C. Both identical Ramsar
-D. Both identical noise dB
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Ozone vs climate.
-
-**Logic:** Recurring trap.
-
-</details>
-
-**Q7.** Which of the following pairs is/are NOT correctly matched?
-
-1. Rudrasagar — Tripura
-2. Sultanpur — Haryana
-3. Nokrek — Manipur
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only pair 3 is not correctly matched.
-
-**Logic:** Nokrek = Meghalaya — not Manipur.
-
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): True environment ROI is higher than tagged count.
-
-Reason (R): Reports and protected-area facts leak into other GS subjects.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R explains A.
-
-**A/R logic:** Cross-subject leakage.
-
-</details>
-
-**Q9.** With reference to 2020/2024 dips, which of the following statements is/are correct?
-
-1. Tagged count dipped.
-2. Cross-subject environment leakage in Economy and Geography still hides weight.
-3. Dips mean environment can be skipped entirely.
-
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 and 2.
-
-**Logic:** Do not skip.
-
-</details>
-
-**Q10.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. Emissions Gap | 1. 2070 |
-| B. India net zero | 2. UNEP |
-| C. DPAP | 3. 1973 |
-
-Code:
-
-A. A-2, B-1, C-3
-B. A-1, B-2, C-3
-C. A-2, B-3, C-1
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** A-2, B-1, C-3.
-
-**Logic:** Report / NZ / DPAP.
-
-</details>
-
-**Q11.** Arrange study ROI priority teaching:
-
-A. Only Tier-4 rare topics first
-B. SDGs + UP protected-area traps near top; then current issues, ecology, climate/pollution, treaties/orgs
-C. Only Earth Hour
-D. Only Ringelmann
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** ROI order from heat map.
-
-**Logic:** Priority spine.
-
-</details>
-
-**Q12.** With reference to rising 2023–25 lines, which of the following statements is/are correct?
-
-1. SDGs, wildlife, biodiversity, biosphere, forests.
-2. Current schemes such as LiFE and MISHTI.
-3. Only tubeless-tyre CFC stems.
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 and 2.
-
-**Logic:** Rising cluster.
-
-</details>
-
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Many “UP BR” claims are false.
-
-Reason (R): Uttar Pradesh has zero Biosphere Reserves in standard teaching.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R explains A.
-
-**A/R logic:** UP BR trap.
-
-</details>
-
-**Q14.** Which one of the following correctly states 2025 tagged count neighbourhood?
-
-A. Only 2
-B. Zero
-C. Exactly 8 always
-D. Stayed strong at 19
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** 19 in 2025.
-
-**Logic:** Strong year.
-
-</details>
-
-**Q15.** How many of the following UP negative geography facts are correct?
-
-Rudrasagar≠UP; Sultanpur≠UP; Nokrek≠Manipur
-
-A. All three
-B. Only two
-C. Only one
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three.
-
-**Logic:** Negative geography set.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to recent UPPCS environment weight, which of the following statements is/are correct?<br><br>1. Roughly 15–20 tagged marks most years.<br>2. Planning for only 8–10 tagged marks is still the current best estimate.<br>3. Tagged volume fell to zero after 2018.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Statement 1 is true (~15–20 tagged marks most years). Statement 2 is false — 8–10 planning is outdated. Statement 3 is false — tagged volume did not fall to zero after 2018.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> 2018–20 avg tagged</td><td><span class="match-key">1</span> ~17.7</td></tr>
+      <tr><td><span class="match-key">B</span> 2023–25 avg tagged</td><td><span class="match-key">2</span> ~12</td></tr>
+      <tr><td><span class="match-key">C</span> 2023 peak</td><td><span class="match-key">3</span> 25 questions</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
+
+**Logic:** Volume ladder.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. The hottest cluster is only Van Mahotsav ceremony dates.<br>2. Then pollution; then ecology/ecosystem<br>3. Hottest cluster — only Van Mahotsav dates</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Statement 2 is true (pollution then ecology/ecosystem after the hottest SDG cluster). Statement 1 is false — SDGs/sustainable development is the hottest cluster. Statement 3 repeats the Van Mahotsav trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): 2025 environment paper shifted toward multi-statement, A/R, Match, and NOT-matched.<br><br>Reason (R): About two-thirds multi-format teaching — practice must include two-statement and A/R drills.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R explains the practice implication.
+
+**A/R logic:** Format shift → drill mix.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to scheme year traps, which of the following statements is/are correct?<br><br>1. LiFE idea COP26 2021 / launch June 2022 — not COP25.<br>2. MISHTI = 2023 Budget — not 2019.<br>3. DPAP = 1973; India net zero = 2070; GEF = 1991.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three.
+
+**Logic:** Year trap set.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange Montreal vs Kyoto in trend checklist:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Montreal = climate; Kyoto = ozone</div><div class="pyq-opt"><span class="opt-letter">B</span> Montreal = ozone; Kyoto/Paris = climate</div><div class="pyq-opt"><span class="opt-letter">C</span> Both identical Ramsar</div><div class="pyq-opt"><span class="opt-letter">D</span> Both identical noise dB</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ozone vs climate.
+
+**Logic:** Recurring trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Rudrasagar — Tripura<br>2. Sultanpur — Haryana<br>3. Nokrek — Manipur</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only pair 3 is not correctly matched.
+
+**Logic:** Nokrek = Meghalaya — not Manipur.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): True environment ROI is higher than tagged count.<br><br>Reason (R): Reports and protected-area facts leak into other GS subjects.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R explains A.
+
+**A/R logic:** Cross-subject leakage.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to 2020/2024 dips, which of the following statements is/are correct?<br><br>1. Tagged count dipped.<br>2. Cross-subject environment leakage in Economy and Geography still hides weight.<br>3. Dips mean environment can be skipped entirely.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 and 2.
+
+**Logic:** Do not skip.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Emissions Gap</td><td><span class="match-key">1</span> 2070</td></tr>
+      <tr><td><span class="match-key">B</span> India net zero</td><td><span class="match-key">2</span> UNEP</td></tr>
+      <tr><td><span class="match-key">C</span> DPAP</td><td><span class="match-key">3</span> 1973</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
+
+**Logic:** Report / NZ / DPAP.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange study ROI priority teaching:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only Tier-4 rare topics first</div><div class="pyq-opt"><span class="opt-letter">B</span> SDGs + UP protected-area traps near top; then current issues, ecology, climate/pollution, treaties/orgs</div><div class="pyq-opt"><span class="opt-letter">C</span> Only Earth Hour</div><div class="pyq-opt"><span class="opt-letter">D</span> Only Ringelmann</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> ROI order from heat map.
+
+**Logic:** Priority spine.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to rising 2023–25 lines, which of the following statements is/are correct?<br><br>1. SDGs, wildlife, biodiversity, biosphere, forests.<br>2. Current schemes such as LiFE and MISHTI.<br>3. Only tubeless-tyre CFC stems.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 and 2.
+
+**Logic:** Rising cluster.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Many “UP BR” claims are false.<br><br>Reason (R): Uttar Pradesh has zero Biosphere Reserves in standard teaching.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R explains A.
+
+**A/R logic:** UP BR trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following correctly states 2025 tagged count neighbourhood?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Zero</div><div class="pyq-opt"><span class="opt-letter">C</span> Exactly 8 always</div><div class="pyq-opt"><span class="opt-letter">D</span> Stayed strong at 19</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 19 in 2025.
+
+**Logic:** Strong year.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">How many of the following UP negative geography facts are correct?<br><br>Rudrasagar≠UP; Sultanpur≠UP; Nokrek≠Manipur</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> All three</div><div class="pyq-opt"><span class="opt-letter">B</span> Only two</div><div class="pyq-opt"><span class="opt-letter">C</span> Only one</div><div class="pyq-opt"><span class="opt-letter">D</span> None</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three.
+
+**Logic:** Negative geography set.</div>
+  </div>
+</div>

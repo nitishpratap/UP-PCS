@@ -230,21 +230,6 @@ hide:
 | **Quicklime** | Calcium Oxide | **$CaO$** | Highly exothermic reaction with water ("slaking of lime") |
 | **Alum (Phitkari)** | Potassium Aluminium Sulphate | **$K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$**| Water purification via coagulation of mud; antiseptic styptic on shaving cuts |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Baking Soda** | **Washing Soda** | **Baking Soda is Sodium BICARBONATE ($NaHCO_3$)**. **Washing Soda is Sodium Carbonate Decahydrate ($Na_2CO_3 \cdot 10H_2O$)**. | बेकिंग सोडा = सोडियम बाइकार्बोनेट ($NaHCO_3$); धावन सोडा = सोडियम कार्बोनेट ($Na_2CO_3 \cdot 10H_2O$) |
-| **Plaster of Paris (POP)** | **Gypsum** | **Plaster of Paris has HALF water of crystallization ($CaSO_4 \cdot rac{1}{2}H_2O$)**. **Gypsum has TWO waters ($CaSO_4 \cdot 2H_2O$)**. POP sets into hard gypsum when mixed with water. | प्लास्टर ऑफ पेरिस = $CaSO_4 \cdot rac{1}{2}H_2O$; जिप्सम = $CaSO_4 \cdot 2H_2O$ |
-| **Aqua Regia Composition Ratio**| **Inverted Acid Ratio Trap** | Aqua Regia consists strictly of **$3	ext{ parts Concentrated Hydrochloric Acid (HCl)} : 1	ext{ part Concentrated Nitric Acid (HNO}_3)$**. Examiners repeatedly invert the ratio to $1:3$! | अम्लराज (Aqua Regia) = 3 भाग HCl + 1 भाग $HNO_3$ (3:1 का अनुपात) |
-| **Acid Rain Definition $	ext{pH}$**| **Neutral Water $	ext{pH}$** | Pure unpolluted rain is naturally slightly acidic ($	ext{pH } pprox 5.6$) due to dissolved atmospheric $CO_2$. **Rain is classified as ACID RAIN only when its $	ext{pH}$ FALLS BELOW $5.6$** (due to $H_2SO_4$ and $HNO_3$). | अम्लीय वर्षा का pH मान $5.6$ से कम होता है (सल्फर व नाइट्रोजन के ऑक्साइड्स के कारण) |
-| **Human Blood $	ext{pH}$** | **Acidic Blood Myth** | Normal human blood is **SLIGHTLY ALKALINE with a very narrow stable $	ext{pH}$ range of $7.35–7.45$**. A drop below $7.35$ causes life-threatening clinical acidosis. | मानव रक्त हल्का क्षारीय होता है (pH मान $7.35–7.45$) |
-| **Acid on Litmus Paper** | **Base on Litmus Paper** | **Acids turn BLUE litmus paper RED**. **Bases/Alkalis turn RED litmus paper BLUE**. Neutral salts cause no color change. | अम्ल नीले लिटमस को लाल करता है; क्षार लाल लिटमस को नीला करता है |
-| **Ink Rust Stain Removal** | **Bleaching Powder Confusion**| Ink stains and iron rust spots on cotton clothes are removed using **OXALIC ACID ($C_2H_2O_4$)** (forms soluble complex with iron). Bleaching powder will damage fabrics. | कपड़ों से स्याही व जंग के धब्बे हटाने हेतु ऑक्जेलिक अम्ल प्रयुक्त होता है |
-| **Muscle Fatigue Acid** | **Gout Acid** | **Muscle fatigue and cramps** are caused by accumulation of **LACTIC ACID** during anaerobic respiration. **Gout disease (arthritis)** is caused by deposition of **URIC ACID crystals** in joints. | मांसपेशियों में थकान = लैक्टिक अम्ल; गठिया (Gout) रोग = यूरिक अम्ल के क्रिस्टल |
-| **Baking Soda vs Powder** | **Bitterness Prevention** | Baking soda ($NaHCO_3$) decomposes on heating to release bitter sodium carbonate ($Na_2CO_3$). **Baking powder includes Tartaric Acid** to neutralize the basic carbonate and eliminate bitterness. | बेकिंग पाउडर में टार्टरिक अम्ल बेकिंग सोडा की कड़वाहट को दूर करने हेतु मिलाया जाता है |
-| **Lime Water Turning Milky** | **Excess $CO_2$ Reaction** | Bubbling $CO_2$ through lime water turns it milky due to insoluble **Calcium Carbonate ($CaCO_3$)**. Passing **EXCESS $CO_2$ turns it CLEAR again** because soluble Calcium Bicarbonate ($Ca(HCO_3)_2$) forms. | चूने के पानी में $CO_2$ प्रवाहित करने पर $CaCO_3$ बनने से दूधिया हो जाता है; अधिक $CO_2$ प्रवाहित करने पर पुनः रंगहीन हो जाता है |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Aqua Regia Mixing Ratio: **3 to 1**
@@ -266,276 +251,232 @@ hide:
 - **T**amarind = **T**artaric acid
 - **A**nt sting = **F**ormic acid
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-What is the mathematical definition of pH?
-(a) $\text{pH} = \log_{10}[H^+]$  
-(b) $\text{pH} = -\log_{10}[H^+]$  
-(c) $\text{pH} = \ln[H^+]$  
-(d) $\text{pH} = -\log_{e}[OH^-]$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** $\text{pH} = -\log{10}[H^+] = \log{10}\left(\frac{1}{[H^+]}\right)$, measuring hydronium ion concentration on an inverse logarithmic scale.
-
-**Ans: B.** $\text{pH} = -\log{10}[H^+]$
-</details>
-
----
-
-**Q2.**
-
-If the pH of an aqueous solution changes from 4 to 2, the concentration of hydrogen ions $[H^+]$:
-(a) Decreases by a factor of 2  
-(b) Increases by a factor of 2  
-(c) Increases by 100 times  
-(d) Decreases by 100 times  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** $[H^+] = 10^{-\text{pH}}$.
-
-**Ans: C.** Increases by 100 times
-</details>
-
----
-
-**Q3.**
-
-What is the color of phenolphthalein in a dilute aqueous solution of sodium hydroxide?
-(a) Colorless  
-(b) Deep pink / magenta  
-(c) Yellow  
-(d) Dark blue  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Phenolphthalein is an acid-base indicator that remains colorless in acidic and neutral solutions (pH $ 10.0$).
-
-**Ans: B.** Deep pink / magenta
-</details>
-
----
-
-**Q4.**
-
-Why is tartaric acid mixed with sodium hydrogen carbonate to make commercial baking powder?
-(a) To accelerate the release of oxygen gas  
-(b) To neutralize the alkaline sodium carbonate formed on heating, preventing a bitter taste  
-(c) To impart an artificial fruit flavor  
-(d) To act as a preservative against mold  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** When baking soda ($NaHCO3$) is heated, it decomposes into $Na2CO3$, $H2O$, and $CO2$.
-
-**Ans: B.** To neutralize the alkaline sodium carbonate formed on heating, preventing a bitter taste
-</details>
-
----
-
-**Q5.**
-
-Which of the following substances contains water of crystallization?
-(a) Baking Soda ($NaHCO_3$)  
-(b) Washing Soda ($Na_2CO_3 \cdot 10H_2O$)  
-(c) Common Salt ($NaCl$)  
-(d) Slaked Lime ($Ca(OH)_2$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Washing soda contains 10 molecules of water of crystallization ($Na2CO3 \cdot 10H2O$).
-
-**Ans: B.** Washing Soda ($Na2CO3 \cdot 10H2O$)
-</details>
-
----
-
-**Q6.**
-
-What is formed when gypsum is heated above $200^\circ\text{C}$ ($473\text{ K}$)?
-(a) Plaster of Paris  
-(b) Quicklime  
-(c) Dead burnt plaster (anhydrous $CaSO_4$)  
-(d) Slaked lime  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Heating gypsum above $200^\circ\text{C}$ drives off all water of crystallization, leaving anhydrous calcium sulphate ($CaSO4$), commonly termed "dead burnt plaster", which loses its hydraulic setting properties.
-
-**Ans: C.** Dead burnt plaster (anhydrous $CaSO4$)
-</details>
-
----
-
-**Q7.**
-
-Which of the following acids is present in stinging nettle leaves and ant bites?
-(a) Methanoic acid (formic acid)  
-(b) Ethanoic acid (acetic acid)  
-(c) Oxalic acid  
-(d) Citric acid  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stinging hairs of nettles and venom sacs of red ants inject methanoic acid ($HCOOH$), causing local inflammation and a burning sensation.
-
-**Ans: A.** Methanoic acid (formic acid)
-</details>
-
----
-
-**Q8.**
-
-A solution turns red litmus paper blue. Its pH is most likely:
-(a) 1  
-(b) 4  
-(c) 5  
-(d) 10  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 10.
-
-**Ans: D.** 10
-</details>
-
----
-
-**Q9.**
-
-Which of the following compounds is a double salt?
-(a) Potassium chloride  
-(b) Potash alum ($K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$)  
-(c) Bleaching powder  
-(d) Copper sulphate  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Potash alum is an equimolar double salt composed of potassium sulphate and aluminium sulphate crystallized with 24 water molecules.
-
-**Ans: B.** Potash alum ($K2SO4 \cdot Al2(SO4)3 \cdot 24H2O$)
-</details>
-
----
-
-**Q10.**
-
-The primary acid present in vinegar is:
-(a) Acetic acid ($CH_3COOH$)  
-(b) Formic acid ($HCOOH$)  
-(c) Butyric acid  
-(d) Propionic acid  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Vinegar is an aqueous solution containing $4–8\%$ acetic acid (ethanoic acid).
-
-**Ans: A.** Acetic acid ($CH3COOH$)
-</details>
-
----
-
-**Q11.**
-
-Which of the following is classified as a non-reducing sugar?
-(a) Maltose  
-(b) Lactose  
-(c) Sucrose  
-(d) Glucose  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Sucrose.
-
-**Ans: C.** Sucrose
-</details>
-
----
-
-**Q12.**
-
-What is the artificial sweetener that is approximately $550\text{ times}$ sweeter than cane sugar and excreted unchanged in human urine?
-(a) Aspartame  
-(b) Saccharin  
-(c) Sucralose  
-(d) Alitame  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Saccharin (o-sulphobenzimide) was the first synthetic artificial sweetener ($\sim 550\times$ sucrose), passes un-metabolized through the renal system, and provides zero calories.
-
-**Ans: B.** Saccharin
-</details>
-
----
-
-**Q13.**
-
-Which of the following salts produces an alkaline (basic) solution when dissolved in pure water?
-(a) Ammonium chloride ($NH_4Cl$)  
-(b) Sodium acetate ($CH_3COONa$)  
-(c) Sodium chloride ($NaCl$)  
-(d) Copper sulphate ($CuSO_4$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sodium acetate is the salt of a weak acid ($CH3COOH$) and a strong base ($NaOH$).
-
-**Ans: B.** Sodium acetate ($CH3COONa$)
-</details>
-
----
-
-**Q14.**
-
-In the human body, the carbonic acid-bicarbonate buffer system operates to maintain the pH of:
-(a) Gastric juice  
-(b) Blood plasma  
-(c) Bile juice  
-(d) Pancreatic juice  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The $H2CO3 / HCO3^-$ buffer system maintains systemic blood plasma pH within the critical $7.35–7.45$ range.
-
-**Ans: B.** Blood plasma
-</details>
-
----
-
-**Q15.**
-
-What is the chemical formula of "Green Vitriol"?
-(a) $CuSO_4 \cdot 5H_2O$  
-(b) $FeSO_4 \cdot 7H_2O$  
-(c) $ZnSO_4 \cdot 7H_2O$  
-(d) $MgSO_4 \cdot 7H_2O$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Green Vitriol is ferrous sulphate heptahydrate ($FeSO4 \cdot 7H2O$).
-
-**Ans: B.** $FeSO4 \cdot 7H2O$
-</details>
-
----
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">What is the mathematical definition of pH?<br>(a) $\text{pH} = \log_{10}[H^+]$  <br>(b) $\text{pH} = -\log_{10}[H^+]$  <br>(c) $\text{pH} = \ln[H^+]$  <br>(d) $\text{pH} = -\log_{e}[OH^-]$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** $\text{pH} = -\log{10}[H^+] = \log{10}\left(\frac{1}{[H^+]}\right)$, measuring hydronium ion concentration on an inverse logarithmic scale.
+
+**Ans: B.** $\text{pH} = -\log{10}[H^+]$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">If the pH of an aqueous solution changes from 4 to 2, the concentration of hydrogen ions $[H^+]$:<br>(a) Decreases by a factor of 2  <br>(b) Increases by a factor of 2  <br>(c) Increases by 100 times  <br>(d) Decreases by 100 times</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** $[H^+] = 10^{-\text{pH}}$.
+
+**Ans: C.** Increases by 100 times</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">What is the color of phenolphthalein in a dilute aqueous solution of sodium hydroxide?<br>(a) Colorless  <br>(b) Deep pink / magenta  <br>(c) Yellow  <br>(d) Dark blue</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Phenolphthalein is an acid-base indicator that remains colorless in acidic and neutral solutions (pH $ 10.0$).
+
+**Ans: B.** Deep pink / magenta</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Why is tartaric acid mixed with sodium hydrogen carbonate to make commercial baking powder?<br>(a) To accelerate the release of oxygen gas  <br>(b) To neutralize the alkaline sodium carbonate formed on heating, preventing a bitter taste  <br>(c) To impart an artificial fruit flavor  <br>(d) To act as a preservative against mold</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** When baking soda ($NaHCO3$) is heated, it decomposes into $Na2CO3$, $H2O$, and $CO2$.
+
+**Ans: B.** To neutralize the alkaline sodium carbonate formed on heating, preventing a bitter taste</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following substances contains water of crystallization?<br>(a) Baking Soda ($NaHCO_3$)  <br>(b) Washing Soda ($Na_2CO_3 \cdot 10H_2O$)  <br>(c) Common Salt ($NaCl$)  <br>(d) Slaked Lime ($Ca(OH)_2$)</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Washing soda contains 10 molecules of water of crystallization ($Na2CO3 \cdot 10H2O$).
+
+**Ans: B.** Washing Soda ($Na2CO3 \cdot 10H2O$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">What is formed when gypsum is heated above $200^\circ\text{C}$ ($473\text{ K}$)?<br>(a) Plaster of Paris  <br>(b) Quicklime  <br>(c) Dead burnt plaster (anhydrous $CaSO_4$)  <br>(d) Slaked lime</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Heating gypsum above $200^\circ\text{C}$ drives off all water of crystallization, leaving anhydrous calcium sulphate ($CaSO4$), commonly termed "dead burnt plaster", which loses its hydraulic setting properties.
+
+**Ans: C.** Dead burnt plaster (anhydrous $CaSO4$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following acids is present in stinging nettle leaves and ant bites?<br>(a) Methanoic acid (formic acid)  <br>(b) Ethanoic acid (acetic acid)  <br>(c) Oxalic acid  <br>(d) Citric acid</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Stinging hairs of nettles and venom sacs of red ants inject methanoic acid ($HCOOH$), causing local inflammation and a burning sensation.
+
+**Ans: A.** Methanoic acid (formic acid)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">A solution turns red litmus paper blue. Its pH is most likely:<br>(a) 1  <br>(b) 4  <br>(c) 5  <br>(d) 10</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 10.
+
+**Ans: D.** 10</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which of the following compounds is a double salt?<br>(a) Potassium chloride  <br>(b) Potash alum ($K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O$)  <br>(c) Bleaching powder  <br>(d) Copper sulphate</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Potash alum is an equimolar double salt composed of potassium sulphate and aluminium sulphate crystallized with 24 water molecules.
+
+**Ans: B.** Potash alum ($K2SO4 \cdot Al2(SO4)3 \cdot 24H2O$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The primary acid present in vinegar is:<br>(a) Acetic acid ($CH_3COOH$)  <br>(b) Formic acid ($HCOOH$)  <br>(c) Butyric acid  <br>(d) Propionic acid</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Vinegar is an aqueous solution containing $4–8\%$ acetic acid (ethanoic acid).
+
+**Ans: A.** Acetic acid ($CH3COOH$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following is classified as a non-reducing sugar?<br>(a) Maltose  <br>(b) Lactose  <br>(c) Sucrose  <br>(d) Glucose</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Sucrose.
+
+**Ans: C.** Sucrose</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">What is the artificial sweetener that is approximately $550\text{ times}$ sweeter than cane sugar and excreted unchanged in human urine?<br>(a) Aspartame  <br>(b) Saccharin  <br>(c) Sucralose  <br>(d) Alitame</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Saccharin (o-sulphobenzimide) was the first synthetic artificial sweetener ($\sim 550\times$ sucrose), passes un-metabolized through the renal system, and provides zero calories.
+
+**Ans: B.** Saccharin</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following salts produces an alkaline (basic) solution when dissolved in pure water?<br>(a) Ammonium chloride ($NH_4Cl$)  <br>(b) Sodium acetate ($CH_3COONa$)  <br>(c) Sodium chloride ($NaCl$)  <br>(d) Copper sulphate ($CuSO_4$)</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Sodium acetate is the salt of a weak acid ($CH3COOH$) and a strong base ($NaOH$).
+
+**Ans: B.** Sodium acetate ($CH3COONa$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">In the human body, the carbonic acid-bicarbonate buffer system operates to maintain the pH of:<br>(a) Gastric juice  <br>(b) Blood plasma  <br>(c) Bile juice  <br>(d) Pancreatic juice</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The $H2CO3 / HCO3^-$ buffer system maintains systemic blood plasma pH within the critical $7.35–7.45$ range.
+
+**Ans: B.** Blood plasma</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">What is the chemical formula of "Green Vitriol"?<br>(a) $CuSO_4 \cdot 5H_2O$  <br>(b) $FeSO_4 \cdot 7H_2O$  <br>(c) $ZnSO_4 \cdot 7H_2O$  <br>(d) $MgSO_4 \cdot 7H_2O$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Green Vitriol is ferrous sulphate heptahydrate ($FeSO4 \cdot 7H2O$).
+
+**Ans: B.** $FeSO4 \cdot 7H2O$</div>
+  </div>
+</div>

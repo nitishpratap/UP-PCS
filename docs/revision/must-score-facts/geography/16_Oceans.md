@@ -144,21 +144,6 @@ hide:
 | **Abyssal Plains (गहरे सागरीय मैदान)** | **~40.0% (Largest)** | 3,000 to 6,000 m | Extremely flat, monotonous ocean floor covered with pelagic oozes and clays |
 | **Oceanic Salinity Extremes** | Open ocean avg = **35‰** | — | **Red Sea**: ~41‰ (high evaporation, low river inflow)<br>**Baltic Sea**: <10‰ (heavy river runoff, melting ice)<br>**Lake Van (Turkey)**: ~330‰ (highest inland)<br>**Dead Sea**: ~300–338‰ |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Spring Tide (वृहत् ज्वार)** | **Neap Tide (लघु ज्वार)** | Occurs during **Syzygy (New Moon & Full Moon)** when Sun, Moon, and Earth align in a straight line; tidal range is **20% higher than normal** vs Occurs during **Quadrature (1st & 3rd Moon Quarters)** when Sun and Moon are at right angles (90°); tidal range is **20% lower than normal** | वृहत् ज्वार (पूर्णिमा/अमावस्या) / लघु ज्वार (सप्तमी/अष्टमी) |
-| **Syzygy: Conjunction** | **Syzygy: Opposition** | Moon is situated **between Earth and Sun** (New Moon / *Amavasya*) vs Earth is situated **between Sun and Moon** (Full Moon / *Purnima*) | युति (अमावस्या) / वियुति (पूर्णिमा) |
-| **Gulf Stream** | **Labrador Current** | Swift, powerful **warm current** flowing northward along eastern USA vs Freezing **cold current** flowing southward from Arctic bringing icebergs; meet at Grand Banks | गल्फ स्ट्रीम (गर्म) / लैब्राडोर (ठंडी) |
-| **Kuroshio Current** | **Oyashio Current** | Warm northward-flowing western boundary current of North Pacific ("Japan Current") vs Cold sub-arctic southward-flowing current ("Kuril Current") | क्यूरोशियो (गर्म) / क्यूराइल-ओयाशियो (ठंडी) |
-| **Humboldt (Peru) Current** | **El Niño Current** | Cold, nutrient-rich northward upwelling current along Chile/Peru coast supporting world-class anchovy fisheries vs Counter-current of warm equatorial water replacing Humboldt current around Christmas, crashing marine ecosystems | हम्बोल्ट (ठंडी) / अल नीनो (गर्म) |
-| **Benguela Current** | **Agulhas Current** | **Cold current** along the southwestern coast of Africa (Namibia/SA) causing Namib desert aridity vs **Warm current** along the southeastern coast of Africa (Mozambique/SA) | बेंगुएला (ठंडी) / अगुल्हास (गर्म) |
-| **Mariana Trench** | **Java (Sunda) Trench** | Deepest trench on Earth and in the **Pacific Ocean** (11,034 m, Challenger Deep) vs Deepest trench in the **Indian Ocean** (7,450 m) | मारियाना गर्त / जावा (सुंडा) गर्त |
-| **Puerto Rico Trench** | **Molloy Deep** | Deepest trench in the **Atlantic Ocean** (8,376 m, Milwaukee Deep) vs Deepest point in the **Arctic Ocean** (5,550 m) | प्यूर्टो रिको गर्त / मॉलोय डीप |
-| **Fringing Reef** | **Barrier Reef** | Coral reef that grows directly outward from the coast with narrow/no lagoon (Andaman, Gulf of Mannar) vs Coral reef separated from the mainland shore by a wide, deep lagoon (Great Barrier Reef) | तटीय प्रवाल भित्ति / अवरोधक प्रवाल भित्ति |
-| **Atoll** | **Barrier Reef** | Circular or continuous ring of coral reef surrounding a central calm lagoon with **no central landmass** (Lakshadweep, Maldives) vs Linear barrier offshore with mainland behind it | एटोल (वलयाकार) / अवरोधक भित्ति |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The Deepest Point in Each Ocean:
@@ -187,372 +172,357 @@ hide:
 ### 4. World's Highest Tidal Range:
 - **Bay of Fundy** (Nova Scotia, Canada — ~16.3 meters / 53.5 ft!).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-By area, the correct ocean order is:
-
-A. Pacific > Indian > Atlantic > Southern > Arctic
-B. Pacific > Atlantic > Indian > Southern > Arctic
-C. Atlantic > Pacific > Indian > Arctic > Southern
-D. Pacific > Atlantic > Southern > Indian > Arctic
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Pacific > Atlantic > Indian > Southern > Arctic.
-
-**Logic:** Indian vs Southern order is a frequent swap.
-
-</details>
-
-**Q2.**
-Which trench–ocean pair is correct?
-
-A. Mariana — Atlantic
-B. Puerto Rico — Pacific
-C. Sunda/Java — Indian
-D. Molloy — Pacific
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Sunda/Java trench = **Indian Ocean**.
-
-**Logic:** Mariana–Pacific, Puerto Rico–Atlantic, Molloy–Arctic.
-
-</details>
-
-**Q3.**
-With reference to ocean currents, which of the following is/are correct?
-
-1. Agulhas is warm.
-2. Benguela is a Pacific cold current.
-3. Humboldt (Peru) is cold.
-
-A. 1 and 3
-B. Only 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 3 are correct.
-
-**Logic:** Benguela is **Atlantic** cold off SW Africa, not Pacific.
-
-</details>
-
-**Q4.**
-Assertion (A): Open-ocean salinity maximum lies near the Tropics of Cancer and Capricorn.
-Reason (R): Equatorial waters always have the highest salinity because of strongest heating.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A is true; R is false.
-
-**A/R logic:** Heavy equatorial rainfall lowers equatorial salinity relative to the subtropical highs.
-
-</details>
-
-**Q5.**
-Spring and neap tides are correctly paired with:
-
-A. Syzygy — small; quadrature — large
-B. Syzygy — large; quadrature — small
-C. Both always equal
-D. Only solar distance matters
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Syzygy (new/full) = spring/large; quadrature = neap/small.
-
-**Logic:** Straight-line alignment vs right-angle Moon–Sun geometry.
-
-</details>
-
-**Q6.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Canal) | List-II (Link) |
-|---|---|
-| 1. Suez | A. Mediterranean–Red Sea (sea-level) |
-| 2. Panama | B. Atlantic/Caribbean–Pacific (stepped chambers) |
-| 3. Kiel | C. North Sea–Baltic |
-| 4. Hormuz | D. Persian Gulf–Gulf of Oman strait |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-A, 2-C, 3-B, 4-D
-D. 1-A, 2-B, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Canal/strait pairs as taught.
-
-**Logic:** Row order is not the answer code. Suez vs Panama chamber trap is central.
-
-</details>
-
-**Q7.**
-UNCLOS distances for territorial sea, contiguous zone and EEZ are:
-
-A. 12, 24, 200 nm
-B. 24, 12, 200 nm
-C. 12, 200, 350 nm
-D. 3, 12, 200 nm
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **12 / 24 / 200 nm**.
-
-**Logic:** 350 nm is a possible continental-shelf outer limit, not the EEZ figure.
-
-</details>
-
-**Q8.**
-India’s operational Antarctic stations are:
-
-A. Maitri and Dakshin Gangotri
-B. Maitri and Bharati
-C. Himadri and Bharati
-D. Bharati and Himadri only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Operational pair = **Maitri and Bharati**.
-
-**Logic:** Dakshin Gangotri is not the living operational pair; Himadri is Arctic.
-
-</details>
-
-**Q9.**
-Which statement about the Strait of Hormuz is correct?
-
-A. It joins the Red Sea and Mediterranean
-B. Northern shore is mainly Oman; southern shore is Iran
-C. It joins the Persian Gulf and the Gulf of Oman; Iran north, Oman south
-D. It is an Atlantic chokepoint
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Hormuz = Persian Gulf ↔ Gulf of Oman; **Iran north / Oman south**.
-
-**Logic:** Shore swap and Red Sea confusion are common.
-
-</details>
-
-**Q10.**
-El Niño’s biological effect off Peru is typically:
-
-A. Stronger upwelling and more fish
-B. Weaker upwelling and fewer plankton/fish
-C. No change in upwelling
-D. Permanent ice cover
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Warm phase → **less upwelling** → less plankton and fish.
-
-**Logic:** Warm water ≠ more fish in this eastern Pacific case.
-
-</details>
-
-**Q11.**
-Consider the following statements:
-
-1. India’s west continental shelf is wider than the east.
-2. Bombay High sits on the wide western shelf.
-3. Telegraphic Plateau is an Indian Ocean land plateau.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Telegraphic Plateau = North Atlantic Ridge feature.
-
-</details>
-
-**Q12.**
-Which deposit type is siliceous?
-
-A. Globigerina ooze
-B. Pteropod ooze
-C. Diatom ooze
-D. All calcareous oozes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Diatom (and radiolarian) oozes are **siliceous**.
-
-**Logic:** Globigerina/pteropod are calcareous.
-
-</details>
-
-**Q13.**
-Assertion (A): Suez Canal ships must climb stepped chambers like Panama.
-Reason (R): Suez is a sea-level cut between the Mediterranean and the Red Sea.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A is false; R is true.
-
-**A/R logic:** Panama uses stepped chambers / Gatun Lake; Suez does not.
-
-</details>
-
-**Q14.**
-The Bay of Fundy is famous for:
-
-A. Lowest salinity
-B. Greatest tidal range
-C. Deepest trench
-D. Warmest surface water
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Greatest tidal range teaching tag.
-
-**Logic:** Hooghly/Amazon are tidal-bore pairs; Fundy is range.
-
-</details>
-
-**Q15.**
-Which current is cold?
-
-A. Brazil
-B. Agulhas
-C. California
-D. Kuroshio
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** California is a cold eastern-boundary current.
-
-**Logic:** Brazil, Agulhas and Kuroshio are warm.
-
-</details>
-
-**Q16.**
-With reference to polar presence, which is/are correct?
-
-1. Antarctic Treaty ~1959/61; India joined 1983.
-2. Himadri is India’s Arctic station.
-3. India is a full member (not observer) of the Arctic Council.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** India is an **observer** in the Arctic Council.
-
-</details>
-
-**Q17.**
-Coral bleaching is commonly paired with sea-surface warming of about:
-
-A. 0.2°C
-B. 2°C
-C. 12°C
-D. 20°C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** About **2°C** warming is the teaching bleach pair.
-
-**Logic:** India’s reef belts remain Andaman–Nicobar, Lakshadweep, Mannar, Kachchh.
-
-</details>
-
-**Q18.**
-Which country list for Persian Gulf coasts is correct in the usual set?
-
-A. Includes Oman as a main Gulf littoral like UAE
-B. Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE — not Oman
-C. Only Iran and Saudi Arabia
-D. Includes Jordan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Oman is on the Gulf of Oman / Hormuz south shore, not the classic Persian Gulf littoral list.
-
-**Logic:** Jordan’s sea window is Aqaba/Red Sea.
-
-</details>
-
-**Q19.**
-Arrange Suez Canal lakes from north to south:
-
-1. Great Bitter
-2. Manzala
-3. Timsah
-4. Little Bitter
-
-A. 2–3–1–4
-B. 3–2–1–4
-C. 2–1–3–4
-D. 1–2–3–4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Manzala → Timsah → Great Bitter → Little Bitter.
-
-**Logic:** North (Port Said) to south (Suez) lake ladder.
-
-</details>
-
-**Q20.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Datum line — mean sea level reference
-B. Sargasso — North Atlantic, no coast
-C. Upwelling — strongest on east coasts of continents only
-D. Grand Banks — Labrador meets Gulf Stream fishery
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Upwelling is strongest on **west coasts** (Peru, California, Canary, Benguela, Somalia).
-
-**Logic:** Eastern-boundary cold currents drive classic upwelling.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">By area, the correct ocean order is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pacific > Indian > Atlantic > Southern > Arctic</div><div class="pyq-opt"><span class="opt-letter">B</span> Pacific > Atlantic > Indian > Southern > Arctic</div><div class="pyq-opt"><span class="opt-letter">C</span> Atlantic > Pacific > Indian > Arctic > Southern</div><div class="pyq-opt"><span class="opt-letter">D</span> Pacific > Atlantic > Southern > Indian > Arctic</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pacific > Atlantic > Indian > Southern > Arctic.
+
+**Logic:** Indian vs Southern order is a frequent swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which trench–ocean pair is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mariana — Atlantic</div><div class="pyq-opt"><span class="opt-letter">B</span> Puerto Rico — Pacific</div><div class="pyq-opt"><span class="opt-letter">C</span> Sunda/Java — Indian</div><div class="pyq-opt"><span class="opt-letter">D</span> Molloy — Pacific</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sunda/Java trench = **Indian Ocean**.
+
+**Logic:** Mariana–Pacific, Puerto Rico–Atlantic, Molloy–Arctic.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to ocean currents, which of the following is/are correct?<br><br>1. Agulhas is warm.<br>2. Benguela is a Pacific cold current.<br>3. Humboldt (Peru) is cold.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** Benguela is **Atlantic** cold off SW Africa, not Pacific.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Open-ocean salinity maximum lies near the Tropics of Cancer and Capricorn.<br>Reason (R): Equatorial waters always have the highest salinity because of strongest heating.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is true; R is false.
+
+**A/R logic:** Heavy equatorial rainfall lowers equatorial salinity relative to the subtropical highs.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Spring and neap tides are correctly paired with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Syzygy — small; quadrature — large</div><div class="pyq-opt"><span class="opt-letter">B</span> Syzygy — large; quadrature — small</div><div class="pyq-opt"><span class="opt-letter">C</span> Both always equal</div><div class="pyq-opt"><span class="opt-letter">D</span> Only solar distance matters</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Syzygy (new/full) = spring/large; quadrature = neap/small.
+
+**Logic:** Straight-line alignment vs right-angle Moon–Sun geometry.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Canal)</th><th>List-II (Link)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Suez</td><td><span class="match-key">A</span> Mediterranean–Red Sea (sea-level)</td></tr>
+      <tr><td><span class="match-key">2</span> Panama</td><td><span class="match-key">B</span> Atlantic/Caribbean–Pacific (stepped chambers)</td></tr>
+      <tr><td><span class="match-key">3</span> Kiel</td><td><span class="match-key">C</span> North Sea–Baltic</td></tr>
+      <tr><td><span class="match-key">4</span> Hormuz</td><td><span class="match-key">D</span> Persian Gulf–Gulf of Oman strait</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-A, 2-C, 3-B, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Canal/strait pairs as taught.
+
+**Logic:** Row order is not the answer code. Suez vs Panama chamber trap is central.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">UNCLOS distances for territorial sea, contiguous zone and EEZ are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 12, 24, 200 nm</div><div class="pyq-opt"><span class="opt-letter">B</span> 24, 12, 200 nm</div><div class="pyq-opt"><span class="opt-letter">C</span> 12, 200, 350 nm</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 12, 200 nm</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 12 / 24 / 200 nm**.
+
+**Logic:** 350 nm is a possible continental-shelf outer limit, not the EEZ figure.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">India’s operational Antarctic stations are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Maitri and Dakshin Gangotri</div><div class="pyq-opt"><span class="opt-letter">B</span> Maitri and Bharati</div><div class="pyq-opt"><span class="opt-letter">C</span> Himadri and Bharati</div><div class="pyq-opt"><span class="opt-letter">D</span> Bharati and Himadri only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Operational pair = **Maitri and Bharati**.
+
+**Logic:** Dakshin Gangotri is not the living operational pair; Himadri is Arctic.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which statement about the Strait of Hormuz is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It joins the Red Sea and Mediterranean</div><div class="pyq-opt"><span class="opt-letter">B</span> Northern shore is mainly Oman; southern shore is Iran</div><div class="pyq-opt"><span class="opt-letter">C</span> It joins the Persian Gulf and the Gulf of Oman; Iran north, Oman south</div><div class="pyq-opt"><span class="opt-letter">D</span> It is an Atlantic chokepoint</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hormuz = Persian Gulf ↔ Gulf of Oman; **Iran north / Oman south**.
+
+**Logic:** Shore swap and Red Sea confusion are common.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">El Niño’s biological effect off Peru is typically:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Stronger upwelling and more fish</div><div class="pyq-opt"><span class="opt-letter">B</span> Weaker upwelling and fewer plankton/fish</div><div class="pyq-opt"><span class="opt-letter">C</span> No change in upwelling</div><div class="pyq-opt"><span class="opt-letter">D</span> Permanent ice cover</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Warm phase → **less upwelling** → less plankton and fish.
+
+**Logic:** Warm water ≠ more fish in this eastern Pacific case.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. India’s west continental shelf is wider than the east.<br>2. Bombay High sits on the wide western shelf.<br>3. Telegraphic Plateau is an Indian Ocean land plateau.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Telegraphic Plateau = North Atlantic Ridge feature.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which deposit type is siliceous?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Globigerina ooze</div><div class="pyq-opt"><span class="opt-letter">B</span> Pteropod ooze</div><div class="pyq-opt"><span class="opt-letter">C</span> Diatom ooze</div><div class="pyq-opt"><span class="opt-letter">D</span> All calcareous oozes</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Diatom (and radiolarian) oozes are **siliceous**.
+
+**Logic:** Globigerina/pteropod are calcareous.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Suez Canal ships must climb stepped chambers like Panama.<br>Reason (R): Suez is a sea-level cut between the Mediterranean and the Red Sea.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is false; R is true.
+
+**A/R logic:** Panama uses stepped chambers / Gatun Lake; Suez does not.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The Bay of Fundy is famous for:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Lowest salinity</div><div class="pyq-opt"><span class="opt-letter">B</span> Greatest tidal range</div><div class="pyq-opt"><span class="opt-letter">C</span> Deepest trench</div><div class="pyq-opt"><span class="opt-letter">D</span> Warmest surface water</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Greatest tidal range teaching tag.
+
+**Logic:** Hooghly/Amazon are tidal-bore pairs; Fundy is range.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which current is cold?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Brazil</div><div class="pyq-opt"><span class="opt-letter">B</span> Agulhas</div><div class="pyq-opt"><span class="opt-letter">C</span> California</div><div class="pyq-opt"><span class="opt-letter">D</span> Kuroshio</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> California is a cold eastern-boundary current.
+
+**Logic:** Brazil, Agulhas and Kuroshio are warm.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to polar presence, which is/are correct?<br><br>1. Antarctic Treaty ~1959/61; India joined 1983.<br>2. Himadri is India’s Arctic station.<br>3. India is a full member (not observer) of the Arctic Council.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** India is an **observer** in the Arctic Council.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Coral bleaching is commonly paired with sea-surface warming of about:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 0.2°C</div><div class="pyq-opt"><span class="opt-letter">B</span> 2°C</div><div class="pyq-opt"><span class="opt-letter">C</span> 12°C</div><div class="pyq-opt"><span class="opt-letter">D</span> 20°C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> About **2°C** warming is the teaching bleach pair.
+
+**Logic:** India’s reef belts remain Andaman–Nicobar, Lakshadweep, Mannar, Kachchh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which country list for Persian Gulf coasts is correct in the usual set?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Includes Oman as a main Gulf littoral like UAE</div><div class="pyq-opt"><span class="opt-letter">B</span> Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE — not Oman</div><div class="pyq-opt"><span class="opt-letter">C</span> Only Iran and Saudi Arabia</div><div class="pyq-opt"><span class="opt-letter">D</span> Includes Jordan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Oman is on the Gulf of Oman / Hormuz south shore, not the classic Persian Gulf littoral list.
+
+**Logic:** Jordan’s sea window is Aqaba/Red Sea.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange Suez Canal lakes from north to south:<br><br>1. Great Bitter<br>2. Manzala<br>3. Timsah<br>4. Little Bitter</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–3–1–4</div><div class="pyq-opt"><span class="opt-letter">B</span> 3–2–1–4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–1–3–4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1–2–3–4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Manzala → Timsah → Great Bitter → Little Bitter.
+
+**Logic:** North (Port Said) to south (Suez) lake ladder.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Datum line — mean sea level reference</div><div class="pyq-opt"><span class="opt-letter">B</span> Sargasso — North Atlantic, no coast</div><div class="pyq-opt"><span class="opt-letter">C</span> Upwelling — strongest on east coasts of continents only</div><div class="pyq-opt"><span class="opt-letter">D</span> Grand Banks — Labrador meets Gulf Stream fishery</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Upwelling is strongest on **west coasts** (Peru, California, Canary, Benguela, Somalia).
+
+**Logic:** Eastern-boundary cold currents drive classic upwelling.</div>
+  </div>
+</div>

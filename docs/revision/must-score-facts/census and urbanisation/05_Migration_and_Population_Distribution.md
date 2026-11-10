@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Census and Urbanisation Topic 5 — Migration and Population Distribution</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2026** | **Digital Census Architecture & Self-Enumeration Portal** — Office of RGCCI preparing first fully digital, geo-referenced national census with mobile app enumeration | Next decennial census enumeration methodology |
-| **2023** | **Bihar Caste-Based Survey (बिहार जाति गणना)** — Published detailed headcount showing EBC (36%), OBC (27.1%), SC (19.7%), ST (1.7%), General (15.5%) | First published state caste demographic survey since 1931 |
-| **2022–2023** | **UN World Population Prospects (WPP 2022/2023)** — Formally recognised India overtaking China as the most populous nation with ~142.86 Crore population | Global demographic rank shifts |
-| **2021** | **National Family Health Survey (NFHS-5)** — National TFR declined to **2.0** (below replacement level 2.1); UP TFR recorded at **2.35** (down from 2.74 in NFHS-4) | Key fertility & vital statistics benchmark |
-| **2020** | **Sample Registration System (SRS) Statistical Report** — National IMR declined to **28 per 1,000 live births**; UP IMR dropped to **38** | Annual vital statistics tracking |
-| **Rolling** | **Census 2011 Statutory Baseline** — Remains the binding official reference benchmark for all UPPSC/UKPCS examination questions until Census 2021/2026 notification | Core exam master data baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. As per Census 2011, **45.36 Crore people (37.5% of India's population)** are internal migrants by place of last residence.
@@ -121,21 +110,6 @@ hide:
 | **Mobility Transition Model** | **Wilbur Zelinsky** | *The Hypothesis of the Mobility Transition* (**1971**) | Spatial mobility transitions through sequential stages parallel to the **Demographic Transition Model (DTT)**:<br>• Phase 1 (Pre-modern): Little circulation.<br>• Phase 2 (Early transition): Massive rural-to-urban and international migration.<br>• Phase 3 (Late transition): Urban-to-urban dominates.<br>• Phase 4 (Advanced): Inter-urban and intra-urban circulation dominates. | Connects industrialisation and demographic transition with patterns of human migration. |
 | **Todaro Migration Model** | **Michael P. Todaro** | *A Model of Labor Migration and Urban Unemployment* (**1969**) | Rural-urban migration is driven by **expected urban-rural income differentials** rather than actual wage differentials, accounting for urban unemployment probability. | Explains why rural migration to cities continues even in the presence of high urban unemployment. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **Arithmetic Density**: $rac{	ext{Total Population}}{	ext{Total Land Area}}$ | **Physiological Density**: $rac{	ext{Total Population}}{	ext{Net Cultivated Arable Land Area}}$ | **Trap**: Arithmetic density uses *total* geographical area; physiological density uses only *arable / cultivated* land area. Physiological density is always much higher than arithmetic density. |
-| **Highest Out-Migration State**: **Uttar Pradesh** (Origin) | **Highest In-Migration State**: **Maharashtra** (Destination) | **Trap**: UP is the #1 state where migrants *leave from*; Maharashtra (Mumbai/Pune) is the #1 state where migrants *arrive at*. |
-| **Largest Migration Stream (Overall)**: **Rural to Rural** (Female dominated) | **Largest Migration Stream for Economic Jobs**: **Rural to Urban** (Male dominated) | **Trap**: Overall migration is dominated by Rural $	o$ Rural (due to marriage). Employment-seeking migration is dominated by Rural $	o$ Urban. |
-| **Primary Reason for Female Migration**: **Marriage (66.7%)** | **Primary Reason for Male Migration**: **Work / Employment (38%)** | **Trap**: Two-thirds of women migrate due to marriage; over one-third of men migrate for employment. |
-| **Ravenstein's Law of Migration (1885)**: Empirical rules of distance & gender | **Everett Lee's Model of Migration (1966)**: Push-Pull factors & intervening obstacles | **Trap**: Ravenstein discovered migration laws (short distance, female short-distance dominance); Everett Lee formalized Push-Pull factors. |
-| **Highest Density State in 2001**: **West Bengal (903 / km²)** | **Highest Density State in 2011**: **Bihar (1,106 / km²)** | **Trap**: Bihar surpassed West Bengal in Census 2011 to take the 1st rank in density among States. |
-| **Ghost Villages (Almora & Pauri Garhwal)**: Mountainous out-migration | **Urban Congestion (Ghaziabad & Delhi)**: Destination in-migration pressure | **Trap**: Almora and Pauri Garhwal in Uttarakhand recorded *negative* decadal growth due to extreme out-migration. |
-| **Intra-District Migration**: Within the same district (62% of migrants) | **Inter-State Migration**: Across different States (12% of migrants) | **Trap**: The vast majority of migration in India is local and intra-district, not inter-state. |
-| **Agricultural Density**: $rac{	ext{Agricultural Workers}}{	ext{Net Cultivated Area}}$ | **Agricultural Population Density**: Total farm household members on arable land | **Trap**: Agricultural density measures the ratio of farm workers to farm land; high agricultural density indicates agricultural overcrowding and low labour productivity. |
-| **One Nation One Ration Card (ONORC)**: Domestic food ration portability | **e-Shram Portal**: National database of unorganized & migrant labour | **Trap**: ONORC provides food grain portability across PDS ration shops; e-Shram is a digital registry issuing 12-digit UAN numbers. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **Internal Migration Streams Order**: **R-R > R-U > U-U > U-R** (Rural to Rural leads overwhelmingly due to female marriage migration)
@@ -147,249 +121,262 @@ hide:
   - **Physiological Density**: $	ext{Total Population} / 	ext{Net Cultivated Area}$
   - **Agricultural Density**: $	ext{Agricultural Population} / 	ext{Net Cultivated Area}$.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Natural growth of population is the outcome of which of the following?
-A. Crude Birth Rate  B. Crude Death Rate  C. Migration  D. Marriages
-Select the correct answer from the codes:
-A. A and B
-B. B and C
-C. A, B and C
-D. A, B, C and D
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Natural growth excludes migration.
-
-**Ans: A.** CBR and CDR only.
-
-</details>
-
-**Q2.**
-Which State is the largest source of inter-State out-migrants in India in Census analyses?
-A. Maharashtra
-B. Uttar Pradesh
-C. Kerala
-D. Goa
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Destination magnets: Maharashtra, Delhi, Gujarat — source belt: UP–Bihar.
-
-**Ans: B.** Uttar Pradesh (with Bihar).
-
-</details>
-
-**Q3.**
-‘Push and pull factors’ in migration refer to:
-A. Only government policies
-B. Forces driving people from origin and attracting them to destination
-C. Only international migration
-D. Only economic factors
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Poverty/drought push; jobs/education pull — Ravenstein/Lee framework.
-
-**Ans: B.** Push at origin + pull at destination.
-
-</details>
-
-**Q4.**
-According to Ravenstein, which group predominates in short-distance migration?
-A. Adult males
-B. Females
-C. Elderly
-D. Children under 15
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Long-distance streams historically more male-dominated — classic law pair.
-
-**Ans: B.** Females (marriage migration) in many short-distance streams.
-
-</details>
-
-**Q5.**
-In Census of India, the largest internal migration stream by volume is typically:
-A. Rural to Rural
-B. Urban to Urban
-C. Rural to Urban
-D. Urban to Rural
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** R–U is more visible in media but R–R dominates absolute counts.
-
-**Ans: A.** Rural–Rural (especially marriage migration).
-
-</details>
-
-**Q6.**
-Which of the following is the correct sequence of phases of Biotic succession?
-A. Ecesis – Migration – Reaction – Stabilisation
-B. Ecesis – Migration – Stabilisation – Reaction
-C. Migration – Reaction – Stabilisation – Ecesis
-D. Migration – Ecesis – Reaction – Stabilisation
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ecological succession (species migration), not human migration — keep the word trap clear.
-
-**Ans: D.** Migration → Ecesis → Reaction → Stabilisation.
-
-</details>
-
-**Q7.**
-Among the following, which one has the minimum population on the basis of data of Census of India, 2001?
-A. Chandigarh
-B. Mizoram
-C. Puducherry
-D. Sikkim
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Sikkim.
-
-**Ans: D.** Sikkim
-</details>
-
-**Q8.**
-Which one among the following States of India has the lowest density of population?
-A. Himachal Pradesh
-B. Meghalaya
-C. Arunachal Pradesh
-D. Sikkim
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same ranking survives into Census 2011 (~17/km²).
-
-**Ans: C.** Arunachal Pradesh.
-
-</details>
-
-**Q9.**
-Amongst the following States, which one has the highest percentage of rural population (Census 2001)?
-A. Himachal Pradesh
-B. Bihar
-C. Orissa
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Highest rural % among these — not Bihar (often confused with low urbanisation).
-
-**Ans: A.** Himachal Pradesh.
-
-</details>
-
-**Q10.**
-According to the Population Census 2001, which Indian State has the maximum population after Uttar Pradesh?
-A. West Bengal
-B. Maharashtra
-C. Bihar
-D. Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 2001 order: UP > Maharashtra > Bihar… — do not project 2011 Bihar rise into 2001 keys.
-
-**Ans: B.** Maharashtra.
-
-</details>
-
-**Q11.**
-Consider the following statements:
-1. Sikkim has the minimum area among the 28 Indian States (Delhi and Pondicherry not included).
-2. Chandigarh has the highest literacy rate among Pondicherry, NCT of Delhi and other Union Territories.
-3. Maharashtra has the highest population after Uttar Pradesh among the 28 Indian States.
-Which is/are correct?
-A. 1 and 2
-B. 2 and 3
-C. 1 only
-D. 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 3 only.
-
-**Ans: D.** 3 only
-</details>
-
-**Q12.**
-Which of the following is the most dominant stream of internal migration in India as per Census 2011?
-A. Urban to Urban
-B. Rural to Urban
-C. Rural to Rural
-D. Urban to Rural
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rural to Rural is the most dominant stream by volume (mostly women migrating for marriage).
-
-**Ans: C.** Rural to Rural (marriage migration dominates total numbers).
-
-</details>
-
-**Q13.**
-India's largest source State of inter-state out-migrants as per Census 2011 was:
-A. Bihar
-B. Uttar Pradesh
-C. Rajasthan
-D. Madhya Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP is the largest source of interstate out-migrants, followed by Bihar.
-
-**Ans: B.** Uttar Pradesh.
-
-</details>
-
-**Q14.**
-The term 'Brain Drain' refers to:
-A. Decline in the mental health of urban workers
-B. Large-scale migration of intellectuals and skilled persons to another country
-C. Seasonal migration of agricultural labour
-D. Forced migration due to natural disasters
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Brain Drain = emigration of highly skilled, educated, and talented individuals from developing countries to developed ones (e.g., Indian doctors/IT professionals to USA/UK).
-
-**Ans: B.** Migration of skilled/educated persons to another country.
-
-</details>
-
-**Q15.**
-Which Indian State receives the highest remittances from abroad (Gulf migration)?
-A. Punjab
-B. Kerala
-C. Goa
-D. Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Kerala.
-
-**Ans: B.** Kerala
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Natural growth of population is the outcome of which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Crude Birth Rate  B. Crude Death Rate  C. Migration  D. Marriages
+Select the correct answer from the codes:</div><div class="pyq-opt"><span class="opt-letter">A</span> A and B</div><div class="pyq-opt"><span class="opt-letter">B</span> B and C</div><div class="pyq-opt"><span class="opt-letter">C</span> A, B and C</div><div class="pyq-opt"><span class="opt-letter">D</span> A, B, C and D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Natural growth excludes migration.
+
+**Ans: A.** CBR and CDR only.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which State is the largest source of inter-State out-migrants in India in Census analyses?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Maharashtra</div><div class="pyq-opt"><span class="opt-letter">B</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">D</span> Goa</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Destination magnets: Maharashtra, Delhi, Gujarat — source belt: UP–Bihar.
+
+**Ans: B.** Uttar Pradesh (with Bihar).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">‘Push and pull factors’ in migration refer to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only government policies</div><div class="pyq-opt"><span class="opt-letter">B</span> Forces driving people from origin and attracting them to destination</div><div class="pyq-opt"><span class="opt-letter">C</span> Only international migration</div><div class="pyq-opt"><span class="opt-letter">D</span> Only economic factors</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Poverty/drought push; jobs/education pull — Ravenstein/Lee framework.
+
+**Ans: B.** Push at origin + pull at destination.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">According to Ravenstein, which group predominates in short-distance migration?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Adult males</div><div class="pyq-opt"><span class="opt-letter">B</span> Females</div><div class="pyq-opt"><span class="opt-letter">C</span> Elderly</div><div class="pyq-opt"><span class="opt-letter">D</span> Children under 15</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Long-distance streams historically more male-dominated — classic law pair.
+
+**Ans: B.** Females (marriage migration) in many short-distance streams.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In Census of India, the largest internal migration stream by volume is typically:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rural to Rural</div><div class="pyq-opt"><span class="opt-letter">B</span> Urban to Urban</div><div class="pyq-opt"><span class="opt-letter">C</span> Rural to Urban</div><div class="pyq-opt"><span class="opt-letter">D</span> Urban to Rural</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** R–U is more visible in media but R–R dominates absolute counts.
+
+**Ans: A.** Rural–Rural (especially marriage migration).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is the correct sequence of phases of Biotic succession?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ecesis – Migration – Reaction – Stabilisation</div><div class="pyq-opt"><span class="opt-letter">B</span> Ecesis – Migration – Stabilisation – Reaction</div><div class="pyq-opt"><span class="opt-letter">C</span> Migration – Reaction – Stabilisation – Ecesis</div><div class="pyq-opt"><span class="opt-letter">D</span> Migration – Ecesis – Reaction – Stabilisation</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ecological succession (species migration), not human migration — keep the word trap clear.
+
+**Ans: D.** Migration → Ecesis → Reaction → Stabilisation.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Among the following, which one has the minimum population on the basis of data of Census of India, 2001?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chandigarh</div><div class="pyq-opt"><span class="opt-letter">B</span> Mizoram</div><div class="pyq-opt"><span class="opt-letter">C</span> Puducherry</div><div class="pyq-opt"><span class="opt-letter">D</span> Sikkim</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Sikkim.
+
+**Ans: D.** Sikkim</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which one among the following States of India has the lowest density of population?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Himachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Meghalaya</div><div class="pyq-opt"><span class="opt-letter">C</span> Arunachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">D</span> Sikkim</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Same ranking survives into Census 2011 (~17/km²).
+
+**Ans: C.** Arunachal Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Amongst the following States, which one has the highest percentage of rural population (Census 2001)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Himachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Bihar</div><div class="pyq-opt"><span class="opt-letter">C</span> Orissa</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Highest rural % among these — not Bihar (often confused with low urbanisation).
+
+**Ans: A.** Himachal Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">According to the Population Census 2001, which Indian State has the maximum population after Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> West Bengal</div><div class="pyq-opt"><span class="opt-letter">B</span> Maharashtra</div><div class="pyq-opt"><span class="opt-letter">C</span> Bihar</div><div class="pyq-opt"><span class="opt-letter">D</span> Tamil Nadu</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 2001 order: UP > Maharashtra > Bihar… — do not project 2011 Bihar rise into 2001 keys.
+
+**Ans: B.** Maharashtra.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br>1. Sikkim has the minimum area among the 28 Indian States (Delhi and Pondicherry not included).<br>2. Chandigarh has the highest literacy rate among Pondicherry, NCT of Delhi and other Union Territories.<br>3. Maharashtra has the highest population after Uttar Pradesh among the 28 Indian States.<br>Which is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 3 only.
+
+**Ans: D.** 3 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following is the most dominant stream of internal migration in India as per Census 2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Urban to Urban</div><div class="pyq-opt"><span class="opt-letter">B</span> Rural to Urban</div><div class="pyq-opt"><span class="opt-letter">C</span> Rural to Rural</div><div class="pyq-opt"><span class="opt-letter">D</span> Urban to Rural</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rural to Rural is the most dominant stream by volume (mostly women migrating for marriage).
+
+**Ans: C.** Rural to Rural (marriage migration dominates total numbers).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">India's largest source State of inter-state out-migrants as per Census 2011 was:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bihar</div><div class="pyq-opt"><span class="opt-letter">B</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Rajasthan</div><div class="pyq-opt"><span class="opt-letter">D</span> Madhya Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP is the largest source of interstate out-migrants, followed by Bihar.
+
+**Ans: B.** Uttar Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The term 'Brain Drain' refers to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Decline in the mental health of urban workers</div><div class="pyq-opt"><span class="opt-letter">B</span> Large-scale migration of intellectuals and skilled persons to another country</div><div class="pyq-opt"><span class="opt-letter">C</span> Seasonal migration of agricultural labour</div><div class="pyq-opt"><span class="opt-letter">D</span> Forced migration due to natural disasters</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Brain Drain = emigration of highly skilled, educated, and talented individuals from developing countries to developed ones (e.g., Indian doctors/IT professionals to USA/UK).
+
+**Ans: B.** Migration of skilled/educated persons to another country.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which Indian State receives the highest remittances from abroad (Gulf migration)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Punjab</div><div class="pyq-opt"><span class="opt-letter">B</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">C</span> Goa</div><div class="pyq-opt"><span class="opt-letter">D</span> Tamil Nadu</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Kerala.
+
+**Ans: B.** Kerala</div>
+  </div>
+</div>

@@ -124,12 +124,14 @@ hide:
 | Planet | Distance from Sun (Rank) | Moons (Satellites) | Rotation Period | Revolution Period | Atmosphere / Distinctive Physical Features | High-Yield Prelims Exam Lock |
 |---|---|---|---|---|---|---|
 | **Mercury (बुध)** | #1 (Closest, 58M km) | **0 (None)** | 59 Earth days | **88 Earth days (Fastest)** | Virtually atmosphere-less; extreme temperature swing (-180°C to +430°C) | Smallest planet in solar system; fastest orbital speed (47 km/s) |
-| **Venus (शुक्र)** | #2 (108M km) | **0 (None)** | **243 days (Longest, Retrograde E $ightarrow$ W)** | 225 days | **~96% $CO_2$**; runaway greenhouse effect; sulphuric acid clouds | **Hottest planet (~465°C)**; "Morning Star" & "Evening Star"; "Earth's Twin" |
+| **Venus (शुक्र)** | #2 (108M km) | **0 (None)** | **243 days (Longest, Retrograde E $
+ightarrow$ W)** | 225 days | **~96% $CO_2$**; runaway greenhouse effect; sulphuric acid clouds | **Hottest planet (~465°C)**; "Morning Star" & "Evening Star"; "Earth's Twin" |
 | **Earth (पृथ्वी)** | #3 (150M km) | 1 (Moon) | 23h 56m 4s | 365.25 days | 78% $N_2$, 21% $O_2$, 0.93% Ar, 0.04% $CO_2$; liquid water | **Densest planet in solar system (5.51 g/cm³)**; "Blue Planet" |
 | **Mars (मंगल)** | #4 (228M km) | **2 (Phobos & Deimos)** | 24h 37m | 687 days | Thin $CO_2$ atmosphere; polar dry-ice caps; iron oxide dust | **"Red Planet"**; **Olympus Mons** (largest volcano in solar system); Deimos is smallest moon |
 | **Jupiter (बृहस्पति)** | #5 (778M km) | **95+ (Ganymede, Europa, Io, Callisto)** | **9h 55m (Fastest rotation)** | 11.86 Earth years | $H_2$, $He$, methane; faint ring system; **Great Red Spot** anticyclone | **Largest planet in solar system**; **Ganymede** is largest satellite (bigger than Mercury) |
 | **Saturn (शनि)** | #6 (1,427M km) | **146+ (Titan, Enceladus, Mimas)** | 10h 33m | 29.45 Earth years | Hydrogen and helium; spectacular ring system composed of water ice | **Lowest density (0.69 g/cm³ — less than water!)**; **Titan** has dense nitrogen atmosphere |
-| **Uranus (अरुण)** | #7 (2,870M km) | 28 (Titania, Oberon, Miranda) | 17h 14m (**Retrograde E $ightarrow$ W**) | 84 Earth years | Hydrogen, helium, methane; faint dark rings; pale cyan/green color | Rotates on its side (**axial tilt 98°** — "Rolling Planet"); ice giant |
+| **Uranus (अरुण)** | #7 (2,870M km) | 28 (Titania, Oberon, Miranda) | 17h 14m (**Retrograde E $
+ightarrow$ W**) | 84 Earth years | Hydrogen, helium, methane; faint dark rings; pale cyan/green color | Rotates on its side (**axial tilt 98°** — "Rolling Planet"); ice giant |
 | **Neptune (वरुण)** | #8 (Farthest, 4,498M km) | 16 (Triton, Proteus) | 16h 6m | **164.8 Earth years (Slowest)** | Methane, ammonia, hydrogen; violent supersonic winds (>2,000 km/h) | Farthest planet; deep azure blue color; **Triton** has retrograde orbit & nitrogen geysers |
 
 ### 2. Earth's Interior Layers & Seismic Discontinuities
@@ -153,19 +155,6 @@ hide:
 | **Equinox (विषुव)** | Sun overhead directly at **Equator (0°)** | **March 21 (Vernal)** & **Sept 23 (Autumnal)** | Equal day and night (12 hours each) all over the Earth |
 | **Solar Eclipse (सूर्य ग्रहण)** | Moon comes directly between Sun and Earth (**Sun–Moon–Earth**) | Occurs only on **New Moon (*Amavasya*)** | Moon's shadow (umbra/penumbra) falls on Earth's surface |
 | **Lunar Eclipse (चंद्र ग्रहण)** | Earth comes directly between Sun and Moon (**Sun–Earth–Moon**) | Occurs only on **Full Moon (*Purnima*)** | Earth's shadow falls on the Moon, turning it reddish (Rayleigh scattering) |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Perihelion** | **Aphelion** | Earth is **closest to the Sun** (~147M km on **January 3**) vs Earth is **farthest from the Sun** (~152M km on **July 4**) | उपसौर (3 जनवरी / पास) / अपसौर (4 जुलाई / दूर) |
-| **Perigee** | **Apogee** | Moon is **closest to Earth** in its elliptical orbit (~363,000 km; supermoon) vs Moon is **farthest from Earth** (~405,000 km; micromoon) | उपभू (निकटतम चंद्रमा) / अपभू (दूरस्थ चंद्रमा) |
-| **Solar Eclipse** | **Lunar Eclipse** | Moon is in the middle (**Sun–Moon–Earth**); happens on **New Moon** only vs Earth is in the middle (**Sun–Earth–Moon**); happens on **Full Moon** only | सूर्य ग्रहण (अमावस्या) / चंद्र ग्रहण (पूर्णिमा) |
-| **Retrograde Rotation** | **Direct Rotation** | Rotates **East to West** (Clockwise from north pole; only **Venus and Uranus**) vs Rotates **West to East** (Counter-clockwise; all other 6 planets including Earth) | पूर्व से पश्चिम घूर्णन (शुक्र एवं अरुण) / पश्चिम से पूर्व |
-| **Terrestrial Planets** | **Jovian Planets** | Four inner rocky dense planets (**Mercury, Venus, Earth, Mars**) vs Four outer gaseous low-density giant planets (**Jupiter, Saturn, Uranus, Neptune**) | पार्थिव ग्रह / जोवियन (गैसीय) ग्रह |
-| **Moho Discontinuity** | **Gutenberg Discontinuity** | Boundary between **Crust and Mantle** (~35 km) vs Boundary between **Mantle and Outer Core** (~2,900 km, where S-waves cease) | मोहो असांतत्य (क्रस्ट-मेंटल) / गुटेनबर्ग (मेंटल-कोर) |
-| **Meteoroid** | **Meteorite** | Small rocky fragment orbiting in interplanetary space vs Solid extraterrestrial rock fragment that survives atmospheric flight and **hits the Earth's surface** | उल्कापिंड (अंतरिक्ष) / उल्का-अवशेष (भूमि पर गिरा) |
-| **Asteroid Belt** | **Kuiper Belt** | Ring of rocky minor planets between the orbits of **Mars and Jupiter** vs Ring of icy trans-Neptunian bodies and dwarf planets **beyond the orbit of Neptune** | क्षुद्रग्रह पेटी / काइपर पेटी |
 
 ## 🧠 Memory Anchors & Mnemonics
 
@@ -194,391 +183,357 @@ hide:
 - **Peri**helion = **P**aas (**C**lose) in **Jan**uary
 - **Ap**helion = **A**way (**F**ar) in **Jul**y
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-With reference to the origin of the universe and the solar system, which of the following pairs is/are correctly matched?
-
-1. Big Bang — Lemaître / Gamow
-2. Steady State — Kant–Laplace
-3. Nebular Hypothesis — Hoyle–Bondi–Gold
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only statement 1 is correct.
-
-**Logic:** Steady State = Hoyle–Bondi–Gold; Nebular = Kant–Laplace. The stem swaps those two pairs.
-
-</details>
-
-**Q2.**
-Which one of the following correctly states the Chandrasekhar limit?
-
-A. About 1.44 solar masses — white-dwarf ceiling
-B. About 3 solar masses — neutron-star ceiling only
-C. About 0.08 solar masses — brown-dwarf limit
-D. About 8 solar masses — main-sequence turn-off for all stars
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** The Chandrasekhar limit is about **1.44 M☉**, the white-dwarf ceiling.
-
-**Logic:** Above that mass the remnant path runs toward a neutron star or black hole. Do not confuse with Eddington or brown-dwarf mass floors.
-
-</details>
-
-**Q3.**
-Consider the following statements:
-
-1. Venus is the hottest planet in the solar system.
-2. Earth has the highest mean density among the eight planets.
-3. Ganymede, the largest moon, belongs to Saturn.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Largest moon is **Ganymede (Jupiter)**, not Titan/Saturn. Titan is Saturn’s largest moon and has a thick atmosphere.
-
-</details>
-
-**Q4.**
-Assertion (A): A solar eclipse can occur only on a New Moon day.
-Reason (R): On a Full Moon day the Earth lies between the Sun and the Moon.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both are true, but R explains a **lunar** eclipse geometry, not why solar eclipses need New Moon.
-
-**A/R logic:** A is true (Moon between Sun and Earth at New Moon). R is also true (Full Moon geometry), but it does not explain A.
-
-</details>
-
-**Q5.**
-With reference to Earth’s motions, which of the following statements is/are correct?
-
-1. Seasons are caused primarily by the perihelion–aphelion distance change.
-2. Perihelion occurs around early January.
-3. Equinoxes occur around 21 March and 23 September.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Statements 2 and 3 are correct.
-
-**Logic:** Seasons come from **23½° axial tilt**, not perihelion distance. NH winter is near perihelion — classic trap.
-
-</details>
-
-**Q6.**
-Which of the following is a great circle?
-
-A. Tropic of Cancer
-B. Arctic Circle
-C. Equator
-D. Parallel of 60°N
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** The Equator (and all meridians) are great circles.
-
-**Logic:** Parallels other than the Equator are small circles. 60°N is a common wrong option.
-
-</details>
-
-**Q7.**
-With reference to India, which of the following statements is/are correct?
-
-1. India is the sixth largest country in the world by area.
-2. India occupies about 2.4% of the world’s land area.
-3. The Tropic of Cancer passes through the middle of the country.
-4. India lies completely in the tropical zone.
-
-A. 2 and 3
-B. 2 and 4
-C. 3 and 4
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 2 and 3 are correct.
-
-**Logic:** India is **7th**, not 6th. Tropic through the middle is an NCERT fact, but India is **not** wholly tropical.
-
-</details>
-
-**Q8.**
-Indian Standard Time is based on which meridian?
-
-A. 82°30′ E near Mirzapur
-B. 82°30′ E near Prayagraj
-C. 90° E near Kolkata
-D. 75° E near Jaipur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** IST uses **82°30′ E** near **Mirzapur (UP)**; IST = GMT + 5 h 30 min for the whole country.
-
-**Logic:** Trap is swapping Mirzapur with Prayagraj/Kolkata or inventing a second Indian time zone.
-
-</details>
-
-**Q9.**
-The protective ozone layer that absorbs ultraviolet radiation is found mainly in the:
-
-A. Troposphere
-B. Stratosphere
-C. Mesosphere
-D. Thermosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Stratospheric ozone is the UV shield.
-
-**Logic:** Weather is troposphere; meteors burn in mesosphere; ionosphere/auroras sit higher.
-
-</details>
-
-**Q10.**
-The Earth’s atmosphere is heated mainly by:
-
-A. Short-wave solar radiation alone
-B. Long-wave terrestrial radiation
-C. Cosmic rays
-D. Geothermal heat from the core
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Heating is mainly by **long-wave terrestrial** radiation from the surface.
-
-**Logic:** Short-wave mainly warms the ground first; air takes heat from outgoing infrared.
-
-</details>
-
-**Q11.**
-Which one of the following is NOT a greenhouse gas in the usual prelims set?
-
-A. Methane
-B. Carbon dioxide
-C. Argon
-D. Nitrous oxide
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Argon is a permanent dry-air gas but **not** a greenhouse gas.
-
-**Logic:** GHG set = vapour, CO₂, CH₄, N₂O, O₃, CFCs. Argon is the classic distractor.
-
-</details>
-
-**Q12.**
-With reference to El Niño, which of the following statements is/are correct?
-
-1. El Niño involves a warm current off the Peruvian coast in the eastern Pacific.
-2. This warm phase strengthens coastal upwelling and increases plankton.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only statement 1 is correct.
-
-**Logic:** Warm phase → **less upwelling** → **less** plankton and fish. Statement 2 reverses the biological effect.
-
-</details>
-
-**Q13.**
-Assertion (A): Jet streams discovered during World War II are high-altitude easterly winds.
-Reason (R): Jet streams can flow with speeds of about 300–500 km/h.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Main jets are **westerlies**; TEJ is the summer easterly exception. Speed band 300–500 km/h is correct.
-
-</details>
-
-**Q14.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Feature) | List-II (Association) |
-|---|---|
-| 1. Horse latitudes | A. Equatorial low / rising air |
-| 2. ITCZ | B. Subtropical high ~30° |
-| 3. Roaring Forties | C. Strong westerlies ~40°S |
-| 4. Willy-Willy | D. Tropical cyclone — Australia |
-
-A. 1-B, 2-A, 3-C, 4-D
-B. 1-A, 2-B, 3-C, 4-D
-C. 1-B, 2-A, 3-D, 4-C
-D. 1-C, 2-A, 3-B, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Horse latitudes = subtropical high; ITCZ = equatorial low; Roaring Forties = ~40°S westerlies; Willy-Willy = Australia.
-
-**Logic:** Row order in the table is not the answer code. Trap is swapping ITCZ with horse latitudes.
-
-</details>
-
-**Q15.**
-Which of the following volcanoes is NOT located in the Pacific Ring of Fire?
-
-A. Mount Fuji
-B. Mount Pinatubo
-C. Mount Kilimanjaro
-D. Mount St. Helens
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Kilimanjaro sits on the **East African Rift**, not the Ring of Fire.
-
-**Logic:** Fuji, Pinatubo and St. Helens are classic Circum-Pacific names.
-
-</details>
-
-**Q16.**
-Consider the following rock transformations:
-
-1. Granite → gneiss
-2. Limestone → quartzite
-3. Sandstone → marble
-4. Shale → slate
-
-Which of the pairs given above is/are correctly matched?
-
-A. 1 and 4
-B. Only 2
-C. 2 and 3
-D. 1, 2 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only pairs 1 and 4 are correct.
-
-**Logic:** Limestone → **marble**; sandstone → **quartzite**. Statements 2 and 3 are swapped.
-
-</details>
-
-**Q17.**
-With reference to earthquakes, which of the following statements is/are correct?
-
-1. The focus is the surface point directly above the rupture.
-2. S-waves can travel through the liquid outer core.
-3. Richter scale measures magnitude; Mercalli scale measures intensity.
-
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only statement 3 is correct.
-
-**Logic:** Focus/hypocentre is inside; epicentre is the surface point. S-waves are **solids only** and stop at the liquid outer core.
-
-</details>
-
-**Q18.**
-Which one of the following is India’s only confirmed active volcano?
-
-A. Narcondam
-B. Barren Island
-C. Deccan Traps fissure field
-D. Kilimanjaro
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Barren Island** (Andaman) is India’s only confirmed active volcano.
-
-**Logic:** Deccan is ancient fissure volcanism; Kilimanjaro is African Rift / dormant framing.
-
-</details>
-
-**Q19.**
-Montreal Protocol and Kyoto Protocol are correctly distinguished as:
-
-A. Montreal — climate / GHG; Kyoto — ozone / CFCs
-B. Montreal — ozone / CFCs; Kyoto — climate / GHG
-C. Both deal only with ozone-depleting substances
-D. Both deal only with carbon markets
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Montreal = ozone path; Kyoto = climate / greenhouse gases.
-
-**Logic:** Paris continues the climate/NDC path after Kyoto. Do not swap the two treaties.
-
-</details>
-
-**Q20.**
-Which of the following energy sources is/are NOT ultimately derived from the Sun’s energy?
-
-1. Biomass energy
-2. Nuclear energy
-3. Wind energy
-4. Geothermal energy
-
-A. 1 and 3
-B. 2 and 4
-C. Only 2
-D. Only 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Nuclear (fission) and geothermal (Earth’s internal heat) are **not** stored solar energy.
-
-**Logic:** Wind and biomass are solar-linked. Prelims often parks both non-solar options together.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the origin of the universe and the solar system, which of the following pairs is/are correctly matched?<br><br>1. Big Bang — Lemaître / Gamow<br>2. Steady State — Kant–Laplace<br>3. Nebular Hypothesis — Hoyle–Bondi–Gold</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only statement 1 is correct.
+
+**Logic:** Steady State = Hoyle–Bondi–Gold; Nebular = Kant–Laplace. The stem swaps those two pairs.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which one of the following correctly states the Chandrasekhar limit?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> About 1.44 solar masses — white-dwarf ceiling</div><div class="pyq-opt"><span class="opt-letter">B</span> About 3 solar masses — neutron-star ceiling only</div><div class="pyq-opt"><span class="opt-letter">C</span> About 0.08 solar masses — brown-dwarf limit</div><div class="pyq-opt"><span class="opt-letter">D</span> About 8 solar masses — main-sequence turn-off for all stars</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Chandrasekhar limit is about **1.44 M☉**, the white-dwarf ceiling.
+
+**Logic:** Above that mass the remnant path runs toward a neutron star or black hole. Do not confuse with Eddington or brown-dwarf mass floors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Venus is the hottest planet in the solar system.<br>2. Earth has the highest mean density among the eight planets.<br>3. Ganymede, the largest moon, belongs to Saturn.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Largest moon is **Ganymede (Jupiter)**, not Titan/Saturn. Titan is Saturn’s largest moon and has a thick atmosphere.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): A solar eclipse can occur only on a New Moon day.<br>Reason (R): On a Full Moon day the Earth lies between the Sun and the Moon.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true, but R explains a **lunar** eclipse geometry, not why solar eclipses need New Moon.
+
+**A/R logic:** A is true (Moon between Sun and Earth at New Moon). R is also true (Full Moon geometry), but it does not explain A.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to Earth’s motions, which of the following statements is/are correct?<br><br>1. Seasons are caused primarily by the perihelion–aphelion distance change.<br>2. Perihelion occurs around early January.<br>3. Equinoxes occur around 21 March and 23 September.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 2 and 3 are correct.
+
+**Logic:** Seasons come from **23½° axial tilt**, not perihelion distance. NH winter is near perihelion — classic trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is a great circle?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tropic of Cancer</div><div class="pyq-opt"><span class="opt-letter">B</span> Arctic Circle</div><div class="pyq-opt"><span class="opt-letter">C</span> Equator</div><div class="pyq-opt"><span class="opt-letter">D</span> Parallel of 60°N</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Equator (and all meridians) are great circles.
+
+**Logic:** Parallels other than the Equator are small circles. 60°N is a common wrong option.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to India, which of the following statements is/are correct?<br><br>1. India is the sixth largest country in the world by area.<br>2. India occupies about 2.4% of the world’s land area.<br>3. The Tropic of Cancer passes through the middle of the country.<br>4. India lies completely in the tropical zone.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 2 and 3 are correct.
+
+**Logic:** India is **7th**, not 6th. Tropic through the middle is an NCERT fact, but India is **not** wholly tropical.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Indian Standard Time is based on which meridian?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 82°30′ E near Mirzapur</div><div class="pyq-opt"><span class="opt-letter">B</span> 82°30′ E near Prayagraj</div><div class="pyq-opt"><span class="opt-letter">C</span> 90° E near Kolkata</div><div class="pyq-opt"><span class="opt-letter">D</span> 75° E near Jaipur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> IST uses **82°30′ E** near **Mirzapur (UP)**; IST = GMT + 5 h 30 min for the whole country.
+
+**Logic:** Trap is swapping Mirzapur with Prayagraj/Kolkata or inventing a second Indian time zone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">The protective ozone layer that absorbs ultraviolet radiation is found mainly in the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Troposphere</div><div class="pyq-opt"><span class="opt-letter">B</span> Stratosphere</div><div class="pyq-opt"><span class="opt-letter">C</span> Mesosphere</div><div class="pyq-opt"><span class="opt-letter">D</span> Thermosphere</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Stratospheric ozone is the UV shield.
+
+**Logic:** Weather is troposphere; meteors burn in mesosphere; ionosphere/auroras sit higher.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The Earth’s atmosphere is heated mainly by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Short-wave solar radiation alone</div><div class="pyq-opt"><span class="opt-letter">B</span> Long-wave terrestrial radiation</div><div class="pyq-opt"><span class="opt-letter">C</span> Cosmic rays</div><div class="pyq-opt"><span class="opt-letter">D</span> Geothermal heat from the core</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Heating is mainly by **long-wave terrestrial** radiation from the surface.
+
+**Logic:** Short-wave mainly warms the ground first; air takes heat from outgoing infrared.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT a greenhouse gas in the usual prelims set?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Methane</div><div class="pyq-opt"><span class="opt-letter">B</span> Carbon dioxide</div><div class="pyq-opt"><span class="opt-letter">C</span> Argon</div><div class="pyq-opt"><span class="opt-letter">D</span> Nitrous oxide</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Argon is a permanent dry-air gas but **not** a greenhouse gas.
+
+**Logic:** GHG set = vapour, CO₂, CH₄, N₂O, O₃, CFCs. Argon is the classic distractor.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to El Niño, which of the following statements is/are correct?<br><br>1. El Niño involves a warm current off the Peruvian coast in the eastern Pacific.<br>2. This warm phase strengthens coastal upwelling and increases plankton.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only statement 1 is correct.
+
+**Logic:** Warm phase → **less upwelling** → **less** plankton and fish. Statement 2 reverses the biological effect.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Jet streams discovered during World War II are high-altitude easterly winds.<br>Reason (R): Jet streams can flow with speeds of about 300–500 km/h.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Main jets are **westerlies**; TEJ is the summer easterly exception. Speed band 300–500 km/h is correct.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Feature)</th><th>List-II (Association)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Horse latitudes</td><td><span class="match-key">A</span> Equatorial low / rising air</td></tr>
+      <tr><td><span class="match-key">2</span> ITCZ</td><td><span class="match-key">B</span> Subtropical high ~30°</td></tr>
+      <tr><td><span class="match-key">3</span> Roaring Forties</td><td><span class="match-key">C</span> Strong westerlies ~40°S</td></tr>
+      <tr><td><span class="match-key">4</span> Willy-Willy</td><td><span class="match-key">D</span> Tropical cyclone — Australia</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-C, 2-A, 3-B, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Horse latitudes = subtropical high; ITCZ = equatorial low; Roaring Forties = ~40°S westerlies; Willy-Willy = Australia.
+
+**Logic:** Row order in the table is not the answer code. Trap is swapping ITCZ with horse latitudes.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which of the following volcanoes is NOT located in the Pacific Ring of Fire?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mount Fuji</div><div class="pyq-opt"><span class="opt-letter">B</span> Mount Pinatubo</div><div class="pyq-opt"><span class="opt-letter">C</span> Mount Kilimanjaro</div><div class="pyq-opt"><span class="opt-letter">D</span> Mount St. Helens</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kilimanjaro sits on the **East African Rift**, not the Ring of Fire.
+
+**Logic:** Fuji, Pinatubo and St. Helens are classic Circum-Pacific names.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following rock transformations:<br><br>1. Granite → gneiss<br>2. Limestone → quartzite<br>3. Sandstone → marble<br>4. Shale → slate<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 4</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only pairs 1 and 4 are correct.
+
+**Logic:** Limestone → **marble**; sandstone → **quartzite**. Statements 2 and 3 are swapped.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to earthquakes, which of the following statements is/are correct?<br><br>1. The focus is the surface point directly above the rupture.<br>2. S-waves can travel through the liquid outer core.<br>3. Richter scale measures magnitude; Mercalli scale measures intensity.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only statement 3 is correct.
+
+**Logic:** Focus/hypocentre is inside; epicentre is the surface point. S-waves are **solids only** and stop at the liquid outer core.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is India’s only confirmed active volcano?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Narcondam</div><div class="pyq-opt"><span class="opt-letter">B</span> Barren Island</div><div class="pyq-opt"><span class="opt-letter">C</span> Deccan Traps fissure field</div><div class="pyq-opt"><span class="opt-letter">D</span> Kilimanjaro</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Barren Island** (Andaman) is India’s only confirmed active volcano.
+
+**Logic:** Deccan is ancient fissure volcanism; Kilimanjaro is African Rift / dormant framing.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Montreal Protocol and Kyoto Protocol are correctly distinguished as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Montreal — climate / GHG; Kyoto — ozone / CFCs</div><div class="pyq-opt"><span class="opt-letter">B</span> Montreal — ozone / CFCs; Kyoto — climate / GHG</div><div class="pyq-opt"><span class="opt-letter">C</span> Both deal only with ozone-depleting substances</div><div class="pyq-opt"><span class="opt-letter">D</span> Both deal only with carbon markets</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Montreal = ozone path; Kyoto = climate / greenhouse gases.
+
+**Logic:** Paris continues the climate/NDC path after Kyoto. Do not swap the two treaties.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following energy sources is/are NOT ultimately derived from the Sun’s energy?<br><br>1. Biomass energy<br>2. Nuclear energy<br>3. Wind energy<br>4. Geothermal energy</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nuclear (fission) and geothermal (Earth’s internal heat) are **not** stored solar energy.
+
+**Logic:** Wind and biomass are solar-linked. Prelims often parks both non-solar options together.</div>
+  </div>
+</div>

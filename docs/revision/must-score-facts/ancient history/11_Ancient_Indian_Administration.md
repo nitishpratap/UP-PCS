@@ -187,28 +187,6 @@ hide:
 
 ---
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Key Difference (Exam Trap) | Hindi Key |
-|---|---|---|---|
-| **Rajan** | **Maharajadhiraja** | Vedic tribal chief without absolute sovereignty vs Gupta/Harsha "King of Kings" | राजन / महाराजाधिराज |
-| **Devanampiya** | **Vikramaditya** | Ashoka Maurya's personal piety title vs Chandragupta II's title after Shaka defeat | देवानांप्रिय / विक्रमादित्य |
-| **Sabha** | **Samiti** | Smaller aristocratic council of elders/Brahmins vs general tribal folk assembly | सभा / समिति |
-| **Bhagadugha** | **Akshavapa** | Vedic **revenue collector** of king's share vs superintendent of **dice/gambling** | भागदुघ / अक्षावाप |
-| **Bhagadugha** | **Samaharta** | Vedic share-collector vs Mauryan **chief collector-general** | भागदुघ / समाहर्ता |
-| **Samaharta** | **Sannidhata** | Mauryan **revenue assessment/collection** vs **treasury & storehouse custodian** | समाहर्ता / सन्निधाता |
-| **Agronomai** | **Astynomai** | Megasthenes' **rural/district magistrates** vs **city board administrators** | एग्रोनोमाई / एस्टिनोमाई |
-| **Agronomai** | **Pautavadhyaksha** | Megasthenes' district revenue officials vs Kautilya's **weights & measures head** | एग्रोनोमाई / पौतवाध्यक्ष |
-| **Rajuka** | **Uparika** | Mauryan district land assessment/judicial officer vs Gupta **provincial governor** | रज्जुक / उपरिक |
-| **Sandhivigrahika** | **Mahasandhivigrahika** | Gupta minister for peace and war vs Harsha's elevated **feudal grade minister** | संधिविग्रहिक / महासंधिविग्रहिक |
-| **Hathigumpha** | **Prayag Prashasti** | Kalinga ruler **Kharavela** (Prakrit) vs Gupta ruler **Samudragupta** (Sanskrit) | हाथीगुम्फा / प्रयाग प्रशस्ति |
-| **Ayodhya Inscription** | **Besnagar Inscription** | Pushyamitra Shunga's **two Ashwamedhas** vs Heliodorus's **Bhagavata Garuda pillar** | अयोध्या / बेसनगर |
-| **Gaya Copper Plate** | **Asirgarh Seal** | **Samudragupta** (Gupta) vs Maukhari ruler **Sarvavarman** | गया ताम्रपत्र / असीरगढ़ सील |
-| **Haraha Inscription** | **Bhitari Pillar** | Maukhari king **Ishanavarman** (Barabanki) vs Gupta emperor **Skandagupta** (Ghazipur) | हरहा / भितरी स्तम्भ |
-| **Pustapala** | **Sitadhyaksha** | Gupta **land record keeper** vs Mauryan **crown lands agriculture superintendent** | पुस्तपाल / सीताध्यक्ष |
-
----
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Kautilya's Saptanga Theory: "S-A-J-D-K-B-M"
@@ -237,265 +215,252 @@ hide:
 
 ---
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Consider the following statements with respect to Ashoka:
-
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
-2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
-
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 2.** Dhamma-mahamatras year 14 (Rock Edict V). *Rahulovada-sutta* is a trap; Ashoka's Dhamma definition in Pillar Edicts II & VII emphasizes *apasinave bahukayane daya dane sace socaye* (freedom from depravity, many good deeds, compassion, charity, truthfulness, purity), not derived verbatim from Rahulovada-sutta.
-
-</details>
-
-**Q2.** Which officer was known as **'Bhagadugha'** during Vedic administration?
-
-A. Messenger
-B. Chief Officer of Forests
-C. Chief Officer of the Gambling Department
-D. Revenue Collector
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Bhagadugha = Vedic revenue collector of the king's share (*bhaga*). Akshavapa = dice/gambling officer.
-
-</details>
-
-**Q3.** With reference to the Puranas, which one of the following statements is correct?
-
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.
-2. Vayu Purana throws light on the Gupta system of governance.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1.** Vishnu Purana contains genealogical accounts of the Mauryas. Vayu Purana discusses Gupta dynastic rule/territories, but does NOT throw light on their system of governance.
-
-</details>
-
-**Q4.** Which one of the following pairs is **NOT** correctly matched?
-
-A. Ishanavarman — Harha stone inscription
-B. Sarvavarman — Gaya Copper Plate
-C. Jivitagupta II — Deva Barnark inscription
-D. Ishwaravarman — Jaunpur stone inscription
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** NOT matched = Sarvavarman — Gaya copper plate. The Gaya copper plate belongs to Samudragupta (spurious/authentic copper plate grant). Sarvavarman's epigraphic record is the Asirgarh bronze/copper seal.
-
-</details>
-
-**Q5.** The official 'Agronomai' during Mauryan age was related with which of the following field?
-
-A. Weight and measurement
-B. Administrative management
-C. Construction of roads
-D. Revenue management
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Agronomai (recorded by Megasthenes) = Mauryan rural officials in charge of district administration and land/revenue management. Weights and measures were headed by Pautavadhyaksha.
-
-</details>
-
-**Q6.** The Hathigumpha inscription is associated with:
-
-A. Kharavela  
-B. Ashoka  
-C. Rudradaman  
-D. Samudragupta  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Hathigumpha inscription at Udayagiri hills near Bhubaneswar (Odisha) records the achievements of Kalinga king Kharavela of the Mahameghavahana/Chedi dynasty.
-
-</details>
-
-**Q7.** Match List-I with List-II (Samudragupta’s southern contemporaries) and select the correct code:
-
-| List-I (Ruler) | List-II (Kingdom) |
-|---|---|
-| A. Dhananjaya | 1. Kanchi |
-| B. Nilaraja | 2. Avamukta |
-| C. Ugrasena | 3. Kusthalapura |
-| D. Vishnugopa | 4. Palaka |
-
-Codes: A B C D
-
-A. 1 2 3 4  
-B. 2 1 4 3  
-C. 3 2 4 1  
-D. 4 3 1 2  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C (3-2-4-1).** Dhananjaya–Kusthalapura, Nilaraja–Avamukta, Ugrasena–Palaka, Vishnugopa–Kanchi. Mentioned in the Prayag Prashasti (Allahabad Pillar) composed by Harishena.
-
-</details>
-
-**Q8.** The Ayodhya inscription recording two ashvamedhas is associated with:
-
-A. Chandragupta Maurya  
-B. Ashoka  
-C. Pushyamitra Shunga  
-D. Samudragupta  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** The Ayodhya stone inscription of Dhanadeva refers to Senapati Pushyamitra Shunga performing two Ashwamedha sacrifices. Besnagar pillar is associated with Heliodorus.
-
-</details>
-
-**Q9.** With reference to royal titles in ancient India, which of the following statements is/are correct?
-
-1. Ashoka on edicts is Devanampiya Piyadassi; his personal name never appears on any edict.
-2. Chandragupta I is Vikramaditya and the first Gupta Maharajadhiraja.
-3. Bindusara is Amitraghata; Kanishka is Devaputra; Harsha is Siladitya.
-
-A. Only 3
-B. 1 and 2
-C. 2 and 3
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 3 is correct. Statement 1 is false because personal name Ashoka appears at Maski, Gujarra, Nittur, and Udegolam. Statement 2 is false because Chandragupta I was Maharajadhiraja, but Vikramaditya was the title of Chandragupta II.
-
-</details>
-
-**Q10.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Title) | List-II (Ruler) |
-|---|---|
-| 1. Dakshinapathapati (दक्षिणापथपति) | A. Rudradaman I |
-| 2. Mahameghavahana (महामेघवाहन) | B. Gautamiputra Satakarni |
-| 3. Mahakshatrapa (महाक्षत्रप) | C. Kharavela |
-| 4. Ekarat / Sarvakshatrantaka (एकराट् / सर्वक्षत्रान्तक) | D. Mahapadma Nanda |
-
-A. 1-C, 2-B, 3-A, 4-D
-B. 1-B, 2-C, 3-A, 4-D
-C. 1-B, 2-A, 3-C, 4-D
-D. 1-D, 2-C, 3-A, 4-B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1-B (Dakshinapathapati — Gautamiputra Satakarni), 2-C (Mahameghavahana — Kharavela), 3-A (Mahakshatrapa — Rudradaman I), 4-D (Ekarat — Mahapadma Nanda).
-
-</details>
-
-**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Mauryan Samaharta collects revenue while Sannidhata stores the treasury.  
-**Reason (R):** Kautilya's Arthashastra established functional separation between the assessment-collection wing and the custodial treasury department.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A). Samaharta oversees revenue assessment and collection while Sannidhata is the chief custodian of the state storehouses and treasury (*koshadhyaksha*).
-
-</details>
-
-**Q12.** Arrange the following political horizons in chronological order for administrative evolution and titles:
-
-1. Gupta (Imperial titles & Samanta hierarchy)
-2. Vedic Rajan & Ratnin councils
-3. Harsha (Paramabhattaraka & feudatory assembly)
-4. Mauryan centralized bureaucracy (Amatyas & Adhyakshas)
-
-Select the correct answer from the code given below:
-
-A. 2–1–4–3
-B. 2–4–1–3
-C. 4–2–1–3
-D. 2–4–3–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 2 (Vedic) → 4 (Maurya, c. 322–185 BCE) → 1 (Gupta, c. 319–550 CE) → 3 (Harsha, 606–647 CE).
-
-</details>
-
-**Q13.** Which one of the following pairs is NOT correctly matched?
-
-A. Hathigumpha — Kharavela
-B. Ayodhya — Pushyamitra’s two ashwamedhas
-C. Besnagar — Pushyamitra ashwamedha record
-D. Prayag Prashasti — Samudragupta by Harishena
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Besnagar pillar inscription records Heliodorus, the Greek envoy of Antialcidas to King Bhagabhadra, dedicating a Garuda pillar as a Bhagavata (Vaishnava). It does NOT record Pushyamitra Shunga's ashwamedhas (which are recorded on the Ayodhya stone inscription of Dhanadeva).
-
-</details>
-
-**Q14.** With reference to Vedic officials, which of the following statements is/are correct?
-
-1. Sabha was an aristocratic council of elders, while Samiti was the general assembly of the entire tribe.
-2. Bhagadugha was the collector of the king's share of agricultural produce.
-3. Akshavapa was the chief of the royal chariots.
-
-A. 1 and 2
-B. 2 and 3
-C. Only 2
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1 and 2 are correct. Statement 3 is incorrect because Akshavapa was the superintendent of gambling/dice games and keeper of dice, while Suta was the royal charioteer/bard.
-
-</details>
-
-**Q15.** Consider the following statements about ancient Indian officials:
-
-1. Megasthenes' Agronomai were district-level revenue and land administrators.
-2. In Mauryan administration, weights and measures were supervised by Pautavadhyaksha.
-3. Rajuka in Mauryan times discharged judicial and land measurement duties; Uparika was a provincial governor in the Gupta period.
-
-Select the correct answer from the code given below:
-
-A. Only 2 and 3
-B. Only 1
-C. Only 1 and 2
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct and represent classic UPPCS match-list facts.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with respect to Ashoka:<br><br>1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".<br>2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2.** Dhamma-mahamatras year 14 (Rock Edict V). *Rahulovada-sutta* is a trap; Ashoka's Dhamma definition in Pillar Edicts II & VII emphasizes *apasinave bahukayane daya dane sace socaye* (freedom from depravity, many good deeds, compassion, charity, truthfulness, purity), not derived verbatim from Rahulovada-sutta.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which officer was known as **'Bhagadugha'** during Vedic administration?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Messenger</div><div class="pyq-opt"><span class="opt-letter">B</span> Chief Officer of Forests</div><div class="pyq-opt"><span class="opt-letter">C</span> Chief Officer of the Gambling Department</div><div class="pyq-opt"><span class="opt-letter">D</span> Revenue Collector</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Bhagadugha = Vedic revenue collector of the king's share (*bhaga*). Akshavapa = dice/gambling officer.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Puranas, which one of the following statements is correct?<br><br>1. Information about the Mauryan dynasty is found in the Vishnu Purana.<br>2. Vayu Purana throws light on the Gupta system of governance.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1.** Vishnu Purana contains genealogical accounts of the Mauryas. Vayu Purana discusses Gupta dynastic rule/territories, but does NOT throw light on their system of governance.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ishanavarman — Harha stone inscription</div><div class="pyq-opt"><span class="opt-letter">B</span> Sarvavarman — Gaya Copper Plate</div><div class="pyq-opt"><span class="opt-letter">C</span> Jivitagupta II — Deva Barnark inscription</div><div class="pyq-opt"><span class="opt-letter">D</span> Ishwaravarman — Jaunpur stone inscription</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> NOT matched = Sarvavarman — Gaya copper plate. The Gaya copper plate belongs to Samudragupta (spurious/authentic copper plate grant). Sarvavarman's epigraphic record is the Asirgarh bronze/copper seal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The official 'Agronomai' during Mauryan age was related with which of the following field?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Weight and measurement</div><div class="pyq-opt"><span class="opt-letter">B</span> Administrative management</div><div class="pyq-opt"><span class="opt-letter">C</span> Construction of roads</div><div class="pyq-opt"><span class="opt-letter">D</span> Revenue management</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Agronomai (recorded by Megasthenes) = Mauryan rural officials in charge of district administration and land/revenue management. Weights and measures were headed by Pautavadhyaksha.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Hathigumpha inscription is associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kharavela</div><div class="pyq-opt"><span class="opt-letter">B</span> Ashoka</div><div class="pyq-opt"><span class="opt-letter">C</span> Rudradaman</div><div class="pyq-opt"><span class="opt-letter">D</span> Samudragupta</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hathigumpha inscription at Udayagiri hills near Bhubaneswar (Odisha) records the achievements of Kalinga king Kharavela of the Mahameghavahana/Chedi dynasty.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II (Samudragupta’s southern contemporaries) and select the correct code:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Ruler)</th><th>List-II (Kingdom)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Dhananjaya</td><td><span class="match-key">1</span> Kanchi</td></tr>
+      <tr><td><span class="match-key">B</span> Nilaraja</td><td><span class="match-key">2</span> Avamukta</td></tr>
+      <tr><td><span class="match-key">C</span> Ugrasena</td><td><span class="match-key">3</span> Kusthalapura</td></tr>
+      <tr><td><span class="match-key">D</span> Vishnugopa</td><td><span class="match-key">4</span> Palaka</td></tr>
+  </tbody>
+</table><br>Codes: A B C D</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 2 3 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 2 4 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 3 1 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (3-2-4-1).** Dhananjaya–Kusthalapura, Nilaraja–Avamukta, Ugrasena–Palaka, Vishnugopa–Kanchi. Mentioned in the Prayag Prashasti (Allahabad Pillar) composed by Harishena.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The Ayodhya inscription recording two ashvamedhas is associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chandragupta Maurya</div><div class="pyq-opt"><span class="opt-letter">B</span> Ashoka</div><div class="pyq-opt"><span class="opt-letter">C</span> Pushyamitra Shunga</div><div class="pyq-opt"><span class="opt-letter">D</span> Samudragupta</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Ayodhya stone inscription of Dhanadeva refers to Senapati Pushyamitra Shunga performing two Ashwamedha sacrifices. Besnagar pillar is associated with Heliodorus.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to royal titles in ancient India, which of the following statements is/are correct?<br><br>1. Ashoka on edicts is Devanampiya Piyadassi; his personal name never appears on any edict.<br>2. Chandragupta I is Vikramaditya and the first Gupta Maharajadhiraja.<br>3. Bindusara is Amitraghata; Kanishka is Devaputra; Harsha is Siladitya.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct. Statement 1 is false because personal name Ashoka appears at Maski, Gujarra, Nittur, and Udegolam. Statement 2 is false because Chandragupta I was Maharajadhiraja, but Vikramaditya was the title of Chandragupta II.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Title)</th><th>List-II (Ruler)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Dakshinapathapati (दक्षिणापथपति)</td><td><span class="match-key">A</span> Rudradaman I</td></tr>
+      <tr><td><span class="match-key">2</span> Mahameghavahana (महामेघवाहन)</td><td><span class="match-key">B</span> Gautamiputra Satakarni</td></tr>
+      <tr><td><span class="match-key">3</span> Mahakshatrapa (महाक्षत्रप)</td><td><span class="match-key">C</span> Kharavela</td></tr>
+      <tr><td><span class="match-key">4</span> Ekarat / Sarvakshatrantaka (एकराट् / सर्वक्षत्रान्तक)</td><td><span class="match-key">D</span> Mahapadma Nanda</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-C, 2-B, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-C, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-C, 3-A, 4-B</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1-B (Dakshinapathapati — Gautamiputra Satakarni), 2-C (Mahameghavahana — Kharavela), 3-A (Mahakshatrapa — Rudradaman I), 4-D (Ekarat — Mahapadma Nanda).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Mauryan Samaharta collects revenue while Sannidhata stores the treasury.  <br>**Reason (R):** Kautilya's Arthashastra established functional separation between the assessment-collection wing and the custodial treasury department.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true and (R) is the correct explanation of (A). Samaharta oversees revenue assessment and collection while Sannidhata is the chief custodian of the state storehouses and treasury (*koshadhyaksha*).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Arrange the following political horizons in chronological order for administrative evolution and titles:<br><br>1. Gupta (Imperial titles & Samanta hierarchy)<br>2. Vedic Rajan & Ratnin councils<br>3. Harsha (Paramabhattaraka & feudatory assembly)<br>4. Mauryan centralized bureaucracy (Amatyas & Adhyakshas)<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–1–4–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–4–1–3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4–2–1–3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–4–3–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 (Vedic) → 4 (Maurya, c. 322–185 BCE) → 1 (Gupta, c. 319–550 CE) → 3 (Harsha, 606–647 CE).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hathigumpha — Kharavela</div><div class="pyq-opt"><span class="opt-letter">B</span> Ayodhya — Pushyamitra’s two ashwamedhas</div><div class="pyq-opt"><span class="opt-letter">C</span> Besnagar — Pushyamitra ashwamedha record</div><div class="pyq-opt"><span class="opt-letter">D</span> Prayag Prashasti — Samudragupta by Harishena</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Besnagar pillar inscription records Heliodorus, the Greek envoy of Antialcidas to King Bhagabhadra, dedicating a Garuda pillar as a Bhagavata (Vaishnava). It does NOT record Pushyamitra Shunga's ashwamedhas (which are recorded on the Ayodhya stone inscription of Dhanadeva).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Vedic officials, which of the following statements is/are correct?<br><br>1. Sabha was an aristocratic council of elders, while Samiti was the general assembly of the entire tribe.<br>2. Bhagadugha was the collector of the king's share of agricultural produce.<br>3. Akshavapa was the chief of the royal chariots.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 are correct. Statement 3 is incorrect because Akshavapa was the superintendent of gambling/dice games and keeper of dice, while Suta was the royal charioteer/bard.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about ancient Indian officials:<br><br>1. Megasthenes' Agronomai were district-level revenue and land administrators.<br>2. In Mauryan administration, weights and measures were supervised by Pautavadhyaksha.<br>3. Rajuka in Mauryan times discharged judicial and land measurement duties; Uparika was a provincial governor in the Gupta period.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct and represent classic UPPCS match-list facts.</div>
+  </div>
+</div>

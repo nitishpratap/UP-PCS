@@ -141,28 +141,6 @@ hide:
 | **Montreal** | Canada | ICAO (International Civil Aviation Organization) |
 | **Washington D.C.** | USA | IMF, World Bank Group (IBRD, IDA, IFC, MIGA, ICSID) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Trap | What Examiner Falsely Claims | True Exam Position | Hindi Key |
-|---|---|---|---|
-| **Panchsheel (1954) vs NAM (1961)** | Confusing the dates and agreements. | **Panchsheel was signed in 1954** (Tibet Treaty); **NAM was founded in 1961** at Belgrade. | पंचशील (1954) / गुटनिरपेक्ष (1961) |
-| **Bandung (1955) vs Belgrade (1961)** | Claiming Bandung was the 1st NAM Summit. | Bandung was the **Afro-Asian precursor conference**; 1st NAM Summit was **Belgrade (1961)**. | बांडुंग 1955 / बेलग्रेड 1961 |
-| **Quad vs AUKUS** | Stating India is a member of AUKUS. | India is in **Quad** (India, US, Japan, Australia); **AUKUS** is Australia, UK, US only. | क्वाड / ऑकस |
-| **UNSC Veto Status of India** | Claiming India possesses a UNSC veto. | **Only the P5 have veto power**; India has served 8 terms as an elected non-permanent member. | यूएनएससी वीटो / पी5 सदस्य |
-| **G4 Nations vs Coffee Club** | Confusing the proponents and opponents of UNSC reform. | **G4** (IND, BRA, GER, JPN) seek permanent seats; **Coffee Club** (ITA, PAK, MEX, etc.) opposes. | जी4 देश / कॉफी क्लब |
-| **World Bank vs IMF Mandates** | Confusing their financial functions. | **IMF** handles balance-of-payments & currency crises; **World Bank** finances development projects. | आईएमएफ (बीओपी) / विश्व बैंक (विकास) |
-| **ICJ vs ICC** | Confusing jurisdiction and Indian membership. | **ICJ** is a UN organ for States (India is a member); **ICC** prosecutes individuals (India is NOT a party). | आईसीजे / आईसीसी |
-| **UNESCO vs WHO Headquarters** | Claiming UNESCO is in Geneva. | **UNESCO is in Paris, France**; WHO and ILO are in Geneva, Switzerland. | यूनेस्को (पेरिस) / डब्ल्यूएचओ (जिनेवा) |
-| **Trusteeship Council Reality** | Stating Trusteeship Council was legally deleted from Charter. | Operations were **suspended in 1994** (Palau), but it remains a principal organ on paper. | न्यासिता परिषद (निलंबित) |
-| **India's ASEAN Status** | Stating India is an ASEAN member. | India is **NOT a member** of ASEAN; holds Comprehensive Strategic Partner status. | आसियान (भारत सदस्य नहीं) |
-| **BIMSTEC vs ASEAN Members** | Falsely listing Indonesia in BIMSTEC. | **Indonesia is ASEAN, NOT BIMSTEC**; BIMSTEC has 7 members (5 SAARC + Myanmar, Thailand). | बिम्सटेक / आसियान भ्रम |
-| **SAARC Headquarters vs Creation** | Claiming SAARC was created in Kathmandu. | Created in **Dhaka (1985)**; Secretariat was established in **Kathmandu (1987)**. | सार्क ढाका (स्थापना) / काठमांडू (सचिवालय) |
-| **SCO Headquarters vs RATS** | Claiming SCO RATS is in Beijing. | SCO Secretariat is in **Beijing**; RATS anti-terror body is in **Tashkent, Uzbekistan**. | एससीओ (बीजिंग) / आरएटीएस (ताशकंद) |
-| **BRICS NDB Headquarters** | Claiming NDB is in New Delhi or Beijing. | New Development Bank (NDB) headquarters is located in **Shanghai, China**. | न्यू डेवलपमेंट बैंक (शंघाई) |
-| **NATO Membership Reality** | Falsely suggesting NATO Article 5 applies to India. | India has **never joined NATO**; NATO is an Atlantic collective defence treaty (32 members). | नाटो अनुच्छेद 5 / भारत असंबद्ध |
-| **G20 2023 UP Cities Trap** | Stating Kanpur hosted a G20 meeting. | In UP, meetings were in **Agra, Varanasi, Greater Noida, and Lucknow**; **NOT Kanpur**. | यूपी जी20 स्थल (कानपुर नहीं) |
-| **Article 253 Plenary Scope** | Claiming Centre cannot legislate on State subjects for treaties. | Under **Article 253**, Parliament has full power to override State List to enforce international treaties. | अनुच्छेद 253 (अंतरराष्ट्रीय संधि क्रियान्वयन) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. BIMSTEC 7 Members: "B-I-M-S-T-E-C" + Logic
@@ -201,20 +179,21 @@ Remember: Bay of Bengal littoral states — 5 from South Asia + 2 from Southeast
 - **S:** **S**ecretariat (UN Secretariat)
 
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-U.N.O. was founded in -
-A. 1944 B. 1945
-C. 1946 D. 1947
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Charter was signed in June 1945, but the United Nations legally came into existence on 24 October 1945.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">U.N.O. was founded in -<br>A. 1944 B. 1945<br>C. 1946 D. 1947</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Charter was signed in June 1945, but the United Nations legally came into existence on 24 October 1945.
 
 **Ans: B** — The United Nations is an international organization founded
 in 1945. The draft of the United Nations Charter was finalized
@@ -224,35 +203,35 @@ Representative of Poland was not present at San Francisco
 and ratified the Charter on 16 October, 1945, as the 51st
 member of the United Nations. This organization came into
 being on 24 October, 1945 and this date is observed as the
-‘United Nations Day.’
+‘United Nations Day.’</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">When is the ‘United Nations Day’ observed?<br>A. 27th October B. 24th October<br>C. 26th October D. 15th October</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UN Day marks the Charter’s entry into force on 24 October 1945.
 
-**Q2.**
+**Ans: B** — United Nations Day is observed on 24 October, the date on which the UN Charter entered into force in 1945.</div>
+  </div>
+</div>
 
-When is the ‘United Nations Day’ observed?
-A. 27th October B. 24th October
-C. 26th October D. 15th October
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UN Day marks the Charter’s entry into force on 24 October 1945.
-
-**Ans: B** — United Nations Day is observed on 24 October, the date on which the UN Charter entered into force in 1945.
-
-</details>
-
-**Q3.**
-
-The number of permanent members in the United
-Nations Security Council is :
-A. 6 B. 5 C. 4 D. 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Council has five permanent and ten elected members. The elected members serve two-year terms.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The number of permanent members in the United<br>Nations Security Council is :<br>A. 6 B. 5 C. 4 D. 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Council has five permanent and ten elected members. The elected members serve two-year terms.
 
 **Ans: B** — The United Nations Security Council (UNSC) is one of the
 six principal organs of the United Nations and is charged with
@@ -261,158 +240,130 @@ consists of fifteen (15) members, including 5 permanent
 members (USA, France, China, UK (Britain and Russia)
 and 10 non-permanent members. The 10 non-permanent
 members are elected on a regional basis by United Nations
-for a term of 2 years.
+for a term of 2 years.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following is not a permanent member of<br>the U.N. Security Council?<br>A. Germany B. France<br>C. Great Britain D. China</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Germany is not in the P5; the five are China, France, Russia, the United Kingdom and the United States.
 
-**Q4.**
+**Ans: A** — Germany is not a permanent member. The P5 are China, France, Russia, the United Kingdom and the United States.</div>
+  </div>
+</div>
 
-Which of the following is not a permanent member of
-the U.N. Security Council?
-A. Germany B. France
-C. Great Britain D. China
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Germany is not in the P5; the five are China, France, Russia, the United Kingdom and the United States.
-
-**Ans: A** — Germany is not a permanent member. The P5 are China, France, Russia, the United Kingdom and the United States.
-
-</details>
-
-**Q5.**
-
-Which of the following countries was NOT elected
-in June 2020 as a non-permanent member of United
-Nations Security Council for the year 2021-22?
-A. Ireland B. Norway
-C. Mexico D. Canada
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Canada lost the June 2020 contest. India, Ireland, Kenya, Mexico and Norway were elected for 2021–22.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following countries was NOT elected<br>in June 2020 as a non-permanent member of United<br>Nations Security Council for the year 2021-22?<br>A. Ireland B. Norway<br>C. Mexico D. Canada</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Canada lost the June 2020 contest. India, Ireland, Kenya, Mexico and Norway were elected for 2021–22.
 
 **Ans: D** — India began its two-year tenure as a non-permanent member
 of the United Nations Security Council from January 1,
 2021. India will sit in the 15-nation UNSC for the 2021-22
 term as a non-Permanent member. Apart from India Ireland,
-Kenya, Mexico and Norway have also been elected as a nonpermanent members for the same term.
+Kenya, Mexico and Norway have also been elected as a nonpermanent members for the same term.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-In April 2024, how many members of the UN Security
-Council either rejected or abstained from voting for the
-proposal to allow Palestine to become a full member
-of the UN?
-A. 6 B. 2
-C. 3 D. 5
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The United States voted against the Palestine recommendation and the United Kingdom and Switzerland abstained: three members did not support it.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In April 2024, how many members of the UN Security<br>Council either rejected or abstained from voting for the<br>proposal to allow Palestine to become a full member<br>of the UN?<br>A. 6 B. 2<br>C. 3 D. 5</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The United States voted against the Palestine recommendation and the United Kingdom and Switzerland abstained: three members did not support it.
 
 **Ans: C** — In April, 2024, the United Nations Security Council rejected
 a proposal regarding the full membership of Palestine in the
 United Nations. The United States of America vetoed this
 proposal, while Switzerland and United Kingdom abstained
 from voting. In this way, three members either abstained or
-cast negative votes.
+cast negative votes.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the decision-making process in the United Nations Security Council (UNSC), consider the following statements:<br>1. Decisions on procedural matters require the affirmative vote of nine members.<br>2. Decisions on substantive matters require nine affirmative votes, including the concurring votes of the permanent five (P5) members.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct. Under Article 27 of the UN Charter, decisions on procedural matters are made by an affirmative vote of any 9 members, whereas decisions on substantive matters require 9 affirmative votes including the concurring votes of the 5 permanent members.</div>
+  </div>
+</div>
 
-**Q7.**
-With reference to the decision-making process in the United Nations Security Council (UNSC), consider the following statements:
-1. Decisions on procedural matters require the affirmative vote of nine members.
-2. Decisions on substantive matters require nine affirmative votes, including the concurring votes of the permanent five (P5) members.
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both 1 and 2 are correct. Under Article 27 of the UN Charter, decisions on procedural matters are made by an affirmative vote of any 9 members, whereas decisions on substantive matters require 9 affirmative votes including the concurring votes of the 5 permanent members.
-
-</details>
-
-**Q8.**
-
-The demand for democratisation of U.N.O. is mainly
-related to -
-A. General Assembly
-B. Economic and social council
-C. Security Council
-D. Trustiship Council
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Democratisation demands focus on Security Council composition and the privileged position of the P5.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The demand for democratisation of U.N.O. is mainly<br>related to -</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> General Assembly</div><div class="pyq-opt"><span class="opt-letter">B</span> Economic and social council</div><div class="pyq-opt"><span class="opt-letter">C</span> Security Council</div><div class="pyq-opt"><span class="opt-letter">D</span> Trustiship Council</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Democratisation demands focus on Security Council composition and the privileged position of the P5.
 
 **Ans: C** — The demand for the democratisation of the UNO is mainly
 related to the Security Council. The Security Council has
 five permanent members (USA, UK, China, Russia, France)
 only. So countries like India, Brazil, South Africa etc are
-demanding the democratisation of Security Council.
+demanding the democratisation of Security Council.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-With reference to the UN peacekeeping operations,
-consider the following statements:
-1. UN peacekeepers can use force only for their selfdefence.
-2. Peacekeeping operations can only be withdrawn
-by a resolution by the UN Security Council.
-3. USA is the largest budget contributor to the UN
-peacekeeping operations.
-Which of the statements given above is/are correct?
-A. 1 and 2 only B. 2 and 3 only
-C. 3 only D. 1, 2 and 3
-E. None of the above/More than one of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Peacekeepers may use force in self-defence and defence of the mandate. The other two statements match the source period.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">With reference to the UN peacekeeping operations,<br>consider the following statements:<br>1. UN peacekeepers can use force only for their selfdefence.<br>2. Peacekeeping operations can only be withdrawn<br>by a resolution by the UN Security Council.<br>3. USA is the largest budget contributor to the UN<br>peacekeeping operations.<br>Which of the statements given above is/are correct?<br>A. 1 and 2 only B. 2 and 3 only<br>C. 3 only D. 1, 2 and 3<br>E. None of the above/More than one of the above</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Peacekeepers may use force in self-defence and defence of the mandate. The other two statements match the source period.
 
 **Ans: B** — Statement 1 is false, the United Nations Peace-keeper can use
 force in self-defense as well as in 'Defense of the Mandates
 also. Remaining statements 2 and 3 are true. The USA is the
 largest budget contributor to the UN peacekeeping operations
 which is around 28% in the UN peacekeeping operations in
-year 2020-21.
+year 2020-21.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.**
-
-With reference to the ‘‘United Nations Credentials
-Committee’’, consider the following statements:
-1. It is a committee set up by the UN Security Council
-and works under its supervision.
-2. It traditionally meets in March, June and
-September every year.
-3. It assesses the credentials of all UN members before
-submitting a report to the General Assembly for
-approval.
-Which of the statements given above is/are correct?
-A. 3 only B. 1 and 3
-C. 2 and 3 D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Credentials Committee is a nine-member General Assembly committee, normally meeting during the Assembly session; only statement 3 is correct.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to the ‘‘United Nations Credentials<br>Committee’’, consider the following statements:<br>1. It is a committee set up by the UN Security Council<br>and works under its supervision.<br>2. It traditionally meets in March, June and<br>September every year.<br>3. It assesses the credentials of all UN members before<br>submitting a report to the General Assembly for<br>approval.<br>Which of the statements given above is/are correct?<br>A. 3 only B. 1 and 3<br>C. 2 and 3 D. 1 and 2</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Credentials Committee is a nine-member General Assembly committee, normally meeting during the Assembly session; only statement 3 is correct.
 
 **Ans: A** — A United Nations Credentials Committee is appointed at the
 beginning of each regular session of the General Assembly.
@@ -420,28 +371,20 @@ It consists of nine (9) members who are appointed by the
 General Assembly on proposal of the president. Usually the
 committee meets in November. It assesses the credentials
 of all UN members before submitting a report to General
-Assembly for approval. Thus only (3) statement is correct.
+Assembly for approval. Thus only (3) statement is correct.</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.**
-
-With reference to the United Nations General
-Assembly, consider the following statements:
-1. The UN General Assembly can grant observer
-status to the non-member States.
-2. Inter-governmental organisations can seek
-observer status in the UN General Assembly.
-3. Permanent Observers in the UN General Assembly
-can maintain missions at the UN headquarters.
-Which of the statements given above are correct?
-A. 1 and 2 only B. 2 and 3 only
-C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Observer status is General Assembly practice rather than a Charter category. All three listed incidents of that practice are possible.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to the United Nations General<br>Assembly, consider the following statements:<br>1. The UN General Assembly can grant observer<br>status to the non-member States.<br>2. Inter-governmental organisations can seek<br>observer status in the UN General Assembly.<br>3. Permanent Observers in the UN General Assembly<br>can maintain missions at the UN headquarters.<br>Which of the statements given above are correct?<br>A. 1 and 2 only B. 2 and 3 only<br>C. 1 and 3 only D. 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Observer status is General Assembly practice rather than a Charter category. All three listed incidents of that practice are possible.
 
 **Ans: D** — The General Assembly can grant observer status to nonmember states. Inter-governmental organisations can
 seek observer status in UN General Assembly. Permanent
@@ -450,40 +393,38 @@ at the UN headquarters. The status of a permanent observer
 is based purely on practise, and there is no provision for it in
 United Nations Charter. This practise dates from 1946, when
 the Secretary-General accepted the designation of the Swiss
-Government as a permanent observer to United Nations.
+Government as a permanent observer to United Nations.</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.**
-
-Who is the present Secretary General of the United
-Nations Organization?
-A. Ban Ki Moon B. Antonio Guterres
-C. Kofi Annan D. Kurt Waldheim
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** António Guterres has served as UN Secretary-General since 1 January 2017.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Who is the present Secretary General of the United<br>Nations Organization?<br>A. Ban Ki Moon B. Antonio Guterres<br>C. Kofi Annan D. Kurt Waldheim</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** António Guterres has served as UN Secretary-General since 1 January 2017.
 
 **Ans: B** — Antonio Guterres is the present Secretary-General of the
-United Nations Organisation.
+United Nations Organisation.</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.**
-
-Who among the following has been the first African
-U.N. Secretary General?
-A. Ban Ki Moon
-B. Javier Perez De Cuellar
-C. Boutros-Boutros Ghali
-D. U-Thant
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Boutros Boutros-Ghali of Egypt was the first African Secretary-General.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Who among the following has been the first African<br>U.N. Secretary General?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ban Ki Moon</div><div class="pyq-opt"><span class="opt-letter">B</span> Javier Perez De Cuellar</div><div class="pyq-opt"><span class="opt-letter">C</span> Boutros-Boutros Ghali</div><div class="pyq-opt"><span class="opt-letter">D</span> U-Thant</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Boutros Boutros-Ghali of Egypt was the first African Secretary-General.
 
 **Ans: C** — The first African UN Secretary General was Boutros-Boutros
 Ghali. He worked as the 6th UN Secretary-General from 1
@@ -491,49 +432,41 @@ January, 1992 to 31 December, 1996. He was an Egyption
 politician and diplomat. The second African Secretary
 General was Kofi Annan. Current Secretary General of the
 United Nations is Antonio Guterres, a Portuguese politician
-and diplomat.
+and diplomat.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.**
-
-World’s main languages are –
-(1) Chinese (2) English
-(3) Hindi (4) Spanish
-
-Which one of the given languages is not an official
-language of United Nations, choose correct answer
-using code below –
-Code:
-A. Chinese B. English
-C. Hindi D. Spanish
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hindi is not one of the six UN official languages; Chinese, English, French, Russian, Arabic and Spanish are.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">World’s main languages are –<br>(1) Chinese (2) English<br>(3) Hindi (4) Spanish<br><br>Which one of the given languages is not an official<br>language of United Nations, choose correct answer<br>using code below –<br>Code:<br>A. Chinese B. English<br>C. Hindi D. Spanish</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Hindi is not one of the six UN official languages; Chinese, English, French, Russian, Arabic and Spanish are.
 
 **Ans: C** — Hindi is not an official language of United Nations. English
 and French are used as working languages while the six
 official languages are English, French, Spanish, Arabic,
-Chinese and Russian.
+Chinese and Russian.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which are the official languages of the U.N.O.?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> English, French, and Russian</div><div class="pyq-opt"><span class="opt-letter">B</span> English, French, German, and Russian</div><div class="pyq-opt"><span class="opt-letter">C</span> English, French, Russian, Chinese and Hindi</div><div class="pyq-opt"><span class="opt-letter">D</span> English, French, Chinese, Russian, Arabic and Spanish</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The complete six-language set is Arabic, Chinese, English, French, Russian and Spanish.
 
-**Q15.**
-
-Which are the official languages of the U.N.O.?
-A. English, French, and Russian
-B. English, French, German, and Russian
-C. English, French, Russian, Chinese and Hindi
-D. English, French, Chinese, Russian, Arabic and Spanish
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The complete six-language set is Arabic, Chinese, English, French, Russian and Spanish.
-
-**Ans: D** — The six official languages are Arabic, Chinese, English, French, Russian and Spanish; Hindi and German are not in this set.
-
-</details>
-
+**Ans: D** — The six official languages are Arabic, Chinese, English, French, Russian and Spanish; Hindi and German are not in this set.</div>
+  </div>
+</div>

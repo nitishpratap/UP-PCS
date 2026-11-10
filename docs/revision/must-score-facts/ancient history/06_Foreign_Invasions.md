@@ -42,7 +42,10 @@ hide:
     - A matrimonial alliance (*Epigamia*), traditionally believed to involve a Greek princess marrying into the Mauryan court.
     - Chandragupta Maurya presenting **500 war elephants** to Seleucus, which proved decisive in the Battle of Ipsus (301 BCE) in Greece.
     - Seleucus dispatching his ambassador **Megasthenes** to reside permanently at the Mauryan court in Pataliputra, who authored the landmark book **Indica**.
-17. The chronological order of post-Mauryan foreign invader waves into northwestern India: **Indo-Greeks (Bactrian Greeks) $ightarrow$ Shakas (Scythians) $ightarrow$ Indo-Parthians (Pahlavas) $ightarrow$ Kushanas (Yueh-chi)**.
+17. The chronological order of post-Mauryan foreign invader waves into northwestern India: **Indo-Greeks (Bactrian Greeks) $
+ightarrow$ Shakas (Scythians) $
+ightarrow$ Indo-Parthians (Pahlavas) $
+ightarrow$ Kushanas (Yueh-chi)**.
 18. **Indo-Greeks (Bactrian Greeks)** were the **FIRST foreign rulers in India to issue regular GOLD COINS**, and the **first to issue coins bearing the portraits and names of kings** along with bilingual/bidirectional legends (Greek on obverse, Kharosthi on reverse).
 19. Famous Indo-Greek kings:
     - **Demetrius I**: Invaded Punjab around 180 BCE, establishing Indo-Greek rule with capital at **Sakala (Sialkot)**.
@@ -106,7 +109,10 @@ hide:
 45. **St. Thomas the Apostle**: Landed in India around 52 CE during Gondophares' reign; traveled to the Malabar coast (Kerala) and later to Mylapore (Chennai), establishing the Syrian Christian community of India (*Saint Thomas Christians*).
 46. **Yueh-chi Tribe**: The Chinese historical chronicles (*Shiji* and *Hanshu*) record that the Kushanas were one of the five branches of the **Ta-Yueh-chi** nomadic confederacy driven westward by the Xiongnu (Huns).
 47. **Mat Inscription (Mathura)**: The dynastic shrine (*Devakula*) at Mat near Mathura yielded life-size portrait sculptures of Vima Kadphises, Kanishka, and Chashtana, illustrating divine kingship.
-48. **Rabatak Inscription (Baghlan, Afghanistan)**: Discovered in 1993; written in the **Bactrian language and Greek script**; conclusively establishes the royal genealogy of Kanishka: Kujula Kadphises (great-grandfather) $ightarrow$ Vima Taktu (grandfather) $ightarrow$ Vima Kadphises (father) $ightarrow$ **Kanishka I**.
+48. **Rabatak Inscription (Baghlan, Afghanistan)**: Discovered in 1993; written in the **Bactrian language and Greek script**; conclusively establishes the royal genealogy of Kanishka: Kujula Kadphises (great-grandfather) $
+ightarrow$ Vima Taktu (grandfather) $
+ightarrow$ Vima Kadphises (father) $
+ightarrow$ **Kanishka I**.
 49. **Kanishka's Casket**: A gilded copper reliquary casket found inside the Shah-ji-ki-Dheri stupa near Peshawar, inscribed with Kanishka's name and containing authentic bone relics of the Buddha.
 50. **Coins Metrology**: The Kushana gold coins (*Dinars*) were identical in weight (~8.04 grams / 124 grains) and purity to the Roman Imperial *Aureus*, proving high-value bullion monetization of international trade along the Silk Road.
 
@@ -191,39 +197,19 @@ c. 90 BCE  ── Shakas (Scythians) enter India; displace Indo-Greeks; Northern
 | **Coin Design** | Die-struck coins with royal bust and legends | Replaced crude punch-marked coins across northern India |
 | **Foreign Bhagavata** | Greek ambassador converting to Vaishnavism | **Heliodorus Garuda Pillar** at Besnagar (Vidisha) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Hydaspes** | **Hyphasis** | **Jhelum river** (Battle vs Porus) vs **Beas river** (Mutiny & turn-back point) | झेलम / ब्यास |
-| **Ambhi (Taxila)** | **Porus (Puru)** | Surrendered and allied with Alexander vs Fought heroically with elephants on the Jhelum | आम्भी / पुरु (पोरस) |
-| **Indo-Greek Gold Coins**| **Gupta Gold Coins** | First to issue gold coins (2nd c. BCE) vs Largest quantity of gold coins (4th c. CE) | इंडो-ग्रीक स्वर्ण / गुप्त स्वर्ण |
-| **Indo-Greek Gold Coins**| **Kushan Gold Coins** | First gold coins issued in India vs Purest and largest standardized gold Dinars | इंडो-ग्रीक / कुषाण स्वर्ण |
-| **Menander I (Milinda)**| **Nagasena** | Indo-Greek king who asked philosophical questions vs Buddhist monk who answered them | मिनांडर / नागसेन |
-| **Nagarjuna** | **Nagasena** | Madhyamaka philosopher of Sunyavada vs Debater monk of *Milinda Panha* | नागार्जुन / नागसेन |
-| **Bactria** | **Parthia** | Greek kingdom in northern Afghanistan (Oxus) vs Persian empire in northern Iran (Pahlavas) | बैक्ट्रिया / पार्थिया |
-| **Kujula Kadphises** | **Vima Kadphises** | First Kushana ruler (copper coins only) vs Second ruler who issued the first Kushana gold coins | कुजुल / विम कडफिसेस |
-| **Kanishka I** | **Chandragupta II** | Kushana emperor who started Saka Era (78 CE) vs Gupta emperor who took title Sakari (defeater of Shakas) | कनिष्क / चंद्रगुप्त द्वितीय |
-| **Saka Era (78 CE)** | **Vikrama Era (57 BCE)** | Started by Kanishka I (−78) vs Started by king of Ujjain (+57); difference is **135 years** | शक संवत / विक्रम संवत |
-| **Gandhara Art** | **Mathura Art** | Grey schist, Hellenistic drapery, Greek face vs Spotted red sandstone, indigenous, all 3 religions | गांधार कला / मथुरा कला |
-| **Besnagar Pillar** | **Prayag Prashasti** | Greek ambassador Heliodorus dedicates to Vasudeva vs Harisena praises Samudragupta | बेसनगर / प्रयाग प्रशस्ति |
-| **Rudradaman I** | **Skandagupta** | Shaka ruler who repaired Sudarshana Lake (150 CE) vs Gupta ruler whose governor Chakrapalita rebuilt it | रुद्रदामन / स्कंदगुप्त |
-| **Gondophares** | **Toramana** | Indo-Parthian ruler during Apostle Thomas visit vs Huna barbarian ruler who invaded north India | गोंडोफर्नीज / तोरमाण |
-| **Mihirakula** | **Yashodharman** | Fanatical Shaivite Huna invader vs Malwa king who defeated Mihirakula at Sondani | मिहिरकुल / यशोधर्मन |
-| **Kharosthi Script** | **Brahmi Script** | Written right-to-left, derived from Aramaic vs Written left-to-right, indigenous Indian script | खरोष्ठी / ब्राह्मी |
-| **Darius I (516 BCE)** | **Alexander (326 BCE)** | Achaemenian Persian conqueror of 20th Satrapy vs Macedonian Greek invader of Punjab | दारा प्रथम / सिकंदर |
-| **Alexander** | **Seleucus I Nicator** | Macedonian king who invaded 326 BCE vs General who fought Chandragupta Maurya in 305 BCE | सिकंदर / सेल्यूकस |
-| **Indica** | **Milinda Panha** | Greek report on Mauryan society (Megasthenes) vs Buddhist philosophical dialogue (Menander & Nagasena) | इंडिका / मिलिंदपन्हो |
-| **Purushapura** | **Mathura** | Kushana northwestern winter capital (Peshawar) vs Kushana eastern administrative & artistic capital | पुरुषपुर / मथुरा |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Chronological Succession of Foreign Invaders:**
    - **Mnemonic:** **G - S - P - K** (*"Great Scholars Prefer Knowledge"*)
-   - **Order:** Indo-**G**reeks $ightarrow$ **S**hakas $ightarrow$ **P**arthians $ightarrow$ **K**ushanas.
+   - **Order:** Indo-**G**reeks $
+ightarrow$ **S**hakas $
+ightarrow$ **P**arthians $
+ightarrow$ **K**ushanas.
 2. **The Two Hyd Rivers Alexander Trap:**
-   - **Hydaspes** = **H - J** $ightarrow$ **H**ydaspes is **J**helum (Battle fought).
-   - **Hyphasis** = **H - B** $ightarrow$ **H**yphasis is **B**eas (Army mutinied & halted).
+   - **Hydaspes** = **H - J** $
+ightarrow$ **H**ydaspes is **J**helum (Battle fought).
+   - **Hyphasis** = **H - B** $
+ightarrow$ **H**yphasis is **B**eas (Army mutinied & halted).
 3. **Gandhara vs Mathura Sculptural Stones:**
    - **G**andhara = **G**rey schist stone (*Greco-Roman*).
    - **M**athura = **M**ottled red sandstone (*Made in India*).
@@ -233,302 +219,262 @@ c. 90 BCE  ── Shakas (Scythians) enter India; displace Indo-Greeks; Northern
    - **Vima** = Gold coins (*Vima has the Gold Value*).
 5. **The Three Sudarshana Lake Restorers:**
    - **P - T - S - C**
-   - **P**ushyagupta (Chandragupta Maurya builds it) $ightarrow$ **T**ushaspha (Ashoka adds canals) $ightarrow$ **S**uvisakha (Rudradaman I repairs it 150 CE) $ightarrow$ **C**hakrapalita (Skandagupta restores it 456 CE).
-
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
-
-A. Greeks — Sakas — Kushans
-B. Greeks — Kushans — Sakas
-C. Sakas — Greeks — Kushans
-D. Sakas — Kushans — Greeks
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Greeks (Hellenistic) → Sakas → Kushans.
-
-</details>
-
-**Q2.**
-
-*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
-
-A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Nagasena.** Milinda = Menander.
-
-</details>
-
-**Q3.**
-
-Assertion (A): After campaigning for nearly two years, Alexander left India in 325 BCE. 
-Reason (R): He was defeated by Chandragupta Maurya.
-
-A. Both true and R explains A 
-B. Both true but R does not explain A 
-C. A true, R false 
-D. A false, R true 
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests return date (~325); R tests a false defeat story.
-
-**Ans: C.** He returned about **325 BCE**; he was **not** defeated by Chandragupta.
-
-</details>
-
-**Q4.**
-
-The women of which Indian republic or kingdom had taken up arms against Alexander after a large number of its soldiers had been killed?
-
-A. Abhisara B. Glausai C. Katha D. Massaga 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Massaga / Assakenoi.
-
-**Ans: D.** Massaga.
-
-</details>
-
-**Q5.**
-
-Alexander’s success in India was due to:
-
-1. No central power 
-2. Superior army 
-3. Traitorous Indian rulers 
-4. Good administrator 
-
-A. 1 and 2 B. 1, 2 and 3 C. 2, 3 and 4 D. All 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Drop statement 4.
-
-**Ans: B.** 1, 2 and 3.
-
-</details>
-
-**Q6.**
-
-Name the brave Indian King whom Alexander defeated on the bank of river Jhelum.
-
-A. Ambhi B. Porus C. Chandragupta Maurya D. Mahapadma Nanda 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hydaspes = Porus; Ambhi was ally.
-
-**Ans: B.** Porus.
-
-</details>
-
-**Q7.**
-
-Who one of the following had not come to India with Alexander?
-
-A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Deimachus → Bindusara.
-
-**Ans: C.** Deimachus.
-
-</details>
-
-**Q8.** Which dynasty was ruling over North India at the time of Alexander’s invasion?
-
-A. Nanda B. Maurya C. Sunga D. Kanva 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dhana Nanda contemporary; Mauryas come after.
-
-**Ans: A.** Nanda (Dhana / Agrammes).
-
-</details>
-
-**Q9.** With reference to foreign invaders in north-west India, which of the following is/are correct?
-
-1. Correct order is Greeks → Kushans → Sakas.
-2. Kushans come before Sakas in the standard sequence.
-3. Parthians (Pahlavas) form a brief phase between Sakas and Kushan peak.
-
-A. Only 3
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: Standard order is Greeks → Sakas → (Parthians) → Kushans. Stmt 2 remains false: Kushans do not precede Sakas.
-
-</details>
-
-**Q10.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Item) | List-II (Association) |
-|---|---|
-| 1. Hydaspes | A. Beas — mutiny / turn-back |
-| 2. Hyphasis | B. Jhelum — battle vs Porus |
-| 3. Ambhi | C. Taxila ally of Alexander |
-| 4. Porus | D. Paurava opponent, then restored |
-
-*Row order is not the answer code.*
-
-A. 1-A, 2-B, 3-C, 4-D
-
-B. 1-B, 2-A, 3-C, 4-D
-
-C. 1-B, 2-A, 3-D, 4-C
-
-D. 1-B, 2-C, 3-A, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Hydaspes–Jhelum battle; Hyphasis–Beas turn-back; Ambhi ally; Porus foe-then-satrap.
-
-**Logic:** Never merge battle river with mutiny river.
-
-</details>
-
-**Q11.** Arrange the following in chronological order (earliest first):
-
-1. Seleucus–Chandragupta settlement (~305–303 BCE)
-2. Alexander’s Indian campaign (~327–325 BCE)
-3. Battle of Ipsus (301 BCE)
-4. Darius I’s Hindush satrapy (~518 BCE)
-
-Select the correct answer from the code given below:
-
-A. 4, 1, 2, 3
-
-B. 4, 2, 1, 3
-
-C. 2, 4, 1, 3
-
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Darius → Alexander → Seleucus treaty → Ipsus.
-
-**Logic:** Persian door precedes Macedon; elephants from treaty matter at Ipsus.
-
-</details>
-
-**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Alexander’s army mutinied at the Hyphasis (Beas) and turned back.
-
-**Reason (R):** Hydaspes is the river of the Porus battle; Beas is the turn-back.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true; R correctly distinguishes the two river events that explain A.
-
-**A/R logic:** Hydaspes ≠ Hyphasis spelling trap.
-
-</details>
-
-**Q13.** With reference to Greeks around Alexander, which of the following is/are correct?
-
-1. Aristotle tutored Alexander but never came to India.
-2. Kalanos refused Alexander; Dandamis went with him to the West.
-3. Deimachus came with Alexander as his admiral.
-
-A. 1 and 2
-
-B. Only 1
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: Roles reverse — Kalanos went with Alexander; Dandamis refused. Stmt 3 remains false: Deimachus is later Seleucid envoy; admiral = Nearchus.
-
-</details>
-
-**Q14.** Which one of the following pairs is NOT correctly matched?
-
-A. Megasthenes — Seleucid envoy after Chandragupta treaty
-
-B. Nearchus — Alexander’s admiral
-
-C. Sandrokottos — Chandragupta Maurya
-
-D. Agrammes — Menander of Sagala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Agrammes / Xandrames is Dhana Nanda, not Menander.
-
-**Logic:** Greek name pegs: Sandrokottos = Chandragupta; Agrammes = last Nanda.
-
-</details>
-
-**Q15.** With reference to Indo-Greek power, which of the following is/are correct?
-
-1. Demetrius entered India before Diodotus freed Bactria.
-2. Menander (Milinda) ruled from Sagala (Sialkot) and dialogued with Nagasena.
-3. Sagala and Sangala are the same Kathaioi town stormed by Alexander.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 2
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Stmt 1 false: Diodotus freed Bactria first; Demetrius entered India later. Stmt 3 remains false: Sagala (Menander) ≠ Sangala (Alexander).
-
-</details>
+   - **P**ushyagupta (Chandragupta Maurya builds it) $
+ightarrow$ **T**ushaspha (Ashoka adds canals) $
+ightarrow$ **S**uvisakha (Rudradaman I repairs it 150 CE) $
+ightarrow$ **C**hakrapalita (Skandagupta restores it 456 CE).
+
+
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the invaders in Ancient India, which one of the following is the correct chronological order?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Greeks — Sakas — Kushans</div><div class="pyq-opt"><span class="opt-letter">B</span> Greeks — Kushans — Sakas</div><div class="pyq-opt"><span class="opt-letter">C</span> Sakas — Greeks — Kushans</div><div class="pyq-opt"><span class="opt-letter">D</span> Sakas — Kushans — Greeks</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Greeks (Hellenistic) → Sakas → Kushans.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—<br><br>A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nagasena.** Milinda = Menander.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): After campaigning for nearly two years, Alexander left India in 325 BCE. <br>Reason (R): He was defeated by Chandragupta Maurya.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true and R explains A</div><div class="pyq-opt"><span class="opt-letter">B</span> Both true but R does not explain A</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false, R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** A tests return date (~325); R tests a false defeat story.
+
+**Ans: C.** He returned about **325 BCE**; he was **not** defeated by Chandragupta.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The women of which Indian republic or kingdom had taken up arms against Alexander after a large number of its soldiers had been killed?<br><br>A. Abhisara B. Glausai C. Katha D. Massaga</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Massaga / Assakenoi.
+
+**Ans: D.** Massaga.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Alexander’s success in India was due to:<br><br>1. No central power <br>2. Superior army <br>3. Traitorous Indian rulers <br>4. Good administrator <br><br>A. 1 and 2 B. 1, 2 and 3 C. 2, 3 and 4 D. All</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Drop statement 4.
+
+**Ans: B.** 1, 2 and 3.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Name the brave Indian King whom Alexander defeated on the bank of river Jhelum.<br><br>A. Ambhi B. Porus C. Chandragupta Maurya D. Mahapadma Nanda</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Hydaspes = Porus; Ambhi was ally.
+
+**Ans: B.** Porus.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Who one of the following had not come to India with Alexander?<br><br>A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Deimachus → Bindusara.
+
+**Ans: C.** Deimachus.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which dynasty was ruling over North India at the time of Alexander’s invasion?<br><br>A. Nanda B. Maurya C. Sunga D. Kanva</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dhana Nanda contemporary; Mauryas come after.
+
+**Ans: A.** Nanda (Dhana / Agrammes).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to foreign invaders in north-west India, which of the following is/are correct?<br><br>1. Correct order is Greeks → Kushans → Sakas.<br>2. Kushans come before Sakas in the standard sequence.<br>3. Parthians (Pahlavas) form a brief phase between Sakas and Kushan peak.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: Standard order is Greeks → Sakas → (Parthians) → Kushans. Stmt 2 remains false: Kushans do not precede Sakas.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Item)</th><th>List-II (Association)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Hydaspes</td><td><span class="match-key">A</span> Beas — mutiny / turn-back</td></tr>
+      <tr><td><span class="match-key">2</span> Hyphasis</td><td><span class="match-key">B</span> Jhelum — battle vs Porus</td></tr>
+      <tr><td><span class="match-key">3</span> Ambhi</td><td><span class="match-key">C</span> Taxila ally of Alexander</td></tr>
+      <tr><td><span class="match-key">4</span> Porus</td><td><span class="match-key">D</span> Paurava opponent, then restored</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-B, 2-C, 3-A, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hydaspes–Jhelum battle; Hyphasis–Beas turn-back; Ambhi ally; Porus foe-then-satrap.
+
+**Logic:** Never merge battle river with mutiny river.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order (earliest first):<br><br>1. Seleucus–Chandragupta settlement (~305–303 BCE)<br>2. Alexander’s Indian campaign (~327–325 BCE)<br>3. Battle of Ipsus (301 BCE)<br>4. Darius I’s Hindush satrapy (~518 BCE)<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 1, 2, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 4, 2, 1, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Darius → Alexander → Seleucus treaty → Ipsus.
+
+**Logic:** Persian door precedes Macedon; elephants from treaty matter at Ipsus.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Alexander’s army mutinied at the Hyphasis (Beas) and turned back.<br><br>**Reason (R):** Hydaspes is the river of the Porus battle; Beas is the turn-back.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R correctly distinguishes the two river events that explain A.
+
+**A/R logic:** Hydaspes ≠ Hyphasis spelling trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Greeks around Alexander, which of the following is/are correct?<br><br>1. Aristotle tutored Alexander but never came to India.<br>2. Kalanos refused Alexander; Dandamis went with him to the West.<br>3. Deimachus came with Alexander as his admiral.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: Roles reverse — Kalanos went with Alexander; Dandamis refused. Stmt 3 remains false: Deimachus is later Seleucid envoy; admiral = Nearchus.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Megasthenes — Seleucid envoy after Chandragupta treaty</div><div class="pyq-opt"><span class="opt-letter">B</span> Nearchus — Alexander’s admiral</div><div class="pyq-opt"><span class="opt-letter">C</span> Sandrokottos — Chandragupta Maurya</div><div class="pyq-opt"><span class="opt-letter">D</span> Agrammes — Menander of Sagala</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Agrammes / Xandrames is Dhana Nanda, not Menander.
+
+**Logic:** Greek name pegs: Sandrokottos = Chandragupta; Agrammes = last Nanda.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to Indo-Greek power, which of the following is/are correct?<br><br>1. Demetrius entered India before Diodotus freed Bactria.<br>2. Menander (Milinda) ruled from Sagala (Sialkot) and dialogued with Nagasena.<br>3. Sagala and Sangala are the same Kathaioi town stormed by Alexander.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 1 false: Diodotus freed Bactria first; Demetrius entered India later. Stmt 3 remains false: Sagala (Menander) ≠ Sangala (Alexander).</div>
+  </div>
+</div>

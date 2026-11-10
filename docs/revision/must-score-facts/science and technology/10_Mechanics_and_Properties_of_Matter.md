@@ -135,21 +135,6 @@ ho gh = 	ext{constant}$); explains dynamic lift. |
 | **Geostationary Orbit Altitude**| **$35,786	ext{ km}$ ($pprox 36,000	ext{ km}$)**| Orbital period $= \mathbf{24	ext{ hours}}$ | Matches Earth's rotational period; parked directly above equator; rotates West to East |
 | **Time Period of Simple Pendulum**| $T = 2\pi\sqrt{l/g}$ | Increases by $\sqrt{6}	imes$ on Moon | Clock runs **slow in summer** (thermal expansion increases $l$); runs **fast in winter** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Centripetal Force** | **Centrifugal Force** | **Centripetal force** is the real inward force directed toward the center of curvature ($mv^2/r$) that keeps a body in circular path. **Centrifugal force** is the fictitious / pseudo outward force observed in the rotating frame (cream separator, spin dryer). | अभिकेंद्रीय बल = केंद्र की ओर (वास्तविक); अपकेंद्रीय बल = केंद्र से बाहर की ओर (छद्म बल) |
-| **Mass on Moon** | **Weight on Moon** | A person's **Mass remains constant ($60	ext{ kg} 	o 60	ext{ kg}$)** because mass is invariant. Only the **Weight reduces to $1/6	ext{th}$** because $g_{	ext{moon}} = g_{	ext{earth}} / 6$. | चंद्रमा पर द्रव्यमान अपरिवर्तित रहता है; केवल भार घटकर $1/6$ रह जाता है |
-| **Pendulum in Summer** | **Pendulum in Winter** | In **summer**, thermal expansion increases pendulum length ($l$), so time period $T$ increases $	o$ **clock runs slow / loses time**. In **winter**, $l$ contracts, $T$ decreases $	o$ **clock runs fast / gains time**. | गर्मियों में लोलक घड़ी सुस्त हो जाती है (लंबाई बढ़ने से); सर्दियों में तेज हो जाती है |
-| **Melting Ice Water Level** | **Overflow Trap** | When a floating ice cube in a water beaker melts completely, **the water level remains strictly UNCHANGED**. Floating ice already displaces water equal to its own melted mass. | बर्फ पिघलने पर बीकर में जल का स्तर अपरिवर्तित रहता है (बढ़ता नहीं है) |
-| **Free-Falling Elevator Weight**| **Elevator Moving at Constant Velocity**| When elevator cable snaps (free fall), acceleration $a = g \implies$ apparent weight $R = m(g-a) = \mathbf{0}$ (**complete weightlessness**). Moving at constant velocity gives normal weight ($R = mg$). | मुक्त रूप से गिरती लिफ्ट में आभासी भार शून्य (भारहीनता) होता है |
-| **Needle Floating on Water** | **Iron Ship Floating** | A small greased steel sewing needle rests on water due to **Surface Tension** (unbroken surface film). A heavy steel ship floats due to **Archimedes Principle of Buoyancy** (displacing large volume). | सुई का तैरना = पृष्ठ तनाव (Surface Tension); जहाज का तैरना = उत्प्लावन बल (आर्किमिडीज सिद्धांत) |
-| **Rolling Friction** | **Sliding Friction** | **Rolling friction is far smaller than sliding friction** ($	ext{Rolling} \ll 	ext{Sliding} < 	ext{Static}$). This is why ball bearings and round wheels dramatically reduce mechanical energy loss. | लोटनिक घर्षण (Rolling friction) सर्पी घर्षण से अत्यंत कम होता है |
-| **Oil on Water Drops** | **Water on Greased Surface** | Oil spreads on clean water because the **surface tension of water is greater than that of oil**. Water forms spherical drops on a greased plate because cohesive forces exceed adhesive forces. | तेल जल पर फैल जाता है क्योंकि जल का पृष्ठ तनाव तेल से अधिक होता है |
-| **Moon Atmosphere Lack** | **Low Gravitational Pull** | Moon has no atmosphere specifically because the **root-mean-square (rms) velocity of gas molecules exceeds the Moon's low escape velocity ($2.4	ext{ km/s}$)**, allowing all gases to escape into space. | चंद्रमा पर वायुमंडल न होने का कारण: गैस अणुओं का वेग पलायन वेग ($2.4	ext{ km/s}$) से अधिक है |
-| **Bernoulli Dynamic Lift** | **Archimedes Static Buoyancy** | Airplanes fly because wing camber forces air to move faster over the top, creating **low pressure above and high pressure below (Bernoulli dynamic lift)**. Hot air balloons float via Archimedes static buoyancy. | हवाई जहाज का उड़ना = बर्नौली सिद्धांत (गतिशील उत्थापक बल); गुब्बारे का उड़ना = आर्किमिडीज उत्प्लावन |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Friction Hierarchy: **Static > Sliding > Rolling**
@@ -167,252 +152,260 @@ ho gh = 	ext{constant}$); explains dynamic lift. |
 - **$v_e = \sqrt{2} \cdot v_o pprox 1.414 \cdot v_o$**
 - Need $\mathbf{41.4\%}$ increase in kinetic energy for an orbiting satellite to permanently escape Earth's gravity.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-**Why does an iron needle float horizontally on water when placed carefully, but sink when pushed under?**
-   A. Archimedes buoyant force  
-   B. Surface tension of the water surface film  
-   C. Viscous upthrust  
-   D. Atmospheric downward pressure
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
-
-**Logic:** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
-
-</details>
-
-**Q2.**
-
-**The Bulk Modulus of an ideal incompressible fluid is:**
-   A. Zero  
-   B. Unity  
-   C. Infinite ($\infty$)  
-   D. Negative
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
-
-**Logic:** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
-
-</details>
-
-**Q3.**
-
-**When a drop of oil is placed on clean water, it spreads into a thin film because:**
-   A. Oil has higher surface tension than water  
-   B. Water has higher surface tension than oil  
-   C. Oil is denser than water  
-   D. Viscosity of oil is lower than water
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Water's higher surface tension pulls the oil film outward).
-
-**Logic:** (Water's higher surface tension pulls the oil film outward).
-
-</details>
-
-**Q4.**
-
-**In a capillary tube of radius $r$, water rises to height $h$. If the tube radius is halved, water rises to:**
-   A. $h/2$  
-   B. $h$  
-   C. $2h$  
-   D. $4h$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** (Jurin's Law: $h \propto 1/r$).
-
-**Logic:** (Jurin's Law: $h \propto 1/r$).
-
-</details>
-
-**Q5.**
-
-**Which property of a solid determines the extension and behavior of a helical spring under load?**
-   A. Young's Modulus  
-   B. Bulk Modulus  
-   C. Shear Modulus (Modulus of Rigidity)  
-   D. Poisson's Ratio
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **C**.
-</details>
-
-**Q6.**
-
-**The excess pressure inside a liquid drop of radius $R$ and surface tension $T$ is:**
-   A. $T/R$  
-   B. $2T/R$  
-   C. $4T/R$  
-   D. $8T/R$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
-
-**Logic:** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
-
-</details>
-
-**Q7.**
-
-**As temperature increases, what happens to the viscosity of water and air respectively?**
-   A. Both increase  
-   B. Both decrease  
-   C. Water viscosity decreases, air viscosity increases  
-   D. Water viscosity increases, air viscosity decreases
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **C**.
-</details>
-
-**Q8.**
-
-**A piece of pure ice floats in a glass of water. When the ice melts completely, the water level:**
-   A. Rises  
-   B. Falls  
-   C. Remains unchanged  
-   D. First falls then rises
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **C**.
-</details>
-
-**Q9.**
-
-**The dimension of the coefficient of linear expansion ($\alpha$) is:**
-   A. $[M^0 L^1 T^0 K^{-1}]$  
-   B. $[M^0 L^0 T^0 K^{-1}]$  
-   C. $[M^1 L^0 T^0 K^{-1}]$  
-   D. $[M^0 L^0 T^{-1} K^0]$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($K^{-1}$).
-</details>
-
-**Q10.**
-
-**A ship floats higher when it travels from a freshwater river into the sea because:**
-    A. Sea water is colder  
-    B. Sea water is deeper  
-    C. Sea water is denser due to dissolved salts  
-    D. River water exerts greater viscous drag
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **C**.
-</details>
-
-**Q11.**
-
-**At what temperature is the surface tension of a liquid reduced to zero?**
-    A. Freezing point  
-    B. Boiling point  
-    C. Absolute zero  
-    D. Critical temperature
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **D**.
-</details>
-
-**Q12.**
-
-**When positive charge is placed on a soap bubble, its radius:**
-    A. Decreases  
-    B. Increases  
-    C. Remains identical  
-    D. Flattens into a disc
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Electrostatic repulsion expands the surface).
-
-**Logic:** (Electrostatic repulsion expands the surface).
-
-</details>
-
-**Q13.**
-
-**Torricelli's law states that the velocity of efflux from a tank orifice is proportional to:**
-    A. Depth $h$  
-    B. Square root of depth $\sqrt{h}$  
-    C. $h^2$  
-    D. Independent of $h$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($v = \sqrt{2gh}$).
-
-**Logic:** ($v = \sqrt{2gh}$).
-
-</details>
-
-**Q14.**
-
-**Which of the following is NOT an application of capillarity?**
-    A. Kerosene rising in a lamp wick  
-    B. Blotting paper absorbing ink  
-    C. Drinking coconut water through a straw  
-    D. Towel soaking water droplets from the skin
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** (Drinking through a straw requires mouth suction pressure reduction).
-
-**Logic:** (Drinking through a straw requires mouth suction pressure reduction).
-
-</details>
-
-**Q15.**
-
-**The spreading parameter $S$ for liquid A on liquid B is positive ($S > 0$). This implies:**
-    A. Liquid A beads into droplets  
-    B. Liquid A spreads completely over liquid B  
-    C. Liquid A sinks to the bottom  
-    D. Both liquids boil instantly
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **B**.
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">**Why does an iron needle float horizontally on water when placed carefully, but sink when pushed under?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Archimedes buoyant force</div><div class="pyq-opt"><span class="opt-letter">B</span> Surface tension of the water surface film</div><div class="pyq-opt"><span class="opt-letter">C</span> Viscous upthrust</div><div class="pyq-opt"><span class="opt-letter">D</span> Atmospheric downward pressure</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).
+
+**Logic:** (Surface tension forms an elastic skin; once submerged, density $7.8 > 1.0$ causes sinking).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">**The Bulk Modulus of an ideal incompressible fluid is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Zero</div><div class="pyq-opt"><span class="opt-letter">B</span> Unity</div><div class="pyq-opt"><span class="opt-letter">C</span> Infinite ($\infty$)</div><div class="pyq-opt"><span class="opt-letter">D</span> Negative</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).
+
+**Logic:** (Incompressible $\implies \Delta V = 0 \implies K = \infty$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">**When a drop of oil is placed on clean water, it spreads into a thin film because:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Oil has higher surface tension than water</div><div class="pyq-opt"><span class="opt-letter">B</span> Water has higher surface tension than oil</div><div class="pyq-opt"><span class="opt-letter">C</span> Oil is denser than water</div><div class="pyq-opt"><span class="opt-letter">D</span> Viscosity of oil is lower than water</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Water's higher surface tension pulls the oil film outward).
+
+**Logic:** (Water's higher surface tension pulls the oil film outward).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">**In a capillary tube of radius $r$, water rises to height $h$. If the tube radius is halved, water rises to:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $h/2$</div><div class="pyq-opt"><span class="opt-letter">B</span> $h$</div><div class="pyq-opt"><span class="opt-letter">C</span> $2h$</div><div class="pyq-opt"><span class="opt-letter">D</span> $4h$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C** (Jurin's Law: $h \propto 1/r$).
+
+**Logic:** (Jurin's Law: $h \propto 1/r$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">**Which property of a solid determines the extension and behavior of a helical spring under load?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Young's Modulus</div><div class="pyq-opt"><span class="opt-letter">B</span> Bulk Modulus</div><div class="pyq-opt"><span class="opt-letter">C</span> Shear Modulus (Modulus of Rigidity)</div><div class="pyq-opt"><span class="opt-letter">D</span> Poisson's Ratio</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">**The excess pressure inside a liquid drop of radius $R$ and surface tension $T$ is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $T/R$</div><div class="pyq-opt"><span class="opt-letter">B</span> $2T/R$</div><div class="pyq-opt"><span class="opt-letter">C</span> $4T/R$</div><div class="pyq-opt"><span class="opt-letter">D</span> $8T/R$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).
+
+**Logic:** (A liquid drop has only one surface, so $\Delta P = 2T/R$; a soap bubble has two surfaces, so $\Delta P = 4T/R$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">**As temperature increases, what happens to the viscosity of water and air respectively?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both increase</div><div class="pyq-opt"><span class="opt-letter">B</span> Both decrease</div><div class="pyq-opt"><span class="opt-letter">C</span> Water viscosity decreases, air viscosity increases</div><div class="pyq-opt"><span class="opt-letter">D</span> Water viscosity increases, air viscosity decreases</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">**A piece of pure ice floats in a glass of water. When the ice melts completely, the water level:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rises</div><div class="pyq-opt"><span class="opt-letter">B</span> Falls</div><div class="pyq-opt"><span class="opt-letter">C</span> Remains unchanged</div><div class="pyq-opt"><span class="opt-letter">D</span> First falls then rises</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">**The dimension of the coefficient of linear expansion ($\alpha$) is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $[M^0 L^1 T^0 K^{-1}]$</div><div class="pyq-opt"><span class="opt-letter">B</span> $[M^0 L^0 T^0 K^{-1}]$</div><div class="pyq-opt"><span class="opt-letter">C</span> $[M^1 L^0 T^0 K^{-1}]$</div><div class="pyq-opt"><span class="opt-letter">D</span> $[M^0 L^0 T^{-1} K^0]$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** ($K^{-1}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">**A ship floats higher when it travels from a freshwater river into the sea because:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sea water is colder</div><div class="pyq-opt"><span class="opt-letter">B</span> Sea water is deeper</div><div class="pyq-opt"><span class="opt-letter">C</span> Sea water is denser due to dissolved salts</div><div class="pyq-opt"><span class="opt-letter">D</span> River water exerts greater viscous drag</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">**At what temperature is the surface tension of a liquid reduced to zero?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Freezing point</div><div class="pyq-opt"><span class="opt-letter">B</span> Boiling point</div><div class="pyq-opt"><span class="opt-letter">C</span> Absolute zero</div><div class="pyq-opt"><span class="opt-letter">D</span> Critical temperature</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **D**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">**When positive charge is placed on a soap bubble, its radius:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Decreases</div><div class="pyq-opt"><span class="opt-letter">B</span> Increases</div><div class="pyq-opt"><span class="opt-letter">C</span> Remains identical</div><div class="pyq-opt"><span class="opt-letter">D</span> Flattens into a disc</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Electrostatic repulsion expands the surface).
+
+**Logic:** (Electrostatic repulsion expands the surface).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">**Torricelli's law states that the velocity of efflux from a tank orifice is proportional to:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Depth $h$</div><div class="pyq-opt"><span class="opt-letter">B</span> Square root of depth $\sqrt{h}$</div><div class="pyq-opt"><span class="opt-letter">C</span> $h^2$</div><div class="pyq-opt"><span class="opt-letter">D</span> Independent of $h$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** ($v = \sqrt{2gh}$).
+
+**Logic:** ($v = \sqrt{2gh}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">**Which of the following is NOT an application of capillarity?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kerosene rising in a lamp wick</div><div class="pyq-opt"><span class="opt-letter">B</span> Blotting paper absorbing ink</div><div class="pyq-opt"><span class="opt-letter">C</span> Drinking coconut water through a straw</div><div class="pyq-opt"><span class="opt-letter">D</span> Towel soaking water droplets from the skin</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C** (Drinking through a straw requires mouth suction pressure reduction).
+
+**Logic:** (Drinking through a straw requires mouth suction pressure reduction).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">**The spreading parameter $S$ for liquid A on liquid B is positive ($S > 0$). This implies:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Liquid A beads into droplets</div><div class="pyq-opt"><span class="opt-letter">B</span> Liquid A spreads completely over liquid B</div><div class="pyq-opt"><span class="opt-letter">C</span> Liquid A sinks to the bottom</div><div class="pyq-opt"><span class="opt-letter">D</span> Both liquids boil instantly</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **B**.</div>
+  </div>
+</div>

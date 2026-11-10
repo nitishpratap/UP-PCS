@@ -182,6 +182,21 @@ hide:
     - 1937: Wardha Basic Education Scheme
     - 1944: Sargent Plan.
 50. **Chronology of Major Press Acts (Master Ratta Sequence):**
+51. **Calcutta Madrassa & Sanskrit College:** Warren Hastings founded the **Calcutta Madrassa (1780)** for study of Arabic, Persian, and Muslim Law; **Jonathan Duncan** (British Resident) founded the **Sanskrit College at Benaras (1791)** for Hindu law and philosophy.
+52. **Asiatic Society of Bengal (1784):** Founded by **Sir William Jones** at Fort William, Calcutta; translated Sanskrit classics: Jones translated *Abhijnanasakuntalam* and *Gita Govinda*; **Charles Wilkins** translated *Bhagavad Gita* into English (1785 - first English translation).
+53. **Charter Act of 1813 & ₹1 Lakh Clause:** Section 43 allocated an annual sum of **₹1 lakh** for the revival of literature and encouragement of learned natives; remained unspent for a decade due to bitter **Orientalist-Anglicist Controversy**.
+54. **Orientalist vs Anglicist Controversy:** Orientalists (led by **H.T. Prinsep** and H.H. Wilson) favored traditional Sanskrit/Arabic/Persian education; Anglicists (led by **Charles Trevelyan** and Elphinstone) demanded Western science and humanities through English medium.
+55. **Macaulay's Minute (2 February 1835):** Lord Macaulay (Law Member) declared: *'A single shelf of a good European library was worth the whole native literature of India and Arabia'*; advocated creating *'a class of persons, Indian in blood and colour, but English in taste, in opinions, in morals and in intellect'*.
+56. **Downwards Filtration Theory:** British policy of educating only upper and middle classes of Indians, assuming modern education would 'filter down' to the masses; officially abandoned by Wood's Despatch in 1854.
+57. **Wood's Education Despatch (1854):** Drafted by **Sir Charles Wood** (President of Board of Control); hailed as the **'Magna Carta of English Education in India'**; recommended comprehensive educational hierarchy from vernacular primary schools to high schools, Anglo-vernacular colleges, and universities; recommended establishing **Universities at Calcutta, Bombay, and Madras** (set up in 1857 on London University model); introduced **Grants-in-Aid** system.
+58. **Hunter Education Commission (1882):** Appointed by Lord Ripon under **Sir William Wilson Hunter**; reviewed progress of Wood's Despatch; emphasized primary education in vernaculars; recommended transfer of primary schools to municipal and district boards.
+59. **Indian Universities Act (1904):** Based on recommendations of **Raleigh Commission (1902)** under Lord Curzon; tightened government control over university senates and syndicates; fixed five-year tenure for university fellows; increased veto powers of Viceroy over university regulations.
+60. **Sadler University Commission (1917):** Appointed under **Sir Michael Sadler** (Vice-Chancellor of Leeds University) to investigate Calcutta University; included 2 Indian members: **Sir Ashutosh Mukherji** and **Dr. Ziauddin Ahmad**; recommended 12-year school course (10+2 system) before 3-year university degree, and setting up Boards of Secondary Education.
+61. **Hartog Committee (1929):** Auxiliary committee of Simon Commission chaired by **Sir Philip Hartog**; identified rampant 'wastage and stagnation' in primary education; recommended consolidation instead of hasty expansion, and selective admission to universities.
+62. **Wardha Scheme of Basic Education (Nai Talim, 1937):** Formulated by Mahatma Gandhi at All-India National Educational Conference at Wardha; committee chaired by **Dr. Zakir Hussain**; emphasized **'Learning through a craft'** (vocational education), mother tongue medium, and free compulsory education for children aged 7–14.
+63. **Sargent Plan of Education (1944):** Prepared by Sir John Sargent (Educational Adviser to GoI); envisioned universal, free, and compulsory elementary education for children aged 6–14 within 40 years; recommended comprehensive adult literacy campaign.
+64. **Early Indian Press Milestones:** **James Augustus Hicky** founded India's first newspaper, **The Bengal Gazette / Calcutta General Advertiser (1780)**; seized by Warren Hastings in 1782; first Indian-owned newspaper in English was **Bengal Gazette (1816)** started by **Gangadhar Bhattacharya**.
+65. **Vernacular Press Act of 1878 ('Gagging Act'):** Passed by Lord Lytton targeting vernacular papers (especially *Amrita Bazar Patrika* which switched overnight to English to evade the Act); empowered District Magistrates to confiscate press equipment without judicial recourse; repealed by **Lord Ripon in 1882**.
     - 1780: Hicky’s Bengal Gazette (first newspaper)
     - 1799: Censorship of Press Act (Wellesley)
     - 1823: Licensing Regulations (John Adam)
@@ -323,22 +338,6 @@ hide:
 | ***National Herald*** | English | 1938 | Jawaharlal Nehru | **Lucknow** |
 | ***Qaumi Awaz*** | Urdu | 1945 | Jawaharlal Nehru & Rafi Ahmad Kidwai | **Lucknow** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Orientalists** | **Anglicists** | Advised funding Sanskrit, Arabic & Persian classics vs funding English medium & modern science | प्राच्यवादी / आंग्लवादी |
-| **Macaulay’s Minute (1835)** | **Wood’s Despatch (1854)** | Policy decree for English in higher education & filtration vs Comprehensive institutional ladder for mass public schooling | मैकॉले मिनट / वुड्स डिस्पैच |
-| **Hunter Commission (1882)** | **Sadler Commission (1917)** | Primary and secondary education focus (Ripon) vs Calcutta University & 10+2+3 higher education structure (Chelmsford) | हंटर / सैडलर |
-| **Hartog Committee (1929)** | **Sargent Plan (1944)** | Focused on primary school "wastage & stagnation" (Simon auxiliary) vs 40-year post-war universal schooling blueprint | हार्टोग / सार्जेंट |
-| **National Council of Education (1906)**| **Wardha Scheme (1937)** | Swadeshi Movement nationalist colleges in Bengal vs Mahatma Gandhi's craft-centered basic education (*Nai Talim*) | राष्ट्रीय शिक्षा परिषद / वर्धा योजना |
-| **Sir William Jones** | **Warren Hastings** | Founder and First President of Asiatic Society (1784) vs Governor-General who encouraged it but declined presidency | विलियम जोन्स / वारेन हेस्टिंग्स |
-| **Charles Metcalfe (1835)** | **Lord Ripon (1882)** | "Liberator of Press" who repealed 1823 Adam Regulations vs Viceroy who repealed the 1878 Vernacular Press Act | मेटकाफ़ / रिपन |
-| **Vernacular Press Act (1878)**| **Indian Press Act (1910)** | Lytton's Act targeting vernacular papers only vs Minto's Act imposing sweeping security deposits on all presses | 1878 एक्ट / 1910 एक्ट |
-| **Fort William College (1800)**| **Serampore College (1818)** | Company language training institute at Calcutta (Wellesley) vs Missionary degree college in Danish Serampore (Carey) | फोर्ट विलियम / सेरामपुर |
-| **Amrita Bazar Patrika** | **Som Prakash** | Switched overnight to English to escape Gagging Act vs Remained Bengali and was penalized under the Act | अमृत बाज़ार / सोम प्रकाश |
-| **Udant Martand (1826)** | **Samachar Darpan (1818)** | First Hindi weekly (Jugal Kishore Shukla, Calcutta) vs First Bengali newspaper (Marshman, Serampore) | उदन्त मार्तण्ड / समाचार दर्पण |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Chronology of Educational Committees & Despatches:**
@@ -362,373 +361,321 @@ hide:
    - **C - M - W**
    - **C**arey, **M**arshman, and **W**ard (Baptist Mission).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-> [!TIP] **Exam Anchor (UPPCS 2024 Q136):** **William A.J. Archbold** was Principal of Government College (Dacca), MAO College (Aligarh), and Muir Central College (Allahabad). He was **never** Principal of Lahore College.
-
-### UPPCS Prelims 2022
-
-**Q2. UPPCS Prelims 2022, Q117**
-
-Match List-I with List-II and select the correct answer from the code given below.
-
-> [!TIP] **Exam Anchor (UPPCS 2022 Q117):** UP Newspaper Publication Places: **Swadesh** ↔ Gorakhpur; **Bharat Bandhu** ↔ Hathras; **Satyawadi** ↔ Agra; **Shakti** ↔ Almora.
-
-### UPPCS Prelims 2021
-
-**Q3. UPPCS Prelims 2021, Q40**
-
-Who was the founder of the 'Asiatic Society of Bengal'?
-
-A. Jonathan Duncan
-
-B. Sir William Jones
-
-C. Warren Hastings
-
-D. William Bentinck
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Sir William Jones**
-
-</details>
-
-**Q2.**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
-
-**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty/deference — his being an orientalist scholar is a true but separate fact, not the causal reason for stepping aside. (Official UPPCS 2019 key = B.)
-
-</details>
-
-**Q3.**
-
-Arrange the following events in their chronological order and select the correct answer from the codes given below:
-
-A. Hunter Commission
-B. Sadlar Commission
-C. Wood's Despatch
-D. Sargeant Plan
-
-A. A B D C
-
-B. C B A D
-
-C. A B C D
-
-D. C A B D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Wood → Hunter → Sadler → Sargent.
-
-</details>
-
-**Q4.** With reference to the Charter Act of 1813 and education, which of the following statements is/are correct?
-
-1. It set aside ₹1 lakh a year for education.
-2. It also banned all missionary entry into Company territories.
-3. It immediately founded the universities of Calcutta, Bombay and Madras.
-
-A. 1 and 2
-
-B. Only 1
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: Charter 1813 allowed missionary entry; it did not ban missions. Stmt 3 remains false: universities open in 1857 after Wood’s Despatch.
-
-</details>
-
-**Q5.** With reference to Orientalists and Anglicists, which of the following statements is/are correct?
-
-1. Orientalists wanted Sanskrit, Arabic and Persian learning.
-2. Macaulay’s Minute (1835) settled the controversy in favour of pure Orientalist funding only.
-3. Anglicists wanted English and Western science.
-
-A. 1 and 3
-
-B. All 1, 2 and 3
-
-C. Only 1 and 2
-
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1 and 3 only are correct.
-
-**Logic:** Macaulay settled English for higher education — Anglicist win.
-
-</details>
-
-**Q6.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-
-**Assertion (A):** Macaulay’s Minute and Wood’s Despatch are the same document under two titles.
-
-**Reason (R):** Wood’s Despatch (1854) under Dalhousie was the full ladder from primary school to university with grants-in-aid.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** 1835 policy decision ≠ 1854 full blueprint.
-
-</details>
-
-**Q7.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (Body) | List-II (Focus) |
-|---------------|-----------------|
-| A. Hunter Commission 1882 | 1. Calcutta University / higher education |
-| B. Sadler Commission 1917–19 | 2. Primary education under Ripon |
-| C. Hartog Committee 1929 | 3. Post-war official blueprint |
-| D. Sargent Plan 1944 | 4. Primary wastage; consolidate |
-
-*Row order is not the answer code.*
-
-
-A. A-2, B-1, C-4, D-3
-
-B. A-1, B-2, C-4, D-3
-
-C. A-2, B-1, C-3, D-4
-
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Hunter–primary; Sadler–university; Hartog–wastage; Sargent–post-war plan.
-
-**Logic:** Commission ladder matching.
-
-</details>
-
-**Q8.** Which of the following pairs is NOT correctly matched?
-
-
-A. Asiatic Society of Bengal 1784 — founded by Sir William Jones
-
-B. Warren Hastings — encouraged the Society and declined the presidency
-
-C. Serampore College 1818 — Carey, Marshman and Ward
-
-D. Fort William College 1800 — Danish missionary college of Carey
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Fort William = Wellesley’s Company civil-servant college; Serampore = missionary.
-
-**Logic:** College twin trap.
-
-</details>
-
-**Q9.** Arrange the following education milestones in chronological order:
-
-1. Wood’s Despatch
-2. Macaulay’s Minute
-3. Hunter Commission
-4. Wardha Scheme
-
-
-A. 2, 1, 3, 4
-
-B. 1, 2, 3, 4
-
-C. 2, 3, 1, 4
-
-D. 2, 1, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1835 → 1854 → 1882 → 1937.
-
-**Logic:** Core education chronology.
-
-</details>
-
-**Q10.** With reference to press laws, which of the following statements is/are correct?
-
-1. Adam’s Licensing Regulations (1823) permanently ended all press control forever.
-2. Wellesley’s Censorship of Press Act (1799) permanently ended all press control forever.
-3. Metcalfe’s Act (1835) repealed licensing — Metcalfe is the Liberator of the Press.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: 1799 brought wartime pre-censorship; it did not end control forever. Stmt 1 remains false: Adam’s 1823 tightened control.
-
-</details>
-
-**Q11.** With reference to Vernacular Press Act and later Acts, which of the following statements is/are correct?
-
-1. Indian Press Act 1910 is only another name for the Vernacular Press Act 1878.
-2. Lytton’s Vernacular Press Act (1878) curbed the vernacular press.
-3. Ripon repealed the Vernacular Press Act in 1910 under the Indian Press Act.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 2 is correct.
-
-**Logic:** Stmt 3 false: Ripon repealed it in 1882; Indian Press Act 1910 is a different statute. Stmt 1 remains false: 1910 ≠ Vernacular Press Act 1878.
-
-</details>
-
-**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-
-**Assertion (A):** Wardha Scheme (1937) and Sargent Plan (1944) are identical Gandhian Basic Education blueprints.
-
-**Reason (R):** Wardha is Gandhi’s Nai Talim; Sargent is a British official post-war plan.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Standing confused pair.
-
-</details>
-
-**Q13.** With reference to Curzon-era university control, which of the following statements is/are correct?
-
-1. Raleigh Commission (1902) fed the Indian Universities Act, 1904.
-2. The 1904 Act tightened government control over university senates.
-3. National Council of Education (1906) was Curzon’s official universities department.
-
-A. Only 1
-
-B. Only 1 and 2
-
-C. Only 3
-
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2 only are correct.
-
-**Logic:** NCE = Swadeshi-era nationalist schooling body — not Curzon’s department.
-
-</details>
-
-**Q14.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (UP newspaper) | List-II (Place) |
-|-----------------------|-----------------|
-| A. Swadesh | 1. Hathras |
-| B. Bharat Bandhu | 2. Gorakhpur |
-| C. Satyawadi | 3. Almora |
-| D. Shakti | 4. Agra |
-
-*Row order is not the answer code.*
-
-
-A. A-2, B-1, C-4, D-3
-
-B. A-1, B-2, C-4, D-3
-
-C. A-2, B-1, C-3, D-4
-
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Swadesh–Gorakhpur; Bharat Bandhu–Hathras; Satyawadi–Agra; Shakti–Almora.
-
-**Logic:** UP place-match facts; Kesari is Pune, not Gorakhpur.
-
-</details>
-
-**Q15.** Which of the following pairs is NOT correctly matched?
-
-
-A. Hicky’s Bengal Gazette 1780 — first newspaper in Calcutta
-
-B. Canning’s temporary Licensing Act 1857 — Revolt-year control
-
-C. Newspapers (Incitement to Offences) Act 1908 — Minto years
-
-D. Ilbert Bill 1883 — Lytton’s vernacular-only press curb
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Ilbert = Indian judges trying Europeans under Ripon; Vernacular Press = Lytton 1878.
-
-**Logic:** Ripon–Lytton contrast set.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS 2024 Q136):** **William A.J. Archbold** was Principal of Government College (Dacca), MAO College (Aligarh), and Muir Central College (Allahabad). He was **never** Principal of Lahore College.<br><br>### UPPCS Prelims 2022</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Newspaper / Publication)</th>
+        <th>List-II (Place of Publication in UP)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Swadesh</td><td><span class="match-key">1</span> Gorakhpur</td></tr>
+    <tr><td><span class="match-key">B</span> Bharat Bandhu</td><td><span class="match-key">2</span> Hathras</td></tr>
+    <tr><td><span class="match-key">C</span> Satyawadi</td><td><span class="match-key">3</span> Agra</td></tr>
+    <tr><td><span class="match-key">D</span> Shakti</td><td><span class="match-key">4</span> Almora</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-4, B-3, C-1, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-4, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-4, C-2, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> harat Bandhu** ↔ Hathras; **Satyawadi** ↔ Agra; **Shakti** ↔ Almora.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Who was the founder of the 'Asiatic Society of Bengal'?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jonathan Duncan</div><div class="pyq-opt"><span class="opt-letter">B</span> Sir William Jones</div><div class="pyq-opt"><span class="opt-letter">C</span> Warren Hastings</div><div class="pyq-opt"><span class="opt-letter">D</span> William Bentinck</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sir William Jones</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.<br><br>**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty/deference — his being an orientalist scholar is a true but separate fact, not the causal reason for stepping aside. (Official UPPCS 2019 key = B.)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in their chronological order and select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hunter Commission</div><div class="pyq-opt"><span class="opt-letter">B</span> Sadlar Commission</div><div class="pyq-opt"><span class="opt-letter">C</span> Wood's Despatch</div><div class="pyq-opt"><span class="opt-letter">D</span> Sargeant Plan</div><div class="pyq-opt"><span class="opt-letter">A</span> A B D C</div><div class="pyq-opt"><span class="opt-letter">B</span> C B A D</div><div class="pyq-opt"><span class="opt-letter">C</span> A B C D</div><div class="pyq-opt"><span class="opt-letter">D</span> C A B D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Wood → Hunter → Sadler → Sargent.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Charter Act of 1813 and education, which of the following statements is/are correct?<br><br>1. It set aside ₹1 lakh a year for education.<br>2. It also banned all missionary entry into Company territories.<br>3. It immediately founded the universities of Calcutta, Bombay and Madras.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: Charter 1813 allowed missionary entry; it did not ban missions. Stmt 3 remains false: universities open in 1857 after Wood’s Despatch.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to Orientalists and Anglicists, which of the following statements is/are correct?<br><br>1. Orientalists wanted Sanskrit, Arabic and Persian learning.<br>2. Macaulay’s Minute (1835) settled the controversy in favour of pure Orientalist funding only.<br>3. Anglicists wanted English and Western science.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3 only are correct.
+
+**Logic:** Macaulay settled English for higher education — Anglicist win.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br><br>**Assertion (A):** Macaulay’s Minute and Wood’s Despatch are the same document under two titles.<br><br>**Reason (R):** Wood’s Despatch (1854) under Dalhousie was the full ladder from primary school to university with grants-in-aid.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** 1835 policy decision ≠ 1854 full blueprint.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Body)</th><th>List-II (Focus)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Hunter Commission 1882</td><td><span class="match-key">1</span> Calcutta University / higher education</td></tr>
+      <tr><td><span class="match-key">B</span> Sadler Commission 1917–19</td><td><span class="match-key">2</span> Primary education under Ripon</td></tr>
+      <tr><td><span class="match-key">C</span> Hartog Committee 1929</td><td><span class="match-key">3</span> Post-war official blueprint</td></tr>
+      <tr><td><span class="match-key">D</span> Sargent Plan 1944</td><td><span class="match-key">4</span> Primary wastage; consolidate</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-4, C-1, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hunter–primary; Sadler–university; Hartog–wastage; Sargent–post-war plan.
+
+**Logic:** Commission ladder matching.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Asiatic Society of Bengal 1784 — founded by Sir William Jones</div><div class="pyq-opt"><span class="opt-letter">B</span> Warren Hastings — encouraged the Society and declined the presidency</div><div class="pyq-opt"><span class="opt-letter">C</span> Serampore College 1818 — Carey, Marshman and Ward</div><div class="pyq-opt"><span class="opt-letter">D</span> Fort William College 1800 — Danish missionary college of Carey</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Fort William = Wellesley’s Company civil-servant college; Serampore = missionary.
+
+**Logic:** College twin trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Arrange the following education milestones in chronological order:<br><br>1. Wood’s Despatch<br>2. Macaulay’s Minute<br>3. Hunter Commission<br>4. Wardha Scheme</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1835 → 1854 → 1882 → 1937.
+
+**Logic:** Core education chronology.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to press laws, which of the following statements is/are correct?<br><br>1. Adam’s Licensing Regulations (1823) permanently ended all press control forever.<br>2. Wellesley’s Censorship of Press Act (1799) permanently ended all press control forever.<br>3. Metcalfe’s Act (1835) repealed licensing — Metcalfe is the Liberator of the Press.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: 1799 brought wartime pre-censorship; it did not end control forever. Stmt 1 remains false: Adam’s 1823 tightened control.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Vernacular Press Act and later Acts, which of the following statements is/are correct?<br><br>1. Indian Press Act 1910 is only another name for the Vernacular Press Act 1878.<br>2. Lytton’s Vernacular Press Act (1878) curbed the vernacular press.<br>3. Ripon repealed the Vernacular Press Act in 1910 under the Indian Press Act.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 3 false: Ripon repealed it in 1882; Indian Press Act 1910 is a different statute. Stmt 1 remains false: 1910 ≠ Vernacular Press Act 1878.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br><br>**Assertion (A):** Wardha Scheme (1937) and Sargent Plan (1944) are identical Gandhian Basic Education blueprints.<br><br>**Reason (R):** Wardha is Gandhi’s Nai Talim; Sargent is a British official post-war plan.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Standing confused pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Curzon-era university control, which of the following statements is/are correct?<br><br>1. Raleigh Commission (1902) fed the Indian Universities Act, 1904.<br>2. The 1904 Act tightened government control over university senates.<br>3. National Council of Education (1906) was Curzon’s official universities department.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** NCE = Swadeshi-era nationalist schooling body — not Curzon’s department.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (UP newspaper)</th><th>List-II (Place)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Swadesh</td><td><span class="match-key">1</span> Hathras</td></tr>
+      <tr><td><span class="match-key">B</span> Bharat Bandhu</td><td><span class="match-key">2</span> Gorakhpur</td></tr>
+      <tr><td><span class="match-key">C</span> Satyawadi</td><td><span class="match-key">3</span> Almora</td></tr>
+      <tr><td><span class="match-key">D</span> Shakti</td><td><span class="match-key">4</span> Agra</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-4, C-1, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Swadesh–Gorakhpur; Bharat Bandhu–Hathras; Satyawadi–Agra; Shakti–Almora.
+
+**Logic:** UP place-match facts; Kesari is Pune, not Gorakhpur.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hicky’s Bengal Gazette 1780 — first newspaper in Calcutta</div><div class="pyq-opt"><span class="opt-letter">B</span> Canning’s temporary Licensing Act 1857 — Revolt-year control</div><div class="pyq-opt"><span class="opt-letter">C</span> Newspapers (Incitement to Offences) Act 1908 — Minto years</div><div class="pyq-opt"><span class="opt-letter">D</span> Ilbert Bill 1883 — Lytton’s vernacular-only press curb</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ilbert = Indian judges trying Europeans under Ripon; Vernacular Press = Lytton 1878.
+
+**Logic:** Ripon–Lytton contrast set.</div>
+  </div>
+</div>

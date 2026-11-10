@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Census and Urbanisation Topic 3 — Population Composition and Demographic Characteristics</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2026** | **Digital Census Architecture & Self-Enumeration Portal** — Office of RGCCI preparing first fully digital, geo-referenced national census with mobile app enumeration | Next decennial census enumeration methodology |
-| **2023** | **Bihar Caste-Based Survey (बिहार जाति गणना)** — Published detailed headcount showing EBC (36%), OBC (27.1%), SC (19.7%), ST (1.7%), General (15.5%) | First published state caste demographic survey since 1931 |
-| **2022–2023** | **UN World Population Prospects (WPP 2022/2023)** — Formally recognised India overtaking China as the most populous nation with ~142.86 Crore population | Global demographic rank shifts |
-| **2021** | **National Family Health Survey (NFHS-5)** — National TFR declined to **2.0** (below replacement level 2.1); UP TFR recorded at **2.35** (down from 2.74 in NFHS-4) | Key fertility & vital statistics benchmark |
-| **2020** | **Sample Registration System (SRS) Statistical Report** — National IMR declined to **28 per 1,000 live births**; UP IMR dropped to **38** | Annual vital statistics tracking |
-| **Rolling** | **Census 2011 Statutory Baseline** — Remains the binding official reference benchmark for all UPPSC/UKPCS examination questions until Census 2021/2026 notification | Core exam master data baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. The proportion of the **Working-Age Population (15–59 years)** in India as per Census 2011 was **60.3%**.
@@ -135,21 +124,6 @@ hide:
 | **10th** | **Malayalam** | **3.48 Cr** | **2.88%** | Dravidian | Kerala, Lakshadweep, Mahe (Puducherry). |
 | **Least Spoken** | **Sanskrit** | **24,821 speakers** | **0.002%** | Indo-Aryan | Declared classical language; primarily scholarly and ritual use. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **Highest Overall Sex Ratio State**: **Kerala (1,084)** | **Highest Child Sex Ratio State (0–6)**: **Mizoram (970)** / Meghalaya | **Trap**: Kerala is #1 in overall sex ratio, but Mizoram/Meghalaya are #1 in Child Sex Ratio (Kerala child sex ratio is 964). |
-| **Highest SC Concentration (%)**: **Punjab (31.9%)** | **Highest SC Absolute Numbers**: **Uttar Pradesh (4.14 Crore)** | **Trap**: Do not confuse percentage with absolute population. Punjab has highest %; UP has highest absolute head count. |
-| **Highest ST Concentration (%)**: **Mizoram (94.4%)** / Lakshadweep (94.8%) | **Highest ST Absolute Numbers**: **Madhya Pradesh (1.53 Crore)** | **Trap**: MP has the most tribal citizens; Mizoram and Lakshadweep have the highest tribal percentage share. |
-| **Highest Literacy Religious Group**: **Jains (94.9%)** | **Highest Sex Ratio Religious Group**: **Christians (1,023)** | **Trap**: Jains are #1 in literacy; Christians are #1 in sex ratio (1,023 females per 1000 males). Sikhs have lowest sex ratio (903). |
-| **Main Worker**: Worked for $\mathbf{\ge 183	ext{ days}}$ (6 months) in reference year | **Marginal Worker**: Worked for $\mathbf{< 183	ext{ days}}$ in reference year | **Trap**: The exact threshold is 183 days (or 6 months). Working even 182 days classifies a person as a marginal worker. |
-| **Crude Literacy Rate**: $rac{	ext{Literates}}{	ext{Total Population}} 	imes 100$ | **Effective Literacy Rate**: $rac{	ext{Literates (7+)}}{	ext{Population Aged 7+}} 	imes 100$ | **Trap**: Standard official literacy in India is always the *Effective Literacy Rate* (excluding infants 0–6 years). |
-| **Lowest Female Literacy State**: **Rajasthan (52.1%)** | **Lowest Overall Literacy State**: **Bihar (61.8%)** | **Trap**: Bihar has the lowest overall and male literacy, but Rajasthan has the lowest *female* literacy and widest gender gap (27.1%). |
-| **2nd Most Spoken Language in India**: **Bengali (8.03%)** | **3rd Most Spoken Language in India**: **Marathi (6.86%)** | **Trap**: In 2001, Telugu was 3rd. In 2011, Marathi surpassed Telugu (6.70%) to become the 3rd most spoken language. |
-| **UP Highest Overall Literacy**: **Gautam Buddha Nagar (80.12%)** | **UP Highest Female Literacy**: **Kanpur Nagar (75.05%)** | **Trap**: GB Nagar is highest overall, but Kanpur Nagar is highest in female literacy. |
-| **Particularly Vulnerable Tribal Groups (PVTGs)**: **75 Groups** in 18 States & 1 UT | **Total Notified Scheduled Tribes**: Over **705 Distinct Tribes** | **Trap**: 75 is the number of PVTGs (Dhebar Commission); total scheduled tribes exceed 700. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **Religious Order by Population**: **H-M-C-S-B-J** (Hindu 79.8% > Muslim 14.2% > Christian 2.3% > Sikh 1.7% > Buddhist 0.7% > Jain 0.37%)
@@ -158,237 +132,244 @@ hide:
 - **Top 4 Languages of India**: **H-B-M-T** (Hindi 43.63% > Bengali 8.03% > Marathi 6.86% > Telugu 6.70%)
 - **Tribal Concentrations**: MP has highest **absolute ST count** (1.53 Cr); Lakshadweep (94.8%) and Mizoram (94.4%) lead in **ST percentage**.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-According to 2011 census, which of the following states has the lowest child sex-ratio both in Rural and Urban areas?
-A. Uttar Pradesh
-B. Kerala
-C. Haryana
-D. Jammu & Kashmir
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Haryana posted the lowest child sex ratio (0–6) in both rural and urban categories — Son preference trap.
-
-**Ans: C.** Haryana.
-
-</details>
-
-**Q2.**
-Which of the following States is ranked economically at the top but the lowest on the basis of sex-ratio?
-A. Madhya Pradesh
-B. Maharashtra
-C. West Bengal
-D. Haryana
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** HighPCI/industrial image vs worst sex ratio among major States — a favourite confused pair.
-
-**Ans: D.** Haryana.
-
-</details>
-
-**Q3.**
-Which of the following districts of Uttar Pradesh has the lowest female literacy rate as per 2011 census?
-A. Rampur
-B. Balrampur
-C. Shrawasti
-D. Bahraich
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Shravasti/Shrawasti is the floor for female literacy in UP; Balrampur and Bahraich are also weak but higher.
-
-**Ans: C.** Shrawasti (~34.8% female literacy).
-
-</details>
-
-**Q4.**
-As per Census 2011, India’s overall literacy rate was approximately:
-A. 64.8%
-B. 74.04%
-C. 82.1%
-D. 65.5%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Male ~82.14%, female ~65.46%; gender gap narrowed vs 2001.
-
-**Ans: B.** 74.04% (7+ age).
-
-</details>
-
-**Q5.**
-A person who worked less than 183 days in the reference year is classified in Census as:
-A. Main worker
-B. Marginal worker
-C. Non-worker
-D. Cultivator only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Main worker ≥183 days; marginal <183 days.
-
-**Ans: B.** Marginal worker.
-
-</details>
-
-**Q6.**
-As per Census 2011, Bihar’s sex ratio was approximately:
-A. 879
-B. 918
-C. 943
-D. 1084
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Below national average; BPSC repeatedly tests this figure.
-
-**Ans: B.** About 918 females per 1,000 males.
-
-</details>
-
-**Q7.**
-Choose the correct order of the following districts of Bihar as per the ascending level of urbanisation:
-A. Nalanda < Patna < Munger
-B. Patna < Munger < Nalanda
-C. Munger < Nalanda < Patna
-D. Nalanda < Munger < Patna
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Patna tops (~44%); Munger next (~28%); Nalanda (~26%) is lowest of the three.
-
-**Ans: D.** Nalanda < Munger < Patna.
-
-</details>
-
-**Q8.**
-Consider the following statements:
-1. According to Census 2001, Kerala has the smallest gap in male and female literacy rates among the 28 States of India (Delhi and Pondicherry not included).
-2. According to Census 2001, Rajasthan has literacy rate above the national average literacy rate.
-Which is/are correct?
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rajasthan was below national literacy; Kerala gap claim fails the 2001 key.
-
-**Ans: D.** Neither 1 nor 2.
-
-</details>
-
-**Q9.**
-Name the State of India where male–female ratio is adversely tilted against the female:
-A. Uttar Pradesh
-B. West Bengal
-C. Punjab
-D. Haryana
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lowest sex ratio / child sex ratio cluster — Punjab is the twin distractor.
-
-**Ans: D.** Haryana.
-
-</details>
-
-**Q10.**
-Consider the following:
-1. India is the second country in the world to adopt a National Family Planning Programme.
-2. The National Population Policy of India 2000 seeks to achieve replacement level of fertility by 2010 with a population of 111 crores.
-3. Kerala is the first State in India to achieve a replacement level of fertility.
-Which are correct?
-A. 1 only
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement 1 is wrong — India was first (1952), not second.
-
-**Ans: C.** 2 and 3.
-
-</details>
-
-**Q11.**
-As per Census 2011, Bihar’s overall literacy rate was approximately:
-A. 74.04%
-B. 61.80%
-C. 51.50%
-D. 82.14%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Female literacy 51.50% is a separate stem — don’t confuse the two.
-
-**Ans: B.** About 61.80%.
-
-</details>
-
-**Q12.**
-Which State of India has the highest proportion of Scheduled Tribe (ST) population as per Census 2011?
-A. Mizoram
-B. Meghalaya
-C. Arunachal Pradesh
-D. Nagaland
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lakshadweep (UT) has the highest ST% (94.8%), but among **States**, **Mizoram (94.4%)** leads, followed by Nagaland (86.5%) and Meghalaya (86.1%).
-
-**Ans: A.** Mizoram (94.4% — highest among States).
-
-</details>
-
-**Q13.**
-As per Census 2011, which State has the highest percentage of Scheduled Castes in its total population?
-A. Uttar Pradesh
-B. Punjab
-C. Himachal Pradesh
-D. Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Punjab has the highest SC percentage (31.9%).
-
-**Ans: B.** Punjab (31.9%).
-
-</details>
-
-**Q14.**
-In the context of Census 2011, workers who worked for less than 183 days in the reference year are classified as:
-A. Main Workers
-B. Marginal Workers
-C. Non-Workers
-D. Part-time Workers
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Main workers = ≥183 days; Marginal workers = <183 days; Non-workers = no work at all.
-
-**Ans: B.** Marginal Workers.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">According to 2011 census, which of the following states has the lowest child sex-ratio both in Rural and Urban areas?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">C</span> Haryana</div><div class="pyq-opt"><span class="opt-letter">D</span> Jammu & Kashmir</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Haryana posted the lowest child sex ratio (0–6) in both rural and urban categories — Son preference trap.
+
+**Ans: C.** Haryana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following States is ranked economically at the top but the lowest on the basis of sex-ratio?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Madhya Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Maharashtra</div><div class="pyq-opt"><span class="opt-letter">C</span> West Bengal</div><div class="pyq-opt"><span class="opt-letter">D</span> Haryana</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** HighPCI/industrial image vs worst sex ratio among major States — a favourite confused pair.
+
+**Ans: D.** Haryana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following districts of Uttar Pradesh has the lowest female literacy rate as per 2011 census?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rampur</div><div class="pyq-opt"><span class="opt-letter">B</span> Balrampur</div><div class="pyq-opt"><span class="opt-letter">C</span> Shrawasti</div><div class="pyq-opt"><span class="opt-letter">D</span> Bahraich</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Shravasti/Shrawasti is the floor for female literacy in UP; Balrampur and Bahraich are also weak but higher.
+
+**Ans: C.** Shrawasti (~34.8% female literacy).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">As per Census 2011, India’s overall literacy rate was approximately:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 64.8%</div><div class="pyq-opt"><span class="opt-letter">B</span> 74.04%</div><div class="pyq-opt"><span class="opt-letter">C</span> 82.1%</div><div class="pyq-opt"><span class="opt-letter">D</span> 65.5%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Male ~82.14%, female ~65.46%; gender gap narrowed vs 2001.
+
+**Ans: B.** 74.04% (7+ age).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">A person who worked less than 183 days in the reference year is classified in Census as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Main worker</div><div class="pyq-opt"><span class="opt-letter">B</span> Marginal worker</div><div class="pyq-opt"><span class="opt-letter">C</span> Non-worker</div><div class="pyq-opt"><span class="opt-letter">D</span> Cultivator only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Main worker ≥183 days; marginal <183 days.
+
+**Ans: B.** Marginal worker.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">As per Census 2011, Bihar’s sex ratio was approximately:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 879</div><div class="pyq-opt"><span class="opt-letter">B</span> 918</div><div class="pyq-opt"><span class="opt-letter">C</span> 943</div><div class="pyq-opt"><span class="opt-letter">D</span> 1084</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Below national average; BPSC repeatedly tests this figure.
+
+**Ans: B.** About 918 females per 1,000 males.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Choose the correct order of the following districts of Bihar as per the ascending level of urbanisation:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nalanda < Patna < Munger</div><div class="pyq-opt"><span class="opt-letter">B</span> Patna < Munger < Nalanda</div><div class="pyq-opt"><span class="opt-letter">C</span> Munger < Nalanda < Patna</div><div class="pyq-opt"><span class="opt-letter">D</span> Nalanda < Munger < Patna</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Patna tops (~44%); Munger next (~28%); Nalanda (~26%) is lowest of the three.
+
+**Ans: D.** Nalanda < Munger < Patna.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br>1. According to Census 2001, Kerala has the smallest gap in male and female literacy rates among the 28 States of India (Delhi and Pondicherry not included).<br>2. According to Census 2001, Rajasthan has literacy rate above the national average literacy rate.<br>Which is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rajasthan was below national literacy; Kerala gap claim fails the 2001 key.
+
+**Ans: D.** Neither 1 nor 2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Name the State of India where male–female ratio is adversely tilted against the female:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> West Bengal</div><div class="pyq-opt"><span class="opt-letter">C</span> Punjab</div><div class="pyq-opt"><span class="opt-letter">D</span> Haryana</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Lowest sex ratio / child sex ratio cluster — Punjab is the twin distractor.
+
+**Ans: D.** Haryana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Consider the following:<br>1. India is the second country in the world to adopt a National Family Planning Programme.<br>2. The National Population Policy of India 2000 seeks to achieve replacement level of fertility by 2010 with a population of 111 crores.<br>3. Kerala is the first State in India to achieve a replacement level of fertility.<br>Which are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement 1 is wrong — India was first (1952), not second.
+
+**Ans: C.** 2 and 3.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">As per Census 2011, Bihar’s overall literacy rate was approximately:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 74.04%</div><div class="pyq-opt"><span class="opt-letter">B</span> 61.80%</div><div class="pyq-opt"><span class="opt-letter">C</span> 51.50%</div><div class="pyq-opt"><span class="opt-letter">D</span> 82.14%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Female literacy 51.50% is a separate stem — don’t confuse the two.
+
+**Ans: B.** About 61.80%.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which State of India has the highest proportion of Scheduled Tribe (ST) population as per Census 2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mizoram</div><div class="pyq-opt"><span class="opt-letter">B</span> Meghalaya</div><div class="pyq-opt"><span class="opt-letter">C</span> Arunachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">D</span> Nagaland</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Lakshadweep (UT) has the highest ST% (94.8%), but among **States**, **Mizoram (94.4%)** leads, followed by Nagaland (86.5%) and Meghalaya (86.1%).
+
+**Ans: A.** Mizoram (94.4% — highest among States).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">As per Census 2011, which State has the highest percentage of Scheduled Castes in its total population?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Punjab</div><div class="pyq-opt"><span class="opt-letter">C</span> Himachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">D</span> Tamil Nadu</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Punjab has the highest SC percentage (31.9%).
+
+**Ans: B.** Punjab (31.9%).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">In the context of Census 2011, workers who worked for less than 183 days in the reference year are classified as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Main Workers</div><div class="pyq-opt"><span class="opt-letter">B</span> Marginal Workers</div><div class="pyq-opt"><span class="opt-letter">C</span> Non-Workers</div><div class="pyq-opt"><span class="opt-letter">D</span> Part-time Workers</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Main workers = ≥183 days; Marginal workers = <183 days; Non-workers = no work at all.
+
+**Ans: B.** Marginal Workers.</div>
+  </div>
+</div>

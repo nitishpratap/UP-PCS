@@ -158,26 +158,6 @@ hide:
 | **Jahangir** | *Jahangirnama (Tuzuk-i-Jahangiri)*, *Muraqqa* albums | **Ustad Mansur** (*Nadir-ul-Asr*), **Abul Hasan** (*Nadir-uz-Zaman*), **Bishandas** | Natural history (flora/fauna), durbar frontispieces, psychological portraiture |
 | **Shah Jahan** | *Padshahnama* | Bichitr, Chitarman, Muhammad Faqirullah Khan | Formal court durbars, stiff profile symmetry, heavy gold leaf arabesque borders |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Bhimbetka (MP)** | **Ajanta (MH)** | Bhimbetka = Prehistoric rock art (Mesolithic hunting scenes in red/white ochre); Ajanta = Classical Buddhist rock-cut wall paintings (*fresco-secco*) illustrating Jataka tales | भीमबेटका (प्रागैतिहासिक शैलचित्र) / अजंता (शास्त्रीय बौद्ध भित्तिचित्र) |
-| **Daswanth & Basawan** | **Mansur & Bishandas** | Daswanth and Basawan = Foremost Hindu master painters of **Akbar’s** court (Hamzanama & Razmnama); Mansur and Bishandas = Supreme masters of **Jahangir’s** court (flora/fauna & portraiture) | अकबर कालीन (दसवंत, बसावन) / जहांगीर कालीन (मंसूर, बिशनदास) |
-| **Ustad Mansur** | **Bishandas** | Ustad Mansur = Specialized in **wildlife, birds, and flowers** (Siberian crane, Dodo); Bishandas = Specialized in **lifelike human portraiture** (dispatched to paint Shah Abbas of Persia) | मंसूर (पशु-पक्षी एवं वनस्पति) / बिशनदास (व्यक्ति चित्र / पोर्ट्रेट) |
-| **Bani Thani (Kishangarh)**| **Chhatra Mahal (Bundi)** | Bani Thani = Iconic miniature portrait of Radha by **Nihal Chand** at Kishangarh; Chhatra Mahal = Famed wall paintings of lush monsoon night scenes and water pools at **Bundi** | बनी ठनी (किशनगढ़ / निहालचंद) / छत्र महल भित्तिचित्र (बूंदी) |
-| **Basohli School** | **Kangra School** | Basohli = Earliest Pahari school, **bold, fiery, primitive palette** with beetle-wing jewel insets; Kangra = Later Pahari zenith, **soft, delicate, cool pastel shades** with lyrical Radha-Krishna devotion | बसोहली (तीव्र रंग व भृंग-पंख) / कांगड़ा (कोमल पेस्टल रंग व लालित्य) |
-| **Kangra School** | **Kullu School** | Kangra = Refined court lyricism under Raja Sansar Chand (Guler lineage); Kullu = Rustic, bold folk-miniature style with large faces and vibrant tones | कांगड़ा (राजदरबारी लालित्य) / कुल्लू (सरल लोक शैली) |
-| **Pramanam (Shadanga)**| **Sadrisyam (Shadanga)**| Pramanam = Correct **proportion, measurement, and structural scale**; Sadrisyam = Accurate **similitude, likeness, and truthful resemblance** to the subject | प्रमाण (माप व अनुपात) / सादृश्य (वास्तविक प्रतिरूप) |
-| **Warli Painting** | **Madhubani Painting** | Warli = Maharashtra tribal wall art using **white rice paste** in primitive triangles/circles on red mud; Madhubani = Bihar folk art using **vibrant natural multi-colours** with double lines and cross-hatching | वारली (महाराष्ट्र, केवल श्वेत चावल लेप) / मधुबनी (बिहार, बहुवर्णी रेखाचित्र) |
-| **Phad Painting** | **Pichwai Painting** | Phad = Long narrative scrolls of **folk heroes Pabuji & Devnarayan** recited by Bhopa bards; Pichwai = Devotional cloth backdrops hung behind the idol of **Lord Shrinathji** at Nathdwara | फड़ (पबूजी लोक देवता गाथा) / पिछवाई (श्रीनाथजी मंदिर पिछवाड़ा) |
-| **Pithora Painting** | **Warli Painting** | Pithora = Ritual wall art dedicated to **Baba Pithora featuring sacred horses** (Gujarat/MP Rathwa tribe); Warli = Ritual wall art featuring the **circular Tarpa dance and Mother Palaghat** (Maharashtra) | पिथौरा (अश्व चित्र / रथवा) / वारली (तारपा नृत्य / महाराष्ट्र) |
-| **Patachitra (Odisha)** | **Cheriyal (Telangana)** | Patachitra = Cloth scroll of **Puri Jagannath temple themes** coated with chalk/tamarind; Cheriyal = Khadi cloth scroll illustrating **Deccan and Telangana folklore** | पटचित्र (ओडिशा, जगन्नाथ) / चेरियाल (तेलंगाना, स्थानीय गाथाएं) |
-| **Sohrai Painting** | **Khovar Painting** | Sohrai = Jharkhand tribal wall art celebrating **winter harvest and cattle**; Khovar = Jharkhand tribal wall art celebrating **matrimonial wedding chamber fertility** | सोहराई (फसल व पशु उत्सव) / खोवर (विवाह संस्कार गुहा कला) |
-| **Raja Ravi Varma** | **Abanindranath Tagore** | Raja Ravi Varma = Western academic **oil-on-canvas realism** applied to Indian epics; Abanindranath Tagore = Rejection of Western realism, pioneer of **Swadeshi water-colour wash technique** (Bengal School) | राजा रवि वर्मा (पाश्चात्य तैल यथार्थवाद) / अवनींद्रनाथ (स्वदेशी वॉश तकनीक) |
-| **Hamzanama** | **Razmnama** | Hamzanama = Heroic exploits of **Amir Hamza** (1400 colossal folios on cotton cloth); Razmnama = Persian translation and illustration of the **Mahabharata** under Akbar | हम्ज़ानामा (सूती वस्त्र पर 1400 चित्र) / रज़्मनामा (महाभारत का फारसी अनुवाद) |
-| **Kalamkari (Srikalahasti)**| **Kalamkari (Machilipatnam)**| Srikalahasti = Pure **freehand drawing with bamboo pen** of temple Hindu epics; Machilipatnam = **Hand-carved wooden block-printed** vegetative and floral motifs for export | श्रीकालहस्ती (कलम से हस्तनिर्मित मंदिर चित्र) / मछलीपट्टनम (ठप्पा छपाई) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Six Limbs of Painting (Shadanga) — Mnemonic: `R-P-B-L-S-V` (रूप बोले सब वर्ण)
@@ -203,304 +183,255 @@ hide:
 - **Mud Walls:** Warli (MH), Madhubani Bhitti (BR), Sohrai-Khovar (JH), Pithora (GJ).
 - **Cloth Scrolls / Hangings:** Patachitra (OD), Phad (RJ), Pichwai (RJ), Kalamkari (AP), Cheriyal (TG).
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
-
-A. Madho Swaroop Vatsa
-B. H.D. Sankalia
-C. V.S. Wakankar
-D. V.N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — V.S. Wakankar.**
-
-</details>
-
-**Q2.** (painting is the trap option)
-
-The book 'Venushilpa' by Chitracharya Upendra Maharathi relates to which of the following form of arts?
-
-A. Jewellery
-B. Painting
-C. Bamboo art
-D. Marble curving
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Bamboo art.**
-
-</details>
-
-**Q3.** With reference to prehistoric and early painting sites, which of the following statements is/are correct?
-
-1. Bhimbetka rock shelters are in Raisen, Madhya Pradesh, and are associated with V.S. Wakankar.
-2. Jogimara frescoes are the main UP Mirzapur–Sonbhadra rock-art belt.
-3. Bagh caves are the main UP prehistoric rock-art belt.
-
-A. 1 and 2
-B. 1, 2 and 3
-C. Only 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Jogimara is in Ramgarh, Chhattisgarh. UP rock-art belt is Mirzapur–Sonbhadra. Bagh is in Madhya Pradesh.
-
-</details>
-
-**Q4.** Consider the following pairs:
-
-| Term | Meaning |
-|------|---------|
-| 1. Fresco | Pigment on wet plaster |
-| 2. Tempera / secco | Binder on dry surface |
-| 3. Mural | Small album or manuscript picture |
-| 4. Miniature | Wall or ceiling paint integral to a building |
-
-Which of the pairs given above are correctly matched?
-
-A. 1, 2 and 3 only
-B. 1 and 2 only
-C. 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only pairs 1 and 2 are correct.
-
-**Logic:** Mural and miniature are swapped in pairs 3–4.
-
-</details>
-
-**Q5.** Which of the following correctly lists the Shadanga (six limbs) set used in Indian painting theory?
-
-A. Tata, Vitat, Sushira, Avanaddha, Ghana, Melakarta
-B. Nritta, Nritya, Natya, Lasya, Tandava, Abhinaya
-C. Rupabheda, Pramanam, Bhava, Lavanyam, Sadrisyam, Varnikabhangam
-D. Astika, Nastika, Shruti, Smriti, Itihasa, Purana
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** The six limbs are Rupabheda, Pramanam, Bhava, Lavanyam, Sadrisyam and Varnikabhangam.
-
-**Logic:** Do not import dance or music vocabulary into Shadanga.
-
-</details>
-
-**Q6.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Ajanta is famous for paintings while Ellora is famous for sculpture, especially Kailasa.
-
-Reason (R): Ajanta Cave 1 holds Padmapani and Vajrapani images among its celebrated painted figures.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-**A/R logic:** Cave 1 Padmapani / Vajrapani supports Ajanta’s painting fame but does not explain Ellora’s sculpture / Kailasa contrast in (A).
-
-</details>
-
-**Q7.** With reference to Ajanta cave themes, which of the following pairs is/are correctly matched?
-
-1. Cave 1 — Padmapani and Vajrapani
-2. Cave 16 — Dying Princess / Mahajanaka theme
-3. Cave 17 — Vessantara
-4. Rediscovery — John Smith, 1819
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1, 2 and 3 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All four statements / pairs are correct.
-
-**Logic:** These are the highest-yield Ajanta theme tags.
-
-</details>
-
-**Q8.** correctly matched?
-
-A. Hamzanama — Akbar; cloth adventure cycle of about 1400 folios
-B. Ustad Mansur — Jahangir; birds and flowers
-C. Padshahnama — Shah Jahan’s court chronicle painting book
-D. Ragamala — Akbar’s only imperial manuscript style, never used in Rajput courts
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Ragamala is strongly associated with Rajput / Pahari musical-mode series.
-
-**Logic:** Hamzanama is Akbar adventure work. Do not merge it with ragamala.
-
-</details>
-
-**Q9.** With reference to Rajput and Pahari painting, which of the following statements is/are correct?
-
-1. Rajput painting is Rajasthan princely and often bhakti / ragamala based.
-2. Pahari painting is a Deccan court style identical with Bijapur miniatures.
-3. Kangra is a Rajasthan plains school identical with Mewar.
-
-A. Only 1
-B. Only 1 and 2
-C. Only 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Pahari painting is Himalayan hill painting. Kangra is a hill school, not a Rajasthan plains school.
-
-</details>
-
-**Q10.** Arrange the following Pahari phases in the usual sequence:
-
-1. Kangra (Sansar Chand)
-2. Basohli
-3. Guler (Nainsukh / Manaku)
-
-Select the correct answer from the code given below:
-
-A. 1–2–3
-B. 3–2–1
-C. 2–3–1
-D. 2–1–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** The sequence is Basohli → Guler → Kangra.
-
-**Logic:** Basohli is bold and flat. Kangra is lyrical Krishna–nature.
-
-</details>
-
-**Q11.** Consider the following pairs:
-
-| School / centre | Marker |
-|-----------------|--------|
-| 1. Mewar | Sahibdin |
-| 2. Kishangarh | Bani Thani |
-| 3. Nathdwara | Pichwai |
-| 4. Bundi–Kotah | Hunt scenes |
-
-Which of the pairs given above are correctly matched?
-
-A. 1 and 2 only
-B. 1, 2 and 3 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All four pairs are correctly matched.
-
-**Logic:** These are the standard Rajasthan court markers.
-
-</details>
-
-**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Madhubani painting has a GI tag and is therefore automatically UNESCO intangible heritage.
-
-Reason (R): GI and UNESCO ICH are different recognition systems and must not be equated.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false. (R) is true.
-
-**A/R logic:** Madhubani has GI. It is not UNESCO ICH merely because of GI.
-
-</details>
-
-**Q13.** With reference to Tanjore and Mysore painting, which of the following statements is/are correct?
-
-1. Both are identical techniques with no useful distinction.
-2. Tanjore painting uses gold foil and gems on wood.
-3. Mysore painting uses heavier gem-studding than Tanjore and rejects fine gesso.
-
-A. 2 and 3
-B. Only 2
-C. 1 and 2
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Mysore painting uses finer gesso and is less gem-studded than Tanjore. The two schools are not identical.
-
-</details>
-
-**Q14.** Which of the following pairs of Kalamkari is correctly distinguished?
-
-A. Both centres are Pahari miniature capitals
-B. Srikalahasti — block print only; Machilipatnam — temple pen only
-C. Srikalahasti — temple pen-work; Machilipatnam — block-printed trade cloth
-D. Both centres are Mughal atelier names under Jahangir
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Srikalahasti is pen-work. Machilipatnam is block-printed trade cloth.
-
-**Logic:** Do not reverse the two Kalamkari centres.
-
-</details>
-
-**Q15.** With reference to modern Indian painting, which of the following statements is/are correct?
-
-1. Ravi Varma used oil and oleograph realism.
-2. The Company School is the same as the nationalist Bengal School.
-3. Abanindranath led the Bengal School wash revival and painted Bharat Mata.
-
-A. Only 1
-B. 1 and 3
-C. Only 2
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 3 only are correct.
-
-**Logic:** Company School made colonial documentary pictures for EIC patrons.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Madho Swaroop Vatsa</div><div class="pyq-opt"><span class="opt-letter">B</span> H.D. Sankalia</div><div class="pyq-opt"><span class="opt-letter">C</span> V.S. Wakankar</div><div class="pyq-opt"><span class="opt-letter">D</span> V.N. Mishra</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> V.S. Wakankar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">(painting is the trap option)<br><br>The book 'Venushilpa' by Chitracharya Upendra Maharathi relates to which of the following form of arts?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jewellery</div><div class="pyq-opt"><span class="opt-letter">B</span> Painting</div><div class="pyq-opt"><span class="opt-letter">C</span> Bamboo art</div><div class="pyq-opt"><span class="opt-letter">D</span> Marble curving</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Bamboo art.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to prehistoric and early painting sites, which of the following statements is/are correct?<br><br>1. Bhimbetka rock shelters are in Raisen, Madhya Pradesh, and are associated with V.S. Wakankar.<br>2. Jogimara frescoes are the main UP Mirzapur–Sonbhadra rock-art belt.<br>3. Bagh caves are the main UP prehistoric rock-art belt.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Jogimara is in Ramgarh, Chhattisgarh. UP rock-art belt is Mirzapur–Sonbhadra. Bagh is in Madhya Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Term | Meaning |<br>|------|---------|<br>| 1. Fresco | Pigment on wet plaster |<br>| 2. Tempera / secco | Binder on dry surface |<br>| 3. Mural | Small album or manuscript picture |<br>| 4. Miniature | Wall or ceiling paint integral to a building |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only pairs 1 and 2 are correct.
+
+**Logic:** Mural and miniature are swapped in pairs 3–4.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following correctly lists the Shadanga (six limbs) set used in Indian painting theory?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tata, Vitat, Sushira, Avanaddha, Ghana, Melakarta</div><div class="pyq-opt"><span class="opt-letter">B</span> Nritta, Nritya, Natya, Lasya, Tandava, Abhinaya</div><div class="pyq-opt"><span class="opt-letter">C</span> Rupabheda, Pramanam, Bhava, Lavanyam, Sadrisyam, Varnikabhangam</div><div class="pyq-opt"><span class="opt-letter">D</span> Astika, Nastika, Shruti, Smriti, Itihasa, Purana</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The six limbs are Rupabheda, Pramanam, Bhava, Lavanyam, Sadrisyam and Varnikabhangam.
+
+**Logic:** Do not import dance or music vocabulary into Shadanga.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Ajanta is famous for paintings while Ellora is famous for sculpture, especially Kailasa.<br><br>Reason (R): Ajanta Cave 1 holds Padmapani and Vajrapani images among its celebrated painted figures.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Cave 1 Padmapani / Vajrapani supports Ajanta’s painting fame but does not explain Ellora’s sculpture / Kailasa contrast in (A).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Ajanta cave themes, which of the following pairs is/are correctly matched?<br><br>1. Cave 1 — Padmapani and Vajrapani<br>2. Cave 16 — Dying Princess / Mahajanaka theme<br>3. Cave 17 — Vessantara<br>4. Rediscovery — John Smith, 1819<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All four statements / pairs are correct.
+
+**Logic:** These are the highest-yield Ajanta theme tags.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hamzanama — Akbar; cloth adventure cycle of about 1400 folios</div><div class="pyq-opt"><span class="opt-letter">B</span> Ustad Mansur — Jahangir; birds and flowers</div><div class="pyq-opt"><span class="opt-letter">C</span> Padshahnama — Shah Jahan’s court chronicle painting book</div><div class="pyq-opt"><span class="opt-letter">D</span> Ragamala — Akbar’s only imperial manuscript style, never used in Rajput courts</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ragamala is strongly associated with Rajput / Pahari musical-mode series.
+
+**Logic:** Hamzanama is Akbar adventure work. Do not merge it with ragamala.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to Rajput and Pahari painting, which of the following statements is/are correct?<br><br>1. Rajput painting is Rajasthan princely and often bhakti / ragamala based.<br>2. Pahari painting is a Deccan court style identical with Bijapur miniatures.<br>3. Kangra is a Rajasthan plains school identical with Mewar.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Pahari painting is Himalayan hill painting. Kangra is a hill school, not a Rajasthan plains school.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Pahari phases in the usual sequence:<br><br>1. Kangra (Sansar Chand)<br>2. Basohli<br>3. Guler (Nainsukh / Manaku)<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1–2–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3–2–1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–3–1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–1–3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The sequence is Basohli → Guler → Kangra.
+
+**Logic:** Basohli is bold and flat. Kangra is lyrical Krishna–nature.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| School / centre | Marker |<br>|-----------------|--------|<br>| 1. Mewar | Sahibdin |<br>| 2. Kishangarh | Bani Thani |<br>| 3. Nathdwara | Pichwai |<br>| 4. Bundi–Kotah | Hunt scenes |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All four pairs are correctly matched.
+
+**Logic:** These are the standard Rajasthan court markers.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Madhubani painting has a GI tag and is therefore automatically UNESCO intangible heritage.<br><br>Reason (R): GI and UNESCO ICH are different recognition systems and must not be equated.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false. (R) is true.
+
+**A/R logic:** Madhubani has GI. It is not UNESCO ICH merely because of GI.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Tanjore and Mysore painting, which of the following statements is/are correct?<br><br>1. Both are identical techniques with no useful distinction.<br>2. Tanjore painting uses gold foil and gems on wood.<br>3. Mysore painting uses heavier gem-studding than Tanjore and rejects fine gesso.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Mysore painting uses finer gesso and is less gem-studded than Tanjore. The two schools are not identical.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs of Kalamkari is correctly distinguished?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both centres are Pahari miniature capitals</div><div class="pyq-opt"><span class="opt-letter">B</span> Srikalahasti — block print only; Machilipatnam — temple pen only</div><div class="pyq-opt"><span class="opt-letter">C</span> Srikalahasti — temple pen-work; Machilipatnam — block-printed trade cloth</div><div class="pyq-opt"><span class="opt-letter">D</span> Both centres are Mughal atelier names under Jahangir</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Srikalahasti is pen-work. Machilipatnam is block-printed trade cloth.
+
+**Logic:** Do not reverse the two Kalamkari centres.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to modern Indian painting, which of the following statements is/are correct?<br><br>1. Ravi Varma used oil and oleograph realism.<br>2. The Company School is the same as the nationalist Bengal School.<br>3. Abanindranath led the Bengal School wash revival and painted Bharat Mata.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3 only are correct.
+
+**Logic:** Company School made colonial documentary pictures for EIC patrons.</div>
+  </div>
+</div>

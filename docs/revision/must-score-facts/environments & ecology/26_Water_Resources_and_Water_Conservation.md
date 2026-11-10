@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 26 — Water Resources & Water Conservation</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. World water rough shares: oceans about **97.2%**, ice/glaciers about **2%**, groundwater about **0.6%**, rivers about **0.01%**. Descending order is **Oceans > Polar ice > Groundwater > Rivers**.
@@ -75,22 +64,6 @@ hide:
 49. **Dublin Principles (1992):** freshwater is finite; participatory management; women central; water has **economic value**.
 50. **National Water Policy 2012:** river basin as planning unit; allocation priority **drinking water > ecology > agriculture > industry**.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Atmospheric & Pollution Milestones
-
-```
-1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
-1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
-1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
-1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
-1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
-1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
-2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
-2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
-```
-
 ## 📊 Quick Reference Grid
 
 ### Shares / policy
@@ -110,362 +83,273 @@ hide:
 ---
 
 ![Global Water Partitioning, Aquifer Hydrogeology & Water Stress](images/env_ch26_01_global_water_partitioning_aquifers.png)
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-## ⚡ Confused Pairs & Common Examiner Traps
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Integrated Water Resources Management (IWRM)** | **Watershed Management** | Coordinated macro-framework promoting the balanced development of water, land, and related resources across an entire river basin to maximize economic and social welfare equitably vs micro-level land and water conservation technique focusing on a ridge-to-valley catchment draining to a single outlet | एकीकृत जल संसाधन प्रबंधन (IWRM) / वाटरशेड (जलग्रहण) प्रबंधन |
-| **Unconfined Aquifer** | **Confined (Artesian) Aquifer** | Permeable water-bearing geological formation whose upper boundary is the free atmospheric water table directly recharged by infiltrating rainfall vs deep aquifer bounded above and below by impermeable aquitards where groundwater is stored under hydrostatic artesian pressure | अप्रतिबंधित जलभृत (मुक्त भूजल स्तर) / प्रतिबंधित (आर्टेशियन) जलभृत |
-| **Sewage Treatment Plant (STP)** | **Common Effluent Treatment Plant (CETP)** | Treatment facility designed specifically to clean domestic municipal sewage and blackwater from residential settlements vs collective facility built to treat hazardous industrial toxic effluents generated by a cluster of small- and medium-scale industrial factories | मलजल उपचार संयंत्र (STP, घरेलू सीवेज) / साझा उत्प्रवाह उपचार संयंत्र (CETP, औद्योगिक अपशिष्ट) |
-| **Rainwater Harvesting (RWH)** | **Artificial Groundwater Recharge** | Collection, conveyance, and storage of runoff rainwater from rooftops or ground surfaces into surface storage tanks for immediate usage vs purposeful diversion and injection of harvested surface runoff deep into depleted subterranean aquifers through recharge shafts/borewells | वर्षा जल संचयन (सतही उपयोग) / कृत्रिम भूजल पुनर्भरण (भूजल रीचार्ज) |
-| **Central Ground Water Board (CGWB)** | **Central Ground Water Authority (CGWA)** | Apex national scientific multidisciplinary organization under Ministry of Jal Shakti assessing groundwater resources, aquifer mapping, and monitoring vs statutory regulatory authority constituted under Section 3(3) of EPA 1986 issuing mandatory NOCs and regulating industrial groundwater extraction | केंद्रीय भूजल बोर्ड (CGWB, वैज्ञानिक आकलन) / केंद्रीय भूजल प्राधिकरण (CGWA, कानूनी नियमन) |
-| **Jal Jeevan Mission (JRM / Har Ghar Jal)** | **Atal Bhujal Yojana (ABHY)** | Centrally sponsored flagship mission launched in August 2019 ensuring 55 lpcd functional household tap connections (FHTC) to all rural households by 2024 vs World Bank assisted community-led groundwater management scheme focused on water-stressed districts across 7 states | जल जीवन मिशन (हर घर जल, नल कनेक्शन) / अटल भूजल योजना (सामुदायिक भूजल प्रबंधन) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Arrange the following freshwater reservoirs in **descending** order of their share of total global freshwater:
-
-1. Oceans
-2. Rivers
-3. Polar ice and glaciers
-4. Groundwater
-
-A. 1, 3, 4, 2
-
-B. 1, 2, 4, 3
-
-C. 1, 2, 3, 4
-
-D. 1, 4, 3, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Freshwater fraction ranking — ice caps > groundwater > rivers; oceans are saline (often listed as distractor in stem).
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Arrange the following freshwater reservoirs in **descending** order of their share of total global freshwater:<br><br>1. Oceans<br>2. Rivers<br>3. Polar ice and glaciers<br>4. Groundwater</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 3, 4, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 4, 3, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Freshwater fraction ranking — ice caps > groundwater > rivers; oceans are saline (often listed as distractor in stem).
 
 **Ans: A (1-3-4-2).** Among freshwater stores: **ice > groundwater > rivers**.
 
-**Trap:** Rivers second after oceans — rivers are the **smallest** usable freshwater fraction.
+**Trap:** Rivers second after oceans — rivers are the **smallest** usable freshwater fraction.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-The Annual Groundwater Quality Report 2024 was prepared by:
-
-1. Central Pollution Control Board (CPCB)
-2. Central Water Commission (CWC)
-3. Central Ground Water Board (CGWB)
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CGWB assesses groundwater quantity/quality; CPCB handles surface pollution; CWC surface water data.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The Annual Groundwater Quality Report 2024 was prepared by:<br><br>1. Central Pollution Control Board (CPCB)<br>2. Central Water Commission (CWC)<br>3. Central Ground Water Board (CGWB)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** CGWB assesses groundwater quantity/quality; CPCB handles surface pollution; CWC surface water data.
 
 **Ans: B (Only 3).** **CGWB** publishes the Annual Groundwater Quality Report.
 
-**Trap:** **CPCB** (surface/air pollution board) or **CWC** confusion.
+**Trap:** **CPCB** (surface/air pollution board) or **CWC** confusion.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel
-2. Samaspur Bird Sanctuary
-3. Rudrasagar Lake
-4. Sultanpur National Park
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Wetland conservation + UP geography — Tripura and Haryana sites outside UP.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?<br><br>1. Sarsai Nawar Jheel<br>2. Samaspur Bird Sanctuary<br>3. Rudrasagar Lake<br>4. Sultanpur National Park</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Wetland conservation + UP geography — Tripura and Haryana sites outside UP.
 
 **Ans: B (3 and 4).** **Rudrasagar = Tripura**; **Sultanpur = Haryana**.
 
-**Trap:** Assuming all four names are UP Ramsar sites.
+**Trap:** Assuming all four names are UP Ramsar sites.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-A geographical unit that collects, stores and releases water is called—
-
-A. Watershed
-
-B. Wasteland
-
-C. Wetland
-
-D. Water Reserve
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Watershed/catchment definition — drainage basin hydrology.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">A geographical unit that collects, stores and releases water is called—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Watershed</div><div class="pyq-opt"><span class="opt-letter">B</span> Wasteland</div><div class="pyq-opt"><span class="opt-letter">C</span> Wetland</div><div class="pyq-opt"><span class="opt-letter">D</span> Water Reserve</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Watershed/catchment definition — drainage basin hydrology.
 
 **Ans: A.** A **watershed** collects, stores, and releases water.
 
-**Trap:** **Wetland** — stores water but is an ecosystem type, not the drainage-unit definition.
+**Trap:** **Wetland** — stores water but is an ecosystem type, not the drainage-unit definition.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-The watershed development project enabling rural populations to conserve water is known as:
-
-A. Jal Kranti
-
-B. Pani Sansad
-
-C. Hariyali
-
-D. Atal Bhujal Yojana
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hariyali = GoI watershed project for rural water conservation.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The watershed development project enabling rural populations to conserve water is known as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jal Kranti</div><div class="pyq-opt"><span class="opt-letter">B</span> Pani Sansad</div><div class="pyq-opt"><span class="opt-letter">C</span> Hariyali</div><div class="pyq-opt"><span class="opt-letter">D</span> Atal Bhujal Yojana</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Hariyali = GoI watershed project for rural water conservation.
 
 **Ans: C.** **Hariyali** is the watershed development project.
 
-**Trap:** **Jal Kranti** or **Atal Bhujal** (groundwater-specific, 2019).
+**Trap:** **Jal Kranti** or **Atal Bhujal** (groundwater-specific, 2019).</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-The main purpose of the Ganga Action Plan (1985) was to:
-
-A. Make Ganga water pollution-free
-
-B. Build large irrigation dams only
-
-C. Privatise river water rights
-
-D. Divert Ganga water to southern states
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** GAP/NRCP lineage — sewage interception and pollution abatement on Ganga.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The main purpose of the Ganga Action Plan (1985) was to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Make Ganga water pollution-free</div><div class="pyq-opt"><span class="opt-letter">B</span> Build large irrigation dams only</div><div class="pyq-opt"><span class="opt-letter">C</span> Privatise river water rights</div><div class="pyq-opt"><span class="opt-letter">D</span> Divert Ganga water to southern states</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** GAP/NRCP lineage — sewage interception and pollution abatement on Ganga.
 
 **Ans: A.** GAP aimed to make Ganga water **pollution-free**.
 
-**Trap:** River-linking or dam-building distractors — GAP is **pollution control**.
+**Trap:** River-linking or dam-building distractors — GAP is **pollution control**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-Jal Jeevan Mission was declared in the Union Budget of which financial year?
-
-A. 2021–22
-
-B. 2022–23
-
-C. 2020–21
-
-D. 2019–20
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** JJM launch August 2019 / Budget FY 2019–20 — Har Ghar Jal rural tap connections.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Jal Jeevan Mission was declared in the Union Budget of which financial year?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2021–22</div><div class="pyq-opt"><span class="opt-letter">B</span> 2022–23</div><div class="pyq-opt"><span class="opt-letter">C</span> 2020–21</div><div class="pyq-opt"><span class="opt-letter">D</span> 2019–20</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** JJM launch August 2019 / Budget FY 2019–20 — Har Ghar Jal rural tap connections.
 
 **Ans: D.** **Jal Jeevan Mission was announced in FY 2019–20**.
 
-**Trap:** Post-COVID years (2020–21 onward) as launch window.
+**Trap:** Post-COVID years (2020–21 onward) as launch window.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-The Water (Prevention and Control of Pollution) Act was enacted in:
-
-A. 1974
-
-B. 1981
-
-C. 1986
-
-D. 1972
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Water 1974 created CPCB/SPCB — separate from Air 1981 and EPA 1986.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The Water (Prevention and Control of Pollution) Act was enacted in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1974</div><div class="pyq-opt"><span class="opt-letter">B</span> 1981</div><div class="pyq-opt"><span class="opt-letter">C</span> 1986</div><div class="pyq-opt"><span class="opt-letter">D</span> 1972</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Water 1974 created CPCB/SPCB — separate from Air 1981 and EPA 1986.
 
 **Ans: A.** The **Water Act year is 1974**.
 
-**Trap:** **1981** (Air Act) or **1986** (EPA).
+**Trap:** **1981** (Air Act) or **1986** (EPA).</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-Which state first made rooftop rainwater harvesting mandatory in new buildings (2003)?
-
-A. Rajasthan
-
-B. Tamil Nadu
-
-C. Kerala
-
-D. Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tamil Nadu 2003 mandatory RWH — Chennai model cited in water conservation teaching.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which state first made rooftop rainwater harvesting mandatory in new buildings (2003)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rajasthan</div><div class="pyq-opt"><span class="opt-letter">B</span> Tamil Nadu</div><div class="pyq-opt"><span class="opt-letter">C</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">D</span> Gujarat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tamil Nadu 2003 mandatory RWH — Chennai model cited in water conservation teaching.
 
 **Ans: B.** **Tamil Nadu (2003)** mandated RWH in new buildings.
 
-**Trap:** **Rajasthan** (traditional johad/taanka) without mandatory urban law date.
+**Trap:** **Rajasthan** (traditional johad/taanka) without mandatory urban law date.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.**
-
-Sukhomajri (Haryana) is a classic success story of:
-
-A. Community watershed management
-
-B. Offshore desalination
-
-C. Nuclear-powered irrigation
-
-D. Interlinking of Himalayan rivers
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Community watershed + afforestation + water harvesting model before IWMP scaling.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Sukhomajri (Haryana) is a classic success story of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Community watershed management</div><div class="pyq-opt"><span class="opt-letter">B</span> Offshore desalination</div><div class="pyq-opt"><span class="opt-letter">C</span> Nuclear-powered irrigation</div><div class="pyq-opt"><span class="opt-letter">D</span> Interlinking of Himalayan rivers</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Community watershed + afforestation + water harvesting model before IWMP scaling.
 
 **Ans: A.** **Sukhomajri exemplifies community watershed management**.
 
-**Trap:** National river-linking megaproject distractor.
+**Trap:** National river-linking megaproject distractor.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which is not a biotic resource?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Coal</div><div class="pyq-opt"><span class="opt-letter">B</span> Petroleum</div><div class="pyq-opt"><span class="opt-letter">C</span> Fish</div><div class="pyq-opt"><span class="opt-letter">D</span> Freshwater</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bank traps on biotic vs freshwater, NWM scope, disinfection, lakes, Ganga institutions, and personalities.
 
-**Q11.** Which is not a biotic resource?
+**Ans: D.** Freshwater is abiotic; coal/petroleum counted biotic via organic origin.</div>
+  </div>
+</div>
 
-A. Coal
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">‘Jal Purush’ / Waterman of India is—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sunderlal Bahuguna</div><div class="pyq-opt"><span class="opt-letter">B</span> Rajendra Singh (Tarun Bharat Sangh)</div><div class="pyq-opt"><span class="opt-letter">C</span> Salim Ali</div><div class="pyq-opt"><span class="opt-letter">D</span> Medha Patkar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Magsaysay 2001; Stockholm Water Prize 2015.</div>
+  </div>
+</div>
 
-B. Petroleum
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">National Water Mission correctly includes—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only full Himalaya–peninsula river linking as a core goal</div><div class="pyq-opt"><span class="opt-letter">B</span> Wastewater recycling for urban needs and +20% water-use efficiency framing</div><div class="pyq-opt"><span class="opt-letter">C</span> Full reimbursement of all farmer borewell costs nationwide</div><div class="pyq-opt"><span class="opt-letter">D</span> Only ozone treaty compliance</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1–2 of the classic UPSC NWM stem; 3–4 false.</div>
+  </div>
+</div>
 
-C. Fish
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">UV in water purification primarily—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Removes all odours and settles all turbidity</div><div class="pyq-opt"><span class="opt-letter">B</span> Inactivates/kills harmful microorganisms without changing taste/odour</div><div class="pyq-opt"><span class="opt-letter">C</span> Adds chlorine taste deliberately</div><div class="pyq-opt"><span class="opt-letter">D</span> Only measures BOD</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only the microbial-kill claim is correct among the three UPSC statements.</div>
+  </div>
+</div>
 
-D. Freshwater
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bank traps on biotic vs freshwater, NWM scope, disinfection, lakes, Ganga institutions, and personalities.
-
-**Ans: D.** Freshwater is abiotic; coal/petroleum counted biotic via organic origin.
-
-</details>
-
-**Q12.** ‘Jal Purush’ / Waterman of India is—
-
-A. Sunderlal Bahuguna
-
-B. Rajendra Singh (Tarun Bharat Sangh)
-
-C. Salim Ali
-
-D. Medha Patkar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Magsaysay 2001; Stockholm Water Prize 2015.
-
-</details>
-
-**Q13.** National Water Mission correctly includes—
-
-A. Only full Himalaya–peninsula river linking as a core goal
-
-B. Wastewater recycling for urban needs and +20% water-use efficiency framing
-
-C. Full reimbursement of all farmer borewell costs nationwide
-
-D. Only ozone treaty compliance
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1–2 of the classic UPSC NWM stem; 3–4 false.
-
-</details>
-
-**Q14.** UV in water purification primarily—
-
-A. Removes all odours and settles all turbidity
-
-B. Inactivates/kills harmful microorganisms without changing taste/odour
-
-C. Adds chlorine taste deliberately
-
-D. Only measures BOD
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only the microbial-kill claim is correct among the three UPSC statements.
-
-</details>
-
-**Q15.** NLCP urban lakes set correctly excludes—
-
-A. Bhoj (MP)
-
-B. Sukhna (Chandigarh)
-
-C. Pichola (Rajasthan)
-
-D. Chilika (Odisha)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Chilika is not under the NLCP list in bank teaching.
-
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">NLCP urban lakes set correctly excludes—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bhoj (MP)</div><div class="pyq-opt"><span class="opt-letter">B</span> Sukhna (Chandigarh)</div><div class="pyq-opt"><span class="opt-letter">C</span> Pichola (Rajasthan)</div><div class="pyq-opt"><span class="opt-letter">D</span> Chilika (Odisha)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chilika is not under the NLCP list in bank teaching.</div>
+  </div>
+</div>

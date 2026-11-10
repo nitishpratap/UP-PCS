@@ -155,33 +155,12 @@ c. 1,000 BCE   ── Iron Age Megalithic Culture (South India & Deccan: Stone c
 | **Vindhyan / Kaimur** (Mirzapur/Sonbhadra) | Lekhahia, Morhana Pahar, Bhaghai Khor | Mesolithic rock art & burials | Lekhahia = 17 human skeletons; Morhana Pahar = rock art |
 | **Upper Doab** (Meerut/Baghpat/Saharanpur) | Hastinapur, Sanauli, Bargaon | OCP / Copper Hoard / Late Harappan | Hastinapur = B.B. Lal christens OCP; Sanauli = chariots & antenna swords |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Paleolithic** | **Neolithic** | Chipped rough handaxes vs polished ground stone celts & agriculture | पुरापाषाण / नवपाषाण |
-| **Microlith** | **Handaxe** | Mesolithic composite bladelet (1–8 cm) vs Lower Paleolithic large biface | सूक्ष्म पाषाण / हाथ कुल्हाड़ी |
-| **Bagor (Rajasthan)** | **Sarai Nahar Rai (UP)** | Mesolithic **animal domestication** vs Mesolithic **human burials & violence** | बागोर / सराय नाहर राय |
-| **Bagor (Rajasthan)** | **Baghor (MP)** | Mesolithic domestication site vs Upper Paleolithic **stone shrine** in Son valley | बागोर / बाघोर |
-| **Mehrgarh (Balochistan)**| **Koldihwa (UP)** | Earliest wheat & barley farming vs Belan valley rice-husk impressions | मेहरगढ़ / कोलडिहवा |
-| **Lahuradewa (UP)** | **Mehrgarh (Balochistan)** | Earliest subcontinental rice (~7000 BCE) vs earliest subcontinental wheat/barley village | लहुरादेवा / मेहरगढ़ |
-| **Burzahom (Kashmir)** | **Chirand (Bihar)** | Kashmir **pit dwellings & dog burials** vs Gangetic **bone & antler tools** | बुरज़होम / चिरांद |
-| **Rock shelter** | **Carved cave** | Natural rock overhang (Bhimbetka) vs artificial rock-cut cave (Ajanta/Ellora) | शैल आश्रय / कृत्रिम गुफा |
-| **Chalcolithic** | **Harappan** | Rural copper + stone farming vs urban planned bronze cities with citadels | ताम्रपाषाण / हड़प्पा |
-| **Hathnora fossil** | **Attirampakkam tools** | Actual *Homo erectus* skull cap vs early stone **tools** (~1.5 Mya, no fossil) | हथनौरा / अत्तिरमपाक्कम |
-| **V.S. Wakankar** | **H.D. Sankalia** | Bhimbetka discoverer (1957) vs Langhnaj & Navdatoli excavator | वाकणकर / सांकलिया |
-| **OCP (Ochre Coloured)**| **Harappan Urban Ware** | Doab rural pottery (c. 2000–1500 BCE) vs Mature Harappan red-and-black ware | गेरूआ मृद्भांड / हड़प्पा मृद्भांड |
-| **Soanian industry** | **Acheulian industry** | NW pebble chopper-chopping tradition vs Peninsular handaxe-cleaver tradition | सोहन / ऐशूलियन |
-| **Non-geometric microliths**| **Geometric microliths** | Earlier Mesolithic (backed blades) vs Later Mesolithic (triangles, trapezes, lunates) | अज्यामितीय / ज्यामितीय |
-| **Aceramic Neolithic** | **Ceramic Neolithic** | Farming without pottery (Mehrgarh Period I) vs Farming with handmade/wheel pottery | बिना मृद्भांड / मृद्भांड युक्त |
-| **Prehistoric** | **Proto-historic** | Period with no script/writing vs Undeciphered script (Harappan / Copper Age) | प्रागैतिहासिक / आद्यऐतिहासिक |
-| **Damdama triple grave**| **Sarai Nahar Rai 4-grave**| Three human skeletons in one grave vs Four human skeletons in one grave | दमदमा / सराय नाहर राय |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Prehistoric Cultural Sequence:**
    - **Mnemonic:** **P - M - N - C - I**
-   - **Order:** **P**aleolithic $\rightarrow$ **M**esolithic $\rightarrow$ **N**eolithic $\rightarrow$ **C**halcolithic $ightarrow$ **I**ron Age.
+   - **Order:** **P**aleolithic $\rightarrow$ **M**esolithic $\rightarrow$ **N**eolithic $\rightarrow$ **C**halcolithic $
+ightarrow$ **I**ron Age.
 2. **Pratapgarh (UP) Mesolithic Trio:**
    - **Mnemonic:** **S - M - D**
    - **S**arai Nahar Rai (4 skeletons in 1 grave, earliest microliths in UP)
@@ -198,23 +177,23 @@ c. 1,000 BCE   ── Iron Age Megalithic Culture (South India & Deccan: Stone c
    - **Chirand** = **Chingari/Antler** (Deer bone & horn tools)
 
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
-
-A. Madho Swaroop Vatsa
-B. H.D. Sankalia
-C. V.S. Wakankar
-D. V.N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (V.S. Wakankar)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Madho Swaroop Vatsa</div><div class="pyq-opt"><span class="opt-letter">B</span> H.D. Sankalia</div><div class="pyq-opt"><span class="opt-letter">C</span> V.S. Wakankar</div><div class="pyq-opt"><span class="opt-letter">D</span> V.N. Mishra</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (V.S. Wakankar)
 
 **Detailed Explanation:**
 - **Archaeologist Profile:** Dr. **Vishnu Shridhar Wakankar** (1919–1988), an eminent Indian archaeologist and art historian from Vikram University, discovered the Bhimbetka rock shelters in **1957–1958**. He was honored with the Padma Shri in 1975 for his groundbreaking prehistoric discoveries.
@@ -225,22 +204,22 @@ D. V.N. Mishra
   - **V.N. Mishra:** Collaborated in later comprehensive surveys and excavations of Bhimbetka's rock-shelter III F-23 in the 1970s.
 
 **Key Exam Takeaway / Trap:**
-- Remember the exact discovery anchor: **Dr. V.S. Wakankar, 1957–58, Raisen district, MP**. UNESCO inscribed Bhimbetka on the World Heritage List in **2003**.
-</details>
+- Remember the exact discovery anchor: **Dr. V.S. Wakankar, 1957–58, Raisen district, MP**. UNESCO inscribed Bhimbetka on the World Heritage List in **2003**.</div>
+  </div>
+</div>
 
-**Q2.**
-
-Which among the following sites provides evidence of domestication of animals in the Mesolithic period?
-
-A. Odai
-B. Bori
-C. Bagor
-D. Lakhnia
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Bagor)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which among the following sites provides evidence of domestication of animals in the Mesolithic period?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Odai</div><div class="pyq-opt"><span class="opt-letter">B</span> Bori</div><div class="pyq-opt"><span class="opt-letter">C</span> Bagor</div><div class="pyq-opt"><span class="opt-letter">D</span> Lakhnia</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Bagor)
 
 **Detailed Explanation:**
 - **Evidence of Pastoralism:** In the Indian subcontinent, unequivocal excavated evidence of animal domestication begins in the **Mesolithic period** (Late Stone Age). 
@@ -252,27 +231,22 @@ D. Lakhnia
   - **Lakhnia:** Vindhyan rock shelter in Mirzapur, UP (famed for rock paintings and burials).
 
 **Key Exam Takeaway / Trap:**
-- UPPCS pairing formula: Mesolithic animal domestication = **Bagor (Rajasthan) + Adamgarh (MP)**. Always eliminate Paleolithic (Bori, Attirampakkam) and pure burial sites (Sarai Nahar Rai, Damdama).
-</details>
+- UPPCS pairing formula: Mesolithic animal domestication = **Bagor (Rajasthan) + Adamgarh (MP)**. Always eliminate Paleolithic (Bori, Attirampakkam) and pure burial sites (Sarai Nahar Rai, Damdama).</div>
+  </div>
+</div>
 
-**Q3.** With reference to early humans in India, which of the following statements is/are correct?
-
-1. Hathnora on the Narmada yielded a Homo sapiens cranium found by Robert Bruce Foote in 1863.
-2. Attirampakkam in Tamil Nadu is famous as a Homo sapiens fossil site of the same horizon.
-3. Robert Bruce Foote identified Paleolithic tools at Pallavaram in 1863.
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only 3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to early humans in India, which of the following statements is/are correct?<br><br>1. Hathnora on the Narmada yielded a Homo sapiens cranium found by Robert Bruce Foote in 1863.<br>2. Attirampakkam in Tamil Nadu is famous as a Homo sapiens fossil site of the same horizon.<br>3. Robert Bruce Foote identified Paleolithic tools at Pallavaram in 1863.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Only 3)
 
 **Detailed Explanation:**
 - **Statement 1 is INCORRECT:** While the fossil cranium at **Hathnora** on the Narmada River was indeed discovered in India, it was discovered by **Dr. Arun Sonakia of the Geological Survey of India on December 5, 1982**, NOT by Robert Bruce Foote in 1863. Furthermore, physical anthropologists classify the fossil cranium as an archaic hominin (**Homo erectus narmadensis** / archaic *Homo sapiens*), not anatomically modern *Homo sapiens*.
@@ -283,27 +257,22 @@ D. 1 and 3
 - Disentangle the discoverers:
   - **Hathnora Hominin Fossil (1982)** = **Arun Sonakia** (Homo erectus, Narmada valley).
   - **Pallavaram Handaxe (1863)** = **Robert Bruce Foote** (First Paleolithic tool in India).
-  - **Attirampakkam** = Acheulian tool site (NOT a Homo sapiens fossil site).
-</details>
+  - **Attirampakkam** = Acheulian tool site (NOT a Homo sapiens fossil site).</div>
+  </div>
+</div>
 
-**Q4.** Consider the following statements about Paleolithic tool traditions:
-
-1. Lower Paleolithic tools are typically handaxes and cleavers of the Acheulian tradition.
-2. Middle Paleolithic tools are mainly handaxes and cleavers of the Acheulian tradition.
-3. The Soanian industry of the Soan–Siwalik belt is mainly handaxe-cleaver based.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Only 1)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Paleolithic tool traditions:<br><br>1. Lower Paleolithic tools are typically handaxes and cleavers of the Acheulian tradition.<br>2. Middle Paleolithic tools are mainly handaxes and cleavers of the Acheulian tradition.<br>3. The Soanian industry of the Soan–Siwalik belt is mainly handaxe-cleaver based.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Only 1)
 
 **Detailed Explanation:**
 - **Statement 1 is CORRECT:** The **Lower Paleolithic** period in peninsular and central India is predominantly characterized by the **Acheulian tool tradition**, named after Saint-Acheul in France. Diagnostic tools are bifacial **handaxes** (pear-shaped or oval core tools flaked on both sides) and **cleavers** (tools with a wide, transverse cutting edge), accompanied by choppers and polyhedrons.
@@ -315,30 +284,22 @@ D. Only 1
   - **Lower Paleolithic:** Acheulian handaxes, cleavers & Soanian pebble choppers.
   - **Middle Paleolithic:** Nevasan flake tools (scrapers, points, borers).
   - **Upper Paleolithic:** Blades and burins.
-  - **Mesolithic:** Microliths (1–8 cm composite tools).
-</details>
+  - **Mesolithic:** Microliths (1–8 cm composite tools).</div>
+  </div>
+</div>
 
-**Q5.** Arrange the following cultural stages in chronological order (earliest first):
-
-1. Neolithic
-2. Paleolithic
-3. Mesolithic
-4. Chalcolithic
-
-Select the correct answer from the code given below:
-
-A. 2, 1, 3, 4
-
-B. 3, 2, 1, 4
-
-C. 2, 3, 1, 4
-
-D. 2, 3, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (2, 3, 1, 4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the following cultural stages in chronological order (earliest first):<br><br>1. Neolithic<br>2. Paleolithic<br>3. Mesolithic<br>4. Chalcolithic<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 3, 4, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (2, 3, 1, 4)
 
 **Detailed Explanation:**
 - **Standard Prehistoric Chronological Progression:**
@@ -349,32 +310,32 @@ D. 2, 3, 4, 1
 - **Correct Sequence:** 2 (Paleolithic) → 3 (Mesolithic) → 1 (Neolithic) → 4 (Chalcolithic).
 
 **Key Exam Takeaway / Trap:**
-- Universal prehistoric ladder: **Paleolithic → Mesolithic → Neolithic → Chalcolithic → Bronze Age (Harappan) → Iron Age**.
-</details>
+- Universal prehistoric ladder: **Paleolithic → Mesolithic → Neolithic → Chalcolithic → Bronze Age (Harappan) → Iron Age**.</div>
+  </div>
+</div>
 
-**Q6.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Site) | List-II (Specialty) |
-|---|---|
-| 1. Bagor | A. Upper Paleolithic shrine |
-| 2. Baghor | B. Mesolithic domestication |
-| 3. Burzahom | C. Bone and antler tools |
-| 4. Chirand | D. Pit dwellings and dog burial |
-
-*Row order is not the answer code.*
-
-A. 1-B, 2-A, 3-C, 4-D
-
-B. 1-A, 2-B, 3-D, 4-C
-
-C. 1-B, 2-A, 3-D, 4-C
-
-D. 1-D, 2-A, 3-B, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (1-B, 2-A, 3-D, 4-C)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Site)</th><th>List-II (Specialty)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Bagor</td><td><span class="match-key">A</span> Upper Paleolithic shrine</td></tr>
+      <tr><td><span class="match-key">2</span> Baghor</td><td><span class="match-key">B</span> Mesolithic domestication</td></tr>
+      <tr><td><span class="match-key">3</span> Burzahom</td><td><span class="match-key">C</span> Bone and antler tools</td></tr>
+      <tr><td><span class="match-key">4</span> Chirand</td><td><span class="match-key">D</span> Pit dwellings and dog burial</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-B, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (1-B, 2-A, 3-D, 4-C)
 
 **Detailed Explanation:**
 - **Detailed Matching Analysis:**
@@ -387,27 +348,22 @@ D. 1-D, 2-A, 3-B, 4-C
 **Key Exam Takeaway / Trap:**
 - High-yield UPPCS phonological trap:
   - **Bagor (Rajasthan)** = Mesolithic animal domestication.
-  - **Baghor (Madhya Pradesh)** = Upper Paleolithic stone shrine.
-</details>
+  - **Baghor (Madhya Pradesh)** = Upper Paleolithic stone shrine.</div>
+  </div>
+</div>
 
-**Q7.** Which of the following pairs is/are correctly matched?
-
-1. Copper plus stone villages — hallmark of mature Harappan citadel cities
-2. Microlith — hallmark of the Mesolithic
-3. Polished/ground stone — hallmark of the Neolithic
-
-A. Only 3
-
-B. Only 2 and 3
-
-C. Only 1
-
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only 2 and 3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. Copper plus stone villages — hallmark of mature Harappan citadel cities<br>2. Microlith — hallmark of the Mesolithic<br>3. Polished/ground stone — hallmark of the Neolithic</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Only 2 and 3)
 
 **Detailed Explanation:**
 - **Pair 1 is INCORRECT:** "Copper plus stone villages" describes the **Chalcolithic cultures** (e.g., Ahar, Kayatha, Malwa, Jorwe), which were fundamentally **rural, non-urban farming villages**. The Mature Harappan civilization was an **urban Bronze Age civilization** based on bronze metallurgy (copper-tin alloy), brick-built planned grid cities, sophisticated drainage systems, citadels, and overseas maritime trade.
@@ -420,29 +376,22 @@ D. Only 1 and 2
   - Mesolithic = Microliths.
   - Neolithic = Polished / ground stone tools.
   - Chalcolithic = Stone-copper rural farming villages.
-  - Harappan = Bronze Age urban planned cities.
-</details>
+  - Harappan = Bronze Age urban planned cities.</div>
+  </div>
+</div>
 
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Bagor in Rajasthan is the key Mesolithic site for animal domestication.
-
-**Reason (R):** V.N. Misra excavated Bagor on the Kothari river.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true, but (R) is NOT the correct explanation of (A) / standard PCS key)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Bagor in Rajasthan is the key Mesolithic site for animal domestication.<br><br>**Reason (R):** V.N. Misra excavated Bagor on the Kothari river.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A)) and (R) are true, but (R) is NOT the correct explanation of (A) / standard PCS key)
 
 **Detailed Explanation:**
 - **Assertion (A) is true:** **Bagor** in Bhilwara district, Rajasthan, is the benchmark and most extensively excavated Mesolithic site in India providing clear stratigraphical and faunal evidence of animal domestication (sheep, goat, cattle) dating to the 5th millennium BCE.
@@ -450,27 +399,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Causal Connection (Why R does NOT explain A):** While both statements are factually impeccable historical truths, the mere fact that *V.N. Misra excavated the site on the Kothari river* is a biographical and geographical detail; it is **not the inherent scientific reason** why Bagor is the key site for animal domestication. Bagor is the key site because of the **stratified recovery of charred and cut domesticated animal bones, butchery floors, pastoral pen remains, and carbon dates**. Thus, (R) is true, but it is not the logical explanation of (A).
 
 **Key Exam Takeaway / Trap:**
-- In UPPCS Assertion-Reasoning, distinguish between a *corroborating fact* (who dug the site) and a *causal mechanism* (why the site proves animal domestication).
-</details>
+- In UPPCS Assertion-Reasoning, distinguish between a *corroborating fact* (who dug the site) and a *causal mechanism* (why the site proves animal domestication).</div>
+  </div>
+</div>
 
-**Q9.** With reference to Neolithic sites of Uttar Pradesh, which of the following statements is/are correct?
-
-1. Lahuradewa in Sant Kabir Nagar is a Belan valley sister site of Koldihwa.
-2. Koldihwa is known for rice-husk impressions in pottery.
-3. Mahagara alone has the cattle pen with hoof marks.
-
-A. 2 and 3
-
-B. Only 1
-
-C. 1 and 3
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2 and 3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to Neolithic sites of Uttar Pradesh, which of the following statements is/are correct?<br><br>1. Lahuradewa in Sant Kabir Nagar is a Belan valley sister site of Koldihwa.<br>2. Koldihwa is known for rice-husk impressions in pottery.<br>3. Mahagara alone has the cattle pen with hoof marks.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2 and 3)
 
 **Detailed Explanation:**
 - **Statement 1 is INCORRECT:** **Lahuradewa** is located in **Sant Kabir Nagar district** in the **Sarayupar plain (trans-Ghaghra plain)** of Eastern Uttar Pradesh, NOT in the Belan Valley. The Belan Valley sites (Koldihwa, Mahagara, Chopani Mando) are located in the southern part of Prayagraj (Allahabad) and Mirzapur districts, in the Vindhyan foothill drainage system of the Belan River.
@@ -479,27 +423,22 @@ D. Only 2
 
 **Key Exam Takeaway / Trap:**
 - Geography trap: **Lahuradewa = Sant Kabir Nagar (Sarayupar plain)**; **Koldihwa & Mahagara = Prayagraj/Vindhyan foothills (Belan Valley)**.
-- Site feature: **Mahagara = Cattle pen with hoof marks**; **Koldihwa = Rice husk impressions in pottery**.
-</details>
+- Site feature: **Mahagara = Cattle pen with hoof marks**; **Koldihwa = Rice husk impressions in pottery**.</div>
+  </div>
+</div>
 
-**Q10.** Consider the following statements:
-
-1. Mehrgarh Period I is aceramic Neolithic with wheat and barley farming.
-2. South Indian Neolithic ash mounds (Piklihal, Utnur) are also typical of Burzahom.
-3. V. Gordon Childe coined the phrase Neolithic Revolution.
-
-A. 1 and 3
-
-B. Only 1
-
-C. Only 1 and 2
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1 and 3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Mehrgarh Period I is aceramic Neolithic with wheat and barley farming.<br>2. South Indian Neolithic ash mounds (Piklihal, Utnur) are also typical of Burzahom.<br>3. V. Gordon Childe coined the phrase Neolithic Revolution.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (1 and 3)
 
 **Detailed Explanation:**
 - **Statement 1 is CORRECT:** **Mehrgarh Period I** (c. 7000–6000 BCE) represents an **aceramic (pre-pottery) Neolithic** culture. The inhabitants built multi-roomed mud-brick houses, harvested domesticated six-row barley and einkorn/emmer wheat using flint sickles, and domesticated cattle, sheep, and goats, but had not yet developed pottery (baskets coated with bitumen were used instead).
@@ -507,32 +446,32 @@ D. Only 3
 - **Statement 3 is CORRECT:** Renowned Australian-born prehistorian **Vere Gordon Childe** coined the term **"Neolithic Revolution"** in 1936 (*Man Makes Himself*) to describe the profound socioeconomic transformation from nomadic food-gathering to sedentary food-producing agriculture and animal husbandry.
 
 **Key Exam Takeaway / Trap:**
-- Cultural association: Ash mounds belong exclusively to **South Indian Neolithic** pastoralists. Never map ash mounds to Kashmir (Burzahom/Gufkral) or Eastern India!
-</details>
+- Cultural association: Ash mounds belong exclusively to **South Indian Neolithic** pastoralists. Never map ash mounds to Kashmir (Burzahom/Gufkral) or Eastern India!</div>
+  </div>
+</div>
 
-**Q11.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Person) | List-II (Association) |
-|---|---|
-| 1. V.S. Wakankar | A. Bhimbetka recognition |
-| 2. H.D. Sankalia | B. Langhnaj / Navdatoli |
-| 3. G.R. Sharma | C. Belan Neolithic (Koldihwa–Mahagara) |
-| 4. Arun Sonakia | D. Hathnora Homo erectus |
-
-*Row order is not the answer code.*
-
-A. 1-A, 2-B, 3-C, 4-D
-
-B. 1-B, 2-A, 3-C, 4-D
-
-C. 1-A, 2-C, 3-B, 4-D
-
-D. 1-A, 2-B, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1-A, 2-B, 3-C, 4-D)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Person)</th><th>List-II (Association)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> V.S. Wakankar</td><td><span class="match-key">A</span> Bhimbetka recognition</td></tr>
+      <tr><td><span class="match-key">2</span> H.D. Sankalia</td><td><span class="match-key">B</span> Langhnaj / Navdatoli</td></tr>
+      <tr><td><span class="match-key">3</span> G.R. Sharma</td><td><span class="match-key">C</span> Belan Neolithic (Koldihwa–Mahagara)</td></tr>
+      <tr><td><span class="match-key">4</span> Arun Sonakia</td><td><span class="match-key">D</span> Hathnora Homo erectus</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-A, 2-C, 3-B, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (1-A, 2-B, 3-C, 4-D)
 
 **Detailed Explanation:**
 - **Detailed Pairing Analysis:**
@@ -547,29 +486,22 @@ D. 1-A, 2-B, 3-D, 4-C
   - **Wakankar = Bhimbetka & Kayatha**
   - **Sankalia = Navdatoli & Langhnaj**
   - **G.R. Sharma = Belan Valley & Sarai Nahar Rai**
-  - **B.B. Lal = Hastinapur & OCP**.
-</details>
+  - **B.B. Lal = Hastinapur & OCP**.</div>
+  </div>
+</div>
 
-**Q12.** With reference to Mesolithic burial sites of the Ganga plain, which of the following statements is/are correct?
-
-1. Sarai Nahar Rai, Mahadaha and Damdama lie in Pratapgarh, Uttar Pradesh.
-2. Damdama is famous for a four-skeleton grave.
-3. Domestication evidence at these sites replaces Bagor as the Mesolithic domestication key.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 1 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only statement 1 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Mesolithic burial sites of the Ganga plain, which of the following statements is/are correct?<br><br>1. Sarai Nahar Rai, Mahadaha and Damdama lie in Pratapgarh, Uttar Pradesh.<br>2. Damdama is famous for a four-skeleton grave.<br>3. Domestication evidence at these sites replaces Bagor as the Mesolithic domestication key.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Only statement 1 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is CORRECT:** The trio of celebrated Mesolithic sites—**Sarai Nahar Rai**, **Mahadaha**, and **Damdama**—are all situated in **Pratapgarh district, Uttar Pradesh**, in the alluvial plains of the Sai and Ganga drainage basins.
@@ -579,29 +511,22 @@ D. 1, 2 and 3
 **Key Exam Takeaway / Trap:**
 - Grave count trap:
   - Single grave with **3 skeletons (triple burial)** = **Damdama**
-  - Single grave with **4 skeletons (quadruple burial)** = **Sarai Nahar Rai**.
-</details>
+  - Single grave with **4 skeletons (quadruple burial)** = **Sarai Nahar Rai**.</div>
+  </div>
+</div>
 
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Bhimbetka rock shelters are natural overhangs recognised by V.S. Wakankar.
-
-**Reason (R):** Bhimbetka is an Ajanta-style carved cave complex cut entirely by human labour.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** ((A) is true, but (R) is false)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Bhimbetka rock shelters are natural overhangs recognised by V.S. Wakankar.<br><br>**Reason (R):** Bhimbetka is an Ajanta-style carved cave complex cut entirely by human labour.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** ((A) is true, but (R) is false)
 
 **Detailed Explanation:**
 - **Assertion (A) is true:** The rock shelters at **Bhimbetka** are **natural rock overhangs and caverns** formed by natural weathering, wind, and water erosion in the massive Vindhyan sandstone cliffs. They were recognized and brought to scientific light by Dr. **V.S. Wakankar** in 1957–1958.
@@ -609,25 +534,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Conclusion:** (A) is true, but (R) is false, matching Option **C**.
 
 **Key Exam Takeaway / Trap:**
-- Critical conceptual distinction: **Prehistoric rock shelters (Bhimbetka, Adamgarh, Lekhahia) are 100% natural caverns**, whereas **Historical rock-cut architecture (Ajanta, Ellora, Barabar) is artificially chiseled by human hands**.
-</details>
+- Critical conceptual distinction: **Prehistoric rock shelters (Bhimbetka, Adamgarh, Lekhahia) are 100% natural caverns**, whereas **Historical rock-cut architecture (Ajanta, Ellora, Barabar) is artificially chiseled by human hands**.</div>
+  </div>
+</div>
 
-**Q14.** Which one of the following pairs is NOT correctly matched?
-
-Select the correct answer from the code given below:
-
-A. Inamgaon — Jorwe type site
-
-B. Navdatoli — Malwa culture
-
-C. Hastinapur — Ochre Coloured Pottery
-
-D. Chanhudaro — Belan valley rice Neolithic
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Chanhudaro — Belan valley rice Neolithic)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Inamgaon — Jorwe type site</div><div class="pyq-opt"><span class="opt-letter">B</span> Navdatoli — Malwa culture</div><div class="pyq-opt"><span class="opt-letter">C</span> Hastinapur — Ochre Coloured Pottery</div><div class="pyq-opt"><span class="opt-letter">D</span> Chanhudaro — Belan valley rice Neolithic</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Chanhudaro — Belan valley rice Neolithic)
 
 **Detailed Explanation:**
 - **Pair A is CORRECTLY matched:** **Inamgaon** (Pune district, Maharashtra) is the premier type-site and most extensively excavated settlement of the **Jorwe culture** (c. 1400–700 BCE), revealing craft quarters, granaries, and irrigation structures.
@@ -636,29 +558,22 @@ D. Chanhudaro — Belan valley rice Neolithic
 - **Pair D is INCORRECTLY matched:** **Chanhudaro** is a famous **Mature Harappan (Indus Valley Civilization) industrial craft town** located in Sindh, Pakistan (excavated by N.G. Majumdar and Ernest Mackay), renowned for bead-making factories, seal-engraving, and shell working. It has **no connection whatsoever with the Belan Valley or Neolithic rice farming**! (The Belan Valley rice Neolithic sites are Koldihwa and Mahagara).
 
 **Key Exam Takeaway / Trap:**
-- Chanhudaro = **Harappan craft city in Sindh (Pakistan)**, renowned for bead factories and lack of a fortified citadel.
-</details>
+- Chanhudaro = **Harappan craft city in Sindh (Pakistan)**, renowned for bead factories and lack of a fortified citadel.</div>
+  </div>
+</div>
 
-**Q15.** With reference to microliths, which of the following statements is/are correct?
-
-1. A microlith is a tiny blade about 1–8 cm, often hafted as a composite tool.
-2. Non-geometric microliths belong mainly to the earlier Mesolithic.
-3. Geometric microliths (lunates, triangles, trapezes) belong to the later Mesolithic.
-
-Select the correct answer from the code given below:
-
-A. All 1, 2 and 3
-
-B. 2 and 3
-
-C. Only 1
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (All 1, 2 and 3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to microliths, which of the following statements is/are correct?<br><br>1. A microlith is a tiny blade about 1–8 cm, often hafted as a composite tool.<br>2. Non-geometric microliths belong mainly to the earlier Mesolithic.<br>3. Geometric microliths (lunates, triangles, trapezes) belong to the later Mesolithic.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (All 1, 2 and 3)
 
 **Detailed Explanation:**
 - **Statement 1 is CORRECT:** A **microlith** is a minute, specialized stone tool made on a flaked blade or bladelet, typically ranging from **1 to 8 cm** in length. Microliths were rarely used individually; they were **hafted into bone, antler, or wooden shafts** with tree resin or bitumen to create composite cutting weapons such as barbed spears, arrowheads, and serrated sickles.
@@ -666,5 +581,6 @@ D. 1 and 2
 - **Statement 3 is CORRECT:** As the Mesolithic evolved, stone-flaking techniques advanced to produce precise **geometric microliths**—regular geometric shapes such as **lunates (crescents), triangles (scalene and isosceles), and trapezes**—which were perfectly suited for interchangeable hafting into aerodynamic projectile points and arrowheads.
 
 **Key Exam Takeaway / Trap:**
-- Microlith evolutionary stages: **Non-geometric (Early Mesolithic) → Geometric (Mature/Late Mesolithic: triangles, trapezes, lunates)**.
-</details>
+- Microlith evolutionary stages: **Non-geometric (Early Mesolithic) → Geometric (Mature/Late Mesolithic: triangles, trapezes, lunates)**.</div>
+  </div>
+</div>

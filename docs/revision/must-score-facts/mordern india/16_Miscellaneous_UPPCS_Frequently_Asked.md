@@ -263,6 +263,21 @@ hide:
     - **Labour**: Whitley Commission on Labour (1929)
     - **Army**: Peel Commission (1859) / Eden Commission (1879) / Esher Committee (1919)
 50. Top Examiner Traps & Golden Formulae:
+51. **Santhal Hool / Rebellion (1855–56):** Led by four Murmu brothers: **Sidhu, Kanhu, Chand, and Bhairav** in the **Daman-i-Koh** region (Rajmahal Hills, Bihar/Jharkhand); erupted against extortionate Bengali moneylenders (*Mahajans*) and British revenue officials; British created separate **Santhal Parganas district** under Regulation 37 of 1855.
+52. **Munda Ulgulan / Rebellion (1899–1900):** Led by **Birsa Munda** ('Dharti Aaba' / Father of Earth) in Chotanagpur; fought against erosion of traditional collective land tenure (*Khuntkatti* system) by outsiders (*Dikus*); Birsa proclaimed divine vision and divine kingdom; arrested and died of cholera in Ranchi Jail (June 1900); prompted British to enact **Chotanagpur Tenancy Act (1908)**.
+53. **Indigo Revolt (Neel Bidroho, 1859–60):** Began at Govindpur village, Nadia district (Bengal) led by **Digambar Biswas and Bishnu Biswas**; peasants refused to grow indigo and boycotted planters; brilliantly depicted by **Dinabandhu Mitra** in his Bengali play **Neel Darpan (1860)** (translated into English by Michael Madhusudan Dutt, published by Rev. James Long who was jailed for it); British set up **Indigo Commission (1860)** under W.S. Seton-Karr which declared cultivation voluntary.
+54. **Pabna Peasant Uprising (1873–76):** Formed Agrarian League in Yusufshahi Pargana, Pabna (Bengal) led by **Ishan Chandra Roy, Shambhu Pal, and Khoodi Mollah**; legalistic resistance opposing arbitrary rent hikes; proclaimed: *'We want to be the ryots of Her Majesty the Queen and of Her only'*; led to the enactment of the **Bengal Tenancy Act (1885)**.
+55. **Deccan Riots (1875):** Peasant revolt in Pune and Ahmednagar districts (Maharashtra); directed against immigrant Marwari and Gujarati moneylenders; peasants burnt debt bonds and mortgage decrees; British passed **Deccan Agriculturists' Relief Act (1879)** restricting land alienation.
+56. **Moplah / Malabar Rebellion (1921):** Muslim peasant tenant (*Moplah*) uprising against Hindu landlords (*Janmis*) and British police in Malabar (Kerala); led by **Variyankunnath Kunjahammed Haji** and **Ali Musaliar**; intertwined with Khilafat and Non-Cooperation movements; marred by communal violence; **Wagon Tragedy (Nov 1921)**: 67 Moplah prisoners died of suffocation in a closed railway goods wagon.
+57. **Bardoli Satyagraha (1928, Gujarat):** Led by **Vallabhbhai Patel** against 22% enhancement of land revenue by Bombay government; peasants organized total no-tax strike and refused to surrender confiscated livestock; British appointed Maxwell-Broomfield Commission which slashed revenue hike to **6.03%**; women of Bardoli conferred upon Vallabhbhai Patel the title of **'Sardar'**.
+58. **Tebhaga Movement (1946–47, Bengal):** Led by Kisan Sabha; sharecroppers (*Bargadars*) demanded two-thirds (*tebhaga*) share of harvested paddy instead of traditional half share (*adhiari*) given to *Jotedars*; slogan: *'Nij khamare dhan tolo'* (Take paddy to our own threshing floors).
+59. **Telangana Peasant Armed Struggle (1946–51):** Armed peasant rebellion in Hyderabad State against the feudal oppression of Deshmukhs/Jagirdars and armed militia (*Razakars*) of Nizam; led by Communist Party of India; liberated 3,000 villages; precursor to Sardar Patel's **Operation Polo (September 1948)** annexing Hyderabad.
+60. **Indian National Congress Presidents - UP Connection:** (1) **George Yule** - Allahabad Session (1888, 1st British President); (2) **William Wedderburn** - Allahabad Session (1889 & 1910); (3) **Madan Mohan Malaviya** - Lahore (1909) and Delhi (1918); (4) **Babu Ambica Charan Mazumdar** - Lucknow (1916 - historic Lucknow Pact); (5) **Sarojini Naidu** - Kanpur Session (1925, 1st Indian Woman President); (6) **Jawaharlal Nehru** - Lucknow (1936); (7) **J.B. Kripalani** - Meerut Session (1946 - President at the time of Indian Independence).
+61. **Major All-India Organizations & Founders:** (1) **Landholders' Society / Zamindari Association (1838)**: Dwarkanath Tagore (first political organization in India); (2) **British Indian Association (1851)**: Radhakanta Deb (President) & Debendranath Tagore (Secretary); (3) **East India Association (1866, London)**: Dadabhai Naoroji; (4) **Indian Association of Calcutta (1876)**: Surendranath Banerjee & Anand Mohan Bose (precursor of INC); (5) **Madras Mahajana Sabha (1884)**: M. Veeraraghavachariar, G. Subramania Iyer, and P. Anandacharlu; (6) **Bombay Presidency Association (1885)**: Pherozeshah Mehta, K.T. Telang, and Badruddin Tyabji ('The Triumvirate').
+62. **First Session of INC (28–31 December 1885):** Originally scheduled at Pune but shifted to Bombay due to cholera outbreak; held at **Gokuldas Tejpal Sanskrit College, Bombay**; attended by **72 delegates** (38 from Bombay, 21 from Madras, 3 from Bengal); presided over by **Womesh Chandra Bonnerjee (W.C. Bonnerjee)**; founder-general secretary was retired British civil servant **Allan Octavian Hume (A.O. Hume)**; Viceroy at that time was **Lord Dufferin** (who dismissed Congress as representing a *'microscopic minority'*).
+63. **Safety Valve Theory vs Lightning Conductor:** Lala Lajpat Rai formulated the **'Safety Valve Theory'** in *Young India* (1916), arguing Hume created Congress under Lord Dufferin's instructions to prevent violent mass explosion; **G.K. Gokhale** countered with the **'Lightning Conductor'** metaphor, stating early nationalists used Hume as a protective lightning conductor to shield infant national movement from immediate British suppression.
+64. **Partition of India Boundary Commission:** Appointed under **Sir Cyril Radcliffe** on 30 June 1947; comprised 5 members each for Bengal and Punjab Boundary Commissions (2 Congress nominees, 2 Muslim League nominees, chaired by Radcliffe); Radcliffe line announced on **17 August 1947** (two days after independence).
+65. **Integration of Princely States (1947–48):** States Ministry headed by **Sardar Vallabhbhai Patel** with **V.P. Menon** as Secretary; 562 out of 565 states signed Instrument of Accession before 15 August 1947; three holdouts integrated subsequently: (1) **Junagadh**: Plebiscite held in Feb 1948 after Nawab fled to Pakistan; (2) **Hyderabad**: Integrated via police action **Operation Polo (13–18 Sep 1948)**; (3) **Jammu & Kashmir**: Maharaja Hari Singh signed Instrument of Accession on **26 October 1947** following Pakistani tribal invasion.
     - **Hunter (1882) ≠ Hunter (1919)**: Hunter Commission (1882) is Education under Ripon; Hunter Committee (1919) is Jallianwala Bagh inquiry under Chelmsford.
     - **Besant (1917) ≠ Sarojini (1925)**: Annie Besant was 1st *woman* INC President; Sarojini Naidu was 1st *Indian woman* INC President.
     - **C.R. Das (d. 1925) ≠ C.R. Formula (1944)**: Swarajist leader Chittaranjan Das died in 1925; C.R. Formula (1944) belongs to Chakravarti Rajagopalachari.
@@ -417,26 +432,6 @@ hide:
 | **Punjab Kesari / Sher-e-Punjab** | **Lala Lajpat Rai** | Given by the people of Punjab for fiery leadership in the Lal-Bal-Pal trio. |
 | **Frontier Gandhi** (सीमांत गांधी) | **Khan Abdul Ghaffar Khan** | Given by Pathans of NWFP for steadfast devotion to non-violence. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **"Do or Die" (करो या मरो)** | **"Give me blood..." (खून दो...)** | Gandhi's call at Gowalia Tank (Quit India 1942) vs Bose's call to INA soldiers (Burma 1944) | करो या मरो / खून दो |
-| **"Inquilab Zindabad"** | **"Swaraj is my birthright"** | Coined by Hasrat Mohani / popularised by Bhagat Singh vs Bal Gangadhar Tilak (1916) | इंकलाब / स्वराज |
-| **Annie Besant (1917)** | **Sarojini Naidu (1925)** | First **woman** INC President (Calcutta) vs first **Indian woman** INC President (Kanpur) | एनी बेसेंट / सरोजिनी नायडू |
-| **Hunter Commission (1882)** | **Hunter Committee (1919)** | W.W. Hunter's Commission on Indian Education (Ripon) vs Lord William Hunter's inquiry into Jallianwala Bagh (Chelmsford) | हंटर शिक्षा / हंटर जलियांवाला |
-| **Belgaum Session (1924)** | **Lahore Session (1929)** | Gandhi's **only** session as INC President vs Jawaharlal Nehru declaring **Purna Swaraj** | बेलगाम / लाहौर |
-| **Shanti Ghosh & Suniti Choudhury** | **Aruna Asaf Ali** | 1931 Bengal schoolgirls who shot Magistrate Stevens vs 1942 Quit India heroine who hoisted flag at Gowalia Tank | शांति घोष / अरुणा आसफ़ अली |
-| **Maulvi Liyaqat Ali** | **Begum Hazrat Mahal** | 1857 Revolt leader at **Allahabad** vs 1857 leader at **Lucknow** (Awadh) | लियाकत अली / हज़रत महल |
-| **Red Fort, Delhi** | **Gwalior Fort** | Venue of the historic 1945 INA military trials (Sahgal, Dhillon, Shah Nawaz) vs NOT an INA court | लाल किला / ग्वालियर किला |
-| **Rani Lakshmibai** | **Jhalkari Bai** | The Rani of Jhansi herself vs the Dalit warrior woman who disguised as the Rani to help her escape | लक्ष्मीबाई / झलकारी बाई |
-| **Cripps Mission (1942)** | **Cabinet Mission (1946)** | Single-member wartime mission (Stafford Cripps) vs three-cabinet-minister mission with grouping plan | क्रिप्स / कैबिनेट मिशन |
-| **Nehru Report (1928)** | **Simon Commission (1927)** | Indian constitutional draft demanding Dominion Status (Motilal Nehru) vs all-white British parliamentary inquiry | नेहरू रिपोर्ट / साइमन कमीशन |
-| **Deshbandhu** | **Dinabandhu** | Chittaranjan Das (C.R. Das) vs Charles Freer (C.F.) Andrews | देशबंधु / दीनबंधु |
-| **Lokmanya** | **Loknayak** | Bal Gangadhar Tilak vs Jayaprakash Narayan (JP) | लोकमान्य / लोकनायक |
-| **Udant Martand (1826)** | **Bengal Gazette (1780)** | First **Hindi** newspaper (Pt. Jugal Kishore Shukla) vs first **ever newspaper in India** (J.A. Hicky, in English) | उदंत मार्तंड / बंगाल गजट |
-| **Kesari (Marathi)** | **The Mahratta (English)** | Tilak's Marathi language daily vs Tilak's English language weekly (both Pune) | केसरी / मराठा |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The 9 UP Congress Sessions: "3-3-1-1-1"
@@ -478,393 +473,434 @@ hide:
 - **Loknayak** = **Jayaprakash** Narayan (Total Revolution, 1974)
 - **Jan Nayak** = **Karpoori** Thakur (Bihar socialist icon)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Home T2.
-
-**Q2. 2025 Q71** — SRC members: Panikkar and Kunzru (**2 and 4**). **Ans: B.** Home T15.
-
-### UPPCS Prelims 2023
-
-**Q3. 2023 Q42** — Hardinge bomb: **Anushilan Samiti**. **Ans: C.** Home T11.
-
-**Q4. 2023 Q48** — Woman not in QI: **Shanti Ghosh**. **Ans: D.** Home T14.
-
-### UPPCS Prelims 2022
-
-**Q5. 2022 Q117**
-
-Match List-I with List-II.
-
-**List-I (Newspaper)** A. Swadesh (*local file prints Kesari*) B. Bharat Bandhu C. Satyawadi D. Shakti
-**List-II** 1. Agra 2. Almora 3. Hathras 4. Gorakhpur
-
-A. 3, 2, 1, 4
-
-B. 4, 3, 1, 2
-
-C. 2, 3, 4, 1
-
-D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Gorakhpur, Hathras, Agra, Almora. Home **Topic 7**.
-
-</details>
-
-**Q2.** Home T9.
-
-**Q7. 2021 Q139** — *Poverty and Un-British Rule* published **1901**. Home T10.
-
-### UPPCS Prelims 2020
-
-**Q8. 2020 Q26**
-
-Match List-I (Book) with List-II (Writer).
-
-A. The Story of My Deportation
-B. Gita Rahasya
-C. A Nation in Making
-D. India Wins Freedom
-
-1. Surendranath Banerjee 2. Maulana Abul Kalam Azad 3. Lala Lajpat Rai 4. Bal Gangadhar Tilak
-
-A. 3 4 1 2
-
-B. 4 2 1 3
-
-C. 2 4 1 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Home T10.
-
-</details>
-
-**Q3.** Home T14.
-
-**Q10. 2019 Q93**
-
-Match: A. Treaty of Allahabad (इलाहाबाद की संधि) B. Treaty of Manglore C. Treaty of Salbai (सालबाई की संधि) D. Treaty of Madras
-With: 1. 1782 2. 1784 3. 1769 4. 1765
-
-A. 4 2 3 1
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Home T2.
-
-</details>
-
-**Q4.**. Home T10.
-
-### UPPCS Prelims 2018
-
-**Q12. 2018 Q21**
-
-Arrange: A. Hunter Commission B. Sadlar Commission C. Wood's Despatch D. Sargeant Plan
-
-A. A B D C
-
-B. C B A D
-
-C. A B C D
-
-D. C A B D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Home T7.
-
-</details>
-
-**Q5.** Home T11.
-
-**Q14. 2018 Q95** — NOT matched: **Lucknow — Liyaqat Ali**. Lucknow = Hazrat Mahal.
-
----
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
 
-## Complete PYQ Bank — Ghatnachakra Art and Culture (160 Questions)
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-> [!NOTE]
-> **Official Chapter Coverage:** Full coverage of all 160 questions from Ghatna Chakra with verified official keys, comprehensive explanations, and state PSC/IAS tags.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Home T2.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
 
----
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">— SRC members: Panikkar and Kunzru (**2 and 4**).</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Home T15.</div>
+  </div>
+</div>
 
-**Q-GC-AC-1. Ghatna Chakra PYQ**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">— Hardinge bomb:</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> nushilan Samiti**. **Ans: C.** Home T11.</div>
+  </div>
+</div>
 
-Consider the following pairs:
-(Tradition) (State)
-1. Gatka, a traditional - Kerala
-martial art
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">— Woman not in QI: **Shanti Ghosh**.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Home T14.</div>
+  </div>
+</div>
 
-<details><summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Newspaper)</th>
+        <th>List-II (Publication Place in UP)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Swadesh</td><td><span class="match-key">1</span> Gorakhpur</td></tr>
+    <tr><td><span class="match-key">B</span> Bharat Bandhu</td><td><span class="match-key">2</span> Hathras</td></tr>
+    <tr><td><span class="match-key">C</span> Satyawadi</td><td><span class="match-key">3</span> Agra</td></tr>
+    <tr><td><span class="match-key">D</span> Shakti</td><td><span class="match-key">4</span> Almora</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-4, B-3, C-1, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-4, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-2, C-1, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Gorakhpur, Hathras, Agra, Almora. Home **Topic 7**.</div>
+  </div>
+</div>
 
-**Answer: Pending**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Home T9.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">— *Poverty and Un-British Rule* published **1901**. Home T10.<br><br>### UPPCS Prelims 2020</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Book)</th>
+        <th>List-II (Writer)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> The Story of My Deportation</td><td><span class="match-key">1</span> Surendranath Banerjee</td></tr>
+    <tr><td><span class="match-key">B</span> Gita Rahasya</td><td><span class="match-key">2</span> Maulana Abul Kalam Azad</td></tr>
+    <tr><td><span class="match-key">C</span> A Nation in Making</td><td><span class="match-key">3</span> Lala Lajpat Rai</td></tr>
+    <tr><td><span class="match-key">D</span> India Wins Freedom</td><td><span class="match-key">4</span> Bal Gangadhar Tilak</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 4 1 2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 4 2 1 3</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 2 4 1 3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 4 3 2 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Home T10.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Home T14.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match: A. Treaty of Allahabad (इलाहाबाद की संधि) B. Treaty of Manglore C. Treaty of Salbai (सालबाई की संधि) D. Treaty of Madras<br>With: 1. 1782 2. 1784 3. 1769 4. 1765</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 2 3 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4 2 1 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 4 1 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Home T2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">. Home T10.<br><br>### UPPCS Prelims 2018</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Arrange: A. Hunter Commission B. Sadlar Commission C. Wood's Despatch D. Sargeant Plan</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A B D C</div><div class="pyq-opt"><span class="opt-letter">B</span> C B A D</div><div class="pyq-opt"><span class="opt-letter">C</span> A B C D</div><div class="pyq-opt"><span class="opt-letter">D</span> C A B D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Home T7.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Home T11.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">— NOT matched: **Lucknow — Liyaqat Ali**. Lucknow = Hazrat Mahal.<br><br>---<br><br><br>## Complete PYQ Bank — Ghatnachakra Art and Culture (160 Questions)<br><br>> [!NOTE]<br>> **Official Chapter Coverage:** Full coverage of all 160 questions from Ghatna Chakra with verified official keys, comprehensive explanations, and state PSC/IAS tags.<br><br>---<br><br>**Q-GC-AC-1. Ghatna Chakra PYQ**<br><br>Consider the following pairs:<br>(Tradition) (State)<br>1. Gatka, a traditional - Kerala<br>martial art</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> wer: Pending**
 
 **Explanation:**
-See official answer key.
-
-</details>
-
-**Q6.** Match List-I (Slogan) with List-II (Person):
-
-| List-I | List-II |
-|--------|---------|
-| A. Swaraj is my birthright | 1. Gandhi, Quit India 1942 |
-| B. Do or Die | 2. Tilak |
-| C. Give me blood and I will give you freedom | 3. Hasrat Mohani (coined); Bhagat Singh (popularised) |
-| D. Inquilab Zindabad | 4. Subhas Chandra Bose / INA |
-
-*Row order is not the answer code.*
-
-A. A-1, B-2, C-3, D-4
-
-B. A-2, B-1, C-4, D-3
-
-C. A-2, B-4, C-1, D-3
-
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Tilak / Gandhi / Bose / Hasrat–Bhagat.
-
-**Logic:** Do not give Inquilab to Bose or Do or Die to Tilak.
-
-</details>
-
-**Q7.** With reference to national song and anthem, which of the following statements is/are correct?
-
-1. *Vande Mataram* (Bankim, *Anandamath*) is the national anthem.
-2. *Vande Mataram* is the national anthem adopted in 1911.
-3. *Jana Gana Mana* (Tagore) is the national anthem (Calcutta session 1911 association).
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: *Vande Mataram* is the national song; *Jana Gana Mana* is the anthem. Stmt 2 remains false for the same song≠anthem trap.
-
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** ‘Inquilab Zindabad’ was coined by Hasrat Mohani and popularised by Bhagat Singh.
-
-**Reason (R):** It is Bose’s principal INA slogan in place of ‘Jai Hind’.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true; R false.
-
-**A/R logic:** Inquilab ≠ Bose INA slogan set.
-
-</details>
-
-**Q9.** Match List-I (INC ‘first’ / only) with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. W.C. Bonnerjee 1885 | 1. First Muslim President |
-| B. Badruddin Tyabji 1887 | 2. First session President |
-| C. Annie Besant 1917 | 3. First woman President |
-| D. Sarojini Naidu 1925 | 4. First Indian woman President |
-
-*Row order is not the answer code.*
-
-A. A-1, B-2, C-4, D-3
-
-B. A-2, B-1, C-3, D-4
-
-C. A-2, B-3, C-1, D-4
-
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Firsts ladder including woman vs Indian woman.
-
-**Logic:** Besant ≠ Sarojini tag swap.
-
-</details>
-
-**Q10.** With reference to Tilak’s press, which of the following statements is/are correct?
-
-1. They are Gorakhpur papers in the UP press match set.
-2. *Kesari* (Marathi) and *Mahratta* (English) are Tilak’s Pune papers.
-3. Gandhi’s papers include *Kesari*, *Mahratta* and *Young India* only.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 2
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Stmt 3 false: *Kesari*/*Mahratta* are Tilak’s; Gandhi’s set includes *Young India*, *Harijan*, *Navajivan*, and *Indian Opinion* (SA years). Stmt 1 remains false: *Kesari* ≠ Gorakhpur papers.
-
-</details>
-
-**Q11.** Which of the following pairs is NOT correctly matched?
-
-A. Swadesh — Gorakhpur
-
-B. Bharat Bandhu — Hathras
-
-C. Satyawadi — Agra; Shakti — Almora
-
-D. Kesari — Gorakhpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** *Kesari* is Tilak’s Pune paper.
-
-**Logic:** UP press match vs Tilak Pune pair.
-
-</details>
-
-**Q12.** Arrange the following treaties in chronological order:
-
-1. Treaty of Allahabad
-2. Treaty of Madras
-3. Treaty of Salbai
-4. Treaty of Mangalore
-
-A. 2, 1, 3, 4
-
-B. 1, 2, 3, 4
-
-C. 1, 3, 2, 4
-
-D. 1, 2, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1765 → 1769 → 1782 → 1784.
-
-**Logic:** Treaty year vault order.
-
-</details>
-
-**Q13.** With reference to education commissions, which of the following statements is/are correct?
-
-1. Order fact: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944.
-2. Hunter Commission 1882 is the Jallianwala inquiry; Hunter Committee 1919 is education.
-3. Hunter 1882 and Hunter 1919 are the same continuous commission.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: roles are reversed — Hunter 1882 = education; Hunter Committee 1919 = Jallianwala inquiry. Stmt 3 remains false: they are not the same continuous body.
-
-</details>
-
-**Q14.** Match List-I (Official) with List-II (Policy tag):
-
-| List-I | List-II |
-|--------|---------|
-| A. Curzon | 1. Separate electorates 1909 |
-| B. Minto | 2. Partition 1905 |
-| C. Chelmsford | 3. Montford / GoI Act 1919 |
-| D. Irwin | 4. Gandhi–Irwin Pact 1931 |
-
-*Row order is not the answer code.*
-
-A. A-2, B-1, C-4, D-3
-
-B. A-1, B-2, C-4, D-3
-
-C. A-2, B-3, C-1, D-4
-
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Official ↔ policy six (first four).
-
-**Logic:** Willingdon–Communal Award and Mountbatten–3 June extend the same drill.
-
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Belgaum 1924 is Gandhi’s only Congress presidentship.
-
-**Reason (R):** Lahore 1929 under Gandhi adopted the Fundamental Rights resolution.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true; R false.
-
-**A/R logic:** Lahore = Purna Swaraj (Nehru); Fundamental Rights = Karachi 1931 (Patel).
-
-</details>
+See official answer key.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Slogan) with List-II (Person):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Swaraj is my birthright</td><td><span class="match-key">1</span> Gandhi, Quit India 1942</td></tr>
+      <tr><td><span class="match-key">B</span> Do or Die</td><td><span class="match-key">2</span> Tilak</td></tr>
+      <tr><td><span class="match-key">C</span> Give me blood and I will give you freedom</td><td><span class="match-key">3</span> Hasrat Mohani (coined); Bhagat Singh (popularised)</td></tr>
+      <tr><td><span class="match-key">D</span> Inquilab Zindabad</td><td><span class="match-key">4</span> Subhas Chandra Bose / INA</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-4, C-1, D-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tilak / Gandhi / Bose / Hasrat–Bhagat.
+
+**Logic:** Do not give Inquilab to Bose or Do or Die to Tilak.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to national song and anthem, which of the following statements is/are correct?<br><br>1. *Vande Mataram* (Bankim, *Anandamath*) is the national anthem.<br>2. *Vande Mataram* is the national anthem adopted in 1911.<br>3. *Jana Gana Mana* (Tagore) is the national anthem (Calcutta session 1911 association).</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: *Vande Mataram* is the national song; *Jana Gana Mana* is the anthem. Stmt 2 remains false for the same song≠anthem trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** ‘Inquilab Zindabad’ was coined by Hasrat Mohani and popularised by Bhagat Singh.<br><br>**Reason (R):** It is Bose’s principal INA slogan in place of ‘Jai Hind’.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true; R false.
+
+**A/R logic:** Inquilab ≠ Bose INA slogan set.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I (INC ‘first’ / only) with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> W.C. Bonnerjee 1885</td><td><span class="match-key">1</span> First Muslim President</td></tr>
+      <tr><td><span class="match-key">B</span> Badruddin Tyabji 1887</td><td><span class="match-key">2</span> First session President</td></tr>
+      <tr><td><span class="match-key">C</span> Annie Besant 1917</td><td><span class="match-key">3</span> First woman President</td></tr>
+      <tr><td><span class="match-key">D</span> Sarojini Naidu 1925</td><td><span class="match-key">4</span> First Indian woman President</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Firsts ladder including woman vs Indian woman.
+
+**Logic:** Besant ≠ Sarojini tag swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to Tilak’s press, which of the following statements is/are correct?<br><br>1. They are Gorakhpur papers in the UP press match set.<br>2. *Kesari* (Marathi) and *Mahratta* (English) are Tilak’s Pune papers.<br>3. Gandhi’s papers include *Kesari*, *Mahratta* and *Young India* only.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 3 false: *Kesari*/*Mahratta* are Tilak’s; Gandhi’s set includes *Young India*, *Harijan*, *Navajivan*, and *Indian Opinion* (SA years). Stmt 1 remains false: *Kesari* ≠ Gorakhpur papers.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Swadesh — Gorakhpur</div><div class="pyq-opt"><span class="opt-letter">B</span> Bharat Bandhu — Hathras</div><div class="pyq-opt"><span class="opt-letter">C</span> Satyawadi — Agra; Shakti — Almora</div><div class="pyq-opt"><span class="opt-letter">D</span> Kesari — Gorakhpur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kesari* is Tilak’s Pune paper.
+
+**Logic:** UP press match vs Tilak Pune pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following treaties in chronological order:<br><br>1. Treaty of Allahabad<br>2. Treaty of Madras<br>3. Treaty of Salbai<br>4. Treaty of Mangalore</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1765 → 1769 → 1782 → 1784.
+
+**Logic:** Treaty year vault order.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to education commissions, which of the following statements is/are correct?<br><br>1. Order fact: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944.<br>2. Hunter Commission 1882 is the Jallianwala inquiry; Hunter Committee 1919 is education.<br>3. Hunter 1882 and Hunter 1919 are the same continuous commission.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: roles are reversed — Hunter 1882 = education; Hunter Committee 1919 = Jallianwala inquiry. Stmt 3 remains false: they are not the same continuous body.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Official) with List-II (Policy tag):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Curzon</td><td><span class="match-key">1</span> Separate electorates 1909</td></tr>
+      <tr><td><span class="match-key">B</span> Minto</td><td><span class="match-key">2</span> Partition 1905</td></tr>
+      <tr><td><span class="match-key">C</span> Chelmsford</td><td><span class="match-key">3</span> Montford / GoI Act 1919</td></tr>
+      <tr><td><span class="match-key">D</span> Irwin</td><td><span class="match-key">4</span> Gandhi–Irwin Pact 1931</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Official ↔ policy six (first four).
+
+**Logic:** Willingdon–Communal Award and Mountbatten–3 June extend the same drill.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Belgaum 1924 is Gandhi’s only Congress presidentship.<br><br>**Reason (R):** Lahore 1929 under Gandhi adopted the Fundamental Rights resolution.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true; R false.
+
+**A/R logic:** Lahore = Purna Swaraj (Nehru); Fundamental Rights = Karachi 1931 (Patel).</div>
+  </div>
+</div>

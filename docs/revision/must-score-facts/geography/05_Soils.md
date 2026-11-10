@@ -73,6 +73,14 @@ hide:
 ---
 49. **USDA Soil Taxonomy Dominance**: According to the United States Department of Agriculture (USDA) Soil Taxonomy, **Inceptisols (~39.4%)** occupy the largest area in India, followed by **Entisols (~28.1%)**, **Alfisols (~13.6%)**, and **Vertisols (~8.5%)**.
 50. **Central Arid Zone Research Institute (CAZRI)**: Located at **Jodhpur, Rajasthan** (established 1959 under ICAR); apex national institute conducting research on sand dune stabilization, shelterbelts, and soil moisture conservation in arid tracts.
+51. **ICAR Soil Classification (1953 / 8 Soil Groups):** (1) Alluvial soils (43%); (2) Black soils (15%); (3) Red and Yellow soils (18.5%); (4) Laterite soils (3.7%); (5) Arid/Desert soils; (6) Saline/Alkaline soils; (7) Peaty/Marshy soils; (8) Forest/Mountain soils. (USDA Soil Taxonomy: Inceptisols dominate 39%, followed by Entisols 28%, Alfisols 13%, Vertisols 8%).
+52. **Alluvial Soil Characteristics:** Formed by depositional work of rivers; covers >15 lakh sq km in Indo-Gangetic-Brahmaputra plains and coastal deltas; **rich in Potash and Lime**, but **deficient in Nitrogen and Phosphorus**; divided into: (1) **Khadar:** New alluvium, pale brown, sandy-loam, highly fertile; (2) **Bhangar:** Old alluvium, dark clayey, contains calcium carbonate nodules (**Kankar**); best suited for wheat, rice, sugarcane, jute.
+53. **Black Soil (Regur / Black Cotton Soil):** Derived from weathering of Deccan Trap basaltic lava rocks; covers Maharashtra, Malwa plateau, Kathiawar, northern Karnataka, parts of Telangana; **rich in Iron, Lime, Calcium, Magnesium, and Potash**, but **deficient in Nitrogen, Phosphorus, and Organic Matter**; rich in **Montmorillonite clay** giving high moisture retentiveness; swells and becomes sticky when wet, develops wide deep cracks when dry (**'Self-Ploughing Soil'**); ideal for cotton, soybean, sugarcane, citrus fruits.
+54. **Red and Yellow Soils:** Developed on Archean crystalline igneous rocks (granites, gneisses) in areas of low rainfall in eastern and southern Deccan, Odisha, Chhattisgarh, and Chotanagpur; **red colour is due to wide diffusion of ferric oxides (iron)**; looks yellow in hydrated form; coarse-grained, porous, well-drained; **deficient in Nitrogen, Phosphorus, and Humus**; highly responsive to fertilizers and irrigation; ideal for millets, pulses, oilseeds, groundnut.
+55. **Laterite Soils (Latin *Later* = Brick):** Formed under conditions of high temperature and alternate wet and dry spells with heavy seasonal tropical rainfall; characterized by **intense Leaching (Desilication)** where silica and lime are leached away leaving behind **insoluble oxides of Iron and Aluminium**; acidic in nature (pH < 5.5); **poor in Nitrogen, Phosphorus, Potassium, Calcium, and Humus**; hardens like rock upon exposure to air (used for building bricks); found on summits of Western Ghats (Kerala, Karnataka), Eastern Ghats, Meghalaya plateau, Rajmahal hills; ideal for **Tea, Coffee, Rubber, Cashewnut** (with heavy manure).
+56. **Saline and Alkaline Soils (Reh / Usar / Kallar / Chopan):** Contain large proportions of sodium, potassium, and magnesium salts; developed in arid/semi-arid regions and canal-irrigated command areas with poor drainage (capillary action pulls salts to surface); widespread in Western Rajasthan, Rann of Kutch, canal irrigated areas of Punjab, Haryana, and Western UP; **reclaimed by applying Gypsum ($CaSO_4 \cdot 2H_2O$)** to displace sodium ions and improving subsurface drainage.
+57. **Peaty and Organic Soils (Kari):** Found in areas of heavy rainfall and high humidity with rich vegetation growth; contains large amounts of dead organic matter (humus up to 40–50%); black, heavy, and highly acidic; found in Kottayam and Alappuzha districts of Kerala (**Kari soils**), Sundarbans delta, and coastal tracts of Odisha and Tamil Nadu.
+58. **Soil Degradation & Conservation Techniques:** (1) **Soil Erosion Types:** Sheet erosion (unnoticed uniform removal of topsoil layer by overland runoff) -> Rill erosion (formation of finger-like small channels) -> Gully erosion (deep valleys cutting land into ravines / **Badland topography** as in Chambal and Yamuna basins); (2) **Conservation Methods:** Contour bunding, Terracing on hill slopes, Shelterbelts / Windbreaks in arid plains, Strip cropping, Mulching, Afforestation, Check dams across gullies.
 
 ## ⏱️ Timeline / Chronology
 
@@ -151,20 +159,6 @@ ightarrow Ca	ext{-Clay} + Na_2SO_4$ (leached away) |
 | **Waterlogging / Salinity** | Over-irrigation in canal commands; capillary rise of saline groundwater | Sub-surface tile drainage, green manuring (**Dhaincha / *Sesbania aculeata***) | Lowers water table and washes accumulated soluble salts below root zone |
 | **Gully Erosion (Badlands)** | Severe concentrated runoff carving deep ravines (*Khad*) in unconsolidated soil | Check dams, gully plugging, bench terracing, afforestation | Prevalent in **Chambal Basin** (Morena, Bhind, MP; Agra, Etawah, UP) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Bhangar** | **Khadar** | **Older alluvium** upland above flood levels containing calcareous kankar nodules vs **Newer alluvium** deposited annually on floodplains; more fine-grained and fertile | भांगर (पुरानी जलोढ़) / खादर (नई जलोढ़) |
-| **Bhabar** | **Terai** | Dry porous belt of pebbles and boulders at Shiwalik foot where **streams disappear underground** vs Marshy, ill-drained jungle belt south of Bhabar where **streams re-emerge** | भाबर / तराई |
-| **Black Soil (Regur)** | **Laterite Soil** | Formed by weathering of **basalt lava**; highly clayey, moisture-retentive, rich in lime/potash vs Formed by intense **tropical leaching**; acidic, coarse, rich in iron/aluminium | काली (रेगुर) / लैटेराइट मिट्टी |
-| **Reclaiming Alkaline Soil** | **Reclaiming Acidic Soil** | Add **Gypsum (CaSO4·2H2O)** or iron pyrites to displace sodium vs Add **Agricultural Lime (CaCO3 / Slaked Lime)** to neutralize acidity | क्षारीय भूमि (जिप्सम) / अम्लीय भूमि (चूना) |
-| **Sheet Erosion** | **Gully Erosion** | Uniform removal of topsoil layer by runoff over large gentle slopes (**"silent death of soil"**) vs Runoff carving deep, visible trenches and ravines (*Khad*) on steep slopes | परत अपरदन / अवनलिका अपरदन |
-| **Inceptisols** | **Vertisols** | Most widespread soil order in India (**~39%**, alluvium) vs Swelling clay soils with deep cracks (**~8.5%**, Black/Regur) | इनसेप्टीसोल / वर्टीसोल |
-| **Red Soil Color** | **Black Soil Color** | Red color caused by diffusion of **Ferric Oxide (Fe2O3)** in crystalline rocks vs Black color caused by titaniferous magnetite, clay-humus complex | लाल मिट्टी (आयरन ऑक्साइड) / काली मिट्टी |
-| **Self-Ploughing Soil** | **Leached Soil** | **Black Cotton Soil** (swells when wet, deep shrinkage cracks when dry) vs **Laterite Soil** (silica leached away by heavy rains) | स्वतः जुताई वाली मिट्टी / निक्षालित मिट्टी |
-| **Usar / Reh** | **Kari** | Saline and alkaline soil of northern plains (UP/Punjab) vs Dark peaty organic wetland soil of coastal Kerala (Alappuzha) | ऊसर-रेह / करी मिट्टी |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. USDA Soil Orders Coverage in India: **I-E-A-V-A**
@@ -190,387 +184,357 @@ ightarrow Ca	ext{-Clay} + Na_2SO_4$ (leached away) |
 - **Alluvial**: Potash YES, Lime YES | Nitrogen NO, Phosphorus NO, Humus NO
 - **Black (Regur)**: Lime YES, Iron YES, Magnesia YES, Potash YES | Nitrogen NO, Phosphorus NO, Organic matter NO
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-With reference to soil science terms, which of the following pairs is/are correctly matched?
-
-1. Edaphic — soil factor
-2. Urvara — sterile soil (ancient Indian usage)
-3. CLORPT — Jenny’s five soil-forming factors
-
-A. Only 1
-B. 1 and 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 3 are correct.
-
-**Logic:** Ancient **Urvara** = fertile; **Usara** = sterile. Statement 2 reverses the pair.
-
-</details>
-
-**Q2.**
-Arrange the following soil horizons from the surface downward:
-
-1. B horizon
-2. A horizon
-3. C horizon
-4. O horizon
-
-A. 4-2-1-3
-B. 2-4-1-3
-C. 4-1-2-3
-D. 2-1-4-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Order is **O → A → B → C** (then R).
-
-**Logic:** Trap is starting at A and skipping the organic O horizon.
-
-</details>
-
-**Q3.**
-Assertion (A): Black cotton soil is typically associated with the Deccan Trap.
-Reason (R): Black soil is the dominant residual soil of the Himalayan slopes.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** Regur forms mainly on Deccan / Rajmahal Trap basalt. Himalaya is **not** a black-soil province.
-
-</details>
-
-**Q4.**
-With reference to alluvial soils of India, which of the following statements is/are correct?
-
-1. Alluvial soil is the largest soil group of India.
-2. Khadar is older alluvium with more kankar than bangar.
-3. Uttar Pradesh is predominantly alluvial.
-
-A. 1 and 2
-B. 1 and 3
-C. Only 2
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 3 are correct.
-
-**Logic:** **Khadar** is new/fine; **bangar** is older with more kankar. Statement 2 swaps them.
-
-</details>
-
-**Q5.**
-Laterite soils in India are generally:
-
-A. Rich in nitrogen and humus but poor in iron
-B. Rich in iron and aluminium oxides but poor in nitrogen and humus
-C. Formed mainly under arid pedocal conditions
-D. The default cotton soil of the Deccan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Laterite is leached Fe/Al-rich and nutrient-poor.
-
-**Logic:** Cotton default is black / regur. Pedocal is arid lime accumulation, not laterite.
-
-</details>
-
-**Q6.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Feature) | List-II (Association) |
-|---|---|
-| 1. Bhabar | A. Streams re-emerge; moist belt |
-| 2. Tarai | B. Pebble fans; streams disappear |
-| 3. Karewa | C. Kashmir lacustrine; saffron |
-| 4. Kari | D. Kerala peaty / marshy soil |
-
-A. 1-B, 2-A, 3-C, 4-D
-B. 1-A, 2-B, 3-C, 4-D
-C. 1-B, 2-A, 3-D, 4-C
-D. 1-C, 2-A, 3-B, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Bhabar = vanish; Tarai = re-emerge; Karewa = Kashmir saffron; Kari = Kerala peat.
-
-**Logic:** Row order is not the answer code. Trap is swapping Bhabar/Tarai or calling kari Deccan black.
-
-</details>
-
-**Q7.**
-Which one of the following is the correct first stage of the water-erosion ladder taught for Indian soils?
-
-A. Sheet erosion
-B. Rill erosion
-C. Splash (raindrop) erosion
-D. Gully erosion
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Splash / raindrop impact is the first stage.
-
-**Logic:** Sheet → rill → gully follow splash. Many stems wrongly start at sheet.
-
-</details>
-
-**Q8.**
-Assertion (A): Gypsum is commonly used to reclaim usar / sodic soils.
-Reason (R): Lime is the standard amendment for alkaline soils with pH above 7.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** Gypsum treats sodic / usar. **Lime** treats **acid** soils, not alkali.
-
-</details>
-
-**Q9.**
-Among Cu, Fe, Mn and Zn, the micronutrient most commonly deficient in Indian soils is:
-
-A. Copper
-B. Iron
-C. Manganese
-D. Zinc
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Zinc is the most widespread micronutrient deficiency.
-
-**Logic:** Iron deficiency appears in places, but Zn is the standard “most deficient” teaching line.
-
-</details>
-
-**Q10.**
-With reference to soil conservation methods, which of the following pairs is/are correctly matched?
-
-1. Shelter belt — wind erosion / dunes
-2. Check dam — gully control
-3. Contour bunding — desert sand seas as the default site
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Contour bunding belongs on **hill slopes**, not desert sand seas.
-
-</details>
-
-**Q11.**
-World Soil Day is observed on:
-
-A. 5 June
-B. 5 December
-C. 22 April
-D. 16 September
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** World Soil Day is **5 December**.
-
-**Logic:** 5 June is World Environment Day — the classic date swap.
-
-</details>
-
-**Q12.**
-Which of the following statements about black / regur soil is/are correct?
-
-1. It shows wide cracks in the dry season (self-ploughing).
-2. Montmorillonite is an important clay mineral in it.
-3. It is characteristically rich in nitrogen and humus.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Regur is **poor** in N, P and humus despite high moisture retention.
-
-</details>
-
-**Q13.**
-Consider the following pairs:
-
-1. Mar / Kabar — Bundelkhand black soil
-2. Parua / Rakar — Bundelkhand red soil
-3. Matasi — Chhattisgarh black clay of lowlands
-
-Which of the pairs given above is/are correctly matched?
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Pairs 1 and 2 are correct.
-
-**Logic:** **Matasi** is Chhattisgarh **red–yellow**; **Kanhar** is the lower black clay.
-
-</details>
-
-**Q14.**
-Soil Health Card was launched in 2015 from which place?
-
-A. Suratgarh, Rajasthan
-B. Hoshangabad, Madhya Pradesh
-C. Pantnagar, Uttarakhand
-D. Ludhiana, Punjab
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Launch place is **Suratgarh (Rajasthan)**; slogan *Swasth Dharaa, Khet Haraa*.
-
-**Logic:** Hoshangabad is the **Mitti Bachao** place, not SHC launch.
-
-</details>
-
-**Q15.**
-With reference to saline and sodic soils, which of the following is correct?
-
-A. Gujarat leads alkali / sodic wasteland area; UP leads saline area
-B. Gujarat leads saline area; UP leads alkali / sodic wasteland area
-C. Both saline and sodic leadership belong to Rajasthan alone
-D. Lime is the first remedy for both saline and sodic soils
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Gujarat = saline area lead; UP = alkali / sodic wasteland lead.
-
-**Logic:** Remedies differ — gypsum for sodic, drainage/leaching logic for salts; lime is for acid soils.
-
-</details>
-
-**Q16.**
-Assertion (A): Capillary rise of water is generally strongest in clay soils.
-Reason (R): Clay particles create finer pores than sand.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both are true and R explains A.
-
-**A/R logic:** Finer pores in clay strengthen capillary action versus sand.
-
-</details>
-
-**Q17.**
-Which one of the following soils is correctly paired with its famous crop / product?
-
-A. Karewa — cotton of Deccan
-B. Laterite — cashew / tapioca on humid slopes
-C. Peaty kari — wheat of Punjab
-D. Desert soil — tea of Assam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Laterite slopes suit cashew, tapioca, tea and coffee.
-
-**Logic:** Karewa = saffron; kari = Kerala paddy marshes; tea is not a desert-soil crop.
-
-</details>
-
-**Q18.**
-Eluviation and illuviation are correctly distinguished as:
-
-A. Eluviation deposits into B; illuviation washes out of A/E
-B. Eluviation washes out of A/E; illuviation deposits into B
-C. Both mean the same horizon-building process
-D. Both occur only in desert pedocals
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** E = wash **out**; I = deposit **in B**.
-
-**Logic:** Letter cue: E-luviation = exit; Il-luviation = into.
-
-</details>
-
-**Q19.**
-Chambal ravines are mainly the product of which stage of water erosion?
-
-A. Splash only
-B. Sheet only
-C. Gully / ravine stage
-D. Wind abrasion alone
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Chambal badlands are the deep **gully / ravine** stage.
-
-**Logic:** Splash and sheet are earlier; wind is not the Chambal teaching agent.
-
-</details>
-
-**Q20.**
-Consider the following statements:
-
-1. Pedocal soils accumulate lime in arid tracts.
-2. Seed modification is a standard method to raise soil fertility.
-3. World Soil Day is celebrated on 5 December.
-
-A. 1 and 2
-B. 1 and 3
-C. Only 2
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 3 are correct.
-
-**Logic:** Seed modification raises yield / resistance, **not** soil fertility by itself.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to soil science terms, which of the following pairs is/are correctly matched?<br><br>1. Edaphic — soil factor<br>2. Urvara — sterile soil (ancient Indian usage)<br>3. CLORPT — Jenny’s five soil-forming factors</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** Ancient **Urvara** = fertile; **Usara** = sterile. Statement 2 reverses the pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arrange the following soil horizons from the surface downward:<br><br>1. B horizon<br>2. A horizon<br>3. C horizon<br>4. O horizon</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4-2-1-3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2-4-1-3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4-1-2-3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2-1-4-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Order is **O → A → B → C** (then R).
+
+**Logic:** Trap is starting at A and skipping the organic O horizon.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Black cotton soil is typically associated with the Deccan Trap.<br>Reason (R): Black soil is the dominant residual soil of the Himalayan slopes.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** Regur forms mainly on Deccan / Rajmahal Trap basalt. Himalaya is **not** a black-soil province.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to alluvial soils of India, which of the following statements is/are correct?<br><br>1. Alluvial soil is the largest soil group of India.<br>2. Khadar is older alluvium with more kankar than bangar.<br>3. Uttar Pradesh is predominantly alluvial.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** **Khadar** is new/fine; **bangar** is older with more kankar. Statement 2 swaps them.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Laterite soils in India are generally:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rich in nitrogen and humus but poor in iron</div><div class="pyq-opt"><span class="opt-letter">B</span> Rich in iron and aluminium oxides but poor in nitrogen and humus</div><div class="pyq-opt"><span class="opt-letter">C</span> Formed mainly under arid pedocal conditions</div><div class="pyq-opt"><span class="opt-letter">D</span> The default cotton soil of the Deccan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Laterite is leached Fe/Al-rich and nutrient-poor.
+
+**Logic:** Cotton default is black / regur. Pedocal is arid lime accumulation, not laterite.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Feature)</th><th>List-II (Association)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Bhabar</td><td><span class="match-key">A</span> Streams re-emerge; moist belt</td></tr>
+      <tr><td><span class="match-key">2</span> Tarai</td><td><span class="match-key">B</span> Pebble fans; streams disappear</td></tr>
+      <tr><td><span class="match-key">3</span> Karewa</td><td><span class="match-key">C</span> Kashmir lacustrine; saffron</td></tr>
+      <tr><td><span class="match-key">4</span> Kari</td><td><span class="match-key">D</span> Kerala peaty / marshy soil</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-C, 2-A, 3-B, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Bhabar = vanish; Tarai = re-emerge; Karewa = Kashmir saffron; Kari = Kerala peat.
+
+**Logic:** Row order is not the answer code. Trap is swapping Bhabar/Tarai or calling kari Deccan black.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is the correct first stage of the water-erosion ladder taught for Indian soils?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sheet erosion</div><div class="pyq-opt"><span class="opt-letter">B</span> Rill erosion</div><div class="pyq-opt"><span class="opt-letter">C</span> Splash (raindrop) erosion</div><div class="pyq-opt"><span class="opt-letter">D</span> Gully erosion</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Splash / raindrop impact is the first stage.
+
+**Logic:** Sheet → rill → gully follow splash. Many stems wrongly start at sheet.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Gypsum is commonly used to reclaim usar / sodic soils.<br>Reason (R): Lime is the standard amendment for alkaline soils with pH above 7.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** Gypsum treats sodic / usar. **Lime** treats **acid** soils, not alkali.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Among Cu, Fe, Mn and Zn, the micronutrient most commonly deficient in Indian soils is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Copper</div><div class="pyq-opt"><span class="opt-letter">B</span> Iron</div><div class="pyq-opt"><span class="opt-letter">C</span> Manganese</div><div class="pyq-opt"><span class="opt-letter">D</span> Zinc</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Zinc is the most widespread micronutrient deficiency.
+
+**Logic:** Iron deficiency appears in places, but Zn is the standard “most deficient” teaching line.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to soil conservation methods, which of the following pairs is/are correctly matched?<br><br>1. Shelter belt — wind erosion / dunes<br>2. Check dam — gully control<br>3. Contour bunding — desert sand seas as the default site</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Contour bunding belongs on **hill slopes**, not desert sand seas.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">World Soil Day is observed on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 5 June</div><div class="pyq-opt"><span class="opt-letter">B</span> 5 December</div><div class="pyq-opt"><span class="opt-letter">C</span> 22 April</div><div class="pyq-opt"><span class="opt-letter">D</span> 16 September</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> World Soil Day is **5 December**.
+
+**Logic:** 5 June is World Environment Day — the classic date swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements about black / regur soil is/are correct?<br><br>1. It shows wide cracks in the dry season (self-ploughing).<br>2. Montmorillonite is an important clay mineral in it.<br>3. It is characteristically rich in nitrogen and humus.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Regur is **poor** in N, P and humus despite high moisture retention.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>1. Mar / Kabar — Bundelkhand black soil<br>2. Parua / Rakar — Bundelkhand red soil<br>3. Matasi — Chhattisgarh black clay of lowlands<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1 and 2 are correct.
+
+**Logic:** **Matasi** is Chhattisgarh **red–yellow**; **Kanhar** is the lower black clay.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Soil Health Card was launched in 2015 from which place?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Suratgarh, Rajasthan</div><div class="pyq-opt"><span class="opt-letter">B</span> Hoshangabad, Madhya Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Pantnagar, Uttarakhand</div><div class="pyq-opt"><span class="opt-letter">D</span> Ludhiana, Punjab</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Launch place is **Suratgarh (Rajasthan)**; slogan *Swasth Dharaa, Khet Haraa*.
+
+**Logic:** Hoshangabad is the **Mitti Bachao** place, not SHC launch.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to saline and sodic soils, which of the following is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gujarat leads alkali / sodic wasteland area; UP leads saline area</div><div class="pyq-opt"><span class="opt-letter">B</span> Gujarat leads saline area; UP leads alkali / sodic wasteland area</div><div class="pyq-opt"><span class="opt-letter">C</span> Both saline and sodic leadership belong to Rajasthan alone</div><div class="pyq-opt"><span class="opt-letter">D</span> Lime is the first remedy for both saline and sodic soils</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Gujarat = saline area lead; UP = alkali / sodic wasteland lead.
+
+**Logic:** Remedies differ — gypsum for sodic, drainage/leaching logic for salts; lime is for acid soils.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Capillary rise of water is generally strongest in clay soils.<br>Reason (R): Clay particles create finer pores than sand.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true and R explains A.
+
+**A/R logic:** Finer pores in clay strengthen capillary action versus sand.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which one of the following soils is correctly paired with its famous crop / product?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Karewa — cotton of Deccan</div><div class="pyq-opt"><span class="opt-letter">B</span> Laterite — cashew / tapioca on humid slopes</div><div class="pyq-opt"><span class="opt-letter">C</span> Peaty kari — wheat of Punjab</div><div class="pyq-opt"><span class="opt-letter">D</span> Desert soil — tea of Assam</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Laterite slopes suit cashew, tapioca, tea and coffee.
+
+**Logic:** Karewa = saffron; kari = Kerala paddy marshes; tea is not a desert-soil crop.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Eluviation and illuviation are correctly distinguished as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Eluviation deposits into B; illuviation washes out of A/E</div><div class="pyq-opt"><span class="opt-letter">B</span> Eluviation washes out of A/E; illuviation deposits into B</div><div class="pyq-opt"><span class="opt-letter">C</span> Both mean the same horizon-building process</div><div class="pyq-opt"><span class="opt-letter">D</span> Both occur only in desert pedocals</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> E = wash **out**; I = deposit **in B**.
+
+**Logic:** Letter cue: E-luviation = exit; Il-luviation = into.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Chambal ravines are mainly the product of which stage of water erosion?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Splash only</div><div class="pyq-opt"><span class="opt-letter">B</span> Sheet only</div><div class="pyq-opt"><span class="opt-letter">C</span> Gully / ravine stage</div><div class="pyq-opt"><span class="opt-letter">D</span> Wind abrasion alone</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chambal badlands are the deep **gully / ravine** stage.
+
+**Logic:** Splash and sheet are earlier; wind is not the Chambal teaching agent.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Pedocal soils accumulate lime in arid tracts.<br>2. Seed modification is a standard method to raise soil fertility.<br>3. World Soil Day is celebrated on 5 December.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** Seed modification raises yield / resistance, **not** soil fertility by itself.</div>
+  </div>
+</div>

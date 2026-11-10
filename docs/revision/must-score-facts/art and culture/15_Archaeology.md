@@ -108,18 +108,6 @@ hide:
 | **Prof. B.B. Lal** | 1921–2022 | Director-General, ASI (1968–72)| Excavated **Hastinapur** (PGW/Mahabharata), Kalibangan, and Ayodhya |
 | **Dr. V.S. Wakankar** | 1919–1988 | Vikram University, Ujjain | Discovered the prehistoric painted **Bhimbetka Caves (1957)** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Robert Bruce Foote** | **Alexander Cunningham** | Foote = **'Father of Indian Prehistory'** (discovered first stone tool at Pallavaram 1863); Cunningham = **'Father of Indian Archaeology'** (founder-DG of ASI 1861) | रॉबर्ट ब्रूस फुट (प्रागैतिहास के पिता) / कनिंघम (पुरातत्व के पिता) |
-| **Koldihwa (UP)** | **Mehrgarh (Balochistan)** | Koldihwa = Earliest evidence of **cultivated rice** (~6500 BCE); Mehrgarh = Earliest evidence of **settled agriculture (wheat & barley) and village life** (~7000 BCE) | कोलडिहवा (चावल का प्राचीनतम साक्ष्य) / मेहरगढ़ (गेहूं-जौ, प्राचीनतम बस्ती) |
-| **Lahuradewa (UP)** | **Koldihwa (UP)** | Lahuradewa (Sant Kabir Nagar) = Pushed rice antiquity back to **~8000–7000 BCE**; Koldihwa (Prayagraj) = Classic Belan Valley Neolithic rice site (~6500 BCE) | लहुरादेवा (8000-7000 ई.पू. धान) / कोलडिहवा (6500 ई.पू. धान) |
-| **Sarai Nahar Rai** | **Damdama** | Sarai Nahar Rai = Earliest **human skeletons and hearths** in Ganga valley; Damdama = Contains **41 burials including a unique Double Burial (male + female together)** | सराय नाहर राय (कंकाल व चूल्हे) / दमदमा (युगल शवाधान) |
-| **Piprahwa (UP)** | **Rummindei (Nepal)** | Piprahwa = Buddha's **Shakya relic caskets**, identified with **Kapilavastu**; Rummindei = Ashokan pillar marking the exact **birthplace of Buddha in Lumbini** | पिपरहवा (कपिलवस्तु, अस्थि कलश) / रुम्मिनदेई (लुम्बिनी, बुद्ध जन्म स्तंभ) |
-| **Burzahom (Kashmir)** | **Gufkral (Kashmir)** | Burzahom = Famous for **pit dwellings and dogs buried with humans**; Gufkral = Neolithic cave site of the **potters** showing transition to pottery agriculture | बुर्ज़होम (गर्त आवास, मानव संग कुत्ता) / गुफकराल (कुम्हार की गुफा) |
-| **Atranjikhera (UP)** | **Arikamedu (Puducherry)** | Atranjikhera = Earliest stratified **iron smelting and PGW culture in UP**; Arikamedu = **Indo-Roman trading port** with Roman wine amphorae and Arretine ware | अतरंजीखेड़ा (उ.प्र. लौह प्रगलन) / अरिकामेडु (पुदुचेरी, रोमन व्यापारिक पत्तन) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Prehistoric Agricultural Breakthroughs in UP:
@@ -138,309 +126,310 @@ hide:
 - **M**arshall = **M**ohenjo-daro / Indus announcement (1924)
 - **W**heeler = **W**all/Layer stratigraphy (1944)
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
-
-1. Mandi
-2. Rakhigarhi
-3. Hulas
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. Only 3
-C. 1 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 1 and 3.** Mandi and Hulas = UP. Rakhigarhi = Haryana.
-
-</details>
-
-**Q2.**
-
-Match List-I with List-II and choose the correct answer using the code given below.
-
-**List-I (Archaeological Site)**
-A. Nevasa
-B. Isampur
-C. Didwana
-D. Gudiyam Cave
-
-**List-II (Present Location)**
-1. Rajasthan
-2. Tamil Nadu
-3. Maharashtra
-4. Karnataka
-
-A. A-(3), B-(4), C-(1), D-(2)
-B. A-(4), B-(3), C-(1), D-(2)
-C. A-(3), B-(4), C-(2), D-(1)
-D. A-(3), B-(2), C-(4), D-(1)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q3.**
-
-The eastern boundary of the Harappan culture is indicated by which of the following?
-
-A. Harappa
-B. Alamgirpur
-C. Rakhigarhi
-D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Alamgirpur.**
-
-</details>
-
-**Q4.**
-
-From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
-
-A. Dholavira and Bhagatrav
-B. Harappa and Kot Diji
-C. Mohenjo-daro and Lothal
-D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Mohenjo-daro and Lothal.**
-
-</details>
-
-**Q5.**
-
-In which State of India is the Harappan Civilization site Mandi situated?
-
-A. Gujarat
-B. Haryana
-C. Rajasthan
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Uttar Pradesh.**
-
-</details>
-
-**Q6.**
-
-Match List-I with List-II and answer using the codes given below the lists:
-
-**List-I (Harappan Site)List-II (UT/State of India)**
-A. Balu 1. Uttar Pradesh
-B. Manda 2. Jammu & Kashmir
-C. Padri 3. Haryana
-D. Hulas 4. Gujarat
-
-A. 3 2 1 4
-B. 2 3 4 1
-C. 2 4 3 1
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Balu–Haryana, Manda–J&K, Padri–Gujarat, Hulas–UP.
-
-</details>
-
-**Q7.**
-
-Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
-
-A. Madho Swaroop Vatsa
-B. H. D. Sankalia
-C. V. S. Wakankar
-D. V. N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — V. S. Wakankar.**
-
-</details>
-
-**Q8.**
-
-Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
-
-I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
-
-A. I, II, III, IV
-B. I, II
-C. II, III
-D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — III and IV.** Alamgirpur and Hulas. Kalibangan = Rajasthan. Lothal = Gujarat.
-
-</details>
-
-**Q9.** With reference to archaeology and history, which of the following statements is/are correct?
-
-1. Archaeology studies material remains through excavation and dating.
-2. The two methods are identical and interchangeable labels.
-3. History builds narrative mainly from pollen diagrams alone, not written sources.
-
-A. Only 2
-B. Only 2 and 3
-C. Only 1
-D. Only 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Archaeology and history work together but are not the same method. History builds narrative mainly from written sources.
-
-</details>
-
-**Q10.** Consider the following pairs:
-
-| Method | Tag |
-|--------|-----|
-| 1. Stratigraphy | Lower undisturbed layer is older |
-| 2. Typology | Artefact-style comparison |
-| 3. C-14 | Direct dating of bare stone seals |
-
-Which of the pairs given above is/are correctly matched?
-
-A. Only 1 and 2
-B. All 1, 2 and 3
-C. Only 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1 and 2 only are correct.
-
-**Logic:** C-14 dates organic carbon only, not bare stone.
-
-</details>
-
-**Q11.** Which of the following pairs is NOT correctly matched?
-
-A. Daya Ram Sahni — Harappa 1921
-B. R. D. Banerji — Mohenjo-daro 1922
-C. Mortimer Wheeler — discovered Harappa in 1853
-D. John Marshall — announced the civilisation
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Cunningham notes a seal in 1853. Wheeler brings 1946 grid methods.
-
-**Logic:** Do not swap excavators or credit Wheeler as first discoverer.
-
-</details>
-
-**Q12.** Assertion (A): Radiocarbon dating can date a stone seal directly without organic association.
-Reason (R): Thermoluminescence dates fired clay or brick.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false, but (R) is true.
-
-**A/R logic:** C-14 needs organic carbon. TL is the pottery / fired-clay fact.
-
-</details>
-
-**Q13.** Arrange the Indus discovery chain in chronological order:
-
-1. Marshall announces the civilisation
-2. Cunningham notes a seal
-3. Sahni excavates Harappa
-4. Banerji excavates Mohenjo-daro
-
-Select the correct order.
-
-A. 3-2-4-1
-B. 2-4-3-1
-C. 2-3-4-1
-D. 2-3-1-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1853 seal note → 1921 Harappa → 1922 Mohenjo-daro → 1924 announcement.
-
-**Logic:** Wheeler’s 1946 grid comes later as method reform.
-
-</details>
-
-**Q14.** With reference to ASI, which of the following statements is/are correct?
-
-1. ASI began in 1861.
-2. Alexander Cunningham was the first Surveyor General of India under the Survey of India only.
-3. ASI sits under the Ministry of External Affairs like ICCR.
-
-A. 1, 2 and 3
-B. Only 2 and 3
-C. Only 1
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Cunningham was the first Director General of ASI. ASI sits under the Culture ministry.
-
-</details>
-
-**Q15.** Match List-I with List-II and select the correct answer using the code given below the Lists.
-
-**List-I (Site)**
-A. Alamgirpur
-B. Rakhigarhi
-C. Lothal
-D. Kalibangan
-
-**List-II**
-1. Haryana; largest in India
-2. Meerut UP; easternmost Indus
-3. Rajasthan; ploughed field
-4. Gujarat; dockyard
-
-*Row order is not the answer code.*
-
-A. 2 1 3 4
-B. 2 1 4 3
-C. 1 2 4 3
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Alamgirpur–easternmost UP, Rakhigarhi–Haryana, Lothal–dock, Kalibangan–Rajasthan.
-
-**Logic:** Lab location does not move Rakhigarhi into UP.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?<br><br>1. Mandi<br>2. Rakhigarhi<br>3. Hulas<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3.** Mandi and Hulas = UP. Rakhigarhi = Haryana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Archaeological Site)</th>
+      <th>List-II (Present Location)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Nevasa</td>
+      <td><span class="match-key">1</span> Rajasthan</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Isampur</td>
+      <td><span class="match-key">2</span> Tamil Nadu</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Didwana</td>
+      <td><span class="match-key">3</span> Maharashtra</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Gudiyam Cave</td>
+      <td><span class="match-key">4</span> Karnataka</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-(3), B-(4), C-(1), D-(2)</div><div class="pyq-opt"><span class="opt-letter">B</span> A-(4), B-(3), C-(1), D-(2)</div><div class="pyq-opt"><span class="opt-letter">C</span> A-(3), B-(4), C-(2), D-(1)</div><div class="pyq-opt"><span class="opt-letter">D</span> A-(3), B-(2), C-(4), D-(1)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The eastern boundary of the Harappan culture is indicated by which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Harappa</div><div class="pyq-opt"><span class="opt-letter">B</span> Alamgirpur</div><div class="pyq-opt"><span class="opt-letter">C</span> Rakhigarhi</div><div class="pyq-opt"><span class="opt-letter">D</span> Manda</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Alamgirpur.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">From which archaeological site of the Indus Valley Civilization are figures or models of boats found?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dholavira and Bhagatrav</div><div class="pyq-opt"><span class="opt-letter">B</span> Harappa and Kot Diji</div><div class="pyq-opt"><span class="opt-letter">C</span> Mohenjo-daro and Lothal</div><div class="pyq-opt"><span class="opt-letter">D</span> Kalibangan and Ropar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mohenjo-daro and Lothal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In which State of India is the Harappan Civilization site Mandi situated?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gujarat</div><div class="pyq-opt"><span class="opt-letter">B</span> Haryana</div><div class="pyq-opt"><span class="opt-letter">C</span> Rajasthan</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttar Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Uttar Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Harappan Site)</th>
+        <th>List-II (UT / State of India)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Balu</td><td><span class="match-key">1</span> Uttar Pradesh</td></tr>
+    <tr><td><span class="match-key">B</span> Manda</td><td><span class="match-key">2</span> Jammu & Kashmir</td></tr>
+    <tr><td><span class="match-key">C</span> Padri</td><td><span class="match-key">3</span> Haryana</td></tr>
+    <tr><td><span class="match-key">D</span> Hulas</td><td><span class="match-key">4</span> Gujarat</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 2 4 1</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 3 2 1 4</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 2 3 4 1</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 2 4 3 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Balu–Haryana, Manda–J&K, Padri–Gujarat, Hulas–UP.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Madho Swaroop Vatsa</div><div class="pyq-opt"><span class="opt-letter">B</span> H. D. Sankalia</div><div class="pyq-opt"><span class="opt-letter">C</span> V. S. Wakankar</div><div class="pyq-opt"><span class="opt-letter">D</span> V. N. Mishra</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> V. S. Wakankar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following centres related to Indus Valley are situated in Uttar Pradesh?<br><br>I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, III, IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I, II</div><div class="pyq-opt"><span class="opt-letter">C</span> II, III</div><div class="pyq-opt"><span class="opt-letter">D</span> III, IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> III and IV.** Alamgirpur and Hulas. Kalibangan = Rajasthan. Lothal = Gujarat.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to archaeology and history, which of the following statements is/are correct?<br><br>1. Archaeology studies material remains through excavation and dating.<br>2. The two methods are identical and interchangeable labels.<br>3. History builds narrative mainly from pollen diagrams alone, not written sources.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Archaeology and history work together but are not the same method. History builds narrative mainly from written sources.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Method | Tag |<br>|--------|-----|<br>| 1. Stratigraphy | Lower undisturbed layer is older |<br>| 2. Typology | Artefact-style comparison |<br>| 3. C-14 | Direct dating of bare stone seals |<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** C-14 dates organic carbon only, not bare stone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Daya Ram Sahni — Harappa 1921</div><div class="pyq-opt"><span class="opt-letter">B</span> R. D. Banerji — Mohenjo-daro 1922</div><div class="pyq-opt"><span class="opt-letter">C</span> Mortimer Wheeler — discovered Harappa in 1853</div><div class="pyq-opt"><span class="opt-letter">D</span> John Marshall — announced the civilisation</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cunningham notes a seal in 1853. Wheeler brings 1946 grid methods.
+
+**Logic:** Do not swap excavators or credit Wheeler as first discoverer.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Radiocarbon dating can date a stone seal directly without organic association.<br>Reason (R): Thermoluminescence dates fired clay or brick.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false, but (R) is true.
+
+**A/R logic:** C-14 needs organic carbon. TL is the pottery / fired-clay fact.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Arrange the Indus discovery chain in chronological order:<br><br>1. Marshall announces the civilisation<br>2. Cunningham notes a seal<br>3. Sahni excavates Harappa<br>4. Banerji excavates Mohenjo-daro<br><br>Select the correct order.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3-2-4-1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2-4-3-1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2-3-4-1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2-3-1-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1853 seal note → 1921 Harappa → 1922 Mohenjo-daro → 1924 announcement.
+
+**Logic:** Wheeler’s 1946 grid comes later as method reform.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to ASI, which of the following statements is/are correct?<br><br>1. ASI began in 1861.<br>2. Alexander Cunningham was the first Surveyor General of India under the Survey of India only.<br>3. ASI sits under the Ministry of External Affairs like ICCR.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Cunningham was the first Director General of ASI. ASI sits under the Culture ministry.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I</th>
+      <th>List-II</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Alamgirpur</td>
+      <td><span class="match-key">1</span> Haryana; largest in India</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Rakhigarhi</td>
+      <td><span class="match-key">2</span> Meerut UP; easternmost Indus</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Lothal</td>
+      <td><span class="match-key">3</span> Rajasthan; ploughed field</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Kalibangan</td>
+      <td><span class="match-key">4</span> Gujarat; dockyard
+
+*Row order is not the answer code.*</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 1 3 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 2 4 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 4 1 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Alamgirpur–easternmost UP, Rakhigarhi–Haryana, Lothal–dock, Kalibangan–Rajasthan.
+
+**Logic:** Lab location does not move Rakhigarhi into UP.</div>
+</div>

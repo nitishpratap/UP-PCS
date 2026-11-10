@@ -107,6 +107,21 @@ hide:
 48. **External Borrowing Ban on States:** States are strictly barred from borrowing in international debt markets directly (Art. 293(1)); external multilateral borrowings (World Bank, ADB) are routed through the Union Ministry of Finance.
 49. **Inter-State River Water Tribunals Record:** Formed under IRWD Act 1956: Cauvery Water Disputes Tribunal (1990), Krishna Water Disputes Tribunal (2004), Mahadayi Tribunal (2010), Mahanadi Tribunal (2018).
 50. **Three Decades of Commissions Summary:**
+51. **Territorial Extent of Legislative Powers (Article 245):** Parliament can make laws for whole or any part of territory of India and has power of **extra-territorial legislation** (binding on Indian citizens and property abroad); State Legislature makes laws for whole or part of that State (no extra-territorial jurisdiction unless territorial nexus exists).
+52. **Five Exceptional Conditions Where Parliament Legislate on State List:** (1) **Article 249:** In national interest if Rajya Sabha passes resolution by **2/3rd majority of members present and voting** (valid for 1 year at a time); (2) **Article 250:** During National Emergency (Art. 352); (3) **Article 252:** When legislatures of **two or more States pass resolutions** requesting Parliament (law applies ONLY to consenting states, other states can adopt later; can be amended only by Parliament); (4) **Article 253:** For implementing **international treaties, agreements, or conventions** (e.g. TRIPS, biological diversity); (5) **Article 356:** During President's Rule in a State.
+53. **Doctrine of Pith and Substance:** Applied by courts to resolve legislative competence disputes between Union and State lists; determines the true nature, substance, and character of an enactment to verify whether it falls primarily within the enacting legislature's assigned field, ignoring incidental encroachments.
+54. **Doctrine of Repugnancy (Article 254):** If a State law on a Concurrent List subject is inconsistent with a Parliamentary law, the Parliamentary law prevails; Exception (Article 254(2)): If the State law was **reserved for the President’s consideration and received President’s assent**, the State law prevails in that State (subject to Parliament's subsequent power to enact overriding legislation).
+55. **Obligation of States and Centre (Articles 256 & 257):** Executive power of State must ensure compliance with Parliamentary laws (Art. 256) and not impede Union executive power (Art. 257); Union can issue directions to States for construction/maintenance of means of communication of national/military importance and protection of railways; Article 365 provides that failure to comply with Union directions may lead to **President's Rule under Article 356**.
+56. **Full Faith and Credit Clause (Article 261):** Full faith and credit shall be given throughout the territory of India to public acts, records, and judicial proceedings of the Union and of every State; final civil court judgments executable anywhere in India.
+57. **Inter-State River Water Disputes (Article 262):** Parliament may by law provide for the adjudication of any dispute relating to use, distribution or control of waters of any inter-state river; Parliament enacted the **Inter-State River Water Disputes Act, 1956**; bars jurisdiction of the Supreme Court and all other courts over such disputes (adjudicated by ad-hoc Water Disputes Tribunals, e.g. Cauvery, Krishna, Godavari).
+58. **Inter-State Council (Article 263):** Established by presidential order to investigate and discuss subjects of common interest and make policy recommendations; permanently set up on **28 May 1990** on the recommendation of the **Sarkaria Commission**; Composition: Prime Minister (Chairman), Chief Ministers of all States, CMs of UTs with assemblies, Administrators of other UTs, and 6 Union Cabinet Ministers nominated by PM.
+59. **Zonal Councils (Statutory, Not Constitutional):** Set up under the **States Reorganisation Act, 1956** (not under Constitution); 5 original Zonal Councils: Northern, Central (UP, MP, Uttarakhand, Chhattisgarh - headquarters Prayagraj/Allahabad), Eastern, Western, and Southern; **Union Home Minister is the common Chairman** of all Zonal Councils; North-Eastern Council was created separately under North-Eastern Council Act, 1971.
+60. **GST Council (Article 279A):** Constitutional body inserted by the **101st Amendment Act, 2016**; makes recommendations on GST rates, exemptions, threshold limits; Composition: Union Finance Minister (Chairperson), Union MoS for Finance, and State Finance Ministers; Voting: Central Govt has **one-third (33.3%) weightage**, all State Govts combined have **two-thirds (66.6%) weightage**; decision requires a majority of not less than **three-fourths (75%) of weighted votes**.
+61. **Grants-in-Aid (Article 275 Statutory vs Article 282 Discretionary):** Article 275: Statutory grants charged upon Consolidated Fund of India to states in need of assistance on recommendation of the Finance Commission; Article 282: Discretionary grants made by Union or State for any public purpose (used extensively for Centrally Sponsored Schemes).
+62. **Rajamannar Committee (1969):** Appointed by DMK government in Tamil Nadu under Dr. P.V. Rajamannar to examine Centre-State relations; recommended abolition of Article 356, omission of Article 365, transfer of residuary powers to States, and making Inter-State Council effective.
+63. **Anandpur Sahib Resolution (1973):** Passed by Akali Dal; demanded Centre's jurisdiction be restricted only to Defense, Foreign Affairs, Communications, and Currency, vesting all other powers in States.
+64. **Sarkaria Commission (1983–1988):** 3-member Commission under **Justice R.S. Sarkaria** (members B. Sivaraman & Dr. S.R. Sen); submitted report with **247 recommendations**; Key recommendations: Article 356 to be used only as a last resort in rare cases; Inter-State Council under Art. 263 to be permanently set up; Governor should be an eminent person from outside the state and not an active politician; residuary taxation powers to remain with Parliament but other residuary powers transferred to Concurrent List; National Development Council (NDC) renamed National Economic & Development Council.
+65. **Punchhi Commission (2007–2010):** 5-member Commission chaired by former CJI **Madan Mohan Punchhi**; submitted 7-volume report with 312 recommendations; Key recommendations: Governor should be given fixed 5-year tenure and removed only through procedure analogous to President's impeachment by State Legislature; 'Localizing emergency' under Article 355/356 to specific districts rather than entire State; Chief Minister to be consulted in Governor’s appointment; guidelines on discretionary powers in hung assemblies.
     - 1969: Rajamannar (Tamil Nadu DMK) &rarr; extreme autonomy.
     - 1983–88: Sarkaria &rarr; cooperative federalism, Art. 356 last resort.
     - 2007–10: Punchhi &rarr; localized emergency, Governor impeachment.
@@ -166,21 +181,6 @@ hide:
 | **Sarkaria Commission** | 1983–1988 | Central Govt (Indira Gandhi) | Art. 356 as last resort; set up Inter-State Council (Art. 263); consult CM on Governor appointment |
 | **M.M. Punchhi Commission** | 2007–2010 | Central Govt (UPA) | Fixed 5-yr tenure for Governor; removal of Governor by Assembly impeachment; localized emergency |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| Residuary Powers Source | Vested in **Parliament (Centre)** under **Art. 248** (Canadian model) | Attribute residuary powers to States (US model) | अवशिष्ट शक्तियाँ = संसद (कनाडा) |
-| Concurrent List Source | Borrowed from **Australia** | Attribute Concurrent List to Canada | समवर्ती सूची = ऑस्ट्रेलिया |
-| Inter-State Council vs Zonal Councils | **Inter-State Council** = Constitutional (Art. 263). **Zonal Councils** = Statutory (States Reorganisation Act 1956). | Call Zonal Councils constitutional bodies | अंतर-राज्य परिषद = संवैधानिक; क्षेत्रीय परिषदें = संविधिक |
-| Central Zonal Council Headquarters | Located at **Prayagraj (Allahabad)** (covers UP, Uttarakhand, MP, Chhattisgarh) | Put headquarters in Lucknow or Delhi | मध्य क्षेत्रीय परिषद = प्रयागराज |
-| Article 249 Resolution Validity | Valid for **1 year at a time** (requires 2/3rd present and voting in Rajya Sabha) | Give resolution indefinite validity | 249 का संकल्प = 1 वर्ष वैध |
-| Art. 252 Law Amendment Authority | Can be amended or repealed **ONLY by Parliament** (States cannot amend) | Allow requesting States to amend 252 laws | 252 का कानून केवल संसद बदल सकती है |
-| River Water Disputes Jurisdiction | Jurisdiction of Supreme Court and all courts is **CONSTITUTIONALLY BARRED** (Art. 262) | Bring water disputes under Art. 131 original jurisdiction | नदी जल विवाद में न्यायालयों का क्षेत्राधिकार वर्जित |
-| Art. 365 vs Art. 356 | **365** = Failure to obey Union directions. **356** = Proclamation of President's Rule. (365 triggers 356!) | Treat 365 as an independent emergency power | 365 के उल्लंघन पर 356 लागू होता है |
-| External Borrowing by States | States **CANNOT borrow outside India** (Art. 293(1)) | Allow States to issue sovereign bonds abroad | राज्य विदेश से ऋण नहीं ले सकते |
-| Central Surcharges Sharing | Proceeds of surcharges under **Art. 271** go **EXCLUSIVELY to the Centre** (not divisible) | Include surcharges in the divisible tax pool | अधिभार (271) केवल केंद्र का |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Parliament Overriding State List (Five Keys):**
@@ -201,346 +201,307 @@ hide:
    - All 5 Zonal Councils are permanently chaired by the **Union Home Minister**!
    - Chief Ministers act as Vice-Chairmen on rotation.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-With reference to creation of new All India Service, which of the following statements is/are correct?
-1. In the national interest, the Rajya Sabha can pass a resolution for creation of new All India Service.
-2. The resolution for creation of new All India Service must be passed by the Rajya Sabha by two-third majority of the total members of the House.
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1.** Art. 312 = **2/3 present and voting**.
-
-</details>
-
-**Q2.**
-
-Match List-I (Finance Commission) with List-II (Chairman):
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Eleventh |
-| B | Twelfth |
-| C | Thirteenth |
-| D | Fourteenth |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | C. Rangarajan |
-| 2 | Y.V. Reddy |
-| 3 | A.M. Khusro |
-| 4 | Vijay L. Kelkar |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-1, C-4, D-2
-B. A-2, B-3, C-4, D-1
-C. A-3, B-2, C-1, D-4
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.**
-
-Match List-I (Schedule) with List-II:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Seventh |
-| B | Eighth |
-| C | Ninth |
-| D | Tenth |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Language |
-| 2 | Defection |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Validation of certain Acts |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-1, C-2, D-4
-B. A-3, B-1, C-4, D-2
-C. A-2, B-3, C-4, D-4
-D. A-4, B-2, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 7th = lists, 8th = languages, 9th = validation, 10th = defection.
-
-</details>
-
-**Q4.**
-GST in India was introduced through which Constitutional Amendment Act?
-A. 101st
-B. 91st
-C. 86th
-D. 73rd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5.**
-
-Match List-I with List-II:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Consolidated Fund of India |
-| B | Finance Commission |
-| C | Financial Emergency |
-| D | CAG |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Art. 266 |
-| 2 | Art. 360 |
-| 3 | Art. 280 |
-| 4 | Art. 148 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-1, C-2, D-4
-B. A-4, B-1, C-3, D-2
-C. A-1, B-3, C-2, D-4
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 266, 280, 360, 148.
-
-</details>
-
-**Q6.**
-Which one of the following is correctly matched?
-A. Election Commission (निर्वाचन आयोग) — Article 165
-B. National Commission for Scheduled Castes — Article 148
-C. Finance Commission — Article 263
-D. National Commission for Backward Classes — Article 340
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** FC = **280**, not 263. 165 = Advocate General (महाधिवक्ता). 148 = CAG. NCSC (राष्ट्रीय अनुसूचित जाति आयोग) = **338**.
-
-</details>
-
-**Q7.**
-The Concurrent list of the Indian Constitution includes:
-1. Trade and Commerce
-2. Adulteration of Goods
-3. Succession
-A. 1 and 3
-B. 1, 2 and 3
-C. Only 1
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q8.**
-
-Match List-I with List-II:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Art. 324 |
-| B | Art. 315 |
-| C | Art. 280 |
-| D | Art. 338 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | NCSC |
-| 2 | Finance Commission |
-| 3 | Public Service Commission |
-| 4 | Election Commission |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-2, C-4, D-1
-B. A-4, B-3, C-2, D-1
-C. A-3, B-2, C-1, D-4
-D. A-1, B-3, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9.**
-
-With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
-
-1. Finance Commission has a Chairman and six members.
-2. It submits its report to the NITI Aayog.
-
-A. Only 2
-
-B. Both 1 and 2
-
-C. Only 1
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q10.**
-
-Match List-I (Schedule) with List-II:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Third |
-| B | Fourth |
-| C | Seventh |
-| D | Eighth |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Allocation of seats in the Council of States |
-| 2 | Forms of oath |
-| 3 | Languages |
-| 4 | List of subject-matter of laws of Parliament and State Legislatures |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-4, B-3, C-1, D-2
-B. A-3, B-4, C-2, D-1
-C. A-2, B-1, C-4, D-3
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q11.**
-The primary duty of the Finance Commission of India is
-A. To give the recommendations on distribution of tax revenue between the Union and States
-B. To prepare the Union Annual Budget
-C. To advise the President on financial matters
-D. To allocate funds to various Ministries/Departments of the Union and State Governments
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.**
-Who among the following was the Chairman of the First Finance Commission of India?
-A. Shri Santhanam
-B. Shri K.C. Neogy
-C. Dr. Raj Mannar
-D. Shri A.K. Chanda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q13.** The President of India determines the qualifications of the Chairman and Members of the Finance Commission.
-
-**Reason (R):** Chairman and members are appointed by the President of India.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, (R) does not explain (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q14.**
-Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST?
-A. 101st
-B. 102nd
-C. 103rd
-D. 104th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Inter-State Council — Article 263
-B. Finance Commission — Article 280
-C. Adjudication of disputes relating to waters of inter-State rivers — Article 262
-D. Inter-State Trade and Commerce Authority — Article 280
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Inter-State Council is under Article 263, Finance Commission is under Article 280, and river water disputes are under Article 262. Inter-State trade authority is provided under Article 307 (Part XIII), not Article 280.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to creation of new All India Service, which of the following statements is/are correct?<br>1. In the national interest, the Rajya Sabha can pass a resolution for creation of new All India Service.<br>2. The resolution for creation of new All India Service must be passed by the Rajya Sabha by two-third majority of the total members of the House.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1.** Art. 312 = **2/3 present and voting**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Finance Commission) with List-II (Chairman):</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Finance Commission)</th>
+        <th>List-II (Chairman)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Eleventh Commission</td><td><span class="match-key">1</span> C. Rangarajan</td></tr>
+    <tr><td><span class="match-key">B</span> Twelfth Commission</td><td><span class="match-key">2</span> Y.V. Reddy</td></tr>
+    <tr><td><span class="match-key">C</span> Thirteenth Commission</td><td><span class="match-key">3</span> A.M. Khusro</td></tr>
+    <tr><td><span class="match-key">D</span> Fourteenth Commission</td><td><span class="match-key">4</span> Vijay L. Kelkar</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-4, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-3, C-4, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-3, B-2, C-1, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-3, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Schedule) with List-II:<br>**List-I**<br>| Code | Item |<br>|------|------|<br>| A | Seventh |<br>| B | Eighth |<br>| C | Ninth |<br>| D | Tenth |<br>**List-II**<br>| Code | Item |<br>|------|------|<br>| 1 | Language |<br>| 2 | Defection |<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>3</th><th>Union, State and Concurrent Lists</th></tr>
+  </thead>
+  <tbody>
+      <tr><td>4</td><td>Validation of certain Acts</td></tr>
+  </tbody>
+</table><br>> Note: Row order in the tables is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-2, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-1, C-4, D-2</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-4, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-2, C-1, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 7th = lists, 8th = languages, 9th = validation, 10th = defection.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">GST in India was introduced through which Constitutional Amendment Act?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 101st</div><div class="pyq-opt"><span class="opt-letter">B</span> 91st</div><div class="pyq-opt"><span class="opt-letter">C</span> 86th</div><div class="pyq-opt"><span class="opt-letter">D</span> 73rd</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Constitutional Provision)</th>
+        <th>List-II (Article)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Consolidated Fund of India</td><td><span class="match-key">1</span> Article 266</td></tr>
+    <tr><td><span class="match-key">B</span> Finance Commission</td><td><span class="match-key">2</span> Article 360</td></tr>
+    <tr><td><span class="match-key">C</span> Financial Emergency</td><td><span class="match-key">3</span> Article 280</td></tr>
+    <tr><td><span class="match-key">D</span> Comptroller & Auditor General</td><td><span class="match-key">4</span> Article 148</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-2, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-4, B-1, C-3, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-3, C-2, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-2, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 266, 280, 360, 148.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Election Commission (निर्वाचन आयोग) — Article 165</div><div class="pyq-opt"><span class="opt-letter">B</span> National Commission for Scheduled Castes — Article 148</div><div class="pyq-opt"><span class="opt-letter">C</span> Finance Commission — Article 263</div><div class="pyq-opt"><span class="opt-letter">D</span> National Commission for Backward Classes — Article 340</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> FC = **280**, not 263. 165 = Advocate General (महाधिवक्ता). 148 = CAG. NCSC (राष्ट्रीय अनुसूचित जाति आयोग) = **338**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Concurrent list of the Indian Constitution includes:<br>1. Trade and Commerce<br>2. Adulteration of Goods<br>3. Succession</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Constitutional Article)</th>
+        <th>List-II (Institution)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Article 324</td><td><span class="match-key">1</span> National Commission for Scheduled Castes (NCSC)</td></tr>
+    <tr><td><span class="match-key">B</span> Article 315</td><td><span class="match-key">2</span> Finance Commission</td></tr>
+    <tr><td><span class="match-key">C</span> Article 280</td><td><span class="match-key">3</span> Public Service Commission</td></tr>
+    <tr><td><span class="match-key">D</span> Article 338</td><td><span class="match-key">4</span> Election Commission</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-2, C-4, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-4, B-3, C-2, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-3, B-2, C-1, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-3, C-4, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">With reference to the Union Finance Commission, which of the following statement(s) is/are correct?<br><br>1. Finance Commission has a Chairman and six members.<br>2. It submits its report to the NITI Aayog.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Schedule) with List-II and select the correct answer using the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Schedule)</th>
+        <th>List-II (Subject-Matter)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Third Schedule</td><td><span class="match-key">1</span> Allocation of seats in the Council of States</td></tr>
+    <tr><td><span class="match-key">B</span> Fourth Schedule</td><td><span class="match-key">2</span> Forms of oath or affirmation</td></tr>
+    <tr><td><span class="match-key">C</span> Seventh Schedule</td><td><span class="match-key">3</span> Languages</td></tr>
+    <tr><td><span class="match-key">D</span> Eighth Schedule</td><td><span class="match-key">4</span> Union, State and Concurrent Lists</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-4, B-3, C-1, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-4, C-2, D-1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-4, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-2, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The primary duty of the Finance Commission of India is</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> To give the recommendations on distribution of tax revenue between the Union and States</div><div class="pyq-opt"><span class="opt-letter">B</span> To prepare the Union Annual Budget</div><div class="pyq-opt"><span class="opt-letter">C</span> To advise the President on financial matters</div><div class="pyq-opt"><span class="opt-letter">D</span> To allocate funds to various Ministries/Departments of the Union and State Governments</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Who among the following was the Chairman of the First Finance Commission of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shri Santhanam</div><div class="pyq-opt"><span class="opt-letter">B</span> Shri K.C. Neogy</div><div class="pyq-opt"><span class="opt-letter">C</span> Dr. Raj Mannar</div><div class="pyq-opt"><span class="opt-letter">D</span> Shri A.K. Chanda</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The President of India determines the qualifications of the Chairman and Members of the Finance Commission.<br><br>**Reason (R):** Chairman and members are appointed by the President of India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both true, (R) does not explain (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following Constitution Amendment Acts made necessary provisions for the implementation of GST?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 101st</div><div class="pyq-opt"><span class="opt-letter">B</span> 102nd</div><div class="pyq-opt"><span class="opt-letter">C</span> 103rd</div><div class="pyq-opt"><span class="opt-letter">D</span> 104th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Inter-State Council — Article 263</div><div class="pyq-opt"><span class="opt-letter">B</span> Finance Commission — Article 280</div><div class="pyq-opt"><span class="opt-letter">C</span> Adjudication of disputes relating to waters of inter-State rivers — Article 262</div><div class="pyq-opt"><span class="opt-letter">D</span> Inter-State Trade and Commerce Authority — Article 280</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Inter-State Council is under Article 263, Finance Commission is under Article 280, and river water disputes are under Article 262. Inter-State trade authority is provided under Article 307 (Part XIII), not Article 280.</div>
+  </div>
+</div>

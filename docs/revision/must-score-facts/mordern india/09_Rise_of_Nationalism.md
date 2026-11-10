@@ -321,21 +321,6 @@ hide:
 | **1940** | **Ramgarh** | **Maulana Abul Kalam Azad** | Remained President continuously for 6 years (1940–1946) during WWII |
 | **1946** | **Meerut** | **Acharya J.B. Kripalani** | Last pre-independence session; **President during Independence (1947)** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Landholders' Society (1838)** | **Indian Association (1876)** | First organized political association (elite zamindar interests) vs First broad middle-class national body (Banerjee/Bose) | जमींदारी सभा / इंडियन एसोसिएशन |
-| **East India Association (1866)** | **Indian Association (1876)** | Founded in London by Dadabhai Naoroji vs Founded in Calcutta by Surendranath Banerjee | ईस्ट इंडिया / इंडियन एसोसिएशन |
-| **Indian National Congress (1885)**| **Indian National Conference (1883)**| Formed in Bombay by Hume/Bonnerjee vs Formed in Calcutta by Surendranath Banerjee (dress rehearsal) | राष्ट्रीय कांग्रेस / नेशनल कॉन्फ्रेंस |
-| **Moderate Phase (1885–1905)** | **Extremist Phase (1905–1919)** | 3Ps (Petition, Prayer, Protest) & faith in British justice vs Passive Resistance, Boycott, Swadeshi & Swaraj | नरम दल / गरम दल |
-| **Bal Gangadhar Tilak** | **Gopal Krishna Gokhale** | Extremist icon who **never** presided over INC vs Moderate leader who presided over Banaras (1905) | तिलक / गोखले |
-| **Drain of Wealth Theory** | **"Un-British" Rule** | The economic phenomenon of net capital outflow vs The ideological critique that British rule violated British values | धन निष्कासन / अन-ब्रिटिश शासन |
-| **Surat Split (1907)** | **Lucknow Pact (1916)** | Bitter split between Moderates and Extremists vs Historic reunion of factions + Congress-League alliance | सूरत विभाजन / लखनऊ पैक्ट |
-| **First Woman President (1917)** | **First Indian Woman President (1925)**| **Annie Besant** (Calcutta, British Theosophist) vs **Sarojini Naidu** (Kanpur, Indian poetess) | प्रथम महिला / प्रथम भारतीय महिला |
-| **Belgaum Session (1924)** | **Lahore Session (1929)** | Gandhi's only presidency (constructive work focus) vs Nehru's presidency declaring Purna Swaraj | बेलगाम / लाहौर |
-| **Haripura Session (1938)** | **Tripuri Session (1939)** | Bose's unanimous election (Planning Committee) vs Bose defeating Sitaramayya followed by resignation | हरिपुरा / त्रिपुरी |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **First Four INC Sessions (City & President Mnemonic):**
@@ -366,371 +351,304 @@ hide:
    - **L**ucknow (1936, Socialism & AIKS)
    - **F**aizpur (1937, First Village session).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Which of the following events took place in the year 1911?
-
-1. Partition of Bengal revoked
-2. Transfer of capital from Calcutta to Delhi
-3. Lucknow Pact between Congress and Muslim League
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Lucknow Pact = **1916**. Duplicate allowed with Topic 11 (Partition / Delhi).
-
-</details>
-
-**Q2.**
-
-> [!TIP] **Exam Anchor (UPPCS 2024 Q15):** Chronological order of pre-Congress organisations: **East India Association** (1866, London) → **National Indian Association** (1870/71, London) → **Indian Society** (1872, London) → **Indian Association** (1876, Calcutta).
-
-**Q3. UPPCS Prelims 2024, Q17**
-
-With reference to the Age of Consent Act, 1891 consider the following statements:
-
-1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.
-2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.
-
-Which of the above statements is/are correct?
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Duplicate allowed with Topic 6.
-
-</details>
-
-**Q3.**
-
-> [!TIP] **Exam Anchor (UPPCS 2024 Q15):** Chronological order of pre-Congress organisations: **East India Association** (1866, London) → **National Indian Association** (1870/71, London) → **Indian Society** (1872, London) → **Indian Association** (1876, Calcutta).
-
----
-
-**Q2.** With reference to early political associations, which of the following statements is/are correct?
-
-1. The Poona Sarvajanik Sabha (1870) is the same body as the Bombay Presidency Association (1885).
-2. The East India Association was founded in Calcutta in 1876 by Surendranath Banerjee.
-3. The Indian Association was founded in Calcutta in 1876 by Surendranath Banerjee and Ananda Mohan Bose.
-
-A. Only 3
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: East India Association = London 1866, Naoroji; Indian Association = Calcutta 1876, Banerjee/Bose. Stmt 1 remains false: Poona Sabha ≠ Bombay Presidency Association.
-
-</details>
-
-**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Tilak never presided over any session of the Indian National Congress.
-
-**Reason (R):** Gokhale presided at the Banaras session of 1905.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R does not explain why Tilak never sat as President.
-
-**A/R logic:** Both facts stand, but Gokhale’s presidency is not the cause of Tilak’s absence from the chair.
-
-</details>
-
-**Q5.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (Session) | List-II (Fact) |
-|------------------|----------------|
-| A. Madras 1887 | 1. First English President |
-| B. Allahabad 1888 | 2. First Muslim President |
-| C. Calcutta 1917 | 3. First woman President |
-| D. Kanpur 1925 | 4. First Indian woman President |
-
-*Row order is not the answer code.*
-
-A. A-3, B-1, C-2, D-4
-
-B. A-1, B-2, C-4, D-3
-
-C. A-2, B-1, C-4, D-3
-
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Tyabji → Yule → Besant → Sarojini.
-
-**Logic:** Besant = first woman; Sarojini = first *Indian* woman — standing twin trap.
-
-</details>
-
-**Q6.** With reference to the Indian National Congress founding, which of the following statements is/are correct?
-
-1. The first session met on 28 December 1885 at Gokuldas Tejpal Sanskrit College, Calcutta.
-2. A.O. Hume organised the meeting and also served as the first President.
-3. About 72 delegates attended the first session.
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: First INC session was at Bombay, not Calcutta. Stmt 2 remains false: Hume organised; W.C. Bonnerjee was first President.
-
-</details>
-
-**Q7.** Which of the following pairs is NOT correctly matched?
-
-A. Surat Split — Moderate–Extremist break, 1907
-
-B. Lucknow Pact — Moderate–Extremist reunion and Congress–League deal, 1916
-
-C. Lucknow Pact — sealed at the Delhi Durbar of 1911
-
-D. Belgaum 1924 — Gandhi’s only Congress presidentship
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Lucknow Pact is 1916; 1911 is annulment + capital shift.
-
-**Logic:** Classic year merge of Durbar package with Lucknow politics.
-
-</details>
-
-**Q8.** Arrange the following Congress sessions / events in chronological order:
-
-1. Surat Split
-2. Swaraj declared a Congress goal at Calcutta
-3. Lucknow reunion / Pact
-4. Annie Besant as Congress President
-
-A. 2, 1, 4, 3
-
-B. 1, 2, 3, 4
-
-C. 2, 1, 3, 4
-
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1906 Swaraj → 1907 Surat → 1916 Lucknow → 1917 Besant.
-
-**Logic:** Swaraj language precedes the split; Besant presidency follows Lucknow reunion.
-
-</details>
-
-**Q9.** With reference to Moderates and Extremists, which of the following statements is/are correct?
-
-1. Moderates trusted petition, prayer and British justice.
-2. Extremists pushed only petition, prayer and loyalty to British justice.
-3. Extremists of the Congress are the same category as underground revolutionary secret societies.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 1
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: Extremists pushed boycott, Swadeshi and assertive Swaraj; petition/prayer is the Moderate method. Stmt 3 remains false: Extremists ≠ underground revolutionaries.
-
-</details>
-
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Most early nationalists regarded British rule as an act of providence that would modernise India.
-
-**Reason (R):** They complained against ‘Un-British rule’ in India.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; the complaint does not explain the providence claim.
-
-**A/R logic:** Standing Moderates A/R: both can be true without R explaining A.
-
-</details>
-
-**Q11.** Which of the following statements about Congress Presidents is/are correct?
-
-1. Badruddin Tyabji (Madras 1887) was the first English Congress President.
-2. Sarojini Naidu (Kanpur 1925) was the first woman Congress President.
-3. George Yule (Allahabad 1888) was the first English President.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: Tyabji was the first Muslim President; first English President = George Yule (Allahabad 1888). Stmt 2 remains false: first woman = Annie Besant 1917.
-
-</details>
-
-**Q12.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Safety Valve Theory | 1. Wealth outflow from India |
-| B. Drain Theory | 2. Hume as a British vent for discontent |
-| C. Un-British rule | 3. Raj betraying British liberal ideals |
-| D. Valentine Chirol on Tilak | 4. ‘Father of Indian Unrest’ |
-
-*Row order is not the answer code.*
-
-A. A-4, B-1, C-3, D-2
-
-B. A-1, B-2, C-4, D-3
-
-C. A-2, B-3, C-1, D-4
-
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Safety valve ≠ drain; Un-British ≠ Chirol tag.
-
-**Logic:** Four standing vocabulary traps from the Consolidated sheet.
-
-</details>
-
-**Q13.** With reference to pre-Congress politics, which of the following statements is/are correct?
-
-1. Zamindari / Landholders’ Society (1838) is often keyed as the first organised political association.
-2. Bangabhasha Prakashika Sabha (~1836) is linked with associates of Raja Ram Mohan Roy.
-3. The Indian League (1875, Sisir Kumar Ghosh) is identical with the Indian Association (1876).
-
-A. 1 and 3
-
-B. Only 1
-
-C. 1 and 2
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1 and 2 only are correct.
-
-**Logic:** Indian League ≠ Indian Association — confused-pair trap.
-
-</details>
-
-**Q14.** Which one of the following is correctly paired?
-
-A. Poverty and Un-British Rule in India — published 1906 with the Swaraj resolution
-
-B. Poverty and Un-British Rule in India — Dadabhai Naoroji, 1901
-
-C. Gita Rahasya — Surendranath Banerjee in Mandalay jail
-
-D. A Nation in Making — Bal Gangadhar Tilak
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Naoroji’s drain classic is 1901.
-
-**Logic:** Year and author twins: Banerjee / Tilak books are frequent swaps.
-
-</details>
-
-**Q15.** With reference to the Ilbert Bill controversy, which of the following statements is/are correct?
-
-1. It arose under Lord Ripon around 1883 over Indian judges trying Europeans.
-2. It fully equalised criminal jurisdiction and Indianised the ICS overnight.
-3. The final compromise kept a European jury majority option for Europeans.
-
-A. Only 1
-
-B. 1 and 2
-
-C. Only 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** 1 and 3 only are correct.
-
-**Logic:** Result = compromise, not full equality; political spark, not ICS Indianisation.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following events took place in the year 1911?<br><br>1. Partition of Bengal revoked<br>2. Transfer of capital from Calcutta to Delhi<br>3. Lucknow Pact between Congress and Muslim League<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Lucknow Pact = **1916**. Duplicate allowed with Topic 11 (Partition / Delhi).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS 2024 Q15):</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> hronological order of pre-Congress organisations: **East India Association** (1866, London) → **National Indian Association** (1870/71, London) → **Indian Society** (1872, London) → **Indian Association** (1876, Calcutta).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to the Age of Consent Act, 1891 consider the following statements:<br><br>1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.<br>2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.<br><br>Which of the above statements is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Both 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Duplicate allowed with Topic 6.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS 2024 Q15):</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> hronological order of pre-Congress organisations: **East India Association** (1866, London) → **National Indian Association** (1870/71, London) → **Indian Society** (1872, London) → **Indian Association** (1876, Calcutta).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to early political associations, which of the following statements is/are correct?<br><br>1. The Poona Sarvajanik Sabha (1870) is the same body as the Bombay Presidency Association (1885).<br>2. The East India Association was founded in Calcutta in 1876 by Surendranath Banerjee.<br>3. The Indian Association was founded in Calcutta in 1876 by Surendranath Banerjee and Ananda Mohan Bose.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: East India Association = London 1866, Naoroji; Indian Association = Calcutta 1876, Banerjee/Bose. Stmt 1 remains false: Poona Sabha ≠ Bombay Presidency Association.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Tilak never presided over any session of the Indian National Congress.<br><br>**Reason (R):** Gokhale presided at the Banaras session of 1905.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R does not explain why Tilak never sat as President.
+
+**A/R logic:** Both facts stand, but Gokhale’s presidency is not the cause of Tilak’s absence from the chair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Session)</th><th>List-II (Fact)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Madras 1887</td><td><span class="match-key">1</span> First English President</td></tr>
+      <tr><td><span class="match-key">B</span> Allahabad 1888</td><td><span class="match-key">2</span> First Muslim President</td></tr>
+      <tr><td><span class="match-key">C</span> Calcutta 1917</td><td><span class="match-key">3</span> First woman President</td></tr>
+      <tr><td><span class="match-key">D</span> Kanpur 1925</td><td><span class="match-key">4</span> First Indian woman President</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-2, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tyabji → Yule → Besant → Sarojini.
+
+**Logic:** Besant = first woman; Sarojini = first *Indian* woman — standing twin trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the Indian National Congress founding, which of the following statements is/are correct?<br><br>1. The first session met on 28 December 1885 at Gokuldas Tejpal Sanskrit College, Calcutta.<br>2. A.O. Hume organised the meeting and also served as the first President.<br>3. About 72 delegates attended the first session.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: First INC session was at Bombay, not Calcutta. Stmt 2 remains false: Hume organised; W.C. Bonnerjee was first President.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Surat Split — Moderate–Extremist break, 1907</div><div class="pyq-opt"><span class="opt-letter">B</span> Lucknow Pact — Moderate–Extremist reunion and Congress–League deal, 1916</div><div class="pyq-opt"><span class="opt-letter">C</span> Lucknow Pact — sealed at the Delhi Durbar of 1911</div><div class="pyq-opt"><span class="opt-letter">D</span> Belgaum 1924 — Gandhi’s only Congress presidentship</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Lucknow Pact is 1916; 1911 is annulment + capital shift.
+
+**Logic:** Classic year merge of Durbar package with Lucknow politics.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Congress sessions / events in chronological order:<br><br>1. Surat Split<br>2. Swaraj declared a Congress goal at Calcutta<br>3. Lucknow reunion / Pact<br>4. Annie Besant as Congress President</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 3, 2, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1906 Swaraj → 1907 Surat → 1916 Lucknow → 1917 Besant.
+
+**Logic:** Swaraj language precedes the split; Besant presidency follows Lucknow reunion.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to Moderates and Extremists, which of the following statements is/are correct?<br><br>1. Moderates trusted petition, prayer and British justice.<br>2. Extremists pushed only petition, prayer and loyalty to British justice.<br>3. Extremists of the Congress are the same category as underground revolutionary secret societies.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: Extremists pushed boycott, Swadeshi and assertive Swaraj; petition/prayer is the Moderate method. Stmt 3 remains false: Extremists ≠ underground revolutionaries.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Most early nationalists regarded British rule as an act of providence that would modernise India.<br><br>**Reason (R):** They complained against ‘Un-British rule’ in India.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; the complaint does not explain the providence claim.
+
+**A/R logic:** Standing Moderates A/R: both can be true without R explaining A.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements about Congress Presidents is/are correct?<br><br>1. Badruddin Tyabji (Madras 1887) was the first English Congress President.<br>2. Sarojini Naidu (Kanpur 1925) was the first woman Congress President.<br>3. George Yule (Allahabad 1888) was the first English President.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: Tyabji was the first Muslim President; first English President = George Yule (Allahabad 1888). Stmt 2 remains false: first woman = Annie Besant 1917.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Safety Valve Theory</td><td><span class="match-key">1</span> Wealth outflow from India</td></tr>
+      <tr><td><span class="match-key">B</span> Drain Theory</td><td><span class="match-key">2</span> Hume as a British vent for discontent</td></tr>
+      <tr><td><span class="match-key">C</span> Un-British rule</td><td><span class="match-key">3</span> Raj betraying British liberal ideals</td></tr>
+      <tr><td><span class="match-key">D</span> Valentine Chirol on Tilak</td><td><span class="match-key">4</span> ‘Father of Indian Unrest’</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-4, B-1, C-3, D-2</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Safety valve ≠ drain; Un-British ≠ Chirol tag.
+
+**Logic:** Four standing vocabulary traps from the Consolidated sheet.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to pre-Congress politics, which of the following statements is/are correct?<br><br>1. Zamindari / Landholders’ Society (1838) is often keyed as the first organised political association.<br>2. Bangabhasha Prakashika Sabha (~1836) is linked with associates of Raja Ram Mohan Roy.<br>3. The Indian League (1875, Sisir Kumar Ghosh) is identical with the Indian Association (1876).</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** Indian League ≠ Indian Association — confused-pair trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly paired?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Poverty and Un-British Rule in India — published 1906 with the Swaraj resolution</div><div class="pyq-opt"><span class="opt-letter">B</span> Poverty and Un-British Rule in India — Dadabhai Naoroji, 1901</div><div class="pyq-opt"><span class="opt-letter">C</span> Gita Rahasya — Surendranath Banerjee in Mandalay jail</div><div class="pyq-opt"><span class="opt-letter">D</span> A Nation in Making — Bal Gangadhar Tilak</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Naoroji’s drain classic is 1901.
+
+**Logic:** Year and author twins: Banerjee / Tilak books are frequent swaps.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the Ilbert Bill controversy, which of the following statements is/are correct?<br><br>1. It arose under Lord Ripon around 1883 over Indian judges trying Europeans.<br>2. It fully equalised criminal jurisdiction and Indianised the ICS overnight.<br>3. The final compromise kept a European jury majority option for Europeans.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3 only are correct.
+
+**Logic:** Result = compromise, not full equality; political spark, not ICS Indianisation.</div>
+  </div>
+</div>

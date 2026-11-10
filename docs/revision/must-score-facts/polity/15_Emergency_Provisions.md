@@ -79,6 +79,16 @@ hide:
 48. **Two Conditions for Post-1-Year President's Rule:** Under Art. 356(5), extension beyond 1 year requires: (1) Active National Emergency in whole/part of State; AND (2) ECI certificate that holding elections is not possible.
 49. **Judicial Salary Reductions under Article 360:** During Financial Emergency, the President can direct salary reductions for all Union and State officials, uniquely including sitting **Supreme Court and High Court Judges** (otherwise constitutionally protected against adverse variation).
 50. **Three Emergencies Approval & Majority Matrix:**
+51. **Three Types of Emergencies (Part XVIII):** (1) **Article 352:** National Emergency due to War, External Aggression, or Armed Rebellion; (2) **Article 356:** President’s Rule / State Emergency on failure of constitutional machinery in State (or Art. 365 failure to follow Centre's directions); (3) **Article 360:** Financial Emergency due to threat to financial stability/credit of India.
+52. **Proclamation & Parliamentary Approval of National Emergency (Article 352):** Proclaimed by President ONLY upon the **written advice of the Union Cabinet** (word 'Cabinet' inserted in Art. 352 by 44th CAA 1978); must be approved by **both Houses of Parliament within 1 month** by a **Special Majority** (majority of total membership + not less than 2/3rd members present and voting); once approved, continues for **6 months**; can be extended indefinitely with approval every 6 months.
+53. **Revocation of National Emergency (Article 352(8)):** President can revoke by subsequent proclamation; must be revoked if **Lok Sabha passes a resolution disapproving it by a Simple Majority**; if 1/10th members of Lok Sabha give written notice to Speaker (or President if LS not in session), a special sitting of LS must be convened within **14 days** to consider disapproving the proclamation.
+54. **Effect on Fundamental Rights (Article 358 vs Article 359):** (1) **Article 358:** Automatically suspends the 6 Fundamental Rights under **Article 19**; operates ONLY during External Emergency (War or External Aggression), NOT during Armed Rebellion (44th CAA 1978); operates throughout India; (2) **Article 359:** Empowers President to suspend by order the **right to move any court for enforcement of specified FRs** (rights themselves not suspended, only remedy suspended); **44th CAA 1978 mandated that enforcement of Articles 20 and 21 CANNOT be suspended under any circumstances**.
+55. **President’s Rule Parliamentary Approval & Duration (Article 356):** Must be approved by **both Houses of Parliament within 2 months** by a **Simple Majority**; once approved, continues for 6 months; maximum normal period is **1 year**; can be extended beyond 1 year up to a maximum of **3 years** ONLY if two conditions are met (44th CAA): (a) National Emergency in operation in whole/part of India, and (b) Election Commission certifies that general elections to state assembly cannot be held.
+56. **Landmark Ruling in S.R. Bommai v. Union of India (1994):** 9-judge bench laid down comprehensive guidelines on Article 356: (a) Proclamation of President's Rule is subject to **Judicial Review** on grounds of malafide; (b) Court can restore dissolved assembly if proclamation is struck down; (c) State Assembly should NOT be dissolved until Parliament approves the proclamation (only suspended animation); (d) Floor test on the floor of the House is the **sole constitutional test for proving majority** of ministry; (e) Secularism is part of basic structure, and state government acting against secularism can be dismissed.
+57. **Financial Emergency (Article 360):** Proclaimed if President is satisfied that financial stability or credit of India or any part is threatened; must be approved by Parliament within **2 months by a Simple Majority**; continues indefinitely until revoked by President (no periodic parliamentary approval needed); during Financial Emergency, President may order reduction of salaries and allowances of all civil servants including **Judges of the Supreme Court and High Courts**; **Financial Emergency has NEVER been declared in India so far**.
+58. **Three Occasions of National Emergency in India:** (1) October 1962 to January 1968 (Chinese Aggression / 1965 Indo-Pak war); (2) December 1971 to March 1977 (Indo-Pak War / Bangladesh Liberation); (3) June 1975 to March 1977 (proclaimed on grounds of 'internal disturbance' by Fakhruddin Ali Ahmed on Indira Gandhi's advice).
+59. **Article 355 (Duty of the Union):** Declares it shall be the duty of the Union to **protect every State against external aggression and internal disturbance** and to ensure that government of every State is carried on in accordance with provisions of the Constitution.
+60. **Article 365 (Sanction Behind Union Directions):** Provides that where any State has failed to comply with, or to give effect to, any directions given in the exercise of the executive power of the Union, it shall be lawful for the President to hold that a situation has arisen in which the government of the State **cannot be carried on in accordance with the provisions of this Constitution (triggering Art. 356)**.
    - **National (352):** Approved within **1 Month** by **Special Majority** (Majority total + 2/3rd present/voting).
    - **State / President's Rule (356):** Approved within **2 Months** by **Simple Majority**.
    - **Financial (360):** Approved within **2 Months** by **Simple Majority**; no periodic renewal required.
@@ -146,22 +156,6 @@ hide:
 | **Nature of Suspension** | Rights under Art. 19 themselves are suspended | Only the **remedy to move courts** is suspended; rights remain intact |
 | **Non-Suspendable Clause** | N/A (Art. 19 cannot suspend during Armed Rebellion) | Enforcement of **Articles 20 and 21 CANNOT BE SUSPENDED** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| Approval Window: 352 vs 356/360 | **352** = **1 Month** (reduced by 44th Amd); **356 & 360** = **2 Months**. | Call approval window 2 months for all three | 352 = 1 माह; 356 और 360 = 2 माह |
-| Approval Majority: 352 vs 356/360 | **352** = **Special Majority** (2/3rd present/voting + majority total); **356 & 360** = **Simple Majority**. | Require special majority for President's Rule | 352 = विशेष बहुमत; 356 = साधारण बहुमत |
-| Maximum Duration: 352 vs 356 | **352** = **Indefinite** (6 months at a time); **356** = Max **3 Years**. | Impose 3-year limit on National Emergency | 352 = अनिश्चित काल; 356 = अधिकतम 3 वर्ष |
-| State Assembly under 352 vs 356 | **352**: Assembly is **NOT dissolved or suspended** (operates concurrently). **356**: Assembly is **suspended or dissolved**. | Claim state legislature is dissolved during National Emergency | 352 में विधानसभा भंग नहीं होती |
-| Art. 358 vs Art. 359 Scope | **358** = Art. 19 auto-suspended only on War/External Aggression. **359** = specified FRs suspended by Presidential order (Arts. 20 & 21 immune). | Say Art. 19 auto-suspends during Armed Rebellion | 358 = केवल बाह्य आपात; 359 = राष्ट्रपति आदेश |
-| Non-Suspendable Rights | **Articles 20 and 21** CANNOT be suspended even during National Emergency (44th Amd 1978). | Claim Right to Life (Art. 21) can be suspended during war | 20 और 21 कभी निलंबित नहीं होते |
-| Revocation of 352 by Lok Sabha | Disapproval resolution passed by Lok Sabha by **Simple Majority** (Art. 352(7)). Rajya Sabha has NO role in revocation. | Require special majority or joint sitting for revocation | लोकसभा का साधारण बहुमत आपात समाप्त कर सकता है |
-| Financial Emergency Record | Article 360 has **NEVER been declared in India**. | Claim it was declared in 1991 BOP crisis | वित्तीय आपात भारत में कभी नहीं लगा |
-| High Court Powers under 356 | President **CANNOT touch High Court powers** or suspend HC provisions (Art. 356(1) proviso). | Allow Governor/President to take over High Court | राष्ट्रपति उच्च न्यायालय की शक्तियाँ नहीं ले सकता |
-| State with Most President's Rule | **Uttar Pradesh (10)** and **Manipur (10)** are tied for the highest number of invocations. | Say Punjab or Kerala is highest | उत्तर प्रदेश और मणिपुर = 10-10 बार |
-| Cabinet Advice for 352 | Requires **written recommendation of the Union Cabinet** (Art. 352(3)). Prime Minister alone cannot advise. | Claim oral advice of PM is sufficient | मंत्रिमंडल की लिखित सिफारिश अनिवार्य |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **The Approval & Majority Ladder:**
@@ -179,286 +173,271 @@ hide:
    - President's Rule (356): **3 Years Maximum** (Normal ceiling: 1 year without Art. 356(5) triggers)
    - Financial Emergency (360): **No Ceiling, No Periodic Renewal** (runs until cancelled)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which Article of the Constitution provides for the establishment of the Supreme Court of India?
-A. Article 124
-B. Article 214
-C. Article 226
-D. Article 356
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 356 is the **trap**.
-
-</details>
-
-**Q2.**
-Match List-I and List-II:
-A. Consolidated Fund of India
-B. Finance Commission
-C. Financial Emergency
-D. CAG
-1. Article 266
-2. Article 360
-3. Article 280
-4. Article 148
-A. A-3, B-1, C-2, D-4
-B. A-4, B-1, C-3, D-2
-C. A-1, B-3, C-2, D-4
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q3.**
-Assertion (A): Article 352 of the Indian Constitution deals with the declaration of an emergency.
-Reason (R): An emergency may take place at any time.
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.**
-Which one of the following is NOT correctly matched? (Provisions) (Sources)
-A. Fundamental Rights – USA
-B. Directive Principles (राज्य के नीति निदेशक तत्व) of State Policy – Ireland
-C. Residual Powers of Center – Australia
-D. Emergency powers – Germany
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Residuary (अवशिष्ट) = **Canada**. Emergency FR-suspension = **Germany** (Weimar) is **correctly** matched.
-
-</details>
-
-**Q5.**
-
-How many types of emergency are provided for in the Constitution of India?
-
-A. One
-B. Two
-C. Three
-D. Four
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Part XVIII (Arts. 352–360) lists National Emergency, President’s Rule, and Financial Emergency.
-
-**Ans: C. Three types of emergency.**
-
-</details>
-
-**Q6.**
-
-Article 355 of the Constitution of India imposes on the Union the duty to
-
-A. impose President’s Rule in a State
-B. protect every State against external aggression and internal disturbance and to ensure that the government of every State is carried on in accordance with the provisions of the Constitution
-C. declare Financial Emergency when a State defaults on loans
-D. suspend Fundamental Rights in a State during internal disturbance
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 355 is the Union’s protective duty; 356 is the proclamation that follows machinery failure.
-
-**Ans: B. Protect States and ensure constitutional governance in every State.**
-
-</details>
-
-**Q7.**
-
-The duty of the Union to protect States against external aggression and internal disturbance is laid down in which Article?
-
-A. Article 352
-B. Article 355
-C. Article 356
-D. Article 360
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 352 = National Emergency; 356 = President’s Rule; 360 = Financial Emergency; 355 = Union duty.
-
-**Ans: B. Article 355.**
-
-</details>
-
-**Q8.**
-
-National Emergency in India is proclaimed under which Article of the Constitution?
-
-A. Article 352
-B. Article 356
-C. Article 358
-D. Article 360
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 352 = security emergency; 356 = state machinery; 360 = financial stability; 358 = auto-suspension of Art. 19.
-
-**Ans: A. Article 352.**
-
-</details>
-
-**Q9.**
-
-With reference to the grounds for proclamation of National Emergency under Article 352, consider the following:
-1. War
-2. Internal disturbance
-3. External aggression
-4. Communal violence
-
-Which of the above can form the constitutional basis for a proclamation under Article 352 today?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 3 and 4 only
-D. 1 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Valid 352 grounds are war, external aggression, and armed rebellion — not internal disturbance or communal violence.
-
-**Ans: D. Only statements 1 and 3 (war and external aggression) are valid among the four listed.**
-
-</details>
-
-**Q10.**
-
-Which one of the following is **not** a ground on which the President may proclaim a National Emergency under Article 352?
-
-A. War
-B. External aggression
-C. Threat to internal peace and tranquillity
-D. Armed rebellion
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Constitution names war, external aggression, and armed rebellion — not a loose internal-peace formula.
-
-**Ans: C. Threat to internal peace and tranquillity is not a constitutional ground.**
-
-</details>
-
-**Q11.**
-
-The President may proclaim a National Emergency when the security of India or any part of its territory is threatened by which of the following?
-
-A. War, external aggression and armed rebellion
-B. War and internal disturbance only
-C. External aggression and communal violence only
-D. Internal disturbance and armed rebellion only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The 44th Amendment retained the security triad and dropped internal disturbance as a 352 label.
-
-**Ans: A. War, external aggression and armed rebellion.**
-
-</details>
-
-**Q12.**
-
-Consider the following statements:
-1. National Emergency may be proclaimed on grounds of war or external aggression.
-2. Internal disturbance alone remains a valid ground for National Emergency.
-3. President’s Rule is proclaimed under Article 356.
-4. Financial Emergency is proclaimed under Article 360.
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 1, 3 and 4 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement 2 is false after the 44th Amendment; statements 1, 3 and 4 state standard article–type pairings.
-
-**Ans: B. Statements 1, 3 and 4 only are correct.**
-
-</details>
-
-**Q13.**
-
-Under Article 352, a National Emergency may be declared when the security of India is threatened by
-
-A. war, external aggression or armed rebellion
-B. war or internal disturbance only
-C. external aggression or financial instability
-D. armed rebellion or failure of constitutional machinery in a State
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 352 is the national-security switch; failure of state machinery is 356, financial stability is 360.
-
-**Ans: A. War, external aggression or armed rebellion.**
-
-</details>
-
-**Q14.**
-
-Consider the following statements regarding emergency provisions:
-1. National Emergency is dealt with in Article 352.
-2. President’s Rule is dealt with in Article 356.
-3. Financial Emergency is dealt with in Article 360.
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** All three article–type pairings are textbook Part XVIII facts.
-
-**Ans: C. All three statements are correct.**
-
-</details>
-
-**Q15.**
-
-For the purpose of a proclamation of National Emergency under Article 352, the President shall not issue the proclamation unless the decision of the Union Cabinet has been communicated to him in
-
-A. oral form by the Prime Minister alone
-B. writing by the Prime Minister alone
-C. writing by the Union Cabinet as defined in the Explanation to Article 352(3)
-D. writing by the Council of Ministers including Ministers of State
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The 44th Amendment inserted written Union Cabinet advice — the PM alone cannot trigger 352.
-
-**Ans: C. Writing by the Union Cabinet under Article 352(3).**
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which Article of the Constitution provides for the establishment of the Supreme Court of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 124</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 214</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 226</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 356</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 356 is the **trap**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I and List-II and select the correct answer:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Constitutional Provision)</th>
+        <th>List-II (Article)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Consolidated Fund of India</td><td><span class="match-key">1</span> Article 266</td></tr>
+    <tr><td><span class="match-key">B</span> Finance Commission</td><td><span class="match-key">2</span> Article 360</td></tr>
+    <tr><td><span class="match-key">C</span> Financial Emergency</td><td><span class="match-key">3</span> Article 280</td></tr>
+    <tr><td><span class="match-key">D</span> Comptroller & Auditor General</td><td><span class="match-key">4</span> Article 148</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-2, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-4, B-1, C-3, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-3, C-2, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-2, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Article 352 of the Indian Constitution deals with the declaration of an emergency.<br>Reason (R): An emergency may take place at any time.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is true, but (R) is false</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT correctly matched? (Provisions) (Sources)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Fundamental Rights – USA</div><div class="pyq-opt"><span class="opt-letter">B</span> Directive Principles (राज्य के नीति निदेशक तत्व) of State Policy – Ireland</div><div class="pyq-opt"><span class="opt-letter">C</span> Residual Powers of Center – Australia</div><div class="pyq-opt"><span class="opt-letter">D</span> Emergency powers – Germany</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Residuary (अवशिष्ट) = **Canada**. Emergency FR-suspension = **Germany** (Weimar) is **correctly** matched.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">How many types of emergency are provided for in the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> One</div><div class="pyq-opt"><span class="opt-letter">B</span> Two</div><div class="pyq-opt"><span class="opt-letter">C</span> Three</div><div class="pyq-opt"><span class="opt-letter">D</span> Four</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Part XVIII (Arts. 352–360) lists National Emergency, President’s Rule, and Financial Emergency.
+
+**Ans: C. Three types of emergency.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Article 355 of the Constitution of India imposes on the Union the duty to</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> impose President’s Rule in a State</div><div class="pyq-opt"><span class="opt-letter">B</span> protect every State against external aggression and internal disturbance and to ensure that the government of every State is carried on in accordance with the provisions of the Constitution</div><div class="pyq-opt"><span class="opt-letter">C</span> declare Financial Emergency when a State defaults on loans</div><div class="pyq-opt"><span class="opt-letter">D</span> suspend Fundamental Rights in a State during internal disturbance</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 355 is the Union’s protective duty; 356 is the proclamation that follows machinery failure.
+
+**Ans: B. Protect States and ensure constitutional governance in every State.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The duty of the Union to protect States against external aggression and internal disturbance is laid down in which Article?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 352</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 355</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 356</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 360</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 352 = National Emergency; 356 = President’s Rule; 360 = Financial Emergency; 355 = Union duty.
+
+**Ans: B. Article 355.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">National Emergency in India is proclaimed under which Article of the Constitution?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 352</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 356</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 358</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 360</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 352 = security emergency; 356 = state machinery; 360 = financial stability; 358 = auto-suspension of Art. 19.
+
+**Ans: A. Article 352.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">With reference to the grounds for proclamation of National Emergency under Article 352, consider the following:<br>1. War<br>2. Internal disturbance<br>3. External aggression<br>4. Communal violence<br><br>Which of the above can form the constitutional basis for a proclamation under Article 352 today?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Valid 352 grounds are war, external aggression, and armed rebellion — not internal disturbance or communal violence.
+
+**Ans: D. Only statements 1 and 3 (war and external aggression) are valid among the four listed.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is **not** a ground on which the President may proclaim a National Emergency under Article 352?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> War</div><div class="pyq-opt"><span class="opt-letter">B</span> External aggression</div><div class="pyq-opt"><span class="opt-letter">C</span> Threat to internal peace and tranquillity</div><div class="pyq-opt"><span class="opt-letter">D</span> Armed rebellion</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Constitution names war, external aggression, and armed rebellion — not a loose internal-peace formula.
+
+**Ans: C. Threat to internal peace and tranquillity is not a constitutional ground.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The President may proclaim a National Emergency when the security of India or any part of its territory is threatened by which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> War, external aggression and armed rebellion</div><div class="pyq-opt"><span class="opt-letter">B</span> War and internal disturbance only</div><div class="pyq-opt"><span class="opt-letter">C</span> External aggression and communal violence only</div><div class="pyq-opt"><span class="opt-letter">D</span> Internal disturbance and armed rebellion only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The 44th Amendment retained the security triad and dropped internal disturbance as a 352 label.
+
+**Ans: A. War, external aggression and armed rebellion.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br>1. National Emergency may be proclaimed on grounds of war or external aggression.<br>2. Internal disturbance alone remains a valid ground for National Emergency.<br>3. President’s Rule is proclaimed under Article 356.<br>4. Financial Emergency is proclaimed under Article 360.<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement 2 is false after the 44th Amendment; statements 1, 3 and 4 state standard article–type pairings.
+
+**Ans: B. Statements 1, 3 and 4 only are correct.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Under Article 352, a National Emergency may be declared when the security of India is threatened by</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> war, external aggression or armed rebellion</div><div class="pyq-opt"><span class="opt-letter">B</span> war or internal disturbance only</div><div class="pyq-opt"><span class="opt-letter">C</span> external aggression or financial instability</div><div class="pyq-opt"><span class="opt-letter">D</span> armed rebellion or failure of constitutional machinery in a State</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 352 is the national-security switch; failure of state machinery is 356, financial stability is 360.
+
+**Ans: A. War, external aggression or armed rebellion.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements regarding emergency provisions:<br>1. National Emergency is dealt with in Article 352.<br>2. President’s Rule is dealt with in Article 356.<br>3. Financial Emergency is dealt with in Article 360.<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** All three article–type pairings are textbook Part XVIII facts.
+
+**Ans: C. All three statements are correct.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">For the purpose of a proclamation of National Emergency under Article 352, the President shall not issue the proclamation unless the decision of the Union Cabinet has been communicated to him in</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> oral form by the Prime Minister alone</div><div class="pyq-opt"><span class="opt-letter">B</span> writing by the Prime Minister alone</div><div class="pyq-opt"><span class="opt-letter">C</span> writing by the Union Cabinet as defined in the Explanation to Article 352(3)</div><div class="pyq-opt"><span class="opt-letter">D</span> writing by the Council of Ministers including Ministers of State</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The 44th Amendment inserted written Union Cabinet advice — the PM alone cannot trigger 352.
+
+**Ans: C. Writing by the Union Cabinet under Article 352(3).</div>
+  </div>
+</div>

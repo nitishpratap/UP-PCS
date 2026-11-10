@@ -154,21 +154,6 @@ hide:
 | **Kaiga Generating Station** | Kaiga, Uttara Kannada | **Karnataka** | PHWR units near Kali River | Kaiga Unit 1 set world record for continuous operation ($962	ext{ days}$) |
 | **Kudankulam Nuclear Power Plant (KKNPP)**| Kudankulam, Tirunelveli | **Tamil Nadu** | Russian VVER-1000 Light Water Pressurised Reactors ($2 	imes 1000	ext{ MWe}$) | **Largest nuclear power generating station in India** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Nuclear Fission** | **Nuclear Fusion** | **Fission** splits a heavy nucleus ($^{235}U$) into smaller nuclei via neutron capture (used in nuclear reactors and atomic bombs). **Fusion** merges light nuclei ($^2H + {}^3H$) at extreme temperatures ($\sim 10^8	ext{ K}$) into helium (powers the Sun and Hydrogen bombs). | विखंडन (Fission) = भारी नाभिक का टूटना; संलयन (Fusion) = हल्के नाभिकों का जुड़ना (सूर्य की ऊर्जा) |
-| **Moderator Function** | **Control Rod Function** | A **Moderator (Heavy Water, Graphite)** strictly **SLOWS DOWN fast neutrons** to thermal speeds without absorbing them. **Control Rods (Cadmium, Boron)** strictly **ABSORB neutrons** to regulate reaction rate. | मंदक (Moderator) = न्यूट्रॉन की गति धीमी करना ($D_2O$, ग्रेफाइट); नियंत्रक छड़ें = न्यूट्रॉनों का अवशोषण ($Cd, B$) |
-| **Enriched Uranium** | **Natural Uranium** | **Natural Uranium** contains only **$0.7\% {}^{235}U$** (the rest is non-fissile $^{238}U$). **Enriched Uranium** has its $^{235}U$ content artificially increased to $3–5\%$ for commercial reactors, or $>90\%$ for weapons. | प्राकृतिक यूरेनियम में केवल $0.7\%$ विखंडनीय U-235 होता है; संवर्धित में इसकी सांद्रता बढ़ाई जाती है |
-| **Critical State ($k=1$)** | **Supercritical State ($k>1$)** | A nuclear reactor operates at steady state when multiplication factor **$k = 1.0$ (Critical)**. An atomic bomb explosion requires **$k > 1.0$ (Supercritical)** for an uncontrolled runaway chain reaction. | शांत नियंत्रित रिएक्टर = क्रांतिक अवस्था ($k=1$); परमाणु बम विस्फोट = अतिक्रांतिक ($k>1$) |
-| **Radioactivity Dependence** | **Chemical Reactions** | Radioactivity is purely a **NUCLEAR phenomenon governed by $N/Z$ stability**. It is completely **INDEPENDENT of temperature, pressure, chemical combination, or physical state**. | रेडियोधर्मिता नाभिकीय घटना है; ताप, दाब या रासायनिक संयोग का इस पर कोई प्रभाव नहीं पड़ता |
-| **Narora Nuclear Plant** | **Rawatbhata Nuclear Plant** | **Narora is located in Uttar Pradesh** (Bulandshahr district on River Ganga). **Rawatbhata is located in Rajasthan** (Chittorgarh district near Kota). | नरोरा = उत्तर प्रदेश (बुलंदशहर); रावतभाटा = राजस्थान (चित्तौड़गढ़) |
-| **Alpha vs Gamma Penetration**| **Ionization Power Trap** | **$lpha$-particles have the HIGHEST ionizing power**, but the LOWEST penetrating power (stopped by a single sheet of paper). **$\gamma$-rays have the HIGHEST penetrating power**, but lowest ionization. | अल्फा किरणें = सर्वाधिक आयनन क्षमता; गामा किरणें = सर्वाधिक वेधन क्षमता |
-| **Thorium Energy Strategy** | **Direct Fission Myth** | Thorium-232 is **fertile, NOT fissile**; it cannot sustain a chain reaction directly. It must be converted into fissile **Uranium-233 (${}^{233}U$)** inside a fast breeder reactor before producing power. | थोरियम स्वयं विखंडनीय नहीं है; इसे FBR में विखंडनीय U-233 में बदलना पड़ता है |
-| **Heavy Water ($D_2O$)** | **Ordinary Water ($H_2O$)** | Heavy water contains Deuterium ($^2_1H$); it has very low neutron absorption cross-section, making it the **ideal moderator for natural uranium PHWRs**. Ordinary water absorbs too many neutrons. | भारी जल ($D_2O$) न्यूट्रॉन अवशोषित किए बिना उन्हें धीमा करता है, अतः प्राकृतिक यूरेनियम के साथ प्रयुक्त |
-| **Hydrogen Bomb vs Atom Bomb**| **Energy Output Scale** | An **Atom Bomb** utilizes Nuclear Fission of $^{235}U$ or $^{239}Pu$. A **Hydrogen Bomb (Thermonuclear)** utilizes Nuclear Fusion of hydrogen isotopes triggered by an atomic bomb core, yielding **$1000	imes$ greater explosive energy**. | परमाणु बम = नाभिकीय विखंडन; हाइड्रोजन बम = नाभिकीय संलयन (अधिक विनाशकारी) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Nuclear Reactor Component Materials:
@@ -190,330 +175,232 @@ hide:
 - **Stage 2 (FBR)**: Plutonium + Thorium blanket $	o$ Breeds Uranium ($U-233$).
 - **Stage 3 (AHWR)**: Thorium + $U-233$ $	o$ Massive Thorium utilization!
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Which of the following is NOT used as a moderator in a nuclear reactor?
-- (A) Light water
-- (B) Heavy water
-- (C) Cadmium
-- (D) Graphite
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Cadmium.
-
-**Ans: C.** Cadmium
-</details>
-
-**Q2.**
-
-The Prototype Fast Breeder Reactor (PFBR) with a capacity of $500\text{ MWe}$ in India is situated at:
-- (A) Narora, Uttar Pradesh
-- (B) Rawatbhata, Rajasthan
-- (C) Kalpakkam, Tamil Nadu
-- (D) Kaiga, Karnataka
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The $500\text{ MWe}$ PFBR is located at Kalpakkam, Tamil Nadu, forming Stage 2 of India's Three-Stage Nuclear Power Programme.
-
-**Ans: C.** Kalpakkam, Tamil Nadu
-</details>
-
-**Q3.**
-
-An instrument used to detect the presence of gamma-emitting radioactive isotopes in drinking water is:
-- (A) Spectrophotometer
-- (B) Scintillation Counter
-- (C) Compound Microscope
-- (D) Barometer
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Scintillation counters detect ionizing radiation by measuring the light flashes produced in scintillator crystals upon gamma-ray absorption.
-
-**Ans: B.** Scintillation Counter
-</details>
-
-**Q4.**
-
-Natural uranium contains what percentage of the fissile isotope Uranium-235?
-- (A) Approximately $0.7\%$
-- (B) Approximately $3.5\%$
-- (C) Approximately $20\%$
-- (D) Approximately $90\%$
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Natural uranium consists of $99.3\%$ U-238 and only $0.7\%$ fissile U-235.
-
-**Ans: A.** Approximately $0.7\%$
-</details>
-
-**Q5.**
-
-In India, which entity possesses exclusive statutory authorization to process monazite sand and extract thorium?
-- (A) Private placer mining consortia
-- (B) Indian Rare Earths Limited (IREL)
-- (C) National Aluminium Company (NALCO)
-- (D) Minerals and Metals Trading Corporation (MMTC)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Under the Atomic Energy Act, 1962, monazite is a prescribed strategic substance; only government undertakings like IREL (under DAE) and KMML can process monazite.
-
-**Ans: B.** Indian Rare Earths Limited (IREL)
-</details>
-
----
-
-**Q6. (U.P. U.D.A./L.D.A. (Pre) 2002 / UPPCS (Pre) 2001, 2003)**
-
-Which one of the following pairs is not correctly
-
-matched :
-
-(a) Discovery of Meson – Hideki Yukawa
-
-(b) Discovery of – C.D. Anderson
-
-Positron and U.F. Hess
-
-(c) Theory of energy – H.A. Bethe
-
-production in the
-
-sun and stars
-
-(d) Synthesis of – Enrico Fermi
-
-transuranic elements
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** In 1935 Meson particles were discovered by Japanese physicist Hideki Yukawa.
-
-**Ans: D.** Synthesis of – Enrico Fermi
-</details>
-
-**Q7. (UPPCS (Pre) 1999)**
-
-Which one of the following is not correct :
-
-(a) Theory of evolution was propounded by Charles Darwin.
-
-(b) The breaking apart of the nucleus of an atom is called
-
-fusion.
-
-(c) ‘Dry ice’ is nothing but solid carbon dioxide.
-
-(d) Telephone was invented by Graham Bell.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Among the given options, option (b) is not correct.
-
-**Ans: B.** The breaking apart of the nucleus of an atom is called
-</details>
-
-**Q8. (UPPCS (Pre) 1994)**
-
-Read the following statements–
-
-Statement (A): Ernest Rutherford said in Royal Society
-
-that a man will never be able to get
-
-nuclear energy.
-
-Reason (R) : He was confident that the Law of
-
-Einstein will fail and the volume will
-
-not be converted to energy.
-
-Select your answer in the code given below :
-
-(a) Both (A) and (R) are true and (A) is the correct
-
-explanation of (A).
-
-(b) Both (A) and (R) are true but (R) is not the correct
-
-explanation of (A).
-
-(c) (A) is correct but (R) is not correct.
-
-(d) (R) is correct but (A) is not correct.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Both given statement and reason are correct and reason (R) is the correct explanation of statement (A).
-
-**Ans: A.** Both (A) and (R) are true and (A) is the correct
-</details>
-
-**Q9. (UPPCS (Pre) 2009)**
-
-One of these particles is claimed to have invented which
-
-rebut the Einstein's theory of relativity :
-
-(a) Microwave photon (b) Neutrino
-
-(c) Liquid crystal (d) Light emitting diode
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The two physicists Gunter Nimtz and Alfons Stahlhofen of the University of Koblenz, Germany claimed that they had propelled microwave photons faster than the speed of light.
-
-**Ans: A.** Microwave photon
-</details>
-
-**Q10. (UPPCS (Pre) 1997)**
-
-Cyclotrons are used to accelerate :
-
-(a) Neutrons (b) Protons
-
-(c) Atoms (d) Ions
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Cyclotron is a machine used to accelerate charged particle such as alpha particles, deuteron, proton etc.
-
-**Ans: B.** Protons
-</details>
-
-**Q11. (UPPCS (Pre) 2009)**
-
-Which one of the following is the source of renewable
-
-energy in stars?
-
-(a) Hydrogen changes into helium
-
-(b) Helium changes into hydrogen
-
-(c) Decay of radioactive material
-
-(d) Excess of oxygen which is helpful in burning and
-
-generate energy.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Hydrogen changes into helium.
-
-**Ans: A.** Hydrogen changes into helium
-</details>
-
-**Q12. (UPPCS (Pre) 1992)**
-
-What is a Nuclear Reactor?
-
-(a) Place where atomic bomb is built
-
-(b) Heavy water pond
-
-(c) The emitter of U238
-
-(d) Molecular furnace
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Molecular furnace.
-
-**Ans: D.** Molecular furnace
-</details>
-
-**Q13. (UP RO/ARO (Pre) 2016)**
-
-Consider the following statements about nuclear fusion
-
-reactors :
-
-i. They work on the principle of fission of heavy nuclei.
-
-ii. They usually have Tokamak design.
-
-iii. They operate at very high temperature.
-
-Of these
-
-(a) Only i and iii are correct
-
-(b) Only i and ii are correct
-
-(c) Only ii and iii are correct
-
-(d) All the three i, ii and iii are correct
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Nuclear fusion reactors work on the principle of fusion of two light nuclei.
-
-**Ans: C.** Only ii and iii are correct
-</details>
-
-**Q14. (UPPCS (Pre) 1999 / I.A.S. (Pre) 1995)**
-
-The difference between nuclear reactor and atom bomb
-
-is that :
-
-(a) There is no chain reaction in nuclear reactor whereas
-
-this happens in atom bomb.
-
-(b) The chain reaction in nuclear reactor is controlled.
-
-(c) The chain reaction in nuclear reactor is not controlled.
-
-(d) Atom bomb is based on nuclear fusion whereas in
-
-nuclear reactor, nuclear fission occurs.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The chain reaction process used in nuclear reactors and atom bombs both release vast amount of energy, but the manner in which the energy is controlled and utilized is different in both the cases.
-
-**Ans: B.** The chain reaction in nuclear reactor is controlled
-</details>
-
-**Q15. (UP Lower Sub (Pre) 2003 / RAS/RTS (Pre) 1992)**
-
-The important nuclear fuel available in India in
-
-abundance is :
-
-(a) Uranium (b) Thorium
-
-(c) Iridium (d) Plutonium
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** India is one country that has an abundance of an important nuclear fuel thorium.
-
-**Ans: B.** Thorium
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT used as a moderator in a nuclear reactor?<br>- (A) Light water<br>- (B) Heavy water<br>- (C) Cadmium<br>- (D) Graphite</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Cadmium.
+
+**Ans: C.** Cadmium</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The Prototype Fast Breeder Reactor (PFBR) with a capacity of $500\text{ MWe}$ in India is situated at:<br>- (A) Narora, Uttar Pradesh<br>- (B) Rawatbhata, Rajasthan<br>- (C) Kalpakkam, Tamil Nadu<br>- (D) Kaiga, Karnataka</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The $500\text{ MWe}$ PFBR is located at Kalpakkam, Tamil Nadu, forming Stage 2 of India's Three-Stage Nuclear Power Programme.
+
+**Ans: C.** Kalpakkam, Tamil Nadu</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">An instrument used to detect the presence of gamma-emitting radioactive isotopes in drinking water is:<br>- (A) Spectrophotometer<br>- (B) Scintillation Counter<br>- (C) Compound Microscope<br>- (D) Barometer</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Scintillation counters detect ionizing radiation by measuring the light flashes produced in scintillator crystals upon gamma-ray absorption.
+
+**Ans: B.** Scintillation Counter</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Natural uranium contains what percentage of the fissile isotope Uranium-235?<br>- (A) Approximately $0.7\%$<br>- (B) Approximately $3.5\%$<br>- (C) Approximately $20\%$<br>- (D) Approximately $90\%$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Natural uranium consists of $99.3\%$ U-238 and only $0.7\%$ fissile U-235.
+
+**Ans: A.** Approximately $0.7\%$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In India, which entity possesses exclusive statutory authorization to process monazite sand and extract thorium?<br>- (A) Private placer mining consortia<br>- (B) Indian Rare Earths Limited (IREL)<br>- (C) National Aluminium Company (NALCO)<br>- (D) Minerals and Metals Trading Corporation (MMTC)</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Under the Atomic Energy Act, 1962, monazite is a prescribed strategic substance; only government undertakings like IREL (under DAE) and KMML can process monazite.
+
+**Ans: B.** Indian Rare Earths Limited (IREL)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">(U.P. U.D.A./L.D.A. (Pre) 2002 / UPPCS (Pre) 2001, 2003)</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is not correctly<br><br>matched :<br><br>(a) Discovery of Meson – Hideki Yukawa<br><br>(b) Discovery of – C.D. Anderson<br><br>Positron and U.F. Hess<br><br>(c) Theory of energy – H.A. Bethe<br><br>production in the<br><br>sun and stars<br><br>(d) Synthesis of – Enrico Fermi<br><br>transuranic elements</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** In 1935 Meson particles were discovered by Japanese physicist Hideki Yukawa.
+
+**Ans: D.** Synthesis of – Enrico Fermi</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">(UPPCS (Pre) 1999)</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is not correct :<br><br>(a) Theory of evolution was propounded by Charles Darwin.<br><br>(b) The breaking apart of the nucleus of an atom is called<br><br>fusion.<br><br>(c) ‘Dry ice’ is nothing but solid carbon dioxide.<br><br>(d) Telephone was invented by Graham Bell.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Among the given options, option (b) is not correct.
+
+**Ans: B.** The breaking apart of the nucleus of an atom is called</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">(UPPCS (Pre) 1994)</span>
+  </div>
+  <div class="pyq-stem">Read the following statements–<br><br>Statement (A): Ernest Rutherford said in Royal Society<br><br>that a man will never be able to get<br><br>nuclear energy.<br><br>Reason (R) : He was confident that the Law of<br><br>Einstein will fail and the volume will<br><br>not be converted to energy.<br><br>Select your answer in the code given below :<br><br>(a) Both (A) and (R) are true and (A) is the correct<br><br>explanation of (A).<br><br>(b) Both (A) and (R) are true but (R) is not the correct<br><br>explanation of (A).<br><br>(c) (A) is correct but (R) is not correct.<br><br>(d) (R) is correct but (A) is not correct.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Both given statement and reason are correct and reason (R) is the correct explanation of statement (A).
+
+**Ans: A.** Both (A) and (R) are true and (A) is the correct</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2009)</span>
+  </div>
+  <div class="pyq-stem">One of these particles is claimed to have invented which<br><br>rebut the Einstein's theory of relativity :<br><br>(a) Microwave photon (b) Neutrino<br><br>(c) Liquid crystal (d) Light emitting diode</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The two physicists Gunter Nimtz and Alfons Stahlhofen of the University of Koblenz, Germany claimed that they had propelled microwave photons faster than the speed of light.
+
+**Ans: A.** Microwave photon</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">(UPPCS (Pre) 1997)</span>
+  </div>
+  <div class="pyq-stem">Cyclotrons are used to accelerate :<br><br>(a) Neutrons (b) Protons<br><br>(c) Atoms (d) Ions</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Cyclotron is a machine used to accelerate charged particle such as alpha particles, deuteron, proton etc.
+
+**Ans: B.** Protons</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">(UPPCS (Pre) 2009)</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is the source of renewable<br><br>energy in stars?<br><br>(a) Hydrogen changes into helium<br><br>(b) Helium changes into hydrogen<br><br>(c) Decay of radioactive material<br><br>(d) Excess of oxygen which is helpful in burning and<br><br>generate energy.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Hydrogen changes into helium.
+
+**Ans: A.** Hydrogen changes into helium</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">(UPPCS (Pre) 1992)</span>
+  </div>
+  <div class="pyq-stem">What is a Nuclear Reactor?<br><br>(a) Place where atomic bomb is built<br><br>(b) Heavy water pond<br><br>(c) The emitter of U238<br><br>(d) Molecular furnace</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Molecular furnace.
+
+**Ans: D.** Molecular furnace</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">(UP RO/ARO (Pre) 2016)</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about nuclear fusion<br><br>reactors :<br><br>i. They work on the principle of fission of heavy nuclei.<br><br>ii. They usually have Tokamak design.<br><br>iii. They operate at very high temperature.<br><br>Of these<br><br>(a) Only i and iii are correct<br><br>(b) Only i and ii are correct<br><br>(c) Only ii and iii are correct<br><br>(d) All the three i, ii and iii are correct</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Nuclear fusion reactors work on the principle of fusion of two light nuclei.
+
+**Ans: C.** Only ii and iii are correct</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">(UPPCS (Pre) 1999 / I.A.S. (Pre) 1995)</span>
+  </div>
+  <div class="pyq-stem">The difference between nuclear reactor and atom bomb<br><br>is that :<br><br>(a) There is no chain reaction in nuclear reactor whereas<br><br>this happens in atom bomb.<br><br>(b) The chain reaction in nuclear reactor is controlled.<br><br>(c) The chain reaction in nuclear reactor is not controlled.<br><br>(d) Atom bomb is based on nuclear fusion whereas in<br><br>nuclear reactor, nuclear fission occurs.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The chain reaction process used in nuclear reactors and atom bombs both release vast amount of energy, but the manner in which the energy is controlled and utilized is different in both the cases.
+
+**Ans: B.** The chain reaction in nuclear reactor is controlled</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The important nuclear fuel available in India in<br><br>abundance is :<br><br>(a) Uranium (b) Thorium<br><br>(c) Iridium (d) Plutonium</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** India is one country that has an abundance of an important nuclear fuel thorium.
+
+**Ans: B.** Thorium</div>
+  </div>
+</div>

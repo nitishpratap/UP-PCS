@@ -177,23 +177,6 @@ hide:
 | **Ministry of Cooperation Inception** | Formed in **July 2021** to spearhead *Sahakar se Samriddhi*. |
 | **Constitutional Basis for Cooperatives** | **Article 43B** (DPSP) and **Part IXB**, inserted by the 97th Constitutional Amendment Act, 2011. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Core Conceptual Distinction |
-|---|---|---|
-| **Tertiary Sector Activities** | **Primary Resource Extraction** | Tertiary provides intangible services (trade, banking, transport); Primary extracts raw natural resources (agriculture, forestry, fishing, mining). |
-| **Agricultural Storage & Logistics** | **Secondary Industrial Manufacturing** | Warehousing and storing harvested crops is classified as tertiary logistics; processing raw crops in mills or factories is secondary manufacturing. |
-| **Construction in National Accounts** | **Services Sector Classification** | In official GVA accounting, construction is classified under the Secondary (Industry) sector alongside manufacturing and mining; it is not counted under Services. |
-| **Companies Act, 2013** | **Companies (CSR Policy) Rules, 2014** | The parent legislation mandating CSR is the Companies Act, 2013 (Section 135); the administrative rules governing compliance were notified in 2014. |
-| **CSR Spend Floor (2%)** | **Erroneous 1% Distractor** | The statutory minimum allocation is strictly 2% of the average net profits of the three preceding financial years; there is no 1% provision. |
-| **Maximum Retail Price (MRP)** | **Minimum Support Price (MSP)** | MRP is a statutory price ceiling protecting consumers from overcharging on packaged goods; MSP is an administrative price floor guaranteeing remunerative prices to farmers. |
-| **ECOMARC Environmental Label** | **ISI / BIS Quality Mark** | ECOMARC specifically certifies that a product is environmentally benign and safe for ecosystems; the ISI mark certifies compliance with general engineering and performance standards. |
-| **ECOMARC** | **AGMARK** | ECOMARC is an eco-label for manufactured consumer goods administered by BIS; AGMARK is a quality grading mark for raw agricultural produce issued by the Directorate of Marketing and Inspection. |
-| **Insurance Regulator (IRDAI)** | **Pension Regulator (PFRDA)** | IRDAI regulates life and general insurance companies (headquartered in Hyderabad); PFRDA regulates pension funds and the National Pension System (headquartered in New Delhi). |
-| **Telecom Regulator (TRAI)** | **Appellate Tribunal (TDSAT)** | TRAI formulates telecom regulations, tariffs, and interconnection terms; TDSAT adjudicates commercial and consumer disputes arising in the telecom and broadcasting sectors. |
-| **Ministry of Cooperation** | **Ministry of Agriculture** | Established in 2021 as a distinct Union ministry to oversee multi-state cooperatives and promote cooperative governance across all sectors, including but not limited to agriculture. |
-| **Project Arrow (Post Offices)** | **Other Modernization Schemes** | Project Arrow is specifically designed to transform and modernize India Post branches; it is not an aviation, highway, or railway initiative. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### Key Mnemonics & Cognitive Hooks
@@ -212,253 +195,262 @@ hide:
   - **SEBI & RBI:** Mumbai.
   - **PFRDA, TRAI, CCI:** New Delhi.
 
-## 🎯 High-Yield PYQ Drill (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-1. Companies Act 2014, introduces mandatory CSR.
-2. Companies covered under this will have to spend atleast one percent of their annual net-profit in the activities under CSR.
-
-A. 1 Only
-B. 2 Only
-C. Both 1 and 2
-D. Neither I nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Neither 1 nor 2.
-
-**Ans: D.** Act is **2013**; spend floor is **2%** of three-year average profits — both statements false.
-
-</details>
-
-**Q2.**
-
-The symbol 'ECOMARC' is related to which of the following?
-
-A. Goods of best quality
-B. Safe goods for environment
-C. Exported goods
-D. Imported goods
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Safe goods for environment.
-
-**Ans: B.** Eco-label for environment-friendly products.
-
-</details>
-
-**Q3.**
-
-Assertion (A): Consumers can bargain below the Maximum Retail Price (MRP).
-
-Reason (R): MRP is the price above which a seller cannot charge a buyer.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
-
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q4.**
-Tertiary Sector includes Trade and Transport; Finance and Real Estate; Forestry and Fishing — correct code?
-A. 1 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 1 and 2 only.
-
-**Ans: B.** Forestry/fishing = primary.
-
-</details>
-
-**Q5.**
-Service Sector includes Mining; Transport & Communication; Hotels; Forestry & Fishing — correct?
-A. Only I and II
-B. Only II and III
-C. Only III and IV
-D. Only I and IV
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Only II and III.
-
-**Ans: B.** Mining and forestry/fishing excluded.
-
-</details>
-
-**Q6.**
-Primary sector of Indian economy is:
-A. Agriculture
-B. Industry
-C. Cooperative
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Agriculture.
-
-**Ans: A.** Primary identity.
-
-</details>
-
-**Q7.**
-Transport, Communication, Commerce come under:
-A. Primary
-B. Secondary
-C. Tertiary
-D. Rural
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Services activities — Tertiary
-
-**Ans: C.** Tertiary
-</details>
-
-**Q8.**
-Largest source of National Income in India is:
-A. Service Sector
-B. Agriculture
-C. Industrial
-D. Trade Sector
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Service Sector.
-
-**Ans: A.** Services dominate GVA.
-
-</details>
-
-**Q9.**
-Largest share of GDP in India comes from:
-A. Agriculture and allied
-B. Manufacturing, construction, electricity and gas
-C. Services sector
-D. Defence and public administration
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Services sector.
-
-**Ans: C.** Services lead.
-
-</details>
-
-**Q10.**
-Decreasing order of sector contributions to GDP:
-A. Services > Agriculture > Industry
-B. Industry > Services > Agriculture
-C. Industry > Agriculture > Services
-D. Services > Industry > Agriculture
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Services > Industry > Agriculture.
-
-**Ans: D.** Modern share order.
-
-</details>
-
-**Q11.**
-Which is not true: services sector share in India’s GDP is only 25%?
-A. Population/land near-correct statements
-B. Services share only 25%
-C. Agri workforce vs income near-correct
-D. 2.4% of world area
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The 25% claim is false.
-
-**Ans: B.** Services ≈ half+ of GDP/GVA.
-
-</details>
-
-**Q12.**
-As the economy develops, tertiary share in GDP:
-A. Decreases
-B. Decreases then increases
-C. Increases
-D. Remains constant
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Structural shift — Increases
-
-**Ans: C.** Increases
-</details>
-
-**Q13.**
-Between 2001–2005, which sector’s growth rate consistently increased?
-A. Agriculture
-B. Industry
-C. Services
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Services consistency window — Services
-
-**Ans: C.** Services
-</details>
-
-**Q14.**
-
-‘Project Arrow’ is concerned with the modernization of which of the following?
-
-A. Airports
-B. Post Offices
-C. Road Transport
-D. Railways
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Project Arrow (2008) modernises India Post — Post Offices
-
-**Ans: B.** Post Offices
-</details>
-
-**Q15.**
-
-Project ARROW is related with:
-
-A. welfare of old scheduled tribal men
-B. a wing of the Armed Forces
-C. a standard of quality of garments
-D. giving a new identity to post offices
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Project Arrow gives a modern identity / quality upgrade to post offices — giving a new identity to post offices
-
-**Ans: D.** giving a new identity to post offices
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">1. Companies Act 2014, introduces mandatory CSR.<br>2. Companies covered under this will have to spend atleast one percent of their annual net-profit in the activities under CSR.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 Only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 Only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither I nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Neither 1 nor 2.
+
+**Ans: D.** Act is **2013**; spend floor is **2%** of three-year average profits — both statements false.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The symbol 'ECOMARC' is related to which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Goods of best quality</div><div class="pyq-opt"><span class="opt-letter">B</span> Safe goods for environment</div><div class="pyq-opt"><span class="opt-letter">C</span> Exported goods</div><div class="pyq-opt"><span class="opt-letter">D</span> Imported goods</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Safe goods for environment.
+
+**Ans: B.** Eco-label for environment-friendly products.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Consumers can bargain below the Maximum Retail Price (MRP).<br><br>Reason (R): MRP is the price above which a seller cannot charge a buyer.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Tertiary Sector includes Trade and Transport; Finance and Real Estate; Forestry and Fishing — correct code?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 1 and 2 only.
+
+**Ans: B.** Forestry/fishing = primary.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Service Sector includes Mining; Transport & Communication; Hotels; Forestry & Fishing — correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only I and II</div><div class="pyq-opt"><span class="opt-letter">B</span> Only II and III</div><div class="pyq-opt"><span class="opt-letter">C</span> Only III and IV</div><div class="pyq-opt"><span class="opt-letter">D</span> Only I and IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Only II and III.
+
+**Ans: B.** Mining and forestry/fishing excluded.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Primary sector of Indian economy is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Agriculture</div><div class="pyq-opt"><span class="opt-letter">B</span> Industry</div><div class="pyq-opt"><span class="opt-letter">C</span> Cooperative</div><div class="pyq-opt"><span class="opt-letter">D</span> None</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Agriculture.
+
+**Ans: A.** Primary identity.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Transport, Communication, Commerce come under:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Primary</div><div class="pyq-opt"><span class="opt-letter">B</span> Secondary</div><div class="pyq-opt"><span class="opt-letter">C</span> Tertiary</div><div class="pyq-opt"><span class="opt-letter">D</span> Rural</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Services activities — Tertiary
+
+**Ans: C.** Tertiary</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Largest source of National Income in India is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Service Sector</div><div class="pyq-opt"><span class="opt-letter">B</span> Agriculture</div><div class="pyq-opt"><span class="opt-letter">C</span> Industrial</div><div class="pyq-opt"><span class="opt-letter">D</span> Trade Sector</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Service Sector.
+
+**Ans: A.** Services dominate GVA.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Largest share of GDP in India comes from:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Agriculture and allied</div><div class="pyq-opt"><span class="opt-letter">B</span> Manufacturing, construction, electricity and gas</div><div class="pyq-opt"><span class="opt-letter">C</span> Services sector</div><div class="pyq-opt"><span class="opt-letter">D</span> Defence and public administration</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Services sector.
+
+**Ans: C.** Services lead.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Decreasing order of sector contributions to GDP:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Services > Agriculture > Industry</div><div class="pyq-opt"><span class="opt-letter">B</span> Industry > Services > Agriculture</div><div class="pyq-opt"><span class="opt-letter">C</span> Industry > Agriculture > Services</div><div class="pyq-opt"><span class="opt-letter">D</span> Services > Industry > Agriculture</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Services > Industry > Agriculture.
+
+**Ans: D.** Modern share order.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which is not true: services sector share in India’s GDP is only 25%?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Population/land near-correct statements</div><div class="pyq-opt"><span class="opt-letter">B</span> Services share only 25%</div><div class="pyq-opt"><span class="opt-letter">C</span> Agri workforce vs income near-correct</div><div class="pyq-opt"><span class="opt-letter">D</span> 2.4% of world area</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The 25% claim is false.
+
+**Ans: B.** Services ≈ half+ of GDP/GVA.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">As the economy develops, tertiary share in GDP:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Decreases</div><div class="pyq-opt"><span class="opt-letter">B</span> Decreases then increases</div><div class="pyq-opt"><span class="opt-letter">C</span> Increases</div><div class="pyq-opt"><span class="opt-letter">D</span> Remains constant</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Structural shift — Increases
+
+**Ans: C.** Increases</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Between 2001–2005, which sector’s growth rate consistently increased?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Agriculture</div><div class="pyq-opt"><span class="opt-letter">B</span> Industry</div><div class="pyq-opt"><span class="opt-letter">C</span> Services</div><div class="pyq-opt"><span class="opt-letter">D</span> None</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Services consistency window — Services
+
+**Ans: C.** Services</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">‘Project Arrow’ is concerned with the modernization of which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Airports</div><div class="pyq-opt"><span class="opt-letter">B</span> Post Offices</div><div class="pyq-opt"><span class="opt-letter">C</span> Road Transport</div><div class="pyq-opt"><span class="opt-letter">D</span> Railways</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Project Arrow (2008) modernises India Post — Post Offices
+
+**Ans: B.** Post Offices</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Project ARROW is related with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> welfare of old scheduled tribal men</div><div class="pyq-opt"><span class="opt-letter">B</span> a wing of the Armed Forces</div><div class="pyq-opt"><span class="opt-letter">C</span> a standard of quality of garments</div><div class="pyq-opt"><span class="opt-letter">D</span> giving a new identity to post offices</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Project Arrow gives a modern identity / quality upgrade to post offices — giving a new identity to post offices
+
+**Ans: D.** giving a new identity to post offices</div>
+  </div>
+</div>

@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 14 — Environmental Impact Assessment</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **EIA** studies a project’s likely environmental effects **before** approval. The aim is anticipatory prevention, not reactive cleanup.
@@ -66,22 +55,6 @@ hide:
 40. **Espoo Convention (1991)** covers **transboundary EIA**. The **SEA Protocol (2003)** signed at **Kiev** extends assessment to plans and programmes.
 41. **India has robust project-level EIA** under the 2006 Notification but **no standalone SEA legislation** as of current law.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Atmospheric & Pollution Milestones
-
-```
-1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
-1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
-1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
-1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
-1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
-1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
-2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
-2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
-```
-
 ## 📊 Quick Reference Grid
 
 ### Framework
@@ -102,334 +75,288 @@ hide:
 ---
 
 ![EIA Notification 2006 Statutory Stages & Categorization Architecture](images/env_ch14_01_eia_notification_2006_workflow.png)
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-## ⚡ Confused Pairs & Common Examiner Traps
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environmental Impact Assessment (EIA)** | **Strategic Environmental Assessment (SEA)** | Formal analytical process evaluating the potential ecological impacts of a specific *project* (e.g. thermal plant, highway) before sanction vs higher-level systemic evaluation applied to government *policies, plans, and programmes* | पर्यावरण प्रभाव आकलन (EIA, परियोजना स्तर) / रणनीतिक पर्यावरण आकलन (SEA, नीति स्तर) |
-| **Category A Projects** | **Category B Projects** | Large-scale developmental projects requiring mandatory full-scale EIA appraised centrally at Union level by MoEFCC on recommendations of EAC vs smaller projects appraised at State level by SEIAA on recommendations of SEAC | श्रेणी 'ए' (केंद्रीय मूल्यांकन) / श्रेणी 'ब' (राज्य मूल्यांकन) |
-| **Category B1 Projects** | **Category B2 Projects** | State-level projects that undergo complete EIA process and mandatory public hearing due to significant ecological footprint vs smaller Category B projects exempted from EIA study and public consultation, appraised solely on application summary | श्रेणी 'ब1' (EIA अनिवार्य) / श्रेणी 'ब2' (EIA से छूट) |
-| **Terms of Reference (ToR)** | **Environmental Management Plan (EMP)** | Comprehensive boundary document outlining all environmental baseline issues and studies that the project proponent must investigate vs actionable mitigation, monitoring, and institutional plan submitted in the final EIA report | संदर्भ की शर्तें (ToR, आरंभिक ढांचा) / पर्यावरण प्रबंधन योजना (EMP, शमन कार्ययोजना) |
-| **Public Hearing (Consultation)** | **Appraisal** | Statutory public stage where local affected communities and citizens voice concerns and objections to the draft EIA vs detailed scientific scrutiny of final EIA and public hearing proceedings by EAC or SEAC | जन सुनवाई (स्थानीय सहभागिता) / वैज्ञानिक मूल्यांकन (EAC/SEAC) |
-| **National Green Tribunal (NGT)** | **Appellate Authority under Air/Water Acts** | Specialized judicial tribunal established under NGT Act 2010 hearing original environmental disputes and appeals against environmental clearances (EC) vs administrative appellate authorities designated under Water Act 1974 / Air Act 1981 | राष्ट्रीय हरित अधिकरण (न्यायिक अधिकरण) / राज्य अपीलीय प्राधिकरण |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to **carrying capacity**, consider the following statements:
-
-1. Resource extraction should remain **above** the rate of regeneration. 
-2. Waste generation should stay within the environment's **absorption capacity**. 
-
-A. 2 only 
-B. Neither 1 nor 2 
-C. Both 1 and 2 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** EIA/sustainable-development crossover — anticipatory assessment assumes waste and resource use within environmental limits.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to **carrying capacity**, consider the following statements:<br><br>1. Resource extraction should remain **above** the rate of regeneration. <br>2. Waste generation should stay within the environment's **absorption capacity**.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** EIA/sustainable-development crossover — anticipatory assessment assumes waste and resource use within environmental limits.
 
 **Ans: A.** Sustainable carrying capacity requires waste within absorption limits; extraction must be **at or below** regeneration — not above.
 
-**Trap:** EIA stems often embed carrying-capacity logic — statement 2 alone is the sustainable-use rule.
+**Trap:** EIA stems often embed carrying-capacity logic — statement 2 alone is the sustainable-use rule.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-**Environmental Clearance (EC)** for large Category A projects is granted by—
-
-A. Central Pollution Control Board (CPCB) 
-B. **Ministry of Environment, Forest and Climate Change (MoEFCC)** 
-C. Central Ground Water Board (CGWB) 
-D. Botanical Survey of India (BSI) 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Parallel to CGWB≠CPCB trap — EC authority is MoEFCC/SEIAA, not pollution boards.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">**Environmental Clearance (EC)** for large Category A projects is granted by—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Central Pollution Control Board (CPCB)</div><div class="pyq-opt"><span class="opt-letter">B</span> **Ministry of Environment, Forest and Climate Change (MoEFCC)**</div><div class="pyq-opt"><span class="opt-letter">C</span> Central Ground Water Board (CGWB)</div><div class="pyq-opt"><span class="opt-letter">D</span> Botanical Survey of India (BSI)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Parallel to CGWB≠CPCB trap — EC authority is MoEFCC/SEIAA, not pollution boards.
 
 **Ans: B.** **MoEFCC** (through EAC recommendation) grants **Category A EC**; CPCB sets standards but does **not** grant clearance.
 
-**Trap:** CPCB is the default wrong pick when stems mention "central environment body."
+**Trap:** CPCB is the default wrong pick when stems mention "central environment body."</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-The **Environment (Protection) Act, 1986** — which enables EIA notification — was preceded by which chronological pair of pollution statutes?
-
-A. Air Act 1974; Water Act 1981 
-B. Water Act 1974; Air Act 1981 
-C. Water Act 1981; Air Act 1974 
-D. EPA 1986; Water Act 1974 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Environmental law stack order before EPA 1986 as EIA enabling Act.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The **Environment (Protection) Act, 1986** — which enables EIA notification — was preceded by which chronological pair of pollution statutes?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Air Act 1974; Water Act 1981</div><div class="pyq-opt"><span class="opt-letter">B</span> Water Act 1974; Air Act 1981</div><div class="pyq-opt"><span class="opt-letter">C</span> Water Act 1981; Air Act 1974</div><div class="pyq-opt"><span class="opt-letter">D</span> EPA 1986; Water Act 1974</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Environmental law stack order before EPA 1986 as EIA enabling Act.
 
 **Ans: B.** **Water Act 1974** came first, then **Air Act 1981**, then **EPA 1986** (EIA Notification 2006 derives from EPA).
 
-**Trap:** Swapping Water and Air years (**1981/1974**) is the standard chronology trap.
+**Trap:** Swapping Water and Air years (**1981/1974**) is the standard chronology trap.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-**Environmental Clearance** for Category A projects is finally granted by—
-
-A. Expert Appraisal Committee (EAC) directly 
-B. **MoEFCC on EAC recommendation** 
-C. Central Pollution Control Board 
-D. National Green Tribunal 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** EAC recommends; MoEFCC/SEIAA grants — tribunal hears appeals only.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">**Environmental Clearance** for Category A projects is finally granted by—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Expert Appraisal Committee (EAC) directly</div><div class="pyq-opt"><span class="opt-letter">B</span> **MoEFCC on EAC recommendation**</div><div class="pyq-opt"><span class="opt-letter">C</span> Central Pollution Control Board</div><div class="pyq-opt"><span class="opt-letter">D</span> National Green Tribunal</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** EAC recommends; MoEFCC/SEIAA grants — tribunal hears appeals only.
 
 **Ans: B.** **EAC/SEAC recommend**; **MoEFCC** (Category A) or **SEIAA** (Category B) **grant** EC.
 
-**Trap:** EAC **does not** issue final clearance — it only appraises and recommends.
+**Trap:** EAC **does not** issue final clearance — it only appraises and recommends.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-In India, **EIA is mandatory** for—
-
-A. Every economic activity in the country 
-B. **Projects listed in the EIA Notification Schedule** 
-C. Only foreign-investment projects 
-D. Only mining projects below 1 ha 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Project EIA applies to scheduled categories, not universal mandatory assessment.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In India, **EIA is mandatory** for—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Every economic activity in the country</div><div class="pyq-opt"><span class="opt-letter">B</span> **Projects listed in the EIA Notification Schedule**</div><div class="pyq-opt"><span class="opt-letter">C</span> Only foreign-investment projects</div><div class="pyq-opt"><span class="opt-letter">D</span> Only mining projects below 1 ha</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Project EIA applies to scheduled categories, not universal mandatory assessment.
 
 **Ans: B.** EIA applies to **listed Schedule projects** under EIA Notification 2006 — not all activities.
 
-**Trap:** "All projects" sounds environmentally strict but is **legally false** — only scheduled categories.
+**Trap:** "All projects" sounds environmentally strict but is **legally false** — only scheduled categories.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-India's **EIA Notification** is issued under powers of the—
-
-A. Water (Prevention and Control of Pollution) Act, 1974 
-B. Air (Prevention and Control of Pollution) Act, 1981 
-C. **Environment (Protection) Act, 1986** 
-D. Wildlife (Protection) Act, 1972 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** EPA 1986 is the umbrella enabling Act for EIA, ESZ, CRZ notifications — not Water/Air Acts alone.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">India's **EIA Notification** is issued under powers of the—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Water (Prevention and Control of Pollution) Act, 1974</div><div class="pyq-opt"><span class="opt-letter">B</span> Air (Prevention and Control of Pollution) Act, 1981</div><div class="pyq-opt"><span class="opt-letter">C</span> **Environment (Protection) Act, 1986**</div><div class="pyq-opt"><span class="opt-letter">D</span> Wildlife (Protection) Act, 1972</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** EPA 1986 is the umbrella enabling Act for EIA, ESZ, CRZ notifications — not Water/Air Acts alone.
 
 **Ans: C.** EIA Notification is promulgated under **EPA 1986** Section 3 powers.
 
-**Trap:** Water/Air Acts create **consent regimes** (SPCB) — they do **not** authorise project EC notification.
+**Trap:** Water/Air Acts create **consent regimes** (SPCB) — they do **not** authorise project EC notification.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-The **National Green Tribunal** was established under an Act passed in—
-
-A. 1986 
-B. 2005 
-C. **2010** 
-D. 2015 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NGT Act year distinct from EPA 1986 — tribunal operational from 2011.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The **National Green Tribunal** was established under an Act passed in—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1986</div><div class="pyq-opt"><span class="opt-letter">B</span> 2005</div><div class="pyq-opt"><span class="opt-letter">C</span> **2010**</div><div class="pyq-opt"><span class="opt-letter">D</span> 2015</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** NGT Act year distinct from EPA 1986 — tribunal operational from 2011.
 
 **Ans: C.** **NGT Act, 2010** established the tribunal; it became operational in **2011**.
 
-**Trap:** EPA **1986** followed Bhopal — NGT came **24 years later**, not the same statute.
+**Trap:** EPA **1986** followed Bhopal — NGT came **24 years later**, not the same statute.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-**Strategic Environmental Assessment (SEA)** is conducted at the level of—
-
-A. Individual factory chimneys only 
-B. **Policies, plans and programmes** 
-C. Single-tree plantation plots 
-D. Household kitchen waste only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** SEA vs EIA level — upstream PPP assessment before project-level EIA.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">**Strategic Environmental Assessment (SEA)** is conducted at the level of—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Individual factory chimneys only</div><div class="pyq-opt"><span class="opt-letter">B</span> **Policies, plans and programmes**</div><div class="pyq-opt"><span class="opt-letter">C</span> Single-tree plantation plots</div><div class="pyq-opt"><span class="opt-letter">D</span> Household kitchen waste only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** SEA vs EIA level — upstream PPP assessment before project-level EIA.
 
 **Ans: B.** SEA evaluates **policies, plans, and programmes (PPP)**; EIA is **project-level**.
 
-**Trap:** India has mandatory **project EIA** but **no standalone SEA statute** — yet SEA concept applies at PPP level internationally.
+**Trap:** India has mandatory **project EIA** but **no standalone SEA statute** — yet SEA concept applies at PPP level internationally.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-The **Espoo Convention** mainly concerns—
-
-A. Transboundary **Environmental Impact Assessment** 
-B. Whaling quotas in the Southern Ocean 
-C. Acid rain only in Europe 
-D. CFC phase-out schedules 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Espoo = transboundary EIA; SEA Protocol (Kiev 2003) extends to plans/programmes.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">The **Espoo Convention** mainly concerns—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Transboundary **Environmental Impact Assessment**</div><div class="pyq-opt"><span class="opt-letter">B</span> Whaling quotas in the Southern Ocean</div><div class="pyq-opt"><span class="opt-letter">C</span> Acid rain only in Europe</div><div class="pyq-opt"><span class="opt-letter">D</span> CFC phase-out schedules</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Espoo = transboundary EIA; SEA Protocol (Kiev 2003) extends to plans/programmes.
 
 **Ans: A.** **Espoo Convention (1991)** requires transboundary EIA for projects likely to cause significant cross-border impact.
 
-**Trap:** Gothenburg/CLRTAP = acid rain; Montreal = ODS — Espoo is **EIA-specific**.
+**Trap:** Gothenburg/CLRTAP = acid rain; Montreal = ODS — Espoo is **EIA-specific**.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to EIA, which of the following statements is/are correct?<br><br>1. EIA studies likely environmental effects before approval.<br>2. EIA’s aim is only reactive cleanup after damage is complete.<br>3. EIA is only done after project completion always.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
 
-**Q10.** With reference to EIA, which of the following statements is/are correct?
+**Logic:** Statement 1 is true. Statement 2 is false — EIA is anticipatory prevention, not post-damage cleanup. Statement 3 is false — EIA is before approval, not only after completion.</div>
+  </div>
+</div>
 
-1. EIA studies likely environmental effects before approval.
-2. EIA’s aim is only reactive cleanup after damage is complete.
-3. EIA is only done after project completion always.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. Legal base — EPA 1986 (Section 3)<br>2. First EIA Notification — 2004<br>3. Current framework — EIA Notification 2016 teaching</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
 
-A. Only 2
-B. 1 and 3
-C. Only 1
-D. 2 and 3
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Category A</td><td><span class="match-key">1</span> SEIAA / SEAC</td></tr>
+      <tr><td><span class="match-key">B</span> Category B</td><td><span class="match-key">2</span> MoEFCC / EAC</td></tr>
+      <tr><td><span class="match-key">C</span> B1</td><td><span class="match-key">3</span> Full EIA (usually with public hearing)</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-1, C-2</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
 
-**Ans: C.** Only 1 is correct.
+**Logic:** A central; B state; B1 full EIA.</div>
+  </div>
+</div>
 
-**Logic:** Statement 1 is true. Statement 2 is false — EIA is anticipatory prevention, not post-damage cleanup. Statement 3 is false — EIA is before approval, not only after completion.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Under a General Condition, a Category B project in a sensitive area is treated as Category A.<br><br>Reason (R): Category A is appraised centrally by MoEFCC through the EAC.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; central appraisal fact does not by itself define the General Condition rule.
 
-</details>
+**A/R logic:** Related but GC has its own trigger.</div>
+  </div>
+</div>
 
-**Q11.** Which of the following pairs is/are correctly matched?
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange EIA stages:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Screening → scoping → public consultation → appraisal</div><div class="pyq-opt"><span class="opt-letter">B</span> Appraisal → screening → scoping → public consultation</div><div class="pyq-opt"><span class="opt-letter">C</span> Public consultation → screening → appraisal → scoping</div><div class="pyq-opt"><span class="opt-letter">D</span> Scoping → appraisal → screening → public consultation</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Screening → scoping → public consultation → appraisal.
 
-1. Legal base — EPA 1986 (Section 3)
-2. First EIA Notification — 2004
-3. Current framework — EIA Notification 2016 teaching
+**Logic:** Four classic stages.</div>
+  </div>
+</div>
 
-A. Only 2
-B. 1 and 3
-C. Only 1
-D. 2 and 3
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to screening, which of the following statements is/are correct?<br><br>1. Screening applies to Category B only.<br>2. Scoping fixes Terms of Reference (ToR).<br>3. Screening applies to every Category A project as the first statutory filter identical to B.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 and 2.
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
-
-</details>
-
-**Q12.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. Category A | 1. SEIAA / SEAC |
-| B. Category B | 2. MoEFCC / EAC |
-| C. B1 | 3. Full EIA (usually with public hearing) |
-
-Code:
-
-A. A-3, B-1, C-2
-B. A-1, B-2, C-3
-C. A-2, B-3, C-1
-D. A-2, B-1, C-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** A-2, B-1, C-3.
-
-**Logic:** A central; B state; B1 full EIA.
-
-</details>
-
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Under a General Condition, a Category B project in a sensitive area is treated as Category A.
-
-Reason (R): Category A is appraised centrally by MoEFCC through the EAC.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; central appraisal fact does not by itself define the General Condition rule.
-
-**A/R logic:** Related but GC has its own trigger.
-
-</details>
-
-**Q14.** Arrange EIA stages:
-
-A. Screening → scoping → public consultation → appraisal
-B. Appraisal → screening → scoping → public consultation
-C. Public consultation → screening → appraisal → scoping
-D. Scoping → appraisal → screening → public consultation
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Screening → scoping → public consultation → appraisal.
-
-**Logic:** Four classic stages.
-
-</details>
-
-**Q15.** With reference to screening, which of the following statements is/are correct?
-
-1. Screening applies to Category B only.
-2. Scoping fixes Terms of Reference (ToR).
-3. Screening applies to every Category A project as the first statutory filter identical to B.
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 and 2.
-
-**Logic:** Screening is B-side teaching.
-
-</details>
+**Logic:** Screening is B-side teaching.</div>
+  </div>
+</div>

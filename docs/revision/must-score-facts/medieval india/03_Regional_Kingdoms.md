@@ -147,23 +147,6 @@ hide:
 | **Vittala Temple Complex** | Hampi (Karnataka) | Deva Raya II / Krishnadeva Raya | Vijayanagara Empire | Renowned monolithic **Stone Chariot** (*Garuda Shrine*) and 56 musical acoustic pillars |
 | **Bara Sona & Chhota Sona Masjid** | Gaur (Bengal) | Nusrat Shah & Wali Muhammad | Bengal Sultanate | Brick and terracotta architecture with carved stone facing; curved Bengali eaves (*chala*) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Firuz city (Jaunpur) | Sharqi state (Jaunpur) | City named for **Jauna Khan**; independent state by **Malik Sarwar** | फ़िरोज़ नगर / शर्की राज्य |
-| Yusuf Adil Shah | Malik Ahmad | **Bijapur** founder vs **Ahmadnagar** founder | यूसुफ आदिल / मलिक अहमद |
-| Sharqi architecture | Delhi Sultanate architecture | Jaunpur massive gateways/arches vs Delhi arch-dome-minaret idiom | शर्की स्थापत्य / सल्तनत स्थापत्य |
-| Zain-ul-Abidin | Sikandar Shah (Kashmir) | Bud Shah abolished jaziya vs temple destruction phase | ज़ैन-उल-आबिदीन / सिकंदर शाह |
-| Vijayanagara Empire | Bahmani Kingdom | Hindu south empire vs first major Deccan Muslim kingdom | विजयनगर / बहमनी |
-| Krishnadevaraya | Rama Raya | Tuluva peak (1509–29) vs regent killed Talikota 1565 | कृष्णदेवराय / राम राय |
-| Gulbarga & Bidar | Bijapur | Bahmani capitals (Gulbarga early, Bidar later) vs **Adil Shahi** centre | गुलबर्गा-बीदर / बीजापुर |
-| Riyaz-us-Salatin | Riyaz-ul-Insha | **Bengal** history vs **Gawan's letters** | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
-| Tin Darwaza (Bidar) | Teen Darwaza (Ahmedabad) | **Bidar Fort** gate vs **Ahmedabad** monumental triple gateway | तीन दरवाज़ा (बीदर) / तीन दरवाज़ा (अहमदाबाद) |
-| Battle of Talikota (1565) | Battle of Raichur (1520) | 1565 defeat vs 1520 Krishnadevaraya victory | तालीकोटा (1565) / रायचूर (1520) |
-| Kitab-i-Nauras | Amuktamalyada | Ibrahim Adil Shah II (Bijapur) vs Krishnadevaraya (Telugu) | किताब-ए-नौरस / अमुक्तमाल्यद |
-| Nayankara system | Iqta system | Vijayanagara nayaka military land grants vs Delhi Sultanate muqti | नायककारा / इक्ता |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Vijayanagara Dynasties Order: S–S–T–A**
@@ -196,25 +179,23 @@ hide:
    - **C**reated *Dar-ul-Tarjuma* (translated Mahabharata & Rajatarangini into Persian)
    - **D**eveloped Zaina Lanka artificial island in Wular Lake.
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.** With reference to Sharqi Jaunpur, which of the following statements is/are correct?
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-1. Firuz Shah founded the city in memory of cousin Jauna Khan.
-2. Malik Sarwar made it independent about 1394.
-3. Ibrahim Shah made it Siraj / Shiraz-i-Hind.
-
-A. 1 and 2
-B. 1, 2 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Statements 1, 2 and 3 are all correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Sharqi Jaunpur, which of the following statements is/are correct?<br><br>1. Firuz Shah founded the city in memory of cousin Jauna Khan.<br>2. Malik Sarwar made it independent about 1394.<br>3. Ibrahim Shah made it Siraj / Shiraz-i-Hind.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Statements 1, 2 and 3 are all correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** The Sharqi Sultanate was founded in **1394 CE** by the eunuch vizier **Malik Sarwar**, who received the title **Sultan-ush-Sharq** (King of the East) from Sultan Nasiruddin Mahmud Tughlaq during the disintegration of the Delhi Sultanate.
@@ -223,32 +204,32 @@ D. Only 1
 
 **Key Exam Takeaway / Trap:**
 - *Shiraz-i-Hind* = **Jaunpur**.
-- City founded by **Firoz Shah Tughlaq** (in memory of Jauna Khan) in 1359 CE; independent Sharqi dynasty founded by **Malik Sarwar** in 1394 CE.
+- City founded by **Firoz Shah Tughlaq** (in memory of Jauna Khan) in 1359 CE; independent Sharqi dynasty founded by **Malik Sarwar** in 1394 CE.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.** Match List-I with List-II:
-
-| List-I (State / house) | List-II (Tag) |
-|------------------------|---------------|
-| A. Vijayanagara | 1. Gulbarga → Bidar |
-| B. Bahmani | 2. Hampi; Harihara–Bukka 1336 |
-| C. Bijapur | 3. Adil Shahi; Gol Gumbaz |
-| D. Golkonda | 4. Qutb Shahi; later Hyderabad |
-
-*Row order is not the answer code.*
-
-Code:
-
-A. A-1, B-2, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-3, B-1, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (A-2, B-1, C-3, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (State / house)</th><th>List-II (Tag)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Vijayanagara</td><td><span class="match-key">1</span> Gulbarga → Bidar</td></tr>
+      <tr><td><span class="match-key">B</span> Bahmani</td><td><span class="match-key">2</span> Hampi; Harihara–Bukka 1336</td></tr>
+      <tr><td><span class="match-key">C</span> Bijapur</td><td><span class="match-key">3</span> Adil Shahi; Gol Gumbaz</td></tr>
+      <tr><td><span class="match-key">D</span> Golkonda</td><td><span class="match-key">4</span> Qutb Shahi; later Hyderabad</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*<br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (A-2, B-1, C-3, D-4)
 
 **Detailed Explanation:**
 Following the disintegration of the Bahmani Kingdom around 1489–1527 CE, five independent Deccan Sultanates arose:
@@ -259,25 +240,22 @@ Following the disintegration of the Bahmani Kingdom around 1489–1527 CE, five 
 
 **Key Exam Takeaway / Trap:**
 - The fifth sultanate was **Imad Shahi of Berar** (capital Ellichpur/Gawilgarh, founded 1490).
-- Remember the pairs: Bijapur–Adil Shahi | Ahmadnagar–Nizam Shahi | Golkonda–Qutb Shahi | Bidar–Barid Shahi | Berar–Imad Shahi.
+- Remember the pairs: Bijapur–Adil Shahi | Ahmadnagar–Nizam Shahi | Golkonda–Qutb Shahi | Bidar–Barid Shahi | Berar–Imad Shahi.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): The Battle of Talikota (1565) crippled Vijayanagara as a great power.
-
-Reason (R): A Deccan alliance killed Rama Raya and sacked Hampi.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): The Battle of Talikota (1565) crippled Vijayanagara as a great power.<br><br>Reason (R): A Deccan alliance killed Rama Raya and sacked Hampi.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** The reign of Emperor **Krishnadevaraya (1509–1529 CE)** of the Tuluva dynasty represents the cultural, literary, and military golden age of the **Vijayanagara Empire**.
@@ -286,26 +264,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Key Exam Takeaway / Trap:**
 - *Ashtadiggajas* = 8 Telugu poets in **Krishnadevaraya's court (Vijayanagara)**.
-- *Ashtapradhan* = 8-minister administrative council of **Chhatrapati Shivaji Maharaj**. Never interchange them.
+- *Ashtapradhan* = 8-minister administrative council of **Chhatrapati Shivaji Maharaj**. Never interchange them.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.** Arrange the following in chronological order:
-
-1. Bahmani founded (1347)
-2. Vijayanagara founded (1336)
-3. Talikota (1565)
-4. Sharqi independence (~1394)
-
-A. 2–1–4–3
-B. 1–2–4–3
-C. 2–4–1–3
-D. 2–1–3–4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1336 → 1347 → 1394 → 1565)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order:<br><br>1. Bahmani founded (1347)<br>2. Vijayanagara founded (1336)<br>3. Talikota (1565)<br>4. Sharqi independence (~1394)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–1–4–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1–2–4–3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–4–1–3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–1–3–4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (1336 → 1347 → 1394 → 1565)
 
 **Detailed Explanation:**
 The precise chronological sequence is:
@@ -316,25 +290,22 @@ The precise chronological sequence is:
 
 **Key Exam Takeaway / Trap:**
 - Vijayanagara (1336) was founded **11 years before** the Bahmani Kingdom (1347).
-- Both arose during the reign of Sultan **Muhammad bin Tughlaq**.
+- Both arose during the reign of Sultan **Muhammad bin Tughlaq**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.** Which of the following pairs is/are NOT correctly matched?
-
-1. Riyaz-ul-Insha — Mahmud Gawan’s letters
-2. Riyaz-us-Salatin — Bengal history
-3. Riyaz-us-Salatin — Gawan’s official letters
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1 and 2 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only pair 3 is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Riyaz-ul-Insha — Mahmud Gawan’s letters<br>2. Riyaz-us-Salatin — Bengal history<br>3. Riyaz-us-Salatin — Gawan’s official letters</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Only pair 3 is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1: Mirat-e-Sikandari — History of Gujarat (Correct):** Written by Sikandar bin Muhammad Manjhu (1611 CE), covering the Gujarat Sultans.
@@ -343,25 +314,22 @@ D. 1 and 2 only
 
 **Key Exam Takeaway / Trap:**
 - *Riyaz-us-Salatin* = Bengal.
-- *Riyaz-ul-Insha* = Mahmud Gawan (Bahmani).
+- *Riyaz-ul-Insha* = Mahmud Gawan (Bahmani).</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.** With reference to Vijayanagara dynasties, which statements is/are correct?
-
-1. Order runs Sangama → Saluva → Tuluva → Aravidu.
-2. Krishnadevaraya (1509–1529) belonged to the Tuluva house.
-3. Krishnadevaraya wrote Amuktamalyada.
-
-A. Only 1
-B. 1 and 2
-C. All 1, 2 and 3
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Vijayanagara dynasties, which statements is/are correct?<br><br>1. Order runs Sangama → Saluva → Tuluva → Aravidu.<br>2. Krishnadevaraya (1509–1529) belonged to the Tuluva house.<br>3. Krishnadevaraya wrote Amuktamalyada.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** The Vijayanagara state maintained an aggressive royal monopoly over the import of **Arabian and Persian warhorses** through Portuguese Goa and coastal ports (Honnavar, Bhatkal), as documented by Domingo Paes.
@@ -369,25 +337,22 @@ D. Only 2 and 3
 - **Statement 3 is correct:** The military-feudal structure was organized under the **Nayankara system**, where military commanders (*Amaranayakas*) were granted revenue tracts (*amaram*) in return for maintaining a fixed quota of foot-soldiers, cavalry, and war elephants.
 
 **Key Exam Takeaway / Trap:**
-- The *Nayankara* system was the Vijayanagara counterpart to the Delhi Sultanate's *Iqta* system.
+- The *Nayankara* system was the Vijayanagara counterpart to the Delhi Sultanate's *Iqta* system.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.** Consider the following statements about Bahmani administration:
-
-1. Hasan Gangu founded Bahmani as Alauddin Bahman Shah in 1347.
-2. Mahmud Gawan organised eight tarafs.
-3. Gawan was executed in 1481.
-
-A. Only 1
-B. Only 1 and 2
-C. 1, 2 and 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Bahmani administration:<br><br>1. Hasan Gangu founded Bahmani as Alauddin Bahman Shah in 1347.<br>2. Mahmud Gawan organised eight tarafs.<br>3. Gawan was executed in 1481.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** The Bahmani Kingdom was established in **1347 CE** by **Alauddin Hasan Bahman Shah** (an Afghan officer originally known as Hasan Gangu), who revolted against Muhammad bin Tughlaq.
@@ -396,57 +361,54 @@ D. 2 and 3
 
 **Key Exam Takeaway / Trap:**
 - First Bahmani capital = **Gulbarga** (1347–1424 CE).
-- Second Bahmani capital = **Bidar** (1424–1527 CE).
+- Second Bahmani capital = **Bidar** (1424–1527 CE).</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Raichur (1520) and Talikota (1565) had the same political result for Vijayanagara.
-
-Reason (R): Raichur was a Krishnadevaraya victory, while Talikota was a catastrophic defeat.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Assertion A is false, but Reason R is true)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Raichur (1520) and Talikota (1565) had the same political result for Vijayanagara.<br><br>Reason (R): Raichur was a Krishnadevaraya victory, while Talikota was a catastrophic defeat.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Assertion A is false, but Reason R is true)
 
 **Detailed Explanation:**
 - **Assertion (A) is false:** The Bahmani Kingdom did **NOT** remain a unified empire down to the 18th century. Following the unjust execution of Mahmud Gawan in 1481 CE and the weakness of later Sultans, the kingdom fragmented between 1489 and 1527 CE into **five independent Deccan Sultanates** (Ahmadnagar, Bijapur, Golkonda, Bidar, Berar).
 - **Reason (R) is true:** Chronic factional warfare raged within the Bahmani nobility between the **Deccanis** (native Indian-born Muslims and local converts) and the **Afaqis / Pardesis** (foreign newcomers from Persia, Turkey, and Central Asia), which fatally undermined imperial unity.
 
 **Key Exam Takeaway / Trap:**
-- The *Deccani* vs. *Afaqi* ethnic factionalism was the direct internal cause of the disintegration of the Bahmani state.
+- The *Deccani* vs. *Afaqi* ethnic factionalism was the direct internal cause of the disintegration of the Bahmani state.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. Ahmadnagar | 1. Barid Shahi |
-| B. Bidar | 2. Nizam Shahi |
-| C. Berar | 3. Imad Shahi |
-| D. Kitab-i-Nauras | 4. Ibrahim Adil Shah II |
-
-*Row order is not the answer code.*
-
-Code:
-
-A. A-2, B-1, C-3, D-4
-B. A-1, B-2, C-4, D-3
-C. A-2, B-3, C-1, D-4
-D. A-3, B-1, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Ahmadnagar</td><td><span class="match-key">1</span> Barid Shahi</td></tr>
+      <tr><td><span class="match-key">B</span> Bidar</td><td><span class="match-key">2</span> Nizam Shahi</td></tr>
+      <tr><td><span class="match-key">C</span> Berar</td><td><span class="match-key">3</span> Imad Shahi</td></tr>
+      <tr><td><span class="match-key">D</span> Kitab-i-Nauras</td><td><span class="match-key">4</span> Ibrahim Adil Shah II</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*<br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
 **Detailed Explanation:**
 - **A. Gol Gumbaz → 2. Bijapur:** Mausoleum of Muhammad Adil Shah (1656 CE) at Bijapur, boasting one of the largest unsupported acoustic dome spaces in the world with a famous "whispering gallery".
@@ -457,25 +419,22 @@ D. A-3, B-1, C-2, D-4
 **Key Exam Takeaway / Trap:**
 - Gol Gumbaz = **Bijapur** (Adil Shahi).
 - Charminar = **Hyderabad** (Qutb Shahi).
-- Mahmud Gawan Madrasa = **Bidar** (Bahmani).
+- Mahmud Gawan Madrasa = **Bidar** (Bahmani).</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.** With reference to Zain-ul-Abidin of Kashmir, which statements is/are correct?
-
-1. He is called Bud Shah and ruled about 1420–1470.
-2. He abolished jaziya and cow slaughter and restored temples.
-3. Sriya Bhatt was his Hindu minister; Zaina Lanka stood on Wular Lake.
-
-A. Only 1, 2 and 3
-B. 2 and 3
-C. Only 1
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Statements 1, 2 and 3 are all correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to Zain-ul-Abidin of Kashmir, which statements is/are correct?<br><br>1. He is called Bud Shah and ruled about 1420–1470.<br>2. He abolished jaziya and cow slaughter and restored temples.<br>3. Sriya Bhatt was his Hindu minister; Zaina Lanka stood on Wular Lake.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Statements 1, 2 and 3 are all correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** Zain-ul-Abidin enacted total religious reconciliation: he abolished Jizya and the cremation tax on Hindus, banned cow slaughter, and restored sacred shrines.
@@ -483,21 +442,22 @@ D. Only 1 and 2
 - **Statement 3 is correct:** He patronized the continuation of Kalhana's *Rajatarangini* by commissioning historian **Jonaraja** (Second Rajatarangini) and subsequently **Srivara** (Third Rajatarangini), bringing the historical chronicle down to his reign.
 
 **Key Exam Takeaway / Trap:**
-- Kalhana wrote *Rajatarangini* (12th c.); **Jonaraja** and **Srivara** continued it under **Zain-ul-Abidin (15th c.)**.
+- Kalhana wrote *Rajatarangini* (12th c.); **Jonaraja** and **Srivara** continued it under **Zain-ul-Abidin (15th c.)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.** Which one of the following is NOT correctly matched?
-
-A. Atala Masjid — Sharqi Jaunpur
-B. Teen Darwaza — also Bidar Fort’s only name for the same gate
-C. Tin Darwaza — Bidar Fort
-D. Lal Darwaza Masjid — Sharqi Jaunpur
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Tin Darwaza — Bidar is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Atala Masjid — Sharqi Jaunpur</div><div class="pyq-opt"><span class="opt-letter">B</span> Teen Darwaza — also Bidar Fort’s only name for the same gate</div><div class="pyq-opt"><span class="opt-letter">C</span> Tin Darwaza — Bidar Fort</div><div class="pyq-opt"><span class="opt-letter">D</span> Lal Darwaza Masjid — Sharqi Jaunpur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Tin Darwaza — Bidar is NOT correctly matched)
 
 **Detailed Explanation:**
 - **A. Dakhil Darwaza — Gaur (Correct):** Celebrated gateway in Gaur (Bengal) built by Barbak Shah.
@@ -506,25 +466,22 @@ D. Lal Darwaza Masjid — Sharqi Jaunpur
 - **D. Alai Darwaza — Delhi (Correct):** Masterpiece gateway built by Alauddin Khalji (1311 CE) at the Qutb complex.
 
 **Key Exam Takeaway / Trap:**
-- *Tin Darwaza* = **Ahmedabad (Gujarat)**.
+- *Tin Darwaza* = **Ahmedabad (Gujarat)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.** With reference to Deccan Sultanates after 1518, which statements is/are correct?
-
-1. Five states were Bijapur, Golkonda, Ahmadnagar, Bidar, and Berar.
-2. Abul Hasan Qutb Shah of Golkonda fell to Aurangzeb in 1687.
-3. Charminar belongs to Qutb Shahi Hyderabad.
-
-A. Only 2 and 3
-B. Only 1
-C. Only 1 and 2
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Statements 1, 2 and 3 are all correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Deccan Sultanates after 1518, which statements is/are correct?<br><br>1. Five states were Bijapur, Golkonda, Ahmadnagar, Bidar, and Berar.<br>2. Abul Hasan Qutb Shah of Golkonda fell to Aurangzeb in 1687.<br>3. Charminar belongs to Qutb Shahi Hyderabad.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Statements 1, 2 and 3 are all correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** The **Vitthala Temple** at Hampi represents the peak of Vijayanagara architectural virtuosity, famous for its magnificent **monolithic stone chariot** (*Garuda shrine*).
@@ -533,28 +490,22 @@ D. 1, 2 and 3
 
 **Key Exam Takeaway / Trap:**
 - Musical pillars & Stone Chariot = **Vitthala Temple at Hampi (Vijayanagara)**.
-- *Raya Gopuram* = Monumental temple gateway named after Vijayanagara Rayas.
+- *Raya Gopuram* = Monumental temple gateway named after Vijayanagara Rayas.</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.** Consider the following statements:
-
-1. Nayankara / amara is identical with Delhi Sultanate iqta practice.
-2. Nayankara is identical with Delhi Sultanate iqta.
-3. Mahanavami was a major Vijayanagara festival.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Only Statement 3 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Nayankara / amara is identical with Delhi Sultanate iqta practice.<br>2. Nayankara is identical with Delhi Sultanate iqta.<br>3. Mahanavami was a major Vijayanagara festival.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Only Statement 3 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is incorrect:** The **Nayankara system** was a **provincial military tenure system**, NOT an urban trade guild. The *Nayakas* were military generals assigned revenue tracts called *Amaram*.
@@ -563,25 +514,22 @@ D. 1 and 3
 
 **Key Exam Takeaway / Trap:**
 - *Nayankara system* = Provincial military land tenure (*Amaram*).
-- *Ayagar system* = 12 hereditary village functionaries.
+- *Ayagar system* = 12 hereditary village functionaries.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Among the regional states of this chapter, only Sharqi Jaunpur has its capital in modern Uttar Pradesh.
-
-Reason (R): Atala and Lal Darwaza mosques are classic Sharqi monuments at Jaunpur.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both A and R are true, but R is not the correct explanation of A)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Among the regional states of this chapter, only Sharqi Jaunpur has its capital in modern Uttar Pradesh.<br><br>Reason (R): Atala and Lal Darwaza mosques are classic Sharqi monuments at Jaunpur.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Both A and R are true, but R is not the correct explanation of A)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** A succession of prominent foreign travelers visited the Vijayanagara Empire across two centuries: Italian merchant **Nicolo Conti** (visited c. 1420 under Devaraya I), Persian ambassador **Abdur Razzaq** (visited c. 1443 under Devaraya II), and Portuguese travelers **Duarte Barbosa**, **Domingo Paes** (under Krishnadevaraya), and **Fernao Nuniz** (under Achyuta Deva Raya).
@@ -592,26 +540,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - Nicolo Conti = Visited under **Devaraya I** (1420 CE).
 - Abdur Razzaq = Visited under **Devaraya II** (1443 CE).
 - Domingo Paes = Visited under **Krishnadevaraya** (c. 1520 CE).
-- Fernao Nuniz = Visited under **Achyuta Deva Raya** (c. 1535 CE).
+- Fernao Nuniz = Visited under **Achyuta Deva Raya** (c. 1535 CE).</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.** Arrange Vijayanagara dynasty houses in order:
-
-1. Tuluva
-2. Sangama
-3. Aravidu
-4. Saluva
-
-A. 2–4–1–3
-B. 2–1–4–3
-C. 4–2–1–3
-D. 2–4–3–1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Sangama → Saluva → Tuluva → Aravidu)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Arrange Vijayanagara dynasty houses in order:<br><br>1. Tuluva<br>2. Sangama<br>3. Aravidu<br>4. Saluva</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–4–1–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–1–4–3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4–2–1–3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–4–3–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Sangama → Saluva → Tuluva → Aravidu)
 
 **Detailed Explanation:**
 The Vijayanagara Empire was governed successively by four distinct dynasties:
@@ -622,6 +566,6 @@ The Vijayanagara Empire was governed successively by four distinct dynasties:
 
 **Key Exam Takeaway / Trap:**
 - Remember the sequence: **Sangama → Saluva → Tuluva → Aravidu**.
-- Krishnadevaraya belonged to the **Tuluva** dynasty, NOT Sangama.
-
-</details>
+- Krishnadevaraya belonged to the **Tuluva** dynasty, NOT Sangama.</div>
+  </div>
+</div>

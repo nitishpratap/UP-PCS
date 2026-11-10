@@ -141,23 +141,6 @@ hide:
 | **UPSC Chairman** | Art. 315 | Appointed by President | **6 yrs or 65 yrs** | **President** (After binding SC inquiry on misbehaviour under Art. 317) |
 | **SPSC Chairman** | Art. 315 | Appointed by **Governor** | **6 yrs or 62 yrs** | **PRESIDENT ONLY** (After binding SC inquiry on misbehaviour under Art. 317) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Trap | Correct Concept / Fact | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
-| **Art. 32 vs Art. 226 Scope** | SC writ is for **Fundamental Rights only**; HC writ is for **FR + ordinary legal rights (wider)**. | Believing SC writ power is wider than High Court. | अनु. 32 (केवल मूल अधिकार) vs अनु. 226 (विस्तृत) |
-| **Habeas Corpus vs Mandamus** | Habeas Corpus lies against **public AND private**; Mandamus lies **only against public bodies/officials**. | Claiming Mandamus can be issued against private firms. | बंदी प्रत्यक्षीकरण (निजी भी) vs परमादेश (केवल लोक) |
-| **Estimates vs PAC Composition** | Estimates Committee has **30 members (all Lok Sabha)**; PAC has **22 members (15 LS + 7 RS)**. | Saying Estimates Committee includes Rajya Sabha members. | प्राक्कलन (30 केवल लोकसभा) vs लोक लेखा (15+7) |
-| **State PSC Appointment vs Removal** | Governor **appoints**; but **REMOVED ONLY BY THE PRESIDENT** under Art. 317. | Marking Governor as the removing authority for SPSC. | नियुक्ति: राज्यपाल; निष्कासन: राष्ट्रपति |
-| **Emergency Origin vs FR Suspension** | Emergency framework from **GOI Act 1935**; Suspension of FRs from **Weimar Germany**. | Crediting Germany with creating the emergency provisions. | आपातकाल: 1935 एक्ट; मू.अ. निलंबन: वाइमर |
-| **Non-Suspendable Rights** | **Articles 20 and 21** can **NEVER be suspended** during emergency (44th Amd 1978). | Claiming all Fundamental Rights are suspended in emergency. | अनु. 20 व 21 कभी निलंबित नहीं |
-| **Right to Property Status** | Property is a **Constitutional / Legal Right under Art. 300A**, NOT a Fundamental Right. | Trapping Property as an ordinary executive right or human right only. | संपत्ति का अधिकार (अनुच्छेद 300A) |
-| **Vice-President vs President Electors** | VP electors = **all MPs (elected + nominated)**, NO MLAs; President electors = **elected MPs + elected MLAs**. | Claiming MLAs vote in VP election. | उपराष्ट्रपति निर्वाचक मंडल (विधायक नहीं) |
-| **Rajya Sabha Dissolution** | Rajya Sabha is a **permanent body NOT subject to dissolution**; 1/3rd retire every 2 years. | Claiming President can dissolve Rajya Sabha after 6 years. | राज्यसभा कभी भंग नहीं होती |
-| **Money Bill Rajya Sabha Power** | RS has only **14 days** to make recommendations; cannot amend or reject; LS may accept/reject. | Claiming RS can reject a Money Bill. | धन विधेयक पर राज्यसभा की सीमित शक्तियां |
-| **Preamble Enforceability** | Preamble is **NON-JUSTICIABLE** (cannot be directly enforced in courts). | Claiming Preamble can be enforced like Fundamental Rights. | प्रस्तावना (गैर-न्यायप्रवर्तनीय) |
-| **8th Schedule Languages** | Contains **22 languages**; **English and Bhojpuri ARE NOT in the Eighth Schedule**. | Claiming English is an 8th Schedule language. | 8वीं अनुसूची (अंग्रेजी व भोजपुरी बाहर) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Twelve Schedules Master Mnemonic: "TEARS OF OLD PM"
@@ -193,479 +176,457 @@ hide:
 - **G (1988):** VN **G**adgil (73rd Amendment blueprint)
 
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-The concept of 'Joint Sitting of both Houses of Parliament' and 'Concurrent List' in the Indian Constitution was borrowed from the Constitution of:
-
-A. Canada
-B. Australia
-C. United Kingdom
-D. United States
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both the 'Concurrent List' (Seventh Schedule) and the provision for 'Joint Sitting of both Houses of Parliament' (Article 108) were borrowed from the Australian Constitution.
-
-</details>
-
-**Q2.**
-Which of the following pairs of source country and constitutional feature is NOT correctly matched?
-
-A. Ireland — Directive Principles of State Policy
-B. Germany (Weimar) — Suspension of Fundamental Rights during Emergency
-C. South Africa — Procedure for Amendment of the Constitution
-D. Canada — Fundamental Duties
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Fundamental Duties (Article 51A, Part IVA) were inspired by the USSR (Soviet) Constitution, incorporated by the 42nd Amendment Act 1976. Canada was the source for a Federation with a strong Centre and vesting of Residuary Powers in the Centre (Article 248).
-
-</details>
-
-**Q3.**
-With reference to the Parts of the Indian Constitution, consider the following pairs:
-1. Part IX — The Panchayats
-2. Part IXA — The Municipalities
-3. Part XI — Relations between the Union and the States
-4. Part XIVA — Tribunals
-
-Which of the pairs given above are correctly matched?
-
-A. 1, 2 and 3 only
-B. 2 and 4 only
-C. 1, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All four pairs are correctly matched. Part IX (Panchayats - 73rd Amd), Part IXA (Municipalities - 74th Amd), Part XI (Union-State relations), and Part XIVA (Tribunals - 42nd Amd).
-
-</details>
-
-**Q4.**
-Which language was added to the Eighth Schedule of the Constitution by the 21st Constitutional Amendment Act, 1967?
-
-A. Sindhi
-B. Konkani
-C. Manipuri
-D. Nepali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sindhi was added as the 15th language by the 21st Constitutional Amendment Act, 1967. Konkani, Manipuri, and Nepali were added later by the 71st Amendment (1992). Bodo, Dogri, Maithili, and Santhali were added by the 92nd Amendment (2003).
-
-</details>
-
-**Q5.**
-In which landmark judgment did a 9-judge bench of the Supreme Court rule that laws included in the Ninth Schedule after 24 April 1973 are subject to judicial review if they violate the Basic Structure?
-
-A. Shankari Prasad Case (1951)
-B. Kesavananda Bharati Case (1973)
-C. Minerva Mills Case (1980)
-D. I.R. Coelho Case (2007)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — In I.R. Coelho v. State of Tamil Nadu (2007), a 9-judge bench held that any law placed in the 9th Schedule after the date of the Kesavananda Bharati judgment (24 April 1973) is open to challenge if it violates Fundamental Rights forming part of the basic structure.
-
-</details>
-
-**Q6.**
-Under the Sixth Schedule of the Indian Constitution, special provisions for the administration of tribal areas are provided for which group of North-Eastern States?
-
-A. Assam, Nagaland, Manipur, and Mizoram
-B. Assam, Meghalaya, Tripura, and Mizoram
-C. Arunachal Pradesh, Meghalaya, Manipur, and Tripura
-D. Assam, Manipur, Meghalaya, and Nagaland
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The Sixth Schedule applies to tribal areas in four states: Assam, Meghalaya, Tripura, and Mizoram (mnemonic: AMTM). Manipur and Nagaland are NOT covered under the Sixth Schedule.
-
-</details>
-
-**Q7.**
-In the official Warrant of Precedence (Table of Precedence) of the Government of India, which two dignitaries occupy the SAME rank (Rank 6)?
-
-A. Prime Minister and Former Presidents
-B. Chief Justice of India and Speaker of Lok Sabha
-C. Cabinet Ministers and Governors of States
-D. Supreme Court Judges and Attorney General for India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both the Chief Justice of India (CJI) and the Speaker of the Lok Sabha share equal precedence at Rank 6.
-
-</details>
-
-**Q8.**
-Which of the following motions can be moved ONLY in the Lok Sabha and requires the support of at least 50 members to be admitted?
-
-1. Adjournment Motion
-2. No-Confidence Motion
-3. Censure Motion
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Both the Adjournment Motion and the No-Confidence Motion can be moved only in the Lok Sabha and require the support of at least 50 members for admission. A Censure Motion also lies only in the Lok Sabha, but does not strictly require 50 members for leave.
-
-</details>
-
-**Q9.**
-With reference to Parliamentary Committees, which committee is the LARGEST committee of the Indian Parliament and consists of members drawn EXCLUSIVELY from the Lok Sabha?
-
-A. Public Accounts Committee
-B. Estimates Committee
-C. Committee on Public Undertakings
-D. Business Advisory Committee
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The Estimates Committee is the largest committee of Parliament, consisting of 30 members, all elected from the Lok Sabha alone (no representation from the Rajya Sabha). It was set up in 1950 on the recommendation of Finance Minister John Mathai.
-
-</details>
-
-**Q10.**
-Which prerogative writ can be issued against BOTH public authorities and private individuals?
-
-A. Mandamus
-B. Quo-Warranto
-C. Habeas Corpus
-D. Prohibition
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Habeas Corpus (meaning 'to have the body of') can be issued against both public authorities and private individuals who have unlawfully detained a person. Mandamus, Prohibition, and Certiorari are not issued against private individuals.
-
-</details>
-
-**Q11.**
-The writ of 'Prohibition' is issued by a superior court to:
-
-A. A public official to compel the performance of a public duty
-B. An inferior court or tribunal to prevent it from exceeding its jurisdiction
-C. An inferior court to quash an order already passed in excess of jurisdiction
-D. A person claiming a public office without legal authority
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Prohibition is a preventive writ issued to an inferior court or tribunal to forbid it from continuing proceedings beyond its jurisdiction. Certiorari is both preventive and curative (quashing an order already passed).
-
-</details>
-
-**Q12.**
-The Chairman and members of a State Public Service Commission (SPSC) are appointed by the Governor, but they can be REMOVED from office only by the:
-
-A. Governor of the concerned State
-B. President of India on the report of the Supreme Court
-C. Chief Justice of the High Court
-D. State Legislative Assembly through an impeachment resolution
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Under Article 317, the Chairman and members of an SPSC are appointed by the Governor, but they can only be removed by the President of India on grounds of misbehaviour after an inquiry by the Supreme Court.
-
-</details>
-
-**Q13.**
-Under Article 359 of the Constitution of India, as amended by the 44th Constitutional Amendment Act, 1978, the enforcement of which Fundamental Rights CANNOT be suspended even during a National Emergency?
-
-A. Articles 14 and 19
-B. Articles 19 and 20
-C. Articles 20 and 21
-D. Articles 21 and 22
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — The 44th Constitutional Amendment Act, 1978 provided that the President cannot suspend the right to move any court for the enforcement of Fundamental Rights guaranteed under Articles 20 (protection in respect of conviction) and 21 (protection of life and personal liberty).
-
-</details>
-
-**Q14.**
-Which Directive Principle of State Policy directs the State to organize Village Panchayats as units of local self-government?
-
-A. Article 39A
-B. Article 40
-C. Article 44
-D. Article 50
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Article 40 (Gandhian principle) directs the State to organize village panchayats and endow them with necessary powers to function as units of self-government. Article 44 pertains to the Uniform Civil Code, and Article 50 to separation of judiciary from executive.
-
-</details>
-
-**Q15.**
-Which of the following bodies is NOT a constitutional body?
-
-A. Finance Commission of India
-B. Union Public Service Commission
-C. National Commission for Backward Classes (NCBC)
-D. Central Vigilance Commission (CVC)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — The Central Vigilance Commission (CVC) is a statutory body created under the CVC Act, 2003 (originally set up by executive resolution in 1964). Finance Commission (Art. 280), UPSC (Art. 315), and NCBC (Art. 338B via 102nd Amendment) are constitutional bodies.
-
-</details>
-
-**Q16.**
-By which Constitutional Amendment Act were the words 'SOCIALIST', 'SECULAR', and 'INTEGRITY' inserted into the Preamble of the Indian Constitution?
-
-A. 24th Amendment Act, 1971
-B. 42nd Amendment Act, 1976
-C. 44th Amendment Act, 1978
-D. 73rd Amendment Act, 1992
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The 42nd Constitutional Amendment Act, 1976 (known as the 'Mini-Constitution') amended the Preamble for the only time, adding the words 'Socialist', 'Secular', and 'Integrity'.
-
-</details>
-
-**Q17.**
-The 'Right to Property' was deleted from the list of Fundamental Rights and made a legal right under Article 300A by which Amendment?
-
-A. 42nd Amendment Act, 1976
-B. 44th Amendment Act, 1978
-C. 52nd Amendment Act, 1985
-D. 86th Amendment Act, 2002
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The 44th Constitutional Amendment Act, 1978 deleted Article 19(1)(f) and Article 31 (Right to Property) from Part III and inserted Article 300A in Part XII, making it a legal/constitutional right.
-
-</details>
-
-**Q18.**
-The 91st Constitutional Amendment Act, 2003 restricted the total number of Ministers, including the Prime Minister, in the Union Council of Ministers to not exceed:
-
-A. 10% of the total strength of the Lok Sabha
-B. 15% of the total strength of the Lok Sabha
-C. 20% of the total strength of the Lok Sabha
-D. 50 members in total
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The 91st Amendment Act, 2003 inserted Article 75(1A), capping the Council of Ministers at maximum 15% of the total strength of the Lok Sabha. In states, the ceiling is also 15% of the Legislative Assembly, with a minimum of 12 ministers (Article 164(1A)).
-
-</details>
-
-**Q19.**
-Which Constitutional Amendment Act discontinued the reservation/nomination of seats for the Anglo-Indian community in the Lok Sabha and State Legislative Assemblies?
-
-A. 101st Amendment Act, 2016
-B. 102nd Amendment Act, 2018
-C. 103rd Amendment Act, 2019
-D. 104th Amendment Act, 2020
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — The 104th Amendment Act, 2020 extended the reservation for SCs and STs in the Lok Sabha and State Assemblies until 2030, but chose not to extend the nomination of 2 Anglo-Indian members in the Lok Sabha (Art. 331) and 1 in Assemblies (Art. 333).
-
-</details>
-
-**Q20.**
-The 106th Constitutional Amendment Act, 2023 (Nari Shakti Vandan Adhiniyam) provides what percentage of reservation for women in the Lok Sabha and State Legislative Assemblies?
-
-A. 25%
-B. 30%
-C. 33%
-D. 50%
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — The 106th Amendment Act, 2023 provides for 33% (one-third) reservation for women in the Lok Sabha, State Legislative Assemblies, and the Legislative Assembly of NCT of Delhi for a period of 15 years, effective following delimitation.
-
-</details>
-
-**Q21.**
-Arrange the following Panchayati Raj committees in chronological order of their appointment:
-1. Ashok Mehta Committee
-2. Balwant Rai Mehta Committee
-3. L.M. Singhvi Committee
-4. G.V.K. Rao Committee
-
-Select the correct answer using the code given below:
-
-A. 2 — 1 — 4 — 3
-B. 2 — 1 — 3 — 4
-C. 1 — 2 — 4 — 3
-D. 2 — 4 — 1 — 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Chronological order: Balwant Rai Mehta Committee (1957) → Ashok Mehta Committee (1977) → G.V.K. Rao Committee (1985) → L.M. Singhvi Committee (1986).
-
-</details>
-
-**Q22.**
-The landmark 'Basic Structure Doctrine' limiting the amending power of Parliament under Article 368 was propounded by the Supreme Court in:
-
-A. Shankari Prasad Case (1951)
-B. Golaknath Case (1967)
-C. Kesavananda Bharati Case (1973)
-D. Minerva Mills Case (1980)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — In Kesavananda Bharati v. State of Kerala (24 April 1973), a 13-judge bench of the Supreme Court held by a 7:6 majority that while Parliament can amend any part of the Constitution, it cannot alter its 'Basic Structure'.
-
-</details>
-
-**Q23.**
-In which case did the Supreme Court hold that the procedure established by law under Article 21 must be 'just, fair, and reasonable', effectively importing the American concept of 'Due Process of Law'?
-
-A. A.K. Gopalan Case (1950)
-B. Maneka Gandhi Case (1978)
-C. Sunil Batra Case (1980)
-D. Kharak Singh Case (1963)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — In Maneka Gandhi v. Union of India (1978), the Supreme Court overruled the narrow view in A.K. Gopalan (1950) and ruled that the procedure depriving a person of life or liberty must be just, fair, and reasonable, introducing substantive due process into Article 21.
-
-</details>
-
-**Q24.**
-In S.R. Bommai v. Union of India (1994), the Supreme Court laid down comprehensive guidelines to prevent the arbitrary misuse of which Article?
-
-A. Article 352
-B. Article 356
-C. Article 360
-D. Article 365
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — In S.R. Bommai (1994), a 9-judge bench ruled that the proclamation of President's Rule under Article 356 is subject to judicial review, floor test in the Assembly is the only valid criterion, and Secularism is part of the basic structure.
-
-</details>
-
-**Q25.**
-Which was the FIRST state to be created on a linguistic basis in post-independence India?
-
-A. Andhra State (1953)
-B. Gujarat (1960)
-C. Maharashtra (1960)
-D. Kerala (1956)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Andhra State was formed on 1 October 1953 for Telugu-speaking people following the 56-day hunger strike and death of Potti Sreeramulu. Its initial capital was Kurnool.
-
-</details>
-
-**Q26.**
-Consider the following statements regarding the State Legislature of Uttar Pradesh:
-1. The Uttar Pradesh Legislative Assembly (Vidhan Sabha) has 403 directly elected seats.
-2. The Uttar Pradesh Legislative Council (Vidhan Parishad) consists of 100 members.
-3. Uttar Pradesh has the highest representation in both the Lok Sabha (80 seats) and the Rajya Sabha (31 seats).
-
-Which of the statements given above are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All three statements are correct. UP has 403 Vidhan Sabha seats (84 SC, 2 ST), 100 Vidhan Parishad seats, 80 Lok Sabha seats (17 SC), and 31 Rajya Sabha seats.
-
-</details>
-
-**Q27.**
-Who among the following was the Constitutional Adviser to the Constituent Assembly during the drafting of the Indian Constitution?
-
-A. Dr. B.R. Ambedkar
-B. Sir B.N. Rau
-C. Dr. K.M. Munshi
-D. S.N. Mukherjee
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Sir B.N. Rau was appointed as the Constitutional Adviser to the Constituent Assembly. He prepared the initial draft of the Constitution. Dr. B.R. Ambedkar was the Chairman of the Drafting Committee.
-
-</details>
-
-**Q28.**
-The Sarkaria Commission on Centre-State Relations was appointed in 1983. Which of the following was among its key recommendations?
-
-A. Total abolition of the office of Governor
-B. Complete abolition of All-India Services (IAS and IPS)
-C. Article 356 should be used only as a last resort in extreme cases
-D. Deletion of the Concurrent List from the Seventh Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — The Sarkaria Commission (1983–87) recommended that Article 356 must be used very sparingly as a matter of last resort, an Inter-State Council should be established under Article 263, and All-India Services should be strengthened rather than abolished.
-
-</details>
-
-**Q29.**
-Financial Emergency under Article 360 of the Constitution of India has been declared in India:
-
-A. Once during the 1962 China War
-B. Once during the 1991 balance-of-payments crisis
-C. Twice
-D. Never
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Financial Emergency under Article 360 has never been declared in India so far.
-
-</details>
-
-**Q30.**
-What is the MAXIMUM lifespan of an Ordinance promulgated by the President under Article 123 in the absence of parliamentary disapproval?
-
-A. 6 weeks
-B. 6 months
-C. 6 months and 6 weeks
-D. 1 year
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — An ordinance ceases to operate 6 weeks from the reassembly of Parliament. Since the maximum gap between two sessions of Parliament is 6 months, the maximum lifespan of an ordinance is 6 months and 6 weeks.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">The concept of 'Joint Sitting of both Houses of Parliament' and 'Concurrent List' in the Indian Constitution was borrowed from the Constitution of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Canada</div><div class="pyq-opt"><span class="opt-letter">B</span> Australia</div><div class="pyq-opt"><span class="opt-letter">C</span> United Kingdom</div><div class="pyq-opt"><span class="opt-letter">D</span> United States</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both the 'Concurrent List' (Seventh Schedule) and the provision for 'Joint Sitting of both Houses of Parliament' (Article 108) were borrowed from the Australian Constitution.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs of source country and constitutional feature is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ireland — Directive Principles of State Policy</div><div class="pyq-opt"><span class="opt-letter">B</span> Germany (Weimar) — Suspension of Fundamental Rights during Emergency</div><div class="pyq-opt"><span class="opt-letter">C</span> South Africa — Procedure for Amendment of the Constitution</div><div class="pyq-opt"><span class="opt-letter">D</span> Canada — Fundamental Duties</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Fundamental Duties (Article 51A, Part IVA) were inspired by the USSR (Soviet) Constitution, incorporated by the 42nd Amendment Act 1976. Canada was the source for a Federation with a strong Centre and vesting of Residuary Powers in the Centre (Article 248).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Parts of the Indian Constitution, consider the following pairs:<br>1. Part IX — The Panchayats<br>2. Part IXA — The Municipalities<br>3. Part XI — Relations between the Union and the States<br>4. Part XIVA — Tribunals<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All four pairs are correctly matched. Part IX (Panchayats - 73rd Amd), Part IXA (Municipalities - 74th Amd), Part XI (Union-State relations), and Part XIVA (Tribunals - 42nd Amd).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which language was added to the Eighth Schedule of the Constitution by the 21st Constitutional Amendment Act, 1967?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sindhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Konkani</div><div class="pyq-opt"><span class="opt-letter">C</span> Manipuri</div><div class="pyq-opt"><span class="opt-letter">D</span> Nepali</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sindhi was added as the 15th language by the 21st Constitutional Amendment Act, 1967. Konkani, Manipuri, and Nepali were added later by the 71st Amendment (1992). Bodo, Dogri, Maithili, and Santhali were added by the 92nd Amendment (2003).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In which landmark judgment did a 9-judge bench of the Supreme Court rule that laws included in the Ninth Schedule after 24 April 1973 are subject to judicial review if they violate the Basic Structure?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shankari Prasad Case (1951)</div><div class="pyq-opt"><span class="opt-letter">B</span> Kesavananda Bharati Case (1973)</div><div class="pyq-opt"><span class="opt-letter">C</span> Minerva Mills Case (1980)</div><div class="pyq-opt"><span class="opt-letter">D</span> I.R. Coelho Case (2007)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> In I.R. Coelho v. State of Tamil Nadu (2007), a 9-judge bench held that any law placed in the 9th Schedule after the date of the Kesavananda Bharati judgment (24 April 1973) is open to challenge if it violates Fundamental Rights forming part of the basic structure.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Under the Sixth Schedule of the Indian Constitution, special provisions for the administration of tribal areas are provided for which group of North-Eastern States?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Assam, Nagaland, Manipur, and Mizoram</div><div class="pyq-opt"><span class="opt-letter">B</span> Assam, Meghalaya, Tripura, and Mizoram</div><div class="pyq-opt"><span class="opt-letter">C</span> Arunachal Pradesh, Meghalaya, Manipur, and Tripura</div><div class="pyq-opt"><span class="opt-letter">D</span> Assam, Manipur, Meghalaya, and Nagaland</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Sixth Schedule applies to tribal areas in four states: Assam, Meghalaya, Tripura, and Mizoram (mnemonic: AMTM). Manipur and Nagaland are NOT covered under the Sixth Schedule.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In the official Warrant of Precedence (Table of Precedence) of the Government of India, which two dignitaries occupy the SAME rank (Rank 6)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Prime Minister and Former Presidents</div><div class="pyq-opt"><span class="opt-letter">B</span> Chief Justice of India and Speaker of Lok Sabha</div><div class="pyq-opt"><span class="opt-letter">C</span> Cabinet Ministers and Governors of States</div><div class="pyq-opt"><span class="opt-letter">D</span> Supreme Court Judges and Attorney General for India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both the Chief Justice of India (CJI) and the Speaker of the Lok Sabha share equal precedence at Rank 6.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following motions can be moved ONLY in the Lok Sabha and requires the support of at least 50 members to be admitted?<br><br>1. Adjournment Motion<br>2. No-Confidence Motion<br>3. Censure Motion<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both the Adjournment Motion and the No-Confidence Motion can be moved only in the Lok Sabha and require the support of at least 50 members for admission. A Censure Motion also lies only in the Lok Sabha, but does not strictly require 50 members for leave.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">With reference to Parliamentary Committees, which committee is the LARGEST committee of the Indian Parliament and consists of members drawn EXCLUSIVELY from the Lok Sabha?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Public Accounts Committee</div><div class="pyq-opt"><span class="opt-letter">B</span> Estimates Committee</div><div class="pyq-opt"><span class="opt-letter">C</span> Committee on Public Undertakings</div><div class="pyq-opt"><span class="opt-letter">D</span> Business Advisory Committee</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Estimates Committee is the largest committee of Parliament, consisting of 30 members, all elected from the Lok Sabha alone (no representation from the Rajya Sabha). It was set up in 1950 on the recommendation of Finance Minister John Mathai.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which prerogative writ can be issued against BOTH public authorities and private individuals?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mandamus</div><div class="pyq-opt"><span class="opt-letter">B</span> Quo-Warranto</div><div class="pyq-opt"><span class="opt-letter">C</span> Habeas Corpus</div><div class="pyq-opt"><span class="opt-letter">D</span> Prohibition</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Habeas Corpus (meaning 'to have the body of') can be issued against both public authorities and private individuals who have unlawfully detained a person. Mandamus, Prohibition, and Certiorari are not issued against private individuals.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The writ of 'Prohibition' is issued by a superior court to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A public official to compel the performance of a public duty</div><div class="pyq-opt"><span class="opt-letter">B</span> An inferior court or tribunal to prevent it from exceeding its jurisdiction</div><div class="pyq-opt"><span class="opt-letter">C</span> An inferior court to quash an order already passed in excess of jurisdiction</div><div class="pyq-opt"><span class="opt-letter">D</span> A person claiming a public office without legal authority</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Prohibition is a preventive writ issued to an inferior court or tribunal to forbid it from continuing proceedings beyond its jurisdiction. Certiorari is both preventive and curative (quashing an order already passed).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">The Chairman and members of a State Public Service Commission (SPSC) are appointed by the Governor, but they can be REMOVED from office only by the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Governor of the concerned State</div><div class="pyq-opt"><span class="opt-letter">B</span> President of India on the report of the Supreme Court</div><div class="pyq-opt"><span class="opt-letter">C</span> Chief Justice of the High Court</div><div class="pyq-opt"><span class="opt-letter">D</span> State Legislative Assembly through an impeachment resolution</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Under Article 317, the Chairman and members of an SPSC are appointed by the Governor, but they can only be removed by the President of India on grounds of misbehaviour after an inquiry by the Supreme Court.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Under Article 359 of the Constitution of India, as amended by the 44th Constitutional Amendment Act, 1978, the enforcement of which Fundamental Rights CANNOT be suspended even during a National Emergency?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Articles 14 and 19</div><div class="pyq-opt"><span class="opt-letter">B</span> Articles 19 and 20</div><div class="pyq-opt"><span class="opt-letter">C</span> Articles 20 and 21</div><div class="pyq-opt"><span class="opt-letter">D</span> Articles 21 and 22</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The 44th Constitutional Amendment Act, 1978 provided that the President cannot suspend the right to move any court for the enforcement of Fundamental Rights guaranteed under Articles 20 (protection in respect of conviction) and 21 (protection of life and personal liberty).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which Directive Principle of State Policy directs the State to organize Village Panchayats as units of local self-government?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 39A</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 40</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 44</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 50</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Article 40 (Gandhian principle) directs the State to organize village panchayats and endow them with necessary powers to function as units of self-government. Article 44 pertains to the Uniform Civil Code, and Article 50 to separation of judiciary from executive.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which of the following bodies is NOT a constitutional body?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Finance Commission of India</div><div class="pyq-opt"><span class="opt-letter">B</span> Union Public Service Commission</div><div class="pyq-opt"><span class="opt-letter">C</span> National Commission for Backward Classes (NCBC)</div><div class="pyq-opt"><span class="opt-letter">D</span> Central Vigilance Commission (CVC)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Central Vigilance Commission (CVC) is a statutory body created under the CVC Act, 2003 (originally set up by executive resolution in 1964). Finance Commission (Art. 280), UPSC (Art. 315), and NCBC (Art. 338B via 102nd Amendment) are constitutional bodies.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">By which Constitutional Amendment Act were the words 'SOCIALIST', 'SECULAR', and 'INTEGRITY' inserted into the Preamble of the Indian Constitution?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 24th Amendment Act, 1971</div><div class="pyq-opt"><span class="opt-letter">B</span> 42nd Amendment Act, 1976</div><div class="pyq-opt"><span class="opt-letter">C</span> 44th Amendment Act, 1978</div><div class="pyq-opt"><span class="opt-letter">D</span> 73rd Amendment Act, 1992</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The 42nd Constitutional Amendment Act, 1976 (known as the 'Mini-Constitution') amended the Preamble for the only time, adding the words 'Socialist', 'Secular', and 'Integrity'.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The 'Right to Property' was deleted from the list of Fundamental Rights and made a legal right under Article 300A by which Amendment?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 42nd Amendment Act, 1976</div><div class="pyq-opt"><span class="opt-letter">B</span> 44th Amendment Act, 1978</div><div class="pyq-opt"><span class="opt-letter">C</span> 52nd Amendment Act, 1985</div><div class="pyq-opt"><span class="opt-letter">D</span> 86th Amendment Act, 2002</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The 44th Constitutional Amendment Act, 1978 deleted Article 19(1)(f) and Article 31 (Right to Property) from Part III and inserted Article 300A in Part XII, making it a legal/constitutional right.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The 91st Constitutional Amendment Act, 2003 restricted the total number of Ministers, including the Prime Minister, in the Union Council of Ministers to not exceed:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 10% of the total strength of the Lok Sabha</div><div class="pyq-opt"><span class="opt-letter">B</span> 15% of the total strength of the Lok Sabha</div><div class="pyq-opt"><span class="opt-letter">C</span> 20% of the total strength of the Lok Sabha</div><div class="pyq-opt"><span class="opt-letter">D</span> 50 members in total</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The 91st Amendment Act, 2003 inserted Article 75(1A), capping the Council of Ministers at maximum 15% of the total strength of the Lok Sabha. In states, the ceiling is also 15% of the Legislative Assembly, with a minimum of 12 ministers (Article 164(1A)).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which Constitutional Amendment Act discontinued the reservation/nomination of seats for the Anglo-Indian community in the Lok Sabha and State Legislative Assemblies?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 101st Amendment Act, 2016</div><div class="pyq-opt"><span class="opt-letter">B</span> 102nd Amendment Act, 2018</div><div class="pyq-opt"><span class="opt-letter">C</span> 103rd Amendment Act, 2019</div><div class="pyq-opt"><span class="opt-letter">D</span> 104th Amendment Act, 2020</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The 104th Amendment Act, 2020 extended the reservation for SCs and STs in the Lok Sabha and State Assemblies until 2030, but chose not to extend the nomination of 2 Anglo-Indian members in the Lok Sabha (Art. 331) and 1 in Assemblies (Art. 333).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The 106th Constitutional Amendment Act, 2023 (Nari Shakti Vandan Adhiniyam) provides what percentage of reservation for women in the Lok Sabha and State Legislative Assemblies?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 25%</div><div class="pyq-opt"><span class="opt-letter">B</span> 30%</div><div class="pyq-opt"><span class="opt-letter">C</span> 33%</div><div class="pyq-opt"><span class="opt-letter">D</span> 50%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The 106th Amendment Act, 2023 provides for 33% (one-third) reservation for women in the Lok Sabha, State Legislative Assemblies, and the Legislative Assembly of NCT of Delhi for a period of 15 years, effective following delimitation.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q21</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Panchayati Raj committees in chronological order of their appointment:<br>1. Ashok Mehta Committee<br>2. Balwant Rai Mehta Committee<br>3. L.M. Singhvi Committee<br>4. G.V.K. Rao Committee<br><br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 — 1 — 4 — 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 — 1 — 3 — 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 — 2 — 4 — 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 — 4 — 1 — 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chronological order: Balwant Rai Mehta Committee (1957) → Ashok Mehta Committee (1977) → G.V.K. Rao Committee (1985) → L.M. Singhvi Committee (1986).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q22</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The landmark 'Basic Structure Doctrine' limiting the amending power of Parliament under Article 368 was propounded by the Supreme Court in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shankari Prasad Case (1951)</div><div class="pyq-opt"><span class="opt-letter">B</span> Golaknath Case (1967)</div><div class="pyq-opt"><span class="opt-letter">C</span> Kesavananda Bharati Case (1973)</div><div class="pyq-opt"><span class="opt-letter">D</span> Minerva Mills Case (1980)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> In Kesavananda Bharati v. State of Kerala (24 April 1973), a 13-judge bench of the Supreme Court held by a 7:6 majority that while Parliament can amend any part of the Constitution, it cannot alter its 'Basic Structure'.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q23</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">In which case did the Supreme Court hold that the procedure established by law under Article 21 must be 'just, fair, and reasonable', effectively importing the American concept of 'Due Process of Law'?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A.K. Gopalan Case (1950)</div><div class="pyq-opt"><span class="opt-letter">B</span> Maneka Gandhi Case (1978)</div><div class="pyq-opt"><span class="opt-letter">C</span> Sunil Batra Case (1980)</div><div class="pyq-opt"><span class="opt-letter">D</span> Kharak Singh Case (1963)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> In Maneka Gandhi v. Union of India (1978), the Supreme Court overruled the narrow view in A.K. Gopalan (1950) and ruled that the procedure depriving a person of life or liberty must be just, fair, and reasonable, introducing substantive due process into Article 21.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q24</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">In S.R. Bommai v. Union of India (1994), the Supreme Court laid down comprehensive guidelines to prevent the arbitrary misuse of which Article?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 352</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 356</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 360</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 365</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> In S.R. Bommai (1994), a 9-judge bench ruled that the proclamation of President's Rule under Article 356 is subject to judicial review, floor test in the Assembly is the only valid criterion, and Secularism is part of the basic structure.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q25</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which was the FIRST state to be created on a linguistic basis in post-independence India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Andhra State (1953)</div><div class="pyq-opt"><span class="opt-letter">B</span> Gujarat (1960)</div><div class="pyq-opt"><span class="opt-letter">C</span> Maharashtra (1960)</div><div class="pyq-opt"><span class="opt-letter">D</span> Kerala (1956)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Andhra State was formed on 1 October 1953 for Telugu-speaking people following the 56-day hunger strike and death of Potti Sreeramulu. Its initial capital was Kurnool.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q26</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements regarding the State Legislature of Uttar Pradesh:<br>1. The Uttar Pradesh Legislative Assembly (Vidhan Sabha) has 403 directly elected seats.<br>2. The Uttar Pradesh Legislative Council (Vidhan Parishad) consists of 100 members.<br>3. Uttar Pradesh has the highest representation in both the Lok Sabha (80 seats) and the Rajya Sabha (31 seats).<br><br>Which of the statements given above are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct. UP has 403 Vidhan Sabha seats (84 SC, 2 ST), 100 Vidhan Parishad seats, 80 Lok Sabha seats (17 SC), and 31 Rajya Sabha seats.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q27</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Who among the following was the Constitutional Adviser to the Constituent Assembly during the drafting of the Indian Constitution?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dr. B.R. Ambedkar</div><div class="pyq-opt"><span class="opt-letter">B</span> Sir B.N. Rau</div><div class="pyq-opt"><span class="opt-letter">C</span> Dr. K.M. Munshi</div><div class="pyq-opt"><span class="opt-letter">D</span> S.N. Mukherjee</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sir B.N. Rau was appointed as the Constitutional Adviser to the Constituent Assembly. He prepared the initial draft of the Constitution. Dr. B.R. Ambedkar was the Chairman of the Drafting Committee.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q28</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The Sarkaria Commission on Centre-State Relations was appointed in 1983. Which of the following was among its key recommendations?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Total abolition of the office of Governor</div><div class="pyq-opt"><span class="opt-letter">B</span> Complete abolition of All-India Services (IAS and IPS)</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 356 should be used only as a last resort in extreme cases</div><div class="pyq-opt"><span class="opt-letter">D</span> Deletion of the Concurrent List from the Seventh Schedule</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Sarkaria Commission (1983–87) recommended that Article 356 must be used very sparingly as a matter of last resort, an Inter-State Council should be established under Article 263, and All-India Services should be strengthened rather than abolished.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q29</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Financial Emergency under Article 360 of the Constitution of India has been declared in India:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Once during the 1962 China War</div><div class="pyq-opt"><span class="opt-letter">B</span> Once during the 1991 balance-of-payments crisis</div><div class="pyq-opt"><span class="opt-letter">C</span> Twice</div><div class="pyq-opt"><span class="opt-letter">D</span> Never</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Financial Emergency under Article 360 has never been declared in India so far.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q30</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">What is the MAXIMUM lifespan of an Ordinance promulgated by the President under Article 123 in the absence of parliamentary disapproval?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 6 weeks</div><div class="pyq-opt"><span class="opt-letter">B</span> 6 months</div><div class="pyq-opt"><span class="opt-letter">C</span> 6 months and 6 weeks</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 year</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> An ordinance ceases to operate 6 weeks from the reassembly of Parliament. Since the maximum gap between two sessions of Parliament is 6 months, the maximum lifespan of an ordinance is 6 months and 6 weeks.</div>
+  </div>
+</div>

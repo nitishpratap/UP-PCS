@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 5 — Agriculture, Agro-Climatic Zones, Irrigation Networks, Rural Economy and Research Institutes</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2025** | **UP Annual Budget Milestone** — State budget crosses **₹7.36 Lakh Crore**, pacing the target of becoming a **$1 Trillion Economy by 2027** | Macroeconomic scale and state fiscal priorities |
-| **2023–2024** | **Ranipur Wildlife Sanctuary (Chitrakoot)** — Notified as UP's **4th Tiger Reserve** and India's **53rd Tiger Reserve** | Core wildlife conservation & protected areas |
-| **2023** | **Ganga Expressway Execution (594 km)** — 6-lane access-controlled expressway connecting Meerut to Prayagraj via 12 districts | Critical infrastructure & logistics corridor |
-| **2023** | **UP ODOP Global Integration** — State ODOP products onboarded to ONDC and international trade pavilions | Industrial promotion & district craft branding |
-| **2022** | **Bakhira Bird Sanctuary (Sant Kabir Nagar)** — Added as UP's **10th Ramsar Wetland** (Wetland of International Importance) | Environmental geography & wetland conservation |
-| **Rolling** | **District Administrative Realignment** — 75 Districts, 18 Divisions, 17 Municipal Corporations (Shahjahanpur 17th) | State administrative architecture baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Uttar Pradesh is divided into **9 Agro-Climatic Zones** by the Planning Commission.
@@ -143,23 +132,6 @@ hide:
 | **National Botanical Research Institute (NBRI)** | **Lucknow** | CSIR (Council of Scientific & Industrial Research) | **1953** | Plant taxonomy, floriculture, phytoremediation, and herbal drug standardization. |
 | **Central Institute of Medicinal and Aromatic Plants (CIMAP)** | **Lucknow** | CSIR | **1959** | Research on aromatic crops (Mentha/Peppermint, Lemongrass, Palmarosa) and herbal extracts. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
-| :--- | :--- | :--- |
-| **CIP-SARC (Potato Centre)** | **IRRI-SARC (Rice Centre)** | CIP-SARC is at **Singna, Agra**; IRRI-SARC is at **Varanasi**. |
-| **CIP-SARC (Agra)** | **Aligarh (Lock / University Hub)** | CIP-SARC is strictly at **Agra (Singna)**; Aligarh has NO international potato centre. |
-| **IISR (Lucknow)** | **NSI (Kanpur)** | IISR (Lucknow) researches **Sugarcane agriculture**; NSI (Kanpur) teaches **Sugar technology & engineering**. |
-| **IIPR (Kanpur)** | **IIVR (Varanasi)** | IIPR is for **Pulses** at Kanpur; IIVR is for **Vegetables** at Varanasi. |
-| **IVRI (Bareilly)** | **CIRG (Mathura)** | IVRI is for **Veterinary / Avian research** at Bareilly; CIRG is specifically for **Goat research** at Mathura. |
-| **Upper Ganga Canal (1854)** | **Lower Ganga Canal (1878)** | Upper Ganga Canal takes off at **Haridwar (Bhimgoda)**; Lower Ganga Canal takes off at **Narora (Bulandshahr)**. |
-| **Sharda Canal (1928)** | **Saryu Nahar National Project (2021)** | Sharda Canal takes off from **Banbasa on Sharda**; Saryu Nahar interlinks **5 rivers across Eastern UP**. |
-| **CSAUAT (Kanpur)** | **GBPUAT (Pantnagar)** | CSAUAT (1975) is inside **present-day UP**; GBPUAT (1960) was India's 1st SAU but is now in **Uttarakhand**. |
-| **CISH (Lucknow)** | **CIMAP (Lucknow)** | CISH focuses on **Subtropical Fruits (Mango/Guava)**; CIMAP focuses on **Medicinal & Aromatic Plants (Mentha)**. |
-| **Matatila Dam (Lalitpur)** | **Parichha Dam (Jhansi)** | Both on Betwa River: Matatila is in **Lalitpur**; Parichha is in **Jhansi**. |
-| **Badua Dam (Bihar)** | **Baghelkhand Dams (UP)** | Badua Dam is in **Banka, Bihar** (NOT UP); Adwa/Sirsi/Meja are in **UP**. |
-| **Tubewell Share (~75%)** | **Canal Share (~15%)** | Tubewells are the **overwhelming #1 source**; Canals are a distant **#2**. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **9 Agro-Climatic Zones of UP**:
@@ -174,264 +146,275 @@ hide:
   - **CDRI** (Drug Research): Lucknow | **IVRI** (Veterinary): Bareilly (Izatnagar) | **CARA** (Avian): Bareilly
   - **CIRG** (Goat Research): Makhdoom (Mathura) | **IGFRI** (Grassland/Fodder): Jhansi.
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-**Q1.**
-Which State is conventionally the largest producer of sugarcane in India?
-A. Maharashtra
-B. Uttar Pradesh
-C. Karnataka
-D. Tamil Nadu
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which State is conventionally the largest producer of sugarcane in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Maharashtra</div><div class="pyq-opt"><span class="opt-letter">B</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Karnataka</div><div class="pyq-opt"><span class="opt-letter">D</span> Tamil Nadu</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP leads area and production of sugarcane; Maharashtra leads recovery/productivity narratives — don’t swap.
 
-<details>
-<summary>Show answer</summary>
+**Ans: B.** Uttar Pradesh.</div>
+  </div>
+</div>
 
-**Logic:** UP leads area and production of sugarcane; Maharashtra leads recovery/productivity narratives — don’t swap.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Uttar Pradesh is also among the top producers of which tuber crop?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only tapioca</div><div class="pyq-opt"><span class="opt-letter">B</span> Potato</div><div class="pyq-opt"><span class="opt-letter">C</span> Only sweet potato</div><div class="pyq-opt"><span class="opt-letter">D</span> Only cassava</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Potato.
 
-**Ans: B.** Uttar Pradesh.
+**Ans: B.** Potato</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Upper Ganga Canal takes off near:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Haridwar</div><div class="pyq-opt"><span class="opt-letter">B</span> Narora only</div><div class="pyq-opt"><span class="opt-letter">C</span> Kanpur</div><div class="pyq-opt"><span class="opt-letter">D</span> Varanasi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Lower Ganga Canal / Narora are separate systems — don’t merge heads.
 
-**Q2.**
-Uttar Pradesh is also among the top producers of which tuber crop?
-A. Only tapioca
-B. Potato
-C. Only sweet potato
-D. Only cassava
+**Ans: A.** Haridwar (Bhimgoda).</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Among the following districts of Bihar, which has the highest annual sugarcane production?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rohtas</div><div class="pyq-opt"><span class="opt-letter">B</span> West Champaran</div><div class="pyq-opt"><span class="opt-letter">C</span> Patna</div><div class="pyq-opt"><span class="opt-letter">D</span> Buxar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Neighbour sugarcane belt — comparative for UP western Terai cane pattern.
 
-**Logic:** Standard key matches Potato.
+**Ans: B.** West Champaran.</div>
+  </div>
+</div>
 
-**Ans: B.** Potato
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which river is called the Sorrow of Bihar and drives major canal–flood projects?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gandak</div><div class="pyq-opt"><span class="opt-letter">B</span> Kosi</div><div class="pyq-opt"><span class="opt-letter">C</span> Son</div><div class="pyq-opt"><span class="opt-letter">D</span> Punpun</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Kosi.
 
-**Q3.**
-Upper Ganga Canal takes off near:
-A. Haridwar
-B. Narora only
-C. Kanpur
-D. Varanasi
+**Ans: B.** Kosi</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Uttar Pradesh is the largest producer of which crop in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rice</div><div class="pyq-opt"><span class="opt-letter">B</span> Wheat</div><div class="pyq-opt"><span class="opt-letter">C</span> Sugarcane</div><div class="pyq-opt"><span class="opt-letter">D</span> Cotton</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP is the **largest producer of Sugarcane** in India (over 48% of national production).
 
-**Logic:** Lower Ganga Canal / Narora are separate systems — don’t merge heads.
+**Ans: C.** Sugarcane.</div>
+  </div>
+</div>
 
-**Ans: A.** Haridwar (Bhimgoda).
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The 'Upper Ganga Canal' -- one of the largest canal irrigation systems in India -- draws water from which river?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Yamuna at Agra</div><div class="pyq-opt"><span class="opt-letter">B</span> Ganga at Haridwar</div><div class="pyq-opt"><span class="opt-letter">C</span> Ghaghra at Bahraich</div><div class="pyq-opt"><span class="opt-letter">D</span> Sharda at Banbasa</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The **Upper Ganga Canal (1854)** draws water from the Ganga at Haridwar Barrage and is one of the oldest major irrigation works in British India, constructed under engineer Proby Cautley.
 
-</details>
+**Ans: B.** Ganga at Haridwar.</div>
+  </div>
+</div>
 
-**Q4.**
-Among the following districts of Bihar, which has the highest annual sugarcane production?
-A. Rohtas
-B. West Champaran
-C. Patna
-D. Buxar
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The Minimum Support Price (MSP) for agricultural crops in India is recommended by which body?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> NABARD</div><div class="pyq-opt"><span class="opt-letter">B</span> NITI Aayog</div><div class="pyq-opt"><span class="opt-letter">C</span> Commission for Agricultural Costs and Prices (CACP)</div><div class="pyq-opt"><span class="opt-letter">D</span> Food Corporation of India (FCI)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Commission for Agricultural Costs and Prices (CACP).
 
-<details>
-<summary>Show answer</summary>
+**Ans: C.** Commission for Agricultural Costs and Prices (CACP)</div>
+  </div>
+</div>
 
-**Logic:** Neighbour sugarcane belt — comparative for UP western Terai cane pattern.
-
-**Ans: B.** West Champaran.
-
-</details>
-
-**Q5.**
-Which river is called the Sorrow of Bihar and drives major canal–flood projects?
-A. Gandak
-B. Kosi
-C. Son
-D. Punpun
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Kosi.
-
-**Ans: B.** Kosi
-</details>
-
-**Q6.**
-Uttar Pradesh is the largest producer of which crop in India?
-A. Rice
-B. Wheat
-C. Sugarcane
-D. Cotton
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP is the **largest producer of Sugarcane** in India (over 48% of national production).
-
-**Ans: C.** Sugarcane.
-
-</details>
-
-**Q7.**
-The 'Upper Ganga Canal' -- one of the largest canal irrigation systems in India -- draws water from which river?
-A. Yamuna at Agra
-B. Ganga at Haridwar
-C. Ghaghra at Bahraich
-D. Sharda at Banbasa
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The **Upper Ganga Canal (1854)** draws water from the Ganga at Haridwar Barrage and is one of the oldest major irrigation works in British India, constructed under engineer Proby Cautley.
-
-**Ans: B.** Ganga at Haridwar.
-
-</details>
-
-**Q8.**
-The Minimum Support Price (MSP) for agricultural crops in India is recommended by which body?
-A. NABARD
-B. NITI Aayog
-C. Commission for Agricultural Costs and Prices (CACP)
-D. Food Corporation of India (FCI)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Commission for Agricultural Costs and Prices (CACP).
-
-**Ans: C.** Commission for Agricultural Costs and Prices (CACP)
-</details>
-
-**Q9.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Tube-wells (Nalkoop) account for approximately 74.9% of the net irrigated area in UP.
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tube-wells (Nalkoop) account for approximately 74.9% of the net irrigated area in UP.</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Tube-wells (Nalkoop)** account for approximately **74.9%** of the net irrigated area in UP.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q10.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Canals applies only to union territories and not state jurisdictions.
-B. Canals (Nahar) constitute the second largest source of irrigation in UP (~15.2%).
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Canals applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Canals (Nahar) constitute the second largest source of irrigation in UP (~15.2%).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Recognized by UNESCO under World Heritage natural criteria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Canals (Nahar)** constitute the second largest source of irrigation in UP (~**15.2%**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q11.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Private applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Private tube-wells alone irrigate over 71% of UP's cultivated farm area.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Private applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> Private tube-wells alone irrigate over 71% of UP's cultivated farm area.</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Private tube-wells** alone irrigate over 71% of UP's cultivated farm area.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q12.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Matatila applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Matatila Dam (Rani Lakshmibai Dam) is built on the Betwa River in Lalitpur district.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Matatila applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Enacted under Article 356 of the Constitution of India</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Matatila Dam (Rani Lakshmibai Dam) is built on the Betwa River in Lalitpur district.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Matatila Dam (Rani Lakshmibai Dam)** is built on the **Betwa River** in **Lalitpur district**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q13.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Rihand Dam (Govind Ballabh Pant Sagar), the largest reservoir by volume in India, is built on the Rihand River at Pipri (Sonbhadra).
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rihand Dam (Govind Ballabh Pant Sagar), the largest reservoir by volume in India, is built on the Rihand River at Pipri (Sonbhadra).</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Rihand Dam (Govind Ballabh Pant Sagar)**, the largest reservoir by volume in India, is built on the **Rihand River** at Pipri (**Sonbhadra**).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q14.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Chandauli applies only to union territories and not state jurisdictions.
-B. Chandauli district is traditionally known as the "Rice Bowl of Uttar Pradesh" (Dhan ka Katora).
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Chandauli applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Chandauli district is traditionally known as the "Rice Bowl of Uttar Pradesh" (Dhan ka Katora).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Excavated primarily in the Belan and Son River valleys</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Chandauli district** is traditionally known as the **"Rice Bowl of Uttar Pradesh"** (Dhan ka Katora).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q15.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Malihabad applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Malihabad (Lucknow) is world-renowned for its GI-tagged Dasheri Mango.
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Malihabad applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Excavated primarily in the Belan and Son River valleys</div><div class="pyq-opt"><span class="opt-letter">C</span> Malihabad (Lucknow) is world-renowned for its GI-tagged Dasheri Mango.</div><div class="pyq-opt"><span class="opt-letter">D</span> Classified under Schedule VII List II (State List)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Malihabad (Lucknow)** is world-renowned for its GI-tagged **Dasheri Mango**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>

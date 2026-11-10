@@ -158,19 +158,6 @@ hide:
 | **International Funder** | **JICA (Japan International Cooperation Agency)** | **World Bank (IBRD)** |
 | **Primary Freight Handled** | Double-stack container trains, automobiles, petroleum, chemicals | Bulk thermal coal for northern power plants, finished steel, cement, foodgrains |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Major Ports** | **Non-Major (Minor) Ports** | Administered directly by the **Central Government** (Major Port Authorities Act, 2021; Union List) vs Administered by respective **State Maritime Boards** (Concurrent List) | प्रमुख बंदरगाह (केंद्र) / गैर-प्रमुख (राज्य) |
-| **Mumbai Port** | **JNPT (Nhava Sheva)** | Historic **largest natural general cargo port** of India on Mumbai island vs Modern **largest container handling port** of India on mainland Navi Mumbai | मुंबई पोर्ट / जेएनपीटी |
-| **Kolkata Port (SMPT)** | **Chennai Port** | India's only **riverine port** situated 203 km inland on Hugli River vs India's oldest **artificial harbour** built on the open Coromandel coast | कोलकाता (नदीय) / चेन्नई (कृत्रिम) |
-| **Kandla (Deendayal)** | **Paradip** | **Tidal port in Gulf of Kutch (Gujarat)** on west coast vs **Deepwater iron-exporting port in Mahanadi delta (Odisha)** on east coast | कांडला (ज्वारीय) / पारादीप |
-| **Western DFC** | **Eastern DFC** | Runs **Dadri (UP) to JNPT (Mumbai)**; funded by **JICA (Japan)** vs Runs **Ludhiana (Punjab) to Dankuni (WB)**; funded by **World Bank** | पश्चिमी डीएफसी (जापान) / पूर्वी डीएफसी (विश्व बैंक) |
-| **Ennore (Kamarajar)** | **Tuticorin (V.O.C.)** | India's first **corporatized major port company** north of Chennai vs Historic **pearl fishing harbour** in southern Tamil Nadu | एन्नोर (निगमित) / तूतीकोरिन |
-| **North-South Corridor** | **East-West Corridor** | Connects **Srinagar (J&K) to Kanyakumari (TN)** vs Connects **Silchar (Assam) to Porbandar (Gujarat)**; intersect at **Jhansi (UP)** | उत्तर-दक्षिण / पूर्व-पश्चिम गलियारा |
-| **National Waterway 1** | **National Waterway 2** | **Ganga River** from Prayagraj to Haldia (1,620 km, longest) vs **Brahmaputra River** from Sadiya to Dhubri (891 km) | राष्ट्रीय जलमार्ग 1 / राष्ट्रीय जलमार्ग 2 |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. West Coast vs East Coast Major Ports:
@@ -204,375 +191,367 @@ hide:
 - **Largest Container Port** = **JNPT / Nhava Sheva**
 - **First Special Economic Zone Port** = **Kandla / Deendayal**
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-India’s first passenger train ran between:
-
-A. Kolkata and Hooghly in 1854
-B. Mumbai and Thane in 1853
-C. Chennai and Arcot in 1856
-D. Delhi and Meerut in 1864
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Mumbai–Thane, 1853**.
-
-**Logic:** Other early lines exist in history notes, but the first-passenger tag is 1853 Mumbai–Thane.
-
-</details>
-
-**Q2.**
-With reference to railway zone headquarters, which of the following pairs is/are correctly matched?
-
-1. North Eastern Railway — Gorakhpur
-2. South Eastern Railway — Cuttack
-3. East Central Railway — Hajipur
-
-A. 1 and 2
-B. 1 and 3
-C. Only 2
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 3 are correct.
-
-**Logic:** SER HQ is **Garden Reach, Kolkata**, not Cuttack.
-
-</details>
-
-**Q3.**
-Assertion (A): Bharatmala is a port-led development programme.
-Reason (R): Sagarmala focuses on port-led coastal economic development.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Bharatmala = **highways**; Sagarmala = **port-led**. Name-swap is the stem.
-
-</details>
-
-**Q4.**
-Golden Quadrilateral joins which set of cities?
-
-A. Delhi–Mumbai–Chennai–Kolkata
-B. Srinagar–Kanyakumari–Porbandar–Silchar
-C. Dadri–JNPT–Ludhiana–Dankuni
-D. Lucknow–Kanpur–Varanasi–Patna
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** GQ = Delhi–Mumbai–Chennai–Kolkata (~5,846 km).
-
-**Logic:** NS–EW is Srinagar–Kanyakumari / Porbandar–Silchar meeting at Jhansi.
-
-</details>
-
-**Q5.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Waterway) | List-II (Stretch / tag) |
-|---|---|
-| 1. NW-1 | A. Brahmaputra, Dhubri–Sadiya |
-| 2. NW-2 | B. Ganga, Haldia–Prayagraj |
-| 3. NW-3 | C. Godavari–Krishna / Kakinada–Puducherry |
-| 4. NW-4 | D. Kerala West Coast Canal |
-
-A. 1-B, 2-A, 3-D, 4-C
-B. 1-A, 2-B, 3-D, 4-C
-C. 1-B, 2-A, 3-C, 4-D
-D. 1-D, 2-A, 3-B, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** NW-1 Ganga; NW-2 Brahmaputra; NW-3 Kerala canal; NW-4 Godavari–Krishna.
-
-**Logic:** Row order is not the answer code. UP’s waterway fact is NW-1.
-
-</details>
-
-**Q6.**
-Amrit Bharat in the February 2023 UP framing refers to:
-
-A. 149 new railway lines in Uttar Pradesh
-B. 149 Uttar Pradesh stations listed for modernisation
-C. 149 new national waterways
-D. 149 new major ports on the Ganga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **149 UP stations** for modernisation — not new lines.
-
-**Logic:** Amrit Bharat = station upgrade programme.
-
-</details>
-
-**Q7.**
-PM Gati Shakti National Master Plan was launched in:
-
-A. September 2022
-B. October 2021
-C. December 2000
-D. January 2016
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Gati Shakti launched **13 October 2021**.
-
-**Logic:** September 2022 is **National Logistics Policy**, which complements Gati Shakti.
-
-</details>
-
-**Q8.**
-Assertion (A): Optical-fibre communication works on total internal reflection.
-Reason (R): Optical fibre transmits signals primarily by simple refraction at the core–cladding boundary without TIR.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** Fibre = **TIR**, not “simple refraction only.”
-
-</details>
-
-**Q9.**
-Which one of the following ports is on the western coast?
-
-A. Visakhapatnam
-B. Chennai
-C. Tuticorin
-D. Nhava Sheva (JNPT)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** JNPT / Nhava Sheva is western; the other three are eastern.
-
-**Logic:** One-western-among-eastern options is a standard coast stem.
-
-</details>
-
-**Q10.**
-North–South and East–West corridors meet at:
-
-A. Nagpur
-B. Jhansi
-C. Bhopal
-D. Raipur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** They meet at **Jhansi**.
-
-**Logic:** Nagpur is a distractor from other corridor / zero-mile stories.
-
-</details>
-
-**Q11.**
-With reference to the Konkan Railway, which of the following statements is/are correct?
-
-1. The corporation main line runs Roha–Mangaluru through Maharashtra–Goa–Karnataka.
-2. The Konkan Railway corporation main line enters Kerala as its defining stretch.
-3. Broad gauge is about 1676 mm.
-
-A. 1 and 2
-B. 1 and 3
-C. Only 2
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 3 are correct.
-
-**Logic:** Konkan Railway main line does **not** enter Kerala as the corporation’s defining stretch.
-
-</details>
-
-**Q12.**
-India’s first solar-powered airport is:
-
-A. Delhi
-B. Cochin
-C. Jewar
-D. Ahmedabad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Cochin** is the first solar-powered airport.
-
-**Logic:** Jewar is UP’s new greenfield international hub — different tag.
-
-</details>
-
-**Q13.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Port) | List-II (State / tag) |
-|---|---|
-| 1. Paradip | A. Tamil Nadu (VOC) |
-| 2. Tuticorin | B. Odisha |
-| 3. Kandla (Deendayal) | C. Gujarat (tidal / gulf) |
-| 4. Ennore (Kamarajar) | D. Tamil Nadu (east, near Chennai) |
-
-A. 1-B, 2-A, 3-C, 4-D
-B. 1-A, 2-B, 3-C, 4-D
-C. 1-B, 2-A, 3-D, 4-C
-D. 1-C, 2-A, 3-B, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Paradip–OD; Tuticorin–TN; Kandla–GJ; Ennore–TN east.
-
-**Logic:** Row order is not the answer code. Do not park Kandla on the east coast.
-
-</details>
-
-**Q14.**
-Uttar Pradesh has:
-
-A. Two major seaports on the Ganga
-B. No major seaport
-C. JNPT as its home major port
-D. Kandla under the state’s maritime board
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** UP has **no major seaport**; NW-1 on the Ganga is the waterway fact.
-
-**Logic:** Inland waterway ≠ major seaport.
-
-</details>
-
-**Q15.**
-City of Lakes in the tourism nickname set is:
-
-A. Jaisalmer
-B. Udaipur
-C. Jaipur
-D. Jodhpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Udaipur** = City of Lakes; Jaipur = Pink City.
-
-**Logic:** Jaisalmer desert framing is the nickname trap.
-
-</details>
-
-**Q16.**
-Assertion (A): National Highways form about 2% of India’s road length but carry about 40% of traffic.
-Reason (R): Rural roads account for most of India’s road length and are linked to PMGSY.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both are true and together explain the length-vs-traffic contrast.
-
-**A/R logic:** NH are few km but high traffic; rural roads dominate length.
-
-</details>
-
-**Q17.**
-The Motihari petroleum pipeline to Nepal terminates at:
-
-A. Kathmandu
-B. Amlekhganj
-C. Biratnagar
-D. Pokhara
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Motihari–**Amlekhganj** (Sept 2019).
-
-**Logic:** Kathmandu is the political-capital distractor.
-
-</details>
-
-**Q18.**
-New Pamban bridge is correctly described as:
-
-A. A NHAI expressway sea bridge only
-B. An RVNL vertical-lift railway sea bridge
-C. India’s first metro corridor over the sea
-D. A Sagarmala container terminal in Goa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** RVNL project; first **vertical-lift** railway sea bridge.
-
-**Logic:** Do not rebrand it as a highway-only or metro fact.
-
-</details>
-
-**Q19.**
-IWAI and the National Waterways Act are correctly paired as:
-
-A. IWAI 2016; Act created 12 major ports
-B. IWAI 1986; Act 2016 notified 111 National Waterways
-C. IWAI 2000; Act 2021 created PMGSY
-D. IWAI 1995; Act 1995 created NHAI
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** IWAI **1986**; NW Act **2016** → **111** waterways.
-
-**Logic:** NHAI 1995 and PMGSY 2000 are road facts, not IWAI.
-
-</details>
-
-**Q20.**
-Consider the following statements:
-
-1. Harbour is sheltered water; port is harbour plus cargo facilities.
-2. About 95% of India’s trade by volume moves by sea.
-3. Incredible India is the Ministry of Tourism brand; ITDC dates from 1966.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three are correct chapter close-out facts.
-
-**Logic:** Transport vs communication, sea-trade share, and tourism brand tags often appear as mixed stems.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">India’s first passenger train ran between:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kolkata and Hooghly in 1854</div><div class="pyq-opt"><span class="opt-letter">B</span> Mumbai and Thane in 1853</div><div class="pyq-opt"><span class="opt-letter">C</span> Chennai and Arcot in 1856</div><div class="pyq-opt"><span class="opt-letter">D</span> Delhi and Meerut in 1864</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mumbai–Thane, 1853**.
+
+**Logic:** Other early lines exist in history notes, but the first-passenger tag is 1853 Mumbai–Thane.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to railway zone headquarters, which of the following pairs is/are correctly matched?<br><br>1. North Eastern Railway — Gorakhpur<br>2. South Eastern Railway — Cuttack<br>3. East Central Railway — Hajipur</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** SER HQ is **Garden Reach, Kolkata**, not Cuttack.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Bharatmala is a port-led development programme.<br>Reason (R): Sagarmala focuses on port-led coastal economic development.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Bharatmala = **highways**; Sagarmala = **port-led**. Name-swap is the stem.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Golden Quadrilateral joins which set of cities?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Delhi–Mumbai–Chennai–Kolkata</div><div class="pyq-opt"><span class="opt-letter">B</span> Srinagar–Kanyakumari–Porbandar–Silchar</div><div class="pyq-opt"><span class="opt-letter">C</span> Dadri–JNPT–Ludhiana–Dankuni</div><div class="pyq-opt"><span class="opt-letter">D</span> Lucknow–Kanpur–Varanasi–Patna</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> GQ = Delhi–Mumbai–Chennai–Kolkata (~5,846 km).
+
+**Logic:** NS–EW is Srinagar–Kanyakumari / Porbandar–Silchar meeting at Jhansi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Waterway)</th><th>List-II (Stretch / tag)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> NW-1</td><td><span class="match-key">A</span> Brahmaputra, Dhubri–Sadiya</td></tr>
+      <tr><td><span class="match-key">2</span> NW-2</td><td><span class="match-key">B</span> Ganga, Haldia–Prayagraj</td></tr>
+      <tr><td><span class="match-key">3</span> NW-3</td><td><span class="match-key">C</span> Godavari–Krishna / Kakinada–Puducherry</td></tr>
+      <tr><td><span class="match-key">4</span> NW-4</td><td><span class="match-key">D</span> Kerala West Coast Canal</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-B, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> NW-1 Ganga; NW-2 Brahmaputra; NW-3 Kerala canal; NW-4 Godavari–Krishna.
+
+**Logic:** Row order is not the answer code. UP’s waterway fact is NW-1.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Amrit Bharat in the February 2023 UP framing refers to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 149 new railway lines in Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> 149 Uttar Pradesh stations listed for modernisation</div><div class="pyq-opt"><span class="opt-letter">C</span> 149 new national waterways</div><div class="pyq-opt"><span class="opt-letter">D</span> 149 new major ports on the Ganga</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 149 UP stations** for modernisation — not new lines.
+
+**Logic:** Amrit Bharat = station upgrade programme.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">PM Gati Shakti National Master Plan was launched in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> September 2022</div><div class="pyq-opt"><span class="opt-letter">B</span> October 2021</div><div class="pyq-opt"><span class="opt-letter">C</span> December 2000</div><div class="pyq-opt"><span class="opt-letter">D</span> January 2016</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Gati Shakti launched **13 October 2021**.
+
+**Logic:** September 2022 is **National Logistics Policy**, which complements Gati Shakti.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Optical-fibre communication works on total internal reflection.<br>Reason (R): Optical fibre transmits signals primarily by simple refraction at the core–cladding boundary without TIR.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** Fibre = **TIR**, not “simple refraction only.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which one of the following ports is on the western coast?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Visakhapatnam</div><div class="pyq-opt"><span class="opt-letter">B</span> Chennai</div><div class="pyq-opt"><span class="opt-letter">C</span> Tuticorin</div><div class="pyq-opt"><span class="opt-letter">D</span> Nhava Sheva (JNPT)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> JNPT / Nhava Sheva is western; the other three are eastern.
+
+**Logic:** One-western-among-eastern options is a standard coast stem.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">North–South and East–West corridors meet at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nagpur</div><div class="pyq-opt"><span class="opt-letter">B</span> Jhansi</div><div class="pyq-opt"><span class="opt-letter">C</span> Bhopal</div><div class="pyq-opt"><span class="opt-letter">D</span> Raipur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> They meet at **Jhansi**.
+
+**Logic:** Nagpur is a distractor from other corridor / zero-mile stories.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to the Konkan Railway, which of the following statements is/are correct?<br><br>1. The corporation main line runs Roha–Mangaluru through Maharashtra–Goa–Karnataka.<br>2. The Konkan Railway corporation main line enters Kerala as its defining stretch.<br>3. Broad gauge is about 1676 mm.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** Konkan Railway main line does **not** enter Kerala as the corporation’s defining stretch.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">India’s first solar-powered airport is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Delhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Cochin</div><div class="pyq-opt"><span class="opt-letter">C</span> Jewar</div><div class="pyq-opt"><span class="opt-letter">D</span> Ahmedabad</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cochin** is the first solar-powered airport.
+
+**Logic:** Jewar is UP’s new greenfield international hub — different tag.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Port)</th><th>List-II (State / tag)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Paradip</td><td><span class="match-key">A</span> Tamil Nadu (VOC)</td></tr>
+      <tr><td><span class="match-key">2</span> Tuticorin</td><td><span class="match-key">B</span> Odisha</td></tr>
+      <tr><td><span class="match-key">3</span> Kandla (Deendayal)</td><td><span class="match-key">C</span> Gujarat (tidal / gulf)</td></tr>
+      <tr><td><span class="match-key">4</span> Ennore (Kamarajar)</td><td><span class="match-key">D</span> Tamil Nadu (east, near Chennai)</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-C, 2-A, 3-B, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Paradip–OD; Tuticorin–TN; Kandla–GJ; Ennore–TN east.
+
+**Logic:** Row order is not the answer code. Do not park Kandla on the east coast.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Uttar Pradesh has:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Two major seaports on the Ganga</div><div class="pyq-opt"><span class="opt-letter">B</span> No major seaport</div><div class="pyq-opt"><span class="opt-letter">C</span> JNPT as its home major port</div><div class="pyq-opt"><span class="opt-letter">D</span> Kandla under the state’s maritime board</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> UP has **no major seaport**; NW-1 on the Ganga is the waterway fact.
+
+**Logic:** Inland waterway ≠ major seaport.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">City of Lakes in the tourism nickname set is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jaisalmer</div><div class="pyq-opt"><span class="opt-letter">B</span> Udaipur</div><div class="pyq-opt"><span class="opt-letter">C</span> Jaipur</div><div class="pyq-opt"><span class="opt-letter">D</span> Jodhpur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Udaipur** = City of Lakes; Jaipur = Pink City.
+
+**Logic:** Jaisalmer desert framing is the nickname trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): National Highways form about 2% of India’s road length but carry about 40% of traffic.<br>Reason (R): Rural roads account for most of India’s road length and are linked to PMGSY.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true and together explain the length-vs-traffic contrast.
+
+**A/R logic:** NH are few km but high traffic; rural roads dominate length.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The Motihari petroleum pipeline to Nepal terminates at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kathmandu</div><div class="pyq-opt"><span class="opt-letter">B</span> Amlekhganj</div><div class="pyq-opt"><span class="opt-letter">C</span> Biratnagar</div><div class="pyq-opt"><span class="opt-letter">D</span> Pokhara</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Motihari–**Amlekhganj** (Sept 2019).
+
+**Logic:** Kathmandu is the political-capital distractor.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">New Pamban bridge is correctly described as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A NHAI expressway sea bridge only</div><div class="pyq-opt"><span class="opt-letter">B</span> An RVNL vertical-lift railway sea bridge</div><div class="pyq-opt"><span class="opt-letter">C</span> India’s first metro corridor over the sea</div><div class="pyq-opt"><span class="opt-letter">D</span> A Sagarmala container terminal in Goa</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> RVNL project; first **vertical-lift** railway sea bridge.
+
+**Logic:** Do not rebrand it as a highway-only or metro fact.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">IWAI and the National Waterways Act are correctly paired as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> IWAI 2016; Act created 12 major ports</div><div class="pyq-opt"><span class="opt-letter">B</span> IWAI 1986; Act 2016 notified 111 National Waterways</div><div class="pyq-opt"><span class="opt-letter">C</span> IWAI 2000; Act 2021 created PMGSY</div><div class="pyq-opt"><span class="opt-letter">D</span> IWAI 1995; Act 1995 created NHAI</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> IWAI **1986**; NW Act **2016** → **111** waterways.
+
+**Logic:** NHAI 1995 and PMGSY 2000 are road facts, not IWAI.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Harbour is sheltered water; port is harbour plus cargo facilities.<br>2. About 95% of India’s trade by volume moves by sea.<br>3. Incredible India is the Ministry of Tourism brand; ITDC dates from 1966.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three are correct chapter close-out facts.
+
+**Logic:** Transport vs communication, sea-trade share, and tourism brand tags often appear as mixed stems.</div>
+  </div>
+</div>

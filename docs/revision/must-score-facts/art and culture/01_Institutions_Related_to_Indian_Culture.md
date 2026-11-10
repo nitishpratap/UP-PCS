@@ -154,23 +154,6 @@ hide:
 | **Nalanda University (New)** | **2010** | Rajgir, Bihar | International university under **Ministry of External Affairs (MEA)** |
 | **Gyan Bharatam Mission** | **2024–31**| New Delhi | Central Sector mission for survey, digitization, and preservation of manuscripts |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Sir William Jones** | **Warren Hastings** | Sir William Jones = Actual **founder and first President** of the Asiatic Society (1784); Warren Hastings = Governor-General who **declined the presidency** in Jones's favor | विलियम जोन्स (संस्थापक-अध्यक्ष) / वारेन हेस्टिंग्स (अध्यक्षता अस्वीकार की) |
-| **Indian Museum (Kolkata)** | **National Museum (New Delhi)**| Indian Museum = **1814** (oldest multipurpose museum, founded by Nathaniel Wallich); National Museum = **1949** (established at New Delhi after independence) | भारतीय संग्रहालय (कोलकाता 1814) / राष्ट्रीय संग्रहालय (दिल्ली 1949) |
-| **Salar Jung Museum** | **National Museum** | Salar Jung Museum is located in **Hyderabad, Telangana** (Salar Jung III collection); National Museum is in **New Delhi** | सालार जंग (हैदराबाद) / राष्ट्रीय संग्रहालय (नई दिल्ली) |
-| **Takshashila (Taxila)** | **Nalanda** | Takshashila = Located in **Rawalpindi, Pakistan** (decentralized master-teacher schools, ~6th BCE); Nalanda = Located in **Bihar** (formal centralized residential monastic campus, 5th CE) | तक्षशिला (पाकिस्तान, विकेंद्रीकृत) / नालंदा (बिहार, केंद्रीय विश्वविद्यालय) |
-| **Nalanda Destroyer** | **Somnath Destroyer** | Nalanda was burned down in ~1193 CE by **Ikhtiyar-ud-din Muhammad Bakhtiyar Khalji**; Somnath temple was raided in 1026 CE by **Mahmud of Ghazni** | बख्तियार खिलजी (नालंदा विध्वंसक) / महमूद गज़नवी (सोमनाथ) |
-| **Kumaragupta I (Nalanda)** | **Dharmapala (Vikramashila)**| Nalanda was founded in the 5th century by Gupta Emperor **Kumaragupta I**; Vikramashila was founded in the late 8th century by Pala Emperor **Dharmapala** | कुमारगुप्त प्रथम (नालंदा) / धर्मपाल (विक्रमशिला व सोमपुर) |
-| **Shilabhadra** | **Atisa Dipankara Srijnana** | Shilabhadra = Venerable abbot-philosopher of **Nalanda** who taught Chinese pilgrim Hiuen Tsang; Atisa Dipankara = Renowned chancellor of **Vikramashila** who reformed Buddhism in Tibet | शीलभद्र (नालंदा कुलपति) / अतीश दीपांकर (विक्रमशिला आचार्य) |
-| **Valabhi (Gujarat)** | **Nalanda (Bihar)** | Valabhi = Premier seat of **Hinayana Buddhism** and secular civil law in Saurashtra; Nalanda = Premier seat of **Mahayana Buddhism** and sacred philosophy in Bihar | वल्लभी (हीनयान व प्रशासन) / नालंदा (महायान व दर्शन) |
-| **Calcutta Madrasa (1780)** | **Sanskrit College Banaras (1791)**| Calcutta Madrasa = Founded by **Warren Hastings** for Islamic law and Arabic/Persian; Sanskrit College Banaras = Founded by **Jonathan Duncan** for Hindu laws and literature | कलकत्ता मदरसा (हेस्टिंग्स 1780) / संस्कृत कॉलेज (जोनाथन डंकन 1791) |
-| **Fort William College (1800)**| **Asiatic Society (1784)** | Fort William College = Established by **Lord Wellesley** to train British civil servants in Indian languages; Asiatic Society = Founded by **Sir William Jones** for Indological research | फोर्ट विलियम (वेलेस्ली / प्रशासनिक भाषा प्रशिक्षण) / एशियाटिक सोसाइटी (जोन्स / प्राच्य शोध) |
-| **New Nalanda University Ministry**| **ASI Ministry** | New Nalanda University sits under the **Ministry of External Affairs (MEA)**; ASI and the 3 National Academies sit under the **Ministry of Culture** | नालंदा विश्वविद्यालय (विदेश मंत्रालय) / ASI व अकादमियां (संस्कृति मंत्रालय) |
-| **Bhandarkar Institute (BORI)**| **Asiatic Society** | BORI is in **Pune, Maharashtra** (founded 1917; Critical Edition of Mahabharata); Asiatic Society is in **Kolkata** (founded 1784) | भांडारकर संस्थान (पुणे) / एशियाटिक सोसाइटी (कोलकाता) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Ancient Universities of India — North-to-East Mnemonic: `T-V-N-V-O-J`
@@ -195,284 +178,239 @@ hide:
 - **C**unningham = **C**reator (Founder of ASI in 1861, 'Father of Indian Archaeology').
 - **M**arshall = **M**odernizer (Excavated Mohenjo-daro/Harappa under Curzon in 1920s).
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?
-
-1. Yuva Puraskar was announced in 23 Indian languages.
-2. There is no Yuva Puraskar in Dogri this year.
-
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Sahitya Akademi press note, 18 June 2025: 23 writers; no Dogri award.
-
-</details>
-
-**Q2.**
-
-Who is the author of the novel **"All the Lives We Never Lived"**, which received the Sahitya Akademi Award 2022?
-
-A. Anita Desai
-B. Anuradha Roy
-C. Shobha De
-D. Sudha Murthy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Anuradha Roy.**
-
-</details>
-
-**Q3.**
-
-Which one of the famous buildings of New Delhi has been converted into the Prime Ministers' Museum?
-
-A. Vigyan Bhavan
-B. India Habitat Centre
-C. Teen Murti Bhavan
-D. Talkatora Stadium
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Teen Murti Bhavan** (Pradhanmantri Sangrahalaya).
-
-</details>
-
-**Q4.**
-
-Who was the founder of the 'Asiatic Society of Bengal'?
-
-A. Jonathan Duncan
-B. Sir William Jones
-C. Warren Hastings
-D. William Bentinck
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Jones, 1784. Duncan = Benares Sanskrit College 1791; Hastings declined Presidentship.
-
-</details>
-
-**Q5.**
-
-In August, 2020 Railway Museum in India was dedicated to the nation at which of the following places?
-
-A. Hubballi
-B. Mysore
-C. Silvasa
-D. Chittaranjan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Hubballi.** Not the 1977 National Rail Museum, Delhi.
-
-</details>
-
-**Q6.**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
-
-**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty — his orientalism is a true but parallel fact, not the causal explanation.
-
-</details>
-
-**Q7.**
-
-Which of the following is the oldest museum in India?
-
-A. National Museum, New Delhi
-B. Indian Museum, Kolkata
-C. Salar Jung Museum, Hyderabad
-D. Government Museum, Chennai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Indian Museum, Kolkata, 1814.**
-
-</details>
-
-**Q8.**
-
-The Archaeological Survey of India was founded in:
-
-A. 1858
-B. 1861
-C. 1872
-D. 1902
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1861**; first DG Alexander Cunningham.
-
-</details>
-
-**Q9.**
-
-Who among the following destroyed Nalanda Mahavihara?
-
-A. Mahmud of Ghazni
-B. Muhammad Bakhtiyar Khilji
-C. Iltutmish
-D. Alauddin Khilji
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Bakhtiyar Khilji, ~1193.**
-
-</details>
-
-**Q10.**
-
-Nalanda Mahavihara was declared a UNESCO World Heritage Site in:
-
-A. 2010
-B. 2014
-C. 2016
-D. 2018
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 2016.** 2010 = Nalanda University Act (different campus, MEA).
-
-</details>
-
-**Q11.** With reference to the Asiatic Society of Bengal, which of the following statements is/are correct?
-
-1. It was founded at Calcutta in 1784 by Sir William Jones.
-2. Warren Hastings accepted the Presidentship of the Society at its foundation.
-3. Jonathan Duncan founded the Asiatic Society, not the Benares Sanskrit College.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only statement 1 is correct.
-
-**Logic:** Jones founded the Society in 1784. Hastings declined the Presidentship. Duncan founded Benares Sanskrit College in 1791.
-
-</details>
-
-**Q12.** Consider the following pairs:
-
-| Institution | Fact |
-|-------------|------|
-| 1. Fort William College | Set up in 1800 by Lord Wellesley |
-| 2. Sanskrit College, Calcutta | Opened in 1824 |
-| 3. Bhandarkar Oriental Research Institute | Founded at Pune in 1917 |
-| 4. Kangri Gurukul | Founded at Haridwar in 1857 by Vivekananda |
-
-Which of the pairs given above are correctly matched?
-
-A. 2, 3 and 4 only
-B. 1 and 4 only
-C. 1, 2 and 3 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Pairs 1, 2 and 3 are correct.
-
-**Logic:** Kangri Gurukul was founded in 1902 in the Dayananda / Arya Samaj line, not by Vivekananda in 1857.
-
-</details>
-
-**Q13.** Arrange the following in chronological order of foundation:
-
-1. Asiatic Society of Bengal
-2. Benares Sanskrit College
-3. Fort William College
-4. Sanskrit College, Calcutta
-
-Select the correct answer from the code given below:
-
-A. 1–3–2–4
-B. 2–1–3–4
-C. 1–2–3–4
-D. 1–2–4–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** The order is 1784 → 1791 → 1800 → 1824.
-
-**Logic:** Asiatic Society 1784, Benares Sanskrit College 1791, Fort William 1800, Calcutta Sanskrit College 1824.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): The new Nalanda University created by the Act of 2010 functions under the Ministry of Culture.
-
-Reason (R): The archaeological site of Nalanda Mahavihara is a UNESCO World Heritage property under ASI custody.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false because the new university is under the Ministry of External Affairs. (R) is true.
-
-**A/R logic:** Three Nalandas must be kept apart. Ruins = ASI + UNESCO 2016. New university = MEA, Act 2010, Rajgir. (R) does not save the false (A).
-
-</details>
-
-**Q15.** With reference to ancient centres of learning, which of the following statements is/are correct?
-
-1. Taxila lay in Gandhara and is today in Pakistan.
-2. Vikramashila was founded by Pala king Devapala at Nalanda itself.
-3. Taxila was a single mahavihara campus identical in organisation to Nalanda.
-
-A. Only 1
-B. Only 1 and 2
-C. Only 3
-D. Only 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Vikramashila was founded by Dharmapala at Bhagalpur, not by Devapala at Nalanda. Taxila was a multi-teacher city, not one mahavihara campus.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?<br><br>1. Yuva Puraskar was announced in 23 Indian languages.<br>2. There is no Yuva Puraskar in Dogri this year.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sahitya Akademi press note, 18 June 2025: 23 writers; no Dogri award.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Who is the author of the novel **"All the Lives We Never Lived"**, which received the Sahitya Akademi Award 2022?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Anita Desai</div><div class="pyq-opt"><span class="opt-letter">B</span> Anuradha Roy</div><div class="pyq-opt"><span class="opt-letter">C</span> Shobha De</div><div class="pyq-opt"><span class="opt-letter">D</span> Sudha Murthy</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Anuradha Roy.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the famous buildings of New Delhi has been converted into the Prime Ministers' Museum?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vigyan Bhavan</div><div class="pyq-opt"><span class="opt-letter">B</span> India Habitat Centre</div><div class="pyq-opt"><span class="opt-letter">C</span> Teen Murti Bhavan</div><div class="pyq-opt"><span class="opt-letter">D</span> Talkatora Stadium</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Teen Murti Bhavan** (Pradhanmantri Sangrahalaya).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who was the founder of the 'Asiatic Society of Bengal'?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jonathan Duncan</div><div class="pyq-opt"><span class="opt-letter">B</span> Sir William Jones</div><div class="pyq-opt"><span class="opt-letter">C</span> Warren Hastings</div><div class="pyq-opt"><span class="opt-letter">D</span> William Bentinck</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Jones, 1784. Duncan = Benares Sanskrit College 1791; Hastings declined Presidentship.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In August, 2020 Railway Museum in India was dedicated to the nation at which of the following places?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hubballi</div><div class="pyq-opt"><span class="opt-letter">B</span> Mysore</div><div class="pyq-opt"><span class="opt-letter">C</span> Silvasa</div><div class="pyq-opt"><span class="opt-letter">D</span> Chittaranjan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hubballi.** Not the 1977 National Rail Museum, Delhi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.<br><br>**Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty — his orientalism is a true but parallel fact, not the causal explanation.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is the oldest museum in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> National Museum, New Delhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Indian Museum, Kolkata</div><div class="pyq-opt"><span class="opt-letter">C</span> Salar Jung Museum, Hyderabad</div><div class="pyq-opt"><span class="opt-letter">D</span> Government Museum, Chennai</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Indian Museum, Kolkata, 1814.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The Archaeological Survey of India was founded in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1858</div><div class="pyq-opt"><span class="opt-letter">B</span> 1861</div><div class="pyq-opt"><span class="opt-letter">C</span> 1872</div><div class="pyq-opt"><span class="opt-letter">D</span> 1902</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1861**; first DG Alexander Cunningham.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Who among the following destroyed Nalanda Mahavihara?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mahmud of Ghazni</div><div class="pyq-opt"><span class="opt-letter">B</span> Muhammad Bakhtiyar Khilji</div><div class="pyq-opt"><span class="opt-letter">C</span> Iltutmish</div><div class="pyq-opt"><span class="opt-letter">D</span> Alauddin Khilji</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Bakhtiyar Khilji, ~1193.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Nalanda Mahavihara was declared a UNESCO World Heritage Site in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2010</div><div class="pyq-opt"><span class="opt-letter">B</span> 2014</div><div class="pyq-opt"><span class="opt-letter">C</span> 2016</div><div class="pyq-opt"><span class="opt-letter">D</span> 2018</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2016.** 2010 = Nalanda University Act (different campus, MEA).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to the Asiatic Society of Bengal, which of the following statements is/are correct?<br><br>1. It was founded at Calcutta in 1784 by Sir William Jones.<br>2. Warren Hastings accepted the Presidentship of the Society at its foundation.<br>3. Jonathan Duncan founded the Asiatic Society, not the Benares Sanskrit College.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only statement 1 is correct.
+
+**Logic:** Jones founded the Society in 1784. Hastings declined the Presidentship. Duncan founded Benares Sanskrit College in 1791.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Institution | Fact |<br>|-------------|------|<br>| 1. Fort William College | Set up in 1800 by Lord Wellesley |<br>| 2. Sanskrit College, Calcutta | Opened in 1824 |<br>| 3. Bhandarkar Oriental Research Institute | Founded at Pune in 1917 |<br>| 4. Kangri Gurukul | Founded at Haridwar in 1857 by Vivekananda |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1, 2 and 3 are correct.
+
+**Logic:** Kangri Gurukul was founded in 1902 in the Dayananda / Arya Samaj line, not by Vivekananda in 1857.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order of foundation:<br><br>1. Asiatic Society of Bengal<br>2. Benares Sanskrit College<br>3. Fort William College<br>4. Sanskrit College, Calcutta<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1–3–2–4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–1–3–4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1–2–3–4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1–2–4–3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The order is 1784 → 1791 → 1800 → 1824.
+
+**Logic:** Asiatic Society 1784, Benares Sanskrit College 1791, Fort William 1800, Calcutta Sanskrit College 1824.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): The new Nalanda University created by the Act of 2010 functions under the Ministry of Culture.<br><br>Reason (R): The archaeological site of Nalanda Mahavihara is a UNESCO World Heritage property under ASI custody.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false because the new university is under the Ministry of External Affairs. (R) is true.
+
+**A/R logic:** Three Nalandas must be kept apart. Ruins = ASI + UNESCO 2016. New university = MEA, Act 2010, Rajgir. (R) does not save the false (A).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to ancient centres of learning, which of the following statements is/are correct?<br><br>1. Taxila lay in Gandhara and is today in Pakistan.<br>2. Vikramashila was founded by Pala king Devapala at Nalanda itself.<br>3. Taxila was a single mahavihara campus identical in organisation to Nalanda.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Vikramashila was founded by Dharmapala at Bhagalpur, not by Devapala at Nalanda. Taxila was a multi-teacher city, not one mahavihara campus.</div>
+  </div>
+</div>

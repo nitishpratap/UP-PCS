@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 1 — Geography, Location, Boundaries, Physical Features, Climate, Soil and Drainage System</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2025** | **UP Annual Budget Milestone** — State budget crosses **₹7.36 Lakh Crore**, pacing the target of becoming a **$1 Trillion Economy by 2027** | Macroeconomic scale and state fiscal priorities |
-| **2023–2024** | **Ranipur Wildlife Sanctuary (Chitrakoot)** — Notified as UP's **4th Tiger Reserve** and India's **53rd Tiger Reserve** | Core wildlife conservation & protected areas |
-| **2023** | **Ganga Expressway Execution (594 km)** — 6-lane access-controlled expressway connecting Meerut to Prayagraj via 12 districts | Critical infrastructure & logistics corridor |
-| **2023** | **UP ODOP Global Integration** — State ODOP products onboarded to ONDC and international trade pavilions | Industrial promotion & district craft branding |
-| **2022** | **Bakhira Bird Sanctuary (Sant Kabir Nagar)** — Added as UP's **10th Ramsar Wetland** (Wetland of International Importance) | Environmental geography & wetland conservation |
-| **Rolling** | **District Administrative Realignment** — 75 Districts, 18 Divisions, 17 Municipal Corporations (Shahjahanpur 17th) | State administrative architecture baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. The total geographical area of Uttar Pradesh is **240,928 km²**, which constitutes **7.33%** of India's total area.
@@ -74,6 +63,11 @@ hide:
 48. **Suraha Taal (Loknayak Bird Sanctuary)** is a large natural oxbow lake located in **Ballia district**.
 49. **Haiderpur Wetland**, a Ramsar site situated on the Madhya Ganga Canal, spans **Muzaffarnagar and Bijnor districts**.
 50. **Sarsai Nawar Wetland** in **Etawah district** is famous as a premier breeding habitat for India's State Bird, the **Sarus Crane**.
+51. **Geographical Extent & Latitudinal Span:** UP lies between **23°52'N to 31°28'N latitudes** and **77°30'E to 84°39'E longitudes**; latitudinal expansion is 7°36' and longitudinal expansion is 7°09'; East-to-West length is approximately **650 km**; North-to-South breadth is **240 km**; total geographical area is **2,40,928 sq km** (accounting for **7.33% of the total area of India**; 4th largest state after Rajasthan, MP, and Maharashtra).
+52. **Four Extreme Districts of Uttar Pradesh:** (1) Northernmost district: **Saharanpur** (borders HP, Uttarakhand, and Haryana); (2) Southernmost district: **Sonbhadra** (borders 4 states: MP, Chhattisgarh, Jharkhand, and Bihar - only district in India bordering 4 states); (3) Easternmost district: **Ballia** (borders Bihar); (4) Westernmost district: **Shamli** (carved out of Muzaffarnagar in 2011, borders Haryana).
+53. **Inter-State Borders Count:** UP borders **8 States and 1 Union Territory (Delhi)**, total 9 entities: (1) Uttarakhand, (2) Himachal Pradesh (shortest border with Saharanpur), (3) Haryana, (4) Rajasthan (borders Mathura & Agra), (5) Madhya Pradesh (longest border with 11 UP districts), (6) Chhattisgarh, (7) Jharkhand, (8) Bihar, and (9) Delhi (borders Ghaziabad & Gautam Buddha Nagar); also shares an **international border of 579 km with Nepal** across 7 districts (Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar, Maharajganj).
+54. **Lakhimpur Kheri & Bhadohi Area Records:** **Lakhimpur Kheri (7,680 sq km)** is the **largest district of UP by geographical area**; **Hapur / Bhadohi (Sant Ravidas Nagar, 660 sq km)** is the **smallest district by area**.
+55. **Three Distinct Physiographic Zones of UP:** (1) **Bhabhar and Terai Belt:** Narrow strip along the foothills of Shiwaliks in the north; Bhabhar is a porous pebble/boulder belt with disappearing streams; Terai is moist, marshy, humid, malaria-prone, rich in tall elephant grass and Sal forests; (2) **Gangetic Plain:** Covers 3/4th of the state; flat alluvium formed by Ganga, Yamuna, Ghaghara; divided into Upper Gangetic Plain, Middle Gangetic Plain, and Trans-Ghaghara Plain; slope is from North-West to South-East; (3) **Southern Plateau Region (Bundelkhand & Baghelkhand):** Part of Deccan Peninsular Shield; Archean granites and Vindhyan sandstones; undulating rocky terrain prone to severe droughts; covers 7 Bundelkhand districts (Jhansi, Jalaun, Lalitpur, Hamirpur, Mahoba, Banda, Chitrakoot).
 
 ## ⏱️ Timeline / Chronology
 
@@ -131,21 +125,6 @@ Pleistocene Epoch──► Infilling of Himalayan foredeep by Ganga-Yamuna alluv
 | **Ken (Karnavati)** | Kaimur Hills (Jabalpur, MP) | **Banda** | Merges into Yamuna at **Chilla (Banda)** | **~427 km** | Famous for Shajar stone; part of the **Ken-Betwa River Interlinking Project** (Daodhan Dam). |
 | **Son (Swarna)** | Amarkantak Plateau (Madhya Pradesh) | **Sonbhadra** | Passes Sonbhadra into Bihar to join Ganga | **~784 km** | Second largest southern tributary of Ganga after Yamuna. Major tributary: Rihand River (Rihand Dam / Govind Ballabh Pant Sagar). |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **UP Area Rank in India**: **4th Rank (240,928 km² — 7.33%)** | **UP Population Rank in India**: **1st Rank (19.98 Crore — 16.51%)** | **Trap**: UP is 1st in population, but 4th in area (behind Rajasthan, MP, Maharashtra). |
-| **Highest Rainfall District in UP**: **Gorakhpur (184.7 cm)** | **Lowest Rainfall District in UP**: **Mathura (54.4 cm)** | **Trap**: Gorakhpur in the east gets highest rain; Mathura in the south-west receives lowest rain. |
-| **Ganga Entry District**: **Bijnor** | **Ganga Exit District**: **Ballia** | **Trap**: Ganga enters at Bijnor from Uttarakhand and leaves UP at Ballia into Bihar. |
-| **Yamuna Entry District**: **Saharanpur** (Faizabad village) | **Yamuna Confluence District**: **Prayagraj** (Triveni Sangam) | **Trap**: Yamuna enters at Saharanpur and ends its journey at Prayagraj by merging into the Ganga. |
-| **Largest District by Area**: **Lakhimpur Kheri (7,680 km²)** | **Smallest District by Area**: **Hapur (660 km²)** | **Trap**: Prior to 2011, Bhadohi was smallest. Now Hapur (created in 2011) is the smallest district. |
-| **Plains-Origin River**: **Gomti** (Gomat Taal, Pilibhit) | **Himalayan-Origin River**: **Ramganga / Ganga / Yamuna / Sarda** | **Trap**: Gomti does NOT originate in the Himalayas; it originates from a low-lying lake in Pilibhit. |
-| **Sonbhadra Borders (4 States)**: MP, Chhattisgarh, Jharkhand, Bihar | **Saharanpur Borders (3 States)**: Uttarakhand, Himachal Pradesh, Haryana | **Trap**: Sonbhadra touches 4 states; Saharanpur touches 3 states. |
-| **Bhabhar Soil**: Porous boulders, uncultivable, streams sink underground | **Terai Soil**: Waterlogged silt, highly fertile for sugarcane, streams re-emerge | **Trap**: Bhabhar is dry on surface with underground flow; Terai is marshy and swampy. |
-| **Mar Soil (Bundelkhand)**: Black fertile clayey soil (Black cotton type) | **Rakar Soil (Bundelkhand)**: Reddish, coarse gravelly soil on rocky slopes | **Trap**: Mar is fertile and retains moisture; Rakar is highly eroded and nutrient-poor. |
-| **Bakhira Wetland (Ramsar)**: Located in **Sant Kabir Nagar** | **Suraha Taal (Oxbow Lake)**: Located in **Ballia** | **Trap**: Bakhira = Sant Kabir Nagar; Suraha Taal = Ballia; Keetham/Sur Sarovar = Agra. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **Border States (8 States + 1 UT + 1 Country)**:
@@ -160,226 +139,244 @@ Pleistocene Epoch──► Infilling of Himalayan foredeep by Ganga-Yamuna alluv
 - **Four Soil / Terrain Belts (North to South)**:
   - **Bhabhar** (coarse pebbles, streams disappear) ➔ **Terai** (marshy, high humidity, malarial, sugarcane/paddy) ➔ **Bangar** (older alluvium, kankar nodules, above flood level) ➔ **Khadar** (newer alluvium, fertile flood plains).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which of the following statements is correct?
-1. Ramganga joins the Ganga at Kannauj.
-2. River Betwa joins the Yamuna near Prayagraj.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Only 1.
-
-**Ans: A.** Only 1
-</details>
-
-**Q2.**
-Which river forms a significant western boundary segment of Uttar Pradesh with Haryana?
-A. Ganga
-B. Yamuna
-C. Ghaghara
-D. Gomati
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Yamuna.
-
-**Ans: B.** Yamuna
-</details>
-
-**Q3.**
-Dudhwa National Park lies in which district?
-A. Pilibhit
-B. Lakhimpur Kheri
-C. Bahraich
-D. Sharavasti
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Only National Park of UP; Terai–Nepal border.
-
-**Ans: B.** Lakhimpur Kheri.
-
-</details>
-
-**Q4.**
-How many districts of UP border Uttarakhand?
-A. 5
-B. 6
-C. 7
-D. 9
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 7.
-
-**Ans: C.** 7
-</details>
-
-**Q5.**
-Which physiographic belt of UP includes tarai–bhabar?
-A. Southern Plateau only
-B. Northern mountain–tarai fringe
-C. Pure Bangar only
-D. Trans-Yamuna arid only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bhabar–Tarai–Plain–Vindhyan south is the relief ladder.
-
-**Ans: B.** Northern fringe adjoining Siwaliks/Nepal.
-
-</details>
-
-**Q6.**
-Which districts of Uttarakhand recorded negative population growth during 2001–2011 as per Census 2011?
-A. Tehri Garhwal and Bageshwar
-B. Pauri Garhwal and Almora
-C. Uttarkashi and Champawat
-D. Chamoli and Rudraprayag
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UK neighbour out-migration pair on UP’s northern border.
-
-**Ans: B.** Pauri Garhwal and Almora.
-
-</details>
-
-**Q7.**
-Which river is known as the ‘Sorrow of Bihar’?
-A. Ganga
-B. Kosi
-C. Son
-D. Ghaghara
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Kosi.
-
-**Ans: B.** Kosi
-</details>
-
-**Q8.**
-Which one among the following States of India has the lowest density of population?
-A. Himachal Pradesh
-B. Meghalaya
-C. Arunachal Pradesh
-D. Sikkim
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Comparative density ranking for UP Special geography Extra Drill.
-
-**Ans: C.** Arunachal Pradesh.
-
-</details>
-
-**Q9.**
-How many districts of Uttarakhand share a border with Uttar Pradesh?
-A. 3
-B. 4
-C. 5
-D. 6
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Southern UK–UP frontier for UP Special geography.
-
-**Ans: C.** Five — Dehradun, Haridwar, Pauri Garhwal, Nainital and Udham Singh Nagar.
-
-</details>
-
-**Q10.**
-Which of the following cities is NOT located on the banks of the Ganga?
-A. Kanpur
-B. Varanasi
-C. Agra
-D. Prayagraj (Allahabad)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Agra.
-
-**Ans: C.** Agra
-</details>
-
-**Q11.**
-Rihand Dam (Govind Ballabh Pant Sagar) is located in which district of Uttar Pradesh?
-A. Mirzapur
-B. Sonbhadra
-C. Varanasi
-D. Prayagraj
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rihand is a tributary of the Son; major reservoir by surface area in UP.
-
-**Ans: B.** Sonbhadra.
-
-</details>
-
-**Q12.**
-Which river originates from Gomat Taal in Pilibhit district and flows through Lucknow?
-A. Sharda
-B. Gomti
-C. Rapti
-D. Betwa
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Gomti.
-
-**Ans: B.** Gomti
-</details>
-
-**Q13.**
-The Betwa River joins the Yamuna at which location in Uttar Pradesh?
-A. Allahabad (Prayagraj)
-B. Mathura
-C. Hamirpur
-D. Banda
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Betwa (also called Vetravati) River originates in MP's Vindhyan range and joins the Yamuna at **Hamirpur** in Bundelkhand region of UP.
-
-**Ans: C.** Hamirpur.
-
-</details>
-
-**Q14.**
-The Govind Ballabh Pant Sagar (Rihand Dam reservoir) is located in which district of UP?
-A. Mirzapur
-B. Sonbhadra
-C. Banda
-D. Jhansi
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rihand Dam on the Rihand River is located in **Sonbhadra** district.
-
-**Ans: B.** Sonbhadra.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements is correct?<br>1. Ramganga joins the Ganga at Kannauj.<br>2. River Betwa joins the Yamuna near Prayagraj.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Only 1.
+
+**Ans: A.** Only 1</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which river forms a significant western boundary segment of Uttar Pradesh with Haryana?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ganga</div><div class="pyq-opt"><span class="opt-letter">B</span> Yamuna</div><div class="pyq-opt"><span class="opt-letter">C</span> Ghaghara</div><div class="pyq-opt"><span class="opt-letter">D</span> Gomati</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Yamuna.
+
+**Ans: B.** Yamuna</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Dudhwa National Park lies in which district?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pilibhit</div><div class="pyq-opt"><span class="opt-letter">B</span> Lakhimpur Kheri</div><div class="pyq-opt"><span class="opt-letter">C</span> Bahraich</div><div class="pyq-opt"><span class="opt-letter">D</span> Sharavasti</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Only National Park of UP; Terai–Nepal border.
+
+**Ans: B.** Lakhimpur Kheri.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">How many districts of UP border Uttarakhand?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 5</div><div class="pyq-opt"><span class="opt-letter">B</span> 6</div><div class="pyq-opt"><span class="opt-letter">C</span> 7</div><div class="pyq-opt"><span class="opt-letter">D</span> 9</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 7.
+
+**Ans: C.** 7</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which physiographic belt of UP includes tarai–bhabar?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Southern Plateau only</div><div class="pyq-opt"><span class="opt-letter">B</span> Northern mountain–tarai fringe</div><div class="pyq-opt"><span class="opt-letter">C</span> Pure Bangar only</div><div class="pyq-opt"><span class="opt-letter">D</span> Trans-Yamuna arid only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bhabar–Tarai–Plain–Vindhyan south is the relief ladder.
+
+**Ans: B.** Northern fringe adjoining Siwaliks/Nepal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which districts of Uttarakhand recorded negative population growth during 2001–2011 as per Census 2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tehri Garhwal and Bageshwar</div><div class="pyq-opt"><span class="opt-letter">B</span> Pauri Garhwal and Almora</div><div class="pyq-opt"><span class="opt-letter">C</span> Uttarkashi and Champawat</div><div class="pyq-opt"><span class="opt-letter">D</span> Chamoli and Rudraprayag</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UK neighbour out-migration pair on UP’s northern border.
+
+**Ans: B.** Pauri Garhwal and Almora.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which river is known as the ‘Sorrow of Bihar’?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ganga</div><div class="pyq-opt"><span class="opt-letter">B</span> Kosi</div><div class="pyq-opt"><span class="opt-letter">C</span> Son</div><div class="pyq-opt"><span class="opt-letter">D</span> Ghaghara</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Kosi.
+
+**Ans: B.** Kosi</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which one among the following States of India has the lowest density of population?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Himachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Meghalaya</div><div class="pyq-opt"><span class="opt-letter">C</span> Arunachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">D</span> Sikkim</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Comparative density ranking for UP Special geography Extra Drill.
+
+**Ans: C.** Arunachal Pradesh.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">How many districts of Uttarakhand share a border with Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 5</div><div class="pyq-opt"><span class="opt-letter">D</span> 6</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Southern UK–UP frontier for UP Special geography.
+
+**Ans: C.** Five — Dehradun, Haridwar, Pauri Garhwal, Nainital and Udham Singh Nagar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following cities is NOT located on the banks of the Ganga?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kanpur</div><div class="pyq-opt"><span class="opt-letter">B</span> Varanasi</div><div class="pyq-opt"><span class="opt-letter">C</span> Agra</div><div class="pyq-opt"><span class="opt-letter">D</span> Prayagraj (Allahabad)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Agra.
+
+**Ans: C.** Agra</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Rihand Dam (Govind Ballabh Pant Sagar) is located in which district of Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mirzapur</div><div class="pyq-opt"><span class="opt-letter">B</span> Sonbhadra</div><div class="pyq-opt"><span class="opt-letter">C</span> Varanasi</div><div class="pyq-opt"><span class="opt-letter">D</span> Prayagraj</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rihand is a tributary of the Son; major reservoir by surface area in UP.
+
+**Ans: B.** Sonbhadra.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which river originates from Gomat Taal in Pilibhit district and flows through Lucknow?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sharda</div><div class="pyq-opt"><span class="opt-letter">B</span> Gomti</div><div class="pyq-opt"><span class="opt-letter">C</span> Rapti</div><div class="pyq-opt"><span class="opt-letter">D</span> Betwa</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Gomti.
+
+**Ans: B.** Gomti</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The Betwa River joins the Yamuna at which location in Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Allahabad (Prayagraj)</div><div class="pyq-opt"><span class="opt-letter">B</span> Mathura</div><div class="pyq-opt"><span class="opt-letter">C</span> Hamirpur</div><div class="pyq-opt"><span class="opt-letter">D</span> Banda</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Betwa (also called Vetravati) River originates in MP's Vindhyan range and joins the Yamuna at **Hamirpur** in Bundelkhand region of UP.
+
+**Ans: C.** Hamirpur.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The Govind Ballabh Pant Sagar (Rihand Dam reservoir) is located in which district of UP?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mirzapur</div><div class="pyq-opt"><span class="opt-letter">B</span> Sonbhadra</div><div class="pyq-opt"><span class="opt-letter">C</span> Banda</div><div class="pyq-opt"><span class="opt-letter">D</span> Jhansi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rihand Dam on the Rihand River is located in **Sonbhadra** district.
+
+**Ans: B.** Sonbhadra.</div>
+  </div>
+</div>

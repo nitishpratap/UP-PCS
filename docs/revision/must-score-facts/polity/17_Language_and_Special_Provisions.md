@@ -173,20 +173,6 @@ hide:
 | **371-I** | **Goa** | Minimum 30-member Legislative Assembly |
 | **371-J** | **Karnataka** | Hyderabad-Karnataka (Kalyana-Karnataka) development board & quota |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| 5th vs 6th Schedule States | 5th = 10 States across central/peninsular India. 6th = **AMTM (Assam, Meghalaya, Tripura, Mizoram)**. | Put Manipur or Nagaland in the 6th Schedule | 6वीं अनुसूची = केवल AMTM (मणिपुर नहीं) |
-| English in Eighth Schedule | English is **NOT in the Eighth Schedule** (even though it is official associate language of Union). | Look for English in the 8th Schedule | अंग्रेजी 8वीं अनुसूची में नहीं है |
-| Bhojpuri in Eighth Schedule | Bhojpuri is **NOT in the Eighth Schedule**. | Assume Bhojpuri is recognized | भोजपुरी 8वीं अनुसूची में शामिल नहीं है |
-| First Classical Language | **Tamil (2004)** (NOT Sanskrit). | Name Sanskrit as first classical language | पहली शास्त्रीय भाषा = तमिल (2004) |
-| Number of Classical Languages | Exactly **11 Classical Languages** (5 added on 3 Oct 2024). | Cite old number 6 | कुल शास्त्रीय भाषाएँ = 11 |
-| Art. 350A vs 350B | **350A** = Mother tongue at primary stage. **350B** = Special Officer for Linguistic Minorities. | Swap the two articles | 350A = मातृभाषा; 350B = भाषाई अल्पसंख्यक अधिकारी |
-| Parliamentary Committee on Official Language | **30 members (20 Lok Sabha + 10 Rajya Sabha)**. | Use 15 LS + 7 RS (PAC ratio) | राजभाषा संसदीय समिति = 30 (20 LS + 10 RS) |
-| 371A vs 371G | **371A** = Nagaland; **371G** = Mizoram. | Swap the north-eastern states | 371A = नागालैंड; 371G = मिज़ोरम |
-| Article 371F Assembly Floor | Sikkim Legislative Assembly has minimum **32 seats** (exception to 60-seat floor). | Say 40 or 60 seats | सिक्किम विधानसभा = 32 सीटें |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **6th Schedule States Mnemonic:**
@@ -208,277 +194,264 @@ hide:
    - 371**-I** = **I**sland beaches / Goa
    - 371**J** = **J**osh for Kalyana / Karnataka
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which of the following languages is/are NOT included in the Eighth Schedule of the Indian Constitution?
-1. Nepali
-2. Dogri
-3. Bodo
-4. Bhojpuri
-A. 1 and 2
-B. Only 4
-C. 3 and 4
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q2.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Schedule)**
-
-| Code | Schedule |
-|------|----------|
-| A | Seventh Schedule |
-| B | Eighth Schedule |
-| C | Ninth Schedule |
-| D | Tenth Schedule |
-
-**List-II (Subject)**
-
-| Code | Subject |
-|------|---------|
-| 1 | Languages |
-| 2 | Anti-defection |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Validation of certain Acts and Regulations |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. 3, 1, 2, 4
-B. 3, 1, 4, 2
-C. 2, 3, 4, 1
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).
-
-</details>
-
-**Q3.**
-Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd
-A. Only 2
-B. Neither 1 nor 2
-C. Only 1
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q4.**
-Which (Provision — Part) is **not** correctly matched?
-A. Union Territories — Part VIII
-B. Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q5.**
-Which pair (Schedule — Subject) is **not** correctly matched?
-A. Third — Oaths
-B. Eighth — Languages
-C. Ninth — Allocation of seats in the Council of States
-D. Tenth — Defection
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q6.**
-The Constitution of India initially permitted the use of English language for all official purposes for a period of—
-A. 5 years
-B. 10 years
-C. 15 years
-D. 20 years
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q7.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Schedule)**
-
-| Code | Schedule |
-|------|----------|
-| A | Third Schedule |
-| B | Fourth Schedule |
-| C | Seventh Schedule |
-| D | Eighth Schedule |
-
-**List-II (Subject)**
-
-| Code | Subject |
-|------|---------|
-| 1 | Allocation of seats in Rajya Sabha |
-| 2 | Forms of Oaths or Affirmations |
-| 3 | Languages |
-| 4 | Union / State / Concurrent Lists |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-4, B-3, C-1, D-2
-B. A-3, B-4, C-2, D-1
-C. A-2, B-1, C-4, D-3
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — A-2, B-1, C-4, D-3** (Oaths; RS seats; Lists; Languages).
-
-</details>
-
-**Q8.**
-When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
-A. 1998
-B. 1996
-C. 1995
-D. 1993
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9.**
-Which region of the country conferred special status under Article 371-J of the Constitution of India?
-A. Nagaland
-B. Hyderabad and Karnataka
-C. Maharashtra and Gujarat
-D. Ladakh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.** Article 30 of the Constitution of India does not define the term ‘minorities’.
-
-**Reason (R):** The Constitution recognises only linguistic and religious minorities.
-A. Both (A) and (R) true and (R) is the correct explanation of (A)
-B. Both (A) and (R) true but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both true; R does not explain why 30 is silent on a definition.
-
-</details>
-
-**Q11.**
-Sixth Schedule is applicable in which of the following States?
-A. Tripura
-B. Sikkim
-C. Nagaland
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.**
-Parliament can amend the provision on official language of India under the Constitution by—
-A. a simple majority of its members
-B. 2/3rd majority
-C. 3/4th majority
-D. support of 1/3 of its members
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The booklet records a Hindi–English wording conflict. The English stem points to ordinary legislation under Article 343(3), while the Hindi stem can be read as changing the constitutional text through Article 368 (अनुच्छेद 368).
-
-**Ans: A for the English stem; B for the Hindi variant.** The English paper treats **343(3) / 120 / 348** ordinary legislation as the “official-language provision,” requiring a simple majority. A rewrite of Articles 343 or 344 requires the Article 368 special majority but no State ratification.
-
-</details>
-
-**Q13.**
-
-Which Article of the Indian Constitution provides the procedure for adoption of the official language or languages of a State?
-
-A. Article 343
-B. Article 344
-C. Article 345
-D. Article 346
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Article 343 concerns the Union, Article 344 the Commission and parliamentary committee, Article 345 State official languages, and Article 346 inter-government communication.
-
-**Ans: C. Article 345. A State legislature may adopt one or more languages in use in the State, or Hindi, for the State’s official purposes.**
-
-</details>
-
-**Q14.**
-
-Which one of the following is correct about the languages mentioned in the Constitution of India?
-
-A. A State can compel linguistic minorities to choose their mother tongue as the medium of instruction in primary schools.
-B. Angika is included in the Eighth Schedule.
-C. Hindi is the national language of India.
-D. Bodo is a recognised language in the Eighth Schedule.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Article 350A asks States to provide mother-tongue facilities; it does not authorise compulsion. Angika is not scheduled, and the Constitution names no national language.
-
-**Ans: D. Bodo is in the Eighth Schedule. It was added by the Constitution (Ninety-second Amendment) Act, 2003.**
-
-</details>
-
-**Q15.**
-
-Which Article of the Constitution provides that every State shall endeavour to provide adequate facilities for instruction in the mother tongue at the primary stage of education?
-
-A. Article 349
-B. Article 350
-C. Article 350A
-D. Article 351
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Article 350A concerns mother-tongue instruction at the primary stage; Article 350 concerns grievance representations, Article 350B the linguistic-minorities officer, and Article 351 promotion of Hindi.
-
-**Ans: C. Article 350A. It was inserted by the Seventh Amendment Act, 1956.**
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following languages is/are NOT included in the Eighth Schedule of the Indian Constitution?<br>1. Nepali<br>2. Dogri<br>3. Bodo<br>4. Bhojpuri</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br>**List-I (Schedule)**<br>| Code | Schedule |<br>|------|----------|<br>| A | Seventh Schedule |<br>| B | Eighth Schedule |<br>| C | Ninth Schedule |<br>| D | Tenth Schedule |<br>**List-II (Subject)**<br>| Code | Subject |<br>|------|---------|<br>| 1 | Languages |<br>| 2 | Anti-defection |<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>3</th><th>Union, State and Concurrent Lists</th></tr>
+  </thead>
+  <tbody>
+      <tr><td>4</td><td>Validation of certain Acts and Regulations</td></tr>
+  </tbody>
+</table><br>> Note: Row order in the tables is **not** the answer.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 1, 2, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 1, 4, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 1, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by 9th Amd</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Both 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which (Provision — Part) is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Union Territories — Part VIII</div><div class="pyq-opt"><span class="opt-letter">B</span> Scheduled and Tribal Areas — Part X</div><div class="pyq-opt"><span class="opt-letter">C</span> Tribunals — Part XI</div><div class="pyq-opt"><span class="opt-letter">D</span> Official Language — Part XVII</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which pair (Schedule — Subject) is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Third — Oaths</div><div class="pyq-opt"><span class="opt-letter">B</span> Eighth — Languages</div><div class="pyq-opt"><span class="opt-letter">C</span> Ninth — Allocation of seats in the Council of States</div><div class="pyq-opt"><span class="opt-letter">D</span> Tenth — Defection</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Constitution of India initially permitted the use of English language for all official purposes for a period of—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 5 years</div><div class="pyq-opt"><span class="opt-letter">B</span> 10 years</div><div class="pyq-opt"><span class="opt-letter">C</span> 15 years</div><div class="pyq-opt"><span class="opt-letter">D</span> 20 years</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Committees on Panchayati Raj)</th>
+        <th>List-II (Year of Appointment)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Balwant Rai Mehta Committee</td><td><span class="match-key">1</span> 1957</td></tr>
+    <tr><td><span class="match-key">B</span> Ashok Mehta Committee</td><td><span class="match-key">2</span> 1977</td></tr>
+    <tr><td><span class="match-key">C</span> L.M. Singhvi Committee</td><td><span class="match-key">3</span> 1986</td></tr>
+    <tr><td><span class="match-key">D</span> P.K. Thungon Committee</td><td><span class="match-key">4</span> 1988</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-2, C-4, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-4, D-3** (Oaths; RS seats; Lists; Languages).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1998</div><div class="pyq-opt"><span class="opt-letter">B</span> 1996</div><div class="pyq-opt"><span class="opt-letter">C</span> 1995</div><div class="pyq-opt"><span class="opt-letter">D</span> 1993</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">Which region of the country conferred special status under Article 371-J of the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nagaland</div><div class="pyq-opt"><span class="opt-letter">B</span> Hyderabad and Karnataka</div><div class="pyq-opt"><span class="opt-letter">C</span> Maharashtra and Gujarat</div><div class="pyq-opt"><span class="opt-letter">D</span> Ladakh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Article 30 of the Constitution of India does not define the term ‘minorities’.<br><br>**Reason (R):** The Constitution recognises only linguistic and religious minorities.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) true but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R does not explain why 30 is silent on a definition.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Sixth Schedule is applicable in which of the following States?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tripura</div><div class="pyq-opt"><span class="opt-letter">B</span> Sikkim</div><div class="pyq-opt"><span class="opt-letter">C</span> Nagaland</div><div class="pyq-opt"><span class="opt-letter">D</span> All of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Parliament can amend the provision on official language of India under the Constitution by—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> a simple majority of its members</div><div class="pyq-opt"><span class="opt-letter">B</span> 2/3rd majority</div><div class="pyq-opt"><span class="opt-letter">C</span> 3/4th majority</div><div class="pyq-opt"><span class="opt-letter">D</span> support of 1/3 of its members</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The booklet records a Hindi–English wording conflict. The English stem points to ordinary legislation under Article 343(3), while the Hindi stem can be read as changing the constitutional text through Article 368 (अनुच्छेद 368).
+
+**Ans: A for the English stem; B for the Hindi variant.** The English paper treats **343(3) / 120 / 348** ordinary legislation as the “official-language provision,” requiring a simple majority. A rewrite of Articles 343 or 344 requires the Article 368 special majority but no State ratification.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which Article of the Indian Constitution provides the procedure for adoption of the official language or languages of a State?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 343</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 344</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 345</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 346</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Article 343 concerns the Union, Article 344 the Commission and parliamentary committee, Article 345 State official languages, and Article 346 inter-government communication.
+
+**Ans: C. Article 345. A State legislature may adopt one or more languages in use in the State, or Hindi, for the State’s official purposes.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correct about the languages mentioned in the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A State can compel linguistic minorities to choose their mother tongue as the medium of instruction in primary schools.</div><div class="pyq-opt"><span class="opt-letter">B</span> Angika is included in the Eighth Schedule.</div><div class="pyq-opt"><span class="opt-letter">C</span> Hindi is the national language of India.</div><div class="pyq-opt"><span class="opt-letter">D</span> Bodo is a recognised language in the Eighth Schedule.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Article 350A asks States to provide mother-tongue facilities; it does not authorise compulsion. Angika is not scheduled, and the Constitution names no national language.
+
+**Ans: D. Bodo is in the Eighth Schedule. It was added by the Constitution (Ninety-second Amendment) Act, 2003.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which Article of the Constitution provides that every State shall endeavour to provide adequate facilities for instruction in the mother tongue at the primary stage of education?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 349</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 350</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 350A</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 351</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Article 350A concerns mother-tongue instruction at the primary stage; Article 350 concerns grievance representations, Article 350B the linguistic-minorities officer, and Article 351 promotion of Hindi.
+
+**Ans: C. Article 350A. It was inserted by the Seventh Amendment Act, 1956.</div>
+  </div>
+</div>

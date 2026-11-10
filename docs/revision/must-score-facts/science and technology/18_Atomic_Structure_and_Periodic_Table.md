@@ -226,21 +226,6 @@ u$)** | Wolfgang Pauli / Reines | 1930/1956| Zero | $0$ | Nearly zero ($<1	ext{ 
 | **Human Body** | **Oxygen ($O, pprox 65\%$)** | **Carbon ($C, pprox 18.5\%$)** | **Hydrogen ($H, pprox 9.5\%$)** | **Nitrogen ($N, pprox 3.2\%$)**| **Calcium ($Ca, 1.5\%$) is the #1 METAL in the human body!** |
 | **Atmosphere (Dry)** | **Nitrogen ($N_2, 78.08\%$)** | **Oxygen ($O_2, 20.95\%$)** | **Argon ($Ar, 0.93\%$)** | **Carbon Dioxide ($CO_2, 0.04\%$)**| **Argon is the #1 Noble Gas in the atmosphere!** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Highest Electron Affinity** | **Highest Electronegativity** | **CHLORINE ($Cl$) has the HIGHEST Electron Affinity** in the periodic table ($Cl > F > Br > I$). **FLUORINE ($F$) has the HIGHEST Electronegativity** ($4.0$ on Pauling scale). | सर्वाधिक इलेक्ट्रॉन बंधुता = क्लोरीन ($Cl$); सर्वाधिक विद्युत ऋणात्मकता = फ्लोरीन ($F$) |
-| **Most Abundant Crust Element**| **Most Abundant Crust Metal** | In the Earth's crust: **OXYGEN is the most abundant ELEMENT ($46.6\%$)**; **ALUMINIUM is the most abundant METAL ($8.1\%$)**; Iron is the second most abundant metal ($5.0\%$). | भूपर्पटी में सर्वाधिक मात्रा में पाया जाने वाला तत्व = ऑक्सीजन; सर्वाधिक धातु = एल्युमिनियम |
-| **Most Abundant Body Metal** | **Blood Iron Confusion** | **CALCIUM ($Ca$) is the most abundant METAL in the human body** ($pprox 1.0–1.2	ext{ kg}$ in bones and teeth). Iron ($Fe$) accounts for only $pprox 3–4	ext{ grams}$ in total! | मानव शरीर में सर्वाधिक मात्रा में पाई जाने वाली धातु = कैल्शियम (आयरन केवल 4 ग्राम) |
-| **Liquid Metal at Room Temp** | **Liquid Non-Metal at Room Temp**| **MERCURY ($Hg, Z=80$) is the only LIQUID METAL** at standard room temperature. **BROMINE ($Br, Z=35$) is the only LIQUID NON-METAL** (dense reddish-brown fuming liquid). | कमरे के ताप पर एकमात्र द्रव धातु = पारा (Mercury); एकमात्र द्रव अधातु = ब्रोमीन (Bromine) |
-| **Heaviest Subatomic Particle**| **Proton vs Neutron Mass** | The **NEUTRON is the heaviest subatomic particle** ($1.6749 	imes 10^{-27}	ext{ kg}$), slightly heavier than the proton ($1.6726 	imes 10^{-27}	ext{ kg}$). The electron is $1836	imes$ lighter. | सबसे भारी अपरमाणुक कण = न्यूट्रॉन (प्रोटॉन से किंचित भारी) |
-| **Nitrogen vs Oxygen $IE_1$** | **Periodic Trend Exception** | Nitrogen ($Z=7$) has a **HIGHER first ionization energy than Oxygen ($Z=8$)** because Nitrogen possesses an extraordinarily stable **half-filled $2p^3$ subshell** ($1s^2 2s^2 2p^3$). | नाइट्रोजन की प्रथम आयनन ऊर्जा ऑक्सीजन से अधिक होती है (अर्ध-पूरित $p^3$ कक्षक के कारण) |
-| **Argon in Atmosphere** | **$CO_2$ Concentration** | **Argon ($Ar, 0.93\%$) is the third most abundant atmospheric gas**, vastly exceeding Carbon Dioxide ($CO_2, 0.04\% = 420	ext{ ppm}$). Argon is the most abundant noble gas. | वायुमंडल में आर्गन ($0.93\%$) की मात्रा कार्बन डाइऑक्साइड ($0.04\%$) से 23 गुना अधिक है |
-| **Isotopes** | **Isobars** | **Isotopes** have the **same atomic number ($Z$)** but different mass numbers ($A$) (e.g. $^1H, ^2H, ^3H$). **Isobars** have the **same mass number ($A$)** but different atomic numbers (e.g. $^{40}_{18}Ar$ and $^{40}_{20}Ca$). | समस्थानिक (Isotopes) = समान परमाणु क्रमांक ($Z$); समभारिक (Isobars) = समान द्रव्यमान संख्या ($A$) |
-| **Modern Periodic Law Basis** | **Mendeleev Law Basis** | Mendeleev arranged elements according to **Atomic Mass**. Moseley's Modern Periodic Law arranges elements strictly according to **Atomic Number ($Z$, number of protons)**. | आधुनिक आवर्त नियम = परमाणु क्रमांक पर आधारित; मेंडलीफ का नियम = परमाणु भार पर आधारित |
-| **Radioactive Alkali Metal** | **Liquid Alkali Metals** | **Francium ($Fr, Z=87$)** is the radioactive alkali metal in Group 1. **Caesium ($Cs$) and Gallium ($Ga$)** have melting points near $29–30^\circ	ext{C}$ and melt in the palm of human hand. | फ्रांसियम रेडियोधर्मी है; सीजियम व गैलियम हथेली पर रखने पर पिघल जाते हैं |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Subatomic Discoverers: **P-E-N = R-T-C**
@@ -262,292 +247,252 @@ u$)** | Wolfgang Pauli / Reines | 1930/1956| Zero | $0$ | Nearly zero ($<1	ext{ 
 ### 4. Halogen Electron Affinity Trap: **$Cl > F$**
 - Chlorine beats Fluorine because Fluorine's tiny $2p$ shell causes high electron-electron repulsion!
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to atomic structure, which of the following statements is/are correct?
-1. The neutron was discovered by James Chadwick in 1932.
-2. The mass of an electron is approximately $1/1836\text{th}$ of the mass of a proton.
-3. The volume of an atomic nucleus occupies over $50\%$ of the total volume of an atom.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) 1 and 2 only
-
-**Ans: A.** 1 and 2 only
-</details>
-
-**Q2.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** Chlorine has a higher electron affinity than Fluorine.
-- **Reason (R):** Fluorine's compact $2p$ subshell has an exceptionally high electron density, producing strong inter-electronic repulsion against incoming electrons.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q3.**
-
-Match List-I (Subatomic Discovery / Rule) with List-II (Pioneering Scientist):
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Law of Octaves | 1. Ernest Rutherford |
-| B. Modern Periodic Law | 2. John Newlands |
-| C. Discovery of Atomic Nucleus | 3. Henry Moseley |
-| D. Uncertainty Principle | 4. Werner Heisenberg |
-
-Select the correct code:
-- (A) A-2, B-3, C-1, D-4
-- (B) A-3, B-2, C-1, D-4
-- (C) A-2, B-3, C-4, D-1
-- (D) A-4, B-3, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) A-2, B-3, C-1, D-4
-
-**Ans: A.** A-2, B-3, C-1, D-4
-</details>
-
-**Q4.**
-
-Which of the following statements is/are correct regarding periodic trends across a period (left to right)?
-1. Atomic radius decreases across a period.
-2. Electronegativity increases across a period.
-3. Metallic character increases across a period.
-
-Select the correct answer using the code given below:
-- (A) 1 and 2 only
-- (B) 2 and 3 only
-- (C) 1 only
-- (D) 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) 1 and 2 only
-
-**Ans: A.** 1 and 2 only
-</details>
-
-**Q5.**
-
-Which of the following pairs of elements and physical states is **NOT** correctly matched?
-- (A) Mercury — Liquid metal
-- (B) Bromine — Liquid non-metal
-- (C) Iodine — Solid non-metal
-- (D) Gallium — Gas at room temperature
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (D) Gallium — Gas at room temperature
-
-**Ans: D.** Gallium — Gas at room temperature
-</details>
-
-**Q6.**
-
-Arrange the following elements in descending order of their abundance by weight in the Earth's crust:
-1. Iron
-2. Oxygen
-3. Silicon
-4. Aluminum
-
-Select the correct code:
-- (A) $2 > 3 > 4 > 1$
-- (B) $3 > 2 > 4 > 1$
-- (C) $2 > 4 > 3 > 1$
-- (D) $2 > 3 > 1 > 4$
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) $2 > 3 > 4 > 1$
-
-**Ans: A.** $2 > 3 > 4 > 1$
-</details>
-
-**Q7.**
-
-With reference to the periodic table, which group contains the chemically inert Noble Gases?
-- (A) Group 1
-- (B) Group 16
-- (C) Group 17
-- (D) Group 18
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (D) Group 18
-
-**Ans: D.** Group 18
-</details>
-
-**Q8.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** The first ionization energy of Nitrogen is higher than that of Oxygen.
-- **Reason (R):** A half-filled $2p^3$ subshell possesses extra thermodynamic stability due to symmetrical electron distribution.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q9.**
-
-What is the maximum number of electrons that can occupy a $d$-subshell?
-- (A) 2
-- (B) 6
-- (C) 10
-- (D) 14
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 10.
-
-**Ans: C.** 10
-</details>
-
-**Q10.**
-
-Which of the following is the most abundant element by mass in the human body?
-- (A) Carbon
-- (B) Hydrogen
-- (C) Oxygen
-- (D) Nitrogen
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Oxygen.
-
-**Ans: C.** Oxygen
-</details>
-
-**Q11.**
-
-Match List-I (Element Type) with List-II (Example Element):
-
-| List-I | List-II |
-| :--- | :--- |
-| A. Alkali Metal | 1. Silicon |
-| B. Halogen | 2. Sodium |
-| C. Metalloid | 3. Chlorine |
-| D. Noble Gas | 4. Argon |
-
-Select the correct code:
-- (A) A-2, B-3, C-1, D-4
-- (B) A-3, B-2, C-1, D-4
-- (C) A-2, B-1, C-3, D-4
-- (D) A-4, B-3, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) A-2, B-3, C-1, D-4
-
-**Ans: A.** A-2, B-3, C-1, D-4
-</details>
-
-**Q12.**
-
-Which of the following pairs is **NOT** correctly matched?
-- (A) Highest ionization energy — Helium
-- (B) Highest electronegativity — Fluorine
-- (C) Highest electron affinity — Fluorine
-- (D) Densest element — Osmium
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (C) Highest electron affinity — Fluorine
-
-**Ans: C.** Highest electron affinity — Fluorine
-</details>
-
-**Q13.**
-
-With reference to atomic orbitals, the principal quantum number ($n$) determines:
-- (A) The 3D spatial orientation of the orbital
-- (B) The main energy level and size of the orbital
-- (C) The intrinsic spin of the electron
-- (D) The geometric shape of the orbital
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (B) The main energy level and size of the orbital
-
-**Ans: B.** The main energy level and size of the orbital
-</details>
-
-**Q14.**
-
-Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-- **Assertion (A):** Zirconium ($Zr$) and Hafnium ($Hf$) possess nearly identical atomic radii.
-- **Reason (R):** Lanthanide contraction compensates for the expected increase in atomic size from the 4d to 5d transition series.
-
-Select the correct answer:
-- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)
-- (C) (A) is true but (R) is false
-- (D) (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q15.**
-
-The diagonal relationship in the periodic table is exhibited between which pair of elements?
-- (A) Sodium and Potassium
-- (B) Lithium and Magnesium
-- (C) Boron and Carbon
-- (D) Beryllium and Boron
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** (B) Lithium and Magnesium
-
-**Ans: B.** Lithium and Magnesium
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to atomic structure, which of the following statements is/are correct?<br>1. The neutron was discovered by James Chadwick in 1932.<br>2. The mass of an electron is approximately $1/1836\text{th}$ of the mass of a proton.<br>3. The volume of an atomic nucleus occupies over $50\%$ of the total volume of an atom.<br><br>Select the correct answer using the code given below:<br>- (A) 1 and 2 only<br>- (B) 2 and 3 only<br>- (C) 1 only<br>- (D) 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):<br>- **Assertion (A):** Chlorine has a higher electron affinity than Fluorine.<br>- **Reason (R):** Fluorine's compact $2p$ subshell has an exceptionally high electron density, producing strong inter-electronic repulsion against incoming electrons.<br><br>Select the correct answer:<br>- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)<br>- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)<br>- (C) (A) is true but (R) is false<br>- (D) (A) is false but (R) is true</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Subatomic Discovery / Rule) with List-II (Pioneering Scientist):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Law of Octaves</td><td><span class="match-key">1</span> Ernest Rutherford</td></tr>
+      <tr><td><span class="match-key">B</span> Modern Periodic Law</td><td><span class="match-key">2</span> John Newlands</td></tr>
+      <tr><td><span class="match-key">C</span> Discovery of Atomic Nucleus</td><td><span class="match-key">3</span> Henry Moseley</td></tr>
+      <tr><td><span class="match-key">D</span> Uncertainty Principle</td><td><span class="match-key">4</span> Werner Heisenberg</td></tr>
+  </tbody>
+</table><br>Select the correct code:<br>- (A) A-2, B-3, C-1, D-4<br>- (B) A-3, B-2, C-1, D-4<br>- (C) A-2, B-3, C-4, D-1<br>- (D) A-4, B-3, C-1, D-2</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) A-2, B-3, C-1, D-4
+
+**Ans: A.** A-2, B-3, C-1, D-4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements is/are correct regarding periodic trends across a period (left to right)?<br>1. Atomic radius decreases across a period.<br>2. Electronegativity increases across a period.<br>3. Metallic character increases across a period.<br><br>Select the correct answer using the code given below:<br>- (A) 1 and 2 only<br>- (B) 2 and 3 only<br>- (C) 1 only<br>- (D) 1, 2 and 3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) 1 and 2 only
+
+**Ans: A.** 1 and 2 only</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs of elements and physical states is **NOT** correctly matched?<br>- (A) Mercury — Liquid metal<br>- (B) Bromine — Liquid non-metal<br>- (C) Iodine — Solid non-metal<br>- (D) Gallium — Gas at room temperature</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (D) Gallium — Gas at room temperature
+
+**Ans: D.** Gallium — Gas at room temperature</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following elements in descending order of their abundance by weight in the Earth's crust:<br>1. Iron<br>2. Oxygen<br>3. Silicon<br>4. Aluminum<br><br>Select the correct code:<br>- (A) $2 > 3 > 4 > 1$<br>- (B) $3 > 2 > 4 > 1$<br>- (C) $2 > 4 > 3 > 1$<br>- (D) $2 > 3 > 1 > 4$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) $2 > 3 > 4 > 1$
+
+**Ans: A.** $2 > 3 > 4 > 1$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the periodic table, which group contains the chemically inert Noble Gases?<br>- (A) Group 1<br>- (B) Group 16<br>- (C) Group 17<br>- (D) Group 18</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (D) Group 18
+
+**Ans: D.** Group 18</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):<br>- **Assertion (A):** The first ionization energy of Nitrogen is higher than that of Oxygen.<br>- **Reason (R):** A half-filled $2p^3$ subshell possesses extra thermodynamic stability due to symmetrical electron distribution.<br><br>Select the correct answer:<br>- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)<br>- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)<br>- (C) (A) is true but (R) is false<br>- (D) (A) is false but (R) is true</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">What is the maximum number of electrons that can occupy a $d$-subshell?<br>- (A) 2<br>- (B) 6<br>- (C) 10<br>- (D) 14</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 10.
+
+**Ans: C.** 10</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following is the most abundant element by mass in the human body?<br>- (A) Carbon<br>- (B) Hydrogen<br>- (C) Oxygen<br>- (D) Nitrogen</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Oxygen.
+
+**Ans: C.** Oxygen</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Element Type) with List-II (Example Element):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Alkali Metal</td><td><span class="match-key">1</span> Silicon</td></tr>
+      <tr><td><span class="match-key">B</span> Halogen</td><td><span class="match-key">2</span> Sodium</td></tr>
+      <tr><td><span class="match-key">C</span> Metalloid</td><td><span class="match-key">3</span> Chlorine</td></tr>
+      <tr><td><span class="match-key">D</span> Noble Gas</td><td><span class="match-key">4</span> Argon</td></tr>
+  </tbody>
+</table><br>Select the correct code:<br>- (A) A-2, B-3, C-1, D-4<br>- (B) A-3, B-2, C-1, D-4<br>- (C) A-2, B-1, C-3, D-4<br>- (D) A-4, B-3, C-1, D-2</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) A-2, B-3, C-1, D-4
+
+**Ans: A.** A-2, B-3, C-1, D-4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is **NOT** correctly matched?<br>- (A) Highest ionization energy — Helium<br>- (B) Highest electronegativity — Fluorine<br>- (C) Highest electron affinity — Fluorine<br>- (D) Densest element — Osmium</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (C) Highest electron affinity — Fluorine
+
+**Ans: C.** Highest electron affinity — Fluorine</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to atomic orbitals, the principal quantum number ($n$) determines:<br>- (A) The 3D spatial orientation of the orbital<br>- (B) The main energy level and size of the orbital<br>- (C) The intrinsic spin of the electron<br>- (D) The geometric shape of the orbital</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (B) The main energy level and size of the orbital
+
+**Ans: B.** The main energy level and size of the orbital</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):<br>- **Assertion (A):** Zirconium ($Zr$) and Hafnium ($Hf$) possess nearly identical atomic radii.<br>- **Reason (R):** Lanthanide contraction compensates for the expected increase in atomic size from the 4d to 5d transition series.<br><br>Select the correct answer:<br>- (A) Both (A) and (R) are true and (R) is the correct explanation of (A)<br>- (B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)<br>- (C) (A) is true but (R) is false<br>- (D) (A) is false but (R) is true</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The diagonal relationship in the periodic table is exhibited between which pair of elements?<br>- (A) Sodium and Potassium<br>- (B) Lithium and Magnesium<br>- (C) Boron and Carbon<br>- (D) Beryllium and Boron</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** (B) Lithium and Magnesium
+
+**Ans: B.** Lithium and Magnesium</div>
+  </div>
+</div>

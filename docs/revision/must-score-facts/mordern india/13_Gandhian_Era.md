@@ -71,6 +71,31 @@ hide:
 48. The **Karachi Session of INC (March 1931)**, presided over by **Vallabhbhai Patel**, ratified the Gandhi-Irwin Pact and adopted landmark resolutions on **Fundamental Rights** and the **National Economic Programme** (drafted by Jawaharlal Nehru).
 49. At the **Second Round Table Conference (Sep–Dec 1931)** in London, Mahatma Gandhi attended as the **sole representative of the Indian National Congress**, sailing aboard the *SS Rajputana*. The conference broke down over the communal question and separate electorates for Depressed Classes.
 50. On 16 August 1932, British PM Ramsay MacDonald announced the **Communal Award (सांप्रदायिक पंचाट)** granting separate electorates to Depressed Classes. In protest, Gandhi began a fast-unto-death at Yerawada Central Jail on 20 September 1932, culminating in the **Poona Pact (पूना पैक्ट, 24 September 1932)** signed by Dr. B.R. Ambedkar and Madan Mohan Malaviya, replacing separate electorates with **148 reserved seats** in provincial legislatures (up from 71).
+51. **Gandhian Concept of Satyagraha & Influences:** Profoundly influenced by **John Ruskin's** *Unto This Last* (inspired idea of *Sarvodaya* and Phoenix Settlement 1904), **Leo Tolstoy's** *The Kingdom of God Is Within You* (concept of non-violent resistance and Tolstoy Farm 1910), and **Henry David Thoreau's** essay *Civil Disobedience*.
+52. **Gandhi's South African Journals & Ashrams:** Published weekly newspaper **Indian Opinion (1903)** in English, Gujarati, Tamil, and Hindi; established **Phoenix Settlement (1904)** near Durban; established **Tolstoy Farm (1910)** near Johannesburg with financial backing of Hermann Kallenbach; organized first Satyagraha against Asiatic Registration Act (Black Act) in 1906.
+53. **Return to India & Political Guru:** Landed at Apollo Bunder, Bombay on **9 January 1915** (celebrated annually as **Pravasi Bharatiya Divas**); adopted **Gopal Krishna Gokhale** as his political guru; on Gokhale's advice, spent first year touring India with 'ears open and mouth shut'; founded **Satyagraha Ashram at Kochrab, Ahmedabad (May 1915)**, shifted to Sabarmati banks in 1917.
+54. **Champaran Satyagraha (April 1917, Bihar):** First Civil Disobedience experiment; invited by **Rajkumar Shukla** to investigate exploitation of indigo cultivators under **Tinkathia System** (obligatory indigo cultivation on 3/20th of land); joined by **Rajendra Prasad**, **J.B. Kripalani**, **Mahadev Desai**, and **Narhari Parikh**; British appointed inquiry commission with Gandhi as member; abolished Tinkathia and refunded 25% of illegal exactions; Rabindranath Tagore conferred title of **'Mahatma'** on Gandhi.
+55. **Ahmedabad Mill Strike (March 1918):** First Hunger Strike; dispute between mill owners and workers over withdrawal of **Plague Bonus**; mill owners offered 20% while workers demanded 50%; Gandhi intervened on appeal of **Anasuya Sarabhai**; went on hunger strike; tribunal awarded **35% wage increase**.
+56. **Kheda Satyagraha (March–June 1918, Gujarat):** First Non-Cooperation movement; total crop failure in Kheda district; as per revenue code, if yield was less than 25% of normal, revenue was to be fully suspended, but authorities refused remission; Gandhi and **Vallabhbhai Patel** (who gave up legal practice) led no-tax campaign; government secretly agreed to collect revenue only from capable cultivators.
+57. **Rowlatt Act Satyagraha (April 1919):** Anarchical and Revolutionary Crimes Act 1919 passed on recommendations of Sir Sidney Rowlatt; authorized detention without trial for up to 2 years ('No Dalil, No Vakil, No Appeal'); Gandhi organized **Satyagraha Sabha (Feb 1919)** and called nationwide strike (*hartal*) on **6 April 1919**.
+58. **Jallianwala Bagh Massacre (13 April 1919, Amritsar):** Peaceful gathering of 20,000 people celebrating Baisakhi and protesting arrest of popular Punjab leaders **Dr. Saifuddin Kitchlew** and **Dr. Satyapal**; Brigadier General **Reginald Dyer** blocked sole exit and opened fire without warning, killing over 1,000 people; Lieutenant Governor of Punjab was **Sir Michael O'Dwyer** (assassinated in London by **Udham Singh** on 13 March 1940); Rabindranath Tagore renounced his **Knighthood**; Gandhi surrendered his **Kaiser-i-Hind** gold medal.
+59. **Hunter Commission of Inquiry (Disorders Inquiry Committee 1919):** Chaired by Lord William Hunter; included 3 Indian members: **Sir Chimanlal Setalvad**, **Pandit Jagat Narayan**, and **Sardar Sultan Ahmad Khan**; condemned Dyer for 'grave error of judgment' but imposed no penal action; British House of Lords praised Dyer as 'Saviour of the Punjab' and presented him a sword of honour.
+60. **Khilafat Movement Convergence (1919–1920):** Led by Ali Brothers (**Maulana Mohammad Ali & Shaukat Ali**), Maulana Abul Kalam Azad, and Hasrat Mohani to preserve Ottoman Caliph's spiritual authority; All-India Khilafat Conference met at Delhi (Nov 1919) electing Gandhi as its President; Gandhi saw it as *'an opportunity of uniting Hindus and Mohammedans that will not arise in a hundred years'*.
+61. **Non-Cooperation Movement Launch (1 August 1920):** Launched on the very day **Bal Gangadhar Tilak passed away**; special session of Congress at **Calcutta (Sep 1920)** approved non-cooperation program (presided by Lala Lajpat Rai); ratified unanimously at **Nagpur Session (Dec 1920)** presided by C. Vijayaraghavachariar; Congress revised goal to 'attainment of Swaraj by peaceful and legitimate means' within one year.
+62. **Tilak Swaraj Fund & Boycott Surge:** Tilak Swaraj Fund was oversubscribed, raising **₹1 crore in 6 months**; lawyers who surrendered lucrative practices included Motilal Nehru, C.R. Das, Vallabhbhai Patel, C. Rajagopalachari, Saifuddin Kitchlew, and Asaf Ali; Subhas Chandra Bose resigned from ICS to head National College, Calcutta.
+63. **Chauri Chaura Incident (4 February 1922):** Violent clash in Gorakhpur district (UP); police fired on unarmed peasant procession; infuriated mob set fire to police station, burning **22 policemen alive**; Gandhi unilaterally called off Non-Cooperation Movement on **12 February 1922** at **Bardoli Working Committee meeting**; Gandhi was arrested on 10 March 1922 and sentenced to 6 years by Judge C.N. Broomfield (released in 1924 due to appendicitis).
+64. **Swaraj Party Formation (1 January 1923):** Split between 'No-Changers' (Rajendra Prasad, C. Rajagopalachari, Vallabhbhai Patel - opposed council entry) and 'Pro-Changers' (advocated entering legislatures to wreck councils from within); **C.R. Das (President)** and **Motilal Nehru (Secretary)** formed the **Congress-Khilafat Swaraj Party** at Gaya; in 1925, Swarajist **Vithalbhai Patel** was elected as the first Indian Speaker (President) of the Central Legislative Assembly.
+65. **Belgaum Session of INC (December 1924):** Only INC annual session **presided over by Mahatma Gandhi**; endorsed Gandhi-Das Pact separating Swarajist legislative work from Gandhian constructive program (khadi, untouchability removal, Hindu-Muslim unity).
+66. **Simon Commission Boycott & Lala Lajpat Rai's Martyrdom:** Simon Commission landed in Bombay on **3 February 1928** met with black flags and cries of *'Simon Go Back'*; at Lahore, **Lala Lajpat Rai** was severely lathicharged by police superintendent James A. Scott on **30 October 1928**; Rai declared: *'The blows struck at me today will be the last nails in the coffin of the British rule in India'*; succumbed to injuries on **17 November 1928**.
+67. **Nehru Report (August 1928):** Drafted in response to challenge by Secretary of State Lord Birkenhead; chaired by Motilal Nehru; recommended **Dominion Status**, linguistic provinces, fundamental rights (19 rights), adult suffrage, and joint electorates with reservation for minorities; rejected separate electorates; opposed by younger radicals (Jawaharlal Nehru & Subhas Bose) who formed Independence for India League demanding complete independence.
+68. **Jinnah's Fourteen Points (March 1929):** Formulated by M.A. Jinnah after rejecting Nehru Report; demanded separate electorates, 1/3rd Muslim representation in Central Legislature, residuary powers to provinces, and unconditional creation of Sindh province.
+69. **Lahore Session & Purna Swaraj (December 1929):** Presided over by **Jawaharlal Nehru** on banks of River Ravi; passed historic resolution declaring **Purna Swaraj (Complete Independence)** as Congress goal; authorized launch of Civil Disobedience; unfurled tricolour at midnight on **31 December 1929**; decided to celebrate **26 January 1930** as the first **Independence Day**.
+70. **Gandhi's 11 Demands to Viceroy Irwin (January 1930):** Published in *Young India*; included 50% reduction in land revenue, abolition of Salt Tax and government salt monopoly, 50% cut in military expenditure and civil service salaries, protective tariff on foreign cloth, and release of political prisoners; Irwin gave no response, precipitating Dandi March.
+71. **Dandi Salt March (12 March – 6 April 1930):** Gandhi set out from **Sabarmati Ashram with 78 chosen followers**; walked **240 miles (385 km)** across Gujarat to Dandi on Arabian coast in **24 days**; broke salt law on morning of **6 April 1930** by picking up a fistful of natural salt, formally launching the **Civil Disobedience Movement**.
+72. **Spread of Salt Satyagraha Across India:** **C. Rajagopalachari** led Salt March from **Tiruchirappalli to Vedaranyam** (Tamil Nadu); **K. Kelappan** led march from **Calicut to Payyanur** (Malabar); **Sarojini Naidu, Imam Saheb, and Manilal Gandhi** led historic non-violent raid on **Dharasana Salt Works (21 May 1930)** where 2,500 volunteers were brutally beaten without raising a hand (reported globally by American journalist Webb Miller).
+73. **Khan Abdul Ghaffar Khan & Khudai Khidmatgars:** Known as **Frontier Gandhi (Badshah Khan)**; mobilized Pathans in NWFP through non-violent volunteer organization **Khudai Khidmatgars ('Red Shirts')**; published Pakhtun monthly; in Peshawar uprising (April 1930), soldiers of the **Garhwal Rifles led by Chandan Singh Garhwali refused to fire** on unarmed Pathan crowds.
+74. **Rani Gaidinliu (Nagaland):** 13-year-old Naga spiritual leader who led the Heraka religious movement into anti-British revolt in Manipur and Nagaland; captured in 1932 and imprisoned for life until released in 1947; Jawaharlal Nehru bestowed upon her the title of **'Rani'** ('Queen of the Nagas').
+75. **Gandhi-Irwin Pact (Delhi Pact - 5 March 1931):** Negotiated through mediation of Tej Bahadur Sapru and M.R. Jayakar; government agreed to release non-violent political prisoners, restore confiscated lands, permit peaceful picketing, and allow people living near seashore to manufacture salt for domestic use; Congress agreed to **suspend Civil Disobedience** and participate in the **Second Round Table Conference**; Irwin refused clemency for Bhagat Singh, Sukhdev, and Rajguru (hanged on 23 March 1931).
 
 ## ⏱️ Timeline / Chronology
 
@@ -165,29 +190,6 @@ hide:
 | **Harijan (Bandhu/Sevak)** | 1933 | Pune / Ahmedabad | Weekly journals published in English, Gujarati, and Hindi dedicated to social reform. |
 | **Sevagram Ashram** | 1936 | Wardha, Maharashtra | Gandhi's headquarters for the final phase of his life (1936–1948). |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Phoenix Ashram (1904)** | **Sabarmati Ashram (1917)** | Oldest ashram founded in South Africa vs primary headquarters ashram on the Sabarmati bank in Ahmedabad | फीनिक्स / साबरमती |
-| **Father of the Nation (राष्ट्रपिता)** | **Mahatma (महात्मा)** | Conferred by **Subhas Chandra Bose** (Azad Hind Radio, 1944) vs conferred by **Rabindranath Tagore** (Champaran, 1917) | राष्ट्रपिता / महात्मा |
-| **Satyagraha (सत्याग्रह)** | **Passive Resistance (निष्क्रिय प्रतिरोध)** | Soul-force based on absolute truth and conversion of opponent's heart vs political weapon of expediency/weakness | सत्याग्रह / निष्क्रिय प्रतिरोध |
-| **Champaran Allies** | **N.G. Ranga / JP / Lohia** | Rajendra Prasad, Kripalani, Mazhar-ul-Haq accompanied Gandhi vs N.G. Ranga opposed; JP/Lohia were not involved in 1917 | चंपारण सहयोगी |
-| **Hunter Committee (1919)** | **Hunter Commission (1882)** | Lord William Hunter's inquiry into Jallianwala firing vs W.W. Hunter's Commission on Indian Education | हंटर कमेटी 1919 / हंटर आयोग 1882 |
-| **First RTC (1930)** | **Second RTC (1931)** | INC boycotted completely vs INC participated with Gandhi as sole official delegate | प्रथम / द्वितीय गोलमेज |
-| **Champaran (1917)** | **Kheda (1918)** | Bihar indigo cultivation (Tinkathia 3/20) vs Gujarat revenue remission issue | चंपारण / खेड़ा |
-| **Ahmedabad Mill Strike (1918)** | **Kheda Satyagraha (1918)** | Urban labour dispute over Plague Bonus (first hunger strike) vs agrarian revenue protest (first non-cooperation) | अहमदाबाद / खेड़ा |
-| **Chauri Chaura (1922)** | **Dandi March (1930)** | Incident causing abrupt withdrawal of NCM vs salt-making triggering CDM launch | चौरी चौरा / दांडी |
-| **No-changers (नो-चेंजर)** | **Pro-changers (प्रो-चेंजर)** | Rajagopalachari, Patel, Rajendra Prasad (stay outside, constructive work) vs C.R. Das, Motilal Nehru (enter councils to wreck reforms) | नो-चेंजर / प्रो-चेंजर |
-| **Nehru Report (1928)** | **Jinnah's 14 Points (1929)** | All-Parties Dominion status draft (Motilal Nehru) vs Muslim League charter of safeguards and separate electorates | नेहरू रिपोर्ट / 14 सूत्र |
-| **Gandhi's 11 Points (1930)** | **Jinnah's 14 Points (1929)** | Jan 1930 administrative/economic ultimatum to Lord Irwin vs Mar 1929 political/communal demands of Muslim League | 11 सूत्र / 14 सूत्र |
-| **Dominion Status** | **Purna Swaraj** | Self-governance within British Empire (Nehru Report 1928) vs complete sovereign independence (Lahore 1929) | डोमिनियन / पूर्ण स्वराज |
-| **Gandhi-Irwin Pact (1931)** | **Poona Pact (1932)** | Congress-Viceroy truce suspending CDM vs Ambedkar-Congress pact on reserved seats for Depressed Classes | गांधी-इरविन / पूना पैक्ट |
-| **Communal Award (1932)** | **Poona Pact (1932)** | Ramsay MacDonald's separate electorates for Depressed Classes vs reserved seats under joint electorates (Yerawada Jail) | सांप्रदायिक पंचाट / पूना पैक्ट |
-| **Tagore Knighthood** | **Sankaran Nair Resignation** | Renounced imperial honorary title vs resigned from the Viceroy's Executive Council after Jallianwala Bagh | टैगोर / शंकरन नायर |
-| **August Offer (1940)** | **Cripps Mission (1942)** | Linlithgow's dominion post-war + minority veto vs Cripps's post-war Constituent Assembly + provincial secession clause | अगस्त प्रस्ताव / क्रिप्स मिशन |
-| **Individual Satyagraha (1940)** | **Civil Disobedience (1930–34)** | Symbolic one-by-one protest affirming free speech vs mass countrywide defiance of salt and civil laws | व्यक्तिगत सत्याग्रह / सविनय अवज्ञा |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The Early Trio: "CAKE" (के-क)
@@ -219,329 +221,242 @@ hide:
 - **24** days of walking (12 March to 5 April 1930)
 - **240** miles (approx. 385 km) covered across Gujarat
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Consider the following events and arrange them in correct chronological order.
-
-1. Poona Pact
-2. End of Civil Disobedience Movement
-3. Gandhi-Irwin Pact
-4. Second Round Table Conference
-
-A. 3, 4, 2, 1
-
-B. 4, 3, 1, 2
-
-C. 4, 3, 2, 1
-
-D. 3, 4, 1, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q2.**
-
-Who among the following resigned from the Viceroy's Executive Council in protest against the Jallianwala Bagh Massacre?
-
-1. Chettur Sankaran Nair
-2. Ishwari Prasad
-3. Muhammad Shafi
-4. Iqbal Narayan Gurtu
-
-A. 2 and 3
-
-B. Only 4
-
-C. 3 and 4
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q3.**
-
-Who returned the 'Knighthood' title to the British Government in reaction against the Jallianwala Bagh Massacre?
-
-A. Md. Ali Jinnah
-
-B. Rabindranath Tagore
-
-C. Rameshwar Singh
-
-D. Shankaran Nair
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q4.**
-
-Consider the following events and arrange them into chronological order:
-
-I. Sharda Act
-II. Nehru Report
-III. Constitution of Simon Commission
-IV. Dandi March
-
-A. III, II, I and IV
-
-B. I, II, III and IV
-
-C. IV, III, II and I
-
-D. I, IV, II and III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5.**
-
-The name of the foreign journalist who reported about Satyagraha at Dharsana salt works was
-
-A. Francis Louis
-
-B. Mark Tully
-
-C. Web Miller
-
-D. Philip Sprat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q6.**
-
-In the contexts of Indian history, which of the following statement/s is/are correct regarding Vaikom Satyagraha?
-
-1. It was a satyagraha against untouchability and caste discrimination.
-2. Mahatma Gandhi participated in this Satyagraha.
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q7.**
-
-Who among the following leaders did NOT participated in the Second Round Table Conference?
-
-A. M.K. Gandhi
-
-B. Sarojini Naidu
-
-C. Pt. Madan Mohan Malviya
-
-D. Dr. Rajendra Prasad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q8.**
-
-Which of the following is NOT correctly matched? (Event) (Year)
-
-A. Indian Navy Act 1927
-
-B. Civil Disobedience 1930 Movement
-
-C. Second Round Table 1931 Conference
-
-D. The Communal Award 1933
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q9.**
-
-Arrange the following events in a chronological order and select the correct answer from the codes given below:
-
-I. Appointment of Simon Commission
-II. Jallianwala Bagh Massacre
-III. Mahatma Gandhi's Dandi March
-IV. Death of Ferozshah Mehta
-
-A. IV, II, I, III
-
-B. I, II, IV, III
-
-C. II, III, IV, I
-
-D. IV, III, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1915 → 1919 → 1927 → 1930.
-
-</details>
-
-**Q10.**
-
-Arrange the following events in a chronological order and select correct answer from the codes given below:
-
-I. Poona Pact
-II. Gandhi-Irvin Agreement
-III. Cripps Mission
-IV. Civil Disobedience Movement
-
-A. IV, II, III, I
-
-B. II, IV, I, III
-
-C. IV, II, I, III
-
-D. III, I, IV, II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 1930 → 1931 → 1932 → 1942. Cripps full card is Topic 14.
-
-</details>
-
-**Q11.**
-
-Who was appointed the Chairman of the ‘National Planning Committee’ by the Indian National Congress in 1938?
-
-A. Sardar Vallabhbhai Patel
-
-B. Rajendra Prasad
-
-C. Jawaharlal Nehru
-
-D. J. B. Kripalani
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** National Planning Committee 1938 — Nehru as Chairman under Bose’s Congress presidency.
-
-**Ans: C (Series B provisional key).** Nehru chaired the Committee set up in **1938** during **Subhas Chandra Bose’s** Congress presidency.
-
-</details>
-
-**Q12.**
-
-Gandhi’s first satyagraha in India was launched at:
-
-A. Kheda
-
-B. Ahmedabad
-
-C. Champaran
-
-D. Bardoli
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First satyagraha in India = Champaran (UKPCS-tagged Extra cluster).
-
-**Ans: C.** **Champaran, 1917**.
-
-</details>
-
-**Q13.**
-
-Who proposed complete independence at the Ahmedabad Congress session of 1921?
-
-A. Jawaharlal Nehru
-
-B. Subhas Chandra Bose
-
-C. Hasrat Mohani
-
-D. C.R. Das
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Complete independence proposal Ahmedabad 1921 = Hasrat Mohani.
-
-**Ans: C.** **Hasrat Mohani**.
-
-</details>
-
-**Q14.**
-
-Who founded the Khudai Khidmatgar movement?
-
-A. Khan Abdul Ghaffar Khan
-
-B. Maulana Azad
-
-C. Hasrat Mohani
-
-D. Muhammad Ali
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Red Shirts / Khudai Khidmatgar = Abdul Ghaffar Khan.
-
-**Ans: A.** **Abdul Ghaffar Khan** (Frontier Gandhi).
-
-</details>
-
-**Q15.**
-
-In 1929, at which place did Mahatma Gandhi complete his translation of Anasakti Yoga (योग)?
-
-A. Kausani
-
-B. Almora (अल्मोड़ा)
-
-C. Nainital (नैनीताल)
-
-D. Ranikhet
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Anasakti Yoga English rendering at Kausani (Uttarakhand (उत्तराखंड)), 1929 — UKPCS place-fact.
-
-**Ans: A.** **Kausani** (बागेश्वर) (Uttarakhand). Full book-author home also in Topic **10**.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following events and arrange them in correct chronological order.<br><br>1. Poona Pact<br>2. End of Civil Disobedience Movement<br>3. Gandhi-Irwin Pact<br>4. Second Round Table Conference</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 4, 3, 1, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 3, 2, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 4, 1, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Who among the following resigned from the Viceroy's Executive Council in protest against the Jallianwala Bagh Massacre?<br><br>1. Chettur Sankaran Nair<br>2. Ishwari Prasad<br>3. Muhammad Shafi<br>4. Iqbal Narayan Gurtu</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who returned the 'Knighthood' title to the British Government in reaction against the Jallianwala Bagh Massacre?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Md. Ali Jinnah</div><div class="pyq-opt"><span class="opt-letter">B</span> Rabindranath Tagore</div><div class="pyq-opt"><span class="opt-letter">C</span> Rameshwar Singh</div><div class="pyq-opt"><span class="opt-letter">D</span> Shankaran Nair</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following events and arrange them into chronological order:<br><br>I. Sharda Act<br>II. Nehru Report<br>III. Constitution of Simon Commission<br>IV. Dandi March</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> III, II, I and IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I, II, III and IV</div><div class="pyq-opt"><span class="opt-letter">C</span> IV, III, II and I</div><div class="pyq-opt"><span class="opt-letter">D</span> I, IV, II and III</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The name of the foreign journalist who reported about Satyagraha at Dharsana salt works was</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Francis Louis</div><div class="pyq-opt"><span class="opt-letter">B</span> Mark Tully</div><div class="pyq-opt"><span class="opt-letter">C</span> Web Miller</div><div class="pyq-opt"><span class="opt-letter">D</span> Philip Sprat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In the contexts of Indian history, which of the following statement/s is/are correct regarding Vaikom Satyagraha?<br><br>1. It was a satyagraha against untouchability and caste discrimination.<br>2. Mahatma Gandhi participated in this Satyagraha.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Who among the following leaders did NOT participated in the Second Round Table Conference?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> M.K. Gandhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Sarojini Naidu</div><div class="pyq-opt"><span class="opt-letter">C</span> Pt. Madan Mohan Malviya</div><div class="pyq-opt"><span class="opt-letter">D</span> Dr. Rajendra Prasad</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT correctly matched? (Event) (Year)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Indian Navy Act 1927</div><div class="pyq-opt"><span class="opt-letter">B</span> Civil Disobedience 1930 Movement</div><div class="pyq-opt"><span class="opt-letter">C</span> Second Round Table 1931 Conference</div><div class="pyq-opt"><span class="opt-letter">D</span> The Communal Award 1933</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in a chronological order and select the correct answer from the codes given below:<br><br>I. Appointment of Simon Commission<br>II. Jallianwala Bagh Massacre<br>III. Mahatma Gandhi's Dandi March<br>IV. Death of Ferozshah Mehta</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> IV, II, I, III</div><div class="pyq-opt"><span class="opt-letter">B</span> I, II, IV, III</div><div class="pyq-opt"><span class="opt-letter">C</span> II, III, IV, I</div><div class="pyq-opt"><span class="opt-letter">D</span> IV, III, II, I</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1915 → 1919 → 1927 → 1930.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in a chronological order and select correct answer from the codes given below:<br><br>I. Poona Pact<br>II. Gandhi-Irvin Agreement<br>III. Cripps Mission<br>IV. Civil Disobedience Movement</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> IV, II, III, I</div><div class="pyq-opt"><span class="opt-letter">B</span> II, IV, I, III</div><div class="pyq-opt"><span class="opt-letter">C</span> IV, II, I, III</div><div class="pyq-opt"><span class="opt-letter">D</span> III, I, IV, II</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1930 → 1931 → 1932 → 1942. Cripps full card is Topic 14.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Who was appointed the Chairman of the ‘National Planning Committee’ by the Indian National Congress in 1938?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sardar Vallabhbhai Patel</div><div class="pyq-opt"><span class="opt-letter">B</span> Rajendra Prasad</div><div class="pyq-opt"><span class="opt-letter">C</span> Jawaharlal Nehru</div><div class="pyq-opt"><span class="opt-letter">D</span> J. B. Kripalani</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** National Planning Committee 1938 — Nehru as Chairman under Bose’s Congress presidency.
+
+**Ans: C (Series B provisional key).** Nehru chaired the Committee set up in **1938** during **Subhas Chandra Bose’s** Congress presidency.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Gandhi’s first satyagraha in India was launched at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kheda</div><div class="pyq-opt"><span class="opt-letter">B</span> Ahmedabad</div><div class="pyq-opt"><span class="opt-letter">C</span> Champaran</div><div class="pyq-opt"><span class="opt-letter">D</span> Bardoli</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** First satyagraha in India = Champaran (UKPCS-tagged Extra cluster).
+
+**Ans: C.** **Champaran, 1917**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Who proposed complete independence at the Ahmedabad Congress session of 1921?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jawaharlal Nehru</div><div class="pyq-opt"><span class="opt-letter">B</span> Subhas Chandra Bose</div><div class="pyq-opt"><span class="opt-letter">C</span> Hasrat Mohani</div><div class="pyq-opt"><span class="opt-letter">D</span> C.R. Das</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Complete independence proposal Ahmedabad 1921 = Hasrat Mohani.
+
+**Ans: C.** **Hasrat Mohani**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Who founded the Khudai Khidmatgar movement?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Khan Abdul Ghaffar Khan</div><div class="pyq-opt"><span class="opt-letter">B</span> Maulana Azad</div><div class="pyq-opt"><span class="opt-letter">C</span> Hasrat Mohani</div><div class="pyq-opt"><span class="opt-letter">D</span> Muhammad Ali</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Red Shirts / Khudai Khidmatgar = Abdul Ghaffar Khan.
+
+**Ans: A.** **Abdul Ghaffar Khan** (Frontier Gandhi).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">In 1929, at which place did Mahatma Gandhi complete his translation of Anasakti Yoga (योग)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kausani</div><div class="pyq-opt"><span class="opt-letter">B</span> Almora (अल्मोड़ा)</div><div class="pyq-opt"><span class="opt-letter">C</span> Nainital (नैनीताल)</div><div class="pyq-opt"><span class="opt-letter">D</span> Ranikhet</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Anasakti Yoga English rendering at Kausani (Uttarakhand (उत्तराखंड)), 1929 — UKPCS place-fact.
+
+**Ans: A.** **Kausani** (बागेश्वर) (Uttarakhand). Full book-author home also in Topic **10**.</div>
+  </div>
+</div>

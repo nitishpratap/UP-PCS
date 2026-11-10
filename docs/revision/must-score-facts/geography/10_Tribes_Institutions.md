@@ -158,19 +158,6 @@ hide:
 | **Forest Survey of India (FSI)** | **Dehradun, Uttarakhand** | MoEFCC | Biennial assessment of India's forest cover; publishes the India State of Forest Report (ISFR) |
 | **Central Soil and Water Conservation Research (IISWC)** | **Dehradun, Uttarakhand** | ICAR | Watershed management, soil erosion control, and ravine reclamation research |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Tharu Tribe** | **Bhotia Tribe** | Inhabit the **Tarai lowlands** (UP/Uttarakhand); celebrate **Diwali as a day of mourning** (*शोक पर्व*) vs Inhabit the **High Himalayas**; practice **seasonal transhumance** (*ऋतु प्रवास*) | थारू (तराई) / भोटिया (उच्च हिमालय) |
-| **Jaunsari Tribe** | **Toda Tribe** | Polyandrous tribe inhabiting **Dehradun / Garhwal hills (Uttarakhand)** vs Polyandrous pastoral buffalo-rearing tribe inhabiting the **Nilgiri Hills (Tamil Nadu)** | जौनसारी (उत्तराखंड) / टोडा (नीलगिरि) |
-| **Negrito Tribes of A&N** | **Mongoloid Tribes of A&N** | **Great Andamanese, Onge, Jarawa, Sentinelese** (inhabit Andaman Islands) vs **Shompen and Nicobarese** (inhabit Nicobar Islands) | अंडमानी नीग्रिटो / निकोबारी मंगोलॉयड |
-| **Largest ST by Population** | **Second Largest ST** | **Bhil** is the largest tribal group in India (~37.7% of total STs) vs **Gond** is the second-largest tribal group in India (~35.6% of STs) | भील (प्रथम) / गोंड (द्वितीय) |
-| **Survey of India (SoI)** | **Forest Survey of India (FSI)** | Apex national mapping agency under DST located in **Dehradun** (estd. **1767**) vs Forest cover assessing agency under MoEFCC located in **Dehradun** (estd. **1981**) | भारतीय सर्वेक्षण विभाग / भारतीय वन सर्वेक्षण |
-| **IIRS (Dehradun)** | **NRSC (Hyderabad)** | Indian Institute of **Remote Sensing** (training/academic campus in Dehradun) vs National **Remote Sensing Centre** (satellite data downlink & processing hub in Hyderabad) | आईआईआरएस (देहरादून) / एनआरएससी (हैदराबाद) |
-| **States with NO STs** | **States with NO SCs** | **Punjab, Haryana, Delhi, Chandigarh, Puducherry** have NO Scheduled Tribes vs **Nagaland, Mizoram, Lakshadweep, Andaman & Nicobar** have NO Scheduled Castes | शून्य जनजाति राज्य / शून्य अनुसूचित जाति राज्य |
-| **Sarhul Festival** | **Bhagoria Festival** | Spring festival celebrated with blossoming Sal trees by **Munda and Oraon** (Jharkhand) vs Traditional post-harvest holi fair celebrated by **Bhil and Bhilala** (Madhya Pradesh) | सरहुल (झारखंड) / भगोरिया (मप्र) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. States with NO Scheduled Tribes (STs): **P-H-D-C-P**
@@ -197,390 +184,357 @@ hide:
 - **Transhumance (*Ritu Pravas*)** → **Bhotia** (UK) & **Gaddi / Gujjar** (HP/J&K)
 - **Terrace Paddy-cum-Fish Farming** → **Apatani** (Arunachal Pradesh)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-With reference to Scheduled Tribes in India, which of the following statements is/are correct?
-
-1. ST lists are state-wise under Article 342.
-2. A community listed as ST in one State is automatically ST in every other State.
-3. STs were about 8.6% of India’s population in Census 2011.
-
-A. 1 and 2
-B. Only 3
-C. 1 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Statements 1 and 3 are correct.
-
-**Logic:** ST lists are state-specific; listing in one State does not travel automatically to another.
-
-</details>
-
-**Q2.**
-Which State has the largest number of Particularly Vulnerable Tribal Groups (PVTGs)?
-
-A. Madhya Pradesh
-B. Jharkhand
-C. Odisha
-D. Chhattisgarh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Odisha has the most PVTG communities among States.
-
-**Logic:** National PVTG count is **75**; Odisha leads the State tally.
-
-</details>
-
-**Q3.**
-Consider the following pairs:
-
-1. Angami — Nagaland
-2. Toda — Tamil Nadu
-3. Khasi — Arunachal Pradesh
-4. Birhor — Jharkhand
-
-Which of the pairs given above is/are correctly matched?
-
-A. 1, 2 and 4
-B. Only 3
-C. 2 and 3
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Pairs 1, 2 and 4 are correct.
-
-**Logic:** Khasi = **Meghalaya**, not Arunachal. That is the classic swap trap.
-
-</details>
-
-**Q4.**
-Assertion (A): The Sixth Schedule applies to Assam, Meghalaya, Tripura and Mizoram.
-Reason (R): The Fifth Schedule covers Scheduled Areas in many States outside that four-State set.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both are true, but R describes a different schedule rather than explaining why Sixth Schedule is limited to four States.
-
-**A/R logic:** A and R are both standard facts; R does not cause A.
-
-</details>
-
-**Q5.**
-Which of the following is/are Uttar Pradesh PVTGs?
-
-1. Buksa
-2. Raji
-3. Tharu
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** UP PVTGs are **Buksa and Raji**.
-
-**Logic:** Tharu is a classic UP ST but not the PVTG pair in the usual teaching set.
-
-</details>
-
-**Q6.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Tribe) | List-II (Association) |
-|---|---|
-| 1. Masai | A. East Africa |
-| 2. Semang | B. Malaysia |
-| 3. Koryak | C. NE Siberia |
-| 4. Punan | D. Borneo |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-A, 2-C, 3-B, 4-D
-D. 1-A, 2-B, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Masai–East Africa; Semang–Malaysia; Koryak–NE Siberia; Punan–Borneo.
-
-**Logic:** Row order is not the answer code. Common traps are Masai–West Africa and Koryak–Alaska.
-
-</details>
-
-**Q7.**
-NDRI and NDDB are correctly distinguished as:
-
-A. NDRI — Anand cooperative board; NDDB — Karnal dairy lab
-B. NDRI — Karnal dairy research; NDDB — Anand cooperative board
-C. Both are at Karnal
-D. Both are at Anand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** NDRI is the Karnal lab; NDDB is the Anand board behind Operation Flood.
-
-**Logic:** Swapping Karnal and Anand is the standard institute trap.
-
-</details>
-
-**Q8.**
-With reference to Andaman and Nicobar tribes, which of the following statements is/are correct?
-
-1. Sentinelese are a Negrito Andaman group.
-2. Shompen are a Nicobar Mongoloid PVTG.
-3. Rengma is an Andaman Negrito tribe.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Rengma = **Nagaland**, not an island tribe.
-
-</details>
-
-**Q9.**
-Janjatiya Gaurav Diwas is observed on:
-
-A. 15 August
-B. 15 November
-C. 26 January
-D. 2 October
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** It marks **Birsa Munda’s** birth anniversary on **15 November**.
-
-**Logic:** Do not confuse with Hul (1855) or Independence Day.
-
-</details>
-
-**Q10.**
-Which one of the following pairs is NOT correctly matched?
-
-A. FRI — Dehradun
-B. IVRI — Izatnagar, Bareilly
-C. IARI — Pusa, New Delhi
-D. CISH — Kanpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** CISH is at **Lucknow**; CSAUAT is the Kanpur agricultural university tag.
-
-**Logic:** Lucknow vs Kanpur institute swap is frequent.
-
-</details>
-
-**Q11.**
-Consider the following statements about PESA:
-
-1. PESA was enacted in 1996.
-2. It extends panchayat provisions to Fifth Schedule areas.
-3. It applies automatically to all Sixth Schedule States as their only tribal law.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Statements 1 and 2 are correct.
-
-**Logic:** Sixth Schedule States have a separate autonomous-council framework; PESA is the Fifth Schedule extension.
-
-</details>
-
-**Q12.**
-Which of the following UP tribe–habitat pairs is/are correctly matched?
-
-1. Tharu — Terai
-2. Saharya — Lalitpur
-3. Agariya — iron smelting in Sonbhadra–Mirzapur belt
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three pairs are correct.
-
-**Logic:** These are the standard UP ST geography associations.
-
-</details>
-
-**Q13.**
-Assertion (A): Khasi and Garo societies of Meghalaya are often cited as matrilineal.
-Reason (R): All North-East tribes follow matriliny as a constitutional rule.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A is true; R is false.
-
-**A/R logic:** Matriliny is a Khasi–Garo teaching tag, not a blanket NE rule.
-
-</details>
-
-**Q14.**
-The Forest Rights Act was enacted in:
-
-A. 1996
-B. 2002
-C. 2006
-D. 2013
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** The Forest Rights Act is **2006**.
-
-**Logic:** Do not confuse with PESA 1996.
-
-</details>
-
-**Q15.**
-Which one of the following is NOT a Sixth Schedule State?
-
-A. Assam
-B. Meghalaya
-C. Nagaland
-D. Mizoram
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Sixth Schedule covers Assam, Meghalaya, Tripura and Mizoram — **not Nagaland**.
-
-**Logic:** Nagaland has special constitutional arrangements but is not in the four-State Sixth Schedule list.
-
-</details>
-
-**Q16.**
-With reference to tribal institutes, which of the following is/are correct?
-
-1. IMD headquarters is New Delhi.
-2. ICAR headquarters is New Delhi.
-3. WII and FRI are both at Dehradun, so WII is the correct FRI answer in institute stems.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Both sit in Dehradun, but FRI/ICFRE is the forestry answer; WII is wildlife — do not swap.
-
-</details>
-
-**Q17.**
-Kuki is correctly placed as:
-
-A. A Uttar Pradesh Scheduled Tribe
-B. A North-East tribe (not a UP ST)
-C. An Andaman Negrito group
-D. A Nicobar Mongoloid group
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Kuki is North-East; it is **not** a UP ST entry.
-
-**Logic:** UP ST traps often plant NE names into the State list.
-
-</details>
-
-**Q18.**
-Arrange the following in the correct chronological order:
-
-1. Santhal Hul
-2. PESA
-3. Forest Rights Act
-
-A. 1–2–3
-B. 2–1–3
-C. 1–3–2
-D. 3–2–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Hul **1855** → PESA **1996** → FRA **2006**.
-
-**Logic:** Nineteenth-century Hul precedes the 1990s–2000s statute cluster.
-
-</details>
-
-**Q19.**
-Which of the following statements about PM-JANMAN is correct?
-
-A. It is a Ministry of AYUSH mission for tribal medicine only
-B. It is the main PVTG outreach mission under tribal-affairs framing
-C. It replaces Article 342 list-making
-D. It applies only to Andaman tribes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** PM-JANMAN is the living PVTG outreach mission (housing, health, education, connectivity).
-
-**Logic:** Ministry trap is Social Justice / AYUSH; list-making stays with Article 342.
-
-</details>
-
-**Q20.**
-Which one of the following pairs is correctly matched?
-
-A. Bushman — Congo Basin
-B. Pygmy — Kalahari
-C. Eskimo — northern Canada
-D. Masai — West Africa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Eskimo = northern Canada in the usual habitat set.
-
-**Logic:** Bushman–Kalahari, Pygmy–Congo, Masai–East Africa are the other correct pairs; options A/B/D swap them.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Scheduled Tribes in India, which of the following statements is/are correct?<br><br>1. ST lists are state-wise under Article 342.<br>2. A community listed as ST in one State is automatically ST in every other State.<br>3. STs were about 8.6% of India’s population in Census 2011.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** ST lists are state-specific; listing in one State does not travel automatically to another.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which State has the largest number of Particularly Vulnerable Tribal Groups (PVTGs)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Madhya Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Jharkhand</div><div class="pyq-opt"><span class="opt-letter">C</span> Odisha</div><div class="pyq-opt"><span class="opt-letter">D</span> Chhattisgarh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Odisha has the most PVTG communities among States.
+
+**Logic:** National PVTG count is **75**; Odisha leads the State tally.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>1. Angami — Nagaland<br>2. Toda — Tamil Nadu<br>3. Khasi — Arunachal Pradesh<br>4. Birhor — Jharkhand<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 4</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1, 2 and 4 are correct.
+
+**Logic:** Khasi = **Meghalaya**, not Arunachal. That is the classic swap trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): The Sixth Schedule applies to Assam, Meghalaya, Tripura and Mizoram.<br>Reason (R): The Fifth Schedule covers Scheduled Areas in many States outside that four-State set.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true, but R describes a different schedule rather than explaining why Sixth Schedule is limited to four States.
+
+**A/R logic:** A and R are both standard facts; R does not cause A.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following is/are Uttar Pradesh PVTGs?<br><br>1. Buksa<br>2. Raji<br>3. Tharu</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> UP PVTGs are **Buksa and Raji**.
+
+**Logic:** Tharu is a classic UP ST but not the PVTG pair in the usual teaching set.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Tribe)</th><th>List-II (Association)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Masai</td><td><span class="match-key">A</span> East Africa</td></tr>
+      <tr><td><span class="match-key">2</span> Semang</td><td><span class="match-key">B</span> Malaysia</td></tr>
+      <tr><td><span class="match-key">3</span> Koryak</td><td><span class="match-key">C</span> NE Siberia</td></tr>
+      <tr><td><span class="match-key">4</span> Punan</td><td><span class="match-key">D</span> Borneo</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-A, 2-C, 3-B, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Masai–East Africa; Semang–Malaysia; Koryak–NE Siberia; Punan–Borneo.
+
+**Logic:** Row order is not the answer code. Common traps are Masai–West Africa and Koryak–Alaska.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">NDRI and NDDB are correctly distinguished as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> NDRI — Anand cooperative board; NDDB — Karnal dairy lab</div><div class="pyq-opt"><span class="opt-letter">B</span> NDRI — Karnal dairy research; NDDB — Anand cooperative board</div><div class="pyq-opt"><span class="opt-letter">C</span> Both are at Karnal</div><div class="pyq-opt"><span class="opt-letter">D</span> Both are at Anand</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> NDRI is the Karnal lab; NDDB is the Anand board behind Operation Flood.
+
+**Logic:** Swapping Karnal and Anand is the standard institute trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to Andaman and Nicobar tribes, which of the following statements is/are correct?<br><br>1. Sentinelese are a Negrito Andaman group.<br>2. Shompen are a Nicobar Mongoloid PVTG.<br>3. Rengma is an Andaman Negrito tribe.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Rengma = **Nagaland**, not an island tribe.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Janjatiya Gaurav Diwas is observed on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 15 August</div><div class="pyq-opt"><span class="opt-letter">B</span> 15 November</div><div class="pyq-opt"><span class="opt-letter">C</span> 26 January</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 October</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> It marks **Birsa Munda’s** birth anniversary on **15 November**.
+
+**Logic:** Do not confuse with Hul (1855) or Independence Day.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> FRI — Dehradun</div><div class="pyq-opt"><span class="opt-letter">B</span> IVRI — Izatnagar, Bareilly</div><div class="pyq-opt"><span class="opt-letter">C</span> IARI — Pusa, New Delhi</div><div class="pyq-opt"><span class="opt-letter">D</span> CISH — Kanpur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> CISH is at **Lucknow**; CSAUAT is the Kanpur agricultural university tag.
+
+**Logic:** Lucknow vs Kanpur institute swap is frequent.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about PESA:<br><br>1. PESA was enacted in 1996.<br>2. It extends panchayat provisions to Fifth Schedule areas.<br>3. It applies automatically to all Sixth Schedule States as their only tribal law.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Sixth Schedule States have a separate autonomous-council framework; PESA is the Fifth Schedule extension.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following UP tribe–habitat pairs is/are correctly matched?<br><br>1. Tharu — Terai<br>2. Saharya — Lalitpur<br>3. Agariya — iron smelting in Sonbhadra–Mirzapur belt</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three pairs are correct.
+
+**Logic:** These are the standard UP ST geography associations.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Khasi and Garo societies of Meghalaya are often cited as matrilineal.<br>Reason (R): All North-East tribes follow matriliny as a constitutional rule.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is true; R is false.
+
+**A/R logic:** Matriliny is a Khasi–Garo teaching tag, not a blanket NE rule.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The Forest Rights Act was enacted in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1996</div><div class="pyq-opt"><span class="opt-letter">B</span> 2002</div><div class="pyq-opt"><span class="opt-letter">C</span> 2006</div><div class="pyq-opt"><span class="opt-letter">D</span> 2013</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Forest Rights Act is **2006**.
+
+**Logic:** Do not confuse with PESA 1996.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT a Sixth Schedule State?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Assam</div><div class="pyq-opt"><span class="opt-letter">B</span> Meghalaya</div><div class="pyq-opt"><span class="opt-letter">C</span> Nagaland</div><div class="pyq-opt"><span class="opt-letter">D</span> Mizoram</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sixth Schedule covers Assam, Meghalaya, Tripura and Mizoram — **not Nagaland**.
+
+**Logic:** Nagaland has special constitutional arrangements but is not in the four-State Sixth Schedule list.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to tribal institutes, which of the following is/are correct?<br><br>1. IMD headquarters is New Delhi.<br>2. ICAR headquarters is New Delhi.<br>3. WII and FRI are both at Dehradun, so WII is the correct FRI answer in institute stems.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Both sit in Dehradun, but FRI/ICFRE is the forestry answer; WII is wildlife — do not swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Kuki is correctly placed as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A Uttar Pradesh Scheduled Tribe</div><div class="pyq-opt"><span class="opt-letter">B</span> A North-East tribe (not a UP ST)</div><div class="pyq-opt"><span class="opt-letter">C</span> An Andaman Negrito group</div><div class="pyq-opt"><span class="opt-letter">D</span> A Nicobar Mongoloid group</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kuki is North-East; it is **not** a UP ST entry.
+
+**Logic:** UP ST traps often plant NE names into the State list.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in the correct chronological order:<br><br>1. Santhal Hul<br>2. PESA<br>3. Forest Rights Act</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1–2–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–1–3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1–3–2</div><div class="pyq-opt"><span class="opt-letter">D</span> 3–2–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hul **1855** → PESA **1996** → FRA **2006**.
+
+**Logic:** Nineteenth-century Hul precedes the 1990s–2000s statute cluster.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements about PM-JANMAN is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It is a Ministry of AYUSH mission for tribal medicine only</div><div class="pyq-opt"><span class="opt-letter">B</span> It is the main PVTG outreach mission under tribal-affairs framing</div><div class="pyq-opt"><span class="opt-letter">C</span> It replaces Article 342 list-making</div><div class="pyq-opt"><span class="opt-letter">D</span> It applies only to Andaman tribes</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> PM-JANMAN is the living PVTG outreach mission (housing, health, education, connectivity).
+
+**Logic:** Ministry trap is Social Justice / AYUSH; list-making stays with Article 342.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bushman — Congo Basin</div><div class="pyq-opt"><span class="opt-letter">B</span> Pygmy — Kalahari</div><div class="pyq-opt"><span class="opt-letter">C</span> Eskimo — northern Canada</div><div class="pyq-opt"><span class="opt-letter">D</span> Masai — West Africa</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Eskimo = northern Canada in the usual habitat set.
+
+**Logic:** Bushman–Kalahari, Pygmy–Congo, Masai–East Africa are the other correct pairs; options A/B/D swap them.</div>
+  </div>
+</div>

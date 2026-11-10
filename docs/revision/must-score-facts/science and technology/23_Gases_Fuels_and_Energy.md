@@ -219,21 +219,6 @@ hide:
 | **Sulfur Hexafluoride**| **$SF_6$** | **$3,200\text{ years}$** | **$23,500\times$ (HIGHEST GWP!)**| High-voltage electrical switchgear insulation, semiconductor etching |
 | **Water Vapor** | **$H_2O$** | Days (hydrological cycle) | N/A | **Largest natural contributor to greenhouse warming ($\approx 60\%$)** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **LPG Gas Odor** | **LPG Natural Scent Trap** | Pure liquefied petroleum gas (Butane + Propane) is **completely ODORLESS**. The pungent rotten-cabbage smell is due to **ETHYL MERCAPTAN ($C_2H_5SH$)**, added intentionally for leak detection. | एलपीजी गंधहीन होती है; रिसाव का पता लगाने हेतु इसमें एथिल मरकैप्टेन मिलाया जाता है |
-| **LPG Main Component** | **CNG Main Component** | **LPG is predominantly BUTANE ($C_4H_{10}$) and Propane**. **CNG is predominantly METHANE ($CH_4, >85\%$)**. Confusing LPG with CNG is one of the most common Prelims slips! | एलपीजी का मुख्य घटक = ब्यूटेन ($C_4H_{10}$); सीएनजी का मुख्य घटक = मीथेन ($CH_4$) |
-| **Water Gas** | **Producer Gas** | **Water Gas is Carbon Monoxide + HYDROGEN ($CO + H_2$)**. **Producer Gas is Carbon Monoxide + NITROGEN ($CO + N_2$)**. Water gas has much higher calorific value. | वाटर गैस (जल गैस) = $CO + H_2$; प्रोड्यूसर गैस = $CO + N_2$ |
-| **Highest Calorific Fuel** | **Petrol vs Hydrogen** | **HYDROGEN ($H_2$) has the HIGHEST calorific value of all fuels ($150\text{ kJ/g}$)**, over $3\times$ higher than petrol ($45\text{ kJ/g}$). | सभी ईंधनों में सर्वाधिक ऊष्मीय मान = हाइड्रोजन ($150\text{ kJ/g}$) |
-| **Carbon Monoxide Toxicity** | **Carbon Dioxide Toxicity** | Carbon Monoxide ($CO$) binds to blood hemoglobin with **$250–300\times$ greater affinity than oxygen**, forming stable **Carboxyhemoglobin** which causes fatal chemical asphyxiation. | कार्बन मोनोऑक्साइड हीमोग्लोबिन से ऑक्सीजन की तुलना में 300 गुना तीव्रता से जुड़ती है |
-| **Coal Grades Hierarchy** | **Carbon Content Order** | The four coal ranks in descending carbon content and calorific value are strictly: **Anthracite ($>85\%$) > Bituminous ($70–85\%$) > Lignite ($60–70\%$) > Peat ($<60\%$)**. | कोयले की सर्वोत्तम किस्म = एन्थ्रेसाइट; निकृष्टम = पीट (Peat) |
-| **Biogas Fermentation** | **Aerobic vs Anaerobic** | Biogas generation is strictly an **ANAEROBIC digestion process** carried out by methanogenic bacteria (*Methanobacterium*) in the complete absence of molecular oxygen. | गोबर गैस संयंत्र में मीथेन का निर्माण अवायवीय (Anaerobic) परिस्थितियों में होता है |
-| **Marsh Gas Identity** | **Chemical Name** | **Marsh Gas is METHANE ($CH_4$)**, so named because it bubbles up naturally from stagnant organic marshes and wetland swamps. It is also the damp gas causing coal mine explosions. | मार्श गैस (Marsh Gas) = मीथेन ($CH_4$) |
-| **Hydrogen Bomb Fuel** | **Uranium Bomb Fuel** | An atomic bomb uses fissile **Uranium-235 or Plutonium-239**. A hydrogen bomb uses **Deuterium and Tritium (Hydrogen isotopes)** to undergo thermonuclear fusion triggered by a fission core. | हाइड्रोजन बम में संलयन ईंधन के रूप में ड्यूटीरियम व ट्रिटियम प्रयुक्त होते हैं |
-| **Natural Gas Transportation** | **State of Matter in Pipeline**| In pipelines, natural gas is transported as pressurized **gas (PNG)**. For ocean tanker transport across continents, it is liquefied at $-162^\circ\text{C}$ into **LNG (Liquefied Natural Gas)** reducing volume by $600\times$. | एलएनजी (LNG) द्रवीभूत प्राकृतिक गैस है जिसे $-162^\circ\text{C}$ पर द्रवीकृत किया जाता है |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Domestic Fuel Compositions:
@@ -252,276 +237,232 @@ hide:
 - **L**ignite ($60–70\%$, Brown coal, Neyveli Tamil Nadu).
 - **P**eat ($<60\%$, Immature early stage, High moisture & smoke).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-What is the primary constituent gas of Liquefied Petroleum Gas (LPG)?
-(a) Methane  
-(b) Butane  
-(c) Ethylene  
-(d) Acetylene  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Butane.
-
-**Ans: B.** Butane
-</details>
-
----
-
-**Q2.**
-
-Which compound is added to commercial LPG to provide a pungent odor for leak detection?
-(a) Methyl alcohol  
-(b) Ethyl mercaptan ($C_2H_5SH$)  
-(c) Acetone  
-(d) Hydrogen sulphide  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ethyl mercaptan (ethanethiol) is an organosulfur compound added to odorless LPG as a leak warning agent.
-
-**Ans: B.** Ethyl mercaptan ($C2H5SH$)
-</details>
-
----
-
-**Q3.**
-
-What is the primary constituent of Compressed Natural Gas (CNG)?
-(a) Methane ($CH_4$)  
-(b) Butane ($C_4H_{10}$)  
-(c) Propane ($C_3H_8$)  
-(d) Hydrogen ($H_2$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CNG is compressed natural gas composed of $>85\%$ methane.
-
-**Ans: A.** Methane ($CH4$)
-</details>
-
----
-
-**Q4.**
-
-Which fuel possesses the highest calorific value per unit mass?
-(a) Methane  
-(b) Petrol  
-(c) Hydrogen  
-(d) LPG  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hydrogen has a calorific value of $150,000\text{ kJ/kg}$, roughly three times that of petrol ($45,000\text{ kJ/kg}$) or methane ($55,000\text{ kJ/kg}$).
-
-**Ans: C.** Hydrogen
-</details>
-
----
-
-**Q5.**
-
-What is the composition of "Water Gas"?
-(a) $CO + N_2$  
-(b) $CO + H_2$  
-(c) $CO_2 + H_2$  
-(d) $CH_4 + H_2$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Water gas (syngas) is an equimolar mixture of carbon monoxide and hydrogen ($CO + H2$) formed by steam passing over red-hot coke.
-
-**Ans: B.** $CO + H2$
-</details>
-
----
-
-**Q6.**
-
-Producer gas consists primarily of:
-(a) $CO + H_2$  
-(b) $CO + N_2$  
-(c) $CO_2 + N_2$  
-(d) $CH_4 + N_2$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Producer gas is produced by passing air over red-hot coke, yielding carbon monoxide ($\approx 30\%$) and nitrogen ($\approx 60\%$).
-
-**Ans: B.** $CO + N2$
-</details>
-
----
-
-**Q7.**
-
-Which of the following is the highest quality rank of coal with over $90\%$ carbon?
-(a) Lignite  
-(b) Peat  
-(c) Bituminous  
-(d) Anthracite  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Anthracite contains $>90–95\%$ carbon, burns with minimal smoke, and has the highest calorific value of all coal types.
-
-**Ans: D.** Anthracite
-</details>
-
----
-
-**Q8.**
-
-In which Indian state is the major lignite deposit at Neyveli located?
-(a) Jharkhand  
-(b) Tamil Nadu  
-(c) Odisha  
-(d) Madhya Pradesh  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Neyveli is located in Cuddalore district of Tamil Nadu.
-
-**Ans: B.** Tamil Nadu
-</details>
-
----
-
-**Q9.**
-
-Octane number is used to rate the anti-knock quality of:
-(a) Diesel  
-(b) Petrol (Gasoline)  
-(c) Kerosene  
-(d) Coal gas  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Octane number measures anti-knock performance of petrol in spark-ignition engines.
-
-**Ans: B.** Petrol (Gasoline)
-</details>
-
----
-
-**Q10.**
-
-Cetane number evaluates the ignition quality of which automotive fuel?
-(a) Aviation turbine fuel  
-(b) Diesel  
-(c) Compressed natural gas  
-(d) Liquefied petroleum gas  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Diesel.
-
-**Ans: B.** Diesel
-</details>
-
----
-
-**Q11.**
-
-What gas is generated by the anaerobic decomposition of cow dung in Gobar gas plants?
-(a) Butane  
-(b) Methane  
-(c) Acetylene  
-(d) Carbon monoxide  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Methane.
-
-**Ans: B.** Methane
-</details>
-
----
-
-**Q12.**
-
-What is the temperature of the coldest, innermost zone of a candle flame?
-(a) Hottest zone of the flame  
-(b) Lowest temperature zone of the flame  
-(c) Over $2000^\circ\text{C}$  
-(d) Same as the blue zone  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The innermost dark zone contains unburnt wax vapors and lacks oxygen, making it the coolest region of the candle flame.
-
-**Ans: B.** Lowest temperature zone of the flame
-</details>
-
----
-
-**Q13.**
-
-Why is carbon monoxide classified as a toxic asphyxiant?
-(a) It destroys lung alveoli mechanically  
-(b) It binds to hemoglobin $\approx 200\times$ more strongly than oxygen, forming carboxyhemoglobin  
-(c) It turns blood into nitric acid  
-(d) It causes rapid blood clotting  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Carbon monoxide has a high affinity for hemoglobin, forming carboxyhemoglobin and preventing normal oxygen delivery to body tissues.
-
-**Ans: B.** It binds to hemoglobin $\approx 200\times$ more strongly than oxygen, forming carboxyhemoglobin
-</details>
-
----
-
-**Q14.**
-
-In a fire extinguisher, carbon dioxide extinguishes electrical fires primarily by:
-(a) Conducting electrical current safely to ground  
-(b) Displacing oxygen and blanketing the fuel with a dense, non-combustible gas  
-(c) Reacting with burning copper to form carbonate  
-(d) Generating water droplets  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** $CO2$ is heavier than air; it blankets the fire, cutting off atmospheric oxygen supply, while expansion cools the fuel.
-
-**Ans: B.** Displacing oxygen and blanketing the fuel with a dense, non-combustible gas
-</details>
-
----
-
-**Q15.**
-
-According to Charles's Law, if the absolute temperature of a gas is doubled at constant pressure, its volume will:
-(a) Halve  
-(b) Double  
-(c) Quadruple  
-(d) Remain unchanged  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Double.
-
-**Ans: B.** Double
-</details>
-
----
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">What is the primary constituent gas of Liquefied Petroleum Gas (LPG)?<br>(a) Methane  <br>(b) Butane  <br>(c) Ethylene  <br>(d) Acetylene</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Butane.
+
+**Ans: B.** Butane</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which compound is added to commercial LPG to provide a pungent odor for leak detection?<br>(a) Methyl alcohol  <br>(b) Ethyl mercaptan ($C_2H_5SH$)  <br>(c) Acetone  <br>(d) Hydrogen sulphide</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ethyl mercaptan (ethanethiol) is an organosulfur compound added to odorless LPG as a leak warning agent.
+
+**Ans: B.** Ethyl mercaptan ($C2H5SH$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">What is the primary constituent of Compressed Natural Gas (CNG)?<br>(a) Methane ($CH_4$)  <br>(b) Butane ($C_4H_{10}$)  <br>(c) Propane ($C_3H_8$)  <br>(d) Hydrogen ($H_2$)</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** CNG is compressed natural gas composed of $>85\%$ methane.
+
+**Ans: A.** Methane ($CH4$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which fuel possesses the highest calorific value per unit mass?<br>(a) Methane  <br>(b) Petrol  <br>(c) Hydrogen  <br>(d) LPG</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Hydrogen has a calorific value of $150,000\text{ kJ/kg}$, roughly three times that of petrol ($45,000\text{ kJ/kg}$) or methane ($55,000\text{ kJ/kg}$).
+
+**Ans: C.** Hydrogen</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">What is the composition of "Water Gas"?<br>(a) $CO + N_2$  <br>(b) $CO + H_2$  <br>(c) $CO_2 + H_2$  <br>(d) $CH_4 + H_2$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Water gas (syngas) is an equimolar mixture of carbon monoxide and hydrogen ($CO + H2$) formed by steam passing over red-hot coke.
+
+**Ans: B.** $CO + H2$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Producer gas consists primarily of:<br>(a) $CO + H_2$  <br>(b) $CO + N_2$  <br>(c) $CO_2 + N_2$  <br>(d) $CH_4 + N_2$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Producer gas is produced by passing air over red-hot coke, yielding carbon monoxide ($\approx 30\%$) and nitrogen ($\approx 60\%$).
+
+**Ans: B.** $CO + N2$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is the highest quality rank of coal with over $90\%$ carbon?<br>(a) Lignite  <br>(b) Peat  <br>(c) Bituminous  <br>(d) Anthracite</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Anthracite contains $>90–95\%$ carbon, burns with minimal smoke, and has the highest calorific value of all coal types.
+
+**Ans: D.** Anthracite</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">In which Indian state is the major lignite deposit at Neyveli located?<br>(a) Jharkhand  <br>(b) Tamil Nadu  <br>(c) Odisha  <br>(d) Madhya Pradesh</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Neyveli is located in Cuddalore district of Tamil Nadu.
+
+**Ans: B.** Tamil Nadu</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Octane number is used to rate the anti-knock quality of:<br>(a) Diesel  <br>(b) Petrol (Gasoline)  <br>(c) Kerosene  <br>(d) Coal gas</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Octane number measures anti-knock performance of petrol in spark-ignition engines.
+
+**Ans: B.** Petrol (Gasoline)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Cetane number evaluates the ignition quality of which automotive fuel?<br>(a) Aviation turbine fuel  <br>(b) Diesel  <br>(c) Compressed natural gas  <br>(d) Liquefied petroleum gas</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Diesel.
+
+**Ans: B.** Diesel</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">What gas is generated by the anaerobic decomposition of cow dung in Gobar gas plants?<br>(a) Butane  <br>(b) Methane  <br>(c) Acetylene  <br>(d) Carbon monoxide</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Methane.
+
+**Ans: B.** Methane</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">What is the temperature of the coldest, innermost zone of a candle flame?<br>(a) Hottest zone of the flame  <br>(b) Lowest temperature zone of the flame  <br>(c) Over $2000^\circ\text{C}$  <br>(d) Same as the blue zone</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The innermost dark zone contains unburnt wax vapors and lacks oxygen, making it the coolest region of the candle flame.
+
+**Ans: B.** Lowest temperature zone of the flame</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Why is carbon monoxide classified as a toxic asphyxiant?<br>(a) It destroys lung alveoli mechanically  <br>(b) It binds to hemoglobin $\approx 200\times$ more strongly than oxygen, forming carboxyhemoglobin  <br>(c) It turns blood into nitric acid  <br>(d) It causes rapid blood clotting</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Carbon monoxide has a high affinity for hemoglobin, forming carboxyhemoglobin and preventing normal oxygen delivery to body tissues.
+
+**Ans: B.** It binds to hemoglobin $\approx 200\times$ more strongly than oxygen, forming carboxyhemoglobin</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">In a fire extinguisher, carbon dioxide extinguishes electrical fires primarily by:<br>(a) Conducting electrical current safely to ground  <br>(b) Displacing oxygen and blanketing the fuel with a dense, non-combustible gas  <br>(c) Reacting with burning copper to form carbonate  <br>(d) Generating water droplets</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** $CO2$ is heavier than air; it blankets the fire, cutting off atmospheric oxygen supply, while expansion cools the fuel.
+
+**Ans: B.** Displacing oxygen and blanketing the fuel with a dense, non-combustible gas</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">According to Charles's Law, if the absolute temperature of a gas is doubled at constant pressure, its volume will:<br>(a) Halve  <br>(b) Double  <br>(c) Quadruple  <br>(d) Remain unchanged</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Double.
+
+**Ans: B.** Double</div>
+  </div>
+</div>

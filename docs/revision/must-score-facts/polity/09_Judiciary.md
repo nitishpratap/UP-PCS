@@ -98,6 +98,31 @@ hide:
 48. **Article 143 Landmark References:** In *re Berubari Union (1960)*, *re Sea Customs Act (1963)*, *re Special Courts Bill (1978)*, *re Ayodhya (1993)*, *re 2G Spectrum Allocation (2012)*.
 49. **Bhopal Gas Leak and Article 142:** Supreme Court bypassed statutory ceilings under the Bhopal Gas Leak Disaster Act to award $470 million in compensation by invoking its extraordinary powers under Article 142.
 50. **Subordinate Judicial Hierarchy Hierarchy:** District Court &rarr; Senior Civil Judge / Chief Judicial Magistrate &rarr; Junior Civil Judge / Judicial Magistrate Second Class. At the rural grassroots level, **Gram Nyayalayas** function under the Gram Nyayalayas Act, 2008.
+51. **Supreme Court Strength Evolution (Article 124(1)):** Originally established in 1950 with **8 judges (1 CJI + 7 puisne judges)**; Supreme Court (Number of Judges) Amendment Act, 2019 increased strength to **34 judges (1 Chief Justice of India + 33 judges)**; Parliament alone has power to increase SC judge strength by law.
+52. **Qualifications for Supreme Court Judge (Article 124(3)):** Citizen of India and: (a) Judge of High Court for at least **5 years**; or (b) Advocate of High Court for at least **10 years**; or (c) In opinion of President, a **distinguished jurist** (distinguished jurist category does NOT apply to High Court judges).
+53. **Tenure and Resignation of SC Judges (Article 124(2)):** Holds office until attaining the age of **65 years**; resigns by writing to the **President**; questions regarding age of SC judge are determined by such authority and in such manner as Parliament provides by law.
+54. **Removal of Supreme Court Judge (Article 124(4) & Judges Inquiry Act 1968):** Removed by order of President after an address by each House of Parliament supported by a **Special Majority** (majority of total membership + not less than 2/3rd members present and voting) in the SAME session; grounds are ONLY **'proved misbehaviour' or 'incapacity'**; requires notice signed by 100 LS members or 50 RS members; 3-member inquiry committee (SC judge, HC Chief Justice, distinguished jurist); Justice V. Ramaswami (1993) and Justice Soumitra Sen (2011) faced proceedings.
+55. **Collegium System Evolution (Three Judges Cases):** (1) *First Judges Case (SP Gupta, 1981):* 'Consultation' does not mean 'concurrence'; President not bound by CJI; (2) *Second Judges Case (1993):* 'Consultation' means concurrence; Collegium of **CJI + 2 senior-most SC judges** born; (3) *Third Judges Case (1998):* Presidential reference under Art. 143 expanded Collegium to **CJI + 4 senior-most SC judges** for SC appointments and **CJI + 2 senior-most judges** for HC transfers.
+56. **NJAC Struck Down (Fourth Judges Case, 2015):** 99th Constitutional Amendment Act, 2014 and National Judicial Appointments Commission (NJAC) Act were struck down as unconstitutional by a 4:1 majority of Constitution Bench in *Supreme Court Advocates-on-Record Association v. UOI (2015)* for violating judicial independence as part of basic structure.
+57. **Original Jurisdiction of Supreme Court (Article 131):** Exclusive federal dispute jurisdiction between: (a) Government of India and one or more States; (b) GoI and any State(s) on one side and other State(s) on other; (c) Two or more States; Involves legal right (not political questions); Excludes pre-constitution treaties, inter-state river water disputes (Art. 262), and Finance Commission matters.
+58. **Writ Jurisdiction of Supreme Court (Article 32):** Original but not exclusive (shared with High Courts under Art. 226); can issue writs of Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, and Certiorari ONLY for enforcement of Fundamental Rights.
+59. **Appellate Jurisdiction of Supreme Court (Articles 132 to 134):** (1) Constitutional matters (Art. 132 on HC certificate of substantial question of law); (2) Civil matters (Art. 133 on substantial question of general importance); (3) Criminal matters (Art. 134: where HC reversed acquittal to death sentence, or certified case).
+60. **Special Leave Petition - SLP (Article 136):** Discretionary power of SC to grant special leave to appeal from **any judgment, decree, determination, sentence or order in any cause or matter passed by ANY court or tribunal in India**; exception: does NOT apply to military courts or tribunals (Court Martial).
+61. **Review Jurisdiction of Supreme Court (Article 137):** Supreme Court has power to review any judgment pronounced or order made by it; Curative Petition innovation was created in *Rupa Ashok Hurra v. Ashok Hurra (2002)* to prevent abuse of process and gross miscarriage of justice.
+62. **Advisory Jurisdiction of Supreme Court (Article 143):** President can seek SC advisory opinion on: (1) Any question of law or fact of public importance (SC may tender or refuse to tender advice; e.g. *Ayodhya Reference 1993* was refused); (2) Any dispute arising out of pre-constitutional treaty/agreement (SC **is bound to tender advice**); advice is advisory and not binding on President.
+63. **Court of Record & Contempt Power (Article 129):** SC is a Court of Record; its proceedings and judgments have evidentiary value and cannot be questioned in lower courts; has power to punish for contempt of itself (Contempt of Courts Act, 1971: Civil contempt for willful disobedience; Criminal contempt for scandalizing or lowering authority of court).
+64. **Complete Justice Power (Article 142):** SC in exercise of its jurisdiction may pass such decree or order as is necessary for **doing complete justice in any cause or matter pending before it**; used in Union Carbide (Bhopal gas leak), Ayodhya land dispute, and dissolution of irretrievably broken marriages.
+65. **Law Declared by SC Binding on All Courts (Article 141):** The law declared by the Supreme Court shall be binding on all courts within the territory of India; doctrine of *Stare Decisis* applied in India.
+66. **High Court Structure and Common High Courts (Article 214 & 231):** Constitution provides for a High Court for each State; Parliament under Article 231 can establish a **Common High Court for two or more States and a UT**; e.g. Bombay HC (Maharashtra, Goa, Dadra & Nagar Haveli/Daman & Diu), Punjab & Haryana HC (Punjab, Haryana, Chandigarh), Guwahati HC (Assam, Nagaland, Mizoram, Arunachal Pradesh), Calcutta HC (West Bengal, Andaman & Nicobar), Kerala HC (Kerala, Lakshadweep), Madras HC (Tamil Nadu, Puducherry).
+67. **Total High Courts in India:** Currently **25 High Courts** in India; latest is **Andhra Pradesh High Court at Amaravati** (established 1 January 2019); Delhi and Jammu & Kashmir/Ladakh are the only UTs with their own High Courts.
+68. **High Court Judges Appointment and Qualifications (Article 217):** Appointed by President after consultation with CJI, Governor of State, and Chief Justice of HC; Citizen of India and: (a) Held judicial office in India for **10 years**; or (b) Advocate of High Court for **10 years**; retirement age is **62 years** (15th Amendment Act 1963 raised it from 60 to 62).
+69. **Writ Jurisdiction of High Court (Article 226):** Wider than Supreme Court's Article 32: HC can issue writs not only for Fundamental Rights, but also for **'any other purpose' (enforcement of ordinary legal rights)**; territorial jurisdiction covers throughout territories in relation to which it exercises jurisdiction or where cause of action wholly or partially arises.
+70. **High Court Superintendence Power (Article 227):** HC has administrative and judicial superintendence over **all courts and tribunals throughout territories under its jurisdiction** (except military tribunals); broader than revisional jurisdiction.
+71. **Appointment of District Judges (Article 233):** Appointed by the **Governor of the State in consultation with the High Court**; candidate must have been an advocate/pleader for not less than **7 years** or in judicial service.
+72. **Gram Nyayalayas Act, 2008:** Enacted to provide access to justice at grassroots level; presided over by a **Nyayadhikari** (having qualifications of Judicial Magistrate First Class) appointed by State Government in consultation with High Court; mobile courts having civil and criminal jurisdiction; guided by principles of natural justice and not bound by strict rules of evidence.
+73. **National Legal Services Authority - NALSA (Legal Services Authorities Act, 1987):** Constituted under Article 39A to provide free and competent legal services to weaker sections; CJI is Patron-in-Chief; Lok Adalats organized by NALSA are statutory alternative dispute resolution mechanisms; awards of Lok Adalats are deemed decrees of a civil court, **final and binding with no appeal**.
+74. **Public Interest Litigation (PIL) Origin in India:** Conceptualized in early 1980s by **Justice P.N. Bhagwati** and **Justice V.R. Krishna Iyer**; relaxed the traditional rule of *Locus Standi* (standing), allowing any public-spirited citizen or NGO to approach SC (Art. 32) or HC (Art. 226) on behalf of marginalized persons whose rights are violated; *Hussainara Khatoon (1979)* (rights of undertrials) was the first major PIL.
+75. **Tribunals - Article 323A vs Article 323B:** Article 323A covers Administrative Tribunals for public services (established ONLY by Parliament); Article 323B covers other tribunals (taxation, land reforms, foreign exchange) and can be established by BOTH Parliament and State Legislatures; *L. Chandra Kumar (1997)* ruled decisions of these tribunals are subject to judicial scrutiny before a Division Bench of the High Court under Articles 226/227.
 
 ## ⏱️ Timeline / Chronology
 
@@ -160,21 +185,6 @@ hide:
 | **Punjab & Haryana HC**| Chandigarh | — | Punjab, Haryana, Chandigarh |
 | **Jammu & Kashmir HC** | Srinagar / Jammu | — | Jammu & Kashmir, Ladakh |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| SC vs HC Retirement Age | SC Judge = **65 years**; HC Judge = **62 years** | Make both 65 years | SC = 65 वर्ष; HC = 62 वर्ष |
-| HC Judge Resignation Address | Resigns to the **President of India** | Address resignation to the Governor | HC जज राष्ट्रपति को त्यागपत्र देता है |
-| HC Judge Oath vs Resignation | Oath administered by **Governor**; Resignation addressed to **President** | Swap Governor and President | शपथ = राज्यपाल; त्यागपत्र = राष्ट्रपति |
-| Distinguished Jurist Appointment | SC Judge can be a **Distinguished Jurist** (Art. 124(3)(c)). **NO such provision exists for High Court judges!** | Allow distinguished jurist appointment to High Court | प्रख्यात विधिवेत्ता केवल SC में, HC में नहीं |
-| Writ Scope: Art. 32 vs Art. 226 | **Art. 226 is wider** than Art. 32 (covers ordinary legal rights in addition to FRs) | Call Art. 32 wider | 226 का विषय-क्षेत्र 32 से अधिक व्यापक है |
-| Collegium Size: SC vs HC elevation | Elevation to SC = **CJI + 4 senior judges**. HC appointments = **CJI + 2 senior judges**. | Use 4 senior judges for all collegium decisions | SC पदोन्नति = 1+4; HC नियुक्ति = 1+2 |
-| HC Judge Pension vs Salary Charge | **Salaries** charged on **State Consolidated Fund**; **Pensions** charged on **Consolidated Fund of INDIA**. | Charge pensions on State fund | HC जज वेतन = राज्य संचित निधि; पेंशन = भारत संचित निधि |
-| Advisory Opinion Binding Nature | Article 143 advisory opinion is **NOT BINDING** on the President | Assume presidential reference opinion is binding | 143 की सलाह राष्ट्रपति पर बाध्यकारी नहीं |
-| Original Jurisdiction Exclusions | Inter-State water disputes (Art. 262) **EXCLUDED from Art. 131** | Bring river disputes under Art. 131 | नदी जल विवाद अनुच्छेद 131 से बाहर हैं |
-| Number of High Courts | Exactly **25 High Courts** in India (newest is Andhra Pradesh at Amaravati). | Say 24 or 28 High Courts | कुल उच्च न्यायालय = 25 |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Age Ladder:**
@@ -194,243 +204,238 @@ hide:
    - **Guwahati:** 4 States (Assam, Nagaland, Mizoram, Arunachal Pradesh)
    - **Punjab & Haryana:** 2 States (Punjab, Haryana) + 1 UT (Chandigarh)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** Public Interest Litigation is essential for the rule of law in India.
-
-**Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q2.**
-Which Article of the Constitution provides for the establishment of the Supreme Court of India?
-A. Article 124
-B. Article 214
-C. Article 226
-D. Article 356
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 124.**
-
-</details>
-
-**Q3.**
-Fathima Beevi died recently. Consider the following statements regarding her:
-1. She was the first woman judge of the Supreme Court of India.
-2. She served as the Governor of Kerala from 1997-2001.
-3. She was the first Muslim woman to enter into higher judiciary.
-A. 1 and 2
-B. 1 and 3
-C. Only 1
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1 and 3.** Governor of **Tamil Nadu**, not Kerala.
-
-</details>
-
-**Q4.**
-Which among the following (Provision — Part of the Constitution) is **not** correctly matched?
-A. The Union Territories — Part VIII
-B. The Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Tribunals = **Part XIVA**.
-
-</details>
-
-**Q5.**
-With reference to the election of the Vice-President of India, which is declared void by the Supreme Court of India, which of the following statement(s) is/are correct?
-1. The acts done by him as Vice-President before such declaration are considered valid.
-2. The acts done by him as Vice-President on the day of such declaration are not considered valid.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1** (Art. **71(2)**).
-
-</details>
-
-**Q6.**
-Consider the following statements concerning the powers of the Supreme Court to issue certain writs to stop violation of Fundamental Rights—
-1. The Supreme Court has power to issue writs like Habeas Corpus, Mandamus, Prohibition, Quo Warranto and Certiorari for the enforcement of Fundamental Rights.
-2. Parliament may by law empower any other court to exercise within its jurisdiction the powers given to the Supreme Court.
-A. Both 1 and 2
-B. Only 1
-C. Only 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Both.**
-
-</details>
-
-**Q7.**
-The resignation letter by a Judge of the Supreme Court is addressed to—
-A. The Chief Justice of India
-B. The senior-most Judge of the Supreme Court
-C. The President
-D. The Prime Minister
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — the President.**
-
-</details>
-
-**Q8.**
-The concept of the 'Basic Structure of the Constitution' was propounded by the Supreme Court in which of the following landmark cases?
-
-A. Kesavananda Bharati v. State of Kerala (1973)
-B. Golak Nath v. State of Punjab (1967)
-C. Minerva Mills v. Union of India (1980)
-D. Shankari Prasad v. Union of India (1951)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — In Kesavananda Bharati v. State of Kerala (1973), a 13-judge bench of the Supreme Court propounded the doctrine of the 'Basic Structure' of the Constitution.
-
-</details>
-
-**Q9.**
-Which Article of the Constitution of India provides that the law declared by the Supreme Court shall be binding on all courts within the territory of India?
-
-A. Article 141
-B. Article 142
-C. Article 143
-D. Article 136
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Article 141 provides that the law declared by the Supreme Court shall be binding on all courts within the territory of India. Article 142 covers enforcement of decrees and orders for complete justice.
-
-</details>
-
-**Q10.** Indian federalism is called ‘Quasi-federal’.
-
-**Reason (R):** India has an independent judiciary with power of Judicial Review.
-A. Both true, R explains A
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Quasi-federal = strong Centre, not JR.
-
-</details>
-
-**Q11.** The Supreme Court of India has exclusive jurisdiction regarding Constitutional validity of Central laws.
-
-**Reason (R):** The Supreme Court is the Guardian of the Indian Constitution.
-A. Both true, R explains A
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 131A (42nd) was **repealed by the 43rd**; HCs can examine Central laws.
-
-</details>
-
-**Q12.**
-Who was the Chief Justice of India when Public Interest litigation was introduced in the Indian Judicial system?
-A. M. Hidayatullah
-B. A.M. Ahmedi
-C. P.N. Bhagwati
-D. A.S. Anand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — P.N. Bhagwati.**
-
-</details>
-
-**Q13.**
-
-When was the Supreme Court inaugurated in India?
-
-A. 27 January, 1950
-B. 28 January, 1950
-C. 29 January, 1950
-D. 30 January, 1950
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Supreme Court in India was inaugurated on 28 January, 1950.
-
-**Ans: B. 28 January, 1950**
-
-</details>
-
-**Q14.**
-
-Supreme Court in India was established-
-
-A. By an Act of Parliament in 1950
-B. Under Indian Independence Act, 1947
-C. Under Indian Government Act, 1953
-D. By the Indian Constitution
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Supreme Court of India was inaugurated on 28th January, 1950. It succeeded the Federal Court of India established under the Government of India Act, 1935.
-
-**Ans: D. By the Indian Constitution The Supreme Court of India was inaugurated on 28th January, 1950.**
-
-</details>
-
-**Q15.**
-
-The Provisions relating to appointment of Supreme Court
-and High Court Judges in the Indian Constitution were
-incorporated on the basis of published recommendations
-given by ___ Committee (1945).
-
-A. Harendra Kumar
-B. Sen (Usha Nath Sen)
-C. Varadachari (S. Varadachari)
-D. Sapru (Sir Tej Bahadur Sapru)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Sapru Committee Report of 1945 made recommendations for the appointment of Supreme Court and High Court judges. The report was prepared by a committee led by Sir Tej Bahadur Sapru.
-
-**Ans: D. Sapru (Sir Tej Bahadur Sapru) The Sapru Committee Report of 1945 made recommendations for the appointment of Supreme Court and High Court judges.**
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Public Interest Litigation is essential for the rule of law in India.<br><br>**Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which Article of the Constitution provides for the establishment of the Supreme Court of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 124</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 214</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 226</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 356</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 124.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Fathima Beevi died recently. Consider the following statements regarding her:<br>1. She was the first woman judge of the Supreme Court of India.<br>2. She served as the Governor of Kerala from 1997-2001.<br>3. She was the first Muslim woman to enter into higher judiciary.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 3.** Governor of **Tamil Nadu**, not Kerala.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which among the following (Provision — Part of the Constitution) is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The Union Territories — Part VIII</div><div class="pyq-opt"><span class="opt-letter">B</span> The Scheduled and Tribal Areas — Part X</div><div class="pyq-opt"><span class="opt-letter">C</span> Tribunals — Part XI</div><div class="pyq-opt"><span class="opt-letter">D</span> Official Language — Part XVII</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tribunals = **Part XIVA**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to the election of the Vice-President of India, which is declared void by the Supreme Court of India, which of the following statement(s) is/are correct?<br>1. The acts done by him as Vice-President before such declaration are considered valid.<br>2. The acts done by him as Vice-President on the day of such declaration are not considered valid.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1** (Art. **71(2)**).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements concerning the powers of the Supreme Court to issue certain writs to stop violation of Fundamental Rights—<br>1. The Supreme Court has power to issue writs like Habeas Corpus, Mandamus, Prohibition, Quo Warranto and Certiorari for the enforcement of Fundamental Rights.<br>2. Parliament may by law empower any other court to exercise within its jurisdiction the powers given to the Supreme Court.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The resignation letter by a Judge of the Supreme Court is addressed to—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The Chief Justice of India</div><div class="pyq-opt"><span class="opt-letter">B</span> The senior-most Judge of the Supreme Court</div><div class="pyq-opt"><span class="opt-letter">C</span> The President</div><div class="pyq-opt"><span class="opt-letter">D</span> The Prime Minister</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> the President.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The concept of the 'Basic Structure of the Constitution' was propounded by the Supreme Court in which of the following landmark cases?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kesavananda Bharati v. State of Kerala (1973)</div><div class="pyq-opt"><span class="opt-letter">B</span> Golak Nath v. State of Punjab (1967)</div><div class="pyq-opt"><span class="opt-letter">C</span> Minerva Mills v. Union of India (1980)</div><div class="pyq-opt"><span class="opt-letter">D</span> Shankari Prasad v. Union of India (1951)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> In Kesavananda Bharati v. State of Kerala (1973), a 13-judge bench of the Supreme Court propounded the doctrine of the 'Basic Structure' of the Constitution.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">Which Article of the Constitution of India provides that the law declared by the Supreme Court shall be binding on all courts within the territory of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 141</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 142</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 143</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 136</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Article 141 provides that the law declared by the Supreme Court shall be binding on all courts within the territory of India. Article 142 covers enforcement of decrees and orders for complete justice.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Indian federalism is called ‘Quasi-federal’.<br><br>**Reason (R):** India has an independent judiciary with power of Judicial Review.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true, R explains A</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false, R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Quasi-federal = strong Centre, not JR.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The Supreme Court of India has exclusive jurisdiction regarding Constitutional validity of Central laws.<br><br>**Reason (R):** The Supreme Court is the Guardian of the Indian Constitution.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true, R explains A</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false, R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 131A (42nd) was **repealed by the 43rd**; HCs can examine Central laws.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Who was the Chief Justice of India when Public Interest litigation was introduced in the Indian Judicial system?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> M. Hidayatullah</div><div class="pyq-opt"><span class="opt-letter">B</span> A.M. Ahmedi</div><div class="pyq-opt"><span class="opt-letter">C</span> P.N. Bhagwati</div><div class="pyq-opt"><span class="opt-letter">D</span> A.S. Anand</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> P.N. Bhagwati.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">When was the Supreme Court inaugurated in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 27 January, 1950</div><div class="pyq-opt"><span class="opt-letter">B</span> 28 January, 1950</div><div class="pyq-opt"><span class="opt-letter">C</span> 29 January, 1950</div><div class="pyq-opt"><span class="opt-letter">D</span> 30 January, 1950</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Supreme Court in India was inaugurated on 28 January, 1950.
+
+**Ans: B. 28 January, 1950</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Supreme Court in India was established-</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> By an Act of Parliament in 1950</div><div class="pyq-opt"><span class="opt-letter">B</span> Under Indian Independence Act, 1947</div><div class="pyq-opt"><span class="opt-letter">C</span> Under Indian Government Act, 1953</div><div class="pyq-opt"><span class="opt-letter">D</span> By the Indian Constitution</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Supreme Court of India was inaugurated on 28th January, 1950. It succeeded the Federal Court of India established under the Government of India Act, 1935.
+
+**Ans: D. By the Indian Constitution The Supreme Court of India was inaugurated on 28th January, 1950.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The Provisions relating to appointment of Supreme Court<br>and High Court Judges in the Indian Constitution were<br>incorporated on the basis of published recommendations<br>given by ___ Committee (1945).</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Harendra Kumar</div><div class="pyq-opt"><span class="opt-letter">B</span> Sen (Usha Nath Sen)</div><div class="pyq-opt"><span class="opt-letter">C</span> Varadachari (S. Varadachari)</div><div class="pyq-opt"><span class="opt-letter">D</span> Sapru (Sir Tej Bahadur Sapru)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Sapru Committee Report of 1945 made recommendations for the appointment of Supreme Court and High Court judges. The report was prepared by a committee led by Sir Tej Bahadur Sapru.
+
+**Ans: D. Sapru (Sir Tej Bahadur Sapru) The Sapru Committee Report of 1945 made recommendations for the appointment of Supreme Court and High Court judges.</div>
+  </div>
+</div>

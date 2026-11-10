@@ -143,21 +143,6 @@ u$) | Discoverer | Key Technological & Practical Applications |
 | **Astigmatism** | Astigmatism | Cannot focus simultaneously on horizontal and vertical lines | Non-spherical cornea curvature (asymmetric curvature) | **Cylindrical Lens** |
 | **Cataract** | Motiyabind | Progressive clouding/opacification of natural crystalline lens | Protein denaturation and aggregation in lens | **Surgical replacement with Intraocular Lens (IOL)** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Concave Mirror Uses** | **Convex Mirror Uses** | **Concave mirrors** produce magnified erect images when close: used by **Dentists, Shaving mirrors, Solar cookers, and Headlight reflectors**. **Convex mirrors** produce virtual, erect, diminished images with a **wide field of view: used as rear-view mirrors in vehicles**. | अवतल दर्पण = दंत चिकित्सक, शेविंग, हेडलाइट; उत्तल दर्पण = वाहनों का पश्च-दृश्य दर्पण (रियर-व्यू) |
-| **Myopia Correction** | **Hypermetropia Correction** | **Myopia** (near sighted) requires a **Concave lens** (diverging, negative dioptre). **Hypermetropia** (far sighted) requires a **Convex lens** (converging, positive dioptre). | निकट दृष्टि दोष = अवतल लेंस (माइनस पावर); दूर दृष्टि दोष = उत्तल लेंस (प्लस पावर) |
-| **Blue Sky (Scattering)** | **Rainbow (Dispersion & TIR)** | The **blue color of the sky is caused by Rayleigh SCATTERING** ($I \propto \lambda^{-4}$). A **rainbow is caused by DISPERSION and TOTAL INTERNAL REFLECTION** within water droplets. | आकाश का नीला रंग = प्रकाश का प्रकीर्णन; इंद्रधनुष = वर्ण-विक्षेपण व पूर्ण आंतरिक परावर्तन |
-| **Mirage (TIR)** | **Looming in Cold Seas** | A desert **mirage** reflects images from hot ground air layers via **Total Internal Reflection**. Polar **looming** elevates distant ships above the horizon due to temperature inversions. | मरीचिका (Mirage) = गर्म रेगिस्तान में पूर्ण आंतरिक परावर्तन |
-| **Primary vs Secondary Rainbow**| **Colors Order Swapped** | **Primary rainbow** has **1 internal reflection**; outer arc is **Red**, inner is **Violet**. **Secondary rainbow** has **2 internal reflections**; order reverses to **Violet outside, Red inside**. | प्राथमिक इंद्रधनुष = 1 आंतरिक परावर्तन (लाल बाहर); द्वितीयक = 2 आंतरिक परावर्तन (बैंगनी बाहर) |
-| **Plane Mirror Focal Length** | **Optical Power** | A plane mirror has an **infinite focal length ($f = \infty$)** and **zero optical power ($P = 0$)**. Magnification is strictly $+1$ (virtual, erect, exact same size). | समतल दर्पण की फोकस दूरी अनंत ($\infty$) तथा क्षमता शून्य होती है |
-| **Minimum Mirror Height** | **Full Body Reflection** | To see one's complete full-length reflection in a vertical plane mirror, the mirror height must be at least **half the person's height ($h/2$)**. | मनुष्य को अपना पूरा प्रतिबिंब देखने हेतु समतल दर्पण की न्यूनतम ऊंचाई उसकी ऊंचाई की आधी ($h/2$) होनी चाहिए |
-| **Danger Signals are Red** | **Longest Wavelength** | Danger signal lights are red because **Red light has the longest wavelength ($\sim 700	ext{ nm}$)** in the visible spectrum and is **scattered the LEAST** by fog, smoke, and air. | लाल रंग की तरंगदैर्ध्य सबसे अधिक होने से इसका प्रकीर्णन सबसे कम होता है, अतः दूर से दिखाई देता है |
-| **Total Internal Reflection Conditions**| **Angle and Medium Rules** | TIR occurs ONLY when: (1) Light travels from **denser to rarer medium**, and (2) Angle of incidence is **GREATER than the critical angle ($i > 	heta_c$)**. | पूर्ण आंतरिक परावर्तन की दो शर्तें: प्रकाश सघन से विरल माध्यम में जाए तथा आपतन कोण क्रांतिक कोण से बड़ा हो |
-| **Dispersion Order in Prism** | **Deviation Angle Order** | In a glass prism, **Violet deviates the MOST** (shortest $\lambda$, highest $\mu$); **Red deviates the LEAST** (longest $\lambda$, lowest $\mu$). | प्रिज्म में बैंगनी रंग का विचलन सर्वाधिक तथा लाल रंग का विचलन न्यूनतम होता है |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Visible Spectrum Order: **V-I-B-G-Y-O-R**
@@ -177,256 +162,262 @@ u$) | Discoverer | Key Technological & Practical Applications |
 - **E**ndoscopy medical tubes
 > **"D-O-M-E shines bright with TIR"**
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-**What is the focal length of a flat plane mirror?**
-   A. Zero  
-   B. $+1\text{ metre}$  
-   C. $-1\text{ metre}$  
-   D. Infinite ($\infty$)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **D**.
-</details>
-
-**Q2.**
-
-**An air bubble trapped inside clear water behaves optically as a:**
-   A. Concave mirror  
-   B. Convex lens  
-   C. Concave (divergent) lens  
-   D. Cylindrical lens
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** ($\mu_{\text{water}} > \mu_{\text{air}}$).
-
-**Logic:** ($\mu_{\text{water}} > \mu_{\text{air}}$).
-
-</details>
-
-**Q3.**
-
-**A person standing $2\text{ metres}$ in front of a plane mirror moves $0.5\text{ metres}$ closer to it. The distance between the person and their image is:**
-   A. $1.5\text{ m}$  
-   B. $3.0\text{ m}$  
-   C. $4.0\text{ m}$  
-   D. $1.0\text{ m}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Object distance = $1.5\text{ m}$; image distance = $1.5\text{ m}$; total distance = $3.0\text{ m}$).
-
-**Logic:** (Object distance = $1.5\text{ m}$; image distance = $1.5\text{ m}$; total distance = $3.0\text{ m}$).
-
-</details>
-
-**Q4.**
-
-**Which physical phenomenon is primarily responsible for the formation of shadows?**
-   A. Refraction of light  
-   B. Rectilinear propagation of light  
-   C. Diffraction of light  
-   D. Polarisation of light
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **B**.
-</details>
-
-**Q5.**
-
-**In a color television screen, pixels emit which primary colors?**
-   A. Red, Yellow, Blue  
-   B. Red, Green, Blue  
-   C. Cyan, Magenta, Yellow  
-   D. Red, Green, Yellow
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Additive RGB phosphors).
-
-**Logic:** (Additive RGB phosphors).
-
-</details>
-
-**Q6.**
-
-**The power of a reading glass lens with a focal length of $+25\text{ cm}$ is:**
-   A. $+1.0\text{ D}$  
-   B. $+2.5\text{ D}$  
-   C. $+4.0\text{ D}$  
-   D. $+0.25\text{ D}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** ($P = 100/25 = +4.0\text{ Dioptres}$).
-
-**Logic:** ($P = 100/25 = +4.0\text{ Dioptres}$).
-
-</details>
-
-**Q7.**
-
-**The sky appears blue from Earth, but to an astronaut on the International Space Station, it appears:**
-   A. White  
-   B. Blue  
-   C. Black  
-   D. Violet
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** (Absence of atmospheric scattering).
-
-**Logic:** (Absence of atmospheric scattering).
-
-</details>
-
-**Q8.**
-
-**A doctor examining a patient's throat or teeth uses a:**
-   A. Convex lens  
-   B. Convex mirror  
-   C. Concave mirror  
-   D. Cylindrical mirror
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** (Produces erect magnified virtual image up close).
-
-**Logic:** (Produces erect magnified virtual image up close).
-
-</details>
-
-**Q9.**
-
-**If a plane mirror is turned through an angle of $15^\circ$, the reflected light beam turns through:**
-   A. $15^\circ$  
-   B. $30^\circ$  
-   C. $45^\circ$  
-   D. $0^\circ$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($2\theta = 2 \times 15^\circ = 30^\circ$).
-
-**Logic:** ($2\theta = 2 \times 15^\circ = 30^\circ$).
-
-</details>
-
-**Q10.**
-
-**A rainbow is never visible in the sky at:**
-    A. 08:00 AM  
-    B. 12:00 Noon  
-    C. 04:00 PM  
-    D. 06:00 PM
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Sun is overhead; rainbow forms opposite the Sun).
-
-**Logic:** (Sun is overhead; rainbow forms opposite the Sun).
-
-</details>
-
-**Q11.**
-
-**The image formed on the retina of the human eye is:**
-    A. Real, inverted, and magnified  
-    B. Virtual, erect, and magnified  
-    C. Real, inverted, and diminished  
-    D. Virtual, erect, and diminished
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **C**.
-</details>
-
-**Q12.**
-
-**In optical fibers, light is transmitted along the glass core via:**
-    A. Refraction  
-    B. Total internal reflection  
-    C. Light scattering  
-    D. Diffraction
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **B**.
-</details>
-
-**Q13.**
-
-**Which color of light experiences the maximum deviation when white light passes through a glass prism?**
-    A. Red  
-    B. Yellow  
-    C. Green  
-    D. Violet
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
-
-**Ans:** **D**.
-</details>
-
-**Q14.**
-
-**The minimum height of a vertical plane mirror in which a $1.8\text{ m}$ tall person can view their entire reflection is:**
-    A. $0.6\text{ m}$  
-    B. $0.9\text{ m}$  
-    C. $1.8\text{ m}$  
-    D. $3.6\text{ m}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($1.8 / 2 = 0.9\text{ m}$).
-
-**Logic:** ($1.8 / 2 = 0.9\text{ m}$).
-
-</details>
-
-**Q15.**
-
-**A cut diamond sparkles brilliantly because of its:**
-    A. Large critical angle  
-    B. High electrical conductivity  
-    C. Very small critical angle and total internal reflection  
-    D. Absorption of infrared rays
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** ($i_c \approx 24.4^\circ$).
-
-**Logic:** ($i_c \approx 24.4^\circ$).
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">**What is the focal length of a flat plane mirror?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Zero</div><div class="pyq-opt"><span class="opt-letter">B</span> $+1\text{ metre}$</div><div class="pyq-opt"><span class="opt-letter">C</span> $-1\text{ metre}$</div><div class="pyq-opt"><span class="opt-letter">D</span> Infinite ($\infty$)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **D**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">**An air bubble trapped inside clear water behaves optically as a:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Concave mirror</div><div class="pyq-opt"><span class="opt-letter">B</span> Convex lens</div><div class="pyq-opt"><span class="opt-letter">C</span> Concave (divergent) lens</div><div class="pyq-opt"><span class="opt-letter">D</span> Cylindrical lens</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C** ($\mu_{\text{water}} > \mu_{\text{air}}$).
+
+**Logic:** ($\mu_{\text{water}} > \mu_{\text{air}}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">**A person standing $2\text{ metres}$ in front of a plane mirror moves $0.5\text{ metres}$ closer to it. The distance between the person and their image is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $1.5\text{ m}$</div><div class="pyq-opt"><span class="opt-letter">B</span> $3.0\text{ m}$</div><div class="pyq-opt"><span class="opt-letter">C</span> $4.0\text{ m}$</div><div class="pyq-opt"><span class="opt-letter">D</span> $1.0\text{ m}$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Object distance = $1.5\text{ m}$; image distance = $1.5\text{ m}$; total distance = $3.0\text{ m}$).
+
+**Logic:** (Object distance = $1.5\text{ m}$; image distance = $1.5\text{ m}$; total distance = $3.0\text{ m}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">**Which physical phenomenon is primarily responsible for the formation of shadows?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Refraction of light</div><div class="pyq-opt"><span class="opt-letter">B</span> Rectilinear propagation of light</div><div class="pyq-opt"><span class="opt-letter">C</span> Diffraction of light</div><div class="pyq-opt"><span class="opt-letter">D</span> Polarisation of light</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **B**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">**In a color television screen, pixels emit which primary colors?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Red, Yellow, Blue</div><div class="pyq-opt"><span class="opt-letter">B</span> Red, Green, Blue</div><div class="pyq-opt"><span class="opt-letter">C</span> Cyan, Magenta, Yellow</div><div class="pyq-opt"><span class="opt-letter">D</span> Red, Green, Yellow</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Additive RGB phosphors).
+
+**Logic:** (Additive RGB phosphors).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">**The power of a reading glass lens with a focal length of $+25\text{ cm}$ is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $+1.0\text{ D}$</div><div class="pyq-opt"><span class="opt-letter">B</span> $+2.5\text{ D}$</div><div class="pyq-opt"><span class="opt-letter">C</span> $+4.0\text{ D}$</div><div class="pyq-opt"><span class="opt-letter">D</span> $+0.25\text{ D}$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C** ($P = 100/25 = +4.0\text{ Dioptres}$).
+
+**Logic:** ($P = 100/25 = +4.0\text{ Dioptres}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">**The sky appears blue from Earth, but to an astronaut on the International Space Station, it appears:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> White</div><div class="pyq-opt"><span class="opt-letter">B</span> Blue</div><div class="pyq-opt"><span class="opt-letter">C</span> Black</div><div class="pyq-opt"><span class="opt-letter">D</span> Violet</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C** (Absence of atmospheric scattering).
+
+**Logic:** (Absence of atmospheric scattering).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">**A doctor examining a patient's throat or teeth uses a:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Convex lens</div><div class="pyq-opt"><span class="opt-letter">B</span> Convex mirror</div><div class="pyq-opt"><span class="opt-letter">C</span> Concave mirror</div><div class="pyq-opt"><span class="opt-letter">D</span> Cylindrical mirror</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C** (Produces erect magnified virtual image up close).
+
+**Logic:** (Produces erect magnified virtual image up close).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">**If a plane mirror is turned through an angle of $15^\circ$, the reflected light beam turns through:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $15^\circ$</div><div class="pyq-opt"><span class="opt-letter">B</span> $30^\circ$</div><div class="pyq-opt"><span class="opt-letter">C</span> $45^\circ$</div><div class="pyq-opt"><span class="opt-letter">D</span> $0^\circ$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** ($2\theta = 2 \times 15^\circ = 30^\circ$).
+
+**Logic:** ($2\theta = 2 \times 15^\circ = 30^\circ$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">**A rainbow is never visible in the sky at:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 08:00 AM</div><div class="pyq-opt"><span class="opt-letter">B</span> 12:00 Noon</div><div class="pyq-opt"><span class="opt-letter">C</span> 04:00 PM</div><div class="pyq-opt"><span class="opt-letter">D</span> 06:00 PM</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Sun is overhead; rainbow forms opposite the Sun).
+
+**Logic:** (Sun is overhead; rainbow forms opposite the Sun).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">**The image formed on the retina of the human eye is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Real, inverted, and magnified</div><div class="pyq-opt"><span class="opt-letter">B</span> Virtual, erect, and magnified</div><div class="pyq-opt"><span class="opt-letter">C</span> Real, inverted, and diminished</div><div class="pyq-opt"><span class="opt-letter">D</span> Virtual, erect, and diminished</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **C**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">**In optical fibers, light is transmitted along the glass core via:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Refraction</div><div class="pyq-opt"><span class="opt-letter">B</span> Total internal reflection</div><div class="pyq-opt"><span class="opt-letter">C</span> Light scattering</div><div class="pyq-opt"><span class="opt-letter">D</span> Diffraction</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **B**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">**Which color of light experiences the maximum deviation when white light passes through a glass prism?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Red</div><div class="pyq-opt"><span class="opt-letter">B</span> Yellow</div><div class="pyq-opt"><span class="opt-letter">C</span> Green</div><div class="pyq-opt"><span class="opt-letter">D</span> Violet</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Recall the Must-Score fact for this stem; eliminate unit/concept twin traps..
+
+**Ans:** **D**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">**The minimum height of a vertical plane mirror in which a $1.8\text{ m}$ tall person can view their entire reflection is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $0.6\text{ m}$</div><div class="pyq-opt"><span class="opt-letter">B</span> $0.9\text{ m}$</div><div class="pyq-opt"><span class="opt-letter">C</span> $1.8\text{ m}$</div><div class="pyq-opt"><span class="opt-letter">D</span> $3.6\text{ m}$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** ($1.8 / 2 = 0.9\text{ m}$).
+
+**Logic:** ($1.8 / 2 = 0.9\text{ m}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">**A cut diamond sparkles brilliantly because of its:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Large critical angle</div><div class="pyq-opt"><span class="opt-letter">B</span> High electrical conductivity</div><div class="pyq-opt"><span class="opt-letter">C</span> Very small critical angle and total internal reflection</div><div class="pyq-opt"><span class="opt-letter">D</span> Absorption of infrared rays</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C** ($i_c \approx 24.4^\circ$).
+
+**Logic:** ($i_c \approx 24.4^\circ$).</div>
+  </div>
+</div>

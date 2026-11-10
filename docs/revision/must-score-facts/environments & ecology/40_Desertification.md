@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 40 — Desertification (मरुस्थलीकरण)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** drylands. It is not merely “the desert expanding.”
@@ -65,22 +54,6 @@ hide:
 39. **Chambal ravines** (चंबल) (MP–UP–Rajasthan, including Etawah (इटावा)–Agra belt) are the classic Indian ravine badlands.
 40. **Wind erosion:deflation** (lifting fine particles) and **abrasion** (sandblasting) — strong in the Thar.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Atmospheric & Pollution Milestones
-
-```
-1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
-1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
-1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
-1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
-1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
-1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
-2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
-2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
-```
-
 ## 📊 Quick Reference Grid
 
 ### Locks
@@ -96,319 +69,270 @@ hide:
 | UNCCD / Day | **1994** / **17 June** |
 | LDN | No net loss by **2030** (SDG 15.3) |
 | UNCCD ≠ UNFCCC | Desertification / climate |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Desertification** | **Land Degradation** | Land degradation specifically occurring in arid, semi-arid, and dry sub-humid areas (drylands) from climatic variations and human activities vs any reduction in productive potential of land everywhere | मरुस्थलीकरण (शुष्क क्षेत्र) / भूमि क्षरण (सामान्य भूमि) |
-| **Drought** | **Desertification** | Temporary natural period of deficient precipitation over months/years vs persistent, long-term degradation and loss of biological/economic productivity in dryland soils | सूखा (अस्थायी जल संकट) / मरुस्थलीकरण (स्थायी भूमि ह्रास) |
-| **Sheet Erosion** | **Gully Erosion** | Uniform, imperceptible removal of thin topsoil layer by surface runoff on gentle slopes vs formation of deep pronounced ravines and gorges rendering land unfit for cultivation (Chambal Badlands) | परत अपरदन (अदृश्य मिट्टी ह्रास) / अवनलिका अपरदन (बीहड़ निर्माण) |
-| **UNCCD (1994)** | **UNFCCC (1992)** | Only legally binding international agreement linking environment and development to sustainable land management in drylands vs framework treaty for combating greenhouse gases | मरुस्थलीकरण संधि (UNCCD) / जलवायु संधि (UNFCCC) |
-| **Land Degradation Neutrality (LDN)** | **Net Zero Emissions** | Target under SDG 15.3 ensuring no net loss of healthy land resources by 2030 vs balancing anthropogenic GHG emissions with equivalent carbon removals | भूमि क्षरण तटस्थता (LDN) / नेट जीरो उत्सर्जन |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-India aims to achieve land degradation neutrality by the year
-
-A. 2025
-B. 2030
-C. 2035
-D. 2040
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** SDG 15.3 Land Degradation Neutrality target year for India is 2030.
-
-**Ans: B.** **LDN by 2030** under SDG 15.3 / UNCCD framing. **Trap:** 2025 or 2040 as round-number distractors.
-
-</details>
-
-**Q2.**
-
-Arrange the following chronologically:
-
-1. Food for Work Programme
-2. Community Development Programme
-3. Training of Rural Youth for Self-Employment (TRYSEM)
-4. Drought Prone Areas Programme (DPAP)
-
-A. 4, 2, 3, 1
-B. 2, 4, 1, 3
-C. 2, 4, 3, 1
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Chronology of rural employment/welfare programmes — CDP 1952 → DPAP 1973 → Food for Work 1977 → TRYSEM 1979.
-
-**Ans: B.** Order: **CDP (1952) → DPAP (1973) → Food for Work (1977) → TRYSEM (1979)**. **Trap:** Placing DPAP before CDP or TRYSEM before Food for Work.
-
-</details>
-
-**Q3.**
-
-Thar / Rajasthan desert expanse is mainly of:
-
-A. Pliocene
-B. Paleocene
-C. Pleistocene and recent deposits
-D. Oligocene
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Thar desert surficial deposits — Pleistocene and recent, not Paleocene/Oligocene alone.
-
-**Ans: C.** Thar cover is **Pleistocene + recent** aeolian/alluvial material. **Trap:** Picking older Tertiary epochs as “desert = ancient only.”
-
-</details>
-
-**Q4.**
-
-The UN Convention to Combat Desertification (UNCCD) was adopted in:
-
-A. 1994
-B. 1972
-C. 1987
-D. 2015
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UNCCD adopted 1994; Desertification and Drought Day is 17 June.
-
-**Ans: A.** **UNCCD adopted 17 June 1994** (Paris); in force 1996. **Trap:** Confusing with Rio 1992 or UNFCCC alone.
-
-</details>
-
-**Q5.**
-
-Desertification, under UN definition, means:
-
-A. Land degradation in arid, semi-arid, and dry sub-humid areas
-B. Only physical expansion of the Thar sand sea eastward
-C. Any bare patch in a humid rainforest
-D. Permanent ocean acidification
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Desertification is productivity loss in ASDM drylands — not merely sand-dune expansion.
-
-**Ans: A.** **ASDM dryland** productivity loss from climate + human pressure. **Trap:** “Desertification = dunes moving only.”
-
-</details>
-
-**Q6.**
-
-The correct sequence of water erosion stages is:
-
-A. Sheet → rill → gully → ravine
-B. Ravine → sheet → gully → rill
-C. Gully → sheet only
-D. Wind abrasion → BOD assay
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Water erosion stages — sheet → rill → gully → ravine; Chambal is the classic ravine belt.
-
-**Ans: A.** Thin **sheet** loss → **rill** channels → **gullies** → deep **ravines** (Chambal badlands). **Trap:** Reversing ravine and sheet.
-
-</details>
-
-**Q7.**
-
-Which of the following helps **prevent** land degradation?
-
-A. Afforestation and shelter belts
-B. Overgrazing
-C. Unchecked clear-felling
-D. Improper irrigation without drainage (salinization)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Afforestation and shelter belts prevent erosion — they are mitigation, not causes of degradation.
-
-**Ans: A.** **Afforestation** stabilises soil; overgrazing and salinization **cause** degradation. **Trap:** Statement stems that list afforestation as a “cause.”
-
-</details>
-
-**Q8.**
-
-The leading human cause of desertification in drylands is often:
-
-A. Overgrazing
-B. Contour bunding
-C. Check dams
-D. Watershed management
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Overgrazing is the leading human driver of dryland desertification in standard teaching.
-
-**Ans: A.** **Overgrazing** removes cover → erosion; conservation structures are responses. **Trap:** Picking a conservation measure as the “cause.”
-
-</details>
-
-**Q9.**
-
-Bundelkhand in Uttar Pradesh, often cited for drought stress, includes about how many UP districts in standard lists?
-
-A. Seven
-B. Seventy
-C. Two
-D. Zero
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bundelkhand spans seven UP districts — drought and degradation hotspot linked to desertification risk.
-
-**Ans: A.** **Seven districts** — Jhansi, Lalitpur, Jalaun, Hamirpur, Mahoba, Banda, Chitrakoot. **Trap:** Treating Bundelkhand as only Rajasthan.
-
-</details>
-
-**Q10.**
-
-Meteorological drought is commonly indicated when rainfall falls to about:
-
-A. Less than 75% of the long-period average
-B. More than 150% of LPA always
-C. Exactly 100% of LPA only
-D. Zero rainfall for one hour
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Meteorological drought — rainfall well below long-period average (IMD often uses <75% LPA as severe marker).
-
-**Ans: A.** **<75% LPA** is a standard severe meteorological drought marker. **Trap:** Confusing meteorological with agricultural soil-moisture drought only.
-
-</details>
-
-**Q11.** With reference to desertification, which of the following statements is/are correct?
-
-1. Desertification means land degradation only in humid equatorial forests.
-2. Not merely “the desert expanding.”
-3. Identical to any bare land in a humid forest belt.
-
-A. Only 3
-B. Only 2
-C. Only 1
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 2 is correct.
-
-**Logic:** Statement 2 is the teaching point (not merely desert expansion). Statement 1 is false — desertification is ASDM dryland degradation. Statement 3 wrongly equates it with any bare humid-forest land.
-
-</details>
-
-**Q12.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. UNCCD | 1. 17 June |
-| B. Desertification Day | 2. Adopted 1994 |
-| C. LDN | 3. No net loss healthy land by 2030 (SDG 15.3) |
-
-Code:
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A-2, B-1, C-3.
-
-**Logic:** UNCCD / Day / LDN.
-
-</details>
-
-**Q13.** Which of the following pairs is/are correctly matched?
-
-1. Desertification drivers exclude climate variation, overgrazing, deforestation and bad irrigation.
-2. Land degradation — broader; any climate zone
-3. UNCCD identical to UNFCCC
-
-A. 1 and 2
-B. Only 3
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Statement 2 is true (land degradation is broader / any climate zone). Statement 1 denies the standard drivers. Statement 3 is false — UNCCD ≠ UNFCCC.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): India’s degraded land share often taught ~29–30% (ISRO Atlas 2016 ~96.4 Mha).
-
-Reason (R): Rajasthan is the worst state neighbourhood teaching.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; Rajasthan rank does not itself prove the national % figure.
-
-**A/R logic:** National % vs state worst.
-
-</details>
-
-**Q15.** With reference to drought ladder, which of the following statements is/are correct?
-
-1. Meteorological → hydrological → agricultural teaching order variants exist; met often first.
-2. DPAP began in 1973.
-3. Drought and desertification reinforce each other.
-
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three.
-
-**Logic:** Drought–desertification link.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">India aims to achieve land degradation neutrality by the year</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2025</div><div class="pyq-opt"><span class="opt-letter">B</span> 2030</div><div class="pyq-opt"><span class="opt-letter">C</span> 2035</div><div class="pyq-opt"><span class="opt-letter">D</span> 2040</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** SDG 15.3 Land Degradation Neutrality target year for India is 2030.
+
+**Ans: B.** **LDN by 2030** under SDG 15.3 / UNCCD framing. **Trap:** 2025 or 2040 as round-number distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arrange the following chronologically:<br><br>1. Food for Work Programme<br>2. Community Development Programme<br>3. Training of Rural Youth for Self-Employment (TRYSEM)<br>4. Drought Prone Areas Programme (DPAP)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 2, 3, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 4, 3, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 1, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Chronology of rural employment/welfare programmes — CDP 1952 → DPAP 1973 → Food for Work 1977 → TRYSEM 1979.
+
+**Ans: B.** Order: **CDP (1952) → DPAP (1973) → Food for Work (1977) → TRYSEM (1979)**. **Trap:** Placing DPAP before CDP or TRYSEM before Food for Work.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Thar / Rajasthan desert expanse is mainly of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pliocene</div><div class="pyq-opt"><span class="opt-letter">B</span> Paleocene</div><div class="pyq-opt"><span class="opt-letter">C</span> Pleistocene and recent deposits</div><div class="pyq-opt"><span class="opt-letter">D</span> Oligocene</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Thar desert surficial deposits — Pleistocene and recent, not Paleocene/Oligocene alone.
+
+**Ans: C.** Thar cover is **Pleistocene + recent** aeolian/alluvial material. **Trap:** Picking older Tertiary epochs as “desert = ancient only.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The UN Convention to Combat Desertification (UNCCD) was adopted in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1994</div><div class="pyq-opt"><span class="opt-letter">B</span> 1972</div><div class="pyq-opt"><span class="opt-letter">C</span> 1987</div><div class="pyq-opt"><span class="opt-letter">D</span> 2015</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UNCCD adopted 1994; Desertification and Drought Day is 17 June.
+
+**Ans: A.** **UNCCD adopted 17 June 1994** (Paris); in force 1996. **Trap:** Confusing with Rio 1992 or UNFCCC alone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Desertification, under UN definition, means:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Land degradation in arid, semi-arid, and dry sub-humid areas</div><div class="pyq-opt"><span class="opt-letter">B</span> Only physical expansion of the Thar sand sea eastward</div><div class="pyq-opt"><span class="opt-letter">C</span> Any bare patch in a humid rainforest</div><div class="pyq-opt"><span class="opt-letter">D</span> Permanent ocean acidification</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Desertification is productivity loss in ASDM drylands — not merely sand-dune expansion.
+
+**Ans: A.** **ASDM dryland** productivity loss from climate + human pressure. **Trap:** “Desertification = dunes moving only.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The correct sequence of water erosion stages is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sheet → rill → gully → ravine</div><div class="pyq-opt"><span class="opt-letter">B</span> Ravine → sheet → gully → rill</div><div class="pyq-opt"><span class="opt-letter">C</span> Gully → sheet only</div><div class="pyq-opt"><span class="opt-letter">D</span> Wind abrasion → BOD assay</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Water erosion stages — sheet → rill → gully → ravine; Chambal is the classic ravine belt.
+
+**Ans: A.** Thin **sheet** loss → **rill** channels → **gullies** → deep **ravines** (Chambal badlands). **Trap:** Reversing ravine and sheet.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following helps **prevent** land degradation?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Afforestation and shelter belts</div><div class="pyq-opt"><span class="opt-letter">B</span> Overgrazing</div><div class="pyq-opt"><span class="opt-letter">C</span> Unchecked clear-felling</div><div class="pyq-opt"><span class="opt-letter">D</span> Improper irrigation without drainage (salinization)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Afforestation and shelter belts prevent erosion — they are mitigation, not causes of degradation.
+
+**Ans: A.** **Afforestation** stabilises soil; overgrazing and salinization **cause** degradation. **Trap:** Statement stems that list afforestation as a “cause.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The leading human cause of desertification in drylands is often:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Overgrazing</div><div class="pyq-opt"><span class="opt-letter">B</span> Contour bunding</div><div class="pyq-opt"><span class="opt-letter">C</span> Check dams</div><div class="pyq-opt"><span class="opt-letter">D</span> Watershed management</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Overgrazing is the leading human driver of dryland desertification in standard teaching.
+
+**Ans: A.** **Overgrazing** removes cover → erosion; conservation structures are responses. **Trap:** Picking a conservation measure as the “cause.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Bundelkhand in Uttar Pradesh, often cited for drought stress, includes about how many UP districts in standard lists?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Seven</div><div class="pyq-opt"><span class="opt-letter">B</span> Seventy</div><div class="pyq-opt"><span class="opt-letter">C</span> Two</div><div class="pyq-opt"><span class="opt-letter">D</span> Zero</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bundelkhand spans seven UP districts — drought and degradation hotspot linked to desertification risk.
+
+**Ans: A.** **Seven districts** — Jhansi, Lalitpur, Jalaun, Hamirpur, Mahoba, Banda, Chitrakoot. **Trap:** Treating Bundelkhand as only Rajasthan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Meteorological drought is commonly indicated when rainfall falls to about:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Less than 75% of the long-period average</div><div class="pyq-opt"><span class="opt-letter">B</span> More than 150% of LPA always</div><div class="pyq-opt"><span class="opt-letter">C</span> Exactly 100% of LPA only</div><div class="pyq-opt"><span class="opt-letter">D</span> Zero rainfall for one hour</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Meteorological drought — rainfall well below long-period average (IMD often uses <75% LPA as severe marker).
+
+**Ans: A.** **<75% LPA** is a standard severe meteorological drought marker. **Trap:** Confusing meteorological with agricultural soil-moisture drought only.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to desertification, which of the following statements is/are correct?<br><br>1. Desertification means land degradation only in humid equatorial forests.<br>2. Not merely “the desert expanding.”<br>3. Identical to any bare land in a humid forest belt.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Statement 2 is the teaching point (not merely desert expansion). Statement 1 is false — desertification is ASDM dryland degradation. Statement 3 wrongly equates it with any bare humid-forest land.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> UNCCD</td><td><span class="match-key">1</span> 17 June</td></tr>
+      <tr><td><span class="match-key">B</span> Desertification Day</td><td><span class="match-key">2</span> Adopted 1994</td></tr>
+      <tr><td><span class="match-key">C</span> LDN</td><td><span class="match-key">3</span> No net loss healthy land by 2030 (SDG 15.3)</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
+
+**Logic:** UNCCD / Day / LDN.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. Desertification drivers exclude climate variation, overgrazing, deforestation and bad irrigation.<br>2. Land degradation — broader; any climate zone<br>3. UNCCD identical to UNFCCC</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Statement 2 is true (land degradation is broader / any climate zone). Statement 1 denies the standard drivers. Statement 3 is false — UNCCD ≠ UNFCCC.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): India’s degraded land share often taught ~29–30% (ISRO Atlas 2016 ~96.4 Mha).<br><br>Reason (R): Rajasthan is the worst state neighbourhood teaching.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; Rajasthan rank does not itself prove the national % figure.
+
+**A/R logic:** National % vs state worst.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to drought ladder, which of the following statements is/are correct?<br><br>1. Meteorological → hydrological → agricultural teaching order variants exist; met often first.<br>2. DPAP began in 1973.<br>3. Drought and desertification reinforce each other.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three.
+
+**Logic:** Drought–desertification link.</div>
+  </div>
+</div>

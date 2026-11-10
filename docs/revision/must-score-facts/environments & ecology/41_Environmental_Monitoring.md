@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 41 — Environmental Monitoring (पर्यावरणीय निगरानी)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. The **PSR** model runs **Pressure → State → Response** for environmental indicators.
@@ -61,22 +50,6 @@ hide:
 35. **Environmental audit** is a systematic, documented check of whether an organisation meets environmental laws, consent conditions, and internal EMS goals.
 36. **ISO 14001** is the voluntary international standard for an **Environmental Management System (EMS)**.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Atmospheric & Pollution Milestones
-
-```
-1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
-1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
-1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
-1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
-1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
-1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
-2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
-2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
-```
-
 ## 📊 Quick Reference Grid
 
 ### Tools
@@ -93,321 +66,270 @@ hide:
 | Form V | EPA Rule 14 Environmental Statement → SPCB yearly |
 | ISO 14001 | EMS standard |
 | Monitoring ≠ audit | Repeated measurement / compliance verification |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environmental Indicator** | **Environmental Monitoring** | Specific quantitative metric reflecting state of an ecosystem (e.g., Lichens for SO₂, E. coli for fecal water contamination) vs continuous systematic collection and analysis of environmental data over time | पर्यावरणीय संकेतक / पर्यावरणीय निगरानी |
-| **Environmental Impact Assessment (EIA)** | **Environmental Audit** | Prospective preventive study predicting ecological impacts of a project *before* environmental clearance vs retrospective verification of legal compliance and emissions *after* commissioning | पर्यावरण प्रभाव आकलन (EIA) / पर्यावरण लेखापरीक्षा |
-| **National Air Monitoring Programme (NAMP)** | **Continuous Ambient Air Quality (CAAQMS)** | Nationwide manual sampling network monitoring SO₂, NO₂, PM10, PM2.5 twice weekly vs automated sensors measuring 12 criteria pollutants with real-time online data | राष्ट्रीय वायु निगरानी (NAMP) / सतत परिवेशी वायु निगरानी (CAAQMS) |
-| **Bioindicator** | **Biomarker** | Organism whose presence/absence indicates environmental quality (Lichens for air, Diatoms/Mayfly for fresh water) vs cellular/biochemical alteration measured in an organism due to chemical exposure | जैव संकेतक (लाइकेन/मेफ्लाई) / जैव मार्कर |
-| **Ringelmann Scale** | **Decibel (dB)** | Visual chart scale (0 to 5) used to measure the apparent density/opacity of industrial smoke emissions vs logarithmic acoustic unit measuring environmental sound levels | रिंगेलमैन पैमाना (धुआं घनत्व) / डेसिबल (ध्वनि तीव्रता) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Biological Oxygen Demand (BOD) is a standard criterion for—
-
-A. Pollution assay in aquatic ecosystems
-B. High-altitude O₂
-C. Blood O₂
-D. Forest O₂
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** BOD assays organic pollution in aquatic ecosystems — not blood or altitude oxygen.
-
-**Ans: A.** **BOD** = microbial oxygen demand in water; higher BOD = dirtier water. **Trap:** “Oxygen” in name → medical/altitude options.
-
-</details>
-
-**Q2.**
-
-Ringelmann scale is used to measure density of
-
-A. Smoke
-B. Polluted water
-C. Fog
-D. Noise
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ringelmann scale grades smoke plume opacity 0–5 — not water, fog, or noise.
-
-**Ans: A.** **Ringelmann 0–5** = visible **smoke** density from stacks. **Trap:** Fog meter or BOD/water quality distractors.
-
-</details>
-
-**Q3.**
-
-Annual Groundwater Quality Report 2024 was prepared by:
-
-1. CPCB
-2. CWC
-3. CGWB
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Annual Groundwater Quality Report is CGWB’s product — CPCB handles air/surface water, not this report.
-
-**Ans: B (Only 3).** **CGWB** monitors groundwater quality/levels. **Trap:** CPCB name sounds like “all pollution.”
-
-</details>
-
-**Q4.**
-
-Consider the following statements:
-
-1. Lichens are very good indicators of pollution.
-2. Lichens grow well in polluted areas.
-
-A. Only 2
-B. Neither
-C. Both
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Lichens are sensitive SO₂ indicators — they do not grow well in polluted air.
-
-**Ans: D (Only 1).** Indicators **die back** in dirty air — statement 2 is false. **Trap:** “Good indicator” read as “likes pollution.”
-
-</details>
-
-**Q5.**
-
-SAFAR (System of Air Quality and Weather Forecasting and Research) was inaugurated in July 2018 by:
-
-A. Dr. Harsh Vardhan
-B. Governor of RBI
-C. Director-General of WTO
-D. Secretary, UNFCCC alone
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** SAFAR is IITM’s air-quality and weather forecast system — inaugurated by Dr. Harsh Vardhan in July 2018.
-
-**Ans: A.** **Dr. Harsh Vardhan** launched SAFAR (IITM-backed). **Trap:** Attributing SAFAR to IMD alone or CPCB alone.
-
-</details>
-
-**Q6.**
-
-National Clean Air Programme (NCAP) was launched in:
-
-A. 2019
-B. 1974
-C. 1987
-D. 1730
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NCAP (2019) expanded monitoring and city action plans for non-attainment cities — complements CPCB networks.
-
-**Ans: A.** **NCAP 2019** targets ~20–30% PM cut in 122 cities. **Trap:** Water Act 1974 or Montreal 1987 year swaps.
-
-</details>
-
-**Q7.**
-
-Continuous Ambient Air Quality Monitoring Stations (CAAQMS) primarily provide:
-
-A. Real-time ambient air quality data
-B. Only annual groundwater atlases
-C. Only Form V filing receipts
-D. Only noise silence-zone maps
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** CAAQMS gives continuous real-time ambient air data; NAMP is mainly manual long-term trend stations.
-
-**Ans: A.** **CAAQMS** = continuous feeds for AQI boards; **NAMP** = manual trend network. **Trap:** Calling NAMP “real-time only.”
-
-</details>
-
-**Q8.**
-
-Under the Environment (Protection) Rules, the annual **Environmental Statement (Form V)** is filed with:
-
-A. State Pollution Control Board (SPCB)
-B. Montreal Protocol Secretariat only
-C. CITES Management Authority only
-D. Ramsar Bureau only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Form V Environmental Statement under EPA Rule 14 is the annual statutory disclosure to SPCB.
-
-**Ans: A.** **Form V** goes to **SPCB** yearly (Rule 14). **Trap:** Confusing with ISO 14001 certificate or EC portal alone.
-
-</details>
-
-**Q9.**
-
-ISO 14001 standard relates to:
-
-A. Environmental Management Systems
-B. Carbon credit issuance under Kyoto only
-C. CITES Appendix listing
-D. Ringelmann smoke photography only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ISO 14001 is the voluntary Environmental Management System standard — not a treaty or AQI tool.
-
-**Ans: A.** **ISO 14001** = voluntary **EMS** certification. **Trap:** Equating ISO certificate with Form V statutory filing.
-
-</details>
-
-**Q10.**
-
-Environmental **audit** differs from **monitoring** because audit:
-
-A. Verifies compliance with laws, consents, and management systems
-B. Only publishes one daily AQI colour
-C. Only measures smoke once without standards
-D. Replaces all groundwater monitoring by CGWB
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Monitoring collects data; environmental audit verifies legal/EC compliance using that data.
-
-**Ans: A.** **Monitoring** = repeated measurement; **audit** = documented compliance check (Form V, EC reports, inspections). **Trap:** “We have AQI data, so audit is done.”
-
-</details>
-
-**Q11.** With reference to PSR, which of the following statements is/are correct?
-
-1. Pressure → State → Response.
-2. Indicators are identical to raw instrument readings and never support decisions.
-3. PSR means only Ringelmann smoke shade.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Statement 1 is the PSR chain. Statement 2 is false — indicators convert raw numbers into decision signals. Statement 3 confuses PSR with Ringelmann smoke shade.
-
-</details>
-
-**Q12.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. NAMP | 1. Real-time air |
-| B. CAAQMS | 2. Manual air trends |
-| C. NWMP | 3. Surface water |
-
-Code:
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A-2, B-1, C-3.
-
-**Logic:** CPCB network trio.
-
-</details>
-
-**Q13.** Which of the following pairs is/are correctly matched?
-
-1. Standard air indicators exclude PM2.5, PM10, SO₂, NOx and AQI.
-2. Water indicators — BOD, COD, DO, pH, coliform
-3. CGWB — surface-water NWMP identical to CPCB
-
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 2 is correct.
-
-**Logic:** Statement 2 is true (BOD/COD/DO/pH/coliform). Statement 1 wrongly excludes the usual air indicators. Statement 3 confuses CGWB groundwater with CPCB surface-water NWMP.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Monitoring is systematic repeated measurement against standards.
-
-Reason (R): An audit is identical to an AQI reading.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true, R false.
-
-**A/R logic:** Audit checks legal conformity — not just another AQI reading.
-
-</details>
-
-**Q15.** With reference to bio-indicators, which of the following statements is/are correct?
-
-1. Lichens indicate SO₂ stress.
-2. Living organisms can reveal chronic pollution stress.
-3. Ringelmann is a water-quality number.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 and 2.
-
-**Logic:** Ringelmann = smoke shade 0–5.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Biological Oxygen Demand (BOD) is a standard criterion for—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pollution assay in aquatic ecosystems</div><div class="pyq-opt"><span class="opt-letter">B</span> High-altitude O₂</div><div class="pyq-opt"><span class="opt-letter">C</span> Blood O₂</div><div class="pyq-opt"><span class="opt-letter">D</span> Forest O₂</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** BOD assays organic pollution in aquatic ecosystems — not blood or altitude oxygen.
+
+**Ans: A.** **BOD** = microbial oxygen demand in water; higher BOD = dirtier water. **Trap:** “Oxygen” in name → medical/altitude options.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Ringelmann scale is used to measure density of</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Smoke</div><div class="pyq-opt"><span class="opt-letter">B</span> Polluted water</div><div class="pyq-opt"><span class="opt-letter">C</span> Fog</div><div class="pyq-opt"><span class="opt-letter">D</span> Noise</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ringelmann scale grades smoke plume opacity 0–5 — not water, fog, or noise.
+
+**Ans: A.** **Ringelmann 0–5** = visible **smoke** density from stacks. **Trap:** Fog meter or BOD/water quality distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Annual Groundwater Quality Report 2024 was prepared by:<br><br>1. CPCB<br>2. CWC<br>3. CGWB</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Annual Groundwater Quality Report is CGWB’s product — CPCB handles air/surface water, not this report.
+
+**Ans: B (Only 3).** **CGWB** monitors groundwater quality/levels. **Trap:** CPCB name sounds like “all pollution.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Lichens are very good indicators of pollution.<br>2. Lichens grow well in polluted areas.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither</div><div class="pyq-opt"><span class="opt-letter">C</span> Both</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Lichens are sensitive SO₂ indicators — they do not grow well in polluted air.
+
+**Ans: D (Only 1).** Indicators **die back** in dirty air — statement 2 is false. **Trap:** “Good indicator” read as “likes pollution.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">SAFAR (System of Air Quality and Weather Forecasting and Research) was inaugurated in July 2018 by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dr. Harsh Vardhan</div><div class="pyq-opt"><span class="opt-letter">B</span> Governor of RBI</div><div class="pyq-opt"><span class="opt-letter">C</span> Director-General of WTO</div><div class="pyq-opt"><span class="opt-letter">D</span> Secretary, UNFCCC alone</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** SAFAR is IITM’s air-quality and weather forecast system — inaugurated by Dr. Harsh Vardhan in July 2018.
+
+**Ans: A.** **Dr. Harsh Vardhan** launched SAFAR (IITM-backed). **Trap:** Attributing SAFAR to IMD alone or CPCB alone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">National Clean Air Programme (NCAP) was launched in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2019</div><div class="pyq-opt"><span class="opt-letter">B</span> 1974</div><div class="pyq-opt"><span class="opt-letter">C</span> 1987</div><div class="pyq-opt"><span class="opt-letter">D</span> 1730</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** NCAP (2019) expanded monitoring and city action plans for non-attainment cities — complements CPCB networks.
+
+**Ans: A.** **NCAP 2019** targets ~20–30% PM cut in 122 cities. **Trap:** Water Act 1974 or Montreal 1987 year swaps.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Continuous Ambient Air Quality Monitoring Stations (CAAQMS) primarily provide:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Real-time ambient air quality data</div><div class="pyq-opt"><span class="opt-letter">B</span> Only annual groundwater atlases</div><div class="pyq-opt"><span class="opt-letter">C</span> Only Form V filing receipts</div><div class="pyq-opt"><span class="opt-letter">D</span> Only noise silence-zone maps</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** CAAQMS gives continuous real-time ambient air data; NAMP is mainly manual long-term trend stations.
+
+**Ans: A.** **CAAQMS** = continuous feeds for AQI boards; **NAMP** = manual trend network. **Trap:** Calling NAMP “real-time only.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Under the Environment (Protection) Rules, the annual **Environmental Statement (Form V)** is filed with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> State Pollution Control Board (SPCB)</div><div class="pyq-opt"><span class="opt-letter">B</span> Montreal Protocol Secretariat only</div><div class="pyq-opt"><span class="opt-letter">C</span> CITES Management Authority only</div><div class="pyq-opt"><span class="opt-letter">D</span> Ramsar Bureau only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Form V Environmental Statement under EPA Rule 14 is the annual statutory disclosure to SPCB.
+
+**Ans: A.** **Form V** goes to **SPCB** yearly (Rule 14). **Trap:** Confusing with ISO 14001 certificate or EC portal alone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">ISO 14001 standard relates to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Environmental Management Systems</div><div class="pyq-opt"><span class="opt-letter">B</span> Carbon credit issuance under Kyoto only</div><div class="pyq-opt"><span class="opt-letter">C</span> CITES Appendix listing</div><div class="pyq-opt"><span class="opt-letter">D</span> Ringelmann smoke photography only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** ISO 14001 is the voluntary Environmental Management System standard — not a treaty or AQI tool.
+
+**Ans: A.** **ISO 14001** = voluntary **EMS** certification. **Trap:** Equating ISO certificate with Form V statutory filing.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Environmental **audit** differs from **monitoring** because audit:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Verifies compliance with laws, consents, and management systems</div><div class="pyq-opt"><span class="opt-letter">B</span> Only publishes one daily AQI colour</div><div class="pyq-opt"><span class="opt-letter">C</span> Only measures smoke once without standards</div><div class="pyq-opt"><span class="opt-letter">D</span> Replaces all groundwater monitoring by CGWB</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Monitoring collects data; environmental audit verifies legal/EC compliance using that data.
+
+**Ans: A.** **Monitoring** = repeated measurement; **audit** = documented compliance check (Form V, EC reports, inspections). **Trap:** “We have AQI data, so audit is done.”</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to PSR, which of the following statements is/are correct?<br><br>1. Pressure → State → Response.<br>2. Indicators are identical to raw instrument readings and never support decisions.<br>3. PSR means only Ringelmann smoke shade.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Statement 1 is the PSR chain. Statement 2 is false — indicators convert raw numbers into decision signals. Statement 3 confuses PSR with Ringelmann smoke shade.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> NAMP</td><td><span class="match-key">1</span> Real-time air</td></tr>
+      <tr><td><span class="match-key">B</span> CAAQMS</td><td><span class="match-key">2</span> Manual air trends</td></tr>
+      <tr><td><span class="match-key">C</span> NWMP</td><td><span class="match-key">3</span> Surface water</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
+
+**Logic:** CPCB network trio.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. Standard air indicators exclude PM2.5, PM10, SO₂, NOx and AQI.<br>2. Water indicators — BOD, COD, DO, pH, coliform<br>3. CGWB — surface-water NWMP identical to CPCB</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Statement 2 is true (BOD/COD/DO/pH/coliform). Statement 1 wrongly excludes the usual air indicators. Statement 3 confuses CGWB groundwater with CPCB surface-water NWMP.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Monitoring is systematic repeated measurement against standards.<br><br>Reason (R): An audit is identical to an AQI reading.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true, R false.
+
+**A/R logic:** Audit checks legal conformity — not just another AQI reading.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to bio-indicators, which of the following statements is/are correct?<br><br>1. Lichens indicate SO₂ stress.<br>2. Living organisms can reveal chronic pollution stress.<br>3. Ringelmann is a water-quality number.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 and 2.
+
+**Logic:** Ringelmann = smoke shade 0–5.</div>
+  </div>
+</div>

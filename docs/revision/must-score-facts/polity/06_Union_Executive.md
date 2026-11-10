@@ -72,6 +72,31 @@ hide:
 48. **Cabinet Secretariat & Cabinet Secretary:** Operates directly under the Prime Minister; the **Cabinet Secretary** is the senior-most civil servant in India, ex-officio Chairman of the Civil Services Board, head of the Indian Administrative Service, and ranks **No. 11** in the Warrant of Precedence.
 49. **National Security Council (NSC):** Established in 1998; apex three-tier agency for national security management; chaired by the Prime Minister; the **National Security Advisor (NSA)** serves as its member-secretary and primary adviser on internal and external threats.
 50. **Articles 77 and 78 Interlock:** **Article 77** mandates that all executive actions of the Government of India shall be expressed to be taken in the name of the President; **Article 78** defines the constitutional duties of the Prime Minister to communicate all executive and legislative decisions to the President, submit information when called for, and place before the Council any decision taken by an individual minister.
+51. **Presidential Electoral College (Article 54):** Consists of: (1) **Elected members of both Houses of Parliament (Lok Sabha & Rajya Sabha)**, and (2) **Elected members of the Legislative Assemblies of the States** (including Delhi, Puducherry [70th CAA 1992], and J&K); Nominated members of Parliament and State Assemblies and ALL members of State Legislative Councils do NOT participate.
+52. **Value of Vote of an MLA Formula:** Value of MLA vote = (Total population of the State as per 1971 Census) / (Total number of elected MLAs in the State Legislative Assembly * 1000); Uttar Pradesh has the highest MLA vote value (**208**), while Sikkim has the lowest (**7**).
+53. **Value of Vote of an MP Formula:** Value of MP vote = (Total value of votes of all elected MLAs of all States) / (Total number of elected members of Parliament [LS + RS]); currently fixed around 700.
+54. **Presidential Election System (Article 55):** Conducted in accordance with the system of **Proportional Representation by means of the Single Transferable Vote (PR-STV)** through secret ballot; candidate must secure the Electoral Quota: Quota = [Total valid votes polled / (1 + 1)] + 1 = (Total valid votes / 2) + 1.
+55. **Disputes Regarding Presidential Election (Article 71):** All doubts and disputes arising out of the election of President or Vice-President are inquired into and **decided exclusively by the Supreme Court of India**, whose decision is final; election cannot be challenged on ground of any vacancy in the electoral college.
+56. **Presidential Oath (Article 60):** Administered by the **Chief Justice of India** (or in his absence, the senior-most judge of the SC available); President swears to 'preserve, protect, and defend the Constitution and the law'.
+57. **Impeachment of the President (Article 61):** Sole ground is **'Violation of the Constitution'** (not defined in the Constitution); Resolution can be initiated in **either House of Parliament**; must be signed by at least **1/4th of total members of that House** and requires **14 days' written notice**; must be passed by a majority of **not less than two-thirds of the TOTAL membership** of each House; Nominated members of Parliament participate in impeachment, whereas State MLAs do NOT participate.
+58. **Pardoning Power of President (Article 72):** President has power to grant **Pardons** (completely absolves guilt), **Reprieves** (temporary stay of execution), **Respites** (lesser sentence due to special fact like pregnancy), **Remissions** (reducing amount of sentence without changing character), and **Commutations** (substituting lighter form of punishment); President alone can pardon **Death Sentences** and punishments by a **Court Martial** (Governor has no power over court-martial and cannot completely pardon death sentence under Art. 161).
+59. **Ordinance Making Power of President (Article 123):** Can be promulgated ONLY when **either or both Houses of Parliament are not in session** and President is satisfied that circumstances exist requiring immediate action; Ordinance has same force and effect as an Act of Parliament; must be laid before Parliament when it reassembles and ceases to operate after **6 weeks from reassembly** of Parliament (maximum lifespan = 6 months + 6 weeks); cannot amend Constitution.
+60. **Landmark Cases on Ordinance Power:** In *R.C. Cooper (1970)*, SC held President's satisfaction can be questioned in court on grounds of malafide; in *D.C. Wadhwa v. State of Bihar (1987)* and *Krishna Kumar Singh (2017)*, SC held repeated repromulgation of ordinances without legislative approval is a fraud on the Constitution.
+61. **Veto Powers of the President:** Indian President has 3 veto powers: (1) **Absolute Veto** (withholding assent to a bill, usually private members' bills or when ministry resigns); (2) **Suspensive Veto** (returning bill for reconsideration; overridden by simple majority in Parliament; NOT applicable to Money Bills); (3) **Pocket Veto** (neither assenting nor returning, keeping bill pending indefinitely, as President Zail Singh did with the Indian Post Office Amendment Bill in 1986); President does NOT have 'Qualified Veto' (prevalent in USA).
+62. **Vice-President Electoral College (Article 66):** Consists of **ALL members of both Houses of Parliament (both elected and nominated)**; State Legislative Assemblies have NO role in VP election; conducted by PR-STV through secret ballot.
+63. **Removal of the Vice-President (Article 67(b)):** Can be removed by a resolution of the **Council of States (Rajya Sabha) passed by an Effective Majority** (majority of all the then members) and **agreed to by the House of the People (Lok Sabha) by a Simple Majority**; requires 14 days' advance notice; no formal impeachment or ground specified in Constitution.
+64. **Ex-Officio Chairman of Rajya Sabha (Article 64):** Vice-President is ex-officio Chairman of the Council of States; draws salary and allowances as Chairman of Rajya Sabha (not as Vice-President); when acting as President under Article 65, does NOT perform duties of RS Chairman and draws President’s salary.
+65. **Article 74 (Council of Ministers to Aid and Advise President):** Article 74(1) mandates a Council of Ministers with PM at head to aid and advise President, who 'shall act in accordance with such advice'; **42nd CAA 1976** made advice binding; **44th CAA 1978** added proviso that President may require CoM to reconsider advice once, but must act in accordance with reconsidered advice; Article 74(2) bars courts from inquiring into nature of advice tendered by ministers.
+66. **Article 75 - Prime Minister & Ministers Appointment:** Article 75(1): PM is appointed by President, other ministers appointed by President on advice of PM; Article 75(2): Ministers hold office during the **pleasure of the President**; Article 75(3): Council of Ministers is **collectively responsible to the House of the People (Lok Sabha)**; Article 75(5): Minister not a member of either House for **6 consecutive months** ceases to be a minister.
+67. **Size of Council of Ministers - 91st Amendment Act, 2003:** Article 75(1A) mandates that total number of ministers, including the Prime Minister, in the Union Council of Ministers shall NOT exceed **15% of the total number of members of the House of the People (Lok Sabha)**.
+68. **Article 78 - Duties of the Prime Minister:** Duty of PM: (a) To communicate to President all decisions of Council of Ministers relating to administration and legislation; (b) To furnish such information as President may call for; (c) If President requires, to submit for consideration of CoM any matter on which a minister has taken a decision but which has not been considered by Council.
+69. **Attorney-General for India (Article 76):** Highest law officer in the country; appointed by President; must be qualified to be appointed a **Judge of the Supreme Court**; holds office during the **pleasure of the President**; receives remuneration determined by President; has right of audience in all courts in India.
+70. **Article 88 - Special Rights of Attorney-General in Parliament:** Has the right to speak in, and take part in proceedings of, either House of Parliament, any joint sitting, and any Parliamentary Committee of which he may be named a member, but **WITHOUT the right to vote**; enjoys all privileges and immunities of an MP (Article 105(4)).
+71. **Solicitor General and Additional Solicitors General:** Statutory law officers assisting the Attorney General; their offices are **NOT mentioned in the Constitution of India** (unlike the AG under Article 76).
+72. **Cabinet vs Council of Ministers:** Council of Ministers is a constitutional body (Art. 74 & 75) comprising Cabinet Ministers, Ministers of State, and Deputy Ministers (50–70 members); **Cabinet** is a smaller inner core (15–20 members) exercising supreme executive power; word 'Cabinet' was inserted into the Constitution ONLY in **Article 352 by the 44th CAA 1978**.
+73. **Kitchen Cabinet / Inner Cabinet:** An informal body consisting of PM and 2–4 influential colleagues/friends; not mentioned in Constitution; functions as prime decision-making center.
+74. **Caretaker Government Constitutional Position:** In *U.N.R. Rao v. Indira Gandhi (1971)*, SC ruled that even after dissolution of Lok Sabha, President cannot function without a Council of Ministers; a Council of Ministers must always exist to aid and advise the President under Article 74(1).
+75. **All Executive Actions in President's Name (Article 77):** All executive action of the Government of India shall be expressed to be taken in the name of the President; President makes rules for more convenient transaction of business of GoI and allocation among Ministers (Transaction of Business Rules, 1961).
 
 ## ⏱️ Timeline / Chronology
 
@@ -150,27 +175,6 @@ hide:
 | **Cabinet Committee on Parliamentary Affairs** | **Defence / Senior Minister** | Coordinates government legislative agenda in Parliament; **NOT chaired by PM** |
 | **Cabinet Committee on Accommodation** | **Senior Cabinet Minister** | Allocation of government accommodation to ministers and MPs; **NOT chaired by PM** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| President Election vs Impeachment | **Election**: Nominated MPs OUT; MLAs IN. **Impeachment**: Nominated MPs IN; MLAs OUT. | Swap the voter groups | चुनाव: मनोनीत बाहर; महाभियोग: मनोनीत अंदर |
-| VP Removal vs President Impeachment | **VP**: Effective majority in RS + Simple in LS; originates ONLY in RS. **President**: 2/3rd TOTAL membership in BOTH Houses; originates in EITHER House. | Require 2/3rd total membership for VP removal | उपराष्ट्रपति = प्रभावी बहुमत; राष्ट्रपति = 2/3 कुल सदस्य |
-| Art. 72 vs Art. 161 Pardoning | President (72) can pardon **Death sentences** and **Court-Martial**; Governor (161) **CANNOT** pardon Death or Court-Martial. | Claim Governor can pardon death sentence | राज्यपाल मृत्युदंड क्षमा नहीं कर सकता |
-| Suspensive Veto Override | Overridden by **Simple Majority** of Parliament | Claim special majority is required (US 2/3rd trap) | भारत में साधारण बहुमत से पुनर्विचार रद्द |
-| Pocket Veto Time Limit | **No time limit** in Indian Constitution ("President's pocket is deeper than American President's") | Cite US 10-day rule for India | भारतीय राष्ट्रपति के लिए कोई समय-सीमा नहीं |
-| Money Bill Assent | President can **Assent** or **Withhold**, but **CANNOT Return** for reconsideration | Give President power to return Money Bill | धन विधेयक पुनर्विचार के लिए नहीं लौट सकता |
-| Ordinance Max Duration | **6 months + 6 weeks** (6 weeks from reassembly of Parliament) | Call it 6 months flat | अधिकतम 6 माह + 6 सप्ताह |
-| Art. 74(2) vs Art. 75(3) | 74(2) = Ministerial advice **immune from judicial inquiry**; 75(3) = Council of Ministers **collectively responsible to Lok Sabha**. | Claim advice can be probed in court | मंत्रिपरिषदीय सलाह न्यायालय में परीक्षण योग्य नहीं |
-| Cabinet vs Council of Ministers | Council of Ministers = 60–70 members (Art. 74/75); Cabinet = inner core 15–20 members (word used ONLY in Art. 352(3)). | Claim 'Cabinet' is defined in Art. 74 | 'मंत्रिमंडल' केवल अनुच्छेद 352(3) में है |
-| Attorney-General Voting Right | AG can speak and participate in Parliament and Committees (Art. 88), but **CANNOT VOTE**. | Award AG voting power in tie | महान्यायवादी को मत देने का अधिकार नहीं |
-| AG Tenure & Removal | AG holds office during **Pleasure of President** (no fixed tenure); removed by President at any time. | Give AG a 5-year or 6-year fixed tenure | महान्यायवादी = राष्ट्रपति के प्रसादपर्यंत |
-| Acting President vs Acting Chairman | When VP acts as President, he **does NOT act as RS Chairman** (Deputy Chairman presides; Art. 65(3)). | Let acting President draw VP/Chairman salary | राष्ट्रपति के रूप में कार्य करते समय सभापति नहीं |
-| Unopposed President | **Neelam Sanjiva Reddy (1977)** is the ONLY President elected unopposed. | Name Rajendra Prasad or Radhakrishnan | निर्विरोध निर्वाचित = नीलम संजीव रेड्डी |
-| Lowest MLA Vote Value | **Sikkim = 7** (UP is highest = 208). | Guess Arunachal or Goa as lowest | न्यूनतम मत मूल्य = सिक्किम (7) |
-| Second-Preference Vote Count | **V.V. Giri (1969)** was the ONLY President elected on second-preference counting. | Credit Sanjiva Reddy or Zail Singh | द्वितीय वरीयता मत = वी.वी. गिरि |
-| Council of Ministers 15% Cap | 91st Amendment (2003) capped size at **15% of Lok Sabha** (or Assembly); in States minimum is **12 ministers**. | Include Rajya Sabha in 15% calculation | केवल लोकसभा की कुल सदस्य संख्या का 15% |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Presidential Electoral College Filter:**
@@ -193,240 +197,232 @@ hide:
    - **Respite** = Reduce on special body condition (Pregnancy / Disability)
    - **Reprieve** = Temporary pause / stay of execution
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Consider the tenure of the following Presidents of India and arrange them in correct chronological order starting from the earliest to the last.
-1. Neelam Sanjiva Reddy
-2. K. R. Narayanan
-3. A. P. J. Abdul Kalam
-4. R. Venkataraman
-A. 1, 4, 2, 3
-B. 4, 1, 3, 2
-C. 4, 1, 2, 3
-D. 1, 4, 3, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Reddy → Venkataraman → Narayanan → Kalam.
-
-</details>
-
-**Q2.**
-With reference to the Vice-President of India, which of the following statements is/are correct?
-1. The Vice-President is the ex-officio Chairman of the Rajya Sabha.
-2. The Vice-President is a member of the Rajya Sabha.
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1.**
-
-</details>
-
-**Q3.**
-Which of the following is/are stated in the Constitution of India?
-1. The President shall not be a member of either of the Houses of the Parliament.
-2. The Parliament shall consist of the President and both Houses.
-A. Both 1 and 2
-B. Only 2
-C. Neither 1 nor 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Both** (Arts. 79 & 59).
-
-</details>
-
-**Q4.**
-Who among the following participates in the election of the President of India?
-A. Members of Lok Sabha only
-B. Members of Rajya Sabha only
-C. Elected members of Parliament and State Legislative Assemblies
-D. All members of Parliament and State Legislatures
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q5.** The President can recommend to the Parliament to change the boundary of any State after seeking the views of the concerned Legislature of that State within the specified period.
-
-**Reason (R):** It is not mandatory for the President to accept the proposal of the concerned State Legislature.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true but R not the explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q6.**
-With reference to the election of the Vice-President of India, which is declared void by the Supreme Court, which statement(s) is/are correct?
-1. The acts done by him before such declaration are valid.
-2. The acts done on the day of such declaration are not valid.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1** (Art. 71).
-
-</details>
-
-**Q7.** The President is a part of the Parliament.
-
-**Reason (R):** A Bill passed by the two Houses of Parliament cannot become a law without the assent of the President.
-A. Both true but R not the explanation
-B. Both (A) and (R) are true and (R) is the correct explanation of (A)
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q8.**
-With reference to the Attorney General of India, which statement(s) is/are correct?
-1. Appointed if qualified to be a Judge of the Supreme Court.
-2. Removed through the same process as SC judges.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1** (holds office during pleasure).
-
-</details>
-
-**Q9.**
-Which one of the following did **NOT** serve as Vice-President before assuming the office of the President of India?
-A. Dr. Shankar Dayal Sharma
-B. Neelam Sanjiva Reddy
-C. Dr. Zakir Hussain
-D. R. Venkataraman
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Neelam Sanjiva Reddy.**
-
-</details>
-
-**Q10.**
-With reference to the special address of the President of India, which statement(s) is/are correct?
-1. He addresses the joint meeting at the commencement of the first session after each general election and the first session of each year.
-2. He informs Parliament of the causes of its summons.
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 1 only.**
-
-</details>
-
-**Q11.** The Council of Ministers in India is collectively responsible to both Lok Sabha and Rajya Sabha.
-
-**Reason (R):** Members of both Lok Sabha and Rajya Sabha are eligible to become Ministers in the Union Government.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true but R not the explanation
-C. A true, R false
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — A false, R true** (responsible to the Lok Sabha only).
-
-</details>
-
-**Q12.**
-With reference to the Attorney General for India, consider the following statements:
-1. He is appointed by the President and holds office during the pleasure of the President.
-2. He has the right to speak and take part in the proceedings of either House of Parliament, but has no right to vote.
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both 1 and 2 are correct. Under Article 76, the Attorney General is appointed by the President and holds office during the President's pleasure. Under Article 88, he has the right to speak and participate in parliamentary proceedings without the right to vote.
-
-</details>
-
-**Q13.**
-With reference to Prime Minister's Office (PMO), which statement(s) is/are correct?
-1. It came into existence in 1977. 2. It is headed by the Cabinet Secretary.
-A. Only 2
-B. Both 1 and 2
-C. Only 1
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Neither.**
-
-</details>
-
-**Q14.**
-Under which Article of the Constitution of India is the President empowered to promulgate Ordinances during the recess of Parliament?
-
-A. Article 123
-B. Article 213
-C. Article 352
-D. Article 143
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Article 123 empowers the President to promulgate Ordinances when either House of Parliament is not in session. Article 213 confers similar powers on the Governor.
-
-</details>
-
-**Q15.**
-The Council of States (Rajya Sabha) has exclusive powers in relation to which of the following?
-A. To initiate proceedings for the removal of the President
-B. To initiate proceedings for the removal of a judge of the Supreme Court
-C. To recommend the creation of a new All India Service
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Art. 312 (new All India Service) is an exclusive power of the Rajya Sabha; impeachment/removal can start in **either** House.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the tenure of the following Presidents of India and arrange them in correct chronological order starting from the earliest to the last.<br>1. Neelam Sanjiva Reddy<br>2. K. R. Narayanan<br>3. A. P. J. Abdul Kalam<br>4. R. Venkataraman</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 4, 2, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 4, 1, 3, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 1, 2, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 4, 3, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Reddy → Venkataraman → Narayanan → Kalam.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to the Vice-President of India, which of the following statements is/are correct?<br>1. The Vice-President is the ex-officio Chairman of the Rajya Sabha.<br>2. The Vice-President is a member of the Rajya Sabha.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following is/are stated in the Constitution of India?<br>1. The President shall not be a member of either of the Houses of the Parliament.<br>2. The Parliament shall consist of the President and both Houses.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both** (Arts. 79 & 59).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who among the following participates in the election of the President of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Members of Lok Sabha only</div><div class="pyq-opt"><span class="opt-letter">B</span> Members of Rajya Sabha only</div><div class="pyq-opt"><span class="opt-letter">C</span> Elected members of Parliament and State Legislative Assemblies</div><div class="pyq-opt"><span class="opt-letter">D</span> All members of Parliament and State Legislatures</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The President can recommend to the Parliament to change the boundary of any State after seeking the views of the concerned Legislature of that State within the specified period.<br><br>**Reason (R):** It is not mandatory for the President to accept the proposal of the concerned State Legislature.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both true but R not the explanation</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false, R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the election of the Vice-President of India, which is declared void by the Supreme Court, which statement(s) is/are correct?<br>1. The acts done by him before such declaration are valid.<br>2. The acts done on the day of such declaration are not valid.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1** (Art. 71).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The President is a part of the Parliament.<br><br>**Reason (R):** A Bill passed by the two Houses of Parliament cannot become a law without the assent of the President.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true but R not the explanation</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false, R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to the Attorney General of India, which statement(s) is/are correct?<br>1. Appointed if qualified to be a Judge of the Supreme Court.<br>2. Removed through the same process as SC judges.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1** (holds office during pleasure).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">Which one of the following did **NOT** serve as Vice-President before assuming the office of the President of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dr. Shankar Dayal Sharma</div><div class="pyq-opt"><span class="opt-letter">B</span> Neelam Sanjiva Reddy</div><div class="pyq-opt"><span class="opt-letter">C</span> Dr. Zakir Hussain</div><div class="pyq-opt"><span class="opt-letter">D</span> R. Venkataraman</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Neelam Sanjiva Reddy.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to the special address of the President of India, which statement(s) is/are correct?<br>1. He addresses the joint meeting at the commencement of the first session after each general election and the first session of each year.<br>2. He informs Parliament of the causes of its summons.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 only.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The Council of Ministers in India is collectively responsible to both Lok Sabha and Rajya Sabha.<br><br>**Reason (R):** Members of both Lok Sabha and Rajya Sabha are eligible to become Ministers in the Union Government.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both true but R not the explanation</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false, R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A false, R true** (responsible to the Lok Sabha only).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to the Attorney General for India, consider the following statements:<br>1. He is appointed by the President and holds office during the pleasure of the President.<br>2. He has the right to speak and take part in the proceedings of either House of Parliament, but has no right to vote.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct. Under Article 76, the Attorney General is appointed by the President and holds office during the President's pleasure. Under Article 88, he has the right to speak and participate in parliamentary proceedings without the right to vote.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Prime Minister's Office (PMO), which statement(s) is/are correct?<br>1. It came into existence in 1977. 2. It is headed by the Cabinet Secretary.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Neither.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Under which Article of the Constitution of India is the President empowered to promulgate Ordinances during the recess of Parliament?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 123</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 213</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 352</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 143</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Article 123 empowers the President to promulgate Ordinances when either House of Parliament is not in session. Article 213 confers similar powers on the Governor.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The Council of States (Rajya Sabha) has exclusive powers in relation to which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> To initiate proceedings for the removal of the President</div><div class="pyq-opt"><span class="opt-letter">B</span> To initiate proceedings for the removal of a judge of the Supreme Court</div><div class="pyq-opt"><span class="opt-letter">C</span> To recommend the creation of a new All India Service</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Art. 312 (new All India Service) is an exclusive power of the Rajya Sabha; impeachment/removal can start in **either** House.</div>
+  </div>
+</div>

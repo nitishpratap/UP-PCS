@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 36 — Ozone Layer</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Ozone (O₃)** is triatomic oxygen. **Good ozone** (अच्छा ओजोन) sits in the **stratosphere** (समतापमंडल) (about **15–30/35 km**). Ground-level ozone is a harmful pollutant.
@@ -69,22 +58,6 @@ hide:
 43. **Nitrous oxide (N₂O)** also contributes to ozone chemistry / long-term ozone loss discussions, but CFCs/halons dominate classic “ozone hole” stems.
 44. **16 September** is observed as **International Day for the Preservation of the Ozone Layer (World Ozone Day)** — UN observance from **1994**.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Atmospheric & Pollution Milestones
-
-```
-1952 ──► Great Smog of London ➔ Led to UK Clean Air Act 1956 and modern air pollution epidemiology
-1974 ──► Molina & Rowland publish CFC-Ozone depletion hypothesis in Nature ➔ Nobel Prize in Chemistry 1995
-1979 ──► Geneva Convention on Long-Range Transboundary Air Pollution (LRTAP) ➔ First international acid rain treaty
-1985 ──► Vienna Convention for Protection of the Ozone Layer ➔ Framework convention for global ozone cooperation
-1987 ──► Montreal Protocol signed (16 September) ➔ World's most successful treaty; phase-out of 99% of ODS
-1999 ──► Gothenburg Protocol ➔ Multi-pollutant protocol to abate acidification, eutrophication, and ground-level ozone
-2013 ──► Minamata Convention on Mercury adopted (Japan) ➔ Global legally binding treaty on toxic heavy metal
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Legally binding phase-down of high-GWP Hydrofluorocarbons (HFCs)
-2019 ──► National Clean Air Programme (NCAP) launched in India ➔ 20–30% PM reduction target across 131 non-attainment cities
-```
-
 ## 📊 Quick Reference Grid
 
 ### Science / treaties
@@ -101,317 +74,251 @@ hide:
 | Vienna / Montreal / Kigali | **1985** / **1987** (force 1989) / **2016** |
 | Ozone Day | **16 Sep** |
 | Montreal ≠ Kyoto | Ozone / climate |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Stratospheric Ozone** | **Tropospheric Ozone** | Beneficial atmospheric filter blocking lethal solar UV radiation vs harmful photochemical smog component damaging human lungs and crop yields | समतापमंडलीय ओजोन (सुरक्षा कवच) / क्षोभमंडलीय ओजोन (प्रदूषक) |
-| **Ozone Depletion** | **Ozone Hole** | Global thinning of the stratospheric ozone layer by ODS vs severe seasonal Antarctic drop in total column ozone below 220 Dobson Units (DU) | ओजोन क्षरण / ओजोन छिद्र (<220 DU) |
-| **Vienna Convention (1985)** | **Montreal Protocol (1987)** | Non-binding framework agreement establishing ozone research/cooperation vs binding international protocol mandating specific phase-out schedules for ODS | वियना कन्वेंशन (1985) / मॉन्ट्रियल प्रोटोकॉल (1987) |
-| **Chlorofluorocarbons (CFCs)** | **Hydrofluorocarbons (HFCs)** | Chlorine-bearing potent ozone depleters + GHGs (phased out under Montreal) vs zero ODP non-ozone-depleting refrigerants that are super greenhouse gases (phased down under Kigali) | सीएफसी (ओजोन क्षयकारी) / एचएफसी (ग्रीनहाउस गैस) |
-| **Ozone Depletion Potential (ODP)** | **Global Warming Potential (GWP)** | Measure of substance's ability to destroy O₃ relative to CFC-11 (=1.0) vs measure of heat-trapping efficiency relative to CO₂ (=1.0) over 100 years | ओजोन रिक्तीकरण क्षमता (ODP) / वैश्विक तापन क्षमता (GWP) |
-| **Dobson Unit (DU)** | **Parts Per Million (ppm)** | Standard measure of atmospheric column ozone thickness (1 DU = 0.01 mm at STP; normal = ~300 DU) vs concentration ratio of gases in volume | डॉबसन यूनिट (DU) / पीपीएम (ppm) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to the ozone layer:
-
-1. It protects Earth's surface from solar ultraviolet radiation.
-2. Ozone depletion has been linked to CFCs.
-
-A. Only 2
-
-B. Neither
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Both UV-shield role and CFC–depletion link are standard facts — answer both statements.
-
-**Ans: C.** Stratospheric ozone absorbs **UV-B/C**; **CFCs** release stratospheric chlorine radicals. **Trap:** Treating ground-level O3 smog as the protective layer.
-
-</details>
-
-**Q2.**
-
-International Day for the Preservation of the Ozone Layer is observed on:
-
-A. 5 June
-
-B. 16 September
-
-C. 22 March
-
-D. 2 February
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** International Ozone Day = Montreal signing date, 16 September.
-
-**Ans: B.** **16 September** marks Montreal Protocol signature (**1987**). **Trap:** 5 June (WED) or 22 March (Water Day).
-
-</details>
-
-**Q3.**
-
-Which international agreement is related to climate change mitigation?
-
-A. Montreal Protocol
-
-B. Ramsar Convention
-
-C. Kyoto Protocol
-
-D. CITES
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Montreal = ozone/ODS; Kyoto = climate — 2024 Q35 mitigation stem.
-
-**Ans: C.** **Kyoto** mitigates GHGs; **Montreal** phases out **ODS**. **Trap:** Montreal because it is the headline ozone treaty in this chapter.
-
-</details>
-
-**Q4.**
-
-The ozone layer exists mainly in which atmospheric layer?
-
-A. Troposphere
-
-B. Mesosphere
-
-C. Stratosphere
-
-D. Thermosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ozone layer stratosphere location — overlaps Topic 35 but anchored here for ozone science.
-
-**Ans: C.** ~**90%** of ozone is stratospheric. **Trap:** Troposphere pair in NOT-matched lists.
-
-</details>
-
-**Q5.**
-
-On which date is Ozone Day observed?
-
-A. October 2
-
-B. September 16
-
-C. April 29
-
-D. January 30
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ozone Day date recurrence — 2022 wording variant.
-
-**Ans: B.** **16 September** — Montreal Protocol date. **Trap:** Gandhi Jayanti or Earth Day month swaps.
-
-</details>
-
-**Q6.**
-
-Photochemical smog always contains—
-
-A. Phosphorus
-
-B. Ozone
-
-C. Methane
-
-D. Aluminium ion
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Photochemical smog always contains tropospheric ozone — secondary pollutant, distinct from stratospheric shield.
-
-**Ans: B.** **NOx + VOCs + sunlight → O3 + PAN** in photochemical smog. **Trap:** Confusing this bad ground O3 with stratospheric good ozone location.
-
-</details>
-
-**Q7.**
-
-'World Ozone Day' is celebrated on
-
-A. 25 December
-
-B. 21 April
-
-C. 16 September
-
-D. 30 January
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 2021 Ozone Day stem — same 16 September key.
-
-**Ans: C.** **16 September** worldwide. **Trap:** 21 April (Earth Day).
-
-</details>
-
-**Q8.**
-
-Which is **NOT** correctly matched?
-
-A. Cartagena — Biosafety
-
-B. Stockholm — POPs
-
-C. Montreal — Ozone layer
-
-D. Kyoto — Save water
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Treaty match trap — Kyoto is climate/GHG, not save water; Montreal–ozone is correct.
-
-**Ans: D.** **Kyoto = climate/GHG mitigation**, not a water treaty. Montreal–ozone is correct. **Trap:** Kyoto paired with ozone or water because of generic environment label.
-
-</details>
-
-**Q9.**
-
-Consider the following:
-
-1. Ultra-violet radiation from sunlight helps produce ozone (O3).
-2. The ozone layer is located in the troposphere.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UV radiation produces ozone photochemically; wrong pair = ozone layer in troposphere.
-
-**Ans: A.** Statement 1 is true (UV-driven O3 chemistry). Statement 2 is false — ozone **layer = stratosphere**. **Trap:** Accepting pair ozone layer — troposphere on match lists (2018 Q57).
-
-</details>
-
-**Q10.**
-
-The global ozone treaty sequence is:
-
-A. Vienna Convention 1985 (framework) → Montreal Protocol 1987 (ODS phase-out; in force 1 January 1989)
-
-B. Montreal 1985 → Vienna 1987
-
-C. Kyoto 1987 → Montreal 1992
-
-D. Vienna alone banned all CFCs without Montreal schedules
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Vienna 1985 framework → Montreal 1987 binding ODS phase-out; force date 1 Jan 1989.
-
-**Ans: A.** **Vienna = framework/cooperation**; **Montreal = binding ODS cuts** (signed 16 Sep 1987, force **1 Jan 1989**). **Trap:** Vienna alone as full CFC ban, or reversing treaty order.
-
-</details>
-
-**Q11.** Ozone layer absorbing UV exists mainly in the:
-
-A. Mesosphere 
-B. Troposphere 
-C. Stratosphere 
-D. Thermosphere 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** About **90%** of ozone is stratospheric.
-
-</details>
-
-**Q12.** Stratospheric ozone is naturally regulated in large part by:
-
-A. Nitrous oxide only 
-B. Nitrogen dioxide 
-C. CFC alone as a natural regulator 
-D. Water vapour alone 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **NO₂** helps regulate stratospheric ozone chemically.
-
-</details>
-
-**Q13.** Which statement about Dobson Unit is correct?
-
-A. It measures ground-level ppm of ozone pollution only 
-B. 1 DU ≈ 0.01 mm pure ozone at 0°C and 1 atm 
-C. Hole threshold is always 500 DU 
-D. It measures only UV-A 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Column measure; hole often **< 220 DU**.
-
-</details>
-
-**Q14.** correctly matched?
-
-A. Renneting — Cheese 
-B. Golden rice — Vitamin A 
-C. Genetic engineering — Plasmids 
-D. Ozone layer — Troposphere 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Ozone layer = **stratosphere**.
-
-</details>
-
-**Q15.** Antarctic ozone-hole chemistry is best linked to:
-
-A. Tropospheric turbulence only 
-B. Polar front + stratospheric clouds + CFCs 
-C. Absence of polar front and PSCs 
-D. Warm polar midsummer only 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** PSC chlorine activation + vortex isolation.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the ozone layer:<br><br>1. It protects Earth's surface from solar ultraviolet radiation.<br>2. Ozone depletion has been linked to CFCs.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Both UV-shield role and CFC–depletion link are standard facts — answer both statements.
+
+**Ans: C.** Stratospheric ozone absorbs **UV-B/C**; **CFCs** release stratospheric chlorine radicals. **Trap:** Treating ground-level O3 smog as the protective layer.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">International Day for the Preservation of the Ozone Layer is observed on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 5 June</div><div class="pyq-opt"><span class="opt-letter">B</span> 16 September</div><div class="pyq-opt"><span class="opt-letter">C</span> 22 March</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 February</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** International Ozone Day = Montreal signing date, 16 September.
+
+**Ans: B.** **16 September** marks Montreal Protocol signature (**1987**). **Trap:** 5 June (WED) or 22 March (Water Day).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which international agreement is related to climate change mitigation?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Montreal Protocol</div><div class="pyq-opt"><span class="opt-letter">B</span> Ramsar Convention</div><div class="pyq-opt"><span class="opt-letter">C</span> Kyoto Protocol</div><div class="pyq-opt"><span class="opt-letter">D</span> CITES</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Montreal = ozone/ODS; Kyoto = climate — 2024 Q35 mitigation stem.
+
+**Ans: C.** **Kyoto** mitigates GHGs; **Montreal** phases out **ODS**. **Trap:** Montreal because it is the headline ozone treaty in this chapter.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The ozone layer exists mainly in which atmospheric layer?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Troposphere</div><div class="pyq-opt"><span class="opt-letter">B</span> Mesosphere</div><div class="pyq-opt"><span class="opt-letter">C</span> Stratosphere</div><div class="pyq-opt"><span class="opt-letter">D</span> Thermosphere</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ozone layer stratosphere location — overlaps Topic 35 but anchored here for ozone science.
+
+**Ans: C.** ~**90%** of ozone is stratospheric. **Trap:** Troposphere pair in NOT-matched lists.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">On which date is Ozone Day observed?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> October 2</div><div class="pyq-opt"><span class="opt-letter">B</span> September 16</div><div class="pyq-opt"><span class="opt-letter">C</span> April 29</div><div class="pyq-opt"><span class="opt-letter">D</span> January 30</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ozone Day date recurrence — 2022 wording variant.
+
+**Ans: B.** **16 September** — Montreal Protocol date. **Trap:** Gandhi Jayanti or Earth Day month swaps.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Photochemical smog always contains—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Phosphorus</div><div class="pyq-opt"><span class="opt-letter">B</span> Ozone</div><div class="pyq-opt"><span class="opt-letter">C</span> Methane</div><div class="pyq-opt"><span class="opt-letter">D</span> Aluminium ion</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Photochemical smog always contains tropospheric ozone — secondary pollutant, distinct from stratospheric shield.
+
+**Ans: B.** **NOx + VOCs + sunlight → O3 + PAN** in photochemical smog. **Trap:** Confusing this bad ground O3 with stratospheric good ozone location.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">'World Ozone Day' is celebrated on</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 25 December</div><div class="pyq-opt"><span class="opt-letter">B</span> 21 April</div><div class="pyq-opt"><span class="opt-letter">C</span> 16 September</div><div class="pyq-opt"><span class="opt-letter">D</span> 30 January</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 2021 Ozone Day stem — same 16 September key.
+
+**Ans: C.** **16 September** worldwide. **Trap:** 21 April (Earth Day).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cartagena — Biosafety</div><div class="pyq-opt"><span class="opt-letter">B</span> Stockholm — POPs</div><div class="pyq-opt"><span class="opt-letter">C</span> Montreal — Ozone layer</div><div class="pyq-opt"><span class="opt-letter">D</span> Kyoto — Save water</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Treaty match trap — Kyoto is climate/GHG, not save water; Montreal–ozone is correct.
+
+**Ans: D.** **Kyoto = climate/GHG mitigation**, not a water treaty. Montreal–ozone is correct. **Trap:** Kyoto paired with ozone or water because of generic environment label.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Consider the following:<br><br>1. Ultra-violet radiation from sunlight helps produce ozone (O3).<br>2. The ozone layer is located in the troposphere.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UV radiation produces ozone photochemically; wrong pair = ozone layer in troposphere.
+
+**Ans: A.** Statement 1 is true (UV-driven O3 chemistry). Statement 2 is false — ozone **layer = stratosphere**. **Trap:** Accepting pair ozone layer — troposphere on match lists (2018 Q57).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The global ozone treaty sequence is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vienna Convention 1985 (framework) → Montreal Protocol 1987 (ODS phase-out; in force 1 January 1989)</div><div class="pyq-opt"><span class="opt-letter">B</span> Montreal 1985 → Vienna 1987</div><div class="pyq-opt"><span class="opt-letter">C</span> Kyoto 1987 → Montreal 1992</div><div class="pyq-opt"><span class="opt-letter">D</span> Vienna alone banned all CFCs without Montreal schedules</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Vienna 1985 framework → Montreal 1987 binding ODS phase-out; force date 1 Jan 1989.
+
+**Ans: A.** **Vienna = framework/cooperation**; **Montreal = binding ODS cuts** (signed 16 Sep 1987, force **1 Jan 1989**). **Trap:** Vienna alone as full CFC ban, or reversing treaty order.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Ozone layer absorbing UV exists mainly in the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mesosphere</div><div class="pyq-opt"><span class="opt-letter">B</span> Troposphere</div><div class="pyq-opt"><span class="opt-letter">C</span> Stratosphere</div><div class="pyq-opt"><span class="opt-letter">D</span> Thermosphere</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> About **90%** of ozone is stratospheric.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Stratospheric ozone is naturally regulated in large part by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nitrous oxide only</div><div class="pyq-opt"><span class="opt-letter">B</span> Nitrogen dioxide</div><div class="pyq-opt"><span class="opt-letter">C</span> CFC alone as a natural regulator</div><div class="pyq-opt"><span class="opt-letter">D</span> Water vapour alone</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> NO₂** helps regulate stratospheric ozone chemically.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which statement about Dobson Unit is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It measures ground-level ppm of ozone pollution only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 DU ≈ 0.01 mm pure ozone at 0°C and 1 atm</div><div class="pyq-opt"><span class="opt-letter">C</span> Hole threshold is always 500 DU</div><div class="pyq-opt"><span class="opt-letter">D</span> It measures only UV-A</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Column measure; hole often **< 220 DU**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Renneting — Cheese</div><div class="pyq-opt"><span class="opt-letter">B</span> Golden rice — Vitamin A</div><div class="pyq-opt"><span class="opt-letter">C</span> Genetic engineering — Plasmids</div><div class="pyq-opt"><span class="opt-letter">D</span> Ozone layer — Troposphere</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ozone layer = **stratosphere**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Antarctic ozone-hole chemistry is best linked to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tropospheric turbulence only</div><div class="pyq-opt"><span class="opt-letter">B</span> Polar front + stratospheric clouds + CFCs</div><div class="pyq-opt"><span class="opt-letter">C</span> Absence of polar front and PSCs</div><div class="pyq-opt"><span class="opt-letter">D</span> Warm polar midsummer only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> PSC chlorine activation + vortex isolation.</div>
+  </div>
+</div>

@@ -74,6 +74,18 @@ hide:
 ---
 49. **Long Period Average (LPA) Benchmark**: IMD's current LPA for all-India southwest monsoon rainfall is **868.6 mm (87 cm)** based on the 1971–2020 average; normal monsoon is defined within **±10%** of this figure (96% to 104%).
 50. **Mawlynnong & Mawsynram Rain Mechanism**: Mawsynram (11,872 mm) receives world's highest rainfall because the funnel-shaped **Khasi Hills** trap the moist Bay of Bengal SW monsoon branch, forcing rapid orographic ascent against steep escarpments.
+51. **Koppen's Climate Classification for India (Key Symbols):** (1) **Amw:** Monsoon type with short dry winter (Western Coastal Plains south of Goa, Tripura); (2) **As:** Monsoon with dry summer (Coromandel Coast / Coastal Tamil Nadu - winter rainfall); (3) **Aw:** Tropical Savanna (Peninsular Plateau south of Tropic of Cancer); (4) **BShw:** Semi-arid steppe (Western Rajasthan, parts of Gujarat, rain-shadow of Western Ghats); (5) **BWhw:** Hot desert (Thar desert, Western Rajasthan); (6) **Cwg:** Monsoon type with dry winter / Gangetic plains (Northern Indian Plains); (7) **Dfc:** Cold humid winter with short summer (Arunachal Pradesh, Sikkim); (8) **ET:** Tundra / Polar climate (High Himalayas, Ladakh).
+52. **Indian Monsoon Mechanism Drivers:** (1) Differential heating and cooling of land and water; (2) Shift of the **Inter-Tropical Convergence Zone (ITCZ)** to 20°–25°N (Monsoon Trough) in summer; (3) Formation of high-pressure cell east of Madagascar (Mascarene High, ~20°S); (4) Intense heating of the **Tibetan Plateau** creating strong vertical convective currents; (5) Movement of the **Tropical Westerly Jet Stream** north of Himalayas and arrival of the **Tropical Easterly Jet Stream (TEJ)** over Peninsular India.
+53. **Somali Jet & Monsoon Surge:** Low-level cross-equatorial south-westerly jet stream along the coast of Somalia / Kenya; strengthens moisture transport into the Arabian Sea branch of the Indian monsoon.
+54. **El Nino, La Nina, and Indian Monsoon:** **El Nino** (warming of central and eastern Pacific waters off Peru) weakens the Walker Circulation and is strongly correlated with **droughts and deficit monsoons** in India; **La Nina** (cooling of equatorial Pacific) leads to robust, above-normal Indian monsoon rainfall.
+55. **Indian Ocean Dipole (IOD):** Irregular oscillation of sea-surface temperatures in western and eastern Indian Ocean; **Positive IOD** (warmer western Indian Ocean near Arabian Sea, cooler eastern near Indonesia) enhances Indian monsoon rainfall and can counteract El Nino effects; **Negative IOD** reduces monsoon rainfall.
+56. **Madden-Julian Oscillation (MJO):** Eastward-moving disturbance of clouds, rainfall, and wind in equatorial atmosphere that circles the globe every 30 to 60 days; when its convective phase passes over Indian Ocean, it triggers active monsoon spells and breaks dry spells.
+57. **Arabian Sea vs Bay of Bengal Monsoon Branches:** Arabian Sea branch strikes Western Ghats first (around 1 June at Kerala coast), brings torrential orographic rains to windward slopes (250–400 cm); Bay of Bengal branch is deflected by Arakan Yoma into the Gangetic Plains, causing rainfall that decreases progressively from east to west (Kolkata > Patna > Allahabad > Delhi).
+58. **Break in Monsoon:** Phenomenon during July–August when monsoon trough shifts northward close to Himalayan foothills; rainfall ceases completely over the plains while heavy downpours trigger catastrophic landslides and floods in Himalayan rivers.
+59. **Coromandel Coast / Tamil Nadu Winter Rain:** Tamil Nadu receives majority of its annual rainfall during **October to December** from the **Retreating / North-East Monsoon** and tropical depressions/cyclones over the Bay of Bengal, because it lies in the rain-shadow of Western Ghats during the South-West Monsoon.
+60. **Western Disturbances:** Extratropical cyclonic storms originating over the **Mediterranean Sea and Caspian Sea**; steered into North-West India by the **Subtropical Westerly Jet Stream** during winter (December to February); bring light to moderate winter rain to Punjab, Haryana, Delhi, and Western UP, and snow to Western Himalayas; critical for the growth of the **Rabi wheat crop**.
+61. **Pre-Monsoon Local Thunderstorms (Exam Terminology):** (1) **Mango Showers:** Pre-monsoon showers in Kerala and coastal Karnataka aiding early ripening of mangoes; (2) **Blossom Showers / Cherry Blossom:** Coffee-growing areas of Karnataka and Kerala aiding coffee flowering; (3) **Nor'westers / Kalbaisakhi:** Violent evening thunderstorms in Bengal and Assam, beneficial for tea, jute, and rice; (4) **Bardoli Chheerha:** Pre-monsoon storms in Assam; (5) **Loo:** Hot, dry, oppressive dust-laden winds blowing in northern plains during May–June.
+62. **Annual Rainfall Distribution Pattern in India:** Areas of High Rainfall (>200 cm): Western slopes of Western Ghats, North-East India (Mawsynram: ~1,187 cm), Andaman & Nicobar; Areas of Medium Rainfall (100–200 cm): Gangetic plain, Eastern coast, parts of Central India; Areas of Low Rainfall (50–100 cm): Deccan plateau rain-shadow, Western UP, Haryana, Punjab; Areas of Inadequate Rainfall (<50 cm): Western Rajasthan, Kutch, and Cold Desert of Ladakh (Leh receives <10 cm, driest place in India).
 
 ## ⏱️ Timeline / Chronology
 
@@ -159,23 +171,6 @@ hide:
 | **Negative IOD (-IOD)** | Eastern Indian Ocean (Sumatra) warmer than Western IO | Convection shifts towards Indonesia/Australia | **Suppresses Indian SW monsoon**; aggravates drought conditions |
 | **Western Disturbances** | Mediterranean extra-tropical depressions steered by Sub-Tropical Westerly Jet (STWJ) | Winter low-pressure systems | Brings winter rain to NW India (Punjab, Haryana, West UP) and snow in Himalayas; vital for **Rabi wheat** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **South-West Monsoon** | **North-East Monsoon** | June–September; covers 90% of India; warm moist oceanic winds from Arabian Sea & BoB vs October–December; covers mainly **Tamil Nadu (Coromandel Coast)**; winds blow from land to sea | दक्षिण-पश्चिम / उत्तर-पूर्व मानसून |
-| **Retreating Monsoon** | **Western Disturbance** | October–November withdrawal of SW monsoon causing "October Heat" vs December–February extra-tropical cyclones from Mediterranean causing winter NW rain | लौटता मानसून / पश्चिमी विक्षोभ |
-| **Loo** | **Nor'wester (Kalbaisakhi)** | Sustained, dry, scorching daytime hot wind of May–June in northern plains vs violent evening pre-monsoon thunderstorm with rain/hail in Bengal & Assam | लू / काल बैसाखी |
-| **Mango Showers** | **Blossom Showers** | Pre-monsoon showers in Kerala/coastal Karnataka aiding **mango fruit ripening** vs pre-monsoon showers in Karnataka coffee-growing tracts aiding **coffee flowering** | आम्र वर्षा / फूलों की बौछार |
-| **Sub-Tropical Westerly Jet (STWJ)** | **Tropical Easterly Jet (TEJ)** | High-altitude winter jet stream flowing west-to-east south of Himalayas steering Western Disturbances vs upper-air summer jet stream flowing east-to-west across peninsular India driving SW monsoon burst | पश्चिमी जेट / उष्णकटिबंधीय पूर्वी जेट |
-| **El Niño** | **La Niña** | Warm Pacific SST anomaly that usually **suppresses** Indian monsoon vs cool Pacific SST anomaly that usually **enhances** Indian monsoon | अल नीनो / ला नीना |
-| **Positive IOD** | **Negative IOD** | Warmer Western Arabian Sea boosting Indian monsoon rainfall vs warmer Eastern IO near Sumatra drawing moisture away from India | धनात्मक / ऋणात्मक हिंद महासागरीय द्विध्रुव |
-| **Burst of Monsoon** | **Break in Monsoon** | Sudden, dramatic arrival of torrential monsoon rains in early June vs prolonged dry spell of 1–2 weeks during July–August when monsoon trough shifts north to Himalayan foothills | मानसून का प्रस्फोट / मानसून में विच्छेद |
-| **Isohyets** | **Isobars** | Lines on map joining places of **equal rainfall** vs lines on map joining places of **equal atmospheric pressure** | समवर्षा रेखा / समदाब रेखा |
-| **Mawsynram** | **Cherrapunji** | Holds the world's highest average annual rainfall (**11,872 mm**) on Khasi Hills vs second-highest rainfall spot (~11,430 mm) on same Khasi Hills | मौसिनराम / चेरापूंजी |
-| **Leh (Ladakh)** | **Jaisalmer (Rajasthan)** | Cold desert receiving <10 cm rain due to Himalayan rain-shadow barrier vs hot subtropical desert receiving <15 cm rain due to lack of relief barrier & high temperature | लेह / जैसलमेर |
-| **Amw Climate** | **As Climate** | Malabar coast (Kerala) with heavy summer rain and short dry winter vs Coromandel coast (Tamil Nadu) with **dry summer and winter rainfall** | Amw / As जलवायु |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. High-Yield Pre-Monsoon Showers: **K-B-M-B**
@@ -205,366 +200,357 @@ hide:
   2. Lies in the deep rain-shadow of the Western Ghats for the Arabian Sea branch.
 - Wet during NE Monsoon (Oct–Dec) because retreating winds absorb moisture over Bay of Bengal and strike the Eastern Ghats perpendicularly.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-India’s climate is best described as:
-
-A. Tropical monsoon, with a subtropical north
-B. Wholly tropical throughout the country
-C. Mediterranean in the north-west and tropical elsewhere
-D. Equatorial wet in all coastal states
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Tropical monsoon — not wholly tropical because the north is subtropical.
-
-**Logic:** Himalayan wall + seasonal wind reversal define the monsoon frame.
-
-</details>
-
-**Q2.**
-With reference to the south-west monsoon, which of the following statements is/are correct?
-
-1. About 75–90% of India’s annual rain falls during June–September.
-2. Normal onset over Kerala is around 1 June.
-3. Tamil Nadu’s south-east coast receives its main rain in the SW monsoon.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Tamil Nadu SE coast is dry in SW monsoon and wet mainly in the **NE monsoon**.
-
-</details>
-
-**Q3.**
-An active monsoon is correctly associated with:
-
-A. Trough on the Ganga plain and wet plains
-B. Trough shifted onto the Himalaya and dry central India
-C. Withdrawal from Kerala toward Rajasthan
-D. Western Disturbance rainfall decreasing east to west
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Active spell = trough on the Ganga plain.
-
-**Logic:** Break monsoon parks the trough on the Himalaya. Break ≠ retreating monsoon.
-
-</details>
-
-**Q4.**
-Assertion (A): Western Disturbances bring winter rain to north-west India.
-Reason (R): Western Disturbances are tropical cyclones that form over the Bay of Bengal in October.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A is true; R is false.
-
-**A/R logic:** WDs are Mediterranean **extra-tropical** systems. Bay October storms belong to the retreating-monsoon / cyclone season.
-
-</details>
-
-**Q5.**
-Which jet stream is a summer easterly supporting the south-west monsoon?
-
-A. Tropical Easterly Jet around 14°N
-B. Subtropical Westerly Jet south of the Himalaya
-C. Polar Front Jet over Siberia
-D. Roaring Forties jet near 40°S
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **TEJ** ≈ 14°N summer easterly.
-
-**Logic:** Main mid-latitude jets are westerly; “all jets are easterly” is false.
-
-</details>
-
-**Q6.**
-El Niño is correctly characterised as:
-
-A. Cool eastern Pacific phase that always strengthens the Indian monsoon
-B. Warm eastern Pacific / Peru phase that usually weakens the Indian monsoon and reduces plankton
-C. Positive IOD phase in the Pacific Ocean
-D. Warm Arabian Sea current that forms on the equator only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Warm E Pacific → usually weak monsoon + less upwelling / plankton.
-
-**Logic:** La Niña is the cool opposite; IOD is an **Indian Ocean** dipole, not Pacific.
-
-</details>
-
-**Q7.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Köppen type) | List-II (India association) |
-|---|---|
-| 1. Am | A. Thar Desert |
-| 2. Aw | B. Deccan |
-| 3. As | C. Kerala / Konkan / NE |
-| 4. BWh | D. Tamil Nadu dry-summer Coromandel |
-
-A. 1-B, 2-C, 3-D, 4-A
-B. 1-C, 2-B, 3-D, 4-A
-C. 1-C, 2-D, 3-B, 4-A
-D. 1-A, 2-B, 3-C, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Am = wet west coast/NE; Aw = Deccan; As = Coromandel dry summer; BWh = Thar.
-
-**Logic:** Row order is not the answer code. Cwg (not listed) covers much of the Ganga / UP plain.
-
-</details>
-
-**Q8.**
-Which one of the following local phenomena is a violent pre-monsoon thunderstorm of eastern and north-eastern India?
-
-A. Loo
-B. Kal Baisakhi / Nor’wester
-C. Mango shower
-D. Blossom shower
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Kal Baisakhi / Nor’westers = violent April–May storms of the east / NE.
-
-**Logic:** Loo is hot dry plains wind; mango/blossom showers are southern pre-monsoon rains.
-
-</details>
-
-**Q9.**
-IMD defines a rainy day as any 24-hour period recording:
-
-A. ≥ 1.0 mm
-B. ≥ 2.5 mm
-C. ≥ 5.0 mm
-D. ≥ 10.0 mm
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Rainy day ≥ **2.5 mm**.
-
-**Logic:** Threshold traps use 1 mm or 5 mm.
-
-</details>
-
-**Q10.**
-With reference to humidity, which of the following statements is/are correct?
-
-1. Absolute humidity is the mass of water vapour in air.
-2. Relative humidity always rises when temperature rises if vapour mass is constant.
-
-A. Only 2
-B. Only 1
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only statement 1 is correct.
-
-**Logic:** Relative humidity is % of saturation and **falls** as temperature rises if vapour mass is unchanged.
-
-</details>
-
-**Q11.**
-Tropical cyclones over the North Indian Ocean:
-
-A. Form most often on the equator
-B. Have the fiercest winds in the calm eye
-C. Need sea surface temperatures of about 26–27°C and form more often over the Bay of Bengal than the Arabian Sea
-D. Are called Willy-willies in the Atlantic
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** SST ~26–27°C; Bay > Arabian Sea frequency.
-
-**Logic:** No equator formation; eyewall is fiercest; Willy-willy = Australia.
-
-</details>
-
-**Q12.**
-Assertion (A): Horse latitudes are dry subtropical high-pressure belts near 30°.
-Reason (R): Doldrums mark the rainy ITCZ calm belt of rising air.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true, but R describes ITCZ/doldrums, not why horse latitudes are dry highs.
-
-**A/R logic:** The two belts are opposites — do not treat R as the cause of A.
-
-</details>
-
-**Q13.**
-Which one of the following is correctly matched?
-
-A. Thornthwaite — letter codes based only on temperature
-B. Köppen — vegetation is the true index of climate
-C. Thornthwaite — vegetation is the true index of climate
-D. Flohn — monsoon caused only by land–sea differential heating
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Thornthwaite’s key line is vegetation as the true climate index.
-
-**Logic:** Köppen = T+P letter codes; classical thermal theory ≠ Flohn’s dynamic ITCZ migration.
-
-</details>
-
-**Q14.**
-On the northern plains, rainfall generally:
-
-A. Increases east to west
-B. Is equal at Delhi and Kolkata
-C. Declines east to west
-D. Falls only in the north-east monsoon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Rainfall generally **declines east → west** on the northern plains.
-
-**Logic:** Kochi–Kolkata–Patna–Delhi teaching ladder and Rajasthan dryness reinforce the gradient.
-
-</details>
-
-**Q15.**
-Which of the following pairs is NOT correctly matched?
-
-A. Hurricane — USA / Atlantic
-B. Typhoon — NW Pacific
-C. Brickfielder — North Indian Ocean cyclone
-D. Willy-willy — Australia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Brickfielder is an Australian **hot local wind**, not a cyclone name.
-
-**Logic:** Willy-willy is the Australian cyclone tag often swapped with Brickfielder.
-
-</details>
-
-**Q16.**
-Consider the following statements about Uttar Pradesh climate:
-
-1. Western UP receives more Western Disturbance winter rain than eastern UP.
-2. May–June Loo heat waves hit the plains.
-3. SW monsoon rain in UP often arrives with Bay of Bengal depressions.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** WD west→east decline, Loo, and Bay-depression monsoon feed are the UP spine.
-
-</details>
-
-**Q17.**
-Retreating monsoon months are mainly:
-
-A. December–February
-B. March–May
-C. June–September
-D. October–November
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Retreating monsoon ≈ **October–November** (October heat + Bay/Andaman cyclone risk).
-
-**Logic:** Do not call this the Western Disturbance season (Dec–Feb cold weather).
-
-</details>
-
-**Q18.**
-Sea breeze and land breeze are correctly stated as:
-
-A. Sea breeze by night toward land; land breeze by day toward sea
-B. Both blow only in the SW monsoon
-C. Both are forms of katabatic drainage
-D. Sea breeze by day toward land; land breeze by night toward sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Day = sea→land; night = land→sea.
-
-**Logic:** Anabatic/katabatic are slope winds; do not mix them with sea/land breezes.
-
-</details>
-
-**Q19.**
-Positive Indian Ocean Dipole (+IOD) generally:
-
-A. Strengthens El Niño in the Pacific
-B. Suppresses the Indian monsoon always
-C. Occurs only when TEJ disappears
-D. Helps the Indian monsoon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **+IOD** helps the Indian monsoon; **−IOD** hurts it.
-
-**Logic:** IOD compares west vs east **Indian Ocean**, not the Pacific.
-
-</details>
-
-**Q20.**
-Which one of the following onset dates is correctly matched in the usual teaching ladder?
-
-A. Kerala — mid-July
-B. Delhi — about 1 June
-C. Rajasthan — about 29 June
-D. Mumbai / Kolkata — about 10 June
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Mumbai / Kolkata ≈ **10 June**.
-
-**Logic:** Kerala ≈ 1 June; Delhi ≈ 29 June; Rajasthan last ≈ mid-July.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">India’s climate is best described as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tropical monsoon, with a subtropical north</div><div class="pyq-opt"><span class="opt-letter">B</span> Wholly tropical throughout the country</div><div class="pyq-opt"><span class="opt-letter">C</span> Mediterranean in the north-west and tropical elsewhere</div><div class="pyq-opt"><span class="opt-letter">D</span> Equatorial wet in all coastal states</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tropical monsoon — not wholly tropical because the north is subtropical.
+
+**Logic:** Himalayan wall + seasonal wind reversal define the monsoon frame.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to the south-west monsoon, which of the following statements is/are correct?<br><br>1. About 75–90% of India’s annual rain falls during June–September.<br>2. Normal onset over Kerala is around 1 June.<br>3. Tamil Nadu’s south-east coast receives its main rain in the SW monsoon.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Tamil Nadu SE coast is dry in SW monsoon and wet mainly in the **NE monsoon**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">An active monsoon is correctly associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Trough on the Ganga plain and wet plains</div><div class="pyq-opt"><span class="opt-letter">B</span> Trough shifted onto the Himalaya and dry central India</div><div class="pyq-opt"><span class="opt-letter">C</span> Withdrawal from Kerala toward Rajasthan</div><div class="pyq-opt"><span class="opt-letter">D</span> Western Disturbance rainfall decreasing east to west</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Active spell = trough on the Ganga plain.
+
+**Logic:** Break monsoon parks the trough on the Himalaya. Break ≠ retreating monsoon.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Western Disturbances bring winter rain to north-west India.<br>Reason (R): Western Disturbances are tropical cyclones that form over the Bay of Bengal in October.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is true; R is false.
+
+**A/R logic:** WDs are Mediterranean **extra-tropical** systems. Bay October storms belong to the retreating-monsoon / cyclone season.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which jet stream is a summer easterly supporting the south-west monsoon?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tropical Easterly Jet around 14°N</div><div class="pyq-opt"><span class="opt-letter">B</span> Subtropical Westerly Jet south of the Himalaya</div><div class="pyq-opt"><span class="opt-letter">C</span> Polar Front Jet over Siberia</div><div class="pyq-opt"><span class="opt-letter">D</span> Roaring Forties jet near 40°S</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> TEJ** ≈ 14°N summer easterly.
+
+**Logic:** Main mid-latitude jets are westerly; “all jets are easterly” is false.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">El Niño is correctly characterised as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cool eastern Pacific phase that always strengthens the Indian monsoon</div><div class="pyq-opt"><span class="opt-letter">B</span> Warm eastern Pacific / Peru phase that usually weakens the Indian monsoon and reduces plankton</div><div class="pyq-opt"><span class="opt-letter">C</span> Positive IOD phase in the Pacific Ocean</div><div class="pyq-opt"><span class="opt-letter">D</span> Warm Arabian Sea current that forms on the equator only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Warm E Pacific → usually weak monsoon + less upwelling / plankton.
+
+**Logic:** La Niña is the cool opposite; IOD is an **Indian Ocean** dipole, not Pacific.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Köppen type)</th><th>List-II (India association)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Am</td><td><span class="match-key">A</span> Thar Desert</td></tr>
+      <tr><td><span class="match-key">2</span> Aw</td><td><span class="match-key">B</span> Deccan</td></tr>
+      <tr><td><span class="match-key">3</span> As</td><td><span class="match-key">C</span> Kerala / Konkan / NE</td></tr>
+      <tr><td><span class="match-key">4</span> BWh</td><td><span class="match-key">D</span> Tamil Nadu dry-summer Coromandel</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-C, 3-D, 4-A</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-C, 2-B, 3-D, 4-A</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-C, 2-D, 3-B, 4-A</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-C, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Am = wet west coast/NE; Aw = Deccan; As = Coromandel dry summer; BWh = Thar.
+
+**Logic:** Row order is not the answer code. Cwg (not listed) covers much of the Ganga / UP plain.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which one of the following local phenomena is a violent pre-monsoon thunderstorm of eastern and north-eastern India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Loo</div><div class="pyq-opt"><span class="opt-letter">B</span> Kal Baisakhi / Nor’wester</div><div class="pyq-opt"><span class="opt-letter">C</span> Mango shower</div><div class="pyq-opt"><span class="opt-letter">D</span> Blossom shower</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kal Baisakhi / Nor’westers = violent April–May storms of the east / NE.
+
+**Logic:** Loo is hot dry plains wind; mango/blossom showers are southern pre-monsoon rains.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">IMD defines a rainy day as any 24-hour period recording:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> ≥ 1.0 mm</div><div class="pyq-opt"><span class="opt-letter">B</span> ≥ 2.5 mm</div><div class="pyq-opt"><span class="opt-letter">C</span> ≥ 5.0 mm</div><div class="pyq-opt"><span class="opt-letter">D</span> ≥ 10.0 mm</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rainy day ≥ **2.5 mm**.
+
+**Logic:** Threshold traps use 1 mm or 5 mm.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to humidity, which of the following statements is/are correct?<br><br>1. Absolute humidity is the mass of water vapour in air.<br>2. Relative humidity always rises when temperature rises if vapour mass is constant.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only statement 1 is correct.
+
+**Logic:** Relative humidity is % of saturation and **falls** as temperature rises if vapour mass is unchanged.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Tropical cyclones over the North Indian Ocean:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Form most often on the equator</div><div class="pyq-opt"><span class="opt-letter">B</span> Have the fiercest winds in the calm eye</div><div class="pyq-opt"><span class="opt-letter">C</span> Need sea surface temperatures of about 26–27°C and form more often over the Bay of Bengal than the Arabian Sea</div><div class="pyq-opt"><span class="opt-letter">D</span> Are called Willy-willies in the Atlantic</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> SST ~26–27°C; Bay > Arabian Sea frequency.
+
+**Logic:** No equator formation; eyewall is fiercest; Willy-willy = Australia.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Horse latitudes are dry subtropical high-pressure belts near 30°.<br>Reason (R): Doldrums mark the rainy ITCZ calm belt of rising air.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true, but R describes ITCZ/doldrums, not why horse latitudes are dry highs.
+
+**A/R logic:** The two belts are opposites — do not treat R as the cause of A.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Thornthwaite — letter codes based only on temperature</div><div class="pyq-opt"><span class="opt-letter">B</span> Köppen — vegetation is the true index of climate</div><div class="pyq-opt"><span class="opt-letter">C</span> Thornthwaite — vegetation is the true index of climate</div><div class="pyq-opt"><span class="opt-letter">D</span> Flohn — monsoon caused only by land–sea differential heating</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Thornthwaite’s key line is vegetation as the true climate index.
+
+**Logic:** Köppen = T+P letter codes; classical thermal theory ≠ Flohn’s dynamic ITCZ migration.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">On the northern plains, rainfall generally:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Increases east to west</div><div class="pyq-opt"><span class="opt-letter">B</span> Is equal at Delhi and Kolkata</div><div class="pyq-opt"><span class="opt-letter">C</span> Declines east to west</div><div class="pyq-opt"><span class="opt-letter">D</span> Falls only in the north-east monsoon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rainfall generally **declines east → west** on the northern plains.
+
+**Logic:** Kochi–Kolkata–Patna–Delhi teaching ladder and Rajasthan dryness reinforce the gradient.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hurricane — USA / Atlantic</div><div class="pyq-opt"><span class="opt-letter">B</span> Typhoon — NW Pacific</div><div class="pyq-opt"><span class="opt-letter">C</span> Brickfielder — North Indian Ocean cyclone</div><div class="pyq-opt"><span class="opt-letter">D</span> Willy-willy — Australia</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Brickfielder is an Australian **hot local wind**, not a cyclone name.
+
+**Logic:** Willy-willy is the Australian cyclone tag often swapped with Brickfielder.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Uttar Pradesh climate:<br><br>1. Western UP receives more Western Disturbance winter rain than eastern UP.<br>2. May–June Loo heat waves hit the plains.<br>3. SW monsoon rain in UP often arrives with Bay of Bengal depressions.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** WD west→east decline, Loo, and Bay-depression monsoon feed are the UP spine.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Retreating monsoon months are mainly:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> December–February</div><div class="pyq-opt"><span class="opt-letter">B</span> March–May</div><div class="pyq-opt"><span class="opt-letter">C</span> June–September</div><div class="pyq-opt"><span class="opt-letter">D</span> October–November</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Retreating monsoon ≈ **October–November** (October heat + Bay/Andaman cyclone risk).
+
+**Logic:** Do not call this the Western Disturbance season (Dec–Feb cold weather).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Sea breeze and land breeze are correctly stated as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sea breeze by night toward land; land breeze by day toward sea</div><div class="pyq-opt"><span class="opt-letter">B</span> Both blow only in the SW monsoon</div><div class="pyq-opt"><span class="opt-letter">C</span> Both are forms of katabatic drainage</div><div class="pyq-opt"><span class="opt-letter">D</span> Sea breeze by day toward land; land breeze by night toward sea</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Day = sea→land; night = land→sea.
+
+**Logic:** Anabatic/katabatic are slope winds; do not mix them with sea/land breezes.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Positive Indian Ocean Dipole (+IOD) generally:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Strengthens El Niño in the Pacific</div><div class="pyq-opt"><span class="opt-letter">B</span> Suppresses the Indian monsoon always</div><div class="pyq-opt"><span class="opt-letter">C</span> Occurs only when TEJ disappears</div><div class="pyq-opt"><span class="opt-letter">D</span> Helps the Indian monsoon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> +IOD** helps the Indian monsoon; **−IOD** hurts it.
+
+**Logic:** IOD compares west vs east **Indian Ocean**, not the Pacific.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following onset dates is correctly matched in the usual teaching ladder?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kerala — mid-July</div><div class="pyq-opt"><span class="opt-letter">B</span> Delhi — about 1 June</div><div class="pyq-opt"><span class="opt-letter">C</span> Rajasthan — about 29 June</div><div class="pyq-opt"><span class="opt-letter">D</span> Mumbai / Kolkata — about 10 June</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mumbai / Kolkata ≈ **10 June**.
+
+**Logic:** Kerala ≈ 1 June; Delhi ≈ 29 June; Rajasthan last ≈ mid-July.</div>
+  </div>
+</div>

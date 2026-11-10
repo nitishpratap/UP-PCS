@@ -130,7 +130,8 @@ c. 321 BCE ── Chandragupta Maurya & Chanakya overthrow Dhana Nanda; Maurya E
 
 | Mahajanapada | Ancient Capital | Modern Territory / District | Polity Type | Diagnostic High-Yield Association |
 |---|---|---|---|---|
-| **Magadha** | Girivraja / Rajagriha $ightarrow$ Pataliputra | Patna, Gaya, Nalanda (Bihar) | Monarchy | Iron mines, war elephants, fluvial junction; founded by Brihadratha |
+| **Magadha** | Girivraja / Rajagriha $
+ightarrow$ Pataliputra | Patna, Gaya, Nalanda (Bihar) | Monarchy | Iron mines, war elephants, fluvial junction; founded by Brihadratha |
 | **Anga** | **Champa** (ancient Malini) | Bhagalpur, Munger (Bihar) | Monarchy | Annexed by Bimbisara; great maritime river-port to Suvarnabhumi |
 | **Vajji** | **Vaishali** | Vaishali, Muzaffarpur (Bihar)| **Republic (Confederacy)** | 8-clan Gana-sangha (Lichchhavis); world's earliest constitutional republic |
 | **Kasi** | **Varanasi** | Varanasi, Chandauli (UP) | Monarchy | Between Varuna and Asi rivers; premier center for cotton & silk |
@@ -165,35 +166,14 @@ c. 321 BCE ── Chandragupta Maurya & Chanakya overthrow Dhana Nanda; Maurya E
 | **Monarchical States (*Rajyas*)** | Single hereditary king (*Rajan*); standing army paid from treasury; centralized taxation; Brahmanical court purohita | Magadha, Kosala, Vatsa, Avanti, Anga, Gandhara |
 | **Republican Oligarchies (*Gana-Sanghas*)** | Collective rule by clan chiefs (*Rajas*); assembly in Santhagara; voting by colored tickets (*Salakas*); no standing army or land taxes | **Vajji** (Lichchhavis of Vaishali), **Malla** (Kushinagar & Pawa), **Shakyas** (Kapilavastu), **Moriyas** (Pipphalivana) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Janapada** | **Mahajanapada** | Small clan territory (1000–600 BCE) vs Large territorial state with fortified cities (6th c. BCE) | जनपद / महाजनपद |
-| **Bimbisara** | **Bindusara** | Haryanka dynasty founder (6th c. BCE) vs Mauryan emperor, father of Ashoka (3rd c. BCE) | बिम्बिसार / बिन्दुसार |
-| **Girivraja / Rajagriha** | **Pataliputra** | Magadha's first capital (5 hills) vs Second capital founded by Udayin at Ganga-Son confluence | राजगृह / पाटलिपुत्र |
-| **Anguttara Nikaya** | **Bhagavati Sutra** | Standard **Buddhist** list of 16 states vs Alternative **Jain** list of 16 states | अंगुत्तर निकाय / भगवती सूत्र |
-| **Vajji** | **Malla** | 8-clan republic based at Vaishali vs 2-branch republic based at Kushinagar & Pawa | वज्जि / मल्ल |
-| **Udayana** | **Udayin** | King of **Vatsa** (hero of *Swapnavasavadattam*) vs King of **Magadha** (shifted capital to Pataliputra) | उदयन / उदयिन |
-| **Prasenjit** | **Pradyota** | King of **Kosala** (friend of Buddha, Sravasti) vs King of **Avanti** (Mahasena, cured by Jivaka) | प्रसेनजित / प्रद्योत |
-| **Asmaka (Potana)** | **Avanti (Mahishmati)** | Only state south of Vindhyas (Godavari) vs Malwa state on Narmada/Vetravati | अश्मक / अवन्ति |
-| **Rathamusala** | **Mahashilakantaka** | Scythed armored chariot for mowing infantry vs War engine/catapult for launching giant boulders | रथमूसल / महाशिलाकंटक |
-| **Monarchy (Rajya)** | **Republic (Gana-Sangha)** | Hereditary king, standing army, land revenue vs Assembly of clan Rajas, voting by Salakas | राजतंत्र / गणतंत्र |
-| **Shishunaga** | **Mahapadma Nanda** | Overthrew Haryankas, destroyed Avanti vs Destroyed Shishunagas, conquered Kalinga (*Ekarat*) | शिशुनाग / महापद्मनंद |
-| **Champa** | **Kausambi** | Capital of Anga on eastern Ganga vs Capital of Vatsa on Yamuna in UP | चम्पा / कौशाम्बी |
-| **Ahichchhatra** | **Kampilya** | Capital of Northern Panchala (Bareilly) vs Capital of Southern Panchala (Farrukhabad) | अहिच्छत्र / कांपिल्य |
-| **Santhagara** | **Sabha** | Republican assembly hall of Gana-sanghas vs Aristocratic elder council of Vedic era | संस्थागार / सभा |
-| **Punch-Marked Coins** | **Gupta Gold Coins** | Uninscribed stamped silver coins (6th c. BCE) vs Elaborate inscribed Sanskrit gold Dinars (4th c. CE) | आहत सिक्के / गुप्त स्वर्ण सिक्के |
-| **NBPW** | **PGW** | Mirror-like black pottery (6th–2nd c. BCE, urban) vs Grey painted pottery (1000–600 BCE, Later Vedic) | एनबीपीडब्ल्यू / पीजीडब्ल्यू |
-| **Shreshthin** | **Gahapati** | Wealthy merchant guild leader / urban financier vs Rural landowning householder/peasant | श्रेष्ठी / गृहपति |
-| **Dhana Nanda** | **Mahapadma Nanda** | Last Nanda king opposed to Alexander vs Founder of Nanda empire (*Sarvakshatrantaka*) | घनानंद / महापद्मनंद |
-| **Taxila** | **Nalanda** | 6th c. BCE university of Gandhara vs 5th c. CE Buddhist university founded by Kumaragupta I | तक्षशिला / नालंदा |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Magadhan Imperial Succession Ladder:**
    - **Mnemonic:** **H - S - N - M** (*"Hasin Mauryan"*)
-   - **Order:** **H**aryanka $ightarrow$ **S**hishunaga $ightarrow$ **N**anda $ightarrow$ **M**aurya.
+   - **Order:** **H**aryanka $
+ightarrow$ **S**hishunaga $
+ightarrow$ **N**anda $
+ightarrow$ **M**aurya.
 2. **The King Names Confusion Anchor:**
    - **Bim-bi-sara (Haryanka)** = **B**efore (6th c. BCE, contemporary of **B**uddha).
    - **Bin-du-sara (Maurya)** = **D**own in time (3rd c. BCE, son of Chandragupta, father of Ashoka).
@@ -210,258 +190,268 @@ c. 321 BCE ── Chandragupta Maurya & Chanakya overthrow Dhana Nanda; Maurya E
    - **Asmaka** = **A**lone on **S**outhern **M**ount / **G**odavari river (Capital: **Potana**).
 
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Which Buddha text has described 16 Mahajanapadas of 6th century BCE?
-
-A. Digha Nikaya B. Tripitaka C. Deepavamsa D. Anguttara Nikaya
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Canonical list-source is Anguttara Nikaya; Jain parallel is Bhagavati Sutra.
-
-**Ans: D.** **Anguttara Nikaya**. Tripitaka is the whole basket, not the specific list text.
-
-</details>
-
-**Q2.**
-
-Which of the following is not correctly matched?
-
-A. Anga — Champa 
-B. Kosala — Ahichchhatra 
-C. Vatsa — Kaushambi 
-D. Matsya — Viratnagar 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Wrong capital glued to Kosala.
-
-**Ans: B.** Kosala = Saket / Shravasti. Ahichchhatra = North Panchala.
-
-</details>
-
-**Q3.**
-
-Match List-I (Ancient places of U.P.) with List-II (Capital):
-
-| List-I | List-II |
-|--------|---------|
-| A. Kuru | 1. Saket |
-| B. Panchala | 2. Kaushambi |
-| C. Kosala | 3. Ahichchhatra |
-| D. Vatsa | 4. Indraprastha |
-
-A. 1 2 3 4 B. 4 3 1 2 C. 3 4 2 1 D. 4 2 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP four; Indraprastha = Kuru, Ahichchhatra = Panchala.
-
-**Ans: B.** Kuru–Indraprastha; Panchala–Ahichchhatra; Kosala–Saket; Vatsa–Kaushambi.
-
-</details>
-
-**Q4.**
-
-Match List-I with List-II:
-
-| List-I (Mahajanpadas) | List-II (Capitals) |
-|-----------------------|-------------------|
-| A. Matsya | 1. Mathura |
-| B. Kuru | 2. Potan |
-| C. Sursena | 3. Virat Nagar |
-| D. Asmak | 4. Indraprastha |
-
-A. 4 2 1 3 B. 3 1 4 2 C. 3 4 1 2 D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Classic 2020 four; Mathura is Surasena, never Matsya.
-
-**Ans: C.** 3-4-1-2. Matsya–Viratnagar, Kuru–Indraprastha, Surasena–Mathura, Asmaka–Potana.
-
-</details>
-
-**Q5.**
-
-Which of the following is NOT correctly matched?
-
-A. Kamboj — Rajpur / Hatak 
-B. Ashmak — Potan / Potil 
-C. Shurasen — Kaushambi 
-D. Koshal — Shravasti 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Surasena–Mathura vs Vatsa–Kaushambi.
-
-**Ans: C.** Surasena = Mathura.
-
-</details>
-
-**Q6.**
-
-How many Mahajanapadas were located in present-day Uttar Pradesh among the oldest sixteen?
-
-A. 06 B. 07 C. 08 D. 09 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Eight UP-touching states.
-
-**Ans: C.** Eight mahajanapadas touch present UP.
-
-</details>
-
-**Q7.**
-
-The capital of North Panchala, according to the Mahabharata, was located at —
-
-A. Hastinapur B. Indraprastha C. Ahichchhatra D. Mathura 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** North vs South Panchala split.
-
-**Ans: C.** North Panchala = **Ahichchhatra**; South = Kampilya.
-
-</details>
-
-**Q8.**
-
-In the sixth century BCE Suktimati was the capital of —
-
-A. Panchala B. Kuru C. Chedi D. Avanti 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sotthivati / Suktimati = Chedi.
-
-**Ans: C.** Chedi.
-
-</details>
-
-**Q9.**
-
-Matsya Mahajanapada of 6th century BCE was located in —
-
-A. Western Uttar Pradesh B. Rajasthan C. Bundelkhand D. Rohilkhand 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Jaipur–Alwar–Bharatpur; not Rohilkhand (Panchala).
-
-**Ans: B.** Rajasthan; capital Viratnagar.
-
-</details>
-
-**Q10.**
-
-Match List-I with List-II:
-
-| List-I (King) | List-II (State) |
-|---------------|-----------------|
-| A. Pradyot | 1. Magadha |
-| B. Udayana | 2. Vatsa |
-| C. Prasenjit | 3. Avanti |
-| D. Ajatashatru | 4. Kosala |
-
-A. 1 2 3 4 B. 4 3 2 1 C. 3 2 4 1 D. 4 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Big Four kings.
-
-**Ans: C.** Pradyota–Avanti; Udayana–Vatsa; Prasenjit–Kosala; Ajatashatru–Magadha.
-
-</details>
-
-**Q11.**
-
-Which inscription is the evidence of King Nanda?
-
-A. Hathigumpha inscription of Kharavela 
-B. Rummindei pillar inscription 
-C. Junagarh inscription of Rudradaman 
-D. Ayodhya inscription of Dhandeva 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Nanda canal / Jina image memory sits in Kharavela’s text.
-
-**Ans: A.** **Hathigumpha** of Kharavela.
-
-</details>
-
-**Q12.**
-
-Read the statements (A) and (B):
-
-**(A)** The sixth century BCE was a period of great religious upheaval in all parts of the world. 
-**(B)** The Vedic religion had become very complex.
-
-A. Both false B. Both true C. A true, B false D. A false, B true 
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Global upheaval + Vedic ritual complexity; both accepted true.
-
-**Ans: B.** Both (A) and (B) are true.
-
-</details>
-
-**Q13.** Chanda Pradyota was the ruler of which ancient state?
-
-A. Kashi B. Anga C. Avanti D. Vajji 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Avanti king treated by Jivaka.
-
-**Ans: C.** Avanti.
-
-</details>
-
-**Q14.** Who defeated and assimilated the Vajjis into Magadha?
-
-A. Chandragupta Maurya B. Ashoka C. Mahapadma Nanda D. Ajatashatru 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Long Vajji war = Ajatashatru.
-
-**Ans: D.** Ajatashatru.
-
-</details>
-
-**Q15.** Arrange Magadhan dynasties: 1 Nandas 2 Sungas 3 Mauryas 4 Haryankas
-
-A. 2-1-4-3 B. 4-1-3-2 C. 3-2-1-4 D. 1-3-4-2 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Haryanka → (Shishunaga omitted in options) → Nanda → Maurya → Shunga. Code uses 4,1,3,2.
-
-**Ans: B.** Haryanka → Nanda → Maurya → Shunga (Shishunaga absent from the option set).
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which Buddha text has described 16 Mahajanapadas of 6th century BCE?<br><br>A. Digha Nikaya B. Tripitaka C. Deepavamsa D. Anguttara Nikaya</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Canonical list-source is Anguttara Nikaya; Jain parallel is Bhagavati Sutra.
+
+**Ans: D.** **Anguttara Nikaya**. Tripitaka is the whole basket, not the specific list text.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following is not correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Anga — Champa</div><div class="pyq-opt"><span class="opt-letter">B</span> Kosala — Ahichchhatra</div><div class="pyq-opt"><span class="opt-letter">C</span> Vatsa — Kaushambi</div><div class="pyq-opt"><span class="opt-letter">D</span> Matsya — Viratnagar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Wrong capital glued to Kosala.
+
+**Ans: B.** Kosala = Saket / Shravasti. Ahichchhatra = North Panchala.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Ancient places of U.P.) with List-II (Capital):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Kuru</td><td><span class="match-key">1</span> Saket</td></tr>
+      <tr><td><span class="match-key">B</span> Panchala</td><td><span class="match-key">2</span> Kaushambi</td></tr>
+      <tr><td><span class="match-key">C</span> Kosala</td><td><span class="match-key">3</span> Ahichchhatra</td></tr>
+      <tr><td><span class="match-key">D</span> Vatsa</td><td><span class="match-key">4</span> Indraprastha</td></tr>
+  </tbody>
+</table><br>A. 1 2 3 4 B. 4 3 1 2 C. 3 4 2 1 D. 4 2 3 1</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP four; Indraprastha = Kuru, Ahichchhatra = Panchala.
+
+**Ans: B.** Kuru–Indraprastha; Panchala–Ahichchhatra; Kosala–Saket; Vatsa–Kaushambi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Mahajanpadas)</th><th>List-II (Capitals)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Matsya</td><td><span class="match-key">1</span> Mathura</td></tr>
+      <tr><td><span class="match-key">B</span> Kuru</td><td><span class="match-key">2</span> Potan</td></tr>
+      <tr><td><span class="match-key">C</span> Sursena</td><td><span class="match-key">3</span> Virat Nagar</td></tr>
+      <tr><td><span class="match-key">D</span> Asmak</td><td><span class="match-key">4</span> Indraprastha</td></tr>
+  </tbody>
+</table><br>A. 4 2 1 3 B. 3 1 4 2 C. 3 4 1 2 D. 2 3 4 1</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Classic 2020 four; Mathura is Surasena, never Matsya.
+
+**Ans: C.** 3-4-1-2. Matsya–Viratnagar, Kuru–Indraprastha, Surasena–Mathura, Asmaka–Potana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kamboj — Rajpur / Hatak</div><div class="pyq-opt"><span class="opt-letter">B</span> Ashmak — Potan / Potil</div><div class="pyq-opt"><span class="opt-letter">C</span> Shurasen — Kaushambi</div><div class="pyq-opt"><span class="opt-letter">D</span> Koshal — Shravasti</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Surasena–Mathura vs Vatsa–Kaushambi.
+
+**Ans: C.** Surasena = Mathura.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">How many Mahajanapadas were located in present-day Uttar Pradesh among the oldest sixteen?<br><br>A. 06 B. 07 C. 08 D. 09</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Eight UP-touching states.
+
+**Ans: C.** Eight mahajanapadas touch present UP.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The capital of North Panchala, according to the Mahabharata, was located at —<br><br>A. Hastinapur B. Indraprastha C. Ahichchhatra D. Mathura</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** North vs South Panchala split.
+
+**Ans: C.** North Panchala = **Ahichchhatra**; South = Kampilya.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">In the sixth century BCE Suktimati was the capital of —<br><br>A. Panchala B. Kuru C. Chedi D. Avanti</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Sotthivati / Suktimati = Chedi.
+
+**Ans: C.** Chedi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Matsya Mahajanapada of 6th century BCE was located in —<br><br>A. Western Uttar Pradesh B. Rajasthan C. Bundelkhand D. Rohilkhand</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Jaipur–Alwar–Bharatpur; not Rohilkhand (Panchala).
+
+**Ans: B.** Rajasthan; capital Viratnagar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (King)</th><th>List-II (State)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Pradyot</td><td><span class="match-key">1</span> Magadha</td></tr>
+      <tr><td><span class="match-key">B</span> Udayana</td><td><span class="match-key">2</span> Vatsa</td></tr>
+      <tr><td><span class="match-key">C</span> Prasenjit</td><td><span class="match-key">3</span> Avanti</td></tr>
+      <tr><td><span class="match-key">D</span> Ajatashatru</td><td><span class="match-key">4</span> Kosala</td></tr>
+  </tbody>
+</table><br>A. 1 2 3 4 B. 4 3 2 1 C. 3 2 4 1 D. 4 1 3 2</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Big Four kings.
+
+**Ans: C.** Pradyota–Avanti; Udayana–Vatsa; Prasenjit–Kosala; Ajatashatru–Magadha.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which inscription is the evidence of King Nanda?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hathigumpha inscription of Kharavela</div><div class="pyq-opt"><span class="opt-letter">B</span> Rummindei pillar inscription</div><div class="pyq-opt"><span class="opt-letter">C</span> Junagarh inscription of Rudradaman</div><div class="pyq-opt"><span class="opt-letter">D</span> Ayodhya inscription of Dhandeva</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Nanda canal / Jina image memory sits in Kharavela’s text.
+
+**Ans: A.** **Hathigumpha** of Kharavela.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Read the statements (A) and (B):<br><br>**(A)** The sixth century BCE was a period of great religious upheaval in all parts of the world. <br>**(B)** The Vedic religion had become very complex.<br><br>A. Both false B. Both true C. A true, B false D. A false, B true</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** Global upheaval + Vedic ritual complexity; both accepted true.
+
+**Ans: B.** Both (A) and (B) are true.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Chanda Pradyota was the ruler of which ancient state?<br><br>A. Kashi B. Anga C. Avanti D. Vajji</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Avanti king treated by Jivaka.
+
+**Ans: C.** Avanti.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Who defeated and assimilated the Vajjis into Magadha?<br><br>A. Chandragupta Maurya B. Ashoka C. Mahapadma Nanda D. Ajatashatru</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Long Vajji war = Ajatashatru.
+
+**Ans: D.** Ajatashatru.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Arrange Magadhan dynasties: 1 Nandas 2 Sungas 3 Mauryas 4 Haryankas<br><br>A. 2-1-4-3 B. 4-1-3-2 C. 3-2-1-4 D. 1-3-4-2</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Haryanka → (Shishunaga omitted in options) → Nanda → Maurya → Shunga. Code uses 4,1,3,2.
+
+**Ans: B.** Haryanka → Nanda → Maurya → Shunga (Shishunaga absent from the option set).</div>
+  </div>
+</div>

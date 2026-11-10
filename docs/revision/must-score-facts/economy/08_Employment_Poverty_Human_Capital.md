@@ -206,61 +206,6 @@ hide:
 | **SVAMITVA Scheme** | Ministry of **Panchayati Raj**; drone mapping and CORS technology for rural property titles. |
 | **Pradhan Mantri Awas Yojana (PMAY)** | Launched in **June 2015**; targets Housing for All; includes Urban (PMAY-U) and Gramin (PMAY-G). |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Core Conceptual Distinction |
-|---|---|---|
-| **Monetary / Income Poverty** | **Multidimensional Poverty Index (MPI)** | Income poverty tracks consumption or income against an absolute monetary line (USD 2.15/day or ₹816/₹1000); MPI measures acute deprivations across health, education, and living standards. |
-| **Human Poverty Index (HPI, 1997)** | **Multidimensional Poverty Index (MPI, 2010)** | HPI used aggregate national-level deprivations; MPI evaluates simultaneous deprivations experienced at the individual household level. |
-| **Alagh Committee (1979)** | **Tendulkar (2009) & Rangarajan (2014)** | Alagh based the poverty line exclusively on minimum calorie intake; Tendulkar and Rangarajan incorporated broader expenditure baskets including health, education, and clothing. |
-| **Core HDI Dimensions** | **Environmental Quality** | HDI evaluates health, education, and income per capita; environmental sustainability is not an indicator within the standard HDI calculation. |
-| **Human Development Index (HDI)** | **Physical Quality of Life Index (PQLI)** | HDI (UNDP, 1990) incorporates income alongside health and schooling; PQLI (Morris, 1970s) was an exclusively non-monetary index combining literacy, IMR, and life expectancy at age one. |
-| **Chronological Evolution of Welfare Metrics** | **Historical Ordering** | Development metrics evolved sequentially: Per Capita Income (PCI) → Physical Quality of Life Index (PQLI, 1970s) → Human Development Index (HDI, 1990). |
-| **Amartya Sen's Capability Approach** | **Basic Needs Approach** | Basic Needs focuses on providing a predefined commodity basket; the Capability Approach focuses on expanding individuals' substantive freedoms and capabilities to lead lives they value. |
-| **Gross National Happiness (GNH)** | **Gross National Product (GNP)** | GNH (Bhutan) measures holistic qualitative well-being across cultural, environmental, and governance pillars; GNP measures total monetary output of a nation's citizens. |
-| **World Happiness Report Rank** | **Human Development Index Rank** | World Happiness ranks subjective life evaluations using survey data; HDI ranks objective composite capabilities (longevity, education, and GNI per capita). |
-| **Highest State HDI (Kerala)** | **Lowest State HDI (Bihar)** | Kerala ranks consistently at the top due to high literacy and public health investments; Bihar has historically registered the lowest scores on education and health indicators. |
-| **Bare Necessities Index (BNI)** | **Scope and Dimensions** | BNI utilizes 26 indicators across 5 dimensions (water, sanitation, housing, micro-environment, other facilities) across 2012 and 2018 data, rather than six dimensions. |
-| **Demographic Dividend (15–59)** | **UN Working-Age Classification (15–64)** | Indian demographic and planning literature historically designates 15–59 years as the productive working-age bracket; UN international standards frequently designate 15–64 years. |
-| **Natural Population Growth** | **Net Migration** | Natural growth is determined exclusively by Crude Birth Rate minus Crude Death Rate (CBR − CDR); total population growth includes net migration. |
-| **Demographic Great Divide (1921)** | **Demographic Take-off (1951)** | The decade 1911–1921 was the only Census period in modern Indian history showing negative decadal growth (−0.31%); post-1921 marked continuous, accelerating population growth. |
-| **First Synchronous Census (1881)** | **Initial Non-Synchronous Census (1872)** | Lord Mayo initiated the first non-synchronous Census across parts of India in 1872; Lord Ripon oversaw the first comprehensive, synchronous all-India Census in 1881. |
-| **Densest State in 2011 (Bihar)** | **Densest State in 2001 (West Bengal)** | Bihar recorded 1,106 persons/sq km in the 2011 Census to become the densest State, overtaking West Bengal (903 persons/sq km in 2001; 1,028 in 2011). |
-| **Negative Decadal Growth (Nagaland, 2011)** | **Lowest Positive Growth (Kerala)** | Nagaland was the sole State to record a negative decadal growth rate (−0.6%) in Census 2011; Kerala recorded the lowest positive decadal growth among major States (+4.9%). |
-| **Most Urbanized State by Share (Goa)** | **Largest Urban Population in Absolute Numbers (Maharashtra)** | Goa has the highest percentage of urban population (~62.2%); Maharashtra holds the largest absolute urban population in India. |
-| **Census Town Criteria** | **Physical Municipal Expansion** | A Census Town must meet: population ≥ 5,000, ≥ 75% of male main workforce in non-agricultural pursuits, and density ≥ 400 persons/sq km; geographic expansion alone does not qualify. |
-| **JNNURM (2005)** | **Programme Horizon & Scope** | JNNURM was a 7-year mission (2005–2012) targeting urban infrastructure and basic services to the urban poor; it was not a 10-year rural electrification scheme. |
-| **World Population Day (11 July)** | **Other UN Observances** | Established to commemorate Five Billion Day (11 July 1987), focusing on global population dynamics and reproductive rights. |
-| **UNFPA State of World Population** | **Other Multilateral Reports** | Published annually by the United Nations Population Fund (UNFPA); distinct from UNDP's Human Development Report or World Bank's World Development Report. |
-| **Densest Continent (Asia)** | **Fastest Growing Continent (Africa)** | Asia holds the highest overall population density; Africa records the highest annual population growth rate globally. |
-| **Disguised Unemployment** | **Seasonal Unemployment** | Disguised unemployment involves continuous surplus labor with zero marginal product; seasonal unemployment occurs cyclically during off-seasons. |
-| **Labour Force Participation Rate (LFPR)** | **Unemployment Rate (UR)** | LFPR measures the labor force (employed + job seekers) as a share of total population; UR measures the unemployed as a percentage of the labor force only. |
-| **Social Indicator: Housing Quality** | **Size of House (Floor Area)** | Housing quality refers to durable wall, roof, and flooring materials; floor area or room count is not considered a social indicator of poverty. |
-| **Dadabhai Naoroji's Estimate** | **Tendulkar Committee Line** | Naoroji calculated an early colonial subsistence line using prisoner diet costs; Tendulkar formulated a modern consumption basket based on NSSO mixed reference periods. |
-| **Human Capital** | **Physical Capital** | Human capital is embodied in human capabilities through education and health; physical capital consists of man-made physical tools, plants, and machinery. |
-| **Social Capital** | **Human Capital** | Social capital represents collective trust, social norms, and community networks; human capital represents individual productive skills and health status. |
-| **Brundtland Report (*Our Common Future*, 1987)** | ***The Limits to Growth* (Club of Rome, 1972)** | Brundtland formalized sustainable development as inter-generational equity; *Limits to Growth* modeled resource depletion and ecological overshoot using system dynamics. |
-| **Inclusive Growth** | **High GDP Growth Rate Alone** | Inclusive growth emphasizes broad-based participation, employment creation, and equitable income distribution, which aggregate GDP growth alone does not ensure. |
-| **Physical Infrastructure Investment** | **Direct Human Capital Formation** | Irrigation, power grids, and highways build physical capital; schooling, vocational training, and primary healthcare build human capital. |
-| **Agenda 21 Adoption Year** | **Earth Summit Milestone** | Adopted at the Rio United Nations Conference on Environment and Development (UNCED) in 1992, not 1995. |
-| **Aspirational Districts Programme (ADP, 2018)** | **Aspirational Blocks Programme (ABP, 2023)** | ADP covers 112 underdeveloped districts across 49 KPIs; ABP covers 500 underdeveloped administrative blocks. |
-| **PM-JAY Health Cover** | **Per-Family vs Per-Individual Basis** | PM-JAY provides financial coverage of ₹5 lakh per eligible family per year, rather than ₹5 lakh per person. |
-| **PMKVY Nodal Ministry** | **Ministry of Labour vs MSDE** | Pradhan Mantri Kaushal Vikas Yojana is the flagship scheme of the Ministry of Skill Development and Entrepreneurship (MSDE), not the Ministry of Labour. |
-| **NRHM Launch Year** | **Five-Year Plan Period** | Launched on 12 April 2005 during the Tenth Five-Year Plan (2002–2007), not the Eleventh Plan. |
-| **RSBY Target Beneficiaries** | **Unorganised vs Organised Sector** | Rashtriya Swasthya Bima Yojana provided health insurance to unorganised sector BPL families; subsequently subsumed under PM-JAY. |
-| **Swadhar Scheme** | **Swayam Siddha Scheme** | Swadhar provides shelter, food, and rehabilitation to women in difficult circumstances; Swayam Siddha focused on self-help group-based women empowerment. |
-| **Bharat Nirman Components** | **Six Infrastructure Components** | Bharat Nirman (2005) covered six specific rural infrastructure sectors: roads, water, housing, telephony, electricity, and irrigation; it excluded schools, sanitation, and hospitals. |
-| **Skill Schemes (STRIVE, SANKALP, SHREYAS)** | **STRIDE Scheme (UGC)** | STRIVE and SANKALP are skill initiatives under MSDE; STRIDE is a university research scheme administered by the University Grants Commission (UGC). |
-| **PAHAL Scheme** | **Direct Benefit Transfer World Record** | PAHAL (DBTL for LPG) holds the Guinness World Record as the world's largest cash-transfer direct benefit scheme. |
-| **SGSY (1999)** | **NRLM (2011) / DAY-NRLM (2016)** | Swarnajayanti Gram Swarozgar Yojana restructured IRDP into an SHG scheme; restructured into NRLM in 2011 and renamed DAY-NRLM in 2016. |
-| **MGNREGA Household Guarantee** | **Individual Entitlement** | MGNREGA legally guarantees 100 days of unskilled wage work per rural household per financial year, not 100 days per individual adult. |
-| **NREGA Notification vs MGNREGA Renaming** | **Legislative Timeline** | Enacted in 2005, brought into force on 2 February 2006; formally renamed Mahatma Gandhi NREGA on 2 October 2009. |
-| **SJSRY (Urban Focus)** | **Rural Employment Schemes** | Swarna Jayanti Shahari Rozgar Yojana (1997) was specifically designed for urban self-employment and wage employment, distinct from rural programs. |
-| **Atal Pension Yojana (APY)** | **Spouse Pension Entitlement** | In the event of the subscriber's demise, the pension continues automatically to the surviving spouse; family members are not excluded from benefits. |
-| **PM Shram Yogi Maan-dhan (PM-SYM)** | **Family Pension Beneficiary** | Upon the death of the pensioner, 50% family pension is payable exclusively to the surviving spouse; other dependents do not qualify. |
-| **Swachh Bharat Mission (SBM)** | **Jal Jeevan Mission (JJM)** | SBM focuses on sanitation, solid waste management, and Open Defecation Free (ODF) status; JJM focuses on functional piped household tap water. |
-| **National Social Assistance Programme (NSAP)** | **Target Social Groups** | NSAP (1995) administers national old-age, widow, and disability pensions; it does not include agricultural livelihood schemes like Mahila Kisan Sashaktikaran. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### Key Mnemonics & Cognitive Hooks
@@ -279,292 +224,262 @@ hide:
   - Marginal Physical Productivity of Labour is **ZERO** ($MPP_L = 0$).
   - Withdrawing workers does not reduce aggregate agricultural output.
 
-## 🎯 High-Yield PYQ Drill (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Which of the following Committees recommended a poverty line based on nutritional requirements exclusively?
-
-A. Alagh
-B. Lakdawala
-C. Tendulkar
-D. Rangarajan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Alagh.
-
-**Ans: A.** Alagh
-</details>
-
-**Q2.**
-
-Human Development Report 1997 introduced the concept of Human Poverty Index (HPI) but Human Development Report replaced it with Multidimensional Poverty Index (MPI) in the year
-
-A. 1999
-B. 2005
-C. 2010
-D. 2015
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 2010.
-
-**Ans: C.** 2010
-</details>
-
-**Q3.**
-
-With reference to the Multidimensional Poverty Index (MPI), which of the following statements is/are correct?
-
-1. It was developed and introduced in 2010.
-2. It measures extreme poverty and includes people living on less than one dollar per day.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-B. Neither
-C. Both
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Only the 2010 introduction is correct — Only 1
-
-**Ans: D.** Only 1
-</details>
-
-**Q4.**
-
-Which of the following is NOT a social indicator of poverty?
-
-1. Illiteracy
-2. Safe drinking water
-3. Employment opportunities
-4. Size of house
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. 3 and 4
-C. Only 4
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Size of house is the odd one — Only 4
-
-**Ans: C.** Only 4
-</details>
-
-**Q5.**
-
-Which indicators are used in Human Development Index (HDI)?
-
-1. Income level
-2. Education
-3. Condition of environment
-4. Life expectancy
-
-Select the correct answer from the codes given below:
-
-A. 1, 2 and 3
-B. 1 and 4
-C. 1, 2 and 4
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Drop environment — 1, 2 and 4
-
-**Ans: C.** 1, 2 and 4
-</details>
-
-**Q6.**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Investment in human capital yields returns in the future.
-
-Reason (R): Education and health make people more productive.
-
-Select the correct answer from the code given below:
-
-A. Both true, R does not explain
-B. A false, R true
-C. A true, R false
-D. Both true and R explains
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key: Both true and R explains.
-
-**Ans: D.** Both true and R explains
-</details>
-
-**Q7.**
-
-With reference to the Multidimensional Poverty Index (MPI), which of the following statements is/are correct?
-
-1. It was developed and introduced in 2010.
-2. It measures extreme poverty and includes people living on less than one dollar per day.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-B. Neither
-C. Both
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Only the 1990 HDR/HDI statement stands — Only 1
-
-**Ans: D.** Only 1
-</details>
-
-**Q8.**
-
-The demographic dividend is—
-
-A. Above 60 years
-B. 15 to 59 years
-C. 0–6 years
-D. 14 to 50 years
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 15–59 working-age band — 15 to 59 years
-
-**Ans: B.** 15 to 59 years
-</details>
-
-**Q9.**
-
-Multidimensional poverty index includes:
-
-i. Health
-ii. Education
-iii. Living Standard
-
-Select correct answer from the codes given below:
-
-A. Only health
-B. Only education and living standard
-C. Only health and education
-D. Health, education and living standard
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key: Health, education and living standard.
-
-**Ans: D.** Health, education and living standard
-</details>
-
-**Q10.**
-Assertion (A): Sustainable Development was popularised by the Brundtland Report.
-Reason (R): The Brundtland Report is also known as “The Limits to Growth”.
-A. Both true, R not explanation
-B. A false R true
-C. Both true and R explains
-D. A true, R false
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches A true, R false.
-
-**Ans: D.** A true, R false
-</details>
-
-**Q11.**
-Saving energy and resources for the future without sacrificing present comfort defines:
-A. Economic growth
-B. Economic development
-C. Sustainable development
-D. Human development
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sustainable development.
-
-**Ans: C.** Brundtland-style definition.
-
-</details>
-
-**Q12.**
-Balancing use of resources with conservation for the future is called:
-A. Reducing consumption
-B. Future resources
-C. Resource conservation
-D. Sustainable development
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sustainable development.
-
-**Ans: D.** Use + conserve.
-
-</details>
-
-**Q13.**
-Economic Survey first introduced a chapter on sustainable development and climate change in:
-A. 2004–05
-B. 2011–12
-C. 2012–13
-D. 2013–14
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Survey chapter debut — 2011–12
-
-**Ans: B.** 2011–12
-</details>
-
-**Q14.**
-
-India's rank on the Human Development Index has stipped from 130 in 2020 to 132 in 2022. Select the correct answer using the code given below : Code:
-
-A. Only 1
-B. Only 2
-C. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** So, both the given options are incorrect.
-
-**Ans: C.** (HDI) has stipped from 130 in 2020 to 132 in 2021 (in 191 countries and territories) not in 2022.
-
-</details>
-
-**Q15.**
-
-Life expectancy Select the correct answer from the codes given below:
-
-A. Only 1,2 and 3
-B. Only l and 4
-C. Only 1, 2 and
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key from Ghatnachakra Human Development — Only 1, 2 and
-
-**Ans: C.** Only 1, 2 and
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following Committees recommended a poverty line based on nutritional requirements exclusively?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Alagh</div><div class="pyq-opt"><span class="opt-letter">B</span> Lakdawala</div><div class="pyq-opt"><span class="opt-letter">C</span> Tendulkar</div><div class="pyq-opt"><span class="opt-letter">D</span> Rangarajan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Alagh.
+
+**Ans: A.** Alagh</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Human Development Report 1997 introduced the concept of Human Poverty Index (HPI) but Human Development Report replaced it with Multidimensional Poverty Index (MPI) in the year</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1999</div><div class="pyq-opt"><span class="opt-letter">B</span> 2005</div><div class="pyq-opt"><span class="opt-letter">C</span> 2010</div><div class="pyq-opt"><span class="opt-letter">D</span> 2015</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 2010.
+
+**Ans: C.** 2010</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Multidimensional Poverty Index (MPI), which of the following statements is/are correct?<br><br>1. It was developed and introduced in 2010.<br>2. It measures extreme poverty and includes people living on less than one dollar per day.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither</div><div class="pyq-opt"><span class="opt-letter">C</span> Both</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Only the 2010 introduction is correct — Only 1
+
+**Ans: D.** Only 1</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT a social indicator of poverty?<br><br>1. Illiteracy<br>2. Safe drinking water<br>3. Employment opportunities<br>4. Size of house<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 4</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Size of house is the odd one — Only 4
+
+**Ans: C.** Only 4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which indicators are used in Human Development Index (HDI)?<br><br>1. Income level<br>2. Education<br>3. Condition of environment<br>4. Life expectancy<br><br>Select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Drop environment — 1, 2 and 4
+
+**Ans: C.** 1, 2 and 4</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Investment in human capital yields returns in the future.<br><br>Reason (R): Education and health make people more productive.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true, R does not explain</div><div class="pyq-opt"><span class="opt-letter">B</span> A false, R true</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both true and R explains</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key: Both true and R explains.
+
+**Ans: D.** Both true and R explains</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the Multidimensional Poverty Index (MPI), which of the following statements is/are correct?<br><br>1. It was developed and introduced in 2010.<br>2. It measures extreme poverty and includes people living on less than one dollar per day.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither</div><div class="pyq-opt"><span class="opt-letter">C</span> Both</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Only the 1990 HDR/HDI statement stands — Only 1
+
+**Ans: D.** Only 1</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The demographic dividend is—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Above 60 years</div><div class="pyq-opt"><span class="opt-letter">B</span> 15 to 59 years</div><div class="pyq-opt"><span class="opt-letter">C</span> 0–6 years</div><div class="pyq-opt"><span class="opt-letter">D</span> 14 to 50 years</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 15–59 working-age band — 15 to 59 years
+
+**Ans: B.** 15 to 59 years</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Multidimensional poverty index includes:<br><br>i. Health<br>ii. Education<br>iii. Living Standard<br><br>Select correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only health</div><div class="pyq-opt"><span class="opt-letter">B</span> Only education and living standard</div><div class="pyq-opt"><span class="opt-letter">C</span> Only health and education</div><div class="pyq-opt"><span class="opt-letter">D</span> Health, education and living standard</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key: Health, education and living standard.
+
+**Ans: D.** Health, education and living standard</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Sustainable Development was popularised by the Brundtland Report.<br>Reason (R): The Brundtland Report is also known as “The Limits to Growth”.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true, R not explanation</div><div class="pyq-opt"><span class="opt-letter">B</span> A false R true</div><div class="pyq-opt"><span class="opt-letter">C</span> Both true and R explains</div><div class="pyq-opt"><span class="opt-letter">D</span> A true, R false</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches A true, R false.
+
+**Ans: D.** A true, R false</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Saving energy and resources for the future without sacrificing present comfort defines:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Economic growth</div><div class="pyq-opt"><span class="opt-letter">B</span> Economic development</div><div class="pyq-opt"><span class="opt-letter">C</span> Sustainable development</div><div class="pyq-opt"><span class="opt-letter">D</span> Human development</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Sustainable development.
+
+**Ans: C.** Brundtland-style definition.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Balancing use of resources with conservation for the future is called:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Reducing consumption</div><div class="pyq-opt"><span class="opt-letter">B</span> Future resources</div><div class="pyq-opt"><span class="opt-letter">C</span> Resource conservation</div><div class="pyq-opt"><span class="opt-letter">D</span> Sustainable development</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Sustainable development.
+
+**Ans: D.** Use + conserve.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Economic Survey first introduced a chapter on sustainable development and climate change in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2004–05</div><div class="pyq-opt"><span class="opt-letter">B</span> 2011–12</div><div class="pyq-opt"><span class="opt-letter">C</span> 2012–13</div><div class="pyq-opt"><span class="opt-letter">D</span> 2013–14</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Survey chapter debut — 2011–12
+
+**Ans: B.** 2011–12</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">India's rank on the Human Development Index has stipped from 130 in 2020 to 132 in 2022. Select the correct answer using the code given below : Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** So, both the given options are incorrect.
+
+**Ans: C.** (HDI) has stipped from 130 in 2020 to 132 in 2021 (in 191 countries and territories) not in 2022.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Life expectancy Select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1,2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only l and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1, 2 and</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key from Ghatnachakra Human Development — Only 1, 2 and
+
+**Ans: C.** Only 1, 2 and</div>
+  </div>
+</div>

@@ -211,24 +211,6 @@ hide:
 | **West** (Pashchima) | **Kalika / Dwaraka Peeth** | Dwarka, **Gujarat** | **Samaveda** | *Tat Tvam Asi* (That Thou Art) |
 | **North** (Uttara) | **Jyotirmath** | Badrinath / Joshimath, **Uttarakhand**| **Atharvaveda** | *Ayam Atma Brahma* (This Self is Brahman) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Gautama (Nyaya)** | **Gautama Buddha** | Aksapada Gautama = Vedic sage who authored the *Nyaya Sutra* (logical realism); Gautama Buddha = Shakyamuni founder of Buddhism | अक्षपाद गौतम (न्याय दर्शन) / गौतम बुद्ध (बौद्ध धर्म) |
-| **Kanada (Vaisheshika)** | **Kapila (Samkhya)** | Kanada = Atomic pluralism (*Paramanu-vada*); Kapila = Metaphysical dualism of *Purusha* and *Prakriti* | कणाद (वैशेषिक परमाणुवाद) / कपिल (सांख्य पुरुष-प्रकृति) |
-| **Purva Mimamsa** | **Uttara Mimamsa** | Purva Mimamsa (Jaimini) = Focuses on **Vedic rituals, sacrifice, and action (*Karma Kanda*)**; Uttara Mimamsa (Badarayana) = Focuses on **philosophical knowledge of Brahman (*Jnana Kanda*)** | पूर्व मीमांसा (कर्मकांड/जैमिनी) / उत्तर मीमांसा (ज्ञानकांड/वेदांत) |
-| **Advaita (Shankara)** | **Vishishtadvaita (Ramanuja)**| Advaita = Brahman is **Nirguna** (attributeless), world is Maya illusion; Vishishtadvaita = Brahman is **Saguna** (Narayana), world and souls are real attributes/body of God | अद्वैत (निर्गुण, जगत मिथ्या) / विशिष्टाद्वैत (सगुण नारायण, जगत सत्य) |
-| **Sringeri Math (South)** | **Govardhan Math (East)** | Sringeri (Karnataka) preserves the **Yajurveda**; Govardhan (Puri, Odisha) preserves the **Rigveda** | शृंगेरी (दक्षिण, यजुर्वेद) / गोवर्धन पुरी (पूर्व, ऋग्वेद) |
-| **Bodh Gaya (Bihar)** | **Sarnath (UP)** | Bodh Gaya = Site of Buddha's **Enlightenment** under the Bodhi tree; Sarnath = Site of Buddha's **First Sermon** (*Dharmachakrapravartana*) | बोधगया (ज्ञान प्राप्ति) / सारनाथ (प्रथम धर्मोपदेश) |
-| **Kushinagar (UP)** | **Pavapuri (Bihar)** | Kushinagar = Site of **Buddha's Mahaparinirvana**; Pavapuri = Site of **Mahavira's Nirvana** | कुशीनगर (बुद्ध महापरिनिर्वाण) / पावापुरी (महावीर निर्वाण) |
-| **3rd Buddhist Council** | **4th Buddhist Council** | 3rd Council = **Pataliputra** under Emperor **Ashoka** (Tripitaka completed); 4th Council = **Kundalvana, Kashmir** under King **Kanishka** (Mahayana split) | तृतीय संगीति (अशोक, पाटलिपुत्र) / चतुर्थ संगीति (कनिष्क, कश्मीर) |
-| **Anekantavada** | **Syadvada** | Anekantavada = **Ontological theory** that reality has infinite aspects; Syadvada = **Epistemological/linguistic expression** of that reality through sevenfold conditional statements (*Syat*) | अनेकांतवाद (तत्वमीमांसा) / स्याद्वाद (ज्ञानमीमांसा/अभिव्यक्ति) |
-| **Digambara** | **Svetambara** | Digambara = Sky-clad (naked), led by **Bhadrabahu** to South India; Svetambara = White-clad, led by **Sthulabhadra** in Magadha | दिगंबर (भद्रबाहु, नग्न) / श्वेतांबर (स्थूलभद्र, श्वेत वस्त्र) |
-| **Alvars (12)** | **Nayanars (63)** | Alvars = Tamil poet-saints devoted to **Lord Vishnu** (*Nalayira Divya Prabandham*); Nayanars = Tamil poet-saints devoted to **Lord Shiva** (*Tevaram*) | आलवार (12 वैष्णव संत) / नयनार (63 शैव संत) |
-| **Chishti Silsila** | **Suhrawardi Silsila** | Chishtis = Embraced extreme poverty, shunned state offices, welcomed musical *Sama*; Suhrawardis = Accepted state patronage, held government posts, accumulated wealth | चिश्ती (गरीबी, समा संगीत) / सुहरावर्दी (राजकीय पद व धन स्वीकार) |
-| **Nirguna Bhakti** | **Saguna Bhakti** | Nirguna = Devotion to formless, unmanifest God, rejects idols/caste (Kabir, Nanak); Saguna = Devotion to personalized divine avatars through idols and temples (Tulsidas, Surdas, Mirabai) | निर्गुण (निराकार / कबीर, नानक) / सगुण (साकार अवतार / तुलसी, सूर) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Six Schools of Philosophy & Founders — Formula: `K-P-G-K-J-B`
@@ -253,297 +235,281 @@ hide:
 - **Parshvanatha (23rd):** Born in **Varanasi (UP)**; 4 vows; Serpent symbol.
 - **Mahavira (24th):** Born in **Kundagrama, Vaishali (Bihar)**; added 5th vow (Brahmacharya); Lion symbol.
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.**
-
-Match List-I with List-II and select the correct answer using the code given below the lists.
-
-List-I (Disciple)
-A. Kabir
-B. Amir Khusrau
-C. Surdas
-D. Mardana
-
-List-II (Guru)
-1. Guru Nanak Dev
-2. Swami Ramananda
-3. Nizamuddin Auliya
-4. Vallabhacharya
-
-A. 3 2 4 1
-B. 3 2 1 4
-C. 2 3 4 1
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Kabir–Ramananda, Khusrau–Nizamuddin, Surdas–Vallabha, Mardana–Nanak.
-
-</details>
-
-**Q2.**
-
-Arrange the following saints in the correct chronological order:
-
-1. Guru Nanak
-2. Chaitanya Mahaprabhu
-3. Namdev
-4. Kabir
-
-A. 3, 4, 2, 1
-B. 4, 3, 1, 2
-C. 3, 4, 1, 2
-D. 4, 3, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Namdev → Kabir → Nanak → Chaitanya.
-
-</details>
-
-**Q3.**
-
-The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.
-
-1. Vaishali
-2. Rajagriha
-3. Kundalvana
-4. Pataliputra
-
-A. 1, 2, 4, 3
-B. 2, 1, 3, 4
-C. 2, 1, 4, 3
-D. 1, 2, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Rajagriha → Vaishali → Pataliputra → Kundalvana.
-
-</details>
-
-**Q4.**
-
-*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
-
-A. Nagarjun
-B. Nagbhatt
-C. Nagasena
-D. Kumaril Bhatt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Nagasena.**
-
-</details>
-
-**Q5.**
-
-Which of the following pairs (**School of Thought — Proponent**) is correctly matched?
-
-A. Vaisheshika — Patanjali
-B. Mimansa — Kanada
-C. Nyaya — Gautama
-D. Uttara Mimansa — Kapila
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Nyaya — Gautama.**
-
-</details>
-
-**Q6.**
-
-Which of the following pairs (**Poetess — Composition**) is **not** correctly matched?
-
-A. Daya Bai — Vinay Malika
-B. Sahajobai — Sahaj Prakash
-C. Gangabai — Ganesh Dev Leela
-D. Son Kumari — Poem of Swam Beli
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q7.**
-
-Match List-I with List-II and select the correct answer.
-
-**List-I (Philosopher)**
-A. Ramanuja
-B. Madhavacharya
-C. Nimbarka
-D. Vallabhacharya
-
-**List-II (Philosophy)**
-1. Shuddhadvaita
-2. Dvaitadvaita
-3. Dvaita
-4. Vishishtadvaita
-
-A. 2, 4, 1, 3
-B. 3, 1, 4, 2
-C. 1, 2, 3, 4
-D. 4, 3, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 4, 3, 2, 1.
-
-</details>
-
-**Q8.**
-
-Which religious group in India has its highest urban population?
-
-A. Hindu
-B. Buddhist
-C. Christian
-D. Jain
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Jain.**
-
-</details>
-
-**Q9.**
-
-The book 'Fawaid ul Fawad' is the record of the conversations of Shaikh Nizamuddin Auliya, it was compiled by
-
-A. Amir Hassan Sizzi
-B. Amir Khusro
-C. Ziauddin Barni
-D. Hasan Nizami
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Amir Hasan Sijzi.**
-
-</details>
-
-**Q10.**
-
-Which one of the following pairs is NOT correctly matched?
-(Tirthankar) — (Nirvan Place)
-
-A. Rishabhanath — Ashtapad
-B. Vasupujya — Sammedashikhar
-C. Neminath — Urjayanta
-D. Mahavira — Pavapuri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Vasupujya = Champapuri.
-
-</details>
-
-**Q11.**
-
-Which of the following is NOT correctly matched?
-
-A. Shaikh Moinuddin — Ajmer Chishti
-B. Shaikh Burhanuddin — Daulatabad Gharib
-C. Shaikh Mohammad — Gulbarga Hussaini
-D. Shaikh Nizamuddin — Multan Auliya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Nizamuddin Auliya = Delhi.
-
-</details>
-
-**Q12.**
-
-With reference to Hath Yog, which of the following statement is/are correct?
-
-1. Hath Yog was practiced by Nathpanthis.
-2. Hath Yog technique was also adopted by the Sufis.
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q13.**
-
-Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.
-Reason (R): The early Chishti sufis were fond of musical assemblies called, 'sama'.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q14.** With reference to the Astika schools, which of the following statements is/are correct?
-
-1. The Gautama of Nyaya is identical with the Buddha.
-2. Nyaya is associated with Gautama and stresses logic and epistemology.
-3. Vaisheshika is associated with Kapila and stresses Samkhya dualism.
-
-A. All 1, 2 and 3
-B. Only 2 and 3
-C. Only 1
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 2 is correct.
-
-**Logic:** Nyaya’s Gautama is not the Buddha. Vaisheshika is Kanada’s atomism, not Kapila’s Samkhya.
-
-</details>
-
-**Q15.** Consider the following pairs:
-
-| School | Founder / tag |
-|--------|---------------|
-| 1. Samkhya | Kapila — Purusha–Prakriti; 25 tattvas |
-| 2. Yoga | Patanjali — practical partner of Samkhya |
-| 3. Purva Mimamsa | Badarayana — Vedic ritual |
-| 4. Vedanta | Jaimini — Upanishads |
-
-Which of the pairs given above are correctly matched?
-
-A. 1, 2 and 3 only
-B. 1 and 2 only
-C. 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only pairs 1 and 2 are correct.
-
-**Logic:** Purva Mimamsa is Jaimini (ritual). Vedanta / Uttara Mimamsa is Badarayana. Pairs 3–4 are swapped.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Disciple)</th>
+      <th>List-II (Guru)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Kabir</td>
+      <td><span class="match-key">1</span> Guru Nanak Dev</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Amir Khusrau</td>
+      <td><span class="match-key">2</span> Swami Ramananda</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Surdas</td>
+      <td><span class="match-key">3</span> Nizamuddin Auliya</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Mardana</td>
+      <td><span class="match-key">4</span> Vallabhacharya</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 2 4 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 2 1 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 3 1 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kabir–Ramananda, Khusrau–Nizamuddin, Surdas–Vallabha, Mardana–Nanak.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arrange the following saints in the correct chronological order:<br><br>1. Guru Nanak<br>2. Chaitanya Mahaprabhu<br>3. Namdev<br>4. Kabir</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 4, 3, 1, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 4, 1, 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 3, 2, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Namdev → Kabir → Nanak → Chaitanya.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.<br><br>1. Vaishali<br>2. Rajagriha<br>3. Kundalvana<br>4. Pataliputra</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2, 4, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rajagriha → Vaishali → Pataliputra → Kundalvana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nagarjun</div><div class="pyq-opt"><span class="opt-letter">B</span> Nagbhatt</div><div class="pyq-opt"><span class="opt-letter">C</span> Nagasena</div><div class="pyq-opt"><span class="opt-letter">D</span> Kumaril Bhatt</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nagasena.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs (**School of Thought — Proponent**) is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vaisheshika — Patanjali</div><div class="pyq-opt"><span class="opt-letter">B</span> Mimansa — Kanada</div><div class="pyq-opt"><span class="opt-letter">C</span> Nyaya — Gautama</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttara Mimansa — Kapila</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nyaya — Gautama.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs (**Poetess — Composition**) is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Daya Bai — Vinay Malika</div><div class="pyq-opt"><span class="opt-letter">B</span> Sahajobai — Sahaj Prakash</div><div class="pyq-opt"><span class="opt-letter">C</span> Gangabai — Ganesh Dev Leela</div><div class="pyq-opt"><span class="opt-letter">D</span> Son Kumari — Poem of Swam Beli</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Philosopher)</th>
+      <th>List-II (Philosophy)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Ramanuja</td>
+      <td><span class="match-key">1</span> Shuddhadvaita</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Madhavacharya</td>
+      <td><span class="match-key">2</span> Dvaitadvaita</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Nimbarka</td>
+      <td><span class="match-key">3</span> Dvaita</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Vallabhacharya</td>
+      <td><span class="match-key">4</span> Vishishtadvaita</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 1, 4, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 3, 2, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 4, 3, 2, 1.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which religious group in India has its highest urban population?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hindu</div><div class="pyq-opt"><span class="opt-letter">B</span> Buddhist</div><div class="pyq-opt"><span class="opt-letter">C</span> Christian</div><div class="pyq-opt"><span class="opt-letter">D</span> Jain</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Jain.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">The book 'Fawaid ul Fawad' is the record of the conversations of Shaikh Nizamuddin Auliya, it was compiled by</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Amir Hassan Sizzi</div><div class="pyq-opt"><span class="opt-letter">B</span> Amir Khusro</div><div class="pyq-opt"><span class="opt-letter">C</span> Ziauddin Barni</div><div class="pyq-opt"><span class="opt-letter">D</span> Hasan Nizami</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Amir Hasan Sijzi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?<br>(Tirthankar) — (Nirvan Place)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rishabhanath — Ashtapad</div><div class="pyq-opt"><span class="opt-letter">B</span> Vasupujya — Sammedashikhar</div><div class="pyq-opt"><span class="opt-letter">C</span> Neminath — Urjayanta</div><div class="pyq-opt"><span class="opt-letter">D</span> Mahavira — Pavapuri</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Vasupujya = Champapuri.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shaikh Moinuddin — Ajmer Chishti</div><div class="pyq-opt"><span class="opt-letter">B</span> Shaikh Burhanuddin — Daulatabad Gharib</div><div class="pyq-opt"><span class="opt-letter">C</span> Shaikh Mohammad — Gulbarga Hussaini</div><div class="pyq-opt"><span class="opt-letter">D</span> Shaikh Nizamuddin — Multan Auliya</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nizamuddin Auliya = Delhi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Hath Yog, which of the following statement is/are correct?<br><br>1. Hath Yog was practiced by Nathpanthis.<br>2. Hath Yog technique was also adopted by the Sufis.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.<br>Reason (R): The early Chishti sufis were fond of musical assemblies called, 'sama'.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to the Astika schools, which of the following statements is/are correct?<br><br>1. The Gautama of Nyaya is identical with the Buddha.<br>2. Nyaya is associated with Gautama and stresses logic and epistemology.<br>3. Vaisheshika is associated with Kapila and stresses Samkhya dualism.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Nyaya’s Gautama is not the Buddha. Vaisheshika is Kanada’s atomism, not Kapila’s Samkhya.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| School | Founder / tag |<br>|--------|---------------|<br>| 1. Samkhya | Kapila — Purusha–Prakriti; 25 tattvas |<br>| 2. Yoga | Patanjali — practical partner of Samkhya |<br>| 3. Purva Mimamsa | Badarayana — Vedic ritual |<br>| 4. Vedanta | Jaimini — Upanishads |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only pairs 1 and 2 are correct.
+
+**Logic:** Purva Mimamsa is Jaimini (ritual). Vedanta / Uttara Mimamsa is Badarayana. Pairs 3–4 are swapped.</div>
+  </div>
+</div>

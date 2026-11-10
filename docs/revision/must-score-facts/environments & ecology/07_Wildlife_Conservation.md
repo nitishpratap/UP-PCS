@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 7 — Wildlife Conservation (वन्यजीव संरक्षण)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Wildlife conservation protects species and habitats, with **in-situ** (स्थान पर) primary and **ex-situ** (स्थानांतरित) as backup.
@@ -75,8 +64,6 @@ hide:
 49. **International Tiger Day** is **29 July** (decided at the **2010 St Petersburg** Tiger Summit).
 50. **Nagarjunsagar–Srisailam** holds the largest critical tiger habitat among common options. **Bandipur** (बांदीपुर) pioneered drone monitoring among common stems.
 
-## ⏱️ Timeline / Chronology
-
 ### Chronological Sequence of Wildlife Conservation Projects in India
 
 ```
@@ -114,29 +101,6 @@ hide:
 | Project Snow Leopard / GSLEP | **2009** / **2013** (no UP habitat) |
 | Vulture plan / diclofenac ban | **2006** / **2006** |
 
-### Table: Complete Master Matrix of 18 Biosphere Reserves in India
-
-| S.No. | Biosphere Reserve | State / UT | Year Notified | UNESCO WNBR Status | Key Fauna / Unique Ecological Feature |
-| :---: | :--- | :--- | :---: | :---: | :--- |
-| 1 | **Nilgiri** | Tamil Nadu, Kerala, Karnataka | 1986 | **Yes (2000 — 1st in India)** | Lion-tailed Macaque, Nilgiri Tahr; tri-state junction |
-| 2 | **Nanda Devi** | Uttarakhand | 1988 | **Yes (2004)** | Snow Leopard, Himalayan Musk Deer, Valley of Flowers |
-| 3 | **Nokrek** | Meghalaya | 1988 | **Yes (2009)** | Red Panda, Asian Elephant, Citrus indica (wild mother orange); Garo Hills |
-| 4 | **Great Nicobar** | Andaman & Nicobar Islands | 1989 | **Yes (2013)** | Saltwater Crocodile, Megapode, Leatherback Turtle |
-| 5 | **Gulf of Mannar** | Tamil Nadu | 1989 | **Yes (2001)** | Dugong (Sea Cow), Coral Reefs, Seagrass beds |
-| 6 | **Manas** | Assam | 1989 | **No** (Removed 2011) | Golden Langur, Pygmy Hog, One-horned Rhino; Bodo territory |
-| 7 | **Sundarbans** | West Bengal | 1989 | **Yes (2001)** | Royal Bengal Tiger, Mangrove swamps, Estuarine crocodile |
-| 8 | **Simlipal** | Odisha | 1994 | **Yes (2009)** | Tiger, Elephant, Gaur; Mayurbhanj elephant reserve |
-| 9 | **Dihang-Dibang** | Arunachal Pradesh | 1998 | **No** | Mishmi Takin, Musk Deer; Eastern Himalayas |
-| 10 | **Pachmarhi** | Madhya Pradesh | 1999 | **Yes (2009)** | Giant Squirrel, Flying Squirrel; Satpura Range |
-| 11 | **Achanakmar-Amarkantak** | Madhya Pradesh, Chhattisgarh | 2005 | **Yes (2012)** | Four-horned Antelope, Wild Dog; Maikal Hills origin of Narmada/Son |
-| 12 | **Great Rann of Kutch** | Gujarat | 2008 | **No** (Largest BR in India) | Indian Wild Ass (Khur), Greater Flamingo; seasonal salt marsh |
-| 13 | **Cold Desert** | Himachal Pradesh | 2009 | **No** | Snow Leopard, Tibetan Gazelle; includes Pin Valley NP & Kibber |
-| 14 | **Khangchendzonga** | Sikkim | 2010 | **Yes (2018)** | Snow Leopard, Red Panda, Musk Deer; Mixed World Heritage Site |
-| 15 | **Agasthyamalai** | Kerala, Tamil Nadu | 2001 | **Yes (2016)** | Nilgiri Tahr, Asian Elephant, Kanikaran indigenous tribe |
-| 16 | **Panna** | Madhya Pradesh | 2011 | **Yes (2020 — Newest in WNBR)** | Bengal Tiger, Chital, Chinkara, Sambhar; Ken river valley |
-| 17 | **Seshachalam Hills** | Andhra Pradesh | 2010 | **No** | Red Sanders (Pterocarpus santalinus), Slender Loris |
-| 18 | **Dibru-Saikhowa** | Assam | 1997 | **No** (Smallest BR in India) | Feral Horses, White-winged Wood Duck; Brahmaputra-Lohit floodplains |
-
 ### Table: Key Tiger Reserves of India & Uttar Pradesh
 
 | Tiger Reserve | State | Special Distinction / Status | Core Exam High-Yield Notes |
@@ -154,344 +118,261 @@ hide:
 | **Bandhavgarh** | Madhya Pradesh | Umaria district | Highest density of Bengal tigers in Central India |
 | **Guru Ghasidas & Tamor Pingla** | Chhattisgarh | 54th Tiger Reserve of India (notified 2024) | Inter-state connectivity with Bandhavgarh and Sanjay TRs |
 | **Dholpur-Karauli** | Rajasthan | 55th Tiger Reserve of India (2023) | 5th TR of Rajasthan after Ranthambore, Sariska, Mukundra, Ramgarh |
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-### Table: Key Ramsar Wetlands of India (Selected High-Yield & State-Wise)
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| Ramsar Site | State / UT | Area / Special Significance | Exam Trap & Distinction |
-| :--- | :--- | :--- | :--- |
-| **Chilika Lake** | Odisha | First Ramsar Site in India (1981); Largest coastal lagoon | Joined with Keoladeo Ghana in 1981; removed from Montreux Record post-restoration |
-| **Keoladeo Ghana National Park** | Rajasthan | Wetland & NP; placed on Montreux Record | On Montreux Record due to water shortage & grazing pressure |
-| **Loktak Lake** | Manipur | Freshwater lake with phumdis (floating mats); Keibul Lamjao NP | Only floating national park; home to Sangai (Dancing Deer); on Montreux Record |
-| **Vembanad-Kol Wetland** | Kerala | Largest wetland in India by surface area | Spans Alappuzha, Kottayam, Ernakulam; Nehru Trophy Boat Race held here |
-| **Sundarban Wetland** | West Bengal | Largest Ramsar site by protected area | Mangrove ecosystem; Royal Bengal Tiger; shared with Bangladesh |
-| **Renuka Wetland** | Himachal Pradesh | Smallest Ramsar site in India (~20 ha) | Natural wetland with freshwater springs; sacred lake |
-| **Upper Ganga River** | Uttar Pradesh | First Ramsar site of UP (2005; Brijghat to Narora) | Stretch of 82 km; habitat of Gangetic Dolphin, gharial, turtles |
-| **Bakhira Wildlife Sanctuary** | Uttar Pradesh | 10th Ramsar site of UP (Sant Kabir Nagar, 2022) | Natural freshwater marsh; migratory waterbirds |
-| **Haiderpur Wetland** | Uttar Pradesh | Muzaffarnagar & Bijnor (2021) | Human-made wetland in Hastinapur WLS within Ganga floodplain |
-| **Rudrasagar Lake** | Tripura | Lowland sedimentation reservoir | Located in Northeast (Tripura) — common trap confusing it with UP or MP |
-| **Bhoj Wetland** | Madhya Pradesh | Twin lakes: Upper Lake (Bada Talab) and Lower Lake | Created by Raja Bhoj; human-made wetland |
-| **Asan Barrage** | Uttarakhand | First Ramsar site of Uttarakhand (2020) | Located at confluence of Asan and Yamuna in Dehradun |
-| **Lonar Lake** | Maharashtra | Meteor impact crater lake; hyper-saline | Turned pink due to haloarchaea microbes in 2020 |
-| **Tso Kar Wetland Complex** | Ladakh | High-altitude saline lake (Startsapuk Tso + Tso Kar) | Breeding ground for Black-necked Crane |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Wildlife Conservation** | **Wildlife Protection** | Holistic scientific management and preservation of species, populations, and habitats to prevent extinction vs legal punitive enforcement and regulatory prohibition of hunting/poaching under Wildlife Protection Act 1972 | वन्यजीव संरक्षण (वैज्ञानिक प्रबंधन) / वन्यजीव सुरक्षा (कानूनी प्रवर्तन) |
-| **Umbrella Species** | **Flagship Species** | Ecologically wide-ranging species whose expansive habitat protection indirectly shelters the broader biological community (e.g. Tiger, Rhino) vs popular charismatic animal used as an emotional figurehead in conservation marketing (e.g. Giant Panda, Snow Leopard) | छत्र प्रजाति / प्रतीक प्रजाति |
-| **Keystone Species** | **Indicator Species** | Species whose functional role exerts disproportionate control on community structure (loss causes trophic cascade; e.g. Fig tree, Sea Otter) vs species whose physiological response or presence directly indicates environmental conditions (e.g. Lichen, Frogs) | मुख्य आधार (कीस्टोन) प्रजाति / जैव संकेतक प्रजाति |
-| **Project Tiger (1973)** | **Project Elephant (1992)** | Centrally Sponsored Scheme given statutory backing in 2006 under WPA creating the National Tiger Conservation Authority (NTCA) vs Centrally Sponsored Scheme operating through administrative guidelines without statutory authority | प्रोजेक्ट टाइगर (1973, सांविधिक) / प्रोजेक्ट एलिफेंट (1992, गैर-सांविधिक) |
-| **Diclofenac** | **Meloxicam** | Non-steroidal anti-inflammatory drug (NSAID) administered to cattle causing lethal visceral gout and acute renal failure in Gyps vultures (banned in 2006) vs safe, vulture-tested veterinary NSAID recommended as its non-toxic replacement | डाइक्लोफेनाक (गिद्ध नाशक) / मेलोक्सिकैम (सुरक्षित विकल्प) |
-| **Wildlife Protection Act 1972** | **Biological Diversity Act 2002** | Focuses on species protection, hunting bans, protected area network, and trade schedules (MoEFCC/WCCB) vs focuses on sovereign rights over biological resources, fair & equitable benefit sharing (ABS), and traditional knowledge protection (NBA/SBB/BMC) | वन्यजीव संरक्षण अधिनियम 1972 / जैव विविधता अधिनियम 2002 |
-| **Central Zoo Authority (CZA)** | **National Board for Wildlife (NBWL)** | Statutory body under WPA Sec 38A overseeing standards, recognition, and animal exchanges in Indian zoos vs apex advisory body chaired by the Prime Minister framing national wildlife policies and approving PA boundary alterations | केंद्रीय चिड़ियाघर प्राधिकरण / राष्ट्रीय वन्यजीव बोर्ड (NBWL) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Which of the following pairs is/are **NOT** correctly matched? (Day — Date)
-
-1. Ozone Day — 16 September 
-2. World Environment Day — 5 June 
-3. World Wildlife Day — 22 March 
-
-A. 1 and 2 only 
-B. 3 only 
-C. 2 and 3 only 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests international environment/wildlife observance dates; only one listed date is wrong.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are **NOT** correctly matched? (Day — Date)<br><br>1. Ozone Day — 16 September <br>2. World Environment Day — 5 June <br>3. World Wildlife Day — 22 March</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tests international environment/wildlife observance dates; only one listed date is wrong.
 
 **Ans: B.** World Wildlife Day is observed on **3 March**, not 22 March.
 
-**Trap:** Ozone Day (16 September) and World Environment Day (5 June) are correct — do not pick options mixing them with the WWD error.
+**Trap:** Ozone Day (16 September) and World Environment Day (5 June) are correct — do not pick options mixing them with the WWD error.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-With reference to **Operation Olivia**, which of the following statements is/are correct?
-
-1. It is an Indian Coast Guard initiative to protect Olive Ridley turtles along the Odisha coast. 
-2. It is carried out mainly in August during the nesting season. 
-
-A. 2 only 
-B. Neither 1 nor 2 
-C. Both 1 and 2 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement 1 tests agency, species, and coast; statement 2 tests nesting season timing.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to **Operation Olivia**, which of the following statements is/are correct?<br><br>1. It is an Indian Coast Guard initiative to protect Olive Ridley turtles along the Odisha coast. <br>2. It is carried out mainly in August during the nesting season.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement 1 tests agency, species, and coast; statement 2 tests nesting season timing.
 
 **Ans: D.** Operation Olivia is an ICG Odisha-coast turtle protection drive, but nesting runs **November–February**, not August.
 
-**Trap:** August sounds like a monsoon-adjacent season — Olive Ridley mass nesting on Odisha beaches peaks in winter.
+**Trap:** August sounds like a monsoon-adjacent season — Olive Ridley mass nesting on Odisha beaches peaks in winter.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-**Project Tiger** was launched in India in the year—
-
-A. 1972 
-B. 1973 
-C. 1992 
-D. 2006 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Separates WPA enactment year from flagship species programme launch year.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">**Project Tiger** was launched in India in the year—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1972</div><div class="pyq-opt"><span class="opt-letter">B</span> 1973</div><div class="pyq-opt"><span class="opt-letter">C</span> 1992</div><div class="pyq-opt"><span class="opt-letter">D</span> 2006</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Separates WPA enactment year from flagship species programme launch year.
 
 **Ans: B.** Project Tiger began in **April 1973** under PM Indira Gandhi at Jim Corbett National Park.
 
-**Trap:** **1972** is the Wildlife (Protection) Act year — not Project Tiger.
+**Trap:** **1972** is the Wildlife (Protection) Act year — not Project Tiger.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-Which painkiller given to cattle is responsible for the near extinction of vultures in India?
-
-A. Ibuprofen 
-B. Acetaminophen 
-C. Aspirin 
-D. Diclofenac 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Links veterinary NSAID use to gyps vulture population collapse through kidney failure after feeding on carcasses.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which painkiller given to cattle is responsible for the near extinction of vultures in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ibuprofen</div><div class="pyq-opt"><span class="opt-letter">B</span> Acetaminophen</div><div class="pyq-opt"><span class="opt-letter">C</span> Aspirin</div><div class="pyq-opt"><span class="opt-letter">D</span> Diclofenac</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Links veterinary NSAID use to gyps vulture population collapse through kidney failure after feeding on carcasses.
 
 **Ans: D.** **Diclofenac** in cattle carcasses caused catastrophic vulture mortality; India banned veterinary diclofenac in **2006**.
 
-**Trap:** Human painkillers in options are distractors — the crisis was from **veterinary** use on livestock.
+**Trap:** Human painkillers in options are distractors — the crisis was from **veterinary** use on livestock.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Arrange the following events in chronological order of their commencement:
-
-I. Wild Life (Protection) Act 
-II. Biological Diversity Act 
-III. Project Tiger 
-IV. Project Elephant 
-
-A. I, II, III, IV 
-B. I, III, IV, II 
-C. II, III, IV, I 
-D. II, III, I, IV 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Chronology of wildlife statutes and flagship species programmes from 1972 to 2002.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in chronological order of their commencement:<br><br>I. Wild Life (Protection) Act <br>II. Biological Diversity Act <br>III. Project Tiger <br>IV. Project Elephant</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, III, IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I, III, IV, II</div><div class="pyq-opt"><span class="opt-letter">C</span> II, III, IV, I</div><div class="pyq-opt"><span class="opt-letter">D</span> II, III, I, IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Chronology of wildlife statutes and flagship species programmes from 1972 to 2002.
 
 **Ans: B.** Order: WLPA **1972** → Project Tiger **1973** → Project Elephant **1992** → Biological Diversity Act **2002**.
 
-**Trap:** Do not place BDA before Project Tiger — biodiversity legislation came **three decades** after the tiger programme.
+**Trap:** Do not place BDA before Project Tiger — biodiversity legislation came **three decades** after the tiger programme.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-**Assertion (A):** Twelve cheetahs arrived from South Africa to India in February 2023.
-
-**Reason (R):** Restoring the cheetah population is considered to be a priority for India.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A). 
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A). 
-C. (A) is true but (R) is false. 
-D. (A) is false but (R) is true. 
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests the February 2023 reintroduction fact under Project Cheetah; R tests whether cheetah restoration is a stated national priority that explains that translocation.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">**Assertion (A):** Twelve cheetahs arrived from South Africa to India in February 2023.<br><br>**Reason (R):** Restoring the cheetah population is considered to be a priority for India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true but (R) is not the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true but (R) is false.</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false but (R) is true.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** A tests the February 2023 reintroduction fact under Project Cheetah; R tests whether cheetah restoration is a stated national priority that explains that translocation.
 
 **Ans: A.** Twelve cheetahs were airlifted from South Africa in February 2023 to Kuno National Park, and restoring cheetah is an explicit Project Cheetah priority — R explains A.
 
-**Trap:** Namibia cheetahs arrived later — do not confuse the **South Africa batch (Feb 2023)** with subsequent translocations.
+**Trap:** Namibia cheetahs arrived later — do not confuse the **South Africa batch (Feb 2023)** with subsequent translocations.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-The Union Ministry of Environment, Forest and Climate Change has announced **'Dolphin Day'**, which will be celebrated on—
-
-A. April 15 
-B. October 5 
-C. July 15 
-D. October 28 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests MoEFCC observance for the Ganges river dolphin — India's National Aquatic Animal.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Union Ministry of Environment, Forest and Climate Change has announced **'Dolphin Day'**, which will be celebrated on—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> April 15</div><div class="pyq-opt"><span class="opt-letter">B</span> October 5</div><div class="pyq-opt"><span class="opt-letter">C</span> July 15</div><div class="pyq-opt"><span class="opt-letter">D</span> October 28</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tests MoEFCC observance for the Ganges river dolphin — India's National Aquatic Animal.
 
 **Ans: B.** **National Dolphin Day** is observed on **5 October** to raise awareness for freshwater dolphin conservation.
 
-**Trap:** Do not swap with Wildlife Week (**2–8 October**) or World Environment Day (**5 June**).
-
-</details>
-
-**Q8.** If a tortoise is listed under Schedule I of WPA 1972, it implies:
-
-A. It is extinct in the wild
-
-B. It enjoys the same protection level as the tiger
-
-C. It is endemic to one state only
-
-D. It may be hunted as vermin
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Schedule levels, Indian vs exotic fauna, and institution years are high-yield traps.
-
-**Ans: B.** Schedule I = maximum protection, same band as tiger.
-
-</details>
-
-**Q9.** Schedule VI plant cultivation under WPA:
-
-A. Is allowed freely everywhere
-
-B. Is banned under all circumstances
-
-C. Needs a licence from CWLW / authorised officer
-
-D. Applies only to genetically modified crops
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Cultivation of Schedule VI plants needs a licence — not an absolute ban.
-
-</details>
-
-**Q10.** Best place among options to see gharial in natural habitat:
-
-A. Pulicat Lake
-
-B. Deepor Beel
-
-C. Chambal River
-
-D. Bhitarkanika only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Chambal / National Chambal Sanctuary; also Girwa–Katarniaghat. IUCN: Critically Endangered.
-
-</details>
-
-**Q11.** Kharai camel — which statements are correct? 
-1. Can swim in seawater 2. Grazes mangroves 3. Cannot be domesticated
-
-A. 1 and 2 only
-
-B. 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Kutch swimming camel; domesticated by graziers. Statement 3 is false.
-
-</details>
-
-**Q12.** naturally found in India?
-
-A. Star tortoise
-
-B. Monitor lizard
-
-C. Pygmy hog
-
-D. Spider monkey
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Spider monkeys are Central/South American. Pugmark technique estimates wild populations from footprints.
-
-</details>
-
-**Q13.** Animal Welfare Board of India was established under:
-
-A. Environment (Protection) Act, 1986
-
-B. Prevention of Cruelty to Animals Act, 1960
-
-C. Wildlife (Protection) Act, 1972
-
-D. Biological Diversity Act, 2002
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** AWBI **1962** under PCA **1960**. NTCA is statutory; NGRBA was PM-chaired.
-
-</details>
-
-**Q14.** Symbol of WWF since inception:
-
-A. Tiger
-
-B. Giant Panda
-
-C. Hornbill
-
-D. White Bear
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** *Ailuropoda melanoleuca*; WWF founded **1961**. World Tiger Summit **2010** = Saint Petersburg.
-
-</details>
-
-**Q15.** India’s largest fish among common options:
-
-A. Hilsa
-
-B. Marlin
-
-C. Whale shark
-
-D. Stonefish
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Whale shark; seasonal aggregations off Gujarat; protection push from ~2004.
-
-</details>
+**Trap:** Do not swap with Wildlife Week (**2–8 October**) or World Environment Day (**5 June**).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">If a tortoise is listed under Schedule I of WPA 1972, it implies:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It is extinct in the wild</div><div class="pyq-opt"><span class="opt-letter">B</span> It enjoys the same protection level as the tiger</div><div class="pyq-opt"><span class="opt-letter">C</span> It is endemic to one state only</div><div class="pyq-opt"><span class="opt-letter">D</span> It may be hunted as vermin</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Schedule levels, Indian vs exotic fauna, and institution years are high-yield traps.
+
+**Ans: B.** Schedule I = maximum protection, same band as tiger.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Schedule VI plant cultivation under WPA:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Is allowed freely everywhere</div><div class="pyq-opt"><span class="opt-letter">B</span> Is banned under all circumstances</div><div class="pyq-opt"><span class="opt-letter">C</span> Needs a licence from CWLW / authorised officer</div><div class="pyq-opt"><span class="opt-letter">D</span> Applies only to genetically modified crops</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cultivation of Schedule VI plants needs a licence — not an absolute ban.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Best place among options to see gharial in natural habitat:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pulicat Lake</div><div class="pyq-opt"><span class="opt-letter">B</span> Deepor Beel</div><div class="pyq-opt"><span class="opt-letter">C</span> Chambal River</div><div class="pyq-opt"><span class="opt-letter">D</span> Bhitarkanika only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chambal / National Chambal Sanctuary; also Girwa–Katarniaghat. IUCN: Critically Endangered.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Kharai camel — which statements are correct? <br>1. Can swim in seawater 2. Grazes mangroves 3. Cannot be domesticated</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kutch swimming camel; domesticated by graziers. Statement 3 is false.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">naturally found in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Star tortoise</div><div class="pyq-opt"><span class="opt-letter">B</span> Monitor lizard</div><div class="pyq-opt"><span class="opt-letter">C</span> Pygmy hog</div><div class="pyq-opt"><span class="opt-letter">D</span> Spider monkey</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Spider monkeys are Central/South American. Pugmark technique estimates wild populations from footprints.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Animal Welfare Board of India was established under:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Environment (Protection) Act, 1986</div><div class="pyq-opt"><span class="opt-letter">B</span> Prevention of Cruelty to Animals Act, 1960</div><div class="pyq-opt"><span class="opt-letter">C</span> Wildlife (Protection) Act, 1972</div><div class="pyq-opt"><span class="opt-letter">D</span> Biological Diversity Act, 2002</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> AWBI **1962** under PCA **1960**. NTCA is statutory; NGRBA was PM-chaired.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Symbol of WWF since inception:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tiger</div><div class="pyq-opt"><span class="opt-letter">B</span> Giant Panda</div><div class="pyq-opt"><span class="opt-letter">C</span> Hornbill</div><div class="pyq-opt"><span class="opt-letter">D</span> White Bear</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ailuropoda melanoleuca*; WWF founded **1961**. World Tiger Summit **2010** = Saint Petersburg.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">India’s largest fish among common options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hilsa</div><div class="pyq-opt"><span class="opt-letter">B</span> Marlin</div><div class="pyq-opt"><span class="opt-letter">C</span> Whale shark</div><div class="pyq-opt"><span class="opt-letter">D</span> Stonefish</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Whale shark; seasonal aggregations off Gujarat; protection push from ~2004.</div>
+  </div>
+</div>

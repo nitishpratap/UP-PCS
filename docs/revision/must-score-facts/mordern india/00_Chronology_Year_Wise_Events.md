@@ -47,358 +47,263 @@ hide:
 
 ---
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct Concept | Common Examiner Trap | Hindi Key |
-|---|---|---|---|
-| Plassey 1757 | Buxar 1764 | Political foothold vs decisive Diwani path | प्लासी / बक्सर |
-| Regulating Act 1773 | Pitt’s India Act 1784 | Creates GG office vs Board of Control | रेगुलेटिंग / पिट्स |
-| Charter 1813 | Charter 1833 | Ends India trade monopoly (tea/China kept) vs GG of India + all trade ends | 1813 / 1833 |
-| Sati 1829 | Widow Remarriage 1856 | Bentinck vs Canning / Vidyasagar | सती / विधवा विवाह |
-| 1st Afghan 1839–42 | 2nd Afghan 1878–80 | Auckland vs Lytton | प्रथम / द्वितीय अफगान |
-| Proclamation 1858 | Empress Durbar 1877 | Crown rule starts vs Kaiser-i-Hind title | 1858 / 1877 |
-| Vernacular Press 1878 | Ilbert Bill 1883 | Lytton gagging vs Ripon judicial equality attempt | प्रेस अधिनियम / इल्बर्ट |
-| Hunter Comm. 1882 | Hunter Cttee 1919 | Education vs Jallianwala inquiry | हंटर आयोग / समिति |
-| Partition 1905 | Annulment 1911 | Curzon vs Hardinge II | बंगाल विभाजन / रद्द |
-| Simon 1927 | Nehru Report 1928 | All-white commission vs Indian constitutional draft | साइमन / नेहरू रिपोर्ट |
-| NCM 1920 | CDM 1930 | First mass non-cooperation vs Salt / Civil Disobedience | असहयोग / सविनय अवज्ञा |
-| Cripps 1942 | Cabinet Mission 1946 | Wartime offer vs three-tier / interim path | क्रिप्स / कैबिनेट मिशन |
-| Chauri Chaura 1922 | Kakori 1925 | NCM ends vs HRA-era train action (UP) | चौरी चौरा / काकोरी |
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
 
----
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Battle of Buxar  <br>2. Battle of Plassey  <br>3. Treaty of Allahabad  <br>4. Regulating Act</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Political foothold → decisive battle → Diwani treaty → parliamentary office.
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+**Ans: A** — Plassey **1757** → Buxar **1764** → Allahabad **1765** → Regulating Act **1773**.</div>
+  </div>
+</div>
 
-**Q1.** Arrange:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arrange the Mysore Wars’ end years / climax markers:<br><br>1. Treaty of Seringapatam  <br>2. Treaty of Madras  <br>3. Death of Tipu  <br>4. Treaty of Mangalore</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 2, 1, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 4, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 1st → 2nd → 3rd → 4th Mysore sequence.
 
-1. Battle of Buxar  
-2. Battle of Plassey  
-3. Treaty of Allahabad  
-4. Regulating Act  
+**Ans: A** — Madras **1769** → Mangalore **1784** → Seringapatam **1792** → Tipu dies **1799**.</div>
+  </div>
+</div>
 
-A. 2, 1, 3, 4  
-B. 1, 2, 3, 4  
-C. 2, 3, 1, 4  
-D. 2, 1, 4, 3  
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Subsidiary Alliance (Hyderabad)  <br>2. Permanent Settlement  <br>3. Doctrine of Lapse (Satara)  <br>4. Dual Government ended</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 2, 1, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 1, 2, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Hastings reform → Cornwallis revenue → Wellesley alliance → Dalhousie lapse.
 
-<details>
-<summary>Show answer</summary>
+**Ans: A** — Dual ends **1772** → Permanent Settlement **1793** → Hyderabad **1798** → Satara **1848**.</div>
+  </div>
+</div>
 
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange Charter / constitutional Acts:<br><br>1. Charter Act 1833  <br>2. Regulating Act 1773  <br>3. GOI Act 1858  <br>4. Charter Act 1813</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 2, 1, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 4, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Office created → monopoly cut → GG of India → Crown.
 
-**Logic:** Political foothold → decisive battle → Diwani treaty → parliamentary office.
+**Ans: A** — **1773 → 1813 → 1833 → 1858**.</div>
+  </div>
+</div>
 
-**Ans: A** — Plassey **1757** → Buxar **1764** → Allahabad **1765** → Regulating Act **1773**.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Abolition of Sati  <br>2. Hindu Widow Remarriage Act  <br>3. Age of Consent Act  <br>4. Slavery Act V</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 4, 2, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 1, 2, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 4, 3, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bentinck social → Ellenborough slavery → Canning widow → Lansdowne consent.
 
-</details>
+**Ans: A** — Sati **1829** → Slavery **1843** → Widow Remarriage **1856** → Age of Consent **1891**.</div>
+  </div>
+</div>
 
-**Q2.** Arrange the Mysore Wars’ end years / climax markers:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Queen’s Proclamation  <br>2. Revolt of 1857 begins  <br>3. Delhi Durbar (Victoria Empress)  <br>4. First passenger railway Bombay–Thane</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 2, 1, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 2, 3, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dalhousie rail before revolt; Crown proclamation after revolt; Empress title much later.
 
-1. Treaty of Seringapatam  
-2. Treaty of Madras  
-3. Death of Tipu  
-4. Treaty of Mangalore  
+**Ans: A** — Railway **1853** → Revolt **1857** → Proclamation **1858** → Empress Durbar **1877**.</div>
+  </div>
+</div>
 
-A. 2, 4, 1, 3  
-B. 2, 1, 4, 3  
-C. 4, 2, 1, 3  
-D. 2, 4, 3, 1  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** 1st → 2nd → 3rd → 4th Mysore sequence.
-
-**Ans: A** — Madras **1769** → Mangalore **1784** → Seringapatam **1792** → Tipu dies **1799**.
-
-</details>
-
-**Q3.** Arrange:
-
-1. Subsidiary Alliance (Hyderabad)  
-2. Permanent Settlement  
-3. Doctrine of Lapse (Satara)  
-4. Dual Government ended  
-
-A. 4, 2, 1, 3  
-B. 2, 4, 1, 3  
-C. 4, 1, 2, 3  
-D. 4, 2, 3, 1  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Hastings reform → Cornwallis revenue → Wellesley alliance → Dalhousie lapse.
-
-**Ans: A** — Dual ends **1772** → Permanent Settlement **1793** → Hyderabad **1798** → Satara **1848**.
-
-</details>
-
-**Q4.** Arrange Charter / constitutional Acts:
-
-1. Charter Act 1833  
-2. Regulating Act 1773  
-3. GOI Act 1858  
-4. Charter Act 1813  
-
-A. 2, 4, 1, 3  
-B. 2, 1, 4, 3  
-C. 4, 2, 1, 3  
-D. 2, 4, 3, 1  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Office created → monopoly cut → GG of India → Crown.
-
-**Ans: A** — **1773 → 1813 → 1833 → 1858**.
-
-</details>
-
-**Q5.** Arrange:
-
-1. Abolition of Sati  
-2. Hindu Widow Remarriage Act  
-3. Age of Consent Act  
-4. Slavery Act V  
-
-A. 1, 4, 2, 3  
-B. 1, 2, 4, 3  
-C. 4, 1, 2, 3  
-D. 1, 4, 3, 2  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Bentinck social → Ellenborough slavery → Canning widow → Lansdowne consent.
-
-**Ans: A** — Sati **1829** → Slavery **1843** → Widow Remarriage **1856** → Age of Consent **1891**.
-
-</details>
-
-**Q6.** Arrange:
-
-1. Queen’s Proclamation  
-2. Revolt of 1857 begins  
-3. Delhi Durbar (Victoria Empress)  
-4. First passenger railway Bombay–Thane  
-
-A. 4, 2, 1, 3  
-B. 2, 4, 1, 3  
-C. 4, 2, 3, 1  
-D. 2, 1, 4, 3  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Dalhousie rail before revolt; Crown proclamation after revolt; Empress title much later.
-
-**Ans: A** — Railway **1853** → Revolt **1857** → Proclamation **1858** → Empress Durbar **1877**.
-
-</details>
-
-**Q7.** Arrange:
-
-1. Ilbert Bill Controversy  
-2. Vernacular Press Act  
-3. Acquisition of Awadh  
-4. Second Anglo-Afghan War  
-
-A. 3, 2, 4, 1  
-B. 3, 4, 2, 1  
-C. 3, 2, 1, 4  
-D. 2, 3, 4, 1  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Same spine as a standard UPPCS arrange set — Awadh before Indigo-era politics, then Lytton Afghan/Press, then Ripon Ilbert.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Ilbert Bill Controversy  <br>2. Vernacular Press Act  <br>3. Acquisition of Awadh  <br>4. Second Anglo-Afghan War</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 3, 4, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Same spine as a standard UPPCS arrange set — Awadh before Indigo-era politics, then Lytton Afghan/Press, then Ripon Ilbert.
 
 **Ans: A** — Awadh **1856** → Vernacular Press **1878** → 2nd Afghan **1878–80** → Ilbert **1883**.  
-(If Indigo **1859** appears instead of Press, place Indigo right after Awadh.)
-
-</details>
-
-**Q8.** Arrange education landmarks:
-
-1. Hunter Commission  
-2. Wood’s Despatch  
-3. Sargeant Plan  
-4. Sadler Commission  
-
-A. 2, 1, 4, 3  
-B. 1, 2, 4, 3  
-C. 2, 4, 1, 3  
-D. 2, 1, 3, 4  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Classic education commission ladder.
-
-**Ans: A** — Wood **1854** → Hunter **1882** → Sadler **1917** → Sargeant **1944**.
-
-</details>
-
-**Q9.** Arrange:
-
-1. Formation of Muslim League  
-2. Partition of Bengal  
-3. Morley–Minto Reforms  
-4. Surat Split  
-
-A. 2, 1, 4, 3  
-B. 2, 4, 1, 3  
-C. 1, 2, 4, 3  
-D. 2, 1, 3, 4  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Partition triggers Swadeshi; League follows; Surat split; then 1909 Act.
-
-**Ans: A** — Partition **1905** → League **1906** → Surat **1907** → Morley–Minto **1909**.
-
-</details>
-
-**Q10.** Arrange:
-
-1. Capital shifted to Delhi  
-2. Partition of Bengal  
-3. Ancient Monuments Preservation Act  
-4. Morley–Minto Reforms  
-
-A. 3, 2, 4, 1  
-B. 2, 3, 4, 1  
-C. 3, 2, 1, 4  
-D. 2, 3, 1, 4  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Curzon monuments → Partition → 1909 reforms → Hardinge capital shift 1911.
-
-**Ans: A** — Ancient Monuments **1904** → Partition **1905** → Morley–Minto **1909** → Capital Delhi **1911**.
-
-</details>
-
-**Q11.** Arrange Gandhi’s early satyagrahas:
-
-1. Kheda  
-2. Champaran  
-3. Ahmedabad Mill Strike  
-4. Rowlatt Satyagraha  
-
-A. 2, 3, 1, 4  
-B. 2, 1, 3, 4  
-C. 3, 2, 1, 4  
-D. 2, 3, 4, 1  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Champaran first in India; Ahmedabad and Kheda in 1918; Rowlatt 1919.
-
-**Ans: A** — Champaran **1917** → Ahmedabad **1918** → Kheda **1918** → Rowlatt **1919**.
-
-</details>
-
-**Q12.** Arrange:
-
-1. Chauri Chaura  
-2. Non-Cooperation launched  
-3. Jallianwala Bagh  
-4. Kakori Conspiracy  
-
-A. 3, 2, 1, 4  
-B. 3, 1, 2, 4  
-C. 2, 3, 1, 4  
-D. 3, 2, 4, 1  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Punjab wrong → NCM → Chauri Chaura ends NCM → Kakori later.
-
-**Ans: A** — Jallianwala **1919** → NCM **1920** → Chauri Chaura **1922** → Kakori **1925**.
-
-</details>
-
-**Q13.** Arrange:
-
-1. Dandi March  
-2. Lahore Purna Swaraj  
-3. Gandhi–Irwin Pact  
-4. Simon Commission  
-
-A. 4, 2, 1, 3  
-B. 4, 1, 2, 3  
-C. 2, 4, 1, 3  
-D. 4, 2, 3, 1  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Simon → Lahore goal → Salt march → Pact.
-
-**Ans: A** — Simon **1927** → Lahore **1929** → Dandi **1930** → Gandhi–Irwin **1931**.
-
-</details>
-
-**Q14.** Arrange:
-
-1. Poona Pact  
-2. Communal Award  
-3. First Round Table Conference  
-4. Karachi Session (Fundamental Rights)  
-
-A. 3, 4, 2, 1  
-B. 3, 2, 4, 1  
-C. 4, 3, 2, 1  
-D. 3, 4, 1, 2  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** First RTC during CDM; Karachi after Pact 1931; Award then Poona Pact in 1932.
-
-**Ans: A** — First RTC **1930–31** → Karachi **1931** → Communal Award **1932** → Poona Pact **1932**.
-
-</details>
-
-**Q15.** Arrange:
-
-1. Quit India Movement  
-2. Cripps Mission  
-3. August Offer  
-4. Individual Satyagraha  
-
-A. 3, 4, 2, 1  
-B. 3, 2, 4, 1  
-C. 4, 3, 2, 1  
-D. 3, 4, 1, 2  
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Linlithgow offer → Individual Satyagraha → Cripps fails → Quit India.
-
-**Ans: A** — August Offer **1940** → Individual Satyagraha **1940** → Cripps **1942** → Quit India **1942**.
-
-</details>
+(If Indigo **1859** appears instead of Press, place Indigo right after Awadh.)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Arrange education landmarks:<br><br>1. Hunter Commission  <br>2. Wood’s Despatch  <br>3. Sargeant Plan  <br>4. Sadler Commission</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 3, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Classic education commission ladder.
+
+**Ans: A** — Wood **1854** → Hunter **1882** → Sadler **1917** → Sargeant **1944**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Formation of Muslim League  <br>2. Partition of Bengal  <br>3. Morley–Minto Reforms  <br>4. Surat Split</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 4, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 3, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Partition triggers Swadeshi; League follows; Surat split; then 1909 Act.
+
+**Ans: A** — Partition **1905** → League **1906** → Surat **1907** → Morley–Minto **1909**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Capital shifted to Delhi  <br>2. Partition of Bengal  <br>3. Ancient Monuments Preservation Act  <br>4. Morley–Minto Reforms</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 3, 1, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Curzon monuments → Partition → 1909 reforms → Hardinge capital shift 1911.
+
+**Ans: A** — Ancient Monuments **1904** → Partition **1905** → Morley–Minto **1909** → Capital Delhi **1911**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange Gandhi’s early satyagrahas:<br><br>1. Kheda  <br>2. Champaran  <br>3. Ahmedabad Mill Strike  <br>4. Rowlatt Satyagraha</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 3, 4, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Champaran first in India; Ahmedabad and Kheda in 1918; Rowlatt 1919.
+
+**Ans: A** — Champaran **1917** → Ahmedabad **1918** → Kheda **1918** → Rowlatt **1919**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Chauri Chaura  <br>2. Non-Cooperation launched  <br>3. Jallianwala Bagh  <br>4. Kakori Conspiracy</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 2, 1, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 1, 2, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 2, 4, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Punjab wrong → NCM → Chauri Chaura ends NCM → Kakori later.
+
+**Ans: A** — Jallianwala **1919** → NCM **1920** → Chauri Chaura **1922** → Kakori **1925**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Dandi March  <br>2. Lahore Purna Swaraj  <br>3. Gandhi–Irwin Pact  <br>4. Simon Commission</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 2, 1, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 4, 1, 2, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 2, 3, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Simon → Lahore goal → Salt march → Pact.
+
+**Ans: A** — Simon **1927** → Lahore **1929** → Dandi **1930** → Gandhi–Irwin **1931**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Poona Pact  <br>2. Communal Award  <br>3. First Round Table Conference  <br>4. Karachi Session (Fundamental Rights)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 3, 2, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 4, 1, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** First RTC during CDM; Karachi after Pact 1931; Award then Poona Pact in 1932.
+
+**Ans: A** — First RTC **1930–31** → Karachi **1931** → Communal Award **1932** → Poona Pact **1932**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Arrange:<br><br>1. Quit India Movement  <br>2. Cripps Mission  <br>3. August Offer  <br>4. Individual Satyagraha</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 2, 4, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 3, 2, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 4, 1, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Linlithgow offer → Individual Satyagraha → Cripps fails → Quit India.
+
+**Ans: A** — August Offer **1940** → Individual Satyagraha **1940** → Cripps **1942** → Quit India **1942**.</div>
+  </div>
+</div>

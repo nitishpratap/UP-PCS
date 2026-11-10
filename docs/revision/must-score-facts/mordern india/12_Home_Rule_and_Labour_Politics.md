@@ -221,20 +221,6 @@ hide:
 | **CSP** (Congress Socialist) | 1934 | Patna & Bombay | **Acharya Narendra Deva**, **Jayaprakash Narayan** | Socialist wing within Indian National Congress |
 | **Radical Democratic Party** | 1940 | Dehradun | **M.N. Roy** | Radical humanism; supported Allies in WWII |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Morley-Minto Reforms (1909)**| **Montagu-Chelmsford (1919)** | Introduced separate Muslim communal electorates vs Introduced **Provincial Dyarchy** and bicameral centre | 1909 सुधार / 1919 सुधार |
-| **Montagu Declaration (20 Aug 1917)**| **August Offer (8 Aug 1940)** | British promise of "Responsible Government" vs Linlithgow's wartime offer of post-war Dominion status | 1917 घोषणा / 1940 प्रस्ताव |
-| **Tilak’s League (April 1916)** | **Besant’s League (Sept 1916)** | Poona HQ, limited to MH/Karnataka/CP vs Adyar HQ, all India including Bombay city | तिलक लीग / बेसेंट लीग |
-| **Joseph Baptista** | **N.M. Joshi** | President of Tilak’s Home Rule League (1916) vs Pioneer trade unionist & India's 1919 ILO representative | जोसेफ बैपटिस्टा / एन.एम. जोशी |
-| **B.P. Wadia (1918)** | **N.M. Lokhande (1890)** | Founded Madras Labour Union (first modern registered trade union) vs Founded Bombay Millhands Association (early welfare body) | बी.पी. वाडिया / लोखंडे |
-| **Kanpur Conspiracy (1924)** | **Meerut Conspiracy (1929)** | Tried 4 early communists (Dange, Muzaffar) vs Tried 31 trade union leaders including 3 Britons | कानपुर / मेरठ षड्यंत्र |
-| **CSP Founders (1934)** | **Nehru & Bose (1934)** | Narendra Deva & JP formally established CSP vs Sympathized with socialism but **never** formally joined CSP | नरेंद्र देव–जेपी / नेहरू–सुभाष |
-| **Justice Party (1916)** | **Self-Respect Movement (1925)**| Pro-British elite non-Brahmin electoral party vs Radical anti-Brahmin rationalist mass revolt by Periyar | जस्टिस पार्टी / आत्म-सम्मान |
-| **Central Hindu College (1898)**| **BHU (1916)** | Founded by Annie Besant at Varanasi vs Founded by Madan Mohan Malaviya (incorporating Besant's college) | सेंट्रल हिंदू कॉलेज / बीएचयू |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Home Rule Launch Timing Mnemonic:**
@@ -252,356 +238,291 @@ hide:
    - **Maharashtra (MINUS Bombay City) + Karnataka + CP + Berar**.
    - *(Bombay City was Besant's!)*
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Consider the following statements with reference to the Justice Party:
-
-1. The Justice Party opposed Congress by calling it a Brahmin dominated organisation.
-2. It claimed the same communal representation for non-Brahmins as the Morley-Minto reforms had given to Muslims.
-
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q2.**
-
-Consider the following statements with reference to the Workers and Peasants Party:
-
-1. The Workers and Peasants Party was formed in 1927 and was given the form of an All India Organisation.
-2. The objective of this party was to work within the Congress so that it could be made a more revolution inclined party and an organisation of the common people.
-
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All-India form is **December 1928**, not a clean 1927 All-India birth.
-
-</details>
-
-**Q3.**
-
-Consider the following statements with reference to the Congress Socialist Party:
-
-> [!TIP] **Exam Anchor (UPPCS Prelims)**: Congress Socialist Party was founded in October/November 1934 (Patna/Bombay), not January 1934; Jawaharlal Nehru never formally joined CSP despite ideological affinity.
-
-### UPPCS Prelims 2023
-
-**Q4. UPPCS Prelims 2023, Q47**
-
-Which of the following events was the **last** in chronological order?
-
-A. Home Rule Movement
-
-B. Khilafat Movement
-
-C. Jallianwala Bagh Massacre
-
-D. Moplah Revolt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Home Rule (1916) is first in this set.
-
-</details>
-
-**Q4.**
-
-Match List-I with List-II.
-
-**List-I (Trade Union)List-II (Political Affiliation)**
-A. Bharatiya Mazdoor Sangh  1. Indian National Congress
-B. Indian National Trade Union Congress  2. Communist Party of India
-C. United Trade Union Congress  3. Communist Party of India (Marxist)
-D. All India Trade Union Congress  4. Bharatiya Janata Party
-
-Standard paper code: **4 1 3 2**
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (standard booklet)** — Duplicate allowed with Topic 8.
-
-</details>
-
-**Q5.**
-
-Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
-
-A. Muzaffar Ahmed
-
-B. Nalini Gupta
-
-C. Shaukat Usmani
-
-D. M.A. Ansari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Duplicate allowed with Topic 11.
-
-</details>
-
-**Q6.**
-
-Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
-
-A. V.P. Wadia
-
-B. N.M. Joshi
-
-C. C.F. Andrews
-
-D. Joseph Baptista
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Duplicate allowed with Topic 8.
-
-</details>
-
-**Q7.**
-
-Consider the following statements:
-
-1. All India Trade Union Congress was founded in 1920.
-2. Lala Lajpat Rai was elected its first President.
-3. All India Trade Union Federation was formed by S. A. Dange in 1929.
-
-A. Only 1 and 2
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statements 1–2 test AITUC birth facts; statement 3 swaps the 1929 breakaway leader — Dange did not form the moderate (नरम दल) federation.
-
-**Ans: A (Series B key).** Statements **1 and 2** are correct: **AITUC (1920)** with **Lala Lajpat Rai** as first president. Statement **3** is false — moderates led by **N.M. Joshi** broke away in **1929** to form the **All India Trade Union Federation**, not Dange.
-
-</details>
-
-**Q8.** With reference to the two Home Rule Leagues, which of the following statements is/are correct?
-
-1. Tilak’s Indian Home Rule League was founded in September 1916 at Madras/Adyar.
-2. Besant’s All India Home Rule League was founded in September 1916 at Madras/Adyar.
-3. Bombay city fell in Tilak’s charge, not Besant’s.
-
-A. Only 2
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Stmt 1 false: Tilak’s league = April 1916 Poona; Besant’s = September 1916 Madras/Adyar. Stmt 3 remains false: Bombay city belonged to Besant’s league.
-
-</details>
-
-**Q9.** Match List-I with List-II:
-
-| List-I (Feature) | List-II |
-|------------------|---------|
-| A. Tilak League President | 1. N.C. Kelkar |
-| B. Tilak League Secretary | 2. Joseph Baptista |
-| C. Besant’s papers | 3. *New India* and *Commonweal* |
-| D. Theosophical Society founders | 4. Blavatsky and Olcott, New York 1875 |
-
-*Row order is not the answer code.*
-
-A. A-1, B-2, C-4, D-3
-
-B. A-2, B-1, C-3, D-4
-
-C. A-2, B-3, C-1, D-4
-
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Baptista / Kelkar / Besant papers / Blavatsky–Olcott.
-
-**Logic:** Besant led Theosophy in India but did not found the Society.
-
-</details>
-
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Home Rule demanded self-government within the Empire on the Irish model.
-
-**Reason (R):** Home Rule was identical with later Gandhian mass satyagraha methods of 1920–22.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true; R false.
-
-**A/R logic:** Wartime constitutional politics ≠ NCM mass boycott.
-
-</details>
-
-**Q11.** Arrange the following in chronological order:
-
-1. Lucknow Pact
-2. Montagu Declaration
-3. Besant’s internment (with Arundale and Wadia)
-4. Government of India Act, 1919
-
-A. 1, 2, 3, 4
-
-B. 1, 3, 2, 4
-
-C. 3, 1, 2, 4
-
-D. 1, 3, 4, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Dec 1916 → Jun 1917 → 20 Aug 1917 → 1919 Act.
-
-**Logic:** Internment precedes Montagu Declaration; Declaration ≠ 1919 Act.
-
-</details>
-
-**Q12.** With reference to Montagu and related offers, which of the following statements is/are correct?
-
-1. The Montagu Declaration of 1917 is the same document as the August Offer of 1940.
-2. The Montagu Declaration (20 August 1917) stated the goal of responsible government in India.
-3. It is identical with the Government of India Act, 1919 itself.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 2
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Stmt 3 false: Montagu Declaration 1917 is a statement of intent, not the 1919 Act. Stmt 1 remains false: 1917 ≠ August Offer 1940.
-
-</details>
-
-**Q13.** Which of the following pairs is NOT correctly matched?
-
-A. AITUC founded 31 October 1920 — Lala Lajpat Rai first president
-
-B. Madras Labour Union 1918 — linked to B.P. Wadia
-
-C. India’s ILO 1919 labour representative — N.M. Joshi
-
-D. India’s ILO 1919 labour representative — Joseph Baptista
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** ILO 1919 face is Joshi; Baptista is Tilak League President.
-
-**Logic:** Baptista ↔ Joshi name swap.
-
-</details>
-
-**Q14.** With reference to BHU and national education waves, which of the following statements is/are correct?
-
-1. BHU: Act 1915; foundation stone 4 February 1916 (Hardinge); Malaviya founder tag; Varanasi.
-2. Gujarat Vidyapith (1920) and Kashi Vidyapith (1921) are the same body as BHU 1916.
-3. NCE 1906 is the same body as BHU 1916.
-
-A. 1 and 2
-
-B. Only 1
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: Gujarat/Kashi Vidyapith belong to the NCM national-university wave; they are not BHU. Stmt 3 remains false: NCE 1906 ≠ BHU 1916.
-
-</details>
-
-**Q15.** Match List-I (Labour / party stream) with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. AITUC | 1. Congress labour wing (1947) |
-| B. INTUC | 2. CPI stream |
-| C. BMS | 3. BJP-linked (1955) |
-| D. CSP | 4. Socialists inside Congress (1934) |
-
-*Row order is not the answer code.*
-
-A. A-2, B-1, C-4, D-3
-
-B. A-1, B-2, C-4, D-3
-
-C. A-2, B-3, C-1, D-4
-
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** AITUC–CPI; INTUC–Congress; BMS–BJP; CSP inside Congress.
-
-**Logic:** Party–labour map from Must-Score.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with reference to the Justice Party:<br><br>1. The Justice Party opposed Congress by calling it a Brahmin dominated organisation.<br>2. It claimed the same communal representation for non-Brahmins as the Morley-Minto reforms had given to Muslims.<br><br>Which of the above statements is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with reference to the Workers and Peasants Party:<br><br>1. The Workers and Peasants Party was formed in 1927 and was given the form of an All India Organisation.<br>2. The objective of this party was to work within the Congress so that it could be made a more revolution inclined party and an organisation of the common people.<br><br>Which of the above statements is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All-India form is **December 1928**, not a clean 1927 All-India birth.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with reference to the Congress Socialist Party:<br><br>> [!TIP] **Exam Anchor (UPPCS Prelims)**: Congress Socialist Party was founded in October/November 1934 (Patna/Bombay), not January 1934; Jawaharlal Nehru never formally joined CSP despite ideological affinity.<br><br>### UPPCS Prelims 2023</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Trade Union)</th>
+        <th>List-II (Political Affiliation)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Bharatiya Mazdoor Sangh</td><td><span class="match-key">1</span> Indian National Congress</td></tr>
+    <tr><td><span class="match-key">B</span> Indian National Trade Union Congress</td><td><span class="match-key">2</span> Communist Party of India</td></tr>
+    <tr><td><span class="match-key">C</span> United Trade Union Congress</td><td><span class="match-key">3</span> Communist Party of India (Marxist)</td></tr>
+    <tr><td><span class="match-key">D</span> All India Trade Union Congress</td><td><span class="match-key">4</span> Bharatiya Janata Party</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 1 3 2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 1 4 2 3</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 4 2 1 3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 2 1 4 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Home Rule (1916) is first in this set.</div>
+  </div>
+</div>
+
+<div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (standard booklet)** — Duplicate allowed with Topic 8.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Muzaffar Ahmed</div><div class="pyq-opt"><span class="opt-letter">B</span> Nalini Gupta</div><div class="pyq-opt"><span class="opt-letter">C</span> Shaukat Usmani</div><div class="pyq-opt"><span class="opt-letter">D</span> M.A. Ansari</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Duplicate allowed with Topic 11.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> V.P. Wadia</div><div class="pyq-opt"><span class="opt-letter">B</span> N.M. Joshi</div><div class="pyq-opt"><span class="opt-letter">C</span> C.F. Andrews</div><div class="pyq-opt"><span class="opt-letter">D</span> Joseph Baptista</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Duplicate allowed with Topic 8.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. All India Trade Union Congress was founded in 1920.<br>2. Lala Lajpat Rai was elected its first President.<br>3. All India Trade Union Federation was formed by S. A. Dange in 1929.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statements 1–2 test AITUC birth facts; statement 3 swaps the 1929 breakaway leader — Dange did not form the moderate (नरम दल) federation.
+
+**Ans: A (Series B key).** Statements **1 and 2** are correct: **AITUC (1920)** with **Lala Lajpat Rai** as first president. Statement **3** is false — moderates led by **N.M. Joshi** broke away in **1929** to form the **All India Trade Union Federation**, not Dange.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to the two Home Rule Leagues, which of the following statements is/are correct?<br><br>1. Tilak’s Indian Home Rule League was founded in September 1916 at Madras/Adyar.<br>2. Besant’s All India Home Rule League was founded in September 1916 at Madras/Adyar.<br>3. Bombay city fell in Tilak’s charge, not Besant’s.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 1 false: Tilak’s league = April 1916 Poona; Besant’s = September 1916 Madras/Adyar. Stmt 3 remains false: Bombay city belonged to Besant’s league.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Feature)</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Tilak League President</td><td><span class="match-key">1</span> N.C. Kelkar</td></tr>
+      <tr><td><span class="match-key">B</span> Tilak League Secretary</td><td><span class="match-key">2</span> Joseph Baptista</td></tr>
+      <tr><td><span class="match-key">C</span> Besant’s papers</td><td><span class="match-key">3</span> *New India* and *Commonweal*</td></tr>
+      <tr><td><span class="match-key">D</span> Theosophical Society founders</td><td><span class="match-key">4</span> Blavatsky and Olcott, New York 1875</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Baptista / Kelkar / Besant papers / Blavatsky–Olcott.
+
+**Logic:** Besant led Theosophy in India but did not found the Society.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Home Rule demanded self-government within the Empire on the Irish model.<br><br>**Reason (R):** Home Rule was identical with later Gandhian mass satyagraha methods of 1920–22.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true; R false.
+
+**A/R logic:** Wartime constitutional politics ≠ NCM mass boycott.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order:<br><br>1. Lucknow Pact<br>2. Montagu Declaration<br>3. Besant’s internment (with Arundale and Wadia)<br>4. Government of India Act, 1919</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 1, 2, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 3, 4, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Dec 1916 → Jun 1917 → 20 Aug 1917 → 1919 Act.
+
+**Logic:** Internment precedes Montagu Declaration; Declaration ≠ 1919 Act.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Montagu and related offers, which of the following statements is/are correct?<br><br>1. The Montagu Declaration of 1917 is the same document as the August Offer of 1940.<br>2. The Montagu Declaration (20 August 1917) stated the goal of responsible government in India.<br>3. It is identical with the Government of India Act, 1919 itself.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 3 false: Montagu Declaration 1917 is a statement of intent, not the 1919 Act. Stmt 1 remains false: 1917 ≠ August Offer 1940.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> AITUC founded 31 October 1920 — Lala Lajpat Rai first president</div><div class="pyq-opt"><span class="opt-letter">B</span> Madras Labour Union 1918 — linked to B.P. Wadia</div><div class="pyq-opt"><span class="opt-letter">C</span> India’s ILO 1919 labour representative — N.M. Joshi</div><div class="pyq-opt"><span class="opt-letter">D</span> India’s ILO 1919 labour representative — Joseph Baptista</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> ILO 1919 face is Joshi; Baptista is Tilak League President.
+
+**Logic:** Baptista ↔ Joshi name swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to BHU and national education waves, which of the following statements is/are correct?<br><br>1. BHU: Act 1915; foundation stone 4 February 1916 (Hardinge); Malaviya founder tag; Varanasi.<br>2. Gujarat Vidyapith (1920) and Kashi Vidyapith (1921) are the same body as BHU 1916.<br>3. NCE 1906 is the same body as BHU 1916.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: Gujarat/Kashi Vidyapith belong to the NCM national-university wave; they are not BHU. Stmt 3 remains false: NCE 1906 ≠ BHU 1916.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Labour / party stream) with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> AITUC</td><td><span class="match-key">1</span> Congress labour wing (1947)</td></tr>
+      <tr><td><span class="match-key">B</span> INTUC</td><td><span class="match-key">2</span> CPI stream</td></tr>
+      <tr><td><span class="match-key">C</span> BMS</td><td><span class="match-key">3</span> BJP-linked (1955)</td></tr>
+      <tr><td><span class="match-key">D</span> CSP</td><td><span class="match-key">4</span> Socialists inside Congress (1934)</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> AITUC–CPI; INTUC–Congress; BMS–BJP; CSP inside Congress.
+
+**Logic:** Party–labour map from Must-Score.</div>
+  </div>
+</div>

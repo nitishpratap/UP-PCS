@@ -199,22 +199,6 @@ hide:
 | ***Tarana-e-Hind*** | Urdu Poem | 1904 | **Sir Muhammad Iqbal** | *"Sare Jahan Se Achha Hindustan Hamara"*; patriotic anthem |
 | ***Bandi Moksha*** | Political Essay | 1920s | **Sachindra Nath Sanyal** | Theoretical tract on political prisoner rights |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| ***Anandamath* (1882)** | ***Nil Darpan* (1860)** | Bankim Chandra Chattopadhyay (Sanyasi revolt) vs Dinabandhu Mitra (Indigo planter atrocities) | आनंदमठ / नील दर्पण |
-| ***The Discovery of India*** | ***India Wins Freedom*** | Jawaharlal Nehru (written in Ahmednagar Jail) vs Maulana Abul Kalam Azad (political memoirs) | भारत एक खोज / इंडिया विन्स फ्रीडम |
-| ***Hind Swaraj* (1909)** | ***My Experiments with Truth* (1927)** | Gandhi's ideological manifesto written on a ship vs Gandhi's detailed personal autobiography | हिंद स्वराज / सत्य के प्रयोग |
-| ***Gita Rahasya* (1915)** | ***The Arctic Home in the Vedas* (1903)**| Both by Tilak: *Karma Yoga* Gita politics vs Astronomical study of ancient Aryan origins | गीता रहस्य / आर्कटिक होम |
-| ***Gulamgiri* (1873)** | ***Annihilation of Caste* (1936)** | Jyotirao Phule (dedicated to US anti-slavery fighters) vs Dr. B.R. Ambedkar (anti-Shastric critique) | गुलामगिरी / जाति का विनाश |
-| ***Poverty and Un-British Rule* (1901)**| ***Economic History of India* (1902)**| Dadabhai Naoroji (Drain of Wealth theory) vs Romesh Chunder Dutt (two-volume economic history) | नौरोजी / आर.सी. दत्त |
-| ***A Nation in Making* (1925)**| ***The Story of My Deportation* (1908)**| Autobiography of Sir Surendranath Banerjee vs Memoir of Lala Lajpat Rai's 1907 Mandalay exile | ए नेशन इन मेकिंग / डिपोर्टेशन |
-| ***Mother India* (1927)** | ***Unhappy India* (1928)** | Katherine Mayo's hostile colonial tract vs Lala Lajpat Rai's point-by-point nationalist rebuttal | मदर इंडिया / अनहैप्पी इंडिया |
-| ***India Divided* (1946)** | ***Pakistan or the Partition of India* (1940)**| Dr. Rajendra Prasad (anti-partition arguments) vs Dr. B.R. Ambedkar (constitutional analysis) | इंडिया डिवाइडेड / पाकिस्तान… |
-| ***The Indian Struggle*** | ***Freedom at Midnight* (1975)** | Subhas Chandra Bose's history of the movement vs Collins & Lapierre's popular narrative history | द इंडियन स्ट्रगल / फ्रीडम एट मिडनाइट |
-| ***Batohiya* (1911)** | ***Firangiya* (1921)** | Raghuveer Narayan (patriotic song of Bharat) vs Manoranjan Prasad Sinha (anti-British Bhojpuri poem) | बटोहीया / फिरंगिया |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **The Four Essential "India" Books:**
@@ -238,356 +222,295 @@ hide:
    - *An Indian Pilgrim* → **Bose**
    - *My Experiments with Truth* → **Gandhi**.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-In which year the book 'Poverty and Un-British Rule in India' was published?
-
-A. 1900 A.D.
-
-B. 1901 A.D.
-
-C. 1902 A.D.
-
-D. 1903 A.D.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1901**
-
-</details>
-
-**Q2.**
-
-Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
-
-**List-I (Book)List-II (Writer)**
-A. The Story of My Deportation  1. Surendranath Banerjee
-B. Gita Rahasya  2. Maulana Abul Kalam Azad
-C. A Nation in Making  3. Lala Lajpat Rai
-D. India Wins Freedom  4. Bal Gangadhar Tilak
-
-A. 3 4 1 2
-
-B. 4 2 1 3
-
-C. 2 4 1 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.**
-
-"The Rise and Growth of Economic Nationalism in India" was written by
-
-A. Partha Sarthi Gupta
-
-B. S Gopal
-
-C. B. R. Nanda
-
-D. Bipin Chandra
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Exact title match — Bipan Chandra’s historiography of drain/poverty nationalism, not contemporary Naoroji/Dutt tracts.
-
-**Ans: D.** **Bipan Chandra** wrote ***The Rise and Growth of Economic Nationalism in India***.
-
-</details>
-
-**Q4.** Match List-I (Book) with List-II (Author):
-
-| List-I | List-II |
-|--------|---------|
-| A. The Story of My Deportation | 1. Surendranath Banerjee |
-| B. Gita Rahasya | 2. Abul Kalam Azad |
-| C. A Nation in Making | 3. Lala Lajpat Rai |
-| D. India Wins Freedom | 4. Bal Gangadhar Tilak |
-
-*Row order is not the answer code.*
-
-A. A-4, B-3, C-2, D-1
-
-B. A-3, B-4, C-1, D-2
-
-C. A-3, B-1, C-4, D-2
-
-D. A-1, B-4, C-3, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Lajpat → Tilak → Banerjee → Azad.
-
-**Logic:** Syllabus match-four; never give Deportation to Banerjee.
-
-</details>
-
-**Q5.** With reference to Bankim and related titles, which of the following statements is/are correct?
-
-1. *Anandamath* (1882) by Dinabandhu Mitra carries *Vande Mataram*.
-2. *Neel Darpan* is Bankim’s novel of the Sanyasi rising.
-3. *Neel Darpan* (1860) is Dinabandhu Mitra’s indigo play.
-
-A. Only 3
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: *Anandamath* and *Vande Mataram* are Bankim’s; Dinabandhu Mitra wrote *Neel Darpan*. Stmt 2 remains false: never give *Neel Darpan* to Bankim.
-
-</details>
-
-**Q6.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** *Poverty and Un-British Rule in India* (1901) is Dadabhai Naoroji’s classic drain-of-wealth tract.
-
-**Reason (R):** *The Rise and Growth of Economic Nationalism in India* is Bipan Chandra’s later historiography of that age.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R is a different book-type, not the explanation of Naoroji’s 1901 authorship.
-
-**A/R logic:** Primary tract vs later historiography — sort by type first.
-
-</details>
-
-**Q7.** Which of the following pairs is/are correctly matched?
-
-1. *The Discovery of India* (1946) — Abul Kalam Azad
-2. *Hind Swaraj* (1909) — Gandhi’s political tract
-3. *My Experiments with Truth* — Abul Kalam Azad’s autobiography.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 2
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Stmt 3 false: *My Experiments with Truth* is Gandhi’s autobiography; Azad wrote *India Wins Freedom*. Stmt 1 remains false: *Discovery of India* = Nehru.
-
-</details>
-
-**Q8.** Which of the following pairs is NOT correctly matched?
-
-A. Gulamgiri (1873) — Jyotiba Phule
-
-B. Annihilation of Caste (1936) — B.R. Ambedkar
-
-C. India Divided — Rajendra Prasad
-
-D. Pakistan or the Partition of India — Rajendra Prasad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** *Pakistan or the Partition of India* is Ambedkar’s.
-
-**Logic:** Partition twins: Prasad vs Ambedkar.
-
-</details>
-
-**Q9.** Arrange the following books in the order of their publication years:
-
-1. *Neel Darpan*
-2. *Gulamgiri*
-3. *Anandamath*
-4. *Poverty and Un-British Rule in India*
-
-A. 1, 3, 2, 4
-
-B. 2, 1, 3, 4
-
-C. 1, 2, 3, 4
-
-D. 1, 2, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1860 → 1873 → 1882 → 1901.
-
-**Logic:** Indigo play → Phule → Bankim → Naoroji.
-
-</details>
-
-**Q10.** With reference to Tilak’s books, which of the following statements is/are correct?
-
-1. *Gita Rahasya* is Surendranath Banerjee’s Gita–politics work.
-2. *Arctic Home in the Vedas* is Surendranath Banerjee’s memoir.
-3. *Arctic Home in the Vedas* is also by Tilak, on a Vedic homeland thesis.
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: *Gita Rahasya* is Tilak’s; Banerjee’s memoir is *A Nation in Making*. Stmt 2 remains false: *Arctic Home* is also Tilak’s, not Banerjee’s.
-
-</details>
-
-**Q11.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Mother India (1927) | 1. Lala Lajpat Rai’s reply |
-| B. Unhappy India | 2. Katherine Mayo |
-| C. The Indian War of Independence (1909) | 3. V.D. Savarkar on 1857 |
-| D. Hindutva: Who is a Hindu? (1923) | 4. Savarkar’s separate title |
-
-*Row order is not the answer code.*
-
-A. A-2, B-3, C-1, D-4
-
-B. A-1, B-2, C-4, D-3
-
-C. A-2, B-1, C-3, D-4
-
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Mayo ↔ reply; Savarkar 1909 history ≠ 1923 Hindutva.
-
-**Logic:** Hostile tract vs reply; two Savarkar titles.
-
-</details>
-
-**Q12.** With reference to Bhojpuri literature often asked in UP-facing papers, which of the following statements is/are correct?
-
-1. *Firangiya* (1921) is Manoranjan Prasad Sinha’s anti-British poem.
-2. *Batohiya* (1911) is Raghuveer Narayan’s Bhojpuri poem.
-3. *Bidesiya* is Bhikhari Thakur’s migrant folk-drama; he is remembered as the ‘Shakespeare of Bhojpuri’.
-
-Select the correct answer from the code given below:
-
-A. Only 1 and 2
-
-B. All 1, 2 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** All three statements are correct.
-
-**Logic:** Keep poem *Batohiya* distinct from the traveller character in *Bidesiya*.
-
-</details>
-
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** *The Discovery of India* is Nehru’s Ahmednagar-jail civilisation–nation book (1946).
-
-**Reason (R):** *India Wins Freedom* is Maulana Abul Kalam Azad’s freedom memoir.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R does not explain Nehru’s authorship of *Discovery*.
-
-**A/R logic:** Standing Nehru / Azad twin — different genres.
-
-</details>
-
-**Q14.** Which one of the following is correctly matched?
-
-A. Why I Am an Atheist — Subhas Chandra Bose
-
-B. Why I Am an Atheist — Bhagat Singh
-
-C. The Indian Struggle — Bhagat Singh
-
-D. An Indian Pilgrim — Lala Lajpat Rai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Atheist essay = Bhagat Singh; Bose wrote *Indian Struggle* / *Indian Pilgrim*.
-
-**Logic:** Bose ↔ Bhagat book swap.
-
-</details>
-
-**Q15.** Which of the following statements is/are correct?
-
-1. *Vande Mataram* is the national anthem adopted from *Anandamath*.
-2. *Gitanjali* is Tagore’s; he received the Nobel in 1905.
-3. *Jana Gana Mana* is the national anthem; *Vande Mataram* is the national song.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: Tagore’s Nobel is 1913, not 1905. Stmt 1 remains false: *Vande Mataram* is national song, not the anthem.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">In which year the book 'Poverty and Un-British Rule in India' was published?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1900 A.D.</div><div class="pyq-opt"><span class="opt-letter">B</span> 1901 A.D.</div><div class="pyq-opt"><span class="opt-letter">C</span> 1902 A.D.</div><div class="pyq-opt"><span class="opt-letter">D</span> 1903 A.D.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1901</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the codes given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Book)</th>
+        <th>List-II (Writer)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> The Story of My Deportation</td><td><span class="match-key">1</span> Surendranath Banerjee</td></tr>
+    <tr><td><span class="match-key">B</span> Gita Rahasya</td><td><span class="match-key">2</span> Maulana Abul Kalam Azad</td></tr>
+    <tr><td><span class="match-key">C</span> A Nation in Making</td><td><span class="match-key">3</span> Lala Lajpat Rai</td></tr>
+    <tr><td><span class="match-key">D</span> India Wins Freedom</td><td><span class="match-key">4</span> Bal Gangadhar Tilak</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 4 1 2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 4 2 1 3</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 2 4 1 3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 4 3 2 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">"The Rise and Growth of Economic Nationalism in India" was written by</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Partha Sarthi Gupta</div><div class="pyq-opt"><span class="opt-letter">B</span> S Gopal</div><div class="pyq-opt"><span class="opt-letter">C</span> B. R. Nanda</div><div class="pyq-opt"><span class="opt-letter">D</span> Bipin Chandra</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Exact title match — Bipan Chandra’s historiography of drain/poverty nationalism, not contemporary Naoroji/Dutt tracts.
+
+**Ans: D.** **Bipan Chandra** wrote ***The Rise and Growth of Economic Nationalism in India***.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Book) with List-II (Author):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> The Story of My Deportation</td><td><span class="match-key">1</span> Surendranath Banerjee</td></tr>
+      <tr><td><span class="match-key">B</span> Gita Rahasya</td><td><span class="match-key">2</span> Abul Kalam Azad</td></tr>
+      <tr><td><span class="match-key">C</span> A Nation in Making</td><td><span class="match-key">3</span> Lala Lajpat Rai</td></tr>
+      <tr><td><span class="match-key">D</span> India Wins Freedom</td><td><span class="match-key">4</span> Bal Gangadhar Tilak</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-4, B-3, C-2, D-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-4, C-1, D-2</div><div class="pyq-opt"><span class="opt-letter">C</span> A-3, B-1, C-4, D-2</div><div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-4, C-3, D-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Lajpat → Tilak → Banerjee → Azad.
+
+**Logic:** Syllabus match-four; never give Deportation to Banerjee.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to Bankim and related titles, which of the following statements is/are correct?<br><br>1. *Anandamath* (1882) by Dinabandhu Mitra carries *Vande Mataram*.<br>2. *Neel Darpan* is Bankim’s novel of the Sanyasi rising.<br>3. *Neel Darpan* (1860) is Dinabandhu Mitra’s indigo play.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: *Anandamath* and *Vande Mataram* are Bankim’s; Dinabandhu Mitra wrote *Neel Darpan*. Stmt 2 remains false: never give *Neel Darpan* to Bankim.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** *Poverty and Un-British Rule in India* (1901) is Dadabhai Naoroji’s classic drain-of-wealth tract.<br><br>**Reason (R):** *The Rise and Growth of Economic Nationalism in India* is Bipan Chandra’s later historiography of that age.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R is a different book-type, not the explanation of Naoroji’s 1901 authorship.
+
+**A/R logic:** Primary tract vs later historiography — sort by type first.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. *The Discovery of India* (1946) — Abul Kalam Azad<br>2. *Hind Swaraj* (1909) — Gandhi’s political tract<br>3. *My Experiments with Truth* — Abul Kalam Azad’s autobiography.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 3 false: *My Experiments with Truth* is Gandhi’s autobiography; Azad wrote *India Wins Freedom*. Stmt 1 remains false: *Discovery of India* = Nehru.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gulamgiri (1873) — Jyotiba Phule</div><div class="pyq-opt"><span class="opt-letter">B</span> Annihilation of Caste (1936) — B.R. Ambedkar</div><div class="pyq-opt"><span class="opt-letter">C</span> India Divided — Rajendra Prasad</div><div class="pyq-opt"><span class="opt-letter">D</span> Pakistan or the Partition of India — Rajendra Prasad</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pakistan or the Partition of India* is Ambedkar’s.
+
+**Logic:** Partition twins: Prasad vs Ambedkar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Arrange the following books in the order of their publication years:<br><br>1. *Neel Darpan*<br>2. *Gulamgiri*<br>3. *Anandamath*<br>4. *Poverty and Un-British Rule in India*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1860 → 1873 → 1882 → 1901.
+
+**Logic:** Indigo play → Phule → Bankim → Naoroji.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to Tilak’s books, which of the following statements is/are correct?<br><br>1. *Gita Rahasya* is Surendranath Banerjee’s Gita–politics work.<br>2. *Arctic Home in the Vedas* is Surendranath Banerjee’s memoir.<br>3. *Arctic Home in the Vedas* is also by Tilak, on a Vedic homeland thesis.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: *Gita Rahasya* is Tilak’s; Banerjee’s memoir is *A Nation in Making*. Stmt 2 remains false: *Arctic Home* is also Tilak’s, not Banerjee’s.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Mother India (1927)</td><td><span class="match-key">1</span> Lala Lajpat Rai’s reply</td></tr>
+      <tr><td><span class="match-key">B</span> Unhappy India</td><td><span class="match-key">2</span> Katherine Mayo</td></tr>
+      <tr><td><span class="match-key">C</span> The Indian War of Independence (1909)</td><td><span class="match-key">3</span> V.D. Savarkar on 1857</td></tr>
+      <tr><td><span class="match-key">D</span> Hindutva: Who is a Hindu? (1923)</td><td><span class="match-key">4</span> Savarkar’s separate title</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mayo ↔ reply; Savarkar 1909 history ≠ 1923 Hindutva.
+
+**Logic:** Hostile tract vs reply; two Savarkar titles.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to Bhojpuri literature often asked in UP-facing papers, which of the following statements is/are correct?<br><br>1. *Firangiya* (1921) is Manoranjan Prasad Sinha’s anti-British poem.<br>2. *Batohiya* (1911) is Raghuveer Narayan’s Bhojpuri poem.<br>3. *Bidesiya* is Bhikhari Thakur’s migrant folk-drama; he is remembered as the ‘Shakespeare of Bhojpuri’.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Keep poem *Batohiya* distinct from the traveller character in *Bidesiya*.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** *The Discovery of India* is Nehru’s Ahmednagar-jail civilisation–nation book (1946).<br><br>**Reason (R):** *India Wins Freedom* is Maulana Abul Kalam Azad’s freedom memoir.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R does not explain Nehru’s authorship of *Discovery*.
+
+**A/R logic:** Standing Nehru / Azad twin — different genres.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Why I Am an Atheist — Subhas Chandra Bose</div><div class="pyq-opt"><span class="opt-letter">B</span> Why I Am an Atheist — Bhagat Singh</div><div class="pyq-opt"><span class="opt-letter">C</span> The Indian Struggle — Bhagat Singh</div><div class="pyq-opt"><span class="opt-letter">D</span> An Indian Pilgrim — Lala Lajpat Rai</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Atheist essay = Bhagat Singh; Bose wrote *Indian Struggle* / *Indian Pilgrim*.
+
+**Logic:** Bose ↔ Bhagat book swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements is/are correct?<br><br>1. *Vande Mataram* is the national anthem adopted from *Anandamath*.<br>2. *Gitanjali* is Tagore’s; he received the Nobel in 1905.<br>3. *Jana Gana Mana* is the national anthem; *Vande Mataram* is the national song.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: Tagore’s Nobel is 1913, not 1905. Stmt 1 remains false: *Vande Mataram* is national song, not the anthem.</div>
+  </div>
+</div>

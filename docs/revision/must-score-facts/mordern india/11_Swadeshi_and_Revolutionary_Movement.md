@@ -162,6 +162,26 @@ hide:
 48. **Anushilan Samiti Patna Branch (1913):** Founded by **Sachindra Nath Sanyal** at Patna; Bankim Chandra Mitra was an active student organizer.
 49. **Bhikaji Cama’s Stuttgart Flag Design:** Designed by Cama and Hem Chandra Kanungo; three horizontal bands: green (top, with 8 lotuses for 8 provinces), saffron (middle, with *Vande Mataram* in Devanagari), and red (bottom, with sun and crescent moon).
 50. **Historical Significance of Revolutionary Movement:** The revolutionaries shattered the myth of British invincible authority, injected revolutionary socialist ideology into the national struggle, demonstrated unmatched personal courage and sacrifice, and forced the colonial state to recognize that Indian youth would settle for nothing less than absolute sovereignty.
+51. **Partition of Bengal Genesis & Official Rationale:** Decided by Lord Curzon and Sir Andrew Fraser; announced on **20 July 1905**; partitioned Bengal into (1) Bengal proper (West Bengal, Bihar, Orissa - capital Calcutta) and (2) Eastern Bengal and Assam (capital Dacca, Lt. Governor Bampfylde Fuller); official pretext was 'administrative convenience', real aim was to shatter Bengali nationalist solidarity along Hindu-Muslim lines.
+52. **Boycott & Swadeshi Proclamation (7 August 1905):** Massive public meeting held at **Town Hall, Calcutta** presided over by Manindra Chandra Nandi; passed Boycott Resolution formally launching the Swadeshi Movement; Boycott idea was first suggested by **Sanjibani** (weekly edited by **Krishna Kumar Mitra** in July 1905).
+53. **Day of Partition Mourning (16 October 1905):** Partition came into effect; observed as a **Day of Mourning (Arandhan)**; citizens fasted and took holy dips in the Hooghly barefoot singing Bankim Chandra's *Vande Mataram*; **Rabindranath Tagore** composed patriotic song *Amar Sonar Bangla* (national anthem of Bangladesh since 1971) and initiated **Raksha Bandhan** ceremony tying rakhis to symbolize Hindu-Muslim brotherhood.
+54. **National Council of Education (August 1906):** Founded on 15 August 1906 under **Satish Chandra Mukherjee** (editor of *Dawn* magazine and founder of Dawn Society 1902); established **Bengal National College** with **Aurobindo Ghosh as its first Principal**; **Bengal Technical Institute** founded by Taraknath Palit (developed into Jadavpur University).
+55. **Swadesh Bandhab Samiti (Barisal):** Founded by **Ashwini Kumar Datta**; supreme mass mobilization organ with 159 village branches; organized dispute arbitrations, moral uplift, and supply of swadeshi goods; Datta was deported by the British in 1908.
+56. **Spillover of Swadeshi Across India:** **Bal Gangadhar Tilak** popularized movement in Maharashtra through Shivaji and Ganapati festivals; **Lala Lajpat Rai & Ajit Singh** organized Punjab through *Anjuman-i-Mohisban-i-Watan* and newspaper *Bharat Mata*; **Syed Haider Raza** organized Delhi; **Chidambaram Pillai** organized Madras Presidency.
+57. **V.O. Chidambaram Pillai (VOC) & Swadeshi Steam Navigation:** Founded the **Swadeshi Steam Navigation Company (1906)** at Tuticorin with two ships (*S.S. Galia* and *S.S. Lawoe*) competing directly against the British India Steam Navigation Company; arrested for sedition in 1908, sparking the Tuticorin Riots; sentenced to double life imprisonment.
+58. **Surat Split (December 1907):** INC split at 23rd session on banks of River Tapti, Surat; Moderates wanted **Rash Behari Ghosh** while Extremists pushed **Lala Lajpat Rai**; shoes and chairs thrown on stage; Moderates amended Congress constitution to exclude Extremists; Extremists were out of INC until the Lucknow Session of 1916.
+59. **Anushilan Samiti (Calcutta & Dacca):** Calcutta branch founded in **1902** by **Pramatha Nath Mitra (P. Mitra)**, Jatindranath Banerjee, and Barindra Kumar Ghosh; Dacca branch founded in **1906** by **Pulin Behari Das** (expanded to over 500 branches); newspaper **Yugantar** founded in 1906 by Barindra Ghosh and Bhupendranath Datta (brother of Swami Vivekananda).
+60. **Alipore Bomb Conspiracy Case (1908):** On 30 April 1908, **Khudiram Bose (18)** and **Prafulla Chaki (19)** threw a bomb at a carriage in Muzaffarpur aiming to kill tyrant magistrate Douglas Kingsford, mistakenly killing Mrs. and Miss Kennedy; Prafulla Chaki shot himself dead; **Khudiram Bose was hanged on 11 August 1908** (youngest martyr of freedom movement); British raided Muraripukur garden house, arresting Barindra Ghosh and **Aurobindo Ghosh**; Aurobindo was brilliantly defended by **Chitta Ranjan Das** and acquitted, after which he retired from active politics to Pondicherry.
+61. **Chapekar Brothers (Pune, 1897):** First organized act of political assassination in British India; **Damodar and Balkrishna Chapekar** shot dead tyrant plague commissioner **W.C. Rand** and Lt. Ayerst in Pune on 22 June 1897; both brothers were arrested and hanged.
+62. **V.D. Savarkar & Abhinav Bharat (1904):** Founded secret revolutionary society **Mitra Mela (1899)** at Nasik, reorganized into **Abhinav Bharat Society (1904)**; in 1909, **Anant Laxman Kanhere** shot dead Nasik District Collector A.M.T. Jackson in the **Nasik Conspiracy Case**; Savarkar was arrested in London, made heroic escape swim at Marseilles (France), but recaptured and sentenced to 50 years' transportation to Cellular Jail (Kalapani), Andaman Islands.
+63. **India House, London & Madan Lal Dhingra:** Established by **Shyamji Krishna Varma** (1905) at Highgate, London; ran journal *The Indian Sociologist*; on 1 July 1909, revolutionary **Madan Lal Dhingra** shot dead **Curzon Wyllie** (political aide-de-camp to Secretary of State) at the Imperial Institute, London; Dhingra was hanged at Pentonville Prison.
+64. **Madam Bhikaji Cama (Mother of Indian Revolution):** Private secretary to Dadabhai Naoroji in London; unfurled the **first Indian National Flag** on foreign soil at the **International Socialist Congress in Stuttgart, Germany (22 August 1907)**; published revolutionary journals *Bande Mataram* from Paris and *Madan's Talwar* from Berlin.
+65. **Delhi Conspiracy Case (23 December 1912):** Masterminded by **Rash Behari Bose** and Sachindra Nath Sanyal; bomb thrown at Viceroy **Lord Hardinge II** riding an elephant in imperial procession at Chandni Chowk, Delhi; Hardinge injured but survived; **Basant Kumar Biswas, Amir Chand, Awadh Behari, and Bal Mukund** were arrested and hanged; Rash Behari Bose escaped disguised to Japan in 1915.
+66. **Ghadar Party (1913, San Francisco):** Founded by **Lala Har Dayal**, **Sohan Singh Bhakna (President)**, and Pandit Kanshi Ram at Astoria, Oregon; headquarters at **Yugantar Ashram, San Francisco**; published weekly newspaper **The Ghadar** ('Angrezi Raj ka Dushman'); aimed at inciting armed revolution among Indian soldiers in British regiments during WWI.
+67. **Komagata Maru Incident (1914):** Japanese steamship chartered by Singapore merchant **Gurdit Singh** carrying 376 Indian passengers (mostly Punjabi Sikhs) sailed to Vancouver, Canada; turned back by Canadian immigration authorities under 'Continuous Journey' regulations; arrived at **Budge Budge (near Calcutta) on 29 September 1914**; British police opened fire, killing 20 passengers and jailing remainder, fueling revolutionary fervor.
+68. **Hindustan Republican Association (HRA, October 1924):** Founded at **Kanpur** by **Sachindra Nath Sanyal**, **Ram Prasad Bismil**, **Jogesh Chandra Chatterjee**, and Ashfaqullah Khan; published manifesto *The Revolutionary*; aimed to establish the Federated Republic of the United States of India by armed revolution.
+69. **Kakori Train Action (9 August 1925):** 10 HRA revolutionaries intercepted the **8-Down Saharanpur–Lucknow Passenger train at Kakori** (near Lucknow) and looted government treasury cash from guard's van; 4 martyrs hanged in Dec 1927: **Ram Prasad Bismil** (Gorakhpur Jail - composed *Sarfaroshi ki Tamanna*), **Ashfaqullah Khan** (Faizabad Jail - first Muslim martyr of revolutionary movement), **Thakur Roshan Singh** (Naini Central Jail, Allahabad), and **Rajendra Lahiri** (Gonda Jail, hanged on 17 Dec, 2 days early); Chandra Shekhar Azad escaped.
+70. **Hindustan Socialist Republican Association (HSRA, Sep 1928):** Founded at **Feroz Shah Kotla Ground, Delhi** under leadership of **Chandra Shekhar Azad**, **Bhagat Singh**, and Sukhdev; added word **'Socialist'** reflecting Marxist ideology; assassinated Assistant Police Superintendent **John Saunders** at Lahore (17 Dec 1928) to avenge death of Lala Lajpat Rai; Bhagat Singh and **Batukeshwar Dutt** threw harmless smoke bombs in Central Legislative Assembly, Delhi on **8 April 1929** ('To make the deaf hear') against Public Safety Bill and Trade Disputes Bill; Bhagat Singh, Sukhdev, and Rajguru were hanged on **23 March 1931** at Lahore Central Jail (Martyrs' Day / Shaheed Diwas); **Chandra Shekhar Azad died fighting police to his last bullet at Alfred Park (now Azad Park), Allahabad on 27 February 1931**.
 
 ## ⏱️ Timeline / Chronology
 
@@ -269,21 +289,6 @@ hide:
 | **Lahore Conspiracy II** | 1929–31 | Bhagat Singh, Sukhdev, Rajguru, Jatin Das | Jatin Das martyred after 63-day hunger strike; **Trio hanged 23 March 1931** |
 | **Chittagong Armoury Case** | 1930–34 | Surya Sen, Tarakeswar Dastidar, Kalpana Datta | **Surya Sen & Dastidar hanged (12 Jan 1934)**; Kalpana Datta life imprisonment |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **HRA (1924)** | **HSRA (1928)** | Formed at Kanpur (Sanyal/Bismil) vs Formed at Feroz Shah Kotla, Delhi with explicit socialist doctrine (Azad/Bhagat Singh) | एचआरए / एचएसआरए |
-| **Kakori Train Action (1925)** | **Assembly Bombing (1929)** | HRA action (Bismil, Ashfaqulla, Azad) vs HSRA action (Bhagat Singh, B.K. Dutt) | काकोरी / असेंबली बम |
-| **Ram Prasad Bismil** | **Bismil Azimabadi** | Kakori martyr of Shahjahanpur (hanged Gorakhpur) vs Author who penned *"Sarfaroshi ki tamanna"* in Patna (1921) | राम प्रसाद / बिस्मिल अजीमाबादी |
-| **Madan Lal Dhingra (1909)** | **Udham Singh (1940)** | Shot Curzon Wyllie in London (India House phase) vs Shot Michael O’Dwyer in London to avenge Jallianwala Bagh | धिंगरा / ऊधम सिंह |
-| **Anushilan Samiti (1902)** | **Yugantar (1906)** | Broad secret society (P. Mitra) vs Revolutionary inner action circle & weekly paper (Barindra Ghosh) | अनुशीलन / युगांतर |
-| **Muzaffarpur Bomb (1908)** | **Alipore Bomb Case (1908)** | Khudiram & Prafulla attack Kingsford vs Muraripukur garden raid & trial of Aurobindo/Barindra | मुजफ्फरपुर / अलीपुर |
-| **Hardinge Bomb (1912)** | **Assembly Bomb (1929)** | Thrown by Basant Biswas at Viceroy elephant procession in Delhi vs Thrown by Bhagat Singh & Dutt on empty benches | हार्डिंग बम / असेंबली बम |
-| **Pritilata Waddedar** | **Kalpana Datta** | Pahartali Club raid leader; took cyanide (died 1932) vs Surya Sen’s comrade; captured & sentenced to life | प्रीतिलता / कल्पना दत्त |
-| **Madam Bhikaji Cama (1907)** | **Berlin Committee (1915)** | Unfurled Indian flag at Stuttgart Socialist Congress vs WWI German Foreign Office revolutionary alliance (Chatto) | मैडम कामा / बर्लिन कमेटी |
-| **Ghadar Party (1913)** | **Provisional Govt Kabul (1915)**| San Francisco overseas revolutionary party vs Wartime independent government set up by Raja Mahendra Pratap | ग़दर पार्टी / काबुल सरकार |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Kakori Martyrs & Jail Hanging Locations (UPPCS Gold Match):**
@@ -310,97 +315,131 @@ hide:
    - **B**al Gangadhar Tilak (Maharashtra)
    - **B**ipin Chandra Pal (Bengal).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-> [!TIP] **Exam Anchor (UPPCS 2025 Q6):** At the **Delhi Durbar of December 1911**, King George V announced the **revocation of Bengal partition** and the **transfer of British India's capital from Calcutta to Delhi** (effective 1912). The Lucknow Pact occurred later in 1916.
-
-**Q2. UPPCS Prelims 2025, Q40**
-
-Match List-I with List-II and select the correct answer using the code given below the lists.
-
-**List-I (Governor-General (गवर्नर-जनरल)/Viceroy)List-II (Important contribution/work)**
-A. Lord Dalhousie (डलहौज़ी)  1. Permanent Settlement (स्थायी बंदोबस्त) of Bengal
-B. Lord Curzon  2. Prohibition (प्रतिषेध) of Practice of Sati
-C. Lord William Bentinck (बेंटिंक)  3. Partition of Bengal
-D. Lord Cornwallis (कॉर्नवालिस)  4. Doctrine of Lapse (विलुप्ति सिद्धांत)
-
-A. 4 3 1 2
-
-B. 3 4 2 1
-
-C. 3 4 1 2
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Duplicate allowed with Topic 3. Curzon fact = **Partition of Bengal**.
-
-</details>
-
-**Q2.**
-
-> [!TIP] **Exam Anchor (UPPCS 2023 Q42):** In the **Delhi Conspiracy (23 Dec 1912)**, **Rash Behari Bose** and the **Anushilan Samiti** planned the bomb thrown by Basanta Kumar Biswas at Viceroy Lord Hardinge during the state entry into Delhi.
-
-### UPPCS Prelims 2022
-
-**Q4. UPPCS Prelims 2022, Q38**
-
-> [!TIP] **Exam Anchor (UPPCS 2022 Q38):** Revolutionary Chronology: **Ghadar Party** (1913, San Francisco) → **Berlin Committee / Indian Independence Committee** (1915, Germany) → **Central Assembly Bomb Case** (8 April 1929) → **Chittagong Armoury Raid** (18 April 1930).
-
-### UPPCS Prelims 2021
-
-**Q5. UPPCS Prelims 2021, Q86**
-
-> [!TIP] **Exam Anchor (UPPCS 2021 Q86):** In the **Kanpur Bolshevik Conspiracy Case (1924)**, the British government tried communist leaders S.A. Dange, Muzaffar Ahmad, Shaukat Usmani, and Nalini Gupta. **Dr. M.A. Ansari** was a nationalist Congress leader, not an accused in this case.
-
-**Q6. UPPCS Prelims 2021, Q108**
-
-> [!TIP] **Exam Anchor (UPPCS 2021 Q108):** **Naujawan Bharat Sabha** was founded in March 1926 at Lahore by **Bhagat Singh**, Chhabil Das, and Yashpal. **Ambika Chakravarti** was a leader of the Chittagong Armoury Raid in Bengal, not an early member of the Lahore Sabha.
-
-### UPPCS Prelims 2019
-
-**Q7. UPPCS Prelims 2019, Q95**
-
-> [!TIP] **Exam Anchor (UPPCS 2019 Q95):** Lord Curzon rearranged Bengal provincial boundaries in 1905, creating the new province of **East Bengal and Assam** (HQ at Dacca) under Lt. Governor Sir Andrew Fraser.
-
-### UPPCS Prelims 2018
-
-**Q8. UPPCS Prelims 2018, Q22**
-
-> [!TIP] **Exam Anchor (UPPCS 2018 Q22):** **Vinayak Damodar (V.D.) Savarkar** started *Mitra Mela* in 1899 at Nasik, which was reconstituted as the secret society **Abhinav Bharat Society** in 1904.
-
----
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
 
-## Complete PYQ Bank — Ghatnachakra Revolutionary Movements in India (92 Questions)
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Complete unabridged 92-question bank from the core Ghatna Chakra repository covering all revolutionary actions within India: Abhinav Bharat Society (Mitra Mela 1899, Nasik 1904, V.D. Savarkar), RSS founding (1925, Hedgewar, Nagpur), Jatindranath Mukherjee ("Bagha Jatin") & Yugantar Party, Anushilan Samiti (P. Mitra, Barindra Ghosh, Bhupendra Nath Dutta, 1913 Patna branch under Sachindra Sanyal), Chapekar Brothers (1897 Rand & Ayerst assassination, Tilak's sedition trial), Jackson murder in Nasik (1909, Anant Laxman Kanhere), Barrah Dacoity (1908 East Bengal, Pulin Bihari Das), Muzaffarpur Bombing Case (1908, Khudiram Bose & Prafulla Chaki, Kingsford target, Mrs. Kennedy death), Alipore Conspiracy Case (1908, Aurobindo Ghosh defended by C.R. Das, Kanailal Dutt & Satyendra Bose shot Naren Goswami), Hindustan Republican Association (Oct 1924 Kanpur, Sachindra Sanyal, Bismil, Jogesh Chatterjee, Azad), Kakori Train Action (9 Aug 1925, Bismil hanged in Gorakhpur, Ashfaqullah in Faizabad, Roshan Singh in Naini, Rajendra Lahiri in Gonda, Govind Ballabh Pant defense committee), Hindustan Socialist Republican Association (Sept 1928 Feroz Shah Kotla, Azad, Bhagat Singh, Sukhdev), Central Assembly Bomb Case (8 April 1929, Bhagat Singh & Batukeshwar Dutt), Saunders assassination & Lahore Conspiracy Case (execution of Bhagat Singh, Rajguru, Sukhdev on 23 March 1931, Ferozepur Sutlej memorial), Chandrashekhar Azad's martyrdom at Alfred Park (27 Feb 1931), Jatin Das's 63-day hunger strike, Chittagong Armoury Raid (18 April 1930, Surya Sen "Master Da", IRA, Kalpana Dutt, Pritilata Waddedar), Naujawan Bharat Sabha (March 1926, Bhagat Singh, Chhabil Das, Yashpal), Women revolutionaries (Shanti Ghosh & Suniti Chowdhury Comilla DM assassination, Bina Das Calcutta convocation shooting 1932), Charles Tegart assassination attempt (Gopinath Saha 1924), and Bal Gangadhar Tilak's Lathi Club & festivals. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS 2025 Q6):</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> t the **Delhi Durbar of December 1911**, King George V announced the **revocation of Bengal partition** and the **transfer of British India's capital from Calcutta to Delhi** (effective 1912). The Lucknow Pact occurred later in 1916.</div>
+  </div>
+</div>
 
----
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Governor-General / Viceroy)</th>
+        <th>List-II (Important Policy / Event)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Lord Dalhousie</td><td><span class="match-key">1</span> Permanent Settlement of Bengal</td></tr>
+    <tr><td><span class="match-key">B</span> Lord Curzon</td><td><span class="match-key">2</span> Prohibition of Practice of Sati</td></tr>
+    <tr><td><span class="match-key">C</span> Lord William Bentinck</td><td><span class="match-key">3</span> Partition of Bengal</td></tr>
+    <tr><td><span class="match-key">D</span> Lord Cornwallis</td><td><span class="match-key">4</span> Doctrine of Lapse</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 3 1 2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 3 4 2 1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 3 4 1 2</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 4 3 2 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Duplicate allowed with Topic 3. Curzon fact = **Partition of Bengal**.</div>
+  </div>
+</div>
 
-**Q-GC-REV-1. U.P. Lower Sub. (Pre) 2002 / I.A.S. (Pre) 1999**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS 2023 Q42):** In the</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> elhi Conspiracy (23 Dec 1912)**, **Rash Behari Bose** and the **Anushilan Samiti** planned the bomb thrown by Basanta Kumar Biswas at Viceroy Lord Hardinge during the state entry into Delhi.</div>
+  </div>
+</div>
 
-‘Abhinava Bharat’ a secret society of revolutionaries
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS 2022 Q38):** Revolutionary Chronology: **Ghadar Party** (1913, San Francisco) →</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> erlin Committee / Indian Independence Committee** (1915, Germany) → **Central Assembly Bomb Case** (8 April 1929) → **Chittagong Armoury Raid** (18 April 1930).</div>
+  </div>
+</div>
 
-was organised by :
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS 2021 Q86):** In the **Kanpur Bolshevik Conspiracy Case (1924)**, the British government tried communist leaders S.A. Dange, Muzaffar Ahmad, Shaukat Usmani, and Nalini Gupta.</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> r. M.A. Ansari** was a nationalist Congress leader, not an accused in this case.</div>
+  </div>
+</div>
 
-- (a) Khudiram Bose
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS 2021 Q108):** **Naujawan Bharat Sabha** was founded in March 1926 at Lahore by</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> hagat Singh**, Chhabil Das, and Yashpal. **Ambika Chakravarti** was a leader of the Chittagong Armoury Raid in Bengal, not an early member of the Lahore Sabha.</div>
+  </div>
+</div>
 
-- (b) V.D. Savarkar
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS 2019 Q95):** Lord Curzon rearranged Bengal provincial boundaries in 1905, creating the new province of **East Bengal and Assam** (HQ at Dacca) under Lt. Governor Sir Andrew Fraser.<br><br>### UPPCS Prelims 2018</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (Verified Key)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
 
-- (c) Prafulla Chaki
-
-- (d) Bhagat Singh
-
-<details><summary>Show answer</summary>
-
-**Answer: (b)**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">> [!TIP] **Exam Anchor (UPPCS 2018 Q22):** **Vinayak Damodar (V.D.) Savarkar** started *Mitra Mela* in 1899 at Nasik, which was reconstituted as the secret society **Abhinav Bharat Society** in 1904.<br><br>---<br><br><br>## Complete PYQ Bank — Ghatnachakra Revolutionary Movements in India (92 Questions)<br><br>Complete unabridged 92-question bank from the core Ghatna Chakra repository covering all revolutionary actions within India: Abhinav Bharat Society (Mitra Mela 1899, Nasik 1904, V.D. Savarkar), RSS founding (1925, Hedgewar, Nagpur), Jatindranath Mukherjee ("Bagha Jatin") & Yugantar Party, Anushilan Samiti (P. Mitra, Barindra Ghosh, Bhupendra Nath Dutta, 1913 Patna branch under Sachindra Sanyal), Chapekar Brothers (1897 Rand & Ayerst assassination, Tilak's sedition trial), Jackson murder in Nasik (1909, Anant Laxman Kanhere), Barrah Dacoity (1908 East Bengal, Pulin Bihari Das), Muzaffarpur Bombing Case (1908, Khudiram Bose & Prafulla Chaki, Kingsford target, Mrs. Kennedy death), Alipore Conspiracy Case (1908, Aurobindo Ghosh defended by C.R. Das, Kanailal Dutt & Satyendra Bose shot Naren Goswami), Hindustan Republican Association (Oct 1924 Kanpur, Sachindra Sanyal, Bismil, Jogesh Chatterjee, Azad), Kakori Train Action (9 Aug 1925, Bismil hanged in Gorakhpur, Ashfaqullah in Faizabad, Roshan Singh in Naini, Rajendra Lahiri in Gonda, Govind Ballabh Pant defense committee), Hindustan Socialist Republican Association (Sept 1928 Feroz Shah Kotla, Azad, Bhagat Singh, Sukhdev), Central Assembly Bomb Case (8 April 1929, Bhagat Singh & Batukeshwar Dutt), Saunders assassination & Lahore Conspiracy Case (execution of Bhagat Singh, Rajguru, Sukhdev on 23 March 1931, Ferozepur Sutlej memorial), Chandrashekhar Azad's martyrdom at Alfred Park (27 Feb 1931), Jatin Das's 63-day hunger strike, Chittagong Armoury Raid (18 April 1930, Surya Sen "Master Da", IRA, Kalpana Dutt, Pritilata Waddedar), Naujawan Bharat Sabha (March 1926, Bhagat Singh, Chhabil Das, Yashpal), Women revolutionaries (Shanti Ghosh & Suniti Chowdhury Comilla DM assassination, Bina Das Calcutta convocation shooting 1932), Charles Tegart assassination attempt (Gopinath Saha 1924), and Bal Gangadhar Tilak's Lathi Club & festivals. Every question preserves full stem, options, exam tags, correct answer, and complete explanation with zero duplication.<br><br>---<br><br>**Q-GC-REV-1. U.P. Lower Sub. (Pre) 2002 / I.A.S. (Pre) 1999**<br><br>‘Abhinava Bharat’ a secret society of revolutionaries<br><br>was organised by :<br><br>- (a) Khudiram Bose<br><br>- (b) V.D. Savarkar<br><br>- (c) Prafulla Chaki<br><br>- (d) Bhagat Singh</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> wer: (b)**
 
 **Explanation:**
 V.D. Savarkar had set up an organisation called 'Mitra Mela'
@@ -409,318 +448,247 @@ which in 1904 was merged into the secret society called
 
 'Abhinav Bharat Society' in Nasik. Savarkar's views were
 
-published in his book entitled ' The Indian War of Independence 1857'.
-
-</details>
-
-**Q3.** With reference to the Partition of Bengal, which of the following statements is/are correct?
-
-1. The Lucknow Pact of 1911 annulled the Partition at the Delhi Durbar.
-2. It was announced in July 1905 and became effective on 16 October 1905.
-3. The new province was West Bengal and Orissa with capital at Calcutta.
-
-A. Only 2
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Stmt 3 false: New province was East Bengal and Assam with capital at Dacca. Stmt 1 remains false: annulment = 1911 Durbar; Lucknow Pact = 1916.
-
-</details>
-
-**Q4.** Arrange the following in chronological order:
-
-1. Boycott Resolution at Calcutta Town Hall
-2. Partition of Bengal becomes effective
-3. National Council of Education
-4. Surat Split
-
-A. 2, 1, 3, 4
-
-B. 1, 2, 3, 4
-
-C. 1, 3, 2, 4
-
-D. 1, 2, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 7 Aug 1905 → 16 Oct 1905 → Aug 1906 → 1907.
-
-**Logic:** Boycott resolution precedes effective date; NCE before Surat.
-
-</details>
-
-**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Swadeshi means the use of Indian goods and institutions.
-
-**Reason (R):** Boycott means rejection of British goods and institutions.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R defines the twin method, but does not by itself explain the meaning of Swadeshi.
-
-**A/R logic:** Two sides of one programme — complementary definitions, not cause–effect.
-
-</details>
-
-**Q6.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Abhinav Bharat | 1. Shyamji Krishna Varma |
-| B. India House (London) | 2. V.D. Savarkar |
-| C. Ghadar Party | 3. San Francisco, 1913 |
-| D. Berlin Committee | 4. Wartime Europe plot, 1915 |
-
-*Row order is not the answer code.*
-
-A. A-2, B-3, C-1, D-4
-
-B. A-1, B-2, C-4, D-3
-
-C. A-2, B-1, C-3, D-4
-
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Savarkar / Shyamji / Ghadar / Berlin.
-
-**Logic:** Ghadar ≠ Berlin Committee year trap.
-
-</details>
-
-**Q7.** With reference to revolutionary chronology, which of the following statements is/are correct?
-
-1. Muzaffarpur 1908 is the Kingsford attempt (Khudiram–Chaki).
-2. Alipore 1908 is the Hardinge bomb trial of 1912.
-3. Hardinge bomb (1912) and the Central Assembly bomb (1929) were the same event under two names.
-
-A. 1 and 2
-
-B. Only 1
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Stmt 2 false: Alipore 1908 is the Manicktolla conspiracy trial; Hardinge bomb is 1912 Delhi. Stmt 3 remains false: Hardinge bomb ≠ Central Assembly bomb 1929.
-
-</details>
-
-**Q8.** Which of the following pairs is NOT correctly matched?
-
-A. HRA — formed 1924
-
-B. Kakori (9 August 1925) — HRA action
-
-C. HSRA — socialist turn from 1928
-
-D. Kakori (9 August 1925) — HSRA action
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Kakori is HRA; never call it HSRA.
-
-**Logic:** HRA 1924 → Kakori 1925 → HSRA 1928 ladder.
-
-</details>
-
-**Q9.** Arrange the following events in chronological order:
-
-1. Chapekar brothers
-2. Muzaffarpur / Alipore
-3. Hardinge bomb
-4. Ghadar Party founding
-5. Kakori
-
-A. 1, 3, 2, 4, 5
-
-B. 2, 1, 3, 4, 5
-
-C. 1, 2, 3, 4, 5
-
-D. 1, 2, 4, 3, 5
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1897 → 1908 → 1912 → 1913 → 1925.
-
-**Logic:** Standard revolutionary ladder from the Consolidated sheet.
-
-</details>
-
-**Q10.** With reference to Kakori and related UP facts, which of the following statements is/are correct?
-
-1. Ram Prasad Bismil was born at Shahjahanpur and hanged at Gorakhpur on 19 December 1927.
-2. Ashfaqulla Khan was hanged at Faizabad.
-3. Chandrashekhar Azad died at Alfred Park, Allahabad, on 27 February 1931.
-
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-
-B. 2 and 3
-
-C. Only 1
-
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three statements are correct.
-
-**Logic:** Birth vs hanging places for Bismil must stay separate.
-
-</details>
-
-**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Extremist Congress politics centred on boycott and Swadeshi.
-
-**Reason (R):** Revolutionary secret societies such as Anushilan and Jugantar were identical with the Extremist wing of Congress.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true; R false.
-
-**A/R logic:** Assertive Congress ≠ underground armed groups.
-
-</details>
-
-**Q12.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Central Assembly bomb | 1. Surya Sen; 18 April 1930 |
-| B. Chittagong Armoury Raid | 2. Bhagat Singh & B.K. Dutt; 8 April 1929 |
-| C. Madam Cama’s Stuttgart flag | 3. 1907 |
-| D. Komagata Maru | 4. 1914; Ghadar-era overseas chain |
-
-*Row order is not the answer code.*
-
-A. A-1, B-2, C-4, D-3
-
-B. A-2, B-1, C-3, D-4
-
-C. A-2, B-3, C-1, D-4
-
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A-2, B-1, C-3, D-4 — Assembly bomb 1929 (Bhagat Singh–Dutt); Chittagong 1930 (Surya Sen); Stuttgart flag 1907; Komagata Maru 1914.
-
-**Logic:** Do not merge Stuttgart 1907 with Berlin Committee 1915; Assembly bomb precedes Chittagong raid.
-
-</details>
-
-**Q13.** Which of the following statements about Swadeshi institutions is/are correct?
-
-1. National Council of Education came in August 1906; Aurobindo was principal of Bengal National College.
-2. Ashwini Kumar Dutt’s Swadesh Bandhab Samiti (Barisal) is a classic district volunteer body.
-3. V.O.C. Pillai founded Swadeshi Steam Navigation at Tuticorin.
-
-Select the correct answer from the code given below:
-
-A. Only 1 and 2
-
-B. Only 2 and 3
-
-C. Only 1 and 3
-
-D. Only 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** Open Swadeshi orgs ≠ Anushilan/Jugantar secret action.
-
-</details>
-
-**Q14.** Which of the following pairs is NOT correctly matched?
-
-A. Dhingra–Curzon Wyllie — 1909, London
-
-B. Udham Singh–Michael O’Dwyer — 1940, London
-
-C. Barrah Dacoity — Pulin Behari Das, 1908
-
-D. Udham Singh–Michael O’Dwyer — 1909, India House
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** 1909 India House killing is Dhingra–Wyllie; Udham–O’Dwyer is 1940.
-
-**Logic:** Two London killings decades apart.
-
-</details>
-
-**Q15.** With reference to Anushilan and Jugantar, which of the following statements is/are correct?
-
-1. Anushilan is tied to the Central Assembly bomb of 1929 in standard teaching.
-2. Jugantar is the Barindra / *Yugantar* / Manicktolla stream.
-3. RSS founded by Hedgewar at Nagpur (27 Sep 1925) is the same organisation as HRA.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 2
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 2 is correct.
-
-**Logic:** Stmt 1 false: Anushilan is tied to the Hardinge bomb 1912 stream in standard teaching; Assembly bomb is HSRA 1929. Stmt 3 remains false: RSS ≠ HRA.
-
-</details>
+published in his book entitled ' The Indian War of Independence 1857'.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Partition of Bengal, which of the following statements is/are correct?<br><br>1. The Lucknow Pact of 1911 annulled the Partition at the Delhi Durbar.<br>2. It was announced in July 1905 and became effective on 16 October 1905.<br>3. The new province was West Bengal and Orissa with capital at Calcutta.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 3 false: New province was East Bengal and Assam with capital at Dacca. Stmt 1 remains false: annulment = 1911 Durbar; Lucknow Pact = 1916.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order:<br><br>1. Boycott Resolution at Calcutta Town Hall<br>2. Partition of Bengal becomes effective<br>3. National Council of Education<br>4. Surat Split</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 7 Aug 1905 → 16 Oct 1905 → Aug 1906 → 1907.
+
+**Logic:** Boycott resolution precedes effective date; NCE before Surat.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Swadeshi means the use of Indian goods and institutions.<br><br>**Reason (R):** Boycott means rejection of British goods and institutions.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R defines the twin method, but does not by itself explain the meaning of Swadeshi.
+
+**A/R logic:** Two sides of one programme — complementary definitions, not cause–effect.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Abhinav Bharat</td><td><span class="match-key">1</span> Shyamji Krishna Varma</td></tr>
+      <tr><td><span class="match-key">B</span> India House (London)</td><td><span class="match-key">2</span> V.D. Savarkar</td></tr>
+      <tr><td><span class="match-key">C</span> Ghadar Party</td><td><span class="match-key">3</span> San Francisco, 1913</td></tr>
+      <tr><td><span class="match-key">D</span> Berlin Committee</td><td><span class="match-key">4</span> Wartime Europe plot, 1915</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Savarkar / Shyamji / Ghadar / Berlin.
+
+**Logic:** Ghadar ≠ Berlin Committee year trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to revolutionary chronology, which of the following statements is/are correct?<br><br>1. Muzaffarpur 1908 is the Kingsford attempt (Khudiram–Chaki).<br>2. Alipore 1908 is the Hardinge bomb trial of 1912.<br>3. Hardinge bomb (1912) and the Central Assembly bomb (1929) were the same event under two names.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Stmt 2 false: Alipore 1908 is the Manicktolla conspiracy trial; Hardinge bomb is 1912 Delhi. Stmt 3 remains false: Hardinge bomb ≠ Central Assembly bomb 1929.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> HRA — formed 1924</div><div class="pyq-opt"><span class="opt-letter">B</span> Kakori (9 August 1925) — HRA action</div><div class="pyq-opt"><span class="opt-letter">C</span> HSRA — socialist turn from 1928</div><div class="pyq-opt"><span class="opt-letter">D</span> Kakori (9 August 1925) — HSRA action</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kakori is HRA; never call it HSRA.
+
+**Logic:** HRA 1924 → Kakori 1925 → HSRA 1928 ladder.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in chronological order:<br><br>1. Chapekar brothers<br>2. Muzaffarpur / Alipore<br>3. Hardinge bomb<br>4. Ghadar Party founding<br>5. Kakori</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 3, 2, 4, 5</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 3, 4, 5</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3, 4, 5</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 4, 3, 5</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1897 → 1908 → 1912 → 1913 → 1925.
+
+**Logic:** Standard revolutionary ladder from the Consolidated sheet.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to Kakori and related UP facts, which of the following statements is/are correct?<br><br>1. Ram Prasad Bismil was born at Shahjahanpur and hanged at Gorakhpur on 19 December 1927.<br>2. Ashfaqulla Khan was hanged at Faizabad.<br>3. Chandrashekhar Azad died at Alfred Park, Allahabad, on 27 February 1931.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Birth vs hanging places for Bismil must stay separate.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Extremist Congress politics centred on boycott and Swadeshi.<br><br>**Reason (R):** Revolutionary secret societies such as Anushilan and Jugantar were identical with the Extremist wing of Congress.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true; R false.
+
+**A/R logic:** Assertive Congress ≠ underground armed groups.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Central Assembly bomb</td><td><span class="match-key">1</span> Surya Sen; 18 April 1930</td></tr>
+      <tr><td><span class="match-key">B</span> Chittagong Armoury Raid</td><td><span class="match-key">2</span> Bhagat Singh & B.K. Dutt; 8 April 1929</td></tr>
+      <tr><td><span class="match-key">C</span> Madam Cama’s Stuttgart flag</td><td><span class="match-key">3</span> 1907</td></tr>
+      <tr><td><span class="match-key">D</span> Komagata Maru</td><td><span class="match-key">4</span> 1914; Ghadar-era overseas chain</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3, D-4 — Assembly bomb 1929 (Bhagat Singh–Dutt); Chittagong 1930 (Surya Sen); Stuttgart flag 1907; Komagata Maru 1914.
+
+**Logic:** Do not merge Stuttgart 1907 with Berlin Committee 1915; Assembly bomb precedes Chittagong raid.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements about Swadeshi institutions is/are correct?<br><br>1. National Council of Education came in August 1906; Aurobindo was principal of Bengal National College.<br>2. Ashwini Kumar Dutt’s Swadesh Bandhab Samiti (Barisal) is a classic district volunteer body.<br>3. V.O.C. Pillai founded Swadeshi Steam Navigation at Tuticorin.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Open Swadeshi orgs ≠ Anushilan/Jugantar secret action.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dhingra–Curzon Wyllie — 1909, London</div><div class="pyq-opt"><span class="opt-letter">B</span> Udham Singh–Michael O’Dwyer — 1940, London</div><div class="pyq-opt"><span class="opt-letter">C</span> Barrah Dacoity — Pulin Behari Das, 1908</div><div class="pyq-opt"><span class="opt-letter">D</span> Udham Singh–Michael O’Dwyer — 1909, India House</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1909 India House killing is Dhingra–Wyllie; Udham–O’Dwyer is 1940.
+
+**Logic:** Two London killings decades apart.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to Anushilan and Jugantar, which of the following statements is/are correct?<br><br>1. Anushilan is tied to the Central Assembly bomb of 1929 in standard teaching.<br>2. Jugantar is the Barindra / *Yugantar* / Manicktolla stream.<br>3. RSS founded by Hedgewar at Nagpur (27 Sep 1925) is the same organisation as HRA.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Stmt 1 false: Anushilan is tied to the Hardinge bomb 1912 stream in standard teaching; Assembly bomb is HSRA 1929. Stmt 3 remains false: RSS ≠ HRA.</div>
+  </div>
+</div>

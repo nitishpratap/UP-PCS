@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Census and Urbanisation Topic 7 — World Population and Demographic Miscellaneous</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2026** | **Digital Census Architecture & Self-Enumeration Portal** — Office of RGCCI preparing first fully digital, geo-referenced national census with mobile app enumeration | Next decennial census enumeration methodology |
-| **2023** | **Bihar Caste-Based Survey (बिहार जाति गणना)** — Published detailed headcount showing EBC (36%), OBC (27.1%), SC (19.7%), ST (1.7%), General (15.5%) | First published state caste demographic survey since 1931 |
-| **2022–2023** | **UN World Population Prospects (WPP 2022/2023)** — Formally recognised India overtaking China as the most populous nation with ~142.86 Crore population | Global demographic rank shifts |
-| **2021** | **National Family Health Survey (NFHS-5)** — National TFR declined to **2.0** (below replacement level 2.1); UP TFR recorded at **2.35** (down from 2.74 in NFHS-4) | Key fertility & vital statistics benchmark |
-| **2020** | **Sample Registration System (SRS) Statistical Report** — National IMR declined to **28 per 1,000 live births**; UP IMR dropped to **38** | Annual vital statistics tracking |
-| **Rolling** | **Census 2011 Statutory Baseline** — Remains the binding official reference benchmark for all UPPSC/UKPCS examination questions until Census 2021/2026 notification | Core exam master data baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Global human population officially surpassed **8 Billion** on **15 November 2022** (designated by the UN as the "Day of 8 Billion").
@@ -138,21 +127,6 @@ hide:
 
 ---
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **World Population Day**: **11 July** (Commemorates 5 Billion in 1987) | **World Health Day**: **7 April** (Commemorates WHO founding 1948) | **Trap**: Highly tested date pair. 11 July is Population Day; 7 April is Health Day. |
-| **National Youth Day (India)**: **12 January** (Swami Vivekananda) | **International Youth Day**: **12 August** (United Nations) | **Trap**: Note the difference: 12 January is National; 12 August is International. |
-| **National Consumer Day (India)**: **24 December** (Presidential assent to CPA 1986) | **World Consumer Rights Day**: **15 March** (JFK historic address) | **Trap**: 24 December is National Consumer Day; 15 March is World Consumer Rights Day. |
-| **1974 Bucharest Conference**: "Development is the best contraceptive" | **1994 Cairo Conference (ICPD)**: Rights-based reproductive health & gender equality | **Trap**: Bucharest 1974 focused on macro development; Cairo 1994 transformed policy into individual reproductive rights. |
-| **UNFPA**: Publishes *State of World Population (SWOP)* report | **UN Population Division (UN DESA)**: Publishes *World Population Prospects (WPP)* | **Trap**: SWOP = UNFPA; WPP = UN DESA Population Division. |
-| **Most Populous Country**: **India (~1.435 Billion)** | **Second Most Populous Country**: **China (~1.419 Billion)** | **Trap**: India officially overtook China in 2023. Any outdated question listing China as #1 is obsolete. |
-| **Most Densely Populated Sovereign State**: **Monaco (~26,000 / km²)** | **Most Densely Populated Major Country (>10M)**: **Bangladesh (~1,160 / km²)** | **Trap**: Monaco is a city-state; Bangladesh is the most densely populated large nation. |
-| **Least Densely Populated Country**: **Mongolia (~2.1 / km²)** | **Least Densely Populated Island Territory**: **Greenland (0.03 / km²)** | **Trap**: Mongolia is the least dense sovereign country; Greenland is an autonomous territory. |
-| **IIPS (International Institute for Population Sciences)**: **Mumbai** | **NIMS (National Institute of Medical Statistics)**: **New Delhi** | **Trap**: IIPS is located in Deonar, Mumbai; NIMS (ICMR) is in New Delhi. |
-| **UN-Habitat Headquarters**: **Nairobi, Kenya** | **UNFPA Headquarters**: **New York, USA** | **Trap**: UN-Habitat is in Nairobi (along with UNEP); UNFPA and UNICEF are in New York. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **Top 5 Most Populous Countries (2024)**: **I-C-U-I-P** (India > China > USA > Indonesia > Pakistan)
@@ -161,235 +135,244 @@ hide:
 - **World Population Day**: Observed annually on **11 July** (commemorating Day of 5 Billion in 1987)
 - **Continents by Population Share**: **Asia (~60%) > Africa (~18%) > Europe (~9.5%) > Latin America (~8%) > North America (~4.7%) > Oceania (<1%)**.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which among the following organisations released the World Population Report, 2021?
-A. International Monetary Fund
-B. United Nations Population Fund
-C. World Health Organisation
-D. United Nations Development Programme
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches United Nations Population Fund.
-
-**Ans: B.** United Nations Population Fund
-</details>
-
-**Q2.**
-World Population Day is observed on
-A. 11 July
-B. 8 May
-C. 5 June
-D. 16 October
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Commemorates the Day of Five Billion (1987).
-
-**Ans: A.** 11 July.
-
-</details>
-
-**Q3.**
-Assertion (A): India’s success is critical for the global success of Sustainable Development Goals.
-Reason (R): India accounts for nearly one-sixth of the total world population.
-A. Both A and R true; R not correct explanation of A
-B. A false, R true
-C. A true, R false
-D. Both true and R explains A
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** India’s demographic weight makes SDG averages globally sensitive to Indian outcomes.
-
-**Ans: D.** Both true and R explains A (large population share).
-
-</details>
-
-**Q4.**
-Which continent has the highest population?
-A. Africa
-B. Europe
-C. Asia
-D. North America
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Asia.
-
-**Ans: C.** Asia
-</details>
-
-**Q5.**
-The statement ‘Development is the best contraceptive’ is associated with which conference spirit?
-A. Bucharest 1974 debates / later Cairo ICPD framing
-B. Bretton Woods
-C. Kyoto only
-D. Antarctic Treaty
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ICPD Cairo 1994 shifted to reproductive rights and development approach.
-
-**Ans: A.** Population–development linkage from 1970s–90s UN population conferences.
-
-</details>
-
-**Q6.**
-India is regarded as a country with demographic dividend due to high population in which age group?
-A. Below 15 years
-B. 15–64 years
-C. Above 65 years
-D. Total population alone
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same stem across UPSC and WBCS — age band is the key.
-
-**Ans: B.** 15–64 working-age share.
-
-</details>
-
-**Q7.**
-In the context of any country, which one of the following would be considered as part of its social capital?
-A. The proportion of literates in the population
-B. The stock of its buildings, other infrastructure and machines
-C. The size of population in the working age group
-D. The level of mutual trust and harmony in the society
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Literacy/working age are human capital/demography — not social capital.
-
-**Ans: D.** Mutual trust and harmony.
-
-</details>
-
-**Q8.**
-Human capital formation as a concept is better explained in terms of a process which enables:
-1. Individuals of a country to accumulate more capital.
-2. Increasing the knowledge, skills level and capacities of the people of the country.
-3. Accumulation of tangible wealth.
-4. Accumulation of intangible wealth.
-Which are correct?
-A. 1 and 2
-B. 2 only
-C. 2 and 4
-D. 1, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Human capital = knowledge/skills + intangible wealth — not physical capital stock.
-
-**Ans: C.** 2 and 4.
-
-</details>
-
-**Q9.**
-Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India:
-1. PVTGs reside in 18 States and one Union Territory.
-2. A stagnant or declining population is one of the criteria for determining PVTG status.
-3. There are 95 PVTGs officially notified in the country so far.
-4. Irular and Konda Reddi tribes are included in the list of PVTGs.
-Which are correct?
-A. 1, 2 and 3
-B. 2, 3 and 4
-C. 1, 2 and 4
-D. 1, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement 3 is wrong — notified PVTGs are 75, not 95.
-
-**Ans: C.** 1, 2 and 4.
-
-</details>
-
-**Q10.**
-'World Population Day' is observed on which date every year?
-A. 11 June
-B. 11 July
-C. 5 June
-D. 11 August
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** World Population Day is observed on **11 July** since 1989 (UNFPA initiative), marking the symbolic date when world population reached 5 billion on 11 July 1987.
-
-**Ans: B.** 11 July.
-
-</details>
-
-**Q11.**
-The world's population reached 8 billion in approximately which year?
-A. 2019
-B. 2020
-C. 2022
-D. 2025
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 2022.
-
-**Ans: C.** 2022
-</details>
-
-**Q12.**
-The Human Development Index (HDI) is published by which international organization?
-A. World Bank
-B. IMF
-C. UNFPA
-D. UNDP
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches UNDP.
-
-**Ans: D.** UNDP
-</details>
-
-**Q13.**
-India became the world's most populous country overtaking China in approximately which year?
-A. 2021
-B. 2022
-C. 2023
-D. 2025
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 2023.
-
-**Ans: C.** 2023
-</details>
-
-**Q14.**
-The 'Gender Inequality Index (GII)' is published by which body?
-A. UNFPA
-B. World Bank
-C. UNDP
-D. UN Women
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches UNDP.
-
-**Ans: C.** UNDP
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which among the following organisations released the World Population Report, 2021?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> International Monetary Fund</div><div class="pyq-opt"><span class="opt-letter">B</span> United Nations Population Fund</div><div class="pyq-opt"><span class="opt-letter">C</span> World Health Organisation</div><div class="pyq-opt"><span class="opt-letter">D</span> United Nations Development Programme</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches United Nations Population Fund.
+
+**Ans: B.** United Nations Population Fund</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">World Population Day is observed on</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 11 July</div><div class="pyq-opt"><span class="opt-letter">B</span> 8 May</div><div class="pyq-opt"><span class="opt-letter">C</span> 5 June</div><div class="pyq-opt"><span class="opt-letter">D</span> 16 October</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Commemorates the Day of Five Billion (1987).
+
+**Ans: A.** 11 July.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): India’s success is critical for the global success of Sustainable Development Goals.<br>Reason (R): India accounts for nearly one-sixth of the total world population.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both A and R true; R not correct explanation of A</div><div class="pyq-opt"><span class="opt-letter">B</span> A false, R true</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both true and R explains A</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** India’s demographic weight makes SDG averages globally sensitive to Indian outcomes.
+
+**Ans: D.** Both true and R explains A (large population share).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which continent has the highest population?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Africa</div><div class="pyq-opt"><span class="opt-letter">B</span> Europe</div><div class="pyq-opt"><span class="opt-letter">C</span> Asia</div><div class="pyq-opt"><span class="opt-letter">D</span> North America</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Asia.
+
+**Ans: C.** Asia</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The statement ‘Development is the best contraceptive’ is associated with which conference spirit?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bucharest 1974 debates / later Cairo ICPD framing</div><div class="pyq-opt"><span class="opt-letter">B</span> Bretton Woods</div><div class="pyq-opt"><span class="opt-letter">C</span> Kyoto only</div><div class="pyq-opt"><span class="opt-letter">D</span> Antarctic Treaty</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** ICPD Cairo 1994 shifted to reproductive rights and development approach.
+
+**Ans: A.** Population–development linkage from 1970s–90s UN population conferences.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">India is regarded as a country with demographic dividend due to high population in which age group?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Below 15 years</div><div class="pyq-opt"><span class="opt-letter">B</span> 15–64 years</div><div class="pyq-opt"><span class="opt-letter">C</span> Above 65 years</div><div class="pyq-opt"><span class="opt-letter">D</span> Total population alone</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Same stem across UPSC and WBCS — age band is the key.
+
+**Ans: B.** 15–64 working-age share.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In the context of any country, which one of the following would be considered as part of its social capital?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The proportion of literates in the population</div><div class="pyq-opt"><span class="opt-letter">B</span> The stock of its buildings, other infrastructure and machines</div><div class="pyq-opt"><span class="opt-letter">C</span> The size of population in the working age group</div><div class="pyq-opt"><span class="opt-letter">D</span> The level of mutual trust and harmony in the society</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Literacy/working age are human capital/demography — not social capital.
+
+**Ans: D.** Mutual trust and harmony.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Human capital formation as a concept is better explained in terms of a process which enables:<br>1. Individuals of a country to accumulate more capital.<br>2. Increasing the knowledge, skills level and capacities of the people of the country.<br>3. Accumulation of tangible wealth.<br>4. Accumulation of intangible wealth.<br>Which are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Human capital = knowledge/skills + intangible wealth — not physical capital stock.
+
+**Ans: C.** 2 and 4.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India:<br>1. PVTGs reside in 18 States and one Union Territory.<br>2. A stagnant or declining population is one of the criteria for determining PVTG status.<br>3. There are 95 PVTGs officially notified in the country so far.<br>4. Irular and Konda Reddi tribes are included in the list of PVTGs.<br>Which are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statement 3 is wrong — notified PVTGs are 75, not 95.
+
+**Ans: C.** 1, 2 and 4.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">'World Population Day' is observed on which date every year?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 11 June</div><div class="pyq-opt"><span class="opt-letter">B</span> 11 July</div><div class="pyq-opt"><span class="opt-letter">C</span> 5 June</div><div class="pyq-opt"><span class="opt-letter">D</span> 11 August</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** World Population Day is observed on **11 July** since 1989 (UNFPA initiative), marking the symbolic date when world population reached 5 billion on 11 July 1987.
+
+**Ans: B.** 11 July.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The world's population reached 8 billion in approximately which year?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2019</div><div class="pyq-opt"><span class="opt-letter">B</span> 2020</div><div class="pyq-opt"><span class="opt-letter">C</span> 2022</div><div class="pyq-opt"><span class="opt-letter">D</span> 2025</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 2022.
+
+**Ans: C.** 2022</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">The Human Development Index (HDI) is published by which international organization?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> World Bank</div><div class="pyq-opt"><span class="opt-letter">B</span> IMF</div><div class="pyq-opt"><span class="opt-letter">C</span> UNFPA</div><div class="pyq-opt"><span class="opt-letter">D</span> UNDP</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches UNDP.
+
+**Ans: D.** UNDP</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">India became the world's most populous country overtaking China in approximately which year?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2021</div><div class="pyq-opt"><span class="opt-letter">B</span> 2022</div><div class="pyq-opt"><span class="opt-letter">C</span> 2023</div><div class="pyq-opt"><span class="opt-letter">D</span> 2025</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 2023.
+
+**Ans: C.** 2023</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The 'Gender Inequality Index (GII)' is published by which body?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> UNFPA</div><div class="pyq-opt"><span class="opt-letter">B</span> World Bank</div><div class="pyq-opt"><span class="opt-letter">C</span> UNDP</div><div class="pyq-opt"><span class="opt-letter">D</span> UN Women</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches UNDP.
+
+**Ans: C.** UNDP</div>
+  </div>
+</div>

@@ -164,21 +164,6 @@ hide:
 | **Prof. M.S. Swaminathan Committee (NCF)** | **2004 (5 Reports, 2004–06)** | National Commission on Farmers | Recommended that MSP must be at least **Cost C2 + 50%**, asset protection, and farm credit interest rate cap at 4%. |
 | **Dr. Ashok Dalwai Committee** | **2016 (Report 2018)** | Doubling Farmers' Income by 2022 | Recommended shift from "production-centric" to "income-centric" agriculture, promoting FPOs, secondary agri, e-NAM. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair (A vs B) | Correct Feature / Institution | Trap to avoid | Hindi keyword |
-| :--- | :--- | :--- | :--- |
-| **Marginal Holding vs Small Holding** | **Marginal:** Less than 1.00 ha (68.5% holdings).<br>**Small:** 1.00 to 2.00 ha (17.7% holdings). | Do NOT call 1–2 ha marginal; SMFs together make **86.2%**. | सीमांत (<1 ha) / लघु (1-2 ha) |
-| **Cost A2+FL vs Cost C2** | **A2+FL:** Paid expenses + family labor value (Govt 1.5x formula).<br>**C2:** Comprehensive cost (+ land rent & interest on capital). | Swaminathan Commission recommended C2 + 50%, NOT A2+FL. | A2+FL (सरकारी आधार) / C2 (स्वामीनाथन सिफारिश) |
-| **CACP vs CCEA** | **CACP:** *Recommends* MSP (Advisory body, 1965).<br>**CCEA:** Apex body that *approves and announces* MSP (Chaired by PM). | Do NOT mark CACP as the final approving body for MSP. | CACP (सलाहकार) / CCEA (अंतिम निर्णय) |
-| **MSP vs FRP** | **MSP:** Announced for 22 mandated agricultural crops.<br>**FRP:** Statutory price fixed under Essential Commodities Act for **Sugarcane**. | FRP is unique to Sugarcane; grains/pulses have MSP. | MSP (22 फसलें) / FRP (गन्ना) |
-| **Urea Subsidy vs NBS** | **Urea:** MRP is statutorily fixed by Govt; difference paid as subsidy.<br>**NBS (2010):** Annual subsidy fixed per kg (N, P, K, S); MRP decontrolled. | Non-urea fertilizers do NOT have statutory MRP control. | यूरिया (नियंत्रित) / NBS (अनियंत्रित MRP) |
-| **NABARD vs RBI in Agri Credit** | **NABARD (1982):** Apex developmental refinancing institution for agriculture.<br>**RBI:** Central monetary regulator fixing PSL norms (18% ANBC). | NABARD does NOT give direct loans to retail individual farmers. | नाबार्ड (पुनर्वित्त) / वाणिज्यिक बैंक (प्रत्यक्ष ऋण) |
-| **e-NAM vs APMC** | **APMC:** Physical state-level agricultural produce market committees.<br>**e-NAM:** Pan-India electronic networking portal aggregating APMCs. | e-NAM does NOT abolish physical mandis; it integrates them digitally. | APMC (भौतिक मंडी) / e-NAM (डिजिटल पोर्टल) |
-| **Amber Box vs Green Box** | **Amber Box:** Trade-distorting subsidies (MSP, input subsidies; capped at 10%).<br>**Green Box:** Non-trade distorting (R&D, disaster relief; allowed without limit). | MSP procurement falls in the Amber Box, NOT the Green Box. | अंबर बॉक्स (व्यापार विकृत) / ग्रीन बॉक्स (स्वीकृत) |
-| **PMKSY Per Drop More Crop vs Har Khet Ko Pani** | **Per Drop More Crop:** Micro-irrigation (Drip & Sprinkler).<br>**Har Khet Ko Pani:** Creating new water sources, repair of water bodies. | Do not confuse micro-irrigation with surface water creation. | प्रति बूंद अधिक फसल (सूक्ष्म सिंचाई) |
-| **Sikkim vs Lakshadweep Organic** | **Sikkim:** First 100% Organic **State** in India/World (2016).<br>**Lakshadweep:** First 100% Organic **Union Territory** (2020). | Watch the State vs Union Territory distinction in questions. | सिक्किम (राज्य) / लक्षद्वीप (UT) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### Key Mnemonics & Cognitive Hooks
@@ -198,253 +183,262 @@ hide:
   - In practice (especially Punjab/Haryana/Western UP), Urea overconsumption skews it to over **8 : 3 : 1**.
   - Urea (46% Nitrogen) is under statutory price control; P & K are under Nutrient Based Subsidy (NBS).
 
-## 🎯 High-Yield PYQ Drill (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-According to the Agricultural Census of India, an operational holding of size less than 1.00 hectare is termed as:
-
-A. Marginal Holding
-B. Small Holding
-C. Semi-Medium Holding
-D. Medium Holding
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Marginal Holding.
-
-**Ans: A.** Marginal is under 1.00 ha; Small is 1–2 ha.
-
-</details>
-
-**Q2.**
-
-The National Bank for Agriculture and Rural Development (NABARD) was established on:
-
-A. 15 August 1980
-B. 12 July 1982
-C. 2 October 1982
-D. 1 January 1985
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 12 July 1982.
-
-**Ans: B.** NABARD = 12 July 1982 on Sivaraman Committee recommendations.
-
-</details>
-
-**Q3.**
-
-The Kisan Credit Card (KCC) scheme was introduced in 1998 on the recommendations of which committee?
-
-A. R.V. Gupta Committee
-B. A.M. Khusro Committee
-C. Y.V. Reddy Committee
-D. C. Rangarajan Committee
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches R.V.
-
-**Ans: A.** R.V.
-</details>
-
-**Q4.**
-
-In the Net Irrigated Area of India, which irrigation source commands the largest percentage share?
-
-A. Canals
-B. Tanks
-C. Tube-wells and Wells
-D. Traditional Water Bodies
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tube-wells and Wells.
-
-**Ans: C.** Tubewells/wells ~62–64%; canals second.
-
-</details>
-
-**Q5.**
-
-Under the Pradhan Mantri Fasal Bima Yojana (PMFBY), what is the uniform premium payable by farmers for Rabi food and oilseed crops?
-
-A. 1.5%
-B. 2.0%
-C. 3.5%
-D. 5.0%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rabi 1.5%; Kharif 2%; commercial/horti 5% — 1.5%
-
-**Ans: A.** 1.5%
-</details>
-
-**Q6.**
-
-Which state in India has the highest average size of operational land holdings according to the Agricultural Census?
-A. Punjab  
-B. Haryana  
-C. Rajasthan  
-D. Nagaland  
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Nagaland has the highest average operational holding size (~5.06 ha) due to customary community land ownership patterns in tribal areas, followed by Punjab (~3.62 ha) and Rajasthan (~2.73 ha).
-
-**Ans: D.** Option D** is correct: — Nagaland.
-
-</details>
-
-**Q7.**
-
-The Rural Infrastructure Development Fund (RIDF) was established within NABARD in which financial year?
-A. 1991–92  
-B. 1995–96  
-C. 1998–99  
-D. 2002–03  
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The RIDF was set up by the Government of India in NABARD in 1995–96 to finance rural infrastructure projects executed by State Governments, funded out of commercial banks' priority sector lending shortfalls.
-
-**Ans: B.** Option B** is correct: — 1995–96.
-
-</details>
-
-**Q8.**
-
-Who among the following is recognized as the pioneer of Zero Budget Natural Farming (ZBNF) in India?
-A. Prof. M.S. Swaminathan  
-B. Subhash Palekar  
-C. Dr. Norman Borlaug  
-D. Sundarlal Bahuguna  
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Padma Shri Subhash Palekar formulated and popularized Zero Budget Natural Farming (ZBNF), establishing its 4 pillars: *Jeevamrutha, Bijamrutha, Acchadana,* and *Whapasa*.
-
-**Ans: B.** Option B** is correct: — Subhash Palekar.
-
-</details>
-
-**Q9.**
-
-In a crop season, if a farmer grows Rice, Maize, and Jute, in which season are these crops harvested?
-A. March – April  
-B. May – June  
-C. September – October  
-D. December – January  
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Rice, Maize, and Jute are Kharif crops sown in June–July with the arrival of the monsoon and harvested in September–October.
-
-**Ans: C.** Option C** is correct: — September – October.
-
-</details>
-
-**Q10.**
-
-In economics, when surplus laborers are withdrawn from agriculture and total output remains unchanged, the marginal productivity of labor is:
-A. Positive and increasing  
-B. Unity  
-C. Zero or negative  
-D. Infinite  
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Disguised unemployment is characterized by zero (or negative) marginal productivity of labor, meaning surplus workers do not add any net output to the farm.
-
-**Ans: C.** Option C** is correct: — Zero or negative.
-
-</details>
-
-**Q11.**
-
-The First Constitutional Amendment Act, 1951 inserted which schedule to protect early Zamindari Abolition laws?
-A. Seventh Schedule  
-B. Eighth Schedule  
-C. Ninth Schedule  
-D. Tenth Schedule  
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The 1st Constitutional Amendment Act (1951) added Article 31B and the Ninth Schedule to immunize agrarian land reform laws passed by states against fundamental rights challenges.
-
-**Ans: C.** Option C** is correct: — Ninth Schedule.
-
-</details>
-
-**Q12.**
-
-Which one of the following fertilizers has its Maximum Retail Price (MRP) statutorily determined by the Central Government of India?
-A. Di-Ammonium Phosphate (DAP)  
-B. Muriate of Potash (MOP)  
-C. Single Super Phosphate (SSP)  
-D. Urea  
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Urea is the only chemical fertilizer whose MRP is statutorily fixed by the Government of India.
-
-**Ans: D.** Option D** is correct: — Urea.
-
-</details>
-
-**Q13.**
-
-The National Commission on Farmers (NCF, 2004–2006) was chaired by:
-A. Dr. Y.K. Alagh  
-B. Prof. M.S. Swaminathan  
-C. Dr. C. Rangarajan  
-D. B. Sivaraman  
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Option B is correct: — Prof — Prof
-
-**Ans: B.** Prof.
-</details>
-
-**Q14.**
-
-In India, which state was formally declared as the world's first 100% Organic State in 2016?
-A. Kerala  
-B. Uttarakhand  
-C. Sikkim  
-D. Himachal Pradesh  
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sikkim became the world's first 100% organic state in January 2016, winning the UN FAO Future Policy Award in 2018.
-
-**Ans: C.** Option C** is correct: — Sikkim.
-
-</details>
-
-**Q15.**
-
-The apex body that formally approves and announces the Minimum Support Price (MSP) based on CACP recommendations is:
-A. Ministry of Agriculture and Farmers Welfare  
-B. Cabinet Committee on Economic Affairs (CCEA)  
-C. NITI Aayog  
-D. Reserve Bank of India  
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister, is the final decision-making body that approves and announces MSPs.
-
-**Ans: B.** Option B** is correct: — Cabinet Committee on Economic Affairs (CCEA).
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">According to the Agricultural Census of India, an operational holding of size less than 1.00 hectare is termed as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Marginal Holding</div><div class="pyq-opt"><span class="opt-letter">B</span> Small Holding</div><div class="pyq-opt"><span class="opt-letter">C</span> Semi-Medium Holding</div><div class="pyq-opt"><span class="opt-letter">D</span> Medium Holding</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Marginal Holding.
+
+**Ans: A.** Marginal is under 1.00 ha; Small is 1–2 ha.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The National Bank for Agriculture and Rural Development (NABARD) was established on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 15 August 1980</div><div class="pyq-opt"><span class="opt-letter">B</span> 12 July 1982</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 October 1982</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 January 1985</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 12 July 1982.
+
+**Ans: B.** NABARD = 12 July 1982 on Sivaraman Committee recommendations.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The Kisan Credit Card (KCC) scheme was introduced in 1998 on the recommendations of which committee?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> R.V. Gupta Committee</div><div class="pyq-opt"><span class="opt-letter">B</span> A.M. Khusro Committee</div><div class="pyq-opt"><span class="opt-letter">C</span> Y.V. Reddy Committee</div><div class="pyq-opt"><span class="opt-letter">D</span> C. Rangarajan Committee</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches R.V.
+
+**Ans: A.** R.V.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">In the Net Irrigated Area of India, which irrigation source commands the largest percentage share?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Canals</div><div class="pyq-opt"><span class="opt-letter">B</span> Tanks</div><div class="pyq-opt"><span class="opt-letter">C</span> Tube-wells and Wells</div><div class="pyq-opt"><span class="opt-letter">D</span> Traditional Water Bodies</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tube-wells and Wells.
+
+**Ans: C.** Tubewells/wells ~62–64%; canals second.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Under the Pradhan Mantri Fasal Bima Yojana (PMFBY), what is the uniform premium payable by farmers for Rabi food and oilseed crops?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1.5%</div><div class="pyq-opt"><span class="opt-letter">B</span> 2.0%</div><div class="pyq-opt"><span class="opt-letter">C</span> 3.5%</div><div class="pyq-opt"><span class="opt-letter">D</span> 5.0%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rabi 1.5%; Kharif 2%; commercial/horti 5% — 1.5%
+
+**Ans: A.** 1.5%</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which state in India has the highest average size of operational land holdings according to the Agricultural Census?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Punjab</div><div class="pyq-opt"><span class="opt-letter">B</span> Haryana</div><div class="pyq-opt"><span class="opt-letter">C</span> Rajasthan</div><div class="pyq-opt"><span class="opt-letter">D</span> Nagaland</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Nagaland has the highest average operational holding size (~5.06 ha) due to customary community land ownership patterns in tribal areas, followed by Punjab (~3.62 ha) and Rajasthan (~2.73 ha).
+
+**Ans: D.** Option D** is correct: — Nagaland.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Rural Infrastructure Development Fund (RIDF) was established within NABARD in which financial year?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1991–92</div><div class="pyq-opt"><span class="opt-letter">B</span> 1995–96</div><div class="pyq-opt"><span class="opt-letter">C</span> 1998–99</div><div class="pyq-opt"><span class="opt-letter">D</span> 2002–03</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The RIDF was set up by the Government of India in NABARD in 1995–96 to finance rural infrastructure projects executed by State Governments, funded out of commercial banks' priority sector lending shortfalls.
+
+**Ans: B.** Option B** is correct: — 1995–96.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Who among the following is recognized as the pioneer of Zero Budget Natural Farming (ZBNF) in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Prof. M.S. Swaminathan</div><div class="pyq-opt"><span class="opt-letter">B</span> Subhash Palekar</div><div class="pyq-opt"><span class="opt-letter">C</span> Dr. Norman Borlaug</div><div class="pyq-opt"><span class="opt-letter">D</span> Sundarlal Bahuguna</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Padma Shri Subhash Palekar formulated and popularized Zero Budget Natural Farming (ZBNF), establishing its 4 pillars: *Jeevamrutha, Bijamrutha, Acchadana,* and *Whapasa*.
+
+**Ans: B.** Option B** is correct: — Subhash Palekar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">In a crop season, if a farmer grows Rice, Maize, and Jute, in which season are these crops harvested?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> March – April</div><div class="pyq-opt"><span class="opt-letter">B</span> May – June</div><div class="pyq-opt"><span class="opt-letter">C</span> September – October</div><div class="pyq-opt"><span class="opt-letter">D</span> December – January</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Rice, Maize, and Jute are Kharif crops sown in June–July with the arrival of the monsoon and harvested in September–October.
+
+**Ans: C.** Option C** is correct: — September – October.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">In economics, when surplus laborers are withdrawn from agriculture and total output remains unchanged, the marginal productivity of labor is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Positive and increasing</div><div class="pyq-opt"><span class="opt-letter">B</span> Unity</div><div class="pyq-opt"><span class="opt-letter">C</span> Zero or negative</div><div class="pyq-opt"><span class="opt-letter">D</span> Infinite</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Disguised unemployment is characterized by zero (or negative) marginal productivity of labor, meaning surplus workers do not add any net output to the farm.
+
+**Ans: C.** Option C** is correct: — Zero or negative.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">The First Constitutional Amendment Act, 1951 inserted which schedule to protect early Zamindari Abolition laws?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Seventh Schedule</div><div class="pyq-opt"><span class="opt-letter">B</span> Eighth Schedule</div><div class="pyq-opt"><span class="opt-letter">C</span> Ninth Schedule</div><div class="pyq-opt"><span class="opt-letter">D</span> Tenth Schedule</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The 1st Constitutional Amendment Act (1951) added Article 31B and the Ninth Schedule to immunize agrarian land reform laws passed by states against fundamental rights challenges.
+
+**Ans: C.** Option C** is correct: — Ninth Schedule.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which one of the following fertilizers has its Maximum Retail Price (MRP) statutorily determined by the Central Government of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Di-Ammonium Phosphate (DAP)</div><div class="pyq-opt"><span class="opt-letter">B</span> Muriate of Potash (MOP)</div><div class="pyq-opt"><span class="opt-letter">C</span> Single Super Phosphate (SSP)</div><div class="pyq-opt"><span class="opt-letter">D</span> Urea</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Urea is the only chemical fertilizer whose MRP is statutorily fixed by the Government of India.
+
+**Ans: D.** Option D** is correct: — Urea.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The National Commission on Farmers (NCF, 2004–2006) was chaired by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dr. Y.K. Alagh</div><div class="pyq-opt"><span class="opt-letter">B</span> Prof. M.S. Swaminathan</div><div class="pyq-opt"><span class="opt-letter">C</span> Dr. C. Rangarajan</div><div class="pyq-opt"><span class="opt-letter">D</span> B. Sivaraman</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Option B is correct: — Prof — Prof
+
+**Ans: B.** Prof.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">In India, which state was formally declared as the world's first 100% Organic State in 2016?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">B</span> Uttarakhand</div><div class="pyq-opt"><span class="opt-letter">C</span> Sikkim</div><div class="pyq-opt"><span class="opt-letter">D</span> Himachal Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Sikkim became the world's first 100% organic state in January 2016, winning the UN FAO Future Policy Award in 2018.
+
+**Ans: C.** Option C** is correct: — Sikkim.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The apex body that formally approves and announces the Minimum Support Price (MSP) based on CACP recommendations is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ministry of Agriculture and Farmers Welfare</div><div class="pyq-opt"><span class="opt-letter">B</span> Cabinet Committee on Economic Affairs (CCEA)</div><div class="pyq-opt"><span class="opt-letter">C</span> NITI Aayog</div><div class="pyq-opt"><span class="opt-letter">D</span> Reserve Bank of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister, is the final decision-making body that approves and announces MSPs.
+
+**Ans: B.** Option B** is correct: — Cabinet Committee on Economic Affairs (CCEA).</div>
+  </div>
+</div>

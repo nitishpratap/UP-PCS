@@ -73,6 +73,17 @@ hide:
 48. **Firoz Shah Tughlaq** was the first Delhi Sultan to levy a dedicated **irrigation cess (हक-ए-शर्ब / Haqq-i-Sharb)** at the rate of **10% (1/10th of crop produce)** on lands irrigated by state canals.
 49. **Sikandar Lodi** founded the city of **Agra in 1504 CE** and shifted the imperial capital there in **1506 CE** to better control the Rajput borderlands and trade routes of the Chambal-Yamuna basin.
 50. **First Battle of Panipat (21 April 1526)** marked the decisive defeat and death of **Ibrahim Lodi** — the only Delhi Sultan to die on the battlefield — ending the Delhi Sultanate and establishing Mughal rule under **Babur**.
+51. **Qutb-ud-din Aibak (1206–1210) - 'Lakh Baksh':** Founder of the Slave / Mamluk Dynasty; former slave of Muhammad Ghori; ruled from Lahore; carried titles *Malik* and *Sipahsalar* (never struck coins or read Khutbah in his own name); famous for excessive generosity as **'Lakh Baksh'** (giver of lakhs); laid foundation of **Qutb Minar** in Delhi (dedicated to Sufi saint Khwaja Qutb-ud-din Bakhtiyar Kaki); built **Quwwat-ul-Islam Mosque** in Delhi and **Adhai Din Ka Jhonpra** in Ajmer; died in 1210 of injuries sustained while playing **Chaugan (Polo)** at Lahore.
+52. **Iltutmish (1211–1236) - Real Founder of Delhi Sultanate:** Secured letter of investiture (*Mansur*) from Abbasid Caliph Al-Mustansir of Baghdad (1229) assuming title of *Sultan-i-Azam*; organized the aristocratic oligarchy of forty Turkish nobles known as **Turkan-i-Chahalgani (The Forty / Chalisa)**; introduced the **Iqta System** (land revenue assignments in lieu of cash salary to officers); introduced the pure Arabic coinage in India: silver coin **Tanka (175 grains)** and copper coin **Jital**; completed construction of Qutb Minar; successfully averted Mongol invasion by politely refusing shelter to Jalal-ud-din Mangbarni (Shah of Khwarizm) chased by Genghis Khan (1221).
+53. **Razia Sultan (1236–1240):** First and only female Muslim monarch of the Delhi Sultanate; daughter of Iltutmish (nominated by him over incompetent sons); abandoned the veil (*purdah*), held open court dressed in male tunic (*qaba*) and hat (*kulah*), and rode elephants; appointed Abyssinian slave **Jamal-ud-din Yaqut** to the high military post of *Amir-i-Akhur* (Master of Royal Stables), provoking conservative Turkish nobles (*The Forty*); married rebellious governor **Malik Ikhtiyar-ud-din Altunia** of Bhatinda; defeated and killed near Kaithal (Haryana) by bandits while fleeing.
+54. **Ghiyas-ud-din Balban (1266–1287) - Blood and Iron Policy:** Smashed the power of the *Turkan-i-Chahalgani*; propounded the divine theory of kingship (*Niyabat-i-Khudai* - Deputy of God on Earth; *Zill-i-Ilahi* - Shadow of God); enforced Persian court etiquettes of **Sijda** (prostration) and **Paibos** (kissing the Sultan's feet); introduced the Persian spring festival of **Nauroz**; organized the imperial spy network (**Barid-i-Mamalik**); created separate military department (**Diwan-i-Arz**) under Imad-ul-Mulk; defended North-West frontier against Mongols by building chain of forts, where his favourite son Prince Muhammad fell fighting in 1285.
+55. **Alauddin Khalji (1296–1316) - Market Regulations & Price Control:** Formulated centralized price control system in Delhi under **Shahna-i-Mandi** (market superintendent) and *Diwan-i-Riyasat*; established 4 separate specialized markets: (1) Grain market (*Mandi*), (2) Cloth and dry fruits market (*Sarai-i-Adl*), (3) Horses, slaves, and cattle market, (4) General merchandise market; enforced draconian punishments for under-weighing (cutting equal weight of flesh from vendor's body); maintained royal grain reserves in state granaries to prevent famine price hikes.
+56. **Alauddin's Military & Revenue Innovations:** First Sultan to maintain a permanent, centralized standing army paid fully in **cash**; introduced system of **Dagh** (branding of army horses to prevent substitution) and **Chehra / Huliya** (descriptive descriptive rolls of soldiers); introduced measurement of land (*Masahat*) based on standard unit *Biswa*; fixed state revenue at **50% of gross agricultural produce**; imposed two new taxes: **Ghari** (house tax) and **Charai** (pasture grazing tax); created revenue department **Diwan-i-Mustakhraj** to collect arrears.
+57. **Malik Kafur's Deccan Campaigns:** Alauddin's military general (a converted Gujarati Hindu eunuch slave purchased at Khambhat for 1,000 dinars - **Hazar Dinari**); led consecutive expeditions subduing: (1) **Yadavas of Devagiri** (King Ramachandra Deva, awarded title *Rai Rayan*); (2) **Kakatiyas of Warangal** (King Prataparudra II surrendered legendary **Koh-i-Noor diamond** to Kafur in 1310); (3) **Hoysalas of Dvarasamudra** (King Veera Ballala III); (4) **Pandyas of Madurai** (Sundara Pandya); built mosque at Rameswaram.
+58. **Muhammad bin Tughlaq (1325–1351) - Five Ambitious Experiments:** Highly educated intellectual yet mercurial visionary; (1) **Taxation in Doab (1326):** Increased land revenue in fertile Ganga-Yamuna Doab during severe drought, precipitating peasant rebellion; (2) **Transfer of Capital (1327):** Shifted capital from Delhi to **Devagiri (renamed Daulatabad)** in Maharashtra to control South India better; forced entire civilian population of Delhi to march 1,500 km; hundreds died on way; experiment abandoned after 2 years; (3) **Introduction of Token Currency (1330):** Issued copper and brass coins on par with silver Tanka; lacked state monopoly on minting, leading to counterfeit coinage in 'every Hindu goldsmith's house' (*Khana-i-Zargar*); cancelled tokens, redeeming all copper coins with pure gold/silver from treasury; (4) **Khurasan Expedition:** Mobilized massive standing army of 370,000 soldiers for 1 year with advance pay, but abandoned scheme; (5) **Qarachil Expedition (Kumaon Himalayas):** Entire army perished in mountainous snow and guerrilla ambushes.
+59. **Ibn Battuta's Travels (1333–1342):** Moroccan globetrotter from Tangier; arrived at Delhi in 1333; Muhammad bin Tughlaq appointed him **Qazi (Chief Judge) of Delhi** for 8 years; sent him as imperial ambassador to Mongol Yuan court in China (1342); authored celebrated Arabic travelogue **Rihla** ('The Travel'); described postal system (*Ulaq* [horse-post] and *Dawa* [foot-post]), Sati rituals, and Indian trade.
+60. **Firoz Shah Tughlaq (1351–1388) - Administrative & Welfare Projects:** Built 5 major **irrigation canal networks** (longest from Yamuna to Hisar, 150 miles); levied water cess **Haqq-i-Sharb (10% of produce)** approved by Ulema; founded 300 new cities: **Fatehabad, Hisar, Firozpur, Jaunpur** (named after cousin Jauna Khan / Muhammad bin Tughlaq), and **Firozabad (Delhi)**; established hospital **Dar-ul-Shifa (Shifakhana)** offering free medicine; created employment bureau and marriage bureau (*Diwan-i-Khairat*); maintained 180,000 slaves managed by separate department **Diwan-i-Bandagan**; first Sultan to impose **Jizya on Brahmins**.
+61. **Timur's Devastating Invasion of India (1398):** Turco-Mongol conqueror Amir Timur (Tamerlane) of Samarkand invaded North India during reign of last Tughlaq Sultan, **Nasir-ud-din Mahmud Shah**; captured and plundered Delhi in December 1398, orchestrating catastrophic slaughter of 100,000 citizens; appointed **Khizr Khan** as his deputy in Multan and Lahore, who founded the **Sayyid Dynasty (1414–1451)**.
 
 ## ⏱️ Timeline / Chronology
 
@@ -170,37 +181,6 @@ hide:
 | **Khuts & Muqaddams** | **Gram** (Village) | Traditional hereditary Hindu village headmen collecting taxes from peasants |
 | **Patwari** | **Gram** (Village) | Traditional village accountant keeping land records and crop registers |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Arabs | Turks | **Qasim 712** Sindh foothold vs Ghazni/Ghori north India | अरब / तुर्क |
-| Ghaznavid | Ghurid | Mahmud raided; Ghori conquered and stayed | गज़नवी / गौर |
-| Firdausi | Firishta | **Shahnama** (Mahmud’s court) vs **Tarikh-i-Firishta** (Bijapur) | फिरदौसी / फरिश्ता |
-| Tarain I | II | **1191** Prithviraj wins; **1192** Ghori wins | तराइन प्रथम / द्वितीय |
-| Naika Devi | Prithviraj | Ghori’s **first India defeat (1178 Abu)** vs Tarain **1191** win | नायका देवी / पृथ्वीराज |
-| Tarain | Chandawar vs Panipat | 1192 Prithviraj; **1194** Jaichand (**Firozabad/Yamuna**); **1526** Ibrahim Lodi | तराइन / चंदावर / पानीपत |
-| Vidyadhar | other Chandelas | Only Chandela who **resisted Mahmud** (**1019–20**) | विद्याधर |
-| Mamluk | Khalji | Turkish slave rulers **1206–1290** vs Turko-Afghan **1290+** | मामलूक / खिलजी |
-| Aibak Lahore | Iltutmish Delhi | Aibak capital **Lahore**; Iltutmish first lasting **Delhi** capital | लाहौर / दिल्ली |
-| Firuz | Ghiyasuddin on Qutub | **Firuz** repaired 4th/added 5th; **Ghiyasuddin Tughlaq** did not build it | कुतुब मीनार |
-| Yalduz/Qabacha | Altunia | Iltutmish rivals vs Razia’s **Bhatinda** rebel | अल्तुनिया |
-| Devgiri | Warangal rulers | **Ramachandra** (Devgiri) vs **Prataparudra** (Warangal) | देवगिरि / वारंगल |
-| Hazar-Dinari | Zafar Khan | **Malik Kafur** vs Mongol-martyr general | हजार दिनारी |
-| Iqta | Khalsa | Assigned revenue to **Muqti** (not direct Sultan deposit) vs **crown** land; **Iltutmish** institutionalised Iqta; **Siyasatnama** = Muqti source | इक्ता / खालसा |
-| Khalsa | Jagir (2025) | Direct Sultan land vs assigned noble land | खालसा / जागीर |
-| Dagh | Chehra | Horse branding vs soldier descriptive roll (Alauddin) | दाग / चेहरा |
-| Sijda | Paibos | Prostration vs kissing feet (Balban rituals) | सिजदा / पैबोस |
-| Barani | Ibn Battuta | Sultanate historian vs Moroccan traveller (**Rihla**) | बरनी / इब्न बतूता |
-| Qutub Minar | Alai Darwaza | Aibak/Iltutmish minar vs **Alauddin** gateway **1311** | क़ुतुब / अलाई दरवाज़ा |
-| Muhammad bin Tughlaq | Firoz Shah | Experiments (Daulatabad, token, Amir-i-Kohi) vs canals, welfare, hereditary iqta | मुहम्मद बिन तुग़लक / फ़िरोज़ शाह |
-| Amir-i-Kohi | Shahna-i-Mandi | Agriculture dept (Muhammad) vs market control (Alauddin) | आमिर-ए-कोही / शहना-ए-मंडी |
-| Haqq-i-Sharb | Ghari/Charai | Firoz irrigation tax vs Alauddin house/grazing taxes | हक़-ए-शर्ब |
-| Gulrukhi | Lakh Baksh | Sikandar Lodi’s pen-name vs Aibak’s generosity title | गुलरुखी |
-| Token Currency (Bronze/Copper) | Tanka & Jital (Silver & Copper standard) | **Muhammad bin Tughlaq (1329–30)** — UPPCS 2008 fact | टोकन मुद्रा |
-| Sikandar Lodi | Ibrahim | **Agra** builder vs **Panipat 1526** last Sultan | सिकंदर / इब्राहिम |
-| chakla | Sarkar | Between Subah and Pargana vs **Mughal** term trap | चकला / सरकार |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Sultanate Dynasties Chronological Order: S–K–T–S–L**
@@ -234,30 +214,23 @@ hide:
    - **Silver Tanka (175 grains)** & **Copper Jital** = Introduced by **Iltutmish** (inscribed with mint town name).
    - **Bahloli Coin** = Heavy copper currency introduced by **Bahlul Lodi**; remained chief medium of exchange till Akbar's reign.
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Arrange the following victories of Alauddin Khalji in correct chronological order.
-
-1. Ranthambore
-2. Jaisalmer
-3. Warangal
-4. Chittor
-
-Select the correct answer from the code given below:
-
-Options:
-A. 1, 2, 3, 4
-B. 2, 1, 4, 3
-C. 2, 1, 3, 4
-D. 1, 2, 4, 3
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (2–1–4–3 / Jaisalmer → Ranthambore → Chittor → Warangal)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Arrange the following victories of Alauddin Khalji in correct chronological order.<br><br>1. Ranthambore<br>2. Jaisalmer<br>3. Warangal<br>4. Chittor<br><br>Select the correct answer from the code given below:<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (2–1–4–3 / Jaisalmer → Ranthambore → Chittor → Warangal)
 
 **Detailed Explanation:**
 The correct chronological order of military expeditions undertaken during the reign of Alauddin Khalji is:
@@ -267,28 +240,22 @@ The correct chronological order of military expeditions undertaken during the re
 4. **3. Warangal (1309–1310 CE):** Southern campaign led by general Malik Kafur against Kakatiya ruler Prataparudra II, who surrendered vast treasures including the Koh-i-Noor diamond.
 
 **Key Exam Takeaway / Trap:**
-- Rajasthan forts (**Ranthambore 1301 → Chittor 1303**) preceded the deep peninsular Deccan campaigns (**Warangal 1309–1310, Dvarasamudra 1311, Madurai 1311**).
+- Rajasthan forts (**Ranthambore 1301 → Chittor 1303**) preceded the deep peninsular Deccan campaigns (**Warangal 1309–1310, Dvarasamudra 1311, Madurai 1311**).</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
-
-Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.
-Reason (R): The Jagirs comprised the land under the direct control of the State.
-
-Select the correct answer from the code given below:
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Assertion A is true, but Reason R is false)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):<br><br>Assertion (A): The territories of the Sultanate could be broadly divided into two parts: the Khalsa and the Jagirs.<br>Reason (R): The Jagirs comprised the land under the direct control of the State.<br><br>Select the correct answer from the code given below:<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Assertion A is true, but Reason R is false)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** Under the Delhi Sultanate agrarian and fiscal framework, crown-controlled territory was divided broadly into two primary categories: **Khalsa** (lands managed directly by the central revenue ministry, whose collections flowed straight into the royal treasury) and **Iqtas / Jagirs** (tracts assigned to military commanders and nobles in lieu of cash salaries).
@@ -296,22 +263,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Key Exam Takeaway / Trap:**
 - *Khalsa* = Crown land under direct royal supervision.
-- *Iqta / Jagir* = Assigned revenue land granted for military service and maintenance.
+- *Iqta / Jagir* = Assigned revenue land granted for military service and maintenance.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Which of the following is **not** correctly matched?
-
-A. Iltutmish — Father of Razia
-B. Shah Turkan — Wife of Iltutmish
-C. Hamida Banu Begum — Wife of Alauddin Khilji
-D. Gulbadan Begum — Daughter of Babur
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Hamida Banu Begum — Wife of Alauddin Khilji is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following is **not** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Iltutmish — Father of Razia</div><div class="pyq-opt"><span class="opt-letter">B</span> Shah Turkan — Wife of Iltutmish</div><div class="pyq-opt"><span class="opt-letter">C</span> Hamida Banu Begum — Wife of Alauddin Khilji</div><div class="pyq-opt"><span class="opt-letter">D</span> Gulbadan Begum — Daughter of Babur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Hamida Banu Begum — Wife of Alauddin Khilji is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair A: Iltutmish — Father of Razia (Correct):** Sultan Shamsuddin Iltutmish explicitly nominated his capable daughter Razia Sultan as his successor to the throne of Delhi.
@@ -320,22 +287,22 @@ D. Gulbadan Begum — Daughter of Babur
 - **Pair D: Gulbadan Begum — Daughter of Babur (Correct):** Gulbadan Begum was Babur's daughter, Humayun's sister, and author of the historical memoir *Humayun-nama*.
 
 **Key Exam Takeaway / Trap:**
-- UPPCS regularly mixes prominent medieval royal women across dynasties: Hamida Banu and Gulbadan are **Mughal**, whereas Shah Turkan and Razia are **Mamluk/Slave Dynasty**.
+- UPPCS regularly mixes prominent medieval royal women across dynasties: Hamida Banu and Gulbadan are **Mughal**, whereas Shah Turkan and Razia are **Mamluk/Slave Dynasty**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
-
-A. Talib Amuli
-B. Mulla Abdul Baqi
-C. Mirza Muhammad Ali
-D. Azizuddin Khan
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **D** (Azizuddin Khan)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Talib Amuli</div><div class="pyq-opt"><span class="opt-letter">B</span> Mulla Abdul Baqi</div><div class="pyq-opt"><span class="opt-letter">C</span> Mirza Muhammad Ali</div><div class="pyq-opt"><span class="opt-letter">D</span> Azizuddin Khan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Azizuddin Khan)
 
 **Detailed Explanation:**
 - During the campaign against **Nagarkot (Kangra)** in **1365 CE**, Sultan **Firoz Shah Tughlaq** captured the historic Jwalamukhi temple library containing approximately 1,300 Sanskrit manuscripts on philosophy, astrology, divination, and music.
@@ -344,31 +311,32 @@ D. Azizuddin Khan
 
 **Key Exam Takeaway / Trap:**
 - The Nagarkot Sanskrit translation (*Dalail-i-Firoz Shahi*) was authored by **Azizuddin Khan**.
-- Do not confuse him with 17th-century Mughal translators or Persian chroniclers like Ziauddin Barani and Shams-i Siraj Afif.
+- Do not confuse him with 17th-century Mughal translators or Persian chroniclers like Ziauddin Barani and Shams-i Siraj Afif.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Match List-I (Building) with List-II (Builder):
-
-| List-I | List-II |
-|--------|---------|
-| A. Sultan Garhi | 1. Alauddin Khilji |
-| B. Red Palace | 2. Qutbuddin Aibak |
-| C. Jamat Khana Masjid | 3. Iltutmish |
-| D. Dhai Din Ka Jhopra | 4. Balban |
-
-*Row order in the table is not the answer code.*
-
-A. 3, 4, 1, 2
-B. 3, 4, 2, 1
-C. 4, 3, 1, 2
-D. 4, 3, 2, 1
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **A** (3–4–1–2 / A-3, B-4, C-1, D-2)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Building) with List-II (Builder):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Sultan Garhi</td><td><span class="match-key">1</span> Alauddin Khilji</td></tr>
+      <tr><td><span class="match-key">B</span> Red Palace</td><td><span class="match-key">2</span> Qutbuddin Aibak</td></tr>
+      <tr><td><span class="match-key">C</span> Jamat Khana Masjid</td><td><span class="match-key">3</span> Iltutmish</td></tr>
+      <tr><td><span class="match-key">D</span> Dhai Din Ka Jhopra</td><td><span class="match-key">4</span> Balban</td></tr>
+  </tbody>
+</table><br>*Row order in the table is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3, 4, 1, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 4, 2, 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4, 3, 1, 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 4, 3, 2, 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (3–4–1–2 / A-3, B-4, C-1, D-2)
 
 **Detailed Explanation:**
 - **A. Sultan Garhi → 3. Iltutmish:** Built in 1231 CE in Delhi for his eldest son Nasiruddin Mahmud; celebrated as the earliest monumental Islamic mausoleum (tomb) built in India.
@@ -378,19 +346,39 @@ D. 4, 3, 2, 1
 
 **Key Exam Takeaway / Trap:**
 - Sultan Garhi (First tomb) = **Iltutmish**.
-- Dhai Din Ka Jhopra is located at **Ajmer**, built by **Qutbuddin Aibak** (not Delhi).
+- Dhai Din Ka Jhopra is located at **Ajmer**, built by **Qutbuddin Aibak** (not Delhi).</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-Match List-I with List-II (Delhi Sultanate administration officers and duties).
-
-Options include: **B. 3-4-1-2** (Diwan-i-Tan→Jagirs/salaries; Mustarfi→audit; Mushrif→records; Vakianvis→firmans)
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (3–4–1–2 / A-3, B-4, C-1, D-2)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists (Delhi Sultanate Administration):</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Officer)</th>
+        <th>List-II (Duty / Responsibility)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Diwan-i-Tan</td><td><span class="match-key">1</span> Looked after accounts / records</td></tr>
+    <tr><td><span class="match-key">B</span> Mustarfi</td><td><span class="match-key">2</span> Maintained imperial firmans / news-writer</td></tr>
+    <tr><td><span class="match-key">C</span> Mushrif</td><td><span class="match-key">3</span> Looked after salaries / Jagirs</td></tr>
+    <tr><td><span class="match-key">D</span> Vakianvis</td><td><span class="match-key">4</span> Auditor General</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-4, C-1, D-2</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-4, B-1, C-2, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-3, C-4, D-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3–4–1–2 / A-3, B-4, C-1, D-2)
 
 **Detailed Explanation:**
 - **A. Diwan-i-Tan → 3. Looked after salaries / Jagirs:** Department responsible for managing cash salaries (*naqd*) and assigning revenue estates (*jagirs/iqtas*) to state servants.
@@ -400,22 +388,22 @@ Options include: **B. 3-4-1-2** (Diwan-i-Tan→Jagirs/salaries; Mustarfi→audit
 
 **Key Exam Takeaway / Trap:**
 - Distinguish the financial duo: **Mushrif** = Accountant / ledger keeper vs. **Mustarfi** = Auditor.
-- *Khareetadar* dispatched royal letters/diplomatic bags, distinct from *Vakianvis* who recorded daily decrees.
+- *Khareetadar* dispatched royal letters/diplomatic bags, distinct from *Vakianvis* who recorded daily decrees.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-Which of the following is NOT correctly matched? (Books / Writers)
-
-A. Tabaqat-i-Nasiri — Minhaj-us-Siraj-Juzjani
-B. Tarikh-i-Firozshahi — Shams-i-Siruj-Alif
-C. Tughlaqnama — Ibn Battuta
-D. Humayunnama — Gulbadan Begam
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Tughlaqnama — Ibn Battuta is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT correctly matched? (Books / Writers)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tabaqat-i-Nasiri — Minhaj-us-Siraj-Juzjani</div><div class="pyq-opt"><span class="opt-letter">B</span> Tarikh-i-Firozshahi — Shams-i-Siruj-Alif</div><div class="pyq-opt"><span class="opt-letter">C</span> Tughlaqnama — Ibn Battuta</div><div class="pyq-opt"><span class="opt-letter">D</span> Humayunnama — Gulbadan Begam</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Tughlaqnama — Ibn Battuta is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair A: Tabaqat-i-Nasiri — Minhaj-us-Siraj-Juzjani (Correct):** Invaluable 13th-century chronicle dedicated to Sultan Nasiruddin Mahmud, detailing the Turkish conquest from Ghori down to 1260 CE.
@@ -426,28 +414,22 @@ D. Humayunnama — Gulbadan Begam
 **Key Exam Takeaway / Trap:**
 - *Tughlaqnama* = **Amir Khusrau**.
 - *Rihla* = **Ibn Battuta**.
-- *Tarikh-i-Firozshahi* was authored independently by **Ziauddin Barani** and **Shams-i-Siraj Afif**.
+- *Tarikh-i-Firozshahi* was authored independently by **Ziauddin Barani** and **Shams-i-Siraj Afif**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.** With reference to early Turkish invasions, which of the following statements is/are correct?
-
-1. This created a Gangetic imperial capital at Delhi immediately.
-2. Muhammad bin Qasim took Sindh in 712 from Dahir.
-3. Chachnama preserves the Sindh narrative with capital at Delhi.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Only Statement 2 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to early Turkish invasions, which of the following statements is/are correct?<br><br>1. This created a Gangetic imperial capital at Delhi immediately.<br>2. Muhammad bin Qasim took Sindh in 712 from Dahir.<br>3. Chachnama preserves the Sindh narrative with capital at Delhi.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Only Statement 2 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is incorrect:** The early Arab conquest under Muhammad bin Qasim (712 CE) established an isolated provincial foothold in **Sindh and Multan**; it did NOT penetrate the Gangetic valley or establish an imperial capital at Delhi (Delhi did not become the capital until Iltutmish in the 13th century).
@@ -457,32 +439,32 @@ D. Only 2
 **Key Exam Takeaway / Trap:**
 - Arab capital of early Sindh was **Aror / Mansurah**, NOT Delhi.
 - First Muslim invader of India = **Muhammad bin Qasim (712 CE)**.
-- First Turkish invader of India = **Sabuktigin (977 CE)**.
+- First Turkish invader of India = **Sabuktigin (977 CE)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.** Match List-I with List-II:
-
-| List-I (Battle) | List-II (Year / result tag) |
-|-----------------|-----------------------------|
-| A. Mount Abu | 1. 1192; Ghori wins |
-| B. First Tarain | 2. 1178; Ghori’s first India defeat |
-| C. Second Tarain | 3. 1191; Prithviraj wins |
-| D. Chandawar | 4. 1194; Jay Chandra killed |
-
-*Row order is not the answer code.*
-
-Code:
-
-A. A-3, B-2, C-4, D-1
-B. A-2, B-3, C-1, D-4
-C. A-2, B-1, C-3, D-4
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (A-2, B-3, C-1, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Battle)</th><th>List-II (Year / result tag)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Mount Abu</td><td><span class="match-key">1</span> 1192; Ghori wins</td></tr>
+      <tr><td><span class="match-key">B</span> First Tarain</td><td><span class="match-key">2</span> 1178; Ghori’s first India defeat</td></tr>
+      <tr><td><span class="match-key">C</span> Second Tarain</td><td><span class="match-key">3</span> 1191; Prithviraj wins</td></tr>
+      <tr><td><span class="match-key">D</span> Chandawar</td><td><span class="match-key">4</span> 1194; Jay Chandra killed</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*<br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-3, B-2, C-4, D-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-3, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (A-2, B-3, C-1, D-4)
 
 **Detailed Explanation:**
 - **A. Mount Abu (Battle of Kayadara) → 2. 1178; Ghori's first India defeat:** Solanki/Chaulukya regent queen **Naika Devi** (mother of Mularaja II) decisively routed Muhammad Ghori at the foot of Mount Abu.
@@ -491,25 +473,22 @@ D. A-1, B-3, C-2, D-4
 - **D. Battle of Chandawar → 4. 1194; Jay Chandra killed:** Muhammad Ghori defeated Gahadavala king **Jayachandra** of Kannauj/Banaras near modern Firozabad/Etawah.
 
 **Key Exam Takeaway / Trap:**
-- Ghori's first defeat in India was NOT at Tarain (1191), but at **Kayadara/Mount Abu in 1178** by **Naika Devi / Solankis of Gujarat**.
+- Ghori's first defeat in India was NOT at Tarain (1191), but at **Kayadara/Mount Abu in 1178** by **Naika Devi / Solankis of Gujarat**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Muhammad Ghori’s pattern differed from Mahmud of Ghazni’s.
-
-Reason (R): Ghori practised territorial conquest with governors, garrisons, and coinage, while Mahmud usually raided and withdrew.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Muhammad Ghori’s pattern differed from Mahmud of Ghazni’s.<br><br>Reason (R): Ghori practised territorial conquest with governors, garrisons, and coinage, while Mahmud usually raided and withdrew.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** The historical objectives and imperial consequences of Muhammad Ghori's invasions differed radically from those of Mahmud of Ghazni.
@@ -518,27 +497,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Key Exam Takeaway / Trap:**
 - Mahmud of Ghazni = Plunder and return.
-- Muhammad Ghori = Territorial conquest and founding of state structures.
+- Muhammad Ghori = Territorial conquest and founding of state structures.</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.** Arrange the Delhi Sultanate dynasties in correct chronological order:
-
-1. Khalji
-2. Slave (Mamluk)
-3. Lodi
-4. Tughlaq
-5. Sayyid
-
-A. 2–4–1–5–3
-B. 2–1–4–5–3
-C. 1–2–4–5–3
-D. 2–1–5–4–3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (2–1–4–5–3 / Slave → Khalji → Tughlaq → Sayyid → Lodi)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the Delhi Sultanate dynasties in correct chronological order:<br><br>1. Khalji<br>2. Slave (Mamluk)<br>3. Lodi<br>4. Tughlaq<br>5. Sayyid</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–4–1–5–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–1–4–5–3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1–2–4–5–3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–1–5–4–3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (2–1–4–5–3 / Slave → Khalji → Tughlaq → Sayyid → Lodi)
 
 **Detailed Explanation:**
 The Delhi Sultanate comprises five successive dynasties:
@@ -551,25 +525,22 @@ The Delhi Sultanate comprises five successive dynasties:
 **Key Exam Takeaway / Trap:**
 - Longest reigning dynasty = **Tughlaq** (94 years).
 - Shortest reigning dynasty = **Khalji** (30 years).
-- First Afghan dynasty = **Lodi**.
+- First Afghan dynasty = **Lodi**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.** Which of the following pairs is/are NOT correctly matched?
-
-1. Qutb-ud-din Aibak — capital at Lahore
-2. Iltutmish — first lasting Delhi capital of the Sultanate
-3. Aibak — title “Sultan” as his regular style from the start
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1 and 2 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only pair 3 is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Qutb-ud-din Aibak — capital at Lahore<br>2. Iltutmish — first lasting Delhi capital of the Sultanate<br>3. Aibak — title “Sultan” as his regular style from the start</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Only pair 3 is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1: Qutb-ud-din Aibak — capital at Lahore (Correct):** Aibak administered the infant Sultanate primarily from Lahore, where he died in 1210 CE playing Chaugan (polo).
@@ -578,25 +549,22 @@ D. 1 and 2 only
 
 **Key Exam Takeaway / Trap:**
 - First de facto ruler = **Qutbuddin Aibak** (ruled as *Malik/Sipahsalar* from Lahore; known as *Lakh Baksh*).
-- First real sovereign Sultan of Delhi = **Iltutmish** (capital Delhi; Caliphal investiture 1229).
+- First real sovereign Sultan of Delhi = **Iltutmish** (capital Delhi; Caliphal investiture 1229).</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.** With reference to Alauddin Khalji’s military reforms, which statements is/are correct?
-
-1. He maintained a cash-paid standing army.
-2. Dagh branded horses.
-3. Chehra / Huliya were soldier descriptive rolls.
-
-A. Only 1
-B. Only 1 and 2
-C. 1, 2 and 3
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Alauddin Khalji’s military reforms, which statements is/are correct?<br><br>1. He maintained a cash-paid standing army.<br>2. Dagh branded horses.<br>3. Chehra / Huliya were soldier descriptive rolls.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Statements 1, 2 and 3 are all correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** Alauddin Khalji was the first Sultan of Delhi to establish a massive, centrally recruited, permanent standing army paid **entirely in cash** (*naqd*) from the royal treasury (234 tankas annually for a horseman, with 78 additional tankas for a two-horse soldier/*do-aspa*).
@@ -606,28 +574,22 @@ D. Only 2 and 3
 **Key Exam Takeaway / Trap:**
 - Dagh = Branding of warhorses.
 - Chehra / Huliya = Descriptive identity rolls of soldiers.
-- Both reforms were later revived on a grand scale by **Sher Shah Suri** and **Akbar**.
+- Both reforms were later revived on a grand scale by **Sher Shah Suri** and **Akbar**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.** Consider the following statements about Muhammad bin Tughlaq:
-
-1. Major experiments included Daulatabad transfer and token currency.
-2. Shahna-i-Mandi was also his market controller.
-3. Amir-i-Kohi was Alauddin Khalji’s market controller (Shahna-i-Mandi).
-
-A. Only 1
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Only Statement 1 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Muhammad bin Tughlaq:<br><br>1. Major experiments included Daulatabad transfer and token currency.<br>2. Shahna-i-Mandi was also his market controller.<br>3. Amir-i-Kohi was Alauddin Khalji’s market controller (Shahna-i-Mandi).</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Only Statement 1 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** Muhammad bin Tughlaq (1325–1351 CE) is famous for ambitious state experiments: transferring the capital to **Daulatabad (Devagiri)** in 1327 to govern the Deccan, introducing a **token currency** of bronze/copper (1329–30), and creating the agriculture department **Diwan-i-Amir-i-Kohi**.
@@ -636,25 +598,22 @@ D. 1 and 3
 
 **Key Exam Takeaway / Trap:**
 - *Shahna-i-Mandi* = **Alauddin Khalji** (Market inspector).
-- *Amir-i-Kohi* = **Muhammad bin Tughlaq** (Agricultural department head).
+- *Amir-i-Kohi* = **Muhammad bin Tughlaq** (Agricultural department head).</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Balban emphasised Blood and Iron and elevated royal dignity.
-
-Reason (R): He used titles such as Zil-i-Ilahi / Niyabat-i-Khudai and rituals like Sijda and Paibos.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Balban emphasised Blood and Iron and elevated royal dignity.<br><br>Reason (R): He used titles such as Zil-i-Ilahi / Niyabat-i-Khudai and rituals like Sijda and Paibos.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Both A and R are true, and R is the correct explanation of A)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** Balban formulated an uncompromising, exalted doctrine of monarchy, governed by the policy of **"Blood and Iron"** (*Khoon aur Loha*). He maintained that only an awe-inspiring, unapproachable monarch could inspire obedience in subjects and subdue unruly nobles.
@@ -662,6 +621,6 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Why (R) explains (A):** The institutionalization of divine titles and humiliating prostration ceremonies was the deliberate psychological instrument through which Balban visually and symbolically elevated the monarchy, directly implementing his "Blood and Iron" prestige policy.
 
 **Key Exam Takeaway / Trap:**
-- Persian rituals **Sijda**, **Paibos**, and the spring festival **Nauroz** were introduced to Delhi by **Balban**.
-
-</details>
+- Persian rituals **Sijda**, **Paibos**, and the spring festival **Nauroz** were introduced to Delhi by **Balban**.</div>
+  </div>
+</div>

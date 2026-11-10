@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 32 — National Parks & Protected Areas (Advanced)</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Uttar Pradesh has **one National Park — Dudhwa (दुधवा)** — in **Lakhimpur Kheri** on the Indo-Nepal Terai (तराई).
@@ -75,22 +64,6 @@ hide:
 49. **Coastal NPs** protect mangrove, estuary, delta (डेल्टा), intertidal, and reef ecosystems; all marine NPs are coastal, but not every coastal NP is a “Marine NP” label.
 50. **Gahirmatha** = marine **sanctuary** (turtle rookery), not NP.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Wildlife Conservation Projects in India
-
-```
-1972 ──► Wildlife (Protection) Act enacted (6 Schedules; rationalized to 4 via 2022 Amendment)
-1973 ──► Project Tiger launched at Corbett National Park (9 initial reserves; now 55 Tiger Reserves)
-1975 ──► Crocodile Conservation Project launched with UNDP/FAO support (Mugger, Gharial, Saltwater)
-1986 ──► Nilgiri Biosphere Reserve designated (India's 1st Biosphere Reserve under UNESCO MAB)
-1992 ──► Project Elephant launched (Centrally Sponsored Scheme for wild elephant habitat & corridors)
-1996 ──► Vulture Conservation Action Plan initiated (banning veterinary diclofenac post-crash)
-2007 ──► Project Snow Leopard launched (covering Ladakh, HP, Uttarakhand, Sikkim, Arunachal)
-2020 ──► Project Dolphin & Project Lion announced on Independence Day
-2022 ──► Project Cheetah launched (intercontinental relocation of African cheetahs to Kuno NP, MP)
-```
-
 ## 📊 Quick Reference Grid
 
 ### UP / India firsts
@@ -108,415 +81,273 @@ hide:
 | Most NPs / most WLS | MP / A&N |
 | First Marine NP (प्रथम समुद्री उद्यान) | Gulf of Kutch **1980** |
 | Gir / Kaziranga | Only Asiatic lions / one-horned rhino classic |
-
-### Table: Complete Master Matrix of 18 Biosphere Reserves in India
-
-| S.No. | Biosphere Reserve | State / UT | Year Notified | UNESCO WNBR Status | Key Fauna / Unique Ecological Feature |
-| :---: | :--- | :--- | :---: | :---: | :--- |
-| 1 | **Nilgiri** | Tamil Nadu, Kerala, Karnataka | 1986 | **Yes (2000 — 1st in India)** | Lion-tailed Macaque, Nilgiri Tahr; tri-state junction |
-| 2 | **Nanda Devi** | Uttarakhand | 1988 | **Yes (2004)** | Snow Leopard, Himalayan Musk Deer, Valley of Flowers |
-| 3 | **Nokrek** | Meghalaya | 1988 | **Yes (2009)** | Red Panda, Asian Elephant, Citrus indica (wild mother orange); Garo Hills |
-| 4 | **Great Nicobar** | Andaman & Nicobar Islands | 1989 | **Yes (2013)** | Saltwater Crocodile, Megapode, Leatherback Turtle |
-| 5 | **Gulf of Mannar** | Tamil Nadu | 1989 | **Yes (2001)** | Dugong (Sea Cow), Coral Reefs, Seagrass beds |
-| 6 | **Manas** | Assam | 1989 | **No** (Removed 2011) | Golden Langur, Pygmy Hog, One-horned Rhino; Bodo territory |
-| 7 | **Sundarbans** | West Bengal | 1989 | **Yes (2001)** | Royal Bengal Tiger, Mangrove swamps, Estuarine crocodile |
-| 8 | **Simlipal** | Odisha | 1994 | **Yes (2009)** | Tiger, Elephant, Gaur; Mayurbhanj elephant reserve |
-| 9 | **Dihang-Dibang** | Arunachal Pradesh | 1998 | **No** | Mishmi Takin, Musk Deer; Eastern Himalayas |
-| 10 | **Pachmarhi** | Madhya Pradesh | 1999 | **Yes (2009)** | Giant Squirrel, Flying Squirrel; Satpura Range |
-| 11 | **Achanakmar-Amarkantak** | Madhya Pradesh, Chhattisgarh | 2005 | **Yes (2012)** | Four-horned Antelope, Wild Dog; Maikal Hills origin of Narmada/Son |
-| 12 | **Great Rann of Kutch** | Gujarat | 2008 | **No** (Largest BR in India) | Indian Wild Ass (Khur), Greater Flamingo; seasonal salt marsh |
-| 13 | **Cold Desert** | Himachal Pradesh | 2009 | **No** | Snow Leopard, Tibetan Gazelle; includes Pin Valley NP & Kibber |
-| 14 | **Khangchendzonga** | Sikkim | 2010 | **Yes (2018)** | Snow Leopard, Red Panda, Musk Deer; Mixed World Heritage Site |
-| 15 | **Agasthyamalai** | Kerala, Tamil Nadu | 2001 | **Yes (2016)** | Nilgiri Tahr, Asian Elephant, Kanikaran indigenous tribe |
-| 16 | **Panna** | Madhya Pradesh | 2011 | **Yes (2020 — Newest in WNBR)** | Bengal Tiger, Chital, Chinkara, Sambhar; Ken river valley |
-| 17 | **Seshachalam Hills** | Andhra Pradesh | 2010 | **No** | Red Sanders (Pterocarpus santalinus), Slender Loris |
-| 18 | **Dibru-Saikhowa** | Assam | 1997 | **No** (Smallest BR in India) | Feral Horses, White-winged Wood Duck; Brahmaputra-Lohit floodplains |
-
-### Table: Key Tiger Reserves of India & Uttar Pradesh
-
-| Tiger Reserve | State | Special Distinction / Status | Core Exam High-Yield Notes |
-| :--- | :--- | :--- | :--- |
-| **Jim Corbett** | Uttarakhand | First National Park (1936) & First Tiger Reserve (1973) | Highest tiger density in India; Ramganga river traverses |
-| **Dudhwa** | Uttar Pradesh | Core of Dudhwa TR (Lakhimpur Kheri; 1987) | Only National Park in UP; Swamp Deer (Barasingha) stronghold |
-| **Pilibhit** | Uttar Pradesh | 45th TR of India (2014) | Won international TX2 award in 2020 for doubling tiger population |
-| **Amangarh** | Uttar Pradesh | Bijnor district (2012) | Buffer zone of Jim Corbett NP left in UP post-bifurcation |
-| **Ranipur** | Uttar Pradesh | Chitrakoot district (2022; 53rd TR of India) | 4th TR of UP; First Tiger Reserve in Bundelkhand region |
-| **Bandipur** | Karnataka | Western Ghats (1973) | Part of Nilgiri Biosphere Reserve; high tiger and elephant density |
-| **Nagarjunsagar Srisailam** | Andhra Pradesh | Largest Tiger Reserve in India by total area | Srisailam reservoir, Krishna river; Chenchu tribe |
-| **Bor** | Maharashtra | Smallest Tiger Reserve in India by area (~138 sq km) | Located in Wardha district |
-| **Ranthambore** | Rajasthan | Sawai Madhopur | Dry deciduous tiger habitat; famous junction of Aravalli & Vindhya |
-| **Kanha** | Madhya Pradesh | Satpura Maikal range | Hardground Barasingha mascot 'Bhoorsingh'; inspired Kipling |
-| **Bandhavgarh** | Madhya Pradesh | Umaria district | Highest density of Bengal tigers in Central India |
-| **Guru Ghasidas & Tamor Pingla** | Chhattisgarh | 54th Tiger Reserve of India (notified 2024) | Inter-state connectivity with Bandhavgarh and Sanjay TRs |
-| **Dholpur-Karauli** | Rajasthan | 55th Tiger Reserve of India (2023) | 5th TR of Rajasthan after Ranthambore, Sariska, Mukundra, Ramgarh |
-
-### Table: Key Ramsar Wetlands of India (Selected High-Yield & State-Wise)
-
-| Ramsar Site | State / UT | Area / Special Significance | Exam Trap & Distinction |
-| :--- | :--- | :--- | :--- |
-| **Chilika Lake** | Odisha | First Ramsar Site in India (1981); Largest coastal lagoon | Joined with Keoladeo Ghana in 1981; removed from Montreux Record post-restoration |
-| **Keoladeo Ghana National Park** | Rajasthan | Wetland & NP; placed on Montreux Record | On Montreux Record due to water shortage & grazing pressure |
-| **Loktak Lake** | Manipur | Freshwater lake with phumdis (floating mats); Keibul Lamjao NP | Only floating national park; home to Sangai (Dancing Deer); on Montreux Record |
-| **Vembanad-Kol Wetland** | Kerala | Largest wetland in India by surface area | Spans Alappuzha, Kottayam, Ernakulam; Nehru Trophy Boat Race held here |
-| **Sundarban Wetland** | West Bengal | Largest Ramsar site by protected area | Mangrove ecosystem; Royal Bengal Tiger; shared with Bangladesh |
-| **Renuka Wetland** | Himachal Pradesh | Smallest Ramsar site in India (~20 ha) | Natural wetland with freshwater springs; sacred lake |
-| **Upper Ganga River** | Uttar Pradesh | First Ramsar site of UP (2005; Brijghat to Narora) | Stretch of 82 km; habitat of Gangetic Dolphin, gharial, turtles |
-| **Bakhira Wildlife Sanctuary** | Uttar Pradesh | 10th Ramsar site of UP (Sant Kabir Nagar, 2022) | Natural freshwater marsh; migratory waterbirds |
-| **Haiderpur Wetland** | Uttar Pradesh | Muzaffarnagar & Bijnor (2021) | Human-made wetland in Hastinapur WLS within Ganga floodplain |
-| **Rudrasagar Lake** | Tripura | Lowland sedimentation reservoir | Located in Northeast (Tripura) — common trap confusing it with UP or MP |
-| **Bhoj Wetland** | Madhya Pradesh | Twin lakes: Upper Lake (Bada Talab) and Lower Lake | Created by Raja Bhoj; human-made wetland |
-| **Asan Barrage** | Uttarakhand | First Ramsar site of Uttarakhand (2020) | Located at confluence of Asan and Yamuna in Dehradun |
-| **Lonar Lake** | Maharashtra | Meteor impact crater lake; hyper-saline | Turned pink due to haloarchaea microbes in 2020 |
-| **Tso Kar Wetland Complex** | Ladakh | High-altitude saline lake (Startsapuk Tso + Tso Kar) | Breeding ground for Black-necked Crane |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **National Park (NP)** | **Wildlife Sanctuary (WLS)** | WPA Sec 35; highest protection, no human settlement/grazing, boundaries altered only by State Legislature on NBWL advice vs WPA Sec 18; regulated grazing/traditional rights allowed | राष्ट्रीय उद्यान (NP) / वन्यजीव अभयारण्य (WLS) |
-| **Community Reserve** | **Conservation Reserve** | Established on private or community-owned lands under WPA Sec 36C vs established on government-owned contiguous lands under WPA Sec 36A | सामुदायिक रिज़र्व / संरक्षण रिज़र्व |
-| **First Marine NP** | **First National Park in India** | **Gulf of Kutch Marine NP** (1982, Gujarat) vs **Hailey / Jim Corbett NP** (1936, Uttarakhand) | प्रथम समुद्री उद्यान (कच्छ की खाड़ी) / प्रथम राष्ट्रीय उद्यान (कॉर्बेट 1936) |
-| **Dudhwa National Park** | **Valmiki National Park** | Only National Park in **Uttar Pradesh** (Lakhimpur Kheri) vs only National Park in **Bihar** (West Champaran) | दुधवा राष्ट्रीय उद्यान (यूपी) / वाल्मीकि राष्ट्रीय उद्यान (बिहार) |
-| **Keibul Lamjao NP** | **Khangchendzonga NP** | World's only floating park on Loktak Lake, Manipur (Sangai deer) vs India's only Mixed World Heritage Site in Sikkim | केइबुल लामजाओ (मणिपुर) / कंचनजंगा (सिक्किम) |
-| **Hemis National Park** | **South Button Island NP** | India's largest National Park (Ladakh, snow leopard) vs India's smallest National Park (Andaman & Nicobar, 0.03 km²) | हेमिस (लद्दाख, सबसे बड़ा) / साउथ बटन (अंडमान, सबसे छोटा) |
-| **Biosphere Reserve Core** | **National Park** | Untouched strictly protected sanctuary within UNESCO MAB zoning vs statutory strictly protected area under Wildlife Protection Act, 1972 | बायोस्फीयर कोर क्षेत्र / राष्ट्रीय उद्यान |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Match List-I with List-II:
-
-| List-I | List-II |
-| --- | --- |
-| A. Dachigam | 1. Madhya Pradesh |
-| B. Keoladeo | 2. Rajasthan |
-| C. Kanha | 3. Kerala |
-| D. Periyar | 4. Jammu and Kashmir |
-
-*Row order is not the answer code.*
-
-A. 4 2 3 1
-
-B. 2 4 1 3
-
-C. 2 4 3 1
-
-D. 4 2 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Four-NP state match — Dachigam J&K, Keoladeo Rajasthan, Kanha MP, Periyar Kerala.
-
-**Ans: D.** Dachigam=J&K (4); Keoladeo=Rajasthan (2); Kanha=MP (1); Periyar=Kerala (3). **Trap:** Swapping Kanha–Periyar states or placing Keoladeo in UP.
-
-</details>
-
-**Q2.**
-
-Which Ramsar sites are **NOT** located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel
-2. Samaspur Bird Sanctuary
-3. Rudrasagar Lake
-4. Sultanpur National Park
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP Ramsar trap — Sarsai Nawar and Samaspur are in UP; Rudrasagar Tripura and Sultanpur Haryana are not.
-
-**Ans: B.** **Sarsai Nawar** and **Samaspur** are in UP. **Rudrasagar = Tripura**; **Sultanpur NP = Haryana**. **Trap:** Assuming every bird wetland in the Gangetic plain is UP.
-
-</details>
-
-**Q3.**
-
-Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
-
-A. Sonbhadra
-
-B. Chandauli
-
-C. Bahraich
-
-D. Lakhimpur Kheri
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Chandraprabha WLS district — Chandauli, among earliest UP sanctuaries (1957).
-
-**Ans: B.** Chandraprabha lies in **Chandauli** district. **Trap:** Sonbhadra (Kaimur forests) or Bahraich (Terai trio with Katarniaghat).
-
-</details>
-
-**Q4.**
-
-In National Parks, genetic diversity is maintained through—
-
-A. In-situ conservation
-
-B. Ex-situ conservation
-
-C. Gene pool
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** National Parks conserve wild populations in natural habitat — in-situ genetic diversity maintenance.
-
-**Ans: A.** NPs are strict in-situ sites under WPA. **Trap:** "Gene pool" label or botanical garden (ex-situ) distractors.
-
-</details>
-
-**Q5.**
-
-Which Wildlife Sanctuary of Uttar Pradesh was established in 1975?
-
-A. Chambal
-
-B. Katarniaghat
-
-C. Raipur
-
-D. Kishanpur
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Katarniaghat establishment year among UP Terai sanctuaries — 1975.
-
-**Ans: B.** **Katarniaghat (Bahraich)** was established **1975** in the Dudhwa Terai Arc. **Trap:** Kishanpur (same corridor, different year) or National Chambal (multi-state).
-
-</details>
-
-**Q6.**
-
-Dudhwa National Park is situated in which district of Uttar Pradesh?
-
-A. Bahraich
-
-B. Lakhimpur Kheri
-
-C. Pilibhit
-
-D. Sitapur
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dudhwa NP district — Lakhimpur Kheri, not Pilibhit or Bahraich.
-
-**Ans: B.** Dudhwa — UP's only full NP — sits in **Lakhimpur Kheri**. **Trap:** Pilibhit Tiger Reserve (adjacent Terai, not Dudhwa district).
-
-</details>
-
-**Q7.**
-
-Keibul Lamjao National Park is located in which lake?
-
-A. Loktak
-
-B. Dal
-
-C. Wular
-
-D. Kolleru
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Keibul Lamjao — world's only floating NP on Loktak, Manipur (phumdis, Sangai deer).
-
-**Ans: A.** Keibul Lamjao floats on **Loktak (Manipur)**. **Trap:** Dal/Wular (J&K) or Kolleru (AP) lake-NP pairs.
-
-</details>
-
-**Q8.**
-
-Match List-I with List-II:
-
-| List-I | List-II |
-| --- | --- |
-| A. Indravati | 1. Jharkhand |
-| B. Mollem | 2. Haryana |
-| C. Kalesar | 3. Goa |
-| D. Betla | 4. Chhattisgarh |
-
-*Row order is not the answer code.*
-
-A. 4 3 2 1
-
-B. 4 2 3 1
-
-C. 4 1 3 2
-
-D. 3 4 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 2020 four-NP state code — Indravati CG, Mollem Goa, Kalesar Haryana, Betla Jharkhand.
-
-**Ans: A.** Indravati=Chhattisgarh (4); Mollem=Goa (3); Kalesar=Haryana (2); Betla=Jharkhand (1). **Trap:** Betla/Betva OCR confusion or Mollem placed in Karnataka.
-
-</details>
-
-**Q9.**
-
-Dachigam National Park is associated with which of the following?
-
-A. Musk Deer
-
-B. Golden Oriole
-
-C. Yellow-throated Marten
-
-D. Hangul or Kashmir Stag
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dachigam flagship species — Hangul (Kashmir stag), not musk deer or Gir lion.
-
-**Ans: D.** **Hangul** is the Kashmir stag of **Dachigam (J&K)**. **Trap:** Musk deer (Himalayan sanctuaries) or Sangai (Loktak).
-
-</details>
-
-**Q10.**
-
-Which of the following pairs is **NOT** correctly matched?
-
-A. Bandipur National Park — Karnataka
-
-B. Manas Wildlife Sanctuary — Assam
-
-C. Periyar Wildlife Sanctuary — Kerala
-
-D. Simlipal National Park — Madhya Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Simlipal state trap — Odisha, not Madhya Pradesh (Bandipur/Kanha are MP/Karnataka).
-
-**Ans: D.** **Simlipal = Odisha**; A, B, C are correct. **Trap:** Simlipal grouped with central-Indian tiger landscapes (MP).
-
-</details>
-
-**Q11.** Which river–park pair is correct?
-
-A. Corbett — Ganga
-
-B. Kaziranga — Manas
-
-C. Silent Valley — Kunthipuzha
-
-D. Corbett — Kaveri
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** River–park, species–park, and state–park mismatches are the densest traps in this chapter.
-
-**Ans: C.** Corbett = Ramganga + Kosi; Kaziranga = Brahmaputra / Diphlu system; Silent Valley = Kunthipuzha.
-
-</details>
-
-**Q12.**?
-
-A. Jim Corbett — Tiger
-
-B. Keoladeo Ghana — Lion
-
-C. Kaziranga — Rhinoceros
-
-D. Periyar — Elephant
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Ghana / Bharatpur is a bird park — not lion habitat. Gir = Asiatic lion.
-
-</details>
-
-**Q13.** Pin Valley National Park is in:
-
-A. Jammu and Kashmir
-
-B. Himachal Pradesh (Lahaul–Spiti)
-
-C. Uttarakhand
-
-D. Sikkim
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Great Himalayan NP = Kullu (HP). Van Vihar = Bhopal (MP).
-
-</details>
-
-**Q14.** Which statements about National Park vs Sanctuary / BR are correct? 
-1. NP boundaries are defined by legislation; alteration needs State Legislature. 
-2. Biosphere Reserves exist only to conserve a few specific species. 
-3. Limited biotic interference may be permitted in a Wildlife Sanctuary.
-
-A. 1 only
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Statement 2 is false — BRs conserve all forms of life with support systems and sustainable use.
-
-</details>
-
-**Q15.** Rajaji National Park is correctly described as:
-
-A. Only in Dehradun district; never a tiger reserve
-
-B. Merger of Rajaji–Motichur–Chilla (1983); TR in 2015; three UK districts
-
-C. Located in Rajasthan like Sariska
-
-D. Same as Corbett Tiger Reserve
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Named after C. Rajagopalachari. Corbett remains India’s first NP (1936).
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Dachigam</td><td><span class="match-key">1</span> Madhya Pradesh</td></tr>
+      <tr><td><span class="match-key">B</span> Keoladeo</td><td><span class="match-key">2</span> Rajasthan</td></tr>
+      <tr><td><span class="match-key">C</span> Kanha</td><td><span class="match-key">3</span> Kerala</td></tr>
+      <tr><td><span class="match-key">D</span> Periyar</td><td><span class="match-key">4</span> Jammu and Kashmir</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 2 3 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 4 1 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 2 1 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Four-NP state match — Dachigam J&K, Keoladeo Rajasthan, Kanha MP, Periyar Kerala.
+
+**Ans: D.** Dachigam=J&K (4); Keoladeo=Rajasthan (2); Kanha=MP (1); Periyar=Kerala (3). **Trap:** Swapping Kanha–Periyar states or placing Keoladeo in UP.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which Ramsar sites are **NOT** located in Uttar Pradesh?<br><br>1. Sarsai Nawar Jheel<br>2. Samaspur Bird Sanctuary<br>3. Rudrasagar Lake<br>4. Sultanpur National Park</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP Ramsar trap — Sarsai Nawar and Samaspur are in UP; Rudrasagar Tripura and Sultanpur Haryana are not.
+
+**Ans: B.** **Sarsai Nawar** and **Samaspur** are in UP. **Rudrasagar = Tripura**; **Sultanpur NP = Haryana**. **Trap:** Assuming every bird wetland in the Gangetic plain is UP.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sonbhadra</div><div class="pyq-opt"><span class="opt-letter">B</span> Chandauli</div><div class="pyq-opt"><span class="opt-letter">C</span> Bahraich</div><div class="pyq-opt"><span class="opt-letter">D</span> Lakhimpur Kheri</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Chandraprabha WLS district — Chandauli, among earliest UP sanctuaries (1957).
+
+**Ans: B.** Chandraprabha lies in **Chandauli** district. **Trap:** Sonbhadra (Kaimur forests) or Bahraich (Terai trio with Katarniaghat).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">In National Parks, genetic diversity is maintained through—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> In-situ conservation</div><div class="pyq-opt"><span class="opt-letter">B</span> Ex-situ conservation</div><div class="pyq-opt"><span class="opt-letter">C</span> Gene pool</div><div class="pyq-opt"><span class="opt-letter">D</span> None</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** National Parks conserve wild populations in natural habitat — in-situ genetic diversity maintenance.
+
+**Ans: A.** NPs are strict in-situ sites under WPA. **Trap:** "Gene pool" label or botanical garden (ex-situ) distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which Wildlife Sanctuary of Uttar Pradesh was established in 1975?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chambal</div><div class="pyq-opt"><span class="opt-letter">B</span> Katarniaghat</div><div class="pyq-opt"><span class="opt-letter">C</span> Raipur</div><div class="pyq-opt"><span class="opt-letter">D</span> Kishanpur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Katarniaghat establishment year among UP Terai sanctuaries — 1975.
+
+**Ans: B.** **Katarniaghat (Bahraich)** was established **1975** in the Dudhwa Terai Arc. **Trap:** Kishanpur (same corridor, different year) or National Chambal (multi-state).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Dudhwa National Park is situated in which district of Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bahraich</div><div class="pyq-opt"><span class="opt-letter">B</span> Lakhimpur Kheri</div><div class="pyq-opt"><span class="opt-letter">C</span> Pilibhit</div><div class="pyq-opt"><span class="opt-letter">D</span> Sitapur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dudhwa NP district — Lakhimpur Kheri, not Pilibhit or Bahraich.
+
+**Ans: B.** Dudhwa — UP's only full NP — sits in **Lakhimpur Kheri**. **Trap:** Pilibhit Tiger Reserve (adjacent Terai, not Dudhwa district).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Keibul Lamjao National Park is located in which lake?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Loktak</div><div class="pyq-opt"><span class="opt-letter">B</span> Dal</div><div class="pyq-opt"><span class="opt-letter">C</span> Wular</div><div class="pyq-opt"><span class="opt-letter">D</span> Kolleru</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Keibul Lamjao — world's only floating NP on Loktak, Manipur (phumdis, Sangai deer).
+
+**Ans: A.** Keibul Lamjao floats on **Loktak (Manipur)**. **Trap:** Dal/Wular (J&K) or Kolleru (AP) lake-NP pairs.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Indravati</td><td><span class="match-key">1</span> Jharkhand</td></tr>
+      <tr><td><span class="match-key">B</span> Mollem</td><td><span class="match-key">2</span> Haryana</td></tr>
+      <tr><td><span class="match-key">C</span> Kalesar</td><td><span class="match-key">3</span> Goa</td></tr>
+      <tr><td><span class="match-key">D</span> Betla</td><td><span class="match-key">4</span> Chhattisgarh</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 3 2 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 4 2 3 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4 1 3 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 4 2 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 2020 four-NP state code — Indravati CG, Mollem Goa, Kalesar Haryana, Betla Jharkhand.
+
+**Ans: A.** Indravati=Chhattisgarh (4); Mollem=Goa (3); Kalesar=Haryana (2); Betla=Jharkhand (1). **Trap:** Betla/Betva OCR confusion or Mollem placed in Karnataka.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Dachigam National Park is associated with which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Musk Deer</div><div class="pyq-opt"><span class="opt-letter">B</span> Golden Oriole</div><div class="pyq-opt"><span class="opt-letter">C</span> Yellow-throated Marten</div><div class="pyq-opt"><span class="opt-letter">D</span> Hangul or Kashmir Stag</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dachigam flagship species — Hangul (Kashmir stag), not musk deer or Gir lion.
+
+**Ans: D.** **Hangul** is the Kashmir stag of **Dachigam (J&K)**. **Trap:** Musk deer (Himalayan sanctuaries) or Sangai (Loktak).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bandipur National Park — Karnataka</div><div class="pyq-opt"><span class="opt-letter">B</span> Manas Wildlife Sanctuary — Assam</div><div class="pyq-opt"><span class="opt-letter">C</span> Periyar Wildlife Sanctuary — Kerala</div><div class="pyq-opt"><span class="opt-letter">D</span> Simlipal National Park — Madhya Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Simlipal state trap — Odisha, not Madhya Pradesh (Bandipur/Kanha are MP/Karnataka).
+
+**Ans: D.** **Simlipal = Odisha**; A, B, C are correct. **Trap:** Simlipal grouped with central-Indian tiger landscapes (MP).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which river–park pair is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Corbett — Ganga</div><div class="pyq-opt"><span class="opt-letter">B</span> Kaziranga — Manas</div><div class="pyq-opt"><span class="opt-letter">C</span> Silent Valley — Kunthipuzha</div><div class="pyq-opt"><span class="opt-letter">D</span> Corbett — Kaveri</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** River–park, species–park, and state–park mismatches are the densest traps in this chapter.
+
+**Ans: C.** Corbett = Ramganga + Kosi; Kaziranga = Brahmaputra / Diphlu system; Silent Valley = Kunthipuzha.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jim Corbett — Tiger</div><div class="pyq-opt"><span class="opt-letter">B</span> Keoladeo Ghana — Lion</div><div class="pyq-opt"><span class="opt-letter">C</span> Kaziranga — Rhinoceros</div><div class="pyq-opt"><span class="opt-letter">D</span> Periyar — Elephant</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ghana / Bharatpur is a bird park — not lion habitat. Gir = Asiatic lion.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Pin Valley National Park is in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Jammu and Kashmir</div><div class="pyq-opt"><span class="opt-letter">B</span> Himachal Pradesh (Lahaul–Spiti)</div><div class="pyq-opt"><span class="opt-letter">C</span> Uttarakhand</div><div class="pyq-opt"><span class="opt-letter">D</span> Sikkim</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Great Himalayan NP = Kullu (HP). Van Vihar = Bhopal (MP).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which statements about National Park vs Sanctuary / BR are correct? <br>1. NP boundaries are defined by legislation; alteration needs State Legislature. <br>2. Biosphere Reserves exist only to conserve a few specific species. <br>3. Limited biotic interference may be permitted in a Wildlife Sanctuary.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statement 2 is false — BRs conserve all forms of life with support systems and sustainable use.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Rajaji National Park is correctly described as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only in Dehradun district; never a tiger reserve</div><div class="pyq-opt"><span class="opt-letter">B</span> Merger of Rajaji–Motichur–Chilla (1983); TR in 2015; three UK districts</div><div class="pyq-opt"><span class="opt-letter">C</span> Located in Rajasthan like Sariska</div><div class="pyq-opt"><span class="opt-letter">D</span> Same as Corbett Tiger Reserve</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Named after C. Rajagopalachari. Corbett remains India’s first NP (1936).</div>
+  </div>
+</div>

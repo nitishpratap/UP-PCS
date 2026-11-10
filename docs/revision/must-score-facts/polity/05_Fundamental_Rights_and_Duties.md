@@ -126,6 +126,31 @@ hide:
 48. **Universal Scope of Habeas Corpus:** The writ of Habeas Corpus is the only writ that can be issued against **both public officials and private individuals** (e.g., in cases of wrongful confinement by private parties).
 49. **Quo-Warranto Locus Standi Exception:** Unlike other writs which require an aggrieved person (strict locus standi), any member of the public acting in good faith can petition for a writ of **Quo-Warranto**, as it protects public offices from unlawful usurpation.
 50. **Tri-Fold Educational Bridge (86th Amendment, 2002):**
+51. **Article 14 - Two Distinct Doctrines:** Incorporates two concepts: (1) **'Equality before Law'** (British origin, negative concept, absence of special privilege), and (2) **'Equal Protection of the Laws'** (American origin, positive concept, equality of treatment under equal circumstances).
+52. **Article 15 - Five Prohibited Grounds Only:** Prohibits state discrimination against citizens on grounds ONLY of **religion, race, caste, sex, place of birth** or any of them; Article 15(3) permits special provisions for women and children; 15(4) & 15(5) for advancement of SEBCs/SCs/STs (1st CAA 1951 & 93rd CAA 2005); 15(6) for EWS (103rd CAA 2019).
+53. **Article 16 - Public Employment Equality:** Article 16(1) & (2) prohibit discrimination in state employment on 7 grounds: religion, race, caste, sex, descent, place of birth, residence; Article 16(4) empowers state to make reservation for backward classes not adequately represented; Article 16(4A) enables reservation in promotion with consequential seniority (77th & 85th CAAs).
+54. **Article 17 & Article 18 (Untouchability & Titles Abolition):** Article 17 abolishes **'Untouchability'** in all forms (enforced via Protection of Civil Rights Act, 1955; term 'Untouchability' is NOT defined in Constitution); Article 18 abolishes titles (except military and academic distinctions); Bharat Ratna and Padma awards are honors, not titles (*Balaji Raghavan v. UOI, 1996*).
+55. **Article 19 - Six Democratic Freedoms:** Available ONLY to citizens: 19(1)(a) Speech and expression; 19(1)(b) Peaceful assembly without arms; 19(1)(c) Form associations/unions/cooperatives; 19(1)(d) Move freely throughout India; 19(1)(e) Reside and settle anywhere in India; [19(1)(f) Property deleted by 44th CAA 1978]; 19(1)(g) Practice any profession/trade.
+56. **Article 19(2) Grounds of Reasonable Restriction on Free Speech:** 8 grounds: (1) Sovereignty and integrity of India, (2) Security of the State, (3) Friendly relations with foreign States, (4) Public order, (5) Decency or morality, (6) Contempt of court, (7) Defamation, and (8) Incitement to an offence.
+57. **Article 20 - Three Criminal Protections:** (1) **Ex-post facto Law (Art. 20(1)):** No person shall be convicted of any offence except for violation of law in force at the time of commission (applies ONLY to criminal laws, not civil/tax laws); (2) **Double Jeopardy (Art. 20(2)):** No person shall be prosecuted and punished for the same offence more than once; (3) **Self-Incrimination (Art. 20(3)):** No accused can be compelled to be a witness against himself.
+58. **Article 21 - Expanded Judicial Interpretation:** In *A.K. Gopalan (1950)*, SC gave narrow meaning to 'procedure established by law'; in *Maneka Gandhi (1978)*, SC ruled procedure must be **'just, fair, and reasonable'**, effectively introducing American 'due process of law'; *K.S. Puttaswamy (2017)* held **Right to Privacy** is a fundamental right under Article 21.
+59. **Article 21A (Right to Free & Compulsory Education):** Enacted by the **86th Constitutional Amendment Act, 2002**; makes free and compulsory education a Fundamental Right for all children aged **6 to 14 years**; Parliament passed the Right of Children to Free and Compulsory Education (RTE) Act, 2009 (enforced 1 April 2010).
+60. **Article 22 - Preventive Detention Safeguards:** Punitive detention is after trial; Preventive detention is without trial on suspicion; maximum initial detention without Advisory Board approval is **3 months**; Advisory Board consists of persons qualified to be High Court judges; detenu has right to know grounds (except when against public interest) and make representation.
+61. **Articles 23 & 24 (Right against Exploitation):** Article 23 prohibits **trafficking in human beings, begar (forced labor)**, and similar forms of forced labor; Article 24 prohibits employment of children **below 14 years of age** in any factory, mine, or hazardous occupation.
+62. **Articles 25 to 28 (Freedom of Religion Nuances):** Article 25 guarantees freedom of conscience and right to freely profess, practice and propagate religion (propagation does NOT include right to convert another); Article 26 guarantees religious denominations right to manage religious affairs; Article 27 prohibits taxation for promotion of any religion; Article 28 prohibits religious instruction in wholly state-funded educational institutions.
+63. **Articles 29 & 30 (Cultural and Educational Rights):** Article 29 protects interests of minorities (protects 'any section of citizens' having distinct language, script or culture); Article 30 gives **religious and linguistic minorities ONLY** the right to establish and administer educational institutions of their choice.
+64. **Article 32 - Heart and Soul of Constitution:** Dr. Ambedkar called Article 32 the **'very heart and soul of the Constitution'**; Supreme Court can issue 5 types of writs: **Habeas Corpus** (to produce the body; issued against public and private entities), **Mandamus** (we command; against public officials to perform duty), **Prohibition** (to prevent inferior court/tribunal exceeding jurisdiction), **Certiorari** (to be certified/quash order of lower court), and **Quo-Warranto** (by what authority; against usurper of public office).
+65. **Article 32 vs Article 226 Writ Jurisdictions:** Article 32 is itself a Fundamental Right and can ONLY be invoked for FR violations; Article 226 (High Court) is a discretionary remedy but broader in scope because HCs can issue writs for FRs as well as for **'any other legal right'**.
+66. **Articles 33, 34, and 35 (Exceptions & Parliamentary Enforcement):** Article 33 empowers Parliament to modify FRs for Armed Forces, paramilitary, and police; Article 34 restricts FRs while Martial Law is in force in any area; Article 35 vests exclusive power in Parliament (not State Legislatures) to prescribe laws giving effect to FRs under Articles 16(3), 32(3), 33, and 34.
+67. **DPSP Classification - Socialistic Principles:** Article 38 (Promote welfare of people by securing a social order permeated by justice); Article 39 (Livelihood, equitable distribution of resources, prevention of concentration of wealth, equal pay for equal work); Article 39A (Equal justice and free legal aid - 42nd CAA); Article 41 (Right to work, education, and public assistance); Article 42 (Just and humane conditions of work and maternity relief); Article 43 (Living wage for workers); Article 43A (Participation of workers in management of industries - 42nd CAA).
+68. **DPSP Classification - Gandhian Principles:** Article 40 (Organization of Village Panchayats); Article 43 (Promotion of cottage industries in rural areas); Article 43B (Promotion of cooperative societies - 97th CAA 2011); Article 46 (Promotion of educational and economic interests of SCs, STs, and weaker sections); Article 47 (Prohibition of intoxicating drinks and drugs injurious to health); Article 48 (Prohibition of slaughter of cows, calves, and milch cattle).
+69. **DPSP Classification - Liberal-Intellectual Principles:** Article 44 (**Uniform Civil Code** for citizens throughout the territory of India); Article 45 (Early childhood care and education below 6 years - 86th CAA); Article 48 (Organization of agriculture and animal husbandry on modern scientific lines); Article 48A (Protection of environment, forests, and wild life - 42nd CAA); Article 49 (Protection of monuments and places of national importance); Article 50 (**Separation of Judiciary from Executive** in the public services); Article 51 (Promotion of **international peace and security**).
+70. **Minerva Mills Case (1980) - DPSP vs FR Equilibrium:** The Supreme Court ruled that the Constitution is founded on the **bedrock of the balance between Fundamental Rights and Directive Principles**; giving absolute primacy to one over the other destroys the harmony of the Constitution, which is part of the basic structure.
+71. **Article 31C Immunity Mechanism:** Inserted by the 25th CAA 1971; provides that no law giving effect to DPSPs in **Article 39(b) and 39(c)** shall be deemed void on the ground that it violates Article 14 or Article 19 ('where Article 31C comes in, Article 14 goes out').
+72. **Fundamental Duties - Swaran Singh Committee (1976):** Recommended incorporating 8 Fundamental Duties; government accepted and added **10 Fundamental Duties** via the 42nd CAA 1976; Swaran Singh’s recommendations to penalize non-compliance and include 'duty to pay taxes' were rejected.
+73. **Verma Committee on Fundamental Duties (1999):** Identified existing legal provisions implementing Fundamental Duties: Representation of the People Act 1951, Protection of Civil Rights Act 1955, Unlawful Activities (Prevention) Act 1967, Prevention of Insults to National Honour Act 1971, Wildlife Protection Act 1972, and Forest Conservation Act 1980.
+74. **List of 11 Fundamental Duties (Key Markers):** Article 51A: (a) Abide by Constitution, respect Flag and Anthem; (b) Cherish noble ideals of freedom struggle; (c) Uphold sovereignty, unity and integrity; (d) Defend country and render national service; (e) Promote harmony and spirit of common brotherhood, renounce practices derogatory to dignity of women; (f) Value and preserve rich heritage of composite culture; (g) Protect and improve natural environment (forests, lakes, rivers, wildlife); (h) Develop **scientific temper, humanism, and spirit of inquiry and reform**; (i) Safeguard public property and abjure violence; (j) Strive towards excellence; (k) Provide educational opportunities to child between **6 and 14 years** (added by 86th CAA 2002).
+75. **Non-Justiciable Nature of Fundamental Duties:** Fundamental Duties are moral and civic obligations; like DPSPs, they are non-enforceable and non-justiciable in court unless Parliament enacts specific legislation creating penal sanctions for their breach.
     - **Fundamental Right:** Article 21A (State provides free education 6–14 years).
     - **Directive Principle:** Article 45 (State provides early childhood care 0–6 years).
     - **Fundamental Duty:** Article 51A(k) (Parent/guardian provides educational opportunity 6–14 years).
@@ -181,21 +206,6 @@ hide:
 | **Certiorari** | "To be certified" | Judicial, quasi-judicial, and administrative bodies | Legislative bodies and private individuals | Quashes an illegal order passed without jurisdiction |
 | **Quo-Warranto** | "By what authority" | Usurper of a substantive public office | Ministerial or private office | Prevents unlawful occupation of a public constitutional office |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| Citizen-Only Rights | Articles **15, 16, 19, 29, 30** ONLY | Include Art. 14 or Art. 21 in citizen-only list | 15, 16, 19, 29, 30 केवल नागरिकों को |
-| Article 32 vs Article 226 Scope | **Art. 226** (HC) is **wider** than Art. 32 (SC) because HC can issue writs for FRs + ordinary legal rights | Call Art. 32 wider | 226 का दायरा 32 से अधिक विस्तृत है |
-| Non-Suspendable Rights in Emergency | **Articles 20 and 21** CANNOT be suspended even during external emergency (Art. 359) | Claim Art. 21 can be suspended during war | 20 और 21 कभी निलंबित नहीं |
-| Right to Property Present Status | **Constitutional and Legal Right** under **Article 300A** in Part XII (NOT a Fundamental Right) | Call property right an ordinary statutory right only | संपत्ति = संवैधानिक अधिकार (300A) |
-| Procedure Established by Law vs Due Process | Text of Art. 21 contains **Procedure Established by Law** (Japan); **Due Process** was read in via *Maneka Gandhi* | Claim Due Process is written in Art. 21 text | विधि द्वारा स्थापित प्रक्रिया (जापान) |
-| Double Jeopardy Scope | Article 20(2) protects only against prosecution before a **Court of Law or Judicial Tribunal**; does NOT bar departmental inquiry | Apply double jeopardy to departmental suspension | विभागीय जाँच में दोहरा दंड लागू नहीं |
-| Self-Incrimination Scope | Article 20(3) protects only the **Accused in Criminal Proceedings**; does not bar giving thumbprints, blood, or DNA samples | Extend self-incrimination to civil cases | आत्म-अभिशंसन केवल आपराधिक मामलों में |
-| Mandamus Exceptions | Cannot be issued against the **President of India, State Governors, or sitting CJI** | Issue Mandamus against the President | राष्ट्रपति और राज्यपाल पर परमादेश नहीं |
-| Minorities Definition under Art. 30 | Covers **Religious and Linguistic Minorities** ONLY (does not cover cultural or racial minorities) | Include caste-based or racial minorities in Art. 30 | अनुच्छेद 30 = केवल धार्मिक और भाषाई |
-| Swaran Singh Committee vs 42nd Amd Duties | Swaran Singh recommended **8 duties**; 42nd Amendment added **10 duties**; 86th Amd added **11th duty** | Claim Swaran Singh proposed 11 duties | स्वर्ण सिंह = 8; 42वां = 10; 86वां = 11वां |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Citizen-Only Rights Formula:**
@@ -216,241 +226,232 @@ hide:
    - **Part IV:** Art. 45 (State's Policy for Toddlers)
    - **Part IVA:** Art. 51A(k) (Parent's Duty)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which Article of the Constitution of India guarantees equality before law?
-
-A. Article 12
-B. Article 14
-C. Article 19
-D. Article 21
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Article 14.
-
-</details>
-
-**Q2.**
-Which of the following freedoms is not guaranteed by the Indian Constitution under Article 19?
-
-A. Freedom to assemble peacefully and without arms
-B. Freedom to own, acquire and dispose of property
-C. Freedom to move freely throughout the country
-D. Freedom to practise any trade or profession
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 19(1)(f) deleted by 44th.
-
-</details>
-
-**Q3.**
-Which of the following are envisaged by the Right against Exploitation in the Constitution of India?
-
-1. Abolition of untouchability
-2. Prohibition of human trafficking and forced labour
-3. Prohibition of employment of children in factories and mines
-4. Protection of interests of minorities
-
-A. 2 and 3
-B. 3 and 4
-C. 1 and 2
-D. 1 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2 and 3.
-
-</details>
-
-**Q4.**
-Which one of the following pairs is not correctly matched?
-
-A. Equality before Law — Guaranteed to both citizens and non-citizens
-B. Equality of opportunity in public employment — Guaranteed only to Indian citizens
-C. Creating a new State — Power of Parliament
-D. Altering the name of a State — Power of a State Legislature
-
-<details>
-<summary>Show answer</summary>
-
-**D.** A and B are the FR facts (14 vs 16).
-
-</details>
-
-**Q5.**
-Which of the following is not a part of Article 20 of the Constitution of India?
-
-A. Prohibition against Self-Incrimination
-B. Double Jeopardy Clause
-C. Prohibition Against Torture
-D. Ex-post Facto Law
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Torture ≠ Art. 20.
-
-</details>
-
-**Q6.**
-The Right to Education was included in the Fundamental Rights by the—
-
-A. Constitution (103rd Amendment) Act, 2019
-B. Constitution (93rd Amendment) Act, 2005
-C. Constitution (86th Amendment) Act, 2002
-D. Constitution (71st Amendment) Act, 1992
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 86th Amendment, 2002.
-
-</details>
-
-**Q7.**
-Who among the following person said for the Fundamental Rights “a pledge to our people and a pact with the civilized world”?
-
-A. Pt. Jawahar Lal Nehru
-B. Dr. Bhim Rao Ambedkar
-C. Dr. Rajendra Prasad
-D. Dr. S. Radha Krishnan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — S. Radhakrishnan.
-
-</details>
-
-**Q8.**
-Which one of the following is NOT correctly matched? (Subject — Article)
-
-A. Separation of judiciary from executive — Article 50
-B. Promotion of educational and economic interests of SC/ST — Article 46
-C. Promotion of Co-operative Societies — Article 43A
-D. Organisation of Village Panchayats — Article 40
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Co-operatives = Article **43B**.
-
-</details>
-
-**Q9.**
-Which one of the following is NOT correctly matched?
-
-A. Article 39A — Equal Justice and free legal aid
-B. Article 40 — Organisation of Village Panchayats
-C. Article 44 — Uniform Civil Code
-D. Article 48 — Separation of Judiciary from Executive
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — separation = Article **50**.
-
-</details>
-
-**Q10.**
-Consider the following statements concerning the powers of the Supreme Court to issue certain writs to stop violation of Fundamental Rights—
-
-1. The Supreme Court has power to issue writs like Habeas Corpus, Mandamus, Prohibition, Quo Warranto and Certiorari for the enforcement of Fundamental Rights.
-2. Parliament may by law empower any other court to exercise within its jurisdiction the powers given to the Supreme Court.
-
-A. Both 1 and 2
-B. Only 1
-C. Only 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Both** (Art. 32(3)).
-
-</details>
-
-**Q11.**
-Which of the following provisions is a part of both the Directive Principles of State Policy and the Fundamental Duties?
-
-A. Guardians to provide opportunity for education to children
-B. Protection of environment
-C. Participation of workers in management of industries
-D. Uniform Civil Code
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Protection of environment** (48A + 51A(g)).
-
-</details>
-
-**Q12.**
-Assertion (A): Directive Principles are important for economic, social and political functions in a modern democratic State.
-Reason (R): The core objective of Directive Principles is to establish economic and social democracy.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Both true; R explains A.
-
-</details>
-
-**Q13.**
-Which of the following is NOT a Fundamental Duty?
-
-A. To protect monuments and places of national importance
-B. To protect and improve the natural environment
-C. To safeguard public property
-D. To respect the National Anthem
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — monuments = DPSP Art. 49.
-
-</details>
-
-**Q14.**
-Assertion (A): Article 30 of the Constitution of India does not define the term ‘minorities’.
-Reason (R): The Constitution recognises only linguistic and religious minorities.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**B.**
-
-</details>
-
-**Q15.**
-In which of the following are the provisions for the protection and improvement of environment and safeguarding of forests and wildlife found in the Constitution of India?
-
-A. Only in the Directive Principles of State Policy
-B. Only in the Fundamental Duties
-C. Both (A) and (B)
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both** (48A + 51A(g)).
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which Article of the Constitution of India guarantees equality before law?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 12</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 14</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 19</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 21</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Article 14.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following freedoms is not guaranteed by the Indian Constitution under Article 19?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Freedom to assemble peacefully and without arms</div><div class="pyq-opt"><span class="opt-letter">B</span> Freedom to own, acquire and dispose of property</div><div class="pyq-opt"><span class="opt-letter">C</span> Freedom to move freely throughout the country</div><div class="pyq-opt"><span class="opt-letter">D</span> Freedom to practise any trade or profession</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 19(1)(f) deleted by 44th.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following are envisaged by the Right against Exploitation in the Constitution of India?<br><br>1. Abolition of untouchability<br>2. Prohibition of human trafficking and forced labour<br>3. Prohibition of employment of children in factories and mines<br>4. Protection of interests of minorities</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 and 3.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is not correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Equality before Law — Guaranteed to both citizens and non-citizens</div><div class="pyq-opt"><span class="opt-letter">B</span> Equality of opportunity in public employment — Guaranteed only to Indian citizens</div><div class="pyq-opt"><span class="opt-letter">C</span> Creating a new State — Power of Parliament</div><div class="pyq-opt"><span class="opt-letter">D</span> Altering the name of a State — Power of a State Legislature</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> D.** A and B are the FR facts (14 vs 16).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following is not a part of Article 20 of the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Prohibition against Self-Incrimination</div><div class="pyq-opt"><span class="opt-letter">B</span> Double Jeopardy Clause</div><div class="pyq-opt"><span class="opt-letter">C</span> Prohibition Against Torture</div><div class="pyq-opt"><span class="opt-letter">D</span> Ex-post Facto Law</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Torture ≠ Art. 20.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Right to Education was included in the Fundamental Rights by the—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Constitution (103rd Amendment) Act, 2019</div><div class="pyq-opt"><span class="opt-letter">B</span> Constitution (93rd Amendment) Act, 2005</div><div class="pyq-opt"><span class="opt-letter">C</span> Constitution (86th Amendment) Act, 2002</div><div class="pyq-opt"><span class="opt-letter">D</span> Constitution (71st Amendment) Act, 1992</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 86th Amendment, 2002.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Who among the following person said for the Fundamental Rights “a pledge to our people and a pact with the civilized world”?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pt. Jawahar Lal Nehru</div><div class="pyq-opt"><span class="opt-letter">B</span> Dr. Bhim Rao Ambedkar</div><div class="pyq-opt"><span class="opt-letter">C</span> Dr. Rajendra Prasad</div><div class="pyq-opt"><span class="opt-letter">D</span> Dr. S. Radha Krishnan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> S. Radhakrishnan.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT correctly matched? (Subject — Article)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Separation of judiciary from executive — Article 50</div><div class="pyq-opt"><span class="opt-letter">B</span> Promotion of educational and economic interests of SC/ST — Article 46</div><div class="pyq-opt"><span class="opt-letter">C</span> Promotion of Co-operative Societies — Article 43A</div><div class="pyq-opt"><span class="opt-letter">D</span> Organisation of Village Panchayats — Article 40</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Co-operatives = Article **43B**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 39A — Equal Justice and free legal aid</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 40 — Organisation of Village Panchayats</div><div class="pyq-opt"><span class="opt-letter">C</span> Article 44 — Uniform Civil Code</div><div class="pyq-opt"><span class="opt-letter">D</span> Article 48 — Separation of Judiciary from Executive</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> separation = Article **50**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements concerning the powers of the Supreme Court to issue certain writs to stop violation of Fundamental Rights—<br><br>1. The Supreme Court has power to issue writs like Habeas Corpus, Mandamus, Prohibition, Quo Warranto and Certiorari for the enforcement of Fundamental Rights.<br>2. Parliament may by law empower any other court to exercise within its jurisdiction the powers given to the Supreme Court.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both** (Art. 32(3)).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following provisions is a part of both the Directive Principles of State Policy and the Fundamental Duties?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Guardians to provide opportunity for education to children</div><div class="pyq-opt"><span class="opt-letter">B</span> Protection of environment</div><div class="pyq-opt"><span class="opt-letter">C</span> Participation of workers in management of industries</div><div class="pyq-opt"><span class="opt-letter">D</span> Uniform Civil Code</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Protection of environment** (48A + 51A(g)).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Directive Principles are important for economic, social and political functions in a modern democratic State.<br>Reason (R): The core objective of Directive Principles is to establish economic and social democracy.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R explains A.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT a Fundamental Duty?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> To protect monuments and places of national importance</div><div class="pyq-opt"><span class="opt-letter">B</span> To protect and improve the natural environment</div><div class="pyq-opt"><span class="opt-letter">C</span> To safeguard public property</div><div class="pyq-opt"><span class="opt-letter">D</span> To respect the National Anthem</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> monuments = DPSP Art. 49.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Article 30 of the Constitution of India does not define the term ‘minorities’.<br>Reason (R): The Constitution recognises only linguistic and religious minorities.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">In which of the following are the provisions for the protection and improvement of environment and safeguarding of forests and wildlife found in the Constitution of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only in the Directive Principles of State Policy</div><div class="pyq-opt"><span class="opt-letter">B</span> Only in the Fundamental Duties</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (A) and (B)</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both** (48A + 51A(g)).</div>
+  </div>
+</div>

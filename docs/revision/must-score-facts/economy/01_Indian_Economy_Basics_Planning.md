@@ -125,6 +125,16 @@ hide:
 49. The **Gandhian Plan (1944)**, authored by **Sriman Narayan Agarwal**, advocated economic decentralization, cottage crafts, rural self-sufficiency, and village swaraj. Mahatma Gandhi philosophically opposed centralized, top-down bureaucratic industrial planning.
 
 50. The official acronym **NITI** expands to the **National Institution for Transforming India**.
+51. **National Income Aggregates & Formulas:** (1) **GDP at Market Price:** Total monetary value of all final goods and services produced within domestic territory in a financial year; (2) **GNP = GDP + NFIA** (Net Factor Income from Abroad); (3) **NDP = GDP - Depreciation** (Consumption of Fixed Capital); (4) **NNP at Factor Cost (National Income):** NNP at Market Price - Net Indirect Taxes (Indirect Taxes - Subsidies); (5) **Per Capita Income:** National Income / Total Population.
+52. **Base Year for GDP & Inflation in India:** Current base year for GDP calculation is **2011–12** (changed from 2004–05 in January 2015 by Central Statistics Office [CSO], now NSO); uses Gross Value Added (GVA) at basic prices methodology aligned with UN System of National Accounts (SNA 2008).
+53. **Sectors of Indian Economy (Contribution & Employment):** (1) **Primary Sector** (Agriculture, Forestry, Fishing, Mining): ~18% of GDP, employs ~45% of workforce; (2) **Secondary Sector** (Manufacturing, Construction, Electricity, Water): ~28% of GDP; (3) **Tertiary Sector** (Services - Trade, Hotels, Transport, Banking, Real Estate, Public Admin): ~54% of GDP ('Engine of Growth').
+54. **Evolution of Planning in India (Pre-Independence Milestones):** (1) **M. Visvesvaraya (1934):** First proposed planned economy for India in book *Planned Economy for India* (10-year plan); (2) **National Planning Committee (1938):** Set up by INC President Subhas Chandra Bose, chaired by **Jawaharlal Nehru**; (3) **Bombay Plan (1944):** Formulated by 8 leading industrialists (J.R.D. Tata, G.D. Birla, Purushottamdas Thakurdas, etc.) proposing 15-year plan of ₹10,000 crore emphasizing basic industries; (4) **Gandhian Plan (1944):** Formulated by **Shriman Narayan Agarwal** focusing on agriculture and cottage industries; (5) **People's Plan (1945):** Drafted by **M.N. Roy** on behalf of Indian Federation of Labour; (6) **Sarvodaya Plan (1950):** Drafted by **Jayaprakash Narayan** inspired by Gandhian and Vinoba Bhave ideals.
+55. **Planning Commission vs NITI Aayog:** Planning Commission established on **15 March 1950** by executive resolution (extra-constitutional, non-statutory body) under Jawaharlal Nehru; dissolved in August 2014; replaced by **NITI Aayog (National Institution for Transforming India)** established on **1 January 2015**; Chairperson is the **Prime Minister**; Vice-Chairperson appointed by PM (rank of Cabinet Minister); Governing Council comprises PM, all State Chief Ministers, and UT Lt. Governors; emphasizes **'Cooperative Federalism'** and bottom-up planning ('Team India Hub' & 'Knowledge and Innovation Hub').
+56. **Key Five Year Plans Highlights (1st to 12th):** (1) **1st Plan (1951–56):** Based on **Harrod-Domar Model**; focus on agriculture, irrigation, and power (Bhakra Nangal, Hirakud, Damodar Valley projects); exceeded target (achieved 3.6% vs 2.1%); (2) **2nd Plan (1956–61):** Based on **P.C. Mahalanobis Model** (Four-sector model); focus on **Rapid Industrialization & Heavy Capital Goods**; set up three public steel plants: **Bhilai** (USSR), **Rourkela** (West Germany), and **Durgapur** (UK); Industrial Policy Resolution 1956 ('Economic Constitution of India'); (3) **3rd Plan (1961–66):** Gadgil Yojana; aims: self-reliant and self-generating economy; shattered by Sino-Indian War (1962), Indo-Pak War (1965), and severe famine (1965–66) - most tragic failure (achieved 2.8% vs 5.6%).
+57. **Plan Holidays & Later Plans Milestones:** (1) **Plan Holidays (1966–69):** Three Annual Plans; Green Revolution launched (1966–67), devaluation of Rupee (June 1966); (2) **4th Plan (1969–74):** Objective: 'Growth with stability and progressive achievement of self-reliance'; nationalization of 14 commercial banks (1969); Pokhran-I Nuclear Test (1974); (3) **5th Plan (1974–79):** Drafted by D.D. Dhar; famous slogan **'Garibi Hatao'** (Poverty Eradication) and self-reliance; terminated 1 year early in 1978 by Janata Party Government.
+58. **Rolling Plan & 6th to 12th Plans:** (1) **Rolling Plan (1978–80):** Introduced by Janata Party under Morarji Desai based on Gunnar Myrdal concept; (2) **6th Plan (1980–85):** Direct assault on poverty via IRDP, NREP, TRYSEM; establishment of **NABARD (1982)** and **EXIM Bank (1982)**; (3) **7th Plan (1985–90):** Pranab Mukherjee model; 'Food, Work and Productivity'; launch of Jawahar Rozgar Yojana (JRY, 1989); (4) **8th Plan (1992–97):** John W. Muller model; launched post-1991 LPG reforms (New Economic Policy of Rao-Manmohan); recorded stellar 6.8% growth; (5) **12th Plan (2012–17):** Last Five Year Plan; theme: **'Faster, More Inclusive and Sustainable Growth'** (target 8%).
+59. **LPG Reforms of 1991 (New Economic Policy):** Triggered by catastrophic Balance of Payments (BOP) crisis (forex reserves plummeted to barely 2 weeks of imports); India pledged gold to Bank of England; Rao-Manmohan government devalued rupee twice (July 1991); dismantled **'License-Permit-Quota Raj'** (Industrial Licensing abolished for all except 18 industries, later reduced to only 4: aerospace/defense, hazardous chemicals, industrial explosives, tobacco/cigars); opened FDI and automatic route; disinvestment initiated.
+60. **Inclusive Growth & Human Development Index (HDI):** Formulated in 1990 by Pakistani economist **Mahbub ul Haq** and Nobel laureate **Amartya Sen**; published by UNDP; composite index based on 3 dimensions and 4 indicators: (1) **Long and healthy life:** Life Expectancy at Birth; (2) **Knowledge / Education:** Mean Years of Schooling (for adults 25+) and Expected Years of Schooling (for children); (3) **Decent Standard of Living:** GNI per capita (PPP $).
 
 ## ⏱️ Timeline / Chronology
 
@@ -225,40 +235,6 @@ hide:
 | **Lowest State Per Capita Income** | Bihar |
 | **Largest State Economy by GSDP** | Maharashtra |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Conceptual Distinction & Mechanics | Key Memorization Anchor |
-|---|---|---|---|
-| **Economic Growth** | **Economic Development** | Growth is a quantitative increase in output (real GDP/PCI); Development is qualitative, measuring living standards, health, and welfare. | Growth = Output expansion; Development = Human well-being |
-| **Gross Domestic Product (GDP)** | **Gross National Product (GNP)** | GDP measures output within geographic borders; GNP measures output by citizens/residents globally (GNP = GDP + NFIA). | GDP = Location; GNP = Nationality |
-| **Nominal GDP** | **Real GDP** | Nominal evaluates goods at current prevailing prices; Real evaluates output at constant base-year prices to remove price distortion. | Nominal = Current prices; Real = Base-year constant prices |
-| **GDP Deflator** | **Consumer Price Index (CPI)** | Deflator reflects price changes across all domestically produced goods/services; CPI tracks prices of a fixed consumer basket. | Deflator = Comprehensive output; CPI = Retail household consumption |
-| **Planning Commission** | **NITI Aayog** | Planning Commission allocated plan funds directly to ministries and states; NITI Aayog is a policy think tank without financial allocation powers. | Planning = Allocation body (1950–2014); NITI = Think tank (2015+) |
-| **NITI Chairperson** | **President of India** | The Prime Minister is the ex-officio Chairperson of NITI Aayog; the President holds no official office within NITI. | Prime Minister chairs NITI Aayog |
-| **NITI Foundation Year** | **2014 vs 2015** | Cabinet resolution passed and implemented on **1 January 2015** (not during the initial transition year 2014). | Official launch date: 1 January 2015 |
-| **Full-time Vice-Chair** | **Full-time Chairperson** | The Prime Minister is the ex-officio part-time Chair; executive leadership rests with the full-time Vice-Chairperson. | Vice-Chair is the full-time working executive |
-| **Economic Planning List** | **Union vs Concurrent List** | "Economic and Social Planning" is Entry 20 of the **Concurrent List (List III)**, enabling both Centre and States to legislate. | Concurrent List (List III) |
-| **National Development Council** | **NITI Governing Council** | NDC approved Five-Year Plans in the pre-2015 era; NITI Governing Council is the regular federal discussion forum for CMs and Lt Govs. | NDC = Five-Year Plan approval; GC = Active federal council |
-| **Development Monitoring Office** | **PMO / Cabinet Secretariat** | DMEO is an attached office directly under **NITI Aayog**, formed by merging PEO and IEO on 18 September 2015. | DMEO = Attached office of NITI Aayog |
-| **Finance Commission** | **Planning Commission** | Finance Commission is a constitutional body (Art. 280) for tax sharing; Planning Commission was an extra-constitutional body. | FC = Constitutional; Planning = Non-constitutional |
-| **Imperative Planning** | **Indicative Planning** | Imperative planning dictates quotas by state fiat (Soviet command); Indicative planning incentivizes market agents toward public goals. | Imperative = Command system; Indicative = Market-friendly guidance |
-| **11th Plan Theme** | **12th Plan Theme** | 11th Plan: "Towards Faster and More Inclusive Growth"; 12th Plan: "Faster, More Inclusive and **Sustainable** Growth". | 12th Plan explicitly adds "Sustainable" |
-| **Plan Holiday (1966–69)** | **Rolling Plan (1978–80)** | Plan Holiday was 3 Annual Plans after war/drought; Rolling Plan was yearly target revisions introduced by the Janata government. | Holiday = Crisis gap; Rolling = Yearly revised strategy |
-| **Garibi Hatao (1971 Slogan)** | **Fifth Plan Objective (1974–79)** | Slogan introduced by Indira Gandhi in the 1971 general election; adopted as formal Five-Year Plan twin objective in the 5th Plan. | 1971 = Political campaign; 5th Plan = Formal policy objective |
-| **Bombay Plan (1944)** | **Gandhian Plan (1944)** | Bombay Plan authored by leading industrialists for heavy state infrastructure; Gandhian Plan by S.N. Agarwal for cottage self-reliance. | Bombay = Big industry; Gandhian = Decentralized rural crafts |
-| **Adam Smith** | **J.M. Keynes** | Adam Smith is the Father of Modern Economics (*Wealth of Nations*); Keynes is the Father of Modern Macroeconomics (*General Theory*). | Smith = General economics; Keynes = Macroeconomics |
-| **Mixed Economy** | **Pure Capitalist / Socialist** | Mixed economy combines public ownership with private private enterprise; pure systems rely entirely on markets or state commands. | Mixed = Public + Private coexistence |
-| **Rajiv Gandhi Deregulation** | **1991 Rao-Manmohan LPG** | Mid-1980s was early selective delicensing; July 1991 was systemic structural opening and crisis-driven liberalization. | 1980s = First phase delicensing; 1991 = Complete structural LPG |
-| **Governors in NITI Council** | **Chief Ministers & Lt Govs** | State Governors are excluded from NITI's Governing Council; only Chief Ministers and Union Territory administrators participate. | Governors are NOT members of NITI Governing Council |
-| **National Income Identity** | **NNP at Market Price** | National Income is officially NNP at **Factor Cost** (NNP_FC), which subtracts net indirect taxes from market value. | NI = NNP_FC, not NNP_MP |
-| **Real GDP Base Year** | **2011–12 vs 2022–23** | Previous historical base was 2011–12; MoSPI revised the benchmark series to **2022–23** effective February 2026. | Current base year = 2022–23 |
-| **"Hindu Rate of Growth"** | **Demographic Growth Rate** | Coined by Prof. Raj Krishna for ~3.5% national output stagnation between 1950s–1980s; it does not measure population growth. | Refers to GDP stagnation (~3.5%), not demographics |
-| **Real Sector** | **Financial Sector** | Real sector involves physical production (agriculture, textiles, factories); financial sector covers intermediation (banks, credit, securities). | Real = Physical goods/services; Financial = Capital/banking |
-| **Stabilisation Program** | **Structural Adjustment** | Stabilisation is short-term demand reduction to contain inflation and BoP; Structural adjustment is long-term supply-side deregulation. | Stabilisation = Short-term demand; Structural = Long-term supply |
-| **Dadabhai Naoroji** | **Dr. V.K.R.V. Rao** | Naoroji made the first historical estimate of per capita income (1867–68); Rao produced the first rigorous scientific methodology (1931–32). | Naoroji = First estimate; Rao = First scientific methodology |
-| **Capital–Output Ratio (COR)** | **Capital Efficiency** | A higher COR indicates that more capital is required to generate one unit of output, reflecting lower capital productivity. | High COR = Lower capital efficiency |
-| **Gadgil–Mukherjee Formula** | **Finance Commission Shares** | Used for allocating Central Plan Assistance (population weighted highest at 60%); distinct from Finance Commission tax devolution. | Gadgil = Plan assistance; FC = Statutory tax devolution |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### Key Mnemonics & Cognitive Hooks
@@ -280,282 +256,262 @@ hide:
   - $\text{GNP} = \text{GDP} + \text{NFIA}$ (NFIA = Net Factor Income from Abroad).
   - $\text{NDP} = \text{GDP} - \text{Depreciation}$ (Never plus!).
 
-## 🎯 High-Yield PYQ Drill (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to Economic Growth, which of the following statements is/are correct?
-
-1. Indian Economy is an Underdeveloped Economy.
-2. Indian Economy is a Mixed Economy.
-3. J.M. Keynes is the Father of Economics.
-
-Select the correct answer from the codes given below:
-
-A. Only 1 and 2 are correct.
-B. Only 3 is correct.
-C. Only 1 is correct.
-D. Only 2 and 3 are correct.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Only 1 and 2 are correct.
-
-**Ans: A.** Mixed + underdeveloped/developing textbook tags true; Keynes title false.
-
-</details>
-
-**Q2.**
-
-Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Development is being defined as improving living standards and welfare.
-
-Reason (R): Growth in per capita income is not a sufficient measure of development.
-
-Select the correct answer from the codes given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).
-B. (A) is false, but (R) is true.
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-D. (A) is true, but (R) is false.
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
-
-**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)
-</details>
-
-**Q3.**
-
-Who was the first Vice-Chairman of the NITI Ayog?
-
-A. Arvind Panagariya
-B. Raghuram Rajan
-C. Chandrashekhara Subramanyam
-D. Rajiv Kumar
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Arvind Panagariya.
-
-**Ans: A.** First VC = Panagariya.
-
-</details>
-
-**Q4.**
-
-In India which of the following Five Year Plans was launched with a focus on sustainable growth?
-
-A. 9th
-B. 10th
-C. 11th
-D. 12th
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 12th Plan sustainability tag — 12th
-
-**Ans: D.** 12th
-</details>
-
-**Q5.**
-
-The Atal Innovation Mission (AIM) is a flagship initiative set up by
-
-A. Ministry of Human Resource Development
-B. NITI Aayog
-C. Ministry of Social Justice and Impowerment
-D. Ministry of Science and Technology
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches NITI Aayog.
-
-**Ans: B.** NITI Aayog
-</details>
-
-**Q6.**
-
-Which of the following is not an economic activity?
-
-A. Voluntary Social Service
-B. Farming
-C. Transportation
-D. Service
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Unpaid voluntary social service is not.
-
-**Ans: A.** Economic activity needs resource input → production → valued output.
-
-</details>
-
-**Q7.**
-
-Which among the following is NOT a major factor of economic growth?
-
-A. Accumulation of capital and reforms in technology
-B. Change in population
-C. Division of labour in specialised activities
-D. Technocrats and Bureaucrats
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Technocrats and Bureaucrats.
-
-**Ans: D.** Natural resources, physical/human capital, labour and technology are major factors — not the bureaucrats label.
-
-</details>
-
-**Q8.**
-
-With reference to the 'Capital formation' which of the statements is/are correct?
-
-1. Process of capital formation depends on savings and effectiveness of financial institutions.
-2. Investment is the essential factor of capital formation.
-
-Select the correct answer using the codes given below.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Both 1 and 2.
-
-**Ans: C.** Save → channel via institutions → invest.
-
-</details>
-
-**Q9.**
-
-Mixed economy means:
-
-A. Existence of both small and large industries
-B. Existence of both private and public sectors
-C. Existence of both primary and secondary sectors
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Existence of both private and public sectors.
-
-**Ans: B.** Public + private coexistence — not size of firms or production sectors.
-
-</details>
-
-**Q10.**
-
-India became member of International Monetary Fund (IMF). Select the correct answer with the codes given below:
-
-A. 2, 4, 1,3
-B. 4,3, 1, 2
-C. 1, 2,3,4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Correct option is B — 4,3, 1, 2 — 4,3, 1, 2
-
-**Ans: B.** 4,3, 1, 2
-</details>
-
-**Q11.**
-
-Communications The document of Twelfth Five Year Plan suggests that the largest expenditure in this plan would be on:
-
-A. Financial Services
-B. Social Services
-C. Agriculture
-D. Fisheries and Forestry
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Twelfth Plan document keyed the largest expenditure share to Social Services — Social Services
-
-**Ans: B.** Social Services
-</details>
-
-**Q12.**
-
-Which of the following was called as Economic Cabinet of India by Ashok Chandra?
-
-A. Planning Commission
-B. Finance Commission
-C. Central Cabinet
-D. Administrative Reform Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Ashok Chandra pointed out that the Planning Commission's undefined position and wide terms of reference had catapulted it into a position of 'the Economic Cabinet'
-
-**Ans: A.** The Planning Commission was called as Economic Cabinet of India by Ashok Chandra.
-
-</details>
-
-**Q13.**
-
-National Development Council was constituted on:
-
-A. 16 August 1950
-B. 1 April 1951
-C. 6 August 1952
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** NDC was constituted on 6 August 1952; PM is ex-officio Chairman — 6 August 1952
-
-**Ans: C.** 6 August 1952
-</details>
-
-**Q14.**
-
-Planning commission is constituted in India:
-
-A. Under the Constitution
-B. Under an Act of the Parliament
-C. By a resolution of the Cabinet
-D. By a resolution of the Lok Sabha
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Planning Commission was set up by Cabinet resolution (15 March 1950) — non-constitutional, non-statutory — By a resolution of the Cabinet
-
-**Ans: C.** By a resolution of the Cabinet
-</details>
-
-**Q15.**
-
-Planning Commission of India is
-
-A. Politicał body
-B. Non-Political body
-C. Quasi-Political body
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Planning Commission is keyed as a quasi-political / advisory body — not a constitutional or purely non-political body — Quasi-Political body
-
-**Ans: C.** Quasi-Political body
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Economic Growth, which of the following statements is/are correct?<br><br>1. Indian Economy is an Underdeveloped Economy.<br>2. Indian Economy is a Mixed Economy.<br>3. J.M. Keynes is the Father of Economics.<br><br>Select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2 are correct.</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3 is correct.</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 is correct.</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3 are correct.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Only 1 and 2 are correct.
+
+**Ans: A.** Mixed + underdeveloped/developing textbook tags true; Keynes title false.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Development is being defined as improving living standards and welfare.<br><br>Reason (R): Growth in per capita income is not a sufficient measure of development.<br><br>Select the correct answer from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true.</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A).</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is true, but (R) is false.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** Decide from the stem options; keyed answer is Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**Ans: A.** Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Who was the first Vice-Chairman of the NITI Ayog?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Arvind Panagariya</div><div class="pyq-opt"><span class="opt-letter">B</span> Raghuram Rajan</div><div class="pyq-opt"><span class="opt-letter">C</span> Chandrashekhara Subramanyam</div><div class="pyq-opt"><span class="opt-letter">D</span> Rajiv Kumar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Arvind Panagariya.
+
+**Ans: A.** First VC = Panagariya.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">In India which of the following Five Year Plans was launched with a focus on sustainable growth?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 9th</div><div class="pyq-opt"><span class="opt-letter">B</span> 10th</div><div class="pyq-opt"><span class="opt-letter">C</span> 11th</div><div class="pyq-opt"><span class="opt-letter">D</span> 12th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 12th Plan sustainability tag — 12th
+
+**Ans: D.** 12th</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The Atal Innovation Mission (AIM) is a flagship initiative set up by</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ministry of Human Resource Development</div><div class="pyq-opt"><span class="opt-letter">B</span> NITI Aayog</div><div class="pyq-opt"><span class="opt-letter">C</span> Ministry of Social Justice and Impowerment</div><div class="pyq-opt"><span class="opt-letter">D</span> Ministry of Science and Technology</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches NITI Aayog.
+
+**Ans: B.** NITI Aayog</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following is not an economic activity?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Voluntary Social Service</div><div class="pyq-opt"><span class="opt-letter">B</span> Farming</div><div class="pyq-opt"><span class="opt-letter">C</span> Transportation</div><div class="pyq-opt"><span class="opt-letter">D</span> Service</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Unpaid voluntary social service is not.
+
+**Ans: A.** Economic activity needs resource input → production → valued output.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which among the following is NOT a major factor of economic growth?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Accumulation of capital and reforms in technology</div><div class="pyq-opt"><span class="opt-letter">B</span> Change in population</div><div class="pyq-opt"><span class="opt-letter">C</span> Division of labour in specialised activities</div><div class="pyq-opt"><span class="opt-letter">D</span> Technocrats and Bureaucrats</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Technocrats and Bureaucrats.
+
+**Ans: D.** Natural resources, physical/human capital, labour and technology are major factors — not the bureaucrats label.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to the 'Capital formation' which of the statements is/are correct?<br><br>1. Process of capital formation depends on savings and effectiveness of financial institutions.<br>2. Investment is the essential factor of capital formation.<br><br>Select the correct answer using the codes given below.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Both 1 and 2.
+
+**Ans: C.** Save → channel via institutions → invest.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Mixed economy means:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Existence of both small and large industries</div><div class="pyq-opt"><span class="opt-letter">B</span> Existence of both private and public sectors</div><div class="pyq-opt"><span class="opt-letter">C</span> Existence of both primary and secondary sectors</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Existence of both private and public sectors.
+
+**Ans: B.** Public + private coexistence — not size of firms or production sectors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">India became member of International Monetary Fund (IMF). Select the correct answer with the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 4, 1,3</div><div class="pyq-opt"><span class="opt-letter">B</span> 4,3, 1, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2,3,4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Correct option is B — 4,3, 1, 2 — 4,3, 1, 2
+
+**Ans: B.** 4,3, 1, 2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Communications The document of Twelfth Five Year Plan suggests that the largest expenditure in this plan would be on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Financial Services</div><div class="pyq-opt"><span class="opt-letter">B</span> Social Services</div><div class="pyq-opt"><span class="opt-letter">C</span> Agriculture</div><div class="pyq-opt"><span class="opt-letter">D</span> Fisheries and Forestry</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Twelfth Plan document keyed the largest expenditure share to Social Services — Social Services
+
+**Ans: B.** Social Services</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following was called as Economic Cabinet of India by Ashok Chandra?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Planning Commission</div><div class="pyq-opt"><span class="opt-letter">B</span> Finance Commission</div><div class="pyq-opt"><span class="opt-letter">C</span> Central Cabinet</div><div class="pyq-opt"><span class="opt-letter">D</span> Administrative Reform Commission</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Ashok Chandra pointed out that the Planning Commission's undefined position and wide terms of reference had catapulted it into a position of 'the Economic Cabinet'
+
+**Ans: A.** The Planning Commission was called as Economic Cabinet of India by Ashok Chandra.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">National Development Council was constituted on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 16 August 1950</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 April 1951</div><div class="pyq-opt"><span class="opt-letter">C</span> 6 August 1952</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** NDC was constituted on 6 August 1952; PM is ex-officio Chairman — 6 August 1952
+
+**Ans: C.** 6 August 1952</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Planning commission is constituted in India:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Under the Constitution</div><div class="pyq-opt"><span class="opt-letter">B</span> Under an Act of the Parliament</div><div class="pyq-opt"><span class="opt-letter">C</span> By a resolution of the Cabinet</div><div class="pyq-opt"><span class="opt-letter">D</span> By a resolution of the Lok Sabha</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Planning Commission was set up by Cabinet resolution (15 March 1950) — non-constitutional, non-statutory — By a resolution of the Cabinet
+
+**Ans: C.** By a resolution of the Cabinet</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Planning Commission of India is</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Politicał body</div><div class="pyq-opt"><span class="opt-letter">B</span> Non-Political body</div><div class="pyq-opt"><span class="opt-letter">C</span> Quasi-Political body</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Planning Commission is keyed as a quasi-political / advisory body — not a constitutional or purely non-political body — Quasi-Political body
+
+**Ans: C.** Quasi-Political body</div>
+  </div>
+</div>

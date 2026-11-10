@@ -72,6 +72,18 @@ hide:
 48. **Ship Motifs**: Terracotta models of boats and ship representations on seals were found at **Lothal** and **Mohenjodaro**, proving oceanic navigation.
 49. **No Evidence of Sati**: Double burial at Lothal (one male and one female skeleton in a single brick-lined grave) was once theorized as Sati, but modern physical anthropology rejects this as simultaneous burial or family interment.
 50. **Harappan Legacy to Later India**: Worship of Shiva/Pashupati, Mother Goddess, sacred trees (Pipal), sacred animals (bull), sacred rivers/tanks (Great Bath prefiguring temple pushkarinis), yoga postures, svastika symbol, and standard weight ratios continued into historic Hinduism.
+51. **Geographical Extent & Boundary Sites:** North: **Manda** on Chenab River (J&K); South: **Daimabad** on Pravara River (Maharashtra - bronze chariot found); East: **Alamgirpur** on Hindon River (Meerut, UP - easternmost outpost); West: **Sutkagan Dor** on Dasht River (Makran coast, Pakistan/Iran border - westernmost). Total area: ~1.3 million sq km in triangular shape.
+52. **Harappa Specifics (Montgomery / Sahiwal, Punjab, Pakistan):** First excavated site (1921 by **Daya Ram Sahni**); situated on left bank of **Ravi River**; 12 granaries in two rows of six; working floors with circular brick threshing platforms; coppersmith's furnace; red sandstone male torso; clay model of a bullock cart (*Ikka*); cemetery R-37 and Cemetery H.
+53. **Mohenjo-daro ('Mound of the Dead', Larkana, Sindh):** Excavated in 1922 by **R.D. Banerji** on right bank of **Indus River**; largest IVC city; **Great Bath** (lined with bitumen/pitch; gypsum mortar; steps on north and south; rooms for priests); **Great Granary** (largest building in Mohenjo-daro); **Bronze Dancing Girl** (made by lost-wax / *cire perdue* technique); steatite bearded priest-king; terracotta seal of **Pashupati Proto-Shiva** (surrounded by Elephant, Tiger, Rhinoceros, Buffalo, and two Deer under seat); piece of woven cotton cloth.
+54. **Kalibangan ('Black Bangles', Hanumangarh, Rajasthan):** Situated on the dried bed of the **Ghaggar River**; excavated by A. Ghosh (1953) and B.B. Lal / B.K. Thapar (1961); **earliest ploughed field** in the world showing criss-cross furrow marks (two crops simultaneously: mustard and gram); series of seven **fire altars** (*Agni-kundas*); camel bones; cylindrical Mesopotamian seal; wooden furrow and tiled floor with intersecting circles; no drainage system like Mohenjo-daro.
+55. **Lothal (Ahmedabad district, Gujarat):** Situated at the head of Gulf of Khambhat on the **Bhogava River**; excavated by **S.R. Rao (1954)**; world's earliest known **Tidal Dockyard** built of burnt bricks; terracotta model of a ship; **bead-making factory**; double burial (male and female in single grave, interpreted as proto-sati); Persian Gulf button seal; rice husk impression in pottery; ivory scale for linear measurement.
+56. **Dholavira (Khadir Bet, Rann of Kutch, Gujarat):** Excavated by **R.S. Bisht (1990)**; UNESCO World Heritage Site (2021); unique **three-tier division** of city: Citadel (*Burg*), Middle Town, and Lower Town (unlike other IVC cities which have two parts); giant **water reservoirs and storm water harvesting system** cut out of living rock; stone masonry architecture; 10-character Indus script **Signboard** found near the northern gateway.
+57. **Chanhudaro (Sindh, Pakistan):** Excavated by N.G. Majumdar (1931) and Ernest Mackay (1935); situated 130 km south of Mohenjo-daro; **only Indus city without a citadel**; industrial bead-making factory and shell-working centre; inkpot, lipstick, bronze toy cart; imprint of dog's paw chasing a cat on a brick.
+58. **Surkotada (Kutch, Gujarat):** Excavated by **J.P. Joshi (1964)**; only site yielding actual **skeletal remains / bones of horse** (Equus caballus) and horse teeth; pot burials.
+59. **Banawali (Fatehabad, Haryana):** Situated on the dried banks of the Saraswati River; excavated by **R.S. Bisht (1974)**; rich deposits of **high-quality barley**; terracotta toy plough; lack of systematic grid drainage; radial street layout.
+60. **Rakhigarhi (Hisar, Haryana):** Situated on the Ghaggar-Hakra river plain; excavated by Amarendra Nath and Vasant Shinde; **largest Harappan site in the Indian subcontinent** (~350 hectares, larger than Mohenjo-daro); continuous settlement from Early Harappan to Mature Harappan; DNA extraction from female skeleton showing indigenous South Asian lineage without Central Asian Steppe ancestry.
+61. **Sanauli (Baghpat district, UP):** Excavated by Archaeological Survey of India (ASI, 2018 under S.K. Manjul); royal necropolis; yielded **copper-plated horse-drawn / ox-drawn wheeled war-chariots**, copper helmets, anthropomorphic antennae swords, and royal burial sarcophagi.
+62. **Indus Trade, Script & Metallurgy:** Bronze Age civilization; knew copper, bronze, lead, gold, and silver, but **iron was completely unknown**; steatite seals used for commercial labeling; pictographic and **boustrophedon script** (written right-to-left, then left-to-right alternately, un-deciphered); Sumerian cuneiform inscriptions refer to Indus region as **Meluhha** (with intermediate trade stations **Dilmun** [Bahrain] and **Magan** [Oman coast]).
 
 ## ⏱️ Timeline / Chronology
 
@@ -145,65 +157,50 @@ Archaeological Milestone Ladder:
 | **Sanauli** | Baghpat | Yamuna basin | D.V. Sharma (2018) | 125 burials, antenna copper swords, wooden solid-wheel chariots |
 | **Bargaon** | Saharanpur | Doab | ASI | Late Harappan / OCP contact phase settlement |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Harappa** | **Mohenjodaro** | Ravi left bank, 6 granaries, cemetery R-37 vs Indus right bank, Great Bath, Dancing Girl | हड़प्पा / मोहनजोदड़ो |
-| **Manda (J&K)** | **Mandi (UP)** | Northernmost IVC site on Chenab river vs Late Harappan gold jewelry hoard in Muzaffarnagar | मांडा / मांडी |
-| **Rakhigarhi** | **Alamgirpur** | Largest Harappan site (Haryana) vs Easternmost Harappan site (Meerut, UP) | राखीगढ़ी / आलमगीरपुर |
-| **Lothal (Gujarat)** | **Kalibangan (Rajasthan)**| Artificial tidal brick dockyard vs Ploughed agricultural field furrows & 7 fire altars | लोथल / कालीबंगा |
-| **Ploughed field** | **Toy model of plough** | Actual ploughed field furrows at **Kalibangan** vs Terracotta toy plough model at **Banawali** | जुता हुआ खेत / हल का खिलौना |
-| **Dholavira** | **Chanhudaro** | Tripartite city with giant stone reservoirs vs Only city without a citadel | धोलावीरा / चन्हूड़ो |
-| **Surkotada** | **Susa / Ur** | Site with disputed horse bone remains in Gujarat vs Mesopotamian cities with Meluhha trade | सुरकोटड़ा / सुसा |
-| **Meluhha** | **Dilmun** | Mesopotamian name for Indus region vs Intermediate trading station at Bahrain | मेलुहा / दिलमुन |
-| **Bronze Age (IVC)** | **Iron Age (Vedic/PGW)** | Bronze, copper, gold, silver (NO IRON) vs Smelted iron weapons & agricultural axes | कांस्य युग / लौह युग |
-| **Harappan Script** | **Brahmi Script** | Undeciphered pictographic logo-syllabic script vs Deciphered historic script of Ashoka | हड़प्पा लिपि / ब्राह्मी लिपि |
-| **Steatite seals** | **Terracotta seals** | High-prestige square stamp seals of merchants vs Cheap clay tokens / seal impressions | सेलखड़ी मुहर / पकी मिट्टी |
-| **Aceramic Neolithic** | **Bronze Age Urban** | Mehrgarh Period I (food without pottery) vs Harappan planned multi-story brick cities | पाषाण युगीन / कांस्य युगीन |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **River Banks of the Two Great Capitals:**
-   - **Harappa** = **H - R - L** $ightarrow$ **H**arappa on **R**avi's **L**eft bank.
-   - **Mohenjodaro** = **M - I - R** $ightarrow$ **M**ohenjodaro on **I**ndus's **R**ight bank.
+   - **Harappa** = **H - R - L** $
+ightarrow$ **H**arappa on **R**avi's **L**eft bank.
+   - **Mohenjodaro** = **M - I - R** $
+ightarrow$ **M**ohenjodaro on **I**ndus's **R**ight bank.
 2. **Four Geographical Extremes:**
-   - **N - S - E - W** $ightarrow$ **M**anda (North) $ightarrow$ **D**aimabad (South) $ightarrow$ **A**lamgirpur (East) $ightarrow$ **S**utkagen Dor (West). (*"My Dear Ancient Subcontinent"*)
+   - **N - S - E - W** $
+ightarrow$ **M**anda (North) $
+ightarrow$ **D**aimabad (South) $
+ightarrow$ **A**lamgirpur (East) $
+ightarrow$ **S**utkagen Dor (West). (*"My Dear Ancient Subcontinent"*)
 3. **Dholavira's Triad:**
-   - **DHO - LA - VI - RA** (3 syllables) $ightarrow$ **3-tier city division** (Citadel, Middle Town, Lower Town).
+   - **DHO - LA - VI - RA** (3 syllables) $
+ightarrow$ **3-tier city division** (Citadel, Middle Town, Lower Town).
 4. **Kalibangan Findings:**
-   - **Bangles, Bones & Burnt Altars** $ightarrow$ Black **Bangles** (*Kalibangan*), Camel **Bones**, 7 Fire **Altars**, Ploughed **Bed**.
+   - **Bangles, Bones & Burnt Altars** $
+ightarrow$ Black **Bangles** (*Kalibangan*), Camel **Bones**, 7 Fire **Altars**, Ploughed **Bed**.
 5. **Chanhudaro's Beauty Parlor:**
-   - **No Citadel** $ightarrow$ Industrial craft city: **Bead** factory, **Lipstick**, **Inkpot**, **Kajal/Cosmetics**.
+   - **No Citadel** $
+ightarrow$ Industrial craft city: **Bead** factory, **Lipstick**, **Inkpot**, **Kajal/Cosmetics**.
 6. **Metals: The Iron Exclusion Rule:**
    - Harappans knew **C - B - G - S - L** (**C**opper, **B**ronze, **G**old, **S**ilver, **L**ead).
    - Harappans **NEVER KNEW IRON**! (Any question stating *"Harappans used iron swords"* is automatically **FALSE**).
 
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
-
-1. Mandi
-2. Rakhigarhi
-3. Hulas
-
-A. 1 and 2
-
-B. Only 3
-
-C. 1 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (1 and 3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?<br><br>1. Mandi<br>2. Rakhigarhi<br>3. Hulas</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (1 and 3)
 
 **Detailed Explanation:**
 - **Analysis of Statements:**
@@ -213,19 +210,20 @@ D. Only 1
 - **Conclusion:** 1 and 3 only are in Uttar Pradesh, matching Option **C**.
 
 **Key Exam Takeaway / Trap:**
-- Repeat PYQ: Mandi and Hulas are in **Uttar Pradesh**, Rakhigarhi is in **Haryana**.
-</details>
+- Repeat PYQ: Mandi and Hulas are in **Uttar Pradesh**, Rakhigarhi is in **Haryana**.</div>
+  </div>
+</div>
 
-**Q2.**
-
-The eastern boundary of the Harappan culture is indicated by which of the following?
-
-A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Alamgirpur)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The eastern boundary of the Harappan culture is indicated by which of the following?<br><br>A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Alamgirpur)
 
 **Detailed Explanation:**
 - **Easternmost Frontier:** **Alamgirpur** (located in Meerut district, Uttar Pradesh, on the Hindan River, an affluent of the Yamuna) was excavated by Y.D. Sharma in 1958. It marks the **easternmost extent** of the Harappan cultural realm.
@@ -237,22 +235,22 @@ A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
   - Rakhigarhi (Haryana) = Largest site in India.
 
 **Key Exam Takeaway / Trap:**
-- Eastern boundary anchor = **Alamgirpur (Meerut, UP on Hindan river)**.
-</details>
+- Eastern boundary anchor = **Alamgirpur (Meerut, UP on Hindan river)**.</div>
+  </div>
+</div>
 
-**Q3.**
-
-From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
-
-A. Dholavira and Bhagatrav
-B. Harappa and Kot Diji
-C. Mohenjo-daro and Lothal
-D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Mohenjo-daro and Lothal)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">From which archaeological site of the Indus Valley Civilization are figures or models of boats found?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dholavira and Bhagatrav</div><div class="pyq-opt"><span class="opt-letter">B</span> Harappa and Kot Diji</div><div class="pyq-opt"><span class="opt-letter">C</span> Mohenjo-daro and Lothal</div><div class="pyq-opt"><span class="opt-letter">D</span> Kalibangan and Ropar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Mohenjo-daro and Lothal)
 
 **Detailed Explanation:**
 - **Archaeological Discoveries:**
@@ -261,32 +259,32 @@ D. Kalibangan and Ropar
 - **Conclusion:** Mohenjo-daro and Lothal correctly answer the question stem.
 
 **Key Exam Takeaway / Trap:**
-- Core signature pairing: Great Bath = **Mohenjo-daro**; Dockyard = **Lothal**.
-</details>
+- Core signature pairing: Great Bath = **Mohenjo-daro**; Dockyard = **Lothal**.</div>
+  </div>
+</div>
 
-**Q4.**
-
-Match List-I with List-II and answer using the codes given below the lists:
-
-| List-I (Harappan Site) | List-II (UT/State of India) |
-|------------------------|-----------------------------|
-| A. Balu | 1. Uttar Pradesh |
-| B. Manda | 2. Jammu & Kashmir |
-| C. Padri | 3. Haryana |
-| D. Hulas | 4. Gujarat |
-
-A. 3 2 1 4
-
-B. 2 3 4 1
-
-C. 2 4 3 1
-
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (3, 2, 4, 1)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and answer using the codes given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Harappan Site)</th><th>List-II (UT/State of India)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Balu</td><td><span class="match-key">1</span> Uttar Pradesh</td></tr>
+      <tr><td><span class="match-key">B</span> Manda</td><td><span class="match-key">2</span> Jammu & Kashmir</td></tr>
+      <tr><td><span class="match-key">C</span> Padri</td><td><span class="match-key">3</span> Haryana</td></tr>
+      <tr><td><span class="match-key">D</span> Hulas</td><td><span class="match-key">4</span> Gujarat</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 2 1 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 2 4 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (3, 2, 4, 1)
 
 **Detailed Explanation:**
 - **Matching Details:**
@@ -297,32 +295,32 @@ D. 3 2 4 1
 - **Code Match:** A-3, B-2, C-4, D-1, matching Option **D**.
 
 **Key Exam Takeaway / Trap:**
-- Balu (Haryana), Manda (J&K), Padri (Gujarat), Hulas (UP).
-</details>
+- Balu (Haryana), Manda (J&K), Padri (Gujarat), Hulas (UP).</div>
+  </div>
+</div>
 
-**Q5.**
-
-Match List-I with List-II and select the correct answer using the codes given below the lists:
-
-| List-I | List-II |
-|--------|---------|
-| A. Indus Valley Civilization | 1. Pastoral |
-| B. Later Vedic Society | 2. Land Lordism |
-| C. Rigvedic Society | 3. Agrarian |
-| D. Medieval Period | 4. Urban |
-
-A. 4 2 3 1
-
-B. 2 1 4 3
-
-C. 3 4 1 2
-
-D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (4, 3, 1, 2)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the codes given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Indus Valley Civilization</td><td><span class="match-key">1</span> Pastoral</td></tr>
+      <tr><td><span class="match-key">B</span> Later Vedic Society</td><td><span class="match-key">2</span> Land Lordism</td></tr>
+      <tr><td><span class="match-key">C</span> Rigvedic Society</td><td><span class="match-key">3</span> Agrarian</td></tr>
+      <tr><td><span class="match-key">D</span> Medieval Period</td><td><span class="match-key">4</span> Urban</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 2 3 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 3 1 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (4, 3, 1, 2)
 
 **Detailed Explanation:**
 - **Socioeconomic Categorization:**
@@ -333,27 +331,22 @@ D. 4 3 1 2
 - **Code Match:** A-4, B-3, C-1, D-2, matching Option **D**.
 
 **Key Exam Takeaway / Trap:**
-- Sequence: **Urban (IVC) → Pastoral (Rigvedic) → Agrarian (Later Vedic) → Land Lordism (Medieval)**.
-</details>
+- Sequence: **Urban (IVC) → Pastoral (Rigvedic) → Agrarian (Later Vedic) → Land Lordism (Medieval)**.</div>
+  </div>
+</div>
 
-**Q6.**
-
-Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
-
-I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
-
-A. I, II, III, IV
-
-B. I, II
-
-C. II, III
-
-D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (III, IV)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following centres related to Indus Valley are situated in Uttar Pradesh?<br><br>I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, III, IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I, II</div><div class="pyq-opt"><span class="opt-letter">C</span> II, III</div><div class="pyq-opt"><span class="opt-letter">D</span> III, IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (III, IV)
 
 **Detailed Explanation:**
 - **Evaluation of Sites:**
@@ -364,27 +357,22 @@ D. III, IV
 - **Conclusion:** Only III and IV are located in Uttar Pradesh, matching Option **D**.
 
 **Key Exam Takeaway / Trap:**
-- Uttar Pradesh Harappan sites: **Alamgirpur, Hulas, Mandi, Sanauli**.
-</details>
+- Uttar Pradesh Harappan sites: **Alamgirpur, Hulas, Mandi, Sanauli**.</div>
+  </div>
+</div>
 
-**Q7.** With reference to the Indus Valley Civilization, which of the following statements is/are correct?
-
-1. The Mature Harappan phase is about 1500–600 BCE.
-2. It is a Bronze Age urban culture with no iron and no coined money.
-3. The Harappan script on seals has been fully deciphered.
-
-A. Only 2
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Only 2 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to the Indus Valley Civilization, which of the following statements is/are correct?<br><br>1. The Mature Harappan phase is about 1500–600 BCE.<br>2. It is a Bronze Age urban culture with no iron and no coined money.<br>3. The Harappan script on seals has been fully deciphered.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Only 2 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is INCORRECT:** The **Mature Harappan (Urban) phase** is dated by calibrated radiocarbon chronologies to **c. 2600 BCE – 1900 BCE**, NOT 1500–600 BCE! The period 1500–600 BCE corresponds to the **Vedic period** (Rigvedic c. 1500–1000 BCE and Later Vedic c. 1000–600 BCE), which was a rural, non-urban civilization.
@@ -395,30 +383,22 @@ D. 1 and 3
 - Chronological brackets of IVC:
   - **Early Harappan (Proto-urban):** c. 3300–2600 BCE.
   - **Mature Harappan (Urban peak):** c. 2600–1900 BCE.
-  - **Late Harappan (Post-urban decline):** c. 1900–1300 BCE.
-</details>
+  - **Late Harappan (Post-urban decline):** c. 1900–1300 BCE.</div>
+  </div>
+</div>
 
-**Q8.** Arrange the following in chronological order (earliest first):
-
-1. Daya Ram Sahni excavates Harappa
-2. Charles Masson notices Harappa ruins
-3. John Marshall announces the civilization
-4. R.D. Banerji excavates Mohenjo-daro
-
-Select the correct answer from the code given below:
-
-A. 2, 4, 1, 3
-
-B. 2, 1, 4, 3
-
-C. 1, 2, 4, 3
-
-D. 2, 1, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (2, 1, 3, 4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order (earliest first):<br><br>1. Daya Ram Sahni excavates Harappa<br>2. Charles Masson notices Harappa ruins<br>3. John Marshall announces the civilization<br>4. R.D. Banerji excavates Mohenjo-daro<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 4, 1, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 4, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 3, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (2, 1, 3, 4)
 
 **Detailed Explanation:**
 - **Chronological Verification of Archaeological Milestones:**
@@ -429,32 +409,32 @@ D. 2, 1, 3, 4
 - **Correct Sequence:** 2 (1826) → 1 (1921) → 3 (1922) → 4 (1954), matching Option **B**.
 
 **Key Exam Takeaway / Trap:**
-- Chronology ladder: **Masson (1826) → Sahni at Harappa (1921) → Banerji at Mohenjo-daro (1922) → S.R. Rao at Lothal (1954)**.
-</details>
+- Chronology ladder: **Masson (1826) → Sahni at Harappa (1921) → Banerji at Mohenjo-daro (1922) → S.R. Rao at Lothal (1954)**.</div>
+  </div>
+</div>
 
-**Q9.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Site) | List-II (Feature) |
-|---|---|
-| 1. Lothal | A. Great Bath |
-| 2. Mohenjo-daro | B. Dockyard |
-| 3. Kalibangan | C. Bead-making; no citadel |
-| 4. Chanhudaro | D. Ploughed field and fire altars |
-
-*Row order is not the answer code.*
-
-A. 1-A, 2-B, 3-D, 4-C
-
-B. 1-B, 2-A, 3-D, 4-C
-
-C. 1-B, 2-A, 3-C, 4-D
-
-D. 1-D, 2-A, 3-B, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1-B, 2-A, 3-D, 4-C)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Site)</th><th>List-II (Feature)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Lothal</td><td><span class="match-key">A</span> Great Bath</td></tr>
+      <tr><td><span class="match-key">2</span> Mohenjo-daro</td><td><span class="match-key">B</span> Dockyard</td></tr>
+      <tr><td><span class="match-key">3</span> Kalibangan</td><td><span class="match-key">C</span> Bead-making; no citadel</td></tr>
+      <tr><td><span class="match-key">4</span> Chanhudaro</td><td><span class="match-key">D</span> Ploughed field and fire altars</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-B, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (1-B, 2-A, 3-D, 4-C)
 
 **Detailed Explanation:**
 - **Detailed Pairing Analysis:**
@@ -465,27 +445,22 @@ D. 1-D, 2-A, 3-B, 4-C
 - **Code Match:** 1-B, 2-A, 3-D, 4-C, matching Option **B**.
 
 **Key Exam Takeaway / Trap:**
-- Standard UPPCS matching grid: **Lothal = Dockyard | Mohenjo-daro = Great Bath | Kalibangan = Ploughed field | Dholavira = Reservoirs**.
-</details>
+- Standard UPPCS matching grid: **Lothal = Dockyard | Mohenjo-daro = Great Bath | Kalibangan = Ploughed field | Dholavira = Reservoirs**.</div>
+  </div>
+</div>
 
-**Q10.** With reference to geographic extremes of the Harappan culture, which of the following is/are correct?
-
-1. Sutkagen-dor marks the western extreme.
-2. Rakhigarhi marks the eastern boundary of Harappan culture.
-3. Alamgirpur (Meerut, UP) marks the western extreme.
-
-A. 1 and 2
-
-B. Only 1
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only 1 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to geographic extremes of the Harappan culture, which of the following is/are correct?<br><br>1. Sutkagen-dor marks the western extreme.<br>2. Rakhigarhi marks the eastern boundary of Harappan culture.<br>3. Alamgirpur (Meerut, UP) marks the western extreme.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Only 1 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is CORRECT:** **Sutkagen-dor**, situated on the Dasht River on the Makran coast of Balochistan near the modern Pakistan-Iran border, marks the undisputed **westernmost geographical extreme** of the Harappan civilization.
@@ -493,29 +468,22 @@ D. 1 and 3
 - **Statement 3 is INCORRECT:** **Alamgirpur** marks the **EASTERNMOST extreme** (in Meerut, UP), while **Manda** marks the **NORTHERNMOST extreme**.
 
 **Key Exam Takeaway / Trap:**
-- Cardinal bounds: **North = Manda | South = Daimabad | East = Alamgirpur | West = Sutkagen-dor**.
-</details>
+- Cardinal bounds: **North = Manda | South = Daimabad | East = Alamgirpur | West = Sutkagen-dor**.</div>
+  </div>
+</div>
 
-**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Alamgirpur marks the eastern boundary of Harappan culture.
-
-**Reason (R):** Rakhigarhi in Hisar is the largest Harappan site in India.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Alamgirpur marks the eastern boundary of Harappan culture.<br><br>**Reason (R):** Rakhigarhi in Hisar is the largest Harappan site in India.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Both (A) and (R) are true and (R) is the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is true:** **Alamgirpur** in Meerut district, Uttar Pradesh (excavated by Y.D. Sharma on the Hindan River, a tributary of the Yamuna), is universally recognized in Indian archaeological literature as the **easternmost boundary site** of the Harappan civilization.
@@ -523,30 +491,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Causal Connection (Why R explains A):** Even though Alamgirpur was a small rural outpost (~1.5 hectares) rather than a grand metropolis like Mohenjo-daro or Harappa, its geographical position in the Upper Doab unequivocally makes it the easternmost boundary of the Harappan cultural horizon.
 
 **Key Exam Takeaway / Trap:**
-- Frontier status is determined by **geographical longitude/latitude and cultural stratigraphy**, not by settlement acreage.
-</details>
+- Frontier status is determined by **geographical longitude/latitude and cultural stratigraphy**, not by settlement acreage.</div>
+  </div>
+</div>
 
-**Q12.** Which of the following Uttar Pradesh sites is/are correctly placed in the Harappan fringe?
-
-1. Alamgirpur — Meerut
-2. Hulas — Saharanpur
-3. Mandi — Muzaffarnagar
-4. Rakhigarhi — Muzaffarnagar
-
-Select the correct answer from the code given below:
-
-A. 1, 2 and 4 only
-
-B. 1, 2 and 3 only
-
-C. 2, 3 and 4 only
-
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Alamgirpur, Hulas and Mandi)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following Uttar Pradesh sites is/are correctly placed in the Harappan fringe?<br><br>1. Alamgirpur — Meerut<br>2. Hulas — Saharanpur<br>3. Mandi — Muzaffarnagar<br>4. Rakhigarhi — Muzaffarnagar<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Alamgirpur, Hulas and Mandi)
 
 **Detailed Explanation:**
 - **Geographical Breakdown of Sites:**
@@ -558,23 +518,22 @@ D. 1, 2, 3 and 4
 - **Conclusion:** Alamgirpur, Hulas, and Mandi all belong to Uttar Pradesh, matching Option **B**.
 
 **Key Exam Takeaway / Trap:**
-- The premier Harappan quartette of **Uttar Pradesh**: **Alamgirpur (Meerut), Hulas (Saharanpur), Mandi (Muzaffarnagar), and Sanauli (Baghpat)**.
-</details>
+- The premier Harappan quartette of **Uttar Pradesh**: **Alamgirpur (Meerut), Hulas (Saharanpur), Mandi (Muzaffarnagar), and Sanauli (Baghpat)**.</div>
+  </div>
+</div>
 
-**Q13.** Which one of the following pairs is NOT correctly matched?
-
-A. Mandi — Muzaffarnagar, UP
-
-B. Manda — Chenab, Jammu (northernmost)
-
-C. Daimabad — Maharashtra (southern extreme)
-
-D. Padri — Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Padri — Maharashtra)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mandi — Muzaffarnagar, UP</div><div class="pyq-opt"><span class="opt-letter">B</span> Manda — Chenab, Jammu (northernmost)</div><div class="pyq-opt"><span class="opt-letter">C</span> Daimabad — Maharashtra (southern extreme)</div><div class="pyq-opt"><span class="opt-letter">D</span> Padri — Uttar Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Padri — Maharashtra)
 
 **Detailed Explanation:**
 - **Why Option D is NOT correctly matched (The Answer):**
@@ -585,29 +544,22 @@ D. Padri — Uttar Pradesh
   - **Manda:** Jammu district, **Jammu & Kashmir**.
 
 **Key Exam Takeaway / Trap:**
-- Padri = **Gujarat (Bhavnagar)**. Daimabad = **Maharashtra (Ahmednagar)**.
-</details>
+- Padri = **Gujarat (Bhavnagar)**. Daimabad = **Maharashtra (Ahmednagar)**.</div>
+  </div>
+</div>
 
-**Q14.** With reference to Dholavira, which of the following statements is/are correct?
-
-1. It shows a three-part town plan: citadel, middle town and lower town.
-2. It is known for water reservoirs and a large signboard.
-3. UNESCO listed it in 2021.
-
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-
-B. 2 and 3
-
-C. Only 1
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (All three statements are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Dholavira, which of the following statements is/are correct?<br><br>1. It shows a three-part town plan: citadel, middle town and lower town.<br>2. It is known for water reservoirs and a large signboard.<br>3. UNESCO listed it in 2021.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (All three statements are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is CORRECT:** Unlike standard two-tier Harappan cities, **Dholavira** is laid out in a unique **three-tier plan**: a fortified **Castle/Citadel**, a fortified **Middle Town**, and an adjoining walled **Lower Town**, separated by wide open avenues and a grand ceremonial stadium.
@@ -615,27 +567,22 @@ D. 1 and 2
 - **Statement 3 is CORRECT:** Near the northern gateway of the castle, excavators uncovered the famous **Dholavira Signboard**—an inscription consisting of **10 large characters of the Harappan script**, each about 37 cm high, inlaid with crystalline gypsum into a wooden board.
 
 **Key Exam Takeaway / Trap:**
-- Dholavira's unique trifecta: **Tripartite town plan + 16 rock-cut reservoirs + 10-character signboard inscription**.
-</details>
+- Dholavira's unique trifecta: **Tripartite town plan + 16 rock-cut reservoirs + 10-character signboard inscription**.</div>
+  </div>
+</div>
 
-**Q15.** Consider the following statements:
-
-1. The most common seal animal is the cow.
-2. Harappan bricks commonly follow the ratio 1 : 3 : 9.
-3. The citadel usually lies to the west and the lower town to the east.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Only 3 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. The most common seal animal is the cow.<br>2. Harappan bricks commonly follow the ratio 1 : 3 : 9.<br>3. The citadel usually lies to the west and the lower town to the east.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Only 3 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is INCORRECT:** The **Cow is NEVER depicted on Harappan seals**! The most common animal motif found on Harappan seals is the mythical **Unicorn** (a one-horned animal with a saddle and incense-burner/manger in front), accounting for more than 60% of all zoomorphic seals.
@@ -643,5 +590,6 @@ D. 1 and 3
 - **Statement 3 is CORRECT:** The vast majority of Harappan seals were carved out of **steatite (soapstone)**, a soft magnesium-rich mineral that was easily carved and subsequently heated (baked) in a furnace to harden the surface and produce a durable, lustrous white finish.
 
 **Key Exam Takeaway / Trap:**
-- Seal essentials: **Steatite material | Unicorn most frequent (Cow absent!) | Logosyllabic pictographic script written Right-to-Left**.
-</details>
+- Seal essentials: **Steatite material | Unicorn most frequent (Cow absent!) | Logosyllabic pictographic script written Right-to-Left**.</div>
+  </div>
+</div>

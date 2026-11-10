@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 19 — Climate & Environmental Institutions</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **IPCC** sits in **Geneva**, issues Assessment Reports, and synthesises climate science. It does **not** set NDCs and is **not** the UNFCCC treaty body.
@@ -65,27 +54,6 @@ hide:
 39. **FAO (Food and Agriculture Organization)** is a UN specialised agency for **food and agriculture**.
 40. **Headquarters** is in **Rome, Italy**.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Global Climate Summits & Treaties
-
-```
-1972 ──► UN Conference on Human Environment (Stockholm) ➔ Creation of UNEP (Nairobi) & World Environment Day (5 June)
-1979 ──► First World Climate Conference (Geneva) ➔ Established World Climate Programme
-1987 ──► Montreal Protocol on Substances that Deplete the Ozone Layer (Signed 16 Sep; ODS phase-out)
-1988 ──► IPCC established by UNEP and WMO (Co-founders: Bert Bolin; Headquarters: Geneva)
-1992 ──► UN Conference on Environment & Development (Rio Earth Summit) ➔ Rio Declaration, Agenda 21, UNFCCC, CBD, UNCCD
-1997 ──► Kyoto Protocol (COP 3) ➔ Legally binding Annex-I emission reduction targets (Common But Differentiated Responsibilities)
-2002 ──► World Summit on Sustainable Development (Johannesburg Earth Summit) ➔ Focus on water, energy, health, agriculture
-2012 ──► Rio+20 Conference (UNCSD, Rio de Janeiro) ➔ "The Future We Want", process to launch SDGs
-2015 ──► Paris Agreement (COP 21) ➔ Universal pledge-and-review; limit warming to "well below 2°C, pursue 1.5°C"; NDCs
-2016 ──► Kigali Amendment to Montreal Protocol ➔ Phase-down of climate-warming Hydrofluorocarbons (HFCs)
-2021 ──► Glasgow Climate Pact (COP 26) ➔ "Phase-down" of unabated coal; launch of LiFE (Lifestyle for Environment) by India
-2022 ──► Sharm el-Sheikh Implementation Plan (COP 27) ➔ Landmark decision to establish a Loss and Damage Fund
-2022 ──► Kunming-Montreal Global Biodiversity Framework (CBD COP 15) ➔ 30×30 conservation target by 2030
-2023 ──► COP 28 (Dubai, UAE) ➔ "UAE Consensus", First Global Stocktake, agreement to "transition away from fossil fuels"
-```
-
 ## 📊 Quick Reference Grid
 
 ### HQ / product
@@ -115,372 +83,296 @@ hide:
 | **State of the World's Forests (SOFO)** | **FAO** (Food and Agriculture Organization) | Biennial | Global forest cover, deforestation rates, agroforestry and livelihoods |
 | **World Air Quality Report** | **IQAir** | Annual | Global PM2.5 city rankings and WHO guidelines compliance |
 | **SDG India Index & Dashboard** | **NITI Aayog** | Annual | Performance of Indian States/UTs across 16 SDGs (Kerala consistently #1) |
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-## ⚡ Confused Pairs & Common Examiner Traps
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Intergovernmental Panel on Climate Change (IPCC)** | **UN Framework Convention on Climate Change (UNFCCC)** | Scientific assessment panel established in 1988 by WMO and UNEP that reviews peer-reviewed literature (does not conduct research or negotiate policy) vs international legal treaty and negotiating secretariat that coordinates annual Conference of Parties (COPs) | आईपीसीसी (वैज्ञानिक समीक्षा निकाय) / यूएनएफसीसीसी (वार्ता व संधि सचिवालय) |
-| **United Nations Environment Programme (UNEP)** | **United Nations Development Programme (UNDP)** | Apex global environmental authority coordinating UN environmental activities, hosting MEA secretariats (HQ: Nairobi, Kenya) vs UN global development network focusing on poverty reduction, sustainable growth, and publishing the Human Development Report (HQ: New York) | यूएनईपी (नैरोबी, पर्यावरण एजेंसी) / यूएनडीपी (न्यूयॉर्क, विकास एजेंसी) |
-| **International Union for Conservation of Nature (IUCN)** | **World Wide Fund for Nature (WWF)** | World's oldest and largest global conservation union composed of governments and civil society (1948, Gland) publishing the IUCN Red List vs independent international private conservation NGO (1961, Gland) famous for the Giant Panda symbol and Earth Hour | आईयूसीएन (रेड लिस्ट प्रकाशक) / डब्ल्यूडब्ल्यूएफ (पांडा प्रतीक एनजीओ) |
-| **Global Environment Facility (GEF)** | **Green Climate Fund (GCF)** | Multilateral financial partnership established in 1991 serving as financial mechanism for 5 MEAs (CBD, UNCCD, Stockholm, Minamata, UNFCCC) vs dedicated operating financial mechanism of the UNFCCC established at COP16 Cancun focusing specifically on climate projects in developing nations | जीईएफ (GEF, बहु-संधि कोष) / जीसीएफ (GCF, हरित जलवायु कोष) |
-| **Food and Agriculture Organization (FAO)** | **World Meteorological Organization (WMO)** | Specialized UN agency leading international efforts to defeat hunger, maintain agricultural biodiversity, and soil health (HQ: Rome) vs specialized UN agency dedicated to atmospheric science, climatology, and operational hydrology (HQ: Geneva) | एफएओ (रोम, खाद्य व कृषि) / डब्लूएमओ (जिनेवा, मौसम विज्ञान) |
-| **International Solar Alliance (ISA)** | **International Renewable Energy Agency (IRENA)** | Intergovernmental treaty-based organization launched jointly by India and France at COP21 Paris to promote solar energy deployment (HQ: Gurugram, India) vs intergovernmental organization supporting countries in their transition to all renewable energy types (HQ: Abu Dhabi, UAE) | अंतरराष्ट्रीय सौर गठबंधन (ISA, गुरुग्राम) / इरेना (IRENA, अबू धाबी) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Match List-I with List-II:
-
-| List-I (Report) | List-II (Organisation) |
-| --- | --- |
-| A. Human Development Report | 1. IMF |
-| B. World Economic Outlook | 2. UNEP |
-| C. World Investment Report | 3. UNDP |
-| D. Emissions Gap Report | 4. UNCTAD |
-
-*Row order is not the answer code.*
-
-A. 3 1 4 2
-
-B. 3 4 1 2
-
-C. 1 2 3 4
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Report–publisher matching — Emissions Gap is UNEP's product, not IPCC or UNDP.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Report)</th><th>List-II (Organisation)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Human Development Report</td><td><span class="match-key">1</span> IMF</td></tr>
+      <tr><td><span class="match-key">B</span> World Economic Outlook</td><td><span class="match-key">2</span> UNEP</td></tr>
+      <tr><td><span class="match-key">C</span> World Investment Report</td><td><span class="match-key">3</span> UNDP</td></tr>
+      <tr><td><span class="match-key">D</span> Emissions Gap Report</td><td><span class="match-key">4</span> UNCTAD</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 1 4 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 2 3 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 3 4 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Report–publisher matching — Emissions Gap is UNEP's product, not IPCC or UNDP.
 
 **Ans: A (3 1 4 2).** HDR→**UNDP**; WEO→**IMF**; WIR→**UNCTAD**; Emissions Gap→**UNEP**.
 
-**Trap:** Crediting the Emissions Gap Report to **IPCC** or **UNDP**.
+**Trap:** Crediting the Emissions Gap Report to **IPCC** or **UNDP**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-With reference to the Human Development Report (HDR), consider the following statements:
-
-1. UNDP published the first HDR with HDI in 1990.
-2. The HDI was developed by a team led by Mahbub ul Haq and S. Priesner.
-
-A. Neither 1 nor 2
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** HDR 1990 and HDI authorship — Mahbub ul Haq and **Amartya Sen**, not Priesner.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to the Human Development Report (HDR), consider the following statements:<br><br>1. UNDP published the first HDR with HDI in 1990.<br>2. The HDI was developed by a team led by Mahbub ul Haq and S. Priesner.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** HDR 1990 and HDI authorship — Mahbub ul Haq and **Amartya Sen**, not Priesner.
 
 **Ans: D (Only 1).** First HDR **1990** is correct; statement 2 is false.
 
-**Trap:** Accepting **Priesner** instead of **Sen** on the HDI team.
+**Trap:** Accepting **Priesner** instead of **Sen** on the HDI team.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-With reference to the Global Environment Facility (GEF), consider the following statements:
-
-1. GEF was established in 1991.
-2. Only developed countries are donors to GEF.
-
-A. Neither 1 nor 2
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** GEF pre-Rio finance mechanism — 1991 establishment is tested; donor pool is not developed-only.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Global Environment Facility (GEF), consider the following statements:<br><br>1. GEF was established in 1991.<br>2. Only developed countries are donors to GEF.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** GEF pre-Rio finance mechanism — 1991 establishment is tested; donor pool is not developed-only.
 
 **Ans: D (Only 1).** **GEF was established in 1991**; statement 2 is false.
 
-**Trap:** Choosing "Neither" by doubting the 1991 date.
+**Trap:** Choosing "Neither" by doubting the 1991 date.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-The Intergovernmental Panel on Climate Change (IPCC) was established in 1988 by:
-
-A. WMO and UNEP
-
-B. UNFCCC and UNDP
-
-C. UNEP and UNDP
-
-D. WMO and FAO
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** IPCC parent bodies — science assessment under WMO + UNEP, not the climate treaty secretariat.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The Intergovernmental Panel on Climate Change (IPCC) was established in 1988 by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> WMO and UNEP</div><div class="pyq-opt"><span class="opt-letter">B</span> UNFCCC and UNDP</div><div class="pyq-opt"><span class="opt-letter">C</span> UNEP and UNDP</div><div class="pyq-opt"><span class="opt-letter">D</span> WMO and FAO</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** IPCC parent bodies — science assessment under WMO + UNEP, not the climate treaty secretariat.
 
 **Ans: A.** **IPCC was created by WMO and UNEP in 1988**.
 
-**Trap:** UNFCCC (policy treaty body) as IPCC founder.
+**Trap:** UNFCCC (policy treaty body) as IPCC founder.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-The headquarters of UNEP is located at:
-
-A. Geneva
-
-B. Nairobi
-
-C. New York
-
-D. Rome
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Institution HQ ladder — Nairobi = UNEP; New York = UNDP; Rome = FAO.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The headquarters of UNEP is located at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Geneva</div><div class="pyq-opt"><span class="opt-letter">B</span> Nairobi</div><div class="pyq-opt"><span class="opt-letter">C</span> New York</div><div class="pyq-opt"><span class="opt-letter">D</span> Rome</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Institution HQ ladder — Nairobi = UNEP; New York = UNDP; Rome = FAO.
 
 **Ans: B.** **UNEP HQ is Nairobi**.
 
-**Trap:** **Geneva** (IPCC) or **New York** (UNDP).
+**Trap:** **Geneva** (IPCC) or **New York** (UNDP).</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-Which organisation prepares the **IUCN Red List**, and which treaty regulates international wildlife **trade**?
-
-A. IUCN — Red List; CITES — trade
-
-B. CITES — Red List; IUCN — trade
-
-C. UNEP — Red List; CMS — trade
-
-D. WWF — Red List; CBD — trade
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** IUCN assesses scientific extinction risk; CITES controls cross-border trade permits.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which organisation prepares the **IUCN Red List**, and which treaty regulates international wildlife **trade**?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> IUCN — Red List; CITES — trade</div><div class="pyq-opt"><span class="opt-letter">B</span> CITES — Red List; IUCN — trade</div><div class="pyq-opt"><span class="opt-letter">C</span> UNEP — Red List; CMS — trade</div><div class="pyq-opt"><span class="opt-letter">D</span> WWF — Red List; CBD — trade</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** IUCN assesses scientific extinction risk; CITES controls cross-border trade permits.
 
 **Ans: A.** **Red List = IUCN**; **trade regulation = CITES**.
 
-**Trap:** "IUCN bans wildlife trade" — IUCN does **not** regulate trade.
+**Trap:** "IUCN bans wildlife trade" — IUCN does **not** regulate trade.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-Which statement is correct?
-
-A. IPCC sets national emission targets at COP meetings; UNFCCC publishes Assessment Reports.
-
-B. IPCC synthesises climate science; UNFCCC is the treaty forum where countries negotiate NDCs.
-
-C. IPCC and UNFCCC are the same body with two names.
-
-D. UNFCCC was created in 1988; IPCC was opened for signature at Rio 1992.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Science (IPCC) versus policy treaty (UNFCCC/COP) — recurring institution trap.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which statement is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> IPCC sets national emission targets at COP meetings; UNFCCC publishes Assessment Reports.</div><div class="pyq-opt"><span class="opt-letter">B</span> IPCC synthesises climate science; UNFCCC is the treaty forum where countries negotiate NDCs.</div><div class="pyq-opt"><span class="opt-letter">C</span> IPCC and UNFCCC are the same body with two names.</div><div class="pyq-opt"><span class="opt-letter">D</span> UNFCCC was created in 1988; IPCC was opened for signature at Rio 1992.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Science (IPCC) versus policy treaty (UNFCCC/COP) — recurring institution trap.
 
 **Ans: B.** **IPCC assesses science**; **UNFCCC/COP handles NDC negotiations**.
 
-**Trap:** Swapping roles — "IPCC sets NDCs."
+**Trap:** Swapping roles — "IPCC sets NDCs."</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-The Living Planet Report and Living Planet Index are published by:
-
-A. IUCN
-
-B. UNEP
-
-C. WWF
-
-D. IPCC
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** WWF NGO product versus IUCN Red List — both in Gland but different roles.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The Living Planet Report and Living Planet Index are published by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> IUCN</div><div class="pyq-opt"><span class="opt-letter">B</span> UNEP</div><div class="pyq-opt"><span class="opt-letter">C</span> WWF</div><div class="pyq-opt"><span class="opt-letter">D</span> IPCC</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** WWF NGO product versus IUCN Red List — both in Gland but different roles.
 
 **Ans: C.** The **Living Planet Report is published by WWF**.
 
-**Trap:** **IUCN** (Red List) or **UNEP** (Emissions Gap).
+**Trap:** **IUCN** (Red List) or **UNEP** (Emissions Gap).</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to IPCC, which of the following statements is/are correct?<br><br>1. IPCC headquarters is in Nairobi and it issues NDCs instead of Assessment Reports.<br>2. Established 1988 by WMO and UNEP.<br>3. Sets NDCs for all parties as the UNFCCC treaty body.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
 
-**Q9.** With reference to IPCC, which of the following statements is/are correct?
+**Logic:** Statement 2 is true (1988, WMO+UNEP). Statement 1 is false — IPCC HQ is Geneva and it issues Assessment Reports. Statement 3 is false — parties set NDCs under UNFCCC; IPCC is not the treaty body that sets them.</div>
+  </div>
+</div>
 
-1. IPCC headquarters is in Nairobi and it issues NDCs instead of Assessment Reports.
-2. Established 1988 by WMO and UNEP.
-3. Sets NDCs for all parties as the UNFCCC treaty body.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> UNEP</td><td><span class="match-key">1</span> New York; HDR/HDI</td></tr>
+      <tr><td><span class="match-key">B</span> UNDP</td><td><span class="match-key">2</span> Nairobi; Emissions Gap/GEO</td></tr>
+      <tr><td><span class="match-key">C</span> FAO</td><td><span class="match-key">3</span> Rome; SOFO</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
 
-A. Only 2
-B. 1 and 3
-C. Only 1
-D. 2 and 3
+**Logic:** Nairobi/NY/Rome.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. IUCN — Gland; Red List<br>2. IUCN — Gland; Living Planet Report<br>3. IUCN — regulates CITES trade appendices as its only job</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
 
-**Ans: A.** Only 2 is correct.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.</div>
+  </div>
+</div>
 
-**Logic:** Statement 2 is true (1988, WMO+UNEP). Statement 1 is false — IPCC HQ is Geneva and it issues Assessment Reports. Statement 3 is false — parties set NDCs under UNFCCC; IPCC is not the treaty body that sets them.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Threatened on IUCN means VU + EN + CR.<br><br>Reason (R): Endangered alone equals the full Threatened set.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true, R false.
 
-</details>
+**A/R logic:** Threatened ≠ Endangered alone.</div>
+  </div>
+</div>
 
-**Q10.** Match List-I with List-II:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Arrange HQ memory:<br><br>Nairobi / New York / Geneva / Gland / Rome</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> UNEP / UNDP / IPCC / IUCN-WWF / FAO</div><div class="pyq-opt"><span class="opt-letter">B</span> UNDP / UNEP / FAO / IPCC / IUCN</div><div class="pyq-opt"><span class="opt-letter">C</span> FAO / IPCC / UNEP / UNDP / IUCN</div><div class="pyq-opt"><span class="opt-letter">D</span> IUCN / FAO / UNDP / UNEP / IPCC</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> UNEP Nairobi; UNDP NY; IPCC Geneva; IUCN/WWF Gland; FAO Rome.
 
-| List-I | List-II |
-|--------|--------|
-| A. UNEP | 1. New York; HDR/HDI |
-| B. UNDP | 2. Nairobi; Emissions Gap/GEO |
-| C. FAO | 3. Rome; SOFO |
+**Logic:** HQ map.</div>
+  </div>
+</div>
 
-Code:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Emissions Gap Report, which of the following statements is/are correct?<br><br>1. It is a UNDP product.<br>2. It is a UNEP flagship, not an IPCC Assessment Report.<br>3. It is identical to the Human Development Report.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
 
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-1, C-2
+**Logic:** Statement 2 is true (UNEP Emissions Gap ≠ IPCC AR). Statement 1 is false — it is UNEP, not UNDP. Statement 3 confuses it with HDR.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. HDR — UNDP from 1990<br>2. HDI — Mahbub ul Haq / Amartya Sen link<br>3. HDR — UNEP Nairobi flagship</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only pair 3 is not correctly matched.
 
-**Ans: C.** A-2, B-1, C-3.
-
-**Logic:** Nairobi/NY/Rome.
-
-</details>
-
-**Q11.** Which of the following pairs is/are correctly matched?
-
-1. IUCN — Gland; Red List
-2. IUCN — Gland; Living Planet Report
-3. IUCN — regulates CITES trade appendices as its only job
-
-A. 1 and 3
-B. Only 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
-
-</details>
-
-**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Threatened on IUCN means VU + EN + CR.
-
-Reason (R): Endangered alone equals the full Threatened set.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true, R false.
-
-**A/R logic:** Threatened ≠ Endangered alone.
-
-</details>
-
-**Q13.** Arrange HQ memory:
-
-Nairobi / New York / Geneva / Gland / Rome
-
-A. UNEP / UNDP / IPCC / IUCN-WWF / FAO
-B. UNDP / UNEP / FAO / IPCC / IUCN
-C. FAO / IPCC / UNEP / UNDP / IUCN
-D. IUCN / FAO / UNDP / UNEP / IPCC
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** UNEP Nairobi; UNDP NY; IPCC Geneva; IUCN/WWF Gland; FAO Rome.
-
-**Logic:** HQ map.
-
-</details>
-
-**Q14.** With reference to Emissions Gap Report, which of the following statements is/are correct?
-
-1. It is a UNDP product.
-2. It is a UNEP flagship, not an IPCC Assessment Report.
-3. It is identical to the Human Development Report.
-
-A. Only 2
-B. Only 1
-C. 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Statement 2 is true (UNEP Emissions Gap ≠ IPCC AR). Statement 1 is false — it is UNEP, not UNDP. Statement 3 confuses it with HDR.
-
-</details>
-
-**Q15.** Which of the following pairs is/are NOT correctly matched?
-
-1. HDR — UNDP from 1990
-2. HDI — Mahbub ul Haq / Amartya Sen link
-3. HDR — UNEP Nairobi flagship
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only pair 3 is not correctly matched.
-
-**Logic:** HDR ≠ UNEP.
-
-</details>
+**Logic:** HDR ≠ UNEP.</div>
+  </div>
+</div>

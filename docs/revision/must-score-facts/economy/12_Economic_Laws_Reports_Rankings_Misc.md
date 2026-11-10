@@ -201,25 +201,6 @@ hide:
 | **Founder of Modern Macroeconomics** | **John Maynard Keynes** (*The General Theory*, 1936). |
 | **Concept of "Missing Women"** | Coined by **Amartya Sen** in 1990. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Concept A | Concept B | Core Conceptual Distinction |
-|---|---|---|
-| **Economic Survey** | **Union Budget** | The Economic Survey is an analytical retrospective review of the past financial year; the Union Budget is a prospective statement of estimated receipts and expenditures for the upcoming year. |
-| **Numerical Rank Increase** | **Performance Direction** | In international indices, an increase in the numerical rank (e.g., from 130 to 132) signifies a relative deterioration ("slipped"), not an improvement ("upgraded"). |
-| **Physical Quality of Life Index (PQLI)** | **Human Development Index (HDI)** | PQLI (Morris, 1970s) is an unweighted average of literacy, IMR, and life expectancy at age 1 (non-monetary); HDI (UNDP, 1990) incorporates Gross National Income alongside schooling and longevity. |
-| **Global Hunger Index (GHI)** | **World Happiness Report** | GHI measures physical nutritional deprivations and child mortality; World Happiness ranks subjective well-being based on Gallup survey life evaluations. |
-| **Doing Business 2019 Rank (77)** | **Doing Business 2020 Rank (63)** | India ranked 77th in the 2019 report and improved to 63rd in the 2020 report; the publication was permanently discontinued by the World Bank in 2021. |
-| **Global Peace Index (IEP)** | **World Happiness Report (SDSN)** | GPI evaluates domestic/international peace, militarization, and conflict; World Happiness evaluates subjective life satisfaction and social freedom. |
-| **Insolvency & Bankruptcy Code (IBC, 2016)** | **Real Estate Regulation Act (RERA, 2016)** | IBC establishes time-bound debt resolution for corporate entities; RERA regulates real estate developers, protects homebuyer deposits, and ensures timely project completion. |
-| **PMLA (2002)** | **FEMA (1999)** | PMLA is a criminal-penal statute penalizing the laundering of proceeds of crime; FEMA is a civil regulatory statute governing orderly foreign exchange transactions. |
-| **NITI Aayog SDG India Index** | **UN SDSN Global SDG Index** | The SDG India Index evaluates and ranks Indian States and Union Territories; the SDSN Sustainable Development Report ranks sovereign member countries globally. |
-| **Gender Inequality Index (GII, 2010)** | **Human Development Index (HDI, 1990)** | GII was introduced in the 2010 Human Development Report; the foundational HDI was inaugurated in the 1990 report. |
-| **Adam Smith** | **John Maynard Keynes** | Adam Smith founded modern economics through classical free-market and division of labor analysis; J.M. Keynes founded modern macroeconomics focusing on aggregate demand management. |
-| **SDG 6 (Clean Water & Sanitation)** | **SDG 7 (Affordable & Clean Energy)** | SDG 6 guarantees sustainable water management and sanitation; SDG 7 ensures access to affordable, reliable, and modern clean energy. |
-| **PAT Scheme (Ministry of Power / BEE)** | **NCAP (MoEFCC, 2019)** | PAT trades energy saving certificates to improve industrial energy efficiency; NCAP is a municipal-level framework targeting urban air particulate matter reduction. |
-| **National Education Policy 2020** | **National Policy on Education 1986** | NEP 2020 was formulated by the Kasturirangan Committee, superseding the 1986 policy after an interval of 34 years (not 38 years). |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### Key Mnemonics & Cognitive Hooks
@@ -243,259 +224,262 @@ hide:
   - **Global Financial Stability Report (GFSR):** IMF.
   - **Global Gender Gap Report & Global Competitiveness Report:** World Economic Forum (WEF).
 
-## 🎯 High-Yield PYQ Drill (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-1. Decreasing food and fertiliser subsidies
-2. Increasing taxes on fuel and imported products
-3. Reducing taxes on fuel and certain imported products
-
-A. Only 3
-B. Only 1
-C. Only 2
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tax cuts on fuel / selected imports — Only 3
-
-**Ans: A.** Only 3
-</details>
-
-**Q2.**
-
-According to the Economic Survey 2023, which of the following statements regarding the Services Sector is **not** correct?
-
-A. Credit growth to services has been above 16% since July 2022.
-B. 75 Digital Banking Units were announced.
-C. Fashion, grocery and general merchandise will account for nearly two-thirds of India's e-commerce market by 2030.
-D. PMI Services recorded its strongest expansion since July 2022.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 2030 timeframe is wrong (~2027 / next four years) — Fashion, grocery and general merchandise will account for nearly two-thirds of India's e-commerce market by 2030
-
-**Ans: C.** Fashion, grocery and general merchandise will account for nearly two-thirds of India's e-commerce market by 2030
-</details>
-
-**Q3.**
-
-1. Upgrade / improved framing of move 130 → 132
-2. Rank slipped 130 → 132
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Larger rank number = slip, not upgrade — Only 2
-
-**Ans: B.** Only 2
-</details>
-
-**Q4.**
-
-According to the World Happiness Index 2022, what is the rank of India?
-
-A. 136th
-B. 110th
-C. 140th
-D. 130th
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** India 136th in 2022 report — 136th
-
-**Ans: A.** 136th
-</details>
-
-**Q5.**
-
-1. DB 2020 India rank 63
-2. DB 2019 India rank 77
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 2 only (official key).
-
-**Ans: B.** Official key **B**; both numbers are factually right — memorise 77 and 63.
-
-</details>
-
-**Q6.**
-
-Physical Quality of Life Index (PQLI) is developed by
-
-A. Morris D. Morris
-B. UNDP
-C. Mehbub-ul-Haq
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Morris — not UNDP/Haq — Morris D
-
-**Ans: A.** Morris D.
-</details>
-
-**Q7.**
-
-What is the India's rank in the Global Hunger Index (GHI) in 2017?
-
-A. 100th
-B. 101th
-C. 104th
-D. 105th
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 100th in GHI 2017 — 100th
-
-**Ans: A.** 100th
-</details>
-
-**Q8.**
-
-What is the rank of India in the world as per Global Peace Index (GPI), 2018?
-
-A. 136th
-B. 137th
-C. 138th
-D. 134th
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 136th.
-
-**Ans: A.** 136th
-</details>
-
-**Q9.**
-According to NITI Aayog’s SDG India Index 2019–20, Uttar Pradesh is grouped under which category?
-A. Aspirant
-B. Performer
-C. Front runner
-D. Achiever
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Later (2023–24) UP moves to Front Runner — year matters — Performer
-
-**Ans: B.** Performer
-</details>
-
-**Q10.**
-As per SDG India Index 2020–21, which State was NOT among the top five?
-A. Gujarat
-B. Andhra Pradesh
-C. Goa
-D. Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gujarat ≠ top-five that year — Gujarat
-
-**Ans: A.** Gujarat
-</details>
-
-**Q11.**
-Which SDG targets water availability for all and sustainable management up to 2030?
-A. SDG-6
-B. SDG-7
-C. SDG-8
-D. SDG-9
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Clean Water and Sanitation — SDG-6
-
-**Ans: A.** SDG-6
-</details>
-
-**Q12.**
-Match SDG-10, 13, 14, 15 with Reduced inequalities / Climate Action / Life below water / Life on Land.
-Codes for A B C D (10,13,14,15):
-A. 3 2 4 1
-B. 2 3 1 4
-C. 3 1 4 2
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 10 inequalities; 13 climate; 14 below water; 15 land — 3 1 4 2
-
-**Ans: C.** 3 1 4 2
-</details>
-
-**Q13.**
-Which measures are essential to achieve SDG Goal 4?
-1. Free and compulsory education
-2. Better school infrastructure and digital transformation
-3. Expansion of agricultural programmes
-4. Increasing investment in technology
-A. 1 and 2
-B. 1, 2, 3 and 4
-C. Only 4
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Quality Education levers only — 1 and 2
-
-**Ans: A.** 1 and 2
-</details>
-
-**Q14.**
-Assertion (A): India’s success is critical for global SDG success.
-Reason (R): India accounts for nearly one-sixth of world population.
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true and R explains A
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key: Both true and R explains A.
-
-**Ans: D.** Both true and R explains A
-</details>
-
-**Q15.**
-UN Secretary-General’s Annual SDG Report uses national statistical systems; Global Sustainable Development Report informs quadrennial review once every quarter — which is correct?
-A. Only statement 1 (Annual Report)
-B. Only statement 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Only the Annual SDG Progress Report statement.
-
-**Ans: A.** GSDR is every four years, not every quarter.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">1. Decreasing food and fertiliser subsidies<br>2. Increasing taxes on fuel and imported products<br>3. Reducing taxes on fuel and certain imported products</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tax cuts on fuel / selected imports — Only 3
+
+**Ans: A.** Only 3</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">According to the Economic Survey 2023, which of the following statements regarding the Services Sector is **not** correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Credit growth to services has been above 16% since July 2022.</div><div class="pyq-opt"><span class="opt-letter">B</span> 75 Digital Banking Units were announced.</div><div class="pyq-opt"><span class="opt-letter">C</span> Fashion, grocery and general merchandise will account for nearly two-thirds of India's e-commerce market by 2030.</div><div class="pyq-opt"><span class="opt-letter">D</span> PMI Services recorded its strongest expansion since July 2022.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 2030 timeframe is wrong (~2027 / next four years) — Fashion, grocery and general merchandise will account for nearly two-thirds of India's e-commerce market by 2030
+
+**Ans: C.** Fashion, grocery and general merchandise will account for nearly two-thirds of India's e-commerce market by 2030</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">1. Upgrade / improved framing of move 130 → 132<br>2. Rank slipped 130 → 132</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Larger rank number = slip, not upgrade — Only 2
+
+**Ans: B.** Only 2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">According to the World Happiness Index 2022, what is the rank of India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 136th</div><div class="pyq-opt"><span class="opt-letter">B</span> 110th</div><div class="pyq-opt"><span class="opt-letter">C</span> 140th</div><div class="pyq-opt"><span class="opt-letter">D</span> 130th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** India 136th in 2022 report — 136th
+
+**Ans: A.** 136th</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">1. DB 2020 India rank 63<br>2. DB 2019 India rank 77</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 2 only (official key).
+
+**Ans: B.** Official key **B**; both numbers are factually right — memorise 77 and 63.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Physical Quality of Life Index (PQLI) is developed by</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Morris D. Morris</div><div class="pyq-opt"><span class="opt-letter">B</span> UNDP</div><div class="pyq-opt"><span class="opt-letter">C</span> Mehbub-ul-Haq</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Morris — not UNDP/Haq — Morris D
+
+**Ans: A.** Morris D.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">What is the India's rank in the Global Hunger Index (GHI) in 2017?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 100th</div><div class="pyq-opt"><span class="opt-letter">B</span> 101th</div><div class="pyq-opt"><span class="opt-letter">C</span> 104th</div><div class="pyq-opt"><span class="opt-letter">D</span> 105th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 100th in GHI 2017 — 100th
+
+**Ans: A.** 100th</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">What is the rank of India in the world as per Global Peace Index (GPI), 2018?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 136th</div><div class="pyq-opt"><span class="opt-letter">B</span> 137th</div><div class="pyq-opt"><span class="opt-letter">C</span> 138th</div><div class="pyq-opt"><span class="opt-letter">D</span> 134th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 136th.
+
+**Ans: A.** 136th</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">According to NITI Aayog’s SDG India Index 2019–20, Uttar Pradesh is grouped under which category?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Aspirant</div><div class="pyq-opt"><span class="opt-letter">B</span> Performer</div><div class="pyq-opt"><span class="opt-letter">C</span> Front runner</div><div class="pyq-opt"><span class="opt-letter">D</span> Achiever</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Later (2023–24) UP moves to Front Runner — year matters — Performer
+
+**Ans: B.** Performer</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">As per SDG India Index 2020–21, which State was NOT among the top five?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gujarat</div><div class="pyq-opt"><span class="opt-letter">B</span> Andhra Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Goa</div><div class="pyq-opt"><span class="opt-letter">D</span> Tamil Nadu</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Gujarat ≠ top-five that year — Gujarat
+
+**Ans: A.** Gujarat</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which SDG targets water availability for all and sustainable management up to 2030?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> SDG-6</div><div class="pyq-opt"><span class="opt-letter">B</span> SDG-7</div><div class="pyq-opt"><span class="opt-letter">C</span> SDG-8</div><div class="pyq-opt"><span class="opt-letter">D</span> SDG-9</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Clean Water and Sanitation — SDG-6
+
+**Ans: A.** SDG-6</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match SDG-10, 13, 14, 15 with Reduced inequalities / Climate Action / Life below water / Life on Land.<br>Codes for A B C D (10,13,14,15):</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 2 4 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 3 1 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 1 4 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 2 3 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 10 inequalities; 13 climate; 14 below water; 15 land — 3 1 4 2
+
+**Ans: C.** 3 1 4 2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which measures are essential to achieve SDG Goal 4?<br>1. Free and compulsory education<br>2. Better school infrastructure and digital transformation<br>3. Expansion of agricultural programmes<br>4. Increasing investment in technology</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Quality Education levers only — 1 and 2
+
+**Ans: A.** 1 and 2</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): India’s success is critical for global SDG success.<br>Reason (R): India accounts for nearly one-sixth of world population.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true, R not explanation</div><div class="pyq-opt"><span class="opt-letter">B</span> A false, R true</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both true and R explains A</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key: Both true and R explains A.
+
+**Ans: D.** Both true and R explains A</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">UN Secretary-General’s Annual SDG Report uses national statistical systems; Global Sustainable Development Report informs quadrennial review once every quarter — which is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only statement 1 (Annual Report)</div><div class="pyq-opt"><span class="opt-letter">B</span> Only statement 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Only the Annual SDG Progress Report statement.
+
+**Ans: A.** GSDR is every four years, not every quarter.</div>
+  </div>
+</div>

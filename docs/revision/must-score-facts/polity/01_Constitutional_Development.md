@@ -72,6 +72,26 @@ hide:
 48. Major Sources of the Indian Constitution — British & 1935 Legacy: The **Government of India Act, 1935** contributed ~60% of constitutional provisions (Federal Scheme, Office of Governor, Judiciary, Public Service Commissions, Emergency Provisions, Administrative details); the **UK Constitution** contributed Parliamentary government, Rule of Law, Single Citizenship, Cabinet system, Prerogative Writs, Bicameralism, and Parliamentary privileges.
 49. Major Sources of the Indian Constitution — American & Irish Legacy: The **US Constitution** provided Fundamental Rights, Independence of Judiciary, Judicial Review, Impeachment of the President, Removal of SC/HC Judges, and the post of Vice-President; the **Irish Constitution** provided Directive Principles of State Policy (DPSP), Nomination of 12 Rajya Sabha members, and the Method of Presidential Election.
 50. Major Sources of the Indian Constitution — Other Global Democracies: **Canada** provided a Federation with a strong Centre, Residuary powers to Centre, Appointment of State Governors by Centre, and Advisory jurisdiction of SC; **Australia** provided the Concurrent List, Joint Sitting of Parliament, and Freedom of trade/commerce; **Germany (Weimar)** provided suspension of FRs during Emergency; **USSR** provided Fundamental Duties and ideals of Justice; **France** provided the Republic and Liberty/Equality/Fraternity; **South Africa** provided Amendment procedure (Art. 368) and election of Rajya Sabha members.
+51. **Lord Cornwallis’s Judicial Code (1793):** Separated revenue administration from judicial administration; abolished revenue courts (Mal Adalat) and transferred trials to District Diwani Adalats headed by a civil servant as District Judge.
+52. **Charter Act of 1813 (Sovereignty & Church):** Explicitly asserted the Crown’s undeniable sovereignty over the East India Company’s territorial acquisitions in India; permitted Christian missionaries to enter India under license from the Court of Directors or Board of Control.
+53. **Charter Act of 1833 (First Law Commission):** Appointed the First Law Commission in 1834 under **Lord Macaulay**, which codified Indian laws leading to the Indian Penal Code (drafted 1837, enacted 1860); Section 87 enacted that no Indian should be barred from Company employment on grounds of religion, place of birth, descent, or color.
+54. **Charter Act of 1853 (Local Representation in Legislature):** Out of 6 new legislative members of the Governor-General’s Council, 4 were appointed by the provincial governments of **Madras, Bombay, Bengal, and Agra**, introducing provincial representation for the first time in Indian parliamentary history.
+55. **Queen Victoria’s Proclamation (1 November 1858):** Read by Viceroy Lord Canning at the **Grand Darbar in Allahabad**; disclaimed further territorial expansion, assured non-interference in religious beliefs, and promised equal protection under the law ('Magna Carta of the Indian People').
+56. **Indian Councils Act of 1861 (Decentralization & New Councils):** Commenced legislative devolution by restoring lawmaking powers to Madras and Bombay; enabled the creation of new legislative councils in **Bengal (1862)**, **North-Western Provinces (1866)**, and **Punjab (1897)**.
+57. **Indian Councils Act of 1892 (Budget Rules):** Permitted legislative council members to discuss the Annual Financial Statement for up to 6 days and submit written questions on public matters with 6 days' notice, though voting on the budget and asking supplementary questions were prohibited.
+58. **Morley-Minto Reforms of 1909 (Council Representation):** Two Indians—**K.G. Gupta** and **Syed Hussain Bilgrami**—were appointed to the Secretary of State for India’s Council in London; Satyendra Prasad Sinha was nominated as the first Indian Law Member in the Viceroy's Council.
+59. **Government of India Act of 1919 (Provincial Budget Autonomy):** Completely separated the **Provincial Budget** from the Central Budget for the first time, authorizing provincial legislatures to levy and vote their own taxes; also established the office of **High Commissioner for India in London**.
+60. **Muddiman Committee (1924):** Appointed by the British Government (Reforms Enquiry Committee) under Sir Alexander Muddiman to investigate the constitutional working of Dyarchy under the 1919 Act and evaluate demands for provincial autonomy.
+61. **Chamber of Princes (Narendra Mandal, 1921):** Inaugurated on 8 February 1921 by the Duke of Connaught under the Montagu-Chelmsford Report to facilitate consultation between princely rulers and the Viceroy; **Maharaja Ganga Singh of Bikaner** served as its first Chancellor.
+62. **Simon Commission (1927) Key Recommendations:** Recommended the total abolition of provincial dyarchy, introduction of responsible government in provinces, continuation of separate communal electorates until communal friction ceased, and outright rejection of central dyarchy.
+63. **Round Table Conferences (1930–1932):** The First RTC was boycotted by Congress; the Second RTC (Sep–Dec 1931) was attended by **Mahatma Gandhi as the sole Congress representative**, accompanied by Sarojini Naidu (representing Indian women) and Dr. B.R. Ambedkar; the Third RTC (Nov 1932) led directly to the British White Paper of 1933.
+64. **Poona Pact (24 September 1932) Seat Breakdown:** Provided **147 reserved seats** in provincial legislatures for Depressed Classes (replacing the 71 separate electorate seats under MacDonald's Communal Award) and **18% of general seats in the Central Legislature**, voting via joint electorates.
+65. **Government of India Act of 1935 (Federal Court & Privy Council):** The Federal Court began sitting on **1 October 1937** with original, appellate, and advisory jurisdictions; its decisions were appealable to the **Judicial Committee of the Privy Council in London** until abolished by the Abolition of Privy Council Jurisdiction Act, 1949.
+66. **Constituent Assembly Demand Lineage:** First conceived philosophically by **M.N. Roy** in 1934; formally adopted by the **Swaraj Party in Ranchi** (May 1934); officially demanded by INC at the **Faizpur Session (1936)**; and formally conceded in principle by the British in the **August Offer (1940)**.
+67. **Constituent Assembly Tribal & Excluded Sub-Committees:** **North-East Frontier Tribal Areas Sub-Committee** chaired by **Gopinath Bardoloi**; **Excluded and Partially Excluded Areas (Other than Assam) Sub-Committee** chaired by **A.V. Thakkar**.
+68. **Women Members in Constituent Assembly (Key Figures):** 15 women members served in the CA, including **Sarojini Naidu**, **Sucheta Kripalani**, **Vijayalakshmi Pandit**, **Begum Aizaz Rasul** (only Muslim woman member), **Dakshayani Velayudhan** (only Dalit woman member), and **Rajkumari Amrit Kaur** (first Health Minister).
+69. **Constituent Assembly Seal and Signing:** The official seal of the Constituent Assembly was the **Elephant**; the Constitution was signed by **284 members** present on 24 January 1950, when Dr. Rajendra Prasad was officially declared the first President of India.
+70. **Constituent Assembly Dual Capacity & Speaker:** When meeting as a constitution-drafting body, the Assembly was presided over by **Dr. Rajendra Prasad**; when enacting ordinary statutes as the Provisional Parliament, it was presided over by **G.V. Mavalankar** as Speaker.
 
 ## ⏱️ Timeline / Chronology
 
@@ -163,48 +183,6 @@ hide:
 | **South Africa** | Procedure for amendment of the Constitution, Election of members of Rajya Sabha |
 | **Japan** | Procedure established by Law (Art. 21) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| GG of Bengal vs GG of India | **1773** Bengal (Hastings); **1833** India (Bentinck) | Call 1773 = GG of India | बंगाल ≠ भारत |
-| Board of Control vs Court of Directors | Board = **political**; Directors = **commercial** | Swap | बोर्ड = राजनीति |
-| Act of 1786 | GG may **overrule** Council; Cornwallis = first GG+CinC | Credit 1784 alone | 1786 ओवररूल |
-| First SC Chief Justice | **Sir Elijah Impey** | Lemaister | इम्पे |
-| ICS open competition | **Charter 1853** (implemented) | Charter 1833 (only spirit / §87) | 1853 खुली परीक्षा |
-| 1813 revenue control | Remained with **Company** for 20 years | Say Parliament took revenues in 1813 | राजस्व = कंपनी |
-| Portfolio system | Legal recognition = **1861** (practice from 1859) | 1858 / 1892 / 1909 | पोर्टफोलियो = 1861 |
-| Budget discuss vs supplementary Q | Discuss budget = **1892**; supplementary Q = **1909** | Give 1892 supplementary power | 1892 पूरक नहीं |
-| Muslim separate electorates | Begin **1909** | Communal Award 1932 as “first” | 1909 मुस्लिम |
-| Dyarchy vs Provincial Autonomy | **1919** provinces; **1935** autonomy | Swap or call both central | द्वैध / स्वायत्तता |
-| 1935 Federation / Centre Dyarchy | **Never operated** | Assume they ran like Autonomy | संघ / केंद्र द्वैध नहीं चले |
-| Residuary under 1935 | With **Viceroy / GG** | Federal Legislature | अवशिष्ट = वायसराय |
-| Residuary (Constitution source) | **Canada** | Australia | अवशिष्ट = कनाडा |
-| Concurrent List source | **Australia** | Canada | समवर्ती = ऑस्ट्रेलिया |
-| Federal Court | Began **1 Oct 1937**; first CJ **Maurice Gwyer** | Say established in 1935 alone | 1937 ग्वायर |
-| Communal Award vs Poona Pact | Award = separate for Depressed Classes; Poona = **reserved + joint** | Swap | पूना = संयुक्त |
-| Award year | **1932** | 1933 (2019 trap) | 1932 |
-| 2nd RTC attendance | Gandhi **yes**; Rajendra Prasad **no** | Prasad as Congress delegate | प्रसाद नहीं |
-| Interim date | Announced **24 Aug 1946**; office **2 Sep 1946** | Mix the two | 24 अगस्त घोषणा |
-| Adopt vs Enforce | **26 Nov 1949** / **26 Jan 1950** | Swap | अंगीकरण / प्रवर्तन |
-| B.N. Rau vs Ambedkar | Rau = **Constitutional Adviser**; Ambedkar = **Drafting Chair** | Swap titles | राऊ सलाहकार |
-| RBI creation | **RBI Act 1934**; GOI 1935 only *provided for* | “Created by GOI Act 1935 alone” | RBI = 1934 अधिनियम |
-| First Viceroy | **Lord Canning** (same man = last Company GG) | Mountbatten as first | कैनिंग पहला वायसराय |
-| First Indian GG | **C. Rajagopalachari** (1948–50) | Mountbatten | राजगोपालाचारी |
-| Chamber of Princes | **GOI Act 1919** (~120); first Chancellor **Ganga Singh** | 1909 / 1935 | नरेंद्र मंडल = 1919 |
-| Gandhi in CA | **Not a member** | List him among CA framers | गांधी सदस्य नहीं |
-| CA election method | **Indirect** (provincial assemblies; PR-STV) | Universal adult franchise at CA stage | अप्रत्यक्ष चुनाव |
-| CA idea vs formal demand | Idea = **M.N. Roy**; first formal demand = **Swaraj Party, Ranchi 1934** | Credit only Congress 1935 | स्वराज पार्टी |
-| Temporary vs permanent CA chair | Temp = **Sinha**; permanent = **Rajendra Prasad** | Swap | सिन्हा अस्थायी |
-| Temp vs permanent CA Vice-Chair | Temp Deputy = **Frank Anthony**; permanent VP = **H.C. Mukherjee** | Swap | एंथनी / मुखर्जी |
-| Minorities Sub-Committee | **H.C. Mukherjee** (Chair) | Sardar Patel as chair of this sub-committee | अल्पसंख्यक = मुखर्जी |
-| Advisory Committee | **Sardar Patel** (parent committee) | Confuse with Minorities Sub-Chair | सलाहकार = पटेल |
-| Flag Ad hoc Committee | **Rajendra Prasad** (23 June 1947) | Credit Kripalani / Ambedkar as chair | ध्वज = प्रसाद |
-| Election Commission source | **Indian original** | Say borrowed from Ireland/UK/USA | निर्वाचन आयोग स्वदेशी |
-| CA strength breakdown | **292 + 93 + 4 = 389** | Call total 296+93 only | 292+93+4 |
-| Calligrapher vs Drafting Chair | **Prem Behari Narain Raizada** (calligrapher) vs **Ambedkar** (Drafting Chair) | Say Ambedkar calligraphed the manuscript | रायज़ादा = सुलेखक |
-| English vs Hindi Calligrapher | **Prem Behari Narain Raizada** (English) vs **Vasant Krishan Vaidya** (Hindi) | Assume same person wrote both | अंग्रेज़ी = रायज़ादा; हिंदी = वैद्य |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **6 Provinces with Bicameralism under GOI Act 1935:**
@@ -231,496 +209,509 @@ hide:
 5. **Women in Constituent Assembly (~15 Members):**
    - Prominent members include: Sarojini Naidu, Vijayalakshmi Pandit, Rajkumari Amrit Kaur, Sucheta Kripalani, Durgabai Deshmukh, Begum Aizaz Rasul (only Muslim woman member), Hansa Mehta, Renuka Ray, Annie Mascarene, Ammu Swaminathan, Dakshayani Velayudhan (only Dalit woman member).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Under the Regulating Act of 1773, the Supreme Court of Judicature was established at Fort William (Calcutta) in 1774. Who among the following was appointed its first Chief Justice?
-
-A. Sir Elijah Impey
-B. Lord Cornwallis
-C. Sir Robert Chambers
-D. Stephen Le Maistre
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sir Elijah Impey was appointed the first Chief Justice of the Supreme Court at Calcutta (established in 1774 under Regulating Act 1773).
-</details>
-
-**Q2.**
-Pitt's India Act of 1784 established a 'Dual System of Government' by dividing Company powers. Which of the following bodies was created to manage political, military, and revenue affairs?
-
-A. Court of Directors
-B. Board of Control
-C. Law Commission
-D. Council of India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Board of Control (6 commissioners) handled political and territorial affairs, while the Court of Directors handled commercial matters.
-</details>
-
-**Q3.**
-Which British enactment specifically empowered Lord Cornwallis to overrule his Council in extraordinary circumstances and hold both offices of Governor-General and Commander-in-Chief?
-
-A. Regulating Act, 1773
-B. Pitt's India Act, 1784
-C. Act of 1786
-D. Charter Act of 1793
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — The Act of 1786 gave the Governor-General power to overrule his council in special cases and enabled Cornwallis to be both Governor-General and Commander-in-Chief.
-</details>
-
-**Q4.**
-Consider the following provisions of the Charter Act of 1813:
-
-1. It ended the commercial trade monopoly of the East India Company, except for trade in tea and trade with China.
-2. It allocated an annual sum of ₹1 lakh for the revival and promotion of literature, science, and education in India.
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both statements are correct under the Charter Act of 1813. Company revenues also remained with the Company for another 20 years.
-</details>
-
-**Q5.**
-With reference to the ₹1 lakh educational grant under the Charter Act of 1813, which body was created in 1823 to administer this fund, leading to the Orientalist–Anglicist controversy?
-
-A. Macaulay Committee
-B. General Committee of Public Instruction
-C. Hunter Education Commission
-D. Wood's Despatch Council
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The General Committee of Public Instruction (1823) administered the ₹1 lakh grant; H.T. Prinsep supported Orientalist learning while Charles Trevelyan led the Anglicists.
-</details>
-
-**Q6.**
-By which Charter Act was the Governor-General of Bengal redesignated as the 'Governor-General of India', with Lord William Bentinck becoming the first to hold this office?
-
-A. Charter Act of 1793
-B. Charter Act of 1813
-C. Charter Act of 1833
-D. Charter Act of 1853
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Charter Act 1833 made Lord William Bentinck the first Governor-General of India and completely ended the Company's commercial activities.
-</details>
-
-**Q7.**
-Which section of the Charter Act of 1833 declared that no native of British India would be debarred from holding any place, office, or employment under the Company on grounds only of religion, place of birth, descent, or colour?
-
-A. Section 53
-B. Section 87
-C. Section 92
-D. Section 101
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Section 87 of the Charter Act 1833 laid the historic foundation for non-discrimination in Indian administrative appointments.
-</details>
-
-**Q8.**
-Which Act for the first time separated the legislative and executive functions of the Governor-General's Council and introduced an open competition system for the Indian Civil Services?
-
-A. Charter Act of 1833
-B. Charter Act of 1853
-C. Indian Councils Act, 1861
-D. Government of India Act, 1858
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Charter Act 1853 established a 6-member Indian Legislative Council and introduced open competition for civil services (Macaulay Committee appointed in 1854).
-</details>
-
-**Q9.**
-Under the Government of India Act, 1858, following the 1857 Revolt:
-
-1. The rule of the East India Company was replaced by direct British Crown rule.
-2. The office of Secretary of State for India was created, assisted by a 15-member Council of India.
-3. Lord Canning became the first Viceroy of India.
-
-Which of the statements given above are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All three statements are correct under the Government of India Act 1858.
-</details>
-
-**Q10.**
-Which British enactment gave statutory recognition to the 'Portfolio System' (introduced earlier in practice by Lord Canning in 1859) and empowered the Viceroy to issue ordinances?
-
-A. Government of India Act, 1858
-B. Indian Councils Act, 1861
-C. Indian Councils Act, 1892
-D. Indian Councils Act, 1909
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The Indian Councils Act 1861 legalized the portfolio system, restored legislative devolution to Bombay and Madras, and granted emergency ordinance powers to the Viceroy.
-</details>
-
-**Q11.**
-Under the Indian Councils Act of 1892, non-official Indian members in the Legislative Council were granted the power to:
-
-A. Vote on the budget and move amendments
-B. Discuss the annual budget and address questions to the executive without voting
-C. Introduce money bills without prior sanction
-D. Ask supplementary questions on any subject
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The Indian Councils Act 1892 allowed members to discuss the budget and ask questions, but did not permit voting on the budget or asking supplementary questions.
-</details>
-
-**Q12.**
-Consider the following statements regarding the Indian Councils Act of 1909 (Morley-Minto Reforms):
-
-1. It introduced separate communal electorates for Muslims for the first time.
-2. Satyendra Prasanna (S.P.) Sinha became the first Indian appointed to the Viceroy’s Executive Council.
-3. Members were allowed to move resolutions on the budget and ask supplementary questions.
-
-Which of the statements given above are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All three statements are correct under the Indian Councils Act of 1909.
-</details>
-
-**Q13.**
-Under the Government of India Act 1919 (Montagu-Chelmsford Reforms), provincial subjects were divided into 'Reserved' and 'Transferred'. Which of the following was classified as a 'Reserved' subject?
-
-A. Local Self-Government
-B. Public Health
-C. Education
-D. Police and Land Revenue
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Police, justice, prisons, and land revenue were Reserved subjects (administered by the Governor and his Executive Council without responsibility to the legislature).
-</details>
-
-**Q14.**
-Which British enactment created a Bicameral Legislature at the Centre (Council of State and Central Legislative Assembly) and led to the establishment of the Central Public Service Commission in 1926?
-
-A. Indian Councils Act, 1909
-B. Government of India Act, 1919
-C. Government of India Act, 1935
-D. Indian Independence Act, 1947
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The Government of India Act 1919 introduced bicameralism at the Centre (Council of State ~60 members, Legislative Assembly ~140 members) and provided for a Central PSC (set up 1926).
-</details>
-
-**Q15.**
-By which Act / Royal Proclamation was the 'Chamber of Princes' (Narendra Mandal) comprising 120 members established in 1921?
-
-A. Charter Act of 1853
-B. Government of India Act, 1919
-C. Indian Councils Act, 1909
-D. Government of India Act, 1935
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Chamber of Princes (Narendra Mandal) was established under the scheme of the Government of India Act 1919 with Maharaja Ganga Singh of Bikaner as its first Chancellor.
-</details>
-
-**Q16.**
-Why was the Simon Commission (appointed in November 1927 to review the working of the Government of India Act 1919) boycotted across British India with slogans of "Simon Go Back"?
-
-A. It recommended the abolition of provincial autonomy
-B. It was an all-British commission with no Indian member
-C. It proposed the immediate partition of India
-D. It rejected the proposal for a federal court
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Simon Commission comprised 7 British parliamentarians with zero Indian representation, leading to a nationwide boycott by all major parties.
-</details>
-
-**Q17.**
-With reference to the Round Table Conferences held in London (1930–1932):
-
-1. The Indian National Congress boycotted the First and Third Round Table Conferences.
-2. Mahatma Gandhi attended the Second Round Table Conference (1931) as the sole Congress delegate.
-3. Dr. Rajendra Prasad was an official delegate at the Second Round Table Conference.
-
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Statements 1 and 2 are correct. Dr. Rajendra Prasad did NOT participate in the Second Round Table Conference (Sarojini Naidu, Malaviya attended).
-</details>
-
-**Q18.**
-Match List-I with List-II regarding British electoral arrangements:
-
-**List-I**
-A. Indian Councils Act 1909
-B. Government of India Act 1919
-C. Communal Award 1932
-D. Poona Pact 1932
-
-**List-II**
-1. Extended separate electorates to Sikhs, Indian Christians, Anglo-Indians
-2. Separate electorates introduced for Muslims
-3. Reserved seats within a joint electorate for Depressed Classes
-4. Extended separate electorates to Depressed Classes
-
-Select the correct code:
-
-A. 2 1 4 3
-B. 1 2 3 4
-C. 2 4 1 3
-D. 4 1 2 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1909 = Muslims; 1919 = Sikhs & Christians; Communal Award (1932) = Depressed Classes separate electorates; Poona Pact (1932) = Reserved seats in joint electorate.
-</details>
-
-**Q19.**
-Which of the following was a major structural change introduced by the Government of India Act, 1935?
-
-A. Introduction of Dyarchy in the provinces
-B. Complete Provincial Autonomy replacing provincial dyarchy
-C. Unicameral central legislature
-D. Separation of Judiciary from Executive in all districts
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The Government of India Act 1935 abolished provincial dyarchy and introduced Provincial Autonomy in 11 provinces.
-</details>
-
-**Q20.**
-Under the Government of India Act 1935, in whom were the 'Residuary Powers' of legislation vested?
-
-A. Federal Legislature
-B. Provincial Legislatures
-C. Governor-General / Viceroy in his discretion
-D. Secretary of State for India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Under the GOI Act 1935, residuary powers were vested in the Governor-General in his discretion (unlike the Constitution where they are borrowed from Canada and vested in the Centre).
-</details>
-
-**Q21.**
-The Federal Court of India, provided for under the Government of India Act 1935, was inaugurated on 1 October 1937. Who among the following was its first Chief Justice?
-
-A. Sir Elijah Impey
-B. Sir Maurice Gwyer
-C. Sir Hari Singh Gour
-D. H.J. Kania
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Sir Maurice Gwyer served as the first Chief Justice of the Federal Court of India (established on 1 Oct 1937).
-</details>
-
-**Q22.**
-Which of the following statements regarding the creation of the Reserve Bank of India (RBI) is historically accurate?
-
-A. RBI was created solely by an executive resolution under GOI Act 1919
-B. GOI Act 1935 provided for its establishment, while the actual governing statute was the RBI Act, 1934 (operations began 1 April 1935)
-C. RBI was established under Charter Act 1853
-D. RBI was created on 26 January 1950 by the Constitution
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The GOI Act 1935 provided for the establishment of the RBI, but the enabling statute was the RBI Act, 1934 (commencing operations on 1 April 1935).
-</details>
-
-**Q23.**
-Consider the following statements regarding the first Interim National Government of 1946:
-
-1. It was officially announced on 24 August 1946 and took office on 2 September 1946.
-2. Dr. S. Radhakrishnan was a member of the 1946 Interim Government.
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1 only. The Interim Government was announced on 24 August 1946 and assumed office on 2 September 1946. Dr. S. Radhakrishnan was NOT a member.
-</details>
-
-**Q24.**
-How were the members of the Constituent Assembly of India elected in 1946?
-
-A. Directly by universal adult franchise across British India
-B. Indirectly by the provincial legislative assemblies via proportional representation with single transferable vote (PR-STV)
-C. Nominated entirely by the Governor-General
-D. Elected through separate communal electorates only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Constituent Assembly members were elected indirectly by the provincial assemblies using PR-STV; Mahatma Gandhi was NOT a member.
-</details>
-
-**Q25.**
-What was the total initial membership of the Constituent Assembly under the Cabinet Mission Plan before partition?
-
-A. 296
-B. 389 (292 British provinces + 93 Princely States + 4 Chief Commissioner's provinces)
-C. 299
-D. 324
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Initial strength was 389 (292 provinces + 93 princely states + 4 chief commissioners); after partition it was reduced to 299.
-</details>
-
-**Q26.**
-Match List-I (Post in Constituent Assembly) with List-II (Leader):
-
-**List-I**
-A. Temporary Chairman (9 Dec 1946)
-B. Permanent President (11 Dec 1946)
-C. Constitutional Adviser
-D. Drafting Committee Chairman
-
-**List-II**
-1. Dr. Rajendra Prasad
-2. Dr. Sachchidananda Sinha
-3. Dr. B.R. Ambedkar
-4. Sir B.N. Rau
-
-Select the correct code:
-
-A. 2 1 4 3
-B. 1 2 3 4
-C. 2 4 1 3
-D. 4 1 2 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sinha = Temporary Chairman; Prasad = Permanent President; Rau = Constitutional Adviser; Ambedkar = Drafting Committee Chairman.
-</details>
-
-**Q27.**
-The historic 'Objectives Resolution' outlining the philosophical foundations of the Indian Constitution was moved in the Constituent Assembly by Jawaharlal Nehru on:
-
-A. 9 December 1946
-B. 11 December 1946
-C. 13 December 1946
-D. 22 January 1947
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Moved on 13 December 1946 (fifth meeting) and unanimously adopted on 22 January 1947.
-</details>
-
-**Q28.**
-Which of the following Constituent Assembly committees is NOT correctly matched with its Chairman?
-
-A. Rules of Procedure Committee — Dr. Rajendra Prasad
-B. Union Constitution Committee — Jawaharlal Nehru
-C. Advisory Committee on Fundamental Rights and Minorities — Sardar Vallabhbhai Patel
-D. Minorities Sub-Committee — Dr. B.R. Ambedkar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — The Minorities Sub-Committee was chaired by H.C. Mukherjee (Fundamental Rights Sub-Committee was chaired by J.B. Kripalani; parent committee by Sardar Patel).
-</details>
-
-**Q29.**
-Consider the following pairs regarding the Constitution and National Symbols:
-
-1. English Calligrapher of the original Constitution: Prem Behari Narain Raizada
-2. Hindi Calligrapher of the original Constitution: Vasant Krishan Vaidya
-3. Adoption of the National Flag by Constituent Assembly: 22 July 1947
-4. Adoption of the Constitution: 26 November 1949
-
-Which of the pairs given above are correctly matched?
-
-A. 1 and 3 only
-B. 1, 2 and 4 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All 4 pairs are correctly matched according to the Must-Score Facts and Confused Pairs table.
-</details>
-
-**Q30.**
-Arrange the following constitutional events in correct chronological sequence from earliest to latest:
-
-I. Constituent Assembly first met
-II. Appointment of the Drafting Committee
-III. Adoption and enactment of the Constitution
-IV. Date of commencement of the Constitution
-
-Select the correct code:
-
-A. I, II, III, IV
-B. II, I, III, IV
-C. I, III, II, IV
-D. IV, I, II, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — First met 9 Dec 1946 (I) → Drafting Committee appointed 29 Aug 1947 (II) → Constitution adopted 26 Nov 1949 (III) → Commencement 26 Jan 1950 (IV).
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Under the Regulating Act of 1773, the Supreme Court of Judicature was established at Fort William (Calcutta) in 1774. Who among the following was appointed its first Chief Justice?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sir Elijah Impey</div><div class="pyq-opt"><span class="opt-letter">B</span> Lord Cornwallis</div><div class="pyq-opt"><span class="opt-letter">C</span> Sir Robert Chambers</div><div class="pyq-opt"><span class="opt-letter">D</span> Stephen Le Maistre</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sir Elijah Impey was appointed the first Chief Justice of the Supreme Court at Calcutta (established in 1774 under Regulating Act 1773).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Pitt's India Act of 1784 established a 'Dual System of Government' by dividing Company powers. Which of the following bodies was created to manage political, military, and revenue affairs?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Court of Directors</div><div class="pyq-opt"><span class="opt-letter">B</span> Board of Control</div><div class="pyq-opt"><span class="opt-letter">C</span> Law Commission</div><div class="pyq-opt"><span class="opt-letter">D</span> Council of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Board of Control (6 commissioners) handled political and territorial affairs, while the Court of Directors handled commercial matters.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which British enactment specifically empowered Lord Cornwallis to overrule his Council in extraordinary circumstances and hold both offices of Governor-General and Commander-in-Chief?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Regulating Act, 1773</div><div class="pyq-opt"><span class="opt-letter">B</span> Pitt's India Act, 1784</div><div class="pyq-opt"><span class="opt-letter">C</span> Act of 1786</div><div class="pyq-opt"><span class="opt-letter">D</span> Charter Act of 1793</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Act of 1786 gave the Governor-General power to overrule his council in special cases and enabled Cornwallis to be both Governor-General and Commander-in-Chief.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following provisions of the Charter Act of 1813:<br><br>1. It ended the commercial trade monopoly of the East India Company, except for trade in tea and trade with China.<br>2. It allocated an annual sum of ₹1 lakh for the revival and promotion of literature, science, and education in India.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both statements are correct under the Charter Act of 1813. Company revenues also remained with the Company for another 20 years.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to the ₹1 lakh educational grant under the Charter Act of 1813, which body was created in 1823 to administer this fund, leading to the Orientalist–Anglicist controversy?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Macaulay Committee</div><div class="pyq-opt"><span class="opt-letter">B</span> General Committee of Public Instruction</div><div class="pyq-opt"><span class="opt-letter">C</span> Hunter Education Commission</div><div class="pyq-opt"><span class="opt-letter">D</span> Wood's Despatch Council</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The General Committee of Public Instruction (1823) administered the ₹1 lakh grant; H.T. Prinsep supported Orientalist learning while Charles Trevelyan led the Anglicists.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">By which Charter Act was the Governor-General of Bengal redesignated as the 'Governor-General of India', with Lord William Bentinck becoming the first to hold this office?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Charter Act of 1793</div><div class="pyq-opt"><span class="opt-letter">B</span> Charter Act of 1813</div><div class="pyq-opt"><span class="opt-letter">C</span> Charter Act of 1833</div><div class="pyq-opt"><span class="opt-letter">D</span> Charter Act of 1853</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Charter Act 1833 made Lord William Bentinck the first Governor-General of India and completely ended the Company's commercial activities.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which section of the Charter Act of 1833 declared that no native of British India would be debarred from holding any place, office, or employment under the Company on grounds only of religion, place of birth, descent, or colour?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Section 53</div><div class="pyq-opt"><span class="opt-letter">B</span> Section 87</div><div class="pyq-opt"><span class="opt-letter">C</span> Section 92</div><div class="pyq-opt"><span class="opt-letter">D</span> Section 101</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Section 87 of the Charter Act 1833 laid the historic foundation for non-discrimination in Indian administrative appointments.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which Act for the first time separated the legislative and executive functions of the Governor-General's Council and introduced an open competition system for the Indian Civil Services?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Charter Act of 1833</div><div class="pyq-opt"><span class="opt-letter">B</span> Charter Act of 1853</div><div class="pyq-opt"><span class="opt-letter">C</span> Indian Councils Act, 1861</div><div class="pyq-opt"><span class="opt-letter">D</span> Government of India Act, 1858</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Charter Act 1853 established a 6-member Indian Legislative Council and introduced open competition for civil services (Macaulay Committee appointed in 1854).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">Under the Government of India Act, 1858, following the 1857 Revolt:<br><br>1. The rule of the East India Company was replaced by direct British Crown rule.<br>2. The office of Secretary of State for India was created, assisted by a 15-member Council of India.<br>3. Lord Canning became the first Viceroy of India.<br><br>Which of the statements given above are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct under the Government of India Act 1858.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which British enactment gave statutory recognition to the 'Portfolio System' (introduced earlier in practice by Lord Canning in 1859) and empowered the Viceroy to issue ordinances?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Government of India Act, 1858</div><div class="pyq-opt"><span class="opt-letter">B</span> Indian Councils Act, 1861</div><div class="pyq-opt"><span class="opt-letter">C</span> Indian Councils Act, 1892</div><div class="pyq-opt"><span class="opt-letter">D</span> Indian Councils Act, 1909</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Indian Councils Act 1861 legalized the portfolio system, restored legislative devolution to Bombay and Madras, and granted emergency ordinance powers to the Viceroy.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Under the Indian Councils Act of 1892, non-official Indian members in the Legislative Council were granted the power to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vote on the budget and move amendments</div><div class="pyq-opt"><span class="opt-letter">B</span> Discuss the annual budget and address questions to the executive without voting</div><div class="pyq-opt"><span class="opt-letter">C</span> Introduce money bills without prior sanction</div><div class="pyq-opt"><span class="opt-letter">D</span> Ask supplementary questions on any subject</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Indian Councils Act 1892 allowed members to discuss the budget and ask questions, but did not permit voting on the budget or asking supplementary questions.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements regarding the Indian Councils Act of 1909 (Morley-Minto Reforms):<br><br>1. It introduced separate communal electorates for Muslims for the first time.<br>2. Satyendra Prasanna (S.P.) Sinha became the first Indian appointed to the Viceroy’s Executive Council.<br>3. Members were allowed to move resolutions on the budget and ask supplementary questions.<br><br>Which of the statements given above are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct under the Indian Councils Act of 1909.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Under the Government of India Act 1919 (Montagu-Chelmsford Reforms), provincial subjects were divided into 'Reserved' and 'Transferred'. Which of the following was classified as a 'Reserved' subject?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Local Self-Government</div><div class="pyq-opt"><span class="opt-letter">B</span> Public Health</div><div class="pyq-opt"><span class="opt-letter">C</span> Education</div><div class="pyq-opt"><span class="opt-letter">D</span> Police and Land Revenue</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Police, justice, prisons, and land revenue were Reserved subjects (administered by the Governor and his Executive Council without responsibility to the legislature).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which British enactment created a Bicameral Legislature at the Centre (Council of State and Central Legislative Assembly) and led to the establishment of the Central Public Service Commission in 1926?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Indian Councils Act, 1909</div><div class="pyq-opt"><span class="opt-letter">B</span> Government of India Act, 1919</div><div class="pyq-opt"><span class="opt-letter">C</span> Government of India Act, 1935</div><div class="pyq-opt"><span class="opt-letter">D</span> Indian Independence Act, 1947</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Government of India Act 1919 introduced bicameralism at the Centre (Council of State ~60 members, Legislative Assembly ~140 members) and provided for a Central PSC (set up 1926).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">By which Act / Royal Proclamation was the 'Chamber of Princes' (Narendra Mandal) comprising 120 members established in 1921?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Charter Act of 1853</div><div class="pyq-opt"><span class="opt-letter">B</span> Government of India Act, 1919</div><div class="pyq-opt"><span class="opt-letter">C</span> Indian Councils Act, 1909</div><div class="pyq-opt"><span class="opt-letter">D</span> Government of India Act, 1935</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chamber of Princes (Narendra Mandal) was established under the scheme of the Government of India Act 1919 with Maharaja Ganga Singh of Bikaner as its first Chancellor.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Why was the Simon Commission (appointed in November 1927 to review the working of the Government of India Act 1919) boycotted across British India with slogans of "Simon Go Back"?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It recommended the abolition of provincial autonomy</div><div class="pyq-opt"><span class="opt-letter">B</span> It was an all-British commission with no Indian member</div><div class="pyq-opt"><span class="opt-letter">C</span> It proposed the immediate partition of India</div><div class="pyq-opt"><span class="opt-letter">D</span> It rejected the proposal for a federal court</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Simon Commission comprised 7 British parliamentarians with zero Indian representation, leading to a nationwide boycott by all major parties.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to the Round Table Conferences held in London (1930–1932):<br><br>1. The Indian National Congress boycotted the First and Third Round Table Conferences.<br>2. Mahatma Gandhi attended the Second Round Table Conference (1931) as the sole Congress delegate.<br>3. Dr. Rajendra Prasad was an official delegate at the Second Round Table Conference.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct. Dr. Rajendra Prasad did NOT participate in the Second Round Table Conference (Sarojini Naidu, Malaviya attended).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I</th>
+      <th>List-II</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Indian Councils Act 1909</td>
+      <td><span class="match-key">1</span> Extended separate electorates to Sikhs, Indian Christians, Anglo-Indians</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Government of India Act 1919</td>
+      <td><span class="match-key">2</span> Separate electorates introduced for Muslims</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Communal Award 1932</td>
+      <td><span class="match-key">3</span> Reserved seats within a joint electorate for Depressed Classes</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Poona Pact 1932</td>
+      <td><span class="match-key">4</span> Extended separate electorates to Depressed Classes
+
+Select the correct code:</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 2 3 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 4 1 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 1 2 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1909 = Muslims; 1919 = Sikhs & Christians; Communal Award (1932) = Depressed Classes separate electorates; Poona Pact (1932) = Reserved seats in joint electorate.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following was a major structural change introduced by the Government of India Act, 1935?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Introduction of Dyarchy in the provinces</div><div class="pyq-opt"><span class="opt-letter">B</span> Complete Provincial Autonomy replacing provincial dyarchy</div><div class="pyq-opt"><span class="opt-letter">C</span> Unicameral central legislature</div><div class="pyq-opt"><span class="opt-letter">D</span> Separation of Judiciary from Executive in all districts</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Government of India Act 1935 abolished provincial dyarchy and introduced Provincial Autonomy in 11 provinces.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Under the Government of India Act 1935, in whom were the 'Residuary Powers' of legislation vested?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Federal Legislature</div><div class="pyq-opt"><span class="opt-letter">B</span> Provincial Legislatures</div><div class="pyq-opt"><span class="opt-letter">C</span> Governor-General / Viceroy in his discretion</div><div class="pyq-opt"><span class="opt-letter">D</span> Secretary of State for India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Under the GOI Act 1935, residuary powers were vested in the Governor-General in his discretion (unlike the Constitution where they are borrowed from Canada and vested in the Centre).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q21</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Federal Court of India, provided for under the Government of India Act 1935, was inaugurated on 1 October 1937. Who among the following was its first Chief Justice?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sir Elijah Impey</div><div class="pyq-opt"><span class="opt-letter">B</span> Sir Maurice Gwyer</div><div class="pyq-opt"><span class="opt-letter">C</span> Sir Hari Singh Gour</div><div class="pyq-opt"><span class="opt-letter">D</span> H.J. Kania</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sir Maurice Gwyer served as the first Chief Justice of the Federal Court of India (established on 1 Oct 1937).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q22</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements regarding the creation of the Reserve Bank of India (RBI) is historically accurate?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> RBI was created solely by an executive resolution under GOI Act 1919</div><div class="pyq-opt"><span class="opt-letter">B</span> GOI Act 1935 provided for its establishment, while the actual governing statute was the RBI Act, 1934 (operations began 1 April 1935)</div><div class="pyq-opt"><span class="opt-letter">C</span> RBI was established under Charter Act 1853</div><div class="pyq-opt"><span class="opt-letter">D</span> RBI was created on 26 January 1950 by the Constitution</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The GOI Act 1935 provided for the establishment of the RBI, but the enabling statute was the RBI Act, 1934 (commencing operations on 1 April 1935).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q23</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements regarding the first Interim National Government of 1946:<br><br>1. It was officially announced on 24 August 1946 and took office on 2 September 1946.<br>2. Dr. S. Radhakrishnan was a member of the 1946 Interim Government.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 only. The Interim Government was announced on 24 August 1946 and assumed office on 2 September 1946. Dr. S. Radhakrishnan was NOT a member.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q24</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">How were the members of the Constituent Assembly of India elected in 1946?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Directly by universal adult franchise across British India</div><div class="pyq-opt"><span class="opt-letter">B</span> Indirectly by the provincial legislative assemblies via proportional representation with single transferable vote (PR-STV)</div><div class="pyq-opt"><span class="opt-letter">C</span> Nominated entirely by the Governor-General</div><div class="pyq-opt"><span class="opt-letter">D</span> Elected through separate communal electorates only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Constituent Assembly members were elected indirectly by the provincial assemblies using PR-STV; Mahatma Gandhi was NOT a member.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q25</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">What was the total initial membership of the Constituent Assembly under the Cabinet Mission Plan before partition?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 296</div><div class="pyq-opt"><span class="opt-letter">B</span> 389 (292 British provinces + 93 Princely States + 4 Chief Commissioner's provinces)</div><div class="pyq-opt"><span class="opt-letter">C</span> 299</div><div class="pyq-opt"><span class="opt-letter">D</span> 324</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Initial strength was 389 (292 provinces + 93 princely states + 4 chief commissioners); after partition it was reduced to 299.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q26</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Constituent Assembly Post)</th>
+      <th>List-II (Leader)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Temporary Chairman (9 Dec 1946)</td>
+      <td><span class="match-key">1</span> Dr. Rajendra Prasad</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Permanent President (11 Dec 1946)</td>
+      <td><span class="match-key">2</span> Dr. Sachchidananda Sinha</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Constitutional Adviser</td>
+      <td><span class="match-key">3</span> Dr. B.R. Ambedkar</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Drafting Committee Chairman</td>
+      <td><span class="match-key">4</span> Sir B.N. Rau
+
+Select the correct code:</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 2 3 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 4 1 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 1 2 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sinha = Temporary Chairman; Prasad = Permanent President; Rau = Constitutional Adviser; Ambedkar = Drafting Committee Chairman.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q27</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">The historic 'Objectives Resolution' outlining the philosophical foundations of the Indian Constitution was moved in the Constituent Assembly by Jawaharlal Nehru on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 9 December 1946</div><div class="pyq-opt"><span class="opt-letter">B</span> 11 December 1946</div><div class="pyq-opt"><span class="opt-letter">C</span> 13 December 1946</div><div class="pyq-opt"><span class="opt-letter">D</span> 22 January 1947</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Moved on 13 December 1946 (fifth meeting) and unanimously adopted on 22 January 1947.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q28</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following Constituent Assembly committees is NOT correctly matched with its Chairman?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rules of Procedure Committee — Dr. Rajendra Prasad</div><div class="pyq-opt"><span class="opt-letter">B</span> Union Constitution Committee — Jawaharlal Nehru</div><div class="pyq-opt"><span class="opt-letter">C</span> Advisory Committee on Fundamental Rights and Minorities — Sardar Vallabhbhai Patel</div><div class="pyq-opt"><span class="opt-letter">D</span> Minorities Sub-Committee — Dr. B.R. Ambedkar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The Minorities Sub-Committee was chaired by H.C. Mukherjee (Fundamental Rights Sub-Committee was chaired by J.B. Kripalani; parent committee by Sardar Patel).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q29</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs regarding the Constitution and National Symbols:<br><br>1. English Calligrapher of the original Constitution: Prem Behari Narain Raizada<br>2. Hindi Calligrapher of the original Constitution: Vasant Krishan Vaidya<br>3. Adoption of the National Flag by Constituent Assembly: 22 July 1947<br>4. Adoption of the Constitution: 26 November 1949<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All 4 pairs are correctly matched according to the Must-Score Facts and Confused Pairs table.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q30</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Arrange the following constitutional events in correct chronological sequence from earliest to latest:<br><br>I. Constituent Assembly first met<br>II. Appointment of the Drafting Committee<br>III. Adoption and enactment of the Constitution<br>IV. Date of commencement of the Constitution<br><br>Select the correct code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, II, III, IV</div><div class="pyq-opt"><span class="opt-letter">B</span> II, I, III, IV</div><div class="pyq-opt"><span class="opt-letter">C</span> I, III, II, IV</div><div class="pyq-opt"><span class="opt-letter">D</span> IV, I, II, III</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> First met 9 Dec 1946 (I) → Drafting Committee appointed 29 Aug 1947 (II) → Constitution adopted 26 Nov 1949 (III) → Commencement 26 Jan 1950 (IV).</div>
+  </div>
+</div>

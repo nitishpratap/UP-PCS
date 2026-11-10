@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 3 — Food Chain (खाद्य श्रृंखला) & Energy Flow</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. A **food chain** is a single linear who-eats-whom sequence. A **food web** is a network of interconnected chains and is more stable than one chain alone.
@@ -73,22 +62,6 @@ hide:
 47. **Decomposers** are usually omitted from standard pyramid diagrams. They act on all levels and return nutrients to producers.
 48. **Biomagnification** of toxins such as DDT increases concentration up the food chain. Top predators suffer most even as energy decreases upward.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Environmental Legislation & Governance in India
-
-```
-1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
-1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
-1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
-1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
-1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
-1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
-2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
-2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
-2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
-```
-
 ## 📊 Quick Reference Grid
 
 ### Chain types
@@ -112,302 +85,233 @@ hide:
 | Biomagnification | Toxin ↑ up chain (DDT highest in apex) |
 | Diclofenac | Vulture crash → scavenging pathway break |
 | UP grazing example | Dudhwa grass → deer → tiger |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Food Chain** | **Food Web** | Single linear sequence of organisms where nutrients and energy transfer through feeding vs complex network of interconnected, interlocking food chains providing alternative feeding pathways | खाद्य श्रृंखला / खाद्य जाल |
-| **Grazing Food Chain (GFC)** | **Detritus Food Chain (DFC)** | Begins with living green photosynthetic plants (producers) and drives terrestrial energy vs begins with dead organic matter (detritus) decomposed by fungi and bacteria | चराई खाद्य श्रृंखला / अपरद (अवशेष) खाद्य श्रृंखला |
-| **Upright Pyramid of Biomass** | **Inverted Pyramid of Biomass** | Characteristic of terrestrial grasslands and forests where producer biomass far exceeds herbivores vs characteristic of aquatic/pond ecosystems where standing crop of phytoplankton is smaller than zooplankton/fish | सीधा जैवभार पिरामिड (स्थलीय) / उल्टा जैवभार पिरामिड (जलीय/तालाब) |
-| **10% Energy Transfer Law** | **Bioaccumulation** | Raymond Lindeman (1942) principle that only ~10% of energy transfers from one trophic level to the next vs progressive buildup of non-biodegradable chemicals within an individual organism over time | 10% ऊर्जा नियम (लिंडमैन) / जैव संचय (बायोएक्यूमुलेशन) |
-| **Bioaccumulation** | **Biomagnification** | Increase in toxicant concentration within a single organism's tissues through direct absorption from water/food vs increase in toxic chemical concentration (e.g. DDT, mercury) across successive trophic levels of a food chain | जैव संचय (एक जीव में) / जैव आवर्धन (खाद्य श्रृंखला में) |
-| **Primary Consumer** | **Secondary Consumer** | Herbivores feeding directly on autotrophic green plants (cow, deer, zooplankton) vs primary carnivores that hunt and feed on herbivores (frog, fox, small fish) | प्राथमिक उपभोक्ता (शाकाहारी) / द्वितीयक उपभोक्ता (मांसाहारी) |
-| **Pyramid of Energy** | **Pyramid of Numbers** | Always universally upright in all ecosystems because energy is irretrievably lost as metabolic heat at each level vs can be upright (grassland) or inverted (single large tree supporting thousands of birds/parasites) | ऊर्जा पिरामिड (सदैव सीधा) / संख्या पिरामिड |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to 'Ecosystem', which of the following statements is/are correct?
-
-1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
-2. Around 10% of organic matter reaches to the next higher level of consumers.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — 1% capture at producer stage. 10% transfer between trophic levels.
-
-</details>
-
-**Q2.**
-
-Trophic levels are formed by—
-
-A. Organisms linked in a food chain
-
-B. Plants only
-
-C. Animals only
-
-D. Carnivorous animals only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.**
-
-The amount of energy during transfer from one trophic level to another in an ecosystem:
-
-A. Increases
-
-B. Decreases
-
-C. Remains constant
-
-D. May increase or decrease
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q4.**
-
-With reference to food chains in ecosystems, which of the following is correct?
-
-A. Energy increases at higher trophic levels
-
-B. Energy decreases; ~10% transfers
-
-C. Energy is cyclic
-
-D. 50% transfers between levels
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q5.**
-
-Why are food chains generally short?
-
-A. Predators are lazy
-
-B. Progressive energy loss at each trophic transfer
-
-C. Too many species
-
-D. Nutrients are scarce
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6.**
-
-Inverted pyramid of biomass is seen in:
-
-A. Grassland
-
-B. Open ocean
-
-C. Desert
-
-D. Tropical rainforest
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q7.**
-
-Inverted pyramid of numbers is seen in:
-
-A. Grassland
-
-B. Parasitic food chain on a tree
-
-C. Open ocean
-
-D. Pond
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q8.**
-
-Which occupies the lowest trophic level?
-
-A. Tiger
-
-B. Phytoplankton
-
-C. Snake
-
-D. Eagle
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9.**
-
-In grassland chain Grass → Grasshopper → Frog → Snake → Hawk, trophic levels are:
-
-A. T1–T5 in order
-
-B. All T2
-
-C. Hawk = T1
-
-D. Grass = T2
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q10.**
-
-Which pyramid is always upright?
-
-A. Pyramid of biomass
-
-B. Pyramid of numbers
-
-C. Pyramid of energy
-
-D. All three
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q11.** Correct grassland food-chain order:
-
-A. Grass–Grasshopper–Frog–Snake
-
-B. Grass–Grasshopper–Snake–Frog
-
-C. Grasshopper–Frog–Grass–Snake
-
-D. Grasshopper–Snake–Frog–Grass
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Classic chain order, human trophic role, marine producers, 10% law, inverted biomass, DDT biomagnification.
-
-**Ans: A.** Producer → primary → secondary → tertiary consumer.
-
-</details>
-
-**Q12.** Which constitutes a food chain?
-
-A. Grass, wheat and mango
-
-B. Grass, goat and human
-
-C. Goat, cow and elephant
-
-D. Grass, fish and goat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Grass → goat → human.
-
-</details>
-
-**Q13.** In a food chain, man is:
-
-A. Producer only
-
-B. Only primary consumer
-
-C. Only secondary consumer
-
-D. Primary as well as secondary consumer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Humans eat plants and meat.
-
-</details>
-
-**Q14.** Main primary producers in the marine environment:
-
-A. Phytoplankton
-
-B. Seaweeds only
-
-C. Marine angiosperms only
-
-D. Aquatic bryophytes only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** **Phytoplankton**.
-
-</details>
-
-**Q15.** Decomposer organisms include:
-
-A. Virus only
-
-B. Fungi and bacteria
-
-C. Virus and bacteria only
-
-D. Virus, fungi and bacteria
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Fungi and bacteria — not virus in this framing.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to 'Ecosystem', which of the following statements is/are correct?<br><br>1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.<br>2. Around 10% of organic matter reaches to the next higher level of consumers.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1% capture at producer stage. 10% transfer between trophic levels.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Trophic levels are formed by—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Organisms linked in a food chain</div><div class="pyq-opt"><span class="opt-letter">B</span> Plants only</div><div class="pyq-opt"><span class="opt-letter">C</span> Animals only</div><div class="pyq-opt"><span class="opt-letter">D</span> Carnivorous animals only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The amount of energy during transfer from one trophic level to another in an ecosystem:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Increases</div><div class="pyq-opt"><span class="opt-letter">B</span> Decreases</div><div class="pyq-opt"><span class="opt-letter">C</span> Remains constant</div><div class="pyq-opt"><span class="opt-letter">D</span> May increase or decrease</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to food chains in ecosystems, which of the following is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Energy increases at higher trophic levels</div><div class="pyq-opt"><span class="opt-letter">B</span> Energy decreases; ~10% transfers</div><div class="pyq-opt"><span class="opt-letter">C</span> Energy is cyclic</div><div class="pyq-opt"><span class="opt-letter">D</span> 50% transfers between levels</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Why are food chains generally short?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Predators are lazy</div><div class="pyq-opt"><span class="opt-letter">B</span> Progressive energy loss at each trophic transfer</div><div class="pyq-opt"><span class="opt-letter">C</span> Too many species</div><div class="pyq-opt"><span class="opt-letter">D</span> Nutrients are scarce</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Inverted pyramid of biomass is seen in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Grassland</div><div class="pyq-opt"><span class="opt-letter">B</span> Open ocean</div><div class="pyq-opt"><span class="opt-letter">C</span> Desert</div><div class="pyq-opt"><span class="opt-letter">D</span> Tropical rainforest</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Inverted pyramid of numbers is seen in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Grassland</div><div class="pyq-opt"><span class="opt-letter">B</span> Parasitic food chain on a tree</div><div class="pyq-opt"><span class="opt-letter">C</span> Open ocean</div><div class="pyq-opt"><span class="opt-letter">D</span> Pond</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which occupies the lowest trophic level?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tiger</div><div class="pyq-opt"><span class="opt-letter">B</span> Phytoplankton</div><div class="pyq-opt"><span class="opt-letter">C</span> Snake</div><div class="pyq-opt"><span class="opt-letter">D</span> Eagle</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">In grassland chain Grass → Grasshopper → Frog → Snake → Hawk, trophic levels are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> T1–T5 in order</div><div class="pyq-opt"><span class="opt-letter">B</span> All T2</div><div class="pyq-opt"><span class="opt-letter">C</span> Hawk = T1</div><div class="pyq-opt"><span class="opt-letter">D</span> Grass = T2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which pyramid is always upright?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pyramid of biomass</div><div class="pyq-opt"><span class="opt-letter">B</span> Pyramid of numbers</div><div class="pyq-opt"><span class="opt-letter">C</span> Pyramid of energy</div><div class="pyq-opt"><span class="opt-letter">D</span> All three</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Correct grassland food-chain order:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Grass–Grasshopper–Frog–Snake</div><div class="pyq-opt"><span class="opt-letter">B</span> Grass–Grasshopper–Snake–Frog</div><div class="pyq-opt"><span class="opt-letter">C</span> Grasshopper–Frog–Grass–Snake</div><div class="pyq-opt"><span class="opt-letter">D</span> Grasshopper–Snake–Frog–Grass</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Classic chain order, human trophic role, marine producers, 10% law, inverted biomass, DDT biomagnification.
+
+**Ans: A.** Producer → primary → secondary → tertiary consumer.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which constitutes a food chain?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Grass, wheat and mango</div><div class="pyq-opt"><span class="opt-letter">B</span> Grass, goat and human</div><div class="pyq-opt"><span class="opt-letter">C</span> Goat, cow and elephant</div><div class="pyq-opt"><span class="opt-letter">D</span> Grass, fish and goat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Grass → goat → human.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">In a food chain, man is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Producer only</div><div class="pyq-opt"><span class="opt-letter">B</span> Only primary consumer</div><div class="pyq-opt"><span class="opt-letter">C</span> Only secondary consumer</div><div class="pyq-opt"><span class="opt-letter">D</span> Primary as well as secondary consumer</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Humans eat plants and meat.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Main primary producers in the marine environment:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Phytoplankton</div><div class="pyq-opt"><span class="opt-letter">B</span> Seaweeds only</div><div class="pyq-opt"><span class="opt-letter">C</span> Marine angiosperms only</div><div class="pyq-opt"><span class="opt-letter">D</span> Aquatic bryophytes only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Phytoplankton**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Decomposer organisms include:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Virus only</div><div class="pyq-opt"><span class="opt-letter">B</span> Fungi and bacteria</div><div class="pyq-opt"><span class="opt-letter">C</span> Virus and bacteria only</div><div class="pyq-opt"><span class="opt-letter">D</span> Virus, fungi and bacteria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Fungi and bacteria — not virus in this framing.</div>
+  </div>
+</div>

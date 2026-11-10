@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 6 — Protected Areas & Conservation</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. The **Wildlife (Protection) Act, 1972** is India’s main protected-area statute.
@@ -72,22 +61,6 @@ hide:
 46. **Keoladeo** is both a Ramsar wetland and a UNESCO natural World Heritage Site (प्राकृतिक विश्व धरोहर स्थल).
 47. **Uttar Pradesh has no natural UNESCO World Heritage Site**. Nanda Devi is in **Uttarakhand** (उत्तराखंड).
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Wildlife Conservation Projects in India
-
-```
-1972 ──► Wildlife (Protection) Act enacted (6 Schedules; rationalized to 4 via 2022 Amendment)
-1973 ──► Project Tiger launched at Corbett National Park (9 initial reserves; now 55 Tiger Reserves)
-1975 ──► Crocodile Conservation Project launched with UNDP/FAO support (Mugger, Gharial, Saltwater)
-1986 ──► Nilgiri Biosphere Reserve designated (India's 1st Biosphere Reserve under UNESCO MAB)
-1992 ──► Project Elephant launched (Centrally Sponsored Scheme for wild elephant habitat & corridors)
-1996 ──► Vulture Conservation Action Plan initiated (banning veterinary diclofenac post-crash)
-2007 ──► Project Snow Leopard launched (covering Ladakh, HP, Uttarakhand, Sikkim, Arunachal)
-2020 ──► Project Dolphin & Project Lion announced on Independence Day
-2022 ──► Project Cheetah launched (intercontinental relocation of African cheetahs to Kuno NP, MP)
-```
-
 ## 📊 Quick Reference Grid
 
 ### Strictness / categories
@@ -135,24 +108,6 @@ hide:
 | 17 | **Seshachalam Hills** | Andhra Pradesh | 2010 | **No** | Red Sanders (Pterocarpus santalinus), Slender Loris |
 | 18 | **Dibru-Saikhowa** | Assam | 1997 | **No** (Smallest BR in India) | Feral Horses, White-winged Wood Duck; Brahmaputra-Lohit floodplains |
 
-### Table: Key Tiger Reserves of India & Uttar Pradesh
-
-| Tiger Reserve | State | Special Distinction / Status | Core Exam High-Yield Notes |
-| :--- | :--- | :--- | :--- |
-| **Jim Corbett** | Uttarakhand | First National Park (1936) & First Tiger Reserve (1973) | Highest tiger density in India; Ramganga river traverses |
-| **Dudhwa** | Uttar Pradesh | Core of Dudhwa TR (Lakhimpur Kheri; 1987) | Only National Park in UP; Swamp Deer (Barasingha) stronghold |
-| **Pilibhit** | Uttar Pradesh | 45th TR of India (2014) | Won international TX2 award in 2020 for doubling tiger population |
-| **Amangarh** | Uttar Pradesh | Bijnor district (2012) | Buffer zone of Jim Corbett NP left in UP post-bifurcation |
-| **Ranipur** | Uttar Pradesh | Chitrakoot district (2022; 53rd TR of India) | 4th TR of UP; First Tiger Reserve in Bundelkhand region |
-| **Bandipur** | Karnataka | Western Ghats (1973) | Part of Nilgiri Biosphere Reserve; high tiger and elephant density |
-| **Nagarjunsagar Srisailam** | Andhra Pradesh | Largest Tiger Reserve in India by total area | Srisailam reservoir, Krishna river; Chenchu tribe |
-| **Bor** | Maharashtra | Smallest Tiger Reserve in India by area (~138 sq km) | Located in Wardha district |
-| **Ranthambore** | Rajasthan | Sawai Madhopur | Dry deciduous tiger habitat; famous junction of Aravalli & Vindhya |
-| **Kanha** | Madhya Pradesh | Satpura Maikal range | Hardground Barasingha mascot 'Bhoorsingh'; inspired Kipling |
-| **Bandhavgarh** | Madhya Pradesh | Umaria district | Highest density of Bengal tigers in Central India |
-| **Guru Ghasidas & Tamor Pingla** | Chhattisgarh | 54th Tiger Reserve of India (notified 2024) | Inter-state connectivity with Bandhavgarh and Sanjay TRs |
-| **Dholpur-Karauli** | Rajasthan | 55th Tiger Reserve of India (2023) | 5th TR of Rajasthan after Ranthambore, Sariska, Mukundra, Ramgarh |
-
 ### Table: Key Ramsar Wetlands of India (Selected High-Yield & State-Wise)
 
 | Ramsar Site | State / UT | Area / Special Significance | Exam Trap & Distinction |
@@ -171,328 +126,256 @@ hide:
 | **Asan Barrage** | Uttarakhand | First Ramsar site of Uttarakhand (2020) | Located at confluence of Asan and Yamuna in Dehradun |
 | **Lonar Lake** | Maharashtra | Meteor impact crater lake; hyper-saline | Turned pink due to haloarchaea microbes in 2020 |
 | **Tso Kar Wetland Complex** | Ladakh | High-altitude saline lake (Startsapuk Tso + Tso Kar) | Breeding ground for Black-necked Crane |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **National Park (NP)** | **Wildlife Sanctuary (WLS)** | Declared under WPA 1972 Sec 35; highest protection, zero human settlement, grazing banned, boundaries altered only by State Legislature on NBWL advice vs WPA Sec 18; regulated grazing and traditional rights may be permitted by Chief Wildlife Warden | राष्ट्रीय उद्यान (NP) / वन्यजीव अभयारण्य (WLS) |
-| **Conservation Reserve** | **Community Reserve** | Established on government-owned lands acting as buffer corridors between PAs under WPA Sec 36A vs established on private or community-owned lands with voluntary community participation under WPA Sec 36C | संरक्षण आरक्षित क्षेत्र / सामुदायिक आरक्षित क्षेत्र |
-| **Tiger Reserve** | **Elephant Reserve** | Statutory protected area notified under Wildlife Protection Act 1972 (amended 2006) with legally delineated Core and Buffer zones supervised by NTCA vs administrative/executive designation under Project Elephant without statutory backing under WPA | बाघ अभयारण्य (सांविधिक) / हाथी अभयारण्य (प्रशासनिक) |
-| **Biosphere Reserve (MAB)** | **National Park** | Landscape-level conservation framework under UNESCO MAB with 3 distinct concentric zones (Core, Buffer, Transition) integrating human development vs strict statutory preservation excluding human commercial activity | जैवमंडल आरक्षित क्षेत्र / राष्ट्रीय उद्यान |
-| **Eco-Sensitive Zone (ESZ)** | **Protected Area (PA)** | Buffer zone up to 10 km notified around National Parks and Sanctuaries under Section 3 of Environment (Protection) Act 1986 to regulate commercial activities vs statutory core area notified under Wildlife Protection Act 1972 | पर्यावरण-संवेदनशील क्षेत्र (ESZ) / संरक्षित क्षेत्र (PA) |
-| **Ramsar Wetland Site** | **Natural World Heritage Site** | International designation under 1971 Ramsar Convention specifically targeting ecological wise use of waterfowl/wetland habitats vs UNESCO World Heritage designation recognizing universal natural value under 1972 Convention | रामसर आर्द्रभूमि स्थल / प्राकृतिक विश्व धरोहर स्थल |
-| **Core Zone (Biosphere)** | **Transition Zone (Biosphere)** | Legally protected untouched sanctum sanctorum where all human activity except non-destructive research is barred vs outermost open area where local sustainable agriculture, settlements, and economic activities are actively fostered | कोर क्षेत्र (पूर्ण सुरक्षित) / संक्रमण क्षेत्र (सहअस्तित्व) |
-| Category | Legal home | Strictness / use | Classic trap |
-|----------|------------|------------------|--------------|
-| **National Park** | WPA Sec **35** | Strictest WPA PA | Boundary change needs **State Legislature** |
-| **Wildlife Sanctuary** | WPA Sec **18** | Limited use with **CWLW** permission | Not as strict as NP |
-| **Tiger Reserve** | WPA Sec **38V** + NTCA | Core + buffer mandatory | Statutory — unlike Elephant Reserve |
-| **Conservation Reserve** | WPA Sec **36A** | Forest buffer near PA | Not private-land Community Reserve |
-| **Community Reserve** | WPA Sec **36B** | Private/community land + consent | Needs voluntary consent |
-| **Biosphere Reserve** | UNESCO MAB (executive in India) | Core–buffer–transition | **No** WPA statutory basis |
-| **Elephant Reserve** | Project Elephant 1992 | Corridor / conflict focus | **No** WPA statutory basis |
-| **Ramsar site** | Ramsar Convention 1971 | Wise-use wetland | Not a forest or ozone treaty |
-| **Natural World Heritage** | UNESCO WH Convention | Outstanding universal value | ≠ Ramsar ≠ BR WNBR automatically |
-| **ESZ** | EPA **1986** | Buffer restrictions around PA | **Not** a WPA category |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Which of the following Ramsar sites are NOT located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q2.**
-
-Match List-I with List-II: A. Dachigam B. Keoladeo C. Kanha D. Periyar | 1. MP 2. Rajasthan 3. Kerala 4. J&K
-
-A. 4 2 1 3
-
-B. 2 4 3 1
-
-C. 4 2 3 1
-
-D. 4 2 1 3
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q3.**
-
-Which pairs is/are NOT correctly matched? 1. Nokrek — Manipur 2. Manas — Assam 3. Agasthyamalai — Kerala
-
-A. Only 1
-
-B. Only 2
-
-C. Only 3
-
-D. Only 1 and 3
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.**
-
-Match: A. Simlipal B. Nokrek C. Agasthyamalai D. Manas | 1. Kerala 2. Odisha 3. Assam 4. Meghalaya
-
-A. 1 2 4 3
-
-B. 3 1 4 2
-
-C. 2 4 3 1
-
-D. 2 4 1 3
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Simlipal=Odisha(2); Nokrek=Meghalaya(4); Agasthyamalai=Kerala(1); Manas=Assam(3).
-
-</details>
-
-**Q5.**
-
-Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
-
-A. Chandauli
-
-B. Mirzapur
-
-C. Sonbhadra
-
-D. Varanasi
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.**
-
-In National Parks, genetic diversity is maintained through—
-
-A. In-situ conservation
-
-B. Ex-situ conservation
-
-C. Gene pool
-
-D. None of the above
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q7.**
-
-Dudhwa National Park is situated in which district of Uttar Pradesh?
-
-A. Lakhimpur Kheri
-
-B. Pilibhit
-
-C. Bahraich
-
-D. Bijnor
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q8.**
-
-Keibul Lamjao National Park is located in which lake?
-
-A. Loktak
-
-B. Wular
-
-C. Dal
-
-D. Chilika
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.**
-
-When was Project Tiger launched in India?
-
-A. 1972
-
-B. 1973
-
-C. 1992
-
-D. 2006
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.**
-
-Which of the following is NOT an example of in-situ conservation strategy?
-
-A. Biosphere reserve
-
-B. Botanical garden
-
-C. National Park
-
-D. Sacred groves
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Botanical garden is **ex-situ**.
-
-</details>
-
-**Q11.**
-
-Which pair is NOT correctly matched?
-
-A. Bandipur NP — Karnataka
-
-B. Manas WLS — Assam
-
-C. Periyar WLS — Kerala
-
-D. Simlipal NP — Madhya Pradesh
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Simlipal is in **Odisha**.
-
-</details>
-
-**Q12.** With reference to the Wildlife (Protection) Act, 1972, which of the following statements is/are correct?
-
-1. It is India’s main protected-area statute.
-2. Terrestrial WPA strictness runs Community Reserve > Wildlife Sanctuary > National Park.
-3. A Community Reserve is stricter than a National Park under WPA.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Statement 1 is true (WPA 1972). Statement 2 reverses the strictness order (NP > WLS > Conservation/Community Reserve). Statement 3 is false — Community Reserve is the least strict of the three.
-
-</details>
-
-**Q13.** Consider the following pairs:
-
-| Category | WPA section teaching |
-|----------|----------------------|
-| 1. Wildlife Sanctuary | Section 18 |
-| 2. National Park | Section 35 |
-| 3. Tiger Reserve | Section 38V (2006 path) |
-
-Which of the pairs given above is/are correctly matched?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** All three pairs are correct.
-
-**Logic:** Sanctuary Sec. 18; NP Sec. 35; Tiger Reserve Sec. 38V.
-
-</details>
-
-**Q14.** Which of the following pairs is/are NOT correctly matched?
-
-1. Biosphere Reserve — Wildlife (Protection) Act statutory category like National Park
-2. Biosphere Reserve — UNESCO MAB three-zone model (core → buffer → transition)
-3. India’s first Biosphere Reserve — Nilgiri (1986)
-
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only pair 1 is not correctly matched.
-
-**Logic:** BR is MAB/UNESCO model — not a WPA category. Pairs 2–3 are correct.
-
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): A National Park is the strictest terrestrial WPA protected area.
-
-Reason (R): Grazing and forestry are largely banned in National Parks, and boundary change needs the State Legislature.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R explains the strictness of National Parks.
-
-**A/R logic:** R states the hard restrictions that make NP the strictest WPA category.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following Ramsar sites are NOT located in Uttar Pradesh?<br><br>1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (National Park / Sanctuary)</th>
+        <th>List-II (State)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Dachigam</td><td><span class="match-key">1</span> Madhya Pradesh</td></tr>
+    <tr><td><span class="match-key">B</span> Keoladeo Ghana</td><td><span class="match-key">2</span> Rajasthan</td></tr>
+    <tr><td><span class="match-key">C</span> Kanha</td><td><span class="match-key">3</span> Kerala</td></tr>
+    <tr><td><span class="match-key">D</span> Periyar</td><td><span class="match-key">4</span> Jammu & Kashmir</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 2 1 3</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 2 4 3 1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 4 2 3 1</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 1 2 4 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which pairs is/are NOT correctly matched? 1. Nokrek — Manipur 2. Manas — Assam 3. Agasthyamalai — Kerala</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match: A. Simlipal B. Nokrek C. Agasthyamalai D. Manas | 1. Kerala 2. Odisha 3. Assam 4. Meghalaya</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 2 4 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 1 4 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 4 1 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Simlipal=Odisha(2); Nokrek=Meghalaya(4); Agasthyamalai=Kerala(1); Manas=Assam(3).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chandauli</div><div class="pyq-opt"><span class="opt-letter">B</span> Mirzapur</div><div class="pyq-opt"><span class="opt-letter">C</span> Sonbhadra</div><div class="pyq-opt"><span class="opt-letter">D</span> Varanasi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In National Parks, genetic diversity is maintained through—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> In-situ conservation</div><div class="pyq-opt"><span class="opt-letter">B</span> Ex-situ conservation</div><div class="pyq-opt"><span class="opt-letter">C</span> Gene pool</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Dudhwa National Park is situated in which district of Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Lakhimpur Kheri</div><div class="pyq-opt"><span class="opt-letter">B</span> Pilibhit</div><div class="pyq-opt"><span class="opt-letter">C</span> Bahraich</div><div class="pyq-opt"><span class="opt-letter">D</span> Bijnor</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Keibul Lamjao National Park is located in which lake?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Loktak</div><div class="pyq-opt"><span class="opt-letter">B</span> Wular</div><div class="pyq-opt"><span class="opt-letter">C</span> Dal</div><div class="pyq-opt"><span class="opt-letter">D</span> Chilika</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">When was Project Tiger launched in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1972</div><div class="pyq-opt"><span class="opt-letter">B</span> 1973</div><div class="pyq-opt"><span class="opt-letter">C</span> 1992</div><div class="pyq-opt"><span class="opt-letter">D</span> 2006</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT an example of in-situ conservation strategy?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Biosphere reserve</div><div class="pyq-opt"><span class="opt-letter">B</span> Botanical garden</div><div class="pyq-opt"><span class="opt-letter">C</span> National Park</div><div class="pyq-opt"><span class="opt-letter">D</span> Sacred groves</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Botanical garden is **ex-situ**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which pair is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bandipur NP — Karnataka</div><div class="pyq-opt"><span class="opt-letter">B</span> Manas WLS — Assam</div><div class="pyq-opt"><span class="opt-letter">C</span> Periyar WLS — Kerala</div><div class="pyq-opt"><span class="opt-letter">D</span> Simlipal NP — Madhya Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Simlipal is in **Odisha**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to the Wildlife (Protection) Act, 1972, which of the following statements is/are correct?<br><br>1. It is India’s main protected-area statute.<br>2. Terrestrial WPA strictness runs Community Reserve > Wildlife Sanctuary > National Park.<br>3. A Community Reserve is stricter than a National Park under WPA.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Statement 1 is true (WPA 1972). Statement 2 reverses the strictness order (NP > WLS > Conservation/Community Reserve). Statement 3 is false — Community Reserve is the least strict of the three.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Category | WPA section teaching |<br>|----------|----------------------|<br>| 1. Wildlife Sanctuary | Section 18 |<br>| 2. National Park | Section 35 |<br>| 3. Tiger Reserve | Section 38V (2006 path) |<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three pairs are correct.
+
+**Logic:** Sanctuary Sec. 18; NP Sec. 35; Tiger Reserve Sec. 38V.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Biosphere Reserve — Wildlife (Protection) Act statutory category like National Park<br>2. Biosphere Reserve — UNESCO MAB three-zone model (core → buffer → transition)<br>3. India’s first Biosphere Reserve — Nilgiri (1986)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only pair 1 is not correctly matched.
+
+**Logic:** BR is MAB/UNESCO model — not a WPA category. Pairs 2–3 are correct.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): A National Park is the strictest terrestrial WPA protected area.<br><br>Reason (R): Grazing and forestry are largely banned in National Parks, and boundary change needs the State Legislature.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R explains the strictness of National Parks.
+
+**A/R logic:** R states the hard restrictions that make NP the strictest WPA category.</div>
+  </div>
+</div>

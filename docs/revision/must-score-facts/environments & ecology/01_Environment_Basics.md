@@ -72,22 +72,6 @@ hide:
 49. **Humus** is organic matter in soil. It comes from decomposed plant and animal material, so it is **not** an abiotic component.
 50. **Dissolved Oxygen (DO)** is a key aquatic abiotic indicator. Fish die in polluted rivers when DO falls too low.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Environmental Legislation & Governance in India
-
-```
-1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
-1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
-1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
-1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
-1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
-1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
-2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
-2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
-2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
-```
-
 ## 📊 Quick Reference Grid
 
 ### Core tags
@@ -126,344 +110,231 @@ hide:
 ---
 
 ![Earth's Four Interconnected Spheres & Biosphere Envelope](images/env_ch01_01_earth_four_spheres_atmosphere_biosphere.png)
-
-### Table: Key Ramsar Wetlands of India (Selected High-Yield & State-Wise)
-
-| Ramsar Site | State / UT | Area / Special Significance | Exam Trap & Distinction |
-| :--- | :--- | :--- | :--- |
-| **Chilika Lake** | Odisha | First Ramsar Site in India (1981); Largest coastal lagoon | Joined with Keoladeo Ghana in 1981; removed from Montreux Record post-restoration |
-| **Keoladeo Ghana National Park** | Rajasthan | Wetland & NP; placed on Montreux Record | On Montreux Record due to water shortage & grazing pressure |
-| **Loktak Lake** | Manipur | Freshwater lake with phumdis (floating mats); Keibul Lamjao NP | Only floating national park; home to Sangai (Dancing Deer); on Montreux Record |
-| **Vembanad-Kol Wetland** | Kerala | Largest wetland in India by surface area | Spans Alappuzha, Kottayam, Ernakulam; Nehru Trophy Boat Race held here |
-| **Sundarban Wetland** | West Bengal | Largest Ramsar site by protected area | Mangrove ecosystem; Royal Bengal Tiger; shared with Bangladesh |
-| **Renuka Wetland** | Himachal Pradesh | Smallest Ramsar site in India (~20 ha) | Natural wetland with freshwater springs; sacred lake |
-| **Upper Ganga River** | Uttar Pradesh | First Ramsar site of UP (2005; Brijghat to Narora) | Stretch of 82 km; habitat of Gangetic Dolphin, gharial, turtles |
-| **Bakhira Wildlife Sanctuary** | Uttar Pradesh | 10th Ramsar site of UP (Sant Kabir Nagar, 2022) | Natural freshwater marsh; migratory waterbirds |
-| **Haiderpur Wetland** | Uttar Pradesh | Muzaffarnagar & Bijnor (2021) | Human-made wetland in Hastinapur WLS within Ganga floodplain |
-| **Rudrasagar Lake** | Tripura | Lowland sedimentation reservoir | Located in Northeast (Tripura) — common trap confusing it with UP or MP |
-| **Bhoj Wetland** | Madhya Pradesh | Twin lakes: Upper Lake (Bada Talab) and Lower Lake | Created by Raja Bhoj; human-made wetland |
-| **Asan Barrage** | Uttarakhand | First Ramsar site of Uttarakhand (2020) | Located at confluence of Asan and Yamuna in Dehradun |
-| **Lonar Lake** | Maharashtra | Meteor impact crater lake; hyper-saline | Turned pink due to haloarchaea microbes in 2020 |
-| **Tso Kar Wetland Complex** | Ladakh | High-altitude saline lake (Startsapuk Tso + Tso Kar) | Breeding ground for Black-necked Crane |
-
-### Table: Global Environmental Reports & Flagship Publications
-
-| Publication / Report | Publishing Agency | Frequency / Milestone | Core Prelims Focus Area |
-| :--- | :--- | :--- | :--- |
-| **Assessment Reports (AR1 to AR6)** | **IPCC** (Intergovernmental Panel on Climate Change) | Every 6–7 years (AR6 Synthesis: 2023) | Scientific consensus on climate change, carbon budgets, 1.5°C pathways |
-| **Emissions Gap Report** | **UNEP** (United Nations Environment Programme) | Annual | Gap between national NDC pledges and 1.5°C / 2°C temperature trajectories |
-| **Adaptation Gap Report** | **UNEP** | Annual | Assessment of global adaptation financing, planning, and implementation deficit |
-| **Global Environment Outlook (GEO)** | **UNEP** | Periodic flagship | Comprehensive state of the global environment, policy responses |
-| **Living Planet Report** | **WWF** (World Wide Fund for Nature) | Biennial | Living Planet Index tracking vertebrate population declines (~69% decline) |
-| **IUCN Red List of Threatened Species** | **IUCN** (Gland, Switzerland) | Continuous / Annual update | 9 categories: EX, EW, CR, EN, VU, NT, LC, DD, NE |
-| **Global Biodiversity Outlook (GBO)** | **CBD Secretariat** | Periodic (GBO-5 in 2020) | Progress against Aichi Biodiversity Targets / Kunming-Montreal GBF |
-| **State of the World's Forests (SOFO)** | **FAO** (Food and Agriculture Organization) | Biennial | Global forest cover, deforestation rates, agroforestry and livelihoods |
-| **World Air Quality Report** | **IQAir** | Annual | Global PM2.5 city rankings and WHO guidelines compliance |
-| **SDG India Index & Dashboard** | **NITI Aayog** | Annual | Performance of Indian States/UTs across 16 SDGs (Kerala consistently #1) |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environment** | **Ecology** | Total biotic and abiotic surroundings influencing an organism vs the scientific *study* of interactions between organisms and environment | पर्यावरण / पारिस्थितिकी |
-| **Ecology** | **Ecosystem** | Scientific discipline/field of study (Ernst Haeckel 1866) vs functional, structural ecological *unit* of nature (A.G. Tansley 1935) | पारिस्थितिकी / पारिस्थितिकी तंत्र |
-| **Habitat** | **Ecological Niche** | Physical address / geographical place where an organism lives vs functional profession / ecological role of a species in an ecosystem | वास स्थान / पारिस्थितिक निकेत (Niche) |
-| **Biotic Components** | **Abiotic Components** | Living organisms (producers, consumers, decomposers) vs non-living physical and chemical factors (light, temperature, soil, water) | जैविक घटक / अजैविक घटक |
-| **Lentic Ecosystem** | **Lotic Ecosystem** | Standing or stagnant fresh water bodies (ponds, lakes, bogs, swamps) vs running or flowing fresh water bodies (rivers, streams, brooks) | स्थिर जल (लैंटिक) / प्रवाही जल (लोटिक) |
-| **Liebig's Law of the Minimum** | **Shelford's Law of Tolerance** | Population growth is controlled by the scarcest limiting resource vs species survival requires environmental factors to remain between minimum and maximum tolerance limits | लाइबिग का न्यूनतम नियम / शेलफोर्ड का सहनशीलता नियम |
-| **Internal Environment** | **External Environment** | Biochemical and physiological conditions within an organism (homeostasis) vs physical surroundings external to the organism | आंतरिक पर्यावरण / बाह्य पर्यावरण |
-| **Physical Environment** | **Biological Environment** | Inanimate non-living components (lithosphere, hydrosphere, atmosphere) vs living communities of flora, fauna, and microbes | भौतिक पर्यावरण / जैविक पर्यावरण |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to 'Carrying Capacity of Environment', which of the following statements is/are correct?
-
-1. The rate of resource extraction should remain above the rate of resource generation.
-2. Generation of waste should remain within the absorption capacity of environment.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Only 2. Extraction must stay **below** regeneration.
-
-</details>
-
-**Q2.**
-
-Assertion (A): Sustainable development should take place without harming the environment and without compromising the needs of future generations.
-
-Reason (R): Agenda 21 was signed by world leaders in 1995.
-
-A. Both true; R not explanation
-
-B. A false, R true
-
-C. A true, R false
-
-D. Both true; R explains A
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Agenda 21 = Rio **1992**.
-
-</details>
-
-**Q3.**
-
-Which pairs is/are NOT correctly matched? (Day)—(Date): 1. Ozone Day—16 Sept 2. WED—5 June 3. Wildlife Day—22 March
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Wildlife Day = **3 March**.
-
-</details>
-
-**Q4.**
-
-With reference to Lifestyle for Environment (LiFE), which statements is/are correct?
-
-1. Launched June 2022. 2. Idea proposed at COP-25 Madrid.
-
-A. Only 2
-
-B. Neither
-
-C. Both
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Idea at COP26 Glasgow 2021.
-
-</details>
-
-**Q5.**
-
-Assertion (A): SD was popularised by Brundtland Report. Reason (R): Brundtland Report is also known as "The Limits to Growth."
-
-A. Both true; R not explanation
-
-B. A false, R true
-
-C. Both true; R explains A
-
-D. A true, R false
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — *Limits to Growth* = Club of Rome.
-
-</details>
-
-**Q6.**
-
-Plants and animals that live on land are called:
-
-A. Abiotic
-
-B. Aquatic habitants
-
-C. Terrestrial habitants
-
-D. Biotic
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q7.**
-
-Which provision is part of both DPSP and Fundamental Duties?
-
-A. Guardians—education to children
-
-B. Protection of environment
-
-C. Workers in management
-
-D. UCC
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Art 48A + Art 51A(g).
-
-</details>
-
-**Q8.**
-
-Which is an example of a Lotic Ecosystem?
-
-A. Swamps
-
-B. Ponds
-
-C. Rivers
-
-D. Marshy areas
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q9.**
-
-Balancing resource use while conserving for future generations is called:
-
-A. Resource Conservation
-
-B. Sustainable Development
-
-C. Future Resources
-
-D. Reducing Consumption
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.**
-
-Assertion (A): Population control necessary for environment. Reason (R): Rapid population increase maintains environmental balance.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Rapid growth **disrupts** balance.
-
-</details>
-
-**Q11.**
-
-Agenda-21 of Rio Summit (1992) is related to:
-
-A. Sustainable Development
-
-B. Polluter Pays
-
-C. Environmental Education
-
-D. Ozone preservation
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.**
-
-When was the Environment (Protection) Act passed?
-
-A. 1971
-
-B. 1974
-
-C. 1981
-
-D. 1986
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q13.**
-
-Which is NOT a Fundamental Duty?
-
-A. Protect monuments
-
-B. Protect & improve natural environment
-
-C. Safeguard public property
-
-D. Respect National Anthem
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Monument protection is not a listed FD.
-
-</details>
-
-**Q14.**
-
-In which year was the Environment (Protection) Act passed?
-
-A. 1982
-
-B. 1986
-
-C. 1990
-
-D. 1992
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q15.**
-
-World Ozone Day is celebrated on:
-
-A. 25 Dec
-
-B. 21 Apr
-
-C. 16 Sep
-
-D. 30 Jan
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to 'Carrying Capacity of Environment', which of the following statements is/are correct?<br><br>1. The rate of resource extraction should remain above the rate of resource generation.<br>2. Generation of waste should remain within the absorption capacity of environment.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2. Extraction must stay **below** regeneration.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Sustainable development should take place without harming the environment and without compromising the needs of future generations.<br><br>Reason (R): Agenda 21 was signed by world leaders in 1995.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true; R not explanation</div><div class="pyq-opt"><span class="opt-letter">B</span> A false, R true</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both true; R explains A</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Agenda 21 = Rio **1992**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which pairs is/are NOT correctly matched? (Day)—(Date): 1. Ozone Day—16 Sept 2. WED—5 June 3. Wildlife Day—22 March</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Wildlife Day = **3 March**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to Lifestyle for Environment (LiFE), which statements is/are correct?<br><br>1. Launched June 2022. 2. Idea proposed at COP-25 Madrid.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither</div><div class="pyq-opt"><span class="opt-letter">C</span> Both</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Idea at COP26 Glasgow 2021.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): SD was popularised by Brundtland Report. Reason (R): Brundtland Report is also known as "The Limits to Growth."</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true; R not explanation</div><div class="pyq-opt"><span class="opt-letter">B</span> A false, R true</div><div class="pyq-opt"><span class="opt-letter">C</span> Both true; R explains A</div><div class="pyq-opt"><span class="opt-letter">D</span> A true, R false</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Limits to Growth* = Club of Rome.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Plants and animals that live on land are called:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Abiotic</div><div class="pyq-opt"><span class="opt-letter">B</span> Aquatic habitants</div><div class="pyq-opt"><span class="opt-letter">C</span> Terrestrial habitants</div><div class="pyq-opt"><span class="opt-letter">D</span> Biotic</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which provision is part of both DPSP and Fundamental Duties?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Guardians—education to children</div><div class="pyq-opt"><span class="opt-letter">B</span> Protection of environment</div><div class="pyq-opt"><span class="opt-letter">C</span> Workers in management</div><div class="pyq-opt"><span class="opt-letter">D</span> UCC</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Art 48A + Art 51A(g).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which is an example of a Lotic Ecosystem?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Swamps</div><div class="pyq-opt"><span class="opt-letter">B</span> Ponds</div><div class="pyq-opt"><span class="opt-letter">C</span> Rivers</div><div class="pyq-opt"><span class="opt-letter">D</span> Marshy areas</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Balancing resource use while conserving for future generations is called:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Resource Conservation</div><div class="pyq-opt"><span class="opt-letter">B</span> Sustainable Development</div><div class="pyq-opt"><span class="opt-letter">C</span> Future Resources</div><div class="pyq-opt"><span class="opt-letter">D</span> Reducing Consumption</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Population control necessary for environment. Reason (R): Rapid population increase maintains environmental balance.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true; R explains A</div><div class="pyq-opt"><span class="opt-letter">B</span> Both true; R not explanation</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> A false, R true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rapid growth **disrupts** balance.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Agenda-21 of Rio Summit (1992) is related to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sustainable Development</div><div class="pyq-opt"><span class="opt-letter">B</span> Polluter Pays</div><div class="pyq-opt"><span class="opt-letter">C</span> Environmental Education</div><div class="pyq-opt"><span class="opt-letter">D</span> Ozone preservation</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">When was the Environment (Protection) Act passed?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1971</div><div class="pyq-opt"><span class="opt-letter">B</span> 1974</div><div class="pyq-opt"><span class="opt-letter">C</span> 1981</div><div class="pyq-opt"><span class="opt-letter">D</span> 1986</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which is NOT a Fundamental Duty?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Protect monuments</div><div class="pyq-opt"><span class="opt-letter">B</span> Protect & improve natural environment</div><div class="pyq-opt"><span class="opt-letter">C</span> Safeguard public property</div><div class="pyq-opt"><span class="opt-letter">D</span> Respect National Anthem</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Monument protection is not a listed FD.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">In which year was the Environment (Protection) Act passed?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1982</div><div class="pyq-opt"><span class="opt-letter">B</span> 1986</div><div class="pyq-opt"><span class="opt-letter">C</span> 1990</div><div class="pyq-opt"><span class="opt-letter">D</span> 1992</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">World Ozone Day is celebrated on:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 25 Dec</div><div class="pyq-opt"><span class="opt-letter">B</span> 21 Apr</div><div class="pyq-opt"><span class="opt-letter">C</span> 16 Sep</div><div class="pyq-opt"><span class="opt-letter">D</span> 30 Jan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>

@@ -59,9 +59,20 @@ hide:
 ---
 36. **Tropic of Cancer (23°30′ N) States**: Cuts through **8 States only** from West to East: **Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram**; does NOT cross UP, Bihar, or Odisha; Mahi River crosses it twice.
 37. **Standard Meridian (82°30′ E) States**: Passes near **Mirzapur (UP)** and traverses **5 States**: **Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, and Andhra Pradesh**; intersects Tropic of Cancer in **Koriya / Surajpur district, Chhattisgarh**; IST is GMT + 5 hours 30 minutes.
-38. **Himalayan Belts North to South**: **Trans-Himalaya (Karakoram, Ladakh, Zaskar)** $ightarrow$ **Himadri (Greater, fossil-less crystalline)** $ightarrow$ **Himachal (Lesser, marine fossils)** $ightarrow$ **Shiwalik (Outer, unconsolidated sediments)**.
-39. **Panch Prayags of Alaknanda**: **Vishnuprayag** (Alaknanda + Dhauliganga) $ightarrow$ **Nandaprayag** (+ Nandakini) $ightarrow$ **Karnaprayag** (+ Pindar) $ightarrow$ **Rudraprayag** (+ Mandakini) $ightarrow$ **Devprayag** (+ Bhagirathi $ightarrow$ forms Ganga).
-40. **Western Ghats Passes North to South**: **Thalghat** (Mumbai–Nashik) $ightarrow$ **Bhorghat** (Mumbai–Pune) $ightarrow$ **Palghat** (Palakkad Gap, Nilgiri–Anamalai, KL–TN) $ightarrow$ **Shenkottai** (Kollam–Madurai).
+38. **Himalayan Belts North to South**: **Trans-Himalaya (Karakoram, Ladakh, Zaskar)** $
+ightarrow$ **Himadri (Greater, fossil-less crystalline)** $
+ightarrow$ **Himachal (Lesser, marine fossils)** $
+ightarrow$ **Shiwalik (Outer, unconsolidated sediments)**.
+39. **Panch Prayags of Alaknanda**: **Vishnuprayag** (Alaknanda + Dhauliganga) $
+ightarrow$ **Nandaprayag** (+ Nandakini) $
+ightarrow$ **Karnaprayag** (+ Pindar) $
+ightarrow$ **Rudraprayag** (+ Mandakini) $
+ightarrow$ **Devprayag** (+ Bhagirathi $
+ightarrow$ forms Ganga).
+40. **Western Ghats Passes North to South**: **Thalghat** (Mumbai–Nashik) $
+ightarrow$ **Bhorghat** (Mumbai–Pune) $
+ightarrow$ **Palghat** (Palakkad Gap, Nilgiri–Anamalai, KL–TN) $
+ightarrow$ **Shenkottai** (Kollam–Madurai).
 41. **Highest Peak of Peninsular India**: **Anaimudi (2,695 m)** in the Anamalai Hills of Kerala; Doddabetta (2,637 m) in the Nilgiri Hills of Tamil Nadu is the second-highest peak.
 42. **Oldest vs Youngest Relief**: **Aravalli Range** is India's oldest relict fold mountain system (Pre-Cambrian); **Shiwalik Range** is the youngest mountain belt; Indo-Gangetic Alluvial Plain is the youngest physiographic division.
 43. **Agricultural Production Triple-Crown**: **Uttar Pradesh** ranks #1 in Total Foodgrains, Wheat, Sugarcane, and Potato; **West Bengal** ranks #1 in Rice; **Madhya Pradesh** ranks #1 in Total Pulses; **Rajasthan** ranks #1 in Total Oilseeds.
@@ -115,14 +126,19 @@ hide:
 
 | Category | Item 1 (#1 / Premier) | Item 2 (#2) | Item 3 (#3) | High-Yield Prelims Exam Rule |
 |---|---|---|---|---|
-| **Panch Prayags (N $ightarrow$ S)** | **Vishnuprayag** (Alaknanda + Dhauliganga) | **Nandaprayag** (+ Nandakini) | **Karnaprayag** (+ Pindar) | Rudraprayag (+ Mandakini) & **Devprayag** (+ Bhagirathi $ightarrow$ Ganga) complete the sacred five |
-| **Western Ghats Passes (N $ightarrow$ S)** | **Thalghat** (Mumbai–Nashik) | **Bhorghat** (Mumbai–Pune) | **Palghat** (Palakkad Gap, KL–TN) | **Shenkottai Pass** (Kollam–Madurai) is the southernmost pass |
-| **Himalayan Ranges (N $ightarrow$ S)** | **Karakoram** (Trans-Himalaya) | **Ladakh Range** | **Zaskar Range** | Followed by **Pir Panjal** and **Dhauladhar** (KLZPD) |
+| **Panch Prayags (N $
+ightarrow$ S)** | **Vishnuprayag** (Alaknanda + Dhauliganga) | **Nandaprayag** (+ Nandakini) | **Karnaprayag** (+ Pindar) | Rudraprayag (+ Mandakini) & **Devprayag** (+ Bhagirathi $
+ightarrow$ Ganga) complete the sacred five |
+| **Western Ghats Passes (N $
+ightarrow$ S)** | **Thalghat** (Mumbai–Nashik) | **Bhorghat** (Mumbai–Pune) | **Palghat** (Palakkad Gap, KL–TN) | **Shenkottai Pass** (Kollam–Madurai) is the southernmost pass |
+| **Himalayan Ranges (N $
+ightarrow$ S)** | **Karakoram** (Trans-Himalaya) | **Ladakh Range** | **Zaskar Range** | Followed by **Pir Panjal** and **Dhauladhar** (KLZPD) |
 | **All-India Foodgrain Leaders** | **Uttar Pradesh** (~19% foodgrains) | Madhya Pradesh | Punjab | UP leads Wheat, Sugarcane, Potato, Milk; WB leads Rice |
 | **All-India Mineral Leaders** | **Odisha** (Iron, Bauxite, Chromite) | **Rajasthan** (Lead-Zinc, Silver, Gypsum) | **Madhya Pradesh** (Copper, Manganese, Diamond) | MP leads Copper production; Rajasthan leads Copper reserves |
 | **Census Density Leaders** | **Bihar (1,106/km²)** | **West Bengal (1,028/km²)** | **Kerala (860/km²)** | **Uttar Pradesh (829/km²)** is #4; Arunachal (17/km²) is lowest |
 | **Census Sex Ratio Leaders** | **Kerala (1,084)** | **Tamil Nadu (996)** | **Andhra Pradesh (993)** | **Haryana (879)** is lowest among states; UP is **912** |
-| **Great Lakes (W $ightarrow$ E)** | **Lake Superior** (Largest area) | **Lake Michigan** (Entirely in USA) | **Lake Huron** | Lake Erie and Lake Ontario follow eastward; Niagara on Erie-Ontario |
+| **Great Lakes (W $
+ightarrow$ E)** | **Lake Superior** (Largest area) | **Lake Michigan** (Entirely in USA) | **Lake Huron** | Lake Erie and Lake Ontario follow eastward; Niagara on Erie-Ontario |
 | **World Deepest Trenches** | **Mariana Trench** (Pacific, 11,034 m) | **Puerto Rico Trench** (Atlantic, 8,376 m) | **Java Trench** (Indian Ocean, 7,450 m) | Molloy Deep (Arctic, 5,550 m); South Sandwich (Southern Ocean, 8,264 m) |
 | **Cold Ocean Currents** | **Benguela** (SW Africa / Namib desert) | **Humboldt / Peru** (W South America / Atacama) | **Canary** (NW Africa / Sahara) | Cold currents create coastal desiccating fog and rainless deserts |
 
@@ -139,26 +155,11 @@ hide:
 | **Shortest Land Boundary** | **Afghanistan (106 km)** | Ladakh (PoK) | Durand Line |
 | **Longest Coastline State** | **Gujarat (~1,215 km)** | West Coast | Followed by Andhra Pradesh (~974 km) and Tamil Nadu (~907 km) |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Indira Col** | **Indira Point** | Northernmost point of India (**Karakoram, Ladakh**) vs Southernmost territory of India (**Great Nicobar Island, 6°45′ N**) | इंदिरा कोल (उत्तर) / इंदिरा पॉइंट (दक्षिण) |
-| **Tropic of Cancer** | **Standard Meridian (82°30′ E)** | Traverses **8 States** (GJ, RJ, MP, CG, JH, WB, TR, MZ) vs Traverses **5 States** (UP, MP, CG, OD, AP); intersect in **Koriya / Surajpur, Chhattisgarh** | कर्क रेखा (8 राज्य) / मानक मध्याह्न (5 राज्य) |
-| **Himadri** | **Shiwalik** | Youngest, highest, **fossil-less crystalline granite core** vs Outermost, lowest, **unconsolidated river sediment deposits with fossils** | हिमाद्रि / शिवालिक |
-| **Bhabar** | **Terai** | Porous pebble-boulder belt where **rivers disappear underground** vs Marshy, swampy lowland belt where **rivers re-emerge** | भाबर / तराई |
-| **Bhangar** | **Khadar** | Older alluvial terrace with **calcareous kankar nodules** vs Newer fertile floodplain silt **renewed by annual floods** | भांगर / खादर |
-| **Devprayag** | **Rudraprayag** | Alaknanda meets **Bhagirathi** to form the Ganga vs Alaknanda meets **Mandakini** (from Kedarnath) | देवप्रयाग / रुद्रप्रयाग |
-| **Western Ghats** | **Eastern Ghats** | Continuous high escarpment wall broken only by structural passes vs Discontinuous, eroded, low relict hills heavily dissected by rivers | पश्चिमी घाट (सतत) / पूर्वी घाट (असतत) |
-| **Anaimudi** | **Doddabetta** | **Highest peak in South India** (2,695 m, Anamalai Hills, Kerala) vs **Second-highest peak** (2,637 m, Nilgiri Hills, Tamil Nadu) | अनाईमुडी / दोड्डाबेट्टा |
-| **Wular Lake** | **Chilika Lake** | Largest **freshwater lake** in India (J&K) vs Largest **brackish water coastal lagoon** in India (Odisha) | वुलर (मीठा जल) / चिल्का (लैगून) |
-| **Copper: MP vs Rajasthan** | **Coal: Odisha vs Jharkhand** | MP leads **Production**; Rajasthan leads **Reserves** vs Odisha leads **Production**; Jharkhand leads **Reserves** | तांबा (मप्र/राज) / कोयला (ओडिशा/झार) |
-| **Congo River** | **Limpopo River** | Crosses the **Equator twice** vs Crosses the **Tropic of Capricorn twice** (Mahi crosses Tropic of Cancer twice) | कांगो (भूमध्य रेखा 2x) / लिम्पोपो (मकर रेखा 2x) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Sacred Panch Prayags: **V-N-K-R-D**
-- **V**ishnuprayag (Dhauliganga) → **N**andaprayag (Nandakini) → **K**arnaprayag (Pindar) → **R**udraprayag (Mandakini) → **D**evprayag (Bhagirathi $ightarrow$ **Ganga**)
+- **V**ishnuprayag (Dhauliganga) → **N**andaprayag (Nandakini) → **K**arnaprayag (Pindar) → **R**udraprayag (Mandakini) → **D**evprayag (Bhagirathi $
+ightarrow$ **Ganga**)
 
 ### 2. Western Ghats Passes: **T-B-P-S**
 - **T**halghat (Mumbai–Nashik) → **B**horghat (Mumbai–Pune) → **P**alghat (Palakkad Gap, KL–TN) → **S**henkottai (Kollam–Madurai)
@@ -175,291 +176,292 @@ hide:
 ### 6. The Lithium Triangle: **ABC**
 - **A**rgentina, **B**olivia, **C**hile
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.** in Geography, consider the following statement:
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Which of the following is correct regarding this topic?
-
-A. Thalghat (Kasara Ghat): Connects Mumbai to Nashik / Nagpur / North India (National Highway 160 & railway line).
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Thalghat (Kasara Ghat): Connects Mumbai to Nashik / Nagpur / North India (National Highway 160 & railway line).</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Thalghat (Kasara Ghat)**: Connects **Mumbai to Nashik / Nagpur / North India** (National Highway 160 & railway line).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q2.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Bhorghat: applies only to union territories and not state jurisdictions.
-B. Bhorghat: Connects Mumbai to Pune / Bengaluru / South India (Mumbai-Pune Expressway).
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Bhorghat: applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Bhorghat: Connects Mumbai to Pune / Bengaluru / South India (Mumbai-Pune Expressway).</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Recognized by UNESCO under World Heritage natural criteria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Bhorghat**: Connects **Mumbai to Pune / Bengaluru / South India** (Mumbai-Pune Expressway).
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q3.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Palghat applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Palghat (Palakkad Gap): Located between Nilgiri Hills (North) and Anaimalai Hills (South); connects Coimbatore (Tamil Nadu) to Palakkad / Kochi (Kerala).
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Palghat applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> Palghat (Palakkad Gap): Located between Nilgiri Hills (North) and Anaimalai Hills (South); connects Coimbatore (Tamil Nadu) to Palakkad / Kochi (Kerala).</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Palghat (Palakkad Gap)**: Located between **Nilgiri Hills (North) and Anaimalai Hills (South)**; connects **Coimbatore (Tamil Nadu) to Palakkad / Kochi (Kerala)**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q4.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Shenkottai applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Shenkottai Pass: Located between Cardamom Hills and Agasthyamalai Hills; connects Kollam (Kerala) to Madurai / Tenkasi (Tamil Nadu).
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Shenkottai applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Enacted under Article 356 of the Constitution of India</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Shenkottai Pass: Located between Cardamom Hills and Agasthyamalai Hills; connects Kollam (Kerala) to Madurai / Tenkasi (Tamil Nadu).</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Shenkottai Pass**: Located between **Cardamom Hills and Agasthyamalai Hills**; connects **Kollam (Kerala) to Madurai / Tenkasi (Tamil Nadu)**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q5.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Vishnuprayag: Alaknanda + Dhauliganga (Chamoli)
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vishnuprayag: Alaknanda + Dhauliganga (Chamoli)</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Vishnuprayag**: **Alaknanda** + **Dhauliganga** (Chamoli)
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q6.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Reported by the Law Commission in its 214th consultation paper
-B. Nandaprayag: Alaknanda + Nandakini (Chamoli)
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">B</span> Nandaprayag: Alaknanda + Nandakini (Chamoli)</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Excavated primarily in the Belan and Son River valleys</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Nandaprayag**: **Alaknanda** + **Nandakini** (Chamoli)
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q7.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Amended by the 44th Constitutional Amendment Act
-B. Excavated primarily in the Belan and Son River valleys
-C. Karnaprayag: Alaknanda + Pindar (Chamoli)
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Amended by the 44th Constitutional Amendment Act</div><div class="pyq-opt"><span class="opt-letter">B</span> Excavated primarily in the Belan and Son River valleys</div><div class="pyq-opt"><span class="opt-letter">C</span> Karnaprayag: Alaknanda + Pindar (Chamoli)</div><div class="pyq-opt"><span class="opt-letter">D</span> Classified under Schedule VII List II (State List)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Karnaprayag**: **Alaknanda** + **Pindar** (Chamoli)
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q8.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Excavated primarily in the Belan and Son River valleys
-B. Classified under Schedule VII List II (State List)
-C. None of the above statements are correct according to official Commission keys.
-D. Rudraprayag: Alaknanda + Mandakini (Rudraprayag)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Excavated primarily in the Belan and Son River valleys</div><div class="pyq-opt"><span class="opt-letter">B</span> Classified under Schedule VII List II (State List)</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Rudraprayag: Alaknanda + Mandakini (Rudraprayag)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Rudraprayag**: **Alaknanda** + **Mandakini** (Rudraprayag)
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q9.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Devprayag: Alaknanda + Bhagirathi → Official GANGA begins here! (Tehri Garhwal)
-B. Originated during the Later Vedic transitional period
-C. None of the above statements are correct according to official Commission keys.
-D. Statement I is correct but Statement II is incorrect
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Devprayag: Alaknanda + Bhagirathi → Official GANGA begins here! (Tehri Garhwal)</div><div class="pyq-opt"><span class="opt-letter">B</span> Originated during the Later Vedic transitional period</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Statement I is correct but Statement II is incorrect</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Devprayag**: **Alaknanda** + **Bhagirathi** → Official **GANGA** begins here! (Tehri Garhwal)
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q10.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Left applies only to union territories and not state jurisdictions.
-B. Left Bank Tributaries (West to East):
-C. None of the above statements are correct according to official Commission keys.
-D. Both statements are true and explain the phenomenon
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Left applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Left Bank Tributaries (West to East):</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Both statements are true and explain the phenomenon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Left Bank Tributaries (West to East)**:
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q11.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Ramganga applies only to union territories and not state jurisdictions.
-B. Both statements are true and explain the phenomenon
-C. Ramganga (originates in Dudhatoli range, Pauri Garhwal; flows through Jim Corbett NP; meets Ganga at Kannauj)
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Ramganga applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> Ramganga (originates in Dudhatoli range, Pauri Garhwal; flows through Jim Corbett NP; meets Ganga at Kannauj)</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Ramganga** (originates in Dudhatoli range, Pauri Garhwal; flows through Jim Corbett NP; meets Ganga at Kannauj)
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q12.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Gomati applies only to union territories and not state jurisdictions.
-B. It was established during the First Five-Year Plan period
-C. None of the above statements are correct according to official Commission keys.
-D. Gomati (originates in plains at Gomat Taal / Fulhar Lake, Pilibhit, UP — only Himalayan/Ganga tributary originating in the plains!; Lucknow & Jaunpur on its banks; joins Ganga near Saidpur, Ghazipur)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Gomati applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> It was established during the First Five-Year Plan period</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Gomati (originates in plains at Gomat Taal / Fulhar Lake, Pilibhit, UP — only Himalayan/Ganga tributary originating in the plains!; Lucknow & Jaunpur on its banks; joins Ganga near Saidpur, Ghazipur)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Gomati** (originates in plains at **Gomat Taal / Fulhar Lake, Pilibhit, UP** — *only Himalayan/Ganga tributary originating in the plains!*; Lucknow & Jaunpur on its banks; joins Ganga near Saidpur, Ghazipur)
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q13.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Ghaghra / Karnali (originates from Mapchachungo glacier near Mansarovar; joined by Sarda/Kali; largest tributary by water volume; joins Ganga at Chhapra, Bihar)
-B. Recognized by UNESCO under World Heritage natural criteria
-C. None of the above statements are correct according to official Commission keys.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ghaghra / Karnali (originates from Mapchachungo glacier near Mansarovar; joined by Sarda/Kali; largest tributary by water volume; joins Ganga at Chhapra, Bihar)</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Ghaghra / Karnali** (originates from Mapchachungo glacier near Mansarovar; joined by Sarda/Kali; **largest tributary by water volume**; joins Ganga at Chhapra, Bihar)
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q14.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Gandak applies only to union territories and not state jurisdictions.
-B. Gandak (originates in Nepal Himalayas; joins Ganga at Sonpur / Hajipur, Bihar)
-C. None of the above statements are correct according to official Commission keys.
-D. Reported by the Law Commission in its 214th consultation paper
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Gandak applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Gandak (originates in Nepal Himalayas; joins Ganga at Sonpur / Hajipur, Bihar)</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Reported by the Law Commission in its 214th consultation paper</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Gandak** (originates in Nepal Himalayas; joins Ganga at Sonpur / Hajipur, Bihar)
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q15.** in Geography, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Kosi applies only to union territories and not state jurisdictions.
-B. Reported by the Law Commission in its 214th consultation paper
-C. Kosi (Sorrow of Bihar; 7 streams / Saptakoshi; notorious for course-shifting; joins at Kursela, Katihar)
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">in Geography, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Kosi applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> Kosi (Sorrow of Bihar; 7 streams / Saptakoshi; notorious for course-shifting; joins at Kursela, Katihar)</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Kosi** (*Sorrow of Bihar*; 7 streams / Saptakoshi; notorious for course-shifting; joins at Kursela, Katihar)
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>

@@ -156,21 +156,6 @@ hide:
 | **Mount St. Helens** | Cascade Range (Washington, **USA**) | Juan de Fuca subduction | Explosive stratovolcano | Historic 1980 lateral blast eruption and massive landslide |
 | **Barren Island** | Andaman Sea, **India** | Burma-Indian plate boundary | Active stratovolcano | **Only active volcano in India and South Asia** |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Andes Mountains** | **Himalayas** | World's **longest continental mountain range** (~7,000 km, South America) vs World's **highest mountain range** with highest peaks (Asia) | एंडीज (सबसे लंबी) / हिमालय (सबसे ऊंची) |
-| **Mt. Everest** | **Mt. Aconcagua** | Highest peak in the **World and Asia** (8,848.86 m) vs Highest peak in the **Western and Southern Hemispheres** (6,961 m, Argentina) | एवरेस्ट / एकॉनकागुआ |
-| **Mt. Denali (McKinley)** | **Mt. Elbert** | Highest peak in **North America** (6,190 m, Alaska Range) vs Highest peak in the **Rocky Mountains** (4,401 m, Colorado) | देनाली / एल्बर्ट |
-| **Mt. Kilimanjaro** | **Atlas Mountains** | Free-standing volcanic mountain in **Tanzania (East Africa)** vs Tertiary fold mountain range in **Morocco/Algeria (North-West Africa)** | किलिमंजारो / एटलस |
-| **Atacama Desert** | **Patagonian Desert** | Extremely dry subtropical coastal desert in **Chile/Peru** formed by Humboldt current vs Rain-shadow cold desert in **Argentina** east of Andes | अटाकामा / पेटागोनिया |
-| **Gobi Desert** | **Taklamakan Desert** | Large cold desert in **Mongolia and China** vs Cold desert enclosed in the **Tarim Basin of Xinjiang, China** | गोबी / तकलामकान |
-| **Namib Desert** | **Kalahari Desert** | Coastal cold-current desert in **Namibia** (Benguela current) vs Inland semi-arid desert basin in **Botswana and South Africa** | नामिब / कालाहारी |
-| **Mount Stromboli** | **Mount Vesuvius** | Continuously active "Lighthouse of the Mediterranean" (Aeolian Islands) vs Continental Italian volcano that buried Pompeii (Naples) | स्ट्रोम्बोली / विसुवियस |
-| **Mauna Loa** | **Mauna Kea** | **Largest active shield volcano by volume** (Hawaii) vs **Tallest mountain from ocean floor base to peak** (~10,210 m, Hawaii) | मौना लोआ / मौना केआ |
-| **Barren Island** | **Narcondam Island** | India's only **active volcano** (Andaman Sea) vs India's **dormant/extinct volcanic island** (Andaman Sea) | बैरन / नारकोंडम द्वीप |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Continents by Their Highest Peaks:
@@ -200,368 +185,357 @@ hide:
 - **"World's Highest Active Volcano"** = **Ojos del Salado** (6,893 m, Chile/Argentina)
 - **"India's Only Active Volcano"** = **Barren Island** (Andaman)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Which continent has the most countries?
-
-A. Asia
-B. Europe
-C. Africa
-D. South America
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Africa (~**54** countries).
-
-**Logic:** Asia is largest by area, not by country count.
-
-</details>
-
-**Q2.**
-With reference to fold mountains, which of the following is/are correct?
-
-1. Andes are the longest fold chain.
-2. Himalaya are the highest.
-3. Aconcagua stands in the Rockies of the USA.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Aconcagua = Andes of **Argentina**.
-
-</details>
-
-**Q3.**
-Kilimanjaro is correctly placed on the:
-
-A. Pacific Ring of Fire
-B. East African Rift
-C. Mid-Atlantic Ridge
-D. Andes volcanic belt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** East African Rift; not Ring of Fire.
-
-**Logic:** Fuji/Pinatubo/St Helens are Circum-Pacific distractors.
-
-</details>
-
-**Q4.**
-Assertion (A): Hot deserts favour west coasts near 15–30° latitudes.
-Reason (R): Cold ocean currents and subtropical highs promote aridity on those coasts.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both true and R explains A.
-
-**A/R logic:** East-coast desert claims reverse the standard pattern.
-
-</details>
-
-**Q5.**
-Pampas and Campos are correctly matched with:
-
-A. Brazil and Argentina respectively
-B. Argentina and Brazil respectively
-C. Both Argentina
-D. Venezuela and Chile
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Pampas = **Argentina**; Campos = **Brazil**.
-
-**Logic:** Llanos = Venezuela–Colombia.
-
-</details>
-
-**Q6.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Scrub) | List-II (Region) |
-|---|---|
-| 1. Maquis | A. Mediterranean |
-| 2. Fynbos | B. South Africa |
-| 3. Chaparral | C. California |
-| 4. Matorral | D. Chile |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-A, 2-C, 3-B, 4-D
-D. 1-A, 2-B, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Sclerophyll west-coast set.
-
-**Logic:** Row order is not the answer code.
-
-</details>
-
-**Q7.**
-Largest island in the usual ranked list is:
-
-A. New Guinea
-B. Borneo
-C. Greenland
-D. Madagascar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Greenland** is largest; Australia is a continent.
-
-**Logic:** New Guinea is second.
-
-</details>
-
-**Q8.**
-Gobi desert lies in:
-
-A. Mongolia and Kazakhstan
-B. Mongolia and China only
-C. Russia and China
-D. Turkmenistan only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Gobi = **Mongolia and China**; cold desert.
-
-**Logic:** Karakum = Turkmenistan; Kazakhstan is a planted fringe trap.
-
-</details>
-
-**Q9.**
-“Land of Big Games” points to:
-
-A. Hot desert
-B. Tropical savanna
-C. Tundra
-D. Taiga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Tropical **savanna**.
-
-**Logic:** Sahara safari wording is the distractor.
-
-</details>
-
-**Q10.**
-Mediterranean climate rain is mainly in:
-
-A. Summer
-B. Winter
-C. All months equally like Western Europe westerlies
-D. Only equatorial convection months
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Mediterranean = **winter rain**, dry summer.
-
-**Logic:** Do not confuse with all-month westerly Western Europe.
-
-</details>
-
-**Q11.**
-Consider the following statements:
-
-1. Tibet is the highest large plateau.
-2. Pamir is phrased as Roof of the world.
-3. Columbia Plateau holds the Grand Canyon.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Grand Canyon = **Colorado Plateau**; Columbia = lava plateau.
-
-</details>
-
-**Q12.**
-Which peak–continent pair is correct?
-
-A. Elbrus — Asia only (exclude Europe)
-B. Denali — South America
-C. Kosciuszko — Australia mainland
-D. Aconcagua — Africa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Kosciuszko = Australia mainland high peak teaching tag.
-
-**Logic:** Elbrus = Europe (Caucasus/Russia); Denali = North America; Aconcagua = South America.
-
-</details>
-
-**Q13.**
-Assertion (A): Sierra Nevada is a young fold mountain of the Rockies class.
-Reason (R): Block mountains rise by faulting rather than simple young folding.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A is false; R is true.
-
-**A/R logic:** Sierra Nevada = block mountain tag.
-
-</details>
-
-**Q14.**
-Taiga and tundra differ because:
-
-A. Both are treeless
-B. Taiga is conifer forest; tundra is treeless
-C. Tundra is equatorial rainforest
-D. Taiga is hot desert scrub
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Taiga = boreal conifers; tundra = treeless cold.
-
-**Logic:** Climate letters Aw/BS/ET help separate savanna/steppe/tundra.
-
-</details>
-
-**Q15.**
-Which desert is the driest in the usual set?
-
-A. Thar
-B. Sahara
-C. Atacama
-D. Gobi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Atacama** = driest; Thar = densest populated desert; Sahara = largest hot desert.
-
-**Logic:** Keep size / dryness / population tags separate.
-
-</details>
-
-**Q16.**
-Gibson and Sonoran deserts are in:
-
-A. Brazil and USA
-B. Australia and USA
-C. China and Australia
-D. USA and Turkmenistan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Gibson = **Australia**; Sonoran = **USA**.
-
-**Logic:** Gibson–Brazil is a planted trap.
-
-</details>
-
-**Q17.**
-Which of the following is/are young Tertiary fold mountains?
-
-1. Alps
-2. Appalachians
-3. Andes
-4. Himalaya
-
-A. 1, 3 and 4
-B. Only 2
-C. 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Appalachians are old/Caledonian, not Tertiary young folds.
-
-**Logic:** Alps–Andes–Himalaya–Rockies–Atlas are the young set.
-
-</details>
-
-**Q18.**
-Borneo differs from Java because Borneo is:
-
-A. A pure volcanic-arc dump like Java
-B. Shared by three countries and not a volcanic dump
-C. Entirely in the Philippines
-D. Larger than Greenland
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Borneo = three countries; not volcanic dump; Java/Sumatra = volcanic arc.
-
-**Logic:** “All Indonesia = volcano” overgeneralises.
-
-</details>
-
-**Q19.**
-Continent area order places Australia:
-
-A. Larger than Europe
-B. Smallest among the seven
-C. Second after Asia
-D. Larger than Antarctica
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Australia is the **smallest** continent.
-
-**Logic:** Asia > Africa > NA > SA > Antarctica > Europe > Australia.
-
-</details>
-
-**Q20.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Chernozem — temperate grassland wheat soils
-B. Selva — Brazilian rainforest
-C. Epiphytes — hot desert marker
-D. Namib — fog-coast desert
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Epiphytes mark **equatorial forest**, not hot desert.
-
-**Logic:** Baobab/acacia are the dry/savanna fringe markers.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which continent has the most countries?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Asia</div><div class="pyq-opt"><span class="opt-letter">B</span> Europe</div><div class="pyq-opt"><span class="opt-letter">C</span> Africa</div><div class="pyq-opt"><span class="opt-letter">D</span> South America</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Africa (~**54** countries).
+
+**Logic:** Asia is largest by area, not by country count.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to fold mountains, which of the following is/are correct?<br><br>1. Andes are the longest fold chain.<br>2. Himalaya are the highest.<br>3. Aconcagua stands in the Rockies of the USA.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Aconcagua = Andes of **Argentina**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Kilimanjaro is correctly placed on the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pacific Ring of Fire</div><div class="pyq-opt"><span class="opt-letter">B</span> East African Rift</div><div class="pyq-opt"><span class="opt-letter">C</span> Mid-Atlantic Ridge</div><div class="pyq-opt"><span class="opt-letter">D</span> Andes volcanic belt</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> East African Rift; not Ring of Fire.
+
+**Logic:** Fuji/Pinatubo/St Helens are Circum-Pacific distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Hot deserts favour west coasts near 15–30° latitudes.<br>Reason (R): Cold ocean currents and subtropical highs promote aridity on those coasts.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true and R explains A.
+
+**A/R logic:** East-coast desert claims reverse the standard pattern.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Pampas and Campos are correctly matched with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Brazil and Argentina respectively</div><div class="pyq-opt"><span class="opt-letter">B</span> Argentina and Brazil respectively</div><div class="pyq-opt"><span class="opt-letter">C</span> Both Argentina</div><div class="pyq-opt"><span class="opt-letter">D</span> Venezuela and Chile</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pampas = **Argentina**; Campos = **Brazil**.
+
+**Logic:** Llanos = Venezuela–Colombia.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Scrub)</th><th>List-II (Region)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Maquis</td><td><span class="match-key">A</span> Mediterranean</td></tr>
+      <tr><td><span class="match-key">2</span> Fynbos</td><td><span class="match-key">B</span> South Africa</td></tr>
+      <tr><td><span class="match-key">3</span> Chaparral</td><td><span class="match-key">C</span> California</td></tr>
+      <tr><td><span class="match-key">4</span> Matorral</td><td><span class="match-key">D</span> Chile</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-A, 2-C, 3-B, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sclerophyll west-coast set.
+
+**Logic:** Row order is not the answer code.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Largest island in the usual ranked list is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> New Guinea</div><div class="pyq-opt"><span class="opt-letter">B</span> Borneo</div><div class="pyq-opt"><span class="opt-letter">C</span> Greenland</div><div class="pyq-opt"><span class="opt-letter">D</span> Madagascar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Greenland** is largest; Australia is a continent.
+
+**Logic:** New Guinea is second.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Gobi desert lies in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mongolia and Kazakhstan</div><div class="pyq-opt"><span class="opt-letter">B</span> Mongolia and China only</div><div class="pyq-opt"><span class="opt-letter">C</span> Russia and China</div><div class="pyq-opt"><span class="opt-letter">D</span> Turkmenistan only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Gobi = **Mongolia and China**; cold desert.
+
+**Logic:** Karakum = Turkmenistan; Kazakhstan is a planted fringe trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">“Land of Big Games” points to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Hot desert</div><div class="pyq-opt"><span class="opt-letter">B</span> Tropical savanna</div><div class="pyq-opt"><span class="opt-letter">C</span> Tundra</div><div class="pyq-opt"><span class="opt-letter">D</span> Taiga</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tropical **savanna**.
+
+**Logic:** Sahara safari wording is the distractor.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Mediterranean climate rain is mainly in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Summer</div><div class="pyq-opt"><span class="opt-letter">B</span> Winter</div><div class="pyq-opt"><span class="opt-letter">C</span> All months equally like Western Europe westerlies</div><div class="pyq-opt"><span class="opt-letter">D</span> Only equatorial convection months</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mediterranean = **winter rain**, dry summer.
+
+**Logic:** Do not confuse with all-month westerly Western Europe.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Tibet is the highest large plateau.<br>2. Pamir is phrased as Roof of the world.<br>3. Columbia Plateau holds the Grand Canyon.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Grand Canyon = **Colorado Plateau**; Columbia = lava plateau.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which peak–continent pair is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Elbrus — Asia only (exclude Europe)</div><div class="pyq-opt"><span class="opt-letter">B</span> Denali — South America</div><div class="pyq-opt"><span class="opt-letter">C</span> Kosciuszko — Australia mainland</div><div class="pyq-opt"><span class="opt-letter">D</span> Aconcagua — Africa</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kosciuszko = Australia mainland high peak teaching tag.
+
+**Logic:** Elbrus = Europe (Caucasus/Russia); Denali = North America; Aconcagua = South America.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Sierra Nevada is a young fold mountain of the Rockies class.<br>Reason (R): Block mountains rise by faulting rather than simple young folding.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is false; R is true.
+
+**A/R logic:** Sierra Nevada = block mountain tag.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Taiga and tundra differ because:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both are treeless</div><div class="pyq-opt"><span class="opt-letter">B</span> Taiga is conifer forest; tundra is treeless</div><div class="pyq-opt"><span class="opt-letter">C</span> Tundra is equatorial rainforest</div><div class="pyq-opt"><span class="opt-letter">D</span> Taiga is hot desert scrub</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Taiga = boreal conifers; tundra = treeless cold.
+
+**Logic:** Climate letters Aw/BS/ET help separate savanna/steppe/tundra.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which desert is the driest in the usual set?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Thar</div><div class="pyq-opt"><span class="opt-letter">B</span> Sahara</div><div class="pyq-opt"><span class="opt-letter">C</span> Atacama</div><div class="pyq-opt"><span class="opt-letter">D</span> Gobi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Atacama** = driest; Thar = densest populated desert; Sahara = largest hot desert.
+
+**Logic:** Keep size / dryness / population tags separate.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Gibson and Sonoran deserts are in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Brazil and USA</div><div class="pyq-opt"><span class="opt-letter">B</span> Australia and USA</div><div class="pyq-opt"><span class="opt-letter">C</span> China and Australia</div><div class="pyq-opt"><span class="opt-letter">D</span> USA and Turkmenistan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Gibson = **Australia**; Sonoran = **USA**.
+
+**Logic:** Gibson–Brazil is a planted trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following is/are young Tertiary fold mountains?<br><br>1. Alps<br>2. Appalachians<br>3. Andes<br>4. Himalaya</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 3 and 4</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Appalachians are old/Caledonian, not Tertiary young folds.
+
+**Logic:** Alps–Andes–Himalaya–Rockies–Atlas are the young set.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Borneo differs from Java because Borneo is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A pure volcanic-arc dump like Java</div><div class="pyq-opt"><span class="opt-letter">B</span> Shared by three countries and not a volcanic dump</div><div class="pyq-opt"><span class="opt-letter">C</span> Entirely in the Philippines</div><div class="pyq-opt"><span class="opt-letter">D</span> Larger than Greenland</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Borneo = three countries; not volcanic dump; Java/Sumatra = volcanic arc.
+
+**Logic:** “All Indonesia = volcano” overgeneralises.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Continent area order places Australia:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Larger than Europe</div><div class="pyq-opt"><span class="opt-letter">B</span> Smallest among the seven</div><div class="pyq-opt"><span class="opt-letter">C</span> Second after Asia</div><div class="pyq-opt"><span class="opt-letter">D</span> Larger than Antarctica</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Australia is the **smallest** continent.
+
+**Logic:** Asia > Africa > NA > SA > Antarctica > Europe > Australia.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chernozem — temperate grassland wheat soils</div><div class="pyq-opt"><span class="opt-letter">B</span> Selva — Brazilian rainforest</div><div class="pyq-opt"><span class="opt-letter">C</span> Epiphytes — hot desert marker</div><div class="pyq-opt"><span class="opt-letter">D</span> Namib — fog-coast desert</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Epiphytes mark **equatorial forest**, not hot desert.
+
+**Logic:** Baobab/acacia are the dry/savanna fringe markers.</div>
+  </div>
+</div>

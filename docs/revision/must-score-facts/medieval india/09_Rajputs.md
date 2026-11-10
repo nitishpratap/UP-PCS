@@ -157,22 +157,6 @@ hide:
 | **Hawa Mahal** | Jaipur (RJ) | **Sawai Pratap Singh (1799 CE)** | Five-storey pyramid with 953 honeycomb casements; designed by Lal Chand Ustad |
 | **City Palace, Udaipur** | Udaipur (RJ) | Maharana Udai Singh II (1559 CE) | Built on Lake Pichola; granite and marble palaces linked through maze of courtyards |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Khanwa | Haldighati | 1527 Babur–Sanga vs 1576 Man Singh–Pratap | खानवा / हल्दीघाटी |
-| Mewar | Marwar | Sisodia Chittor–Udaipur vs Rathore Jodhpur | मेवाड़ / मारवाड़ |
-| Rana Chunda | Rao Chunda | Mewar vs Marwar founder line — 2021 trap | राणा चुंडा / राव चुंडा |
-| Sanga | Pratap | Fought Babur vs fought Akbar | सांगा / प्रताप |
-| Man Singh | Pratap | Kachhwaha on Mughal side vs Sisodia holdout | मान सिंह / प्रताप |
-| Chittor | Udaipur | Old fort (1303, 1568) vs new capital 1559 | चित्तौड़ / उदयपुर |
-| Jauhar | Saka | Women’s immolation vs warriors’ last charge | जौहर / साका |
-| Hamir | Kumbha | 14th c. restorer vs 15th c. Vijay Stambha builder | हमीर / कुम्भा |
-| Rana Hammir | Hamir Deva | Mewar restorer (1326) vs Ranthambore Chauhan (died 1301) | मेवाड़ हमीर / रणथम्भौर हमीर |
-| Vijay Stambha | Kirti Stambha | Kumbha’s victory tower vs older Jain tower, both at Chittor | विजय स्तम्भ / कीर्ति स्तम्भ |
-| Alauddin’s Chittor | Akbar’s | 1303 vs 1567–68 | अलाउद्दीन / अकबर |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Sawai Jai Singh's Five Jantar Mantar Cities: D–J–U–V–M**
@@ -203,23 +187,23 @@ hide:
    - Mirza Raja **J**ai Singh I (Treaty of Purandar 1665)
    - Sawai **J**ai Singh II (Jaipur 1727, Jantar Mantar)
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Which of the following pairs is NOT correctly matched (Ruler–State)?
-
-A. Rana Hamir – Mewar
-B. Rana Chunda – Marwar
-C. Malik Raja Farooqi – Khandesh
-D. Malik Sarwar Khwaja Jahan – Malwa
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Rana Chunda – Marwar is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched (Ruler–State)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rana Hamir – Mewar</div><div class="pyq-opt"><span class="opt-letter">B</span> Rana Chunda – Marwar</div><div class="pyq-opt"><span class="opt-letter">C</span> Malik Raja Farooqi – Khandesh</div><div class="pyq-opt"><span class="opt-letter">D</span> Malik Sarwar Khwaja Jahan – Malwa</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Rana Chunda – Marwar is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Option B is incorrectly matched (Correct Answer):** **Rana Chunda** (Rawat Chunda) was a prince of **Mewar** (Sisodia clan), the eldest son of Rana Lakha, famous for relinquishing his right to the throne of Mewar. The Rathore ruler of **Marwar** was **Rao Chunda** (reigned 1383–1424 CE), grandfather of Rao Jodha who founded Jodhpur.
@@ -228,23 +212,20 @@ D. Malik Sarwar Khwaja Jahan – Malwa
 - **Option D context:** Malik Sarwar founded Jaunpur; however, in the official UPPCS key, the intended Rajput distractor was **Option B**.
 
 **Key Exam Takeaway / Trap:**
-- *Title Distinction:* **Rana** = Mewar (Sisodia/Guhila); **Rao** = Marwar & Bikaner (Rathore).
+- *Title Distinction:* **Rana** = Mewar (Sisodia/Guhila); **Rao** = Marwar & Bikaner (Rathore).</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-Arrange Alauddin Khalji’s conquests in chronological order:
-1. Ranthambor
-2. Gujarat
-3. Warangal
-4. Chittor
-
-Options: A. 1-3-2-4 | B. 3-4-1-2 | C. 2-1-4-3 | D. 4-2-3-1
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (2-1-4-3: Gujarat → Ranthambor → Chittor → Warangal)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arrange Alauddin Khalji’s conquests in chronological order:<br>1. Ranthambor<br>2. Gujarat<br>3. Warangal<br>4. Chittor<br><br>Options: A. 1-3-2-4 | B. 3-4-1-2 | C. 2-1-4-3 | D. 4-2-3-1</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (2-1-4-3: Gujarat → Ranthambor → Chittor → Warangal)
 
 **Detailed Explanation:**
 - **2. Gujarat (1299 CE):** Defeat of Rai Karan Vaghela; annexation of northern Gujarat.
@@ -254,23 +235,20 @@ Options: A. 1-3-2-4 | B. 3-4-1-2 | C. 2-1-4-3 | D. 4-2-3-1
 - **Chronological Sequence:** 2 → 1 → 4 → 3 = **2-1-4-3**.
 
 **Key Exam Takeaway / Trap:**
-- *Deccan Timing:* All northern Rajput conquests (Gujarat 1299, Ranthambor 1301, Chittor 1303) preceded the southern expeditions under Malik Kafur.
+- *Deccan Timing:* All northern Rajput conquests (Gujarat 1299, Ranthambor 1301, Chittor 1303) preceded the southern expeditions under Malik Kafur.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Arrange Alauddin Khalji’s victories in chronological order:
-1. Ranthambore
-2. Jaisalmer
-3. Warangal
-4. Chittor
-
-Options: A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (2-1-4-3: Jaisalmer → Ranthambore → Chittor → Warangal)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange Alauddin Khalji’s victories in chronological order:<br>1. Ranthambore<br>2. Jaisalmer<br>3. Warangal<br>4. Chittor<br><br>Options: A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (2-1-4-3: Jaisalmer → Ranthambore → Chittor → Warangal)
 
 **Detailed Explanation:**
 - **2. Jaisalmer (1299 CE):** Bhati Rajput stronghold attacked at the start of Alauddin's reign.
@@ -280,69 +258,66 @@ Options: A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3
 - **Chronological Sequence:** 2 → 1 → 4 → 3 = **2-1-4-3**.
 
 **Key Exam Takeaway / Trap:**
-- *Jaisalmer Position:* Jaisalmer (1299 CE) precedes Ranthambore (1301 CE).
+- *Jaisalmer Position:* Jaisalmer (1299 CE) precedes Ranthambore (1301 CE).</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-From which place were Jayata and Kumpa associated, who impressed Sher Shah with their valour?
-
-A. Bundelkhand
-B. Malwa
-C. Marwar
-D. Mewar
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Marwar)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">From which place were Jayata and Kumpa associated, who impressed Sher Shah with their valour?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bundelkhand</div><div class="pyq-opt"><span class="opt-letter">B</span> Malwa</div><div class="pyq-opt"><span class="opt-letter">C</span> Marwar</div><div class="pyq-opt"><span class="opt-letter">D</span> Mewar</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Marwar)
 
 **Detailed Explanation:**
 - **Option C is correct:** **Jayata** and **Kumpa** were Rathore military commanders of **Marwar** (Jodhpur) under Rao Maldeo Rathore. In the **Battle of Sammel (Giri-Sumel, 1544 CE)**, they launched an audacious assault with 12,000 Rathores against Sher Shah's 80,000 troops, inflicting tremendous casualties before dying in battle, prompting Sher Shah's famous words: *"I had nearly lost the empire of Hindustan for a handful of millet (bajra)!"*
 - **Options A, B, and D are incorrect:** Jayata and Kumpa were Rathores of Marwar, having no connection with Mewar (Sisodia), Malwa, or Bundelkhand.
 
 **Key Exam Takeaway / Trap:**
-- *Clan Association:* Jayata and Kumpa = **Rathores of Marwar**.
+- *Clan Association:* Jayata and Kumpa = **Rathores of Marwar**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Who among the following kings had given patronage to Tansen before Akbar?
-
-A. Raja Ramchandra Singh of Bhata
-B. Rajbahadur of Malwa
-C. Uday Singh of Mewar
-D. Muzaffar Shah of Gujarat
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **A** (Raja Ramchandra Singh of Bhata / Rewa)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Who among the following kings had given patronage to Tansen before Akbar?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Raja Ramchandra Singh of Bhata</div><div class="pyq-opt"><span class="opt-letter">B</span> Rajbahadur of Malwa</div><div class="pyq-opt"><span class="opt-letter">C</span> Uday Singh of Mewar</div><div class="pyq-opt"><span class="opt-letter">D</span> Muzaffar Shah of Gujarat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Raja Ramchandra Singh of Bhata / Rewa)
 
 **Detailed Explanation:**
 - **Option A is correct:** Prior to joining Akbar's court in 1562 CE, Miyan Tansen was the revered court musician of **Raja Ramchandra Singh Baghela** of Bhata (Rewa, MP). Akbar sent Jalal Khan Qurchi to bring Tansen to Agra, where he was made a Navratna.
 - **Option C distractor:** Rana Udai Singh II of Mewar (father of Maharana Pratap) was a contemporary ruler, but he never patronized Tansen.
 
 **Key Exam Takeaway / Trap:**
-- *Tansen Patron:* Pre-Akbar royal patron = **Raja Ramchandra Singh of Bhata (Rewa)**.
+- *Tansen Patron:* Pre-Akbar royal patron = **Raja Ramchandra Singh of Bhata (Rewa)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.** With reference to Rajput clan–state pairs, which of the following statements is/are correct?
-
-1. Sisodia clan ruled Mewar (Chittor–Udaipur).
-2. Rathore clan ruled Marwar (Jodhpur) and Bikaner.
-3. Kachhwaha clan ruled Amber (Jaipur).
-
-A. 1 and 2
-B. 2 and 3
-C. 1 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (All 1, 2 and 3 are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Rajput clan–state pairs, which of the following statements is/are correct?<br><br>1. Sisodia clan ruled Mewar (Chittor–Udaipur).<br>2. Rathore clan ruled Marwar (Jodhpur) and Bikaner.<br>3. Kachhwaha clan ruled Amber (Jaipur).</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** The **Sisodia** (a branch of the Guhila dynasty) ruled **Mewar**, holding capitals at Chittorgarh, Kumbhalgarh, and later Udaipur (founded by Rana Udai Singh II in 1559 CE). Notable rulers include Rana Kumbha, Rana Sanga, Maharana Pratap, and Rana Amar Singh.
@@ -350,27 +325,22 @@ D. 1, 2 and 3
 - **Statement 3 is correct:** The **Kachhwaha** clan ruled the state of **Dhundhar/Amber** (later Jaipur, founded by Sawai Jai Singh II in 1727 CE). Under Raja Bharmal and Raja Man Singh, they were the earliest major Rajput house to form matrimonial and administrative alliances with Akbar.
 
 **Key Exam Takeaway / Trap:**
-- *Core Clan Matrix:* **Mewar** = Sisodia; **Marwar & Bikaner** = Rathore; **Amber/Jaipur** = Kachhwaha; **Jaisalmer** = Bhati; **Bundi & Kota** = Hada (Chauhan).
+- *Core Clan Matrix:* **Mewar** = Sisodia; **Marwar & Bikaner** = Rathore; **Amber/Jaipur** = Kachhwaha; **Jaisalmer** = Bhati; **Bundi & Kota** = Hada (Chauhan).</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.** Which of the following pairs is/are NOT correctly matched?
-
-1. Rana Sanga — Battle of Khanwa (1527)
-2. Maharana Pratap — Battle of Haldighati (1576)
-3. Maharana Pratap — Battle of Khanwa (1527)
-
-Select the correct answer from the code given below:
-
-A. 1 only
-B. 3 only
-C. 1 and 2 only
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3 only is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Rana Sanga — Battle of Khanwa (1527)<br>2. Maharana Pratap — Battle of Haldighati (1576)<br>3. Maharana Pratap — Battle of Khanwa (1527)<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3 only is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** Maharana Sangram Singh (**Rana Sanga**) led the Rajput-Afghan confederacy against Babur in the **Battle of Khanwa** on 16 March 1527 CE.
@@ -378,55 +348,44 @@ D. 2 and 3 only
 - **Pair 3 is NOT correctly matched (Correct Answer):** Maharana Pratap had nothing to do with Khanwa; he was born in 1540 CE, thirteen years *after* the Battle of Khanwa was fought.
 
 **Key Exam Takeaway / Trap:**
-- *Generational Anchor:* Rana Sanga (grandfather, fought Babur in 1527) → Rana Udai Singh II (father, fought Akbar at Chittor in 1567–68) → Maharana Pratap (son, fought Akbar at Haldighati in 1576).
+- *Generational Anchor:* Rana Sanga (grandfather, fought Babur in 1527) → Rana Udai Singh II (father, fought Akbar at Chittor in 1567–68) → Maharana Pratap (son, fought Akbar at Haldighati in 1576).</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): At Haldighati (18 June 1576) Pratap faced Raja Man Singh of Amber.
-
-Reason (R): Akbar was personally present in the Haldighati pass commanding the imperial wing.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** ((A) is true, but (R) is false)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): At Haldighati (18 June 1576) Pratap faced Raja Man Singh of Amber.<br><br>Reason (R): Akbar was personally present in the Haldighati pass commanding the imperial wing.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** ((A) is true, but (R) is false)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** In the Battle of Haldighati (18 June 1576 CE), Maharana Pratap faced the Mughal imperial army led on the field by **Kunwar Man Singh of Amber** (Kachhwaha) and Sayyid Hashim Barha, with Asaf Khan serving as joint commander.
 - **Reason (R) is incorrect:** Emperor Akbar was **not** present in the Haldighati pass during the battle. Akbar remained stationed at his base camp in Ajmer, directing imperial logistics and strategy, entrusting the direct tactical field command of the Mughal forces to Man Singh.
 
 **Key Exam Takeaway / Trap:**
-- *Akbar's Absence:* Akbar did not fight in person at Haldighati; the imperial vanguard and center were commanded by **Raja Man Singh of Amber**.
+- *Akbar's Absence:* Akbar did not fight in person at Haldighati; the imperial vanguard and center were commanded by **Raja Man Singh of Amber**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.** Arrange the following in chronological order:
-
-1. Akbar’s capture of Chittor
-2. Alauddin’s sack of Chittor
-3. Battle of Khanwa
-4. Battle of Haldighati
-
-Select the correct answer from the code given below:
-
-A. 2-1-3-4
-B. 2-3-1-4
-C. 3-2-1-4
-D. 2-3-4-1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (2-3-1-4: Alauddin's Chittor → Khanwa → Akbar's Chittor → Haldighati)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order:<br><br>1. Akbar’s capture of Chittor<br>2. Alauddin’s sack of Chittor<br>3. Battle of Khanwa<br>4. Battle of Haldighati<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2-1-3-4</div><div class="pyq-opt"><span class="opt-letter">B</span> 2-3-1-4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3-2-1-4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2-3-4-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (2-3-1-4: Alauddin's Chittor → Khanwa → Akbar's Chittor → Haldighati)
 
 **Detailed Explanation:**
 - **2. Alauddin Khalji’s sack of Chittor (1303 CE):** First major imperial siege of Chittor; Rana Ratan Singh fell and Rani Padmini committed *Jauhar*.
@@ -436,30 +395,32 @@ D. 2-3-4-1
 - **Chronological Sequence:** 2 (1303) → 3 (1527) → 1 (1568) → 4 (1576) = **2-3-1-4**.
 
 **Key Exam Takeaway / Trap:**
-- *Chittor Sieges:* Chittor I = **1303 CE** (Alauddin Khalji); Chittor II = **1535 CE** (Bahadur Shah of Gujarat, Rani Karnavati's Jauhar); Chittor III = **1567–68 CE** (Akbar).
+- *Chittor Sieges:* Chittor I = **1303 CE** (Alauddin Khalji); Chittor II = **1535 CE** (Bahadur Shah of Gujarat, Rani Karnavati's Jauhar); Chittor III = **1567–68 CE** (Akbar).</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I | List-II |
-|--------|---------|
-| A. Rana Hammir | 1. Founded Jodhpur (1459) |
-| B. Rana Kumbha | 2. Mewar restorer after Khalji sack (~1326) |
-| C. Rao Jodha | 3. Vijay Stambha at Chittor |
-| D. Man Singh | 4. Amber; ~7000 zat; Haldighati commander |
-
-*Row order is not the answer code.*
-
-A. A-2, B-3, C-1, D-4
-B. A-3, B-2, C-4, D-1
-C. A-2, B-1, C-3, D-4
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-2, B-3, C-1, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Rana Hammir</td><td><span class="match-key">1</span> Founded Jodhpur (1459)</td></tr>
+      <tr><td><span class="match-key">B</span> Rana Kumbha</td><td><span class="match-key">2</span> Mewar restorer after Khalji sack (~1326)</td></tr>
+      <tr><td><span class="match-key">C</span> Rao Jodha</td><td><span class="match-key">3</span> Vijay Stambha at Chittor</td></tr>
+      <tr><td><span class="match-key">D</span> Man Singh</td><td><span class="match-key">4</span> Amber; ~7000 zat; Haldighati commander</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-2, C-4, D-1</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-3, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (A-2, B-3, C-1, D-4)
 
 **Detailed Explanation:**
 - **A. Rana Hammir → 2. Mewar restorer (~1326 CE):** Established the Sisodia line, recovering Chittor from Maldeo Songara.
@@ -468,27 +429,22 @@ D. A-1, B-3, C-2, D-4
 - **D. Raja Man Singh → 4. Amber; ~7000 zat:** Foremost Kachhwaha general of Akbar, governor of Bengal and Bihar, holding the supreme mansab of 7000 zat.
 
 **Key Exam Takeaway / Trap:**
-- *Matching Code:* A-2, B-3, C-1, D-4 (**Option A**).
+- *Matching Code:* A-2, B-3, C-1, D-4 (**Option A**).</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.** Consider Cause–Course–Result for Haldighati:
-
-1. Cause: Pratap refused Akbar’s mansab and held Aravalli bases.
-2. Course: Man Singh led the imperial wing; fighting in the pass was tactically indecisive.
-3. Result: Pratap escaped, continued guerrilla resistance, and died in 1597.
-
-Which of the statements given above is/are correct?
-
-A. Only 1 and 2
-B. Only 2 and 3
-C. Only 1 and 3
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (All 1, 2 and 3 are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider Cause–Course–Result for Haldighati:<br><br>1. Cause: Pratap refused Akbar’s mansab and held Aravalli bases.<br>2. Course: Man Singh led the imperial wing; fighting in the pass was tactically indecisive.<br>3. Result: Pratap escaped, continued guerrilla resistance, and died in 1597.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct (Cause):** Following Akbar's failure to persuade Maharana Pratap through four diplomatic peace missions (Jalal Khan Qurchi, Man Singh, Bhagwant Das, Todar Mal), military confrontation became inevitable.
@@ -496,25 +452,22 @@ D. All 1, 2 and 3
 - **Statement 3 is correct (Result):** Pratap retreated into the rugged Aravalli hills, established new guerrilla centers at Chavand and Kumbhalgarh, liberated nearly all of Mewar (except Chittor and Mandalgarh) by 1585 CE, and died peacefully at Chavand in January 1597 CE.
 
 **Key Exam Takeaway / Trap:**
-- *Haldighati Significance:* Haldighati was a fierce tactical clash that failed to achieve Akbar's strategic objective (the capture or submission of Maharana Pratap).
+- *Haldighati Significance:* Haldighati was a fierce tactical clash that failed to achieve Akbar's strategic objective (the capture or submission of Maharana Pratap).</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.** With reference to titles, which of the following statements is/are correct?
-
-1. Maharana/Rana is the Mewar style.
-2. Rao is used for Marwar and Bikaner.
-3. Rana Chunda and Rao Chunda refer to the same Marwar founder only.
-
-A. Only 1
-B. 1 and 2 only
-C. 1, 2 and 3
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1 and 2 only are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to titles, which of the following statements is/are correct?<br><br>1. Maharana/Rana is the Mewar style.<br>2. Rao is used for Marwar and Bikaner.<br>3. Rana Chunda and Rao Chunda refer to the same Marwar founder only.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (1 and 2 only are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** The rulers of **Mewar** used the distinctive titles **Rana** or **Maharana** (beginning with Rana Hammir, signifying their Guhila/Sisodia lineage).
@@ -522,27 +475,22 @@ D. Only 2 and 3
 - **Statement 3 is incorrect:** **Rana Chunda** (Rawat Chunda) was the Sisodia prince of **Mewar** (son of Rana Lakha), whereas **Rao Chunda** was the 14th-century Rathore ruler of **Marwar**. They were two different people from two different clans and regions.
 
 **Key Exam Takeaway / Trap:**
-- *Title Rules:* **Rana / Maharana** = Mewar; **Rao / Raja / Maharaja** = Marwar, Bikaner; **Rawal / Maharawal** = Jaisalmer (Bhati); **Mirza Raja / Sawai** = Amber (Kachhwaha).
+- *Title Rules:* **Rana / Maharana** = Mewar; **Rao / Raja / Maharaja** = Marwar, Bikaner; **Rawal / Maharawal** = Jaisalmer (Bhati); **Mirza Raja / Sawai** = Amber (Kachhwaha).</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Amar Singh made peace with Jahangir in 1615.
-
-Reason (R): The settlement kept Mewar honour without requiring personal court attendance in the usual humiliating form.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Amar Singh made peace with Jahangir in 1615.<br><br>Reason (R): The settlement kept Mewar honour without requiring personal court attendance in the usual humiliating form.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Both (A) and (R) are true and (R) is the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** In **1615 CE**, after sustained campaigns conducted by Prince Khurram (Shah Jahan), Maharana **Amar Singh I** (son of Maharana Pratap) concluded an honorable peace treaty with Emperor **Jahangir**.
@@ -550,27 +498,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Why (R) explains (A):** The extraordinarily respectful and unprecedented concessions preserving Mewar's dynastic dignity were the direct reason why Maharana Amar Singh agreed to conclude the peace treaty after over four decades of conflict.
 
 **Key Exam Takeaway / Trap:**
-- *1615 Treaty Terms:* Negotiator: **Prince Khurram**; Emperor: **Jahangir**; Maharana: **Amar Singh I**; Key Term: Maharana exempted from personal court attendance; no royal marriage alliance.
+- *1615 Treaty Terms:* Negotiator: **Prince Khurram**; Emperor: **Jahangir**; Maharana: **Amar Singh I**; Key Term: Maharana exempted from personal court attendance; no royal marriage alliance.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.** Which of the following pairs is/are NOT correctly matched?
-
-1. Vijay Stambha — Kumbha’s victory tower at Chittor
-2. Kirti Stambha — older Jain tower at Chittor
-3. Vijay Stambha — built by Alauddin after 1303
-
-Select the correct answer from the code given below:
-
-A. 1 only
-B. 3 only
-C. 1 and 2 only
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3 only is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Vijay Stambha — Kumbha’s victory tower at Chittor<br>2. Kirti Stambha — older Jain tower at Chittor<br>3. Vijay Stambha — built by Alauddin after 1303<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3 only is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** **Vijay Stambha** ("Tower of Victory") is a 9-storey, 37-meter-high stone tower built by **Rana Kumbha** in 1448 CE at Chittor to commemorate his victory over the combined armies of Malwa (Mahmud Khalji) and Gujarat.
@@ -578,27 +521,22 @@ D. 2 and 3 only
 - **Pair 3 is NOT correctly matched (Correct Answer):** Vijay Stambha was built by Rana Kumbha, **never** by Alauddin Khalji. Alauddin despoiled Chittor in 1303 CE; he built the Alai Darwaza and Alai Minar in Delhi, not Vijay Stambha.
 
 **Key Exam Takeaway / Trap:**
-- *Two Chittor Towers:* **Vijay Stambha** = 9 storeys, Rana Kumbha (1448 CE, Hindu iconography); **Kirti Stambha** = 7 storeys, Jain merchant Jeeja (12th century, Jain iconography).
+- *Two Chittor Towers:* **Vijay Stambha** = 9 storeys, Rana Kumbha (1448 CE, Hindu iconography); **Kirti Stambha** = 7 storeys, Jain merchant Jeeja (12th century, Jain iconography).</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.** With reference to Chittor chronology, which of the following statements is/are correct?
-
-1. Alauddin sacked Chittor in 1303.
-2. Akbar took Chittor in 1567–68 after Jaimal–Patta resistance and jauhar.
-3. Udaipur became Mewar capital from 1559 while Chittor remained the prestige fort.
-
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-B. 2 and 3
-C. Only 1
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (All 1, 2 and 3 are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to Chittor chronology, which of the following statements is/are correct?<br><br>1. Alauddin sacked Chittor in 1303.<br>2. Akbar took Chittor in 1567–68 after Jaimal–Patta resistance and jauhar.<br>3. Udaipur became Mewar capital from 1559 while Chittor remained the prestige fort.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (All 1, 2 and 3 are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** Alauddin Khalji besieged and captured Chittor in **1303 CE** from Rana Ratan Singh, appointing his son Khizr Khan as governor.
@@ -606,6 +544,6 @@ D. 1 and 2
 - **Statement 3 is correct:** Rana Udai Singh II founded **Udaipur** in the Aravalli valley around Lake Pichola in **1559 CE**, which became the administrative capital of Mewar while Chittorgarh remained the ancient ceremonial citadel.
 
 **Key Exam Takeaway / Trap:**
-- *Jaimal and Patta Statues:* Akbar was so impressed by the bravery of Jaimal and Patta that he erected life-size stone statues of both heroes mounted on elephants at the Delhi Gate of Agra Fort.
-
-</details>
+- *Jaimal and Patta Statues:* Akbar was so impressed by the bravery of Jaimal and Patta that he erected life-size stone statues of both heroes mounted on elephants at the Delhi Gate of Agra Fort.</div>
+  </div>
+</div>

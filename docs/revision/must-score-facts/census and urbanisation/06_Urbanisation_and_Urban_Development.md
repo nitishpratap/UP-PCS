@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Census and Urbanisation Topic 6 — Urbanisation and Urban Development</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2026** | **Digital Census Architecture & Self-Enumeration Portal** — Office of RGCCI preparing first fully digital, geo-referenced national census with mobile app enumeration | Next decennial census enumeration methodology |
-| **2023** | **Bihar Caste-Based Survey (बिहार जाति गणना)** — Published detailed headcount showing EBC (36%), OBC (27.1%), SC (19.7%), ST (1.7%), General (15.5%) | First published state caste demographic survey since 1931 |
-| **2022–2023** | **UN World Population Prospects (WPP 2022/2023)** — Formally recognised India overtaking China as the most populous nation with ~142.86 Crore population | Global demographic rank shifts |
-| **2021** | **National Family Health Survey (NFHS-5)** — National TFR declined to **2.0** (below replacement level 2.1); UP TFR recorded at **2.35** (down from 2.74 in NFHS-4) | Key fertility & vital statistics benchmark |
-| **2020** | **Sample Registration System (SRS) Statistical Report** — National IMR declined to **28 per 1,000 live births**; UP IMR dropped to **38** | Annual vital statistics tracking |
-| **Rolling** | **Census 2011 Statutory Baseline** — Remains the binding official reference benchmark for all UPPSC/UKPCS examination questions until Census 2021/2026 notification | Core exam master data baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. As per Census 2011, India's total **Urban Population** was **37.71 Crore (31.16% of total population)**.
@@ -128,21 +117,6 @@ hide:
 
 ---
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **Statutory Town**: Created by State statute/law (4,041 towns) | **Census Town**: Defined by 3 demographic ratios (3,894 towns) | **Trap**: A Census Town is NOT a statutory municipality; it is legally administered by a Gram Panchayat despite having urban demographics. |
-| **Class I Town (City)**: Population $\mathbf{\ge 100,000	ext{ (1 Lakh+)}}$ | **Metropolitan City / UA**: Population $\mathbf{\ge 1,000,000	ext{ (10 Lakh+)}}$ | **Trap**: Do not confuse City (1 Lakh+) with Metropolitan City (10 Lakh+). Class I has 468 cities; Million-plus has 53 cities. |
-| **Most Urbanised State (%)**: **Goa (62.2%)** | **Most Urbanised State (Absolute Population)**: **Maharashtra (5.08 Crore)** | **Trap**: Goa is #1 in urban percentage; Maharashtra is #1 in absolute urban headcount (UP is 2nd in numbers). |
-| **District Planning Committee (DPC - Art 243ZD)**: At least **4/5th (80%)** elected | **Metropolitan Planning Committee (MPC - Art 243ZE)**: At least **2/3rd (66.7%)** elected | **Trap**: DPC requires 4/5th elected members; MPC requires 2/3rd elected members from municipalities and panchayats. |
-| **Wards Committee Mandate (Article 243S)**: Population $\ge \mathbf{3	ext{ Lakh}}$ | **Metropolitan Area Definition (Article 243P)**: Population $\ge \mathbf{10	ext{ Lakh}}$ | **Trap**: Wards committees are mandatory at 3 Lakh; Metropolitan planning committees at 10 Lakh. |
-| **Smart Cities Mission (100 Cities)**: SPV model, pan-city ICT solutions | **AMRUT Mission (500 Cities)**: Basic civic infrastructure (tap water, sewerage, drains) | **Trap**: Smart Cities focused on 100 selected cities with SPVs; AMRUT focused on 500 cities for basic universal water and sewage coverage. |
-| **Primate City Concept**: **Mark Jefferson (1939)** | **Rank-Size Rule**: **George Zipf (1949)** | **Trap**: Jefferson = Primate City; Zipf = Rank-Size Rule; Patrick Geddes = Conurbation (1915); Jean Gottmann = Megalopolis (1961). |
-| **UP Most Urbanised District (%)**: **Ghaziabad (67.6%)** | **UP Most Populous City (Corporation)**: **Kanpur Nagar** | **Trap**: Ghaziabad is the most urbanised district by percentage; Kanpur is the largest city by municipal population in UP. |
-| **Census Slum Threshold**: Minimum **300 people or 60–70 households** | **Highest Slum Population State**: **Maharashtra (1.18 Crore)** | **Trap**: 300 persons is the census identification threshold; Maharashtra has the most slum dwellers. |
-| **73rd Amendment (Panchayats)**: Part IX, 11th Schedule (29 items) | **74th Amendment (Municipalities)**: Part IX-A, 12th Schedule (18 items) | **Trap**: 11th Schedule has 29 items (Panchayats); 12th Schedule has 18 items (Municipalities). |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **Census Town Criteria (3-in-1 Rule)**:
@@ -154,247 +128,261 @@ hide:
   - By Percentage: **Goa (62.2%)** > Mizoram (52.1%) > Tamil Nadu (48.4%) | Lowest: **Himachal Pradesh (10.0%)** < Bihar (11.3%)
   - By Absolute Number: **Maharashtra (5.08 Cr)** > Uttar Pradesh (4.45 Cr) > Tamil Nadu (3.49 Cr).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Kanpur and Lucknow cities of UP became million cities as per the census of India in the year
-A. 1951 and 1961 respectively
-B. 1961 and 1971 respectively
-C. 1971 and 1981 respectively
-D. 1981 and 1991 respectively
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Kanpur’s industrial growth crossed 10 lakh first; Lucknow followed a decade later.
-
-**Ans: C.** Kanpur 1971; Lucknow 1981.
-
-</details>
-
-**Q2.**
-Which one of the following is known as acceleration stage in the urbanization curve?
-A. First stage
-B. Second stage
-C. Third stage
-D. Fourth stage
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Urbanisation curve: slow start → acceleration → saturation; acceleration = third stage in the standard PCS diagram.
-
-**Ans: C.** Third stage.
-
-</details>
-
-**Q3.**
-The idea of ‘Rurbanization’ was elaborated by which one of the following sociologists?
-A. M. N. Srinivas
-B. Yogendra Singh
-C. G. S. Ghurye
-D. H. Spencer
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Srinivas is the trap (Sanskritisation/village studies).
-
-**Ans: C.** G. S. Ghurye (Anatomy of a Rururban Community, 1963).
-
-</details>
-
-**Q4.**
-According to Census 2011, urbanisation level of India was about:
-A. 25%
-B. 28%
-C. 31%
-D. 35%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 31%.
-
-**Ans: C.** 31%
-</details>
-
-**Q5.**
-A Census Town must satisfy which set?
-A. Only population ≥5,000
-B. Population ≥5,000; density ≥400/km²; ≥75% male main workers in non-agricultural pursuits
-C. Only a municipality
-D. Only density ≥400
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statutory towns vs census towns is a permanent confused pair.
-
-**Ans: B.** All three statutory Census Town criteria.
-
-</details>
-
-**Q6.**
-Largest urban agglomeration in Census 2011 was:
-A. Delhi
-B. Mumbai
-C. Kolkata
-D. Chennai
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Delhi NCT/UA ranking debates appear later; 2011 UA table tops with Mumbai.
-
-**Ans: B.** Greater Mumbai UA.
-
-</details>
-
-**Q7.**
-As per Census 2011, share of urban population in Bihar was about:
-A. 31.16%
-B. 22%
-C. 11.29%
-D. 40%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Among the least urbanised major States vs India ~31%.
-
-**Ans: C.** ~11.29%.
-
-</details>
-
-**Q8.**
-Which of the following are among the million-plus cities in India on the basis of Census 2001?
-1. Ludhiana
-2. Kochi
-3. Surat
-4. Nagpur
-A. 1, 2 and 3 only
-B. 2, 3 and 4 only
-C. 1 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 2001 million-plus list included these industrial/port cities — don’t drop Kochi.
-
-**Ans: D.** All four.
-
-</details>
-
-**Q9.**
-What is the approximate percentage of persons above 65 years of age in India’s population (as of that paper’s frame)?
-A. 14–15%
-B. 11–12%
-C. 8–9%
-D. 5–6%
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** India was still young; double-digit elderly share is the developed-country trap.
-
-**Ans: D.** About 5–6%.
-
-</details>
-
-**Q10.**
-For India, China, the UK and the USA, which is the correct sequence of the median age of their populations?
-A. China < India < UK < USA
-B. India < China < USA < UK
-C. China < India < USA < UK
-D. India < China < UK < USA
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Youngest median first — India then China; UK older than USA.
-
-**Ans: B.** India < China < USA < UK.
-
-</details>
-
-**Q11.**
-As per Census 2011, the total number of towns in India (statutory + census towns) was approximately:
-A. 5,161
-B. 6,500
-C. 7,935
-D. 10,000
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 7,935.
-
-**Ans: C.** 7,935
-</details>
-
-**Q12.**
-For a place to be classified as a 'Census Town' in India, the minimum required density is:
-A. 200 persons per sq km
-B. 300 persons per sq km
-C. 400 persons per sq km
-D. 500 persons per sq km
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** All three conditions must be met: (1) population ≥ 5,000, (2) ≥ 75% male main workers in non-agricultural activities, (3) density ≥ **400 persons per km2**.
-
-**Ans: C.** 400 persons per sq km.
-
-</details>
-
-**Q13.**
-How many million-plus cities (population ≥ 10 lakh) were recorded in India as per Census 2011?
-A. 16
-B. 20
-C. 26
-D. 35
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 26.
-
-**Ans: C.** 26
-</details>
-
-**Q14.**
-Which mission was launched by the Government of India in 2015 to develop 100 smart cities?
-A. AMRUT Mission
-B. Smart Cities Mission
-C. JNNURM
-D. HRIDAY
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Smart Cities Mission was launched in June 2015 alongside AMRUT.
-
-**Ans: B.** Smart Cities Mission (2015).
-
-</details>
-
-**Q15.**
-Which Indian State has the highest urban population percentage (level of urbanisation) as per Census 2011?
-A. Tamil Nadu
-B. Maharashtra
-C. Goa
-D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Goa leads with 62.2% urban population.
-
-**Ans: C.** Goa (62.2%).
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Kanpur and Lucknow cities of UP became million cities as per the census of India in the year</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1951 and 1961 respectively</div><div class="pyq-opt"><span class="opt-letter">B</span> 1961 and 1971 respectively</div><div class="pyq-opt"><span class="opt-letter">C</span> 1971 and 1981 respectively</div><div class="pyq-opt"><span class="opt-letter">D</span> 1981 and 1991 respectively</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Kanpur’s industrial growth crossed 10 lakh first; Lucknow followed a decade later.
+
+**Ans: C.** Kanpur 1971; Lucknow 1981.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is known as acceleration stage in the urbanization curve?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> First stage</div><div class="pyq-opt"><span class="opt-letter">B</span> Second stage</div><div class="pyq-opt"><span class="opt-letter">C</span> Third stage</div><div class="pyq-opt"><span class="opt-letter">D</span> Fourth stage</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Urbanisation curve: slow start → acceleration → saturation; acceleration = third stage in the standard PCS diagram.
+
+**Ans: C.** Third stage.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The idea of ‘Rurbanization’ was elaborated by which one of the following sociologists?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> M. N. Srinivas</div><div class="pyq-opt"><span class="opt-letter">B</span> Yogendra Singh</div><div class="pyq-opt"><span class="opt-letter">C</span> G. S. Ghurye</div><div class="pyq-opt"><span class="opt-letter">D</span> H. Spencer</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Srinivas is the trap (Sanskritisation/village studies).
+
+**Ans: C.** G. S. Ghurye (Anatomy of a Rururban Community, 1963).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">According to Census 2011, urbanisation level of India was about:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 25%</div><div class="pyq-opt"><span class="opt-letter">B</span> 28%</div><div class="pyq-opt"><span class="opt-letter">C</span> 31%</div><div class="pyq-opt"><span class="opt-letter">D</span> 35%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 31%.
+
+**Ans: C.** 31%</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">A Census Town must satisfy which set?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only population ≥5,000</div><div class="pyq-opt"><span class="opt-letter">B</span> Population ≥5,000; density ≥400/km²; ≥75% male main workers in non-agricultural pursuits</div><div class="pyq-opt"><span class="opt-letter">C</span> Only a municipality</div><div class="pyq-opt"><span class="opt-letter">D</span> Only density ≥400</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Statutory towns vs census towns is a permanent confused pair.
+
+**Ans: B.** All three statutory Census Town criteria.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Largest urban agglomeration in Census 2011 was:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Delhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Mumbai</div><div class="pyq-opt"><span class="opt-letter">C</span> Kolkata</div><div class="pyq-opt"><span class="opt-letter">D</span> Chennai</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Delhi NCT/UA ranking debates appear later; 2011 UA table tops with Mumbai.
+
+**Ans: B.** Greater Mumbai UA.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">As per Census 2011, share of urban population in Bihar was about:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 31.16%</div><div class="pyq-opt"><span class="opt-letter">B</span> 22%</div><div class="pyq-opt"><span class="opt-letter">C</span> 11.29%</div><div class="pyq-opt"><span class="opt-letter">D</span> 40%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Among the least urbanised major States vs India ~31%.
+
+**Ans: C.** ~11.29%.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following are among the million-plus cities in India on the basis of Census 2001?<br>1. Ludhiana<br>2. Kochi<br>3. Surat<br>4. Nagpur</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 2001 million-plus list included these industrial/port cities — don’t drop Kochi.
+
+**Ans: D.** All four.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">What is the approximate percentage of persons above 65 years of age in India’s population (as of that paper’s frame)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 14–15%</div><div class="pyq-opt"><span class="opt-letter">B</span> 11–12%</div><div class="pyq-opt"><span class="opt-letter">C</span> 8–9%</div><div class="pyq-opt"><span class="opt-letter">D</span> 5–6%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** India was still young; double-digit elderly share is the developed-country trap.
+
+**Ans: D.** About 5–6%.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">For India, China, the UK and the USA, which is the correct sequence of the median age of their populations?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> China < India < UK < USA</div><div class="pyq-opt"><span class="opt-letter">B</span> India < China < USA < UK</div><div class="pyq-opt"><span class="opt-letter">C</span> China < India < USA < UK</div><div class="pyq-opt"><span class="opt-letter">D</span> India < China < UK < USA</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Youngest median first — India then China; UK older than USA.
+
+**Ans: B.** India < China < USA < UK.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">As per Census 2011, the total number of towns in India (statutory + census towns) was approximately:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 5,161</div><div class="pyq-opt"><span class="opt-letter">B</span> 6,500</div><div class="pyq-opt"><span class="opt-letter">C</span> 7,935</div><div class="pyq-opt"><span class="opt-letter">D</span> 10,000</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 7,935.
+
+**Ans: C.** 7,935</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">For a place to be classified as a 'Census Town' in India, the minimum required density is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 200 persons per sq km</div><div class="pyq-opt"><span class="opt-letter">B</span> 300 persons per sq km</div><div class="pyq-opt"><span class="opt-letter">C</span> 400 persons per sq km</div><div class="pyq-opt"><span class="opt-letter">D</span> 500 persons per sq km</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** All three conditions must be met: (1) population ≥ 5,000, (2) ≥ 75% male main workers in non-agricultural activities, (3) density ≥ **400 persons per km2**.
+
+**Ans: C.** 400 persons per sq km.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">How many million-plus cities (population ≥ 10 lakh) were recorded in India as per Census 2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 16</div><div class="pyq-opt"><span class="opt-letter">B</span> 20</div><div class="pyq-opt"><span class="opt-letter">C</span> 26</div><div class="pyq-opt"><span class="opt-letter">D</span> 35</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 26.
+
+**Ans: C.** 26</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which mission was launched by the Government of India in 2015 to develop 100 smart cities?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> AMRUT Mission</div><div class="pyq-opt"><span class="opt-letter">B</span> Smart Cities Mission</div><div class="pyq-opt"><span class="opt-letter">C</span> JNNURM</div><div class="pyq-opt"><span class="opt-letter">D</span> HRIDAY</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Smart Cities Mission was launched in June 2015 alongside AMRUT.
+
+**Ans: B.** Smart Cities Mission (2015).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which Indian State has the highest urban population percentage (level of urbanisation) as per Census 2011?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tamil Nadu</div><div class="pyq-opt"><span class="opt-letter">B</span> Maharashtra</div><div class="pyq-opt"><span class="opt-letter">C</span> Goa</div><div class="pyq-opt"><span class="opt-letter">D</span> Kerala</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Goa leads with 62.2% urban population.
+
+**Ans: C.** Goa (62.2%).</div>
+  </div>
+</div>

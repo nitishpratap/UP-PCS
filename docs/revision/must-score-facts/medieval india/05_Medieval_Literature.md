@@ -179,23 +179,6 @@ hide:
 | **Panchatantra** | *Anwar-i-Suhaili* / *Ayār-i-Dānish* | Abul Fazl / Husain Waiz al-Kashifi | Classic moral fables and political parables |
 | **Harivamsa Purana** | *Harivams* | Maulana Sheri | Lineage of Lord Krishna |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Akbarnama | Ain-i-Akbari | Narrative history of Akbar vs admin/statistical gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
-| Baburnama | Akbarnama | Babur's Turki memoir vs Abul Fazl's Persian Akbar history | बाबरनामा / अकबरनामा |
-| Tarikh | Tabaqat | Annal/continuous history vs generational biographies ("classes") | तारीख / तबक़ात |
-| Barani | Ibn Battuta | Delhi Sultanate historian vs Moroccan traveller (Rihla) | बरनी / इब्न बतूता |
-| Tughlaqnama | Rihla | Amir Khusrau's historical masnavi on Ghiyasuddin Tughlaq vs Ibn Battuta's travelogue | तुग़लक़नामा (अमीर खुसरो) / रिहला (इब्न बतूता) |
-| Barani | Afif (Tarikh) | Barani's Tarikh (Balban→early Firuz) vs Afif's later Tarikh (Firuz→end) | बरनी / आफ़िफ़ |
-| Padmavat | Padmavati Katha | Jaisi's Awadhi epic vs Damodar Kavi's **Padmavati Katha** | पद्मावत / पद्मावती कथा |
-| Riyaz-us-Salatin | Riyaz-ul-Insha | Bengal history vs Gawan's official letters | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
-| Amir Khusrau | Tansen | 13th–14th c. Sultanate poet vs Akbar's dhrupad master | अमीर खुसरो / तानसेन |
-| Tuzuk-i-Jahangiri | Padshahnama | Emperor's own memoir vs court historian's Shah Jahan chronicle | तुज़ुक / पादशाहनामा |
-| Ashiqa | Rag Vibodh | Amir Khusrau's romantic historical poem (Deval Rani) vs Somnath's Sanskrit music treatise (1609) | आशिक़ा (खुसरो) / राग विबोध (सोमनाथ) |
-| Persian | Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Two Autocrats, Two Autographed Biographies:**
@@ -216,22 +199,23 @@ hide:
    - **Khafi** = **Khufiya** (Secret). Khafi Khan wrote *Muntakhab-ul-Lubab* in secret because Aurangzeb banned history writing!
    - Bestowed the title ***Shahe Bekhabar*** (The Heedless King) on Bahadur Shah I.
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Which is NOT correctly matched?
-
-A. Tabaqat-i-Nasiri — Minhaj-us-Siraj Juzjani
-B. Tarikh-i-Firozshahi — Shams-i-Siruj-Alif
-C. Tughlaqnama — Ibn Battuta
-D. Humayunnama — Gulbadan Begum
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Tughlaqnama — Ibn Battuta is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tabaqat-i-Nasiri — Minhaj-us-Siraj Juzjani</div><div class="pyq-opt"><span class="opt-letter">B</span> Tarikh-i-Firozshahi — Shams-i-Siruj-Alif</div><div class="pyq-opt"><span class="opt-letter">C</span> Tughlaqnama — Ibn Battuta</div><div class="pyq-opt"><span class="opt-letter">D</span> Humayunnama — Gulbadan Begum</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Tughlaqnama — Ibn Battuta is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Option C is incorrectly matched (Correct Answer):** *Tughlaqnama* was composed by the great poet **Amir Khusrau** in 1320 CE to commemorate Sultan Ghiyasuddin Tughlaq's rise to power after overthrowing Khusrau Khan. Ibn Battuta was a Moroccan globe-trotter who arrived in Delhi during Muhammad bin Tughlaq's reign and composed his celebrated Arabic travelogue, the **Kitab-ur-Rihla** (*The Journey*), not *Tughlaqnama*.
@@ -241,30 +225,32 @@ D. Humayunnama — Gulbadan Begum
 
 **Key Exam Takeaway / Trap:**
 - *Two Tarikh-i-Firoz Shahis:* Both Ziauddin Barani and Shams-i-Siraj Afif wrote books titled *Tarikh-i-Firoz Shahi*.
-- *Tughlaqnama Authorship:* *Tughlaqnama* is authored by **Amir Khusrau**, NOT Ibn Battuta.
+- *Tughlaqnama Authorship:* *Tughlaqnama* is authored by **Amir Khusrau**, NOT Ibn Battuta.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-Match List-I (Author) with List-II (Work):
-
-| List-I (Author) | List-II (Work) |
-| :--- | :--- |
-| A. Mulla Daud | 1. Chandayan |
-| B. Damodar Kavi | 2. Ashiqa |
-| C. Somnath | 3. Padmavati Katha |
-| D. Amir Khusro | 4. Rag Vibodh |
-
-Options:
-A. 1-3-2-4
-B. 1-3-4-2
-C. 2-4-1-3
-D. 1-2-3-4
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (1-3-4-2: A-1, B-3, C-4, D-2)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Author) with List-II (Work):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Author)</th><th>List-II (Work)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Mulla Daud</td><td><span class="match-key">1</span> Chandayan</td></tr>
+      <tr><td><span class="match-key">B</span> Damodar Kavi</td><td><span class="match-key">2</span> Ashiqa</td></tr>
+      <tr><td><span class="match-key">C</span> Somnath</td><td><span class="match-key">3</span> Padmavati Katha</td></tr>
+      <tr><td><span class="match-key">D</span> Amir Khusro</td><td><span class="match-key">4</span> Rag Vibodh</td></tr>
+  </tbody>
+</table><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-3-2-4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-3-4-2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2-4-1-3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-2-3-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (1-3-4-2: A-1, B-3, C-4, D-2)
 
 **Detailed Explanation:**
 - **A. Mulla Daud → 1. Chandayan:** Mulla Daud composed *Chandayan* (the romance of Lorik and Chanda) in 1379 CE in early Awadhi, widely recognized as the earliest Sufi Premakhyan in Hindi literature.
@@ -273,28 +259,22 @@ D. 1-2-3-4
 - **D. Amir Khusrau → 2. Ashiqa:** Amir Khusrau wrote the romantic Persian masnavi *Ashiqa* / *Deval Rani Khizr Khan*.
 
 **Key Exam Takeaway / Trap:**
-- *Primary Anchor:* Mulla Daud–Chandayan (1) and Damodar Kavi–Padmavati Katha (3) leave **C-4 / D-2** → code **1-3-4-2** (**Option B**).
+- *Primary Anchor:* Mulla Daud–Chandayan (1) and Damodar Kavi–Padmavati Katha (3) leave **C-4 / D-2** → code **1-3-4-2** (**Option B**).</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-Arrange the following events in chronological order:
-
-1. Murder of Abul Fazl
-2. Death of Sheikh Mubarak
-3. Death of Faizi
-4. Death of Daniyal
-
-Options:
-A. 2-1-4-3
-B. 3-2-1-4
-C. 2-3-1-4
-D. 2-4-3-1
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **B** (3-2-1-4: Death of Faizi → Death of Sheikh Mubarak → Murder of Abul Fazl → Death of Daniyal)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in chronological order:<br><br>1. Murder of Abul Fazl<br>2. Death of Sheikh Mubarak<br>3. Death of Faizi<br>4. Death of Daniyal<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2-1-4-3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3-2-1-4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2-3-1-4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2-4-3-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3-2-1-4: Death of Faizi → Death of Sheikh Mubarak → Murder of Abul Fazl → Death of Daniyal)
 
 **Detailed Explanation:**
 - **3. Death of Faizi (1595 CE):** The poet laureate of Akbar's court passed away of illness in October 1595 CE at Agra.
@@ -304,74 +284,76 @@ D. 2-4-3-1
 - **Chronological Sequence:** 3 (Faizi, 1595) → 2 (Mubarak, 1597) → 1 (Abul Fazl, 1602) → 4 (Daniyal, 1604) = **3-2-1-4**.
 
 **Key Exam Takeaway / Trap:**
-- *Abul Fazl Murder Year:* Abul Fazl was assassinated in **1602 CE**. He died *after* his brother Faizi (1595) and father Mubarak (1597), but *before* Prince Daniyal (1604) and Emperor Akbar (1605).
+- *Abul Fazl Murder Year:* Abul Fazl was assassinated in **1602 CE**. He died *after* his brother Faizi (1595) and father Mubarak (1597), but *before* Prince Daniyal (1604) and Emperor Akbar (1605).</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was official Mughal court language.
-
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true, R explains A
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (Assertion (A) is true, but Reason (R) is false)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was official Mughal court language.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true, R not explanation</div><div class="pyq-opt"><span class="opt-letter">B</span> A false, R true</div><div class="pyq-opt"><span class="opt-letter">C</span> A true, R false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both true, R explains A</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Assertion (A) is true, but Reason (R) is false)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** Babur wrote his intimate memoirs, *Tuzk-e-Babri* (*Baburnama*), in his mother tongue **Chagatai Turki**, providing rich descriptions of the geography, flora, fauna, people, and battles of Fergana, Kabul, and Hindustan.
 - **Reason (R) is incorrect:** Turki was **never** the official administrative language of the Mughal court. From the Sultanate through the Mughal era, **Persian** (*Farsi*) served as the sole language of royal chanceries, revenue documentation, and imperial administration.
 
 **Key Exam Takeaway / Trap:**
-- *Language Trap:* *Baburnama* is an isolated exception written in Chagatai Turki; all other official Mughal chronicles were composed in **Persian**.
+- *Language Trap:* *Baburnama* is an isolated exception written in Chagatai Turki; all other official Mughal chronicles were composed in **Persian**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Match List-I (Disciple) with List-II (Guru):
-
-| List-I (Disciple) | List-II (Guru) |
-| :--- | :--- |
-| A. Kabir | 1. Guru Nanak Dev |
-| B. Amir Khusrau | 2. Swami Ramananda |
-| C. Surdas | 3. Nizamuddin Auliya |
-| D. Mardana | 4. Vallabhacharya |
-
-Options:
-A. 3 2 4 1
-B. 3 2 1 4
-C. 2 3 4 1
-D. 2 3 1 4
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **C** (2-3-4-1: Kabir–Ramananda, Khusrau–Nizamuddin, Surdas–Vallabhacharya, Mardana–Guru Nanak)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Disciple) with List-II (Guru):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Disciple)</th><th>List-II (Guru)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Kabir</td><td><span class="match-key">1</span> Guru Nanak Dev</td></tr>
+      <tr><td><span class="match-key">B</span> Amir Khusrau</td><td><span class="match-key">2</span> Swami Ramananda</td></tr>
+      <tr><td><span class="match-key">C</span> Surdas</td><td><span class="match-key">3</span> Nizamuddin Auliya</td></tr>
+      <tr><td><span class="match-key">D</span> Mardana</td><td><span class="match-key">4</span> Vallabhacharya</td></tr>
+  </tbody>
+</table><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 2 4 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 2 1 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 3 1 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (2-3-4-1: Kabir–Ramananda, Khusrau–Nizamuddin, Surdas–Vallabhacharya, Mardana–Guru Nanak)
 
 **Detailed Explanation:**
 - **Amir Khusrau (1253–1325 CE):** The "Parrot of India" (*Tuti-e-Hind*) was the foremost *murid* (disciple) of the Chishti Sufi saint Hazrat Nizamuddin Auliya in Delhi. He spent his life in devotion to his master, composing numerous Persian ghazals and Hindavi verses celebrating their spiritual bond.
 - **Matching Context:** Kabir → Swami Ramananda; Amir Khusrau → Nizamuddin Auliya; Surdas → Vallabhacharya; Mardana → Guru Nanak Dev.
 
 **Key Exam Takeaway / Trap:**
-- *Grave Proximity:* Amir Khusrau died within six months of Nizamuddin Auliya's demise in 1325 CE; their dargahs stand side by side in Nizamuddin Basti, New Delhi.
+- *Grave Proximity:* Amir Khusrau died within six months of Nizamuddin Auliya's demise in 1325 CE; their dargahs stand side by side in Nizamuddin Basti, New Delhi.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-Who translated *Suka Saptati* into Persian as *Tutinama*?
-
-A. Khwaja Ziya-ud-din Nakhshabi
-B. Abdur Razzak
-C. Shihabuddin-al-Umari
-D. Amir Khusro
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **A** (Khwaja Ziya-ud-din Nakhshabi)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Who translated *Suka Saptati* into Persian as *Tutinama*?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Khwaja Ziya-ud-din Nakhshabi</div><div class="pyq-opt"><span class="opt-letter">B</span> Abdur Razzak</div><div class="pyq-opt"><span class="opt-letter">C</span> Shihabuddin-al-Umari</div><div class="pyq-opt"><span class="opt-letter">D</span> Amir Khusro</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Khwaja Ziya-ud-din Nakhshabi)
 
 **Detailed Explanation:**
 - **Option A is correct:** Khwaja Ziya-ud-din Nakhshabi (a 14th-century physician and Sufi scholar residing in Badaun, UP) translated the classical Sanskrit text *Suka Saptati* into Persian under the title **Tutinama** ("Tales of a Parrot") in 1329–30 CE during Muhammad bin Tughlaq's reign.
@@ -380,30 +362,32 @@ D. Amir Khusro
 - **Option D is incorrect:** Amir Khusrau was dubbed *Tuti-e-Hind*, but he was *not* the translator of *Tutinama*.
 
 **Key Exam Takeaway / Trap:**
-- *Parrot Distinction:* *Tuti-e-Hind* = Amir Khusrau; *Tutinama* (author/translator) = **Ziya-ud-din Nakhshabi**.
+- *Parrot Distinction:* *Tuti-e-Hind* = Amir Khusrau; *Tutinama* (author/translator) = **Ziya-ud-din Nakhshabi**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-Match List-I (Historical Work) with List-II (Subject / Theme):
-
-| List-I (Historical Work) | List-II (Subject / Theme) |
-| :--- | :--- |
-| A. Mirat-e-Sikandari | 1. History of Bengal |
-| B. Burhan-e-Masir | 2. History of Bahmani's Ahmadnagar |
-| C. Riyaz-us-Salatin | 3. Mahmud Gawan's letters |
-| D. Riyaz-ul-Insha | 4. Victory / History of Gujarat |
-
-Options:
-A. 4-2-1-3
-B. 2-4-1-3
-C. 1-2-4-3
-D. 4-2-3-1
-
-<details><summary>Show answer</summary>
-
-**Correct Answer:** **A** (4-2-1-3: A-4, B-2, C-1, D-3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I (Historical Work) with List-II (Subject / Theme):<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Historical Work)</th><th>List-II (Subject / Theme)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Mirat-e-Sikandari</td><td><span class="match-key">1</span> History of Bengal</td></tr>
+      <tr><td><span class="match-key">B</span> Burhan-e-Masir</td><td><span class="match-key">2</span> History of Bahmani's Ahmadnagar</td></tr>
+      <tr><td><span class="match-key">C</span> Riyaz-us-Salatin</td><td><span class="match-key">3</span> Mahmud Gawan's letters</td></tr>
+      <tr><td><span class="match-key">D</span> Riyaz-ul-Insha</td><td><span class="match-key">4</span> Victory / History of Gujarat</td></tr>
+  </tbody>
+</table><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4-2-1-3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2-4-1-3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-2-4-3</div><div class="pyq-opt"><span class="opt-letter">D</span> 4-2-3-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (4-2-1-3: A-4, B-2, C-1, D-3)
 
 **Detailed Explanation:**
 - **A. Mirat-e-Sikandari → 4. Victory/History of Gujarat:** Composed by Shaikh Sikandar Manjhu (1611 CE), tracing the history and annexation of Gujarat.
@@ -412,25 +396,22 @@ D. 4-2-3-1
 - **D. Riyaz-ul-Insha → 3. Collection of Mahmud Gawan's letters:** Compiled by Khwaja Mahmud Gawan, premier minister of the Bahmani Sultanate, preserving his diplomatic correspondence.
 
 **Key Exam Takeaway / Trap:**
-- *Salatin vs Insha:* **Riyaz-us-Salatin** = Sultans of Bengal. **Riyaz-ul-Insha** = Letters (*Insha*) of Mahmud Gawan (Bahmani).
+- *Salatin vs Insha:* **Riyaz-us-Salatin** = Sultans of Bengal. **Riyaz-ul-Insha** = Letters (*Insha*) of Mahmud Gawan (Bahmani).</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.** With reference to medieval court language, which of the following statements is/are correct?
-
-1. Persian was the official court language of the Delhi Sultanate but not the Mughals.
-2. Persian was the official court language of both the Delhi Sultanate and the Mughal Empire.
-3. Baburnama was written in Persian as the official Mughal administrative gazetteer.
-
-A. Only 2
-B. 1 and 3
-C. Only 2 and 3
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Only 2 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to medieval court language, which of the following statements is/are correct?<br><br>1. Persian was the official court language of the Delhi Sultanate but not the Mughals.<br>2. Persian was the official court language of both the Delhi Sultanate and the Mughal Empire.<br>3. Baburnama was written in Persian as the official Mughal administrative gazetteer.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Only 2 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is incorrect:** Persian (*Farsi*) served as the official administrative and court language for **both** the Delhi Sultanate and the Mughal Empire. It was not discarded by the Mughals; rather, under Akbar (formalized by Raja Todar Mal), Persian proficiency was made mandatory for all revenue officers (*patwaris*, *amils*, *diwans*) down to the village level.
@@ -438,32 +419,32 @@ D. 1 and 2
 - **Statement 3 is incorrect:** *Baburnama* (*Tuzk-e-Babri*) was composed in **Chagatai Turki**, Babur's native Central Asian language, and was an intimate personal memoir, not an official administrative gazetteer. The official administrative statistical gazetteer was the *Ain-i-Akbari*, written in **Persian** by Abul Fazl.
 
 **Key Exam Takeaway / Trap:**
-- *Court Language Continuity:* Persian was the sole court language of both Sultanate and Mughal empires. *Baburnama* is an isolated literary exception written in Chagatai Turki, not Persian.
+- *Court Language Continuity:* Persian was the sole court language of both Sultanate and Mughal empires. *Baburnama* is an isolated literary exception written in Chagatai Turki, not Persian.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.** Match List-I with List-II:
-
-| List-I (Book) | List-II (Author) |
-|---------------|------------------|
-| A. Tabaqat-i-Nasiri | 1. Ziauddin Barani |
-| B. Tarikh-i-Firoz Shahi | 2. Minhaj-us-Siraj |
-| C. Kitab-ul-Hind | 3. Alberuni |
-| D. Taj-ul-Maasir | 4. Hasan Nizami |
-
-*Row order is not the answer code.*
-
-Code:
-
-A. A-1, B-2, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-3, B-1, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (A-2, B-1, C-3, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Book)</th><th>List-II (Author)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Tabaqat-i-Nasiri</td><td><span class="match-key">1</span> Ziauddin Barani</td></tr>
+      <tr><td><span class="match-key">B</span> Tarikh-i-Firoz Shahi</td><td><span class="match-key">2</span> Minhaj-us-Siraj</td></tr>
+      <tr><td><span class="match-key">C</span> Kitab-ul-Hind</td><td><span class="match-key">3</span> Alberuni</td></tr>
+      <tr><td><span class="match-key">D</span> Taj-ul-Maasir</td><td><span class="match-key">4</span> Hasan Nizami</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*<br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (A-2, B-1, C-3, D-4)
 
 **Detailed Explanation:**
 - **A. Tabaqat-i-Nasiri → 2. Minhaj-us-Siraj Juzjani:** Written in Persian and completed in 1260 CE, dedicated to Sultan Nasiruddin Mahmud; essential source for the Ghorid invasions and early Delhi Sultanate history.
@@ -472,25 +453,22 @@ D. A-3, B-1, C-2, D-4
 - **D. Taj-ul-Maasir → 4. Hasan Nizami:** The first official history of the Delhi Sultanate, composed in mixed Persian prose and verse, detailing the campaigns of Muhammad Ghori and Qutbuddin Aibak from 1191 to 1217 CE.
 
 **Key Exam Takeaway / Trap:**
-- *Matching Code:* A-2, B-1, C-3, D-4 (**Option B**). Remember that Shams-i-Siraj Afif *also* authored a *Tarikh-i-Firoz Shahi*, but in standard pairing with Barani, Barani is paired here.
+- *Matching Code:* A-2, B-1, C-3, D-4 (**Option B**). Remember that Shams-i-Siraj Afif *also* authored a *Tarikh-i-Firoz Shahi*, but in standard pairing with Barani, Barani is paired here.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): In this chapter’s teaching map, Tughlaqnama is paired with Barani.
-
-Reason (R): Rihla is Ibn Battuta’s travelogue, not a Tughlaq court chronicle by Battuta under that title.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is NOT the correct explanation of (A))
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): In this chapter’s teaching map, Tughlaqnama is paired with Barani.<br><br>Reason (R): Rihla is Ibn Battuta’s travelogue, not a Tughlaq court chronicle by Battuta under that title.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Both (A) and (R) are true, but (R) is NOT the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** In syllabus study matrices and comparative teaching modules, students often review *Tughlaqnama* alongside Ziauddin Barani's Tughlaq-era narratives (*Tarikh-i-Firoz Shahi* and *Fatwa-i-Jahandari*). *(Note: Historically, the poetic masnavi Tughlaqnama was authored by Amir Khusrau in 1320 CE).*
@@ -498,26 +476,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Why (R) does NOT explain (A):** Clarifying that Ibn Battuta wrote *Rihla* is an independent bibliographical fact that eliminates Ibn Battuta as an author of *Tughlaqnama*, but it does not causally explain the curricular categorization or authorship grouping in teaching tables.
 
 **Key Exam Takeaway / Trap:**
-- *Primary Distractor:* When UPPCS tests *Tughlaqnama*, Ibn Battuta is frequently presented as a false option because he lived in Muhammad bin Tughlaq's court. Always remember: *Rihla* = Ibn Battuta; *Tughlaqnama* = Amir Khusrau.
+- *Primary Distractor:* When UPPCS tests *Tughlaqnama*, Ibn Battuta is frequently presented as a false option because he lived in Muhammad bin Tughlaq's court. Always remember: *Rihla* = Ibn Battuta; *Tughlaqnama* = Amir Khusrau.</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.** Arrange the following Akbar-circle deaths in chronological order:
-
-1. Abul Fazl murdered (1602)
-2. Faizi (1595)
-3. Daniyal (1604)
-4. Sheikh Mubarak (1597)
-
-A. 4–2–1–3
-B. 2–1–4–3
-C. 2–4–1–3
-D. 2–4–3–1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (2–4–1–3: Faizi → Sheikh Mubarak → Abul Fazl murdered → Daniyal)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Akbar-circle deaths in chronological order:<br><br>1. Abul Fazl murdered (1602)<br>2. Faizi (1595)<br>3. Daniyal (1604)<br>4. Sheikh Mubarak (1597)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4–2–1–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–1–4–3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–4–1–3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–4–3–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (2–4–1–3: Faizi → Sheikh Mubarak → Abul Fazl murdered → Daniyal)
 
 **Detailed Explanation:**
 - **2. Death of Faizi (1595 CE):** Shaikh Abu al-Faiz (Faizi), the poet laureate of Akbar's court and elder brother of Abul Fazl, died in October 1595 CE.
@@ -527,25 +501,22 @@ D. 2–4–3–1
 - **Chronological Sequence:** 2 (Faizi, 1595) → 4 (Mubarak, 1597) → 1 (Abul Fazl, 1602) → 3 (Daniyal, 1604) = **2–4–1–3**.
 
 **Key Exam Takeaway / Trap:**
-- *Anchor Sequence:* Faizi (1595) died first, followed by father Mubarak (1597), then Abul Fazl's murder (1602), and finally Prince Daniyal (1604).
+- *Anchor Sequence:* Faizi (1595) died first, followed by father Mubarak (1597), then Abul Fazl's murder (1602), and finally Prince Daniyal (1604).</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.** Which of the following pairs is/are NOT correctly matched?
-
-1. Akbarnama — Abul Fazl narrative history
-2. Ain-i-Akbari — Abul Fazl admin gazetteer
-3. Ain-i-Akbari — Gulbadan Begum’s memoir
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1 and 2 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3 only is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Akbarnama — Abul Fazl narrative history<br>2. Ain-i-Akbari — Abul Fazl admin gazetteer<br>3. Ain-i-Akbari — Gulbadan Begum’s memoir</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3 only is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** *Akbarnama* is the official imperial history composed in Persian by Abul Fazl in three volumes, detailing Akbar's ancestors and the detailed year-by-year narrative of his reign.
@@ -553,25 +524,22 @@ D. 1 and 2 only
 - **Pair 3 is NOT correctly matched (Correct Answer):** Gulbadan Begum authored the **Humayunnama**, an intimate domestic account of the lives of Babur and Humayun. She did *not* write *Ain-i-Akbari*.
 
 **Key Exam Takeaway / Trap:**
-- *Author Attribution:* *Akbarnama* and *Ain-i-Akbari* = **Abul Fazl**; *Humayunnama* = **Gulbadan Begum**.
+- *Author Attribution:* *Akbarnama* and *Ain-i-Akbari* = **Abul Fazl**; *Humayunnama* = **Gulbadan Begum**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.** With reference to Amir Khusrau’s works, which statements is/are correct?
-
-1. Miftah-ul-Futuh covers Jalaluddin Khalji.
-2. Khazain-ul-Futuh covers Jalaluddin Khalji.
-3. Tutinama is also by Amir Khusrau.
-
-A. 1 and 2
-B. Only 1
-C. 2 and 3
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only 1 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Amir Khusrau’s works, which statements is/are correct?<br><br>1. Miftah-ul-Futuh covers Jalaluddin Khalji.<br>2. Khazain-ul-Futuh covers Jalaluddin Khalji.<br>3. Tutinama is also by Amir Khusrau.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Only 1 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** *Miftah-ul-Futuh* ("Key to Victories") was composed in Persian verse by Amir Khusrau in 1291 CE to chronicle the accession and military campaigns of Sultan **Jalaluddin Firuz Khalji** against Malik Chhajju and Ranthambore.
@@ -579,27 +547,22 @@ D. 1 and 3
 - **Statement 3 is incorrect:** *Tutinama* ("Tales of a Parrot") was authored and translated from the Sanskrit *Suka Saptati* by **Khwaja Ziya-ud-din Nakhshabi** in 1329–30 CE, not by Amir Khusrau.
 
 **Key Exam Takeaway / Trap:**
-- *Khalji Sultan Pairings in Khusrau:* **Miftah-ul-Futuh** = Jalaluddin Khalji; **Khazain-ul-Futuh** = Alauddin Khalji.
+- *Khalji Sultan Pairings in Khusrau:* **Miftah-ul-Futuh** = Jalaluddin Khalji; **Khazain-ul-Futuh** = Alauddin Khalji.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.** Consider the following vernacular pairs:
-
-1. Mulla Daud — Chandayan
-2. Damodar Kavi — Padmavati Katha
-3. Malik Muhammad Jaisi — Padmavat
-
-Which of the pairs given above is/are correctly matched?
-
-A. 1 and 2
-B. 1, 2 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (All 1, 2 and 3 are correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following vernacular pairs:<br><br>1. Mulla Daud — Chandayan<br>2. Damodar Kavi — Padmavati Katha<br>3. Malik Muhammad Jaisi — Padmavat<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (All 1, 2 and 3 are correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** Mulla Daud composed *Chandayan* (the romance of Lorik and Chanda) in 1379 CE in early Awadhi, widely celebrated as the foundational text of the Sufi *Premakhyan* tradition.
@@ -607,31 +570,28 @@ D. Only 1
 - **Pair 3 is correctly matched:** Malik Muhammad Jayasi composed the magnum opus *Padmavat* in 1540 CE in chaste Awadhi (during Sher Shah Suri's reign), depicting the allegorical quest of King Ratansen of Chittor for Rani Padmini.
 
 **Key Exam Takeaway / Trap:**
-- *Title Trap:* Distinguish between **Padmavati Katha** (Damodar Kavi, Rajasthani) and **Padmavat** (Malik Muhammad Jayasi, Awadhi).
+- *Title Trap:* Distinguish between **Padmavati Katha** (Damodar Kavi, Rajasthani) and **Padmavat** (Malik Muhammad Jayasi, Awadhi).</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Baburnama and Akbarnama are the same kind of text by the same author.
-
-Reason (R): Baburnama is Babur’s Chagatai Turki memoir, while Akbarnama is Abul Fazl’s Persian history of Akbar.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** ((A) is false, but (R) is true)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Baburnama and Akbarnama are the same kind of text by the same author.<br><br>Reason (R): Baburnama is Babur’s Chagatai Turki memoir, while Akbarnama is Abul Fazl’s Persian history of Akbar.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** ((A) is false, but (R) is true)
 
 **Detailed Explanation:**
 - **Assertion (A) is completely false:** *Baburnama* and *Akbarnama* are fundamentally different in author, language, style, and literary genre. *Baburnama* is an autobiographical memoir written directly by the ruler himself (Babur), while *Akbarnama* is an official commissioned panegyric history composed by court scholar Abul Fazl.
 - **Reason (R) is completely true:** *Baburnama* (*Tuzk-e-Babri*) was composed by Babur in **Chagatai Turki**, recording personal impressions and candid reflections. *Akbarnama* was authored by **Abul Fazl** in ornate **Persian**, functioning as the authorized narrative history of Akbar's empire.
 
 **Key Exam Takeaway / Trap:**
-- *Genre Difference:* Autobiography/Memoir (*Tuzk-e-Babri*, *Tuzuk-i-Jahangiri*) vs Court-commissioned official chronicle (*Akbarnama*, *Padshahnama*, *Alamgirnama*).
-
-</details>
+- *Genre Difference:* Autobiography/Memoir (*Tuzk-e-Babri*, *Tuzuk-i-Jahangiri*) vs Court-commissioned official chronicle (*Akbarnama*, *Padshahnama*, *Alamgirnama*).</div>
+  </div>
+</div>

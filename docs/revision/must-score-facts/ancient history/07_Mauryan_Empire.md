@@ -169,6 +169,16 @@ hide:
 48. **Lauriya-Nandangarh Pillar (Bihar)**: Carries a single lion capital and a row of flying geese (*Hamsas*) etched on the abacus, preserved intact in its original location.
 49. **Didarganj Yakshi (Patna)**: Life-size polished sandstone sculpture of a female fly-whisk bearer (*Chauri-bearer*) with high mirror finish; masterpiece of Mauryan court art.
 50. **Mauryan Mint & Coinage**: State mint was managed by the **Lakshanadhyaksha**; standard currency was the silver **Pana** (3/4 tola punch-marked coin bearing sun, six-arm wheel, crescent-on-hill, and peacock motifs), and the copper **Mashaka** and **Kakanika**.
+51. **Foundation of Mauryan Empire (321 BCE):** **Chandragupta Maurya** overthrown the tyrannical last Nanda King, **Dhana Nanda**, with the strategic genius of his mentor **Chanakya (Kautilya / Vishnugupta)**; established capital at Pataliputra; unified Northern and Central India under single imperial rule.
+52. **War with Seleucus Nicator (305 BCE):** Chandragupta defeated Seleucus I Nicator (Alexander's general in Syria/Babylon); treaty signed: Seleucus ceded four satrapies—**Aria (Herat), Arachosia (Kandahar), Gedrosia (Baluchistan), and Paropamisadae (Kabul)**; Chandragupta gifted Seleucus **500 war elephants**; Seleucus sent Greek ambassador **Megasthenes** to Pataliputra court; matrimonial alliance concluded.
+53. **Megasthenes' Indica (Key Observations):** Described Pataliputra as a magnificent wooden palisade city with 64 gates and 570 towers surrounded by deep moat; recorded that Indian society was divided into **7 classes / castes**: (1) Philosophers, (2) Farmers/Cultivators (largest class), (3) Herdsmen/Shepherds, (4) Artisans/Traders, (5) Soldiers/Military, (6) Overseers/Superintendents, (7) Councillors/Assessors; noted **absence of slavery** and usury in India (misperception due to humane treatment); described administration of Pataliputra managed by **6 boards of 5 members each** (30 commissioners).
+54. **Kautilya's Arthashastra:** Monumental Sanskrit treatise on statecraft, economic policy, and military strategy; divided into **15 Books (Adhikaranas)** and 180 chapters; discovered in 1905 and published in 1909 by **R. Shamasastry**; expounds the **Saptanga Theory of the State (7 Limbs)**: (1) *Swami* (The King/Ruler), (2) *Amatya* (Ministers/Bureaucracy), (3) *Janapada* (Territory and Population), (4) *Durga* (Fortified Capital), (5) *Kosa* (Treasury), (6) *Danda / Bala* (Army/Military), (7) *Mitra* (Allies).
+55. **Mauryan Administration & Key Officials (Adhyakshas):** King assisted by *Mantriparishad*; (1) *Samaharta*: Collector General of Revenue / Chief Tax Officer; (2) *Sannidhata*: Chief Treasury Officer / Royal Storekeeper; (3) *Sitadhyaksha*: Superintendent of Crown Agricultural Lands (*Sita*); (4) *Pautavadhyaksha*: Superintendent of Weights and Measures; (5) *Panyadhyaksha*: Superintendent of Commerce; (6) *Akaradhyaksha*: Superintendent of Mines; (7) *Lavanadhyaksha*: Superintendent of Salt; (8) *Navadhyaksha*: Superintendent of Shipping; (9) *Sulkaadhyaksha*: Collector of Tolls/Customs; (10) *Dhammamahamatras*: Special moral/religious welfare officers created by Ashoka in his 14th regnal year.
+56. **Chandragupta's Later Life & Sallekhana:** Converted to Jainism under influence of Acharya **Bhadrabahu**; abdicated throne in favor of son Bindusara; accompanied Bhadrabahu to South India during 12-year famine in Magadha; ended his life by voluntary ritual starvation (**Sallekhana / Santhara**) at **Chandragiri Hill, Shravanabelagola (Karnataka)** in ~298 BCE.
+57. **Bindusara (Amitraghata / Amitrochates):** Reigned 298–273 BCE; title **Amitraghata** means 'Slayer of Foes'; supported the **Ajivika sect** (propounded by Makkhali Gosala, believing in *Niyati* / absolute determinism); Greek king Antiochus I of Syria sent ambassador **Deimachus**; Egyptian king Ptolemy II Philadelphus sent ambassador **Dionysius**; Bindusara requested Antiochus I to send sweet wine, dried figs, and a sophist/philosopher (Antiochus sent wine and figs but replied that Greek law forbade selling philosophers).
+58. **Ashoka's Kalinga War (261 BCE):** Fought in Ashoka's **8th regnal year (9th year after coronation)**; bloodiest campaign in ancient India; described graphically in **Major Rock Edict XIII (MRE XIII)**: 100,000 slain, 150,000 captured, and many died of famine and disease; sight of carnage caused profound remorse (*Anushochana*); transformed Ashoka from **Bherighosha** (war drums) to **Dhammaghosha** (sound of righteousness); converted to Buddhism by monk **Upagupta**.
+59. **Decipherment of Ashokan Inscriptions:** First deciphered in **1837** by **James Prinsep** (Founding Secretary of Asiatic Society of Bengal), who identified the mysterious ruler referred to as **'Devanampiya Piyadasi'** ('Beloved of the Gods, of Gracious Mien') as Emperor Ashoka.
+60. **Languages & Scripts of Ashokan Edicts:** Written in 4 scripts and 3 languages: (1) **Brahmi script in Prakrit language:** Used throughout India; written left to right; (2) **Kharosthi script:** Used in North-West India (Shahbazgarhi and Mansehra in Pakistan); derived from Aramaic; written right to left; (3) **Aramaic and Greek scripts:** Used in bilingual inscriptions at **Kandahar (Shar-i-Kuna, Afghanistan)** and Taxila.
 
 ## ⏱️ Timeline / Chronology
 
@@ -247,35 +257,13 @@ c. 250 BCE ── Third Buddhist Council at Pataliputra (Moggaliputta Tissa; Abh
 | **Prachya / Magadha** | Eastern / Central Core | **Pataliputra** | Patna / South Bihar |
 | **Kalinga** | Annexed Eastern Coast | **Tosali** (or Dhauli) | Coastal Odisha |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Chandragupta Maurya (321 BCE)**| **Chandragupta I (319 CE)** | Mauryan empire founder vs Imperial Gupta dynasty starter (separated by ~640 years) | चंद्रगुप्त मौर्य / चंद्रगुप्त प्रथम |
-| **Bimbisara** | **Bindusara** | Haryanka founder (6th c. BCE, Buddha contemporary) vs Ashoka's father (3rd c. BCE, Amitraghata) | बिम्बिसार / बिन्दुसार |
-| **Samaharta** | **Sannidhata** | Revenue Collector General (assesses taxes & budget) vs Chief Treasury Officer (custody of storehouses) | समाहर्ता / सन्निधाता |
-| **Astynomoi** | **Agronomoi** | 30 City officials of Pataliputra (6 boards) vs Rural/district officers (irrigation, roads, land) | एस्टीनोमोई / एग्रोनोमोई |
-| **Major Rock Edict II** | **Major Rock Edict XIII** | Mentions southern kingdoms for hospitals/medicine vs Mentions 5 Greek kings for victory of Dhamma | द्वितीय शिलालेख / तेरहवां शिलालेख |
-| **Sohgaura (Gorakhpur)** | **Mahasthangarh (Bogura)** | Copper-plate famine relief record in UP vs Limestone plaque famine relief record in Bangladesh | सोहगौरा / महास्थानगढ़ |
-| **Brahmi Script** | **Kharosthi Script** | Written left-to-right (used across India) vs Written right-to-left (used at Shahbazgarhi & Mansehra) | ब्राह्मी / खरोष्ठी |
-| **Barabar Caves** | **Sarnath Stupa** | Ashokan rock-cut caves gifted to **Ajivikas** vs Buddhist brick stupa marking First Sermon | बराबर गुफाएं / सारनाथ स्तूप |
-| **Rummindei Pillar** | **Bhabru Edict** | Records tax reduction at Lumbini (*Bhaga 1/8th*) vs Proclaims faith in Buddha, Dhamma, Sangha | रुम्मिनदेई / भाब्रू |
-| **Kalsi (Dehradun)** | **Sarnath (Varanasi)** | Only Major Rock Edict in Uttarakhand vs Major Pillar Edict & Lion Capital in UP | कालसी / सारनाथ |
-| **Dharmasthiya** | **Kantakashodhana** | Mauryan civil court (marriage, debt, boundary) vs Mauryan criminal court (theft, treason, murder) | धर्मस्थीय / कंटकशोधन |
-| **Sanstha spies** | **Sanchara spies** | Stationary intelligence agents (monks, merchants) vs Roving/wandering agents (poisoners, assassins) | संस्था / संचार |
-| **Sita** | **Bhaga** | Revenue from crown-owned agricultural lands vs Standard 1/6th tax on private agricultural produce | सीता / भाग |
-| **Megasthenes 7 Castes** | **Vedic 4 Varnas** | Social/occupational division in *Indica* vs Traditional four-fold religious varna hierarchy | 7 जातियां (मेगस्थनीज) / 4 वर्ण |
-| **Brihadratha** | **Pushyamitra Shunga** | Last Mauryan emperor assassinated in 185 BCE vs Brahmin Commander-in-Chief who overthrew him | बृहद्रथ / पुष्यमित्र शुंग |
-| **Kalinga War (261 BCE)** | **Ashoka Coronation (268 BCE)**| Fought in 8th regnal year vs Took place 4 years after accession due to succession war | कलिंग युद्ध / अशोक राज्याभिषेक |
-| **Southern Kingdoms** | **Mauryan Provinces** | Cholas, Pandyas, Cheras were independent allies vs Tosali, Taxila, Ujjain, Suvarnagiri were provinces | दक्षिण के राज्य / मौर्य प्रांत |
-| **James Prinsep (1837)** | **William Jones (1793)** | Decipherer of Ashoka's Brahmi script vs Scholar who identified Sandrokottos with Chandragupta | जेम्स प्रिंसेप / विलियम जोन्स |
-| **Pana** | **Karshapana** | Standard silver coin in Arthashastra (3/4 tola) vs Generic punch-marked coin in Pali/Sanskrit | पण / कार्षापण |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Mauryan Imperial Big Three Succession:**
    - **Mnemonic:** **C - B - A**
-   - **Order:** **C**handragupta Maurya (321 BCE) $ightarrow$ **B**indusara (297 BCE) $ightarrow$ **A**shoka (268 BCE).
+   - **Order:** **C**handragupta Maurya (321 BCE) $
+ightarrow$ **B**indusara (297 BCE) $
+ightarrow$ **A**shoka (268 BCE).
 2. **Kautilya's Saptanga Theory (Seven Limbs of State):**
    - **Mnemonic:** **S - A - J - D - K - D - M**
    - **S**wami (King / Head)
@@ -286,8 +274,10 @@ c. 250 BCE ── Third Buddhist Council at Pataliputra (Moggaliputta Tissa; Abh
    - **D**anda (Army & Justice / Brain)
    - **M**itra (Allies / Ears)
 3. **Mauryan Treasury vs Revenue Pair:**
-   - **Samaharta** = **S - R** $ightarrow$ **S**ums **R**evenue (Assesses taxes and plans budget).
-   - **Sannidhata** = **S - T** $ightarrow$ **S**tores in **T**reasury (Custody of state vaults and granaries).
+   - **Samaharta** = **S - R** $
+ightarrow$ **S**ums **R**evenue (Assesses taxes and plans budget).
+   - **Sannidhata** = **S - T** $
+ightarrow$ **S**tores in **T**reasury (Custody of state vaults and granaries).
 4. **The Five Hellenistic Kings of Major Rock Edict XIII:**
    - **A - P - A - M - A** (*"All Pious Ashokan Missions Abroad"*)
    - **A**ntiochus II Theos (Syria)
@@ -296,293 +286,278 @@ c. 250 BCE ── Third Buddhist Council at Pataliputra (Moggaliputta Tissa; Abh
    - **M**agas (Cyrene)
    - **A**lexander (Epirus)
 5. **The Five Mauryan Provinces & Capitals:**
-   - North $ightarrow$ **Taxila**
-   - West $ightarrow$ **Ujjain**
-   - South $ightarrow$ **Suvarnagiri**
-   - East $ightarrow$ **Tosali**
-   - Central $ightarrow$ **Pataliputra**
+   - North $
+ightarrow$ **Taxila**
+   - West $
+ightarrow$ **Ujjain**
+   - South $
+ightarrow$ **Suvarnagiri**
+   - East $
+ightarrow$ **Tosali**
+   - Central $
+ightarrow$ **Pataliputra**
 
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Consider the following statements with respect to Ashoka:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with respect to Ashoka:<br><br>1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".<br>2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.<br><br>A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2.** Dhamma-mahamatras in the 14th year. *Rahulovada* definition is false.</div>
+  </div>
+</div>
 
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
-2. In the 14th year of his coronation, Ashoka appointed a new type of staff, called Dhamma-mahamatras.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to the Puranas, which one of the following statements is correct?<br><br>1. Information about the Mauryan dynasty is found in the Vishnu Purana.<br>2. Vayu Purana throws light on the Gupta system of governance.<br><br>A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1.</div>
+  </div>
+</div>
 
-A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following Rock Edicts of Ashoka speaks of religious synthesis?<br><br>A. Rock Edict XI B. Rock Edict XII C. Rock Edict XIII D. Rock Edict II</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> XII.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The official 'Agronomai' during Mauryan age was related with which of the following field?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Weight and measurement</div><div class="pyq-opt"><span class="opt-letter">B</span> Administrative management</div><div class="pyq-opt"><span class="opt-letter">C</span> Construction of roads</div><div class="pyq-opt"><span class="opt-letter">D</span> Revenue management</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Revenue management.</div>
+  </div>
+</div>
 
-**Ans: D — Only 2.** Dhamma-mahamatras in the 14th year. *Rahulovada* definition is false.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which ancient city was named ‘Palibothra’ in the Greek texts?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Purushpur</div><div class="pyq-opt"><span class="opt-letter">B</span> Patan</div><div class="pyq-opt"><span class="opt-letter">C</span> Ahichhatrapur</div><div class="pyq-opt"><span class="opt-letter">D</span> Pataliputra</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Greek spelling of the Mauryan capital; Purushapura is the Peshawar distractor.
 
-</details>
+**Ans: D (Series B provisional key).** Greek writers call Pataliputra **Palibothra**. Purushapura is Peshawar.</div>
+  </div>
+</div>
 
-**Q2.**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements with reference to the inscriptions of Ashoka:<br><br>1. Most of the inscriptions are in the Prakrit language and Brahmi script.<br>2. The inscriptions found at Mansehra and Shahbazgarhi are in the Prakrit language and Kharoshthi script.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Default Ashokan package is Prakrit + Brahmi; NW exceptions use Kharoshthi.
 
-With reference to the Puranas, which one of the following statements is correct?
+**Ans: C (Series B provisional key).** Statement 1 is the general rule. Statement 2 is the north-western exception pair.</div>
+  </div>
+</div>
 
-1. Information about the Mauryan dynasty is found in the Vishnu Purana.
-2. Vayu Purana throws light on the Gupta system of governance.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1.**
-
-</details>
-
-**Q3.**
-
-Which of the following Rock Edicts of Ashoka speaks of religious synthesis?
-
-A. Rock Edict XI B. Rock Edict XII C. Rock Edict XIII D. Rock Edict II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — XII.**
-
-</details>
-
-**Q4.**
-
-The official 'Agronomai' during Mauryan age was related with which of the following field?
-
-A. Weight and measurement
-B. Administrative management
-C. Construction of roads
-D. Revenue management
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Revenue management.**
-
-</details>
-
-**Q5.**
-
-Which ancient city was named ‘Palibothra’ in the Greek texts?
-
-A. Purushpur
-B. Patan
-C. Ahichhatrapur
-D. Pataliputra
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Greek spelling of the Mauryan capital; Purushapura is the Peshawar distractor.
-
-**Ans: D (Series B provisional key).** Greek writers call Pataliputra **Palibothra**. Purushapura is Peshawar.
-
-</details>
-
-**Q6.**
-
-Consider the following statements with reference to the inscriptions of Ashoka:
-
-1. Most of the inscriptions are in the Prakrit language and Brahmi script.
-2. The inscriptions found at Mansehra and Shahbazgarhi are in the Prakrit language and Kharoshthi script.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Default Ashokan package is Prakrit + Brahmi; NW exceptions use Kharoshthi.
-
-**Ans: C (Series B provisional key).** Statement 1 is the general rule. Statement 2 is the north-western exception pair.
-
-</details>
-
-**Q7.**
-
-Kautilya was the prime minister of —
-
-A. Chandragupta II Vikramaditya
-B. Ashoka
-C. Chandragupta Maurya
-D. Bindusara
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests Maurya vs Gupta Chandragupta identity for Chanakya’s king.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Kautilya was the prime minister of —</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chandragupta II Vikramaditya</div><div class="pyq-opt"><span class="opt-letter">B</span> Ashoka</div><div class="pyq-opt"><span class="opt-letter">C</span> Chandragupta Maurya</div><div class="pyq-opt"><span class="opt-letter">D</span> Bindusara</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tests Maurya vs Gupta Chandragupta identity for Chanakya’s king.
 
 **Ans: C.** Kautilya (Chanakya) was the prime minister of **Chandragupta Maurya**.
 
-**Trap:** Choosing Gupta **Chandragupta II Vikramaditya** because both names share “Chandragupta.”
+**Trap:** Choosing Gupta **Chandragupta II Vikramaditya** because both names share “Chandragupta.”</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-The childhood / alternate name of Chanakya was —
-
-A. Vishakhadatta
-B. Kamandaka
-C. Vishnugupta
-D. Shamasastry
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Alternate name of Chanakya / Kautilya, not author of *Mudrarakshasa* or the modern editor.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The childhood / alternate name of Chanakya was —</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Vishakhadatta</div><div class="pyq-opt"><span class="opt-letter">B</span> Kamandaka</div><div class="pyq-opt"><span class="opt-letter">C</span> Vishnugupta</div><div class="pyq-opt"><span class="opt-letter">D</span> Shamasastry</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Alternate name of Chanakya / Kautilya, not author of *Mudrarakshasa* or the modern editor.
 
 **Ans: C.** Chanakya is also called **Vishnugupta**.
 
-**Trap:** Picking **Vishakhadatta** (*Mudrarakshasa*) or **Shamasastry** (modern discoverer of the *Arthashastra*).
+**Trap:** Picking **Vishakhadatta** (*Mudrarakshasa*) or **Shamasastry** (modern discoverer of the *Arthashastra*).</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-*Arthashastra* is a book on —
-
-A. Principles of Grammar
-B. Principles of Medicine
-C. Principles of Religion
-D. Principles of Government
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Nature of Kautilya’s treatise — polity and statecraft, not a dharmashastra or medical manual.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">*Arthashastra* is a book on —</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Principles of Grammar</div><div class="pyq-opt"><span class="opt-letter">B</span> Principles of Medicine</div><div class="pyq-opt"><span class="opt-letter">C</span> Principles of Religion</div><div class="pyq-opt"><span class="opt-letter">D</span> Principles of Government</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Nature of Kautilya’s treatise — polity and statecraft, not a dharmashastra or medical manual.
 
 **Ans: D.** The *Arthashastra* deals with **Principles of Government**.
 
-**Trap:** Reading “artha” as only wealth/trade and missing the statecraft frame.
+**Trap:** Reading “artha” as only wealth/trade and missing the statecraft frame.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.**
-
-According to the Saptanga theory, the seventh limb of the state is —
-
-A. Durga
-B. Kosha
-C. Mitra
-D. Danda
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Order of seven *prakritis*: Swami, Amatya, Janapada, Durga, Kosha, Danda, **Mitra**.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">According to the Saptanga theory, the seventh limb of the state is —</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Durga</div><div class="pyq-opt"><span class="opt-letter">B</span> Kosha</div><div class="pyq-opt"><span class="opt-letter">C</span> Mitra</div><div class="pyq-opt"><span class="opt-letter">D</span> Danda</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Order of seven *prakritis*: Swami, Amatya, Janapada, Durga, Kosha, Danda, **Mitra**.
 
 **Ans: C.** The seventh Saptanga limb is **Mitra** (ally).
 
-**Trap:** Stopping at **Danda** (army) as if it were the last limb.
+**Trap:** Stopping at **Danda** (army) as if it were the last limb.</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.**
-
-Deimachus came to the Mauryan court in the reign of —
-
-A. Chandragupta Maurya
-B. Bindusara
-C. Ashoka
-D. Dasharatha
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Successor ambassadors after Megasthenes — Deimachus under Bindusara; Dionysius under Ashoka’s age contacts.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Deimachus came to the Mauryan court in the reign of —</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chandragupta Maurya</div><div class="pyq-opt"><span class="opt-letter">B</span> Bindusara</div><div class="pyq-opt"><span class="opt-letter">C</span> Ashoka</div><div class="pyq-opt"><span class="opt-letter">D</span> Dasharatha</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Successor ambassadors after Megasthenes — Deimachus under Bindusara; Dionysius under Ashoka’s age contacts.
 
 **Ans: B.** Deimachus came in the reign of **Bindusara**.
 
-**Trap:** Assigning every Greek envoy to **Chandragupta** because of Megasthenes.
+**Trap:** Assigning every Greek envoy to **Chandragupta** because of Megasthenes.</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.**
-
-Archaeological remains at Kumrahar and Bulandibagh are associated with —
-
-A. Taxila
-B. Ujjain
-C. Pataliputra
-D. Tosali
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Excavation sites of the Mauryan capital’s wooden palisade and pillared hall.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Archaeological remains at Kumrahar and Bulandibagh are associated with —</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Taxila</div><div class="pyq-opt"><span class="opt-letter">B</span> Ujjain</div><div class="pyq-opt"><span class="opt-letter">C</span> Pataliputra</div><div class="pyq-opt"><span class="opt-letter">D</span> Tosali</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Excavation sites of the Mauryan capital’s wooden palisade and pillared hall.
 
 **Ans: C.** Kumrahar and Bulandibagh belong to **Pataliputra**.
 
-**Trap:** Linking any Mauryan dig automatically to **Taxila**.
+**Trap:** Linking any Mauryan dig automatically to **Taxila**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.**
-
-Which of the following inscriptions proves Chandragupta Maurya’s sway over western India?
-
-A. Rummindei pillar of Ashoka
-B. Hathigumpha inscription of Kharavela
-C. Junagadh inscription of Rudradaman
-D. Allahabad pillar of Samudragupta
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Later Junagadh text recalls Pushyagupta constructing Sudarshana under Chandragupta Maurya.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following inscriptions proves Chandragupta Maurya’s sway over western India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Rummindei pillar of Ashoka</div><div class="pyq-opt"><span class="opt-letter">B</span> Hathigumpha inscription of Kharavela</div><div class="pyq-opt"><span class="opt-letter">C</span> Junagadh inscription of Rudradaman</div><div class="pyq-opt"><span class="opt-letter">D</span> Allahabad pillar of Samudragupta</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Later Junagadh text recalls Pushyagupta constructing Sudarshana under Chandragupta Maurya.
 
 **Ans: C.** The **Junagadh inscription of Rudradaman** records that western sway.
 
-**Trap:** Using Ashoka’s Rummindei or Gupta Allahabad as the western Maurya proof.
+**Trap:** Using Ashoka’s Rummindei or Gupta Allahabad as the western Maurya proof.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.**
-
-Chandragupta Maurya defeated Seleucus Nicator in about —
-
-A. 326 B.C.
-B. 321 B.C.
-C. 305 B.C.
-D. 273 B.C.
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Date of the Seleucid war and treaty after Chandragupta’s consolidation.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Chandragupta Maurya defeated Seleucus Nicator in about —</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 326 B.C.</div><div class="pyq-opt"><span class="opt-letter">B</span> 321 B.C.</div><div class="pyq-opt"><span class="opt-letter">C</span> 305 B.C.</div><div class="pyq-opt"><span class="opt-letter">D</span> 273 B.C.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Date of the Seleucid war and treaty after Chandragupta’s consolidation.
 
 **Ans: C.** The defeat / settlement is dated to about **305 B.C.**
 
-**Trap:** Confusing it with Alexander’s Indian campaign (**326 B.C.**) or Maurya founding (**c. 321 B.C.**).
+**Trap:** Confusing it with Alexander’s Indian campaign (**326 B.C.**) or Maurya founding (**c. 321 B.C.**).</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.**
-
-South Indian kingdoms are mentioned in which Ashokan record?
-
-A. First Major Rock Edict
-B. Second Major Rock Edict
-C. Twelfth Major Rock Edict
-D. Thirteenth Major Rock Edict
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Chola, Pandya, Satiyaputra, Keralaputra appear in RE II (and also in RE XIII’s neighbour list — stem asks the classic RE II hit).
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">South Indian kingdoms are mentioned in which Ashokan record?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> First Major Rock Edict</div><div class="pyq-opt"><span class="opt-letter">B</span> Second Major Rock Edict</div><div class="pyq-opt"><span class="opt-letter">C</span> Twelfth Major Rock Edict</div><div class="pyq-opt"><span class="opt-letter">D</span> Thirteenth Major Rock Edict</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Chola, Pandya, Satiyaputra, Keralaputra appear in RE II (and also in RE XIII’s neighbour list — stem asks the classic RE II hit).
 
 **Ans: B.** South Indian kingdoms are named in the **Second Major Rock Edict**.
 
-**Trap:** Jumping only to **RE XIII** because it also lists neighbouring peoples after Kalinga.
-
-</details>
+**Trap:** Jumping only to **RE XIII** because it also lists neighbouring peoples after Kalinga.</div>
+  </div>
+</div>

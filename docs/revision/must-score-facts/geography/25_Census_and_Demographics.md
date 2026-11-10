@@ -145,19 +145,6 @@ hide:
 | **Scheduled Caste %** | **Kaushambi (34.7%)** > Machhlishahr / Sitapur (32.3%) | **Baghpat (11.4%)** < Bareilly (12.5%) < Balrampur |
 | **Scheduled Tribe Population & %** | **Sonbhadra (3.85 Lakh / 20.7%)** > Ballia > Deoria | **Baghpat & Kannauj (Near zero)** < Badaun |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **UP Sex Ratio** | **India Sex Ratio** | **912 females / 1,000 males** in Uttar Pradesh vs **943 females / 1,000 males** All-India average | उप्र लिंगानुपात (912) / भारत (943) |
-| **UP Child Sex Ratio** | **India Child Sex Ratio** | **902 girls / 1,000 boys** in Uttar Pradesh vs **919 girls / 1,000 boys** All-India average | उप्र बाल लिंगानुपात (902) / भारत (919) |
-| **UP Population Density** | **India Population Density** | **829 persons / km²** in Uttar Pradesh (Rank 4 among states) vs **382 persons / km²** All-India average | उप्र जनघनत्व (829) / भारत (382) |
-| **Highest UP Sex Ratio** | **Lowest UP Sex Ratio** | **Jaunpur (1,024)**, Azamgarh (1,019), Deoria (1,017) vs **Gautam Buddha Nagar (851)** (Noida/industrial trap) | सर्वाधिक लिंगानुपात (जौनपुर) / न्यूनतम (गौतमबुद्ध नगर) |
-| **Highest UP Literacy** | **Lowest UP Literacy** | **Auraiya (78.9%)** / Kanpur Nagar (78.8%) vs **Shravasti (46.7%)** (lowest in total, male, and female!) | सर्वाधिक साक्षरता (औरैया) / न्यूनतम (श्रावस्ती) |
-| **Highest UP Density** | **Lowest UP Density** | **Ghaziabad (3,971/km²)** vs **Lalitpur (242/km²)** (Bundelkhand rock relief) | सर्वाधिक घनत्व (गाजियाबाद) / न्यूनतम (ललितपुर) |
-| **Highest SC Count (UP)** | **Highest SC Percentage (UP)** | **Sitapur (14.5 Lakh)** has highest absolute SC population vs **Kaushambi (34.7%)** has highest SC proportion | उप्र अनु. जाति संख्या (सीतापुर) / प्रतिशत (कौशाम्बी) |
-| **Highest ST Count (UP)** | **Lowest ST Count (UP)** | **Sonbhadra (3.85 Lakh / 20.7%)** leads both absolute and percentage vs **Baghpat and Kannauj** have lowest ST count | उप्र अनु. जनजाति (सोनभद्र) / न्यूनतम (बागपत) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. UP Top 3 Sex Ratio Districts: **J-A-D**
@@ -179,372 +166,357 @@ hide:
 - **Max Density**: **Ghaziabad** (3,971/km²)
 - **Min Density**: **Lalitpur** (242/km²)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-India’s population density in Census 2011 was:
-
-A. 324/km²
-B. 382/km²
-C. 829/km²
-D. 1106/km²
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** National density = **382**/km².
-
-**Logic:** 829 = UP; 1106 = Bihar; 324 echoes older rounds.
-
-</details>
-
-**Q2.**
-With reference to Census 2011, which of the following statements is/are correct?
-
-1. Sex ratio was 943.
-2. Child sex ratio was 919.
-3. Child sex ratio improved from 2001 to 2011.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** CSR fell from 927 to 919 — it worsened.
-
-</details>
-
-**Q3.**
-Highest SC proportion among States is usually keyed to:
-
-A. Uttar Pradesh
-B. Punjab
-C. Bihar
-D. West Bengal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Punjab** leads SC percentage; UP leads absolute SC count.
-
-**Logic:** Absolute vs proportion is the core trap.
-
-</details>
-
-**Q4.**
-Assertion (A): Madhya Pradesh has the highest absolute ST population.
-Reason (R): Punjab has the highest ST percentage among States/UTs.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A is true; R is false.
-
-**A/R logic:** Highest ST % tags are **Lakshadweep / Mizoram**; Punjab is in the zero-ST list.
-
-</details>
-
-**Q5.**
-Which State showed negative decadal growth in 2001–11?
-
-A. Kerala
-B. Goa
-C. Nagaland
-D. Sikkim
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Nagaland (−0.6%)**.
-
-**Logic:** Sikkim is least populous, not negative-growth.
-
-</details>
-
-**Q6.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (UP 2011) | List-II (District) |
-|---|---|
-| 1. Highest density | A. Ghaziabad |
-| 2. Highest sex ratio | B. Jaunpur |
-| 3. Lowest female literacy | C. Shrawasti |
-| 4. Highest CSR | D. Balrampur |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-A, 2-C, 3-B, 4-D
-D. 1-A, 2-B, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Standard UP district extremes.
-
-**Logic:** Row order is not the answer code.
-
-</details>
-
-**Q7.**
-First synchronous Census of India was in:
-
-A. 1872 under Lord Mayo
-B. 1881 under Lord Ripon
-C. 1921 under Lord Reading
-D. 1951 after Independence only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **1881** / Ripon is the first synchronous decennial Census.
-
-**Logic:** 1872 is first (non-synchronous) attempt.
-
-</details>
-
-**Q8.**
-Census is listed in the Constitution as:
-
-A. State List Entry
-B. Concurrent List Entry
-C. Union List Entry 69
-D. Not a scheduled subject
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Union List **Entry 69**; ORGI under MHA.
-
-**Logic:** Census Act 1948 is the statute frame.
-
-</details>
-
-**Q9.**
-Uttar Pradesh’s share of India’s population in 2011 was about:
-
-A. 8.6%
-B. 16.5%
-C. 31.2%
-D. 2.4%
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** About **16.5%** (19.98 crore).
-
-**Logic:** 8.6% is ST share; 31.2% is urban India; 2.4% is land area.
-
-</details>
-
-**Q10.**
-Which Uttarakhand districts showed negative decadal growth?
-
-A. Dehradun and Nainital
-B. Pauri Garhwal and Almora
-C. Haridwar and US Nagar
-D. Chamoli and Pithoragarh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Pauri Garhwal** and **Almora**.
-
-**Logic:** Hill out-migration / “ghost village” teaching tag.
-
-</details>
-
-**Q11.**
-Consider the following statements:
-
-1. Bihar has the highest State density.
-2. Arunachal Pradesh has the lowest State density.
-3. Delhi’s density can be used as the lowest density State answer.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Delhi is a UT extreme (very high), not a lowest-density State.
-
-</details>
-
-**Q12.**
-Literacy in Census 2011 is counted for age:
-
-A. 0–6
-B. 7+
-C. 18+
-D. 21+
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Age **7+**.
-
-**Logic:** School-enrolment ages are not the Census literacy cut.
-
-</details>
-
-**Q13.**
-Assertion (A): Highest population State and highest density State are the same in 2011.
-Reason (R): Uttar Pradesh is the most populous State while Bihar has the highest density.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A is false; R is true.
-
-**A/R logic:** Population crown ≠ density crown.
-
-</details>
-
-**Q14.**
-Number of million-plus UAs in Census 2011 was:
-
-A. 35
-B. 53
-C. 100
-D. 7
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **53** (up from 35 in 2001).
-
-**Logic:** 7 is UP’s million-city count, not the all-India UA total.
-
-</details>
-
-**Q15.**
-Which State has zero ST population in the usual 2011 list?
-
-A. Odisha
-B. Madhya Pradesh
-C. Punjab
-D. Meghalaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Punjab (with Haryana, Chandigarh, Delhi, Puducherry) is in the zero-ST set.
-
-**Logic:** Zero-SC and zero-ST lists differ.
-
-</details>
-
-**Q16.**
-UP’s overall sex ratio in 2011 was:
-
-A. 943
-B. 912
-C. 919
-D. 902
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** UP = **912**; India = 943; UP CSR = 902.
-
-**Logic:** Keep State vs national vs CSR numbers apart.
-
-</details>
-
-**Q17.**
-Year of the Great Divide is:
-
-A. 1872
-B. 1881
-C. 1921
-D. 1951
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **1921** (negative growth).
-
-**Logic:** 1872/1881 are first-census chronology; 1951 is first after Independence.
-
-</details>
-
-**Q18.**
-Which of the following pairs is/are correctly matched?
-
-1. Highest urban % State — Goa
-2. Lowest urban % State — Himachal Pradesh
-3. Highest absolute urban population — Uttar Pradesh
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Highest absolute urban population = **Maharashtra**, not UP.
-
-</details>
-
-**Q19.**
-Arrange chronologically:
-
-1. Census Act
-2. First synchronous Census
-3. Great Divide year
-4. Census 2011
-
-A. 2–1–3–4
-B. 1–2–3–4
-C. 2–3–1–4
-D. 2–1–4–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Synchronous Census **1881** → Great Divide **1921** → Census Act **1948** → Census **2011**.
-
-**Logic:** The Act is 1948, after 1921.
-
-</details>
-
-**Q20.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Kerala — highest State sex ratio
-B. Haryana — lowest State CSR
-C. Bihar — lowest State literacy
-D. Sikkim — lowest State density
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Lowest State density = **Arunachal Pradesh**; Sikkim is least populous.
-
-**Logic:** Population vs density crowns differ.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">India’s population density in Census 2011 was:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 324/km²</div><div class="pyq-opt"><span class="opt-letter">B</span> 382/km²</div><div class="pyq-opt"><span class="opt-letter">C</span> 829/km²</div><div class="pyq-opt"><span class="opt-letter">D</span> 1106/km²</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> National density = **382**/km².
+
+**Logic:** 829 = UP; 1106 = Bihar; 324 echoes older rounds.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to Census 2011, which of the following statements is/are correct?<br><br>1. Sex ratio was 943.<br>2. Child sex ratio was 919.<br>3. Child sex ratio improved from 2001 to 2011.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** CSR fell from 927 to 919 — it worsened.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Highest SC proportion among States is usually keyed to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Punjab</div><div class="pyq-opt"><span class="opt-letter">C</span> Bihar</div><div class="pyq-opt"><span class="opt-letter">D</span> West Bengal</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Punjab** leads SC percentage; UP leads absolute SC count.
+
+**Logic:** Absolute vs proportion is the core trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Madhya Pradesh has the highest absolute ST population.<br>Reason (R): Punjab has the highest ST percentage among States/UTs.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is true; R is false.
+
+**A/R logic:** Highest ST % tags are **Lakshadweep / Mizoram**; Punjab is in the zero-ST list.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which State showed negative decadal growth in 2001–11?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">B</span> Goa</div><div class="pyq-opt"><span class="opt-letter">C</span> Nagaland</div><div class="pyq-opt"><span class="opt-letter">D</span> Sikkim</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nagaland (−0.6%)**.
+
+**Logic:** Sikkim is least populous, not negative-growth.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (UP 2011)</th><th>List-II (District)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Highest density</td><td><span class="match-key">A</span> Ghaziabad</td></tr>
+      <tr><td><span class="match-key">2</span> Highest sex ratio</td><td><span class="match-key">B</span> Jaunpur</td></tr>
+      <tr><td><span class="match-key">3</span> Lowest female literacy</td><td><span class="match-key">C</span> Shrawasti</td></tr>
+      <tr><td><span class="match-key">4</span> Highest CSR</td><td><span class="match-key">D</span> Balrampur</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-A, 2-C, 3-B, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UP district extremes.
+
+**Logic:** Row order is not the answer code.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">First synchronous Census of India was in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1872 under Lord Mayo</div><div class="pyq-opt"><span class="opt-letter">B</span> 1881 under Lord Ripon</div><div class="pyq-opt"><span class="opt-letter">C</span> 1921 under Lord Reading</div><div class="pyq-opt"><span class="opt-letter">D</span> 1951 after Independence only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1881** / Ripon is the first synchronous decennial Census.
+
+**Logic:** 1872 is first (non-synchronous) attempt.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Census is listed in the Constitution as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> State List Entry</div><div class="pyq-opt"><span class="opt-letter">B</span> Concurrent List Entry</div><div class="pyq-opt"><span class="opt-letter">C</span> Union List Entry 69</div><div class="pyq-opt"><span class="opt-letter">D</span> Not a scheduled subject</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Union List **Entry 69**; ORGI under MHA.
+
+**Logic:** Census Act 1948 is the statute frame.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Uttar Pradesh’s share of India’s population in 2011 was about:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 8.6%</div><div class="pyq-opt"><span class="opt-letter">B</span> 16.5%</div><div class="pyq-opt"><span class="opt-letter">C</span> 31.2%</div><div class="pyq-opt"><span class="opt-letter">D</span> 2.4%</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> About **16.5%** (19.98 crore).
+
+**Logic:** 8.6% is ST share; 31.2% is urban India; 2.4% is land area.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which Uttarakhand districts showed negative decadal growth?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dehradun and Nainital</div><div class="pyq-opt"><span class="opt-letter">B</span> Pauri Garhwal and Almora</div><div class="pyq-opt"><span class="opt-letter">C</span> Haridwar and US Nagar</div><div class="pyq-opt"><span class="opt-letter">D</span> Chamoli and Pithoragarh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pauri Garhwal** and **Almora**.
+
+**Logic:** Hill out-migration / “ghost village” teaching tag.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Bihar has the highest State density.<br>2. Arunachal Pradesh has the lowest State density.<br>3. Delhi’s density can be used as the lowest density State answer.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Delhi is a UT extreme (very high), not a lowest-density State.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Literacy in Census 2011 is counted for age:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 0–6</div><div class="pyq-opt"><span class="opt-letter">B</span> 7+</div><div class="pyq-opt"><span class="opt-letter">C</span> 18+</div><div class="pyq-opt"><span class="opt-letter">D</span> 21+</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Age **7+**.
+
+**Logic:** School-enrolment ages are not the Census literacy cut.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Highest population State and highest density State are the same in 2011.<br>Reason (R): Uttar Pradesh is the most populous State while Bihar has the highest density.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is false; R is true.
+
+**A/R logic:** Population crown ≠ density crown.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Number of million-plus UAs in Census 2011 was:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 35</div><div class="pyq-opt"><span class="opt-letter">B</span> 53</div><div class="pyq-opt"><span class="opt-letter">C</span> 100</div><div class="pyq-opt"><span class="opt-letter">D</span> 7</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 53** (up from 35 in 2001).
+
+**Logic:** 7 is UP’s million-city count, not the all-India UA total.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which State has zero ST population in the usual 2011 list?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Odisha</div><div class="pyq-opt"><span class="opt-letter">B</span> Madhya Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Punjab</div><div class="pyq-opt"><span class="opt-letter">D</span> Meghalaya</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Punjab (with Haryana, Chandigarh, Delhi, Puducherry) is in the zero-ST set.
+
+**Logic:** Zero-SC and zero-ST lists differ.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">UP’s overall sex ratio in 2011 was:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 943</div><div class="pyq-opt"><span class="opt-letter">B</span> 912</div><div class="pyq-opt"><span class="opt-letter">C</span> 919</div><div class="pyq-opt"><span class="opt-letter">D</span> 902</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> UP = **912**; India = 943; UP CSR = 902.
+
+**Logic:** Keep State vs national vs CSR numbers apart.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Year of the Great Divide is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1872</div><div class="pyq-opt"><span class="opt-letter">B</span> 1881</div><div class="pyq-opt"><span class="opt-letter">C</span> 1921</div><div class="pyq-opt"><span class="opt-letter">D</span> 1951</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1921** (negative growth).
+
+**Logic:** 1872/1881 are first-census chronology; 1951 is first after Independence.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. Highest urban % State — Goa<br>2. Lowest urban % State — Himachal Pradesh<br>3. Highest absolute urban population — Uttar Pradesh</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Highest absolute urban population = **Maharashtra**, not UP.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange chronologically:<br><br>1. Census Act<br>2. First synchronous Census<br>3. Great Divide year<br>4. Census 2011</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–1–3–4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1–2–3–4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–3–1–4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–1–4–3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Synchronous Census **1881** → Great Divide **1921** → Census Act **1948** → Census **2011**.
+
+**Logic:** The Act is 1948, after 1921.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kerala — highest State sex ratio</div><div class="pyq-opt"><span class="opt-letter">B</span> Haryana — lowest State CSR</div><div class="pyq-opt"><span class="opt-letter">C</span> Bihar — lowest State literacy</div><div class="pyq-opt"><span class="opt-letter">D</span> Sikkim — lowest State density</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Lowest State density = **Arunachal Pradesh**; Sikkim is least populous.
+
+**Logic:** Population vs density crowns differ.</div>
+  </div>
+</div>

@@ -269,21 +269,6 @@ hide:
 | **Net Overall Reaction** | $O_3 + O \xrightarrow{Cl^\bullet} 2O_2$ | **A single Chlorine radical destroys $>100,000\text{ Ozone molecules}$** before terminating |
 | **Ozone Measurement Unit** | **Dobson Unit (DU)** | $1\text{ DU} = 0.01\text{ mm}$ pure ozone layer thickness at STP ($0^\circ\text{C}, 1\text{ atm}$); Hole $<220\text{ DU}$ |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Photochemical Smog Nature** | **Classical Smog Nature** | **Photochemical Smog is OXIDIZING in nature** (contains Ozone, $NO_2$, PAN; sunny summer). **Classical Smog is REDUCING in nature** (contains $SO_2$, smoke; cold damp winter). | प्रकाश-रासायनिक स्मॉग = ऑक्सीकारक (गर्मियों में); क्लासिकल स्मॉग = अपचायक (सर्दियों में $SO_2$ युक्त) |
-| **Eye Irritation in Smog** | **Carbon Monoxide Trap** | The intense, painful eye watering (lacrimation) in photochemical smog is caused strictly by **Peroxyacetyl Nitrate (PAN)** and **Acrolein**, NOT by carbon monoxide. | स्मॉग में आंखों में जलन = परऑक्सीएसिटिल नाइट्रेट (PAN) व एक्रोलिन |
-| **Radiocarbon Dating Scope** | **Age of Earth Dating** | **Radiocarbon ($^{14}C$) dating is used ONLY for ONCE-LIVING organic artifacts** up to $\approx 50,000\text{ years}$ old. The **Age of the Earth ($4.5\text{ billion years}$) is determined by URANIUM-LEAD dating**. | कार्बन-14 डेटिंग = केवल जीवाश्मों व जैविक अवशेषों हेतु; पृथ्वी की आयु = यूरेनियम-सीसा डेटिंग |
-| **Stratospheric vs Tropospheric Ozone**| **Good vs Bad Ozone** | Stratospheric ozone is **"GOOD OZONE"** (shields Earth from lethal solar UV-B radiation). Ground-level tropospheric ozone is **"BAD OZONE"** (toxic secondary air pollutant, eye irritant). | समतापमंडलीय ओजोन = 'अच्छी ओजोन' (UV से रक्षा); क्षोभमंडलीय ओजोन = 'बुरी ओजोन' (हानिकारक प्रदूषक) |
-| **Montreal vs Kyoto Protocol**| **Environmental Treaty Scope**| The **Montreal Protocol (1987)** deals strictly with **Ozone Depleting Substances (CFCs, Halons)**. The **Kyoto Protocol (1997)** deals with **Greenhouse Gases ($CO_2, CH_4, N_2O$) and Climate Change**. | मॉन्ट्रियल प्रोटोकॉल = ओजोन क्षरणकारी पदार्थ (CFCs); क्योटो प्रोटोकॉल = ग्रीनहाउस गैसें |
-| **Acid Rain Chemical Culprits**| **Carbonic Acid Confusion** | Natural rain contains carbonic acid ($\text{pH } \approx 5.6$). **Acid rain is caused strictly by SULFURIC ACID ($H_2SO_4, \approx 70\%$) and NITRIC ACID ($HNO_3, \approx 30\%$)** formed from industrial $SO_2$ and $NO_x$. | अम्लीय वर्षा = सल्फ्यूरिक अम्ल ($H_2SO_4$) + नाइट्रिक अम्ल ($HNO_3$) |
-| **Taj Mahal "Stone Leprosy"** | **Pollution Mechanism** | Sulfur dioxide from Mathura refinery forms acid rain, which reacts with white marble ($CaCO_3$): **$CaCO_3 + H_2SO_4 \to CaSO_4 \cdot 2H_2O + CO_2$**, corroding and yellowing the monument. | ताजमहल का पीला पड़ना = संगमरमर पर अम्लीय वर्षा की क्रिया (स्टोन लेप्रोसी) |
-| **Fly Ash Components** | **Pure Carbon Myth** | Fly ash emitted from coal thermal plants contains **Oxides of Silicon ($SiO_2$), Aluminium ($Al_2O_3$), Iron ($Fe_2O_3$), and toxic heavy metals (Arsenic, Lead)**. It is utilized in Portland Pozzolana cement. | फ्लाई ऐश में सिलिका, एल्युमिना व भारी धातुएं होती हैं; इसका प्रयोग सीमेंट बनाने में होता है |
-| **Greenhouse Gas Contribution**| **Carbon Dioxide Supremacy Trap**| The **largest natural contributor to Earth's greenhouse warming is WATER VAPOR ($\approx 60\%$)**, followed by Carbon Dioxide ($CO_2, \approx 26\%$). $CO_2$ is the dominant ANTHROPOGENIC driver. | पृथ्वी पर प्राकृतिक ग्रीनहाउस प्रभाव में सर्वाधिक योगदान = जलवाष्प ($\approx 60\%$) |
-| **Cobalt-60 Radiation** | **X-Ray Confusion** | **Cobalt-60 emits high-energy penetrating GAMMA ($\gamma$) rays** from nuclear decay, widely used in deep cancer teletherapy; it does not produce medical X-rays. | कोबाल्ट-60 से गामा ($\gamma$) किरणें उत्सर्जित होती हैं जो कैंसर उपचार में प्रयुक्त होती हैं |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Smog Nature Tagger:
@@ -299,276 +284,232 @@ hide:
 - Normal thickness $\approx 300\text{ DU}$.
 - "Ozone Hole" defined when column density drops below **$220\text{ DU}$**.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Radioactivity was discovered in 1896 by:
-(a) Marie Curie  
-(b) Henri Becquerel  
-(c) Ernest Rutherford  
-(d) Wilhelm Roentgen  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Henri Becquerel discovered radioactivity using uranium salts; Marie and Pierre Curie later isolated polonium and radium.
-
-**Ans: B.** Henri Becquerel
-</details>
-
----
-
-**Q2.**
-
-Which nuclear emission consists of doubly charged helium nuclei ($^4_2He^{2+}$)?
-(a) Beta particles  
-(b) Alpha particles  
-(c) Gamma rays  
-(d) Neutrons  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Alpha particles are helium-4 nuclei ($2\text{ protons} + 2\text{ neutrons}$) with a $+2$ charge.
-
-**Ans: B.** Alpha particles
-</details>
-
----
-
-**Q3.**
-
-The half-life of Carbon-14 used in radiocarbon dating is approximately:
-(a) $1,000\text{ years}$  
-(b) $5,730\text{ years}$  
-(c) $100,000\text{ years}$  
-(d) $4.5\text{ billion years}$  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** $^{14}C$ has a half-life of $\approx 5,730\text{ years}$, suitable for dating organic artifacts up to $\approx 50,000\text{ years}$ old.
-
-**Ans: B.** $5,730\text{ years}$
-</details>
-
----
-
-**Q4.**
-
-What is the SI unit of radioactivity?
-(a) Curie  
-(b) Rutherford  
-(c) Becquerel  
-(d) Sievert  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The Becquerel ($\text{Bq} = 1\text{ disintegration/sec}$) is the SI unit.
-
-**Ans: C.** Becquerel
-</details>
-
----
-
-**Q5.**
-
-Nuclear fission involves:
-(a) Joining light nuclei into heavier ones  
-(b) Splitting of a heavy unstable nucleus into smaller fragments with energy release  
-(c) Chemical reaction with oxygen  
-(d) Radioactive decay of electrons  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Fission splits heavy nuclei ($^{235}U$) into lighter fragments upon neutron absorption, releasing energy.
-
-**Ans: B.** Splitting of a heavy unstable nucleus into smaller fragments with energy release
-</details>
-
----
-
-**Q6.**
-
-The primary energy principle governing the Hydrogen bomb is:
-(a) Nuclear Fission  
-(b) Nuclear Fusion  
-(c) Chemical Combustion  
-(d) Alpha radiation  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Hydrogen bombs operate on thermonuclear fusion, initiated by an internal fission trigger.
-
-**Ans: B.** Nuclear Fusion
-</details>
-
----
-
-**Q7.**
-
-Which of the following substances was used by Alfred Nobel to stabilize nitroglycerin into Dynamite?
-(a) Kieselguhr (diatomaceous earth)  
-(b) Sulphur dust  
-(c) Cement  
-(d) Activated charcoal  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Liquid nitroglycerin was absorbed into porous kieselguhr to form shock-stable dynamite.
-
-**Ans: A.** Kieselguhr (diatomaceous earth)
-</details>
-
----
-
-**Q8.**
-
-The chemical explosive RDX is chemically known as:
-(a) Trinitrotoluene  
-(b) Cyclotrimethylenetrinitramine  
-(c) Pentaerythritol tetranitrate  
-(d) Nitroglycerin  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** RDX is cyclotrimethylenetrinitramine ($C3H6N6O6$), also known as Hexogen or T4.
-
-**Ans: B.** Cyclotrimethylenetrinitramine
-</details>
-
----
-
-**Q9.**
-
-Acid rain is defined as precipitation with a pH below:
-(a) 7.0  
-(b) 6.5  
-(c) 5.6  
-(d) 4.0  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 5.6.
-
-**Ans: C.** 5.6
-</details>
-
----
-
-**Q10.**
-
-The two primary atmospheric pollutant gases responsible for acid rain are:
-(a) Carbon monoxide and Methane  
-(b) Sulphur dioxide ($SO_2$) and Nitrogen oxides ($NO_x$)  
-(c) Ozone and Argon  
-(d) Chlorine and Fluorine  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** $SO2$ and $NOx$ dissolve in atmospheric moisture to form $H2SO4$ and $HNO3$, driving acid precipitation.
-
-**Ans: B.** Sulphur dioxide ($SO2$) and Nitrogen oxides ($NOx$)
-</details>
-
----
-
-**Q11.**
-
-Photochemical smog is an oxidizing smog that contains which of the following secondary pollutants?
-(a) Ozone and Peroxyacetyl Nitrate (PAN)  
-(b) Sulphur dioxide and Coal soot  
-(c) Methane and Argon  
-(d) Lead oxide  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Photochemical smog forms under sunlight from $NOx$ and hydrocarbons, generating ozone and PAN.
-
-**Ans: A.** Ozone and Peroxyacetyl Nitrate (PAN)
-</details>
-
----
-
-**Q12.**
-
-In which atmospheric layer is the protective ozone layer concentrated?
-(a) Troposphere  
-(b) Stratosphere  
-(c) Mesosphere  
-(d) Thermosphere  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The ozone layer is situated in the stratosphere ($15–35\text{ km}$ altitude).
-
-**Ans: B.** Stratosphere
-</details>
-
----
-
-**Q13.**
-
-Which reactive chemical species released by CFCs catalytically destroys ozone molecules?
-(a) Free chlorine radicals ($Cl^\bullet$)  
-(b) Sodium ions  
-(c) Nitrogen molecules  
-(d) Argon atoms  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UV photolysis of CFCs releases free chlorine radicals ($Cl^\bullet$) that catalytically destroy thousands of ozone molecules.
-
-**Ans: A.** Free chlorine radicals ($Cl^\bullet$)
-</details>
-
----
-
-**Q14.**
-
-Which of the following is NOT a greenhouse gas?
-(a) Methane ($CH_4$)  
-(b) Carbon dioxide ($CO_2$)  
-(c) Water vapor ($H_2O$)  
-(d) Nitrogen gas ($N_2$)  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Homonuclear diatomic nitrogen ($N2$) lacks an infrared-active dipole moment and does not absorb thermal radiation.
-
-**Ans: D.** Nitrogen gas ($N2$)
-</details>
-
----
-
-**Q15.**
-
-The environmental tragedy "Minamata Disease" was caused by toxic bioaccumulation of:
-(a) Methylmercury  
-(b) Cadmium  
-(c) Arsenic  
-(d) Lead  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Methylmercury bioaccumulated through marine food webs, causing neurological poisoning in Minamata Bay.
-
-**Ans: A.** Methylmercury
-</details>
-
----
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Radioactivity was discovered in 1896 by:<br>(a) Marie Curie  <br>(b) Henri Becquerel  <br>(c) Ernest Rutherford  <br>(d) Wilhelm Roentgen</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Henri Becquerel discovered radioactivity using uranium salts; Marie and Pierre Curie later isolated polonium and radium.
+
+**Ans: B.** Henri Becquerel</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which nuclear emission consists of doubly charged helium nuclei ($^4_2He^{2+}$)?<br>(a) Beta particles  <br>(b) Alpha particles  <br>(c) Gamma rays  <br>(d) Neutrons</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Alpha particles are helium-4 nuclei ($2\text{ protons} + 2\text{ neutrons}$) with a $+2$ charge.
+
+**Ans: B.** Alpha particles</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The half-life of Carbon-14 used in radiocarbon dating is approximately:<br>(a) $1,000\text{ years}$  <br>(b) $5,730\text{ years}$  <br>(c) $100,000\text{ years}$  <br>(d) $4.5\text{ billion years}$</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** $^{14}C$ has a half-life of $\approx 5,730\text{ years}$, suitable for dating organic artifacts up to $\approx 50,000\text{ years}$ old.
+
+**Ans: B.** $5,730\text{ years}$</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">What is the SI unit of radioactivity?<br>(a) Curie  <br>(b) Rutherford  <br>(c) Becquerel  <br>(d) Sievert</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The Becquerel ($\text{Bq} = 1\text{ disintegration/sec}$) is the SI unit.
+
+**Ans: C.** Becquerel</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Nuclear fission involves:<br>(a) Joining light nuclei into heavier ones  <br>(b) Splitting of a heavy unstable nucleus into smaller fragments with energy release  <br>(c) Chemical reaction with oxygen  <br>(d) Radioactive decay of electrons</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Fission splits heavy nuclei ($^{235}U$) into lighter fragments upon neutron absorption, releasing energy.
+
+**Ans: B.** Splitting of a heavy unstable nucleus into smaller fragments with energy release</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The primary energy principle governing the Hydrogen bomb is:<br>(a) Nuclear Fission  <br>(b) Nuclear Fusion  <br>(c) Chemical Combustion  <br>(d) Alpha radiation</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Hydrogen bombs operate on thermonuclear fusion, initiated by an internal fission trigger.
+
+**Ans: B.** Nuclear Fusion</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following substances was used by Alfred Nobel to stabilize nitroglycerin into Dynamite?<br>(a) Kieselguhr (diatomaceous earth)  <br>(b) Sulphur dust  <br>(c) Cement  <br>(d) Activated charcoal</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Liquid nitroglycerin was absorbed into porous kieselguhr to form shock-stable dynamite.
+
+**Ans: A.** Kieselguhr (diatomaceous earth)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The chemical explosive RDX is chemically known as:<br>(a) Trinitrotoluene  <br>(b) Cyclotrimethylenetrinitramine  <br>(c) Pentaerythritol tetranitrate  <br>(d) Nitroglycerin</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** RDX is cyclotrimethylenetrinitramine ($C3H6N6O6$), also known as Hexogen or T4.
+
+**Ans: B.** Cyclotrimethylenetrinitramine</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Acid rain is defined as precipitation with a pH below:<br>(a) 7.0  <br>(b) 6.5  <br>(c) 5.6  <br>(d) 4.0</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 5.6.
+
+**Ans: C.** 5.6</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The two primary atmospheric pollutant gases responsible for acid rain are:<br>(a) Carbon monoxide and Methane  <br>(b) Sulphur dioxide ($SO_2$) and Nitrogen oxides ($NO_x$)  <br>(c) Ozone and Argon  <br>(d) Chlorine and Fluorine</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** $SO2$ and $NOx$ dissolve in atmospheric moisture to form $H2SO4$ and $HNO3$, driving acid precipitation.
+
+**Ans: B.** Sulphur dioxide ($SO2$) and Nitrogen oxides ($NOx$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Photochemical smog is an oxidizing smog that contains which of the following secondary pollutants?<br>(a) Ozone and Peroxyacetyl Nitrate (PAN)  <br>(b) Sulphur dioxide and Coal soot  <br>(c) Methane and Argon  <br>(d) Lead oxide</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Photochemical smog forms under sunlight from $NOx$ and hydrocarbons, generating ozone and PAN.
+
+**Ans: A.** Ozone and Peroxyacetyl Nitrate (PAN)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">In which atmospheric layer is the protective ozone layer concentrated?<br>(a) Troposphere  <br>(b) Stratosphere  <br>(c) Mesosphere  <br>(d) Thermosphere</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The ozone layer is situated in the stratosphere ($15–35\text{ km}$ altitude).
+
+**Ans: B.** Stratosphere</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which reactive chemical species released by CFCs catalytically destroys ozone molecules?<br>(a) Free chlorine radicals ($Cl^\bullet$)  <br>(b) Sodium ions  <br>(c) Nitrogen molecules  <br>(d) Argon atoms</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UV photolysis of CFCs releases free chlorine radicals ($Cl^\bullet$) that catalytically destroy thousands of ozone molecules.
+
+**Ans: A.** Free chlorine radicals ($Cl^\bullet$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT a greenhouse gas?<br>(a) Methane ($CH_4$)  <br>(b) Carbon dioxide ($CO_2$)  <br>(c) Water vapor ($H_2O$)  <br>(d) Nitrogen gas ($N_2$)</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Homonuclear diatomic nitrogen ($N2$) lacks an infrared-active dipole moment and does not absorb thermal radiation.
+
+**Ans: D.** Nitrogen gas ($N2$)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">The environmental tragedy "Minamata Disease" was caused by toxic bioaccumulation of:<br>(a) Methylmercury  <br>(b) Cadmium  <br>(c) Arsenic  <br>(d) Lead</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Methylmercury bioaccumulated through marine food webs, causing neurological poisoning in Minamata Bay.
+
+**Ans: A.** Methylmercury</div>
+  </div>
+</div>

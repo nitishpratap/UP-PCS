@@ -158,26 +158,6 @@ hide:
 | **Jaipur Gharana** | Bhanuji; patronised by **Rajput Courts of Jaipur** | Powerful rhythm (*Layakari*), high-speed *Chakkars*, complex *Tatkar* | Sundar Prasad, Gauri Shankar, Kundan Lal Gangani |
 | **Banaras Gharana** | Janaki Prasad | Distinctive bols (exclusive use of dance syllables, not tabla bols), extensive *Natwari bols* | Sitara Devi, Gopi Krishna |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Kathak** | **Kathakali** | Kathak = North Indian / UP classical dance (spins, tatkar, tabla, Hindustani); Kathakali = Kerala all-male dance-drama (chutti makeup, heavy aharya, Sopanam, tandava) | कथक (उ.प्र.) / कथकली (केरल) |
-| **Kathakali** | **Mohiniyattam** | Both Kerala classical dances; Kathakali = male troupe, heavy face paint, tandava dominant; Mohiniyattam = female solo, white-and-gold Kasavu sari, lasya dominant | कथकली (पुरुष/तांडव) / मोहिनीअट्टम् (स्त्री/लास्य) |
-| **Bharatanatyam** | **Odissi** | Bharatanatyam = Tamil Nadu, rigid geometry, *Araimandi* half-squat; Odissi = Odisha, lyrical deflection, *Tribhanga* (three bends) and *Chowk* (square) | अराइमंडी (भरतनाट्यम्) / त्रिभंग (ओडिसी) |
-| **Bharatanatyam** | **Kuchipudi** | Bharatanatyam = Tamil Nadu temple Devadasi solo margam; Kuchipudi = Andhra Pradesh village dance-drama with spoken dialogue, singing, and *Tarangam* brass-plate dance | तमिल नाडु (भरत.) / आंध्र प्रदेश (कुचिपुड़ी) |
-| **Manipuri Ras Lila** | **Braj Raslila** | Manipuri Ras Lila = Classical dance of Manipur with stiff *Kumil* cylindrical skirts; Braj Raslila = Folk theatrical dance of Mathura–Vrindavan (Uttar Pradesh) | शास्त्रीय (मणिपुर) / लोक नाटक (उ.प्र. ब्रज) |
-| **Lasya** | **Tandava** | Lasya = Graceful, tender, lyrical feminine movements (symbol of Goddess Parvati / Mohini); Tandava = Vigorous, masculine, heroic, energetic movements (symbol of Lord Shiva) | लास्य (पार्वती) / तांडव (शिव) |
-| **Nritta** | **Nritya** | Nritta = Pure abstract dance movements without emotional depiction or story; Nritya = Expressive dance conveying sentiment (*Rasa*) and narrative through *Abhinaya* | नृत्त (शुद्ध ताल) / नृत्य (भाव व रस) |
-| **Mahari** | **Gotipua** | Mahari = Traditional hereditary female temple dancers of Jagannath Temple, Puri; Gotipua = Young prepubescent boys dressed as girls dancing outside temples | महारी (देवदासी) / गोटिपुआ (बालक नर्तक) |
-| **SNA 8 Classical** | **Chhau** | SNA recognises strictly **8** classical dances; Chhau is UNESCO Intangible Cultural Heritage (2010) and recognized by Ministry of Culture, but **not** on the SNA official 8 list | 8 संगीत नाटक अकादेमी / छऊ (मार्शल लोक) |
-| **Bihu** | **Sattriya** | Bihu = Assamese folk dance celebrated during seasonal Bihu festivals; Sattriya = 15th-century classical dance created by Srimanta Sankaradeva in Assam's monastic Sattras | बिहू (लोक) / सत्रीय (शास्त्रीय) |
-| **Garba** | **Dandiya Raas** | Garba = Circular dance around a perforated lantern (*Garbha Deep*) or image of Amba; Dandiya Raas = Polished wooden sticks struck in pairs to fast rhythms | गरबा (दीप परिक्रमा) / डांडिया (छड़ी) |
-| **Cheraw** | **Manipuri** | Cheraw = Traditional Bamboo Dance of **Mizoram** (stepping between clapping staves); Manipuri = Classical Vaishnava dance of **Manipur** | चेराव (मिज़ोरम) / मणिपुरी (मणिपुर) |
-| **Kelucharan Mohapatra** | **Birju Maharaj** | Kelucharan Mohapatra = Doyen of **Odissi** dance; Birju Maharaj = Doyen of **Kathak** (Lucknow Gharana) | केलुचरण (ओडिसी) / बिरजू महाराज (कथक) |
-| **Seraikella Chhau** | **Mayurbhanj Chhau** | Seraikella Chhau (Jharkhand) = Uses stylized symbolic masks; Mayurbhanj Chhau (Odisha) = Performed completely **without masks** | सेरायकेला (मुखौटा) / मयूरभंज (बिना मुखौटा) |
-| **Kathak** (Dance) | **Kathaka** (Reciter) | Kathak = North Indian classical dance form; Kathaka = Vedic and epic sage/narrator of sacred lore | कथक (नृत्य) / कथक (कथा वाचक) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. The 8 Classical Dances — Formula: `B-K-K-K-M-O-S-M`
@@ -209,327 +189,259 @@ hide:
 - **D**hobiya (Purvanchal — washermen community)
 - **P**ai Danda (Bundelkhand — Ahir stick martial dance)
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.** With reference to Sangeet Natak Akademi’s classical dances, which of the following statements is/are correct?
-
-1. SNA recognises eight classical dances.
-2. Chhau is one of the official SNA eight.
-3. Sattriya of Assam was added in 1952 with the founding of SNA.
-
-A. Only 3
-B. Only 1 and 3
-C. Only 1
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Chhau is UNESCO martial/folk and not in the SNA eight. Sattriya was added in 2000, not in 1952.
-
-</details>
-
-**Q2.** Consider the following pairs:
-
-| Dance | State / tag |
-|-------|-------------|
-| 1. Bharatanatyam | Tamil Nadu |
-| 2. Kathak | North / UP |
-| 3. Kuchipudi | Kerala |
-| 4. Sattriya | Assam |
-
-Which of the pairs given above are correctly matched?
-
-A. 1 and 3 only
-B. 1, 2 and 4 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Pairs 1, 2 and 4 are correct.
-
-**Logic:** Kuchipudi is Andhra Pradesh. Kerala holds Kathakali and Mohiniyattam.
-
-</details>
-
-**Q3.** With reference to Natyashastra dance theory, which of the following statements is/are correct?
-
-1. There are nine rasas.
-2. Four abhinaya are nritta, nritya, natya and tala only.
-3. Nritta is expressive story-dance while nritya is pure dance without abhinaya.
-
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-B. Only 2 and 3
-C. Only 1
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Four abhinaya are angika, vachika, aharya and sattvika. Nritta is pure dance; nritya adds expressive abhinaya.
-
-</details>
-
-**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Among the SNA eight, only Kathak uses Hindustani music.
-
-Reason (R): Bharatanatyam, Kuchipudi and Mohiniyattam are Carnatic-music dances among the eight.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Parallel contrast or distinct historical fact does not explain assertion.
-
-</details>
-
-**Q5.** correctly matched?
-
-A. Bharatanatyam — araimandi half-sit; sadir temple origin
-B. Odissi — tribhangi three-bend posture
-C. Kuchipudi — tarangam plate dance
-D. Manipuri classical Ras Lila — identical with UP Braj Raslila folk play
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Manipuri Ras Lila and UP Braj Raslila are separate traditions.
-
-**Logic:** Do not match Braj folk Krishna play as Manipuri classical.
-
-</details>
-
-**Q6.** With reference to Kathak gharanas, which of the following statements is/are correct?
-
-1. Lucknow gharana is linked with Wajid Ali Shah, Bindadin and Birju Maharaj.
-2. Jaipur and Banaras are Deccan court gharanas of Carnatic kriti.
-3. Kathak markers include only mudra storytelling with no footwork.
-
-Select the correct answer from the code given below:
-
-A. Only 1, 2 and 3
-B. Only 2 and 3
-C. Only 1
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Jaipur and Banaras are the other two major Kathak gharanas. Kathak markers include chakkar spins and tatkar footwork.
-
-</details>
-
-**Q7.** Consider the following Kerala pair:
-
-1. Kathakali — male dance-drama; heavy chutti makeup; pacha colour code
-2. Mohiniyattam — female solo lasya; white-and-gold costume
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Both Kerala contrasts are correct.
-
-**Logic:** Lasya vs tandava is the graceful vs vigorous frame behind this pair.
-
-</details>
-
-**Q8.** Arrange the following in a teaching order from pure movement to full dance-drama concept:
-
-1. Natya
-2. Nritta
-3. Nritya
-
-Select the correct answer from the code given below:
-
-A. 3–2–1
-B. 2–3–1
-C. 1–2–3
-D. 2–1–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Nritta → nritya → natya.
-
-**Logic:** Pure dance, then expressive dance, then dance-drama.
-
-</details>
-
-**Q9.** With reference to Odissi tradition bearers, which of the following statements is/are correct?
-
-1. Mahari were temple women dancers.
-2. Gotipua were boys dressed as women in the tradition’s feeders.
-3. Kelucharan Mohapatra is a major modern Odissi revival name.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. 1 and 2
-C. 1, 2 and 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** All three statements are correct.
-
-**Logic:** Rukmini Devi is Bharatanatyam. Birju Maharaj is Kathak. Vallathol is Kerala Kalamandalam.
-
-</details>
-
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Sattriya grew in Assam’s satra monasteries from Sankaradeva.
-
-Reason (R): Sattriya is the latest of the official SNA eight, added in 2000.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-**A/R logic:** Satra / Sankaradeva origin is independent of the 2000 SNA recognition year. (R) is a true parallel recognition fact, not the cause of (A).
-
-</details>
-
-**Q11.** Which of the following folk / ICH facts is/are correctly matched?
-
-1. Garba of Gujarat — UNESCO 2023
-2. Kalbelia — UNESCO 2010
-3. Chhau — UNESCO 2010; not SNA eight
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-B. All 1, 2 and 3
-C. Only 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** All three statements are correct.
-
-**Logic:** Bhangra, Lavani and Bihu are folk, not SNA classical eight.
-
-</details>
-
-**Q12.** With reference to UP folk dance facts, which of the following is/are correctly listed?
-
-1. Braj Raslila
-2. Charkula
-3. Mayur
-4. Yakshagana of coastal Karnataka as a UP form
-
-Select the correct answer from the code given below:
-
-A. 2, 3 and 4 only
-B. 1 and 4 only
-C. 1, 2 and 3 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1, 2 and 3 are UP folk facts here.
-
-**Logic:** Also remember Chholiya of Kumaon and Tharu dances of the Terai. Yakshagana is Karnataka.
-
-</details>
-
-**Q13.** Which one of the following correctly distinguishes Kathak from Kathakali?
-
-A. Kathak — Kerala chutti; Kathakali — Lucknow gharana
-B. Kathak — north spins and Hindustani; Kathakali — Kerala dance-drama with chutti
-C. Both are SNA-excluded martial folk forms only
-D. Both are identical names for Manipuri Ras Lila
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Name similarity is the trap. Geography and technique separate them.
-
-**Logic:** Kathaka the Vedic reciter tradition is a further verbal trap, not the dance.
-
-</details>
-
-**Q14.** Consider the following revival name matches:
-
-| Person | Form / institution |
-|--------|--------------------|
-| 1. Rukmini Devi Arundale | Bharatanatyam / Kalakshetra |
-| 2. Kelucharan Mohapatra | Odissi |
-| 3. Birju Maharaj | Kathak |
-| 4. Vallathol | Kerala Kalamandalam |
-
-Which of the pairs given above are correctly matched?
-
-A. 1 and 2 only
-B. 2, 3 and 4 only
-C. 1, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All four revival matches are correct.
-
-**Logic:** Yamini Krishnamurthy danced Bharatanatyam and Kuchipudi.
-
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Lasya is graceful movement associated with Parvati / Mohini imagery.
-
-Reason (R): Tandava is vigorous movement associated with Shiva / Kathakali vigour.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is the contrasting twin concept rather than the cause of lasya.
-
-**A/R logic:** Lasya and tandava are a pair of opposites, not an explanation chain.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Sangeet Natak Akademi’s classical dances, which of the following statements is/are correct?<br><br>1. SNA recognises eight classical dances.<br>2. Chhau is one of the official SNA eight.<br>3. Sattriya of Assam was added in 1952 with the founding of SNA.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Chhau is UNESCO martial/folk and not in the SNA eight. Sattriya was added in 2000, not in 1952.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Dance | State / tag |<br>|-------|-------------|<br>| 1. Bharatanatyam | Tamil Nadu |<br>| 2. Kathak | North / UP |<br>| 3. Kuchipudi | Kerala |<br>| 4. Sattriya | Assam |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Pairs 1, 2 and 4 are correct.
+
+**Logic:** Kuchipudi is Andhra Pradesh. Kerala holds Kathakali and Mohiniyattam.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to Natyashastra dance theory, which of the following statements is/are correct?<br><br>1. There are nine rasas.<br>2. Four abhinaya are nritta, nritya, natya and tala only.<br>3. Nritta is expressive story-dance while nritya is pure dance without abhinaya.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Four abhinaya are angika, vachika, aharya and sattvika. Nritta is pure dance; nritya adds expressive abhinaya.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Among the SNA eight, only Kathak uses Hindustani music.<br><br>Reason (R): Bharatanatyam, Kuchipudi and Mohiniyattam are Carnatic-music dances among the eight.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Parallel contrast or distinct historical fact does not explain assertion.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bharatanatyam — araimandi half-sit; sadir temple origin</div><div class="pyq-opt"><span class="opt-letter">B</span> Odissi — tribhangi three-bend posture</div><div class="pyq-opt"><span class="opt-letter">C</span> Kuchipudi — tarangam plate dance</div><div class="pyq-opt"><span class="opt-letter">D</span> Manipuri classical Ras Lila — identical with UP Braj Raslila folk play</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Manipuri Ras Lila and UP Braj Raslila are separate traditions.
+
+**Logic:** Do not match Braj folk Krishna play as Manipuri classical.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Kathak gharanas, which of the following statements is/are correct?<br><br>1. Lucknow gharana is linked with Wajid Ali Shah, Bindadin and Birju Maharaj.<br>2. Jaipur and Banaras are Deccan court gharanas of Carnatic kriti.<br>3. Kathak markers include only mudra storytelling with no footwork.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Jaipur and Banaras are the other two major Kathak gharanas. Kathak markers include chakkar spins and tatkar footwork.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following Kerala pair:<br><br>1. Kathakali — male dance-drama; heavy chutti makeup; pacha colour code<br>2. Mohiniyattam — female solo lasya; white-and-gold costume<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both Kerala contrasts are correct.
+
+**Logic:** Lasya vs tandava is the graceful vs vigorous frame behind this pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in a teaching order from pure movement to full dance-drama concept:<br><br>1. Natya<br>2. Nritta<br>3. Nritya<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3–2–1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2–3–1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1–2–3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–1–3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nritta → nritya → natya.
+
+**Logic:** Pure dance, then expressive dance, then dance-drama.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">With reference to Odissi tradition bearers, which of the following statements is/are correct?<br><br>1. Mahari were temple women dancers.<br>2. Gotipua were boys dressed as women in the tradition’s feeders.<br>3. Kelucharan Mohapatra is a major modern Odissi revival name.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Rukmini Devi is Bharatanatyam. Birju Maharaj is Kathak. Vallathol is Kerala Kalamandalam.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Sattriya grew in Assam’s satra monasteries from Sankaradeva.<br><br>Reason (R): Sattriya is the latest of the official SNA eight, added in 2000.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Satra / Sankaradeva origin is independent of the 2000 SNA recognition year. (R) is a true parallel recognition fact, not the cause of (A).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following folk / ICH facts is/are correctly matched?<br><br>1. Garba of Gujarat — UNESCO 2023<br>2. Kalbelia — UNESCO 2010<br>3. Chhau — UNESCO 2010; not SNA eight<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Bhangra, Lavani and Bihu are folk, not SNA classical eight.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">With reference to UP folk dance facts, which of the following is/are correctly listed?<br><br>1. Braj Raslila<br>2. Charkula<br>3. Mayur<br>4. Yakshagana of coastal Karnataka as a UP form<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1, 2 and 3 are UP folk facts here.
+
+**Logic:** Also remember Chholiya of Kumaon and Tharu dances of the Terai. Yakshagana is Karnataka.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which one of the following correctly distinguishes Kathak from Kathakali?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kathak — Kerala chutti; Kathakali — Lucknow gharana</div><div class="pyq-opt"><span class="opt-letter">B</span> Kathak — north spins and Hindustani; Kathakali — Kerala dance-drama with chutti</div><div class="pyq-opt"><span class="opt-letter">C</span> Both are SNA-excluded martial folk forms only</div><div class="pyq-opt"><span class="opt-letter">D</span> Both are identical names for Manipuri Ras Lila</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Name similarity is the trap. Geography and technique separate them.
+
+**Logic:** Kathaka the Vedic reciter tradition is a further verbal trap, not the dance.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following revival name matches:<br><br>| Person | Form / institution |<br>|--------|--------------------|<br>| 1. Rukmini Devi Arundale | Bharatanatyam / Kalakshetra |<br>| 2. Kelucharan Mohapatra | Odissi |<br>| 3. Birju Maharaj | Kathak |<br>| 4. Vallathol | Kerala Kalamandalam |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All four revival matches are correct.
+
+**Logic:** Yamini Krishnamurthy danced Bharatanatyam and Kuchipudi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Lasya is graceful movement associated with Parvati / Mohini imagery.<br><br>Reason (R): Tandava is vigorous movement associated with Shiva / Kathakali vigour.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is the contrasting twin concept rather than the cause of lasya.
+
+**A/R logic:** Lasya and tandava are a pair of opposites, not an explanation chain.</div>
+  </div>
+</div>

@@ -141,19 +141,6 @@ hide:
 | **Raised Left Foot** | Lifted in mid-air (*Bhujangatrasita*) | Ultimate refuge and liberation (*Moksha*) granted to the soul |
 | **Aureole (Prabhamandala)** | Ring of continuous leaping flames | The cosmic circle of unceasing cyclic time and universal nature |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Gandhara School** | **Mathura School** | Gandhara = Greco-Roman influence using **bluish-grey schist**, Apollo-like face, wavy hair; Mathura = Pure indigenous Indian style using **spotted red sandstone**, smiling face, snail curls | गांधार (यूनानी प्रभाव, स्लेटी पत्थर) / मथुरा (विशुद्ध भारतीय, लाल बलुआ) |
-| **Mathura School** | **Amaravati School** | Mathura = Sandstone sculptures across **three religions** (Buddhist, Hindu, Jain); Amaravati = **White Palnad limestone/marble** narrative stupa reliefs focusing **exclusively on Buddhism** | मथुरा (लाल पत्थर, 3 धर्म) / अमरावती (सफेद संगमरमर, केवल बौद्ध) |
-| **Didarganj Yakshi (Patna)**| **Parkham Yaksha (Mathura)** | Didarganj Yakshi = Polished Chunar sandstone holding **chauri flywhisk** in Bihar; Parkham Yaksha = Monumental colossal stone male statue found near **Mathura, UP** | दीदारगंज यक्षी (पटना, चंवरधारिणी) / परखाम यक्ष (मथुरा) |
-| **Sarnath Seated Buddha** | **Sultanganj Buddha** | Sarnath Buddha = **Carved stone statue** seated in Dharmachakrapravartana mudra (at Sarnath); Sultanganj Buddha = **7.5-foot colossal cast bronze/copper statue** standing (at Birmingham) | सारनाथ बुद्ध (प्रस्तर, धर्मचक्रप्रवर्तन) / सुल्तानगंज बुद्ध (कांस्य, 7.5 फीट) |
-| **Nataraja Damaru** | **Nataraja Agni** | Damaru (in upper right hand) symbolizes **Creation**; Agni (in upper left hand) symbolizes **Destruction / Dissolution** | डमरू (सृष्टि / दायां हाथ) / अग्नि (विनाश / बायां हाथ) |
-| **Apasmara Purusha** | **Gajahasta Mudra** | Apasmara Purusha = The demonic dwarf of **ignorance/ego** crushed under Nataraja's right foot; Gajahasta = The hand pointing to the raised left foot conferring **grace/liberation** | अपस्मार (अज्ञान का दैत्य) / गजहस्त (मुक्ति की ओर संकेत) |
-| **Gommateshwara (Bahubali)**| **Rishabhanatha (Adinatha)** | Gommateshwara = The son of Rishabhanatha, first to attain Kevala Jnana (statue at Shravanabelagola); Rishabhanatha = The **First Tirthankara** of Jainism (born Ayodhya, Bull symbol) | गोमटेश्वर बाहुबली (प्रथम तीर्थंकर के पुत्र) / ऋषभदेव (प्रथम तीर्थंकर) |
-| **Sarnath Lion Capital** | **Rampurva Bull Capital** | Sarnath Capital = Four back-to-back lions (National Emblem); Rampurva Capital = Magnificent polished zebu bull (now in Rashtrapati Bhavan, New Delhi) | सारनाथ सिंह शीर्ष (राष्ट्र चिन्ह) / रामपुरवा वृषभ शीर्ष (राष्ट्रपति भवन) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Four Animals on Sarnath Abacus — Mnemonic: `H-B-E-L` (हंसते हुए बैल)
@@ -173,329 +160,311 @@ hide:
 - **Left Up:** Destruction (Fire)
 - **Left Down:** Liberation (Gajahasta pointing to raised foot)
 
-## 🎯 High-Yield PYQ Drill
-
-**Q1.** With reference to major sculpture schools, which of the following statements is/are correct?
-
-1. Gandhara uses grey schist and Greco-Roman modelling in the north-west.
-2. Amaravati is a grey-schist freestanding icon school of Punjab.
-3. Mathura uses polished black basalt and is a Kerala school.
-
-A. Only 2
-B. 2 and 3
-C. Only 1
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 1 is correct.
-
-**Logic:** Amaravati uses limestone narrative panels in Andhra. Mathura uses red sandstone and is an Uttar Pradesh school.
-
-</details>
-
-**Q2.** Consider the following pairs:
-
-| Mudra | Meaning |
-|-------|---------|
-| 1. Dharmachakra | Teaching |
-| 2. Bhumisparsha | Earth-touching |
-| 3. Abhaya | Boon-giving identical to varada |
-
-Which of the pairs given above is/are correctly matched?
-
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2 only are correct.
-
-**Logic:** Abhaya is fearlessness. Varada is the boon mudra.
-
-</details>
-
-**Q3.** Which of the following pairs is NOT correctly matched?
-
-A. Khajuraho — Chandela mithuna sculpture
-B. Konark — Sun temple with 24 wheels and 7 horses
-C. Chola Nataraja — Indus lost-wax dancing girl from Harappa
-D. Hoysala carving — chloritic schist / soapstone teaching
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Chola Nataraja is a South Indian processional bronze, not the Indus Dancing Girl.
-
-**Logic:** Indus Dancing Girl is a tiny Harappan lost-wax figurine.
-
-</details>
-
-**Q4.** Assertion (A): Early Buddhist art is largely aniconic before the Kushan age.
-Reason (R): The human Buddha image becomes common from the Kushan age.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-
-**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Chronological reversal: later development cannot explain prior state.
-
-</details>
-
-**Q5.** Arrange the following in sculpture timeline order:
-
-1. Gupta Sarnath Buddha
-2. Mauryan polish
-3. Kushan Gandhara–Mathura Buddha images
-4. Bharhut / early Sanchi relief
-
-Select the correct order.
-
-A. 2-3-4-1
-B. 2-4-3-1
-C. 4-2-3-1
-D. 2-4-1-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Mauryan polish → Shunga relief → Kushan images → Gupta Sarnath.
-
-**Logic:** Aniconic Shunga relief precedes common human Buddha images.
-
-</details>
-
-**Q6.** With reference to Gupta Sarnath Buddha, which of the following statements is/are correct?
-
-1. It often shows the dharmachakra mudra.
-2. It is identical in heavy volume to Kushan Mathura figures.
-3. Transparent robe and spiritual calm are rejected in favour of heavy Kushan volume.
-
-A. Only 2 and 3
-B. Only 1
-C. 1 and 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 1 is correct.
-
-**Logic:** Mathura Kushan figures are heavier. Gupta Sarnath looks lighter and calmer with a transparent robe.
-
-</details>
-
-**Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
-
-**List-I (School / work)**
-A. Gandhara
-B. Mathura
-C. Amaravati
-D. Chunar / Mauryan polish
-
-**List-II**
-1. Red sandstone; UP
-2. Grey schist; NW
-3. Mauryan mirror surface (UP belt)
-4. Limestone narrative; Andhra
-
-*Row order is not the answer code.*
-
-A. 1 2 4 3
-B. 2 1 3 4
-C. 2 1 4 3
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Gandhara–schist, Mathura–red sandstone, Amaravati–limestone, Chunar–Mauryan polish.
-
-**Logic:** Material decides many school traps.
-
-</details>
-
-**Q8.** With reference to bronze sculpture, which of the following statements is/are correct?
-
-1. Indus Dancing Girl is lost-wax bronze.
-2. Chola Nataraja bronzes are Ashokan Mauryan polish pillars.
-3. Dhokra is identical to Chola temple bronze in court atelier origin.
-
-A. Only 1
-B. 1 and 2
-C. All 1, 2 and 3
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1 is correct.
-
-**Logic:** Chola Nataraja bronzes are processional temple icons. Dhokra is tribal bell-metal craft, not Chola utsava murti.
-
-</details>
-
-**Q9.** Which of the following pairs is/are NOT correctly matched?
-
-1. Lion Capital of Sarnath — National Emblem from 1950
-2. Sarnath — UNESCO World Heritage from 2026
-3. Bharhut — Mauryan polish school identical to Didarganj
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only pair 3 is not correctly matched.
-
-**Logic:** Bharhut is Shunga narrative relief, not Mauryan polish.
-
-</details>
-
-**Q10.** Assertion (A): Mathura school sits in Uttar Pradesh and cuts Buddha and Tirthankara images.
-Reason (R): Gandhara is also an Uttar Pradesh red-sandstone school.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true, but (R) is false.
-
-**A/R logic:** Gandhara is north-west grey schist, not UP red sandstone.
-
-</details>
-
-**Q11.** With reference to Nataraja iconography, which of the following statements is/are correct?
-
-1. The figure stands outside any prabhamandala in standard Chola icons.
-2. Nataraja holds damaru and fire.
-3. The right foot is placed on Apasmara.
-
-A. 2 and 3
-B. Only 1
-C. 1 and 2
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 2 and 3 only are correct.
-
-**Logic:** Standard Chola Nataraja stands in a prabhamandala.
-
-</details>
-
-**Q12.** Consider the following pairs:
-
-| Site / school | Tag |
-|---------------|-----|
-| 1. Udayagiri Varaha | Gupta Hindu sculpture |
-| 2. Deogarh Vishnu | Gupta Hindu sculpture |
-| 3. Early Sanchi | Fully iconic human Buddha from the start |
-
-Which of the pairs given above is/are correctly matched?
-
-A. Only 1 and 2
-B. All 1, 2 and 3
-C. Only 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1 and 2 only are correct.
-
-**Logic:** Early Sanchi remains largely aniconic before later iconic additions.
-
-</details>
-
-**Q13.** Match List-I with List-II and select the correct answer using the code given below the Lists.
-
-**List-I**
-A. Khajuraho
-B. Konark
-C. Mahabalipuram
-D. Mathura
-
-**List-II**
-1. Pallava relief
-2. Chandela mithuna (MP)
-3. UP red-sandstone school
-4. Ganga-period Sun chariot (Odisha)
-
-*Row order is not the answer code.*
-
-A. 2 4 1 3
-B. 2 4 3 1
-C. 4 2 1 3
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Khajuraho–Chandela, Konark–Odisha Sun chariot, Mahabalipuram–Pallava, Mathura–UP.
-
-**Logic:** Do not swap Khajuraho (MP) and Konark (Odisha).
-
-</details>
-
-**Q14.** With reference to Uttar Pradesh sculpture homes, which of the following statements is/are correct?
-
-1. Mathura school and Sarnath Buddha are UP homes.
-2. Chunar polish stone belongs to the UP belt.
-3. Ahichhatra and Kaushambi are UP terracotta centres.
-4. Gandhara atelier is a Varanasi schist school.
-
-A. 1, 2 and 3 only
-B. 1, 2 and 4 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 1, 2 and 3 are correct.
-
-**Logic:** Gandhara is north-west, not Varanasi.
-
-</details>
-
-**Q15.** Arrange the following Buddhist sculpture ideas in developmental order:
-
-1. Gupta ideal Buddha at Sarnath
-2. Aniconic Maurya–Shunga signs
-3. Kushan human Buddha image
-
-Select the correct order.
-
-A. 2-3-1
-B. 3-2-1
-C. 2-1-3
-D. 1-2-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Aniconic signs → Kushan human Buddha → Gupta Sarnath ideal.
-
-**Logic:** Symbol to person to classical ideal is the teaching arc.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to major sculpture schools, which of the following statements is/are correct?<br><br>1. Gandhara uses grey schist and Greco-Roman modelling in the north-west.<br>2. Amaravati is a grey-schist freestanding icon school of Punjab.<br>3. Mathura uses polished black basalt and is a Kerala school.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Amaravati uses limestone narrative panels in Andhra. Mathura uses red sandstone and is an Uttar Pradesh school.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Mudra | Meaning |<br>|-------|---------|<br>| 1. Dharmachakra | Teaching |<br>| 2. Bhumisparsha | Earth-touching |<br>| 3. Abhaya | Boon-giving identical to varada |<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** Abhaya is fearlessness. Varada is the boon mudra.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Khajuraho — Chandela mithuna sculpture</div><div class="pyq-opt"><span class="opt-letter">B</span> Konark — Sun temple with 24 wheels and 7 horses</div><div class="pyq-opt"><span class="opt-letter">C</span> Chola Nataraja — Indus lost-wax dancing girl from Harappa</div><div class="pyq-opt"><span class="opt-letter">D</span> Hoysala carving — chloritic schist / soapstone teaching</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chola Nataraja is a South Indian processional bronze, not the Indus Dancing Girl.
+
+**Logic:** Indus Dancing Girl is a tiny Harappan lost-wax figurine.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Early Buddhist art is largely aniconic before the Kushan age.<br>Reason (R): The human Buddha image becomes common from the Kushan age.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both (A) and (R) are true, but (R) does NOT explain (A). Chronological reversal: later development cannot explain prior state.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in sculpture timeline order:<br><br>1. Gupta Sarnath Buddha<br>2. Mauryan polish<br>3. Kushan Gandhara–Mathura Buddha images<br>4. Bharhut / early Sanchi relief<br><br>Select the correct order.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2-3-4-1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2-4-3-1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4-2-3-1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2-4-1-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Mauryan polish → Shunga relief → Kushan images → Gupta Sarnath.
+
+**Logic:** Aniconic Shunga relief precedes common human Buddha images.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Gupta Sarnath Buddha, which of the following statements is/are correct?<br><br>1. It often shows the dharmachakra mudra.<br>2. It is identical in heavy volume to Kushan Mathura figures.<br>3. Transparent robe and spiritual calm are rejected in favour of heavy Kushan volume.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Mathura Kushan figures are heavier. Gupta Sarnath looks lighter and calmer with a transparent robe.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I</th>
+      <th>List-II</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Gandhara</td>
+      <td><span class="match-key">1</span> Red sandstone; UP</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Mathura</td>
+      <td><span class="match-key">2</span> Grey schist; NW</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Amaravati</td>
+      <td><span class="match-key">3</span> Mauryan mirror surface (UP belt)</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Chunar / Mauryan polish</td>
+      <td><span class="match-key">4</span> Limestone narrative; Andhra
+
+*Row order is not the answer code.*</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 2 4 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 3 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 4 1 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Gandhara–schist, Mathura–red sandstone, Amaravati–limestone, Chunar–Mauryan polish.
+
+**Logic:** Material decides many school traps.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to bronze sculpture, which of the following statements is/are correct?<br><br>1. Indus Dancing Girl is lost-wax bronze.<br>2. Chola Nataraja bronzes are Ashokan Mauryan polish pillars.<br>3. Dhokra is identical to Chola temple bronze in court atelier origin.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Chola Nataraja bronzes are processional temple icons. Dhokra is tribal bell-metal craft, not Chola utsava murti.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Lion Capital of Sarnath — National Emblem from 1950<br>2. Sarnath — UNESCO World Heritage from 2026<br>3. Bharhut — Mauryan polish school identical to Didarganj</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only pair 3 is not correctly matched.
+
+**Logic:** Bharhut is Shunga narrative relief, not Mauryan polish.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Mathura school sits in Uttar Pradesh and cuts Buddha and Tirthankara images.<br>Reason (R): Gandhara is also an Uttar Pradesh red-sandstone school.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true, but (R) is false.
+
+**A/R logic:** Gandhara is north-west grey schist, not UP red sandstone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Nataraja iconography, which of the following statements is/are correct?<br><br>1. The figure stands outside any prabhamandala in standard Chola icons.<br>2. Nataraja holds damaru and fire.<br>3. The right foot is placed on Apasmara.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 and 3 only are correct.
+
+**Logic:** Standard Chola Nataraja stands in a prabhamandala.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Site / school | Tag |<br>|---------------|-----|<br>| 1. Udayagiri Varaha | Gupta Hindu sculpture |<br>| 2. Deogarh Vishnu | Gupta Hindu sculpture |<br>| 3. Early Sanchi | Fully iconic human Buddha from the start |<br><br>Which of the pairs given above is/are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** Early Sanchi remains largely aniconic before later iconic additions.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I</th>
+      <th>List-II</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Khajuraho</td>
+      <td><span class="match-key">1</span> Pallava relief</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Konark</td>
+      <td><span class="match-key">2</span> Chandela mithuna (MP)</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Mahabalipuram</td>
+      <td><span class="match-key">3</span> UP red-sandstone school</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Mathura</td>
+      <td><span class="match-key">4</span> Ganga-period Sun chariot (Odisha)
+
+*Row order is not the answer code.*</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 4 1 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 4 2 1 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 1 4 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Khajuraho–Chandela, Konark–Odisha Sun chariot, Mahabalipuram–Pallava, Mathura–UP.
+
+**Logic:** Do not swap Khajuraho (MP) and Konark (Odisha).</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Uttar Pradesh sculpture homes, which of the following statements is/are correct?<br><br>1. Mathura school and Sarnath Buddha are UP homes.<br>2. Chunar polish stone belongs to the UP belt.<br>3. Ahichhatra and Kaushambi are UP terracotta centres.<br>4. Gandhara atelier is a Varanasi schist school.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2 and 4 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1, 2 and 3 are correct.
+
+**Logic:** Gandhara is north-west, not Varanasi.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Buddhist sculpture ideas in developmental order:<br><br>1. Gupta ideal Buddha at Sarnath<br>2. Aniconic Maurya–Shunga signs<br>3. Kushan human Buddha image<br><br>Select the correct order.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2-3-1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3-2-1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2-1-3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-2-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Aniconic signs → Kushan human Buddha → Gupta Sarnath ideal.
+
+**Logic:** Symbol to person to classical ideal is the teaching arc.</div>
+  </div>
+</div>

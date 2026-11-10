@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 9 — Pollution & Waste Management</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Pollution** is harmful addition beyond the environment (पर्यावरण)’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
@@ -75,7 +64,33 @@ hide:
 49. **EIA under EPA 1986** aims to prevent degradation before major projects start.
 50. **Air pollution** is the presence of harmful gases, dust, and smoke at levels that injure health or visibility.
 
-## ⏱️ Timeline / Chronology
+51. **Lichens** are pollution indicators and do **not** grow well in badly polluted air.
+52. **SAFAR** (सफर) is an IITM air-quality and weather forecast system. **WAYU** units were installed in **Delhi**.
+53. **CO** forms carboxyhaemoglobin (**~200–300×** affinity vs O₂). **Radon** is the top indoor air-pollutant teaching fact.
+54. **BOD** measures organic pollution through microbial oxygen demand. High BOD means worse water quality.
+55. **COD** is usually greater than or equal to BOD. Clean water often shows DO above about **6 mg/L** and BOD below about **3 mg/L**.
+56. Classic arsenic hotspot teaching points to **Bangladesh** / Gangetic plains. **Knock-knee** = fluoride; **Black Foot** = arsenic; **Minamata** = Hg; **Itai-itai** = Cd.
+57. Many pesticides are **not** readily biodegradable — a frequent true statement in papers.
+58. Heavy-metal facts include **chromium** around Kanpur plus lead, cadmium, and mercury elsewhere. Mercury sources include **gold mining** and **coal TPPs**; **no known safe exposure level**.
+59. **Moradabad** was flagged among the world’s noisiest cities in UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम) Frontier reporting.
+60. India ranks among the world’s largest plastic-waste generators (often taught as about **third**).
+61. Indoor air pollution is driven by solid cooking fuels, tobacco smoke, poor ventilation, and **radon**.
+62. Surface-water pollution includes sewage, industrial effluent, and agricultural runoff into rivers and lakes.
+63. Drinking-water quality in India is commonly referenced to **IS 10500** standards.
+64. Coastal pollution includes oil, plastics, sewage, and industrial discharge along the shoreline belt.
+65. SAMEER-type apps publish AQI for public warning; they do not replace NCAP city action plans.
+66. **SWM Rules 2016** give elaborate landfill/site criteria. **R2 Code** = responsible electronics recycling.
+67. **H-CNG** reduces CO/HC/CO₂ vs CNG but does **not eliminate** CO; up to ~**1/5** H₂ by volume; not cheaper than CNG.
+68. Geoengineering (भू-इंजीनियरिंग) teaching: **cirrus thinning** and **sulphate aerosol** injection aim at cooling / offsetting warming — not cyclone control.
+69. Steel industry emits **CO, CO₂, SOx, and NOx**. **Aflatoxins** = mould toxins on poorly stored grains.
+70. Excess **nitrogen and phosphorus** fertilisers drive **eutrophication**, raise nitrate in groundwater, and link to **N₂O** climate forcing — Indo-Gangetic wheat–rice systems are high-input geography.
+71. Fertiliser pollution is mostly **nutrient overload**, not heavy-metal tanning chemistry.
+72. **Air quality** is judged against CPCB **National Ambient Air Quality Standards (NAAQS)**.
+73. **Lichens** are sensitive bio-indicators of air pollution, especially SO₂ stress.
+74. **NCAP** (राष्ट्रीय स्वच्छ वायु कार्यक्रम) launched in **2019** to improve air quality in non-attainment cities.
+75. **Smog** is a secondary air pollution mixture; classical **London smog** is linked to **SO₂ + smoke** in cold, humid air.
+76. **Photochemical smog** forms when **NOx and VOCs/hydrocarbons** react in strong sunlight.
+77. **PAN (peroxyacetyl nitrate)** is a powerful **eye irritant** (lachrymator) and damages plant chloroplasts.
 
 ### Chronological Sequence of Global Atmospheric & Pollution Milestones
 
@@ -105,329 +120,273 @@ hide:
 | CO / Lead | Hb affinity ~200–300× / IQ–brain harm |
 | Lichens / Radon | SO₂ bio-indicator / top indoor pollutant |
 | NCAP / BS-VI | **2019** / **2020** |
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-## ⚡ Confused Pairs & Common Examiner Traps
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environmental Pollution** | **Environmental Degradation** | Direct or indirect release of harmful substances, radiation, or thermal energy into air, water, or soil causing toxic injury to living organisms vs broader long-term deterioration of environmental quality, natural capital, and ecosystem productivity | पर्यावरणीय प्रदूषण / पर्यावरणीय क्षरण |
-| **Primary Air Pollutant** | **Secondary Air Pollutant** | Emitted directly from identifiable domestic or industrial exhaust sources into the atmosphere (CO, SO₂, NO, PM, Lead) vs formed in the atmosphere through chemical or photochemical reactions among primary precursors (Tropospheric Ozone, PAN, Smog, Nitric acid) | प्राथमिक प्रदूषक (सीधे उत्सर्जित) / द्वितीयक प्रदूषक (रासायनिक क्रिया) |
-| **Biochemical Oxygen Demand (BOD)** | **Chemical Oxygen Demand (COD)** | Amount of dissolved oxygen needed by aerobic microorganisms to decompose biodegradable organic matter in water at 20°C over 5 days vs total amount of oxygen required to chemically oxidize all organic matter (both biodegradable and non-biodegradable) using a strong chemical oxidant | जैव रासायनिक ऑक्सीजन मांग (BOD) / रासायनिक ऑक्सीजन मांग (COD) |
-| **Oligotrophic Lake** | **Eutrophic Lake** | Deep, crystal-clear water body with low nutrient levels, low biological productivity, and high dissolved oxygen vs shallow, murky water body rich in nitrates/phosphates, choked with algal blooms, and experiencing severe hypolimnetic oxygen crashes | अल्पपोषी झील (स्वच्छ/कम पोषक) / सुपोषित झील (अल्गल ब्लूम/ऑक्सीजन ह्रास) |
-| **Extended Producer Responsibility (EPR)** | **Polluter Pays Principle** | Policy mandate making manufacturers legally and financially responsible for post-consumer collection, recycling, and safe disposal of their products (E-waste, plastic packaging) vs international environmental law doctrine requiring polluters to bear the financial costs of pollution mitigation and cleanup | विस्तारित उत्पादक दायित्व (EPR) / प्रदूषक भुगतान सिद्धांत |
-| **Central Pollution Control Board (CPCB)** | **Central Ground Water Board (CGWB)** | Statutory apex pollution regulator established under Water Act 1974 for framing air/water standards and national monitoring vs subordinate scientific office under Ministry of Jal Shakti assessing groundwater resources and aquifer dynamics | केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) / केंद्रीय भूजल बोर्ड (CGWB) |
-| **Classical (London) Smog** | **Photochemical (Los Angeles) Smog** | Occurs in cool, humid winter mornings; high concentrations of SO₂ and coal soot; chemically reducing in nature vs occurs in hot, dry, sunny afternoons; vehicle exhaust NOx + volatile organic compounds (VOCs); chemically oxidizing in nature with high ozone and PAN | लंदन स्मॉग (सल्फ्यूरस/अपचायक) / प्रकाश रासायनिक स्मॉग (ऑक्सीकारक) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-With reference to **carrying capacity**, consider the following statements:
-
-1. Resource extraction should remain **above** the rate of regeneration. 
-2. Waste generation should stay within the environment's **absorption capacity**. 
-
-A. 2 only 
-B. Neither 1 nor 2 
-C. Both 1 and 2 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Sustainable use requires extraction at or below regeneration and waste within absorption limits.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to **carrying capacity**, consider the following statements:<br><br>1. Resource extraction should remain **above** the rate of regeneration. <br>2. Waste generation should stay within the environment's **absorption capacity**.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Sustainable use requires extraction at or below regeneration and waste within absorption limits.
 
 **Ans: A.** Statement 2 is correct; statement 1 is wrong — extraction must be **at or below** regeneration, not above it.
 
-**Trap:** Statement 2 alone sounds incomplete — but statement 1 reverses the regeneration rule and makes "Both" wrong.
+**Trap:** Statement 2 alone sounds incomplete — but statement 1 reverses the regeneration rule and makes "Both" wrong.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-Consider the following statements about **lichens**:
-
-1. Lichens are very good indicators of air pollution. 
-2. Lichens grow well in polluted areas. 
-
-A. 2 only 
-B. Neither 1 nor 2 
-C. Both 1 and 2 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bio-indicator sensitivity — lichens signal SO₂ pollution by declining, not thriving.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about **lichens**:<br><br>1. Lichens are very good indicators of air pollution. <br>2. Lichens grow well in polluted areas.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bio-indicator sensitivity — lichens signal SO₂ pollution by declining, not thriving.
 
 **Ans: D.** Lichens are excellent pollution indicators but **die or disappear** in polluted air — they do not grow well there.
 
-**Trap:** Statement 1 is true and tempts "Both" — statement 2 is the classic reverse trap.
+**Trap:** Statement 1 is true and tempts "Both" — statement 2 is the classic reverse trap.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-The **Annual Groundwater Quality Report 2024** was prepared by which of the following?
-
-1. Central Pollution Control Board (CPCB) 
-2. Central Water Commission (CWC) 
-3. Central Ground Water Board (CGWB) 
-
-A. 1 and 2 only 
-B. 3 only 
-C. 2 and 3 only 
-D. 1 only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Org–report matching — groundwater quality is CGWB's domain, not CPCB's air/water pollution mandate.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The **Annual Groundwater Quality Report 2024** was prepared by which of the following?<br><br>1. Central Pollution Control Board (CPCB) <br>2. Central Water Commission (CWC) <br>3. Central Ground Water Board (CGWB)</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Org–report matching — groundwater quality is CGWB's domain, not CPCB's air/water pollution mandate.
 
 **Ans: B.** The groundwater quality report is published by **CGWB only**.
 
-**Trap:** CPCB sets pollution standards but **does not** prepare the national groundwater quality report.
+**Trap:** CPCB sets pollution standards but **does not** prepare the national groundwater quality report.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-Coral bleaching in the **Andaman & Nicobar** region was primarily caused by—
-
-A. Increased coastal industrial effluents alone 
-B. About **+2°C warming** of the Indian Ocean 
-C. Heavy marine plastic pollution alone 
-D. A **−4°C** drop in sea-surface temperature 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bleaching trigger is thermal stress on symbiotic zooxanthellae — warming, not cooling or pollution alone.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Coral bleaching in the **Andaman & Nicobar** region was primarily caused by—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Increased coastal industrial effluents alone</div><div class="pyq-opt"><span class="opt-letter">B</span> About **+2°C warming** of the Indian Ocean</div><div class="pyq-opt"><span class="opt-letter">C</span> Heavy marine plastic pollution alone</div><div class="pyq-opt"><span class="opt-letter">D</span> A **−4°C** drop in sea-surface temperature</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bleaching trigger is thermal stress on symbiotic zooxanthellae — warming, not cooling or pollution alone.
 
 **Ans: B.** Indian Ocean warming of about **+2°C** drove mass bleaching; pollution is a secondary stressor.
 
-**Trap:** **−4°C cooling** is physically opposite to bleaching mechanism — temperature **rise** expels algae.
+**Trap:** **−4°C cooling** is physically opposite to bleaching mechanism — temperature **rise** expels algae.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-The **Water (Prevention and Control of Pollution) Act** was enacted in—
-
-A. 1974 
-B. 1981 
-C. 1986 
-D. 2000 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Pollution law chronology — Water Act precedes Air Act and EPA in India's environmental statute stack.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The **Water (Prevention and Control of Pollution) Act** was enacted in—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1974</div><div class="pyq-opt"><span class="opt-letter">B</span> 1981</div><div class="pyq-opt"><span class="opt-letter">C</span> 1986</div><div class="pyq-opt"><span class="opt-letter">D</span> 2000</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Pollution law chronology — Water Act precedes Air Act and EPA in India's environmental statute stack.
 
 **Ans: A.** The Water Act was passed in **1974**; Air Act followed in **1981** and EPA in **1986**.
 
-**Trap:** **1981** is the Air Act — do not swap the two earliest pollution statutes.
+**Trap:** **1981** is the Air Act — do not swap the two earliest pollution statutes.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-**Photochemical smog** always contains—
-
-A. Phosphorus 
-B. Ozone 
-C. Methane 
-D. Aluminium ion 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Los Angeles-type smog is a secondary-pollution product — O₃ and PAN from NOx + VOCs in sunlight.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">**Photochemical smog** always contains—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Phosphorus</div><div class="pyq-opt"><span class="opt-letter">B</span> Ozone</div><div class="pyq-opt"><span class="opt-letter">C</span> Methane</div><div class="pyq-opt"><span class="opt-letter">D</span> Aluminium ion</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Los Angeles-type smog is a secondary-pollution product — O₃ and PAN from NOx + VOCs in sunlight.
 
 **Ans: B.** Photochemical smog characteristically includes **ground-level ozone** (plus PAN and other oxidants).
 
-**Trap:** London smog is **SO₂ + smoke** — ozone chemistry defines photochemical, not primary stack gases alone.
+**Trap:** London smog is **SO₂ + smoke** — ozone chemistry defines photochemical, not primary stack gases alone.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-According to UNEP's **Frontier Report–2022**, which Indian city ranked as the **world's second most noise-polluted city**?
-
-A. Kota 
-B. Moradabad 
-C. Indore 
-D. Patna 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** UP noise hotspot from UNEP Frontier 2022 — brassware/industrial hub in western UP.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">According to UNEP's **Frontier Report–2022**, which Indian city ranked as the **world's second most noise-polluted city**?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kota</div><div class="pyq-opt"><span class="opt-letter">B</span> Moradabad</div><div class="pyq-opt"><span class="opt-letter">C</span> Indore</div><div class="pyq-opt"><span class="opt-letter">D</span> Patna</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP noise hotspot from UNEP Frontier 2022 — brassware/industrial hub in western UP.
 
 **Ans: B.** **Moradabad (UP)** was flagged as the world's **second noisiest city** in Frontier Report 2022.
 
-**Trap:** Ghaziabad/Kanpur are air-pollution NCAP cities — **Moradabad** is the noise-specific PYQ city.
+**Trap:** Ghaziabad/Kanpur are air-pollution NCAP cities — **Moradabad** is the noise-specific PYQ city.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-Which of the following is the best **bio-indicator of air pollution**, especially sulphur dioxide?
-
-A. Moss on rocks in clean hills 
-B. Lichens 
-C. Mangrove pneumatophores 
-D. Deep-sea sponges 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard bio-indicator fact — lichens lack protective cuticle and die when SO₂ rises.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which of the following is the best **bio-indicator of air pollution**, especially sulphur dioxide?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Moss on rocks in clean hills</div><div class="pyq-opt"><span class="opt-letter">B</span> Lichens</div><div class="pyq-opt"><span class="opt-letter">C</span> Mangrove pneumatophores</div><div class="pyq-opt"><span class="opt-letter">D</span> Deep-sea sponges</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard bio-indicator fact — lichens lack protective cuticle and die when SO₂ rises.
 
 **Ans: B.** **Lichens** are sensitive SO₂ bio-indicators and decline sharply in polluted air.
 
-**Trap:** Moss grows in clean environments too — lichens are the textbook **air-pollution indicator** pair.
+**Trap:** Moss grows in clean environments too — lichens are the textbook **air-pollution indicator** pair.</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-The **Basel Convention (1989)** primarily deals with—
-
-A. Transboundary movement of hazardous wastes 
-B. Climate change mitigation commitments 
-C. Ozone-depleting substances phase-out 
-D. Wetland conservation (Ramsar sites) 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Treaty-purpose matching — Basel is the hazardous-waste shipment control regime.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">The **Basel Convention (1989)** primarily deals with—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Transboundary movement of hazardous wastes</div><div class="pyq-opt"><span class="opt-letter">B</span> Climate change mitigation commitments</div><div class="pyq-opt"><span class="opt-letter">C</span> Ozone-depleting substances phase-out</div><div class="pyq-opt"><span class="opt-letter">D</span> Wetland conservation (Ramsar sites)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Treaty-purpose matching — Basel is the hazardous-waste shipment control regime.
 
 **Ans: A.** Basel controls **international movement and disposal of hazardous wastes**; India ratified in 1992.
 
-**Trap:** Montreal = ozone; UNFCCC/Kyoto/Paris = climate — Basel is **waste movement**.
+**Trap:** Montreal = ozone; UNFCCC/Kyoto/Paris = climate — Basel is **waste movement**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.**
-
-India ranks **how high globally** in **e-waste generation**?
-
-A. 1st 
-B. 2nd 
-C. 3rd 
-D. 5th 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** India e-waste volume rank after China and the USA under E-waste Rules 2022 framing.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">India ranks **how high globally** in **e-waste generation**?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1st</div><div class="pyq-opt"><span class="opt-letter">B</span> 2nd</div><div class="pyq-opt"><span class="opt-letter">C</span> 3rd</div><div class="pyq-opt"><span class="opt-letter">D</span> 5th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** India e-waste volume rank after China and the USA under E-waste Rules 2022 framing.
 
 **Ans: C.** India is the **3rd largest e-waste generator** globally after China and the USA.
 
-**Trap:** **1st** is a frequent overestimate — India is top-tier but **third**, not first.
+**Trap:** **1st** is a frequent overestimate — India is top-tier but **third**, not first.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Anthropogenic pollution mainly raises—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only always instantly biodegradable gases</div><div class="pyq-opt"><span class="opt-letter">B</span> Often persistent non-biodegradable pollutant loads</div><div class="pyq-opt"><span class="opt-letter">C</span> Only pure rainwater</div><div class="pyq-opt"><span class="opt-letter">D</span> Only stratospheric ozone repair</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Bank stems on types, diseases, disasters, standards, and remediation so the chapter dump is absorbed.
 
-**Q11.** Anthropogenic pollution mainly raises—
+**Ans: B.** Human-driven pollution often adds slow/non-biodegradable loads.</div>
+  </div>
+</div>
 
-A. Only always instantly biodegradable gases
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Secondary pollutants include—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only stack CO emitted directly</div><div class="pyq-opt"><span class="opt-letter">B</span> Ozone, PAN, and photochemical smog</div><div class="pyq-opt"><span class="opt-letter">C</span> Only elemental nitrogen in air always</div><div class="pyq-opt"><span class="opt-letter">D</span> Only pure argon</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Formed in the atmosphere from primary reactants + sunlight/chemistry.</div>
+  </div>
+</div>
 
-B. Often persistent non-biodegradable pollutant loads
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">CO binds haemoglobin relative to oxygen—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Weaker always</div><div class="pyq-opt"><span class="opt-letter">B</span> About 200–300 times more strongly</div><div class="pyq-opt"><span class="opt-letter">C</span> Never binds</div><div class="pyq-opt"><span class="opt-letter">D</span> Only binds calcium</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Forms carboxyhaemoglobin and cuts O₂ delivery.</div>
+  </div>
+</div>
 
-C. Only pure rainwater
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Bhopal Gas Tragedy gas / year—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> SO₂ in 1974</div><div class="pyq-opt"><span class="opt-letter">B</span> Methyl isocyanate (MIC), 2–3 December 1984</div><div class="pyq-opt"><span class="opt-letter">C</span> Only methane in 1991</div><div class="pyq-opt"><span class="opt-letter">D</span> Only CO₂ in 2000</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Union Carbide pesticide plant, Bhopal.</div>
+  </div>
+</div>
 
-D. Only stratospheric ozone repair
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bank stems on types, diseases, disasters, standards, and remediation so the chapter dump is absorbed.
-
-**Ans: B.** Human-driven pollution often adds slow/non-biodegradable loads.
-
-</details>
-
-**Q12.** Secondary pollutants include—
-
-A. Only stack CO emitted directly
-
-B. Ozone, PAN, and photochemical smog
-
-C. Only elemental nitrogen in air always
-
-D. Only pure argon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Formed in the atmosphere from primary reactants + sunlight/chemistry.
-
-</details>
-
-**Q13.** CO binds haemoglobin relative to oxygen—
-
-A. Weaker always
-
-B. About 200–300 times more strongly
-
-C. Never binds
-
-D. Only binds calcium
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Forms carboxyhaemoglobin and cuts O₂ delivery.
-
-</details>
-
-**Q14.** Bhopal Gas Tragedy gas / year—
-
-A. SO₂ in 1974
-
-B. Methyl isocyanate (MIC), 2–3 December 1984
-
-C. Only methane in 1991
-
-D. Only CO₂ in 2000
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Union Carbide pesticide plant, Bhopal.
-
-</details>
-
-**Q15.** Chernobyl is related to—
-
-A. Only acid rain in Manchester
-
-B. Nuclear accident (1986, Ukraine / then USSR)
-
-C. Only noise Rules 2000
-
-D. Only SUP ban 2022
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Classic radioactive pollution disaster teaching case.
-
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Chernobyl is related to—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only acid rain in Manchester</div><div class="pyq-opt"><span class="opt-letter">B</span> Nuclear accident (1986, Ukraine / then USSR)</div><div class="pyq-opt"><span class="opt-letter">C</span> Only noise Rules 2000</div><div class="pyq-opt"><span class="opt-letter">D</span> Only SUP ban 2022</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Classic radioactive pollution disaster teaching case.</div>
+  </div>
+</div>

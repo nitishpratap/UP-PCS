@@ -78,6 +78,11 @@ hide:
 48. **Crescograph**: Invented by Sir **Jagadish Chandra Bose** in early 20th century to measure and record infinitesimal **growth in plants**.
 49. **Kymograph**: Rotating cylindrical drum recording physiological changes such as muscle contraction, blood pressure variations, and vascular response.
 50. **Lysimeter**: Measures **actual evapotranspiration** (combined evaporation from soil + transpiration from crops).
+51. **Seven SI Fundamental Base Units:** (1) Length: **Metre (m)**; (2) Mass: **Kilogram (kg)**; (3) Time: **Second (s)**; (4) Electric Current: **Ampere (A)**; (5) Thermodynamic Temperature: **Kelvin (K)**; (6) Amount of Substance: **Mole (mol)**; (7) Luminous Intensity: **Candela (cd)**; Supplementary Units: Plane Angle: **Radian (rad)**; Solid Angle: **Steradian (sr)**.
+52. **Derived Physical Units & Famous Equivalence:** Force: **Newton ($1	ext{ N} = 10^5	ext{ dynes}$)**; Work/Energy: **Joule ($1	ext{ J} = 10^7	ext{ ergs} = 0.239	ext{ cal}$)**; Power: **Watt ($1	ext{ Horsepower [HP]} = 746	ext{ Watts}$)**; Pressure: **Pascal ($1	ext{ Pa} = 1	ext{ N/m}^2$, $1	ext{ bar} = 10^5	ext{ Pa}$, $1	ext{ atm} = 760	ext{ mm of Hg} = 1.013 	imes 10^5	ext{ Pa}$)**; Frequency: **Hertz (Hz)**; Electric Charge: **Coulomb (C)**; Electric Potential: **Volt (V)**; Capacitance: **Farad (F)**; Magnetic Field: **Tesla ($1	ext{ T} = 10^4	ext{ Gauss}$)**; Magnetic Flux: **Weber (Wb)**; Inductance: **Henry (H)**.
+53. **Astronomical & Microscopic Distance Units:** (1) **Astronomical Unit (AU):** Mean distance between Earth and Sun = $1.496 	imes 10^{11}	ext{ m}$; (2) **Light Year (ly):** Distance travelled by light in vacuum in one Julian year = $9.46 	imes 10^{15}	ext{ m}$; (3) **Parsec (Parallactic Second):** Largest practical unit of astronomical distance = $3.26	ext{ light years} = 3.08 	imes 10^{16}	ext{ m}$; (4) **Angstrom ($	ext{\AA}$):** $10^{-10}	ext{ m}$ (used for light wavelengths); (5) **Fermi / Femtometre (fm):** $10^{-15}	ext{ m}$ (used for nuclear diameters); (6) **Micron / Micrometer ($\mu	ext{m}$):** $10^{-6}	ext{ m}$.
+54. **Scientific Measuring Instruments & Principles:** (1) **Altimeter:** Measures altitude in aircraft (aneroid barometer principle); (2) **Anemometer:** Measures wind velocity and direction; (3) **Barometer:** Measures atmospheric pressure (mercurial barometer invented by Evangelista Torricelli in 1643; sudden fall indicates approaching storm/cyclone; slow gradual fall indicates rain; slow gradual rise indicates clear fair weather); (4) **Fathometer:** Measures ocean depth using echo soundings; (5) **Hygrometer:** Measures relative atmospheric humidity; (6) **Lactometer:** Measures purity and density of milk (hydrometer principle based on Archimedes' Principle); (7) **Pyrometer:** Measures extremely high temperatures (>800°C, like furnaces/stars) without physical contact by radiation (Stefan-Boltzmann Law); (8) **Seismograph:** Measures earthquake intensity and records seismic waves (Richter scale measures magnitude logarithmically; Mercalli scale measures observed damage from I to XII).
+55. **More Diagnostic Instruments:** (1) **Sphygmomanometer:** Measures arterial blood pressure (normal systolic/diastolic = 120/80 mm Hg); (2) **Stethoscope:** Listens to internal cardiac and pulmonary sounds (invented by René Laennec in 1816; operates on principle of **multiple reflection of sound waves**); (3) **Galvanometer:** Detects and measures direction of small electric currents; (4) **Sextant:** Measures angular altitude of celestial objects above horizon in marine navigation; (5) **SONAR (Sound Navigation and Ranging):** Uses high-frequency **ultrasonic waves** to detect underwater submerged objects, shoals, and depth; (6) **RADAR (Radio Detection and Ranging):** Uses **microwaves / radio waves** to determine range, angle, and radial velocity of aircraft and missiles.
 
 ## ⏱️ Timeline / Chronology
 
@@ -171,21 +176,6 @@ u_{	ext{Cs}} = 9,192,631,770	ext{ Hz}$ |
 | **Luxmeter** | **Luminous Intensity / Illuminance** | Photovoltaic sensor measuring luminous flux per unit area | SI unit = **Lux ($lx = lm/m^2$)** |
 | **Bolometer** | **Infrared & Thermal Radiation Energy** | Temperature-dependent electrical resistance of platinum | Highly sensitive infrared radiation detector |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A / Concept | Pair B / Confusion Trap | Key Difference / Correct Fact | Hindi Key / Examiner Note |
-|---|---|---|---|
-| **Light-Year ($ly$)** | **Unit of Time Trap** | A **Light-year is strictly a unit of ASTRONOMICAL DISTANCE**, not time. It is the distance travelled by light in vacuum in 1 year ($9.46 	imes 10^{12}	ext{ km}$). | प्रकाश वर्ष दूरी का मात्रक है, समय का नहीं |
-| **Parsec** | **Light-Year** | **Parsec (Parallactic Second)** is the largest practical astronomical unit ($1	ext{ Parsec} pprox 3.26	ext{ light-years} pprox 3.086 	imes 10^{16}	ext{ m}$). | पारसेक दूरी की सबसे बड़ी खगोलीय इकाई है ($1	ext{ Parsec} = 3.26	ext{ ly}$) |
-| **Mass** | **Weight** | **Mass ($kg$) is an invariant scalar quantity** (constant throughout universe). **Weight ($N = mg$) is a vector gravitational force** (varies with $g$; zero in free fall). | द्रव्यमान (Mass) स्थिर रहता है; भार (Weight) गुरुत्वीय त्वरण ($g$) पर निर्भर करता है |
-| **Hygrometer** | **Hydrometer** | **Hygrometer** measures atmospheric **humidity (moisture)**. **Hydrometer** measures **relative density (specific gravity)** of liquids. | हाइग्रोमीटर = आर्द्रता (नमी); हाइड्रोमीटर = द्रवों का आपेक्षित घनत्व |
-| **Pyrometer** | **Mercury Thermometer** | Mercury thermometers cannot measure above $357^\circ	ext{C}$ (boiling point of Hg). **Pyrometers measure extreme temperatures ($>800^\circ	ext{C}$ to $>3000^\circ	ext{C}$)** via emitted radiation without contact. | पाइरोमीटर = अत्यधिक उच्च तापमान (सूर्य, भट्टी) मापने हेतु |
-| **Bar** | **Pascal** | Both are pressure units; but **$1	ext{ bar} = 10^5	ext{ Pa} = 100,000	ext{ N/m}^2$**. Standard atmospheric pressure $= 1.01325	ext{ bar} = 101,325	ext{ Pa}$. | $1	ext{ bar} = 10^5	ext{ Pascal}$ |
-| **Curie ($Ci$)** | **Becquerel ($Bq$)** | **Becquerel ($Bq$) is the official SI unit** ($1	ext{ disintegration/s}$). **Curie ($Ci$) is the non-SI historical unit** ($1	ext{ Ci} = 3.7 	imes 10^{10}	ext{ Bq}$). | रेडियोधर्मिता का SI मात्रक बेकेरल है; क्यूरी पारंपरिक मात्रक है |
-| **Farad ($F$)** | **Faraday** | **Farad ($F$) is the SI unit of Capacitance**. **Faraday** is a unit of **Electric Charge** ($1	ext{ Faraday} pprox 96,485	ext{ Coulombs}$, charge on 1 mole of electrons). | फैराड = धारिता (Capacitance); फैराडे = 1 मोल इलेक्ट्रॉनों का कुल आवेश |
-| **Absorbed Dose (Gray)** | **Equivalent Dose (Sievert)**| **Gray ($Gy = 1	ext{ J/kg}$)** measures physical energy absorbed per kg of tissue. **Sievert ($Sv$)** measures biological damage taking radiation weighting factor into account. | ग्रे = अवशोषित विकिरण ऊर्जा; सीवर्ट = जैविक रूप से प्रभावी विकिरण खुराक |
-| **Kilowatt-Hour ($kWh$)** | **Kilowatt ($kW$)** | **Kilowatt ($kW$) is a unit of POWER** ($1000	ext{ J/s}$). **Kilowatt-hour ($kWh$) is a unit of ENERGY** ($3.6 	imes 10^6	ext{ Joules}$). | किलोवाट = शक्ति (Power); किलोवाट-घंटा = विद्युत ऊर्जा (Energy) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Seven Fundamental SI Base Units: **M-K-S-A-K-M-C**
@@ -211,261 +201,262 @@ u_{	ext{Cs}} = 9,192,631,770	ext{ Hz}$ |
   - $1	ext{ Light-Year} pprox 9.46 	imes 10^{12}	ext{ km}$.
   - $1	ext{ AU} pprox 1.496 	imes 10^8	ext{ km}$ ($150	ext{ million km}$).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-**Which of the following physical quantities is correctly paired with its defining 2019 SI fundamental constant?**
-   A. Kilogram — Speed of light ($c$)  
-   B. Second — Hyperfine caesium-133 frequency ($\Delta \nu_{\text{Cs}}$)  
-   C. Kelvin — Planck constant ($h$)  
-   D. Ampere — Boltzmann constant ($k$)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
-
-**Logic:** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
-
-</details>
-
-**Q2.**
-
-**$1\text{ Parsec}$ is mathematically equivalent to how many Astronomical Units ($AU$)?**
-   A. $206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$  
-   B. $149,597,871\text{ AU}$  
-   C. $9.46 \times 10^{12}\text{ AU}$  
-   D. $3.262\text{ AU}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **A** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
-
-**Logic:** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
-
-</details>
-
-**Q3.**
-
-**In the measurement of petroleum, 1 standard barrel equals:**
-   A. $142\text{ litres}$  
-   B. $159\text{ litres}$  
-   C. $183\text{ litres}$  
-   D. $200\text{ litres}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
-
-**Logic:** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
-
-</details>
-
-**Q4.**
-
-**A sudden, steep drop in the barometric mercury column indicates:**
-   A. Immediate clear and dry weather  
-   B. Severe storm or thunderstorm  
-   C. Snowfall  
-   D. Persistent drizzle
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
-
-**Logic:** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
-
-</details>
-
-**Q5.**
-
-**Which device is specifically used to measure the growth of plants?**
-   A. Bolometer  
-   B. Crescograph  
-   C. Cathetometer  
-   D. Kymograph
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Invented by J.C. Bose).
-
-**Logic:** (Invented by J.C. Bose).
-
-</details>
-
-**Q6.**
-
-**The catalytic activity of an enzyme is officially expressed in which SI unit?**
-   A. Gray  
-   B. Sievert  
-   C. Katal  
-   D. Candela
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** ($1\text{ katal} = 1\text{ mole/second}$).
-
-**Logic:** ($1\text{ katal} = 1\text{ mole/second}$).
-
-</details>
-
-**Q7.**
-
-**Which instrument operates on the principle of thermal change in electrical resistance to measure incident radiation power?**
-   A. Bolometer  
-   B. Pycnometer  
-   C. Pyrheliometer  
-   D. Nephoscope
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **A** (Bolometer).
-
-**Logic:** (Bolometer).
-
-</details>
-
-**Q8.**
-
-**A person six feet tall has a height of $1.83\text{ m}$. In nanometres, this is:**
-   A. $1.83 \times 10^7\text{ nm}$  
-   B. $1.83 \times 10^9\text{ nm} = 183 \times 10^7\text{ nm}$  
-   C. $1.83 \times 10^6\text{ nm}$  
-   D. $18.3 \times 10^6\text{ nm}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
-
-**Logic:** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
-
-</details>
-
-**Q9.**
-
-**What physical property does a Ringelmann Chart quantify?**
-   A. Ocean water salinity  
-   B. Smoke opacity and density  
-   C. Soil moisture tension  
-   D. Wind gust turbulence
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Smoke emissions).
-
-**Logic:** (Smoke emissions).
-
-</details>
-
-**Q10.**
-
-**The unit of dynamic viscosity in the CGS system is:**
-    A. Pascal-second  
-    B. Poise  
-    C. Stokes  
-    D. Poiseuille
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
-
-**Logic:** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
-
-</details>
-
-**Q11.**
-
-**One astronomical unit ($AU$) is approximately equal to:**
-    A. $9.46 \times 10^{15}\text{ m}$  
-    B. $1.496 \times 10^{11}\text{ m}$  
-    C. $3.08 \times 10^{16}\text{ m}$  
-    D. $3.84 \times 10^8\text{ m}$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($149.6\text{ million km}$).
-
-**Logic:** ($149.6\text{ million km}$).
-
-</details>
-
-**Q12.**
-
-**The SI unit of magnetic field strength ($H$) is:**
-    A. Tesla  
-    B. Weber  
-    C. Ampere per metre  
-    D. Henry
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **C** ($A/m$. Tesla is flux density $B$).
-
-**Logic:** ($A/m$. Tesla is flux density $B$).
-
-</details>
-
-**Q13.**
-
-**Which instrument is used to determine the angle of dip of Earth's magnetic field?**
-    A. Sextant  
-    B. Dip Circle  
-    C. Spherometer  
-    D. Theodolite
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Dip Circle).
-
-**Logic:** (Dip Circle).
-
-</details>
-
-**Q14.**
-
-**In the human body, the electrical recording of brain activity is denoted by:**
-    A. ECG  
-    B. EEG  
-    C. EMG  
-    D. ERG
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** (Electroencephalogram).
-
-**Logic:** (Electroencephalogram).
-
-</details>
-
-**Q15.**
-
-**A pressure of $1\text{ bar}$ in CGS units is:**
-    A. $10^5\text{ dyne/cm}^2$  
-    B. $10^6\text{ dyne/cm}^2$  
-    C. $10^7\text{ dyne/cm}^2$  
-    D. $10^3\text{ dyne/cm}^2$
-
-<details>
-<summary>Show answer</summary>
-
-**Ans:** **B** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
-
-**Logic:** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">**Which of the following physical quantities is correctly paired with its defining 2019 SI fundamental constant?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kilogram — Speed of light ($c$)</div><div class="pyq-opt"><span class="opt-letter">B</span> Second — Hyperfine caesium-133 frequency ($\Delta \nu_{\text{Cs}}$)</div><div class="pyq-opt"><span class="opt-letter">C</span> Kelvin — Planck constant ($h$)</div><div class="pyq-opt"><span class="opt-letter">D</span> Ampere — Boltzmann constant ($k$)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).
+
+**Logic:** (Kg is locked to $h$, Kelvin to $k$, Ampere to $e$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">**$1\text{ Parsec}$ is mathematically equivalent to how many Astronomical Units ($AU$)?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $206,265\text{ AU} = \frac{648,000}{\pi}\text{ AU}$</div><div class="pyq-opt"><span class="opt-letter">B</span> $149,597,871\text{ AU}$</div><div class="pyq-opt"><span class="opt-letter">C</span> $9.46 \times 10^{12}\text{ AU}$</div><div class="pyq-opt"><span class="opt-letter">D</span> $3.262\text{ AU}$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).
+
+**Logic:** ($1\text{ Parsec} = \frac{1\text{ AU}}{\tan(1'') } \approx \frac{648,000}{\pi}\text{ AU} \approx 206,265\text{ AU}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">**In the measurement of petroleum, 1 standard barrel equals:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $142\text{ litres}$</div><div class="pyq-opt"><span class="opt-letter">B</span> $159\text{ litres}$</div><div class="pyq-opt"><span class="opt-letter">C</span> $183\text{ litres}$</div><div class="pyq-opt"><span class="opt-letter">D</span> $200\text{ litres}$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).
+
+**Logic:** ($158.987\text{ L} \approx 159\text{ L} = 42\text{ US gallons}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">**A sudden, steep drop in the barometric mercury column indicates:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Immediate clear and dry weather</div><div class="pyq-opt"><span class="opt-letter">B</span> Severe storm or thunderstorm</div><div class="pyq-opt"><span class="opt-letter">C</span> Snowfall</div><div class="pyq-opt"><span class="opt-letter">D</span> Persistent drizzle</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).
+
+**Logic:** (Sudden drop indicates rapid atmospheric pressure deficit / incoming storm).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">**Which device is specifically used to measure the growth of plants?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bolometer</div><div class="pyq-opt"><span class="opt-letter">B</span> Crescograph</div><div class="pyq-opt"><span class="opt-letter">C</span> Cathetometer</div><div class="pyq-opt"><span class="opt-letter">D</span> Kymograph</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Invented by J.C. Bose).
+
+**Logic:** (Invented by J.C. Bose).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">**The catalytic activity of an enzyme is officially expressed in which SI unit?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gray</div><div class="pyq-opt"><span class="opt-letter">B</span> Sievert</div><div class="pyq-opt"><span class="opt-letter">C</span> Katal</div><div class="pyq-opt"><span class="opt-letter">D</span> Candela</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C** ($1\text{ katal} = 1\text{ mole/second}$).
+
+**Logic:** ($1\text{ katal} = 1\text{ mole/second}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">**Which instrument operates on the principle of thermal change in electrical resistance to measure incident radiation power?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Bolometer</div><div class="pyq-opt"><span class="opt-letter">B</span> Pycnometer</div><div class="pyq-opt"><span class="opt-letter">C</span> Pyrheliometer</div><div class="pyq-opt"><span class="opt-letter">D</span> Nephoscope</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A** (Bolometer).
+
+**Logic:** (Bolometer).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">**A person six feet tall has a height of $1.83\text{ m}$. In nanometres, this is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $1.83 \times 10^7\text{ nm}$</div><div class="pyq-opt"><span class="opt-letter">B</span> $1.83 \times 10^9\text{ nm} = 183 \times 10^7\text{ nm}$</div><div class="pyq-opt"><span class="opt-letter">C</span> $1.83 \times 10^6\text{ nm}$</div><div class="pyq-opt"><span class="opt-letter">D</span> $18.3 \times 10^6\text{ nm}$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).
+
+**Logic:** ($1.83\text{ m} \times 10^9\text{ nm/m} = 183 \times 10^7\text{ nm}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">**What physical property does a Ringelmann Chart quantify?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ocean water salinity</div><div class="pyq-opt"><span class="opt-letter">B</span> Smoke opacity and density</div><div class="pyq-opt"><span class="opt-letter">C</span> Soil moisture tension</div><div class="pyq-opt"><span class="opt-letter">D</span> Wind gust turbulence</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Smoke emissions).
+
+**Logic:** (Smoke emissions).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">**The unit of dynamic viscosity in the CGS system is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Pascal-second</div><div class="pyq-opt"><span class="opt-letter">B</span> Poise</div><div class="pyq-opt"><span class="opt-letter">C</span> Stokes</div><div class="pyq-opt"><span class="opt-letter">D</span> Poiseuille</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).
+
+**Logic:** ($1\text{ Pa}\cdot s = 10\text{ Poise}$. Stokes is kinematic viscosity).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">**One astronomical unit ($AU$) is approximately equal to:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $9.46 \times 10^{15}\text{ m}$</div><div class="pyq-opt"><span class="opt-letter">B</span> $1.496 \times 10^{11}\text{ m}$</div><div class="pyq-opt"><span class="opt-letter">C</span> $3.08 \times 10^{16}\text{ m}$</div><div class="pyq-opt"><span class="opt-letter">D</span> $3.84 \times 10^8\text{ m}$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** ($149.6\text{ million km}$).
+
+**Logic:** ($149.6\text{ million km}$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">**The SI unit of magnetic field strength ($H$) is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tesla</div><div class="pyq-opt"><span class="opt-letter">B</span> Weber</div><div class="pyq-opt"><span class="opt-letter">C</span> Ampere per metre</div><div class="pyq-opt"><span class="opt-letter">D</span> Henry</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> C** ($A/m$. Tesla is flux density $B$).
+
+**Logic:** ($A/m$. Tesla is flux density $B$).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">**Which instrument is used to determine the angle of dip of Earth's magnetic field?**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sextant</div><div class="pyq-opt"><span class="opt-letter">B</span> Dip Circle</div><div class="pyq-opt"><span class="opt-letter">C</span> Spherometer</div><div class="pyq-opt"><span class="opt-letter">D</span> Theodolite</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Dip Circle).
+
+**Logic:** (Dip Circle).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">**In the human body, the electrical recording of brain activity is denoted by:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> ECG</div><div class="pyq-opt"><span class="opt-letter">B</span> EEG</div><div class="pyq-opt"><span class="opt-letter">C</span> EMG</div><div class="pyq-opt"><span class="opt-letter">D</span> ERG</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** (Electroencephalogram).
+
+**Logic:** (Electroencephalogram).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">**A pressure of $1\text{ bar}$ in CGS units is:**</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> $10^5\text{ dyne/cm}^2$</div><div class="pyq-opt"><span class="opt-letter">B</span> $10^6\text{ dyne/cm}^2$</div><div class="pyq-opt"><span class="opt-letter">C</span> $10^7\text{ dyne/cm}^2$</div><div class="pyq-opt"><span class="opt-letter">D</span> $10^3\text{ dyne/cm}^2$</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> B** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).
+
+**Logic:** ($1\text{ bar} = 10^5\text{ N/m}^2 = 10^5 \times 10^5\text{ dyne} / 10^4\text{ cm}^2 = 10^6\text{ dyne/cm}^2$).</div>
+  </div>
+</div>

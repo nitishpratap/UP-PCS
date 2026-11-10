@@ -70,6 +70,26 @@ hide:
 48. **Chotanagpur** and **Rajmahal** sit on the eastern peninsular highland belt; Rajmahal is linked with Santhal Pargana teaching maps.
 49. **Cardamom Hills** continue south of Anamalai toward Kerala–Tamil Nadu; they are peninsular, not Himalayan.
 50. **Sela Tunnel (2024)** and **Z-Morh / Sonamarg Tunnel (2025)** are current all-weather Himalayan highway tags — pair them with Atal / Rohtang and Zoji La axes, not with Eastern Ghat passes.
+51. **Geological Rock Systems of India (Chronology):** Archean (oldest, basement complex, granites & gneisses) -> Dharwar (first sedimentary, highly metalliferous: gold, iron, manganese) -> Cuddapah (sandstone, limestone, building stones) -> Vindhyan (diamonds, limestone, Panna & Golconda) -> Gondwana (98% of Indian coal reserves) -> Deccan Trap (basaltic lava flows, black soil) -> Tertiary (Himalayan orogeny, petroleum in Assam & Gujarat) -> Quaternary (Indo-Gangetic alluvium).
+52. **Himalayan Longitudinal Sub-divisions (West to East):** (1) Kashmir/Punjab Himalayas (between Indus & Sutlej); (2) Kumaon Himalayas (between Sutlej & Kali); (3) Nepal Himalayas (between Kali & Teesta - highest peaks: Everest, Kanchenjunga, Makalu); (4) Assam Himalayas (between Teesta & Dihang/Brahmaputra).
+53. **Himalayan Structural Thrusts / Faults (North to South):** (1) Indus-Tsangpo Suture Zone (ITTS) separates Trans-Himalaya from Greater Himalaya; (2) Main Central Thrust (MCT) separates Greater Himalaya from Lesser/Middle Himalaya (Himachal); (3) Main Boundary Thrust (MBT) separates Lesser Himalaya from Shiwaliks; (4) Himalayan Frontal Fault (HFF) separates Shiwaliks from Indo-Gangetic Plains.
+54. **Trans-Himalayan Ranges (North to South mnemonic: KLZP):** Karakoram Range (K2/Godwin-Austen, Gasherbrum) -> Ladakh Range -> Zanskar Range -> Pir Panjal Range.
+55. **Highest Peaks of India:** (1) **K2 / Godwin-Austen (8,611 m)** in Karakoram (PoK) - highest peak under Indian territorial sovereignty; (2) **Kanchenjunga (8,586 m)** in Sikkim - highest peak in undisputed Indian territory; (3) **Nanda Devi (7,816 m)** in Uttarakhand - highest peak entirely situated within India; (4) Kamet (7,756 m); (5) Saltoro Kangri (7,742 m).
+56. **Passes of Ladakh & J&K (Key Exam Pairs):** Zoji La (connects Srinagar to Leh; Great Himalaya); Banihal Pass / Jawahar Tunnel (connects Jammu to Srinagar; Pir Panjal); Khardung La (gateway to Shyok and Nubra valleys); Chang La (connects Leh to Pangong Lake); Karakoram Pass (ancient silk route to Xinjiang).
+57. **Passes of Himachal Pradesh & Uttarakhand:** HP: Rohtang Pass (connects Kullu to Lahaul/Spiti - Atal Tunnel), Bara Lacha La (connects Lahaul to Leh), Shipki La (Sutlej River enters India from Tibet). UK: Mana Pass (Dungri La), Niti Pass, Lipulekh Pass (tri-junction of India-Nepal-Tibet; route for Kailash-Mansarovar Yatra).
+58. **Passes of Sikkim & North-East:** Sikkim: Nathu La and Jelep La (connects Kalimpong/Gangtok with Lhasa through Chumbi Valley). Arunachal Pradesh: Bom Di La (route to Lhasa), Dihang Pass, Diphu Pass (tri-junction India-China-Myanmar).
+59. **Aravalli Range Specifics:** Oldest fold mountain range in India (Pre-Cambrian age, relict mountains); extends 800 km from Gujarat (Palanpur) through Rajasthan and Haryana to Delhi (Raisina Hill); highest peak is **Guru Shikhar (1,722 m)** on Mount Abu.
+60. **Vindhya and Satpura Ranges:** Vindhya range acts as the traditional water divide between Northern and Southern India; Satpura range is a block mountain situated between two rift valleys: **Narmada River rift to the north** and **Tapi River rift to the south**; Satpura's highest peak is **Dhupgarh (1,350 m)** near Pachmarhi (Mahadeo Hills); Eastern extension includes Maikal Hills (source of Narmada and Son from Amarkantak plateau).
+61. **Western Ghats (Sahyadris) Divisions & Passes:** Divided by 16°N latitude (Goa) into Northern and Southern Sahyadris; major passes: (1) **Thal Ghat (Kasara Ghat):** Connects Mumbai to Nashik/Kolkata; (2) **Bhor Ghat:** Connects Mumbai to Pune/Chennai; (3) **Palghat Gap (Palakkad):** Between Nilgiri Hills and Anaimalai Hills, connects Coimbatore (TN) to Palakkad/Kochi (Kerala); (4) **Shencottah Gap:** Connects Kollam (Kerala) to Madurai (TN) between Cardamom and Agasthyamalai Hills.
+62. **Highest Peaks of Peninsular & South India:** **Anaimudi (2,695 m)** in Anaimalai Hills (Kerala) is the **highest peak in Peninsular / South India**; **Doda Betta (2,637 m)** in Nilgiri Hills is the second highest; Nilgiri Hills ('Blue Mountains') form the meeting point / confluence of the Western and Eastern Ghats.
+63. **Eastern Ghats High Points:** Discontinuous, denuded mountain chain cut by Godavari, Krishna, and Kaveri; highest peak is **Jindhagada / Arma Konda (1,690 m)** in Andhra Pradesh (Visakhapatnam), followed by Mahendragiri (1,501 m) in Odisha.
+64. **Hills of Tamil Nadu & Andhra Pradesh (North to South Order):** AP: Palkonda Hills -> Velikonda Hills -> Seshachalam Hills. TN: Javadi Hills -> Shevaroy Hills (Yercaud) -> Panchaimalai -> Sirumalai -> Varusanadu Hills -> Cardamom Hills.
+65. **Meghalaya / Shillong Plateau Geology:** Geological extension of the Peninsular Indian Shield (NOT the Himalayas), separated from Chotanagpur Plateau by the **Malda Gap (Garo-Rajmahal Gap)**; comprises from west to east: **Garo Hills**, **Khasi Hills** (Mawsynram & Cherrapunji - wettest places on Earth), and **Jaintia Hills**; highest peak is **Shillong Peak (1,961 m)**; Mikir Hills and Karbi Anglong in Assam are also Peninsular plateau outliers.
+66. **Chotanagpur Plateau ('Ruhr of India'):** Mineral heartland of India (rich in iron ore, coal, mica, bauxite); drained by Damodar River (rift valley); highest peak is **Parasnath (1,365 m)** (sacred Jain pilgrimage hill in Giridih, Jharkhand).
+67. **Coastal Plains Comparative Features:** (1) **Western Coast:** Submergent coast, narrow (except Gujarat), steep gradient, short swift rivers forming **estuaries** (Narmada, Tapi, Mandovi, Zuari); divisions: Konkan, Kannad, Malabar (famous for backwaters / *Kayals* like Vembanad); (2) **Eastern Coast:** Emergent coast, broad, flat, characterized by large **deltas** (Mahanadi, Godavari, Krishna, Kaveri) and lagoons (Chilika, Pulicat).
+68. **Island Groups of India:** **Andaman and Nicobar Islands:** Volcanic / submerged tertiary mountain peaks (Arakan Yoma extension); **10° Channel** separates Andaman Islands from Nicobar Islands; **Duncan Passage** separates South Andaman from Little Andaman; **Barren Island** (active volcano) and **Narcondam Island** (dormant/extinct volcano); highest peak is **Saddle Peak (732 m)** in North Andaman. **Lakshadweep Islands:** Coral atolls in Arabian Sea; **9° Channel** separates Minicoy from main Lakshadweep; **8° Channel** separates Minicoy from Maldives; administrative capital is Kavaratti.
+69. **Northern Plains Morphology (North to South Sequence):** (1) **Bhabhar:** 8–16 km wide belt of pebbles/boulders at Himalayan foothills; streams disappear underground; unsuited for agriculture; (2) **Terai:** Marshy, swampy, damp, forested tract south of Bhabhar where streams re-emerge; rich biodiversity and malarial belt (cleared for sugarcane/wheat); (3) **Bhangar:** Older, higher alluvium above flood levels; contains calcareous nodules known as **Kankar**; (4) **Khadar:** Younger, fertile new alluvium deposited by annual floods on floodplains (*Bet* lands in Punjab); highly productive for intensive agriculture.
+70. **Extreme Geographical Points of India:** Northernmost point: **Indira Col** (Siachen Glacier, Ladakh); Southernmost point: **Indira Point / Pygmalion Point** (6°45'N, Great Nicobar); Southernmost point of mainland: **Kanyakumari / Cape Comorin** (8°4'N, Tamil Nadu); Westernmost point: **Ghuar Mota / Sir Creek** (68°7'E, Kutch, Gujarat); Easternmost point: **Kibithu** (97°25'E, Anjaw district, Arunachal Pradesh).
 
 
 ---
@@ -184,33 +204,6 @@ hide:
 | **Naga Hills** | **Saramati** | 3,826 m | Nagaland | Border of India and Myanmar; highest in Purvanchal |
 | **Mizo (Lushai) Hills** | **Phawngpui** (Blue Mountain) | 2,157 m | Mizoram | Synclines and anticlines forming "rolling valley" topography |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Himadri** (Greater Himalaya) | **Himachal** (Lesser Himalaya) | Archean fossil-less crystalline core vs folded marine sediments with fossils | हिमाद्रि / हिमाचल |
-| **Himachal** (Lesser Himalaya) | **Shiwalik** (Outer Himalaya) | Metamorphic & marine rocks vs young unconsolidated fluvial sediments & human fossils | हिमाचल / शिवालिक |
-| **Bhangar** | **Khadar** | Older alluvial upland with calcareous kankar vs newer flood-renewed fertile silt | भांगर / खादर |
-| **Bhabar** | **Terai** | Porous pebble-boulder belt where streams sink vs marshy ill-drained lowland where streams re-emerge | भाबर / तराई |
-| **Western Ghats** (Sahyadri) | **Eastern Ghats** | Continuous, high, steep western scarp vs highly dissected, broken, lower relict hills | पश्चिमी घाट / पूर्वी घाट |
-| **Vindhya Range** | **Satpura Range** | North of Narmada rift valley vs south of Narmada rift valley (between Narmada & Tapi) | विंध्य / सतपुड़ा |
-| **Andaman & Nicobar** | **Lakshadweep** | Submerged volcanic mountain peaks (Bay of Bengal) vs coral atoll formations (Arabian Sea) | अंडमान / लक्षद्वीप |
-| **Deccan Plateau** | **Deccan Trap** | Vast triangular southern tableland vs Cretaceous basalt lava plateau covering northwestern part | दक्कन पठार / दक्कन ट्रैप |
-| **Purvanchal Hills** | **UP Purvanchal Plains** | North-Eastern tertiary fold mountain ranges vs Eastern Uttar Pradesh alluvial plain region | पूर्वांचल पहाड़ियाँ / उप्र पूर्वांचल |
-| **Marwar Plateau** | **Marwar Plain** (Thar) | Upland plateau lying east of Aravallis vs sandy desert/semi-arid plain west of Aravallis | मारवाड़ पठार / मारवाड़ मैदान |
-| **Karewa** | **Dun** | Lacustrine saffron-bearing clay terraces of Kashmir vs longitudinal tectonic valleys between Lesser Himalaya & Shiwalik | करेवा / दून |
-| **Sela Tunnel** | **Atal Tunnel** | Arunachal Pradesh (Tezpur–Tawang link, >13,000 ft) vs Himachal Pradesh (under Rohtang in Pir Panjal, >10,000 ft) | सेला टनल / अटल टनल |
-| **Malnad** | **Maidan** | Heavily forested hilly Western Ghats tract of Karnataka vs undulating open plateau plains to the east | मलनाड / मैदान |
-| **Anaimudi** | **Doddabetta** | Highest peak of Peninsular India (Anamalai Hills, Kerala) vs second-highest peak (Nilgiri Hills, Tamil Nadu) | अनाईमुडी / दोड्डाबेट्टा |
-| **K2** (Godwin Austen) | **Kanchenjunga** | In Karakoram Range (Trans-Himalaya, PoK) vs in Greater Himalaya (Sikkim; highest peak entirely within India's direct control) | के2 / कंचनजंगा |
-| **Lipulekh Pass** | **Mana / Niti Pass** | Pithoragarh, Kumaon (tri-junction with Nepal & Tibet) vs Chamoli, Garhwal (near Badrinath to Tibet) — both in Uttarakhand | लिपुलेख / माना-नीति |
-| **Bomdi La** | **Bomdila** | High mountain pass connecting Arunachal to Tibet vs administrative district headquarters town | बोमडिला दर्रा / शहर |
-| **Indira Col** | **Indira Point** | India's northernmost point (Siachen/Karakoram) vs southernmost point (Great Nicobar, 6°45′ N) | इंदिरा कोल / इंदिरा पॉइंट |
-| **Tropic of Cancer** | **Standard Meridian (82°30′ E)** | Passes through 8 states (GJ, RJ, MP, CG, JH, WB, TR, MZ) vs passes through 5 states (UP, MP, CG, OD, AP); intersect in Chhattisgarh | कर्क रेखा / मानक मध्याह्न |
-| **Tirumala Hills** | **Shevaroy Hills** | Venkateswara temple, Eastern Ghats (Andhra Pradesh) vs southern detached hills (Salem, Tamil Nadu) | तिरुमाला / शेवरॉय |
-| **Konkan Coast** | **Malabar / Coromandel** | Coast of submergence (drowned coastline) vs coast of emergence (lagoon & sandbar coastline) | कोंकण / मालाबार-कोरोमंडल |
-| **Siachen Glacier** | **Zemu Glacier** | Karakoram Range (Nubra River source; ~76 km) vs Sikkim Himalaya (Teesta River source; ~26 km) | सियाचिन / जेमू ग्लेशियर |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Himalayan Ranges North to South: **KLZPD**
@@ -239,373 +232,357 @@ hide:
 ### 6. Western Ghats Passes North to South: **T-B-P-S**
 - **T**halghat (Mumbai–Nashik) → **B**horghat (Mumbai–Pune) → **P**alghat (Palakkad Gap, KL–TN) → **S**henkottai (Kollam–Madurai)
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-With reference to the physiographic divisions of India, which of the following statements is/are correct?
-
-1. India is commonly divided into six major physiographic divisions for map questions.
-2. The Thar Desert is a Tertiary sand sheet older than the Himalayan foredeep fill.
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only statement 1 is correct.
-
-**Logic:** The Thar is a **Pleistocene–recent** sand sheet, not a Tertiary desert. Six-division map frame is standard.
-
-</details>
-
-**Q2.**
-Arrange the Himalayan belts from north to south:
-
-A. Trans-Himalaya → Himadri → Himachal → Shiwalik
-B. Himadri → Trans-Himalaya → Himachal → Shiwalik
-C. Shiwalik → Himachal → Himadri → Trans-Himalaya
-D. Himachal → Himadri → Shiwalik → Trans-Himalaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Trans-Himalaya → Himadri → Himachal → Shiwalik.
-
-**Logic:** Shiwalik is the outermost southern belt. Reversing the ladder is the classic trap.
-
-</details>
-
-**Q3.**
-Which one of the following pairs is correctly matched?
-
-A. Shiwalik — unconsolidated sediments / human remains
-B. Himadri — marine fossils
-C. Himachal — fossil-less crystalline core
-D. Aravalli — youngest fold belt of India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Shiwalik holds unconsolidated sediments and human remains.
-
-**Logic:** Himadri is fossil-less crystalline; Himachal carries marine fossils; Aravalli is the oldest fold system among usual options.
-
-</details>
-
-**Q4.**
-Assertion (A): The Kashmir Valley lies between the Pir Panjal in the south and the Himadri in the north.
-Reason (R): Karewas are longitudinal valleys between Himachal and Shiwalik.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A is true; R is false.
-
-**A/R logic:** Karewas are lacustrine terraces of Kashmir; a **dun** is the longitudinal valley between Himachal and Shiwalik.
-
-</details>
-
-**Q5.**
-Which of the following is NOT crossed by the Tropic of Cancer?
-
-A. Uttar Pradesh
-B. Madhya Pradesh
-C. Tripura
-D. Mizoram
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Uttar Pradesh is not on the Tropic of Cancer.
-
-**Logic:** Eight-state W→E list ends with Tripura and Mizoram; UP and Ladakh are classic exclusions.
-
-</details>
-
-**Q6.**
-Indian Standard Time is based on which meridian?
-
-A. 82°30′ E near Prayagraj
-B. 82°30′ E near Mirzapur
-C. 90° E near Kolkata
-D. 75° E near Jaipur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** IST uses **82°30′ E** near **Mirzapur (UP)** for the whole country.
-
-**Logic:** Trap swaps Mirzapur with Prayagraj or invents a second Indian time zone.
-
-</details>
-
-**Q7.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Pass / peak) | List-II (State / location) |
-|---|---|
-| 1. Lipulekh | A. Sikkim |
-| 2. Nathu La | B. Uttarakhand |
-| 3. Shipki La | C. Himachal Pradesh |
-| 4. Guru Shikhar | D. Rajasthan |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-B, 2-C, 3-A, 4-D
-D. 1-C, 2-A, 3-B, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Lipulekh = Uttarakhand; Nathu La = Sikkim; Shipki La = Himachal; Guru Shikhar = Rajasthan.
-
-**Logic:** Row order is not the answer code. Lipulekh ≠ Ladakh is the main trap.
-
-</details>
-
-**Q8.**
-With reference to coasts of India, which of the following statements is/are correct?
-
-1. The Konkan coast is a coast of submergence.
-2. The Coromandel coast is a coast of emergence.
-
-A. Only 1
-B. Both 1 and 2
-C. Only 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both statements are correct.
-
-**Logic:** Malabar and Coromandel = emergence; Konkan = submergence.
-
-</details>
-
-**Q9.**
-Which one of the following correctly distinguishes Andaman–Nicobar from Lakshadweep?
-
-A. Both are coral atolls in the Bay of Bengal
-B. Andaman–Nicobar are largely volcanic/tectonic; Lakshadweep is coral
-C. Both are volcanic arcs in the Arabian Sea
-D. Lakshadweep is volcanic; Andaman–Nicobar are coral
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Andaman–Nicobar = volcanic/tectonic (Bay of Bengal); Lakshadweep = coral (Arabian Sea).
-
-**Logic:** Origin tags and seas are swapped in distractors.
-
-</details>
-
-**Q10.**
-Which channel separates Andaman from Nicobar?
-
-A. 8° Channel
-B. 10° Channel
-C. 9° Channel
-D. Duncan Passage only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** The **10° Channel** separates Andaman from Nicobar.
-
-**Logic:** 9° = Minicoy vs rest of Lakshadweep; 8° = Minicoy vs Maldives.
-
-</details>
-
-**Q11.**
-Consider the following statements:
-
-1. Western Ghats form a continuous wall; Eastern Ghats are discontinuous.
-2. Anaimudi is the highest peak of South India.
-3. Jindhagada is the usual highest peak of the Eastern Ghats.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** All three statements are correct.
-
-**Logic:** Continuous vs discontinuous Ghats, Anaimudi (2695 m), and Jindhagada (~1690 m) are standard crowns.
-
-</details>
-
-**Q12.**
-Which one of the following is the southernmost point of Indian territory?
-
-A. Kanyakumari
-B. Indira Col
-C. Indira Point
-D. Guhar Moti
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Indira Point** (Great Nicobar) is the southernmost **territory**.
-
-**Logic:** Kanyakumari = southernmost mainland; Indira Col = northern extreme.
-
-</details>
-
-**Q13.**
-Assertion (A): Vindhya lies north of the Narmada and Satpura lies south of the Narmada.
-Reason (R): Central India hills from west to east run Satpura → Mahadeo → Maikal → Chhotanagpur.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both are true, but R describes the W→E hill chain, not why Vindhya/Satpura flank the Narmada.
-
-**A/R logic:** A is the Narmada sandwich fact; R is a separate central-India sequence fact.
-
-</details>
-
-**Q14.**
-Tirupati’s Venkateswara temple stands on which hills?
-
-A. Shevaroy Hills
-B. Anamalai Hills
-C. Tirumala / Mallamalla Hills of the Eastern Ghats
-D. Cardamom Hills
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Tirumala / Mallamalla Hills — Eastern Ghats (Andhra Pradesh).
-
-**Logic:** Shevaroy (Tamil Nadu) is the frequent wrong hill match.
-
-</details>
-
-**Q15.**
-With reference to India, which of the following statements is/are correct?
-
-1. India is the sixth-largest country by area.
-2. India occupies about 2.4% of the world’s land area.
-3. The Tropic of Cancer passes through the middle of the country.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Statements 2 and 3 are correct.
-
-**Logic:** Area rank is **7th**, not 6th. Middle-Tropic fact does not make India wholly tropical.
-
-</details>
-
-**Q16.**
-Which one of the following peaks is the highest peak fully in India?
-
-A. K2
-B. Namcha Barwa
-C. Nanga Parbat
-D. Kanchenjunga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **Kanchenjunga** is the highest peak fully in India.
-
-**Logic:** K2 = Karakoram; Namcha Barwa = Tibet; Nanga Parbat = western syntaxial bend tag.
-
-</details>
-
-**Q17.**
-Marwar Plateau and Marwar Plain are correctly distinguished as:
-
-A. Plateau west of Aravalli; Plain east of Aravalli
-B. Both lie west of Aravalli
-C. Both lie east of Aravalli
-D. Plateau east of Aravalli; Plain / Thar west of Aravalli
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Plateau = east of Aravalli; Plain / Thar = west of Aravalli.
-
-**Logic:** East–west swap around the Aravalli is the core trap.
-
-</details>
-
-**Q18.**
-Which of the following states has the longest mainland coastline?
-
-A. Andhra Pradesh
-B. Tamil Nadu
-C. Maharashtra
-D. Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** **Gujarat** has the longest mainland state coastline.
-
-**Logic:** AP and Tamil Nadu follow; Telangana is not coastal.
-
-</details>
-
-**Q19.**
-Consider the following statements about Meghalaya hills:
-
-1. Garo, Khasi and Jaintia hills form the Meghalaya Plateau.
-2. These hills are geologically Himalayan fold ranges.
-3. Mawsynram and Cherrapunji sit on the Khasi Hills.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Statements 1 and 3 are correct.
-
-**Logic:** Meghalaya Plateau is geologically **peninsular**, not a Himalayan fold belt.
-
-</details>
-
-**Q20.**
-Which one of the following correctly describes the Atal Tunnel?
-
-A. World’s longest highway tunnel without any altitude qualifier
-B. Tunnel under Zoji La linking Srinagar with Tawang
-C. Twin-lane tunnel on the Eastern Ghats near Tirumala
-D. Longest highway tunnel above 10,000 ft under Rohtang in the Pir Panjal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Atal Tunnel = Rohtang / Pir Panjal; safe tag is longest highway tunnel **above 10,000 ft**.
-
-**Logic:** Unqualified “world’s longest” and Zoji La / Sela mix-ups are common distractors.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the physiographic divisions of India, which of the following statements is/are correct?<br><br>1. India is commonly divided into six major physiographic divisions for map questions.<br>2. The Thar Desert is a Tertiary sand sheet older than the Himalayan foredeep fill.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only statement 1 is correct.
+
+**Logic:** The Thar is a **Pleistocene–recent** sand sheet, not a Tertiary desert. Six-division map frame is standard.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Arrange the Himalayan belts from north to south:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Trans-Himalaya → Himadri → Himachal → Shiwalik</div><div class="pyq-opt"><span class="opt-letter">B</span> Himadri → Trans-Himalaya → Himachal → Shiwalik</div><div class="pyq-opt"><span class="opt-letter">C</span> Shiwalik → Himachal → Himadri → Trans-Himalaya</div><div class="pyq-opt"><span class="opt-letter">D</span> Himachal → Himadri → Shiwalik → Trans-Himalaya</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Trans-Himalaya → Himadri → Himachal → Shiwalik.
+
+**Logic:** Shiwalik is the outermost southern belt. Reversing the ladder is the classic trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shiwalik — unconsolidated sediments / human remains</div><div class="pyq-opt"><span class="opt-letter">B</span> Himadri — marine fossils</div><div class="pyq-opt"><span class="opt-letter">C</span> Himachal — fossil-less crystalline core</div><div class="pyq-opt"><span class="opt-letter">D</span> Aravalli — youngest fold belt of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Shiwalik holds unconsolidated sediments and human remains.
+
+**Logic:** Himadri is fossil-less crystalline; Himachal carries marine fossils; Aravalli is the oldest fold system among usual options.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): The Kashmir Valley lies between the Pir Panjal in the south and the Himadri in the north.<br>Reason (R): Karewas are longitudinal valleys between Himachal and Shiwalik.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is true; R is false.
+
+**A/R logic:** Karewas are lacustrine terraces of Kashmir; a **dun** is the longitudinal valley between Himachal and Shiwalik.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT crossed by the Tropic of Cancer?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Uttar Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Madhya Pradesh</div><div class="pyq-opt"><span class="opt-letter">C</span> Tripura</div><div class="pyq-opt"><span class="opt-letter">D</span> Mizoram</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Uttar Pradesh is not on the Tropic of Cancer.
+
+**Logic:** Eight-state W→E list ends with Tripura and Mizoram; UP and Ladakh are classic exclusions.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Indian Standard Time is based on which meridian?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 82°30′ E near Prayagraj</div><div class="pyq-opt"><span class="opt-letter">B</span> 82°30′ E near Mirzapur</div><div class="pyq-opt"><span class="opt-letter">C</span> 90° E near Kolkata</div><div class="pyq-opt"><span class="opt-letter">D</span> 75° E near Jaipur</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> IST uses **82°30′ E** near **Mirzapur (UP)** for the whole country.
+
+**Logic:** Trap swaps Mirzapur with Prayagraj or invents a second Indian time zone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Pass / peak)</th><th>List-II (State / location)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Lipulekh</td><td><span class="match-key">A</span> Sikkim</td></tr>
+      <tr><td><span class="match-key">2</span> Nathu La</td><td><span class="match-key">B</span> Uttarakhand</td></tr>
+      <tr><td><span class="match-key">3</span> Shipki La</td><td><span class="match-key">C</span> Himachal Pradesh</td></tr>
+      <tr><td><span class="match-key">4</span> Guru Shikhar</td><td><span class="match-key">D</span> Rajasthan</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-C, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-C, 2-A, 3-B, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Lipulekh = Uttarakhand; Nathu La = Sikkim; Shipki La = Himachal; Guru Shikhar = Rajasthan.
+
+**Logic:** Row order is not the answer code. Lipulekh ≠ Ladakh is the main trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to coasts of India, which of the following statements is/are correct?<br><br>1. The Konkan coast is a coast of submergence.<br>2. The Coromandel coast is a coast of emergence.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both statements are correct.
+
+**Logic:** Malabar and Coromandel = emergence; Konkan = submergence.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which one of the following correctly distinguishes Andaman–Nicobar from Lakshadweep?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both are coral atolls in the Bay of Bengal</div><div class="pyq-opt"><span class="opt-letter">B</span> Andaman–Nicobar are largely volcanic/tectonic; Lakshadweep is coral</div><div class="pyq-opt"><span class="opt-letter">C</span> Both are volcanic arcs in the Arabian Sea</div><div class="pyq-opt"><span class="opt-letter">D</span> Lakshadweep is volcanic; Andaman–Nicobar are coral</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Andaman–Nicobar = volcanic/tectonic (Bay of Bengal); Lakshadweep = coral (Arabian Sea).
+
+**Logic:** Origin tags and seas are swapped in distractors.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which channel separates Andaman from Nicobar?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 8° Channel</div><div class="pyq-opt"><span class="opt-letter">B</span> 10° Channel</div><div class="pyq-opt"><span class="opt-letter">C</span> 9° Channel</div><div class="pyq-opt"><span class="opt-letter">D</span> Duncan Passage only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> The **10° Channel** separates Andaman from Nicobar.
+
+**Logic:** 9° = Minicoy vs rest of Lakshadweep; 8° = Minicoy vs Maldives.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Western Ghats form a continuous wall; Eastern Ghats are discontinuous.<br>2. Anaimudi is the highest peak of South India.<br>3. Jindhagada is the usual highest peak of the Eastern Ghats.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Continuous vs discontinuous Ghats, Anaimudi (2695 m), and Jindhagada (~1690 m) are standard crowns.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is the southernmost point of Indian territory?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kanyakumari</div><div class="pyq-opt"><span class="opt-letter">B</span> Indira Col</div><div class="pyq-opt"><span class="opt-letter">C</span> Indira Point</div><div class="pyq-opt"><span class="opt-letter">D</span> Guhar Moti</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Indira Point** (Great Nicobar) is the southernmost **territory**.
+
+**Logic:** Kanyakumari = southernmost mainland; Indira Col = northern extreme.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Vindhya lies north of the Narmada and Satpura lies south of the Narmada.<br>Reason (R): Central India hills from west to east run Satpura → Mahadeo → Maikal → Chhotanagpur.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true, but R describes the W→E hill chain, not why Vindhya/Satpura flank the Narmada.
+
+**A/R logic:** A is the Narmada sandwich fact; R is a separate central-India sequence fact.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Tirupati’s Venkateswara temple stands on which hills?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Shevaroy Hills</div><div class="pyq-opt"><span class="opt-letter">B</span> Anamalai Hills</div><div class="pyq-opt"><span class="opt-letter">C</span> Tirumala / Mallamalla Hills of the Eastern Ghats</div><div class="pyq-opt"><span class="opt-letter">D</span> Cardamom Hills</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Tirumala / Mallamalla Hills — Eastern Ghats (Andhra Pradesh).
+
+**Logic:** Shevaroy (Tamil Nadu) is the frequent wrong hill match.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to India, which of the following statements is/are correct?<br><br>1. India is the sixth-largest country by area.<br>2. India occupies about 2.4% of the world’s land area.<br>3. The Tropic of Cancer passes through the middle of the country.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 2 and 3 are correct.
+
+**Logic:** Area rank is **7th**, not 6th. Middle-Tropic fact does not make India wholly tropical.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which one of the following peaks is the highest peak fully in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> K2</div><div class="pyq-opt"><span class="opt-letter">B</span> Namcha Barwa</div><div class="pyq-opt"><span class="opt-letter">C</span> Nanga Parbat</div><div class="pyq-opt"><span class="opt-letter">D</span> Kanchenjunga</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Kanchenjunga** is the highest peak fully in India.
+
+**Logic:** K2 = Karakoram; Namcha Barwa = Tibet; Nanga Parbat = western syntaxial bend tag.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Marwar Plateau and Marwar Plain are correctly distinguished as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Plateau west of Aravalli; Plain east of Aravalli</div><div class="pyq-opt"><span class="opt-letter">B</span> Both lie west of Aravalli</div><div class="pyq-opt"><span class="opt-letter">C</span> Both lie east of Aravalli</div><div class="pyq-opt"><span class="opt-letter">D</span> Plateau east of Aravalli; Plain / Thar west of Aravalli</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Plateau = east of Aravalli; Plain / Thar = west of Aravalli.
+
+**Logic:** East–west swap around the Aravalli is the core trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following states has the longest mainland coastline?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Andhra Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Tamil Nadu</div><div class="pyq-opt"><span class="opt-letter">C</span> Maharashtra</div><div class="pyq-opt"><span class="opt-letter">D</span> Gujarat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Gujarat** has the longest mainland state coastline.
+
+**Logic:** AP and Tamil Nadu follow; Telangana is not coastal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Meghalaya hills:<br><br>1. Garo, Khasi and Jaintia hills form the Meghalaya Plateau.<br>2. These hills are geologically Himalayan fold ranges.<br>3. Mawsynram and Cherrapunji sit on the Khasi Hills.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 3 are correct.
+
+**Logic:** Meghalaya Plateau is geologically **peninsular**, not a Himalayan fold belt.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following correctly describes the Atal Tunnel?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> World’s longest highway tunnel without any altitude qualifier</div><div class="pyq-opt"><span class="opt-letter">B</span> Tunnel under Zoji La linking Srinagar with Tawang</div><div class="pyq-opt"><span class="opt-letter">C</span> Twin-lane tunnel on the Eastern Ghats near Tirumala</div><div class="pyq-opt"><span class="opt-letter">D</span> Longest highway tunnel above 10,000 ft under Rohtang in the Pir Panjal</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Atal Tunnel = Rohtang / Pir Panjal; safe tag is longest highway tunnel **above 10,000 ft**.
+
+**Logic:** Unqualified “world’s longest” and Zoji La / Sela mix-ups are common distractors.</div>
+  </div>
+</div>

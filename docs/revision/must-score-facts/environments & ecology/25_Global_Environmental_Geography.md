@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 25 — Global Environmental Geography</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Global environmental geography asks **where and why** Earth’s climate–biome patterns occur. Climate (temperature and rainfall) shapes biomes, biodiversity, and degradation belts.
@@ -75,22 +64,6 @@ hide:
 49. **Atacama (Chile):** among the **driest** deserts on Earth — cold Humboldt Current + rain shadow (छाया).
 50. **Gobi:** cold desert extending mainly into **Mongolia and China**.
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Environmental Legislation & Governance in India
-
-```
-1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
-1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
-1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
-1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
-1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
-1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
-2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
-2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
-2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
-```
-
 ## 📊 Quick Reference Grid
 
 ### Biomes / climate
@@ -110,401 +83,311 @@ hide:
 ---
 
 ![Global Biomes Distribution, Climatic Pressure Belts & World Deserts](images/env_ch25_01_global_biomes_climatic_zones_geography.png)
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-## ⚡ Confused Pairs & Common Examiner Traps
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Biome** | **Ecosystem** | Continental-scale geographical region characterized by distinct climate regimes, soil types, and climax vegetation communities (e.g. Tundra, Taiga, Savanna) vs localized structural and functional ecological unit where living organisms interact with abiotic components (e.g. a pond, forest patch) | जीवोम (बायोम, महाद्वीपीय स्तर) / पारिस्थितिकी तंत्र (स्थानीय कार्यात्मक इकाई) |
-| **Taiga (Boreal Forest)** | **Tundra** | World's largest terrestrial biome dominated by evergreen needleleaf coniferous trees (Spruce, Fir, Pine, Larch) in subarctic latitudes south of the tree-line vs cold, treeless arctic and alpine biome dominated by mosses, lichens, dwarf shrubs, underlain by permafrost | टैगा (बोरियल शंकुधारी वन) / टुंड्रा (वृक्षविहीन शीत मरुस्थल) |
-| **Savanna** | **Steppe / Prairie** | Tropical grassland biome characterized by continuous tall grass cover interspersed with scattered, drought-deciduous drought-resistant trees (e.g. Acacia, Baobab) vs temperate mid-latitude semi-arid grassland biome with treeless expanses of short to tall grasses | सवाना (उष्णकटिबंधीय सवृक्ष घास मैदान) / स्टेपी/प्रेयरी (शीतोष्ण घास मैदान) |
-| **Selva** | **Puszta** | Dense equatorial tropical rainforest biome of the Amazon River basin characterized by evergreen multi-tiered canopy and extreme biodiversity vs temperate flat grassland plain of the Pannonian Basin in Hungary characterized by continental climate and fertile chernozem soils | सेल्वा (अमेज़न वर्षावन) / पुस्ज़टा (हंगरी शीतोष्ण घास मैदान) |
-| **Permafrost** | **Mollisols (Chernozem)** | Subsurface ground (soil, sediment, or rock) that remains continuously frozen below 0°C for at least two consecutive years, trapping massive ancient methane and organic carbon deposits vs deep, dark, humus-rich organic soils characteristic of temperate grasslands with highest agricultural fertility | स्थायी हिम मृदा (पर्माफ्रॉस्ट) / चेर्नोज़म (काली उपजाऊ घास मृदा) |
-| **Biodiversity Hotspot** | **Ecological Island** | Large biogeographic region meeting Norman Myers' criteria (≥1,500 endemic plant species and ≥70% primary habitat lost) vs isolated terrestrial habitat surrounded by completely different ecosystems or human urbanization functioning like an oceanic island | जैव विविधता हॉटस्पॉट (ह्रासग्रस्त समृद्ध क्षेत्र) / पारिस्थितिक द्वीप (पृथक वास) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Assertion (A): The interior part of Australia is desert and semi-desert.
-
-Reason (R): Northern Australia is situated in the temperate zone.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** (A) on interior aridity is true. (R) is false — northern Australia is largely **tropical**, not temperate.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): The interior part of Australia is desert and semi-desert.<br><br>Reason (R): Northern Australia is situated in the temperate zone.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** (A) on interior aridity is true. (R) is false — northern Australia is largely **tropical**, not temperate.
 
 **Ans: C.** Interior desert from **subtropical high + continentality**, not temperate-zone location.
 
-**Trap:** Accepting northern Australia as **temperate** to explain desert.
+**Trap:** Accepting northern Australia as **temperate** to explain desert.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-Consider the following tribe–habitat pairs:
-
-1. Bushman — Kalahari
-2. Eskimo — Northern Canada
-3. Pygmy — Congo basin
-4. Masai — West Africa
-
-Which pair(s) is/are **NOT** correctly matched?
-
-A. Only 1
-
-B. Only 4
-
-C. Only 2
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Masai are East African (Kenya/Tanzania), not West Africa — only the fourth pair is wrong.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following tribe–habitat pairs:<br><br>1. Bushman — Kalahari<br>2. Eskimo — Northern Canada<br>3. Pygmy — Congo basin<br>4. Masai — West Africa<br><br>Which pair(s) is/are **NOT** correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 4</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Masai are East African (Kenya/Tanzania), not West Africa — only the fourth pair is wrong.
 
 **Ans: B (Only 4).** **Masai–West Africa** is the incorrectly matched pair.
 
-**Trap:** Bushman–Kalahari or Pygmy–Congo — both are standard correct pairs.
+**Trap:** Bushman–Kalahari or Pygmy–Congo — both are standard correct pairs.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-The Gobi Desert extends into:
-
-1. Mongolia
-2. China
-3. Russia
-4. Kazakhstan
-
-A. Only 1 and 2
-
-B. Only 1, 2 and 4
-
-C. Only 1, 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gobi cold desert spans Mongolia–China core; Russia/Kazakhstan are marginal distractors.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The Gobi Desert extends into:<br><br>1. Mongolia<br>2. China<br>3. Russia<br>4. Kazakhstan</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1, 2 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Gobi cold desert spans Mongolia–China core; Russia/Kazakhstan are marginal distractors.
 
 **Ans: A.** **Gobi extends mainly into Mongolia and China**.
 
-**Trap:** Adding **Russia** or **Kazakhstan** as primary extent countries.
+**Trap:** Adding **Russia** or **Kazakhstan** as primary extent countries.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-With reference to Brazil, consider the following statements:
-
-1. Equatorial rainforests there are called "Selva".
-2. Fertile dark soil known as "Terra Roxa" is found there.
-
-A. Only 1
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Amazon Selva + basaltic Terra Roxa coffee/soy belt — both standard Brazil geography facts.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to Brazil, consider the following statements:<br><br>1. Equatorial rainforests there are called "Selva".<br>2. Fertile dark soil known as "Terra Roxa" is found there.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Amazon Selva + basaltic Terra Roxa coffee/soy belt — both standard Brazil geography facts.
 
 **Ans: C (Both 1 and 2).** **Selva** and **Terra Roxa** statements are both correct.
 
-**Trap:** Terra Roxa confused with **latosol/terra firme** generic labels only.
+**Trap:** Terra Roxa confused with **latosol/terra firme** generic labels only.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Match List-I with List-II:
-
-| List-I | List-II |
-| --- | --- |
-| A. Planting Hearth | 1. Hungary |
-| B. Cryophyte Steppe | 2. Adolf Engler |
-| C. World Floral Regions | 3. C.O. Sauer |
-| D. Puszta Grassland | 4. Arctic Tundra |
-
-*Row order is not the answer code.*
-
-A. 3 4 2 1
-
-B. 2 1 4 3
-
-C. 3 4 1 2
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Engler = floral regions; Sauer = planting hearth; Puszta = Hungary; cryophyte steppe = Arctic tundra.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Planting Hearth</td><td><span class="match-key">1</span> Hungary</td></tr>
+      <tr><td><span class="match-key">B</span> Cryophyte Steppe</td><td><span class="match-key">2</span> Adolf Engler</td></tr>
+      <tr><td><span class="match-key">C</span> World Floral Regions</td><td><span class="match-key">3</span> C.O. Sauer</td></tr>
+      <tr><td><span class="match-key">D</span> Puszta Grassland</td><td><span class="match-key">4</span> Arctic Tundra</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 3 4 2 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 1 4 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 3 4 1 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 3 4 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Engler = floral regions; Sauer = planting hearth; Puszta = Hungary; cryophyte steppe = Arctic tundra.
 
 **Ans: A (3 4 2 1).** Sauer (3), Arctic Tundra (4), Engler (2), Hungary (1).
 
-**Trap:** Swapping **Engler** and **Sauer**.
+**Trap:** Swapping **Engler** and **Sauer**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-Which one of the following natural regions is known as the "Land of Big Games"?
-
-A. Temperate Grassland
-
-B. Tropical Monsoon Region
-
-C. Hot Desert Region
-
-D. Tropical Savanna Region
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** African savanna (Serengeti-type) = big-game grassland–woodland mosaic.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which one of the following natural regions is known as the "Land of Big Games"?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Temperate Grassland</div><div class="pyq-opt"><span class="opt-letter">B</span> Tropical Monsoon Region</div><div class="pyq-opt"><span class="opt-letter">C</span> Hot Desert Region</div><div class="pyq-opt"><span class="opt-letter">D</span> Tropical Savanna Region</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** African savanna (Serengeti-type) = big-game grassland–woodland mosaic.
 
 **Ans: D.** **Tropical Savanna** is the Land of Big Games.
 
-**Trap:** **Temperate grassland** (Pampas/Prairie) or **hot desert** safari confusion.
+**Trap:** **Temperate grassland** (Pampas/Prairie) or **hot desert** safari confusion.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-Match List-I with List-II:
-
-| List-I (Natural Vegetation) | List-II (Region) |
-| --- | --- |
-| A. Epiphytes | 1. Mediterranean |
-| B. Acacia | 2. Equatorial |
-| C. Baobab | 3. Sahara |
-| D. Cedars | 4. Savanna |
-
-*Row order is not the answer code.*
-
-A. 2 3 4 1
-
-B. 2 3 1 4
-
-C. 2 4 3 1
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Epiphytes–equatorial; acacia–Sahara fringe; baobab–savanna; cedars–Mediterranean.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Natural Vegetation)</th><th>List-II (Region)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Epiphytes</td><td><span class="match-key">1</span> Mediterranean</td></tr>
+      <tr><td><span class="match-key">B</span> Acacia</td><td><span class="match-key">2</span> Equatorial</td></tr>
+      <tr><td><span class="match-key">C</span> Baobab</td><td><span class="match-key">3</span> Sahara</td></tr>
+      <tr><td><span class="match-key">D</span> Cedars</td><td><span class="match-key">4</span> Savanna</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 3 4 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 3 1 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 4 1 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Epiphytes–equatorial; acacia–Sahara fringe; baobab–savanna; cedars–Mediterranean.
 
 **Ans: A (2 3 4 1).** Code **2 3 4 1** for equatorial–Sahara–savanna–Mediterranean pairs.
 
-**Trap:** Baobab on Sahara or acacia on equatorial rainforest.
+**Trap:** Baobab on Sahara or acacia on equatorial rainforest.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-Pampas grassland is located mainly in:
-
-A. Argentina
-
-B. Hungary
-
-C. Australia
-
-D. Kazakhstan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Temperate grassland names — Pampas = Argentina; Puszta = Hungary; Prairie = North America.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Pampas grassland is located mainly in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Argentina</div><div class="pyq-opt"><span class="opt-letter">B</span> Hungary</div><div class="pyq-opt"><span class="opt-letter">C</span> Australia</div><div class="pyq-opt"><span class="opt-letter">D</span> Kazakhstan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Temperate grassland names — Pampas = Argentina; Puszta = Hungary; Prairie = North America.
 
 **Ans: A.** **Pampas grassland is in Argentina**.
 
-**Trap:** **Hungary** (Puszta) or **Kazakhstan** (steppe).
+**Trap:** **Hungary** (Puszta) or **Kazakhstan** (steppe).</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-Permafrost is characteristically found in which biomes?
-
-A. Tropical rainforest and monsoon forest
-
-B. Taiga and tundra
-
-C. Hot desert and Mediterranean scrub
-
-D. Tropical savanna only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Cold high-latitude/altitude belts — boreal forest with frozen ground patches and continuous tundra permafrost.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Permafrost is characteristically found in which biomes?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tropical rainforest and monsoon forest</div><div class="pyq-opt"><span class="opt-letter">B</span> Taiga and tundra</div><div class="pyq-opt"><span class="opt-letter">C</span> Hot desert and Mediterranean scrub</div><div class="pyq-opt"><span class="opt-letter">D</span> Tropical savanna only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Cold high-latitude/altitude belts — boreal forest with frozen ground patches and continuous tundra permafrost.
 
 **Ans: B.** **Permafrost occurs in taiga and tundra**.
 
-**Trap:** **Savanna** or **desert** — no continuous permafrost.
+**Trap:** **Savanna** or **desert** — no continuous permafrost.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.**
-
-Species diversity generally ______ from the equator towards the poles.
-
-A. increases
-
-B. decreases
-
-C. remains constant
-
-D. peaks at mid-latitudes only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Latitudinal diversity gradient — richest near equator, poorer toward poles.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Species diversity generally ______ from the equator towards the poles.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> increases</div><div class="pyq-opt"><span class="opt-letter">B</span> decreases</div><div class="pyq-opt"><span class="opt-letter">C</span> remains constant</div><div class="pyq-opt"><span class="opt-letter">D</span> peaks at mid-latitudes only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Latitudinal diversity gradient — richest near equator, poorer toward poles.
 
 **Ans: B.** **Species diversity decreases from equator to poles**.
 
-**Trap:** Statement "diversity increases toward poles" — false stem in 2019 Q58 trap family.
+**Trap:** Statement "diversity increases toward poles" — false stem in 2019 Q58 trap family.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to biomes, which of the following statements is/are correct?<br><br>1. Large climate-defined vegetation–fauna regions.<br>2. Ecosystem means only a continent-scale climate zone identical to a biome.<br>3. Biome and ecosystem are identical terms always.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
 
-**Q11.** With reference to biomes, which of the following statements is/are correct?
+**Logic:** Statement 1 is true (biome = large climate-defined region). Statement 2 is false — ecosystem is the local biotic–abiotic functional unit. Statement 3 is false — biome ≠ ecosystem always.</div>
+  </div>
+</div>
 
-1. Large climate-defined vegetation–fauna regions.
-2. Ecosystem means only a continent-scale climate zone identical to a biome.
-3. Biome and ecosystem are identical terms always.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match Köppen letters:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> A</td><td><span class="match-key">1</span> Arid</td></tr>
+      <tr><td><span class="match-key">B</span> B</td><td><span class="match-key">2</span> Tropical</td></tr>
+      <tr><td><span class="match-key">C</span> C</td><td><span class="match-key">3</span> Temperate</td></tr>
+      <tr><td><span class="match-key">D</span> E</td><td><span class="match-key">4</span> Polar</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3, D-4.
 
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. 2 and 3
+**Logic:** Tropical/arid/temperate/polar.</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. Sahara — largest hot desert<br>2. Atacama — among the driest<br>3. Gobi — Mongolia and China</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three.
 
-**Ans: A.** Only 1 is correct.
+**Logic:** Desert classics.</div>
+  </div>
+</div>
 
-**Logic:** Statement 1 is true (biome = large climate-defined region). Statement 2 is false — ecosystem is the local biotic–abiotic functional unit. Statement 3 is false — biome ≠ ecosystem always.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Australia’s interior desert is explained mainly by subtropical high pressure and continentality.<br><br>Reason (R): Northern Australia is situated in the temperate zone.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true, R false.
 
-</details>
+**A/R logic:** UPPCS-style Australia A/R trap — north is tropical, not temperate.</div>
+  </div>
+</div>
 
-**Q12.** Match Köppen letters:
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to Brazil, which of the following statements is/are correct?<br><br>1. Selva = Amazon equatorial rainforest name.<br>2. Terra Roxa = fertile dark volcanic soil.<br>3. Both can be true together in match stems.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three.
 
-| List-I | List-II |
-|--------|--------|
-| A. A | 1. Arid |
-| B. B | 2. Tropical |
-| C. C | 3. Temperate |
-| D. E | 4. Polar |
-
-Code:
-
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-3, D-4
-D. A-3, B-1, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A-2, B-1, C-3, D-4.
-
-**Logic:** Tropical/arid/temperate/polar.
-
-</details>
-
-**Q13.** Which of the following pairs is/are correctly matched?
-
-1. Sahara — largest hot desert
-2. Atacama — among the driest
-3. Gobi — Mongolia and China
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three.
-
-**Logic:** Desert classics.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Australia’s interior desert is explained mainly by subtropical high pressure and continentality.
-
-Reason (R): Northern Australia is situated in the temperate zone.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true, R false.
-
-**A/R logic:** UPPCS-style Australia A/R trap — north is tropical, not temperate.
-
-</details>
-
-**Q15.** With reference to Brazil, which of the following statements is/are correct?
-
-1. Selva = Amazon equatorial rainforest name.
-2. Terra Roxa = fertile dark volcanic soil.
-3. Both can be true together in match stems.
-
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three.
-
-**Logic:** Selva + Terra Roxa.
-
-</details>
+**Logic:** Selva + Terra Roxa.</div>
+  </div>
+</div>

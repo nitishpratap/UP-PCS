@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+
+@page {
+    size: A4;
+    margin: 10mm 10mm 12mm 10mm;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Nirmala UI", sans-serif;
+    font-size: 8.6pt;
+    line-height: 1.4;
+    color: #1e293b;
+    background: #f1f5f9;
+    margin: 0;
+    padding: 0;
+}
+.page-container {
+    max-width: 100%;
+}
+.q-card {
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+    border-radius: 7px;
+    margin-bottom: 11px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    overflow: hidden;
+}
+.q-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f8fafc;
+    border-bottom: 1px solid #e2e8f0;
+    padding: 4px 8px;
+}
+.q-num-badge {
+    background: #1e3a8a;
+    color: #ffffff;
+    font-size: 8pt;
+    font-weight: 800;
+    padding: 2px 7px;
+    border-radius: 4px;
+    letter-spacing: 0.04em;
+}
+.q-tags {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.tag-subject {
+    background: #e0e7ff;
+    color: #3730a3;
+    font-size: 7.2pt;
+    font-weight: 700;
+    padding: 1.5px 6px;
+    border-radius: 10px;
+    border: 1px solid #c7d2fe;
+}
+.tag-topic {
+    background: #f1f5f9;
+    color: #475569;
+    font-size: 7.2pt;
+    font-weight: 600;
+    padding: 1.5px 6px;
+    border-radius: 10px;
+    border: 1px solid #e2e8f0;
+}
+.q-body {
+    padding: 6px 8px 4px;
+    font-size: 8.5pt;
+    line-height: 1.4;
+    color: #1e293b;
+}
+.q-intro p, .q-trailing p, .q-text p {
+    margin: 2px 0 4px;
+}
+.stmt-container {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-left: 3.5px solid #2563eb;
+    border-radius: 5px;
+    padding: 4px 6px;
+    margin: 4px 0;
+}
+.stmt-row {
+    display: flex;
+    align-items: flex-start;
+    margin: 2.5px 0;
+    font-size: 8.3pt;
+    line-height: 1.35;
+}
+.stmt-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #dbeafe;
+    color: #1e40af;
+    font-weight: 800;
+    font-size: 7pt;
+    min-width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-right: 6px;
+    margin-top: 1.5px;
+    flex-shrink: 0;
+}
+.stmt-content {
+    color: #1e293b;
+    flex: 1;
+}
+.ar-container {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 5px;
+    padding: 5px 7px;
+    margin: 4px 0;
+}
+.ar-row {
+    display: flex;
+    align-items: flex-start;
+    margin: 3px 0;
+    font-size: 8.3pt;
+    line-height: 1.35;
+}
+.ar-badge {
+    font-weight: 800;
+    font-size: 7.2pt;
+    padding: 1.5px 5px;
+    border-radius: 3px;
+    margin-right: 6px;
+    flex-shrink: 0;
+}
+.badge-assertion {
+    background: #ede9fe;
+    color: #5b21b6;
+    border: 1px solid #ddd6fe;
+}
+.badge-reason {
+    background: #fce7f3;
+    color: #9d174d;
+    border: 1px solid #fbcfe8;
+}
+.ar-content {
+    color: #1e293b;
+    flex: 1;
+}
+.match-grid-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 4px 0;
+    font-size: 8pt;
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.match-grid-table th {
+    background: #1e3a8a;
+    color: #ffffff;
+    font-weight: 700;
+    text-align: left;
+    padding: 3px 6px;
+    font-size: 7.6pt;
+}
+.match-grid-table td {
+    padding: 3px 6px;
+    border-bottom: 1px solid #f1f5f9;
+    vertical-align: top;
+}
+.match-grid-table tr:nth-child(even) td {
+    background: #f8fafc;
+}
+.match-badge {
+    display: inline-block;
+    font-weight: 800;
+    font-size: 7.2pt;
+    padding: 1px 4px;
+    border-radius: 3px;
+    margin-right: 3px;
+}
+.match-badge-letter {
+    background: #e0e7ff;
+    color: #3730a3;
+}
+.match-badge-number {
+    background: #fef3c7;
+    color: #92400e;
+}
+.opts-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4px;
+    padding: 2px 8px 6px;
+}
+.opts-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 3.5px;
+    padding: 2px 8px 6px;
+}
+.opt-card {
+    display: flex;
+    align-items: flex-start;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 4px;
+    padding: 3px 6px;
+    font-size: 8.2pt;
+    line-height: 1.3;
+}
+.opt-is-correct {
+    background: #f0fdf4;
+    border-color: #86efac;
+}
+.opt-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #f1f5f9;
+    color: #334155;
+    font-weight: 800;
+    font-size: 7.2pt;
+    min-width: 15px;
+    height: 15px;
+    border-radius: 3px;
+    margin-right: 5px;
+    margin-top: 1px;
+    flex-shrink: 0;
+    border: 1px solid #cbd5e1;
+}
+.opt-is-correct .opt-badge {
+    background: #15803d;
+    color: #ffffff;
+    border-color: #15803d;
+}
+.opt-text {
+    color: #1e293b;
+    flex: 1;
+}
+.q-answer-bar {
+    padding: 2px 8px 5px;
+    display: flex;
+    align-items: center;
+}
+.ans-pill {
+    display: inline-flex;
+    align-items: center;
+    background: #15803d;
+    color: #ffffff;
+    font-size: 7.6pt;
+    font-weight: 700;
+    padding: 2px 7px;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+}
+.ans-check {
+    font-weight: 900;
+    margin-right: 4px;
+}
+.q-explanation-box {
+    background: #f8fafc;
+    border-top: 1px solid #e2e8f0;
+    padding: 6px 8px;
+    font-size: 8.1pt;
+    line-height: 1.4;
+}
+.exp-title {
+    font-size: 7.8pt;
+    font-weight: 800;
+    color: #047857;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-bottom: 3px;
+}
+.exp-body ul {
+    margin: 2px 0 3px;
+    padding-left: 14px;
+}
+.exp-body li {
+    margin: 1.5px 0;
+}
+.exp-body p {
+    margin: 2px 0;
+}
+.trap-box {
+    background: #fff1f2;
+    border: 1px solid #fecdd3;
+    border-left: 3.5px solid #e11d48;
+    border-radius: 4px;
+    padding: 4px 6px;
+    margin-top: 5px;
+}
+.trap-title {
+    font-size: 7.8pt;
+    font-weight: 900;
+    color: #be123c;
+    letter-spacing: 0.03em;
+    margin-bottom: 2px;
+}
+.trap-body {
+    font-size: 8pt;
+    line-height: 1.35;
+    color: #881337;
+}
+.trap-body ul {
+    margin: 1.5px 0;
+    padding-left: 14px;
+}
+.trap-body li {
+    margin: 1.5px 0;
+}
+.trap-body p {
+    margin: 1.5px 0;
+}
+
+</style>
+</head>
+<body>
+<div class="page-container">
+
+    <div class="q-card">
+        <div class="q-header">
+            <div class="q-num-badge">Q. 1</div>
+            <div class="q-tags">
+                <span class="tag-subject">🏛️ Indian Polity & Governance</span>
+                <span class="tag-topic">📌 Making of the Constitution</span>
+            </div>
+        </div>
+        <div class="q-body">
+            
+            <div class="q-intro">Match</div>
+            <table class="match-grid-table">
+                <thead>
+                    <tr><th>List-I (Committee)</th><th>List-II (Chairman)</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td class='match-col-1'><span class="match-badge match-badge-letter">A</span> Steering Committee</td><td class='match-col-2'><span class="match-badge match-badge-number">1</span> Jawaharlal Nehru</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">B</span> Provincial Constitution Committee</td><td class='match-col-2'><span class="match-badge match-badge-number">2</span> Sardar Vallabhbhai Patel</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">C</span> Union Powers Committee</td><td class='match-col-2'><span class="match-badge match-badge-number">3</span> Dr. Rajendra Prasad</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">D</span> Fundamental Rights Sub-Committee</td><td class='match-col-2'><span class="match-badge match-badge-number">4</span> J.B. Kripalani</td></tr>
+                </tbody>
+            </table>
+            
+        </div>
+        <div class="opts-grid">
+            
+        <div class="opt-card opt-is-correct">
+            <span class="opt-badge">A</span>
+            <span class="opt-text">A-3, B-2, C-1, D-4</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">B</span>
+            <span class="opt-text">A-2, B-3, C-1, D-4</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">C</span>
+            <span class="opt-text">A-3, B-1, C-2, D-4</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">D</span>
+            <span class="opt-text">A-4, B-2, C-1, D-3</span>
+        </div>
+        
+        </div>
+        <div class="q-answer-bar">
+            <span class="ans-pill"><span class="ans-check">✓</span> Correct Answer: <strong>Option A</strong></span>
+        </div>
+        <div class="q-explanation-box">
+            <div class="exp-title">📘 Detailed Solution & High-Yield Analysis</div>
+            <div class="exp-body"><ul>
+<li>Steering Committee was chaired by Dr. Rajendra Prasad (also Rules of Procedure Committee).</li>
+<li>Provincial Constitution Committee was chaired by Sardar Vallabhbhai Patel.</li>
+<li>Union Powers Committee and Union Constitution Committee were chaired by Pt. Jawaharlal Nehru.</li>
+<li>Fundamental Rights Sub-Committee was chaired by J.B. Kripalani (while Minorities Sub-Committee was chaired by H.C. Mukherjee, and the main Advisory Committee was under Sardar Patel).</li>
+</ul></div>
+            
+            <div class="trap-box">
+                <div class="trap-title">⚠️ आयोग का TRAP / RATTA POINT</div>
+                <div class="trap-body"><p>UPPSC repeatedly traps candidates between the main Advisory Committee on Fundamental Rights &amp; Minorities (headed by Sardar Patel) and its Sub-Committees (FR Sub-committee under J.B. Kripalani, Minorities Sub-committee under H.C. Mukherjee).</p></div>
+            </div>
+            
+        </div>
+    </div>
+    
+    <div class="q-card">
+        <div class="q-header">
+            <div class="q-num-badge">Q. 2</div>
+            <div class="q-tags">
+                <span class="tag-subject">🌍 Geography</span>
+                <span class="tag-topic">📌 Mountain Passes of India</span>
+            </div>
+        </div>
+        <div class="q-body">
+            
+            <div class="q-intro">Match</div>
+            <table class="match-grid-table">
+                <thead>
+                    <tr><th>List-I (Pass)</th><th>List-II (State / UT)</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td class='match-col-1'><span class="match-badge match-badge-letter">A</span> Shipki La</td><td class='match-col-2'><span class="match-badge match-badge-number">1</span> Sikkim</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">B</span> Lipulekh</td><td class='match-col-2'><span class="match-badge match-badge-number">2</span> Himachal Pradesh</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">C</span> Nathu La</td><td class='match-col-2'><span class="match-badge match-badge-number">3</span> Ladakh</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">D</span> Zoji La</td><td class='match-col-2'><span class="match-badge match-badge-number">4</span> Uttarakhand</td></tr>
+                </tbody>
+            </table>
+            
+        </div>
+        <div class="opts-grid">
+            
+        <div class="opt-card opt-is-correct">
+            <span class="opt-badge">A</span>
+            <span class="opt-text">A-2, B-4, C-1, D-3</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">B</span>
+            <span class="opt-text">A-2, B-1, C-4, D-3</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">C</span>
+            <span class="opt-text">A-4, B-2, C-1, D-3</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">D</span>
+            <span class="opt-text">A-3, B-4, C-1, D-2</span>
+        </div>
+        
+        </div>
+        <div class="q-answer-bar">
+            <span class="ans-pill"><span class="ans-check">✓</span> Correct Answer: <strong>Option A</strong></span>
+        </div>
+        <div class="q-explanation-box">
+            <div class="exp-title">📘 Detailed Solution & High-Yield Analysis</div>
+            <div class="exp-body"><ul>
+<li><strong>Shipki La:</strong> Located in Himachal Pradesh (Kinnaur district); the Sutlej river enters India through this pass from Tibet.</li>
+<li><strong>Lipulekh:</strong> Located at the tri-junction of Uttarakhand (Pithoragarh), India, Nepal, and China; vital for the Kailash Mansarovar pilgrimage route.</li>
+<li><strong>Nathu La:</strong> Located in Sikkim (East Sikkim); historic Silk Route branch connecting India with Tibet, reopened in 2006.</li>
+<li><strong>Zoji La:</strong> Located in the UT of Ladakh (connecting Srinagar with Kargil and Leh on Great Himalayas).</li>
+</ul></div>
+            
+            <div class="trap-box">
+                <div class="trap-title">⚠️ आयोग का TRAP / RATTA POINT</div>
+                <div class="trap-body"><p>Note that Zoji La is in Ladakh (post-2019 reorganization), not J&amp;K UT! Banihal pass is in J&amp;K (Pir Panjal range), whereas Zoji La connects Kashmir valley with Ladakh.</p></div>
+            </div>
+            
+        </div>
+    </div>
+    
+    <div class="q-card">
+        <div class="q-header">
+            <div class="q-num-badge">Q. 3</div>
+            <div class="q-tags">
+                <span class="tag-subject">📜 Modern Indian History</span>
+                <span class="tag-topic">📌 Gandhian Movements Chronology</span>
+            </div>
+        </div>
+        <div class="q-body">
+            
+            <div class="q-intro"><p>Arrange the following events of Mahatma Gandhi's early political career in chronological order:</p></div>
+            <div class="stmt-container">
+                
+                <div class="stmt-row">
+                    <span class="stmt-badge">1</span>
+                    <span class="stmt-content">Ahmedabad Mill Strike</span>
+                </div>
+                
+                <div class="stmt-row">
+                    <span class="stmt-badge">2</span>
+                    <span class="stmt-content">Champaran Satyagraha</span>
+                </div>
+                
+                <div class="stmt-row">
+                    <span class="stmt-badge">3</span>
+                    <span class="stmt-content">Kheda Satyagraha</span>
+                </div>
+                
+                <div class="stmt-row">
+                    <span class="stmt-badge">4</span>
+                    <span class="stmt-content">Rowlatt Satyagraha</span>
+                </div>
+                
+            </div>
+            <div class="q-trailing"><p>Select the correct answer using the codes given below:</p></div>
+            
+        </div>
+        <div class="opts-grid">
+            
+        <div class="opt-card opt-is-correct">
+            <span class="opt-badge">A</span>
+            <span class="opt-text">2 — 1 — 3 — 4</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">B</span>
+            <span class="opt-text">2 — 3 — 1 — 4</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">C</span>
+            <span class="opt-text">1 — 2 — 3 — 4</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">D</span>
+            <span class="opt-text">2 — 1 — 4 — 3</span>
+        </div>
+        
+        </div>
+        <div class="q-answer-bar">
+            <span class="ans-pill"><span class="ans-check">✓</span> Correct Answer: <strong>Option A</strong></span>
+        </div>
+        <div class="q-explanation-box">
+            <div class="exp-title">📘 Detailed Solution & High-Yield Analysis</div>
+            <div class="exp-body"><ol>
+<li><strong>Champaran Satyagraha (April 1917):</strong> First Civil Disobedience in India against Tinkathia system in Bihar (invited by Raj Kumar Shukla).</li>
+<li><strong>Ahmedabad Mill Strike (February–March 1918):</strong> First Hunger Strike by Gandhi over plague bonus dispute.</li>
+<li><strong>Kheda Satyagraha (March 1918):</strong> First Non-Cooperation movement by Gandhi due to crop failure and revenue remission demand in Gujarat.</li>
+<li><strong>Rowlatt Satyagraha (April 1919):</strong> First all-India mass protest against the Anarchical and Revolutionary Crimes Act (Rowlatt Act).</li>
+</ol></div>
+            
+            <div class="trap-box">
+                <div class="trap-title">⚠️ आयोग का TRAP / RATTA POINT</div>
+                <div class="trap-body"><p>Mnemonic: <strong>CAK</strong> (Champaran -&gt; Ahmedabad -&gt; Kheda). Ahmedabad Mill Strike preceded Kheda Satyagraha by a few weeks in early 1918!</p></div>
+            </div>
+            
+        </div>
+    </div>
+    
+    <div class="q-card">
+        <div class="q-header">
+            <div class="q-num-badge">Q. 4</div>
+            <div class="q-tags">
+                <span class="tag-subject">🔬 General Science (Biology)</span>
+                <span class="tag-topic">📌 Vitamins & Deficiency Diseases</span>
+            </div>
+        </div>
+        <div class="q-body">
+            
+            <div class="q-intro">Match</div>
+            <table class="match-grid-table">
+                <thead>
+                    <tr><th>List-I (Vitamin)</th><th>List-II (Disease / Feature)</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td class='match-col-1'><span class="match-badge match-badge-letter">A</span> Vitamin B1 (Thiamine)</td><td class='match-col-2'><span class="match-badge match-badge-number">1</span> Pellagra (4D syndrome)</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">B</span> Vitamin B3 (Niacin)</td><td class='match-col-2'><span class="match-badge match-badge-number">2</span> Beri-Beri</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">C</span> Vitamin D (Calciferol)</td><td class='match-col-2'><span class="match-badge match-badge-number">3</span> Pernicious Anemia & contains Cobalt</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">D</span> Vitamin B12 (Cyanocobalamin)</td><td class='match-col-2'><span class="match-badge match-badge-number">4</span> Rickets in children & Osteomalacia in adults</td></tr>
+                </tbody>
+            </table>
+            
+        </div>
+        <div class="opts-grid">
+            
+        <div class="opt-card opt-is-correct">
+            <span class="opt-badge">A</span>
+            <span class="opt-text">A-2, B-1, C-4, D-3</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">B</span>
+            <span class="opt-text">A-1, B-2, C-4, D-3</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">C</span>
+            <span class="opt-text">A-2, B-4, C-1, D-3</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">D</span>
+            <span class="opt-text">A-3, B-1, C-4, D-2</span>
+        </div>
+        
+        </div>
+        <div class="q-answer-bar">
+            <span class="ans-pill"><span class="ans-check">✓</span> Correct Answer: <strong>Option A</strong></span>
+        </div>
+        <div class="q-explanation-box">
+            <div class="exp-title">📘 Detailed Solution & High-Yield Analysis</div>
+            <div class="exp-body"><ul>
+<li><strong>Vitamin B1 (Thiamine):</strong> Deficiency causes Beri-Beri (affects cardiovascular and nervous systems; common in populations consuming polished rice).</li>
+<li><strong>Vitamin B3 (Niacin):</strong> Deficiency causes Pellagra, characterized by dermatitis, diarrhea, dementia, and death (4Ds).</li>
+<li><strong>Vitamin D (Calciferol):</strong> Synthesized in skin via sunlight; deficiency causes Rickets (bow legs) in children and Osteomalacia in adults.</li>
+<li><strong>Vitamin B12 (Cyanocobalamin):</strong> Contains the metallic element Cobalt; essential for RBC maturation; deficiency causes Pernicious Anemia.</li>
+</ul></div>
+            
+            <div class="trap-box">
+                <div class="trap-title">⚠️ आयोग का TRAP / RATTA POINT</div>
+                <div class="trap-body"><p>UPPSC frequently asks which vitamin contains Cobalt (Cyanocobalamin / B12). Remember also: Vitamin C is Ascorbic acid (heat-sensitive, lost on cooking), and Vitamin K (Phylloquinone) is needed for prothrombin synthesis in blood clotting.</p></div>
+            </div>
+            
+        </div>
+    </div>
+    
+    <div class="q-card">
+        <div class="q-header">
+            <div class="q-num-badge">Q. 5</div>
+            <div class="q-tags">
+                <span class="tag-subject">🎯 Uttar Pradesh Special</span>
+                <span class="tag-topic">📌 One District One Product (ODOP)</span>
+            </div>
+        </div>
+        <div class="q-body">
+            
+            <div class="q-intro">Match</div>
+            <table class="match-grid-table">
+                <thead>
+                    <tr><th>List-I (District)</th><th>List-II (ODOP Product)</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td class='match-col-1'><span class="match-badge match-badge-letter">A</span> Bhadohi</td><td class='match-col-2'><span class="match-badge match-badge-number">1</span> Glassware & Bangles</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">B</span> Kannauj</td><td class='match-col-2'><span class="match-badge match-badge-number">2</span> Handmade Carpets (Dhurries)</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">C</span> Firozabad</td><td class='match-col-2'><span class="match-badge match-badge-number">3</span> Kalanamak Rice ("Buddha's Rice")</td></tr><tr><td class='match-col-1'><span class="match-badge match-badge-letter">D</span> Siddharthnagar</td><td class='match-col-2'><span class="match-badge match-badge-number">4</span> Attar (Perfume) & Essential Oils</td></tr>
+                </tbody>
+            </table>
+            
+        </div>
+        <div class="opts-grid">
+            
+        <div class="opt-card opt-is-correct">
+            <span class="opt-badge">A</span>
+            <span class="opt-text">A-2, B-4, C-1, D-3</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">B</span>
+            <span class="opt-text">A-4, B-2, C-1, D-3</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">C</span>
+            <span class="opt-text">A-2, B-1, C-4, D-3</span>
+        </div>
+        
+        <div class="opt-card ">
+            <span class="opt-badge">D</span>
+            <span class="opt-text">A-3, B-4, C-1, D-2</span>
+        </div>
+        
+        </div>
+        <div class="q-answer-bar">
+            <span class="ans-pill"><span class="ans-check">✓</span> Correct Answer: <strong>Option A</strong></span>
+        </div>
+        <div class="q-explanation-box">
+            <div class="exp-title">📘 Detailed Solution & High-Yield Analysis</div>
+            <div class="exp-body"><ul>
+<li><strong>Bhadohi (Sant Ravidas Nagar):</strong> Known globally for hand-knotted Carpets (GI tagged).</li>
+<li><strong>Kannauj:</strong> Known as "Perfume City of India" (Itra/Attar industry from rose, jasmine, and mitti attar).</li>
+<li><strong>Firozabad:</strong> Known as "Suhag Nagari" for Glass bangles and glassware.</li>
+<li><strong>Siddharthnagar:</strong> Famous for aroma-rich Kalanamak Rice (often termed Buddha ka Prasad).</li>
+</ul></div>
+            
+            <div class="trap-box">
+                <div class="trap-title">⚠️ आयोग का TRAP / RATTA POINT</div>
+                <div class="trap-body"><p>Keep these four locked: Aligarh = Hardware &amp; Locks; Moradabad = Brassware (Peetal Nagri); Saharanpur = Wood Carving; Gorakhpur = Terracotta.</p></div>
+            </div>
+            
+        </div>
+    </div>
+    
+</div>
+</body>
+</html>

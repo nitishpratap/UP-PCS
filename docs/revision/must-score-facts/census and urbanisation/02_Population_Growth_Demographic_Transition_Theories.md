@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Census and Urbanisation Topic 2 — Population Growth, Demographic Transition and Theories</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2026** | **Digital Census Architecture & Self-Enumeration Portal** — Office of RGCCI preparing first fully digital, geo-referenced national census with mobile app enumeration | Next decennial census enumeration methodology |
-| **2023** | **Bihar Caste-Based Survey (बिहार जाति गणना)** — Published detailed headcount showing EBC (36%), OBC (27.1%), SC (19.7%), ST (1.7%), General (15.5%) | First published state caste demographic survey since 1931 |
-| **2022–2023** | **UN World Population Prospects (WPP 2022/2023)** — Formally recognised India overtaking China as the most populous nation with ~142.86 Crore population | Global demographic rank shifts |
-| **2021** | **National Family Health Survey (NFHS-5)** — National TFR declined to **2.0** (below replacement level 2.1); UP TFR recorded at **2.35** (down from 2.74 in NFHS-4) | Key fertility & vital statistics benchmark |
-| **2020** | **Sample Registration System (SRS) Statistical Report** — National IMR declined to **28 per 1,000 live births**; UP IMR dropped to **38** | Annual vital statistics tracking |
-| **Rolling** | **Census 2011 Statutory Baseline** — Remains the binding official reference benchmark for all UPPSC/UKPCS examination questions until Census 2021/2026 notification | Core exam master data baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **Thomas Robert Malthus** published his seminal work *An Essay on the Principle of Population* in **1798**.
@@ -122,21 +111,6 @@ Post-2011 (Present)   ──► Declining Fertility toward Sub-Replacement (NFHS
 | **Stage 4** | **Low Stationary (Stabilized)** | **Low** (10–14 per 1000) | **Low** (8–12 per 1000) | **Near Zero / Stable** ($\le 0.5\%$) | Barrel / urn-shaped pyramid; high median age; aging population. | United States, Canada, United Kingdom, Australia, China. |
 | **Stage 5** | **Declining / Contracting (Negative Growth)** | **Extremely Low** (below CDR, $< 9$ per 1000) | **Rising slightly due to old age** (10–12 per 1000) | **Negative Natural Growth** ($< 0\%$) | Inverted pyramid; shrinking youth population; acute elderly dependency. | Japan, Germany, Italy, South Korea, Russia. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Concept A | Confused Pair / Concept B | Trap / Crucial Difference Tested in UPPSC |
-| :--- | :--- | :--- |
-| **Malthusian Theory (1798)**: Subsistence-based, biological food vs population ratio | **Optimum Population Theory (1924)**: Wealth-based, maximum per capita income ratio | **Trap**: Malthus focused on biological survival (food starvation); Edwin Cannan focused on *economic efficiency and highest per capita output*. |
-| **Stage 2 of DTT (Early Expanding)**: High Birth Rate + Plummeting Death Rate | **Stage 3 of DTT (Late Expanding)**: Plummeting Birth Rate + Low Death Rate | **Trap**: Population explosion happens in **Stage 2** (India 1951–81). India is currently in **Stage 3** (birth rates falling, growth decelerating). |
-| **Preventive Checks (Malthus)**: Voluntary human actions (late marriage, celibacy) | **Positive Checks (Malthus)**: Involuntary natural disasters (famines, plagues, wars) | **Trap**: Positive does NOT mean good; in Malthusian terminology, positive checks are nature's painful interventions that increase the death rate. |
-| **Boserup's Hypothesis**: Population pressure causes technological progress | **Malthus's Hypothesis**: Population growth causes inevitable poverty and collapse | **Trap**: Boserup is the exact antithesis of Malthus (Boserup: population drives agricultural intensification; Malthus: population causes starvation). |
-| **Dalton's Formula: $M = (A - O) / O$** (Overpopulation if $M > 0$) | **Dalton's Formula: $M < 0$** (Underpopulation) | **Trap**: If actual population ($A$) > optimum ($O$), $M$ is positive (Overpopulation). If $A < O$, $M$ is negative (Underpopulation). |
-| **1921: Year of the Great Divide** (Negative growth: -0.31%) | **1971: Peak Population Growth Decade** (Highest growth: 24.80%) | **Trap**: 1921 is the Great Divide (shift from stagnant to growing population); 1971 is the historical peak of the population explosion. |
-| **Neo-Malthusians (Paul Ehrlich)**: Advocate modern contraception & abortion | **Classical Malthus (1798)**: Rejected artificial birth control; advocated only moral restraint | **Trap**: Thomas Malthus was a clergyman who opposed artificial contraception; Neo-Malthusians actively promote technological birth control. |
-| **Replacement Level Fertility (TFR = 2.1)** | **Current India TFR (NFHS-5: 2.0)** | **Trap**: India's TFR has already dropped below replacement level (2.0) nationally, though population will continue growing due to *demographic momentum*. |
-| **Exponential (J-shaped) Growth**: Unchecked growth with constant birth/death rates | **Logistic (S-shaped) Growth**: Growth slowed by carrying capacity ($K$) | **Trap**: Real populations in nature follow the S-shaped logistic curve due to environmental resistance. |
-| **Demographic Dividend**: High ratio of working-age (15–59) to dependents | **Demographic Disaster / Drag**: High working-age population without jobs/skills | **Trap**: Dividend is only potential; if uneducated and unemployed, the dividend turns into a demographic liability/drag. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **DTT 4 Stages**: **H-E-L-L** (High Stationary -> Early Expanding -> Late Expanding -> Low Stationary)
@@ -145,254 +119,262 @@ Post-2011 (Present)   ──► Declining Fertility toward Sub-Replacement (NFHS
 - **Optimum Population Formula**: Dalton's Maladjustment $M = (A - O) / O$ (If $A > O \implies$ Overpopulation; $A < O \implies$ Underpopulation)
 - **Decadal Growth Peak**: Peak decadal growth in India was recorded in **1961–1971 (24.80%)**.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Malthus argued that population grows in a ______ progression, while food supply grows in a ______ progression.
-A. Linear, Exponential
-B. Exponential, Linear
-C. Arithmetic, Geometric
-D. Geometric, Arithmetic
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Classic Malthus: population geometric; food arithmetic — leading to positive/preventive checks.
-
-**Ans: D.** Geometric (population) and Arithmetic (food).
-
-</details>
-
-**Q2.**
-T. Malthus propounded ‘The Malthusian Theory’, which is related to—
-A. Economy
-B. Population
-C. Unemployment
-D. Poverty
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Essay on the Principle of Population (1798) is the population-theory staple in PCS papers.
-
-**Ans: B.** Population.
-
-</details>
-
-**Q3.**
-The demographic dividend is—
-A. Working population of above 60 years
-B. Working population of 14 to 50 years
-C. 0–6 years population
-D. Working population of 15 to 59 years
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dividend arises when working-age share rises relative to dependents — not the child or elderly share alone.
-
-**Ans: D.** Working-age share roughly 15–59 years.
-
-</details>
-
-**Q4.**
-Natural growth of population is the outcome of which of the following?
-A. Crude Birth Rate  B. Crude Death Rate  C. Migration  D. Marriages
-Select the correct answer from the codes:
-A. A and B
-B. B and C
-C. A, B and C
-D. A, B, C and D
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Natural growth = births − deaths.
-
-**Ans: A.** CBR and CDR (natural increase); migration is not ‘natural’ growth.
-
-</details>
-
-**Q5.**
-In Demographic Transition Theory, Stage 2 is characterised by:
-A. High birth rate, high death rate
-B. High birth rate, falling death rate
-C. Falling birth rate, low death rate
-D. Low birth and death rates
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stage 1 both high; Stage 3 fertility falls; Stage 4 both low.
-
-**Ans: B.** High fertility with declining mortality → rapid growth.
-
-</details>
-
-**Q6.**
-Who is associated with the Optimum Population Theory?
-A. Malthus
-B. Edwin Cannan / Carr-Saunders (optimum school)
-C. Marx
-D. Ricardo only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Optimum theory maximises per-capita income at a population size — distinct from Malthusian checks.
-
-**Ans: B.** Optimum population school (Cannan et al.).
-
-</details>
-
-**Q7.**
-Karl Marx’s critique of Malthus mainly argued that:
-A. Food grows faster than population
-B. Poverty is due to capitalist relations, not natural population law
-C. Population should be stationary always
-D. Migration alone explains poverty
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Marx rejected a universal natural ‘population law’ independent of production relations.
-
-**Ans: B.** Poverty is socially produced under capitalism.
-
-</details>
-
-**Q8.**
-India is regarded as a country with “Demographic Dividend”. This is due to:
-A. Its high population in the age group below 15 years
-B. Its high population in the age group of 15–64 years
-C. Its high population in the age group above 65 years
-D. Its high total population
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dividend is age-structure, not raw headcount or child share.
-
-**Ans: B.** High share in the working-age group 15–64.
-
-</details>
-
-**Q9.**
-Consider stages of demographic transition associated with economic development:
-1. Low birth rate with low death rate
-2. High birth rate with high death rate
-3. High birth rate with low death rate
-Correct order is:
-A. 1 – 2 – 3
-B. 2 – 1 – 3
-C. 2 – 3 – 1
-D. 3 – 2 – 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stage I both high → Stage II fertility high, mortality falls → Stage III both low.
-
-**Ans: C.** 2 → 3 → 1.
-
-</details>
-
-**Q10.**
-To obtain full benefits of demographic dividend, what should India do?
-A. Promoting skill development
-B. Introducing more social security schemes
-C. Reducing infant mortality rate
-D. Privatization of higher education
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Dividend materialises only if working-age cohorts are employable.
-
-**Ans: A.** Promoting skill development.
-
-</details>
-
-**Q11.**
-What is Demographic Dividend?
-A. Increase in 0–5 year age group of population
-B. Increase in 6–15 year age group of population
-C. Increase in 16–64 year age group of population
-D. Increase in over-65 year age group of population
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Same idea as UPSC 15–64; WBCS options use the 16–64 band.
-
-**Ans: C.** Increase in working-age (16–64) share.
-
-</details>
-
-**Q12.**
-Consider the following statements:
-1. Between Census 1951 and Census 2001, the density of the population of India has increased more than three times.
-2. Between Census 1951 and Census 2001 the annual growth rate (exponential) of the population of India has doubled.
-Which is/are correct?
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Density rose from ~117 to ~324 (not 3×); growth rate did not double.
-
-**Ans: D.** Neither 1 nor 2.
-
-</details>
-
-**Q13.**
-The concept of 'Demographic Dividend' refers to:
-A. The economic benefit from large youth population when properly educated and employed
-B. Government dividends distributed to senior citizens
-C. Tax incentives for large families
-D. The economic loss from high birth rates
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Demographic dividend is the economic growth potential resulting from a rising proportion of working-age (15–64 years) population relative to dependent population.
-
-**Ans: A.** Economic benefit from large working-age population.
-
-</details>
-
-**Q14.**
-According to Malthus's theory of population, population tends to increase in what ratio?
-A. Arithmetic ratio
-B. Geometric ratio
-C. Harmonic ratio
-D. None of these
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Malthus (1798) argued population increases in **geometric ratio** (1, 2, 4, 8, 16…) while food supply increases in **arithmetic ratio** (1, 2, 3, 4, 5…).
-
-**Ans: B.** Geometric ratio.
-
-</details>
-
-**Q15.**
-Which State of India was the first to achieve replacement-level fertility (TFR below 2.1)?
-A. Goa
-B. Kerala
-C. Tamil Nadu
-D. Andhra Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches Kerala.
-
-**Ans: B.** Kerala
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Malthus argued that population grows in a ______ progression, while food supply grows in a ______ progression.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Linear, Exponential</div><div class="pyq-opt"><span class="opt-letter">B</span> Exponential, Linear</div><div class="pyq-opt"><span class="opt-letter">C</span> Arithmetic, Geometric</div><div class="pyq-opt"><span class="opt-letter">D</span> Geometric, Arithmetic</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Classic Malthus: population geometric; food arithmetic — leading to positive/preventive checks.
+
+**Ans: D.** Geometric (population) and Arithmetic (food).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">T. Malthus propounded ‘The Malthusian Theory’, which is related to—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Economy</div><div class="pyq-opt"><span class="opt-letter">B</span> Population</div><div class="pyq-opt"><span class="opt-letter">C</span> Unemployment</div><div class="pyq-opt"><span class="opt-letter">D</span> Poverty</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Essay on the Principle of Population (1798) is the population-theory staple in PCS papers.
+
+**Ans: B.** Population.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The demographic dividend is—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Working population of above 60 years</div><div class="pyq-opt"><span class="opt-letter">B</span> Working population of 14 to 50 years</div><div class="pyq-opt"><span class="opt-letter">C</span> 0–6 years population</div><div class="pyq-opt"><span class="opt-letter">D</span> Working population of 15 to 59 years</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dividend arises when working-age share rises relative to dependents — not the child or elderly share alone.
+
+**Ans: D.** Working-age share roughly 15–59 years.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Natural growth of population is the outcome of which of the following?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Crude Birth Rate  B. Crude Death Rate  C. Migration  D. Marriages
+Select the correct answer from the codes:</div><div class="pyq-opt"><span class="opt-letter">A</span> A and B</div><div class="pyq-opt"><span class="opt-letter">B</span> B and C</div><div class="pyq-opt"><span class="opt-letter">C</span> A, B and C</div><div class="pyq-opt"><span class="opt-letter">D</span> A, B, C and D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Natural growth = births − deaths.
+
+**Ans: A.** CBR and CDR (natural increase); migration is not ‘natural’ growth.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">In Demographic Transition Theory, Stage 2 is characterised by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> High birth rate, high death rate</div><div class="pyq-opt"><span class="opt-letter">B</span> High birth rate, falling death rate</div><div class="pyq-opt"><span class="opt-letter">C</span> Falling birth rate, low death rate</div><div class="pyq-opt"><span class="opt-letter">D</span> Low birth and death rates</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Stage 1 both high; Stage 3 fertility falls; Stage 4 both low.
+
+**Ans: B.** High fertility with declining mortality → rapid growth.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Who is associated with the Optimum Population Theory?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Malthus</div><div class="pyq-opt"><span class="opt-letter">B</span> Edwin Cannan / Carr-Saunders (optimum school)</div><div class="pyq-opt"><span class="opt-letter">C</span> Marx</div><div class="pyq-opt"><span class="opt-letter">D</span> Ricardo only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Optimum theory maximises per-capita income at a population size — distinct from Malthusian checks.
+
+**Ans: B.** Optimum population school (Cannan et al.).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Karl Marx’s critique of Malthus mainly argued that:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Food grows faster than population</div><div class="pyq-opt"><span class="opt-letter">B</span> Poverty is due to capitalist relations, not natural population law</div><div class="pyq-opt"><span class="opt-letter">C</span> Population should be stationary always</div><div class="pyq-opt"><span class="opt-letter">D</span> Migration alone explains poverty</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Marx rejected a universal natural ‘population law’ independent of production relations.
+
+**Ans: B.** Poverty is socially produced under capitalism.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">India is regarded as a country with “Demographic Dividend”. This is due to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Its high population in the age group below 15 years</div><div class="pyq-opt"><span class="opt-letter">B</span> Its high population in the age group of 15–64 years</div><div class="pyq-opt"><span class="opt-letter">C</span> Its high population in the age group above 65 years</div><div class="pyq-opt"><span class="opt-letter">D</span> Its high total population</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dividend is age-structure, not raw headcount or child share.
+
+**Ans: B.** High share in the working-age group 15–64.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Consider stages of demographic transition associated with economic development:<br>1. Low birth rate with low death rate<br>2. High birth rate with high death rate<br>3. High birth rate with low death rate<br>Correct order is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 – 2 – 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 – 1 – 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 – 3 – 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3 – 2 – 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Stage I both high → Stage II fertility high, mortality falls → Stage III both low.
+
+**Ans: C.** 2 → 3 → 1.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">To obtain full benefits of demographic dividend, what should India do?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Promoting skill development</div><div class="pyq-opt"><span class="opt-letter">B</span> Introducing more social security schemes</div><div class="pyq-opt"><span class="opt-letter">C</span> Reducing infant mortality rate</div><div class="pyq-opt"><span class="opt-letter">D</span> Privatization of higher education</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Dividend materialises only if working-age cohorts are employable.
+
+**Ans: A.** Promoting skill development.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">What is Demographic Dividend?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Increase in 0–5 year age group of population</div><div class="pyq-opt"><span class="opt-letter">B</span> Increase in 6–15 year age group of population</div><div class="pyq-opt"><span class="opt-letter">C</span> Increase in 16–64 year age group of population</div><div class="pyq-opt"><span class="opt-letter">D</span> Increase in over-65 year age group of population</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Same idea as UPSC 15–64; WBCS options use the 16–64 band.
+
+**Ans: C.** Increase in working-age (16–64) share.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br>1. Between Census 1951 and Census 2001, the density of the population of India has increased more than three times.<br>2. Between Census 1951 and Census 2001 the annual growth rate (exponential) of the population of India has doubled.<br>Which is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Density rose from ~117 to ~324 (not 3×); growth rate did not double.
+
+**Ans: D.** Neither 1 nor 2.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">The concept of 'Demographic Dividend' refers to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The economic benefit from large youth population when properly educated and employed</div><div class="pyq-opt"><span class="opt-letter">B</span> Government dividends distributed to senior citizens</div><div class="pyq-opt"><span class="opt-letter">C</span> Tax incentives for large families</div><div class="pyq-opt"><span class="opt-letter">D</span> The economic loss from high birth rates</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Demographic dividend is the economic growth potential resulting from a rising proportion of working-age (15–64 years) population relative to dependent population.
+
+**Ans: A.** Economic benefit from large working-age population.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">According to Malthus's theory of population, population tends to increase in what ratio?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Arithmetic ratio</div><div class="pyq-opt"><span class="opt-letter">B</span> Geometric ratio</div><div class="pyq-opt"><span class="opt-letter">C</span> Harmonic ratio</div><div class="pyq-opt"><span class="opt-letter">D</span> None of these</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Malthus (1798) argued population increases in **geometric ratio** (1, 2, 4, 8, 16…) while food supply increases in **arithmetic ratio** (1, 2, 3, 4, 5…).
+
+**Ans: B.** Geometric ratio.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which State of India was the first to achieve replacement-level fertility (TFR below 2.1)?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Goa</div><div class="pyq-opt"><span class="opt-letter">B</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">C</span> Tamil Nadu</div><div class="pyq-opt"><span class="opt-letter">D</span> Andhra Pradesh</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches Kerala.
+
+**Ans: B.** Kerala</div>
+  </div>
+</div>

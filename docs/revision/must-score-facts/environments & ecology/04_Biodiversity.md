@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 4 — Biodiversity</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Biodiversity is variability among living organisms at **genetic, species, and ecosystem** levels — the range of plants and animals in an area.
@@ -74,22 +63,13 @@ hide:
 48. **Silent Valley (Kerala, Palakkad)** is remnant moist evergreen rainforest of the Western Ghats.
 49. **Direct values** include food, fuel, fibre, medicine, and timber taken from nature.
 50. **Indirect values** include soil formation, prevention of soil erosion, recycling of waste, pollination of crops, climate regulation, and flood control.
-
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Wildlife Conservation Projects in India
-
-```
-1972 ──► Wildlife (Protection) Act enacted (6 Schedules; rationalized to 4 via 2022 Amendment)
-1973 ──► Project Tiger launched at Corbett National Park (9 initial reserves; now 55 Tiger Reserves)
-1975 ──► Crocodile Conservation Project launched with UNDP/FAO support (Mugger, Gharial, Saltwater)
-1986 ──► Nilgiri Biosphere Reserve designated (India's 1st Biosphere Reserve under UNESCO MAB)
-1992 ──► Project Elephant launched (Centrally Sponsored Scheme for wild elephant habitat & corridors)
-1996 ──► Vulture Conservation Action Plan initiated (banning veterinary diclofenac post-crash)
-2007 ──► Project Snow Leopard launched (covering Ladakh, HP, Uttarakhand, Sikkim, Arunachal)
-2020 ──► Project Dolphin & Project Lion announced on Independence Day
-2022 ──► Project Cheetah launched (intercontinental relocation of African cheetahs to Kuno NP, MP)
-```
+51. **Biodiversity Terminology & Levels:** Term 'Biological Diversity' coined by **Raymond F. Dasmann (1968)**; contracted to 'Biodiversity' by **W.G. Rosen (1985)**; popularized globally by entomologist **Edward O. Wilson** ('Father of Biodiversity'); 3 fundamental levels: (1) Genetic Diversity (variation within species), (2) Species Diversity (richness and evenness), (3) Ecosystem / Ecological Diversity.
+52. **Whittaker's Alpha, Beta & Gamma Diversity (1960):** (1) **Alpha ($lpha$) Diversity:** Species diversity within a particular local habitat or ecosystem; (2) **Beta ($eta$) Diversity:** Rate of species turnover or change between two different ecosystems / along an environmental gradient; (3) **Gamma ($\gamma$) Diversity:** Overall species diversity of a large landscape, region, or biome.
+53. **Latitudinal Diversity Gradient:** Species richness systematically **decreases as one moves from the Equator towards the Poles**; Tropics (between 23.5°N and 23.5°S) harbor apex biodiversity because of prolonged evolutionary stability (no glaciations), constant solar energy, and high annual rainfall.
+54. **Biodiversity Hotspots (Norman Myers, 1988):** Critical regions characterized by exceptional concentrations of endemic species undergoing rapid habitat loss; to qualify as a Hotspot under Conservation International criteria, a region must strictly satisfy 2 criteria: (1) Must contain at least **1,500 species of vascular plants (>0.5% of world's total) as endemics**; (2) Must have **lost at least 70% of its original primary native habitat** (i.e. <=30% of original vegetation remains).
+55. **Four Biodiversity Hotspots of India:** (1) **Himalaya Hotspot:** Entire Indian Himalayan range extending into Pakistan, Nepal, Bhutan, and China; (2) **Indo-Burma Hotspot:** North-Eastern India south of Brahmaputra (Assam, Meghalaya, Manipur, Mizoram, Nagaland, Tripura, and Andaman Islands); (3) **Western Ghats and Sri Lanka:** Sahyadris of Maharashtra, Goa, Karnataka, Kerala, and TN; (4) **Sundaland:** Includes the **Nicobar Islands** (extending into Indonesia, Malaysia, Singapore, and Brunei).
+56. **In-situ vs Ex-situ Conservation Taxonomy:** (1) **In-situ ('On-site') Conservation:** Conserving endangered plants and animals in their natural wild habitats; includes: **National Parks, Wildlife Sanctuaries, Biosphere Reserves, Tiger Reserves, Ramsar Wetlands, Sacred Groves (*Devrais* in Maharashtra, *Orans* in Rajasthan, *Kavu* in Kerala)**; (2) **Ex-situ ('Off-site') Conservation:** Conserving species outside their natural habitats in human-controlled settings; includes: **Zoological Parks, Botanical Gardens, Seed Banks, Cryopreservation (-196°C in liquid nitrogen), Pollen Banks, Gene Banks, In-vitro fertilization clinics**.
+57. **IUCN Red List Categories:** Established in 1964 by International Union for Conservation of Nature (headquarters in **Gland, Switzerland**); 9 categories: Extinct (EX), Extinct in the Wild (EW), **Critically Endangered (CR)** (reduction in population >=90% over 10 years or 3 generations, or <50 mature individuals), **Endangered (EN)** (reduction >=70%, or <250 individuals), **Vulnerable (VU)** (reduction >=50%, or <1,000 individuals), Near Threatened (NT), Least Concern (LC), Data Deficient (DD), Not Evaluated (NE).
 
 ## 📊 Quick Reference Grid
 
@@ -118,349 +98,231 @@ hide:
 | Kunming–Montreal | **2022**; 30×30 |
 | India Ramsar | **80** sites; TN highest; UP **10** class fact |
 | Hotspot concept | Norman Myers (≠ BirdLife) |
-
-### Table: Complete Master Matrix of 18 Biosphere Reserves in India
-
-| S.No. | Biosphere Reserve | State / UT | Year Notified | UNESCO WNBR Status | Key Fauna / Unique Ecological Feature |
-| :---: | :--- | :--- | :---: | :---: | :--- |
-| 1 | **Nilgiri** | Tamil Nadu, Kerala, Karnataka | 1986 | **Yes (2000 — 1st in India)** | Lion-tailed Macaque, Nilgiri Tahr; tri-state junction |
-| 2 | **Nanda Devi** | Uttarakhand | 1988 | **Yes (2004)** | Snow Leopard, Himalayan Musk Deer, Valley of Flowers |
-| 3 | **Nokrek** | Meghalaya | 1988 | **Yes (2009)** | Red Panda, Asian Elephant, Citrus indica (wild mother orange); Garo Hills |
-| 4 | **Great Nicobar** | Andaman & Nicobar Islands | 1989 | **Yes (2013)** | Saltwater Crocodile, Megapode, Leatherback Turtle |
-| 5 | **Gulf of Mannar** | Tamil Nadu | 1989 | **Yes (2001)** | Dugong (Sea Cow), Coral Reefs, Seagrass beds |
-| 6 | **Manas** | Assam | 1989 | **No** (Removed 2011) | Golden Langur, Pygmy Hog, One-horned Rhino; Bodo territory |
-| 7 | **Sundarbans** | West Bengal | 1989 | **Yes (2001)** | Royal Bengal Tiger, Mangrove swamps, Estuarine crocodile |
-| 8 | **Simlipal** | Odisha | 1994 | **Yes (2009)** | Tiger, Elephant, Gaur; Mayurbhanj elephant reserve |
-| 9 | **Dihang-Dibang** | Arunachal Pradesh | 1998 | **No** | Mishmi Takin, Musk Deer; Eastern Himalayas |
-| 10 | **Pachmarhi** | Madhya Pradesh | 1999 | **Yes (2009)** | Giant Squirrel, Flying Squirrel; Satpura Range |
-| 11 | **Achanakmar-Amarkantak** | Madhya Pradesh, Chhattisgarh | 2005 | **Yes (2012)** | Four-horned Antelope, Wild Dog; Maikal Hills origin of Narmada/Son |
-| 12 | **Great Rann of Kutch** | Gujarat | 2008 | **No** (Largest BR in India) | Indian Wild Ass (Khur), Greater Flamingo; seasonal salt marsh |
-| 13 | **Cold Desert** | Himachal Pradesh | 2009 | **No** | Snow Leopard, Tibetan Gazelle; includes Pin Valley NP & Kibber |
-| 14 | **Khangchendzonga** | Sikkim | 2010 | **Yes (2018)** | Snow Leopard, Red Panda, Musk Deer; Mixed World Heritage Site |
-| 15 | **Agasthyamalai** | Kerala, Tamil Nadu | 2001 | **Yes (2016)** | Nilgiri Tahr, Asian Elephant, Kanikaran indigenous tribe |
-| 16 | **Panna** | Madhya Pradesh | 2011 | **Yes (2020 — Newest in WNBR)** | Bengal Tiger, Chital, Chinkara, Sambhar; Ken river valley |
-| 17 | **Seshachalam Hills** | Andhra Pradesh | 2010 | **No** | Red Sanders (Pterocarpus santalinus), Slender Loris |
-| 18 | **Dibru-Saikhowa** | Assam | 1997 | **No** (Smallest BR in India) | Feral Horses, White-winged Wood Duck; Brahmaputra-Lohit floodplains |
-
-### Table: Key Tiger Reserves of India & Uttar Pradesh
-
-| Tiger Reserve | State | Special Distinction / Status | Core Exam High-Yield Notes |
-| :--- | :--- | :--- | :--- |
-| **Jim Corbett** | Uttarakhand | First National Park (1936) & First Tiger Reserve (1973) | Highest tiger density in India; Ramganga river traverses |
-| **Dudhwa** | Uttar Pradesh | Core of Dudhwa TR (Lakhimpur Kheri; 1987) | Only National Park in UP; Swamp Deer (Barasingha) stronghold |
-| **Pilibhit** | Uttar Pradesh | 45th TR of India (2014) | Won international TX2 award in 2020 for doubling tiger population |
-| **Amangarh** | Uttar Pradesh | Bijnor district (2012) | Buffer zone of Jim Corbett NP left in UP post-bifurcation |
-| **Ranipur** | Uttar Pradesh | Chitrakoot district (2022; 53rd TR of India) | 4th TR of UP; First Tiger Reserve in Bundelkhand region |
-| **Bandipur** | Karnataka | Western Ghats (1973) | Part of Nilgiri Biosphere Reserve; high tiger and elephant density |
-| **Nagarjunsagar Srisailam** | Andhra Pradesh | Largest Tiger Reserve in India by total area | Srisailam reservoir, Krishna river; Chenchu tribe |
-| **Bor** | Maharashtra | Smallest Tiger Reserve in India by area (~138 sq km) | Located in Wardha district |
-| **Ranthambore** | Rajasthan | Sawai Madhopur | Dry deciduous tiger habitat; famous junction of Aravalli & Vindhya |
-| **Kanha** | Madhya Pradesh | Satpura Maikal range | Hardground Barasingha mascot 'Bhoorsingh'; inspired Kipling |
-| **Bandhavgarh** | Madhya Pradesh | Umaria district | Highest density of Bengal tigers in Central India |
-| **Guru Ghasidas & Tamor Pingla** | Chhattisgarh | 54th Tiger Reserve of India (notified 2024) | Inter-state connectivity with Bandhavgarh and Sanjay TRs |
-| **Dholpur-Karauli** | Rajasthan | 55th Tiger Reserve of India (2023) | 5th TR of Rajasthan after Ranthambore, Sariska, Mukundra, Ramgarh |
-
-### Table: Key Ramsar Wetlands of India (Selected High-Yield & State-Wise)
-
-| Ramsar Site | State / UT | Area / Special Significance | Exam Trap & Distinction |
-| :--- | :--- | :--- | :--- |
-| **Chilika Lake** | Odisha | First Ramsar Site in India (1981); Largest coastal lagoon | Joined with Keoladeo Ghana in 1981; removed from Montreux Record post-restoration |
-| **Keoladeo Ghana National Park** | Rajasthan | Wetland & NP; placed on Montreux Record | On Montreux Record due to water shortage & grazing pressure |
-| **Loktak Lake** | Manipur | Freshwater lake with phumdis (floating mats); Keibul Lamjao NP | Only floating national park; home to Sangai (Dancing Deer); on Montreux Record |
-| **Vembanad-Kol Wetland** | Kerala | Largest wetland in India by surface area | Spans Alappuzha, Kottayam, Ernakulam; Nehru Trophy Boat Race held here |
-| **Sundarban Wetland** | West Bengal | Largest Ramsar site by protected area | Mangrove ecosystem; Royal Bengal Tiger; shared with Bangladesh |
-| **Renuka Wetland** | Himachal Pradesh | Smallest Ramsar site in India (~20 ha) | Natural wetland with freshwater springs; sacred lake |
-| **Upper Ganga River** | Uttar Pradesh | First Ramsar site of UP (2005; Brijghat to Narora) | Stretch of 82 km; habitat of Gangetic Dolphin, gharial, turtles |
-| **Bakhira Wildlife Sanctuary** | Uttar Pradesh | 10th Ramsar site of UP (Sant Kabir Nagar, 2022) | Natural freshwater marsh; migratory waterbirds |
-| **Haiderpur Wetland** | Uttar Pradesh | Muzaffarnagar & Bijnor (2021) | Human-made wetland in Hastinapur WLS within Ganga floodplain |
-| **Rudrasagar Lake** | Tripura | Lowland sedimentation reservoir | Located in Northeast (Tripura) — common trap confusing it with UP or MP |
-| **Bhoj Wetland** | Madhya Pradesh | Twin lakes: Upper Lake (Bada Talab) and Lower Lake | Created by Raja Bhoj; human-made wetland |
-| **Asan Barrage** | Uttarakhand | First Ramsar site of Uttarakhand (2020) | Located at confluence of Asan and Yamuna in Dehradun |
-| **Lonar Lake** | Maharashtra | Meteor impact crater lake; hyper-saline | Turned pink due to haloarchaea microbes in 2020 |
-| **Tso Kar Wetland Complex** | Ladakh | High-altitude saline lake (Startsapuk Tso + Tso Kar) | Breeding ground for Black-necked Crane |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Genetic Diversity** | **Species Diversity** | Variation of genes and alleles *within* a single species across its geographic range vs the variety and abundance of *different species* within a given ecological region | आनुवंशिक विविधता / प्रजाति विविधता |
-| **Species Diversity** | **Ecosystem Diversity** | Number of species and their relative abundance (species richness + evenness) vs variety of distinct habitats, biotic communities, and ecological processes in a landscape | प्रजाति विविधता / पारिस्थितिक तंत्र विविधता |
-| **Alpha Diversity** | **Beta Diversity** | Species richness measured *within* a particular local habitat or community vs rate of species turnover / change in species composition *between* two different habitats across an environmental gradient | अल्फा विविधता (स्थानीय) / बीटा विविधता (आवासीय परिवर्तन) |
-| **In-situ Conservation** | **Ex-situ Conservation** | Protecting endangered species within their natural evolutionary habitats (National Parks, Sanctuaries, Biosphere Reserves) vs conserving species outside their natural habitats in artificial environments (Zoological Parks, Botanical Gardens, Gene Banks) | स्व-स्थाने संरक्षण (In-situ) / बाह्य-स्थाने संरक्षण (Ex-situ) |
-| **Endangered (EN)** | **Critically Endangered (CR)** | Very high risk of extinction in the wild (e.g. Asiatic Lion, Tiger) vs extremely high imminent risk of extinction in the wild (e.g. Great Indian Bustard, Gharial, Hangul) | लुप्तप्राय (EN) / अति संकटग्रस्त (CR) |
-| **Endemic Species** | **Invasive Alien Species** | Native species strictly restricted to a specific unique geographic territory and found nowhere else (e.g. Lion-tailed Macaque in Western Ghats) vs non-native species introduced from outside that outcompete and displace indigenous wildlife (e.g. Lantana camara, Water Hyacinth) | स्थानिक प्रजाति (Endemic) / आक्रामक विदेशी प्रजाति (Invasive) |
-| **Biodiversity Hotspot** | **Hope Spot** | Terrestrial regions with exceptionally high endemic species richness under severe threat (≥1,500 endemic vascular plants and ≥70% primary vegetation lost; Norman Myers) vs marine protected areas critical to the health of global oceans (Sylvia Earle / Mission Blue) | जैव विविधता हॉटस्पॉट (स्थलीय) / होप स्पॉट (समुद्री) |
-| **People's Biodiversity Register (PBR)** | **Red Data Book** | Mandated under Biological Diversity Act 2002 prepared by local Biodiversity Management Committees (BMCs) documenting traditional ecological knowledge vs official compendium published by IUCN documenting global extinction risks | जन जैव विविधता रजिस्टर (PBR) / रेड डेटा बुक (IUCN) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Consider the following statements regarding biodiversity hotspots:
-
-1. They have high species endemism.
-2. They have experienced significant habitat loss.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q2.**
-
-Which of the following is the **most important factor** responsible for the loss of biodiversity?
-
-A. Genetic assimilation
-
-B. Control of predators
-
-C. Destruction of natural habitat
-
-D. Pest control
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q3.**
-
-In National Parks, genetic diversity is maintained through—
-
-A. In-situ conservation
-
-B. Ex-situ conservation
-
-C. Gene pool
-
-D. None of the above
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.**
-
-The most biodiversity rich area in India is
-
-A. Gangetic plain
-
-B. Trans Himalayas
-
-C. Western Ghats
-
-D. Central India
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q5.**
-
-Which of the following statement is NOT true?
-
-A. Species diversity increases from equator towards poles
-
-B. Tropics harbour more species than temperate areas
-
-C. Greatest biodiversity occurs in Amazon rainforest
-
-D. Species diversity decreases from temperate areas towards poles
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.**
-
-When the world biodiversity Day is observed?
-
-A. March 22
-
-B. May 22
-
-C. June 23
-
-D. April 16
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q7.**
-
-With reference to lichens, which of the following statements is/are correct?
-
-1. Lichens are very good indicators of pollution.
-2. Lichens grow well in polluted areas.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Indicator species fact; succession indicators also sit in the Ecology & Ecosystem chapter.
-
-</details>
-
-**Q8.**
-
-How many biodiversity hotspots are located in India?
-
-A. 2
-
-B. 4
-
-C. 6
-
-D. 8
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9.**
-
-Which is the most effective strategy for biodiversity conservation?
-
-A. Ex-situ only
-
-B. In-situ protected areas
-
-C. Captive breeding only
-
-D. Commercial farming
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.**
-
-Lion-tailed macaque is endemic to:
-
-A. Himalaya
-
-B. Western Ghats
-
-C. Sundarbans
-
-D. Thar Desert
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q11.** Who first used the term ‘biodiversity’?
-
-A. E.O. Wilson 
-B. Norman Myers 
-C. Walter G. Rosen 
-D. A.G. Tansley 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Walter G. Rosen coined it in **1985**; Wilson popularised it later.
-
-</details>
-
-**Q12.** Among mathematical indices, which shows mean species diversity in a habitat at a local scale?
-
-A. Alpha 
-B. Beta 
-C. Gamma 
-D. None 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Alpha = local; beta = between ecosystems; gamma = regional.
-
-</details>
-
-**Q13.** India’s first National Centre for Marine Biodiversity is at:
-
-A. Mumbai 
-B. Jamnagar 
-C. Bhavnagar 
-D. Puducherry 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** NCMB is at **Jamnagar, Gujarat**.
-
-</details>
-
-**Q14.** true?
-
-A. Tropics harbour more species than temperate areas. 
-B. Species diversity increases from equator toward poles. 
-C. Greatest biodiversity occurs in Amazon rainforest. 
-D. Species diversity decreases from temperate areas toward poles. 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Diversity **increases toward the equator**, not toward the poles.
-
-</details>
-
-**Q15.** Which three criteria recognise Western Ghats–Sri Lanka and Indo-Burma as hotspots?
-
-A. Species richness, endemism, threat perception 
-B. Vegetation density, ethnobotany, warm-humid adaptation 
-C. Only rainfall and altitude 
-D. Only invasive-species count 
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Richness + endemism + threat — not density or ethnobotany alone.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements regarding biodiversity hotspots:<br><br>1. They have high species endemism.<br>2. They have experienced significant habitat loss.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Which of the following is the **most important factor** responsible for the loss of biodiversity?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Genetic assimilation</div><div class="pyq-opt"><span class="opt-letter">B</span> Control of predators</div><div class="pyq-opt"><span class="opt-letter">C</span> Destruction of natural habitat</div><div class="pyq-opt"><span class="opt-letter">D</span> Pest control</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">In National Parks, genetic diversity is maintained through—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> In-situ conservation</div><div class="pyq-opt"><span class="opt-letter">B</span> Ex-situ conservation</div><div class="pyq-opt"><span class="opt-letter">C</span> Gene pool</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The most biodiversity rich area in India is</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Gangetic plain</div><div class="pyq-opt"><span class="opt-letter">B</span> Trans Himalayas</div><div class="pyq-opt"><span class="opt-letter">C</span> Western Ghats</div><div class="pyq-opt"><span class="opt-letter">D</span> Central India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which of the following statement is NOT true?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Species diversity increases from equator towards poles</div><div class="pyq-opt"><span class="opt-letter">B</span> Tropics harbour more species than temperate areas</div><div class="pyq-opt"><span class="opt-letter">C</span> Greatest biodiversity occurs in Amazon rainforest</div><div class="pyq-opt"><span class="opt-letter">D</span> Species diversity decreases from temperate areas towards poles</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">When the world biodiversity Day is observed?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> March 22</div><div class="pyq-opt"><span class="opt-letter">B</span> May 22</div><div class="pyq-opt"><span class="opt-letter">C</span> June 23</div><div class="pyq-opt"><span class="opt-letter">D</span> April 16</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to lichens, which of the following statements is/are correct?<br><br>1. Lichens are very good indicators of pollution.<br>2. Lichens grow well in polluted areas.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Indicator species fact; succession indicators also sit in the Ecology & Ecosystem chapter.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">How many biodiversity hotspots are located in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 6</div><div class="pyq-opt"><span class="opt-letter">D</span> 8</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which is the most effective strategy for biodiversity conservation?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ex-situ only</div><div class="pyq-opt"><span class="opt-letter">B</span> In-situ protected areas</div><div class="pyq-opt"><span class="opt-letter">C</span> Captive breeding only</div><div class="pyq-opt"><span class="opt-letter">D</span> Commercial farming</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Lion-tailed macaque is endemic to:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Himalaya</div><div class="pyq-opt"><span class="opt-letter">B</span> Western Ghats</div><div class="pyq-opt"><span class="opt-letter">C</span> Sundarbans</div><div class="pyq-opt"><span class="opt-letter">D</span> Thar Desert</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Who first used the term ‘biodiversity’?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> E.O. Wilson</div><div class="pyq-opt"><span class="opt-letter">B</span> Norman Myers</div><div class="pyq-opt"><span class="opt-letter">C</span> Walter G. Rosen</div><div class="pyq-opt"><span class="opt-letter">D</span> A.G. Tansley</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Walter G. Rosen coined it in **1985**; Wilson popularised it later.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Among mathematical indices, which shows mean species diversity in a habitat at a local scale?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Alpha</div><div class="pyq-opt"><span class="opt-letter">B</span> Beta</div><div class="pyq-opt"><span class="opt-letter">C</span> Gamma</div><div class="pyq-opt"><span class="opt-letter">D</span> None</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Alpha = local; beta = between ecosystems; gamma = regional.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">India’s first National Centre for Marine Biodiversity is at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mumbai</div><div class="pyq-opt"><span class="opt-letter">B</span> Jamnagar</div><div class="pyq-opt"><span class="opt-letter">C</span> Bhavnagar</div><div class="pyq-opt"><span class="opt-letter">D</span> Puducherry</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> NCMB is at **Jamnagar, Gujarat**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">true?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Tropics harbour more species than temperate areas.</div><div class="pyq-opt"><span class="opt-letter">B</span> Species diversity increases from equator toward poles.</div><div class="pyq-opt"><span class="opt-letter">C</span> Greatest biodiversity occurs in Amazon rainforest.</div><div class="pyq-opt"><span class="opt-letter">D</span> Species diversity decreases from temperate areas toward poles.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Diversity **increases toward the equator**, not toward the poles.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which three criteria recognise Western Ghats–Sri Lanka and Indo-Burma as hotspots?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Species richness, endemism, threat perception</div><div class="pyq-opt"><span class="opt-letter">B</span> Vegetation density, ethnobotany, warm-humid adaptation</div><div class="pyq-opt"><span class="opt-letter">C</span> Only rainfall and altitude</div><div class="pyq-opt"><span class="opt-letter">D</span> Only invasive-species count</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Richness + endemism + threat — not density or ethnobotany alone.</div>
+  </div>
+</div>

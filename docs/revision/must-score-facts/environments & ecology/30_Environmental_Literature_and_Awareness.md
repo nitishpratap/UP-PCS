@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>Topic 30 — Environmental Literature & Awareness</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024** | **India expands Ramsar Network to 85 Wetlands** — Added 5 new sites on World Wetlands Day 2024 (Magadi Kere, Ankasamudra, Aghanashini in Karnataka; Karaivetti, Longwood Shola in TN) | Wetland conservation & state-wise distribution |
-| **2023** | **Status of Tigers in India 2022 Release** — Tiger population reached **3,682** (75% of global wild tigers); Madhya Pradesh leads with 785 tigers, followed by Karnataka (563) | Wildlife demography & Project Tiger 50 years |
-| **2023** | **COP 28 UAE Consensus (Dubai)** — Historic agreement on operationalizing the **Loss & Damage Fund** and calling for "transitioning away from fossil fuels" | Apex climate diplomacy & UNFCCC milestone |
-| **2022** | **Kunming-Montreal Global Biodiversity Framework (CBD COP 15)** — Adopted **30×30 target** (protect 30% of land and oceans by 2030) | Global biodiversity governance baseline |
-| **2022** | **Wildlife (Protection) Amendment Act, 2022** — Rationalized schedules from 6 to 4; aligned domestic law with CITES Appendix listings | Primary protected areas & wildlife statute |
-| **Rolling** | **Mission LiFE (Lifestyle for Environment)** — India-led global mass movement promoting sustainable consumption; introduced at COP 26 Glasgow | Sustainable development policy baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. Four (चातुर्याम) pillars on this sheet: **literature** (landmark books/reports), **education** (formal EE), **awareness** (public campaigns), and **communication** (science to citizens).
@@ -75,22 +64,6 @@ hide:
 49. **Van Mahotsav:** tree-plantation week in **July**, popularised by **K.M. Munshi (1950)**.
 50. **LiFE Mission:** idea at **COP26 (2021)**; launched **June 2022** — 75 pro-planet lifestyle actions (awareness/nudge, not school curriculum).
 
-## ⏱️ Timeline / Chronology
-
-### Chronological Sequence of Environmental Legislation & Governance in India
-
-```
-1972 ──► Wildlife (Protection) Act (WPA) ➔ Apex PA statute, hunting prohibition, statutory schedules
-1974 ──► Water (Prevention & Control of Pollution) Act ➔ Established Central & State Pollution Control Boards (CPCB/SPCB)
-1980 ──► Forest (Conservation) Act (FCA) ➔ Mandatory prior central approval for diversion of forest land
-1981 ──► Air (Prevention & Control of Pollution) Act ➔ Air pollution control; noise included via 1987 amendment
-1986 ──► Environment (Protection) Act (EPA) ➔ Post-Bhopal umbrella statute under Art 253; EIA, CRZ, ESZ notifications
-1991 ──► Public Liability Insurance Act ➔ Mandatory insurance for handling hazardous substances
-2002 ──► Biological Diversity Act (BDA) ➔ 3-tier decentralized framework: NBA (Chennai) -> SBB -> BMC
-2006 ──► Scheduled Tribes & Other Traditional Forest Dwellers (FRA) Act ➔ Individual & community forest rights
-2010 ──► National Green Tribunal (NGT) Act ➔ Specialized judicial body for environmental disputes under Article 21
-```
-
 ## 📊 Quick Reference Grid
 
 ### Books / campaigns
@@ -105,350 +78,270 @@ hide:
 | LiFE | COP26 idea **2021**; launch Jun **2022** |
 | NGC / ECO Clubs | MoEFCC school programmes |
 | CSE flagship | *Down To Earth* / Gobar Times |
-
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
-|---|---|-------------------------------------|-------------------|
-| **Environmental Education** | **Environmental Awareness** | Structured pedagogical curriculum in schools/colleges (Eco-Clubs, NGC) vs general public sensitization & behavioral change (Mission LiFE) | पर्यावरण शिक्षा / पर्यावरण जागरूकता |
-| **Silent Spring (1962)** | **Tragedy of the Commons (1968)** | Rachel Carson's book exposing chemical pesticide (DDT) bioaccumulation vs Garrett Hardin's economic essay on shared resource degradation | साइलेंट स्प्रिंग / ट्रैजेडी ऑफ द कॉमन्स |
-| **Limits to Growth (1972)** | **Brundtland Report (1987)** | Club of Rome computer model projecting economic/ecological collapse vs UN WCED report (*Our Common Future*) coining Sustainable Development | लिमिट्स टू ग्रोथ (1972) / ब्रंटलैंड रिपोर्ट (1987) |
-| **Small Is Beautiful (1973)** | **Silent Spring (1962)** | E.F. Schumacher's critique of mass production ("economics as if people mattered") vs Carson's chemical toxicity expose | स्मॉल इज ब्यूटीफुल / साइलेंट स्प्रिंग |
-| **Eco-mark (1991)** | **Greenwashing** | Official BIS earthen pot label for certified environment-friendly consumer goods vs deceptive corporate marketing claiming false eco-credentials | इको-मार्क (मिट्टी का घड़ा) / ग्रीनवॉशिंग |
-| **Greendex** | **Ecological Footprint** | National Geographic consumer sustainability index vs Global Footprint Network measure of nature's demand vs biocapacity | ग्रीनडेक्स / पारिस्थितिक पदचिह्न |
-| **National Green Corps (NGC)** | **Mission LiFE (2022)** | MoEFCC Eco-club programme in school networks vs international citizen-movement promoting lifestyle for environment | नेशनल ग्रीन कॉर्प्स / मिशन लाइफ (LiFE) |
-
-## 🧠 Memory Anchors & Mnemonics
-
-- **4 Biodiversity Hotspots of India**: **H-I-W-S** (Himalaya, Indo-Burma, Western Ghats–Sri Lanka, Sundaland)
-- **6 Kyoto Protocol Greenhouse Gases**: **C-M-N-H-P-S** (Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, Sulphur hexafluoride; NF3 added later)
-- **Trophic Energy Transfer Rule**: **Lindeman's 10% Law (1942)** — Only ~10% of energy is transferred to the next higher trophic level; 90% lost as metabolic heat.
-- **WPA Schedules (Post-2022 Amendment)**:
-  - **Schedule I**: Animal species enjoying highest level of protection (Blackbuck, Lion-tailed Macaque, Great Indian Bustard)
-  - **Schedule II**: Animal species with lesser protection
-  - **Schedule III**: Protected Plant species
-  - **Schedule IV**: Specimens listed under CITES Appendices
-- **Ozone Units**: Measured in **Dobson Units (DU)** using spectrophotometers (1 DU = 0.01 mm thickness at STP; normal ozone layer is ~300 DU; <220 DU is classified as an ozone hole).
-- **Montreux Record**: Ramsar sites where ecological character has changed or is changing (In India: **Keoladeo National Park** and **Loktak Lake**; Chilika Lake was removed post-restoration).
-
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Assertion (A): Sustainable Development was popularised by the Brundtland Report.
-Reason (R): The Brundtland Report is also known as "The Limits to Growth".
-
-A. Both true; R does not explain A
-
-B. A false; R true
-
-C. Both true; R explains A
-
-D. A true; R false
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests Brundtland → SD popularisation; R wrongly names Limits to Growth as Brundtland Report.
-
-**Ans: D.** A is true — *Our Common Future* (1987) popularised SD. R is false — *Limits to Growth* (1972) is **Club of Rome**, not Brundtland. **Trap:** Club of Rome title glued to Brundtland name.
-
-</details>
-
-**Q2.**
-
-*Silent Spring* (1962) was written by:
-
-A. Carolyn Merchant
-
-B. Karl Marx
-
-C. Rachel Carson
-
-D. Rajgopalan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Silent Spring authorship — Rachel Carson 1962, not Hardin or Club of Rome.
-
-**Ans: C.** Carson exposed pesticide harm (especially DDT) and catalysed modern environmental awareness. **Trap:** Garrett Hardin (*Tragedy of the Commons*, 1968) or Brundtland for Carson works.
-
-</details>
-
-**Q3.**
-
-The 1987 UN report that defined and popularised sustainable development is:
-
-A. Silent Spring
-
-B. Our Common Future
-
-C. Limits to Growth
-
-D. Hind Swaraj
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 1987 WCED report title — Our Common Future = Brundtland Report.
-
-**Ans: B.** Brundtland Commission / WCED produced ***Our Common Future* (1987)**. **Trap:** Limits to Growth (1972) or Silent Spring (1962) year-title swap.
-
-</details>
-
-**Q4.**
-
-Agenda-21 of Rio Summit (1992) is related to—
-
-A. Sustainable Development
-
-B. Polluter Pays
-
-C. Environmental Education alone
-
-D. Ozone Layer
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Agenda 21 primary frame — Rio 1992 sustainable-development action plan (Chapter 36 covers EE as one part).
-
-**Ans: A.** Agenda 21 is Rio's non-binding **SD** action plan; EE appears inside it but is not the sole headline. **Trap:** Picking "Environmental Education only" because Tbilisi/EE syllabus overlap.
-
-</details>
-
-**Q5.**
-
-With reference to Mission LiFE:
-
-1. It was launched in June 2022.
-2. The idea was first proposed at COP-25 Madrid.
-
-A. Only 2
-
-B. Neither
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** LiFE launch June 2022 true; COP-25 Madrid idea false — idea at COP-26 Glasgow 2021.
-
-**Ans: D.** Launch **June 2022** is correct; the idea came at **COP-26 Glasgow (2021)**, not COP-25 Madrid. **Trap:** Any "COP-25 LiFE" distractor.
-
-</details>
-
-**Q6.**
-
-"The Tragedy of the Commons" (1968) was written by:
-
-A. Garrett Hardin
-
-B. Rachel Carson
-
-C. Brundtland Commission
-
-D. Club of Rome
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tragedy of the Commons essay — Garrett Hardin 1968.
-
-**Ans: A.** Hardin's essay on overuse of shared resources — distinct from Carson (1962) and Club of Rome *Limits* (1972). **Trap:** Hardin credited with *Silent Spring*.
-
-</details>
-
-**Q7.**
-
-The Tbilisi Declaration (1977) is chiefly associated with:
-
-A. Environmental Education
-
-B. Ozone layer protection
-
-C. Wetlands wise use
-
-D. Carbon credit trading
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tbilisi 1977 — landmark Environmental Education declaration; not Stockholm UNEP birth (1972).
-
-**Ans: A.** **Tbilisi (1977)** formalised global EE principles after Stockholm (1972) put EE on the agenda. **Trap:** Stockholm 1972 = UNEP creation, not Tbilisi EE milestone.
-
-</details>
-
-**Q8.**
-
-Protection of the natural environment is a duty of every citizen under:
-
-A. Article 51A(g) of the Constitution
-
-B. Article 368 only
-
-C. Schedule 7 List I alone
-
-D. Wildlife Protection Act 1972 Section 35
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Art 51A(g) — Fundamental Duty to protect environment; distinct from Art 48A State policy.
-
-**Ans: A.** **Art 51A(g)** is the citizen's fundamental duty; **Art 48A** is the State's directive principle. **Trap:** Mixing fundamental duty with DPSP or WPA sections.
-
-</details>
-
-**Q9.**
-
-ECO Clubs under the National Green Corps programme are run by:
-
-A. Ministry of Environment, Forest and Climate Change
-
-B. Central Pollution Control Board alone
-
-C. Reserve Bank of India
-
-D. International Solar Alliance secretariat only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** ECO Club / National Green Corps under MoEFCC — not CPCB pollution enforcement.
-
-**Ans: A.** NGC/ECO Club is MoEFCC's school EE network (~2001-02 national push). **Trap:** CPCB because "environment" appears in both names.
-
-</details>
-
-**Q10.**
-
-Van Mahotsav, the tree-plantation campaign associated with K.M. Munshi, is observed in:
-
-A. July
-
-B. February
-
-C. 5 June
-
-D. 22 April
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Van Mahotsav — July plantation week; K.M. Munshi; not February or WED June.
-
-**Ans: A.** **Van Mahotsav = July** mass planting drive in India. **Trap:** 5 June (WED), 22 April (Earth Day), or 21 March (International Day of Forests).
-
-</details>
-
-**Q11.** With reference to the four pillars, which of the following statements is/are correct?
-
-1. The four pillars are only IUCN Red List categories, not literature/education/awareness/communication.
-2. Keep pillar → flagship distinct.
-3. All four are identical to IUCN categories.
-
-A. Only 1
-B. 1 and 2
-C. Only 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 2 is correct.
-
-**Logic:** Statement 2 keeps pillar distinct from flagship. Statement 1 mislabels the four pillars. Statement 3 wrongly equates them with IUCN categories.
-
-</details>
-
-**Q12.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|--------|
-| A. Silent Spring | 1. Garrett Hardin 1968 |
-| B. Tragedy of the Commons | 2. Rachel Carson 1962 |
-| C. Limits to Growth | 3. Club of Rome 1972 |
-
-Code:
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A-2, B-1, C-3.
-
-**Logic:** Carson/Hardin/Club of Rome.
-
-</details>
-
-**Q13.** Which of the following pairs is/are correctly matched?
-
-1. Our Common Future — Brundtland 1997
-2. Limits to Growth — Club of Rome 1972
-3. Brundtland — identical to Limits to Growth
-
-A. Only 2
-B. Only 1
-C. 1 and 2
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 2 is correct.
-
-**Logic:** Only statement 2 remains true among the numbered claims. Statement 1 is false. Statement 2 is true. Statement 3 is false.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Silent Spring exposed pesticide/DDT harms.
-
-Reason (R): It is Hardin’s commons essay.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** A true, R false.
-
-**A/R logic:** Carson ≠ Hardin.
-
-</details>
-
-**Q15.** With reference to EE landmarks, which of the following statements is/are correct?
-
-1. Tbilisi 1977.
-2. MoEFCC NGC/ECO Clubs.
-3. GSDP 2017 and NEP 2020 ESD language.
-
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three.
-
-**Logic:** EE spine.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Sustainable Development was popularised by the Brundtland Report.<br>Reason (R): The Brundtland Report is also known as "The Limits to Growth".</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both true; R does not explain A</div><div class="pyq-opt"><span class="opt-letter">B</span> A false; R true</div><div class="pyq-opt"><span class="opt-letter">C</span> Both true; R explains A</div><div class="pyq-opt"><span class="opt-letter">D</span> A true; R false</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A/R logic:** A tests Brundtland → SD popularisation; R wrongly names Limits to Growth as Brundtland Report.
+
+**Ans: D.** A is true — *Our Common Future* (1987) popularised SD. R is false — *Limits to Growth* (1972) is **Club of Rome**, not Brundtland. **Trap:** Club of Rome title glued to Brundtland name.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">*Silent Spring* (1962) was written by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Carolyn Merchant</div><div class="pyq-opt"><span class="opt-letter">B</span> Karl Marx</div><div class="pyq-opt"><span class="opt-letter">C</span> Rachel Carson</div><div class="pyq-opt"><span class="opt-letter">D</span> Rajgopalan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Silent Spring authorship — Rachel Carson 1962, not Hardin or Club of Rome.
+
+**Ans: C.** Carson exposed pesticide harm (especially DDT) and catalysed modern environmental awareness. **Trap:** Garrett Hardin (*Tragedy of the Commons*, 1968) or Brundtland for Carson works.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">The 1987 UN report that defined and popularised sustainable development is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Silent Spring</div><div class="pyq-opt"><span class="opt-letter">B</span> Our Common Future</div><div class="pyq-opt"><span class="opt-letter">C</span> Limits to Growth</div><div class="pyq-opt"><span class="opt-letter">D</span> Hind Swaraj</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** 1987 WCED report title — Our Common Future = Brundtland Report.
+
+**Ans: B.** Brundtland Commission / WCED produced ***Our Common Future* (1987)**. **Trap:** Limits to Growth (1972) or Silent Spring (1962) year-title swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Agenda-21 of Rio Summit (1992) is related to—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sustainable Development</div><div class="pyq-opt"><span class="opt-letter">B</span> Polluter Pays</div><div class="pyq-opt"><span class="opt-letter">C</span> Environmental Education alone</div><div class="pyq-opt"><span class="opt-letter">D</span> Ozone Layer</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Agenda 21 primary frame — Rio 1992 sustainable-development action plan (Chapter 36 covers EE as one part).
+
+**Ans: A.** Agenda 21 is Rio's non-binding **SD** action plan; EE appears inside it but is not the sole headline. **Trap:** Picking "Environmental Education only" because Tbilisi/EE syllabus overlap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">With reference to Mission LiFE:<br><br>1. It was launched in June 2022.<br>2. The idea was first proposed at COP-25 Madrid.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** LiFE launch June 2022 true; COP-25 Madrid idea false — idea at COP-26 Glasgow 2021.
+
+**Ans: D.** Launch **June 2022** is correct; the idea came at **COP-26 Glasgow (2021)**, not COP-25 Madrid. **Trap:** Any "COP-25 LiFE" distractor.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">"The Tragedy of the Commons" (1968) was written by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Garrett Hardin</div><div class="pyq-opt"><span class="opt-letter">B</span> Rachel Carson</div><div class="pyq-opt"><span class="opt-letter">C</span> Brundtland Commission</div><div class="pyq-opt"><span class="opt-letter">D</span> Club of Rome</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tragedy of the Commons essay — Garrett Hardin 1968.
+
+**Ans: A.** Hardin's essay on overuse of shared resources — distinct from Carson (1962) and Club of Rome *Limits* (1972). **Trap:** Hardin credited with *Silent Spring*.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The Tbilisi Declaration (1977) is chiefly associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Environmental Education</div><div class="pyq-opt"><span class="opt-letter">B</span> Ozone layer protection</div><div class="pyq-opt"><span class="opt-letter">C</span> Wetlands wise use</div><div class="pyq-opt"><span class="opt-letter">D</span> Carbon credit trading</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Tbilisi 1977 — landmark Environmental Education declaration; not Stockholm UNEP birth (1972).
+
+**Ans: A.** **Tbilisi (1977)** formalised global EE principles after Stockholm (1972) put EE on the agenda. **Trap:** Stockholm 1972 = UNEP creation, not Tbilisi EE milestone.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Protection of the natural environment is a duty of every citizen under:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Article 51A(g) of the Constitution</div><div class="pyq-opt"><span class="opt-letter">B</span> Article 368 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Schedule 7 List I alone</div><div class="pyq-opt"><span class="opt-letter">D</span> Wildlife Protection Act 1972 Section 35</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Art 51A(g) — Fundamental Duty to protect environment; distinct from Art 48A State policy.
+
+**Ans: A.** **Art 51A(g)** is the citizen's fundamental duty; **Art 48A** is the State's directive principle. **Trap:** Mixing fundamental duty with DPSP or WPA sections.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">ECO Clubs under the National Green Corps programme are run by:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ministry of Environment, Forest and Climate Change</div><div class="pyq-opt"><span class="opt-letter">B</span> Central Pollution Control Board alone</div><div class="pyq-opt"><span class="opt-letter">C</span> Reserve Bank of India</div><div class="pyq-opt"><span class="opt-letter">D</span> International Solar Alliance secretariat only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** ECO Club / National Green Corps under MoEFCC — not CPCB pollution enforcement.
+
+**Ans: A.** NGC/ECO Club is MoEFCC's school EE network (~2001-02 national push). **Trap:** CPCB because "environment" appears in both names.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Van Mahotsav, the tree-plantation campaign associated with K.M. Munshi, is observed in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> July</div><div class="pyq-opt"><span class="opt-letter">B</span> February</div><div class="pyq-opt"><span class="opt-letter">C</span> 5 June</div><div class="pyq-opt"><span class="opt-letter">D</span> 22 April</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Van Mahotsav — July plantation week; K.M. Munshi; not February or WED June.
+
+**Ans: A.** **Van Mahotsav = July** mass planting drive in India. **Trap:** 5 June (WED), 22 April (Earth Day), or 21 March (International Day of Forests).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to the four pillars, which of the following statements is/are correct?<br><br>1. The four pillars are only IUCN Red List categories, not literature/education/awareness/communication.<br>2. Keep pillar → flagship distinct.<br>3. All four are identical to IUCN categories.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Statement 2 keeps pillar distinct from flagship. Statement 1 mislabels the four pillars. Statement 3 wrongly equates them with IUCN categories.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Silent Spring</td><td><span class="match-key">1</span> Garrett Hardin 1968</td></tr>
+      <tr><td><span class="match-key">B</span> Tragedy of the Commons</td><td><span class="match-key">2</span> Rachel Carson 1962</td></tr>
+      <tr><td><span class="match-key">C</span> Limits to Growth</td><td><span class="match-key">3</span> Club of Rome 1972</td></tr>
+  </tbody>
+</table><br>Code:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-1, C-3.
+
+**Logic:** Carson/Hardin/Club of Rome.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are correctly matched?<br><br>1. Our Common Future — Brundtland 1997<br>2. Limits to Growth — Club of Rome 1972<br>3. Brundtland — identical to Limits to Growth</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2 is correct.
+
+**Logic:** Only statement 2 remains true among the numbered claims. Statement 1 is false. Statement 2 is true. Statement 3 is false.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Silent Spring exposed pesticide/DDT harms.<br><br>Reason (R): It is Hardin’s commons essay.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A true, R false.
+
+**A/R logic:** Carson ≠ Hardin.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to EE landmarks, which of the following statements is/are correct?<br><br>1. Tbilisi 1977.<br>2. MoEFCC NGC/ECO Clubs.<br>3. GSDP 2017 and NEP 2020 ESD language.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three.
+
+**Logic:** EE spine.</div>
+  </div>
+</div>

@@ -100,6 +100,31 @@ hide:
 48. **Notified Area Committee vs Town Area Committee:** Notified Area Committee is created for fast-growing towns or towns not fulfilling conditions for municipality; established by state notification; **entirely nominated body** (no elected members). Town Area Committee is set up for small towns; semi-municipal authority; can be wholly elected, wholly nominated, or mixed.
 49. **Port Trust Administration:** Established in major port cities (Kolkata, Mumbai, Chennai) to manage port facilities and civic amenities; established by an Act of Parliament; consists of both elected and nominated members.
 50. **Central Council of Local Government:** Set up in 1954 under **Article 263** (Inter-State Council provision) by an order of the President; chaired by the Union Minister for Housing and Urban Affairs; advisory body for formulating urban local government policies.
+51. **Historical Committees on Panchayati Raj Chronological Order:** (1) **Balwant Rai Mehta Committee (1957)** - Recommended 3-tier Panchayati Raj system and democratic decentralization; (2) **Ashok Mehta Committee (1977–78)** - Recommended 2-tier system (Zila Parishad + Mandal Panchayat) and political party participation; (3) **G.V.K. Rao Committee (1985)** - Recommended administrative arrangement for rural development ('grass without roots'); (4) **L.M. Singhvi Committee (1986)** - Recommended constitutional recognition for local self-government and Nyaya Panchayats; (5) **P.K. Thungon Committee (1988)** - Strongly urged constitutional entrenchment; (6) **V.N. Gadgil Committee (1988)** - Drafted template of 3-tier system with reservation and State Election/Finance Commissions.
+52. **First Panchayati Raj Inauguration in India:** Inaugurated by Prime Minister Jawaharlal Nehru on **2 October 1959 at Nagaur, Rajasthan**; Andhra Pradesh was the second State to adopt it in 1959.
+53. **73rd Constitutional Amendment Act, 1992 (Key Milestones):** Passed during P.V. Narasimha Rao's premiership; received presidential assent on 20 April 1993; came into force on **24 April 1993** (celebrated annually as **National Panchayati Raj Day**); added **Part IX (Articles 243 to 243-O)** and the **11th Schedule (29 functional subjects)**.
+54. **74th Constitutional Amendment Act, 1992 (Urban Local Bodies):** Received assent on 20 April 1993; came into force on **1 June 1993**; added **Part IX-A (Articles 243-P to 243-ZG)** and the **12th Schedule (18 functional items)**.
+55. **Article 243-A (Gram Sabha):** Foundation of the Panchayati Raj system; a body consisting of **all persons registered in the electoral rolls** relating to a village comprised within the area of Panchayat; exercises powers and performs functions at village level as State Legislature provides by law.
+56. **Article 243-B (Three-Tier Panchayati Structure):** Mandates Panchayats at village, intermediate (Panchayat Samiti/Block), and district (Zila Parishad) levels; Proviso: Intermediate level Panchayat need **NOT be constituted in a State having a population not exceeding 20 lakhs**.
+57. **Article 243-C (Composition of Panchayats):** All seats in a Panchayat at all three levels are filled by persons chosen by **direct election from territorial constituencies**; Chairpersons of village panchayats elected as state law provides; Chairpersons of intermediate and district panchayats must be elected **indirectly by and from amongst the elected members**.
+58. **Article 243-D (Reservation of Seats in Panchayats):** Mandatory reservation for **SCs and STs in proportion to their population**; not less than **one-third (33%) of total seats reserved for women** (including SC/ST women); reservation for women also applies to offices of Chairpersons at all levels; State Legislature may provide reservation for Backward Classes (OBCs); several states (e.g. Bihar [first in 2006], MP, Rajasthan, Uttarakhand) have increased women reservation to **50%**.
+59. **Article 243-E (Duration of Panchayats):** Every Panchayat shall continue for **5 years** from the date appointed for its first meeting and no longer; Election to constitute a Panchayat must be completed: (a) before expiry of its 5-year duration; (b) in case of premature dissolution, within **6 months**; a Panchayat reconstituted after premature dissolution continues ONLY for the **remainder of the 5-year period** (unless remainder is less than 6 months, in which case no mid-term election is held).
+60. **Article 243-F (Disqualifications for Membership):** Minimum age for contesting Panchayat elections is **21 years** (unlike 25 years for Lok Sabha/Vidhan Sabha); questions of disqualification referred to authority determined by State Legislature.
+61. **Article 243-I & 243-Y (State Finance Commission):** Governor constitutes a Finance Commission every **5 years** to review financial position of Panchayats and Municipalities and recommend distribution of net proceeds of taxes between State and local bodies, assignment of taxes, and grants-in-aid.
+62. **Article 243-K & 243-ZA (State Election Commission):** Superintendence, direction and control of preparation of electoral rolls and conduct of all elections to Panchayats and Municipalities is vested in the **State Election Commissioner** appointed by the Governor; conditions of service and tenure determined by Governor; **can be removed from office ONLY in like manner and on like grounds as a Judge of a High Court** (cannot be removed by Governor arbitrarily).
+63. **Article 243-O & 243-ZG (Bar to Interference by Courts):** Courts have no jurisdiction to question validity of any law relating to delimitation of constituencies or allotment of seats; elections to Panchayats/Municipalities can be called in question ONLY by an **election petition** presented to such authority and in such manner as prescribed by state law.
+64. **Article 243-Q (Three Types of Municipalities):** (1) **Nagar Panchayat** for a transitional area from rural to urban; (2) **Municipal Council (Nagar Palika Parishad)** for a smaller urban area; (3) **Municipal Corporation (Nagar Nigam)** for a larger urban area; Governor specifies these areas based on population, density, revenue, and economic factors.
+65. **Article 243-S (Wards Committees):** Mandates constitution of Wards Committees consisting of one or more wards within territorial area of a Municipality having a **population of 3 lakhs or more**.
+66. **Article 243-ZD (District Planning Committee - DPC):** Constituted in every district to consolidate plans prepared by Panchayats and Municipalities and prepare a draft development plan for the district as a whole; not less than **four-fifths (80%) of members** are elected by and from amongst the elected members of Zila Parishad and Municipalities in proportion to rural/urban population ratio.
+67. **Article 243-ZE (Metropolitan Planning Committee - MPC):** Constituted in every Metropolitan area (population 10 lakhs or more); not less than **two-thirds (66.6%) of members** are elected by and from amongst elected members of Municipalities and Chairpersons of Panchayats in the area.
+68. **PESA Act, 1996 (Panchayats Extension to Scheduled Areas):** Enacted on recommendation of **Bhuria Committee** to extend Part IX to Fifth Schedule areas across 10 States; recognizes traditional rights, customs, and community resources of tribal communities; Gram Sabha has mandatory powers of consultation in land acquisition, minor forest produce (MFP) ownership, grant of prospecting licenses for minor minerals, and enforcing prohibition.
+69. **Compulsory vs Voluntary Provisions of 73rd Amendment:** **Compulsory (Mandatory):** Organization of Gram Sabha, 3-tier system, direct elections to all seats, indirect election of chairpersons at intermediate/district levels, 21 years voting age, 1/3rd women reservation, SC/ST reservation, 5-year tenure, State Finance Commission, State Election Commission; **Voluntary (Discretionary):** Giving voting rights to MPs/MLAs, reservation for OBCs, devolving 29 functional items, granting taxation powers, financial autonomy.
+70. **Uttar Pradesh Panchayati Raj Act, 1947 & Municipalities Act, 1916:** Governs local bodies in UP; UP was among first to establish Gaon Sabhas in 1949; amended in 1994 (UP Panchayat Laws Amendment Act 1994) to align with 73rd and 74th Amendments; UP has a 3-tier system: Gram Panchayat (headed by Gram Pradhan), Kshetra Panchayat (Block Pramukh), and Zila Panchayat (Zila Panchayat Adhyaksha); UP currently has **17 Municipal Corporations (Nagar Nigams)** (Shahjahanpur became 17th in 2018).
+71. **First Municipal Corporation in India:** Established at **Madras in 1687–88**; followed by Bombay and Calcutta in 1726; Lord Ripon’s Resolution of 1882 is hailed as the **'Magna Carta of Local Self-Government'** in India (Lord Ripon known as 'Father of Local Self-Government in India').
+72. **Sources of Municipal Revenue:** (1) Tax revenue (property tax, octroi/entry tax, vehicle tax); (2) Non-tax revenue (user charges, fees, fines); (3) Assigned taxes and shared revenue; (4) Grants-in-aid from State Govt; (5) Borrowings (municipal bonds; Ahmedabad MC issued first municipal bonds in India in 1998; Lucknow MC issued bonds listed on BSE in 2020).
+73. **Nyaya Panchayats Status:** Judicial wings of village panchayats recommended by Ashok Mehta and LM Singhvi committees; eliminated or non-functional in most modern state acts due to lack of legal training and procedural issues.
+74. **Social Audit in Local Governance:** Mandatory verification of scheme expenditure by Gram Sabha; pioneered under MGNREGA Act 2005 (Section 17); Meghalaya was the first state in India to pass a comprehensive Social Audit Act in 2017.
+75. **e-Gram Swaraj & SVAMITVA Schemes:** High-yield national digital local governance initiatives; e-Gram Swaraj portal integrates planning, accounting, and monitoring of Panchayats; SVAMITVA (Survey of Villages and Mapping with Improvised Technology in Village Areas) uses drone technology to map rural inhabited lands and issue property cards ('Gharauni' in UP).
 
 ## ⏱️ Timeline / Chronology
 
@@ -154,21 +179,6 @@ hide:
 | **Panchayats** | **Part IX** (Arts. 243 to 243-O) | **11th Schedule** | **29 Subjects** (2 + 9 = 11) | Article 243G |
 | **Municipalities** | **Part IXA** (Arts. 243P to 243ZG) | **12th Schedule** | **18 Subjects** (1 + 8 = 9) | Article 243W |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair | Correct | Trap | Hindi |
-|---|---|---|---|
-| Balwant Rai vs Ashok Mehta tiers | **Balwant Rai (1957)** = 3 tiers; **Ashok Mehta (1977)** = 2 tiers | Swap the tiers | बलवंत राय = 3 स्तर; अशोक मेहता = 2 स्तर |
-| 11th vs 12th Schedule Subjects | **11th Schedule** (Panchayats) = **29 subjects**; **12th Schedule** (Municipalities) = **18 subjects** | Swap 29 and 18 | 11वीं अनुसूची = 29; 12वीं अनुसूची = 18 |
-| Minimum Age: Panchayat vs Assembly | Panchayat minimum age = **21 YEARS** (Art. 243F); Assembly = **25 years** | Require 25 years for Panchayat elections | पंचायत चुनाव न्यूनतम आयु = 21 वर्ष |
-| Intermediate Tier Exemption | States having population **under 20 LAKH** can skip the intermediate block level | Use 10 lakh or 50 lakh | 20 लाख से कम आबादी = ब्लॉक पंचायत छूट |
-| Women's Reservation Floor | Constitutional floor is **minimum 1/3rd (33.3%)** under Art. 243D (States can raise to 50%) | Say Constitution mandates 50% reservation | संविधान में न्यूनतम 1/3 (राज्य 50% कर सकते हैं) |
-| Remainder Term of Dissolved Panchayat | Reconstituted Panchayat serves **ONLY for the remainder of the 5-year term** | Give a fresh 5-year term | केवल शेष अवधि के लिए कार्य करती है |
-| SEC Appointment vs Removal | Appointed by **Governor**; removed **ONLY like a High Court Judge** (Presidential address) | Allow Governor to remove State Election Commissioner | नियुक्ति = राज्यपाल; निष्कासन = HC जज समान |
-| Cantonment Board Authority | Administered by **Union Ministry of Defence** under Cantonments Act, 2006 (NOT State Govt) | Put Cantonment Boards under State Urban Development | छावनी बोर्ड = रक्षा मंत्रालय के अधीन |
-| DPC Composition Ratio | At least **4/5ths (80%)** members elected from Zila Panchayat and Municipalities | Say 2/3rd or 1/2 | जिला योजना समिति = कम से कम 4/5 निर्वाचित |
-| First Municipal Corporation | Established at **Madras in 1687–88** (NOT Calcutta or Bombay) | Name Calcutta as first municipal corporation | पहला नगर निगम = मद्रास (1687) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Committees Chronology Sequence:**
@@ -186,248 +196,249 @@ hide:
    - Dissolution Election Window = **6 Months**
    - Women's Constitutional Floor = **33.3% (1/3rd)**
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-With reference to Municipalities, which of the following statements is/are correct?
-1. The eligible age to be a member of a municipality is 25 years.
-2. One-third of the total number of seats to be filled by direct election in municipalities is reserved for women.
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Only 2.** Age = **21**.
-
-</details>
-
-**Q2.**
-With reference to Panchayati Raj Institutions in India, which of the following statements is/are correct?
-1. The tenure of Panchayati Raj Institutions shall be five years.
-2. Out of the reserved seats, one-fourth shall be reserved for women belonging to Scheduled Castes and Scheduled Tribes.
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1.** Women = **1/3**, not 1/4.
-
-</details>
-
-**Q3.**
-Which of the following are the functions of the Election Commission of India?
-1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.
-2. Conduct of elections of the Municipal Corporations and Municipalities.
-3. Deciding on all doubts and disputes arising out of the above elections.
-A. 2 and 3
-B. 1 and 2
-C. 1 and 3
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — None.** Municipal polls = **SEC**. Speaker = **House**.
-
-</details>
-
-**Q4.**
-Which Amendment Acts deal with Local Governance Institutions in India?
-A. 63rd and 64th
-B. 86th and 87th
-C. 42nd and 43rd
-D. 73rd and 74th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q5.**
-Which one of the following is not correctly matched?
-
-A. G.V.K. Rao Committee – Planning at the Block Level
-B. Dantwala Committee – Block-Level Planning
-C. Santhanam Committee – Panchayati Raj Finances
-D. Ashok Mehta Committee – Panchayati Raj Institutions
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — G.V.K. Rao Committee (1985) was on Administrative Arrangements for Rural Development and recommended making the District the basic unit for planning. Dantwala Committee (1978) was on Block-Level Planning.
-
-</details>
-
-**Q6.**
-Which one of the following is not a level in the three-tier Panchayati Raj recommended by Balwant Rai Mehta Committee?
-A. Panchayat Samiti
-B. Gram Panchayat
-C. Zilla Panchayat
-D. Nyaya Panchayat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q7.**
-Which of the following statements is **not true** regarding Gram Sabha?
-A. It has the powers and functions at the village level, like the State Legislature has at the State level.
-B. Its powers are determined by the Central Government.
-C. It is a Village Assembly consisting of all registered voters in the area of the Panchayat.
-D. Both (A) and (C)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q8.**
-All elections to the Panchayats are conducted by—
-A. State Legislature
-B. State Election Commission
-C. Election Commission of India
-D. Panchayati Raj Commission of India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q9.**
-With reference to the recommendations of the Ashok Mehta Committee (1977) on Panchayati Raj, which of the following statement(s) is/are correct?
-1. The three-tier system of Panchayati Raj should be replaced by the two-tier system.
-2. A block should be the first point for decentralization under popular supervision below the State level.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 1.**
-
-</details>
-
-**Q10.** The 73rd Amendment is a watershed in the history of local self-government in India.
-
-**Reason (R):** The 73rd Constitutional Amendment conferred constitutional status on Panchayats.
-A. (A) is false, but (R) is true
-B. (A) is true, but (R) is false
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q11.**
-When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?
-A. 1998
-B. 1996
-C. 1995
-D. 1993
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 1996.**
-
-</details>
-
-**Q12.**
-Match List-I (Committees on Panchayati Raj) with List-II (Year of Appointment):
-
-List-I:
-a. Balwant Rai Mehta Committee
-b. Ashok Mehta Committee
-c. L.M. Singhvi Committee
-d. P.K. Thungon Committee
-
-List-II:
-1. 1957
-2. 1977
-3. 1986
-4. 1988
-
-Select the correct code:
-A. a-2, b-1, c-3, d-4
-B. a-1, b-2, c-3, d-4
-C. a-1, b-2, c-4, d-3
-D. a-2, b-1, c-4, d-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Balwant Rai Mehta (1957), Ashok Mehta (1977), L.M. Singhvi (1986), P.K. Thungon (1988).
-
-</details>
-
-**Q13.**
-Arrange the following Panchayati Raj committees in chronological order of their constitution:
-1. Balwant Rai Mehta Committee
-2. Ashok Mehta Committee
-3. G.V.K. Rao Committee
-4. L.M. Singhvi Committee
-
-Select the correct sequence from the codes given below:
-A. 1, 2, 3, 4
-B. 1, 3, 2, 4
-C. 2, 1, 3, 4
-D. 2, 1, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Chronological order: Balwant Rai Mehta (1957) → Ashok Mehta (1977) → G.V.K. Rao (1985) → L.M. Singhvi (1986).
-
-</details>
-
-**Q14.**
-In India, the first Municipal Corporation was set up in which one among the following places?
-
-A. Calcutta
-B. Bombay
-C. Madras
-D. Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — In India, the first Municipal Corporation was set up in Madras (Chennai) in the year 1688.
-
-</details>
-
-**Q15.**
-Which Part of the Constitution has the provisions for Panchayati Raj System?
-A. IX
-B. VI
-C. III
-D. IV A
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Municipalities, which of the following statements is/are correct?<br>1. The eligible age to be a member of a municipality is 25 years.<br>2. One-third of the total number of seats to be filled by direct election in municipalities is reserved for women.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 2.** Age = **21**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to Panchayati Raj Institutions in India, which of the following statements is/are correct?<br>1. The tenure of Panchayati Raj Institutions shall be five years.<br>2. Out of the reserved seats, one-fourth shall be reserved for women belonging to Scheduled Castes and Scheduled Tribes.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1.** Women = **1/3**, not 1/4.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following are the functions of the Election Commission of India?<br>1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.<br>2. Conduct of elections of the Municipal Corporations and Municipalities.<br>3. Deciding on all doubts and disputes arising out of the above elections.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> None.** Municipal polls = **SEC**. Speaker = **House**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which Amendment Acts deal with Local Governance Institutions in India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 63rd and 64th</div><div class="pyq-opt"><span class="opt-letter">B</span> 86th and 87th</div><div class="pyq-opt"><span class="opt-letter">C</span> 42nd and 43rd</div><div class="pyq-opt"><span class="opt-letter">D</span> 73rd and 74th</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is not correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> G.V.K. Rao Committee – Planning at the Block Level</div><div class="pyq-opt"><span class="opt-letter">B</span> Dantwala Committee – Block-Level Planning</div><div class="pyq-opt"><span class="opt-letter">C</span> Santhanam Committee – Panchayati Raj Finances</div><div class="pyq-opt"><span class="opt-letter">D</span> Ashok Mehta Committee – Panchayati Raj Institutions</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> G.V.K. Rao Committee (1985) was on Administrative Arrangements for Rural Development and recommended making the District the basic unit for planning. Dantwala Committee (1978) was on Block-Level Planning.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is not a level in the three-tier Panchayati Raj recommended by Balwant Rai Mehta Committee?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Panchayat Samiti</div><div class="pyq-opt"><span class="opt-letter">B</span> Gram Panchayat</div><div class="pyq-opt"><span class="opt-letter">C</span> Zilla Panchayat</div><div class="pyq-opt"><span class="opt-letter">D</span> Nyaya Panchayat</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements is **not true** regarding Gram Sabha?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> It has the powers and functions at the village level, like the State Legislature has at the State level.</div><div class="pyq-opt"><span class="opt-letter">B</span> Its powers are determined by the Central Government.</div><div class="pyq-opt"><span class="opt-letter">C</span> It is a Village Assembly consisting of all registered voters in the area of the Panchayat.</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (C)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">All elections to the Panchayats are conducted by—</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> State Legislature</div><div class="pyq-opt"><span class="opt-letter">B</span> State Election Commission</div><div class="pyq-opt"><span class="opt-letter">C</span> Election Commission of India</div><div class="pyq-opt"><span class="opt-letter">D</span> Panchayati Raj Commission of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">With reference to the recommendations of the Ashok Mehta Committee (1977) on Panchayati Raj, which of the following statement(s) is/are correct?<br>1. The three-tier system of Panchayati Raj should be replaced by the two-tier system.<br>2. A block should be the first point for decentralization under popular supervision below the State level.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">The 73rd Amendment is a watershed in the history of local self-government in India.<br><br>**Reason (R):** The 73rd Constitutional Amendment conferred constitutional status on Panchayats.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">C</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1998</div><div class="pyq-opt"><span class="opt-letter">B</span> 1996</div><div class="pyq-opt"><span class="opt-letter">C</span> 1995</div><div class="pyq-opt"><span class="opt-letter">D</span> 1993</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1996.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct code:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Committees on Panchayati Raj)</th>
+        <th>List-II (Year of Appointment)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Balwant Rai Mehta Committee</td><td><span class="match-key">1</span> 1957</td></tr>
+    <tr><td><span class="match-key">B</span> Ashok Mehta Committee</td><td><span class="match-key">2</span> 1977</td></tr>
+    <tr><td><span class="match-key">C</span> L.M. Singhvi Committee</td><td><span class="match-key">3</span> 1986</td></tr>
+    <tr><td><span class="match-key">D</span> P.K. Thungon Committee</td><td><span class="match-key">4</span> 1988</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-3, D-4</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-2, C-4, D-3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> A-2, B-1, C-4, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Balwant Rai Mehta (1957), Ashok Mehta (1977), L.M. Singhvi (1986), P.K. Thungon (1988).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Arrange the following Panchayati Raj committees in chronological order of their constitution:<br>1. Balwant Rai Mehta Committee<br>2. Ashok Mehta Committee<br>3. G.V.K. Rao Committee<br>4. L.M. Singhvi Committee<br><br>Select the correct sequence from the codes given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 1, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 4, 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chronological order: Balwant Rai Mehta (1957) → Ashok Mehta (1977) → G.V.K. Rao (1985) → L.M. Singhvi (1986).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">In India, the first Municipal Corporation was set up in which one among the following places?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Calcutta</div><div class="pyq-opt"><span class="opt-letter">B</span> Bombay</div><div class="pyq-opt"><span class="opt-letter">C</span> Madras</div><div class="pyq-opt"><span class="opt-letter">D</span> Delhi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> In India, the first Municipal Corporation was set up in Madras (Chennai) in the year 1688.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which Part of the Constitution has the provisions for Panchayati Raj System?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> IX</div><div class="pyq-opt"><span class="opt-letter">B</span> VI</div><div class="pyq-opt"><span class="opt-letter">C</span> III</div><div class="pyq-opt"><span class="opt-letter">D</span> IV A</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Constitutional Principle.</div>
+  </div>
+</div>

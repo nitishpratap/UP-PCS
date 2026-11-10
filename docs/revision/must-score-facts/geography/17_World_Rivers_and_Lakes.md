@@ -72,6 +72,18 @@ hide:
 48. **Victoria Falls (Mosi-oa-Tunya)**: World's largest sheet of falling water, located on the **Zambezi River** on the border between **Zambia and Zimbabwe**.
 49. **Livingstone Falls & Inga Falls**: Series of massive rapids on the lower **Congo River**; Congo is the world's deepest river (>220 m) and second largest by discharge after Amazon.
 50. **Three Gorges Dam**: World's largest hydroelectric power station (22,500 MW), constructed across the **Yangtze River** (Chang Jiang) in Hubei province, **China**; Yangtze is Asia's longest river (6,300 km).
+51. **Nile River (Africa):** Longest river in the world (6,650 km); formed by confluence of **White Nile** (originates from Lake Victoria in Uganda) and **Blue Nile** (originates from Lake Tana in Ethiopian Highlands) at **Khartoum (Sudan)**; flows northward through Sahara and empties into Mediterranean Sea forming arcuate delta; hosts **Aswan High Dam** (forms Lake Nasser).
+52. **Amazon River (South America):** Largest river in the world by water discharge volume and catchment area; second longest (6,400 km); originates from Nevado Mismi in Peruvian Andes; drains Amazon rainforest (*Selvas* / 'Lungs of the Planet'); flows eastward along Equator into Atlantic Ocean; has no bridges across its entire main stem; phenomenon of tidal bore called **Pororoca**.
+53. **Yangtze River (Chang Jiang, China):** Longest river in Asia and third longest in the world (6,300 km); originates in Tibetan Plateau (Tanggula Mountains); flows eastward through Three Gorges into East China Sea near Shanghai; hosts **Three Gorges Dam** (world's largest hydroelectric power station).
+54. **Mississippi-Missouri River System (North America):** Fourth longest river system; originates from Lake Itasca (Minnesota); Missouri is longest tributary; joins Ohio River; empties into Gulf of Mexico forming classic **Bird's-Foot Delta** (*Pied-de-poule*); drains >40% of continental USA.
+55. **Danube River (Europe):** Second longest river in Europe (after Volga); originates in **Black Forest (Germany)**; only major European river flowing west to east; passes through or touches **10 countries** (Germany, Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova, Ukraine) and **4 national capital cities** (Vienna, Bratislava, Budapest, Belgrade); empties into Black Sea.
+56. **Volga River (Russia):** Longest river in Europe (3,530 km); originates in Valdai Hills northwest of Moscow; flows south into the landlocked **Caspian Sea**; drained by extensive canal systems connecting Baltic, White, Black, and Caspian seas ('Five Seas Canal Network').
+57. **Caspian Sea:** World's **largest enclosed inland body of water / lake** (saline); bordered by 5 countries (mnemonic: **TARIK** - Turkmenistan, Azerbaijan, Russia, Iran, Kazakhstan); fed by Volga and Ural rivers; has no natural outlets.
+58. **Lake Baikal (Siberia, Russia):** World's **deepest lake (1,642 m)** and **largest freshwater lake by volume** (contains 20% of world's unfrozen surface fresh water); ancient tectonic rift valley lake (~25 million years old); home to endemic freshwater seal (*Nerpa*).
+59. **Great Lakes of North America (West to East mnemonic: HOMES):** Lake Superior, Lake Michigan, Lake Huron, Lake Erie, Lake Ontario; (1) **Lake Superior:** World's largest freshwater lake by surface area; (2) **Lake Michigan:** Only Great Lake situated **entirely within the United States** (Chicago on shore); (3) **Niagara Falls:** Situated between Lake Erie and Lake Ontario on Niagara River; (4) **St. Lawrence River:** Outflow of Great Lakes into Atlantic Ocean; (5) **Soo Canal:** Connects Lake Superior and Lake Huron.
+60. **Lake Victoria (Africa):** Africa's largest lake by area; world's second largest freshwater lake; bordered by **Uganda, Kenya, and Tanzania**; crossed by the **Equator**; primary source of the White Nile River.
+61. **Lake Tanganyika (Africa):** World's longest freshwater lake (673 km) and second deepest (1,470 m); lies in the Western branch of the East African Rift; bordered by Tanzania, DRC, Burundi, and Zambia.
+62. **Dead Sea (Israel, Jordan, West Bank):** Lowest land elevation on Earth (-430 m below sea level); hyper-saline lake (~34% salinity, nearly 10 times saltier than ocean); bathers float naturally due to extreme buoyancy; fed by Jordan River.
 
 ## ⏱️ Timeline / Chronology
 
@@ -156,23 +168,6 @@ hide:
 | **Lake Eyre (Kati Thanda)** | South Australia | **Lowest point in Australia** (-15 m) | ~9,500 km² (variable) | Endorheic salt sink in arid center of Australia; fills completely only a few times each century |
 | **Aral Sea** | Kazakhstan & Uzbekistan | Catastrophic shrinkage due to Soviet diversion of **Amu Darya & Syr Darya** | Formerly 68,000 km² (now <10%) | "One of the planet's worst environmental disasters"; divided into North and South Aral seas |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **White Nile** | **Blue Nile** | Originates from **Lake Victoria** (Uganda); long, steady equatorial headstream vs Originates from **Lake Tana** (Ethiopian Highlands); contributes **>80% of Nile floodwater and fertile silt**; meet at Khartoum | श्वेत नील / नीली नील |
-| **Amazon River** | **Nile River** | World's **largest river by water volume/discharge** and largest basin (~7M km²) vs World's **longest river by linear length** (6,650 km) | अमेज़न / नील नदी |
-| **Lake Superior** | **Lake Baikal** | World's largest freshwater lake by **surface area** (82,100 km², North America) vs World's largest freshwater lake by **water volume** & **deepest lake** (1,642 m, Siberia, Russia) | सुपीरियर / बैकाल झील |
-| **Lake Michigan** | **Other Great Lakes (H-O-E-S)** | Located **entirely within the United States** vs Transboundary lakes shared between the **United States and Canada** | मिशिगन / अन्य 4 महान झीलें |
-| **Lake Victoria** | **Lake Tanganyika** | Shallow tectonic depression lake **crossed by Equator**; source of White Nile vs Deep, narrow tectonic **Rift Valley lake**; second-deepest in world | विक्टोरिया / तंगानिका झील |
-| **Lake Van (Turkey)** | **Dead Sea (Jordan/Israel)** | Highest salinity lake (~330‰) vs Lowest point on Earth's surface (-430 m) with ~300‰ salinity | वान झील / मृत सागर |
-| **Congo River** | **Limpopo River** | Crosses the **Equator twice** (Central Africa) vs Crosses the **Tropic of Capricorn twice** (Southern Africa) | कांगो / लिम्पोपो नदी |
-| **Mahi River** | **Congo / Limpopo** | Crosses the **Tropic of Cancer twice** (India: MP, RJ, GJ) vs African rivers crossing Equator / Capricorn twice | माही नदी / अफ्रीकी नदियां |
-| **Danube River** | **Rhine River** | Flows West-to-East into **Black Sea** through 10 countries & 4 capitals vs Flows South-to-North into **North Sea** through Germany's industrial core (Rotterdam) | डेन्यूब / राइन नदी |
-| **Soo Canal** | **Welland Canal** | Connects **Lake Superior with Lake Huron** vs Connects **Lake Erie with Lake Ontario** (bypasses Niagara Falls) | सू नहर / वेलैंड नहर |
-| **Aral Sea** | **Caspian Sea** | Disappearing terminal lake fed by **Amu Darya & Syr Darya** vs World's largest inland water body fed primarily by **Volga River** | अरल सागर / कैस्पियन सागर |
-| **Angel Falls** | **Tugela Falls** | Highest uninterrupted waterfall in world (979 m, **Venezuela**, Churun/Caroni river) vs Second-highest waterfall (948 m, **South Africa**, Drakensberg) | एंजेल प्रपात / टुगेला प्रपात |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Great Lakes of North America: **HOMES**
@@ -204,368 +199,357 @@ hide:
 - **3. Great Salt Lake (Utah, USA)**: ~220–270‰
 - *(Comparison: Normal ocean water average salinity = **35‰**)*
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-New Orleans stands on which river?
-
-A. Missouri
-B. Mississippi
-C. Ohio
-D. Colorado
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** New Orleans = **Mississippi**.
-
-**Logic:** Missouri joins the Mississippi at St Louis — common trap.
-
-</details>
-
-**Q2.**
-With reference to the Mekong, which of the following statements is/are correct?
-
-1. It rises in Tibet.
-2. It flows mainly south / south-east.
-3. Its delta lies in Cambodia.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Delta is in **southern Vietnam**, not Cambodia.
-
-</details>
-
-**Q3.**
-Which lake lies wholly in the USA?
-
-A. Superior
-B. Huron
-C. Michigan
-D. Ontario
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Michigan** is wholly USA.
-
-**Logic:** Other Great Lakes are shared with Canada.
-
-</details>
-
-**Q4.**
-Assertion (A): The Amazon is usually keyed as the world’s longest river in length stems.
-Reason (R): The Amazon has the world’s largest discharge.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A is false (Nile is the usual length key); R is true.
-
-**A/R logic:** Length vs discharge must stay separate.
-
-</details>
-
-**Q5.**
-The Grand Canyon is formed by the:
-
-A. Missouri
-B. St Lawrence
-C. Colorado
-D. Ohio
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Grand Canyon = **Colorado**.
-
-**Logic:** UKPCS/UPPCS style trap options often plant Missouri/St Lawrence.
-
-</details>
-
-**Q6.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Dam) | List-II (River) |
-|---|---|
-| 1. Three Gorges | A. Yangtze |
-| 2. Itaipu | B. Paraná |
-| 3. Hoover | C. Colorado |
-| 4. Kariba | D. Zambezi |
-
-A. 1-A, 2-B, 3-C, 4-D
-B. 1-B, 2-A, 3-C, 4-D
-C. 1-A, 2-C, 3-B, 4-D
-D. 1-A, 2-B, 3-D, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Standard dam–river pairs.
-
-**Logic:** Row order is not the answer code.
-
-</details>
-
-**Q7.**
-Great Lakes from west to east are:
-
-A. Michigan → Superior → Huron → Erie → Ontario
-B. Superior → Michigan → Huron → Erie → Ontario
-C. Superior → Huron → Michigan → Erie → Ontario
-D. Superior → Michigan → Erie → Huron → Ontario
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Superior → Michigan → Huron → Erie → Ontario.
-
-**Logic:** “Super Man Helps Every One” mnemonic.
-
-</details>
-
-**Q8.**
-Which river crosses the Equator twice?
-
-A. Nile
-B. Limpopo
-C. Congo / Zaire
-D. Niger
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Congo/Zaire crosses the Equator **twice**.
-
-**Logic:** Limpopo crosses Capricorn twice.
-
-</details>
-
-**Q9.**
-Hyderabad (India) is on the:
-
-A. Godavari
-B. Musi
-C. Paleru
-D. Krishna
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Hyderabad = **Musi**.
-
-**Logic:** Godavari/Paleru are classic wrong options.
-
-</details>
-
-**Q10.**
-Which of the following is endorheic?
-
-A. Superior
-B. Baikal
-C. Caspian
-D. Victoria
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Caspian (also Aral, Dead Sea, Chad, Eyre) has no ocean outlet.
-
-**Logic:** Baikal/Superior/Victoria drain toward seas via river systems.
-
-</details>
-
-**Q11.**
-Consider the following pairs:
-
-1. Budapest — Danube
-2. Cologne — Rhine
-3. Baghdad — Euphrates only
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Baghdad = **Tigris** in the usual pair (not Euphrates-only).
-
-</details>
-
-**Q12.**
-Aral Sea shrinkage is mainly linked to diversion of:
-
-A. Nile and Congo
-B. Amu Darya and Syr Darya
-C. Volga and Don
-D. Amur and Yangtze
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Amu Darya and Syr Darya diversion.
-
-**Logic:** Lake Chad is the other shrinking-lake teaching pair.
-
-</details>
-
-**Q13.**
-Assertion (A): Darling Range and Murray–Darling refer to the same Australian river system.
-Reason (R): Darling Range is a highland of south-west Australia.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A is false; R is true.
-
-**A/R logic:** Name overlap is the trap; Range ≠ basin.
-
-</details>
-
-**Q14.**
-Highest waterfall in the usual set is:
-
-A. Victoria
-B. Niagara
-C. Angel
-D. Iguazu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Angel** (Venezuela) is highest.
-
-**Logic:** Victoria = Zambezi width/fame; Niagara = US–Canada.
-
-</details>
-
-**Q15.**
-GERD is located on the:
-
-A. White Nile in Sudan
-B. Blue Nile in Ethiopia
-C. Main Nile at Aswan
-D. Atbara in Egypt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** GERD = **Blue Nile, Ethiopia**.
-
-**Logic:** Aswan/Lake Nasser is the Egyptian Nile dam pair.
-
-</details>
-
-**Q16.**
-Which delta mouth pairing is correct?
-
-A. Nile — South China Sea
-B. Mekong — Mediterranean
-C. Danube — Black Sea
-D. Mississippi — Arabian Sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Danube → **Black Sea**.
-
-**Logic:** Nile–Mediterranean; Mekong–South China Sea; Mississippi–Gulf of Mexico; Indus–Arabian Sea.
-
-</details>
-
-**Q17.**
-Lake Baikal is best known as:
-
-A. Largest lake by area
-B. Deepest lake with greatest fresh volume
-C. Highest navigable lake
-D. Lowest land surface
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Baikal = deepest / most fresh volume / ancient.
-
-**Logic:** Caspian largest area; Titicaca highest navigable; Dead Sea lowest land.
-
-</details>
-
-**Q18.**
-USA–Mexico border river in the usual stem is:
-
-A. Colorado
-B. Rio Grande
-C. Mississippi
-D. Columbia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Rio Grande**.
-
-**Logic:** Colorado is the planted trap.
-
-</details>
-
-**Q19.**
-Arrange Great Lakes west to east starting from Superior:
-
-1. Erie
-2. Michigan
-3. Huron
-4. Ontario
-
-A. 2–3–1–4
-B. 3–2–1–4
-C. 2–1–3–4
-D. 2–3–4–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Michigan → Huron → Erie → Ontario after Superior.
-
-**Logic:** Same as full west→east mnemonic without renaming Superior.
-
-</details>
-
-**Q20.**
-Which one of the following pairs is NOT correctly matched?
-
-A. Mahaweli — longest Sri Lanka river
-B. Limpopo — crosses Capricorn twice
-C. Inselberg — glacial horn
-D. St Lawrence — Great Lakes seaway
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Inselberg is not a glacial horn tag.
-
-**Logic:** Glacial horns/arêtes are ice-erosion forms; inselberg is residual.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">New Orleans stands on which river?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Missouri</div><div class="pyq-opt"><span class="opt-letter">B</span> Mississippi</div><div class="pyq-opt"><span class="opt-letter">C</span> Ohio</div><div class="pyq-opt"><span class="opt-letter">D</span> Colorado</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> New Orleans = **Mississippi**.
+
+**Logic:** Missouri joins the Mississippi at St Louis — common trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to the Mekong, which of the following statements is/are correct?<br><br>1. It rises in Tibet.<br>2. It flows mainly south / south-east.<br>3. Its delta lies in Cambodia.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Delta is in **southern Vietnam**, not Cambodia.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which lake lies wholly in the USA?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Superior</div><div class="pyq-opt"><span class="opt-letter">B</span> Huron</div><div class="pyq-opt"><span class="opt-letter">C</span> Michigan</div><div class="pyq-opt"><span class="opt-letter">D</span> Ontario</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Michigan** is wholly USA.
+
+**Logic:** Other Great Lakes are shared with Canada.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): The Amazon is usually keyed as the world’s longest river in length stems.<br>Reason (R): The Amazon has the world’s largest discharge.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is false (Nile is the usual length key); R is true.
+
+**A/R logic:** Length vs discharge must stay separate.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The Grand Canyon is formed by the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Missouri</div><div class="pyq-opt"><span class="opt-letter">B</span> St Lawrence</div><div class="pyq-opt"><span class="opt-letter">C</span> Colorado</div><div class="pyq-opt"><span class="opt-letter">D</span> Ohio</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Grand Canyon = **Colorado**.
+
+**Logic:** UKPCS/UPPCS style trap options often plant Missouri/St Lawrence.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Dam)</th><th>List-II (River)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Three Gorges</td><td><span class="match-key">A</span> Yangtze</td></tr>
+      <tr><td><span class="match-key">2</span> Itaipu</td><td><span class="match-key">B</span> Paraná</td></tr>
+      <tr><td><span class="match-key">3</span> Hoover</td><td><span class="match-key">C</span> Colorado</td></tr>
+      <tr><td><span class="match-key">4</span> Kariba</td><td><span class="match-key">D</span> Zambezi</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-A, 2-C, 3-B, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-A, 2-B, 3-D, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard dam–river pairs.
+
+**Logic:** Row order is not the answer code.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Great Lakes from west to east are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Michigan → Superior → Huron → Erie → Ontario</div><div class="pyq-opt"><span class="opt-letter">B</span> Superior → Michigan → Huron → Erie → Ontario</div><div class="pyq-opt"><span class="opt-letter">C</span> Superior → Huron → Michigan → Erie → Ontario</div><div class="pyq-opt"><span class="opt-letter">D</span> Superior → Michigan → Erie → Huron → Ontario</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Superior → Michigan → Huron → Erie → Ontario.
+
+**Logic:** “Super Man Helps Every One” mnemonic.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which river crosses the Equator twice?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nile</div><div class="pyq-opt"><span class="opt-letter">B</span> Limpopo</div><div class="pyq-opt"><span class="opt-letter">C</span> Congo / Zaire</div><div class="pyq-opt"><span class="opt-letter">D</span> Niger</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Congo/Zaire crosses the Equator **twice**.
+
+**Logic:** Limpopo crosses Capricorn twice.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Hyderabad (India) is on the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Godavari</div><div class="pyq-opt"><span class="opt-letter">B</span> Musi</div><div class="pyq-opt"><span class="opt-letter">C</span> Paleru</div><div class="pyq-opt"><span class="opt-letter">D</span> Krishna</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hyderabad = **Musi**.
+
+**Logic:** Godavari/Paleru are classic wrong options.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following is endorheic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Superior</div><div class="pyq-opt"><span class="opt-letter">B</span> Baikal</div><div class="pyq-opt"><span class="opt-letter">C</span> Caspian</div><div class="pyq-opt"><span class="opt-letter">D</span> Victoria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Caspian (also Aral, Dead Sea, Chad, Eyre) has no ocean outlet.
+
+**Logic:** Baikal/Superior/Victoria drain toward seas via river systems.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>1. Budapest — Danube<br>2. Cologne — Rhine<br>3. Baghdad — Euphrates only</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Baghdad = **Tigris** in the usual pair (not Euphrates-only).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Aral Sea shrinkage is mainly linked to diversion of:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nile and Congo</div><div class="pyq-opt"><span class="opt-letter">B</span> Amu Darya and Syr Darya</div><div class="pyq-opt"><span class="opt-letter">C</span> Volga and Don</div><div class="pyq-opt"><span class="opt-letter">D</span> Amur and Yangtze</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Amu Darya and Syr Darya diversion.
+
+**Logic:** Lake Chad is the other shrinking-lake teaching pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Darling Range and Murray–Darling refer to the same Australian river system.<br>Reason (R): Darling Range is a highland of south-west Australia.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A is false; R is true.
+
+**A/R logic:** Name overlap is the trap; Range ≠ basin.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Highest waterfall in the usual set is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Victoria</div><div class="pyq-opt"><span class="opt-letter">B</span> Niagara</div><div class="pyq-opt"><span class="opt-letter">C</span> Angel</div><div class="pyq-opt"><span class="opt-letter">D</span> Iguazu</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Angel** (Venezuela) is highest.
+
+**Logic:** Victoria = Zambezi width/fame; Niagara = US–Canada.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">GERD is located on the:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> White Nile in Sudan</div><div class="pyq-opt"><span class="opt-letter">B</span> Blue Nile in Ethiopia</div><div class="pyq-opt"><span class="opt-letter">C</span> Main Nile at Aswan</div><div class="pyq-opt"><span class="opt-letter">D</span> Atbara in Egypt</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> GERD = **Blue Nile, Ethiopia**.
+
+**Logic:** Aswan/Lake Nasser is the Egyptian Nile dam pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which delta mouth pairing is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nile — South China Sea</div><div class="pyq-opt"><span class="opt-letter">B</span> Mekong — Mediterranean</div><div class="pyq-opt"><span class="opt-letter">C</span> Danube — Black Sea</div><div class="pyq-opt"><span class="opt-letter">D</span> Mississippi — Arabian Sea</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Danube → **Black Sea**.
+
+**Logic:** Nile–Mediterranean; Mekong–South China Sea; Mississippi–Gulf of Mexico; Indus–Arabian Sea.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Lake Baikal is best known as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Largest lake by area</div><div class="pyq-opt"><span class="opt-letter">B</span> Deepest lake with greatest fresh volume</div><div class="pyq-opt"><span class="opt-letter">C</span> Highest navigable lake</div><div class="pyq-opt"><span class="opt-letter">D</span> Lowest land surface</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Baikal = deepest / most fresh volume / ancient.
+
+**Logic:** Caspian largest area; Titicaca highest navigable; Dead Sea lowest land.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">USA–Mexico border river in the usual stem is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Colorado</div><div class="pyq-opt"><span class="opt-letter">B</span> Rio Grande</div><div class="pyq-opt"><span class="opt-letter">C</span> Mississippi</div><div class="pyq-opt"><span class="opt-letter">D</span> Columbia</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Rio Grande**.
+
+**Logic:** Colorado is the planted trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange Great Lakes west to east starting from Superior:<br><br>1. Erie<br>2. Michigan<br>3. Huron<br>4. Ontario</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2–3–1–4</div><div class="pyq-opt"><span class="opt-letter">B</span> 3–2–1–4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–1–3–4</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–3–4–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Michigan → Huron → Erie → Ontario after Superior.
+
+**Logic:** Same as full west→east mnemonic without renaming Superior.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Mahaweli — longest Sri Lanka river</div><div class="pyq-opt"><span class="opt-letter">B</span> Limpopo — crosses Capricorn twice</div><div class="pyq-opt"><span class="opt-letter">C</span> Inselberg — glacial horn</div><div class="pyq-opt"><span class="opt-letter">D</span> St Lawrence — Great Lakes seaway</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Inselberg is not a glacial horn tag.
+
+**Logic:** Glacial horns/arêtes are ice-erosion forms; inselberg is residual.</div>
+  </div>
+</div>

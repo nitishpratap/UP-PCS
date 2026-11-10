@@ -11,17 +11,6 @@ hide:
   <p class="rev-hero-lead">High-density prelims revision facts, examiner traps, confused pairs, and memory anchors for <strong>UP Special Topic 2 — History, Culture, Art and Heritage of Uttar Pradesh</strong>. Score at least <strong>80%</strong> in the live test below to officially certify this chapter as read.</p>
 </div>
 
-## 📰 Current Affairs & High-Yield Updates
-
-| Year/Ref | Key Fact | Exam Relevance |
-|---|---|---|
-| **2024–2025** | **UP Annual Budget Milestone** — State budget crosses **₹7.36 Lakh Crore**, pacing the target of becoming a **$1 Trillion Economy by 2027** | Macroeconomic scale and state fiscal priorities |
-| **2023–2024** | **Ranipur Wildlife Sanctuary (Chitrakoot)** — Notified as UP's **4th Tiger Reserve** and India's **53rd Tiger Reserve** | Core wildlife conservation & protected areas |
-| **2023** | **Ganga Expressway Execution (594 km)** — 6-lane access-controlled expressway connecting Meerut to Prayagraj via 12 districts | Critical infrastructure & logistics corridor |
-| **2023** | **UP ODOP Global Integration** — State ODOP products onboarded to ONDC and international trade pavilions | Industrial promotion & district craft branding |
-| **2022** | **Bakhira Bird Sanctuary (Sant Kabir Nagar)** — Added as UP's **10th Ramsar Wetland** (Wetland of International Importance) | Environmental geography & wetland conservation |
-| **Rolling** | **District Administrative Realignment** — 75 Districts, 18 Divisions, 17 Municipal Corporations (Shahjahanpur 17th) | State administrative architecture baseline |
-
 ## 🎯 Consolidated Must-Score Facts
 
 1. **8 of the 16 Mahajanapadas** of the 6th century BCE were located in present-day Uttar Pradesh.
@@ -74,6 +63,12 @@ hide:
 48. **Bateshwar Fair (Agra)** is the largest livestock and camel fair in Western UP, held on the banks of Yamuna.
 49. **Dadri Fair (Ballia)**, held on Kartik Purnima in honour of Maharishi Bhrigu, is the 2nd largest cattle fair in India.
 50. **Kumbh Mela (Prayagraj)** was inscribed on the **UNESCO Intangible Cultural Heritage List in 2017**, and **Ramnagar Ramlila** in **2008**.
+51. **Ancient Mahajanapadas in Uttar Pradesh (8 out of 16):** (1) **Kashi:** Capital **Varanasi** (between Varuna and Assi rivers); (2) **Kosala:** Capital **Shravasti / Ayodhya** (ruled by Prasenjit); (3) **Vatsa:** Capital **Kaushambi** on Yamuna (ruled by Udayana); (4) **Malla:** Republic with dual capitals at **Kushinagar** (Mahaparinirvana of Buddha) and **Pavapuri / Pawa** (Nirvana of Mahavira); (5) **Panchala:** Dual capitals: Northern Panchala at **Ahichchhatra** (Bareilly) and Southern Panchala at **Kampilya** (Farrukhabad); (6) **Surasena:** Capital **Mathura** on Yamuna (ruled by Avantiputra); (7) **Kuru:** Capital **Indraprastha / Hastinapur** (Meerut-Hastinapur region); (8) **Chedi:** Capital **Shuktimati / Sotthivati** in Bundelkhand (ruled by Shishupala).
+52. **Buddha's Deep Connection with UP ('Cradle of Buddhism'):** Spent greatest number of rainy-season retreats (**Vassavasa - 25 years**) and preached majority of sermons at **Jetavana Monastery in Shravasti**; delivered first sermon at **Sarnath**; attained Mahaparinirvana at **Kushinagar**; **Sankissa (Farrukhabad):** Buddhist legend where Buddha descended from Trayastrimsha heaven.
+53. **Archaeological Landmarks of UP:** (1) **Damdama, Mahadaha & Sarai Nahar Rai (Pratapgarh):** Mesolithic hunter-gatherer sites yielding microliths, bone ornaments, and hearth burials; (2) **Koldihwa & Belan Valley (Prayagraj):** Earliest evidence of **rice cultivation** in the subcontinent (~6500 BCE); (3) **Lahuradewa (Sant Kabir Nagar):** Revolutionary excavations pushing domesticated rice origins back to **8000–9000 BCE**; (4) **Atranjikhera (Etah):** Earliest evidence of **iron smelting and implements (~1000 BCE)** associated with Painted Grey Ware (PGW).
+54. **Jaunpur - 'Shiraz-i-Hind':** Founded in 1359 by Firoz Shah Tughlaq in memory of Muhammad bin Tughlaq (Jauna Khan); became capital of the independent **Sharqi Dynasty (1394–1479)** founded by Malik Sarwar (Khwaja-i-Jahan); flourished under Ibrahim Shah Sharqi as prime center of Islamic learning, Persian literature, and architecture, earning title **'Shiraz of the East'**; built **Atala Masjid (1408)** and Jhanjhari Masjid in unique Sharqi architectural style with grand sloping pylon facades.
+55. **Bhatkhande Sanskriti Vishwavidyalaya (Lucknow):** Established in 1926 by **Pandit Vishnu Narayan Bhatkhande** as Marris College of Music; renamed Bhatkhande Music Institute in 1960; elevated to Cultural State University in 2022; premier institution for Hindustani classical music.
+56. **Kathak Dance & Lucknow Gharana:** Classical dance indigenous to Uttar Pradesh; originated from temple storytellers (*Kathakars*); nurtured to its artistic zenith in the 19th-century royal Awadh court under **Nawab Wajid Ali Shah** ('Akhtarpiya'); Lucknow Gharana developed subtle facial expressions (*Bhava*), graceful *Gat-nikas*, and intricate footwork (*Tatkar*); stalwarts: **Thakur Prasad, Kalka Prasad, Bindadin Maharaj, Achhan Maharaj, Shambhu Maharaj, Lachhu Maharaj**, and **Pandit Birju Maharaj**.
 
 ## ⏱️ Timeline / Chronology
 
@@ -156,23 +151,6 @@ hide:
 | **Major Fair** | **Nauchandi Fair** | **Meerut** | Symbol of communal harmony | Month-long post-Holi fair celebrating both Navchandi Devi Temple and Saint Bale Miyan Dargah. |
 | **Major Fair** | **Dewa Sharif Fair** | **Dewa (Barabanki)** | Dargah of Haji Waris Ali Shah | Celebrated during Safar/Kartik; promotes universal brotherhood (*Jo Rab Hai Wahi Ram Hai*). |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Element A | Confused Element B | Critical Differentiating Fact & Exam Anchor |
-| :--- | :--- | :--- |
-| **Sarnath (Varanasi)** | **Shravasti (Sahet-Mahet)** | Sarnath is the site of **First Sermon**; Shravasti is where Buddha spent **maximum Varshavas (25)** and delivered most discourses. |
-| **Kushinagar (Kasia)** | **Kapilavastu (Piprahwa)** | Kushinagar is the site of Buddha's **death (Mahaparinirvana)**; Piprahwa is the site of Buddha's **childhood/relic stupa**. |
-| **Bateshwar Fair (Agra)** | **Dadri Fair (Ballia)** | Bateshwar is the Yamuna-bank cattle/camel fair in **Western UP**; Dadri is the Ganga-bank cattle fair in **Eastern UP (Ballia)**. |
-| **Dewa Sharif (Barabanki)** | **Syed Salar Masud (Bahraich)** | Dewa Sharif is the shrine of **Haji Waris Ali Shah**; Dargah Ghazi Miyan is the shrine of **Syed Salar Masud** at Bahraich. |
-| **Alha (Bundelkhand)** | **Birha (Purvanchal)** | Alha is a **heroic ballad** (Alha-Udal) of Bundelkhand; Birha is an **eastern narrative genre** sung by Purvanchal Ahirs. |
-| **Charkula (Braj)** | **Kajri (Mirzapur)** | Charkula is a **108-lamp head-balancing folk dance** of Braj; Kajri is a **monsoon folk song** of Mirzapur/Varanasi. |
-| **UP Kisan Sabha (Feb 1918)** | **Oudh Kisan Sabha (Oct 1920)** | UP Kisan Sabha was set up in **Prayagraj** (Mishra, Dwivedi, Malaviya); Oudh Kisan Sabha was formed in **Pratapgarh** (Baba Ramchandra). |
-| **Ram Prasad Bismil Jail** | **Ashfaqulla Khan Jail** | Bismil was hanged in **Gorakhpur Jail**; Ashfaqulla Khan was hanged in **Faizabad (Ayodhya) Jail**. |
-| **Roshan Singh Jail** | **Rajendra Lahiri Jail** | Roshan Singh was hanged in **Malaka Jail (Naini, Prayagraj)**; Rajendra Lahiri was hanged in **Gonda Jail**. |
-| **Hathras Nautanki** | **Kanpur Nautanki** | Hathras style is **classical, musical, poetic**; Kanpur style is **theatrical, prose-driven, dialogue-oriented**. |
-| **Kirana Gharana** | **Atrauli Gharana** | Kirana (Shamli) was founded by **Abdul Karim Khan**; Atrauli (Aligarh) was founded by **Alladiya Khan**. |
-| **Annexation of Awadh (1856)** | **Annexation of Jhansi (1853)** | Awadh was annexed for **alleged misrule** (Outram Report); Jhansi was annexed under the **Doctrine of Lapse**. |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 - **8 Mahajanapadas in UP**: **K-K-V-M-P-S-C-K** (Kashi, Kosala, Vatsa, Malla, Panchala, Shurasena, Chedi, Kuru)
@@ -186,265 +164,275 @@ hide:
   - Jhansi: **Rani Lakshmibai** | Bareilly: **Khan Bahadur Khan** | Faizabad: **Maulvi Ahmadullah Shah**
   - Allahabad: **Liaquat Ali** | Kalpi: **Tatya Tope** | Mathura: **Devi Singh**.
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-**Q1.**
-Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
-A. Only Alamgirpur
-B. Alamgirpur and Hulas (as per options in paper)
-C. Lothal
-D. Dholavira
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Which of the following centres related to Indus Valley are situated in Uttar Pradesh?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only Alamgirpur</div><div class="pyq-opt"><span class="opt-letter">B</span> Alamgirpur and Hulas (as per options in paper)</div><div class="pyq-opt"><span class="opt-letter">C</span> Lothal</div><div class="pyq-opt"><span class="opt-letter">D</span> Dholavira</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Lothal/Dholavira are Gujarat — classic distractors.
 
-<details>
-<summary>Show answer</summary>
+**Ans: A.** Alamgirpur (Meerut) is the easternmost Harappan site in UP.</div>
+  </div>
+</div>
 
-**Logic:** Lothal/Dholavira are Gujarat — classic distractors.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">The 1857 revolt’s important centres in UP included:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only Delhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Meerut, Lucknow, Kanpur, Jhansi, among others</div><div class="pyq-opt"><span class="opt-letter">C</span> Only Bombay</div><div class="pyq-opt"><span class="opt-letter">D</span> Only Madras</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** UP Special freedom map is Meerut–Delhi–Awadh–Kanpur–Jhansi.
 
-**Ans: A.** Alamgirpur (Meerut) is the easternmost Harappan site in UP.
+**Ans: B.** Meerut spark; Awadh and Bundelkhand theatres.</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Sarnath is associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> First Sermon of Buddha</div><div class="pyq-opt"><span class="opt-letter">B</span> Mahavira’s nirvana only</div><div class="pyq-opt"><span class="opt-letter">C</span> Ashoka’s only capital</div><div class="pyq-opt"><span class="opt-letter">D</span> Akbar’s birth</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Lion Capital of Ashoka from Sarnath is India’s State Emblem source.
 
-**Q2.**
-The 1857 revolt’s important centres in UP included:
-A. Only Delhi
-B. Meerut, Lucknow, Kanpur, Jhansi, among others
-C. Only Bombay
-D. Only Madras
+**Ans: A.** Dharmachakra Pravartana at Sarnath (Varanasi).</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following cities is NOT located on the banks of the Ganga?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kanpur</div><div class="pyq-opt"><span class="opt-letter">B</span> Varanasi</div><div class="pyq-opt"><span class="opt-letter">C</span> Agra</div><div class="pyq-opt"><span class="opt-letter">D</span> Prayagraj</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Culture corridor cities — Agra is Yamuna, not Ganga.
 
-**Logic:** UP Special freedom map is Meerut–Delhi–Awadh–Kanpur–Jhansi.
+**Ans: C.** Agra (Yamuna).</div>
+  </div>
+</div>
 
-**Ans: B.** Meerut spark; Awadh and Bundelkhand theatres.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">The famous 'Prayag Prashasti' (Allahabad Pillar Inscription) was composed by which court poet of Samudragupta?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Banabhatta</div><div class="pyq-opt"><span class="opt-letter">B</span> Harishena</div><div class="pyq-opt"><span class="opt-letter">C</span> Kalhana</div><div class="pyq-opt"><span class="opt-letter">D</span> Vishakhadatta</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** **Harishena** was Samudragupta's chief minister and court poet who composed the **Prayag Prashasti** (also called Allahabad Pillar Inscription) in ornate Sanskrit, listing Samudragupta's conquests.
 
-</details>
+**Ans: B.** Harishena.</div>
+  </div>
+</div>
 
-**Q3.**
-Sarnath is associated with:
-A. First Sermon of Buddha
-B. Mahavira’s nirvana only
-C. Ashoka’s only capital
-D. Akbar’s birth
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">The historic Lucknow Pact (1916) between the Indian National Congress and the Muslim League was signed during which Congress session?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Surat Session (1907)</div><div class="pyq-opt"><span class="opt-letter">B</span> Lucknow Session (1916)</div><div class="pyq-opt"><span class="opt-letter">C</span> Calcutta Session (1906)</div><div class="pyq-opt"><span class="opt-letter">D</span> Nagpur Session (1920)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** The **Lucknow Session (1916)** of INC, presided by A.C.
 
-<details>
-<summary>Show answer</summary>
+**Ans: B.** Lucknow Session (1916).</div>
+  </div>
+</div>
 
-**Logic:** Lion Capital of Ashoka from Sarnath is India’s State Emblem source.
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">'Taj Mahal' at Agra was inscribed as a UNESCO World Heritage Site in which year?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1978</div><div class="pyq-opt"><span class="opt-letter">B</span> 1983</div><div class="pyq-opt"><span class="opt-letter">C</span> 1986</div><div class="pyq-opt"><span class="opt-letter">D</span> 1993</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Standard key matches 1983.
 
-**Ans: A.** Dharmachakra Pravartana at Sarnath (Varanasi).
+**Ans: B.** 1983</div>
+  </div>
+</div>
 
-</details>
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Chandrashekhar Azad attained martyrdom at Alfred Park (Prayagraj) on which date?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 23 March 1931</div><div class="pyq-opt"><span class="opt-letter">B</span> 27 February 1931</div><div class="pyq-opt"><span class="opt-letter">C</span> 9 August 1925</div><div class="pyq-opt"><span class="opt-letter">D</span> 13 April 1919</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Betrayed by an informant, Chandrashekhar Azad was encircled by armed police led by J.R.H.
 
-**Q4.**
-Which of the following cities is NOT located on the banks of the Ganga?
-A. Kanpur
-B. Varanasi
-C. Agra
-D. Prayagraj
+**Ans: B.** 27 February 1931</div>
+  </div>
+</div>
 
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Culture corridor cities — Agra is Yamuna, not Ganga.
-
-**Ans: C.** Agra (Yamuna).
-
-</details>
-
-**Q5.**
-The famous 'Prayag Prashasti' (Allahabad Pillar Inscription) was composed by which court poet of Samudragupta?
-A. Banabhatta
-B. Harishena
-C. Kalhana
-D. Vishakhadatta
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** **Harishena** was Samudragupta's chief minister and court poet who composed the **Prayag Prashasti** (also called Allahabad Pillar Inscription) in ornate Sanskrit, listing Samudragupta's conquests.
-
-**Ans: B.** Harishena.
-
-</details>
-
-**Q6.**
-The historic Lucknow Pact (1916) between the Indian National Congress and the Muslim League was signed during which Congress session?
-A. Surat Session (1907)
-B. Lucknow Session (1916)
-C. Calcutta Session (1906)
-D. Nagpur Session (1920)
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** The **Lucknow Session (1916)** of INC, presided by A.C.
-
-**Ans: B.** Lucknow Session (1916).
-
-</details>
-
-**Q7.**
-'Taj Mahal' at Agra was inscribed as a UNESCO World Heritage Site in which year?
-A. 1978
-B. 1983
-C. 1986
-D. 1993
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard key matches 1983.
-
-**Ans: B.** 1983
-</details>
-
-**Q8.**
-Chandrashekhar Azad attained martyrdom at Alfred Park (Prayagraj) on which date?
-A. 23 March 1931
-B. 27 February 1931
-C. 9 August 1925
-D. 13 April 1919
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Betrayed by an informant, Chandrashekhar Azad was encircled by armed police led by J.R.H.
-
-**Ans: B.** 27 February 1931
-</details>
-
-**Q9.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. 8 of the 16 Mahajanapadas of the 6th century BCE were located in present-day Uttar Pradesh.
-B. Both statements are true and explain the phenomenon
-C. None of the above statements are correct according to official Commission keys.
-D. It was established during the First Five-Year Plan period
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 8 of the 16 Mahajanapadas of the 6th century BCE were located in present-day Uttar Pradesh.</div><div class="pyq-opt"><span class="opt-letter">B</span> Both statements are true and explain the phenomenon</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> It was established during the First Five-Year Plan period</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **8 of the 16 Mahajanapadas** of the 6th century BCE were located in present-day Uttar Pradesh.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q10.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Prayag applies only to union territories and not state jurisdictions.
-B. Prayag Prashasti (Allahabad Pillar) was composed in classical Sanskrit by court poet Harishena eulogizing Samudragupta.
-C. None of the above statements are correct according to official Commission keys.
-D. Recognized by UNESCO under World Heritage natural criteria
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Prayag applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Prayag Prashasti (Allahabad Pillar) was composed in classical Sanskrit by court poet Harishena eulogizing Samudragupta.</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Recognized by UNESCO under World Heritage natural criteria</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Prayag Prashasti** (Allahabad Pillar) was composed in classical Sanskrit by court poet **Harishena** eulogizing Samudragupta.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q11.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Dashavatara applies only to union territories and not state jurisdictions.
-B. Recognized by UNESCO under World Heritage natural criteria
-C. Dashavatara Temple at Deogarh (Lalitpur) is one of the earliest surviving Gupta stone panchayatana temples.
-D. Enacted under Article 356 of the Constitution of India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Dashavatara applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Recognized by UNESCO under World Heritage natural criteria</div><div class="pyq-opt"><span class="opt-letter">C</span> Dashavatara Temple at Deogarh (Lalitpur) is one of the earliest surviving Gupta stone panchayatana temples.</div><div class="pyq-opt"><span class="opt-letter">D</span> Enacted under Article 356 of the Constitution of India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Dashavatara Temple at Deogarh (Lalitpur)** is one of the earliest surviving Gupta stone panchayatana temples.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q12.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Bhitargaon applies only to union territories and not state jurisdictions.
-B. Enacted under Article 356 of the Constitution of India
-C. None of the above statements are correct according to official Commission keys.
-D. Bhitargaon Temple in Kanpur is the oldest surviving terraced brick temple with a shikhara and true arches in India.
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Bhitargaon applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Enacted under Article 356 of the Constitution of India</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Bhitargaon Temple in Kanpur is the oldest surviving terraced brick temple with a shikhara and true arches in India.</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Bhitargaon Temple in Kanpur** is the oldest surviving terraced brick temple with a shikhara and true arches in India.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q13.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Kannauj was the imperial capital of Emperor Harshavardhana and the prize of the 8th–10th century Tripartite Struggle.
-B. Reported by the Law Commission in its 214th consultation paper
-C. None of the above statements are correct according to official Commission keys.
-D. Amended by the 44th Constitutional Amendment Act
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kannauj was the imperial capital of Emperor Harshavardhana and the prize of the 8th–10th century Tripartite Struggle.</div><div class="pyq-opt"><span class="opt-letter">B</span> Reported by the Law Commission in its 214th consultation paper</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Amended by the 44th Constitutional Amendment Act</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Kannauj** was the imperial capital of Emperor **Harshavardhana** and the prize of the 8th–10th century **Tripartite Struggle**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q14.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Agra applies only to union territories and not state jurisdictions.
-B. Agra was founded by Sultan Sikandar Lodi in 1504, who shifted the Sultanate capital there in 1506.
-C. None of the above statements are correct according to official Commission keys.
-D. Excavated primarily in the Belan and Son River valleys
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Agra applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Agra was founded by Sultan Sikandar Lodi in 1504, who shifted the Sultanate capital there in 1506.</div><div class="pyq-opt"><span class="opt-letter">C</span> None of the above statements are correct according to official Commission keys.</div><div class="pyq-opt"><span class="opt-letter">D</span> Excavated primarily in the Belan and Son River valleys</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Agra** was founded by Sultan **Sikandar Lodi in 1504**, who shifted the Sultanate capital there in **1506**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>
 
-**Q15.** in UP Special, consider the following statement:
-
-Which of the following is correct regarding this topic?
-
-A. Contrary to standard doctrine, Jaunpur applies only to union territories and not state jurisdictions.
-B. Excavated primarily in the Belan and Son River valleys
-C. Jaunpur was founded by Feroz Shah Tughlaq in 1359 in memory of Muhammad bin Tughlaq (Jauna Khan) and nicknamed "Shiraz-e-Hind".
-D. Classified under Schedule VII List II (State List)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C**
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">in UP Special, consider the following statement:<br><br>Which of the following is correct regarding this topic?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Contrary to standard doctrine, Jaunpur applies only to union territories and not state jurisdictions.</div><div class="pyq-opt"><span class="opt-letter">B</span> Excavated primarily in the Belan and Son River valleys</div><div class="pyq-opt"><span class="opt-letter">C</span> Jaunpur was founded by Feroz Shah Tughlaq in 1359 in memory of Muhammad bin Tughlaq (Jauna Khan) and nicknamed "Shiraz-e-Hind".</div><div class="pyq-opt"><span class="opt-letter">D</span> Classified under Schedule VII List II (State List)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C**
 
 **Detailed Explanation:**
 - **Key Exam Association:** **Jaunpur** was founded by **Feroz Shah Tughlaq in 1359** in memory of Muhammad bin Tughlaq (Jauna Khan) and nicknamed **"Shiraz-e-Hind"**.
-- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.
-</details>
+- This concept is frequently tested in UPPCS & UKPCS Prelims under core syllabus benchmarks.</div>
+  </div>
+</div>

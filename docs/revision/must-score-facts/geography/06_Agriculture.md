@@ -71,6 +71,19 @@ hide:
 48. PM-AASHA (PSS via NAFED/NCCF), e-NAM, PM-KISAN, and PMFBY are the living scheme set around price support, markets, income, and crop insurance.
 49. Shree Anna branding after International Year of Millets 2023 pushes millets for diversification away from rice–wheat monoculture.
 50. Zaid crops fill the short summer window with irrigation; they are neither classic kharif nor rabi staples.
+51. **Indian Agricultural Cropping Seasons:** (1) **Kharif:** Sown in June–July (onset of monsoon), harvested in September–October; crops: Rice, Maize, Jowar, Bajra, Cotton, Jute, Groundnut, Soybean, Arhar/Tur; (2) **Rabi:** Sown in October–December (onset of winter), harvested in April–May; crops: Wheat, Barley, Gram, Mustard, Peas, Linseed; (3) **Zaid:** Short summer season between March and June; crops: Watermelon, Muskmelon, Cucumber, Vegetables, Fodder.
+52. **Rice (Oryza sativa) Agronomy:** High temperature (>25°C), high humidity, annual rainfall >100 cm (or irrigation); major rice types in Bengal/Assam: **Aus, Aman, and Boro** (three crops a year); leading producer states: (1) **West Bengal**, (2) **Uttar Pradesh**, (3) **Punjab**; Punjab and Haryana have highest per-hectare productivity due to Green Revolution irrigation.
+53. **Wheat (Triticum aestivum) Agronomy:** Cool growing season (10–15°C) and bright sunshine during ripening (20–25°C); 50–75 cm rainfall; well-drained loamy/alluvial soils; leading producer states: (1) **Uttar Pradesh** (highest total output), (2) **Madhya Pradesh**, (3) **Punjab** (highest per-hectare yield).
+54. **Millets / Nutri-Cereals (Coarse Grains):** Declared 'Nutri-Cereals' by Government of India; UN declared 2023 as **International Year of Millets (IYM)**; (1) **Jowar (Sorghum):** Rainfed crop; leading state: **Maharashtra**, followed by Karnataka; (2) **Bajra (Pearl Millet):** Sandy and shallow black soils; leading state: **Rajasthan**, followed by UP; (3) **Ragi (Finger Millet):** Rich in iron and calcium; leading state: **Karnataka**.
+55. **Pulses (Leguminous Crops):** Nitrogen-fixing crops restoring soil fertility (except Arhar/Pigeon pea); India is the **world's largest producer, consumer, and importer** of pulses; leading producer states: (1) **Madhya Pradesh**, (2) **Rajasthan**, (3) **Maharashtra**; **Gram (Chana)** accounts for >40% of total pulse production.
+56. **Sugarcane Agronomy:** Tropical and subtropical crop; 21–27°C temperature, 75–100 cm rainfall; hot and humid climate; leading producer states: (1) **Uttar Pradesh** (highest production and area), (2) **Maharashtra** (higher sucrose content and longer crushing season due to maritime climate), (3) **Karnataka**; Indian Institute of Sugarcane Research (IISR) is at **Lucknow**; Sugarcane Breeding Institute (SBI) is at **Coimbatore**.
+57. **Cotton (Fibre Crop / 'White Gold'):** Tropical/subtropical crop; requires 210 frost-free days and bright sunshine; well-suited to deep **Regur / Black soils** of Deccan Plateau; leading producer states: (1) **Gujarat**, (2) **Maharashtra**, (3) **Telangana**; Central Institute for Cotton Research (CICR) is at **Nagpur**.
+58. **Jute ('Golden Fibre'):** Requires high temperature (25–35°C), high humidity, and heavy rainfall (>150 cm); fertile floodplains where soils are renewed every year; leading producer states: (1) **West Bengal** (>70% of total production), (2) **Assam**, (3) **Bihar**; Central Research Institute for Jute and Allied Fibres (CRIJAF) is at **Barrackpore (WB)**.
+59. **Tea (Beverage Crop):** Subtropical crop; requires deep, fertile, humus-rich well-drained soil; warm and moist frost-free climate throughout the year; gentle hill slopes to prevent waterlogging; leading producer states: (1) **Assam** (>50% of national production - Brahmaputra & Surma valleys), (2) **West Bengal** (Darjeeling & Jalpaiguri - Darjeeling tea was 1st Indian GI Tag in 2004), (3) **Tamil Nadu** (Nilgiris); Tea Board of India headquarters is at **Kolkata**.
+60. **Coffee Agronomy:** Grown under shade trees on hill slopes (1,000–1,500 m); two main commercial varieties: **Arabica** (high quality, mild flavor) and **Robusta** (hardier, higher yield); legendary introduction by **Baba Budan** from Yemen at Baba Budan Hills (Chikkamagaluru, Karnataka); leading producer states: (1) **Karnataka** (>70% of total production), (2) **Kerala**, (3) **Tamil Nadu**; Coffee Board of India is at **Bengaluru**.
+61. **Rubber and Spices Distribution:** **Natural Rubber:** Equatorial crop requiring >200 cm rainfall and >25°C; leading state: **Kerala** (>85% of total production - Kottayam); Rubber Board is at **Kottayam**. **Spices:** Black Pepper ('King of Spices') and Cardamom ('Queen of Spices') in Western Ghats (Kerala, Karnataka, TN); Cardamom Hills in Kerala; Spices Board is at **Kochi**.
+62. **Agricultural Revolutions in India:** (1) **Green Revolution:** Foodgrains (Wheat & Rice) - Father: **Norman Borlaug** (Global), **Dr. M.S. Swaminathan** (India); (2) **White Revolution / Operation Flood (1970):** Milk & Dairy - Father: **Dr. Verghese Kurien** (NDDB, Anand); (3) **Blue Revolution:** Fisheries / Aquaculture - Hiralal Chaudhuri & Dr. Arun Krishnan; (4) **Yellow Revolution:** Oilseeds (Mustard/Sunflower) - Sam Pitroda; (5) **Golden Revolution:** Horticulture and Honey - Nirpakh Tutej; (6) **Silver Revolution:** Egg & Poultry - Indira Gandhi; (7) **Round Revolution:** Potato; (8) **Grey Revolution:** Fertilizers; (9) **Pink Revolution:** Onion, Prawn, and Pharmaceuticals; (10) **Red Revolution:** Meat and Tomato.
+63. **Shifting Cultivation Local Names in India:** (1) **Jhum:** North-East India (Assam, Meghalaya, Nagaland); (2) **Bewar / Dahiya:** Madhya Pradesh; (3) **Podu / Dabiya:** Andhra Pradesh and Odisha; (4) **Koman / Bringa:** Odisha; (5) **Kumari:** Western Ghats (Kerala/Karnataka); (6) **Valre / Waltre:** South-Eastern Rajasthan; (7) **Khil:** Himalayan belt; (8) **Kuruwa:** Jharkhand; (9) **Dipa:** Bastar district (Chhattisgarh) and Andaman & Nicobar Islands.
 
 
 ---
@@ -195,24 +208,6 @@ hide:
 | **Central Institute for Cotton Research (CICR)** | **Nagpur, Maharashtra** | Cotton improvement, Bt technology evaluation |
 | **Indian Grassland & Fodder Research Institute (IGFRI)** | **Jhansi, Uttar Pradesh** | Fodder crops and grassland management |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Kharif Season** | **Rabi Season** | Sown with onset of monsoon (**June–July**), harvested **Sept–Oct** (Rice, Maize, Cotton, Groundnut) vs Sown with onset of winter (**Oct–Nov**), harvested **March–April** (Wheat, Barley, Gram, Mustard) | खरीफ / रबी मौसम |
-| **Zaid Season** | **Kharif Season** | Short summer cropping season (**March–June**) between Rabi harvest and Kharif sowing; grown under irrigation (Watermelon, Cucumber, Fodder) vs Main rainy season monsoon crop | जायद / खरीफ |
-| **Golden Revolution** | **Golden Fibre Revolution** | Enhancement of **Horticulture, Honey, and Fruit** production vs Enhancement of **Jute fibre** production | स्वर्ण क्रांति / स्वर्ण रेशा क्रांति |
-| **Yellow Revolution** | **Black Revolution** | Enhancement of **Oilseeds** production (Mustard, Sunflower) vs Enhancement of **Petroleum / Bio-fuels / Ethanol** production | पीली क्रांति / कृष्ण क्रांति |
-| **IISR (Lucknow)** | **SBI (Coimbatore)** | Indian Institute of **Sugarcane Research** (agronomy & farm machinery, UP) vs **Sugarcane Breeding Institute** (breeding and genetic variety development, Tamil Nadu) | उप्र गन्ना अनुसंधान / कोयंबटूर प्रजनन |
-| **Wheat Producer #1** | **Wheat Yield #1** | **Uttar Pradesh** produces highest aggregate wheat quantity (~32% of India) vs **Punjab** has highest per hectare yield (kg/ha) due to 100% canal/tubewell irrigation | गेहूं उत्पादन / उत्पादकता |
-| **Rice Producer #1** | **Rice Yield #1** | **West Bengal** produces highest aggregate rice output vs **Punjab** records highest yield per hectare (kg/ha) | चावल उत्पादन / उत्पादकता |
-| **Sugarcane Area #1** | **Sugar Recovery #1** | **Uttar Pradesh** leads in sugarcane area, production and number of operating mills vs **Maharashtra** leads in sugar recovery percentage due to cool coastal crushing season | गन्ना क्षेत्रफल / चीनी परता |
-| **Aus, Aman, Boro** | **Seasons of Rice** | **Aman (winter rice, sown Jun–Jul, harvested Nov–Dec)** accounts for ~85% of Bengal's rice; **Aus (autumn rice, sown Mar–Apr)**; **Boro (summer rice, sown Nov–Dec)** | आउस, अमन, बोरो धान |
-| **Arabica Coffee** | **Robusta Coffee** | High-quality, mild aroma, grown at higher altitudes (1,000–1,500 m), susceptible to leaf rust vs High caffeine, stronger body, grown at lower altitudes (500–1,000 m), disease-resistant; Karnataka leads both | अरेबिका / रोबस्टा कॉफ़ी |
-| **Jhum Cultivation** | **Podu Cultivation** | Slash-and-burn shifting cultivation in **North-East India** vs Slash-and-burn shifting cultivation in **Andhra Pradesh and Odisha** | झूम / पोडू खेती |
-| **C2 Cost** | **A2+FL Cost** | Comprehensive cost including imputed rent of owned land and interest on owned capital vs Actual paid-out costs + imputed value of family labour (CACP calculates MSP at minimum 1.5x of A2+FL) | C2 लागत / A2+FL लागत |
-| **Milpa** | **Ladang** | Shifting cultivation in **Mexico and Central America** vs Shifting cultivation in **Malaysia and Indonesia** | मिल्पा / लदांग |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. High-Yield Rabi Crops: **W-B-G-M-P-L**
@@ -249,383 +244,367 @@ hide:
 - **Rank 1 in India**: Total Foodgrains, Wheat, Sugarcane, Potato, Mango, Aonla (Pratapgarh), Guava, Milk.
 - **Rank 2 in India**: Rice (after West Bengal).
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Cropping intensity is correctly defined as:
-
-A. NSA / GCA × 100
-B. GCA / NSA × 100
-C. Irrigated area / NSA × 100
-D. GCA − NSA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Cropping intensity = **GCA / NSA × 100**.
-
-**Logic:** Trap is inverting the ratio. NSA = land sown at least once; GCA counts every sowing.
-
-</details>
-
-**Q2.**
-With reference to cropping seasons in India, which of the following pairs is/are correctly matched?
-
-1. Wheat — rabi
-2. Cotton — kharif
-3. Sugarcane — strictly a two-month zaid crop only
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Cane is **long-duration** and straddles seasons; it is not a short zaid melon-type crop.
-
-</details>
-
-**Q3.**
-Assertion (A): CACP recommends Minimum Support Prices for mandated crops.
-Reason (R): The Reserve Bank of India finally notifies MSP for all 22 crops.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** CACP recommends; the **Cabinet** decides. RBI is not the MSP authority.
-
-</details>
-
-**Q4.**
-Which one of the following is correctly matched?
-
-A. Yellow Revolution — horticulture and honey
-B. Golden Revolution — oilseeds
-C. White Revolution — Verghese Kurien / Operation Flood
-D. Grey Revolution — petroleum
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** White Revolution pairs with Kurien / Operation Flood / NDDB.
-
-**Logic:** Yellow = oilseeds; Golden = horticulture + honey; Grey = fertiliser; Black = petroleum.
-
-</details>
-
-**Q5.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Crop / item) | List-II (Usual leader / tag) |
-|---|---|
-| 1. Jowar | A. Rajasthan |
-| 2. Bajra | B. Maharashtra |
-| 3. Ragi | C. Karnataka |
-| 4. Groundnut | D. Gujarat |
-
-A. 1-B, 2-A, 3-C, 4-D
-B. 1-A, 2-B, 3-C, 4-D
-C. 1-B, 2-A, 3-D, 4-C
-D. 1-C, 2-A, 3-B, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Jowar–MH; Bajra–RJ; Ragi–KA; Groundnut–GJ.
-
-**Logic:** Row order is not the answer code. Trap is swapping jowar/bajra states.
-
-</details>
-
-**Q6.**
-With reference to sugarcane in India, which of the following statements is/are correct?
-
-1. Uttar Pradesh leads in total production quantity.
-2. Maharashtra generally leads in productivity / yield.
-3. Cane price policy is FRP (plus SAP), not the cereal MSP schedule.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three statements are correct.
-
-**Logic:** Quantity vs productivity is the classic UP–MH split; FRP vs MSP is the price-policy trap.
-
-</details>
-
-**Q7.**
-Norman Borlaug received the Nobel Prize in:
-
-A. Agriculture
-B. Economics
-C. Medicine
-D. Peace
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Borlaug’s Nobel is for **Peace**.
-
-**Logic:** “Agriculture Nobel” is the distractor; there is no Nobel category named Agriculture.
-
-</details>
-
-**Q8.**
-Which pair is NOT correctly matched?
-
-A. Azolla — biofertiliser in rice
-B. Golden rice — Vitamin A
-C. CIP-SARC potato centre — Agra (Singna)
-D. Sultana, Gulabi, Kali Champa — grape varieties
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Those three names are **guava** varieties, not grapes.
-
-**Logic:** Sultana is also a grape name in world trade — that is the trap.
-
-</details>
-
-**Q9.**
-Assertion (A): Jute cultivation in India is led by West Bengal.
-Reason (R): Uttar Pradesh is the leading jute-producing state because of its long Indo-Gangetic alluvial belt.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** Jute leader is **West Bengal**. UP–Jute is a wrong pair despite alluvium.
-
-</details>
-
-**Q10.**
-Planning Commission agro-climatic zones of India are:
-
-A. 10
-B. 15
-C. 20
-D. 127
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Planning Commission ACZ count is **15**.
-
-**Logic:** ~127 is NARP; ~20 is agro-ecological regions — common count swaps.
-
-</details>
-
-**Q11.**
-With reference to cotton in India, which of the following statements is/are correct?
-
-1. Cotton is a kharif crop needing about 210 frost-free days.
-2. India grows all four cultivated cotton species.
-3. Ahmedabad was traditionally India’s largest textile mill centre.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Traditional largest mill centre is **Mumbai**; Ahmedabad is in the cotton belt.
-
-</details>
-
-**Q12.**
-The first agricultural university of India was established at:
-
-A. IARI Pusa
-B. Pantnagar (1960)
-C. Coimbatore (1912)
-D. Ludhiana (1962)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** First agri university = **Pantnagar (1960)**.
-
-**Logic:** Coimbatore 1912 is Sugarcane Breeding Institute, not the first agri university.
-
-</details>
-
-**Q13.**
-Consider the following statements about rice in India:
-
-1. West Bengal often leads in production volume.
-2. Punjab often leads in yield.
-3. Textbook world rank for India is usually first, ahead of China.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Usual textbook world rank is **second after China**; treat 2024–25 #1 claims as a separate headline.
-
-</details>
-
-**Q14.**
-Crown Root Initiation (CRI) is critical mainly for which crop’s irrigation scheduling?
-
-A. Cotton
-B. Wheat
-C. Jute
-D. Rubber
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** CRI (~20–25 days after sowing) is the key wheat irrigation stage.
-
-**Logic:** Moisture stress at CRI cuts tillering — a wheat-specific teaching point.
-
-</details>
-
-**Q15.**
-Which one of the following states became India’s first fully organic state?
-
-A. Kerala
-B. Sikkim
-C. Himachal Pradesh
-D. Uttarakhand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Sikkim** (2016) under NPOP / APEDA framing.
-
-**Logic:** Other hill states may push organic area, but first fully organic state tag is Sikkim.
-
-</details>
-
-**Q16.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Board) | List-II (Headquarters) |
-|---|---|
-| 1. Coffee Board | A. Kolkata |
-| 2. Tea Board | B. Bengaluru |
-| 3. Rubber Board | C. Guntur |
-| 4. Tobacco Board | D. Kottayam |
-
-A. 1-B, 2-A, 3-D, 4-C
-B. 1-A, 2-B, 3-D, 4-C
-C. 1-B, 2-A, 3-C, 4-D
-D. 1-D, 2-A, 3-B, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Coffee–Bengaluru; Tea–Kolkata; Rubber–Kottayam; Tobacco–Guntur.
-
-**Logic:** Row order is not the answer code. Spices Board Kochi is a related fifth HQ.
-
-</details>
-
-**Q17.**
-Assertion (A): India is the only country producing all four commercial silks — mulberry, tasar, muga and eri.
-Reason (R): Muga silk is endemic to Assam in the usual teaching map.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both are true and R supports the uniqueness story for India’s silk set.
-
-**A/R logic:** Four-silk monopoly + Assam muga are standard sericulture facts.
-
-</details>
-
-**Q18.**
-Which of the following is NOT a correct Green Revolution association?
-
-A. HYV wheat such as Sonora 64 / Lerma Rojo
-B. Core region — Punjab–Haryana–western UP
-C. M.S. Swaminathan as the Indian GR face
-D. Amartya Sen as the HYV plant breeder of IR-8
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Sen’s food thesis is **entitlements**, not HYV breeding.
-
-**Logic:** IR-8 / HYV story sits with GR science; Sen is a different food-security frame.
-
-</details>
-
-**Q19.**
-With reference to irrigation in India, which of the following statements is/are correct?
-
-1. Groundwater accounts for about two-thirds of irrigated area in the usual teaching figure.
-2. Tube wells dominate much of north-west India and western UP.
-3. Minor irrigation projects (CCA ≤ 2,000 ha) create a majority of irrigation potential.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three are correct in the chapter’s irrigation map.
-
-**Logic:** Canal vs tube-well vs tank geography still matters for “which method where” stems.
-
-</details>
-
-**Q20.**
-Parallel cropping in the classic coaching example is:
-
-A. Potato + rice in the same rows always
-B. Wheat + mustard
-C. Cotton + rubber plantation
-D. Tea + wheat on the same field in Assam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Classic parallel cropping pair is **wheat + mustard**.
-
-**Logic:** Mixed farming = crops + livestock; double cropping = two crops/year — different definitions.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Cropping intensity is correctly defined as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> NSA / GCA × 100</div><div class="pyq-opt"><span class="opt-letter">B</span> GCA / NSA × 100</div><div class="pyq-opt"><span class="opt-letter">C</span> Irrigated area / NSA × 100</div><div class="pyq-opt"><span class="opt-letter">D</span> GCA − NSA</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Cropping intensity = **GCA / NSA × 100**.
+
+**Logic:** Trap is inverting the ratio. NSA = land sown at least once; GCA counts every sowing.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to cropping seasons in India, which of the following pairs is/are correctly matched?<br><br>1. Wheat — rabi<br>2. Cotton — kharif<br>3. Sugarcane — strictly a two-month zaid crop only</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Cane is **long-duration** and straddles seasons; it is not a short zaid melon-type crop.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): CACP recommends Minimum Support Prices for mandated crops.<br>Reason (R): The Reserve Bank of India finally notifies MSP for all 22 crops.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** CACP recommends; the **Cabinet** decides. RBI is not the MSP authority.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Yellow Revolution — horticulture and honey</div><div class="pyq-opt"><span class="opt-letter">B</span> Golden Revolution — oilseeds</div><div class="pyq-opt"><span class="opt-letter">C</span> White Revolution — Verghese Kurien / Operation Flood</div><div class="pyq-opt"><span class="opt-letter">D</span> Grey Revolution — petroleum</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> White Revolution pairs with Kurien / Operation Flood / NDDB.
+
+**Logic:** Yellow = oilseeds; Golden = horticulture + honey; Grey = fertiliser; Black = petroleum.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Crop / item)</th><th>List-II (Usual leader / tag)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Jowar</td><td><span class="match-key">A</span> Rajasthan</td></tr>
+      <tr><td><span class="match-key">2</span> Bajra</td><td><span class="match-key">B</span> Maharashtra</td></tr>
+      <tr><td><span class="match-key">3</span> Ragi</td><td><span class="match-key">C</span> Karnataka</td></tr>
+      <tr><td><span class="match-key">4</span> Groundnut</td><td><span class="match-key">D</span> Gujarat</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-C, 2-A, 3-B, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Jowar–MH; Bajra–RJ; Ragi–KA; Groundnut–GJ.
+
+**Logic:** Row order is not the answer code. Trap is swapping jowar/bajra states.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to sugarcane in India, which of the following statements is/are correct?<br><br>1. Uttar Pradesh leads in total production quantity.<br>2. Maharashtra generally leads in productivity / yield.<br>3. Cane price policy is FRP (plus SAP), not the cereal MSP schedule.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** Quantity vs productivity is the classic UP–MH split; FRP vs MSP is the price-policy trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Norman Borlaug received the Nobel Prize in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Agriculture</div><div class="pyq-opt"><span class="opt-letter">B</span> Economics</div><div class="pyq-opt"><span class="opt-letter">C</span> Medicine</div><div class="pyq-opt"><span class="opt-letter">D</span> Peace</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Borlaug’s Nobel is for **Peace**.
+
+**Logic:** “Agriculture Nobel” is the distractor; there is no Nobel category named Agriculture.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Which pair is NOT correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Azolla — biofertiliser in rice</div><div class="pyq-opt"><span class="opt-letter">B</span> Golden rice — Vitamin A</div><div class="pyq-opt"><span class="opt-letter">C</span> CIP-SARC potato centre — Agra (Singna)</div><div class="pyq-opt"><span class="opt-letter">D</span> Sultana, Gulabi, Kali Champa — grape varieties</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Those three names are **guava** varieties, not grapes.
+
+**Logic:** Sultana is also a grape name in world trade — that is the trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Jute cultivation in India is led by West Bengal.<br>Reason (R): Uttar Pradesh is the leading jute-producing state because of its long Indo-Gangetic alluvial belt.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** Jute leader is **West Bengal**. UP–Jute is a wrong pair despite alluvium.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Planning Commission agro-climatic zones of India are:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 10</div><div class="pyq-opt"><span class="opt-letter">B</span> 15</div><div class="pyq-opt"><span class="opt-letter">C</span> 20</div><div class="pyq-opt"><span class="opt-letter">D</span> 127</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Planning Commission ACZ count is **15**.
+
+**Logic:** ~127 is NARP; ~20 is agro-ecological regions — common count swaps.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to cotton in India, which of the following statements is/are correct?<br><br>1. Cotton is a kharif crop needing about 210 frost-free days.<br>2. India grows all four cultivated cotton species.<br>3. Ahmedabad was traditionally India’s largest textile mill centre.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Traditional largest mill centre is **Mumbai**; Ahmedabad is in the cotton belt.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">The first agricultural university of India was established at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> IARI Pusa</div><div class="pyq-opt"><span class="opt-letter">B</span> Pantnagar (1960)</div><div class="pyq-opt"><span class="opt-letter">C</span> Coimbatore (1912)</div><div class="pyq-opt"><span class="opt-letter">D</span> Ludhiana (1962)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> First agri university = **Pantnagar (1960)**.
+
+**Logic:** Coimbatore 1912 is Sugarcane Breeding Institute, not the first agri university.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about rice in India:<br><br>1. West Bengal often leads in production volume.<br>2. Punjab often leads in yield.<br>3. Textbook world rank for India is usually first, ahead of China.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Usual textbook world rank is **second after China**; treat 2024–25 #1 claims as a separate headline.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Crown Root Initiation (CRI) is critical mainly for which crop’s irrigation scheduling?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Cotton</div><div class="pyq-opt"><span class="opt-letter">B</span> Wheat</div><div class="pyq-opt"><span class="opt-letter">C</span> Jute</div><div class="pyq-opt"><span class="opt-letter">D</span> Rubber</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> CRI (~20–25 days after sowing) is the key wheat irrigation stage.
+
+**Logic:** Moisture stress at CRI cuts tillering — a wheat-specific teaching point.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Which one of the following states became India’s first fully organic state?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kerala</div><div class="pyq-opt"><span class="opt-letter">B</span> Sikkim</div><div class="pyq-opt"><span class="opt-letter">C</span> Himachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">D</span> Uttarakhand</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sikkim** (2016) under NPOP / APEDA framing.
+
+**Logic:** Other hill states may push organic area, but first fully organic state tag is Sikkim.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Board)</th><th>List-II (Headquarters)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Coffee Board</td><td><span class="match-key">A</span> Kolkata</td></tr>
+      <tr><td><span class="match-key">2</span> Tea Board</td><td><span class="match-key">B</span> Bengaluru</td></tr>
+      <tr><td><span class="match-key">3</span> Rubber Board</td><td><span class="match-key">C</span> Guntur</td></tr>
+      <tr><td><span class="match-key">4</span> Tobacco Board</td><td><span class="match-key">D</span> Kottayam</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-B, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Coffee–Bengaluru; Tea–Kolkata; Rubber–Kottayam; Tobacco–Guntur.
+
+**Logic:** Row order is not the answer code. Spices Board Kochi is a related fifth HQ.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): India is the only country producing all four commercial silks — mulberry, tasar, muga and eri.<br>Reason (R): Muga silk is endemic to Assam in the usual teaching map.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true and R supports the uniqueness story for India’s silk set.
+
+**A/R logic:** Four-silk monopoly + Assam muga are standard sericulture facts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following is NOT a correct Green Revolution association?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> HYV wheat such as Sonora 64 / Lerma Rojo</div><div class="pyq-opt"><span class="opt-letter">B</span> Core region — Punjab–Haryana–western UP</div><div class="pyq-opt"><span class="opt-letter">C</span> M.S. Swaminathan as the Indian GR face</div><div class="pyq-opt"><span class="opt-letter">D</span> Amartya Sen as the HYV plant breeder of IR-8</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Sen’s food thesis is **entitlements**, not HYV breeding.
+
+**Logic:** IR-8 / HYV story sits with GR science; Sen is a different food-security frame.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to irrigation in India, which of the following statements is/are correct?<br><br>1. Groundwater accounts for about two-thirds of irrigated area in the usual teaching figure.<br>2. Tube wells dominate much of north-west India and western UP.<br>3. Minor irrigation projects (CCA ≤ 2,000 ha) create a majority of irrigation potential.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three are correct in the chapter’s irrigation map.
+
+**Logic:** Canal vs tube-well vs tank geography still matters for “which method where” stems.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Parallel cropping in the classic coaching example is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Potato + rice in the same rows always</div><div class="pyq-opt"><span class="opt-letter">B</span> Wheat + mustard</div><div class="pyq-opt"><span class="opt-letter">C</span> Cotton + rubber plantation</div><div class="pyq-opt"><span class="opt-letter">D</span> Tea + wheat on the same field in Assam</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Classic parallel cropping pair is **wheat + mustard**.
+
+**Logic:** Mixed farming = crops + livestock; double cropping = two crops/year — different definitions.</div>
+  </div>
+</div>

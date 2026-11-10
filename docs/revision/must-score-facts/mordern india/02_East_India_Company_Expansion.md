@@ -76,6 +76,21 @@ hide:
 48. **Siraj’s Black Hole Incident (1756):** J.Z. Holwell claimed 146 British prisoners were locked in an 18x14 ft cell on 20 June 1756, and 123 died of suffocation. Modern historians consider numbers grossly exaggerated, but it served as British war propaganda for Plassey.
 49. **Baji Rao II’s Surrender (1818):** After being hunted down by General Smith and Sir John Malcolm, the last Peshwa Baji Rao II surrendered on 3 June 1818. The Peshwaship was extinguished, and Nana Saheb (Dhondu Pant) was his adopted son whose pension was later stopped by Dalhousie.
 50. **Summary of British Expansion Doctrine:** Three distinct tools deployed systematically:
+51. **Black Hole Tragedy of Calcutta (20 June 1756):** Account propagated by **J.Z. Holwell**; alleged 146 British prisoners confined in small cell (18x14 ft) resulting in 123 deaths by suffocation; used as pretext for Robert Clive's expedition from Madras.
+52. **Treaty of Alinagar (9 February 1757):** Signed between Nawab Siraj-ud-Daulah and Robert Clive/Watson; British recovered Calcutta, gained permission to fortify Fort William and mint their own coins in Bengal.
+53. **Battle of Plassey Conspiracy (23 June 1757):** Conspirators with Clive included: **Mir Jafar** (Mir Bakshi / Commander-in-Chief), **Rai Durlabh** (treasurer), **Jagat Seth** (Mahatab Chand, imperial banker), **Omichund** (merchant/broker), and **Khadim Khan**.
+54. **Mir Qasim's Reforms in Bengal:** Shifted capital from Murshidabad to **Munger (Bihar)** in 1762; established firelock musket and cannon foundry at Munger; reorganized tax collection (*abwabs*); abolished all inland customs duties to equalize Indian and British merchants, precipitating war.
+55. **Battle of Buxar (22 October 1764):** Fought at Buxar on the banks of Ganga; British army led by **Major Hector Munro** defeated combined confederacy of **Mir Qasim**, **Shuja-ud-Daulah** (Nawab of Awadh), and Mughal Emperor **Shah Alam II**; established British paramountcy in North India.
+56. **Treaty of Allahabad (August 1765):** Signed by Robert Clive; 1st treaty with Shah Alam II granted the EIC the **Diwani of Bengal, Bihar, and Orissa** in return for an annual tribute of **₹26 lakh** and ceded districts of Kora and Allahabad (carved out of Awadh).
+57. **Treaty of Allahabad (2nd Treaty with Awadh):** Shuja-ud-Daulah paid war indemnity of **₹50 lakh**, ceded Kora and Allahabad to Shah Alam II, and agreed to maintain British garrison in Awadh (first step toward subsidiary alliance).
+58. **Clive's Dual Government in Bengal (1765–1772):** Division of authority between **Diwani** (revenue collection & civil justice, held directly by EIC) and **Nizamat** (police, criminal justice & administration, left with puppet Nawab under deputy subahdar); abolished by Warren Hastings in 1772.
+59. **Deputy Diwans Appointed by Clive (1765):** **Mohammad Reza Khan** for Bengal, **Raja Shitab Rai** for Bihar, and **Rai Durlabh** for Orissa.
+60. **First Anglo-Mysore War (1767–69):** Hyder Ali formed alliance with Nizam and Marathas; outmaneuvered British army and reached outskirts of Madras; forced British to sign humiliating **Treaty of Madras (1769)** (mutual restitution of territories and defensive alliance).
+61. **Second Anglo-Mysore War (1780–84):** Triggered by British capture of French-controlled port of **Mahe** (in Hyder Ali's territory); Hyder Ali defeated Colonel Baillie at Pollilur (1780); Sir Eyre Coote defeated Hyder at **Porto Novo (1781)**; Hyder died of cancer in Dec 1782; war concluded by Tipu Sultan with **Treaty of Mangalore (March 1784)** on basis of mutual restitution.
+62. **Third Anglo-Mysore War (1790–92):** Lord Cornwallis allied with Marathas and Nizam against Tipu; Cornwallis besieged Seringapatam; concluded by **Treaty of Seringapatam (1792)**: Tipu ceded half his kingdom (Baramahal, Dindigul, Malabar to British) and paid ₹3.3 crore indemnity, surrendering two minor sons as hostages.
+63. **Fourth Anglo-Mysore War (1799):** Lord Wellesley invaded Mysore accusing Tipu of conspiring with Napoleonic France (Tipu planted Liberty Tree at Seringapatam and joined Jacobin Club); Tipu died fighting at the gates of Seringapatam on **4 May 1799**; Mysore restored to Wodeyar child ruler under Subsidiary Alliance.
+64. **Treaty of Salbai (17 May 1782):** Ended First Anglo-Maratha War (1775–82); negotiated by Warren Hastings and Mahadji Scindia; British recognized **Madhavrao II (Sawai Madhavrao)** as Peshwa; guaranteed 20 years of mutual peace.
+65. **Treaty of Bassein (31 December 1802):** Peshwa **Baji Rao II** fled Pune after defeat by Jaswant Rao Holkar and signed subsidiary treaty with Lord Wellesley; surrendered foreign policy, stationed British force in Pune, and ceded territory worth ₹26 lakh/year.
     1. Direct War / Conquest (Bengal, Mysore, Sikhs, Sindh)
     2. Subsidiary Alliance / Diplomatic Net (Wellesley: Hyderabad, Awadh, Maratha houses)
     3. Doctrine of Lapse / Annexation on Pretexts (Dalhousie: Satara, Jhansi, Nagpur, Awadh).
@@ -205,25 +220,6 @@ hide:
 | **Nagpur** | 1854 | Raghoji III died without natural male heir; crown jewels auctioned off |
 | *(Awadh)* | *1856* | *Misgovernance/Maladministration (Outram Report) — NOT Doctrine of Lapse* |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Plassey (1757)** | **Buxar (1764)** | Treachery/coup against Siraj vs pitched tactical battle against Grand Alliance; Diwani came after Buxar | प्लासी / बक्सर |
-| **Mir Jafar** | **Mir Qasim** | Puppet installed after Plassey vs Nawab who asserted independence, moved capital to Munger, fought at Buxar | मीर जाफ़र / मीर कासिम |
-| **Diwani** | **Nizamat** | Revenue collection & civil justice (1765) vs police, criminal justice & defense | दीवानी / निज़ामत |
-| **Dual Govt (1765)** | **Direct Rule (1772)** | Clive's dual system ("power without responsibility") vs Hastings ending it and taking direct charge | दोहरी सरकार / प्रत्यक्ष शासन |
-| **Ring Fence Policy** | **Subsidiary Alliance** | Hastings: buffer states to guard British borders vs Wellesley: active annexation of foreign policy & native subsidies | रिंग फेंस / सहायक संधि |
-| **Subsidiary Alliance** | **Doctrine of Lapse** | Wellesley (keep throne, surrender external autonomy) vs Dalhousie (annex state completely if no natural heir) | सहायक संधि / हड़प नीति |
-| **Treaty of Madras (1769)**| **Treaty of Mangalore (1784)** | Ends 1st Mysore War (Hyder wins) vs ends 2nd Mysore War (status quo after Hyder's death) | मद्रास / मैंगलोर |
-| **Treaty of Salbai (1782)** | **Treaty of Bassein (1802)**| Ended 1st Maratha War (20-yr peace) vs Peshwa Baji Rao II accepting humiliating Subsidiary Alliance | सालबाई / बसीन |
-| **Sugauli (1816)** | **Lahore (1846)** | Ends Anglo-Nepal War (hill stations ceded) vs Ends 1st Anglo-Sikh War (Jalandhar doab ceded) | सुगौली / लाहौर |
-| **Warren Hastings** | **Lord Hastings** | 1772–1785 (Dual govt end, Rohillas, Salbai) vs 1813–1823 (Anglo-Nepal War, Pindaris, 3rd Maratha) | वारेन / लॉर्ड हेस्टिंग्स |
-| **Sindh Annexation (1843)**| **Punjab Annexation (1849)** | Ellenborough & Sir Charles Napier vs Dalhousie after Gujarat Battle of the Guns | सिंध / पंजाब |
-| **Awadh (1856)** | **Jhansi (1853)** | Annexed for **misgovernance** (Outram report) vs Annexed via **Doctrine of Lapse** (no biological heir) | अवध / झाँसी |
-| **Hector Munro** | **Eyre Coote** | Victor of Buxar (1764) vs Victor of Wandiwash (1760) and Porto Novo (1781) | मुनरो / आयर कूट |
-| **Treaty of Purandhar (1776)**| **Treaty of Surat (1775)** | Calcutta council disowning Bombay council's treaty vs Bombay council's deal with Raghoba | पुरंदर / सूरत |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Subsidiary Alliance Sequence (Lord Wellesley):**
@@ -249,337 +245,268 @@ hide:
    - **Mnemonic:** **M - S - S** vs **Munro**
    - **M**ir Qasim + **S**huja-ud-Daula + **S**hah Alam II routed by Hector **Munro**.
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Consider the following wars and arrange them in correct chronological order.
-
-1. First Anglo-Mysore War
-2. Second Anglo-French War
-3. First Anglo-Sikh War
-4. First Anglo-Afghan War
-
-A. 2, 1, 4, 3
-
-B. 1, 2, 3, 4
-
-C. 1, 2, 4, 3
-
-D. 2, 1, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2nd Anglo-French (c.1749–54) → 1st Mysore (1767–69) → 1st Afghan (1839–42) → 1st Sikh (1845–46).
-
-</details>
-
-**Q2.**
-
-Match List-I with List-II:
-
-**List-I** A. Lord Dalhousie B. Lord Curzon C. Lord William Bentinck D. Lord Cornwallis
-**List-II** 1. Permanent Settlement of Bengal 2. Prohibition of Practice of Sati 3. Partition of Bengal 4. Doctrine of Lapse
-
-A. 4 3 1 2
-
-B. 3 4 2 1
-
-C. 3 4 1 2
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Lapse = Dalhousie. Other three pairs are Governor-General / reform facts.
-
-</details>
-
-**Q3.**
-
-Which of the following sites were obtained by the British East India Company under the Treaty of Sugauli in 1816?
-
-1. Kathmandu
-2. Shimla
-3. Ranikhet
-4. Nainital
-
-A. 1 and 2
-
-B. Only 3 and 4
-
-C. 2, 3 and 4
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Not Kathmandu.
-
-</details>
-
-**Q4.**
-
-Arrange the following in chronological order of their rule:
-
-1. Bajirao I
-2. Balaji Bajirao
-3. Balaji Vishwanath
-4. Madhav Rao I
-
-A. 1, 3, 2, 4
-
-B. 3, 1, 4, 2
-
-C. 3, 1, 2, 4
-
-D. 1, 3, 4, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q5.**
-
-Consider the following Peshwas and arrange them in ascending chronological order:
-
-1. Raghunath Rao (Raghoba)
-2. Balaji Baji Rao
-3. Narayan Rao
-4. Balaji Vishwanath
-
-A. 4, 2, 3, 1
-
-B. 3, 4, 1, 2
-
-C. 1, 2, 3, 4
-
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.**
-
-Consider the following events and arrange them in chronological order starting from the earliest:
-
-1. Vellore Mutiny
-2. Death of Nana Fadnavis
-3. Recall of Wellesley
-4. Anglo-Nepalese War
-
-A. 2, 3, 1, 4
-
-B. 4, 1, 3, 2
-
-C. 2, 3, 4, 1
-
-D. 3, 1, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1800 → 1805 → 1806 → 1814–16.
-
-</details>
-
-**Q7.**
-
-Consider the following statements:
-
-1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.
-2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Lapse rejected the heir. Stmt 1 = 1857.
-
-</details>
-
-**Q8.**
-
-Consider the reign of the following Peshwas and arrange them in chronological order—
-
-(I) Balaji Vishwanath
-(II) Bajirao I
-(III) Narayan Rao
-(IV) Madhav Rao I
-
-A. I, III, II, IV
-
-B. I, II, III, IV
-
-C. II, I, IV, III
-
-D. I, II, IV, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q9.**
-
-Consider the following events and arrange them in chronological order.
-
-I. Battle of Mudki
-II. Battle of Porto Novo
-III. Battle of Shakarkheda
-IV. Battle of Bedara
-
-A. II, III, IV, I
-
-B. III, IV, II, I
-
-C. IV, III, II, I
-
-D. I, II, III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Shakarkheda **1724** (Nizam vs Mubariz Khan) → Bedara **1759** (English vs Dutch) → Porto Novo **1781** (2nd Mysore) → Mudki **1845** (1st Sikh). Code **III, IV, II, I**.
-
-</details>
-
-**Q10.**
-
-At which place did Raja Ranjit Singh set up the Adalat-i-Ala?
-
-A. Amritsar
-
-B. Lahore
-
-C. Firozpur
-
-D. Multan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Lahore**
-
-</details>
-
-**Q11.**
-
-Who among the following established a modem armoury in Dindigal Mysore in 1755?
-
-A. Nanjraj
-
-B. Haider Ali
-
-C. Devraj
-
-D. Chikka Krishnaraj
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.**
-
-Assertion (A): The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
-
-Reason (R): Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** - Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty/deference - his being an orientalist scholar is a true but separate fact, not the causal reason for stepping aside. (*Paper spelling "Ambic" = Arabic.*)
-
-</details>
-
-**Q13.**
-
-Match List-I with List-II:
-
-**List-I** A. Treaty of Allahabad B. Treaty of Manglore C. Treaty of Salbai D. Treaty of Madras
-**List-II** 1. 1782 2. 1784 3. 1769 4. 1765
-
-A. 4 2 3 1
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q14.**
-
-The Maratha claim of revenue for protection is known by what name?
-
-A. Sardesh Mukhi
-
-B. Chauth
-
-C. Abwab
-
-D. Jamadani
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Chauth**
-
-</details>
-
-**Q15.**
-
-Who was the last Governor / Subedar of Bengal appointed by the Mughal Emperor?
-
-A. Sarfraz Khan
-
-B. Murshid Quli Khan
-
-C. Alivardi Khan
-
-D. Shujauddin Muhammad Khan
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Last Mughal-appointed Bengal governor = Murshid Quli Khan.
-
-**Ans: B.** **Murshid Quli Khan** (promoted under **Farrukhsiyar**, **1717**). Later Nawabs were hereditary/local successions ratified at court, not fresh independent Mughal appointments in the same sense.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Consider the following wars and arrange them in correct chronological order.<br><br>1. First Anglo-Mysore War<br>2. Second Anglo-French War<br>3. First Anglo-Sikh War<br>4. First Anglo-Afghan War</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 4, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 3, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2nd Anglo-French (c.1749–54) → 1st Mysore (1767–69) → 1st Afghan (1839–42) → 1st Sikh (1845–46).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Governor-General / Viceroy)</th>
+        <th>List-II (Important Policy / Event)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Lord Dalhousie</td><td><span class="match-key">1</span> Permanent Settlement of Bengal</td></tr>
+    <tr><td><span class="match-key">B</span> Lord Curzon</td><td><span class="match-key">2</span> Prohibition of Practice of Sati</td></tr>
+    <tr><td><span class="match-key">C</span> Lord William Bentinck</td><td><span class="match-key">3</span> Partition of Bengal</td></tr>
+    <tr><td><span class="match-key">D</span> Lord Cornwallis</td><td><span class="match-key">4</span> Doctrine of Lapse</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 3 1 2</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 3 4 2 1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 3 4 1 2</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 4 3 2 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Lapse = Dalhousie. Other three pairs are Governor-General / reform facts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following sites were obtained by the British East India Company under the Treaty of Sugauli in 1816?<br><br>1. Kathmandu<br>2. Shimla<br>3. Ranikhet<br>4. Nainital</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3 and 4</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Not Kathmandu.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Arrange the following in chronological order of their rule:<br><br>1. Bajirao I<br>2. Balaji Bajirao<br>3. Balaji Vishwanath<br>4. Madhav Rao I</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 3, 2, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 1, 4, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 1, 2, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 3, 4, 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Consider the following Peshwas and arrange them in ascending chronological order:<br><br>1. Raghunath Rao (Raghoba)<br>2. Balaji Baji Rao<br>3. Narayan Rao<br>4. Balaji Vishwanath</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4, 2, 3, 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 4, 1, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 3, 2, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following events and arrange them in chronological order starting from the earliest:<br><br>1. Vellore Mutiny<br>2. Death of Nana Fadnavis<br>3. Recall of Wellesley<br>4. Anglo-Nepalese War</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 3, 1, 4</div><div class="pyq-opt"><span class="opt-letter">B</span> 4, 1, 3, 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2, 3, 4, 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3, 1, 2, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1800 → 1805 → 1806 → 1814–16.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.<br>2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Both 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Lapse rejected the heir. Stmt 1 = 1857.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Consider the reign of the following Peshwas and arrange them in chronological order—<br><br>(I) Balaji Vishwanath<br>(II) Bajirao I<br>(III) Narayan Rao<br>(IV) Madhav Rao I</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I, III, II, IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I, II, III, IV</div><div class="pyq-opt"><span class="opt-letter">C</span> II, I, IV, III</div><div class="pyq-opt"><span class="opt-letter">D</span> I, II, IV, III</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Consider the following events and arrange them in chronological order.<br><br>I. Battle of Mudki<br>II. Battle of Porto Novo<br>III. Battle of Shakarkheda<br>IV. Battle of Bedara</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> II, III, IV, I</div><div class="pyq-opt"><span class="opt-letter">B</span> III, IV, II, I</div><div class="pyq-opt"><span class="opt-letter">C</span> IV, III, II, I</div><div class="pyq-opt"><span class="opt-letter">D</span> I, II, III, IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Shakarkheda **1724** (Nizam vs Mubariz Khan) → Bedara **1759** (English vs Dutch) → Porto Novo **1781** (2nd Mysore) → Mudki **1845** (1st Sikh). Code **III, IV, II, I**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">At which place did Raja Ranjit Singh set up the Adalat-i-Ala?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Amritsar</div><div class="pyq-opt"><span class="opt-letter">B</span> Lahore</div><div class="pyq-opt"><span class="opt-letter">C</span> Firozpur</div><div class="pyq-opt"><span class="opt-letter">D</span> Multan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Lahore</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Who among the following established a modem armoury in Dindigal Mysore in 1755?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Nanjraj</div><div class="pyq-opt"><span class="opt-letter">B</span> Haider Ali</div><div class="pyq-opt"><span class="opt-letter">C</span> Devraj</div><div class="pyq-opt"><span class="opt-letter">D</span> Chikka Krishnaraj</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.<br><br>Reason (R): Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.<br><br>Options:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> (A) is false, but (R) is true</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true, but (R) is **not** the correct explanation of (A). Hastings declined the presidentship out of modesty/deference - his being an orientalist scholar is a true but separate fact, not the causal reason for stepping aside. (*Paper spelling "Ambic" = Arabic.*)</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:</div>
+  <table class="pyq-match-table">
+    <thead>
+      <tr>
+        <th>List-I (Treaty)</th>
+        <th>List-II (Year)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr><td><span class="match-key">A</span> Treaty of Allahabad</td><td><span class="match-key">1</span> 1782</td></tr>
+    <tr><td><span class="match-key">B</span> Treaty of Mangalore</td><td><span class="match-key">2</span> 1784</td></tr>
+    <tr><td><span class="match-key">C</span> Treaty of Salbai</td><td><span class="match-key">3</span> 1769</td></tr>
+    <tr><td><span class="match-key">D</span> Treaty of Madras</td><td><span class="match-key">4</span> 1765</td></tr>
+    </tbody>
+  </table>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 2 3 1</div>
+    <div class="pyq-opt"><span class="opt-letter">B</span> 2 4 3 1</div>
+    <div class="pyq-opt"><span class="opt-letter">C</span> 4 2 1 3</div>
+    <div class="pyq-opt"><span class="opt-letter">D</span> 2 4 1 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Standard UPPCS High-Yield Principle.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">The Maratha claim of revenue for protection is known by what name?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sardesh Mukhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Chauth</div><div class="pyq-opt"><span class="opt-letter">C</span> Abwab</div><div class="pyq-opt"><span class="opt-letter">D</span> Jamadani</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Chauth</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Who was the last Governor / Subedar of Bengal appointed by the Mughal Emperor?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sarfraz Khan</div><div class="pyq-opt"><span class="opt-letter">B</span> Murshid Quli Khan</div><div class="pyq-opt"><span class="opt-letter">C</span> Alivardi Khan</div><div class="pyq-opt"><span class="opt-letter">D</span> Shujauddin Muhammad Khan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Logic:** Last Mughal-appointed Bengal governor = Murshid Quli Khan.
+
+**Ans: B.** **Murshid Quli Khan** (promoted under **Farrukhsiyar**, **1717**). Later Nawabs were hereditary/local successions ratified at court, not fresh independent Mughal appointments in the same sense.</div>
+  </div>
+</div>

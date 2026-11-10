@@ -158,7 +158,8 @@ c. 165–194 CE ── Yajna Sri Satakarni (Ship-motif coins; peak Roman maritim
 | Attribute | **Cheras** | **Cholas** | **Pandyas** |
 |---|---|---|---|
 | **Territory** | Kerala & Western Tamil Nadu (Kongu) | Kaveri Delta & Central TN (*Cholamandalam*) | Southern Tamil Nadu (Madurai & Tirunelveli) |
-| **Capital City** | **Vanji / Karur** | **Uraiyur** (textiles) $ightarrow$ **Poompuhar** | **Madurai** (on Vaigai river) |
+| **Capital City** | **Vanji / Karur** | **Uraiyur** (textiles) $
+ightarrow$ **Poompuhar** | **Madurai** (on Vaigai river) |
 | **Royal Emblem** | **Bow and Arrow** (धनुष-बाण) | **Tiger** (बाघ) | **Two Carp / Fish** (दो मछलियां) |
 | **Premier Port** | **Muziris** & Tondi (Malabar) | **Poompuhar (Kaveripattinam)** | **Korkai** (Pearl fisheries) |
 | **Greatest Monarch** | **Senguttuvan** (Red Chera; Pattini cult) | **Karikala** (Kallanai Dam, Venni battle) | **Neduncheliyan** (Talaiyalanganam battle) |
@@ -179,34 +180,13 @@ c. 165–194 CE ── Yajna Sri Satakarni (Ship-motif coins; peak Roman maritim
 
 > **Era Formula Check:** Difference between Vikrama Era (57 BCE) and Saka Era (78 CE) = **57 + 78 = 135 years**. Difference between Saka Era (78 CE) and Gupta Era (319 CE) = **319 − 78 = 241 years**.
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Indo-Greek** | **Western Shaka** | Hellenistic Menander (Sakala) vs Central Asian Rudradaman (Ujjain) | इंडो-ग्रीक / शक |
-| **Gautamiputra Satakarni**| **Satakarni I** | Defeated Nahapana (Nasik cave) vs Husband of Nayanika (Nanaghat cave) | गौतमीपुत्र / शातकर्णि प्रथम |
-| **Pushyamitra Shunga** | **Pushyagupta** | Brahmin commander who overthrew Mauryas vs Vaishya governor who built Sudarshana Lake | पुष्यमित्र शुंग / पुष्यगुप्त |
-| **Nanaghat Inscription** | **Nasik Cave Inscription** | Queen Nayanika (First land grant) vs Queen Gautami Balashri (*Ekabrahmana*) | नानाघाट / नासिक गुफा |
-| **Patanjali** | **Panini** | Shunga-era author of *Mahabhashya* (2nd c. BCE) vs 5th c. BCE grammarian author of *Ashtadhyayi* | पतंजलि / पाणिनि |
-| **Hathigumpha** | **Junagarh** | Kharavela's Prakrit cave record in Odisha vs Rudradaman's Sanskrit rock record in Gujarat | हाथीगुंफा / जूनागढ़ |
-| **Karle Chaitya** | **Ajanta Caves** | Largest single Hinayana rock-cut prayer hall (Satavahanas) vs Painted multi-period monastic cave complex | कार्ले / अजंता |
-| **Lead and Potin Coins** | **Pure Gold Dinars** | Distinctive currency issued by Satavahanas vs High-value international currency issued by Kushanas | सीसा-पोटीन / स्वर्ण दीनार |
-| **Silappadikaram** | **Manimekalai** | Ilango Adigal's epic on Kovalan & Kannagi vs Chathanar's Buddhist sequel on their daughter | सिलप्पादिकारम / मणिमेकलै |
-| **Tolkappiyam** | **Tirukkural** | Sangam grammatical and rhetorical treatise vs Ethical didactic masterpiece by Tiruvalluvar | तोलकाप्पियम / तिरुक्कुरल |
-| **Uraiyur** | **Poompuhar** | Chola inland textile capital on Kaveri vs Chola premier coastal international port | उरैयूर / पूमपुहार |
-| **Senguttuvan** | **Karikala** | Chera king who started Pattini cult vs Chola king who built Kallanai Dam on Kaveri | सेनगुट्टुवन / करिकाल |
-| **Agam poetry** | **Puram poetry** | Sangam inner romantic/personal love verses vs Sangam outer heroic war and ethical verses | अगम / पुरम |
-| **Arikamedu** | **Muziris** | East coast Roman trading station (Puducherry) vs West coast Roman pepper entrepôt (Kerala) | अरिकामेडु / मुज़िरिस |
-| **Vikrama Era (57 BCE)** | **Saka Era (78 CE)** | Established in Ujjain (+57) vs Established by Kanishka I (−78); 135-year difference | विक्रम / शक संवत |
-| **Malavikagnimitra** | **Swapnavasavadattam** | Kalidasa's play on Agnimitra Shunga vs Bhasa's play on King Udayana of Vatsa | मालविकाग्निमित्र / स्वप्नवासवदत्तम् |
-| **Vimal Vasahi** | **Luna Vasahi** | Dilwara temple to Rishabhanatha (Vimal Shah, 1031) vs Dilwara temple to Neminatha (Tejpala, 1230) | विमल वसही / लूण वसही |
-| **Besnagar Pillar** | **Mehrauli Pillar** | Greek Heliodorus dedicates to Vasudeva (113 BCE) vs Chandragupta II rustless iron pillar (4th c. CE) | बेसनगर / महरौली |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Post-Mauryan Imperial Ladder (North & Deccan):**
    - **Mnemonic:** **S - K - S**
-   - **Order:** **S**hunga (185 BCE) $ightarrow$ **K**anva (73 BCE) $ightarrow$ **S**atavahana.
+   - **Order:** **S**hunga (185 BCE) $
+ightarrow$ **K**anva (73 BCE) $
+ightarrow$ **S**atavahana.
 2. **The Sangam Muvendar Triad (Capitals & Emblems):**
    - **Chera** = **Bow** (Bows shoot from **V**anji)
    - **Chola** = **Tiger** (Tigers roar at **U**raiyur & **P**oompuhar)
@@ -223,342 +203,297 @@ c. 165–194 CE ── Yajna Sri Satakarni (Ship-motif coins; peak Roman maritim
    - Exam Trap: Always add 135 to convert Saka year to Vikrama year!
 
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-
-Match List-I with List-II and choose the correct answer using the code given below.
-
-List-I (Ruler): A. Mahendravarman I B. Kadungon C. Amoghavarsha I D. Rajaraja I
-List-II (Dynasty): 1. Rashtrakuta 2. Pallava 3. Chola 4. Pandya
-
-A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 2 4 1 3.**
-
-</details>
-
-**Q2.**
-
-*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
-
-A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Nagasena.** Milinda = Menander.
-
-</details>
-
-**Q3.**
-
-Which of the following inscriptions gives the information about two Ashwamedha Yajnas performed by the King Pushyamitra Shung?
-
-A. Saranath inscription
-B. Besnagar inscription
-C. Ayodhya inscription
-D. Hathigumpha inscription
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Ayodhya.**
-
-</details>
-
-**Q4.** With reference to the end of the Mauryan empire, which of the following statements is/are correct?
-
-1. Pushyamitra’s two ashwamedhas are recorded in the Besnagar Garuda pillar.
-2. Pushyamitra Shunga killed the last Mauryan Brihadratha in 78 CE.
-3. The Kanva house followed the Shungas about 73–28 BCE.
-
-A. Only 3
-
-B. 1 and 2
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: Pushyamitra’s coup is pegged to 185 BCE, not 78 CE (Shaka-era trap). Stmt 1 remains false: ashwamedhas = Ayodhya/Dhanadeva, not Besnagar.
-
-</details>
-
-**Q5.** Arrange the following northwest powers in the correct chronological order of their rise in India:
-
-1. Kushans
-2. Indo-Greeks
-3. Shakas
-
-Select the correct answer from the code given below:
-
-A. 1–2–3
-
-B. 3–2–1
-
-C. 2–1–3
-
-D. 2–3–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Greeks → Sakas → Kushans.
-
-**Logic:** Short match-list order; Parthians sit between Shakas and Kushans in fuller teaching.
-
-</details>
-
-**Q6.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Inscription / record) | List-II (Associated person) |
-|---|---|
-| 1. Hathigumpha | A. Heliodorus |
-| 2. Ayodhya inscription | B. Kharavela |
-| 3. Besnagar Garuda pillar | C. Pushyamitra (via Dhanadeva) |
-| 4. Nasik prasasti of Balashri | D. Gautamiputra Satakarni |
-
-*Row order is not the answer code.*
-
-A. 1-C, 2-B, 3-A, 4-D
-
-B. 1-B, 2-C, 3-A, 4-D
-
-C. 1-B, 2-A, 3-C, 4-D
-
-D. 1-D, 2-C, 3-A, 4-B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1-B, 2-C, 3-A, 4-D.
-
-**Logic:** Classic inscription traps: Hathigumpha≠Ashoka; Ayodhya≠Besnagar; Nasik = Gautamiputra vs Nahapana.
-
-</details>
-
-**Q7.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Rudradaman’s Junagadh / Girnar inscription is the first long literary Sanskrit prose record in India.
-
-**Reason (R):** The same rock tells that Sudarshana lake was first dug under Chandragupta Maurya, adorned under Ashoka, and repaired by Rudradaman.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both (A) and (R) are true and (R) explains (A).
-
-**A/R logic:** R is the content that makes Junagadh the classic Shaka Sanskrit prose fact.
-
-</details>
-
-**Q8.** With reference to the Satavahanas, which of the following statements is/are correct?
-
-1. Tradition names Simuka as founder; capitals include Pratishthana and Pataliputra.
-2. Satavahanas issued large imperial gold as their main coinage.
-3. Gautamiputra Satakarni defeated Shaka Nahapana of the Kshaharata house.
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: Capitals include Pratishthana and Amaravati — not Pataliputra. Stmt 2 remains false: Satavahanas did not issue large imperial gold as main coinage.
-
-</details>
-
-**Q9.** Which one of the following pairs is NOT correctly matched?
-
-Select the correct answer from the code given below:
-
-A. Menander — Sagala (Sialkot); Milinda Panha with Nagasena
-
-B. Maues / Moga — first Shaka named in India at Taxila–Gandhara
-
-C. Karikala — imperial Chola of Thanjavur who built Brihadisvara
-
-D. Kanishka — Fourth Buddhist Council at Kundalvana; Devaputra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Karikala is the Sangam Chola of Kallanai; Rajaraja I is the imperial Thanjavur Chola.
-
-**Logic:** Sangam Chola vs imperial Chola swap.
-
-</details>
-
-**Q10.** With reference to Kushan chronology and culture, which of the following statements is/are correct?
-
-1. Patanjali of the Mahabhashya belongs to Kanishka’s court.
-2. Keys peg Kanishka’s accession to 57 BCE, the start of the Vikrama Samvat.
-3. Vikrama Samvat begins in 57 BCE and differs from the Shaka era by 135 years.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. Only 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Only 3 is correct.
-
-**Logic:** Stmt 2 false: Kanishka’s accession is pegged to 78 CE (Shaka era); Vikrama Samvat is 57 BCE. Stmt 1 remains false: Patanjali is Shunga-age, not Kanishka’s court.
-
-</details>
-
-**Q11.** Match List-I with List-II and select the correct answer from the code given below the lists:
-
-| List-I (Sangam house) | List-II (Emblem / capital) |
-|---|---|
-| 1. Chera | A. Fish; Madurai |
-| 2. Chola | B. Bow; Vanji / Karur |
-| 3. Pandya | C. Tiger; Uraiyur |
-
-*Row order is not the answer code.*
-
-A. 1-A, 2-C, 3-B
-
-B. 1-C, 2-B, 3-A
-
-C. 1-B, 2-C, 3-A
-
-D. 1-B, 2-A, 3-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1-B, 2-C, 3-A.
-
-**Logic:** Muvendar tag: Chera–bow–Vanji; Chola–tiger–Uraiyur; Pandya–fish–Madurai.
-
-</details>
-
-**Q12.** Consider the following statements about Indo-Greeks and Shakas:
-
-1. Indo-Greeks issued the first portrait die-struck coins in India.
-2. Nahapana is the greatest Kshaharata; Rudradaman I is the greatest Kardamaka.
-3. Gondophares is the brief Parthian / Pahlava bridge king.
-
-Select the correct answer from the code given below:
-
-A. Only 1, 2 and 3
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** All three statements are correct.
-
-**Logic:** All three are Must-Score northwest facts.
-
-</details>
-
-**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** Gandhara art is the default Satavahana Andhra limestone narrative school.
-
-**Reason (R):** Amaravati art is Satavahana Andhra limestone narrative relief, while Gandhara is Kushan northwest Greco-Buddhist schist art.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false, but (R) is true.
-
-**A/R logic:** A swaps the schools; R states the correct pair.
-
-</details>
-
-**Q14.** With reference to Sangam ports and trade, which of the following statements is/are correct?
-
-1. Muziris is the Chola port; Puhar is Chera; Korkai is Pandya pearl coast.
-2. Pallava and Kadamba are named among the great Sangam ruling houses in that corpus.
-3. Arikamedu (Periplus Poduke) yields Roman amphorae.
-
-A. 1 and 2
-
-B. 2 and 3
-
-C. 1 and 3
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 3 is correct.
-
-**Logic:** Stmt 1 false: Muziris = Chera/Roman pepper; Puhar = Chola; Korkai = Pandya. Stmt 2 remains false: Pallava/Kadamba are not Sangam great houses.
-
-</details>
-
-**Q15.** With reference to Kushan capitals and art, which of the following statements is/are correct?
-
-1. Purushapura (Peshawar) is the main Kushan capital; Mathura is the second great Indian centre.
-2. Mathura art uses red sandstone; Gandhara often uses green schist.
-3. Vima Kadphises mainly issued copper while Kujula flooded India with imperial gold.
-
-A. Only 1 and 3
-
-B. Only 1
-
-C. Only 1 and 2
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** 1 and 2 only are correct.
-
-**Logic:** Stmt 3 reversed: Kujula mainly copper; Vima issues large-scale gold.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and choose the correct answer using the code given below.<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List-I (Ruler)</th>
+      <th>List-II (Dynasty)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Mahendravarman I</td>
+      <td><span class="match-key">1</span> Rashtrakuta</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Kadungon</td>
+      <td><span class="match-key">2</span> Pallava</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Amoghavarsha I</td>
+      <td><span class="match-key">3</span> Chola</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Rajaraja I</td>
+      <td><span class="match-key">4</span> Pandya</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4 2 3 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 4 1 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 4 3 1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4 2 1 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 4 1 3.</div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">*Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—<br><br>A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt</div>
+  
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nagasena.** Milinda = Menander.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following inscriptions gives the information about two Ashwamedha Yajnas performed by the King Pushyamitra Shung?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Saranath inscription</div><div class="pyq-opt"><span class="opt-letter">B</span> Besnagar inscription</div><div class="pyq-opt"><span class="opt-letter">C</span> Ayodhya inscription</div><div class="pyq-opt"><span class="opt-letter">D</span> Hathigumpha inscription</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Ayodhya.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the end of the Mauryan empire, which of the following statements is/are correct?<br><br>1. Pushyamitra’s two ashwamedhas are recorded in the Besnagar Garuda pillar.<br>2. Pushyamitra Shunga killed the last Mauryan Brihadratha in 78 CE.<br>3. The Kanva house followed the Shungas about 73–28 BCE.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: Pushyamitra’s coup is pegged to 185 BCE, not 78 CE (Shaka-era trap). Stmt 1 remains false: ashwamedhas = Ayodhya/Dhanadeva, not Besnagar.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the following northwest powers in the correct chronological order of their rise in India:<br><br>1. Kushans<br>2. Indo-Greeks<br>3. Shakas<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1–2–3</div><div class="pyq-opt"><span class="opt-letter">B</span> 3–2–1</div><div class="pyq-opt"><span class="opt-letter">C</span> 2–1–3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2–3–1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Greeks → Sakas → Kushans.
+
+**Logic:** Short match-list order; Parthians sit between Shakas and Kushans in fuller teaching.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Inscription / record)</th><th>List-II (Associated person)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Hathigumpha</td><td><span class="match-key">A</span> Heliodorus</td></tr>
+      <tr><td><span class="match-key">2</span> Ayodhya inscription</td><td><span class="match-key">B</span> Kharavela</td></tr>
+      <tr><td><span class="match-key">3</span> Besnagar Garuda pillar</td><td><span class="match-key">C</span> Pushyamitra (via Dhanadeva)</td></tr>
+      <tr><td><span class="match-key">4</span> Nasik prasasti of Balashri</td><td><span class="match-key">D</span> Gautamiputra Satakarni</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-C, 2-B, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-B, 2-C, 3-A, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-C, 3-A, 4-B</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1-B, 2-C, 3-A, 4-D.
+
+**Logic:** Classic inscription traps: Hathigumpha≠Ashoka; Ayodhya≠Besnagar; Nasik = Gautamiputra vs Nahapana.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Rudradaman’s Junagadh / Girnar inscription is the first long literary Sanskrit prose record in India.<br><br>**Reason (R):** The same rock tells that Sudarshana lake was first dug under Chandragupta Maurya, adorned under Ashoka, and repaired by Rudradaman.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both (A) and (R) are true and (R) explains (A).
+
+**A/R logic:** R is the content that makes Junagadh the classic Shaka Sanskrit prose fact.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to the Satavahanas, which of the following statements is/are correct?<br><br>1. Tradition names Simuka as founder; capitals include Pratishthana and Pataliputra.<br>2. Satavahanas issued large imperial gold as their main coinage.<br>3. Gautamiputra Satakarni defeated Shaka Nahapana of the Kshaharata house.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: Capitals include Pratishthana and Amaravati — not Pataliputra. Stmt 2 remains false: Satavahanas did not issue large imperial gold as main coinage.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Which one of the following pairs is NOT correctly matched?<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Menander — Sagala (Sialkot); Milinda Panha with Nagasena</div><div class="pyq-opt"><span class="opt-letter">B</span> Maues / Moga — first Shaka named in India at Taxila–Gandhara</div><div class="pyq-opt"><span class="opt-letter">C</span> Karikala — imperial Chola of Thanjavur who built Brihadisvara</div><div class="pyq-opt"><span class="opt-letter">D</span> Kanishka — Fourth Buddhist Council at Kundalvana; Devaputra</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Karikala is the Sangam Chola of Kallanai; Rajaraja I is the imperial Thanjavur Chola.
+
+**Logic:** Sangam Chola vs imperial Chola swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to Kushan chronology and culture, which of the following statements is/are correct?<br><br>1. Patanjali of the Mahabhashya belongs to Kanishka’s court.<br>2. Keys peg Kanishka’s accession to 57 BCE, the start of the Vikrama Samvat.<br>3. Vikrama Samvat begins in 57 BCE and differs from the Shaka era by 135 years.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 2 false: Kanishka’s accession is pegged to 78 CE (Shaka era); Vikrama Samvat is 57 BCE. Stmt 1 remains false: Patanjali is Shunga-age, not Kanishka’s court.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Sangam house)</th><th>List-II (Emblem / capital)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Chera</td><td><span class="match-key">A</span> Fish; Madurai</td></tr>
+      <tr><td><span class="match-key">2</span> Chola</td><td><span class="match-key">B</span> Bow; Vanji / Karur</td></tr>
+      <tr><td><span class="match-key">3</span> Pandya</td><td><span class="match-key">C</span> Tiger; Uraiyur</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-A, 2-C, 3-B</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-C, 2-B, 3-A</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-C, 3-A</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-B, 2-A, 3-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1-B, 2-C, 3-A.
+
+**Logic:** Muvendar tag: Chera–bow–Vanji; Chola–tiger–Uraiyur; Pandya–fish–Madurai.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about Indo-Greeks and Shakas:<br><br>1. Indo-Greeks issued the first portrait die-struck coins in India.<br>2. Nahapana is the greatest Kshaharata; Rudradaman I is the greatest Kardamaka.<br>3. Gondophares is the brief Parthian / Pahlava bridge king.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three statements are correct.
+
+**Logic:** All three are Must-Score northwest facts.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>**Assertion (A):** Gandhara art is the default Satavahana Andhra limestone narrative school.<br><br>**Reason (R):** Amaravati art is Satavahana Andhra limestone narrative relief, while Gandhara is Kushan northwest Greco-Buddhist schist art.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false, but (R) is true.
+
+**A/R logic:** A swaps the schools; R states the correct pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Sangam ports and trade, which of the following statements is/are correct?<br><br>1. Muziris is the Chola port; Puhar is Chera; Korkai is Pandya pearl coast.<br>2. Pallava and Kadamba are named among the great Sangam ruling houses in that corpus.<br>3. Arikamedu (Periplus Poduke) yields Roman amphorae.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 3 is correct.
+
+**Logic:** Stmt 1 false: Muziris = Chera/Roman pepper; Puhar = Chola; Korkai = Pandya. Stmt 2 remains false: Pallava/Kadamba are not Sangam great houses.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to Kushan capitals and art, which of the following statements is/are correct?<br><br>1. Purushapura (Peshawar) is the main Kushan capital; Mathura is the second great Indian centre.<br>2. Mathura art uses red sandstone; Gandhara often uses green schist.<br>3. Vima Kadphises mainly issued copper while Kujula flooded India with imperial gold.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1 and 2 only are correct.
+
+**Logic:** Stmt 3 reversed: Kujula mainly copper; Vima issues large-scale gold.</div>
+  </div>
+</div>

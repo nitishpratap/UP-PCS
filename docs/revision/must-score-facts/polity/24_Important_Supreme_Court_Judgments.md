@@ -77,6 +77,21 @@ hide:
 48. ***Association for Democratic Reforms v. Union of India (Electoral Bonds Case, 2024)***: 5-judge Constitution Bench unanimously held the Electoral Bond Scheme unconstitutional; held that anonymous political contributions violate the voters' Right to Information under Article 19(1)(a).
 49. ***Mineral Area Development Authority (MADA) v. Steel Authority of India (2024)***: 9-judge Constitution Bench (8:1 majority) held that royalty paid on extracted minerals is **NOT a tax**; ruled that **State Legislatures have legislative power under Entry 50 of List II to levy taxes on mineral rights and mineral-bearing lands**.
 50. ***State of Punjab v. Davinder Singh (Sub-Classification Case, 2024)***: 7-judge Constitution Bench (6:1 majority) held that State Governments have the constitutional authority to create **sub-classifications within Scheduled Castes (SCs)** to grant preferential reservation to more backward segments (e.g., Balmikis and Mazhabi Sikhs); overruled *E.V. Chinnaiah (2005)*.
+51. **A.K. Gopalan v. State of Madras (1950):** Narrow interpretation of Article 21; held 'procedure established by law' means law enacted by legislature, not natural justice; rejected doctrine of substantive due process; treated FRs as mutually exclusive watertight compartments.
+52. **Champakam Dorairajan v. State of Madras (1951):** First landmark judgment on reservations; struck down communal G.O. in medical college admissions for violating Article 29(2); held Directive Principles cannot override Fundamental Rights; led directly to the **First Constitutional Amendment Act, 1951** which inserted Article 15(4).
+53. **Shankari Prasad v. Union of India (1951):** Challenged First Amendment; SC held power to amend Constitution under Article 368 includes power to amend Fundamental Rights; 'law' in Article 13(2) refers only to ordinary legislative law and not to constitutional amendment acts.
+54. **Golaknath v. State of Punjab (1967):** 11-judge bench ruled by 6:5 majority that Fundamental Rights are given a **transcendental and immutable position**; Parliament CANNOT amend Fundamental Rights under Article 368; applied the doctrine of **Prospective Overruling**; triggered the 24th Amendment Act, 1971.
+55. **Kesavananda Bharati v. State of Kerala (1973):** Largest Constitution Bench in Indian history (**13 judges**, decided 7:6 on **24 April 1973**); overruled Golaknath; held Parliament has wide powers to amend any part of Constitution including FRs, BUT **cannot alter the 'Basic Structure' (आधारभूत ढांचा) of the Constitution**; held Preamble is an integral part of Constitution.
+56. **Indira Nehru Gandhi v. Raj Narain (1975):** First application of Basic Structure Doctrine to strike down a constitutional amendment; invalidated clause (4) of 39th CAA 1975 which took election disputes of PM and Speaker outside judicial review; held **Democracy, Free and Fair Elections, and Judicial Review** are core components of basic structure.
+57. **Maneka Gandhi v. Union of India (1978):** Watershed judgment expanding Article 21; overruled *A.K. Gopalan*; established that procedure depriving life or personal liberty must be **'just, fair, and reasonable'** (incorporating American Substantive Due Process); established the **'Golden Triangle' (Articles 14, 19, and 21 are mutually inclusive and interconnected)**.
+58. **Minerva Mills v. Union of India (1980):** Struck down clauses (4) and (5) of Article 368 inserted by 42nd CAA (which gave unlimited amendment power and barred judicial review); held **Judicial Review and the harmonious balance between Fundamental Rights and Directive Principles** are basic structure components.
+59. **Waman Rao v. Union of India (1981):** Clarified the application of the Basic Structure Doctrine; held all constitutional amendments and laws included in the **Ninth Schedule prior to 24 April 1973 (date of Kesavananda Bharati verdict) are valid and immune from challenge**, while all laws added to Ninth Schedule on or after 24 April 1973 are subject to judicial review against basic structure.
+60. **Indra Sawhney v. Union of India (Mandal Case, 1992):** 9-judge bench upheld 27% OBC reservation in central services; laid down: (1) **50% vertical reservation cap** in ordinary circumstances; (2) **'Creamy Layer' exclusion** for backward classes; (3) Reservation restricted to **initial appointments ONLY (no reservation in promotions)**; (4) Backward classes can be identified on basis of caste.
+61. **Vishaka v. State of Rajasthan (1997):** SC laid down binding **'Vishaka Guidelines'** to protect women from sexual harassment at workplace in absence of legislation, invoking Article 14, 19, 21 and CEDAW convention; culminated in the enactment of the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH Act).
+62. **Association for Democratic Reforms - ADR (2002) & PUCL (2003):** SC held voters have a Fundamental Right to know the **criminal antecedents, educational qualifications, and assets/liabilities of contesting candidates** under Article 19(1)(a); made filing of affidavit mandatory with nomination papers.
+63. **Lily Thomas v. Union of India (2013):** Struck down Section 8(4) of RPA 1951 as unconstitutional; held sitting MPs and MLAs convicted of offences with imprisonment of **2 years or more stand disqualified IMMEDIATELY** upon conviction; no 3-month protection while appeal is pending.
+64. **Justice K.S. Puttaswamy v. Union of India (Privacy Judgment, 2017):** Unanimous 9-judge Constitution bench declared the **Right to Privacy is an intrinsic part of the Right to Life and Personal Liberty under Article 21** and part of the basic structure; overruled *M.P. Sharma (1954)* and *Kharak Singh (1962)*.
+65. **Navtej Singh Johar v. Union of India (2018):** Unanimously read down **Section 377 of the Indian Penal Code (IPC)** to the extent it criminalized consensual sexual acts between adults in private; affirmed rights of LGBTQ+ community under Articles 14, 15, 19, and 21.
 
 ## ⏱️ Timeline / Chronology
 
@@ -129,24 +144,6 @@ hide:
 | ***Navtej Johar (2018)*** | 5 Judges (Dipak Misra, CJ) | Art. 14, 15, 19, 21 | Read down Section 377 IPC; decriminalized consensual homosexual acts. | Constitutional morality triumphs over public morality. |
 | ***Electoral Bonds (2024)*** | 5 Judges (D.Y. Chandrachud, CJ) | Art. 19(1)(a) | Struck down Electoral Bonds Scheme as violative of voter right to know. | Transparency in political finance protected. |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Confused Pair / Trap | What Examiner Falsely Claims | True Exam Position | Hindi Key |
-|---|---|---|---|
-| **Golaknath vs Kesavananda Origin** | Claiming Golaknath propounded the Basic Structure Doctrine. | Golaknath said FRs cannot be amended; **Kesavananda (1973) propounded Basic Structure**. | गोलकनाथ / केशवानंद मूल ढांचा भ्रम |
-| **Chronology of 24th CAA vs Kesavananda** | Stating 24th CAA was passed in response to Kesavananda. | **24th CAA was passed in 1971** to nullify *Golaknath*; Kesavananda *upheld* 24th CAA in 1973. | 24वां संशोधन (1971) / केशवानंद (1973) |
-| **Golaknath Impact on 1st Amendment** | Stating Golaknath invalidated the 1st and 17th Amendments. | Golaknath applied **Prospective Overruling**; all pre-1967 amendments remained fully valid. | भविष्यलक्षी अधिनिर्णय (गोलकनाथ) |
-| **Preamble Status in Berubari vs Kesavananda** | Claiming Berubari declared Preamble a part of the Constitution. | *Berubari (1960)* held Preamble is **NOT** part; *Kesavananda (1973)* overruled and held it **IS** part. | बेरुबारी (भाग नहीं) / केशवानंद (भाग है) |
-| **Ninth Schedule Creation vs Ninth Amendment** | Confusing the Ninth Schedule with the Ninth Constitutional Amendment. | **Ninth Schedule** was added by the **1st CAA 1951**; **Ninth CAA 1960** was for Berubari cession. | 9वीं अनुसूची (पहला संशोधन) / 9वां संशोधन |
-| **Ninth Schedule Absolute Immunity** | Claiming all laws in Ninth Schedule are immune from judicial review. | Laws added **after 24 April 1973** are subject to Basic Structure review (*Waman Rao* & *Coelho*). | नौवीं अनुसूची न्यायिक समीक्षा |
-| **Maneka Gandhi's Textual Impact on Art. 21** | Claiming Maneka Gandhi replaced the text of Article 21 with "Due Process". | Text remains **"procedure established by law"**; court interpreted it to include substantive due process. | मेनका गांधी अनुच्छेद 21 व्याख्या |
-| **ADM Jabalpur Majority vs Dissent** | Stating Justice H.R. Khanna authored the majority judgment. | Khanna was the **sole dissenter**; majority (Ray, Beg, Chandrachud, Bhagwati) denied Habeas Corpus. | एडीएम जबलपुर (खन्ना की असहमति) |
-| **Article 31C Scope After Minerva Mills** | Stating Article 31C immunizes laws implementing ALL Directive Principles. | *Minerva Mills (1980)* struck down the extension; Art. 31C protects **ONLY Articles 39(b) and 39(c)**. | अनुच्छेद 31सी दायरा (केवल 39(ख) व (ग)) |
-| **Navtej Johar Article vs IPC Section** | Trapping Section 377 IPC as "Article 377 of Constitution". | Navtej Johar dealt with **Section 377 of the Indian Penal Code (IPC)**; there is NO Art. 377! | धारा 377 आईपीसी (संविधान अनुच्छेद नहीं) |
-| **Joseph Shine Decriminalization vs Legalization** | Claiming adultery is now completely legal without consequences. | Adultery was **decriminalized** (s.497 IPC void), but remains a valid **civil ground for divorce**. | व्यभिचार अपराध नहीं / तलाक का आधार |
-| **Lily Thomas Disqualification Timing** | Stating convicted legislators get 3 months to obtain a stay. | Disqualification is **instantaneous on the date of conviction**; s.8(4) RPA was struck down. | लिली थॉमस तत्काल अयोग्यता |
-| **Cession of Indian Territory Method** | Claiming Indian territory can be ceded to foreign state under Art. 3. | Under *In re Berubari (1960)*, cession requires a **Constitutional Amendment under Article 368**. | भारतीय भूभाग समर्पण (अनुच्छेद 368 आवश्यक) |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Four Landmark Amendment Cases Chronology: "S-S-G-K"
@@ -171,319 +168,282 @@ hide:
 - **Ninth Schedule boundary line:** Pre-24 April 1973 = Immune; Post-24 April 1973 = Tested on Basic Structure (*Waman Rao* & *I.R. Coelho*).
 
 
-## 🎯 Revision Practice MCQs (Mastery Drill)
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.** With reference to Gopalan and Maneka, which of the following statements is/are correct?
-
-1. Gopalan (1950) read Article 21 as any procedure in a valid law and Fundamental Rights in silos.
-2. Maneka Gandhi (1978) requires a fair, just and reasonable procedure and reads Articles 14, 19 and 21 together.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Both 1 and 2
-C. Only 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both 1 and 2 are correct.
-
-**Logic:** This is the core Art. 21 transformation pair.
-
-</details>
-
-**Q2.** correctly matched?
-
-A. Golaknath (1967) — Fundamental Rights cannot be amended
-B. Golaknath — invented the Basic Structure doctrine
-C. Kesavananda (1973) — can amend FR but not Basic Structure
-D. 24th Amendment (1971) — Article 13(4); comes before Kesavananda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Basic Structure is Kesavananda 1973, not Golaknath.
-
-**Logic:** Classic trap: marking Golaknath as Basic Structure.
-
-</details>
-
-**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): ADM Jabalpur (1976) held that habeas corpus fails if Article 21 is suspended in Emergency.
-
-Reason (R): The 44th Amendment later blocked suspension of Articles 20 and 21; Puttaswamy (2017) said the Jabalpur majority was wrong.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true; R is the later correction, not the reason the 1976 majority held what it held.
-
-**A/R logic:** R states the constitutional and judicial aftermath; it does not explain why the Jabalpur majority ruled as it did.
-
-</details>
-
-**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I | List-II |
-|--------|--------|
-| A. Shankari Prasad (1951) | 1. FR cannot be amended (6:5) |
-| B. Sajjan Singh (1965) | 2. 368 can amend FR |
-| C. Golaknath (1967) | 3. Upheld 17th; Mudholkar hint |
-| D. Kesavananda (1973) | 4. Basic Structure ceiling (7:6) |
-
-> Note: Row order is **not** the answer.
-
-Select the correct answer using the code given below:
-
-A. A-1, B-2, C-3, D-4
-B. A-2, B-3, C-1, D-4
-C. A-2, B-1, C-3, D-4
-D. A-3, B-2, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A-2, B-3, C-1, D-4.
-
-**Logic:** Four-case order: 1951 → 1965 → 1967 → 1973.
-
-</details>
-
-**Q5.** Arrange chronologically: I. Shankari Prasad II. Sajjan Singh III. Golaknath IV. Kesavananda
-
-Select the correct answer from the code given below:
-
-A. III–II–I–IV
-B. I–II–III–IV
-C. I–III–II–IV
-D. II–I–III–IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1951 → 1965 → 1967 → 1973.
-
-**Logic:** Standard amendment-case chronology.
-
-</details>
-
-**Q6.** With reference to Judges Cases and NJAC, which of the following is/are correct?
-
-1. Second Judges (1993) created Collegium (CJI+2); Third Judges (1998) expanded SC Collegium to CJI+4.
-2. 99th Amendment’s NJAC was upheld unanimously in 2015.
-3. Golaknath held that Fundamental Rights can never be amended in any manner and overruled all later cases permanently.
-
-A. 1 and 2
-B. Only 3
-C. Only 1 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Only 1 is correct.
-
-**Logic:** Second Judges (1993) created Collegium (CJI+2); Third Judges (1998) expanded SC Collegium to CJI+4. NJAC was struck on 16 October 2015 (4:1). First Judges gave executive primacy, not judicial primacy.
-
-</details>
-
-**Q7.** With reference to Bommai and related 356 cases, which of the following is/are correct?
-
-1. Nabam Rebia (2016) held that a Governor may freely scramble the Assembly calendar to defeat the Speaker.
-2. Bommai (1994) made Article 356 justiciable and locked majority to the floor test.
-3. Rameshwar Prasad (2006) struck Bihar dissolution based on a mere fear of horse-trading.
-
-A. Only 2 and 3
-B. Only 1
-C. Only 1 and 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 2 and 3 only are correct.
-
-**Logic:** Nabam Rebia restricts Governor calendar games — statement 3 reverses it.
-
-</details>
-
-**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Navtej Singh Johar (2018) held section 377 IPC unconstitutional for consensual adult sex.
-
-Reason (R): The case is about Article 377, a transitory CAG provision.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** (A) is true; (R) is false.
-
-**A/R logic:** s.377 IPC ≠ Art. 377 (transitory CAG) — a known wording trap.
-
-</details>
-
-**Q9.** correctly matched?
-
-A. Indra Sawhney (1992) — 27% OBC; 50% ceiling; creamy layer; no reservation in promotion
-B. 77th Amendment — Article 16(4A) restores SC/ST promotion
-C. Kihoto Hollohan (1992) — Tenth Schedule valid; paragraph 7 ouster struck
-D. Lily Thomas (2013) — preserved RPA s.8(4) three-month cushion for sitting legislators
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Lily Thomas struck s.8(4)’s cushion; conviction ≥2 years brings immediate DQ under s.8(3).
-
-**Logic:** Immediate disqualification is the holding.
-
-</details>
-
-**Q10.** With reference to Ninth Schedule and Coelho, which of the following is/are correct?
-
-1. Ninth Schedule (1st Amendment, 1951) is a list-shield for laws; Ninth Amendment (1960) is Berubari boundary.
-2. After 24 April 1973, parking a law in the Ninth Schedule does not save Basic Structure damage (Waman Rao / Coelho).
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Both 1 and 2
-C. Only 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both 1 and 2 are correct.
-
-**Logic:** Do not swap Schedule and Amendment.
-
-</details>
-
-**Q11.** With reference to Minerva Mills and Indira Gandhi election case, which of the following is/are correct?
-
-1. Indira Gandhi (1975) struck 39th Amendment election-shield clauses and added Rule of Law/free-fair elections themes.
-2. Minerva Mills (1980) struck 42nd’s Articles 368(4)/(5) and kept limited amending power / FR–DPSP harmony.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Both 1 and 2
-C. Only 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Both 1 and 2 are correct.
-
-**Logic:** Amendment line continues after Kesavananda.
-
-</details>
-
-**Q12.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I | List-II |
-|--------|--------|
-| A. Puttaswamy (2017) | 1. Privacy = FR under Art. 21 |
-| B. Shreya Singhal (2015) | 2. IT Act s.66A struck |
-| C. Vishaka (1997) | 3. Workplace sexual-harassment guidelines |
-| D. Joseph Shine (2018) | 4. s.497 IPC adultery crime struck |
-
-> Note: Row order is **not** the answer.
-
-Select the correct answer using the code given below:
-
-A. A-1, B-2, C-4, D-3
-B. A-2, B-1, C-4, D-3
-C. A-1, B-3, C-2, D-4
-D. A-1, B-2, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** A-1, B-2, C-3, D-4.
-
-**Logic:** Rights-expansion cluster often tested together.
-
-</details>
-
-**Q13.** Arrange: I. Golaknath II. 24th Amendment III. Kesavananda IV. 42nd Amendment
-
-Select the correct chronological answer:
-
-A. I–II–IV–III
-B. I–III–II–IV
-C. II–I–III–IV
-D. I–II–III–IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** 1967 → 1971 → 1973 → 1976.
-
-**Logic:** 24th is before Kesavananda; 42nd after.
-
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Berubari also treated the Preamble as part of the Constitution — a holding Kesavananda later reversed.
-
-Select the correct answer from the code given below:
-
-Reason (R): Berubari (1960) held that ceding Indian territory needs a constitutional amendment.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** A false, R true.
-
-**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Berubari treated Preamble as not part; Kesavananda later held it is part.
-
-</details>
-
-**Q15.** With reference to M.C. Mehta Oleum, which of the following is/are correct?
-
-1. Absolute liability for hazardous industry is stricter than English Rylands strict liability.
-2. Clean environment was read into Article 21.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Only 2
-C. Neither 1 nor 2
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both 1 and 2 are correct.
-
-**Logic:** Absolute liability has no Rylands-style exceptions.
-
-</details>
-
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to Gopalan and Maneka, which of the following statements is/are correct?<br><br>1. Gopalan (1950) read Article 21 as any procedure in a valid law and Fundamental Rights in silos.<br>2. Maneka Gandhi (1978) requires a fair, just and reasonable procedure and reads Articles 14, 19 and 21 together.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct.
+
+**Logic:** This is the core Art. 21 transformation pair.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Golaknath (1967) — Fundamental Rights cannot be amended</div><div class="pyq-opt"><span class="opt-letter">B</span> Golaknath — invented the Basic Structure doctrine</div><div class="pyq-opt"><span class="opt-letter">C</span> Kesavananda (1973) — can amend FR but not Basic Structure</div><div class="pyq-opt"><span class="opt-letter">D</span> 24th Amendment (1971) — Article 13(4); comes before Kesavananda</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Basic Structure is Kesavananda 1973, not Golaknath.
+
+**Logic:** Classic trap: marking Golaknath as Basic Structure.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): ADM Jabalpur (1976) held that habeas corpus fails if Article 21 is suspended in Emergency.<br><br>Reason (R): The 44th Amendment later blocked suspension of Articles 20 and 21; Puttaswamy (2017) said the Jabalpur majority was wrong.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true; R is the later correction, not the reason the 1976 majority held what it held.
+
+**A/R logic:** R states the constitutional and judicial aftermath; it does not explain why the Jabalpur majority ruled as it did.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Shankari Prasad (1951)</td><td><span class="match-key">1</span> FR cannot be amended (6:5)</td></tr>
+      <tr><td><span class="match-key">B</span> Sajjan Singh (1965)</td><td><span class="match-key">2</span> 368 can amend FR</td></tr>
+      <tr><td><span class="match-key">C</span> Golaknath (1967)</td><td><span class="match-key">3</span> Upheld 17th; Mudholkar hint</td></tr>
+      <tr><td><span class="match-key">D</span> Kesavananda (1973)</td><td><span class="match-key">4</span> Basic Structure ceiling (7:6)</td></tr>
+  </tbody>
+</table><br>> Note: Row order is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-2, C-1, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-2, B-3, C-1, D-4.
+
+**Logic:** Four-case order: 1951 → 1965 → 1967 → 1973.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange chronologically: I. Shankari Prasad II. Sajjan Singh III. Golaknath IV. Kesavananda<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> III–II–I–IV</div><div class="pyq-opt"><span class="opt-letter">B</span> I–II–III–IV</div><div class="pyq-opt"><span class="opt-letter">C</span> I–III–II–IV</div><div class="pyq-opt"><span class="opt-letter">D</span> II–I–III–IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1951 → 1965 → 1967 → 1973.
+
+**Logic:** Standard amendment-case chronology.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Judges Cases and NJAC, which of the following is/are correct?<br><br>1. Second Judges (1993) created Collegium (CJI+2); Third Judges (1998) expanded SC Collegium to CJI+4.<br>2. 99th Amendment’s NJAC was upheld unanimously in 2015.<br>3. Golaknath held that Fundamental Rights can never be amended in any manner and overruled all later cases permanently.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Only 1 is correct.
+
+**Logic:** Second Judges (1993) created Collegium (CJI+2); Third Judges (1998) expanded SC Collegium to CJI+4. NJAC was struck on 16 October 2015 (4:1). First Judges gave executive primacy, not judicial primacy.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Bommai and related 356 cases, which of the following is/are correct?<br><br>1. Nabam Rebia (2016) held that a Governor may freely scramble the Assembly calendar to defeat the Speaker.<br>2. Bommai (1994) made Article 356 justiciable and locked majority to the floor test.<br>3. Rameshwar Prasad (2006) struck Bihar dissolution based on a mere fear of horse-trading.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 2 and 3 only are correct.
+
+**Logic:** Nabam Rebia restricts Governor calendar games — statement 3 reverses it.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Navtej Singh Johar (2018) held section 377 IPC unconstitutional for consensual adult sex.<br><br>Reason (R): The case is about Article 377, a transitory CAG provision.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is true; (R) is false.
+
+**A/R logic:** s.377 IPC ≠ Art. 377 (transitory CAG) — a known wording trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-2</span>
+  </div>
+  <div class="pyq-stem">correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Indra Sawhney (1992) — 27% OBC; 50% ceiling; creamy layer; no reservation in promotion</div><div class="pyq-opt"><span class="opt-letter">B</span> 77th Amendment — Article 16(4A) restores SC/ST promotion</div><div class="pyq-opt"><span class="opt-letter">C</span> Kihoto Hollohan (1992) — Tenth Schedule valid; paragraph 7 ouster struck</div><div class="pyq-opt"><span class="opt-letter">D</span> Lily Thomas (2013) — preserved RPA s.8(4) three-month cushion for sitting legislators</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Lily Thomas struck s.8(4)’s cushion; conviction ≥2 years brings immediate DQ under s.8(3).
+
+**Logic:** Immediate disqualification is the holding.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to Ninth Schedule and Coelho, which of the following is/are correct?<br><br>1. Ninth Schedule (1st Amendment, 1951) is a list-shield for laws; Ninth Amendment (1960) is Berubari boundary.<br>2. After 24 April 1973, parking a law in the Ninth Schedule does not save Basic Structure damage (Waman Rao / Coelho).<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct.
+
+**Logic:** Do not swap Schedule and Amendment.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">With reference to Minerva Mills and Indira Gandhi election case, which of the following is/are correct?<br><br>1. Indira Gandhi (1975) struck 39th Amendment election-shield clauses and added Rule of Law/free-fair elections themes.<br>2. Minerva Mills (1980) struck 42nd’s Articles 368(4)/(5) and kept limited amending power / FR–DPSP harmony.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct.
+
+**Logic:** Amendment line continues after Kesavananda.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Puttaswamy (2017)</td><td><span class="match-key">1</span> Privacy = FR under Art. 21</td></tr>
+      <tr><td><span class="match-key">B</span> Shreya Singhal (2015)</td><td><span class="match-key">2</span> IT Act s.66A struck</td></tr>
+      <tr><td><span class="match-key">C</span> Vishaka (1997)</td><td><span class="match-key">3</span> Workplace sexual-harassment guidelines</td></tr>
+      <tr><td><span class="match-key">D</span> Joseph Shine (2018)</td><td><span class="match-key">4</span> s.497 IPC adultery crime struck</td></tr>
+  </tbody>
+</table><br>> Note: Row order is **not** the answer.<br>Select the correct answer using the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">B</span> A-2, B-1, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-1, B-3, C-2, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-1, B-2, C-3, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A-1, B-2, C-3, D-4.
+
+**Logic:** Rights-expansion cluster often tested together.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Arrange: I. Golaknath II. 24th Amendment III. Kesavananda IV. 42nd Amendment<br><br>Select the correct chronological answer:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> I–II–IV–III</div><div class="pyq-opt"><span class="opt-letter">B</span> I–III–II–IV</div><div class="pyq-opt"><span class="opt-letter">C</span> II–I–III–IV</div><div class="pyq-opt"><span class="opt-letter">D</span> I–II–III–IV</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> 1967 → 1971 → 1973 → 1976.
+
+**Logic:** 24th is before Kesavananda; 42nd after.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Berubari also treated the Preamble as part of the Constitution — a holding Kesavananda later reversed.<br><br>Select the correct answer from the code given below:<br><br>Reason (R): Berubari (1960) held that ceding Indian territory needs a constitutional amendment.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> A false, R true.
+
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Berubari treated Preamble as not part; Kesavananda later held it is part.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">With reference to M.C. Mehta Oleum, which of the following is/are correct?<br><br>1. Absolute liability for hazardous industry is stricter than English Rylands strict liability.<br>2. Clean environment was read into Article 21.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Both 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both 1 and 2 are correct.
+
+**Logic:** Absolute liability has no Rylands-style exceptions.</div>
+  </div>
+</div>

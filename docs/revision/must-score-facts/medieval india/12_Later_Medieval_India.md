@@ -155,35 +155,6 @@ hide:
 | **Battle of Buxar** | **22 Oct 1764** | **Hector Munro (EIC)** vs Triple Alliance (Mir Qasim + Shuja-ud-Daulah + Shah Alam II) | **British EIC won** | Truly decisive military battle; established British supremacy over North India |
 | **Battle of Shakar Kheda** | **11 Oct 1724** | **Nizam-ul-Mulk** vs Mubariz Khan (Mughal governor)| **Nizam-ul-Mulk won** | Decisive victory founding the independent Asaf Jahi State of Hyderabad |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Blue Water | Cartaze | Almeida’s ocean monopoly line vs Portuguese sea-pass fee | ब्लू वॉटर / कार्टाज़ |
-| Almeida | Albuquerque | First Viceroy / Blue Water vs real founder / Goa 1510 | अल्मेदा / अल्बुकर्क |
-| Levant | EIC 1600 | 1592 land-route charter vs sea company under Akbar | लेवेंट / ईआईसी |
-| Masulipatnam 1611 | Surat 1613 | Temporary English factory vs first permanent | मसूलिपत्तनम / सूरत |
-| St. Thome | Wandiwash | 1st Carnatic French win vs 1760 British win over Lally | सेंट थॉम / वांडीवाश |
-| Hooghly | Chinsurah | Portuguese piracy base vs Dutch Fort Gustavus | हुगली / चिन्सुरा |
-| Gama | Albuquerque | 1498 Calicut vs 1510 Goa | गामा / अल्बुकर्क |
-| Hawkins | Roe | 1608 trader-envoy vs 1615–19 ambassador | हॉकिन्स / रो |
-| EIC 1600 | VOC 1602 | English charter vs Dutch company | ईआईसी / वीओसी |
-| Cartaze | Farman | Portuguese sea-pass vs Mughal grant | कार्टाज़ / फ़रमान |
-| Pondicherry | Tranquebar | French vs Danish | पांडिचेरी / ट्रैंकेबार |
-| Chandernagore | Serampore | French Bengal vs Danish Bengal | चंद्रनगर / श्रीरामपुर |
-| Surat | Madras vs Calcutta | 1612 / 1640 / ~1698 | सूरत / मद्रास / कलकत्ता |
-| Aix-la-Chapelle | Paris | 1748 1st Carnatic vs 1763 Seven Years’ War | 1748 / 1763 |
-| Dupleix | Clive | French Carnatic vs English Arcot/Plassey | डुप्ले / क्लाइव |
-| Bahadur Shah I | Zafar | 1707 successor of Aurangzeb vs last Mughal 1837–57 | बहादुर शाह I / ज़फ़र |
-| Rangeela | Farrukh Siyar | Muhammad Shah (Peacock Throne / Nadir) vs 1717 Bengal farman | रंगीला / फ़र्रुख़ |
-| Sayyid brothers | Zulfiqar Khan | King-makers vs Jahandar’s kingmaker | सैय्यद / ज़ुल्फ़िक़ार |
-| Nizam | Saadat Khan | Hyderabad 1724 vs Awadh 1722 | निज़ाम / सआदत |
-| 5 Observatories (Delhi, Jaipur, Ujjain, Varanasi, Mathura) | Non-observatory cities (Agra, Allahabad) | Five cities including Mathura; not Allahabad | जय सिंह |
-| Saadat Khan | Murshid Quli | Awadh 1722 vs Bengal Nawabi | सआदत / मुर्शिद क़ुली |
-| Fitch | Bernier | English 1580s vs French Aurangzeb court | फिच / बर्नियर |
-| 1608 | 1611 | Hawkins arrives **1608** vs trap year **1611** | 1608 / 1611 |
-| Awadh 1722 | annex 1856 | Nawabi start vs Dalhousie end | 1722 / 1856 |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **Later Mughal Nicknames Formula (High-Yield UPPCS Match):**
@@ -207,27 +178,23 @@ hide:
    - **S**hah Alam II (Fugitive Mughal Emperor)
    - Defeated by Major **Hector Munro** at Buxar.
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.**
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-Arrange foreign travellers by arrival:
-I. William Hawkins
-II. Ralph Fitch
-III. Sir Thomas Roe
-IV. Nicholas Downton
-
-A. II, I, IV and III
-B. IV, II, I and III
-C. I, III, II and IV
-D. III, II, IV and I
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (II, I, IV and III)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Arrange foreign travellers by arrival:<br>I. William Hawkins<br>II. Ralph Fitch<br>III. Sir Thomas Roe<br>IV. Nicholas Downton</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> II, I, IV and III</div><div class="pyq-opt"><span class="opt-letter">B</span> IV, II, I and III</div><div class="pyq-opt"><span class="opt-letter">C</span> I, III, II and IV</div><div class="pyq-opt"><span class="opt-letter">D</span> III, II, IV and I</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (II, I, IV and III)
 
 **Detailed Explanation:**
 - **II. Ralph Fitch (1585):** Elizabethan merchant-adventurer who visited Fatehpur Sikri and Agra during the reign of Emperor Akbar.
@@ -236,110 +203,88 @@ D. III, II, IV and I
 - **III. Sir Thomas Roe (1615):** Accredited ambassador of James I who resided at Jahangir's court from 1615 to 1619, securing foundational commercial privileges.
 
 **Key Exam Takeaway / Trap:**
-- Sir Thomas Roe is frequently assumed to be the earliest English envoy because of his famous diplomatic diary; however, Ralph Fitch arrived 30 years earlier, Hawkins arrived 7 years earlier, and Downton arrived 1 year earlier.
+- Sir Thomas Roe is frequently assumed to be the earliest English envoy because of his famous diplomatic diary; however, Ralph Fitch arrived 30 years earlier, Hawkins arrived 7 years earlier, and Downton arrived 1 year earlier.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.**
-
-With reference to Captain Hawkins, which of the following statements is/are correct?
-1. He came to India in 1611 as envoy of James I.
-2. He was very well versed in Turkish.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only 2)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to Captain Hawkins, which of the following statements is/are correct?<br>1. He came to India in 1611 as envoy of James I.<br>2. He was very well versed in Turkish.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Only 2)
 
 **Detailed Explanation:**
 - **Statement 1 is incorrect:** Captain William Hawkins arrived at the port of Surat in August **1608** (not 1611) commanding the vessel *Hector*. He reached Jahangir's imperial court at Agra in April **1609** and stayed until November **1611**, when he departed after Portuguese intrigues hindered his mission.
 - **Statement 2 is correct:** Hawkins was fluent in **Turkish**, a language in which Emperor Jahangir was also proficient (the Mughals being of Chagatai Turkic ancestry). Because of this linguistic skill, Hawkins conversed directly with Jahangir without an interpreter, which earned him royal favor, a mansab of 400, and the title *English Khan*.
 
 **Key Exam Takeaway / Trap:**
-- UPPCS created a specific chronological trap: **1611** was the year Hawkins **left** Jahangir's court, not the year he arrived. He arrived in **1608**.
+- UPPCS created a specific chronological trap: **1611** was the year Hawkins **left** Jahangir's court, not the year he arrived. He arrived in **1608**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.**
-
-With reference to the Treaty of Aix-la-Chapelle (1748), which of the following statements is/are correct?
-1. The First Carnatic War ended.
-2. Madras was returned to the English.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Both 1 and 2)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Treaty of Aix-la-Chapelle (1748), which of the following statements is/are correct?<br>1. The First Carnatic War ended.<br>2. Madras was returned to the English.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 only</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Both 1 and 2)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** The Treaty of Aix-la-Chapelle brought an end to the War of the Austrian Succession in Europe, which directly concluded the **First Carnatic War (1746–1748)** in India.
 - **Statement 2 is correct:** Under the terms of mutual restitution of captured territories, **Madras** (which had been captured by the French under Dupleix and La Bourdonnais in 1746 following the Battle of St. Thome / Adyar River) was handed back to the British East India Company. In return, the British restored Louisbourg in North America to France.
 
 **Key Exam Takeaway / Trap:**
-- Always remember that the First Carnatic War did not conclude because of an Indian military outcome, but due to a European peace treaty (**Aix-la-Chapelle, 1748**).
+- Always remember that the First Carnatic War did not conclude because of an Indian military outcome, but due to a European peace treaty (**Aix-la-Chapelle, 1748**).</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.**
-
-With reference to the Treaty of Aix-la-Chapelle (1748), which of the following statements is/are correct?
-1. The First Carnatic War ended.
-2. Madras was returned to the English.
-
-Select the correct answer from the code given below:
-
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Both 1 and 2)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">With reference to the Treaty of Aix-la-Chapelle (1748), which of the following statements is/are correct?<br>1. The First Carnatic War ended.<br>2. Madras was returned to the English.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Neither 1 nor 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Both 1 and 2)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** The First Carnatic War was the Indian theatre of the Austrian War of Succession. The European peace pact—the **Treaty of Aix-la-Chapelle (1748)**—formally concluded hostilities between England and France in India.
 - **Statement 2 is correct:** The treaty mandated the status quo ante bellum: the French surrendered **Madras** back to the English East India Company in exchange for French repossession of Louisbourg in Canada.
 
 **Key Exam Takeaway / Trap:**
-- This exact question was repeated across multiple UPPCS cycles (2020 Q18 and 2025 Q67). Both statements are indisputably correct.
+- This exact question was repeated across multiple UPPCS cycles (2020 Q18 and 2025 Q67). Both statements are indisputably correct.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.**
-
-Arrange the following wars in correct chronological order:
-1. First Anglo-Mysore War
-2. Second Anglo-French War (Second Carnatic War)
-3. First Anglo-Sikh War
-4. First Anglo-Afghan War
-
-Select the correct answer from the code given below:
-
-A. 2, 1, 4, 3
-B. 1, 2, 3, 4
-C. 1, 2, 4, 3
-D. 2, 1, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (2, 1, 4, 3)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the following wars in correct chronological order:<br>1. First Anglo-Mysore War<br>2. Second Anglo-French War (Second Carnatic War)<br>3. First Anglo-Sikh War<br>4. First Anglo-Afghan War<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2, 1, 4, 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1, 2, 3, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1, 2, 4, 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2, 1, 3, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (2, 1, 4, 3)
 
 **Detailed Explanation:**
 - **2. Second Anglo-French War / Second Carnatic War (1749–1754):** Fought over the succession disputes in Hyderabad (Nasir Jung vs Muzaffar Jung) and Carnatic (Anwar-ud-din vs Chanda Sahib); concluded with the Treaty of Pondicherry (1754) and the recall of Dupleix.
@@ -348,29 +293,22 @@ D. 2, 1, 3, 4
 - **3. First Anglo-Sikh War (1845–1846):** Fought following the death of Maharaja Ranjit Singh; concluded with British victory at Sobraon and the Treaty of Lahore (1846) under Lord Hardinge.
 
 **Key Exam Takeaway / Trap:**
-- Chronology anchor: **Second Carnatic (1749–54) $\rightarrow$ First Anglo-Mysore (1767–69) $\rightarrow$ First Anglo-Afghan (1839–42) $\rightarrow$ First Anglo-Sikh (1845–46)**.
+- Chronology anchor: **Second Carnatic (1749–54) $\rightarrow$ First Anglo-Mysore (1767–69) $\rightarrow$ First Anglo-Afghan (1839–42) $\rightarrow$ First Anglo-Sikh (1845–46)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.**
-
-Arrange the following events in correct chronological order:
-1. Acquisition of Awadh by the British
-2. Ilbert Bill Controversy
-3. Indigo Revolt
-4. Second Anglo-Afghan War
-
-Select the correct answer from the code given below:
-
-A. 1, 3, 4, 2
-B. 3, 1, 2, 4
-C. 3, 1, 4, 2
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (1, 3, 4, 2)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Arrange the following events in correct chronological order:<br>1. Acquisition of Awadh by the British<br>2. Ilbert Bill Controversy<br>3. Indigo Revolt<br>4. Second Anglo-Afghan War<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 3, 4, 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 3, 1, 2, 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3, 1, 4, 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 3, 2, 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (1, 3, 4, 2)
 
 **Detailed Explanation:**
 - **1. Acquisition (Annexation) of Awadh (February 1856):** Annexed by Lord Dalhousie on the grounds of alleged misgovernance (*maladministration*), based on the report of Resident James Outram. Nawab Wajid Ali Shah was deposed and exiled to Calcutta.
@@ -379,23 +317,22 @@ D. 1, 3, 2, 4
 - **2. Ilbert Bill Controversy (1883–1884):** Legislative storm during Lord Ripon's viceroyalty over Sir Courtenay Ilbert's bill seeking to empower Indian district magistrates and sessions judges to try European British subjects in criminal cases.
 
 **Key Exam Takeaway / Trap:**
-- Chronology anchor: **Awadh Annexation (1856) $\rightarrow$ Indigo Revolt (1859) $\rightarrow$ Second Afghan War (1878) $\rightarrow$ Ilbert Bill (1883)**.
+- Chronology anchor: **Awadh Annexation (1856) $\rightarrow$ Indigo Revolt (1859) $\rightarrow$ Second Afghan War (1878) $\rightarrow$ Ilbert Bill (1883)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.**
-
-In which year did Vasco da Gama reach Calicut, and who received him?
-
-A. 1492; Albuquerque
-B. 1498; Zamorin
-C. 1502; Almeida
-D. 1510; Krishna Deva Raya
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (1498; Zamorin)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">In which year did Vasco da Gama reach Calicut, and who received him?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1492; Albuquerque</div><div class="pyq-opt"><span class="opt-letter">B</span> 1498; Zamorin</div><div class="pyq-opt"><span class="opt-letter">C</span> 1502; Almeida</div><div class="pyq-opt"><span class="opt-letter">D</span> 1510; Krishna Deva Raya</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (1498; Zamorin)
 
 **Detailed Explanation:**
 - On **20 May 1498**, the Portuguese navigator **Vasco da Gama** arrived at the port of **Calicut (Kappad beach)** on the Malabar coast, guided across the Arabian Sea from Malindi by the Gujarati pilot Abdul Majid (Kanha).
@@ -405,23 +342,22 @@ D. 1510; Krishna Deva Raya
 - **1510:** Afonso de Albuquerque conquered Goa from the Sultan of Bijapur during the reign of Vijayanagara emperor Krishnadevaraya.
 
 **Key Exam Takeaway / Trap:**
-- Anchor date and host: **20 May 1498** at **Calicut**, received by the **Zamorin**.
+- Anchor date and host: **20 May 1498** at **Calicut**, received by the **Zamorin**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.**
-
-The **Blue Water Policy** aimed at Portuguese control of the Indian Ocean trade without excessive territorial conquest. Who framed it?
-
-A. Afonso de Albuquerque
-B. Francisco de Almeida
-C. Nino da Cunha
-D. Vasco da Gama
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Francisco de Almeida)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">The **Blue Water Policy** aimed at Portuguese control of the Indian Ocean trade without excessive territorial conquest. Who framed it?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Afonso de Albuquerque</div><div class="pyq-opt"><span class="opt-letter">B</span> Francisco de Almeida</div><div class="pyq-opt"><span class="opt-letter">C</span> Nino da Cunha</div><div class="pyq-opt"><span class="opt-letter">D</span> Vasco da Gama</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Francisco de Almeida)
 
 **Detailed Explanation:**
 - **Francisco de Almeida (1505–1509):** The first Portuguese Viceroy of the Indies, appointed by King Manuel I. He formulated and executed the strategic doctrine known as the **Blue Water Policy (*Cartaz* / *A política do Mar Alto*)**.
@@ -430,35 +366,47 @@ D. Vasco da Gama
 - **Nino da Cunha (1529–1538):** Transferred the Portuguese administrative capital from Cochin to Goa in 1530.
 
 **Key Exam Takeaway / Trap:**
-- **Blue Water Policy** = **Francisco de Almeida** (1st Viceroy). **Territorial empire & conquest of Goa** = **Afonso de Albuquerque** (2nd Viceroy).
+- **Blue Water Policy** = **Francisco de Almeida** (1st Viceroy). **Territorial empire & conquest of Goa** = **Afonso de Albuquerque** (2nd Viceroy).</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.**
-
-Match **List I** with **List II**:
-
-List I (Navigator)
-A. Vasco da Gama
-B. Christopher Columbus
-C. Captain Cook
-D. Abel Tasman
-
-List II (Country)
-1. Holland
-2. Portugal
-3. Spain
-4. Great Britain
-
-A. A-2, B-3, C-4, D-1
-B. A-3, B-2, C-4, D-1
-C. A-2, B-3, C-1, D-4
-D. A-4, B-1, C-2, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-2, B-3, C-4, D-1)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Match **<br><table class="pyq-match-table">
+  <thead>
+    <tr>
+      <th>List I</th>
+      <th>List II (Country)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="match-key">A</span> Vasco da Gama</td>
+      <td><span class="match-key">1</span> Holland</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">B</span> Christopher Columbus</td>
+      <td><span class="match-key">2</span> Portugal</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">C</span> Captain Cook</td>
+      <td><span class="match-key">3</span> Spain</td>
+    </tr>
+    <tr>
+      <td><span class="match-key">D</span> Abel Tasman</td>
+      <td><span class="match-key">4</span> Great Britain</td>
+    </tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-3, C-4, D-1</div><div class="pyq-opt"><span class="opt-letter">B</span> A-3, B-2, C-4, D-1</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-4, B-1, C-2, D-3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (A-2, B-3, C-4, D-1)
 
 **Detailed Explanation:**
 - **A. Vasco da Gama:** Renowned navigator from **Portugal** (List II: 2) who discovered the sea route to India in 1498.
@@ -467,23 +415,21 @@ D. A-4, B-1, C-2, D-3
 - **D. Abel Tasman:** Seafarer and merchant in the service of the Dutch East India Company (**Holland / United Provinces**) (List II: 1); first European to sight Tasmania and New Zealand in 1642.
 
 **Key Exam Takeaway / Trap:**
-- A standard geographical discovery match in state civil services: Vasco (Portugal), Columbus (Spain), Cook (Britain), Tasman (Holland).
+- A standard geographical discovery match in state civil services: Vasco (Portugal), Columbus (Spain), Cook (Britain), Tasman (Holland).</div>
+</div>
 
-</details>
-
-**Q10.**
-
-Which of the following statements about early Portuguese rule in India is **FALSE**?
-
-A. The first Portuguese factory was established at Cochin in 1503
-B. Afonso de Albuquerque conquered Goa from Bijapur in 1510
-C. Nino da Cunha transferred the headquarters from Cochin to Goa in 1530
-D. Albuquerque conquered Goa in 1515 and made it the capital immediately
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (Albuquerque conquered Goa in 1515 and made it the capital immediately)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">Which of the following statements about early Portuguese rule in India is **FALSE**?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> The first Portuguese factory was established at Cochin in 1503</div><div class="pyq-opt"><span class="opt-letter">B</span> Afonso de Albuquerque conquered Goa from Bijapur in 1510</div><div class="pyq-opt"><span class="opt-letter">C</span> Nino da Cunha transferred the headquarters from Cochin to Goa in 1530</div><div class="pyq-opt"><span class="opt-letter">D</span> Albuquerque conquered Goa in 1515 and made it the capital immediately</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (Albuquerque conquered Goa in 1515 and made it the capital immediately)
 
 **Detailed Explanation:**
 - **Statement D is FALSE (hence the correct answer):** Afonso de Albuquerque captured **Goa** from Ismail Adil Shah of Bijapur in **1510** (not 1515). Furthermore, Albuquerque did not make Goa the official administrative capital immediately; **Cochin** remained the Portuguese capital until **1530**, when Governor **Nino da Cunha** formally transferred the government headquarters to Goa.
@@ -492,23 +438,22 @@ D. Albuquerque conquered Goa in 1515 and made it the capital immediately
 - **Statement C is true:** Nino da Cunha formally relocated the capital from Cochin to Goa in **1530**.
 
 **Key Exam Takeaway / Trap:**
-- Two distinct milestones often confused: **Conquest of Goa** = **1510 (Albuquerque)**; **Capital shifted to Goa** = **1530 (Nino da Cunha)**.
+- Two distinct milestones often confused: **Conquest of Goa** = **1510 (Albuquerque)**; **Capital shifted to Goa** = **1530 (Nino da Cunha)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.**
-
-Which European power used **Hooghly** primarily as a base for piracy in the Bay of Bengal?
-
-A. Dutch
-B. French
-C. Portuguese
-D. English
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Portuguese)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Which European power used **Hooghly** primarily as a base for piracy in the Bay of Bengal?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Dutch</div><div class="pyq-opt"><span class="opt-letter">B</span> French</div><div class="pyq-opt"><span class="opt-letter">C</span> Portuguese</div><div class="pyq-opt"><span class="opt-letter">D</span> English</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Portuguese)
 
 **Detailed Explanation:**
 - In the late 16th and early 17th centuries, the **Portuguese** established a flourishing commercial settlement at **Hooghly** (granted by Emperor Akbar in 1579).
@@ -516,23 +461,22 @@ D. English
 - In **1632**, Mughal Emperor Shah Jahan ordered his Subahdar of Bengal, **Qasim Khan Juvayni**, to lay siege to Hooghly. The Mughals stormed the settlement, destroyed Portuguese shipping, killed over a thousand Portuguese defenders, and took thousands captive to Agra.
 
 **Key Exam Takeaway / Trap:**
-- **Base for piracy in Bay of Bengal = Portuguese at Hooghly**. Expelled by **Shah Jahan (1632)** under Bengal Subahdar **Qasim Khan**.
+- **Base for piracy in Bay of Bengal = Portuguese at Hooghly**. Expelled by **Shah Jahan (1632)** under Bengal Subahdar **Qasim Khan**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.**
-
-Among **Bandel**, **Chinsurah**, **Hooghly**, and **Sriramapur (Serampore)**, which settlement was established by the **Portuguese**?
-
-A. Chinsurah
-B. Sriramapur
-C. Hooghly and Bandel
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Hooghly and Bandel)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Among **Bandel**, **Chinsurah**, **Hooghly**, and **Sriramapur (Serampore)**, which settlement was established by the **Portuguese**?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Chinsurah</div><div class="pyq-opt"><span class="opt-letter">B</span> Sriramapur</div><div class="pyq-opt"><span class="opt-letter">C</span> Hooghly and Bandel</div><div class="pyq-opt"><span class="opt-letter">D</span> None of the above</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Hooghly and Bandel)
 
 **Detailed Explanation:**
 - **Hooghly and Bandel:** Established by the **Portuguese**. The historic Bandel Church (Basilica of the Holy Rosary), built in 1599, is one of the oldest Christian churches in Bengal and was erected by the Portuguese.
@@ -551,23 +495,22 @@ ightarrow$ **Serampore (Sriramapur)**
   - French $
 ightarrow$ **Chandernagore**
   - English $
-ightarrow$ **Calcutta (Sutanuti)**
+ightarrow$ **Calcutta (Sutanuti)</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.**
-
-Who is associated with founding the English settlement that grew into **Calcutta**?
-
-A. Sir Eyre Coote
-B. Gerald Aungier
-C. Job Charnock
-D. Sir Thomas Roe
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Job Charnock)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Who is associated with founding the English settlement that grew into **Calcutta**?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Sir Eyre Coote</div><div class="pyq-opt"><span class="opt-letter">B</span> Gerald Aungier</div><div class="pyq-opt"><span class="opt-letter">C</span> Job Charnock</div><div class="pyq-opt"><span class="opt-letter">D</span> Sir Thomas Roe</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Job Charnock)
 
 **Detailed Explanation:**
 - **Job Charnock:** Chief of the English factory at Kasimbazar and agent of the East India Company. In August **1690**, he negotiated an agreement with the Mughal authorities to establish a permanent English trading post at the swampy village of **Sutanuti** on the Hooghly River.
@@ -576,23 +519,22 @@ D. Sir Thomas Roe
 - **Francis Day:** Founded Madras (Fort St. George) in 1639.
 
 **Key Exam Takeaway / Trap:**
-- City founders: Calcutta = **Job Charnock (1690)**; Bombay = **Gerald Aungier (1669)**; Madras = **Francis Day (1639)**.
+- City founders: Calcutta = **Job Charnock (1690)**; Bombay = **Gerald Aungier (1669)**; Madras = **Francis Day (1639)**.</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.**
-
-India’s first modern **Municipal Corporation** was established under British rule in:
-
-A. Calcutta
-B. Bombay
-C. Madras
-D. Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (Madras)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">India’s first modern **Municipal Corporation** was established under British rule in:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Calcutta</div><div class="pyq-opt"><span class="opt-letter">B</span> Bombay</div><div class="pyq-opt"><span class="opt-letter">C</span> Madras</div><div class="pyq-opt"><span class="opt-letter">D</span> Delhi</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (Madras)
 
 **Detailed Explanation:**
 - The first modern Municipal Corporation in India was established at **Madras** on **29 September 1688** under a Royal Charter issued by King James II in December 1687.
@@ -600,23 +542,22 @@ D. Delhi
 - Municipal corporations for Bombay and Calcutta were established much later under the Charter Act of 1726 (effective 1727).
 
 **Key Exam Takeaway / Trap:**
-- Earliest Municipal Corporation in India = **Madras (1688)**. Do not be misled into choosing Calcutta or Bombay.
+- Earliest Municipal Corporation in India = **Madras (1688)**. Do not be misled into choosing Calcutta or Bombay.</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.**
-
-When the **English East India Company** is **not** an option, which was the first **joint stock company** to trade with India?
-
-A. French East India Company
-B. Dutch East India Company (VOC)
-C. Danish East India Company
-D. Portuguese Estado da India
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Dutch East India Company / VOC)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">When the **English East India Company** is **not** an option, which was the first **joint stock company** to trade with India?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> French East India Company</div><div class="pyq-opt"><span class="opt-letter">B</span> Dutch East India Company (VOC)</div><div class="pyq-opt"><span class="opt-letter">C</span> Danish East India Company</div><div class="pyq-opt"><span class="opt-letter">D</span> Portuguese Estado da India</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Dutch East India Company / VOC)
 
 **Detailed Explanation:**
 - The **Vereenigde Oostindische Compagnie (VOC)** or **Dutch East India Company**, established in **March 1602** by a charter of the States-General of the Netherlands, was the world's first formally organized, publicly listed **joint-stock company** with permanent capital and tradable shares on the Amsterdam Stock Exchange.
@@ -624,6 +565,6 @@ D. Portuguese Estado da India
 - The English East India Company was chartered in December 1600 as a private joint-stock syndicate of London merchants; however, when the English company is omitted from the options, the Dutch VOC (1602) is the definitive correct answer.
 
 **Key Exam Takeaway / Trap:**
-- If English EIC is absent, the answer for the earliest joint-stock commercial trading enterprise in Asia is the **Dutch East India Company (VOC, 1602)**.
-
-</details>
+- If English EIC is absent, the answer for the earliest joint-stock commercial trading enterprise in Asia is the **Dutch East India Company (VOC, 1602)**.</div>
+  </div>
+</div>

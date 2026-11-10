@@ -76,6 +76,19 @@ hide:
 ---
 49. **Critical Minerals List (2023)**: The Mines and Minerals (Development and Regulation) Amendment Act, 2023 empowered the Central Government to auction **24 critical and strategic minerals** including Lithium, Cobalt, Nickel, and Rare Earth Elements (REEs) to secure supply chains for electric vehicles and renewable energy.
 50. **Singrauli vs Singareni (Examiner Trap)**: **Singrauli Coalfield** lies in **Madhya Pradesh and Sonbhadra (Uttar Pradesh)** and is the energy capital feeding NTPC's super thermal plants; **Singareni Collieries Company Limited (SCCL)** operates in the **Godavari Valley of Telangana** (jointly owned by Telangana Govt and GoI).
+51. **Major Mineral Belts of India:** (1) **North-Eastern Peninsular Belt:** Chotanagpur Plateau (Jharkhand), Odisha, West Bengal; richest mineral belt in India ('Mineral Heartland'); deposits of iron ore, coal, manganese, bauxite, mica; (2) **Central Belt:** Chhattisgarh, MP, Andhra Pradesh, Maharashtra; bauxite, iron ore, manganese, limestone; (3) **Southern Belt:** Karnataka, Tamil Nadu; iron ore (Kudremukh, Sandur), bauxite, chromite, lignite coal (Neyveli); (4) **South-Western Belt:** Goa, South Karnataka; iron ore and limestone; (5) **North-Western Belt:** Rajasthan, Gujarat (Aravalli belt); copper (Khetri), zinc/lead (Zawar), gypsum, marble, petroleum (Barmer).
+52. **Iron Ore Deposits & Mines:** Two main commercial ores: **Hematite** (red ore, 60–70% iron, Gondwana rocks) and **Magnetite** (black magnetic ore, >70% iron, Dharwar rocks); leading producer states: (1) **Odisha** (Badampahar, Gurumahisani, Mayurbhanj, Keonjhar), (2) **Chhattisgarh** (Bailadila - highest grade hematite exported to Japan via Visakhapatnam, Dalli-Rajhara), (3) **Karnataka** (Bababudan Hills, Kudremukh, Bellary-Hospet); India ranks **4th globally** in iron ore production.
+53. **Manganese Ore:** Essential for smelting iron ore and steel manufacturing (10 kg manganese needed for 1 ton of steel); leading producer states: (1) **Madhya Pradesh** (Balaghat - Bharveli underground mine), (2) **Maharashtra** (Nagpur-Bhandara belt), (3) **Odisha** (Sundargarh, Keonjhar).
+54. **Bauxite (Aluminium Ore):** Formed by tertiary weathering of aluminous silicate rocks under tropical monsoon climate; leading producer state: **Odisha** (>50% of national production - Panchpatmali hills in Koraput, Kalahandi, Bolangir); other deposits: Lohardaga (Jharkhand), Amarkantak plateau (MP/Chhattisgarh).
+55. **Copper Deposits:** India is severely deficient in domestic copper, meeting >80% through imports; leading producer state: (1) **Madhya Pradesh** (Malanjkhand belt in Balaghat - >50% production), followed by (2) **Rajasthan** (Khetri-Singhana belt in Jhunjhunu), and (3) **Jharkhand** (Singhbhum copper belt: Mosabani, Rakha).
+56. **Lead and Zinc:** Occur together as galena and sphalerite; leading state: **Rajasthan** has near-monopoly (>95% of national reserves and production); major mines: **Zawar mines** (Udaipur), Rampura-Agucha (Bhilwara - world's largest open-cast zinc mine), Rajpura-Dariba; smelting by Hindustan Zinc Ltd.
+57. **Gold Mines in India:** Leading state: **Karnataka** (>98% of gold production); legendary mines: **Kolar Gold Fields (KGF)** (deepest in India, closed 2001) and **Hutti Gold Mines** (Raichur - currently active); also Ramagiri gold field (Anantapur, AP).
+58. **Diamond Mines:** **Panna diamond belt (Madhya Pradesh)** (Majhgawan kimberlite pipe) is the **only active diamond-producing mine in India**; historically famous Golconda diamonds (Koh-i-Noor, Hope Diamond) were recovered from alluvial gravels of Krishna River basin.
+59. **Coal Classification & Indian Coalfields:** Classification by carbon content: **Anthracite** (80–95% carbon - found only in Kalakot, J&K), **Bituminous** (60–80% carbon - dominates Indian coal), **Lignite** (40–55% carbon - 'Brown Coal', found at Neyveli, Tamil Nadu), **Peat** (<40% carbon); (1) **Gondwana Coal:** Accounts for **98% of total coal reserves** and 99% of national coal production; formed 250 million years ago; primarily non-coking thermal coal with high ash content; major basins: **Damodar Valley** (Jharia - premier coking coal mine; Raniganj - oldest coalmine in India, opened 1774), Son Valley (Singrauli), Mahanadi Valley (Talcher), Wardha Valley; (2) **Tertiary Coal:** Formed 55 million years ago; high sulphur content; found in Assam (Makum, Nazira), Meghalaya (rat-hole mining in Cherrapunji), and J&K.
+60. **Petroleum & Natural Gas Basins:** (1) **Oldest Oilfield:** **Digboi (Assam)** discovered in 1889; first modern refinery set up at Digboi in 1901; other Assam fields: Naharkatiya, Moran-Hugrijan; (2) **Offshore Fields:** **Mumbai High** (discovered 1974 by ONGC's drillship *Sagar Samrat*, located 160 km west of Mumbai) is India's largest oil-producing field; Bassein oilfield; (3) **Gujarat Basin:** Ankleshwar ('Gountain of Prosperity'), Cambay, Kalol, Mehsana; (4) **Rajasthan Basin:** **Barmer basin** (Mangala, Bhagyam, and Aishwarya fields); (5) **Krishna-Godavari (KG) Offshore Basin:** Major deepwater natural gas discoveries (KG-D6 block).
+61. **Nuclear Minerals (Uranium & Thorium):** (1) **Uranium:** Found in Dharwar rocks; major underground mines operated by UCIL at **Jaduguda**, Bhatin, and Narwapahar in Singhbhum (Jharkhand); world-class discovery at **Tummalapalle** (Kadapa district, Andhra Pradesh); (2) **Thorium:** World's largest reserves found in **Monazite beach sands of Kerala (Chavara, Kollam)**, Odisha, and Tamil Nadu; central to Stage-3 of India's Three-Stage Nuclear Power Programme.
+62. **Nuclear Power Plants in India:** (1) **Tarapur (Maharashtra):** Oldest nuclear station in India (1969, built with US collaboration); (2) **Rawatbhata / RAPS (Kota, Rajasthan):** Candu-type reactors built with Canadian collaboration; (3) **Kudankulam (Tamil Nadu):** Largest nuclear station (VVER-1000 reactors built with Russian collaboration); (4) **Kalpakkam / MAPS (Tamil Nadu):** Madras Atomic Power Station & Prototype Fast Breeder Reactor (PFBR); (5) **Narora (Bulandshahr, Uttar Pradesh):** Operating on the banks of Ganga; (6) **Kakrapar (Gujarat):** Indigenous 700 MWe PHWR units; (7) **Kaiga (Karnataka):** Near Karwar; (8) Upcoming/Proposed: Jaitapur (Maharashtra), Gorakhpur (Fatehabad, Haryana), Kovvada (Andhra Pradesh), Chutka (MP).
+63. **Non-Conventional Energy Landscape:** (1) **Solar Energy:** National Solar Mission target: leading state: **Rajasthan** (hosts **Bhadla Solar Park**, 2,245 MW, world's largest contiguous solar farm) followed by Gujarat; (2) **Wind Energy:** Exploits coastal and hill winds; leading state: **Tamil Nadu** (hosts **Muppandal Wind Farm** in Kanyakumari district, largest onshore wind farm in India) followed by Gujarat; (3) **Geothermal Energy:** Puga Valley and Chumathang (Ladakh), Manikaran (Parvati Valley, HP), Tattapani (Chhattisgarh); (4) **Tidal Energy:** Gulf of Khambhat and Gulf of Kutch (Gujarat), Sundarbans (WB).
 
 ## ⏱️ Timeline / Chronology
 
@@ -172,26 +185,6 @@ hide:
 | **Firozabad** | Glass bangles and glassware | Small scale glass furnaces | "Suhagnagari" / City of Bangles; uses gas from HBJ pipeline |
 | **Kanpur** | Leather tanning, cotton textiles, footwear | Tannery clusters on Ganga bank | "Manchester of North India"; historical textile hub |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| Pair A | Pair B | Key Difference | Hindi Key |
-|---|---|---|---|
-| **Singrauli** | **Singareni** | Coalfield in **MP and Sonbhadra (UP)** feeding NTPC plants vs Coalfield in **Godavari Valley (Telangana)** run by SCCL | सिंगरौली / सिंगरेनी |
-| **Bailadila** | **Gurumahisani** | World-class hematite iron mine in **Dantewada (Chhattisgarh)** vs iron mine in **Mayurbhanj (Odisha)** | बैलाडिला / गुरुमहिषानी |
-| **MALCO** | **HINDALCO** | Aluminium plant at **Mettur (Tamil Nadu)** vs Aluminium plant at **Renukoot, Sonbhadra (Uttar Pradesh)** | मालको / हिंडाल्को |
-| **BALCO** | **NALCO** | Aluminium plant at **Korba (Chhattisgarh)** vs Aluminium complex at **Angul & Damanjodi (Odisha)** | बाल्को / नाल्को |
-| **Anthracite Coal** | **Lignite Coal** | Hardest coal with >85% carbon & lowest moisture (J&K) vs lowest-grade brown coal with 35–45% carbon & high moisture (Neyveli, TN) | एन्थ्रेसाइट / लिग्नाइट |
-| **Coking Coal** | **Non-Coking Coal** | Essential for blast furnace iron smelting; concentrated in **Jharia (Jharkhand)** vs used for thermal power generation across India | कोकिंग / गैर-कोकिंग कोयला |
-| **CNG (Compressed Natural Gas)** | **LPG (Liquefied Petroleum Gas)** | Composed predominantly of **Methane (CH4)** vs mixture of **Propane and Butane (C3H8 + C4H10)** | सीएनजी / एलपीजी |
-| **Conventional Energy** | **Non-Conventional Energy** | Exhaustible fossil & fissile sources (Coal, Petroleum, Natural Gas, Nuclear) vs renewable replenishment sources (Solar, Wind, Geothermal, Biogas, Tidal) | पारंपरिक / गैर-पारंपरिक ऊर्जा |
-| **Kolar & Hutti** | **Zawar & Rampura-Agucha** | Famous **Gold mines** in Karnataka vs famous **Lead-Zinc-Silver mines** in Rajasthan | कोलार-हट्टी / जावर-रामपुरा |
-| **Panchpatmali** | **Khetri** | India's largest **Bauxite deposit** in Koraput (Odisha) vs famous ancient **Copper mining belt** in Jhunjhunu (Rajasthan) | पंचपतमाली / खेतड़ी |
-| **Digboi** | **Mumbai High** | Oldest oilfield and refinery in India (1901, Assam) vs largest offshore oilfield in India (1974, Arabian Sea) | डिगबोई / बॉम्बे हाई |
-| **Black Revolution** | **Yellow Revolution** | Petroleum and crude oil production enhancement vs Oilseeds production enhancement (Mustard, Sunflower) | कृष्ण क्रांति / पीली क्रांति |
-| **Mangalore–Kanpur Line** | **Mineral Distribution** | Over **90% of India's metallic minerals lie EAST of this diagonal line**; the area west is mostly devoid of major metallic reserves | मंगलुरु-कानपुर रेखा |
-| **Western DFC** | **Eastern DFC** | Dadri (UP) to **JNPT Navi Mumbai** (1,506 km) vs Ludhiana (Punjab) to **Dankuni (West Bengal)** (1,337 km) | पश्चिमी / पूर्वी डीएफसी |
-| **Jaduguda** | **Tummalapalle** | Oldest and premier **Uranium mine** in Singhbhum (Jharkhand) vs massive newly discovered **Uranium deposit** in YSR Kadapa (Andhra Pradesh) | जादूगोड़ा / तुम्मलापल्ले |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 ### 1. Coal Ranks from Lowest to Highest: **P-L-B-A**
@@ -224,375 +217,367 @@ hide:
 - **MALCO**: Mettur (Tamil Nadu)
 - *(Exam Lock: Renukoot uses power from Rihand Dam and bauxite from Lohardaga/Amarkantak)*
 
-## 🎯 High-Yield PYQ Drill
-
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
-
-**Q1.**
-Most of India’s mineral wealth lies:
-
-A. West of the Mangalore–Kanpur line
-B. East of the Mangalore–Kanpur line
-C. Only in the northern alluvial plains
-D. Only in the Thar Desert
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Wealth concentrates **east** of the Mangalore–Kanpur line.
-
-**Logic:** Northern plains are almost devoid of major ores.
-
-</details>
-
-**Q2.**
-With reference to iron ore in India, which of the following pairs is/are correctly matched?
-
-1. Bailadila — Chhattisgarh
-2. Noamundi — Jharkhand
-3. Kudremukh — Odisha
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** **Kudremukh = Karnataka** (magnetite), not Odisha.
-
-</details>
-
-**Q3.**
-Assertion (A): About 97% of India’s coal is Gondwana coal.
-Reason (R): Tertiary coal in India is found mainly in the North-East.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Both are true and R complements the Gondwana dominance story.
-
-**A/R logic:** Damodar–Son–Mahanadi–Godavari hold Gondwana bulk; NE holds most Tertiary coal.
-
-</details>
-
-**Q4.**
-Which one of the following is the main coking-coal field of India in the usual teaching map?
-
-A. Neyveli
-B. Jharia
-C. Maolong
-D. Singrauli
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Jharia (Jharkhand)** is the main coking field.
-
-**Logic:** Neyveli = lignite; Maolong = Meghalaya; Singrauli = largely non-coking thermal coal.
-
-</details>
-
-**Q5.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Mine / centre) | List-II (Mineral) |
-|---|---|
-| 1. Khetri | A. Diamond |
-| 2. Panna | B. Copper |
-| 3. Sukinda | C. Chromite |
-| 4. Jaduguda | D. Uranium |
-
-A. 1-B, 2-A, 3-C, 4-D
-B. 1-A, 2-B, 3-C, 4-D
-C. 1-B, 2-A, 3-D, 4-C
-D. 1-C, 2-A, 3-B, 4-D
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Khetri–Cu; Panna–diamond; Sukinda–chromite; Jaduguda–U.
-
-**Logic:** Row order is not the answer code. Thorium sands are Kerala–TN beaches, not Jaduguda.
-
-</details>
-
-**Q6.**
-HINDALCO’s classic Uttar Pradesh aluminium location is:
-
-A. Kanpur
-B. Renukoot
-C. Moradabad
-D. Firozabad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **HINDALCO Renukoot** is the UP aluminium tag.
-
-**Logic:** Firozabad = glass; Moradabad = brass; Kanpur = textile/leather.
-
-</details>
-
-**Q7.**
-Which energy pair is NOT derived from stored solar energy in the usual prelims framing?
-
-A. Wind and biomass
-B. Nuclear and geothermal
-C. Hydro and wind
-D. Biomass and hydro
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Nuclear** and **geothermal** are the non-solar pair.
-
-**Logic:** Wind/biomass/hydro are solar-linked in standard stems.
-
-</details>
-
-**Q8.**
-Assertion (A): Shivanasamudra is a major nuclear power station of Karnataka.
-Reason (R): Kaiga in Karnataka is a nuclear power station.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** (A) is false; (R) is true.
-
-**A/R logic:** Shivanasamudra is **hydel** on the Cauvery; Kaiga is nuclear.
-
-</details>
-
-**Q9.**
-International Solar Alliance headquarters is at:
-
-A. New Delhi
-B. Paris
-C. Gurugram
-D. Bengaluru
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** ISA HQ is **Gurugram**.
-
-**Logic:** Paris/France is a founding-partner trap; Delhi is the generic capital trap.
-
-</details>
-
-**Q10.**
-With reference to petroleum in India, which of the following statements is/are correct?
-
-1. Digboi is among India’s oldest refineries.
-2. Jamnagar hosts India’s largest refining–petrochemical complex.
-3. Black Revolution refers to oilseeds.
-
-A. 1 and 2
-B. Only 3
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Statements 1 and 2 are correct.
-
-**Logic:** Black Revolution = **petroleum**; Yellow = oilseeds.
-
-</details>
-
-**Q11.**
-Uttar Pradesh’s only nuclear power plant is at:
-
-A. Obra
-B. Anpara
-C. Narora
-D. Rihand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** **Narora** (Bulandshahr) is UP’s only nuclear plant.
-
-**Logic:** Obra / Anpara / Rihand are thermal hubs in the Sonbhadra energy belt.
-
-</details>
-
-**Q12.**
-Magnetite and hematite are correctly contrasted as:
-
-A. Magnetite is most used; hematite is ~70% Fe southern ore
-B. Hematite is most used; magnetite is higher-grade and southern-heavy
-C. Both are found only in Rajasthan marble belts
-D. Both are non-metallic refractories like magnesite
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Hematite = most used; magnetite ≈70% Fe, southern concentration.
-
-**Logic:** Magnesite is MgCO₃ refractory — not an iron ore.
-
-</details>
-
-**Q13.**
-Which one of the following is correctly matched?
-
-A. Maolong coal — Arunachal Pradesh
-B. Neyveli — lignite, Tamil Nadu
-C. Ruhr — Britain
-D. Kashagan oil — Kuwait
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Neyveli = TN lignite.
-
-**Logic:** Maolong = **Meghalaya**; Ruhr = **Germany**; Kashagan = **Kazakhstan**.
-
-</details>
-
-**Q14.**
-Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| List-I (Plant) | List-II (State) |
-|---|---|
-| 1. Bhilai | A. Odisha |
-| 2. Rourkela | B. Chhattisgarh |
-| 3. Bokaro | C. West Bengal |
-| 4. Durgapur | D. Jharkhand |
-
-A. 1-B, 2-A, 3-D, 4-C
-B. 1-A, 2-B, 3-D, 4-C
-C. 1-B, 2-A, 3-C, 4-D
-D. 1-D, 2-A, 3-B, 4-C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Bhilai–CG; Rourkela–OD; Bokaro–JH; Durgapur–WB.
-
-**Logic:** Row order is not the answer code. Bhilai→Odisha is a common swap.
-
-</details>
-
-**Q15.**
-CNG and LPG are correctly distinguished as:
-
-A. CNG — propane/butane; LPG — methane
-B. CNG — methane; LPG — propane/butane
-C. Both are identical methane streams
-D. Both are coal-bed gases only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** CNG = methane; LPG = propane–butane mix.
-
-**Logic:** Swapping the gases is the standard trap.
-
-</details>
-
-**Q16.**
-Assertion (A): Mumbai was traditionally India’s largest cotton textile mill centre.
-Reason (R): Ahmedabad lies in the cotton-growing belt of western India.
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Both true, but R does not by itself prove Mumbai’s mill-centre rank.
-
-**A/R logic:** Belt location ≠ traditional largest mill centre; Mumbai held that rank.
-
-</details>
-
-**Q17.**
-Lithium inferred resources highlighted in recent prelims framing are associated with:
-
-A. Kolar, Karnataka
-B. Reasi, Jammu & Kashmir
-C. Sukinda, Odisha
-D. Zawar, Rajasthan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** **Reasi (J&K)** is the lithium CA / PYQ anchor.
-
-**Logic:** India still imports much Li, Ni, Co despite domestic finds.
-
-</details>
-
-**Q18.**
-Western and Eastern Dedicated Freight Corridors run respectively between:
-
-A. Ludhiana–Dankuni and Dadri–JNPT
-B. Dadri–JNPT and Ludhiana–Dankuni
-C. Delhi–Mumbai and Delhi–Kolkata highway only
-D. Singrauli–Obra and Mathura–Barauni
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Western = **Dadri–JNPT**; Eastern = **Ludhiana–Dankuni**.
-
-**Logic:** DMIC is the industrial corridor; DFC is the freight-rail spine.
-
-</details>
-
-**Q19.**
-Which Uttar Pradesh industry–city pair is correct?
-
-A. Firozabad — brassware
-B. Moradabad — glass bangles
-C. Aligarh — padlocks and hardware
-D. Meerut — aluminium smelting at Renukoot scale
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Aligarh = padlocks / hardware.
-
-**Logic:** Firozabad = glass; Moradabad = brass; Renukoot = aluminium (not Meerut).
-
-</details>
-
-**Q20.**
-Consider the following statements:
-
-1. Dharwar rocks are India’s main metallic mineral storehouse.
-2. Gondwana rocks hold nearly all of India’s coal.
-3. Chota Nagpur is often called India’s Ruhr.
-
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** All three are correct frame facts for the mineral map.
-
-**Logic:** Rock-system vs belt geography is the chapter’s opening spine.
-
-</details>
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
+
+
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Most of India’s mineral wealth lies:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> West of the Mangalore–Kanpur line</div><div class="pyq-opt"><span class="opt-letter">B</span> East of the Mangalore–Kanpur line</div><div class="pyq-opt"><span class="opt-letter">C</span> Only in the northern alluvial plains</div><div class="pyq-opt"><span class="opt-letter">D</span> Only in the Thar Desert</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Wealth concentrates **east** of the Mangalore–Kanpur line.
+
+**Logic:** Northern plains are almost devoid of major ores.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">With reference to iron ore in India, which of the following pairs is/are correctly matched?<br><br>1. Bailadila — Chhattisgarh<br>2. Noamundi — Jharkhand<br>3. Kudremukh — Odisha</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** **Kudremukh = Karnataka** (magnetite), not Odisha.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): About 97% of India’s coal is Gondwana coal.<br>Reason (R): Tertiary coal in India is found mainly in the North-East.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both are true and R complements the Gondwana dominance story.
+
+**A/R logic:** Damodar–Son–Mahanadi–Godavari hold Gondwana bulk; NE holds most Tertiary coal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is the main coking-coal field of India in the usual teaching map?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Neyveli</div><div class="pyq-opt"><span class="opt-letter">B</span> Jharia</div><div class="pyq-opt"><span class="opt-letter">C</span> Maolong</div><div class="pyq-opt"><span class="opt-letter">D</span> Singrauli</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Jharia (Jharkhand)** is the main coking field.
+
+**Logic:** Neyveli = lignite; Maolong = Meghalaya; Singrauli = largely non-coking thermal coal.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Mine / centre)</th><th>List-II (Mineral)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Khetri</td><td><span class="match-key">A</span> Diamond</td></tr>
+      <tr><td><span class="match-key">2</span> Panna</td><td><span class="match-key">B</span> Copper</td></tr>
+      <tr><td><span class="match-key">3</span> Sukinda</td><td><span class="match-key">C</span> Chromite</td></tr>
+      <tr><td><span class="match-key">4</span> Jaduguda</td><td><span class="match-key">D</span> Uranium</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-C, 2-A, 3-B, 4-D</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Khetri–Cu; Panna–diamond; Sukinda–chromite; Jaduguda–U.
+
+**Logic:** Row order is not the answer code. Thorium sands are Kerala–TN beaches, not Jaduguda.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">HINDALCO’s classic Uttar Pradesh aluminium location is:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kanpur</div><div class="pyq-opt"><span class="opt-letter">B</span> Renukoot</div><div class="pyq-opt"><span class="opt-letter">C</span> Moradabad</div><div class="pyq-opt"><span class="opt-letter">D</span> Firozabad</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> HINDALCO Renukoot** is the UP aluminium tag.
+
+**Logic:** Firozabad = glass; Moradabad = brass; Kanpur = textile/leather.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Which energy pair is NOT derived from stored solar energy in the usual prelims framing?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Wind and biomass</div><div class="pyq-opt"><span class="opt-letter">B</span> Nuclear and geothermal</div><div class="pyq-opt"><span class="opt-letter">C</span> Hydro and wind</div><div class="pyq-opt"><span class="opt-letter">D</span> Biomass and hydro</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Nuclear** and **geothermal** are the non-solar pair.
+
+**Logic:** Wind/biomass/hydro are solar-linked in standard stems.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Shivanasamudra is a major nuclear power station of Karnataka.<br>Reason (R): Kaiga in Karnataka is a nuclear power station.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> (A) is false; (R) is true.
+
+**A/R logic:** Shivanasamudra is **hydel** on the Cauvery; Kaiga is nuclear.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">International Solar Alliance headquarters is at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> New Delhi</div><div class="pyq-opt"><span class="opt-letter">B</span> Paris</div><div class="pyq-opt"><span class="opt-letter">C</span> Gurugram</div><div class="pyq-opt"><span class="opt-letter">D</span> Bengaluru</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> ISA HQ is **Gurugram**.
+
+**Logic:** Paris/France is a founding-partner trap; Delhi is the generic capital trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to petroleum in India, which of the following statements is/are correct?<br><br>1. Digboi is among India’s oldest refineries.<br>2. Jamnagar hosts India’s largest refining–petrochemical complex.<br>3. Black Revolution refers to oilseeds.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Statements 1 and 2 are correct.
+
+**Logic:** Black Revolution = **petroleum**; Yellow = oilseeds.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Uttar Pradesh’s only nuclear power plant is at:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Obra</div><div class="pyq-opt"><span class="opt-letter">B</span> Anpara</div><div class="pyq-opt"><span class="opt-letter">C</span> Narora</div><div class="pyq-opt"><span class="opt-letter">D</span> Rihand</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Narora** (Bulandshahr) is UP’s only nuclear plant.
+
+**Logic:** Obra / Anpara / Rihand are thermal hubs in the Sonbhadra energy belt.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Magnetite and hematite are correctly contrasted as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Magnetite is most used; hematite is ~70% Fe southern ore</div><div class="pyq-opt"><span class="opt-letter">B</span> Hematite is most used; magnetite is higher-grade and southern-heavy</div><div class="pyq-opt"><span class="opt-letter">C</span> Both are found only in Rajasthan marble belts</div><div class="pyq-opt"><span class="opt-letter">D</span> Both are non-metallic refractories like magnesite</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Hematite = most used; magnetite ≈70% Fe, southern concentration.
+
+**Logic:** Magnesite is MgCO₃ refractory — not an iron ore.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">Which one of the following is correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Maolong coal — Arunachal Pradesh</div><div class="pyq-opt"><span class="opt-letter">B</span> Neyveli — lignite, Tamil Nadu</div><div class="pyq-opt"><span class="opt-letter">C</span> Ruhr — Britain</div><div class="pyq-opt"><span class="opt-letter">D</span> Kashagan oil — Kuwait</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Neyveli = TN lignite.
+
+**Logic:** Maolong = **Meghalaya**; Ruhr = **Germany**; Kashagan = **Kazakhstan**.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer using the code given below the lists:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Plant)</th><th>List-II (State)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">1</span> Bhilai</td><td><span class="match-key">A</span> Odisha</td></tr>
+      <tr><td><span class="match-key">2</span> Rourkela</td><td><span class="match-key">B</span> Chhattisgarh</td></tr>
+      <tr><td><span class="match-key">3</span> Bokaro</td><td><span class="match-key">C</span> West Bengal</td></tr>
+      <tr><td><span class="match-key">4</span> Durgapur</td><td><span class="match-key">D</span> Jharkhand</td></tr>
+  </tbody>
+</table></div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1-B, 2-A, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">B</span> 1-A, 2-B, 3-D, 4-C</div><div class="pyq-opt"><span class="opt-letter">C</span> 1-B, 2-A, 3-C, 4-D</div><div class="pyq-opt"><span class="opt-letter">D</span> 1-D, 2-A, 3-B, 4-C</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Bhilai–CG; Rourkela–OD; Bokaro–JH; Durgapur–WB.
+
+**Logic:** Row order is not the answer code. Bhilai→Odisha is a common swap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">CNG and LPG are correctly distinguished as:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> CNG — propane/butane; LPG — methane</div><div class="pyq-opt"><span class="opt-letter">B</span> CNG — methane; LPG — propane/butane</div><div class="pyq-opt"><span class="opt-letter">C</span> Both are identical methane streams</div><div class="pyq-opt"><span class="opt-letter">D</span> Both are coal-bed gases only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> CNG = methane; LPG = propane–butane mix.
+
+**Logic:** Swapping the gases is the standard trap.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q16</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">Assertion (A): Mumbai was traditionally India’s largest cotton textile mill centre.<br>Reason (R): Ahmedabad lies in the cotton-growing belt of western India.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Both true, but R does not by itself prove Mumbai’s mill-centre rank.
+
+**A/R logic:** Belt location ≠ traditional largest mill centre; Mumbai held that rank.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q17</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Lithium inferred resources highlighted in recent prelims framing are associated with:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Kolar, Karnataka</div><div class="pyq-opt"><span class="opt-letter">B</span> Reasi, Jammu & Kashmir</div><div class="pyq-opt"><span class="opt-letter">C</span> Sukinda, Odisha</div><div class="pyq-opt"><span class="opt-letter">D</span> Zawar, Rajasthan</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Reasi (J&K)** is the lithium CA / PYQ anchor.
+
+**Logic:** India still imports much Li, Ni, Co despite domestic finds.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q18</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Western and Eastern Dedicated Freight Corridors run respectively between:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Ludhiana–Dankuni and Dadri–JNPT</div><div class="pyq-opt"><span class="opt-letter">B</span> Dadri–JNPT and Ludhiana–Dankuni</div><div class="pyq-opt"><span class="opt-letter">C</span> Delhi–Mumbai and Delhi–Kolkata highway only</div><div class="pyq-opt"><span class="opt-letter">D</span> Singrauli–Obra and Mathura–Barauni</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Western = **Dadri–JNPT**; Eastern = **Ludhiana–Dankuni**.
+
+**Logic:** DMIC is the industrial corridor; DFC is the freight-rail spine.</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q19</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which Uttar Pradesh industry–city pair is correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Firozabad — brassware</div><div class="pyq-opt"><span class="opt-letter">B</span> Moradabad — glass bangles</div><div class="pyq-opt"><span class="opt-letter">C</span> Aligarh — padlocks and hardware</div><div class="pyq-opt"><span class="opt-letter">D</span> Meerut — aluminium smelting at Renukoot scale</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Aligarh = padlocks / hardware.
+
+**Logic:** Firozabad = glass; Moradabad = brass; Renukoot = aluminium (not Meerut).</div>
+  </div>
+</div>
+
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q20</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements:<br><br>1. Dharwar rocks are India’s main metallic mineral storehouse.<br>2. Gondwana rocks hold nearly all of India’s coal.<br>3. Chota Nagpur is often called India’s Ruhr.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> All three are correct frame facts for the mineral map.
+
+**Logic:** Rock-system vs belt geography is the chapter’s opening spine.</div>
+  </div>
+</div>

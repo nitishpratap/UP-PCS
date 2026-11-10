@@ -73,6 +73,16 @@ hide:
 48. **War of Succession Chronology (1658–1659 CE):** Strict sequence of decisive battles: **Bahadurpur** (Feb 1658) → **Dharmat** (Apr 1658) → **Samugarh** (May 1658) → **Khajwa** (Jan 1659) → **Deorai** (Mar 1659).
 49. **Hindu Nobles under Aurangzeb:** In contrast to popular perception, the proportion of Hindu mansabdars reached its **highest imperial peak of 31.6% to 33% under Aurangzeb** (compared to ~22.5% under Akbar), largely due to the induction of Maratha nobles following Deccan conquests.
 50. **Mughal Imperial Administrative Core (Mir Bakhshi vs Mir Saman):** **Mir Bakhshi (मीर बख्शी)** was the military administrative chief who signed salary pay-orders (**Sarkhat**) and inspected troops; **Mir Saman (मीर सामाँ)** was in charge of the imperial royal household, stores, and manufacturing workshops (**Karkhanas**).
+51. **Babur (1526–1530) - Battle Master:** Descendant of Timur (father's side) and Genghis Khan (mother's side); defeated Ibrahim Lodi in the **First Battle of Panipat (21 April 1526)** using innovative **Tulghuma tactic** (flanking movement) and **Araba / Rumi system** (chaining carts for gun carriages) directed by gunner **Ustad Ali** and matchlock specialist **Mustafa**; defeated Rana Sanga of Mewar at **Battle of Khanwa (1527)** (declared holy war / *Jihad* and assumed title of **Ghazi**); defeated Medini Rai at Battle of Chanderi (1528); defeated Afghan confederacy at Battle of Ghaghra (1529); authored candid autobiography **Tuzuk-i-Baburi (Baburnama)** in Chaghatai Turkish; laid out formal Persian four-fold gardens (**Charbagh**) such as Aram Bagh (Agra).
+52. **Humayun (1530–40 & 1555–56):** Founded imperial city **Dinpanah** at Delhi (1533); defeated by Sher Shah Suri in **Battle of Chausa (26 June 1539)** on the banks of Karmanasa River (water carrier Nizam rescued drowning Humayun on inflated goatskin and was rewarded with half-day kingship); completely routed by Sher Shah at **Battle of Kannauj / Bilgram (17 May 1540)** and driven into 15-year exile in Persia; recaptured Delhi in 1555 with Safavid military aid after defeating Sikandar Suri at Battle of Sirhind; died within 6 months on **24 January 1556** falling down the stairs of his library, **Sher Mandal** (in Purana Qila, Delhi); historian Stanley Lane-Poole remarked: *'Humayun tumbled through life, and tumbled out of it'*; his biography **Humayun-nama** was written in Persian by his half-sister **Gulbadan Begum**.
+53. **Akbar's Accession & Second Battle of Panipat (1556):** Coronated at **Kalanaur (Gurdaspur, Punjab)** on a brick platform at age 13 on 14 February 1556; regent was **Bairam Khan (Khan-i-Khanan)**; **Second Battle of Panipat (5 November 1556):** Mughal army under Bairam Khan defeated the Afghan general **Hemu (Hemchandra Vikramaditya)**, who had captured Agra and Delhi and declared himself Raja Vikramaditya; an arrow pierced Hemu's eye turning the tide of battle.
+54. **Akbar's Conciliatory Social Reforms:** Ended Regent Bairam Khan's dominance (1560) and Petticoat Government under Maham Anaga (1560–62); abolished enslavement of war prisoners (1562); abolished discriminatory **Pilgrim Tax** on Hindu shrines (1563); abolished **Jizya tax** on non-Muslim subjects (1564); concluded landmark matrimonial alliance with **Raja Bharmal (Bihari Mal) of Amer (Jaipur)** in 1562, marrying his eldest daughter **Harkha Bai (Mariam-uz-Zamani)**; appointed Rajputs to apex civilian and military ranks (Raja Man Singh, Raja Bhagwant Das, Raja Todar Mal).
+55. **Akbar's Religious Evolution & Din-i-Ilahi:** Built **Ibadat Khana (House of Worship)** at Fatehpur Sikri in 1575 for theological debates; opened to scholars of all faiths in 1578 (Purushottam & Devi [Hindus], Meherji Rana [Zoroastrian], Father Monserrate & Aquaviva [Christians], Hira Vijaya Suri & Vijayasena Suri [Jains - conferred title of *Jagatguru*]); promulgated **Mahzar / Infallibility Decree (September 1579)** drafted by Sheikh Mubarak (declaring Akbar the *Imam-i-Adil* with supreme authority to arbitrate Islamic disputes); propounded policy of **Sulh-i-Kul** (Universal Peace and Tolerance); founded syncretic ethical order **Tawhid-i-Ilahi / Din-i-Ilahi (1582)** (only 18 court nobles accepted it, with **Birbal** being the only Hindu member).
+56. **Mansabdari System:** Unique administrative and military framework introduced by Akbar in 1571; dual rank system: (1) **Zat:** Determined personal status, seniority, and salary; (2) **Sawar:** Determined the number of cavalrymen and horses a noble was required to maintain; three classes of mansabdars based on ratio of Sawar to Zat; salaries paid in cash (*Naqd*) or through revenue assignments (*Jagir*); Jahangir later introduced **Du-aspa Sih-aspa** (allowing a mansabdar to maintain double/triple the number of sawars without changing Zat rank).
+57. **Todar Mal's Bandobast / Dahsala System (1580):** Conceived by Finance Minister **Raja Todar Mal**; calculated the average produce and average prices of different crops over the **preceding 10 years (1570–1580)**; state share fixed at **one-third (1/3rd)** of average yield, payable in cash; land classified into four categories based on cultivation frequency: (1) **Polaj** (cultivated every year, never left fallow); (2) **Parauti** (left fallow for 1–2 years to recover fertility); (3) **Chachar** (left fallow for 3–4 years); (4) **Banjar** (uncultivated for 5 or more years); introduced standard measuring rod: bamboo rod joined with iron rings called **Tanab** replacing hemp rope.
+58. **Navaratnas of Akbar's Court:** (1) **Abul Fazl** (Court chronicler; authored *Akbarnama* and *Ain-i-Akbari*; murdered in 1602 by Bir Singh Bundela at prince Salim's instigation); (2) **Faizi** (Poet laureate, translated Bhaskaracharya's mathematical work *Lilavati* into Persian); (3) **Tansen** (Musical genius born Ramtanu Pandey; court musician, created ragas like Darbari Kanada, Miyan ki Todi); (4) **Birbal** (Mahesh Das; royal advisor and wit; killed fighting Yusufzai tribes in NWFP 1586); (5) **Raja Todar Mal** (Finance genius); (6) **Raja Man Singh** (Apex military commander); (7) **Abdur Rahim Khan-i-Khanan** (Son of Bairam Khan, celebrated Hindi poet and translated Baburnama into Persian); (8) **Fakir Aziao-Din** (Mystic advisor); (9) **Mullah Do-Piyaza** (Royal councilor).
+59. **Shah Jahan (1628–1658) - Golden Age of Architecture:** Reigned over apex architectural grandeur; built **Taj Mahal at Agra (1631–1648)** as mausoleum for beloved queen Arjumand Banu Begum (Mumtaz Mahal) - designed by **Ustad Ahmad Lahori** and calligraphed by Amanat Khan Shirazi; built **Moti Masjid** (Pearl Mosque) inside Agra Fort entirely in white marble; shifted capital from Agra to Delhi in 1638, constructing **Shahjahanabad**, the **Red Fort (Lal Qila)**, and the **Jama Masjid**; commissioned the opulent **Peacock Throne (Takht-i-Taus)** studded with the Koh-i-Noor diamond (crafted by Bebadal Khan; looted by Nadir Shah in 1739); war of succession broke out in 1657 among 4 sons: Dara Shikoh, Shuja, Aurangzeb, and Murad Bakhsh; Aurangzeb defeated Dara Shikoh at **Battle of Samugarh (May 1658)** and **Battle of Deorai (1659)**; Shah Jahan was imprisoned inside Agra Fort until his death in 1666.
+60. **Aurangzeb 'Alamgir' (1658–1707):** Assumed titles *Alamgir* ('World Conqueror') and **Zinda Pir** ('Living Saint') for personal austerity; discontinued practice of *Jharokha Darshan* and celebration of Persian Nauroz; banned music and dance at court (though he himself was an accomplished player of the **Veena**); banned cultivation of bhang and liquor; appointed moral censors (**Muhtasibs**) to enforce Sharia; reimposed **Jizya tax in 1679**; executed 9th Sikh Guru, **Guru Tegh Bahadur** at Chandni Chowk, Delhi in 1675; built **Bibi Ka Maqbara** at Aurangabad (tomb of queen Dilras Banu Begum / Rabia-ud-Daurani, termed 'Poor Replica of Taj Mahal') and **Badshahi Mosque** at Lahore; annexed Bijapur (1686) and Golconda (1687); spent last 25 years bogged down in Deccan wars against Marathas ('Deccan Ulcer ruined Aurangzeb just as Spanish Ulcer ruined Napoleon'); died at Ahmadnagar on **3 March 1707**.
 
 ## ⏱️ Timeline / Chronology
 
@@ -182,29 +192,6 @@ hide:
 | **Chachar (चाचर)** | Left uncultivated/fallow for 3 or 4 consecutive years | Progressive concessional rates for first 3 years of recultivation |
 | **Banjar (बंजर)** | Uncultivated for 5 or more years (least fertile/waste land) | Highly nominal concessional rates in cash/kind to encourage reclamation |
 
-## ⚡ Confused Pairs & Common Examiner Traps
-
-| A | B | Difference | Hindi |
-|---|---|------------|-------|
-| Panipat I | II vs III | 1526 Babur–Ibrahim; 1556 Akbar–Hemu; 1761 Marathas–Abdali | पानीपत I / II / III |
-| Chausa | Kannauj | 1539 Humayun escaped; 1540 decisive Sher Shah win | चौसा / कन्नौज |
-| Daurah | Dharmat | **1532** Humayun vs Afghans; **Apr 1658** Aurangzeb vs Jaswant Singh | दौराह / धर्मत |
-| Dharmat | Samugarh | Apr 1658 Jaswant Singh; May 1658 Dara defeated | धर्मत / समुगढ़ |
-| Zabt | Dahsala | Measurement-based assessment vs 10-year average yield | ज़ब्त / दहसाला |
-| Zat | Sawar | Personal rank vs cavalry obligation | ज़ात / सवार |
-| Jagir | Khalsa | Assigned to mansabdars vs crown land | जागीर / खालसा |
-| Sulh-i-Kul | Din-i-Ilahi | Universal peace policy vs 1582 small court cult | सुलह-ए-कुल / दीन-ए-इलाही |
-| Akbarnama | Ain-i-Akbari | Narrative history vs admin gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
-| Buland Darwaza | Panch Mahal | Gujarat victory gate vs five-storey palace at Sikri | बुलंद दरवाज़ा / पंच महल |
-| Padshah at Kabul | after Panipat | **1504 Kabul** title vs **27 April 1526** Indian empire proclamation | काबुल पादशाह / पानीपत |
-| Chagatai | Timurid claim | Ethnic **Chagatai Turk** line vs **Timur** descent for legitimacy | चगताई / तैमूर |
-| Alam Khan | Daulat Khan | Ibrahim's **uncle**/pretender vs Punjab governor invite | आलम खान / दौलत खान |
-| Bairam Khan | Rahim | Regent; **Khan-i-Khana from Akbar** vs son, Hindi poet | बैरम खान / रहीम |
-| Dara | Aurangzeb | Scholar, syncretic; orthodox, won 1658 | दारा / औरंगज़ेब |
-| Balkh failure | Deccan annexation | Shah Jahan’s **1646–47** prestige flop vs Aurangzeb’s **Bijapur 1686 / Golkonda 1687** | बल्ख / दक्कन |
-| Bahadur Shah I | Zafar | **1707** successor of Aurangzeb vs **last** Mughal **1837–57** | बहादुर शाह I / ज़फ़र |
-| Rangeela | Farrukhsiyar | **Nadir / Peacock Throne 1739** vs **1717** Company farman + Sayyid peak | रंगीला / फ़र्रुख़ |
-
 ## 🧠 Memory Anchors & Mnemonics
 
 1. **The Six Great Mughals Succession Order: B–H–A–J–S–A**
@@ -245,25 +232,23 @@ hide:
    - **Bahadur Shah II Zafar:** Buried in **Yangon / Rangoon** (Myanmar).
    - *All other Great Mughals (Humayun, Akbar, Shah Jahan, Aurangzeb) are buried in India.*
 
-## 🎯 High-Yield PYQ Drill
+## 🎯 High-Yield PYQ Drill (UPPCS & UP RO/ARO)
 
-> **Mastery Rule:** Read the consolidated facts above, attempt these high-yield questions, and score &ge;80% to conquer this chapter.
 
-**Q1.** With reference to the First Battle of Panipat (1526), which of the following statements is/are correct?
+> **Exam Drill Rule:** High-yield authentic UPPCS & UP RO/ARO questions. Attempt actively; verify against the prominent Memory Lock box below each question.
 
-1. Babur used the Tulghuma (flanking) tactical formation.
-2. Babur’s artillery was commanded by Ustad Ali and Mustafa.
-3. Ibrahim Lodi was killed on the battlefield.
-
-A. 1 and 2
-B. 2 and 3
-C. Only 1
-D. All 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (All 1, 2 and 3 are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q1</span>
+    <span class="pyq-badge">UPPCS Prelims 2025</span>
+  </div>
+  <div class="pyq-stem">With reference to the First Battle of Panipat (1526), which of the following statements is/are correct?<br><br>1. Babur used the Tulghuma (flanking) tactical formation.<br>2. Babur’s artillery was commanded by Ustad Ali and Mustafa.<br>3. Ibrahim Lodi was killed on the battlefield.</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">B</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> All 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** In the First Battle of Panipat (21 April 1526 CE), Babur effectively employed the **Tulghuma** tactic (dividing his army into flanking parties that encircled the enemy flanks and attacked them from the rear) combined with the **Araba** method (chaining carts together with rawhide ropes to form a protective cart-barrier for matchlockmen).
@@ -271,30 +256,22 @@ D. All 1, 2 and 3
 - **Statement 3 is correct:** Sultan Ibrahim Lodi died fighting heroically on the battlefield alongside 15,000 of his soldiers, making him the only Sultan of Delhi to be slain directly in battle. Babur later erected a tomb for him at Panipat.
 
 **Key Exam Takeaway / Trap:**
-- *Tactical Innovations:* Babur introduced both **Tulghuma** (flanking envelopment) and gunpowder artillery (**Rumi / Araba system**) to north India at the First Battle of Panipat.
+- *Tactical Innovations:* Babur introduced both **Tulghuma** (flanking envelopment) and gunpowder artillery (**Rumi / Araba system**) to north India at the First Battle of Panipat.</div>
+  </div>
+</div>
 
-</details>
-
-**Q2.** Consider the following pairs:
-
-| Ruler | Tomb Location |
-|-------|---------------|
-| 1. Babur | Kabul |
-| 2. Jahangir | Lahore |
-| 3. Akbar | Sikandra (Agra) |
-| 4. Aurangzeb | Khuldabad |
-
-Which of the pairs given above are correctly matched?
-
-A. 1, 2 and 3
-B. 2, 3 and 4
-C. 1 and 3
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (All 1, 2, 3 and 4 are correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q2</span>
+    <span class="pyq-badge">UPPCS Prelims 2024</span>
+  </div>
+  <div class="pyq-stem">Consider the following pairs:<br><br>| Ruler | Tomb Location |<br>|-------|---------------|<br>| 1. Babur | Kabul |<br>| 2. Jahangir | Lahore |<br>| 3. Akbar | Sikandra (Agra) |<br>| 4. Aurangzeb | Khuldabad |<br><br>Which of the pairs given above are correctly matched?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2, 3 and 4</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2, 3 and 4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (All 1, 2, 3 and 4 are correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** Babur died in Agra (1530 CE) but was later interred according to his personal wish in **Bagh-e-Babur** in **Kabul** (Afghanistan).
@@ -303,25 +280,22 @@ D. 1, 2, 3 and 4
 - **Pair 4 is correctly matched:** Aurangzeb died at Ahmadnagar (1707 CE) and, by his own humble decree, was buried in an open-air simple dirt grave in the courtyard of Sufi saint Shaikh Zainuddin Shirazi at **Khuldabad** (near Aurangabad, Maharashtra).
 
 **Key Exam Takeaway / Trap:**
-- *Foreign Soil Burials:* Remember that **Babur** (Kabul) and **Jahangir** (Lahore) are buried outside modern India.
+- *Foreign Soil Burials:* Remember that **Babur** (Kabul) and **Jahangir** (Lahore) are buried outside modern India.</div>
+  </div>
+</div>
 
-</details>
-
-**Q3.** Which of the following pairs is/are NOT correctly matched?
-
-1. Zat — personal rank and basic salary
-2. Sawar — number of cavalrymen required to be maintained
-3. Zat — cavalry obligation alone
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1 and 2 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3 only is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q3</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Zat — personal rank and basic salary<br>2. Sawar — number of cavalrymen required to be maintained<br>3. Zat — cavalry obligation alone</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 and 2 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3 only is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** In the Mansabdari system, **Zat** indicated the personal status, prestige, and basic salary of the noble in the imperial hierarchy.
@@ -329,55 +303,44 @@ D. 1 and 2 only
 - **Pair 3 is NOT correctly matched (Correct Answer):** Stating that *Zat* is "cavalry obligation alone" completely reverses the definitions. *Zat* is personal rank; *Sawar* is the cavalry obligation.
 
 **Key Exam Takeaway / Trap:**
-- *Zat vs Sawar:* **Zat** = Personal status, precedence, and salary; **Sawar** = Military cavalry quota. A noble's Sawar rank could never exceed his Zat rank.
+- *Zat vs Sawar:* **Zat** = Personal status, precedence, and salary; **Sawar** = Military cavalry quota. A noble's Sawar rank could never exceed his Zat rank.</div>
+  </div>
+</div>
 
-</details>
-
-**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Turki was the official language of the Mughal court.
-
-Reason (R): Babur wrote the Baburnama (Tuzk-e-Babri) in Chagatai Turki.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** ((A) is false, but (R) is true)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q4</span>
+    <span class="pyq-badge">UPPCS Prelims 2023</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Turki was the official language of the Mughal court.<br><br>Reason (R): Babur wrote the Baburnama (Tuzk-e-Babri) in Chagatai Turki.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** ((A) is false, but (R) is true)
 
 **Detailed Explanation:**
 - **Assertion (A) is completely false:** Turki was never the official language of the Mughal imperial administration. **Persian** was the sole official language of the court, chanceries, revenue documentation, and judicial proceedings across the empire.
 - **Reason (R) is completely true:** Babur composed his celebrated autobiography *Tuzk-e-Babri* (*Baburnama*) in his native **Chagatai Turki**.
 
 **Key Exam Takeaway / Trap:**
-- *Court Language Continuity:* Persian was the unbroken administrative language of both the Delhi Sultanate and Mughal Empire. Babur's *Baburnama* is a personal literary work, not proof of state language policy.
+- *Court Language Continuity:* Persian was the unbroken administrative language of both the Delhi Sultanate and Mughal Empire. Babur's *Baburnama* is a personal literary work, not proof of state language policy.</div>
+  </div>
+</div>
 
-</details>
-
-**Q5.** Arrange the following battles in chronological order:
-
-1. Kannauj (Bilgram)
-2. Daurah
-3. Samugarh
-4. Chausa
-
-Select the correct answer from the code given below:
-
-A. 4-2-1-3
-B. 2-4-1-3
-C. 2-4-3-1
-D. 4-2-3-1
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (2-4-1-3: Daurah → Chausa → Kannauj → Samugarh)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q5</span>
+    <span class="pyq-badge">UPPCS Prelims 2022</span>
+  </div>
+  <div class="pyq-stem">Arrange the following battles in chronological order:<br><br>1. Kannauj (Bilgram)<br>2. Daurah<br>3. Samugarh<br>4. Chausa<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 4-2-1-3</div><div class="pyq-opt"><span class="opt-letter">B</span> 2-4-1-3</div><div class="pyq-opt"><span class="opt-letter">C</span> 2-4-3-1</div><div class="pyq-opt"><span class="opt-letter">D</span> 4-2-3-1</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (2-4-1-3: Daurah → Chausa → Kannauj → Samugarh)
 
 **Detailed Explanation:**
 - **2. Battle of Daurah (1532 CE):** Humayun defeated Mahmud Lodi and Sher Khan in Barabanki district, UP.
@@ -387,27 +350,22 @@ D. 4-2-3-1
 - **Chronological Sequence:** 2 → 4 → 1 → 3 = **2-4-1-3**.
 
 **Key Exam Takeaway / Trap:**
-- *Chronology Spine:* Daurah (1532) → Chausa (1539) → Kannauj (1540) → Samugarh (1658).
+- *Chronology Spine:* Daurah (1532) → Chausa (1539) → Kannauj (1540) → Samugarh (1658).</div>
+  </div>
+</div>
 
-</details>
-
-**Q6.** With reference to Akbar’s policies, which of the following statements is/are correct?
-
-1. Sulh-i-Kul was a universal peace policy.
-2. Din-i-Ilahi (1582) remained a small court circle.
-3. Akbar abolished jizya in 1564 and Aurangzeb reimposed it in 1679.
-
-Select the correct answer from the code given below:
-
-A. 2 and 3
-B. Only 1
-C. 1 and 2
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (All 1, 2 and 3 are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q6</span>
+    <span class="pyq-badge">UP RO/ARO Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">With reference to Akbar’s policies, which of the following statements is/are correct?<br><br>1. Sulh-i-Kul was a universal peace policy.<br>2. Din-i-Ilahi (1582) remained a small court circle.<br>3. Akbar abolished jizya in 1564 and Aurangzeb reimposed it in 1679.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** **Sulh-i-Kul** ("Peace with All" / "Universal Peace") was the overarching philosophical principle of Akbar's empire, guaranteeing religious freedom, mutual coexistence, and state protection to all communities.
@@ -415,30 +373,32 @@ D. 1, 2 and 3
 - **Statement 3 is correct:** Akbar abolished the pilgrim tax in 1563 CE and the discriminatory **Jizya** tax on non-Muslims in 1564 CE. Aurangzeb reimposed Jizya throughout the empire in **1679 CE**.
 
 **Key Exam Takeaway / Trap:**
-- *Crucial Distinction:* **Sulh-i-Kul** was state policy of universal tolerance; **Din-i-Ilahi** was an elite personal code of ethical discipleship.
+- *Crucial Distinction:* **Sulh-i-Kul** was state policy of universal tolerance; **Din-i-Ilahi** was an elite personal code of ethical discipleship.</div>
+  </div>
+</div>
 
-</details>
-
-**Q7.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (Battle) | List-II (Year / tag) |
-|-----------------|----------------------|
-| A. Khanwa | 1. 1556 — Akbar–Bairam vs Hemu |
-| B. Second Panipat | 2. 1527 — Babur vs Rana Sanga |
-| C. Dharmat | 3. Apr 1658 — Aurangzeb vs Jaswant Singh |
-| D. Jajau | 4. 1707 — Bahadur Shah I vs Azam |
-
-*Row order is not the answer code.*
-
-A. A-2, B-1, C-3, D-4
-B. A-1, B-2, C-4, D-3
-C. A-2, B-3, C-1, D-4
-D. A-3, B-1, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (A-2, B-1, C-3, D-4)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q7</span>
+    <span class="pyq-badge">UPPCS Prelims 2021</span>
+  </div>
+  <div class="pyq-stem">Match List-I with List-II and select the correct answer from the code given below:<br><table class="pyq-match-table">
+  <thead>
+    <tr><th>List-I (Battle)</th><th>List-II (Year / tag)</th></tr>
+  </thead>
+  <tbody>
+      <tr><td><span class="match-key">A</span> Khanwa</td><td><span class="match-key">1</span> 1556 — Akbar–Bairam vs Hemu</td></tr>
+      <tr><td><span class="match-key">B</span> Second Panipat</td><td><span class="match-key">2</span> 1527 — Babur vs Rana Sanga</td></tr>
+      <tr><td><span class="match-key">C</span> Dharmat</td><td><span class="match-key">3</span> Apr 1658 — Aurangzeb vs Jaswant Singh</td></tr>
+      <tr><td><span class="match-key">D</span> Jajau</td><td><span class="match-key">4</span> 1707 — Bahadur Shah I vs Azam</td></tr>
+  </tbody>
+</table><br>*Row order is not the answer code.*</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> A-2, B-1, C-3, D-4</div><div class="pyq-opt"><span class="opt-letter">B</span> A-1, B-2, C-4, D-3</div><div class="pyq-opt"><span class="opt-letter">C</span> A-2, B-3, C-1, D-4</div><div class="pyq-opt"><span class="opt-letter">D</span> A-3, B-1, C-2, D-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (A-2, B-1, C-3, D-4)
 
 **Detailed Explanation:**
 - **A. Battle of Khanwa → 2. 1527 CE:** Babur defeated Rana Sanga of Mewar and his Rajput-Afghan confederacy near Fatehpur Sikri.
@@ -447,27 +407,22 @@ D. A-3, B-1, C-2, D-4
 - **D. Battle of Jajau → 4. June 1707 CE:** Bahadur Shah I defeated his brother Prince Azam Shah to claim the throne after Aurangzeb's death.
 
 **Key Exam Takeaway / Trap:**
-- *Matching Code:* A-2, B-1, C-3, D-4 (**Option A**).
+- *Matching Code:* A-2, B-1, C-3, D-4 (**Option A**).</div>
+  </div>
+</div>
 
-</details>
-
-**Q8.** With reference to the Battle of Khanwa (1527), consider Cause–Course–Result:
-
-1. Cause: Rana Sanga led a Rajput confederacy after Panipat.
-2. Course: Babur again used artillery and cart-fort methods.
-3. Result: The early Rajput challenge to Mughal power in the Agra–Delhi core was broken.
-
-Which of the statements given above is/are correct?
-
-A. 2 and 3
-B. Only 1
-C. 1 and 2
-D. Only 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (All 1, 2 and 3 are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q8</span>
+    <span class="pyq-badge">UPPCS Prelims 2020</span>
+  </div>
+  <div class="pyq-stem">With reference to the Battle of Khanwa (1527), consider Cause–Course–Result:<br><br>1. Cause: Rana Sanga led a Rajput confederacy after Panipat.<br>2. Course: Babur again used artillery and cart-fort methods.<br>3. Result: The early Rajput challenge to Mughal power in the Agra–Delhi core was broken.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2 and 3</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">C</span> 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1, 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (All 1, 2 and 3 are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct (Cause):** Following Babur's victory at Panipat, Maharana Sanga of Mewar organized a formidable confederacy comprising Rajput rulers (Prithviraj of Amer, Hasan Khan Mewati, Mahmud Lodi) to expel Babur from Hindustan.
@@ -475,80 +430,66 @@ D. Only 1, 2 and 3
 - **Statement 3 is correct (Result):** Rana Sanga was wounded and defeated, permanently breaking the unified Rajput threat to the fledgling Mughal power in the Agra-Delhi plains; Babur assumed the title **Ghazi**.
 
 **Key Exam Takeaway / Trap:**
-- *Khanwa Protagonists:* Khanwa (1527 CE) is **Babur vs Rana Sanga**; never confuse Rana Sanga with Maharana Pratap (Haldighati, 1576 CE vs Akbar).
+- *Khanwa Protagonists:* Khanwa (1527 CE) is **Babur vs Rana Sanga**; never confuse Rana Sanga with Maharana Pratap (Haldighati, 1576 CE vs Akbar).</div>
+  </div>
+</div>
 
-</details>
-
-**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): Buland Darwaza at Fatehpur Sikri commemorates Akbar’s Gujarat victory of 1572.
-
-Reason (R): It was built to mark the birth of Jahangir.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** ((A) is true, but (R) is false)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q9</span>
+    <span class="pyq-badge">UPPCS (Mains) GS-1</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): Buland Darwaza at Fatehpur Sikri commemorates Akbar’s Gujarat victory of 1572.<br><br>Reason (R): It was built to mark the birth of Jahangir.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** ((A) is true, but (R) is false)
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** The monumental **Buland Darwaza** at Fatehpur Sikri was constructed by Akbar to commemorate his victorious military conquest of Gujarat.
 - **Reason (R) is incorrect:** The gate was built to celebrate the conquest of Gujarat and Khandesh, not to mark the birth of Prince Salim (Jahangir).
 
 **Key Exam Takeaway / Trap:**
-- *Buland Darwaza Purpose:* Always connect Buland Darwaza to **Akbar's Gujarat conquest**; the birth of Jahangir is the standard incorrect distractor.
+- *Buland Darwaza Purpose:* Always connect Buland Darwaza to **Akbar's Gujarat conquest**; the birth of Jahangir is the standard incorrect distractor.</div>
+  </div>
+</div>
 
-</details>
-
-**Q10.** With reference to Bairam Khan, which of the following statements is/are correct?
-
-1. The title was conferred only when he was first appointed Vazir under Humayun.
-2. Akbar conferred on him the title Khan-i-Khana.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (Only 2 is correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q10</span>
+    <span class="pyq-badge">UPPCS Prelims 2019</span>
+  </div>
+  <div class="pyq-stem">With reference to Bairam Khan, which of the following statements is/are correct?<br><br>1. The title was conferred only when he was first appointed Vazir under Humayun.<br>2. Akbar conferred on him the title Khan-i-Khana.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 2</div><div class="pyq-opt"><span class="opt-letter">C</span> Both 1 and 2</div><div class="pyq-opt"><span class="opt-letter">D</span> Neither 1 nor 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (Only 2 is correct)
 
 **Detailed Explanation:**
 - **Statement 1 is incorrect:** Bairam Khan was not granted the title *Khan-i-Khanan* when appointed Vazir under Humayun; it was given by Akbar upon his accession.
 - **Statement 2 is correct:** Upon crowning at Kalanaur in February 1556 CE, Akbar appointed Bairam Khan as his regent (*Ataliq*) and prime minister, granting him the honorific title **Khan-i-Khanan** ("Lord of Lords").
 
 **Key Exam Takeaway / Trap:**
-- *Royal Titles:* Akbar gave Bairam Khan the title **Khan-i-Khanan**, which was later also conferred on Bairam Khan's brilliant son, Abdur Rahim.
+- *Royal Titles:* Akbar gave Bairam Khan the title **Khan-i-Khanan**, which was later also conferred on Bairam Khan's brilliant son, Abdur Rahim.</div>
+  </div>
+</div>
 
-</details>
-
-**Q11.** Consider the following statements about mansabdari:
-
-1. It used dual ranks of zat and sawar.
-2. Jagir lands were assigned to mansabdars, while khalsa was crown land.
-3. Mansabs were hereditary like jagir succession in all cases.
-
-Which of the statements given above is/are correct?
-
-A. Only 3
-B. 1 and 3
-C. Only 1
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **D** (1 and 2 only are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q11</span>
+    <span class="pyq-badge">UP RO/ARO 2016</span>
+  </div>
+  <div class="pyq-stem">Consider the following statements about mansabdari:<br><br>1. It used dual ranks of zat and sawar.<br>2. Jagir lands were assigned to mansabdars, while khalsa was crown land.<br>3. Mansabs were hereditary like jagir succession in all cases.<br><br>Which of the statements given above is/are correct?</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 3</div><div class="pyq-opt"><span class="opt-letter">B</span> 1 and 3</div><div class="pyq-opt"><span class="opt-letter">C</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">D</span> Only 1 and 2</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (D)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **D** (1 and 2 only are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** In 1573–74 CE, Akbar introduced the dual-rank formula: **Zat** (personal status and basic pay) and **Sawar** (cavalry contingent required to maintain).
@@ -556,28 +497,22 @@ D. Only 1 and 2
 - **Statement 3 is incorrect:** Mansabs and jagirs were **strictly non-hereditary**. Upon a noble's death, his jagirs and official properties reverted to the emperor under the law of escheat (*Zabti*).
 
 **Key Exam Takeaway / Trap:**
-- *Non-Hereditary Nature:* Mansabs could never be inherited; appointments and promotions were made exclusively at the personal discretion of the emperor.
+- *Non-Hereditary Nature:* Mansabs could never be inherited; appointments and promotions were made exclusively at the personal discretion of the emperor.</div>
+  </div>
+</div>
 
-</details>
-
-**Q12.** Arrange the following court-related deaths/events in chronological order:
-
-1. Murder of Abul Fazl
-2. Death of Faizi
-3. Death of Sheikh Mubarak
-4. Death of Daniyal
-
-Select the correct answer from the code given below:
-
-A. 2-3-1-4
-B. 3-2-1-4
-C. 3-2-4-1
-D. 3-1-2-4
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3-2-1-4: Sheikh Mubarak → Faizi → Murder of Abul Fazl → Prince Daniyal)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q12</span>
+    <span class="pyq-badge">UPPCS Prelims 2018</span>
+  </div>
+  <div class="pyq-stem">Arrange the following court-related deaths/events in chronological order:<br><br>1. Murder of Abul Fazl<br>2. Death of Faizi<br>3. Death of Sheikh Mubarak<br>4. Death of Daniyal<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 2-3-1-4</div><div class="pyq-opt"><span class="opt-letter">B</span> 3-2-1-4</div><div class="pyq-opt"><span class="opt-letter">C</span> 3-2-4-1</div><div class="pyq-opt"><span class="opt-letter">D</span> 3-1-2-4</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3-2-1-4: Sheikh Mubarak → Faizi → Murder of Abul Fazl → Prince Daniyal)
 
 **Detailed Explanation:**
 - **3. Death of Sheikh Mubarak (1593 CE):** Father of Faizi and Abul Fazl, who formulated the *Mahzar* decree of 1579, died in 1593 CE.
@@ -587,27 +522,22 @@ D. 3-1-2-4
 - **Chronological Sequence:** 3 → 2 → 1 → 4 = **3-2-1-4**.
 
 **Key Exam Takeaway / Trap:**
-- *Sequence Landmark:* Mubarak (1593) → Faizi (1595) → Abul Fazl (1602) → Daniyal (1604).
+- *Sequence Landmark:* Mubarak (1593) → Faizi (1595) → Abul Fazl (1602) → Daniyal (1604).</div>
+  </div>
+</div>
 
-</details>
-
-**Q13.** With reference to Aurangzeb’s war of succession, which of the following statements is/are correct?
-
-1. At Dharmat (April 1658) Aurangzeb defeated Jaswant Singh.
-2. At Samugarh (May 1658) Aurangzeb defeated Dara Shikoh.
-3. Deorai (1659) closed the succession struggle.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-B. Only 1 and 2
-C. All 1, 2 and 3
-D. 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **C** (All 1, 2 and 3 are correct)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q13</span>
+    <span class="pyq-badge">UPPCS (Pre) 2017</span>
+  </div>
+  <div class="pyq-stem">With reference to Aurangzeb’s war of succession, which of the following statements is/are correct?<br><br>1. At Dharmat (April 1658) Aurangzeb defeated Jaswant Singh.<br>2. At Samugarh (May 1658) Aurangzeb defeated Dara Shikoh.<br>3. Deorai (1659) closed the succession struggle.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Only 1</div><div class="pyq-opt"><span class="opt-letter">B</span> Only 1 and 2</div><div class="pyq-opt"><span class="opt-letter">C</span> All 1, 2 and 3</div><div class="pyq-opt"><span class="opt-letter">D</span> 2 and 3</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (C)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **C** (All 1, 2 and 3 are correct)
 
 **Detailed Explanation:**
 - **Statement 1 is correct:** In the Battle of Dharmat (15 April 1658 CE, near Ujjain), Aurangzeb and Murad routed Maharaja Jaswant Singh of Marwar.
@@ -615,27 +545,22 @@ D. 2 and 3
 - **Statement 3 is correct:** The Battle of Deorai (March 1659 CE, near Ajmer) was the final battlefield engagement where Dara Shikoh was defeated for the last time.
 
 **Key Exam Takeaway / Trap:**
-- *Succession Steps:* Dharmat (April 1658) → Samugarh (May 1658) → Deorai (March 1659).
+- *Succession Steps:* Dharmat (April 1658) → Samugarh (May 1658) → Deorai (March 1659).</div>
+  </div>
+</div>
 
-</details>
-
-**Q14.** Which of the following pairs is/are NOT correctly matched?
-
-1. Alam Khan — Ibrahim Lodi’s uncle and throne pretender
-2. Daulat Khan — Punjab governor who invited Babur
-3. Padshah title of Babur — first taken only after Panipat 1526
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 3 only
-C. 2 and 3 only
-D. 1 only
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **B** (3 only is NOT correctly matched)
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q14</span>
+    <span class="pyq-badge">UPPCS (Pre) 2016</span>
+  </div>
+  <div class="pyq-stem">Which of the following pairs is/are NOT correctly matched?<br><br>1. Alam Khan — Ibrahim Lodi’s uncle and throne pretender<br>2. Daulat Khan — Punjab governor who invited Babur<br>3. Padshah title of Babur — first taken only after Panipat 1526<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> 1 and 2 only</div><div class="pyq-opt"><span class="opt-letter">B</span> 3 only</div><div class="pyq-opt"><span class="opt-letter">C</span> 2 and 3 only</div><div class="pyq-opt"><span class="opt-letter">D</span> 1 only</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (B)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **B** (3 only is NOT correctly matched)
 
 **Detailed Explanation:**
 - **Pair 1 is correctly matched:** Alam Khan Lodi was Ibrahim Lodi's uncle who claimed the throne of Delhi and sought Babur's assistance.
@@ -643,27 +568,22 @@ D. 1 only
 - **Pair 3 is NOT correctly matched (Correct Answer):** Babur adopted the grand imperial title of **Padshah** (Badshah) in **1507 CE at Kabul**, long before the First Battle of Panipat (1526 CE), discarding the traditional Timurid title *Mirza*.
 
 **Key Exam Takeaway / Trap:**
-- *Padshah Title Year:* Babur assumed the title **Padshah** in **1507 CE** at Kabul, not after the Battle of Panipat.
+- *Padshah Title Year:* Babur assumed the title **Padshah** in **1507 CE** at Kabul, not after the Battle of Panipat.</div>
+  </div>
+</div>
 
-</details>
-
-**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
-
-Assertion (A): At the Second Battle of Panipat (1556), Akbar and Bairam Khan defeated Hemu.
-
-Reason (R): Victory at Second Panipat secured the young Akbar’s throne after Humayun’s death.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A))
+<div class="pyq-card">
+  <div class="pyq-header">
+    <span class="pyq-num">Q15</span>
+    <span class="pyq-badge">UP RO/ARO 2014</span>
+  </div>
+  <div class="pyq-stem">Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).<br><br>Assertion (A): At the Second Battle of Panipat (1556), Akbar and Bairam Khan defeated Hemu.<br><br>Reason (R): Victory at Second Panipat secured the young Akbar’s throne after Humayun’s death.<br><br>Select the correct answer from the code given below:</div>
+  <div class="pyq-options">
+    <div class="pyq-opt"><span class="opt-letter">A</span> Both (A) and (R) are true, but (R) is not the correct explanation of (A)</div><div class="pyq-opt"><span class="opt-letter">B</span> (A) is false, but (R) is true</div><div class="pyq-opt"><span class="opt-letter">C</span> (A) is true, but (R) is false</div><div class="pyq-opt"><span class="opt-letter">D</span> Both (A) and (R) are true and (R) is the correct explanation of (A)</div>
+  </div>
+  <div class="pyq-ans-box">
+    <span class="ans-tag">Correct Answer: (A)</span>
+    <div class="ans-expl"><strong>Core Memory Fact:</strong> Correct Answer:** **A** (Both (A) and (R) are true, but (R) is not the correct explanation of (A))
 
 **Detailed Explanation:**
 - **Assertion (A) is correct:** On 5 November 1556 CE, the Mughal army under Akbar's regent Bairam Khan clashed with Hemu (Hemchandra Vikramaditya) at Panipat; an arrow pierced Hemu's eye, turning the tide of battle in favor of the Mughals.
@@ -671,6 +591,6 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 - **Why (R) does NOT explain (A):** Securing the throne was the historical **consequence / aftermath** of the victory, not the **cause** of why the Mughals defeated Hemu on the battlefield. Both statements are true facts, but Reason (R) does not explain Assertion (A).
 
 **Key Exam Takeaway / Trap:**
-- *Second Panipat Importance:* Preserved the Mughal dynasty in India; ended Hemu's brief reign as Vikramaditya.
-
-</details>
+- *Second Panipat Importance:* Preserved the Mughal dynasty in India; ended Hemu's brief reign as Vikramaditya.</div>
+  </div>
+</div>
